@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2023-12-01"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -657,9 +657,9 @@ El Poder Legislativo del Estado por mayoría calificada del Pleno y a solicitud 
 
 ARTICULO 40 BIS.- Las Unidades Auxiliares del Congreso del Estado, como órganos Técnicos y Administrativos, son áreas a las que les corresponden tareas de apoyo al órgano de gobierno y a las Comisiones, para el cumplimiento de sus atribuciones constitucionales y legales.
 
-> <small>(ADICIONADO [N. DE E. ANTES ARTÍCULO 40 BIS], P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-ARTICULO 40 TER.- El Órgano de Fiscalización Superior del Estado, es el órgano del Congreso del Estado con autonomía técnica y de gestión en el ejercicio de sus atribuciones para decidir sobre su organización interna, recursos, funcionamiento y resoluciones. Contará con las atribuciones y obligaciones que establecen la Constitución Local y la Ley de la materia.
+ARTICULO 40 TER.- La Auditoría Superior del Estado de Baja California, es el órgano del Congreso del Estado con autonomía técnica y de gestión en el ejercicio de sus atribuciones para decidir sobre su organización interna, recursos, funcionamiento y resoluciones. Contará con las atribuciones y obligaciones que establecen la Constitución Local y la Ley de la materia.
 
 ### CAPITULO II. DE LA ORGANIZACIÓN DEL CONGRESO Y SUS FUNCIONES
 
@@ -1229,17 +1229,17 @@ Corresponde a la Comisión de Administración y Finanzas, el conocimiento, estud
 
 I.- Poner a la consideración de la Comisión de Gobernación, Legislación y Puntos Constitucionales, las políticas, manuales de organización y funciones de los Órganos Técnicos y Administrativos señalados en el artículo 40 de esta Ley, así como las relativas a dicha Comisión, para incorporarse a los Reglamentos de la presente Ley;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-II.- Elaborar el anteproyecto de Presupuesto Anual de Egresos del Poder Legislativo, con base en los montos, metas y programas que hubieren formulado los Órganos Técnicos y Administrativos señalados en el artículo 40 de esta Ley y el Órgano de Fiscalización Superior y, ponerlo a la consideración de la Junta de Coordinación Política para los fines previstos en esta Ley;
+II.- Elaborar el anteproyecto de Presupuesto Anual de Egresos del Poder Legislativo, con base en los montos, metas y programas que hubieren formulado los Órganos Técnicos y Administrativos señalados en el artículo 40 de esta Ley y la Auditoría Superior del Estado de Baja California y, ponerlo a la consideración de la Junta de Coordinación Política para los fines previstos en esta Ley;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-III.- Solicitar opinión a las Comisiones cuya actividad y funciones se encuentren relacionadas con los servicios que prestan los Órganos Técnicos y Administrativos o el Órgano de Fiscalización Superior, con relación a las necesidades presupuestales planteadas por dichos Órganos;
+III.- Solicitar opinión a las Comisiones cuya actividad y funciones se encuentren relacionadas con los servicios que prestan los Órganos Técnicos y Administrativos o la Auditoría Superior del Estado de Baja California, con relación a las necesidades presupuestales planteadas por dichos Órganos;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-IV.- Someter a la consideración de la Junta de Coordinación Política, el anteproyecto de Presupuesto Anual de Egresos del Poder Legislativo, cuidando que el monto del presupuesto que se proponga sea suficiente para que cada uno de los Órganos Técnicos y Administrativos del Congreso y el Órgano de Fiscalización Superior, cumplan eficientemente con sus atribuciones y funciones legales, reglamentarias y programáticas;
+IV.- Someter a la consideración de la Junta de Coordinación Política, el anteproyecto de Presupuesto Anual de Egresos del Poder Legislativo, cuidando que el monto del presupuesto que se proponga sea suficiente para que cada uno de los Órganos Técnicos y Administrativos del Congreso y la Auditoría Superior del Estado de Baja California, cumplan eficientemente con sus atribuciones y funciones legales, reglamentarias y programáticas;
 
 > <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
@@ -3250,3 +3250,11 @@ P.O. 1 DE DICIEMBRE DE 2023.
 PRIMERO. La presente reforma entrará en vigor al momento de su aprobación en el Pleno de esta Soberanía.
 
 SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria y en el Periódico Oficial del Estado, para los efectos legales conducentes.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 331 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 40 TER Y 67 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO. La presente reforma entrará en vigor al momento de su aprobación por el Pleno de esta Soberanía.
+
+SEGUNDO. Publíquese la presente reforma en el Periódico Oficial del Estado, para los efectos legales conducentes.
