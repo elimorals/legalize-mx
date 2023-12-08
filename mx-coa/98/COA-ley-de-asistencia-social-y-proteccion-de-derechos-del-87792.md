@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asistencia-social-y-proteccion-de-derechos-del-87792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-27"
-last_updated: "2023-05-23"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 27 de abril de 2012.
 
@@ -205,6 +205,10 @@ c) En situación de explotación, incluyendo la sexual.
 
 d) Jefas de Familia.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+e).- En estado de vulnerabilidad por razón de edad, situación económica, discapacidad, o bien sufran algún tipo de violencia de los señalados en el artículo 8 de la ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Coahuila de Zaragoza,o (sic) que no puedan valerse por sí mismas.
+
 > <small>(ADICIONADA, P.O. 24 DE ENERO DE 2017)</small>
 
 III. Los hombres:
@@ -253,9 +257,13 @@ XIV. Personas que por su extrema ignorancia requieran de los servicios de asiste
 
 XV. Las personas con VIH-SIDA; y
 
-(REUBICADA, P.O. 24 DE SEPTIEMBRE DE 2019)
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-XVI. Las demás personas consideradas en otras disposiciones jurídicas aplicables.
+XVI. Personas con padecimientos crónicos u oncológicos, cuya situación económica y de salud no le (sic) permita valerse por sí misma (sic).
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+XVII. Las demás personas consideradas en otras disposiciones jurídicasaplicables (sic).
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
@@ -1564,3 +1572,9 @@ P.O. 23 DE MAYO DE 2023.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 561.- SE REFORMAN LA FRACCIÓN II, ADICIONANDO UN INCISO E), ASÍ COMO LA FRACCIÓN XVI, RECORRIENDO LAS SUBSECUENTES, TODAS DEL ARTÍCULO 6 DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicaciónen (sic) el Periódico Oficial del Gobierno del Estado.
