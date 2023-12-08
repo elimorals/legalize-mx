@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-impulso-emprendedor-del-estado-de-coahuila-de-10481
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-30"
-last_updated: "2021-01-29"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL IMPULSO EMPRENDEDOR DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, al martes 30 de diciembre de 2014.
 
@@ -659,7 +659,9 @@ c) Los términos de referencia de los proyectos y la forma de aplicación de apo
 
 Artículo 28 bis.- En la aplicación del Fondo Estatal se deben considerar y razonar las decisiones de los apoyos en base a los siguientes criterios:
 
-I. Promover una mayor participación de las mujeres y jóvenes en el desarrollo económico del Estado;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+I. Promover una mayor participación de las mujeres, jóvenes y personas con discapacidad en el desarrollo económico del Estado;
 
 II. Contribuir a la creación, fortalecimiento, desarrollo, consolidación, viabilidad, productividad y sustentabilidad de las micro, pequeñas y medianas empresas a través de la mejora de sus procesos;
 
@@ -667,7 +669,9 @@ III. Promover, capacitar y difundir los programas, instrumentos, productos, herr
 
 IV. Fomentar el acceso al financiamiento de las micro, pequeñas y medianas empresas;
 
-V. Facilitar y fomentar la constitución de incubadoras de empresas, aceleradoras de negocios, empresas de reciente creación y formación de emprendedores, mediante la implementación de programas de apoyo dirigidos a mujeres jefas de familia y jóvenes;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+V. Facilitar y fomentar la constitución de incubadoras de empresas, aceleradoras de negocios, empresas de reciente creación y formación de emprendedores, mediante la implementación de programas de apoyo dirigidos a mujeres jefas de familia, jóvenes y personas con discapacidad;
 
 VI. Facilitar y fomentar la integración de las micro, pequeña (sic) y medianas empresas a las cadenas globales de valor;
 
@@ -676,6 +680,10 @@ VII. Promover la investigación y el desarrollo de tecnología en las micro, peq
 VIII. Fomentar la generación de empleos en las micro, pequeñas y medianas empresas del Estado; y
 
 IX. Apoyar a las incubadoras, aceleradoras y talleres especializados a través de mecanismos para vincular a las micro, pequeñas y medianas empresas con las universidades, así como los centros de investigación científicos y tecnológicos del Estado.
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+X. Promover la generación de proyectos específicamente dirigidos a la mejora de la calidad de vida de las personas con discapacidad.
 
 > <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
@@ -824,3 +832,11 @@ P.O. 29 DE ENERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 882.- SE REFORMA: LA FRACCIÓN I DEL ARTÍCULO 5°, LA FRACCIÓN II DEL ARTÍCULO 7°, LA FRACCIÓN III Y EL INCISO B) DE LA FRACCIÓN IV Y LOS INCISOS E) Y F) DEL ARTÍCULO 8, EL PRIMER PÁRRAFO DEL ARTÍCULO 13, LA DENOMINACIÓN DEL CAPÍTULO IV, EL PRIMER PÁRRAFO DEL ARTÍCULO 21 Y LAS FRACCIONES XIII Y XIV AL ARTÍCULO 21; EL ARTÍCULO 30; SE ADICIONA: LOS INCISOS G) Y H) DE LA FRACCIÓN IV DEL ARTÍCULO 8, DE LA LEY PARA EL IMPULSO EMPRENDEDOR DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 573.- SE REFORMA LA FRACCIÓN I Y V, Y SE ADICIONA LA FRACCIÓN X DEL ARTÍCULO 28 BIS DE LA LEY PARA EL IMPULSO EMPRENDEDOR DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presentedecreto (sic).
