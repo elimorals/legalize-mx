@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2023-12-07"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -542,6 +542,42 @@ Es derecho de todo paciente recibir atención médica de emergencia por personal
 > <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2018)</small>
 
 ARTÍCULO 17 A. La mujer embarazada con signos de parto o en cualquier etapa de la gestación que se encuentre y que requiera atención médica de urgencia, debe recibirla de manera prioritaria, inmediata e impostergable, por las instituciones que presten servicios de salud, privilegiando siempre la vida de la madre y de su hijo, sin que medie requerimiento económico como condicionante.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS INCISOS], P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+Durante el embarazo, puerperio o postparto, trabajo de parto y en la atención a la persona recién nacida, es obligación y responsabilidad del personal de salud de los establecimientos públicos y privados lo siguiente:
+
+a) Informar a la paciente y a las personas que la acompañan, sobre las distintas intervenciones médicas que pudieren tener lugar durante esos procesos de manera que pueda elegir libremente cuando existan alternativas;
+
+b) Tratar a la paciente con respeto, de modo individual y personalizado, de tal manera que se le garantice la intimidad durante todo el proceso asistencial y se tenga en consideración sus pautas culturales;
+
+c) Facilitar la participación de la paciente como protagonista de su propio parto;
+
+d) Priorizar el parto natural y respetar los tiempos biológicos y psicológicos de la paciente, evitando prácticas invasivas y suministro de medicación que no estén justificados por el estado de salud de la parturienta o de la persona por nacer;
+
+e) Informar a la paciente sobre la evolución de su parto, el estado de su hijo o hija y, en general, hacerla partícipe de las diferentes actuaciones de los profesionales;
+
+f) No someter a la paciente a ningún examen o intervención cuyo propósito sea de investigación, salvo consentimiento manifestado por escrito bajo protocolo aprobado;
+
+g) Realizar lo conducente para que una persona de la confianza de la paciente la acompañe durante el trabajo de parto y postparto;
+
+h) Realizar lo conducente para que la paciente tenga a su lado a su hijo o hija durante la permanencia en el establecimiento sanitario desde los primeros minutos de nacido, siempre que el recién nacido no requiera de cuidados especiales;
+
+i) Informar a la paciente, desde el embarazo, sobre los beneficios de la lactancia materna y brindarle apoyo para amamantar;
+
+j) Brindar asesoramiento e información a la paciente sobre los cuidados de sí misma y del niño o niña;
+
+k) Informar a la paciente específicamente sobre los efectos adversos del tabaco, el alcohol y las drogas sobre el niño o niña y sobre ella misma;
+
+l) Tratar a la paciente en forma respetuosa y digna, incluyendo su inequívoca identificación y la de la persona recién nacida; y,
+
+m) Brindar asesoramiento en caso de presentar datos de depresión o cualquier otro trastorno en relación a la salud mental durante el embarazo, parto y puerperio o postparto.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+En todo establecimiento se deben aplicar las normas y procedimientos para la atención del parto respetado y favorecer la seguridad emocional de la mujer, así como su bienestar durante todo el proceso. En especial, se debe propiciar la conducción no medicalizada del trabajo de parto y el parto fisiológico, siempre que no exista contraindicación médica u obstétrica. Lo anterior, para reducir el índice de cesáreas, morbimortalidad y el riesgo de complicaciones a largo plazo.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 Las omisiones a lo anterior, serán sancionadas en los términos que establezcan las leyes de la materia.
 
@@ -3061,7 +3097,7 @@ P.O. 21 DE ABRIL DE 2023.
 
 P.O. 26 DE JUNIO DE 2023.
 
-## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 371 POR EL QUE “SE REFORMAN LAS FRACCIONES VIII Y IX Y SE ADICIONA UNA FRACCIÓN X AL INCISO A) DEL ARTÍCULO 21; Y SE ADICIONA UN ARTÍCULO 31 TER A LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 371 POR EL QUE "SE REFORMAN LAS FRACCIONES VIII Y IX Y SE ADICIONA UNA FRACCIÓN X AL INCISO A) DEL ARTÍCULO 21; Y SE ADICIONA UN ARTÍCULO 31 TER A LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
@@ -3132,6 +3168,14 @@ Segundo. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 P.O. 7 DE DICIEMBRE DE 2023.
 
 > <small>[N. DE E. DECRETO NÚMERO 470 POR EL QUE "SE ADICIONA AL TÍTULO TERCERO «SALUBRIDAD LOCAL», EL CAPÍTULO XXIV «TRANSFUSIÓN SANGUÍNEA» Y EL ARTÍCULO 177 BIS, A LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]</small>
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE “SE REFORMA EL SEGUNDO PÁRRAFO Y SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 17 A DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
