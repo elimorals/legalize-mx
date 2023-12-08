@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-1212-de-salud-del-estado-de-guerrero-92167"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-04"
-last_updated: "2017-12-29"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el martes 4 de diciembre de 2012.
 
@@ -447,7 +447,11 @@ XVII. Verificar y controlar el funcionamiento sanitario de los establecimientos 
 
 XVIII. Prestar atención especializada a los senescentes;
 
-XIX. Las demás que establezcan la Ley General de Salud y otras disposiciones legales aplicables;
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+XIX. Prevención, detección y tratamiento del cáncer de mama;
+
+XX. Las demás que establezcan la Ley General de Salud y otras disposiciones legales aplicables;
 
 B).- En materia de salubridad local, vigilar y procurar condiciones adecuadas de saneamiento en:
 
@@ -3148,3 +3152,13 @@ TERCERO. El Centro de Trasplantes del Estado de Guerrero operará en los términ
 CUARTO. Los asuntos que se encuentren en trámite en el Consejo Estatal de Trasplantes del Estado de Guerrero, a la entrada en vigor del presente Decreto, serán atendidos por la Centro de Trasplantes del Estado de Guerrero, hasta su conclusión.
 
 QUINTO. El Centro de Trasplantes del Estado de Guerrero buscará los mecanismos ante las autoridades competentes para la ratificación de los acuerdos, convenios y demás disposiciones en materia de donación, procuración y trasplantes de órganos, tejidos y células, celebrados, previo al Decreto que lo crea, con los Ejecutivos Federal y Estatal y los Municipios de la Entidad, a fin de continuar con las acciones que de ellos emanen.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 483 POR EL QUE SE QUE (SIC) SE ADICIONA LA FRACCIÓN XIX DEL ARTÍCULO 19, DE LA LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO Y SE REFORMA EL ARTÍCULO 9, FRACCIÓN X; ARTÍCULO 20 FRACCIÓN XI; ARTÍCULO 25, PÁRRAFO CUARTO Y ARTÍCULO 38 DE LA LEY NÚMERO 260 PARA LA PREVENCIÓN Y ATENCIÓN DEL CANCER DE MAMA EN EL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
