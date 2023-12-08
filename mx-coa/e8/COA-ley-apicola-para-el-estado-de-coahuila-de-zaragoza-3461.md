@@ -4,7 +4,7 @@ identifier: "COA-ley-apicola-para-el-estado-de-coahuila-de-zaragoza-3461"
 country: "mx"
 rank: "ley"
 publication_date: "1993-08-31"
-last_updated: "2023-01-03"
+last_updated: "2023-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY APICOLA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY APÍCOLA Y DE PROTECCIÓN A LAS ABEJAS COMO AGENTES POLINIZADORES PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 8 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY APÍCOLA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023 (ABROGADA).
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Coahuila, el martes 31 de agosto de 1993.
 
@@ -580,3 +582,19 @@ P.O. 3 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 305.- SE ADICIONAN 8 PÁRRAFOS AL ARTÍCULO 3 DE LA LEY APÍCOLA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 564.- SE EXPIDE LA LEY APÍCOLA Y DE PROTECCIÓN A LAS ABEJAS COMO AGENTES POLINIZADORES PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo no mayor de noventa días naturales a partir de la entrada en vigor de este Decreto, la Secretaría deberá expedir el reglamento con las medidas sanitarias y mercantiles para evitar la venta de falsificadores de productos y sus derivados de la miel de abeja.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley Apícola para el Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza con número de Decreto 306, el 31 de agosto de 1993.
