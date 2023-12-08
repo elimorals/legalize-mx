@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-hidrocarburos-137
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-06-27"
-last_updated: "2022-04-06"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137053&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-05-31"
 
 REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE HIDROCARBUROS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE DICIEMBRE DE 2023.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de junio de 2019.
 
@@ -405,7 +405,17 @@ e) Aprobar las reglas generales para la organización y funcionamiento de los Co
 
 f) Proponer a la Consejería Jurídica del Ejecutivo Federal las actualizaciones al marco jurídico, en el ámbito de su competencia, así como designar a los servidores públicos de la Comisión, cuando sea el caso, para participar con las dependencias competentes en la formulación de los proyectos de iniciativas de leyes, decretos, disposiciones reglamentarias y normas oficiales mexicanas relativas o relacionadas con las actividades reguladas;
 
-VI. Consolidar anualmente la información nacional de las reservas de hidrocarburos;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE DICIEMBRE DE 2023)</small>
+
+VI. En materia de reservas de hidrocarburos:
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2023)</small>
+
+a) Resolver respecto a la incorporación de reservas que no cuenten con un informe de evaluación y la declaración de descubrimiento comercial, conforme a lo dispuesto en la normativa en materia de cuantificación y certificación de reservas, y
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2023)</small>
+
+b) Consolidar anualmente la información nacional de las reservas de hidrocarburos.
 
 VII. En materia de supervisión:
 
@@ -461,6 +471,14 @@ XI. Las demás que sean necesarias para el ejercicio de sus funciones o establez
 
 El Órgano de Gobierno podrá conocer y, en su caso, resolver sobre cualquier asunto cuyo trámite, instrumentación o conducción esté conferido a cualquier Unidad Administrativa o servidor público de la Comisión en términos de la Ley y otras disposiciones aplicables.
 
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2023)</small>
+
+Asimismo, podrá conocer y resolver, en casos excepcionales, los asuntos que requieran la adopción de medidas de emergencia que someta a su consideración el Comisionado Presidente.
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2023)</small>
+
+La adopción de medidas de emergencia se regirá bajo las bases establecidas en el artículo 39 de la Ley.
+
 Para la mejor organización del trabajo, el Órgano de Gobierno podrá, sin perjuicio del ejercicio directo de sus atribuciones, instruir y delegar en servidores públicos de la Comisión, en términos del presente Reglamento Interno o mediante acuerdos que, en su caso, deberán ser publicados en el Diario Oficial de la Federación.
 
 ### Capítulo II. Comisionado Presidente
@@ -491,7 +509,9 @@ c) Supervisar la información relacionada con los programas y actividades de la 
 
 VIII. Coordinar la formulación del anteproyecto de presupuesto de la Comisión, observando la Normativa Aplicable;
 
-IX. Adoptar, en casos excepcionales, las medidas de emergencia y de seguridad que estime necesarias respecto de las actividades reguladas y, en su caso, solicitar la intervención de las autoridades competentes, informando al Órgano de Gobierno respecto de las medidas tomadas en la sesión inmediata posterior a que ocurra la emergencia;
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2023)</small>
+
+IX. En casos excepcionales, adoptar o someter al Órgano de Gobierno, las medidas de emergencia y de seguridad que estime necesarias respecto de las actividades reguladas y, en su caso, solicitar la intervención de las autoridades competentes, informando al Órgano de Gobierno respecto de las medidas tomadas en la sesión inmediata posterior a que ocurra la emergencia;
 
 X. Suscribir los Contratos previstos en la Ley de Hidrocarburos;
 
@@ -669,7 +689,17 @@ IV. Solicitar a los regulados, siempre con el visto bueno de la Unidad Jurídica
 
 V. Informar al Órgano de Gobierno, al Comisionado Presidente y al Titular de la Secretaría Ejecutiva el estado que guardan los asuntos bajo su responsabilidad, cuando sean requeridos para ello;
 
-VI. Acordar con el Comisionado Presidente sobre los asuntos de su competencia, así como informar de sus actividades y documentos que emita o suscriba;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE DICIEMBRE DE 2023)</small>
+
+VI. Acordar con el Comisionado Presidente sobre los Asuntos de su competencia, así como informar de aquellos Asuntos que, en casos excepcionales, requieran la adopción de medidas de emergencia.
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2023)</small>
+
+En el supuesto previsto en el párrafo anterior se deberá documentar e informar al Órgano de Gobierno de forma pormenorizada las causas y las acciones tomadas;
+
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2023)</small>
+
+VI Bis. Informar al Comisionado Presidente de sus actividades y documentos que emita o suscriba;
 
 VII. Rendir un informe anual de las actividades realizadas por la unidad a su cargo;
 
@@ -714,6 +744,20 @@ I. Fungir como coordinador del control interno de la Comisión;
 II. Fungir como responsable oficial de mejora regulatoria de la Comisión en términos de la Normativa Aplicable, y
 
 III. Gestionar la inscripción y actualización de los servidores públicos autorizados para realizar visitas de verificación e inspección y demás información que se deba inscribir en el Registro Nacional de Visitas Domiciliarias a que hace referencia la Ley General de Mejora Regulatoria.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O.F. 8 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 22 Bis.
+
+Facultades específicas de la Unidad Técnica de Exploración y su Supervisión y la Unidad Técnica de Extracción y su Supervisión. Sin perjuicio de otras facultades establecidas en el presente Reglamento Interno y demás Normativa Aplicable, el Titular de la Unidad Técnica de Exploración y su Supervisión y el Titular de la Unidad Técnica de Extracción y su Supervisión tendrán las facultades siguientes:
+
+I. Resolver y en su caso emitir las autorizaciones de perforación de pozos exploratorios o de desarrollo, según corresponda, que hayan caducado;
+
+II. Pronunciarse respecto a las solicitudes de renovación de las autorizaciones de perforación de pozos exploratorios o desarrollo, según corresponda;
+
+III. Pronunciarse respecto a las solicitudes de prórroga de las autorizaciones de perforación de pozos exploratorios o desarrollo, según corresponda, y
+
+IV. Dar seguimiento a los programas de capacitación y transferencia de tecnología, de conformidad con las facultades y atribuciones que le correspondan.
 
 > <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
 
@@ -1125,7 +1169,9 @@ Facultades de la Dirección General de Autorizaciones de Exploración. La Direcc
 
 I. Proporcionar los elementos técnicos y proponer el proyecto al Órgano de Gobierno para lo siguiente:
 
-a) La emisión de las autorizaciones respecto de la perforación de pozos;
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2023)</small>
+
+a) La emisión de las autorizaciones respecto de la perforación de pozos exploratorios;
 
 b) La emisión de autorizaciones correspondientes a las actividades de Reconocimiento y Exploración Superficial;
 
@@ -1133,7 +1179,17 @@ c) La autorización para el no ejercicio de derechos conferidos en las autorizac
 
 d) El inicio y resolución respecto de la revocación de autorizaciones.
 
-II. Dar seguimiento y verificar el cumplimiento de la Normativa Aplicable en el ámbito de su competencia y de las obligaciones de los Autorizados, en materia de perforación de pozos, Reconocimiento y Exploración Superficial y demás actividades en materia de Exploración de su competencia;
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2023)</small>
+
+I Bis. Proporcionar a su Titular de Unidad los elementos técnicos y el proyecto de autorización de perforación de pozos exploratorios que hayan caducado;
+
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2023)</small>
+
+I Ter. Proporcionar a su Titular de Unidad los elementos técnicos para el pronunciamiento de las solicitudes de prórroga o renovación de las autorizaciones de perforación de pozos exploratorios;
+
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2023)</small>
+
+II. Dar seguimiento y verificar el cumplimiento de la Normativa Aplicable en el ámbito de su competencia y de las obligaciones de los Autorizados, en materia de perforación de pozos exploratorios, Reconocimiento y Exploración Superficial y demás actividades en materia de Exploración de su competencia;
 
 III. Supervisar que las disposiciones y lineamientos emitidas por la Comisión sean atendidas por los operadores petroleros para mejorar el desempeño de las áreas de Exploración de Hidrocarburos del país;
 
@@ -1245,6 +1301,18 @@ XII. Coordinar investigaciones y estudios para la identificación y propuesta de
 
 XIII. Supervisar que las disposiciones y lineamientos emitidas por la Comisión sean atendidas por los operadores para mejorar el desempeño de los campos en Extracción de Hidrocarburos del país;
 
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2023)</small>
+
+XIII Bis. Proporcionar los elementos técnicos y proponer al Órgano de Gobierno el proyecto para la emisión de las autorizaciones respecto de la perforación de pozos tipo modelo de diseño y de desarrollo para la extracción en aguas profundas y ultra profundas;
+
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2023)</small>
+
+XIII Ter. Proporcionar a su Titular de Unidad los elementos técnicos y el proyecto de autorización respecto de la perforación de pozos de desarrollo caducados;
+
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2023)</small>
+
+XIII Quáter. Proporcionar a su Titular de Unidad los elementos técnicos para el pronunciamiento de las solicitudes de prórroga o renovación de las autorizaciones de perforación de pozos de desarrollo;
+
 XIV. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
@@ -1270,6 +1338,10 @@ III. Proponer al Órgano de Gobierno opiniones técnicas relativas a la extracci
 IV. Proponer al Órgano de Gobierno el dictamen de unificación de campos o yacimientos de Extracción que al efecto solicite la Secretaría;
 
 V. Realizar reportes de cuantificación de Reservas de Hidrocarburos del país, derivado de información de los Asignatarios y Contratistas;
+
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2023)</small>
+
+V Bis. Proponer al Órgano de Gobierno, la resolución respecto de la incorporación de reservas que no cuenten con un informe de evaluación y la declaración de descubrimiento comercial;
 
 VI. Realizar la estimación de las cifras de los recursos contingentes de la Nación;
 
@@ -1338,6 +1410,10 @@ XV. Proponer al Órgano de Gobierno la opinión técnica de la medición y comer
 XVI. Elaborar los reportes requeridos en materia de los sistemas de medición y de supervisión;
 
 XVII. Difundir y remitir a las Unidades Administrativas y a las autoridades competentes la información de Volumen de Hidrocarburos Comercializados y tarifas de comercialización, y
+
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2023)</small>
+
+XVII Bis. Emitir opinión técnica sobre el programa de aprovechamiento de gas natural, así como su seguimiento.
 
 XVIII. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
 
@@ -1487,7 +1563,13 @@ Facultades de la Dirección General de Prospectiva y Evaluación Económica. La 
 
 I. Proponer, desarrollar y coordinar la publicación de estudios económicos y de análisis relacionados con el sector de Exploración y Extracción de Hidrocarburos, en coordinación con las Unidades Administrativas competentes;
 
-II. Elaborar y proponer a las Unidades Administrativas competentes, las opiniones respecto de la evaluación económica y los programas de inversiones de los planes de Exploración y de desarrollo para la Extracción, para la integración de los dictámenes técnicos respectivos o la resolución, según corresponda;
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2023)</small>
+
+II. Elaborar y proponer a las Unidades Administrativas competentes, las opiniones respecto de la evaluación económica y los programas del costo total asociado a los planes y programas, para la integración de los dictámenes técnicos respectivos o la resolución, según corresponda;
+
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2023)</small>
+
+II Bis. Elaborar y proponer a las Unidades Administrativas competentes, las opiniones respecto de los informes de evaluación e informes de evaluación inicial que requieran aprobación para la integración de la resolución respectiva en el ámbito de su competencia;
 
 III. Elaborar y proponer las opiniones respecto a los presupuestos de los Contratos con recuperación de costos, así como la revisión de los presupuestos indicativos, previo a su registro ante el Fondo Mexicano del Petróleo;
 
@@ -1812,3 +1894,11 @@ D.O.F. 6 DE ABRIL DE 2022.
 PRIMERO. El presente ACUERDO entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Inscribir el presente Acuerdo CNH.E.17.002/2022 en el Registro Público de la Comisión Nacional de Hidrocarburos.
+
+D.O.F. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO CNH.E.22.09/2023 POR EL QUE SE MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE HIDROCARBUROS”.]
+
+PRIMERO. El presente ACUERDO entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Inscríbase el presente Acuerdo CNH.E.22.09/2023 en el Registro Público de la Comisión Nacional de Hidrocarburos.
