@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2023-11-06"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1521,11 +1521,13 @@ Además de las sanciones descritas en el presente artículo, el sujeto activo pe
 
 ### CAPITULO IV. INSTIGACION O AYUDA AL SUICIDIO
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 131.
 
-Tipo y punibilidad.- Al que instigue o ayude a otro para que se prive de la vida, se le impondrá prisión de dos a ocho años, si el suicidio se consumare. Si el suicidio no se consuma, por causas ajenas a la voluntad del que instiga o ayuda, pero se causan lesiones, se le impondrá de uno a seis años de prisión. Si no se causan éstas, la pena será de seis meses a cuatro años de prisión.
+Tipo y punibilidad.- Al que por cualquier medio instigue o ayude a otro para que se prive de la vida, se le impondrá prisión de dos a ocho años, si el suicidio se consumare. Si el suicidio no se consuma, por causas ajenas a la voluntad del que instiga o ayuda, pero se causan lesiones, se le impondrá de uno a seis años de prisión. Si no se causan éstas, la pena será de seis meses a cuatro años de prisión.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 Si la persona a quien se instiga o ayuda al suicidio fuere menor de edad o no tuviere capacidad de comprender la relevancia de su conducta o de determinarse de acuerdo a esa comprensión, la pena aplicable será la correspondiente al homicidio calificado.
 
@@ -3687,7 +3689,7 @@ Se incrementará la pena hasta en una tercera parte, cuando el autor sea o haya 
 
 CORRUPCION DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O QUIENES NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ### CAPITULO II
 
@@ -3717,9 +3719,9 @@ LENOCINIO Y TRATA DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE QUIENES NO
 
 > <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2007)</small>
 
-###### ARTÍCULO 261.
+###### Artículo 261.
 
-Tipo y Punibilidad.- Al que obligue, procure, facilite o induzca la corrupción de una persona menor de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad para resistirlo, induciéndola a la ebriedad, a vivir de la caridad pública sin justificación o a la ludopatía mediante apuestas en juegos de azar o máquinas tragamonedas, así como todo tipo de máquinas y/o medios equiparables que permitan apuestas de dinero a través de vías electrónicas de pago o fichas, se le aplicará de uno a cinco años de prisión y de cien a trescientos días multa.
+Tipo y Punibilidad.- Al que por cualquier medio obligue, procure, facilite, o induzca la corrupción de una persona menor de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad para resistirlo, induciéndola a la ebriedad o a vivir de la caridad pública sin justificación o a la ludopatía mediante apuestas en juegos de azar o máquinas tragamonedas, así como todo tipo de máquinas y/o medios equiparables que permitan apuestas de dinero a través de vías electrónicas de pago o fichas, se le aplicará de uno a cinco años de prisión y de cien a trecientos días de multa.
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2019)</small>
 
@@ -3741,9 +3743,11 @@ Asimismo, comete el delito de corrupción a que se refiere este Capítulo, quien
 
 No se entenderá por corrupción, los programas preventivos, educativos o de cualquier índole que diseñen e impartan las instituciones públicas, privadas o sociales que tengan por objeto la educación sexual, educación sobre función reproductiva, la prevención de enfermedades de transmisión sexual y el embarazo de adolescentes, siempre que estén aprobados por la autoridad competente; las fotografías, video grabaciones, audio grabaciones o las imágenes fijas o en movimiento, impresas, plasmadas o que sean contenidas o reproducidas en medios magnéticos, electrónicos o de otro tipo y que constituyan recuerdos familiares.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-Artículo 261 BIS.- Tipo y punibilidad.- Al que comercie, distribuya, exponga, haga circular u oferte, a personas menores de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad para resistirlo, libros, escritos, grabaciones, filmes, fotografías, anuncios impresos, imágenes u objetos, de carácter pornográfico, reales o simulados, sea de manera física, o a través de cualquier medio, se le impondrá de seis meses a cinco años de prisión y de trescientos a quinientos días multa.
+Artículo 261 BIS.- Tipo y punibilidad.- Al que por cualquier medio comercie, distribuya, exponga, haga circular u oferte, a personas menores de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad para resistirlo, libros, escritos, grabaciones, filmes, fotografías, anuncios impresos, imágenes u objetos, de carácter pornográfico, reales o simulados, sea de manera física, o a través de cualquier medio, se le impondrá de seis meses a cinco años de prisión y de trescientos a quinientos días de multa.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 No se entenderá como material pornográfico o nocivo, aquel que signifique o tenga como fin la divulgación científica, artística o técnica, o en su caso, la educación sexual, educación sobre la función reproductiva, la prevención de enfermedades de transmisión sexual y el embarazo de adolescentes, siempre que estén aprobados por la autoridad competente.
 
@@ -6499,13 +6503,11 @@ P.O. 6 DE NOVIEMBRE DE 2023.
 
 ÚNICO.- EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 1077 POR EL QUE SE ADICIONA LA FRACCIÓN V BIS AL ARTÍCULO 18 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+P.O. 8 DE DICIEMBRE DE 2023.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 336 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, COMO TAMBIÉN LA ADICIÓN DEL NUMERAL 11 QUATER, AL MISMO ORDENAMIENTO, ASÍ MISMO SE APRUEBA LA REFORMA A LOS ARTÍCULOS 131, 261 Y 261 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
 
-SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a este Decreto.
-
-P.O. 17 DE SEPTIEMBRE DE 2024.
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1079 POR EL QUE SE REFORMA EL ARTÍCULO 27 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
