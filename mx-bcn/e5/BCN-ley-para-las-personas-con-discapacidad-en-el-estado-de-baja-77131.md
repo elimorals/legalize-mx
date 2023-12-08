@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-las-personas-con-discapacidad-en-el-estado-de-baja-771
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-15"
-last_updated: "2023-07-28"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 15 de octubre de 2010.
 
@@ -831,6 +831,10 @@ La presente ley reconoce la credencial nacional de discapacidad del Sistema Naci
 
 El Ejecutivo del Estado, debe de contar con un Registro Estatal de Personas con Discapacidad, implementando un Sistema de Información Básica en materia de Asistencia Social, cuyo objetivo será reunir y mantener los antecedentes de las personas con discapacidad del Estado y de los organismos de la sociedad civil, que presten asistencia social a este sector, lo anterior en apego a lo que para tal fin se establece en el Sistema Nacional para el Desarrollo Integral de la Familia.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+En el Registro Estatal anterior deberán ser integrados las y los menores de edad con discapacidad, las y los neonatos en los que se identifique una discapacidad congénita o genética, al momento del nacimiento o como resultado del Tamiz neonatal, incluyendo la correspondiente certificación de discapacidad para garantizar el interés superior de la niñez.
+
 ###### ARTÍCULO 26.
 
 El Registro Estatal de Personas con Discapacidad tendrá las siguientes funciones:
@@ -1532,3 +1536,9 @@ P.O. 28 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 255 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 19, DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 330 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 25 DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
