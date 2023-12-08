@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-e-inclusion-de-las-personas-con-94481"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2023-10-24"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -555,11 +555,11 @@ I. Vigilar la aplicación de la Norma Oficial Mexicana NOM-001 -SSA2- 1993, que 
 
 II. Lograr la accesibilidad universal en la vía pública, en base a las normas internacionales y nacionales en cuanto a su diseño y señalización.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 31°.
 
-Las empresas privadas y oficinas gubernamentales deberán contar con facilidades arquitectónicas para sus trabajadores con alguna discapacidad.
+Las empresas privadas y oficinas gubernamentales deberán contar con facilidades arquitectónicas, ayudas técnicas y ajustes razonables para sus trabajadores con alguna discapacidad.
 
 ###### Artículo 32°.
 
@@ -589,11 +589,11 @@ II. Ampliaciones, reparaciones y reformas de edificios existentes; y,
 
 III. Sanciones por infringir dicha normatividad.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 36°.
 
-Las instancias encargadas de autorizar los proyectos para la construcción, adaptación o remodelación, así como la apertura de espacios destinados a prestar servicios al público, especialmente clínicas, hospitales, hoteles, restaurantes, oficinas públicas, bancos, terminales de pasajeros, plazas comerciales y tiendas de autoservicio, plazas públicas, parques recreativos y unidades deportivas, deberán obligar a que se instalen, según corresponda a la magnitud y clase del proyecto, ventanillas, taquillas, asientos, sanitarios, baños, estacionamientos, elevadores, rampas y salidas de emergencia adaptados a las personas que se desplacen en silla con ruedas y para las personas de talla pequeña, para quienes se deberá contar además con escalones universales fijos y móviles, así como guías o surcos lineales para personas con discapacidad visual.
+Las instancias encargadas de autorizar los proyectos para la construcción, adaptación o remodelación, así? como la apertura, expedición y renovación de licencias o permisos de funcionamiento y operación de espacios y/o establecimientos destinados a prestar servicios al público, especialmente clínicas, hospitales, hoteles, restaurantes, oficinas públicas, bancos, terminales de pasajeros, plazas comerciales y tiendas de autoservicio, plazas públicas, parques recreativos y unidades deportivas, deberán obligar a que se instalen, según corresponda a la magnitud y clase del proyecto, ventanillas, taquillas, asientos, sanitarios, baños, estacionamientos, elevadores, rampas y salidas de emergencia adaptados a las personas que se desplacen en silla con ruedas y para las personas de talla pequeña, para quienes se deberá contar además con escalones universales fijos y/o móviles, así? como guías o surcos lineales para personas con discapacidad visual.
 
 ###### Artículo 37°.
 
@@ -613,9 +613,11 @@ Los restaurantes y cafeterías ofrecerán la comodidad requerida a los usuarios 
 
 Lo anterior, con la finalidad de fomentar la individualidad, dignidad y el libre desarrollo de la personalidad, de aquellas que cuentan con discapacidad visual.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 40°.
 
-Los auditorios, cines, teatros y salas de conciertos, de conferencias y, en general, cualquier recinto en el que se presenten espectáculos públicos deberán contar con espacios reservados y suficientes para personas con discapacidad imposibilitadas para hacer uso de las butacas o asientos con que cuente el recinto y su libre tránsito. Tratándose de auditorios de personas con discapacidad auditiva se reservarán los espacios necesarios a fin de que tengan libre visualización al intérprete.
+Los auditorios, cines, teatros y salas de conciertos, de conferencias y, en general, cualquier recinto en el que se presenten espectáculos públicos deberán contar con espacios reservados y suficientes para personas con discapacidad imposibilitadas para hacer uso de las butacas o asientos con que cuente el recinto y su libre tránsito, así como con escalones universales fijos y/o móviles para las personas de talla pequeña. Tratándose de auditorios de personas con discapacidad auditiva se reservarán los espacios necesarios a fin de que tengan libre visualización al intérprete.
 
 ###### Artículo 41°.
 
@@ -1428,3 +1430,19 @@ P.O. 24 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 523.- SE ADICIONA LA FRACCIÓN XVI BIS AL ARTÍCULO 2, ASIMISMO, SE REFORMAN LA FRACCIÓN X DEL ARTÍCULO 18 Y LOS ARTÍCULOS 49 Y 63, DE LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 562.- SE REFORMAN LOS ARTÍCULOS 31, 36 Y 40 DE LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo de sesenta días naturales contados a partir de la publicación del presente Decreto en el Periódico Oficial del Gobierno del Estado, los espacios y/o establecimientos destinados a prestar servicio al público a que se refiere, deberán cumplir con la instalación del escalón universal y/o fijo para las personas de talla pequeña.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
