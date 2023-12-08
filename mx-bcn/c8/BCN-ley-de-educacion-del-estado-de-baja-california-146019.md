@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-146019"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2023-12-01"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección X del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -671,9 +671,11 @@ Para impulsar la educación informal las autoridades educativas estatal y munici
 
 La orientación integral en el proceso educativo comprende la formación para la vida de los educandos, así como los contenidos de los planes y programas de estudio, la vinculación de la escuela con la comunidad y la adecuada formación de las maestras y maestros en los procesos de enseñanza aprendizaje, acorde con este criterio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 50.
 
-La orientación integral, en la formación de los educandos, considerará lo siguiente:
+La orientación integral, en la formación de las y los educandos, considerará lo siguiente:
 
 I. El pensamiento lógico matemático y la alfabetización numérica;
 
@@ -1509,6 +1511,8 @@ Para efectos del presente artículo, las personas usuarias de estos servicios pr
 
 Derivado de las acciones de vigilancia, si las autoridades respectivas identifican que los particulares han aumentado los costos en la prestación de los servicios educativos sin apego a las disposiciones aplicables en la materia, darán aviso a las autoridades competentes para los efectos a los que haya lugar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 8 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 126.
 
 Son infracciones de quienes prestan servicios educativos:
@@ -1541,9 +1545,9 @@ XIII. Administrar a los educandos, sin previa prescripción médica y consentimi
 
 XIV. Promover en los educandos, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-XV. Expulsar, segregar o negarse a prestar el servicio educativo a personas con discapacidad o que presenten problemas de aprendizaje; obligar a los educandos a someterse a tratamientos médicos para condicionar su aceptación o permanencia en el plantel, o bien, presionar de cualquier manera a sus madres y padres de familia o tutores para que se los realicen, salvo causa debidamente justificada a juicio de las autoridades educativas;
+XV. Expulsar, segregar o negarse a prestar el servicio educativo a personas con discapacidad o que presenten problemas de aprendizaje o a mujeres embarazadas y personas gestantes; obligar a las y los educandos a someterse a tratamientos médicos para condicionar su aceptación o permanencia en el plantel, o bien, presionar de cualquier manera a sus madres y padres de familia o tutores para que se los realicen, salvo causa debidamente justificada a juicio de las autoridades educativas;
 
 XVI. Incumplir con las medidas correctivas o precautorias derivadas de las visitas;
 
@@ -1818,3 +1822,9 @@ PRIMERO.- La presente Ley entrara en vigor al día siguiente de su publicación 
 SEGUNDO.- La autoridad educativa estatal deberá emitir y adecuar el reglamento y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor.
 
 TERCERO.- La persona titular de la Secretaría de Educación del Estado de Baja California publicará, en los próximos 30 días de que entre en vigor la presente reforma en el portal electrónico de la Secretaría de Educación del Estado y por lo menos en un medio impreso de mayor circulación en los Municipios del Estado un listado con los nombres y datos de las instituciones educativas que cuentan con reconocimiento oficial así mismo como aquellas que no cuentan con el mismo o hayan sido clausuradas o sancionadas.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 318 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 50 Y 126 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA; LA REFORMA AL ARTÍCULO 27 DE LA LEY DE ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA; LA REFORMA AL ARTÍCULO 22 DE LA LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA; Y LA REFORMA AL ARTÍCULO 39 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA (SIC)”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
