@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-isla-mujeres-del-estado-de-131
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-29"
-last_updated: "2021-12-24"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número 154 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 29 de noviembre de 2018.
 
@@ -875,59 +875,13 @@ Por la expedición o renovación de licencias para conducir vehículos de motor 
 
 UMA.
 
-I. Por la expedición o renovación de licencias
-
-para conducir vehículos de motor causarán los
-
-derechos por cada año de vigencia, conforme
-
-a la siguiente tarifa:
-
-a. Dos años:
-
-1. Licencia de servicio público estatal 8.50
-
-2. Licencia de chofer 12.00
-
-3. Licencia de automovilista 10.50
-
-4. Licencia de motociclista 5.00
-
-b. Tres años
-
-1. Licencia de servicio público estatal 12.50
-
-2. Licencia de chofer 16.00
-
-3. Licencia de automovilista 14.50
-
-4. Licencia de motociclista 6.00
-
-c. cuatro años:
-
-1. Licencia de servicio público estatal 15.00
-
-2. Licencia de chofer 19.00
-
-3. Licencia de automovilista 16.00
-
-4. Licencia de motociclista 7.50
-
-d. cinco años:
-
-1. Licencia de servicio público estatal 17.50
-
-2. Licencia de chofer 22.50
-
-3. Licencia de automovilista 18.50
-
-4. Licencia de motociclista 8.50
-
-5. Permiso provisional para manejar sin licencia
-
-por 30 días 1.50
+I. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2023)
 
 Tratándose de personas afiliadas al Instituto Nacional para las Personas Adultas Mayores que acrediten su vigencia, gozarán del 50% de descuento en los pagos a que se refiere este artículo.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+Los ayuntamientos podrán continuar con la expedición, renovación y reposición de licencias y permisos para conducir vehículos, únicamente previa firma de convenio de coordinación con el Estado a través del Instituto de Movilidad del Estado de Quintana Roo.
 
 UMA.
 
@@ -3398,3 +3352,11 @@ P.O. 24 DE DICIEMBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 136 POR EL QUE SE DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE BACALAR DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE BENITO JUÁREZ DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE COZUMEL DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE JOSÉ MARÍA MORELOS DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE OTHÓN P. BLANCO DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE PUERTO MORELOS DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE SOLIDARIDAD DEL ESTADO DE QUINTANA ROO Y LA LEY DE HACIENDA DEL MUNICIPIO DE TULUM DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
