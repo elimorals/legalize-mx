@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-adaptacion-y-mitigacion-a-los-efectos-del-92086"
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-25"
-last_updated: "2020-08-14"
+last_updated: "2023-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY PARA LA ADAPTACION Y MITIGACION A LOS EFECTOS DEL CAMBIO CLIMATICO EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 8 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA ADAPTACIÓN Y MITIGACIÓN A LOS EFECTOS DEL CAMBIO CLIMÁTICO EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023 (ABROGADO).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de enero de 2013.
 
@@ -600,3 +602,27 @@ P.O. 14 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 681.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 25 Y EL ARTÍCULO 31, DE LA LEY PARA LA ADAPTACIÓN Y MITIGACIÓN A LOS EFECTOS DEL CAMBIO CLIMÁTICO EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley para la Adaptación y Mitigación a los Efectos del Cambio Climático en el Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado el 25 de enero de 2013.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado deberá emitir el reglamento de la Comisión Intersecretarial, en un plazo de ciento ochenta días contados a partir de la entrada en vigor de esta ley.
+
+###### ARTÍCULO CUARTO.
+
+El Acuerdo mediante el que se crea la Comisión Intersecretarial de Cambio Climático, publicado en el Periódico Oficial del Gobierno del Estado el 09 de noviembre de 2012, mantendrá su vigencia a la entrada en vigor del presente decreto, además, los integrantes de dicha Comisión, así como los de las subcomisiones, consejos y grupos de trabajo de la misma, continuarán en funciones en términos de las disposiciones aplicables.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan las disposiciones que se opongan a lo previsto en esta ley.
