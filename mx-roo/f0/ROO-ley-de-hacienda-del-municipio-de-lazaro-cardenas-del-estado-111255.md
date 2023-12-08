@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-lazaro-cardenas-del-estado-111
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2022-12-17"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 15 de diciembre de 2015.
 
@@ -681,19 +681,11 @@ p) Por placas de demostración: 6.3 U.M.A.
 
 Tratándose de derecho vehicular del inciso a) al n) deberán pagar en un plazo de 30 días; en el caso del inciso o) el plazo de pago será los primeros tres meses de cada año.
 
-III. Por la expedición, renovación y reposición de licencias para conducir vehículos de motor:
+III. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2023)
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. 23 DE DICIEMBRE DE 2020, PÁGINA 108.]</small>
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 17 DE DICIEMBRE DE 2022, PÁGINA 120.]</small>
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
-
-Permiso provisional para manejar sin licencia por 30 días 2.0 U.M.A.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
-
-Tratándose de renovaciones de licencia, los ciudadanos lazarocardenses gozarán del 50% de descuento de la tarifa realizando el trámite dentro de los diez primeros días posteriores a la fecha de vencimiento de la licencia.
+Los ayuntamientos podrán continuar con la expedición, renovación y reposición de licencias y permisos para conducir vehículos, únicamente previa firma de convenio de coordinación con el Estado a través del Instituto de Movilidad del Estado de Quintana Roo.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 17 DE DICIEMBRE DE 2022)</small>
 
@@ -745,11 +737,13 @@ Los vehículos de transporte público concesionado que circulen en el Municipio,
 
 Los vehículos que transporten pasajeros estarán también sujetos a la inspección sanitaria, por la cual cubrirán los derechos correspondientes.
 
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
 #### SECCIÓN V. LICENCIAS PARA CONDUCIR VEHÍCULOS DE MOTOR
 
 ###### Artículo 60.
 
-No podrán conducirse vehículos de motor sin obtenerse previamente la licencia de manejo respectiva, ésta se otorgará después de que la persona interesada haya sido aprobada en el examen médico y de competencia, que se practicará previo pago de los derechos respectivos.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2023)
 
 #### SECCIÓN VI. EXCEPCIONES
 
@@ -2212,3 +2206,11 @@ SEGUNDO. Todas las contribuciones que se encuentren calculadas o referenciadas c
 TERCERO. En un plazo no mayor de noventa días naturales posteriores a la entrada en vigor del presente decreto y previa convocatoria del Honorable Ayuntamiento del Municipio de Lázaro Cárdenas, Quintana Roo, deberá constituirse un fideicomiso para la correcta administración de la recaudación derivada del cobro de Derecho de Saneamiento Ambiental, el cual estará regido por un Comité Técnico, que tendrá la encomienda de vigilar la recaudación y dar seguimiento a la aplicación de los recursos públicos que se generen por el Derecho de Saneamiento Ambiental.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 136 POR EL QUE SE DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE BACALAR DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE BENITO JUÁREZ DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE COZUMEL DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE JOSÉ MARÍA MORELOS DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE OTHÓN P. BLANCO DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE PUERTO MORELOS DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE SOLIDARIDAD DEL ESTADO DE QUINTANA ROO Y LA LEY DE HACIENDA DEL MUNICIPIO DE TULUM DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
