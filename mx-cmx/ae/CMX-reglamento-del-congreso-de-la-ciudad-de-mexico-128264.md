@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-congreso-de-la-ciudad-de-mexico-128264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-04"
-last_updated: "2023-08-15"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128264&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-20"
 
 REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -764,11 +764,11 @@ La sesión permanente podrá darse por terminada cuando así lo acuerde el Pleno
 
 #### Sección Sexta. Sesiones Vía Remota del Congreso
 
-> <small>(ADICIONADO, G.O. 20 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, G.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 56.
 
-En casos en que se ponga a la sociedad en grave peligro o conflicto, previa Declaratoria Oficial emitida por la autoridad competente del ámbito Federal o Local, el Congreso podrá sesionar vía remota de conformidad con lo que determine la Ley y el Reglamento, a efecto de no interrumpir sus funciones o atribuciones previstas en la Constitución Política, en los tratados internacionales en los que el Estado Mexicano sea parte, la Constitución Local y las leyes aplicables.
+El Congreso podrá sesionar vía remota en los casos y forma prevista en el artículo 5 Bis de la Ley, y en este Reglamento.
 
 > <small>(ADICIONADO, G.O. 20 DE MAYO DE 2020)</small>
 
@@ -826,19 +826,25 @@ III. De las Personas con Discapacidad;
 
 IV. De las Personas Jóvenes;
 
-> <small>(REFORMADA, G.O. 22 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2023)</small>
 
-V. De Pueblos y Barrios Originarios, Comunidades Indígenas Residentes y Comunidades Afromexicanas, y
+V. De Pueblos y Barrios Originarios y Comunidades Indígenas Residentes;
 
-> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2022)</small>
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2023)</small>
 
-VI. De Las Personas que pertenezcan o se identifiquen con poblaciones Lésbico, Gay, Bisexual, Transexual, Transgénero, Travesti, Intersexual, Asexual, personas no binarias, así como de otras orientaciones sexuales, identidades y expresiones de género y características sexuales no normativas.
+VI. De Las Personas que pertenezcan o se identifiquen con poblaciones Lésbico, Gay, Bisexual, Transexual, Transgénero, Travesti, Intersexual, Asexual, personas no binarias, así como de otras orientaciones sexuales, identidades y expresiones de género y características sexuales no normativas, y
+
+> <small>(ADICIONADA, G.O. 8 DE DICIEMBRE DE 2023)</small>
+
+VII. Del Medio Ambiente.
 
 ###### Artículo 59.
 
 Las Comisiones responsables de la elaboración y desarrollo de todas y cada una de las etapas de los Parlamentos son las siguientes:
 
-I. Para la Igualdad de Género, el Parlamento de las Mujeres;
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2023)</small>
+
+I. De Igualdad de Género, el Parlamento de las Mujeres;
 
 > <small>(REFORMADA, G.O. 26 DE ENERO DE 2022)</small>
 
@@ -848,15 +854,21 @@ II. De Atención al Desarrollo de la Niñez en coordinación con la Secretaría 
 
 III. Derechos Humanos e Inclusión, Bienestar Social y Exigibilidad de Derechos Sociales, el Parlamento de las Personas con Discapacidad;
 
-IV. De Juventud y Deporte, el Parlamento de las Personas Jóvenes;
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, G.O. 22 DE JUNIO DE 2023)</small>
+IV. De Juventud, el Parlamento de las Personas Jóvenes;
 
-V. De Pueblos y Barrios Originarios, Comunidades Indígenas Residentes y Comunidades Afromexicanas, para el Parlamento de Pueblos y Barrios Originarios y Comunidades Indígenas Residentes y Comunidades Afromexicanas, y
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2022)</small>
+V. De Pueblos, Barrios Originarios y Comunidades Indígenas Residentes, para el Parlamento de Pueblos y Barrios Originarios y Comunidades Indígenas;
 
-VI. De Igualdad de Género y de Derechos Humanos, el Parlamento de Las Personas que pertenezcan o se identifiquen con poblaciones Lésbico, Gay, Bisexual, Transexual, Transgénero, Travesti, Intersexual, Asexual, personas no binarias, así como de otras orientaciones sexuales, identidades expresiones de género y características sexuales no normativas.
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2023)</small>
+
+VI. De Igualdad de Género y de Derechos Humanos, el Parlamento de Las Personas que pertenezcan o se identifiquen con poblaciones Lésbico, Gay, Bisexual, Transexual, Transgénero, Travesti, Intersexual, Asexual, personas no binarias, así como de otras orientaciones sexuales, identidades expresiones de género y características sexuales no normativas, y
+
+> <small>(ADICIONADA, G.O. 8 DE DICIEMBRE DE 2023)</small>
+
+VII. De Preservación del Medio Ambiente, Cambio Climático y Protección Ecológica, para el Parlamento del Medio Ambiente.
 
 ###### Artículo 60.
 
@@ -4404,7 +4416,9 @@ k) Medalla al Mérito en Gestión Integral de Riesgos y Protección Civil;
 
 l) Medalla al Mérito Policial;
 
-m) Medalla al Mérito Turístico "Embajador Turístico de la Ciudad de México"
+> <small>(REFORMADO, G.O. 8 DE DICIEMBRE DE 2023)</small>
+
+m) Medalla al Mérito Turístico “Embajadora o Embajador Turístico de la Ciudad de México”;
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 8 DE JULIO DE 2019)</small>
 
@@ -4442,11 +4456,17 @@ V. Comisión de Juventud;
 
 VI. Comisión de Educación;
 
-VII. Comisiones Unidas de Fomento Económico y de Presupuesto y Cuenta Pública;
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2023)</small>
 
-VIII. Comisiones Unidas de (sic) para la Igualdad de Género y de Atención a Grupos Prioritarios y Vulnerables;
+VII. Comisión de Desarrollo Económico;
 
-IX. Comisión Especial para garantizar el ejercicio periodístico de la Ciudad de México;
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2023)</small>
+
+VIII. Comisión de Igualdad de Género;
+
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2023)</small>
+
+IX. Comisión de Protección a Periodistas;
 
 > <small>(REFORMADA, G.O. 22 DE JUNIO DE 2023)</small>
 
@@ -4472,9 +4492,11 @@ XIV. Comisión de Deporte, y
 
 XV. Comisión de Normatividad, Estudios y Prácticas Parlamentarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 372.
 
-Las medallas que confiera el Congreso, deberán sustentarse en un análisis objetivo de méritos a través de los cuales se ejerzan los grandes valores humanos.
+Las medallas que confiera el Congreso, deberán sustentarse en un análisis objetivo de méritos a través de los cuales se ejerzan los grandes valores humanos observando en todo momento el principio de paridad de género.
 
 La o las Comisiones dictaminadoras deberán realizar la convocatoria, el dictamen y la sesión solemne correspondientes, y deberán actuar en forma colegiada y entrar en función permanente a partir de la fecha de la emisión de la convocatoria hasta la elaboración del dictamen.
 
@@ -4486,11 +4508,11 @@ La aprobación del dictamen en Comisión y en el Pleno, correspondiente a la ent
 
 #### Sección Segunda. De la Convocatoria
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 373.
 
-La o las Comisiones encargadas de la entrega de las medallas deberán realizar la convocatoria y el proceso de elección de las y los candidatos para su otorgamiento.
+La o las Comisiones encargadas de la entrega de las medallas deberán realizar la convocatoria y el proceso de elección de las y los candidatos para su otorgamiento en igualdad de condiciones entre mujeres y hombres.
 
 La convocatoria deberá:
 
@@ -4510,19 +4532,25 @@ V. Señalar el nombre de la o las Comisiones emisoras;
 
 VI. Incluir en un lugar visible el logotipo principal y secundario del Congreso, así como el Acuerdo de Declaración Anual del año que corresponda;
 
-> <small>(REFORMADA, G.O. 5 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2023)</small>
 
-VII. Señalar la dirección electrónica y física, así como los horarios para la recepción de documentos, y
+VII. Señalar la dirección electrónica y física, así como los horarios para la recepción de documentos;
 
-> <small>(REFORMADA, G.O. 5 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2023)</small>
 
-VIII. Señalar los requisitos y documentación que deben acreditar y entregar las o los candidatos o bien, postulantes de candidatos.
+VIII. Señalar los requisitos y documentación que deben acreditar y entregar las o los candidatos o bien, postulantes de la o las candidaturas, y
+
+> <small>(ADICIONADA, G.O. 8 DE DICIEMBRE DE 2023)</small>
+
+IX. Establecer que se observará el principio de paridad de género para la selección y entrega de las medallas.
 
 > <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2019)</small>
 
 La convocatoria deberá ser emitida a más tardar, en la primera quincena del mes de octubre del año que corresponda y en los casos de inicio de legislatura podrá emitirse en la primera quincena del mes de febrero del segundo periodo de sesiones.
 
-La o el titular de la Coordinación de Servicios Parlamentarios del Congreso deberá apoyar a la o las Comisiones encargadas para publicar la o las convocatorias y el o los dictámenes aprobados otorgando la mayor difusión a los mismos. En caso de que la o las Comisiones lo soliciten a la o el titular de la Coordinación de Servicios Parlamentarios, hará llegar la convocatoria a las instituciones públicas y privadas
+> <small>(REFORMADO, G.O. 8 DE DICIEMBRE DE 2023)</small>
+
+La o el titular de la Coordinación de Servicios Parlamentarios del Congreso deberá apoyar a la o las Comisiones encargadas para publicar la o las convocatorias y el o los dictámenes aprobados otorgando la mayor difusión a los mismos. En caso de que la o las Comisiones lo soliciten a la o el titular de la Coordinación de Servicios Parlamentarios, hará llegar la convocatoria a las instituciones públicas y privadas.
 
 #### Sección Tercera. Del Proceso de Elección
 
@@ -4562,9 +4590,11 @@ La documentación completa de las candidaturas remitidas a la Comisión correspo
 
 No será necesario que las obras o actos que acrediten el merecimiento de la medalla, se hayan realizado dentro del periodo de convocatoria, a menos, de que así lo establezca la misma, en particular sobre alguna de las disciplinas.
 
+> <small>(REFORMADO, G.O. 8 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 375.
 
-La o las Comisiones dictaminadoras deberán convocar, conocer, estudiar, analizar y efectuar el proceso de la elección de las y los candidatos a recibir la medalla; así como elaborar el proyecto de dictamen correspondiente mismo que una vez que sea aprobado por las y los integrantes de la o las Comisiones, deberá ser presentado y puesto a consideración del Pleno para su aprobación.
+La o las Comisiones dictaminadoras deberán convocar, conocer, estudiar, analizar y efectuar el proceso de la elección de las y los candidatos a recibir la medalla, eligiendo de forma paritaria el mismo número de mujeres y hombres, cuando resulte posible en atención a las candidaturas propuestas; así como elaborar el proyecto de dictamen correspondiente mismo que una vez que sea aprobado por las y los integrantes de la o las Comisiones, deberá ser presentado y puesto a consideración del Pleno para su aprobación.
 
 > <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2019)</small>
 
@@ -4710,17 +4740,21 @@ La Medalla al Mérito Deportivo constituye el reconocimiento que a nombre del Co
 
 Las actividades deportivas serán tomadas en cuenta de preferencia en eventos de alto nivel competitivo en cada una de sus respectivas disciplinas.
 
+> <small>(REFORMADO, G.O. 8 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 400.
 
-La Comisión responsable y encargada del procedimiento y entrega de la presente medalla es la de Juventud y Deporte del Congreso.
+La Comisión responsable y encargada del procedimiento y entrega de la presente medalla es la Comisión de Deporte del Congreso.
 
 ###### Artículo 401.
 
 Sólo serán consideradas para efecto del presente reconocimiento, las disciplinas oficialmente reconocidas por la Confederación Deportiva Mexicana.
 
+> <small>(REFORMADO, G.O. 8 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 402.
 
-La Comisión de Juventud y Deporte podrá solicitar a las asociaciones deportivas de la Ciudad de México, los calendarios de actividades que habrán de realizarse durante el año, a efecto de llevar a cabo un seguimiento de la labor desempeñada por las y los deportistas.
+La Comisión de Deporte podrá solicitar a las asociaciones deportivas de la Ciudad de México, los calendarios de actividades que habrán de realizarse durante el año, a efecto de llevar a cabo un seguimiento de la labor desempeñada por las y los deportistas.
 
 ###### Artículo 403.
 
@@ -4792,15 +4826,17 @@ V. Por fomentar la educación entre mujeres mediante publicaciones enfocadas en 
 
 VI. Por realizar investigaciones científicas a favor de las mujeres o por investigar algún producto, medicamento o elemento que les beneficie.
 
+> <small>(REFORMADO, G.O. 8 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 412.
 
-Las Comisiones responsable (sic) y encargadas del procedimiento y entrega de la presente medalla son las Comisiones Unidas de Atención a Grupos Prioritarios y Vulnerables y para la Igualdad de Género del Congreso.
+La Comisión responsable y encargada del procedimiento y entrega de la presente medalla es la de Igualdad de Género del Congreso.
 
-> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, G.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 413.
 
-La convocatoria deberá ser dirigida preferentemente a las personas del sexo femenino, a organizaciones de la sociedad civil, organizaciones académicas, y demás instituciones vinculadas con la promoción y defensa de los derechos de las mujeres, y deberá ser aprobada por las Comisiones Unidas de Atención a Grupos Prioritarios y Vulnerables y para la Igualdad de Género.
+La convocatoria deberá ser dirigida preferentemente a las personas del sexo femenino, a organizaciones de la sociedad civil, organizaciones académicas, y demás instituciones vinculadas con la promoción y defensa de los derechos de las mujeres.
 
 ###### Artículo 414.
 
@@ -4816,17 +4852,15 @@ La convocatoria deberá ser dirigida preferentemente a las personas del sexo fem
 
 El Congreso otorgará la Medalla al Mérito Empresarial a las personas físicas o morales del sector empresarial, que se hayan distinguido o destacado por sus acciones a favor del empleo, crecimiento económico y desarrollo productivo en beneficio de la Ciudad de México y de sus habitantes.
 
-> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, G.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 417.
 
-Las Comisiones responsables y encargadas del procedimiento y entrega de la presente Medalla serán la Comisión de Fomento Económico y la Comisión de Presupuesto y Cuenta Pública, del Congreso.
-
-> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2019)</small>
+La Comisión responsable y encargada de la emisión de la convocatoria, el procedimiento y entrega de la presente Medalla será la de Desarrollo Económico del Congreso.
 
 ###### Artículo 418.
 
-La convocatoria deberá ser elaborada y aprobada por las Comisiones de Fomento Económico y de Presupuesto y Cuenta Pública.
+(DEROGADO, G.O. 8 DE DICIEMBRE DE 2023)
 
 ###### Artículo 419.
 
@@ -4868,17 +4902,21 @@ La Comisión responsable y encargada del procedimiento y entrega de la presente 
 
 La Medalla al Mérito Periodístico constituye el reconocimiento a las y los profesionales de la comunicación de medios escritos y electrónicos de la Ciudad de México, que con su trabajo contribuyen al desarrollo de los principios democráticos, entendidos como “un sistema de vida fundado en el constante mejoramiento económico, social, y cultural”.
 
+> <small>(REFORMADO, G.O. 8 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 428.
 
-El Pleno, a propuesta de la Junta, nombrará una Comisión Especial, electa por voto mayoritario, la cual, deberá conocer y estudiar las propuestas de las y los candidatos a recibir la medalla, así como elaborar los dictámenes correspondientes, debiendo distinguirse siempre la diferencia de género en un periodo y otro y que deberán ser presentados al Pleno para su aprobación.
+La Comisión de Protección a Periodistas deberá conocer y estudiar las propuestas de las y los candidatos a recibir la medalla, así como elaborar el dictamen correspondiente, debiendo distinguirse siempre la diferencia de género en un periodo y otro, y que deberá ser presentado al Pleno para su aprobación.
 
 ###### Artículo 429.
 
-La integración de la Comisión Especial deberá reflejar la composición plural del Congreso. Será electa dentro del primer periodo ordinario de sesiones de cada ejercicio del mismo.
+(DEROGADO, G.O. 8 DE DICIEMBRE DE 2023)
+
+> <small>(REFORMADO, G.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 430.
 
-La Comisión Especial convocará cada año a las y los profesionales de la comunicación de medios escritos y electrónicos de la Ciudad de México que con su trabajo contribuyen al desarrollo de los principios democráticos, entendidos como “un sistema de vida fundado en el constante mejoramiento económico, social, y cultural”, para que propongan a las y los candidatos que como resultado de sus actividades sean merecedores de la presente Medalla.
+La Comisión de Protección a Periodistas convocará cada año a las y los profesionales de la comunicación de medios escritos y electrónicos de la Ciudad de México que con su trabajo contribuyen al desarrollo de los principios democráticos, entendidos como “un sistema de vida fundado en el constante mejoramiento económico, social, y cultural”, para que propongan a las y los candidatos que como resultado de sus actividades sean merecedores de la presente Medalla.
 
 ###### Artículo 431.
 
@@ -4990,11 +5028,15 @@ Además de los requisitos señalados en el artículo 374 se deberá tomar en cue
 
 (DEROGADO, G.O. 5 DE FEBRERO DE 2019)
 
-#### Sección Décima Tercera. Medalla al Mérito Turístico Embajador Turístico de la Ciudad de México
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 8 DE DICIEMBRE DE 2023)</small>
+
+#### Sección Décima Tercera. Medalla al Mérito Turístico Embajadora o Embajador Turístico de la Ciudad de México
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 448.
 
-EL Congreso otorgará la medalla al Mérito Turístico, Embajador Turístico de la Ciudad de México a las y los ciudadanos, que por su trayectoria, vocación y servicio han destacado en promover y fomentar el turismo a nivel nacional e internacional de la Ciudad de México de conformidad con las siguientes categorías:
+EL Congreso otorgará la medalla al Mérito Turístico, Embajadora o Embajador Turístico de la Ciudad de México a las y los ciudadanos, que por su trayectoria, vocación y servicio han destacado en promover y fomentar el turismo a nivel nacional e internacional de la Ciudad de México de conformidad con las siguientes categorías:
 
 I. Fomento al turismo desde el arte, la cultura y la gastronomía;
 
@@ -6425,6 +6467,34 @@ SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publ
 G.O. 15 DE AGOSTO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 7 FRACCIÓN XV, 306, FRACCIÓN V, 337 Y 452, PÁRRAFO SEGUNDO, TODOS DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO, RECORRIÉNDOSE LOS SUBSECUENTES, Y SE REFORMAN LOS PÁRRAFOS TERCERO Y CUARTO DEL ARTÍCULO 5 BIS DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO; Y SE REFORMA EL ARTÍCULO 56 DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Junta de Coordinación Política del Congreso de la Ciudad de México contarán (sic) con un plazo de hasta 30 días naturales a partir de la entrada en vigor de este decreto para adecuar los acuerdos y actuaciones de su competencia en términos del presente decreto.
+
+CUARTO. La realización de sesiones vía remota se sujetarán (sic) al acuerdo vigente, en tanto no exista otro que lo modifique.
+
+G.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES V Y VI, Y SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 58; Y SE REFORMAN LAS FRACCIONES V Y VI, Y SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 59, AMBOS DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS: 59, FRACCIONES I Y IV, 370, FRACCIÓN III EN SU INCISO M, 371 FRACCIONES VII, VIII Y IX, 372, PÁRRAFO PRIMERO; SE REFORMA EL ARTÍCULO 373, EN SUS PÁRRAFOS PRIMERO, SEGUNDO EN SUS FRACCIONES VII Y VIII, Y PÁRRAFO CUARTO, ADICIONÁNDOSELE UNA FRACCIÓN IX; SE REFORMAN LOS ARTÍCULOS 375, 400, 402, 412, 413 Y 417; SE DEROGA EL ARTÍCULO 418; SE REFORMA EL ARTÍCULO 428; SE DEROGA EL ARTÍCULO 429; SE REFORMA EL ARTÍCULO 430; SE REFORMA LA DENOMINACIÓN DE LA SECCIÓN DÉCIMA TERCERA, DEL CAPÍTULO II, DEL TÍTULO DÉCIMO, Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 448, TODOS DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
 
