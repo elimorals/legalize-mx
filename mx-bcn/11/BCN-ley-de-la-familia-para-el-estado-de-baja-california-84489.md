@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-familia-para-el-estado-de-baja-california-84489"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-30"
-last_updated: "2023-11-06"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 30 de diciembre de 2011.
 
@@ -197,13 +197,13 @@ Los padres tienen el derecho originario, primario e inalienable a decidir el tip
 
 El derecho de los padres a educar a sus hijos debe ser tenido en cuenta en todas las formas de colaboración entre padres, maestros y autoridades escolares, y particularmente en las actividades de participación encaminadas a dar a los ciudadanos colaboración efectiva en el funcionamiento de las escuelas y en la formulación y aplicación de la política educativa.
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 22.
 
-Los padres tienen el derecho de educar a sus hijos conforme a sus convicciones, teniendo presentes las tradiciones culturales de la familia que favorezcan el bien y la dignidad de las y los hijos; deben recibir también del Estado y la sociedad la ayuda y asistencia necesarias para realizar de modo adecuado su función formadora de ciudadanos.
+Las madres y padres tienen el derecho de educar a sus hijas e hijos conforme a sus convicciones, teniendo presentes las tradiciones culturales de la familia que favorezcan el bien y la dignidad del hijo o hija; deben recibir también del Estado y la sociedad la ayuda y asistencia necesarias para realizar de modo adecuado su función formadora de ciudadanos.
 
-La educación sexual debe ser impartida bajo la supervisión de los padres, tanto en el hogar como en la escuela, y debe formar e informar sobre el ejercicio responsable, sano y consciente de la sexualidad. Esta deberá ser impartida libre de cualquier prejuicio o discriminación sobre las preferencias u orientación sexual.
+La educación sexual debe ser impartida en coadyuvancia con los padres y madres, tanto en el hogar como en la escuela y debe formar e informar sobre el ejercicio responsable, sano y consciente de la sexualidad, la planeación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual. La educación sexual deberá ser impartida libre de cualquier prejuicio o discriminación sobre las preferencias u orientación sexual.
 
 ###### ARTÍCULO 23.
 
@@ -506,3 +506,9 @@ P.O. 6 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 299 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 1, 8, 12, 16, 32, 34 Y 35 DE LA LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 318 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 50 Y 126 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA; LA REFORMA AL ARTÍCULO 27 DE LA LEY DE ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA; LA REFORMA AL ARTÍCULO 22 DE LA LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA; Y LA REFORMA AL ARTÍCULO 39 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA (SIC)”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
