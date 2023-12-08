@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2023-10-25"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -127,13 +127,17 @@ XVI. Parto humanizado: Modelo de atención en el que se facilita un ajuste de la
 
 XVII. Empoderamiento de las Mujeres: es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-XVIII. Servicio Reeducativo: el servicio reeducativo para personas agresoras, es el proceso mediante el cual se trabaja individua (sic) y/o colectivamente para erradicar las creencias, prácticas y conductas que posibilitan, justifican y sostienen el ejercicio de las violencias contra las mujeres en cualquiera de sus tipos y modalidades, como son los estereotipos de supremacía masculina, los patrones machistas y cualquier otra forma que implique opresión y subordinación; a través de servicios integrales, especializados, gratuitos basados en la perspectiva de género, los derechos humanos de las mujeres y que, en su caso, busque la reinserción social de la persona agresora; y
+XVIII. Servicio Reeducativo: el servicio reeducativo para personas agresoras, es el proceso mediante el cual se trabaja individua (sic) y/o colectivamente para erradicar las creencias, prácticas y conductas que posibilitan, justifican y sostienen el ejercicio de las violencias contra las mujeres en cualquiera de sus tipos y modalidades, como son los estereotipos de supremacía masculina, los patrones machistas y cualquier otra forma que implique opresión y subordinación; a través de servicios integrales, especializados, gratuitos basados en la perspectiva de género, los derechos humanos de las mujeres y que, en su caso, busque la reinserción social de la persona agresora;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-XIX. Alerta de Violencia de Género contra las Mujeres: conjunto de acciones gubernamentales de emergencia, para enfrentar y erradicar la violencia feminicida en un territorio determinado.
+XIX. Alerta de Violencia de Género contra las Mujeres: conjunto de acciones gubernamentales de emergencia, para enfrentar y erradicar la violencia feminicida en un territorio determinado; y
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+XX. Relación de noviazgo: Vinculación afectiva entre dos personas que se sienten atraídas mutuamente; que pueden tener o no la intención de contraer matrimonio pero que por mutuo acuerdo conviven de manera consuetudinaria, teniendo la oportunidad de conocerse y compartir experiencias de vida.
 
 ### CAPÍTULO II. DE LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES Y DE LOS ÁMBITOS EN QUE SE PRESENTAN
 
@@ -313,6 +317,10 @@ V. En el digital y mediático.
 
 Para los efectos de esta Ley y en correlación con las leyes aplicables, la violencia familiar, es el acto abusivo de poder u omisión intencional dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, sexual, patrimonial o económica a las mujeres, dentro o fuera del domicilio familiar, cuando el individuo que la ejerce, tiene o ha tenido relación de parentesco por consanguinidad, afinidad o civil, o en cualquier otra relación afectiva de hecho.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+También se considerará violencia familiar, la que se genere en el noviazgo.
+
 ###### Artículo 9.
 
 La violencia laboral y docente, es la que se ejerce por las personas que tienen un vínculo laboral, docente o similar a éstos con la víctima, independientemente de la relación jerárquica, y consiste en un acto o una omisión en abuso de poder que daña la autoestima, salud, integridad, libertad o seguridad de la víctima, impide su desarrollo y atenta contra su derecho a la igualdad. Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño; también incluye el acoso o el hostigamiento sexual.
@@ -351,11 +359,37 @@ El Estado garantizará:
 
 I. La prevención a través de programas para modificar los patrones socioculturales de conducta, de hombres y mujeres, incluyendo el diseño de programas de educación formales y no formales apropiados a todo nivel del proceso educativo que contrarresten prejuicios, costumbres y todo (sic) otro tipo de prácticas que se basen en la premisa de la inferioridad o superioridad de cualquiera de los géneros o en los papeles estereotipados para el hombre y la mujer que legitiman o exacerban la violencia sexual contra la mujer.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+### CAPITULO II BIS. DE LA VIOLENCIA EN EL NOVIAZGO
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 14 Bis 1.
+
+Se considera como violencia en el noviazgo al acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, en donde la persona agresora sostiene con la víctima una relación de noviazgo.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 14 Bis 2.
+
+Para efectos de la violencia en el noviazgo, el Estado y los Municipios en función de sus atribuciones, y en colaboración con la sociedad civil, tomarán en consideración:
+
+I. Desarrollar programas y políticas públicas para prevenir, identificar, atender y sancionar la violencia en el noviazgo con énfasis en adolescentes y jóvenes;
+
+II. Establecer acciones para generar conciencia y advertir sobre la necesidad de eliminar la violencia en el noviazgo;
+
+III. Diseñar programas que brinden atención integral tanto a la víctima como a la persona abusadora;
+
+IV. Establecer mecanismos de monitoreo y capacitación en los centros educativos privados y públicos, mediante acuerdos y convenios con las autoridades e instituciones que integran el sistema educativo del Estado, para prevenir, atender y sancionar la violencia en el noviazgo;
+
+V. Poner en marcha protocolos y procedimientos que promuevan la denuncia de hechos derivados de la violencia durante el noviazgo, y la obligación de proporcionar atención psicológica y legal especializada y gratuita tanto a víctimas como a agresores;
+
+VI. Llevar a cabo diagnósticos detallados y periódicos de la violencia en el noviazgo auxiliándose de la Secretaría de las Mujeres, del Instituto Estatal de las Mujeres y del Instituto Estatal de la Juventud;
+
+VII. Dar seguimiento a las políticas públicas dirigidas a prevenir, atender y eliminar la violencia en el noviazgo y dar a conocer públicamente sus avances o retrocesos.
+
 ### CAPÍTULO III. DE LOS MODELOS DE PREVENCIÓN, ATENCIÓN Y SANCIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
-
-### CAPÍTULO III BIS. DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
-
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
 
 ###### Artículo 15.
 
@@ -431,9 +465,9 @@ Las dependencias y entidades del Estado y los Municipios, deberán modificar sus
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2022)</small>
 
-### CAPÍTULO IV. DE LAS ÓRDENES DE PROTECCIÓN
+### CAPÍTULO III BIS. DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
 
 ###### Artículo 17 Bis 1.
 
@@ -503,7 +537,9 @@ El Grupo de Trabajo sesionará de manera ordinaria una vez cada tres meses y su 
 
 La Secretaría Ejecutiva elaborará los lineamientos para la conformación, organización y funcionamiento del Grupo de Trabajo Interinstitucional y Multidisciplinario que dará seguimiento a la Declaratoria de Alerta de Violencia de Género contra las Mujeres y los presentará a los integrantes del Sistema Estatal para su aprobación.
 
-### CAPÍTULO V. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+### CAPÍTULO IV. DE LAS ÓRDENES DE PROTECCIÓN
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
 ###### Artículo 18.
 
@@ -879,7 +915,7 @@ Tratándose de niñas y niños en situación de riesgo o violencia, las medidas 
 
 La Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Nuevo León, deberá solicitar las órdenes de protección a las autoridades correspondientes de manera oficiosa de conformidad con las disposiciones normativas aplicables.
 
-### CAPÍTULO VI. DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+### CAPÍTULO V. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### Artículo 25.
 
@@ -963,7 +999,7 @@ Para sesionar se requiere de la asistencia de la mayoría de los integrantes. Lo
 
 La Secretaría Ejecutiva del Sistema elaborará el proyecto de Reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación en su caso.
 
-### CAPÍTULO VII. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
+### CAPÍTULO VI. DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### Artículo 28.
 
@@ -1013,7 +1049,7 @@ XIV. Diseñar y actualizar las bases que deberán instrumentar las instituciones
 
 El Ejecutivo del Estado y los Municipios asignarán una partida presupuestaria para el cumplimiento de los objetivos y programas implementados por la presente Ley.
 
-### CAPÍTULO VIII. DE LA ATENCIÓN A LAS VÍCTIMAS
+### CAPÍTULO VII. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### Artículo 30.
 
@@ -1591,7 +1627,7 @@ II. Incorporar la perspectiva de género al monitoreo de las transmisiones sobre
 
 III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género.
 
-### CAPÍTULO IX. DE LOS REFUGIOS PARA VÍCTIMAS DE VIOLENCIA
+### CAPÍTULO VIII. DE LA ATENCIÓN A LAS VÍCTIMAS
 
 ###### Artículo 44.
 
@@ -1641,9 +1677,7 @@ X. Los demás señalados en esta Ley y otras disposiciones legales.
 
 El agresor deberá participar obligatoriamente en los programas de reeducación integral, cuando se le determine por mandato de autoridad competente.
 
-### CAPÍTULO X. PROTOCOLO ALBA
-
-> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2022)</small>
+### CAPÍTULO IX. DE LOS REFUGIOS PARA VÍCTIMAS DE VIOLENCIA
 
 ###### Artículo 47.
 
@@ -1743,9 +1777,9 @@ En los casos previstos en esta Ley, serán aplicables supletoriamente a esta Ley
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JUNIO DE 2022)</small>
 
-### CAPÍTULO XI. DE LA MANUTENCIÓN
+### CAPÍTULO X. PROTOCOLO ALBA
 
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2023)</small>
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2022)</small>
 
 ###### Artículo 57.
 
@@ -1870,6 +1904,10 @@ Al encontrar con vida a la mujer o niña desaparecida y/o ausente, por parte de 
 En el caso de la localización sin vida, se deberá investigar con base al protocolo de investigación ministerial, pericial y policial con perspectiva de género y derechos humanos del delito de feminicidio hasta descartar o confirmar el hecho.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE JUNIO DE 2023)</small>
+
+### CAPÍTULO XI. DE LA MANUTENCIÓN
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2023)</small>
 
 ###### Artículo 64.
 
@@ -2218,3 +2256,9 @@ P.O. 25 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 440. SE REFORMAN LAS FRACCIONES II Y VII DEL ARTÍCULO 6, Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN VII DEL ARTÍCULO 6, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
 
 ÚNICO.- El presente Decreto, entrará en vigor al día siguiente al de su publicación.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 459. SE REFORMAN LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 5, SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 5 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 8, Y SE ADICIONA UN CAPÍTULO II BIS DENOMINADO "DE LA VIOLENCIA EN EL NOVIAZGO" CONFORMADO POR LOS ARTÍCULOS 14 BIS 1 Y 14 BIS 2 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
