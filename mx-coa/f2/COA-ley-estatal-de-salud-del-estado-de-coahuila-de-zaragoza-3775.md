@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2023-01-03"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -531,9 +531,9 @@ II. La prevención y el control de las enfermedades transmisibles de atención p
 
 III. La atención médica, que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias;
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-IV. La atención materno-infantil, así como la detección, diagnóstico y tratamiento del cáncer cérvico uterino y el de mama en la mujer;
+IV. La atención materno-infantil, así como la detección, diagnóstico y tratamiento del cáncer cérvico uterino y el de mama en la Mujer. En los casos de cáncer de mama, en la rehabilitación se considerará incluir atención psico-oncológica y la reconstrucción y prótesis mamarias, en los casos que sean atendidos en los Hospitales de la Secretaría de Salud, previa evaluación y autorización del médico especialista tratante.
 
 V. La planificación familiar;
 
@@ -745,9 +745,11 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 La atención materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-I. La atención de la mujer durante el embarazo, informando del derecho al acompañamiento de una persona de su confianza en el proceso de parto, incluida la cesárea y el puerperio;
+I. La atención de la mujer durante el embarazo, parto y puerperio, informando del derecho al acompañamiento de una persona de su confianza en las consultas prenatales y en el proceso de parto, incluida la cesárea y el puerperio;
+
+La atención a la mujer y a la persona recién nacida debe ser proporcionada con calidad y respeto de sus derechos humanos, principalmente a su dignidad y cultura, brindando apoyo psicológico durante su evolución.
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2020)</small>
 
@@ -769,9 +771,23 @@ V. Acciones para diagnosticar y ayudar a resolver el problema de salud visual y 
 
 VI. La prevención de la preeclampsia y eclampsia. En el caso de la detección de estas enfermedades canalizar a la mujer a instituciones de salud especializadas para su oportuna atención y tratamiento.
 
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+VII. La atención y acompañamiento psicológico y/o psiquiátrico a la mujer antes, durante y después del parto, así como cuando haya sufrido una muerte fetal o neonatal.
+
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2020)</small>
 
 El derecho a la protección de la salud de los niños y las niñas en su primera infancia es una prioridad estatal, por lo tanto, los padres, madres, tutores o quienes ejerzan la patria potestad o guardia y custodia de los mismos, deberán acudir de manera obligatoria a las instituciones de salud pública o privada para que los menores de edad reciban todas sus vacunas contra enfermedades transmisibles, prevenibles por ese medio de inmunización, que estime necesarias la Secretaría de Salud.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+Artículo 56 bis. Cuando ocurra una muerte fetal o perinatal, el personal de salud deberá brindar la información y apoyo adecuado para garantizar el derecho de la madre a decidir sobre los tiempos y procedimientos a realizar para la inducción del parto o cesárea, los aspectos clínicos de la mujer, los relacionados con el bebé fallecido, así como lo relativo al proceso de inhibición de la lactancia.
+
+En todo caso, se deberá proporcionar intervención psicológica especializada y oportuna a la madre y al padre antes, durante y después de la atención y egreso.
+
+Ninguna mujer en duelo por muerte fetal o neonatal podrá ser objeto de maltrato psicológico o físico durante la atención del embarazo, parto o puerperio. Los prestadores de servicios de salud deberán ofrecer un trato digno, empático y respetuoso a la mujer en duelo y a su familia, así como al bebé fallecido, durante todo el periodo de atención hospitalaria.
+
+Las instituciones de salud deberán capacitar al personal para que adopten conductas de empatía y respeto por el duelo de cada madre que haya sufrido la muerte fetal o neonatal, así como de las personas que la acompañen.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2020)</small>
 
@@ -4268,3 +4284,21 @@ P.O. 3 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 306.- SE ADICIONA UN CAPÍTULO IX, AL TÍTULO TERCERO DEL ARTÍCULO 70 BIS 2 A LA LEY ESTATAL DE SALUD”.]
 
 ÚNICO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 570.- SE REFORMA LA FRACCIÓN I Y SE ADICIONA LA FRACCIÓN VII DEL ARTÍCULO 56 Y SE ADICIONA EL ARTÍCULO 56 BIS DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 571.- SE MODIFICA EL CONTENIDO (SIC) LA FRACCIÓN IV DEL ARTÍCULO 29 DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se deroga (sic) todas las disposiciones que se opongan al presente decreto.
