@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2023-11-06"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -293,9 +293,13 @@ V. Violencia Sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sex
 
 VI. Violencia Obstétrica.- Toda conducta, acción u omisión que ejerza el personal de salud de manera directa o indirecta, y que afecte a las mujeres durante los procesos de embarazo, parto o puerperio, mediante la apropiación del cuerpo y procesos reproductivos de las mujeres que se expresa en un trato deshumanizador, omisión de atención oportuna y eficaz, abuso de medicalización y patologización de los procesos naturales, prácticas sin consentimiento como esterilización o realizar cesárea sin motivo, o cualquier otra que tenga como resultado la pérdida de autonomía y capacidad de decidir libremente sobre su cuerpo y sexualidad, impactando la calidad de vida de las mujeres;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-VII. Violencia Digital.- Es cualquier acto de acoso, hostigamiento, amenazas, vulneración de datos e información privada, divulgación de información, mensaje de odio, difusión de contenido sexual sin consentimiento expreso de la afectada, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras, verdaderas o alteradas, o cualquier otra acción que sea cometida (sic) través de las tecnologías de información y comunicación, plataformas de internet, redes sociales, correo electrónico, aplicaciones, o cualquier otro espacio digital, que atente, dañe o afecte la integridad, intimidad, libertad, vida privada, o los derechos humanos de las mujeres;
+VII. Violencia Digital.- Es toda acción dolosa realizada mediante el uso de tecnologías de la información y la comunicación, por la que se exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta mensajes de texto, imágenes, audios o videos reales o simulados de contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación o sin su autorización y que le cause daño psicológico o emocional, en cualquier ámbito de su vida privada o en su imagen propia.
+
+Así como aquellos actos dolosos que causen daño a la intimidad, privacidad y/o dignidad de las mujeres incluyendo los mensajes de odio, que se cometan por medio de las tecnologías de la información y la comunicación.
+
+Para efectos de este tipo de violencia, se entenderá por Tecnologías de la Información y la Comunicación aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos.
 
 > <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
 
@@ -484,6 +488,18 @@ XVII. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución 
 XVIII. Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad, o
 
 XIX. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales. La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 11 Quater.
+
+Tratándose de violencia digital o mediática para garantizar la integridad de la víctima, el Ministerio Público o la persona juzgadora competente, ordenarán de manera inmediata, las medidas de protección necesarias, ordenando vía electrónica o mediante escrito a las empresas de plataformas digitales, de medios de comunicación, redes sociales o páginas electrónicas, personas físicas o morales, la interrupción, bloqueo, destrucción, o eliminación de imágenes, audios o videos relacionados con la investigación previa satisfacción de los requisitos de Ley.
+
+En este caso se deberá identificar plenamente al proveedor de servicios en línea a cargo de la administración del sistema informático, sitio o plataforma de Internet en donde se encuentre alojado el contenido y la localización precisa del contenido en Internet, señalando el Localizador Uniforme de Recursos.
+
+La autoridad que ordene las medidas de protección contempladas en este artículo deberá solicitar el resguardo y conservación lícita e idónea del contenido que se denunció de acuerdo a las características del mismo.
+
+Las plataformas digitales, medios de comunicación, redes sociales o páginas electrónicas darán aviso de forma inmediata al usuario que compartió el contenido, donde se establezca de forma dara (sic) y precisa que el contenido será inhabilitado por cumplimiento de una orden judicial.
 
 > <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
@@ -1277,6 +1293,10 @@ Las Organizaciones de la Sociedad Civil especializadas en atención a mujeres v�
 
 Corresponderá a la Secretaría de Educación, en su ámbito de acción, el implementar en la política educativa del Estado, los principios de igualdad, equidad y no discriminación entre mujeres y hombres y el respeto pleno de los derechos humanos. Así como el desarrollo de programas educativos que promuevan la cultura de una vida libre de violencia contra las mujeres, buscando la erradicación de la violencia docente.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+Asimismo, la Secretaría de Educación deberá eliminar de los programas educativos estatales los materiales que hagan apología de la violencia contra las mujeres o contribuyan a la promoción de estereotipos que discriminen y fomenten la desigualdad entre mujeres y hombres.
+
 ###### Artículo 40.
 
 Corresponderá a la Secretaría del Trabajo y Previsión Social el formular y ejecutar políticas y programas de promoción de los derechos humanos de las mujeres y el desarrollo integral de sus capacidades y habilidades en su desempeño laboral. Incorporando en la supervisión de las condiciones laborales de los centros de trabajo, la vigilancia en el cumplimiento de las normas en materia de igualdad de oportunidades, de trato y no discriminación en el acceso al empleo, capacitación, ascenso y permanencia de las mujeres, poniendo énfasis en la información sobre las conductas que encuadren en violencia laboral y promoviendo su erradicación.
@@ -1908,3 +1928,15 @@ P.O. 6 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 297 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, SE APRUEBA LA REFORMA QUE ADICIONA EL CAPITULO XIII VIOLENCIA OBSTÉTRICA Y EL ARTÍCULO 160 SEXTIES AL LIBRO SEGUNDO PARTE ESPECIAL AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA; SE APRUEBA LA REFORMA A LOS ARTÍCULOS 22 Y 23 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 318 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 50 Y 126 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA; LA REFORMA AL ARTÍCULO 27 DE LA LEY DE ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA; LA REFORMA AL ARTÍCULO 22 DE LA LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA; Y LA REFORMA AL ARTÍCULO 39 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 336 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, COMO TAMBIÉN LA ADICIÓN DEL NUMERAL 11 QUÁTER, AL MISMO ORDENAMIENTO, ASÍ MISMO SE APRUEBA LA REFORMA A LOS ARTÍCULOS 131, 261 Y 261 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
