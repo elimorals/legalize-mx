@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-atencion-y-prevencion-de-la-violencia-familiar-para-3296
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-04"
-last_updated: "2023-11-06"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección I, del Periódico Oficial de Baja California, el viernes 4 de julio de 2003.
 
@@ -369,9 +369,9 @@ Se establecen como políticas públicas de prevención las siguientes:
 
 I. Promoción del estudio e investigación de las causas y consecuencias de la violencia familiar, y con base en los resultados, adopción de las actuaciones necesarias para su erradicación;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-II. Impulso del proceso de modificación de patrones socio-culturales de conducta de hombres y mujeres bajo la perspectiva de género, incluyendo el diseño de programas de educación apropiados a todos los niveles, para contrarrestar prejuicios, costumbres y prácticas basadas en la supuesta superioridad o inferioridad de los géneros;
+II. Impulso del proceso de modificación de patrones socio-culturales de conducta de mujeres y hombres bajo la perspectiva de género, incluyendo el diseño de programas de educación apropiados a todos los niveles, para contrarrestar prejuicios, costumbres y practicas basadas en la supuesta superioridad o inferioridad de los géneros; así como la impartición de educación sexual integral y reproductiva que implique en sus contenidos el ejercicio responsable de la sexualidad, la planeación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual;
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
@@ -590,3 +590,11 @@ P.O. 6 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 296 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3, 4, 5, 8, 9, 11, 12, 13, 15, 20, 22, 23, 24, 25, 27, 30, 33, 36, 37 Y 40 Y SE DEROGAN LOS ARTÍCULOS 31, 32 Y LAS FRACCIONES I Y II DEL ARTÍCULO 34 Y EL ARTÍCULO 35 DE LA LEY DE ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en Vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 318 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 50 Y 126 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA; LA REFORMA AL ARTÍCULO 27 DE LA LEY DE ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA; LA REFORMA AL ARTÍCULO 22 DE LA LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA; Y LA REFORMA AL ARTÍCULO 39 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA (SIC)”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Ejecutivo del Estado expedirá las disposiciones reglamentarías correspondientes para la aplicación de la reforma a la presente Ley, dentro de los noventa días siguientes a la publicación del presente Decreto.
