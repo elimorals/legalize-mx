@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ciencia-desarrollo-tecnologico-e-innovacion-para-el-1229
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-08"
-last_updated: "2021-01-29"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122990&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de agosto de 2017.
 
@@ -292,6 +292,10 @@ Para la operación y creación de los instrumentos que impulsen la investigació
 ###### ARTÍCULO 19.
 
 La investigación científica, el desarrollo tecnológico y la innovación apoyarán al desarrollo económico integral del Estado, a través de la vinculación permanente de las instituciones que desarrollan investigación científica y tecnológica con los procesos productivos, comerciales y financieros, mediante la gestión de recursos para apoyar la modernización, innovación y desarrollo tecnológico de dichos procesos.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+Asimismo, la investigación científica, el desarrollo tecnológico y la innovación contribuirán a fomentar e impulsar desarrollos tecnológicos e innovaciones para el sector productivo, especialmente para micro, pequeñas y medianas empresas.
 
 ###### ARTÍCULO 20.
 
@@ -1110,3 +1114,9 @@ P.O. 29 DE ENERO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 595.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 19 DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
