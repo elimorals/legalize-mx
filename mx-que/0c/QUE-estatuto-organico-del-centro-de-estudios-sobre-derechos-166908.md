@@ -4,7 +4,7 @@ identifier: "QUE-estatuto-organico-del-centro-de-estudios-sobre-derechos-166908"
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-06-30"
-last_updated: "2023-06-30"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 ESTATUTO ORGÁNICO DEL CENTRO DE ESTUDIOS SOBRE DERECHOS HUMANOS DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Estatuto publicado en el No. 47 del Periódico Oficial del Estado de Querétaro, el viernes 30 de junio de 2023.
 
@@ -119,7 +119,9 @@ X. Organizar todo tipo de eventos, congresos y actividades académicas en materi
 
 XI. Emitir y publicar, las convocatorias de ingreso a las actividades de capacitación y formación académica de nivel superior que imparta el CEDHQ;
 
-XII. Expedir las constancias, diplomas, títulos, certificados y demás documentos oficiales que acrediten la participación en la capacitación y formación académica;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+XII. Expedir las constancias, diplomas, títulos, certificados y demás documentos oficiales que acrediten la participación en la capacitación, en la formación académica o la obtención del grado académico correspondiente;
 
 XIII. Obtener ante las autoridades competentes, los registros, autorizaciones, y reconocimientos correspondientes de los planes y programas de estudios que imparta el CEDHQ;
 
@@ -233,9 +235,13 @@ II. Elaborar y proponer a la persona titular de la Presidencia de la DDHQ para s
 
 III. Dirigir la ejecución y evaluación del proceso formativo de calidad, así como la evaluación de los y docentes estudiantes, para asegurar el cumplimiento de los objetivos establecidos;
 
-IV. Gestionar el registro de planes y programas de estudios de la formación académica de nivel superior que imparta el CEDHQ, así como el registro y trámite correspondiente para la expedición de títulos, cédulas profesionales, certificados, diplomas, constancias de calificación y demás documentos oficiales en términos de la legislación aplicable;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-V. Otorgar, expedir y suscribir de forma conjunta con la persona titular de la Presidencia de la DDHQ, los títulos, certificados, constancias o diplomas que correspondan a quienes hayan concluido satisfactoriamente sus estudios, de conformidad con los requisitos establecidos en los planes y programas de estudios correspondientes;
+IV. Gestionar el registro de planes y programas de estudios de la formación académica de nivel superior que imparta el CEDHQ, así como el registro y trámite correspondiente para la expedición de títulos, cédulas profesionales, certificados, diplomas, constancias y demás documentos oficiales para la obtención del grado académico correspondiente en términos de la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+V. Otorgar, expedir y suscribir de forma conjunta con la persona titular de la Presidencia de la DDHQ, los títulos, certificados, diplomas, constancias y demás documentos oficiales para la obtención del grado académico correspondiente, a quienes hayan concluido satisfactoriamente sus estudios, de conformidad con los requisitos establecidos en los planes y programas de estudios correspondientes;
 
 VI. Realizar acciones institucionales de difusión de la capacitación y formación académica impartida por el CEDHQ;
 
@@ -459,9 +465,11 @@ VII. Conocer de forma integral el presente Estatuto y los demás instrumentos no
 
 VIII. Las demás que determine la normatividad correspondiente.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 34.
 
-Cuando una persona estudiante proporcione documentación falsa para su inscripción o registro en alguna actividad académica que ofrezca el CEDHQ o bien se acredité plagio de algún trabajo realizado, se le negará la misma, y si ésta se hubiese realizado, de inmediato se le privará de los derechos que se le hayan otorgado y en su caso se cancelará el título, diploma, certificado, constancia o reconocimiento, según sea el caso, que acredite los estudios realizados. Lo anterior con independencia de las denuncias correspondientes ante las autoridades competentes.
+Cuando una persona estudiante proporcione documentación falsa para su inscripción o registro en alguna actividad académica que ofrezca el CEDHQ o bien se acredité plagio de algún trabajo realizado, se le negará la misma, y si ésta se hubiese realizado, de inmediato se le privará de los derechos que se le hayan otorgado y en su caso se cancelará el título, diploma, certificado, constancia, reconocimiento o grado académico, según sea el caso, que acredite los estudios realizados. Lo anterior con independencia de las denuncias correspondientes ante las autoridades competentes.
 
 ###### Artículo 35.
 
@@ -544,3 +552,13 @@ Rúbrica
 Rodrigo Chávez Fierro
 
 Coordinador del Centro de Estudios sobre Derechos Humanos de Querétaro.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL CENTRO DE ESTUDIOS SOBRE DERECHOS HUMANOS DE QUERÉTARO; DEL REGLAMENTO INTERIOR DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DE QUERÉTARO; Y DE LA CONVOCATORIA A TODOS LOS PROVEEDORES INTERESADOS EN PARTICIPAR EN EL SUMINISTRO DE BIENES Y SERVICIOS PARA LA DEFENSORÍA DE LOS DERECHOS HUMANOS DE QUERÉTARO (DDHQRO) PARA EL EJERCICIO FISCAL 2023".]
+
+Artículo primero. El presente ordenamiento entrará en vigor el día de su expedición y se publicará en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente acuerdo.
