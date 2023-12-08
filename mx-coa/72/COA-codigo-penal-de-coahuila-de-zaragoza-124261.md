@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2023-11-28"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -4199,61 +4199,67 @@ Para que el perdón concedido extinga la acción penal o la pena impuesta cuando
 
 Asimismo, se extinguirá la acción, o no se impondrá pena alguna o no se ejecutará la impuesta, cuando el acusado satisfaga todas las cantidades que haya dejado de suministrar y garantice que en lo sucesivo pagará las cantidades a que esté obligado.
 
-### Capítulo Único. Delitos de crueldad y violencia contra animales
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-Artículo 261 (Crueldad y violencia contra los animales)
+### Capítulo Único. Delitos de crueldad y violencia contra seres sintientes
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+Artículo 261 (Crueldad y violencia contra los seres sinitentes (sic))
 
 A. (Pautas específicas de aplicación)
 
-Toda persona tiene la obligación de respetar a los animales vivos vertebrados, no humanos, que no constituyan plaga y con arreglo a las disposiciones aplicables.
+Toda persona tiene la obligación de respetar a los seres sintientes vivos vertebrados, no humanos, que no constituyan plaga y con arreglo a las disposiciones aplicables.
 
-Los animales objeto de violencia o crueldad a que se refiere este artículo sólo serán los que se comprenden en el párrafo precedente.
+Los seres sintientes objeto de violencia o crueldad a que se refiere este artículo sólo serán los que se comprenden en el párrafo precedente.
 
-B. (Delitos de crueldad contra animales)
+B. (Delitos de crueldad contra seres sintientes)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE DICIEMBRE DE 2020)</small>
+Se impondrá de dos a cuatro años de prisión y de cien a quinientos días multa, así como el decomiso de todos los seres sintientes que pudiera tener bajo su cuidado o resguardo, a quien realice contra un ser sintiente cualquiera de las conductas siguientes:
 
-Se impondrá de uno a tres años de prisión y de cien a quinientos días multa, así como el decomiso de todos los animales que pudiera tener bajo su cuidado o resguardo, a quien realice contra un animal cualquiera de las conductas siguientes:
+I. (Abandono en vía pública, en el campo o en sitios aislados)
 
-I. (Azuzamiento que provoque dolor extremo)
+Abandone deliberadamente a un ser sintiente de compañía o de trabajo, privándole de agua, alimento y atención médica, así mismo, exponiéndolo a las inclemencias del clima, a los depredadores y, tras adquirir una condición feral, al eventual maltrato o exterminio por parte de los seres humanos.
 
-Azuce a un animal que tenga sujeto para el trabajo, mediante un instrumento que le provoque dolores o lesiones innecesarias.
+II. (Azuzamiento que provoque dolor extremo)
 
-II. (Vivisección sin fines científicamente necesarios)
+Azuce a un ser sintiente que tenga sujeto para el trabajo, mediante un instrumento que le provoque dolores o lesiones innecesarias.
 
-Practique la vivisección de un animal con fines que no sean científicamente necesarios para preservar la vida o salud humanas.
+III. (Vivisección sin fines científicamente necesarios)
 
-III. (Mutilación o intervención quirúrgica sin anestesia)
+Practique la vivisección de un ser sintiente con fines que no sean científicamente necesarios para preservar la vida o salud humanas.
 
-Mutile cualquier parte del cuerpo de un animal vivo, o lo intervenga quirúrgicamente, sin suministrarle anestesia.
+IV. (Mutilación o intervención quirúrgica sin anestesia)
 
-No será punible la mutilación de un animal que se realice para marcarlo o castrarlo, por su higiene, o por motivos de piedad.
+Mutile cualquier parte del cuerpo de un ser sintiente vivo, o lo intervenga quirúrgicamente, sin suministrarle anestesia.
 
-IV. (Lesiones con fines perversos)
+No será punible la mutilación de un ser sintiente que se realice para marcarlo o castrarlo, por su higiene, o por motivos de piedad.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 12 DE FEBRERO DE 2021)</small>
+V. (Lesiones con fines perversos)
 
-Cause lesiones a un animal por medio de cualquier arma, instrumento, objeto, medio o método, por venganza, odio o diversión.
+Cause lesiones a un ser sintiente por medio de cualquier arma, instrumento, objeto, medio o método, por venganza, odio o diversión.
 
-V. (Modalidad agravante para los delitos de crueldad a animales)
+VI. (Modalidad agravante para los delitos de crueldad a un ser sintiente)
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 12 DE FEBRERO DE 2021)</small>
+Se aumentará en una mitad los mínimos y máximos de las penas señaladas en el primer párrafo, cuando a causa de las conductas señaladas en las fracciones precedentes, se hubiera causado al ser sintiente la pérdida o la inutilidad de un sentido, órgano o miembro principal.
 
-Se aumentará en una mitad los mínimos y máximos de las penas señaladas en las fracciones del apartado B de este artículo, cuando a causa de las conductas señaladas en las fracciones precedentes, se hubiera causado al animal la pérdida o la inutilidad de un sentido, órgano o miembro principal, o muera como consecuencia de los actos de crueldad de que fue objeto
+Cuando el ser intiente (sic) muera a causa de las conductas previstas en las fracciones anteriores, se aumentarán al doble los mínimos y máximos de las penas señaladas al inicio de este apartado.
 
-C. (Delito de violencia contra los animales)
+C. (Delito de violencia contra los seres sintientes)
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+Se impondrá de dos a seis años de prisión y de mil a dos mil días multa, así como el decomiso de los objetos, instrumentos y productos del delito, a quien organice, explote, financie, promueva o realice, por cuenta propia o ajena, actos de maltrato de un ser sintiente que deriven en zoofilia, pelea de seres sintientes entre sí o con ejemplares de otra especie, ya sea en un espectáculo público o privado, salvo lo exceptuado en las Leyes de Protección a los Animales.
 
-Se impondrá de dos a seis años de prisión y de mil a dos mil días multa, así como el decomiso de los objetos, instrumentos y productos del delito, a quien organice, explote, financie, promueva o realice, por cuenta propia o ajena, actos de maltrato animal que deriven en zoofilia, pelea de animales entre sí o con ejemplares de otra especie, ya sea en un espectáculo público o privado, salvo lo exceptuado en las Leyes de Protección a los Animales.
+Los seres sintientes que hayan sido objeto de decomiso a que se refiere este artículo, podrán ser puestos bajo los cuidados de las asociaciones protectoras de seres sintientes debidamente registradas que lo soliciten, hasta en tanto se determine su destino legal.
 
-Los animales que hayan sido objeto de decomiso a que se refiere este artículo, podrán ser puestos bajo los cuidados de la asociaciones protectoras de animales debidamente registradas que lo soliciten, hasta en tanto se determine su destino legal.
+En caso de que la conducta prevista en el presente artículo sea provocada por médico veterinario o persona relacionada con el cuidado, resguardo o comercio de seres sintientes, además de las penas anteriores se aplicará la suspensión o inhabilitación, según sea el caso, por un lapso de uno a cinco años del empleo, cargo, profesión, oficio, autorización, licencia, comercio o cualquier circunstancia bajo la cual hubiese cometido el delito.
 
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 12 DE FEBRERO DE 2021)</small>
+Las mismas penas se aplicarán a los agentes del estado que teniendo conocimiento de los actos no realicen actividad para prevenirlo, salvaguardar al ser sintiente o sus restos.
 
-En caso de que la conducta prevista en el presente artículo sea provocada por médico veterinario o persona relacionada con el cuidado, resguardo o comercio de animales, además de las penas anteriores se aplicará la suspensión o inhabilitación, según sea el caso, por un lapso de uno a cinco años del empleo, cargo, profesión, oficio, autorización, licencia, comercio o cualquier circunstancia bajo la cual hubiese cometido el delito.
+En estos delitos se considerará como parte de la reparación del daño el trabajo bajo supervisión de instituciones privadas o a cargo del estado que brinden apoyo y/o atención a seres sintientes preferentemente de la misma especie que aquellos sobre los que recayó la conducta delictiva.
 
-## Título Décimo. Delitos contra animales que afectan al derecho de una vida libre de violencia
+## Título Décimo. Delitos contra los seres sintientes que afectan al derecho de una vida libre de violencia
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 ### Capítulo Primero. Alteración del estado civil
 
@@ -8428,6 +8434,18 @@ Se derogan todas las disposiciones en contrario a este Decreto.
 P.O. 28 DE NOVIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 553.- SE ADICIONAN LOS ARTÍCULOS 236 BIS, 236 TER Y 236 QUÁTER DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA; SE ADICIONA LA FRACCIÓN XIII, RECORRIENDO LA ULTERIOR DEL ARTÍCULO 8 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones en contrario a este Decreto.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 567.- SE REFORMA LA DENOMINACIÓN DEL TÍTULO DÉCIMO Y LA DENOMINACIÓN DE SU CAPÍTULO ÚNICO, Y EL ARTÍCULO 261, DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA".]
 
 ###### ARTÍCULO PRIMERO.
 
