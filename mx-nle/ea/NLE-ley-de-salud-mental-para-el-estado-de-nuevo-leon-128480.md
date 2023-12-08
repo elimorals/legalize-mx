@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-salud-mental-para-el-estado-de-nuevo-leon-128480"
 country: "mx"
 rank: "ley"
 publication_date: "2018-05-09"
-last_updated: "2022-11-25"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SALUD MENTAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección III al Número 58 del Periódico Oficial del Estado de Nuevo León, el miércoles 9 de mayo de 2018.
 
@@ -124,6 +124,10 @@ XVII. Persona usuaria: aquella que recibe el beneficio de cualquier programa o c
 XVIII. Personal de salud: profesionales, especialistas, técnicos, auxiliares y demás trabajadores que laboran en la prestación de los servicios de salud mental;
 
 XIX. Prevención de riesgos en salud mental: conjunto de acciones contenidas en los planes, programas, campañas y proyectos gubernamentales, nacionales e internacionales, con la finalidad de informar y educar a la población en relación a cualquier aspecto vinculado a la salud mental e intervenir en las comunidades para evitar situaciones de riesgo y dar a conocer procedimientos con el propósito principal de preservar la calidad de vida;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+XIX BIS. Primeros Auxilios Psicológicos: intervención de atención psicológica en el transcurso de una crisis, accidente o acontecimiento traumático.
 
 XX. Profesional de salud mental: se entenderá un médico, un psicólogo clínico, un profesional de enfermería, un trabajador social u otra persona debidamente capacitada y calificada en una especialidad relacionada con la atención de la salud mental;
 
@@ -343,6 +347,10 @@ Queda prohibido someter a Niñas, Niños y Adolescentes a pruebas o tratamientos
 
 La atención de la salud mental que la Secretaría o el Instituto proporcionen a Niñas, Niños y Adolescentes se ejecutará por conducto de los Centros Comunitarios de Salud Mental en sus correspondientes jurisdicciones incorporando la atención especializada a aquellos y sus cuidadores mediante actividades que incluyan psicodiagnóstico, psicoterapia individual o familiar o ambas, intervención psicosocial grupal, atención psiquiátrica y visita integral de salud mental.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+La Secretaría establecerá los Centros Comunitarios de Salud Mental, de manera óptima y realizará la difusión necesaria para un mejor acceso a todas aquellas personas que lo necesiten, especialmente a niños, niñas, jóvenes, adultos mayores y mujeres.
+
 ###### Artículo 21.
 
 En el ámbito de las actividades de procuración e impartición de justicia en los que se encuentren vinculados Niñas, Niños y Adolescentes y a fin de procurar su salud mental, los procesos serán desarrollados bajo estricta aplicación del interés superior de la niñez y conforme a las reglas de actuación previstas por el Protocolo de actuación para quienes imparten justicia en casos que involucren a Niñas, Niños y Adolescentes de la Suprema Corte de Justicia de la Nación.
@@ -466,6 +474,12 @@ La formación profesional en materia de prevención de riesgos en salud mental, 
 ###### Artículo 31.
 
 La Secretaría de Desarrollo Social y el Sistema para el Desarrollo Integral para la Familia del Gobierno del Estado y sus homólogas de los gobiernos municipales, en el ámbito de sus atribuciones y a través de sus unidades administrativas correspondientes, desarrollarán acciones que permitan otorgar apoyos de asistencia social a personas que presentan trastornos mentales y del comportamiento y que debido a su situación económica o por falta de apoyo familiar requieren de este tipo de asistencia, incluyendo su ingreso a establecimientos públicos o del sector social o privado en donde se les brinden los cuidados necesarios, tomando en cuenta lo dispuesto en el artículo 42 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 31 Bis.
+
+las Instituciones de Seguridad Pública, del Estado y los Municipios, en términos de lo dispuesto en el artículo 39 de esta Ley, deberán implementar acciones para garantizar que sus integrantes, reciban de manera inmediata por parte de personal especializado, atención, apoyo y seguimiento psicológico o de cualquier disciplina o especialidad que se requiera, para garantizar el pleno respeto a su dignidad como seres humanos, cuando a consecuencia del desempeño de sus funciones, esté en riesgo su vida o su integridad física y psicológica.
 
 ### Capítulo VI. Del Consejo de Salud Mental del Estado de Nuevo León
 
@@ -1037,6 +1051,12 @@ Como parte del acompañamiento médico podrán participar miembros de la comunid
 
 Cuando se trate del intento o la conducta suicida de una niña, niño o adolescente, la institución que primero conozca del caso deberá dar aviso del incidente a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, a fin de que realice las acciones necesarias para salvaguardar los derechos de la niña, niño o adolescente.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+Artículo 101 bis 5.- Con la finalidad de mejorar la respuesta del estado en lo relativo a la atención de intentos de suicidio, la Secretaría tendrá la obligación de capacitar en materia de primeros auxilios psicológicos, orientados especialmente a la prevención del suicidio, a todo el personal de campo de los cuerpos de seguridad y de protección civil estatales y municipales.
+
+La Secretaría deberá, además, dejar las pautas de capacitación a los diversos cuerpos de seguridad y de protección civil referidos en el párrafo anterior, para que dichos organismos puedan continuar capacitando al nuevo personal que se integre a sus respectivas corporaciones.
+
 ###### Artículo 102.
 
 La aplicación de sanciones y los respectivos recursos de inconformidad con relación a las violaciones a los preceptos de esta Ley, su reglamento y demás disposiciones legales que de ella emanen, serán competencia de la Secretaría Estatal de Salud, conforme a lo dispuesto en el capítulo IV del título sexto de la Ley Estatal de Salud y de acuerdo al procedimiento previsto en el título séptimo de esa misma ley.
@@ -1132,3 +1152,13 @@ P.O. 25 DE NOVIEMBRE DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La Secretaría de Salud contará con un plazo de 180 días hábiles contados a partir de la publicación del presente Decreto para emitir las disposiciones que garanticen el brindar primeros auxilios psicológicos o atención psicológica de emergencia en tiempo real a través de una línea de emergencia.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM.461. SE ADICIONA LA FRACCIÓN XIX BIS AL ARTÍCULO 4, EL PÁRRAFO SEGUNDO AL ARTÍCULO 20, EL ARTÍCULO 31 BIS, Y 101 BIS 5, DE LA LEY DE SALUD MENTAL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente de su publicación.
+
+Segundo. La ejecución y cumplimiento de las disposiciones contenidas en el presente Decreto, se realizarán de forma gradual y progresiva, considerando los recursos disponibles.
+
+Tercero. El Ejecutivo Estatal y demás autoridades competentes, tendrán un plazo no mayor a los 180 días naturales a partir de la entra en vigor del presente Decreto, para armonizar, emitir o adecuar sus disposiciones reglamentarias que permitan prever en la esfera administrativa lo previsto en el presente Decreto.
