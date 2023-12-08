@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1106
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-13"
-last_updated: "2023-09-08"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2015.
 
@@ -645,9 +645,9 @@ VI. Financiar las acciones de información y concientización destinadas a fomen
 
 VII. Evitar la segregación del mercado de trabajo de las personas por razón de su género;
 
-> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-VIII. Diseñar y aplicar lineamientos que aseguren la igualdad de género en la contratación del personal en la administración pública;
+VIII. Diseñar y aplicar lineamientos que aseguren la igualdad de género en la, selección, ingreso, permanencia y profesionalización del personal en la administración pública.
 
 > <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
 
@@ -657,13 +657,25 @@ IX. Diseñar políticas y programas de desarrollo y de reducción de la pobreza 
 
 X. Establecer estímulos que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia, de conformidad con la legislación aplicable y la disponibilidad presupuestaria;
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-XI. Promover condiciones de trabajo que eviten el acoso sexual, y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación; y,
+XI. Promover condiciones de trabajo que eviten el acoso sexual, y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación;
 
-> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
-XII. Impulsar el establecimiento del principio de igualdad de remuneración entre mujeres y hombres cuando realicen trabajos de igual valor.
+XII. Impulsar el establecimiento del principio de igualdad de remuneración entre mujeres y hombres cuando realicen trabajos de igual valor;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+XIII. Fomentar la adopción voluntaria de programas de igualdad por parte del sector privado, para ello se generarán diagnósticos de los que se desprendan las carencias y posibles mejoras en torno a la igualdad entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+XIV. Reconocer los derechos de conciliación de la vida personal, familiar y laboral a las trabajadoras y trabajadores en forma que fomenten la asunción equilibrada de las responsabilidades familiares, evitando toda discriminación basada en su ejercicio, pudiendo coordinarse entre sí, o con las autoridades federales para implementar reconocimientos a las empresas familiarmente responsables; y,
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+XV. Difundir, previo consentimiento de las empresas o personas, los planes que apliquen éstas en materia de igualdad entre mujeres y hombres.
 
 ### CAPÍTULO TERCERO. PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA EQUILIBRADA DE LAS MUJERES Y LOS HOMBRES
 
@@ -888,3 +900,11 @@ P.O. 8 DE SEPTIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 275 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 16 Y UNA FRACCIÓN XII AL ARTÍCULO 40 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 334 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN VIII Y LA ADICIÓN DE LAS FRACCIONES XIII, XIV Y XV AL ARTÍCULO 40 DE (SIC) LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma de Ley entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado de Baja California.
+
+SEGUNDO.- Las autoridades desarrollaran en el ámbito de las disposiciones reglamentarias que correspondan los mecanismos para darles difusión a las empresas que cumplan con estos estándares.
