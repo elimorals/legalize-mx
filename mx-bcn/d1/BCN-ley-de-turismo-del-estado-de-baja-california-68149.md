@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-turismo-del-estado-de-baja-california-68149"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-03"
-last_updated: "2023-05-26"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de abril de 2009.
 
@@ -69,6 +69,8 @@ IX.- La optimización de la calidad de los servicios turísticos; y
 
 X.- La creación de los mecanismos para la participación de los sectores social y privado en el fomento, inversión y desarrollo del turismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 8 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 3.
 
 Para los efectos de esta Ley se entenderá por:
@@ -84,6 +86,10 @@ IV.- Consejo Consultivo de Turismo.- El Consejo Consultivo de Turismo del Estado
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
 V.- Desarrolladores.- Las personas que cuentan con la infraestructura para construir en el Estado con fines de fomento al turismo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+V BIS.- Destino Turístico Estatal: Espacio territorial reconocido por la Secretaría, caracterizado por diversos recursos turísticos, infraestructura, conectividad y servicios locales.
 
 VI.- Ejecutivo Estatal: Poder Ejecutivo del Gobierno del Estado Libre y Soberano de Baja California.
 
@@ -234,6 +240,10 @@ La Secretaría es la dependencia encargada, dentro de la esfera de su competenci
 ###### ARTÍCULO 8.
 
 Los planes, programas y acciones relacionados con el Turismo se sujetarán a los principios, estrategias y prioridades previstas en el Plan Nacional de Desarrollo, el Programa Nacional de Turismo, el Programa Sectorial de Turismo, el Plan Estatal de Desarrollo, en los programas especiales, en los programas de desarrollo urbano municipales y en los planes de ordenamiento ecológico Federales y Estatales.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 8 BIS.- La Secretaría, en el ámbito de su competencia, promoverá y fomentará el Equilibrio Turístico en los Destinos Turísticos Estatales, entendiéndose como tal el balance en el grado de desarrollo de la actividad turística del Estado.
 
 ###### ARTÍCULO 9.
 
@@ -454,6 +464,40 @@ VII.- El Secretario de Protección al Ambiente del Estado;
 VIII.- En el caso de los Ayuntamientos que participan en la sociedad o en cuyo Municipio se produzca la actividad de la sociedad, dos representantes que éstos determinen; y
 
 IX.- Por invitación, otras dependencias o entidades de la Administración Pública Estatal, de los Ayuntamientos y los organismos turísticos locales que, en cada caso, se determine.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 29 BIS.- La Secretaría reconocerá a los Destinos Turísticos Estatales en las siguientes categorías:
+
+I.- Barrio Mágico: área urbanizada de una zona metropolitana dotada de identidad y características propias, que a través del tiempo y ante la modernidad, ha conservado su patrimonio y singularidad cultural y manifiesta sus expresiones de forma excepcional.
+
+II.- Desarrollo Recíproco: área transformada a través de la creación de un producto turístico inducido, en donde se habilitan servicios básicos de desarrollo urbano, a partir de un estilo arquitectónico significativo e integra a la comunidad local en las actividades productivas y comerciales, manteniendo un régimen de sostenibilidad y de protección a la identidad cultural.
+
+III.- Espacios Territoriales Diversos: aquel determinado por la Secretaría, integrado por una o más localidades, que, por sus recursos naturales y culturales, contribuyen al desarrollo social y económico de una comunidad a partir del flujo de visitantes.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 29 TER.- Los Destinos Turísticos Estatales, se clasificarán por el grado de desarrollo de su actividad turística conforme a lo siguiente:
+
+I.- Desarrollo emergente: aquellos en los que el flujo de visitantes incrementa gradualmente, pero aún no cuentan con infraestructura, conectividad y servicios turísticos;
+
+II.- Desarrollo creciente: aquellos en donde el flujo de visitantes es constante y cuenta con infraestructura, conectividad y servicios turísticos limitados; y,
+
+III.- Desarrollo consolidado: aquellos que cuentan con un alto flujo de visitantes, así como una red consolidada y autosuficiente de infraestructura.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 29 QUÁTER.- La Secretaría deberá elaborar un Registro Estatal de Destinos con el objetivo de promover el desarrollo de la actividad turística local.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 29 QUINQUIES.- El Registro Estatal de Destinos es la herramienta informática de clasificación de los Destinos Turísticos Estatales, de carácter público, establecido y operado por la Secretaría.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 29 SEXIES.- La planeación, política, administración y gestión de las acciones para intervenir en los Destinos Turísticos Estatales se realizará de acuerdo a su categoría y grado de desarrollo.
+
+La Secretaría podrá determinar acciones y programas compensatorios en los Destinos Turísticos Estatales, de acuerdo con las disposiciones jurídicas aplicables. Estas acciones y programas abarcarán aspectos como recursos, infraestructura, servicios, inversión, capacitación, promoción y comercialización, entre otros, con el objetivo de fomentar un desarrollo turístico equilibrado en la entidad. Dichas acciones y programas se llevarán a cabo conforme la disponibilidad presupuestaria correspondiente y se financiarán con cargo al presupuesto autorizado para los ejecutores del gasto responsables en el ejercicio fiscal correspondiente.
 
 ### CAPÍTULO V. INSTRUMENTOS DE APOYO A LA INVERSIÓN
 
@@ -1390,3 +1434,9 @@ P.O. 26 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 229 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 4, 27, 33 BIS, 50 BIS 5, 52, 54, 55, 56, 144 QUÁTER, 144 QUINQUIES, 144 OCTIES, 144 DECIES Y 165 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 328 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 3 Y ADICIÓN DE LOS ARTÍCULOS 8 BIS, 29 BIS, 29 TER, 29 QUATER, 29 QUINQUIES Y 29 SEXTIES A LA LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
