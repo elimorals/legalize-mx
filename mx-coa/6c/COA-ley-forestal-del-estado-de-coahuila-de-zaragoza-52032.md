@@ -4,7 +4,7 @@ identifier: "COA-ley-forestal-del-estado-de-coahuila-de-zaragoza-52032"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-03"
-last_updated: "2019-12-20"
+last_updated: "2023-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY FORESTAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. 8 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY FORESTAL DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 3 de octubre de 2006.
 
@@ -1256,3 +1258,27 @@ P.O. 20 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 411.- SE ADICIONA LA FRACCIÓN XXXI AL ARTÍCULO 4 Y SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 12; ASÍ COMO LA FRACCIÓN XI DEL ARTÍCULO 13 DE LA LEY FORESTAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 307.- SE CREA LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Forestal del Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado el 1 (sic) de octubre de 2006.
+
+###### ARTÍCULO TERCERO.
+
+Se dejan sin efectos las disposiciones que se opongan a lo previsto en esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado deberá emitir las disposiciones reglamentarias a esta ley, en un plazo de hasta ciento ochenta días naturales contados a partir de la entrada en vigor de la presente ley.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo Estatal Forestal, creado mediante decreto de la Ley Forestal del Estado de Coahuila de Zaragoza, publicada el 01 (sic) de octubre de 2006, mantendrá su vigencia a la entrada en vigor del presente decreto, además, los integrantes de dicho Consejo, así como los de las subcomisiones y grupos de trabajo de la misma, continuarán en funciones en términos de las disposiciones aplicables.
