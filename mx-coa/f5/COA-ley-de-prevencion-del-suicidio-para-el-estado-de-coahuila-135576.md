@@ -4,7 +4,7 @@ identifier: "COA-ley-de-prevencion-del-suicidio-para-el-estado-de-coahuila-13557
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-09"
-last_updated: "2020-11-17"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PREVENCIÓN DEL SUICIDIO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección al Número 29 del Periódico Oficial del Estado de Coahuila, el martes 9 de abril de 2019.
 
@@ -103,7 +103,9 @@ I. Capacitar, de manera sistemática y permanente en la detección oportuna de p
 
 II. Elaborar un protocolo de atención en los servicios de primer nivel de todos los centros de atención médica de la entidad, particularmente del Centro Estatal de Salud Mental (Cesame) y del Hospital Psiquiátrico de Parras de la Fuente, poniendo énfasis en las áreas de emergencia hospitalaria.
 
-III. Diseñar un protocolo de coordinación entre los centros hospitalarios, las líneas telefónicas de emergencia y demás instancias que incidan en la prevención del suicidio.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+III. Diseñar y aprobar un protocolo de coordinación entre los centros hospitalarios, la Secretaría de Educación, las líneas telefónicas de emergencia y demás instancias que incidan en la prevención del suicidio.
 
 IV. Establecer convenios de colaboración coordinada contra el suicidio con instituciones públicas, entidades de la iniciativa privada, centros de socorro, asociaciones religiosas, asociaciones de padres de familia, sociedad civil y organizaciones no gubernamentales.
 
@@ -177,7 +179,9 @@ I. Realizar, bajo la asesoría de la autoridad sanitaria, un plan y estrategias 
 
 II. Promover la capacitación del personal del sector educativo que lleve a cabo la Secretaría de Salud, para la detección oportuna de niños, niñas, y adolescentes con tendencia suicida, o bien, que hayan intentado suicidarse.
 
-III. Elaborar un protocolo para la atención oportuna a alumnos con conducta suicida.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+III. Elaborar un protocolo con la aprobación de la Secretaría de Salud, para la atención oportuna a alumnos con conducta suicida.
 
 IV. Realizar campañas de orientación en el sector educativo, principalmente en zonas con alto índice de suicidios entre su población, que vayan dirigidos directamente a su comunidad educativa.
 
@@ -314,3 +318,9 @@ P.O. 17 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 750.- SE AGREGA UN SEGUNDO PÁRRAFO AL ARTÍCULO 6 DE LA LEY DE PREVENCIÓN DEL SUICIDIO PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 572.- SE REFORMA LA FRACCIÓN III, DEL ARTÍCULO 7 DE LA LEY DE PREVENCIÓN DEL SUICIDIO PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
