@@ -4,7 +4,7 @@ identifier: "COL-codigo-electoral-del-estado-de-colima-82705"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-08-30"
-last_updated: "2023-07-08"
+last_updated: "2023-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COL"
 
 CÓDIGO ELECTORAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2023.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 8 DE JULIO DE 2023 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 331 PUBLICADO EN EL P.O. DEL 30 DE JUNIO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2023.
 
 Código publicado en el suplemento No. 1 del Periódico Oficial del Estado de Colima, el martes 30 de agosto de 2011.
 
@@ -1171,9 +1169,21 @@ VIII. En el año de la elección en que se renueven el Poder Ejecutivo Estatal y
 
 Para el caso de la renovación de Ayuntamientos cada partido político recibirá adicionalmente para gastos de campaña una cantidad equivalente al 20% del monto del financiamiento público ordinario que le corresponda en ese año;
 
-IX. Para apoyar las actividades relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales se destinará hasta un 3% adicional de la cantidad anual a que se refiere la fracción IV de este artículo, dicho monto será distribuido el 30% en partes iguales a los PARTIDOS POLITICOS y el 70% restante en proporción al número de votos logrados por cada uno en la elección respectiva, en los términos del reglamento que apruebe el CONSEJO GENERAL. En todo caso, los partidos comprobarán los gastos que eroguen para la realización de las actividades mencionadas, y
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE DICIEMBRE DE 2023)</small>
+
+IX. Para apoyar las actividades relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales se destinará hasta un 3% adicional de la cantidad anual a que se refiere la fracción IV de este artículo, dicho monto será distribuido el 30% en partes iguales a los PARTIDOS POLÍTICOS y el 70% restante en proporción al número de votos logrados por cada uno en la elección respectiva, en los términos del reglamento que apruebe el CONSEJO GENERAL. En todo caso, los partidos comprobarán los gastos que eroguen para la realización de las actividades mencionadas.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2023)</small>
+
+Para dichas actividades relativas a la educación, capacitación, investigación socioeconómica y política, los partidos políticos garantizarán que en dichas actividades se encuentre la población joven, la población indígena, personas con discapacidad, personas de la diversidad sexual y otros grupos vulnerables, y
 
 X. Cada partido político deberá destinar anualmente el 3% del financiamiento público anual que le corresponda, para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres. Cada partido comprobará los gastos que erogue para la realización de las actividades mencionadas. El partido que incumpla con dicha disposición, le será aplicable las sanciones que correspondan.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN X, P.O. 9 DE DICIEMBRE DE 2023.]</small>
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2023)</small>
+
+Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, los partidos políticos garantizarán que en dichas actividades se encuentren mujeres jóvenes, mujeres de la población indígena, mujeres con discapacidad, mujeres de la diversidad sexual y otras mujeres que integren otros grupos vulnerables.
 
 Se entiende por actividades específicas como entidades de interés público, las siguientes:
 
@@ -5974,3 +5984,9 @@ CUARTO. Se otorga al Pleno del Tribunal Electoral del Estado de Colima, un plazo
 QUINTO. Infórmese al Senado de la República de la presente reforma, con la finalidad de que se emita acuerdo para excluir del procedimiento de designación vigente, a las 2 magistraturas supernumerarias convocadas, debiendo quedar subsistente la convocatoria para la designación del Magistrado Numerario; y para que en lo subsecuente se omita expedir convocatoria para designar a nuevas personas en las Magistraturas Supernumerarias, debido a que dichas Magistraturas desaparecen como integración del Tribunal Electoral del Estado de Colima por efecto de la presente reforma, en consecuencia, no se generará vacante alguna en estos cargos.
 
 SEXTO.- El Consejo General del Instituto Electoral del Estado de Colima deberá emitir a más tardar el 31 de agosto de la presente anualidad, los lineamientos para garantizar el cumplimiento de los porcentajes que en cuestión de postulación se instituyen en los artículos 51 y 160 de este Decreto.
+
+P.O. 9 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 370.- POR EL QUE SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 64; ADEMÁS, SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN IX Y UN SEGUNDO PÁRRAFO A LA FRACCIÓN X, AMBAS DEL ARTÍCULO 64 DEL CÓDIGO ELECTORAL DEL ESTADO DE COLIMA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
