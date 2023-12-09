@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2023-06-24"
+last_updated: "2023-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2023.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -1847,7 +1847,9 @@ VI. De tres a siete años de prisión, si producen la pérdida de cualquier func
 
 VII. De tres a seis años de prisión, cuando pongan en peligro la vida.
 
-Las lesiones a que se refieren las fracciones I y II se perseguirán mediante querella.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2023)</small>
+
+Las lesiones a que se refieren las fracciones I y II se perseguirán mediante querella, excepto si se cometen en contra de personas menores de dieciocho años de edad, en este caso, se investigarán de oficio.
 
 ###### Artículo 130.
 
@@ -5818,6 +5820,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 24 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFCOD/0550/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFCOD/0638/2023 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 129, SEGUNDO PÁRRAFO, DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
