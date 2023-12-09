@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2023-07-22"
+last_updated: "2023-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2023.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -967,7 +967,11 @@ Recibido el aviso, el Oficial del Registro Civil, deberá emitir el acta de naci
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2019)</small>
 
-Artículo 55 BIS.- Ningún menor que haya nacido en hospitales privados o del Estado podrá salir del mismo sin haber sido previamente registrado ante la Oficialía del Registro Civil. En los casos que se dé a luz en comunidades rurales o indígenas, casas particulares y/o lugares externos a sanatorios privados o del Estado, la Oficialía del Registro Civil deberá adoptar las medidas necesarias para que el menor, en no más de tres días hábiles, obtenga su registro y acta de nacimiento. La Dirección General del Registro Civil determinará las instituciones médicas, públicas y privadas, en las que se instalarán los Módulos del Registro Civil para registrar a los ahí nacidos antes de abandonar dichos establecimientos, en coordinación y bajo supervisión de la propia Dirección General.
+ART. 55 BIS.- Ningún menor que haya nacido en hospitales privados o del Estado podrá salir del mismo sin haber sido previamente registrado ante la Oficialía del Registro Civil. En los casos que se dé a luz en comunidades rurales o indígenas, casas particulares y/o lugares externos a sanatorios privados o del Estado, la Oficialía del Registro Civil deberá adoptar las medidas necesarias para que el menor, en no más de tres días hábiles, obtenga su registro y acta de nacimiento. La Dirección General del Registro Civil determinará las instituciones médicas, públicas y privadas, en las que se instalarán los Módulos del Registro Civil para registrar a los ahí nacidos antes de abandonar dichos establecimientos, en coordinación y bajo supervisión de la propia Dirección General.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2023)</small>
+
+Para el caso de las personas que por algún motivo no fueron registradas en el tiempo señalado por el presente artículo, se realizará un registro extemporáneo de nacimiento y deberá sujetarse a los requisitos que disponga el Reglamento para el Registro Civil, pero en todo momento se deberá preponderar garantizar el derecho a la identidad.
 
 ART. 56.- (DEROGADO, P.O. 3 DE JUNIO DE 2017)
 
@@ -12016,3 +12020,11 @@ P.O. 22 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 333.- POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 58 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 9 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 369.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 55 BIS DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. En un plazo no mayor a ciento ochenta días posteriores a la publicación del presente Decreto, el Poder Ejecutivo del Estado y los Ayuntamientos de la Entidad, realizarán las modificaciones de orden reglamentario y administrativo necesarias para garantizar la correcta y oportuna ejecución de las nuevas disposiciones que resultan de la reforma materia del presente Decreto.
