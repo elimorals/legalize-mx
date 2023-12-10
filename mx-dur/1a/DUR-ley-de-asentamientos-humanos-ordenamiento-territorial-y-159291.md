@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-asentamientos-humanos-ordenamiento-territorial-y-159291"
 country: "mx"
 rank: "ley"
 publication_date: "2022-06-02"
-last_updated: "2022-12-22"
+last_updated: "2023-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número 44 del Periódico Oficial del Estado de Durango, el jueves 2 de junio de 2022.
 
@@ -1109,9 +1109,15 @@ III. La celebración de convenios entre autoridades, propietarios, y los sectore
 
 IV. Las demás que se consideren necesarias para la eficacia de la acción de mejoramiento.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 72.
 
-La Dirección Municipal de Desarrollo Urbano o su equivalente, en su ámbito de competencia, expedirá el dictamen de compatibilidad urbanística de uso de suelo a la persona física o moral que lo solicite, sin que esto acredite la posesión o propiedad del inmueble o inmuebles objeto de la solicitud.
+La Dirección Municipal de Desarrollo Urbano o su equivalente, en su ámbito de competencia, expedirá el dictamen de compatibilidad urbanística de uso de suelo a la persona física o moral que lo solicite, sin que esto acredite la posesión o propiedad del inmueble o inmuebles objeto de la solicitud. En caso de solicitar el dictamen con cambio de uso de suelo, deberá acreditar la propiedad del mismo. En ningún trámite administrativo se admitirá la gestión de negocios.
+
+La representación de personas físicas ante las autoridades municipales se hará mediante poder otorgado ante fedatario público o en carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante Notario.
+
+En el caso de las personas morales se hará por conducto de sus órganos de dirección o apoderados legales.
 
 #### SECCIÓN CUARTA. DE LA PRESERVACIÓN ECOLÓGICA Y PROTECCIÓN CIVIL
 
@@ -1255,19 +1261,29 @@ Para tal efecto la Secretaría emitirá una guía para la elaboración de dichos
 
 ### CAPITULO I. DEL CONTROL DEL DESARROLLO URBANO
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 88.
 
-Para destinar un área, predio o construcción a un uso determinado, los propietarios o poseedores deberán de obtener dictamen de compatibilidad urbanística de uso de suelo correspondiente; la presentación del dictamen será necesaria para iniciar el trámite de la licencia de construcción respectiva.
+Para destinar un área, predio o construcción a un uso determinado, los propietarios deberán de obtener dictamen de compatibilidad urbanística de uso de suelo correspondiente; la presentación del dictamen será necesaria para iniciar el trámite de la licencia de construcción respectiva.
 
 ###### Artículo 89.
 
 La Secretaría y los ayuntamientos, tomarán las medidas pertinentes para la densificación de zonas, propiciando aprovechamientos de áreas y predios baldíos, que cuenten con infraestructura, equipamiento y servicios urbanos.
 
-###### Artículo 90.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 10 DE DICIEMBRE DE 2023)</small>
+
+###### Articulo 90.
 
 Los objetivos del dictamen de compatibilidad urbanística de uso de suelo son:
 
-I. Dar seguridad jurídica a la propiedad respecto de la legalidad, del asentamiento humano o desarrollo inmobiliario;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 10 DE DICIEMBRE DE 2023)</small>
+
+I. Dar seguridad jurídica a la propiedad respecto a:
+
+a) La legalidad del uso de suelo, y
+
+b) La legalidad del asentamiento humano o desarrollo inmobiliario.
 
 II. Conservar y mejorar el patrimonio cultural y natural;
 
@@ -3958,3 +3974,11 @@ P.O. 22 DE DICIEMBRE DE 2022.
 PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 10 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 480 QUE CONTIENE REFORMAS A LOS ARTÍCULOS 72, 88 Y 90 DE LA LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
