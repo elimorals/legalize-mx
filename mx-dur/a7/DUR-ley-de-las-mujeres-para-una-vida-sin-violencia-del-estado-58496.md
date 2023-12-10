@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-las-mujeres-para-una-vida-sin-violencia-del-estado-58496
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-30"
-last_updated: "2023-04-20"
+last_updated: "2023-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de diciembre de 2007.
 
@@ -419,11 +419,11 @@ XV. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañ
 
 La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2023)</small>
 
-###### ARTÍCULO 12.
+###### Artículo 12.
 
-La violencia contra las mujeres en el ámbito institucional, son los actos u omisiones de las y los servidores públicos de cualquier orden de gobierno que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+La violencia contra las mujeres en el ámbito institucional, son los actos u omisiones de las y los servidores públicos de cualquier orden de gobierno que discriminen, utilicen estereotipos de género o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
@@ -963,7 +963,7 @@ El Estado y los municipios, se coordinarán para la integración del Sistema Est
 
 El Sistema Estatal, parte integrante del Sistema Nacional, tiene por objeto coordinar los esfuerzos, políticas públicas y acciones interinstitucionales que lleven a cabo las dependencias y entidades del sector público estatal y/o municipal, con el apoyo también de las organizaciones de la sociedad civil, para la determinación e implementación de acciones, métodos y procedimientos, destinados a la protección de los derechos de las mujeres y a la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 337 PUBLICADO EN EL P.O. 25 DE JUNIO DE 2020, PÁGINA 120.]</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 487 PUBLICADO EN EL P.O. 10 DE DICIEMBRE DE 2023, PÁGINA 52.]</small>
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
@@ -1018,6 +1018,10 @@ g. El Presidente de la Comisión Legislativa de Equidad y Género del Congreso d
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 25 DE JUNIO DE 2020)</small>
 
 h. El Instituto Electoral y de Participación Ciudadana del Estado de Durango; y
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2023)</small>
+
+i. El Instituto Duranguense de la Juventud.
 
 IV ... (sic)
 
@@ -2023,13 +2027,29 @@ XVIII. Recabar y difundir los criterios imperativos de normativa estatal, nacion
 
 XIX.- Las demás previstas para el cumplimiento de la Ley.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE DICIEMBRE DE 2023)</small>
+
+#### Sección Décima Bis. Del Instituto Duranguense de la Juventud
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 48 Bis.
+
+Corresponde al Instituto Duranguense de la Juventud;
+
+I. Ejecutar, en el ámbito de sus atribuciones, las acciones necesarias para la prevención, atención y erradicación de la violencia en contra de las mujeres;
+
+II. Celebrar convenios de cooperación y coordinación en la materia;
+
+III. Participar en la aprobación del Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+IV. Coadyuvar, en el ámbito de sus atribuciones, con los objetivos de esta Ley; y
+
+V. Las demás previstas para el cumplimiento de la presente Ley.
+
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
 #### Sección Décima Primera. De los Sistemas DIF Estatal y Municipales
-
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
-
-#### Sección Décima Segunda. De los Municipios
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -2068,6 +2088,10 @@ XIV. Celebrar convenios de cooperación, coordinación y concertación en la mat
 XV. Las demás previstas para el cumplimiento de esta Ley.
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
+#### Sección Décima Segunda. De los Municipios
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
 ###### Artículo 50.
 
@@ -2472,6 +2496,22 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 20 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 353.- QUE CONTIENE REFORMA Y ADICIÓN A LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 486 QUE CONTIENE REFORMA AL ARTÍCULO 12 DE LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 487 POR EL CUAL SE ADICIONA EL INCISO I, A LA FRACCIÓN III DEL ARTÍCULO 30 Y UNA SECCIÓN DECIMA BIS DENOMINADA INSTITUTO DURANGUENSE DE LA JUVENTUD QUE CONTIENE EL ARTÍCULO 48 BIS, A LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
