@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-trabajadores-al-servicio-de-los-poderes-del-38547"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-23"
-last_updated: "2023-07-21"
+last_updated: "2023-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 23 de febrero de 2004.
 
@@ -43,9 +45,11 @@ LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BA
 
 ### CAPITULO UNICO
 
-###### ARTICULO 1º.
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 2023)</small>
 
-La presente Ley es de observancia general para los titulares y trabajadores de los Poderes del Estado y Municipios de Baja California Sur y fundamenta su vigencia en los artículos 115 fracción VIII y 116 fracción V de la Constitución General de la República.
+###### ARTICULO 1°.
+
+La presente Ley es de observancia general para los titulares y trabajadores de los Poderes del Estado y Municipios de Baja California Sur y fundamenta su vigencia en los artículos 115 fracción VIII y 116 fracción VI de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 2º.
 
@@ -1287,6 +1291,10 @@ El Tribunal de Conciliación y Arbitraje para hacer cumplir sus determinaciones,
 
 Las multas se harán efectivas por la Secretaría de Finanzas, para lo cual el Tribunal fijará el oficio correspondiente. Aquella dependencia informará al Tribunal de haber hecho efectiva la multa, señalando los datos relativos que acrediten su cobro.
 
+> <small>(ADICIONADO, B.O. 10 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 154 BIS. El Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur, deberá contar con una página de internet o medios electrónicos convencionales para cumplir con las obligaciones que, en materia de transparencia, le sean aplicables de conformidad con lo establecido en el artículo 75 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur.
+
 ## TITULO OCTAVO. PROCEDIMIENTO DE EJECUCION
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
@@ -1638,3 +1646,21 @@ B.O. 21 DE JULIO DE 2023.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 10 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 3002 SE REFORMA EL ARTÍCULO 1° DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 3003 SE ADICIONA UN ARTÍCULO 154 BIS A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El presente Decreto entrara en vigor el 01 de enero de 2024.
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
