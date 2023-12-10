@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-trabajadores-al-servicio-de-los-tres-poderes-del-508
 country: "mx"
 rank: "ley"
 publication_date: "1980-07-24"
-last_updated: "2023-04-20"
+last_updated: "2023-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2023.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 24 de julio de 1980.
 
@@ -511,6 +511,12 @@ XII.- Determinar las condiciones generales de trabajo cada período de Gobierno,
 
 XIII.- Otorgar al trabajador por cada cinco años de antigüedad, el equivalente a seis días del sueldo base que perciba, mismos que serán divididos en 24 quincenas, independientemente de otros aumentos por distintos conceptos.
 
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2023)</small>
+
+XIV.- Otorgar permiso de paternidad de cinco días laborables con goce de sueldo, a los hombres trabajadores, por el nacimiento de su hija o hijo, dicha licencia empezará a contar al día siguiente del parto o cesárea.
+
+Para hacer uso de este derecho se deberá presentar la documentación oficial respectiva, ante la instancia correspondiente, según sea el caso.
+
 ###### Artículo 56o.
 
 Se concederán medallas, diplomas y menciones honoríficas a los empleados que se distingan desempeñando en forma constante, eficiente y honorable, las labores que les fueron encomendadas.
@@ -697,7 +703,9 @@ I.- Si la relación de trabajo fuere por tiempo determinado menor de un año, en
 
 II.- Si la relación de trabajo fuere por tiempo indeterminado, la indemnización consistirá en veinte días de salario por cada uno de los años de servicio prestados; y
 
-III.- Además de las indemnizaciones a que se refieren las Fracciones anteriores, en el importe de tres meses de salario y en el de los salarios caídos desde la fecha del despido hasta la fecha en que se paguen las indemnizaciones.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2023)</small>
+
+III.- Además de las indemnizaciones a que se refieren las fracciones anteriores, en el importe de tres meses de salario y tratándose de los salarios vencidos estos se pagaran desde la fecha del despido hasta por un período máximo de doce meses; si al término del plazo señalado no ha concluido el procedimiento o no se ha dado cumplimiento a la sentencia, se pagaran también al trabajador los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago.
 
 ## TITULO TERCERO. DEL ESCALAFON
 
@@ -1606,6 +1614,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 20 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 350.- QUE CONTIENE ADICION A LA LEY DE TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 481 QUE CONTIENE ADICIÓN A UNA FRACCIÓN XIV (SIC) ARTÍCULO 55 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO.".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 482 QUE CONTIENE REFORMA A LA FRACCIÓN III DEL ARTÍCULO 65 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
