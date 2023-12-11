@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-atencion-proteccion-e-inclusion-de-las-personas-114
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-26"
-last_updated: "2021-04-12"
+last_updated: "2023-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114853&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 26 de mayo de 2016.
 
@@ -185,9 +185,15 @@ XIX. Tomar decisiones por sí o a través de sus padres o tutores para el ejerci
 
 XX. Gozar de una vida sexual digna y segura;
 
-XXI. Contar con asesoría y asistencia jurídica cuando sus derechos humanos y civiles les sean violados, para resarcirlos; y
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-XXII. Los demás que garanticen su integridad, dignidad, bienestar y plena integración a la sociedad de acuerdo con las distintas disposiciones constitucionales y legales.
+XXI. Contar con asesoría y asistencia jurídica cuando sus derechos humanos y civiles les sean violados, para resarcirlos;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
+
+XXII. Contar con la solidaridad, sensibilidad y respeto de la sociedad, para que su desarrollo no sea perjudicado por el ruido que provoca la música, los cohetes o cualquier otro que altere la integridad física y emocional de la persona; y
+
+XXIII. Los demás que garanticen su integridad, dignidad, bienestar y plena integración a la sociedad de acuerdo con las distintas disposiciones constitucionales y legales.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2021)</small>
 
@@ -394,3 +400,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La aplicación de las reformas del presente decreto se sujetará a la disponibilidad presupuestal correspondiente.
+
+P.O. 11 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-740 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXI Y SE ADICIONA UNA FRACCIÓN XXII, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE AL ARTÍCULO 10, DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
