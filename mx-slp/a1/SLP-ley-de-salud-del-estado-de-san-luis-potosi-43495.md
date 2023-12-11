@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2023-07-31"
+last_updated: "2023-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -101,9 +101,13 @@ IV. Cuidados básicos: la higiene, alimentación e hidratación y, en su caso, e
 
 V. Cuidados paliativos: son los cuidados activos y totales relacionados con el control del dolor y de otros síntomas, proporcionados a las personas en fase terminal que no respondan a tratamientos curativos. Así como la atención de aspectos psicológicos, sociales y espirituales;
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
+
+V Bis. Educación Integral en Sexualidad: proceso integral de enseñanza y aprendizaje con enfoque social y cultural acerca de los aspectos cognitivos, emocionales, físicos y sociales de la sexualidad, cuyo objetivo es preparar a las niñas, niños y adolescentes con conocimientos, habilidades, actitudes y valores para su salud, bienestar y dignidad; desarrollar relaciones, considerar cómo sus elecciones afectan su propio bienestar y el de las personas; y entender cuáles son sus derechos a lo largo de la vida, así como asegurarse de protegerlos;
+
 > <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2017)</small>
 
-V Bis. Espectro autista: condición caracterizada en diferentes grados por dificultades en la interacción social, en la comunicación verbal y no verbal, y en comportamientos repetitivos;
+V Ter. Espectro autista: condición caracterizada en diferentes grados por dificultades en la interacción social, en la comunicación verbal y no verbal, y en comportamientos repetitivos;
 
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
@@ -197,9 +201,9 @@ II. La atención médica ginecológica a todas las mujeres, en especial a las qu
 
 II BIS. La prestación de los servicios de salud, medicamentos y demás insumos asociados para personas sin seguridad social; para tal efecto podrá celebrar con las autoridades federales acuerdos de coordinación en términos de la Ley General de Salud, y destinarles los recursos correspondientes de conformidad con la Ley de Coordinación Fiscal;
 
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-III. La atención e información sobre el ejercicio responsable de la sexualidad y reproducción humanas, métodos anticonceptivos, planificación familiar desde sexto año de primaria, y en las clínicas y hospitales de todos los niveles;
+III. La atención e información sobre el ejercicio responsable de la sexualidad y reproducción humana, métodos anticonceptivos, y planificación familiar en los centros educativos y las unidades de salud de todos los niveles de atención, así como la promoción de la educación integral en sexualidad en niñas, niños y adolescentes conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez que les permita ejercer de manera informada y responsable sus derechos;
 
 > <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
 
@@ -547,9 +551,9 @@ I. La atención médica, expedita y de calidad, preferentemente en beneficio de 
 
 II. La atención médica ginecológica a todas las mujeres, en especial a las que solicitan servicios de prevención de embarazos, a las embarazadas, a las parturientas, a las mujeres con embarazos de riesgo, así como atención prenatal, al recién nacido y su cuidado intensivo a prematuros o de enfermedades congénitas;
 
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-III. La información sobre el ejercicio responsable de la sexualidad y la salud reproductiva, métodos anticonceptivos, planificación familiar desde sexto año de primaria, y en las clínicas y hospitales de todos los niveles;
+III. La información sobre el ejercicio responsable de la sexualidad y la salud reproductiva, métodos anticonceptivos, y planificación familiar en centros educativos y las unidades de salud de todos los niveles de atención, así como la promoción de la educación integral en sexualidad en niñas, niños y adolescentes conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez que les permitan ejercer de manera informada y responsable sus derechos;
 
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
@@ -4830,6 +4834,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 31 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0802.- SE REFORMAN LOS ARTÍCULOS 4º EN SU FRACCIÓN XXIV Y 51 EN SUS FRACCIONES IV Y V; Y ADICIONA A LOS ARTÍCULOS 4º UNA FRACCIÓN, ÉSTA COMO XXV Y 51 LA FRACCIÓN VI, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0884.- SE REFORMAN LOS ARTÍCULOS 5º EN SU FRACCIÓN III Y 14 EN SU FRACCIÓN III; Y ADICIONA AL ARTÍCULO 4º UNA FRACCIÓN, ÉSTA COMO V BIS, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
