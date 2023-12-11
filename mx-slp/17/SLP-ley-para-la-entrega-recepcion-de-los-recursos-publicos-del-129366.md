@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-entrega-recepcion-de-los-recursos-publicos-del-1293
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-21"
-last_updated: "2023-09-01"
+last_updated: "2023-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ENTREGA-RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 21 de junio de 2018.
 
@@ -271,7 +271,13 @@ e) Subdirectores o sus equivalentes.
 
 f) Jefes de departamento u oficina.
 
-g) Aquéllos que tengan a su cargo recursos públicos;
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2023)</small>
+
+g) Aquéllos que tengan a su cargo recursos públicos.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2023)</small>
+
+h) Las personas titulares de los órganos internos de control;
 
 VI. Cualquier persona física que ocupe un empleo, cargo o comisión de cualquier naturaleza dentro de los entes previstos en los artículos 64 y 65 de la Ley Orgánica de la Administración Pública del Estado así como de los previstos en el artículo 104 de la Ley Orgánica del Municipio Libre del Estado de san Luis Potosí, que en el marco de sus atribuciones y funciones le corresponda administrar, aplicar o recibir por cualquier título recursos públicos.
 
@@ -383,9 +389,7 @@ I. La Contraloría General del Estado, la entrega-recepción individual, respect
 
 II. El órgano interno de control del Congreso del Estado, respecto de los sujetos obligados señalados en el artículo 7°, fracción I, inciso a) de esta Ley;
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
-
-III. El órgano interno de control de la Auditoría Superior del Estado, respecto de los sujetos obligados señalados en el artículo 7°, fracción I, inciso b) de esta Ley;
+III. (DEROGADA, P.O. 11 DE DICIEMBRE DE 2023)
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
@@ -401,9 +405,9 @@ VI. Los órganos internos de control de las entidades y órganos públicos, resp
 
 VII. Los órganos internos de control municipales y paramunicipales, organismos, la entrega-recepción individual respecto de los sujetos obligados señalados en el artículo 7, fracciones IV y V, y
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-VIII. El Instituto de Fiscalización Superior del Estado, la entrega-recepción de fin e inicio de ejercicio del período constitucional, de los sujetos obligados señalados en el artículo 7 fracción IV, inciso a.
+VIII. El Instituto de Fiscalización Superior del Estado, respecto la entrega-recepción de fin e inicio de ejercicio del período constitucional, de los sujetos obligados señalados en el artículo 7 fracción IV, inciso a), así como respecto la entrega-recepción de los sujetos obligados señalados en el artículo 7 fracción V, incisos h), de esta Ley.
 
 ###### ARTÍCULO 12.
 
@@ -1186,3 +1190,11 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. En tanto se armonizan las leyes secundarias conforme a lo establecido en este Decreto, las referencias que hagan a la Auditoría Superior del Estado se entenderán hechas al Instituto de Fiscalización Superior del Estado.
+
+P.O. 11 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0885.- SE REFORMAN LOS ARTÍCULOS 7° FRACCIÓN V EN SU INCISO G) Y 11 EN SU FRACCIÓN VIII; ADICIONA AL ARTÍCULO 7° FRACCIÓN V EL INCISO H); Y DEROGA DEL ARTÍCULO 11 LA FRACCIÓN III, DE LA LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
