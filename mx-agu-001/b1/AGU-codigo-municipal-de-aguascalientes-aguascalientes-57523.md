@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2023-11-20"
+last_updated: "2023-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1969,21 +1969,29 @@ Departamento de Radio Comunicación.
 
 Departamento de Atención a Emergencias
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-XVII.- SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MARZO DE 2017)</small>
+XVII.- SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE
 
 Departamento Administrativo
 
+Dirección jurídica
+
+Departamento de Dictaminación y Resolución
+
 Dirección de Medio Ambiente y Cambio Climático.
 
-Departamento de Gestión Ambiental.
+Coordinación de Gestión Ambiental.
 
-Departamento de Recursos Naturales y Biodiversidad.
+Departamento de Impacto Ambiental
 
-Departamento de Educación Ambiental y Participación Ciudadana.
+Departamento de Control Ambiental
+
+Coordinación de Recursos Naturales y Educación Ambiental
+
+Departamento de Recursos Naturales y Biodiversidad
+
+Departamento de Educación Ambiental y Participación Ciudadana
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MARZO DE 2017)</small>
 
@@ -25108,3 +25116,9 @@ P.O. 20 DE NOVIEMBRE DE 2023.
 > <small>[N. DE E. RESOLUTIVO DE LA “REFORMA AL ARTÍCULO 98 FRACCIÓN XXI DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]</small>
 
 PRIMERO. La presente reforma entrará en vigor a partir del primero de enero del año dos mil veinticuatro.
+
+P.O. 11 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA AL ARTÍCULO 98 FRACCIÓN XVII DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES, RELATIVAS AL CAMBIO DE ESTRUCTURA ORGÁNICA DE LA SECRETARÍA DEL MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE”.]
+
+ÚNICO.- La presente reforma entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
