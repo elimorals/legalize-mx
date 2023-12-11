@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-civil-para-el-estado-de-tamaulipas-22002"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-05"
-last_updated: "2023-06-06"
+last_updated: "2023-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:11 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de junio de 2001.
 
@@ -79,13 +79,21 @@ VIII.- Emergencia.- La situación derivada de fenómenos naturales, actividades 
 
 IX.- Establecimientos.- A las escuelas, oficinas, empresas, fábricas, industrias, o comercios, así como a cualquier otro local público o privado y, en general, a cualquier instalación, construcción, servicio u obra, en los que debido a su propia naturaleza, al uso a que se destine, o a la concurrencia masiva de personas, pueda existir riesgo. Para los efectos de esta ley, existen establecimientos de competencia Estatal, y de competencia Municipal;
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
+
+IX Bis.- Fenómeno Antropogénico.- Agente perturbador producido por la actividad humana;
+
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
 X.- Fenómeno geológico.- Calamidad que tiene como causa las acciones y movimientos violentos de la corteza terrestre. A esta categoría pertenecen los sismos o terremotos, las erupciones volcánicas, los tsunamis o maremotos y la inestabilidad de suelos, también conocido como movimientos de tierra, los que pueden adoptar diferentes formas: arrastre lento o reptación, deslizamiento, flujo o corriente, avalancha o alud, derrumbe y hundimiento;
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-XI.- Fenómeno hidrometeorológico.- Calamidad que se genera por la acción violenta de los agentes atmosféricos, tales como: huracanes, inundaciones pluviales, fluviales, costeras y lacustres; tormentas de nieve, granizo, polvo y electricidad; heladas; sequías y las ondas cálidas y gélidas;
+X Bis.- Fenómeno Natural Perturbador.- Agente perturbador producido por la naturaleza;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
+
+XI.- Fenómeno hidrometeorológico.- Calamidad que se genera por la acción violenta de los agentes atmosféricos, tales como: ciclones tropicales, huracanes, inundaciones pluviales, fluviales, costeras y lacustres; tormentas de nieve, granizo, polvo y electricidad; heladas; tornados; sequías y las ondas cálidas y gélidas;
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -95,11 +103,27 @@ XII.- Fenómeno químico-tecnológico.- Calamidad que se genera por la acción v
 
 XIII.- Fenómeno sanitario-ecológico.- Calamidad que se genera por la acción patógena de agentes biológicos que atacan a la población, a los animales y a las cosechas, causando su muerte o la alteración de salud. Las epidemias o plagas constituyen un desastre sanitario en el sentido estricto del término. En esta clasificación también se ubica la contaminación del aire, agua, suelo y alimentos;
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-XIV.- Fenómeno socio-organizativo.- Calamidad generada por motivo de errores o por acciones premeditadas, que se dan en el marco de grandes concentraciones o movimientos masivos de población;
+XIV.- Fenómeno Socio-Organizativo.- Calamidad generada por motivo de errores o por acciones premeditadas, que se dan en el marco de grandes concentraciones o movimientos masivos de población, tales como: demostraciones de inconformidad social, concentración masiva de población, terrorismo, sabotaje, vandalismo, accidentes aéreos, marítimos o terrestres, e interrupción o afectación de los servicios básicos o de infraestructura estratégica;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
+
+XIV Bis.- Gestión Integral de Riesgos.- El conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción, que involucre a los tres niveles de gobierno, así como a los sectores de la sociedad, lo que facilita la realización de acciones dirigidas a la creación e implementación de políticas públicas, estrategias y procedimientos integrados al logro de pautas de desarrollo sostenible, que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de la sociedad. Involucra las etapas de: identificación de los riesgos y/o su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
 
 XV.- Grupos Voluntarios.- A las organizaciones y asociaciones legalmente constituidos y que cuentan con el reconocimiento oficial, cuyo objeto social sea prestar sus servicios en acciones de protección civil de manera comprometida y altruista, sin recibir remuneración alguna, y que para tal efecto cuentan con los conocimientos, preparación y equipos necesarios e idóneos;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
+
+XV Bis.- Mitigación.- Es toda acción orientada a disminuir el impacto o daños ante la presencia de un agente perturbador sobre un agente afectable;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
+
+XV Ter.- Peligro.- Probabilidad de ocurrencia de un agente perturbador potencialmente dañino de cierta intensidad, durante un cierto periodo y en un sitio determinado;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
+
+XV Quater.- Preparación.- Actividades y medidas tomadas anticipadamente para asegurar una respuesta eficaz ante el impacto de un fenómeno perturbador en el corto, mediano y largo plazo;
 
 XVI.- Prevención.- A las acciones, principios, normas, políticas y procedimientos, tendientes a disminuir o eliminar riesgos o altos riesgos, así como para evitar desastres y mitigar su impacto destructivo sobre la vida, la salud, bienes de las personas, la planta productiva, los servicios públicos y el medio ambiente;
 
@@ -111,9 +135,29 @@ XVII.- Protección Civil.- Al conjunto de acciones, principios, normas, polític
 
 XVIII.- Recuperación.- Al proceso orientado a la reconstrucción y mejoramiento del sistema afectado (población y entorno), así como a la reducción del riesgo de ocurrencia y la magnitud de los desastres futuros. Se logra con base en la evaluación de los daños ocurridos, en el análisis y la prevención de riesgos y en los planes de desarrollo establecidos;
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
+
+XVIII Bis.- Refugio Temporal.- La instalación física habilitada para brindar temporalmente protección y bienestar a las personas que no tienen posibilidades inmediatas de acceso a una habitación segura en caso de un riesgo inminente, una emergencia, siniestro o desastre;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
+
+XVIII Ter.- Resiliencia.- Es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, logrando una mejor protección futura y mejorando las medidas de reducción de riesgos;
+
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
 XIX.- Riesgo.- La probabilidad de peligro o contingencia de que se produzca un desastre;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
+
+XIX Bis.- Simulacro.- Representación mediante una simulación de las acciones de respuesta previamente planeadas con el fin de observar, probar y corregir una respuesta eficaz ante posibles situaciones reales de emergencia o desastre. Implica el montaje de un escenario en terreno específico, diseñado a partir de la identificación y análisis de riesgos y la vulnerabilidad de los sistemas afectables;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
+
+XIX Ter.- Sistema Nacional.- El Sistema Nacional de Protección Civil;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
+
+XIX Quater.- Siniestro.- Situación crítica y dañina generada por la incidencia de uno o más fenómenos perturbadores en un inmueble o instalación afectando a su población y equipo, con posible afectación a instalaciones circundantes;
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -1808,6 +1852,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 6 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-741 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XI Y XIV; Y SE ADICIONAN LAS FRACCIONES IX BIS; X BIS; XIV BIS; XV BIS; XV TER; XV QUATER; XVIII BIS; XVIII TER; XIX BIS; XIX TER Y XIX QUATER AL ARTÍCULO 2 DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
