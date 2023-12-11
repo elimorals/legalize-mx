@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-prevencion-tratamiento-y-control-de-las-82743"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-30"
-last_updated: "2023-07-31"
+last_updated: "2023-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de julio de 2011.
 
@@ -457,7 +457,9 @@ h) La persona que presida la rectoría de la Universidad Autónoma de San Luis P
 
 i) La persona titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes, la Mujer, la Familia y el Adulto Mayor.
 
-j) La persona titular de la Procuraduría General de Justicia del Estado.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2023)</small>
+
+j) La persona titular de la Fiscalía General del Estado.
 
 k) La persona titular de la Secretaría de Cultura.
 
@@ -467,9 +469,13 @@ m) La persona titular de la Secretaría de Educación.
 
 n) La persona titular de la Secretaría General de Gobierno.
 
-ñ) La persona titular de la Secretaría de Seguridad Pública del Estado.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-o) La persona titular de la Subsecretaría de Prevención y Reinserción Social.
+ñ) La persona titular de la Secretaría de Seguridad y Protección Ciudadana.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2023)</small>
+
+o) La persona titular de la Dirección General de Prevención y Reinserción Social.
 
 p) La persona titular del Instituto Potosino de la Juventud.
 
@@ -836,6 +842,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 31 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0799.- SE REFORMAN LOS ARTÍCULOS 34, 35, 36, 37, 38, 39, 40, 41 Y 42, DE LA LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 62 EN SU FRACCIÓN XXVIII; Y ADICIONA AL MISMO ARTÍCULO 62 UNA FRACCIÓN, DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0883.- SE REFORMA EL ARTÍCULO 28 EN SU FRACCIÓN V, LOS INCISOS J), Ñ) Y O), DE LA LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
