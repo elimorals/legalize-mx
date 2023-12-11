@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2023-11-27"
+last_updated: "2023-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "AGU"
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 11 DE DICIEMBRE DE 2023.]</small>
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -1023,9 +1025,9 @@ La recuperación y restitución de derechos a que se refiere el párrafo anterio
 
 En los casos en que niñas, niños y adolescentes sean víctimas y/u ofendidos de delitos se aplicarán las disposiciones de la Ley General de Víctimas y demás disposiciones que resulten aplicables. En todo caso, los protocolos de atención deberán considerar su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como la reparación integral del daño.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+> <small>(F. DE E., P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-En todos los casos que se detecten embarazos de menores de 18 años, los servicios de salud darán vista al Ministerio Público y a la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes, a efecto de que se investigue y determine si, en su caso, existe alguna conducta de naturaleza penal.
+En todos los casos en los que se detecten lesiones u otros signos presumiblemente vinculados a la violencia familiar o sexual en embarazos de niñas o adolescentes menores de 18 años, las instituciones del sector público, social y privado que otorguen atención médica darán vista a la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes quien, en caso de identificar una conducta que pueda ser constitutiva de un delito, dará vista al Ministerio Público.
 
 > <small>(ADICIONADO [N. DE E. REPUBLICADO Y REUBICADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
@@ -2975,9 +2977,11 @@ P.O. 6 DE NOVIEMBRE DE 2023.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
+> <small>(F. DE E., P.O. 11 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-Con la entrada en vigor del presente Decreto, (sic)
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentos que se opongan al mismo.
 
 P.O. 27 DE NOVIEMBRE DE 2023.
 
