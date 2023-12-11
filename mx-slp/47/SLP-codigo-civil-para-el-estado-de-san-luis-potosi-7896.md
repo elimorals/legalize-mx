@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2022-12-02"
+last_updated: "2023-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2023.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -8501,45 +8501,55 @@ ART. 2379.- Solamente será gratuito el mandato cuando así se haya convenido ex
 
 ART. 2380.- El mandato puede ser escrito o verbal.
 
-ART. 2381.- El mandato escrito puede otorgarse:
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-I.- En escritura pública;
+ART. 2381.- El mandato escrito se puede otorgar en:
 
-II.- En escrito privado, firmado por el otorgante y dos testigos y ratificadas las firmas ante notario público, juez de primera instancia, jueces menores o alcaldes, o ante el correspondiente funcionario o empleado administrativo, cuando el mandato se otorgue para asuntos administrativos;
+I. Escritura pública, o
 
-III.- En carta poder sin ratificación de firmas.
+II. Escrito privado.
 
-ART. 2382.- El mandato verbal es el otorgado de palabra entre presentes, hayan o no intervenido testigos.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-Cuando el mandato haya sido verbal debe ratificarse por escrito antes de que concluya el negocio para que se dio.
+ART. 2382.- El mandato verbal es el otorgado de palabra entre presentes, haya o no intervenido testigos, siempre que el interés del negocio no exceda el equivalente al valor de treinta Unidades de Medida y Actualización.
+
+Cuando el mandato haya sido verbal debe ratificarse por escrito en la forma prevista en este Código, antes de que concluya el negocio para que se dio.
 
 ART. 2383.- El mandato puede ser general o especial. Son generales los contenidos en los tres primeros párrafos del artículo 2384. Cualquiera otro mandato tendrá el carácter de especial.
 
-ART. 2384.- En todos los poderes generales para pleitos y cobranzas, bastará que se diga que se otorga con todas las facultades generales y las especiales que requieran la cláusula especial conforme a la Ley, para que se entiendan conferidos sin limitación alguna.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-En los poderes generales para administrar bienes, bastará expresar que se dan con ese carácter, para que el apoderado tenga toda clase de facultades administrativas.
+ART. 2384.- En todos los mandatos con poderes generales para pleitos y cobranzas, bastará que se diga que se otorga con todas las facultades generales y las especiales que requieran la cláusula especial conforme a la Ley, para que se entiendan conferidos sin limitación alguna.
 
-En los poderes generales, para ejercer actos de dominio, bastará que se den con ese carácter para que el apoderado tenga todas las facultades de dueño, tanto en lo relativo a los bienes, como para hacer toda clase de gestiones a fin de defenderlos.
+En los mandatos con poderes generales para administrar bienes, bastará expresar que se dan con ese carácter, para que el apoderado tenga toda clase de facultades administrativas.
 
-Cuando se quisieren limitar, en los tres casos antes mencionados, las facultades de los apoderados, se consignarán las limitaciones, o los poderes serán especiales.
+En los mandatos con poderes generales, para ejercer actos de dominio, bastará que se den con ese carácter para que el apoderado tenga todas las facultades de dueño, tanto en lo relativo a los bienes, como para hacer toda clase de gestiones a fin de defenderlos.
 
-Los notarios insertarán este artículo en los testimonios de los poderes que otorguen.
+Cuando se quisieren limitar en los tres casos antes mencionados, las facultades de los mandatarios, se consignarán las limitaciones, o los mandatos serán con poderes especiales.
 
-ART. 2385.- El mandato debe otorgarse en escritura pública:
+Cuando en los mandatos otorgados en escritura pública, no se determine su vigencia, se entenderá que ésta será de tres años contados a partir de la fecha de la escritura pública en la que consten, con excepción de los mandatos otorgados bajo los supuestos de los artículos, 2378 y 2426 de este Código.
 
-I.- Cuando sea general;
+Los notarios insertarán este artículo en los testimonios de los mandatos que se otorguen ante su presencia.
 
-II.- Cuando el interés del negocio para que se confiere llegue a un mil pesos o exceda de esa cantidad;
+Cuando durante la vigencia del poder, se hubiere iniciado un negocio cuya duración trascienda el término de su vigencia, se entenderán prorrogadas las facultades hasta su conclusión, quedando comprendida la de intentar el juicio de amparo.
 
-III.- Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley debe constar en instrumento público;
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2007)</small>
+ART. 2385.- El mandato debe otorgarse en escritura pública cuando:
 
-IV.- En el supuesto del párrafo segundo del artículo 2378 de este Código.
+I. Sea general;
 
-ART. 2386.- El mandato deberá otorgarse en escrito privado firmado ante dos testigos, sin que sea necesaria la previa ratificación de las firmas cuando el interés del negocio para que se confiere exceda de doscientos pesos y no llegue a mil pesos.
+II. El interés del negocio para que se confiere sea igual o exceda el equivalente al valor de treinta Unidades de Medida y Actualización;
 
-Sólo puede ser verbal el mandato cuando el interés del negocio no exceda de doscientos pesos.
+III. En virtud de él haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley debe constar en instrumento público, y
+
+IV. En el supuesto al que se refiere el párrafo segundo del artículo 2378 de este Código.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2023)</small>
+
+ART. 2386.- El mandato deberá otorgarse en escrito privado firmado ante dos testigos, sin que sea necesaria la previa ratificación de las firmas cuando el interés del negocio para que se confiere no exceda del valor de treinta Unidades de Medida y Actualización.
+
+El mandato deberá otorgarse en escrito privado firmado por el otorgante y dos testigos y ratificadas las firmas ante notario público, juez de primera instancia, jueces menores, o ante el correspondiente funcionario o empleado administrativo, cuando se otorgue para asuntos administrativos sin importar el monto del interés del negocio.
 
 ART. 2387.- La omisión de los requisitos establecidos en los artículos que preceden, anula el mandato, y sólo deja subsistentes las obligaciones contraídas entre el tercero que haya procedido de buena fe y el mandatario, como si éste hubiere obrado en negocio propio.
 
@@ -8643,7 +8653,9 @@ VII.- Para recibir pagos;
 
 VIII.- Para los demás actos que expresamente determine la Ley.
 
-Cuando en los poderes generales se desee conferir alguna o algunas de las facultades acabadas de enumerar, se observará lo dispuesto en el párrafo primero del artículo 2384.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2023)</small>
+
+Cuando en los mandatos con poderes generales se desee conferir alguna o algunas de las facultades mencionadas, se observará lo dispuesto en el párrafo primero del artículo 2384 de este Código.
 
 ART. 2418.- El procurador, aceptado el poder, está obligado:
 
@@ -8661,17 +8673,19 @@ ART. 2420.- El procurador o abogado que revele a la parte contraria los secretos
 
 ART. 2421.- El procurador que tuviere justo impedimento para desempeñar su encargo, no podrá abandonarlo sin substituir el mandato teniendo facultades para ello o sin avisar a su mandante, para que nombre a otra persona.
 
-ART. 2422.- La representación del procurador cesa, además de los casos expresados en el artículo 2425:
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-I.- Por separarse el poderdante de la acción u oposición que haya formulado;
+ART. 2422.- Además de los casos señalados en el artículo 2425 de este Código, la representación del procurador cesa por:
 
-II.- Por haber terminado la personalidad del poderdante;
+I. Separarse el mandante de la acción u oposición que haya formulado;
 
-III.- Por haber transmitido el mandante a otro sus derechos sobre la cosa litigiosa, luego que la transmisión o cesión sea debidamente notificada y se haga constar en autos;
+II. Haber terminado la personalidad del mandante;
 
-IV.- Por hacer el dueño del negocio alguna gestión en el juicio, manifestando que revoca el mandato;
+III. Haber transmitido el mandante a otro sus derechos sobre la cosa litigosa (sic), luego que la transmisión o cesión sea debidamente notificada y se haga constar en autos;
 
-V.- Por nombrar el mandante otro procurador para el mismo negocio.
+IV. Hacer el dueño del negocio alguna gestión en el juicio, manifestando que revoca el mandato, o
+
+V. Nombrar el mandante otro procurador para el mismo negocio.
 
 ART. 2423.- El procurador que ha substituído un poder, puede revocar la substitución si tiene facultades para hacerlo, rigiendo también en este caso, respecto del substituto, lo dispuesto en la fracción IV del artículo anterior.
 
@@ -8679,21 +8693,23 @@ ART. 2424.- La parte puede ratificar antes de la sentencia que cause ejecutoria,
 
 ### CAPITULO VI. De los diversos modos de terminar el Mandato
 
-ART. 2425.- El mandato termina:
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-I.- Por la revocación;
+ART. 2425.- El mandato termina por:
 
-II.- Por la renuncia del mandatario;
+I. La revocación;
 
-III.- Por la muerte del mandante o del mandatario;
+II. La renuncia del mandatario;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2007)</small>
+III. La muerte del mandante o del mandatario;
 
-IV.- Por la interdicción de uno u otro, excepto que hubiere sido otorgado en los términos del segundo párrafo del artículo 2378 de este Código, y cuando el mandato se hubiera otorgado con la mención expresa de que habría de subsistir aún cuando el mandante devengue incapaz;
+IV. La interdicción de uno u otro, excepto que hubiere sido otorgado en los términos del segundo párrafo del artículo 2378 de este Código, y cuando el mandato se hubiera otorgado con la mención expresa de que habría de subsistir aun cuando el mandante devengue incapaz;
 
-V.- Por el vencimiento del plazo y por la conclusión del negocio para el que fué concedido;
+V. El vencimiento del plazo;
 
-VI.- En los casos previstos por los artículos 616, 617 y 618.
+VI. La conclusión del negocio para el que fue concedido, y
+
+VII. En los casos previstos por los artículos 616, 617 y 618 de este Código.
 
 ART. 2426.- El mandante puede revocar el mandato cuando y como le parezca; menos en aquellos casos en que su otorgamiento se hubiere estipulado como una condición en un contrato bilateral, o como un medio para cumplir una obligación contraída.
 
@@ -10644,3 +10660,13 @@ P.O. 2 DE DICIEMBRE DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0882.- SE REFORMAN LOS ARTÍCULOS 2381, 2382, 2384, 2385, 2386, 2417 EN SU PÁRRAFO ÚLTIMO, 2422 Y 2425, DEL CÓDIGO CIVIL PARA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Los mandatos otorgados en escritura pública en los que no se haya señalado su vigencia, y que hayan sido otorgados antes del inicio de vigencia de este Decreto, se entenderán por tiempo indefinido, hasta en tanto opere su conclusión en términos del Código Civil para el Estado de San Luis Potosí.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
