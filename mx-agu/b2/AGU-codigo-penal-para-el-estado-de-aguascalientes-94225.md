@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2023-11-27"
+last_updated: "2023-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1849,9 +1849,9 @@ III. Se cometa en lugar cerrado o en edificio, vivienda, aposento o cuarto que e
 
 IV. Se cometa aprovechando la falta de vigilancia, el desorden o confusión que se produzcan por un incendio, inundación o accidentes en el tránsito de vehículos o aeronaves, u otros siniestros;
 
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-V. El objeto material del apoderamiento sean tubos, conexiones, tapas de registro, rejillas de alcantarillado o cualesquiera otros implementos de un servicio público u otros objetos que estén bajo la salvaguarda pública;
+V. El objeto material del apoderamiento sean tubos, conexiones, tapas de registro, rejillas de alcantarillado o cualesquiera otros implementos de infraestructura pública o equipamiento destinada a la prestación de servicios públicos estatales o municipales, tales como los servicios de salud, de educación o la prestación del servicio de agua potable, drenaje o alcantarillado; así como de los bienes para la prestación del servicio de alumbrado público, transformadores de voltaje de energía eléctrica que no pertenezcan a la Federación, contenedores o demás instalaciones o aquellos destinados para la limpia, recolección, traslado, tratamiento o disposición final de residuos;
 
 VI. Se lleve a cabo con destrucción o deterioro de bienes muebles o inmuebles;
 
@@ -2125,7 +2125,9 @@ La valoración que se haga de lo dañado tomará en consideración el valor diar
 
 Aumento de sanción. La punibilidad establecida en el Artículo anterior se aumentará hasta una mitad más respecto de los mínimos y máximos señalados:
 
-I. Si el daño se causa en bienes con valor científico, artístico o destinados al servicio público;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
+
+I. Si el daño se causa en bienes con valor científico y artístico;
 
 > <small>(REFORMADA, P.O. 16 DE MAYO DE 2022)</small>
 
@@ -3008,6 +3010,18 @@ A los responsables de Sedición se les aplicarán de 2 a 5 años de prisión y d
 Motín. El Motín consiste en la reunión en forma tumultuaria que cause grave desorden público, con el objeto de buscar el reconocimiento o concesión de algún derecho.
 
 A los responsables de Motín se les aplicarán de 2 a 5 años de prisión y de 20 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 187 A.- Sabotaje. El Sabotaje consiste en dañar o destruir la infraestructura pública o equipamiento destinado a la prestación de servicios públicos estatales o municipales, con el fin de suspender o afectar:
+
+I. Los servicios de salud, de educación, la prestación del servicio de agua potable, drenaje o alcantarillados;
+
+II. Los bienes para la prestación del servicio de alumbrado público, transformadores de voltaje de energía eléctrica que no pertenezcan a la Federación, contenedores o demás instalaciones o bienes del servicio público para la limpia, recolección, traslado, tratamiento o disposición final de residuos; o
+
+III. Las funciones de las dependencias municipales, del Estado, organismos públicos descentralizados, empresas de participación estatal o sus instalaciones.
+
+A los responsables de Sabotaje se les impondrán de 5 a 10 años de prisión y multa de 1,000 a 1,400 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JUNIO DE 2015)</small>
 
@@ -4098,3 +4112,15 @@ P.O. 27 DE NOVIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 504.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentos que se opongan al mismo.
