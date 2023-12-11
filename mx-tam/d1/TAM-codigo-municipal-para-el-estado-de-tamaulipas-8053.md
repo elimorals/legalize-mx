@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2023-12-07"
+last_updated: "2023-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -639,9 +639,13 @@ XVIII.- Cumplir con las disposiciones de la Ley para la Entrega-Recepción de lo
 
 XIX.- Enviar al Congreso para su estudio y dictamen y, en su caso, aprobación, las bases de contratación de empréstitos que afecten ejercicios fiscales futuros, salvo que el Congreso emita la autorización cuando a su juicio existan circunstancias que así lo requieran o se cuente con los recursos suficientes para el pago de sus obligaciones.
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-XX.- Fomentar actividades productivas, educativas, culturales y deportivas, así como la investigación científica y tecnológica en los términos de ley, además de la edición (sic) libros y otros materiales didácticos distintos a los libros de texto gratuito, con base en temáticas de civilidad, respeto, tolerancia, respeto a los derechos humanos, igualdad sustantiva y no discriminación, así como el impulso de programas de alfabetización, educación para personas adultas mayores, educación para y en el trabajo y la productividad; en igualdad de trato y oportunidades entre mujeres y hombres.
+XX.- Fomentar actividades productivas, educativas, culturales y deportivas, así como la investigación científica y tecnológica en los términos de ley, además de la edición de libros y otros materiales didácticos distintos a los libros de texto gratuito, con base en temáticas de civilidad, respeto, tolerancia, respeto a los derechos humanos, igualdad sustantiva y no discriminación, así como el impulso de programas de alfabetización, promoción de la lectura, educación para personas adultas mayores, educación en el trabajo y la productividad; en igualdad de trato y oportunidades entre mujeres y hombres.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2023)</small>
+
+Proteger, preservar y mantener la originalidad de los centros históricos en los municipios, considerándolos como agentes del desarrollo social, en términos de la Ley del Patrimonio Histórico y Cultural del Estado;
 
 XXI.- Auxiliar a las autoridades federales y estatales en la aplicación de las disposiciones normativas correspondientes, así como en la atención de los servicios públicos encomendados a ellas.
 
@@ -7076,6 +7080,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 7 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 65-738 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XVIII, RECORRIÉNDOSE EN SU ORDEN NATURAL LAS SUBSECUENTES, DEL ARTÍCULO 64, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 65-742 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO ÚNICO Y SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN XX, DEL ARTÍCULO 49, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
