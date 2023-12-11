@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-juntas-de-participacion-ciudadana-del-estado-de-san-1527
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-02"
-last_updated: "2023-09-29"
+last_updated: "2023-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE JUNTAS DE PARTICIPACION CIUDADANA DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE JUNTAS DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 2 de diciembre de 2021.
 
@@ -61,17 +63,21 @@ Para efectos de esta Ley se entiende por:
 
 I. CEEPAC. El Consejo Estatal Electoral y de Participación Ciudadana;
 
-II. Juntas. Las Juntas de Participación Ciudadana;
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-III. Ley. La Ley de Juntas de Participación Ciudadana del Estado de San Luis Potosí;
+II. Comité. El Comité de Seguridad Pública;
 
-IV. Presidencia. La presidencia de la Junta de Participación Ciudadana;
+III. Juntas. Las Juntas de Participación Ciudadana;
 
-V. Reglamento. El Reglamento de la Ley de las Juntas de Participación Ciudadana;
+IV. Ley. La Ley de Juntas de Participación Ciudadana del Estado de San Luis Potosí;
 
-VI. Secretaría. La secretaría de la Junta de Participación Ciudadana, y
+V. Presidencia. La presidencia de la Junta de Participación Ciudadana;
 
-VII. Vicepresidencia. La vicepresidencia de la Junta de Participación Ciudadana.
+VI. Reglamento. El Reglamento de la Ley de las Juntas de Participación Ciudadana;
+
+VII. Secretaría. La secretaría de la Junta de Participación Ciudadana, y
+
+VIII. Vicepresidencia. La vicepresidencia de la Junta de Participación Ciudadana.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
@@ -239,6 +245,32 @@ IV. Tres vocales, con sus respectivos suplentes.
 
 El número de vocales se podrá aumentar hasta dos más, si el número de habitantes representados es superior al mínimo establecido por esta Ley.
 
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 17 BIS. Las Juntas contarán con un Comité, el cual se conformará dentro de los treinta días hábiles posteriores a su instalación.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 17 TER. El Comité se constituirá con cinco personas, dos serán miembros de la Junta, los cuales serán designados por la mayoría de sus integrantes.
+
+Las o los tres miembros restantes serán designados, previa convocatoria que se emita para el efecto en la territorialidad que corresponda.
+
+En caso de que no se presenten postulantes, se podrá extender el término para la conformación, hasta por treinta días hábiles.
+
+Los miembros del Comité deberán cumplir con los requisitos, y obligaciones aplicables a los integrantes de las Juntas.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 17 QUÁTER. El Comité tendrá las siguientes atribuciones:
+
+I. Asistir a las sesiones de la Junta con derecho a voz;
+
+II. Fungir como enlace con las autoridades en materia de seguridad;
+
+III. Elaborar reportes y propuestas en materia de seguridad pública, en la territorialidad de la Junta, y canalizarlos a las autoridades pertinentes, y
+
+IV. Llevar a cabo, en coordinación con la Junta, las actividades que en materia de prevención del delito sugieran las autoridades competentes.
+
 ###### ARTÍCULO 18.
 
 Son causas de separación de los cargos de las Juntas:
@@ -323,13 +355,17 @@ X. Realizar acciones cuyo fin sea lograr un impacto favorable en la calidad de v
 
 XI. Establecer mecanismos de comunicación que informen a las personas habitantes de su territorialidad sobre las acciones tomadas;
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
+
+XII. Llevar a cabo los trabajos para la integración del Comité;
+
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
 
-XII. Apoyar a las autoridades en aquellas acciones emprendidas en su territorialidad, y
+XIII. Apoyar a las autoridades en aquellas acciones emprendidas en su territorialidad, y
 
 > <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
 
-XIII. Validar la conformación del comité de obra, y certificar el cumplimiento de las especificaciones de las obras públicas en la territorialidad de su competencia, en términos del artículo 170 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de San Luis Potosí.
+XIV. Validar la conformación del comité de obra, y certificar el cumplimiento de las especificaciones de las obras públicas en la territorialidad de su competencia, en términos del artículo 170 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de San Luis Potosí.
 
 ###### ARTÍCULO 24.
 
@@ -508,5 +544,13 @@ P.O. 29 DE SEPTIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0845.- SE REFORMAN LOS ARTÍCULOS 4º, 5º, 8º, 9º, 10, 11, 12, 13, 14, 15, 16 EN SU PÁRRAFO PRIMERO Y EN SUS FRACCIONES II, V Y VIII, 18 EN SUS FRACCIONES II, III, V Y VI, 21, 23 EN SUS FRACCIONES III, VI Y IX, 25 EN SU PÁRRAFO PRIMERO Y EN SU FRACCIÓN V, 26 EN SU PÁRRAFO PRIMERO Y EN SUS FRACCIONES I Y II, 27 EN SU PÁRRAFO PRIMERO Y EN SUS FRACCIONES I Y III, 28 EN SU FRACCIÓN IV Y 29 EN SUS FRACCIONES I, II Y III; Y DEROGA EL ARTÍCULO 22, DE LA LEY DE JUNTAS DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0886.- SE ADICIONA A Y LOS ARTÍCULOS 3° UNA FRACCIÓN, ÉSTA COMO II, 17 BIS, 17 TER, 17 QUÁTER Y 23 UNA FRACCIÓN, ÉSTA COMO XII, DE LA LEY DE JUNTAS DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a partir del uno de octubre de dos mil veinticuatro, previa su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
