@@ -4,7 +4,7 @@ identifier: "LGDNNA"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-12-04"
-last_updated: "2023-12-04"
+last_updated: "2023-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103786&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDNNA"
 
 LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de diciembre de 2014.
 
@@ -114,53 +114,57 @@ VI. Certificado de Idoneidad: El documento expedido por el Sistema Nacional DIF 
 
 VII. CONEVAL: Consejo Nacional de Evaluación de la Política de Desarrollo Social;
 
-VIII. Diseño Universal: El diseño de productos, entornos, programas y servicios que puedan utilizar niñas, niños y adolescentes, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para niñas, niños y adolescentes con discapacidad cuando se necesiten;
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2023)</small>
 
-IX. Discriminación Múltiple: La situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos;
+VIII. Cultura de la Paz: Conjunto de valores, actitudes, tradiciones, comportamientos y estilos de vida que rechazan la violencia y previenen los conflictos a través del diálogo y la negociación entre las personas, los grupos y las naciones;
 
-X. Familia de Origen: Aquélla compuesta por titulares de la patria potestad, tutela, guarda o custodia, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado;
+IX. Diseño Universal: El diseño de productos, entornos, programas y servicios que puedan utilizar niñas, niños y adolescentes, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para niñas, niños y adolescentes con discapacidad cuando se necesiten;
 
-XI. Familia Extensa o Ampliada: Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
+X. Discriminación Múltiple: La situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos;
 
-XII. Familia de Acogida: Aquélla que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
+XI. Familia de Origen: Aquélla compuesta por titulares de la patria potestad, tutela, guarda o custodia, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado;
 
-XIII. Familia de Acogimiento pre-adoptivo: Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
+XII. Familia Extensa o Ampliada: Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
 
-XIV. Igualdad Sustantiva: El acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+XIII. Familia de Acogida: Aquélla que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
 
-XV. Informe de Adoptabilidad: El documento expedido por el Sistema Nacional DIF y los Sistemas de las Entidades, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
+XIV. Familia de Acogimiento pre-adoptivo: Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
 
-XVI. Órgano Jurisdiccional: Los juzgados o tribunales federales o de las entidades federativas;
+XV. Igualdad Sustantiva: El acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
 
-XVII. Procuradurías de Protección: La Procuraduría Federal de Protección de Niñas, Niños y Adolescentes y las procuradurías de protección de niñas, niños y adolescentes de cada entidad federativa;
+XVI. Informe de Adoptabilidad: El documento expedido por el Sistema Nacional DIF y los Sistemas de las Entidades, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
 
-XVIII. Programa Local: El Programa de Protección de Niñas, Niños y Adolescentes de cada entidad federativa;
+XVII. Órgano Jurisdiccional: Los juzgados o tribunales federales o de las entidades federativas;
 
-XIX. Programa Nacional: El Programa Nacional de Protección de Niñas, Niños y Adolescentes;
+XVIII. Procuradurías de Protección: La Procuraduría Federal de Protección de Niñas, Niños y Adolescentes y las procuradurías de protección de niñas, niños y adolescentes de cada entidad federativa;
 
-XX. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte;
+XIX. Programa Local: El Programa de Protección de Niñas, Niños y Adolescentes de cada entidad federativa;
 
-XXI. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de las Procuradurías de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XX. Programa Nacional: El Programa Nacional de Protección de Niñas, Niños y Adolescentes;
 
-XXII. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+XXI. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte;
 
-XXIII. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de las Procuradurías de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXII. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de las Procuradurías de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-XXIV. Sistemas de las Entidades: Los Sistemas para el Desarrollo Integral de la Familia de cada entidad federativa;
+XXIII. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
 
-XXV. Sistema Local de Protección: El Sistema de Protección de Niñas, Niños y Adolescentes de cada entidad federativa;
+XXIV. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de las Procuradurías de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-XXVI. Sistemas Municipales: Los Sistemas Municipales para el Desarrollo Integral de la Familia;
+XXV. Sistemas de las Entidades: Los Sistemas para el Desarrollo Integral de la Familia de cada entidad federativa;
+
+XXVI. Sistema Local de Protección: El Sistema de Protección de Niñas, Niños y Adolescentes de cada entidad federativa;
+
+XXVII. Sistemas Municipales: Los Sistemas Municipales para el Desarrollo Integral de la Familia;
 
 > <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2019)</small>
 
-XXVII. Sistema Municipal de Protección: El Sistema de Protección de niñas, niños y adolescentes de cada municipio;
+XXVIII. Sistema Municipal de Protección: El Sistema de Protección de niñas, niños y adolescentes de cada municipio;
 
-XXVIII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
+XXIX. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
 
-XXIX. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y
+XXX. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y
 
-XXX. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
+XXXI. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JUNIO DE 2019)</small>
 
@@ -1054,23 +1058,27 @@ XVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que 
 
 XIX. Educar a niñas, niños y adolescentes en el respeto al medio ambiente, inculcando en ellos la adopción de estilos de vida sustentables, así como concientizarlos sobre las causas-efectos del cambio climático;
 
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2023)</small>
+
+XX. Inculcar en niñas, niños y adolescentes la cultura de la paz y la educación cívica;
+
 > <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2018)</small>
 
-XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
+XXI. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
 
 > <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2018)</small>
 
-XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo nacional, y
+XXII. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo nacional, y
 
 > <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2018)</small>
 
-XXII. Establecer mecanismos para que las autoridades educativas, escolares y los particulares con autorización o reconocimiento de validez oficial de estudios, notifiquen a la Procuraduría de Protección correspondiente, los casos de asistencia irregular, abandono o deserción escolar que se identifiquen respecto de los alumnos que cursen educación básica y media superior en los centros educativos.
+XXIII. Establecer mecanismos para que las autoridades educativas, escolares y los particulares con autorización o reconocimiento de validez oficial de estudios, notifiquen a la Procuraduría de Protección correspondiente, los casos de asistencia irregular, abandono o deserción escolar que se identifiquen respecto de los alumnos que cursen educación básica y media superior en los centros educativos.
 
-> <small>(N. DE E. PERTENECE A LA FRACCIÓN XXII, D.O.F. 26 DE ENERO DE 2018)</small>
+> <small>(N. DE E. PERTENECE A LA FRACCIÓN XXIII, D.O.F. 26 DE ENERO DE 2018)</small>
 
 Ante dicha notificación será aplicable el procedimiento establecido en el artículo 123 de la presente Ley, y en su caso, la activación de las instancias jurisdiccionales necesarias a fin de garantizar los derechos de las niñas, niños y adolescentes.
 
-> <small>(N. DE E. PERTENECE A LA FRACCIÓN XXII, D.O.F. 26 DE ENERO DE 2018)</small>
+> <small>(N. DE E. PERTENECE A LA FRACCIÓN XXIII, D.O.F. 26 DE ENERO DE 2018)</small>
 
 En caso contrario, se estará a lo dispuesto en el Capítulo Único del Título Sexto de la Ley, con independencia de aquellas conductas que pudieran ser consideradas como delitos conforme a la normatividad en la materia.
 
@@ -1080,7 +1088,9 @@ Las autoridades escolares, en el ámbito de su competencia, deberán adoptar med
 
 La educación, además de lo dispuesto en las disposiciones aplicables, tendrá los siguientes fines:
 
-I. Fomentar en niñas, niños y adolescentes los valores fundamentales y el respeto de la identidad propia, así como a las diferencias culturales y opiniones diversas;
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2023)</small>
+
+I. Fomentar en niñas, niños y adolescentes los valores fundamentales, la cultura de la paz, la educación cívica y el respeto de la identidad propia, así como a las diferencias culturales y opiniones diversas;
 
 II. Desarrollar la personalidad, las aptitudes y las potencialidades de niñas, niños y adolescentes;
 
@@ -1096,7 +1106,9 @@ VII. Emprender, en cooperación con quienes ejerzan la patria potestad, tutela o
 
 VIII. Promover la educación sexual integral conforme a su edad, el desarrollo evolutivo, cognoscitivo y madurez, de las niñas, niños y adolescentes que le permitan a niñas, niños y adolescentes ejercer de manera informada y responsable sus derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, en las leyes y los Tratados Internacionales de los que el Estado mexicano sea parte;
 
-IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos, y
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2023)</small>
+
+IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz, la educación cívica y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos, y
 
 X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos.
 
@@ -1542,7 +1554,9 @@ IV. Impartir en consonancia con la evolución de sus facultades, dirección y or
 
 V. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad;
 
-VI. Fomentar en niñas, niños y adolescentes el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2023)</small>
+
+VI. Fomentar en niñas, niños y adolescentes la cultura de la paz, la educación cívica, el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
 
 VII. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, venta, trata de personas y explotación;
 
@@ -1754,7 +1768,9 @@ Corresponden a las autoridades federales y locales de manera concurrente, las at
 
 I. Coordinar la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley;
 
-II. Impulsar el conocimiento de los derechos de niñas, niños y adolescentes, así como la cultura de respeto, promoción y protección de los mismos, de conformidad con los principios rectores de esta Ley;
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2023)</small>
+
+II. Impulsar el conocimiento de los derechos de niñas, niños y adolescentes, así como la cultura de respeto, de la paz y la educación cívica, promoción y protección de los mismos, de conformidad con los principios rectores de esta Ley;
 
 III. Garantizar el cabal cumplimiento de la presente Ley y de los instrumentos internacionales aplicables;
 
@@ -2721,3 +2737,9 @@ D.O.F. 4 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 54 DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, EN MATERIA DE CULTURA DE LA PAZ".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
