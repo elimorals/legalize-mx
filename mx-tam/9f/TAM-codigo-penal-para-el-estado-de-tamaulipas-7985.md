@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2023-11-24"
+last_updated: "2023-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -3743,15 +3743,15 @@ Este delito sólo podrá ser perseguido a petición de la parte ofendida o de su
 
 Comete el delito de violación, el que por medio de la violencia física o moral, tenga cópula con una persona sin la voluntad de ésta, sea cual fuere su sexo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 274.
 
-Al responsable del delito de violación se le impondrá una sanción de diez a dieciocho años de prisión. Si la víctima fuere el cónyuge o concubina o concubinario, independientemente de su género, sólo se perseguirá por querella de la parte ofendida.
+Al responsable del delito de violación se le impondrá una sanción de 15 a 25 años de prisión. Si la víctima fuere el cónyuge o concubina o concubinario, independientemente de su género, sólo se perseguirá por querella de la parte ofendida.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-Si la víctima del delito fuere menor de dieciocho años, o quien no tenga capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, la sanción será de 30 a 40 años de prisión.
+Si la víctima del delito fuere menor de dieciocho años, o quien no tenga capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, la sanción será de 40 a 50 años de prisión.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
@@ -3763,11 +3763,11 @@ Se impondrá la misma sanción y se considerará como violación al que introduz
 
 Si la violación fuere precedida o acompañada de golpes o lesiones o se cometiere cualquier otro hecho delictuoso, se observarán las reglas del concurso real.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 275.
 
-Se equipara a la violación y se impondrá sanción de 20 a 30 años de prisión:
+Se equipara a la violación y se impondrá sanción de 30 a 40 años de prisión:
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
@@ -7450,6 +7450,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 24 DE NOVIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-715 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 469, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-743 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 274, PÁRRAFOS PRIMERO Y SEGUNDO; Y 275, PÁRRAFO ÚNICO, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
