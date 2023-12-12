@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-proteccion-civil-prevencion-y-atencion-de-desastres-8403
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-18"
-last_updated: "2022-07-12"
+last_updated: "2023-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE PROTECCIÓN CIVIL, PREVENCIÓN Y ATENCIÓN DE DESASTRES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el viernes 18 de Noviembre de 2011.
 
@@ -200,6 +200,14 @@ LXVII. Unidad Verificadora: Es la persona física o moral, avalada por la Unidad
 LXVIII. Vulnerabilidad: Susceptibilidad o propensión de un agente afectable a sufrir daños o pérdidas ante la presencia de un agente perturbador, determinado por factores físicos, sociales, económicos y ambientales; y
 
 LXIX. Zona de Desastre: La demarcación territorial, así como la población asentada en ella, que temporalmente es afectada por el impacto de un fenómeno perturbador, que causa daños, fallas y deterioro a su infraestructura y su funcionamiento normal.
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+LXX. Zona de Riesgo: Espacio territorial determinado en el que existe la probabilidad de que se produzca un daño, originado por un fenómeno perturbador; y
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+LXXI. Zona de Riesgo Grave: Asentamiento humano que se encuentra dentro de una zona de grave riesgo, originado por un posible fenómeno perturbador.
 
 ###### ARTÍCULO 5.
 
@@ -1994,3 +2002,11 @@ P.O. 12 DE JULIO DE 2022.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 12 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 288 POR EL QUE “SE ADICIONAN LAS FRACCIONES LXX Y LXXI AL ARTÍCULO 4 DE LA LEY DE PROTECCIÓN CIVIL, PREVENCIÓN Y ATENCIÓN DE DESASTRES DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se oponga al presente decreto.
