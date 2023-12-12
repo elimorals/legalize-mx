@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2023-03-25"
+last_updated: "2023-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2023.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -305,23 +305,9 @@ III. Surtirá efectos la declaración que se haga en forma expresa ante las auto
 
 La autoridad respectiva deberá percatarse que se cumplieron los requisitos antes indicados y entregará el cuerpo u órgano al beneficiario, recabando previamente la opinión de un médico legista.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2002)</small>
-
 ###### Art. 40.
 
-La disposición de órganos con fines terapéuticos, puede consentirse también por quienes sean sus familiares o convivieron con la persona fallecida durante los dos años que precedieron a su fallecimiento, en el siguiente orden:
-
-I. El cónyuge, o el concubinario o concubinaria en su caso;
-
-II. Los descendientes o adoptados capaces;
-
-III. Los ascendientes o adoptantes;
-
-IV. Los demás colaterales dentro del cuarto grado;
-
-V. En caso de concurrencia entre dos o más sujetos de los considerados en las fracciones anteriores y de existir conflicto para otorgar el consentimiento decidirá quien tenga prelación en su derecho, conforme al libro sexto del Código Civil. Si se trata de sujetos con el mismo derecho, se suspenderá el trámite de la donación de órganos, levantándose constancia para todos los fines legales correspondientes;
-
-VI. (DEROGADA, P.O. 26 DE AGOSTO DE 2006) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2006)
+(DEROGADO, P.O. 12 DE DICIEMBRE DE 2023)
 
 > <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
@@ -19474,3 +19460,13 @@ P.O. 25 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29165/LXIII/23 QUE REFORMA LOS ARTÍCULOS 572, 1931, 2236, 2634 Y 2957 DEL CÓDIGO CIVIL Y EL ARTÍCULO 84 DE LA LEY DEL NOTARIADO, AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 12 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29382/LXIII/23 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE DEROGA EL ARTÍCULO 40 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; Y SE REFORMAN LOS ARTÍCULOS 220, 223, 224 Y 226 SE ADICIONAN LOS ARTÍCULOS 225 BIS Y 235 BIS TODOS DE LA LEY DE SALUD DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Será obligación de la Secretaría de Salud en coordinación con la Secretaría del Sistema de Asistencia Social, de conformidad con la suficiencia presupuestal con la que cuenten y su respectivo ámbito de competencia, fomentar y promover el diagnóstico oportuno de la insuficiencia o falla renal con el objetivo de intervenir de manera temprana los casos de ésta enfermedad que son los que más demandan el trasplante de un órgano, además de la obligación del sistema de salud estatal para crear un sistema de control de la enfermedad, que retrase la progresión de éste padecimiento para reducir el riesgo de complicaciones.
+
+TERCERO. El Ejecutivo del Estado llevará a cabo la adecuación o creación del reglamento que corresponda.
