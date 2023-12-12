@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-131939"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-05"
-last_updated: "2023-05-23"
+last_updated: "2023-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número 24 Bis Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -3033,13 +3033,15 @@ Disposición de Órganos. Regulación
 
 1. Los aspectos concernientes al control sanitario de la disposición de órganos, tejidos, y sus componentes y derivados, productos y cadáveres de seres humanos, con fines terapéuticos, son regulados conforme a las normas correspondientes contenidas en la Ley General de Salud, el Reglamento de la Ley General de Salud en Materia de Trasplantes, las normas oficiales mexicanas, y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 220.
 
-Disposición de Órganos. Glosario
+Disposición de Órganos. Glosario.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE DICIEMBRE DE 2023)</small>
 
-Para efectos de este Capítulo se entiende por
+Para efectos de este Capítulo se entiende por:
 
 I. Muerte o pérdida de la vida: Ocurre cuando se presentan la muerte encefálica y el paro cardiaco irreversible.
 
@@ -3065,13 +3067,83 @@ b) Se presentan los siguientes signos de muerte encefálica:
 
 II. Registro Estatal de Trasplantes: el Registro Estatal de Trasplantes a cargo de la Secretaria de Salud:
 
-III. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+III. Células Troncales: Aquellas capaces de autorreplicarse y diferenciarse hacia diversos linajes celulares especializados.
 
 IV. Comité Interno de Trasplantes: órgano interdisciplinario integrado con personal de la salud especializado, de cada establecimiento de salud autorizado para realizar trasplantes;
 
-V. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
 
-VI. Consentimiento para la donación de órganos: documento a través del cual se manifiesta la voluntad de donación en los términos de la Ley General de Salud, el reglamento de la materia y el Código Civil del Estado de Jalisco.
+V. Componentes: Los órganos, los tejidos, las células y sustancias que forman parte del cuerpo humano, con excepción de los productos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+VI. Componentes Sanguíneos: A los elementos de la sangre y demás sustancias que la conforman;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+VII. Consentimiento para la donación de órganos: Documento a través del cual se manifiesta la voluntad de donación en los términos de la Ley General de Salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+VIII. Consentimiento Informado: La conformidad expresa de una persona, quien la manifiesta por escrito, para la realización de un diagnóstico o tratamiento de salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+IX. Consentimiento Tácito del Donante: Se entiende por ello, cuando la persona no haya manifestado su negativa a que su cuerpo o componentes sean utilizados para trasplantes, siempre y cuando se obtenga también el consentimiento de cualquiera de las siguientes personas que se encuentren presentes: el o la cónyuge, el concubinario, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante. Si se encontrara presente más de una de las personas aquí mencionadas, se aplicará la presente prelación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+X. Coordinador Hospitalario de Donación de Órganos y Tejidos para Trasplantes: El médico especialista o general, que esté debidamente capacitado por la Secretaría de Salud Federal, el cual realizará entre otras cosas las funciones de procuración de órganos a que se refiere esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+XI. Donador o Disponente: Toda persona que tácita o expresamente consiente la disposición en vida o para después de su muerte, de su cuerpo, o de sus órganos, tejidos y células, conforme a lo dispuesto por esta Ley, la Ley General de Salud y demás disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+XII. Donación Expresa: Se concede por persona mayor de edad con capacidad jurídica y en pleno uso de sus facultades, constar por escrito, y ser amplia cuando se refiera a la disposición total del cuerpo o limitada cuando sólo se otorgue respecto de determinados componentes, así como revocar en cualquier momento, sin responsabilidad para este;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+XIII. Donación Tácita: Cuando el donador no manifiesta expresamente su negativa a que su cuerpo o componentes sean utilizados para trasplante, siempre y cuando también se consiga también (sic) el consentimiento de cualquiera de las personas presentes siguientes; el o la cónyuge, el concubino, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante. En caso de que se encuentren presentes cualquiera de los aquí mencionados, se aplicará la presente prelación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+XIV. Disponente Secundario: Él o la cónyuge, el concubinario o la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante; en el presente orden de prelación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+XV. Hemoderivados: Los productos obtenidos de algunos componentes sanguíneos, en especial el plasma, realizado mediante procedimientos fisicoquímicos o biológicos, para aplicación terapéutica, diagnóstica, preventiva o en investigación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+XVI. Procuración: El proceso y actividades dirigidas a promover la obtención oportuna de órganos, tejidos y células donados para su trasplante;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+XVII. Programa de Trasplante: El conjunto de servicios autorizados a un Establecimiento de Salud para proporcionar en forma integral a los pacientes que requieren de un Trasplante de un Órgano, Tejido o célula, coordinado por el Comité Interno de Trasplantes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+XVIII. Receptor: A la persona que recibe para su uso terapéutico un órgano, tejido, células o productos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+XIX. Registro Estatal de Donadores: el Registro Estatal de Donadores a cargo de la Secretaría de Salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+XX. Sangre: Es el tejido hemático con todos sus componentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+XXI. Trasplante: A la transferencia de un órgano, tejido o células de una parte del cuerpo a otra, o de un individuo a otro y que se integren al organismo; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+XXII. Transfusión: Procedimiento terapéutico consistente en la aplicación de sangre o de componentes sanguíneos a un ser humano.
 
 ###### Artículo 221.
 
@@ -3097,6 +3169,8 @@ Disposición de Órganos. Coadyuvancia de Autoridades e Instituciones.
 
 2. Asimismo, las autoridades sanitarias estatales procurarán el apoyo y la coordinación con el Centro Nacional de Trasplantes, los Consejos de Trasplantes de las demás entidades federativas, las instituciones de educación superior a través de sus escuelas y facultades de medicina, los colegios y las academias legalmente reconocidos de medicina, cirugía y ciencias y las instituciones de salud públicas, sociales y privadas con autorización legal y capacidad técnica para realizar, conforme a los procedimientos jurídicos y protocolos médicos vigentes, la disposición de órganos y tejidos con fines terapéuticos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 223.
 
 Disposición de Órganos. Cultura de la Donación.
@@ -3105,13 +3179,55 @@ Disposición de Órganos. Cultura de la Donación.
 
 2. Cuando se otorgue, en los términos de la Ley General de Salud, consentimiento ante notario público para la donación de órganos y tejidos para trasplantes, el trámite notarial y su registro no generarán costo alguno.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+3. La donación expresa podrá constar el cual podrá constar (sic) por escrito, y ser amplia cuando se refiera a la disposición total del cuerpo o limitada cuando sólo se otorgue respecto de determinados componentes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+4. En la donación expresa podrá señalarse que ésta se hace a favor de determinadas personas o instituciones. También podrá expresar el donante las circunstancias de modo, lugar y tiempo y cualquier otra que condicione la donación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+5. Los disponentes secundarios, podrán otorgar el consentimiento a que se refieren los párrafos anteriores, cuando el donante no pueda manifestar su voluntad al respecto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+6. La donación expresa, cuando corresponda a mayores de edad con capacidad jurídica, no podrá ser revocada por terceros, pero el donante podrá revocar su consentimiento en cualquier momento, sin responsabilidad de su parte.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+7. Es estrictamente indispensable que el consentimiento expreso conste por escrito para;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+I. La donación de órganos y tejidos en vida; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+II. La donación de sangre, componentes sanguíneos y células troncales en vida.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+8. Existirá la donación tácita cuando el donador no manifiesta expresamente su negativa a que su cuerpo o componentes sean utilizados para trasplante, siempre y cuando también se consiga el consentimiento de cualquiera de las personas presentes siguientes; él o la cónyuge, el concubino, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante. En caso de que se encuentren presentes cualquiera de los aquí mencionados, se aplicará la presente prelación;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+El escrito por el que la persona exprese no ser donador, podrá ser privado o público, y deberá estar firmado por éste, o bien, la negativa expresa podrá constar en alguno de los documentos públicos que para este propósito determine la Secretaría de Salud en coordinación con otras autoridades competentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 224.
 
 Disposición de Órganos. Diligencia de las Autoridades.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
 1. El Gobierno del Estado, a través del Titular del Poder Ejecutivo, garantizará mecanismos eficaces para:
 
-I. Asegurar el respeto a la voluntad de los individuos que expresamente hayan determinado donar sus órganos y tejidos en los términos de la legislación aplicable;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+I. Asegurar el respeto a la voluntad de los individuos que expresamente hayan determinado donar o no, sus órganos y tejidos en los términos de la legislación aplicable;
 
 II. Promover que los establecimientos que realicen procesos de donación y de trasplantes debidamente acreditados y certificados legalmente para ello, realicen los procedimientos de trasplante con fines terapéuticos, en forma oportuna y adecuada en beneficio de los usuarios de los servicios de salud;
 
@@ -3135,35 +3251,141 @@ Disposición de Órganos, Manual de Procedimientos Técnicos-Administrativos
 
 3. (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+Artículo 225 bis. De la infraestructura de los establecimientos.
+
+Los establecimientos a que se refiere el punto 2 del artículo 226 contarán con un responsable sanitario, de quien deberán dar aviso a la autoridad sanitaria que corresponda.
+
+Los establecimientos en los que se extraigan órganos, tejidos y células, deberán de contar con un Comité Interno de Coordinación para la donación de órganos y tejidos, que será presidido por su Director General o su inmediato inferior que sea médico con un alto nivel de conocimientos académicos y profesionales en la materia.
+
+Este comité será responsable de que el establecimiento de salud cuente con un programa de trasplante autorizado y será responsable de hacer la selección de disponentes y receptores para trasplante, de conformidad con lo que establece la presente Ley, la Ley General de Salud y su reglamento y las Normas Oficiales Mexicanas de la materia y demás disposiciones jurídicas aplicables.
+
+El Comité Interno de Trasplantes deberá coordinarse con el comité de bioética de la institución en los asuntos de su competencia, a que se refiere el artículo 316 de la Ley General de Salud.
+
+Los establecimientos que realicen actos de disposición de sangre, componentes sanguíneos y células progenitoras hematopoyéticas, deberán contar con un Comité de Medicina Transfusional, el cual se sujetará a las disposiciones que para tal efecto emita la Secretaría de Salud.
+
+En caso de que el establecimiento cuente con la autorización sanitaria para hacer trasplante de órganos y tejidos a que se refiere el artículo 315, fracción I de Ley General de Salud, se deberá conformar un subcomité y este deberá presentar los casos al Comité Interno de Trasplantes.
+
+Los comités y subcomités a que se refiere este artículo se integrarán y sujetarán a las disposiciones que para tal efecto emita la Secretaría de salud federal y demás disposiciones reglamentarias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 226.
 
-Disposición de Órganos. Autoridades intervinientes.
+Disposición de Órganos. Autoridades Intervinientes.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 1. En el proceso de donación de órganos y tejidos intervendrá la Secretaria de Salud, y los establecimientos de salud autorizados para obtener órganos y tejidos y realizar trasplantes.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE DICIEMBRE DE 2023)</small>
 
-2. Si la causa de la muerte del donante está relacionada con un hecho presuntamente constitutivo de delito, intervendrán además de los anteriores, la Fiscalía del Estado y el Instituto Jalisciense de Ciencias Forenses.
+2. Se requiere licencia sanitaria a los establecimientos dedicados a:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
 
-3. Para efectos del párrafo anterior, los establecimientos autorizados para tramitar una donación notificarán al Ministerio Público y a la Secretaria de Salud de la existencia de un potencial donante. El Ministerio Público realizara las siguientes acciones:
+I. La extracción, análisis, conservación, preparación y suministro de órganos, tejidos y células;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+II. Los dedicados a trasplantes de órganos, tejidos y células;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+III. Los bancos de órganos, tejidos no hemáticos y células;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+IV. Los servicios de sangre;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+V. La disposición de células troncales,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+VI. Los establecimientos de medicina regenerativa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+Las unidades médicas públicas o privadas que se precisan en las fracciones I y II de este artículo deberán contar con un coordinador hospitalario de donación de órganos y tejidos para trasplantes que esté disponible de manera permanente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+3. El coordinador hospitalario de la donación de órganos y tejidos para trasplantes de los establecimientos a los que se refiere este artículo, deberá ser un médico especialista o general, que cuente con experiencia en la materia y esté capacitado por la propia Secretaría de Salud para desempeñar esa función, quien podrá auxiliarse en su caso de otros profesionales de la salud debidamente capacitados en la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+4. A los coordinadores hospitalarios les corresponderá:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+I. Detectar, evaluar y seleccionar a los donantes potenciales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+II. Solicitar el consentimiento del familiar a que se refiere esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+III. Establecer y mantener coordinación con el Comité Interno de Trasplantes durante el proceso de procuración de órganos y tejidos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+IV. Facilitar la coordinación entre los profesionales de la salud encargados de la extracción del o de los órganos y el de los médicos que realizarán el o los trasplantes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+V. Coordinar la logística dentro del establecimiento de la donación y el trasplante;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+VI. Resguardar y mantener actualizados los archivos relacionados con su actividad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+VII. Participar con voz en el Comité Interno de Trasplantes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+VIII. Fomentar al interior del establecimiento la cultura de la donación y el trasplante;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+IX. Representar al responsable sanitario del establecimiento en ausencia de éste, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+X. Lo que le atribuya esta Ley y las demás disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+5. Si la causa de la muerte del donante está relacionada con un hecho presuntamente constitutivo de delito, intervendrán además de los anteriores, la Fiscalía del Estado y el Instituto Jalisciense de Ciencias Forenses.
+
+> <small>(REFORMADO [N. DE E. REFORMADO], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+6. Para efectos del párrafo anterior, los establecimientos autorizados para tramitar una donación notificarán a la Fiscalía y a la Secretaría de Salud de la existencia de un potencial donante. El Ministerio Público realizara las siguientes acciones:
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN I DEL NUMERAL 3], P.O. 12 DE DICIEMBRE DE 2023)</small>
 
 I. Solicitar al médico adscrito al servicio médico forense, que valore el diagnóstico de la muerte encefálica, así como la dictaminación de que la extracción de los órganos y tejidos no alterarán el resultado de la necropsia;
 
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN II DEL NUMERAL 3], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
 II. Levantar acta del estado clínico del posible donador y del lugar donde se encuentre;
 
-III. Recabar el consentimiento de los disponentes secundarios en los términos del artículo 40 del Código Civil del Estado de Jalisco, los documentos de quienes acrediten el parentesco con los medios legales idóneos, el certificado de pérdida de la vida y el dictamen del médico adscrito al servicio médico forense;
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN III DEL NUMERAL 3], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+III. Recabar el consentimiento de los disponentes secundarios en los términos del artículo 223 de la presente Ley, los documentos de quienes acrediten el parentesco con los medios legales idóneos, el certificado de pérdida de la vida y el dictamen del médico adscrito al servicio médico forense;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN IV DEL NUMERAL 3], P.O. 12 DE DICIEMBRE DE 2023)</small>
 
 IV. En caso de que el posible donador cuente con algún documento que acredite la calidad de donador, el agente del Ministerio Público deberá asentar en el acta ministerial la descripción de dicho documento; e
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN V DEL NUMERAL 3], P.O. 12 DE DICIEMBRE DE 2023)</small>
 
-V. Informar al Fiscal del Estado de las circunstancias del proceso de donación, para que aquel manifieste su anuencia o inconformidad para la donación. El Ministerio Público notificará a la institución hospitalaria la decisión del Fiscal del Estado.
+V. Informar al Fiscal del Estado de las circunstancias del proceso de donación, para que aquél manifieste su anuencia o inconformidad para la donación. El Ministerio Público notificará a la institución hospitalaria la decisión del Fiscal del Estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
@@ -3256,6 +3478,16 @@ VIII. Las demás que determine (sic) las disposiciones legales aplicables.
 I. Compartir correspondientemente su información con el Registro Nacional de Trasplantes; y
 
 II. Requerir la información necesaria con el responsable de trasplante de órganos o tejidos de cada hospital autorizado.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+Artículo 235 bis. Registro Estatal de Donadores. Objeto.
+
+1. La Secretaría de Salud Jalisco constituirá un registro de donadores, a fin de contar con un registro de las personas que manifestaron su consentimiento expreso de donar sus órganos con fines de trasplantes al momento de la realización de trámites públicos o la obtención de documentos oficiales.
+
+2. La manifestación expresa de ser donador de órganos con fines de trasplantes al momento de la realización de trámites públicos o la obtención de documentos oficiales deberá ser comunicado a la Secretaría de Salud para la integración en el Registro Estatal de Donadores.
+
+3. Los datos personales serán recabados y tratados conforme la ley en materia de Protección de Datos Personales.
 
 #### SECCIÓN SEGUNDA. DE LA PARTICIPACIÓN SOCIAL
 
@@ -4786,3 +5018,13 @@ P.O. 23 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29179/LXIII/23 QUE MODIFICA DIVERSOS ORDENAMIENTOS DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS DEL GOBIERNO DEL ESTADO, CON EL OBJETO DE QUE LA SECRETARÍA DE HACIENDA PÚBLICA FORME PARTE DEL ÓRGANO MÁXIMO DE DICHOS ENTES PÚBLICOS; ASÍ MISMO SE INCORPORE LENGUAJE INCLUYENTE Y, EN LOS CASO (SIC) NECESARIOS, SE REALICE LA ACTUALIZACIÓN DE DENOMINACIONES DE LAS DEPENDENCIAS Y ENTIDADES QUE LO INTEGRAN”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 12 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29382/LXIII/23 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE DEROGA EL ARTÍCULO 40 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; Y SE REFORMAN LOS ARTÍCULOS 220, 223, 224 Y 226 SE ADICIONAN LOS ARTÍCULOS 225 BIS Y 235 BIS TODOS DE LA LEY DE SALUD DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Será obligación de la Secretaría de Salud en coordinación con la Secretaría del Sistema de Asistencia Social, de conformidad con la suficiencia presupuestal con la que cuenten y su respectivo ámbito de competencia, fomentar y promover el diagnóstico oportuno de la insuficiencia o falla renal con el objetivo de intervenir de manera temprana los casos de ésta enfermedad que son los que más demandan el trasplante de un órgano, además de la obligación del sistema de salud estatal para crear un sistema de control de la enfermedad, que retrase la progresión de éste padecimiento para reducir el riesgo de complicaciones.
+
+TERCERO. El Ejecutivo del Estado llevará a cabo la adecuación o creación del reglamento que corresponda.
