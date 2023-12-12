@@ -4,7 +4,7 @@ identifier: "CAM-ley-integral-para-las-personas-con-discapacidad-del-estado-8897
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-19"
-last_updated: "2023-11-21"
+last_updated: "2023-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 19 de julio de 2012.
 
@@ -197,9 +197,17 @@ IX. La no discriminación;
 
 X. La igualdad entre mujeres y hombres con discapacidad;
 
-XI. La transversalidad; y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2023)</small>
 
-XII. Los demás que resulten aplicables.
+XI. La transversalidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+XII. La progresividad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+
+XIII. Los demás que resulten aplicables.
 
 ###### Artículo 5.
 
@@ -978,3 +986,11 @@ Artículo Primero. El presente decreto entrará en vigor el día siguiente al de
 Artículo Segundo. La Secretaría de Gobierno de la Administración Pública Estatal, por conducto de la Subsecretaría de Trabajo y Previsión Social realizará las acciones correspondientes para el debido cumplimiento de este decreto.
 
 Artículo Tercero. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 12 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 287 POR EL QUE “SE REFORMAN LAS FRACCIONES XI Y XII Y SE ADICIONA UNA FRACCIÓN XIII AL ARTÍCULO 4 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se oponga al presente decreto.
