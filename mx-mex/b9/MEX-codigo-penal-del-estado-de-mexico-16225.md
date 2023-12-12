@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2023-11-24"
+last_updated: "2023-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE DICIEMBRE DE 2023.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -4499,9 +4499,13 @@ VII. El cuerpo de la víctima sea expuesto o exhibido en un lugar público.
 
 VIII. Como resultado de violencia de género, pudiendo ser el sujeto activo persona conocida o desconocida y sin ningún tipo de relación.
 
-En los casos a que se refiere este artículo, la penalidad será de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa.
+> <small>(REFORMADO, G.G. 12 DE DICIEMBRE DE 2023)</small>
 
-Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+En los casos a que se refiere este artículo, la penalidad será de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa, misma pena se aplicará, cuando se cometa frente a las hijas o hijos de la víctima directa.
+
+> <small>(REFORMADO, G.G. 12 DE DICIEMBRE DE 2023)</small>
+
+Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio, así como los inherentes a la patria potestad, tutela o curatela, guarda y custodia sobre las y los hijos.
 
 La pena se agravará hasta en un tercio cuando la víctima sea mujer menor de edad, embarazada o discapacitada, así como cuando el sujeto activo sea servidor público y haya cometido la conducta valiéndose de esta condición.
 
@@ -4512,6 +4516,10 @@ Se entenderá como homicidio doloso, la privación de la vida de una mujer por r
 1) La imposición de la prisión preventiva oficiosa.
 
 2) La remisión parcial de la pena, tratamiento preliberacional, libertad condicionada al sistema de localización y rastreo y libertad condicional.
+
+> <small>(ADICIONADO, G.G. 12 DE DICIEMBRE DE 2023)</small>
+
+3) La suspensión provisional de la patria potestad o tutela y del régimen de convivencia con los descendientes o ascendientes de la víctima en los casos en los que las hijas e hijos menores de edad sean testigos presenciales del hecho.
 
 > <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
 
@@ -7716,3 +7724,11 @@ G.G. 24 DE NOVIEMBRE DE 2023.
 PRIMERO. Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 12 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 218.- POR EL QUE SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 281 Y SE ADICIONA EL INCISO 3) AL PÁRRAFO SEXTO DEL ARTÍCULO 281 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, Y SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 4.223 Y SE ADICIONAN DOS PÁRRAFOS A LA FRACCIÓN I DEL ARTÍCULO 4.224, Y LA FRACCIÓN V AL ARTÍCULO 4.225 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese este Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
