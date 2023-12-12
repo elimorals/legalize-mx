@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2023-10-20"
+last_updated: "2023-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE DICIEMBRE DE 2023.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -533,31 +533,27 @@ En todos los casos que se requiera, el oficial registrará en el acta de nacimie
 
 Las copias certificadas de las actas de nacimiento expedidas por el Registro Civil tendrán vigencia permanente, en tanto mantengan lo establecido en el párrafo primero de este artículo; por lo que, para la realización de trámites y servicios ante cualquier institución pública o privada, bastará con que sean legibles y no presenten alteraciones que dañen el estado físico del documento.
 
-Por ningún motivo se asentará en el acta que el presentado es adulterino o incestuoso, aún cuando así apareciere de las declaraciones.
+> <small>(REFORMADO, G.G. 12 DE DICIEMBRE DEL 2023)</small>
+
+Por ningún motivo se asentará en el acta del presentado algún adjetivo que vulnere su dignidad.
 
 > <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
 
 Si el presentado aparece como hijo de padres desconocidos, el Oficial del Registro Civil le pondrá nombre, sin hacer mención de esta circunstancia en el acta.
 
-Acta de nacimiento del hijo de matrimonio
+> <small>(REFORMADO SU EPÍGRAFE, G.G. 12 DE DICIEMBRE DEL 2023)</small>
+
+Acta de nacimiento de la hija o hijo
+
+> <small>(REFORMADO, G.G. 12 DE DICIEMBRE DEL 2023)</small>
 
 ###### Artículo 3.
 
-11.- Cuando el nacido fuere presentado como hijo de matrimonio, se asentarán los nombres, domicilio y nacionalidad de los padres, de los abuelos y, en su caso los de las personas que hubieren hecho la presentación.
-
-Acta de nacimiento de hijo fuera del matrimonio
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE MAYO DE 2015)</small>
+11.- Cuando el nacido fuere presentado como hijo, se asentarán los nombres, domicilio y nacionalidad de la madre o padre, de los abuelos maternos y paternos y, en su caso los de las personas que hubieren hecho la presentación o de quien lo requiere personalmente ante el oficial del registro civil.
 
 ###### Artículo 3.
 
-12.- Para que se hagan constar en el acta de nacimiento los datos del padre de un hijo nacido fuera de matrimonio, es necesario que aquél lo pida personalmente ante el Oficial del Registro Civil.
-
-> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
-
-La madre no puede dejar de reconocer a su hijo, debiendo figurar siempre sus datos en el acta de nacimiento, salvo en los casos previstos por este Código, si al hacerse la presentación no se da el nombre de la madre, se testará el espacio correspondiente, pero la investigación de la maternidad se realizará conforme a las leyes de la materia.
-
-Además de los datos generales de los padres, se hará constar en el acta de nacimiento los de los abuelos maternos y en su caso, paternos.
+12.- (DEROGADO, G.G. 12 DE DICIEMBRE DEL 2023)
 
 De los expósitos
 
@@ -619,7 +615,9 @@ Contenido de las actas de nacimientos múltiples
 
 18.- Cuando se trate de nacimiento múltiple, se asentará acta por separado para cada uno de los nacidos, en las que se hará constar por vía de anotación, el orden de nacimiento y las particularidades que los distingan, según los datos que contenga el certificado o constancia expedido por quien haya asistido el parto.
 
-### CAPITULO II. De las Actas de Reconocimiento de hijos fuera de Matrimonio
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 12 DE DICIEMBRE DEL 2023)</small>
+
+### CAPITULO II. DE LAS ACTAS DE RECONOCIMIENTO DE LAS HIJAS O HIJOS
 
 > <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
 
@@ -629,19 +627,25 @@ Definición de reconocimiento
 
 19.- El reconocimiento es el acto jurídico en virtud del cual, el que reconoce asume a favor del reconocido todos los derechos y obligaciones que se derivan de la filiación.
 
-> <small>(ADICIONADO, G.G. 7 DE MAYO DE 2015)</small>
+> <small>(REFORMADO SU EPÍGRAFE, G.G. 12 DE DICIEMBRE DEL 2023)</small>
 
-Reconocimiento de hijo al declarar su nacimiento
+Reconocimiento de la hija o hijo al declarar su nacimiento
 
-###### Artículo 3.
-
-19 Bis.- Si la madre, el padre o ambos, de un hijo nacido fuera de matrimonio, lo reconocieren al presentarlo para que se registre su nacimiento, el acta contendrá los requisitos establecidos en los artículos anteriores. Ésta surtirá los efectos del reconocimiento.
-
-Reconocimiento de hijo después de registrado su nacimiento
+> <small>(REFORMADO, G.G. 12 DE DICIEMBRE DEL 2023)</small>
 
 ###### Artículo 3.
 
-20.- Si el reconocimiento del hijo fuera de matrimonio se hiciere después de haber sido registrado su nacimiento, se formará acta separada en la que, además de los requisitos a que se refiere este Código, se observarán, en sus respectivos casos, los siguientes:
+19 Bis.- La madre, el padre o ambos al presentar al hijo o hija para que se registre su nacimiento. El acta contendrá los requisitos establecidos en los artículos anteriores. Ésta surtirá los efectos del reconocimiento.
+
+> <small>(REFORMADO SU EPÍGRAFE, G.G. 12 DE DICIEMBRE DEL 2023)</small>
+
+Reconocimiento de la hija o hijo después de registrado su nacimiento
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE DICIEMBRE DEL 2023)</small>
+
+###### Artículo 3.
+
+20.- Si el reconocimiento del hijo se hiciere después de haber sido registrado su nacimiento, se formará acta separada en la que, además de los requisitos a que se refiere este Código, se observarán, en sus respectivos casos, los siguientes:
 
 I. Si el hijo es mayor de edad, se expresará en el acta su consentimiento para ser reconocido;
 
@@ -2565,13 +2569,17 @@ Presunción de paternidad en caso de mujer que contrae nuevo matrimonio
 
 ###### Artículo 4.
 
-155.- La filiación de los hijos nacidos de matrimonio se prueba con el acta de su nacimiento y con la de matrimonio de sus padres.
+155.- La filiación de los hijos se prueba con el acta de su nacimiento y si la hubiera con la de matrimonio de sus padres.
 
 Prueba de la filiación de hijo de matrimonio a falta o defecto de actas
 
 ### CAPITULO II. De la Filiación
 
-Prueba de la filiación de hijos de matrimonio
+> <small>(REFORMADO SU EPÍGRAFE, G.G. 12 DE DICIEMBRE DEL 2023)</small>
+
+Prueba de la filiación de la hija o hijo
+
+> <small>(REFORMADO, G.G. 12 DE DICIEMBRE DEL 2023)</small>
 
 ###### Artículo 4.
 
@@ -3091,9 +3099,9 @@ V. Cuando quien la ejerza haya entregado voluntariamente a su hija o hijo en té
 
 VI. Cuando los menores se encuentren albergados y abandonados por sus familiares, sin casusa (sic) justificada por más de dos meses, en las instalaciones de instituciones públicas o privadas;
 
-> <small>(ADICIONADA, G.G. 15 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, G.G. 12 DE DICIEMBRE DE 2023)</small>
 
-VII. Por la exposición que la madre o el padre hiciera de sus hijos.
+VII. Por la exposición que la madre o el padre hiciera de sus hijas o hijos.
 
 Pérdida de la patria potestad por sentencia
 
@@ -3106,6 +3114,14 @@ Objeto de la tutela
 224.- La patria potestad se pierde por resolución judicial en los siguientes casos:
 
 I. Cuando el que la ejerza es condenado por delito doloso grave;
+
+> <small>(ADICIONADO, G.G. 12 DE DICIEMBRE DE 2023)</small>
+
+Quien haya sido sentenciado por la comisión del delito de feminicidio, homicidio doloso o feminicidio en grado de tentativa en contra de una mujer, perderá el derecho de patria potestad, guarda y custodia, tutela o curatela, de sus hijas e hijos.
+
+> <small>(ADICIONADO, G.G. 12 DE DICIEMBRE DE 2023)</small>
+
+Las hijas o hijos que llegaren a tener deberán ser resguardados únicamente por su madre, y a falta de ésta, por su familia, atendiendo al principio del interés superior de la niñez; la o el juez de lo familiar deberá nombrar a un tutor o tutora.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 16 DE AGOSTO DE 2021)</small>
 
@@ -3152,6 +3168,10 @@ II. Por la declaración de ausencia;
 III. Por sentencia condenatoria que imponga como pena esta suspensión;
 
 IV. Por sustracción o retención indebida del menor por quien no tenga la custodia.
+
+> <small>(ADICIONADA, G.G. 12 DE DICIEMBRE DE 2023)</small>
+
+V. Por auto de vinculación a proceso dictado por delito de feminicidio o su tentativa en contra de la madre de las niñas, niños y adolescentes sujetos a patria potestad, cuando sean testigos presenciales del delito.
 
 Excusa para ejercer la patria potestad
 
@@ -18740,3 +18760,19 @@ G.G. 20 DE OCTUBRE DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 12 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 218.- POR EL QUE SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 281 Y SE ADICIONA EL INCISO 3) AL PÁRRAFO SEXTO DEL ARTÍCULO 281 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, Y SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 4.223 Y SE ADICIONAN DOS PÁRRAFOS A LA FRACCIÓN I DEL ARTÍCULO 4.224, Y LA FRACCIÓN V AL ARTÍCULO 4.225 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- Publíquese este Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 12 DE DICIEMBRE DEL 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 219.- POR EL QUE SE REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO 3.10, EL EPÍGRAFE Y EL ARTÍCULO 3.11, LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO SEGUNDO DEL LIBRO TERCERO, EL EPÍGRAFE Y EL ARTÍCULO 3.19 BIS, EL EPÍGRAFE Y EL PRIMER PÁRRAFO DEL ARTÍCULO 3.20 Y EL EPÍGRAFE Y EL ARTÍCULO 4.155; SE DEROGA EL EPÍGRAFE Y EL ARTÍCULO 3.12 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
