@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-cfe-telecomunicaciones-e-internet-para-144
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-11-06"
-last_updated: "2020-11-06"
+last_updated: "2023-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144881&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-09-17"
 
 ESTATUTO ORGÁNICO DE CFE TELECOMUNICACIONES E INTERNET PARA TODOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE DICIEMBRE DE 2023.
 
 Estatuto publicado en el Diario Oficial de la Federación, el viernes 6 de noviembre de 2020.
 
@@ -97,9 +97,23 @@ ESTATUTO ORGÁNICO DE CFE TELECOMUNICACIONES E INTERNET PARA TODOS
 
 El presente Estatuto tiene por objeto establecer la estructura y organización básicas y las funciones que correspondan a las distintas áreas de CFE Telecomunicaciones e Internet para Todos, a los directivos o empleados que tendrán la representación de la misma y aquellos que podrán otorgar y revocar poderes en su nombre, así como las reglas de funcionamiento de su Consejo y sus Comités.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 2.
 
-CFE Telecomunicaciones e Internet para Todos es una Empresa Productiva Subsidiaria de la Comisión Federal de Electricidad, con personalidad jurídica y patrimonio propios, la cual deberá generar valor social para el Estado Mexicano como su propietario, y que tiene por objeto prestar y proveer servicios de telecomunicaciones, sin fines de lucro, para garantizar el derecho de acceso a las tecnologías de la información y comunicación, incluido el de banda ancha e internet. Así como la capacidad de proveer bienes y servicios tecnológicos incluyendo desarrollos de sistemas informáticos y de telecomunicaciones, así como cualquier otro bien relacionado al desarrollo y soporte de dichos sistemas, y mantener informada al área correspondiente de CFE de todas las acciones realizadas.
+CFE Telecomunicaciones e Internet para Todos es una empresa productiva subsidiaria de la Comisión Federal de Electricidad, con personalidad jurídica y patrimonio propios, la cual deberá generar valor social para el Estado Mexicano como su propietario, y que tiene por objeto:
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2023)</small>
+
+I. Prestar y proveer servicios de telecomunicaciones, sin fines de lucro, para garantizar el derecho de acceso a las tecnologías de la información y comunicación, incluido el de banda ancha e internet.
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2023)</small>
+
+II. Conformar, instalar, operar o explotar redes públicas de telecomunicaciones, redes de telecomunicaciones y demás análogas, a efecto de prestar y/o comercializar servicios de telecomunicaciones e infraestructura a terceros.
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2023)</small>
+
+III. Proveer bienes y servicios tecnológicos, incluyendo desarrollos de sistemas informáticos y de telecomunicaciones, así como cualquier otro bien relacionado al desarrollo y soporte de dichos sistemas.
 
 CFE Telecomunicaciones e Internet para Todos tendrá su domicilio en la Ciudad de México, sin perjuicio de que para el desarrollo de sus actividades pueda establecer oficinas o domicilios legales o convencionales en el territorio nacional.
 
@@ -153,17 +167,57 @@ III. Gestionar y obtener de las autoridades federales, estatales, municipales o 
 
 IV. Maximizar en forma coordinada y centralizada la infraestructura aplicable a servicios de telecomunicaciones, haciendo uso de las capacidades de la Red Nacional de Fibra Óptica, la infraestructura activa y pasiva, de que disponga la Comisión;
 
-V. Celebrar con cualquier ente público del gobierno federal, estatal, municipal o alcaldías de la Ciudad de México y con personas físicas o morales toda clase de actos, convenios, contratos, suscribir títulos de crédito y otorgar todo tipo de garantías reales y personales de obligaciones contraídas por sí, la Comisión o las empresas productivas subsidiarias y empresas filiales de la Comisión, con sujeción a las disposiciones legales aplicables;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE DICIEMBRE DE 2023)</small>
 
-VI. Celebrar contratos con particulares bajo esquemas que le generen un mayor valor social de conformidad con lo establecido en la Ley;
+V. Comercializar servicios, capacidad y demás análogas de las redes públicas de telecomunicaciones de concesionarios, así como permitir que éstos y los permisionarios comercialicen los servicios y capacidad adquirida de la red pública de telecomunicaciones de CFE Telecomunicaciones e Internet para Todos;
 
-VII. Crear empresas filiales y participar en asociaciones y alianzas, así como participar en forma minoritaria en el capital social o patrimonio de otras sociedades o asociaciones, nacionales o extranjeras, bajo cualquier figura societaria o contractual permitida por la ley, que se requiera para la consecución de su objeto, de conformidad con las políticas generales y lineamientos que emita el Consejo de Administración de la Comisión;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE DICIEMBRE DE 2023)</small>
 
-VIII. Llevar a cabo las Actividades de Telecomunicaciones, así como las operaciones necesarias para el cabal cumplimiento de su objeto, o las relacionadas directa o indirectamente con dicho objeto;
+VI. Instalar, operar y explotar, estaciones terrenas transmisoras y receptoras, así como sistemas de radiocomunicación satelital;
 
-IX. Realizar los actos jurídicos necesarios para transformarse o escindirse, conforme a la normatividad aplicable;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE DICIEMBRE DE 2023)</small>
 
-X. Las demás que establezca el Consejo o el Consejo de Administración;
+VII. Ocupar y explotar posiciones orbitales geoestacionarias y órbitas satelitales asignadas al país, con sus respectivas bandas de frecuencias y derechos de emisión y recepción de señales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE DICIEMBRE DE 2023)</small>
+
+VIII. Usar, aprovechar y explotar, bandas de frecuencias del espectro radioeléctrico;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE DICIEMBRE DE 2023)</small>
+
+IX. Prestar por sí, o por medio de terceros, servicios de telecomunicaciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE DICIEMBRE DE 2023)</small>
+
+X. Establecer, en su carácter de operador de redes públicas de telecomunicaciones, la interconexión de sistemas de telecomunicaciones a su cargo, con otros operadores de redes públicas de telecomunicaciones nacionales o extranjeros, así como combinar sus servicios;
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2023)</small>
+
+XI. En general, proporcionar los servicios y equipos de telecomunicaciones e informáticos que sean factibles de aprovechamiento, uso y explotación por terceros, así como realizar y celebrar los actos jurídicos necesarios para el desarrollo de sus funciones de acuerdo con las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 12 DE DICIEMBRE DE 2023)</small>
+
+XII. Celebrar con cualquier ente público del gobierno federal, estatal, municipal o alcaldías de la Ciudad de México y con personas físicas o morales toda clase de actos, convenios, contratos, suscribir títulos de crédito y otorgar todo tipo de garantías reales y personales de obligaciones contraídas por sí, la Comisión o las empresas productivas subsidiarias y empresas filiales de la Comisión, con sujeción a las disposiciones legales aplicables;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 12 DE DICIEMBRE DE 2023)</small>
+
+XIII. Celebrar contratos con particulares bajo esquemas que le generen un mayor valor social de conformidad con lo establecido en la Ley;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 12 DE DICIEMBRE DE 2023)</small>
+
+XIV. Crear empresas filiales y participar en asociaciones y alianzas, así como participar en forma minoritaria en el capital social o patrimonio de otras sociedades o asociaciones, nacionales o extranjeras, bajo cualquier figura societaria o contractual permitida por la ley, que se requiera para la consecución de su objeto, de conformidad con las políticas generales y lineamientos que emita el Consejo de Administración de la Comisión;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 12 DE DICIEMBRE DE 2023)</small>
+
+XV. Llevar a cabo las Actividades de Telecomunicaciones, así como las operaciones necesarias para el cabal cumplimiento de su objeto, o las relacionadas directa o indirectamente con dicho objeto;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 12 DE DICIEMBRE DE 2023)</small>
+
+XVI. Realizar los actos jurídicos necesarios para transformarse o escindirse, conforme a la normatividad aplicable; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 12 DE DICIEMBRE DE 2023)</small>
+
+XVII. Las demás que establezca el Consejo o el Consejo de Administración.
 
 Los contratos y, en general, todos los actos jurídicos que celebre CFE Telecomunicaciones e Internet para Todos para el cumplimiento de su objeto, podrán incluir cualquiera de los términos permitidos por la legislación mercantil y común y deberán cumplir con la regulación aplicable en las materias que corresponda.
 
@@ -277,7 +331,7 @@ III. Será designado en función de su experiencia, capacidad y prestigio profes
 
 IV. Será el responsable de ejecutar los acuerdos o resoluciones adoptados por el Consejo.
 
-Adicionalmente, el Director General deberá reunir los requisitos señalados en el artículo 19 de la Ley.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 12.
 
@@ -610,3 +664,11 @@ PRIMERO. El presente Estatuto Orgánico entrará en vigor al día siguiente de s
 SEGUNDO. El Comité de Transparencia de CFE Telecomunicaciones e Internet para Todos se instalará una vez que el área correspondiente de la Comisión emita la comunicación respectiva para tal efecto y de conformidad con la normativa aplicable.
 
 En la Ciudad de México, a los diecisiete días del mes de septiembre de dos mil veinte.- El Director General de CFE Telecomunicaciones e Internet para Todos, Ing. Raymundo Artís Espríu, con fundamento en el Artículo 18, fracción IV y 19 fracciones I y II del Acuerdo por el que se crea CFE Telecomunicaciones e Internet para Todos, publicado en el Diario Oficial de la Federación el 2 de agosto de 2019.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 12 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DE CFE TELECOMUNICACIONES E INTERNET PARA TODOS PUBLICADO EL 6 DE NOVIEMBRE DE 2020”.]
+
+Único. Las modificaciones al presente Estatuto Orgánico entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
