@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-4-2022-de-la-sala-superior-del-tribunal-160532"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2022-10-07"
-last_updated: "2022-10-07"
+last_updated: "2023-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160532&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2022-10-06"
 ---
 # ACUERDO GENERAL 4/2022 DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION [QUE REGULA LAS SESIONES PRESENCIALES DE LAS SALAS DEL TRIBUNAL, EL USO DE HERRAMIENTAS DIGITALES Y LAS MEDIDAS PREVENTIVAS EN EL TRABAJO, DURANTE LA EMERGENCIA DE SALUD PUBLICA]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL 2/2023 DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN QUE REGULA LAS SESIONES DE LAS SALAS DEL TRIBUNAL Y EL USO DE HERRAMIENTAS DIGITALES, PUBLICADO EN EL D.O.F. DE 12 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL 4/2022 DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN QUE REGULA LAS SESIONES PRESENCIALES DE LAS SALAS DEL TRIBUNAL, EL USO DE HERRAMIENTAS DIGITALES Y LAS MEDIDAS PREVENTIVAS EN EL TRABAJO, DURANTE LA EMERGENCIA DE SALUD PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE DICIEMBRE DE 2023 (ABROGADO).
 
 Acuerdo publicado en la Edición Vespertina del Número 6 del Diario Oficial de la Federación, el 7 de octubre de 2022.
 
@@ -126,3 +128,17 @@ La presente documentación, autorizada mediante firma electrónica certificada, 
 Lo que certifico por instrucciones del magistrado Reyes Rodríguez Mondragón, presidente de este órgano jurisdiccional, en ejercicio de las facultades previstas en el artículo 182, fracción X de la Ley Orgánica del Poder Judicial de la Federación, y 20, fracción II, del Reglamento Interno de este Tribunal Electoral, para los efectos legales procedentes. DOY FE.
 
 Ciudad de México, seis de octubre de dos mil veintidós.- Secretario General de Acuerdos, Luis Rodrigo Sánchez Gracia.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 12 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 2/2023 DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN QUE REGULA LAS SESIONES DE LAS SALAS DEL TRIBUNAL Y EL USO DE HERRAMIENTAS DIGITALES”.]
+
+PRIMERO. El presente acuerdo general entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo General 4/2022 de la Sala Superior.
+
+TERCERO. Publíquese en el Diario Oficial de la Federación, en la Gaceta de Jurisprudencia y Tesis en Materia Electoral del Tribunal Electoral del Poder Judicial de la Federación, en los estrados de esta Sala Superior y de las salas regionales, así como en los portales de intranet e internet de este órgano jurisdiccional.
+
+CUARTO. Notifíquese a las salas regionales, así como a las demás áreas de este Tribunal.
