@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-tribunal-de-justicia-administrativa-del-122037
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-20"
-last_updated: "2023-11-20"
+last_updated: "2023-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 20 de junio de 2017.
 
@@ -69,17 +69,27 @@ II. Conocer de los actos y resoluciones administrativas dictadas por los ayuntam
 
 III. Conocer de las responsabilidades administrativas de los servidores públicos y particulares vinculados con faltas graves promovidas por la Secretaría de la Transparencia y Rendición de Cuentas y los Órganos Internos de control de los entes públicos estatales y municipales, o por la Auditoría Superior del Estado, para la imposición de sanciones en términos de lo dispuesto por la Ley en materia de responsabilidades administrativas aplicable;
 
-IV. Fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al Patrimonio de los entes públicos estatales o municipales; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
-V. Conocer en segunda instancia, de las resoluciones que pongan fin al proceso administrativo municipal, y de los acuerdos dictados por los Juzgados Administrativos Municipales, que concedan, nieguen o revoquen la suspensión del acto impugnado.
+IV. Fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al Patrimonio de los entes públicos estatales o municipales;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+V. Conocer en segunda instancia, de las resoluciones que pongan fin al proceso administrativo municipal, y de los acuerdos dictados por los Juzgados Administrativos Municipales, que concedan, nieguen o revoquen la suspensión del acto impugnado; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+VI. Las demás atribuciones que le confiera esta Ley y otras disposiciones legales.
 
 ###### Artículo 5.
 
 Bajo ninguna circunstancia se entenderá que la atribución del Tribunal de Justicia Administrativa del Estado de Guanajuato para imponer sanciones a particulares por actos u omisiones vinculadas con faltas administrativas graves se contrapone o menoscaba la facultad que cualquier ente público posea para imponer sanciones a particulares en los términos de la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 6.
 
-El Tribunal de Justicia Administrativa del Estado de Guanajuato estará integrado por cinco salas, de las cuales una será especializada en materia de responsabilidades administrativas, así como los funcionarios jurisdiccionales y administrativos necesarios para el efectivo ejercicio de sus atribuciones.
+El Tribunal de Justicia Administrativa del Estado de Guanajuato contará con seis salas unitarias, de las cuales una será especializada en materia de responsabilidades administrativas, así como los funcionarios jurisdiccionales y administrativos necesarios para el efectivo ejercicio de sus atribuciones.
 
 ###### Artículo 7.
 
@@ -135,13 +145,15 @@ El Tribunal de Justicia Administrativa del Estado de Guanajuato tendrá competen
 
 ### Capítulo Único. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 10.
 
-El Tribunal de Justicia Administrativa del Estado de Guanajuato se integrará por los Magistrados Propietarios y, en su caso, por magistrados supernumerarios, designados en los términos del artículo 63 fracción XXI de la Constitución Política para el Estado de Guanajuato y funcionará en Pleno o en Salas.
+El Tribunal se compondrá por los magistrados propietarios y, en su caso, por magistrados supernumerarios en funciones, designados en los términos del artículo 63 fracción XXI de la Constitución Política para el Estado de Guanajuato y funcionará en Pleno o en salas.
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
-Para dar cumplimiento al principio de paridad de género establecido en el segundo párrafo del artículo 81 de la Constitución Política para el Estado de Guanajuato el Tribunal deberá estar integrado de manera que en ningún caso podrán ser más personas magistrados de un mismo género.
+En la integración del Tribunal se deberá observar el principio de paridad de género establecido en el segundo párrafo del artículo 81 de la Constitución Política para el Estado de Guanajuato.
 
 Contará además, con las unidades que prevean esta Ley y su reglamento interior.
 
@@ -193,11 +205,33 @@ IV. El Magistrado que pretenda el haber de retiro deberá solicitarlo ante el Co
 
 V. Al fallecer el Magistrado beneficiario del haber de retiro antes de recibirlo, se otorgará éste a quien haya designado como beneficiario, o en su defecto, a sus herederos legítimos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 15.
 
-Los Magistrados Supernumerarios desempeñarán el despacho de los asuntos de la Sala, en las faltas temporales del Magistrado o en las definitivas, en tanto se hace un nuevo nombramiento.
+Los magistrados supernumerarios desempeñarán el despacho de los asuntos de la sala en las faltas temporales del Magistrado Propietario o en las definitivas, en tanto se hace un nuevo nombramiento.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Los magistrados supernumerarios podrán ser designados por el Pleno para ocupar la suplencia de la sala de quien ostente la magistratura que sea designada presidente.
 
 Las faltas definitivas de los Magistrados se comunicarán de inmediato al Gobernador del Estado y al Congreso del Estado para que proceda al nombramiento del Magistrado que le sustituya.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Tratándose de la ausencia temporal del Magistrado de la Sala Especializada o cuando se trate de la ausencia definitiva, el Pleno del Tribunal determinará cuál de los magistrados propietarios existentes asumirá la adscripción de dicha sala hasta en tanto se realice el nombramiento correspondiente.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Artículo 15 A. Los magistrados supernumerarios que no se encuentren en funciones podrán ser autorizados por el Pleno para auxiliar a las salas del Tribunal en la emisión de resoluciones.
+
+El Pleno al autorizar a los magistrados supernumerarios para la resolución de los asuntos jurisdiccionales competencia del Tribunal, atenderá a las necesidades del servicio y a la suficiencia presupuestal.
+
+El acuerdo del Pleno deberá establecer las normas para el turno y asignación de expedientes a los magistrados supernumerarios que auxiliarán en la emisión de resoluciones, así como la temporalidad de la autorización.
+
+Los magistrados supernumerarios no podrán auxiliar en la emisión de resoluciones en materia de responsabilidades administrativas.
+
+Cuando los magistrados supernumerarios sean llamados para auxiliar en la emisión de resoluciones, no formaran parte del Pleno ni del Consejo.
 
 ###### Artículo 16.
 
@@ -213,7 +247,9 @@ El Pleno del Tribunal de Justicia Administrativa del Estado de Guanajuato tramit
 
 Los Magistrados, Secretario General de Acuerdos, Secretario General Adjunto, Secretarios de Estudio y Cuenta, Proyectistas y Actuarios, estarán impedidos para desempeñar cualquier otro cargo de la Federación, Estado o Municipios, excepto los de carácter docente u honorífico. También estarán impedidos para litigar, salvo en causa propia, de su cónyuge, de sus ascendientes o de sus descendientes hasta cuarto grado, así como de intervenir, por motivo de su encargo, en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquellos de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado, o parientes civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte.
 
-## TÍTULO TERCERO. INTEGRACIÓN Y FUNCIONAMIENTO DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+## TÍTULO TERCERO. ORGANIZACIÓN Y FUNCIONAMIENTO DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA
 
 ### Capítulo I. Integración del Tribunal
 
@@ -221,9 +257,21 @@ Los Magistrados, Secretario General de Acuerdos, Secretario General Adjunto, Sec
 
 El Tribunal de Justicia Administrativa del Estado de Guanajuato, se integra por:
 
-I. El Pleno; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
-II. Las Salas.
+I. El Pleno;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+II. Las Salas; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+III. El Consejo Administrativo.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Los magistrados ejercerán sus funciones en el Pleno, el Consejo Administrativo y en la sala unitaria que integren, en términos de esta Ley. El Pleno podrá cambiar la sala de adscripción de los magistrados.
 
 ### Capítulo II. Pleno del Tribunal
 
@@ -295,9 +343,15 @@ XVI. Emitir opinión jurídica de iniciativas y proyectos sobre ordenamientos ad
 
 XVII. Aprobar el proyecto de presupuesto anual de egresos del Tribunal de Justicia Administrativa del Estado de Guanajuato;
 
-XVIII. Presentar, cada cinco años, el diagnóstico cualitativo y cuantitativo sobre el trabajo de la sala especializada en materia de responsabilidades administrativas, el cual deberá ser remitido para su consideración al Comité Coordinador del Sistema Estatal Anticorrupción, por conducto de su Secretariado Ejecutivo, a efecto de que éste, emita recomendaciones sobre la creación de salas especializadas en la materia; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
-XIX. Las demás que le señale esta Ley.
+XVIII. Presentar, cada cinco años, el diagnóstico cualitativo y cuantitativo sobre el trabajo de la sala especializada en materia de responsabilidades administrativas, el cual deberá ser remitido para su consideración al Comité Coordinador del Sistema Estatal Anticorrupción, por conducto de su Secretariado Ejecutivo, a efecto de que éste, emita recomendaciones sobre la creación de salas especializadas en la materia;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XIX. Emitir el acuerdo que autorice a los magistrados supernumerarios, para la resolución de los asuntos jurisdiccionales competencia del Tribunal, de conformidad con el segundo párrafo del artículo 15 A de esta Ley, y llamar a los magistrados supernumerarios que realizarán esta función; y
+
+XX. Las demás que le señale esta Ley.
 
 ### Capítulo III. Del Presidente
 
@@ -307,9 +361,9 @@ El Presidente del Tribunal de Justicia Administrativa del Estado de Guanajuato d
 
 En sus faltas temporales, que no excedan de quince días, será suplido por los demás Magistrados en el orden sucesivo atendiendo a la sala de su adscripción. En las faltas que excedan de dicho término y hasta por seis meses improrrogables, el Pleno elegirá al Magistrado que deba sustituirlo; cuando la falta sea definitiva, se elegirá nuevo Presidente para concluir el periodo.
 
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
-Artículo 26 A. El Magistrado que tome protesta como Presidente del Tribunal de Justicia Administrativa del Estado de Guanajuato, se separará de la Sala de su adscripción y será suplido por un Magistrado Supernumerario.
+Artículo 26 A. El Magistrado que tome protesta como Presidente del Tribunal, se separará de la sala de su adscripción, la que será ocupada por el Magistrado que designe el Pleno.
 
 ###### Artículo 27.
 
@@ -487,7 +541,9 @@ Corresponde a los Secretarios de Estudio y Cuenta de las Salas:
 
 I. Autorizar con su firma las actuaciones de la Sala a la que estén adscritos;
 
-II. Proyectar los autos y acuerdos del proceso administrativo;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+II. Proyectar los autos y acuerdos del proceso administrativo y emitirlos cuando se lo encomiende el Magistrado;
 
 III. Distribuir la correspondencia jurisdiccional a los oficiales adscritos a las Salas;
 
@@ -507,7 +563,9 @@ IX. Digitalizar la documentación y actuaciones que se requiera incorporar a los
 
 X. Digitalizar la documentación y actuaciones que se requiera incorporar a los expedientes electrónicos tramitados en forma escrita;
 
-XI. Practicar las diligencias que les competan;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XI. Practicar las diligencias que les competan y las que le encomiende el Magistrado;
 
 XII. Capturar la información de las actuaciones del proceso en el Sistema Informático del Tribunal de Justicia Administrativa del Estado de Guanajuato;
 
@@ -517,7 +575,9 @@ XIV. Asentar las ratificaciones de las representaciones que otorguen los particu
 
 XV. Guardar en el secreto del despacho de la Sala, los documentos, valores, pruebas, pliego de posiciones y demás material probatorio exhibidos por las partes, de conformidad con los lineamientos que para tal efecto emita el Pleno del Tribunal de Justicia Administrativa del Estado de Guanajuato; y
 
-XVI. Las demás atribuciones que les confiera esta Ley y el Reglamento Interior del Tribunal.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XVI. Las demás atribuciones que les confiera esta Ley, el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato, el Reglamento y demás normativa aplicable.
 
 ###### Artículo 35.
 
@@ -609,6 +669,10 @@ Los defensores de oficio serán nombrados por el Consejo Administrativo y sólo 
 
 La Unidad de la Defensoría de Oficio, podrá prestar asistencia en materia de amparo administrativo y sus funciones se establecerán en el Reglamento Interior del Tribunal.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+En los servicios de procuración de justicia administrativa, la Unidad de Defensoría de Oficio podrá proponer la conciliación de las partes.
+
 ###### Artículo 41.
 
 Corresponde a los Defensores de Oficio, desempeñar las siguientes funciones:
@@ -619,9 +683,17 @@ II. Representar a los particulares en los procesos que se tramiten ante el Tribu
 
 III. Asesorar a los particulares en la formulación de las demandas y demás promociones que incidan en la competencia del Tribunal de Justicia o de los Juzgados Administrativos Municipales;
 
-IV. Vigilar la tramitación de los procesos en que intervengan; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
-V. Las demás que se deriven de esta Ley y de su reglamento interior.
+IV. Vigilar la tramitación de los procesos en que intervengan;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+V. Procurar en cualquier momento, la conciliación mediante la celebración de convenios en los asuntos que asesoren, atendiendo al interés de su representado; y
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+VI. Las demás que se deriven de esta Ley y del Reglamento.
 
 Los servicios del defensor de oficio serán gratuitos para el particular.
 
@@ -635,9 +707,27 @@ Los defensores de oficio estarán impedidos para desempeñar otro cargo público
 
 Las faltas temporales de los defensores de oficio, serán suplidas por quien acuerde el Consejo Administrativo.
 
-### Capítulo VIII. De la Dirección Administrativa
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
-### Capítulo IX. Instituto de la Justicia Administrativa
+### Capítulo VIII. Unidad de Conciliación
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Artículo 42 A. Para resolución de controversias mediante convenio conciliatorio, el Tribunal, tendrá una Unidad de Conciliación, y le corresponderán las siguientes funciones:
+
+I. Prestar de forma gratuita el servicio de conciliación para la solución de controversias en asuntos de competencia del Tribunal;
+
+II. Conocer de las solicitudes que le formulen los particulares, las autoridades o las salas, para llevar a cabo la conciliación en los asuntos del conocimiento del Tribunal;
+
+III. Auxiliar en el desahogo de la audiencia de conciliación conforme a las necesidades del servicio;
+
+IV. Invitar a las partes a las audiencias de conciliación; y
+
+V. Las demás que le confieran otras disposiciones legales aplicables.
+
+El funcionamiento de la Unidad de Conciliación se regulará en el Reglamento. El Pleno podrá emitir lineamientos para la prestación del servicio de conciliación.
+
+### Capítulo IX. Dirección Administrativa
 
 ###### Artículo 43.
 
@@ -695,7 +785,7 @@ XVII. Elaborar y proponer al Consejo Administrativo los convenios con terceros e
 
 XVIII. Las demás atribuciones que les confieran el Reglamento Interior del Tribunal de Justicia Administrativa del Estado de Guanajuato.
 
-### Capítulo X. Unidad de Transparencia
+### Capítulo X. Instituto de la Justicia Administrativa
 
 ###### Artículo 45.
 
@@ -717,13 +807,13 @@ III. Gozar de buena reputación y no haber sido condenado por delito intencional
 
 IV. Haber cursado la especialidad o maestría en justicia administrativa, impartida por el Instituto de la Justicia Administrativa, o por institución pública o privada universitaria, debiendo acreditar su participación con la constancia respectiva.
 
-### Capítulo XI. Órgano Interno de Control del Tribunal
+### Capítulo XI. Unidad de Transparencia
 
 ###### Artículo 48.
 
 El Tribunal de Justicia Administrativa del Estado de Guanajuato tendrá una Unidad de Transparencia, con las atribuciones que establecen la Ley de Transparencia y Acceso a la Información Pública para el Estado de Guanajuato y su reglamento respectivo. Contará además, con el personal que prevé el presupuesto de egresos del Tribunal.
 
-### Capítulo Único. Servicio Administrativo de Carrera
+### Capítulo XII. Órgano Interno de Control del Tribunal
 
 ###### Artículo 49.
 
@@ -825,7 +915,7 @@ Ante la actualización de alguna de las causales previstas en el presente artíc
 
 ## TÍTULO CUARTO. SERVICIO ADMINISTRATIVO DE CARRERA
 
-### Capítulo Único. Vacaciones y Guardias
+### Capítulo Único. Servicio Administrativo de Carrera
 
 ###### Artículo 56.
 
@@ -836,6 +926,8 @@ La selección, ingreso, formación, evaluación, actualización, promoción, asc
 El reglamento correspondiente determinará las normas, políticas y procedimientos administrativos a efecto de definir qué servidores públicos participarán en el servicio administrativo de carrera, en el estatuto del personal, en el sistema de mérito para la selección, promoción, ascenso y estabilidad del personal y la clasificación de puestos a que se sujetará el servicio administrativo de carrera.
 
 ## TÍTULO QUINTO. VACACIONES Y GUARDIAS
+
+### Capítulo Único. Vacaciones y Guardias
 
 ###### Artículo 58.
 
@@ -934,3 +1026,15 @@ P.O. 20 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 235, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO Y LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 13 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 243 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. El Tribunal de Justicia Administrativa del Estado actualizara su reglamento interior y en su caso expedirá los lineamientos que deriven del contenido del presente Decreto, en un plazo no mayor de 120 días contados a partir de su entrada en vigencia.
+
+Artículo Tercero. El Tribunal de Justicia Administrativa dictará las medidas administrativas para que, conforme a lo previsto en el artículo segundo transitorio, se establezca la Unidad de Conciliación, la que contará con el personal y recursos materiales que permita el presupuesto de egresos del estado.
+
+Artículo Cuarto. La Ley del Presupuesto General de Egresos del Estado de Guanajuato para el ejercicio fiscal 2024, deberá incluir los recursos destinados al cumplimiento de las disposiciones de este Decreto.
