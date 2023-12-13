@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-etica-al-que-deben-sujetarse-los-servidores-140965"
 country: "mx"
 rank: "codigo"
 publication_date: "2020-01-01"
-last_updated: "2020-01-01"
+last_updated: "2023-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE ETICA AL QUE DEBEN SUJETARSE LOS SERVIDORES PUBLICOS DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO NOVENO DEL CÓDIGO DE ÉTICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 13 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA AL QUE DEBEN SUJETARSE LOS SERVIDORES PÚBLICOS DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2023 (ABROGADO).
 
 Código publicado en el número 5770 del Periódico Oficial del Estado de Morelos, el día miércoles 1 de enero de 2020.
 
@@ -358,3 +360,29 @@ TITULAR DEL ÓRGANO INTERNO DE CONTROL DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA D
 PATRICIA ADRIANA ARIZA CUELLAR
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS”.]
+
+PRIMERO. Publíquese el presente código en el Periódico Oficial “Tierra y Libertad” órgano de difusión del Gobierno del Estado de Morelos y en la página oficial del Tribunal de Justicia Administrativa del Estado de Morelos.
+
+SEGUNDO. El presente código entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+TERCERO. Remítase copia de este código al Pleno del Tribunal de Justicia Administrativa del Estado de Morelos.
+
+CUARTO. Hágase del conocimiento del presente instrumento a todas las personas servidoras públicas del Tribunal de Justicia Administrativa del Estado de Morelos.
+
+Las personas servidoras públicas suscribirán un compromiso de integridad y ética pública ante el comité de ética e integridad de este tribunal. El comité de ética e integridad una vez instalado notificará a las personas servidoras públicas a partir de cuando realizarán la firma de las cartas compromiso.
+
+QUINTO. En términos del artículo décimo primero de los lineamientos para la emisión del código de ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas, el Pleno del Tribunal de Justicia Administrativa del Estado de Morelos, en un plazo de sesenta días naturales siguientes a la entrada en vigor del presente código se deberá emitir el código de conducta, el cual deberá contar con la aprobación del órgano interno de control del Tribunal de Justicia Administrativa del Estado de Morelos.
+
+SEXTO. En un plazo de treinta días naturales siguientes a la entrada en vigor del código de ética, el órgano interno de control remitirá al Pleno del Tribunal de Justicia Administrativa del Estado de Morelos un proyecto de código de conducta.
+
+SÉPTIMO. En un plazo de 30 días naturales siguientes a la entrada en vigor del Código de Ética, el órgano interno de control deberá emitir las reglas internas de funcionamiento del comité de ética e integridad, las cuales se presentarán en la primera sesión del comité de ética e integridad del tribunal.
+
+OCTAVO. Dentro del plazo de sesenta días naturales siguientes a la entrada en vigor del presente Código, se deberá instalar el Comité de Ética e Integridad del Tribunal de Justicia Administrativa del Estado de Morelos.
+
+NOVENO. Se abroga el código de ética al que deben sujetarse los servidores públicos del Tribunal de Justicia Administrativa del Estado de Morelos, publicado en el Periódico Oficial “Tierra y Libertad” número 5770 el 1 de enero del 2020.
