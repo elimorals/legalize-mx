@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-universidad-de-ciencias-y-artes-de-84086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-16"
-last_updated: "2011-11-16"
+last_updated: "2023-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA UNIVERSIDAD DE CIENCIAS Y ARTES DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 16 de noviembre de 2011.
 
@@ -49,9 +49,11 @@ LEY ORGÁNICA DE LA UNIVERSIDAD DE CIENCIAS Y ARTES DE CHIAPAS
 
 ### CAPÍTULO I. DE LA NATURALEZA JURÍDICA, DOMICILIO, OBJETO Y FACULTADES
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 1.
 
-La Universidad de Ciencias y Artes de Chiapas, en adelante la Universidad, es un organismo descentralizado autónomo, con personalidad jurídica y patrimonio propios creado para prestar servicios de educación superior en sus distintos niveles y modalidades y contribuir al cumplimiento de los intereses sociales y culturales del estado de Chiapas y de México.
+La Universidad de Ciencias y Artes de Chiapas, en adelante la Universidad, es un Organismo Público Descentralizado del Gobierno del Estado de Chiapas, con personalidad jurídica y patrimonio propio, dotada de autonomía, para gobernarse a sí misma y realizar sus fines consistentes en prestar servicios de educación media superior y superior y contribuir al desarrollo social, investigar y difundir la cultura de acuerdo a los principios de la Constitución Política de los Estados Unidos Mexicanos, respetando la libertad de cátedra e investigación y de libre examen y discusión de las ideas; determinará sus planes y programas; fijará los términos de ingreso, promoción y permanencia de su personal académico. Las disposiciones de esta ley tendrán el carácter de obligatorias y serán de aplicación general.
 
 ###### Artículo 2.
 
@@ -61,9 +63,11 @@ La Universidad tendrá su domicilio legal en Tuxtla Gutiérrez, que será su sed
 
 Las disposiciones de esta Ley regirán las actividades de la Universidad y es obligatoria para los órganos de gobierno, personal académico, personal administrativo y alumnado que lo integran o forman parte de él, sujetándose a ésta y a los demás ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 4.
 
-La autonomía universitaria garantiza el ejercicio pleno de la libertad de cátedra y de investigación a los docentes e investigadores que presten sus servicios en la Universidad, con apego a los planes y programas de estudio.
+La autonomía universitaria, garantiza la observancia y respeto irrestricto de los derechos humanos, el ejercicio pleno de la libertad de cátedra y de investigación a los docentes e investigadores que presten sus servicios en la Universidad, con apego a los planes y programas de estudio.
 
 ### CAPÍTULO II. DE SU OBJETO Y ATRIBUCIONES
 
@@ -71,7 +75,9 @@ La autonomía universitaria garantiza el ejercicio pleno de la libertad de cáte
 
 La Universidad tendrá por objeto:
 
-I. Impartir educación superior en los niveles de profesional asociado, licenciatura, especialización, maestría y doctorado, en sus modalidades escolar, no escolarizada y mixta; procurando que la formación de profesionales corresponda a las necesidades de desarrollo del Estado de Chiapas.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+I. Impartir educación media superior y superior en los niveles de profesional asociado, licenciatura, especialización, maestría y doctorado, en sus modalidades escolarizada, no escolarizada y mixta; procurando que la formación de profesionales corresponda a las necesidades de desarrollo del Estado de Chiapas.
 
 II. Organizar y desarrollar actividades de investigación humanística, socioeconómica, tecnológica, científica y artística, orientada fundamentalmente a la atención de los problemas y necesidades del desarrollo regional, estatal y nacional.
 
@@ -79,9 +85,11 @@ III. Preservar, rescatar, conservar y difundir los valores culturales, históric
 
 IV. Promover la vinculación con los diferentes sectores de la sociedad.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 6.
 
-Para el cumplimiento de su objeto, la Universidad se orienta hacia la formación integral de la personalidad y facultades del alumno, fomentando su amor por la patria y por Chiapas, el respeto a los valores esenciales del hombre, la conciencia de responsabilidad, la solidaridad, la diversidad, la equidad social y la conservación del medio natural.
+Para el cumplimiento de su objeto, la Universidad se orienta hacia la formación integral de la personalidad y facultades del alumno, fomentando su amor por la patria y por Chiapas, el respeto a los valores esenciales del hombre, reconocidos como derechos humanos, la inclusión y cultura de paz, la conciencia de responsabilidad, la solidaridad, la diversidad, la equidad social y la conservación del medio natural.
 
 ###### Artículo 7.
 
@@ -99,7 +107,9 @@ V. Incorporar estudios, así como otorgar y retirar reconocimiento de validez pa
 
 VI. Fijar en forma exclusiva los términos de ingreso, promoción, permanencia y definitividad de su personal académico.
 
-VII. Determinar sus planes y programas de estudio.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+VII. Determinar sus planes y programas de estudio de educación media superior y superior en todos sus niveles.
 
 VIII. Administrar libremente su patrimonio.
 
@@ -203,7 +213,7 @@ V. Designar cada año a propuesta del Rector, al miembro de la Junta Directiva q
 
 VI. Emitir acuerdos en materia de incorporación y revalidación de estudios.
 
-VII. Designar a propuesta del Rector, al Defensor de los Derechos Universitarios.
+VII. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2023)
 
 VIII. Designar al contador público independiente de un despacho de auditoría externa de prestigio, para que dictamine la cuenta universitaria y los estados financieros del ejercicio del 1° de enero al 31 de diciembre de cada año.
 
@@ -237,7 +247,9 @@ Para ser miembro de la Junta Directiva se requiere:
 
 I. Ser ciudadano mexicano.
 
-II. Tener más de treinta y menos de setenta años de edad.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+II. Tener mínimo 25 años de edad.
 
 III. Poseer como mínimo título de licenciatura y preferentemente grado académico.
 
@@ -313,7 +325,9 @@ VII. Firmar conjuntamente con el Secretario General y el Director de la Unidad A
 
 VIII. Presentar ante el Consejo Universitario iniciativas relativas a asuntos propios de la Universidad.
 
-IX. Nombrar y remover libremente al Secretario General, al Secretario Académico y al Abogado General.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+IX. Nombrar y remover libremente al Secretario General, al Secretario Académico, al Secretario de Administración y Finanzas y al Abogado General.
 
 X. Designar y remover a los funcionarios de la Universidad, cuando esta Ley o sus reglamentos no señalen a otra autoridad competente para ello.
 
@@ -419,23 +433,33 @@ III. Obtener ingresos para el financiamiento de la Universidad.
 
 IV. Aprobar las cuotas por los servicios que preste la Universidad.
 
-V. Designar al Auditor General de la Universidad.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
-VI. Aprobar el programa anual de trabajo del Auditor General.
+V. Designar, a propuesta del Rector, al Titular de la Contraloría Interna.
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+VI. Aprobar el programa anual de trabajo de la Contraloría Interna.
 
 VII. Aprobar los estados financieros dictaminados de cada ejercicio fiscal, por el contador público independiente.
 
 VIII. Las demás que establezcan otras normas y disposiciones reglamentarias de la Universidad.
 
-## TÍTULO TERCERO. DEL AUDITOR GENERAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+## TÍTULO TERCERO. DE LA CONTRALORÍA INTERNA
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 37.
 
-La Universidad contará con un órgano de vigilancia permanente a cargo de un Auditor General designado por el Patronato, en términos del Reglamento.
+La Universidad contará con un órgano de vigilancia permanente a cargo de un Contralor Interno designado por el Patronato a propuesta del Rector, en términos del Reglamento.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 38.
 
-El Auditor General de la Universidad tendrá, las facultades y obligaciones que le señale el Reglamento.
+El Contralor Interno de la Universidad tendrá las facultades y obligaciones que le señale el Reglamento.
 
 ## TÍTULO CUARTO. DE LA COMUNIDAD UNIVERSITARIA
 
@@ -463,41 +487,77 @@ El Estatuto General de la Universidad y los reglamentos establecerán el régime
 
 Las resoluciones de los órganos de gobierno de la Universidad, podrán ser recurridas por quienes resulten directamente afectados, a través de los medios de defensa o recursos, y ante los órganos que determine la legislación universitaria.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 43.
 
-La Defensoría de los Derechos Universitarios, es la instancia encargada de la defensa de los derechos de los miembros de la comunidad universitaria en general. Sus dictámenes tendrán el carácter de recomendación.
+La Universidad contará con un área especializada denominada Dirección de Derechos Humanos, Género, Inclusión y Cultura de Paz, cuyo titular será nombrado y removido libremente por el Rector, y tendrá dentro de sus objetivos la defensa de los derechos de los miembros de la comunidad universitaria en general; el fomento y difusión de la cultura de los derechos humanos y la prevención de las violencias en razón de género en contra de los integrantes de la comunidad universitaria y todo tipo de discriminación en la Universidad y la construcción de espacios seguros y una cultura de paz; así como la inclusión de las necesidades de todos los estudiantes, la orientación y asesoría sobre quejas por este tipo de conductas, con base en las leyes aplicables.
 
-El nombramiento del Defensor de los Derechos Universitarios se hará por un periodo de tres años y podrá ser ratificado por el Consejo Universitario por otro de igual duración.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 44.
+
+La Defensoría (sic) Derechos Universitarios, dependiente de la Dirección de Derechos Humanos, Género, Inclusión y Cultura de Paz, es la instancia encargada de recibir las quejas individuales de los estudiantes y del personal académico, cuando estimen que entre ellos se ha producido una afectación a sus derechos. Sus dictámenes tendrán el carácter de recomendación.
+
+El Defensor de los Derechos Universitarios será nombrado y removido libremente por el Rector.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 45.
 
 Para ser Defensor de los Derechos Universitarios se requiere:
 
 I. Ser ciudadano mexicano.
 
-II. Tener al menos 50 años cumplidos al momento de su nombramiento.
+II. Tener al menos 25 años cumplidos al momento del nombramiento.
 
 III. Poseer como mínimo título de licenciado en derecho.
 
 IV. Ser reconocido por su trayectoria académica y profesional, imparcialidad y honradez.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 46.
 
-Serán considerados trabajadores de confianza el Rector, el Secretario General, el Secretario Académico, el Abogado General, el Auditor General, directores, coordinadores, jefes de departamento, supervisores, abogados, contadores, auditores, auxiliares de compras, almacenistas, secretarios particulares y auxiliares, consultores y asesores técnicos, inspectores, jefes de oficina, cajeros, pagadores, contadores, analistas, programadores, y todos aquellos que realicen funciones de dirección, inspección, vigilancia y fiscalización, o que se relacionen con trabajos personales de sus jefes inmediatos.
+La Rectoría contará con áreas específicas para el cumplimiento de sus obligaciones en materia de transparencia, rendición de cuentas, acceso a la información pública y protección de datos personales, así como el Sistema Institucional de Archivo universitario; de conformidad con las normas federales, estatales y universitarias aplicables.
 
-## TÍTULO SEXTO. DISPOSICIONES FINALES
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 13 DE DICIEMBRE DE 2023)</small>
 
-Artículo. 45.- La Universidad promoverá estímulos y distinciones para su personal académico y alumnos, por desempeño, productividad, aprovechamiento y buena conducta, en los términos de los reglamentos correspondientes.
+## TÍTULO SEXTO
+
+DEL BACHILLERATO DE INNOVACIÓN, CIENCIAS, ARTES Y HUMANIDADES DE CHIAPAS.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 47.
 
-Las relaciones de trabajo entre la Universidad y sus trabajadores se regirán por lo dispuesto en los artículos 3, fracción VII y 123 apartado A de la Constitución Política de los Estados Unidos Mexicanos, en los términos que establece la Ley Federal del Trabajo, de acuerdo con las características del trabajo especial académico que se realiza en la Institución.
+La Universidad está facultada para ofrecer un sistema de educación media superior a través de un modelo de bachillerato, que estará a cargo de una Dirección General, cuyo titular será nombrado por el Rector quien deberá durar en su encargo 6 años; el Director General deberá tener probada capacidad y conocimiento en sistemas educativos y pedagógicos.
 
-Los aspectos académicos del trabajo universitario serán fijados de forma exclusiva por la Universidad.
+Las funciones y los requisitos del titular de la Dirección General y de las demás autoridades del Bachillerato, se establecerán en la normatividad aplicable, así como su funcionamiento.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+## TÍTULO SÉPTIMO. DISPOSICIONES FINALES
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 48.
 
-La Universidad en ejercicio de su autonomía, establecerá los mecanismos que considere convenientes para atender las disposiciones en materia de transparencia, rendición de cuentas y publicidad de sus resultados académicos.
+La Universidad promoverá becas, estímulos y distinciones para su personal académico y alumnos, por desempeño, productividad, aprovechamiento y buena conducta, en los términos de la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 49.
+
+Serán considerados trabajadores de confianza el Rector, el Secretario General, el Secretario Académico, Secretario de Administración y Finanzas, el Abogado General, el Contralor Interno, los directores, coordinadores, secretarios administrativos y académicos, jefes de departamento, supervisores, abogados, contadores, auditores, auxiliares de compras, almacenistas, secretarios particulares y auxiliares, consultores y asesores técnicos, inspectores, jefes de oficina, cajeros, pagadores, contadores, analistas, programadores, y todos aquellos que realicen funciones de dirección, inspección, vigilancia y fiscalización, o que se relacionen con trabajos personales de sus jefes inmediatos.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 50.
+
+Las relaciones de trabajo entre la Universidad y sus trabajadores se regirán por lo dispuesto en los artículos 3, fracción VII y 123 apartado A de la Constitución Política de los Estados Unidos Mexicanos, en los términos que establece la Ley Federal del Trabajo, de acuerdo con las características del trabajo especial académico que se realiza en la institución.
+
+Los aspectos académicos del trabajo universitario serán fijados de forma exclusiva por la Universidad.
 
 T R A N S I T O R I O S
 
@@ -522,3 +582,17 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I, del artículo 44, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los catorce días del mes de noviembre del año dos mil once.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 027 DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA UNIVERSIDAD DE CIENCIAS Y ARTES DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- En un período de noventa días a partir de la entrada en vigor del presente Decreto, el Consejo Universitario deberá realizar las adecuaciones al Reglamento y/o las reformas que sean necesarias, conforme a lo establecido en el presente Decreto, mismo que será de observancia para todos los trabajadores, alumnos y sociedad de padres de familia de la Universidad.
+
+Artículo Cuarto.- El impacto presupuestario y financiero que se derive de los (sic) dispuesto por el presente Decreto, tanto en el presente año, como en los ejercicios sucesivos, la Universidad de Ciencias y Artes de Chiapas, (UNICACH), deberá atenderlos con el presupuesto que se le acuerde en el Convenio y Anexo que se suscriba con la Federación, o en su caso, hasta con los ingresos propios que recaude la UNICACH.
