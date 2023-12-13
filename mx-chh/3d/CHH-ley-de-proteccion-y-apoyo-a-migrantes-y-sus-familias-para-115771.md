@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-y-apoyo-a-migrantes-y-sus-familias-para-11577
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-23"
-last_updated: "2023-06-24"
+last_updated: "2023-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PROTECCIÓN Y APOYO A MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de julio de 2016.
 
@@ -127,7 +127,23 @@ IV.- Migrante.- Persona que llega o transita de un País, Estado o Municipio a o
 
 V.- Municipios fronterizos.- Aquellos municipios del Estado, cuyo territorio colinda geográficamente con los Estados Unidos de América.
 
-VI.- Secretaría.- Secretaría General de Gobierno del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+VI.- Niña, niño o adolescente migrante.- Cualquier persona migrante, nacional o extranjera, menor de dieciocho años de edad. Son niñas y niños los menores de doce años, y adolescentes las personas entre doce años cumplidos y menos de dieciocho años de edad.
+
+Cuando exista la duda de si se trata de una persona mayor de dieciocho años de edad, se presumirá que es adolescente.
+
+Cuando exista la duda de si se trata de una persona mayor o menor a doce años, se presumirá que es niña o niño:
+
+a) No acompañado: cualquier persona migrante menor de dieciocho años de edad que no se encuentra acompañada por la persona adulta que ejerce la patria potestad, que la tenga bajo su guarda y custodia, por su tutora o tutor, o persona adulta bajo cuyos cuidados se encuentre habitualmente por costumbre.
+
+b) Acompañado: cualquier persona migrante menor de dieciocho años de edad que se encuentra acompañada por la persona adulta que ejerce la patria potestad, la tenga bajo su guarda y custodia, o por su tutora o tutor.
+
+c) Separado: cualquier persona migrante menor de dieciocho años de edad que se encuentra acompañada de una persona adulta bajo cuyos cuidados se encuentra habitualmente por costumbre y no en virtud de Ley.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+VII.- Secretaría.- Secretaría General de Gobierno del Estado.
 
 ###### Artículo 7.
 
@@ -185,7 +201,21 @@ XIII.- Coadyuvar con el Gobierno Federal en la prevención y erradicación del t
 
 XIV.- Otorgar asesoría, con el apoyo del Consejo, en el trámite de la documentación oficial que les sea requerida, a efectos de repatriar los restos de los chihuahuenses que hayan fallecido en el extranjero y así poder cumplir con todos los requisitos establecidos en la normatividad aplicable.
 
-XV.- Las demás que establezcan las leyes y demás disposiciones jurídicas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XV. Coadyuvar en campañas de sensibilización y comunicación, sobre la prevención y erradicación de la discriminación a migrantes.
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XVI. Celebrar convenios de coordinación con entes públicos o privados de índole local, estatal o federal, para contar con el apoyo de traductores para migrantes que hablen un idioma distinto al español.
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XVII. Capacitar a las y los servidores públicos en materia de derechos humanos de las personas migrantes.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XVIII.- Las demás que establezcan las leyes y demás disposiciones jurídicas.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2023)</small>
 
@@ -365,6 +395,10 @@ El Consejo sesionará, ordinariamente, cada dos meses y podrá celebrar las sesi
 
 En ambos casos, la convocatoria se notificará a los integrantes del Consejo, por conducto del Secretario Ejecutivo, por lo menos con cinco días hábiles de anticipación a la fecha de su celebración, en los términos y condiciones que señale el Reglamento de esta Ley.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+En caso de flujos atípicos migratorios o violaciones graves a los derechos humanos, relacionados con el objeto de la presente Ley, el Consejo podrá sesionar de manera permanente, a fin de crear, implementar y evaluar acciones de coordinación entre las autoridades que lo integran.
+
 ###### Artículo 25.
 
 El Consejo podrá integrar las comisiones de trabajo que requiera para el cumplimiento de sus atribuciones.
@@ -490,3 +524,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Para los efectos del presente Decreto, el Consejo Estatal de Población hará las previsiones y gestiones normativas, administrativas, presupuestales y organizativas en general, siguiendo los procedimientos y acciones a que hubiera lugar, durante el presente ejercicio fiscal 2023.
+
+P.O. 13 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0538/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y APOYO A MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE CHIHUAHUA Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0621/2023 I P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 24, UN TERCER PÁRRAFO, DE LA LEY DE PROTECCIÓN Y APOYO A MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
