@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-instituto-de-educacion-media-superior-440
 country: "mx"
 rank: "estatuto"
 publication_date: "2005-03-23"
-last_updated: "2020-07-31"
+last_updated: "2023-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44032&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,13 +20,13 @@ issue_date: "2005-03-18"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE EDUCACION MEDIA SUPERIOR DEL DISTRITO FEDERAL
 
-> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO PRIMERO DEL AVISO, PUBLICADO EN LA G.O. DE 23 DE ENERO DE 2020, SE MODIFICAN TODAS LAS REFERENCIAS QUE SE HAGAN AL DISTRITO FEDERAL, EN EL ESTATUTO ORGÁNICO DEL INSTITUTO DE EDUCACIÓN MEDIA SUPERIOR DEL DISTRITO FEDERAL, POR LA DE CIUDAD DE MÉXICO.]</small>
+[NOTA 1: DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO PRIMERO DEL AVISO, PUBLICADO EN LA G.O. DE 23 DE ENERO DE 2020, SE MODIFICAN TODAS LAS REFERENCIAS QUE SE HAGAN AL DISTRITO FEDERAL, EN EL ESTATUTO ORGÁNICO DEL INSTITUTO DE EDUCACIÓN MEDIA SUPERIOR DEL DISTRITO FEDERAL, POR LA DE CIUDAD DE MÉXICO.]
+
+[NOTA 2: EL ACUERDO CG/IEMSCDMX/2aSE/02/2023, EXPEDIDO POR EL H. CONSEJO DE GOBIERNO DEL INSTITUTO DE EDUCACIÓN MEDIA SUPERIOR DE LA CIUDAD DE MÉXICO, CON AVISO PUBLICADO EN LA G.O. DE 13 DE DICIEMBRE DE 2023, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]
 
 ESTATUTO ORGANICO DEL INSTITUTO DE EDUCACION MEDIA SUPERIOR DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE ENERO DE 2020.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE JULIO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 13 DE DICIEMBRE DE 2023.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el miércoles 23 de marzo de 2005.
 
@@ -40,31 +40,31 @@ MAT. MARÍA GUADALUPE LUCIO GÓMEZ MAQUEO, Directora General de Educación Media
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE EDUCACIÓN MEDIA SUPERIOR DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
-
-> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 1.
 
 El Instituto de Educación Media Superior de la Ciudad de México es un organismo público descentralizado de la Administración Pública de la Ciudad de México, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México, de conformidad con lo establecido en el Artículo Primero de su Decreto de Creación.
 
-> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 2.
 
 El Instituto tiene por objeto impartir e impulsar la educación de nivel medio superior en la Ciudad de México, a través de las modalidades: escolarizada, no escolarizada (línea y distancia) y mixta (semiescolarizada), especialmente en aquellas zonas en las que la atención de la demanda educativa sea insuficiente, o así lo requiera el interés colectivo. La educación que imparta el Instituto será gratuita, democrática, promoverá el libre examen y discusión de las ideas y estará orientada a satisfacer las necesidades de la población de la Ciudad de México.
 
-Para el cumplimiento de su objeto, el Instituto establece el Sistema de Bachillerato del Gobierno del Distrito Federal, el cual se encuentra conformado por:
+Para el cumplimiento de su objeto, el Instituto establece el Sistema de Bachillerato del Gobierno de la Ciudad de México, el cual se encuentra conformado por:
 
-I. Los planteles en los que se imparte educación de nivel medio superior del Gobierno del Distrito Federal;
+I. Los planteles en los que se imparte educación de nivel medio superior del Gobierno de la Ciudad de México;
 
 II. Su personal académico, estudiantes y trabajadores;
 
@@ -74,23 +74,25 @@ IV. Sus planes y programas de estudio.
 
 La Comunidad del Instituto estará integrada por sus autoridades, académicos, estudiantes, técnicos, trabajadores y egresados.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 3.
 
-El presente ordenamiento tiene por objeto establecer la estructura y organización internas del Instituto de Educación Media Superior del Distrito Federal, determinar el ámbito de atribuciones de sus órganos de gobierno, consultivos y de las unidades administrativas que lo constituyen. Asimismo, este ordenamiento se propone fijar los criterios básicos que orientarán el desarrollo académico del Instituto y la forma como se impartirán los servicios educativos que preste en sus planteles y en los planteles que se incorporen a su Sistema.
+El presente ordenamiento tiene por objeto establecer la estructura y organización internas del Instituto de Educación Media Superior de la Ciudad de México, determinar el ámbito de atribuciones de sus órganos de gobierno, consultivos y de las unidades administrativas que lo constituyen. Asimismo, este ordenamiento se propone fijar los criterios básicos que orientarán el desarrollo académico del Instituto y la forma como se impartirán los servicios educativos que preste en sus planteles y en los planteles que se incorporen a su Sistema.
 
-> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
-
-> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 4.
 
 Para efectos de este Estatuto Orgánico, se entenderá por:
 
-I. Ley: La Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México;
+I. Ley: La Ley Orgánica del Poder ejecutivo y de la Administración Pública de la Ciudad de México;
 
-II. Reglamento: El Reglamento Interior del Poder Ejecutivo y de la Administración Pública de la Ciudad de México;
+II. Reglamento: El Reglamento Interior del Poder Ejecutivo y de la Administración Pública de la Ciudad de México
 
 III. Constitución: La Constitución Política de la Ciudad de México;
 
@@ -98,9 +100,9 @@ IV. Jefe de Gobierno: El Jefe de Gobierno de la Ciudad de México;
 
 V. Secretaría: La Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México;
 
-VI. Sistema: El Sistema de Bachillerato del Gobierno de la Ciudad de México;
+VI. Sistema: El Sistema de Bachillerato de la Ciudad de México;
 
-VII. Instituto: El Instituto de Educación Media Superior de la Ciudad de México.
+VII. Instituto: El Instituto de Educación Media Superior de la Ciudad de México;
 
 VIII. Consejo de Gobierno: El Consejo de Gobierno del Instituto de Educación Media Superior de la Ciudad de México;
 
@@ -110,19 +112,25 @@ X. Planteles: Los planteles de educación media superior que conforman el Sistem
 
 XI. Modelo Educativo: El modelo pedagógico de bachillerato desarrollado por el Instituto de Educación Media Superior de la Ciudad de México;
 
-XII. Estatuto Orgánico: El presente Estatuto Orgánico del Instituto de Educación Media Superior de la Ciudad de México.
+XII. Estatuto Orgánico: El presente Estatuto Orgánico del Instituto de Educación Media Superior de la Ciudad de México
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ### CAPÍTULO SEGUNDO. DEL ÓRGANO DE GOBIERNO
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 5.
 
 El Gobierno y la Administración del Instituto estarán a cargo de un Consejo de Gobierno y de una Dirección General respectivamente, quienes para su desempeño tendrán las facultades y funciones que les confiere su Decreto de Creación y el presente Estatuto.
 
-> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
-
-> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 6.
 
@@ -150,7 +158,7 @@ X. Dos académicos emanados del Consejo Académico del Instituto; y
 
 XI. Dos ciudadanos designados por el Jefe de Gobierno de la Ciudad de México.
 
-El cargo de miembro del Consejo será personal y no podrá desempeñarse por medio de representante. No obstante, cada titular podrá designar a su suplente, excepto en el caso del Presidente.
+El cargo de miembro del Consejo será personal y no podrá desempeñarse por medio de representante . No obstante, cada titular podrá designar a su suplente, excepto en el caso del Presidente.
 
 El Comisario asistirá con voz pero sin voto a las sesiones ordinarias y extraordinarias del Consejo de Gobierno, y podrá también asistir a las sesiones de los Comités y Subcomités Técnicos Especializados.
 
@@ -164,27 +172,27 @@ El Secretario Técnico podrá convocar a las sesiones de (sic) Consejo, tanto or
 
 El Consejo de Gobierno, cuando lo estime conveniente, podrá invitar a participar en sus sesiones, con voz pero sin voto, a representantes de otras dependencias, unidades administrativas, entidades de la Administración Pública Federal o de la Ciudad de México, así como a miembros del Consejo General Interno y del Consejo Académico del Instituto o a especialistas en el tema cuando se traten asuntos que así lo requieran.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 7.
 
 Los miembros del Consejo de Gobierno del Instituto participarán en éste a título honorario.
 
-> <small>(REFORMADO, G.O. 28 DE ENERO DE 2011)</small>
-
 Las sesiones que celebre el Consejo de Gobierno serán ordinarias y extraordinarias, sesionará ordinariamente, de acuerdo con el calendario que será aprobado en la primera sesión ordinaria del ejercicio, no menos de cuatro veces al año y las sesiones extraordinarias se realizarán cuando su Presidente lo estime necesario, previa convocatoria que haga él o el Secretario Técnico, en su caso.
 
-El Consejo de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros, siempre que la mayoría de los asistentes sean representantes de la Administración Pública del Distrito Federal.
+El Consejo de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros, siempre que la mayoría de los asistentes sean representantes de la Administración Pública de la Ciudad de México.
 
 Las resoluciones del Consejo se tomarán por mayoría de votos, teniendo el Presidente voto de calidad, en caso de empate.
 
 Para la celebración de las sesiones del Consejo de Gobierno se formulará un orden del día al que se adjuntará la documentación pertinente de los asuntos a tratar, información que deberá ser recibida por sus miembros y por los comisarios, con una anticipación no menor de cinco días hábiles en el caso de las ordinarias y de tres días en el caso de las extraordinarias.
 
-> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+La falta de asistencia injustificada de los Servidores Públicos a las sesiones que sean convocados, dará lugar a la aplicación de las acciones previstas en la Ley de Responsabilidades Administrativas de la Ciudad de México.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
 
-> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
-
-La falta de asistencia injustificada de los Servidores Públicos a las sesiones que sean convocados, dará lugar a la aplicación de las acciones previstas en la Ley de Responsabilidades Administrativas de la Ciudad de México;
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 8.
 
@@ -208,13 +216,7 @@ VIII. Ratificar el nombramiento del auditor externo y aprobar anualmente, previa
 
 IX. Aprobar de acuerdo con las disposiciones aplicables las políticas, bases y programas generales que regulen los convenios, contratos o pedidos que deba celebrar el Instituto con terceros en materia de obra pública, adquisiciones, arrendamiento, administración de bienes y prestación de servicios;
 
-X. Aprobar las normas conforme a las cuales el Instituto podrá celebrar convenios de coordinación con los titulares de los órganos político-administrativos de las demarcaciones del Distrito Federal;
-
-> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
-
-> <small>(REFORMADA, G.O. 23 DE ENERO DE 2020)</small>
+X. Aprobar las normas conforme a las cuales el Instituto podrá celebrar convenios de coordinación con los titulares de los órganos político-administrativos de las demarcaciones de la Ciudad de México;
 
 XI. Autorizar al Director General del Instituto llevar a cabo los trámites necesarios ante la Secretaría de Administración y Finanzas para la solicitud de créditos internos y externos que el financiamiento del Instituto requiera, observando las leyes, reglamentos y lineamientos que dicten las autoridades competentes en la materia;
 
@@ -222,7 +224,7 @@ XII. Expedir las normas o bases generales sobre las que el Director General pued
 
 XIII. Cancelar adeudos a cargo de terceros a favor del Instituto, cuando fuere notoria la imposibilidad de su cobro;
 
-XIV. Autorizar al Director General del Instituto para que ejerza facultades de dominio, administración, pleitos y cobranzas a nombre del Instituto, de conformidad con las disposiciones legales aplicables y pueda bajo su más estricta responsabilidad delegarlas;
+XIV. Autorizar al Director General del Instituto para que ejerza facultades de dominio, administración, pleitos y cobranzas a nombre del Instituto, de conformidad con las disposiciones legales aplicables y pueda bajo su más estricta responsabilidad delegarlas.
 
 XV. Autorizar la creación de Comités y Subcomités de apoyo;
 
@@ -232,13 +234,21 @@ XVII. El Presidente del Consejo nombrará un Secretario Técnico, el cual tendr�
 
 XVIII. Nombrar y remover a propuesta del Director General, a los servidores públicos del Instituto que ocupen los cargos en las dos jerarquías administrativas inferiores a aquél y, aprobar la fijación de sueldos y prestaciones, atendiendo a los lineamientos normativos en la materia;
 
-XIX. Aprobar el calendario anual de sesiones;
+XIX. Aprobar el calendario anual de sesiones
 
 XX. Aprobar la designación de los investigadores o académicos que formarán parte del Consejo Académico del Instituto, y
 
 XXI. Las demás que sean necesarias para el ejercicio de las facultades anteriores.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ### CAPÍTULO TERCERO. DE LAS FACULTADES DEL PRESIDENTE Y DEL SECRETARIO
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 9.
 
@@ -254,13 +264,15 @@ IV. Proponer al Secretario Técnico ante el Consejo de Gobierno, y
 
 V. Las demás que le encomiende el Consejo de Gobierno.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 10.
 
 Corresponde al Secretario Técnico del Consejo de Gobierno:
 
-> <small>(ADICIONADA, G.O. 28 DE ENERO DE 2011)</small>
-
-I. Convocar a las sesiones ordinarias y extraordinarias, por instrucciones del Presidente del Consejo;
+I. Convocar a las sesiones ordinarias y extraordinarias, por instrucciones del Presidente del Consejo.
 
 II. Formular con la anticipación debida, el orden del día de las sesiones del Consejo de Gobierno, tomando en cuenta los asuntos que a propuesta de sus integrantes, del Director General del Instituto y del Comisario, se deban incluir en el mismo y someterlo a la aprobación del Presidente del Consejo de Gobierno;
 
@@ -270,11 +282,9 @@ IV. Asistir a las sesiones ordinarias y extraordinarias con voz pero sin voto;
 
 V. Pasar lista de asistencia y verificar que exista el quórum legal para iniciar la sesión;
 
-> <small>(ADICIONADA, G.O. 28 DE ENERO DE 2011)</small>
+VI. Elaborar el calendario de sesiones del Consejo de Gobierno y someterlo para su aprobación ante los miembros del Consejo;
 
-VI. Llevar el escrutinio de las votaciones de los miembros del Consejo de Gobierno;
-
-VII. Elaborar el calendario de sesiones del Consejo de Gobierno y someterlo para su aprobación ante los miembros del Consejo;
+VII. Llevar el escrutinio de las votaciones de los miembros del Consejo de Gobierno.
 
 VIII. Dar lectura al acta de la sesión anterior y tomar nota de las observaciones de sus miembros para su modificación;
 
@@ -284,11 +294,19 @@ X. Llevar el registro y dar seguimiento a los acuerdos tomados en las sesiones d
 
 XI. Las demás que le confiera el Consejo de Gobierno y el Estatuto Orgánico.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ### CAPÍTULO CUARTO. DEL DIRECTOR GENERAL
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 11.
 
-El Director General será designado por el Jefe de Gobierno del Distrito Federal, quien podrá tomar en consideración las propuestas hechas por el Consejo de Gobierno.
+El Director General será designado por el Jefe de Gobierno de la Ciudad de México, quien podrá tomar en consideración las propuestas hechas por el Consejo de Gobierno.
 
 El Jefe de Gobierno podrá remover en cualquier momento al Director General.
 
@@ -302,6 +320,10 @@ III. Haberse distinguido por su probidad y competencia profesional en el ejercic
 
 IV. Haber obtenido el grado mínimo de licenciatura.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 12.
 
 El Director General tendrá las siguientes facultades y obligaciones:
@@ -314,9 +336,9 @@ III. Formular las propuestas de Estatuto Orgánico y del Personal Académico del
 
 IV. Formular la propuesta de estructura orgánica básica y sus modificaciones, el Manual de Organización y el Manual de Normas y Procedimientos del Instituto;
 
-V. Formular y presentar al Consejo de Gobierno, los programas institucionales y el presupuesto anual del Instituto, su vinculación y su congruencia con el Sistema Educativo Nacional y con el Programa General de Desarrollo del Distrito Federal;
+V. Formular y presentar al Consejo de Gobierno, los programas institucionales y el presupuesto anual del Instituto, su vinculación y su congruencia con el Sistema Educativo Nacional y con el Programa General de Desarrollo de la Ciudad de México;
 
-VI. Coordinar la elaboración y actualización de los planes y programas de estudio que se impartan en el Sistema de Bachillerato del Gobierno del Distrito Federal, para su aprobación ante el Consejo de Gobierno;
+VI. Coordinar la elaboración y actualización de los planes y programas de estudio que se impartan en el Sistema de Bachillerato del Gobierno de la Ciudad de México, para su aprobación ante el Consejo de Gobierno;
 
 VII. Formular los programas de modernización del Instituto, de conformidad con la reglamentación correspondiente;
 
@@ -340,37 +362,53 @@ XVI. Dirimir y substanciar las controversias que se susciten entre los Órganos 
 
 XVII. Las demás que le otorgue este Estatuto Orgánico y el Consejo de Gobierno.
 
-### CAPÍTULO QUINTO. DE LA CONTRALORÍA INTERNA
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO QUINTO. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 13.
 
-La Contraloría Interna, parte integrante de la estructura del Instituto, dependerá administrativamente de él y jerárquica, técnica y funcionalmente de la Contraloría General del Distrito Federal.
+El Órgano Interno de Control, parte integrante de la estructura del Instituto, dependerá administrativamente de él y jerárquica, técnica y funcionalmente de la Secretaría de la Contraloría General de la Ciudad de México.
 
-Sus acciones tendrán por objeto apoyar la función directiva desde el punto de vista del control y evaluación de la gestión pública de la entidad; desarrollará sus funciones conforme al reglamento correspondiente y a los lineamientos que emita la Contraloría General, a la cual estará adscrita el titular de la Contraloría Interna, así como el personal que lo integre.
+Sus acciones tendrán por objeto apoyar la función directiva desde el punto de vista del control y evaluación de la gestión pública de la entidad; desarrollará sus funciones conforme al reglamento correspondiente y a los lineamientos que emita la Secretaría de la Contraloría General de la Ciudad de México, a la cual estará adscrita el titular del Órgano Interno de Control, así como el personal que lo integre.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ### CAPÍTULO SEXTO. DEL ÓRGANO DE VIGILANCIA
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 14.
 
-El Órgano de Vigilancia estará integrado por un Comisario propietario y un suplente, designados por la Contraloría General del Distrito Federal, quienes apoyarán y evaluarán el desempeño general del Instituto.
+El Órgano de Vigilancia estará integrado por un Comisario propietario y un suplente, designados por la Secretaría de la Contraloría General de la Ciudad de México, quienes apoyarán y evaluarán el desempeño general del Instituto.
 
-> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
-
-> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 15.
 
 El Comisario tendrá las atribuciones que le definan la Ley Orgánica y el Reglamento Interior del Poder Ejecutivo y de la Administración Pública de la Ciudad de México.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ### CAPÍTULO SÉPTIMO. DE LA ESTRUCTURA Y FUNCIONES DE LAS UNIDADES ADMINISTRATIVAS DEL INSTITUTO
 
-> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
-
-(REFORMADO, G.O. 23 DE ENERO DE 2020) (F. DE E., G.O. 31 DE JULIO DE 2020)
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 16.
 
@@ -382,19 +420,19 @@ II. Órgano Interno de Control
 
 III. Unidades Administrativas:
 
-a) Dirección de Asuntos Académicos
+a) Dirección de Asuntos Académicos.
 
-b) Dirección de Asuntos Estudiantiles
+b) Dirección de Asuntos Estudiantiles.
 
-c) Dirección de Innovación y Desarrollo de Gestión
+c) Dirección de Innovación y Desarrollo de Gestión.
 
-d) Dirección de Administración y Finanzas
+d) Dirección de Administración y Finanzas.
 
-e) Dirección Jurídica y Normativa
+e) Dirección Jurídica y Normativa.
 
-f) Subdirección de Tecnologías de la Información y Comunicaciones
+f) Subdirección de Tecnologías de la Información y Comunicaciones.
 
-g) Coordinaciones de Plantel
+g) Coordinación de Plantel.
 
 IV.- Órganos Consultivos:
 
@@ -406,15 +444,17 @@ c) Consejo Interno de los Planteles, y
 
 d) Consejo de Participación Social de los Planteles.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 17.
 
 El Director General podrá delegar sus facultades en los servidores públicos de las Unidades Administrativas del Instituto, con excepción de aquéllas que por disposición legal expresa o determinación del Consejo de Gobierno le correspondan exclusivamente.
 
-> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
-
-(REFORMADO, G.O. 23 DE ENERO DE 2020) (F. DE E., G.O. 31 DE JULIO DE 2020)
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 18.
 
@@ -494,11 +534,9 @@ XXXVI. Las atribuciones a que se refiere el presente artículo y todas las que c
 
 XXXVII. Las demás que le instruya la persona titular de la Secretaría de la Contraloría General y las personas titulares de las direcciones generales de Coordinación de Órganos Internos de Control, las que correspondan a las Unidades Administrativas de Apoyo Técnico Operativo adscritas; así como las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
-> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
-
-> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 19.
 
@@ -538,11 +576,9 @@ XVI. Coordinar los trabajos para establecer las necesidades de recursos humanos,
 
 XVII. Las demás que le asigne la Dirección General, confiera el Estatuto y la normatividad interna del Instituto.
 
-> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
-
-> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 20.
 
@@ -558,7 +594,7 @@ IV. Coordinar la elaboración de la propuesta del calendario escolar para tener 
 
 V. Supervisar la elaboración y emisión de la convocatoria de ingreso para el ciclo escolar que corresponda, de conformidad con la normatividad establecida en el Instituto, para aprobación de la Dirección General y conocimiento al Consejo de Gobierno del Instituto;
 
-VI. Coordinar la emisión del listado de colonias de acuerdo con la información presentada por los coordinadores de los planteles del instituto para facilitar su ubicación, para aprobación de la Dirección General y conocimiento al Consejo de Gobierno del Instituto;
+VI. Coordinar la emisión del listado de colonias de acuerdo con la información presentada por los coordinadores de plantel del instituto para facilitar su ubicación, para aprobación de la Dirección General y conocimiento al Consejo de Gobierno del Instituto;
 
 VII. Establecer la propuesta de actualización de la normatividad para la integración, registro, ingreso, permanencia, egreso y/o control del expediente de los estudiantes, ya sea documental y/o electrónico;
 
@@ -586,11 +622,9 @@ XVIII. Coordinar los programas de trabajo y elaboración del anteproyecto anual 
 
 XIX. Las demás que le asigne la Dirección General y le confiera la normatividad del Instituto.
 
-> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
-
-> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 21.
 
@@ -614,7 +648,7 @@ VIII. Promover las actividades de elaboración en investigación sobre materiale
 
 IX. Determinar las actividades de verificación de los Proyectos Académicos Personales en relación al desempeño docente, para recabar las necesidades de capacitación de los DTI del Instituto.
 
-X. Dirigir las actividades de formación, actualización y desarrollo en las prácticas docentes y tutorales ofrecidas en el Instituto, a través de entidades académicas y así incrementar las competencias pedagógicas que aseguren e impacten favorablemente el desempeño de los DTI del Instituto.
+X. Dirigir las actividades de formación, actualización y desarrollo en las prácticas docentes y tutórales ofrecidas en el Instituto, a través de entidades académicas y así incrementar las competencias pedagógicas que aseguren e impacten favorablemente el desempeño de los DTI del Instituto.
 
 XI. Planear el diseño, desarrollo y operación de estrategias alternativas de los diversos recursos digitales, para la producción de materiales académicos del Instituto.
 
@@ -631,6 +665,10 @@ XVI. Diseñar y establecer las estrategias y mecanismos eficaces para la correct
 XVII. Coordinar las actividades de operación y administración de los servicios y recursos digitales que ofrecen el Portal Académico y el Portal de Estudiantes a los docentes y estudiantes del Instituto, para garantizar la continuidad, actualización y calidad de su funcionamiento.
 
 XVIII. Las demás que le asigne la Dirección General y le confiera la normatividad del Instituto.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 22.
 
@@ -670,15 +708,13 @@ XVI. Conservar en condiciones de funcionalidad los inmuebles e instalaciones en 
 
 XVII. Las demás que le asigne la Dirección General, confiera el Estatuto y la normatividad interna del Instituto.
 
-> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
-
-(REFORMADO, G.O. 23 DE ENERO DE 2020) (F. DE E., G.O. 31 DE JULIO DE 2020)
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 23.
 
-A la Dirección Jurídica y Normativa le corresponde:
+A la Dirección Jurídica y de la Unidad de Transparencia le corresponde:
 
 I. Dirigir la representación legal del Instituto ante toda clase de instituciones y particulares con las facultades que le delegue la Dirección General con el propósito de proteger los intereses del Instituto.
 
@@ -686,7 +722,7 @@ II. Determinar los criterios para la interpretación de la normatividad aplicabl
 
 III. Intervenir como Órgano de consulta jurídica y de apoyo en el estudio, planeación, conducción, coordinación de los asuntos que sean competencia del Instituto y de la Dirección General, con el propósito de brindar certeza jurídica a los actos que sea parte.
 
-IV. Coordinar la compilación de leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídico - administrativas aplicables al Instituto, a efecto de conocer las disposiciones vigentes en el ámbito de su competencia.
+IV. Coordinar la compilación de leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídico – administrativas aplicables al Instituto, a efecto de conocer las disposiciones vigentes en el ámbito de su competencia.
 
 V. Coordinar la revisión, elaboración y actualización de las condiciones generales y específicas de trabajo, contrato colectivo de trabajo, contratos individuales de trabajo, reglamentos, acuerdos y convenios laborales que el Instituto lleve a cabo.
 
@@ -722,11 +758,9 @@ XX. Coordinar el seguimiento de los acuerdos emanados en el pleno del Consejo de
 
 XXI. Las demás que le asigne la Dirección General y le confiera la normatividad del Instituto.
 
-> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
-
-> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 24.
 
@@ -764,15 +798,69 @@ XV. Emitir las solicitudes de refacciones, consumibles y materiales informático
 
 XVI. Autorizar la distribución, redistribución, movimientos y préstamos de equipos y suministros informáticos, para que sean instalados en las condiciones y reglas de seguridad acordes con las políticas de asignación establecidas, resguardados por el personal del Instituto.
 
-XVII. Las demás que le asigne la Dirección General, confiera el Estatuto y la normatividad interna del Instituto.
+XVIII. (SIc) Las demás que le asigne la Dirección General, confiera el Estatuto y la normatividad interna del Instituto.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ### CAPÍTULO OCTAVO. DE LA ESTRUCTURA Y FUNCIONES DE LOS ÓRGANOS CONSULTIVOS DEL INSTITUTO
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
 
-> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 25.
+
+Además de las Unidades Administrativas referidas en el capítulo séptimo de este Estatuto, el Instituto contará con los siguientes órganos consultivos de carácter general:
+
+I. Consejo General Interno, y
+
+II. Consejo Académico.
+
+La participación de sus integrantes será honorífica.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 26.
+
+El Consejo General Interno del Instituto se integrará por:
+
+I. El Director General del Instituto de Educación Media Superior, quien lo presidirá;
+
+II. El Director de Asuntos Académicos;
+
+III. Los Subdirectores de Coordinación de Plantel del Instituto;
+
+IV. Un representante del personal académico por cada plantel, mismo que deberá formar parte del Consejo Interno del plantel, y
+
+V. Un representante de los alumnos por cada plantel, mismo que deberá formar parte del Consejo Interno del plantel.
+
+A propuesta del presidente se nombrará entre persona ajena a este Consejo, un Secretario Técnico del mismo, quien tendrá voz pero no voto y el cual se encargará de formular el orden del día de las sesiones del Consejo, mismo que se integrará con la documentación soporte de los asuntos a tratar, para ser remitidos a todos sus miembros tres días antes de la celebración de sus sesiones. Asimismo, tendrá a su cargo la elaboración y resguardo de las actas de asamblea que celebre el Órgano Colegiado.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 27.
+
+El Consejo General Interno sesionará por lo menos una vez al año en las fechas que proponga el Director General del Instituto, siendo sus funciones principales las de:
+
+I. Opinar sobre las políticas y lineamientos académicos a los que deberán sujetarse los planteles del Instituto, a través de las modalidades: escolarizada, no escolarizada (línea y a distancia) y mixta (semiescolarizada);
+
+II. Emitir recomendaciones sobre las Reglas Internas de los Planteles y sobre sus propias Reglas de Operación, mismas que serán tomadas en cuenta por la instancia responsable de su elaboración, de conformidad con lo establecido en el presente Estatuto;
+
+III. Emitir recomendaciones para la elaboración de los programas académicos, así como de los proyectos especiales implantados en los planteles de bachillerato; y
+
+IV. Las demás que le confiera el Estatuto Orgánico y el Consejo de Gobierno.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 28.
 
 El Consejo Académico estará integrado por:
 
@@ -786,139 +874,71 @@ IV. Un investigador o académico reconocido nacional o internacionalmente en el 
 
 Los investigadores o académicos que formen parte del Consejo Académico serán designados por el Consejo de Gobierno a propuesta del Director General del Instituto.
 
-A propuesta del presidente se nombrará entre persona ajena a este Consejo, un Secretario Técnico del mismo, quien tendrá voz pero no voto y el cual se encargará de formular el orden del día de las sesiones del Consejo, mismo que se integrará con la documentación soporte de los asuntos a tratar, para ser remitidos a todos sus miembros tres días antes de la celebración de sus sesiones. Asimismo, tendrá a su cargo la elaboración y resguardo de las actas de asamblea que celebre el Órgano Colegiado.
+A propuesta del presidente se nombrará entre persona ajena a este Consejo, un Secretario Técnico del mismo, quien tendrá voz pero no voto y el cual se encargará de formular el orden del día de las sesiones del Consejo, mismo que se integrará con la documentación soporte de los asuntos a tratar, para ser remitidos a todos sus miembros tres días antes de la celebración de sus sesiones. Asimismo, tendrá a su cargo la elaboración y resguardo de las actas de asamblea que celebre el Órgano Colegiado
 
-> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE ENERO DE 2020)</small>
+###### Artículo 29.
 
-###### Artículo 26.
-
-El Consejo General Interno del Instituto se integrará por:
+El Consejo Académico sesionará por lo menos dos veces al año en las fechas que proponga el Director General del Instituto, siendo sus funciones principales las de:
 
 I. Evaluar a petición de la Dirección General, los planes de estudio, con el fin de que éstos, respondan a las exigencias educativas vigentes;
 
-> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+II. Contribuir al desarrollo teórico de las investigaciones que se generen al interior del Instituto, dirigidas a fortalecer el modelo educativo;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
-
-> <small>(REFORMADA, G.O. 23 DE ENERO DE 2020)</small>
-
-II. El Director de Asuntos Académicos;
-
-III. Emitir recomendaciones que favorezcan la optimización de los procesos académico - administrativos;
+III. Emitir recomendaciones que favorezcan la optimización de los procesos académico –administrativos;
 
 IV. Formular propuestas para el perfeccionamiento de la evaluación del aprendizaje;
 
 V. Formular propuestas para el mejoramiento del programa institucional de tutorías;
 
-VI. Vincular y promover el desarrollo teórico de Modelo Educativo del Sistema de Bachillerato del Gobierno del Distrito Federal en las comunidades académicas nacionales e internacionales, así como en los foros educativos en que pueda exponerse el Modelo;
+VI. Vincular y promover el desarrollo teórico de Modelo Educativo del Sistema de Bachillerato del Gobierno de la Ciudad de México en las comunidades académicas nacionales e internacionales, así como en los foros educativos en que pueda exponerse el Modelo;
 
 VII. Las demás que le confiera este Estatuto y el Consejo de Gobierno.
 
-> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE ENERO DE 2020)</small>
-
-###### Artículo 27.
-
-El Consejo General Interno sesionará por lo menos una vez al año en las fechas que proponga el Director General del Instituto, siendo sus funciones principales las de:
-
-> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
-
-> <small>(REFORMADA, G.O. 23 DE ENERO DE 2020)</small>
-
-I. Opinar sobre las políticas y lineamientos académicos a los que deberán sujetarse los planteles del Instituto, a través de las modalidades: escolarizada, no escolarizada (línea y a distancia) y mixta (semiescolarizada);
-
-...
-
-(SIC)
-
-###### Artículo 28.
-
-La educación media superior que imparta el Instituto, se realizará en los planteles que para este fin acuerde crear el Consejo de Gobierno. Los planteles conforman el Sistema de Bachillerato del Gobierno del Distrito Federal que se regirá por las Reglas Internas que para tal fin el Consejo de Gobierno apruebe.
-
-> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2008)</small>
-
-###### Artículo 29.
-
-Cada plantel será administrado por un Subdirector de Coordinación de Plantel, el cual podrá ser nombrado o removido por el Consejo de Gobierno, a propuesta del Director General; para su designación, en primera instancia se considerará al personal académico del Instituto.
-
-> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2010)</small>
-
-Un Subdirector de Coordinación de Plantel permanecerá en su cargo un máximo de cuatro años y, en razón tanto de su desempeño como de los resultados obtenidos, podrá ser nuevamente nombrado, por única vez, con el mismo cargo, por un periodo igual, pero en un plantel distinto. Los Subdirectores de Coordinación de Plantel, una vez que dejen dicho encargo podrán ocupar de inmediato una plaza de Docente Tutor Investigador.
-
-> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2010)</small>
-
-En cuanto a los servidores públicos del área central del Instituto, una vez que dejen de estar en función, y que hubiesen desempeñado en algún momento el cargo de Subdirector de Coordinación de Plantel, podrán ocupar de manera inmediata una plaza de Docente Tutor Investigador.
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 30.
 
-A la Subdirección de Coordinación de Planteles le corresponde:
+Los Órganos Consultivos se regirán por el reglamento para la Integración y Funcionamiento de los Órganos Consultivos del Instituto de Educación Media Superior que apruebe el Consejo de Gobierno.
 
-I. Impartir educación media superior en las modalidades escolar y extraescolar, de acuerdo con las políticas, planes y programas del Instituto;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
 
-II. Coordinar y supervisar la operación del modelo educativo desarrollado por el Instituto, en el plantel a su cargo;
-
-III. Coordinar los servicios de tutoría educativa, de conformidad con lo establecido en las normas aplicables;
-
-IV. Promover las actividades que determine la Dirección General para el enriquecimiento de los programas y proyectos del plantel;
-
-V. Respetar y aplicar las Reglas Internas del Plantel;
-
-VI. Convocar y presidir los Consejos Interno del plantel y de Participación Social, de conformidad con lo establecido en sus Reglas de Operación internas;
-
-VII. Ejecutar los programas aprobados por el Consejo de Gobierno;
-
-VIII. Realizar actividades de vinculación con instituciones educativas, culturales y sociales que beneficien la marcha académica del plantel, haciéndolo del conocimiento de la Dirección Académica del Instituto;
-
-IX. Gestionar ante las autoridades de su demarcación territorial, la prestación de servicios públicos que requiera el plantel, haciéndolo del conocimiento de la Dirección Técnica del Instituto;
-
-X. Coordinar los servicios de biblioteca y laboratorios del plantel, así como otros servicios de apoyo académico;
-
-XI. Coordinar la prestación de servicios en materia de administración escolar y seguimiento académico de alumnos y ex-alumnos, de conformidad con las normas aprobadas por el Consejo de Gobierno;
-
-XII. Administrar y coordinar los servicios generales, el almacén y los inventarios del plantel de conformidad con la normatividad aplicable;
-
-XIII. Formular y someter a consideración de la Dirección General del Instituto, los anteproyectos de programas y presupuestos del plantel;
-
-XIV. Presentar a la Dirección General del Instituto y al Consejo Interno, un informe semestral sobre el desempeño de las actividades del plantel, de conformidad con la normatividad aplicable;
-
-> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2010)</small>
-
-XV.- Coordinar y supervisar las actividades académicas que desarrollen los docentes en el plantel a su cargo, así como solicitarles los informes respectivos;
-
-> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2010)</small>
-
-XVI.- Coordinar y supervisar las actividades administrativas del plantel a su cargo; y
-
-XVII. Las demás que le asigne la Dirección General y le confiera este Estatuto Orgánico, la normatividad interna del Instituto y las Reglas Internas del plantel.
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ### CAPÍTULO NOVENO. DE LOS PLANTELES
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 31.
 
-La estructura interna de los planteles estará integrada por las unidades administrativas previstas en la Estructura Orgánica del Instituto, las cuales atenderán las funciones que se establezcan en el Manual de Organización y demás normas internas del Instituto.
+La educación media superior que imparta el Instituto, se realizará en los planteles que para este fin acuerde crear el Consejo de Gobierno. Los planteles conforman el Sistema de Bachillerato del Gobierno de la Ciudad de México que se regirá por las Reglas Internas que para tal fin el Consejo de Gobierno apruebe.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 32.
 
-Cada plantel dispondrá del personal docente suficiente, para cubrir de acuerdo con el modelo educativo, todas y cada una de las asignaturas contempladas en los planes y programas de estudio establecidos por el Instituto.
+Cada plantel será administrado por un Subdirector de Coordinación de Plantel, el cual podrá ser nombrado de entre el personal académico por el Director General, y ratificado por el Consejo de Gobierno.
 
-> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+Un Subdirector de Coordinación de Plantel permanecerá en su cargo un máximo de cuatro años y, en razón tanto de su desempeño como de los resultados obtenidos, podrá ser nuevamente nombrado, por única vez, con el mismo cargo, por un periodo igual, pero en un plantel distinto. Los Subdirectores de Coordinación de Plantel, una vez que dejen dicho encargo podrán ocupar de inmediato una plaza de Docente Tutor Investigador.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
+En cuanto a los servidores públicos del área central del Instituto, una vez que dejen de estar en función, y que hubiesen desempeñado en algún momento el cargo de Subdirector de Coordinación de Plantel, podrán ocupar de manera inmediata una plaza de Docente Tutor Investigador.
 
-> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 33.
 
-A las Coordinaciones de Plantel les corresponde:
+A la Subdirección de Coordinación de Plantel le corresponde:
 
 I. Impartir educación media superior en las modalidades: escolarizada, no escolarizada (línea y distancia) y mixta (semiescolarizada), de acuerdo con las políticas, planes y programas del Instituto;
 
@@ -952,81 +972,177 @@ XV. Coordinar y supervisar las actividades académicas que desarrollen los docen
 
 XVI. Coordinar y supervisar las actividades administrativas del plantel a su cargo; y
 
-XVII. Las demás que le asigne la Dirección General, confiera el Estatuto y la normatividad interna del Instituto.
+XVII Las demás que le asigne la Dirección General, confiera el Estatuto y la normatividad interna del Instituto.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 34.
 
+La estructura interna de los planteles estará integrada por las unidades administrativas previstas en la Estructura Orgánica del Instituto, las cuales atenderán las funciones que se establezcan en el Manual de Organización y demás normas internas del Instituto.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 35.
+
+Cada plantel dispondrá del personal docente suficiente, para cubrir de acuerdo con el modelo educativo, todas y cada una de las asignaturas contempladas en los planes y programas de estudio establecidos por el Instituto.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 36.
+
+Cada plantel de Educación Media Superior contará con los siguientes órganos consultivos:
+
+I. Consejo Interno, y
+
+II. Consejo de Participación Social.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 37.
+
 El Consejo Interno del plantel se integrará por:
 
-I. El Subdirector de Coordinación de Planteles;
+I. El Subdirector de Coordinación de Plantel;
 
 II. Un académico por área; y
 
 III. Un estudiante por cada grado.
 
-###### Artículo 35.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 38.
 
 Los Consejos Internos tendrán como propósito conocer las opiniones y propuestas de los académicos y estudiantes de los planteles, es decir, con relación a los servicios generales, servicios de apoyo académico y en general sobre la marcha académica del plantel, a fin de contribuir con propuestas de mejoramiento y apoyo a la comunidad del plantel, éste se regirá de acuerdo a las normas mencionadas en el artículo 27 de este Estatuto.
 
-###### Artículo 36.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 39.
 
 Los Consejos de Participación Social tendrán como finalidad vincular e integrar a los ex-alumnos, padres de familia y a los representantes de la comunidad donde se encuentra el plantel, a fin de contribuir con propuestas de mejoramiento y apoyo a las labores del mismo. Su integración y funcionamiento se sujetará a la normatividad señalada en el artículo 27 de este Estatuto.
 
-###### Artículo 37.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO DÉCIMO. DE LOS CRITERIOS ACADÉMICOS DEL INSTITUTO
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 40.
 
 El Instituto impulsará la Educación Media Superior a través de un modelo educativo que considere tres ámbitos básicos de formación: crítica, científica y humanística.
 
 El modelo pedagógico del Instituto buscará contribuir a que los jóvenes se conviertan en adultos democráticos, solidarios, tolerantes e íntegros, cuya capacidad de juicio crítico y moral, les permita comprender y modificar su entorno social. De igual forma, este Modelo deberá lograr que los estudiantes tomen conciencia de ser sujetos morales y desarrollar en ellos la actitud y capacidad para decidir con autonomía, plena conciencia de sus derechos y obligaciones, reconocimiento de los derechos de los demás, así como las repercusiones de sus actos.
 
-###### Artículo 38.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
 
-Los planes y programas de estudio que el Instituto formule, formarán parte de un modelo pedagógico orientado a responder de manera efectiva a las necesidades educativas y culturales actuales, a los avances de las humanidades y de las ciencias y, principalmente, a los avances en la teoría del conocimiento.
-
-###### Artículo 39.
-
-Los estudiantes son los actores centrales de los procesos educativos y constituyen la razón de ser del Instituto, por lo que tendrán garantizada una participación activa y permanente a través de los Consejos Internos, procurando que esta función se desempeñe sin detrimento del proceso de aprendizaje.
-
-### CAPÍTULO DÉCIMO. DE LOS CRITERIOS ACADÉMICOS DEL INSTITUTO
-
-###### Artículo 40.
-
-Todos los estudiantes serán considerados iguales y se eliminará toda clasificación que signifique demérito de alguno de ellos.
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 41.
 
-El procedimiento y los requisitos para la inscripción de alumnos a los planteles del Instituto, atenderán a lo establecido en las Reglas de Inscripción.
+Los planes y programas de estudio que el Instituto formule, formarán parte de un modelo pedagógico orientado a responder de manera efectiva a las necesidades educativas y culturales actuales, a los avances de las humanidades y de las ciencias y, principalmente, a los avances en la teoría del conocimiento.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 42.
 
-Con el objeto de lograr una educación de alto nivel, la planta de profesores del Instituto, estará constituida por académicos de tiempo completo. La incorporación y permanencia del personal académico deberá sujetarse a lo establecido en el Estatuto del Personal Académico y demás normatividad que apruebe el Consejo de Gobierno.
+Los estudiantes son los actores centrales de los procesos educativos y constituyen la razón de ser del Instituto, por lo que tendrán garantizada una participación activa y permanente a través de los Consejos Internos, procurando que esta función se desempeñe sin detrimento del proceso de aprendizaje.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 43.
 
-Los profesores constituyen el apoyo central de la educación de los estudiantes y de la marcha del plantel. Su función docente deberá distinguirse claramente de las demás funciones que deberán realizar, conforme lo establecido en los Estatutos Académico y del Personal Académico.
+Todos los estudiantes serán considerados iguales y se eliminará toda clasificación que signifique demérito de alguno de ellos.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 44.
 
-En los planteles del Instituto, los profesores de una misma área constituirán una Academia. La integración y actuación de las academias, atenderán a lo señalado en los Estatutos Académico y del Personal Académico.
+El procedimiento y los requisitos para la inscripción de alumnos a los planteles del Instituto, atenderán a lo establecido en las Reglas de Inscripción.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ### CAPÍTULO DÉCIMO PRIMERO. DEL PERSONAL ACADÉMICO
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 45.
 
-La certificación de los conocimientos de los estudiantes, será función y responsabilidad del Instituto que a través de la Dirección Académica y con la participación de las Academias de Área, constituirá en los planteles las comisiones que formularán y aplicarán los exámenes de certificación de bachillerato, de conformidad con lo establecido en las Reglas de Certificación que apruebe el Consejo de Gobierno.
+Con el objeto de lograr una educación de alto nivel, la planta de profesores del Instituto, estará constituida por académicos de tiempo completo. La incorporación y permanencia del personal académico deberá sujetarse a lo establecido en el Estatuto del Personal Académico y demás normatividad que apruebe el Consejo de Gobierno.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 46.
 
-Los profesores llevarán a cabo evaluaciones académicas a los estudiantes de conformidad con lo establecido en el Modelo de Evaluación, mismas que tendrán solamente un valor diagnóstico.
+Los profesores constituyen el apoyo central de la educación de los estudiantes y de la marcha del plantel. Su función docente deberá distinguirse claramente de las demás funciones que deberán realizar, conforme lo establecido en los Estatutos Académico y del Personal Académico.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 47.
+
+En los planteles del Instituto, los profesores de una misma área constituirán una Academia. La integración y actuación de las academias, atenderán a lo señalado en los Estatutos Académico y del Personal Académico.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(ADICIONADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 48.
+
+La certificación de los conocimientos de los estudiantes, será función y responsabilidad del Instituto que a través de la Dirección Académica y con la participación de las Academias de Área, constituirá en los planteles las comisiones que formularán y aplicarán los exámenes de certificación de bachillerato, de conformidad con lo establecido en las Reglas de Certificación que apruebe el Consejo de Gobierno.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(ADICIONADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 49.
+
+Los profesores llevarán a cabo evaluaciones académicas a los estudiantes de conformidad con lo establecido en el Modelo de Evaluación, mismas que tendrán solamente un valor diagnóstico.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO DÉCIMO SEGUNDO. DE LAS SUPLENCIAS TEMPORALES DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]</small>
+
+> <small>(ADICIONADO, G.O. 13 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 50.
 
 En el despacho y resolución de los asuntos de su competencia, los servidores públicos del Instituto, serán suplidos en sus ausencias temporales, conforme a las siguientes reglas:
 
 I. El Director General del Instituto, por los servidores públicos de jerarquía inmediata inferior a éste, en los asuntos de su exclusiva competencia, y
 
 II. Los demás servidores públicos del Instituto, por los servidores públicos de jerarquía inmediata inferior a éstos, en los asuntos de su exclusiva competencia.
-
-### CAPÍTULO DÉCIMO SEGUNDO. DE LAS SUPLENCIAS TEMPORALES DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO
 
 ## TRANSITORIOS
 
@@ -1151,3 +1267,25 @@ Correo electrónico: subdireccion_informatica@iems.edu.mx
 ## TRANSITORIO
 
 Único.- Publíquese la presente Nota Aclaratoria en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 13 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL AVISO POR EL CUAL SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁN SER CONSULTADAS LAS MODIFICACIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO DE EDUCACIÓN MEDIA SUPERIOR DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA GACETA OFICIAL EN FECHA 23 DE MARZO DE 2005; INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente aviso entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL “AVISO POR EL CUAL SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁN SER CONSULTADAS LAS MODIFICACIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO DE EDUCACIÓN MEDIA SUPERIOR DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA GACETA OFICIAL EN FECHA 23 DE MARZO DE 2005”; PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EN FECHA 13 DE DICIEMBRE DE 2023.]</small>
+
+AVISO POR EL CUAL SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁN SER CONSULTADAS LAS MODIFICACIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO DE EDUCACIÓN MEDIA SUPERIOR DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA GACETA OFICIAL EN FECHA 23 DE MARZO DE 2005.
+
+PRIMERO. Se da a conocer el enlace electrónico donde podrán ser consultadas las modificaciones el Estatuto Orgánico del Instituto de Educación Media Superior de la Ciudad de México y entrará en vigor al día siguiente de la publicación del presente aviso en la Gaceta Oficial de la Ciudad de México.
+
+https://www.iems.cdmx.gob.mx/storage/app/uploads/public/656/e20/559/656e205591bba868528956.pdf
+
+SEGUNDO. El responsable del enlace electrónico es el Ingeniero Alfredo Vázquez Cabrera, Subdirector de Tecnologías de Información y Comunicaciones del Instituto de Educación Media Superior de la Ciudad de México, con dirección en Avenida División del Norte 906, Piso 4, colonia Narvarte Poniente, Alcaldía Benito Juárez, C.P. 03020, Ciudad de México, teléfono 55 5636-2500 ext. 102, correo electrónico: subdireccion_informatica@iems.edu.mx
+
+## TRANSITORIO
+
+ÚNICO. Publíquese en la Gaceta Oficial de la Ciudad de México para los efectos legales a que haya lugar.
