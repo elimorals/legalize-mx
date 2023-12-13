@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2023-10-28"
+last_updated: "2023-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2023.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -3135,11 +3135,11 @@ En caso de que el Congreso del Estado rechace la terna propuesta, el titular del
 
 Todos los Magistrados, con excepción del Magistrado Presidente y del Magistrado Consejero de la Judicatura, deberán integrar sala, durarán en el ejercicio de su cargo ocho años, podrán ser reelectos por un periodo igual, y si lo fueren, sólo podrán ser privados de sus puestos en los términos del artículo 117 de esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca; podrán jubilarse en los términos que señale la Ley respectiva.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 103.
 
-El Consejo de la Judicatura del Poder Judicial del Estado de Oaxaca será presidido por la Presidenta o el Presidente del Tribunal Superior de Justicia del Estado que elija el Pleno y durará en el ejercicio de sus funciones cuatro años pudiendo ser reelecto por un período más. Para ser Magistrada o Magistrado Presidente se requiere un mínimo de tres años integrando sala. La Magistrada o el Magistrado Presidente tendrá la representación legal del Poder Judicial.
+El Consejo de la Judicatura del Poder Judicial del Estado de Oaxaca será presidido por la Presidenta o el Presidente del Tribunal Superior de Justicia del Estado que elija el Pleno y durará en el ejercicio de sus funciones cuatro años. En la elección de la presidencia debe respetarse el principio de alternancia de género pudiendo acceder a la reelección por un período más. La Magistrada o el Magistrado Presidente tendrá la representación legal del Poder Judicial.
 
 > <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
@@ -6726,3 +6726,15 @@ P.O. 28 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1576.- MEDIANTE EL CUAL REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO 126 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1616.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 103 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. El Congreso del Estado de Oaxaca deberá realizar las adecuaciones normativas correspondientes, en un plazo no mayor a los ciento ochenta días naturales, contados a partir del día siguiente a la entrada en vigor del presente Decreto.
+
+CUARTO. Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan al presente Decreto.
