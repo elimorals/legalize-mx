@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-de-la-universidad-tecnologica-del-sur-168299
 country: "mx"
 rank: "codigo"
 publication_date: "2023-10-25"
-last_updated: "2023-10-25"
+last_updated: "2023-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,11 +20,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DE LA UNIVERSIDAD TECNOLOGICA DEL SUR DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE DICIEMBRE DE 2023 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD TECNOLÓGICA DEL SUR DEL ESTADO DE MORELOS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 13 DE DICIEMBRE DE 2023 NO APLICA AL ARTICULADO DEL CÓDIGO PUBLICADO EN EL P.O. DEL 25 DE OCTUBRE DE 2023.]</small>
 
 Código publicado en el Número 6245 del Periódico Oficial del Estado de Morelos, el miércoles 25 de octubre de 2023.
 
