@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2022-06-25"
+last_updated: "2023-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2023.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -417,13 +417,17 @@ Los apellidos corresponderán por su orden, el primero del padre y al primero de
 
 61.- Cuando se desconozca o deba tenerse por desconocido el nombre de alguno de los padres del registrado, éste llevará además del nombre propio, los dos apellidos que correspondan al progenitor que lo presente como hijo suyo, sin perjuicio de lo establecido en este Código.
 
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
-62.- Para que se haga constar en el acta de nacimiento, el nombre del padre de un hijo nacido fuera de matrimonio, es necesario que aquél lo pida por sí o por apoderado especial constituido en la forma establecida en el Artículo 45, haciéndose constar en todo caso lo anterior.
+62. El padre y la madre están obligados a reconocer a sus descendientes.
 
-La madre no tiene derecho a dejar de reconocer a su hijo. Tiene obligación de que su nombre figure en el acta de nacimiento de su hijo. Si al hacerse la presentación no se da el nombre de la madre, se pondrá en el acta que el presentado es hijo de madre desconocida.
+Para que se haga constar en el acta de nacimiento, el nombre del padre de un hijo nacido fuera del matrimonio, es necesario que aquel lo pida por sí o por apoderado especial constituido en la forma establecida en el artículo 45 de este Código, haciéndose constar en todo caso lo anterior.
 
-Además de los nombres de los padres, se hará constar en el acta de nacimiento su nacionalidad y domicilio, declarando acerca de la primera circunstancia los testigos que deben intervenir en el acto.
+En los supuestos que establece la fracción I del artículo 359 de este Código, el reconocimiento voluntario no podrá hacerse por el padre.
+
+Además de los nombres del padre y de la madre, se hará constar en el acta de nacimiento su nacionalidad y domicilio, declarando acerca de la primera circunstancia a las y los testigos que deben intervenir en el acto.
+
+Si al hacerse la presentación no se da el nombre de la madre, se pondrá en el acta que el presentado es hijo o hija de madre desconocida.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
@@ -971,7 +975,9 @@ I. La falta de edad requerida por la Ley;
 
 II.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2017)
 
-III.- El parentesco de consanguinidad legítima o natural, sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medio hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+III.- El parentesco de consanguinidad, sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medio hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
 
 IV.- El parentesco de afinidad en la línea recta, sin limitación alguna;
 
@@ -13357,7 +13363,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 25 DE JUNIO DE 2022.
 
-## [N. DE E. TRANSITORIO DEL “LXVII/RFCOD/0255/2022 II P.O., MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 268 BIS AL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFCOD/0255/2022 II P.O., MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 268 BIS AL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFCOD/0637/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
