@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-notariado-para-el-estado-de-guanajuato-51525"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-22"
-last_updated: "2022-12-30"
+last_updated: "2023-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 22 de agosto de 2006.
 
@@ -155,21 +155,33 @@ XI. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2022)
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 11-B.
 
-La Secretaría de Gobierno emitirá una convocatoria pública y abierta a los interesados en obtener la calidad de aspirante a notario.
+La Secretaría de Gobierno emitirá cada dos años, una convocatoria pública y abierta a los interesados en obtener la calidad de aspirante a notario.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 La convocatoria deberá contener al menos las siguientes bases:
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 I. La necesidad de contar con nuevas notarias;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 II. Plazo para presentar solicitudes y documentos que acrediten el cumplimiento de los requisitos que señala el artículo 11-A de esta Ley;
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 III. Plazo para que la unidad administrativa que corresponda de la Secretaría de Gobierno verifique el cumplimiento de los requisitos para obtener la calidad de aspirante a notario;
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 IV. El contenido de los temas sobre los que versará el examen; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 V. La atribución del jurado para establecer lugar, fecha y hora de celebración del examen.
 
@@ -271,21 +283,33 @@ La Secretaría de Gobierno podrá celebrar convenios con la sociedad civil organ
 
 ### CAPÍTULO III. De los exámenes y de la expedición del fíat
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 14.
 
-Los procedimientos para obtener la licencia de notario auxiliar, la calidad de aspirante a notario y el fíat de notario público se sujetarán a los siguientes principios:
+Los procedimientos para obtener la licencia de notario auxiliar, la calidad de aspirante a notario, el de Homologación de la Función Notarial y el fíat de notario público se sujetarán a los siguientes principios:
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 I. Principio de buena fe. Toda persona deberá conducirse de forma ética, honesta y leal;
 
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 II. Principio de certeza. Las actuaciones deberán ser completamente verificables, fidedignas y confiables;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 III. Principio de igualdad. Toda persona participante tendrá acceso al mismo trato y oportunidades;
 
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 IV. Principio de imparcialidad. Implica que las actuaciones de las autoridades y del jurado deben ser ajenas a los intereses de los participantes y resolver sin favorecer indebidamente a ninguno de ellos;
 
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 V. Principio de independencia. Cualidad que deben tener las autoridades y el jurado para actuar sin supeditarse a interés, autoridad o persona alguna; y
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 VI. Principio de máxima publicidad. Implica que toda la información que posean las autoridades y el jurado será pública, completa, oportuna y accesible, sujeta a un claro régimen de excepciones que deberán estar definidas y ser además legítimas y estrictamente necesarias en una sociedad democrática.
 
@@ -339,7 +363,9 @@ Cuando una o varias notarías estuvieren vacantes o se hubiere resuelto crear un
 
 La convocatoria deberá contener las siguientes bases:
 
-I. Motivos que sustenten la necesidad de ocupar la vacante o la creación de la notaría, sujetándose a lo dispuesto por el artículo 11 de esta Ley;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+I. Motivos que sustenten la necesidad de la creación de la notaría, sujetándose a lo dispuesto por el artículo 11 de esta Ley;
 
 II. Municipio de ubicación de la notaría vacante o de nueva creación;
 
@@ -351,9 +377,9 @@ IV. Plazo para que la unidad administrativa que corresponda de la Secretaría de
 
 V. El contenido de los temas sobre los que versará el examen de oposición;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
-VI. Que dentro de los treinta días siguientes a la publicación de la convocatoria se determinará la fecha, lugar y hora del examen, sin que esta exceda sesenta días posteriores a dicha publicación;
+VI. Que dentro de los treinta días hábiles siguientes a la publicación de la convocatoria se determinará la fecha, lugar y hora del examen, mismo que se celebrará dentro de los ocho meses posteriores a la publicación de la convocatoria;
 
 VII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2022)
 
@@ -364,6 +390,10 @@ VIII. La determinación de que se publique la convocatoria en el Periódico Ofic
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 IX. Criterios de evaluación del examen teórico y práctico.
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+X. Cuando se trate de varias notarías vacantes o de nueva creación se establecerán los criterios para la asignación de las mismas.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
@@ -407,19 +437,23 @@ El presidente del jurado informará al sustentante que haya obtenido la califica
 
 La constancia que acredita la calidad de aspirante a notario deberá inscribirse en la unidad administrativa que corresponda de la Secretaría de Gobierno, previo pago de los derechos que señale la ley de ingresos vigente, y notificarse al Colegio Estatal de Notarios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 18.
 
-El examen de oposición para obtener el fíat de notario, para cada notaría vacante o de nueva creación, consistirá en una prueba teórica y en una prueba práctica por escrito, que se regirá por las siguientes reglas comunes:
+El examen de oposición para obtener el fíat de notario, para cada notaría vacante o de nueva creación, consistirá en una prueba teórica y en una prueba práctica por escrito, pudiendo utilizar las herramientas tecnológicas idóneas para tal efecto, pruebas que se regirán por las siguientes reglas comunes:
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 I. La prueba teórica consistirá en la aplicación de un cuestionario, atendiendo a lo siguiente:
 
-a) El día del examen, en sesión previa, el jurado elaborará de entre las propuestas que formule cada uno de sus integrantes, el cuestionario al que deberán dar respuesta los sustentantes. En la elaboración del cuestionario, el jurado deberá abarcar todos los temas previstos en la convocatoria para esta etapa del concurso. El cuestionario se integrará por un mínimo de cincuenta preguntas, de las cuales, por lo menos diez serán a propuesta de cada uno de los miembros del jurado; y
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
-b) El sustentante dispondrá de cinco horas continuas para desahogar el cuestionario, al término de las cuales el jurado recogerá los exámenes y los colocará cada uno de ellos en sobre cerrado que firmarán el presidente y el secretario del jurado, junto con el sustentante.
+a) En sesión previa, el día del examen, el jurado integrará el cuestionario al que deberán dar respuesta los sustentantes el cual se conformará por un mínimo de cincuenta preguntas, de las cuales, por lo menos diez serán a propuesta de cada uno de los miembros del jurado. En la integración del cuestionario, el jurado deberá abarcar todos los temas previstos en la convocatoria para esta etapa del concurso; y
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+b) El sustentante dispondrá de cinco horas continuas para desahogar el cuestionario, al término de las cuales, el jurado recogerá los exámenes e individualmente emitirá por escrito la calificación de los mismos.
 
 La calificación mínima aprobatoria será de ochenta y cinco puntos para pasar a la siguiente fase;
 
@@ -427,19 +461,31 @@ La calificación mínima aprobatoria será de ochenta y cinco puntos para pasar 
 
 II. La prueba práctica se aplicará a cada sustentante, atendiendo a lo siguiente:
 
-a) El día del examen, el jurado en sesión previa a la celebración del mismo, determinará los tipos de instrumentos notariales que serán materia de esta prueba, éstos se colocarán por separado en sobres cerrados, firmados por los miembros del jurado, a fin de sortearse en presencia de los participantes. El sustentante elaborará la prueba con base en el instrumento que le haya correspondido;
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+a) En sesión previa, el día del examen, el jurado determinará el tipo de instrumento notarial que será materia de esta prueba;
 
 b) Para el desarrollo del instrumento, los sustentantes sólo podrán consultar los códigos y leyes que el examen requiera; y
 
-c) El sustentante dispondrá de hasta cinco horas continuas para la redacción del instrumento notarial, al término de las cuales, el jurado recogerá los exámenes e individualmente emitirá por escrito la calificación de los mismos. El examen y la calificación otorgada, se colocará en un sobre cerrado que firmarán el presidente y el secretario del jurado, junto con el sustentante.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+c) El sustentante dispondrá de hasta cinco horas continuas para la redacción del instrumento notarial, al término de las cuales, el jurado recogerá los exámenes e individualmente emitirá por escrito la calificación de los mismos.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 La salvaguarda e inviolabilidad de los exámenes será responsabilidad de los miembros del jurado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
-Una vez desahogadas las pruebas teórica y práctica y previo cercioramiento de la no violación de los sobres referidos en este artículo, el jurado sesionará las veces necesarias a fin de obtener la calificación definitiva de cada sustentante, promediando los resultados que éstos obtuvieron en sus pruebas teórica y práctica; de lo que se levantará el acta correspondiente, que será firmada por los integrantes del jurado.
+Una vez desahogadas las pruebas teórica y práctica, el jurado sesionará las veces necesarias a fin de obtener la calificación definitiva de cada sustentante, promediando los resultados que éstos obtuvieron en sus pruebas teórica y práctica levantando el acta correspondiente, que será firmada por los integrantes del jurado.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+La Secretaría de Gobierno, en ejercicio de la facultad que le conceden los artículos 13-A y 13-B, deberá llevar a cabo acciones preparatorias a efecto de que el jurado cuente con el material idóneo para la integración del cuestionario y de la evaluación práctica el día del examen.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Cuando se lleven a cabo dos o más exámenes de manera simultánea o escalonada en una misma fecha, ya sea derivados de una o varias convocatorias, el jurado a cargo de cada evaluación deberá sesionar, previamente y de manera conjunta, para determinar el examen e instrumento que se aplicará a todos los sustentantes a efecto de garantizar igualdad de condiciones.
 
 ###### Artículo 19.
 
@@ -449,17 +495,17 @@ El jurado calificará cada prueba en una escala de cero a cien puntos.
 
 La calificación mínima aprobatoria será de ochenta y cinco puntos, considerando las pruebas teórica y práctica.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
-El jurado atendiendo a las calificaciones obtenidas en las pruebas teórica y práctica, determinará quién de los sustentantes aprobados, resultó con mayor puntuación para recibir el fíat concursado.
+El jurado atendiendo a las calificaciones obtenidas en las pruebas teórica y práctica y a los criterios de asignación establecidos en la convocatoria, determinará quién de los sustentantes resultó aprobado para recibir el fíat concursado.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 Si ninguno de los sustentantes obtuviera el mínimo de ochenta y cinco puntos, el examen será declarado desierto y se convocará a uno nuevo, en un plazo no menor de seis meses.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
-En caso de que algunos de los sustentantes empaten en la máxima puntuación aprobatoria, el jurado instrumentará acciones afirmativas en materia de paridad de género para garantizar el acceso de las mujeres a la función notarial y, en su caso, de ser necesario ordenará la práctica, entre ellos, de una prueba complementaria, teórica y práctica, conforme a las reglas establecidas en el artículo 18 de esta Ley, a fin de obtener una nueva calificación.
+En caso de que algunos de los sustentantes empaten en la máxima puntuación aprobatoria, el jurado instrumentará acciones afirmativas en materia de paridad de género para garantizar el acceso de las mujeres a la función notarial y, en caso de ser necesario el jurado ordenará la práctica, entre ellos, de una prueba complementaria a fin de obtener una nueva calificación.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -509,9 +555,75 @@ La Secretaría de Gobierno, a través de la unidad administrativa que correspond
 
 Lo establecido en el párrafo anterior, le será aplicable a los notarios auxiliares.
 
-### CAPÍTULO IV. Del ejercicio del notariado y de la prestación del servicio
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
-### CAPÍTULO V. De la suplencia y sustitución
+### CAPÍTULO IV. Del Procedimiento de Homologación de la Función Notarial
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 23-A.
+
+En caso de terminación de la función notarial por los supuestos establecidos en las fracciones I, II, IV y V del artículo 107 de esta Ley, cuando en la notaría se encuentre un notario auxiliar en funciones, este último podrá acceder a la titularidad de la notaría en la que actúa, sujetándose al Procedimiento de Homologación de la Función Notarial en los términos establecidos en el presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 23-B.
+
+La instauración del Procedimiento de Homologación de la Función Notarial deberá ser solicitado a la unidad administrativa que corresponda de la Secretaría de Gobierno por el notario auxiliar dentro de los diez días hábiles posteriores al fallecimiento o a la notificación del acuerdo de terminación de la función notarial, y este procedimiento deberá desahogarse y resolverse dentro de los treinta días hábiles posteriores a la solicitud, lo anterior en los términos que establezca el Reglamento de la presente Ley.
+
+Al recibir la solicitud del Procedimiento de Homologación de la Función Notarial, la unidad administrativa que corresponda de la Secretaría de Gobierno, ordenará que se levante acta circunstanciada del estado en el que se encuentre el protocolo, su apéndice e índice, el libro de ratificaciones, su apéndice e índice, el sello, hojas testimonio, hologramas, folios no utilizados y expedientes judiciales, lo que permanecerá en poder y bajo la responsabilidad del notario auxiliar, quien deberá concluir los actos pendientes conforme a lo dispuesto por el artículo 48-L, en tanto se resuelve el Procedimiento de Homologación de la Función Notarial.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 23-C.
+
+El notario auxiliar solicitará el inicio del Procedimiento de Homologación de la Función Notarial por escrito, debiendo cumplir con los siguientes requisitos:
+
+I. Acta de defunción del notario titular o en su caso, copia certificada del acuerdo de terminación de la función notarial emitido por el Titular del Poder Ejecutivo, según corresponda;
+
+II. Licencia de notario auxiliar vigente al momento de la terminación de la función del titular de la notaría;
+
+III. Certificación notarial vigente en caso de tener más de dos años en funciones;
+
+IV. Constancia de no haber sido suspendido por las causales previstas en las fracciones I y III del artículo 105 de esta Ley dentro de los cinco años previos;
+
+V. Opinión favorable del correcto ejercicio de la función notarial emitida por el Colegio Estatal de Notarios;
+
+VI. Haber ejercido como notario auxiliar en la notaría de adscripción durante un período mínimo de un año; y
+
+VII. Constancia de acreditación de conocimientos vigente expedida por la Secretaría de Gobierno a que se refiere el artículo 23-D.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 23-D.
+
+Cada dos años, la Secretaría de Gobierno emitirá convocatoria para los notarios auxiliares que quieran obtener la constancia de acreditación de conocimientos para los efectos del artículo 23-E, misma que se publicará en el Periódico Oficial del Gobierno del Estado.
+
+Los interesados en participar deberán presentar solicitud ante la unidad administrativa que corresponda de la Secretaría de Gobierno acompañada de los requisitos a que se refieren las fracciones II a VI del artículo 23-C.
+
+La evaluación para acreditación de conocimientos consistirá en una prueba presentada ante un jurado conformado por tres jurados quienes serán designados, uno por la Secretaría de Gobierno, uno por el Rector de la Universidad de Guanajuato a propuesta del Director de la División de Derecho, Política y Gobierno, preferentemente notario y profesor de la especialidad de Notaría Pública y uno por el Colegio Estatal de Notarios.
+
+El jurado evaluará a los solicitantes mediante un examen escrito, oral y práctico que incluirá, al menos, los siguientes aspectos:
+
+I. Conocimientos teóricos y prácticos del derecho notarial;
+
+II. Capacidad para redactar instrumentos públicos notariales;
+
+III. Habilidades para asesorar y resolver problemas notariales; y
+
+IV. Conocimiento de las leyes y regulaciones notariales vigentes.
+
+El jurado dentro de los tres días hábiles siguientes informará la calificación de los solicitantes a la Secretaría de Gobierno para que les notifique los resultados. Dentro de los treinta días hábiles siguientes a la recepción del informe del jurado, la Secretaría de Gobierno emitirá la constancia de acreditación de conocimientos a aquellos que hubiesen obtenido una calificación mínima de ochenta y cinco puntos en una escala de cero a cien. La constancia tendrá una vigencia de dos años.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 23-E.
+
+En el caso de que el notario auxiliar que solicite el Procedimiento de Homologación de la Función Notarial cumpla con los requisitos previstos por esta Ley, la Secretaría de Gobierno lo comunicará al Titular del Poder Ejecutivo para la expedición del fíat correspondiente. El notario auxiliar que haya obtenido el fíat deberá iniciar sus funciones en un plazo que no exceda de treinta días hábiles siguientes al otorgamiento de éste, habiendo cumplido previamente con lo dispuesto en el artículo 25 de esta Ley. En este supuesto, el notario auxiliar será titular de la notaría respectiva y sustituto definitivo del titular anterior.
+
+En el supuesto de que el notario auxiliar no cumpla con los requisitos del Procedimiento de Homologación de la Función Notarial, la unidad administrativa que corresponda de la Secretaría de Gobierno, en un plazo que no exceda de diez días hábiles, recogerá el protocolo correspondiente. El notario auxiliar terminará los actos pendientes en los términos del artículo 48-L.
+
+### CAPÍTULO V. Del ejercicio del notariado y de la prestación del servicio
 
 ###### Artículo 24.
 
@@ -551,17 +663,25 @@ Los notarios deberán desempeñar su función en la notaría a su cargo y dentro
 
 Se prohíbe a quienes no son notarios usar en anuncios al público, en oficinas de servicios o comercios, frases que den la idea que quien los usa o a quien beneficia realiza trámites o funciones notariales sin ser notario, tales como «asesoría notarial», «trámites notariales», «servicios notariales», «escrituras notariales», «actas notariales», así como otros términos semejantes referidos a la función notarial y que deban comprenderse como propios de ésta.
 
-> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 27-A.
 
-Se aplicarán las penas previstas por el artículo 235 del Código Penal del Estado de Guanajuato a quien, careciendo del fíat de notario expedido en los términos de esta Ley, realice alguna de las siguientes conductas:
+Se aplicarán las penas previstas por el artículo 235 del Código Penal del Estado de Guanajuato a quien, careciendo del fíat de notario o de licencia de notario auxiliar, en los términos de esta Ley, realice alguna de las siguientes conductas:
 
-I. Ostentarse, anunciarse como tal o inducir a la creencia de que es notario para ejercer o simular ejercer funciones notariales, o ejercerlas de hecho;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+I. Ostentarse, anunciarse como tal o inducir a la creencia de que es notario titular, auxiliar, suplente o sustituto con el objeto de ejercer o simular ejercer funciones notariales;
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 II. Tener oficina notarial, o lugar donde se realicen actividades notariales o meramente de asesoría notarial o de firmas para instrumentos notariales;
 
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
 III. Envíe libros de protocolo o folios a firma al Estado de Guanajuato; y
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 IV. Reproduzca instrumentos públicos en los que consten o se hagan constar actos jurídicos o hechos que para su validez requieran otorgarse en escritura pública.
 
@@ -633,7 +753,7 @@ VIII. Intervenir como abogados en asuntos en los que hubiesen actuado como notar
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
-### CAPÍTULO VI. De las notarías asociadas
+### CAPÍTULO VI. De la suplencia y sustitución
 
 ###### Artículo 32.
 
@@ -715,9 +835,7 @@ En caso de sustitución definitiva el titular de la unidad administrativa que co
 
 El titular de la unidad administrativa que corresponda de la Secretaría de Gobierno en un plazo que no exceda de veinte días hábiles entregará clasificado el protocolo pendiente al notario sustituto designado por el Titular del Poder Ejecutivo.
 
-### Capítulo VII. Del notario auxiliar
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2020)</small>
+### CAPÍTULO VII. De las notarías asociadas
 
 ###### Artículo 42.
 
@@ -757,9 +875,9 @@ En caso de fallecimiento de uno de los notarios asociados durante la vigencia de
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
-### CAPÍTULO VIII. Del sello de autorizar
+### Capítulo VIII. Del notario auxiliar
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2020)</small>
 
 ###### Artículo 48-B.
 
@@ -917,17 +1035,17 @@ El notario auxiliar tendrá derecho a separarse libremente, asentando las causas
 
 El notario auxiliar tendrá derecho a participar en los procedimientos para la obtención del fíat de notario, previa acreditación de los requisitos a que se refiere el artículo 12.
 
-> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 48-L.
 
-El notario auxiliar terminará los actos que hubieren quedado pendientes por la muerte del titular, dentro de los seis meses posteriores al fallecimiento, transcurrido este plazo entregará a la unidad administrativa que corresponda de la Secretaría de Gobierno el protocolo, su apéndice e índice, el libro de ratificaciones, su apéndice e índice, el sello, hojas testimonio, hologramas y folios no utilizados.
+El notario auxiliar terminará los actos que hubieren quedado pendientes por la terminación de la función notarial del titular por los supuestos establecidos en las fracciones I, II, IV y V del artículo 107 de esta Ley, dentro de los seis meses posteriores a la actualización de los supuestos, transcurrido este plazo entregará a la unidad administrativa que corresponda de la Secretaría de Gobierno el protocolo, su apéndice e índice, el libro de ratificaciones, su apéndice e índice, el sello, hojas testimonio, hologramas y folios no utilizados.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 48-M.
 
-En caso de separación, suspensión o terminación de la función notarial del notario titular, cesarán de inmediato las funciones del notario auxiliar, quedará sin efectos su licencia y la unidad administrativa que corresponda de la Secretaría de Gobierno procederá en los términos de lo dispuesto por el artículo 125 de esta Ley.
+En caso de separación, suspensión o terminación de la función notarial del notario titular, salvo por lo dispuesto en los artículos 23-A y 48-L, cesarán de inmediato las funciones del notario auxiliar, quedando sin efectos su licencia. La unidad administrativa que corresponda de la Secretaría de Gobierno procederá en los términos de lo dispuesto por el artículo 125 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -955,7 +1073,9 @@ El notario auxiliar a quien le haya sido revocada la licencia a solicitud del no
 
 El notario auxiliar continuará en el ejercicio de la función con el mismo notario titular, aun cuando se le hubiere autorizado a éste el cambio de adscripción.
 
-### CAPÍTULO IX. Del protocolo y del libro de ratificaciones
+### CAPÍTULO IX. Del sello de autorizar
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 49.
 
@@ -971,7 +1091,7 @@ El procedimiento de distribución y reposición de las piezas del sello se estab
 
 El sello de la notaría se imprimirá en la parte superior derecha del anverso de cada folio que se vaya a utilizar, debiendo hacerlo también en todas las actuaciones notariales.
 
-### CAPÍTULO X. De los instrumentos notariales
+### CAPÍTULO X. Del protocolo y del libro de ratificaciones
 
 #### Sección primera. Del protocolo
 
@@ -1107,17 +1227,29 @@ El libro de ratificaciones se formará por un conjunto de cien folios separados,
 
 El libro de ratificaciones llevará apéndice e índice en los términos de los artículos 63 a 66 de esta Ley.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+El notario está obligado a efectuar las razones de apertura y de cierre de los tomos que integren su libro de ratificaciones, aplicándose en lo conducente lo dispuesto en los artículos 55 y 60 de esta Ley.
+
 ###### Artículo 68.
 
 El notario deberá hacer constar en el documento cuyo contenido y firmas se ratifican conforme al artículo anterior, el número de registro que corresponda a la razón que se asiente en el libro.
 
 La numeración del orden del libro de ratificaciones y de las inscripciones que en éste se contengan, serán independientes de las que se consignen en el protocolo.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+#### Sección tercera. De la obligación de envío de información concerniente a los libros de protocolo y de ratificaciones
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 68-A.
+
+A más tardar dentro de los ciento veinte días naturales siguientes a aquel en el que cierren cada tomo del Libro de Protocolo y del Libro de Ratificaciones, los notarios deberán enviar a la unidad administrativa correspondiente de la Secretaría de Gobierno, por medios electrónicos y firma electrónica, una imagen digitalizada de todos los folios, razón de apertura y razón de cierre que lo integran, sujetándose para ello a los términos, condiciones, medidas de seguridad y mecanismos que para su envío o remisión se dispongan en los lineamiento (sic) que al respecto emita la Secretaría de Gobierno.
+
+### CAPÍTULO XI. De los instrumentos notariales
+
 #### Sección primera. Generalidades
-
-### CAPÍTULO XI. De las licencias, de la suspensión y de la terminación del ejercicio de la función notarial
-
-#### Sección segunda. De las escrituras
 
 ###### Artículo 69.
 
@@ -1155,7 +1287,7 @@ En los casos en que se protocolice en acta o en escritura pública una resoluci�
 
 Las hojas en que se contengan los testimonios de los instrumentos notariales o las certificaciones legalmente autorizados por el notario, deberán guardar las medidas de seguridad que al efecto determine el Ejecutivo del Estado, para lo cual podrá escuchar la opinión del Colegio Estatal de Notarios.
 
-#### Sección tercera. De las actas
+#### Sección segunda. De las escrituras
 
 ###### Artículo 75.
 
@@ -1273,7 +1405,7 @@ Cuando el notario esté tramitando una sucesión extrajudicial o la prosecución
 
 Cuando por virtud de una resolución judicial derivada de un juicio sucesorio, el notario tuviere que formalizar en escritura pública la adjudicación de los bienes que conforman el caudal hereditario, sin que todos los herederos comparezcan ante él, podrá elaborar la escritura a favor de los que así se lo pidan. En la misma forma se procederá tratándose de la sucesión ante notarios.
 
-#### Sección cuarta. De los testimonios
+#### Sección tercera. De las actas
 
 ###### Artículo 92.
 
@@ -1329,9 +1461,7 @@ Cuando resulte necesaria la inscripción del acta complementaria, el notario deb
 
 No procederá la elaboración del acta complementaria cuando se afecten elementos esenciales del acto contenido en el instrumento o su naturaleza jurídica.
 
-#### Sección Primera. Reglas comunes a las visitas
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+#### Sección cuarta. De los testimonios
 
 ###### Artículo 97.
 
@@ -1355,9 +1485,7 @@ En todo caso, a los interesados deberá expedírseles, a su costa, copia certifi
 
 El notario podrá expedir un testimonio parcial del instrumento notarial en que consten varios actos u objetos, siempre y cuando dicho testimonio se refiera a uno solo de esos actos u objetos en forma íntegra y se le adjunten los documentos que al mismo le correspondan del apéndice respectivo.
 
-### CAPÍTULO XII. De la vigilancia e inspección de notarías
-
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+### CAPÍTULO XII. De las licencias, de la suspensión y de la terminación del ejercicio de la función notarial
 
 ###### Artículo 102.
 
@@ -1389,9 +1517,13 @@ Son causas de suspensión del ejercicio de la función notarial:
 
 I. Por dictarse en contra de quien la ejerce auto de formal prisión por delito intencional, hasta en tanto cause ejecutoria la sentencia absolutoria o la resolución que se equipare a ésta;
 
-II. Cuando esté plenamente probado que quien ejerce la función, padece incapacidad temporal, física o mental, grave que impida su ejercicio; y
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
-III. Por sanción de suspensión decretada en términos de esta Ley.
+II. Por ordenarse en contra de quien la ejerce medidas cautelares de prisión preventiva, o en su caso, de suspensión temporal en el ejercicio de actividades profesionales o laborales, o de resguardo en su propio domicilio, siempre que las mismas impidan el ejercicio de la función notarial, y hasta en tanto cesen las mismas;
+
+III. Cuando esté plenamente probado que quien ejerce la función, padece incapacidad temporal, física o mental, grave que impida su ejercicio; y
+
+IV. Por sanción de suspensión decretada en términos de esta Ley.
 
 ###### Artículo 106.
 
@@ -1417,19 +1549,41 @@ Cuando un notario dejare de ejercer sus funciones por cualquier causa, la Secret
 
 Cuando la causa para dejar de ejercer sus funciones no sea justificada, se procederá en los términos del último párrafo del artículo 125 de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 109.
 
-El Ministerio Público, el Oficial del Registro Civil, el Colegio Estatal de Notarios, el Registrador Público de la Propiedad, el notario suplente o, en su caso, el notario auxiliar, que conozcan del fallecimiento o notoria incapacidad física o mental que impidan el ejercicio de la función de un notario o tuvieren noticia de ello, lo comunicarán inmediatamente a la Secretaría de Gobierno y al Colegio Estatal de Notarios.
+El Ministerio Público, el Oficial del Registro Civil, el Colegio Estatal de Notarios, el registrador público de la propiedad, el notario suplente, el notario auxiliar o cualquier otro interesado que conozca del fallecimiento o notoria incapacidad física o mental que impidan el ejercicio de la función de un notario o tuvieren noticia de ello, lo comunicarán inmediatamente a la Secretaría de Gobierno y al Colegio Estatal de Notarios.
 
-Una vez que el titular de la unidad administrativa que corresponda de la Secretaría de Gobierno se entere del fallecimiento de algún notario, de manera inmediata ordenará el cierre del protocolo y en un plazo que no exceda de diez días recogerá el mismo para depositario en el archivo de notarías y se procederá en los términos de esta Ley.
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 13 DE DICIEMBRE DE 2023)</small>
 
-### CAPÍTULO XIII. De la responsabilidad notarial y sus sanciones
+La unidad administrativa que corresponda de la Secretaría de Gobierno, en cuanto tenga conocimiento de alguna denuncia sobre la incapacidad física o mental del notario, procederá de la siguiente manera:
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+I. Dará vista al notario con copia de la denuncia respectiva, quien contará con un plazo de diez días hábiles para manifestar lo que a su derecho convenga y ofrecer las pruebas periciales médicas de su interés;
 
-#### Sección Segunda. De la visita de inspección general
+II. Proveerá al desahogo de las pruebas ofrecidas por el notario, ordenando en todos los casos el desahogo de las pruebas periciales necesarias para determinar en su c aso, la capacidad física o mental del fedatario;
+
+III. Una vez rendidos todos los dictámenes periciales, concederá al notario la posibilidad de rendir alegatos dentro de un plazo de cinco días hábiles; y
+
+IV. Rendidos o no los alegatos por parte del notario, determinará si el notario cuenta o no con la capacidad física y mental necesaria para el ejercicio de la función notarial y procederá, de ser el caso, en términos de la fracción III del artículo 105 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Para el ofrecimiento, admisión, desahogo y valoración de las pruebas referidas en este artículo, se aplicarán supletoriamente las disposiciones contenidas en el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Cuando con motivo de una visita de inspección especial o general, el inspector de notarías desprenda una notoria incapacidad del notario para ejercer la función, lo asentará en el acta para hacerlo de conocimiento a la unidad administrativa correspondiente. En este caso la Secretaría de Gobierno podrá decretar como medida cautelar la suspensión inmediata de la función notarial, procediendo en los términos del artículo 125 de esta Ley, e iniciar el procedimiento previsto en el presente artículo.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Una vez que el titular de la unidad administrativa que corresponda de la Secretaría de Gobierno se entere del fallecimiento de algún notario, de manera inmediata ordenará el cierre del protocolo y en un plazo que no exceda de diez días hábiles recogerá el mismo para depositarlo en el archivo de notarías y se procederá en los términos de esta Ley. En caso de que en la notaría respectiva se encuentre un notario auxiliar en funciones, la unidad referida deberá esperar diez días hábiles en términos del artículo 23-B, y en caso de no existir solicitud para iniciar el Procedimiento de Homologación de la Función Notarial, se estará a lo establecido por el artículo 48-L.
+
+### CAPÍTULO XIII. De la vigilancia e inspección de notarías
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+#### Sección Primera. Reglas comunes a las visitas
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1477,7 +1631,9 @@ Si el notario o los testigos no desean firmar el acta en unión del inspector, �
 
 El inspector que practique una visita, deberá entregar a la unidad administrativa que corresponda de la Secretaría de Gobierno, el acta, las constancias y el resultado de la misma en un término que no excederá de cinco días hábiles a partir de la fecha en que termine la visita.
 
-A las constancias y al resultado de la visita realizada, la unidad administrativa que corresponda calificará las actas respectivas, acordando las observaciones que hubieren realizado los inspectores o que se desprendan del acta realizada o de las constancias que se agregaren, así como de las manifestaciones hechas por el notario.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+La unidad administrativa que corresponda de la Secretaría de Gobierno calificará el acta de la visita realizada, acordando las manifestaciones del notario, las observaciones que hubieren realizado los inspectores, aquéllas que se desprendan del acta misma y/o de las constancias que se hubieren agregado a ella, así como aquellas que deriven de las constancias relacionadas con la queja o denuncia que, en su caso, corresponda.
 
 Si de dicha calificación se desprende que el inspector no se ajustó a lo establecido en esta Ley, su reglamento o a la misma orden, se podrá desaprobar la visita, siendo necesario que se ordene el desahogo de una nueva, cumpliendo con lo señalado en este capítulo con independencia de las responsabilidades en las que incurra el inspector.
 
@@ -1497,9 +1653,9 @@ Las visitas de inspección podrán ser generales o especiales.
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
-#### Sección Tercera. De la visita de inspección especial
+#### Sección Segunda. De la visita de inspección general
 
-> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 118.
 
@@ -1533,9 +1689,17 @@ IX. Que existe índice de los instrumentos notariales según lo preceptuado por 
 
 X. Que el notario cuenta con certificación notarial vigente.
 
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XI. Que el notario haya cumplido en tiempo y forma con la obligación contenida en el artículo 68-A.
+
 También se verificará, con respecto al notario auxiliar, lo dispuesto en las fracciones III y X de este artículo, así como que cuenta con la licencia respectiva.
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+#### Sección Tercera. De la visita de inspección especial
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 118-A.
 
@@ -1549,11 +1713,25 @@ Toda visita de inspección especial se realizará previa orden por escrito, fund
 
 Toda persona podrá presentar escrito de queja o denuncia ante la unidad administrativa que corresponda de la Secretaría de Gobierno, en contra del notario que presumiblemente haya incurrido en violación a las obligaciones que le impone esta Ley o en conductas que ameritan sanción por responsabilidad notarial.
 
-En el escrito de queja o denuncia, el promovente deberá acreditar su interés jurídico en el asunto de que se trate, precisar los hechos que fundan su queja o denuncia y exhibir las documentales o las pruebas para acreditarlos. El escrito deberá suscribirse por el interesado señalando domicilio para recibir notificaciones.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
-Si faltare alguno de los requisitos previstos en el párrafo anterior, la autoridad requerirá al promovente personalmente o por estrados en caso de no haber señalado domicilio, para que en un término de tres días corrija la omisión. En caso de que vencido dicho término el interesado no cumpla con el requerimiento, la autoridad desechará por improcedente la queja o denuncia presentada. Lo mismo sucederá si de lo narrado en la queja o denuncia no se desprende que el notario haya incurrido en una conducta que amerite responsabilidad notarial.
+En el escrito de queja el promovente deberá acreditar su interés jurídico en el asunto de que se trate, precisar los hechos que fundan su queja y exhibir las documentales o las pruebas para acreditarlos. El escrito deberá suscribirse por el interesado señalando domicilio para recibir notificaciones, dentro del lugar de ubicación de la autoridad.
 
-La unidad administrativa que corresponda de la Secretaría de Gobierno, recibirá la queja o denuncia y le dará trámite, procederá a inscribirla en el registro de procedimientos sancionadores y le asignará el número de expediente, y solicitará de inmediato al Secretario de Gobierno autorice una orden de visita de inspección especial.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Si faltare alguno de los requisitos previstos en los párrafos anteriores, la autoridad requerirá al promovente personalmente o por estrados en caso de no haber señalado domicilio, para que en un término de tres días hábiles corrija la omisión. En caso de que vencido dicho término el interesado no cumpla con el requerimiento, la autoridad desechará por improcedente la queja presentada. Lo mismo sucederá si de lo narrado no se desprende que el notario haya incurrido en una conducta que amerite responsabilidad notarial.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Si de la narración de hechos planteados por el quejoso se desprende la posibilidad de que se haya cometido un ilícito de naturaleza penal, la autoridad administrativa dará vista de ello a la Fiscalía General del Estado de Guanajuato con las constancias correspondientes.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+La unidad administrativa que corresponda de la Secretaría de Gobierno, recibirá la queja o denuncia y, satisfechos los requisitos, le dará trámite pudiendo solicitar información o documentos de cualquier persona o autoridad, ya sea que pertenezca al notario o a terceros, para efecto de determinar y, en su caso, justificar la solicitud de la Secretaría de Gobierno de una orden de visita de inspección especial, misma que procederá a inscribirla en el registro de procedimientos sancionadores y le asignará el número de expediente.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Cuando la autoridad administrativa reciba una denuncia, o tenga conocimiento por cualquier medio, de alguna irregularidad en el ejercicio de la función notarial, solicitará información o documentos de cualquier persona o autoridad, ya sea que pertenezca al notario o a terceros, para efecto de determinar y, en su caso, justificar la solicitud a la Secretaría de Gobierno de una orden de visita de inspección especial.
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1565,7 +1743,7 @@ Si el notario está presente se procederá con la visita de inspección especial
 
 Si al presentarse el inspector a la notaria donde deba practicarse la visita de inspección especial, no estuviere el notario, dejará citatorio para que el notario lo espere a hora determinada del día hábil siguiente para recibir la orden de visita; si no lo hiciere, la visita se iniciará con quien se encuentre en el lugar visitado. El citatorio se dejará con la persona que se encuentre en dicho lugar o en su defecto se hará por instructivo que se fijará en la puerta del domicilio de la notaría. En los casos en que el domicilio se encuentre cerrado, la citación se entenderá con el vecino mayor de edad más cercano, fijándose una copia adicional en la puerta o lugar visible del domicilio de la notaría.
 
-### CAPÍTULO XIV. Del procedimiento para imponer sanciones
+### CAPÍTULO XIV. De la responsabilidad notarial y sus sanciones
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1659,21 +1837,15 @@ III. Por no desempeñar personalmente las funciones notariales, en los términos
 
 IV. Por ejercer la función notarial y alguna de las actividades incompatibles con ella, conforme a la presente Ley;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+V. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2023)
 
-V. Por tener el protocolo, su apéndice e índice, el libro de ratificaciones, su apéndice e índice, el sello, hojas de testimonio, hologramas y folios no utilizados fuera del domicilio de la Notaría Pública sin causa justificada;
-
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
-
-VI. Por establecer su oficina notarial en lugar distinto al de la ubicación de la Notaría Pública o que en oficina distinta atienda o permita atender al público en general bajo la creencia de que se trata de la notaría en cuestión;
+VI. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2023)
 
 VII. Por actuar de manera conjunta con su suplente durante el término de la suplencia; y
 
-VIII. Por tener folios sin texto y sin inutilizar, habiendo utilizado los subsecuentes.
+VIII. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2023)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2012)</small>
-
-IX. Por actuar fuera del lugar de su adscripción, salvo los casos permitidos por la Ley;
+IX. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2023)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1698,6 +1870,10 @@ XIV. Por carecer de índices u omitir recopilar los apéndices del protocolo y d
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 XV. Por incumplir con el pago de una multa que le haya sido impuesta en los términos de esta Ley.
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XVI. Por no dar cumplimiento al envío a que se refiere el artículo 68-A de esta Ley.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1739,6 +1915,26 @@ XII. Por abandono de la función notarial, cuando transcurran más de seis meses
 
 XIII. Por encontrarse suspendido y actuar por interpósito notario en funciones.
 
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XIV. Por tener el protocolo, su apéndice e índice, el libro de ratificaciones, su apéndice e índice, el sello, hojas de testimonio, hologramas y folios no utilizados fuera del domicilio de la Notaría Pública sin causa justificada;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XV. Por establecer su oficina notarial en lugar distinto al de la ubicación de la Notaría Pública o que en oficina distinta atienda o permita atender al público en general bajo la creencia de que se trata de la notaría en cuestión;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XVI. Por tener folios sin texto y sin inutilizar, habiendo utilizado los subsecuentes;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XVII. Por actuar fuera del lugar de su adscripción, salvo los casos permitidos por la Ley; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XVIII. Por reincidir en la falta prevista en la fracción XVI del artículo 123.
+
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 Estas causales prescribirán en cinco años a partir de la fecha en que se realice la conducta motivo de la infracción. Dicha prescripción se interrumpirá con la notificación al notario del acuerdo que ordenó iniciar el procedimiento de responsabilidad notarial. Durante su tramitación no correrá la prescripción, salvo que se dejare de actuar en el citado procedimiento durante un plazo mayor a ciento ochenta días naturales por causas imputables al órgano instructor. La prescripción empezará a correr nuevamente desde el día siguiente al en que se hubiere practicado el último acto procedimental o realizado la última promoción.
@@ -1751,7 +1947,9 @@ Por ser el ejercicio de la función notarial de orden público, la unidad admini
 
 Cuando la Secretaría de Gobierno lo estime pertinente, nombrará un notario suplente para que concluya los actos notariales relativos al protocolo asegurado en términos de esta Ley.
 
-### CAPÍTULO XV. De los medios de defensa
+### CAPÍTULO XV. Del procedimiento para imponer sanciones
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 126.
 
@@ -1759,11 +1957,15 @@ El procedimiento para imponer sanciones por responsabilidad notarial conforme a 
 
 I. La unidad administrativa que corresponda de la Secretaría de Gobierno, notificará al notario el inicio del procedimiento; con la calificación emitida por la unidad administrativa que corresponda de la Secretaría de Gobierno al resultado de la visita de inspección que motiva el procedimiento y se le requerirá para que dentro del término de cinco días hábiles, contados a partir del día siguiente al de la notificación, rinda un informe justificado, al que agregará todas las constancias y ofrecerá las pruebas que estime convenientes para justificar los hechos y expresará lo que a su interés convenga;
 
-II. Vencido el término a que se refiere la fracción anterior, se abrirá el periodo probatorio por el término de quince días hábiles, a efecto de resolver sobre la admisión y, en su caso, desahogar las pruebas que hubiesen sido aportadas por el notario y las que obren en el expediente derivadas de la visita de inspección.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+II. Vencido el término a que se refiere la fracción anterior, se abrirá el periodo probatorio por el término de quince días hábiles, a efecto de resolver sobre la admisión y, en su caso, desahogo de las pruebas que hubiesen sido ofrecidas por el notario, de las que obren en el expediente con motivo del trámite de la queja o denuncia, así como de las que deriven de la visita de inspección.
 
 Serán admitidas todas las pruebas a que se refiere el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato, a excepción de la confesional;
 
-III. Cerrado el periodo probatorio a que se refiere la fracción anterior, la autoridad administrativa que corresponda de la Secretaría de Gobierno, citará a las partes a una audiencia de alegatos la que deberá celebrarse después de cinco y antes de diez días hábiles siguientes al de la citación;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+III. Cerrado el periodo probatorio a que se refiere la fracción anterior, la autoridad administrativa que corresponda de la Secretaría de Gobierno citará al notario a una audiencia de alegatos la que deberá celebrarse después de cinco y antes de diez días hábiles siguientes al de la citación;
 
 IV. Transcurrida la audiencia a que se refiere la fracción anterior, la unidad administrativa que corresponda de la Secretaría de Gobierno, elaborará el proyecto de resolución correspondiente dentro de los treinta días hábiles siguientes, dicho proyecto de resolución lo someterá a la consideración del Titular del Poder Ejecutivo para su firma.
 
@@ -1805,7 +2007,7 @@ En este supuesto, se aplicará en lo conducente el procedimiento a que se refier
 
 Cuando del acta de visita de inspección levantada o de la resolución que se emita en el procedimiento señalado en el artículo 126 de esta Ley, se desprenda la posible comisión de uno o varios delitos, la unidad administrativa que corresponda de la Secretaría de Gobierno dará cuenta a ésta y formulará inmediatamente la denuncia de hechos ante la autoridad que corresponda.
 
-### CAPÍTULO XVI. Del Archivo General de Notarías
+### CAPÍTULO XVI. De los medios de defensa
 
 ###### Artículo 129.
 
@@ -1845,15 +2047,7 @@ La resolución deberá notificarse al interesado en un plazo máximo de cinco d�
 
 Todas las notificaciones a que se refiere este capítulo se harán personalmente, para lo que se aplicará en lo conducente el Código de Procedimientos Civiles para el Estado de Guanajuato.
 
-### CAPÍTULO XVII. Del Colegio Estatal de Notarios
-
-Artículos 140. El Colegio Estatal de Notarios cuenta con personalidad jurídica y patrimonio propios, se integra con los notarios en ejercicio del Estado, y tiene como objeto constituirse como el órgano de representación y defensa de la función notarial y garantía ante la sociedad de un servicio notarial de calidad, eficaz, digno y responsable. Para este efecto ejercerá para el notariado ante las autoridades, las facultades de representación, organización, gestión y opinión que esta Ley le otorga.
-
-El domicilio del Colegio Estatal de Notarios estará en la capital del Estado.
-
-Por cada municipio habrá una delegación del Colegio Estatal de Notarios con personalidad jurídica y patrimonio propios, el cual tendrá facultades de representación de éste en su respectivo ámbito territorial.
-
-En aquellos municipios donde no existan por lo menos cinco notarios adscritos, éstos formarán parte de la delegación más cercana al de su adscripción.
+### CAPÍTULO XVII. Del Archivo General de Notarías
 
 ###### Artículo 134.
 
@@ -1929,9 +2123,15 @@ En los casos de suplencia del notario, se asentará, a continuación del último
 
 El Archivo General de Notarías comunicará oportunamente a la Secretaría de Gobierno, los casos en que los notarios en el ejercicio de sus funciones, no cumplan con las disposiciones del presente capítulo.
 
-### CAPÍTULO XVIII. De la certificación notarial
+### CAPÍTULO XVIII. Del Colegio Estatal de Notarios
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+Artículos 140. El Colegio Estatal de Notarios cuenta con personalidad jurídica y patrimonio propios, se integra con los notarios en ejercicio del Estado, y tiene como objeto constituirse como el órgano de representación y defensa de la función notarial y garantía ante la sociedad de un servicio notarial de calidad, eficaz, digno y responsable. Para este efecto ejercerá para el notariado ante las autoridades, las facultades de representación, organización, gestión y opinión que esta Ley le otorga.
+
+El domicilio del Colegio Estatal de Notarios estará en la capital del Estado.
+
+Por cada municipio habrá una delegación del Colegio Estatal de Notarios con personalidad jurídica y patrimonio propios, el cual tendrá facultades de representación de éste en su respectivo ámbito territorial.
+
+En aquellos municipios donde no existan por lo menos cinco notarios adscritos, éstos formarán parte de la delegación más cercana al de su adscripción.
 
 ###### Artículo 141.
 
@@ -2054,6 +2254,10 @@ V. Las demás que establezca esta Ley, las disposiciones jurídicas aplicables y
 ###### Artículo 152.
 
 El Colegio Estatal de Notarios formará un fondo de seguridad social que será de apoyo para los notarios del Estado, que se constituirá y administrará conforme a las reglas que apruebe el propio Colegio.
+
+### CAPÍTULO XIX. De la certificación notarial
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 153.
 
@@ -2218,3 +2422,23 @@ Artículo Segundo. El Poder Ejecutivo contará con un plazo de ciento veinte dí
 Artículo Tercero. Los interesados en presentar el examen de aspirante a notario que cuenten por lo menos con un año de prácticas en alguna de las notarías del Estado de Guanajuato, se les reconocerán dichas prácticas para efectos del cumplimiento del requisito a que se refiere la fracción IX del artículo 11-A.
 
 Artículo Cuarto. Para los efectos de la aplicación de las disposiciones contenidas en el presente Decreto, el primer procedimiento que se efectúe será el correspondiente para la obtención de la calidad de aspirante a notario. Para tal efecto, la Secretaría de Gobierno emitirá la convocatoria pública y abierta en los términos del artículo 11-B, observándose en lo conducente, lo dispuesto en el Artículo Tercero transitorio.
+
+P.O. 13 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 245 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. El Poder Ejecutivo contará con un plazo de noventa días contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones al Reglamento de esta Ley.
+
+Artículo Tercero. Para la aplicación del Procedimiento de Homologación de la Función Notarial, la Secretaría de Gobierno emitirá a más tardar durante el primer semestre del año dos mil veinticuatro la primera convocatoria para quienes deseen obtener la constancia de acreditación de conocimientos.
+
+Artículo Cuarto. Si posterior a la entrada en vigor del presente Decreto, y antes de que se realice la primera convocatoria a que se refiere el artículo anterior, y el notario titular terminara la función por alguno de los supuestos previstos en las fracciones I, II, IV y V del artículo 107, el notario auxiliar podrá acceder al Procedimiento de Homologación de la Función Notarial, para lo que deberá solicitar el inicio del mismo dentro de los diez días hábiles posteriores al fallecimiento o a la notificación del acuerdo de terminación de la función notarial, acreditando los requisitos a que se refiere el artículo 23-C. Para el caso de la constancia de acreditación de conocimientos la Secretaría de Gobierno fijará fecha y hora para la realización del examen. En este supuesto, el procedimiento deberá desahogarse y resolverse dentro de los cinco meses posteriores a la solicitud.
+
+Artículo Quinto. Las infracciones relacionadas con el régimen de responsabilidades notariales que no hayan sido materia de un procedimiento de responsabilidad administrativa, o bien que el procedimiento se encuentre en trámite o pendiente de resolución a la entrada en vigor del presente Decreto, se seguirán, tramitarán y resolverán conforme a las disposiciones jurídicas vigentes y aplicables al momento de la comisión de los hechos respectivos.
+
+Artículo Sexto. La unidad administrativa que corresponda de la Secretaría de Gobierno, contará con un periodo máximo de seis meses a partir de la vigencia del presente Decreto para emitir los lineamientos a que se refiere el artículo 68-A del presente Decreto y de doce meses para implementar los esquemas tecnológicos necesarios para recibir y almacenar los libros digitalizados.
+
+El plazo de ciento veinte días naturales para cumplir con la obligación, por primera vez, del envío de información a que se refiere el artículo 68-A, comenzará a contar al día siguiente del inicio de operación de los esquemas tecnológicos referidos en el párrafo anterior.
+
+Artículo Séptimo. Para efectos del artículo 11-B y por única ocasión, dentro de los doce meses posteriores a la entrada en vigor del presente Decreto, la Secretaría de Gobierno emitirá convocatoria pública y abierta a los interesados en obtener la calidad de aspirante a notario.
