@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-consejo-de-salubridad-general-71121"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-11"
-last_updated: "2009-12-11"
+last_updated: "2023-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71121&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-12-08"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO DE SALUBRIDAD GENERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL CONSEJO DE SALUBRIDAD GENERAL, PUBLICADO EN EL D.O.F. DE 13 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL CONSEJO DE SALUBRIDAD GENERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE DICIEMBRE DE 2023 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 11 de diciembre de 2009.
 
@@ -454,3 +456,33 @@ SÉPTIMO. Las acciones que se deriven de la aplicación del presente Reglamento,
 OCTAVO. En la instalación del Consejo, por única ocasión, serán invitados los Secretarios de Salud o su equivalente, representantes de dos de las regiones a que se refiere el artículo 5 del presente Reglamento, los cuales asistirán al Consejo solo por dos años, y se elegirán por insaculación.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a ocho de diciembre de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Desarrollo Social, Ernesto Javier Cordero Arroyo.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, Juan Rafael Elvira Quesada.- Rúbrica.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Francisco Javier Mayorga Castañeda.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Juan Francisco Molinar Horcasitas.- Rúbrica.- El Secretario de Educación Pública, Alonso José Ricardo Lujambio Irazábal.- Rúbrica.- El Secretario de Salud, José Ángel Córdova Villalobos.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 13 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DEL CONSEJO DE SALUBRIDAD GENERAL".]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior del Consejo de Salubridad General, publicado el 11 de diciembre de 2009 en el Diario Oficial de la Federación.
+
+TERCERO. La Junta Ejecutiva del Consejo de Salubridad General debe emitir sus reglas internas de operación a efecto de que se armonicen con lo previsto en el presente reglamento, dentro de los noventa días hábiles siguientes a la entrada en vigor de este decreto.
+
+CUARTO. El Consejo de Salubridad General debe celebrar una sesión con su nueva integración dentro de los sesenta días hábiles posteriores a la entrada en vigor del presente decreto.
+
+QUINTO. La estructura orgánica y ocupacional de la Secretaría del Consejo de Salubridad General debe ser autorizada por la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, en el ámbito de sus respectivas competencias, de conformidad con las disposiciones aplicables.
+
+En tanto se realizan los trámites administrativos para actualizar la estructura orgánica y ocupacional de la Secretaría del Consejo de Salubridad General, se continuará auxiliando del personal que tiene adscrito, conforme a la disponibilidad presupuestaria existente, el cual ejercerá sus funciones previstas en su perfil de puesto autorizado.
+
+SEXTO. Las comisiones del Consejo de Salubridad General a que se refiere el artículo 16 del presente ordenamiento deben modificar sus reglamentos interiores vigentes a efecto de que se armonicen con lo previsto en el presente reglamento, dentro de los noventa días hábiles siguientes a la entrada en vigor de este decreto.
+
+SÉPTIMO. A partir de la entrada en vigor de este reglamento, quedan suprimidas las comisiones de Integración Funcional del Sistema Nacional de Salud; Interinstitucional del Cuadro Básico y Catálogo de Insumos del Sector Salud; para Definir Tratamientos y Medicamentos Asociados a Enfermedades que Ocasionan Gastos Catastróficos, y Consultiva Ciudadana.
+
+A la entrada en vigor del presente reglamento, los asuntos pendientes de resolución de las comisiones a que se refiere este precepto, deben tramitarse de conformidad con la normativa vigente al momento de la presentación de la solicitud correspondiente.
+
+La Secretaría del Consejo de Salubridad General debe resguardar la información y expedientes administrativos que dichas comisiones hayan generado, durante los plazos establecidos en las disposiciones jurídicas en materia de archivos.
+
+OCTAVO. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se realizarán con cargo al presupuesto aprobado de los ejecutores de gasto en el Presupuesto de Egresos de la Federación correspondiente, por lo que no se incrementará su presupuesto y no se autorizarán recursos adicionales para el presente ejercicio fiscal ni para los subsecuentes, por lo que cualquier modificación a sus estructuras orgánicas deberá realizarse mediante movimientos compensados.
+
+NOVENO. El Consejo de Salubridad General debe modificar, dentro de los noventa días hábiles siguientes a la entrada en vigor de este decreto, las disposiciones que regulan al Comité para la Elaboración de Protocolos de Atención Médica, a efecto de adicionar a sus funciones, el estudio, análisis y, en su caso, propuesta al Consejo, para la definición de las enfermedades que originan gastos catastróficos, así como la elaboración y actualización de los protocolos técnicos, en los que se contengan los tratamientos, medicamentos y demás materiales asociados a los referidos gastos, conforme lo establece el artículo 77 Bis 29 de la Ley General de Salud.
