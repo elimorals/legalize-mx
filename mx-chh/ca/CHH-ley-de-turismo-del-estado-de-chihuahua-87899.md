@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-turismo-del-estado-de-chihuahua-87899"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-19"
-last_updated: "2023-03-22"
+last_updated: "2023-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TURISMO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 19 de mayo de 2012.
 
@@ -122,6 +122,10 @@ XIX. Turismo Accesible: Es aquel que brinda servicios que tienen las caracterís
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 XX. Turismo Médico.- Actividad turística generada con las personas que se trasladan a la Entidad con la finalidad de recibir servicios y tratamientos médicos o relacionados con la Salud.
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XX Bis. Turismo Rural: Las actividades turísticas que se desarrollan en lugares de baja densidad demográfica en donde primordialmente se realizan actividades relacionadas con la naturaleza, la agricultura, las formas de vida y culturas rurales, la pesca con caña y formas de vida tradicionales.
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
@@ -525,6 +529,10 @@ La Secretaría formulará los programas y conveníos de promoción y fomento tur
 
 La Secretaría realizará acciones para la promoción turística, basándose en las políticas y prioridades que se establezcan en el Plan Estatal de Desarrollo, así como en el Atlas Turístico, con la participación de los municipios involucrados en atención a la zona de que se trate, con el propósito de generar una demanda creciente y equilibrada de esta actividad.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Las campañas de promoción turística buscarán destacar las riquezas culturales, naturales e históricas del Estado, y deberán alentar el Turismo Rural, el Turismo Sustentable y las Zonas de Desarrollo Sustentable.
+
 ###### Artículo 39.
 
 En la ejecución de las acciones y programas de promoción turística, la Secretaría coordinará la participación que corresponda a los Consejos Regionales, las dependencias y entidades del Gobierno Estatal y Municipal, así como del sector privado.
@@ -876,6 +884,14 @@ El Poder Ejecutivo del Estado deberá realizar las adecuaciones necesarias a los
 P.O. 22 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0498/2023 IV P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0644/2023 I P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
