@@ -4,7 +4,7 @@ identifier: "SIN-ley-sobre-operacion-y-funcionamiento-de-establecimientos-11877"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-05"
-last_updated: "2017-12-22"
+last_updated: "2023-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY SOBRE OPERACION Y FUNCIONAMIENTO DE ESTABLECIMIENTOS DESTINADOS A LA PRODUCCION, DISTRIBUCION, VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY SOBRE OPERACIÓN Y FUNCIONAMIENTO DE ESTABLECIMIENTOS DESTINADOS A LA PRODUCCIÓN, DISTRIBUCIÓN, VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2023.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el viernes 5 de junio de 1998.
 
@@ -49,7 +51,23 @@ Las disposiciones de la presente Ley son de orden público, de interés social y
 
 Para los efectos de esta Ley, se consideran bebidas con contenido alcohólico todo líquido potable cuya graduación a la temperatura de 15 grados centígrados exceda de 2 grados G.L. hasta 55 grados G.L. El Ejecutivo del Estado a través de la dependencia competente, podrá ordenar en cualquier momento realizar los análisis que se crean convenientes para los efectos de verificar su contenido y graduación.
 
-Cuando en este ordenamiento se haga mención a bebidas alcohólicas se entenderá hecha a las bebidas con contenido alcohólico.
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Cuando en este ordenamiento se haga mención a bebidas alcohólicas se entenderá hecha a las bebidas con contenido alcohólico. Asimismo, se entiende por:
+
+a) CERVEZA: Bebida alcohólica fermentada elaborada con malta, lúpulo, levadura y agua potable, puede adicionarse con infusiones de cualquier semilla farinácea procedente de gramíneas o leguminosas, raíces o materia prima vegetal feculenta y/o carbohidratos de origen vegetal susceptibles de ser hidrolizados o, en su caso, azúcares que son adjuntos de la malta, con adición de lúpulos o sucedáneos en éstos. Su contenido alcohólico es de 2o/o a 20o/o de graduación alcohólica. La cerveza puede adicionarse de ingredientes y otros aditivos permitidos en el Acuerdo correspondiente de la Secretaría de Salud.
+
+b) CERVEZA ARTESANAL: Bebida fermentada elaborada principalmente con cereales malteados, lúpulo, levadura y agua potable, no utilizando productos transgénicos ni aditivos químicos que alteren su composición y desarrollo natural en su proceso de fermentación, cuyo contenido de alcohol a la temperatura de quince grados centígrados, sea mayor a dos por ciento por volumen, pero que no exceda de quince por ciento por volumen.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Para ser considerada una cervecería como artesanal deberá de cumplir con las siguientes características:
+
+a) Tener una producción anual menor a los 100,000 hectolitros.
+
+b) Que no cuente con financiamiento o asociación con alguna cervecera industrial.
+
+c) Los insumos utilizados para su elaboración son Malta, Agua Potable, Lúpulo y Levadura, pudiendo estar adicionada con insumos extras con la finalidad de enaltecer sabores y fomentar la innovación.
 
 ###### Artículo 3º.
 
@@ -135,9 +153,25 @@ XXII. Sala de fiestas;
 
 XXIII. Salón de boliche;
 
-XXIV. Supermercado, y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
-XXV. Ultramarino.
+XXIV. Supermercado;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXV. Ultramarino;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXVI. Boutique de cerveza artesanal;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXVII. Microcervecería; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXVIII. Sala de degustación para la venta exclusiva de cerveza artesanal.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -193,19 +227,37 @@ En esta misma sala, previo la obtención del permiso correspondiente del Ayuntam
 
 XXIII. SALÓN DE BOLICHE: Establecimiento donde se practica el deporte de boliche y se expende como servicio cerveza y licores para su consumo inmediato dentro del mismo, en forma moderada;
 
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
 XXIV. SUPERMERCADO: Establecimiento dedicado a la venta de comestibles, alimentos, perecederos e imperecederos y toda clase de mercancías, que opera con sistema de autoservicio, pudiendo expender bebidas con contenido alcohólico al menudeo para consumo personal o familiar en lugar distinto de su local.
 
-En estos establecimientos el espacio que ocupe la exhibición de bebidas con contenido alcohólico no podrá exceder del 20% del área total de venta del negocio; y
+En estos establecimientos el espacio que ocupe la exhibición de bebidas con contenido alcohólico no podrá exceder del 20% del área total de venta del negocio;
 
-XXV. ULTRAMARINO: Establecimiento para la venta de productos alimenticios finos nacionales e importados complementados con la venta de vinos y licores al mayoreo y menudeo para consumo personal o familiar en lugar distinto al establecimiento.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXV. ULTRAMARINO: Establecimiento para la venta de productos alimenticios finos nacionales e importados complementados con la venta de vinos y licores al mayoreo y menudeo para consumo personal o familiar en lugar distinto al establecimiento;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXVI. BOUTIQUE DE CERVEZA ARTESANAL: Establecimiento mercantil especializado en la venta de cerveza artesanal, hecha en México, en envase cerrado al menudeo, mercancías relacionadas con su consumo externo.
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXVII. MICROCERVECERÍA: Establecimiento independiente donde se produce, envasa y almacena para su distribución y venta, cerveza artesanal, de producción propia, así como también de diversos productores de cerveza artesanal, y cuenta con sala de degustación para su consumo en envase abierto y/o en envase cerrado, con música en vivo o grabada, área en el interior o exterior para dar servicio, autorizado en los términos de la normatividad aplicable; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXVIII. SALA DE DEGUSTACIÓN PARA LA VENTA EXCLUSIVA DE CERVEZA ARTESANAL: Establecimiento mercantil cuya actividad exclusiva es la venta para consumo de cerveza artesanal en envase abierto y/o en envase cerrado, hecha en México con o sin alimentos y que cuente con música grabada o en vivo.
 
 ###### Artículo 11.
 
 A falta de disposición expresa en esta Ley, siempre que no se contravenga la misma, será aplicable supletoriamente el Código Fiscal del Estado de Sinaloa, la Ley de Justicia Administrativa para el Estado de Sinaloa y las normas de derecho común.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 12.
 
-Para los alcances de esta Ley, se entiende por menudeo la venta de cerveza, vinos y licores, para consumo personal o familiar, la que deberá ser menor a la presentación de cartón o caja cerrada.
+Para los alcances de esta Ley, se entiende por menudeo la venta de cerveza, cerveza artesanal, vinos y licores, para consumo personal o familiar, la que deberá ser menor a la presentación de cartón o caja cerrada.
 
 ###### Artículo 13.
 
@@ -217,9 +269,11 @@ Los propietarios de establecimientos dedicados a las modalidades de elaboración
 
 Los locales designados para bodegas en ningún caso, deberán ser utilizados como casas-habitación, vivienda o departamentos, ni comunicarse con éstas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 15.
 
-Podrán tener bodegas anexas: el bar, cabaret, centro nocturno, discoteca, cervecería, cantina, licorería, los restaurantes, café cantante, salón de boliche y club social, para guardar bebidas alcohólicas permitidas dentro de su licencia. Estas bodegas en ningún caso deberán exceder las dimensiones del local de venta al público y éste no podrá tener acceso a la misma. En estos casos no se requiere contar con una licencia adicional por bodega.
+Podrán tener bodegas anexas: el bar, cabaret, centro nocturno, discoteca, cervecería, cantina, licorería, los restaurantes, café cantante, salón de boliche, club social, boutique de cerveza artesanal, microcervecerías y salas de degustación para la venta exclusiva de cerveza artesanal, para guardar bebidas alcohólicas permitidas dentro de su licencia. Estas bodegas en ningún caso deberán exceder las dimensiones del local de venta al público y éste no podrá tener acceso a la misma. En estos casos no se requiere contar con una licencia adicional por bodega.
 
 Los giros de supermercados, ultramarinos y salas de fiesta, podrán tener sus existencias dentro del perímetro de sus propias instalaciones.
 
@@ -233,7 +287,9 @@ Los giros de supermercados, ultramarinos y salas de fiesta, podrán tener sus ex
 
 Para establecer y operar los negocios a que se refiere esta Ley, se requiere de licencia expedida por el Ejecutivo del Estado, por conducto de la dependencia competente, la cual se otorgará cuando se cumplan los requisitos y el procedimiento que la misma establece y no se afecte el interés social.
 
-Para el caso de los giros a que se refieren las fracciones II, IV, X, XVIII, XIX, XX, XXI y XXIII, del artículo 10 de la presente Ley, el Ejecutivo del Estado por conducto de la dependencia competente, podrá otorgar permiso provisional de funcionamiento, para lo cual el interesado deberá solicitarlo por escrito, al que acompañará las constancias necesarias con las que acreditará que se inició procedimiento para la obtención de opinión favorable, o en su caso, que ya le fue concedida por el Ayuntamiento respectivo.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Para el caso de los giros a que se refieren las fracciones II, IV, X, XVIII, XIX, XX, XXI, XXIII, XXVI, XXVII, XXVIII, del artículo 10 de la presente Ley, el Ejecutivo del Estado por conducto de la dependencia competente, podrá otorgar permiso provisional de funcionamiento, para lo cual el interesado deberá solicitarlo por escrito, al que acompañará las constancias necesarias con las que acreditará que se inició (sic) procedimiento para la obtención de opinión favorable, o en su caso, que ya le fue concedida por el Ayuntamiento respectivo.
 
 En cuanto a los giros a que se refieren las fracciones XI y XXIV se les podrá otorgar permiso provisional solo si ya cuentan con la opinión favorable del Ayuntamiento respectivo.
 
@@ -242,6 +298,12 @@ El permiso provisional estará sujeto a los mismos requisitos que para su ejerci
 El permiso provisional otorgado en los términos del presente artículo, quedará sin efectos si el H. Ayuntamiento correspondiente declara improcedente el otorgamiento de la opinión favorable, o bien, si habiendo sido otorgada es revocada.
 
 Se consideran establecimientos clandestinos todos aquellos que expendan bebidas alcohólicas sin contar con la licencia o permiso provisional a que se refieren los párrafos anteriores. Al que realice este tipo de actividad se le sancionará conforme al Artículo 69 párrafo segundo de esta Ley, independientemente de las que señalen otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 16 Bis.
+
+La licencia para boutique de cerveza artesanal, microcervecerías y salas de degustación para la venta exclusiva de cerveza artesanal, se otorgarán a precio preferencial siempre y cuando estos sean de producción, distribución y comercialización dentro del Estado de Sinaloa, a fin de impulsar el desarrollo económico generado por el sector de la cerveza artesanal en el Estado.
 
 ###### Artículo 17.
 
@@ -906,3 +968,19 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente Decreto.
 
 TERCERO. El Ejecutivo del Estado en un plazo de noventa días siguientes a la entrada en vigor del presente Decreto, deberá realizar las adecuaciones necesarias al Reglamento de la presente Ley.
+
+P.O. 13 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 655 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE OPERACIÓN Y FUNCIONAMIENTO DE ESTABLECIMIENTOS DESTINADOS A LA PRODUCCIÓN, DISTRIBUCIÓN, VENTA Y CONSUMOS DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 01 de enero de 2024.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Deberán realizarse las adecuaciones correspondientes a la Ley de Hacienda del Estado de Sinaloa y a la Ley de Hacienda Municipal del Estado de Sinaloa en un plazo de 30 días naturales después de la entrada en vigor del presente Decreto.
