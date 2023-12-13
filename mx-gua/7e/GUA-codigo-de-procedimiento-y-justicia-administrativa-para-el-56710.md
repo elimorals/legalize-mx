@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimiento-y-justicia-administrativa-para-el-56710
 country: "mx"
 rank: "codigo"
 publication_date: "2007-08-17"
-last_updated: "2022-05-27"
+last_updated: "2023-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2023.
 
 Código Publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 17 de agosto de 2007.
 
@@ -188,6 +188,10 @@ Los interesados tienen el derecho de actuar personalmente o por medio de represe
 El interesado o su representante legal podrán autorizar a personas para oír y recibir toda clase de notificaciones y documentos, así como para realizar los trámites y las gestiones necesarias para la substanciación del procedimiento administrativo. La autorización para oír y recibir notificaciones, también faculta al autorizado para hacer valer incidentes e interponer recursos administrativos.
 
 En el proceso administrativo, los interesados, las autoridades o los representantes de ambos, podrán autorizar por escrito a licenciados en derecho para que a su nombre reciban notificaciones, hagan promociones de trámite, ofrezcan y desahoguen pruebas, promuevan incidentes, formulen alegatos e interpongan recursos. Asimismo, las partes podrán designar autorizados (sic) para imponerse de los autos a cualquier persona con capacidad legal, quien no gozará de las facultades a que se refiere este párrafo.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Las partes en el proceso administrativo podrán facultar a licenciados en derecho o apoderados con facultades suficientes para someter la solución del conflicto a un convenio conciliatorio y en su caso suscribir el mismo.
 
 ###### Artículo 11.
 
@@ -2383,9 +2387,93 @@ La contestación de la ampliación de la demanda deberá realizarse dentro de lo
 
 Si no se produce en tiempo la contestación a la ampliación de la demanda o ésta no se refiere a todos los hechos, se tendrán como ciertos los que el actor atribuya de manera precisa al demandado, salvo que por los medios de prueba rendidos o por hechos notorios resulten desvirtuados.
 
-### CAPÍTULO QUINTO. DE LA AUDIENCIA Y DESAHOGO DE LAS PRUEBAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE DICIEMBRE DE 2023)</small>
 
-### CAPÍTULO SEXTO. DE LOS INCIDENTES
+### CAPÍTULO QUINTO. DE LA CELEBRACIÓN DE CONVENIOS CONCILIATORIOS
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Artículo 285 A. Las partes a las que se refiere el artículo 251 de este Código, podrán celebrar convenios para conciliar sus intereses fuera del proceso, y en cualquier etapa del proceso hasta antes de que se dicte sentencia, o bien, sobre la ejecución de la sentencia.
+
+En tales casos, dichos convenios deberán presentarse para su ratificación y aprobación ante el juez o magistrado de conocimiento para que sean elevados a la categoría de cosa juzgada o se tenga por cumplida la sentencia; excepto cuando los convenios sean el resultado de la conciliación realizada fuera del proceso, en cuyo caso deberán presentarse para su revisión y posterior ratificación por conducto de la Unidad de Conciliación y su correlativa en los municipios.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Artículo 285 B. Los jueces o magistrados del conocimiento del proceso podrán exhortar a los interesados a la celebración de convenios conciliatorios para la solución de las controversias sometidas a su jurisdicción o para facilitar la ejecución de sus resoluciones.
+
+Los magistrados o jueces podrán apoyarse en la Unidad de Conciliación y su correlativa en los municipios, respectivamente.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Artículo 285 C. Desde el escrito de demanda y en cualquier otro momento del proceso, hasta antes de que se dicte sentencia, los interesados podrán proponer la celebración de convenios para la solución de la controversia, sin que ello suspenda el proceso.
+
+El mismo procedimiento, en lo conducente, se aplicará para los convenios suscritos fuera del proceso y para los procesos en etapa de ejecución de sentencia.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Artículo 285 D. Cuando los interesados propongan la celebración del convenio podrán señalar las consideraciones generales a las que plantean sujetar su voluntad.
+
+Hecha la manifestación de someterse a la celebración de convenios por cualquiera de los interesados, se dará vista a su contraria para que en el plazo de tres días exprese si es su deseo llegar a un convenio; si no se contesta la vista, se entenderá que no desea someterse al procedimiento de celebración de convenios.
+
+En su caso, se dará vista al tercero en el mismo plazo para que manifieste lo que a su derecho convenga.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Artículo 285 E. Una vez que los interesados hayan manifestado su voluntad de someterse a la celebración de convenio, se citará a una audiencia dentro de los diez días siguientes o en el plazo que el despacho de los asuntos lo permita.
+
+El Magistrado o el juez podrán encomendar a los Secretarios de Estudio y Cuenta o al funcionario que se designe para ello, el desarrollo de esta audiencia.
+
+Si las partes presentaran un convenio previamente acordado y suscrito, el magistrado o el juez analizará su pertinencia para concluir con la controversia y, de ser procedente, únicamente citará a las partes para su ratificación, sin la necesidad de celebrar audiencia.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Artículo 285 F. La Sala o el juzgado administrativo municipal determinará si el acto o resolución impugnada es susceptible de someterse a convenio de los interesados, cuidando en todo momento que no se actualicen los siguientes supuestos:
+
+I. Afecten derechos o intereses de terceros;
+
+II. Afecten el interés superior de la niñez;
+
+III. Sean contrarios a disposiciones de orden púbico o al interés social; y
+
+IV. La controversia sea materia de responsabilidad administrativa.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Artículo 285 G. Al inicio de la conciliación, si se hubiese señalado fecha para el desahogo de actuaciones tendientes a la solución del conflicto o la ejecución de sentencia, el tribunal o el juzgado podrán posponer su verificación.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Artículo 285 H. La audiencia para la celebración de convenios se desarrollará de la siguiente manera:
+
+I. Será celebrada con asistencia de los interesados o sus representantes.
+
+Los interesados podrán comparecer a la audiencia personalmente, por medio de representante o de abogado autorizado conforme a los artículos 10 y 11 del presente Código. Los autorizados deberán contar con facultades expresas para someter la solución del conflicto, al procedimiento de celebración de convenio conciliatorio y, en su caso, para suscribirlo.
+
+Los representantes o autorizados de las autoridades, tratándose de atribuciones no delegables, deberán solicitar un plazo para obtener la ratificación del acto por quien tenga facultades para ello.
+
+II. En caso de que alguno de los interesados no se presente a la audiencia, sin causa justificada, o se determine que el acto o resolución impugnada no sea susceptible de la celebración de convenios, o bien, los interesados no lleguen a un acuerdo en dicha audiencia, se levantará el acta respectiva.
+
+La información apartada por los interesados en el procedimiento conciliatorio no podrá ser invocada por la otra en el proceso administrativo o ante una autoridad jurisdiccional.
+
+III. La audiencia podrá diferirse cuando las labores de la Sala o del juzgado administrativo municipal no permitan su celebración, por única ocasión cuando una (sic) de los interesados lo solicite y hasta en dos oportunidades cuando ambas partes de manera conjunta lo soliciten. En estos casos se fijará nueva fecha para la celebración.
+
+IV. La audiencia podrá suspenderse cuando a consideración de la Sala o del juzgado administrativo municipal del conocimiento, existan causas que así lo justifiquen, fijándose nueva fecha a la brevedad posible y el despacho de los asuntos lo permita.
+
+V. En el desarrollo de la audiencia se instará a los interesados a la solución de la controversia, tomando como base los planteamientos que en su caso hayan manifestado o lo que expongan en ese momento. De haber coincidencia entre los planteamientos de los interesados, se concederá el tiempo necesario para que elaboren el convenio respectivo o podrá acordarse un receso de la audiencia, señalando fecha y hora para su reanudación.
+
+VI. Se levantará un acta circunstanciada en la que se hará constar:
+
+a) El nombre de los interesados, sus datos generales y se describirá la identificación oficial, así como los de sus representantes.
+
+b) El convenio, su ratificación y, en su caso, la aprobación para dar por concluido el proceso administrativo.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Artículo 285 I. Los convenios se podrán celebrar fuera del proceso administrativo y solicitar su ratificación y aprobación conforme a lo establecido en los artículos 262, fracción V y 285 A.
+
+La ratificación y aprobación de los convenios celebrados fuera del proceso deberán sujetarse en lo conducente a lo previsto en la fracción VI del artículo 285 H.
+
+### CAPÍTULO SEXTO. DE LA AUDIENCIA Y DESAHOGO DE LAS PRUEBAS
 
 ###### Artículo 286.
 
@@ -2395,7 +2483,7 @@ Contestada la demanda, su ampliación, en su caso, o transcurrido el plazo para 
 
 Abierta la audiencia, asistiendo o no las partes, se procederá a desahogar las pruebas testimonial y confesional, en su caso, y a recibir los alegatos por escrito, debiéndose dictar la sentencia que corresponda en la misma o dentro del plazo de diez días.
 
-### CAPÍTULO SÉPTIMO. DE LA SENTENCIA
+### CAPÍTULO SÉPTIMO. DE LOS INCIDENTES
 
 ###### Artículo 288.
 
@@ -2469,81 +2557,7 @@ La interrupción del proceso administrativo, procederá hasta antes de la celebr
 
 La interrupción del proceso administrativo será de hasta seis meses, mientras se apersone el representante legal de la parte actora o el representante del órgano de la administración pública que asuma las facultades o atribuciones correspondientes al órgano desaparecido. Si transcurrido el término máximo de la interrupción no comparece el representante legal de las partes, se reanudará el proceso administrativo.
 
-### CAPÍTULO OCTAVO. DEL JUICIO EN LA VÍA SUMARIA
-
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
-
-Artículo 304 A. El proceso administrativo se tramitará y resolverá en la vía sumaria, de conformidad con las disposiciones del presente capítulo y, en lo no previsto, se aplicarán las demás disposiciones del presente Código.
-
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
-
-Artículo 304 B. Procede la vía sumaria cuando se impugnen resoluciones cuyo importe no exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización, siempre que se trate de alguna de las siguientes resoluciones definitivas:
-
-I. Que determinen o exijan el pago de créditos fiscales estatales o municipales, en cantidad líquida;
-
-II. Que impongan multas o sanciones pecuniarias o resarcitorias, por infracción a las normas administrativas estatales o municipales; y
-
-III. Las recaídas a un recurso administrativo, cuando la recurrida sea alguna de las consideradas en las fracciones anteriores.
-
-Para determinar la cuantía en los casos de las fracciones I y III sólo se considerará el crédito principal sin accesorios ni actualizaciones. Tratándose de más de una resolución de las señaladas en este artículo no se acumulará el monto de cada una de ellas para efectos de determinar la procedencia de la vía.
-
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
-
-Artículo 304 C. La demanda se presentará por escrito o en la modalidad de juicio en línea ante el Tribunal; o por escrito ante el Juzgado respectivo, dentro de los quince días siguientes a aquél en que haya surtido efectos la notificación de la resolución impugnada o a aquel en que se haya ostentado sabedor de su contenido o de su ejecución.
-
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
-
-Artículo 304 D. La vía sumaria será improcedente cuando:
-
-I. Se trate de sanciones económicas en materia de responsabilidades administrativas de los servidores públicos o sanciones por faltas de particulares relacionados con las mismas; y
-
-II. Se trate de resoluciones que además de imponer una multa o sanción pecuniaria o resarcitoria, incluyan alguna otra carga u obligación.
-
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
-
-Artículo 304 E. Admitida la demanda se correrá traslado de ella al demandado, emplazándolo para que la conteste dentro de los cinco días siguientes a aquél en que surta efectos el emplazamiento. En su caso, deberá emplazarse al tercero interesado para que, en igual término, se apersone en el juicio.
-
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
-
-Artículo 304 F. El actor tendrá derecho a ampliar la demanda, dentro de los tres días siguientes a la fecha en que surta efectos la notificación del acuerdo recaído a la contestación de la demanda, en los casos que al efecto se establecen en el artículo 284 de este Código.
-
-La contestación de la ampliación de la demanda deberá realizarse dentro de los tres días siguientes al en que surta efectos la notificación del acuerdo que la admita.
-
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
-
-Artículo 304 G. Contestada la demanda, su ampliación o, en su caso, transcurrido el plazo para contestarla, el Tribunal o el Juzgado respectivo señalará, si existen pruebas pendientes de desahogo, día y hora para la celebración de una audiencia, dentro de los quince días siguientes, en la que se desahogarán las pruebas, salvo la inspeccional y la pericial que deberán desahogarse antes de la audiencia.
-
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
-
-Artículo 304 H. El Tribunal o Juzgado proveerá la correcta integración del proceso administrativo, mediante el desahogo oportuno de las pruebas, a más tardar en la fecha prevista para la celebración de la audiencia en los casos que ésta haya sido procedente.
-
-En el caso de que hayan sido ofrecidas testimoniales y el testigo no ocurra a la diligencia, el oferente deberá acreditar la imposibilidad para asistir en la propia audiencia, misma que será calificada de inmediato y hecho del conocimiento el acuerdo respectivo al promovente, siendo que de calificarse justificada se señalará fecha para su desahogo en un plazo de tres días hábiles o, en su caso, declarada desierta.
-
-Las pruebas supervenientes podrán presentarse siempre que no se haya dictado resolución y, en su caso, se dará vista a los interesados para que en el plazo de tres días expresen lo que a su derecho convenga.
-
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
-
-Artículo 304 I. Por lo que toca a la prueba pericial, ésta se desahogará en los términos que prevé el artículo 91 de este Código, con la salvedad de que todos los plazos serán de tres días, incluyendo el que corresponde a la rendición del dictamen, en el entendido de que cada perito deberá hacerlo en un solo acto ante el Tribunal o Juzgado.
-
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
-
-Artículo 304 J. En caso de no existir pruebas pendientes de desahogo, se podrá citar a audiencia de alegatos dentro de los tres días siguientes a la admisión de la contestación de la demanda, o a la ampliación, en su caso.
-
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
-
-Artículo 304 K. Abierta la audiencia, asistiendo o no las partes, se procederá a desahogar las pruebas testimonial y confesional, en su caso, y a recibir los alegatos por escrito, debiéndose dictar sentencia dentro del plazo de cinco días.
-
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
-
-Artículo 304 L. El incidente de acumulación sólo podrá plantearse respecto de expedientes que se encuentren tramitándose en esta misma vía y con las características de los juicios previstas en este capítulo.
-
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
-
-Artículo 304 M. La sentencia solamente podrá ocuparse sobre los argumentos de fondo del asunto, por lo que aquellos de forma serán desestimados por el Tribunal o Juzgado y no podrá ordenarse la reposición del procedimiento administrativo.
-
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
-
-Artículo 304 N. A falta de disposición expresa que establezca el plazo respectivo en la vía sumaria, se aplicará el de tres días.
+### CAPÍTULO OCTAVO. DE LA SENTENCIA
 
 ###### Artículo 298.
 
@@ -2619,9 +2633,109 @@ La resolución sobre la aclaración de una sentencia, se considerará parte inte
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ABRIL DE 2020)</small>
 
-### CAPÍTULO NOVENO. DEL JUICIO DE LESIVIDAD
+### CAPÍTULO NOVENO. DEL JUICIO EN LA VÍA SUMARIA
 
-### CAPÍTULO DÉCIMO. DEL JUICIO EN LÍNEA
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 A. El proceso administrativo se tramitará y resolverá en la vía sumaria, de conformidad con las disposiciones del presente capítulo y, en lo no previsto, se aplicarán las demás disposiciones del presente Código.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 B. Procede la vía sumaria cuando se impugnen resoluciones cuyo importe no exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización, siempre que se trate de alguna de las siguientes resoluciones definitivas:
+
+I. Que determinen o exijan el pago de créditos fiscales estatales o municipales, en cantidad líquida;
+
+II. Que impongan multas o sanciones pecuniarias o resarcitorias, por infracción a las normas administrativas estatales o municipales; y
+
+III. Las recaídas a un recurso administrativo, cuando la recurrida sea alguna de las consideradas en las fracciones anteriores.
+
+Para determinar la cuantía en los casos de las fracciones I y III sólo se considerará el crédito principal sin accesorios ni actualizaciones. Tratándose de más de una resolución de las señaladas en este artículo no se acumulará el monto de cada una de ellas para efectos de determinar la procedencia de la vía.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 C. La demanda se presentará por escrito o en la modalidad de juicio en línea ante el Tribunal; o por escrito ante el Juzgado respectivo, dentro de los quince días siguientes a aquél en que haya surtido efectos la notificación de la resolución impugnada o a aquel en que se haya ostentado sabedor de su contenido o de su ejecución.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 D. La vía sumaria será improcedente cuando:
+
+I. Se trate de sanciones económicas en materia de responsabilidades administrativas de los servidores públicos o sanciones por faltas de particulares relacionados con las mismas; y
+
+II. Se trate de resoluciones que además de imponer una multa o sanción pecuniaria o resarcitoria, incluyan alguna otra carga u obligación.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 E. Admitida la demanda se correrá traslado de ella al demandado, emplazándolo para que la conteste dentro de los cinco días siguientes a aquél en que surta efectos el emplazamiento. En su caso, deberá emplazarse al tercero interesado para que, en igual término, se apersone en el juicio.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 F. El actor tendrá derecho a ampliar la demanda, dentro de los tres días siguientes a la fecha en que surta efectos la notificación del acuerdo recaído a la contestación de la demanda, en los casos que al efecto se establecen en el artículo 284 de este Código.
+
+La contestación de la ampliación de la demanda deberá realizarse dentro de los tres días siguientes al en que surta efectos la notificación del acuerdo que la admita.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 G. Contestada la demanda, su ampliación o, en su caso, transcurrido el plazo para contestarla, el Tribunal o el Juzgado respectivo señalará, si existen pruebas pendientes de desahogo, día y hora para la celebración de una audiencia, dentro de los quince días siguientes, en la que se desahogarán las pruebas, salvo la inspeccional y la pericial que deberán desahogarse antes de la audiencia.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 H. El Tribunal o Juzgado proveerá la correcta integración del proceso administrativo, mediante el desahogo oportuno de las pruebas, a más tardar en la fecha prevista para la celebración de la audiencia en los casos que ésta haya sido procedente.
+
+En el caso de que hayan sido ofrecidas testimoniales y el testigo no ocurra a la diligencia, el oferente deberá acreditar la imposibilidad para asistir en la propia audiencia, misma que será calificada de inmediato y hecho del conocimiento el acuerdo respectivo al promovente, siendo que de calificarse justificada se señalará fecha para su desahogo en un plazo de tres días hábiles o, en su caso, declarada desierta.
+
+Las pruebas supervenientes podrán presentarse siempre que no se haya dictado resolución y, en su caso, se dará vista a los interesados para que en el plazo de tres días expresen lo que a su derecho convenga.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 I. Por lo que toca a la prueba pericial, ésta se desahogará en los términos que prevé el artículo 91 de este Código, con la salvedad de que todos los plazos serán de tres días, incluyendo el que corresponde a la rendición del dictamen, en el entendido de que cada perito deberá hacerlo en un solo acto ante el Tribunal o Juzgado.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 J. En caso de no existir pruebas pendientes de desahogo, se podrá citar a audiencia de alegatos dentro de los tres días siguientes a la admisión de la contestación de la demanda, o a la ampliación, en su caso.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 K. Abierta la audiencia, asistiendo o no las partes, se procederá a desahogar las pruebas testimonial y confesional, en su caso, y a recibir los alegatos por escrito, debiéndose dictar sentencia dentro del plazo de cinco días.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 L. El incidente de acumulación sólo podrá plantearse respecto de expedientes que se encuentren tramitándose en esta misma vía y con las características de los juicios previstas en este capítulo.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 M. La sentencia solamente podrá ocuparse sobre los argumentos de fondo del asunto, por lo que aquellos de forma serán desestimados por el Tribunal o Juzgado y no podrá ordenarse la reposición del procedimiento administrativo.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 N. A falta de disposición expresa que establezca el plazo respectivo en la vía sumaria, se aplicará el de tres días.
+
+### CAPÍTULO DÉCIMO. DEL JUICIO DE LESIVIDAD
+
+###### Artículo 305.
+
+La autoridad emisora de actos o resoluciones administrativas favorables a particulares, cuando no pueda anularlo o revocarlo por sí misma por lo previsto en las leyes o reglamentos, podrá deducir su acción de lesividad ante el Tribunal o Juzgado, cuando:
+
+I. Se afecten disposiciones de orden público o el interés social;
+
+II. No exista fundamento legal para que la autoridad emita la resolución favorable;
+
+III. El interesado se haya conducido con dolo, mala fe o violencia para conseguir la resolución favorable; o
+
+IV. Se haya concedido un beneficio indebido al contribuyente.
+
+###### Artículo 306.
+
+El procedimiento de lesividad sólo podrá iniciarse a petición de la autoridad que emitió la resolución favorable al particular, dentro del año siguiente a la fecha en que se haya emitido el acto o resolución, salvo que haya producido efectos de tracto sucesivo, caso en el que podrá demandar la modificación o nulidad en cualquier época sin exceder de un año del último efecto, pero los efectos de la sentencia en caso de ser total o parcialmente desfavorable para el particular, sólo se retrotraerán al año anterior a la presentación de la demanda.
+
+###### Artículo 307.
+
+Los errores de carácter material o aritméticos en los actos o resoluciones, podrán rectificarse de manera oficiosa o a petición de parte.
+
+El error material existe cuando se escriben unas palabras por otras, se omita un dato circunstancial o se equivoquen los nombres propios ortográficamente; y, el error aritmético se da cuando se equivoquen las cantidades o no coincidan las cantidades en número con las escritas en letra o viceversa. En ambos casos, no debe cambiar el sentido de la resolución administrativa.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MAYO DE 2015)</small>
+
+### CAPÍTULO UNDÉCIMO. DEL JUICIO EN LÍNEA
 
 > <small>(ADICIONADO, P.O. 15 DE MAYO DE 2015)</small>
 
@@ -2733,37 +2847,9 @@ El reporte que determine que existió interrupción en el Sistema deberá señal
 
 Artículo 307 R. Cuando en el juicio en línea la autoridad demandada sea omisa en comparecer mediante las formalidades del juicio en línea, las notificaciones posteriores al emplazamiento se practicarán por estrados, hasta que se cumpla con dicha formalidad.
 
-###### Artículo 305.
-
-La autoridad emisora de actos o resoluciones administrativas favorables a particulares, cuando no pueda anularlo o revocarlo por sí misma por lo previsto en las leyes o reglamentos, podrá deducir su acción de lesividad ante el Tribunal o Juzgado, cuando:
-
-I. Se afecten disposiciones de orden público o el interés social;
-
-II. No exista fundamento legal para que la autoridad emita la resolución favorable;
-
-III. El interesado se haya conducido con dolo, mala fe o violencia para conseguir la resolución favorable; o
-
-IV. Se haya concedido un beneficio indebido al contribuyente.
-
-###### Artículo 306.
-
-El procedimiento de lesividad sólo podrá iniciarse a petición de la autoridad que emitió la resolución favorable al particular, dentro del año siguiente a la fecha en que se haya emitido el acto o resolución, salvo que haya producido efectos de tracto sucesivo, caso en el que podrá demandar la modificación o nulidad en cualquier época sin exceder de un año del último efecto, pero los efectos de la sentencia en caso de ser total o parcialmente desfavorable para el particular, sólo se retrotraerán al año anterior a la presentación de la demanda.
-
-###### Artículo 307.
-
-Los errores de carácter material o aritméticos en los actos o resoluciones, podrán rectificarse de manera oficiosa o a petición de parte.
-
-El error material existe cuando se escriben unas palabras por otras, se omita un dato circunstancial o se equivoquen los nombres propios ortográficamente; y, el error aritmético se da cuando se equivoquen las cantidades o no coincidan las cantidades en número con las escritas en letra o viceversa. En ambos casos, no debe cambiar el sentido de la resolución administrativa.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MAYO DE 2015)</small>
-
-### CAPÍTULO PRIMERO. DEL RECURSO DE RECLAMACIÓN
-
 ## TÍTULO CUARTO. RECURSOS
 
-### CAPÍTULO SEGUNDO. DEL RECURSO DE REVISIÓN
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2020)</small>
+### CAPÍTULO PRIMERO. DEL RECURSO DE RECLAMACIÓN
 
 ###### Artículo 308.
 
@@ -2799,7 +2885,9 @@ En caso de admitir el recurso, el Presidente del Tribunal designará al Magistra
 
 Transcurridos los cinco días, el Presidente remitirá los autos al Magistrado ponente para que dentro de diez días formule el proyecto de resolución que someterá al Pleno y éste resolverá dentro de los diez días siguientes, dictando la resolución que proceda.
 
-### CAPÍTULO ÚNICO. DE LAS EXCITATIVAS DE JUSTICIA
+### CAPÍTULO SEGUNDO. DEL RECURSO DE REVISIÓN
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2020)</small>
 
 ###### Artículo 312.
 
@@ -2817,7 +2905,7 @@ Transcurrido ese plazo, el Magistrado dentro de los diez días siguientes, dicta
 
 ## TÍTULO QUINTO. EXCITATIVAS DE JUSTICIA
 
-### CAPÍTULO PRIMERO. DEL CUMPLIMIENTO Y EJECUCIÓN DE LA SENTENCIA
+### CAPÍTULO ÚNICO. DE LAS EXCITATIVAS DE JUSTICIA
 
 ###### Artículo 315.
 
@@ -2845,7 +2933,7 @@ Cuando un juez en dos ocasiones hubiere sido sustituido conforme a este precepto
 
 ## TÍTULO SEXTO. CUMPLIMIENTO Y EJECUCIÓN DE LA SENTENCIA
 
-### CAPÍTULO SEGUNDO. DEL RECURSO DE QUEJA
+### CAPÍTULO PRIMERO. DEL CUMPLIMIENTO Y EJECUCIÓN DE LA SENTENCIA
 
 ###### Artículo 319.
 
@@ -2886,6 +2974,8 @@ Si una vez agotados los medios de apremio, persistiere el incumplimiento de la s
 ###### Artículo 323.
 
 Si la ejecución consiste en la realización de un acto material, el juzgador podrá realizarlo en rebeldía de la demandada, salvo que se trate de actos discrecionales de la autoridad.
+
+### CAPÍTULO SEGUNDO. DEL RECURSO DE QUEJA
 
 ###### Artículo 324.
 
@@ -3048,3 +3138,15 @@ P.O. 27 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 73 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 1, FRACCIÓN III; Y 5, FRACCIÓN II, DEL CÓDIGO DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 13 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 244 MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. El Tribunal de Justicia Administrativa del Estado actualizara su reglamento interior y en su caso expedirá los lineamientos que deriven del contenido del presente Decreto, en un plazo no mayor de 120 días contados a partir de su entrada en vigencia.
+
+Artículo Tercero. Los municipios expedirán o, en su caso, actualizarán los reglamentos que deriven del contenido del presente Decreto, en un plazo no mayor de 120 días contados a partir de la entrada en vigor del mismo.
+
+Artículo Cuarto. El Tribunal de Justicia Administrativa dictará las medidas administrativas para que, conforme a lo previsto en el artículo segundo transitorio, se establezca la unidad de conciliación.
