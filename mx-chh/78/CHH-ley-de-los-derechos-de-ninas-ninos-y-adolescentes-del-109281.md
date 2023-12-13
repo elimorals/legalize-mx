@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2023-04-19"
+last_updated: "2023-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2023.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -137,31 +137,61 @@ XIII. Igualdad Sustantiva. El acceso al mismo trato y oportunidades para el reco
 
 XIV. Informe de Adoptabilidad. El documento expedido por el Sistema Nacional DIF y el DIF Estatal, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes.
 
-XV. Procuraduría de Protección. La Procuraduría de Protección de Niñas, Niños y Adolescentes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
 
-XVI. Programa Estatal. El Programa Estatal de Protección de Niñas, Niños y Adolescentes.
+XV. Niña, niño o adolescente migrante. El definido en la fracción VI del artículo 6 de la Ley de Protección y Apoyo a Migrantes y sus Familias para el Estado de Chihuahua.
 
-XVII. Programa Nacional. El Programa Nacional de Protección de Niñas, Niños y Adolescentes.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
 
-XVIII. Protección Integral. Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte.
+XVI. Procuraduría de Protección. La Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
-XIX. Representación Coadyuvante. El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección, conforme a su competencia, sin perjuicio de la intervención que corresponda al Ministerio Público.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
 
-XX. Representación Originaria. La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables.
+XVII. Programa Estatal. El Programa Estatal de Protección de Niñas, Niños y Adolescentes.
 
-XXI. Representación en Suplencia. La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
 
-XXII. Sistemas Municipales. Los Sistemas Municipales para el Desarrollo Integral de la Familia.
+XVIII. Programa Nacional. El Programa Nacional de Protección de Niñas, Niños y Adolescentes.
 
-XXIII. Sistema Nacional DIF. El Sistema Nacional para el Desarrollo Integral de la Familia.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
 
-XXIV. Sistema Estatal de Protección Integral. El Sistema Estatal de Protección Integral de Niñas, Niños y Adolescentes.
+XIX. Protección Integral. Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte.
 
-XXV. Sistema Nacional de Protección Integral. El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
 
-XXVI. Tratados Internacionales. Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
+XX. Representación Coadyuvante. El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección, conforme a su competencia, sin perjuicio de la intervención que corresponda al Ministerio Público.
 
-XXVII. Violencia. Uso intencional de poder, de hecho o como amenaza, contra uno mismo, otra persona o un grupo o comunidad, que cause o tenga muchas probabilidades de causar lesiones, muerte, daños psicológicos, trastornos del desarrollo o privaciones.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXI. Representación Originaria. La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXII. Representación en Suplencia. La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXIII. Sistemas Municipales. Los Sistemas Municipales para el Desarrollo Integral de la Familia.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXIV. Sistema Nacional DIF. El Sistema Nacional para el Desarrollo Integral de la Familia.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXV. Sistema Estatal de Protección Integral. El Sistema Estatal de Protección Integral de Niñas, Niños y Adolescentes.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXVI. Sistema Nacional de Protección Integral. El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXVII. Tratados Internacionales. Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXVIII. Violencia. Uso intencional de poder, de hecho o como amenaza, contra uno mismo, otra persona o un grupo o comunidad, que cause o tenga muchas probabilidades de causar lesiones, muerte, daños psicológicos, trastornos del desarrollo o privaciones.
 
 ###### Artículo 8.
 
@@ -2690,6 +2720,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 19 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0518/2023 II P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ESTATAL DE EDUCACIÓN Y A LA LEY DE DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0538/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y APOYO A MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE CHIHUAHUA Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
