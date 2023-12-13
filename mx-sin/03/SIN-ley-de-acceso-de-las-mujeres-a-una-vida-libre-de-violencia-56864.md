@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5686
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-30"
-last_updated: "2023-07-21"
+last_updated: "2023-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Edición Vespertina al Periódico Oficial del Estado de Sinaloa, el lunes 30 de julio de 2007.
 
@@ -97,9 +97,17 @@ II. Todo acto de violencia basado en la pertenencia al sexo femenino que tenga o
 
 El Estado y los Municipios en el ejercicio del derecho de toda mujer a una vida libre de violencia deberán garantizarle:
 
-I. A ser libre de toda forma de discriminación; y,
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2023)</small>
 
-II. El acceso a la educación libre de patrones estereotipados de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación.
+I. A ser libre de toda forma de discriminación;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2023)</small>
+
+II. El acceso a la educación libre de patrones estereotipados de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación; y
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2023)</small>
+
+III. El acceso inmediato y eficaz a las órdenes de protección, en términos de lo dispuesto por el Código Nacional de Procedimientos Penales, por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, por esta Ley y por la demás normativa aplicable, con la finalidad de salvaguardar sus derechos.
 
 ###### Artículo 9.
 
@@ -909,13 +917,15 @@ III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que cons
 
 ### CAPÍTULO I. DE LAS ÓRDENES DE PROTECCIÓN
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 42.
 
-Las órdenes de protección son los actos de protección y de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares. Deberán otorgarse por la autoridad competente, inmediatamente que conozca de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres, en los términos y condiciones de la Ley y bajo el procedimiento que establezca su reglamento.
+Las órdenes de protección son los actos de protección y de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares. Deberán otorgarse de oficio o a petición de parte, por la autoridad competente, inmediatamente que conozca de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres, en los términos y condiciones de la Ley y bajo el procedimiento que establezca su reglamento.
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+Las medidas de protección tienen como propósito prevenir, interrumpir o impedir la comisión de un delito o que se actualice un supuesto en materia civil o familiar que implique violencia contra las mujeres, a través de la emisión de una medida u orden de protección.
+
+En el caso en que el Ministerio Público o el Órgano Jurisdiccional competente consideren la existencia de extrema violencia y urgencia, podrán implementar de manera directa e inmediata las medidas de protección necesarias para salvaguardar la vida, integridad, libertad y seguridad de las víctimas, sin condicionarlas a la iniciación de una denuncia.
 
 En materia de violencia política contra las mujeres en razón de género, el Tribunal Electoral del Estado de Sinaloa y el Instituto Electoral del Estado de Sinaloa podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere el presente Capítulo.
 
@@ -941,39 +951,101 @@ En la emisión de medidas u órdenes de protección, las autoridades acatarán e
 
 Las órdenes de protección de emergencia y preventivas deberán expedirse en los términos de que para tal efecto dispone el Código Nacional de Procedimientos Penales y la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2016)</small>
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
 
-###### ARTÍCULO 44.
+Las órdenes de protección deberán expedirse de manera inmediata o a más tardar dentro de las 4 horas siguientes al conocimiento de los hechos que las generan. Tendrán una duración de hasta 60 días, prorrogables por 30 días más o por el tiempo que dure la investigación o prolongarse hasta que cese la situación de riesgo para la víctima.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 43 Bis.
+
+Las órdenes de protección se deberán dictar e implementar con base en los siguientes principios:
+
+I. Principio de accesibilidad: Se deberá articular un procedimiento sencillo para que facilite a las víctimas obtener la protección inmediata que requiere su situación.
+
+Tratándose de mujeres y niñas indígenas, la información proporcionada deberá ser en su lengua, mediante un formato pertinente y culturalmente adecuado. En el caso de mujeres o niñas con discapacidad, este principio debe incluir la accesibilidad al entorno físico y también a las comunicaciones, considerando los diferentes tipos de necesidades para los diversos tipos de discapacidades reconocidas.
+
+II. Principio de buena fe: Las autoridades, en todo momento, presumirán la buena fe de las víctimas en situación de riesgo o violencia y deberán creer en su narración de los hechos. Las personas servidoras públicas que intervengan con motivo del ejercicio de los derechos de las víctimas, no deberán revictimizarlas o hacerlas responsables de su situación. En todo momento deberán permitir el ejercicio efectivo de sus derechos.
+
+III. Principio de confidencialidad: Toda la información y actividad administrativa o jurisdiccional relacionada con el ámbito de protección de las personas, debe ser reservada para los fines de la investigación o del proceso respectivo.
+
+IV. Principio de integralidad: El otorgamiento de la medida a favor de la víctima deberé generarse en un solo acto y de forma automática.
+
+V. Principio de necesidad y proporcionalidad: Las órdenes de protección deben responder a la situación de violencia en que se encuentre la persona destinataria, y deben garantizar su seguridad o reducir los riesgos existentes.
+
+VI. Principio de oportunidad y eficacia: Las órdenes deben ser oportunas, específicas, adecuadas y eficientes para la protección de la víctima, y deben ser otorgadas e implementadas de manera inmediata y durante el tiempo que garanticen su objetivo.
+
+VII. Principio de protección: Considera primordial la vida, la integridad física, la libertad y la seguridad de las personas.
+
+VIII. Principio pro persona: Para interpretar lo referente al otorgamiento de las órdenes de protección, en caso de duda, con relación a la situación de violencia, se estará a lo más favorable para la víctima, tratándose de niñas siempre se garantizará que se cumpla en todas las decisiones que se tomen respecto de las órdenes de protección. De igual forma, cuando las determinaciones que se tomen respecto de una mujer víctima de violencia pudieran impactar en los derechos de las hijas o hijos menores de 18 años de edad.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
+
+Artículo 43 Bis A. Además de los principios establecidos en el artículo anterior, las autoridades competentes al emitir las órdenes de protección deberán incorporar la perspectiva intercultural, que el caso requiera, tomando en consideración, cuando menos, los siguientes elementos:
+
+I. El criterio de auto adscripción e identidad indígena, previsto en el artículo 2o de la Constitución Política de los Estados Unidos Mexicanos, por lo que no se deberán solicitar pruebas para acreditar dicha pertenencia;
+
+II. El nivel de castellanización o la lengua indígena de la niña, adolescente o mujer; y,
+
+III. La identificación de cualquier condición que obstaculice el acceso a las órdenes de protección.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
+
+Artículo 43 Bis B. Cuando una mujer, una adolescente o una niña víctima de violencia soliciten una orden de protección a la autoridad competente, se le deberá brindar toda la información disponible sobre el procedimiento relacionado con la propia orden.
+
+La autoridad deberá informar con un lenguaje claro, sencillo y empático a la mujer víctima de violencia sobre su derecho a solicitar las órdenes de protección, y evitará cualquier información tendiente a inhibir o desincentivar la solicitud.
+
+La autoridad deberá de realizar la medición y valoración del riesgo, la valoración médica en caso de requerirse, así como la valoración psicológica.
+
+Las autoridades competentes del Estado y de los Municipios, que reciban denuncias anónimas de mujeres, niñas y adolescentes víctimas de violencia, decretarán las órdenes de protección correspondientes.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
+
+Artículo 43 Bis C. Las autoridades facultadas para emitir órdenes de protección, realizarán las gestiones necesarias para garantizar su cumplimiento, monitoreo y ejecución. Para lo anterior se allegarán de los recursos materiales y humanos necesarios, asimismo podrán solicitar la colaboración de las autoridades competentes.
+
+Toda autoridad estatal o municipal en el Estado, tiene la estricta obligación de coadyuvar y colaborar, en el ámbito de sus atribuciones, con las autoridades que emitan órdenes de protección, con la finalidad de que éstas sean ejecutadas.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
+
+Artículo 43 Bis D. Quien en ejercicio de funciones públicas tenga conocimiento de la probable existencia de un hecho que la Ley señale como delito en contra de una niña, una adolescente o una mujer, está obligado a denunciarlo inmediatamente al Ministerio Público, proporcionándole todos los datos que tuviere, poniendo a su disposición a la persona imputada, si hubiere sido detenida en flagrancia.
+
+Quien tenga el deber jurídico de denunciar y no lo haga, será acreedor a las sanciones correspondientes.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 44.
 
 Son órdenes de protección de emergencia las siguientes:
 
 I. Auxilio inmediato a favor de la víctima, por las corporaciones de seguridad pública, con autorización expresa de ingreso al lugar donde se localice o se encuentre la víctima en el momento de solicitar el auxilio;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
-
-II. Desocupación inmediata por el agresor, del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aun en los casos de arrendamiento del mismo, a fin de garantizar la seguridad personal de la víctima;
+II. Desocupación inmediata por el agresor, del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aun en los casos de arrendamiento del mismo, a fin de garantizar la seguridad personal de la víctima y de su entorno familiar;
 
 III. La retención y guarda de armas de que hayan sido empleadas para amenazar o lesionar a la víctima;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
+IV. Vigilancia en el domicilio de la víctima;
 
-IV. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y de sus hijas e hijos;
+V. Prohibición de acercarse a la víctima;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
+VI. Prohibición para comunicarse, de manera presencial o a través de cualquier medio o tecnologías de la información y la comunicación, con la víctima;
 
-V. Prohibición inmediata al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
+VIl. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y de sus hijas e hijos;
 
-> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2016)</small>
+VIII. Prohibición inmediata al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
 
-VI. Reingreso de la víctima al domicilio, una vez que se salvaguarde de su seguridad;
+IX. Reingreso de la víctima al domicilio, una vez que se salvaguarde de su seguridad;
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2023)</small>
+X. Prohibición al probable responsable de intimidar o molestar de cualquier forma y por cualquier medio, incluidos los electrónicos, a la víctima, así como a cualquier integrante de su familia;
 
-VII. Prohibición al probable responsable de intimidar o molestar de cualquier forma y por cualquier medio, incluidos los electrónicos, a la víctima, así como a cualquier integrante de su familia; y,
+XI. Implementar medidas para evitar que se capten y/o se transmitan por cualquier medio o tecnologías de la información y la comunicación, imágenes de la mujer en situación de violencia que permitan su identificación o la de sus familiares. Tratándose de niñas hay una prohibición absoluta de transmitir datos e Imágenes que permitan su identificación;
 
-> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2016)</small>
+XII. La interrupción, bloqueo, destrucción o eliminación de imágenes, audios, videos de contenido sexual íntimo de una persona, sin su consentimiento de: medios impresos, redes sociales, plataforma digital o cualquier dispositivo o medio tecnológico;
 
-VIII. Las demás establecidas en otras disposiciones legales.
+XIII. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, vida, libertad y seguridad de la mujer y las víctimas indirectas en situación de violencia; y,
+
+XIV. Las demás establecidas en otras disposiciones legales.
+
+Las órdenes de protección contenidas en este artículo, serán tramitadas de oficio, por parte de las autoridades competentes, ante cualquier noticia, denuncia o reporte de hechos probablemente constitutivos de violencia contra las mujeres, y deberán ser cumplimentadas de manera inmediata. Para tal efecto, las corporaciones de seguridad pública del Estado y de los municipios tendrán la estricta obligación de coadyuvar y participar en la ejecución inmediata de dichas órdenes de protección.
 
 ###### Artículo 45.
 
@@ -993,9 +1065,15 @@ VI. El uso y goce de bienes muebles que se encuentren en el inmueble que sirva d
 
 VII. Acceso al domicilio en común, de autoridades policíacas o de personas que auxilien a la víctima a tomar sus pertenencias personales y las de sus hijas e hijos;
 
-VIII. Brindar servicios reeducativos integrales, especializados y gratuitos, con perspectiva de género al agresor en instituciones públicas debidamente acreditadas; y,
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2023)</small>
 
-IX. Las demás establecidas en otras disposiciones legales.
+VIII. Brindar servicios reeducativos integrales, especializados y gratuitos, con perspectiva de género al agresor en instituciones públicas debidamente acreditadas;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2023)</small>
+
+IX. La reserva del domicilio, lugar de trabajo, profesión o cualquier otro dato que permita que a la persona agresora o su familia puedan ubicar a la víctima; y,
+
+X. Las demás establecidas en otras disposiciones legales.
 
 ###### Artículo 46.
 
@@ -1039,9 +1117,37 @@ III. Mujeres menores de edad;
 
 IV. Mujeres que tengan calidad de migrantes;
 
-V. Mujeres que pertenezcan a un grupo indígena; y
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2023)</small>
 
-VI. Mujeres con cualquier factor especial de vulnerabilidad.
+V. Mujeres que pertenezcan a un grupo indígena;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2023)</small>
+
+VI. Mujeres con cualquier factor especial de vulnerabilidad; y,
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2023)</small>
+
+VII. Mujeres víctimas de violencia feminicida.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 48 Bis.
+
+La tramitación y otorgamiento de una orden de protección podrá contener una o varias medidas, atendiendo al principio de integralidad. No se necesita una orden para cada medida, una sola orden de protección podrá concentrar el número de medidas necesarias para garantizar la seguridad y bienestar de la mujer en situación de violencia y en su caso de las víctimas indirectas.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
+
+Artículo 48 Bis A. Durante los primeros seis días posteriores a la implementación de las órdenes, la autoridad que la emitió mantendrá contacto directo con la mujer víctima de violencia cada 24 horas. A partir del séptimo día, se establecerá un plan de seguimiento personalizado, de acuerdo a las circunstancias, la valoración del riesgo y el avance en la carpeta de investigación.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
+
+Artículo 48 Bis B. La Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado, deberán solicitar las órdenes de protección a las autoridades correspondientes de manera oficiosa de conformidad con las disposiciones normativas aplicables.
+
+Cuando la violencia contra las mujeres o niñas y adolescentes, involucre a niños, se les dará igual protección en los términos de esta Ley, la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado, y lo conducente a la Ley de Atención y Protección a Víctimas del Estado.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
+
+Artículo 48 Bis C. En caso de que la persona agresora incumpla la orden de protección, se emitirán las medidas de apremio conforme a la legislación aplicable. Asimismo, se reforzarán las acciones que se contemplaron en un primer momento con la finalidad de salvaguardar la vida y seguridad de las mujeres, adolescentes y niñas.
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
 
@@ -1466,3 +1572,19 @@ SEGUNDO. Las Reglas de Operación del Programa "Apoyo Económico para Hijas e Hi
 La Secretaría de las Mujeres expedirá las normas a las que deberá sujetarse el apoyo económico a niñas, niños y adolescentes hijas e hijos de mujeres víctimas de feminicidio, que deberán entrar en vigor el día 1° de enero de 2024.
 
 TERCERO. El Poder Ejecutivo y el Congreso del Estado de Sinaloa realizarán las acciones necesarias para asignar una partida presupuestaria en la Ley de Ingresos y Presupuesto de Egresos de cada ejercicio fiscal, a fin de garantizar la entrega del apoyo económico a que se refiere el presente Decreto.
+
+P.O. 14 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 639 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo no mayor a los treinta días naturales siguientes a la entrada en vigor del presente Decreto todas las autoridades y entes públicos vinculados con el cumplimiento de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sinaloa, deberán realizar las adecuaciones correspondientes a su normatividad interna, con la finalidad de armonizarla conforme al presente Decreto.
