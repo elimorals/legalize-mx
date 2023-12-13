@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-servicio-de-medicina-preventiva-en-el-38581"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-21"
-last_updated: "2013-05-10"
+last_updated: "2023-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38581&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-04-19"
 
 REGLAMENTO DEL SERVICIO DE MEDICINA PREVENTIVA EN EL TRANSPORTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE DICIEMBRE DE 2023.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 21 de abril de 2004.
 
@@ -33,19 +33,21 @@ REGLAMENTO DEL SERVICIO DE MEDICINA PREVENTIVA EN EL TRANSPORTE
 
 ### CAPÍTULO I. Disposiciones Generales
 
-> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 1.
 
-El presente ordenamiento es de interés público, de observancia obligatoria y tiene por objeto regular el servicio de medicina preventiva en el transporte, a través de la práctica de los exámenes psicofísico integral, médico en operación y toxicológico, para la expedición de los dictámenes y constancias correspondientes al personal de nacionalidad mexicana o extranjera que en las vías generales de comunicación intervenga en la operación y/o conducción y/o auxilio de los diversos modos de transporte federal y sus servicios auxiliares.
+El presente ordenamiento es de interés público y de observancia obligatoria, y tiene por objeto regular el servicio de medicina preventiva en el transporte terrestre, a través de la práctica de los exámenes psicofísico integral, médico en operación y toxicológico, para la expedición de los dictámenes y constancias correspondientes al personal de nacionalidad mexicana o extranjera que en las vías generales de comunicación intervenga en la operación, conducción y auxilio del respectivo modo de transporte terrestre federal y sus servicios auxiliares.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 2.
 
-Además de las definiciones específicas establecidas en los distintos ordenamientos aplicables para cada modo de transporte y sus servicios auxiliares, para los efectos de este Reglamento, se entenderá por:
+Para efectos de este reglamento, además de las definiciones previstas en los distintos ordenamientos aplicables para el respectivo modo de transporte terrestre federal y sus servicios auxiliares, se entiende por:
 
-> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-I. Accidente de Transporte: Hecho fortuito e inesperado ocasionado por un vehículo, de cualquier modo de transporte federal y sus servicios auxiliares, que al ser conducido en una vía general de comunicación tiene un percance de cualquier naturaleza, produciendo daños a los tripulantes, pasajeros o terceros en sus personas, así como, en su caso, daños materiales a otros vehículos, a las vías generales de comunicación, al mismo vehículo o a bienes de terceros;
+I. Accidente de transporte: Hecho fortuito e inesperado ocasionado por un vehículo, de cualquier modo de transporte terrestre federal y sus servicios auxiliares, que al ser conducido en una vía general de comunicación tiene un percance de cualquier naturaleza, que produzca daños a las personas tripulantes, pasajeras o terceras en sus cuerpos, así como, en su caso, daños materiales a otros vehículos, a las vías generales de comunicación, al mismo vehículo o a bienes de personas terceras;
 
 > <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -55,17 +57,17 @@ II. Aptitud psicofísica: Es el conjunto de condiciones psicológicas y físicas
 
 III. Autorización: Documento a través del cual la Dirección, faculta a una persona física o moral con el carácter de tercero autorizado, para que realice el examen psicofísico integral y el examen toxicológico al personal;
 
-> <small>(ADICIONADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-III bis. Catálogo de aptos: Es la relación que tiene la Dirección sobre el personal que fue examinado y cuenta con la aptitud psicofísica para la operación, conducción o auxilio de los diversos modos de transporte federal y sus servicios auxiliares;
+III bis. Catálogo de personal apto: Es la relación que tiene la Dirección sobre el personal que fue examinado y cuenta con la aptitud psicofísica para la operación, conducción y auxilio del respectivo modo de transporte terrestre federal y sus servicios auxiliares;
 
-> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-IV. Concesionario y/o permisionario: Es la persona física o moral autorizada para prestar servicios de transporte federal y/o sus servicios auxiliares en las vías generales de comunicación, el cual es obligado y responsable solidario de vigilar que el personal a su cargo cumpla, para el desarrollo de sus funciones, con las obligaciones que derivan del presente Reglamento, y demás disposiciones aplicables;
+IV. Concesionaria o permisionaria: Es la persona física o moral autorizada para prestar servicios de transporte terrestre federal y sus servicios auxiliares en las vías generales de comunicación, el cual es obligada y responsable solidaria de vigilar que el personal a su cargo cumpla, para el desarrollo de sus funciones, con las obligaciones que derivan del Reglamento, y demás disposiciones jurídicas aplicables;
 
-> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-V. Constancia de aptitud psicofísica: Es el documento que expide la Dirección, después de obtener el dictamen de aptitud psicofísica, por el que autoriza, en su caso, al personal, desde el punto de vista médico, a intervenir en la operación, conducción o auxilio de algún modo de transporte federal y sus servicios auxiliares;
+V. Constancia de aptitud psicofísica: Es el documento que expide la Dirección, después de obtener el dictamen de aptitud psicofísica, por el que autoriza, en su caso, al personal, desde el punto de vista médico, a intervenir en la operación, conducción o auxilio de algún modo de transporte terrestre federal y sus servicios auxiliares;
 
 > <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -79,9 +81,9 @@ VII. Dictamen de no aptitud psicofísica: Es la opinión médica que emite la Di
 
 VIII. Dirección: Es la Dirección General de Protección y Medicina Preventiva en el Transporte;
 
-> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-IX. Examen médico en operación: Es el conjunto de estudios médicos que practica la Dirección, con el propósito de evaluar el estado de salud del personal, durante sus labores en las vías generales de comunicación, con la finalidad de dictaminar si está en aptitud, desde el punto de vista médico, de realizar o continuar con sus actividades;
+IX. Examen médico en operación: Es el conjunto de estudios médicos que practica la Dirección para evaluar el estado de salud del personal, durante sus labores en las vías generales de comunicación en el respectivo modo de transporte terrestre federal, con la finalidad de dictaminar si está en aptitud, desde el punto de vista médico, de realizar o continuar con sus actividades;
 
 > <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -91,29 +93,27 @@ X. Examen psicofísico integral: Es el conjunto de estudios clínicos, de labora
 
 XI. Examen toxicológico: Es el estudio químico, analítico y clínico, que se practica por la Dirección o por el tercero autorizado al personal, para determinar la ingestión de bebidas alcohólicas, detección de sustancias psicotrópicas, estupefacientes incluyendo medicamentos con este efecto y de todos aquellos fármacos que, con evidencia médica, alteren o puedan alterar la capacidad para el desarrollo de sus actividades;
 
-> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-XII. Incidente de transporte: Es el hecho o suceso fortuito e inesperado, que sobreviene durante la operación de cualquier modo de transporte federal y sus servicios auxiliares, que sin llegar a ser accidente de transporte afecta o puede afectar la seguridad en las vías generales de comunicación;
+XII. Incidente de transporte: Es el hecho o suceso fortuito e inesperado, que sobreviene durante la operación de cualquier modo de transporte terrestre federal y sus servicios auxiliares, que sin llegar a ser accidente de transporte afecta o puede afectar la seguridad en las vías generales de comunicación;
 
-> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-XIII. Licencia Federal, Titulo, Certificado, Libreta de Mar y de Identidad Marítima: Es el documento expedido por la Secretaría para que el personal pueda realizar la operación, conducción y/o auxilio de algún modo de transporte federal y sus servicios auxiliares en vías generales de comunicación, siempre y cuando se hayan cumplido los requisitos correspondientes;
+XIII. Licencia federal: Es el documento expedido por la Secretaría para que el personal pueda realizar la operación, conducción y auxilio del respectivo modo de transporte terrestre federal y sus servicios auxiliares en vías generales de comunicación, siempre y cuando se hayan cumplido los requisitos correspondientes;
 
-> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-XIV. Modo de Transporte Federal: Es el transporte que se realiza en las vías generales de comunicación por tierra, aire y agua;
+XIV. Modo de transporte terrestre federal: Es el transporte que se realiza en las vías generales de comunicación, a través de caminos y puentes, así como por ferrocarril, competencia de la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-XV. No Aptitud Psicofísica: Es la carencia o pérdida de la aptitud psicofísica caracterizada por la presencia de alteraciones orgánico-funcionales establecidas en el requisito médico correspondiente a cada modo de transporte federal y sus servicios auxiliares, detectada a través de los exámenes previstos en el presente Reglamento al personal y que lo imposibilita para realizar la operación, conducción y/o auxilio de los diversos modos de transporte federal y sus servicios auxiliares;
+XV. No aptitud psicofísica: Es la carencia o pérdida de la aptitud psicofísica caracterizada por la presencia de alteraciones orgánico-funcionales establecidas en el requisito médico correspondiente a cada modo de transporte terrestre federal y sus servicios auxiliares, detectada al personal a través de los exámenes médicos previstos en el Reglamento y que lo imposibilita para realizar la operación, conducción y auxilio del respectivo modo de transporte terrestre federal y sus servicios auxiliares;
 
-> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+XVI. (DEROGADA, D.O.F. 13 DE DICIEMBRE DE 2023)
 
-XVI. Operador aéreo: Es el propietario o poseedor de una aeronave de Estado, de las comprendidas en el artículo 5, fracción II, inciso a) de la Ley de Aviación Civil, así como de transporte aéreo privado no comercial, mexicana o extranjera, el cual es obligado y responsable solidario de vigilar que el personal a su cargo, cumpla con las disposiciones contenidas en el presente Reglamento;
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
-
-XVII. Personal: Es el técnico aeronáutico, el técnico de la marina mercante, el operador, conductor o auxiliar de los servicios de transporte federal y sus servicios auxiliares, que interviene en la operación, conducción o auxilio de los diversos modos de transporte federal y sus servicios auxiliares;
+XVII. Personal: Es la persona técnica en los modos de transporte terrestre federal y sus servicios auxiliares competencia de la Secretaría en términos de la normatividad aplicable;
 
 XVIII. Reglamento: Es el Reglamento del Servicio de Medicina Preventiva en el Transporte;
 
@@ -121,7 +121,9 @@ XVIII. Reglamento: Es el Reglamento del Servicio de Medicina Preventiva en el Tr
 
 XVIII bis. Requisito Médico: Es el documento que establece las condiciones psicofísicas obligatorias e indispensables y las posibles alteraciones orgánico-funcionales que se tomarán en cuenta para practicar los exámenes psicofísico integral, médico en operación y toxicológico, con el objeto de dictaminar la aptitud psicofísica o no aptitud psicofísica del personal;
 
-XIX. Secretaría: Es la Secretaría de Comunicaciones y Transportes;
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
+
+XIX. Secretaría: Es la Secretaría de Infraestructura, Comunicaciones y Transportes;
 
 > <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -143,9 +145,9 @@ XXI. Unidades Médicas: Son los centros de atención médica establecidos por la
 
 Corresponde a la Secretaría la aplicación e interpretación del presente Reglamento.
 
-> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-Los exámenes a que se refiere este Reglamento se practicarán al personal que deba contar con Licencia Federal, Título, Certificado o Libreta de Mar y de Identidad Marítima, en términos de las disposiciones aplicables.
+Los exámenes a que se refiere el Reglamento deben practicarse al personal que deba contar con licencia federal, en términos de las disposiciones jurídicas aplicables.
 
 ###### Artículo 4.
 
@@ -165,15 +167,23 @@ Corresponde a la Dirección:
 
 I. Practicar los exámenes psicofísico integral, toxicológico y médico en operación, emitir constancias y dictámenes de aptitud psicofísica o no aptitud psicofísica;
 
-II. Expedir los requisitos médicos para cada modo de transporte federal a que se refiere el artículo 2, fracción XVIII bis de este Reglamento y publicarlos en el Diario Oficial de la Federación;
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-III. Aplicar, conforme al requisito médico que corresponda para cada modo de transporte federal, los estudios y exámenes para determinar las condiciones psicofísicas y las posibles alteraciones orgánico funcionales concluyentes del personal y, en su caso, dar a conocer sus resultados en términos de este Reglamento;
+II. Expedir los requisitos médicos para cada modo de transporte terrestre federal a que se refiere el artículo 2, fracción XVIII bis, del Reglamento y publicarlos en el Diario Oficial de la Federación;
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
+
+III. Aplicar, conforme al requisito médico que corresponda para cada modo de transporte terrestre federal, los estudios y exámenes para determinar las condiciones psicofísicas y las posibles alteraciones orgánico funcionales concluyentes del personal y, en su caso, dar a conocer sus resultados en términos del Reglamento;
 
 IV. Integrar y mantener actualizado un padrón del personal, utilizando para ello la documentación e información de que se disponga, así como aquella a la que está obligado a proporcionar directamente el tercero autorizado;
 
-V. Atender las quejas y sugerencias que el concesionario, permisionario u operador aéreo y el personal, presenten con relación a la prestación del Servicio de Medicina Preventiva en el Transporte por los terceros autorizados;
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-VI. Emitir la autorización a terceros, para realizar exámenes psicofísicos integrales y toxicológicos;
+V. Atender las quejas y sugerencias que las personas concesionarias y permisionarias y el personal presenten con relación a la prestación del servicio de medicina preventiva en el transporte por las personas terceras autorizadas;
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
+
+VI. Emitir la autorización a personas terceras para que realicen exámenes psicofísicos integrales y toxicológicos al personal de cada modo de transporte terrestre federal;
 
 VII. Verificar que los terceros autorizados cumplan con las condiciones, términos y plazos establecidos en el presente Reglamento y demás disposiciones aplicables;
 
@@ -265,9 +275,9 @@ X. (DEROGADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)
 
 La Dirección o el tercero autorizado podrán practicar al personal exámenes complementarios incluyendo el examen toxicológico, cuando lo consideren necesario para emitir o ratificar el dictamen respectivo, fundándose en la evidencia médica que soporte su determinación.
 
-> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-De acuerdo a la evaluación médica la Dirección o el tercero autorizado, el médico examinador y/o médico dictaminador, podrán omitir, limitar o extender la exploración a los órganos y sistemas que se estime afectados, tomando como referencia las causas de no aptitud contenidas en los requisitos médicos del modo de transporte federal que corresponda.
+De acuerdo con la evaluación médica, la Dirección o la persona tercera autorizada, las personas médicas examinadoras y médicas dictaminadoras pueden omitir, limitar o extender la exploración a los órganos y sistemas que se estimen afectados, tomando como referencia las causas de no aptitud contenidas en los requisitos médicos del modo de transporte terrestre federal que corresponda.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -275,9 +285,9 @@ De acuerdo a la evaluación médica la Dirección o el tercero autorizado, el m�
 
 La práctica del examen psicofísico integral se llevará a cabo en los siguientes casos:
 
-> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-I. Para obtener, renovar, revalidar o recuperar la Licencia Federal, Título, Certificado o Libreta de Mar y de Identidad Marítima, así como los permisos que expide la Secretaría para cada modo de transporte federal y sus servicios auxiliares;
+I. Para obtener, renovar, revalidar o recuperar la licencia federal, así como los permisos que expide la Secretaría para cada modo de transporte terrestre federal y
 
 > <small>(ADICIONADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -289,9 +299,9 @@ II. Al detectarse cualquier alteración psicofísica;
 
 III. Después de ocurrir un accidente o incidente de transporte en el que participe el personal. En estos casos, la práctica del examen psicofísico integral se llevará a cabo sólo por la Dirección, en términos de lo previsto en el capítulo V del Reglamento;
 
-> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-IV. Cuando el personal, el concesionario, permisionario u operador aéreo, soliciten la revaloración a que se refiere el artículo 24 de este Reglamento, y
+IV. Cuando el personal y las personas concesionarias y permisionarias soliciten la revaloración a que se refiere el artículo 24 del Reglamento, y
 
 > <small>(ADICIONADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -311,11 +321,11 @@ Se emitirá dictamen de no aptitud psicofísica al personal que no reúna las co
 
 Es facultad exclusiva de la Secretaría, por conducto de la Dirección, practicar el examen médico en operación.
 
-> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 14.
 
-Para la práctica del examen médico en operación, el personal deberá invariablemente identificarse ante la Dirección, con el original de la Licencia Federal, Título, Certificado o Libreta de Mar y de Identidad Marítima vigente, al momento de la práctica de este examen.
+Para la práctica del examen médico en operación, el personal debe invariablemente identificarse ante la Dirección con el original de la licencia federal vigente, al momento de la práctica de este examen.
 
 ###### Artículo 15.
 
@@ -351,9 +361,9 @@ VIII. Valoración de signos de cansancio.
 
 La Dirección podrá practicar al personal exámenes complementarios incluyendo el examen toxicológico cuando lo considere necesario para emitir el dictamen respectivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-Artículo 15 bis.- En caso de que el personal se niegue a que se le realice el examen médico en operación o los exámenes complementarios incluyendo el examen toxicológico, la Dirección procederá a dejar sin efecto la constancia de aptitud psicofísica y notificará a la autoridad que expidió la Licencia Federal, Título, Certificado o Libreta de Mar y de Identidad Marítima, para los efectos a que haya lugar.
+Artículo 15 bis.- En caso de que el personal se niegue a que se le realice el examen médico en operación y los exámenes complementarios incluyendo el examen toxicológico, la Dirección debe proceder a dejar sin efecto la constancia de aptitud psicofísica y notificará a la autoridad que expidió la licencia federal, para los efectos a que haya lugar.
 
 > <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -381,15 +391,15 @@ b) Al detectarse cualquier alteración psicofísica o bajo sospecha de ingestió
 
 c) Cuando lo establezcan los Tratados o Convenios Internacionales en los que los Estados Unidos Mexicanos sean parte.
 
-> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 17.
 
-Se emitirá dictamen de no aptitud psicofísica al personal que resulte positivo al consumo de sustancias psicotrópicas y estupefacientes, incluyendo medicamentos con este efecto o de todos aquellos fármacos cuyo uso esté prohibido en términos de la normatividad de salud, o afecte su capacidad para desarrollar su labor o por ingestión de bebidas alcohólicas. La Dirección notificará a la autoridad que expidió la Licencia Federal, Título, Certificado o Libreta de Mar y de Identidad Marítima, para los efectos a que haya lugar.
+Se debe emitir el dictamen de no aptitud psicofísica al personal que resulte positivo al consumo de sustancias psicotrópicas y estupefacientes, incluidos medicamentos con este efecto o de todos aquellos fármacos cuyo uso esté prohibido en términos de la normatividad de salud, o afecte su capacidad para desarrollar su labor o por ingestión de bebidas alcohólicas. La Dirección notificará esta situación a la autoridad que expidió la licencia federal, para los efectos a que haya lugar.
 
-> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-Artículo 17 bis.- Se emitirá dictamen de no aptitud psicofísica al personal que se niegue a realizar el examen toxicológico, por lo que no podrá realizar las actividades conferidas por la Licencia Federal, Título, Certificado o Libreta de Mar y de Identidad Marítima, hasta en tanto se le practique un examen psicofísico integral y toxicológico por la Dirección o el tercero autorizado, estando a lo dispuesto en el Capítulo III de este Reglamento.
+Artículo 17 bis.- Se debe emitir el dictamen de no aptitud psicofísica al personal que se niegue a realizar el examen toxicológico, por lo que no podrá realizar las actividades conferidas por la licencia federal, hasta en tanto se le practique un examen psicofísico integral y toxicológico por la Dirección o la persona tercera autorizada, conforme a lo dispuesto en el Capítulo III del Reglamento.
 
 #### SECCIÓN IV. De la Constancia
 
@@ -411,21 +421,21 @@ La Secretaría, por conducto de la Dirección, podrá expedir copias certificada
 
 El personal que para obtener la constancia de aptitud psicofísica requiera del uso obligatorio de aparatos auxiliares o prótesis, deberá utilizarlos y mantenerlos en óptimas condiciones de funcionamiento durante el desempeño de sus actividades.
 
-> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 21.
 
-El personal deberá acreditar su aptitud psicofísica presentando original o copia certificada de su constancia, al efectuar los trámites para obtener, renovar, revalidar o recuperar la Licencia Federal, Título, Certificado o Libreta de Mar y de Identidad Marítima, así como los permisos que expide la Secretaría para cada modo de transporte federal y sus servicios auxiliares.
+El personal debe acreditar su aptitud psicofísica con el original o copia certificada de su constancia, al efectuar los trámites para obtener, renovar, revalidar o recuperar la licencia federal, así como los permisos que expide la Secretaría para cada modo de transporte terrestre federal y sus servicios auxiliares.
 
-> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 22.
 
-La constancia de aptitud psicofísica tendrá una vigencia de 90 días naturales, contados a partir de la fecha de su expedición para efectos de que el personal obtenga o renueve la Licencia Federal o Título, Certificado o Libreta de Mar y de Identidad Marítima.
+La constancia de aptitud psicofísica tiene una vigencia de 90 días naturales, contada a partir de la fecha de su expedición para efectos de que el personal obtenga o renueve la licencia federal.
 
-Si concluida la vigencia de la constancia a que se refiere el párrafo anterior, el personal no obtiene, renueva, revalida o recupera la Licencia Federal, Título, Certificado o Libreta de Mar y de Identidad Marítima, así como los permisos que expide la Secretaría para cada modo de transporte federal y sus servicios auxiliares, deberá practicarse otra vez el examen respectivo y efectuar nuevamente el pago correspondiente.
+Si concluida la vigencia de la constancia a que se refiere el párrafo anterior, el personal no obtiene, renueva, revalida o recupera la licencia federal, así como los permisos que expide la Secretaría para cada modo de transporte terrestre federal y sus servicios auxiliares, deberá practicarse otra vez el examen respectivo y efectuar nuevamente el pago correspondiente.
 
-El personal deberá portar durante todo el tiempo que lleve a cabo sus funciones en las vías generales de comunicación, el original o copia certificada de la constancia de aptitud psicofísica en los términos que señalen los requisitos médicos para cada modo de transporte que emita la Dirección.
+El personal debe portar durante todo el tiempo que lleve a cabo sus funciones en las vías generales de comunicación, el original o copia certificada de la constancia de aptitud psicofísica en los términos que señalen los requisitos médicos para cada modo de transporte terrestre que emita la Dirección.
 
 ### CAPÍTULO III. De la Revaloración
 
@@ -459,9 +469,9 @@ Si la no aptitud psicofísica del personal fue dictaminada por consumo de sustan
 
 I. Que su condición psicofísica, no tiene relación con el consumo de sustancias psicotrópicas o estupefacientes, o por ingestión de bebidas alcohólicas;
 
-> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-II. Que podrá ejercer sus funciones sin riesgo alguno en las vías generales de comunicación, o en su caso, y
+II. Que puede ejercer sus funciones sin riesgo alguno en las vías generales de comunicación, en el respectivo modo de transporte terrestre federal, y
 
 > <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -471,15 +481,17 @@ III. Que ha sido rehabilitado completamente en el consumo de sustancias psicotr�
 
 El personal que hubiere obtenido la constancia de aptitud psicofísica derivada de la revaloración prevista en el presente artículo y que, con base en nuevos exámenes, resulte positivo al consumo de sustancias psicotrópicas, estupefacientes, incluyendo medicamentos con este efecto, en términos de la normatividad en salud, o por ingestión de bebidas alcohólicas, no tendrá derecho a otra revaloración en un término de tres años.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-### CAPÍTULO IV. Del catálogo de Aptos
+### CAPÍTULO IV. Del Catálogo de Personal Apto
 
-> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 28.
 
-El catálogo de aptos podrá ser consultado por el público en general y la información contenida en el mismo estará clasificada en términos de las disposiciones de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental. Dicha información contendrá por lo menos: número de expediente clínico, modo de transporte, categoría, resultado de la aptitud, vigencia y unidad médica responsable.
+El catálogo de personal apto puede ser consultado por el público en general y la información contenida en dicho catálogo debe estar clasificada en términos de las disposiciones de la Ley Federal de Transparencia y Acceso a la Información Pública y demás ordenamientos aplicables. Dicha información debe contener por lo menos: número de expediente clínico, modo de transporte terrestre federal, categoría, resultado de la aptitud, vigencia y unidad médica responsable.
+
+> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
 La omisión del registro en el sistema o el mal uso de la información por los servidores públicos de la Secretaría o el tercero autorizado darán lugar a la aplicación de las sanciones civiles y penales procedentes conforme a derecho, incluyendo, en su caso, las administrativas.
 
@@ -513,11 +525,11 @@ La investigación que realice la Dirección a que se refiere el artículo anteri
 
 Los resultados parciales o totales, documentos, información escrita, visual o de otra índole que se genere como resultado de los trabajos de la investigación de un accidente o incidente en el transporte, se clasificará conforme a las disposiciones legales correspondientes y solamente podrá ser proporcionada a la autoridad competente que lo solicite.
 
-> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 34.
 
-El concesionario o permisionario u operador aéreo, dará las facilidades necesarias al personal adscrito a la Dirección, para realizar la investigación de cualquier accidente o incidente en el transporte, a que se refiere este Capítulo.
+La persona concesionaria o permisionaria debe dar las facilidades necesarias al personal adscrito a la Dirección, para realizar la investigación de cualquier accidente o incidente en el transporte a que se refiere este capítulo.
 
 > <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -525,55 +537,67 @@ El concesionario o permisionario u operador aéreo, dará las facilidades necesa
 
 La Dirección se coordinará con las autoridades competentes, para realizar los exámenes correspondientes y tomar las muestras biológicas para los estudios histopatológicos, toxicológicos y complementarios al personal implicado en un accidente o incidente en el transporte en el lugar de los hechos o en el lugar al que fuera trasladado.
 
-> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 36.
 
-En los casos en que el personal esté implicado en un accidente o incidente de transporte, el concesionario o permisionario u operador aéreo a cuyo servicio se encuentre dicho personal, deberá informar del hecho a la Dirección o a alguna de sus unidades médicas, en un término de veinticuatro horas contadas a partir de ocurrido el accidente o incidente de transporte o del momento en que tenga conocimiento del mismo.
+En los casos en que el personal esté implicado en un accidente o incidente de transporte, la persona concesionaria o permisionaria, a cuyo servicio se encuentre dicho personal, debe informar del hecho a la Dirección o a alguna de sus unidades médicas, en un término de veinticuatro horas contado a partir de ocurrido el accidente o incidente de transporte o del momento en que tenga conocimiento de dicho accidente o incidente.
 
-En ese mismo plazo, el concesionario o permisionario u operador aéreo deberá presentar a dicho personal, si su estado de salud lo permite, y en caso contrario, el día siguiente al que sea dado de alta por la instancia médica correspondiente, a fin de que la Dirección le practique el examen psicofísico integral y examen toxicológico para dictaminar sobre su aptitud psicofísica.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
+
+En esas mismas veinticuatro horas, la persona concesionaria o permisionaria debe presentar a dicho personal, si su estado de salud lo permite, y en caso contrario, el día siguiente al que sea dado de alta por la instancia médica correspondiente, a fin de que la Dirección le practique el examen psicofísico integral y examen toxicológico para dictaminar sobre su aptitud psicofísica.
+
+> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
 En caso de no presentarse en el plazo señalado será dictaminado como no apto, hasta en tanto se practique un examen psicofísico integral.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-### CAPÍTULO VI. De la Responsabilidad Solidaria del Concesionario o Permisionario u Operador Aéreo
+### CAPÍTULO VI. De la Responsabilidad Solidaria de la Persona Concesionaria o Permisionaria
 
-> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 37.
 
-El concesionario o permisionario u operador aéreo, será solidariamente responsable con el personal por incumplimiento a las disposiciones previstas en el presente Reglamento y en la normatividad aplicable en la materia.
+La persona concesionaria o permisionaria es solidariamente responsable con el personal por incumplimiento a las disposiciones previstas en el Reglamento y en la normatividad aplicable.
 
-> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-Artículo 37 bis.- Con la finalidad de garantizar la seguridad operacional en las vías generales de comunicación, el concesionario o permisionario u operador aéreo, instrumentará aleatoriamente, un programa de prevención de consumo de drogas y alcohol que incluya:
+Artículo 37 bis.- Con la finalidad de garantizar la seguridad operacional en las vías generales de comunicación, de los respectivos modo (sic) de transporte terrestre federal, la persona concesionaria o permisionaria debe instrumentar aleatoriamente un programa de prevención de consumo de drogas y alcohol que incluya:
+
+> <small>(ADICIONADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
 I. Un examen toxicológico al cincuenta por ciento de su personal cuando menos cada doce meses, y
 
-II. Una determinación de alcohol en aliento al cincuenta por ciento de su personal por lo menos cada seis meses.
+> <small>(ADICIONADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
-Estos exámenes podrán realizarse indistintamente por la Dirección o por el tercero autorizado.
+II. Una determinación de alcohol en aliento al cincuenta por ciento de su personal por lo menos cada seis meses.
 
 > <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
-Artículo 37 ter.- El concesionario o permisionario u operador aéreo están obligados a poner a disposición de la Dirección, la información del resultado de los exámenes que se refieren en el artículo anterior, cuando hayan sido practicados por el tercero autorizado.
+Estos exámenes podrán realizarse indistintamente por la Dirección o por el tercero autorizado.
 
-Adicionalmente a lo establecido en el programa a que se refiere el artículo anterior, el concesionario o permisionario u operador aéreo podrán solicitar a la Dirección o al tercero autorizado, la realización del examen toxicológico y de detección de alcohol en aliento al personal cuando exista sospecha fundada de consumo.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+Artículo 37 ter.- La persona concesionaria o permisionaria está obligada a poner a disposición de la Dirección la información del resultado de los exámenes a que se refiere el artículo anterior, cuando hayan sido practicados por una persona tercera autorizada.
+
+Adicionalmente a lo establecido en el programa a que se refiere el artículo anterior, la persona concesionaria o permisionaria puede solicitar a la Dirección o a la persona tercera autorizada, la realización del examen toxicológico y de detección de alcohol en aliento al personal cuando exista sospecha fundada de consumo.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 38.
 
-En todos los casos en que el concesionario o permisionario u operador aéreo, tuviese conocimiento de una alteración física o mental del personal a su servicio, deberá comunicarlo en un término no mayor a dos días hábiles a la Dirección o unidad médica correspondiente, a fin de que la Dirección practique el examen psicofísico integral.
+En todos los casos en que la persona concesionaria o permisionaria tenga conocimiento de una alteración física o mental del personal a su servicio debe comunicarlo, dentro de los dos días hábiles siguientes a la Dirección o unidad médica correspondiente, a fin de que la Dirección practique el examen psicofísico integral.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 39.
 
-Es obligación del concesionario o permisionario u operador aéreo integrar y mantener actualizado un expediente individual del personal a su servicio, mismo que deberá contener, entre otros, los siguientes documentos:
+Es obligación de la persona concesionaria o permisionaria integrar y mantener actualizado un expediente individual del personal a su servicio, el cual debe contener, entre otros, los documentos siguientes:
 
-I. Copia de la Licencia Federal, Título, Certificado o Libreta de Mar y de Identidad Marítima vigente;
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
+
+I. Copia de la licencia federal vigente;
 
 > <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -589,11 +613,11 @@ IV. Resultados de los exámenes toxicológicos y de detección de alcohol en ali
 
 Los expedientes deberán estar a disposición de la Dirección cuando así lo requiera.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 40.
 
-El concesionario o permisionario u operador aéreo dentro de los primeros 30 días naturales de cada año, remitirá a la Dirección una relación del personal a su servicio, misma que deberá contener los siguientes datos:
+La persona concesionaria o permisionaria, dentro de los primeros 30 días naturales de cada año, debe remitir a la Dirección una relación del personal a su servicio, la cual debe contener los datos siguientes:
 
 I. Nombre completo;
 
@@ -609,13 +633,13 @@ V. Domicilio;
 
 VI. (DEROGADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)
 
-> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-VII. Número de Licencia Federal, Título, Certificado o Libreta de Mar y de Identidad Marítima;
+VII. Número de licencia federal;
 
-> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-VIII. Labor que desempeña y fecha de vencimiento de la Licencia Federal, Título, Certificado o Libreta de Mar y de Identidad Marítima, así como los permisos que expide la Secretaría para cada modo de transporte federal y sus servicios auxiliares, y
+VIII. Labor que desempeña y fecha de vencimiento de la licencia federal, así como los permisos que expide la Secretaría para cada modo de transporte terrestre federal y sus servicios auxiliares, y
 
 > <small>(ADICIONADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -683,23 +707,29 @@ I. Contar con las instalaciones adecuadas para las tomas de muestra, y
 
 II. Contar con técnicos autorizados por la Dirección para toma de muestras.
 
-> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 44.
 
-La solicitud para prestar los servicios de médico o paramédico examinador deberá ser presentada por persona física y estar acompañada de:
+La solicitud para prestar los servicios de (sic) persona médica, persona médica dictaminadora o persona paramédica examinadora debe ser presentada por persona física y anexarse lo siguiente:
+
+> <small>(ADICIONADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
 I. Original y copia del acta de nacimiento o de la carta de naturalización, o para el caso de extranjeros la forma migratoria correspondiente;
 
-> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-II. Copia de la credencial para votar expedida por el Instituto Federal Electoral, de la cartilla de identificación del Servicio Militar liberada, del pasaporte vigente o de la cédula de identidad ciudadana;
+II. Copia de la credencial para votar expedida por el Instituto Nacional Electoral, de la cartilla de identificación del Servicio Militar liberada, del pasaporte vigente o de la cédula de identidad ciudadana;
+
+> <small>(ADICIONADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
 III. Copia de cédula profesional que lo acredite como personal de salud en la disciplina que lo autorice para el servicio que solicite;
 
-> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-IV. Acreditación de los cursos de competencias médicas que determine la Dirección, en la evaluación del personal del transporte aéreo civil, marítimo, ferroviario y autotransporte;
+IV. Acreditación de los cursos de competencias médicas que determine la Dirección, en la evaluación del personal de los modos de transporte terrestre federal;
+
+> <small>(ADICIONADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
 V. Registro Federal de Contribuyentes y copia de la Clave Única de Registro de Población, y
 
@@ -711,21 +741,9 @@ VI. Comprobante de pago original por concepto de autorización para prestar los 
 
 Tratándose de documentos emitidos en el extranjero deberán presentarse apostillados o legalizados por el Consulado Mexicano del país donde se emite el documento y en los casos en que éste se encuentre redactado en idioma diferente al español deberá ser traducido por persona que cuente con cédula profesional para ejercer como traductor o, en su caso, por perito traductor autorizado por el Poder Judicial de cualquier entidad federativa o de la Federación con la especialidad en el idioma que corresponda al contenido en la documental que se traducirá.
 
-> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
-
 ###### Artículo 45.
 
-Para solicitar autorización para médico dictaminador la solicitud deberá ser presentada por persona física y estar acompañada, además de los documentos que establece el artículo anterior, de:
-
-I. (DEROGADA, D.O.F. 10 DE MAYO DE 2013)
-
-> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2013)</small>
-
-II. En caso de que el médico dictaminador solicite la autorización para la aplicación del examen psicofísico integral al personal técnico aeronáutico, deberá presentar cédula profesional que acredite la especialidad de medicina de aviación o de cualquier especialidad médica.
-
-> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2013)</small>
-
-Tratándose de documentos emitidos en el extranjero deberán presentarse apostillados o legalizados por el Consulado Mexicano del país donde se emite el documento y en los casos en que éste se encuentre redactado en idioma diferente al español deberá ser traducido por persona que cuente con cédula profesional para ejercer como traductor o, en su caso, por perito traductor autorizado por el Poder Judicial de cualquier entidad federativa o de la Federación con la especialidad en el idioma que corresponda al contenido en la documental que se traducirá.
+(DEROGADO, D.O.F. 13 DE DICIEMBRE DE 2023)
 
 > <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -735,9 +753,9 @@ Para solicitar autorización para técnico en alcoholimetría y técnicos en tom
 
 I. Original y copia del acta de nacimiento o de la carta de naturalización, o para el caso de extranjeros la forma migratoria correspondiente;
 
-> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
 
-II. Copia de la credencial para votar expedida por el Instituto Federal Electoral, de la cartilla de identificación del Servicio Militar liberada, de la cédula de identidad ciudadana o del pasaporte vigente;
+II. Copia de la credencial para votar expedida por el Instituto Nacional Electoral, de la cartilla de identificación del Servicio Militar liberada, de la cédula de identidad ciudadana o del pasaporte vigente;
 
 > <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2013)</small>
 
@@ -909,7 +927,9 @@ En caso de terminación de una autorización la Dirección procederá a ordenar 
 
 La Secretaría, por conducto de la Dirección, verificará el cumplimiento de este Reglamento. Las visitas de verificación se practicarán de conformidad con la Ley Federal de Procedimiento Administrativo y demás disposiciones aplicables.
 
-Para tal efecto, los concesionarios o permisionarios u operador aéreo y el tercero autorizado, estarán obligados a permitir el acceso de los verificadores de la Secretaría a sus instalaciones, así como proporcionar al personal de la misma, toda la información y documentación que le sea requerida.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2023)</small>
+
+Para tal efecto, las personas concesionarias, permisionarias y terceras autorizadas están obligadas a permitir el acceso de las personas verificadoras de la Secretaría a sus instalaciones, así como proporcionar al personal de la Secretaría, toda la información y documentación que les sea requerida.
 
 > <small>(REFORMADO [N. DE E. ANTES CAPÍTULO VII], D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -952,3 +972,21 @@ D.O.F. 10 DE MAYO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las autorizaciones emitidas por la Dirección General de Protección y Medicina Preventiva en el Transporte con anterioridad a la entrada en vigor del presente decreto, continuarán vigentes, en los términos señalados por el Reglamento del Servicio de Medicina Preventiva en el Transporte aplicable en el momento de su emisión y en los términos en que fueron emitidas hasta la conclusión de su vigencia.
+
+D.O.F. 13 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL SERVICIO DE MEDICINA PREVENTIVA EN EL TRANSPORTE”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Secretaría de Marina contará con un plazo de 180 días hábiles a partir de la entrada en vigor del presente decreto para expedir las disposiciones aplicables en materia de medicina preventiva relacionada con el transporte marítimo.
+
+Durante el plazo previsto en el párrafo anterior, la Dirección General de Protección y Medicina Preventiva en el Transporte de la Secretaría de Infraestructura, Comunicaciones y Transportes continuará realizando los exámenes médicos previstos en este reglamento al personal de la marina mercante. Una vez vencido dicho plazo, los exámenes deberán ser realizados por la Secretaría de Marina.
+
+En el mismo plazo, la Dirección General de Protección y Medicina Preventiva en el Transporte de la Secretaría de Infraestructura, Comunicaciones y Transportes, coordinará con la Secretaría de Marina la transferencia de todos aquellos recursos materiales, humanos y financieros necesarios para la ejecución en materia de medicina preventiva relacionada con el transporte marítimo.
+
+Tercero. Las disposiciones reglamentarias y administrativas que se encuentren en vigor continuarán vigentes en lo que no se opongan al presente decreto, hasta en tanto se emitan aquéllas que las sustituyan.
+
+Cuarto. Quedan sin efectos los requisitos médicos relativos al personal técnico aeronáutico, así como los requisitos médicos relativos al personal técnico de transporte marítimo publicados en el Diario Oficial de la Federación el 1 de septiembre de 2010 y sus reformas publicadas en ese mismo órgano de difusión el 14 de febrero de 2018 y 4 de febrero de 2020. Los requisitos médicos relativos al personal técnico de transporte marítimo observarán lo dispuesto en el segundo transitorio de este decreto.
+
+Quinto. Los trámites iniciados con anterioridad a la entrada en vigor del presente decreto, se llevarán a cabo de conformidad con la normatividad vigente al momento de su presentación hasta su conclusión.
