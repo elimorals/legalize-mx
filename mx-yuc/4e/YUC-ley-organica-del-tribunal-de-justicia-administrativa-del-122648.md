@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-tribunal-de-justicia-administrativa-del-122648
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-07-18"
-last_updated: "2017-07-18"
+last_updated: "2023-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el martes 18 de julio de 2017.
 
@@ -51,11 +51,13 @@ Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Yucatán
 
 ### CAPÍTULO I. Disposiciones generales
 
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 1.
 
 Objeto de la ley
 
-Esta ley es de orden público y tiene por objeto determinar la integración, organización, atribuciones y funcionamiento del Tribunal de Justicia Administrativa del Estado de Yucatán, en adelante el tribunal.
+Esta ley es de orden público e interés social y tiene por objeto determinar la Integración, organización, atribuciones y funcionamiento del Tribunal de Justicia Administrativa del Estado de Yucatán, en adelante el tribunal.
 
 ###### Artículo 2.
 
@@ -81,11 +83,17 @@ II.- Los juicios que se promuevan en contra de los actos administrativos que dic
 
 III.- Los juicios que se promuevan en contra de los actos de naturaleza fiscal que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo del estado y de los municipios.
 
-IV.- Los juicios contra resoluciones dictadas por las autoridades administrativas o fiscales del Poder Ejecutivo del estado y de los municipios en los recursos ordinarios establecidos por las leyes y reglamentos respectivos.
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+IV.- Los juicios contra resoluciones dictadas por las autoridades administrativas o fiscales del Poder Ejecutivo del estado, de los municipios y por los organismos autónomos, a excepción del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, en los recursos ordinarios establecidos por las leyes y reglamentos respectivos.
 
 V.- Los juicios de impugnación contra las resoluciones de responsabilidad por faltas administrativas no graves sancionadoras dirigidas a servidores públicos del Poder Ejecutivo, de los municipios y de los organismos públicos descentralizados, las empresas de participación estatal mayoritaria, los fideicomisos públicos y los organismos constitucionales autónomos, en los términos de la ley en la materia.
 
-VI.- Los juicios que se promuevan en contra de las resoluciones negativas fictas en materia administrativa y fiscal, que se configuren por el silencio de las autoridades del Poder Ejecutivo, de los municipios y de los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos, para dar respuesta a la instancia de un particular en el plazo que la ley fija.
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+VI.- Los juicios que se promuevan en contra de las resoluciones negativas fictas o en las que se nieguen las positivas fictas en materia administrativa y fiscal, que se configuren por el silencio de las autoridades del Poder Ejecutivo, de los municipios, de los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos y por los organismos autónomos, a excepción del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, para dar respuesta a la instancia de un particular en el plazo que la ley fija.
+
+No será aplicable lo dispuesto en la presente fracción en todos aquellos casos en los que se pudiere afectar el derecho de un tercero, reconocido en un registro o anotación ante autoridad administrativa.
 
 VII.- El recurso de reclamación, en términos de su reglamento interior, en contra de los autos de admisión o desechamiento de la demanda ante el tribunal o de su ampliación y del auto que admita o deseche la contestación o su ampliación, así como del que admita o rechace pruebas.
 
@@ -101,17 +109,35 @@ XII.- La impugnación de multas derivadas de procesos de ejecución de medidas d
 
 XIII.- La impugnación de las resoluciones, en términos del artículo 111 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Yucatán.
 
-XIV.- Las suspensiones del acto impugnado, por cuerda separada a cargo del magistrado presidente, en términos de esta ley, de la Ley de lo Contencioso Administrativo del Estado de Yucatán y demás normativa aplicable.
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XIV.- Las suspensiones del acto impugnado, por cuerda separada a cargo de la persona magistrada ponente, en términos de esta ley, de la Ley de lo Contencioso Administrativo del Estado de Yucatán y demás normativa aplicable.
 
 XV.- El incumplimiento de las sentencias del tribunal, conforme a lo que establezca el reglamento interior y demás normativa aplicable.
 
 XVI.- Los juicios que se promuevan contra los decretos y acuerdos de carácter general a nivel local, dictados por la Administración Pública, diversos a los reglamentos, cuando sean autoaplicativos o cuando el interesado los controvierta con motivo de su primer acto de aplicación.
 
-XVII.- Los demás juicios o procedimientos que se promuevan en contra de los actos o resoluciones definitivas impuestas con base en la normativa en materia de responsabilidades de servidores públicos, así como aquellas que las leyes consideren como competencia del tribunal.
+> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XVII.- Los juicios que se originen por fallos en licitaciones públicas o por el cumplimiento de contratos públicos, de obra pública, adquisiciones, arrendamientos y servicios celebrados por las dependencias y entidades de la administración pública local centralizada y paraestatal, y las empresas productivas del Estado; así como, las que estén bajo responsabilidad de los entes públicos cuando las leyes señalen expresamente la competencia del tribunal.
+
+> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XVIII.- Los juicios que se promuevan contra las resoluciones de la autoridad administrativa local o municipal o de los organismos públicos autónomos, que nieguen la indemnización por responsabilidad patrimonial del Estado, o las que, habiéndola otorgado, por su monto, no satisfagan al interesado. También, las que, por repetición, impongan la obligación a las personas servidoras públicas de resarcir al Estado o los municipios o a los organismos autónomos los daños y perjuicios que hayan pagado con motivo de las reclamaciones de indemnización respectivas, en términos de la Ley de Responsabilidades Administrativas del Estado de Yucatán.
+
+> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XIX.- Los juicios que se promuevan contra las sanciones y demás resoluciones emitidas por la Auditoria Superior del Estado de Yucatán, en términos de la Ley de Fiscalización de la Cuenta Pública del Estado de Yucatán.
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XVII], D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XX.- Los demás juicios o procedimientos que se promuevan en contra de los actos o resoluciones definitivas impuestas con base en la normativa en materia de responsabilidades administrativas, así como aquellas que las leyes consideren como competencia del tribunal.
 
 Las sentencias del tribunal serán definitivas e inatacables a excepción de aquellas sobre las que sea procedente el recurso de apelación o de revisión en términos de los artículos 216 y 221 de la Ley General de Responsabilidades Administrativas, en todo caso deberán acatarse en sus propios términos y contarán con fuerza ejecutiva para lograr su cumplimiento.
 
-Para efectos de resolución de los recursos de revisión y apelación previstos en la legislación aplicable en materia de responsabilidades administrativas, el pleno del tribunal se integrará con los magistrados titulares, con excepción de aquel que haya fungido como magistrado ponente, quien será suplido, en términos del artículo 29 de esta ley. Esta instancia constituye un (sic) nueva oportunidad de reflexión, análisis y valoración para los magistrados del tribunal, por lo que, para garantizar que sea un medio de defensa eficaz y el acceso a un recurso efectivo, gozarán de absoluta libertad para emitir sus opiniones personales y votos particulares o razonados sin que por ello puedan ser reconvenidos o incurran en responsabilidad.
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Para efectos de resolución de los recursos de revisión y apelación previstos en la legislación aplicable en materia de responsabilidades administrativas, el pleno del tribunal se integrará con las personas magistradas titulares, con excepción de aquella que haya fungido como persona magistrada ponente, quien será suplida, en términos del artículo 29 de esta ley. Esta instancia constituye una nueva oportunidad de reflexión, análisis y valoración para las personas magistradas del tribunal, por lo que, para garantizar que sea un medio de defensa eficaz y el acceso a un recurso efectivo, gozarán de absoluta libertad para emitir sus opiniones personales y votos particulares o razonados sin que por ello puedan ser reconvenidos o incurran en responsabilidad.
 
 ###### Artículo 5.
 
@@ -121,9 +147,15 @@ Bajo ninguna circunstancia se entenderá que la atribución del tribunal para im
 
 Cuando en la legislación aplicable en materia de responsabilidades administrativas se haga referencia al tribunal, a la sala especializada o a la sala superior, se entenderá que alude al pleno del tribunal.
 
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 6.
 
-Principios rectores en materia de responsabilidades administrativas
+Principios que rigen la función jurisdiccional del Tribunal
+
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+El Tribunal se regirá, para su actuación y dictado de sus resoluciones, por los principios de legalidad, eficiencia, eficacia, seguridad jurídica, economía procesal, celeridad, buena fe, imparcialidad, objetividad, congruencia, exhaustividad, verdad material, respeto a los derechos humanos, máxima publicidad, razonabilidad, proporcionalidad y debido proceso.
 
 En lo que respecta a los procedimientos relacionados con responsabilidades administrativas, el tribunal se regirá, para su actuación y dictado de sus resoluciones, por los principios de legalidad, presunción de inocencia, imparcialidad, objetividad, congruencia, exhaustividad, verdad material y respeto a los derechos humanos, según lo establecido en el artículo 111 de la Ley General de Responsabilidades Administrativas.
 
@@ -133,7 +165,9 @@ Autonomía presupuestal
 
 El presupuesto aprobado por el Congreso para el tribunal se ejercerá con autonomía y conforme a la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán y demás disposiciones legales aplicables. Su administración tendrá como fin lograr la eficacia de la justicia administrativa.
 
-Dicho ejercicio deberá realizarse con base en los principios de legalidad, certeza, independencia, honestidad, responsabilidad, eficiencia, eficacia, transparencia, rendición de cuentas, austeridad y racionalidad; y estará sujeto a la evaluación y control de los órganos correspondientes, en términos de lo dispuesto en el reglamento interior o en la normativa que al efecto dicte el pleno del tribunal.
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Dicho ejercicio deberá realizarse con base en los principios de legalidad, certeza, independencia, honestidad, responsabilidad, eficiencia, eficacia, economía, transparencia, honradez, rendición de cuentas, austeridad y racionalidad; y estará sujeto a la evaluación y control de los órganos correspondientes, en términos de lo dispuesto en el reglamento interior o en la normativa que al efecto dicte el pleno del tribunal.
 
 ###### Artículo 8.
 
@@ -167,11 +201,13 @@ El tribunal podrá imponer las medidas de apremio establecidas en el artículo 5
 
 ### CAPÍTULO II. Funcionamiento del tribunal
 
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 11.
 
 Marco jurídico aplicable
 
-El tribunal estará organizado conforme lo establece la Constitución, esta ley, su reglamento interior, y demás acuerdos que emitan su pleno y su presidente para su adecuado funcionamiento.
+El tribunal estará organizado conforme lo establece la Constitución, esta ley, su reglamento interior, y demás acuerdos que emita su pleno para su adecuado funcionamiento.
 
 ###### Artículo 12.
 
@@ -217,9 +253,11 @@ VI.- Expedir el reglamento de carrera a que se refiere esta ley, que establezca 
 
 VII.- Emitir las bases, mediante acuerdos generales, para que las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realice el tribunal, en ejercicio de su presupuesto de egresos, se ajuste a los criterios contemplados en la ley.
 
-VIII.- Aprobar y someter a consideración del gobernador la propuesta para el nombramiento de magistrados del tribunal para otros periodos.
+VIII.- (DEROGADA, D.O. 13 DE DICIEMBRE DE 2023)
 
-IX.- Designar y remover al secretario de acuerdos, a propuesta del presidente del tribunal.
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+IX.- Nombrar y remover a las personas servidoras públicas adscritas al tribunal, cuyo nombramiento no esté reservado a otra instancia o a alguna autoridad en la Constitución, y resolver sobre su ratificación, adscripción, promoción, licencias, vacaciones, sustituciones y remoción, así como acordar sus renuncias.
 
 X.- Nombrar al titular del órgano de control interno.
 
@@ -247,7 +285,9 @@ XXI.- Dictar las disposiciones necesarias para la recepción, control y destino 
 
 XXII.- Autorizar el calendario de labores del tribunal de la siguiente anualidad, en los términos previstos por esta ley y en su reglamento interior.
 
-XXIII.- Determinar la suspensión de labores del tribunal en días hábiles, por causas fortuitas o de fuerza mayor en términos de esta ley.
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXIII.- Determinar la suspensión de labores del tribunal en días hábiles.
 
 XXIV.- Ordenar la publicación de los acuerdos generales y demás disposiciones reglamentarias, que se estimen de interés general, en el diario oficial del estado.
 
@@ -259,7 +299,47 @@ XXVII.- Resolver la instancia de aclaración de sentencia, la queja relacionada 
 
 XXVIII.- Conocer, desahogar y substanciar hasta dejar en estado de resolución todo procedimiento o queja en contra del titular del órgano interno de control del tribunal por actos u omisiones que se le atribuyan y puedan constituir faltas administrativas, incluyendo las graves, en términos de la legislación aplicable en materia de responsabilidades administrativas, y demás normativa aplicable, y, en su caso, proceda a su sustitución, así como formular periódicamente la evaluación de su desempeño, para oportuna remisión al Congreso para efectos del artículo 42 segundo párrafo de esta ley.
 
-XXIX.- Las demás que la ley y demás normatividad le encomiende.
+> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXIX.- Ordenar la gestión, administración, realización de adecuaciones presupuestales y ejercer los recursos humanos, financieros y materiales necesarios para el buen funcionamiento del tribunal.
+
+> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXX.- Remover a la persona titular de la presidencia del Tribunal, cuando por su actividad, se afecte el orden constitucional o legal de manera grave o reiterada o se afecte de manera grave o reiterada el funcionamiento o administración del tribunal. La remoción de la persona titular de la presidencia del tribunal no implica su remoción del cargo de persona magistrada.
+
+> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXXI.- Dictar las medidas necesarias para coordinar las funciones jurisdiccionales y administrativas del tribunal.
+
+> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXXII.- Aprobar el otorgamiento de mandatos o poderes generales o limitados, por parte de la persona titular de la presidencia del tribunal, en términos de lo establecido en el Código Civil del Estado de Yucatán para la atención de los asuntos de su competencia y aprobar la revocación de dichos mandatos.
+
+> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXXIII.- Aprobar la designación y revocación, por parte de la persona titular de la presidencia del tribunal, de delegados o apoderados para que hagan promociones, concurran a las audiencias, rindan pruebas, formulen alegatos, promuevan los incidentes y recursos procedentes en los juicios de amparo que se interpongan contra resoluciones, acuerdos o actos dictados por el tribunal o relativos a actos de la presidencia.
+
+> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXXIV.- Aprobar el otorgamiento o revocación, por parte de la persona titular de la presidencia del tribunal, de poderes para articular y absolver posiciones.
+
+> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXXV.- Acordar sobre la promoción y el desistimiento de cualquier acto o procedimiento, de naturaleza administrativa o jurisdiccional.
+
+> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXXVI.- Aprobar la habilitación provisional de personas servidoras públicas adscritas al tribunal para que, según las necesidades de servicio y su perfil, desempeñen funciones adicionales, incluso la de persona secretaria y persona actuaria.
+
+> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXXVII.- Aprobar la creación de las comisiones que estime convenientes, con carácter permanente o transitorio, para el adecuado funcionamiento del tribunal.
+
+> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXXVIII.- Dictar las medidas que se consideren necesarias para el orden, buen servicio y disciplina en las oficinas.
+
+XXXIX.- Las demás que la ley y demás normativa le encomiende.
 
 ###### Artículo 16.
 
@@ -270,6 +350,10 @@ Las sesiones del pleno del tribunal serán válidas siempre que se cuente con la
 Las resoluciones del tribunal se aprobarán con el voto de la mayoría de los magistrados que asistan a la sesión correspondiente. En caso de empate, el magistrado presidente tendrá voto de calidad.
 
 Los magistrados solo podrán abstenerse de votar cuando tengan impedimento legal, previa excusa calificada por el pleno.
+
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+En los casos en que no se cuente con cuórum para sesionar, por ausencia de la persona presidenta, y se cuente, al menos, con la presencia de dos personas magistradas, las personas magistradas que se encuentren presentes decretarán un receso temporal e instruirán a la persona titular de la secretaría de acuerdos que convoque a la persona magistrada suplente que corresponda. Una vez alcanzado el cuórum, se reanudará la sesión, las personas magistradas elegirán de entre sus integrantes a la persona que ocupará, para efectos de esa sesión, la presidencia del tribunal y procederán a desahogar el orden del día de la sesión de que se trate.
 
 ###### Artículo 17.
 
@@ -299,9 +383,11 @@ Los magistrados del tribunal serán designados de conformidad en lo establecido 
 
 Para las designaciones a que se refiere este artículo, el gobernador acompañará una justificación de la idoneidad de las propuestas, para lo cual hará constar la trayectoria profesional y académica de la persona propuesta, a efecto de que sea valorada dentro del procedimiento de ratificación por parte del Congreso. Para ello, conforme a la normativa del Congreso, se desahogarán las comparecencias correspondientes, en que se garantizará la publicidad y transparencia de su desarrollo.
 
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 20.
 
-Atribuciones de los magistrados
+Atribuciones de las personas magistradas
 
 Los magistrados ponentes, cuando tramiten procedimientos contenciosos-administrativos o procedimientos en materia de responsabilidades administrativas, tendrán las siguientes atribuciones:
 
@@ -341,7 +427,23 @@ b) Admitir o tener por contestada la demanda, en sentido negativo.
 
 c) Dictar los acuerdos o providencias de trámite necesarios para instruir el juicio o el procedimiento de responsabilidades administrativas, incluyendo la imposición de las medidas de apremio necesarias para hacer cumplir sus determinaciones, acordar las promociones de las partes y los informes de las autoridades y atender la correspondencia necesaria, autorizándola con su firma.
 
-XII.- Las demás que establezcan las leyes y la normativa interna.
+> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XII.- Solicitar por escrito, la celebración de las sesiones de pleno, cuando a su criterio sea necesario desahogar algún asunto por su relevancia o trascendencia.
+
+En caso de que dos personas magistradas soliciten la sesión, una vez recibida la solicitud a que se refiere esta fracción, la persona magistrada presidenta, deberá convocar, dentro de las veinticuatro horas siguientes, a una sesión, para desahogar los asuntos de que se trate, la cual deberá celebrarse dentro de las veinticuatro horas siguientes a la emisión de la convocatoria.
+
+En caso de que pasadas las veinticuatro horas la persona magistrada presidenta no hubiera convocado, las personas magistradas que hubieran solicitado la sesión instruirán a la persona secretaria de acuerdos para que, de manera extraordinaria y excepcional, convoque a la sesión a las personas magistradas, en términos de lo previsto en el párrafo anterior.
+
+> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XIII.- En los casos que correspondan a su ponencia, resolver acerca de las suspensiones de los actos impugnados ante el tribunal.
+
+> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XIV.- Emitir las disposiciones necesarias para dar cumplimiento a sus resoluciones relativas a la suspensión de los actos impugnados ante el tribunal.
+
+XV.- Las demás que establezcan las leyes y la normativa interna.
 
 ###### Artículo 21.
 
@@ -349,21 +451,23 @@ Requisitos para ser magistrado
 
 Para ser designado magistrado del tribunal se deberán cumplir los mismos requisitos que para ser nombrado magistrado del Poder Judicial del estado, establece la Constitución Política del Estado de Yucatán.
 
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 22.
 
 Impedimentos de desempeñar otras funciones
 
-Los magistrados no podrán aceptar o desempeñar empleo o encargo que no sea compatible con el cargo detentado.
+Las personas magistradas, no podrán, desempeñar otro cargo o empleo público. Quedan exceptuados los cargos docentes, científicos, literarios y de beneficencia pública cuyo desempeño no perjudique o menoscabe las labores relativas a la administración de justicia.
 
-Los magistrados no deberán, dentro de los dos años siguientes a la fecha de conclusión del cargo, actuar como abogados o representantes en cualquier proceso ante el tribunal, a menos de que en dicho proceso se encuentre vinculado el interés jurídico o patrimonial de sí mismo, de su cónyuge o concubino, de sus ascendientes o descendientes sin limitaciones de grado o de sus colaterales hasta en cuarto grado por afinidad o civiles, lo que podrá hacer en todo tiempo en otras materias tratándose de su persona, bienes o derechos, y los de los relacionados en líneas precedentes.
+Las personas magistradas no deberán, dentro del año siguiente a la fecha de conclusión del cargo, actuar como abogadas o representantes en cualquier proceso ante el tribunal, a menos de que en dicho proceso se encuentre vinculado el interés jurídico o patrimonial de sí mismo, de su cónyuge o concubino, de sus ascendientes o descendientes sin limitaciones de grado o de sus colaterales hasta en cuarto grado por afinidad o civiles, lo que podrá hacer en todo tiempo en otras materias tratándose de su persona, bienes o derechos, y los de los relacionados en líneas precedentes.
+
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 23.
 
 Remoción
 
-Los magistrados únicamente pueden ser removidos por falta administrativa grave previa resolución de su pleno en la que se haya acreditado este hecho.
-
-En dicho proceso de remoción, se deberán respetar las formalidades esenciales del procedimiento, debido proceso, legalidad e imparcialidad, presunción de inocencia, defensa técnica y adecuada, verdad material y respeto a los derechos humanos.
+Las personas magistradas sólo podrán ser removidas en términos de la Constitución Política del Estado de Yucatán y las leyes de responsabilidades correspondientes.
 
 ###### Artículo 24.
 
@@ -377,11 +481,13 @@ Renuncia
 
 El cargo de magistrado del tribunal solo es renunciable por causa grave calificada así por el Congreso o, en los recesos de este, por la diputación permanente.
 
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 26.
 
 Renovación
 
-Cuando los magistrados estén por concluir el periodo para el que hayan sido nombrados, el presidente del tribunal lo hará saber al gobernador y, podrá someter a su consideración la propuesta que previamente haya aprobado el pleno del tribunal.
+Cuando las personas magistradas estén por concluir el periodo para el que hayan sido nombradas, el pleno del tribunal mediante oficio, lo hará saber al Congreso del Estado, para que este a su vez solicite a la persona titular del Poder Ejecutivo que proceda de conformidad con el párrafo segundo del artículo 75 Quater de la Constitución Política del Estado de Yucatán.
 
 ###### Artículo 27.
 
@@ -425,11 +531,13 @@ Cuando por recusación o excusa, el pleno del tribunal resuelva que algún magis
 
 En caso de que el impedimento a que se refiere el párrafo anterior se resuelva respecto de un magistrado diferente al ponente, el magistrado impedido será suplido en términos del artículo siguiente.
 
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 29.
 
 Ausencia temporal o suplencia en Pleno
 
-En caso de ausencia temporal de un magistrado que no exceda tres meses, o para suplencia en pleno, la función será cubierta por el servidor público del tribunal que determine el pleno, a propuesta del mismo magistrado. Quienes se desempeñen como magistrados suplentes tendrán las mismas facultades y atribuciones que establece la ley para los magistrados titulares.
+En caso de ausencia temporal de una persona magistrada que no exceda de cuatro meses, o para suplencia en pleno, la función será cubierta por la persona servidora pública del tribunal que determine el pleno. Quienes se desempeñen como personas magistradas suplentes tendrán las mismas facultades y atribuciones que establece la ley para las personas magistradas titulares.
 
 ###### Artículo 30.
 
@@ -439,17 +547,23 @@ En caso de ausencias injustificadas por un periodo mayor a tres meses, por retir
 
 ### CAPÍTULO IV. Presidente del tribunal
 
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 31.
 
-Presidente del tribunal
+Persona presidenta del tribunal
 
-El tribunal contará con un magistrado presidente, quien será electo por la votación mayoritaria del pleno para un periodo de cuatro años, de conformidad con su reglamento interior.
+El tribunal contará con una persona magistrada titular de la presidencia, quien será electa por la votación mayoritaria del pleno para un periodo de tres años, y no podrá ser reelecta para el periodo inmediato siguiente, de conformidad con su reglamento interior.
+
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 32.
 
-Atribuciones del presidente del tribunal
+Atribuciones de la persona presidenta del tribunal
 
-Son atribuciones del presidente del tribunal, las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+Son atribuciones de la persona titular de la presidencia del tribunal, las siguientes:
 
 I.- Presidir las sesiones del pleno del tribunal que se celebren conforme a lo dispuesto en el reglamento interior, conduciendo su desarrollo y dirigiendo los debates. Para preservar el orden podrá disponer los medios de apremio y correcciones disciplinarias que resulten aplicables conforme la normativa interna.
 
@@ -459,55 +573,79 @@ III.- Vigilar que se cumplan las determinaciones del pleno.
 
 IV.- Despachar la correspondencia del tribunal.
 
-V.- Enviar el proyecto de presupuesto al Poder Ejecutivo del estado.
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
 
-VI.- Gestionar, administrar, realizar las adecuaciones presupuestales y ejercer los recursos humanos, financieros y materiales necesarios para el buen funcionamiento del tribunal.
+V.- Enviar el proyecto de presupuesto previamente aprobado por el pleno, al Poder Ejecutivo del estado.
 
-VII.- Convocar a reuniones internas a los magistrados del tribunal y al personal administrativo.
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
 
-VIII.- Dictar las medidas necesarias para coordinar las funciones jurisdiccionales y administrativas del tribunal.
+VI.- Ejecutar las decisiones del pleno relacionadas con la gestión, administración, adecuación presupuestal y ejercicio de los recursos humanos, financieros y materiales necesarios para el buen funcionamiento del tribunal.
+
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+VII.- Convocar a reuniones internas a las personas magistradas del tribunal y al personal administrativo.
+
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+VIII.- Ejecutar las medidas que dicte el pleno que sean necesarias para coordinar las funciones jurisdiccionales y administrativas del tribunal.
 
 IX.- Representar legalmente al tribunal ante cualquier autoridad o persona, gozando poder general amplísimo para pleitos y cobranzas y actos de administración, pudiendo promover y desistirse de cualquier acto o procedimiento, de naturaleza administrativa o jurisdiccional.
 
-X.- Otorgar, a nombre del tribunal, mandatos o poderes generales o limitados en términos de lo establecido en el Código Civil del Estado de Yucatán para la atención de los asuntos de su competencia y revocar dichos mandatos.
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+X.- Otorgar, previa aprobación del pleno y a nombre del tribunal, mandatos o poderes generales o limitados en términos de lo establecido en el Código Civil del Estado de Yucatán para la atención de los asuntos de su competencia y revocar dichos mandatos.
 
 XI.- Formular informes sobre el ejercicio de la función pública del tribunal, así como rendirlo anualmente ante el Pleno.
 
 XII.- Rendir un informe anual al Congreso del Estado basado en indicadores en materia de Responsabilidades Administrativas, tomando en consideración las directrices y políticas que emita el Comité Coordinador del Sistema Estatal Anticorrupción.
 
-XIII.- Designar mediante oficio delegados o apoderados para que hagan promociones, concurran a las audiencias, rindan pruebas, formulen alegatos, promuevan los incidentes y recursos procedentes en los juicios de amparo que se interpongan contra resoluciones, acuerdos o actos dictados por el tribunal o relativos a actos de la presidencia.
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
 
-XIV.- Conferir poderes para articular y absolver posiciones.
+XIII.- Designar y revocar, previa aprobación del pleno y mediante oficio, delegados o apoderados para que hagan promociones, concurran a las audiencias, rindan pruebas, formulen alegatos, promuevan los incidentes y recursos procedentes en los juicios de amparo que se interpongan contra resoluciones, acuerdos o actos dictados por el tribunal o relativos a actos de la presidencia.
 
-XV.- Promover y desistirse de cualquier acto o procedimiento, de naturaleza administrativa o jurisdiccional, en representación del tribunal.
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XIV.- Conferir y revocar, previa aprobación del pleno, poderes para articular y absolver posiciones.
+
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XV.- Promover y desistirse de cualquier acto o procedimiento, de naturaleza administrativa o jurisdiccional, en representación del tribunal, previo acuerdo del pleno.
 
 XVI.- Rendir los informes solicitados en los juicios de amparo en los que el tribunal sea autoridad demandada en el ejercicio de sus funciones públicas.
 
 XVII.- Ordenar y realizar todos los actos necesarios para el cumplimiento de ejecutorias y resoluciones de amparo en términos de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, así como, a nombre y representación del tribunal, atender, presentarse, diligenciar y sustanciar cualquier otro proceso o recurso contemplado en la ley de amparo o ante tribunales del Poder Judicial de la federación.
 
-XVIII.- Turnar los asuntos que deba conocer el tribunal para la sustanciación de los expedientes de conformidad con la normativa aplicable, incluso en los que considere pudiese estar impedido para conocer.
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
 
-XIX.- Conocer el trámite, resolver, revocar y ordenar lo necesario sobre las suspensiones de los actos impugnados ante el tribunal, la que se substanciará por cuerda separada, contando el magistrado presidente con la atribución expresa para dictar las disposiciones normativas y materiales necesarias para lograr el cumplimiento efectivo de sus resoluciones.
+XVIII.- Turnar, dentro de las veinticuatro horas siguientes a su recepción, los asuntos que deba conocer el tribunal para la sustanciación de los expedientes de conformidad con la normativa aplicable, incluso en los que considere pudiese estar impedido para conocer.
 
-XX.- Nombrar a los servidores públicos adscritos al tribunal, cuyo nombramiento no esté reservado a otra instancia o a alguna autoridad en la Constitución, y resolver sobre su ratificación, adscripción, promoción, licencias, vacaciones, sustituciones y remoción, así como acordar sus renuncias, con excepción del titular del órgano de control interno.
+XIX.- (DEROGADA, D.O. 13 DE DICIEMBRE DE 2023)
 
-XXI.- Habilitar provisionalmente a los servidores públicos adscritos al tribunal para que según las necesidades de servicio y su perfil, desempeñen funciones adicionales, incluso la de secretario y actuario.
+XX.- (DEROGADA, D.O. 13 DE DICIEMBRE DE 2023)
 
-XXII.- Establecer las comisiones que estime convenientes, con carácter permanente o transitorio, para el adecuado funcionamiento del tribunal.
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
 
-XXIII.- Dictar las medidas que se consideren necesarias para el orden, buen servicio y disciplina en las oficinas.
+XXI.- Habilitar, previa aprobación del pleno, provisionalmente a las personas servidoras públicas adscritas al tribunal para que, según las necesidades de servicio y su perfil, desempeñen funciones adicionales, incluso la de persona secretaria y persona actuaria.
+
+XXII.- (DEROGADA, D.O. 13 DE DICIEMBRE DE 2023)
+
+XXIII.- (DEROGADA, D.O. 13 DE DICIEMBRE DE 2023)
 
 XXIV.- Formar parte del Comité Coordinador del Sistema Estatal Anticorrupción en términos de lo dispuesto por el artículo 101 Bis, fracción I, de la Constitución Política del Estado de Yucatán.
 
-XXV.- Las demás que considere pertinentes para el adecuado funcionamiento del tribunal.
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXV.- Las demás que le sean encomendadas por el pleno y que se consideren pertinentes para el adecuado funcionamiento del tribunal.
+
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 33.
 
 Suplencias
 
-En caso de ausencia temporal del magistrado presidente, que no impliquen falta absoluta en términos del artículo 30, lo sustituirá el magistrado de mayor antigüedad en el cargo.
+En caso de ausencia temporal de la persona magistrada presidenta, que no Impliquen falta absoluta en términos del artículo 30, lo sustituirá la persona magistrada que el pleno del tribunal designe mediante votación.
 
-En caso de falta absoluta, se procederá en términos del párrafo anterior, hasta en tanto se designe a un nuevo magistrado.
+En caso de falta absoluta, se procederá en términos del párrafo anterior, hasta en tanto se designe a una nueva persona magistrada.
 
 ### CAPÍTULO V. Secretario de acuerdos
 
@@ -569,7 +707,9 @@ Atribuciones del director
 
 El director de Administración del tribunal tendrá las siguientes facultades y obligaciones:
 
-I.- Auxiliar al presidente en la planeación y proyección de anteproyecto del presupuesto de egresos del tribunal, y en la posterior ejecución del presupuesto asignado y en la administración del patrimonio del tribunal, asegurándose que se lleven a cabo los procedimientos y lineamientos establecidos en las diversas normas de contabilidad gubernamental y demás normativa aplicable.
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+I.- Auxiliar al pleno en la planeación y proyección de anteproyecto del presupuesto de egresos del tribunal, y en la posterior ejecución del presupuesto asignado y en la administración del patrimonio del tribunal, asegurándose que se lleven a cabo los procedimientos y lineamientos establecidos en las diversas normas de contabilidad gubernamental y demás normativa aplicable.
 
 II.- Cumplir las obligaciones tributarias, fiscales, de seguridad social, administrativas a cargo o nombre del tribunal.
 
@@ -577,17 +717,25 @@ III.- Realizar los trámites administrativos a nombre del tribunal ante la Secre
 
 IV.- Visar toda la documentación administrativa o fiscal en la que sea estrictamente necesaria la firma del presidente.
 
-V.- Auxiliar al presidente en la administración del personal, recursos materiales, servicios generales y bienes muebles, inmuebles e intangibles del tribunal, para que en las funciones y actividades de sus servidores públicos, cuenten con los elementos necesarios, pudiendo en todo caso para tal fin, y conforme a la normativa aplicable, realizar transferencias entre partidas y capítulos del presupuesto.
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+V.- Auxiliar a las personas magistradas en la administración del personal, recursos materiales, servicios generales y bienes muebles, inmuebles e intangibles del tribunal, para que en las funciones y actividades de sus personas servidoras públicas, cuenten con los elementos necesarios, pudiendo en todo caso para tal fin, y conforme a la normativa aplicable, realizar transferencias entre partidas y capítulos del presupuesto.
 
 VI.- Cumplir con las disposiciones normativas para la administración de los recursos humanos, materiales y financieros del tribunal.
 
-VII.- Administrar los recursos materiales, muebles e inmuebles del tribunal conforme a las directrices que dicte el presidente.
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
 
-VIII.- Elaborar programas operativos anuales, unidades básicas de presupuestación o análogos, relacionados con los egresos del tribunal y solicitar su modificación al presidente en caso necesario.
+VII.- Administrar los recursos materiales, muebles e inmuebles del tribunal conforme a las directrices que dicte el pleno.
+
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+VIII.- Elaborar programas operativos anuales, unidades básicas de presupuestación o análogos, relacionados con los egresos del tribunal y solicitar su modificación al pleno en caso necesario.
 
 IX.- Realizar las gestiones, convocatorias, invitaciones, oficios o licitaciones, según el caso respectivo, para la compra de insumos y solicitar la prestación de servicios necesarios para el buen funcionamiento del tribunal.
 
-X.- Informar permanentemente al presidente sobre el desarrollo de las tareas a su cargo y el desahogo de los asuntos de su competencia, así como sobre el funcionamiento administrativo o aplicación del presupuesto.
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+X.- Informar permanentemente al pleno sobre el desarrollo de las tareas a su cargo y el desahogo de los asuntos de su competencia, así como sobre el funcionamiento administrativo o aplicación del presupuesto.
 
 XI.- Llevar inventario y control actualizado de los bienes, entradas, salidas o egresos de recursos del tribunal, conforme a la normativa aplicable.
 
@@ -597,7 +745,9 @@ XIII.- Tener bajo su custodia y vigilar que se integren los expedientes del pers
 
 XIV.- Elaborar, calcular y pagar la nómina y prestaciones al personal del tribunal, así como realizar la retención y entero de impuestos.
 
-XV.- Llevar a cabo los finiquitos de personal o contratos correspondientes, con excepción de aquellos que la normativa encomiende a otra instancia.
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XV.- Llevar a cabo, previa aprobación del pleno, los finiquitos de personal o contratos correspondientes, con excepción de aquellos que la normativa encomiende a otra instancia.
 
 XVI.- Integrar y supervisar el archivo administrativo de recursos materiales y humanos.
 
@@ -605,13 +755,17 @@ XVII.- Cumplir con los requisitos legales para que los contratos, convenios, ór
 
 XVIII.- Establecer los sistemas de control contable que permitan conocer el manejo y la aplicación de los recursos del tribunal.
 
-XIX.- Proponer al presidente, planes, programas y sistemas que ayuden a mejorar la administración del tribunal.
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XIX.- Proponer al pleno, planes, programas y sistemas que ayuden a mejorar la administración del tribunal.
 
 XX.- Procurar que el personal del tribunal reciba todas las prestaciones laborales y cuente con los elementos y herramientas necesarias para el desarrollo de sus funciones.
 
 XXI.- Apoyar a los magistrados al inicio, al término de sus funciones y cuando así sea requerido, en la elaboración de sus declaraciones patrimoniales, fiscales o de intereses, así como al personal obligado a ello.
 
-XXII.- Tramitar en forma diligente los movimientos de personal del tribunal por orden del presidente.
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+XXII.- Tramitar en forma diligente los movimientos de personal del tribunal autorizados por el pleno o por las personas magistradas respecto al personal a su cargo.
 
 XXIII.- Expedir las identificaciones al personal del tribunal, según su categoría.
 
@@ -621,9 +775,15 @@ XXV.- Atender los requerimientos de las auditorías que se le realicen al tribun
 
 XXVI.- Resguardar, compilar o elaborar en tiempo y forma la documentación contable y comprobatoria que deba rendir el tribunal ante las instancias correspondientes, con apego a las normas y procedimientos aplicables.
 
-XXVII.- Realizar las demás tareas que le sean encomendadas por el pleno o el magistrado presidente.
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
 
-XXVIII.- El director de Administración deberá contar con treinta años de edad y cinco años de antigüedad con título profesional de licenciatura en el área de las ciencias económico administrativas y la cédula profesional correspondiente.
+XXVII.- Realizar las demás tareas que le sean encomendadas por el pleno.
+
+XXVIII.- (DEROGADA, D.O. 13 DE DICIEMBRE DE 2023)
+
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
+La persona titular de la Dirección de Administración deberá contar con título profesional de licenciatura en el área de las ciencias económicas, administrativas o contables y cédula profesional con una antigüedad de, al menos, cinco años.
 
 ### CAPÍTULO VIII. Responsabilidades de los integrantes del tribunal
 
@@ -719,11 +879,13 @@ Las actividades de inspección y vigilancia que realice el órgano de control in
 
 ### CAPÍTULO IX. Personal del tribunal
 
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 45.
 
 Compromiso de ley
 
-Los servidores públicos del tribunal rendirán su compromiso de ley ante el presidente, a excepción de los magistrados, quienes lo rendirán en términos de lo establecido en la Constitución local para los magistrados del Poder Judicial del Estado de Yucatán. En caso de ratificación no será necesario rendir nuevo compromiso.
+Las personas servidoras públicas del tribunal rendirán su compromiso de ley ante el pleno, a excepción de las personas magistradas, quienes lo rendirán en términos de lo establecido en la Constitución local para las personas magistradas del Poder Judicial del Estado de Yucatán. En caso de ratificación no será necesario rendir nuevo compromiso.
 
 ###### Artículo 46.
 
@@ -814,3 +976,21 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 13 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 694/2023 POR EL QUE SE MODIFICA LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Obligación normativa
+
+El Pleno del Tribunal de Justicia Administrativa del Estado de Yucatán deberá adecuar reglamento interior y demás normativa conforme a lo previsto en este decreto dentro de los sesenta días naturales de su entrada en vigor.
+
+Artículo tercero. Ampliación presupuestal
+
+Se autoriza al Poder Ejecutivo del Estado, a través de la Secretaria de Administración y Finanzas, para realizar la transferencia al Tribunal de Justicia Administrativa del Estado de Yucatán de los recursos necesarios para la aplicación de este decreto.
