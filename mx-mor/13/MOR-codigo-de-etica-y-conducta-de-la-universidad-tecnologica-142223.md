@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-etica-y-conducta-de-la-universidad-tecnologica-142223
 country: "mx"
 rank: "codigo"
 publication_date: "2020-03-11"
-last_updated: "2020-03-11"
+last_updated: "2023-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MOR"
 ---
 # CODIGO DE ETICA Y CONDUCTA DE LA UNIVERSIDAD TECNOLOGICA EMILIANO ZAPATA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD TECNOLÓGICA EMILIANO ZAPATA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA Y CONDUCTA DE LA UNIVERSIDAD TECNOLÓGICA EMILIANO ZAPATA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2023 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el miércoles 11 de marzo de 2020.
 
@@ -621,3 +623,15 @@ Representante del Sector Empresarial.
 Rúbricas.
 
 Esta hoja de firmas forma parte del Código de Ética y Conducta de la Universidad Tecnológica Emiliano Zapata del Estado de Morelos.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD TECNOLÓGICA EMILIANO ZAPATA DEL ESTADO DE MORELOS".]
+
+PRIMERA. El presente código entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga el Código de Ética y Conducta de la Universidad Tecnológica Emiliano Zapata del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad" 5793 de fecha 11 de marzo de 2020.
+
+TERCERA. Se abrogan todas las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente código. Firman y autoriza.
