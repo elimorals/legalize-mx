@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2023-10-09"
+last_updated: "2023-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -199,13 +199,17 @@ f) Que las controversias entre la administración y los particulares, se diriman
 
 g) Coadyuvar con las autoridades y organismos competentes en materia de defensa y respeto a los derechos humanos y sujetarse a las disposiciones que sobre esa materia señale esta ley.
 
-> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O.14 DE DICIEMBRE DE 2023)</small>
 
-XII.- Crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada servidor público, y
+XII.- Crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la ·actuación ética y responsable de cada servidor público;
 
-> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O.14 DE DICIEMBRE DE 2023)</small>
 
-XIII.- Implementar los mecanismos y políticas públicas que establezca el Comité Coordinador del Sistema Local Anticorrupción e informar a dicho órgano de los avances y resultados que estos tengan, a través de sus órganos internos de control.
+XIII.- Implementar los mecanismos y políticas públicas que establezca el Comité Coordinador del Sistema Local Anticorrupción e informar a dicho órgano de los avances y resultados que estos tengan, a través de sus órganos internos de control, y
+
+> <small>(ADICIONADA, P.O.14 DE DICIEMBRE DE 2023)</small>
+
+XIV.- Diseñar políticas públicas para el fortalecimiento, el desarrollo y el fomento de la ciencia y la innovación tecnológica en las actividades y funciones de la administración pública municipal.
 
 ## TÍTULO SEGUNDO
 
@@ -2378,6 +2382,10 @@ Ayuntamientos
 ###### ARTICULO 125.
 
 Los Ayuntamientos vigilarán que los servicios públicos se presten en igualdad de condiciones para todos los habitantes del municipio, en forma permanente, general, uniforme, continua, y de acuerdo con sus respectivos Planes Municipales, Planes Estratégicos Municipales y Programas de Gobierno.
+
+> <small>(ADICIONADO, P.O.14 DE DICIEMBRE DE 2023)</small>
+
+Asimismo, diseñarán e implementarán mecanismos a través de la innovación tecnológica para ampliar la cobertura y mejorar la eficacia en la prestación de los servicios públicos.
 
 ###### ARTICULO 126.
 
@@ -4664,3 +4672,9 @@ En tanto se expiden las disposiciones normativas conducentes, se aplicará el ma
 CUARTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán su despacho de conformidad con las disposiciones vigentes al momento de su inicio.
 
 QUINTO. Comuníquese el presente Decreto a los veinte Ayuntamientos del Estado, para los efectos conducentes.
+
+P.O.14 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY MUNICIPAL DEL ESTADO DE NAYARIT, EN MATERIA DE INNOVACIÓN TECNOLÓGICA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
