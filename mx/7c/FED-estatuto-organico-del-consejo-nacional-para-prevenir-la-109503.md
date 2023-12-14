@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-para-prevenir-la-109503"
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-08-21"
-last_updated: "2021-08-11"
+last_updated: "2023-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109503&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-08-13"
 
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE DICIEMBRE DE 2023.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 21 de agosto de 2015.
 
@@ -481,7 +481,7 @@ A cargo de cada una de las Unidades Administrativas habrá una persona titular, 
 
 Las ausencias de carácter temporal de las personas titulares de las Unidades Administrativas serán suplidas por los inferiores jerárquicos inmediatos de la Unidad a que corresponda, mediante oficio signado por el Titular.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 51.
 
@@ -499,19 +499,15 @@ V. Delegar facultades a las personas servidoras públicas adscritas a la unidad 
 
 VI. Suscribir los documentos relativos al ejercicio de sus facultades, y los que les correspondan por delegación o suplencia;
 
-(ADICIONADA, D.O.F. 24 DE JULIO DE 2018) (F. DE E., D.O.F. 12 DE MARZO DE 2019)
+VII. Dar seguimiento en el marco de sus atribuciones, a los convenios de colaboración que celebre el Consejo;
 
-VII. Dar seguimiento en el marco de sus atribuciones, a los convenios de colaboración que celebre el Consejo.
-
-VIII. Proporcionar la información solicitada que le sea requerida por autoridad competente, o por las unidades administrativas del Consejo;
+VIII. Proporcionar la información solicitada que le sea requerida por autoridad; competente, o por las unidades administrativas del Consejo;
 
 IX. Proponer a la persona titular de la Presidencia del Consejo la modificación de la estructura orgánico-funcional de la unidad administrativa a su cargo;
 
-> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+X. Expedir copias certificadas de documentos y constancias existentes en los archivos de la unidad administrativa a su cargo;
 
-X. Proponer a la persona titular de la Presidencia del Consejo el nombramiento o remoción de las personas servidoras públicas adscritas a la Dirección General Adjunta o en su caso, a la Coordinación, Dirección o Subdirección de Área de la que son titulares; y aquellas que en virtud de su desempeño laboral puedan ser tomadas en consideración para recibir estímulos y recompensas; atendiendo lo estipulado en el artículo 30, fracción VII de la Ley;
-
-XI. Proponer a la persona titular de la Presidencia del Consejo el nombramiento o remoción de las personas servidoras públicas adscritas a la Dirección General Adjunta o, en su caso, a la Dirección o Subdirección de Área de la que son titulares; y aquellas que en virtud de su desempeño laboral puedan ser tomadas en consideración para recibir estímulos y recompensas; atendiendo lo estipulado en el artículo 30, fracción VII de la Ley;
+XI. Proponer a la persona titular de la Presidencia del Consejo el nombramiento o remoción de las personas servidoras públicas adscritas a la Dirección General Adjunta o en su caso, a la Coordinación, Dirección o Subdirección de Área de la que son titulares; y aquellas que en virtud de su desempeño laboral puedan ser tomadas en consideración para recibir estímulos y recompensas; atendiendo lo estipulado en el artículo 30, fracción VII de la Ley;
 
 XII. Solicitar la información que estime necesaria en el ámbito de su competencia a las instituciones públicas o a las y los particulares, sean personas físicas o morales, para el mejor desarrollo de sus atribuciones, con las excepciones previstas por la legislación;
 
@@ -689,13 +685,9 @@ XII. Verificar la ejecución de las medidas administrativas y promover ante los 
 
 XIII. Resolver los recursos de revisión que se presenten contra las resoluciones y actos que tengan por concluido el procedimiento de queja;
 
-> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
+XIV. (DEROGADA, D.O.F. 14 DE DICIEMBRE DE 2023)
 
-XIV. Coadyuvar en la implementación del Mecanismo de Gestión Pública sin Discriminación en la Administración Pública Federal;
-
-> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
-
-XV. Generar la información estadística a fin de elaborar los informes a los que se encuentra obligada la Dirección;
+XV. (DEROGADA, D.O.F. 14 DE DICIEMBRE DE 2023)
 
 > <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
@@ -705,9 +697,13 @@ XVI. Delegar las facultades correspondientes a las personas titulares de las dir
 
 XVII. Resguardar y administrar el archivo de los expedientes en trámite y transferir la documentación bajo su resguardo a la Dirección de Planeación, Administración y Finanzas, al fenecer el periodo de conservación, y
 
-> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
+> <small>(ADICIONADA, D.O.F. 14 DE DICIEMBRE DE 2023)</small>
 
-XVIII. Las demás que le confiera la persona titular de la Presidencia del Consejo;
+XVIII. Tanto la Dirección General Adjunta de Quejas, como las Direcciones de Área que la conforman, podrán delegar a las Subdirecciones de Área las facultades que, a su consideración, resulten pertinentes para el buen funcionamiento de las misma (sic), lo cual se realizará mediante oficio delegatorio.
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XVIII], D.O.F. 14 DE DICIEMBRE DE 2023)
+
+XIX. Las demás que le confiera la persona titular de la Presidencia del Consejo;
 
 (REPUBLICADO PRIMER PÁRRAFO, D.O.F 20 DE JUNIO DE 2017)
 
@@ -1277,9 +1273,15 @@ SEGUNDO. A partir de los treinta días hábiles siguientes a la entrada en vigor
 
 TERCERO. A partir de la entrada en vigor de las reformas al artículo 55, se instruye al titular de la Dirección de Planeación, Administración y Finanzas para que realice todas las gestiones necesarias ante las Autoridades correspondientes a fin de que se provea de forma inmediata respecto de la ampliación estructural requerida para el funcionamiento de la Dirección de Asuntos Jurídicos.
 
-CUARTO. La reforma por la que se deroga el Título Séptimo del Estatuto Orgánico del Consejo Nacional para Prevenir la Discriminación entrará en vigor al día hábil siguiente de la fecha en que se publique en el Diario Oficial de la Federación el Reglamento que regule (sic) Procedimiento de Queja del Consejo Nacional para Prevenir la Discriminación.
+CUARTO. (DEROGADO, D.O.F. 14 DE DICIEMBRE DE 2023)
 
 QUINTO. Los procedimientos de queja iniciados antes de la entrada en vigor del presente Acuerdo por el que se deroga el Título Séptimo del Estatuto Orgánico del Consejo Nacional para Prevenir la Discriminación, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos o actos que le dieron origen.
+
+> <small>(ADICIONADO, D.O.F. 14 DE DICIEMBRE DE 2023)</small>
+
+SEXTO. El Manual de Procedimientos de la Dirección General Adjunta de Quejas del Consejo Nacional para Prevenir la Discriminación, entrará en vigor a los 60 días hábiles posteriores a su publicación en el Diario Oficial de la Federación.
+
+Los asuntos tramitados a la entrada en vigor del presente manual seguirán vigentes con la normativa aplicable al momento de su radicación.
 
 D.O.F. 10 DE JUNIO DE 2020.
 
@@ -1300,3 +1302,15 @@ D.O.F. 11 DE AGOSTO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE DA A CONOCER LA REFORMA AL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN”.]
 
 PRIMERO. La presente reforma entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F 14 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER LA REFORMA DEL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN, ASÍ COMO LA ACTUALIZACIÓN AL MANUAL DE PROCEDIMIENTOS DE LA DIRECCIÓN ADJUNTA DE QUEJAS DE ESTA ENTIDAD.]
+
+###### ARTÍCULO PRIMERO.
+
+– Se comunica a las personas servidoras públicas y público en general, para todos los efectos legales y administrativos a que haya lugar la dirección electrónica institucional donde se encuentran disponibles para su consulta la reforma del Estatuto Orgánico del Consejo Nacional para Prevenir la Discriminación, así como la actualización del Manual de Procedimientos de la Dirección General Adjunta de Quejas del Consejo Nacional para Prevenir la Discriminación, ordenándose su publicación en el Diario Oficial de la Federación, con fundamento en lo dispuesto en el artículo 4 de la Ley Federal de Procedimiento Administrativo.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Acuerdo, entrará en vigor a partir del día de su publicación en el Diario Oficial de la Federación.
