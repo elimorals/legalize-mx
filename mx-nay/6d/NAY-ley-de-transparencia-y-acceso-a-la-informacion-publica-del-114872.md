@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1148
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-03"
-last_updated: "2023-03-24"
+last_updated: "2023-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el martes 3 de mayo de 2016.
 
@@ -351,9 +351,11 @@ La página de inicio de los portales de Internet de los sujetos obligados tendr�
 
 Las obligaciones de transparencia deberán publicarse con perspectiva de género y discapacidad, cuando así corresponda a su naturaleza.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 29.
 
-El Instituto y los sujetos obligados establecerán las medidas que faciliten el acceso y búsqueda de la información para personas con discapacidad y se procurará que la información publicada sea accesible de manera focalizada a personas que hablen alguna lengua indígena.
+El Instituto y los sujetos obligados establecerán las medidas que faciliten el acceso y búsqueda de la información para grupos en situación de vulnerabilidad, con especial atención a las personas con discapacidad y se procurará que la información publicada sea accesible de manera focalizada a personas que hablen alguna lengua indígena.
 
 Por lo que, por sí mismos o a través del Sistema Nacional, deberán promover y desarrollar de forma progresiva, políticas y programas tendientes a garantizar la accesibilidad de la información en la máxima medida posible.
 
@@ -1543,9 +1545,17 @@ A) Generales:
 
 21. Calificar las reservas de información hechas por los sujetos obligados;
 
-22. Mantener una efectiva colaboración y coordinación con los sujetos obligados, a fin de lograr el cumplimiento de esta Ley, y
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
 
-23. Las demás que les confieran esta Ley y otras disposiciones aplicables.
+22. Mantener una efectiva colaboración y coordinación con los sujetos obligados, a fin de lograr el cumplimiento de esta Ley;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2023)</small>
+
+23. Vigilar que los sujetos obligados implementen y cumplan con las disposiciones previstas en el artículo 29 de esta Ley, y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 14 DE DICIEMBRE DE 2023)</small>
+
+24. Las demás que les confieran esta Ley y otras disposiciones aplicables.
 
 B) En materia de acceso a la información pública:
 
@@ -2656,3 +2666,9 @@ P.O. 24 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 204 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 14 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
