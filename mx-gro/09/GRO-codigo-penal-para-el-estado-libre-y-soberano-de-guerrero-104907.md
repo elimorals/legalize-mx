@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2023-06-09"
+last_updated: "2023-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2023.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -2395,6 +2395,40 @@ Se le impondrán de dos a ocho años de prisión y multa de trescientos a noveci
 
 La pena aumentará hasta en una tercera parte, cuando se pruebe que sea mujer y se encuentre antecedida por cualquier conducta que denigre a esta.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 202 Bis.
+
+Comete el delito de violencia vicaria quien mantenga o haya mantenido una relación de matrimonio, concubinato o de hecho y que por sí o por interpósita persona, busque dañar a una mujer utilizando como medio a las hijas o hijos, personas adultas mayores, personas en situación de dependencia, personas con un vínculo afectivo o un ser sintiente.
+
+Para efectos de este tipo penal, de forma enunciativa más no limitativa, se considera que se causa un daño a la mujer cuando:
+
+I. Existen antecedentes de violencia de género en contra de la mujer
+
+II. Sin orden de la autoridad competente se sustraiga de la guarda o custodia de la madre a sus hijas e hijos
+
+III. Existan amenazas de quien agrede hacia la madre de no volver a ver sus hijas e hijos o perder la custodia de estas y estos
+
+IV. Se evite, sin causa justificada, la convivencia de las hijas e hijos con la madre
+
+V. Exista cualquier acto de manipulación que tenga por objeto que las hijas e hijos rechacen, generen rencor, antipatía, desagrado o miedo hacia la madre
+
+VI. Se dilaten los procesos jurídicos por parte de quien agrede con el objetivo de romper el vínculo materno filial
+
+VII. Existan amenazas de dañar a hijas, hijos, personas adultas mayores, personas en situación de dependencia, con un vínculo afectivo o seres sintientes.
+
+Con independencia de las penas que se señala (sic) este Código para las conductas enunciadas en el párrafo anterior, a quien cometa violencia vicaria a través de éstas, se le impondrán de cuatro a ocho años de prisión, así como pérdida de los derechos que tenga respecto de las víctimas directas e indirectas incluidos los de Guardia y custodia, patria potestad y de carácter sucesorio de hijas e hijos, y se decretarán las medidas de protección conforme a lo establecido por este Código y la legislación de procedimientos penales aplicable al Estado Libre y Soberano de Guerrero.
+
+Las penas previstas se incrementarán hasta en una mitad en su mínimo y en su máximo si se incurre en daño físico a las víctimas indirectas, o bien, en aquellos casos en que la familia de quien agrede incurra en complicidad o haya ejercido algún tipo de violencia en contra de la mujer madre.
+
+Las penas previstas para los delitos establecidos en el Libro Segundo, Título Quinto, se incrementarán hasta por la mitad en su mínimo y en su máximo cuando sean cometidos contra los hijos e hijas de mujeres víctimas de violencia vicaria.
+
+Al tener conocimiento de cualquiera de las conductas a que se refiere este artículo, el Ministerio Público ordenará de manera inmediata las acciones pertinentes para salvaguardar la integridad de las víctimas directas e indirectas, incluyendo de forma enunciativa más no limitativa las órdenes de protección, el acompañamiento integral a instituciones de apoyo, o bien, el traslado a un lugar que las víctimas señalen como seguro, esto sin perjuicio del ejercicio (sic) la acción penal en los términos de las leyes aplicables.
+
+En materia de violencia vicaria, el Ministerio Público dará vista de los hechos al juzgado de lo familiar competente para que se dicten las medidas de recuperación de las hijas e hijos.
+
+En términos de este Código, la denuncia por hechos que constituyan violencia vicaria puede llevarse a cabo por las víctimas, o bien, un tercero considerado como ofendido, en ambos casos el ejercicio de la acción penal es imprescriptible.
+
 ###### Artículo 203.
 
 Definiciones
@@ -2420,6 +2454,10 @@ VII. Violencia laboral: Acto que condiciona el acceso de una mujer a un empleo m
 VIII. Violencia educativa: Acto u omisión que obstaculice, condicione o excluya a las mujeres o a las niñas el acceso o permanencia en la escuela o centro educativo, por cualquier circunstancia que resulte discriminatoria, y
 
 IX. Violencia institucional: Acto u omisión en el ejercicio de la función pública que dilate, obstaculice, niegue la debida atención o impida el acceso a programas, acciones, recursos públicos y al disfrute de políticas públicas, por razones de género,
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+X. Violencia Vicaria: Acción u omisión cometida por aquel con quien una mujer tenga o haya tenido relación de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho, que tenga por objeto o resultado el rompimiento o la obstrucción del vínculo con la madre, provocar un daño físico, psicológico, emocional o de cualquier otro tipo a una mujer a través del maltrato, menoscabo, sustracción, daño, peligro u homicidio de sus hijas e hijos, una persona vinculada afectivamente a la mujer, o un ser sintiente. Este tipo de violencia puede cometerse por sí, o a través de un tercero, y es particularmente grave cuando se ejerce por familiares o personas con relación afectiva de quien comete este tipo de violencia, así como por las instituciones de justicia que al no reconocerla, emiten sentencias en contra de los derechos de las mujeres y del interés superior de la niñez.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -5114,5 +5152,15 @@ P.O. 9 DE JUNIO DE 2023.
 PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para para (sic) su conocimiento y efectos legales correspondientes.
+
+TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
+
+P.O. 15 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 472 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358; EL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 499; LA LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO Y LA LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE GUERRERO NÚMERO 280, EN MATERIA DE VIOLENCIA VICARIA”.]
+
+PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para para su conocimiento y efectos legales correspondientes.
 
 TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
