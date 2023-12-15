@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-prevencion-y-atencion-de-la-violencia-familiar-del-14735
 country: "mx"
 rank: "ley"
 publication_date: "1999-04-13"
-last_updated: "2010-12-03"
+last_updated: "2023-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE ASISTENCIA Y PREVENCION DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE GUERRERO, NUM. 280
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 13 de abril de 1999.
 
@@ -98,6 +98,10 @@ IV.- Violencia sexual: Cualquier acto que degrade o dañe el cuerpo y/o la sexua
 V.- Violencia patrimonial: Cualquier acto u omisión que afecta la supervivencia de un integrante de la familia y se manifiesta en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos; destinados a satisfacer las necesidades de la familia y pueden abarcar los daños a los bienes comunes o propios de la víctima; y
 
 VI.- Violencia económica: Es toda acción u omisión que afecta la supervivencia económica de quienes integran la familia.
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+VII.- Violencia Vicaria: Se entiende por violencia vicaria lo establecido en el artículo 203 fracción X del Código Penal para el estado Libre y Soberano de Guerrero, Número 499.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
@@ -656,3 +660,13 @@ P.O. 3 DE DICIEMBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 472 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358; EL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 499; LA LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO Y LA LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE GUERRERO NÚMERO 280, EN MATERIA DE VIOLENCIA VICARIA”.]
+
+PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para para (sic) su conocimiento y efectos legales correspondientes.
+
+TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
