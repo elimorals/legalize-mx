@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-movilidad-del-estado-de-quintana-roo-129124"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-14"
-last_updated: "2023-12-04"
+last_updated: "2023-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129124&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 14 de junio de 2018.
 
@@ -75,9 +75,9 @@ Todo vehículo de Servicio Público o Privado de Transporte, que utilicen las v�
 
 El servicio de transporte contratado a través de plataformas tecnológicas o digitales podrá ser público o privado, los cuales requerirán de los documentos que al efecto les otorgue el Instituto de Movilidad del Estado de Quintana Roo, conforme a la regulación prevista en la presente Ley y su Reglamento.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-El tránsito y vialidad Estatal y Municipal, estarán regulados por el Reglamento de Tránsito correspondiente. Los Ayuntamientos, en el ejercicio de sus atribuciones de planeación, regulación y supervisión, se sujetarán a lo establecido en esta Ley y demás disposiciones normativas que de ella deriven, así como a lo dispuesto en el Programa Integral de Movilidad, debiendo, entre otros aspectos, hacer las adecuaciones correspondientes a su reglamentación municipal en los términos previstos en este ordenamiento.
+El tránsito y vialidad Estatal y Municipal, estarán regulados por el Reglamento de Tránsito correspondiente. Los Ayuntamientos, en el ejercicio de sus atribuciones de planeación, regulación y supervisión, se sujetarán a lo establecido en esta Ley y demás disposiciones normativas que de ella deriven, así como a lo dispuesto en el Programa Integral de Movilidad y el Programa Integral de Seguridad Vial, debiendo, entre otros aspectos, hacer las adecuaciones correspondientes a su reglamentación municipal en los términos previstos en este ordenamiento.
 
 En la observancia de esta Ley se atenderán y aplicarán, en lo conducente, las disposiciones aplicables en las materias de equilibrio ecológico y la protección al ambiente, en particular la evaluación del impacto ambiental, las emisiones contaminantes a la atmósfera, la prevención y control del ruido y el manejo integral de residuos; asentamientos humanos; obras públicas; protección de derechos humanos; mejora regulatoria, y todas las demás que se vinculen directamente con la materia de movilidad a que se refiere el presente ordenamiento.
 
@@ -185,9 +185,9 @@ XXXIX. Legislatura: La Legislatura del Estado de Quintana Roo;
 
 XL. Ley: Ley de Movilidad del Estado de Quintana Roo;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-XLI. Licencia de conducir: Documento que expide el Instituto a una persona física y que lo autoriza para conducir un vehículo motorizado en todas sus modalidades, previo cumplimiento de los requisitos establecidos en los ordenamientos jurídicos y administrativos, así como la validación de la Secretaría de Seguridad Ciudadana del Estado y comprobación de pago de derechos ante la autoridad competente;
+XLI. Licencia de conducir: Documento que otorga el Instituto a una persona física y que lo autoriza para conducir un vehículo motorizado en todas sus modalidades, previo cumplimiento de los requisitos establecidos en esta Ley y en los ordenamientos jurídicos y administrativos, y previa comprobación de pago de la tarifa o contribución correspondiente;
 
 > <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
@@ -233,9 +233,9 @@ LI. Peatón: Persona que transita por la vialidad a pie y/o que utiliza de ayuda
 
 LII. Permisionario: Persona física o moral que, al amparo de un permiso otorgado por el Instituto, realiza la prestación del servicio público, privado o mercantil, de transporte de pasajeros y carga, sujetándose a las disposiciones de la presente Ley;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-LIII. Permiso para conducir: Documento que expide el Instituto a una persona mayor de quince y menor de dieciocho años de edad y que lo autoriza para conducir un vehículo motorizado, previo cumplimiento de los requisitos establecidos en los ordenamientos jurídicos y administrativos, así como la validación de la Secretaría de Seguridad Ciudadana del Estado y comprobación de pago de derechos ante la autoridad competente;
+LIII. Permiso para conducir: Documento que otorga el Instituto a una persona mayor de quince y menor de dieciocho años de edad y que lo autoriza para conducir un vehículo motorizado, previo cumplimiento de los requisitos establecidos en esta Ley, en los ordenamientos jurídicos y administrativos, y previa comprobación del pago de la tarifa o contribución correspondiente;
 
 > <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
@@ -553,9 +553,11 @@ La integración y el funcionamiento del Órgano Interno de Control del Instituto
 
 #### Sección II. De las facultades y obligaciones del Instituto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 25.
 
-El Instituto contará con las siguientes facultades en materia de movilidad:
+El Instituto contará con las siguientes facultades en materia de movilidad y seguridad vial:
 
 I. Elaborar y expedir el Programa Integral de Movilidad y el Programa Integral de Seguridad Vial, conforme a lo previsto en este ordenamiento, previa aprobación del Gobernador del Estado en los términos del Reglamento de la presente Ley;
 
@@ -621,17 +623,17 @@ XXVIII. Determinar las infracciones a la presente Ley, su Reglamento y demás di
 
 XXIX. Imponer a los infractores las sanciones administrativas previstas en el presente ordenamiento;
 
-> <small>(REFORMADA EN SU PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-XXX. En coordinación con la Secretaría de Seguridad Ciudadana del Estado en:
+XXX. En coordinación con la Secretaría de Seguridad Ciudadana del Estado en materia de seguridad:
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2023)</small>
-
-a) El otorgamiento de licencias y permisos para conducir de uso particular, así como las del servicio público o privado de transporte en todas sus modalidades, previa comprobación de pago de derechos ante la autoridad competente;
+a) (DEROGADO, P.O. 15 DE DICIEMBRE DE 2023)
 
 b) Contar con acceso a la información generada de los movimientos al padrón vehicular a cargo de la Secretaría de Finanzas y Planeación del Estado;
 
-c) La integración del registro público de transporte, y
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+c) La integración del Registro Público del Transporte;
 
 d) La expedición de la documentación para que los vehículos circulen conforme a las leyes y reglamentos vigentes, en el ámbito de su competencia;
 
@@ -643,9 +645,9 @@ XXXIII. Otorgar permisos temporales para la prestación del servicio de transpor
 
 > <small>(DEROGADO, P.O. 28 DE ABRIL DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-XXXIV. Integrar el Registro Estatal de licencias de conducir;
+XXXIV Integrar el Registro Estatal de Licencias y Permisos de Conducir;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ABRIL DE 2023)</small>
 
@@ -663,13 +665,33 @@ XXXVII. Integrar un registro de personas morales que medien o promuevan la contr
 
 XXXVIII. Emitir las reglas de carácter general con la finalidad de generar equidad entre los prestadores de servicio público y privado de transporte;
 
-> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-XXXIX. Impulsar en el ámbito de su competencia, cursos obligatorios a los prestadores de servicios del transporte público y privado, con un enfoque de prevención y erradicación del acoso sexual y todas las formas de violencia de género en el transporte, y.
+XXXIX. Impulsar en el ámbito de su competencia, cursos obligatorios a los prestadores de servicios del transporte público y privado, con un enfoque de prevención y erradicación del acoso sexual y todas las formas de violencia de género en el transporte;
 
-> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-XL. Las demás que establezcan la presente Ley y la normatividad aplicable.
+XL. Coadyuvar con los Ayuntamientos y demás autoridades competentes en operativos de alcoholimetría;
+
+> <small>(ADICIONADA, P.O. 15 DICIEMBRE DE 2023)</small>
+
+XLI. Implementar acciones para revisar y vigilar el cumplimiento de las disposiciones relativas al otorgamiento de licencias, permisos, concesiones y autorizaciones;
+
+> <small>(ADICIONADA, P.O. 15 DICIEMBRE DE 2023)</small>
+
+XLII. Recaudar las tarifas por concepto del otorgamiento de licencias y permisos de conducir, así como los demás conceptos relacionados con su otorgamiento, de conformidad con la presente Ley y su Reglamento;
+
+> <small>(ADICIONADA, P.O. 15 DICIEMBRE DE 2023)</small>
+
+XLIII. Acreditar a las personas físicas o morales que pretendan dedicarse a impartir cursos y clases de manejo y a las direcciones de tránsito municipales que tengan la capacidad técnica y operativa de realizar los exámenes teóricos y prácticos de manejo;
+
+> <small>(ADICIONADA, P.O. 15 DICIEMBRE DE 2023)</small>
+
+XLIV. Definir los protocolos para realizar los exámenes de valoración integral, así como su evaluación, tomando en cuenta un apartado específico con los requisitos que garanticen que las personas con discapacidad puedan obtener su licencia o permiso de conducir en igualdad de condiciones;
+
+> <small>(ADICIONADA [REPUBLICADA Y REUBICADA ANTES FRACCIÓN XL], P.O. 15 DICIEMBRE DE 2023)</small>
+
+XLV. Las demás que establezcan la presente Ley y la normatividad aplicable.
 
 ###### Artículo 26.
 
@@ -719,13 +741,19 @@ VIII. Promover la implementación de esquemas de autorregulación para el transp
 
 IX. Lo demás que se establezca en la presente Ley y la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 29.
 
-El Instituto diseñará y ejecutará un programa que fomente la cultura de donación de órganos y tejidos en la expedición o renovación de la licencia de conducir, diseñando mecanismos para incluir una anotación que exprese la voluntad del titular de la misma respecto a la donación de sus órganos o tejidos, conforme a la normatividad aplicable.
+El Instituto diseñará y ejecutará un programa que fomente la cultura de donación de órganos, tejidos y células para trasplantes.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2023)</small>
+En el otorgamiento, la expedición o renovación de la licencia de conducir deberá realizar la anotación que exprese la voluntad del titular, conforme a la normatividad aplicable.
 
-Para efecto de lo anterior, el Instituto al expedir la licencia correspondiente, hará la anotación que indica el párrafo anterior.
+Los concesionarios, permisionarios, autorizados y/o cualquier otra persona relacionada con la prestación del servicio público o privado de transporte, al momento de realizar un trámite ante el Instituto deberán señalar si desean o no ser donadores autorizados de órganos, tejidos y células para trasplantes.
+
+El Instituto coadyuvará con la Secretaría de Salud del Estado de Quintana Roo para integrar la información que genere al Registro Estatal de Donadores de Quintana Roo, conforme a la Ley de Salud del Estado y demás disposiciones aplicables.
+
+Se exceptúa del cumplimiento de la presente disposición a las personas menores de edad.
 
 #### Sección III. De la Dirección General del Instituto
 
@@ -777,9 +805,9 @@ XVIII. Expedir concesiones, permisos y autorizaciones en los términos previstos
 
 XIX. Modificar, anular, suspender, revocar, determinar la extinción y rescatar, concesiones, permisos y autorizaciones, en los términos previstos en esta Ley y su Reglamento;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-XX. Expedir las licencias y permisos de conducir;
+XX. Otorgar las licencias y permisos de conducir;
 
 XXI. Ordenar la realización de actos de supervisión y resolver los expedientes administrativos correspondientes;
 
@@ -861,13 +889,17 @@ IX. Expedir las normas generales para que la Dirección General pueda disponer, 
 
 X. Fijar las bases, así como los montos mínimos, máximos y actualizaciones de las cuotas de recuperación por los servicios que preste el Instituto;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-XI Aprobar las reglas de operación del Fondo para la Movilidad del Estado de Quintana Roo;
+XI. Aprobar las reglas de operación del Fondo para la Movilidad del Estado de Quintana Roo;
 
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-XI Bis. Emitir las tarifas respecto a la expedición o renovación de las licencias o permisos para conducir vehículos de motor y
+XI Bis. Emitir las tarifas respecto a la expedición o renovación de las licencias o permisos para conducir vehículos motorizados, así como las demás contribuciones relacionadas con la expedición de los mismos;
+
+> <small>(ADICIONADA, P.O. 15 DICIEMBRE DE 2023)</small>
+
+XI Ter. Emitir las tarifas respecto al permiso de la impartición de cursos y clases de manejo impartidos por las personas físicas o morales.
 
 XII. Las demás que establezca la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo y la normatividad aplicable.
 
@@ -921,13 +953,11 @@ V. Determinar las políticas en materia de estacionamientos públicos establecid
 
 VI. Regular, aplicar y resolver todo lo relativo a las concesiones, tarifas, inspección y vigilancia y sanciones, en el ámbito de sus competencias, para la prestación de Servicio Público de Transporte Urbano de Pasajeros en Autobuses en ruta establecida, así como autorizar el uso de los carriles exclusivos, mecanismos y elementos de confinamiento, emitiendo dictamen que motive mediante Acuerdo del Ayuntamiento correspondiente, y
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-VII. Practicar exámenes de aptitud y capacidad a los solicitantes de licencias y permisos de conducir, en el ámbito de sus competencias, de conformidad con lo establecido en la presente Ley y demás disposiciones que al respecto emita la Secretaría de Seguridad Ciudadana del Estado;
+VII. Realizar los exámenes teóricos y prácticos de manejo, previa acreditación ante el Instituto;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2023)</small>
-
-VIII. Recaudar por concepto de expedición de licencias y permisos de conducir de conformidad con las leyes fiscales municipales y previo convenio de coordinación con el Estado, y
+VIII. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2023)
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE ENERO DE 2019)</small>
 
@@ -1327,9 +1357,9 @@ El Gobernador del Estado, a propuesta del Instituto, que será quien coordine co
 
 El Reglamento de Tránsito correspondiente determinará los requisitos legales y administrativos que deben cubrir los conductores y las características de seguridad con las que deberán contar los vehículos y conductores para transitar en el territorio del Estado de Quintana Roo.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-Es facultad de la Secretaría de Seguridad Pública del Estado de Quintana Roo, por conducto de la Dirección de la Policía de Tránsito del Estado y de las correspondientes autoridades de tránsito municipales, en el ámbito de sus competencias, vigilar el cumplimiento del Reglamento de Tránsito correspondiente y aplicar las sanciones establecidas en esta ley y dicho reglamento.
+Es facultad de la Secretaría de Seguridad Ciudadana del Estado de Quintana Roo, por conducto de la Dirección de la Policía de Tránsito del Estado y de las correspondientes autoridades de tránsito municipales en el ámbito de sus competencias, vigilar el cumplimiento del Reglamento de Tránsito correspondiente y aplicar las sanciones establecidas en esta ley y dicho reglamento.
 
 ###### Artículo 78.
 
@@ -2475,6 +2505,10 @@ Las modalidades de taxi ruletero y de taxi de sitio específico del servicio pú
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2023)</small>
 
+#### Sección Primera. Registro Público de Transporte
+
+> <small>(ADICIONADO, P.O. 15 DICIEMBRE DE 2023)</small>
+
 ###### Artículo 149.
 
 (DEROGADO, P.O. 28 DE ABRIL DE 2023)
@@ -2743,6 +2777,10 @@ Para efectos de la presente Ley, se considerarán plataformas tecnológicas o di
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2023)</small>
 
+#### Sección Segunda. Del Registro Estatal de Licencias y Permisos para Conducir
+
+> <small>(ADICIONADO, P.O. 15 DICIEMBRE DE 2023)</small>
+
 ###### Artículo 160.
 
 Las plataformas tecnológicas o digitales permitirán al usuario conocer la siguiente información:
@@ -2851,6 +2889,8 @@ La extinción de una autorización, concesión o permiso por cualquiera de las c
 
 ### CAPÍTULO NOVENO. De las Licencias y Permisos para Conducir
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 168.
 
 El Instituto promoverá el uso de medios de transporte alternativos al transporte particular automotor, por lo que la emisión de actos jurídicos que tengan por objeto autorizar o ampliar estacionamientos deberá justificarse por su necesidad estricta y por el beneficio social generado.
@@ -2871,21 +2911,37 @@ Los estacionamientos que presten servicios al público deberán tener las instal
 
 El Instituto propondrá, para su aprobación, al Gobernador del Estado, con base en los estudios correspondientes, las tarifas para el cobro del servicio en los estacionamientos públicos para buscar cumplir los objetivos de reducción del uso del automóvil particular e incentivar el uso del transporte público y no motorizado, en el ámbito de sus competencias.
 
-### CAPITULO DÉCIMO. Del Registro Público del Transporte
+### CAPÍTULO DÉCIMO. DE LOS REGISTROS ESTATALES DE MOVILIDAD
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+> <small>(ADICIONADO, P.O. 15 DICIEMBRE DE 2023)</small>
 
 ###### Artículo 172.
 
-Todo conductor de vehículo motorizado en cualquiera de sus modalidades, incluyendo a los motociclistas, deberá contar y portar licencia para conducir junto con la documentación establecida por esta Ley y otras disposiciones aplicables de acuerdo con las categorías, modalidades y tipo de servicio.
+El Instituto será la única autoridad facultada para otorgar las licencias y permisos de conducir en el Estado de Quintana Roo.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2023)</small>
+Todo conductor de vehículo motorizado en cualquiera de sus modalidades, deberá contar y portar licencia o permiso para conducir físico y/o digital, junto con la documentación establecida por esta Ley y otras disposiciones aplicables de acuerdo con las modalidades del servicio público o privado de transporte o de uso particular, así como del tipo de servicio que se presta en el Estado.
 
 El Instituto podrá otorgar permisos para conducir vehículos motorizados de uso particular a personas físicas menores de dieciocho y mayores de quince años de edad, conforme a lo establecido en los ordenamientos jurídicos y administrativos aplicables.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 173.
 
-Para la obtención de licencias o permisos para conducir de cualquier tipo, será necesario acreditar las evaluaciones, cursos y demás requisitos que para tal efecto se establezcan en la normatividad aplicable.
+Las licencias y permisos de conducir tendrán una vigencia de hasta cinco años de forma general y de dos años en el caso de licencias para la conducción de vehículos de emergencia, incluyendo aquellos para actividades de atención médica o policiaca y vehículos de transporte escolar.
+
+Previo a la fecha de expedición o renovación de la licencia o permiso, la persona solicitante deberá realizar los exámenes de valoración integral que demuestre su aptitud, así como el examen teórico y práctico de conocimientos y habilidades necesarias, para conducir un vehículo motorizado en cualquiera de las modalidades las evaluaciones, cursos y demás requisitos previstos en la presente Ley y su Reglamento. Para personas con discapacidad, el examen de valoración deberá realizarse en formatos accesibles, para lo cual el Instituto deberá emitir los lineamientos respectivos.
+
+> <small>(ADICIONADO, P.O. 15 DICIEMBRE DE 2023)</small>
+
+###### Artículo 173 Bis.
+
+Para efectos del artículo anterior, el Instituto acreditará a las personas físicas o morales que pretendan dedicarse a impartir cursos y clases de manejo y a las direcciones de tránsito municipales que tengan la capacidad técnica y operativa de realizar los exámenes teóricos y prácticos de manejo.
+
+Una vez obtenida la acreditación correspondiente, podrán emitir una constancia a las personas solicitantes de la licencia o permiso de conducir a través de la cual podrán acreditar que cuentan con los conocimientos, habilidades y aptitudes necesarias para conducir un vehículo automotor.
+
+El Instituto deberá certificar los planes de estudios o currículo establecido para la aplicación de exámenes prácticos y teóricos que aplicarán las personas físicas o morales, así como las direcciones de tránsito municipales que cuenten con la acreditación respectiva.
+
+Asimismo, el Instituto acreditará a las instituciones públicas y/o personas físicas o morales que pretendan realizar los exámenes médicos, toxicológicos y de vista a los solicitantes de la licencia o permiso de conducir.
 
 ###### Artículo 174.
 
@@ -2903,37 +2959,65 @@ III. Las demás previstas en la presente Ley y su Reglamento.
 
 El Instituto está facultado para cancelar de forma definitiva las licencias o permisos para conducir por las siguientes causas:
 
-I. Cuando el titular sea sancionado por segunda vez en un periodo de un año, por conducir un vehículo en estado de ebriedad;
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-II. Cuando el titular sea sancionado por tercera ocasión en un periodo de tres o más años por conducir un vehículo en estado de ebriedad;
+I. Cuando sea de uso particular y el titular sea sancionado por cuarta ocasión por conducir un vehículo en estado de ebriedad o bajo la influencia de estupefacientes, psicotrópicos u otras sustancias tóxicas, lo cual podrá ser verificado a través de la Plataforma Estatal de Infracciones que para el efecto disponga el Instituto;
 
-III. Cuando el titular cometa alguna infracción a la presente Ley o sus reglamentos, bajo la influencia de estupefacientes, psicotrópicos u otras sustancias tóxicas;
+II. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2023).
 
-IV. Cuando al titular se le sancione en dos ocasiones con la suspensión del permiso o la licencia de conducir;
+III. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2023)
 
-V. Cuando se compruebe que la información proporcionada para su expedición es falsa, o bien que alguno de los documentos presentados es falso o alterado, en cuyo caso se dará vista a la autoridad competente, y
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-VI. (DEROGADA, P.O. 16 DE ENERO DE 2019)
+IV. Cuando al titular se le sancione en dos ocasiones con la suspensión del permiso o la licencia de conducir, en cuyo caso la tercera suspensión devendrá en cancelación;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+V. Cuando se compruebe que la información proporcionada para su otorgamiento sea falsa, o bien que alguno de los documentos presentados es falso o alterado, en cuyo caso se dará vista a la autoridad competente;
+
+> <small>(ADICIONADA, P.O. 15 DICIEMBRE DE 2023)</small>
+
+VI. Por resolución administrativa o judicial;
+
+> <small>(ADICIONADA, P.O. 15 DICIEMBRE DE 2023)</small>
+
+VII. Cuando el titular sea permisionario o concesionario, operador, empleado o persona relacionada con la prestación del servicio público de transporte e incurran en la alteración de la tarifa autorizada por el Instituto;
+
+> <small>(ADICIONADA, P.O. 15 DICIEMBRE DE 2023)</small>
+
+VIII. Cuando cualquier conductor preste el servicio público o privado de transporte sin contar con la concesión o permiso correspondiente;
+
+> <small>(ADICIONADA, P.O. 15 DICIEMBRE DE 2023)</small>
+
+IX. Cuando el titular sea permisionario o concesionario, operador, empleado o persona relacionada con la prestación del servicio público o privado de transporte que, al estar en servicio, conduzca, por segunda ocasión, en estado de ebriedad o bajo la influencia de estupefacientes, psicotrópicos u otras sustancias tóxicas, y
+
+> <small>(ADICIONADA, P.O. 15 DICIEMBRE DE 2023)</small>
+
+X. Cuando se compruebe por autoridad competente y en última instancia que la persona titular abandonó injustificadamente el lugar de un hecho de tránsito en el que esté involucrado.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 176.
 
-El Instituto podrá suspender en forma temporal el uso de licencia o permiso para conducir, por un término de seis meses a tres años, en los siguientes casos:
+El Instituto podrá suspender en forma temporal las licencias o permisos para conducir, por un término de un año a cinco años, en los siguientes casos:
 
-I. Si el conductor acumula tres infracciones a la presente Ley o sus reglamentos en el transcurso de un año;
+I. Por un año, cuando sea de uso particular y el titular sea sancionado por primera ocasión por conducir un vehículo en estado de ebriedad o bajo la influencia de estupefacientes, psicotrópicos u otras sustancias tóxicas, quedando obligado el infractor a someterse a un tratamiento de combate a las adicciones que determine su rehabilitación en una institución especializada pública o privada que al efecto el Instituto señale;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
+II. Por un año, si en un periodo de un año el conductor acumula tres infracciones a la presente Ley o sus reglamentos, así como a los reglamentos de tránsito municipales que correspondan;
 
-II. Cuando el titular de la misma haya causado algún daño a terceros o a sus bienes sin resarcirlo, al conducir un vehículo, por resolución que haya causado estado dictada por autoridad competente;
+III. Por un año, cuando el titular sea permisionario o concesionario, operador, empleado o persona relacionada con la prestación del servicio público o privado de transporte que, al estar en servicio, conduzca por primera ocasión, en estado de ebriedad o bajo la influencia de estupefacientes, psicotrópicos u otras sustancias tóxicas, quedando obligado el infractor a someterse a un tratamiento de combate a las adicciones que determine su rehabilitación en una institución especializada pública o privada, que al efecto el Instituto señale;
 
-III. Por un año cuando el titular sea sancionado por primera ocasión por conducir un vehículo en estado de ebriedad, quedando obligado el infractor a someterse a un tratamiento de combate a las adicciones que determine su rehabilitación en una institución especializada pública o privada, y
+IV. Por dos años, cuando sea de uso particular y el titular sea sancionado por segunda ocasión por conducir un vehículo en estado de ebriedad o bajo la influencia de estupefacientes, psicotrópicos u otras sustancias tóxicas, lo cual podrá ser verificado a través de la Plataforma Estatal de Infracciones que para el efecto disponga el Instituto; quedando obligado el infractor a someterse a un tratamiento de combate a las adicciones que determine su rehabilitación en una institución especializada pública o privada, que al efecto el Instituto señale;
 
-IV. Por tres años cuando el titular sea sancionado por segunda ocasión en un periodo mayor a un año, contado a partir de la primera sanción por conducir un vehículo en estado de ebriedad, quedando obligado el infractor a someterse a un tratamiento de combate a las adicciones que determine su rehabilitación en una institución especializada pública o privada.
+V. Por dos años, cuando por resolución que haya causado estado, dictada por autoridad competente, se determine que el titular de la misma, al conducir un vehículo, haya causado algún daño a terceros o a sus bienes sin resarcirlo;
 
-El titular de la licencia o permiso cancelado, quedará impedido para conducir vehículos motorizados en el territorio del Estado de Quintana Roo con licencia o permiso para conducir expedido en otra Entidad Federativa o país.
+VI. Por cinco años, cuando sea de uso particular y el titular sea sancionado por tercera ocasión por conducir un vehículo en estado de ebriedad o bajo la influencia de estupefacientes, psicotrópicos u otras sustancias tóxicas, lo cual podrá ser verificado a través de la Plataforma Estatal de Infracciones que para el efecto disponga el Instituto; quedando obligado el infractor a someterse a un tratamiento de combate a las adicciones que determine su rehabilitación en una institución especializada pública o privada.
 
-El conductor que infrinja el párrafo anterior, se le impondrá una sanción de ciento ochenta veces la Unidad de Cuenta vigente y se remitirá el vehículo al depósito vehicular.
+El titular de la licencia o permiso de conducir suspendido o cancelado, quedará impedido para conducir vehículos motorizados en la modalidad en que se haya otorgado la misma, en el territorio del Estado de Quintana Roo con licencia o permiso para conducir expedido en otra Entidad Federativa o país.
+
+El conductor que infrinja el párrafo anterior, se le impondrá una sanción de ciento ochenta veces el valor diario de la Unidad de Medida y Actualización vigente y se remitirá el vehículo al depósito vehicular.
+
+Las personas que conduzcan sin licencia o permiso de conducir, o estos se encuentren vencidos, serán acreedores a una sanción de treinta a cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente y la autoridad competente deberá realizar el retiro de placas y la tarjeta de circulación del vehículo.
 
 ###### Artículo 177.
 
@@ -2941,43 +3025,113 @@ A ninguna persona se le reexpedirá un permiso o licencia para conducir en los s
 
 I. Si el permiso o licencia para conducir está suspendida o cancelada;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-II. Cuando se compruebe que el solicitante ha sido calificado de incapacitad mental o física que le impida conducir vehículos motorizados y no compruebe mediante certificado médico haberse rehabilitado. Entendiendo que en caso de discapacidad física, la movilidad en vehículos motorizados podría superarse con adaptaciones de diversa índole que permitan conducirles de forma segura y eficiente. La incapacidad mental sólo podrá avalarse por autoridad facultada para ello;
+II. Cuando se compruebe que la persona solicitante hubiera sufrido alguna discapacidad mental, intelectual o física que le impida conducir vehículos motorizados y no compruebe mediante certificado médico haberse rehabilitado. Entendiendo que, en caso de discapacidad física, la movilidad en vehículos motorizados podría superarse con adaptaciones de diversa índole que permitan conducirles de forma segura y eficiente. La discapacidad intelectual o mental sólo podrá avalarse por autoridad facultada para ello;
 
 III. Cuando presente documentación falsa o alterada o proporcione informes falsos, en la solicitud correspondiente;
 
-IV. Cuando le haya sido cancelado un permiso o concesión por causas imputables a su persona, y
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-V. Cuando así lo ordene la autoridad judicial o administrativa.
+IV. Para los operadores del servicio público o privado de transporte, cuando le haya sido revocado un permiso o concesión por causas imputables a su persona;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+V. Cuando así lo ordene la autoridad judicial o administrativa, y
+
+> <small>(ADICIONADA, P.O. 15 DICIEMBRE DE 2023)</small>
+
+VI. Cuando tenga una licencia o permiso de conducir que cuente con una infracción pendiente de pago o exista duplicidad de los mismos.
+
+> <small>(REFORMADO, P.O. 15 DICIEMBRE DE 2023)</small>
 
 ###### Artículo 178.
 
-A ninguna persona que porte una licencia o permiso para conducir expedido en el extranjero, se le permitirá conducir vehículos de transporte público de pasajeros o de carga registrados en el Estado de Quintana Roo.
+A ninguna persona que porte una licencia para conducir expedida en otra entidad federativa o en el extranjero, se le permitirá conducir vehículos de transporte público o privado de pasajeros o de carga registrados en el Estado de Quintana Roo.
 
 ###### Artículo 179.
 
 Los conductores y propietarios de vehículos motorizados, están obligados a responder por los daños y perjuicios causados a terceros en su persona y/o bienes, por la conducción de éstos.
 
+> <small>(REFORMADO, P.O. 15 DICIEMBRE DE 2023)</small>
+
 ###### Artículo 180.
 
-Los vehículos motorizados de uso particular que circulen en el Estado de Quintana Roo, deberán contar con un seguro de responsabilidad civil vigente que cubra por lo menos, los daños que puedan causarse a terceros en su persona y/o sus bienes por la conducción del vehículo; en los términos que se establezca para tal efecto en la normatividad aplicable.
+Los vehículos motorizados de uso particular y del Servicio Privado de Transporte, que circulen en el Estado de Quintana Roo, deberán contar con un seguro de responsabilidad civil vigente que cubra por lo menos, los daños que puedan causarse a terceros en su persona y/o sus bienes por la conducción del vehículo, por una suma asegurada de al menos veintinueve mil veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+La contratación de estos será responsabilidad del propietario del vehículo; en caso de contravenir esta disposición, se aplicarán las sanciones dispuestas por la presente Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 15 DICIEMBRE DE 2023)</small>
+
+###### Artículo 180 Bis.
+
+El Instituto integrará un registro con las licencias y permisos de conducir que se expidan en el Estado, con la finalidad de elaborar un padrón que permita dar seguimiento de los datos de las personas conductoras autorizadas para la conducción de un vehículo automotor, así como de las infracciones que estas llegaran a cometer.
+
+Los Ayuntamientos deberán integrar los registros municipales de infracciones, los cuales integrarán a su vez al Registro Estatal de Licencias y Permisos de Conducir, por lo que deberán vincular los datos referentes a la propiedad vehicular con los datos de la licencia o permiso de conducir, para fines de seguridad.
+
+El Instituto mantendrá actualizado estos registros incorporando información por medio de las respectivas unidades administrativas encargadas de la movilidad, tránsito y vialidad, de competencia estatal y municipal.
+
+El Estado y los Ayuntamientos deberán garantizar la seguridad de la información contenida en los registros, limitándolo a los fines que esta Ley dispone, para lo cual podrán desarrollar y utilizar las herramientas tecnológicas necesarias para el manejo adecuado de la información, apegándose a la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Quintana Roo.
+
+Esta información se compartirá de acuerdo con los protocolos que con este fin establezca el Instituto, de acuerdo con la normatividad en materia de Protección de Datos Personales.
+
+> <small>(ADICIONADO, P.O. 15 DICIEMBRE DE 2023)</small>
+
+###### Artículo 180 Ter.
+
+El otorgamiento de las licencias y permisos de conducir se compone por las siguientes etapas:
+
+I. Tramitación: El procedimiento mediante el cual la persona interesada se presenta ante la autoridad competente, cumpliendo los requisitos establecidos en la normatividad aplicable y el pago de la (sic) tarifas o contribuciones correspondientes, a efecto de solicitar su licencia o permiso de conducir.
+
+II. Expedición: Acto administrativo mediante el cual la autoridad competente, previo cumplimiento de los requisitos establecidos en la normatividad aplicable elabora el documento, en su versión física y/o digital, que acredita que la persona interesada está autorizada para la conducción de un vehículo motorizado.
+
+III. Administración de datos: El proceso de recopilación, almacenamiento, protección y uso de los datos.
+
+IV. Supervisión: Facultad exclusiva del Instituto a través de la cual vigila el cumplimiento de las obligaciones de las disposiciones relativas a las licencias o permisos de conducir establecidas en la Ley y su Reglamento.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DICIEMBRE DE 2023)</small>
 
 ### CAPÍTULO PRIMERO. Disposiciones Generales
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2023)</small>
 
+###### Artículo 180 Quáter.
+
+El Instituto tendrá a su cargo los siguientes registros en materia de movilidad:
+
+I. Registro Público del Transporte;
+
+II. Registro Estatal de Licencias y Permisos de Conducir, y
+
+III. Los demás que sean necesarios para el cumplimiento de la presente Ley.
+
+Asimismo, el Instituto pondrá a disposición de los Ayuntamientos la Plataforma Estatal de Infracciones para que, a su vez, estos puedan alimentar la base de datos con la información relativa a las infracciones impuestas dentro de su jurisdicción, apegándose a la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Quintana Roo.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+
 ###### Artículo 181.
 
 El Registro Público del Transporte estará a cargo del Instituto y tiene como objeto el desempeño de la función registral en todos sus órdenes, de acuerdo con esta Ley y su Reglamento, así como las funciones de seguridad pública y de seguridad nacional que le señalen las Autoridades competentes conforme a la normatividad del Sistema Nacional de Seguridad Pública.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DICIEMBRE DE 2023)</small>
+
+###### Artículo 181 Bis.
+
+Se reconocen los archivos de movilidad que obran en el Archivo Central del Instituto, ubicado en la Ciudad de Chetumal, Municipio de Othón P. Blanco, así como los que se encuentran dentro de las delegaciones y que forman parte íntegra del Registro Público del Transporte.
+
+> <small>(REFORMADO, P.O. 15 DICIEMBRE DE 2023)</small>
+
 ###### Artículo 182.
 
-El Registro Público del Transporte estará conformado por el conjunto de datos, archivos y registros catalogados y clasificados que conllevan a la aplicación de manuales de operación, formatos, procesos y procedimientos específicos, relativos a los propietarios de los vehículos y sus respectivas formas de autorización para la circulación, las licencias y permisos para conducir, así como las cualidades, condiciones, características y modalidades de los vehículos, incluyendo híbrido o eléctrico, que circulan en el Estado de Quintana Roo, lo anterior de acuerdo a lo establecido en las disposiciones aplicables en materia de protección de datos personales.
+El Registro Público del Transporte estará conformado por el conjunto de datos, archivos y registros catalogados y clasificados que conllevan a la aplicación de manuales de operación, formatos, procesos y procedimientos específicos, relativos a los propietarios de los vehículos y sus respectivas formas de autorización para la circulación, así como las cualidades, condiciones, características y modalidades de los vehículos, incluyendo híbrido o eléctrico, que circulan en el Estado de Quintana Roo; asimismo, contendrán toda la información de los archivos de movilidad ubicados en las delegaciones del Instituto, relativo a los movimientos, asentamientos y modificaciones que se realicen a las concesiones, permisos y autorizaciones; lo anterior, de acuerdo a lo establecido en las disposiciones aplicables en materia de protección de datos personales.
+
+> <small>(REFORMADO, P.O. 15 DICIEMBRE DE 2023)</small>
 
 ###### Artículo 183.
 
 El Registro Público del Transporte será el depositario de la fe pública y registral de los actos jurídicos y documentos relacionados con el transporte en todas sus modalidades en el Estado de Quintana Roo.
+
+Las concesiones, permisos y autorizaciones que no se encuentren inscritas en el Registro Público del Transporte, carecerán de validez legal ante el Instituto.
 
 ###### Artículo 184.
 
@@ -2987,7 +3141,9 @@ I. De los titulares de las Concesiones;
 
 II. De los gravámenes a los bienes muebles e inmuebles que amparan las concesiones, autorizados previamente por el Instituto;
 
-III. De permisos de transporte en sus diversas modalidades;
+> <small>(REFORMADA, P.O. 15 DICIEMBRE DE 2023)</small>
+
+III. De los titulares de los permisos de transporte en sus diversas modalidades;
 
 IV. (DEROGADA, P.O. 28 DE ABRIL DE 2023)
 
@@ -3028,6 +3184,50 @@ La información contenida en el Registro Público del Transporte, deberá ser co
 ###### Artículo 188.
 
 De toda información, registro, folio, certificación que realice el Registro Público del Transporte, deberá expedirse constancia por escrito debidamente firmada por el servidor público competente, previa exhibición y entrega del comprobante del pago de derechos que por este concepto realice el interesado, conforme a lo que disponga la normatividad fiscal aplicable.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DICIEMBRE DE 2023)</small>
+
+###### Artículo 188 Bis.
+
+El Registro Estatal de Licencias y Permisos de Conducir tiene como objeto el desempeño de la función registral de los datos e información de las personas conductoras en el Estado, de conformidad con la presente Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 15 DICIEMBRE DE 2023)</small>
+
+###### Artículo 188 Ter.
+
+El Registro Estatal de Licencias y Permisos de Conducir, se conformará por el conjunto de datos, archivos y registros, relativos a la expedición, suspensión o cancelación de licencias y permisos de conducir, competencia del Instituto, así como de la recopilación de información generada a través de los Registros Municipales de Infracciones.
+
+> <small>(ADICIONADO, P.O. 15 DICIEMBRE DE 2023)</small>
+
+###### Artículo 188 Quáter.
+
+El Registro Estatal de Licencias y Permisos de Conducir se integrará por lo siguiente:
+
+I. Las fechas de expedición y de vigencia;
+
+II. El tipo de licencia o permiso de conducir;
+
+III. El nombre y los datos de contacto del titular;
+
+IV. El número de la licencia o permiso de conducir del titular;
+
+V. Los cursos y capacitaciones, autorizados por el Instituto, concluidos de forma satisfactoria por la persona titular;
+
+V. (sic) Las sanciones y/o infracciones cometidas por la persona titular, así como su respectivo cumplimiento, y
+
+VI. En su caso, la suspensión temporal o la cancelación definitiva.
+
+> <small>(ADICIONADO, P.O. 15 DICIEMBRE DE 2023)</small>
+
+###### Artículo 188 Quinquies.
+
+Además de lo establecido en el artículo anterior, para el caso de Servicio Público o Privado de Transporte de Pasajeros o de Carga, el Registro Estatal de Licencias y Permisos de Conducir se podrá integrar por la siguiente información:
+
+I. La concesión, permiso o persona moral a la que está ligada la licencia de conducir para la prestación del servicio;
+
+II. El municipio donde el titular presta el servicio público o privado de transporte, y
+
+III. La demás información que se establezca en el Reglamento o determine el Instituto.
 
 ## TÍTULO QUINTO. De la Supervisión
 
@@ -3347,9 +3547,9 @@ V. Concesionarios y Permisionarios del servicio público de transporte de pasaje
 
 a) Que el vehículo con que se presta el servicio público de transporte a través de plataformas tecnológicas o digitales no cuente con póliza de seguro amplia en favor del pasajero y contra daños y perjuicios a terceros, conforme a lo establecido en el Reglamento;
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, P.O. 15 DICIEMBRE DE 2023)</small>
 
-b) No contar con el permiso o concesión, la licencia de conducir expedida por el instituto de movilidad y la tarjeta de circulación correspondientes, así como el documento físico expedido por la persona moral autorizada, cuando se encuentren prestando el servicio;
+b) No contar con el permiso o concesión, la licencia de conducir otorgada por el Instituto y la tarjeta de circulación correspondientes, así como el documento físico expedido por la persona moral autorizada, cuando se encuentren prestando el servicio;
 
 c) Presten el servicio bajo la influencia de alcohol o sustancias psicotrópicas, estupefacientes o que produzcan efectos similares.
 
@@ -3457,9 +3657,9 @@ II. Las infracciones medias se sancionarán con multa de 26 (veintiséis) a 150 
 
 III. Las infracciones graves se sancionarán con multa de 151 (ciento cincuenta y uno) a 700 (setecientas) veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 15 DICIEMBRE DE 2023)</small>
 
-Se hará efectivo un descuento en la multa hasta por el 40% del monto de la sanción que corresponda a una infracción en caso de que el infractor no se hubiere inconformado de la misma y efectúe el pago correspondiente dentro de los 10 días hábiles contados a partir de la fecha de infracción.
+Se hará efectivo un descuento en la multa hasta por el 20% del monto de la sanción que corresponda a una infracción en caso de que el infractor no se hubiere inconformado de la misma y efectúe el pago correspondiente dentro de los 10 días hábiles contados a partir de la fecha de infracción.
 
 > <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
 
@@ -3591,7 +3791,25 @@ e) Cumplir con lo establecido por los Protocolos de actuación policial vigentes
 
 f) Cumplir y hacer cumplir las disposiciones de esta Ley y su Reglamento de Tránsito correspondiente y las que dicten sus superiores, y
 
-g) Las demás que se señalen en la presente Ley, el Reglamento de Tránsito correspondiente y las demás disposiciones y reglamentos aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DICIEMBRE DE 2023)</small>
+
+g) Retener la licencia o permiso de conducir en los casos siguientes:
+
+1. Si detecta que la persona titular se encuentra dentro de alguna de las causales de cancelación o suspensión de licencia o permiso de conducir;
+
+2. Cuando se percate que la persona titular tuviera una multa o infracción pendiente de pago;
+
+3. Como garantía de una infracción si el Reglamento de Tránsito correspondiente así lo establece;
+
+4. Si tiene alteraciones visibles o presente indicios de ser apócrifa o falsa, y
+
+5. Si a través del sistema que el Instituto disponga, detecta que la licencia o permiso de conducir se encuentra suspendida o cancelada, ya sea en su versión física o digital.
+
+Una vez retenida la licencia o permiso de conducir, mediante oficio dirigido al Instituto deberán remitir el plástico para su resguardo o la disposición que resulte necesaria conforme lo determine el Instituto.
+
+(REFORMADO [REPUBLICADO Y REUBICADO ANTES INCISO G), P.O. 15 DICIEMBRE DE 2023)
+
+h) Las demás que se señalen en la presente Ley, el Reglamento de Tránsito correspondiente y las demás disposiciones y reglamentos aplicables.
 
 III. Corresponde a los integrantes del cuerpo médico de la Policía (sic) Tránsito Estatal o Municipal:
 
@@ -3655,15 +3873,17 @@ La Dirección de la Policía de Tránsito Municipal o la Dirección de la Polic�
 
 Para conducir vehículos automotores en vías y carreteras del Estado, será necesario portar o llevar consigo la licencia o permiso de conducir vigente.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, P.O. 15 DICIEMBRE DE 2023)</small>
 
 ###### Artículo 216.
 
-El Instituto expedirá las licencias de conducir en todas sus modalidades, para lo cual se deberán observar las disposiciones legales y reglamentarias correspondientes, así como aquellas que emita la Secretaría de Seguridad Ciudadana del Estado.
+El Instituto otorgará las licencias de conducir en todas sus modalidades o permisos de conducir, para lo cual se deberán observar las disposiciones legales y reglamentarias correspondientes.
 
-En el caso de licencias de conducir del tipo de Servicio Público que regula la presente Ley, sólo podrán ser expedidas por el Instituto, con una vigencia de hasta dos años.
+Las licencias de conducir del tipo de Servicio Público que regula la presente Ley, otorgadas por el Instituto, tendrán una vigencia de dos años.
 
-Las licencias y permisos de conducir expedidos por el Instituto deberán ser registrados en el Registro Estatal de Licencias de Conducir apegándose a la normatividad en materia de Protección de Datos Personales.
+Las licencias y permisos de conducir otorgados por el Instituto deberán ser registrados en el Registro Estatal de Licencias y Permisos de Conducir apegándose a la normatividad en materia de Protección de Datos Personales.
+
+La información que el Instituto genere en el otorgamiento de licencias y permisos de conducir, deberá ser compartido con la Secretaría de Seguridad Ciudadana del Estado, para los efectos legales que le competan en materia de seguridad.
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
 
@@ -3887,21 +4107,9 @@ II. Por los daños que ocasione su vehículo, directamente o por responsabilidad
 
 III. Por las infracciones que resultarán si al cambiar de propietario, no se realizan las bajas y altas de acuerdo al Reglamento de Tránsito correspondiente.
 
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
-
 ###### Artículo 242.
 
-A ninguna persona se le expedirá o reexpedirá una licencia cuando se encuentre en los siguientes casos:
-
-I. Cuando la licencia o permiso estén suspendidos o cancelados;
-
-II. Cuando la autoridad correspondiente compruebe que el solicitante ha sido previamente calificado de cualquier incapacidad mental o física que le impida conducir vehículos de motor y no demuestre mediante certificado médico, lo contrario;
-
-III. Cuando la documentación exhibida sea falsa o bien proporcione informes falsos en la solicitud correspondiente;
-
-IV. Cuando tenga una licencia infraccionada o exista duplicidad de licencias, y
-
-V. Cuando así lo ordene la autoridad judicial o administrativa.
+(DEROGADO, P.O. 15 DICIEMBRE DE 2023)
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
 
@@ -4200,3 +4408,23 @@ P.O. 4 DE DICIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periodo (sic) Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 177 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO; Y POR EL QUE SE REFORMA Y SE DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Instituto de Movilidad del Estado de Quintana Roo deberá compulsar y unificar la información, datos, archivos y registros que se encuentran en los archivos de movilidad ubicados en las diferentes delegaciones, para concentrar toda la información en el Registro Público del Transporte, para la cual contarán con un plazo de un año, contado a partir de la publicación de la presente reforma de Ley.
+
+TERCERO. Las licencias y permisos de conducir expedidos previo a la entrada en vigor del presente Decreto, mantendrán su vigencia por el tiempo en el que fueron otorgadas.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto, el Instituto de Movilidad del Estado de Quintana Roo tendrá un plazo máximo de un año para otorgar las licencias y permisos de conducir en todas sus modalidades en el Estado de Quintana Roo.
+
+En caso de que el Instituto de Movilidad del Estado de Quintana Roo no cuente con los recursos materiales, humanos y financieros para poder otorgarlas, los Ayuntamientos continuarán expidiéndolas previo convenio de coordinación con el Instituto y de conformidad con lo dispuesto en el presente Decreto y el reglamento de la Ley.
+
+QUINTO. El Instituto de Movilidad del Estado de Quintana Roo, implementará acciones y realizará campañas de regularización a efecto de que la ciudadanía tramite el otorgamiento de su licencia o permiso de conducir.
+
+SEXTO. Dentro de un plazo de noventa días, posteriores a la entrada en vigor del presente Decreto, se deberán realizar las adecuaciones correspondientes al Reglamento de la Ley de Movilidad del Estado de Quintana Roo.
+
+SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
