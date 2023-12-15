@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-sistema-de-expediente-electronico-del-poder-1645
 country: "mx"
 rank: "reglamento"
 publication_date: "2023-02-17"
-last_updated: "2023-02-17"
+last_updated: "2023-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO DEL SISTEMA DE EXPEDIENTE ELECTRÓNICO DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2023.
 
 Reglamento publicado en el Número 11 del Periódico Oficial del Estado de Querétaro, el viernes 17 de febrero de 2023.
 
@@ -99,7 +99,9 @@ VI. Abogados de las partes.
 
 El expediente electrónico operará en los Distritos Judiciales que autorice el Consejo, con base en las condiciones generales del servicio y criterios de trabajo que también apruebe.
 
-La información a la que la persona tiene acceso en el expediente electrónico carece de valor legal alguno, a excepción de las notificaciones que reciba por mandato del órgano jurisdiccional, en los términos previstos a cada procedimiento por materia.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Las actuaciones que se obtengan o impriman del expediente electrónico, contendrán el sello digital correspondiente, con los elementos de autenticación verificable.
 
 ###### ARTÍCULO 6.
 
@@ -262,3 +264,21 @@ Se abroga el Reglamento del Sistema Expediente Electrónico del Poder Judicial d
 EL PRESENTE REGLAMENTO FUE APROBADO POR EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO, EL DÍA 1° DEL MES DE FEBRERO DE 2023, EN LA CIUDAD DE SANTIAGO DE QUERÉTARO, QUERÉTARO. Rúbricas.
 
 El Secretario Técnico, Víctor Manuel Romo Bonilla, con fundamento en el artículo 145, fracciones I y XI de la Ley Orgánica del Poder Judicial del Estado de Querétaro, CERTIFICA que el “Reglamento del Sistema de Expediente Electrónico del Poder Judicial del Estado de Querétaro.”, fue aprobado de manera unánime por el Consejo de la Judicatura del Poder Judicial del Estado de Querétaro, integrado por la Magistrada Presidente Mariela Ponce Villa, así como por los Consejeros Edgardo Saúl Contreras Arias, Arturo Ugalde Rojas y Juan Manuel Vera Vázquez, en sesión del día 01 de febrero de 2023. Santiago de Querétaro, Querétaro, a 10 de febrero de 2023. Rubrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE DICIEMBRE DE 2023.
+
+[N. DE . TRANSITORIOS DE “REFORMA AL REGLAMENTO DEL SISTEMA DE EXPEDIENTE ELECTRÓNICO DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese la reforma al presente reglamento en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" y en la página oficial de internet del Poder Judicial del Estado de Querétaro.
+
+###### ARTÍCULO SEGUNDO.
+
+Las modificaciones a este reglamento iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que contravengan lo dispuesto a la presente reforma.
