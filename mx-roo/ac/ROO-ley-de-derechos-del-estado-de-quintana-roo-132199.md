@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-derechos-del-estado-de-quintana-roo-132199"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2022-12-23"
+last_updated: "2023-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2018.
 
@@ -2633,15 +2633,15 @@ Las dependencias y organismos auxiliares de la Administración Pública Estatal 
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE JULIO DE 2021)</small>
 
-### CAPÍTULO XI. DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
+### CAPÍTULO XI. DE LA SECRETARÍA DE SEGURIDAD CIUDADANA
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 74.
 
 (DEROGADO, P.O. 16 DE JULIO DE 2021)
 
-> <small>(REFORMADO [N. DE E. ANTES SECCIÓN DÉCIMA QUINTA], P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ### CAPÍTULO II. DE LOS SERVICIOS QUE PRESTAN LAS ENTIDADES
 
@@ -2651,75 +2651,19 @@ Las dependencias y organismos auxiliares de la Administración Pública Estatal 
 
 ###### Artículo 75.
 
-Los servicios que presta la Secretaría de Seguridad Pública se pagarán conforme a la tarifa siguiente:
+Los servicios que presta la Secretaría de Seguridad Ciudadana se pagarán conforme a la tarifa siguiente:
 
 CONCEPTO UMA
 
-I. Por la expedición, renovación y reposición de
+I. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2023)
 
-licencias para conducir vehículos de motor
+II. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2023)
 
-de acuerdo a las competencias establecidas en la
-
-ley de la materia, serán cada:
-
-a) Dos años
-
-1. Licencia de chofer 5.75
-
-2. Licencia de automovilista 5.18
-
-3. Licencia de motociclista 2.30
-
-b) Tres años
-
-1. Licencia de chofer 8.62
-
-2. Licencia de automovilista 7.77
-
-3. Licencia de motociclista 3.45
-
-c) Cuatro años
-
-1. Licencia de chofer 11.49
-
-2. Licencia de automovilista 10.36
-
-3. Licencia de motociclista 4.60
-
-d) Cinco años
-
-1. Licencia de chofer 14.36
-
-2. Licencia de automovilista 12.95
-
-3. Licencia de motociclista 5.75
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
-
-e) Reposición de Licencia de chofer,
-
-automovilista o motociclista 1.4
-
-Tratándose de personas afiliadas al Instituto Nacional de las Personas Adultas Mayores que acrediten su vigencia, gozarán del 50% de descuento en los pagos a que se refiere esta fracción.
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
-
-Durante la vigencia de las diversas Ferias de Empleo, organizadas por la Secretaría del Trabajo y Previsión Social, los buscadores de empleo gozarán del 100% de descuento en el pago de los derechos a que se refiere esta fracción.
-
-II. Permiso provisional para manejar sin licencia por:
-
-a) 30 días 1.15
-
-b) 90 días 3.44
-
-c) 180 días 6.87
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
-
-d) Reposición de permiso provisional 1.4
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 III. Por arrastre de grúa 9.57
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 IV. Por día de estancia en el corralón 0.46
 
@@ -2781,9 +2725,9 @@ de fábrica, no serán sujetos del pago
 
 de este derecho.
 
-VI. Examen médico y de competencia para la
+VI. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2023)
 
-licencia de conducir vehículos de motor 2.10
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 VII. Permisos provisionales para la circulación de
 
@@ -2791,23 +2735,25 @@ camiones de carga en el primer cuadro de la ciudad,
 
 por día 1.00
 
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 VIII. Por la inscripción al curso de vialidad
 
 del servicio público 1.00
 
-IX. Por examen práctico de conducción 2.00
+IX. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2023)
 
-X. Por el registro y refrendo anual de escuelas de manejo 20.00
+X. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2023)
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 XI. Por la expedición de historial de pagos 2.00
 
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 XII. Por la expedición de constancias de no infracción 1.00
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
-
-XIII. Por la expedición de Constancia
-
-de antigüedad de licencias. 2.00
+XIII. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2023)
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
@@ -3844,3 +3790,23 @@ P.O. 23 DE DICIEMBRE DE 2022.
 PRIMERO. El presente decreto entrará en vigor a partir del día 1º de enero del año 2023.
 
 SEGUNDO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto, de igual o inferior jerarquía.
+
+P.O. 15 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 177 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO; Y POR EL QUE SE REFORMA Y SE DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Instituto de Movilidad del Estado de Quintana Roo deberá compulsar y unificar la información, datos, archivos y registros que se encuentran en los archivos de movilidad ubicados en las diferentes delegaciones, para concentrar toda la información en el Registro Público del Transporte, para la (sic) cual contarán con un plazo de un año, contado a partir de la publicación de la presente reforma de Ley.
+
+TERCERO. Las licencias y permisos de conducir expedidos previo a la entrada en vigor del presente Decreto, mantendrán su vigencia por el tiempo en el que fueron otorgadas.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto, el Instituto de Movilidad del Estado de Quintana Roo tendrá un plazo máximo de un año para otorgar las licencias y permisos de conducir en todas sus modalidades en el Estado de Quintana Roo.
+
+En caso de que el Instituto de Movilidad del Estado de Quintana Roo no cuente con los recursos materiales, humanos y financieros para poder otorgarlas, los Ayuntamientos continuarán expidiéndolas previo convenio de coordinación con el Instituto y de conformidad con lo dispuesto en el presente Decreto y el reglamento de la Ley.
+
+QUINTO. El Instituto de Movilidad del Estado de Quintana Roo, implementará acciones y realizará campañas de regularización a efecto de que la ciudadanía tramite el otorgamiento de su licencia o permiso de conducir.
+
+SEXTO. Dentro de un plazo de noventa días, posteriores a la entrada en vigor del presente Decreto, se deberán realizar las adecuaciones correspondientes al Reglamento de la Ley de Movilidad del Estado de Quintana Roo.
+
+SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
