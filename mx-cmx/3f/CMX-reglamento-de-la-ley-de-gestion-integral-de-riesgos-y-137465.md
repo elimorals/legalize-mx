@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-gestion-integral-de-riesgos-y-137465"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-08-07"
-last_updated: "2021-06-18"
+last_updated: "2023-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137465&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-08-06"
 
 REGLAMENTO DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE DICIEMBRE DE 2023.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 7 de agosto de 2019.
 
@@ -66,33 +66,63 @@ X. Consejo: Al Consejo de Gestión Integral de Riesgos y Protección Civil de la
 
 XI. Consejo de Resiliencia: Al Consejo de Resiliencia de la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XI BIS. Constancia de registro: documento oficial expedido a través de la Plataforma Digital posterior al registro de un Programa Interno, Programa Especial y Estudio de Riesgos, otorgado al haber cumplido con los requisitos de Ley y que ampara su vigencia;
+
 XII. Cuerpos de Emergencia y/o Auxilio: Instituciones de carácter público y/o privado que realizan actividades destinadas primordialmente a salvaguardar la vida, la salud, la integridad física de las personas y sus bienes en situaciones de emergencia o desastre;
 
 XIII. Diccionario de Datos: Es un conjunto ordenado de información que contiene características lógicas de las coberturas geográficas que se van a utilizar en el sistema de información, incluyendo nombre, descripción, contenido y organización de cada capa vectorial de información;
 
-XIV. Dictamen Técnico: Al Dictamen Técnico de Indicadores de Riesgo en materia de Gestión Integral de Riesgos y Protección Civil;
+> <small>(ADICIONADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-XV. Dictamen Técnico de Indicadores de Riesgo en materia de Gestión Integral de Riesgos y Protección Civil: En lo relativo a los dictámenes y dictámenes técnicos de riesgo que se mencionan en la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México, se entenderá como el documento que, a través de análisis de campo y en gabinete, define y valora las características de las amenazas o peligros en viviendas, establecimientos o predios; revela la exposición y la vulnerabilidad asociada a aspectos externos y elementos de protección civil del sujeto del estudio y, en función de lo anterior, determina el valor del indicador de riesgo. Indica en forma puntual las recomendaciones, medidas y acciones preventivas y/o correctivas que reduzcan o mitiguen efectivamente la vulnerabilidad y aumentan la resiliencia;
+XIII BIS. Folio de captura: número identificativo único y consecutivo otorgado a través de la Plataforma Digital, una vez que se ha capturado en la misma el Programa Interno, Programa Especial y Estudios de Riesgos;
 
-XVI. Espacio amigable para la infancia: Lugares temporales que facilitan el retorno a la normalidad y ofrecen seguridad física y emocional de niñas, niños y adolescentes. Dichos espacios se encuentran bajo la supervisión de un adulto que favorece el aprendizaje, el juego y proporciona apoyo cuando lo necesitan;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-XVII. Estudio de Riesgo: Documento que, a partir de recorridos en campo y análisis estadístico-espaciales indica de forma puntual los daños probables, define y valora las características de las amenazas y/o peligros naturales y antropogénicos al interior y exterior de inmuebles o establecimientos;
+XIV. Dictamen Técnico de arbolado en riesgo: documento con validez técnica, jurídica y administrativa que describe las condiciones de un árbol con evidencia comprobable de causar daños o de desplomarse total o parcialmente, que afecte a las personas y /o sus bienes muebles e inmuebles y su entorno; sustentado en elementos científicos y técnicos basado en las ciencias biológicas, forestales y áreas afines a las ciencias naturales, para determinar las acciones preventivas y de mitigación a ejecutar, elaborado metodológicamente por un perito acreditado por la Secretaría del Medio Ambiente de la Ciudad de México;
 
-XVIII. Evaluación: Proceso sistemático de recolección e interpretación de información, diseñado internacional y técnicamente mediante criterios específicos para valorar el grado de conocimientos y habilidades que posee el evaluado sustentante;
+XV. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
-XIX. Inspección Técnica: Revisión en campo de las condiciones de un inmueble, sitio o actividad, en materia de protección civil;
+XVI. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
-XX. Instalaciones Estratégicas: Son aquellas en las que se realizan los servicios esenciales que proveen bienes y servicios públicos y cuyo funcionamiento es indispensable para el adecuado desarrollo de una ciudad;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XVII. Estudio de Riesgos: documento que a partir de recorridos de campo y análisis geoestadístico-espacial indica de forma puntual los daños probables, define y valora las características de las amenazas y/o peligros naturales y antropogénicos al interior y exterior de inmuebles o establecimientos, considerando los factores de vulnerabilidad física y social, así como la identificación de infraestructura y equipamiento expuesto próximo al sitio analizado, los elementos de desarrollo urbano, impacto ambiental, movilidad y zonas de menor riesgo;
+
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XVIII. Evaluación: proceso sistemático de recolección e interpretación de resultados derivados de una prueba, diseñado internacional y técnicamente mediante criterios específicos para valorar el grado de conocimientos y habilidades que posee la persona evaluada;
+
+> <small>(ADICIONADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XVIII BIS. Industria: inmueble, cualquiera que sea su denominación, en el que una persona física o moral desarrolla actividades relativas a la transformación, fabricación y/o procesamiento de materiales o sustancias, ya sea de forma manual o mediante el uso de maquinaria y/o otras herramientas;
+
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XIX. Inspección técnica: revisión ocular in situ, de las condiciones de un inmueble, sitio o actividad en materia de gestión integral de riesgos y protección civil, a fin de determinar las medidas preventivas y correctivas pertinentes;
+
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XX. Instalaciones estratégicas: aquellas que se realizan para proveer los servicios esenciales para el adecuado funcionamiento de la ciudad;
 
 XXI. Ley: A la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México;
 
 XXII. Ley General: A la Ley General de Protección Civil;
 
-XXIII. Obras de Instalaciones Subterráneas: Son aquéllas en las que se desarrollan proyectos de intervención de infraestructura en el subsuelo, cuyos procesos se ejecutan sobre vialidades primarias, zonas con alta concentración de infraestructura preexistente, intervengan de manera simultánea en vialidades secundarias de más de dos manzanas o que impliquen una alteración en la dinámica de su entorno;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXIII. Obras de instalaciones subterráneas: aquéllas realizadas para la intervención de infraestructura en el subsuelo, cuyos procesos se ejecutan sobre vialidades primarias, secundarias o zonas con concentración de infraestructura preexistente, donde se intervenga de manera simultánea más de dos manzanas y se afecten la dinámica de su entorno;
 
 XXIV. Opinión Técnica: A la Opinión Técnica de Indicadores de Riesgo en materia de Gestión Integral de Riesgos y Protección Civil;
 
-XXV. Opinión Técnica de Indicadores de Riesgo en materia de Gestión Integral de Riesgos y Protección Civil: En lo relativo a las opiniones y opiniones técnicas de riesgo que se mencionan en la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México, se entenderá como el documento que a través del análisis en gabinete define y valora las características generales de las amenazas o peligros en viviendas, establecimientos o predios. Revela la exposición y la vulnerabilidad asociada a elementos intrínsecos de protección civil del sujeto del estudio y, en función de lo anterior, determina el valor del indicador de riesgo. Indica las recomendaciones, medidas y acciones preventivas y/o correctivas que reduzcan o mitiguen efectivamente la vulnerabilidad y aumentan la resiliencia;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXV. Opinión Técnica en materia de Protección Civil: documento en el que se determina el nivel de riesgo con base en el peligro, vulnerabilidad y exposición del sistema afectable y en el cual se establecen las medidas preventivas y/o correctivas para la reducción del riesgo, de conformidad con la información contenida en el Atlas de Riesgos de la Ciudad de México, así como de la inspección técnica;
+
+> <small>(ADICIONADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXV BIS. Opinión técnica en materia de Protección Civil para Infraestructura Subterránea: documento emitido por la Secretaría a partir de la aprobación del Comité de Instalaciones Subterráneas (CIS), el cual tiene una vigencia de un año, mismo que forma parte de la serie de permisos, autorizaciones o licencias de un proyecto para la ejecución de obra inducida en la Ciudad de México;
 
 XXVI. Plan Comunitario de Protección Civil: Conjunto de actividades a realizar antes, durante y después de una emergencia o desastre, por los miembros de una comunidad;
 
@@ -107,6 +137,10 @@ XXIX. Programa Específico: Al Programa Específico de Protección Civil;
 XXX. Programa General: Al Programa General de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México;
 
 XXXI. Programa Interno: Al Programa Interno de Protección Civil;
+
+> <small>(ADICIONADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXXI BIS. Revalidación del Programa Interno: acto mediante el cual se mantiene la vigencia del registro del Programa Interno, de conformidad con el tipo de establecimiento mercantil, industria o inmueble una vez cumplidos los requisitos establecidos en el presente Reglamento;
 
 XXXII. Reglamento: El presente Reglamento;
 
@@ -168,19 +202,25 @@ Corresponde a la Secretaría además de lo que establece la Ley y demás ordenam
 
 I. Proponer mejores prácticas y modernización en materia de Tecnologías de la Información y Comunicaciones que atiendan las necesidades del Sistema de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México apoyado en la operación de plataformas tecnológicas, sistematización de los procesos administrativos de inscripción, modificación, actualización o baja de los trámites, servicios y sus formatos; promoviendo la transparencia y simplificación administrativa;
 
-II. (DEROGADA, G.O. 18 DE JUNIO DE 2021)
+> <small>(ADICIONADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+II. Ordenar y ejecutar visitas de verificación o inspección en materia de protección civil a los establecimientos mercantiles de impacto zonal cuyo aforo supere a 100 personas y 250 metros cuadrados de construcción, así como a industrias o inmuebles de alto riesgo y en cualquier caso de emergencia o riesgo inminente;
 
 > <small>(REFORMADA, G.O. 18 DE JUNIO DE 2021)</small>
 
 III. Determinar la imposición de sanciones a los ROPC y Grupos Voluntarios por incumplimiento a la normatividad en materia de protección civil;
 
-> <small>(REFORMADA, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-IV. Emitir, conforme lo dispone la fracción XXXVIII del artículo 14 de la Ley, la opinión técnica de riesgos para Obras de Instalaciones Subterráneas a través de Comité de Usuarios de Instalaciones Subterráneas;
+IV. Emitir Opinión Técnica en materia de Protección Civil para Infraestructura Subterránea, a través del Comité de Instalaciones Subterráneas;
 
 V. Emitir opinión técnica respecto de los proyectos de infraestructura en la Ciudad de México; y
 
-VII (SIC). Las demás que establezcan los ordenamientos legales y reglamentarios aplicables.
+> <small>(ADICIONADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+VI. Revisar durante la vigencia de los Programas Internos, Programas Especiales de su competencia o Estudios de Riesgos, que se encuentren apegados a lo establecido en los Términos de Referencia;
+
+VII. Las demás que establezcan los ordenamientos legales y reglamentarios aplicables.
 
 ### CAPÍTULO II. DE LAS ALCALDÍAS
 
@@ -197,6 +237,10 @@ II. Brindar asesoría gratuita a la población para la formulación e implementa
 III. Informar oportunamente a la Secretaría sobre la inminencia u ocurrencia de una emergencia y ésta supere su capacidad de respuesta;
 
 IV. Atender las solicitudes que en materia de protección civil presente la población de su demarcación, como primera instancia de respuesta; y
+
+> <small>(ADICIONADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+IV BIS. Dar seguimiento a la realización de las obras aprobadas por el Comité de Instalaciones Subterráneas; y
 
 V. Las demás que establezcan el presente Reglamento y otros ordenamientos aplicables.
 
@@ -230,9 +274,13 @@ VI. La integración, organización y funcionamiento de los Comités del Consejo 
 
 VII. La precisión de que en caso de la ausencia de integrantes de Comités y/o Comisiones no les excluye del cumplimiento de los acuerdos; y
 
-VIII. Aquellas que faciliten el cumplimiento de las funciones de la Ley que les señala.
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-### CAPÍTULO II. DE LAS COMISIONES
+VIII. Aquellas que faciliten el cumplimiento de sus funciones establecidas en la Ley, el presente Reglamento y demás disposiciones en la materia.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO II. COMISIONES Y COMITÉS
 
 ###### Artículo 12.
 
@@ -638,141 +686,215 @@ Los establecimientos mercantiles de mediano o alto riesgo, así como los inmuebl
 
 Las personas representantes legales, administradoras, propietarias o poseedoras de establecimientos mercantiles, tendrán un plazo máximo de 120 (ciento veinte) días naturales a partir del día de su apertura para registrar por medio de un ROPC el correspondiente Programa Interno en la Plataforma Digital.
 
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 40.
 
-Los Programas Internos de establecimientos mercantiles catalogados de mediano y alto riesgo se registrarán por el ROPC en la Alcaldía que corresponda y en la Plataforma Digital.
+La solicitud de registro de los Programas Internos de establecimientos mercantiles, industrias e inmuebles clasificados de mediano y alto riesgo se capturarán en la Plataforma Digital por el ROPC y serán registrados por la Secretaría.
 
-Los Programas Internos a los que se refiere el presente artículo, deberán ser revalidados cada dos años contados a partir de la fecha de su registro en la Alcaldía.
+Los Programas Internos a que se refiere el presente artículo, tendrán la vigencia establecida por la Ley y deberán ser revalidados dentro de los treinta días naturales previos a que concluya su vigencia. La revalidación tendrá efectos a partir de la fecha en que se emita la Constancia de Registro a través de la Plataforma Digital.
 
-> <small>(ADICIONADO, G.O. 18 DE JUNIO DE 2021)</small>
+La vigencia de los Programas Internos estará condicionada a que los documentos que, por su propia naturaleza estén sujetos a una validez temporal se mantengan actualizados, los cuales de manera enunciativa más no limitativa son:
 
-Artículo 40 BIS. Para efectos del registro a que hacen referencia los artículos 63, 68 y 78 de la Ley, los Programas Internos y Especiales, se deberán ingresar vía electrónica en la Plataforma Digital.
+I. Constancia de seguridad estructural;
 
-La Plataforma Digital será operada por las Alcaldías, a fin de que se reciban dichos Programas y los siguientes documentos:
+II. Visto Bueno de Seguridad y Operación de las Instalaciones;
 
-I. Carta de corresponsabilidad firmada por el ROCP a cargo del Programa Interno o Especial;
+III. Dictamen de instalaciones de Gas L.P. y/o natural;
 
-II. Carta de responsabilidad firmada por representante legal, administrador, propietario o poseedor del establecimiento mercantil, industrial o inmueble obligado a contar con Programa Interno o Especial;
+IV. Constancia de mantenimiento y/o recarga de extintores;
 
-III. Póliza de Seguro de Responsabilidad Civil no cancelable.
+V. Constancia de mantenimiento de receptor secundario de alerta sísmica;
 
-De ser procedente y cumpliendo con lo señalado, la ventanilla única de la Alcaldía emitirá la constancia de registro a través de la Plataforma.
+VI. Póliza de seguro de responsabilidad civil y daños a terceros;
 
-En caso de que no se ingresen los documentos a que se refiere el presente artículo, se rechazará el registro, teniendo que iniciar nuevamente el ROPC el registro correspondiente.
+VII. Cualquier otro documento que concluya su validez durante el periodo de vigencia del Programa Interno.
 
-La Alcaldía, en su caso, notificará vía la Plataforma Digital el rechazo, señalando las inconsistencias de cada registro.
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADO, G.O. 18 DE JUNIO DE 2021)</small>
+Artículo 40 BIS. Para llevar a cabo el registro a que hace referencia la Ley, los Programas Internos y Especiales se deberán capturar vía electrónica en la Plataforma Digital.
 
-Artículo 40 TER. Para efectos de los Programas Internos, los establecimientos mercantiles e industriales distintos a los de impacto zonal o vecinal, así como los centros comerciales, bibliotecas, cines, teatros o establecimientos en general de espectáculos públicos, tiendas de autoservicio que no rebasen los 1,000 metros cuadrados y/o un aforo de hasta 100 personas, serán considerados de mediano riesgo.
+La Plataforma Digital será administrada por la Secretaría, la cual revisará por este medio los siguientes documentos:
 
-Tratándose de establecimientos mercantiles e industriales, así como centros comerciales, bibliotecas, cines, teatros o establecimientos en general de espectáculos públicos tiendas de autoservicio con una superficie superior a 1,000 metros cuadrados o aforo superior a 100 personas, incluidos a los trabajadores del lugar, serán considerados de alto riesgo.
+I. Carta de corresponsabilidad firmada por el ROPC a cargo del Programa Interno o Programa Especial, así como por la persona representante legal, administradora, arrendataria, propietaria o poseedora del establecimiento mercantil, industria o inmueble obligado, la cual estará sujeta a la vigencia del Programa Interno.
 
-En el supuesto, en el que los establecimientos mercantiles, industriales o inmuebles donde se realice el manejo, uso, almacenamiento, transformación, fabricación, trasvase, traslado y/o movimiento de dichas sustancias químicas peligrosas o se lleven operaciones con dichas sustancias, entendidas como los procesos en los que existen cambios físicos de las sustancias químicas peligrosas, tales como secado, destilación, absorción, adsorción, filtración y transferencia de calor, entre otros, serán considerados de alto riesgo, independientemente de la superficie construida, aforo y número de empleados.
+II. Carta de responsabilidad firmada por el ROPC y la persona representante legal, administradora, arrendataria, propietaria o poseedora del establecimiento mercantil, industria o inmueble obligado a contar con Programa Interno o Programa Especial, la cual estará sujeta a la vigencia del Programa Interno
 
-Para efectos del presente artículo se consideran como sustancias químicas peligrosas aquellas a las que se refiere la NOM-028-STPS-2012, Sistema para la administración del trabajo-Seguridad en los procesos y equipos críticos que manejen sustancias químicas peligrosa (sic), o la que la sustituya, en las cantidades umbrales establecidos en dicha Norma Oficial Mexicana.
+III. Póliza de Seguro de Responsabilidad Civil, la cual deberá contener de forma expresa, en la carátula o en el endoso de la misma, la cobertura de Responsabilidad Civil y Daños a Terceros, indicando la actividad económica o giro que ampara, el domicilio del establecimiento mercantil, industria o inmueble y la vigencia;
 
-Asimismo, las obras de construcción y demolición que requieran Manifestación de Construcción Tipo B serán consideradas de riesgo medio y aquellas que requieran Manifestación de Construcción Tipo C serán consideradas de alto riesgo, en ambos casos el correspondiente Programa Interno será registrado previa a la presentación de la Manifestación de Construcción correspondiente.
+IV. Para el caso de personas morales la documentación que acredite la personalidad jurídica de la persona representante legal, administradora, arrendataria, propietaria o poseedora del establecimiento mercantil, industria o inmueble obligado, de conformidad con la Ley de Procedimiento Administrativo de la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
+De ser procedente y cumpliendo con lo señalado, la Secretaría podrá emitir la Constancia de Registro a través de la Plataforma Digital.
+
+En caso de contar con inconsistencias, la Secretaría notificará al ROPC a través de la Plataforma Digital. Si la inconsistencia del Programa Interno es subsanada, la Secretaría realizará nuevamente una revisión a través de la Plataforma Digital y en caso de no existir observación se otorgará la constancia de registro correspondiente.
+
+En caso de que la o las inconsistencias no sean subsanadas en tiempo y forma, la Secretaría rechazará la solicitud de registro por lo que la persona interesada deberá iniciar nuevamente con el procedimiento.
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Artículo 40 TER. Para la determinación del grado de riesgo y obligatoriedad en la elaboración de Programa Interno, los obligados deberán ingresar al Cuestionario Clasificatorio de nivel de riesgo a través de la dirección electrónica que la Secretaría haga de conocimiento mediante aviso publicado en la Gaceta Oficial de la Ciudad de México.
+
+Los obligados deberán ingresar los datos de los metros cuadrados de construcción, el aforo y, en su caso, la actividad económica del establecimiento.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Artículo 40 QUATER. Las obras de construcción y de demolición que requieran Manifestación de Construcción Tipo B serán consideradas de riesgo medio y aquellas que requieran Manifestación de Construcción Tipo C serán consideradas de alto riesgo. En ambos casos se deberá elaborar un Estudio de Riesgos de Obra e ingresarlo a la Secretaría para su registro, previo a la obtención de la Manifestación de Construcción correspondiente.
+
+Para aquellas obras cuya Manifestación de Construcción sea de Tipo C, se deberá anexar la opinión técnica favorable o condicionada, emitida por la Secretaría respecto del proyecto evaluado como parte del Dictamen de Estudio de Impacto Urbano.
+
+En el supuesto de que dicha opinión se haya emitido en sentido negativo, no procederá el registro del Estudio de Riesgos de Obra y se le dará vista a la Alcaldía correspondiente.
+
+En lo referente al Estudio de Riesgos de Obra y Demolición el radio de influencia será de 100 metros, cuando sea de 100 a 2,999 metros cuadrados de construcción; 300 metros, cuando sea de 3,000 a 4,999 metros cuadrados de construcción; y 500 metros cuando se trate de 5,000 o más metros cuadrados de construcción.
+
+El registro de los mismos se realizará por medio de la Plataforma Digital en donde la Secretaría revisará la siguiente documentación:
+
+I. Carta de corresponsabilidad firmada por el ROPC a cargo del Estudio de Riesgos de Obra así como por la persona representante legal, administradora, arrendataria, propietaria o poseedora del establecimiento mercantil, industria o inmueble obligado, la cual estará sujeta a la vigencia del Estudio de Riesgos de Obra;
+
+II. Carta de responsabilidad firmada por el ROPC y la persona representante legal, administradora, arrendataria, propietaria o poseedora del establecimiento mercantil, industria o inmueble obligado a contar con Estudio de Riesgos de Obra, la cual estará sujeta a la vigencia del Estudio de Riesgos de Obra;
+
+III. Póliza de Seguro de Responsabilidad Civil, la cual deberá contener de forma expresa, en la carátula o en el endoso de la misma, la cobertura de Responsabilidad Civil y Daños a Terceros para obra nueva o demolición, según sea aplicable, el domicilio del predio o inmueble y la vigencia;
+
+IV. Medidas preventivas, correctivas, de integración urbana y para protección a colindancias.
+
+V. Carta Responsiva y Copia del Carnet del DRO respecto del proyecto de protección a colindancias;
+
+VI. Documento que acredite la personalidad jurídica de la persona representante legal, administradora, propietaria o poseedora del inmueble obligado, de conformidad con la Ley de Procedimiento Administrativo de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 41.
 
-El ROPC que elabore los Programas Internos de escuelas de educación inicial, básica, media superior y superior, así como hospitales, deberá apegarse a los Términos de Referencia y a la Norma Oficial Mexicana correspondientes para la elaboración de éstos, así como a las leyes y disposiciones correspondientes a la materia.
+El ROPC o ROPC Institucional que elabore los Programas Internos de escuelas de educación inicial, básica, media superior y superior, así como hospitales, deberán apegarse a los Términos de Referencia para la elaboración de éstos, así como a las leyes y disposiciones correspondientes a la materia.
 
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
+Las escuelas públicas y privadas de nivel básico, medio superior y superior que pertenezcan al Sistema Educativo Nacional, que únicamente impartan educación abierta, en línea y a distancia no estarán obligadas a contar con un Programa Interno, siempre que cumplan con lo siguiente:
+
+I. Obtengan la Constancia de no obligatoriedad a través del Cuestionario Clasificatorio del nivel de riesgo, la cual deberá ser exhibida ante la autoridad que así lo requiera;
+
+II. Implementen las medidas preventivas establecidas en el artículo 64 de la Ley para establecimientos mercantiles de bajo riesgo; y
+
+III. Cumplan con todas las disposiciones normativas en materia de gestión integral de riesgos y protección civil a las que se encuentren obligadas.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Artículo 41 BIS. Las construcciones con instalaciones especializadas para atención de población a que se refiere el artículo 58 fracción XI de la Ley, personas con discapacidad, personas mayores, mujeres embarazadas, niñas, niños y adolescentes y población en situación de calle, elaborarán sus Programas Internos de conformidad con los Términos de Referencia que emita la Secretaría.
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 42.
 
-El ROPC que elabore los Programas Internos de inmuebles destinados al servicio público, tendrá que apegarse a los Términos de Referencia para la elaboración de éstos y a lo solicitado en el presente Reglamento, ajustando su presentación a lo establecido en los artículos 60 y 61 de la Ley.
+Tanto el ROPC, como el ROPC Institucional que elaboren los Programas Internos de inmuebles destinados al servicio público, tendrán que apegarse a los Términos de Referencia para la elaboración de los mismos y a lo solicitado en el presente Reglamento, además de lo establecido en la Ley.
 
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 43.
 
-En el caso del Programa Interno de los inmuebles destinados al servicio público que no atienda las observaciones a que se refiere el artículo 61 de la Ley, no obtendrá el visto bueno correspondiente, debiendo ser presentado nuevamente.
-
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
+Los Programas Internos de los inmuebles destinados al servicio público que no atiendan las directrices a que se refiere el artículo 60 de la Ley sobre la integración del mismo, no obtendrán el registro correspondiente por lo que deberán presentar su solicitud nuevamente apegándose a dichas directrices.
 
 ###### Artículo 44.
 
-Cuando el Programa Interno no cumpla con los requisitos solicitados a que se refiere el artículo 40 Bis en sus fracciones I a III del presente Reglamento, quedará como no registrado, por lo que el ROPC tendrá que iniciar nuevamente el registro de dicho programa.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE JUNIO DE 2021)</small>
+(DEROGADO, G.O. 15 DE DICIEMBRE DE 2023)
 
 ###### Artículo 45.
 
-Los Programas Internos de inmuebles destinados al servicio público, deberán contar con la siguiente documentación obligatoria:
-
-> <small>(REFORMADA, G.O. 18 DE JUNIO DE 2021)</small>
-
-I. Carta de corresponsabilidad firmada por el ROPC o el ROPC Institucional que elaboró el Programa Interno y la carta de responsabilidad firmada por parte de la persona servidora pública que designe la persona titular;
-
-II. Carta responsiva de extintores;
-
-III. Visto bueno de seguridad y operación, elaborado por un Director Responsable de Obra, en los términos del Reglamento de Construcciones para el Distrito Federal;
-
-> <small>(REFORMADA, G.O. 18 DE JUNIO DE 2021)</small>
-
-IV. Constancia de seguridad estructural vigente, misma que se actualizará en los términos del Reglamento de Construcciones vigente en la Ciudad de México.
-
-V. Póliza de Seguro de Responsabilidad Civil no cancelable, vigente en todo momento, que cubra e indemnice a los terceros en sus bienes y personas;
-
-VI. Dictamen técnico de instalaciones de gas L.P y/o natural cuando aplique, éste deberá estar vigente;
-
-VII. Carta responsiva del sistema de alertamiento sísmico que reciba la señal oficial del Gobierno de la Ciudad de México, aprobado por la Secretaría conforme a la Norma Técnica correspondiente;
-
-VIII. Escrito, bajo protesta de decir verdad de no modificación estructural firmado por la persona responsable, propietaria o poseedora del inmueble;
-
-IX. Constancias de capacitación de cada integrante del Comité Interno de Protección Civil y de las brigadas de protección civil;
-
-X. Contar con un croquis, plano o mapa general del establecimiento o inmueble, o por áreas que lo integran, que deberá contener: el nombre, denominación o razón social; domicilio, identificación de las principales áreas o zonas del centro de trabajo con riesgo de incendio; ubicación de los medios de detección de incendio, equipos y sistemas contra incendio; rutas de evacuación; ubicación del equipo de protección personal para los integrantes de las brigadas contra incendio y en su caso, ubicación de materiales y equipo para prestar los primeros auxilios; y
-
-XI. Lo demás solicitado conforme a los Términos de Referencia específicos que por tipo de establecimiento o inmueble lleguen a publicarse.
+(DEROGADO, G.O. 15 DE DICIEMBRE DE 2023)
 
 ###### Artículo 46.
 
 Las personas propietarias, poseedoras o administradoras de inmuebles a que se refiere el artículo 58 fracción I de la Ley, se sujetarán a lo que establezcan los Términos de Referencia específicos que para este tipo de inmuebles se publiquen en la Gaceta Oficial de la Ciudad de México.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 47.
 
-Los edificios de oficinas y edificios corporativos que contengan distintos establecimientos, se sujetarán a lo siguiente:
+Los inmuebles de uso mixto en los que concurran usos de oficinas, corporativos, establecimientos mercantiles y/o habitacional o por lo menos dos de estos, se sujetarán a lo siguiente:
 
-I. La persona propietaria o administradora del inmueble elaborará el Programa Interno para las áreas comunes;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-II. Las personas propietarias, administradoras o poseedoras de los establecimientos con una superficie superior a 100 m2 o con aforo superior a cincuenta personas elaborarán su correspondiente Programa Interno;
+I. La persona propietaria o administradora del inmueble presentará el Programa Interno correspondiente a las áreas comunes a través del ROPC;
 
-III. Para efectos de la elaboración del Programa Interno, a que se refiere la fracción anterior, la persona propietaria o poseedora del inmueble mencionado en el primer párrafo del presente artículo, proporcionará a las personas que se mencionan en dicha fracción II, los documentos a que se refieren las fracciones III, IV, V, VII, VIII y X del artículo 45 del presente Reglamento;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+II. Las personas propietarias, administradoras o poseedoras de establecimientos mercantiles con una superficie de construcción superior a 250 metros cuadrados y con aforo superior a cien personas deberán elaborar su correspondiente Programa Interno a través del ROPC;
+
+> <small>(ADICIONADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+II BIS. En el caso de las áreas de uso habitacional las personas propietarias, poseedoras y/o administradoras del conjunto habitacional estarán obligadas a elaborar su Programa Interno a través del ROPC;
+
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+III. Para la elaboración del Programa Interno a que se refieren las fracciones anteriores, la persona propietaria o poseedora del inmueble mencionado en la primera fracción del presente artículo, proporcionará para la implementación del Programa Interno, los documentos a que se refieren el artículo 40 BIS del presente Reglamento;
 
 IV. Cuando los sistemas de alarma contra incendios, detección de humo y red de hidrantes formen parte del edificio de oficinas, la persona propietaria o poseedora de este, proporcionará la copia correspondiente del programa de mantenimiento y bitácoras; y
 
-V. El equipo receptor de alertamiento sísmico que reciba la señal oficial del Gobierno de la Ciudad de México, será responsabilidad de la persona propietaria o administradora del edificio de oficinas, dicho sistema deberá sujetarse a lo que establezca la Norma Técnica que se expida para el efecto.
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 18 DE JUNIO DE 2021)</small>
+V. El equipo receptor de alertamiento sísmico que reciba la señal oficial del Gobierno de la Ciudad de México, así como su mantenimiento, será responsabilidad de la persona propietaria o administradora del inmueble de uso mixto, dicho equipo deberá sujetarse a lo que establezca la Norma Técnica que se expida para el efecto.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Los Programas Internos a que se refieren las fracciones I, II y III del presente artículo, se capturarán de manera individualizada en la Plataforma Digital, no obstante serán complementarios en su operación unos con otros.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Los establecimientos mercantiles clasificados de bajo riesgo que se encuentren ubicados en los inmuebles a que se refiere el presente artículo, deberán cumplir con las disposiciones a que se refiere la Ley y el presente Reglamento, asimismo deberán exhibir cuando les sea requerido el oficio que emite el cuestionario clasificatorio de nivel de riesgo y la constancia de capacitación correspondiente.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Los Programas Internos a que se refiere el presente artículo serán registrados por la Secretaría mediante la Plataforma Digital.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 48.
 
-Los centros comerciales que contengan distintos establecimientos, se sujetarán a lo siguiente:
+Los centros comerciales que contengan establecimientos mercantiles de diversos giros o actividades económicas, se sujetarán a lo siguiente:
 
-I. La persona propietaria o administradora elaborará el Programa Interno para las áreas comunes;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, G.O. 18 DE JUNIO DE 2021)</small>
+I. La persona propietaria o administradora del centro comercial elaborará el Programa Interno para las áreas comunes por medio de un ROPC;
 
-II. Las personas propietarias, administradoras o poseedoras de los establecimientos clasificados como de mediano o alto riesgo, elaborarán su correspondiente Programa Interno;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-III. Para efectos de la elaboración del Programa Interno, a que se refiere la fracción anterior, la persona propietaria o poseedora del inmueble mencionado en el primer párrafo del presente artículo, proporcionará a las personas que se mencionan en dicha fracción II, los documentos a que se refieren las fracciones III, IV, V, VII, VIII y X del artículo 45 del presente Reglamento;
+II. Las personas propietarias, administradoras o poseedoras de cada uno de los establecimientos mercantiles con una superficie de construcción superior a 250 m2 y con aforo superior a cien personas elaborarán su correspondiente Programa Interno por medio de un ROPC, para lo cual el propietario o administrador del centro comercial proporcionará los documentos a que se refiere el artículo 40 BIS del presente Reglamento;
+
+III. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
 IV. Cuando los sistemas de alarma contra incendios, detección de humo y red de hidrantes formen parte del centro comercial, la persona propietaria o poseedora de este, proporcionará la copia correspondiente del programa de mantenimiento y bitácoras; y
 
-V. El equipo receptor de alertamiento sísmico que reciba la señal oficial del Gobierno de la Ciudad de México, será responsabilidad de la persona propietaria o administradora del centro comercial, dicho sistema deberá sujetarse a lo que establezca la Norma Técnica que se expida para el efecto.
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 18 DE JUNIO DE 2021)</small>
+V. El equipo receptor de alertamiento sísmico que reciba la señal oficial del Gobierno de la Ciudad de México y, en su caso, su mantenimiento, será responsabilidad de la persona propietaria o administradora del centro comercial, además dicho equipo deberá sujetarse a lo que establezca la Norma Técnica que se expida para el efecto.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Los Programas Internos que se refieren (sic) las fracciones I y II del presente artículo, se capturarán de manera individualizada en la Plataforma Digital, no obstante, serán complementarios en su operación unos con otros.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Los establecimientos mercantiles clasificados como de bajo riesgo en centros comerciales, deberán cumplir con las disposiciones a que se refiere la Ley y el Reglamento para este tipo de establecimientos, así como exhibir, cuando les sea requerido, el oficio que emite el cuestionario clasificatorio de nivel de riesgo y la constancia de capacitación correspondiente.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Los Programas Internos a que se refiere el presente artículo serán registrados por la Secretaría mediante la Plataforma Digital.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Artículo 48 BIS. Los establecimientos mercantiles, industrias o inmuebles que, dentro de sus instalaciones cuenten con Centro de Atención y Cuidado Infantil de carácter privado, público, mixto o comunitario y administrado por persona física o moral que cuente con un espacio para proporcionar servicios de cuidado y atención de niños y niñas a partir de los 45 días de nacidos, hasta 5 años 11 meses de edad se sujetarán a lo siguiente:
+
+I. La persona propietaria o administradora elaborará el Programa Interno para dichas instalaciones, conforme lo señale los términos de referencia aplicables y lo presentará mediante un ROPC;
+
+II. Las acciones de protección civil del Centro de Atención y Cuidado Infantil, se ajustarán a lo que señale la NOM-009-SEGOB-2015 "Medidas de previsión, prevención y mitigación de riesgos en centros de atención infantil en la modalidad pública, privada y mixta" o la Norma Oficial Mexicana que la sustituya.
+
+III. El equipo receptor de alertamiento sísmico que reciba la señal oficial del Gobierno de la Ciudad de México y, en su caso, su mantenimiento, será responsabilidad de la persona propietaria o administradora del establecimiento mercantil o industria, además dicho equipo deberá sujetarse a lo que establezca la Norma Técnica que se expida para el efecto.
+
+Los Programas Internos a que se refieren las fracciones I y II de este artículo, se capturarán de manera individualizada en la Plataforma Digital, no obstante serán complementarios en su operación unos con otros.
+
+Los Programas Internos a que se refiere el presente artículo serán registrados por la Secretaría mediante la Plataforma Digital.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 49.
 
-El Comité Interno de Protección Civil de cada establecimiento o inmueble deberá implementar las cuatro brigadas básicas:
+El Comité Interno de Protección Civil de cada establecimiento mercantil, industria o inmueble que esté obligado a contar con Programa Interno deberá implementar las cuatro brigadas básicas:
 
 I. Primeros auxilios;
 
@@ -782,11 +904,13 @@ III. Comunicación; y
 
 IV. Evacuación y repliegue.
 
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-La brigada podrá ser multifuncional, cuando el ROPC corresponsable del Programa Interno y la persona responsable del establecimiento o el inmueble, acrediten que esto es necesario en función de la naturaleza del inmueble, el riesgo de la actividad y la disponibilidad de personas para integrar a las brigadas a que se refiere el primer párrafo del presente artículo.
+La brigada podrá ser multifuncional, cuando el ROPC o el ROPC institucional corresponsable del Programa Interno y la persona responsable del establecimiento o el inmueble, acrediten que esto es necesario en función de la naturaleza del inmueble, el riesgo de la actividad y la disponibilidad de personas para integrar a las brigadas a que se refiere el primer párrafo del presente artículo.
 
-Las personas brigadistas que las integran deberán contar con constancia de capacitación vigente no mayor a un año.
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Las personas brigadistas que las integran deberán contar con una constancia de capacitación, la cual tendrá una vigencia anual.
 
 ###### Artículo 50.
 
@@ -800,49 +924,65 @@ La falta de existencia de ésta será motivo de sanción de acuerdo al artículo
 
 La cantidad mínima asegurada a que se refiere el artículo 62 de la Ley se establecerá mediante un Acuerdo que se expida para el efecto.
 
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 52.
 
-La falta de la carta de responsabilidad y corresponsabilidad de quien elabora el Programa Interno será causa de que éste se dé como no registrado, la vigencia de dicha carta no podrá ser menor a dos años.
+La falta de la carta de responsabilidad y de corresponsabilidad de quien elabore el Programa Interno o la falta de vigencia de las mismas serán causas de que éste no sea registrado.
 
-El Tercero Acreditado no podrá delegar la corresponsabilidad en otro.
+La vigencia de dichas cartas no podrá ser menor a la vigencia establecida por la Ley para cada tipo de Programa Interno.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE JUNIO DE 2021)</small>
+El pago de honorarios realizado por las personas administradoras, directoras, gerentes, poseedoras, arrendatarias o propietarias de inmuebles o establecimientos obligados, a los ROPC por la elaboración del Programa Interno se ajustarán a lo pactado entre las partes y no podrán exceder lo señalado en el arancel publicado por la Secretaría.
+
+Durante la vigencia del Programa Interno, el ROPC será responsable de su implementación, seguimiento y actualización.
+
+El ROPC no podrá delegar la corresponsabilidad en un tercero.
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 53.
 
-Los Programas Internos deberán ser actualizados y registrados cuando se modifique el Comité Interno, existan riesgos internos o externos diferentes a los ya analizados, nombre, denominación o razón social, giro o actividad económica, tecnología utilizada o procesos de producción, así como cuando existan modificaciones estructurales en el inmueble; dicha actualización deberá ser presentada a la autoridad competente en un plazo no mayor a 30 días hábiles contados a partir de la realización de la modificación.
+Los Programas Internos deberán ser actualizados cuando: se modifique el Comité Interno, existan riesgos internos o externos diferentes a los ya analizados, se modifique el nombre, denominación o razón social, giro mercantil o actividad económica, tecnología utilizada o procesos de producción, cuando existan modificaciones estructurales en el inmueble, o cambie la constancia o dictamen de seguridad estructural, visto bueno de seguridad y operación de las instalaciones. Dicha actualización deberá ser presentada a través de la Plataforma Digital en un plazo no mayor a 30 días hábiles contados a partir de la realización de la modificación. En el caso de los Programas Internos de las escuelas de educación básica, el plazo para realizar la actualización, será de diez días hábiles.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 18 DE JUNIO DE 2021)</small>
+Si derivado de la revisión aleatoria que realice la Secretaría mediante la Plataforma Digital, se identifica el incumplimiento de alguno de los supuestos antes mencionados, la persona física o moral obligada podrá ser sujeto de una verificación en materia de Protección Civil, conforme al artículo 213 BIS para lo cual, la Secretaría lo informará a la Alcaldía.
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 54.
 
-La Secretaría proporcionará asesoría técnica de manera gratuita para la elaboración de los Programas Internos a las personas poseedoras, propietarias o responsables de establecimiento o de inmuebles declarados como de alto riesgo, así como a los inmuebles destinados al servicio público.
-
-Los de bajo, mediano riesgo y los demás no previstos, serán atendidos por las Alcaldías correspondientes.
+La Secretaría proporcionará asesoría técnica de manera gratuita para los establecimientos mercantiles clasificados como bajo riesgo y para la elaboración de los Programas Internos de inmuebles destinados al servicio público.
 
 ###### Artículo 55.
 
 En el Programa Interno se deberá ingresar un control o registro de la población en condición de vulnerabilidad, el cual será realizado por el responsable de cada una de las brigadas de protección civil del inmueble al que pertenecen.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 56.
 
-Para la revalidación del Programa Interno, los ROPC deberán presentar la siguiente documentación en la Plataforma Digital:
+Para la revalidación del Programa Interno, los ROPC deberán actualizar la siguiente documentación en la Plataforma Digital:
 
 I. Acta Constitutiva de la Integración del Comité Interno actualizado;
 
-II. Póliza de seguro vigente en los términos señalados en la Ley;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+II. Póliza de seguro vigente que ampare la responsabilidad civil y daños a terceros en los términos que establece la Ley. La carátula de la póliza o el endoso de la misma deberá señalar esta cobertura; y,
 
 III. Visto bueno de seguridad y operación vigente, en los términos establecidos en el Reglamento de Construcciones para el Distrito Federal;
 
-IV. Bitácoras de mantenimiento preventivo y correctivo de los sistemas contra incendio y equipo de alerta sísmica, conforme se establece en los Términos de Referencia y en la Norma Técnica correspondiente;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+IV. Bitácoras de mantenimiento preventivo y correctivo de los sistemas fijos contra incendio, equipo de alerta sísmica y de instalaciones, dentro de las cuales se consideran: eléctricas, gas, elevadores y las demás que así lo requieran, conforme a lo establecido en los Términos de Referencia aplicables;
 
 V. Bitácoras de capacitación;
 
-VI. Bitácoras de simulacro, por lo menos tres ejercicios realizados conforme el año anterior corriente, conforme lo establecen los Términos de Referencia;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-VII. Constancias de capacitación de cada integrante del Comité Interno conforme a las cuatro brigadas básicas;
+VI. Actas de simulacros en los que se consideren los aspectos que serán detallados en los Términos de Referencia aplicables;
+
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+VII. Escrito libre firmado por el ROPC mediante el cual manifieste, bajo protesta de decir verdad, el listado de los nombres de las personas capacitadas, el tema impartido y la duración de la capacitación y la cual tendrá vigencia no mayor a un año;
 
 VIII. Dictamen de gas L.P. y/o natural vigente, en su caso; y
 
@@ -850,61 +990,117 @@ VIII. Dictamen de gas L.P. y/o natural vigente, en su caso; y
 
 IX. Constancia de seguridad estructural vigente, misma que se actualizará en los términos del Reglamento de Construcciones para vigente en la Ciudad de México.
 
-> <small>(ADICIONADO, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-Artículo 56 BIS. Adicionalmente a las medidas previstas en el artículo 64 de la Ley, los establecimientos mercantiles e inmuebles de bajo impacto deberán cumplir con las siguientes:
+La revalidación únicamente será procedente cuando no se modifique la razón o denominación social, el domicilio del establecimiento, el giro mercantil o actividad económica, los metros cuadrados de construcción, que el inmueble no haya sufrido modificación estructural y que sea realizado por el mismo ROPC.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Artículo 56 BIS. Adicionalmente a las medidas previstas en el artículo 64 de la Ley, los establecimientos mercantiles e inmuebles clasificados como de bajo riesgo deberán cumplir con las medidas preventivas siguientes:
+
+> <small>(ADICIONADA, G.O. 18 DE JUNIO DE 2021)</small>
 
 I. Destinar el local exclusivamente para el giro autorizado;
 
+> <small>(ADICIONADA, G.O. 18 DE JUNIO DE 2021)</small>
+
 II. Evitar aglomeraciones de personas o vehículos en las entradas, salidas y en las vialidades por las que se tenga acceso y que dificulten el tránsito de personas o vehículos;
+
+> <small>(ADICIONADA, G.O. 18 DE JUNIO DE 2021)</small>
 
 III. Colocar en un lugar visible, la señalización de las acciones a seguir en caso de emergencias, especialmente la referente a los casos de sismo e incendio;
 
-IV. Realizar los simulacros a los que convoque la autoridad competente, por lo menos.
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADO, G.O. 18 DE JUNIO DE 2021)</small>
+IV. Realizar por lo menos los simulacros a los que convoque la autoridad competente; y,
 
-Artículo 56 TER. Cuando el aforo de los establecimientos mercantiles o inmuebles, sea menor a 50 personas y/o tengan una superficie menor a 100 metros cuadrados de construcción, serán considerados de bajo riesgo, por lo que no tendrán la obligación de contar con un Programa Interno, pero deberán cumplir con las medidas preventivas contempladas en la Ley y en este Reglamento.
+> <small>(ADICIONADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+V. Inscribirse en los cursos de capacitación proporcionados por la Secretaría a los establecimientos mercantiles e inmuebles clasificados como de bajo riesgo, la cual tendrá una vigencia de un año, y se dará a conocer mediante acuerdo publicado en la Gaceta Oficial de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Artículo 56 TER. Cuando el aforo de los establecimientos mercantiles o inmuebles sea menor a 100 personas y/o tengan una superficie menor a 250 metros cuadrados de construcción, serán considerados como de bajo riesgo, por lo que no tendrán la obligación de contar con un Programa Interno, no obstante deberán cumplir con las medidas preventivas contempladas en la Ley y en este Reglamento.
 
 ### CAPÍTULO IV. DE LOS PROGRAMAS ESPECIALES
 
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 57.
 
-Las personas promotoras, organizadoras, dependencias, órganos desconcentrados o entidades de la Administración Pública Federal y de la Ciudad de México que pretendan realizar eventos o espectáculos públicos de afluencia masiva en áreas o inmuebles con un uso distinto al habitual, están obligados a elaborar un Programa Especial, por medio de un ROPC o un ROPC Institucional.
+Las personas promotoras, organizadoras, así como las Dependencias, Órganos Desconcentrados, Organismos Descentralizados, Autónomos o Entidades de la Administración Pública Federal y de la Ciudad de México que pretendan realizar eventos o espectáculos públicos de afluencia masiva y circenses, en áreas o inmuebles con un uso distinto al habitual, están obligados a elaborar un Programa Especial, por medio de un ROPC o un ROPC Institucional, mismo que deberá ser capturado en la Plataforma Digital, de conformidad con lo establecido en los Términos de Referencia que emita la Secretaría y demás normativa aplicable.
 
-Tratándose de espectáculos tradicionales se estará a lo señalado en el artículo 75 bis de la Ley.
-
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
+Tratándose de espectáculos tradicionales, las personas que se determinen como responsables de la elaboración del Programa Especial en los Términos de Referencia que emita la Secretaría, deberán presentar el Programa Especial para su registro ante la Alcaldía correspondiente, dando cumplimiento a lo establecido en el presente Reglamento, la Ley para la Celebración de Espectáculos Públicos en la Ciudad de México y Términos de Referencia para la elaboración de Programas Especiales.
 
 ###### Artículo 58.
 
-Los Programas Especiales para eventos o espectáculos públicos de afluencia masiva se deberán elaborar conforme a los Términos de Referencia, Normas Técnicas y Normas Oficiales Mexicanas que correspondan, dichos Programas se registrarán en la Plataforma Digital y se evaluarán y supervisarán por la Alcaldía correspondiente cuando el aforo sea superior a 500 personas y se lleven a cabo en áreas o inmuebles con un uso distinto al habitual que por sus características representen un riesgo potencial.
+(DEROGADO, G.O. 15 DE DICIEMBRE DE 2023)
 
-I. (DEROGADA, G.O. 18 DE JUNIO DE 2021)
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-II. (DEROGADA, G.O. 18 DE JUNIO DE 2021)
+Artículo 58 BIS. Para efectos de lo establecido en el artículo 73 de la Ley, los Programas Especiales para las actividades, eventos o espectáculos públicos de afluencia masiva organizados por el Gobierno de la Ciudad se deberán capturar vía electrónica en la Plataforma Digital. La Secretaría, conforme sus atribuciones, llevará a cabo el análisis siguiente:
+
+a) Revisará las documentales para la obtención del registro del Programa Especial establecidas en el artículo 40 BIS del presente Reglamento;
+
+b) En caso de que se desprendan observaciones se harán del conocimiento a través de la Plataforma Digital, en un plazo de tres días hábiles a partir de la fecha de captura;
+
+c) Se otorgará un plazo de cinco días hábiles para la atención de dichas observaciones;
+
+d) Una vez solventadas las observaciones la Secretaría podrá otorgar el registro a través de la Plataforma Digital, en un plazo no mayor a dos días hábiles;
+
+En el supuesto de que las observaciones no sean atendidas, se tendrá por no presentada la solicitud de registro, por lo que se deberá iniciar un nuevo trámite;
+
+e) Una vez registrado el Programa Especial, la Secretaría, dentro de los cinco días previos a la realización del evento, podrá revisar in situ que las condiciones físicas de las instalaciones sean acordes con lo señalado en dicho programa.
+
+Para tal efecto, la persona organizadora deberá brindar todas las facilidades para que el personal de la Secretaría tenga acceso en las áreas e instalaciones que se contemplen en el Programa Especial y que se encuentren en el sitio donde se lleve a cabo el evento.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Artículo 58 TER. Para efectos de lo establecido en el artículo 73 de la Ley, los Programas Especiales para las actividades, eventos o espectáculos públicos o circenses de afluencia masiva se deberán capturar vía electrónica en la Plataforma Digital para lo cual las Alcaldías, conforme sus atribuciones, llevarán a cabo el análisis siguiente:
+
+a) Revisarán las documentales para la obtención del registro del Programa Especial, de conformidad con lo establecido en el artículo 40 BIS del presente Reglamento;
+
+b) En caso de que se desprendan observaciones se harán del conocimiento a través de la Plataforma Digital, en un plazo de tres días hábiles a partir de la fecha de ingreso;
+
+c) Se otorgará un plazo de cinco días hábiles para la atención de las observaciones;
+
+d) Una vez solventadas las observaciones, la Alcaldía correspondiente otorgará el registro a través de la Plataforma Digital;
+
+En el supuesto de que las observaciones no sean atendidas, se tendrá por no presentada la solicitud de registro por lo que se deberá iniciar un nuevo trámite;
+
+e) Una vez registrado el Programa Especial la Alcaldía podrá revisar in situ que las condiciones físicas de las instalaciones sean acordes con lo señalado en dicho programa.
+
+Para tal efecto, la persona organizadora deberá brindar todas las facilidades para que el personal de la Alcaldía correspondiente tenga acceso a las áreas e instalaciones que se contemplen en el Programa Especial y que se encuentren en el sitio donde se lleve a cabo el evento.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Artículo 58 QUATER. En la elaboración de los Programas Especiales de espectáculos tradicionales como ferias tradicionales, agropecuarias y temáticas, romerías, carnavales, ferias, comparsas, juegos de destreza u otros de similar naturaleza, se deberá atender las disposiciones de la Ley para la Celebración de Espectáculos Públicos en la Ciudad de México, y los términos de referencia para la elaboración de programas especiales de protección civil, que emita la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 59.
 
-Los eventos o espectáculos públicos de afluencia masiva estarán sujetos a lo siguiente:
+Los eventos o espectáculos públicos de afluencia masiva, incluidos los tradicionales o circenses estarán sujetos a lo siguiente:
 
 Las personas promotoras, organizadoras, dependencias, órganos desconcentrados o entidades de la Administración Pública Federal y de la Ciudad de México están obligadas a implementar las medidas de gestión integral de riesgos y protección civil que se establecen en los Términos de Referencia para la elaboración de Programas Especiales de Protección Civil, las Normas Oficiales Mexicanas y las Normas Técnicas;
 
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-Previo al evento y durante el mismo, las Unidades de Alcaldías supervisarán, verificarán, evaluarán y sancionarán el incumplimiento de las medidas de protección civil propias del evento o espectáculo público de afluencia masiva, establecidos en el Programa Especial autorizado por la autoridad competente.
+Previo al evento y durante el mismo, la Secretaría o la Alcaldía según corresponda, supervisará, verificará, revisará, evaluará y sancionará el incumplimiento de las medidas de protección civil propias del evento o espectáculo público de afluencia masiva, tradicional o circense establecidos en el Programa Especial registrado por la autoridad competente.
 
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-La Alcaldía correspondiente podrá suspender o cancelar, parcial o totalmente, tanto las instalaciones temporales como el evento o espectáculo, cuando la persona promotora u organizadora incumpla la Ley, Reglamento, Términos de Referencia y Normas Técnicas, que para tal efecto emita la Secretaría.
+La Secretaría o la Alcaldía correspondiente podrá suspender o cancelar, parcial o totalmente, tanto las instalaciones temporales como las actividades, de eventos o espectáculos públicos de afluencia masiva, incluidos los tradicionales o circenses, cuando la persona promotora u organizadora incumpla la Ley, el Reglamento, los Términos de Referencia y/o las Normas Técnicas, que para tal efecto emita la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 60.
 
-Respecto a los datos generales del evento a que se refiere la fracción I del artículo 75 de la Ley, se deberá precisar lo siguiente:
+Al capturar los datos generales del evento establecidos en la fracción I del artículo 75 de la Ley, se deberá precisar lo siguiente:
 
-I. Nombre especifico del evento;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+I. Nombre específico del evento, además se deberá indicar si el mismo es un espectáculo público, tradicional o circense o cualquier otro de similar naturaleza conforme a lo establecido en la Ley para la Celebración de Espectáculos públicos en la Ciudad de México;
 
 II. Ubicación exacta del lugar donde se efectuará;
 
@@ -918,11 +1114,13 @@ VI. Capacidad máxima del recinto; y
 
 VII. Forma de difusión antes, durante y al término del evento de las medidas de protección civil como lo establece el artículo 92 de la Ley.
 
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 61.
 
-La falta de Programa Especial o la omisión de alguna actividad preventiva establecida en el mismo se considerarán como de riesgo inminente, por tanto, la autoridad competente podrá ordenar como medida de seguridad, la suspensión de los eventos o espectáculos públicos de afluencia masiva, con independencia de la aplicación de las sanciones previstas en el artículo 221 fracciones III, IV y XIII de la Ley.
+La falta de Programa Especial o la omisión de alguna actividad preventiva establecida en el mismo se considerarán como de riesgo inminente, por tanto, la autoridad competente podrá ordenar como medida de seguridad, la suspensión de los eventos o espectáculos públicos de afluencia masiva, incluidos los espectáculos tradicionales o circenses, con independencia de la aplicación de las medidas cautelares, de seguridad y sanciones previstas en la Ley y en el presente Reglamento.
+
+En el caso de que se ordene la suspensión del evento como medida de seguridad, la autoridad ordenadora deberá realizar lo establecido en la Ley, además de sustentar técnicamente a través de una Opinión Técnica el riesgo inminente o de lo contrario deberá levantar dicho estado, y en caso de no hacerlo podría incurrir en responsabilidad administrativa de conformidad con la Ley de Responsabilidades Administrativas de la Ciudad de México.
 
 ###### Artículo 62.
 
@@ -968,11 +1166,11 @@ La forma y contenido de este aviso será parte del Programa Especial. La falta d
 
 Para toda celebración a la que se refiere el párrafo anterior deberá tomar medidas especiales contando con un grupo de apoyo especial para personas de grupos de atención prioritaria. La omisión a lo anterior se sancionará en los términos previstos en el artículo 230 del presente Reglamento.
 
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 64.
 
-Tratándose de situaciones no programadas que puedan implicar algún riesgo socio-organizativo y ante la falta de un Programa Especial autorizado, las autoridades competentes adoptarán todas aquellas medidas de preparación, mitigación y en su caso de auxilio, que resulten necesarias para la salvaguarda de la integridad física de los (sic) personas, atendiendo a la naturaleza de los mismos, lo anterior sin eximir de responsabilidad a los promotores, organizadores, dependencias, órganos desconcentrados o entidades de la Administración Pública Federal y de la Ciudad de México así como, en su caso, al ROPC que emitió carta de corresponsabilidad y atendió el evento.
+Tratándose de situaciones no programadas que puedan implicar algún riesgo socio-organizativo y ante la falta de registro en la Plataforma Digital de un Programa Especial imputable a la persona organizadora, promotora, ROPC o ROPC Institucional, las autoridades competentes adoptarán todas aquellas medidas de preparación, mitigación y en su caso de auxilio, que resulten necesarias para la salvaguarda de la integridad física de las personas, atendiendo a la naturaleza de los mismos, lo anterior sin eximir de responsabilidad a los promotores, organizadores o ente de la Administración Pública Federal o de la Ciudad de México encargado del evento, así como, en su caso, al ROPC y/o ROPC Institucional que haya emitido la carta de corresponsabilidad y atendido el evento, sin responsabilidad para la Secretaría o la Alcaldía.
 
 ### CAPÍTULO V. DE LOS PROGRAMAS ESPECÍFICOS
 
@@ -1038,7 +1236,9 @@ Para efectos del artículo anterior la información deberá ser integrada y actu
 
 I. Información generada por las áreas internas de la Secretaría;
 
-II. La información contenida en los Atlas de las Alcaldías, que será proporcionada mensualmente por las personas titulares de las Unidades de Alcaldía;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+II. La información contenida en los Atlas de Riesgos de las Alcaldías, la cual será proporcionada por las personas titulares de las Unidades de Alcaldía mensualmente;
 
 III. Toda información del sector público y privado que sea relevante para su integración en el Atlas de Riesgos; y
 
@@ -1062,17 +1262,25 @@ El conjunto de los Atlas de Riesgos de las Alcaldías forman parte del Atlas de 
 
 Las Alcaldías deberán compartir la información para la elaboración del Atlas de Riesgos de la Ciudad de México con la Secretaría, conforme los lineamientos técnicos y operativos que esta expida.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 75.
 
-Las Alcaldías, previo convenio con la Secretaría podrán disponer de un visor para consulta y análisis espacial del Atlas de Riesgos de la Ciudad de México correspondiente a su demarcación territorial.
+Las Alcaldías, previo convenio con la Secretaría podrán disponer de un visor para consulta, análisis espacial y creación de capas del Atlas de Riesgos de la Ciudad de México correspondiente a su demarcación territorial.
 
 En dicho convenio se establecerán los requerimientos técnicos y de intercambio de información.
 
 ### CAPÍTULO III. SISTEMA DE ALERTA TEMPRANA Y ALERTAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 76.
 
-La Secretaría será la responsable de emitir y/o replicar los diferentes sistemas de alertamiento tanto del Gobierno de la Ciudad de México, como del Gobierno Federal, a fin de articular el Sistema de Alerta Temprana, queda prohibido que particulares emitan alertamientos al público en general o repliquen el mismo sin autorización previa de la Secretaría, el Sistema de Alerta Temprana se integrará, de manera enunciativa más no limitativa por:
+La Secretaría será la responsable de emitir y/o replicar los diferentes sistemas de alertamiento tanto del Gobierno de la Ciudad de México, como del Gobierno Federal, a fin de articular el Sistema de Alerta Temprana. Para que los particulares emitan alertamientos al público en general o repliquen el Sistema de Alerta Temprana, deberán contar con autorización previa de la Secretaría.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+El Sistema de Alerta Temprana se integrará, de manera enunciativa más no limitativa por:
 
 I. Alerta Temprana Meteorológica/ Alerta Temprana por Tiempo Severo;
 
@@ -1094,13 +1302,23 @@ Para la emisión del alertamiento, la Secretaría considerará diversos elemento
 
 I. El conocimiento del riesgo, el cual se realiza mediante la información previa obtenida de los análisis de los fenómenos naturales y antropogénicos;
 
-II. La detección del peligro, por lo que el Atlas de Riesgos funcionará como base para el análisis del riesgo, antes de la emisión de las alertas; y
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-III. La difusión y comunicación de las alertas en los espacios disponibles.
+II. La detección del peligro, por lo que el Atlas de Riesgos funcionará como base para el análisis del riesgo, antes de la emisión de las alertas;
+
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+III. La difusión y comunicación de las alertas en los espacios disponibles; y
+
+> <small>(ADICIONADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+IV. Los particulares que pretendan difundir las señales de alertamiento público ante los distintos fenómenos perturbadores, deberán contar con autorización de la Secretaría, por lo que las especificaciones técnicas y requisitos se detallan en la Norma Técnica para receptores secundarios o la que la sustituya.
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 78.
 
-Para la detección del peligro, la Secretaría contará con la infraestructura tecnológica en el C5 de la Ciudad de México para el monitoreo y diagnóstico de los fenómenos perturbadores.
+Para el monitoreo y diagnóstico de los fenómenos perturbadores, la Secretaría contará con la infraestructura tecnológica en el C5 de la Ciudad de México.
 
 ###### Artículo 79.
 
@@ -1118,15 +1336,17 @@ La Secretaría elaborará los mensajes de alerta desde el principio de igualdad 
 
 La Secretaría formulará los procedimientos y planes operativos en materia de gestión integral de riesgos y protección civil respecto a la operación del Sistema, a fin de optimizar la coordinación entre autoridades para brindar una respuesta adecuada para la preparación de la población ante los peligros y riesgos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 83.
 
-El Sistema de Alerta Sísmica de la Ciudad de México dependiente del Instituto para la Seguridad de las Construcciones de la Ciudad de México que opera el Centro de Instrumentación y Registro Sísmico A.C, es el único que puede emitir alertamientos de esta naturaleza, por lo que aquellos que quieran difundir la alerta sísmica mediante transmisor y receptor secundario, deberán apegarse a la Norma Técnica que se expida para tal efecto, para lo cual deberá cumplir como mínimo lo siguiente:
+El Sistema de Alerta Sísmica de la Ciudad de México es el único que puede emitir alertamientos de esta naturaleza, por lo que aquellos interesados en difundir la alerta sísmica mediante transmisor y receptor secundario, deberán apegarse a la Norma Técnica expedida por la Secretaría y otras disposiciones normativas que resulten aplicables.
 
-I. El sistema de difusión secundario debe tener la función de difundir la alerta sísmica en modo de difusión amplia, simultánea y gratuita al público en riesgo sísmico, garantizando la recepción del mensaje en un tiempo menor a 5 (cinco) segundos;
+I. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
-II. Informe técnico presentado por el Instituto para la Seguridad de las Construcciones de la Ciudad de México a la Secretaría para su evaluación, que muestre que cumple con los aspectos a revisar y verificar correspondientes conforme a la Norma Técnica que se expida para tal efecto; y
+II. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
-III. El aviso de alerta sísmica debe tener la máxima prioridad sobre cualquier aviso o señal de alerta vigente por lo que debe ser capaz de interrumpir cualquier otro mensaje.
+III. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
 ###### Artículo 84.
 
@@ -1136,23 +1356,33 @@ La Secretaría realizará acciones y podrá celebrar convenios para difundir por
 
 ### CAPÍTULO I. ANUNCIOS DE PUBLICIDAD EXTERIOR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 85.
 
-Para efectos del permiso previsto en el artículo 12 de la Ley de Publicidad Exterior del Distrito Federal, cualquier tipo de anuncio de publicidad exterior denominativo en autosoportados, tipo valla, tapial y muro ciego, la Secretaría a solicitud de la Secretaría de Desarrollo Urbano y Vivienda, emitirá el Dictamen Técnico en materia de Protección Civil, los proyectos enviados a la Secretaría deberán contener lo siguiente:
+Para la obtención de la licencia para la instalación de los medios publicitarios previstos en el artículo 14 de la Ley de Publicidad Exterior de la Ciudad de México, la Secretaría, a solicitud de la Secretaría de Desarrollo Urbano y Vivienda, emitirá la Opinión Técnica en materia de Protección Civil de aquellos medios publicitarios que la requieran.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Las solicitudes de opinión técnica a que se refiere el párrafo anterior deberán contener lo siguiente:
 
 I. Documentación
 
-a) Constancia de alineamiento y número oficial vigente; y
+a) (DEROGADO, G.O. 15 DE DICIEMBRE DE 2023)
 
 b) Copia vigente del carnet del Director Responsable de Obra.
 
-II. Información general del proyecto del anuncio:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+II. Información general del proyecto del medio publicitario:
 
 a) Croquis de localización dentro del predio y/o inmueble donde se pretenda instalar;
 
 b) Reporte fotográfico del predio, así como sus colindancias; y
 
-c) Carta de responsabilidad firmada por el Director Responsable de Obra, en donde manifieste bajo protesta de decir verdad que el anuncio publicitario cumple con lo establecido en el Reglamento de Construcciones para el Distrito Federal y sus Normas Técnicas Complementarias en materia de diseño estructural y diseño por viento.
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+c) Carta de responsabilidad firmada por el Director Responsable de Obra en donde manifieste, bajo protesta de decir verdad, que el medio publicitario cumple con lo establecido en el Reglamento de Construcciones para el Distrito Federal y sus Normas Técnicas Complementarias en materia de diseño estructural y diseño por viento.
 
 > <small>(REFORMADA, G.O. 18 DE JUNIO DE 2021)</small>
 
@@ -1160,33 +1390,51 @@ III. Estudio de riesgos
 
 Elaborado por un ROPC autorizado para elaborar estudios de riesgo, expedido por la Secretaría y conforme a los Lineamientos para la Elaboración de Estudios de Riesgos en materia de Gestión Integral de Riesgos y Protección Civil.
 
-IV. Copia de póliza de seguro de responsabilidad civil y daños a terceros en sus bienes y personas, misma que deberá estar vigente desde el inicio de la obra de colocación del anuncio de publicidad exterior a que se refiere este artículo; hasta que concluya la permanencia física del citado anuncio.
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+IV. Copia de póliza de seguro de responsabilidad civil y daños a terceros en sus bienes y personas, misma que deberá estar vigente desde el inicio de los trabajos de instalación del medio publicitario a que se refiere este artículo, hasta que concluya la permanencia física del citado medio publicitario.
 
 ###### Artículo 86.
 
-Para anuncios adosados, se solicitarán los requisitos a que se refiere el artículo anterior, para que se proceda a la cancelación de dicha póliza se requerirá autorización de la Secretaría sustituyendo la carta responsiva por una firmada por el Director Responsable de Obra en la que especifique la no modificación estructural al inmueble o elemento constructivo sobre el que se adosará.
+(DEROGADO, G.O. 15 DE DICIEMBRE DE 2023)
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 87.
 
-La petición de una opinión técnica de riesgo en materia de protección civil provenientes de particulares, serán sustanciados por la Alcaldía que corresponda, salvo que la citada publicidad exterior sea en vías primarias, en cuyo caso corresponderá a la Secretaría.
+La petición de una Opinión Técnica en materia de Protección Civil respecto de medios publicitarios instalados en las vías secundarias, provenientes de las personas titulares de la autorización, serán sustanciados por la Alcaldía que corresponda, a través de la Unidad de Alcaldía que corresponda.
+
+Tratándose de solicitudes de las personas titulares de licencias de medios publicitarios instalados en vías primarias, su atención corresponderá a la Secretaría.
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 88.
 
-La Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México enviará el padrón de anuncios publicitarios a la Secretaría, debidamente georreferenciado para su integración al Atlas de Riesgos.
+La Secretaría deberá integrar la información sobre los medios publicitarios en el Atlas de Riesgos de la Ciudad de México, la cual deberá ser acorde con el Catálogo Oficial establecido en la Ley de Publicidad Exterior de la Ciudad de México y su Reglamento.
 
 ### CAPÍTULO II. ARBOLADO
 
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 89.
 
-La Alcaldía podrá elaborar y emitir por sí o a petición de parte, los Dictámenes Técnicos de Indicadores de Riesgo para Arbolado en materia de protección civil, en los inmuebles, establecimientos o vía pública, cuando se infiera o detecte la existencia de condiciones de alto riesgo.
+Para efectos de los artículos 14 fracción XXXVIII y 97 de la Ley, los Dictámenes Técnicos de Riesgo de arbolado en riesgo se realizarán conforme lo siguiente:
 
-El seguimiento al cumplimiento de las recomendaciones que se deriven del dictamen será responsabilidad de la Alcaldía y serán de cumplimiento obligatorio y prioritario por parte del propietario, poseedor o de quien genere el riesgo.
+> <small>(ADICIONADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+I. La Secretaría del Medio Ambiente y las demarcaciones territoriales para emitir los Dictámenes Técnicos de Riesgo de arbolado se regirán conforme a lo establecido en el artículo 118 de la Ley Ambiental y de Protección a la Tierra.
+
+> <small>(ADICIONADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+II. La Secretaría podrá emitir Dictámenes Técnicos de Riesgo de arbolado en riesgo a solicitud fundada y motivada de las Dependencias, Órganos Desconcentrados, Organismos Descentralizados, Autónomos o Entidades de la Administración Pública Federal y de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+III. En caso de emergencia y/o riesgo que haya requerido poda o derribo de arbolado ejecutado por Dependencias, Órganos Desconcentrados, Organismos Descentralizados, Autónomos o Entidades de la Administración Pública Federal y de la Ciudad de México, con personal especializado en arboricultura y acreditado por la Secretaría del Medio Ambiente, se deberá informar a la autoridad ambiental correspondiente dentro de las 48 horas siguientes a la poda o derribo, de acuerdo a lo establecido en el numeral 6.1.17 de la Norma Ambiental NADF-001-RNAT-2015 o la que la sustituya.
 
 ###### Artículo 90.
 
-La Secretaría elaborará y emitirá por sí o a petición de parte, Dictámenes Técnicos de Indicadores de Riesgo para Arbolado en materia de protección civil en vías primarias o en suelo de conservación; el seguimiento al cumplimiento de las recomendaciones de dicho dictamen y la autorización para los trabajos de mitigación, será responsabilidad de la Secretaría del Medio Ambiente de la Ciudad de México o de la Alcaldía conforme a la normativa ambiental aplicable.
-
-El personal técnico que emita el dictamen deberá contar con la acreditación que para tal efecto expida la Secretaría del Medio Ambiente, conforme a la normativa aplicable.
+(DEROGADO, G.O. 15 DE DICIEMBRE DE 2023)
 
 ### CAPÍTULO III. CERTIFICACIÓN DE DICTÁMENES Y OPINIONES TÉCNICAS
 
@@ -1206,51 +1454,53 @@ V. Para el supuesto de que la Alcaldía presente los Dictámenes Técnicos de Ge
 
 ### CAPÍTULO IV. DICTÁMENES Y OPINIONES TÉNICAS (SIC)
 
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 92.
 
-La Secretaría podrá emitir dictámenes y opiniones técnicas, ambas de indicadores de riesgo en materia de protección civil a solicitud de: las Dependencias de la Administración Pública, las Alcaldías, Órganos Desconcentrados u Órganos Autónomos todos de la Ciudad de México y Dependencias federales; respecto a proyectos considerados de alto riesgo, asentamientos humanos irregulares y predios que se encuentren en proceso de regularización territorial y expropiación; en materia de medio ambiente, servicios públicos, construcción de infraestructura pública, siempre y cuando la solicitud no se contraponga a las atribuciones de la Secretaría.
+La Secretaría podrá emitir Dictámenes Técnicos y Opiniones Técnicas en materia de Protección Civil a solicitud de las Dependencias, Órganos Desconcentrados, Organismos Descentralizados, Autónomos o Entidades de la Administración Pública, Federal y de la Ciudad de México; respecto a proyectos considerados de alto riesgo, inmuebles, asentamientos humanos irregulares y predios que se encuentren en proceso de regularización territorial y expropiación; en materia de medio ambiente, servicios públicos, construcción de infraestructura pública, siempre y cuando la materia de la solicitud no se contraponga a las atribuciones de la Secretaría.
 
-Para lo anterior bastará una solicitud en que se indique la ubicación del inmueble, instalaciones, infraestructura o proyecto sobre el cual se emitirá dictamen u opinión técnica de indicadores de riesgo.
+Para lo anterior bastará una solicitud en que se indique la ubicación del inmueble, instalaciones, infraestructura o proyecto sobre el cual se emitirá Dictamen Técnico u Opinión Técnica en materia de protección civil.
 
 ### CAPÍTULO V. DE LA AUTORIZACIÓN A PROYECTOS DE ESTUDIO DE IMPACTO URBANO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 93.
 
-La Secretaría emitirá opiniones técnicas sobre el estudio de impacto urbano para el caso de las manifestaciones de construcción tipo B y C a que se refiere el artículo 96 de la Ley, además para los siguientes giros e infraestructura:
+La Secretaría emitirá Opiniones Técnicas sobre el Estudio de Impacto Urbano para aquellos proyectos definidos en los artículos 88 fracción I, Incisos D) e I) y 91 del Reglamento de la Ley de Desarrollo Urbano del Distrito Federal y en demás normativa aplicable.
 
-I. Estaciones de carburación de gas natural comprimido;
+I. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
-II. Estaciones de servicio de fin específico o bodegas de distribución de gas L.P.;
+II. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
-III. Museos;
+III. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
-IV. Estadios y auditorios;
+IV. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
-V. Subestaciones eléctricas;
+V. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
-VI. Mercados públicos y centrales de abasto;
+VI. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
-VII. Centros de Readaptación Social, de Ejecución de Sanciones, de Detención para Menores y Penitenciarias, todos de la Ciudad de México;
+VII. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
-VIII. Industrias que requieran licencia única ambiental;
+VIII. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
-IX. Centros de transferencia modal;
+IX. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
-X. Estaciones de transferencia de desechos sólidos;
+X. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
-XI. Establecimientos de procesamiento y disposición final de residuos sólidos;
+XI. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
-XII. Establecimientos de generación y/o manejo de residuos industriales;
+XII. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
-XIII. Puentes peatonales, vehiculares y deprimidos;
+XIII. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
-XIV. Hoteles y moteles con o sin servicios integrados de más de 20 habitaciones;
+XIV. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
-XV. Tiendas departamentales y de autoservicio con más de 500 m2; y
+XV. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
-XVI. Centros Comerciales.
+XVI. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
 > <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
 
@@ -1282,7 +1532,13 @@ En caso de proyecto de ampliación de construcción, además de lo anterior, se�
 
 c) Planos arquitectónicos que detallen el capítulo IV de la Norma Técnica Complementaria Diseño Arquitectónico; y
 
-d) Tratándose de estaciones de servicio de gasolina, diésel y/o estación de carburación de gas de nueva creación o por remodelación, deberá presentar el proyecto de instalación con apego a lo establecido en el Reglamento de Construcciones para el Distrito Federal, el Reglamento de Impacto Ambiental y Riesgo, así como la normativa federal aplicable.
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+d) Tratándose de estaciones de servicio de nueva creación o por remodelación, se deberá presentar el proyecto de instalación con apego a lo establecido en el Reglamento de Construcciones para el Distrito Federal, y la NOM-005-ASEA-2016, Diseño, construcción, operación y mantenimiento de Estaciones de Servicio para almacenamiento y expendio de diésel y gasolinas, o la que lo sustituya así como los lineamientos para la gestión de riesgos en estaciones de servicio y carburación que para tal efecto expida la Secretaría.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+e) Tratándose de estaciones de carburación de gas de nueva creación o por remodelación, deberá presentar el proyecto de instalación con apego a lo establecido en el Reglamento de Construcciones para el Distrito Federal y la NOM-003-SEDG-2004, Estaciones de gas L.P. para Carburación. Diseño y Construcción o la que la sustituya, así como los lineamientos para la gestión de riesgos en estaciones de servicio y carburación que para tal efecto expida la Secretaría.
 
 > <small>(REFORMADA, G.O. 18 DE JUNIO DE 2021)</small>
 
@@ -1290,37 +1546,81 @@ III. Estudio de riesgos
 
 Elaborado por un ROPC autorizado para elaborar estudios de riesgo, expedido por la Secretaría y conforme a los Lineamientos para la Elaboración de Estudios de Riesgos en materia de Gestión Integral de Riesgos y Protección Civil.
 
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Artículo 94 BIS. Para aquellas estaciones de servicio que cuenten con tanques de almacenamiento con treinta años o más de fabricación, se sujetarán a lo que establezcan los lineamientos para la gestión de riesgos en estaciones de servicio y carburación que para tal efecto expida la Secretaría.
+
+Para la sustitución de los tanques de almacenamiento se estará a lo establecido en los lineamientos para la gestión de riesgos en estaciones de servicio y carburación que para tal efecto expida la Secretaría.
+
+Una vez concluidos los trabajos la persona titular de la estación de servicio deberá enviar a la Secretaría, en memoria digital, el estado físico de la estación de servicio y solicitar la revisión de las nuevas instalaciones.
+
+Las personas titulares de una estación de servicios que hayan presentado proyecto y obtenido opinión favorable por parte de la Secretaría, deberán solicitar a esta una revisión, anexando copia de la bitácora firmada por DRO y los Corresponsables, apegándose a los criterios que se establecerán en los lineamientos para la gestión de riesgos en estaciones de servicio y carburación que para tal efecto expida la Secretaría.
+
+La vigencia de las Opiniones Favorables será de dos años.
+
 ### CAPÍTULO VI. HIDROCARBUROS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 95.
 
-Una vez terminados los trabajos de construcción o remodelación en estaciones de servicio de gasolina, diésel y gas, el particular deberá solicitar a la Secretaría la opinión de no inconveniente para recibir suministro de producto para operar normalmente.
+Una vez terminados los trabajos de construcción o remodelación en estaciones de servicio o de carburación, la persona responsable de la estación deberá solicitar a la Secretaría la opinión en la que manifieste no tener inconveniente en que reciba el suministro del producto para operar normalmente.
 
 En caso de no contar con dicha opinión de no inconveniente y se corrobore mediante verificación administrativa que se han iniciado operaciones de venta de gasolina, diésel o gas, las actividades o servicios que se proporcionen serán suspendidas y se aplicará sanción pecuniaria.
 
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+La revisión se hará con base en lo que establezcan los lineamientos para la gestión de riesgos en estaciones de servicio y carburación que para tal efecto expida la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 96.
 
-Durante la operación o en tanto haya almacenamiento de producto, las estaciones de servicio de hidrocarburos líquidos deberán monitorear diariamente sus pozos y trampa de combustibles, así como remitir de manera semestral a la Secretaría los niveles de explosividad.
+Durante la operación o en tanto haya almacenamiento de producto, las estaciones de servicio deberán monitorear diariamente sus pozos y trampa de combustibles, así como remitir de manera semestral a la Secretaría los niveles de explosividad.
 
-En caso de que existan lecturas de explosividad confirmadas diferentes a 0% y/o tirantes de hidrocarburo, el concesionario bajo su más estricta responsabilidad deberá reportarlo de inmediato a la Unidad de Alcaldía correspondiente, a la Secretaría, a la Secretaría del Medio Ambiente, a Petróleos Mexicanos o al proveedor contratado y al Sistema de Aguas de la Ciudad de México; asimismo, deberá realizar las acciones de mitigación que le señalen las autoridades antes referidas.
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+En caso de que existan lecturas de explosividad confirmadas diferentes a 0% y/o tirantes de hidrocarburo, la persona titular de la estación de servicio bajo su más estricta responsabilidad deberá reportarlo de inmediato a la Unidad de la Alcaldía correspondiente, así como a Petróleos Mexicanos, o al proveedor contratado, al Sistema de Aguas de la Ciudad de México y a la Secretaría; asimismo, deberá realizar las acciones de mitigación que le señalen las autoridades antes referidas.
 
 En caso de incumplimiento a lo dispuesto en este artículo, la autoridad competente impondrá como medida de seguridad la suspensión inmediata de actividades, sin perjuicio de las sanciones o multas a las que haya lugar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 97.
 
-Las estaciones de servicio de gasolina, diésel y gas en operación, deberán realizar anualmente y enviar a la Secretaría los resultados de las pruebas de hermeticidad, implementadas a tanques de doble pared o de pared sencilla y tuberías de conducción de producto.
+Las estaciones de servicio y de carburación que se encuentren en operación, deberán realizar anualmente pruebas de hermeticidad a los tanques de almacenamiento y tuberías de conducción de producto y remitirán los resultados a la Secretaría en formato digital, anexando la prueba de medición de espesores con una antigüedad no mayor a seis meses.
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+A partir de que los tanques de almacenamiento de producto cumplan diez años de antigüedad, las pruebas de hermeticidad serán semestrales.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 Dichas pruebas deberán ser realizadas por empresas que cuenten con acreditación vigente; en los términos previstos en la normativa federal y local aplicable.
 
-Cuando los tanques de almacenamiento de producto cumplan diez años de antigüedad, las pruebas serán semestrales.
-
 En los casos en los que la Secretaría haya emitido la opinión técnica con condicionantes, deberán presentar las pruebas de hermeticidad en la periodicidad establecida en dicha opinión.
 
-### CAPÍTULO VII. CENTROS DE EDUCACIÓN INICIAL
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+La falta de presentación a la Secretaría de resultados de pruebas de hermeticidad dará lugar a la realización de una verificación o inspección en materia de protección civil a la Estación de Servicio.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO VII. CENTROS DE ATENCIÓN Y CUIDADO INFANTIL
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 98.
 
-Previo a la apertura de un Centro de Educación Inicial, la persona responsable de la administración y operación solicitará a la Secretaría emitir una constancia que exprese que las instalaciones cumplen con las medidas de seguridad en la materia a que se refiere la NOM-009-SEGOB-2015 o la que la sustituya.
+Previo a la apertura de un Centros (sic) de Atención y Cuidado Infantil, la persona responsable de la administración y operación solicitará a la Secretaría emitir una constancia que exprese que las instalaciones cumplen con las medidas de seguridad en la materia a que se refiere la NOM-009-SEGOB-2015 o la que la sustituya.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+La constancia a la que refiere el párrafo anterior, tendrá una vigencia de dos años y deberá renovarse previa revisión de los documentos establecidos en el artículo 100 del presente Reglamento.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Las recomendaciones realizadas por la Secretaría en la emisión de la constancia a que se refiere este artículo serán de carácter obligatorio para las personas responsables de la administración y operación de los Centros de Atención y Cuidado Infantil, así como para las personas que laboran en ellos.
 
 ###### Artículo 99.
 
@@ -1360,37 +1660,49 @@ I. Formato Único de Trámites establecido en el Registro Electrónico de Trámi
 
 II. Visto Bueno de seguridad y operación vigente, expedido en los términos del Reglamento de Construcciones para el Distrito Federal;
 
-III. Constancia de seguridad estructural;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-IV. Dictamen de instalaciones eléctricas; y
+III. Constancia de seguridad estructural o cualquiera de los documentos que respecto a dicha constancia se señalan en el artículo 71 QUATER del Reglamento de Construcciones del Distrito Federal.
+
+IV. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
 V. Dictamen de instalaciones de gas L.P. y/o natural, en su caso.
 
+> <small>(REFORMADO PRIMER PÁRRRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 101.
 
-Una vez presentada la solicitud de constancia con los documentos señalados, la Secretaría tendrá 7 (siete) días hábiles para revisar la procedencia de los mismos y generar en su caso la prevención correspondiente.
+Una vez presentada la solicitud de emisión de constancia con los documentos señalados en el artículo 100 del presente Reglamento, la Secretaría tendrá 10 (diez) días hábiles para revisar los mismos y generar en su caso la prevención correspondiente.
 
 La persona solicitante tendrá 5 (cinco) días hábiles contados a partir de que surta efectos la notificación de la prevención para subsanar la solicitud. En caso de que no se responda en el término antes señalado se tendrá por no presentada la solicitud.
 
-En caso de que la prevención sea subsanada en tiempo y forma, la Secretaría acordará en un término de 5 (cinco) días hábiles, la fecha y hora para la visita de revisión de cumplimiento de los aspectos previstos en el artículo 99 del presente Reglamento.
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-Una vez realizada la revisión, la Secretaría tendrá un término de 15 (quince) días hábiles para expedir la resolución que corresponda.
+En caso de que la prevención sea subsanada en tiempo y forma, la Secretaría acordará en un término de 10 (diez) días hábiles, la fecha y hora para realizar una visita de revisión de cumplimiento de los aspectos previstos en el artículo 99 del presente Reglamento.
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Una vez realizada la revisión, la Secretaría tendrá un término de 20 (veinte) días hábiles para emitir la resolución que corresponda y, en su caso, la constancia respectiva.
 
 ### CAPÍTULO VIII. DE LAS OPINIONES O DICTÁMENES TÉCNICOS A ESCUELAS DE EDUCACIÓN BÁSICA
 
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 102.
 
-La Secretaría elaborará las Opiniones o Dictámenes técnicos en materia de Gestión Integral de Riesgos y Protección Civil que, previa solicitud, sean requeridos por la Autoridad Educativa Federal en la Ciudad de México. Las recomendaciones que resulten del dictamen serán de carácter vinculatorio.
+La Secretaría y las Alcaldías elaborarán las Opiniones Técnicas en materia de Protección Civil para escuelas públicas o privadas de todos los niveles educativos previa solicitud por escrito. Las recomendaciones que resulten de la opinión serán de carácter vinculante para las personas responsables de las escuelas.
 
 ###### Artículo 103.
 
 Para efectos del artículo anterior, la Secretaría revisará lo siguiente:
 
-I. Instalaciones de prevención y combate de incendios
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+I. Instalaciones de prevención y combate de incendios;
 
 a) Equipos de prevención y combate de incendios portátiles, móviles y fijos;
 
-b) Sistemas de detección y alarmas; y
+b) (DEROGADO, G.O. 15 DE DICIEMBRE DE 2023)
 
 c) Retardante de fuego.
 
@@ -1400,37 +1712,65 @@ III. Rutas de evacuación y salidas de emergencia;
 
 IV. Iluminación de emergencia;
 
-V. Infraestructura física
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+V. Infraestructura física:
 
 a) Muros; y
 
 b) Techos y pisos.
 
-VI. Instalación eléctrica; y
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-VII. Instalación de gas L.P. y/o natural;
+c) Instalación eléctrica; y,
 
-VIII. Equipo de alertamiento sísmico que reciba la señal oficial del gobierno de la ciudad de México, aprobado por la Secretaría conforme a la Norma Técnica correspondiente.
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+d) Instalación de gas L.P. y/o natural.
+
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+VI. Sistemas y equipos de detección, alerta y alarma siguientes:
+
+a) Detectores de humo y/o gas;
+
+b) Equipo de alertamiento sísmico que reciba la señal oficial del gobierno de la Ciudad de México, autorizado por la Secretaría conforme a la Norma Técnica; y,
+
+c) Alarmas de incendios.
+
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+VII. Programa Interno y Constancia de Registro en la Plataforma Digital,
+
+VIII. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 104.
 
-A la solicitud de opinión o dictamen técnico a que se refiere el artículo 102 del presente Reglamento, se adjuntará:
+A la solicitud de Opinión Técnica a que se refiere el artículo 102 del presente Reglamento, se adjuntará:
 
-I. Formato Único de Trámites establecido en el Registro Electrónico de Trámites y Servicios, publicado en la Gaceta Oficial de la Ciudad de México, debidamente requisitado con firma autógrafa;
+I. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
-II. Visto Bueno de seguridad y operación vigente, expedido en los términos del Reglamento de Construcciones para el Distrito Federal;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-III. Constancia de seguridad estructural;
+II. Visto bueno de seguridad y operación de las instalaciones, conforme lo estipula el Reglamento de Construcciones para el Distrito Federal;
 
-IV. Dictamen de instalaciones eléctricas; y
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+III. Constancia de seguridad estructural o cualquiera de los documentos que respecto a dicha constancia se señalan en el artículo 71 QUATER del Reglamento de Construcciones del Distrito Federal.
+
+IV. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
 V. Dictamen de instalaciones de gas L.P. y/o natural, en su caso.
 
 ### CAPÍTULO IX. COMITÉ DE INSTALACIONES SUBTERRÁNEAS
 
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 105.
 
-Cualquier intervención para la construcción de instalaciones subterráneas en vía pública requerirá opinión del Comité de Instalaciones Subterráneas.
+Cualquier intervención para la construcción de instalaciones subterráneas en vía pública requerirá Opinión Técnica en materia de Protección Civil, emitida por la Secretaría en el marco del Comité de Instalaciones Subterráneas.
 
 ###### Artículo 106.
 
@@ -1478,9 +1818,13 @@ IV. Invitados asesores.
 
 El Presidente y las personas vocales tendrán carácter de miembros propietarios, con derecho a voz y voto en las sesiones y su cargo será honorífico.
 
-Cada integrante del Comité de Instalaciones Subterráneas, con la finalidad de garantizar su participación en éste, designará a una persona suplente, quien tendrá las mismas obligaciones y facultades para intervenir en los actos que le corresponda.
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-En el caso de invitados, tendrán únicamente derecho a voz; asimismo, a las sesiones del Comité de Instalaciones Subterráneas, de acuerdo a la problemática o complejidad del asunto a tratar, podrán asistir como Invitados asesores, con derecho a voz, representantes de las dependencias de la Administración Pública Federal, Local, paraestatal, iniciativa privada, instituciones académicas y organizaciones civiles cuyo objeto se vincule con la materia de protección civil.
+Cada vocal del Comité de Instalaciones Subterráneas, con la finalidad de garantizar su participación en éste, designará a una persona suplente, quien tendrá las mismas obligaciones y facultades para intervenir en los actos que le corresponda.
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+De acuerdo con la problemática o complejidad del asunto a tratar, podrán asistir los representantes de las dependencias de la Administración Pública Federal, local, centralizada y paraestatal, de la iniciativa privada, instituciones académicas y organizaciones civiles cuyo objeto se vincule con la materia, con el carácter de invitados, quienes contarán únicamente con derecho a voz.
 
 Las decisiones del Comité de Instalaciones Subterráneas, serán tomadas por mayoría simple de votos de los miembros asistentes, en caso de empate, el Presidente tendrá voto de calidad.
 
@@ -1492,17 +1836,25 @@ Para el buen desempeño de las funciones del Comité de Instalaciones Subterrán
 
 El Comité de Instalaciones Subterráneas, tendrá las siguientes atribuciones:
 
-I. Fungir como órgano de consulta, apoyo y coordinación de las acciones en materia de protección civil relacionadas con las instalaciones e infraestructura, los servicios vitales y sistemas estratégicos que se alojan en el subsuelo de la Ciudad de México;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+I. Fungir como órgano de consulta, apoyo y coordinación sobre las acciones en materia de Protección Civil relacionadas con las instalaciones e infraestructura, de los servicios vitales y sistemas estratégicos, así como, sobre las acciones preventivas y correctivas de mantenimiento y/o mejoramiento de accesorios complementarios que se alojan en el subsuelo de la Ciudad de México;
 
 II. Conocer de todas las obras y construcciones subterráneas que se realicen en la Ciudad de México, así como de todo tipo de obras que impliquen alguna excavación en la vía pública;
 
-III. Fomentar la participación corresponsable en materia de protección civil de los sectores público y privado que tienen bajo su resguardo, la administración y operación de los servicios vitales y sistemas estratégicos que se encuentran alojados en el subsuelo de la Ciudad de México;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-IV. Convocar, coordinar y armonizar, con pleno respeto a sus respectivas competencias, la participación de los sectores público y privado que tienen bajo su administración la operación de servicios vitales y sistemas estratégicos que se encuentran en el subsuelo de la Ciudad de México, en la definición y ejecución de las acciones que se convengan realizar en materia de protección civil;
+III. Fomentar la participación corresponsable en materia de protección civil de los sectores público y privado que tienen bajo su resguardo, administración y operación de los servicios vitales y sistemas estratégicos; así como, los accesorios complementarios de los mismos, tales como: postes, registros, brocales, tapas, coladeras, entre otros, que formen parte de la infraestructura alojada en el subsuelo de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+IV. Convocar, coordinar y armonizar, con pleno respeto a sus respectivas competencias, la participación de los sectores público y privado que tienen bajo su administración la operación y mantenimiento de servicios vitales y sistemas estratégicos que se encuentran en el subsuelo de la Ciudad de México en la definición y ejecución de acciones que se convengan realizar en materia de protección civil;
 
 V. Promover y realizar estudios e investigaciones, identificando los problemas y tendencias que se presentan con la operación de los servicios vitales y sistemas estratégicos que se encuentran en el subsuelo de la Ciudad de México, para proponer las acciones que permitan su solución y fortalecimiento de su estructura;
 
-VI. Proponer acciones y medidas de seguridad que deben adoptarse en materia de protección civil relacionadas con las instalaciones, servicios vitales y sistemas estratégicos que se alojan en el subsuelo de la Ciudad de México;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+VI. Proponer acciones y medidas de seguridad que deben adoptarse en materia de protección civil relacionadas con las instalaciones, servicios vitales y sistemas estratégicos que se alojan en el subsuelo de la Ciudad de México, así como el mantenimiento preventivo y correctivo de las instalaciones durante la vida útil de la infraestructura;
 
 VII. Proponer las políticas, bases y lineamientos en materia de protección civil para proteger las instalaciones estratégicas y coordinar las acciones, corresponsablemente, con los responsables de los proyectos que se alojan en el subsuelo de la Ciudad de México;
 
@@ -1512,6 +1864,10 @@ IX. Proporcionar a la Secretaría la información de los servicios vitales y sis
 
 X. Solicitar a las autoridades competentes que, en el ámbito de sus atribuciones, realicen las acciones necesarias e inicien los procedimientos correspondientes ante el incumplimiento de usuarios, autoridades responsables e integrantes operadores del Comité de Instalaciones Subterráneas;
 
+> <small>(ADICIONADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+X BIS. Proporcionar los elementos para la emisión de la Opinión Técnica en materia de Protección Civil para Infraestructura Subterránea.
+
 XI. Aprobar el calendario de sus sesiones;
 
 XII. Conformar grupos de trabajo;
@@ -1520,9 +1876,11 @@ XIII. Aprobar sus Bases de Operación; y
 
 XIV. Las demás que señale la normativa aplicable.
 
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 109.
 
-Toda persona o entidad de Gobierno Federal, Local, Paraestatal, Alcaldías e iniciativa privada que pretendan llevar a cabo actividades inherentes a la operación, mantenimiento y/o construcción de infraestructura subterránea de la Ciudad de México, o realicen excavaciones en vía pública para cimentación, colocación de postes, luminarias, semáforos, pavimentación o canalizaciones, deberán contar con la Opinión Técnica emitida por la Secretaría por medio del Comité de Instalaciones Subterráneas.
+Todo órgano del Gobierno Federal y de la Administración Pública local, centralizada y paraestatal, así como de las Alcaldías y sujetos de la iniciativa privada que pretendan llevar a cabo actividades inherentes a la operación, mantenimiento correctivo y preventivo, construcción de infraestructura subterránea en la Ciudad de México, o realicen excavaciones en vía pública para cimentación, colocación de postes, luminarias, semáforos, pavimentación o canalizaciones, deberán contar con la Opinión Técnica en materia de Protección Civil para Infraestructura Subterránea emitida por la Secretaría en el marco del Comité de Instalaciones Subterráneas.
 
 ###### Artículo 110.
 
@@ -1556,11 +1914,13 @@ f) Indicar tipo, número y dimensiones de los registros, postes, bóvedas a inst
 
 g) Indicar los puntos de conexión de las instalaciones;
 
-h) Incluir las Memorias de Cálculo respectivas;
+h) (DEROGADO, G.O. 15 DE DICIEMBRE DE 2023)
 
 i) Procedimiento constructivo (incluir personal y maquinaria);
 
-j) Indicar las especificaciones técnicas de la tubería, así como su diámetro, espesor, entre otros;
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+j) Indicar las especificaciones técnicas de la tubería, así como su diámetro y espesor;
 
 k) Indicar tipo, distancia y número de elementos de seguridad para las instalaciones, en la trayectoria del proyecto;
 
@@ -1570,7 +1930,9 @@ m) Incluir glosario de términos;
 
 n) Levantamiento topográfico detallado de la ubicación de la trayectoria a intervenir indicado en el proyecto; y
 
-o) Estudio de mecánica de suelos y geo-radar de la trayectoria de las obras subterráneas en vía pública.
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+o) Estudio de mecánica de suelos y geo-radar de la trayectoria de las obras subterráneas en vía pública cuando la intervención supere los 400 metros lineales.
 
 Los proyectos que se pretendan intervenir en zonas declaradas como Áreas de Conservación Patrimonial o como Patrimonio Cultural Urbano, deberán contar previamente con el visto bueno y/o permisos del Instituto Nacional de Bellas Artes y Literatura, Instituto Nacional de Antropología e Historia y/o autoridad del Centro Histórico de la Ciudad de México.
 
@@ -1594,35 +1956,65 @@ f) Cada línea y polígono deberán contener su diccionario de datos;
 
 g) Deberá contener tabla de atributos; y
 
-h) El pie de plano deberá especificar: nombre del proyecto, nombre de la empresa, tipo de infraestructura, nombre del plano, simbología, escala.
+h) (DEROGADO, G.O. 15 DE DICIEMBRE DE 2023)
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+i) Indicar las especificaciones técnicas de la tubería, así como su diámetro y espesor;
 
 IV. Aprobación de proyecto emitida por la Comisión Federal de Electricidad (proyectos eléctricos).
 
-V. Estudio de Riesgos
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
-
-Elaborado por un ROPC autorizado para elaborar estudios de riesgo, expedido por la Secretaría y conforme a los Lineamientos para la Elaboración de Estudios de Riesgos en materia de Gestión Integral de Riesgos y Protección Civil.
+V. Estudio de Riesgos elaborado por un ROPC con autorización expedida por la Secretaría, y conforme a los Lineamientos para su Elaboración en materia de Gestión Integral de Riesgos y Protección Civil.
 
 VI. Documentos finales:
 
-a) Minuta de campo y lista de asistencia con las firmas de todos los usuarios que mantengan infraestructura en la zona a intervenir, incluido anexo fotográfico; y
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-b) Escrito donde informe las fechas de inicio con evidencia fotográfica.
+a) Minuta de campo y lista de asistencia que contenga nombres y firmas de todos los usuarios que cuenten con infraestructura en la zona a intervenir, incluido el anexo fotográfico; y
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+b) Escrito donde informe las fechas de inicio y de conclusión de la obra, con evidencia fotográfica del sitio previo y posterior a su intervención.
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 112.
 
-Una vez concluidos los trabajos para los cuales se extendió la Opinión Técnica favorable deberá presentarse un escrito en el que se dé cuenta de la conclusión de dichos trabajos, anexando planos, “as built as” en cualquiera de los siguientes formatos: .kmz, .kml, .dwg, .shp, PDF y evidencia fotográfica de dicha conclusión.
+Una vez concluidos los trabajos para los cuales se extendió la Opinión Técnica en materia de Protección Civil para Infraestructura Subterránea, deberá presentarse un escrito en el que se dé cuenta de la conclusión de dichos trabajos, anexando planos, “as built” en cualquiera de los siguientes formatos: .kmz, .kml, .dwg, .shp, PDF, las fechas de inicio y de conclusión de la obra, así como las evidencias fotográficas de la conclusión.
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 113.
 
-La Secretaría negará la Opinión Técnica a los proyectos ingresados que no cumplan con la documental solicitada o que del análisis del proyecto se desprenda que existe un riesgo para la población de la Ciudad de México.
+No se otorgará Opinión Técnica en materia de Protección Civil para Infraestructura Subterránea cuando:
+
+I. Los proyectos ingresados no cumplan con las documentales solicitadas;
+
+II. El Estudio de Riesgos del proyecto indique que su ejecución represente un alto riesgo para la población y su entorno; y
+
+III. El Estudio no se apegue a las características establecidas en los Lineamientos específicos que para tal efecto emita la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 114.
 
-La Opinión Técnica emitida por la Secretaría tendrá vigencia de un año contada a partir de la fecha de su emisión y será de carácter vinculante para que los diferentes usuarios puedan intervenir obra nueva, o en su caso, realizar acciones de mantenimiento en instalaciones alojadas en el subsuelo de la Ciudad de México, conforme a lo establecido en el artículo 18 del Reglamento de Construcciones para el Distrito Federal.
+La Opinión Técnica emitida por la Secretaría en el marco del Comité de Instalaciones Subterráneas tendrá vigencia de un año contada a partir de la fecha de su emisión y será de carácter obligatorio para que los diferentes usuarios puedan intervenir una obra nueva, o en su caso, realizar acciones de mantenimiento en instalaciones alojadas en el subsuelo de la Ciudad de México, conforme a lo establecido en el artículo 18 del Reglamento de Construcciones para el Distrito Federal.
 
 La Opinión Técnica podrá ser revocada ante la falta de cumplimiento de acuerdos y observaciones que hagan los usuarios del subsuelo con respecto al proyecto.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+En los casos en donde los usuarios soliciten una ampliación a la vigencia de la Opinión Técnica en materia de Protección Civil para Infraestructura Subterránea, deberá tramitarse con un plazo de treinta días hábiles previos al término de vigencia de la misma.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Las obras ejecutadas sin aprobación previa del Comité, serán informadas por la Secretaría o los usuarios al pleno del Comité de Instalaciones Subterráneas a efecto de que se emita el pronunciamiento correspondiente para su regularización, independientemente de las sanciones administrativas que se determinen en el capítulo correspondiente del presente Reglamento.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+La información de los proyectos y obras ejecutadas se integrarán en el Atlas de Riesgos de la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
 
@@ -1882,6 +2274,10 @@ Tras el retorno a las aulas y antes de continuar con el contenido curricular est
 
 La Secretaría fortalecerá la resiliencia en la Ciudad de México a través de instrumentos de planeación y procesos innovadores, con la finalidad de implementar políticas públicas que incorporen un enfoque territorial incluyente, promuevan una participación interdisciplinaria y multisectorial, intercultural y contribuya al cumplimiento de la Agenda 2030 para el Desarrollo Sostenible, el Marco de Sendai para la Reducción de Riesgos de Desastres, la Nueva Agenda Urbana y los objetivos establecidos en la Ley.
 
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+La Secretaría podrá coadyuvar en la suscripción de convenios con organismos internacionales gubernamentales o no gubernamentales, organizaciones de la sociedad civil a nivel nacional o internacional y demás actores estratégicos que fortalezcan el desarrollo de acciones, políticas y proyectos encaminados a la construcción de resiliencia para la reducción del riesgo de desastres.
+
 ###### Artículo 154.
 
 La Secretaría promoverá y proporcionará la asistencia técnica a las dependencias y entidades de la administración pública de la Ciudad de México para incluir el enfoque de Resiliencia en los programas, acciones, análisis y ejercicios territoriales y comunitarios para impulsar la ejecución de proyectos de innovación para la construcción de resiliencia.
@@ -1924,9 +2320,11 @@ I. Comisión para la Resiliencia Hídrica;
 
 II. Comisión para la Resiliencia Urbana y Territorial;
 
-III. Comisión para la Resiliencia Sísmica;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-IV. Comisión para la Resiliencia en el Sistema de Movilidad; y
+III. Comisión para la Resiliencia Sísmica; y,
+
+IV. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
 V. Las demás que el Consejo determine.
 
@@ -1958,11 +2356,15 @@ IV. Comprobante de domicilio;
 
 V. Directorio actualizado de sus integrantes, dirigentes y representantes anexando el documento que acredite la Certificación de Competencias o bien su último grado de estudios;
 
-VI. Documentos que acrediten los conocimientos y las actividades que realizan, anexando las certificaciones grupales, constancias o algún otro documento en la que, acredite la especialidad con la que serán registrados;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+VI. Documentos que acrediten los conocimientos y las actividades que realizan, anexando las certificaciones oficiales individuales o grupales, constancias o en su caso algún otro documento oficial que acredite la especialidad con la que serán registrados.
 
 VII. Equipos de comunicación;
 
-VIII. Inventario, en su caso, del parque vehicular bajo el formato establecido en la Secretaría, si cuentan con ambulancias estas deberán estar a nombre de la institución, presentar autorización de COFEPRIS y de la Agencia de Protección Sanitaria de la Ciudad de México, así como contar con placas para circular como ambulancia;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+VIII. Inventario del parque vehicular, en caso de contar con ambulancias estas deberán estar a nombre de la institución y presentar la documentación que ampare su funcionamiento emitida por las autoridades sanitarias correspondientes así como contar con placas para circular como ambulancia;
 
 IX. Relación de equipo con el que se disponga en cada uno de los vehículos, en su caso;
 
@@ -1976,7 +2378,9 @@ XI. Enlistar el equipo con el que cuenten de acuerdo a su especialidad.
 
 Además de los requisitos a que se refiere el artículo anterior, los Grupos Voluntarios, deberán acreditar conforme a su especialidad lo siguiente:
 
-I. De atención médica prehospitalaria de urgencia. Que los miembros de la directiva, cualquiera que sea su denominación, están alineados tienen acreditaciones nacionales o internacionales en los términos que establezca la Secretaría de Salud;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+I. De atención médica prehospitalaria de urgencia. Que los miembros de la directiva y operadores de las ambulancias, cualquiera que sea su denominación tengan como mínimo, acreditaciones conforme a lo establecido en el Estándar de Competencia EC0307.01 Atención Prehospitalaria Nivel Básico o el que lo sustituya, o acreditaciones nacionales o internacionales en los términos que establezca y reconozca la Secretaría de Salud.
 
 II. De rescate en estructuras colapsadas. Que los miembros de la directiva, cualquiera que sea su denominación, están alineados con las competencias, actitudes y conocimientos establecidos en el Estándar de Competencia EC0610 Ejecución de acciones de búsqueda y rescate de víctimas en estructuras colapsadas nivel liviano;
 
@@ -1988,7 +2392,9 @@ V. Comunicaciones. Que los miembros de la directiva, cualquiera que sea su denom
 
 VI. De apoyo. Que los miembros de la directiva, cualquiera que sea su denominación acrediten el conocimiento de la “Norma Técnica Complementaria NTCPC-011-CA2018. Centros de Acopio-2018.- Instalación, Operación y Cierre de Centros de Acopio en la Ciudad de México”, así como la “Norma Técnica Complementaria NTCPC-004-RT-2016.- Planeación, Instalación, Operación y Cierre de Refugios Temporales o las Normas Técnicas que las sustituyan, y
 
-VII. De Unidades Canófilas Operativas. Contar con elementos caninos certificados ante el IRO (Organización Internacional para Perros de Rescate), además, los manejadores deberán certificarse en la Escuela Nacional de Protección Civil, conforme a las competencias, actitudes y conocimientos establecidos en el Estándar de Competencia EC0860 "Ejecutar acciones de búsqueda y localización de víctimas atrapadas bajo escombros a través de caninos” o en la Norma Técnica que para el efecto emita la Secretaría.
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+VII. De Unidades Canófilas Operativas. Que el personal operativo se encuentre certificado conforme a lo establecido en el Estándar de Competencia EC0860.01 "Ejecución de acciones de búsqueda y localización de víctimas atrapadas bajo escombros a través de caninos” o el que lo sustituya.
 
 Para efecto de lo anterior, la Secretaría promoverá ante la Escuela Nacional de Protección Civil, la certificación de los estándares de competencia, así mismo, la Secretaría impartirá de manera gratuita los cursos de alineación a dichos estándares y los necesarios para difundir el conocimiento de la (sic) Normas Técnicas a su cargo.
 
@@ -2102,9 +2508,11 @@ La Alcaldía informará trimestralmente sobre el funcionamiento de los Comités 
 
 Estará a cargo de la Alcaldía integrar, capacitar, coordinar, mantener actualizado el padrón e informar a la Secretaría con respecto a las actividades de los brigadistas comunitarios, en su demarcación.
 
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 178.
 
-La capacitación que recibirán las brigadas comunitarias será por Alcaldía y se sujetará a programas de Capacitación, que se elabore para este fin.
+La capacitación que recibirán las brigadas comunitarias será por demarcación territorial y se sujetará a programas de capacitación, que se elabore para este fin, en coordinación con la Secretaría.
 
 ###### Artículo 179.
 
@@ -2112,11 +2520,15 @@ Los brigadistas comunitarios únicamente podrán desempeñar las funciones de:
 
 I. Acciones de prevención de riesgo en el lugar donde habitan;
 
+> <small>(ADICIONADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+I. BIS. Brigadas básicas de primeros auxilios, comunicación, prevención y combate de incendios y repliegue y evacuación;
+
 II. Identificación de riesgos;
 
 III. Alertamiento;
 
-IV. Evacuación;
+IV. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
 V. Participación en centros de acopio;
 
@@ -2126,7 +2538,9 @@ VII. Participación en eventos socio-organizativos; y
 
 VIII. De apoyo.
 
-Para obtener el registro, los brigadistas comunitarios deberán cumplir el registro en la plataforma a que se refiere el artículo 175 de la Ley.
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Para obtener el registro ante la Alcaldía y/o la Secretaría, las y los brigadistas comunitarios deberán cumplir con la capacitación básica y seguir el procedimiento que al efecto se determine mediante acuerdo que emita la Secretaría.
 
 ###### Artículo 180.
 
@@ -2138,7 +2552,13 @@ Las Alcaldías, en materia de brigadas comunitarias, realizarán lo siguiente:
 
 I. Impartir, en coordinación con la Secretaría la capacitación a los integrantes de las brigadas comunitarias;
 
-II. Informar mensualmente a la Secretaría las actividades realizadas por las brigadas comunitarias de su demarcación. Dichos informes deberán incluir el número de brigadistas comunitarios al momento de su emisión, para la integración y manejo de la Red de Brigadistas Comunitarios de la Ciudad de México integrado por la Secretaría
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+II. Informar mensualmente a la Secretaría las actividades realizadas por las brigadas comunitarias de su demarcación
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Dichos informes deberán incluir el número de brigadistas comunitarios al momento de su emisión, para la integración y manejo de la Red de Brigadistas Comunitarios de la Ciudad de México integrado por la Secretaría, quien dará seguimiento a las actividades como red y promoverá la formación continua.
 
 ### CAPÍTULO V. DE LOS MEDIOS DE COMUNICACIÓN
 
@@ -2158,11 +2578,11 @@ La Secretaría brindará mediante publicaciones la información oportuna a los m
 
 ### CAPÍTULO VI. DE LOS RESPONSABLES OFICIALES DE PROTECCIÓN CIVIL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 185.
 
-Las personas físicas que prestan servicios profesionales de capacitación, análisis de riesgo y elaboración de Programas Internos y/o Especiales en materia de Gestión Integral de Riesgos y Protección Civil, para obtener el registro y autorización como ROPC, adicionalmente a los requisitos establecidos en la Ley, deberán presentar ante la Secretaría lo siguiente:
+Para que las personas físicas que prestan servicios profesionales de capacitación, elaboración de Programas Internos, Programas Especiales, así como Estudios de Riesgos en materia de Gestión Integral de Riesgos y Protección Civil, obtengan el registro y autorización como ROPC, adicionalmente a los requisitos establecidos en la Ley, deberán presentar ante la Secretaría lo siguiente:
 
 I. Formato Único de Trámites establecido en el Registro Electrónico de Trámites y Servicios, publicado en la Gaceta Oficial de la Ciudad de México, debidamente requisitado con firma autógrafa;
 
@@ -2172,7 +2592,7 @@ III. Constancia de Situación Fiscal;
 
 IV. Identificación oficial vigente; y
 
-V. Autorización expresa de publicación de datos en el portal institucional con firma autógrafa;
+V. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 18 DE JUNIO DE 2021)</small>
 
@@ -2182,11 +2602,45 @@ II. (DEROGADA, G.O. 18 DE JUNIO DE 2021)
 
 III. (DEROGADA, G.O. 18 DE JUNIO DE 2021)
 
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 186.
 
-Las personas físicas que pretendan obtener registro como ROPC, demostrarán la experiencia que exige la Ley en el Título Sexto, Capítulo V, por medio de la presentación de constancias de cursos, diplomas o posgrados concluidos (o en curso), expedidos por institución gubernamentales y/o académicas, colegios de profesionistas, así como asociaciones y organizaciones que cuenten con registro de la Secretaría de Trabajo y Previsión Social y/o reconocimiento de validez oficial de la Secretaría de Educación Pública, o presentar certificación de estándares de competencias otorgados por organismo certificador y/o centro de evaluación autorizado por el CONOCER, o por centro PFBEC (Programa de Formación Basado en Estándar de Competencia).
+Las personas físicas que pretendan obtener el registro como ROPC, demostrarán la experiencia que exige la Ley en el Título Sexto, Capítulo V, de conformidad con lo siguiente:
+
+I. Experiencia laboral en gestión integral de riesgos y protección civil comprobable mediante constancias laborales, nombramientos o, registros anteriores emitidos por la Ciudad de México y/u otras Entidades Federativas;
+
+II. Capacitación en gestión integral de riesgos y protección civil relacionada con la identificación y análisis de riesgos, metodologías para la elaboración de programas internos y especiales de protección civil, planes y programas de contingencia y continuidad de operaciones;
+
+Este requisito se acreditará mediante la presentación de constancias de cursos y diplomados, impartidos por organizaciones internacionales, instituciones gubernamentales y/o académicas, colegios de profesionistas, así como asociaciones y organizaciones que cuenten con registro de la Secretaría de Trabajo y Previsión Social, reconocimiento de validez oficial de la Secretaría de Educación Pública o mediante la presentación de certificación de estándares de competencias otorgados por un organismo certificador y/o centro de evaluación autorizado por el CONOCER, o por centro PFBEC (Programa de Formación Basado en Estándar de Competencia).
+
+Para considerar un año de experiencia se deberá acreditar por lo menos 60 horas de capacitación.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Artículo 186 BIS. La acreditación de la experiencia a que se refiere el artículo 186 de este Reglamento se realizará de la siguiente manera:
+
+I. Para el rubro de Capacitación, se deberá acreditar por lo menos cuatros años de experiencia, de los cuales uno corresponderá a experiencia laboral y tres a capacitación, en cada una de las siguientes materias:
+
+a) Primeros auxilios;
+
+b) Prevención, combate y extinción de incendios;
+
+c) Comunicación;
+
+d) Evacuación;
+
+f) En grupo de apoyo especial; y
+
+g) En Comités Internos de Protección Civil.
+
+II. Para el rubro de elaboración de Programas Internos de Mediano Riesgo y Programas Especiales para eventos masivos con un aforo de 500 y hasta 10,000 personas deberá acreditar por lo menos de cinco años de experiencia, de los cuales deberán ser tres años de experiencia laboral y dos de capacitación, en las materias que establezca la Secretaría mediante acuerdo publicado en la Gaceta Oficial de la Ciudad de México.
+
+III. Para el rubro de elaboración de Programas Internos para establecimientos de alto riesgo y Programas Especiales para eventos masivos con un aforo superior a 10,000 personas, deberá acreditar por lo menos siete años de experiencia, de los cuales deberán ser cuatro años de experiencia laboral y tres de capacitación, en las materias que establezca la Secretaría mediante acuerdo publicado en la Gaceta Oficial.
+
+IV. Para el rubro de elaboración de Estudio de Riesgos, deberá acreditar cuatro años de experiencia, de los cuales deberán ser tres años de experiencia laboral y uno de capacitación, en las materias que establezca la Secretaría mediante acuerdo publicado en la Gaceta Oficial de la Ciudad de México.
+
+Las constancias a que se refieren las fracciones anteriores, no deberán exceder, al momento del ingreso de la solicitud, de seis años contados a partir de su expedición.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE JUNIO DE 2021)</small>
 
@@ -2204,21 +2658,31 @@ c) Teléfono; y
 
 d) Número de folio.
 
-II. Adjuntar certificación por el CONOCER o certificado de formación PFBEC en:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+II. Adjuntar las certificaciones otorgadas por el CONOCER o certificado de formación PFBEC, siguientes:
 
 a) EC0301 “Diseño de cursos de formación de capital humano de manera presencial grupal, sus instrumentos de evaluación y manuales del curso”.
 
-III. Acreditar experiencia en los términos del artículo 186.
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE JUNIO DE 2021)</small>
+b) EC0217.1 “Impartición de cursos de formación del capital humano de manera presencial grupal” o el que lo sustituya.
+
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+III. Acreditar la experiencia necesaria en los términos de los artículos 186 y 186 BIS del presente Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 188.
 
-Las personas físicas que pretendan obtener el registro para elaborar Programas Internos de Protección Civil para establecimientos mercantiles e inmuebles de mediano riesgo y Programas Especiales de Protección Civil, además de los requisitos a que se refieren los artículos 185 y 186 del presente Reglamento, deberán presentar:
+Las personas físicas que pretendan obtener el registro para elaborar Programas Internos para establecimientos mercantiles, industrias e inmuebles de mediano riesgo y Programas Especiales, además de los requisitos a que se refieren los artículos 185, 186 y 186 BIS del presente Reglamento, deberán presentar:
 
-I. Constancia de aprobación del curso de análisis y reducción de riesgos;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-II. Constancia de aprobación del curso para elaborar programas internos para establecimientos o inmuebles de mediano riesgo;
+I. Constancias de aprobación de los cursos a que se refieren las fracciones I y II del artículo 191 de la Ley, los cuales podrán acreditarse con el diplomado para la elaboración de Programas Internos y Programas Especiales o los que hagan sus veces, el cual tendrá vigencia por dos años;
+
+II. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
 III. (DEROGADA, G.O. 18 DE JUNIO DE 2021)
 
@@ -2228,9 +2692,11 @@ III. (DEROGADA, G.O. 18 DE JUNIO DE 2021)
 
 Las personas físicas que pretendan obtener el registro para elaborar Programas Internos para establecimientos mercantiles, industriales e inmuebles de alto riesgo y Programas Especiales, además de los requisitos a que se refieren los artículos 185 y 186 del presente Reglamento, deberán presentar:
 
-I. Constancia de aprobación del curso de análisis y reducción de riesgos;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-II. Constancia de aprobación del curso para elaborar programas internos para establecimientos o inmuebles de alto riesgo; y
+I. Constancias de aprobación de los cursos a que se refieren las fracciones I y II del artículo 191 de la Ley, los cuales podrán acreditarse con el diplomado para la elaboración de Programas Internos y Programas Especiales o los que hagan sus veces;
+
+II. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
 III. (DEROGADA, G.O. 18 DE JUNIO DE 2021)
 
@@ -2238,25 +2704,51 @@ III. (DEROGADA, G.O. 18 DE JUNIO DE 2021)
 
 Artículo 189 BIS. Las carreras que se consideran afines para efectos de la obtención del registro como ROPC, son:
 
-I. Tratándose de Técnicos en Gestión Integral de Riesgos y Protección Civil, aquellos cuyos estudios hayan sido realizados en instituciones que formen parte del Sistema Educativo Nacional o por el Centro Nacional de Prevención de Desastres;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-II. Todas las ingenierías y arquitecturas, independientemente de su denominación, así como las carreras a nivel licenciatura o posgrado en química, física, actuaria, geología y geofísica;
+I. Técnicos y Técnicos Superiores Universitarios, con cédula profesional que contengan la denominación de Gestión Integral de Riesgos y Protección Civil, así como aquéllas en materia de seguridad y salud en el trabajo, que hayan sido realizados en instituciones que formen parte del Sistema Educativo Nacional o por el Centro Nacional de Prevención de Desastres;
 
-III. Ciencias de la Salud: medicina general, enfermería, médica veterinaria y zootecnia;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-IV. Gestión Integral de Riesgos y Protección Civil. Cualquier licenciatura, maestría o doctorado que contenga dicha denominación, así como aquéllas en materia de seguridad y salud en el trabajo.
+II. Todas las ingenierías y arquitecturas, independientemente de su denominación, así como las carreras a nivel licenciatura o posgrado en física, actuaría, geología y geofísica, al igual que los profesionistas que cuenten con cédula profesional y sean Técnicos Básicos en Gestión Integral del Riesgo por la Escuela Nacional de Protección Civil del Centro Nacional de Prevención de Desastres.
 
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+III. Ciencias Biológicas y de la Salud: Médico Cirujano, Enfermería Química, Biología, Ciencias Agrogenómicas, Ciencias Agroforestales, Ciencias Ambientales, Ciencias Genómicas, Ecología, Ingeniería Agrícola y Psicología.
+
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+IV. Gestión Integral de Riesgos y Protección Civil: cualquier licenciatura, especialidad, maestría o doctorado que contenga dicha denominación, así como aquéllas en materia de seguridad y salud en el trabajo; y,
+
+> <small>(ADICIONADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+V. Ciencias sociales y humanidades: Licenciatura en Administración, Antropología, Ciencias de la Comunicación, Ciencias Políticas y Administración Pública, Derecho, Desarrollo y/o Planeación Territorial, Geografía, Sociología y Trabajo Social.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+La acreditación de las carreras afines se hará mediante la presentación de cédula profesional o título profesional de técnico superior universitario, licenciatura, especialidad, maestría, doctorado o postdoctorado expedidos por instituciones educativas que formen parte del Sistema Educativo Nacional y se encuentren debidamente registradas ante la Dirección General de Profesiones de la Secretaría de Educación Pública y/o sus homólogas en las entidades federativas.
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 190.
 
-Las personas físicas que pretendan obtener el registro para elaborar estudios de riesgos, además de los requisitos a que se refieren los artículos 185 y 186 del presente Reglamento, deberán presentar, constancia de aprobación del curso para elaborar estudios de riesgos que imparta la Secretaría por sí o a través de terceros.
+Las personas físicas que pretendan obtener el registro para elaborar Estudio de Riesgos, además de los requisitos a que se refieren los artículos 185, 186 y 186 BIS del presente Reglamento, deberán presentar, constancia de aprobación del curso para elaborar Estudio de Riesgos que imparta la Secretaría por sí o a través de terceros con los que tenga celebrado convenio.
 
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Artículo 190 BIS. Para que los ROPC puedan realizar Programas Internos para escuelas y hospitales, deberán:
+
+I. Contar con registro como ROPC para elaborar Programas Internos para inmuebles de alto riesgo y Programas Especiales para eventos masivos con un aforo superior a 10,000 personas;
+
+II. Acreditarse o certificarse en el programa de capacitación que determine la Secretaría el cual será dado a conocer mediante Acuerdo que se publique en la Gaceta Oficial y en el cual se establecerán los contenidos mínimos requeridos para cada una de las modalidades.
+
+Dichos registros tendrán validez de cinco años, contados a partir de la fecha de su expedición.
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 191.
 
-El calendario de los cursos a los que se refiere el artículo 193 de la Ley será publicado semestralmente por la Secretaría.
+El calendario de los cursos referidos en el artículo 193 de la Ley, que establezca, imparta y evalúe la Secretaría, por sí o a través de terceros con los que tenga celebrados convenio, será publicado por la Secretaría en su portal institucional.
 
 ###### Artículo 192.
 
@@ -2264,53 +2756,67 @@ Una vez presentados los requisitos que se refieren los artículos 185 y 186 del 
 
 En caso de que las evaluaciones de conocimientos hayan sido realizadas por la Secretaría, la solicitud se resolverá en un término que no excederá los 15 (quince) días hábiles a partir de la fecha en que se haya aplicado dicha evaluación.
 
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 193.
 
-Los informes anuales a los que están obligados los ROPC en términos del artículo 198 de la Ley, deberán elaborarse en el formato que la Secretaría publique mediante aviso en la Gaceta Oficial de la Ciudad de México.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE JUNIO DE 2021)</small>
+Los informes anuales presentados por los Responsables Oficiales de Protección Civil deberán contemplar los rubros determinados por la Secretaría, mismos que serán publicados en la Gaceta Oficial de la Ciudad de México.
 
 ###### Artículo 194.
 
-Adicional a los requisitos establecidos en el artículo 198 de la Ley, los ROPC solicitantes de renovación de registro deberán presentar constancia expedida por la Secretaría en la que se acredite el cumplimiento anual de las obligaciones previstas en dicho artículo y en el presente capítulo.
+(DEROGADO, G.O. 15 DE DICIEMBRE DE 2023)
 
-I. (DEROGADA, G.O. 18 DE JUNIO DE 2021)
-
-II. (DEROGADA, G.O. 18 DE JUNIO DE 2021)
-
-III. (DEROGADA, G.O. 18 DE JUNIO DE 2021)
-
-IV. (DEROGADA, G.O. 18 DE JUNIO DE 2021)
-
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 195.
 
-La Secretaría podrá revocar la autorización de los registros con los que cuenten los ROPC que no realicen las actividades expresamente autorizadas, no cumplan con las horas de capacitación mínima establecida por tema, no elaboren los Programas Internos, Programas Especiales y Estudios de Riesgo previstos en el artículo 198 de la Ley, no informen a la Secretaría y Alcaldías el calendario de capacitaciones y no cumplan e informen sobre el cumplimiento de las obligaciones señaladas en el artículo 200 de la Ley.
+La Secretaría vigilará que los ROPC cumplan con lo establecido en los artículos 198 y 200 de la Ley.
 
-Las personas físicas a quienes se les hayan revocado los registros con los que cuenten y hayan agotado los recursos establecidos en la legislación aplicable en la Ciudad de México, no podrán solicitar nuevamente el mismo hasta pasado un plazo de 2 (dos) años.
+Las personas físicas a quienes se les hayan revocado los registros con los que cuenten y hayan agotado los recursos establecidos en la legislación aplicable en la Ciudad de México, no podrán solicitar nuevamente el mismo hasta pasado un plazo de 3 (tres) años.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 196.
 
-(DEROGADO, G.O. 18 DE JUNIO DE 2021)
+El Padrón Digital de Responsables Oficiales de Protección Civil, se conformará con la siguiente información de cada uno de los ROPC:
 
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
+I. Nombre;
+
+II. Fotografía;
+
+III. Claves de Registros;
+
+IV. Teléfono y correo electrónico de contacto;
+
+V. Las actividades autorizadas para desarrollar servicios profesionales en materia de gestión integral de riesgos y protección civil;
+
+VI. Inicio de vigencia del registro; y,
+
+VII. Fecha de vencimiento del registro.
+
+La actualización del Padrón Digital será semanal.
 
 ###### Artículo 197.
 
-El ROPC que requiera realizar las actividades de dos o más rubros deberá realizar una solicitud por cada uno de ellos, cumpliendo con los requisitos y especificaciones establecidos en la Ley y el presente Reglamento.
+(DEROGADO, G.O. 15 DE DICIEMBRE DE 2023)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 198.
 
-El procedimiento que deberán seguir los solicitantes para la obtención de la autorización del registro o su renovación será el siguiente:
+El procedimiento que deberán seguir los solicitantes para la obtención de la autorización del registro será el siguiente:
 
-I. El solicitante deberá ingresar el formato señalado en la fracción I del artículo 185 del presente Reglamento acompañado de la documentación requerida conducente al rubro solicitado, previo cotejo realizado con personal adscrito al área correspondiente;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-II. Para el caso que la solicitud de autorización del registro o renovación de autorización del registro carezca de alguno de los requisitos establecidos en la Ley y el presente ordenamiento, la Secretaría emitirá una prevención, para lo cual el solicitante contará con un término de 5 (cinco) días hábiles para solventar dicha prevención, contados a partir del día siguiente a la fecha de notificación de la misma;
+I. El solicitante deberá ingresar el formato señalado en la fracción I del artículo 185 del presente Reglamento acompañado de la documentación requerida conforme al rubro solicitado en original y copia para cotejo realizado por personal adscrito al área correspondiente;
 
-III. La Secretaría contará con los plazos establecidos en la Ley y el presente Reglamento para dar respuesta respecto del otorgamiento de autorización del registro o su denegación, contados a partir de que el solicitante haya cubierto todos y cada uno de los documentos establecidos en la Ley y el presente Reglamento;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+II. En caso que la solicitud de autorización del registro carezca de alguno de los requisitos establecidos en la Ley y el presente ordenamiento, la Secretaría emitirá una prevención, para lo cual el solicitante contará con un término de cinco días hábiles para solventar dicha prevención, contados a partir del día siguiente a la fecha de notificación de la misma;
+
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+III. Una vez cumplidos los requisitos, la Secretaría se pronunciará respecto del otorgamiento de autorización del registro de conformidad con lo establecido en la Ley, el presente Reglamento, así como en la Ley de Procedimiento Administrativo de la Ciudad de México;
 
 IV. Para el caso que el solicitante no subsane en tiempo y forma la prevención emitida, se tendrá por no presentada su solicitud de registro, procediendo al cierre del expediente, dejando a salvo los derechos procesales que así convengan;
 
@@ -2318,61 +2824,141 @@ V. Si el solicitante cumple en tiempo y forma con la prevención emitida, podrá
 
 VI. Si el solicitante no aprueba las evaluaciones correspondientes al rubro solicitado no se le otorgará la autorización de registro o renovación, dando cierre al expediente, dejando a salvo los derechos procesales a que haya lugar.
 
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Artículo 198 BIS. Los ROPC que opten por la renovación de la autorización y registro deberán presentar lo siguiente:
+
+I. Formato Único de Trámites establecido en el Registro Electrónico de Trámites y Servicios, publicado en la Gaceta Oficial de la Ciudad de México, debidamente requisitado con firma autógrafa;
+
+II. Documentales con las que acrediten la actualización en los cursos oficiales que impartan la Secretaría, los Colegios de profesionistas, asociaciones o instituciones educativas que formen parte del Sistema Educativo Nacional;
+
+III. La Secretaría comprobará el cumplimiento de las actividades señaladas en el artículo 198 de la Ley;
+
+IV. En caso de existir alguna modificación en los requisitos comprendidos en las fracciones II, III, IV y V del artículo 185 del presente Reglamento, deberá presentar el documento actualizado.
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 199.
 
-Los cursos de capacitación a que se refiere la Ley, que impartan los ROPC con registro y autorización ante la Secretaría serán, preferentemente, de manera presencial.
+Los cursos de capacitación a que se refiere la Ley, que impartan los ROPC con registro y autorización de la Secretaría serán de manera presencial, exceptuando aquellos casos en que, por Declaratoria de Emergencia o Desastre, así como por causa de fuerza mayor previo acuerdo emitido por la Secretaría, se indique que no es factible la impartición presencial de los cursos de capacitación.
 
-Las instituciones educativas, dependencias o instituciones de la Administración Pública Federal o Local y tratándose de particulares siempre y cuando el curso esté autorizado por la Secretaría del Trabajo y Previsión Social podrán impartir cursos en línea.
+Las instituciones educativas, así como las dependencias o instituciones de la Administración Pública Federal o Local podrán impartir cursos en línea.
 
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
+La Secretaría publicará mediante acuerdo en la Gaceta Oficial de la Ciudad de México, aquellos cursos que se realizarán de forma virtual, por causas de fuerza mayor.
+
+Las características y contenidos de los cursos de capacitación, ya sean presenciales o virtuales, deberán sujetarse a lo que establezca la Norma Técnica que se expida para tal efecto.
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 200.
 
-No se otorgará registro y autorización para ejercer como ROPC a quienes tengan el carácter de servidores públicos en la Administración Pública de la Ciudad de México o del Gobierno Federal, hasta después de transcurrido un año de la separación y conclusión del encargo, en caso de incumplimiento se notificará a los Órganos Internos de Control respectivos y se sancionará de acuerdo a lo estipulado en el artículo 224 del presente Reglamento.
+No se otorgará registro y autorización para ejercer como ROPC a quienes tengan el carácter de persona servidora pública hasta después de transcurrido un año de la separación y conclusión del empleo, cargo o comisión presentando para tal efecto carta bajo protesta de decir verdad, en caso de incumplimiento se notificará a los Órganos Internos de Control respectivos y se sancionará de acuerdo a lo estipulado en el artículo 224 del presente Reglamento.
 
-Para el caso de los ROPC que cuenten con el registro vigente y que se incorporen al servicio público en la Administración Pública de la Ciudad de México o del Gobierno Federal, deberán dar aviso a la Secretaría previo a su incorporación para que quede suspendida su autorización de registro el mismo día de su nombramiento o firma de contrato. Su autorización de registro volverá a tener validez una vez transcurridos 15 (quince) días hábiles siguientes en que presente a la Secretaría la manifestación bajo protesta de decir verdad que concluyó su encargo en el servicio público, siempre y cuando se encuentre dentro del periodo de vigencia de dicha autorización de registro, en caso contrario deberá solicitar la renovación del mismo.
+Para el caso de los ROPC que cuenten con el registro vigente y que se incorporen al servicio público, deberán dar aviso a la Secretaría previo a su incorporación, con el objeto de suspender su autorización de registro al día de su incorporación al empleo, cargo o comisión.
 
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
+En el supuesto de la separación y conclusión al empleo, cargo o comisión, se estará a lo estipulado en el primer párrafo del presente artículo.
+
+Una vez concluido el plazo establecido en el primer párrafo de este artículo podrá solicitar la reanudación del registro siempre y cuando se encuentre dentro del periodo de vigencia de dicho registro, en caso contrario deberá iniciar un nuevo trámite de registro.
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 201.
 
-Las dependencias, órganos desconcentrados, organismos descentralizados de la Administración Pública de la Ciudad de México y la Autoridad Educativa Federal en la Ciudad de México, podrán contar con ROPC Institucionales cuyo registro y autorización estará vinculada únicamente a aquella dependencia, órganos desconcentrados y organismos descentralizados que los propongan, sin que puedan elaborar Programas Internos y Programas Especiales para establecimientos mercantiles.
+Las Dependencias, Órganos Desconcentrados, Organismos Descentralizados y/o Autónomos o Entidades de la Administración Pública de la Ciudad de México, así como la Autoridad Educativa Federal en la Ciudad de México, las Alcaldías o cualquier otra institución de carácter público que cuente con inmuebles en el territorio de la Ciudad de México, cuando no se adecue a lo previsto en el último párrafo del apartado B del artículo 122 de la Constitución Política de los Estados Unidos Mexicanos, podrán contar con un ROPC Institucional.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+El otorgamiento del registro y autorización estará vinculado únicamente a la institución que los proponga, mismo que amparará la impartición de capacitación de las brigadas de protección civil, la elaboración de Programas Internos y Especiales, sin que puedan elaborarlos para establecimientos mercantiles, industrias o inmuebles de uso distinto al servicio público.
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 202.
 
-Para obtener el registro y autorización correspondiente las personas aspirantes a obtener el registro y autorización como ROPC Institucional deberán:
+Para obtener el registro y autorización correspondiente las personas aspirantes a obtener el registro y autorización como ROPC Institucional, deberán contar con lo siguiente:
 
-I. Presentar solicitud por escrito, avalada por la persona titular de la dependencia, órgano desconcentrado, organismo descentralizado de la Administración Pública de la Ciudad de México o de la Autoridad Educativa Federal en la Ciudad de México donde ésta persona proporciona sus servicios;
+A. Requisitos:
 
-II. Copia de identificación oficial;
+I. Presentar Formato Único de Trámites establecido en el Registro Electrónico de Trámites y Servicios, publicado en la Gaceta Oficial de la Ciudad de México, debidamente requisitado y firmado por la persona titular o por quien tenga delegada la atribución en materia de gestión integral de riesgos y protección civil respecto de los inmuebles de las Dependencias, Órganos Desconcentrados, Organismos Descentralizados, Autónomos o Entidades de la Administración Pública Federal y de la Ciudad de México, así como la Autoridad Educativa Federal en la Ciudad de México, las Alcaldías, o cualquier otra institución de carácter público que cuente con inmuebles en el territorio de la Ciudad de México, y en donde dicha persona servidora pública preste sus servicios;
 
-> <small>(REFORMADA, G.O. 18 DE JUNIO DE 2021)</small>
+II. Presentar copia de la identificación oficial de la persona servidora pública designada;
 
-III. Cumplir con el nivel académico a que se refiere el artículo 189 BIS del presente Reglamento, y
+III. Cumplir con el nivel académico a que se refiere el artículo 189 BIS del presente Reglamento, adjuntando copia de la cédula profesional o título profesional correspondiente; y,
 
-> <small>(REFORMADA, G.O. 18 DE JUNIO DE 2021)</small>
+IV. Acreditar el curso que, para tal efecto, instrumente la Secretaría, por sí o a través de instituciones con los que haya celebrado convenio que formen parte del Sistema Educativo Nacional.
 
-IV. Acreditar el curso que, para el efecto, instrumente la Secretaría, por sí o a través de instituciones que forme (sic) parte del Sistema Educativo Nacional.
+Una vez concluida la designación del ROPC Institucional y si éste desea optar por el registro como ROPC, las constancias a que se refiere en la fracción IV de este apartado serán aceptadas para acreditar el cumplimiento de los requisitos a que se hace referencia en el artículo 191 fracciones I y II de la Ley.
+
+B. Vigencia:
+
+I. La vigencia de los Registros como ROPC Institucional será de 5 (cinco) años y permitirá la impartición de Capacitación, elaboración de Programas Internos y de Programas Especiales para la institución en la que laboren, así como, expedir la Carta de Corresponsabilidad por medio de la cual avala el cumplimiento de las disposiciones legales y administrativas en materia de Gestión Integral de Riesgos y Protección Civil y con la que se responsabiliza solidariamente con la institución obligada.
+
+C. Renovación:
+
+I. Presentar solicitud por escrito 30 días naturales anteriores a que concluya la vigencia firmada por la persona titular o por quien tenga delegada la atribución en materia de gestión integral de riesgos y protección civil en donde dicha persona servidora pública preste sus servicios.
+
+II. Acreditar 40 horas en cursos de actualización, conforme a lo señalado en el artículo 198 fracción IV de la Ley.
 
 > <small>(ADICIONADO, G.O. 18 DE JUNIO DE 2021)</small>
 
 Artículo 202 BIS. Para los efectos del artículo 203 BIS de la Ley, los ROPC concluirán sus funciones y responsabilidades en los siguientes supuestos:
 
-I. Cuando ocurra su sustitución o retiro, para lo cual se deberá levantar un acta administrativa ante la Secretaría en la que se asienten los motivos por los que se realiza la sustitución o retiro de responsiva. El acta deberá ser suscrita por la autoridad competente, el ROPC, así como por el representante legal, administrador, propietario o poseedor. Inmediatamente debe nombrarse un nuevo ROPC;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-II. Cuando no hayan revalidado su registro correspondiente:
+I. Cuando ocurra su sustitución o retiro, se deberá levantar un acta administrativa ante la Secretaría, para lo cual el ROPC o la persona representante legal, administradora, propietaria o poseedora dará vista a la Secretaría manifestando y documentando los motivos en materia de gestión integral de riesgos y protección civil vinculados con el Programa Interno por los cuáles solicita la terminación de la corresponsabilidad, conforme lo siguiente:
 
-III. Cuando la Secretaría revoque su registro y autorización para ejercer como tal al incurrir en cualquiera de los supuestos previstos en la Ley y en este Reglamento, y
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-IV. Por muerte.
+La Secretaría notificará al ROPC y a la persona representante legal, administradora, propietaria o poseedora, de conformidad con las formalidades de la Ley de Procedimiento Administrativo de la Ciudad de México, la fecha y hora de la diligencia en la que se llevará a cabo la terminación de la corresponsabilidad.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+En dicha diligencia, la persona representante legal, administradora, propietaria o poseedora obligada, previo a su comparecencia, deberá de realizar las gestiones necesarias a fin de señalar el nombre del nuevo ROPC quien deberá aceptar el cargo, mediante escrito dirigido a la secretaría en un plazo que no exceda de 5 días hábiles siguientes.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+En caso de que la persona solicitante de la sustitución de corresponsabilidad no comparezca posterior a ser requerido para el levantamiento del acta a que se refiere el presente artículo, se dará por concluido el procedimiento conservándose las cosas en el estado en que se encuentran.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Cuando la persona solicitante de la sustitución de corresponsabilidad comparezca y la otra parte no, se dará por concluida la obligación solidaria deslindando de las obligaciones contraídas en la Carta de Corresponsabilidad a la otra parte, notificándole que cuenta con un plazo de cinco días para nombrar un ROPC sustituto.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+En caso contrario, se dará inicio al procedimiento de revocación del registro del Programa Interno por parte de la Secretaría.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Cuando ambas partes no comparezcan, aun cuando han sido debidamente notificados (sic), se tendrá por no presentada la solicitud de sustitución o retiro.
+
+II. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
+
+III. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
+
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+IV. Por muerte, para lo cual una vez que la Secretaría, por cualquier medio tenga conocimiento de dicha circunstancia, se constatará dicha información con la Consejería Jurídica y de Servicios Legales de la Ciudad de México, por conducto de la Dirección General del Registro Civil.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Una vez confirmada dicha información, se realizará la inhabilitación del usuario y contraseña del ROPC en la Plataforma Digital.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Los registros efectuados con posterioridad a la fecha de defunción serán considerados como no válidos, además se deberá realizar la denuncia ante la autoridad ministerial correspondiente de conformidad con el Código Penal para (sic) Distrito Federal y el Código Nacional de Procedimientos Penales.
+
+> <small>(ADICIONADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+V. Por falsedad o inexactitud de los datos proporcionados por el ROPC al momento de la obtención del registro del Programa Interno.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+El retiro de la corresponsabilidad del ROPC no implica el nombramiento automático de otro ROPC en su lugar, toda vez que la persona representante legal o administradora, propietaria o poseedora se encuentra obligada a sustituirlo de conformidad con el procedimiento establecido en el presente artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Artículo 202 TER. La responsabilidad del ROPC termina con la conclusión de la vigencia del Programa Interno establecida para cada supuesto en el artículo 58 de la Ley.
 
 > <small>(ADICIONADO, G.O. 18 DE JUNIO DE 2021)</small>
-
-Artículo 202 TER. La responsabilidad del ROPC termina a los dos años contados a partir de la fecha en la que este expida la carta de corresponsabilidad y hasta la vigencia del registro del Programa Interno de Protección Civil.
 
 La responsabilidad del representante legal, administrador, propietario o poseedor del establecimiento mercantil o inmueble del establecimiento mercantil o inmueble que está obligado a contar con Programa Interno existirá en todo momento a partir de que haya iniciado operaciones o presentado el aviso de apertura.
 
@@ -2452,11 +3038,11 @@ Las áreas que ejerzan recursos de estos instrumentos, deberán de comprobar el 
 
 ### CAPÍTULO I. DE LA EJECUCIÓN DE LAS MEDIDAS DE SEGURIDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 213.
 
-El procedimiento de verificación administrativa será iniciado por las Alcaldías, derivado de:
+El procedimiento de verificación o inspección en materia de Protección Civil será iniciado por la Secretaría o las Alcaldías, derivado de:
 
 I. Competencia;
 
@@ -2469,6 +3055,22 @@ IV. Emergencias,
 V. A petición de alguna autoridad; y
 
 VI. Quejas o denuncias que reciban.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Artículo 213 BIS. Además de lo establecido por la Ley y el presente Reglamento, la Secretaría considerará, como parte de su Programa Anual, la realización de Verificaciones, revisiones aleatorias documentales y verificaciones físicas a los Programas Internos de establecimientos mercantiles, industrias e inmuebles que se encuentren registrados en la Plataforma Digital a fin de constatar que la información y documentación manifestada coincida con las características físicas de los mismos.
+
+Dicha revisión tendrá por objetivo:
+
+I. Priorizar la protección a la vida, la salud y la integridad de las personas;
+
+II. Incentivar el enfoque preventivo;
+
+III. Garantizar la legalidad, control, eficacia y rendición de cuentas con enfoque de gestión integral de riesgos y protección civil; y,
+
+IV. Respetar a los derechos humanos.
+
+Por lo que, en caso de inconsistencias entre el Programa Interno registrado y la realidad verificada se estará a lo dispuesto en artículo 65 de la Ley, además de la ejecución de las medidas cautelares y de seguridad a que haya lugar.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE JUNIO DE 2021)</small>
 
@@ -2492,11 +3094,11 @@ VI. Revisión del registro del Programa Interno en la plataforma.
 
 Si del resultado de la verificación administrativa se advierten condiciones de riesgo inminente, las personas verificadoras ejecutarán de inmediato las medidas de seguridad que se estimen pertinentes, concatenadamente a lo dispuesto en el artículo 22 del Reglamento de Verificación Administrativa del Distrito Federal, consistentes en la suspensión de actividades o en la clausura, según sea el caso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 216.
 
-En caso de riesgo inminente se requerirá un programa de mitigación, mismo que se deberá ingresaren (sic) la Alcaldía que corresponda, para revisión y en su caso aprobación, en un plazo máximo de 5 (cinco) días hábiles, contados a partir de la notificación en que se exija la elaboración de dicho programa.
+En caso de riesgo inminente se requerirá de un programa de mitigación, mismo que se deberá ingresar a la Secretaría o a las Alcaldías según sea el caso, para su revisión y en su caso aprobación, en un plazo máximo de 5 (cinco) días hábiles, contados a partir de la notificación en que se exija la elaboración de dicho programa.
 
 El Programa de Mitigación deberá contar con lo siguiente:
 
@@ -2520,55 +3122,69 @@ VIII. En su caso, el o los estudios técnicos que sean requeridos.
 
 La documental deberá estar firmada por el ROPC, representante legal, administrador, propietario o poseedor y, según sea el caso, por el Director Responsable de Obra y Corresponsable Estructural.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 217.
 
-Las acciones de mitigación cuya realización se requiera en los términos de los artículos 213 fracción IV y 214 de la Ley, serán determinadas en el dictamen de riesgo en materia de protección civil que al efecto emita la Secretaría o las Alcaldías.
+Las acciones de mitigación cuya realización se requiera en los términos de los artículos 213 fracción IV y 214 de la Ley, serán determinadas en la Opinión Técnica en materia de Protección Civil que al efecto emita la Secretaría o las Alcaldías.
 
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-Dichas acciones podrán ser requeridas por las Alcaldías, previa visita de verificación que se practique al inmueble o actividad de que se trate.
+Dichas acciones podrán ser requeridas por la Secretaría o las Alcaldías según sea el caso, previa visita de verificación o inspección en materia de protección civil que se practique al inmueble o actividad de que se trate.
 
 La realización de acciones de mitigación podrá requerirse en cualquier momento del procedimiento, con posterioridad a la ejecución de la visita de verificación administrativa.
 
 Las acciones de mitigación consistirán en los trabajos necesarios para evitar daños a la población, sus bienes y el entorno y se llevarán a cabo aún cuando se hubiese impuesto suspensión de actividades.
 
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-En los casos que la persona representante legal, administradora, propietaria o poseedora del bien que cause el riesgo inminente, ejecute obras que excedan lo determinado en el dictamen y cuya finalidad no sea la de evitar daños a la población, sus bienes o el entorno, se entenderá como violación al estado de suspensión y se dará vista al Ministerio Público, quien podrá ordenar la demolición de dichas obras.
+En los casos que la persona representante legal, administradora, propietaria o poseedora del bien que cause el riesgo inminente, ejecute obras que excedan lo determinado en la Opinión Técnica y cuya finalidad no sea la de evitar daños a la población, sus bienes o el entorno, se entenderá como violación al estado de suspensión y se dará vista al Ministerio Público, quien podrá ordenar la demolición de dichas obras.
 
 La ejecución de acciones de mitigación requeridas no implica el reconocimiento de obras o actividades irregulares, por lo que la autoridad llevará a cabo los procedimientos para la imposición de las sanciones que correspondan.
 
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 218.
 
-Para efectos del artículo 215 de la Ley serán las Alcaldías quienes ejecuten las acciones de mitigación en materia de Protección Civil, en caso de rebeldía de la persona representante legal, administradora, propietaria o poseedora del bien que cause el riesgo.
+Para efectos del artículo 215 de la Ley, serán la Secretaría y las Alcaldías en el ámbito de sus atribuciones quienes ejecuten las acciones de mitigación en materia de Protección Civil, en caso de rebeldía de la persona representante legal, administradora, arrendataria, propietaria o poseedora del bien que cause el riesgo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 219.
 
-Para efectos del artículo 65 de la Ley, las personas representantes legales, administradoras, propietarias o poseedoras, de los establecimientos mercantiles o inmuebles clasificadas como de mediano o alto riesgo y los demás que estén obligados por la Ley a contar con un Programa Interno, tendrán la obligación de recibir y brindar las facilidades necesarias al personal autorizado para realizar la visita de verificación.
+Para efectos del artículo 65 de la Ley, las personas representantes legales, administradoras, propietarias o poseedoras, de los establecimientos mercantiles o inmuebles clasificados como de mediano o alto riesgo y los demás que estén obligados por la Ley a contar con un Programa Interno, tendrán la obligación de recibir y brindar las facilidades necesarias al personal autorizado para realizar la visita de verificación o inspección en materia de protección civil.
 
 > <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
 
 Si al realizar la visita de verificación en los establecimientos mercantiles e inmuebles que estén obligados por la Ley, a contar con un Programa Interno, se compruebe que no corresponde a lo señalado en el mismo, esto será motivo de sanción de acuerdo al artículo 221 fracción IV de la Ley.
 
-En caso de que en una visita de verificación se constate que la revalidación se realizó sin contar con los documentos que acrediten su legalidad, se impondrá la suspensión de actividades del inmueble.
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+En caso de que en una visita de verificación o inspección en materia de protección civil se constate que la revalidación se realizó sin contar con los documentos que acrediten su legalidad, se impondrá la suspensión de actividades del inmueble, hasta en tanto continúe la omisión de cumplimiento.
 
 ### CAPÍTULO II. DE LAS SANCIONES
 
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 220.
 
-Los particulares y las personas servidoras públicas que impidan o traten de impedir el cumplimiento de las disposiciones contenidas en la Ley y este Reglamento, se harán acreedores a las sanciones establecidas en el artículo 221 fracción XIII de la Ley y demás normativa aplicable.
+Las personas representantes legales, administradoras, propietarias o poseedoras de establecimientos mercantiles, industrias o inmuebles obligados a contar con un Programa Interno o Especial, así como a las personas servidoras públicas que impidan o traten de impedir el cumplimiento de las disposiciones contenidas en la Ley y este Reglamento, se harán acreedores a las sanciones establecidas en el artículo 221 fracción XIII de la Ley y demás normativa aplicable.
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 221.
 
-Para imponer las sanciones, se tomarán en cuenta la gravedad de la falta, la reincidencia en cualquiera de las faltas, la capacidad económica del infractor, así como los daños producidos o que puedan producirse a los fines del Sistema, sin perjuicio de las demás disposiciones administrativas, civiles y penales aplicables.
+Para imponer las sanciones, se tomarán en cuenta la gravedad de la falta atendiendo al daño ocasionado con la conducta, la reincidencia en cualquiera de las faltas considerando si es genérica o específica, la capacidad económica del infractor con base a los ingresos percibidos por la prestación de servicios en el último ejercicio fiscal previa validación con la autoridad fiscal correspondiente, así como los daños producidos o que puedan producirse a los fines del Sistema, sin perjuicio de las demás disposiciones administrativas, civiles y penales aplicables.
+
+Además de lo señalado en el artículo 218 BIS de la Ley, la Secretaría podrá imponer las sanciones administrativas a que haya lugar para hacer cumplir la Ley, el presente Reglamento y demás normativa aplicable.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Artículo 221 BIS. La Secretaría podrá llevar a cabo las siguientes acciones relacionadas con el ROPC Institucional:
+
+I. Cuando se detecte que el Programa Interno no corresponde con las características físicas del inmueble o bien se realice sin la documentación necesaria conforme a los términos de referencia aplicables, o no se lleven a cabo las acciones de capacitación y seguimiento de los Programas Internos y Especiales se dará vista al titular de la (sic) Dependencias, Órganos Desconcentrados, Organismos Descentralizados, Autónomos o Entidades de la Administración Pública de la Ciudad de México, así como la Autoridad Educativa Federal en la Ciudad de México, la Alcaldía.
+
+II. Cuando se tenga conocimiento por cualquier medio de que un ROPC Institucional registre un Programa Interno ajeno al ente público al cual está vinculado se dará vista a su Órgano Interno de Control.
 
 ###### Artículo 222.
 
@@ -2586,9 +3202,17 @@ V. Al que dañe, destruya, perjudique o ilícitamente entorpezca vías de comuni
 
 VI. A quien elabore, fabrique, confeccione, produzca, imprima, almacene, distribuya o comercialice, placas, gafetes, distintivos, escudos, insignias, uniformes o cualquier otro emblema que se asemeje al de la Secretaría, sin contar con la autorización correspondiente; y
 
-VII. Al que se ostente como integrante del Sistema, con el fin de ofrecer o desempeñar públicamente sus servicios, sin tener autorización para ejercerlo en términos de la legislación aplicable.
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-Todo aquel afectado podrá iniciar las acciones civiles correspondientes.
+VII. Al que se ostente como integrante del Sistema, con el fin de ofrecer o desempeñar públicamente sus servicios de manera física o cualquier medio electrónico, sin tener autorización para ejercerlo en términos de la legislación aplicable.
+
+> <small>(ADICIONADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+VIII. A quien de manera indebida haga uso del emblema distintivo de protección civil, lo modifique o lo altere en su diseño y/o colores en: material de papelería, equipamiento, placas, gafetes, uniformes, vehículos o cualquier otro objeto, sin pertenecer a una institución o ser personal autorizado para su uso conforme al Acuerdo que para el efecto emita la Secretaría.
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Toda persona afectada por estas conductas podrá iniciar las acciones civiles y/o penales correspondientes.
 
 > <small>(ADICIONADO, G.O. 18 DE JUNIO DE 2021)</small>
 
@@ -2604,7 +3228,9 @@ Si como resultado de la visita de verificación y vigilancia se determinó impon
 
 Además de lo previsto en el artículo 221 de la Ley, se revocará registro y autorización para ejercer como tal, a los ROPC que incurran en alguno de los siguientes supuestos:
 
-I. Incumpla con cualquiera de las obligaciones establecidas en la Ley;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+I. Incumpla con cualquiera de las obligaciones establecidas en la Ley, en el presente Reglamento y demás normatividad aplicable;
 
 > <small>(REFORMADA, G.O. 18 DE JUNIO DE 2021)</small>
 
@@ -2616,29 +3242,43 @@ IV. Incurrir en faltas de probidad, honradez o actos discriminatorios durante el
 
 V. Negarse a cumplir con la obligación establecida en el artículo 198 segundo párrafo de la Ley;
 
-VI. Que haya proporcionado información y documentación falsa durante el proceso de solicitud o renovación de autorización del registro;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-VII. En caso de que el propietario, administrador, responsable, o representante legal de un inmueble considere que la cancelación de la carta de corresponsabilidad afecta sus intereses, dando aviso a la Secretaría para la revisión del asunto; a lo cual deberá adjuntar los documentos que considere convenientes; y
+VI. Que haya proporcionado información y documentación falsa durante el proceso de solicitud o renovación de autorización del registro del Programa Interno, Programa Especial o en la elaboración del Estudio de Riesgos.
 
-VIII. (DEROGADA, G.O. 18 DE JUNIO DE 2021)
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2021)</small>
+VII. En caso de que la persona propietaria, administradora, arrendataria, responsable, o representante legal de un establecimiento mercantil o industria o inmueble considere que la cancelación de la carta de corresponsabilidad afecta sus intereses, podrá dar aviso a la Secretaría para la revisión del asunto; adjuntando los documentos que considere convenientes; y,
 
-Resuelta la revocación de la autorización del registro como ROPC, el sancionado sólo podrá solicitar la expedición de una nueva autorización del registro, pasados dos años contados a partir de la fecha en que haya sido notificada legalmente la revocación.
+> <small>(ADICIONADA, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+VIII. Contrate a un tercero para realizar sus funciones. La contratación o subcontratación de personas físicas o morales sin registro o autorización otorgada por la Secretaría para efectuar dichas actividades, además, implicará responsabilidad civil y/o penal entre las partes involucradas, así como para el ROPC que lo haya capturado, en la Plataforma Digital.
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Resuelta la revocación de la autorización del registro como ROPC, la persona sancionada sólo podrá solicitar la expedición de una nueva autorización y registro, pasados tres años contados a partir de la fecha en que haya sido notificada legalmente la revocación.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+En caso de que una persona física o moral que oferte servicios de gestión integral de riesgos y protección civil a Escuelas sin contar con registro y autorización correspondiente, se duplicará el término para poder solicitar una nueva autorización del registro.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Artículo 224 BIS. Cuando las Alcaldías en la revisión de Programas Internos o Especiales detecten posibles causas que pudieran implicar una sanción a los ROPC, integrará las constancias y pruebas que estime pertinentes y remitirá a la Secretaría para el inicio del procedimiento administrativo para la imposición de la sanción a que haya lugar.
 
 > <small>(ADICIONADO, G.O. 18 DE JUNIO DE 2021)</small>
 
-###### Artículo 224 Bis.
-
-Cuando la Alcaldía en la revisión de Programas Internos o Especiales detecte posibles causas que pudieran implicar una sanción a los ROPC, la misma integrará las constancias y pruebas que estime pertinentes y solicitará a la Secretaría inicie el procedimiento administrativo para la imposición de la sanción a que haya lugar.
-
 Cuando el ROPC incurra en violaciones a la Ley, Reglamento o cualquier otra normativa en materia de Gestión Integral de Riesgos y Protección Civil, distintas a las señaladas en el párrafo anterior, la Secretaría sustanciará el procedimiento administrativo y en su caso impondrá la sanción a que haya lugar.
+
+> <small>(ADICIONADO, G.O. 18 DE JUNIO DE 2021)</small>
 
 El procedimiento de revocación ante la Secretaría, se sujetará a lo señalado en la Ley de Procedimiento Administrativo de la Ciudad de México.
 
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 225.
 
-La Secretaría podrá revocar el registro otorgado cuando se incurra en violaciones a la Ley, a este Reglamento o cualquier otra disposición relacionada con la Gestión Integral de Riesgos y Protección Civil, así como cuando se constate que la información proporcionada carezca de veracidad.
+La Secretaría podrá revocar los registros o autorizaciones otorgados cuando se detecten violaciones a la Ley, a este Reglamento o cualquier otra disposición relacionada con la Gestión Integral de Riesgos y Protección Civil, así como cuando se constate que la información proporcionada carezca de veracidad.
 
 ###### Artículo 226.
 
@@ -2743,3 +3383,19 @@ TERCERO. - Se derogan todas aquellas disposiciones que se opongan al presente De
 CUARTO. - La Secretaría tendrá un plazo de 60 días para implementar los cursos de capacitación a que hace referencia el artículo 163 del presente Reglamento.
 
 QUINTO. – En relación a la supervisión, coordinación y sustanciación de los procedimientos administrativos, que se llevan a cabo en la Secretaría de Gestión Integral de Riesgos y Protección Civil, deberán ser concluidos de acuerdo a la normativa aplicable.
+
+G.O. 15 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Reglamento.
+
+CUARTO. Se deroga la Norma Técnica Complementaria NTC-013-UC-2018, que Establece los Criterios para la Evaluación y Acreditación de Unidades Cinotécnicas Operativas, Especializadas en la Búsqueda y Localización de Personas Atrapadas Bajo Diversos Materiales.
+
+QUINTO. La Secretaría contará con un plazo de 30 días naturales contados a partir de la entrada en vigor del presente Reglamento para reformar los Lineamientos para la elaboración de Estudio de Riesgos de obra.
+
+SEXTO. Aquellas personas físicas interesadas en registrarse como ROPC que no cuenten con cédula por encontrarse en trámite de expedición, podrá presentar adjunto a la solicitud el original y copia para cotejo del documento expedido por la Secretaría de Educación Pública, o las Autoridades Competentes en materia educativa de las Entidades Federativas, con sello de recepción, con el que se acredite que el interesado por sí o a través de la Institución Educativa, ha dado inicio al trámite para la expedición de la cédula profesional deberán apegarse al acuerdo que se expida para el efecto.
