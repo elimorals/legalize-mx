@@ -4,7 +4,7 @@ identifier: "SLP-ley-en-materia-de-desaparicion-forzada-de-personas-154143"
 country: "mx"
 rank: "ley"
 publication_date: "2022-01-02"
-last_updated: "2022-01-02"
+last_updated: "2023-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=154143&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES, Y DEL SISTEMA ESTATAL DE BÚSQUEDA DE PERSONAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el domingo 2 de enero de 2022.
 
@@ -141,11 +141,11 @@ XXXII. Víctimas: aquellas a las que hace referencia la Ley General de Víctimas
 
 Las acciones, medidas y procedimientos establecidos en esta Ley, serán implementados y evaluados aplicando los principios de efectividad y exhaustividad; debida diligencia; enfoque diferencial y especializado; enfoque humanitario; gratuidad; igualdad y no discriminación; interés superior de la niñez; máxima protección; no revictimización; participación conjunta; perspectiva de género; presunción de vida y verdad, conforme a lo señalado en el artículo 5 de la Ley General.
 
-(NOTA: EL 7 DE MARZO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 27/2022, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 3 DE ENERO DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO 0132, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 6°.
 
-En todo lo no previsto en la presente Ley, son aplicables supletoriamente las disposiciones establecidas en LA LEY GENERAL; EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; EL CÓDIGO PENAL FEDERAL; el Código Penal del Estado de San Luis Potosí; el Código Civil para el Estado de San Luis Potosí; LA LEY GENERAL DE VÍCTIMAS, la Ley de Atención a Víctimas; Y LOS TRATADOS INTERNACIONALES DE LOS QUE EL ESTADO MEXICANO SEA PARTE.
+En todo lo no previsto en la presente Ley, son aplicables supletoriamente las disposiciones establecidas en el Código Penal del Estado de San Luis Potosí; el Código Civil para el Estado de San Luis Potosí; la Ley de Atención a Víctimas para el Estado de San Luis Potosí, y demás ordenamientos legales aplicables.
 
 ### Capítulo II. Disposiciones Generales para Personas Desaparecidas Menores de Dieciocho Años
 
@@ -1158,3 +1158,13 @@ J. GUADALUPE TORRES SÁNCHEZ
 El Secretario General de Gobierno
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0895.- SE REFORMA EL ARTÍCULO 6º, DE LA LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES, Y DEL SISTEMA ESTATAL DE BÚSQUEDA DE PERSONAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
