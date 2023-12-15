@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-cultura-fisica-y-deporte-del-estado-de-baja-101889"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-31"
-last_updated: "2019-05-31"
+last_updated: "2023-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE DICIEMBRE DE 2023.
 
 Ley Publicada en el Boletín Oficial del Estado de Baja California Sur, el día jueves 31 de julio de 2014
 
@@ -105,59 +105,153 @@ XIV.- Los deportistas con algún tipo de discapacidad no serán objeto de discri
 
 Para efectos de la presente Ley se entenderá por:
 
-I.- Ley: La Ley de Cultura Física y Deporte del Estado de Baja California Sur;
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
 
-II.- Reglamento: El Reglamento de la Ley de Cultura Física y Deporte del Estado de Baja California Sur;
+I. Activación Física: Al servicio o movimiento del cuerpo humano que se realiza para mejora de la aptitud y la salud física y mental de las personas;
 
-III.- Programa: El Programa de Cultura Física y Deporte del Estado de Baja California Sur;
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
 
-IV.- Instituto: Al Instituto Sudcaliforniano del Deporte;
+II. Actividad Física: A los actos motores propios del ser humano, realizados como parte de sus actividades cotidianas;
 
-V.- CONADE: La Comisión Nacional de Cultura Física y Deporte;
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
 
-VI.- CEAAD: La Comisión Estatal de Apelación y Arbitraje del Deporte;
+III. ADE: A la Asociación Deportiva Estatal;
 
-VII.- ADE: Asociación Deportiva Estatal;
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
 
-VIII.- ADN: Asociación Deportiva Nacional;
+IV. ADN: A la Asociación Deportiva Nacional;
 
-IX.- ESCUFI: Escuela Superior de Cultura Física para Baja California Sur;
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
 
-X.- CONDE: Los Consejos Nacionales del Deporte Estudiantil, representación en Baja California Sur;
+V. CEAAD: A la Comisión Estatal de Apelación y Arbitraje del Deporte;
 
-XI.- SIEDE: El Sistema Estatal de Cultura Física y Deporte;
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
 
-XII.- SINADE: El Sistema Nacional de Cultura Física y Deporte;
+VI. Comisión Estatal: A la Comisión Contra la Violencia en el Deporte;
 
-XIII.- RED: El Registro Estatal de Cultura Física y Deporte;
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 15 DE DICIEMBRE DE 2023)</small>
 
-XIV.- RENADE: El Registro Nacional de Cultura Física y Deporte;
+VII. Comité Olímpico: Al Comité Olímpico Sudcaliforniano, Asociación Civil;
 
-XV.- SEP: La Secretaría de Educación Pública del Estado de Baja California Sur;
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 15 DE DICIEMBRE DE 2023)</small>
 
-XVI.- Comisión Estatal: La Comisión Contra la Violencia en el Deporte;
+VIII. Comité Paralímpico: Al Comité Paralímpico Sudcaliforniano, Asociación Civil:
 
-XVII.- COVED Estatal: Consejo de Vigilancia Electoral Deportiva Estatal;
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
 
-XVIII.- Educación Física: Proceso por medio del cual se adquiere, trasmite y acrecienta la cultura física;
+IX. CONADE: A la Comisión Nacional de Cultura Física y Deporte;
 
-XIX.- Cultura Física: Conjunto de bienes (conocimientos, ideas, valores y elementos materiales) que la mujer y el hombre han producido con relación al movimiento y uso de su cuerpo;
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
 
-XX.- Actividad Física: Actos motores propios de los seres humanos realizados como parte de sus actividades cotidianas;
+X. CONDE: A los Consejos Nacionales del Deporte Estudiantil, representación en Baja California Sur;
 
-XXI.- Recreación Física: Actividad física con fines lúdicos que permiten la utilización positiva del tiempo libre;
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
 
-XXII.- Deporte: Actividad institucionalizada y reglamentada, desarrollada en competiciones que tiene por objeto lograr el máximo rendimiento;
+XI. COVED Estatal: Al Consejo de Vigilancia Electoral Deportiva Estatal;
 
-XXIII.- Deporte Social: El deporte que promueve, fomenta y estimula el que todas las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, tengan igualdad de participación en actividades deportivas con finalidades recreativas, educativas y de salud o rehabilitación;
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
 
-XXIV.- Deporte de Rendimiento: El deporte que promueve, fomenta y estimula el que todas las personas puedan mejorar su nivel de calidad deportiva como aficionados, pudiendo integrarse al deporte de alto rendimiento, o en su caso, sujetarse adecuadamente a una relación laboral por la práctica del deporte;
+XII. Cultura Física: Al conjunto de bienes, conocimientos, ideas, valores y elementos materiales que el hombre ha producido con relación al movimiento y uso de su cuerpo;
 
-XXV.- Deporte de Alto Rendimiento: El deporte que se practica con altas exigencias técnicas y científicas de preparación y entrenamiento, que permite al deportista la participación en preselecciones y selecciones nacionales que representan al país en competiciones y pruebas oficiales de carácter internacional;
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 15 DE DICIEMBRE DE 2023)</small>
 
-XXVI.- Activación Física: Ejercicio o movimiento del cuerpo humano que se realiza para mejora de la aptitud y la salud física y mental de las personas; y
+XIII. Deporte Adaptado: Al que realizan las personas con discapacidad en condiciones de equidad, que es reglamentado e institucionalizado;
 
-XXVII.- Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo.
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XIV. Deporte de Alto Rendimiento: Al deporte que se practica con altas exigencias técnicas y científicas de preparación y entrenamiento, que permite al deportista la participación en preselecciones y selecciones nacionales que representan al país en competiciones y pruebas oficiales de carácter internacional;
+
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XV. Deporte de Rendimiento: El deporte que promueve, fomenta y estimula el que todas las personas puedan mejorar su nivel de calidad deportiva como aficionados, pudiendo integrarse al deporte de alto rendimiento, o en su caso, sujetarse adecuadamente a una relación laboral por la práctica del deporte;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XVI. Deporte Estudiantil: A las actividades competitivas que se organizan en el sector educativo como complemento a la educación física;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XVII. Deporte Popular: Al conjunto de actividades físicas que practican los grandes núcleos de población, normada convencionalmente y sin que se requiera para su práctica equipos o instalaciones especializados, cuyo objeto es el aprendizaje, mantenimiento de la salud y el de esparcimiento, para favorecer el desarrollo integral de la comunidad;
+
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XVIII. Deporte Social: Al deporte que promueve, fomenta y estimula el que todas las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, tengan igualdad de participación en actividades deportivas con finalidades recreativas, educativas y de salud o rehabilitación;
+
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XIX. Deporte: A la actividad física y reglamentada, que tiene por finalidad preservar y mejorar la salud física y mental, el desarrollo social, ético e intelectual, con el logro de resultados en competiciones;
+
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XX. Educación Física: Al medio fundamental para adquirir, transmitir y acrecentar la cultura física;
+
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXI. ESCUFI: A la Escuela Superior de Cultura Física para Baja California Sur;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXII. Evento Deportivo con fines de espectáculo: A cualquier evento deportivo en el que se condicione el acceso de los aficionados o espectadores al pago de una tarifa para presenciarlo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXII (SIC). Evento Deportivo Masivo: Al que, sin importar el número de personas que se encuentren reunidas, esté abierto al público, se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el número mínimo de competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, debo (sic) estar activo dentro de un área de competencia; o bien, a aquél que se realice en lugares abiertos, cuando el número de competidores sea igual o mayor a doscientos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXIV (SIC). Evento Deportivo: A cualquier encuentro entre deportistas afiliados a las asociaciones o sociedades deportivas, que se realice conforme a las normas establecidas por éstas y por los organismos rectores del deporte;
+
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXV. Instituto: Al Instituto Sudcaliforniano del Deporte;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXVI. Ley General: A la Ley de (sic) General de Cultura Física y Deporte;
+
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXVII. Ley: A la Ley de Cultura Física y Deporte del Estado de Baja California Sur;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXVIII. Órganos Municipales de Cultura Física y Deporte.- A las autoridades municipales, que en el ámbito de sus respectivas competencias, son responsables de promover el adecuado ejercicio del derecho a la cultura física y la práctica del deporte y del deporte adaptado;
+
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXIX. Programa: Al Programa de Cultura Física y Deporte del Estado de Baja California Sur;
+
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXX. Recreación Física: A la actividad física con fines lúdicos que permiten la utilización positiva del tiempo libre;
+
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXXI. RED: Al Registro Estatal de Cultura Física y Deporte;
+
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXXII. Reglamento: Al Reglamento de la Ley de Cultura Física y Deporte del Estado de Baja California Sur;
+
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXXIII. Rehabilitación Física: A las actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo;
+
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXXIV. RENADE: Al Registro Nacional de Cultura Física y Deporte;
+
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXXV. SEPBCS: A la Secretaría de Educación Pública del Estado de Baja California Sur;
+
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXXVI. SIEDE: Al Sistema Estatal de Cultura Física y Deporte; y
+
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXXVII. SINADE: Al Sistema Nacional de Cultura Física y Deporte.
 
 ###### Artículo 4°.
 
@@ -351,7 +445,9 @@ V.- Celebrar acuerdos, convenios, contratos y bases con las autoridades de la Fe
 
 VI.- Integrar el Programa Estatal de Cultura Física y Deporte;
 
-VII.- Establecer los lineamientos para la participación de los deportistas en cualquier clase de competiciones municipales, estatales, nacionales e internacionales, sin convicción de lo dispuesto por las reglas internacionales;
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+VII.- Establecer los lineamientos para la participación de los deportistas en cualquier clase de competiciones municipales, estatales, nacionales e internacionales, de conformidad con lo dispuesto por las reglas internacionales;
 
 VIII.- Coordinar acciones con las Dependencias y Entidades de la Administración Pública Estatal, los Municipios y el sector social y privado de lo relativo a investigación de ciencias y técnicas en materia de cultura física y deporte;
 
@@ -391,7 +487,9 @@ XXV.- Fijar criterios y verificar el cumplimiento de los mismos, con la particip
 
 XXVI.- Coordinar con las representaciones estatales de los CONDE, la programación del deporte escolar y universitario, cuando tenga proyección nacional e internacional;
 
-XXVII.- Diseñar y establecer estrategias y prioridades en materia de cultura física y deporte en el marco del SIEDE;
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXVII.- Diseñar y establecer estrategias y prioridades en materia de cultura física, deporte y deporte adaptado en el marco de SIEDE;
 
 XXVIII.- Recibir apoyos económicos, técnicos y materiales en territorio estatal, nacional o extranjero, para el desarrollo de sus objetivos, sin contravenir las disposiciones legales aplicables;
 
@@ -401,7 +499,9 @@ XXX.- Promover e incrementar con las previsiones presupuestales existentes, los 
 
 XXXI.- Impulsar la práctica de actividades de cultura física-deportiva, recreativo-deportivas, de deporte en la rehabilitación y deporte entre la población en general, como medio para la prevención del delito;
 
-XXXII.- Formular programas para promover la cultura física y deporte, de las personas con discapacidad;
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXXII.- Formular programas para promover la cultura física y deporte adaptado, de las personas con discapacidad;
 
 XXXIII.- Llevar a cabo el control y actualización permanente del censo de instalaciones deportivas en colaboración con los Municipios;
 
@@ -412,6 +512,18 @@ XXXV.- Promover la capacitación y certificación de directivos, deportistas, en
 XXXVI.- Celebrar todos aquellos contratos y convenios que le permitan cumplir con el objetivo para el cual fue creado; y
 
 XXXVII.- Las demás que está Ley y otras disposiciones legales determinen.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XLI (SIC).- Constituir, como parte del Instituto, la Unidad de Atención y Promoción del Deporte Adaptado, con el propósito de formular programas para promover la cultura física y deporte adaptado, para que practicando (sic) por las personas con discapacidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XLII.- Las demás facultades que le delegue y confiera la Junta Directiva para administrar y representar legalmente al Instituto como mandatario del mismo; y
+
+> <small>(ADICIONADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XLIII.- Las demás que le señale ésta y otras Leyes, Reglamentos, Decretos, Acuerdos y demás ordenamientos legales aplicables.
 
 ###### Artículo 23.
 
@@ -771,15 +883,23 @@ Las relaciones laborales entre el Instituto y su personal se regirán por la Ley
 
 ### CAPÍTULO CUARTO. De los Órganos Municipales de Cultura Física y Deporte
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 39.
 
-Cada Municipio deberá contar, de conformidad con sus ordenamientos, con un órgano que en coordinación y colaboración con el Instituto promueva, estimule y fomente el desarrollo de la cultura física y deporte, estableciendo para ello, sistemas de cultura física y deporte en sus respectivos ámbitos de competencia.
+De conformidad con la presente Ley y sus ordenamientos, cada Municipio deberá contar con un órgano que en coordinación y colaboración con el Instituto promueva, estimule y fomente el desarrollo de la cultura física, el deporte y el deporte adaptado, estableciendo para ello, sistemas de cultura física y deporte en sus respectivos ámbitos de competencia.
 
-Los Presidentes Municipales, tendrán a su cargo dichos sistemas y ejercerán sus atribuciones a través de los órganos administrativos correspondientes.
+> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
 
-Los Ayuntamientos deberán establecer los objetivos, alcances y límites del desarrollo del sector mediante la creación de un Programa Municipal de Cultura Física y Deporte, con base en un diagnóstico municipal que incluya a todas las poblaciones de su demarcación territorial, congruente con el Plan Municipal de Desarrollo y el Programa Estatal de Cultura Física y Deporte.
+Las y los Presidentes Municipales, tendrán a su cargo dichos sistemas y ejercerán sus atribuciones a través de los órganos administrativos correspondientes.
 
-Los Órganos Municipales de Cultura Física y Deporte publicarán su presupuesto, programas determinados y sistemas de evaluación, en el Boletín Oficial del Gobierno del Estado.
+> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Los Órganos Municipales de Cultura Física y Deporte, en el ámbito de sus competencias contarán con Unidades de Atención y Promoción del Deporte Adaptado, a través de las cuales, deberán formular programas para promover la cultura física y el deporte adaptado destinado a las personas con discapacidad, en coordinación con la Unidad correspondiente del Instituto.
+
+> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Los Ayuntamientos deberán estableces los objetivos, alcances y límites del desarrollo del sector mediante la creación de un Programa Municipal de Cultura Física y Deporte, que incluya acciones dirigidas a las personas con discapacidad, con base en un diagnóstico municipal que incluya a todas las poblaciones de su demarcación territorial, congruente con el Plan Municipal de Desarrollo y el Programa Estatal de Cultura Física y Deporte.
 
 Los Sistemas Municipales de Cultura Física y Deporte serán los encargados de promover, estimular y fomentar el desarrollo de la cultura física y deporte en los municipios, haciéndose los ajustes necesarios en la reglamentación municipal para su operación. Asimismo, se integrarán por las autoridades municipales, organismos e instituciones públicas y privadas, sociedades y asociaciones que en el ámbito de su competencia tengan como objeto, generar las acciones, financiamientos y programas necesarios para la coordinación, fomento, apoyo, promoción, difusión y desarrollo de la cultura física y deporte, así como el óptimo aprovechamiento de los recursos humanos, financieros y materiales.
 
@@ -1829,6 +1949,94 @@ b) Suspensión temporal o definitiva de su inscripción al SIEDE.
 
 Las sanciones por las infracciones previstas en el presente Capítulo, se impondrán de conformidad con el procedimiento previsto en el Reglamento de esta Ley.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO VIGÉSIMO OCTAVO. Del Olimpismo Sudcaliforniano
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+#### SECCIÓN PRIMERA. Del Comité Olímpico Sudcaliforniano
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 175.
+
+El Comité Olímpico Sudcaliforniano es una asociación civil autónoma, con personalidad jurídica y patrimonio propios, compuesto entre otros, por las Asociaciones Deportivas Estatales debidamente afiliadas a las federaciones deportivas estatales y nacionales, que cuenten con el reconocimiento del Comité Olímpico Mexicano, de conformidad con el contenido de la Carta Olímpica, cuya actividad es de utilidad pública; en virtud de que su objeto consiste fundamentalmente en fomentar, proteger y velar por el desarrollo del deporte y el movimiento olímpico, así como la difusión de los ideales olímpicos en nuestro estado y representar a la entidad ante el Comité Olímpico Mexicano.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 176.
+
+El Comité Olímpico se rige de acuerdo a su estatuto, reglamentos y por los principios y normas emanadas del Comité Olímpico Mexicano, de conformidad con la legislación nacional e instrumentos internacionales aplicables.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 177.
+
+El Comité Olímpico es el único organismo que tiene la facultad exclusiva para la representación del estado en los Juegos Olímpicos y en las competiciones multideportivas regionales y nacionales, patrocinadas por el Comité Olímpico Mexicano, así como, la inscripción de los integrantes de las delegaciones deportivas estatales a dichos eventos.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 178.
+
+El Comité Olímpico promoverá la práctica de las actividades deportivas reconocidas por la Carta Olímpica, dentro del país, y velará por el respeto a la misma difundiendo los principios fundamentales del olimpismo y movimiento olímpico en territorio estatal. De conformidad con la Carta Olímpica, el Comité Olímpico es responsable ante el Comité Olímpico Mexicano de hacer respetar en el territorio estatal las normas contenidas en la misma, particularmente para tomar medidas oportunas que impidan toda utilización indebida del símbolo, la bandera, el lema o el himno olímpico, así como para obtener protección jurídica de los términos "olímpico", "olimpiada", "juegos olímpicos" y "comité olímpico".
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 179.
+
+El Comité Olímpico en coordinación con el Instituto participará en la integración de las delegaciones deportivas que representen al estado en las competiciones que se celebren en los ámbitos regionales, nacionales, continentales y mundiales, a los que se refiere el artículo 177.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 180.
+
+Libre e independientemente de su objeto y facultades que su estatuto le confiere, el Comité Olímpico tiene, entre otros, los siguientes fines:
+
+I. Promover en la niñez y en la juventud, la afición al deporte y el espíritu olímpico en todo el país;
+
+II. Establecer, en coordinación con las Asociaciones Deportivas Estatales y el Instituto, los métodos y parámetros para la integración de las delegaciones deportivas mexicanas que representen al país en competencias internacionales, patrocinadas por el Comité Olímpico Mexicano, celebrando para ello los convenios que se consideren necesarios;
+
+III. Colaborar con las entidades públicas y privadas en el fomento de una política sana del deporte;
+
+IV. Fomentar el establecimiento de escuelas y centros de capacitación para entrenadores, dirigentes y administradores deportivos; y
+
+V. Colaborar y apoyar al Instituto en todo lo relacionado al desarrollo del deporte adaptado.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+#### SECCIÓN SEGUNDA. Del Comité Paralímpico Sudcaliforniano
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Artículo 180 (SIC).- El Comité Paralímpico Sudcaliforniano es una asociación civil autónoma, con personalidad jurídica y patrimonio propios, constituida por las Asociaciones Deportivas Estatales que rigen y organizan el deporte adaptado y sus modalidades deportivas para las personas con discapacidad, debidamente afiliadas a las Federaciones Deportivas Estatales que cuenten con el reconocimiento del Comité Paralímpico Mexicano.
+
+Su objeto consiste fundamentalmente en fomentar, proteger y velar por el desarrollo del deporte adaptado y el movimiento paralímpico, así como la difusión de los ideales paralímpicos en nuestra entidad y representar al Comité Paralímpico Mexicano en el estado y su actividad es considerada de utilidad pública.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 181.
+
+El Comité Paralímpico se rige de acuerdo con su estatuto, su reglamento, por los principios y normas del Comité Paralímpico Mexicano, de conformidad con la legislación nacional e instrumentos internacionales aplicables.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 182.
+
+El Comité Paralímpico es el único organismo que tiene la facultad exclusiva para la representación del estado en los Juegos Paralímpicos y en las competencias regionales, nacionales, continentales y mundiales, así como la inscripción de los integrantes de las delegaciones deportivas estatales a dichos eventos.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 183.
+
+El Comité Paralímpico apoyará a las Asociaciones Deportivas Estatales en el fomento y promoción de la práctica dentro del estado, de las actividades deportivas reconocidas por el Comité Paralímpico Mexicano y velará por el respeto a la misma, difundiendo los principios fundamentales del paralimpismo en territorio estatal, de conformidad con el Comité Paralímpico Mexicano e Internacional.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 184.
+
+El Comité Paralímpico participará, en coordinación y respeto mutuo de sus respectivos derechos y jurisdicciones con el Instituto en la integración de las delegaciones deportivas que representen al estado en las competencias que se celebren en los ámbitos regionales, nacionales, continentales y mundiales, a los que se refiere el artículo 182.
+
 T R A N S I T O R I O S:
 
 ###### ARTÍCULO PRIMERO.
@@ -1960,3 +2168,31 @@ B.O. 31 DE MAYO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 15 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 3055 SE REFORMAN TODAS LAS FRACCIONES DEL ARTÍCULO 3; SE REFORMAN LAS FRACCIONES VIII, XXVII, XXXII, XLI Y XLII DEL ARTÍCULO 22, EL ARTÍCULO 39 DEL CAPÍTULO CUARTO DE LOS ÓRGANOS MUNICIPALES DE CULTURA FÍSICA Y DEPORTE, Y SE ADICIONAN LA FRACCIÓN XLIII AL ARTÍCULO 22, EL CAPÍTULO VIGÉSIMO OCTAVO "DEL OLIMPISMO SUDCALIFORNIANO" CON LA SECCIÓN PRIMERA "DEL COMITÉ OLÍMPICO SUDCALIFORNIANO" CONTENIENDO LOS ARTÍCULOS 175, 176, 177, 178 Y 179; ASÍ COMO LA SECCIÓN SEGUNDA "DEL COMITÉ PARALÍMPICO SUDCALIFORNIANO" CONTENIENDO LOS ARTÍCULOS 180, 181, 182, 183 Y 184, DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Instituto y los Órganos Municipales de Cultura Física y Deporte, dentro del término de 30 días posteriores a la entrada en vigor del presente Decreto, armonizarán sus reglamentos y demás ordenamientos, de conformidad a las reformas y adiciones a la Ley de Cultura Física y Deporte del Estado de Baja California Sur contempladas en el mismo.
+
+###### ARTÍCULO CUARTO.
+
+Las y los titulares del Instituto y de los Órganos Municipales de Cultura Física y Deporte, en el ámbito de su (sic) respectivas competencias, realizarán los nombramientos de quienes ejercerán las titularidades de las Unidades de Atención y Promoción del Deporte Adaptado, dentro del plazo de 30 días, contados a partir del término a que se refiere el Artículo Tercero Transitorio del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Quienes resulten nombrados titulares de Unidades de Atención y Promoción del Deporte Adaptado, en el ámbito de su respectiva competencia, iniciarán sus funciones, el día siguiente a la expedición de su nombramiento.
+
+###### ARTÍCULO SEXTO.
+
+Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda.
