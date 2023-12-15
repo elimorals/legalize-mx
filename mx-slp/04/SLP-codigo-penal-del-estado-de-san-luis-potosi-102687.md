@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2023-10-31"
+last_updated: "2023-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2023.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -2399,7 +2399,7 @@ A quien disponga de óvulos o esperma para fines distintos a los autorizados por
 
 ### CAPÍTULO VI (SIC). Violencia Familiar
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 192.
 
@@ -2561,23 +2561,55 @@ Para el caso de que el abandono traiga como consecuencia la muerte de la persona
 
 ###### ARTÍCULO 205.
 
-Comete el delito de violencia familiar quien en contra de su cónyuge, concubina o concubinario, o persona que mantenga o haya mantenido una relación de hecho, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, o adoptante, cometa actos abusivos de poder u omisión intencionales, dirigidos a dominar, someter, controlar o maltratar de manera física, verbal, psicológica, patrimonial, económica o sexual, dentro o fuera del domicilio familiar, independientemente de que pueda producir o no lesiones, y de otros delitos que resulten.
+Comete el delito de violencia familiar quien en contra de su cónyuge, concubina o concubinario, o persona que mantenga o haya mantenido una relación de hecho, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, o adoptante, cometa actos abusivos de poder u omisión intencionales, dirigidos a dominar, someter, controlar, o maltratar de manera económica, emocional, física, patrimonial, psicológica, o sexual, dentro o fuera del domicilio familiar, independientemente de que pueda producir o no lesiones, y de otros delitos que resulten.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JULIO DE 2020)</small>
 
 Se entenderá por relación de hecho, la que exista entre quienes:
 
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2020)</small>
+
 I. Hagan la vida en común, en forma constante y permanente, por un período mínimo de seis meses;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2020)</small>
 
 II. Mantengan una relación de pareja, aunque no vivan en el mismo domicilio;
 
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2020)</small>
+
 III. Tengan relación con los hijos o hijas de su pareja, siempre que no los hayan procreado en común, y
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2020)</small>
 
 IV. Tengan relación con la pareja de alguno de sus progenitores.
 
-Este delito se sancionará con pena de uno a seis años de prisión, y sanción pecuniaria de cien a seiscientos días de la unidad de medida y actualización; asimismo, el culpable perderá el derecho de pensión alimenticia y se le condenará a participar en servicios reeducativos integrales, especializados, y gratuitos.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Este delito se sancionará con pena de uno a siete años de prisión, y sanción pecuniaria de ciento veinte a setecientos días de la unidad de medida y actualización; asimismo, el culpable perderá el derecho de pensión alimenticia y se le condenará a participar en servicios reeducativos integrales, especializados, y gratuitos; así como a tratamiento psicológico especializado. En ningún caso los servicios reeducativos, o el tratamiento psicológico excederán del tiempo impuesto en la pena de prisión.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Para los efectos de este artículo, los tipos de maltrato son:
+
+a) Económico: acto de lograr o intentar conseguir la dependencia financiera de otra persona, manteniendo para ello un control total sobre sus recursos financieros, impidiéndole acceder a ellos; o prohibiéndole trabajar o asistir a la escuela.
+
+b) Emocional: acto que mina la autoestima de una persona a través de críticas constantes; infravalorar sus capacidades, insultarla o someterla a ofensas verbales, ridiculización; amenazas en dañar la relación de una persona con sus hijas o hijos.
+
+c) Físico: acto que causa o intentar causar daño a una persona que puede provocar o no lesiones internas o externas; denegarle atención médica; u obligarle a consumir alcohol o drogas; así como emplear cualquier otro tipo de fuerza física contra ella.
+
+d) Patrimonial: acto u omisión que daña intencionalmente el patrimonio o afecta la supervivencia de la víctima; puede consistir en la enajenación, adquisición a nombre de terceros, transformación, sustracción, destrucción, retención, ocultamiento o distracción de objetos, documentos personales, bienes, valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar daños a bienes individuales y comunes.
+
+e) Psicológico: acto que provoca miedo a través de la intimidación; amenazas con causar daño físico a una persona, su pareja o sus hijas o hijos, o con dañar sus mascotas o bienes; o en forzarla a aislarse de sus amistades, de su familia, de la escuela o del trabajo.
+
+f) Sexual: acto de obligar a una persona a participar en un acto sexual sin su consentimiento; o que o que la obligue a otorgarlo por encontrarse intoxicada o inconsciente por haber ingerido alcohol o las drogas.
 
 > <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
 Cuando el delito se cometa en contra de una persona menor de edad, incapaz, con discapacidad, mayor de sesenta años de edad, una mujer embarazada, o durante los tres meses posteriores al parto, las penas previstas en este artículo se incrementarán hasta en una mitad más de las ya establecidas.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+En caso de reincidencia, se aumentará la pena en una tercera parte de la señalada en el párrafo cuarto de este artículo.
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 2020)</small>
 
@@ -2605,13 +2637,25 @@ La autoridad competente deberá de canalizar a la víctima u ofendido del delito
 
 En el supuesto descrito en la fracción I, cuando la violencia sea ejercida por ambos progenitores hacia el hijo o la hija menor de edad, la autoridad competente procederá en los términos del artículo 43 fracción II inciso f), de la Ley de Prevención y Atención de la Violencia Familiar del Estado de San Luis Potosí.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 205 TER. Se equipara a la violencia familiar y se sancionará con pena de seis meses a cuatro años de prisión y multa de cincuenta a ciento setenta y cinco días del valor de la unidad de medida de actualización, a quien en una relación de hecho:
+
+I. Manipule, sin medios violentos a una persona adulta mayor, para obtener la administración, el apoderamiento, o el ejercicio del control sobre sus bienes, sin que al respecto se haya pronunciado sentencia judicial ejecutoriada, o
+
+II. Realice actos que impidan la visita o convivencia a una persona adulta mayor.
+
+En el caso de la fracción I cuando la conducta se cometa con violencia, la pena se incrementará en una mitad. Si la víctima es ascendiente de la persona responsable, se privará a esta última del derecho de heredar que tuviere respecto de los bienes de la víctima.
+
 ###### ARTÍCULO 206.
 
 Se equipara a la violencia familiar cualquiera de los actos señalados en el artículo anterior de este Código, cuando se cometan en contra de la persona con la que se encuentre unida fuera del matrimonio, de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona, o de cualquiera otra que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona, siempre y cuando el agresor y el agredido habiten en la misma casa.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 207.
 
-En todos los casos previstos en los artículos precedentes, el Ministerio Público exhortará al responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima, acordará las medidas preventivas necesarias y, dictará, en su caso, la consistente en la prohibición para el agresor de acercarse al ofendido en un radio de cuando menos 100 metros.
+En todos los casos previstos en los artículos precedentes, el Ministerio Público exhortará al responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima, acordará de oficio las medidas preventivas necesarias y, dictará, en su caso, la consistente en la prohibición para el agresor de acercarse al ofendido en un radio de cuando menos 100 metros, en los términos que señala la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí, la Ley de Prevención y Atención de la Violencia Familiar del Estado de San Luis Potosí, y la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de San Luis Potosí, sin perjuicio de las demás disposiciones normativas aplicables en la materia.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA [N. DE E. REPUBLICADA SU DENOMINACIÓN], P.O. 2 DE DICIEMBRE DE 2022)</small>
 
@@ -5716,5 +5760,13 @@ P.O. 31 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0861.- SE REFORMA EL ARTÍCULO 218 EN SUS FRACCIONES XVII Y XVIII EN SU PÁRRAFO SEGUNDO; Y ADICIONA AL MISMO ARTÍCULO 218 LA FRACCIÓN XIX, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor a los treinta días hábiles posteriores de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0894.- SE REFORMAN LOS ARTÍCULOS 205 EN SUS PÁRRAFOS: PRIMERO Y TERCERO Y 207; Y ADICIONA AL ARTÍCULO 205, EL PÁRRAFO CUARTO CON LOS INCISOS A) A F) Y EL PÁRRAFO SEXTO AL MISMO ARTÍCULO 205; Y EL ARTÍCULO 205 TER, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
