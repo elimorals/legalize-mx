@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-553-de-acceso-de-las-mujeres-a-una-vida-libre-de-614
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-08"
-last_updated: "2022-10-28"
+last_updated: "2023-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 8 de febrero de 2008.
 
@@ -317,9 +317,13 @@ k) Cualquier otra forma de violencia obstétrica psicológica, incluido el trato
 
 l) En general, en cualquier situación que implique la pérdida o disminución de su autonomía y la capacidad de decidir, de manera libre e informada, a lo largo de dichas etapas.
 
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+VII. Violencia vicaria: Acción u omisión cometida por aquel con quien una mujer tenga o haya tenido relación de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho, que tenga por objeto o resultado el rompimiento o la obstrucción del vínculo con la madre, provocar un daño físico, psicológico, emocional o de cualquier otro tipo a una mujer a través del maltrato, menoscabo, sustracción, daño, peligro u homicidio de sus hijas e hijos, una persona vinculada afectivamente a la mujer, o un ser sintiente. Este tipo de violencia puede cometerse por sí, o a través de un tercero, y es particularmente grave cuando se ejerce por familiares o personas con relación afectiva de quien comete este tipo de violencia, así como por las instituciones de justicia que al no reconocerla, emiten sentencias en contra de los derechos de las mujeres y del interés superior de la niñez.
+
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
 
-VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+VIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ### CAPÍTULO II. DE LA VIOLENCIA FAMILIAR
 
@@ -331,7 +335,9 @@ La violencia familiar son las conductas dirigidas a dominar, controlar o agredir
 
 Comprende de manera enunciativa pero no limitativa:
 
-a. La violencia física, psicoemocional, sexual, económica o patrimonial;
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+a. La violencia física, psicoemocional, sexual, vicaria, económica o patrimonial;
 
 b. La discriminación al interior del núcleo familiar, que propicia entre otras circunstancias:
 
@@ -1656,3 +1662,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado para el conocimiento general y efectos legales procedentes.
 
 TERCERO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
+
+P.O. 15 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 472 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358; EL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 499; LA LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO Y LA LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE GUERRERO NÚMERO 280, EN MATERIA DE VIOLENCIA VICARIA".]
+
+PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para para (sic) su conocimiento y efectos legales correspondientes.
+
+TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
