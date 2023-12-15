@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-procuraduria-general-de-justicia-del-103900"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-30"
-last_updated: "2019-08-16"
+last_updated: "2023-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103900&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -79,13 +79,29 @@ i) Ley Orgánica: a la Ley Orgánica de la Procuraduría General de Justicia del
 
 j) Código Penal: al Código Penal para el Estado de Baja California Sur;
 
-k) Código Civil: al Código Civil para el Estado de Baja California Sur; y
+> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
 
-l) Reglamento Interior: al Reglamento Interior de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Baja California Sur.
+k) Código Civil: al Código Civil para el Estado de Baja California Sur;
 
-> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
 
-m) Fiscalía Anticorrupción: Fiscalía Especializada en Combate a la Corrupción.
+l) Reglamento Interior: al Reglamento Interior de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Baja California Sur;
+
+> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+m) Fiscalía Anticorrupción: Fiscalía Especializada en Combate a la Corrupción;
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+n) Fiscalía de la Mujer: Fiscalía Especializada para la Atención de Delitos Cometidos contra las Mujeres;
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+ñ) Dirección de Evaluación: Dirección de Evaluación y Planeación; y
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+o) UIPE: Unidad Especializada de Inteligencia Patrimonial y Económica.
 
 ###### ARTÍCULO 4.
 
@@ -155,6 +171,10 @@ II. Fiscalía Especializada para la investigación y persecución de los delitos
 
 III. Fiscalía Especializada en materia de Combate a la Corrupción;
 
+> <small>(ADICIONADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+III BIS. Fiscalía Especializada para la Atención de Delitos Cometidos contra las Mujeres;
+
 > <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
 
 IV. Subprocuraduría Regional de Procedimientos Penales Zona Centro;
@@ -182,6 +202,10 @@ IX. Subprocuraduría de Atención a Víctimas de Delitos contra la Libertad Sexu
 > <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
 
 X. Subprocuraduría Jurídica y de Amparo;
+
+> <small>(ADICIONADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+X BIS. Dirección de Evaluación y Planeación;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
 
@@ -214,6 +238,10 @@ XVII. Instituto Interdisciplinario de Ciencias Penales;
 > <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
 
 XVIII. Coordinaciones Regionales;
+
+> <small>(ADICIONADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XVIII BIS. Unidad Especializada de Inteligencia Patrimonial y Económica;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 27 DE JUNIO DE 2017)</small>
 
@@ -765,9 +793,9 @@ XVII. Desahogar las consultas que en el ámbito de su competencia le formulen la
 
 XVIII. Revisar y dictaminar los actos jurídicos que celebre la Procuraduría que afecten el presupuesto de la Institución y que no se encuentren expresamente reservados a la Oficialía Mayor
 
-XIX. Proponer al Procurador las acciones y desistimientos en materia de extinción de dominio;
+XIX. (DEROGADA, B.O. 15 DE DICIEMBRE DE 2023)
 
-XX. Ejercer la acción de extinción de dominio cuando proceda y llevar a cabo la actuación en el procedimiento correspondiente, así como ejercer las facultades establecidas en la Ley Estatal de Extinción de Dominio, y demás disposiciones aplicables, en coordinación con las Subprocuradurías de que se trate y demás órganos de la institución, y;
+XX. (DEROGADA, B.O. 15 DE DICIEMBRE DE 2023)
 
 XXI. Las demás que le confieran el Procurador en el ámbito de su competencia, esta Ley, el Reglamento Interior y otras disposiciones legales aplicables
 
@@ -913,13 +941,105 @@ XLVII. Las demás que les otorguen las leyes correspondientes.
 
 Los agentes del Ministerio Público podrán actuar válidamente, en ejercicio de sus funciones, en cualquier lugar del territorio estatal y bastará que muestren su identificación para que puedan intervenir en los asuntos a su cargo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO VI BIS. DE LA DIRECCIÓN DE EVALUACIÓN Y PLANEACIÓN
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 33 BIS.- La Dirección de Evaluación y Planeación, con residencia en la ciudad de La Paz, Baja California Sur y con competencia territorial en toda la Entidad Federativa de Baja California Sur; la cual se adscribe al Despacho del Procurador General de Justicia del Estado.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 33 TER.- Al frente de la Dirección de Evaluación y Planeación, habrá un Titular, el cual deberá cumplir con los siguientes requisitos:
+
+I. Ser ciudadano mexicano;
+
+II. Tener 23 años cumplidos como mínimo;
+
+III. Tener título y cédula profesional, en área afín al cargo a desempeñar;
+
+IV. Tener un modo honesto de vivir y gozar de buena reputación;
+
+V. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme, en el desempeño de igual o similar cargo como servidor público, en esta o en cualquiera otra entidad federativa o en la administración pública federal;
+
+VI. No hacer uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo;
+
+VII. Someterse al examen de control de confianza y;
+
+VIII. En su caso, tener acreditado el Servicio Militar Nacional.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 33 QUATER.- La Dirección de Evaluación y Planeación, tendrá por objeto compilar la información estadística que generan las distintas áreas de la institución, a fin de evaluar el desempeño del personal, así como planear las políticas para mejora en los rubros de que requieran especial atención, valorando a su vez los resultados de dichas políticas, y tendrá las siguientes atribuciones:
+
+I. Proponer y dar seguimiento a las políticas de vinculación y coordinación interinstitucional en el ámbito de competencia de la Procuraduría, que se establezcan con Órganos Constitucionales Autónomos y los órdenes de gobierno estatal y municipal;
+
+II. Participar en el Plan Estatal de Desarrollo, en el ámbito de competencia de la Procuraduría;
+
+III. Coordinar la instrumentación de programas sectoriales de procuración de justicia y demás instrumentos programáticos en el ámbito de competencia de la Procuraduría, así como darles seguimiento y evaluar su ejecución;
+
+IV. Proponer lineamientos y definir los procedimientos y criterios que deberán aplicar las unidades administrativas y de investigación, así como los órganos desconcentrados de la Institución para la integración y generación de los informes de gestión institucional y especial, en materia de procuración de justicia;
+
+V. Dirigir la integración de la agenda institucional de asuntos de interés estratégico y atención prioritaria, y el sistema de análisis y evaluación social en materia de procuración de justicia;
+
+VI. Establecer los procesos para la generación de información en las unidades administrativas y de investigación, así como los órganos desconcentrados de la Procuraduría, para el adecuado manejo de los indicadores estratégicos y de gestión de la Institución;
+
+VII. Proponer el marco estratégico de gestión de la Procuraduría enfocado a lograr una operación eficaz y eficiente de todas las unidades administrativas y de investigación, así como los órganos desconcentrados de la Institución a través de iniciativas y proyectos transversales;
+
+VIII. Definir las políticas y criterios Institucionales en materia de profesionalización de los servidores públicos de la Procuraduría, promoviendo su estricta observancia, con la participación de las unidades administrativas y de investigación, así como los órganos desconcentrados de la Procuraduría y otros organismos competentes;
+
+IX. Definir políticas y criterios institucionales para la formación de los agentes estatales de investigación criminal, peritos y ministerios públicos;
+
+X. Contribuir al mejor desempeño de las atribuciones que la Constitución, la Constitución del Estado, al Código Nacional de Procedimientos Penales, esta Ley y su Reglamento otorgan al Ministerio Público a través de la recopilación, sistematización y emisión de criterios técnico jurídico-institucionales, con base en los resultados de las evaluaciones que realice en el ámbito de su competencia;
+
+XI. Elaborar los diagnósticos en materia de procuración de justicia en el ámbito Local;
+
+XII. Realizar estudios sobre la operación de la Procuraduría, identificando sus fortalezas, oportunidades, debilidades y amenazas, con objeto de proponer acciones que contribuyan a mejorar su desempeño;
+
+XIII. Diseñar, ejecutar y evaluar el sistema de planeación de la Institución, así como los programas específicos que determine el Procurador y, en su caso, proponer a la Subprocuraduría Jurídica y de Amparo las modificaciones pertinentes a la estructura orgánica de la Procuraduría;
+
+XIV. Coordinar y evaluar la participación de las unidades administrativas y de investigación en la ejecución del sistema de planeación, para asegurar la congruencia de las estructuras con los proyectos que sustenten la operación;
+
+XV. Definir y aplicar métodos, técnicas y herramientas que permitan actualizar, fortalecer y consolidar el sistema de planeación institucional a fin de asegurar su congruencia con las atribuciones y funciones de las unidades administrativas y de investigación de la Procuraduría;
+
+XVI. Evaluar periódicamente los resultados obtenidos por las unidades administrativas y de investigación, respecto de los planes y programas operativos y de desarrollo informático, para proponer acciones sobre su cumplimiento y retroalimentar el sistema de planeación de la Institución;
+
+XVII. Participar en foros de consulta ciudadana para conocer las demandas de la población y proponer su integración al marco del Plan Estatal de Desarrollo;
+
+XVIII. Diseñar un sistema de desarrollo y mejora continua para orientar el quehacer de la Procuraduría hacia la adopción de mejores prácticas y procesos que conlleven a una cultura de calidad;
+
+XIX. Coordinar la innovación de procesos de calidad para fortalecer la eficiencia y eficacia en el funcionamiento de la Procuraduría, en coordinación con las unidades administrativas y de investigación competentes;
+
+XX. Proyectar parámetros de control y evaluación del sistema de información integral de la Institución, en coordinación con los órganos y unidades administrativas competentes;
+
+XXI. Diseñar y evaluar la innovación y calidad que se requiera en la Procuraduría, en coordinación con las áreas competentes;
+
+XXII. Proponer, emitir y evaluar, conjuntamente con las unidades administrativas y de investigación, así como los órganos competentes, los lineamientos para la captación, sistematización, procesamiento de datos, generación de información estadística e indicadores sobre los procesos de la Procuraduría, a fin de contribuir en su mejora;
+
+XXIII. Identificar áreas de oportunidad en materia de procuración de justicia, en las que la implementación de proyectos maximice los resultados;
+
+XXIV. Coordinar la administración de proyectos estratégicos de la Institución, abarcando desde el diseño hasta la evaluación de los mismos; e implementar los proyectos transversales que determine el Procurador;
+
+XXV. Evaluar la viabilidad de los proyectos estratégicos específicos que determine el Procurador;
+
+XXVI. Establecer vínculos de colaboración con las unidades administrativas y órganos desconcentrados de la Institución involucrados en los proyectos estratégicos que determine el Procurador;
+
+XXVII. Apoyar en la definición de parámetros de control, evaluación y seguimiento de los avances y resultados esperados de los proyectos estratégicos de la Procuraduría; y
+
+XXVIII. Las demás que le asigne el Procurador y otras disposiciones aplicables.
+
+Lo no previsto en esta Ley en relación a la Dirección de Evaluación y Planeación, serán las establecidas en el Reglamento Interior de la Procuraduría General de Justicia en el Estado de Baja California Sur.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 33 QUINQUIES.- Para la recopilación de información que requiere la Dirección de Evaluación y Planeación, todas las áreas de la institución que generen información estadística, están obligadas a remitirla que para tal efecto solicite la mencionada, la inobservancia de ello, será causa de responsabilidad administrativa.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 33 SEXIES.- La Dirección de Evaluación y Planeación, llevará el control interno de los trámites que realicen con apoyo de los Libros de Gobierno.
+
 ### CAPITULO VII. DE LA DIRECCIÓN DE SERVICIOS PERICIALES
-
-### CAPÍTULO VIII
-
-DE LA DIRECCIÓN DE LA AGENCIA ESTATAL DE INVESTIGACIÓN CRIMINAL.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 34.
 
@@ -1067,7 +1187,11 @@ La Dirección de Servicios periciales contará con un área que llevará a cabo 
 
 > <small>(REFORMADA SU DOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-### CAPÍTULO IX. DE LA DIRECCIÓN DE ATENCIÓN A VÍCTIMAS DEL DELITO
+### CAPÍTULO VIII
+
+DE LA DIRECCIÓN DE LA AGENCIA ESTATAL DE INVESTIGACIÓN CRIMINAL.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 43.
 
@@ -1185,9 +1309,7 @@ XXIII. Colaborar en operativos con otras corporaciones policiales, y otorgarles 
 
 XXIV. Las demás que establezca el Procurador y demás disposiciones aplicables.
 
-### CAPÍTULO X. DEL ÓRGANO DE CONTROL INTERNO
-
-> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2017)</small>
+### CAPÍTULO IX. DE LA DIRECCIÓN DE ATENCIÓN A VÍCTIMAS DEL DELITO
 
 ###### ARTÍCULO 47.
 
@@ -1255,6 +1377,42 @@ XXVI. Las que le encomiende el Procurador y le otorguen el Reglamento Interior y
 
 > <small>(REFORMADA SU DENOMINACIÓN. B.O. 27 DE JUNIO DE 2017)</small>
 
+### CAPÍTULO X. DEL ÓRGANO DE CONTROL INTERNO
+
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2017)</small>
+
+###### ARTÍCULO 49.
+
+La Procuraduría contará con la adscripción de un Órgano Interno de Control que tendrá a su cargo de (sic) promover, evaluar y fortalecer el buen funcionamiento del control interno, así como la investigación, substanciación y calificación de las faltas administrativas de su competencia.
+
+En el Ejercicio de las funciones y facultades que la Ley de Responsabilidades Administrativas otorgue al Órgano Interno de Control se sujetará a los principios de legalidad, imparcialidad, objetividad, congruencia, verdad material y respeto a los derechos humanos.
+
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2017)</small>
+
+###### ARTÍCULO 50.
+
+El Órgano Interno de Control dependerá jerárquica y funcionalmente de la Contraloría General y estará administrativa y presupuestalmente adscrito a la Procuraduría General de Justicia, contará con el personal técnico y administrativo que determine el reglamento y de acuerdo con la suficiencia presupuestaria de la Procuraduría.
+
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2017)</small>
+
+###### ARTÍCULO 51.
+
+El órgano Interno de Control estará a cargo de un Titular quien será nombrado por el Titular de la Contraloría General y será el responsable de vigilar la legalidad, disciplina y el debido cumplimiento de las actividades desarrolladas por los servidores públicos que integran la Procuraduría.
+
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2017)</small>
+
+###### ARTÍCULO 52.
+
+El titular del órgano Interno de Control contará con las áreas siguientes:
+
+I. Auditoría;
+
+II. Quejas; y
+
+III. Responsabilidades administrativas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA], B.O. 27 DE JUNIO DE 2017)</small>
+
 ### CAPÍTULO X BIS. DE LA VISITADURÍA
 
 > <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2017)</small>
@@ -1307,41 +1465,7 @@ XV. Al momento de concluir la visita de revisión en la cual se haya detectado a
 
 XVI. Las demás que le confiera la ley y demás ordenamientos, así como las que le ordene el Procurador General de Justicia en el Estado, en el ámbito de su competencia.
 
-###### ARTÍCULO 49.
-
-La Procuraduría contará con la adscripción de un Órgano Interno de Control que tendrá a su cargo de (sic) promover, evaluar y fortalecer el buen funcionamiento del control interno, así como la investigación, substanciación y calificación de las faltas administrativas de su competencia.
-
-En el Ejercicio de las funciones y facultades que la Ley de Responsabilidades Administrativas otorgue al Órgano Interno de Control se sujetará a los principios de legalidad, imparcialidad, objetividad, congruencia, verdad material y respeto a los derechos humanos.
-
-> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2017)</small>
-
-###### ARTÍCULO 50.
-
-El Órgano Interno de Control dependerá jerárquica y funcionalmente de la Contraloría General y estará administrativa y presupuestalmente adscrito a la Procuraduría General de Justicia, contará con el personal técnico y administrativo que determine el reglamento y de acuerdo con la suficiencia presupuestaria de la Procuraduría.
-
-> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2017)</small>
-
-###### ARTÍCULO 51.
-
-El órgano Interno de Control estará a cargo de un Titular quien será nombrado por el Titular de la Contraloría General y será el responsable de vigilar la legalidad, disciplina y el debido cumplimiento de las actividades desarrolladas por los servidores públicos que integran la Procuraduría.
-
-> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2017)</small>
-
-###### ARTÍCULO 52.
-
-El titular del órgano Interno de Control contará con las áreas siguientes:
-
-I. Auditoría;
-
-II. Quejas; y
-
-III. Responsabilidades administrativas.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA], B.O. 27 DE JUNIO DE 2017)</small>
-
 ### CAPITULO XI. DEL PROCEDIMIENTO ADMINISTRATIVO
-
-### CAPÍTULO XII. DE LA OFICIALÍA MAYOR
 
 ###### ARTÍCULO 53.
 
@@ -1599,7 +1723,7 @@ En caso de incumplimiento de alguno de los requisitos de permanencia señalados 
 
 Cuando la Comisión de Honor y Justicia resuelva la terminación del servicio de carrera, se procederá a la cancelación del certificado del servidor público, debiéndose hacer la anotación respectiva en el Registro Nacional de Personal de Seguridad Pública.
 
-### CAPITULO XIII. DEL FONDO AUXILIAR PARA LA PROCURACIÓN DE JUSTICIA
+### CAPÍTULO XII. DE LA OFICIALÍA MAYOR
 
 ###### ARTÍCULO 68.
 
@@ -1683,7 +1807,7 @@ XIV. Ejecutar las determinaciones del Comité Administrador del Fondo Auxiliar p
 
 XV. Las demás que determinen el Reglamento Interior, las disposiciones legales aplicables, y las que por la naturaleza de sus funciones le encomiende el Procurador.
 
-### CAPÍTULO XIV. DEL INSTITUTO INTERDISCIPLINARIO DE CIENCIAS PENALES
+### CAPITULO XIII. DEL FONDO AUXILIAR PARA LA PROCURACIÓN DE JUSTICIA
 
 ###### ARTÍCULO 71.
 
@@ -1759,17 +1883,7 @@ VI. Adquisición, construcción o remodelación de inmuebles para el establecimi
 
 VII. Las demás que determine el Comité.
 
-### CAPÍTULO XV
-
-DE LA FISCALÍA ESPECIALIZADA PARA LA INVESTIGACIÓN Y PERSECUCIÓN DE LOS DELITOS DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDAS POR PARTICULARES Y DELITOS VINCULADOS.
-
-> <small>(ADICIONADA, B.O. 16 DE AGOSTO DE 2019)</small>
-
-ARTÍCULO 79 BIS.- La Fiscalía Especializada para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y Delitos Vinculados, estará a cargo de un titular, que será nombrado y removido libremente por el Procurador, de quien dependerá directamente.
-
-Las atribuciones de la fiscalía, serán las establecidas en el capítulo sexto de la Ley en Materia de Desaparición Forzada de Personas y Desaparición Cometida por Particulares para el Estado de Baja California Sur y las demás aplicables en el ámbito de sus respectivas competencias de conformidad a lo dispuesto por la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
-
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 16 DE AGOSTO DE 2019)</small>
+### CAPÍTULO XIV. DEL INSTITUTO INTERDISCIPLINARIO DE CIENCIAS PENALES
 
 ###### ARTÍCULO 77.
 
@@ -1841,6 +1955,18 @@ XXIV. Las demás que de acuerdo a sus funciones le ordene el Procurador, así co
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 16 DE AGOSTO DE 2019)</small>
 
+### CAPÍTULO XV
+
+DE LA FISCALÍA ESPECIALIZADA PARA LA INVESTIGACIÓN Y PERSECUCIÓN DE LOS DELITOS DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDAS POR PARTICULARES Y DELITOS VINCULADOS.
+
+> <small>(ADICIONADA, B.O. 16 DE AGOSTO DE 2019)</small>
+
+ARTÍCULO 79 BIS.- La Fiscalía Especializada para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y Delitos Vinculados, estará a cargo de un titular, que será nombrado y removido libremente por el Procurador, de quien dependerá directamente.
+
+Las atribuciones de la fiscalía, serán las establecidas en el capítulo sexto de la Ley en Materia de Desaparición Forzada de Personas y Desaparición Cometida por Particulares para el Estado de Baja California Sur y las demás aplicables en el ámbito de sus respectivas competencias de conformidad a lo dispuesto por la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 16 DE AGOSTO DE 2019)</small>
+
 ### CAPÍTULO XVI. DE LA FISCALÍA ESPECIALIZADA EN MATERIA DE COMBATE A LA CORRUPCIÓN
 
 > <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2017)</small>
@@ -1855,7 +1981,7 @@ ARTÍCULO 79 QUATER. La Fiscalía Especializada o las homologas en otras especia
 
 > <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2017)</small>
 
-ARTÍCULO 79 QUINQUIES. La Fiscalía Especializada en el combate a la corrupción contará con las siguientes atribuciones:
+ARTÍCULO 79 QUINQUIES.- La Fiscalía Especializada en el combate a la corrupción contará con las siguientes atribuciones:
 
 I. Ejercer las facultades que la Constitución, las leyes, los reglamentos y demás disposiciones jurídicas confieren al Fiscal Especializado o Ministerio Público en lo relativo a los hechos que la ley considera hechos de corrupción constitutivos de delito, cometidos por servidores públicos o por particulares;
 
@@ -1919,19 +2045,93 @@ XXIV. Ordenar el aseguramiento de bienes muebles e inmuebles propiedad del imput
 
 XXV. Solicitar las providencias precautorias establecidas en el artículo 138 del Código Nacional de Procedimientos Penales;
 
-XXVI. Promover la extinción de dominio de los bienes de los imputados o sentenciados, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible al imputado o sentenciado, cuando estos bienes estén vinculados con hechos que la ley considera como delitos en materia de corrupción que sean susceptibles de la acción de extinción de dominio, en los términos de la Ley aplicable, y
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXVI. Informar al Ministerio Público de la Unidad Especializada de Inteligencia Patrimonial y Económica de la Procuraduría General de Justicia en el Estado de Baja California Sur, sobre las carpetas de investigación y causas penales, donde sea factible que se intente la acción de extinción de dominio de los bienes de los imputados o sentenciados, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible al imputado o sentenciado, cuando estos bienes estén vinculados con hechos que la ley considera como delitos en materia de corrupción que sean susceptibles de la acción de extinción de dominio, en los términos de la Ley aplicable; y
 
 XXVII. Las demás que en su caso le confieran otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO XVI BIS. DE LA FISCALÍA ESPECIALIZADA PARA LA ATENCIÓN DE DELITOS COMETIDOS CONTRA LAS MUJERES
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 79 SEXIES.- La Fiscalía Especializada para la Atención de Delitos cometidos contra las Mujeres tendrá a su cargo las atribuciones siguientes:
+
+I. Ejercer las atribuciones que la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Baja California Sur y demás leyes y disposiciones jurídicas confieren a la Procuraduría General de Justicia para el Estado de Baja California Sur en la investigación de delitos de violencia de género contra las mujeres;
+
+II. Ejercer la facultad de atracción de los delitos del orden común en los que se vean afectadas mujeres, conforme a las disposiciones aplicables;
+
+III. Establecer y/o fortalecer los mecanismos de cooperación y colaboración con autoridades federales, estatales y municipales, en el ámbito de su competencia, atendiendo a las normas y políticas institucionales;
+
+IV. Fungir conjuntamente con la Subprocuraduría de Atención a Víctimas de Delitos contra la Libertad Sexual y la Familia como enlace de la Procuraduría General de Justicia para el Estado de Baja California Sur ante el Consejo Nacional para Prevenir la Discriminación y ante la Comisión Nacional para Prevenir y Erradicar la Violencia Contra las Mujeres para el intercambio de la información que en el ámbito de su respectiva competencia corresponda;
+
+V. Participar, en representación de la Procuraduría General de Justicia del Estado de Baja California Sur, en la Comisión Intersecretarial prevista en el artículo 10 de la Ley General para Prevenir y Sancionar la Trata de Personas; en el Sistema Nacional previsto en el artículo 36 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, y en el Sistema Nacional establecido en el artículo 23 de la Ley General para la Igualdad entre Mujeres y Hombres;
+
+VI. Promover la formación y especialización permanente en materia de derechos humanos y perspectiva de género, eliminando los estereotipos sobre el rol social de las mujeres;
+
+VII. Procurar la reparación integral de las víctimas directas e indirectas de los delitos cometidos contra las mujeres;
+
+VIII. Implementar un programa de monitoreo y evaluación del personal adscrito a la Fiscalía Especializada para la Atención de Delitos cometidos contra las Mujeres, en la aplicación de los protocolos, manuales y lineamientos en la materia de violencia de género contra mujeres;
+
+IX. Promover la participación ciudadana especializada en derechos humanos y perspectiva de género;
+
+X. Establecer mecanismos de coordinación y colaboración con dependencias e instituciones en la materia y ámbito de su competencia;
+
+XI. Suscribir, en representación de la Procuraduría General de Justicia del Estado de Baja California Sur, convenios de colaboración o cooperación interinstitucionales y con la sociedad civil, en materia de violencia de género contra la mujer;
+
+XII. Implementar un mecanismo para recibir quejas y denuncias de las usuarias respecto de los servicios de la Fiscalía Especializada para la Atención de Delitos cometidos contra las Mujeres, para que se investiguen y en su caso sancionen conforme a la ley;
+
+XIII. Diseñar una estrategia institucional para la difusión y aplicación de los protocolos, lineamientos y manuales aplicables en materia de perspectiva de género;
+
+XIV. Dirigir, supervisar y evaluar el desarrollo y cumplimiento de las funciones de las unidades que integren la Fiscalía Especializada para la Atención de Delitos cometidos contra las Mujeres, verificando que se observen los ordenamientos legales y demás disposiciones aplicables en la materia de su competencia;
+
+XV. Coordinarse con la Dirección de Comunicación Social para establecer la política de comunicación social de la Fiscalía Especializada para la Atención de Delitos cometidos contra las Mujeres;
+
+XVI. Elaborar y proponer al Procurador General de Justicia del Estado de Baja California Sur, un programa de mejora de los procedimientos de gestión de las solicitudes, otorgamiento, seguimiento y vigencia de las órdenes de protección a víctimas de violencia de género;
+
+XVII. Presentar un informe público semestral de las actividades de la Fiscalía Especializada para la Atención de Delitos cometidos contra las Mujeres;
+
+XVIII. Informar y acordar con el Procurador General de Justicia del Estado de Baja California Sur acerca de los asuntos de su competencia;
+
+XIX. Proponer al Procurador General de Justicia del Estado de Baja California Sur los manuales de organización específica, de procedimientos y de servicios al público en el ámbito de su competencia;
+
+XX. Recibir en acuerdo a los responsables de las unidades administrativas que integren la Fiscalía Especializada para la Atención de Delitos cometidos contra las Mujeres;
+
+XXI. Informar y acordar con el Procurador General de Justicia del Estado de Baja California Sur;
+
+XXII. Formar parte del grupo interinstitucional y multidisciplinario con perspectiva de género que dará el seguimiento respectivo en su caso, a la Alerta de Violencia de Género decretada; y
+
+XXIII. Las demás que determine el Procurador General de Justicia en el Estado de Baja California Sur o le confieran los ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 79 SEPTIES.- La Fiscalía Especializada para la Atención de Delitos Cometidos Contra las Mujeres estará a cargo de una persona Titular, quien ejercerá las funciones conferidas en la propia fiscalía, dicho nombramiento sólo podrá recaer sobre una persona de sexo femenino.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 79 OCTIES.- La titular de la Fiscalía Especializada para la Atención de Delitos Cometidos contra las mujeres, además de reunir los requisitos establecidos en el artículo 23 de la Ley Orgánica de la Procuraduría General de Justicia en el Estado de Baja California Sur, deberá tener formación y/o experiencia en derechos humanos y perspectiva de género.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 79 NONIES.- Para el despacho de los asuntos de su competencia, la Fiscalía Especializada para la Atención de Delitos cometidos contra las Mujeres contará con unidades, presididas por un Titular, y serán las siguientes:
+
+I. La Unidad Especializada en la Investigación del Delito de Feminicidio y su Judicialización;
+
+II. La Unidad Especializada en la Investigación del Delito de Trata de Personas y su judicialización;
+
+III. La Coordinación de Apoyo en la Investigación y Persecución de Delitos;
+
+IV. La Unidad de Contexto y Análisis de Actuaciones en Delitos de Violencia de Género contra las Mujeres; y
+
+V. La Unidad Administrativa, de Estadística, Informática, Planeación y Comunicación Interinstitucional.
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 27 DE JUNIO DE 2017)</small>
 
 ### CAPÍTULO XVII. DE LA UNIDAD DE ANÁLISIS DE LA INFORMACIÓN, Y DE LA UNIDAD DE POLÍTICA CRIMINAL Y ESTADISTICA
 
 > <small>(REFORMADO, B.O. 27 DE JUNIO DE 2017)</small>
-
-### CAPITULO XVIII. DE LOS REQUISITOS DE INGRESO Y PERMANENCIA DE MINISTERIOS PÚBLICOS, PERITOS Y AGENTES ESTATALES DE INVESTIGACIÓN CRIMINAL
-
-### CAPÍTULO XIX. DEL SERVICIO CIVIL Y PROFESIONAL DE CARRERA
 
 ###### ARTÍCULO 80.
 
@@ -1957,13 +2157,103 @@ Corresponde a la Unidad de Análisis de la Información la conformación de banc
 
 Para el desempeño de sus funciones la Unidad de Análisis de la Información contará con un Manual Interno de operación, conforme a lo establecido en el Reglamento Interior y demás disposiciones aplicables.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO XVII BIS. DE LA UNIDAD ESPECIALIZADA DE INTELIGENCIA PATRIMONIAL Y ECONÓMICA
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 81 BIS.- La Unidad Especializada en Inteligencia Patrimonial y Económica de la Procuraduría General de Justicia en el Estado de Baja California Sur, se adscribe directamente al Procurador General de Justicia en el Estado de Baja California Sur y tiene como objetivo detectar las estructuras financieras de la delincuencia, lograr una mayor eficiencia en la investigación y persecución de los delitos por hechos de corrupción, encubrimiento, delitos cometidos por servidores públicos, robo de vehículos, recursos de procedencia ilícita, delitos contra la salud, secuestro, extorsión y trata de personas y en el aseguramiento y la extinción de dominio de los bienes destinados a estos, de acuerdo a lo establecido en el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 81 TER.- La Unidad Especializada en Inteligencia Patrimonial y Económica de la Procuraduría General de Justicia en el Estado de Baja California Sur, contará con las siguientes atribuciones:
+
+I. Generar, recabar, analizar y consolidar información fiscal, patrimonial y financiera relacionada con conductas que pudieran estar vinculadas con la comisión de algún delito;
+
+II. Emitir lineamientos y jerarquizar, por niveles de riesgo, la información que obtengan;
+
+III. Diseñar y establecer métodos y procedimientos de recolección, procesamiento, análisis y clasificación de la información fiscal, patrimonial y financiera que obtenga;
+
+IV. Proponer al Procurador General de Justicia del Estado de Baja California Sur, la celebración de convenios de colaboración con las instituciones y entidades financieras, empresas, asociaciones, sociedades, corredurías públicas y demás agentes económicos en materia de información sobre operaciones en las que pudiera detectarse la intervención de la delincuencia organizada o que tengan por finalidad ocultar el origen ilícito de los bienes vinculados a actividades delictivas;
+
+V. Requerir a las unidades administrativas, órganos desconcentrados, delegaciones y entidades de la Administración Pública Estatal, que proporcionen la información y documentación necesaria para el ejercicio de las atribuciones que se le confieren;
+
+VI. Solicitar a las autoridades competentes la realización de auditorías extraordinarias, en los casos de sospecha de la comisión de algún delito;
+
+VII. Colaborar en la investigación y persecución de los delitos con base en los análisis de la información fiscal, financiera y patrimonial que sea de su conocimiento;
+
+VIII. Ser el enlace entre las autoridades administrativas, órganos desconcentrados, delegaciones y entidades de la Administración Pública Estatal y las diversas dependencias y entidades de la Administración Pública Federal y de otras entidades federativas en los asuntos de su competencia, para el intercambio de información; así como negociar, celebrar e implementar acuerdos con esas instancias;
+
+IX. Coordinarse con las autoridades competentes para la práctica de los actos de fiscalización que resulten necesarios con motivo del ejercicio de sus facultades;
+
+X. Llevar el registro, inventario y control administrativo de los bienes que se encuentren bajo medidas cautelares o sujetos al procedimiento de extinción de dominio, en los términos de esta ley;
+
+XI. Recabar informes de los depositarios de los bienes sujetos a medidas cautelares y en su caso, requerir al Ministerio Público para que realice las promociones conducentes ante la autoridad judicial con relación a la depositaría y administración de los mismos;
+
+XII. Someter a consideración del Procurador un informe sobre los resultados de sus labores, que podrá servir de base para que se informe a la Legislatura; observando lo dispuesto en esta ley y demás normas aplicables en materia de transparencia y acceso a la información; y
+
+XIII. Las demás que le confieren las disposiciones legales aplicables y que determine el Procurador General de Justicia del Estado de Baja California Sur.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 81 QUATER.- Al frente como Titular de la Unidad Especializada en Inteligencia Patrimonial y Económica de la Procuraduría General de Justicia en el Estado de Baja California Sur habrá un Jefe, el cual tendrá atribuciones y carácter de Agente del Ministerio Público para todos los efectos legales que correspondan.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 81 QUINQUIES.- El Titular de la Unidad Especializada en Inteligencia Patrimonial y Económica de la Procuraduría General de Justicia en el Estado de Baja California Sur, deberá cumplir con los requisitos para ser Ministerio Público establecidos en la Ley Orgánica de la Procuraduría General de Justicia del Estado de Baja California Sur y tener capacitación en materia de Extinción de Dominio.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 81 SEXIES.- El Titular de la Unidad Especializada en Inteligencia Patrimonial y Económica de la Procuraduría General de Justicia en el Estado de Baja California Sur tendrá las atribuciones siguientes:
+
+I. Atender el despacho de los asuntos de su competencia conforme a los principios rectores de la Procuraduría General de Justicia en el Estado de Baja California Sur y la normatividad aplicable;
+
+II. Dirigir, organizar, planear y llevar a cabo las facultades que le competen a la Unidad Especializada en Inteligencia Patrimonial y Económica de la Procuraduría General de Justicia en el Estado de Baja California Sur;
+
+III. Dirigir, organizar y supervisar al personal adscrito a la Unidad Especializada en Inteligencia Patrimonial y Económica de la Procuraduría General de Justicia en el Estado de Baja California Sur;
+
+IV. Supervisar la actuación de los Agentes del Ministerio Público Especializados, durante la preparación de la acción y durante el procedimiento de extinción de dominio;
+
+V. Implementar mecanismos de coordinación y colaboración con distintas autoridades, en el ámbito de su competencia, previa autorización del Procurador General de Justicia en el Estado de Baja California Sur;
+
+VI. Desistirse de la acción y de la pretensión respecto de ciertos bienes objeto de la extinción de dominio en cualquier momento, antes de que se dicte sentencia definitiva, previa autorización del Procurador General de Justicia en el Estado de Baja California Sur; y
+
+VII. Las demás que establezcan las disposiciones judiciales aplicables y el Procurador General de Justicia en el Estado de Baja California Sur.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 81 SÉPTIES.- La Unidad Especializada en Inteligencia Patrimonial y Económica de la Procuraduría General de Justicia en el Estado de Baja California Sur, estará integrada por:
+
+I. El Titular de la Unidad;
+
+II. Agentes del Ministerio Público Especializados en materia Extinción de Dominio, quienes intervendrán en el procedimiento en los términos de la ley de materia y demás disposiciones aplicables;
+
+III. Analistas de Información, quienes deberán cumplir con los requisitos para ser Agentes Estatales de Investigación Criminal establecidos en la Ley Orgánica de la Procuraduría General de Justicia del Estado de Baja California Sur, en la inteligencia que la enseñanza superior, serán las carreras de Estadística, Matemáticas, Contaduría, Derecho con capacitación en Derecho Fiscal y en materia de Extinción de Dominio;
+
+IV. Secretarios Auxiliares del Ministerio Público; y
+
+V. El personal necesario para el eficaz desempeño de la Unidad, quienes serán designados por el Procurador General de Justicia en el Estado de Baja California Sur.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 81 OCTIES.- Los agentes del Ministerio Público Especializado tendrán las atribuciones generales siguientes:
+
+I. Preparar la acción de extinción de dominio, debiendo practicar las diligencias necesarias para obtener las pruebas que acrediten la existencia de los hechos ilícitos, así como para la identificación de los bienes materiales de la acción de extinción de dominio;
+
+II. Solicitar apoyo y colaboración de las diversas áreas del personal de la Procuraduría General de Justicia en el Estado de Baja California Sur, para el eficaz desempeño de sus funciones;
+
+III. Coadyuvar en determinados actos de investigación con el Agente del Ministerio Público en las carpetas de investigación relacionadas con los delitos competencia del Fuero Común y establecidos en el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos;
+
+IV. Ejercer acción penal en los delitos competencia del fuero común y establecidos en el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, sin perjuicio de las facultades conferidas a las unidades, agencias del Ministerio Público y Fiscalías Especializadas;
+
+V. Informar al Procurador General de Justicia en el Estado de Baja California Sur sobre los procedimientos de extinción de dominio; y
+
+VI. Las demás que determine el Procurador General de Justicia en el Estado de Baja California Sur y otros instrumentos jurídicos aplicables.
+
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-### CAPÍTULO XX. DE LA SECRETARÍA TÉCNICA
-
-### CAPÍTULO XXI. INCOMPATIBILIDADES, IMPEDIMENTOS Y EXCUSAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+### CAPITULO XVIII. DE LOS REQUISITOS DE INGRESO Y PERMANENCIA DE MINISTERIOS PÚBLICOS, PERITOS Y AGENTES ESTATALES DE INVESTIGACIÓN CRIMINAL
 
 ###### ARTÍCULO 82.
 
@@ -2145,6 +2435,8 @@ ARTÍCULO 90 TER.- La rotación es el cambio en la asignación de los Agentes de
 
 ARTÍCULO 90 QUATER.- El cambio de adscripción es la asignación de los Agentes del Ministerio Público, Agentes Estatales de Investigación Criminal, Peritos, y personal administrativo a una unidad administrativa distinta u órgano en el que se desempeñaban dentro de la Procuraduría, y podrá variar por disposición del Procurador o de quien se encuentre facultado para ello.
 
+### CAPÍTULO XIX. DEL SERVICIO CIVIL Y PROFESIONAL DE CARRERA
+
 ###### ARTÍCULO 91.
 
 El servicio civil y profesional de carrera en la Procuraduría, garantizará la igualdad de oportunidades laborales, así como la estabilidad, permanencia, remuneración adecuada, capacitación y garantías de seguridad social para el servidor público, en los términos que el Reglamento Interior establezca y conforme a la Ley de (sic) Sistema Estatal de Seguridad Pública de Baja California Sur.
@@ -2156,6 +2448,8 @@ Los procedimientos o sistemas para la selección, ingreso, formación, capacitac
 ###### ARTÍCULO 93.
 
 Los servidores públicos de la Procuraduría serán evaluados periódicamente en su desempeño de conformidad con las normas que establezca el Reglamento Interior de la institución. La evaluación determinará su permanencia y promoción en la Procuraduría.
+
+### CAPÍTULO XX. DE LA SECRETARÍA TÉCNICA
 
 ###### ARTÍCULO 94.
 
@@ -2186,6 +2480,10 @@ VI. Recibir las notificaciones de los Jueces de Ejecución de Sanciones Penales 
 VII. Vigilar que se cumpla con el pago de la reparación del daño en los términos fijados por la autoridad jurisdiccional, así como el cumplimiento de la pena o medida de seguridad impuesta; y
 
 VIII. Las demás que en el ámbito de su competencia ordene el Procurador y las establecidas en el Reglamento Interior.
+
+### CAPÍTULO XXI. INCOMPATIBILIDADES, IMPEDIMENTOS Y EXCUSAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 97.
 
@@ -2390,3 +2688,17 @@ Artículo décimo tercero.- Una vez que se dé la creación de la Comisión Esta
 TRANSITORIOS RELACIONADOS CON LA DEROGACIÓN DEL DELITO DE DESAPARICIÓN FORZADA DE PERSONAS
 
 Artículo décimo cuarto.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto y que se encuentren en trámite o pendientes de resolución por el delito previsto en los artículos 191, 192 y 193 del Código Penal para el Estado Libre y Soberano de Baja California Sur que se derogan, se seguirán substanciando hasta su conclusión con esa disposición vigente y demás relativas y aplicables al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+B.O. 15 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3007 SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan los acuerdos administrativos expedidos por el Porcurador (sic) General de Justicia del Estado de Baja California Sur que a continuación se indican:
+
+> <small>[N. DE E. VÉASE TABLA EN EL B.O. DE 15 DE DICIEMBRE DE 2023, PÁGINA 15.]</small>
