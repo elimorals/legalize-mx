@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-conducta-de-la-entidad-superior-de-fiscalizacion-1024
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-19"
-last_updated: "2014-09-19"
+last_updated: "2023-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # CODIGO DE CONDUCTA DE LA ENTIDAD SUPERIOR DE FISCALIZACION DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA ENTIDAD SUPERIOR DE FISCALIZACIÓN DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 15 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA ENTIDAD SUPERIOR DE FISCALIZACIÓN DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2023 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el viernes 19 de septiembre de 2014.
 
@@ -258,3 +260,17 @@ C.P.C. RAFAEL CASTILLO VANDENPEEREBOOM
 AUDITOR SUPERIOR DEL ESTADO
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA ENTIDAD SUPERIOR DE FISCALIZACIÓN DEL ESTADO DE QUERÉTARO”.]
+
+Primero. El Código de Conducta de la Entidad Superior de Fiscalización del Estado de Querétaro, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+Segundo. Se abroga el Código de Conducta de la Entidad Superior de Fiscalización del Estado de Querétaro publicado en el periódico oficial de Gobierno del Estado "La Sombra de Arteaga" el 19 de septiembre de 2014.
+
+Tercera. El CEESFE, por conducto del OIC, deberá dar a conocer el contenido del presente Código de Conducta a todo el personal que actualmente labore en la ESFE, para su conocimiento y debida observancia.
+
+Cuarto. Se ordena notificar al OIC de la ESFE, de la expedición del presente Código de Conducta de la ESFE para efecto de su debida y oportuna intervención en los términos previstos en dicho instrumento, debiendo realizar las verificaciones necesarias para que se dé cumplimiento a lo dispuesto en el mismo.
