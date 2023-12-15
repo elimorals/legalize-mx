@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-para-el-municipio-de-tehuacan-puebla-49110"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-30"
-last_updated: "2021-12-24"
+last_updated: "2023-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49110&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "PUE"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE TEHUACAN, PUEBLA
 
-LEY DE HACIENDA PARA EL MUNICIPIO DE TEHUACAN
+LEY DE HACIENDA PARA EL MUNICIPIO DE TEHUACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2005.
 
@@ -43,7 +43,7 @@ Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO SEXTO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-.
+[...]
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto por los artículos 57 fracción I y 63 fracción IV de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracción I y II, 69 fracción IV y 71 de la Ley Orgánica del Poder Legislativo del Estado; 20, 24 fracciones I y II del Reglamento Interior del Honorable Congreso del Estado, se expide la siguiente:
 
@@ -505,7 +505,9 @@ Para los efectos de este artículo, se considera que reciben el servicio de alum
 
 Es base de este Derecho el gasto total anual que le genere al Ayuntamiento del Municipio en el ejercicio fiscal inmediato anterior la prestación del servicio de alumbrado público en el territorio municipal, traído a valor presente con la aplicación de un factor de actualización.
 
-El factor de actualización a que se refiere el párrafo anterior, se aplicará por el transcurso del tiempo y con motivo de los cambios de precios en el país. Dicho factor se obtendrá dividiendo el Índice de Precios del Genérico Electricidad del Índice Nacional de Precios al Consumidor del mes (sic) noviembre del año anterior, al mes de noviembre más reciente.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+El factor de actualización a que se refiere el párrafo anterior, se aplicará por el transcurso del tiempo y con motivo de los cambios de precios en el país. Dicho factor se obtendrá dividiendo el Índice de Precios del Genérico Electricidad del Índice Nacional de Precios al Consumidor del mes de junio más reciente, entre el del mes de junio del año anterior.
 
 Para los efectos del presente Artículo, se entiende como gasto total del servicio de alumbrado público, la suma de las siguientes erogaciones anuales que haya realizado el Ayuntamiento del Municipio en el ejercicio fiscal inmediato anterior para la prestación de este servicio:
 
@@ -1088,3 +1090,11 @@ P.O. 24 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado Libre y Soberano de Puebla.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 59 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 60 DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE TEHUACÁN; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 242 DEL CÓDIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA, Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 201 DEL CÓDIGO FISCAL Y HACENDARIO PARA EL MUNICIPIO DE SAN ANDRÉS CHOLULA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
