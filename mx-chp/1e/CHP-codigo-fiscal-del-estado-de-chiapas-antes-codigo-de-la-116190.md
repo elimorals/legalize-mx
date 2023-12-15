@@ -4,7 +4,7 @@ identifier: "CHP-codigo-fiscal-del-estado-de-chiapas-antes-codigo-de-la-116190"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-05-18"
-last_updated: "2022-12-14"
+last_updated: "2023-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2023.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de Mayo del 2016.
 
@@ -4041,7 +4041,7 @@ El Fondo General de Participaciones se constituirá con las cantidades que resul
 
 > <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2017, PÁGINA 12.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 40 A LA 41; F. DE E. P.O. 2 DE ENERO DE 2019, PÁGINAS DE LA 1 A LA 3; 18 DE SEPTIEMBRE DE 2019, PÁGINAS DE LA 9 A LA 10; P.O. DE 31 DE DICIEMBRE DE 2019, PÁGINAS DE LA 35 A LA 37; P.O. 31 DE DICIEMBRE DE 2021, PÁGINAS DE LA 39 A LA 40.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 40 A LA 41; F. DE E. P.O. 2 DE ENERO DE 2019, PÁGINAS DE LA 1 A LA 3; 18 DE SEPTIEMBRE DE 2019, PÁGINAS DE LA 9 A LA 10; P.O. DE 31 DE DICIEMBRE DE 2019, PÁGINAS DE LA 35 A LA 37; P.O. 31 DE DICIEMBRE DE 2021, PÁGINAS DE LA 39 A LA 40; P.O. 15 DE DICIEMBRE DE 2023, PÁGINAS DE LA 14 A LA 15.]</small>
 
 La fórmula anterior no será aplicable en el mes de cálculo, cuando las participaciones del Fondo General de Participaciones, sean iguales o menores a las observadas en el año 2015. En tales supuestos, la distribución se realizará en función de la cantidad efectivamente recibida por el Estado en el año de cálculo, en proporción al monto asignado para cada Municipio en el año 2015.
 
@@ -4056,6 +4056,8 @@ I. Con la cantidad equivalente del Fondo de Fomento Municipal, asignada a los Mu
 II. El excedente del ejercicio actual con relación al 2015, se distribuirá con base en lo siguiente:
 
 > <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. 14 DE DICIEMBRE DE 2022, PÁGINAS DE LA 31 A LA 32.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA EN EL P.O. 15 DE DICIEMBRE DE 2023, PÁGINAS DE LA 15 A LA 16.]</small>
 
 La fórmula anterior no será aplicable en el mes de cálculo, cuando las participaciones del Fondo de Fomento Municipal, sean iguales o menores a las observadas en el año 2015. En tales supuestos, la distribución se realizará en función de la cantidad efectivamente recibida por el Estado en el año de cálculo, en proporción al monto asignado para cada Municipio en el año 2015.
 
@@ -4713,7 +4715,7 @@ Cuando el Estado o algún Municipio contravenga lo establecido por este libro o 
 
 ### Capítulo II. De los Presupuestos de Egresos
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 335.
 
@@ -4763,7 +4765,9 @@ XIX. Gasto no etiquetado: A las erogaciones que realizan las Dependencias, Entid
 
 XX. Gasto total: A la totalidad de las erogaciones aprobadas en el Presupuesto de Egresos, con cargo a los ingresos previstos en la Ley de Ingresos, las cuales no incluyen las operaciones que darían lugar a la duplicidad en el registro del gasto.
 
-XXI. Ley de Ingresos: A la Ley de Ingresos del Estado de Chiapas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXI. Información financiera: la información presupuestaria y contable expresada en unidades monetarias, sobre las transacciones que realiza un ente público y los eventos económicos identificables y cuantificables que lo afectan, la cual puede representarse por reportes, informes, estados y notas que expresan su situación financiera, los resultados de su operación y los cambios en su patrimonio.
 
 XXII. Ingresos de libre disposición: A los Ingresos locales y las participaciones federales, así como los recursos que, en su caso, reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas, en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y cualquier otro recurso que no esté destinado a un fin específico.
 
@@ -4778,6 +4782,10 @@ XXVI. Ingresos Propios: A los Ingresos por Venta de Bienes, Prestación de Servi
 XXVII. Ingresos totales: A la totalidad de los Ingresos de libre disposición, las Transferencias federales etiquetadas y el Financiamiento Neto.
 
 XXVIII. Inversión pública productiva: A toda erogación por la cual se genere, directa o indirectamente, un beneficio social, y adicionalmente, cuya finalidad específica sea: (I) la construcción, mejoramiento, rehabilitación y/o reposición de bienes de dominio público (II) la adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en los conceptos de mobiliario y equipo de administración, mobiliario y equipo educacional, equipo médico e instrumental médico y de laboratorio, equipo de defensa y seguridad, y maquinaria, de acuerdo al Clasificador por Objeto del Gasto emitido por el Consejo Nacional de Armonización Contable, o (III) la adquisición de bienes para la prestación de un servicio público específico, comprendidos de manera limitativa en los conceptos de vehículos de transporte público, terrenos y edificios no residenciales, de acuerdo al Clasificador por Objeto del Gasto emitido por el Consejo Nacional de Armonización Contable.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXVIII Bis. Ley de Ingresos: A la Ley de Ingresos del Estado de Chiapas.
 
 XXIX. Obligaciones: A los compromisos de pago a cargo de los Organismos Públicos derivados de Financiamientos y de las Asociaciones Público-Privadas.
 
@@ -4831,17 +4839,17 @@ La planeación, programación, presupuestación, ejercicio, control y evaluació
 
 Los Órganos Ejecutores de los Poderes Legislativo y Judicial, así como los Órganos Autónomos a través de sus áreas correspondientes, son responsables de la planeación, programación, presupuestación, contabilidad, ejercicio, control y rendición de cuentas del Presupuesto de Egresos que se les asignen en cada ejercicio fiscal.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 339.
 
 Los Organismos Públicos, son responsables de la planeación, programación, presupuestación, contabilidad, ejercicio, control y rendición de cuentas de sus programas, proyectos y actividades, así como de la administración eficiente y eficaz del ejercicio de los recursos con especial atención a los parámetros de medición y evaluación del desempeño, el grado de cumplimiento de objetivos y metas con base en indicadores que permitan evaluar los resultados obtenidos.
 
-Para efectos de registro presupuestario y contable, los Organismos Públicos, deben utilizar el sistema presupuestario que provea la Secretaría, a fin de sistematizar, homogeneizar y obtener información veraz, confiable y oportuna, que permita la rendición de cuentas y transparencia del ejercicio de los recursos públicos.
+Para efectos de registro presupuestario y contable, los Organismos Públicos, deben utilizar el sistema informático que provea la Secretaría, a fin de sistematizar, homogeneizar y obtener información veraz, en tiempo real y en línea, confiable y oportuna, que permita la rendición de cuentas y transparencia del ejercicio de los recursos públicos.
 
-La Secretaría efectuará revisión selectiva de los elementos cualitativos e impulsará disposiciones y acciones de reformas en política presupuestaria y contable, así como la modernización de los sistemas para el registro, seguimiento, control e integración del gasto público, sus avances y rendición de cuentas.
+La Secretaría efectuará revisión selectiva de los elementos cualitativos e impulsará disposiciones y acciones de reformas en política presupuestaria y contable, así como la innovación y modernización de los sistemas informáticos para el registro, seguimiento, control e integración del gasto público, sus avances y rendición de cuentas.
 
-Los Organismos Públicos en el ejercicio de sus recursos, para el desarrollo de sus atribuciones, están obligados a registrar la orientación e impacto de sus recursos, programas y proyectos, con base a la metodología y sistemas emitidos por la Secretaría.
+Los Organismos Públicos en el ejercicio de sus recursos, para el desarrollo de sus atribuciones, están obligados a registrar la orientación e impacto de sus recursos, programas y proyectos, con base a la metodología y sistemas informáticos emitidos por la Secretaría.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -4911,17 +4919,19 @@ Para el ejercicio de sus ingresos propios los Órganos Ejecutores que integran l
 
 Cuando las Entidades Paraestatales requieran suscribir con la Federación a través de sus órganos administrativos competentes, diversos instrumentos jurídicos para la asignación de recursos presupuestarios anuales para su operación, los cuales impliquen aportación de recursos estatales que no se encuentren contenidos en su totalidad dentro del Presupuesto de Egresos aprobado por el Congreso del Estado del ejercicio correspondiente, éstas podrán suscribir convenios, siempre y cuando cuenten con la disponibilidad presupuestaria y financiera.
 
-Para efectos de armonización presupuestaria, financiera y contable, conforme a la Ley General de Contabilidad Gubernamental, Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás ordenamientos en la materia, los Organismos Públicos deben registrar en los sistemas computarizados para este fin, todos los ingresos y gastos de que dispongan para satisfacer los objetivos a los que estén destinados.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Para efectos de armonización presupuestaria, financiera y contable, conforme a la Ley General de Contabilidad Gubernamental, Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás ordenamientos en la materia, los Organismos Públicos deben registrar en los sistemas informáticos correspondientes todos los ingresos y gastos de que dispongan para satisfacer los objetivos a los que estén destinados.
 
 ### Capítulo I. De la Administración de los Recursos Públicos
 
 ###### Artículo 342.
 
-El gasto público estatal se determina con base al presupuesto que se formula con apego a programas y proyectos que señalen objetivos, indicadores, metas, unidades de medida y responsables de su ejecución; alineados a los Planes Nacional y Estatal de Desarrollo y a políticas públicas que beneficien a la población.
+El gasto público estatal se determina con base al presupuesto que se formula con apego a los programas y proyectos donde se señalen los objetivos, indicadores, metas, unidades de medida y unidades responsables de la ejecución de los recursos; alineados a los Planes Nacional y Estatal de Desarrollo y a políticas públicas que beneficien a la población.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-Artículo 342 A.- El Presupuesto de Egresos deberá registrarse a nivel de Proyecto, desglosándose todos los gastos de los Servicios Personales, Materiales y Suministros, Servicios Generales, y todos aquellos recursos asociados al cumplimiento de su operatividad y función, así como de sus objetivos, indicadores y metas.
+Artículo 342 A.- El Presupuesto de Egresos deberá registrarse a nivel de Proyecto, desglosándose a nivel de partida específica de gasto acorde a la aplicación de todos los gastos en materia de Servicios Personales, Materiales y Suministros, Servicios Generales, y todos aquellos recursos asociados al cumplimiento de su operatividad y función, así como de sus objetivos, indicadores y metas.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
 
@@ -4929,7 +4939,9 @@ Artículo 342 A.- El Presupuesto de Egresos deberá registrarse a nivel de Proye
 
 La Secretaría, al integrar el Proyecto de Presupuesto de Egresos estará en equilibrio con el ingreso, asignando a cada Organismo Público los recursos respectivos de acuerdo a los fondos establecidos en la Iniciativa de la Ley de Ingresos y en apego a los Clasificadores Presupuestarios.
 
-Lo anterior no será aplicable al Poder Judicial, quien conforme a lo dispuesto en el artículo 73 de la Constitución Política del Estado Libre y Soberano de Chiapas, elaborará su Proyecto de Presupuesto de Egresos y lo enviará a través del Consejo de la Judicatura, al Congreso del Estado.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Lo anterior no será aplicable al Poder Judicial, quien conforme a lo dispuesto en el penúltimo párrafo del artículo 73 de la Constitución Política del Estado Libre y Soberano de Chiapas, elaborará su Proyecto de Presupuesto de Egresos y lo remitirá directamente por el Consejo de la Judicatura al Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
 
@@ -5059,6 +5071,10 @@ XVI. La aplicación de los recursos conforme a las Clasificaciones: Administrati
 
 XVII. Asignar los recursos para el impulso de acciones que promuevan el derecho de las mujeres a una vida libre de violencia y de la igualdad entre mujeres y hombres.
 
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XVIII. Implementar dentro de sus respectivas atribuciones, políticas sociales y económicas, para fomentar los programas de desarrollo social del Estado.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 La Ley de Ingresos y el Presupuesto de Egresos del Estado deberán ser congruentes con los Criterios Generales de Política Económica y, las estimaciones de las Participaciones y Transferencias federales etiquetadas que se incluyan, no deberán exceder a las previstas en la iniciativa de la Ley de Ingresos de la Federación y en el Proyecto de Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente.
@@ -5119,9 +5135,9 @@ En el proceso de integración de la información financiera para la elaboración
 
 En relación a las fracciones XIV, XV y XVI del presente artículo, el CONAC establecerá las normas, metodologías, clasificadores y los formatos con la estructura y contenido de la información, para armonizar la elaboración y presentación de los documentos señalados.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-En general, toda la información que se considere útil, para explicar el proyecto en forma clara y completa.
+En general, toda la información que se considere útil, para explicar el Proyecto de Presupuesto de Egresos en forma clara y completa.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -5181,19 +5197,29 @@ La aprobación y ejecución de nuevas obligaciones financieras, se realizará en
 
 La Secretaría publicará en el Periódico Oficial y en su página de Internet, los anexos de información del ingreso, del gasto y demás información que corresponda, dentro de los 30 días naturales posteriores a la aprobación de la Ley de Ingresos y del Presupuesto de Egresos, en cumplimiento de las disposiciones, normas y formatos emitidos por el CONAC y demás instancias de consulta autorizadas.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 351.
 
-La Secretaría emitirá lineamientos, asimismo entregará el sistema computarizado, los techos de gasto, establecerá plazos y/o disposiciones administrativas de carácter general que permitan a los Organismos Públicos, elaborar su respectivo Anteproyecto de Presupuesto de Egresos para el ejercicio fiscal que corresponda.
+La Secretaría emitirá lineamientos, asimismo entregará el sistema informático, los techos de gasto, establecerá plazos y/o disposiciones administrativas de carácter general que permitan a los Organismos Públicos, elaborar su respectivo Anteproyecto de Presupuesto de Egresos para el ejercicio fiscal que corresponda.
 
-Los Organismos Públicos deberán elaborar sus Anteproyectos de Presupuesto de Egresos con sujeción de las disposiciones administrativas de carácter general, a la normatividad, al techo de gasto y plazos establecidos, con el objeto que dichos Anteproyectos sean compatibles con los Clasificadores Presupuestarios, debiendo ser remitidos a la Secretaría de manera oficial y a través del sistema correspondiente.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Los Organismos Públicos deberán elaborar sus Anteproyectos de Presupuesto de Egresos con sujeción de las disposiciones administrativas de carácter general, a la normatividad, al techo de gasto y plazos establecidos, con el objeto que dichos Anteproyectos sean compatibles con los Clasificadores Presupuestarios, debiendo ser remitidos a la Secretaría de manera oficial y a través del sistema informático correspondiente.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
 
 En la integración del Anteproyecto de Presupuesto de Egresos y durante el ejercicio presupuestario, los Organismos Públicos deberán realizar el registro del Presupuesto a nivel de partida específica de gasto en el que se identifique el consumo de bienes y servicios que permita el control, la disciplina, la programación, la toma de decisiones, la rendición de cuentas y la transparencia.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
+
 Los Organismos Públicos son responsables de elaborar y definir el calendario de su presupuesto a nivel de partida específica de gasto, desde la fase de integración de su Anteproyecto de Presupuesto de Egresos, en términos a lo que establezca el Reglamento del Código.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
+
 La Secretaría, está facultada para formular e integrar el Anteproyecto de Presupuesto de Egresos, cuando los Organismos Públicos no lo presenten en los plazos, así como en términos de las disposiciones aplicables y techos de gasto establecidos; si se excede en este último, podrá no recibir dicho Anteproyecto y en su caso realizar los ajustes que correspondan.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
 
 El Proyecto de Presupuesto de Egresos debe ser presentado por la Secretaría al Gobernador del Estado a más tardar el 30 de noviembre de cada ejercicio fiscal, para su oportuno envío al Congreso del Estado, excepto cuando haya cambio de administración sexenal, en cuyo caso, será a más tardar el 15 de diciembre.
 
@@ -5207,7 +5233,9 @@ El Proyecto de Presupuesto de Egresos debe ser presentado por la Secretaría al 
 
 Los Órganos Ejecutores que integran el Poder Legislativo, así como los Órganos Autónomos atendiendo a las previsiones del ingreso y del gasto público total, con base en los lineamientos que emita la Secretaría, elaborarán sus respectivos Anteproyectos de Presupuesto de Egresos y lo enviarán oportunamente a la Secretaría, para que ésta revise que la propuesta sea compatible con los Criterios Generales de Política Económica, a efecto de integrarlo al Proyecto de Presupuesto de Egresos. Así también dar seguimiento puntual del ejercicio de sus recursos e informar de estos para su consolidación.
 
-Los Órganos Ejecutores que integran el Poder Judicial, atendiendo a las previsiones del ingreso y del gasto público del mismo, con base en los lineamientos que emita el Consejo de la Judicatura, elaborarán sus respectivos Anteproyectos de Presupuesto de Egresos y los remitirán oportunamente a dicho Consejo, para que previo análisis y ajustes necesarios, ordene su incorporación al Proyecto de Presupuesto de Egresos del Poder Judicial, que se presentará al Congreso del Estado en términos de lo dispuesto en el artículo 73 de la Constitución Política del Estado Libre y Soberano de Chiapas.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Los Órganos Ejecutores que integran el Poder Judicial, atendiendo a las previsiones del ingreso y del gasto público del mismo, con base en los lineamientos que emita el Consejo de la Judicatura, elaborarán sus respectivos Anteproyectos de Presupuesto de Egresos y los remitirán oportunamente a dicho Consejo, para que previo análisis y ajustes necesarios, ordene su incorporación al Proyecto de Presupuesto de Egresos del Poder Judicial, que se presentará al Congreso del Estado en términos de lo dispuesto en el penúltimo párrafo del artículo 73 de la Constitución Política del Estado Libre y Soberano de Chiapas.
 
 ## Título Segundo. De la Ejecución y Control Presupuestario del Gasto Público
 
@@ -5219,9 +5247,9 @@ Los Órganos Ejecutores que integran el Poder Judicial, atendiendo a las previsi
 
 En el ejercicio del gasto público estatal, los Organismos Públicos, deben sujetarse a las disposiciones de este Código y demás normatividad vigente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-Las solicitudes de adecuaciones presupuestarias y demás requerimientos relacionados con el ejercicio y aplicación de los recursos que presenten los Organismos Públicos, deberán presentarse a más tardar el día 20 de cada mes, o al siguiente día hábil si éste no lo fuera y deberán de manera obligada, cumplir con los requisitos establecidos en la normatividad aplicable; aquellos que no sean atendidos por la Secretaría dentro de los plazos establecidos en las disposiciones aplicables, quedarán sin efecto.
+Las solicitudes de adecuaciones presupuestarias y demás requerimientos relacionados con el ejercicio y aplicación de los recursos que presenten los Organismos Públicos, deberán presentarse a más tardar el día 20 de cada mes, o al siguiente día hábil si éste no lo fuera y deberán de manera obligada, cumplir con las justificaciones y requisitos establecidos en la normatividad aplicable; aquellos que no sean atendidos por la Secretaría dentro de los plazos establecidos en las disposiciones aplicables, quedarán sin efecto.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -5281,7 +5309,7 @@ La Secretaría a través de las áreas correspondientes llevará el control de l
 
 Dentro de las Unidades Responsables de Apoyo, podrán crearse subunidades o subclasificaciones que permitan identificar el destino y orientación de los recursos públicos, a fin de dar transparencia al registro.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 359.
 
@@ -5295,15 +5323,11 @@ III. Los remanentes de las aportaciones a los fideicomisos para la Instrumentaci
 
 Los ingresos excedentes derivados de ingresos de libre disposición, deberán ser destinados a los siguientes conceptos:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2021)</small>
-
-a) Para la amortización anticipada de la Deuda Pública, el pago de adeudos de ejercicios fiscales anteriores, pasivos circulantes y otras obligaciones, en cuyos contratos se haya pactado el pago anticipado sin incurrir en penalidades y representen una disminución del saldo registrado en la Cuenta Pública del cierre del ejercicio inmediato anterior, así como el pago de sentencias definitivas emitidas por la autoridad competente, la aportación a fondos para desastres naturales y de pensiones, conforme a lo siguiente:
+a) Para la amortización anticipada de la Deuda Pública, el pago de adeudos de ejercicios fiscales anteriores, pasivos circulantes y otras obligaciones, en cuyos contratos se haya pactado el pago anticipado sin incurrir en penalidades y representen una disminución del saldo registrado en la cuenta pública del cierre del ejercicio inmediato anterior, así como el pago de sentencias definitivas emitidas por la autoridad competente, la aportación a fondos para desastres naturales y de pensiones, conforme a lo siguiente:
 
 a.1 Cuando el Estado se clasifique en un nivel de endeudamiento elevado, de acuerdo al Sistema de Alertas, cuando menos el 50 por ciento.
 
 a.2 Cuando el Estado se clasifique en un nivel de endeudamiento en observación, de acuerdo al Sistema de Alertas, cuando menos el 30 por ciento.
-
-Los ingresos excedentes derivados de ingresos de libre disposición, podrán destinarse a reducir el balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios hasta el ejercicio fiscal 2022.
 
 b) En su caso, el remanente para:
 
@@ -5319,9 +5343,7 @@ Tratándose de Ingresos de libre disposición que se encuentren destinados a un 
 
 Toda propuesta de aumento o creación de gasto del Presupuesto de Egresos, deberá acompañarse con la correspondiente fuente de ingresos distinta al financiamiento, o compensarse con reducciones en otras previsiones de gasto.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
-
-No procederá pago alguno que no esté comprendido en el Presupuesto de Egresos, determinado por ley posterior o con cargo a ingresos excedentes. El Ejecutivo deberá revelar en la Cuenta Pública y en los informes que periódicamente entregue al Congreso del Estado, la fuente de ingresos con la que; se haya pagado el nuevo gasto, distinguiendo el Gasto etiquetado y no etiquetado.
+No procederá pago alguno que no esté comprendido en el Presupuesto de Egresos, determinado por ley posterior o con cargo a ingresos excedentes. El Ejecutivo deberá revelar en la cuenta pública y en los informes que periódicamente entregue al Congreso del Estado, la fuente de ingresos con la que; se haya pagado el nuevo gasto, distinguiendo el Gasto etiquetado y no etiquetado.
 
 Tratándose de ingresos extraordinarios derivados de empréstitos, el gasto debe sujetarse a lo dispuesto por el Título Tercero del presente Libro, el Decreto de Presupuesto de Egresos del Estado para el ejercicio fiscal correspondiente, y demás normatividad vigente; en este sentido la Secretaría está facultada para autorizar las adecuaciones presupuestarias cuando éstas sean procedentes.
 
@@ -5397,7 +5419,9 @@ III. En el ejercicio de recursos a través de transferencias, subsidios y ayudas
 
 IV. En el manejo de sus disponibilidades financieras, no cumplan con las disposiciones generales que la Secretaría emita.
 
-V. Cuando en el Sistema Integral de Administración Hacendaria Estatal se determine que los Organismos Públicos tienen subejercicio, sin causa justificada.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+V. Cuando en el sistema informático proporcionado por la Secretaría se determine que los Organismos Públicos tienen subejercicio, sin causa justificada.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -5425,11 +5449,11 @@ La radicación de los recursos ministrados estará condicionada a la disponibili
 
 La Secretaría de la Honestidad y Función Pública, en el ejercicio de sus funciones, podrá solicitar a la Secretaría, la suspensión de las ministraciones de recursos financieros a los Organismos Públicos del Ejecutivo en los términos de este artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 365.
 
-La Secretaría podrá autorizar ampliaciones líquidas al presupuesto de los Organismos Públicos cuando estos lo requieran, siempre que exista disponibilidad presupuestaria y financiera, para fortalecer su operación o para el desarrollo de nuevas metas y acciones. No obstante, cada Organismo Público deberá generar economías o ahorros para atender sus propias necesidades, debiendo contar con la autorización de la Secretaría.
+La Secretaría podrá autorizar ampliaciones líquidas al presupuesto de los Organismos Públicos cuando estos lo requieran, siempre y cuando estén plenamente justificadas y exista disponibilidad presupuestaria y financiera, para fortalecer su operación o para el desarrollo de nuevas metas y acciones. No obstante, cada Organismo Público deberá generar economías o ahorros para atender sus propias necesidades, debiendo contar con la autorización de la Secretaría.
 
 En el caso del Poder Judicial, será el Consejo de la Judicatura quien realizará lo conducente a efecto de solicitar las ampliaciones líquidas a su presupuesto.
 
@@ -5679,15 +5703,15 @@ Asimismo, determinará en forma expresa, previo análisis y mecanismos que estab
 
 Cuando algún servidor público adscrito a los Organismos Públicos del Ejecutivo fallezca, los familiares o quienes hayan vivido con él en la fecha de fallecimiento y se hagan cargo de los costos de inhumación, deben tramitar en el término máximo de un año, con documentación correspondiente ante la instancia facultada y/o en el lugar de adscripción, por concepto de pagas de defunción hasta el importe de cuatro meses del sueldo y demás prestaciones que estuviere percibiendo en esa fecha, independientemente de las demás a que tiene derecho, siempre y cuando la cantidad equivalente no exceda el importe de quinientos salarios mínimos vigentes.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 384.
 
 Los servidores públicos en servicio activo de los Organismos Públicos del Ejecutivo, tendrán derecho a percibir el pago de viáticos, cuando por el desempeño de una comisión oficial deban ausentarse de forma temporal de su lugar de adscripción por un tiempo mayor a 8 horas y que se trasladen a una distancia que exceda a los 50 Km. en el Estado, así como dentro o fuera del país.
 
-Cuando por comisión el personal deba trasladarse fuera de su lugar de adscripción, a una distancia que exceda a los 50 Km. y retornar una hora posterior a las 8 horas laborables, se podrán autorizar los recursos necesarios para su alimentación y transporte, por lo consiguiente deberán acreditar documentalmente dichos gastos, mismos que deben aplicarse a las partidas especificas de gasto que correspondan de acuerdo al Clasificador por Objeto del Gasto vigente.
+Cuando por comisión el personal deba trasladarse fuera de su lugar de adscripción, a una distancia que exceda a los 50 Km. y retornar una hora posterior a las 8 horas laborables, se podrán autorizar los recursos necesarios para su alimentación y transporte, por lo consiguiente deberán acreditar documentalmente dichos gastos, mismos que deben aplicarse a las partidas específicas de gasto que correspondan de acuerdo al Clasificador por Objeto del Gasto del Estado de Chiapas vigente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
-
-La asignación de viáticos y pasajes debe regirse por lo señalado en la normatividad correspondiente. La Secretaría y la Secretaría de la Honestidad y Función Pública, están facultadas para solicitar a los Organismos Públicos del Ejecutivo la presentación de información, para los efectos administrativos y legales a que haya lugar.
+La asignación de viáticos y pasajes debe regirse por lo señalado en las Normas y Tarifas para la aplicación de Viáticos y Pasajes para el Estado de Chiapas vigente. La Secretaría y la Secretaría de la Honestidad y Función Pública, están facultadas para solicitar a los Organismos Públicos del Ejecutivo la presentación de información, para los efectos administrativos y legales a que haya lugar.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
 
@@ -5797,7 +5821,7 @@ Artículo 389 B.- Los Organismos Públicos que cuenten con disponibilidades de r
 
 ### Capítulo VII. De las Transferencias, Asignaciones, Subsidios y Ayudas
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS FRACCIONES], P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 390.
 
@@ -5897,21 +5921,15 @@ IV. Ayudas: A las asignaciones que el Gobierno Estatal, otorga a diversos sector
 
 Se podrán otorgar subsidios a actividades prioritarias, cuando sean generales, de carácter temporal y no afecten las finanzas del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+El Gobernador del Estado, a través de la Secretaría determinará la forma y monto en que deben asignarse las transferencias, asignaciones, subsidios y ayudas, quienes reciban este recurso serán responsables de su administración, uso, destino y de la obtención de resultados, además proporcionarán toda la información y documentación comprobatoria que se les solicite sobre su correcta aplicación.
 
-El Gobernador del Estado, a través de la Secretaría determinará la forma y monto en que deben asignarse las transferencias, subsidios y ayudas, quienes reciban este recurso serán responsables de su administración, uso, destino y de la obtención de resultados, además proporcionarán toda la información y documentación comprobatoria que se les solicite sobre su correcta aplicación.
-
-Cuando las erogaciones por concepto de transferencias, subsidios y ayudas se realicen con cargo al Presupuesto de los Organismos Públicos, los titulares serán responsables de que se otorguen y ejerzan conforme a lo establecido en este Código y demás disposiciones aplicables.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+Cuando las erogaciones por concepto de transferencias, asignaciones, subsidios y ayudas se realicen con cargo al Presupuesto de los Organismos Públicos, los titulares serán responsables de que se otorguen y ejerzan conforme a lo establecido en este Código y demás disposiciones aplicables.
 
 Los Organismos Públicos publicarán en su respectiva página de Internet la información sobre los montos pagados durante el período por concepto de ayudas y subsidios a los sectores económicos y sociales, identificando el nombre del beneficiario, y en lo posible la Clave Única de Registro de Población, cuando el beneficiario sea persona física o el Registro Federal de Contribuyentes con homoclave cuando sea persona moral o persona física con actividad empresarial y profesional, y el monto recibido.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+Los Organismos Públicos que reciban recursos únicamente a través de transferencias y subsidios podrán, en su caso, desagregar sus registros internos a nivel de clave presupuestaria y en los sistemas informáticos correspondientes.
 
-Los Organismos Públicos que reciban recursos únicamente a través de transferencias y subsidios podrán, en su caso, desagregar sus registros internos a nivel de clave presupuestaria y en los sistemas correspondientes.
-
-La Secretaría está facultada para reducir, suspender o terminar las ministraciones de recursos por concepto de transferencias, subsidios y ayudas, cuando no se cumplan con los objetivos para los cuales fueron autorizados.
+La Secretaría está facultada para reducir, suspender o terminar las ministraciones de recursos por concepto de transferencias, asignaciones, subsidios y ayudas, cuando no se cumplan con los objetivos para los cuales fueron autorizados.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -6797,27 +6815,31 @@ De los ingresos que el Estado obtenga, por el cobro de indemnizaciones e interes
 
 La Contabilidad Gubernamental es la técnica que sustenta los sistemas de Contabilidad Gubernamental y que se utilizan para el registro de las transacciones que llevan a cabo los Organismos Públicos, expresados en términos monetarios, captando los diversos eventos económicos identificables y cuantificables que afectan los bienes e inversiones, las obligaciones y pasivos, así como el propio patrimonio, con el fin de generar información financiera que facilite la toma de decisiones y un apoyo confiable en la administración de los recursos públicos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-El sistema de Contabilidad Gubernamental, es el modelo contable sobre el cual opera la Contabilidad Gubernamental del Estado de Chiapas, integrado por los Subsistemas de Recaudación, Fondos Estatales, Deuda Pública y Egresos.
+El Sistema de Contabilidad Gubernamental, es el modelo contable sobre el cual opera la Contabilidad Gubernamental del Estado de Chiapas, integrado por los Subsistemas de Recaudación, Fondos Estatales, Deuda Pública y Egresos.
 
-Los Organismos Públicos deben registrar en el sistema respectivo, los documentos justificativos y comprobatorios que correspondan y demás información asociada a los momentos contables del gasto comprometido y devengado.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Los Organismos Públicos deben registrar en el sistema informático respectivo, los documentos justificativos y comprobatorios que correspondan y demás información asociada a los momentos contables del gasto comprometido y devengado.
 
 Para efectos de armonización, se estará a lo dispuesto en la Ley General de Contabilidad Gubernamental.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 475.
 
-El registro de las operaciones y la preparación de informes deben llevarse a cabo de acuerdo al manual de contabilidad gubernamental, a la normatividad contable y demás disposiciones que emita la Secretaría.
+El registro de las operaciones y la preparación de informes deben llevarse a cabo de acuerdo al Manual de Contabilidad Gubernamental, a la Normatividad Contable del Estado de Chiapas y demás disposiciones que emita la Secretaría.
 
 Los Organismos Públicos, deben llevar actualizado el registro contable de sus ingresos y egresos, con base en el método contable de lo devengado.
 
-Es responsabilidad de los titulares de los Organismos Públicos, la cancelación de saldos de cuentas contables de activos por considerarlos no recuperables o pasivos por improcedentes para su pago, previo procedimiento de depuración indicado en la normatividad respectiva.
+Es responsabilidad de los titulares de los Organismos Públicos, la cancelación de saldos de cuentas contables de activos por considerarlos no recuperables o pasivos por improcedentes para su pago, previo procedimiento de depuración indicado en la Normatividad Contable del Estado de Chiapas.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 476.
 
-La Secretaría para la armonización contable, determinará las directrices del sistema contable computarizado que utilizarán los Organismos Públicos para registrar y procesar los eventos contables que permitirán obtener información, toma de decisiones y rendición de cuentas.
+La Secretaría para la armonización contable, determinará las directrices del sistema informático que utilizarán los Organismos Públicos para registrar y procesar los eventos contables que permitirán obtener información, toma de decisiones y rendición de cuentas.
 
 ### Capítulo III. De la Consolidación
 
@@ -6841,9 +6863,11 @@ IV. Dentro del registro contable a que se refiere la fracción anterior, concent
 
 V. Coadyuvar con la fiscalización de los recursos públicos federales, conforme a lo establecido en la Ley de Fiscalización y Rendición de Cuentas de la Federación. Para ello, (sic) Auditoría Superior de la Federación verificará que los recursos federales que se reciban el Estado y los Municipios, se ejerzan conforme a los calendarios previstos y de acuerdo con las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 478.
 
-La Secretaría examinará periódicamente el funcionamiento del sistema contable, los procedimientos de registro y podrá autorizar sus modificaciones o simplificación.
+La Secretaría examinará periódicamente el funcionamiento del sistema informático en materia contable, los procedimientos de registro y podrá autorizar sus modificaciones o simplificación.
 
 ###### Artículo 479.
 
@@ -7164,5 +7188,13 @@ P.O. 14 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 017 DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS".]
 
 Artículo Primero.- El presente Decreto entrará en vigor a partir del día primero de enero de dos mil veintitrés.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 029 DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día primero de enero de dos mil veinticuatro.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
