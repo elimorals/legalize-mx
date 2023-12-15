@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-derechos-del-estado-de-chiapas-116191"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-18"
-last_updated: "2023-05-03"
+last_updated: "2023-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116191&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 LEY DE DERECHOS DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de mayo de 2016.
 
@@ -129,7 +129,11 @@ Tratándose de vehículos del servicio público estatal, el plazo para el pago d
 
 Cuando se trate del pago de derechos por control vehicular del servicio particular, por la adquisición de vehículos nuevos, éste podrá ser cubierto por los contribuyentes en las agencias distribuidoras de automóviles que tengan celebrado Convenio de Prestación de Servicios para la Recepción y Cobro de Contribuciones Estatales y Federales en Materia Vehicular con la Secretaría.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 8.
+
+Para realizar el pago de derechos relacionados con la prestación del servicio público de transporte del Estado, deberá presentar el interesado para su cobro, la autorización de orden de pago emitida por la autoridad de transporte competente del Estado.
 
 De efectuarse el pago de conceptos relativos a la expedición, revalidación o refrendo de permisos o autorizaciones para la prestación de un servicio público y licencias cuya vigencia lo requiera; esto no será condicionante para que la autoridad de la materia determine procedente la solicitud que el contribuyente realice, dado que la misma estará sujeta al cumplimiento de las disposiciones legales aplicables. En caso de que la autoridad competente no conceda la expedición, revalidación o el refrendo, las cantidades enteradas serán sujetas a devolución en los términos que previene el artículo 53 del Código de la Hacienda Pública para el Estado de Chiapas.
 
@@ -245,7 +249,9 @@ IV. Por las publicaciones oficiales que realice del Gobierno
 
 Federal y Gobierno Estatal, de Servicios Judiciales. $600.00
 
-V. Por las publicaciones Municipales. $1,100.00
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+V. Por las publicaciones Municipales. $1,150.00
 
 VI. Por la publicación de Convocatorias. $480.00
 
@@ -275,7 +281,7 @@ Quedan exceptuados del pago de derechos por publicaciones, las Dependencias y Ó
 
 #### Sección Segunda. Servicios que presta la Dirección de Registro Civil del Estado
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 21 Bis.
 
@@ -283,129 +289,157 @@ Por los servicios que presta la Dirección del Registro Civil del Estado, relati
 
 Servicio Tarifa
 
-I. De los nacimientos, reconocimiento y adopción:
+I. De los nacimientos, defunción y reposición:
 
-a) Por el registro de nacimiento por adopción plena o inscripción de
+a) Por el traslado a domicilio para el
 
-sentencia. $290.00
+registro de nacimiento. $900.00
 
-b) Por el registro de reconocimiento de hijos. $220.00
+b) Por los trámites administrativos para
 
-c) Por el registro de nacimiento a domicilio. $900.00
+los registros extemporáneos de nacimiento
 
-d) Por los trámites administrativos para los registros extemporáneos
+mayores de 18 años; los registros
 
-de nacimiento mayores de 18 años; los registros extemporáneos de
+extemporáneos de defunción; y por la
 
-defunción; y por la reposición de actas del estado civil. $370.00
+reposición de actas del estado civil. $370.00
 
 II. De los matrimonios:
 
-a) Por el registro de matrimonio en la oficialía, en días y horas
+a) Por el registro de matrimonio en
 
-hábiles. $1,500.00
+la oficialía, en días y horas hábiles. $1,700.00
 
-b) Por el registro de matrimonio en la oficialía, en días y horas
+b) Por el registro de matrimonio en
 
-inhábiles. $1,700.00
+la oficialía, en días y horas inhábiles. $1,900.00
 
-c) Por el registro de matrimonio a domicilio, en días y horas
+c) Por el registro de matrimonio a
 
-hábiles. $2,100.00
+domicilio, en días y horas hábiles. $2,500.00
 
-d) Por el registro de matrimonio a domicilio, en días y horas
+d) Por el registro de matrimonio a
 
-inhábiles. $3,100.00
+domicilio, en días y horas inhábiles. $3,500.00
 
-e) Por el registro de matrimonio a domicilio, fuera de la cabecera
+e) Por el registro de matrimonio a
 
-municipal, en días y horas hábiles. $3,300.00
+domicilio, fuera de la cabecera municipal,
 
-f) Por el registro de matrimonio a domicilio, fuera de la cabecera
+en días y horas hábiles. $3.800.00
 
-municipal, en días y horas inhábiles. $3,800.00
+f) Por el registro de matrimonio a
 
-g) Por el registro de matrimonios colectivos. $800.00
+domicilio, fuera de la cabecera municipal,
+
+en días y horas inhábiles. $4,200.00
+
+g) Por el registro de matrimonios colectivos. $900.00
 
 III. De los divorcios:
 
-a) Por el registro de divorcio administrativo. $3,500.00
+a) Por el registro de divorcio administrativo. $4,200.00
 
-b) Por el registro de divorcio judicial. $470.00
+b) Por el registro de divorcio judicial. $700.00
 
 IV. De los otros servicios:
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
+a) Por el trámite de aclaración de actas
 
-a) Por el trámite de aclaración de actas del registro del estado civil. $52.00
+del registro del estado civil. $52.00
 
-b) Por la expedición de certificadas de actas y/o constancias de
+b) Por la expedición de certificadas de actas
 
-inexistencia del estado civil, con datos concretos, mediante base
+y/o constancias de inexistencia del
 
-de datos o búsqueda manual. $110.00
+estado civil, con datos concretos, mediante
 
-c) Por la expedición de certificadas de actas y/o constancias de
+base de datos o búsqueda manual. $110.00
 
-inexistencia del estado civil, sin datos concretos, período de
+c) Por la expedición de certificadas de
 
-búsqueda manual hasta 5 años. $220.00
+actas y/o constancias de inexistencia del
 
-d) Por la expedición de certificadas de actas y/o constancias de
+estado civil, sin datos concretos,
 
-inexistencia del estado civil, sin datos concretos, período de
+período de búsqueda manual hasta 5 años. $220.00
 
-búsqueda manual de 5 hasta 15 años. $260.00
+d) Por la expedición de certificadas de
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
+actas y/o constancias de inexistencia
 
-e) Por la expedición de certificadas de actas y/o constancias
+del estado civil, sin datos concretos,
 
-de inexistencia del estado civil sin datos concretos, período
+período de búsqueda manual de 5 hasta 15 años. $260.00
 
-de búsqueda manual, de más de 15 años. $400.00
+e) Por la expedición de certificadas
 
-f) Por la expedición de copia certificada de nacimiento a través de
+de actas y/o constancias de inexistencia
 
-brigadas. $75.00
+del estado civil sin datos concretos,
 
-g) Por la expedición de constancia de inexistencia de actas de
+período de búsqueda manual, de más de 15 años. $400.00
 
-nacimiento por brigadas, búsqueda hasta 15 años. $190.00
+f) Por la expedición de copia certificada
 
-h) Por la expedición de constancias de extemporaneidad. $110.00
+de nacimiento a través de brigadas. $110.00
 
-i) Por la expedición de fotocopia certificada de actas del estado civil
+g) Por la expedición de constancia
+
+de inexistencia de actas de nacimiento
+
+por brigadas, búsqueda hasta 15 años. $190.00
+
+h) Por la expedición de constancias
+
+de extemporaneidad. $110.00
+
+i) Por la expedición de fotocopia
+
+certificada de actas del estado civil
 
 de libro original o duplicado. $110.00
 
-j) Por la certificación de fotocopias de resoluciones administrativas
+j) Por la certificación de
 
-de aclaración de actas; por anotación marginal o en anexo, en
+fotocopias de resoluciones administrativas
 
-razón de cambio de régimen matrimonial; por rectificación o
+de aclaración de actas; por anotación
 
-nulidad de actas; por certificación de documentos de apéndice de
+marginal o en anexo, en razón de cambio
 
-actas. $110.00
+de régimen matrimonial; por rectificación
 
-k) Por la inserción de actas del estado civil, adquirido por
+o nulidad de actas; por certificación de
 
-mexicanos en el extranjero. $550.00
+documentos de apéndice de actas. $110.00
 
-l) Por la inscripción de sentencias ejecutorias que declaren la
+k) Por la inserción de actas del
 
-ausencia, presunción de muerte, pérdida o limitación de la
+estado civil, adquirido por mexicanos
 
-capacidad legal para administrar bienes y tutela; y otras
+en el extranjero. $550.00
 
-sentencias judiciales. $470.00
+l) Por la inscripción de sentencias
 
-m) Por la certificación de resoluciones de registros extemporáneos
+ejecutorias que declaren la ausencia,
 
-del estado civil; reposición y expedición de constancia de trámite. $190.00
+presunción de muerte, pérdida o limitación
 
-El registro de nacimiento y la primera copia certificada del acta de registro de nacimiento que se realicen por las oficialías y por el Departamento de Brigadas se otorgará gratuitamente, lo anterior, de conformidad a lo establecido en el artículo 4º de la Constitución Política de los Estados Unidos Mexicanos. Así también, será gratuita la inserción de actas del estado civil adquirido por niñas, niños y adolescentes chiapanecos en el extranjero.
+de la capacidad legal para administrar
+
+bienes y tutela; y otras sentencias judiciales. $470.00
+
+m) Por la certificación de resoluciones
+
+de registros extemporáneos del estado
+
+civil; reposición y expedición de constancia
+
+de trámite. $190.00
+
+El registro de nacimiento y la primera copia certificada del acta de registro de nacimiento que se realicen por las oficialías se otorgará gratuitamente, lo anterior, de conformidad a lo establecido en el artículo 4° de la Constitución Política de los Estados Unidos Mexicanos. Así también, será gratuita la inserción de actas del estado civil adquirido por niñas, niños y adolescentes chiapanecos en el extranjero.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -1187,6 +1221,40 @@ Sistema de Registro Nacional de Avisos de Poderes. $600.00
 
 XIX. Por la Constancia de Verificación de Poderes. $550.00
 
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XX. Por la Inspección de Instrumentos
+
+Notariales del Protocolo de Notarios Públicos. $ 300.00
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXI. Habilitación de Aviso de Poderes
+
+en el Sistema del Registro Nacional
+
+de Avisos de Poderes (RENAT), para corrección. $ 250.00
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXII. Por la constancia de inexistencia
+
+de procedimientos administrativos en
+
+contra de Notarios Públicos, instaurados
+
+por la Dirección de Notarías del Estado. $ 550.00
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXIII. Por la seguridad, cuidado y
+
+resguardo de instrumentos Notariales
+
+que obren en el Archivo de Notarías,
+
+sujetos a inspección o peritajes. $ 550.00
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 #### Sección Quinta. Servicios que presta la Dirección de Catastro del Estado
@@ -1383,51 +1451,43 @@ b) Temáticos cartográficos especiales, impresos con
 
 niveles de información extra. $10.00
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-IX. Por la certificación de planos topográficos
+IX. Por la certificación de planos topográficos presentados incluyendo verificación de campo:
 
-presentados incluyendo verificación de campo:
+a) Hasta cinco hectáreas. $1,200.00
 
-a) Hasta cinco hectáreas. $950.00
+b) Mayor de cinco hasta diez hectáreas. $2,300.00
 
-b) Mayor de cinco hasta diez hectáreas. $1,900.00
+c) Mayor de diez hasta veinte hectáreas. $3,300.00
 
-c) Por cada hectárea o fracción adicional, después de
+d) Mayor de veinte hasta cuarenta hectáreas. $5,300.00
 
-diez. $75.00
+e) Mayor de cuarenta, se cobrará por
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
+hectárea o fracción adicional. $100.00
 
-X. Por el levantamiento con equipo topográfico y
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-elaboración de planos correspondientes
+X. Por el levantamiento con equipo topográfico y elaboración de planos correspondientes
 
-a) Hasta una hectárea $1,100.00
+a) Hasta una hectárea. $1,300.00
 
-b) Mayor de una hasta cinco hectáreas. $2,200.00
+b) Mayor de una hasta cinco hectáreas. $2,700.00
 
-c) Mayor de cinco hasta diez hectáreas. $3,000.00
+c) Mayor de cinco hasta diez hectáreas. $3,600.00
 
-d) Mayor de diez hasta veinte hectáreas. $4,400.00
+d) Mayor de diez hasta veinte hectáreas. $5,300.00
 
-e) Mayor de veinte hasta cuarenta hectáreas. $7,500.00
+e) Mayor de veinte hasta cuarenta hectáreas. $9,000.00
 
-f) Mayor de cuarenta, se cobrará por hectárea o
+f) Mayor de cuarenta, se cobrará por
 
-fracción adicional. $220.00
+hectárea o fracción adicional. $270.00
 
-El levantamiento con curvas de nivel implicará un costo
+El levantamiento con curvas de nivel implicará un costo adicional del 50%, siempre y cuando la equidistancia entre curvas de nivel, sea de un metro o superior al metro.
 
-adicional del 50%.
-
-Los gastos de traslado y estancia del personal corren
-
-a cargo del solicitante del levantamiento, el personal que
-
-ejecuta el trabajo no realiza las labores de limpia de callejones
-
-o linderos.
+Los gastos de traslado y estancia del personal corren a cargo del solicitante del levantamiento, el personal que ejecuta el trabajo no realiza las labores de limpia de callejones o linderos.
 
 > <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1457,13 +1517,15 @@ que ejecuta el trabajo no realiza las labores de limpia de
 
 callejones o linderos.
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-XII. Por la información de coordenadas geográficas de
+XII. Por la información de
 
-puntos monumentados de la red geodésica estatal por
+coordenadas geográficas de puntos
 
-punto. $150.00
+monumentados de la red geodésica estatal
+
+por punto. $200.00
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1473,27 +1535,23 @@ GPS, por punto, sin incluir la construcción del
 
 monumento. $1,500.00
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-XIV. Por el registro catastral de fusión de predios y
-
-expedición de cédula catastral:
+XIV. Por el registro catastral de fusión de predios:
 
 a) Urbano:
 
 1. De dos hasta cinco. $600.00
 
-2. De seis en adelante $1,500.00
+2. De seis en adelante. $1,500.00
 
-b) Rústico, por cada predio fusionado. $150.00
+b) Rústico, por cada predio fusionado. $200.00
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-XV. Por el registro de cada lote resultante de la
+XV. Por el registro de cada lote
 
-subdivisión de un predio y expedición de cédula
-
-catastral. $440.00
+resultante de la subdivisión de un predio. $440.00
 
 XVI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2020)
 
@@ -1609,73 +1667,79 @@ del servicio, el personal no realiza labores de limpia de
 
 callejones o linderos ni la construcción del monumento.
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAGO], P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-XXIV. Por la verificación de levantamiento topográfico
+XXIV. Por la verificación de levantamiento topográfico (planimétricos) efectuados por peritos topógrafos catastrales autorizados, se cobrará de acuerdo a lo siguiente:
 
-(planimétricos) efectuados por peritos topógrafos y/o
-
-geomáticos autorizados, se cobrará de acuerdo a lo
-
-siguiente:
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 a) Hasta por una hectárea. $165.00
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 b) Mayor de una hasta cinco hectáreas. $330.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 c) Mayor de cinco hasta diez hectáreas. $450.00
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 d) Mayor de diez hasta veinte hectáreas. $660.00
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 e) Mayor de veinte hasta cuarenta hectáreas. $1,125.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 f) Mayor de cuarenta, se cobrará por hectárea o
 
 fracción adicional. $30.00
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-XXV. Por la verificación de levantamientos topográficos
+XXV. Por la verificación de levantamientos topográficos (altimétricos curvas de nivel), efectuados por peritos topógrafos catastrales autorizados, se cobrará de acuerdo a lo siguiente:
 
-(altimétricos curvas de nivel), efectuados por peritos
-
-topógrafos y/o geomáticos autorizados, se cobrará de
-
-acuerdo a lo siguiente:
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 a) Hasta por una hectárea. $165.00
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 b) Mayor de una hasta cinco hectáreas. $330.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 c) Mayor de cinco hasta diez hectáreas. $450.00
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 d) Mayor de diez hasta veinte hectáreas. $660.00
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 e) Mayor de veinte hasta cuarenta hectáreas. $1,125.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 f) Mayor de cuarenta, se cobrará por hectárea o
 
 fracción adicional. $15.00
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
+XXVI. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2023)
 
-XXVI. Por la verificación de línea de control azimutal
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-(LCA), efectuados por peritos topógrafos y/o geomáticos
+XXVII. Por la verificación del
 
-autorizados, se cobrará de acuerdo a lo siguiente:
+establecimiento de puntos GPS,
 
-a) Local. $900.00
+efectuados por peritos topógrafos
 
-b) Foránea. $1,100.00
+catastrales autorizados, se cobrará
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-XXVII. Por la verificación del establecimiento de
-
-puntos GPS, efectuados por peritos topógrafos y/o
-
-geomáticos autorizados, se cobrará por punto: $250.00
+por punto: $250.00
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1755,11 +1819,11 @@ anterior derivado que, en estos casos la asignación de clave catastral,
 
 es de manera masiva.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-XXXIII. Por Actualización y/o cambio de Propietario,
+XXXIII. Por Actualización y/o cambio
 
-por predio. $220.00
+de Propietario o Poseedor, por predio. $220.00
 
 > <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 14 DE DICIEMBRE DE 2022)</small>
 
@@ -1793,11 +1857,11 @@ ante la Dirección de Catastro del Estado, para estar
 
 en condiciones de otorgar el servicio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 21 Nonies.
 
-Por los servicios de autorización y registro de licencias para peritos valuadores que preste la Dirección de Catastro del Estado, se causarán y pagarán, por cada especialidad, los siguientes derechos:
+Por los servicios de autorización y registro para peritos valuadores que preste la Dirección de Catastro del Estado, se causarán y pagarán, por cada especialidad, los siguientes derechos:
 
 Servicio Tarifa
 
@@ -1825,39 +1889,29 @@ IV. Por la aplicación de examen a aspirantes
 
 a perito valuador. $600.00
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 21 Decies.
 
-Para el registro en el padrón del Catastro del Estado, como ingeniero topógrafo en cualquiera de sus especialidades así como ingenieros en geomática, para realizar levantamientos topográficos con fines catastrales, causarán y pagarán los siguientes derechos:
+Para el registro en el padrón del Catastro del Estado, como ingeniero topógrafo catastral, en cualquiera de sus especialidades, para realizar levantamientos topográficos, causarán y pagarán los siguientes derechos:
 
-Servicio Tarifa
+Servicios Tarifa
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2022)</small>
+I. Autorización y registro definitivo
 
-I. Autorización y registro de licencia definitiva
+para perito topógrafo catastral. $4,400.00
 
-para perito topógrafo y/o geomático catastral. $4,400.00
+II. Por la revalidación anual del
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+registro para perito topógrafo catastral. $3,700.00
 
-II. Por la revalidación anual del registro. $3,700.00
+III. Por la aplicación de examen a
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+aspirantes para perito topógrafo catastral. $600.00
 
-III. Por la aplicación de examen a aspirantes para
+IV. Autorización y registro provisional
 
-estar inscritos en el padrón de profesionistas
-
-especializados en materia de levantamientos
-
-topográficos catastrales. $600.00
-
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2022)</small>
-
-IV. Autorización y registro de licencia provisional
-
-para perito topógrafo y/o geomático catastral. $2,600.00
+para perito topógrafo catastral. $2,600.00
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2119,7 +2173,7 @@ Por los servicios que presta la Dirección de Obligaciones Fiscales y Retencione
 
 Servicio Tarifa
 
-I. Por la expedición de constancia de Liquidez salarial. $110.00
+I. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2023)
 
 II. Por los servicios que presta la Dirección de
 
@@ -2151,41 +2205,33 @@ realizadas en las áreas de recaudación o vía internet,
 
 por cada recibo oficial o comprobante de pago. $480.00
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
 II. Por la cancelación de:
 
 a) Recibo oficial de pago por causas
 
-imputables al usuario. $75.00
+imputables al usuario. $50.00
 
-No se causará el derecho cuando el motivo
+No se causará el derecho cuando el motivo de la cancelación obedezca a cuestiones ajenas a la voluntad de quien efectúa el cobro del servicio. En este caso deberá constar dicha circunstancia en acta de hechos levantada por el área de recaudación con autorización del titular de la Delegación de Hacienda.
 
-de la cancelación obedezca a cuestiones
+b) Formas Oficiales Valoradas y Formas
 
-ajenas a la voluntad de quien efectúa el
+Oficiales de Reproducción Restringidas
 
-cobro del servicio. En este caso deberá constar
+que utilicen las Dependencias y
 
-dicha circunstancia en acta de hechos levantada
+Entidades de la Administración Pública
 
-por el área de recaudación con autorización
-
-del titular de la Delegación de Hacienda.
-
-b) Formas Oficiales Valoradas y Formas Oficiales
-
-de Reproducción Restringidas que utilicen las
-
-Dependencias y Entidades de la Administración
-
-Pública del Estado y el Poder Judicial, cuya
+del Estado y el Poder Judicial, cuya
 
 cancelación sea imputable al prestador
 
-del servicio o contribuyente por falta de pericia,
+del servicio o contribuyente por falta
 
-imprudencia, descuido o negligencia, por
+de pericia, imprudencia, descuido o
 
-cada efecto valorado. $80.00
+negligencia, por cada efecto valorado. $60.00
 
 III. Por los trámites del permiso para
 
@@ -3435,6 +3481,10 @@ b) Del estado que guarda el expediente de
 
 solicitud de concesión o permiso. $500.00
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+c) De permiso $500.00
+
 III. Por certificación de documentos excepto
 
 títulos de concesión o permiso hasta 20 hojas. $480.00
@@ -3483,7 +3533,9 @@ a) Por expedición de permiso, por vehículo. $5,000.00
 
 b) Por reposición de permiso. $2,500.00
 
-c) Por renovación de permiso. $1,000.00
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+c) Por renovación de permiso por vehículo. $1,000.00
 
 VII. Por permiso para el servicio público de
 
@@ -3497,15 +3549,19 @@ b) Por reposición de permiso. $2,500.00
 
 c) Por renovación de permiso, por vehículo. $1,000.00
 
-VIII. Por expedición del título de concesión
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-derivado de regularización por cambio de
+VIII. Por expedición del título de
 
-modalidad o tipo, cambio de adscripción,
+concesión derivado de regularización por
 
-corrección de datos, ampliación del número de
+cambio de modalidad o tipo, cambio de
 
-vehículos o disgregación, por vehículo. $5,000.00
+adscripción, corrección de datos,
+
+ampliación de vehículos o disgregación
+
+por vehículo segregado. 5,000.00
 
 IX. Por concesión para el servicio público de
 
@@ -3535,19 +3591,21 @@ b) Por reposición de permiso. $2,500.00
 
 c) Por renovación de permiso, por vehículo. $1,000.00
 
-XI. Por integración de expediente de regularización
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-de concesión por cesión de derechos entre particulares,
+XI. Por integración de expediente de
 
-transmisión de derechos por muerte o incapacidad
+regularización de concesión por
 
-física o mental permanente del titular, cambio de
+cesión de derechos entre particulares,
 
-modalidad o tipo, cambio de adscripción, corrección
+transmisión de derechos por muerte o
 
-de datos, ampliación del número de vehículos
+incapacidad física o mental permanente
 
-o disgregación. $500.00
+del titular, cambio de modalidad o tipo,
+
+cambio de adscripción o disgregación. $650.00
 
 XII. Por expedición de título, derivado de la
 
@@ -3813,6 +3871,26 @@ automotores concesionarios o permisionarios
 
 del Estado. $3,000.00
 
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XVIII. Por la expedición de la constancia
+
+de autorización de zona para el servicio
+
+público de transporte en vehículos
+
+denominados mototaxis. $300.00
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XIX. Por la renovación anual de la
+
+constancia de autorización de zona
+
+para el servicio público de transporte
+
+en vehículos denominados mototaxis. $200.00
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 #### Sección Tercera. Servicios que presta la Dirección de Proyectos Estratégicos y Capacitación Integral al Sector
@@ -3914,6 +3992,10 @@ I. Por la expedición de la Constancia
 de Autorización para operar el Sistema
 
 Integrado de Transporte. $15,000.00
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+II. Por la expedición de Dictamen de Movilidad. $3,000.00
 
 ### Capítulo VII. Derechos por los Servicios que Presta la Secretaría de Educación
 
@@ -4207,9 +4289,15 @@ d) Trámite Extemporáneo (sic) capacitación
 
 para el trabajo. $21,000.00
 
-e) Trámite Extemporáneo básico,
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-medio superior y superior. $36,600.00
+e) Trámite Extemporáneo básico, medio superior. $36,600.00
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXVI. Por copia certificada de expedientes
+
+que obren en el archivo. $480.00
 
 ###### Artículo 40.
 
@@ -4837,17 +4925,15 @@ IV. Por el servicio de vigilancia, inspección y control que las leyes de la mat
 
 Los órganos ejecutores de obras públicas al hacer el pago de las estimaciones de obra, retendrán el importe del derecho al que se refiere el párrafo anterior. Los recursos que se implican en la ejecución de las obras a que se refiere el párrafo primero de la presente fracción, son aquellos que por su origen se consideren distintos a los federales.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-V. Por la expedición de copias certificadas de
+V. Por la certificación de documentos
 
-documentos que se encuentren en los archivos
+que se encuentren en los archivos de la
 
-de la Secretaría de la Honestidad y Función
+Secretaría de la Honestidad y
 
-Pública, hasta 20 hojas. $500.00
-
-Por hoja adicional se cobrará. $5.00
+Función Pública. $500.00
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -5191,19 +5277,9 @@ protección civil (costo por persona). $14,300.00
 
 XVII. Por el traslado urbano. $1,330.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+XVIII. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2023)
 
-XVIII. Por la unidad especializada pre-hospitalaria para eventos
-
-socio-organizativos con fines de lucro (por hora de unidad). $2,550.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
-
-XIX. Por la unidad especializada para rescate, combate y prevención
-
-de incendios para eventos socio-organizativos con fines de lucro
-
-(por hora de unidad). $2,550.00
+XIX. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2023)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -5225,7 +5301,7 @@ asociaciones privadas y del sector social. $1,200.00
 
 ### Capítulo XII. Derechos por los servicios que presta el Instituto de Ciencia, Tecnología e Innovación del Estado de Chiapas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 47 Bis.
 
@@ -5233,79 +5309,77 @@ Por los servicios que presta la Dirección de Infraestructura Tecnológica, se c
 
 Servicios Tarifa
 
-I. Para el Uso de Servicios Digitales de Certificación y
+I. Para el Uso de Servicios Digitales de
 
-Encriptación por documento. $220.00
+Certificación y Encriptación por documento. $200.00
 
-II. Para el Uso de Infraestructura Tecnológica y Comunicaciones del Data Center Virtual, renta mensual Incluye:
+II. Para el Uso de Infraestructura Tecnológica y Comunicaciones del Data Center Virtual, renta mensual
 
-a) Hosting WEB con acceso VPN, incluye Subdominio
+Incluye:
 
-chiapas.gob.mx y un análisis de vulnerabilidades:
+a) Hosting WEB con acceso VPN, incluye Subdominio chiapas.gob.mx:
 
-1. Básico (Hosting Linux, Base de Datos MySQL,
+1. Básico (Hosting Linux, Base de Datos
 
-Almacenamiento 5 Gb y Seguridad Informática). $190.00
+MySQL, Almacenamiento hasta 5 Gb). $190.00
 
-2. Económico (Hosting Linux, Base de Datos MySQL,
+2. Económico (Hosting Linux, Base de Datos
 
-Almacenamiento 10 Gb, Seguridad Informática, Monitoreo y
+MySQL, Almacenamiento hasta 10 Gb,
 
-Respaldo). $280.00
+Monitoreo y Respaldo de Base de Datos). $280.00
 
-3. PRO (Hosting Linux, Base de Datos MySQL, Almacenamiento
+3. PRO (Hosting Linux, Base de Datos MySQL,
 
-25 Gb, Seguridad Informática, Monitoreo, Respaldo y
+Almacenamiento hasta 25 Gb, Monitoreo,
 
-Asesorías). $360.00
+Respaldo de Base de Datos y del
 
-b) Servidores Virtuales con Acceso Internet/VPN, VLAN Pública 1,
+contenido del proyecto). $360.00
 
-VLAN Local 1, Seguridad Backup (MV):
+4. PLUS (Hosting Linux, Base de Datos
+
+MySQL, Almacenamiento hasta 50 Gb,
+
+Monitoreo, Asesoría Básica, Respaldo de
+
+Base de Datos y del contenido del proyecto). $600.00
+
+b) Servidores Virtuales con Acceso Internet/VPN, VLAN Pública 1, VLAN Local 1, Seguridad Backup (MV):
 
 1. Servidores LINUX:
 
-1.1 2vcpu - 4GbRam $703.00
+1.1 2vcpu - 4GbRam 200GB HDD $703.00
 
-1.2 2vcpu - 8GbRam $1,550.00
+1.2 4vcpu - 4GbRam 300GB HDD $850.00
 
-1.3 2vcpu - 16GbRam $2,057.00
+1.3 2vcpu - 8GbRam 450GB HDD $1,000.00
 
-1.4 4vcpu - 16GbRam $3,100.00
+1.4 4vcpu - 8GbRam 600GB HDD $1,550.00
 
-1.5 8vcpu - 32GbRam $6,200.00
+1.5 2vcpu - 16GbRam 750GB HDD $2,057.00
+
+1.6 4vcpu - 16GbRam 900GB HDD $3,100.00
+
+1.7 8vcpu - 16GbRam 1.0TB HDD $4,500.00
+
+1.8 8vcpu - 32GbRam 1.5TB HDD $6,200.00
 
 2. Servidores WINDOWS:
 
-2.1 2vcpu - 4GbRam $816.00
+2.1 2vcpu - 4GbRam 200GB HDD $816.00
 
-2.2 2vcpu - 8GbRam $2,973.00
+2.2 4vcpu - 4GbRam 300GB HDD $990.00
 
-2.3 4vcpu - 16GbRam $5,946.00
+2.3 2vcpu - 8GbRam 450GB HDD $1,800.00
 
-2.4 8vcpu - 32GbRam $11,905.00
+2.4 4vcpu - 8GbRam 600GB HDD $2,973.00
 
-c) Red de Información Gubernamental:
+2.5 4vcpu - 16GbRam 900GB HDD $5,946.00
 
-1. Administrador RIG. $1,000.00
+2.6 8vcpu - 16GbRam 1.0TB HDD $8,600.00
 
-2. Mantenimiento RIG. $1,000.00
-
-d) PBX Virtual:
-
-1. Teléfonos IP básicos. $300.00
-
-2. Switch POE 24 Puertos. $500.00
-
-3. Switch POE 48 Puertos. $800.00
-
-4. Administración PBX Virtual. $1,000.00
-
-5. Instalación del PBX Virtual. $2,000.00
-
-e) Plataforma de videoconferencias Básico
-
-para Aulas y conferencias virtuales $250.00
+2.7 8vcpu - 32GbRam 1.5TB HDD $11,905.00
 
 > <small>(REFORMADO [N. DE E. ANTES CAPÍTULO XII], P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -5389,15 +5463,19 @@ Por los servicios que presta la Fiscalía General del Estado, se causarán y pag
 
 Servicios Tarifa
 
-I. Por el derecho de expedición de constancia
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-que realiza la Fiscalía General del Estado,
+I. Por el derecho de expedición de
 
-para conocer la situación legal de vehículos,
+constancia que realiza la Fiscalía General
 
-en los Sistemas Nacional y Estatal de
+del Estado, para conocer la situación
 
-Vehículos Robados y Recuperados. $110.00
+legal de vehículos, en los Sistemas
+
+Nacional y Estatal de Vehículos Robados
+
+y Recuperados. $200.00
 
 > <small>(ADICIONADO [N. DE E. REUBICADO ANTES CAPÍTULO XIV], P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -5538,5 +5616,13 @@ P.O. 3 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 185 DECRETO POR EL QUE SE DEROGA EL ARTÍCULO 52 DE LA LEY DE DERECHOS DEL ESTADO DE CHIAPAS".]
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2023.
+
+[N. DE TRANSITORIOS DEL “DECRETO NO. 028 DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día primero de enero de dos mil veinticuatro.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
