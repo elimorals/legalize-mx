@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-etica-de-la-entidad-superior-de-fiscalizacion-del-839
 country: "mx"
 rank: "codigo"
 publication_date: "2011-11-18"
-last_updated: "2011-11-18"
+last_updated: "2023-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # CODIGO DE ETICA DE LA ENTIDAD SUPERIOR DE FISCALIZACION DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DE LA ENTIDAD SUPERIOR DE FISCALIZACIÓN DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 15 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LA ENTIDAD SUPERIOR DE FISCALIZACIÓN DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2023 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el viernes 18 de noviembre de 2011.
 
@@ -358,3 +360,17 @@ C. P. RAFAEL CASTILLO VANDENPEEREBOOM
 AUDITOR SUPERIOR DEL ESTADO
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DE LA ENTIDAD SUPERIOR DE FISCALIZACIÓN DEL ESTADO DE QUERÉTARO”.]
+
+Primero. El presente Código de Ética entrará en vigor, y por tanto, será exigible su cumplimiento a todos los servidores públicos de la ESFE, a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Segundo. Se abroga el Código de Ética de la Entidad Superior de Fiscalización del Estado de Querétaro publicado en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, el 18 de noviembre de 2011, así como todas aquellas disposiciones que se opongan a lo previsto en el presente Código.
+
+Tercero. El CEESFE por conducto del OIC, dará a conocer a todos los servidores públicos que actualmente laboran en la ESFE, el contenido del presente Código de Ética para efectos de su conocimiento y debida observancia.
+
+Cuarto. Se ordena notificar al OIC de la aprobación del presente Código de Ética, para efectos de su debida y oportuna intervención en los términos previstos en dicho instrumento, debiendo realizar las verificaciones necesarias para que se dé cumplimiento a lo dispuesto en el mismo.
