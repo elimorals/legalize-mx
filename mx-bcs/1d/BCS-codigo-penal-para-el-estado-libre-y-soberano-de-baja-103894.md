@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2023-11-20"
+last_updated: "2023-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE DICIEMBRE DE 2023.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -1511,6 +1511,8 @@ Punibilidad específica. Si de la comisión de alguno de los delitos previstos e
 
 ### CAPÍTULO II. PELIGRO DE CONTAGIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 164.
 
 Omisión de auxilio. A quien abandone a una persona que no tenga capacidad para valerse por sí misma, teniendo la obligación de cuidarla, se le impondrán de seis meses a dos años de prisión y multa de cincuenta a doscientos días. Si el sujeto activo fuese ascendiente o tutor del sujeto pasivo se le impondrá además la perdida de los derechos derivados de la patria potestad o la tutela así como los derechos sucesorios en relación con la víctima.
@@ -1553,7 +1555,7 @@ Requisitos de Procedibilidad y Pena Adicional. Tratándose de Personas Adultas M
 
 ###### Artículo 168.
 
-Peligro de contagio. A quien con conocimiento de que padece una enfermedad grave y transmisible, ponga en peligro de contagio la salud de otro, por relaciones sexuales u otro medio transmisible, siempre que la víctima no tenga conocimiento de esa circunstancia, se le impondrán de uno a cuatro años de prisión y multa de cincuenta a trescientos días. Si la enfermedad fuera incurable se le impondrá al sujeto de dos a diez años de prisión.
+Peligro de contagio. A quien con conocimiento de que padece una enfermedad grave y transmisible, ponga en peligro de contagio la salud de alguien, por cualquier medio transmisible, siempre que la víctima no tenga conocimiento de esa circunstancia, se le impondrá de uno a cuatro años de prisión y multa de cincuenta a trescientos días. Si la enfermedad fuera incurable la pena que se impondrá será de dos a diez años de prisión.
 
 Este delito se perseguirá por querella de la víctima u ofendido.
 
@@ -4784,3 +4786,11 @@ B.O. 20 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 2991 SE REFORMA EL ARTÍCULO 288 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
 
 ÚNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 15 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3004 SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 168 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El Presente Decreto entrará en vigor, el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
