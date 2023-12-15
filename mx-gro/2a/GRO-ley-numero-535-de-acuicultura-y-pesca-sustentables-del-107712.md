@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-535-de-acuicultura-y-pesca-sustentables-del-107712"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-16"
-last_updated: "2020-04-14"
+last_updated: "2023-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107712&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 535 DE ACUICULTURA Y PESCA SUSTENTABLES DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Alcance II del Periódico Oficial del Estado de Guerrero, el martes 16 de diciembre de 2014.
 
@@ -133,7 +133,9 @@ XIX. GUÍA DE PESCA: Es el documento que ampara el transporte por vía terrestre
 
 XX. INOCUIDAD: Es la garantía que los recursos pesqueros y acuícolas no causan daño en la salud de los consumidores;
 
-XXI. LABORATORIO DE PRUEBA: Persona física o moral acreditada de acuerdo a lo establecido por la Ley Federal de Metrología y Normalización y aprobada por la SAGARPA para prestar servicios relacionados con las pruebas o análisis para determinar la presencia o ausencia de una enfermedad de organismos acuáticos o para realizar servicios de constatación de contaminantes;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXI. LABORATORIO DE PRUEBA: Persona física o moral acreditada de acuerdo a lo establecido por la Ley Federal de Metrología y Normalización y aprobada por la SADER para prestar servicios relacionados con las pruebas o análisis para determinar la presencia o ausencia de una enfermedad de organismos acuáticos o para realizar servicios de constatación de contaminantes;
 
 XXII. LABORATORIO DE PRODUCCIÓN: El conjunto de instalaciones donde se proporcionan servicios de reproducción y mejoramiento genético de recursos acuícolas;
 
@@ -143,7 +145,9 @@ XXIV. LEY GENERAL: La Ley General de Pesca y Acuacultura Sustentables;
 
 XXV. NORMA OFICIAL MEXICANA: La disposición técnica de observancia obligatoria expedida por la autoridad federal competente conforme al procedimiento y términos previstos por la Ley Federal sobre Metrología y Normalización;
 
-XXVI. OASA. Organismo Auxiliar de Sanidad Acuícola, constituido por asociaciones de productores, autorizado por el SENASICA, coadyuvante de la SAGARPA;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXVI. OASA. Organismo Auxiliar de Sanidad Acuícola, constituido por asociaciones de productores, autorizado por el SECASICA, coadyuvante de la SADER;
 
 XXVII. ORGANISMO DE COADYUVANCIA. Organismo auxiliar, constituido por asociaciones de productores o profesionistas, autorizado por la Secretaría;
 
@@ -179,7 +183,9 @@ XLII. PLAN DE MANEJO PESQUERO: El instrumento rector de planeación y regulació
 
 XLIII. PUNTO DE VERIFICACIÓN E INSPECCIÓN INTERNA (PVI): Sitio autorizado por la Secretaría, ubicado en las vías terrestres de comunicación del Estado, que permiten controlar el tránsito, la entrada o salida de mercancías reguladas, que de acuerdo con las disposiciones de sanidad acuícola aplicables deban inspeccionarse o verificarse; así como sus productos y subproductos, los productos biológicos o químicos para uso en la acuicultura, para el control de su movilización de una zona a otra;
 
-XLIV. PUNTO DE VERIFICACIÓN E INSPECCIÓN FEDERAL (PVIF): Aquellos que conforman los cordones cuarentenarios sanitarios instalados en las vías de comunicación y límites del Estado autorizado por la SAGARPA, para constatar el cumplimiento de esta Ley y las Normas Oficiales Mexicanas en la materia;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XLIV. PUNTO DE VERIFICACIÓN E ISPECCIÓN FEDERAL (PVIF): Aquellos que conforman los cordones cuarentenarios sanitarios instalados en las vías de comunicación y límites del Estado autorizado por la SADER, para constatar el cumplimiento de esta Ley y las Normas Oficiales Mexicanas en la materia;
 
 XLV. RECURSOS ACUÍCOLAS: Las especies acuáticas susceptibles de cultivo, sus productos y subproductos;
 
@@ -193,9 +199,13 @@ XLIX. RIESGO SANITARIO: La probabilidad de introducir, establecer o diseminar un
 
 L. SANIDAD ACUÍCOLA: Es el conjunto de prácticas y medidas establecidas en normas oficiales, acuerdos y demás disposiciones oficiales en la materia, encaminadas a la prevención, diagnóstico, control y erradicación de las enfermedades que afectan a los organismos acuáticos;
 
-LI. SANITIZACIÓN: La aplicación de sustancias químicas autorizadas por la SAGARPA, a los recursos pesqueros o acuícolas, así como a las instalaciones, equipos y medios de transporte en los que dichos recursos se encuentren o movilicen, con el fin de evitar el desarrollo de microorganismos causantes de enfermedades o reducir el número de éstos cuando se advierta su presencia por encima del nivel considerado seguro;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-LII. SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+LI. SANITIZACIÓN: La aplicación de sustancias químicas autorizadas por la SADER, a los recursos pesqueros o acuícolas, así como a las instalaciones, equipos y medios de transporte en los que dichos recursos se encuentren o movilicen, con el fin de evitar el desarrollo de microorganismos causantes de enfermedades o reducir el número de éstos cuando se advierta su presencia por encima del nivel considerado seguro;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+LII. SADER: Secretaría de Agricultura y Desarrollo Rural;
 
 LIII. SENASICA: Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria;
 
@@ -214,6 +224,18 @@ LIX. VEDA: Acto administrativo por el que se prohíbe la pesca en un período o 
 LX. VERIFICACIÓN SANITARIA: Las acciones que lleva a cabo la Secretaría para constatar que los recursos pesqueros o acuícolas y las instalaciones, equipos y medios de transportes en los que se producen, capturan o movilicen cumplen con las disposiciones legales aplicables en materia de sanidad, y
 
 LXI. ZONA DE ESCASA PREVALENCIA: Área geográfica determinada en donde se presenta una frecuencia mínima de casos recientes de una enfermedad en especies acuáticas, en una especie y período específicos;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+LXII. PESCA ILEGAL: Es la que se realiza en aguas bajo la jurisdicción del Estado, sin el permiso de este o contraviniendo su legislación, violando las leyes u obligaciones;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+LXIII. PESCA NO DECLARADA: Es cuando no ha sido informada, o ha sido informada de modo inexacto, a la autoridad competente, y
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+LXIV. PESCA NO REGLAMENTADA: Es cuando no está en consonancia con las medidas de conversación y ordenación de los recursos marinos vivos en virtud de la normatividad aplicable;
 
 ### CAPÍTULO III. DE LAS AUTORIDADES EN MATERIA DE ACUICULTURA Y PESCA
 
@@ -297,13 +319,17 @@ IV. Fomentar la organización del sector acuícola y pesquero en el Estado, para
 
 V. Impulsar, con el apoyo técnico necesario, la constitución de sociedades de producción pesquera, asociaciones, cooperativas, uniones de pescadores y acuicultores, así como fomentar el establecimiento de sociedades de consumo de productos acuícolas y pesqueros, y procurar su adecuado financiamiento;
 
-VI. Fomentar y apoyar entre los pescadores el uso de artes de pesca selectivos y ambientalmente seguros para dar sustentabilidad a esta actividad;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+VI. Fomentar y apoyar entre los pescadores el uso de artes de pesca selectivos y ambientalmente seguros para dar sustentabilidad a esta actividad, mediante el apoyo a programas de sustitución y modernización de las mismas;
 
 VII. Establecer los períodos de pesca y veda, de siembra y cosecha para el cultivo y producción de especies acuáticas; de acuerdo a las condiciones técnicas y naturales de las zonas de veda, captura, cultivo y recolección;
 
 VIII. Otorgar los permisos para las actividades de pesca y acuicultura, así como las demás autorizaciones previstas en esta ley; revalidarlos y, en su caso, revocarlos;
 
-IX. Promover el aprovechamiento integral, responsable y sustentable de las especies de flora y fauna acuáticas;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+IX. Promover el aprovechamiento integral, responsable y sustentable de las especies de flora y fauna acuáticas, mediante programas de concientización a pescadores y prestadores de servicio;
 
 X. Dictar medidas y coadyuvar con el gobierno federal en la vigilancia para el cumplimiento de las disposiciones en materia de sanidad acuícola, aplicando las acciones necesarias para preservar y mejorar la condición sanitaria de una región y del Estado;
 
@@ -313,7 +339,9 @@ XII. Dictar, de conformidad con las normas oficiales aplicables, acuerdos y dem�
 
 XIII. Aplicar las disposiciones establecidas en el combate contra las enfermedades específicas de las especies acuícolas, tomando las medidas necesarias para el establecimiento de cuarentenas en zonas infectadas, delimitaciones de los cordones sanitarios y aquellas tendientes a la vigilancia debida, para aislar los riesgos sanitarios que representen, de conformidad con las normas federales, acuerdos y demás disposiciones al respecto;
 
-XIV. Coadyuvar con la SAGARPA, en las acciones o dispositivos de emergencia en sanidad acuícola; además en la aplicación urgente y coordinada con las instituciones de los gobiernos federal, estatal y municipal, para establecer las medidas de seguridad que deban aplicarse cuando se detecte una plaga o enfermedad exótica que ponga en riesgo la salud de los recursos acuícolas en el Estado;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XIV. Coadyuvar con la SADER en las acciones o dispositivos de emergencia en sanidad acuícola; además en la aplicación urgente y coordinada con las instituciones de los gobiernos federal, estatal y municipal, para establecer las medidas de seguridad que deban aplicarse cuando se detecte una plaga o enfermedad exótica que ponga en riesgo la salud de los recursos acuícolas en el Estado;
 
 XV. Establecer acuerdos con el gobierno federal y/o gobiernos estatales limítrofes para implementar estrategias y programas regionales que permitan fortalecer las acciones o campañas sanitarias que disminuyan los riesgos sanitarios a la acuicultura en el Estado;
 
@@ -327,7 +355,9 @@ XIX. Expedir las autorizaciones de internación de mercancías, productos y subp
 
 XX. Promover el reconocimiento del Estado como zona libre y de baja prevalencia de enfermedades y plagas de las especies acuáticas;
 
-XXI. Concertar programas, proyectos y acciones de desarrollo acuícola y pesquero, con dependencias gubernamentales, federales, estatales o municipales, y con organismos e instituciones de los sectores social y privado;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XXI. Concertar programas, proyectos y acciones de desarrollo acuícola y pesquero, con dependencias gubernamentales, federales, estatales o municipales, y con organismos e instituciones de los sectores social y privado, para incentivar la pesca y la acuacultura, primando la protección al medioambiente;
 
 XXII. Gestionar ante organismos financieros nacionales e internacionales fondos de financiamiento, de garantía, de capitalización, de coinversión, de apoyo a proyectos productivos para los sectores acuícola y pesquero;
 
@@ -371,7 +401,9 @@ XLI. Coadyuvar con instancias federales en la revisión y elaboración de la nor
 
 XLII. Participar con las dependencias competentes de la Administración Pública Federal en la determinación de especies acuáticas sujetas a protección especial, amenazadas o en peligro de extinción;
 
-XLIII. Hacer del conocimiento del legislativo local al inicio de cada ejercicio fiscal, los programas y acciones, así como la asignación presupuestal a ejercer en el sector acuícola y pesquero;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XLIII. Hacer del conocimiento del legislativo local al inicio de cada ejercicio fiscal, los programas y acciones, así como la asignación presupuestal a ejercer en el sector acuícola y pesquero, por medio de un plan de trabajo en el que se calendarice las acciones;
 
 XLIV. Imponer las sanciones que correspondan por infracciones cometidas a la presente Ley, su Reglamento y los planes de manejo correspondientes, y resolver los recursos que se interpongan en contra de las mismas;
 
@@ -393,11 +425,15 @@ I. Auxiliar a la Secretaría y demás autoridades competentes para la observanci
 
 II. Contar en su estructura administrativa con un área para la atención, planeación y operación de los programas de desarrollo acuícola y pesquero en aquellos municipios con vocación para el desarrollo de esta actividad;
 
-III. Impulsar las actividades acuícola y pesquera, preservando el medio ambiente y conservando la biodiversidad;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+III. Impulsar las actividades acuícola y pesquera, preservando el medio ambiente y conservando la biodiversidad, mediante programas que cuenten con presupuesto propio, primando la equidad de género y grupos vulnerables;
 
 IV. Diseñar y ejecutar políticas y programas municipales para el fomento, desarrollo y protección de la acuicultura y pesca, vinculándolos con los programas federales y estatales;
 
-V. Otorgar asistencia para aplicar las mejores técnicas de producción aconsejables para el fomento de la acuicultura y pesca en su jurisdicción;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+V. Otorgar asistencia para aplicar las mejores técnicas de producción aconsejables para el fomento de la acuicultura y pesca en su jurisdicción, mediante programas, cursos y talleres;
 
 VI. Coadyuvar con la Secretaría y las autoridades sanitarias federales, de la aparición de plagas o enfermedades que afecten a la acuicultura y pesca, y participar en las acciones y medidas de sanidad acuícola en los términos de la presente Ley;
 
@@ -405,7 +441,9 @@ VII. Coadyuvar con la Secretaría para la verificación e inspección de las ins
 
 VIII. Participar en la integración del sistema estatal de información acuícola y pesquera y del registro estatal de pesca y acuicultura, en los términos de la presente Ley;
 
-IX. Vigilar que en el Consejo Municipal para el Desarrollo Rural Sustentable, se integren representantes del sector acuícola y pesquero, además se aprueben y den seguimiento a proyectos y acciones para el fomento de las diferentes cadenas agroalimenticias acuícolas y pesqueras, en aquellos municipios con vocación, cuidando su sustentabilidad y la preservación de especies amenazadas;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+IX. Vigilar que en el Consejo Municipal para el Desarrollo Rural Sustentable, se integren representantes del sector acuícola y pesquero, además se aprueben y den seguimiento a proyectos y acciones para el fomento de las diferentes cadenas agroalimenticias acuícolas y pesqueras, en aquellos municipios con vocación, cuidando su sustentabilidad y la preservación de especies amenazadas, promoviendo a través de programas el repoblamiento de las especies preferentemente endémicas;
 
 X. Apoyar los procesos autogestivos de los productores y sus organizaciones, para la capacitación, producción y comercialización;
 
@@ -415,7 +453,21 @@ XI. Establecer programas de difusión para incrementar el consumo de productos a
 
 XII. Promover mecanismos de participación social en el manejo adecuado y disposición final de redes de pesca y cualquier otro instrumento y/o estructura con que se realiza la captura o extracción de especies de flora y fauna acuáticas.
 
-XIII. Las demás previstas en la presente Ley y otras disposiciones.
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XIII. Participar en la formulación de los programas de ordenamiento pesquero y acuícola;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XIV. Establecer apoyos directos para la renovación de embarcaciones.
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XV. Promover la repoblación de especies preferentemente endémicas, mediante programas de repoblación con alevines;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XVI. Las demás previstas en la presente Ley y otras disposiciones.
 
 ###### ARTÍCULO 14.
 
@@ -543,7 +595,9 @@ Los permisionarios que se constituyan en una Unidad de Manejo Acuícola son resp
 
 El Consejo Estatal de Acuicultura y Pesca Sustentable es un órgano de consulta, promoción y análisis, para la formulación y evaluación de las políticas, programas y acciones que se desarrollen en materia de pesca y acuicultura, cuyas atribuciones y la de sus integrantes serán las que señale el Reglamento de la presente Ley, y tendrá como objetivos:
 
-I. Proponer las políticas, programas de carácter estatal y municipal, para el manejo adecuado de cultivos y pesquerías que impulsen su desarrollo;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+I. Proponer las políticas, programas de carácter estatal y municipal, para el manejo adecuado de cultivos y pesquerías que impulsen su desarrollo que cuenten con presupuesto propio, primando la equidad de género y la inclusión de grupos vulnerables;
 
 II. Fortalecer la inspección y vigilancia sanitaria para reducir los riesgos de enfermedades y plagas que afectan al sector;
 
@@ -571,11 +625,17 @@ f. Un representante del sector pesquero y acuícola por cada una de las regiones
 
 g. Un representante de cada uno de los sistemas producto en el Estado; y
 
-h. Un representante del OASA.
+h. Un representante del OASA..
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+i. El presidente de la Comisión de Desarrollo Agropecuario y Pesquero del H. Congreso del Estado de Guerrero.
 
 Cada miembro del Consejo podrá designar a un suplente, quien asistirá a las sesiones con todas las facultades y derechos que correspondan al propietario.
 
-Podrán asistir por invitación del Consejo, con derecho a voz, pero no a voto, los representantes de la Delegación de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación en el Estado; de la Comisión Nacional de Acuacultura y Pesca; de la Secretaría de Marina; de la Procuraduría de Protección Ecológica del Estado; del Congreso del Estado; Un representante del Instituto Nacional de Pesca; representantes de otras dependencias y entidades de la Administración Pública Federal, Estatal y Municipal relacionadas con el sector pesquero y acuícola; centros de enseñanzas e instituciones de investigación, organizaciones sociales y de productores del sector acuícola y pesquero del Estado y cualquier otro que considere el Consejo.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+Podrán asistir por invitación del Consejo, con derecho a voz, pero no a voto, los representantes de la Delegación de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación en el Estado; de la Comisión Nacional de Acuacultura y Pesca; de la Secretaría de Marina; de la Procuraduría de Protección Ecológica del Estado; Un representante del Instituto Nacional de Pesca; representantes de otras dependencias y entidades de la Administración Pública Federal, Estatal y Municipal relacionadas con el sector pesquero y acuícola; centros de enseñanzas e instituciones de investigación, organizaciones sociales y de productores del sector acuícola y pesquero del Estado y cualquier otro que considere el Consejo.
 
 El Consejo Estatal de Acuicultura y Pesca, tendrá la participación prevista en la Ley General de Pesca y Acuacultura Sustentable y en el Consejo Nacional de Pesca y Acuacultura. La mecánica para las convocatorias, carácter de la sesión, formas de adoptar los acuerdos, suplencias y ausencias y demás aspectos de su operación se establecerán en el Reglamento de la presente Ley.
 
@@ -603,15 +663,19 @@ V. Investigación y desarrollo tecnológico para el manejo y procesamiento de re
 
 VI. Investigación científica y tecnológica orientada a incrementar la capacidad de producción pesquera;
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-VII. Promover el uso y disposición final de artes y métodos de pesca tradicionales y selectivos y de menor impacto ambiental, a fin de conservar y mantener la disponibilidad de los recursos pesqueros, la estructura de las poblaciones bajo explotación, la conservación y restauración de los ecosistemas, así como la calidad de los productos de la pesca;
+VII. Promover el uso y retiro adecuado de artes y métodos de pesca tradicionales y selectivos y de menor impacto ambiental, a fin de conservar y mantener la disponibilidad de los recursos pesqueros, la estructura de las poblaciones bajo explotación, la conservación y restauración de los ecosistemas a través de la repoblación de especies preferentemente endémicas, así como la calidad de los productos de la pesca;
 
-VIII. Estudios que permitan identificar los cuerpos de agua susceptibles de ser restaurados para la recuperación de los ecosistemas y, por ende, el incremento de la producción;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+VIII. Estudios que permitan identificar los cuerpos de agua susceptibles de ser restaurados para la recuperación de los ecosistemas, promoviendo el repoblamiento de especies preferentemente endémicas y, por ende, el incremento de la producción;
 
 IX. Mecanismos específicos para el impulso a la producción, comercialización y consumo;
 
-X. Programas que promuevan proyectos de infraestructura productiva y social, que fomenten el desarrollo de las comunidades pesqueras;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+X. Programas que promuevan proyectos de infraestructura productiva y social, que fomenten el desarrollo de las comunidades pesqueras, asegurando la inclusión de grupos vulnerables con perspectiva de género;
 
 XI. Planes de manejo pesquero y de acuacultura;
 
@@ -623,9 +687,13 @@ XIV. Programas que promuevan la acuicultura rural, así como la reconversión pr
 
 XV. Transparentar los procedimientos administrativos relativos al otorgamiento de permisos para realizar actividades acuícolas y pesqueras, así como las medidas para el control del esfuerzo pesquero para que sean eficaces e incorporen mecanismos de control accesibles a los productores;
 
-XVI. El Programa Integral de Inspección y Vigilancia para el Combate a la Pesca Ilegal, y
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-XVII. Mecanismos para la participación, consenso y compromiso de los productores y sus comunidades en la corresponsabilidad de aprovechar en forma integral y sustentable los recursos acuícolas y pesqueros.
+XVI. El Programa Integral de Inspección y Vigilancia para el Combate a la Pesca Ilegal, Pesca no Declarada, Pesca no reglamentada, y
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+XVII. Mecanismos para la participación, consenso y compromiso de los productores y sus comunidades en la corresponsabilidad de aprovechar en forma integral y sustentable los recursos acuícolas y pesqueros, primando la inclusión de las mujeres pescadoras y grupos vulnerables con perspectiva de género.
 
 ###### ARTÍCULO 27.
 
@@ -657,13 +725,17 @@ a. Formular y ejecutar programas estatales de apoyo financiero para el desarroll
 
 b. Apoyar en la construcción de parques de acuacultura, así como de unidades de producción, centros acuícolas y laboratorios dedicados a la producción de organismos destinados al ornato, al cultivo y repoblación de las especies de la flora y fauna acuática;
 
-c. Apoyar la construcción, mejora y equipamiento de embarcaciones y de artes de pesca selectiva y ambientalmente seguras, mediante la ejecución de programas de sustitución y modernización de las mismas;
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+c. Apoyar la construcción, mejora y equipamiento de embarcaciones y de artes de pesca selectiva y ambientalmente seguras, mediante la ejecución de programas de sustitución y modernización de las mismas, asegurando el retiro adecuado de las mismas;
 
 d. Coadyuvar con las autoridades competentes en la construcción de infraestructura portuaria pesquera, así como en el mejoramiento de la infraestructura existente;
 
 e. Colaborar con las instituciones dedicadas a la investigación científica y tecnológica en acuacultura y pesca;
 
-f. Formular y ejecutar los programas estatales de fomento y difusión de la acuicultura, de la maricultura, de la comercialización y consumo de productos pesqueros y acuícolas, tendientes a dar valor agregado a los productos generados por la acuicultura y pesca;
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+f. Formular y ejecutar los programas estatales de fomento y difusión de la acuicultura, de la maricultura, de la comercialización y consumo de productos pesqueros y acuícolas, tendientes a dar valor agregado a los productos generados por la acuicultura y pesca, asegurando la inclusión de grupos vulnerables y de mujeres con perspectiva de género;
 
 g. Promover la organización económica de los productores y demás agentes relacionados con el sector, a través de mecanismos de comunicación, concertación y planeación;
 
@@ -703,7 +775,9 @@ III. Promoverá torneos de pesca deportivo-recreativa;
 
 IV. Propiciará la celebración de convenios con organizaciones y prestadores de servicios, para que los pescadores deportivos protejan las especies;
 
-V. Fomentará la práctica de capturar y liberar;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+V. Fomentará la práctica de capturar y liberar, asegurando la salvaguarda de la vida del animal, infligiendo el menor daño posible;
 
 VI. Establecerá mecanismos que permitan el aprovechamiento integral de los cuerpos de agua y el ordenamiento de la pesca deportiva, y
 
@@ -941,7 +1015,9 @@ IV. Los permisos expedidos para el desarrollo de la actividad acuícola, que deb
 
 V. Las demás que establezca el Reglamento de esta Ley, así como la Ley General de Pesca y Acuacultura Sustentable y, los acuerdos y convenios de coordinación y colaboración que se celebren con la federación y los municipios.
 
-La Secretaría expedirá el certificado de registro correspondiente, y remitirá la información del Registro Estatal, a la SAGARPA, para la actualización del Registro Nacional de Pesca y Acuacultura.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+La Secretaría expedirá el certificado de registro correspondiente, y remitirá la información del Registro Estatal, a la SADER, para la actualización del Registro Nacional de Pesca y Acuacultura.
 
 ###### ARTÍCULO 55.
 
@@ -1193,9 +1269,11 @@ Los permisos para realizar la pesca comercial se expedirán tomando en cuenta la
 
 La captura incidental no podrá exceder el volumen que fije la Secretaría en el Plan de Manejo pesquero respectivo, estando prohibido comercializar el producto derivado de esa captura incidental.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 82.
 
-Queda estrictamente prohibido el uso de redes de arrastre y agalleras en bahías y zonas de pedregal. En cuerpos de agua interiores del Estado se prohíben las redes de arrastre, en especial las elaboradas con malla de mosquitero; dicha prohibición se hará constar en la concesión, permiso o autorización que la Secretaría otorgue.
+Queda estrictamente prohibido el uso de redes de arrastre y agalleras en bahías y zonas de pedregal. En cuerpos de agua interiores del Estado se prohíben las redes de arrastre, en especial las elaboradas con malla de mosquitero; dicha prohibición se hará constar en la concesión, permiso o autorización que la Secretaría otorgue de no cumplir con este ordenamiento el permiso será revocado.
 
 ###### ARTÍCULO 83.
 
@@ -1493,15 +1571,17 @@ La Secretaría resolverá la solicitud de permiso de siembra en un plazo máximo
 
 La Secretaría autorizará la siembra de camarón de segundo ciclo de cultivo continuo cuando así lo soliciten los acuicultores presentando la solicitud, información y documentos señalados en esta Ley, además de la constancia emitida por el OASA u Organismo de Coadyuvancia, que avalen el cumplimiento de medidas sanitarias pre-operativas.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 111.
 
-Para realizar la siembra en segundo ciclo de cultivo continuo en aquellos estanques que hayan tenido eventos de mortalidad o que hayan resultado positivos a algún agente patógeno de alto impacto, la Secretaría en coadyuvancia con el SENASICA y SAGARPA, deberán hacer un análisis de esta situación y autorizará en forma especial dicha siembra, siempre que se compruebe que no representa riesgo sanitario alguno.
+Para realizar la siembra en segundo ciclo de cultivo continuo en aquellos estanques que hayan tenido eventos de mortalidad o que hayan resultado positivos a algún agente patógeno de alto impacto, la Secretaría en coadyuvancia con el SENASICA y SADER, deberán hacer un análisis de esta situación y autorizará en forma especial dicha siembra, siempre que se compruebe que no representa riesgo sanitario alguno.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 112.
 
-La Secretaría en coadyuvancia con el SENASICA y la SAGARPA, autorizará la siembra en áreas afectadas por eventos de mortalidad o que hayan presentado resultados positivos a algún agente patógeno de alto impacto, previo análisis de la solicitud de permiso que haga en cada caso y que el otorgamiento no represente riesgo sanitario alguno.
-
-El permisionario en este caso deberá presentar toda la información que le requiera la Secretaría como adicional a la presentada con la solicitud de permiso.
+La Secretaría en coadyuvancia con el SENASICA y la SADER, autorizará la siembra en áreas afectadas por eventos de mortalidad o que hayan presentado resultados positivos a algún agente patógeno de alto impacto, previo análisis de la solicitud de permiso que haga en cada caso y que el otorgamiento no represente riesgo sanitario alguno.
 
 ###### ARTÍCULO 113.
 
@@ -1537,9 +1617,11 @@ XIII. Constancia del OASA que avale al permisionario para realizar la cosecha.
 
 La Secretaría resolverá la solicitud de permiso en un plazo máximo de cinco días hábiles siguientes al de su recepción, y la notificará personalmente al interesado dentro de los tres días hábiles posteriores a su emisión.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 115.
 
-La Secretaría en coadyuvancia con el SENASICA y la SAGARPA, autorizará cosechas extemporáneas previo análisis de las solicitudes que realice en cada caso, siempre que el otorgamiento no represente riesgo sanitario.
+La Secretaría en coadyuvancia con el SENASICA y la SADER, autorizará cosechas extemporáneas previo análisis de las solicitudes que realice en cada caso, siempre que el otorgamiento no represente riesgo sanitario.
 
 ###### ARTÍCULO 116.
 
@@ -1749,9 +1831,13 @@ Los organismos acuáticos, productos y subproductos que ingresen al Estado de ma
 
 I. Se notificará el aseguramiento y sus causas al propietario o poseedor directamente o por conducto del porteador para su conocimiento, quien deberá informar a la Secretaría sobre la condición sanitaria del embarque con la documentación oficial correspondiente, en un plazo no mayor de 48 horas;
 
-II. Transcurrido este término y de no presentarse la documentación oficial del caso, la Secretaría, en coordinación con la SAGARPA, realizará dictámenes sobre la condición sanitaria del embarque, para determinar que no existe un riesgo sanitario.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
-III. Una vez realizados los dictámenes oficiales, la Secretaría en coordinación con la SAGARPA determinará la medida sanitaria aplicable, levantando el acta circunstanciada correspondiente.
+II. Transcurrido este término y de no presentarse la documentación oficial del caso, la Secretaría, en coordinación con la SADER, realizará dictámenes sobre la condición sanitaria del embarque, para determinar que no existe un riesgo sanitario.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+III. Una vez realizados los dictámenes oficiales, la Secretaría en coordinación con la SADER determinará la medida sanitaria aplicable, levantando el acta circunstanciada correspondiente.
 
 ###### ARTÍCULO 142.
 
@@ -1775,13 +1861,17 @@ I. Factura debidamente requisitada;
 
 II. Guía de pesca;
 
-III. Certificado de Sanidad Acuícola, expedido por la SAGARPA, a través del SENASICA, y
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
+III. Certificado de Sanidad Acuícola, expedido por la SADER, a través del SENASICA, y
 
 IV. Las demás que la normatividad en la materia exija.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 146.
 
-Queda prohibido en el Estado, movilizar y comercializar organismos acuáticos enfermos o presuntamente enfermos, de una zona o región a otra. Si durante el tránsito se observaran signos de alguna enfermedad, será retenido todo el embarque, quedando sujeto a las medidas sanitarias que la SAGARPA y la Secretaría determinen.
+Queda prohibido en el Estado, movilizar y comercializar organismos acuáticos enfermos o presuntamente enfermos, de una zona o región a otra. Si durante el tránsito se observaran signos de alguna enfermedad, será retenido todo el embarque, quedando sujeto a las medidas sanitarias que la SADER y la Secretaría determinen.
 
 ###### ARTÍCULO 147.
 
@@ -1823,21 +1913,27 @@ Los establecimientos instalados en el Estado en los que se desarrollen, cultiven
 
 La Secretaría llevará a cabo en el territorio estatal, el servicio de inspección y control de la movilización de organismos acuícolas, de pesca, productos y subproductos, y podrá solicitar la colaboración de las Autoridades Estatales, Municipales, OASA u Organismos de Coadyuvancia.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 153.
 
-Los Puntos de Verificación e Inspección son instalaciones fijas o móviles establecidos por la Secretaría, en coordinación con la SAGARPA, para garantizar que el ingreso y traslado en el Estado de los recursos pesqueros y acuícolas, cumplan con la normatividad federal aplicable, con los requisitos establecidos en la presente ley y las demás disposiciones que correspondan.
+Los Puntos de Verificación e Inspección son instalaciones fijas o móviles establecidos por la Secretaría, en coordinación con la SADER, para garantizar que el ingreso y traslado en el Estado de los recursos pesqueros y acuícolas, cumplan con la normatividad federal aplicable, con los requisitos establecidos en la presente ley y las demás disposiciones que correspondan.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 154.
 
-La ubicación de los Puntos de Verificación e Inspección fijos será determinada por la Secretaría y la SAGARPA, conforme a normatividad federal, los requerimientos y lineamientos que se establezcan en esta Ley. La Secretaría podrá acordar la instalación temporal de puntos de verificación móviles, en caminos, vías de comunicación terrestre o aérea, instalaciones de procesamiento o distribución de organismos acuícolas y pesqueros, sus productos o subproductos.
+La ubicación de los Puntos de Verificación e Inspección fijos será determinada por la Secretaría y la SADER, conforme a normatividad federal, los requerimientos y lineamientos que se establezcan en esta Ley. La Secretaría podrá acordar la instalación temporal de puntos de verificación móviles, en caminos, vías de comunicación terrestre o aérea, instalaciones de procesamiento o distribución de organismos acuícolas y pesqueros, sus productos o subproductos.
 
 ###### ARTÍCULO 155.
 
 Es obligatoria la inspección física y documental de embarques de organismos acuícolas, de pesca, sus productos y subproductos, para verificar su condición sanitaria y la propiedad, por lo que todo trasportista deberá hacer alto total en los PVI´S o PVIF´S para su revisión, otorgando las facilidades al personal oficial para el desempeño de sus funciones, caso contrario será sancionado conforme a la legislación estatal y federal aplicable.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 156.
 
-La Secretaría en coordinación con la SAGARPA, determinará el número y ubicación de los puntos de verificación e inspección en el Estado, los cuales se ubicarán, preferentemente, en los límites de las zonas fronterizas que cuenten con un estatus sanitario menor o que representen un riesgo sanitario por la entrada irregular de embarques.
+La Secretaría en coordinación con la SADER, determinará el número y ubicación de los puntos de verificación e inspección en el Estado, los cuales se ubicarán, preferentemente, en los límites de las zonas fronterizas que cuenten con un estatus sanitario menor o que representen un riesgo sanitario por la entrada irregular de embarques.
 
 ###### ARTÍCULO 157.
 
@@ -1853,9 +1949,11 @@ IV. Impedir el ingreso de vehículos cuya carga no cumpla con los requisitos de 
 
 V. Aplicar las demás medidas sanitarias que procedan conforme a la presente ley.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 158.
 
-Cuando se detecten irregularidades o alteraciones en la guía de pesca, en la factura, o en los documentos sanitarios; en los datos que correspondan a: cantidad, peso, identificación del embarque o producto, especie, su origen o destino, así como la vigencia de la guía, los inspectores procederán a levantar un acta circunstanciada, inmovilizarán el embarque y darán parte de inmediato a la Secretaría y a la SAGARPA.
+Cuando se detecten irregularidades o alteraciones en la guía de pesca, en la factura, o en los documentos sanitarios; en los datos que correspondan a: cantidad, peso, identificación del embarque o producto, especie, su origen o destino, así como la vigencia de la guía, los inspectores procederán a levantar un acta circunstanciada, inmovilizarán el embarque y darán parte de inmediato a la Secretaría y a la SADER.
 
 ### CAPÍTULO III. DE LA INSPECCIÓN Y VIGILANCIA EN LOS ESTABLECIMIENTOS
 
@@ -1887,9 +1985,11 @@ Sin perjuicio de lo que señale el dictamen correspondiente, la autoridad podrá
 
 La Secretaría orientará al productor para obtener de la instancia federal una constancia de verificación sanitaria a las instalaciones acuícolas cuyas instalaciones hayan cumplido con los requerimientos de la presente Ley, su reglamento y los planes de manejo.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 164.
 
-Si durante la realización de verificaciones sanitarias se encuentren evidencias de agentes patógenos generadores de enfermedades de alto riesgo, la Secretaría en conjunto con la SAGARPA y el SENASICA, con el apoyo del OASA u Organismo de Coadyuvancia determinará inmediatamente la aplicación de las acciones sanitarias que procedan.
+Si durante la realización de verificaciones sanitarias se encuentren evidencias de agentes patógenos generadores de enfermedades de alto riesgo, la Secretaría en conjunto con la SADER y el SENASICA, con el apoyo del OASA u Organismo de Coadyuvancia determinará inmediatamente la aplicación de las acciones sanitarias que procedan.
 
 ###### ARTÍCULO 165.
 
@@ -1907,13 +2007,17 @@ Toda persona está obligada a denunciar ante las autoridades competentes, cualqu
 
 La sanidad acuícola es de observancia general, obligatoria y permanente en el Estado, por lo que las autoridades estatales, municipales, organizaciones y particulares a que se refiere esta Ley, deberán acatar las disposiciones y participar activamente en las campañas sanitarias orientadas al control y erradicación de las enfermedades y plagas que afectan a la acuicultura, así como en todas las medidas de control en la movilización que minimicen los riesgos de introducción o diseminación de enfermedades o plagas de importancia acuícola o pesquera.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 168.
 
-La Secretaría, a través de un área específica encargada del ramo, y en coordinación con la SAGARPA, elaborará las estrategias para las campañas sanitarias para el control y erradicación de las plagas y enfermedades, que permitan elevar la condición sanitaria en el Estado.
+La Secretaría, a través de un área específica encargada del ramo, y en coordinación con la SADER, elaborará las estrategias para las campañas sanitarias para el control y erradicación de las plagas y enfermedades, que permitan elevar la condición sanitaria en el Estado.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 169.
 
-La Secretaría coadyuvará con la SAGARPA en la vigilancia epidemiológica de las plagas o enfermedades que afecten los organismos acuáticos para evitar su propagación y establecer las medidas de control a que haya lugar.
+La Secretaría coadyuvará con la SADER en la vigilancia epidemiológica de las plagas o enfermedades que afecten los organismos acuáticos para evitar su propagación y establecer las medidas de control a que haya lugar.
 
 ###### ARTÍCULO 170.
 
@@ -1953,21 +2057,29 @@ XIII. Las demás que se estimen necesarias para combatir la enfermedad o impedir
 
 Para garantizar la sanidad de los recursos pesqueros y acuícolas, los permisionarios deberán tener en las instalaciones y en los laboratorios respectivos, infraestructura y equipo material necesarios para desinfectar los materiales de empaque, embalaje y vehículos de transporte, que cumplan los requisitos técnicos que se establezcan en el plan de manejo acuícola.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 173.
 
-Es obligación de toda persona que tenga conocimiento de la aparición de cualquier plaga o enfermedad epizoótica, comunicarlo de inmediato a la Secretaría, a la SAGARPA y al OASA, para que se tomen las medidas pertinentes.
+Es obligación de toda persona que tenga conocimiento de la aparición de cualquier plaga o enfermedad epizoótica, comunicarlo de inmediato a la Secretaría, a la SADER y al OASA, para que se tomen las medidas pertinentes.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 174.
 
-Desde el momento en que el propietario o encargado de un establecimiento, note la presencia de alguna enfermedad contagiosa, deberá proceder al aislamiento y confinamiento de los organismos enfermos, separándolos de los sanos; el mismo aislamiento se llevará a cabo con los organismos que han muerto de enfermedades infecto contagiosas, los cuales deberán enterrarse o incinerarse, dando aviso a la Secretaría y a la SAGARPA a través del SENASICA.
+Desde el momento en que el propietario o encargado de un establecimiento, note la presencia de alguna enfermedad contagiosa, deberá proceder al aislamiento y confinamiento de los organismos enfermos, separándolos de los sanos; el mismo aislamiento se llevará a cabo con los organismos que han muerto de enfermedades infecto contagiosas, los cuales deberán enterrarse o incinerarse, dando aviso a la Secretaría y a la SADER a través del SENASICA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 175.
 
-Los permisionarios deberán dar aviso inmediato a la Secretaría y a la SAGARPA, por cualquier medio, de la presencia de enfermedades epizoóticas que afecten los recursos acuícolas o pesqueros. Cuando los permisionarios detecten durante el cultivo de especies la presencia de enfermedades de alto riesgo en uno o más estanques o jaulas, además del referido aviso a la Secretaría, deberán suspender, en su caso, la descarga del agua al drenaje correspondiente y esperar el diagnóstico y dictamen de las autoridades estatales y federales.
+Los permisionarios deberán dar aviso inmediato a la Secretaría y a la SADER, por cualquier medio, de la presencia de enfermedades epizoóticas que afecten los recursos acuícolas o pesqueros. Cuando los permisionarios detecten durante el cultivo de especies la presencia de enfermedades de alto riesgo en uno o más estanques o jaulas, además del referido aviso a la Secretaría, deberán suspender, en su caso, la descarga del agua al drenaje correspondiente y esperar el diagnóstico y dictamen de las autoridades estatales y federales.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 176.
 
-En los casos de aparición de un brote epizoótico, confirmado por la SAGARPA, el Ejecutivo del Estado emitirá la declaratoria oficial, coadyuvando en la aplicación de las medidas sanitarias que se determinen por las autoridades en la materia, comunicándolo a las organizaciones y a los Ayuntamientos, para que brinden el apoyo necesario.
+En los casos de aparición de un brote epizoótico, confirmado por la SADER, el Ejecutivo del Estado emitirá la declaratoria oficial, coadyuvando en la aplicación de las medidas sanitarias que se determinen por las autoridades en la materia, comunicándolo a las organizaciones y a los Ayuntamientos, para que brinden el apoyo necesario.
 
 ###### ARTÍCULO 177.
 
@@ -1977,9 +2089,11 @@ La declaratoria deberá publicarse en el Periódico Oficial y en los diarios loc
 
 Toda persona que compre, venda, traslade o lleve a cabo cualquier operación o contrato con despojos de organismos muertos a causa de una enfermedad infecto contagiosa, será responsable de los daños y perjuicios a que haya lugar.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 179.
 
-Los organismos muertos por causa de enfermedad infecto-contagiosa deberá ser destruido por su propietario, incinerando la totalidad de sus despojos; cuando esto no sea posible, deberá sepultar los restos y cenizas, cubriéndolos con una capa de cal a una profundidad no menor de metro y medio, por encima del nivel freático, debiendo dar aviso inmediato a la Secretaría y a la SAGARPA.
+Los organismos muertos por causa de enfermedad infectocontagiosa deberá (sic) ser destruido (sic) por su propietario, incinerando la totalidad de sus despojos; cuando esto no sea posible, deberá sepultar los restos y cenizas, cubriéndolos con una capa de cal a una profundidad no menor de metro y medio, por encima del nivel freático, debiendo dar aviso inmediato a la Secretaría y a la SADER.
 
 ###### ARTÍCULO 180.
 
@@ -1995,9 +2109,11 @@ La Secretaría promoverá la implementación de sistemas de reducción de riesgo
 
 La inocuidad y calidad de los productos acuícolas y pesqueros comprenden los productos acuícolas y pesqueros, desde su captura, extracción o cosecha hasta su procesamiento primario, incluyendo actividades tales como cortado, almacenamiento, cadena de frio y transporte.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 183.
 
-La Secretaría en coordinación con la SAGARPA y el OASA, vigilará que durante las diferentes etapas de la producción no se apliquen aditivos o substancias que repercutan en los organismos que pongan en riesgo la salud pública.
+La Secretaría en coordinación con la SADER y el OASA, vigilará que durante las diferentes etapas de la producción no se apliquen aditivos o substancias que repercutan en los organismos que pongan en riesgo la salud pública.
 
 ###### ARTÍCULO 184.
 
@@ -2005,9 +2121,11 @@ La persona que comercialice, almacene o utilice en los alimentos o en el agua pa
 
 ### CAPÍTULO III. DE LOS SISTEMAS DE REDUCCIÓN DE RIESGOS DE CONTAMINACIÓN Y LA CERTIFICACIÓN EN SANIDAD ACUÍCOLA
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 185.
 
-La Secretaría en coadyuvancia con la SAGARPA, promoverá la implementación de las buenas prácticas de manejo acuícola, buscando que los procesos de producción obtengan la certificación sanitaria y el reconocimiento en sistemas de reducción de riesgos en contaminación, que otorga el SENASICA; para tales efectos, verificará las instalaciones y acciones comprendidas desde la obtención de cría o postlarva, hasta la cosecha y el procesamiento primario en la unidad acuícola.
+La Secretaría en coadyuvancia con la SADER, promoverá la implementación de las buenas prácticas de manejo acuícola, buscando que los procesos de producción obtengan la certificación sanitaria y el reconocimiento en sistemas de reducción de riesgos en contaminación, que otorga el SENASICA; para tales efectos, verificará las instalaciones y acciones comprendidas desde la obtención de cría o post-larva, hasta la cosecha y el procesamiento primario en la unidad acuícola.
 
 ###### ARTÍCULO 186.
 
@@ -2404,3 +2522,15 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Remítase este Decreto al Gobernador Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
 
 TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
+
+P.O. 15 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECREO NÚMERO 464 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 535 DE ACUICULTURA Y PESCA SUSTENTABLE DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Túrnese a la titular del Poder Ejecutivo para efectos de su promulgación, y demás efectos constitucionales y legales conducentes.
+
+TERCERO. Descárguese de los pendientes de la Comisión de Desarrollo Agropecuario y Pesquero de esta soberanía popular y archívese como asunto total y definitivamente concluido.
+
+CUARTO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
