@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2023-12-13"
+last_updated: "2023-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2023.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -1326,6 +1326,14 @@ IX. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violen
 X. Considerar la opinión y preferencia de niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
 XI. Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+XII. Exhibir el pasaporte mexicano o identificación con fotografía expedida por la Secretaría de Educación Pública, en el supuesto de niñas, niños o adolescentes en edad escolar, o cartilla de vacunación expedida por la Secretaría de Salud en personas menores de 3 años y, en ambos casos, el acta de nacimiento de aquellos e identificación oficial de la persona adulta que los acompaña, todos en original; como medios para acreditar el parentesco con las niñas, niños o adolescentes, con el fin de requerir servicios en establecimientos de hospedaje.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+XIII. Cuando la persona adulta que acompañe a la niña, niño o adolescente, no tenga ningún parentesco con estos, tendrá que presentar además de los requisitos citados en la fracción anterior, aquellos documentos oficiales que acrediten su custodia temporal, tales como autorización ante notario público de quienes ejercen la patria potestad o la tutela en los términos del artículo 53 del Reglamento de la Ley de Migración, o sentencia judicial.
 
 ###### Artículo 109.
 
@@ -2730,5 +2738,13 @@ P.O. 13 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0538/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y APOYO A MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE CHIHUAHUA Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0639/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
