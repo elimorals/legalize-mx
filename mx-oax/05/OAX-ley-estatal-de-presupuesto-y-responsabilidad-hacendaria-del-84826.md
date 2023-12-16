@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-presupuesto-y-responsabilidad-hacendaria-del-848
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2023-10-14"
+last_updated: "2023-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -715,17 +715,7 @@ a) Cuando la Entidad Federativa se clasifique en un nivel de endeudamiento eleva
 
 b) Cuando la Entidad Federativa se clasifique en un nivel de endeudamiento en observación, de acuerdo al Sistema de Alertas, cuando menos el 30 por ciento, y
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2020)</small>
-
-II. El 5 por ciento de los correspondientes exclusivamente a impuestos y derechos, para el Fondo de Estabilización de los Ingresos del Estado de Oaxaca, cuyo objetivo es compensar la caída de ingresos de libre disposición de ejercicios subsecuentes, y
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-a) Inversión pública productiva, con el fin de que los recursos correspondientes se ejerzan a más tardar en el ejercicio inmediato siguiente, y
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-b) La creación de un fondo cuyo objetivo sea compensar la caída de ingresos de libre disposición de ejercicios subsecuentes.
+II. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2023)
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
@@ -743,51 +733,9 @@ Cuando la Entidad Federativa se clasifique en un nivel de endeudamiento sostenib
 
 Tratándose de Ingresos de libre disposición que se encuentren destinados a un fin específico en términos de las Leyes, no resultarán aplicables las disposiciones establecidas en el presente artículo.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
-
 ###### Artículo 17 Bis.
 
-El Fondo de Estabilización de los Ingresos del Estado de Oaxaca se sujetará a las disposiciones siguientes:
-
-I. El Fondo se integrará, hasta por el límite máximo establecido en la fracción II de este artículo, con los siguientes recursos:
-
-a) Los ingresos excedentes correspondientes al artículo 17, fracción II, de esta Ley;
-
-b) Los Ingresos de libre disposición cuyo destino sea este Fondo en los términos de las leyes fiscales aplicables;
-
-c) Los Ingresos de libre disposición que se destinen en términos del Presupuesto de Egresos, y
-
-d) Cualquier otro recurso que sea aportado, lo cual no otorgará derecho alguno sobre el Fondo a quien los aporte.
-
-Los programas del Presupuesto de Egresos, a través de los cuales se realicen aportaciones al Fondo serán considerados programas prioritarios;
-
-II. El límite máximo del Fondo será la cantidad equivalente al 10 por ciento de los Ingresos de libre disposición previstos en la Ley de Ingresos, excluyendo los correspondientes a los aprovechamientos y productos;
-
-La forma y términos en que se realizará el cálculo y depósito de los recursos que se destinen al Fondo, se establecerá en el Reglamento de esta ley.
-
-Una vez alcanzado el límite máximo del Fondo, los recursos que excedan dicho límite y aquéllos que tengan como destino específico el Fondo, deberán destinarse a proyectos de inversión en infraestructura y a fortalecer el fondo de pensiones, en los términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y esta Ley;
-
-III. Los recursos del Fondo serán destinados exclusivamente a compensar la disminución de los Ingresos de libre disposición previstos en la Ley de Ingresos, excluyendo los aprovechamientos y productos, conforme a las instrucciones del Comité Técnico del Fondo y lo siguiente:
-
-a) La caída en las participaciones federales que corresponda compensarse con los recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas, será realizada en términos de las disposiciones federales aplicables;
-
-b) La Secretaría podrá utilizar los recursos del Fondo de Estabilización de los Ingresos del Estado de Oaxaca para compensar la caída en los Ingresos de libre disposición, distintos a aquéllos que son compensados en términos del inciso a) inmediato anterior, a efecto de que se utilicen para cubrir las erogaciones previstas en el Presupuesto de Egresos para las dependencias y entidades, conforme a lo establecido en el Reglamento y las reglas de operación del Fondo;
-
-c) El Comité Técnico podrá autorizar que, en tanto se reciben los recursos que correspondan del Fondo de Estabilización de los Ingresos de las Entidades Federativas, se disponga de los recursos del Fondo de Estabilización de los Ingresos del Estado de Oaxaca y una vez recibidos los fondos del primer fondo mencionado se realice la compensación correspondiente. Lo anterior, exclusivamente cuando se requiera contar con liquidez inmediata para afrontar las necesidades de gasto que, de no llevarse a cabo de manera oportuna, se afectaría a la población vulnerable o podría provocar la interrupción de la prestación de los servicios públicos, y
-
-d) En caso de que los recursos del Fondo resulten insuficientes para compensar la disminución de los ingresos en términos de esta fracción, se procederá a realizar los ajustes a que se refiere el artículo 19 de esta Ley;
-
-IV. Los recursos del Fondo que se destinen a compensar la disminución de los ingresos de libre disposición, en ningún caso podrán destinarse a ampliar el presupuesto de servicios personales autorizado para el ejercicio fiscal correspondiente y en todo momento se dará preferencia a la inversión pública productiva;
-
-V. En tanto no sean utilizados, los recursos del Fondo deberán permanecer depositados en el mismo, de acuerdo con las instrucciones que para tal efecto emita la Secretaría;
-
-VI. La política de inversión de los recursos del Fondo y, en su caso, los medios para la protección de los mismos deberán determinarse por el Comité Técnico, de acuerdo con las reglas de operación correspondientes;
-
-VII. Las reglas de operación deberán prever, al menos, el mecanismo para realizar compensaciones provisionales durante el ejercicio fiscal correspondiente, con base en una proyección anual de las finanzas estatales que elabore la Secretaría, en la que se determine la disminución de los ingresos de libre disposición, así como el mecanismo aplicable para el cierre del ejercicio tomando en consideración la disminución de ingresos observada. Asimismo, mecanismos de devolución de recursos en caso de que dicha proyección resulte menor al monto observado, y por tanto la compensación sea mayor a la calculada conforme a las cifras recaudadas;
-
-VIII. Los municipios podrán convenir con la Secretaría, el establecimiento de sus respectivos fondos de estabilización de sus ingresos, para lo cual se podrán abrir subcuentas específicas en el Fondo. Dichas subcuentas se regirán en lo conducente por lo dispuesto en las fracciones anteriores, y
-
-IX. La Secretaría, conforme a las disposiciones de esta Ley y las demás aplicables, reportará al Congreso del Estado, en los informes trimestrales a que se refiere el artículo 81 de esta Ley, sobre los ingresos, egresos y reservas del fondo.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2023)
 
 ###### Artículo 18.
 
@@ -991,17 +939,21 @@ a) Las remuneraciones de los servidores públicos, desglosando las percepciones 
 
 b) Las previsiones salariales y económicas para cubrir los incrementos salariales, la creación de plazas y otras medidas económicas de índole laboral. Dichas previsiones serán incluidas en un capítulo específico del Presupuesto de Egresos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 31.
 
-Para la programación de los recursos destinados a proyectos de inversión, las dependencias y entidades deberán observar el siguiente procedimiento, sujetándose a lo establecido en el Reglamento:
+Para la programación de los recursos destinados a proyectos de inversión pública, las dependencias y entidades, deberán observar el siguiente procedimiento, sujetándose a lo establecido en el Reglamento:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 I. Contar con un mecanismo de planeación de las inversiones, en el cual:
 
 a) Se identifiquen los proyectos de inversión en proceso de realización, así como aquéllos que se consideren susceptibles de realizar en años futuros;
 
 b) Se establezcan las necesidades de inversión a corto, mediano y largo plazo, mediante criterios de evaluación que permitan establecer prioridades entre los proyectos.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 II. Presentar a la Secretaría los proyectos de inversión que tengan a su cargo, en donde se muestre que dichos proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. La Secretaría, en los términos que establezca el Reglamento, podrá solicitar a las dependencias y entidades que dicha evaluación esté dictaminada por un experto independiente La evaluación no se requerirá en el caso del gasto de inversión que se destine a la atención prioritaria e inmediata de desastres naturales;
 
@@ -1021,15 +973,45 @@ c) Desarrollo regional; y
 
 d) Concurrencia con otros proyectos de inversión.
 
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-V. Todas las acciones y/o proyectos registrados en el Banco de Proyectos de Inversión Pública, deberán contar con su respectiva solicitud de autorización de recursos, fundada y motivada por parte de los Ejecutores de gasto del Estado.
+V. Todas las acciones y/o proyectos registrados en el Banco de proyectos de inversión pública, deberán contar con su respectiva solicitud de autorización de recursos, fundada y motivada por parte de los Ejecutores de gasto del Estado y Municipios.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+El Poder Legislativo, Poder Judicial, los Órganos Autónomos por disposición constitucional, y los Municipios podrán presentar proyectos de inversión pública ante la Secretaría, siempre y cuando acaten las disposiciones de las fracciones II, III, IV y V del párrafo anterior, las disposiciones del Reglamento de la Ley y las demás que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+Asimismo, solo podrán ser considerados para la programación de recursos del gasto de inversión, aquellos proyectos que cumplan estrictamente con las disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+Es responsabilidad de los ejecutores de gasto y los Municipios, el presentar información veraz y congruente para la integración de los proyectos de inversión pública, de conformidad a la normatividad aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 31 Bis.
 
-Una vez autorizados los programas y los presupuestos respectivos para Proyectos de inversión, la responsabilidad de los mismos recaerá sobre los Ejecutores de gasto encargados de la realización de los mismos, quiénes serán responsables de su correcta aplicación, ejecución y comprobación conforme lo establecido en las disposiciones aplicables y la presente Ley.
+Una vez autorizados los programas y los presupuestos respectivos para proyectos de inversión pública, la responsabilidad de los mismos recaerá sobre los Ejecutores de gasto encargados de la realización de los mismos, quienes serán responsables de su correcta aplicación, ejecución y comprobación conforme lo establecido en las disposiciones aplicables y la presente Ley.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+Los municipios a los que les sean autorizados proyectos de inversión pública por la Secretaría, serán los exclusivos responsables, respecto de esos proyectos, de:
+
+I. El ejercicio del presupuesto, destino de los recursos, registro, resguardo y custodia de la documentación justificativa y comprobatoria;
+
+II. Rendir cuentas por la administración y ejercicio de los recursos públicos en términos de las disposiciones legales aplicables;
+
+III. Presentar a la Secretaría, la documentación necesaria para reportar la situación financiera y programática de los recursos públicos, para efectos de su seguimiento, evaluación y fiscalización por las autoridades competentes, en términos de las disposiciones legales aplicables;
+
+IV. Los compromisos y obligaciones contraídos sin contar con la disponibilidad presupuestaria;
+
+V. Acatar las disposiciones en materia de transparencia que deriven del ejercicio de los recursos;
+
+VI. Remitir los informes que correspondan en términos de las disposiciones federales y estatales que resulten aplicables; y
+
+VII. Las demás que resulten aplicables en términos de esta ley, su Reglamento y demás disposiciones que resulten aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -1121,7 +1103,9 @@ a) La distribución de recursos para atender las políticas transversales, donde
 
 b) La estimación de los recursos necesarios para ejercer paripassus que podrá reflejar variaciones conforme sean suscritos los convenios respectivos;
 
-c) Los tabuladores de sueldos y salarios a que se refiere el artículo 137 de la Constitución Política del Estado Libre y Soberano de Oaxaca, y
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+c) Los tabuladores de sueldos y salarios a que se refiere al (sic) artículo 138 de la Constitución Política del Estado Libre y Soberano de Oaxaca;
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JULIO DE 2023)</small>
 
@@ -2255,27 +2239,7 @@ SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 
 TERCERO. En un plazo no mayor de 120 días naturales, contados a partir de la entrada en vigor de este Decreto, el Ejecutivo del Estado deberá realizar las reformas y adiciones que sean necesarias al Reglamento de la Ley Estatal de Presupuesto y Responsabilidad Hacendaria en virtud de lo dispuesto en este Decreto.
 
-CUARTO. En un plazo no mayor a 60 días naturales, contados a partir de la entrada en vigor del Decreto por el que se reforme y adicione el Reglamento de la Ley Estatal de Presupuesto y Responsabilidad Hacendaria, la Secretaría de Finanzas deberá expedir las reglas de operación del Fondo de Estabilización de los Ingresos del Estado de Oaxaca.
-
-Las reglas de operación deberán prever, por lo menos, lo siguiente:
-
-a) Los procedimientos internos del Fondo relativos al depósito de los recursos y, en su caso, para realizar los reintegros que correspondan;
-
-b) La existencia de un Comité Técnico, en el cual participen como mínimo las secretarías de Finanzas y de Contraloría y Transparencia Gubernamental, así como la Consejería Jurídica del Gobierno del Estado, que tome las decisiones del Fondo;
-
-c) Reglas para determinar la política de inversión y los medios para la protección de los recursos;
-
-d) Los procedimientos para que el Comité Técnico del Fondo autorice las disposiciones del Fondo para compensar las disminuciones de los ingresos de libre disposición previstos en la Ley de Ingresos del ejercicio fiscal correspondiente, y
-
-e) Los procedimientos operativos que regirán los registros y la generación de información, cuando menos, de lo siguiente:
-
-I. Las aportaciones de recursos al Fondo;
-
-II. El entero a la Tesorería de las cantidades necesarias para compensar la disminución de ingresos, y
-
-III. Los reintegros que, en su caso, resulten de las aportaciones recibidas.
-
-Las reglas de operación del Fondo de Estabilización de los Ingresos del Estado de Oaxaca deberán publicarse en el Periódico Oficial del Estado;
+CUARTO. (DEROGADO, P.O. 16 DE DICIEMBRE DE 2023)
 
 QUINTO. Lo previsto en la fracción IV del artículo 17 Bis de la Ley se aplicará sin perjuicio de que, en tanto no se culmine la interrelación de los sistemas a que se refiere el artículo 66 de la Ley Estatal de Presupuesto y Responsabilidad Hacendaria, conforme a lo mandatado en el Decreto No. 402 PPOE de fecha 16 de marzo de 2019, se continuarán realizando las adecuaciones indispensables que correspondan para cubrir las percepciones en cumplimiento a derechos adquiridos.
 
@@ -2316,3 +2280,11 @@ P.O. 14 DE OCTUBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1613.- MEDIANTE EL CUAL SE REFORMAN, LOS ARTÍCULOS 31 PÁRRAFO PRIMERO Y FRACCIÓN V, 31 BIS Y 36, FRACCIÓN III, INCISO c); SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 31 Y UN PÁRRAFO SEGUNDO, FRACCIONES I, II, III, IV, V, VI Y VII AL ARTÍCULO 31 BIS; Y SE DEROGAN LA FRACCIÓN II DEL ARTÍCULO 17, EL ARTÍCULO 17 BIS, Y EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NUMERO 1811 PUBLICADO EN LA SEGUNDA SECCIÓN DEL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 26 DE DICIEMBRE DE 2020; TODOS DE LA LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veinticuatro, previa publicación en el Periódico Oficial del Gobierno del Estado.
