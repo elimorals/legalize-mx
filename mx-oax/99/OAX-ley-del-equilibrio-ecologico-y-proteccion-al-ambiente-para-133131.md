@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-para-1331
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-10"
-last_updated: "2022-10-22"
+last_updated: "2023-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 10 de noviembre de 2018.
 
@@ -1403,7 +1403,9 @@ II. Proporcionar a los animales un ambiente adecuado para su descanso, movimient
 
 III. Suministrar a los animales atención médica preventiva y en caso de enfermedad brindar tratamiento médico expedito avalado por un médico veterinario;
 
-IV. Promover campañas de esterilización y la creación de refugios locales, a efecto de controlar y su propagación y permitir a los animales la expresión de su comportamiento natural;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+IV. Promover políticas públicas para la esterilización canina y felina, temprana, sistemática, masiva, extendida y la creación de refugios locales, a efecto de controlar su propagación y permitir a los animales la expresión de su comportamiento natural;
 
 V. Brindar a los animales un trato y condiciones que procuren su cuidado dependiendo de la especie, y;
 
@@ -3208,3 +3210,11 @@ P.O. 22 DE OCTUBRE DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1601.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN IV DEL ARTÍCULO 97 DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL MEDIO AMBIENTE PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Estado de Oaxaca.
