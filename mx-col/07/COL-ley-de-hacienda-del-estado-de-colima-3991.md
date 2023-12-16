@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2022-12-31"
+last_updated: "2023-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "COL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE ENERO DE 2024 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -1685,11 +1687,83 @@ c).- Opinión de riesgo de árbol o inmueble 1.500
 
 d).- Otras opiniones de protección civil 3.000
 
-VI.- Por los cursos de capacitación en materia de protección civil:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-a).- Capacitación por participante, en cada curso 4.000
+VI. Por los cursos de capacitación en materia de protección civil, por persona:
 
-b).- Capacitación por grupo con un mínimo de 21 participantes, en cada curso 80.000
+a) (DEROGADO, P.O. 16 DE DICIEMBRE DE 2023)
+
+b) (DEROGADO, P.O. 16 DE DICIEMBRE DE 2023)
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+c) Curso de brigada de primeros auxilios 4.000
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+d) Curso de brigada de combate de incendios 3.000
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+e) Curso de brigada de búsqueda y rescate 3.000
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+f) Curso de brigada de evacuación 3.000
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+g) Curso de formación de brigadas 3.000
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+h) Curso de rescate vertical básico 14.500
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+i) Curso de rescate vertical intermedio 25.000
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+j) Curso de sistema de comando de incidentes 25.000
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+k) Curso de reducción del riesgo en eventos masivos 5.000
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+l) Curso de identificación del riesgo y
+
+programas de emergencia 4.000
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+m) Curso de materiales peligrosos
+
+nivel reconocimiento 7.000
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+n) Curso de soporte vital básico 5.000
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+ñ) Curso de manejo de la vía aérea 5.000
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+o) Curso de electro básico y uso del
+
+monitor desfibrilador 5.000
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+p) Curso de operador de vehículos de emergencia 15.000
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+q) Curso de rescate en espacios confinados 15.000
 
 VII.- Por cualquier otro servicio que conlleve la aplicación de recursos 5.000
 
@@ -2226,6 +2300,18 @@ XV. Revista vehicular para vehículos de servicio público:
 a) Revista vehicular por vehículo 0.000
 
 b) Revista vehicular extemporánea por vehículo 6.000
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+XVI. Por la prestación del servicio de capacitación para la movilidad.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+a) Capacitación y expedición de constancia
+
+para el servicio de transporte público,
+
+individual o colectivo 2.000
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
@@ -3213,6 +3299,10 @@ n) Artes Plásticas 1.558
 
 o) Joyería 1.558
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+p) Trompeta y trombón 1.558
+
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 59.
@@ -3255,13 +3345,15 @@ a).- Cuando se paguen las cuotas directamente al momento del acceso y uso de las
 
 14.- Auditorio por partido de voleibol y básquetbol 3.947
 
-15.- Gimnasio de fisicoculturismo, por mes por persona 3.900
+15.- (DEROGADO, P.O. 16 DE DICIEMBRE DE 2023)
 
-16.- Gimnasio de fisicoculturismo, por día por persona 0.171
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+16.- Gimnasio de fisicoculturismo, por día por persona 0.112
 
 17.- Pista sintética de atletismo, por persona 0.100
 
-18.- Villa deportiva por día de hospedaje, por persona 1.000
+18.- (DEROGADO, P.O. 16 DE DICIEMBRE DE 2023)
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
@@ -3303,7 +3395,123 @@ a).- Cuando se paguen las cuotas directamente al momento del acceso y uso de las
 
 28.- Campo de Futbol rápido con iluminación por hora 4.500
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+29.- Entrada General: Auditorio Porfirio Gutiérrez 0.1000
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+30.- Curso de verano para personas de 6 a 12 años de edad:
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+30.1.- Individual 10.091
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+30.2.- Por dos hermanos 19.174
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+30.3.- Por tres hermanos 28.256
+
 b) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2018)
+
+> <small>[N. DE E. VÉASE LA LITERALIDAD DEL DECRETO EN EL P.O. DE 16 DE DICIEMBRE DE 2023, PÁGINAS DE LA 13 A LA 14. SE SUGIERE CONSULTAR LA HISTORIA LEGISLATIVA DE ESTE ARTÍCULO]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS NUMERALES], P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+c).- … (sic)
+
+1.- … (sic)
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+1.1.- Mensual 1.800
+
+1.2.- … (sic)
+
+2.- … (sic)
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+2.1.- Mensual 2.270
+
+2.2.- … (sic)
+
+3.- … (sic)
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+3.1.- Mensual 2.730
+
+3.2.- … (sic)
+
+4.- … (sic)
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+4.1.- Mensual 3.640
+
+4.2.- … (sic)
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+5.- Para cancha de tenis por hora y por persona, sin iluminación artificial:
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+5.1.- Mensual 9.000
+
+5.2.- … (sic)
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+6.- Para cancha de tenis por hora y por persona, con iluminación artificial:
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+6.1.- Mensual (sic)10.900
+
+6.2.- … (sic)
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+7.- Para cancha de frontenis por hora y por persona, con iluminación artificial:
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+7.1.- Mensual 10.900
+
+7.2.- … (sic)
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+8.- Para cancha de squash por hora y por persona, sin iluminación artificial:
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+8.1.- Mensual 6.300
+
+8.2.- … (sic)
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+9.- Para cancha de squash por hora y por persona, con iluminación artificial:
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+9.1.- Mensual 10.900
+
+9.2.- … (sic)
+
+10.- … (sic)
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+10.1.- Mensual 2.500
+
+10.2.- … (sic)
 
 II.- ESTADIO COLIMA:
 
@@ -3313,47 +3521,57 @@ a).- Campo de fútbol, por partido 6.250
 
 b) Campo de Futbol, por partido con iluminación artificial 7.500
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+c).- Entrada general 0.1000
+
 III.- DEPARTAMENTO DE MEDICINA Y CIENCIAS APLICADAS AL DEPORTE:
 
-a).- Certificado médico en general 0.250
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+a).- Certificado médico en general 0.700
 
 b).- Certificado médico de natación 0.500
 
-c).- Consulta general 0.500
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-d).- Sesión de Ultrasonido 0.375
+c).- Consulta general 0.550
 
-e).- Sesión de Tenis 0.375
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+d).- Sesión de ultrasonido 1.000
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+e).- Sesión de Tens (sic) 0.750
 
 f).- Sutura 1.250
 
-g).- Curación 0.250
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+g).- Curación 0.380
 
-IV.- AUDITORIO "MANUEL BONILLA VALLE"
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-a).- Para la realización de eventos sociales en el área del Mezanine, generales de la zona 83.120
+h).- Consulta nutricional 1.000
 
-b).- Para la realización de reuniones y convenciones en el área del Mezanine, por hora, generales de la zona 9.500
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-c).- Para la realización de exposiciones y otros en el Lobby, por día, generales de la zona 47.500
+i).- Consulta psicológica 1.000
 
-d).- Para la realización de espectáculos públicos en el área de tribuna, por evento, generales de la zona 149.600
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-e).- Por el uso de la cancha deportiva, por hora general de la zona 2.850
+j).- Consulta fisioterapia 1.300
 
-f).- Por el uso del área de la explanada, generales de la zona, por evento 5.930
-
-g).- Por el uso de las canchas deportivas que requieren alumbrado, por hora utilizada 4.280
-
-h).- Por uso del inmueble en cualquier evento que no sea deportivo, por hora, respecto al uso de alumbrado 4.750
+IV.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2023)
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
 V. Por el uso de instalaciones para eventos:
 
-1.- Alberca, por día 30.000
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+1.- Alberca por día 100.000
 
 2.- Auditorio Porfirio Gutiérrez, por día 37.000
 
@@ -3361,9 +3579,9 @@ V. Por el uso de instalaciones para eventos:
 
 4.- Auditorio Multifuncional, por día 125.000
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-Los ingresos que se obtengan de los diversos conceptos establecidos en el presente artículo, serán destinados íntegramente a la conservación y mejoramiento físico de las instalaciones de las Unidades Deportivas Morelos y Rey Colimán, así como del Estadio Colima y el Auditorio Manuel Bonilla Valle.
+Los ingresos que se obtengan de los diversos conceptos establecidos en el presente artículo, serán destinados íntegramente a la conservación y mejoramiento físico de las instalaciones de las unidades deportivas, José María Morelos, Gustavo Vázquez Montes, Rey Colimán y el Estadio Colima.
 
 > <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
@@ -4193,119 +4411,179 @@ MEDIDA Y
 
 ACTUALIZACIÓN
 
-(ACTUALIZADA EN SU MONTO, P.O. 29 DE NOVIEMBRE DE 2014)
-
-I.- Recepción, evaluación y otorgamiento del resolutivo del informe de factibilidad ambiental en materia de impacto ambiental 35.000
-
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
-
-Estarán exentos de pago de este derecho las personas físicas y morales cuyo capital en la actividad u obra a desarrollar sea menor o igual a 2,850 unidades de medida y actualización, así como en el supuesto a que hace referencia el último párrafo del artículo 42 de la Ley Ambiental para el Desarrollo Sustentable del Estado de Colima.
+I.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2023)
 
 II.- Recepción, evaluación y otorgamiento del resolutivo de la manifestación de impacto ambiental:
 
-(ACTUALIZADO EN SU MONTO, P.O. 29 DE NOVIEMBRE DE 2014)
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-1.- En su modalidad MIA-1 75.000
+1.- En su modalidad MIA-1 50.000
 
-(ACTUALIZADO EN SU MONTO, P.O. 29 DE NOVIEMBRE DE 2014)
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-2.- En su modalidad MIA-2 125.000
+2.- En su modalidad MIA-2 250.000
 
-III.- Por la recepción, evaluación y en su caso otorgamiento del refrendo del resolutivo o ampliación de vigencia:
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-1.- En su modalidad de informe de factibilidad 10.000
+3.- En su modalidad de diagnóstico
 
-2.- En su modalidad MIA-1 20.000
+ambiental (MADA) 510.000
 
-3.- En su modalidad MIA-2 30.000
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-4.- En su modalidad de diagnóstico ambiental 40.000
+4.- En su modalidad de riesgo
 
-5.- En su modalidad de riesgo ambiental 20.000
+ambiental (MARA) 150.000
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+5.- En su modalidad de informe
+
+de factibilidad (IFA) 70.000
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+Estarán exentos del pago del derecho establecido en este apartado, las personas físicas y morales cuyo capital en la actividad u obra a desarrollar sea igual o menor a 2,850 veces la Unidad de Medida y Actualización diaria, así como en el supuesto a que hace referencia el último párrafo del artículo 42 de la Ley Ambiental para el Desarrollo Sustentable del Estado de Colima.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+III.- Por la recepción, evaluación y en su caso otorgamiento de la revalidación del resolutivo o ampliación de vigencia:
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+1.- En su modalidad de informe
+
+de factibilidad 20.000
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+2.- En su modalidad MIA-1 75.000
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+3.- En su modalidad MIA 2 125.000
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+4.- En su modalidad de diagnóstico
+
+ambiental (MADA) 80.000
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+5.- En su modalidad de riesgo ambiental (MARA) 40.000
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 6.- Por el otorgamiento del certificado de cabal cumplimiento de las condicionantes establecidas en la Ley Ambiental para el Desarrollo Sustentable del Estado de Colima 70.000
 
-(ACTUALIZADA EN SU MONTO, P.O. 29 DE NOVIEMBRE DE 2014)
+IV.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2023)
 
-IV.- Por la recepción, evaluación y otorgamiento del resolutivo del manifiesto de riesgo ambiental 75.000
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-V.- Por la inscripción o refrendo en el Registro Estatal de Prestadores de Servicios, de las personas físicas o morales que realicen manifiestos de impacto o riesgo, diagnóstico ambiental o informes de factibilidad, anualmente:
+V.- Por la inscripción o refrendo en el Registro Estatal de Prestadores de Servicios Ambientales, de las personas físicas o morales que realicen manifiestos de impacto o riesgo, diagnóstico o informes de factibilidad, anualmente:
 
-1.- Por la inscripción 260.000
+1.- Por la inscripción 520.000
 
-2.- Por el refrendo 160.000
+2.- Por el refrendo 320.000
 
 VI.- Por la inscripción o refrendo en el Registro Estatal de Prestadores de Servicios Ambientales, de los laboratorios ambientales que realicen análisis de contaminantes, anualmente 300.000
 
-(ACTUALIZADA EN SU MONTO, P.O. 29 DE NOVIEMBRE DE 2014)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-VII.- Por la recepción, evaluación y otorgamiento del resolutivo del manifiesto de diagnóstico ambiental en materia de impacto ambiental 155.000
+1.- Por la inscripción 300.000
 
-VIII.- Poda o derribo de árboles:
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+2.- Por el refrendo 150.000
+
+VII.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2023)
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+VIII.- Por la autorización de poda o derribo de árboles:
 
 1.- Especies comerciales e industriales:
 
-1.1.- Por poda 1.000
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+1.1.- Por poda 2.000
 
 1.2.- Por derribo:
 
-a).- Arboles hasta 30 cm. de diámetro
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-del fuste principal 2.000
+a).- Árboles hasta 30 cm. de diámetro
 
-b).- Arboles de 31 hasta 50 cm. de diámetro
+del fuste principal 4.000
 
-del fuste principal 3.000
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-c).- Arboles de 51 hasta 70 cm. de diámetro
+b).- Árboles de 31 hasta 50 cm. de
 
-del fuste principal 6.000
+diámetro del fuste principal 6.000
 
-d).- Arboles de 71 hasta 90 cm. de diámetro
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-del fuste principal 10.000
+c).- Árboles de 51 hasta 70 cm. de
 
-e).- Arboles de 91 hasta 120 cm. de diámetro
+diámetro del fuste principal 12.000
 
-del fuste principal 15.000
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-f).- Arboles de 121 o más cm. de diámetro
+d).- Árboles de 71 hasta 90 cm. de
 
-del fuste principal 25.000
+diámetro del fuste principal 20.000
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+e).- Árboles de 91 hasta 120 cm. de
+
+diámetro del fuste principal 30.000
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+f).- Árboles de 121 o más cm. de
+
+diámetro del fuste principal 50.000
 
 No se pagará el derecho a que se refiere esta fracción, cuando el Instituto dictamine que el árbol cuya poda o derribo se solicita, afecta al equipamiento urbano o a la propiedad del solicitante o que por sus condiciones físicas de deterioro se dictamine procedente su derribo.
 
-IX.- Por la recepción, evaluación y otorgamiento de la licencia ambiental única a las fuentes fijas de jurisdicción estatal:
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-(ACTUALIZADO EN SU MONTO, P.O. 29 DE NOVIEMBRE DE 2014)
+IX.- Por la recepción, evaluación y otorgamiento de la licencia ambiental única a las fuentes fijas de jurisdicción estatal (LAU):
 
-1.- Por la recepción y evaluación 30.000
+1.- Por la recepción, evaluación y otorgamiento 60.000
 
-(ACTUALIZADO EN SU MONTO, P.O. 29 DE NOVIEMBRE DE 2014)
+2.- Por la revalidación de la licencia 30.000
 
-2.- Por el otorgamiento de la licencia 15.000
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+X.- Por la recepción, evaluación y otorgamiento de la licencia local de funcionamiento a las fuentes fijas de jurisdicción estatal (LAF):
 
-X.- Por la recepción, evaluación y otorgamiento de la resoluciónde (sic) la licencia local de funcionamiento a las fuentes fijas de jurisdicción estatal:
+1.- Por la recepción, evaluación y otorgamiento 50.000
 
-1.- Por la recepción y evaluación 10.000
-
-2.- Por el otorgamiento de la licencia 5.000
+2.- Por la revalidación de la licencia 25.000
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 XI.- Por la recepción, evaluación y otorgamiento de la autorización para efectuar la recolección, transporte, acopio, reutilización o reciclaje de residuos sólidos:
 
-1.- Por la recepción y evaluación 5.000
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-2.- Por el otorgamiento de la autorización 2.000
+1.- Por la recepción, evaluación y
+
+otorgamiento de la autorización 10.000
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+2.- Por la revalidación de la autorización 4.000
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 XII.- Por la expedición del certificado
 
-de bajas emisiones 12.000
+de bajas emisiones 24.000
 
 XIII.- Por la expedición de copias certificadas
 
@@ -4313,11 +4591,19 @@ de las actuaciones que obren en los expedientes
 
 administrativos:
 
-1.- Por la primer hoja o actuación 0.500
+(NOTA: EL 28 DE OCTUBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 9/2024, DECLARÓ LA INVALIDEZ DEL NUMERAL 1 DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE OCTUBRE DE 2025, DE ACUERDO CON LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-2.- Por cada hoja, actuación o fracción
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-siguiente a la primera 0.040
+1.- POR LA PRIMERA HOJA O ACTUACIÓN 1.000
+
+(NOTA: EL 28 DE OCTUBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 9/2024, DECLARÓ LA INVALIDEZ DEL NUMERAL 2 DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE OCTUBRE DE 2025, DE ACUERDO CON LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+2.- POR CADA HOJA, ACTUACIÓN O FRACCIÓN
+
+SIGUIENTE A LA PRIMERA 0.080
 
 XIV.- Por el acceso y uso de las instalaciones del Parque Regional Metropolitano "GRISELDA ALVAREZ":
 
@@ -4339,39 +4625,43 @@ del dictamen de congruencia de factibilidad de uso de suelo
 
 en materia de ordenamiento ecológico 10.000
 
-XVI.- Por la recepción, evaluación y otorgamiento
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-de la cédula de operación anual a las fuentes fijas
+1.- Modalidad de proyectos de aprovechamiento 20.000
 
-de jurisdicción estatal 10.000
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-XVII.- Por la recepción, evaluación y otorgamiento de
+2.- Modalidad de escrituración de predios 5.000
 
-la resolución de la determinación del plan de manejo de
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-residuos especiales 15.000
+XVI.- Por la recepción, evaluación y
 
-XVIII.- Por la revalidación de la resolución del plan de
+otorgamiento de la cédula de operación
 
-manejo de residuos especiales 5.000
+anual a las fuentes fijas de
 
-> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+jurisdicción estatal (COA) 20.000
 
-XIX.- Por el otorgamiento del dictamen de ruido. 30.000
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+XVII.- Por la recepción, evaluación y
 
-XX.- Por el otorgamiento del Certificado de
+otorgamiento de la resolución del plan
 
-Control de Emisiones de Fuentes Móviles
+de manejo de residuos especiales (PMRME) 30.000
 
-a solicitud del interesado, por cada uno:
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-a).- Vehículos a gasolina 5.000
+XVIII.- Por la revalidación de la
 
-b).- Vehículos a gas LP 8.000
+resolución del plan de manejo de residuos
 
-c).- Vehículos a diesel 12.000
+especiales (PMRME) 10.000
+
+XIX.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2023)
+
+XX.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2023)
 
 No se pagarán los derechos establecidos en las fracciones I, II, III, IV y VII de este artículo, cuando los servicios de que se trate estén destinados a la realización de obras públicas.
 
@@ -4739,13 +5029,17 @@ c).- Habitacional densidad alta 4.000
 
 d).- Industrial, comercial y granjas 3.360
 
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-XIII.- Inscripción de actas de asambleas de socios,
+XIII. Inscripción de actas de asamblea
 
-juntas de administradores, o actas de sesión de consejo
+de socios, juntas de administradores, o
 
-de administración 7.690
+actas de sesión de (sic) consejo de
+
+administración de las personas morales,
+
+independientemente del número de sus integrantes 7.690
 
 > <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
@@ -7038,3 +7332,11 @@ P.O. 31 DE DICIEMBRE DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 16 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 386.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día 1° de enero del año 2024, previa su publicación en el Periódico Oficial "El Estado de Colima".
