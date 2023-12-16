@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-hacienda-del-estado-de-oaxaca-90923"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-15"
-last_updated: "2022-12-15"
+last_updated: "2023-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE HACIENDA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 15 de diciembre de 2012.
 
@@ -89,9 +89,7 @@ X. Tasa o Tarifa: Porcentaje que se aplica a la base para determinar el monto de
 
 XI. Unidad de Medida y Actualización (UMA): Unidad de cuenta, índice, base, medida o referencia establecida por el Instituto Nacional de Estadística y Geografía, en términos de lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, y la ley reglamentaria de la materia.
 
-> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2017)</small>
-
-XII. Zona Económica Especial: La establecida por la Ley Federal de Zonas Económicas y la Ley de Coordinación Estatal de las Zonas Económicas Especiales.
+XII. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2023)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
@@ -116,6 +114,10 @@ Es objeto de este impuesto:
 I. Los ingresos que se perciban sobre el total de billetes o boletos enajenados para participar en rifas, loterías, sorteos y concursos de toda clase que se celebren dentro del territorio del Estado.
 
 II. Los ingresos obtenidos de premios en efectivo o en especie derivados de rifas, loterías, sorteos y concursos de toda clase.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+No serán objeto de este impuesto los ingresos obtenidos por premios con motivo de concursos científicos, académicos, artísticos o literarios.
 
 ###### ARTÍCULO 5.
 
@@ -149,9 +151,9 @@ II. Ingresos por la obtención de premios 6 por ciento.
 
 Las personas físicas, morales o unidades económicas que organicen o celebren eventos generadores de premios objeto de este impuesto, tendrán las siguientes obligaciones:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-I. Presentar ante la Secretaría, en los Centros Integrales de Atención al Contribuyente o en los Módulos de Atención al Contribuyente que corresponda a su domicilio fiscal en el Estado, a más tardar cinco días hábiles antes de realizarse el evento o espectáculo público:
+I. Presentar ante la Secretaría, Centro Integral de Atención al Contribuyente o Módulo de Atención al Contribuyente que corresponda a su domicilio fiscal en el Estado, a más tardar cinco días hábiles antes de realizarse el evento:
 
 a) El aviso en el formato que para tal efecto emita la Secretaría;
 
@@ -181,17 +183,11 @@ Los servidores públicos estatales o municipales, al otorgar permisos para la re
 
 La Secretaría será competente para intervenir durante el desarrollo de la rifa, lotería, sorteo o concurso atendiendo a las formalidades señaladas en el Código.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 9.
 
-No causarán este impuesto:
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-I. Los ingresos obtenidos por la enajenación de billetes y demás comprobantes que permiten participar en rifas, loterías, sorteos y concursos de toda clase, organizados por organismos públicos descentralizados de la Administración Pública Federal o Estatal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública; así como los obtenidos por las instituciones educativas sin fines de lucro, y
-
-II. Los ingresos obtenidos por premios con motivo de concursos científicos, académicos, artísticos o literarios.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+Estarán exentos de este impuesto, los ingresos obtenidos por la enajenación de billetes y demás comprobantes que permitan participar en rifas, loterías, sorteos y concursos de toda clase, organizados por el Heroico Cuerpo de Bomberos, fundaciones o asociaciones civiles, organismos públicos descentralizados de la Administración Pública Federal o Estatal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública; así como los obtenidos por las instituciones educativas sin fines de lucro, que sean destinados a la asistencia pública.
 
 ### CAPÍTULO SEGUNDO. SOBRE DIVERSIONES Y ESPECTÁCULOS PÚBLICOS
 
@@ -269,9 +265,11 @@ Los servidores públicos estatales o municipales, al otorgar permisos para la re
 
 Son responsables solidarios en el pago de este impuesto los que organicen, manejen, patrocinen o intervengan, sea cual fuere el nombre y función con el que lo hagan, en las actividades gravadas en este capítulo, así como los propietarios de una empresa dedicada a otro giro, cuando permitan que en su local se exploten las actividades descritas, por las cuales se cobre al espectador y que sean distintos al precio de los servicios que tiene autorizado el establecimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 20.
 
-No causarán este impuesto:
+Estarán exentos de este impuesto:
 
 I. Las diversiones o espectáculos públicos organizados directamente por la Federación, Estado, Municipios o instituciones de beneficencia pública debidamente reconocidas; y
 
@@ -291,9 +289,13 @@ b) Artista Independiente: Al creador o intérprete que no depende de institució
 
 c) Grupo independiente a dos o más individuos interactuantes e interdependientes, que se reúnen para crear o interpretar por si mismos sus productos culturales y que financian con recursos propios la realización de sus actividades.
 
-La Federación, Ayuntamientos, Poderes Legislativo y Judicial, Órganos Autónomos, dependencias, organismos descentralizados e instituciones de beneficencia pública; deberán dar aviso a la Secretaría de las diversiones o espectáculos públicos que organicen directamente quince días antes de la realización del evento.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-Tratándose de las instituciones de beneficencia pública deberán acreditar con el instrumento jurídico que reconozca debidamente su situación.
+Los sujetos que se encuentren en este artículo deberán cumplir con las obligaciones señaladas en el artículo 15 de esta Ley, a excepción de lo establecido en la fracción II.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+Tratándose de las instituciones de beneficencia pública deberán acreditar con el instrumento jurídico que reconozca debidamente su situación; los artistas o grupos independientes, deberán acreditar su calidad con el documento oficial que expida la Secretaría de las Culturas y Artes.
 
 ###### ARTÍCULO 21.
 
@@ -329,21 +331,17 @@ Cuando los ingresos gravados por este impuesto, deriven de bienes en copropiedad
 
 Lo dispuesto en los párrafos anteriores es aplicable a los integrantes de la sociedad conyugal en caso de que el bien forme parte de la misma.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DEL 2018)</small>
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-Las personas físicas que otorguen el uso o goce temporal de bienes inmuebles ubicados dentro del polígono territorial de las zonas económicas especiales, no causarán el pago de este impuesto por un periodo de diez años a partir de que se genere la obligación del pago.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DEL 2018)</small>
-
-Posteriormente a los diez años de no causación, las personas físicas que otorguen el uso o goce temporal de bienes inmuebles dentro del polígono territorial de las zonas económicas especiales, se les calculará este impuesto aplicando una tasa de dos puntos cinco por ciento sobre la base que señala en el artículo 24 de esta Ley por los cinco años siguientes.
+> <small>(DEROGADO OCTAVO PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 Son responsables solidarios de este impuesto los Poderes Legislativo y Judicial, Órganos Autónomos, Dependencias y Entidades de la Federación, el Estado o Municipios, que estén obligados a retener conforme lo señalado en este artículo.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-Los responsables solidarios deberán retener y enterar el impuesto conforme al procedimiento que para tal efecto se establezca en Reglas, debiendo proporcionar a los contribuyentes constancias de retención y comprobante fiscal.
+Los responsables solidarios deberán retener y enterar el impuesto conforme al procedimiento y formatos que para tal efecto se establezca en Reglas, debiendo proporcionar a los contribuyentes constancias de retención y el comprobante fiscal.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
@@ -451,11 +449,11 @@ La presentación de las declaraciones a que refiere este artículo se realizará
 
 ### CAPÍTULO CUARTO. SOBRE LAS DEMASÍAS CADUCAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 29.
 
-Es objeto del presente impuesto, el remanente que queda a favor de los pignorantes y que puesto a disposición de estos últimos no son cobrados a las Casas de Empeño, después de que éstas últimas descuentan del monto de la venta de la prenda, el capital prestado, los intereses devengados y los gastos de almacenaje.
+Es objeto del presente impuesto, las demasías caducas, que corresponde al remanente que queda a favor de los pignorantes y que puesto a disposición de estos últimos no son cobrados a las Casas de Empeño, después de que estas últimas descuentan del monto de la venta de la prenda, el capital prestado, los intereses devengados y los gastos de almacenaje, gastos de administración, comisión por comercialización, comisión por avalúo, comisión por reposición del contrato y comisión por desempeño extemporáneo.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
@@ -485,9 +483,9 @@ Al importe de la determinación presuntiva de los remanentes que quedan a favor 
 
 El pago de este impuesto se efectuará mediante declaración bimestral definitiva que deberá ser presentada en los primeros 17 días de los meses de marzo, mayo, julio, septiembre, noviembre, y enero del año siguiente.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-Los sujetos obligados al pago de este impuesto, deberán presentar declaración anual informativa del ejercicio dentro de los tres meses siguientes al cierre del mismo, cuando hayan obtenido ingresos anuales superiores (sic) $5,000.00.
+Los sujetos obligados al pago de este impuesto deberán presentar declaración anual informativa del ejercicio dentro de los tres meses siguientes al cierre del mismo, cuando hayan obtenido ingresos anuales superiores a $5,000.00.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
@@ -1063,13 +1061,9 @@ Se entiende por enajenación de vehículos de motor usados, la que derive de tod
 
 Son sujetos de este impuesto las personas físicas, morales o unidades económicas, que adquieran vehículos de motor usados dentro del territorio del estado de Oaxaca, cuando no se cause el Impuesto al Valor Agregado.
 
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-Las personas físicas, morales o unidades económicas que se instalen dentro del polígono territorial de las zonas económicas especiales no causarán el pago de este impuesto por un periodo de diez años a partir de que se genere la obligación del pago.
-
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
-
-Posteriormente a los diez años de no causación, las personas físicas, morales o unidades económicas que se instalen dentro del polígono territorial de las zonas económicas especiales, se les calculará este impuesto aplicando una tasa de cero punto tres por ciento sobre la base que señala en el artículo 48 de esta Ley por los cinco años siguientes.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DEL 2018)</small>
 
@@ -1125,9 +1119,7 @@ Son sujetos obligados al pago del impuesto que establece este capítulo, las per
 
 Las personas físicas, morales o unidades económicas que en su carácter de intermediarias, promotoras o facilitadoras intervengan de cualquier forma en el cobro de las contraprestaciones por servicio de hospedaje y en caso de que se cubra a través de ellas lo correspondiente al impuesto, deberán inscribirse al padrón del impuesto correspondiente en su carácter de intermediario, promotor o facilitador a efecto de coadyuvar en la recaudación y entero de dicho impuesto. La Secretaría emitirá Reglas que determine la forma de alta y baja del registro y de la presentación de las declaraciones correspondientes.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DEL 2018)</small>
-
-Las personas físicas, morales o unidades económicas que reciban los servicios señalados en el artículo 52 dentro del polígono territorial de las zonas económicas especiales, no causaran el pago de este impuesto por un periodo de diez años a partir de que se genere la obligación del pago. Posteriormente a los diez años de no causación, se calculará el impuesto aplicando una tasa de uno punto cinco por ciento sobre la base que señala en el artículo 55 de esta Ley por los cinco años siguientes.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
 
@@ -1183,15 +1175,39 @@ La presentación de declaración informativa a que refiere este artículo se rea
 
 ### CAPÍTULO SÉPTIMO BIS. IMPUESTO A LA VENTA FINAL DE BEBIDAS CON CONTENIDO ALCOHÓLICO
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ARTÍCULO 57 A. Es objeto de este impuesto la venta final de bebidas con contenido alcohólico en envase cerrado, con excepción de la cerveza, el aguamiel y productos derivados de su fermentación, ya que se encuentran expresamente reservadas a la Federación.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
+
 Para efectos de este Capítulo, se entenderá como venta final la que se efectúa en el territorio del Estado, cuando en el mismo se realice la entrega material de los bienes objeto de este Capítulo, por parte del importador, productor, envasador o distribuidor, según sea el caso, para su posterior venta al público en general o consumo.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+Asimismo, para efectos de la determinación del impuesto por parte de la autoridad fiscal, se entenderá por:
+
+I. Distribuidor: A la persona física, moral o unidad económica dedicada a la distribución de bebidas alcohólicas;
+
+II. Envasador: A la persona física, moral o unidad económica que preste el servicio únicamente de introducir o colocar la bebida alcohólica en los recipientes que la habrán de contener, quien debe cumplir las autorizaciones y disposiciones normativas que le sean aplicables;
+
+III. Importador: A la persona física, moral o unidad económica que introduce al país mercancías extranjeras; y,
+
+IV. Productor: A la persona física, moral o unidad económica que cuenta con las instalaciones para la elaboración, y en su caso envasado, de bebidas alcohólicas.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+No se considera como venta final las operaciones realizadas entre importadores, productores, envasadores y distribuidores.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
 
 De igual forma se causará el presente impuesto cuando el importador, productor, envasador o distribuidor, según sea el caso, enajene directamente al público en general los bienes objeto de este capítulo en botella cerrada.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
+
 Asimismo, se considerará venta final, el faltante de inventario o el consumo propio de las bebidas descritas en el presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
 
 Se entenderá como bebidas con contenido alcohólico, aquellas que a la temperatura de 15° centígrados tengan una graduación alcohólica de más de 3°G.L., hasta 55°G.L., incluyendo el aguardiente y a los concentrados de bebidas alcohólicas aun cuando tengan una graduación alcohólica mayor.
 
@@ -1239,9 +1255,11 @@ Articulo 57 H. No se causará este impuesto por las ventas de bebidas alcohólic
 
 ### CAPÍTULO OCTAVO. PARA EL DESARROLLO SOCIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 58.
 
-Es objeto de este impuesto la realización de pago por concepto de derechos previstos en la Ley Estatal de Derechos.
+Es objeto de este impuesto la realización de pago por concepto de derechos previstos en la Ley Estatal de Derechos de Oaxaca.
 
 Los ingresos obtenidos por la recaudación de este impuesto, se destinarán a Programas Bienestar y los que fomenten la educación y la no deserción escolar en congruencia a los contenidos del Plan Estatal de Desarrollo.
 
@@ -1257,45 +1275,53 @@ La base de este impuesto, será el monto total de las erogaciones que realicen l
 
 Este impuesto se calculará aplicando a la base la tasa del 12 por ciento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 62.
 
-No causarán este impuesto los derechos por la prestación de servicios:
+No causarán este impuesto los derechos por la prestación de servicios públicos relativos a:
 
-I. Publicaciones;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+I. Atención en Salud;
 
 II. Supervisión de obra pública;
 
-III. Turismo y Desarrollo Económico;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-IV. Talleres impartidos por la Casa de la Cultura Oaxaqueña, Centro de Artes Plásticas Rufino Tamayo, Centro de Iniciación Musical de Oaxaca e Instituto de Capacitación y Productividad para el Trabajo del Estado de Oaxaca;
+III. Suministro de agua potable, alcantarillado y drenaje;
 
-V. Inspección y vigilancia;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-VI. Del Centro de Desarrollo Infantil;
+IV. Talleres o cursos impartidos por las instituciones siguientes: Taller de Artes Plásticas "Rufino Tamayo", Centro de Iniciación Musical de Oaxaca, Casa de la Cultura Oaxaqueña, Instituto de Capacitación y Productividad para el Trabajo del Estado de Oaxaca, y Centro de Atención y Desarrollo Infantil;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-VII. Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca;
+V. Servicio de guía;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-VIII. De atención en Salud;
+VI. Atención Social;
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-IX. Por visita guiada; y
+VII. Servicio de vigilancia, inspección y control de obra pública;
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-X. Acceso por persona a museos, teatros y ferias.
+VIII. Acceso por persona a museos, teatros, exposiciones y eventos de promoción comercial;
 
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-Las personas físicas, morales o unidades económicas que se instalen dentro del polígono territorial de las zonas económicas especiales no causarán el pago de este impuesto por un periodo de diez años a partir de que se genere la obligación del pago.
+IX. En materia de publicaciones, y
 
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-Posteriormente a los diez años de no causación, las personas físicas, morales o unidades económicas que se instalen dentro del polígono territorial de las zonas económicas especiales, se les calculará este impuesto aplicando una tasa de seis por ciento sobre la base que señala en el artículo 61 de esta Ley por los cinco años siguientes.
+X. Adquisición de boletos de "Lunes del Cerro".
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ### CAPÍTULO NOVENO. IMPUESTO SOBRE EROGACIONES POR REMUNERACIONES AL TRABAJO PERSONAL
 
@@ -1367,9 +1393,13 @@ Se exceptúan para el cálculo del impuesto, las erogaciones que se efectúen po
 
 I. Aportaciones del patrón al fondo de ahorro constituido a favor de sus trabajadores, cuando éste se encuentre registrado ante la Comisión Nacional del Sistema de Ahorro para el Retiro;
 
-II. Depósitos a la cuenta individual del trabajador de ahorro para el retiro, hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la Ley de la materia, y las aportaciones voluntarias y complementarias, hasta por un monto de 20 Salarios elevados al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-III. Membrecías o mantenimiento de clubes sociales o deportivos, colegiaturas y becas para trabajadores o para hijos de éstos, seguro de vida, seguro de gastos médicos mayores, gastos y honorarios médicos, siempre y cuando éstos no excedan por cada trabajador de 1 Salario, elevado al bimestre respectivo y se otorguen de manera general en términos de lo dispuesto por la Ley del Impuesto Sobre la Renta;
+II. Depósitos a la cuenta individual del trabajador de ahorro para el retiro, hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la Ley de la materia, y las aportaciones voluntarias y complementarias, hasta por un monto equivalente a veinte veces el salario mínimo general diario vigente en la Ciudad de México elevado al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+III. Membrecías o mantenimiento de clubes sociales o deportivos, colegiaturas y becas para trabajadores o para hijos de éstos, seguro de vida, seguro de gastos médicos mayores, gastos y honorarios médicos, siempre y cuando éstos no excedan por cada trabajador de 1 Salario mínimo general, elevado al bimestre respectivo y se otorguen de manera general en términos de lo dispuesto por la Ley del Impuesto Sobre la Renta;
 
 IV. Indemnizaciones por la rescisión o terminación de la relación laboral;
 
@@ -1395,15 +1425,19 @@ La excepción establecida se limitará al 10 por ciento del salario del trabajad
 
 XIII. Gastos funerarios;
 
-XIV. El ahorro cuando se integra por una cantidad igual del trabajador y del patrón, siempre y cuando no sea retirado por el trabajador más de dos veces al año, y
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+XIV. El ahorro cuando se integra por una cantidad igual del trabajador y del patrón, la aportación del contribuyente no exceda del trece por ciento del salario del trabajador y sin que en ningún caso dicha aportación exceda del monto equivalente de 1.3 veces el salario mínimo general elevado al año, siempre y cuando no sea retirado por el trabajador más de una vez al año, y
 
 XV. Pagos realizados a personas físicas, morales o unidades económicas, por la prestación de su trabajo personal independiente, por el cual se deba pagar y en su caso retener el Impuesto al Valor Agregado.
 
 Para que los conceptos anteriormente señalados se exceptúen deberán estar debidamente registrados en la contabilidad, en términos de lo dispuesto por el Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 68.
 
-No causarán este impuesto:
+Estarán exentos de este impuesto:
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE DICIEMBRE DE 2019)</small>
 
@@ -1435,21 +1469,15 @@ VI. Las uniones de ejidos y comunidades;
 
 VII. Las unidades agrícolas industriales de la mujer campesina, y;
 
-> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2017)</small>
-
-VIII. Las personas físicas, morales o unidades económicas que se instalen dentro del polígono territorial de las zonas económicas especiales.
+VIII. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2023)
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 IX. Los organismos públicos descentralizados del Estado cuando tengan por objeto la prestación de servicios de educación inicial básica incluyendo la indígena, especial, la normal y demás para la formación de maestros, así como la prestación de los servicios de salud a población abierta en el territorio del Estado.
 
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-La no causación de este impuesto será por un periodo de diez años a partir de que se genere la obligación del pago.
-
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
-
-Posteriormente a los diez años de no causación, las personas físicas, morales o unidades económicas que se instalen dentro del polígono territorial de las zonas económicas especiales, se les calculará este impuesto aplicando una tasa de uno punto cinco por ciento sobre la base que señala en el artículo 65 de esta Ley por los cinco años siguientes.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
 
@@ -1573,7 +1601,9 @@ Quedan comprendidos dentro de este Título, los ingresos que obtenga el Estado p
 
 I. Por el uso, aprovechamiento o enajenación de bienes del dominio privado del Estado, y
 
-II. Por los rendimiento financieros.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+II. Por los rendimientos financieros.
 
 ###### ARTÍCULO 72.
 
@@ -1790,3 +1820,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veintitrés, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 16 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1611.- MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 8 FRACCIÓN I, 9, 20 PÁRRAFOS PRIMERO, TERCERO Y CUARTO, 23 PÁRRAFO DÉCIMO, 29 PÁRRAFO PRIMERO, 33 PÁRRAFO SEGUNDO, 57 A PÁRRAFO PRIMERO, 58 PÁRRAFO PRIMERO, 62 PRIMER PÁRRAFO, 67 FRACCIONES II, III Y XIV, 68 PÁRRAFO PRIMERO Y 71 FRACCIÓN II; SE ADICIONAN UN PÁRRAFO SEGUNDO AL ARTÍCULO 4 Y UN TERCER Y CUARTO PÁRRAFOS AL ARTICULO 57 A, RECORRIENDOSE LOS SUBSECUENTES; Y SE DEROGAN LA FRACCÓN XII DEL ARTÍCULO 2, LOS PÁRRAFOS SÉPTIMO Y OCTAVO DEL ARTÍCULO 23, 'PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 47, PÁRRAFO TERCERO DEL ARTÍCULO 53, SEGUNDO Y TERCER PÁRRAFOS DEL ARTÍCULO 62 Y FRACCIÓN VIII DEL PRIMER PÁRRAFO, PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 68, TODOS DE LA LEY ESTATAL DE HACIENDA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veinticuatro, previa publicación en el Periódico Oficial del Gobierno del Estado.
