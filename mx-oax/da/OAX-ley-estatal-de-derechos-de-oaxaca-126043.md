@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-derechos-de-oaxaca-126043"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-20"
-last_updated: "2022-12-15"
+last_updated: "2023-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE DERECHOS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 20 de diciembre de 2017.
 
@@ -63,9 +63,11 @@ La Secretaría de Finanzas elaborará y distribuirá el contenido de esta Ley en
 
 La interpretación de esta Ley, para efectos administrativos y exclusivamente en el ámbito de competencia del Ejecutivo Estatal, corresponde a la Secretaría de Finanzas, sin menoscabo de la interpretación que realicen los órganos jurisdiccionales estatales o federales. El Código Fiscal para el Estado de Oaxaca y su Reglamento y las demás disposiciones aplicables serán supletorios de esta ley en lo conducente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 3.
 
-La Secretaría de Finanzas será la instancia del Poder Ejecutivo que tendrá a su cargo el diseño, adquisición, almacenaje, distribución y control de las formas oficiales que se utilicen para la prestación de servicios públicos, así como la autorización de formas para el otorgamiento del uso, goce o aprovechamiento de bienes de dominio público del Estado.
+La Secretaría es la única instancia del Poder Ejecutivo que tendrá a su cargo el diseño, adquisición, almacenaje, distribución y control de las formas oficiales que se utilicen para la prestación de servicios públicos, así como la autorización de formas para el otorgamiento del uso, goce o aprovechamiento de bienes de dominio público del Estado; para tal efecto, emitirá las disposiciones administrativas que correspondan mediante lineamientos.
 
 La Secretaría de Finanzas mediante Reglas de Carácter General dará a conocer las formas oficiales que se utilizarán en el ejercicio fiscal correspondiente.
 
@@ -105,6 +107,14 @@ Cuando los derechos a que se refiere esta Ley se incrementen en cantidades equiv
 
 Los servidores públicos que tengan a su cargo la prestación de servicios públicos, así como la administración de los bienes del dominio público contenidos en esta Ley, serán responsables de verificar que el contribuyente efectúe el pago que corresponda. La omisión a lo anterior dará lugar a las sanciones previstas en las leyes General de Responsabilidades Administrativas y de Responsabilidades Administrativas de los Servidores Públicos del Estado de Oaxaca.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+El pago de los derechos por la prestación de servicios públicos será vigente en el ejercicio fiscal en que se hubieren generado.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+Cuando por causas imputables al ente público no se presten los servicios públicos en el ejercicio fiscal en curso, éstos seguirán vigentes hasta el momento de la prestación de los servicios que se hubieren pagado. Los servidores públicos responsables deberán verificar la autenticidad del comprobante de pago, así como corroborar que la prestación del servicio no se haya efectuado.
+
 ###### Artículo 6.
 
 La prestación de servicios públicos continuos, así como el otorgamiento de uso, goce o aprovechamiento de bienes de dominio público del Estado, se regirán de acuerdo a lo dispuesto en Reglas de Carácter General que expida la Secretaría.
@@ -119,53 +129,75 @@ Cuando en un mismo acto el contribuyente deba efectuar el pago de dos o más der
 
 Para facilitar el cumplimiento de las obligaciones de los contribuyentes, los derechos establecidos en esta Ley que se paguen en oficinas autorizadas en el extranjero o por residentes en el extranjero, se efectuarán en moneda extranjera.
 
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2018)</small>
-
 ###### Artículo 7 Bis.
 
-Las personas físicas, morales o unidades económicas que se instalen dentro del polígono territorial de la zona económica especial que soliciten los servicios públicos contenidos en los artículos 35 fracciones I y II; 42 fracción I; 44 fracciones I, II, III, VIII, IX, X, XI, XVIII, XIX, XXI y XXII; 45 fracciones V y VI de la Ley Estatal de Derechos de Oaxaca, tendrán un incentivo en el pago de los derechos que se causen del 100 por ciento durante los primeros diez años y en un 50 por ciento durante los siguientes cinco años.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2023)
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS POR EL USO, GOCE O APROVECHAMIENTO DE BIENES DE DOMINIO PÚBLICO DEL ESTADO
 
-### CAPÍTULO I. SECRETARÍA DE LAS CULTURAS Y ARTES DE OAXACA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2018)</small>
+### CAPÍTULO I. SECRETARÍA DE LAS CULTURAS Y ARTES
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 8.
 
-Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamiento, de conformidad con las siguientes cuotas:
+Se causarán y pagarán derechos por el otorgamiento de uso, goce o aprovechamiento, de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 2.]</small>
+Conceptos Entrada General
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 14 A LA 15.]</small>
+Pesos
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2018)</small>
+I. Museo de los Pintores Oaxaqueños: 50.00
+
+II. Museo de Arte Popular "Oaxaca": 28.00
+
+III. Museo de Arqueología "Ervin Frissell" 28.00
+
+IV. Museo de Arte Prehispánico de México
+
+"Rufino Tamayo": 60.00
+
+V. Museo de Arte Contemporáneo
+
+de Oaxaca: 28.00
+
+Número de UMA
+
+VI. Museo de Arte Prehispánico de México
+
+"Rufino Tamayo":
+
+a) Sala y equipo, por hora 30.00
+
+No pagarán el derecho a que se refieren las fracciones I a V, las personas mayores de 60 años, menores de 13 años, jubiladas, pensionadas, personas con discapacidad, profesores y estudiantes en activo.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 9.
 
-Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamiento de los Teatros del Estado, de conformidad con las siguientes cuotas:
+Se causarán y pagarán derechos por el otorgamiento de uso, goce o aprovechamiento de los Teatros del Estado, de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 2 A LA 3.]</small>
+> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 16 DE DICIEMBRE DE 2023, PÁGINA 2.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 15.]</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 10.
 
-Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamiento de la Casa de la Cultura Oaxaqueña y el Centro de las Artes de San Agustín, de conformidad con las siguientes cuotas:
+Se causarán y pagarán derechos por el otorgamiento de uso, goce o aprovechamiento de los bienes del dominio público que se señalan de conformidad con las cuotas:
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 15.]</small>
-
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 3; Y 18 DE DICIEMBRE DE 2021, PÁGINA 20.]</small>
+> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 16 DE DICIEMBRE DE 2023, PÁGINA 2.]</small>
 
 ### CAPÍTULO II. SECRETARÍA DE ADMINISTRACIÓN
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 11.
 
-Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamiento de las instalaciones públicas, de conformidad con las siguientes cuotas:
+Se causarán y pagarán derechos por el otorgamiento de uso, goce o aprovechamiento de las instalaciones públicas, de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 15.]</small>
-
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 15; Y 26 DE DICIEMBRE DE 2020, PÁGINA 15.]</small>
+> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 16 DE DICIEMBRE DE 2023, PÁGINA 2.]</small>
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
 
@@ -203,53 +235,143 @@ e) Trotapista y Ciclopista: 1.00
 
 f) Cancha de frontón: 1.50
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 12.
 
-Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamiento del Archivo General del Estado de Oaxaca, de conformidad con las siguientes cuotas:
+Se causarán y pagarán derechos por el otorgamiento de uso, goce o aprovechamiento del Archivo General del Estado de Oaxaca, de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 15.]</small>
+Conceptos Número de UMA
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 24 DE DICIEMBRE DE 2019, PÁGINA 6; Y 18 DE DICIEMBRE DE 2021, PÁGINA 21.]</small>
+Hora Mes
+
+I. Patio del Pirul o salas: 17.00
+
+II. Vestíbulo principal: 17.00
+
+III. Sala privada de consulta: 5.00
+
+IV. Auditorio: 22.00
+
+V. Aulas para seminarios: 9.00
+
+VI. Establecimiento comercial
+
+(Librería, tienda, cafetería): 40.00
+
+VII. Sesión fotográfica: 17.00
+
+VIII. Filmación o grabación del
+
+inmueble, instalaciones y equipo: 6.17
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 13.
 
-Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamiento del Jardín Etnobotánico, de conformidad con las siguientes cuotas:
+Se causarán y pagarán derechos por el otorgamiento de uso, goce o aprovechamiento del Jardín Etnobotánico, de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 15.]</small>
+> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 16 DE DICIEMBRE DE 2023, PÁGINA 3.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 3; Y 24 DE DICIEMBRE DE 2019, PÁGINA 6.]</small>
+No pagarán el derecho a que se refiere la fracción VIII de este artículo, las personas mayores de 60 años, menores de 13 años, jubiladas, pensionadas, personas con discapacidad, profesores y estudiantes en activo.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 14.
 
-Se pagarán y causarán derechos de 0.27 UMA por el acceso al Planetario Nundehui.
+Se causarán y pagarán derechos por el otorgamiento de uso, goce o aprovechamiento de los bienes de dominio público que se enlistan, de conformidad con las siguientes cuotas:
+
+Número de UMA
+
+Conceptos 8 horas 24 horas
+
+I. Centro Cultural y de Convenciones de Oaxaca
+
+a) Gran salón o salón multifuncional,
+
+por metro cuadrado: 0.43
+
+b) Recinto ferial o vestíbulo, por
+
+metro cuadrado: 0.33
+
+c) Auditorio panorámico, por metro cuadrado: 0.43
+
+d) Salas de reuniones, por metro cuadrado: 0.74
+
+e) Salas de descanso, por metro cuadrado: 0.27
+
+f) Cocina, por metro cuadrado: 0.43
+
+g) Bodegas, almacenes o área de
+
+traducción, por metro cuadrado: 0.27
+
+h) Áreas al aire libre, por metro cuadrado: 0.27
+
+i) Día adicional de montaje o
+
+desmontaje en todas las áreas, por
+
+metro cuadrado: 0.27
+
+j) Sesión fotográfica o video: 20.00
+
+NÚMERO DE UMA
+
+Mes M2
+
+II. Centro Gastronómico de Oaxaca:
+
+a) Locales, por metro cuadrado: 15.00
+
+b) Terraza, viernes-sábado: 1.12
+
+c) Terraza, jueves-domingo 0.75
+
+> <small>(DEROGADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ### CAPÍTULO III. SECRETARÍA DE TURISMO
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 15.
 
-Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamiento, de conformidad con las siguientes cuotas:
+Se causarán y pagarán derechos por el otorgamiento de uso, goce o aprovechamiento de las instalaciones que se enlistan conforme las cuotas siguientes:
 
-> <small>[N. DE E. VÉASE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 3.]</small>
+Número de UMA
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2018)</small>
+Conceptos 12 horas 24 horas
+
+I. Auditorio "Guelaguetza"
+
+a) Sección A: 550.00 1,000.00
+
+b) Sección B: 330.00 660.00
+
+c) Sección C: 198.00 396.00
+
+d) Sección D: 118.00 236.00
+
+e) Auditorio completo: 1,100.00 2,200.00
+
+Pesos
+
+II. Estacionamiento
+
+a) Evento: 50.00
+
+b) Pensión, por mes: 500.00
 
 ###### Artículo 16.
 
-Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamiento del Centro Cultural y de Convenciones de Oaxaca, de conformidad con las siguientes cuotas:
-
-> <small>[N. DE E. VÉASE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 3.]</small>
-
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 15.]</small>
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2023)
 
 ### CAPÍTULO I. SERVICIOS PÚBLICOS COMUNES
 
 ## TÍTULO TERCERO. DE LOS DERECHOS POR LA PRESTACIÓN DE SERVICIOS PÚBLICOS
 
-### CAPÍTULO II. SECRETARÍA GENERAL DE GOBIERNO
+### CAPÍTULO II. SECRETARÍA DE GOBIERNO
 
 ###### Artículo 17.
 
@@ -275,19 +397,17 @@ V Expedición copia simple de bases de licitación para obra pública: 0.01
 
 Cuando se requiera los servicios de mensajería, los gastos correrán a cargo del solicitante.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-VI Las personas físicas, morales o unidades económicas que celebren contratos de obra pública o servicios relacionados con la misma, con dependencias y entidades de la administración pública, y aquellas que se celebren con los Municipios donde la fuente de financiamiento provenga de recursos estatales autorizado (sic) en el programa de inversión, pagarán y causarán por el importe total de la contratación, sin incluir el importe del impuesto al valor agregado el dos punto cinco por ciento, por los servicios de supervisión.
+VI. Emisión de actas de extravío de documentos y objetos, expedidas por las autoridades de la Fiscalía General del Estado de Oaxaca: 1.25
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-El procedimiento y términos de retención del derecho antes citado, se establecerá en Reglas por la Secretaría de Finanzas.
+VII. Expedición de bases de licitación, que corresponderá al valor de la inversión de la obra señalada en la Convocatoria.
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-VII Emisión de actas de extravío de documentos y objetos por la Fiscalía General del Estado de Oaxaca 1.25
-
-### CAPÍTULO III. SECRETARÍA DE SEGURIDAD PÚBLICA
+### CAPÍTULO III. SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA
 
 ###### Artículo 18.
 
@@ -300,6 +420,8 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 Artículo 18 A. Se causarán y pagarán derechos por la cantidad de 1.43 UMA, por la reposición de credencial para la acreditación de autoridades municipales.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ### CAPÍTULO IV. SECRETARÍA DE SALUD
 
@@ -325,7 +447,9 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 16.]</small>
 
-### CAPÍTULO V. SECRETARÍA DE LAS INFRAESTRUCTURAS Y EL ORDENAMIENTO TERRITORIAL SUSTENTABLE
+### CAPÍTULO V. SECRETARÍA DE INFRAESTRUCTURAS Y COMUNICACIONES
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 22.
 
@@ -337,15 +461,49 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 Se causarán y pagarán derechos por los servicios públicos que se realicen en hospitales generales, básicos, centros de salud, unidades de especialidades del Estado, de conformidad con las cuotas establecidas en el Acuerdo por el que se emita el Tabulador de derechos por la prestación de servicios en Atención en Salud publicado en el Periódico Oficial del Gobierno del Estado.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
 ### CAPÍTULO VI. SECRETARÍA DE MOVILIDAD
 
 ###### Artículo 24.
 
-Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de obra pública, de conformidad con las siguientes cuotas:
+Se causarán y pagarán derechos por los servicios públicos, de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 17.]</small>
+Conceptos Número de UMA
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 24 DE DICIEMBRE DE 2019, PÁGINA 7.]</small>
+I. Registro de Director Responsable de Obra:
+
+a) Inscripción: 10.00
+
+b) Revalidación: 5.00
+
+c) Revalidación con reclasificación: 5.00
+
+d) Reclasificación: 5.00
+
+e) Reposición de credencial: 5.00
+
+f) Revalidación y reposición de credencial: 5.00
+
+II. Certificación de Planos: 5.00
+
+III. Registro en el Padrón de Contratista de Obra Pública:
+
+a) Registro: 40.00
+
+b) Renovación Anual: 30.00
+
+IV. Revisión y opinión técnica de estudios y proyectos de obra:
+
+a) Alta complejidad: 30.00
+
+b) Mediana complejidad: 20.00
+
+V. Revalidación técnica de estudios y proyectos de obra: 30.00
+
+VI. Las personas físicas, morales o unidades económicas que celebren contratos de obra pública o servicios relacionados con la misma, con dependencias y entidades de la administración pública y aquellas que celebren con los Municipios donde la fuente de financiamiento provenga de recursos estatales autorizados en el programa de inversión, pagarán y causarán por el importe total de la contratación, sin incluir el importe del impuesto al valor agregado el dos punto cinco por ciento, por los servicios de supervisión.
+
+El procedimiento y términos de la retención del derecho antes citado, se establecerá en Reglas de Carácter General.
 
 ###### Artículo 25.
 
@@ -369,339 +527,41 @@ Los servicios públicos antes enlistados, se entenderán referidos a una toma o 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 18.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 27.
 
-Se causarán y pagarán derechos por los servicios públicos que preste la Comisión Estatal del Agua, en materia de suministro de agua potable, alcantarillado y drenaje, de conformidad con las siguientes cuotas:
+Se causarán y pagarán derechos por los servicios públicos en materia de suministro de agua potable, alcantarillado y drenaje, de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 18 A LA 19.]</small>
+> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 16 DE DICIEMBRE DE 2023, PÁGINAS DE LA 4 A LA 5.]</small>
 
-Los servicios públicos que se realicen en los Organismos Operadores de Agua en el Estado, causarán y pagarán de conformidad con las cuotas que se autoricen por la Secretaría en el Acuerdo por el que se emita el Tabulador de derechos por la prestación de servicios de agua potable y alcantarillado publicado en el Periódico Oficial del Gobierno del Estado.
+Los servicios públicos que se presten por los Organismos Operadores de Agua en la Entidad causarán y pagarán derechos conforme las cuotas que se autoricen por la Comisión Estatal del Agua para el Bienestar, las que se darán a conocer mediante Acuerdo que se publique en el Periódico Oficial del Gobierno del Estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-### CAPÍTULO VII. SECRETARÍA DE LAS CULTURAS Y ARTES DE OAXACA
+### CAPÍTULO VII. SECRETARÍA DE LAS CULTURAS Y ARTES
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 28.
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 2018)
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-Artículo 28 A. Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de transporte público, de conformidad con las siguientes cuotas:
+Artículo 28 A. Se causarán y pagarán derechos por los servicios públicos en materia de movilidad, de conformidad con las siguientes cuotas:
 
-No. Concepto Número de UMA
+> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 16 DE DICIEMBRE DE 2023, PÁGINAS DE LA 5 A LA 6.]</small>
 
-Renovación
+Artículo 28 B. (DEROGADO, P.O. 16 DE DICIEMBRE DE 2023)
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
+Artículo 28 C. (DEROGADO, P.O. 16 DE DICIEMBRE DE 2023)
 
-I Expedición de títulos de concesión
+Artículo 28 D. (DEROGADO, P.O. 16 DE DICIEMBRE DE 2023)
 
-para el servicio público de transporte
+Artículo 28 E. (DEROGADO, P.O. 16 DE DICIEMBRE DE 2023)
 
-de pasajeros en la modalidad
-
-colectivo: 236.50 30.00
-
-II Expedición de títulos de
-
-concesión para el servicio
-
-público de taxi: 236.50 30.00
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
-
-III Expedición de títulos de concesión
-
-para el servicio público de transporte
-
-de pasajeros en la modalidad individual
-
-motorizado mototaxi: 18.36 15.00
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
-
-IV Expedición de títulos de concesión
-
-para la prestación del servicio público
-
-de pasajeros en la modalidad de
-
-colectivo foráneo: 198.00 23.00
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
-
-V Expedición de títulos de concesión
-
-para el servicio público de transporte
-
-en la modalidad de carga en general: 198.00 40.00
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
-
-VI Expedición de permisos para la
-
-prestación del servicio especial
-
-de transporte: 23.00
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
-
-VII Autorización para la transferencia
-
-y cesión de derechos de una
-
-concesión: 65.00
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
-
-VIII Integración de expedientes
-
-administrativos: 8.00
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
-
-IX Expedición de permiso
-
-provisional para circular
-
-sin placas ni tarjeta de
-
-circulación, por 30 días,
-
-para servicio público
-
-concesionado. 3.60
-
-X Autorización de alta
-
-vehicular de servicio
-
-público: 5.00
-
-XI Autorización de cambio
-
-de vehículo de servicio
-
-público: 5.00
-
-XII (DEROGADA, P.O. 26 DE DICIEMBRE DE 2020)
-
-XIII Expedición de permiso de
-
-ruta o ampliación: 103.00
-
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
-
-XIV Autorización anual de prórroga
-
-por antigüedad de vehículo de servicio
-
-público de transporte en las modalidades:
-
-a) Colectivo, urbano, metropolitano,
-
-suburbano y foráneo. 10.00
-
-b)Taxi 8.00
-
-c) Mototaxi 5.00
-
-d) Carga 10.00
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2021)</small>
-
-Artículo 28 B. Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de transporte público, en materia de desarrollo y regulación de sistemas de movilidad, de conformidad con las siguientes cuotas:
-
-No. Concepto Número de UMA
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
-
-I Expedición de autorización para impartir
-
-cursos de capacitación a concesionarios,
-
-permisionarios u operadores del servicio
-
-público: 100.00
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
-
-II Impartición de curso y expedición de
-
-constancias de capacitación
-
-a prestadores de servicios públicos. 1.00
-
-III (DEROGADA, P.O. 24 DE DICIEMBRE DE 2019)
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
-
-IV Expedición, renovación y reposición
-
-de tarjetón para conductores: 6.00
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2021)</small>
-
-Artículo 28 C. Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de transporte público, en materia de planeación, de conformidad con las siguientes cuotas:
-
-No. Concepto Número de UMA
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
-
-I Expedición de dictamen sobre
-
-la factibilidad de la solicitud del
-
-servicio especial de transporte: 5.00
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
-
-II Expedición de dictamen sobre
-
-la factibilidad de la solicitud del
-
-servicio público de transporte 5.00
-
-Hasta 5000 1000
-
-habitantes habitantes
-
-adicionales
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
-
-III Por la elaboración de estudios
-
-de factibilidad como requisito
-
-para la integración de expediente
-
-para solicitud de concesión: 100.00 4.00
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
-
-IV Expedición de dictamen de
-
-modificación o ampliación de ruta: 5.00
-
-V (DEROGADA, P.O. 26 DE DICIEMBRE DE 2020)
-
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
-
-VI Elaboración y modificación de
-
-derroteros, itinerarios y rutas,
-
-por cada uno. 5.00
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
-
-Artículo 28 D. Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de transporte público, respecto de operación del transporte público, de conformidad con las siguientes cuotas:
-
-No. Concepto Número de UMA
-
-I Registro de agrupación: 50.00
-
-II Cambio de agrupación por concesionario: 20.00
-
-III Registro de modificación del acta
-
-constitutiva de la agrupación: 50.00
-
-IV Autorización de cromática, distintivos
-
-y aditamentos para vehículos del
-
-servicio del transporte público de pasajeros: 5.00
-
-V (DEROGADA, P.O. 24 DE DICIEMBRE DE 2019)
-
-VI (DEROGADA, P.O. 26 DE DICIEMBRE DE 2020)
-
-VII Expedición de tarjetón de tarifas
-
-oficiales para el cobro del servicio del
-
-transporte público de pasajeros: 5.00
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
-
-Artículo 28 E. Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de transporte público, respecto del registro estatal de transporte de Oaxaca, de conformidad con las siguientes cuotas:
-
-No. Concepto Número de UMA
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
-
-I Inscripción de concesionarios en el
-
-registro estatal de transporte: 5.43
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
-
-II Inscripción de operadores del transporte
-
-en el registro estatal de transporte: 1.00
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
-
-III Inscripción de vehículos del servicio
-
-público en el registro estatal de transporte: 3.46
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
-
-IV Inscripción de itinerarios, horarios y rutas,
-
-tratándose del servicio público de transporte
-
-colectivo en el registro estatal de transporte: 1.00
-
-V. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2020)
-
-VI (DEROGADA, P.O. 26 DE DICIEMBRE DE 2020)
-
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
-
-VII. Reposición de holograma de vehículo del
-
-servicio público, inscrito en el Registro
-
-Estatal de Transporte: 3.46
-
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2021)</small>
-
-VIII. Expedición de permiso de operación y registro de
-
-servicios conexos: 30.00
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
-
-Artículo 28 F. Se causarán y pagarán derechos por los servicios públicos que se realicen en materia del servicio de transporte colectivo metropolitano CITYBUS OAXACA, de conformidad con las siguientes cuotas:
-
-No. Concepto Pesos
-
-l. Usuario por viaje origen destino dentro del Sistema
-
-a) Tarifa General $8.00
-
-b) Tarifa Estudiante $4.00
-
-c) Tarifa Tercera Edad $4.00
-
-d) Tarifa Persona con Discapacidad $4.00
-
-II. Unidad Número
-
-de UMA
-
-a) Expedición de Tarjeta de Prepago General 0.63
-
-b) Expedición de Tarjeta Prepago Personalizada 0.74
+Artículo 28 F. (DEROGADO, P.O. 16 DE DICIEMBRE DE 2023)
 
 ###### Artículo 29.
 
@@ -727,41 +587,31 @@ d) Dentro de los quince días hábiles siguientes a la fecha de haberse efectuad
 
 (DEROGADO, P.O. 26 DE DICIEMBRE DE 2020)
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 30 Bis.
 
-Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de expedición de licencias, tarjetones, permisos y constancias, de conformidad con las siguientes cuotas:
+Se causarán y pagarán derechos por los servicios públicos que a continuación se enlistan de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 26 DE DICIEMBRE DE 2020, PÁGINAS 17 A LA 18.]</small>
+> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 16 DE DICIEMBRE DE 2023, PÁGINA 6.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 18 DE DICIEMBRE DE 2021, PÁGINA 21.]</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-### CAPÍTULO VIII. SECRETARÍA DE BIENESTAR DEL ESTADO DE OAXACA
+### CAPÍTULO VIII. SECRETARÍA DE BIENESTAR, TEQUIO E INCLUSIÓN
 
 ###### Artículo 31.
 
-Se causarán y pagarán derechos por los servicios públicos que se presten de conformidad con las siguientes cuotas:
+Se causarán y pagarán derechos por los servicios públicos que se enlistan a continuación de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 5 A LA 6.]</small>
+> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 16 DE DICIEMBRE DE 2023, PÁGINA 6.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 18; Y 26 DE DICIEMBRE DE 2020, PÁGINA 18; Y 18 DE DICIEMBRE DE 2021, PÁGINA 21.]</small>
+###### Artículo 31 Bis.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2023)
 
-###### Artículo 31 Bis
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamiento de las instalaciones públicas de la Casa de la Cultura Oaxaqueña, de conformidad con las siguientes cuotas:
-
-Concepto Número de UMA
-
-Por mes
-
-l. Aprovechamiento espacio de cafetería 37.00
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2020)</small>
-
-### CAPÍTULO IX. SECRETARÍA DE DESARROLLO AGROPECUARIO, PESCA Y ACUACULTURA
+### CAPÍTULO IX. SECRETARÍA DE FOMENTO AGROALIMENTARIO Y DESARROLLO RURAL
 
 ###### Artículo 32.
 
@@ -777,6 +627,8 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 26 DE DICIEMBRE DE 2020, PÁGINAS DE LA 18 A LA 19.]</small>
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
 ### CAPÍTULO X. SECRETARÍA DE FINANZAS
 
 ###### Artículo 33.
@@ -788,6 +640,8 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 > <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 6.]</small>
 
 ### CAPÍTULO XI. SECRETARÍA DE ADMINISTRACIÓN
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 34.
 
@@ -805,27 +659,81 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS 6; Y 24 DE DICIEMBRE DE 2019, PÁGINAS DE LA 7 A LA 8.]</small>
 
-### CAPÍTULO XII. SECRETARÍA DE LA CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL
+### CAPÍTULO XII. SECRETARÍA DE HONESTIDAD, TRANSPARENCIA Y FUNCIÓN PÚBLICA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 36.
 
-Se causarán y pagarán derechos por los servicios públicos que se (sic) realice la Secretaría de Administración, de conformidad con las siguientes cuotas:
+Se causarán y pagarán derechos por los servicios públicos que se presten, de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 22.]</small>
+Número de UMA
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 28 DE FEBRERO DE 2018, PÁGINAS DE LA 2 A LA 3; 30 DE JUNIO DE 2018, PÁGINA 7; 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 20 A LA 21; Y 26 DE DICIEMBRE DE 2020, PÁGINA 19.]</small>
+Conceptos Mes
+
+I. Expedición de permisos para:
+
+a) Establecimiento de locales construidos
+
+en parques o unidades deportivas: 9.00
+
+b) Establecimiento de puestos fijos o
+
+semifijos en parques o unidades deportivas: 4.50
+
+c) Establecimiento de comercio temporal
+
+en parques o unidades deportivas:
+
+1. Persona física: 1.00
+
+2. Personas morales o unidades económicas: 6.00
+
+d) Establecimiento de Módulos temporales: 3.00
+
+e) Establecimientos en la explanada de los
+
+complejos administrativos: 10.00
+
+f) Establecimiento de dispensadores de
+
+alimentos y bebidas: 12.00
+
+g) Establecimiento de antenas en bienes
+
+de dominio público de Oaxaca: 6.10
+
+II. Expedición de constancia de
+
+no adeudo patrimonial: 1.00
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 37.
 
 Se causarán y pagarán derechos por los servicios públicos que se realicen en materia archivística, de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 22.]</small>
+Conceptos Número de UMA
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 24 DE DICIEMBRE DE 2019, PÁGINA 8; Y 18 DE DICIEMBRE DE 2021, PÁGINA 21.]</small>
+I. Expedición de constancias de documentos
 
-### CAPÍTULO XIII. SECRETARÍA DE ECONOMÍA
+que obren en el archivo histórico: 2.11
+
+II. Expedición de Permisos:
+
+a) Captura en video, por hora: 0.04
+
+b) Captura en imagen digital, por hoja: 0.04
+
+III. Reproducción de:
+
+a) Mapas y planos: 0.88
+
+b) Documento digitalizado, por hoja: 0.28
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO XIII. SECRETARÍA DE DESARROLLO ECONÓMICO
 
 ###### Artículo 38.
 
@@ -849,6 +757,8 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 23.]</small>
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
 ### CAPÍTULO XIV. SECRETARÍA DE TURISMO
 
 ###### Artículo 40.
@@ -861,27 +771,67 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
-
 ###### Artículo 40 Bis.
 
-Se pagarán y causarán derechos por la Feria Internacional del Mezcal, de conformidad con las siguientes cuotas:
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2023)
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+Artículo 40 A. Se causarán y pagarán derechos por la colocación de stands en ferias, exposiciones y eventos de promoción comercial, de conformidad con las siguientes cuotas:
 
 Número de UMA
 
-I. Acceso 0.66
+Conceptos 7 a 15 días Menor o Igual
 
-II. Instalación de stand de:
+a 7 días
 
-a) Área de mezcal: 63.00
+I. Instalación de Stand de:
 
-b) Área agroindustrial: 25.00
+a) Mezcal: 80.00 70.00
 
-c) Área gastronómica: 50.00
+b) Café: 70.00 60.00
 
-d) Otros 13.00
+c) Alimentos y bebidas alcohólicas: 70.00 60.00
 
-### CAPÍTULO XV. SECRETARÍA DE MEDIO AMBIENTE, ENERGÍAS Y DESARROLLO SUSTENTABLE
+d) Sector Manufacturero: 80.00 70.00
+
+e) Insumos, Suministros, equipo
+
+y/o maquinaria: 50.00 40.00
+
+f) Productos tradicionales y artesanías: 30.00 20.00
+
+g) Productos agroindustriales: 60.00 50.00
+
+h) Informativo o difusión: 15.00 10.00
+
+i) Otros: 15.00 10.00
+
+Pesos
+
+II. Acceso 75.00
+
+Para efectos de la aplicación del presente artículo, se comprenderá lo siguiente:
+
+a) Mezcal: Industria organizada e impulsada por los 4 eslabones que lo integran: productor maguey; productor mezcal; envasador y comercializador;
+
+b) Café: Industria agrícola que considera el cultivo tradicional, tostado, empacado y comercialización del café producido en las 8 regiones del estado de Oaxaca:
+
+c) Alimentos y bebidas no alcohólicas: Comercialización de alimentos y bebidas para acompañar los alimentos que no sean elaborados a base de bebidas alcohólicas;
+
+d) Sector Manufacturero: Relacionado con la promoción y venta de tecnología, máquinas, equipos que permitan la fabricación y/o transformación de productos, soluciones tecnológicas para el uso cotidiano, metal mecánico, robótico, autopartes, plásticos, máquinas de diferentes tipos;
+
+e) Insumos, suministros, equipo y/o maquinaria: Relacionado al abasto de productos necesarios para el funcionamiento de otros sectores (proveedores de insumos, desechables, cafeteras, venta de botellas, entre otros);
+
+f) Productos típicos y artesanías: Transformación de materias primas naturales básicas, a través de procesos de producción no industrial que involucren máquinas y herramientas simples con predominio del trabajo físico y mental;
+
+g) Productos agroindustriales: Actividad económica que se dedica a la producción, industrialización, transformación y comercialización de productos que contienen valor agregado basados en los sectores: agrícola, ganadero, forestal y otros recursos naturales biológicos;
+
+h) Informativo o de difusión: Actores no gubernamentales que ofrecen la venta de servicios privados de diferentes tipos como agencias de viajes, servicio de recolección y transformación de desechos orgánicos, entre otros, y
+
+i) Otros: Sectores no considerados, y que puedan ser susceptibles de participar en un evento de exposición y promoción.
+
+### CAPÍTULO XV. SECRETARÍA DE MEDIO AMBIENTE, BIODIVERSIDAD, ENERGÍAS Y SOSTENIBILIDAD
 
 ###### Artículo 41.
 
@@ -889,7 +839,9 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 23.]</small>
 
-### CAPÍTULO XVI. CONSEJERÍA JURÍDICA DEL GOBIERNO DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO XVI. CONSEJERÍA JURÍDICA Y ASISTENCIA LEGAL DEL ESTADO
 
 ###### Artículo 42.
 
@@ -923,13 +875,13 @@ recursos forestales, riesgo y
 
 emergencias (sic) ambiental: 25.00 20.00
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 Artículo 42 A. Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de medio ambiente de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 24 DE DICIEMBRE DE 2019, PÁGINAS DE LA 8 A LA 10.]</small>
+> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 16 DE DICIEMBRE DE 2023, PÁGINAS DE LA 7 A LA 8.]</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ### CAPÍTULO I. BÁSICA
 
@@ -1039,11 +991,13 @@ Los Poderes Legislativo y Judicial, Órganos Autónomos, Ayuntamientos, así com
 
 Los Talleres Gráficos del Estado deberán proporcionar por lo menos dos ejemplares sin costo de todas las publicaciones al Poder Legislativo, al Archivo General del Estado, al Archivo General de la Nación y al Diario Oficial de la Federación con el propósito de conservarlos como parte de su acervo cultural; asimismo, deberá entregarse un ejemplar a la persona física o moral que ordene y pague derechos por publicación.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 47.
 
-Se causarán y pagarán derechos por los servicios públicos de:
+Se causarán y pagarán derechos por los servicios públicos que se enlistan, conforme a las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 25.]</small>
+> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 16 DE DICIEMBRE DE 2023, PÁGINAS DE LA 8 A LA 9.]</small>
 
 ### CAPÍTULO II. MEDIA Y SUPERIOR
 
@@ -1054,6 +1008,8 @@ Se causarán y pagarán derechos por los servicios públicos de:
 ## TÍTULO CUARTO. DE LOS DERECHOS POR LA PRESTACIÓN DE SERVICIOS EDUCATIVOS
 
 ### CAPÍTULO IV. SISTEMA DE UNIVERSIDADES ESTATALES DE OAXACA
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 48.
 
@@ -1071,69 +1027,139 @@ Se causarán y pagarán derechos por los servicios públicos que realice la Coor
 
 > <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 23 A LA 24; 24 DE DICIEMBRE DE 2019, PÁGINA 11; Y 26 DE DICIEMBRE DE 2020, PÁGINAS DE LA 19 A LA 20; Y 18 DE DICIEMBRE DE 2021, PÁGINA 21.]</small>
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 50.
 
 Se causarán y pagarán derechos por los servicios públicos que realice el Instituto de Estudios de Bachillerato del Estado de Oaxaca, de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 26.]</small>
+Conceptos Número de UMA
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 24.]</small>
+I. Inscripción y/o reinscripción: 0.00
 
-> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 29 DE DICIEMBRE DE 2018)</small>
+II. Aplicación de examen extraordinario: 1.89
 
-Tratándose de las inscripciones y/o reinscripciones de los alumnos que obtengan al término de sus periodos lectivos promedios de evaluaciones que se ubiquen entre 8 y 10, se sujetarán a los siguientes descuentos:
+III. Aplicación de examen especial: 5.00
 
-Promedio Descuento
+IV. Reposición de credencial: 0.66
 
-a) 8.0 a 8.5 25 por ciento
+V. Expedición de certificado parcial y/o total: 7.06
 
-b) 8.6 a 9.0 50 por ciento
+VI. Expedición de duplicado de certificado total: 6.67
 
-c) 9.1 a 9.5 75 por ciento
+VII. Expedición de dictamen de revalidación: 7.46
 
-d) 9.6 a 10 100 por ciento
+VIII. Expedición de diario de aprendizaje: 0.49
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 51.
 
 Se causarán y pagarán derechos por los servicios públicos que realice el Colegio de Bachilleres del Estado de Oaxaca, de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 26.]</small>
+Número de UMA
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 13; 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 24 A LA 25; Y 18 DE DICIEMBRE DE 2021, PÁGINA 21.]]</small>
+Conceptos Sistema Sistema
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE JUNIO DE 2018)</small>
+Escolarizado Abierto
 
-Tratándose de las inscripciones y reinscripciones de los alumnos que obtengan al término de sus periodos lectivos promedios de evaluaciones que se ubiquen entre 8 y 10, se sujetarán a los siguientes descuentos:
+I. Inscripción: 0.00 0.00
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 26 A LA 27.]</small>
+II. Reinscripción: 0.00 0.00
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 13. ]</small>
+III. Impartición de curso propedéutico: 3.30
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2018)</small>
+IV. Aplicación de evaluaciones:
 
-El Colegio de Bachilleres del Estado de Oaxaca podrá realizar convenios de colaboración para impartir el bachillerato en la modalidad de sistema abierto con un descuento del 50 por ciento en inscripción y reinscripción, de acuerdo con los Lineamientos que para tal efecto se emita.
+a) Extraordinario: 1.37 1.00
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2018)</small>
+b) 2º. Extraordinario: 1.37
 
-Tratándose de estudiantes que acrediten una situación de vulnerabilidad económica, se les otorgará un 50 por ciento de descuento en cuotas de inscripción y reinscripción de acuerdo con los lineamientos que para tal efecto emita el Colegio de Bachilleres del Estado de Oaxaca.
+c) Especial: 1.50 1.00
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE JUNIO DE 2018)</small>
+d) Global: 1.00
 
-Los beneficios antes señalados no podrán ser acumulables.
+V. Expedición de certificado parcial: 3.30 2.50
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2018)</small>
+VI. Expedición de duplicado de
+
+certificado total: 4.00 4.00
+
+VII. Expedición de dictamen de
+
+portabilidad de estudios: 8.80 3.00
+
+VIII. Duplicado de credencial: 0.66 0.66
+
+IX. Ficha de admisión: 1.65
+
+X. Constancia de calificaciones: 2.00
+
+XI. Constancia de autenticidad
+
+de certificado de estudios: 4.00 4.00
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 52.
 
 Se causarán y pagarán derechos por los servicios públicos que realice el Colegio de Estudios Científicos y Tecnológicos del Estado de Oaxaca, de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 14.]</small>
+Número de UMA
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 24 DE DICIEMBRE DE 2019, PÁGINA 11.]</small>
+Conceptos Educación Educación
 
-Tratándose de la fracción III, IV y V, los alumnos que demuestren al término de sus periodos lectivos promedios de evaluaciones que se ubiquen entre 8 y 10, se aplicaran los siguientes descuentos:
+Presencial a distancia
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 14.]</small>
+I. Ficha de selección: 1.65 1.21
+
+II. Curso de Inducción: 3.30
+
+III. Inscripción y/o reinscripción: 0.00
+
+IV. Inscripción: 0.00
+
+V. Reinscripción: 0.00
+
+VI. Revisión de examen de titulación: 0.82
+
+VII. Certificado parcial de
+
+estudio electrónico: 3.30 2.75
+
+VIII. Trámite de portabilidad de
+
+estudios de educación media superior: 1.98 1.65
+
+IX. Examen a título de suficiencia
+
+por asignatura: 1.80
+
+X. Curso intersemestral por
+
+asignatura o módulo: 3.40 1.00
+
+XI. Asignatura o módulo a recursar: 3.40
+
+XII. Expedición y reposición
+
+de credencial: 0.65 0.65
+
+XIII. Examen extraordinario: 1.00 1.37
+
+XIV. Revisión de examen: 0.55
+
+XV. Reposición de Certificado
+
+Total semi-electrónico, electrónico
+
+o abrogado por corrección de
+
+datos personales: 6.05 5.18
+
+XVI. Emisión de Título
+
+electrónico CECyTEO: 1.98
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
@@ -1143,109 +1169,103 @@ Se causarán y pagarán derechos por los servicios públicos que se (sic) realic
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 27.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 16 DE DICIEMBRE DE 2023, PÁGINA 9.]</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 54.
 
 Se causarán y pagarán derechos por los servicios públicos que realice la Universidad Tecnológica de la Sierra Sur de Oaxaca, de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 27.]</small>
+Conceptos Número de UMA
 
-A los alumnos que obtengan al término de sus periodos lectivos promedios de evaluaciones que se ubiquen entre 8.8 y 10, se sujetarán a los siguientes descuentos en inscripción y reinscripción:
+I. Ficha para examen de selección: 3.95
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 27.]</small>
+II. Inscripción y/o reinscripción
 
-El Consejo Directivo determinará el otorgamiento de becas que van desde el 25%, 50%, 75% y 100% por los conceptos de inscripción y reinscripción.
+a) Técnico superior universitario: 0.00
 
-A los aspirantes que hayan cumplido con los requisitos para el ingreso que comprueben haber obtenido un promedio general durante su formación media superior de 8.0 a 10, se sujetarán a los siguientes descuentos en inscripción:
+b) Ingenierías: 0.00
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 27.]</small>
+III. Expedición de constancias de estudios: 0.82
+
+IV. Expedición de certificado parcial o total: 8.75
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 55.
 
-Se causarán y pagarán derechos por los servicios públicos que se realice (sic) el Instituto Tecnológico Superior de San Miguel El Grande, de conformidad con las siguientes cuotas:
+Se causarán y pagarán derechos por los servicios públicos que realice el Instituto Tecnológico Superior de San Miguel El Grande, de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 27.]</small>
+Conceptos Número de UMA
 
-> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 30 DE JUNIO DE 2018)</small>
+I. Ficha para examen de selección: 3.95
 
-A los alumnos que obtengan al término de sus periodos lectivos promedios de evaluaciones que se ubiquen entre 8.5 y 10, se sujetarán a los siguientes descuentos en inscripción y reinscripción:
+II. Inscripción y/o reinscripción: 0.00
 
-PROMEDIO DESCUENTO
+III. Aplicación de examen especial 5.41
 
-a) 8.0 a 8.5 25 por ciento
+IV. Aplicación de examen global: 1.32
 
-b) 8.6 a 9.0 50 por ciento
+V. Reposición de credencial: 0.66
 
-c) 9.1 a 10 100 por ciento
+VI. Protocolo de titulación: 23.00
 
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2018)</small>
-
-La Junta Directiva determinará el otorgamiento de becas que van desde el 25%, 50%, 75% y 100% por los conceptos de inscripción y reinscripción tratándose de estudiantes que acrediten una situación de vulnerabilidad económica.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 56.
 
-Se causarán y pagarán derechos por los servicios públicos que se realice (sic) la Universidad Tecnológica de los Valles Centrales de Oaxaca, de conformidad con las siguientes cuotas:
+Se causarán y pagarán derechos por los servicios públicos que realice la Universidad Tecnológica de los Valles Centrales de Oaxaca, de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 28.]</small>
+Conceptos Número de UMA
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 25; Y 15 DE DICIEMBRE DE 2022, PÁGINA 25.]</small>
+I. Ficha de examen para selección: 3.95
 
-A los alumnos que obtengan al término de sus periodos lectivos promedios de evaluaciones que se ubiquen entre 8.5 y, 10, se sujetarán a los siguientes descuentos en inscripción y reinscripción:
+II. Expedición de constancias de estudios: 0.79
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 28.]</small>
+III. Expedición de certificado parcial o total: 5.00
 
-El Consejo Directivo determinará el otorgamiento de becas que van desde el 25%, 50%, 75% y 100% por los conceptos de inscripción y reinscripción.
+IV. Inscripción y/o reinscripción:
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
+a) Técnico superior universitario 0.00
+
+b) Ingenierías o licenciaturas: 0.00
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 56 Bis.
 
 Se causarán y pagarán derechos por los servicios públicos que realice la Universidad Politécnica de Nochixtlán "Abraham Castellanos", de conformidad con las siguientes cuotas:
 
-Número de UMA
+Conceptos Número de UMA
 
-I. Ficha de examen para selección. 3.95
+I. Ficha de examen para selección: 3.95
 
-II. Inscripción y/o reinscripción. 15.00
+II. Inscripción y/o reinscripción: 0.00
 
-III. Expedición de constancia de estudios. 1.12
+III. Expedición de constancia de estudio: 1.12
 
-IV. Reposición de credencial. 2.80
+IV. Reposición de credencial: 2.80
 
-V. Expedición de certificado de estudios. 1.12
+V. Expedición de certificado de estudios: 1.12
 
-VI. Expedición de constancia de calificaciones 1.12
+VI. Expedición de constancias de calificaciones: 1.12
 
-VII. Diplomados. 89.27
+VII. Diplomados: 89.27
 
-VIII. Curso especializado. 33.47
+VIII. Curso especializado: 33.47
 
-IX. Curso básico. 5.58
-
-A los alumnos que obtengan al término de sus periodos lectivos promedios de evaluaciones que se ubiquen entre 8.5 y 10, se sujetarán a los siguientes descuentos en inscripción y reinscripción:
-
-PROMEDIO DESCUENTO
-
-l. De 9.6 a 10· 100%
-
-II. De 9.1 a 9.5 75%
-
-III. De 8.5 a 9.0 50%
-
-La Junta Directiva determinará el otorgamiento de becas que van desde el 50%, 75% y 100% por los conceptos de inscripción y reinscripción.
+IX. Curso Básico: 5.58
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 57.
 
-Se causarán y pagarán derechos por los servicios públicos que se realicen las (sic) universidades parte del Sistema de Universidades Estatales, de conformidad con las siguientes cuotas:
+Se causarán y pagarán derechos por los servicios públicos que realicen las universidades (sic) parte del Sistema de Universidades Estatales, de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 28.]</small>
+> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 16 DE DICIEMBRE DE 2023, PÁGINA 9.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 25; Y 26 DE DICIEMBRE DE 2020, PÁGINA 20; Y 18 DE DICIEMBRE DE 2021, PÁGINA 22.]</small>
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
-
-El Consejo Académico de la Universidad aplicará descuentos del 25%, 50%, 75% y 100% sobre el importe total únicamente en los conceptos señalados en los incisos b), c) bis, d), e), f) y l) de la fracción I; e incisos b), c) bis y d) de la fracción II del presente artículo; los que estarán en función del porcentaje de beca asignado a cada alumno por el Consejo Académico.
+El Consejo Académico de la Universidad aplicará descuentos del 25%, 50%, 75% o 100% sobre el importe total en los conceptos de los incisos d) y e) de la fracción I del presente artículo.
 
 TRANSITORIOS:
 
@@ -1320,3 +1340,15 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veintitrés, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 16 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1612.- MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3 PÁRRAFO PRIMERO, 8, 9, 10, 11, 12, 13, 14, 15, 17 FRACCIONES VI Y VII, 24, 27, 28 A, 30 BIS, 31, 36, 37, 42 A, 47, 50, 51, 52, 53 FRACCIÓN II, 54, 55, 56, 56 BIS, 57, LA DENOMINACIÓN DEL CAPÍTULO I DEL TÍTULO SEGUNDO, ASÍ COMO LA DE LOS CAPÍTULOS II, III, V, VII, VIII, IX, XII, XIII, XV Y XVI DEL TÍTULO TERCERO; SE ADICIONAN LOS PÁRRAFOS SEXTO Y SÉPTIMO AL ARTÍCULO 5, Y 40 A; Y SE DEROGAN LOS ARTÍCULO 7 BIS, LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO SEGUNDO, 16, 28 B, 28 C, 28 D, 28 E, 28 F, 31 BIS Y 40 BIS, TODOS DE LA LEY ESTATAL DE DERECHOS DE OAXACA".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor el uno de enero de dos mil veinticuatro.
+
+TERCERO.- La Secretaría de Turismo contará con un plazo de quince días naturales a partir de la entrada en vigor del presente Decreto, para que realice la entrega a la Secretaría de Administración de las instalaciones y bienes muebles utilizados para la operación y mantenimiento del Auditorio Guelaguetza y de su estacionamiento, en términos de las disposiciones legales aplicables.
+
+CUARTO.- La Universidad Tecnológica de los Valles Centrales de Oaxaca contará con un plazo de quince días naturales a partir de la entrada en vigor del presente Decreto, para que realice la entrega a la Secretaría de Administración de los espacios localizados en el Centro Gastronómico de Oaxaca, señalados en el artículo 14, fracción II de la presente ley, de conformidad con las disposiciones legales aplicables.
