@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-servicio-civil-para-los-empleados-del-gobierno-del-7000
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-28"
-last_updated: "2023-01-28"
+last_updated: "2023-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el 28 de diciembre de 1963.
 
@@ -79,9 +79,13 @@ Esta Ley solo regirá las relaciones entre los Poderes del Estado y los empleado
 
 Todos los empleados de los Poderes del Estado deberán ser mexicanos y sólo podrán ser substituidos por extranjeros cuando no existan mexicanos técnicos que puedan desarrollar eficientemente el servicio de que se trata.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-En la contratación se dará preferencia a personas con discapacidad que cumplan con el perfil requerido para el puesto, y así garantizar su inclusión en al menos el 6% del total de los empleados de los Poderes del Estado.
+En el proceso de contratación de personal de los Poderes del Estado de Oaxaca, se garantizará la igualdad y equidad de género entre las y los aspirantes con respeto a los derechos humanos y de conformidad con la Ley de Igualdad entre Mujeres y Hombres para el Estado de Oaxaca.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+En la contratación se dará preferencia a personas con discapacidad, que cumplan con el perfil requerido para el puesto, y así garantizar su inclusión en al menos el 6% del total de los empleados de los Poderes del Estado.
 
 ###### ARTICULO 7o.
 
@@ -1174,3 +1178,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 16 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1602.- MEDIANTE EL CUAL ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 6, RECORRIÉNDOSE EL SUBSECUENTE DE LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones legales de menor jerarquía que se opongan al presente Decreto.
