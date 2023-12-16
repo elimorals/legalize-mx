@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-turismo-del-estado-de-chihuahua-87899"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-19"
-last_updated: "2023-12-13"
+last_updated: "2023-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TURISMO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 19 de mayo de 2012.
 
@@ -178,6 +178,10 @@ XVI. Promover, ante las autoridades competentes, el establecimiento de programas
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 XVII. Coordinarse con la Secretaría de Salud y la Secretaría de Hacienda del Estado de Chihuahua, así como con la iniciativa privada, a fin de elaborar las políticas públicas pertinentes para la promoción y desarrollo del Turismo Médico en la Entidad.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+XVII Bis. Coadyuvar con la Procuraduría de Protección de Niñas, Niños y Adolescentes, en el diseño e implementación de protocolos para garantizar la seguridad física y la protección de niñas, niños y adolescentes en los establecimientos de hospedaje.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MARZO DE 2023)</small>
 
@@ -627,9 +631,11 @@ IX. Recibir información respecto del tratamiento de los métodos para la separa
 
 X. Los demás que establezca la legislación aplicable en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 50.
 
-Son obligaciones de los prestadores de servicios turísticos:
+Obligaciones de las personas prestadoras de servicios turísticos:
 
 I. Anunciar visiblemente en los lugares de acceso al establecimiento la dirección, teléfono o correo electrónico, tanto del responsable del establecimiento, como de la autoridad competente, ante la que puede presentar sus quejas.
 
@@ -663,7 +669,25 @@ XV. Instrumentar mecanismos y acciones para prestar el servicio de primeros auxi
 
 XVI. Cumplir con los ordenamientos y normas en materia de protección al medio ambiente, así como establecer los mecanismos y acciones para la separación y reciclado de productos de desecho.
 
-XVII. Las demás que establezca la legislación aplicable en la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+XVII. Capacitar a su personal en materia de prevención y detección de la probable comisión de cualquier delito o posible acto de violencia en contra de niñas, niños y adolescentes.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+XVIII. Denunciar, ante la autoridad competente, la probable comisión de un delito o posible acto de violencia en contra de niñas, niñas (sic) y adolescentes del cual tengan conocimiento en el desarrollo de su actividad.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+XIX. Solicitar la documentación que acredite el parentesco o relación de personas que soliciten el servicio de hospedaje acompañadas de niñas, niños o adolescentes e informar estos requisitos desde la reservación de hospedaje.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+XX. Comunicar, difundir y publicar la existencia de protocolos y normas sobre prevención y sanción de ilícitos en contra de niñas, niños y adolescentes.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+XXI. Las demás que establezca la legislación aplicable en la materia.
 
 ###### Artículo 51.
 
@@ -892,6 +916,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 13 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0644/2023 I P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0639/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
