@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-deuda-publica-para-el-estado-de-oaxaca-125270"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-30"
-last_updated: "2023-02-25"
+last_updated: "2023-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE DEUDA PÚBLICA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 2017.
 
@@ -70,6 +70,10 @@ II. Asociaciones Público-Privadas: Las previstas en la Ley de Asociaciones Púb
 III. Congreso: Honorable Congreso del Estado Libre y Soberano de Oaxaca;
 
 IV. Desastre: Condiciones en que la población, área, zona o región sufre severos daños por el impacto de una calamidad devastadora, sea de origen natural o humano, enfrentándose la pérdida de sus miembros, infraestructura o entorno, de tal manera que la estructura social se desajusta e impide el desarrollo de sus actividades vitales;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+IV BIS. Deuda Contingente: Cualquier Financiamiento sin fuente o garantía de pago definida, que sea asumida de manera solidaria o subsidiaria por el Estado con sus Municipios, organismos descentralizados y empresas de participación estatal mayoritaria y fideicomisos, locales o municipales y por los propios Municipios con sus respectivos organismos descentralizados y empresas de participación municipal mayoritaria;
 
 V. Deuda Pública: Cualquier Financiamiento contratado por los sujetos obligados;
 
@@ -117,6 +121,10 @@ XVII. Financiamiento Neto: Diferencia entre las disposiciones realizadas de un F
 
 XVIII. Fuente de pago: Recursos utilizados por los sujetos obligados para el pago de cualquier Financiamiento u Obligación;
 
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+XVIII Bis. Gastos y costos relacionados con la contratación: aquellos que estén relacionados con la celebración del Financiamiento, que, de manera enunciativa más no limitativa, son: comisiones de apertura, comisiones por disposición, comisiones por estructuración, costos por la contratación de calificadoras, de instrumentos derivados y garantías de pago, sin incluir honorarios por asesoría profesional, técnica, legal y financiera;
+
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
 XIX. Ingresos totales: Totalidad de los Ingresos de libre disposición, las transferencias federales etiquetadas y el financiamientoneto (sic);
@@ -136,6 +144,10 @@ XXII. Ingresos locales: Aquéllos percibidos por el Estado y los Municipios por 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2018)</small>
 
 XXIII. Instrumentos Derivados: Valores, contratos o cualquier otro acto jurídico cuya valuación esté referida a uno o más activos, valores, tasas o índices subyacentes;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+XXIII Bis. Instituciones financieras: instituciones de crédito, sociedades financieras de objeto múltiple, casas de bolsa, almacenes generales de depósito, uniones de crédito, instituciones de seguros, sociedades mutualistas de seguros, sociedades cooperativas de ahorro y préstamo, sociedades financieras populares, sociedades financieras comunitarias y cualquier otra sociedad autorizada por la Secretaría de Hacienda y Crédito Público o por cualesquiera de las Comisiones Nacionales para organizarse y operar como tales, siempre y cuando la normatividad que les resulte aplicable no les prohíba el otorgamiento de créditos;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
@@ -433,13 +445,21 @@ XIV. Las atribuciones a que se refiere este artículo serán ejercidas, en lo co
 
 ### CAPÍTULO TERCERO. De la Contratación de Deuda Pública y sus Derivados
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 17.
 
-Los Sujetos Obligados únicamente podrán celebrar financiamientos, cuando los recursos obtenidos de las mismas se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura, en términos de lo establecido en la Ley de Disciplina Financiera y esta Ley.
+Los Sujetos Obligados únicamente podrán celebrar financiamientos, cuando los recursos obtenidos de las mismas se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura, incluyendo los gastos y costos relacionados con la contratación de dichas Obligaciones y Financiamientos, así como las reservas que deben constituirse en relación con las mismas, en términos de lo establecido en la Ley de Disciplina Financiera y esta Ley.
 
 En ningún caso podrá destinarse Financiamientos u Obligaciones para cubrir gasto corriente.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+Para efectos de lo anterior, los entes públicos, sólo podrán destinar hasta un 0.15 por ciento del monto de los Financiamientos para cubrir los Gastos y costos relacionados con la contratación.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+Cuando las Obligaciones se deriven de esquemas de Asociaciones Público-Privadas, el destino podrá ser la contratación de servicios, cuyo componente de pago incluya la inversión pública productiva realizada.
 
 Dichos sujetos estarán obligados a contratar los Financiamientos y Obligaciones a su cargo bajo las mejores condiciones de mercado, en términos de la Ley de Disciplina Financiera.
 
@@ -778,3 +798,13 @@ P.O. 25 DE FEBRERO DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1610.- MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN XXXII DEL ARTÍCULO 2 Y EL ARTÍCULO 17, PRIMER PÁRRAFO; Y SE ADICIONAN LAS FRACCIONES IV BIS, XVIII BIS Y XXIII BIS AL ARTÍCULO 2; Y UN TERCER Y CUARTO PÁRRAFO AL ARTÍCULO 17, RECORRIENDO EL ORDEN DE LOS SUBSECUENTES, TODOS DE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor el día uno de enero de dos mil veinticuatro, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Previo análisis del destino y la capacidad de pago del Estado y con el fin de seguir fortaleciendo las finanzas públicas y mitigar los riesgos de un alza en la tasa de interés de los financiamientos de largo plazo a cargo del Estado que constituyen su deuda pública, para el ejercicio fiscal 2024 se autoriza al Ejecutivo Estatal, a través de la Secretaría de Finanzas, la celebración de las operaciones de instrumentos derivados, incluyendo su contratación o, vinculación a los créditos vigentes del Estado, y todos aquellos que se llegaran a celebrar, así como para que celebre todos los actos necesarios y/o convenientes para instrumentar dichas operaciones.
