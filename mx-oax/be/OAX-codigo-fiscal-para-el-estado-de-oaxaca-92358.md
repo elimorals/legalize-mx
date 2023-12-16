@@ -4,7 +4,7 @@ identifier: "OAX-codigo-fiscal-para-el-estado-de-oaxaca-92358"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-12-22"
-last_updated: "2021-12-18"
+last_updated: "2023-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2023.
 
 Código publicado en la cuarta sección del periódico oficial del Estado de Oaxaca el sábado 22 de diciembre de 2012.
 
@@ -100,6 +100,10 @@ X. Administración de Ingresos Públicos: Acciones de Fiscalización y Recaudaci
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
 XI. Unidad de Medida y Actualización: Unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes estatales, en términos de lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y la Ley reglamentaria de la materia; y
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+Para efectos de determinar la cuantía en el pago de las obligaciones y supuestos previstos en este Código, se tomará el valor diario de la Unidad de Medida y Actualización en términos de la Ley para Determinar el Valor de la Unidad de Medida y Actualización; y
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
@@ -365,7 +369,9 @@ Cuando el resultado de la operación a que se refiere el primer párrafo de este
 
 Para determinar el monto de las cantidades a que se refiere el párrafo anterior, se considerarán, inclusive, las fracciones de peso; no obstante lo anterior, dicho monto se ajustará para que las cantidades de 0.01 a 5.00 pesos en exceso de una decena, se ajusten a la decena inmediata anterior y de 5.01 a 9.99 pesos en exceso de una decena, se ajusten a la decena inmediata superior.
 
-Cuando de conformidad con las disposiciones fiscales se deban realizar operaciones aritméticas con el fin de determinar factores, las mismas deberán calcularse hasta el diezmilésimo. Cuando el diezmilésimo obtenido sea mayor a cinco, se ajustará la decena con un punto hacia arriba, y si es igual o inferior a cinco, la decena quedará como hubiere resultado. El resultado de estas operaciones será el factor aplicable.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+Cuando de conformidad con las disposiciones fiscales se deban realizar operaciones aritméticas con el fin de determinar factores, las mismas deberán calcularse hasta el diezmilésimo.
 
 ###### ARTÍCULO 24.
 
@@ -1151,29 +1157,31 @@ a) Aviso de dictamen a través de los formatos autorizados para tal efecto por l
 
 b) Dictamen formulado por contador público registrado, incluyendo la información y documentación que indique el Reglamento, a más tardar el 30 de junio del año inmediato posterior a la terminación del ejercicio a dictaminar.
 
-Cuando el dictamen y la información relacionada con el mismo se presenten fuera de los plazos que prevé este artículo, éstos se tendrán por no presentados.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+Cuando el dictamen, aviso del dictamen y la documentación relacionada con el mismo, se presenten fuera de los plazos que prevé este artículo, éstos se tendrán por no presentados.
 
 En el caso de que el dictamen determine diferencias de contribuciones a pagar, éstas deberán enterarse mediante declaración complementaria ante la Secretaría, dentro de los diez días posteriores a la presentación del dictamen.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 82.
 
 Los dictámenes formulados por contadores públicos registrados, sobre las contribuciones estatales de los contribuyentes o bien en las aclaraciones que dichos contadores formulen respecto de los hechos afirmados en los dictámenes se presumirán ciertos, salvo prueba en contrario, siempre que se cumpla con lo siguiente:
 
-I. El contador público que dictamine esté registrado ante la Secretaría, en los términos de este Código y las Reglas que la misma emita;
+I. El contador público que dictamine esté registrado ante la Secretaría, en los términos de este Código y demás disposiciones fiscales y administrativas aplicables;
 
-II. El dictamen se formule de acuerdo con el Reglamento y las Normas Internacionales de Auditoría.
+II. El dictamen se formule de acuerdo con el Reglamento y las Normas Internacionales de Auditoría;
 
-Cuando el contador público registrado no dé cumplimiento a las disposiciones establecidas en esta fracción, la autoridad fiscal, previa audiencia, oirá las razones y defensas del contador público y en el caso que proceda conforme a pruebas debidamente calificadas, exhortará o amonestará al contador público registrado, o suspenderá hasta por dos años los efectos de su registro. Si hubiera reincidencia o el contador hubiere participado en la comisión de un delito de carácter fiscal, o no exhiba a requerimiento de autoridad, los papeles de trabajo que elaboró con motivo de la auditoría practicada a los documentos correspondientes del contribuyente para efectos fiscales, se procederá a la cancelación definitiva de dicho registro. Lo anterior de conformidad con lo establecido en el Reglamento;
+Cuando el contador público registrado no dé cumplimiento a las disposiciones establecidas en esta fracción, la autoridad fiscal, previa audiencia, oirá las razones y defensas del contador público y en el caso que proceda conforme a pruebas debidamente calificadas, exhortará o amonestará al contador público registrado o suspenderá hasta por dos años los efectos de su registro, observando el procedimiento establecido en el Reglamento. Si hubiera reincidencia o el contador hubiere participado en la comisión de un delito de carácter fiscal o no exhiba a requerimiento de autoridad, los papeles de trabajo que elaboró con motivo de la auditoría practicada a los documentos correspondientes del contribuyente para efectos fiscales, se procederá a la cancelación definitiva de dicho registro. Lo anterior de conformidad con lo establecido en el Reglamento;
 
-III. El dictamen se presente en los términos de lo dispuesto por el presente Código y su Reglamento; y
+III. El dictamen se presente en los términos de lo dispuesto por el presente Código y su reglamento; y
 
 IV. El contador público registrado no esté impedido para formular dictámenes de contribuciones estatales respecto de un contribuyente, por afectar su independencia e imparcialidad, en los siguientes casos:
 
 a) Sea cónyuge, pariente por consanguinidad o civil en línea recta sin limitación de grado, transversal dentro del cuarto grado y por afinidad dentro del cuarto grado, del propietario o socio principal de la empresa o de algún director, administrador o empleado que tenga intervención importante en la administración;
 
-b) Sea o haya sido en el ejercicio fiscal que dictamina, director, miembro del consejo de administración, administrador o empleado del contribuyente o de una empresa afiliada, subsidiaria o que esté vinculada económica o administrativamente a él, cualquiera que sea la forma como se le designe y se le retribuyan sus servicios.
+b) Sea o haya sido en el ejercicio fiscal que dictamina, director, miembro del consejo de administración, administrador o empleado del contribuyente o de una empresa afiliada, subsidiaria o que esté vinculada económica o administrativamente a él; cualquiera que sea la forma como se le designe y se le retribuyan sus servicios;
 
 Cuando se desempeñe como comisario de la sociedad no se considerará impedido para dictaminar, salvo que concurra otra causal de las que se mencionan en estas fracciones;
 
@@ -1189,41 +1197,57 @@ g) Se encuentre vinculado en cualquier otra forma con el contribuyente, que le i
 
 Las opiniones o interpretaciones contenidas en los dictámenes, no obligan a las autoridades fiscales. La revisión de los dictámenes y demás documentos relativos a los mismos, se podrán efectuar en forma previa o simultánea al ejercicio de las otras facultades de verificación fiscal y comprobación, respecto de los contribuyentes o responsables solidarios.
 
-Para obtener el registro a que se refiere la fracción I de este artículo, se deberán reunir los siguientes requisitos:
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-a) Presentar solicitud de registro en el formato autorizado por la Secretaría;
+ARTÍCULO 82 A. La Secretaría será la instancia encargada de la administración y operación del registro de contadores públicos que formulen dictámenes de contribuciones estatales.
 
-b) Copia del acta de nacimiento o de la carta de naturalización;
+Para los efectos establecidos en este Código, su Reglamento y demás disposiciones fiscales o administrativas vigentes, el contador público interesado en obtener su inscripción en el registro a que se refiere el párrafo anterior, deberá reunir y presentar los siguientes requisitos:
 
-c) Copia de cédula profesional;
+a) Solicitud de registro en el formato autorizado por la Secretaría;
 
-d) Estar al corriente en el cumplimiento de sus obligaciones fiscales;
+b) Copia del acta de nacimiento o de la carta de naturalización; tratándose de personas extranjeras acreditar que cuentan con derecho a dictaminar conforme a los tratados internacionales de que México sea parte;
 
-e) Constancia emitida por Colegio Profesional o Asociación que acredite su calidad de miembro activo por un mínimo de tres años de manera continua, expedida dentro de los dos meses anteriores a la fecha de presentación de la solicitud.
+c) Estar al corriente en el cumplimiento de sus obligaciones fiscales;
 
-Solo serán válidas las constancias que sean expedidas a los contadores públicos por (sic) Colegio Profesional que obtenga el reconocimiento de idoneidad que otorga la Secretaría de Educación Pública; y
+d) Copia de cédula profesional de contador público o equivalente emitida por la Secretaría de Educación Pública;
 
-f) Experiencia mínima de tres años participando en la elaboración de dictámenes fiscales.
+e) Constancia emitida por Colegio Profesional o Asociación de Contadores Públicos que acredite su calidad de miembro activo por un mínimo de tres años de manera continua, expedida dentro de los dos meses anteriores a la fecha de presentación de la solicitud;
 
-> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2015)</small>
+f) Certificación vigente expedida por los colegios profesionales o asociaciones de contadores públicos;
 
-g) Certificación expedida por los colegios profesionales o asociaciones de contadores públicos, registrados y autorizados por la Secretaría de Educación Pública, solo serán válidas las certificaciones que sean expedidas a los contadores públicos por los organismos certificadores que obtengan el reconocimiento de idoneidad que otorgue la Secretaría de Educación Pública.
+g) Comprobante expedido por Colegio Profesional o Asociación de Contadores Públicos que acredite una experiencia mínima de tres años participando en la elaboración de dictámenes fiscales;
+
+h) En caso de que la certificación a que se refiere el inciso f) de este artículo se haya expedido con más de un año al momento de solicitar la inscripción, deberá presentar copia certificada por notario y el original para cotejo de la constancia que acredite el cumplimiento de la Norma de Educación Continua o de Actualización Académica, expedida por un Colegio Profesional o por una Asociación de Contadores Públicos reconocidos por la Secretaría de Educación Pública; y
+
+i) Escrito libre manifestando, bajo protesta de decir verdad, que no ha participado en la comisión de un delito de carácter fiscal o en delitos intencionales que ameriten pena corporal, el cual deberá ser renovado anualmente.
+
+Solo serán válidos el comprobante, la constancia y/o certificación expedidos al contador público por Colegios Profesionales o Asociaciones de Contadores Públicos, y organismos certificadores, registrados y autorizados por la Secretarla de Educación Pública y con reconocimiento de idoneidad que otorga ésta última.
 
 La Secretaría proporcionará al contador público que haya cumplido con los requisitos mencionados, su registro correspondiente en un plazo no mayor de quince días hábiles contados a partir de la fecha en que se integró debidamente la solicitud.
 
-Obtenido el registro, dentro de los tres meses siguientes a cada ejercicio fiscal, el contador público deberá comprobar ante la Secretaría, que es socio activo de un Colegio Profesional, y presentar copia certificada y original para cotejo de la constancia del cumplimiento de la norma de educación profesional continua, expedida por dicho Colegio, en caso contrario el contador público no podrá dictaminar.
+En caso de modificación de los datos asentados en la solicitud de registro, el contador público deberá presentar aviso a la Secretaría dentro de los quince días siguientes al en que ocurra dicho evento, en el formato de actualización de datos que para tal efecto emita la Secretaría.
 
-Asimismo, deberá expresar bajo protesta de decir verdad que no está sujeto a proceso o condenado, por delitos de carácter fiscal o por delitos intencionales que ameriten pena corporal.
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-En caso de modificación de los datos asentados en la solicitud de registro el contador público deberá presentar aviso a la Secretaría, dentro de los quince días siguientes en que ocurra dicho evento, en el formato de actualización de datos que para tal efecto emita la Secretaría.
+ARTÍCULO 82 B. El contador público registrado, dentro de los primeros tres meses de cada ejercicio fiscal, deberá presentar a la Secretaría lo siguiente:
 
-El registro otorgado a los contadores públicos que formulen dictámenes de contribuciones estatales, será dado de baja del registro de contadores públicos que lleve la Secretaría, en aquellos casos en que dichos contadores no formulen dictamen sobre contribuciones estatales, en un periodo de cinco años.
+a) Constancia emitida por Colegio Profesional o Asociación de Contadores Públicos que acredite su calidad de miembro activo; y
 
-El periodo de cinco años a que se refiere el párrafo anterior, se computará a partir del día siguiente a aquél en que se presentó el último dictamen que haya formulado el contador público registrado.
+b) La que se refiere en el inciso h) del artículo 82 A de este Código, que acredite que cumple con la Norma de Educación Continua o de Actualización Académica, expedida por dicho Colegio Profesional o Asociación de Contadores Públicos reconocidos por la Secretaría de Educación Pública.
 
-La baja del registro se dará a conocer al contador público mediante aviso, así como al Colegio Profesional o Asociación al que pertenezca el mismo. La Secretaría podrá dejar sin efectos la baja del registro, siempre que el contador público lo solicite por escrito en un plazo de 30 días hábiles posteriores a la fecha en que reciba el aviso debiendo justificar dicha petición.
+Una vez concluida la vigencia de la certificación a que se refiere el inciso f) del articulo 82 A de este Código, el contador público inscrito deberá contar con el refrendo o recertificación de ésta.
 
-Las sociedades o asociaciones civiles conformadas por los despachos de contadores públicos, cuyos integrantes obtengan autorización para formular los dictámenes a que se refiere este artículo, deberán registrarse ante la Secretaría mediante el formato establecido en Reglas, debiendo cumplir con lo siguiente:
+El contador público registrado que no dé cumplimiento a lo señalado en el presente artículo no podrá dictaminar contribuciones estatales, quedando suspendido su registro hasta que obtenga las constancias a que se refieren los incisos a) y b) de este artículo.
+
+El registro otorgado a los contadores públicos que formulen dictámenes de contribuciones estatales será dado de baja del registro de contadores públicos que lleve la Secretaría, en aquellos casos en que dichos contadores no formulen dictamen sobre contribuciones estatales, en un período de cinco años.
+
+El período de cinco años a que se refiere el párrafo anterior se computará a partir del día siguiente a aquél en que se presentó el último dictamen que haya formulado el contador público registrado.
+
+La baja del registro se dará a conocer al contador público mediante aviso, así como al Colegio Profesional o Asociación al que pertenezca el mismo. La Secretaría podrá dejar sin efectos la baja del registro, siempre que el contador público lo solicite por escrito en un plazo de 30 días hábiles posteriores a la fecha en que reciba el aviso, debiendo justificar dicha petición.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 82 C. Las sociedades o asociaciones civiles conformadas por los despachos de contadores públicos, cuyos integrantes obtengan autorización para formular los dictámenes a que se refiere el artículo 82 A de este Código, deberán registrarse ante la Secretaría mediante el formato que ésta autorice, debiendo cumplir con lo siguiente:
 
 I. Estar inscritas en el registro estatal o federal de contribuyentes, así como encontrarse en dicho registro con el estatus de localizados en su domicilio fiscal;
 
@@ -1231,23 +1255,25 @@ II. Contar con el certificado de firma electrónica avanzada vigente;
 
 III. Entregar una relación con los nombres de los contadores públicos autorizados para formular dictámenes para efectos fiscales, que presten sus servicios a la misma persona moral; y
 
-IV. El representante legal de la sociedad o asociación civil cumpla con los requisitos establecidos en las fracciones I y II del presente artículo, y no haya presentado aviso de suspensión de actividades.
+IV. El representante legal de la sociedad o asociación civil cumpla con los requisitos establecidos en las fracciones I y II del presente artículo, y no se encuentre en suspensión de actividades.
 
 Cuando las sociedades o asociaciones civiles a que se refiere el párrafo anterior soliciten por primera vez el registro correspondiente, la solicitud se deberá presentar dentro del mes siguiente a la fecha en la que alguno de sus miembros obtenga autorización para formular dictámenes para efectos fiscales.
 
-Las sociedades o asociaciones civiles que hayan obtenido su registro, deberán presentar aviso mediante el formato establecido en Reglas a la Secretaría dentro del plazo de quince días siguientes en las que se actualice cualquiera de las siguientes circunstancias:
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 82 D. Las sociedades o asociaciones civiles que hayan obtenido su registro deberán presentar aviso mediante el formato autorizado por la Secretaría dentro del plazo de quince días siguientes a que se actualice cualquiera de las siguientes circunstancias:
 
 a) Se incorpore a ellas un contador público registrado;
 
 b) Cuando alguno de sus miembros obtenga su registro;
 
-c) Cuando alguno de sus miembros que sea contador público registrado se desincorpore de ellas;
+e) Cuando alguno de sus miembros que sea contador público registrado se desincorpore de ellas;
 
 d) Por fallecimiento de alguno de sus miembros registrados; o
 
 e) Por cancelación o baja en el registro.
 
-El aviso a que se refiere el párrafo anterior deberá indicar los datos de identificación del contador público: nombre; número de inscripción; clave en el registro estatal o federal de contribuyentes; clave única del registro de población; cargo que desempeña en la persona moral de que se trate y los demás que mediante Reglas establezca la Secretaría.
+El aviso a que se refiere el párrafo anterior deberá indicar los datos de identificación del contador público: nombre; número de inscripción; clave en el registro estatal o federal de contribuyentes; clave única del registro de población; cargo que desempeña o desempeñaba en la persona moral de que se trate y los demás que establezca la Secretaría.
 
 ## TÍTULO TERCERO. DE LA RESPONSABILIDAD SOLIDARIA
 
@@ -1859,7 +1885,9 @@ Sin perjuicio del derecho del contribuyente para desvirtuar los hechos en que se
 
 Los servidores públicos que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estarán obligados a guardar absoluta reserva en lo concerniente a las manifestaciones, declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación.
 
-Se exceptúa de dicha reserva cuando la información sea solicitada por los interesados o sus representantes legales, o en los casos que señalen los ordenamientos fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales del Estado, a las autoridades judiciales en procesos del orden penal o a los tribunales competentes que conozcan de pensiones alimenticias, al Ministerio Público en sus funciones de investigación y persecución del delito o en el supuesto previsto en el artículo 67 cuarto párrafo de este Código.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+Se exceptúa de dicha reserva cuando la información sea solicitada por los interesados o sus representantes legales, o en los casos que señalen los ordenamientos fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales del Estado, a las autoridades judiciales en procesos del orden penal o a los tribunales competentes que conozcan de pensiones alimenticias, al Ministerio Público en sus funciones de investigación y persecución del delito, en el supuesto previsto en el artículo 67 cuarto párrafo de este Código, así como en los casos en que deba suministrarse información a las autoridades competentes en los procesos de fiscalización de las finanzas de los partidos políticos y a los órganos responsables en el cumplimiento de sus obligaciones respecto de las investigaciones y sanciones de responsabilidades administrativas y hechos de corrupción en el ámbito federal y estatal.
 
 Dicha reserva tampoco comprenderá la información relativa a los créditos fiscales firmes de los contribuyentes, que las autoridades fiscales proporcionen a las sociedades de información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público, de conformidad con la Ley para Regular las Sociedades de Información Crediticia.
 
@@ -1920,6 +1948,10 @@ VII. Ostentar la firma de la autoridad fiscal competente para emitirlo. En el ca
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
 En caso de resoluciones administrativas que consten en documentos impresos, el funcionario competente podrá expresar su voluntad para emitir la resolución plasmando en el documento impreso un sello expresado en caracteres, generado mediante el uso de su firma electrónica avanzada y amparada por un certificado vigente a la fecha de la resolución.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+Para dichos efectos, la impresión de caracteres consistente en el sello, resultado del acto de firmar con la firma electrónica avanzada amparada por un certificado vigente a la fecha de la resolución que se encuentre contenida en el documento impreso, producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
@@ -3997,7 +4029,9 @@ I. La omisión corresponda al pago de contribuciones o cualquier otro crédito f
 
 Para efectos de lo dispuesto en esta fracción, se considera que existe notificación en los términos establecidos en el último párrafo del artículo 141 de este Código, aún cuando ésta no haya surtido sus efectos para el cómputo de plazos.
 
-II. La omisión haya sido subsanada por el contribuyente con posterioridad a los diez días siguientes a la presentación del dictamen de los estados financieros de dicho contribuyente formulado por contador público ante la Secretaría, respecto de aquellas contribuciones omitidas que hubieren sido observadas en el dictamen.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+II. La omisión haya sido subsanada por el contribuyente con posterioridad a los diez días siguientes a la presentación del dictamen de contribuciones estatales de dicho contribuyente formulado por contador público ante la Secretaría, respecto de aquellas contribuciones omitidas que hubieren sido observadas en el dictamen.
 
 Siempre que se omita el pago de una contribución cuya determinación corresponda a los servidores públicos o a los notarios o corredores titulados, los accesorios, incluyendo la multa que corresponda, serán a cargo exclusivamente de ellos, y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados para efectos de su determinación a quien determinó las contribuciones, los accesorios serán a cargo de los contribuyentes.
 
@@ -4199,9 +4233,9 @@ II. Extender actas, legalizar firmas, expedir certificados o certificaciones, au
 
 III. Recibir el pago de un crédito fiscal, no enterar su importe de inmediato o dentro de los plazos que al efecto prevengan las disposiciones fiscales, y no contabilizar el ingreso, dará lugar a una multa por el equivalente de un mil setecientas veinte a dos mil doscientas noventa veces el valor de la Unidad de Medida y Actualización vigente;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-IV. No presentar ni proporcionar o hacerlo extemporáneamente, los informes, avisos, datos o documentos que exijan las disposiciones fiscales o presentarlos incompletos o inexactos; o no prestar el auxilio y colaboración que este Código establece a las autoridades fiscales, inspectores, valuadores y ejecutores que tengan encomendadas la determinación o cobro de las diversas prestaciones fiscales, o presentar cualesquiera de los elementos a que se contrae esta fracción, alterados o falsificados, dará lugar (sic) una multa por el equivalente de cincuenta a ochenta veces el valor de la Unidad de Medida y Actualización vigente;
+IV. Omitir la presentación de informes, avisos, datos o documentos que exijan las disposiciones fiscales o administrativas o al presentar éstos, estén incompletos o inexactos, dará lugar (sic) una multa por el equivalente de cincuenta a ochenta veces el valor de la Unidad de Medida y Actualización vigente;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -4233,21 +4267,31 @@ X. Omitir la comprobación de la exactitud en los cálculos de contribuciones, s
 
 XI. Alterar las bases o tasas vigentes, para el cobro de cualquier gravamen u otorgar beneficio o estímulos fiscales a los obligados, sin estar legalmente facultados para ello, se impondrá una multa de un mil setecientas veinte a dos mil doscientas noventa veces el valor de la Unidad de Medida y Actualización vigente;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-XII. No dar debido cumplimiento a las funciones o actividades que en materia de asistencia o difusión fiscal establezcan los ordenamientos y disposiciones administrativas de la materia, se impondrá una multa de un mil setecientas veinte a dos mil doscientas noventa veces el valor de la Unidad de Medida y Actualización vigente;
+XII. No dar debido cumplimiento a las actividades de asistencia y difusión, que en materia fiscal se establezcan en las disposiciones legales y administrativas, se impondrá una multa de un mil setecientas veinte a dos mil doscientos noventa veces el valor de la Unidad de Medida y Actualización vigente;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 XIII. Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes, se impondrá una multa de un mil setecientas veinte a dos mil doscientas noventa veces el valor de la Unidad de Medida y Actualización vigente;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-XIV. Por la pérdida o extravío de formas valoradas de diez a veinte veces el valor de la Unidad de Medida y Actualización vigente, por cada formato, y
+XIV. Participar en acciones que impliquen un uso indebido, sustracción, destrucción, pérdida, extravío, ocultamiento o inutilización de formas oficiales de reproducción restringida, así como omitir la comprobación de formas oficiales valoradas, se impondrá una multa por el equivalente de cincuenta a ochenta veces el valor de la Unidad de Medida y Actualización vigente, así como el costo vigente de cada una de las formas oficiales de reproducción restringida.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+Cuando la inutilización de formas oficiales valoradas sea ocasionada por la falta de pericia, habilidad, atención, cuidado, diligencia en su uso o manejo, se aplicará una multa de diez a veinte veces el valor de la Unidad de Medida y Actualización vigente, por cada una de las formas oficiales valoradas inutilizadas;
 
-XV. Divulgar, o hacer uso personal o indebido de la información clasificada como confidencial en términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca, que sea proporcionada o conocida con motivo de su participación en los actos de fiscalización, se impondrá una multa de un mil setecientas veinte a dos mil doscientas noventa veces el valor de la Unidad de Medida y Actualización vigente.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+XV. Divulgar, o hacer uso personal o indebido de la información clasificada como confidencial en términos de la Ley de Transparencia, Acceso a la Información Pública y Buen Gobierno del Estado de Oaxaca y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Oaxaca, que sea proporcionada o conocida con motivo de la participación en los actos de fiscalización, se impondrá una multa de un mil setecientas veinte a dos mil doscientas noventa veces el valor de la Unidad de Medida y Actualización vigente;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+XVI. Omitir prestar el auxilio y colaboración que este Código establece a las autoridades fiscales, inspectores, valuadores y ejecutores que tengan encomendadas la determinación o cobro de las diversas prestaciones fiscales, se impondrá una multa por el equivalente de cincuenta a ochenta veces el valor de la Unidad de Medida y Actualización vigente; y
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+XVII. Alterar o falsificar documentos, informes datos o avisos que exijan las disposiciones fiscales, dará lugar a una multa por el equivalente de cincuenta a ochenta veces el valor de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -4638,3 +4682,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veintidós, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 16 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1614.- MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 23 ÚLTIMO PÁRRAFO, 81 QUINTO PÁRRAFO, 82, 121 SEGUNDO PÁRRAFO, 263 FRACCIÓN II Y 272 FRACCIONES IV, XII, XIV, Y XV; SE ADICIONAN UN SEGUNDO PÁRRAFO A LA FRACCIÓN XI DEL ARTÍCULO 2, LOS ARTÍCULOS 82 A, 82 B, 82 C, 82 D, UN TERCER PÁRRAFO AL ARTÍCULO 122 RECORRIENDOSE EL ORDEN DE LOS SUBSECUENTES Y LAS FRACCIONES XVI Y XVII AL ARTÍCULO 272, TODOS DEL CÓDIGO FISCAL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veinticuatro, previa publicación en el Periódico Oficial del Gobierno del Estado.
