@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-conducta-de-las-personas-servidoras-publicas-de-15021
 country: "mx"
 rank: "codigo"
 publication_date: "2021-07-03"
-last_updated: "2021-07-03"
+last_updated: "2023-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # CODIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PUBLICAS DE LA CONTRALORIA GENERAL DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LA CONTRALORÍA GENERAL DEL ESTADO DE COLIMA, PUBLICADO EN EL P.O. DE 16 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA CONTRALORÍA GENERAL DEL ESTADO DE COLIMA VERSIÓN NO. 3
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2023 (ABROGADO).
 
 Código publicado en el Suplemento Número 1 del Periódico Oficial del Estado de Colima, el sábado 3 de julio de 2021.
 
@@ -368,3 +370,15 @@ De conformidad con lo establecido en los Lineamientos para la integración y fun
 1. SECCIÓN DE CAMBIOS
 
 > <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO NÚMERO 1 DEL P.O. DE 3 DE JULIO DE 2021, PÁGINAS DE LA 24 A LA 25.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LA CONTRALORÍA GENERAL DEL ESTADO DE COLIMA".]
+
+PRIMERO: El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO: Se abroga el Código de Conducta de las Personas Servidoras Públicas de la Contraloría General del Estado de Colima, publicado en el Periódico Oficial “El Estado de Colima” el día 03 de julio de 2021.
+
+TERCERO: El Comité de Ética implementará las acciones necesarias para que todo el personal de la Contraloría firme la Carta Compromiso correspondiente al anexo único de este Código de Conducta.
