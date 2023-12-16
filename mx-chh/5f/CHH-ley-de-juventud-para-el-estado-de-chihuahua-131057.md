@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-juventud-para-el-estado-de-chihuahua-131057"
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-20"
-last_updated: "2022-06-11"
+last_updated: "2023-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131057&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Anexo al Periódico Oficial, del Estado de Chihuahua, el sábado 20 de octubre de 2018.
 
@@ -127,9 +127,15 @@ El Ejecutivo y los Ayuntamientos coadyuvarán con las agrupaciones juveniles a f
 
 Las personas jóvenes tienen el derecho de participación social y política como medio para mejorar sus condiciones de vida, involucrándose en la toma de decisiones del sector social, público y privado; por lo que se procurará garantizar su participación en la postulación de candidaturas a cargos de elección popular, respetando el principio de equidad de género.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 15.
 
-El Ejecutivo y los Ayuntamientos impulsarán acciones que hagan efectiva la participación de las personas jóvenes de todos los sectores de la sociedad, alentando su inclusión en organizaciones e incentivando su derecho de adherirse en términos de Ley, en agrupaciones políticas, sociales o académicas.
+El Ejecutivo y los Ayuntamientos impulsarán acciones que hagan efectiva la participación de las personas jóvenes de todos los sectores de la sociedad, alentando su inclusión en organizaciones e incentivando su derecho de adherirse en términos de Ley, a agrupaciones políticas, sociales y académicas, con la finalidad de obtener una mayor participación en la vida democrática de nuestro Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+Además de lo anterior, se impulsarán acciones para coordinarse con las instancias pertinentes, pertenecientes a los tres órdenes de gobierno relacionadas con la atención a la juventud, así como los programas de la sociedad civil para generar políticas efectivas y mecanismos eficientes de integración y divulgación, sobre la importancia de la participación de las personas jóvenes en la vida democrática del Estado.
 
 ### Capítulo VII. DERECHO A LA SALUD
 
@@ -507,17 +513,23 @@ Los objetivos de la política municipal deberán ser congruentes con los que cor
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 60.
 
-Sin perjuicio de las disposiciones contenidas en otros ordenamientos, el Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Social, formulará y actualizará de manera anual un programa estatal denominado Programa Integral de la Juventud, mismo que englobará todas las políticas públicas tendientes a cumplir con los objetivos previstos en la presente Ley y demás ordenamientos legales que tiendan a consolidar los derechos de las y los jóvenes en el Estado de Chihuahua.
+Sin perjuicio de las disposiciones contenidas en otros ordenamientos, el Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Humano y Bien Común, formulará y actualizará de manera anual un programa estatal denominado Programa Integral de la Juventud, mismo que englobará todas las políticas públicas tendientes a cumplir con los objetivos previstos en la presente Ley y demás ordenamientos legales que tiendan a consolidar los derechos de las y los jóvenes en el Estado de Chihuahua.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 61.
 
-Para efectos del artículo anterior, todas las Secretarías, así como la Fiscalía General del Estado en su caso, remitirán a la Secretaría de Desarrollo Social los programas operativos, y de igual forma, el proyecto de presupuesto que implementen y que se relacionen con el desarrollo integral de la juventud, a efecto de que, a su vez, esta lo presente al Consejo Estatal de la Juventud para su aprobación.
+Para efectos del artículo anterior, todas las Secretarías, así como la Fiscalía General del Estado en su caso, remitirán a la Secretaría de Desarrollo Humano y Bien Común los programas operativos, y de igual forma, el proyecto de presupuesto que implementen y que se relacionen con el desarrollo integral de la juventud, a efecto de que, a su vez, esta lo presente al Consejo Estatal de la Juventud para su aprobación.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 62.
 
-El diseño del programa, así como la formulación de los presupuestos que lo integran, correrá a cargo de la Comisión Estatal de la Juventud, tomando como base lo dispuesto por la presente Ley y demás ordenamientos legales relacionados con el desarrollo integral de las y los jóvenes en el Estado de Chihuahua, a efecto de que se presente a la Secretaría de Desarrollo social para que, a su vez, lo integre como parte de su proyecto de presupuesto.
+El diseño del programa, así como la formulación de los presupuestos que lo integran, correrá a cargo de la Comisión Estatal de la Juventud, tomando como base lo dispuesto por la presente Ley y demás ordenamientos legales relacionados con el desarrollo integral de las y los jóvenes en el Estado de Chihuahua, a efecto de que se presente a la Secretaría de Desarrollo Humano y Bien Común para que, a su vez, lo integre como parte de su proyecto de presupuesto.
 
 ###### Artículo 63.
 
@@ -535,9 +547,11 @@ Sin perjuicio de las modificaciones que sufra el programa en su contenido, el pr
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 66.
 
-Se crea el Instituto Chihuahuense de la Juventud, como Organismo Descentralizado de la Administración Pública Estatal, sectorizado a la Secretaría de Desarrollo Social, con personalidad jurídica y patrimonio propios, con domicilio en la ciudad de Chihuahua, Chihuahua; tendrá como objeto asesorar y auxiliar al Poder Ejecutivo del Estado en la formulación e instrumentación de la política pública en materia de juventud.
+Se crea el Instituto Chihuahuense de la Juventud, como Organismo Descentralizado de la Administración Pública Estatal, sectorizado a la Secretaría de Desarrollo Humano y Bien Común, con personalidad jurídica y patrimonio propios, con domicilio en la ciudad de Chihuahua, Chihuahua; tendrá como objeto asesorar y auxiliar al Poder Ejecutivo del Estado en la formulación e instrumentación de la política pública en materia de juventud.
 
 ###### Artículo 67.
 
@@ -627,7 +641,9 @@ III. Órgano de Vigilancia.
 
 La Junta Directiva se integrará por quien ocupe la titularidad de las siguientes instancias:
 
-I. Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+I. Secretaría de Desarrollo Humano y Bien Común;
 
 II. Secretaría de Hacienda;
 
@@ -641,9 +657,11 @@ VI. Fiscalía General del Estado; y
 
 VIII. (SIC) Tres integrantes del Consejo Estatal de la Juventud.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 72.
 
-La Presidencia de la Junta Directiva recaerá en quien ocupe la titularidad de la Secretaría de Desarrollo Social.
+La Presidencia de la Junta Directiva recaerá en quien ocupe la titularidad de la Secretaría de Desarrollo Humano y Bien Común.
 
 ###### Artículo 73.
 
@@ -675,7 +693,9 @@ IV. Aprobar y, en su caso, modificar su Estatuto Orgánico y los Manuales de Org
 
 V. Autorizar la creación de la estructura administrativa necesaria para el cumplimiento de las atribuciones del organismo;
 
-VI. Determinar la conformación de comités técnicos;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+VI. Determinar la conformación de comisiones;
 
 VII. Conocer y aprobar los informes, dictámenes y recomendaciones de la Dirección General, de los Órganos de Vigilancia, de Auditoría Externa y de los correspondientes a la Evaluación del Desarrollo Social y Humano;
 
@@ -725,7 +745,9 @@ IV. Proponer a la Junta Directiva las medidas que estime necesarias para el mejo
 
 V. Someter a la aprobación de la Junta Directiva, el nombramiento y remoción del personal del Instituto, de conformidad a lo establecido en la Ley de Entidades Paraestatales del Estado;
 
-VI. Proponer a la Junta Directiva, para su aprobación o modificación, los proyectos de Estatuto Orgánico, Manuales de Organización, de Procedimientos y Servicios al Público, así como la integración de comités técnicos;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+VI. Proponer a la Junta Directiva, para su aprobación o modificación, los proyectos de Estatuto Orgánico, Manuales de Organización, de Procedimientos y Servicios al Público, así como la integración de comisiones;
 
 VII. Promover proyectos de investigación en materia de personas jóvenes;
 
@@ -775,7 +797,9 @@ El Consejo Estatal de la Juventud es un órgano de deliberación, asesoría y co
 
 El Consejo se integrará por:
 
-I. La persona que ocupe la titularidad de la Secretaría de Desarrollo Social, quien lo presidirá;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+I. La persona que ocupe la titularidad de la Secretaría de Desarrollo Humano y Bien Común, quien lo presidirá;
 
 II. Una Secretaría Técnica, que recaerá en quien ocupe la titularidad de la Dirección General del Instituto Chihuahuense de la Juventud;
 
@@ -789,9 +813,15 @@ V. Quince personas jóvenes que participen en organismos o asociaciones del sect
 
 VI. Dos integrantes de la Comisión de Juventud y Niñez del H. Congreso del Estado.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+En la conformación del Consejo se garantizará y privilegiará la paridad de género.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 86.
 
-Las personas a que se refieren las fracciones IV y V del artículo anterior, serán designadas por el Consejo con sus respectivos suplentes, previa convocatoria pública que para tal efecto se emita. Durarán en su cargo dos años y podrán ser removidas por la falta injustificada a dos sesiones en un período de seis meses.
+Las personas a que se refieren las fracciones IV y V del artículo anterior, serán designadas por el Consejo con sus respectivos suplentes, previa convocatoria pública que para tal efecto se emita. Durarán en su cargo dos años y podrán ser removidas por la falta injustificada a dos sesiones en un periodo de un año.
 
 ###### Artículo 87.
 
@@ -809,17 +839,63 @@ III. Emitir opiniones, sugerencias y recomendaciones sobre las evaluaciones a lo
 
 IV. Recomendar la celebración de acuerdos y convenios entre las dependencias y entidades de la administración pública estatal, con las del Ejecutivo Federal, de otras Entidades Federativas y de los ayuntamientos, así como con las organizaciones del sector social y privado;
 
-V. Determinar la conformación de comités técnicos y mesas de trabajo;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-VI. Participar en la selección de las personas jóvenes que deban ser premiadas o reconocidas por el Instituto Chihuahuense de la Juventud; y
+V. Determinar la conformación de comisiones y mesas de trabajo;
 
-VII. Las demás que resulten necesarias para el cumplimiento de su objeto.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+VI. Participar en la selección de las personas jóvenes que deban ser premiadas o reconocidas por el Instituto Chihuahuense de la Juventud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+VII. Emitir recomendaciones a dependencias e instituciones respecto de acciones en materia de juventud;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+VIII. Determinar la renovación, modificación y revocación de las comisiones de carácter temporal, al momento de la conformación del Consejo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+IX. Las demás que resulten necesarias para el cumplimiento de su objeto.
 
 ###### Artículo 89.
 
 El Consejo Estatal de la Juventud sesionará de forma ordinaria seis sesiones por año, pudiendo celebrar sesiones extraordinarias cuando así se requiera. En ambos casos, para la validez de las sesiones, se requerirá que la convocatoria haya sido suscrita por quienes ocupen la titularidad de la Presidencia y de la Secretaría Técnica, que además se haya notificado con un mínimo de cinco días hábiles de antelación a la sesión correspondiente y que hubiesen asistido más de la mitad de sus miembros, si se tratare de una sesión ordinaria.
 
 Los acuerdos del Consejo Estatal de la Juventud se tomarán por mayoría de los presentes, teniendo quien ocupe la Presidencia, voto de calidad en caso de empate. De cada sesión del Consejo se levantará el acta correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+Artículo 89 bis. El Consejo, podrá integrar las Comisiones que considere necesarias para el desarrollo de sus atribuciones, entre las que se conformarán las siguientes, las cuales tendrán el carácter de permanentes:
+
+I. Comisión de Participación Ciudadana;
+
+II. Comisión de Cultura y Recreación;
+
+III. Comisión de Salud y Bienestar;
+
+IV. Comisión de Seguridad y Justicia, y Derechos Humanos;
+
+V. Comisión de Inclusión Social;
+
+VI. Comisión de Educación y Empleo; y
+
+VII. Comisión de Desarrollo Sostenible y Medio Ambiente.
+
+Cada Comisión deberá estar conformada por un mínimo de tres personas que ocupen las consejerías y un máximo de ocho, además del número de especialistas de los sectores del ámbito público, privado y social que designen quienes integren cada comisión.
+
+Las Comisiones serán dirigidas por una Directiva, la cual se integrará por una Presidencia y una Secretaría, que serán designadas por las personas que ocupen las consejerías de cada Comisión, mediante votación. Esta directiva durará en su encargo un año.
+
+Quienes ocupen las consejerías solo podrán ejercer la Presidencia y Secretaría de una sola Comisión, pero podrán pertenecer en calidad de vocales en dos o más comisiones.
+
+Las Comisiones celebrarán sesiones ordinarias y extraordinarias, y le serán aplicables para el desarrollo de las mismas, las disposiciones contenidas en el artículo 89 de la presente Ley y lo establecido en el Reglamento Interno para el Consejo Estatal de la Juventud.
+
+Cuando el Consejo determine que se integren más Comisiones, tendrán el carácter de temporales y podrán renovarse, modificarse y revocarse por los consejos de nueva creación al momento de su integración. Respecto a la conformación, Directiva y sesiones se estará a lo dispuesto en los párrafos tercero, cuarto y quinto del presente artículo.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+Artículo 89 ter. En lo no previsto por el presente ordenamiento para el funcionamiento del Consejo y sus Comisiones, se estará a lo que se establezca en su reglamento.
 
 ## TÍTULO VIII. DEL SISTEMA DE INFORMACIÓN EN MATERIA DE JUVENTUD
 
@@ -926,6 +1002,22 @@ Se derogan las disposiciones contrarias al presente Decreto.
 P.O. 11 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0213/2022 II P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ESTATAL DE EDUCACIÓN, A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y A LA LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0640/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0641/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
