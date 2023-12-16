@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-agua-potable-y-alcantarillado-para-el-estado-de-9039"
 country: "mx"
 rank: "ley"
 publication_date: "1993-02-13"
-last_updated: "2023-04-01"
+last_updated: "2023-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 13 de febrero de 1993.
 
@@ -99,9 +99,13 @@ XII.- La corresponsabilidad de la administración pública estatal y municipal y
 
 XIII.- La creación de un programa de información del sistema.
 
-> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-XIV.- La participación de la administración pública estatal y municipal, con el Gobierno Federal, en el desarrollo de las estrategias regionales para la administración del agua, encaminadas a prevenir y reducir los efectos de la sequía.
+XIV.- La participación de la administración pública estatal y municipal, con el Gobierno Federal, en el desarrollo de las estrategias regionales para la administración del agua, encaminadas a prevenir y reducir los efectos de la sequía, y
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+XV.- La promoción y el desarrollo de la cultura del agua acorde a la realidad de cada una de las regiones del Estado.
 
 ###### ARTÍCULO 5o.
 
@@ -141,13 +145,17 @@ V.- Vigilar que la prestación y el funcionamiento de los servicios se realicen 
 
 VI.- La coordinación con el Gobierno Federal y las autoridades municipales, en el desarrollo de las estrategias regionales para la administración del agua, encaminadas a prevenir y reducir los efectos de la sequía;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-VII.- Coordinar con las autoridades federales, municipales y las instituciones de educación superior especializada, cursos de capacitación técnica, financiera, normativa y operativa, dirigidos al personal de los organismos operadores de servicios de agua potable, alcantarillado y saneamiento, y
+VII.- Coordinar con las autoridades federales, municipales y las instituciones de educación superior especializada, cursos de capacitación técnica, financiera, normativa y operativa, dirigidos al personal de los organismos operadores de servicios de agua potable, alcantarillado y saneamiento,
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE ABRIL DE 2023)</small>
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-VIII.- Las demás que esta u otras Leyes le confieran.
+VIII.- Fomentar el uso racional y sustentable, así como la conservación del agua, mediante el uso de tecnologías y promover la optimización del manejo de (sic) integral de los recursos hídricos existentes, y
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+IX.- Las demás que otorguen éstas u otras disposiciones legales.
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
 
@@ -1876,3 +1884,11 @@ P.O. 1 DE ABRIL DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1597.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 4 Y LA FRACCIÓN VII DEL ARTÍCULO 7; Y SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 4, Y LA FRACCIÓN VIII AL ARTÍCULO 7 RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE, TODOS DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
