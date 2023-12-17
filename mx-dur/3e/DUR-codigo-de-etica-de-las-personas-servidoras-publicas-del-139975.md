@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-etica-de-las-personas-servidoras-publicas-del-139975"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-10-10"
-last_updated: "2019-10-10"
+last_updated: "2023-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # CODIGO DE ETICA DE LAS PERSONAS SERVIDORAS PUBLICAS DEL PODER EJECUTIVO DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL PODER EJECUTIVO DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 17 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL PODER EJECUTIVO DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2023 (ABROGADO).
 
 Código publicado en el No. 81 del Periódico Oficial del Estado de Durango, el jueves 10 de octubre de 2019.
 
@@ -678,3 +680,17 @@ Victoria de Durango, Durango, a diecinueve de agosto de dos mil diecinueve.
 M.D. RAQUEL LEILA ARREOLA FALLAD
 
 SECRETARIA DE CONTRALORÍA DEL ESTADO DE DURANGO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL PODER EJECUTIVO DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se abroga el Código de Ética de las Personas Servidoras Públicas del Poder Ejecutivo del Estado de Durango, publicado en el Periódico Oficial del Gobierno del Estado de Durango, ejemplar 81, del 10 de Octubre de 2019.
+
+TERCERO. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+CUARTO. La normativa que rige a los Comités, y los mecanismos de evaluación, seguirán vigentes hasta en (sic) se emitan las actualizaciones correspondientes.
