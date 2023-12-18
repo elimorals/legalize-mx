@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-fisica-y-deporte-del-estado-de-aguascalientes-53
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2023-07-10"
+last_updated: "2023-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2007.
 
@@ -371,9 +371,17 @@ XXII. Impulsar la práctica de actividades de cultura física-deportiva, recreat
 
 XXIII. Formular programas para promover la cultura física y deporte entre las personas con discapacidad;
 
-XXIV. Celebrar todos aquellos contratos y convenios que le permitan cumplir con el objetivo para el cual fue creado; y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-XXV. Las demás que esta Ley u otras disposiciones legales determinen.
+XXIV. Celebrar todos aquellos contratos y convenios que le permitan cumplir con el objetivo para el cual fue creado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+XXV. Promover la capacitación y certificación de directivos, técnicos, deportistas y entrenadores; y exhortar a las Federaciones y Asociaciones Deportivas para la certificación y capacitación de sus jueces y árbitros; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+XXVI. Las demás que esta Ley u otras disposiciones legales determinen.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2015)</small>
 
@@ -2230,3 +2238,11 @@ P.O. 10 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 381.- SE REFORMA LA LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 515.- SE REFORMA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
