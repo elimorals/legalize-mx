@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2023-09-04"
+last_updated: "2023-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -803,9 +803,9 @@ El Auditor Superior de Fiscalización, además de los requisitos previstos en la
 
 I. Ser persona ciudadana mexicana, originaria del Estado de Aguascalientes o con residencia mínima de tres años al momento de su designación.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-II. Contar el día de su designación, con antigüedad mínima de 10 años, con título profesional de contador público, licenciado en derecho o abogado, licenciado en economía, licenciado en administración o cualquier otro título profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello.
+II. Contar el día de su designación, con antigüedad mínima de 10 años, con título profesional de contador público, licenciado en derecho o abogado, licenciado en economía o cualquier otro título profesional relacionado con las actividades de fiscalización, auditoría o de control interno, expedido por autoridad o institución legalmente facultada para ello.
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2023)</small>
 
@@ -937,13 +937,15 @@ IV.- A los Ayuntamientos, en los asuntos de su competencia; y
 
 V.- A los ciudadanos que en términos de esta Constitución y la ley de la materia, presenten una Iniciativa Ciudadana.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 31.
 
-Toda iniciativa, pasará, sin otro trámite que su lectura, a la Comisión respectiva para que dictamine. Cuando la iniciativa corresponda a algún Municipio o se refiera a materias municipales, deberá oírse la opinión de los Ayuntamientos, en los trabajos de las Comisiones. El modo, forma y término para las discusiones y votaciones se establecerán en la Ley Orgánica y Reglamento del Congreso del Estado.
+Toda iniciativa pasará, sin otro trámite que su lectura, a la Comisión respectiva para que dictamine. Cuando la iniciativa corresponda a algún Municipio o se refiera a materias municipales deberá oírse la opinión de los Ayuntamientos, debiendo rendirla en un término que no exceda de quince días hábiles a partir de su notificación, en caso de no hacerlo dentro del plazo mencionado se continuará con el trámite legislativo correspondiente. El modo, forma y términos para las discusiones y votaciones se establecerán en la Ley Orgánica y en el Reglamento del Congreso del Estado.
 
-En los mismos términos se procederá respecto de las iniciativas que se refieran a los ámbitos de competencia de los Poderes Ejecutivo y Judicial.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+En los mismos términos se procederá respecto de las iniciativas que se refieran a los ámbitos de competencia de los Poderes Ejecutivo y Judicial, así como de los Órganos Constitucionales Autónomos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2003)</small>
 
@@ -1707,15 +1709,21 @@ V.- No haber tenido el cargo de Senador, Diputado Federal o Local o dirigente de
 
 El Ministerio Público se organizará en una Fiscalía General del Estado como órgano autónomo con personalidad jurídica y patrimonio propio, misma que ejercerá las funciones previstas en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos con apego a los principios de legalidad, objetividad, imparcialidad, eficiencia, profesionalismo, responsabilidad, honradez y respeto a los derechos humanos, en los términos que disponga la Ley del Servicio Profesional de Carrera Ministerial para el Estado de Aguascalientes y las demás leyes aplicables en la materia.
 
-> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-El Fiscal General del Estado durará en su cargo seis años y será designado y removido conforme a lo siguiente:
+El Fiscal General del Estado durará en su cargo siete años y será designado y removido conforme a lo siguiente:
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
 
 I.- Treinta días antes de concluir el período para el cual fue designado el Fiscal General del Estado, o en su caso, a partir de su ausencia definitiva, el Congreso del Estado tendrá quince días naturales para integrar una lista de cinco candidatos aprobada por las dos terceras partes de los diputados que integran el Congreso del Estado, misma que enviará al Poder Ejecutivo.
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
 
 II.- Recibida la lista a que se refiere la Fracción anterior, el Poder Ejecutivo formulará una terna y la remitirá al Congreso del Estado en un plazo no mayor a cinco días naturales contados a partir de que haya recibido la lista de candidatos;
 
 Si el Poder Ejecutivo no recibe la lista en el plazo señalado en la Fracción I, enviará libremente al Congreso del Estado una terna;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
 
 III.- Recibida la terna por el Congreso del Estado, se turnará a la Comisión de Justicia para que, previa comparecencia de las personas propuestas, rinda el informe respectivo y el Pleno designe al Fiscal General del Estado con el voto de las dos terceras partes de los diputados que integran el Congreso. La designación deberá realizarse dentro del plazo de ocho días naturales contados a partir de que el Congreso reciba la terna.
 
@@ -1723,13 +1731,23 @@ En caso de que el Poder Ejecutivo no envíe la terna al Congreso del Estado, és
 
 Si el Congreso del Estado no hace la designación en el plazo establecido, el Poder Ejecutivo, en un término no mayor a cinco días naturales, designará al Fiscal General del Estado de entre los candidatos que integren la lista referida en la Fracción I, o en su caso de la terna respectiva.
 
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+
 IV.- El Fiscal General del Estado podrá ser removido por el Ejecutivo Estatal por las causas graves que establezcan las Leyes. La remoción podrá ser objetada por el voto de la mayoría calificada de los miembros que integran el Congreso del Estado dentro de un plazo de diez días naturales, previo informe que para el efecto emita la Comisión de Justicia, en cuyo caso el Fiscal General del Estado será restituido en el ejercicio de sus funciones. Si el Congreso del Estado no se pronuncia al respecto, se entenderá que no existe objeción a la remoción;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
 
 V.- En los recesos del Congreso del Estado, la Diputación Permanente lo convocará de inmediato a período extraordinario para la designación o formulación de objeción a la remoción del Fiscal General del Estado.
 
-VI.- Las ausencias temporales del Fiscal General del Estado serán suplidas en los términos que determine la ley. En caso de ausencia definitiva, quien sea designado únicamente desempeñará el cargo hasta completar el período para el cual fue elegido el anterior Fiscal General del Estado.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 8 DE AGOSTO DE 2023)</small>
+VI.- Las ausencias temporales del Fiscal General del Estado serán suplidas en los términos que determiné la ley. En caso de renuncia, esta deberá ser presentada al Congreso del Estado para su aprobación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+Si la renuncia o ausencia definitiva ocurre dentro de los primeros cinco años del nombramiento, será designado un sustituto para concluir el periodo. Si ocurre durante los últimos dos años, el Congreso nombrará al sustituto por un período de siete años.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 18 DE DICIEMBRE DE 2023)</small>
 
 Quien se haya desempeñado como Fiscal General del Estado, no podrá ser reelecto en el cargo.
 
@@ -4064,3 +4082,31 @@ P.O. 4 DE SEPTIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de la publicación de su Declaratoria respectiva en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 446.- SE REFORMA .LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto iniciara su vigencia al día siguiente de la publicación de su Declaratoria respectiva en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 447.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 471.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Fiscal General del Estado de Aguascalientes que hubiese sido nombrado por un término menor y se encuentre en funciones, durará en su encargo el tiempo que señala el artículo 59 de la Constitución Política del Estado de Aguascalientes.
