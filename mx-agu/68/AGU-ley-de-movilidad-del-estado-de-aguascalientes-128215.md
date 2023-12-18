@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2023-11-27"
+last_updated: "2023-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -271,7 +271,9 @@ XCI. Plataforma tecnológica: Aplicación informática mediante la cual se contr
 
 XCII. Proximidad: Circunstancias que permiten a las personas usuarias desplazarse con facilidad a sus destinos;
 
-XCIII. Revista vehicular: Es la inspección física de los vehículos, equipamiento auxiliar o infraestructura de los servicios de transporte público y privado, a fin de comprobar el cumplimiento de las disposiciones en materia de instalaciones, equipo, aditamentos, sistemas y en general, de las condiciones de operación y especificaciones técnicas para la óptima prestación del servicio;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+XCIII. Revista vehicular: Es la inspección física-mecánica de los vehículos y equipamiento auxiliar destinados a la prestación de los servicios de transporte público, privado y de personas contratado a través de plataformas tecnológicas administrado por empresas de redes de transporte, a fin de comprobar el cumplimiento de las disposiciones en materia de instalaciones, equipo, aditamentos, sistemas y en general, de las condiciones de operación y especificaciones técnicas para la óptima prestación del servicio;
 
 XCIV. Ruta: Recorrido autorizado para la prestación del servicio de transporte público;
 
@@ -3441,17 +3443,19 @@ Cuando la autoridad instructora encuentre que el escrito o documentos presentan 
 
 En caso de concurrencia de dos o más personas físicas o morales para obtener la concesión, el otorgamiento se hará a quien garantice un mejor servicio, en razón de las condiciones de seguridad, experiencia, higiene y comodidad de los vehículos, mejor equipo e instalaciones, así como de la eficiencia y buen trato del personal con los usuarios.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 179.
 
-El otorgamiento de la concesión estará sujeto a las necesidades de planeación de la vialidad y de transporte en el Estado, de acuerdo con los estudios, que al efecto lleve a cabo la CMOV.
+El otorgamiento de la concesión estará sujeto a la demanda del servicio, la planeación de la vialidad y de transporte en el Estado, de acuerdo con los estudios que al efecto lleve a cabo la CMOV; así como al cumplimiento de los requisitos que dispone esta Ley, su Reglamento y la Convocatoria respectiva, en su caso
 
-Una vez realizados los estudios de la solicitud y reunidos los requisitos a que se refiere el presente Capítulo, la CMOV emitirá un dictamen acerca de su procedencia y lo presentará a la SEGGOB, quien podrá otorgar la concesión. En caso de ser otorgada, el concesionario deberá de pagar los derechos que por tal concepto determine la Ley de Ingresos del Estado.
+Una vez realizados los estudios de la solicitud y reunidos los requisitos a que se refiere el presente Capítulo, la CMOV emitirá un dictamen acerca de su procedencia y lo presentará a la SEGGOB, quien podrá otorgar la concesión. En caso de ser otorgada, el concesionario deberá de pagar los derechos que por tal concepto determine la Ley de Ingresos del Estado de Aguascalientes para el Ejercicio Fiscal del Año correspondiente.
 
-Cuando de acuerdo con el dictamen no es procedente otorgar la concesión, se reservará la solicitud para que, con preferencia en el orden en que hubiera quedado pendiente, la CMOV someterá el otorgamiento de la concesión a consideración de la SEGGOB.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 180.
 
-En el otorgamiento de concesiones para operar el servicio de taxi, se procurará que los títulos entregados, de acuerdo con los porcentajes que determine la convocatoria, sean destinados preferentemente a los operadores de este sector, de acuerdo con los siguientes criterios:
+En el otorgamiento de concesiones ordinarias para operar el servicio en la modalidad de transporte urbano y foráneo en taxis, se procurará que los títulos entregados, de acuerdo con los porcentajes que determine la convocatoria, sean destinados preferentemente a los operadores de este sector, conforme a los siguientes criterios:
 
 I. Se tomará en cuenta la antigüedad del solicitante en la prestación del servicio, debidamente acreditada ante la autoridad competente;
 
@@ -3461,7 +3465,9 @@ III. Comprobar que no ha sido sancionado por infracciones graves y reiteradas co
 
 IV. El solicitante deberá manifestar por escrito su compromiso para capacitarse y actualizarse en forma permanente a través de los cursos que promueva la autoridad; y
 
-En caso de que dos o más solicitantes para obtener una concesión se encuentren en igualdad de condiciones en el cumplimiento de los requisitos señalados, la prioridad se determinará de acuerdo con el principio a que se refiere el Artículo anterior.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+En caso de que dos o más solicitantes para obtener una concesión se encuentren en igualdad de condiciones en el cumplimiento de los requisitos señalados, la prioridad se determinará de acuerdo con el principio a que se refiere el Artículo 178 de esta Ley.
 
 ###### ARTÍCULO 181.
 
@@ -3473,7 +3479,9 @@ La concesión que se otorgue tendrá vigencia de cinco años a partir de su expe
 
 De acuerdo con la modalidad del servicio los permisos a que se refiere el Artículo 172, tendrán la vigencia que se señale en el Reglamento de esta Ley.
 
-Anualmente se pagarán los derechos correspondientes por el uso de la concesión en la cantidad que determine la Ley de Ingresos del Estado.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+Anualmente se pagarán los derechos correspondientes por el uso de la concesión en la cantidad que determine la Ley de Ingresos del Estado de Aguascalientes para el Ejercicio Fiscal del Año correspondiente.
 
 ###### ARTÍCULO 183.
 
@@ -6028,3 +6036,9 @@ El presente Decreto iniciara su vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Ejecutivo, a través de la Secretaría de Seguridad Pública, contará con el plazo de 180 días, a partir de la entrada en vigor del presente Decreto, para la implementación del Registro Estatal, en los términos establecidos en el mismo.
+
+P.O. 18 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 512.- SE REFORMA LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES".]
+
+ARTICULO PRIMERO (SIC).- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
