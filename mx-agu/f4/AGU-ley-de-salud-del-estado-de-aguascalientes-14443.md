@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2023-11-06"
+last_updated: "2023-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -1407,7 +1407,7 @@ ARTICULO 83 DECIES.- (DEROGADO, P.O. 27 DE OCTUBRE DE 2023)
 
 ARTICULO 83 UNDECIES.- (DEROGADO, P.O. 27 DE OCTUBRE DE 2023)
 
-> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2015)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 79.
 
@@ -1665,6 +1665,20 @@ En este caso, deberá procurarse que la gestión de la salud mental sea una a (s
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE OCTUBRE DE 2023)</small>
 
+### CAPITULO I (SIC). La consulta Médica
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 83 DUODECIES.- Toda consulta médica del sector público o privado en la que el profesional de la salud requiera realizar una exploración física a su paciente, deberá ser en presencia de un testigo mayor de edad, con plena capacidad de ejercicio, a menos de que él o la paciente exprese su voluntad de manera verbal o escrita de no requerirlo.
+
+Cuando el paciente sea una niña, niño o adolescente, deberá estar acompañado de alguno de sus padres, tutores o un miembro de su familia extensa.
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2015)</small>
+
+## TITULO QUINTO BIS (SIC)
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
 ### CAPITULO I
 
 ## TITULO QUINTO BIS
@@ -1672,10 +1686,6 @@ En este caso, deberá procurarse que la gestión de la salud mental sea una a (s
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2015)</small>
 
 ### CAPITULO II
-
-## TITULO SEXTO. RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD
-
-### CAPITULO I. Profesionales, Técnicos y Auxiliares
 
 ###### ARTICULO 83 Bis 1.
 
@@ -1695,7 +1705,7 @@ En este caso, deberá procurarse que la gestión de la salud mental sea una a (s
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2015)</small>
 
-### CAPITULO II. Servicio Social de Pasantes y Profesionales
+### CAPITULO I. Profesionales, Técnicos y Auxiliares
 
 ###### ARTICULO 83 Bis 5.
 
@@ -1733,11 +1743,9 @@ En este caso, deberá procurarse que la gestión de la salud mental sea una a (s
 
 (DEROGADO, P.O. 22 DE OCTUBRE DE 2015)
 
-## TITULO SEPTIMO. INVESTIGACION PARA LA SALUD
+## TITULO SEXTO. RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD
 
-### CAPITULO III. Formación, Capacitación y Actualización del Personal
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+### CAPITULO II. Servicio Social de Pasantes y Profesionales
 
 ###### ARTICULO 84.
 
@@ -1779,7 +1787,9 @@ Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las espe
 
 Asimismo se deberá atender a lo establecido en la Ley General de Salud, al Reglamento de la Ley General de Salud en Materia de Prestación de Servicios de Atención Médica y demás disposiciones legales aplicables.
 
-### CAPITULO UNICO
+### CAPITULO III. Formación, Capacitación y Actualización del Personal
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 88.
 
@@ -1805,53 +1815,7 @@ Para los efectos del párrafo anterior, el Gobierno del Estado, en coordinación
 
 El Gobierno del Estado, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad del Estado de Aguascalientes, de conformidad con las disposiciones legales del Estado aplicables al ejercicio profesional.
 
-### CAPÍTULO ÚNICO
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
-
-ARTICULO 104 A.- La Secretaria contará con la Comisión Estatal de Bioética, como órgano técnico con carácter consultivo en la materia, que tiene por objeto promover la creación de una cultura bioética en el Estado, fomentando a través de sus facultades una actitud de reflexión, deliberación y discusión multidisciplinaria y multisectorial de los temas vinculados con la salud humana, y desarrollar normas éticas para la atención, la investigación y la docencia.
-
-Dicho órgano asumirá la coordinación de los distintos Comités Hospitalarios de Bioética, de Ética en la Investigación y de Bioseguridad que para el efecto sean creados.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
-
-ARTICULO 104 B.- Las acciones de atención, así como la investigación y la docencia de la salud deben ser desplegadas en un marco científico y humanista, con pleno respeto a la dignidad de la persona y a su autonomía, en un ámbito de equidad y justicia distributiva.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
-
-ARTICULO 104 C.- El personal de atención a la salud debe atender con profesionalismo y entrega a todas las personas que demanden sus servicios sin distinción de edad, sexo, nacionalidad, religión, ideología política, posición socio-económica, padecimientos, sin permitir cualquier forma de discriminación, ni escatimar el tiempo que se requiera, o el espacio necesario para ello.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
-
-ARTICULO 104 D.- Todas las investigaciones científicas que se realicen sobre seres vivos deberán apegarse estrictamente a lo postulado en la legislación sanitaria, en los tratados internacionales y demás ordenamientos aplicables sobre la materia.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
-
-ARTICULO 104 E.- los centros para la atención de la salud del sector público, social o privado del Sistema Estatal de Salud, de acuerdo con su grado de complejidad y nivel de resolución, bajo la responsabilidad de los directores o titulares respectivos y de conformidad con las disposiciones aplicables, contarán con los siguientes comités:
-
-I. Un Comité Hospitalario de Bioética, para:
-
-a. La resolución de los problemas derivados de la prestación de los servicios de salud a que se refiere el Título Quinto de esta ley;
-
-b. El análisis, discusión y apoyo en la toma de decisiones respecto a los problemas bioéticos que se presenten en la práctica clínica o en la docencia que se imparta en el área de salud;
-
-c. Promover la elaboración de lineamientos y guías éticas institucionales para la atención y la docencia en salud; y
-
-d. Promover la educación bioética permanente de sus miembros y del personal a su cargo.
-
-II. Un Comité de Ética en Investigación, en los casos de instituciones prestadoras de servicios de salud que lleven a cabo actividades de investigación en seres vivos, para:
-
-a. Evaluar y dictaminar los protocolos de investigación en seres vivos, formulando las recomendaciones de carácter ético que correspondan; y
-
-b. Elaborar lineamientos y guías institucionales para la investigación en salud y sus repercusiones en el medio ambiente, debiendo dar seguimiento a sus recomendaciones.
-
-III. En su caso un Comité de Bioseguridad encargado de determinar y normar al interior del centro, cuando en éste sean utilizados métodos, técnicas y materiales que impliquen riesgo para la salud de usuarios y operadores.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
-
-ARTICULO 104 F.- Los Comités Hospitalarios de Bioética, de Ética en la Investigación y de Bioseguridad se sujetarán a la legislación y reglamentos de la materia, así como a la coordinación y a los criterios que establezca la Comisión Estatal de Bioética.
-
-Dichos comités serán interdisciplinarios y deberán estar integrados por el personal de atención de la salud y por profesionales de otras disciplinas que cuenten-con capacitación o conocimientos en bioética, siendo imprescindible contar con representantes del núcleo afectado o de personas usuarias de los servicios de salud, hasta el número convenido de sus miembros, quienes podrán estar adscritos o no a la unidad de salud o institución.
+### CAPITULO UNICO
 
 ###### ARTICULO 93.
 
@@ -1901,13 +1865,55 @@ Los aspectos docentes del internado de pregrado y de las residencias de especial
 
 La operación de los programas correspondientes en los establecimientos de salud, se llevará a cabo de acuerdo a los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen las autoridades sanitarias competentes.
 
-## TÍTULO SÉPTIMO BIS. LOS PRINCIPIOS BIOÉTICOS EN LA ATENCIÓN, INVESTIGACIÓN y DOCENCIA DE LA SALUD
+## TITULO SEPTIMO. INVESTIGACION PARA LA SALUD
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2012)</small>
+### CAPÍTULO ÚNICO
 
-### CAPITULO UNICO
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2023)</small>
+ARTICULO 104 A.- La Secretaria contará con la Comisión Estatal de Bioética, como órgano técnico con carácter consultivo en la materia, que tiene por objeto promover la creación de una cultura bioética en el Estado, fomentando a través de sus facultades una actitud de reflexión, deliberación y discusión multidisciplinaria y multisectorial de los temas vinculados con la salud humana, y desarrollar normas éticas para la atención, la investigación y la docencia.
+
+Dicho órgano asumirá la coordinación de los distintos Comités Hospitalarios de Bioética, de Ética en la Investigación y de Bioseguridad que para el efecto sean creados.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 104 B.- Las acciones de atención, así como la investigación y la docencia de la salud deben ser desplegadas en un marco científico y humanista, con pleno respeto a la dignidad de la persona y a su autonomía, en un ámbito de equidad y justicia distributiva.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 104 C.- El personal de atención a la salud debe atender con profesionalismo y entrega a todas las personas que demanden sus servicios sin distinción de edad, sexo, nacionalidad, religión, ideología política, posición socio-económica, padecimientos, sin permitir cualquier forma de discriminación, ni escatimar el tiempo que se requiera, o el espacio necesario para ello.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 104 D.- Todas las investigaciones científicas que se realicen sobre seres vivos deberán apegarse estrictamente a lo postulado en la legislación sanitaria, en los tratados internacionales y demás ordenamientos aplicables sobre la materia.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 104 E.- los centros para la atención de la salud del sector público, social o privado del Sistema Estatal de Salud, de acuerdo con su grado de complejidad y nivel de resolución, bajo la responsabilidad de los directores o titulares respectivos y de conformidad con las disposiciones aplicables, contarán con los siguientes comités:
+
+I. Un Comité Hospitalario de Bioética, para:
+
+a. La resolución de los problemas derivados de la prestación de los servicios de salud a que se refiere el Título Quinto de esta ley;
+
+b. El análisis, discusión y apoyo en la toma de decisiones respecto a los problemas bioéticos que se presenten en la práctica clínica o en la docencia que se imparta en el área de salud;
+
+c. Promover la elaboración de lineamientos y guías éticas institucionales para la atención y la docencia en salud; y
+
+d. Promover la educación bioética permanente de sus miembros y del personal a su cargo.
+
+II. Un Comité de Ética en Investigación, en los casos de instituciones prestadoras de servicios de salud que lleven a cabo actividades de investigación en seres vivos, para:
+
+a. Evaluar y dictaminar los protocolos de investigación en seres vivos, formulando las recomendaciones de carácter ético que correspondan; y
+
+b. Elaborar lineamientos y guías institucionales para la investigación en salud y sus repercusiones en el medio ambiente, debiendo dar seguimiento a sus recomendaciones.
+
+III. En su caso un Comité de Bioseguridad encargado de determinar y normar al interior del centro, cuando en éste sean utilizados métodos, técnicas y materiales que impliquen riesgo para la salud de usuarios y operadores.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 104 F.- Los Comités Hospitalarios de Bioética, de Ética en la Investigación y de Bioseguridad se sujetarán a la legislación y reglamentos de la materia, así como a la coordinación y a los criterios que establezca la Comisión Estatal de Bioética.
+
+Dichos comités serán interdisciplinarios y deberán estar integrados por el personal de atención de la salud y por profesionales de otras disciplinas que cuenten-con capacitación o conocimientos en bioética, siendo imprescindible contar con representantes del núcleo afectado o de personas usuarias de los servicios de salud, hasta el número convenido de sus miembros, quienes podrán estar adscritos o no a la unidad de salud o institución.
 
 ###### ARTICULO 98.
 
@@ -1981,13 +1987,17 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
+## TÍTULO SÉPTIMO BIS. LOS PRINCIPIOS BIOÉTICOS EN LA ATENCIÓN, INVESTIGACIÓN y DOCENCIA DE LA SALUD
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2023)</small>
+
 ## TITULO OCTAVO. INFORMACIÓN PARA LA SALUD
 
 ### CAPITULO I. Disposiciones Comunes
-
-## TITULO NOVENO. PROMOCION DE LA SALUD
-
-### CAPITULO II. Educación para la Salud
 
 ###### ARTICULO 105.
 
@@ -2007,11 +2017,9 @@ III.- Recursos materiales, humanos y financieros disponibles para la protección
 
 Los establecimientos que presten servicios de salud, los profesionales, técnicos y auxiliares de la salud del Estado, llevarán a cabo estadísticas que en materia de salud les señalen las autoridades sanitarias locales y proporcionarán a éstas y a las autoridades federales competentes, la información correspondiente, sin perjuicio de las obligaciones de suministrar la información que señalen otras disposiciones legales aplicables.
 
-## TITULO DECIMO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
+## TITULO NOVENO. PROMOCION DE LA SALUD
 
-### CAPITULO III. Nutrición
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2010)</small>
+### CAPITULO II. Educación para la Salud
 
 ###### ARTICULO 107.
 
@@ -2031,7 +2039,9 @@ IV.- Salud ocupacional; y
 
 V.- Fomento sanitario.
 
-### CAPITULO IV. Efectos del Ambiente en la Salud
+### CAPITULO III. Nutrición
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 109.
 
@@ -2049,7 +2059,7 @@ III.- Orientar y capacitar a la población preferentemente en materia de nutrici
 
 Las autoridades sanitarias estatales y municipales en coordinación con las autoridades federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, los cuales podrán ser difundidos en los medios masivos de comunicación que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población.
 
-### CAPITULO V. Salud Ocupacional
+### CAPITULO IV. Efectos del Ambiente en la Salud
 
 ###### ARTICULO 111.
 
@@ -2071,31 +2081,7 @@ Además, el Consejo Estatal de Nutrición creará un listado de alimentos que de
 
 En los programas a que se refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos de producción regional, y procurará, al efecto, la participación de las organizaciones campesinas, ganaderas, cooperativas y otras organizaciones sociales cuyas actividades se relacionen con la producción de alimentos.
 
-### CAPITULO VI. De la Donación de Órganos
-
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2022)</small>
-
-ARTICULO 119 BIS.- Todo lo relacionado con la disposición de órganos, tejidos y células de seres humanos con fines terapéuticos se regirá conforme con lo establecido en la Ley General, sus disposiciones reglamentarias y las normas oficiales mexicanas en la materia, así como en los lineamientos que emita la autoridad sanitaria y demás instrumentos jurídicos aplicables.
-
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2022)</small>
-
-ARTICULO 119 TER.- Toda persona es disponente de su cuerpo y podrá donarlo, total o parcialmente, para los fines y con los requisitos previstos en la Ley General y sus disposiciones reglamentarias. En todo momento deberá respetarse la decisión del donante. Las autoridades garantizarán el cumplimiento de esta voluntad.
-
-La donación se realizará mediante consentimiento expreso y consentimiento tácito. La donación por consentimiento expreso deberá constar por escrito y podrá ser amplia cuando se refiera a la disposición total del cuerpo o limitada cuando sólo se otorgue respecto de determinados componentes.
-
-El consentimiento tácito sólo aplicará para la donación de órganos, tejidos y células una vez que se confirme la pérdida de la vida del donante y sólo podrán extraerse estos cuando se requieran para fines de trasplantes. Habrá consentimiento tácito del donante cuando no haya manifestado su negativa a que su cuerpo o componentes sean utilizados para trasplantes, siempre y cuando se obtenga también el consentimiento de cualquiera de las siguientes personas: el o la cónyuge, la concubina, el concubinario, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante, aplicando ese orden de prelación, en caso de que se encontrara una o más personas presentes de las señaladas.
-
-El escrito por el que la persona exprese no ser donador podrá ser privado o público y deberá estar firmado por éste; o bien, la negativa expresa podrá constar en alguno de los documentos públicos que para este propósito determine la Secretaría en coordinación con las autoridades competentes.
-
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2022)</small>
-
-ARTICULO 119 QUATER.- Está prohibido el comercio de órganos, tejidos y células de seres humanos. La donación de los mismos con fines de trasplantes se regirá por principios de altruismo, ausencia de ánimo de lucro y confidencialidad; por lo que su obtención y utilización serán estrictamente a título gratuito. Se considerará disposición ilícita de órganos, tejidos y células de seres humanos toda aquella que se efectúe sin estar autorizada por la Ley General, sus disposiciones reglamentarias y demás aplicables en la materia.
-
-Sólo en caso de que la pérdida de la vida del donante esté relacionada con la investigación de un hecho que la ley señale como delito, o se desconozca su identidad o forma de localizar a sus parientes, se dará intervención al Ministerio Público y a la autoridad judicial para la extracción de órganos, tejidos y células, de conformidad a las disposiciones legales aplicables.
-
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2022)</small>
-
-ARTICULO 119 QUINQUIES.- La cultura de donación de órganos, tejidos y células son de interés público. El Gobierno implementará programas permanentes destinados a fomentar la donación de órganos, tejidos y células, en coordinación con el Centro Nacional de Trasplantes. La Secretaría promoverá con las Dependencias, Órganos Desconcentrados y Entidades que integran la Administración Pública del Estado de Aguascalientes, los poderes legislativo y judicial, así como los órganos autónomos, en el ámbito de sus respectivas competencias, mecanismos para impulsar el fomento a la cultura de la donación al momento de la realización de trámites públicos o la obtención de documentos oficiales.
+### CAPITULO V. Salud Ocupacional
 
 ###### ARTICULO 113.
 
@@ -2139,9 +2125,31 @@ Queda prohibida la descarga de aguas residuales sin el tratamiento para satisfac
 
 El Organismo, en coordinación con las autoridades federales y municipales competentes y con la autoridad estatal encargada de la administración del distrito de riego, orientará a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por plaguicidas, substancias tóxicas y desperdicios o basura.
 
-### CAPITULO I. Disposiciones Comunes
+### CAPITULO VI. De la Donación de Órganos
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2023)</small>
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2022)</small>
+
+ARTICULO 119 BIS.- Todo lo relacionado con la disposición de órganos, tejidos y células de seres humanos con fines terapéuticos se regirá conforme con lo establecido en la Ley General, sus disposiciones reglamentarias y las normas oficiales mexicanas en la materia, así como en los lineamientos que emita la autoridad sanitaria y demás instrumentos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2022)</small>
+
+ARTICULO 119 TER.- Toda persona es disponente de su cuerpo y podrá donarlo, total o parcialmente, para los fines y con los requisitos previstos en la Ley General y sus disposiciones reglamentarias. En todo momento deberá respetarse la decisión del donante. Las autoridades garantizarán el cumplimiento de esta voluntad.
+
+La donación se realizará mediante consentimiento expreso y consentimiento tácito. La donación por consentimiento expreso deberá constar por escrito y podrá ser amplia cuando se refiera a la disposición total del cuerpo o limitada cuando sólo se otorgue respecto de determinados componentes.
+
+El consentimiento tácito sólo aplicará para la donación de órganos, tejidos y células una vez que se confirme la pérdida de la vida del donante y sólo podrán extraerse estos cuando se requieran para fines de trasplantes. Habrá consentimiento tácito del donante cuando no haya manifestado su negativa a que su cuerpo o componentes sean utilizados para trasplantes, siempre y cuando se obtenga también el consentimiento de cualquiera de las siguientes personas: el o la cónyuge, la concubina, el concubinario, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante, aplicando ese orden de prelación, en caso de que se encontrara una o más personas presentes de las señaladas.
+
+El escrito por el que la persona exprese no ser donador podrá ser privado o público y deberá estar firmado por éste; o bien, la negativa expresa podrá constar en alguno de los documentos públicos que para este propósito determine la Secretaría en coordinación con las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2022)</small>
+
+ARTICULO 119 QUATER.- Está prohibido el comercio de órganos, tejidos y células de seres humanos. La donación de los mismos con fines de trasplantes se regirá por principios de altruismo, ausencia de ánimo de lucro y confidencialidad; por lo que su obtención y utilización serán estrictamente a título gratuito. Se considerará disposición ilícita de órganos, tejidos y células de seres humanos toda aquella que se efectúe sin estar autorizada por la Ley General, sus disposiciones reglamentarias y demás aplicables en la materia.
+
+Sólo en caso de que la pérdida de la vida del donante esté relacionada con la investigación de un hecho que la ley señale como delito, o se desconozca su identidad o forma de localizar a sus parientes, se dará intervención al Ministerio Público y a la autoridad judicial para la extracción de órganos, tejidos y células, de conformidad a las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2022)</small>
+
+ARTICULO 119 QUINQUIES.- La cultura de donación de órganos, tejidos y células son de interés público. El Gobierno implementará programas permanentes destinados a fomentar la donación de órganos, tejidos y células, en coordinación con el Centro Nacional de Trasplantes. La Secretaría promoverá con las Dependencias, Órganos Desconcentrados y Entidades que integran la Administración Pública del Estado de Aguascalientes, los poderes legislativo y judicial, así como los órganos autónomos, en el ámbito de sus respectivas competencias, mecanismos para impulsar el fomento a la cultura de la donación al momento de la realización de trámites públicos o la obtención de documentos oficiales.
 
 ###### ARTICULO 118.
 
@@ -2155,13 +2163,13 @@ El Gobierno del Estado, en coordinación con las dependencias y entidades munici
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2022)</small>
 
+### CAPITULO I. Disposiciones Comunes
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2023)</small>
+
+## TITULO DECIMO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
+
 ### CAPITULO II. Enfermedades Transmisibles
-
-## TITULO DECIMO BIS. DE LOS CUIDADOS PALIATIVOS A LOS ENFERMOS EN ETAPA TERMINAL
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JULIO DE 2009)</small>
-
-### CAPITULO III. Enfermedades no Transmisibles
 
 ###### ARTICULO 120.
 
@@ -2169,7 +2177,7 @@ Corresponde al Organismo en coordinación con las autoridades internacionales, f
 
 Corresponde al Instituto, en coordinación con las autoridades e instituciones de salud públicas o privadas, en el orden internacional, federal, estatal o municipal, respetando el ámbito de sus respectivas competencias, realizar actividades de investigación, prevención, consejería, detección, diagnóstico, tratamiento, control, seguimiento, evaluación y vigilancia de la enfermedad renal.
 
-### CAPITULO IV. Accidentes
+### CAPITULO III. Enfermedades no Transmisibles
 
 ###### ARTICULO 121.
 
@@ -2283,9 +2291,7 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las autoridades sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinfestación u otras medidas de saneamiento de lugares, edificios, vehículos u objetos.
 
-### CAPITULO UNICO
-
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+### CAPITULO IV. Accidentes
 
 ###### ARTICULO 135.
 
@@ -2309,7 +2315,9 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO I. De la Asistencia Social
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 138.
 
@@ -2335,9 +2343,11 @@ Para la mayor eficacia de las acciones a las que se refiere este artículo, se c
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JULIO DE 2009)</small>
 
-## TITULO DECIMO PRIMERO. ASISTENCIA SOCIAL, PREVENCION DE DISCAPACIDAD Y REHABILITACION DE PERSONAS CON DISCAPACIDAD
+## TITULO DECIMO BIS. DE LOS CUIDADOS PALIATIVOS A LOS ENFERMOS EN ETAPA TERMINAL
 
-### CAPITULO II. De la Discapacidad
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JULIO DE 2009)</small>
+
+### CAPITULO I. De la Asistencia Social
 
 ###### ARTICULO 139 Bis.
 
@@ -2479,11 +2489,9 @@ ARTICULO 139 Terdecies.- Queda prohibida, la práctica de la eutanasia, entendid
 
 En tal caso se estará a lo que señalan las disposiciones penales aplicables.
 
-## TITULO SEGUNDO (SIC)
+## TITULO DECIMO PRIMERO. ASISTENCIA SOCIAL, PREVENCION DE DISCAPACIDAD Y REHABILITACION DE PERSONAS CON DISCAPACIDAD
 
-### CAPITULO I. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+### CAPITULO II. De la Discapacidad
 
 ###### ARTICULO 140.
 
@@ -2563,7 +2571,9 @@ Las autoridades sanitarias del Estado y las educativas, en el ámbito de sus res
 
 El patrimonio de la beneficencia pública será administrado por el organismo creado para ello, correspondiéndole entre otras atribuciones, representar los intereses del patrimonio de la beneficencia pública y distribuir los recursos que a la misma se le destinen.
 
-### CAPITULO II. Programa Contra el Tabaquismo
+### CAPITULO I. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 153.
 
@@ -2607,17 +2617,9 @@ El Organismo y el Instituto en coordinación con otras instituciones públicas, 
 
 > <small>(DEROGADO, P.O. 7 DE AGOSTO DE 2023)</small>
 
-## TITULO DECIMO TERCERO. SALUBRIDAD LOCAL
+## TITULO SEGUNDO (SIC)
 
-### CAPITULO III. Programa contra la Farmacodependencia y Consumo de Estupefacientes y Psicotrópicos
-
-ARTICULO 161 A.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
-
-ARTICULO 161 B.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
-
-ARTICULO 161 C.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2021)</small>
+### CAPITULO II. Programa Contra el Tabaquismo
 
 ###### ARTICULO 158.
 
@@ -2641,13 +2643,15 @@ III.- Hábitos de consumo de alcohol en los diferentes grupos de población; y
 
 IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
-### CAPITULO IV. Disposiciones Comunes
+### CAPITULO III. Programa contra la Farmacodependencia y Consumo de Estupefacientes y Psicotrópicos
 
-ARTICULO 161 D.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
+ARTICULO 161 A.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
 
-ARTICULO 161 E.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
+ARTICULO 161 B.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
 
-ARTICULO 161 F.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
+ARTICULO 161 C.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 160.
 
@@ -2675,13 +2679,19 @@ IV. El tratamiento del tabaquismo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE MARZO DE 2012)</small>
 
+### CAPITULO IV. Disposiciones Comunes
+
+ARTICULO 161 D.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
+
+ARTICULO 161 E.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
+
+ARTICULO 161 F.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
+
 ### CAPITULO I. Disposiciones Comunes
 
+## TITULO DECIMO TERCERO. SALUBRIDAD LOCAL
+
 ### CAPITULO II. Mercados y Centros de Abasto
-
-## TITULO DECIMO CUARTO. AUTORIZACIONES Y CERTIFICADOS
-
-### CAPITULO III. De las Construcciones
 
 ###### ARTICULO 162.
 
@@ -2733,7 +2743,7 @@ VI.- Número de cédula profesional, en su caso, del responsable sanitario.
 
 Todo cambio de propietario de un establecimiento, de razón social o denominación, de domicilio, cesión de derechos de productos, la fabricación de nuevas líneas de productos o, en su caso, la suspensión de actividades, trabajos o servicios, deberá ser comunicado a la autoridad sanitaria competente en un plazo no mayor de treinta días hábiles a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de las disposiciones que al efecto se emitan.
 
-### CAPITULO IV. Servicios Funerarios
+### CAPITULO III. De las Construcciones
 
 ###### ARTICULO 169.
 
@@ -2751,7 +2761,7 @@ Los vendedores, locatarios y personas que su actividad esté vinculada con los m
 
 Los establecimientos ubicados dentro de los mercados o centros de abasto, catalogados como de salubridad general, serán verificados por la autoridad sanitaria competente.
 
-### CAPITULO V. Limpieza Pública
+### CAPITULO IV. Servicios Funerarios
 
 ###### ARTICULO 172.
 
@@ -2787,7 +2797,7 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes, podrán ordenar la ejecución de las obras que estime de urgencia con cargo a sus propietarios, encargados o poseedores, o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPITULO VI. Agua Potable y Alcantarillado
+### CAPITULO V. Limpieza Pública
 
 ###### ARTICULO 180.
 
@@ -2811,9 +2821,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a reforesta
 
 La aprobación de las solicitudes de refrigeración, exhumación y cremación de cadáveres deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad sanitaria competente y las Normas Oficiales Mexicanas que dicte la Secretaría de Salud.
 
-### CAPITULO VII. Prostitución
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+### CAPITULO VI. Agua Potable y Alcantarillado
 
 ###### ARTICULO 184.
 
@@ -2851,7 +2859,9 @@ Las autoridades municipales fijarán lugares especiales para depositar la basura
 
 El Gobierno del Estado y los Municipios, en el ámbito de sus respectivas competencias, proveerán de depósitos de basura en los parques, jardines, paseos públicos y en otros lugares de la vía pública, además de ordenar el mantenimiento y la fumigación periódica en los mismos; asimismo, fijará lugares especiales para depositar la basura, tomando en cuenta lo que sobre el particular disponga la legislación aplicable en materia de contaminación ambiental.
 
-### CAPITULO VIII. Reclusorios o Centros de Readaptación Social
+### CAPITULO VII. Prostitución
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 189.
 
@@ -2897,7 +2907,7 @@ Queda prohibido que los desechos o líquidos que conduzcan los caños sean verti
 
 Las personas que intervengan en el abastecimiento de agua no podrán suprimir la dotación de servicio de agua potable y avenamiento de los edificios habitados, excepto en los casos que determinen las disposiciones generales aplicables.
 
-### CAPITULO IX. Baños Públicos
+### CAPITULO VIII. Reclusorios o Centros de Readaptación Social
 
 ###### ARTICULO 199.
 
@@ -2923,7 +2933,7 @@ Queda prohibido el acceso de menores de edad al interior de los establecimientos
 
 La Autoridad Municipal en coordinación con el Organismo, determinarán los lugares en donde se permitirá el ejercicio de la prostitución, de conformidad con las disposiciones legales y reglamentarias aplicables.
 
-### CAPITULO X. Centros de Reunión y Espectáculos
+### CAPITULO IX. Baños Públicos
 
 ###### ARTICULO 205.
 
@@ -2943,9 +2953,7 @@ Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el t
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social, deberán a partir de que tengan conocimiento de alguna enfermedad transmisible, adoptar las medidas de seguridad sanitaria que procedan, para evitar la propagación de la misma, así como observar lo dispuesto por el Artículo 122 de esta Ley.
 
-### CAPITULO XI. Establecimientos Dedicados a la Prestación de Servicios como Peluquerías y Salones de Belleza
-
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+### CAPITULO X. Centros de Reunión y Espectáculos
 
 ###### ARTICULO 209.
 
@@ -2955,7 +2963,9 @@ Para los efectos de esta Ley, se entiende por baño público el establecimiento 
 
 El agua que se utilice en los baños públicos deberá ser potable y cumplir con la normatividad que establezca la Secretaría de Salud y las Normas Oficiales Mexicanas correspondientes.
 
-### CAPITULO XII. Tintorerías, Lavanderías y Planchadurías
+### CAPITULO XI. Establecimientos Dedicados a la Prestación de Servicios como Peluquerías y Salones de Belleza
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 211.
 
@@ -2967,7 +2977,7 @@ El funcionamiento de los establecimientos a que se refiere el artículo anterior
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE ENERO DE 2016)</small>
 
-### CAPITULO XIII. Establecimientos para el Hospedaje
+### CAPITULO XII. Tintorerías, Lavanderías y Planchadurías
 
 ###### ARTICULO 213.
 
@@ -2977,7 +2987,7 @@ Para los efectos de esta Ley, se entiende por peluquerías y salones de belleza,
 
 El funcionamiento y personal de los establecimientos señalados en el artículo anterior, deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y las normas técnicas locales correspondientes.
 
-### CAPITULO XIV. Establecimientos para el Almacenamiento y Distribución de Combustibles
+### CAPITULO XIII. Establecimientos para el Hospedaje
 
 ###### ARTICULO 215.
 
@@ -2993,7 +3003,7 @@ III.- Planchaduría: El establecimiento dedicado al planchado de ropa, independi
 
 Los establecimientos señalados en el artículo anterior que utilicen sustancias tóxicas o peligrosas para la salud, estarán sujetos además, a las disposiciones emitidas por la Secretaría de Salud en la materia.
 
-### CAPITULO XV. Transporte Estatal y Municipal
+### CAPITULO XIV. Establecimientos para el Almacenamiento y Distribución de Combustibles
 
 ###### ARTICULO 217.
 
@@ -3003,7 +3013,7 @@ Para los efectos de esta Ley, se entiende por establecimiento para el hospedaje,
 
 Para la construcción o acondicionamiento de un inmueble que se pretenda destinar al servicio de hospedaje, así como su funcionamiento, se requiere dar el aviso de funcionamiento en los términos del Artículo 167 de esta Ley.
 
-### CAPITULO XVI. Prevención y Control de la Rabia en Animales
+### CAPITULO XV. Transporte Estatal y Municipal
 
 ###### ARTICULO 219.
 
@@ -3013,15 +3023,13 @@ Para los efectos de esta Ley, se entiende por establecimientos destinados al alm
 
 Los establecimientos para el almacenamiento y distribución de combustibles deberán contar con las instalaciones sanitarias y de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas técnicas locales correspondientes.
 
-### CAPITULO XVII. De la Medicina Alternativa
+### CAPITULO XVI. Prevención y Control de la Rabia en Animales
 
 ###### ARTICULO 221.
 
 Para los efectos de esta Ley, se entiende por transporte todo aquel vehículo destinado al traslado de carga o de pasajeros sin importar su modo de propulsión, y que por sus características, puedan repercutir en la salud de la población, por lo que serán objeto de verificaciones periódicas por parte de la autoridad sanitaria, conforme a las disposiciones legales aplicables.
 
-### CAPITULO XVIII. Del Ejercicio Especializado de la Cirugía Plástica
-
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2016)</small>
+### CAPITULO XVII. De la Medicina Alternativa
 
 ###### ARTICULO 222.
 
@@ -3055,9 +3063,9 @@ Los propietarios de los animales a que se refiere el artículo anterior estarán
 
 Las autoridades sanitarias mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos, susceptibles de contraer la rabia.
 
-### CAPITULO I. Autorizaciones
+### CAPITULO XVIII. Del Ejercicio Especializado de la Cirugía Plástica
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 226.
 
@@ -3065,7 +3073,7 @@ Para los efectos de esta ley se entiende por medicina alternativa: homeopatía, 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE AGOSTO DE 2016)</small>
 
-### CAPITULO II. Revocación de Autorizaciones Sanitarias
+### CAPITULO I. Autorizaciones
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
@@ -3073,9 +3081,11 @@ Para los efectos de esta ley se entiende por medicina alternativa: homeopatía, 
 
 La realización de cualquier procedimiento médico o de cirugía plástica, estética y reconstructiva relacionada con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo, se regirá conforme a lo dispuesto por los artículos 81, 83, 271, 272, 272 bis 1, 272 bis 2, 272 bis 3 de la Ley General.
 
-## TITULO DECIMO QUINTO. VIGILANCIA SANITARIA
+## TITULO DECIMO CUARTO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO III. Certificados
+### CAPITULO II. Revocación de Autorizaciones Sanitarias
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 227.
 
@@ -3123,9 +3133,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la legislación fiscal y los convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2023)</small>
+### CAPITULO III. Certificados
 
 ###### ARTICULO 236.
 
@@ -3187,9 +3195,9 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO I
+### CAPITULO UNICO
 
-Medidas de Seguridad Sanitaria.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2023)</small>
 
 ###### ARTICULO 244.
 
@@ -3243,9 +3251,11 @@ Los certificados a que se refiere este Título se extenderán en los modelos apr
 
 Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
 
-## TITULO DECIMO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
+## TITULO DECIMO QUINTO. VIGILANCIA SANITARIA
 
-### CAPITULO II. Sanciones Administrativas
+### CAPITULO I
+
+Medidas de Seguridad Sanitaria.
 
 ###### ARTICULO 251.
 
@@ -3341,11 +3351,9 @@ Transcurrido este plazo, sin que se haya impugnado el resultado del análisis of
 
 En el caso de los productos recogidos en procedimientos de muestreo o verificación, sólo los laboratorios autorizados o habilitados por la autoridad sanitaria para tal efecto podrán determinar, por medio de los análisis practicados, si tales productos reúnen o no sus especificaciones.
 
-## TITULO DECIMO OCTAVO (SIC). DE LA BENEFICENCIA PÚBLICA
+## TITULO DECIMO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
-
-### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
+### CAPITULO II. Sanciones Administrativas
 
 ###### ARTICULO 263.
 
@@ -3455,7 +3463,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
 
-### CAPITULO IV. Recurso de Inconformidad
+### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
 
 ###### ARTICULO 275.
 
@@ -3553,7 +3561,7 @@ II.- A la persona que en rebeldía se niegue a cumplir los requerimientos y disp
 
 La resolución que contenga la determinación de la sanción a que se refiere este artículo se comunicará a la autoridad correspondiente para que la lleve a cabo.
 
-### CAPITULO V. Prescripción
+### CAPITULO IV. Recurso de Inconformidad
 
 ###### ARTICULO 287.
 
@@ -3593,9 +3601,7 @@ En los casos de suspensión de trabajos o de servicios o de clausura temporal o 
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria competente formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
 
-### CAPITULO UNICO. Del Instituto de Beneficencia Pública del Estado de Aguascalientes
-
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+### CAPITULO V. Prescripción
 
 ###### ARTICULO 296.
 
@@ -3649,6 +3655,10 @@ Cuando del contenido de un acta de verificación se desprenda la posible comisi�
 
 (DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
 
+### CAPITULO UNICO. Del Instituto de Beneficencia Pública del Estado de Aguascalientes
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTICULO 309.
 
 El ejercicio de la facultad para imponer las sanciones administrativas previstas en la presente Ley, prescribirá en el término de cinco años.
@@ -3666,6 +3676,10 @@ Cuando el presunto infractor impugnare los actos de la autoridad sanitaria compe
 Los interesados podrán hace valer la prescripción, por vía de acción o excepción. La autoridad deberá declararla de oficio.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+## TITULO DECIMO OCTAVO (SIC). DE LA BENEFICENCIA PÚBLICA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTICULO 313.
 
@@ -4592,3 +4606,15 @@ P.O. 6 DE NOVIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 511.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto quedan sin efectos las disposiciones legales y reglamentarias que se opongan al mismo.
