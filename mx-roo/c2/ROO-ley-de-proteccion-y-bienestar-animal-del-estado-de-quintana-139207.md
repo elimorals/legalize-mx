@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proteccion-y-bienestar-animal-del-estado-de-quintana-139
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2023-07-18"
+last_updated: "2023-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número 133 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 25 de noviembre de 2019.
 
@@ -1321,19 +1321,29 @@ I. Apercibimiento;
 
 II. Amonestación por escrito;
 
-III. Multa, que será impuesta en Unidades de Medida y Actualización vigente, y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-IV. Arresto hasta por treinta y seis horas.
+III. Multa, que será impuesta en Unidades de Medida y Actualización vigente,
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+IV. Arresto hasta por treinta y seis horas, y
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+V. En el caso que el infractor sea un servidor público estatal o municipal, cuyas funciones sean tales como la protección, conservación o cuidado de los animales, la destitución en su cargo e inhabilitación para desempeñar otro empleo, cargo o comisión pública hasta por cinco años.
 
 ###### Artículo 120.
 
 La violación a las disposiciones contenidas en los artículos 32 fracciones I y II, 40 fracciones I, III, IV, V, VI y IX, 61, 65 y 70 fracciones I y II, serán sancionadas con multa de diez a cincuenta veces el valor diario de la Unidad de Medida y Actualización, con independencia de las demás sanciones que de acuerdo a los artículos 119 y 123 pudiera determinar en su resolución la autoridad competente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 121.
 
-La violación a las disposiciones contenidas en los artículos 39, 40 fracciones II, VII, VIII, X, XI y XIII, 70 fracciones III y IV, 83, 85, y 86, serán sancionadas con multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización, con independencia de las demás sanciones que de acuerdo a los artículos 119 y 123 pudiera determinar en su resolución la autoridad competente.
+La violación a las disposiciones contenidas en los artículos 39 fracciones IV, V, VI, VII, IX, X, XI, XII, XIII, XIV y XVI, 40 fracciones VIII, X, XI y XIII, 70 fracciones III y IV, 83, 85 y 86, serán sancionadas con multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización, con independencia de las demás sanciones que de acuerdo a los artículos 119 y 123 pudiera determinar en su resolución la autoridad competente.
+
+La violación a las disposiciones contenidas en las fracciones I, II, III, VIII y XV del artículo 39, así como las fracciones II, VII y XII del artículo 40, serán sancionadas con multa de doscientas a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización, además en el caso de que el con independencia de las demás sanciones que de acuerdo a los artículos 119 y 123 pudiera determinar en su resolución la autoridad competente.
 
 Para el caso de la reincidencia, se estará a lo dispuesto en el Código de Justicia Administrativa del Estado de Quintana Roo.
 
@@ -1482,3 +1492,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El Poder Ejecutivo, así como los Ayuntamientos del Estado contarán con un plazo de 180 días naturales contados a partir de la entrada en vigor del presente decreto, para que dentro del ámbito de sus respectivas facultades y competencias, realicen las adecuaciones necesarias a las disposiciones reglamentarias correspondientes, para apegarse a lo dispuesto en este Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 130 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO; Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL DE ESTADO DE QUINTANA ROO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
