@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-prevencion-del-delito-para-el-estado-de-quintana-roo-961
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-06"
-last_updated: "2023-03-18"
+last_updated: "2023-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PREVENCIÓN DEL DELITO PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 6 de septiembre de 2013.
 
@@ -166,6 +166,10 @@ V. Promover la cultura de la legalidad;
 VI. Implementar programas para:
 
 a. Prevenir la violencia infantil y juvenil;
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+El Consejo Estatal en coordinación con el Instituto Quintanarroense de la Juventud deberá promover estrategias, acciones y políticas públicas focalizadas para la prevención social del delito en las personas jóvenes, especialmente para aquellas que se encuentran en alguna situación de vulnerabilidad; de igual forma en vinculación con el Instituto Quintanarroense de la Juventud, elaborará y publicará periódicamente, en formato de datos abiertos, la información necesaria para conocer las causas estructurales de la comisión de delitos cometidos por y en contra de las personas jóvenes;
 
 b. Promover la erradicación de la violencia, especialmente la ejercida contra niños, jóvenes, mujeres, indígenas y adultos mayores, y
 
@@ -376,3 +380,9 @@ SEXTO. Los asuntos a cargo de la Secretaría de Desarrollo Social que se encuent
 SÉPTIMO. Las referencias establecidas en los ordenamientos jurídicos, reglamentos, decretos, acuerdos, reglas de operación y en general cualquier disposición que mencione a la Secretaría de Desarrollo Social, se entenderán a la Secretaría de Bienestar del Estado de Quintana Roo que se enuncia en el presente Decreto.
 
 OCTAVO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 129 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL APARTADO “A:’ DE LA FRACCIÓN VI, DEL ARTÍCULO 10 DE LA LEY DE PREVENCIÓN DEL DELITO PARA EL ESTADO DE QUINTANA ROO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
