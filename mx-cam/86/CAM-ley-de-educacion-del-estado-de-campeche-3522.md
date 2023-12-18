@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2023-11-22"
+last_updated: "2023-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023..
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -1303,9 +1303,13 @@ XV.- Expulsar o negarse a prestar el servicio educativo a personas que presenten
 
 XVI.- Incumplir con las medidas correctivas derivadas de las visitas de inspección;
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-XVII.- Retener documentos personales y académicos por falta de pago.
+XVII.- Retener documentos personales y académicos por falta de pago; y
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+XVIII.- Expulsar, suspender, negarse, excluir, distinguir, menoscabar o restringir, por si o por interpósita persona, a prestar el servicio educativo a niñas, niños, adolescentes o demás personas con alguna discapacidad o que pertenezcan a alguna comunidad indígena, afromexicana o a algún grupo vulnerable.
 
 > <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
@@ -1570,3 +1574,11 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- La Secretaría de Educación del Estado adoptará las medidas pertinentes para la observancia de lo dispuesto en el presente decreto, de conformidad con la disponibilidad presupuestal del ejercicio fiscal correspondiente.
 
 Tercero.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
+
+P.O. 18 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 289 POR EL QUE “SE REFORMA LA FRACCIÓN XVII Y SE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 54 DE LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se deroga cualquier disposición de igual o menor jerarquía que contravenga el presente decreto.
