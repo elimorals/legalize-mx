@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2023-09-11"
+last_updated: "2023-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -2433,9 +2433,15 @@ VII. Calles, parques y jardines, y su equipamiento;
 
 VIII. Seguridad pública en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito;
 
-IX. Cultura, recreación y deporte, y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-X. Los demás que el Congreso del Estado determine, según las condiciones territoriales y socioeconómicas de los municipios, y en atención a su capacidad administrativa y financiera, pudiendo tener el concurso del Estado respecto de los mismos cuando así fuere necesario y lo determinen las leyes.
+IX. Cultura, recreación y deporte, y;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+X. Estacionamiento de vehículos. No se entenderá como tal el que preste el Estado respecto al uso, goce, aprovechamiento o explotación de bienes del dominio público del Estado, y
+
+XI. Los demás que el Congreso del Estado determine, según las condiciones territoriales y socioeconómicas de los municipios, y en atención a su capacidad administrativa y financiera, pudiendo tener el concurso del Estado respecto de los mismos cuando así fuere necesario y lo determinen las leyes.
 
 En el desempeño de las funciones y la prestación de los servicios públicos a su cargo, los municipios deberán observar lo dispuesto en las leyes federales y estatales, sin perjuicio de su competencia constitucional.
 
@@ -3440,3 +3446,11 @@ P.O. 11 DE SEPTIEMBRE DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0896.- SE REFORMA EL ARTÍCULO 280 EN SU PÁRRAFO PRIMERO Y EN SU FRACCIÓN I; Y ADICIONA AL MISMO ARTÍCULO 280 DOS PÁRRAFOS, ESTOS COMO PÁRRAFOS SEGUNDO Y TERCERO, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 141 EN SU FRACCIÓN IX; Y ADICIONA AL MISMO ARTÍCULO 141 UNA FRACCIÓN, ESTA COMO FRACCIÓN X, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
