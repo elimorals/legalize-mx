@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2023-11-06"
+last_updated: "2023-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -2577,17 +2577,17 @@ Cuando alguna persona muera por motivo del desempeño de funciones o empleos pú
 
 DE LA VIOLENCIA FAMILIAR.
 
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 347 Bis.
 
-Los integrantes de la familia tienen derecho a que los demás miembros les respeten su integridad física y psíquica, con el objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contarán con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
+Los integrantes de la familia en particular niñas, niños y adolescentes, tienen derecho a que los demás miembros les respeten su integridad física, psíquica y emocional, con el objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contarán con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 347 Ter.
 
-Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar. Por violencia familiar se entenderá todo acto u omisión, encaminado a dominar, someter, controlar o agredir física, verbal, psicológica, sexual o económicamente a cualquier integrante de la familia, que tenga por objeto causar daño, sufrimiento, dentro o fuera del domicilio familiar, por parte de quienes tengan parentesco, vínculo matrimonial, concubinato, o relación familiar o marital de hecho.
+Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar. Por violencia familiar se entenderá todo acto u omisión, encaminado a dominar, someter, controlar, humillar o agredir física, verbal, psicológica, emocional, sexual o económicamente a cualquier integrante de la familia, que tenga por objeto causar daño, sufrimiento, dentro o fuera del domicilio familiar, por parte de quienes tengan parentesco, vínculo matrimonial, concubinato, o relación familiar o marital de hecho.
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -2597,9 +2597,9 @@ También se considera como violencia familiar la conducta inquisitiva y reiterad
 
 De igual manera, comete violencia familiar el integrante de la familia que lleve a cabo la conducta de alienación parental, según se define en el Artículo 434 del presente Código.
 
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-Queda prohibido que los padres o quienes ejercen la tutela, patria potestad, guarda y custodia o convivencia, así como cualquier miembro de la familia, utilice como método correctivo o disciplinario, el castigo corporal entendido como el uso de la fuerza física que tenga por objeto causar cierto grado de dolor o malestar, sobre niñas, niños y adolescentes.
+Queda prohibido que los padres o quienes ejercen la tutela, patria potestad, guarda y custodia, crianza o convivencia, así como cualquier miembro de la familia, utilice como método correctivo o disciplinario, el castigo corporal entendido como el uso de la fuerza física que tenga por objeto causar cierto grado de dolor o malestar; así mismo se encuentra prohibido el castigo humillante entendido éste como cualquier trato ofensivo, denigrante, desvalorizado, estigmatizante, ridiculizador, y de menosprecio, y cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación cometido en contra de niñas, niños y adolescentes.
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2023)</small>
 
@@ -3339,13 +3339,15 @@ A las personas que tiene al menor bajo su patria potestad o custodia incumbe la 
 
 Cuando llegue a conocimiento de la autoridad administrativa competente, que dichas personas no cumplen con la obligación referida, lo avisarán al Ministerio Público para que promueva lo que corresponda.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 446.
 
-Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan bajo su custodia, tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
+Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan bajo su custodia a niñas, niños y adolescentes, tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
 
-La facultad de corregir ni implica infligir al menor actos de fuerza que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el Artículo 437 Ter de este Código.
+La facultad de corregir no implica infligir a niñas, niños y adolescentes actos de fuerza que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el Artículo 347 Ter de este Código.
+
+Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia.
 
 ###### Artículo 447.
 
@@ -17672,3 +17674,11 @@ P.O. 6 DE NOVIEMBRE DE 2023.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 514.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
