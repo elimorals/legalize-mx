@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2023-11-28"
+last_updated: "2023-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -424,6 +424,10 @@ La Secretaría Estatal, en coordinación con las dependencias competentes del Ej
 ###### Artículo 31.
 
 Se entiende por atención médica el conjunto de servicios que se proporcionan al individuo con el fin de proteger, promover y restaurar su salud.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+Para la atención médica de las comunidades y pueblos indígenas se procurará disponer de al menos un médico, enfermera o un traductor hablante de las lenguas indígenas que se usen en el lugar, en los establecimientos de atención médica y salud ubicados en los pueblos y comunidades indígenas con el fin de garantizar el acceso y disfrute de los servicios de salud, con apego y respeto por las costumbres, tradiciones y las lenguas de las comunidades.
 
 ###### Artículo 32.
 
@@ -2800,3 +2804,13 @@ P.O. 28 DE NOVIEMBRE DE 2023.
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones legales y reglamentarias del marco normativo local en lo que se opongan al presente decreto.
+
+P.O. 18 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 290 POR EL QUE “SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 31 DE LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La Secretaría de Salud estatal adoptará las medidas pertinentes para la observancia de lo dispuesto en el presente decreto, de conformidad con la disponibilidad presupuestal del ejercicio fiscal correspondiente.
+
+Tercero.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
