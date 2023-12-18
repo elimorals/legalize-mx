@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2023-11-27"
+last_updated: "2023-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -3071,11 +3071,13 @@ IV.- Contamine o permita la contaminación de alimentos o bebidas con repercusio
 
 V.- Provoque la erosión, deterioro o degradación de los suelos y subsuelos de jurisdicción local.
 
-> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 179
 
-BIS.- Al que injustificada e intencionalmente realice actos de crueldad en contra de cualquier especie animal, causándole maltrato evidente, pero que no pongan en peligro la vida del animal, se le impondrá de seis meses a un año de prisión y de veinticinco a cincuenta días multa.
+BIS.- Al que injustificada e intencionalmente realice actos de crueldad en contra de cualquier especie animal, causándole maltrato evidente, pero que no pongan en peligro la vida del animal, y que puedan ocasionar un daño permanente se le impondrá de uno a cinco años de prisión y de cincuenta a cien días multa.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
 
 Si las lesiones ponen en peligro la vida del animal se incrementarán en una mitad de la pena señalada.
 
@@ -3091,25 +3093,47 @@ Se entenderá zoofilia a la realización de actos de perversión sexual a un ani
 
 No se consideran actos de zoofilia las acciones que tengan por objeto preservar la vida o la salud del animal.
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-Este delito será perseguido de oficio.
-
-Para los efectos del presente Capítulo se entenderá por animal, lo dispuesto en la Ley de Protección y Bienestar Animal del Estado de Quintana Roo.
+Los delitos previstos en el presente artículo serán perseguidos de oficio.
 
 > <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
 
+Para los efectos del presente Capítulo se entenderá por animal, lo dispuesto en la Ley de Protección y Bienestar Animal del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+Cuando el delito previsto en este artículo sea cometido por un servidor público cuyas funciones sean tales como la protección, conservación o cuidado de los animales, la pena de prisión se incrementará en un tercio del máximo establecido, y la inhabilitación para desempeñar otro empleo, cargo o comisión pública se duplicará respecto al término de la pena de prisión originalmente impuesta.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 179
 
-TER.- Al que injustificada e intencionalmente cometa actos de maltrato o crueldad en contra de cualquier especie animal provocándole la muerte, se le impondrán de uno a dos años de prisión y de cien a doscientos días multa, así como el aseguramiento de todos los animales que pudiera tener bajo su cuidado o resguardo, de conformidad a lo dispuesto en la Ley de Protección y Bienestar Animal del Estado de Quintana Roo.
+TER.- Al que injustificada e intencionalmente cometa actos de maltrato o crueldad en contra de cualquier especie animal provocándole la muerte, se le impondrán de cuatro a seis años de prisión y de doscientos a cuatrocientos días multa, así como el aseguramiento de todos los animales que pudiera tener bajo su cuidado o resguardo, de conformidad a lo dispuesto en la Ley de Protección y Bienestar Animal del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
 
 En caso de que se haga uso de métodos que provoquen un grave sufrimiento al animal previo a su muerte, las penas se aumentarán en una mitad.
 
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
+
 Se entenderá por métodos que provocan un grave sufrimiento, todos aquellos que lleven a una muerte no inmediata y prolonguen la agonía del animal, ya sea por las lesiones provocadas o el detrimento de la salud del animal.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
 
 Por actos de maltrato o crueldad se estará a lo dispuesto en la Ley de Protección y Bienestar Animal del Estado de Quintana Roo.
 
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
+
 Se exceptúan del presente capítulo los animales clasificados para abasto y producción de conformidad con la Ley de Protección y Bienestar Animal del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+Cuando el delito previsto en este artículo sea cometido por un servidor público cuyas funciones sean tales como la protección, conservación o cuidado de los animales, la pena de prisión se incrementará en un tercio del máximo establecido, y la inhabilitación para desempeñar otro empleo, cargo o comisión pública se duplicará respecto al término de la pena de prisión originalmente impuesta.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+Este delito será perseguido de oficio.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
@@ -5360,3 +5384,9 @@ P.O. 27 DE NOVIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 130 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO; Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL DE (SIC) ESTADO DE QUINTANA ROO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
