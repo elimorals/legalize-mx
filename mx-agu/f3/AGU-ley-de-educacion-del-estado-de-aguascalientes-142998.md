@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-142998"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-25"
-last_updated: "2023-11-27"
+last_updated: "2023-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección Primera al Número 21 del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de mayo de 2020.
 
@@ -191,7 +191,9 @@ Tiene por objeto regular la educación que impartan el Estado y sus Municipios, 
 
 El Estado priorizará el interés superior de niñas, niños, adolescentes y jóvenes en el ejercicio de su derecho a la educación. Para tal efecto, garantizará el desarrollo de programas y políticas públicas que hagan efectivo ese principio constitucional.
 
-El Estado fomentará la participación activa de los educandos, madres y padres de familia o tutores, maestras y maestros, así como los distintos actores involucrados en el proceso educativo y, en general, de todo el sistema educativo del Estado, para asegurar que éste extienda sus beneficios a todos los sectores sociales y regionales del Estado de Aguascalientes, a fin de contribuir al desarrollo económico, social y cultural de sus habitantes.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+El Estado fomentará la participación activa de los educandos, madres y padres de familia o tutores o de quienes ejerzan la patria potestad, maestras y maestros, así como los distintos actores involucrados en el proceso educativo y, en general, de todo el sistema educativo del Estado, para asegurar que éste extienda sus beneficios a todos los sectores sociales y regionales del Estado de Aguascalientes, a fin de contribuir al desarrollo económico, social y cultural de sus habitantes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2022)</small>
 
@@ -225,11 +227,13 @@ Toda persona gozará del derecho fundamental a la educación bajo el principio d
 
 La educación es medio fundamental para adquirir, actualizar, completar, ampliar, transmitir y acrecentar la cultura y conocimientos, así como formar y desarrollar íntegramente a las niñas, niños y jóvenes en sus responsabilidades y derechos sociales, cívicos, económicos, culturales y de respeto al medio ambiente; es un proceso permanente que contribuye al desarrollo humano, su bienestar y a la transformación y mejoramiento de la sociedad; es factor determinante para la adquisición de conocimientos significativos y la formación integral para la vida de las personas con un sentido de pertenencia social basado en el respeto de la diversidad, y es medio fundamental para la construcción de una sociedad equitativa y solidaria.
 
-En el Sistema Educativo Estatal deberá asegurarse la participación activa de todos los involucrados en el proceso educativo, con sentido de responsabilidad social, privilegiando la participación de los educandos, madres, padres de familia y docentes, para alcanzar los fines de la educación y contribuir al desarrollo económico, social y cultural
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2021)</small>
+En el Sistema Educativo Estatal deberá asegurarse la participación activa de todos los involucrados en el proceso educativo, con sentido de responsabilidad social, privilegiando la participación de los educandos, madres y padres de familia, tutores o quienes ejerzan la patria potestad, y docentes, para alcanzar los fines de la educación y contribuir al desarrollo económico, social y cultural.
 
-Por consiguiente, las madres y padres de familia reforzarán desde el hogar, el fomento a sus hijos o pupilos sobre los valores cívicos, así como el desarrollo cognitivo y académico, el aprecio por las tradiciones culturales y artísticas de nuestra entidad federativa; propiciando un ambiente sin violencia en el núcleo familiar, privilegiando las conductas adecuadas y necesarias para poder convivir en sociedad; inculcando a sus hijos o pupilos el respeto y reconocimiento a la autoridad del maestro o personal docente y administrativo de los planteles educativos, además de las normas de convivencia social de las escuelas.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+Por consiguiente, las madres, los padres de familia, tutores o quienes ejerzan la patria potestad deberán reforzar en sus hijos, hijas o pupilos, valores cívicos, así como el desarrollo cognitivo y académico, el aprecio por las tradiciones culturales y artísticas; propiciando un ambiente sin violencia y privilegiando las conductas adecuadas y necesarias para poder convivir en sociedad; inculcando el respeto y reconocimiento a la autoridad del maestro o personal docente y administrativo de los planteles educativos, además de las normas de convivencia social de las escuelas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2023)</small>
 
@@ -325,15 +329,21 @@ XIII. Establecer políticas incluyentes, transversales y con perspectiva de igua
 
 XIV. Apoyar conforme a las disposiciones que, para tal efecto emitan las autoridades educativas, a estudiantes de educación media superior y de educación superior con alto rendimiento escolar para que puedan participar en programas de intercambio académico en el país o en el extranjero;
 
-XV. Impulsar programas y escuelas dirigidos a las madres y padres de familia o tutores, que les permitan dar mejor atención a sus hijos para lo cual se aprovechará la capacidad escolar instalada, en horarios y días en que no se presten los servicios educativos ordinarios;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-XVI. Promover mayor participación de las madres y padres de familia y de los diferentes sectores sociales en la educación, así como el apoyo de los particulares al financiamiento y a las actividades a que se refiere este Artículo;
+XV. Impulsar programas y escuelas dirigidos a las madres y padres de familia o tutores o quienes ejerzan la patria potestad, que les permitan dar mejor atención a sus hijos, hijas o pupilos, para lo cual se aprovechará la capacidad escolar instalada, en horarios y días en que no se presten los servicios educativos ordinarios;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+XVI. Promover mayor participación de madres y padres de familia, quienes ejerzan la patria potestad y tutores, además de los diferentes sectores sociales en la educación, así como el apoyo de los particulares al financiamiento y a las actividades a que se refiere este artículo;
 
 XVII. Conceder reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos y fines de la educación;
 
 XVIII. Realizar actividades que permitan mejorar la calidad y ampliar la cobertura de los servicios educativos, y alcanzar los propósitos y fines de la educación;
 
-XIX. Apoyar y desarrollar programas, cursos y actividades que fortalezcan la enseñanza de las madres y padres de familia respecto al valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus maestras y maestros;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+XIX. Apoyar y desarrollar programas, cursos y actividades que fortalezcan la enseñanza a madres y padres de familia, así como a tutores o personas que ejerzan la patria potestad respecto al valor de la igualdad y solidaridad entre hijas e hijos o en su caso pupilos, la prevención de la violencia escolar y el respeto a sus maestras y maestros;
 
 > <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
 
@@ -383,11 +393,11 @@ XXXIV. Celebrar acuerdos de colaboración que garanticen la higiene bucodental a
 
 En el Estado de Aguascalientes funcionarán:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-I. Un sistema estatal de becas, financiamientos educativos y estímulos que integrará y coordinará los diferentes esfuerzos destinados a apoyar la permanencia en la escuela y alentar el aprendizaje de todas las personas de todos los tipos, niveles y modalidades de educación, con los requisitos que se establezcan en la normatividad que para tal efecto expida la autoridad competente. Comprenderá tanto programas que propicien el desempeño escolar sobresaliente, criterio de competencia, como programas compensatorios, criterio de equidad, para los alumnos y las alumnas con carencias económicas.
+I. Un sistema estatal de becas, financiamientos educativos y estímulos, que establecerá los lineamientos para una adecuada coordinación para su otorgamiento, con el fin de apoyar la permanencia en la escuela y motivar el aprendizaje en los y las estudiantes de todos los tipos, niveles y modalidades de educación, conforme a la normatividad que para tal efecto expida la Autoridad Educativa Estatal. Este sistema deberá incluir programas que reconozcan el desempeño escolar sobresaliente con base en criterios de mérito, así como programas compensatorios con base en criterios de equidad, entre las que se encuentran estudiantes y familias con carencias económicas, poblaciones en situación de vulnerabilidad como en el caso de familias monoparentales, o por condición de orfandad. Además, deberá incluir programas que reconozcan la vocación por el servicio público, como en el caso de los y las integrantes de las instituciones policiales y de seguridad pública estatales y municipales, así como del personal de salud.
 
-Las becas se destinarán a alumnos de educación básica, media y superior, los financiamientos a estudiantes de educación superior y los estímulos a la superación personal a estudiantes de todos los niveles tanto en instituciones públicas como privadas; y
+Las becas se destinarán a alumnos de educación básica, media y superior, los créditos educativos a estudiantes de educación superior y los estímulos a la superación por medio del aprendizaje, a estudiantes de todos los tipos y niveles educativos, tanto en instituciones públicas como privadas;
 
 II. Un Sistema Estatal para el Fortalecimiento de la Educación Media Superior y Superior, integrado por personas al servicio de la educación, organismos públicos del sector educativo, maestras y maestros que se desempeñen en los niveles de dichos tipos educativos y demás elementos educativos que sean determinados mediante la normatividad que para tal efecto emita el Titular del Poder Ejecutivo, con el objeto de fortalecer la calidad educativa mediante la planeación, programación, organización y supervisión de los servicios educativos que brindan las Instituciones de Educación Media Superior y Superior; y
 
@@ -477,7 +487,9 @@ XVIII. Infundir el conocimiento y la práctica de la democracia como la forma de
 
 XIX. Fomentar la cultura de la transparencia y la rendición de cuentas, así como el conocimiento en los educandos de sus derechos al acceso a la información pública gubernamental y a la protección de sus datos personales, y de las mejores prácticas para ejercerlos;
 
-XX. Promover en la comunidad escolar los principios y funcionamiento del Sistema Nacional Anticorrupción para la prevención, detección y sanción de faltas administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos; y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+XX. Promover en la comunidad escolar los principios y funcionamiento del Sistema Nacional Anticorrupción para la prevención, detección y sanción de faltas administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos;
 
 XXI. Fomentar el desarrollo sustentable, la protección del medio ambiente y el equilibrio ecológico, haciendo conciencia de la necesidad de un aprovechamiento racional de los recursos naturales. Con tal propósito, el Instituto de Educación de Aguascalientes, en coordinación con la Secretaría de Sustentabilidad, Medio Ambiente y Agua, ejercerá las atribuciones siguientes:
 
@@ -497,13 +509,21 @@ f) Incentivar el uso de tecnología ambiental en las instalaciones educativas pa
 
 g) Establecer programas de contingencia ambiental;
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-h) Realizar trabajos en conjunto con Organizaciones de la Sociedad Civil cuyo objeto sea la educación en cultura ambiental; e
+h) Realizar trabajos en conjunto con Organizaciones de la Sociedad Civil cuyo objeto sea la educación en cultura ambiental, y
 
 > <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
 i) Concientizar en los padres de familia y los educandos, sobre la reducción, reutilización y reciclaje de materiales, así como incentivar en estos sobre la reducción en el uso de plástico para el forrado de libros, libretas y/o materiales escolares.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+XXII. Promover que la educación digital fomente en las y los educandos el uso crítico, ético, responsable y formativo de las tecnologías de la información y comunicación entre las que se encuentran el internet, las redes sociales, la mensajería instantánea y el uso de correos electrónicos, entre otras, con la finalidad de prevenir el acoso o violencia escolar y conductas antisociales e ilícitas que se cometan por conducto de dichos medios conforme a los lineamientos generales para el uso responsable y seguro de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital en el sistema educativo que al efecto emita la Secretaría y demás disposiciones aplicables.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XXII, P.O. 18 DE DICIEMBRE DE 2023]</small>
+
+Los fines anteriores se ajustarán a la edad y al nivel de desarrollo de las y los educandos, así como al tipo, nivel, modalidad y opción educativa que les sea impartida.
 
 ### Capítulo III. De los Criterios de la Educación
 
@@ -551,7 +571,9 @@ Las maestras y maestros acompañarán a los educandos en sus trayectorias format
 
 La evaluación de los educandos será integral y comprenderá la valoración de los conocimientos, las habilidades, las destrezas y, en general, el logro de los propósitos establecidos en los planes y programas de estudio.
 
-Las instituciones deberán informar periódicamente a los educandos y a las madres y padres de familia o tutores, los resultados de las evaluaciones parciales y finales, así como las observaciones sobre el desempeño académico y conducta de los educandos que les permitan lograr un mejor aprovechamiento.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+Las instituciones deberán informar periódicamente a los educandos y a las madres y padres de familia o tutores o quienes ejerzan la patria potestad, los resultados de las evaluaciones parciales y finales, así como las observaciones sobre el desempeño académico y conducta de los educandos que les permitan lograr un mejor aprovechamiento.
 
 ## TÍTULO TERCERO. DEL FEDERALISMO EDUCATIVO
 
@@ -655,7 +677,9 @@ XV. Promover entornos escolares saludables, a través de acciones que permitan a
 
 XVI. Promover en la educación obligatoria prácticas cooperativas de ahorro, producción y promoción de estilos de vida saludables en alimentación, de acuerdo con lo establecido en la ley de la materia y el Reglamento de Cooperativas Escolares;
 
-XVII. Promover, ante las autoridades correspondientes, los permisos necesarios de acuerdo con la legislación laboral aplicable, con la finalidad de facilitar la participación de madres y padres de familia o tutores en las actividades de educación y desarrollo de sus hijas, hijos o pupilos menores de dieciocho años;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+XVII. Promover, ante las autoridades correspondientes, los permisos necesarios de acuerdo con la legislación laboral aplicable, con la finalidad de facilitar la participación de madres y padres de familia o tutores o quienes ejerzan la patria potestad, en las actividades de educación y desarrollo de sus hijas, hijos o pupilos menores de dieciocho años;
 
 XVIII. Aplicar los instrumentos que consideren necesarios para la mejora continua de la educación en el ámbito de su competencia, atendiendo los lineamientos que en ejercicio de sus atribuciones emita la Comisión Nacional para la Mejora Continua de la Educación;
 
@@ -769,7 +793,9 @@ I. Los educandos;
 
 II. Las maestras y los maestros;
 
-III. Las madres, los padres de familia o tutores, así como a sus asociaciones;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+III. Las madres, los padres de familia, tutores o quienes ejerzan la patria potestad, así como a sus asociaciones;
 
 IV. Las autoridades educativas;
 
@@ -963,17 +989,19 @@ Las políticas y directrices para este tipo educativo y sus instituciones se rea
 
 En el ámbito de su competencia, las autoridades educativas estatal y de los municipios concurrirán con la Autoridad Educativa Federal para garantizar la gratuidad de la educación en este tipo educativo de manera gradual, comenzando con el nivel de licenciatura y, progresivamente, con los demás niveles de este tipo educativo, en los términos que establezca la ley de la materia, priorizando la inclusión de los pueblos indígenas y los grupos sociales más desfavorecidos para proporcionar la prestación de este servicio educativo en todo el territorio del Estado. En todo momento se respetará el carácter de las instituciones a las que la ley otorga autonomía.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 43.
 
-La autoridad educativa estatal establecerá el Registro Estatal de Opciones para Educación Superior, el cual tendrá por objetivo dar a conocer a la población los espacios disponibles en las instituciones públicas de educación superior, así como los requisitos para su ingreso.
+La Autoridad Educativa Estatal establecerá el Registro Estatal de Opciones para Educación Superior, el cual tendrá por objetivo dar a conocer oportunamente a la población, los espacios disponibles en las instituciones de educación superior públicas y privadas en el estado, así como los requisitos para su acceso.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-Para tal efecto, la autoridad educativa estatal dispondrá las medidas para que las instituciones de educación superior públicas del Estado, proporcionen los datos para alimentar el Registro Estatal de Opciones para Educación Superior.
+Para tal efecto, la Autoridad Educativa Estatal dispondrá las medidas conducentes para que las instituciones de educación superior públicas y privadas en el Estado proporcionen cuatrimestralmente los datos para alimentar el Registro Estatal de Opciones para Educación Superior, incluyendo costos de colegiatura, inscripción, reinscripción y de titulación o para obtención de grados y diplomas.
 
-La información del registro al que se refiere este artículo será pública y difundida de manera electrónica e impresa, a través de los medios de comunicación determinados por la Autoridad Educativa Estatal.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+La información del registro al que se refiere este artículo será pública y difundida de manera permanente, de manera electrónica e impresa, a través de los medios de comunicación determinados por la Autoridad Educativa Estatal.
 
 ###### Artículo 44.
 
@@ -1149,7 +1177,9 @@ En la aplicación de esta Ley, se garantizará el derecho a la educación a los 
 
 La Autoridad Educativa Estatal, en el ámbito de su competencia y de conformidad a los criterios orientadores para la prestación de los servicios de educación especial que emita la Autoridad Educativa Federal, para atender a los educandos con capacidades, circunstancias, necesidades, estilos y ritmo de aprendizaje diversos, realizará lo siguiente:
 
-I. Prestar educación especial en condiciones necesarias, previa decisión y valoración por parte de los educandos, madres y padres de familia o tutores, personal docente y, en su caso, derivados por una condición de salud, para garantizar el derecho a la educación de los educandos que enfrentan barreras para el aprendizaje y la participación;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+I. Prestar educación especial en condiciones necesarias, previa decisión y valoración por parte de los educandos, madres y padres de familia, tutores, o quienes ejerzan la patria potestad, personal docente y, en su caso, derivados por una condición de salud, para garantizar el derecho a la educación de los educandos que enfrentan barreras para el aprendizaje y la participación;
 
 II. Ofrecer formatos accesibles para prestar educación especial, procurando en la medida de lo posible su incorporación a todos los servicios educativos, sin que esto cancele su posibilidad de acceder al servicio escolarizado;
 
@@ -1355,13 +1385,15 @@ Los docentes y el personal que labora en los planteles de educación deberán es
 
 En caso de que los docentes, el personal que labora en los planteles educativos, así como las autoridades educativas, tengan conocimiento de la comisión de algún hecho que la ley señale como delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente, para lo cual la Autoridad Educativa Estatal promoverá capacitaciones y talleres a efecto que los trabajadores al servicio de la educación en el Estado, cuenten con los conocimientos necesarios para llevar a cabo los protocolos de actuación para realizar las denuncias correspondientes.
 
-Cuando exista ausentismo del educando por cinco días consecutivos o siete acumulados en un mes, sin que exista justificación por escrito de madres y padres de familia o tutores, las autoridades escolares de las escuelas públicas y privadas del tipo básico informarán a la Autoridad Educativa Estatal, la cual emitirá una alerta temprana y será remitida a las Autoridades Correspondientes.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2022)</small>
+Cuando exista ausentismo del educando por cinco días consecutivos o siete acumulados en un mes, sin que exista justificación por escrito de madres, padres de familia, tutores o de quien ejerza la patria potestad, las autoridades escolares de las escuelas públicas y privadas del tipo básico informarán a la Autoridad Educativa Estatal, la cual emitirá una alerta temprana y será remitida a las Autoridades Correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 80.
 
-Las Autoridades Educativas, en el ámbito de su competencia, promoverán la cultura de la paz y no violencia para generar una convivencia democrática basada en el respeto a la dignidad de las personas y de los derechos humanos. Realizarán acciones que favorezcan el sentido de comunidad y solidaridad, donde se involucren los educandos, los docentes, madres y padres de familia o tutores, así como el personal de apoyo y asistencia a la educación, y con funciones directivas o de supervisión para prevenir y atender la violencia que se ejerza en el entorno escolar, de conformidad con lo dispuesto en la Ley para Prevenir Atender y Erradicar la Violencia Escolar en el Estado de Aguascalientes y demás normas aplicables.
+Las Autoridades Educativas, en el ámbito de su competencia, promoverán la cultura de la paz y no violencia para generar una convivencia democrática basada en el respeto a la dignidad de las personas y de los derechos humanos. Realizarán acciones que favorezcan el sentido de comunidad y solidaridad, donde se involucren los educandos, los docentes, madres y padres de familia, tutores, quien ejerza la patria potestad, así como el personal de apoyo y asistencia a la educación, y con funciones directivas o de supervisión para prevenir y atender la violencia que se ejerza en el entorno escolar, de conformidad con lo dispuesto en la Ley para Prevenir Atender y Erradicar la Violencia Escolar en el Estado de Aguascalientes y demás normas aplicables.
 
 Para cumplir con lo establecido en este artículo, se llevarán a cabo, las acciones contempladas en el artículo 74 de la Ley General de Educación.
 
@@ -1373,21 +1405,23 @@ La Autoridad Educativa Estatal, emitirá protocolos de actuación que sean neces
 
 La Autoridad Educativa Estatal, de acuerdo con la suficiencia presupuestal llevará a cabo acciones para que, en los planteles de educación básica, se contemple lo siguiente:
 
-a) Celebrar convenios con las autoridades en la materia, a fin de contar con personal capacitado y actualizado en la materia de psicología, pedagogía infantil y educación escolar con el objetivo de identificar un posible trastorno mental que presenten niñas o niños, debiéndolo informar a sus padres o tutores y dar la orientación correspondiente;
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+a) Celebrar convenios con las autoridades en la materia, a fin de contar con personal capacitado y actualizado en la materia de psicología, pedagogía infantil y educación escolar con el objetivo de identificar un posible trastorno mental que presenten niñas o niños, debiéndolo informar a las madres, padres, tutores o a quien ejerza la patria potestad, y dar la orientación correspondiente;
 
 b) Coadyuvar en la aplicación de programas relacionados con salud mental infantil;
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-c) Implementar programas de información dirigida a maestras, maestros, madres, padres y estudiantes, sobre los efectos adversos de los trastornos mentales y de las medidas para detectar, atender y prevenir aquellos factores que induzcan al suicidio;
+c) Implementar programas de información dirigida a maestras, maestros, madres, padres, tutores, a quien ejerza la patria potestad y a estudiantes, sobre los efectos adversos de los trastornos mentales y de las medidas para detectar, atender y prevenir aquellos factores que induzcan al suicidio;
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2022)</small>
 
 d) Celebrar los convenios interinstitucionales necesarios entre dependencias y con organizaciones de la sociedad civil para lograr los objetivos de la presente sección; e
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-e) Implementar programas de información dirigida a madres y padres de familia o tutores, maestras y maestros, así como de los distintos actores involucrados en el proceso educativo relativa a la educación científica sobre temas de sexualidad integral, fertilidad y reproducción que implica el ejercicio responsable e informado de la sexualidad, la planificación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual.
+e) Implementar programas de información dirigida a madres y padres de familia, a tutores y a quien ejerza la patria potestad, maestras y maestros, así como de los distintos actores involucrados en el proceso educativo relativa a la educación científica sobre temas de sexualidad integral, fertilidad y reproducción que implica el ejercicio responsable e informado de la sexualidad, la planificación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual.
 
 #### Sección Primera. De las Maestras y los Maestros
 
@@ -1407,7 +1441,9 @@ I. Priorizar su labor para el logro de metas y objetivos centrados en el aprendi
 
 II. Fortalecer su desarrollo y superación profesional mediante la formación, capacitación y actualización;
 
-III. Fomentar el respeto a la labor docente y a su persona por parte de las autoridades educativas, de los educandos, madres y padres de familia o tutores y sociedad en general; así como fortalecer su liderazgo en la comunidad;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+III. Fomentar el respeto a la labor docente y a su persona por parte de las autoridades educativas, de los educandos, madres y padres de familia, tutores, quien ejerza la patria potestad y sociedad en general; así como fortalecer su liderazgo en la comunidad;
 
 IV. Reconocer su experiencia, así como su vinculación y compromiso con la comunidad y el entorno donde labora, para proponer soluciones de acuerdo a su contexto educativo;
 
@@ -1429,7 +1465,9 @@ La Autoridad Educativa Estatal, podrá reconocer la labor docente, a través de 
 
 La Autoridad Educativa Estatal colaborará con la Autoridad Educativa Federal en la revisión permanente de las disposiciones, los trámites y procedimientos, con objeto de simplificarlos, de reducir las cargas administrativas de los docentes, de alcanzar más horas efectivas de clase y de fortalecimiento académico, en general, de lograr la prestación del servicio educativo con mayor pertinencia y eficiencia.
 
-En las actividades de supervisión las autoridades educativas darán prioridad, respecto de los aspectos administrativos, a los apoyos técnicos, didácticos y demás para el adecuado desempeño de la función docente. Asimismo, se fortalecerá la capacidad de gestión de las autoridades escolares y la participación de las madres y padres de familia o tutores.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+En las actividades de supervisión las autoridades educativas darán prioridad, respecto de los aspectos administrativos, a los apoyos técnicos, didácticos y demás para el adecuado desempeño de la función docente. Asimismo, se fortalecerá la capacidad de gestión de las autoridades escolares y la participación de las madres y padres de familia, tutores y de que quien ejerza la patria potestad.
 
 ###### Artículo 86.
 
@@ -1441,7 +1479,9 @@ II. Impartir sus clases con responsabilidad y profesionalismo para que todos los
 
 III. Respetando el calendario escolar, el horario de clases y la entrega de libros y materiales educativos de que se disponga; y
 
-IV. Mantener informados a las madres y padres de familia o tutores del avance escolar de sus hijos o pupilos y promover relaciones de colaboración con aquéllos.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+IV. Mantener informados a las madres y padres de familia, tutores o a quien ejerza la patria potestad, del avance escolar de sus hijos, hijas o pupilos y promover relaciones de colaboración con aquéllos.
 
 ###### Artículo 87.
 
@@ -1519,7 +1559,9 @@ Asimismo, impulsarán los proyectos pedagógicos y de desarrollo de la docencia 
 
 Los planteles educativos constituyen un espacio fundamental para el proceso de enseñanza aprendizaje, donde se presta el servicio público de educación por parte de las autoridades educativas del Estado o por los particulares con autorización o reconocimiento de validez oficial de estudios.
 
-Con el acuerdo de las autoridades, madres y padres de familia o tutores y la comunidad, en la medida de sus posibilidades, funcionarán como un centro de aprendizaje comunitario, donde además de educar a niñas, niños, adolescentes y jóvenes, se integrará a las familias y a la comunidad para colaborar en grupos de reflexión, de estudio y de información sobre su entorno.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+Con el acuerdo de las autoridades, madres y padres de familia, tutores o quien ejerza la patria potestad, y la comunidad, en la medida de sus posibilidades, funcionarán como un centro de aprendizaje comunitario, donde además de educar a niñas, niños, adolescentes y jóvenes, se integrará a las familias y a la comunidad para colaborar en grupos de reflexión, de estudio y de información sobre su entorno.
 
 La Autoridad Educativa Estatal, en coordinación con la Autoridad Educativa Federal y de los municipios, establecerán las disposiciones para el cumplimiento de este artículo.
 
@@ -1561,9 +1603,11 @@ Las Autoridades Educativas, en el ámbito de sus respectiva competencia, deberá
 
 Asimismo, promoverán mecanismos para acceder a fuentes alternas de financiamiento conforme lo establezcan las disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 100.
 
-Para el mantenimiento de los muebles e inmuebles, así como los servicios e instalaciones necesarios para proporcionar los servicios educativos, concurrirán los gobiernos federales (sic), estatales, municipales y, de manera voluntaria, madres y padres de familia o tutores y demás integrantes de la comunidad.
+Para el mantenimiento de los muebles e inmuebles, así como los servicios e instalaciones necesarios para proporcionar los servicios educativos, concurrirán el gobierno federal, estatal, municipal y, de manera voluntaria, madres y padres de familia, tutores o quien ejerza la patria potestad y demás integrantes de la comunidad.
 
 La Autoridad Educativa Estatal promoverá la participación directa de los municipios para dar mantenimiento y proveer de equipo básico a las escuelas públicas estatales y municipales. Los municipios coadyuvarán en el mantenimiento de los planteles educativos y de los servicios de seguridad, agua y luz.
 
@@ -1769,15 +1813,19 @@ Los acuerdos secretariales señalarán los requisitos específicos que deban cum
 
 ## TÍTULO SÉPTIMO. De la Participación Social
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 123.
 
-Las madres y padres de familia o tutores serán corresponsables en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años para lo cual, además de cumplir con su obligación de hacerlos asistir a los servicios educativos, apoyarán su aprendizaje, y revisarán su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo.
+Las madres y padres de familia, tutores o quienes ejerza la patria potestad, serán corresponsables en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años para lo cual, además de cumplir con su obligación de hacerlos asistir a los servicios educativos, apoyarán su aprendizaje, y revisarán su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2021)</small>
+En el ámbito de sus respectivas competencias, las autoridades educativas desarrollarán actividades de información y orientación para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de los niños, niñas y adolescentes, buenos hábitos de salud, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital, la educación en inteligencia emocional, la resolución de conflictos de manera pacífica mediante la mediación u otro medio de carácter análogo, la educación científica sexual y reproductiva, la fertilidad, la prevención del consumo de sustancias psicoactivas y otros temas que permitan a madres y padres de familia, tutores o a quien ejerza la patria potestad, proporcionar una mejor atención a sus hijas, hijos o pupilos.
 
-En el ámbito de sus respectivas competencias, las autoridades educativas desarrollarán actividades de información y orientación para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, buenos hábitos de salud, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital, la educación en inteligencia emocional, la resolución de conflictos de manera pacífica mediante la mediación u otro medio de carácter análogo, la educación científica sexual y reproductiva, la fertilidad, la prevención del consumo de sustancias psicoactivas y otros temas que permitan a madres y padres de familia o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-### Capítulo I. De los Derechos de las Madres y Padres de Familia o Tutores
+### Capítulo I
+
+De los Derechos de las Madres y Padres de Familia, Tutores y quienes ejercen la patria potestad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2022)</small>
 
@@ -1817,7 +1865,9 @@ XII. Recibir información por parte de la autoridad escolar de la normatividad a
 
 XIII. Escoger para sus hijas, hijos o pupilos escuelas distintas de las creadas por las autoridades que impartan la educación conforme a sus convicciones siempre que aquéllas satisfagan las normas mínimas que el Estado prescriba o apruebe en materia de enseñanza y cuenten con la autorización legal o el reconocimiento respectivo.
 
-### Capítulo II. De las Obligaciones de las Madres y Padres de Familia o Tutores
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+### Capítulo II. De las Obligaciones de las Madres y Padres de Familia, Tutores y quienes ejercen la patria potestad
 
 ###### Artículo 125.
 
@@ -1841,7 +1891,9 @@ VI. Promover la participación de sus hijas, hijos o pupilos menores de diecioch
 
 VII.- Fomentar en sus hijas, hijos o pupilos menores de dieciocho años, una cultura de respeto y reconocimiento a la autoridad del maestro o personal docente y administrativo de los planteles educativos, además de las normas de convivencia social de las escuelas.
 
-En caso de incumplimiento de alguna de las obligaciones a las que se refiere este artículo por parte de madres y padres de familia o tutores, las autoridades educativas podrán dar aviso a las instancias encargadas de la protección de los derechos de niñas, niños y adolescentes para los efectos correspondientes en términos de la legislación aplicable.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+En caso de incumplimiento de alguna de las obligaciones a las que se refiere este artículo por parte de madres, padres de familia, tutores, o quien ejerza la patria potestad, las autoridades educativas podrán dar aviso a las instancias encargadas de la protección de los derechos de niñas, niños y adolescentes para los efectos correspondientes en términos de la legislación aplicable.
 
 ### Capítulo III. De las Asociaciones de Madres y Padres de familia
 
@@ -1855,7 +1907,9 @@ II. Colaborar para una mejor integración de la comunidad escolar, así como en 
 
 III. informar a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto los educandos;
 
-IV. Propiciar la colaboración de los docentes, madres y padres de familia o tutores, para salvaguardar la integridad de los integrantes de la comunidad educativa;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+IV. Propiciar la colaboración de los docentes, madres y padres de familia, tutores y de quien ejerza la patria potestad para salvaguardar la integridad de los integrantes de la comunidad educativa;
 
 V. Conocer de las acciones educativas y de prevención que realicen las autoridades para que los educandos, conozcan y detecten la posible comisión de hechos delictivos que les puedan perjudicar;
 
@@ -1917,7 +1971,9 @@ V. Coadyuvar a nivel municipal en actividades de seguridad, protección civil y 
 
 VI. Promover la superación educativa en el ámbito municipal mediante certámenes interescolares;
 
-VII. Promover actividades de orientación, capacitación y difusión dirigidas a madres y padres de familia o tutores, para que cumplan cabalmente con sus obligaciones en materia educativa;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+VII. Promover actividades de orientación, capacitación y difusión dirigidas a madres y padres de familia, tutores o quienes ejerzan la patria potestad, para que cumplan cabalmente con sus obligaciones en materia educativa;
 
 VIII. Proponer la entrega de estímulos y reconocimientos de carácter social a los educandos, maestras y maestros, directivos y trabajadores de la Educación del Estado de Aguascalientes que propicien la vinculación con la comunidad;
 
@@ -1933,11 +1989,11 @@ En el Estado de operará un consejo estatal de participación escolar en la educ
 
 Este consejo, podrá promover y apoyar actividades extraescolares de carácter cultural, cívico, deportivo y de bienestar social; coadyuvar en actividades de protección civil y emergencia escolar; conocer las demandas y necesidades que emanen de los consejos escolares y municipales, gestionar ante las instancias competentes su resolución y apoyo, así como colaborar en actividades que influyan en la excelencia y la cobertura de la educación.
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 130.
 
-La Autoridad Educativa Estatal, ofrecerá a las madres y padres de familia programas permanentes de formación para que participen de manera activa y con propuestas en el proceso educativo de sus hijos y/o hijas y así, lograr el cumplimiento de los fines de la educación.
+La Autoridad Educativa Estatal, ofrecerá a las madres y padres de familia, a los tutores y a quien ejerza la patria potestad, programas permanentes de formación para que participen de manera activa y con propuestas en el proceso educativo de sus hijos, hijas y pupilos para lograr el cumplimiento de los fines de la educación.
 
 ###### Artículo 131.
 
@@ -1993,7 +2049,9 @@ Los Particulares podrán suspender el servicio educativo por una sola ocasión y
 
 Los particulares podrán impartir educación En ningún caso, con motivo del cobro de colegiaturas o cualquier otra contraprestación, derivada de la educación que se imparta por los particulares, se realizarán acciones que atenten contra la dignidad y los derechos de los educandos, de manera especial de las niñas y niños, incluyendo la retención de documentos personales y académicos.
 
-La adquisición de uniformes y materiales educativos, así como de actividades extraescolares, no podrá condicionar la prestación del servicio público referido en esta Ley. Los educandos, las madres y padres de familia o tutores tendrán el derecho de adquirir los uniformes o materiales educativos con el proveedor de su preferencia.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+La adquisición de uniformes y materiales educativos, así como de actividades extraescolares, no podrá condicionar la prestación del servicio público referido en esta Ley. Los educandos, las madres y padres de familia, tutores o quienes ejerzan la patria potestad, tendrán el derecho de adquirir los uniformes o materiales educativos con el proveedor de su preferencia.
 
 ###### Artículo 138.
 
@@ -2023,7 +2081,9 @@ I. Cumplir con lo dispuesto en el artículo 3o. de la Constitución Política de
 
 II. Cumplir con los planes y programas de estudio que las autoridades educativas competentes hayan determinado o considerado procedentes y mantenerlos actualizados;
 
-III. Otorgar becas que cubran la impartición del servicio educativo, las cuales no podrán ser inferiores al diez por ciento del total de alumnos inscritos en cada plan y programa de estudios con autorización o reconocimiento de validez oficial de estudios, las cuales distribuirá por nivel educativo y su otorgamiento o renovación no podrá condicionarse a la aceptación de ningún crédito, gravamen, servicio o actividad extracurricular a cargo del becario. El otorgamiento de un porcentaje mayor de becas al señalado en la presente fracción será decisión voluntaria de cada particular. Las becas podrán consistir en la exención del pago total o parcial de las cuotas de inscripción o de colegiaturas que haya establecido el particular. Corresponde a la Secretaría la asignación de las becas a las que se refiere esta fracción, con la finalidad de contribuir al logro de la equidad educativa; para tal efecto atenderá los lineamientos que emita la Autoridad Educativa Federal mediante los cuales se realizará dicha asignación en comités en los que participarán representantes de las instituciones de particulares que impartan educación en los términos de la presente Ley;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+III. Otorgar becas que cubran la impartición del servicio educativo, conforme a los lineamientos que para tal efecto emita la Autoridad Educativa Estatal. Su otorgamiento o renovación no podrá condicionarse a la aceptación de ningún crédito o gravamen, ni a la imposición de servicio, adquisición, pago, o actividad extracurricular alguna al o a la estudiante que reciba este beneficio. Las becas otorgadas consistirán en la exención del pago total o parcial de las cuotas de inscripción, de colegiaturas que haya establecido el particular. El monto total otorgado en becas por cada particular no podrá ser inferior al monto equivalente al costo anual de inscripción y colegiatura del diez por ciento del total de los y las estudiantes inscritos en cada plan y programa de estudios del que cuente con autorización o reconocimiento de validez oficial de estudios. El otorgamiento de un porcentaje mayor de becas al señalado en la presente fracción será decisión voluntaria de cada particular.
 
 IV. Cumplir los requisitos previstos en el artículo 138 de esta Ley;
 
@@ -2033,9 +2093,17 @@ VI. Proporcionar la información que sea requerida y atender los citatorios emit
 
 VII. Entregar a la autoridad educativa la documentación e información necesaria que permitan verificar el cumplimiento de los requisitos para seguir impartiendo educación, conforme a los lineamientos emitidos para tal efecto;
 
-VIII. Solicitar el refrendo del reconocimiento de validez oficial de estudios al término de la vigencia que se establezca, en los términos de esta Ley y demás disposiciones aplicables, y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-IX. Dar aviso a la autoridad educativa competente el cambio de domicilio donde presten el servicio público de educación o cuando dejen de prestarlo conforme a la autorización o reconocimiento de validez oficial de estudios respectiva, para que conforme al procedimiento que se determine en las disposiciones aplicables, se dé inicio al procedimiento de retiro o revocación.
+VIII. Solicitar el refrendo del reconocimiento de validez oficial de estudios al término de la vigencia que se establezca, en los términos de esta Ley y demás disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+IX. Dar aviso a la autoridad educativa competente el cambio de domicilio donde presten el servicio público de educación o cuando dejen de prestarlo conforme a la autorización o reconocimiento de validez oficial de estudios respectiva, para que conforme al procedimiento que se determine en las disposiciones aplicables, se dé inicio al procedimiento de retiro o revocación; y
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+X. Informar por escrito a los y las estudiantes que se inscriban en cualquiera de sus programas académicos, sobre los montos a pagar por inscripción, colegiatura y en su caso por exámenes, seguros y otros trámites administrativos, al inicio de cada período académico. De la misma forma, deberá comunicar el monto máximo que el particular cobrará por la titulación o por la obtención de grados académicos, al momento en que una persona se inscriba al último ciclo escolar, previo a la conclusión del total de sus créditos educativos.
 
 ###### Artículo 141.
 
@@ -2087,13 +2155,17 @@ XI. Efectuar actividades distintas a las que se desprendan de los planes y progr
 
 XII. No informar de inmediato a la autoridad correspondiente de la comisión de algún delito en agravio de las y los educandos, cuando las y los educadores así como las autoridades educativas, tengan conocimiento del mismo;
 
-XIII. Administrar a los educandos, medicamentos que contengan sustancias psicotrópicas o estupefacientes, vacunas o cualquier otro que requiera prescripción médica y consentimiento informado de las madres, padres o tutores;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+XIII. Suministrar a los educandos, medicamentos que contengan sustancias psicotrópicas o estupefacientes, vacunas o cualquier otro que requiera prescripción médica y consentimiento informado de las madres, padres, tutores o de quien ejerza la patria potestad;
 
 XIV. Promover en los educandos, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes;
 
 XV. Condicionar la incorporación o inscripción al servicio educativo público, las calificaciones o su permanencia en el mismo al pago, solicitando a los educandos, sus padres o tutores cuotas o aportaciones en efectivo o en especie;
 
-XVI. Expulsar, segregar o negarse a prestar el servicio educativo a personas con discapacidad o que presenten problemas de aprendizaje o condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos, o bien, presionar de cualquier manera a sus madres y padres de familia o tutores para que se los realicen, salvo causa debidamente justificada a juicio de las autoridades educativas;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+XVI. Expulsar, segregar o negarse a prestar el servicio educativo a personas con discapacidad o que presenten problemas de aprendizaje o condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos, o bien, presionar de cualquier manera a sus madres y padres de familia, a sus tutores o a quien ejerza la patria potestad para que se los realicen, salvo causa debidamente justificada a juicio de las autoridades educativas;
 
 XVII. Expulsar o suspender el servicio educativo a estudiantes de niveles educativos preescolar y primaria así como expulsar a estudiantes de nivel de educación secundaria;
 
@@ -2117,7 +2189,9 @@ XXVI. Disponer indebidamente de los bienes y recursos destinados a la educación
 
 XXVII. Retener los documentos escolares que acreditan oficialmente las calificaciones y el grado de estudios de los educandos;
 
-XXVIII. Difundir o transmitir datos personales sin consentimiento expreso de su titular o, en su caso, de la madre y padre de familia o tutor;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+XXVIII. Difundir o transmitir datos personales sin consentimiento expreso de su titular o, en su caso, de la madre y padre de familia, tutor o quien ejerza la patria potestad;
 
 XXIX. En el caso de particulares incorporados, no proporcionar el número de becas en los términos establecidos en esta Ley;
 
@@ -2380,3 +2454,31 @@ P.O. 27 DE NOVIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 506.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 507.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 508.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
