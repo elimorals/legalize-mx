@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-129830"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-17"
-last_updated: "2023-10-25"
+last_updated: "2023-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 17 de julio de 2018.
 
@@ -4417,11 +4417,23 @@ Para la apertura y funcionamiento de cualquier establecimiento en el que se pret
 
 En caso de que no se cuente con el referido equipamiento, infraestructura y demás elementos a que se refiere el párrafo anterior, el promotor podrá gestionarlo o implementarlo a su costa, conforme a lo que disponga la autoridad competente y considerando los estudios técnicos de impacto que arrojen la necesidad de medidas de remediación, mitigación o compensación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 280.
 
-Los establecimientos comerciales y de servicios, procurarán que sus estacionamientos sean gratuitos; en caso contrario, aquellos que pretendan cobrar por el ingreso y permanencia en los mismos, estarán obligados a:
+Los estacionamientos de vehículos de los establecimientos comerciales y de servicios serán gratuitos para las personas que adquieran bienes o servicios de dichos establecimientos.
 
-I. Otorgar a los usuarios cuando menos quince minutos de tolerancia gratuitos;
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+Solo podrá cobrarse por el uso de los estacionamientos de vehículos de los establecimientos comerciales y de servicios, cuando las personas usuarias no adquieran bienes o servicios de dichos establecimientos, y siempre y cuando se cuente con la concesión para la prestación del servicio público de estacionamiento de vehículos conforme a lo establecido en la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí, lo que dará lugar a exigir el pago de la tarifa establecida por la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+Los estacionamientos de vehículos de los establecimientos comerciales y de servicios deberán cumplir las disposiciones siguientes:
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+I. Otorgar a las personas usuarias, cuando menos, quince minutos de tolerancia para abandonar el estacionamiento antes de hacer efectivo el cobro de la tarifa que corresponda, cuando así proceda;
 
 > <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
 
@@ -7024,3 +7036,11 @@ P.O. 25 DE OCTUBRE DE 2023.
 PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0896.- SE REFORMA EL ARTÍCULO 280 EN SU PÁRRAFO PRIMERO Y EN SU FRACCIÓN I; Y ADICIONA AL MISMO ARTÍCULO 280 DOS PÁRRAFOS, ESTOS COMO PÁRRAFOS SEGUNDO Y TERCERO, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 141 EN SU FRACCIÓN IX; Y ADICIONA AL MISMO ARTÍCULO 141 UNA FRACCIÓN, ESTA COMO FRACCIÓN X, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
