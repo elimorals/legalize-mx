@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-asentamientos-humanos-ordenamiento-territorial-y-129946"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-16"
-last_updated: "2023-08-24"
+last_updated: "2023-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quinta Roo, el jueves 16 de agosto de 2018.
 
@@ -225,7 +225,7 @@ XXVII. Estrategia Estatal de Ordenamiento Territorial: Instrumento público de p
 
 [En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
-XXVIII. ESTUDIO DE IMPACTO URBANO: DOCUMENTO NECESARIO PARA LA OBTENCIÓN DEL DICTAMEN EN LA MATERIA, EN QUE SE EXPONEN Y EVALÚAN LA MAGNITUD DE IMPACTOS O ALTERACIONES QUE CAUSE O PUEDA CAUSAR UNA ACCIÓN URBANÍSTICA, PÚBLICA O PRIVADA, CONTEMPLADAS EN ESTA LEY, QUE POR SU UBICACIÓN, FUNCIONAMIENTO, COMPLEJIDAD O MAGNITUD AFECTE A LA INFRAESTRUCTURA, A LOS SERVICIOS PÚBLICOS DEL ÁREA; EL ESPACIO, LA IMAGEN Y PAISAJE URBANOS O LA ESTRUCTURA SOCIOECONÓMICA; SIGNIFIQUE UN RIESGO PARA LA VIDA, LA SALUD O LOS BIENES DE LA COMUNIDAD, IMPLIQUE SU DESPLAZAMIENTO O EXPULSIÓN PAULATINA; O, DETERMINE UNA AFECTACIÓN PARA EL PATRIMONIO CULTURAL DEL CENTRO DE POBLACIÓN, INCLUYENDO LAS CONDICIONES Y MEDIDAS PARA EVITAR, REDUCIR O COMPENSAR LOS EFECTOS NEGATIVOS SOBRE EL DESARROLLO URBANO;
+XXVIII. ESTUDIO DE IMPACTO URBANO: DOCUMENTO NECESARIO PARA LA OBTENCIÓN DEL DICTAMEN EN LA MATERIA, EN QUE SE EXPONEN Y EVALÚAN LA MAGNITUD DE IMPACTOS O ALTERACIONES QUE CAUSE O PUEDA CAUSAR UNA ACCIÓN URBANÍSTICA, PÚBLICA O PRIVADA, CONTEMPLADAS EN ESTA LEY, QUE POR SU UBICACIÓN, FUNCIONAMIENTO, COMPLEJIDAD O MAGNITUD AFECTE A LA INFRAESTRUCTURA, A LOS SERVICIOS PÚBLICOS DEL ÁREA; EL ESPACIO, LA IMAGEN Y PAISAJE URBANOS O LA ESTRUCTURA SOCIOECONÓMICA; SIGNIFIQUE UN RIESGO PARA LA VIDA, LA SALUD O LOS BIENES DE LA COMUNIDAD, IMPLIQUE SU DESPLAZAMIENTO O EXPULSIÓN PAULATINA; O, DETERMINE UNA AFECTACIÓN PARA EL PATRIMONIO CULTURAL DEL CENTRO DE POBLACIÓN, INCLUYENDO LAS CONDICIONES Y MEDIDAS PARA EVITAR, REDUCIR O COMPENSAR LOS EFECTOS NEGATIVOS SOBRE EL DESARROLLO URBANO
 
 XXIX. Fraccionamiento: Modalidad en la ejecución de una acción urbanística que tiene por objeto el uso o aprovechamiento de un área o predio, y que consiste en una división de predios en lotes o fracciones, que implique la apertura de una o más vías públicas con servicios de agua potable, drenaje sanitario, electrificación y vialidades, así como la previsión de equipamientos y espacio público;
 
@@ -519,9 +519,17 @@ VI. Integrar, priorizar y proponer al Ayuntamiento, los proyectos estratégicos 
 
 VII. Aportar los elementos técnicos para la elaboración de la propuesta de presupuesto de inversión para el desarrollo urbano del Municipio y opinar sobre la correspondiente al desarrollo municipal;
 
-VIII. Promover y participar en la integración del Observatorio Municipal de Desarrollo Urbano y su sistema de información geográfica e indicadores de desarrollo, y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-IX. Las demás funciones que determinen los Ayuntamientos.
+VIII. Promover y participar en la integración del Observatorio Municipal de Desarrollo Urbano y su sistema de información geográfica e indicadores de desarrollo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+IX. Promover la participación social en las materias a que se refiere este ordenamiento, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+X. Las demás funciones que determinen los Ayuntamientos.
 
 Los reglamentos y demás disposiciones municipales establecerán las normas y lineamientos particulares para la integración, operación y funcionamiento de los Institutos Municipales de Planeación.
 
@@ -559,25 +567,37 @@ VIII. La participación en los procesos de los observatorios ciudadanos.
 
 ### Capítulo Segundo. De los Derechos y Obligaciones de los Ciudadanos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 19.
 
-Constituye un derecho de las personas obtener información gratuita, oportuna, veraz, pertinente, completa y en formatos abiertos de las disposiciones de planeación urbana y zonificación que regulan el aprovechamiento en los centros de población.
+Constituye un derecho de las personas obtener información gratuita, oportuna, veraz, pertinente, completa y en formatos abiertos de las disposiciones a las que se refiere la presente Ley.
 
 Las autoridades de gobierno tienen la obligación de informar con oportunidad y veracidad de tales disposiciones, así como de reconocer y respetar las formas de organización social, de conformidad con la legislación correspondiente aplicable en materia de transparencia y acceso a la información pública.
 
 Por su parte, es obligación de las autoridades difundir y poner a disposición para su consulta en medios electrónicos y físicos la información relativa a los instrumentos de planeación y desarrollo urbano mencionados en el artículo 31 de esta ley, así como los datos relativos a las autorizaciones, inversiones y proyectos en la materia, resguardando en su caso los datos personales protegidos por las leyes correspondientes.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+De igual forma, las autoridades de gobierno, propiciarán la difusión, a través de todos los medios a su alcance, de las actividades que realicen para el cumplimiento de las disposiciones a las que se refiere la presente Ley, especialmente en lo que hace, a la divulgación de los mecanismos de participación ciudadana correspondientes.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 20.
 
-Las autoridades estatales y municipales de planeación, en colaboración con los organismos de transparencia y acceso a la información, generarán políticas o programas para brindar información, en medios físicos y electrónicos, relacionados con las autorizaciones, permisos y licencias de las acciones urbanísticas en que intervengan, en su caso, salvaguardando los datos personales que procedan.
+Las autoridades estatales y municipales de planeación, en colaboración con los organismos de transparencia y acceso a la información, generarán políticas o programas para brindar información, en medios físicos y electrónicos, relacionados con las autorizaciones, permisos y licencias de las acciones urbanísticas en que intervengan, en su caso, salvaguardando los datos personales que procedan, así como de las demás acciones que se realicen para el cumplimiento de las obligaciones que se deriven de la presente Ley, especialmente en lo que hace, a la divulgación de los mecanismos de participación ciudadana correspondientes.
 
 ###### Artículo 21.
 
 La participación social en el proceso de planeación de los asentamientos humanos, el desarrollo urbano y el ordenamiento del territorio es un derecho y una obligación ciudadana, puede darse en forma personal, en grupo o asociación, de manera directa o a través de los Consejos Consultivos.
 
-Los ciudadanos tienen el derecho de reunirse y organizarse para la representación y defensa de sus intereses en las formas lícitas que la ley establece.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-La participación ciudadana podrá desarrollarse mediante el ejercicio del derecho de petición en los términos constitucionales, la denuncia pública a que se refiere el artículo 23 de esta ley y la intervención, consulta y opinión en los procesos de planeación urbana.
+La ciudadanía tiene el derecho de reunirse y organizarse para la representación y defensa de sus intereses en las formas lícitas que la ley establece.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+La participación ciudadana podrá desarrollarse mediante el ejercicio del derecho de petición en los términos constitucionales, la denuncia pública a que se refiere el artículo 23 de esta ley y la intervención, consulta y opinión en los procesos de planeación urbana, así como los demás a los que se refiere la presente Ley, sin menoscabo de las demás disposiciones que resulten aplicables.
 
 ###### Artículo 22.
 
@@ -585,21 +605,31 @@ El Estado y los Municipios promoverán la participación social y ciudadana en t
 
 I. Convocarán a representantes de los sectores social y privado para que manifiesten su opinión y propuestas en materia de planeación del ordenamiento territorial, desarrollo urbano y desarrollo metropolitano;
 
-II. Celebrarán convenios de concertación con los sectores a que se refiere la fracción anterior, para promover el desarrollo urbano del Estado;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-III. Promoverán la participación responsable e informada de los diversos medios de comunicación masiva en la difusión, información y promoción de acciones en materia de desarrollo urbano y ordenamiento territorial;
+II. Celebrarán convenios de concertación con los sectores a que se refiere la fracción anterior, para promover el desarrollo urbano, ordenamiento territorial y desarrollo metropolitano del Estado;
 
-IV. Podrán solicitar la opinión de las instituciones académicas y de profesionistas en las diversas materias que inciden en el desarrollo urbano, a fin de enriquecer los instrumentos a que se refiere esta ley;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-V. Promoverán la constitución de agrupaciones comunitarias que participen en el desarrollo urbano de los centros de población, bajo cualquier forma de organización prevista por la ley, y
+III. Promoverán la participación responsable e informada de los diversos medios de comunicación masiva en la difusión, información y promoción de acciones en materia de desarrollo urbano ordenamiento territorial y desarrollo metropolitano;
 
-VI. Diseñarán programas de promoción y participación conjunta con los colegios de profesionistas, cámaras y asociaciones de profesionistas en el estado que tengan relación con el desarrollo urbano.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+IV. Podrán solicitar la opinión de las instituciones académicas y de profesionistas en las diversas materias que inciden en el desarrollo urbano, ordenamiento territorial y desarrollo metropolitano a fin de enriquecer los instrumentos a que se refiere esta ley;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+V. Promoverán la constitución de agrupaciones comunitarias que participen en el desarrollo urbano, ordenamiento territorial y desarrollo metropolitano de los centros de población, bajo cualquier forma de organización prevista por la ley, y
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+VI. Diseñarán programas de promoción y participación conjunta con los colegios de profesionistas, cámaras y asociaciones de profesionistas en el estado que tengan relación con el desarrollo urbano, ordenamiento territorial y desarrollo metropolitano.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 23.
 
-Cuando se estén realizando actos u omisiones que contravengan esta ley, sus reglamentos, o los programas de desarrollo urbano, cualquier ciudadano podrá denunciarlo ante la autoridad estatal o municipal competente.
+Cuando se estén realizando actos u omisiones que contravengan esta ley, sus reglamentos, o los programas de desarrollo urbano, cualquier persona podrá denunciarlo ante la autoridad estatal o municipal competente.
 
 ### Capítulo Tercero. De los Órganos de Participación Social y Ciudadana
 
@@ -625,27 +655,29 @@ El Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano, es un órgan
 
 El Consejo Estatal sesionará de manera ordinaria una vez cada seis meses y de manera extraordinaria cuando resulte necesario a convocatoria hecha por su Presidente.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 26.
 
 El Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano se integrará por:
 
-I. Una Presidencia que recaerá en el titular de la Secretaría;
+I. Una Presidencia, que recaerá en las personas titulares de la Secretaría;
 
-II. Un Secretario Técnico, que será designado por el Presidente del Consejo Estatal (o será designado por votación);
+II. Una persona Secretaria Técnica, que será designada por la persona titular de la Presidencia del Consejo Estatal (o será designada por votación);
 
-III. Los Ayuntamientos, que estarán representados por el Presidente Municipal o por el titular de la dependencia municipal relacionada con el ordenamiento territorial y el desarrollo urbano;
+III. Los Ayuntamientos, que estarán representados por la persona titular de la presidencia Municipal o por la persona titular de la dependencia municipal relacionada con el ordenamiento territorial y el desarrollo urbano;
 
-IV. Un Secretario de Actas y Acuerdos, que será designado por el Presidente;
+IV. Una persona Secretaria de Actas y Acuerdos, que será designada por la persona titular de la presidencia municipal.
 
-V. Los Vocales, que no serán menos de quince y un máximo de cuarenta y ocho, entre los que se incluirá un representante de las dependencias y entidades de la administración pública federal y estatal relacionadas con el ordenamiento territorial; representantes de los centros de investigación y educación superior, cámaras empresariales, colegios de profesionistas, prestadores de servicios inmobiliarios, asociaciones y organizaciones de los sectores social y privado que, a juicio del Titular de la Secretaría, deban integrarse al Consejo Estatal, en virtud de que sus actividades incidan en el desarrollo urbano y ordenamiento territorial o se vinculen con estos.
+V. Las personas Vocales, que no serán menos de quince y un máximo de cuarenta y ocho, entre los que se incluirá a una persona representante de las dependencias y entidades de la administración pública federal y estatal relacionadas con el ordenamiento territorial; representantes de los centros de investigación y educación superior, cámaras empresariales, colegios de profesionistas, prestadores de servicios inmobiliarios, asociaciones y organizaciones de los sectores social y privado que, a juicio de la persona Titular de la Secretaría, deban integrarse al Consejo Estatal, en virtud de que sus actividades incidan en el desarrollo urbano y ordenamiento territorial o se vinculen con éstos.
 
-Adicionalmente podrán solicitar su inclusión como miembros del Consejo, asociaciones y organizaciones de los sectores social y privado, misma que deberá de ser votada para aceptar o negar su incorporación. En todo caso, se deberá asegurar una mayoría de representantes ciudadanos en la composición del mismo en relación al número de representantes del Gobierno del Estado. El Consejo Estatal deberá convocarse cuando así lo determine el Pleno, el Presidente o a solicitud de una tercera parte de sus miembros.
+Adicionalmente podrán solicitar su inclusión como integrantes del Consejo, asociaciones y organizaciones de los sectores social y privado, misma que deberá de ser votada para aceptar o negar su incorporación. En todo caso, se deberá asegurar una mayoría de representantes de la ciudadanía en la composición del mismo en relación al número de representantes del Gobierno del Estado. El Consejo Estatal deberá convocarse cuando así lo determine el Pleno, la persona titular de la presidencia o a solicitud de una tercera parte de sus integrantes.
 
-Las resoluciones del Consejo Estatal se tomarán por mayoria simple, y en caso de empate quien presida la sesión tendrá voto de calidad.
+Para su instalación, así como para la inclusión de nuevas personas integrantes, incluyendo la sustitución o expulsión de personas que anteriormente hubieren sido incluidas, tratándose de personas representantes de la ciudadanía, deberá realizarse una convocatoria pública, la cual, se difundirá ampliamente por todos los medios de comunicación posibles, al menos con 15 días de anticipación, a efecto de propiciar la participación de la ciudadanía en general, requiriéndose la justificación de las razones para la aceptación o negación de las propuestas a las que se refiere el párrafo anterior.
 
-Las ausencias del Presidente del Consejo Estatal serán suplidas por el Secretario Técnico o su suplente.
+Las resoluciones del Consejo Estatal se tomarán por mayoría simple, y en caso de empate quien presida la sesión tendrá voto de calidad.
+
+Las ausencias de la persona titular del Consejo Estatal serán suplidas por la persona titular de la Secretaría Técnica o su suplente.
 
 El desempeño de los cargos a que se refiere este artículo, será de carácter honorífico.
 
@@ -667,9 +699,9 @@ IV. Promover la capacitación técnica sobre ordenamiento territorial y desarrol
 
 V. Analizar las proposiciones que le formule la comunidad respecto de materias o acciones concernientes al ordenamiento territorial y el desarrollo urbano y hacerlas llegar, con su opinión, a las autoridades competentes;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-VI. Promover la difusión entre la comunidad de temas e información relativos al ordenamiento territorial y desarrollo urbano del Estado;
+VI. Promover la difusión entre la comunidad de temas e información relativos al ordenamiento territorial y desarrollo urbano del Estado, así como la participación social en las materias a que se refiere este ordenamiento;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE AGOSTO DE 2023)</small>
 
@@ -687,33 +719,27 @@ Será responsabilidad de la Secretaría proveer de información oportuna y veraz
 
 Los Municipios del Estado deberán contar con un órgano de opinión y consulta en materia de planeación y desarrollo urbano denominado Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 29.
 
 Los Consejos Municipales de Ordenamiento Territorial y Desarrollo Urbano se integrarán por:
 
-I. Un Presidente, que será el Presidente Municipal que corresponda;
+I. Una persona Presidente, que será la persona que ocupe la Presidencia Municipal que corresponda.
 
-II. Un Secretario Técnico, que será el titular de la dependencia del Ayuntamiento a cargo de las funciones relacionadas con el desarrollo urbano;
+II. Una persona Secretaria Técnica, que será la persona titular de la dependencia del Ayuntamiento a cargo de las funciones relacionadas con el desarrollo urbano.
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+III. Una persona Secretaria de Actas y Acuerdos, que será designada por la persona titular de la Presidencia o su suplente.
 
-III. Un Secretario de Actas y Acuerdos, que será designado por el Presidente o su suplente, y
+IV. Las personas Vocales, que no serán menos de diez y un máximo que determine el municipio correspondiente, entre las que se incluirá una persona representante de las dependencias y entidades de la administración pública federal, estatal y municipal relacionadas con el desarrollo urbano, medio ambiente y ordenamiento territorial; y, no más de una persona representante de los colegios de profesionistas municipales, cámaras empresariales, prestadores de servicios inmobiliarios, asociaciones y organizaciones de los sectores social y privado que, a juicio de la persona titular de la presidencia, deban integrarse en virtud de que sus actividades incidan en el desarrollo urbano y ordenamiento territorial o se vinculen con éstos.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE AGOSTO DE 2023)</small>
+Adicionalmente sin exceder el máximo que determine el municipio correspondiente podrán solicitar su inclusión como personas integrantes de los Consejos Municipales de Ordenamiento Territorial y Desarrollo Urbano, asociaciones y organizaciones de los sectores social y privado, misma que deberá de ser votada para aceptar o negar su incorporación. En todo caso se deberá asegurar una mayoría de personas representantes de la ciudadanía en la composición del mismo.
 
-IV. Los Vocales, que no serán menos de diez y un máximo que determine el municipio correspondiente, entre en lo que se incluirá un representante de las dependencias y entidades de la administración pública federal, estatal y municipal relacionadas con el desarrollo urbano, medio ambiente y ordenamiento territorial; y, no más de un representante de los colegios de profesionistas municipales, cámaras empresariales, prestadores de servicios inmobiliarios, asociaciones y organizaciones de los sectores social y privado que, a juicio del Presidente, deban integrarse en virtud de que sus actividades incidan en el desarrollo urbano y ordenamiento territorial o se vinculen con éstos.
+Para su instalación, así como para la inclusión de nuevas personas integrantes, incluyendo la sustitución o expulsión de personas que anteriormente hubieren sido incluidas, tratándose de personas representantes de la ciudadanía, deberá realizarse una convocatoria pública, la cual, se difundirá ampliamente por todos los medios de comunicación posibles, al menos con 15 días de anticipación, a efecto de propiciar la participación de la ciudadanía en general, requiriéndose la justificación de las razones para la aceptación o negación de las propuestas a las que se refiere el párrafo anterior.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+Las personas consejeras que integran los Consejos Municipales de Ordenamiento Territorial y Desarrollo Urbano contarán con voz y voto para determinar el consenso de su criterio, su participación será a título de colaboración ciudadana y su desempeño tendrá el carácter honorífico, por lo que no percibirán remuneración alguna por el ejercicio de sus funciones, ni serán consideradas personas servidoras públicas ni autoridades. Las ausencias de la persona titular de la presidencia, serán suplidas por la persona suplente, de preferencia la persona titular de la dependencia del Ayuntamiento a cargo de las funciones de planeación urbana.
 
-Adicionalmente sin exceder el máximo que determine el municipio correspondiente, podrán solicitar su inclusión como miembros de los Consejos Municipales de Ordenamiento Territorial y Desarrollo Urbano, asociaciones y organizaciones de los sectores social y privado, misma que deberá de ser votada para aceptar o negar su incorporación. En todo caso se deberá asegurar una mayoría de representantes ciudadanos en la composición del mismo.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
-
-Los consejeros que integran los Consejos Municipales de Ordenamiento Territorial, y Desarrollo Urbano contarán con voz y voto para determinar el consenso de su criterio, su participación será a título de colaboración ciudadana y su desempeño tendrá el carácter honorífico, por lo que no percibirán remuneración alguna por el ejercicio de sus funciones, ni serán considerados servidores públicos ni autoridades. Las ausencias del Presidente, serán suplidas por el suplente de preferencia el titular de la dependencia del Ayuntamiento a cargo de las funciones de planeación urbana.
-
-Sesionarán previa convocatoria del Presidente cuando menos una vez cada cuatro meses, efectuando como mínimo tres sesiones ordinarias al año y las extraordinarias que sean necesarias, cuando así lo solicite el Presidente o una tercera parte de sus miembros.
+Sesionarán previa convocatoria de la persona que ocupe la Presidencia cuando menos una vez cada cuatro meses, efectuando como mínimo tres sesiones ordinarias al año y las extraordinarias que sean necesarias, cuando así lo solicite la persona titular de la presidencia o una tercera parte de sus integrantes.
 
 Sus resoluciones se tomarán por mayoría simple, y en caso de empate quien presida la sesión tendrá voto de calidad.
 
@@ -725,7 +751,9 @@ Los Consejos Municipales de Ordenamiento Territorial y Desarrollo Urbano tendrá
 
 I. Opinar, emitir recomendaciones y coadyuvar en los procesos de consulta convocados a fin de elaborar, evaluar, modificar y actualizar los programas y acciones que se deriven del ordenamiento territorial en el Municipio, incluyendo aquellas relativas a proyectos de movilidad, preservación ecológica, remodelación urbana, mejoramiento de barrios y rescate y revitalización del espacio público;
 
-II. Promover la participación ciudadana en la formulación, actualización y seguimiento de los instrumentos de planeación de las distintas localidades del Municipio, incluyendo el mejoramiento de barrios y colonias, así como el rescate, ampliación y conservación del espacio público;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+II. Promover la participación social en las materias a que se refiere este ordenamiento, especialmente en lo que hace a la formulación, actualización y seguimiento de los instrumentos de planeación de las distintas localidades del Municipio, incluyendo el mejoramiento de barrios y colonias, así como el rescate, ampliación y conservación del espacio público;
 
 III. Opinar y emitir recomendaciones a las autoridades responsables o al Consejo Estatal, acerca de las demandas, propuestas, quejas y denuncias en la materia, de las distintas localidades del Municipio que presenten sus habitantes;
 
@@ -1289,13 +1317,13 @@ I. El Municipio dará aviso público del inicio del proceso de planeación, por 
 
 II. El Consejo Municipal hará talleres y/o mesas de trabajo con participación ciudadana, así como podrán acudir los grupos organizados de la sociedad a quienes corresponda participar de acuerdo al área de aplicación o de las acciones urbanísticas propuestas;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-III. El Consejo Municipal establecerá un plazo y un calendario, no menor a 15 días hábiles, sobre la información relativa al proyecto del programa y audiencias o consultas públicas para que los interesados presenten por escrito los planteamientos que consideren respecto del proyecto del programa de desarrollo urbano, actualización o de sus modificaciones. Los escritos deberán dar respuesta si es procedente o no a las observaciones; esta respuesta debe estar fundamentada en caso negativo. Dichas reuniones promoverán el mayor consenso entre la sociedad y gobierno sobre los contenidos y propuestas del programa;
+III. El Consejo Municipal establecerá un plazo y un calendario, no menor a 15 días hábiles, sobre la información relativa al proyecto del programa y audiencias o consultas públicas para que las personas interesadas presenten por escrito los planteamientos que consideren respecto del proyecto del programa de desarrollo urbano, actualización o de sus modificaciones, debiendo difundirlo a través de los medios a su alcance. Los escritos deberán dar respuesta si es procedente o no ala (sic) observaciones; esta respuesta debe estar fundamentada en caso negativo. Dichas reuniones promoverán el mayor consenso entre la sociedad y gobierno sobre los contenidos y propuestas del programa;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-IV. El Presidente Municipal, a través de la dependencia municipal relacionada con el ordenamiento territorial y el desarrollo urbano, establecerá un recinto en las que se exponga y distribuya la información relativa al programa y en la que se puedan realizar talleres y consultas requeridas por los ciudadanos;
+IV. La persona titular de la Presidencia Municipal a través de la dependencia municipal relacionada con el ordenamiento territorial y el desarrollo urbano, establecerá un recinto en las que se exponga y distribuya la información relativa al programa y en la que se puedan realizar talleres y consultas requeridas por la ciudadanía;
 
 V. Los comentarios y aportaciones procedentes se integrarán al proyecto de programa municipal y se remitirá a la Secretaría para efectos de lo dispuesto en el artículo 67 de esta ley;
 
@@ -1307,7 +1335,9 @@ VI. La Secretaría, deberán (sic) comunicar sus comentarios y resoluciones por 
 
 VII. Recibidas las observaciones se integrará el proyecto definitivo del programa y se someterá a la consideración del Cabildo del Ayuntamiento para su aprobación por mayoría simple, y
 
-VIII. Aprobado el programa por el Ayuntamiento, el Presidente Municipal solicitará su publicación y registro, conforme a las disposiciones de esta ley.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+VIII. Aprobado el programa por el Ayuntamiento, la persona titular de la Presidencia Municipal solicitará su publicación y registro, conforme a las disposiciones de esta ley.
 
 ### Capítulo Décimo. De la Modificación de los Programas Municipales
 
@@ -3440,3 +3470,15 @@ QUINTO. El Ejecutivo del Estado y los Municipios contarán con un plazo de un a�
 SEXTO. Durante el Ejercicio Fiscal de 2023, los derechos establecidos en la Ley de Hacienda del Estado de Quintana Roo, por concepto de Constancia de Compatibilidad Territorial, serán aplicables a las Constancias de Congruencia Urbanística Estatal y al Dictamen de Impacto Urbanístico, a que se refiere esta Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo.
 
 SÉPTIMO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 134 POR EL QUE SE REFORMAN LAS FRACCIONES VIII Y IX DEL ARTÍCULO 15; EL PRIMER PÁRRAFO DEL ARTÍCULO 19; EL ARTÍCULO 20; EL SEGUNDO Y TERCER PÁRRAFO DEL ARTÍCULO 21; LAS FRACCIONES II, III, IV, V, Y VI DEL ARTÍCULO 22; EL ARTÍCULO 23; EL ARTÍCULO 26; LA FRACCIÓN VI DEL ARTÍCULO 27; EL ARTÍCULO 29; LA FRACCIÓN II DEL ARTÍCULO 30; LAS FRACCIONES III, IV Y VIII DEL ARTÍCULO 63; Y SE ADICIONAN LA FRACCIÓN X AL ARTÍCULO 15; UN ÚLTIMO PÁRRAFO AL ARTÍCULO 19, TODOS DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. Dentro de los 90 días naturales siguientes a la publicación del presente Decreto, el Poder Ejecutivo del Estado, deberán realizar las adecuaciones que correspondan a la reglamentación aplicable, a efecto de dar cumplimiento a su contenido.
+
+CUARTO. Dentro de los 60 días naturales siguientes a la publicación de las modificaciones a las disposiciones reglamentarias a las que se refiere el artículo anterior, los Ayuntamientos del Estado, realizarán las adecuaciones o adiciones reglamentarias que correspondan a su normatividad aplicable, a efecto de dar cumplimiento a lo establecido por el presente Decreto.
