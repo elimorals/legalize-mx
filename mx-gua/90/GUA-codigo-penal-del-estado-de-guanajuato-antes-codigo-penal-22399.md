@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2023-11-15"
+last_updated: "2023-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -1538,6 +1538,10 @@ VI.- Se cometan en agravio de periodistas, de su cónyuge o de sus parientes en 
 > <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
 
 VII.- Se causen por la asistencia y con motivo de la realización de un espectáculo público, bien sea con inmediatez previa a su desarrollo, durante éste o con posterioridad inmediata al mismo.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+VIII.- Se cometan dolosamente en contra de un menor de dieciocho años de edad.
 
 > <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2017)</small>
 
@@ -4464,3 +4468,9 @@ P.O. 15 DE NOVIEMBRE DE 2023.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de su inicio.
+
+P.O. 18 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 241, MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 153 DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
