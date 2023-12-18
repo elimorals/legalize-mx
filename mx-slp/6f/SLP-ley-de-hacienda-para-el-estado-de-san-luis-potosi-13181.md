@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2022-04-22"
+last_updated: "2023-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -773,25 +773,97 @@ V. Deberán remitir tal y como se realiza ante el Servicio de Administración Tr
 
 Las autoridades fiscales, podrán determinar la cantidad del impuesto que deben pagar los contribuyentes, mediante el ejercicio de sus facultades de comprobación; incluso, en forma presuntiva, en términos del Código Fiscal del Estado.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-### CAPITULO VI. IMPUESTO ESTATAL SOBRE TENENCIA O USO DE VEHICULOS
+### CAPITULO VI. IMPUESTOS ECOLOGICOS
 
-ARTICULO 36 BIS. (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-ARTICULO 36 TER. (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
+#### SECCION PRIMERA. PREVISIONES GENERALES
 
-ARTICULO 36 QUATER. (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-ARTICULO 36 QUINQUE. (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
+ARTICULO 36 BIS. Los impuestos ecológicos o ambientales son aquellos que recaen sobre bienes o servicios contaminantes, su función fundamental consiste en incentivar el cuidado y protección del ambiente, mediante las tasas impositivas aplicables a los productores y consumidores que se materializan en un comportamiento más amigable y consiente de su entorno.
 
-ARTICULO 36 SEXTIES. (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-ARTICULO 36 SEPTIES. (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
+ARTICULO 36 TER. En materia de impuestos ecológicos se entenderá como:
 
-ARTICULO 36 OCTIES. (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
+I. Base gravable: Monto gravable sobre el cual se determina el pago del impuesto;
 
-ARTICULO 36 NONIES. (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
+II. Cedula de Operación: Reporte de las emisiones y transferencias de las fuentes fijas de compuestos y gases efecto invernadero.
+
+III. Código: Código Fiscal del Estado de San Luis Potosí.
+
+IV. Emisión: La descarga directa o indirecta a la atmósfera de toda sustancia o energía incluyendo, pero no limitándose a olores, partículas, vapores, gases o cualquiera de sus combinaciones.
+
+V. Estado: Territorio en el que es aplicable esta Ley y su delimitación territorial conforme a lo establecido en la Constitución Política del Estado Libre y Soberano de San Luis Potosí;
+
+VI. Fuentes fijas: Son las fuentes industriales estacionarias que generan emisiones desde puntos estacionarios (por ejemplo, chimeneas o respiraderos);
+
+VII. Ley de Hacienda: Ley de Hacienda para el Estado de San Luis Potosí;
+
+VIII. Objeto: Actividad o cosa que la Ley de Hacienda señala como el motivo del gravamen, de tal manera que se considera como hecho generador del impuesto;
+
+IX. Secretaría de Ecología y Gestión Ambiental: La Secretaría encargada de la formulación, ejecución y evaluación de la política en materia de conservación ecológica, biodiversidad y protección al medio ambiente en el Estado;
+
+X. Secretaría: La Secretaría de Finanzas del Poder Ejecutivo del Estado de San Luis Potosí, y
+
+XI. Sujeto o sujetos: Las Personas físicas, personas morales y cualquier entidad o unidad económica, la Federación, el Estado y los Municipios, los organismos descentralizados federales, estatales y municipales, las empresas de participación estatal mayoritaria de carácter federal y estatal, las empresas de participación municipal mayoritaria, los fideicomisos constituidos por dependencias y entidades de la Administración Pública Federal, por el Estado y por los municipios, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado que conforme a la ley se encuentren ubicadas en las hipótesis normativas como obligadas al pago de contribuciones.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+#### SECCION SEGUNDA. IMPUESTO POR LA EMISION DE GASES CONTAMINANTES A LA ATMOSFERA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 36 QUATER. Son objeto de este impuesto las emisiones a la atmósfera de determinadas sustancias contaminantes generadas en los procesos productivos que se desarrollen en el Estado y que afecten el territorio del mismo.
+
+Para los efectos de este impuesto se considera emisión a la atmósfera la expulsión directa o indirecta de bióxido de carbono, metano, óxido nitroso, hidrofluoro-carbonos, perfluoro-carbonos y hexafluoruro de azufre, ya sea unitariamente o de cualquier combinación de ellos que afecten la calidad del aire, los componentes de la atmósfera y que constituyen gases de efecto invernadero que impactan en deterioro ambiental por provocar calentamiento global.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 36 QUINQUE. Son sujetos y están obligados al pago de este impuesto, las personas físicas y morales, entidades o unidades económicas residentes en el Estado o los residentes fuera del Estado, que tengan instalaciones o fuentes fijas en las que se desarrollen las actividades que determinan las emisiones a la atmósfera gravadas por este impuesto dentro del Estado y su delimitación territorial.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 36 SEXTIES. La base de este impuesto es la cuantía de carga contaminante de las emisiones gravadas que se realicen desde la o las instalaciones o fuentes fijas expresadas en toneladas.
+
+Para la determinación de la base gravable, el contribuyente realizará mediante medición o estimación directa de las emisiones que genere y, en su caso, se tomará como referencia el último Registro de Emisiones y Transferencias de Contaminantes (RETC) de la Secretaría del Medio Ambiente y Recursos Naturales del Gobierno Federal, así como de los reportes de emisiones presentados por las fuentes fijas de jurisdicción Estatal a través de la Cedula de Operación Anual (COA) a la Secretaría de Ecología y Gestión Ambiental.
+
+Para la determinación de las toneladas emitidas, el contribuyente realizará la conversión de los gases establecidos en el artículo 36 QUATER, en bióxido de carbono (CO2), multiplicando la tonelada del tipo de gas emitido por el factor relacionado conforme a la tabla siguiente:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 18 DE DICIEMBRE DE 2023, PÁGINA 35.]</small>
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 36 SEPTIES. El impuesto a que se refiere esta sección se causará en el momento que los contribuyentes realicen emisiones a la atmósfera, gravadas por este impuesto que afecten en el Estado y en su demarcación territorial, aplicando una cuota impositiva por el equivalente (sic) 3 UMA por tonelada emitida de bióxido de carbono o la conversión del mismo, establecida en el artículo anterior.
+
+El Poder Ejecutivo del Estado a través de la Secretaría de Finanzas, podrá otorgar estímulos fiscales en forma general a sectores de contribuyentes, con el objetivo de incentivar la recaudación, promover la creación de empleos o el desarrollo económico del Estado, la innovación tecnológica y el uso de energías limpias.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 36 OCTIES. Los contribuyentes realizarán a cuenta de este impuesto, pagos provisionales mensuales que se presentarán a más tardar el día 17 del mes siguiente a que realicen u ocurran las actividades a que se refiere el artículo 36 QUATER, mediante declaración que presentarán en los formularios que para esos efectos publique la Secretaría.
+
+Asimismo, se deberá presentar una declaración anual por este impuesto a más tardar el último día hábil del mes de marzo del siguiente año del ejercicio de que se trate, en la que se podrán acreditar los pagos provisionales mensuales efectivamente pagados de este impuesto del ejercicio que corresponda.
+
+Lo anterior se establece, sin perjuicio de las multas, responsabilidades o sanciones que establezcan las disposiciones jurídicas aplicables en materia de equilibrio ecológico y protección al ambiente, u otras responsabilidades penales, civiles o administrativas y demás disposiciones que resulten aplicables por el riesgo de pérdida de vida humana, así mismo por deterioro que causa a la salud pública y el daño al ambiente.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 36 NONIES. Los contribuyentes de este impuesto estarán obligados a presentar el aviso de inscripción ante la Secretaría y contar con una bitácora con los registros de las Cédulas de Operación Mensual, que estará a disposición de la Secretaría y de la Secretaría de Ecología y Gestión Ambiental, para efectos de la gestión del mismo y como medio de control, vigilancia y seguimiento del cumplimiento de la normativa medioambiental.
+
+La Cedula de Operación Mensual deberá contener los siguientes datos:
+
+I. Volumen y tipología del combustible, así como materias primas consumidas y/o producidas;
+
+II. Composición química básica del combustible consumido y/o producido;
+
+III. Cálculo de las emisiones a la atmósfera realizado en cumplimiento de lo dispuesto en la presente Ley;
+
+IV. En su caso, datos de concentración resultantes de los monitores o mecanismos de control o de medición instalados; y
+
+V. Cualquier otro que se establezca mediante publicación reglamentaria por parte de la Secretaría o de la Secretaría (sic) Ecología y Gestión Ambiental.
 
 ### CAPITULO I. SERVICIOS PRESTADOS POR LA SECRETARIA GENERAL DE GOBIERNO
 
@@ -1605,7 +1677,7 @@ IV. Cuando se trate de reposición de licencias o permisos a que se refiere este
 
 V. Se exentará del pago de la reposición de la licencia permanente en los siguientes casos:
 
-a) La persona que acredite el robo de la misma con la denuncia ratificada correspondiente ante la Fiscalía General del Estado, y
+a) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2023)
 
 b) La pérdida ocasionada por desastres naturales, éstos siempre y cuando hayan sido emitidos por la autoridad mediante la declaratoria de desastres naturales correspondiente.
 
@@ -2443,31 +2515,9 @@ Los comprobantes de pago que se expidan en dichas casetas serán idóneos para a
 
 La recaudación obtenida en términos del presente artículo se destinará en su totalidad, en primer lugar, al mantenimiento y operación de cada carretera; después, a cubrir hasta su total extinción los financiamientos, adeudos y compromisos contraídos por el Estado con fuente de pago y/o garantía fiduciaria de dichos recursos; y, por último, al gasto público del Estado con sujeción a las leyes aplicables. Al efecto, cada año se harán las previsiones presupuestales correspondientes.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-ARTICULO 93 TER. Las personas que hagan uso del estacionamiento en los que forman parte de los bienes del Estado, cubrirán los derechos establecidos en pesos, previstos en el presente artículo, por vehículo:
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-ESTACIONAMIENTOS FUNDADORES EJE VIAL MADERO
-
-Hora o fracción $20.00 $15.00 $15.00
-
-Exclusivo mensual $2,000.00 $900.00 $900.00
-
-Pensión nocturna diaria --- $50.00 $50.00
-
-Pensión nocturna mensual $500.00 $500.00 $500.00
-
-Pensión vespertina --- $400.00 $400.00
-
-Exclusivo mensual 24 hrs. --- $500.00 ---
-
-Niveles 7 y 8
-
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-Por lo que respecta al estacionamiento Plan de San Luis, la tarifa aplicable será de $5.50 durante todo el tiempo en que el vehículo permanezca en el estacionamiento en un horario de 8:00 a 15:00 horas. El exclusivo será de $350.00 mensual.
+ARTICULO 93 TER. Los derechos se cobrarán conforme a los conceptos y las cuotas establecidas en el Anexo Único de la Ley de Ingresos correspondiente a cada ejercicio fiscal.
 
 Los derechos anteriores no estarán sujetos a lo dispuesto por el artículo 93 de esta Ley.
 
@@ -3590,3 +3640,15 @@ P.O. 22 DE ABRIL DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0898.- SE EXPIDE LA LEY DE INGRESOS DEL ESTADO DE SAN LUIS POTOSÍ, PARA EL EJERCICIO FISCAL 2024. SE REFORMA EL ARTÍCULO 93 TER; SE ADICIONA UN CAPÍTULO VI DENOMINADO DE LOS “IMPUESTOS ECOLÓGICOS” AL TÍTULO SEGUNDO DE LOS “IMPUESTOS”, CON SUS SECCIONES PRIMERA Y SEGUNDA Y SUS ARTÍCULOS 36 BIS, 36 TER, 36 QUATER, 36 QUINQUE, 36 SEXTIES, 36 SÉPTIES, 36 OCTIES Y 36 NONIES Y SE DEROGA EL INCISO A) DE LA FRACCIÓN V DEL ARTÍCULO 66, DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”; con excepción de lo establecido en el artículo segundo transitorio.
+
+SEGUNDO. Las Adiciones que refieren al Capítulo VI denominado de los “Impuestos Ecológicos” al Título Segundo de los “Impuestos” con sus Secciones, Primera y Segunda, y sus artículos, 36 BIS, 36 TER, 36 QUATER, 36 QUINQUE, 36 SEXTIES, 36 SÉPTIES, 36 OCTIES y 36 NONIES, entrarán en vigor a partir del 01 de abril de 2024.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO. Se faculta a la Secretaría de Finanzas del Poder Ejecutivo del Estado para que emita las Reglas de Operación necesarias para la correcta y debida aplicación de las disposiciones establecidas en el Capítulo VI del presente Decreto.
