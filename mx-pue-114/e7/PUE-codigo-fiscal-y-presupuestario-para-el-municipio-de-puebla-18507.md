@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-y-presupuestario-para-el-municipio-de-puebla-1850
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-17"
-last_updated: "2023-12-15"
+last_updated: "2023-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 17 de diciembre de 1999.
 
@@ -269,9 +269,9 @@ VIII. Destinataria: La dependencia o entidad beneficiaria de un acuerdo de desti
 
 IX. Devolución.- Término que describe el reintegro a los contribuyentes que lo soliciten oportunamente, de cantidades pagadas indebidamente o en cantidad mayor a la debida, previo cumplimiento de las disposiciones que norman el procedimiento;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-X. SAU.- Secretaría de Desarrollo Urbano y Obras Públicas del Honorable Ayuntamiento del Municipio de Puebla;
+X. SAU. La Dependencia competente en materia de Desarrollo Urbano y/o la Dependencia competente en materia de contratación y ejecución de obras públicas;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -879,9 +879,9 @@ También se considerarán como días y horas hábiles para la práctica de dilig
 
 Son obligaciones de los contribuyentes:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-I. Inscribirse en el padrón fiscal municipal dentro de los 45 días hábiles siguientes a aquel en que se realice la situación jurídica o de hecho, de la cual se derivan obligaciones fiscales municipales y durante los meses de enero, febrero y marzo de cada ejercicio fiscal para los refrendos ante la Tesorería;
+I. Inscribirse en el padrón fiscal municipal dentro de los 45 días hábiles siguientes a aquel en que se realice la situación jurídica o de hecho, de la cual se derivan obligaciones fiscales municipales; y cubrir la obligación de refrendar las licencias o autorizaciones en los casos que corresponda durante los meses de enero, febrero y marzo de cada ejercicio fiscal ante la Tesorería;
 
 II. Señalar domicilio fiscal en el Municipio y en su caso domicilio para recibir notificaciones;
 
@@ -901,7 +901,9 @@ VIII. Proporcionar a las autoridades fiscales los datos o informes que les solic
 
 IX. Mostrar a solicitud de la autoridad municipal la cédula de empadronamiento, las licencias, permisos o autorizaciones originales, así como otros documentos diversos de los anteriores que les sean requeridos;
 
-X. Devolver para su cancelación la cédula o documento de empadronamiento en caso de clausura, cambio de giro, de nombre o razón social, de domicilio o traspaso, en el momento en que dichas circunstancias sean comunicadas a la autoridad municipal;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+X. Devolver para su cancelación la cédula de empadronamiento, la licencia, permiso o autorización original en caso de clausura definitiva, cambio de giro, de nombre o razón social, de domicilio o traspaso, en el momento en que dichas circunstancias sean comunicadas a la autoridad municipal;
 
 XI. Dar aviso a la Tesorería, en el término de 30 días hábiles posteriores, respecto del cese de actividades o de funcionamiento definitivo de su negociación para su anotación correspondiente en el Padrón Fiscal del Municipio;
 
@@ -1391,7 +1393,11 @@ b) Una situación especial del contribuyente establecida en abstracto por la dis
 
 c) Un objeto de carácter parafiscal que consta de un objetivo directo y un objetivo indirecto. El objetivo directo consistirá en obtener una actuación específica del contribuyente, y como indirecto lograr, mediante la conducta del propio gobernado, efectos que trasciendan de su esfera personal al ámbito social.
 
-Los incentivos fiscales, que sean aprobados por el Cabildo, no tendrán como origen la existencia de una obligación fiscal exigible y sus objetivos serán siempre de beneficio colectivo.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+Los estímulos o incentivos fiscales entrarán en vigor a partir de su publicación en la Gaceta Municipal.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -1651,11 +1657,17 @@ b) Cuando se declaren operaciones de traslado de dominio que no han sido pagadas
 
 c) Cuando los avisos notariales sean presentados en forma extemporánea.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 62.
 
-Procederá la cancelación de los créditos fiscales por resultar incosteable su cobro. Para el efecto de que la autoridad fiscal determine dicha incosteabilidad, se tomará como base el monto que fije anualmente la Ley de Ingresos del Municipio.
+Se consideran créditos de cobro incosteable, aquéllos cuyo costo de recuperación sea igual o mayor al 75% del importe del crédito. Para el efecto de que la autoridad fiscal determine dicha incosteabilidad, se tomará como base el monto que fije anualmente la Ley de Ingresos del Municipio.
 
-La cancelación de créditos fiscales en las cuentas públicas, no libera de su pago al sujeto pasivo.
+Se consideran créditos incobrables, aquellos respecto de los cuales los sujetos pasivos o los responsables solidarios no tengan bienes embargables para cubrir el crédito o éstos ya se hubieran realizado, cuando no se puedan localizar, cuando por sentencia firme se les hubiera declarado en quiebra por falta de activo o cuando hubieran fallecido o desaparecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
+
+Cuando el sujeto pasivo o responsable solidario tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar si se cumplen los requisitos señalados en el párrafo anterior.
+
+La cancelación de los créditos a que se refiere este artículo no libera de su pago.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2023)</small>
 
@@ -2373,7 +2385,9 @@ VI. Manifestar negociaciones propias o realizar actividades gravables a través 
 
 VII. No tener los permisos, licencias, autorizaciones, tarjetas, boletas de registro o cualquier otro documento exigido por las disposiciones fiscales en los lugares que para el efecto señalen, no citar su clave de registro o cuenta según el caso, en las declaraciones, manifestaciones, solicitudes y gestiones que hagan ante cualquier dependencia;
 
-VIII. Abrir una negociación o establecimiento comercial, industrial o de prestación de servicios sin solicitar previamente la cédula de empadronamiento y en su caso la tarjeta de autorización correspondiente o sin llenar los requisitos exigidos por los ordenamientos fiscales;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+VIII. Abrir una negociación o establecimiento comercial, industrial o de prestación de servicios sin solicitar y obtener previamente la cédula de empadronamiento, la licencia, permiso o autorización correspondiente o sin llenar los requisitos exigidos por los ordenamientos fiscales;
 
 IX. Tener en las negociaciones o establecimientos comerciales, industriales o de prestación de servicios, instalaciones diversas de las aprobadas por el Ayuntamiento cuando las disposiciones legales exijan tal aprobación o modificarlas sin el correspondiente aviso o permiso;
 
@@ -2405,7 +2419,9 @@ XXII. Mantener abiertas al público negociaciones o establecimientos comerciales
 
 XXIII. Traspasar o ceder los derechos derivados de la licencia de funcionamiento sin la autorización expresa de la Tesorería;
 
-XXIV. No tener en lugar visible de la negociación o establecimiento o no llevar consigo, la cédula de empadronamiento o las licencias originales cuando proceda y así lo exijan las disposiciones fiscales;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+XXIV. No tener en lugar visible de la negociación o establecimiento o no llevar consigo, la cédula de empadronamiento, las licencias o autorizaciones originales cuando proceda y así lo exijan las disposiciones fiscales;
 
 XXV. Efectuar el sacrificio de animales fuera de los rastros o lugares autorizados por la autoridad municipal competente;
 
@@ -2537,19 +2553,17 @@ Tratándose de peritos valuadores, cuando la conducta infractora que realicen, s
 
 ### CAPÍTULO III. DE LOS DELITOS FISCALES
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 87.
 
-Para proceder penalmente por los delitos fiscales previstos en este capítulo, será necesario que previamente la Tesorería:
+Para proceder penalmente por los delitos fiscales previstos en este Capítulo, será necesario que previamente el Director Jurídico de la Tesorería formule la Declaratoria de Perjuicio a la Hacienda Pública del Municipio, tratándose de los previstos en los artículos 94, 98, 100 y 102 de este ordenamiento.
 
-I. Formule denuncia o querella, tratándose de los previstos en los artículos 94, 98, 100 y 102 de este ordenamiento;
+En los demás casos no previstos en el párrafo anterior, bastará que la persona titular de la Sindicatura o quien este tenga facultades o determine, presente denuncia de los hechos ante el Ministerio Público.
 
-II. Declare que el fisco municipal ha sufrido o pudo sufrir perjuicio en los mismos casos;
+En los procesos por los delitos fiscales a que se refieren los dos párrafos anteriores, se presentará al Ministerio Público el desistimiento de la acción penal por parte del Representante Legal del Ayuntamiento; dicha petición se hará discrecionalmente en cualquier etapa del procedimiento, cuando los indiciados o imputados paguen las contribuciones originadas por los hechos atribuidos, las sanciones, recargos respectivos, multas, actualizaciones y en su caso gastos de ejecución o bien estos créditos fiscales queden garantizados a satisfacción del mismo Ayuntamiento.
 
-III. En los demás casos no previstos en las fracciones anteriores, bastará la denuncia de los hechos ante el Ministerio Público;
-
-IV. Los procesos por los delitos fiscales a que se refieren las fracciones anteriores, se sobreseerán a petición del Ayuntamiento cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos o bien, estos créditos fiscales queden garantizados a satisfacción del mismo Ayuntamiento. La petición anterior se hará discrecionalmente antes que el Ministerio Público formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera; y
-
-V. En los delitos fiscales en que sea necesaria querella o declaratoria de daño o de perjuicio y uno u otro sea cuantificable, el Ayuntamiento, hará la cuantificación previa correspondiente en la propia querella o declaratoria y presentará la definitiva durante la tramitación del proceso respectivo y hasta antes de que el Ministerio Público formule conclusiones. La citada cuantificación sólo surtirá efectos en el orden penal.
+En los delitos fiscales en que sea necesaria querella o declaratoria de daño o de perjuicio y uno u otro sea cuantificable, la Tesorería hará la cuantificación previa correspondiente en la propia querella o declaratoria y presentará la definitiva a través de la Sindicatura durante la tramitación del proceso respectivo. La citada cuantificación sólo surtirá efectos en el orden penal.
 
 ###### Artículo 88.
 
@@ -3923,7 +3937,9 @@ RESPONSABLES SOLIDARIOS. Los administradores de bienes o servicios concesionados
 
 FACULTADES DE LAS AUTORIDADES FISCALES. Son facultades de las autoridades fiscales, en materia de derechos:
 
-I. Verificar el pago de los derechos, así como la obtención oportuna por parte de los contribuyentes, de la cédula de empadronamiento y la autorización en su caso;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+I. Verificar el pago de los derechos, así como la obtención oportuna por parte de los contribuyentes, de la cédula de empadronamiento, la licencia, permiso o autorización correspondiente en su caso;
 
 II. Suscribir acuerdos o convenios, con el objeto de auxiliar a los concesionarios de servicios en el cobro de tarifas; y
 
@@ -3949,9 +3965,11 @@ I. La autorización de funcionamiento, registro o refrendo que el Ayuntamiento o
 
 II. La expedición de la licencia de vigencia anual o eventual correspondiente, así como la ampliación o cambio de giro.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 222.
 
-Los propietarios de negociaciones comerciales, industriales de prestación de servicios, de comisión y en general de toda actividad económica en términos del artículo 36 fracción I de la Constitución Política de los Estados Unidos Mexicanos, deberán empadronarse en la Tesorería y obtener la cédula respectiva y en su caso, la autorización de funcionamiento que corresponda, ya sea que sus actividades las realicen en tiendas abiertas al público, en despachos, almacenes, bodegas, interior de casas o edificios o en cualquier otro lugar. Dicha cédula de empadronamiento se mantendrá vigente, hasta en tanto no se realice baja, cambio de giro o de domicilio, excepto para los giros que implican la enajenación o expendio de bebidas alcohólicas en cuyo caso la vigencia de la cédula de empadronamiento será de un año.
+Los propietarios de negociaciones comerciales, industriales de prestación de servicios, de comisión y en general de toda actividad económica en términos del artículo 36 fracción I de la Constitución Política de los Estados Unidos Mexicanos, deberán empadronarse en la Tesorería y obtener la cédula respectiva y en su caso, la licencia, permiso o autorización que corresponda, ya sea que sus actividades las realicen en tiendas abiertas al público, en despachos, almacenes, bodegas, interior de casas o edificios o en cualquier otro lugar. La licencia de funcionamiento, permiso o autorización se mantendrá vigente, hasta en tanto no se realice baja, cambio de giro o de domicilio, o por modificaciones a los planes o programas en materia de desarrollo urbano la actividad comercial, industrial o de servicios sea incompatible con el giro del que se trate, excepto para los giros que implican la enajenación o expendio de bebidas alcohólicas en cuyo caso la vigencia de la licencia de funcionamiento será de un año, que podrá prorrogarse mientras se cumpla con la obligación oportuna de su refrendo anual, en caso contrario al término del Ejercicio Fiscal perderá su vigencia y se procederá a su cancelación en el padrón respectivo.
 
 ###### Artículo 223.
 
@@ -7020,3 +7038,11 @@ P.O. 15 DE DICIEMBRE DE 2023.
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN X DEL ARTÍCULO 1, LAS FRACCIONES I Y X DEL 36, EL 62, LAS FRACCIONES VIII Y XXIV DEL 82, EL 87, LA FRACCIÓN I DEL 219 Y EL 222; ADICIONA UN QUINTO PÁRRAFO AL 52 BIS, Y DEROGA EL CUARTO PÁRRAFO DEL 52 BIS, TODOS DEL CÓDIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA".]
+
+PRIMERO. Se deroga toda disposición que se oponga al presente Decreto.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
