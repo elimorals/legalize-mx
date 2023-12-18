@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2023-11-06"
+last_updated: "2023-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -391,9 +391,21 @@ VII. Celebrar convenios de coordinación con los Municipios, con el objeto de qu
 
 VIII. Celebrar convenios mediante los cuales se obtenga asesoría, así como recursos materiales y económicos para realizar investigaciones en materia ambiental;
 
-IX. Expedir los reglamentos y demás disposiciones aplicables que tengan por objeto la conservación, preservación y restauración del medio ambiente y los recursos naturales; y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-X. Las demás que conforme a esta Ley y otros ordenamientos le correspondan.
+IX. Expedir los reglamentos y .demás disposiciones aplicables que tengan por objeto la conservación, preservación y restauración del medio ambiente y los recursos naturales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+X. Coadyuvar en el ámbito de su competencia a la determinación de los indicadores que permitan evaluar la aplicación del presente ordenamiento, e integrar los resultados al Sistema de Información Ambiental y de Recursos Naturales;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+XI. Fomentar el aprovechamiento de la materia orgánica de los residuos sólidos urbanos en procesos de generación de energía, en coordinación con los municipios; y
+
+> <small>(ADICIONADA [REPUBLICADA Y REUBICADA ANTES FRACCIÓN X], P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+XII. Las demás que conforme a esta Ley y otros ordenamientos le correspondan.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
@@ -623,6 +635,10 @@ XXVI. Atender los demás asuntos relativos a la conservación, preservación y p
 
 XXVII. Establecer los criterios y lineamientos para la regulación de los residuos sólidos urbanos;
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+Prevenir la generación y controlar el manejo integral de los residuos sólidos urbanos y, en coordinación con el Ejecutivo del Estado, a través de la Secretaria de Sustentabilidad, Medio Ambiente y Agua, aprovechar la materia orgánica en procesos de generación de energía;
+
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
 XXVIII. Otorgar las autorizaciones y registrar a los establecimientos mercantiles y de servicios relacionados con la recolección, acopio, transporte y transferencia, reciclado, reutilización, coprocesamiento, tratamiento y sitios de disposición final de los residuos y de manejo especial y supervisar su buen funcionamiento, conforme a los convenios de coordinación que esos (sic) efectos se celebren con la Secretaría;
@@ -700,6 +716,10 @@ Los Planes y Programas de Desarrollo Urbano deberán tomar en cuenta los lineami
 ###### ARTÍCULO 15.
 
 El Gobierno Estatal y los Ayuntamientos promoverán la participación ciudadana de los distintos grupos sociales en la elaboración de los programas estatales y municipales respectivamente, que tengan por objeto la conservación, preservación, protección y restauración del ambiente, a través de foros de consulta y del Consejo Consultivo correspondiente.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 15 BIS.- El Gobierno Estatal y los Ayuntamientos, incentivaran a la población a la separación de residuos sólidos urbanos, además elaboraran programas de concientización dirigidos a la ciudadanía sobre la importancia del manejo de residuos sólidos urbanos.
 
 (REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
 
@@ -3111,11 +3131,11 @@ III. La regulación sobre la generación, tratamiento, transferencia, almacenami
 
 IV. La Autorización de los sistemas de recolección, acopio, transporte, transferencia, reciclaje, reutilización, coprocesamiento, tratamiento y disposición final de residuos de manejo especial y sólidos urbanos de conformidad con las disposiciones de esta Ley y de su Reglamento en materia de prevención y gestión integral de los residuos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 164.
 
-Con el propósito de promover el desarrollo sustentable y prevenir y controlar la contaminación del suelo, la Secretaría y los municipios con la participación de todos los sectores de la sociedad, fomentarán y establecerán programas para la disminución del volumen de generación, reuso y reciclaje de residuos sólidos, industriales no peligrosos y peligrosos.
+Con el propósito de promover el desarrollo sustentable y prevenir y controlar la contaminación del suelo, la Secretaría y los Municipios con la participación de todos los sectores de la sociedad, fomentarán y establecerán programas para la disminución del volumen de generación, separación, reúso y reciclaje de residuos sólidos, industriales, no peligrosos y peligrosos.
 
 Asimismo, promoverán la creación y aplicación de incentivos en favor de quienes realicen dichas actividades.
 
@@ -3207,7 +3227,9 @@ VI. Autorizar la recolección, acopio, transporte, transferencia, reciclado, reu
 
 Corresponde a los Municipios:
 
-I. Proponer la expedición de lineamientos y criterios en materia de generación, recolección, acopio, almacenamiento, transporte, reciclado, reutilización, tratamiento, transferencia y disposición de residuos sólidos urbanos y de manejo especial;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+I. Proponer la expedición de lineamientos y criterios en materia de generación, separación, recolección, acopio, almacenamiento, transporte, reciclado, reutilización, tratamiento, transferencia y disposición de residuos sólidos urbanos y de manejo especial;
 
 II. Tomar las medidas preventivas necesarias para evitar contingencias ambientales;
 
@@ -4141,63 +4163,13 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- La Comisión Estatal de Educación Ambiental deberá integrarse e instalarse antes de que transcurran 90 días posteriores a la vigencia del presente Decreto en el Periódico Oficial del Estado de Aguascalientes.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 42/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE COMIENZO DE FUNCIONES DE LOS JUZGADOS QUINTO Y SEXTO DE DISTRITO EN LA LAGUNA, CON RESIDENCIA EN TORREÓN, COAHUILA DE ZARAGOZA; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO, DE LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS".]
+P.O. 18 DE DICIEMBRE DE 2023.
 
-PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de agosto de dos mil dieciséis, con excepción de lo previsto en los Transitorios TERCERO y CUARTO, que entrarán en vigor el día de su aprobación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 513.- SE REFORMA LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES”.]
 
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-TERCERO. Se modifica el rol de guardias en días y horas inhábiles de los Juzgados de Distrito en La Laguna, con residencia en Torreón, Coahuila de Zaragoza, para quedar como sigue:
-
-ORDEN DEL TURNO DE LA GUARDIA PARA RECIBIR ASUNTOS URGENTES EN DÍAS Y HORAS INHÁBILES EN LOS JUZGADOS DE DISTRITO EN LA LAGUNA, CON RESIDENCIA EN TORREÓN, COAHUILA DE ZARAGOZA.
-
-PERIODO DE GUARDIA AÑO 2016 ÓRGANO JURISDICCIONAL AL
-
-QUE CORRESPONDE LA
-
-GUARDIA
-
-Del 8 al 14 de agosto. Juzgado Cuarto
-
-Del 15 al 22 de agosto. Juzgado Primero
-
-Del 22 al 29 de agosto. Juzgado Segundo
-
-Del 29 de agosto al 5 de septiembre. Juzgado Tercero
-
-Del 5 al 12 de septiembre. Juzgado Cuarto
-
-Del 12 al 19 de septiembre. Juzgado Quinto
-
-Del 19 al 26 de septiembre. Juzgado Sexto
-
-Del 26 de septiembre al 3 de octubre. Juzgado Primero
-
-Del 3 al 10 de octubre. Juzgado Segundo
-
-Y así, sucesivamente conforme al orden establecido.
-
-El Juzgado de Distrito que se encuentre de guardia deberá informar a la oficina de correspondencia común que le presta servicio sobre los asuntos recibidos durante la misma, a fin de que, al reanudar sus labores, realice la compensación correspondiente y se equilibren las cargas de trabajo.
-
-La guardia del Juzgado Cuarto de Distrito en La Laguna, con residencia en Torreón, Coahuila de Zaragoza, correspondiente al periodo del ocho al catorce de agosto del actual, se extenderá al lunes quince de agosto a las ocho horas con veintinueve minutos.
-
-CUARTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas competentes que le están adscritas, llevará a cabo las acciones necesarias para que los Juzgados de Distrito comiencen funciones con los insumos necesarios, en la fecha señalada en el Transitorio PRIMERO de este Acuerdo.
-
-QUINTO. Se reforma el numeral SEGUNDO, fracción VIII, número 3, del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-“SEGUNDO. ...
-
-I. a VII. ...
-
-VIII. ...
-
-1. a 2. ...
-
-3. Once juzgados de distrito en el Estado de Coahuila de Zaragoza: dos con residencia en Saltillo, uno con sede en Piedras Negras, dos con residencia en Monclova y seis en La Laguna, con sede en Torreón.
-
-IX. a XXXII. ...”.
-
-D.O.F. 7 DE OCTUBRE DE 2016.
+SEGUNDO.- Las Autoridades a que hace referencia esta reforma, deberán de adecuar su normatividad dentro de los ciento veinte días posteriores a la publicación de la presente reforma en el Periódico Oficial del Estado, a efecto de dar cumplimiento a la misma.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 45/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE RESIDENCIA Y DOMICILIO, DE LOS JUZGADOS DE DISTRITO PRIMERO, SEGUNDO, TERCERO, CUARTO, QUINTO Y OCTAVO; DE LOS TRIBUNALES COLEGIADOS EN MATERIAS CIVIL Y ADMINISTRATIVA, EN MATERIAS PENAL Y ADMINISTRATIVA, Y EN MATERIAS DE TRABAJO Y ADMINISTRATIVA; Y DE LOS TRIBUNALES UNITARIOS PRIMERO Y SEGUNDO, TODOS EN EL ESTADO DE OAXACA, ASÍ COMO DE LAS OFICINAS DE CORRESPONDENCIA COMÚN QUE LES PRESTAN SERVICIO”.]
 
