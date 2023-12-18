@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2023-11-06"
+last_updated: "2023-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -421,13 +421,13 @@ Constituye violencia de género contra las mujeres en el ámbito académico, aqu
 
 La violencia de género contra las mujeres en el ámbito social, comprende los actos individuales o colectivos que transgreden sus derechos fundamentales y propician su denigración, discriminación, marginación o exclusión en el ámbito público.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 15.
 
-La violencia de género contra las mujeres en el ámbito institucional, comprende los actos y omisiones de las y los servidores públicos del Estado o de los Municipios que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de las políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+La violencia de género contra las mujeres en el ámbito institucional, comprende los actos y omisiones de las y los servidores públicos del Estado, sus Municipios y Órganos Constitucionales Autónomos que discriminen, utilicen estereotipos de género o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de las políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2018)</small>
-
-En los Poderes Ejecutivo, Legislativo y Judicial, así como en los órdenes estatal y municipal, a través de los cuales se lleve a cabo el ejercicio del servicio público, todos los servidores públicos tienen la obligación de salvaguardar, en el ejercicio de sus funciones, el derecho de las mujeres a una vida libre de violencia política de género.
+En los órdenes de gobierno estatal y municipal, los Poderes Ejecutivo, Legislativo y Judicial, así como los Órganos Constitucionales Autónomos, a través de los cuales se manifiesta el ejercicio del poder público, tienen la obligación de organizar la estructura gubernamental de tal manera que sean capaces de asegurar, en el ejercicio de sus funciones, el derecho de las mujeres a una vida libre de violencia.
 
 ###### Artículo 16.
 
@@ -1978,3 +1978,11 @@ P.O. 6 DE NOVIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 510.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
