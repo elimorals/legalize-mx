@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2023-11-02"
+last_updated: "2023-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2023.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -1621,11 +1621,11 @@ ART. 281.- El cónyuge que diere causa al divorcio perderá todo lo que se le hu
 
 ART. 282.- Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes, se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges, o con relación a las hijas e hijos. Los consortes divorciados tendrán obligación de contribuir en proporción a sus bienes e ingresos, a las necesidades de subsistencia y educación de las hijas e hijos, de conformidad con el Artículo 303 de este ordenamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2023)</small>
 
-ART. 283.- En los casos de divorcio el cónyuge inocente tendrá derecho a alimentos mientras no contraiga nuevas nupcias, se una en concubinato o deje de vivir honestamente, o cuando se encuentre imposibilitado para trabajar y no tenga bienes propios para subsistir. Además cuando por el divorcio se originen daños y perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
+ART. 283. El cónyuge que durante el matrimonio se haya dedicado a las labores del hogar y/o al cuidado de los hijos y que no hubiere generado los medios para tener independencia económica durante el matrimonio, tendrá derecho a una pensión compensatoria al momento del divorcio.
 
-En el divorcio por mutuo consentimiento, salvo pacto en contrario, los cónyuges no tienen derecho a pensión alimenticia, ni a la indemnización que concede este artículo.
+En la resolución se fijarán las bases para actualizar la pensión y las garantías para su efectividad. El derecho a la pensión alimenticia compensatoria se extingue cuando el acreedor contraiga nuevas nupcias o se una en concubinato o haya transcurrido un término igual a la duración del matrimonio.
 
 ART. 284.- En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
 
@@ -7125,6 +7125,10 @@ ART. 1817.- Los jefes de familia que habiten una casa o parte de ella son respon
 
 ART. 1818.- La acción para exigir la reparación de los daños causados en los términos del presente Capítulo, prescribe en dos años contados a partir del día en que se haya causado el daño.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2023)</small>
+
+En los casos en que el daño moral se ocasione a menores de doce años víctimas de violación, abuso sexual o pederastia, la acción para exigir la reparación no prescribirá.
+
 ## TITULO SEGUNDO.
 
 Modalidades de las obligaciones.
@@ -11426,3 +11430,19 @@ P.O. 2 DE NOVIEMBRE DE 2023.
 PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 19 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 508 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 1818 DEL CÓDIGO CIVIL VIGENTE EN EL ESTADO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 509 QUE CONTIENE REFORMA AL ARTÍCULO 283 DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
