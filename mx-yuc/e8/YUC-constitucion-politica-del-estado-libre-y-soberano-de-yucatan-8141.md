@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2023-10-09"
+last_updated: "2023-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE DICIEMBRE DE 2023.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -2372,6 +2372,10 @@ III. Acreditar tener experiencia comprobable en materia de transporte, de planea
 La persona titular de la Agencia de Transporte de Yucatán será designada mediante el siguiente procedimiento: la persona titular del Poder Ejecutivo someterá una terna a consideración del Congreso del estado, quien designará a quien deba ocupar el cargo, mediante el voto de las dos terceras partes de sus integrantes presentes en la sesión de que se trate. En caso de que no se alcance la votación requerida, la persona titular del Poder Ejecutivo someterá otra terna a la consideración del Congreso. En caso de que nuevamente no se alcance la votación requerida, ocupará el cargo la persona que designe la persona titular del Poder Ejecutivo, que deberá ser integrante de la segunda terna propuesta.
 
 La persona titular de la Agencia de Transporte de Yucatán no podrá tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrá asumir un cargo público en las dependencias y entidades estatales ni en los órganos constitucionales autónomos.
+
+> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+El presupuesto de la Agencia de Transporte de Yucatán no podrá ser disminuido respecto al del año inmediato anterior y se fijará anualmente.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 21 DE ABRIL DE 2023)</small>
 
@@ -5774,3 +5778,11 @@ Artículo Tercero. El Congreso del Estado deberá notificar a la persona designa
 Nombramiento de quien ocupe la Secretaría Técnica
 
 Artículo Cuarto. La persona titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, dentro de un plazo de treinta días hábiles, contado a partir de la rendición del compromiso constitucional, deberá iniciar el procedimiento para nombrar a la persona titular de la Secretaría Técnica en los términos establecidos en el presente decreto.
+
+D.O. 19 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 700/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE FORTALECIMIENTO DE LA AGENCIA DE TRANSPORTE DE YUCATÁN".]
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
