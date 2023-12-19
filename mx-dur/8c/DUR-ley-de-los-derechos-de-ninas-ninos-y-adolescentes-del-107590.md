@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107590"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-12"
-last_updated: "2023-05-07"
+last_updated: "2023-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 12 de marzo de 2015.
 
@@ -229,9 +229,11 @@ XIII. El acceso a una vida libre de violencia; y
 
 XIV. La accesibilidad.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 8.
 
-Es deber de la familia, la comunidad a la que pertenecen, del Estado y, en general, de todos los integrantes de la sociedad, el respeto y el auxilio para la protección de derechos de niñas, niños y adolescentes, así como garantizarles un nivel adecuado de vida para su desarrollo integral.
+Es deber de la familia, la comunidad a la que pertenecen, del Estado y, en general, de todos los integrantes de la sociedad, el respeto y el auxilio para la protección de derechos de niñas, niños y adolescentes, así como garantizarles un nivel adecuado de vida para su desarrollo integral, primordialmente en el periodo de la primera infancia.
 
 ###### Artículo 9.
 
@@ -373,9 +375,11 @@ En los casos en que niñas, niños o adolescentes cumplan con los requisitos par
 
 ### Capítulo Cuarto. Del Derecho a Vivir en Familia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 17.
 
-Las niñas, niños y adolescentes tienen derecho a vivir en familia. La falta de recursos no podrá considerarse motivo suficiente para separarlos de su familia de origen o de los familiares con los que convivan, ni causa para la pérdida de la patria potestad.
+Las niñas, niños y adolescentes tienen derecho a vivir en familia y a crecer en un ambiente sano, estimulante, afectivo, cariñoso, sensible, de seguridad y respeto, garantizando de manera plena sus derechos. La falta de recursos no podrá considerarse motivo suficiente para separarlos de su familia de origen o de los familiares con los que convivan, ni causa para la pérdida de la patria potestad.
 
 Estas condiciones deberán considerarse como un indicio de la necesidad de proporcionar a la familia el apoyo apropiado.
 
@@ -609,11 +613,15 @@ XIII. Establecer medidas tendentes a la prevención, atención, combate y rehabi
 
 XIV. Establecer medidas para la detección temprana de discapacidades a efecto de prevenir y reducir al máximo la aparición de nuevas discapacidades y asegurar los mayores niveles de atención y rehabilitación; y
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2023)</small>
 
-XV. Establecer programas, acciones y medidas especiales para el cuidado de la salud de niñas, niños y adolescentes en situación de orfandad derivada de la comisión algún delito o la violencia generalizada o de cualquier otra índole;
+XV. Establecer programas, acciones y medidas especiales para el cuidado de la salud de niñas, niños y adolescentes en situación de orfandad derivada de la comisión (sic) algún delito o la violencia generalizada o de cualquier otra índole; y
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE DICIEMBRE DE 2023)</small>
+
+XVI. Fomentar acciones y programas para difundir entre la ciudadanía los perjuicios dañinos de la exposición de las niñas y niños al humo de segunda mano derivado del consumo de tabaco.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE DICIEMBRE DE 2023)</small>
 
 En todos los casos se respetará el derecho a la intimidad de niñas, niños y adolescentes, conforme al artículo 48 de la presente Ley, así como el derecho a la información de quienes detenten la patria potestad, tutela o guarda y custodia o la de sus familiares sobrevivientes en su caso de niños niñas y adolescentes en relación a su estado de su salud, para cumplir con su obligación constitucional de proteger y exigir el cumplimiento del derecho a la salud de niñas, niños y adolescentes.
 
@@ -755,13 +763,17 @@ XIX. Inculcar en niñas, niños y adolescentes el respeto, protección y conserv
 
 XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2023)</small>
 
-XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas y faciliten su reingreso al sistema educativo estatal; y
+XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas y faciliten su reingreso al sistema educativo estatal;
 
-> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2023)</small>
 
-XXII. Diseñar una calendarización y planeación específica, estructurada en coordinación con los padres de familia, o con quienes ejerzan la patria potestad, tutela o guarda y custodia de las niñas, niños y adolescentes estudiantes, con el objetivo de garantizar la participación directa y permanente de éstos en la educación, ello a través de escuelas para padres, reuniones informativas u otro tipo de actividades que fortalezcan su corresponsabilidad formativa y educativa con las instituciones de enseñanza.
+XXII. Diseñar una calendarización y planeación específica, estructurada en coordinación con los padres de familia, o con quienes ejerzan la patria potestad, tutela o guarda y custodia de las niñas, niños y adolescentes estudiantes, con el objetivo de garantizar la participación directa y permanente de éstos en la educación, ello a través de escuelas para padres, reuniones informativas u otro tipo de actividades que fortalezcan su corresponsabilidad formativa y educativa con las instituciones de enseñanza; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE DICIEMBRE DE 2023)</small>
+
+XXIII. Formular y fomentar las condiciones requeridas para el uso responsable y saludable del traslado de útiles y materiales escolares, de manera que se evite la sobrecarga o el peso excesivo de la mochila de los estudiantes.
 
 ###### Artículo 38.
 
@@ -2372,5 +2384,29 @@ P.O. 7 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 360.- QUE CONTIENE REFORMA A LA FRACCION VII DEL ARTICULO 33, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 510 QUE CONTIENE REFORMA AL ARTÍCULO 33 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 511 QUE CONTIENE REFORMA AL ARTÍCULO 37 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 512 QUE CONTIENE REFORMAS A LOS ARTÍCULOS 8 Y 17 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
