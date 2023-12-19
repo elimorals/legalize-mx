@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-131941"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2023-10-07"
+last_updated: "2023-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Edición Especial al Número 24 Quater del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -479,9 +481,11 @@ XXI. Administrar el Periódico Oficial “El Estado de Jalisco”;
 
 XXII. Administrar la edición de la revista oficial "Jalisco";
 
-XXIII. Administrar el Archivo General del Gobierno;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2023)</small>
 
-XXIV. Administrar el Archivo Histórico del Estado;
+XXIII. Tener a su cargo al Área Coordinadora de Archivos de la Administración Pública Centralizada;
+
+XXIV. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2023)
 
 XXV. Administrar el Archivo de Instrumentos Públicos;
 
@@ -3024,3 +3028,23 @@ P.O. 7 DE OCTUBRE DE 2023.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco."
 
 Segundo. La Secretaría de Administración, a través de la Dirección General de Depósito y Custodia Vehicular, deberá emitir la Norma Técnica para la implementación de las reformas a la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, en un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 19 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29260/LXIII/23 DEL CONGRESO DEL ESTADO QUE REFORMAN LOS ARTÍCULOS 3, 21, 30, 39, 44, 56, 73, 85, 86, 87, 88, 93, 95, 97, 115 Y 124; Y ADICIONA AL TÍTULO SEXTO DEL CAPÍTULO I LAS SECCIONES I, II, III Y IV, CON LOS ARTÍCULOS 88 BIS, 88 TER, 88 QUATER, 88 QUINQUIES, 88 SEXIES DE LA LEY DE ARCHIVOS DEL ESTADO DE JALISCO; Y REFORMA LA FRACCIÓN XXIII Y SE DEROGA LA FRACCIÓN XXIV DEL ARTÍCULO 17 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor el 1 de enero de 2024.
+
+SEGUNDO. El titular del Poder Ejecutivo deberá designar a la persona titular del Archivo General del Estado dentro de los quince días naturales siguientes de la entrada en vigor del presente decreto.
+
+TERCERO. La Junta de Gobierno deberá instalarse en un plazo no mayor a treinta días naturales, contados a partir del día siguiente de la entrada en vigor del presente decreto.
+
+CUARTO. La Junta de Gobierno del Archivo General del Estado deberá aprobar y remitir al titular del Poder Ejecutivo, su Reglamento Interno dentro de los treinta días naturales siguientes a su instalación.
+
+El titular del Poder Ejecutivo, a su vez, deberá expedir el Reglamento Interno del Archivo General del Estado, dentro de los cinco días hábiles siguientes a que le haya sido remitido.
+
+QUINTO. Se autoriza al Titular del Poder Ejecutivo del Estado para que, por conducto de la Secretaría de la Hacienda Pública o a la Dependencia que corresponda conforme a sus facultades, para que, en su caso lleve a cabo las adecuaciones administrativas, programáticas, presupuestarias y de plantilla de personal necesarias, a fin de darle certeza jurídica al ejercicio presupuestal conforme lo establezca el Presupuesto de Egresos del Estado de Jalisco, para el periodo comprendido del 1° de enero al 31 de diciembre del año 2024.
+
+SEXTO. Los recursos económicos y materiales, así como los derechos, valores, fondos y obligaciones del Archivo Histórico de la Secretaría General de Gobierno, pasarán a formar parte del patrimonio del Archivo General del Estado, de conformidad con la normatividad en la materia.
+
+SÉPTIMO. El acervo documental del Archivo Histórico de la Secretaría General de Gobierno deberá remitirse al Archivo General del Estado en un plazo de trescientos sesenta y cinco días naturales, debiendo generarse programas para la entrega recepción, en términos de la Ley de Entrega Recepción del Estado de Jalisco y sus Municipios.
