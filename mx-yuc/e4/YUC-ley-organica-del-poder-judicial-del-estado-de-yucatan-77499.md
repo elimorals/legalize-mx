@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-judicial-del-estado-de-yucatan-77499"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-24"
-last_updated: "2023-10-20"
+last_updated: "2023-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 24 de noviembre de 2010.
 
@@ -293,9 +293,9 @@ Los precedentes que establezcan las salas Colegiadas serán obligatorios para la
 
 Los precedentes que establezcan las salas unitarias serán obligatorios para los tribunales y juzgados de primera instancia y de paz a que se refiere el Título Quinto de esta ley, en la materia de su competencia.
 
-> <small>(REFORMADO, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
-El órgano emisor del precedente obligatorio ordenará su notificación inmediata a los diversos órganos jurisdiccionales para su conocimiento, así como su difusión en la publicación periódica correspondiente.
+El órgano emisor del precedente obligatorio ordenará su notificación inmediata a los diversos órganos jurisdiccionales para su conocimiento, así como su difusión en los términos que dispongan los acuerdos generales.
 
 Interrupción de la obligatoriedad de precedentes
 
@@ -331,7 +331,9 @@ El Pleno del Tribunal Superior de Justicia se compondrá de quince Magistradas y
 
 Las sesiones serán presididas por el Presidente del Tribunal y en caso de ausencias accidentales de éste, el Pleno nombrará de entre sus integrantes quien deberá presidirlas.
 
-En los asuntos de la competencia del Pleno del Tribunal Superior de Justicia, cuando por faltas accidentales de los Magistrados, deje de reunirse el quórum legal para sesionar, serán llamados para integrarlo, por su orden, los jueces de lo civil, de lo penal, de justicia para adolescentes, de lo mercantil o de lo familiar del Primer Departamento Judicial del Estado; y a falta o por impedimento de éstos, se llamará a los de otros departamentos judiciales en el orden de éstos y de manera análoga.
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+En los asuntos de la competencia del Pleno del Tribunal Superior de Justicia, cuando por faltas accidentales de las personas magistradas, deje de reunirse el quórum legal para sesionar, se llamará para integrarlo a las personas magistradas suplentes respectivas, y a falta o por impedimento de estas, a las personas juezas que el Pleno determine.
 
 Naturaleza de las sesiones
 
@@ -365,7 +367,9 @@ VIII.- Revisar las decisiones del Consejo de la Judicatura relativas a la creaci
 
 IX.- Resolver las contradicciones entre los precedentes que emitan sus salas, en los términos que establezcan los acuerdos generales que al efecto se emitan;
 
-X.- Resolver sobre nombramientos del personal del Tribunal Superior de Justicia del Estado, así como de las quejas administrativas relacionadas con éstos, o sobre las licencias que presenten;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+X.- Resolver sobre nombramientos del personal del Tribunal Superior de Justicia del Estado con la intervención que corresponda a la Comisión Mixta de Escalafón respecto del personal de base y de las solicitudes de licencia que se presenten; así como conocer de los asuntos de responsabilidad administrativa relacionados con las personas servidoras públicas del Tribunal, en los términos que este órgano establezca mediante acuerdos generales;
 
 XI.- Recibir el informe de actividades de su competencia, formulado por el Presidente del Tribunal y del Consejo de la Judicatura para su análisis y, en su caso, aprobarlo;
 
@@ -415,9 +419,9 @@ Las sesiones del Pleno son ordinarias o extraordinarias.
 
 La discusión de los asuntos en sesión del Pleno del Tribunal Superior de Justicia del Estado de Yucatán, se llevará de acuerdo al Reglamento de Sesiones que emita el Pleno.
 
-> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
-Todas las sesiones del Pleno deberán ser transmitidas y difundidas por las plataformas digitales y redes sociales oficiales del mismo Tribunal, salvaguardando en todo momento, los datos personales o sensibles de las partes involucradas en los asuntos que sean materia de la discusión.
+Todas las sesiones del Pleno deberán ser transmitidas y difundidas por los medios digitales que el Pleno del Tribunal Superior de Justicia del Estado determine, salvaguardando en todo momento, los datos personales o sensibles de las partes involucradas en los asuntos que sean materia de la discusión.
 
 > <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
 
@@ -471,15 +475,15 @@ Las controversias constitucionales, las acciones de inconstitucionalidad, las ac
 
 ### CAPÍTULO III. De la Presidencia del Tribunal Superior de Justicia del Estado
 
-Duración del cargo de Presidente del Tribunal Superior de Justicia del Estado
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+Duración del cargo de la persona presidenta del Tribunal Superior de Justicia del Estado
 
 ###### Artículo 36.
 
-Cada cuatro años, el Pleno del Tribunal Superior de Justicia del Estado elegirá de entre sus miembros a la Presidenta o Presidente del Tribunal, debiendo alternar los géneros cada período para garantizar la paridad, por lo que no podrán ser electos para un período más.
+Cada cuatro años, el Pleno del Tribunal Superior de Justicia del Estado elegirá de entre sus miembros a la persona presidenta del Tribunal, debiendo alternar los géneros cada período para garantizar la paridad, por lo que no podrán ser reelectas para un período más.
 
-La Presidenta o Presidente será electo el último día hábil del mes de diciembre en el que concluya el cargo del Presidente saliente, debiendo rendir el Compromiso Constitucional antes de entrar en funciones. La Presidenta o Presidente electo entrará en funciones el primer día natural del mes de enero del año siguiente a la elección.
+La persona presidenta será electa en día hábil del mes de diciembre del año en el que concluya el cargo de la persona presidenta saliente, previa convocatoria a sesión del Pleno, con el carácter de solemne, debiendo rendir el Compromiso Constitucional antes de entrar en funciones. La persona presidenta electa entrará en funciones el primer día natural del mes de enero del año siguiente a la elección.
 
 Voto del Presidente
 
@@ -499,11 +503,15 @@ Renuncia al cargo de Presidente
 
 La renuncia al cargo de Presidente del Tribunal no implicará la renuncia al de magistrado.
 
-Atribuciones del Presidente del Tribunal Superior
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+Atribuciones de la persona presidenta del Tribunal Superior de Justicia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 40.
 
-Corresponderá al Presidente del Tribunal Superior de Justicia del Estado:
+Corresponderá a la persona presidenta del Tribunal Superior de Justicia del Estado:
 
 I.- Representar legalmente al Poder Judicial;
 
@@ -523,7 +531,9 @@ VIII.- Turnar al magistrado que corresponda, los asuntos que determine la legisl
 
 IX.- Ejecutar las decisiones del Pleno sobre la aplicación de las partidas del presupuesto del Tribunal;
 
-X.- Proponer a los titulares de las áreas a su cargo;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+X.- Proponer a las personas titulares de las áreas que se encuentren a su cargo, de conformidad con el Reglamento Interior del Tribunal Superior de Justicia del Estado y el organigrama autorizado; así como proponer a quienes fungirán como coordinadores de las áreas que ejecutan funciones de contraloría, transparencia, protección de datos personales y archivos en el Tribunal y en el Consejo;
 
 XI.- Despachar la correspondencia del Tribunal Superior de Justicia;
 
@@ -581,9 +591,9 @@ Las resoluciones de los asuntos jurisdiccionales de las salas colegiadas se toma
 
 Las sesiones y resoluciones de las Salas Colegiadas serán públicas, salvo las excepciones establecidas en la Constitución Federal, en la local y en las leyes correspondientes y cuando así lo determinen las Magistradas y Magistrados, por mayoría simple, en los casos en que a su juicio así lo exija la moral o el interés público.
 
-> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
-Las sesiones de las Salas colegiadas serán públicas y deberán transmitirse, así como difundirse por las plataformas digitales y redes sociales oficiales del Tribunal, resguardando en todo momento los datos personales o sensibles de las partes involucradas en los asuntos que se discutan.
+Las sesiones de las Salas colegiadas serán públicas y deberán transmitirse, así como difundirse por los medios digitales que el Pleno del Tribunal Superior de Justicia del Estado determine, resguardando en todo momento los datos personales o sensibles de las partes involucradas en los asuntos que se discutan.
 
 > <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
 
@@ -609,7 +619,9 @@ Presidente de Sala Colegiada
 
 Cada dos años, los miembros de las Salas elegirán de entre ellos al magistrado que deba fungir como presidente.
 
-El Presidente será electo el último día hábil del mes de diciembre en el que concluya el cargo del Presidente saliente.
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+La persona presidenta será electa en día hábil del mes de diciembre del año en el que concluya el cargo de la persona presidenta saliente, previa convocatoria a sesión de Sala que se expida.
 
 El Presidente electo entrará en funciones el primer día natural del mes de enero del año siguiente a la elección.
 
@@ -657,9 +669,19 @@ I.- Secretaría General de Acuerdos;
 
 II.- Unidad de Administración;
 
-III.- Unidad de Asuntos Jurídicos y Sistematización de Precedentes, y
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
-IV.- Las demás que sean necesarias para el cumplimiento de sus funciones constitucionales, lo determine el Pleno, y lo permita su presupuesto.
+III. La Unidad de Asuntos Jurídicos y Sistematización de Precedentes;
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+IV. La Unidad de Comunicación Social y Protocolo;
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+V.- La Unidad de Planeación, y
+
+VI.- Las demás que sean necesarias para el cumplimiento de sus funciones constitucionales, lo determine el Pleno, y lo permita su presupuesto.
 
 ### CAPÍTULO VI. De la Secretaría General de Acuerdos
 
@@ -699,11 +721,15 @@ XI.- Formar y guardar, bajo su responsabilidad, los legajos de actas de visitas 
 
 XII.- Autorizar y desempeñar las demás funciones que le confieran las Leyes, las disposiciones reglamentarias o, en su defecto, lo que determine el Tribunal en Pleno.
 
-Requisitos para ser Secretario General de Acuerdos del Tribunal Superior de Justicia del Estado
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+Requisitos para ser Titular de la Secretaría General de Acuerdos del Tribunal Superior de Justicia del Estado
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 52.
 
-Son requisitos para ser Secretario General de Acuerdos del Tribunal Superior de Justicia del Estado los siguientes:
+Son requisitos para ser Titular de la Secretaría General de Acuerdos del Tribunal Superior de Justicia del Estado los siguientes:
 
 I.- Ser mexicano por nacimiento y tener además, la calidad de ciudadano yucateco;
 
@@ -719,13 +745,15 @@ VI.- No haber sido condenado por delito doloso;
 
 VII.- Gozar de buena reputación y no contar con amonestación administrativa alguna, por faltas graves cometidas en ejercicio de otro cargo o empleo, así calificada por el Pleno del Tribunal Superior de Justicia del Estado, y
 
-VIII.- Cumplir con los requisitos que establezca el Reglamento de Carrera Judicial.
+VIII.- (DEROGADA, D.O. 19 DE DICIEMBRE DE 2023)
 
-Suplencia del Secretario General de Acuerdos
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+Suplencia de la persona Secretaria General de Acuerdos
 
 ###### Artículo 53.
 
-Las ausencias accidentales del Secretario General de Acuerdos serán suplidas por el Secretario de Sala Colegiada que designe el Pleno del Tribunal Superior de Justicia del Estado.
+Las ausencias accidentales de la persona Secretaria General de Acuerdos serán suplidas por la persona servidora pública que designe el Pleno del Tribunal Superior de Justicia del Estado, la cual contará con fe pública para ese efecto.
 
 ### CAPÍTULO VII. De la Unidad de administración
 
@@ -777,7 +805,9 @@ X.- Coordinar y vigilar los servicios de suministro;
 
 XI.- Realizar todo aquello que le encomiende el Presidente, dentro de los límites de sus facultades;
 
-XII.- Administrar la biblioteca del Tribunal Superior de Justicia, y
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+XII.- Proveer los insumos y servicios que resulten necesarios para brindar seguridad a las personas funcionarias, servidoras públicas, usuarias y visitantes dentro de las instalaciones del Tribunal Superior de Justicia, y
 
 XIII.- Los (sic) demás que le confieran el Pleno y las leyes.
 
@@ -795,7 +825,11 @@ Requisitos para el Titular
 
 El Titular de la Unidad de Asuntos Jurídicos y Sistematización de Precedentes deberá satisfacer los requisitos exigidos para ser Titular de la Unidad de Administración, pero deberá contar con título y cédula legalmente expedidos de abogado o licenciado en derecho.
 
-Atribuciones para la unidad de asuntos jurídicos, sistematización de precedentes, transparencia y acceso a la información
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+Atribuciones de la Unidad de Asuntos Jurídicos y Sistematización de Precedentes
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], D.O. 19 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 59.
 
@@ -805,27 +839,141 @@ I.- Compilar, sistematizar y difundir los criterios emitidos por el Pleno y las 
 
 II.- Compilar y difundir los criterios contenidos en las tesis que emitan los tribunales federales, que sean útiles para la impartición de justicia del orden local;
 
-III.- Turnar los criterios que emita el Pleno o las Salas del Tribunal al área administrativa del Poder Judicial encargada de la edición de la publicación periódica en la que éstos se difundan;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
-IV.- Tramitar las promociones relativas a los procesos de control constitucional local;
+III.- Compilar y actualizar los ordenamientos jurídicos que tengan relación con la administración de justicia, para mantener informados de sus cambios a las personas servidoras públicas del Poder Judicial que realizan funciones jurisdiccionales;
 
-V.- Elaborar los anteproyectos de ley, acuerdos, circulares y demás disposiciones de observancia obligatoria que se deban someter a la resolución del Pleno del Tribunal Superior de Justicia, en coordinación con la dirección o unidad correspondiente;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
-VI.- Promover y realizar estudios jurídicos y proyectos normativos relacionados al mejoramiento de la impartición de justicia;
+IV.- Auxiliar en la tramitación de las promociones relativas a los procesos de control constitucional local;
 
-VII.- Asesorar jurídicamente al Pleno y al Presidente del Tribunal;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
-VIII.- Elaborar el informe anual de actividades y entregarlo al Pleno para su análisis;
+V.- Elaborar los anteproyectos de ley, acuerdos, circulares y demás disposiciones de observancia obligatoria que se deban someter a la resolución del Pleno del Tribunal Superior de Justicia o del Consejo de la Judicatura, en coordinación con la dirección o unidad correspondiente;
 
-IX.- Formular el Manual de Operación de la Unidad y los demás que se requieran para su debido funcionamiento y someterlo a la consideración del Pleno, y
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
-X.- Las demás que le confiera el Pleno y otras disposiciones legales aplicables.
+VI.- Promover y realizar investigaciones, estudios jurídicos y proyectos normativos relacionados al mejoramiento de la impartición de justicia;
+
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+VII.- Asesorar jurídicamente a los Plenos del Tribunal Superior de Justicia del Estado y del Consejo de la Judicatura y a la Presidencia del Tribunal;
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+VII bis.- Elaborar o revisar, en su caso, los proyectos de convenios de colaboración en los que figure como parte el Poder Judicial y dar seguimiento a su aprobación y firma;
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+VII ter.- Elaborar los modelos de contratos, así como revisar y validar, en su caso, los proyectos de los mismos, que deriven de los procedimientos de contrataciones públicas que realice el Poder Judicial del Estado;
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+VII quáter.- Llevar los libros de gobierno de los convenios y poderes que suscriba y otorgue, respectivamente, la persona titular de la Presidencia del Tribunal y del Consejo, que previamente hayan sido revisados por dicha Unidad;
+
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+VIII.- Elaborar el informe anual de actividades y entregarlo al Pleno del Tribunal Superior de Justicia del Estado para su análisis;
+
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+IX.- Formular el Manual de Operación de la Unidad y los demás que se requieran para su debido funcionamiento y someterlo a la consideración del Pleno del Tribunal Superior de Justicia del Estado, y
+
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+X.- Las demás que le confieran los Plenos del Tribunal Superior de Justicia del Estado y del Consejo de la Judicatura y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO VIII BIS. De la Unidad de Comunicación Social y Protocolo
+
+> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+Integración y competencia
+
+Artículo 59 bis.- El Tribunal Superior de Justicia del Estado contará con una Unidad de Comunicación Social y Protocolo que estará integrada por una persona titular nombrada por el Pleno y las demás personas auxiliares que éste determine para el mejor despacho de los asuntos.
+
+La Unidad de Comunicación Social y Protocolo está encargada de cumplir las políticas en materia de difusión de las actividades del Poder Judicial del Estado, de la coordinación de las actividades protocolarias y de implementar mecanismos de cooperación con las instituciones de gobierno y las organizaciones de la sociedad civil.
+
+> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+Requisitos de la persona titular
+
+Artículo 59 ter.- Para ser Titular de la Unidad de Comunicación Social y Protocolo, se deberán satisfacer los requisitos para ser Titular de la Unidad de Administración, pero se deberá contar con título profesional de Licenciatura en Comunicación o carrera afín a ésta o contar con experiencia de al menos diez años en el ramo.
+
+> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+Atribuciones de la Unidad de Comunicación Social y Protocolo
+
+Artículo 59 quáter.- La Unidad de Comunicación Social y Protocolo tendrá las siguientes atribuciones:
+
+I.- Formular y ejecutar los planes, programas, políticas de comunicación social del Poder Judicial y someterlos a la aprobación del Pleno del Tribunal Superior de Justicia o al Pleno del Consejo de la Judicatura cuando se refieran a dicho órgano, por conducto de la Presidencia;
+
+II.- Informar con oportunidad al público en general sobre las actividades que realice el Poder Judicial del Estado;
+
+III.- Coordinar las relaciones del Poder Judicial del Estado con los medios de comunicación;
+
+IV.- Organizar y desarrollar las campañas de información y de difusión que determine el Pleno del Tribunal Superior de Justicia o el Pleno del Consejo de la Judicatura cuando se refieran a dicho órgano, así como proponer la contratación de espacios en los medios impresos y tiempos en medios electrónicos y medios de comunicación alternativa, y administrar las plataformas digitales y redes sociales institucionales;
+
+V.- Difundir los foros, seminarios, cursos, simposios y demás eventos que organice el Poder Judicial;
+
+VI.- Organizar conferencias de prensa, emitir comunicados, reportes especiales, así como material y documentos de apoyo para los medios de comunicación;
+
+VII.- Apoyar en la elaboración de programas de comunicación social de los órganos técnicos y jurisdiccionales del Poder Judicial que lo soliciten;
+
+VIII.- Organizar la realización de programas de difusión e información y de ejecución de sondeos de opinión pública y la formulación de proyectos con base en los resultados que se obtengan;
+
+IX.- Coordinar la edición de las publicaciones que emita el Poder Judicial;
+
+X.- Llevar el registro, analizar, evaluar y procesar la información que difundan los diversos medios de comunicación, relacionada con las actividades que desarrolle el Poder Judicial del Estado;
+
+XI.- Cumplir las disposiciones relativas a imagen institucional del Poder Judicial que emitan el Tribunal Superior de Justicia y el Consejo de la Judicatura y supervisar la aplicación uniforme de la imagen visual institucional en promocionales e instrumentos de comunicación con la sociedad;
+
+XII.- Generar, proponer e implementar actividades de colaboración y vinculación con la sociedad civil, los poderes públicos, organismos constitucionales autónomos, instituciones educativas y público en general;
+
+XIII.- Las demás que le confieran la normatividad aplicable, el Pleno del Tribunal Superior de Justicia o el Pleno del Consejo de la Judicatura en los asuntos de su competencia.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO VIII TER. De la Unidad de Planeación
+
+> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+Integración y competencia
+
+Artículo 59 quinquies.- El Tribunal Superior de Justicia contará con una Unidad de Planeación que estará integrada por una persona titular nombrada por el Pleno y las demás personas auxiliares que éste determine para el mejor despacho de los asuntos.
+
+La Unidad de Planeación está encargada de ejecutar la política de planeación y de llevar la información estadística; así como de la implementación del control interno y de la política de mejora regulatoria en el Poder Judicial del Estado.
+
+> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+Requisitos de la persona titular
+
+Artículo 59 sexies.- Para ser Titular de la Unidad de Planeación se deberán satisfacer los requisitos para ser Titular de la Unidad de Administración, pero se deberá contar con título profesional de Licenciatura en Administración de Empresas, Economía, Matemáticas o carrera afín a aquellas.
+
+> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+Atribuciones de la Unidad de Planeación
+
+Artículo 59 septies.- La Unidad de Planeación tendrá las siguientes atribuciones:
+
+I.- Proponer al Pleno del Tribunal Superior de Justicia del Estado o al Pleno del Consejo de la Judicatura, según sea el caso, la implementación de acciones tendientes a impulsar mejores niveles de eficiencia y productividad en las áreas y órganos del Poder Judicial;
+
+II.- Diseñar y operar un sistema de información estadística para el control y evaluación de las áreas y órganos del Poder Judicial, en coordinación con la Visitaduría del Consejo de la Judicatura;
+
+III.- Recibir, procesar y depurar la información estadística generada por las áreas y órganos del Poder Judicial, en coordinación con la Visitaduría del Consejo;
+
+IV.- Generar información estadística detallada sobre el desarrollo y evolución de la solicitud de impartición de justicia y sobre el sentido de las determinaciones adoptadas por los órganos del Poder Judicial a lo largo del tiempo, en coordinación con la Unidad de Asuntos Jurídicos y Sistematización de Precedentes del Tribunal Superior de Justicia;
+
+V.- Proveer a las áreas y órganos del Poder Judicial, que así lo soliciten, sobre el comportamiento y tendencias de otras áreas y órganos;
+
+VI.- Elaborar los programas de implementación del sistema de control interno y de administración de riesgos en el Poder Judicial, así como proponer los mecanismos y estrategias para la implementación, orientación y seguimiento de las políticas públicas de anticorrupción;
+
+VII.- Proponer la elaboración y actualización de manuales y guías, el desarrollo de acciones en materia de organización, sistemas y procedimientos; así como, participar en la implementación de lineamientos, metodologías, técnicas y esquemas novedosos de trabajo que permitan mejorar y simplificar métodos y procesos de trabajo en el Poder Judicial, y
+
+VIII.- Las demás que establezca la legislación aplicable y los Plenos del Tribunal Superior de Justicia del Estado y del Consejo de la Judicatura en los asuntos que les correspondan.
 
 > <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O. 18 DE JULIO DE 2017)</small>
-
-### CAPÍTULO I. Disposiciones generales
-
-### CAPÍTULO II. Del Pleno del Tribunal de Justicia Fiscal y Administrativa
 
 ## TÍTULO TERCERO. DEL TRIBUNAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
@@ -901,7 +1049,7 @@ X.- Las demás que le confiera el Pleno y otras disposiciones legales aplicables
 
 ## TÍTULO CUARTO. DEL TRIBUNAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS
 
-### CAPÍTULO III. Del Presidente del Tribunal de Justicia Fiscal y Administrativa
+### CAPÍTULO I. Disposiciones generales
 
 ###### Artículo 76.
 
@@ -993,15 +1141,23 @@ Competencia específica
 
 El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios será competente para conocer:
 
-I.- De los conflictos individuales que se susciten entre una dependencia de la administración pública centralizada, el Poder Legislativo, el Poder Judicial o alguno de los municipios del Estado de Yucatán y los trabajadores a su servicio;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+I.- De los conflictos individuales que se susciten entre una dependencia de la administración pública centralizada, el Poder Legislativo o alguno de los municipios del Estado de Yucatán y las personas trabajadoras a su servicio;
 
 II.- De los conflictos colectivos que surjan entre las instituciones citadas y las organizaciones de trabajadores a su servicio;
 
-III.- Del registro de los sindicatos de trabajadores del estado y municipios y, en su caso dictar la cancelación de los mismos;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
-IV.- De los conflictos sindicales e intersindicales;
+III.- Del registro de los sindicatos de personas trabajadoras del estado y municipios y, en su caso dictar la cancelación de los mismos, con excepción de los pertenecientes al Poder Judicial, lo que será de la competencia de la Comisión de Conflictos Laborales del Poder Judicial del Estado, en los términos de la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán;
 
-V.- Efectuar el registro de las condiciones generales de trabajo, reglamentos de Escalafón y de los estatutos y directivas de los Sindicatos de Trabajadores al Servicio del Estado y Municipios, en los casos en los que así proceda, y
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+IV.- De los conflictos sindicales e intersindicales, con excepción de aquellos relativos a los sindicatos pertenecientes al Poder Judicial, lo que será de la competencia de la Comisión de Conflictos Laborales del Poder Judicial del Estado, en los términos de la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán;
+
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+V.- Efectuar el registro de las condiciones generales de trabajo, reglamentos de Escalafón y de los estatutos y directivas de los Sindicatos de Trabajadores al Servicio del Estado y Municipios, en los casos en los que así proceda, con excepción de los relativos al Poder Judicial, lo que será de la competencia de la Comisión de Conflictos Laborales del Poder Judicial del Estado, en los términos de la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán, y
 
 VI.- Las demás que se deriven de ésta y otras leyes.
 
@@ -1019,11 +1175,7 @@ El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios conta
 
 ## TÍTULO QUINTO. DE LOS JUZGADOS DE PRIMERA INSTANCIA, TRIBUNALES LABORALES Y JUZGADOS DE PAZ
 
-### CAPÍTULO ÚNICO. Disposiciones generales
-
-> <small>(ADICIONADO SU EPÍGRAFE, D.O. 24 DE NOVIEMBRE DE 2017)</small>
-
-Competencia del tribunal
+### CAPÍTULO II. Del Pleno del Tribunal de Justicia Fiscal y Administrativa
 
 ###### Artículo 82.
 
@@ -1125,11 +1277,15 @@ Para ser juez especializado en justicia para adolescentes, además de los requis
 
 En el sistema de justicia acusatorio y oral, para ser juez de primera instancia, se deberán acreditar además de los requisitos anteriores, contar con los conocimientos, habilidades y competencias que se requieran para el desempeño de su cargo, de conformidad con lo que establezcan las disposiciones reglamentarias.
 
-Obligaciones y atribuciones generales de los jueces de primera instancia
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+Obligaciones y atribuciones generales de las personas juezas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 89.
 
-Son facultades y obligaciones de los jueces de primera instancia:
+Son facultades y obligaciones de las personas juezas:
 
 I.- Actuar en apego a la legislación aplicable;
 
@@ -1142,6 +1298,10 @@ IV.- Calificar, sin ulterior recurso, cuando procedan, las excusas y recusacione
 V.- Corregir las faltas de los empleados del juzgado a su cargo, que no estén reservadas al Consejo de la Judicatura o a su Presidente;
 
 VI.- Conceder licencias a los empleados de su juzgado, hasta por tres días, y comunicarlo de inmediato al Consejo de la Judicatura;
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+VI bis. Contestar la vista que le dé el Pleno del Consejo de la Judicatura, respecto de las solicitudes de licencias del personal del juzgado de más de tres días, proponiendo a quien pueda cubrirlas;
 
 VII.- Remitir a la Presidencia del Consejo de la Judicatura una estadística anual y otra mensual sobre el estado de los asuntos llevados en el juzgado;
 
@@ -1175,7 +1335,9 @@ Personal de los juzgados
 
 El personal de cada uno de los juzgados de primera instancia se compondrá, de jueces, secretarios, actuarios y técnicos judiciales, así como de los demás empleados que determine el pleno del Consejo de la Judicatura, conforme a las necesidades del servicio y acorde a las previsiones del presupuesto, según disponga la legislación aplicable y las disposiciones reglamentarias de esta Ley.
 
-Tratándose del sistema acusatorio y oral, además de los jueces de control y de juicio oral, los juzgados se integrarán con un administrador, coordinadores de sala, coordinadores de causas, analistas, personal de atención al público, notificadores, técnicos y demás personal que establezcan las disposiciones reglamentarias, de acuerdo con la disponibilidad presupuestal.
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+Tratándose del sistema acusatorio y oral, además de las personas juezas de control y de juicio oral, los juzgados se integrarán con las personas administradoras, encargadas de sala, coordinadoras de causas, personal de atención al público, notificadoras, técnicas y demás personal que establezcan las disposiciones reglamentarias, de acuerdo con la disponibilidad presupuestal.
 
 > <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
 
@@ -1265,11 +1427,7 @@ La competencia y adscripción de los jueces de ejecución de sentencia se determ
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO I. De los juzgados de primera instancia del Estado
-
-> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2021)</small>
-
-Competencia en razón de materia
+### CAPÍTULO III. Del Presidente del Tribunal de Justicia Fiscal y Administrativa
 
 ###### Artículo 97 Bis.
 
@@ -1321,11 +1479,11 @@ Las disposiciones previstas en esta Ley para las juezas o los jueces de primera 
 
 > <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO III], D.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
-### CAPÍTULO I BIS. De los Tribunales Laborales
+### CAPÍTULO ÚNICO. Disposiciones generales
 
-> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(ADICIONADO SU EPÍGRAFE, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
-Competencia en razón de materia
+Competencia del tribunal
 
 ###### Artículo 98.
 
@@ -1403,9 +1561,9 @@ VI.- Entregar anualmente al Archivo General del Poder Judicial, dentro de la pri
 
 VII.- Hacer formal entrega a quien lo suceda en el cargo, mediante acta circunstanciada, de los asuntos en trámite y de los terminados que no hubiere enviado al Archivo General del Poder Judicial, en su caso, y
 
-> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
-VIII.- Capacitarse de manera constante en las materias de su competencia y diligenciar los asuntos que les encomienden las leyes.
+VIII.- Capacitarse de manera constante en las materias de su competencia, con énfasis en la protección de los derechos humanos, igualdad y perspectiva de género, perspectiva intercultural de personas, garantía de los derechos de las personas en situación de vulnerabilidad e integridad en el servicio público, conforme a los programas de capacitación implementados por el Consejo de la Judicatura; así como, diligenciar los asuntos que les encomienden las leyes.
 
 Los jueces de paz deberán abstenerse de admitir o conocer asuntos en materia penal, y en su caso, si fuere necesario, turnarán al Ministerio Público aquellos de esa naturaleza que le sean presentados.
 
@@ -1425,11 +1583,11 @@ En caso de faltas que excedan de un mes, el Pleno del Consejo de la Judicatura n
 
 ## TÍTULO SEXTO. DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO
 
-### CAPÍTULO II. De los Jueces de Paz
+### CAPÍTULO I. De los juzgados de primera instancia del Estado
 
-> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-Nombramiento
+Competencia en razón de materia
 
 ###### Artículo 105.
 
@@ -1491,13 +1649,13 @@ b) Escuela Judicial.
 
 II. Unidades:
 
-a) De Estudios e Investigaciones Judiciales;
+a) (DEROGADO, D.O. 19 DE DICIEMBRE DE 2023)
 
 b) De Transparencia y Acceso a la Información;
 
-c) De Comunicación Social y Protocolo, y
+c) (DEROGADO, D.O. 19 DE DICIEMBRE DE 2023)
 
-d) De Planeación.
+d) (DEROGADO, D.O. 19 DE DICIEMBRE DE 2023)
 
 III. Órganos Técnicos:
 
@@ -1507,9 +1665,11 @@ b) Controlaría.
 
 Los titulares de las direcciones, unidades y órganos técnicos del Consejo de la Judicatura, serán nombrados por el Pleno del Consejo.
 
-### CAPÍTULO I. Disposiciones generales
+### CAPÍTULO I BIS. De los Tribunales Laborales
 
-Naturaleza y competencia material
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Competencia en razón de materia
 
 ###### Artículo 113.
 
@@ -1539,7 +1699,9 @@ III.- Emitir los acuerdos generales y demás disposiciones para el ejercicio de 
 
 IV.- Ejercer la vigilancia de los juzgados de paz a través del área que corresponda;
 
-V.- Analizar y, en su caso, aprobar el informe de actividades administrativas del Poder Judicial que formule el Presidente del Tribunal y del Consejo, para su integración al informe general de actividades del Poder Judicial;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+V. Analizar y, en su caso, aprobar el informe de actividades administrativas del Consejo de la Judicatura que formule la persona que ocupe la presidencia del Tribunal y del Consejo, para su integración al informe anual de actividades del Poder Judicial;
 
 VI.- Aprobar el presupuesto de egresos correspondiente al Consejo de la Judicatura;
 
@@ -1575,7 +1737,9 @@ XIX.- Aprobar la contratación de servicios de auditoría externa;
 
 XX.- Conocer y dar seguimiento al cumplimiento de las observaciones y recomendaciones resultantes de las auditorías externas que dicho órgano contrate;
 
-XXI.- Investigar de oficio o a petición de parte, la conducta de los empleados y funcionarios públicos del Poder Judicial, con excepción del personal adscrito al Tribunal Superior de Justicia, en relación a hechos que puedan constituir irregularidades que transgredan cualquier disposición legal;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+XXI. Conocer de los asuntos de responsabilidad administrativa relacionados con las personas servidoras públicas del Poder Judicial, con excepción del personal adscrito al Tribunal Superior de Justicia, en los términos que el Pleno del Consejo de la Judicatura establezca mediante acuerdos generales;
 
 XXII.- Conducir la Carrera Judicial en el Poder Judicial en el ámbito de su competencia;
 
@@ -1611,9 +1775,11 @@ XXXIII.- Conocer y resolver el recurso de revocación contra las resoluciones qu
 
 XXXIV.- Las demás que expresamente establezcan esta Ley y otras disposiciones aplicables.
 
-### CAPÍTULO II. Del Pleno del Consejo de la Judicatura
+### CAPÍTULO II. De los Jueces de Paz
 
-Quórum para sesionar
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
+
+Nombramiento
 
 ###### Artículo 116.
 
@@ -1623,7 +1789,9 @@ I.- Representar oficialmente al Consejo de la Judicatura;
 
 II.- Convocar y conducir las sesiones del Pleno del Consejo de la Judicatura, así como declarar la existencia de quórum;
 
-III.- Vigilar el cumplimiento de los acuerdos emitidos por el Consejo de la Judicatura;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+III.- Vigilar, a través de la Secretaría Ejecutiva, el cumplimiento de los acuerdos emitidos por el Consejo de la Judicatura;
 
 > <small>(REFORMADA, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1631,9 +1799,9 @@ IV.- Suscribir los convenios, acuerdos, dictámenes y demás resoluciones que ap
 
 V.- Para los efectos del Artículo 34 de la Constitución Política del Estado de Yucatán, rendir durante los primeros diez días de los meses de julio y enero los informes del movimiento contable del ejercicio de su presupuesto;
 
-> <small>(REFORMADA, D.O. 4 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
-VI.- Someter ante el Pleno del Consejo, oportunamente, los nombramientos de servidores públicos para cubrir las vacantes o plazas de nueva creación, incluso, tratándose de ascensos; así como el de la persona representante del Consejo de la Judicatura del estado, ante la correspondiente Comisión de Conflictos Laborales del Poder Judicial del Estado;
+VI. Someter ante el Pleno del Consejo, oportunamente, los nombramientos de las personas servidoras públicas para cubrir las vacantes o plazas de nueva creación, incluso, tratándose de ascensos, con la intervención que corresponda a la Comisión Mixta de Escalafón respecto del personal de base; así como el de la persona representante del Consejo de la Judicatura del estado, ante la correspondiente Comisión de Conflictos Laborales del Poder Judicial del Estado;
 
 VII.- Dar cuenta al Pleno del Consejo de las correcciones disciplinarias que imponga y vigilar que se cumplan las que imponga el Pleno, así como vigilar que se lleve un registro de las mismas;
 
@@ -1643,9 +1811,13 @@ IX.- Dar cuenta de los programas, políticas, informes, estudios, dictámenes y 
 
 X.- Presentar la denuncia de hechos que corresponda ante las autoridades competentes, en los casos en que la actualización de una infracción administrativa implique la comisión de un delito;
 
-XI.- Someter al Pleno del Consejo de la Judicatura el informe de actividades administrativas del Poder Judicial, para su análisis y, en su caso, aprobación e incorporación al informe general de actividades del Poder Judicial;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
-XII.- Comunicar al Tribunal Superior de Justicia de las renuncias y licencias que hayan tramitado los Jueces para separarse de su cargo;
+XI. Someter al Pleno del Consejo de la Judicatura el informe de actividades administrativas del referido Consejo, para su análisis y, en su caso, aprobación e incorporación al informe anual de actividades del Poder Judicial;
+
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+XII. Comunicar al Tribunal Superior de Justicia de las renuncias y licencias que hayan tramitado las personas juezas para separarse de su cargo, a través de la Secretaría Ejecutiva;
 
 > <small>(REFORMADA, D.O. 20 DE OCTUBRE DE 2023)</small>
 
@@ -1655,21 +1827,31 @@ XIII.- Someter, anualmente y de manera oportuna, al Pleno del Consejo el proyect
 
 XIV.- Designar a cuando menos dos personas Consejeras de la Judicatura y a las personas servidoras públicas del Poder Judicial que deberán comparecer ante el Congreso del Estado para rendir las aclaraciones o informes que sean solicitados con relación al Presupuesto de Egresos del Poder Judicial;
 
-XV.- Llevar la firma y representación legal del Fondo Auxiliar para la Administración de Justicia del Estado de Yucatán, de manera conjunta con el Titular de éste, y
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
-XVI.- Las demás que expresamente establezcan esta Ley y otras disposiciones aplicables.
+XV. Llevar la firma y representación legal del Fondo Auxiliar para la Administración de Justicia del Estado de Yucatán, de manera conjunta con el Titular de éste;
 
-> <small>(ADICIONADO SU EPÍGRAFE, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
-Facultades y obligaciones de los consejeros de la judicatura
+XVI. Legalizar, por sí o por conducto de la persona titular de la Secretaría Ejecutiva, la firma de las personas servidoras públicas del Poder Judicial en los casos en que la ley exija este requisito, con excepción de quienes se encuentren adscritas al Tribunal Superior de Justicia, y
+
+XVII. Las demás que expresamente establezcan esta Ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+Facultades y obligaciones de las personas consejeras de la judicatura
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 117.
 
-Son facultades y obligaciones de los Consejeros de la Judicatura:
+Son facultades y obligaciones de las personas consejeras de la judicatura:
 
 I.- Asistir a las sesiones del Pleno y de las Comisiones del Consejo de la Judicatura y emitir su voto en los asuntos de su competencia;
 
-II.- Desempeñar, cumplir y ejecutar las encomiendas y acuerdos del Consejo de la Judicatura;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+II.- Desempeñar, cumplir y ejecutar las encomiendas y acuerdos del Consejo de la Judicatura y del Pleno del Tribunal Superior de Justicia que guarden relación con la impartición de justicia;
 
 III.- Realizar la función de visitadores para inspeccionar el funcionamiento administrativo de los Juzgados de Primera Instancia y los demás órganos del Poder Judicial, directamente o a través de los visitadores designados para tal efecto, aplicando lo previsto en el artículo 152 de esta Ley, con excepción del Tribunal Superior de Justicia;
 
@@ -1679,13 +1861,9 @@ V.- Conocer con anticipación el contenido de los asuntos a tratar en las Sesion
 
 VI.- Las demás que expresamente establezcan esta Ley y otras disposiciones legales aplicables.
 
-### CAPÍTULO III. Del Presidente del Consejo de la Judicatura
+### CAPÍTULO I. Disposiciones generales
 
-> <small>(REFORMADO SU EPÍGRAFE, D.O. 20 DE OCTUBRE DE 2023)</small>
-
-Facultades y obligaciones de la persona titular de la Presidencia
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE OCTUBRE DE 2023)</small>
+Naturaleza y competencia material
 
 ###### Artículo 118.
 
@@ -1711,9 +1889,11 @@ Para ser Secretario Ejecutivo del Consejo, se deben satisfacer los mismos requis
 
 Facultades y obligaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 122.
 
-Son facultades y obligaciones del Secretario Ejecutivo:
+Son facultades y obligaciones de la persona Titular de la Secretaría Ejecutiva:
 
 I.- Tramitar los asuntos de la competencia del Pleno del Consejo de la Judicatura y coordinar sus actividades;
 
@@ -1723,7 +1903,7 @@ III.- Presentar el orden del día de las sesiones, de acuerdo con el Presidente 
 
 IV.- Auxiliar al Presidente del Consejo;
 
-V.- Auxiliar a los Consejeros en la coordinación de las actividades de las direcciones, unidades, y órganos técnicos del Consejo de la Judicatura;
+V.- (DEROGADA, D.O. 19 DE DICIEMBRE DE 2023)
 
 VI.- Ejecutar los acuerdos del Consejo de la Judicatura e Informar sobre el cumplimiento de los mismos al Consejo;
 
@@ -1737,9 +1917,9 @@ X.- Ser el conducto para comunicar al Pleno del Tribunal aquellos acuerdos de tr
 
 XI.- Las demás que le confiera esta Ley y otras disposiciones aplicables.
 
-### CAPÍTULO IV. Del Secretario Ejecutivo
+### CAPÍTULO II. Del Pleno del Consejo de la Judicatura
 
-Forma de designación
+Quórum para sesionar
 
 ###### Artículo 123.
 
@@ -1767,9 +1947,13 @@ Para que funcionen las Comisiones del Consejo de la Judicatura, previa convocato
 
 Los Consejeros no podrán abstenerse de votar, sino cuando tengan impedimento legal. En caso de empate, el Presidente de la Comisión tendrá voto de calidad.
 
-### CAPÍTULO V. De las Comisiones del Consejo de la Judicatura
+### CAPÍTULO III. Del Presidente del Consejo de la Judicatura
 
-Comisiones
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 20 DE OCTUBRE DE 2023)</small>
+
+Facultades y obligaciones de la persona titular de la Presidencia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE OCTUBRE DE 2023)</small>
 
 #### Sección Primera. De la Dirección de Administración y Finanzas
 
@@ -1851,6 +2035,10 @@ La Escuela Judicial está encargada de la formación, actualización y especiali
 
 Para la realización de las atribuciones que le corresponde a la Escuela Judicial, podrán establecerse planteles en el interior del Estado, de acuerdo con lo que determine el Pleno del Consejo.
 
+> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+Las atribuciones que conforme a esta sección le corresponden a la Escuela Judicial serán ejercidas en lo atinente al Tribunal Superior de Justicia, a través del Departamento de Formación, Capacitación y Profesionalización del Personal del Tribunal Superior de Justicia, que dependerá funcionalmente del Pleno del Tribunal Superior de Justicia del Estado o de la instancia que este determine.
+
 Titular de la Escuela Judicial
 
 ###### Artículo 130.
@@ -1873,65 +2061,61 @@ I.- Diseñar programas docentes de formación, capacitación y especialización 
 
 II.- Organizar seminarios, conferencias, simposios, mesas redondas, paneles, coloquios y otras actividades académicas, científicas y culturales, dirigidas a impulsar el mejoramiento profesional de los servidores públicos judiciales;
 
-III.- Conducir la carrera judicial en el Poder Judicial, de acuerdo a las disposiciones que establezca esta Ley, el Reglamento de Carrera Judicial y el Pleno del Consejo;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
-IV.- Celebrar convenios para el mejor desarrollo de sus fines;
+III. Conducir la carrera judicial en el Poder Judicial, de acuerdo a las disposiciones que establezca esta Ley, el Reglamento de Carrera Judicial y el Pleno del Consejo de la Judicatura. En el Tribunal Superior de Justicia se ejecutará esta atribución por conducto del Departamento de Formación, Capacitación y Profesionalización del Personal del Tribunal Superior de Justicia, de acuerdo a las disposiciones que establezca esta Ley, el Reglamento de Carrera Judicial y el Pleno del Tribunal Superior de Justicia;
 
-V.- Establecer y operar, en coordinación con la Dirección de Administración y Finanzas, los programas y procedimientos en materias de selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia, promoción, reconocimiento de los servidores públicos adscritos a las direcciones y órganos administrativos del Poder Judicial, conforme a las disposiciones reglamentarias y acuerdos derivados de esta Ley;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+IV. Proponer a los Plenos del Tribunal y del Consejo la celebración de convenios para el mejor desarrollo de sus fines;
+
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+V. Establecer y operar, en coordinación con la Unidad de Administración del Tribunal por conducto del Departamento de Formación, Capacitación y Profesionalización del Personal del Tribunal y con la Dirección de Administración y Finanzas, los programas y procedimientos en materias de selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia, promoción, reconocimiento de las personas servidoras públicas adscritas a las direcciones y órganos administrativos del Poder Judicial, conforme a las disposiciones reglamentarias y acuerdos derivados de esta Ley;
 
 VI.- Contribuir al mejor logro de los objetivos institucionales, mediante la coordinación de sus actividades con otras instituciones públicas o privadas de educación superior;
 
-VII.- Expedir y certificar las constancias relativas a los programas de formación, especialización y actualización de los servidores públicos del Poder Judicial, así como de los resultados de los sistemas de evaluación del desempeño y de los cursos y exámenes que sustenten, autorizados por el Pleno del Consejo;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+VII. Expedir y certificar las constancias relativas a los programas de formación, especialización y actualización de las personas servidoras públicas del Poder Judicial, así como de los resultados de los sistemas de evaluación del desempeño y de los cursos y exámenes que sustenten, autorizados por el Pleno del Tribunal y del Consejo;
 
 VIII.- Implementar planes de estudio formalizados con reconocimiento de validez oficial;
 
-IX.- Administrar las bibliotecas del Poder Judicial, con excepción de la del Tribunal Superior de Justicia;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
-X.- Administrar el sistema de servicio social y prácticas profesionales del Poder Judicial y,
+IX. Administrar las bibliotecas del Poder Judicial;
 
-XI.- Las demás que le confieran la normatividad aplicable y el Consejo de la Judicatura.
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+X. Administrar el sistema de servicio social y prácticas profesionales del Poder Judicial;
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+X bis. Supervisar las funciones del Departamento de Formación, Capacitación y Profesionalización del Personal del Tribunal Superior de Justicia, de conformidad con las atribuciones previstas en el presente numeral y,
+
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+XI. Las demás que le confieran la normatividad aplicable y los Plenos del Consejo de la Judicatura y del Tribunal Superior de Justicia en los asuntos de su competencia.
+
+> <small>(DEROGADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
 #### Sección Tercera. De la Unidad de Estudios e Investigaciones Judiciales
 
-Naturaleza
-
 ###### Artículo 133.
 
-La Unidad de estudios e investigaciones judiciales está encargada de realizar los trabajos de análisis, estudios e investigación jurídica en apoyo a la administración de justicia.
-
-Titular de la unidad de estudios e investigaciones judiciales
+(DEROGADO, D.O. 19 DE DICIEMBRE DE 2023)
 
 ###### Artículo 134.
 
-Las funciones de la Unidad de Estudios e Investigaciones Judiciales serán ejercidas por su titular, quien podrá apoyarse en los servidores públicos a su cargo, de acuerdo a las disposiciones aplicables, sin que ello implique disminución en la responsabilidad que conlleva su cargo. La unidad de estudios e investigaciones judiciales contará con el personal que designe el Consejo de la Judicatura, conforme a los acuerdos generales que al efecto se expidan y que permita el presupuesto.
-
-Requisitos del titular
+(DEROGADO, D.O. 19 DE DICIEMBRE DE 2023)
 
 ###### Artículo 135.
 
-Para ser titular de la Unidad de estudios e investigaciones judiciales, se deben satisfacer los requisitos previstos para ser Director de Administración y Finanzas, pero deberá contar con título profesional de abogado o licenciado en derecho y contar con al menos una especialización en materia jurídica.
-
-Atribuciones
+(DEROGADO, D.O. 19 DE DICIEMBRE DE 2023)
 
 ###### Artículo 136.
 
-La Unidad de estudios e investigaciones judiciales tendrá las siguientes atribuciones:
-
-I.- Estudiar los problemas jurídicos que surjan de la práctica judicial y los que le sean encomendados por los órganos jurisdiccionales del Poder Judicial, para apoyar sus funciones;
-
-II.- Proponer la normatividad y los criterios para modernizar la estructura organizacional, los sistemas y procedimientos administrativos internos, así como los servicios que el Poder Judicial presta al público;
-
-III.- Apoyar en la difusión de las tesis emitidas por los tribunales federales y los precedentes emitidos por el Tribunal Superior de Justicia, entre los servidores públicos del Poder Judicial que realizan funciones jurisdiccionales;
-
-IV.- Apoyar al área administrativa que le corresponda la edición de las publicaciones periódicas en que se difundan temas de fondo relevantes en materia judicial;
-
-V.- Compilar y actualizar los ordenamientos jurídicos que tengan relación con la administración de justicia, para mantener informados de sus cambios a los servidores públicos del Poder Judicial que realizan funciones jurisdiccionales;
-
-VI.- Elaborar los anteproyectos de reglamentos, acuerdos, circulares y demás disposiciones de observancia obligatoria que se deban someter a la resolución del Pleno del Consejo de la Judicatura, en coordinación con la dirección u órgano correspondiente;
-
-VII.- Fomentar entre los miembros del Poder Judicial, el estudio y la investigación jurídica en las áreas del Derecho, así como el incremento del acervo de información, en coordinación con la Escuela Judicial, y
-
-VIII.- Las demás que le confieran la normativa aplicable y el Consejo de la Judicatura.
+(DEROGADO, D.O. 19 DE DICIEMBRE DE 2023)
 
 #### Sección Cuarta. De la unidad de transparencia y acceso a la información
 
@@ -1983,95 +2167,49 @@ X.- Proponer la creación de módulos de acceso a la información que resulten n
 
 XI.- Las demás que le confieran la normatividad aplicable y el Consejo de la Judicatura.
 
-#### Sección Quinta. De la Unidad de Comunicación Social y Protocolo
+> <small>(DEROGADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
-Naturaleza
+#### Sección Quinta. De la Unidad de Comunicación Social y Protocolo
 
 ###### Artículo 141.
 
-La Unidad de Comunicación Social y Protocolo está encargada de cumplir las políticas en materia de difusión de las actividades del Poder Judicial del Estado.
-
-Titular de la unidad de comunicación social y protocolo
+(DEROGADO, D.O. 19 DE DICIEMBRE DE 2023)
 
 ###### Artículo 142.
 
-Las funciones de la Unidad de Comunicación Social y Protocolo serán ejercidas por su Titular, quien podrá apoyarse en los servidores públicos a su cargo, de acuerdo a las disposiciones aplicables, sin que ello implique disminución en la responsabilidad que conlleva su cargo. La unidad de comunicación social y protocolo contará con el personal que designe el Consejo de la Judicatura, conforme a los acuerdos generales que al efecto se expidan y que permita el presupuesto.
-
-Requisitos
+(DEROGADO, D.O. 19 DE DICIEMBRE DE 2023)
 
 ###### Artículo 143.
 
-Para ser Titular de la Unidad de Comunicación Social y Protocolo, se deberá contar con título profesional de Licenciado en Comunicación o carrera afín a ésta o contar con experiencia de al menos diez años en el ramo.
-
-Atribuciones
+(DEROGADO, D.O. 19 DE DICIEMBRE DE 2023)
 
 ###### Artículo 144.
 
-La Unidad de Comunicación Social y Protocolo tendrá las siguientes atribuciones:
+(DEROGADO, D.O. 19 DE DICIEMBRE DE 2023)
 
-I.- Formular y ejecutar los planes, programas, políticas de comunicación social del Poder Judicial y someterlos a la aprobación del Consejo, por conducto de su Presidente;
-
-II.- Informar con oportunidad al público en general sobre las actividades que realice el Poder Judicial del Estado;
-
-III.- Coordinar las relaciones del Poder Judicial del Estado con los medios de comunicación;
-
-IV.- Organizar y desarrollar las campañas de información y de difusión que determine el Consejo de la Judicatura, así como contratar espacios en los medios impresos y tiempos en medios electrónicos, así como medios de comunicación alternativa;
-
-V.- Difundir los foros, seminarios, cursos, simposios y demás eventos que organice el Poder Judicial;
-
-VI.- Organizar conferencias de prensa, emitir comunicados, reportes especiales, así como material y documentos de apoyo para los medios de comunicación;
-
-VII.- Apoyar en la elaboración de programas de comunicación social de los órganos técnicos y jurisdiccionales del Poder Judicial que lo soliciten;
-
-VIII.- Organizar la realización de programas de difusión e información y de ejecución de sondeos de opinión pública y la formulación de proyectos con base en los resultados que se obtengan;
-
-IX.- Coordinar la edición de las publicaciones que emita el Poder Judicial;
-
-X.- Llevar el registro, analizar, evaluar y procesar la información que difundan los diversos medios de comunicación, relacionada con las actividades que desarrolle el Poder Judicial del Estado;
-
-XI.- Cumplir las disposiciones relativas a imagen institucional del Poder Judicial que emita el Consejo de la Judicatura, y
-
-XII.- Las demás que le confieran la normatividad aplicable y el Consejo de la Judicatura.
+> <small>(DEROGADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
 #### Sección Sexta. De la Unidad de Planeación
 
-Naturaleza
-
 ###### Artículo 145.
 
-La Unidad de Planeación está encargada de ejecutar la política de planeación y de llevar la información estadística del Poder Judicial del Estado.
-
-Titular de la unidad de planeación
+(DEROGADO, D.O. 19 DE DICIEMBRE DE 2023)
 
 ###### Artículo 146.
 
-El Titular de la Unidad de Planeación del Consejo de la Judicatura para el cumplimiento de sus funciones, podrá apoyarse en los servidores públicos a su mando, de acuerdo a las disposiciones aplicables, sin que ello implique disminución en la responsabilidad que conlleva su cargo. La Unidad de Planeación contará con el personal que designe el Consejo de la Judicatura, conforme a los acuerdos generales que al efecto se expidan y que permita el presupuesto.
-
-Requisitos
+(DEROGADO, D.O. 19 DE DICIEMBRE DE 2023)
 
 ###### Artículo 147.
 
-Para ser Titular de la Unidad de Planeación, se deberá contar con título profesional de Licenciado en Administración de Empresas, Economía, Matemáticas o carrera afín a aquéllas.
-
-Atribuciones
+(DEROGADO, D.O. 19 DE DICIEMBRE DE 2023)
 
 ###### Artículo 148.
 
-La Unidad de Planeación tendrá las siguientes atribuciones:
+(DEROGADO, D.O. 19 DE DICIEMBRE DE 2023)
 
-I.- Proponer al Pleno del Consejo la implementación de acciones tendientes a impulsar mejores niveles de eficiencia y productividad en las áreas y órganos del Poder Judicial, diversos a los que dependen del Tribunal Superior de Justicia;
+### CAPÍTULO IV. Del Secretario Ejecutivo
 
-II.- Diseñar y operar un sistema de información estadística para el control y evaluación de las áreas y órganos del Poder Judicial, en coordinación con la visitaduría;
-
-III.- Recibir, procesar y depurar la información estadística generada por las áreas y órganos del Poder Judicial, en coordinación con la visitaduría;
-
-IV.- Contar con información estadística detallada sobre el desarrollo y evolución de la solicitud de impartición de justicia y sobre el sentido de las determinaciones adoptadas por los órganos del Poder Judicial a lo largo del tiempo, en coordinación con la unidad de estudios e investigaciones judiciales;
-
-V.- Proveer a las áreas y órganos del Poder Judicial, que así lo soliciten, sobre el comportamiento y tendencias de otras áreas y órganos, y
-
-VI.- Las demás que establezca la legislación aplicable y el Pleno del Consejo.
-
-### CAPÍTULO VI. De las Direcciones del Consejo de la Judicatura
+Forma de designación
 
 #### Sección Primera. De la visitaduría
 
@@ -2191,7 +2329,9 @@ VII.- Dictaminar las bajas y el destino final de bienes en los inventarios de ac
 
 VIII.- Vigilar que en los expedientes de los servidores públicos del Poder Judicial se haga constar, en su caso, las sanciones y correcciones disciplinarias que se les haya impuesto, en los casos de su competencia;
 
-IX.- Conocer y resolver los procedimientos de responsabilidad administrativa de los servidores públicos del Poder Judicial, imponer, en su caso, y ejecutar las sanciones conforme a las previsiones de esta Ley y de la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
+IX.- Conocer y resolver los procedimientos de responsabilidad administrativa de las personas servidoras públicas del Poder Judicial, imponer, en su caso, y ejecutar las sanciones conforme a las previsiones de esta Ley, de la Ley de Responsabilidades Administrativas del Estado de Yucatán y los acuerdos generales que establezca el Pleno del Consejo;
 
 X.- Revisar los libros, registros, controles, bitácoras y demás documentos que obligatoriamente deban llevarse en las direcciones y órganos cuya vigilancia tenga encomendada, con el propósito de verificar que se encuentren en orden, actualizados y con todos los datos establecidos por la normativa aplicable;
 
@@ -2201,7 +2341,9 @@ XII.- Las demás que le confieran la normativa aplicable y el Consejo de la Judi
 
 ## TÍTULO SÉPTIMO. DE LOS ORGANISMOS DESCENTRALIZADOS Y ÓRGANOS DESCONCENTRADOS DEL PODER JUDICIAL
 
-### CAPÍTULO VII. De los Órganos Técnicos del Consejo de la Judicatura
+### CAPÍTULO V. De las Comisiones del Consejo de la Judicatura
+
+Comisiones
 
 ###### Artículo 157.
 
@@ -2219,9 +2361,7 @@ El Fondo Auxiliar para la Administración de Justicia del Estado de Yucatán ser
 
 Su titular será nombrado por el Pleno del Consejo de la Judicatura, al igual que el personal a su cargo.
 
-### CAPÍTULO I. Del Fondo Auxiliar para la Administración de Justicia del Estado de Yucatán
-
-Naturaleza
+### CAPÍTULO VI. De las Direcciones del Consejo de la Judicatura
 
 ###### Artículo 159.
 
@@ -2251,9 +2391,7 @@ El Centro Estatal de Solución de Controversias implementará, de manera coordin
 
 ## TÍTULO OCTAVO. DE LAS VACACIONES Y LICENCIAS
 
-### CAPÍTULO II. Del Centro Estatal de Solución de Controversias
-
-Naturaleza
+### CAPÍTULO VII. De los Órganos Técnicos del Consejo de la Judicatura
 
 ###### Artículo 163.
 
@@ -2291,9 +2429,9 @@ Toda solicitud de licencia deberá presentarse ante la Secretaría General de Ac
 
 ## TÍTULO NOVENO. DE LAS SUPLENCIAS Y SUSTITUCIÓN POR IMPEDIMENTOS
 
-### CAPÍTULO ÚNICO. Disposiciones generales
+### CAPÍTULO I. Del Fondo Auxiliar para la Administración de Justicia del Estado de Yucatán
 
-Vacaciones
+Naturaleza
 
 ###### Artículo 165.
 
@@ -2339,9 +2477,9 @@ Cuando no sea posible asignar la suplencia de acuerdo a los criterios establecid
 
 ## TÍTULO DÉCIMO. DEL HABER POR RETIRO
 
-### CAPÍTULO ÚNICO. Disposiciones generales
+### CAPÍTULO II. Del Centro Estatal de Solución de Controversias
 
-Faltas absolutas y temporales
+Naturaleza
 
 ###### Artículo 170.
 
@@ -2381,11 +2519,9 @@ TÍTULO DÉCIMOPRIMERO
 
 DE LA CARRERA JUDICIAL
 
-### CAPÍTULO ÚNICO. Disposiciones Generales
+### CAPÍTULO ÚNICO. Disposiciones generales
 
-> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
-
-Del haber por retiro
+Vacaciones
 
 ###### Artículo 174.
 
@@ -2401,15 +2537,15 @@ Para efectos de la carrera judicial se tendrá en consideración el perfil ideal
 
 La exigencia de conocimiento y de capacitación permanente tiene como fundamento el derecho de los ciudadanos de obtener un servicio de calidad en la administración de justicia, para ello, todo funcionario o empleado del Poder Judicial del Estado ejercerá su cargo procurando que la justicia se imparta en condiciones de eficiencia, calidad, accesibilidad y transparencia, con prudencia y respeto a la dignidad de la persona.
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
 Categorías
 
 ###### Artículo 176.
 
-La Carrera Judicial estará integrada por las categorías de juez de primera instancia, secretario general de acuerdos, secretario de acuerdos de sala, secretario instructor, secretario de acuerdos, administrador de juzgado, secretario de estudio y cuenta, coordinador de causa, coordinador de sala, secretario auxiliar, facilitador o mediador, actuario, notificador, oficial de juzgado, oficial de mediación, técnico judicial, encargado de actas, asistente legal y las demás que establezca el Reglamento de Carrera Judicial.
+La Carrera Judicial estará integrada por las categorías de juez, secretario de acuerdos de sala, secretario instructor, secretario de acuerdos, administrador de juzgado, secretario de estudio y cuenta, coordinador de causa, encargado de sala, secretario auxiliar, facilitador o mediador, actuario, notificador, oficial de mediación, técnico judicial, encargado de actas, asistente legal y las demás que establezca el Reglamento de Carrera Judicial.
 
-El Reglamento de Carrera Judicial determinará las categorías de la carrera judicial que surjan con motivo del nuevo sistema de justicia penal y del sistema de justicia laboral.
+El Reglamento de Carrera Judicial determinará las categorías de la carrera judicial pertenecientes al sistema de justicia penal y al sistema de justicia laboral.
 
 > <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
@@ -2431,11 +2567,11 @@ DE LOS DEBERES ÉTICOS DEL PERSONAL DEL PODER JUDICIAL DEL ESTADO
 
 ### CAPÍTULO ÚNICO. Disposiciones generales
 
-Responsabilidad por faltas
+Prohibiciones
 
 ### CAPÍTULO ÚNICO. Disposiciones generales
 
-Carrera Judicial
+Faltas absolutas y temporales
 
 ###### Artículo 179.
 
@@ -2459,7 +2595,13 @@ DEL RÉGIMEN LABORAL DEL PERSONAL
 
 ### CAPÍTULO ÚNICO. Disposiciones generales
 
-Prohibiciones
+Trabajadores de confianza
+
+### CAPÍTULO ÚNICO. Disposiciones Generales
+
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
+
+Del haber por retiro
 
 ###### Artículo 182.
 
@@ -2477,7 +2619,11 @@ DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS Y EMPLEADOS DEL PODER JUDICIAL DEL EST
 
 ### CAPÍTULO ÚNICO. Disposiciones generales
 
-Trabajadores de confianza
+Responsabilidad por faltas
+
+### CAPÍTULO ÚNICO. Disposiciones generales
+
+Carrera Judicial
 
 ###### Artículo 184.
 
@@ -2493,9 +2639,11 @@ Los juicios con motivo de la responsabilidad en que incurran los funcionarios y 
 
 Causales específicas de responsabilidad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 19 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 186.
 
-Con independencia de lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado, para los funcionarios y empleados del Poder Judicial son causas de responsabilidad:
+Con independencia de lo establecido en la Ley de Responsabilidades Administrativas del Estado de Yucatán, para las personas funcionarias y empleadas del Poder Judicial son causas de responsabilidad:
 
 I.- Faltar sin causa justificada al lugar de su adscripción; llegar tarde o no permanecer en el despacho todo el tiempo establecido por la Ley;
 
@@ -3038,3 +3186,23 @@ Artículo segundo. El Tribunal Superior de Justicia y el Consejo de la Judicatur
 Cláusula derogatoria
 
 Artículo tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+D.O. 19 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 699/2023 POR EL QUE SE MODIFICA LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN, EN MATERIA DE REORGANIZACIÓN ADMINISTRATIVA”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Obligación normativa
+
+Artículo segundo. El Tribunal Superior de Justicia y el Consejo de la Judicatura del Poder Judicial del Estado deberán expedir o actualizar, según corresponda, su normativa interna para armonizarla a las disposiciones de este Decreto, dentro del plazo de 180 días naturales contados a partir del día siguiente a su entrada en vigor.
+
+Ajustes al presupuesto
+
+Artículo tercero. El Tribunal Superior de Justicia y el Consejo de la Judicatura del Poder Judicial del Estado deberán realizar los ajustes a sus respectivos presupuestos para la aplicabilidad de las reformas en materia de reorganización administrativa, dentro del plazo de 180 días naturales contados a partir del día siguiente a la entrada en vigor de este Decreto.
+
+Cláusula derogatoria
+
+Artículo cuarto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
