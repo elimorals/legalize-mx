@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2023-11-02"
+last_updated: "2023-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -2383,11 +2383,11 @@ Si el sujeto activo fuese servidor público y se aprovechare de esa circunstanci
 
 Si el sujeto pasivo del delito de hostigamiento sexual es menor de dieciocho años de edad, o estuviere privado de razón, o no tuviere la capacidad de comprender el significado del hecho que realiza se le impondrá al responsable de tres a seis años de prisión y multa de doscientos dieciséis a cuatrocientas treinta y dos veces la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 182 Bis.
 
-Comete el delito de acoso sexual, quien con fines de lujuria asedie reiteradamente a una persona con la que no exista relación de subordinación, mediante conductas verbales, físicas, y/o por medio de las tecnologías de la información y telecomunicaciones (TICs), redes sociales, correo electrónico o cualquier espacio digital relacionadas con la sexualidad que la ponga en riesgo o le cause un daño o sufrimiento psicoemocional que lesione su dignidad; al responsable se le impondrá de seis meses a tres años de prisión y multa de treinta y seis a doscientas dieciséis veces la Unidad de Medida y Actualización.
+Comete el delito de acoso sexual, quien con fines de lujuria asedie a una persona con la que no exista relación de subordinación, mediante conductas verbales, físicas, y/o por medio de las tecnologías de la información y telecomunicaciones (TICs), redes sociales, correo electrónico o cualquier espacio digital relacionadas con la sexualidad que la ponga en riesgo o le cause un daño o sufrimiento psicoemocional que lesione su dignidad; al responsable se le impondrá de seis meses a tres años de prisión y multa de treinta y seis a doscientas dieciséis veces la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2017)</small>
 
@@ -7028,5 +7028,13 @@ P.O. 2 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 431 QUE CONTIENE REFORMAS A LOS ARTÍCULOS 20 BIS, 297 Y 298 TODOS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
 
 PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 19 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 507 QUE CONTIENE REFORMA AL ARTÍCULO 182 BIS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
