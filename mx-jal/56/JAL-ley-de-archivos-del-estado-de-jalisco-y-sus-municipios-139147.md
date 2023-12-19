@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-archivos-del-estado-de-jalisco-y-sus-municipios-139147"
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-19"
-last_updated: "2022-11-12"
+last_updated: "2023-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE ARCHIVOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE ARCHIVOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el martes 19 de noviembre de 2019.
 
@@ -131,9 +133,9 @@ IV. Archivo de trámite: el integrado por documentos de archivo de uso cotidiano
 
 V. Archivos privados de interés público: conjunto de documentos de interés público, histórico o cultural, que se encuentran en propiedad de particulares, que no reciban o ejerzan recursos públicos ni realicen actos de autoridad en los diversos ámbitos de gobierno;
 
-(NOTA: EL 4 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 141/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE MAYO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2023)</small>
 
-VI. Área Coordinadora de Archivos: a la encargada de promover y vigilar el cumplimiento de las disposiciones en materia de gestión documental y administración de archivos, así como de coordinar las áreas operativas del sistema institucional de archivos de los sujetos obligados. EL ÁREA COORDINADORA DE ARCHIVOS DEL GOBIERNO DEL ESTADO SE DENOMINARÁ DIRECCIÓN GENERAL DE ARCHIVOS DEL ESTADO;
+VI. Área Coordinadora de Archivos: a la encargada de promover y vigilar el cumplimiento de las disposiciones en materia de gestión documental y administración de archivos, así como de coordinar las áreas operativas del sistema institucional de archivos de los sujetos obligados.
 
 VII. Baja documental: la eliminación de aquella documentación cuya vigencia haya prescrito en sus valores administrativos, legales, fiscales o contables, y en su caso, plazos de conservación, siempre y cuando no posea valores históricos de acuerdo con esta Ley y las disposiciones legales aplicables;
 
@@ -167,9 +169,9 @@ XXI. Fondo: conjunto de documentos producidos orgánicamente por un sujeto oblig
 
 XXII. Gestión documental: tratamiento integral de la documentación a lo largo de su ciclo vital, a través de la ejecución de procesos de producción, organización, acceso, consulta, valoración documental y conservación;
 
-(NOTA: EL 4 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 141/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XXIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE MAYO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2023)</small>
 
-XXIII. GRUPO INTERDISCIPLINARIO: CONJUNTO DE PERSONAS QUE DEBERÁ ESTAR INTEGRADO COLEGIADAMENTE POR EL TITULAR DEL ÁREA COORDINADORA DE ARCHIVOS, ASÍ COMO LOS RESPONSABLES DE LAS OFICIALÍAS DE PARTES O GESTIÓN DOCUMENTAL, ARCHIVO DE TRÁMITE, ARCHIVO DE CONCENTRACIÓN Y, EN SU CASO, DEL ARCHIVO HISTÓRICO, CON LA FINALIDAD DE COADYUVAR EN LA VALORACIÓN DOCUMENTAL;
+XXIII. Grupo interdisciplinario: Al conjunto de personas que deberá estar integrado por el titular del área coordinadora de archivos; la unidad de transparencia; los titulares de las áreas de planeación estratégica, jurídica, mejora continua, órganos internos de control o sus equivalentes; las áreas responsables de la información, así como el responsable del archivo histórico, con la finalidad de coadyuvar en la valoración documental;
 
 XXIV. Instrumentos de consulta y control archivísticos: a los instrumentos técnicos que propician la organización, conservación, disponibilidad, integridad y localización de los documentos de archivo a lo largo de su ciclo vital que son el cuadro general de clasificación archivística y el catálogo de disposición documental y los inventarios de expedientes;
 
@@ -335,19 +337,31 @@ Todos los documentos de archivo en posesión de los sujetos obligados formarán 
 
 El Sistema Institucional de Archivos de cada sujeto obligado deberá integrarse por:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE DICIEMBRE DE 2023)</small>
+
 I. Un Área Coordinadora de Archivos;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2023)</small>
 
 II. Las Áreas Operativas siguientes:
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE DICIEMBRE DE 2023)</small>
+
 a) Oficialía de partes o de gestión documental;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE DICIEMBRE DE 2023)</small>
 
 b) Archivo de trámite, por área o unidad;
 
-c) Archivo de concentración;
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2023)</small>
 
-d) Archivo histórico, en su caso, sujeto a la capacidad presupuestal y técnica del sujeto obligado; y
+c) Archivo de concentración; y
 
-III. Un Grupo Interdisciplinario como órgano de coordinación para efectos del proceso de valoración documental.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2023)</small>
+
+d) Archivo histórico, en su caso, sujeto a la capacidad presupuestal y técnica del sujeto obligado.
+
+III. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2023)
 
 (NOTA: EL 4 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 141/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL SEGUNDO PÁRRAFO DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE MAYO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -433,7 +447,7 @@ IX. Coordinar la operación de los archivos de trámite, concentración y, en su
 
 X. Autorizar la transferencia de los archivos cuando un área o unidad del sujeto obligado sea sometida a procesos de fusión, escisión, extinción, cambio de adscripción o cualquier tipo de transformación, de conformidad con las disposiciones legales aplicables;
 
-XI. Participar en el Comité de Transparencia del sujeto obligado que corresponda en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios; y
+XI. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2023)
 
 XII. Las demás que establezcan otros ordenamientos aplicables.
 
@@ -549,19 +563,17 @@ Cuando los documentos históricos presenten un deterioro físico que impida su c
 
 Los sujetos obligados podrán coordinarse para establecer archivos históricos comunes en los términos de los convenios o instrumentos que les den origen, debiendo identificar con claridad a los responsables de la administración de los archivos y dar aviso a la Dirección General de Archivos del Estado y al Consejo Estatal, en un plazo máximo de cinco días hábiles posteriores a su designación.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. 19 DE DICIEMBRE DE 2023, PÁGINA 4.]</small>
+
 ###### Artículo 39.
 
 Los documentos contenidos en los archivos históricos son fuentes de acceso público. Una vez que haya concluido la vigencia documental y autorizada la transferencia secundaria a un archivo histórico, éstos no podrán ser clasificados como reservados o confidenciales.
 
 Asimismo, deberá considerarse que de acuerdo con la legislación en materia de transparencia y acceso a la información pública, no podrá clasificarse como reservada aquella información que esté relacionada con violaciones graves a derechos humanos o delitos de lesa humanidad, o actos de corrupción.
 
-(NOTA: EL 4 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 141/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE MAYO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2023)</small>
 
-EN TRATÁNDOSE DE VIOLACIONES GRAVES A LOS DERECHOS HUMANOS O DELITOS DE LESA HUMANIDAD, DEBERÁ CONSTAR PARA ELLO LA OPINIÓN TÉCNICA DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS O, EN SU CASO, LA COMISIÓN NACIONAL DE DERECHOS HUMANOS.
-
-(NOTA: EL 4 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 141/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE MAYO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-Los documentos que contengan datos personales sensibles, de acuerdo con la normatividad en la materia, respecto de los cuales se haya determinado su conservación permanente por tener valor histórico, conservarán tal carácter, en el archivo de concentración, por un plazo de setenta años, a partir de la fecha de creación del documento, y serán de acceso restringido durante dicho plazo, SIEMPRE Y CUANDO NO SE CONTRAPONGA CON LO ESTABLECIDO EN EL PÁRRAFO ANTERIOR.
+Los documentos que contengan datos personales sensibles, de acuerdo con la normatividad en la materia, respecto de los cuales se haya determinado su conservación permanente por tener valor histórico, conservarán tal carácter, en el archivo de concentración, por un plazo de setenta años, a partir de la fecha de creación del documento, y serán de acceso restringido durante dicho plazo.
 
 ###### Artículo 40.
 
@@ -605,11 +617,13 @@ VI. Propiciar la investigación de temas históricos y regionales para fortalece
 
 VII. Divulgar instrumentos de consulta, boletines informativos y cualquier otro tipo de publicación de interés, para difundir y brindar acceso a los archivos históricos.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 44.
 
 Los municipios podrán libremente coordinarse para establecer archivos históricos comunes con carácter regional, en los términos que establezcan los convenios correspondientes y los instrumentos jurídicos de su creación.
 
-El convenio o instrumento que dé origen a la coordinación referida en el párrafo anterior deberá identificar con claridad a los responsables de la Dirección General de Archivos Regional y de sus áreas operativas, debiendo dar aviso a la Dirección General de Archivos del Estado y al Consejo Estatal, en un plazo máximo de cinco días hábiles posteriores a su designación.
+El convenio o instrumento que dé origen a la coordinación referida en el párrafo anterior deberá identificar con claridad a los responsables de la Dirección General de Archivos Regional y de sus áreas operativas, debiendo dar aviso al Archivo General del Estado y al Consejo Estatal, en un plazo máximo de cinco días hábiles posteriores a su designación.
 
 ### Capítulo VII. De los Expedientes Electrónicos
 
@@ -683,23 +697,25 @@ Los sujetos obligados desarrollarán medidas de interoperabilidad que permitan l
 
 ### Capítulo I. De la Valoración
 
-(NOTA: EL 4 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 141/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 6 DE MAYO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 56.
 
-En cada sujeto obligado deberá existir un grupo interdisciplinario integrado por los titulares o sus representantes, de las siguientes unidades y áreas administrativas:
+En cada sujeto obligado deberá existir un grupo interdisciplinario, que es un equipo de profesionales de la misma institución, integrado por los titulares de las siguientes áreas:
 
-I. Área Coordinadora de Archivos;
+I. Jurídica;
 
-II. Oficialía de partes o gestión documental;
+II. Planeación y/o mejora continua;
 
-III. Archivo de trámite;
+III. Coordinación de archivos;
 
-IV. Archivo de Concentración;
+IV. Tecnologías de la información;
 
-V. Archivo Histórico, en su caso; y
+V. Unidad de Transparencia;
 
-VI. Los responsables de los archivos de trámite de las áreas o unidades administrativas productoras de la documentación, únicamente cuando sea sujeta de análisis de los procesos y procedimientos institucionales de su área.
+VI. Órgano Interno de Control, y
+
+VII. Las áreas o unidades administrativas productoras de la documentación.
 
 Para su funcionamiento, el grupo interdisciplinario establecerá sus reglas de operación.
 
@@ -883,7 +899,7 @@ VII. Establecer los mecanismos de coordinación a que se refiere la Ley General;
 
 VIII. Los demás lineamientos y criterios establecidos en esta ley y la Ley General.
 
-(NOTA: EL 4 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 141/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 6 DE MAYO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 73.
 
@@ -891,35 +907,37 @@ El Sistema Estatal contará con un Consejo Estatal, como órgano de coordinació
 
 I. El titular del Archivo General del Estado, quien lo presidirá;
 
-II. El titular del Archivo General del Poder Legislativo;
+II. El titular de la Secretaría General de Gobierno del Estado;
 
-III. El titular del Archivo General del Poder Judicial;
+III. El titular del Archivo General del Poder Legislativo;
 
-IV. El titular del Tribunal Electoral del Estado de Jalisco;
+IV. El titular del Archivo General del Poder Judicial;
 
-V. El titular del Tribunal de Justicia Administrativa del Estado de Jalisco;
+V. El titular del Tribunal Electoral del Estado de Jalisco;
 
-VI. El titular del Instituto Electoral y de Participación Ciudadana de Jalisco;
+VI. El titular del Tribunal de Justicia Administrativa del Estado de Jalisco;
 
-VII. El titular de la Comisión Estatal de Derechos Humanos;
+VII. El titular del Instituto Electoral y de Participación Ciudadana de Jalisco;
 
-VIII. El titular del Instituto de Transparencia, Información Pública y Protección de Datos Personales;
+VIII. El titular de la Comisión Estatal de Derechos Humanos;
 
-IX. El Jefe de la Unidad de archivo de trámite y concentración de la Universidad de Guadalajara;
+IX. El titular del Instituto de Transparencia, Información Pública y Protección de Datos Personales;
 
-X. El titular de la Contraloría del Estado;
+X. El Jefe de la Unidad de archivo de trámite y concentración de la Universidad de Guadalajara;
 
-XI. El titular de la Auditoría Superior del Estado;
+XI. El titular de la Contraloría del Estado;
 
-XII. El titular del Consejo de la Judicatura;
+XII. El titular de la Auditoría Superior del Estado;
 
-XIII. Los titulares de los Archivos Regionales Municipales que se constituyan;
+XIII. El titular del Consejo de la Judicatura;
 
-XIV. Un representante de los archivos privados; y
+XIV. Los titulares de los Archivos Regionales Municipales que se constituyan;
 
-XV. Un representante del Colegio de Jalisco, A.C.
+XV. Un representante de los archivos privados; y
 
-La designación de la representación de los archivos privados referidos en la fracción XIV de este artículo, será a través de convocatoria que emita el Consejo Estatal en la que se establezcan las bases para seleccionar al representante de los mismos, estableciendo como mínimo que formen parte del Registro Nacional, y que sea una asociación civil legalmente constituida cuyo objeto social sea relacionado con la conservación de archivos.
+XVI. Un representante del Colegio de Jalisco, A. C.
+
+La designación de la representación de los archivos privados referidos en la fracción XV de este artículo, será a través de convocatoria que emita el Consejo Estatal en la que se establezcan las bases para seleccionar al representante de los mismos, estableciendo como mínimo que formen parte del Registro Nacional, y que sea una asociación civil legalmente constituida cuyo objeto social sea relacionado con la conservación de archivos.
 
 Así mismo, el Consejo Estatal se integrará con los titulares de los archivos municipales y de los organismos públicos descentralizados cuando haya asuntos relativos en el ámbito de su competencia.
 
@@ -1091,23 +1109,37 @@ El fondo de apoyo económico estará sujeto a los procesos de transparencia, ren
 
 ### Capítulo I. Del Archivo General del Estado y el de los Sujetos Obligados
 
-(NOTA: EL 4 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 141/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE MAYO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2023)</small>
+
+#### Sección I. Del Archivo General del Estado
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 85.
 
-El Archivo General del Estado es el órgano especializado en materia de archivos que goza de autonomía técnica y gestión, SECTORIZADO A LA SECRETARÍA GENERAL DE GOBIERNO, y contará con un director general.
+El Archivo General del Estado El Archivo General del Estado es el organismo público descentralizado especializado en materia de archivos, bajo el régimen de servicio profesional de carrera, que goza de autonomía técnica y gestión, cuenta con personalidad jurídica y patrimonio propio, y goza de independencia para su funcionamiento y resoluciones en término de la presente ley.
+
+Al frente del Archivo General del Estado estará un titular, quien además presidirá al Consejo Estatal de Archivos.
+
+El Archivo General del Estado tendrá su domicilio legal en el Área Metropolitana de Guadalajara, su patrimonio se constituirá en los términos que establezca la normativa aplicable para las entidades paraestatales del Poder Ejecutivo del Estado y las relaciones de trabajo entre éste y su personal se regirán por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 86.
 
-Cuando los archivos generales de los sujetos obligados diferentes al Poder Ejecutivo que no cuenten con la capacidad y recursos necesarios para el adecuado manejo que requieran los documentos históricos, podrán celebrar convenios de colaboración con la Dirección General de Archivos del Estado, a efecto de que el resguardo de los mismos se haga en sus instalaciones o, en su caso, se dé la asesoría y capacitación para la creación y operación del mismo.
+Cuando los archivos generales de los sujetos obligados diferentes al Poder Ejecutivo que no cuenten con la capacidad y recursos necesarios para el adecuado manejo que requieran los documentos históricos, podrán celebrar convenios de colaboración con el Archivo General del Estado, a efecto de que el resguardo de los mismos se haga en sus instalaciones o, en su caso, se dé la asesoría y capacitación para la creación y operación del mismo.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 87.
 
-La Secretaría General de Gobierno tendrá a su cargo la Dirección General de Archivos del Estado, así como el Archivo Histórico del Estado, y el Archivo de Concentración; y apoyará las dependencias de la administración pública en lo relativo a la organización y funcionamiento de sus archivos de trámite o generales.
+La Secretaría General de Gobierno tendrá a su cargo al Área Coordinadora de Archivos de la Administración Pública Centralizada; y apoyará las dependencias de la administración pública en lo relativo a la organización y funcionamiento de sus archivos de trámite o generales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 88.
 
-La Dirección General de Archivos del Estado tendrá las siguientes facultades y obligaciones:
+El Archivo General del Estado tendrá las siguientes facultades y obligaciones:
 
 I. Fungir, mediante su titular, como coordinador general del Sistema Estatal y del Consejo Estatal;
 
@@ -1149,6 +1181,104 @@ XIX. Organizar y participar en eventos nacionales e internacionales en la materi
 
 XX. Las demás establecidas en esta Ley y en otras disposiciones legales aplicables.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE DICIEMBRE DE 2023)</small>
+
+#### Sección II. De la Junta de Gobierno
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2023)</small>
+
+Artículo 88 bis. La Junta de Gobierno es el órgano de decisión del Archivo General del Estado que tendrá las siguientes atribuciones:
+
+I. Evaluar la operación administrativa, así como el cumplimiento de los objetivos y metas del Archivo General del Estado;
+
+II. Emitir los lineamientos para el funcionamiento del Consejo Técnico;
+
+III. Aprobar el anteproyecto de Presupuesto de Egresos del Archivo General, su plantilla de personal y el clasificador por objeto del gasto;
+
+IV. Aprobar el Plan Institucional y los programas operativos anuales, y los demás instrumentos de planeación y programación que le correspondan;
+
+V. Aprobar anualmente, previo informe de los órganos internos de control, los dictámenes de las auditorías practicadas, los estados financieros y autorizar la publicación de los mismos;
+
+VI. Aprobar la suscripción de los actos jurídicos que afecten su patrimonio, constituyan deuda o trasciendan el periodo constitucional del Gobernador del Estado en turno, sin perjuicio de la autorización que corresponda al Congreso del Estado, en su caso;
+
+VII. Aprobar la celebración de los contratos y convenios de los que sea parte;
+
+VIII. Recibir y conocer los informes internos que presenten los encargados de los órganos y unidades administrativas;
+
+IX. Nombrar y remover al personal, a propuesta de su titular, conforme a las disposiciones legales y reglamentarias aplicables;
+
+X. Aprobar los informes periódicos que rinda el Director General;
+
+XI. Aprobar los Manuales de Organización, Procedimientos, el Código de Ética, y demás disposiciones administrativas que regulen la operación y el funcionamiento;
+
+XII. Aprobar los proyectos de la estructura básica de la organización, del reglamento interno y sus modificaciones;
+
+XIII. Analizar y aprobar en su caso, los informes periódicos que rinda el Director General;
+
+XIV. Aprobar el calendario anual de sesiones; y
+
+XV. Las demás previstas en otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2023)</small>
+
+Artículo 88 ter. La Junta de Gobierno estará integrado por un miembro de las siguientes instancias:
+
+I. La Secretaría General de Gobierno, quien lo presidirá;
+
+II. La Secretaría de la Hacienda Pública;
+
+III. La Secretaría de Educación Jalisco;
+
+IV. La Secretaría de Cultura; y
+
+V. La Contraloría del Estado.
+
+Los integrantes del Órgano de Gobierno deberán tener, por lo menos, nivel de Subsecretario o su equivalente. Por cada miembro propietario habrá un suplente que deberá tener nivel, por lo menos, de director general o su equivalente.
+
+El presidente o a propuesta de alguno de los integrantes del Órgano de Gobierno, podrá invitar a las sesiones a representantes de todo tipo de instituciones públicas o privadas, quienes intervendrán con voz, pero sin voto. Los integrantes del Órgano de Gobierno, no obtendrán remuneración, compensación o emolumento por su participación.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE DICIEMBRE DE 2023)</small>
+
+#### Sección III. Del Director General
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2023)</small>
+
+Artículo 88 quáter. El Director General será nombrado por el Gobernador del Estado y deberá cubrir los siguientes requisitos:
+
+I. Ser ciudadano mexicano;
+
+II. Poseer, al día de la designación, preferentemente el grado académico de doctor en ciencias sociales o humanidades, expedido por autoridad o institución facultada para ello, o bien, contar con experiencia mínima de cinco años en materia archivística;
+
+III. Tener cuando menos treinta años de edad al día de la designación;
+
+IV. No ser cónyuge, ni tener relación de parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con cualquiera de los miembros del Órgano de Gobierno, y
+
+V. No haber sido Secretario de Estado, Fiscal del Estado o General de la República, Diputado local o Legislador Federal, dirigente de un partido o agrupación política, Gobernador de algún estado o Jefe de Gobierno de la Ciudad de México, durante el año previo al día de su nombramiento.
+
+Durante su gestión, el Director General no podrá desempeñar ningún otro empleo, cargo o comisión, con excepción de aquellos que puede desempeñar en las instituciones docentes, científicas o de beneficencia, siempre que sean compatibles con sus horarios, responsabilidades y actividades dentro del Archivo General del Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2023)</small>
+
+Artículo 88 quinquies. El Director General, además de lo previsto en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco y las disposiciones reglamentarias correspondientes, tendrá las siguientes facultades:
+
+I. Supervisar que la actividad del Archivo General del Estado cumpla con las disposiciones legales, administrativas y técnicas aplicables, así como con los programas y presupuestos aprobados;
+
+II. Proponer al Órgano de Gobierno las medidas necesarias para el funcionamiento del Archivo General del Estado;
+
+III. Proponer al Órgano de Gobierno el proyecto de Reglamento Interno;
+
+IV. Nombrar y remover a los servidores públicos del Archivo General, cuyo nombramiento no corresponda al Órgano de Gobierno, y
+
+V. Las demás previstas en esta Ley y en otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2023)</small>
+
+#### Sección IV. Del Órgano de Vigilancia
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2023)</small>
+
+Artículo 88 sexies. El Archivo General del Estado contará con un órgano Interno de Control, de conformidad con lo dispuesto por la normativa en materia de responsabilidades y los demás que le resulten aplicables.
+
 ###### Artículo 89.
 
 El Secretario General del Congreso del Estado estará a cargo del Archivo General del Poder Legislativo del Estado de Jalisco, que se integrará por todos aquellos documentos que emanen de ese poder y los que reciba o adquiera por cualquier título legal.
@@ -1165,9 +1295,11 @@ Los organismos autónomos y descentralizados establecerán sus respectivos Archi
 
 Los municipios del Estado establecerán un Archivo General Municipal, cuyo responsable será su titular. Dicho archivo se integrará por todos aquellos documentos que correspondan, conforme a esta ley.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 93.
 
-En caso de carecer de los recursos necesarios para establecer un archivo general municipal, los gobiernos de los municipios podrán celebrar convenios con la Dirección General de Archivos del Estado de Jalisco, a fin de recibir asesoría y capacitación para la creación y operación del mismo.
+En caso de carecer de los recursos necesarios para establecer un archivo general municipal, los gobiernos de los municipios podrán celebrar convenios con el Archivos General del Estado de Jalisco, a fin de recibir asesoría y capacitación para la creación y operación del mismo.
 
 ###### Artículo 94.
 
@@ -1177,9 +1309,11 @@ La remuneración del personal mencionado deberá ser acorde a su preparación y 
 
 ### Capítulo II. Del Archivo General de Concentración
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 95.
 
-El Archivo General de Concentración podrá recibir, conservar y custodiar las transferencias primarias de los archivos de trámite de los sujetos obligados del Poder Ejecutivo durante su vigencia y estará adscrito a la Dirección General de Archivos del Estado.
+El Archivo General de Concentración podrá recibir, conservar y custodiar las transferencias primarias de los archivos de trámite de los sujetos obligados del Poder Ejecutivo durante su vigencia y estará adscrito al Archivo General del Estado.
 
 ###### Artículo 96.
 
@@ -1207,7 +1341,9 @@ VIII. Asesorar a los organismos públicos descentralizados que tengan expediente
 
 IX. Elaborar el informe anual sobre las bajas documentales y las transferencias secundarias de los archivos del Poder Ejecutivo;
 
-X. Coadyuvar con las actividades solicitadas por la Dirección General de Archivos del Estado; y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2023)</small>
+
+X. Coadyuvar con las actividades solicitadas por la persona titular de la Dirección General del Archivo General del Estado; y
 
 XI. Las demás establecidas en esta Ley y en otras disposiciones legales aplicables.
 
@@ -1389,11 +1525,13 @@ Los fideicomisos que se constituyan y los fondos públicos que no cuenten con es
 
 Los sujetos obligados deberán conservar los archivos relativos a violaciones graves de derechos humanos, así como respetar y garantizar el derecho de acceso a los mismos, de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios, siempre que no hayan sido declarados como históricos, en cuyo caso, su consulta será irrestricta.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 115.
 
 Los sujetos obligados deberán mantener los documentos contenidos en sus archivos en el orden original en que fueron producidos, conforme a los procesos de gestión documental que incluyen la producción, organización, acceso, consulta, valoración documental, disposición documental y conservación, en los términos que establezca el Consejo Estatal y las disposiciones aplicables.
 
-Los órganos internos de control o equivalentes de los sujetos obligados vigilarán el estricto cumplimiento de la presente ley, de acuerdo con sus competencias e integrarán auditorías archivísticas en sus programas anuales de trabajo. Así mismo, el Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco, y la Comisión Estatal de Derechos Humanos serán vigilantes del cumplimiento de esta ley en el ámbito de sus atribuciones.
+Los órganos internos de control o equivalentes de los sujetos obligados vigilarán el estricto cumplimiento de la presente ley, de acuerdo con sus competencias e integrarán auditorías archivísticas en sus programas anuales de trabajo. Así mismo, el Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco será vigilante del cumplimiento de esta ley en el ámbito de sus atribuciones.
 
 ###### Artículo 116.
 
@@ -1449,27 +1587,25 @@ Las responsabilidades a que se refiere este capítulo se constituirán, en prime
 
 Serán responsables solidarios con los servidores públicos, los particulares, persona física o jurídica, en los casos en que hayan participado y originado cualquier tipo de responsabilidad prevista en este título.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 124.
 
-Se considerará que comete una falta administrativa no grave, el servidor público cuyos actos u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes:
+Se considerará que comete una falta administrativa, el servidor público cuyos actos u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes:
 
-(NOTA: EL 4 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 141/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE MAYO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-I. IMPEDIR U OBSTACULIZAR LA CONSULTA DE DOCUMENTOS DE LOS ARCHIVOS SIN CAUSA JUSTIFICADA;
+I. Impedir u obstaculizar la consulta de documentos de los archivos sin causa justificada;
 
 II. Omitir publicar el catálogo de disposición documental, el dictamen y el acta de baja documental, así como el acta que se levante en caso de documentación siniestrada en los portales electrónicos; a menos que el órgano interno de control compruebe que se trató de un acto deliberado, lo cual será constitutivo de probable responsabilidad penal en los términos del Código Penal del Estado;
 
-(NOTA: EL 4 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 141/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE MAYO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+III. Negarse a entregar los documentos que haya tenido a su disposición. Esta entrega deberá realizarse en los cinco días hábiles contados a partir de la fecha en que renuncie o se le notifique su separación del cargo, salvo que exista un plazo diferente por la disposición legal que regula los procesos de entrega - recepción, debiendo elaborar en cualquier caso un acta circunstanciada;
 
-III. NEGARSE A ENTREGAR LOS DOCUMENTOS QUE HAYA TENIDO A SU DISPOSICIÓN. ESTA ENTREGA DEBERÁ REALIZARSE EN LOS CINCO DÍAS HÁBILES CONTADOS A PARTIR DE LA FECHA EN QUE RENUNCIE O SE LE NOTIFIQUE SU SEPARACIÓN DEL CARGO, SALVO QUE EXISTA UN PLAZO DIFERENTE POR LA DISPOSICIÓN LEGAL QUE REGULA LOS PROCESOS DE ENTREGA-RECEPCIÓN, DEBIENDO ELABORAR EN CUALQUIER CASO UN ACTA CIRCUNSTANCIADA;
+IV. Negarse a recibir los documentos a que se refiere la fracción anterior, y verificar que correspondan al contenido del acta circunstanciada, los inventarios e informes, debiendo solicitar las aclaraciones pertinentes dentro del término de cinco días hábiles contados a partir del acto de entrega - recepción; en caso de encontrar alguna inconsistencia, deberá presentar denuncia de responsabilidad al órgano competente del que se trate;
 
-IV. Negarse a recibir los documentos a que se refiere la fracción anterior, y verificar que correspondan al contenido del acta circunstanciada, los inventarios e informes, debiendo solicitar las aclaraciones pertinentes dentro del término de cinco días hábiles contados a partir del acto de entrega-recepción; en caso de encontrar alguna inconsistencia, deberá presentar denuncia de responsabilidad al órgano competente del que se trate;
-
-(NOTA: EL 4 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 141/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE MAYO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-V. ACTUAR CON DOLO O NEGLIGENCIA EN LA EJECUCIÓN DE MEDIDAS DE ÍNDOLE TÉCNICA, ADMINISTRATIVA, AMBIENTAL O TECNOLÓGICA, PARA LA CONSERVACIÓN DE LOS ARCHIVOS; Y
+V. Actuar con dolo o negligencia en la ejecución de medidas de índole técnica, administrativa, ambiental o tecnológica, para la conservación de los archivos; y
 
 VI. Cualquier otra acción u omisión que contravenga lo dispuesto en esta ley, la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, y demás disposiciones aplicables que de ellos deriven.
+
+Se considera grave el incumplimiento a las fracciones I, III y V del presente artículo; asimismo las infracciones serán graves si son cometidas en contra de documentos que contengan información relacionada con graves violaciones a derechos humanos.
 
 ###### Artículo 125.
 
@@ -1668,3 +1804,23 @@ P.O. 12 DE NOVIEMBRE DE 2022.
 PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. La Dirección del Archivo de Instrumentos Públicos deberá realizar ante la Contraloría del Estado la correspondiente acta de entrega - recepción a la Dirección del Archivo Histórico del Estado, de conformidad con lo que señala la Ley de Entrega Recepción del Estado de Jalisco y sus Municipios, el artículo 30 fracción X de la Ley de Archivos del Estado de Jalisco y sus Municipios, y demás normas aplicables en materia de archivos de los documentos denominados como "Tierras y Aguas", "Libros de Gobierno de la Audiencia de Guadalajara", y los archivos de "Escribanos Públicos", en un plazo no mayor a 180 días a partir de la entrada en vigor del presente decreto.
+
+P.O. 19 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29260/LXIII/23 DEL CONGRESO DEL ESTADO QUE REFORMAN LOS ARTÍCULOS 3, 21, 30, 39, 44, 56, 73, 85, 86, 87, 88, 93, 95, 97, 115 Y 124; Y ADICIONA AL TÍTULO SEXTO DEL CAPÍTULO I LAS SECCIONES I, II, III Y IV, CON LOS ARTÍCULOS 88 BIS, 88 TER, 88 QUATER, 88 QUINQUIES, 88 SEXIES DE LA LEY DE ARCHIVOS DEL ESTADO DE JALISCO; Y REFORMA LA FRACCIÓN XXIII Y SE DEROGA LA FRACCIÓN XXIV DEL ARTÍCULO 17 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor el 1 de enero de 2024.
+
+SEGUNDO. El titular del Poder Ejecutivo deberá designar a la persona titular del Archivo General del Estado dentro de los quince días naturales siguientes de la entrada en vigor del presente decreto.
+
+TERCERO. La Junta de Gobierno deberá instalarse en un plazo no mayor a treinta días naturales, contados a partir del día siguiente de la entrada en vigor del presente decreto.
+
+CUARTO. La Junta de Gobierno del Archivo General del Estado deberá aprobar y remitir al titular del Poder Ejecutivo, su Reglamento Interno dentro de los treinta días naturales siguientes a su instalación.
+
+El titular del Poder Ejecutivo, a su vez, deberá expedir el Reglamento Interno del Archivo General del Estado, dentro de los cinco días hábiles siguientes a que le haya sido remitido.
+
+QUINTO. Se autoriza al Titular del Poder Ejecutivo del Estado para que, por conducto de la Secretaría de la Hacienda Pública o a la Dependencia que corresponda conforme a sus facultades, para que, en su caso lleve a cabo las adecuaciones administrativas, programáticas, presupuestarias y de plantilla de personal necesarias, a fin de darle certeza jurídica al ejercicio presupuestal conforme lo establezca el Presupuesto de Egresos del Estado de Jalisco, para el periodo comprendido del 1º de enero al 31 de diciembre del año 2024.
+
+SEXTO. Los recursos económicos y materiales, así como los derechos, valores, fondos y obligaciones del Archivo Histórico de la Secretaría General de Gobierno, pasarán a formar parte del patrimonio del Archivo General del Estado, de conformidad con la normatividad en la materia.
+
+SÉPTIMO. El acervo documental del Archivo Histórico de la Secretaría General de Gobierno deberá remitirse al Archivo General del Estado en un plazo de trescientos sesenta y cinco días naturales, debiendo generarse programas para la entrega recepción, en términos de la Ley de Entrega Recepción del Estado de Jalisco y sus Municipios.
