@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-tribunal-de-justicia-administrativa-del-122616
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-07-19"
-last_updated: "2018-09-26"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de julio de 2017.
 
@@ -39,7 +39,7 @@ LA QUINCUAGÉSIMA TERCERA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO D
 
 ANTECEDENTES
 
-[…]
+[...]
 
 Por lo anteriormente expuesto, esta LIII Legislatura ha tenido a bien expedir la siguiente:
 
@@ -125,7 +125,9 @@ Además de las atribuciones y competencias señaladas en los artículos 18 y 25 
 
 El Tribunal estará integrado por siete Magistrados, actuará y estará organizado de la siguiente manera:
 
-I. En siete salas de las cuales cinco serán Salas de Instrucción y dos serán Salas Especializadas, teniendo éstas últimas competencias exclusivas en responsabilidades administrativas, pudiendo auxiliar, previo acuerdo del Pleno y en caso de requerirse, en las demás materias; dicho acuerdo deberá ser publicado en el Periódico Oficial;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+I. En siete salas de las cuales cinco serán Salas de Instrucción y dos serán Salas Especializadas, teniendo éstas últimas competencias exclusivas en responsabilidades administrativas y así como en aquellos actos que deriven del órgano técnico de fiscalización, auditoría y control del Congreso del Estado, pudiendo auxiliar, previo acuerdo del Pleno y en caso de requerirse, en las demás materias; dicho acuerdo deberá ser publicado en el Periódico Oficial;
 
 II. Un Pleno Especializado, que estará integrado por cuatro Magistrados, y
 
@@ -147,11 +149,19 @@ Los Magistrados del Tribunal durarán en su cargo el plazo establecido en la Con
 
 Ninguna persona que haya sido nombrada Magistrado del Tribunal podrá volver a ocupar el cargo de Magistrado en este u otro Tribunal Estatal; sin perjuicio de la responsabilidad administrativa o política en la que pudiera incurrir cualquier conducta contraria a este precepto.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 9.
 
-Al término de su respectivo encargo, los Magistrados tendrán derecho a un haber por retiro, en los términos establecidos para los Magistrados del Tribunal Superior, conforme lo establece la Constitución y la Ley de la materia.
+Al término de su respectivo encargo, los Magistrados tendrán derecho a un haber por retiro, conforme lo establezca la Constitución y el Pleno del Tribunal de Justicia Administrativa.
 
-El retiro forzoso del cargo se producirá en los mismos términos que para los Magistrados del Tribunal Superior.
+El retiro forzoso del cargo se producirá en los mismos términos que para los Magistrados del Tribunal Superior de Justicia.
+
+Los magistrados en retiro, no podrán actuar como abogados, representantes procesales, ejercer cargo público o litigar en cualquier proceso judicial en el que pudieran hacer uso indebido de información privilegiada que hayan obtenido con motivo del ejercicio de sus funciones los siguientes dos años, contados a partir de la terminación de su periodo constitucional. El pleno determinará lo conducente en relación a este impedimento. El Presidente del Tribunal hará del conocimiento de la Dirección de Profesiones este impedimento, para los efectos correspondientes.
+
+Los profesionistas que hayan ocupado el cargo de magistrado del Tribunal de Justicia Administrativa, conservarán dentro de las instalaciones del mismo la denominación de magistrado.
+
+La Secretaría General del Tribunal, llevará un libro de registro con fotografía de quienes hayan ocupado el cargo de magistrado, quienes tendrán derecho a que se les expida su acreditación como magistrados en retiro.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
 
@@ -209,7 +219,9 @@ VIII. Dirigir los debates y cuidar del mantenimiento del orden en las sesiones d
 
 IX. Autorizar, junto con el Secretario General de Acuerdos, previo acuerdo del Pleno, las actas en que se hagan constar las deliberaciones y acuerdos del Pleno;
 
-X. Proponer al Pleno los nombramientos y remociones de los funcionarios y del personal administrativo del Tribunal, en su caso, a petición de los demás Magistrados;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+X. Nombrar al Secretario General de Acuerdos, que ejercerá el cargo por el mismo plazo que el Presidente y proponer al Pleno los nombramientos y remociones de los demás funcionarios y del personal administrativo del Tribunal, en su caso, a petición de los demás Magistrados;
 
 XI. Ejercer el presupuesto del Tribunal, previa autorización del Pleno;
 
@@ -299,7 +311,9 @@ Las sesiones del Pleno en las que se traten asuntos jurisdiccionales serán púb
 
 El Pleno sesionará una vez por semana o cuantas veces sea necesario a consideración de sus integrantes, de acuerdo con el calendario anual aprobado por el mismo Pleno; debiendo de ser publicado en el Periódico Oficial.
 
-Las sesiones del Pleno se desarrollarán conforme a las reglas establecidas en el Reglamento.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+Las sesiones del Pleno se desarrollarán conforme a las reglas establecidas en el Reglamento. Incluso podrán desarrollarse sin la presencia física de los magistrados integrantes, mediante el uso de medios remotos de comunicación o plataformas digitales que la tecnología permita, como videoconferencias, audioconferencias o cualquier otro medio conocido que permita una presencia virtual interactiva y en tiempo real, debiendo hacerse constar todo ello en el acta correspondiente.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
 
@@ -619,7 +633,11 @@ I. Un Secretario General de Acuerdos;
 
 II. Un Actuario adscrito a la Secretaría General de Acuerdos;
 
-III. Un Secretario de Acuerdos adscrito a cada una de las Salas;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+III. Dos Secretarios de Acuerdos adscritos a cada una de las Salas;
+
+Las Salas Especializadas contaran por lo menos con un Secretario de Acuerdos adicional, derivado del trámite de todos los procedimientos que se lleven a cabo respecto al Pleno Especializado;
 
 IV. Un Actuario adscrito a cada una de las Salas;
 
@@ -856,6 +874,78 @@ Adicionalmente, los actuarios deberán contar con licencia de conducir vigente.
 ###### Artículo 42.
 
 Las relaciones laborales entre el Tribunal y su personal se regirán conforme a lo dispuesto por la Ley del Servicio Civil del Estado de Morelos. Todo el personal del Tribunal es considerado como de confianza.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+#### Sección Octava. De la Unidad de Igualdad de Género y Derechos Humanos
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 42
+
+Bis. Esta unidad tendrá el objetivo de asegurar que la institucionalización de la igualdad de género y los derechos humanos, así como la perspectiva de género en el Tribunal, sean pilares fundamentales, a través de la sensibilización y formación de quienes imparten justicia y propiciar ambientes laborales libres de violencia.
+
+El Pleno determinará a la persona que estará a cargo de dicha Unidad.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 42
+
+Ter. La Unidad será el enlace entre el Tribunal y las instancias involucradas en la Igualdad de Género y Derechos Humanos, auxiliada por el personal administrativo que al efecto se determine y permita el presupuesto. Para el funcionamiento de esta Unidad, el Presidente del Tribunal, podrá efectuar las transferencias o ampliaciones necesarias, siempre sujeto a la disponibilidad presupuestal del Tribunal
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 42
+
+Quater. La Unidad será el enlace entre el Tribunal y las instancias involucradas en la Igualdad de Género y Derechos Humanos, auxiliada por el personal administrativo que al efecto se determine.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 42
+
+Quintus. Para el cumplimiento de sus objetivos, la unidad llevará a cabo las siguientes acciones:
+
+I. La institucionalización de la perspectiva de género en los proyectos de Planeación y Modernización Jurisdiccional y Administrativa, así como en los programas educativos y de capacitación del Tribunal;
+
+II. Elaboración de un programa para impartir cursos, talleres y conferencias, para concientizar a los servidores y las servidoras judiciales, al compromiso de emprender una política pública de incorporar, en el quehacer jurisdiccional, los Tratados Internacionales en materia de Derechos Humanos como derecho nacional de origen internacional, a efecto de eliminar patrones de discriminación en resoluciones, que permitan juzgar con perspectiva de género;
+
+III. Nutrir los programas de formación del Tribunal, con el Protocolo para Juzgar con Perspectiva de Género, emitido por la Suprema Corte de Justicia de la Nación;
+
+IV. Incidir en la cultura de promover las medidas de protección de derechos humanos de las mujeres, en el marco de los procesos jurisdiccionales en las que se encuentren vinculadas, incorporando las estrategias y acciones aprobadas en el convenio celebrado entre ONU MUJERES e INMUJERES;
+
+V. Realizar evaluaciones de las implicaciones para hombres y mujeres de todas las acciones y actividades desarrolladas en el Tribunal a fin de fomentar una visión igualitaria de las personas y evitar la reproducción de estereotipos de género;
+
+VI. Promover investigaciones sobre el impacto del género en el acceso a la justicia;
+
+VII. Incorporar la perspectiva de género e interculturalidad en los Programas permanentes de formación personal y jurisdiccional y administrativo;
+
+VIII. Sensibilizar y brindar herramientas al personal jurisdiccional y administrativo, para atender el tema de hostigamiento laboral y sexual, con el fin de erradicar conductas que atenten contra la dignidad humana de las personas que laboran en el Tribunal;
+
+IX. Revisar las políticas laborales para eliminar la discriminación basada en el género;
+
+X. Publicar, difundir e identificar sentencias o resoluciones con perspectiva de género que dicte el Pleno del Tribunal; XI. (SIC) Socializar información sobre la prevención, atención, sanción y erradicación de la violencia contra las mujeres y niñas;
+
+XI. Promover acuerdos de colaboración con organizaciones de la sociedad civil, instituciones gubernamentales y académicas para la capacitación y fortalecimiento de la formación con perspectiva de género del personal del Tribunal;
+
+XII. Realizar acciones que permitan establecer vínculos con instituciones gubernamentales, académicas y organizaciones de la sociedad civil para la institucionalización de la perspectiva de género;
+
+XIII. Promover el conocimiento sobre el marco normativo internacional, nacional y estatal relacionado con la impartición de justicia desde la perspectiva de género; XV. (SIC) Generar y difundir informaciones para la página web oficial del Tribunal;
+
+XIV. (SIC) Divulgar al interior y exterior del Tribunal, los logros y avances realizados por la Unidad de Igualdad de Género y Derechos Humanos;
+
+XV. Llevar a cabo actividades que propicien la igualdad sustantiva entre mujeres y hombres, y
+
+XVI. Las demás que específicamente le encomiende el Pleno del Tribunal y el Presidente
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+#### Sección Novena. De la Unidad de Registro
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 42
+
+Sexies. Esta unidad será la encargada de llevar a cabo el registro de medidas de apremio y sanciones que se impongan a los servidores públicos.
 
 ### Capítulo X. Del Fondo Auxiliar
 
@@ -1480,3 +1570,23 @@ P.O. 26 DE SEPTIEMBRE DE 2018.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL SEISCIENTOS CUARENTA Y SEIS.- POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS, DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS, Y DE LA LEY SOBRE EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Dentro de los 60 días hábiles siguientes el Pleno del Tribunal de Justicia Administrativa, deberá crear la Unidad de Género y Derechos Humanos del citado órgano jurisdiccional y su correspondiente reglamentación; asimismo, en el mismo plazo deberá crear la Unidad que lleve a cabo el registro de medidas de apremio y sanciones que se impongan a los servidores públicos, de conformidad con el contenido del presente Decreto.
+
+CUARTA. El Congreso del Estado deberá prever en el Presupuesto de egresos para el ejercicio fiscal del año 2024 y subsecuentes los recursos necesarios para que el Tribunal de Justicia Administrativa, pueda dar debido cumplimiento a lo previsto en el presente decreto.
+
+QUINTA. Se autoriza a la Secretaría de Hacienda del Poder Ejecutivo Estatal para que efectúe la ampliación presupuestal para el cumplimiento del presente Decreto en cuanto hace al presente ejercicio fiscal.
+
+SEXTA. Se ratifica el oficio emitido por el Presidente de la Mesa Directiva del Congreso del Estado de Morelos, mediante el cual se dio cumplimiento a la ejecutoria pronunciada en la acción de inconstitucionalidad 20/2017, del cual derivó el acuerdo plenario del Tribunal de Justicia Administrativa, publicado en el Periódico Oficial “Tierra y Libertad”, número 6053 de fecha 16 de marzo de 2022, referente a las adscripciones e integración del citado órgano jurisdiccional.
+
+SÉPTIMA. En un plazo no mayor a los sesenta días naturales, el Tribunal de Justicia Administrativa del Estado de Morelos, hará las modificaciones a su reglamentación interna, para dar cumplimiento a lo ordenado en el presente ordenamiento.
+
+OCTAVA. Se derogan todas las disposiciones jurídicas que se opongan a lo previsto en el presente ordenamiento.
