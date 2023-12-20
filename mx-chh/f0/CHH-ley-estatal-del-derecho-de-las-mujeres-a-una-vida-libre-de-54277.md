@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-del-derecho-de-las-mujeres-a-una-vida-libre-de-5427
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-24"
-last_updated: "2023-11-22"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
 
@@ -635,7 +635,9 @@ VII. Establecer y promover la capacitación y actualización permanente, con per
 
 VIII. Formular recomendaciones a las autoridades facultadas para presentar iniciativas de tipo legislativo, que tengan como propósito prevenir y erradicar la violencia contra las mujeres;
 
-IX. Proponer anualmente al Ejecutivo del Estado que en el Presupuesto de Egresos asigne partidas suficientes a las dependencias y entidades que integran el Sistema, para el cabal cumplimiento de los objetivos de esta Ley;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+IX. Presentar al Ejecutivo del Estado, antes de la formulación de los programas operativos anuales, una propuesta de asignación de partidas presupuestales prioritarias de las dependencias y entidades que integran el Sistema, para el cabal cumplimiento de los objetivos del Programa y de las finalidades de esta Ley;
 
 X. Proponer al Titular del Ejecutivo Estatal los reglamentos necesarios para el cumplimiento de los objetivos de esta Ley, así como el proyecto de reglamento interno para su expedición;
 
@@ -1622,5 +1624,13 @@ P.O. 22 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0632/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0631/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y DE LA LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD GUBERNAMENTAL Y GASTO PÚBLICO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
