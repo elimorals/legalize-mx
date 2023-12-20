@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2023-12-11"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -805,17 +805,25 @@ IX. Personas en condiciones de pobreza y marginación;
 
 X. Personas afectadas por desastres naturales;
 
-> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-XI. Personas lesbianas, gay, bisexual, trasvesti, transexual, transgénero e intersexual, y
+XI. Personas lesbianas, gay, bisexual, trasvesti, transexual, transgénero e intersexual;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-XII. Mujeres víctimas de violencia de género, y
+XII. Mujeres víctimas de violencia de género;
 
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-XII (SIC). Personal de la salud que se vea afectado en sus condiciones físicas, materiales o mentales, por motivo del servicio de salud que presta.
+XIII. Personal de la salud que se vea afectado en sus condiciones físicas, materiales o mentales, por motivo del servicio de salud que presta;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+XIV. Comunidades indígenas, y
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+XV. Comunidades afromexicanas.
 
 ###### ARTICULO 24.
 
@@ -4842,6 +4850,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 11 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0884.- SE REFORMAN LOS ARTÍCULOS 5º EN SU FRACCIÓN III Y 14 EN SU FRACCIÓN III; Y ADICIONA AL ARTÍCULO 4º UNA FRACCIÓN, ÉSTA COMO V BIS, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0902.- SE REFORMA EL ARTÍCULO 23 EN SUS FRACCIONES XI, XII Y XIII; Y ADICIONA AL MISMO ARTÍCULO 23 DOS FRACCIONES ÉSTAS COMO XIV Y XV DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
