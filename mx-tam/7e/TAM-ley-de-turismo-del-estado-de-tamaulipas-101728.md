@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-del-estado-de-tamaulipas-101728"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2023-10-11"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 3 de julio de 2014.
 
@@ -250,6 +250,10 @@ XXXI. Promover y fomentar con la Secretaría de Educación Pública del Estado l
 (REFORMADA, P.O. 13 DE DICIEMBRE DE 2016) (F. DE E., P.O. 26 DE ENERO DE 2017)
 
 XXXII. Colaborar con la Secretaría del Trabajo del Estado, en el desarrollo de programas de fomento al empleo turístico, así como de capacitación y profesionalización de la actividad turística, incorporando a las personas con discapacidad, así como revisar el marco normativo de la actividad turística con el objeto de promover reformas a las leyes y demás normatividad aplicable que redunden en el fortalecimiento de la infraestructura turística y la calidad de los servicios;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+XXXII Bis. Promover convenios entre los prestadores de servicios turísticos, con la finalidad de alcanzar incentivos y descuentos para las personas con discapacidad, procurando la renovación automática para aquellos que cumplan con las disposiciones establecidas en el mismo.
 
 XXXIII. Operar el Registro Nacional de Turismo en términos de la Ley General;
 
@@ -1194,6 +1198,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 11 DE OCTUBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-646 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 65-745 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN XXXII BIS, AL ARTÍCULO 5, DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
