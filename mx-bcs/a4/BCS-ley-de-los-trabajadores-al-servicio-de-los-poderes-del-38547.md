@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-trabajadores-al-servicio-de-los-poderes-del-38547"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-23"
-last_updated: "2023-12-10"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 23 de febrero de 2004.
 
@@ -704,6 +704,48 @@ El procedimiento para resolver las permutas de empleos, así como las inconformi
 ###### ARTICULO 74.
 
 Los Sindicatos son las asociaciones de trabajadores que laboran, tanto en los Poderes del Estado como en los Municipios, constituido para el estudio, mejoramiento y defensa de sus intereses comunes.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2023)</small>
+
+La elección de las directivas sindicales estatales y seccionales se hará mediante voto personal, libre, directo y secreto de los afiliados, previa convocatoria que se emitirá y que se difundirá entre todos los miembros del sindicato, respetando el derecho de votar y ser votado.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS Y NUMERALES], B.O. 20 DE DICIEMBRE DE 2023)</small>
+
+Para tal efecto, las convocatorias deberán observar las normas siguientes:
+
+a) La convocatoria de elección se emitirá con firma autógrafa de las personas facultadas para ello, debiendo precisar fecha, hora, lugar del proceso y demás requisitos estatutariamente exigidos;
+
+b) La convocatoria deberá publicarse en el local sindical y en los lugares de mayor afluencia de los miembros en el centro de trabajo, con una anticipación mínima de diez días hábiles;
+
+c) El lugar que se determine para la celebración del proceso electoral, así como la documentación y materiales que se elaboren para la realización, deberán garantizar que la votación se desarrolle de forma segura, directa, personal, libre y secreta;
+
+d) Se integrará un padrón completo y actualizado de los miembros del sindicato con derecho a votar, que deberá publicarse y darse a conocer entre éstos con al menos tres días de antelación a la elección;
+
+e) Establecer un procedimiento que asegure la identificación de los afiliados que tengan derecho a votar, y
+
+f) La documentación, material y boletas para la elección de integración de los órganos internos de los sindicatos a que se refiere este inciso, contendrá cuando menos los siguientes datos y requisitos:
+
+1.- Municipio en que se realice la votación,
+
+2.- Cargo para el que se postula al candidato o candidatos;
+
+3.- Emblema y color de cada una de las planillas que participan con candidatos en la elección de que se trate;
+
+4.- El nombre completo del candidato o candidatos a elegir, y
+
+5.- Las boletas deberán validarse en el reverso con las firmas de por lo menos dos integrantes de la Comisión Electoral que para tales efectos acuerde el sindicato.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2023)</small>
+
+En virtud de que estos requisitos son esenciales para expresar la libre voluntad de los miembros del sindicato, de incumplirse éstos, el procedimiento de elección carecerá de validez, ya sea a nivel estatal o seccional, según sea el caso.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2023)</small>
+
+El sindicato deberá notificar la convocatoria al Tribunal de Conciliación y Arbitraje con la misma anticipación referida en el presente artículo, el cual podrá verificar el procedimiento de elección por conducto de los servidores públicos o fedatarios que designe para tal efecto.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2023)</small>
+
+Las elecciones que no cumplan estos requisitos serán nulas.
 
 ###### ARTICULO 75.
 
@@ -1664,3 +1706,15 @@ PRIMERO.- Publíquese el presente Decreto en el Boletín Oficial del Gobierno de
 SEGUNDO.- El presente Decreto entrara en vigor el 01 de enero de 2024.
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+B.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3006 SE ADICIONAN UN PÁRRAFO SEGUNDO, UN PÁRRAFO TERCERO COMPUESTO CON LOS INCISOS A), B), C), D), E), F), CON SUS NUMERALES 1, 2, 3, 4, Y 5 Y LOS PÁRRAFOS CUARTO QUINTO Y SEXTO TODOS AL ARTÍCULO 74 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- En un plazo de treinta días naturales, contados a partir de la entrada en vigor del presente Decreto, los Sindicatos deberán armonizar sus estatutos conforme a lo establecido en el presente Decreto.
+
+La falta de armonización de los Estatutos de los Sindicatos dentro del plazo establecido en el presente Decreto, no menoscabara el derecho de sus miembros a ejercer su voto personal, libre, directo y secreto en la elección de sus dirigencias. En este supuesto, en los procesos de renovación de los Comités Ejecutivo Estatal y Seccionales, próximas e inmediatas a celebrarse, las convocatorias que al efecto se emitan, deberán garantizar la observancia de lo previsto en el presente Decreto.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
