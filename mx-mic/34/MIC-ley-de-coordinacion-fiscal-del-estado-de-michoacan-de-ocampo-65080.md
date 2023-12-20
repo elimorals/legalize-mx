@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-coordinacion-fiscal-del-estado-de-michoacan-de-ocampo-65
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2022-12-22"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el miércoles 31 de diciembre de 2008.
 
@@ -299,7 +299,9 @@ Para efectos de lo dispuesto en el párrafo anterior, el monto a cargo de cada M
 
 Las participaciones que correspondan a los municipios serán cubiertas en efectivo, no en obra, sin condicionamiento alguno, serán inembargables; no podrán afectarse a fines específicos, ni estar sujetas a retención, salvo aquellas que correspondan al Fondo General, Fondo de Fomento Municipal, e Impuesto a la Venta de Gasolinas y Diésel referidas en el artículo 3° de esta Ley, las que podrán ser afectadas en garantía como fuente de pago de obligaciones contraídas por los municipios y sus organismos descentralizados, previo Acuerdo de Cabildo del Ayuntamiento y autorización del Congreso del Estado, e inscritas en el Registro Público Único referido por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios a favor de la Federación, de las instituciones de crédito que operen en territorio nacional, así como de las personas físicas o morales de nacionalidad mexicana, así como a lo previsto por los artículos 18, 20, 21 y 23 de la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios.
 
-Solamente podrán ser objeto de retención por parte de la Secretaría de Finanzas y Administración, aquellos montos y sus accesorios correspondientes que la Secretaría de Hacienda y Crédito Público a su vez retiene al Estado, como son entre otros conceptos, los relativos al Impuesto sobre la Renta, y las Cuotas Obrero Patronales no pagadas oportunamente por los municipios y/o de sus organismos paramunicipales, a favor del Servicio de Administración Tributaria, del Instituto Mexicano del Seguro Social y/o del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado, respectivamente.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+Solamente podrán ser objeto de retención por parte de la Secretaría de Finanzas y Administración, aquellos montos y sus accesorios correspondientes que la Secretaría de Hacienda y Crédito Público a su vez retiene al Estado, como son entre otros conceptos, los relativos al Impuesto sobre la Renta, y las Cuotas Obrero Patronales no pagadas oportunamente por los municipios y/o de sus organismos paramunicipales, a favor del Servicio de Administración Tributaria, por los descuentos en la proporción que les corresponda, y que en su caso apliquen por el beneficio recibido, derivados de los esquemas de potenciación del Fondo de Estabilización de los Ingresos de las Entidades, a los cuales el Estado se haya adherido e implementados por la Federación, del Instituto Mexicano del Seguro Social y/o del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado, respectivamente.
 
 Cuando el total del monto a retener por los conceptos antes referidos, no se descuente en el mes respectivo, la diferencia causará intereses hasta que se cubra el monto total a favor de la Secretaría de Finanzas y Administración, los que se determinarán a la tasa de recargos que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones. Previo Acuerdo de Cabildo correspondiente.
 
@@ -353,11 +355,23 @@ La Secretaría de Finanzas y Administración del Estado, publicará trimestralme
 
 Así mismo, realizará las publicaciones en el Órgano de difusión Estatal, a que refiere el «ACUERDO 02/2014 por el que se expiden los Lineamientos para la publicación de la información a que se refiere el artículo 6° de la Ley de Coordinación Fiscal», publicado en el Diario Oficial de la Federación, el 14 de febrero del año 2014.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 20.
 
-Los presidentes municipales y los directores de los organismos operadores municipales de los sistemas de agua potable, alcantarillado y saneamiento, deberán proporcionar a la Secretaría de Finanzas y Administración del Estado, a más tardar el último día hábil del mes de febrero del ejercicio fiscal vigente, la información relativa a la recaudación del Impuesto Predial y de los Derechos por la Prestación del Servicio de Agua Potable, Alcantarillado y Saneamiento, y sus respectivos accesorios, obtenida en el ejercicio fiscal inmediato anterior, señalando las acciones que se hayan realizado para justificar los incrementos obtenidos, de manera razonablemente aceptable. Para lo cual la Secretaría de Finanzas y Administración del Poder Ejecutivo del Estado, les proporcionará los formatos oficiales respectivos.
+Los presidentes municipales y los directores de los organismos operadores municipales de los sistemas de agua potable, alcantarillado y saneamiento, deberán proporcionar a la Secretaría de Finanzas y Administración del Estado, la información relativa a la recaudación del Impuesto Predial y de los Derechos por la Prestación del Servicio de Agua Potable, Alcantarillado y Saneamiento, y sus respectivos accesorios, obtenida en el ejercicio fiscal inmediato anterior.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+Para tal efecto, la Secretaría les proporcionará el acceso al Sistema de Registro de Información de Agua y Predial, a través del cual cada Municipio deberá capturar su recaudación trimestral durante el ejercicio fiscal de que se trate, en un plazo no mayor de 30 días naturales siguientes al de la conclusión del trimestre correspondiente, en caso de que el último día en que fenezca el término coincida en día inhábil, se recorrerá al día hábil siguiente. La recaudación anual obtenida en el ejercicio fiscal inmediato anterior deberá capturarse a más tardar el último día hábil del mes de febrero del ejercicio fiscal vigente.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+Las cifras anuales que se reporten en el Sistema de Registro de Información de Agua y Predial, deberán contar con el soporte documental y adjuntarse en el mismo, o en los medios oficiales que la Secretaría comunique a los presidentes municipales y en su caso; directores de los organismos operadores municipales· de los sistemas de agua potable, alcantarillado y saneamiento.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+El soporte documental deberá contener la justificación o comprobación de la recaudación registrada de cada contribución.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
@@ -1032,3 +1046,9 @@ DÉCIMO SEGUNDO. Túrnese el presente Decreto al Titular de la Auditoría Superi
 DÉCIMO TERCERO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, para sus efectos conducentes.
 
 DÉCIMO CUARTO. El Titular del Poder Ejecutivo del Estado, acompañado del refrendo del Secretario de Gobierno de conformidad con lo dispuesto por el artículo 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, dispondrá se publique y observe.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 605 POR EL QUE “SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 16; EL ARTÍCULO 20; Y SE ADICIONAN TRES PÁRRAFOS AL ARTÍCULO 20, TODOS DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día 1º de enero de 2024, previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
