@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2023-11-27"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -1177,9 +1177,9 @@ b).- La que resulte del monto total de las contraprestaciones por el servicio de
 
 Artículo 52 Undecies. Este impuesto no se causa por los servicios de hospedaje proporcionados por hospitales, clínicas, asilos, conventos, seminarios o internados.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-### CAPITULO VII. DEL IMPUESTO SOBRE LA ENAJENACIÓN DE BEBIDAS CON CONTENIDO ALCOHÓLICO Y TABACOS LABRADOS
+### CAPITULO VII. DEL IMPUESTO SOBRE LA ENAJENACIÓN DE BEBIDAS CON CONTENIDO ALCOHÓLICO
 
 (NOTA: EL 6 DE JULIO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 21/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE JULIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -1198,6 +1198,10 @@ I.- Para los efectos de éste impuesto se entiende por bebidas con contenido alc
 (NOTA: EL 6 DE JULIO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 21/2020, DECLARÓ LA INVALIDEZ DEL INCISO 1) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE JULIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 1) BEBIDAS ALCOHÓLICAS: LAS QUE A LA TEMPERATURA DE 15° CENTÍGRADOS, TENGAN UNA GRADUACIÓN ALCOHÓLICA DE MÁS DE 3° G.L., HASTA 55° G.L., INCLUYENDO EL AGUARDIENTE Y LOS CONCENTRADOS DE BEBIDAS ALCOHÓLICAS, AÚN CUANDO TENGAN UNA GRADUACIÓN ALCOHÓLICA MAYOR.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+1.1) Bebidas alcohólicas: Las que a la temperatura de 15° centígrados, tengan una graduación alcohólica de más de 3° G.L., hasta 55° G.L., incluyendo el aguardiente y los concentrados de bebidas alcohólicas, aun cuando tengan una graduación alcohólica mayor, con excepción de la cerveza en todas sus presentaciones y el aguamiel y los productos de su fermentación, cuyo gravamen se encuentra expresamente reservado al Congreso de la Unión, en términos del artículo 73, fracción XXIX, numeral 5, incisos e) y g) de la Constitución Política de los Estados Unidos Mexicanos.
 
 2) Bebidas refrescantes: Las elaboradas con un mínimo de 50% a base de vino de mesa, producto de la fermentación natural de frutas, pudiendo adicionar agua, bióxido de carbono, agua carbonatada, jugo de frutas, extracto de frutas, aceites esenciales, ácido cítrico, azúcar, ácido benzoico o ácido servicio o sus sales con conservadores, así como aquellas que se elaboran de destilados alcohólicos diversos de los antes señalados.
 
@@ -4332,3 +4336,11 @@ Para efecto del Certificado de Persona Operadora Titular o Adhesiva y Constancia
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-778 MEDIANTE EL CUAL SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO VII, DEL TÍTULO II; Y SE ADICIONA EL INCISO 1.1) A LA FRACCIÓN I, DEL PÁRRAFO SEGUNDO, DEL ARTÍCULO 52 DUODECIES, DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
