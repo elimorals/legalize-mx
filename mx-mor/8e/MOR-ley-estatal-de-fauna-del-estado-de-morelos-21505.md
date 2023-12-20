@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-fauna-del-estado-de-morelos-21505"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-30"
-last_updated: "2021-07-28"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE FAUNA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el 30 de abril de 1997.
 
@@ -57,11 +57,15 @@ LEY ESTATAL DE FAUNA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 1.
 
-La presente Ley tiene como finalidad regular la protección de los animales domésticos y a las especies silvestres que se encuentren dentro del Estado de Morelos. Las disposiciones de ésta son de interés público y tienen los siguientes objetivos:
+La presente Ley tiene como finalidad regular la protección de los animales domésticos, de servicio y a las especies silvestres que se encuentren dentro del Estado de Morelos. Las disposiciones de ésta son de interés público y tienen los siguientes objetivos:
 
-I.- Fomentar el trato humanitario para los animales domésticos y silvestres;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+I.- Fomentar el trato humanitario para los animales domésticos, de servicio y silvestres;
 
 II.- Erradicar en todas sus formas y sancionar el maltrato y los actos de crueldad para con los animales;
 
@@ -181,11 +185,15 @@ e).- Al concluir la visita se levantará acta circunstanciada en presencia de do
 
 Se consideran como faltas y deberán ser sancionadas de acuerdo con esta Ley, todos aquellos actos u omisiones que provoquen dolor innecesario a un animal, que menoscaben temporal o definitivamente cualquiera de sus funciones naturales o que de cualquier forma le ocasionen sufrimiento alguno, ya sea que el infractor actúe dolosa o imprudencialmente, en forma directa o bien, permita o provoque que otro efectúe el acto de crueldad.
 
-### CAPITULO III. DE LOS ANIMALES DOMESTICOS Y SILVESTRES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+### CAPITULO III. DE LOS ANIMALES DOMÉSTICOS, DE SERVICIO Y SILVESTRES
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 20.
 
-Toda persona física o moral, que se dedique a la cría o cuidado de animales silvestres o domésticos, está obligada a valerse de los medios y procedimientos más adecuados, a fin de que los animales en su desarrollo reciban buen trato de acuerdo a los adelantos científicos en uso y puedan satisfacer el comportamiento natural de su especie.
+Toda persona física o moral, que se dedique a la cría o cuidado de animales silvestres, de servicio o domésticos, está obligada a valerse de los medios y procedimientos más adecuados, a fin de que los animales en su desarrollo reciban buen trato de acuerdo a los adelantos científicos en uso y puedan satisfacer el comportamiento natural de su especie.
 
 ###### Artículo 21.
 
@@ -194,6 +202,92 @@ Queda estrictamente prohibido permitir que los animales deambulen libremente en 
 ###### Artículo 22.
 
 La captura de perros y otros animales que deambulen libremente en vía pública, se efectuará preferentemente en los Municipios que cuenten con un centro de acopio y por orden de las autoridades municipales y sanitarias, bajo la supervisión del Comité, por personas específicamente adiestradas y debidamente equipadas para tal efecto, quienes evitarán cualquier acto de crueldad, tormento, sobreexcitación o escándalo público.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 22 Bis.
+
+Los animales de servicio, son aquellos que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad o enfermedades. Se clasifican en los siguientes tipos:
+
+I. Perro guía: Perro adiestrado para guiar a una persona con discapacidad visual;
+
+II. Perro señal: Perro adiestrado para avisar sobre la emisión de sonidos y su procedencia a personas con discapacidad auditiva;
+
+III. Perro de aviso o alerta médica: Perro adiestrado para avisar de una alerta médica a personas que padecen discapacidad y crisis recurrentes con desconexión sensorial derivadas de una enfermedad específica, diabetes, epilepsia u otra enfermedad orgánica;
+
+IV. Perro para trastornos del espectro autista: Perro adiestrado para preservar la integridad física de estos usuarios, controlar situaciones de emergencia y guiarlos;
+
+V. Perro para asistencia de movilidad: Perro adiestrado para auxiliar a personas con discapacidad física;
+
+VI. Perro policía: Perro adiestrado para ayudar o apoyar a la seguridad pública e investigación policial de prendas de uso personal, cadáveres, narcóticos, armas o sustancias peligrosas;
+
+VII. Perro de búsqueda y rescate: Perro adiestrado para buscar y encontrar personas vivas o fallecidas en los escombros de un inmueble, avalanchas, aludes o incluso hasta en naufragios, y
+
+VIII. Otros animales de servicio: Los que cuenten con el adiestramiento necesario para realizar alguna tarea específica en beneficio de los seres humanos.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 22 Ter.
+
+Las personas que tienen bajo su tutela algún animal de servicio, además de cumplir con las disposiciones de la presente Ley, su Reglamento, y otros ordenamientos jurídicos aplicables, tienen obligación de:
+
+I. Acreditar que cuenten con su esquema de vacunación completo y estén esterilizados;
+
+II. Portar para su apoyo, la credencial expedida por el establecimiento en donde se adiestró al animal, con el objeto de hacer constar que el ejemplar responde a las características de su adiestramiento o entrenamiento;
+
+III. Respetar el periodo de recuperación del ejemplar cuando no se encuentre en condiciones aptas para desempeñar su actividad, y así lo indique el Médico veterinario zootecnista encargado de su salud; y
+
+IV. Permitir al ejemplar periodos de juego conforme a su adiestramiento o entrenamiento, así como de descanso en lugar confortable y seguro, manteniendo en todo momento su manejo y cuidado.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 22 Quater.
+
+Todo animal de servicio debe quedar inscrito por el establecimiento en donde se adiestró y es obligación de la persona usuaria o de quien jurídicamente represente a menores o personas con discapacidad que reciben el servicio de estos ejemplares, proporcionar para lo consecuente los siguientes datos:
+
+I. Nombre, fecha de nacimiento, sexo, domicilio particular, y datos del contacto de la persona que recibe el servicio del ejemplar;
+
+II. Nombre, edad, sexo, raza y clasificación del ejemplar;
+
+III. Acreditación o certificación de la institución o centro especializado, nacional o del extranjero, que haya llevado a cabo el adiestramiento o entrenamiento del ejemplar, y
+
+IV. Nombre, Cédula Profesional y un número de teléfono para contacto inmediato del médico veterinario zootecnista encargado de la salud del ejemplar.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 22 Quinquies.
+
+Los establecimientos de adiestramiento animal concentrarán los datos de las personas usuarias de algún animal de servicio, crearán el registro correspondiente y expedirán una credencial, individual e intransferible, por persona y ejemplar.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 22 Sexies.
+
+Los establecimientos de adiestramiento animal crearán y administrarán un padrón de las instituciones nacionales y extranjeras de adiestramiento, así como de adiestradores o entrenadores de los ejemplares de algún animal de servicio.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 22 Septies.
+
+Toda persona física o moral que se dedique al adiestramiento o entrenamiento de animales de servicio está obligada a registrarse legalmente ante las autoridades competentes y a obtener la certificación en materia de bienestar animal la cual deberá ser acorde con los criterios técnicos emitidos por la misma.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 22 Octies.
+
+Todo animal de servicio tiene acceso libre e irrestricto al espacio público, establecimientos mercantiles, instalaciones o transportes individuales o colectivos, sean de carácter público o privado, siempre que no vaya acompañado de la persona a la que asiste. Se considerará además lo siguiente:
+
+I. Las personas deben procurar no tocar o interrumpir al animal que esté de servicio, en espera o reposando, salvo que la persona usuaria lo autorice;
+
+II. En ningún momento se exigirá a la persona asistida el empleo de bozal en su ejemplar o cualquier medida que limite sus funciones;
+
+III. No serán considerados como animales de compañía, a efecto de establecer las excepciones correspondientes en los reglamentos o disposiciones para la vivienda en arrendamiento o bajo régimen de condominio, y para los padrones respectivos;
+
+IV. No se les podrá negar el acceso, la permanencia, el uso de un servicio o cobro adicional en instituciones, establecimientos mercantiles o de servicio, instalación, transporte individual o colectivo público o privado;
+
+V. Tendrán libre acceso a centros de trabajo y educativos,
+
+VI. Tendrán acceso a los establecimientos del Sistema Estatal de Salud, con excepción de las zonas restringidas por disposiciones sanitarias, siempre y cuando la persona usuaria del ejemplar no pueda ser auxiliada por alguna otra persona de su confianza, o el centro hospitalario no disponga de personal para prestar el apoyo necesario.
 
 ###### Artículo 23.
 
@@ -206,6 +300,28 @@ Queda estrictamente prohibido ofrecer animales vivos para la alimentación de ot
 ###### Artículo 25.
 
 Queda prohibido estimular o entumecer a un animal por medios físicos, químicos o quirúrgicos, para fines competitivos, de exhibición o utilización de espectáculos públicos o privados y en general aplicarles drogas sin fines terapéuticos. Los métodos y técnicas de adiestramiento de los animales deberán evitar cualquier acto de crueldad hacia ellos, independientemente del fin que se persiga.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 25 Bis.
+
+Se reconoce la insignia “Pet Friendly”, como distintivo autorizado por los Municipios a aquellos hoteles, restaurantes, bares y cualquier establecimiento mercantil que al brindar sus servicios permita el acceso de animales domésticos y les brinde un trato digno, respetuoso y salubre en sus instalaciones durante la estancia de los clientes o usuarios.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 25 Ter.
+
+Los municipios establecerán los lineamientos y criterios que deberán observar los establecimientos mercantiles a los que les sea reconocida la insignia “Pet Friendly” como distintivo autorizado.
+
+Los lineamientos y criterios a los que se hace referencia en el presente artículo se elaborarán y ejecutarán por el Municipio a través de su unidad administrativa encargada de la protección ambiental y desarrollo sustentable, en coordinación con sus áreas de Salud y de Desarrollo Económico.
+
+La unidad administrativa encargada de la protección ambiental y desarrollo sustentable de cada Municipio elaborará, coordinará, supervisará y administrará el padrón de establecimientos mercantiles a los que se les autorice la Insignia “Pet friendly” y dará difusión de dicho padrón a través de los medios electrónicos con los que cuente.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 25 Quater.
+
+Los hoteles, restaurantes, bares y cualquier establecimiento mercantil que así lo deseé; podrá solicitar ante el municipio se incorpore en el Padrón de establecimientos mercantiles “Pet Friendly”, lo anterior previo cumplimiento de las condiciones y requerimientos que para tal efecto emita el municipio.
 
 ### CAPITULO IV. DE LOS ANIMALES DE CARGA, SILLA Y TIRO
 
@@ -654,3 +770,25 @@ P.O. 28 DE JULIO DE 2021.
 PRIMERO.- Remítase el presente decreto al titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS SETENTA Y SEIS.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ESTATAL DE FAUNA, PARA REGULAR LA PROTECCIÓN DE LOS ANIMALES DE SERVICIO”.]
+
+PRIMERO.- Remítase el presente decreto al Poder Ejecutivo del Estado para que realice la publicación correspondiente en el periódico oficial “Tierra y Libertad”
+
+SEGUNDO.- El presente decreto entrará en vigor al siguiente día de su publicación en el periódico oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se concede un plazo de 60 días hábiles contados a partir de la publicación del presente Decreto para que se emitan las adecuaciones a las disposiciones normativas correspondientes.
+
+CUARTO.- Se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente decreto.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO MIL CUATROCIENTOS SETENTA Y SIETE POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ESTATAL DE FAUNA, PARA RECONOCER LA INSIGNIA PET FRIENDLY”.]</small>
+
+PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70 fracción XVIII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Se concede un plazo de 60 días hábiles contados a partir de la publicación en el Periódico Oficial para que los Ayuntamientos del Estado emitan los lineamientos y criterios a que se refiere esta reforma.
