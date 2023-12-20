@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-rural-integral-sustentable-del-estado-de-6571
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2010-12-24"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 31 de diciembre de 2008.
 
@@ -491,7 +491,9 @@ VI. La Información para el Desarrollo Rural Sustentable;
 
 VII. La Sanidad, Inocuidad y Calidad Agropecuaria y Alimentaria;
 
-VIII. El Financiamiento Rural; y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+VIII. El Financiamiento Rural;
 
 > <small>(F. DE E., P.O. 19 DE ENERO DE 2009)</small>
 
@@ -516,6 +518,16 @@ h) Apoyos y fondos convergentes por contingencias;
 i) Todos los necesarios para la aplicación del Programa Especial Concurrente en las materias especificadas en el artículo 15 de la Ley de Desarrollo Rural Federal; y
 
 j) Los que determine el Consejo Estatal.
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+X. La implementación de campañas de carácter permanente con el objetivo de informar a la población rural sobre los derechos, apoyos y servicios de los que son beneficiarios, respecto a:
+
+a) Información respecto de los programas públicos que se implementen y los requisitos necesarios para ser personas beneficiarias de los mismos.
+
+b) Dar a conocer los mecanismos sobre la presentación de quejas y denuncias, ante las instancias correspondientes, en defensa de sus derechos.
+
+c) Información sobre las condiciones laborales que señala la Ley Federal del Trabajo.
 
 ###### Artículo 32.
 
@@ -1230,3 +1242,9 @@ GILBERTO MONTIEL AMOROSO
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 466. SE REFORMA LA FRACCIÓN VIII Y SE ADICIONA UNA FRACCIÓN X AL ARTÍCULO 31 DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE NUEVO LEÓN”.]
+
+Único: El presente Decreto entrará en vigor al día siguiente de su publicación.
