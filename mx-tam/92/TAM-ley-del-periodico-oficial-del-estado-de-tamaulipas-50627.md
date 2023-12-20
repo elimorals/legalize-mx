@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-periodico-oficial-del-estado-de-tamaulipas-50627"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-10"
-last_updated: "2019-08-20"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 10 de mayo de 2006.
 
@@ -81,23 +81,29 @@ Dicha dependencia podrá suscribir convenios de colaboración con los Ayuntamien
 
 Las disposiciones de carácter general emitidas por órganos estatales o municipales competentes surtirán efectos jurídicos el día de su publicación y obligan por el sólo hecho de aparecer su impresión en el Periódico Oficial, salvo que en el documento a publicar se indique la fecha a partir de la que debe entrar en vigor.
 
-### CAPITULO II. DEL RESPONSABLE DEL PERIODICO OFICIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO II. DE LA PERSONA RESPONSABLE DEL PERIÓDICO OFICIAL
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 6.
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+1. El Periódico Oficial del Estado será elaborado por la persona responsable, quien será nombrada por la persona titular de la Secretaría General de Gobierno.
 
-1. El Periódico Oficial del Estado será elaborado por un responsable, quien será nombrado por el Secretario General de Gobierno.
-
-2. Al responsable del Periódico Oficial del Estado le corresponde su administración y que se remitan al Archivo General del Estado dos ejemplares de cada número que edite.
+2. La persona responsable del Periódico Oficial del Estado le corresponde su administración y que se remitan al Archivo General del Estado dos ejemplares de cada número que edite.
 
 ###### ARTICULO 7.
 
-El responsable del Periódico Oficial, tendrá las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+La persona responsable del Periódico Oficial, tendrá las siguientes atribuciones:
 
 a) Recibir en custodia la información que deberá publicarse;
 
-b) Proponer observaciones de ortografía y de redacción o estilo, a la documentación que habrá de publicarse;
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+b) Proponer observaciones de ortografía y de redacción o estilo, a la documentación que habrá de publicarse, procurando el uso de lenguaje no sexista;
 
 c) Editar, imprimir y publicar el Periódico Oficial del Estado;
 
@@ -107,7 +113,9 @@ d) Planear estrategias de distribución del Periódico Oficial del Estado;
 
 e) Integrar, custodiar y conservar la edición electrónica e impresa del Periódico Oficial del Estado;
 
-f) Rendir un informe anual de actividades al Secretario General de Gobierno;
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+f) Rendir un informe anual de actividades a la persona titular de la Secretaría General de Gobierno;
 
 g) Elaborar una estadística anual de la información publicada;
 
@@ -117,15 +125,15 @@ h) El Periódico Oficial del Estado será distribuido gratuitamente en sus forma
 
 i) (DEROGADO, P.O. 27 DE ABRIL DE 2017)
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-j) Proponer al Subsecretario de Legalidad y Servicios Gubernamentales o su equivalente, las modificaciones operativas y reglamentarias que aprecie necesarias para mejorar la elaboración del Periódico Oficial del Estado;
+j) Proponer a la persona titular de la Subsecretaría de Legalidad y Servicios Gubernamentales, las modificaciones operativas y reglamentarias que aprecie necesarias para mejorar la elaboración del Periódico Oficial del Estado;
 
 k) Participar en la divulgación del orden jurídico estatal;
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-l) Proponer al Subsecretario de Legalidad y Servicios Gubernamentales o su equivalente, de la Secretaría General de Gobierno, las modificaciones operativas y reglamentarias, así como incorporar el desarrollo y la innovación tecnológica a los procesos de producción y distribución;
+l) Proponer a la persona titular de la Subsecretaría de Legalidad y Servicios Gubernamentales o su equivalente, de la Secretaría General de Gobierno, las modificaciones operativas y reglamentarias, así como incorporar el desarrollo y la innovación tecnológica a los procesos de producción y distribución;
 
 > <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
 
@@ -221,27 +229,35 @@ En aquellos casos que una ley, reglamento, autoridad judicial o administrativa, 
 
 1. No se publicará documento alguno, cualquiera que sea su naturaleza jurídica, si no consta en original, debidamente firmado y sellado por aquel de quien procede.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-2. Para los efectos del párrafo anterior, la Coordinación General de Legalidad de la Secretaría General de Gobierno o el responsable de la impresión del Periódico Oficial, podrá requerir al ordenante o solicitante el debido cumplimiento de las formalidades.
+2. Para los efectos del párrafo anterior, la Coordinación General de Legalidad de la Secretaría General de Gobierno o la persona responsable de la impresión del Periódico Oficial, podrá requerir a las y los ordenantes o solicitantes el debido cumplimiento de las formalidades.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 14.
 
-En la publicación de los documentos que se incluyan en el Periódico Oficial del Estado, por razones técnicas se podrá omitir la impresión de la firma de quien o quienes los suscriben; sin embargo, en su lugar deberá aparecer, después de la mención del nombre del firmante, la palabra "RUBRICA", dándose plena validez jurídica el (sic) contenido de la publicación.
+En la publicación de los documentos que se incluyan en el Periódico Oficial del Estado, por razones técnicas se podrá omitir la impresión de la firma de quien o quienes los suscriben; sin embargo, en su lugar deberá aparecer, después de la mención del nombre de la persona firmante, la palabra “RÚBRICA”, dándose plena validez jurídica el contenido de la publicación.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 15.
 
-Para la publicación de documentos y, en los casos en que proceda, el usuario deberá realizar previamente el pago de los derechos que establezca la Ley de Hacienda del Estado.
+Para la publicación de documentos y, en los casos en que proceda, las y los usuarios deberán realizar previamente el pago de los derechos que establezca la Ley de Hacienda para el Estado.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 16.
 
-Para la venta del Periódico Oficial, deberá sujetarse a lo que dispone la Ley de Hacienda del Estado, respecto al pago de ese derecho.
+Para la venta del Periódico Oficial, deberá sujetarse a lo que dispone la Ley de Hacienda para el Estado, respecto al pago de ese derecho.
 
 ### CAPITULO IV. DE LAS FE DE ERRATAS
 
 ###### ARTICULO 17.
 
-1. La fe de erratas es una certificación que realiza el responsable del Periódico Oficial del Estado por sí o a instancia de autoridad competente o de particulares, cuando una u otros sean los solicitantes de la publicación en el Periódico Oficial del Estado, de un error material que lo hace diferir del documento original que contiene el texto que sustenta su impresión y que obre en su poder.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+1. La fe de erratas es una certificación que realiza la persona responsable del Periódico Oficial del Estado por sí o a instancia de autoridad competente o de particulares, cuando una u otros sean quienes soliciten de la publicación en el Periódico Oficial del Estado, de un error material que lo hace diferir del documento original que contiene el texto que sustenta su impresión y que obre en su poder.
 
 2. Con base en dicha certificación se publicará la fe de erratas en el propio Periódico Oficial del Estado.
 
@@ -253,21 +269,27 @@ a) Por errores durante la elaboración del Periódico Oficial; y
 
 b) Por errores en el contenido de los documentos enviados para su publicación por autoridades o particulares, y que se comprendan en la materia de la publicación.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 19.
 
-1. Cuando el contenido del documento publicado contenga errores que lo hagan diferir con el documento original y tal hecho sea imputable al responsable de la impresión; éste, al momento de tener conocimiento del error, por sí o a petición de parte, deberá insertar en el Periódico Oficial, dentro de los cinco días siguientes una fe de erratas en la que conste de manera correcta el contenido del documento original.
+1. Cuando el contenido del documento publicado contenga errores que lo hagan diferir con el documento original y tal hecho sea imputable a la persona responsable de la impresión; ésta, al momento de tener conocimiento del error, por sí o a petición de parte, deberá insertar en el Periódico Oficial, dentro de los cinco días siguientes una fe de erratas en la que conste de manera correcta el contenido del documento original.
 
-2. En el caso previsto en el párrafo anterior, la inserción aludida será sin costo para el usuario.
+2. En el caso previsto en el párrafo anterior, la inserción aludida será sin costo para las y los usuarios.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 20.
 
-Cuando el contenido del documento publicado contenga errores derivados del propio documento original, el responsable del Periódico Oficial, previa solicitud por escrito de la parte interesada, publicará una fe de erratas dentro de los cinco días siguientes a la fecha en que tenga conocimiento de ésta, en la que conste la corrección del error, previo pago de los derechos correspondientes.
+Cuando el contenido del documento publicado contenga errores derivados del propio documento original, la persona responsable del Periódico Oficial, previa solicitud por escrito de la parte interesada, publicará una fe de erratas dentro de los cinco días siguientes a la fecha en que tenga conocimiento de ésta, en la que conste la corrección del error, previo pago de los derechos correspondientes.
 
 ### CAPITULO V. DE LA PUBLICACION DEL PERIODICO OFICIAL EN MEDIOS ELECTRONICOS
 
 ###### ARTICULO 21.
 
-1. El responsable del Periódico Oficial administrará la página electrónica de dicho órgano de información en el internet.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+1. La persona responsable del Periódico Oficial administrará la página electrónica de dicho órgano de información en el internet.
 
 2. Cada ejemplar del Periódico Oficial del Estado será difundido en el sitio web del propio órgano público de información, dentro de un término de veinticuatro horas posteriores a su publicación impresa.
 
@@ -281,7 +303,9 @@ Cuando el contenido del documento publicado contenga errores derivados del propi
 
 ###### ARTICULO 22.
 
-1. El responsable del Periódico Oficial del Estado editará compilaciones electrónicas del propio Periódico para facilitar su colección y resguardo.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+1. La persona responsable del Periódico Oficial del Estado editará compilaciones electrónicas del propio Periódico para facilitar su colección y resguardo.
 
 2. Las instituciones públicas podrán consultar de manera gratuita las publicaciones oficiales en el sitio web del Periódico Oficial del Estado de Tamaulipas.
 
@@ -324,6 +348,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 20 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-816 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 10, PÁRRAFO 1, DE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-744 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
