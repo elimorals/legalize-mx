@@ -4,7 +4,7 @@ identifier: "LGE"
 country: "mx"
 rank: "ley_general"
 publication_date: "2019-09-30"
-last_updated: "2019-09-30"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138312&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número 23 del Diario Oficial de la Federación, el lunes 30 de septiembre de 2019.
 
@@ -934,17 +934,39 @@ IX. Elaborar y difundir materiales educativos para la prevención y atención de
 
 Las autoridades educativas, en el ámbito de sus respectivas competencias, emitirán los lineamientos para los protocolos de actuación que sean necesarios para el cumplimiento de este artículo, entre otros, para la prevención y atención de la violencia que se genere en el entorno escolar, familiar o comunitario contra cualquier integrante de la comunidad educativa, para su detección oportuna y para la atención de accidentes que se presenten en el plantel educativo. A su vez, determinarán los mecanismos para la mediación y resolución pacífica de controversias que se presenten entre los integrantes de la comunidad educativa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 75.
 
-La Secretaría, mediante disposiciones de carácter general que se publiquen en el Diario Oficial de la Federación y sin perjuicio del cumplimiento de otras disposiciones que resulten aplicables, establecerá los lineamientos a que deberán sujetarse la distribución de los alimentos y bebidas preparados y procesados, dentro de toda escuela, en cuya elaboración se cumplirán los criterios nutrimentales que para tal efecto determine la Secretaría de Salud.
+La Secretaría, mediante disposiciones de carácter general que se publiquen en el Diario Oficial de la Federación y sin perjuicio del cumplimiento de otras disposiciones que resulten aplicables, establecerá los lineamientos a que deberán sujetarse la preparación, distribución y expendio de los alimentos y bebidas preparados, procesados y a granel, dentro de toda escuela, en cuya elaboración se cumplirán los criterios nutrimentales que para tal efecto determine la Secretaría de Salud, mismos que se deberán evaluar y actualizar al menos cada cinco años.
 
-Estas disposiciones de carácter general comprenderán las regulaciones que prohíban los alimentos que no favorezcan la salud de los educandos y fomenten aquellos alimentos con mayor valor nutritivo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 2023)</small>
 
-Las autoridades educativas promoverán ante las autoridades correspondientes, la prohibición de la venta de alimentos con bajo valor nutritivo y alto contenido calórico en las inmediaciones de los planteles escolares.
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2023)</small>
+
+Las autoridades educativas promoverán ante las autoridades correspondientes, la prohibición de la venta y publicidad de alimentos y bebidas con bajo valor nutricional de acuerdo con los criterios nutrimentales incluidos en el artículo 212 de la Ley General de Salud y las demás disposiciones en la materia de los planteles escolares y sus inmediaciones.
 
 La Secretaría establecerá las bases para fomentar estilos de vida saludables que prevengan, atiendan y contrarresten, en su caso, el sobrepeso y la obesidad entre los educandos, como la activación física, el deporte escolar, la educación física, los buenos hábitos nutricionales, entre otros. En materia de la promoción de la salud escolar, la Secretaría considerará las Normas Oficiales Mexicanas que al efecto emita la Secretaría de Salud.
 
-Las cooperativas que funcionen con la participación de la comunidad educativa tendrán un compromiso para fomentar estilos de vida saludables en la alimentación de los educandos y su operación será con apego a los lineamientos que establezca la Secretaría y a las demás disposiciones aplicables.
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2023)</small>
+
+Las personas responsables de la aplicación y vigilancia de las disposiciones señaladas en el presente artículo al interior de las escuelas, serán las que ejerzan los cargos directivos y las autoridades escolares. Las autoridades educativas y sanitarias vigilarán y sancionarán en el ámbito de sus competencias el incumplimiento de estas disposiciones.
+
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2023)</small>
+
+Las cooperativas, establecimientos de consumo escolar, comedores y máquinas expendedoras o sus equivalentes, que funcionen con la participación de la comunidad educativa o sin ella, tendrán un compromiso para fomentar estilos de vida saludables en la alimentación de los educandos y su operación será con apego a los lineamientos que establezca la Secretaría y a las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 75 Bis.
+
+Estas disposiciones de carácter general a que se refiere el artículo anterior comprenderán en su contenido y proceso de elaboración, de manera enunciativa más no limitativa, lo siguiente:
+
+I. Los criterios de sostenibilidad, progresividad, la ausencia de conflicto de interés y la garantía del interés superior de la niñez.
+
+II. La regulación de la venta de alimentos y bebidas naturales y preparados, saludables, sostenibles, y de la región; así como el consumo de agua simple potable.
+
+III. La prohibición de la venta y publicidad de los alimentos y bebidas procesados y a granel que no favorezcan la salud de los educandos o la pongan en riesgo por su bajo valor nutricional de acuerdo con los criterios nutrimentales incluidos en el artículo 212 de la Ley General de Salud y las demás disposiciones en la materia.
 
 ###### Artículo 76.
 
@@ -1394,7 +1416,9 @@ XIV. Participar en la realización, en forma periódica y sistemática, de exám
 
 XV. Promover entornos escolares saludables, a través de acciones que permitan a los educandos disponibilidad y acceso a una alimentación nutritiva, hidratación adecuada, así como a la actividad física, educación física y la práctica del deporte;
 
-XVI. Promover en la educación obligatoria prácticas cooperativas de ahorro, producción y promoción de estilos de vida saludables en alimentación, de acuerdo con lo establecido en la ley de la materia y el Reglamento de Cooperativas Escolares;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2023)</small>
+
+XVI. Promover en la educación obligatoria prácticas cooperativas de ahorro, producción y promoción de estilos de vida saludables en alimentación, de acuerdo con lo establecido en la ley y las Normas Oficiales Mexicanas de la materia y el Reglamento de Cooperativas Escolares;
 
 XVII. Promover, ante las autoridades correspondientes, los permisos necesarios de acuerdo con la legislación laboral aplicable, con la finalidad de facilitar la participación de madres y padres de familia o tutores en las actividades de educación y desarrollo de sus hijas, hijos o pupilos menores de dieciocho años;
 
@@ -2020,7 +2044,9 @@ X. Ocultar a las madres y padres de familia o tutores, las conductas de los educ
 
 XI. Oponerse a las actividades de vigilancia, así como no proporcionar información veraz y oportuna;
 
-XII. Contravenir las disposiciones contempladas en los artículos 7o., 15, 16, 73, párrafo tercero, por lo que corresponde a las autoridades educativas y 148, segundo párrafo;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2023)</small>
+
+XII. Contravenir las disposiciones contempladas en los artículos 7o., 15, 16, 73, párrafo tercero, 75 y 75 Bis, por lo que corresponde a las autoridades educativas y 148, segundo párrafo;
 
 XIII. Administrar a los educandos, sin previa prescripción médica y consentimiento informado de sus madres y padres o tutores, medicamentos;
 
@@ -2203,3 +2229,17 @@ Conforme a lo que se establezca en los convenios a que se refiere el párrafo an
 Ciudad de México, a 25 de septiembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de septiembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE EDUCACIÓN, EN MATERIA DE SALUD ALIMENTARIA EN LAS ESCUELAS”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Secretaría de Educación Pública contará con un plazo no mayor de 180 días, contado a partir del día siguiente a la publicación del presente Decreto, para actualizar los lineamientos generales para el expendio y distribución de alimentos y bebidas preparados y procesados en las escuelas del sistema educativo nacional en términos de los artículos 75 y 75 Bis de esta Ley, así como las demás disposiciones en la materia para garantizar el cumplimiento de lo establecido en el presente Decreto.
+
+Tercero.- Los Gobiernos de las Entidades Federativas y de los Municipios, deberán adecuar sus leyes, reglamentos y demás disposiciones jurídicas, en un plazo no mayor de dos años, de acuerdo con las competencias que a cada uno corresponda, para cumplir lo dispuesto en el presente Decreto.
+
+Cuarto.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria de los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que de manera progresiva se otorgarán los recursos.
