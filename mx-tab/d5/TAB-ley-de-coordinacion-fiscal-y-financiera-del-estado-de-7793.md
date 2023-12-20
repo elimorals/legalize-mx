@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-coordinacion-fiscal-y-financiera-del-estado-de-7793"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-30"
-last_updated: "2021-12-21"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE COORDINACIÓN FISCAL Y FINANCIERA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 1992.
 
@@ -251,11 +251,11 @@ LA RELACION CONTENIDA EN EL ARTICULO ANTERIOR NO LIMITA A LOS MUNICIPIOS PARA QU
 
 #### SECCION PRIMERA. PERIODICIDAD DEL CALCULO Y LIQUIDACION DE PARTICIPACIONES
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 4.
 
-EL EJECUTIVO DEL ESTADO, POR CONDUCTO DE LA SECRETARIA DE FINANZAS, CALCULARA Y ENTREGARA CON PERIODICIDAD MENSUAL LAS PARTICIPACIONES FEDERALES QUE LES CORRESPONDAN A LOS MUNICIPIOS, 5 DIAS POSTERIORES DE QUE ESTAS FUERAN RECIBIDAS POR EL ESTADO DE ACUERDO A LOS FONDOS QUE ESTABLECE ESTA LEY.
+EL EJECUTIVO DEL ESTADO, POR CONDUCTO DE LA SECRETARIA DE FINANZAS, CALCULARA Y ENTREGARA CON PERIODICIDAD MENSUAL Y DEFINITIVO LAS PARTICIPACIONES FEDERALES QUE LES CORRESPONDAN A LOS MUNICIPIOS, INCLUYENDO EN DICHO CALCULO AQUELLAS QUE SE DERIVEN DE LOS AJUSTES QUE REFIERE EL TERCER PARRAFO DEL ARTICULO 7 DE LA LEY DE COORDINACION FISCAL, 5 DIAS POSTERIORES DE QUE ESTAS FUERAN RECIBIDAS POR EL ESTADO DE ACUERDO A LOS FONDOS QUE ESTABLECE ESTA LEY.
 
 > <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2009)</small>
 
@@ -277,37 +277,37 @@ LA COMPENSACION ENTRE EL DERECHO DEL MUNICIPIO A RECIBIR PARTICIPACIONES Y LAS O
 
 #### SECCION TERCERA. CONSTITUCION DE LOS FONDOS MUNICIPAL DE PARTICIPACIONES Y DE COMPENSACION Y DE COMBUSTIBLES
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 7.
 
 SE ESTABLECE EL FONDO MUNICIPAL DE PARTICIPACIONES, EL CUAL SE CONSTITUYE CON:
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2017)</small>
+I.- EL 22 % DEL MONTO PERCIBIDO POR EL ESTADO PROVENIENTE DEL FONDO GENERAL DE PARTICIPACIONES;
 
-I. EL 22% DEL MONTO PERCIBIDO POR EL ESTADO PROVENIENTE DEL FONDO GENERAL DE PARTICIPACIONES;
-
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2017)</small>
-
-II. EL 100% DEL FONDO DE FOMENTO MUNICIPAL A QUE SE REFIERE LA LEY DE COORDINACION FISCAL, EN TERMINOS DE LO SIGUIENTE:
+II.- EL 100% DEL FONDO DE FOMENTO MUNICIPAL A QUE SE REFIERE LA LEY DE COORDINACION FISCAL, EN TERMINOS DE LO SIGUIENTE:
 
 A) EL 100% DE LA PARTICIPACION DEL FONDO DE FOMENTO MUNICIPAL QUE RECIBIO EL ESTADO EN EL EJERCICIO FISCAL 2013.
 
-B) LA CANTIDAD QUE RESULTE DE APLICAR EL COEFICIENTE DE DISTRIBUCION DEL 70% DEL EXCEDENTE DEL FONDO DE FOMENTO MUNICIPAL CON RESPECTO A 2013 DEL ESTADO EN EL AÑO EN QUE SE EFECTUE EL CALCULO, EN TERMINOS DE LA FORMULA ESTABLECIDA EN EL ARTICULO 2-A, FRACCION III, DE LA LEY DE COORDINACION FISCAL.
+B) LA CANTIDAD QUE RESULTE DE APLICAR EL COEFICIENTE DE DISTRIBUCION DEL 70% DEL EXCEDENTE DEL FONDO DE FOMENTO MUNICIPAL CON RESPECTO A 2013 DEL ESTADO, EN EL AÑO EN QUE SE EFECTUE EL CALCULO, EN TERMINOS DE LA FORMULA ESTABLECIDA EN EL ARTICULO 2-A, FRACCION III, DE LA LEY DE COORDINACION FISCAL.
 
 C) LA CANTIDAD QUE RESULTE DE APLICAR EL COEFICIENTE DE DISTRIBUCION DEL 30% DEL EXCEDENTE DEL FONDO DE FOMENTO MUNICIPAL CON RESPECTO A 2013 DEL ESTADO EN EL AÑO EN QUE SE EFECTUE EL CALCULO, EN TERMINOS DE LA FORMULA ESTABLECIDA EN EL ARTICULO 2-A, FRACCION III, DE LA LEY DE COORDINACION FISCAL. ESTA PARTICIPACION CORRESPONDERA A LOS MUNICIPIOS QUE SE ENCUENTREN EN LOS SUPUESTOS ESTABLECIDOS EN EL ARTICULO 16 QUATER DE LA PRESENTE LEY.
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2017)</small>
+III.- EL 22% DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS DE BEBIDAS ALCOHOLICAS, CERVEZAS Y TABACOS;
 
-III. EL 22% DE LA PARTICIPACION FEDERAL PERCIBIDA POR EL ESTADO EN LA RECAUDACION DEL IMPUESTO SOBRE TENENCIA, IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS E IMPUESTO SOBRE AUTOMOVILES NUEVOS, ASI COMO EL 22% DE LA RECAUDACION DEL IMPUESTO VEHICULAR ESTATAL DE EJERCICIOS FISCALES ANTERIORES;
+IV.- EL 20% DEL FONDO DE FISCALIZACION Y RECAUDACION;
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+V.- EL 20% DEL FONDO DE EXTRACCION DE HIDROCARBUROS;
 
-IV. LOS QUE SE DERIVEN DEL CONVENIO DE COLABORACION ADMINISTRATIVA EN MATERIA FISCAL FEDERAL CELEBRADO ENTRE LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO Y EL GOBIERNO DEL ESTADO DE TABASCO; Y
+VI.- EL 22 % DE LA PARTICIPACION FEDERAL DEL IMPUESTO SOBRE AUTOMOVILES NUEVOS;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2017)</small>
+VII.- EL 22% DE LA RECAUDACION DEL IMPUESTO VEHICULAR ESTATAL DE EJERCICIOS FISCALES ANTERIORES;
 
-V. LOS DEMAS RUBROS QUE SEÑALE LA LEY DE COORDINACION FISCAL.
+VIII.- EL 20% DEL INCENTIVO DE IMPUESTO SOBRE LA RENTA POR LA ENAJENACION DE BIENES INMUEBLES DERIVADO DEL ART. 126 LEY DEL IMPUESTO SOBRE LA RENTA;
+
+IX.- LOS QUE SE DERIVEN DEL CONVENIO DE COLABORACION ADMINISTRATIVA EN MATERIA FISCAL FEDERAL CELEBRADO ENTRE LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO Y EL GOBIERNO DEL ESTADO DE TABASCO; Y
+
+X.- LOS DEMAS RUBROS QUE SEÑALE LA LEY DE COORDINACION FISCAL.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2009)</small>
 
@@ -323,13 +323,11 @@ A) EL 25% DE LOS RECURSOS QUE RECIBA EL ESTADO POR CONCEPTO DE LA RECAUDACION DE
 
 B) EL 25% DEL MONTO QUE RECIBA EL ESTADO PROVENIENTE DEL FONDO DE COMPENSACION.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 9.
 
-EL PORCENTAJE SEÑALADO DEL FONDO DE COMPENSACION Y DE COMBUSTIBLES DEBERA APLICARSE EN UN 70% EN RELACION DIRECTA AL NUMERO DE HABITANTES POR MUNICIPIO, DE ACUERDO CON LA INFORMACION ESTADISTICA MAS RECIENTE QUE AL EFECTO EMITA EL INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA.
-
-EL 30% RESTANTE PASARA A FORMAR PARTE DEL FONDO MUNICIPAL DE PARTICIPACIONES.
+EL 100% DEL FONDO DE COMPENSACION Y DE COMBUSTIBLES DEBERA APLICARSE EN RELACION DIRECTA AL NUMERO DE HABITANTES POR MUNICIPIO, DE ACUERDO CON LA INFORMACION ESTADISTICA MAS RECIENTE QUE AL EFECTO EMITA EL INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA.
 
 > <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2009)</small>
 
@@ -457,7 +455,9 @@ ARTICULO 16 QUATER.- SE ESTABLECE EL FONDO POR COORDINACION EN PREDIAL, EL CUAL 
 
 I. TENGAN CELEBRADO CON LA SECRETARIA DE FINANZAS, CONVENIO DE COORDINACION PARA LA ADMINISTRACION DEL IMPUESTO PREDIAL Y QUE ESTE SE ENCUENTRE PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO.
 
-II. QUE SU RECAUDACION ANUAL DEL IMPUESTO PREDIAL Y POBLACION SEA CONSIDERADA POR LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO PARA LA DISTRIBUCION ENTRE LAS ENTIDADES FEDERATIVAS DEL 30% DEL EXCEDENTE DEL FONDO DE FOMENTO MUNICIPAL CON RESPECTO A 2013, EN TERMINOS DE LO ESTABLECIDO EN EL ARTICULO 2-A, FRACCION III, DE LA LEY DE COORDINACION FISCAL.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+II. QUE SU RECAUDACION ANUAL DEL IMPUESTO PREDIAL Y POBLACION SEA CONSIDERADA POR LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO PARA LA DISTRIBUCION ENTRE LAS ENTIDADES FEDERATIVAS DEL 30% DEL EXCEDENTE DEL FONDO DE FOMENTO MUNICIPAL CON RESPECTO A 2013, EN TERMINOS DE 10 ESTABLECIDO EN EL ARTICULO 2-A, FRACCION III, DE LA LEY DE COORDINACION FISCAL. LA INFORMACION UTILIZADA PARA LOS COEFICIENTES DE PARTICIPACION, SERA LA RECAUDACION ANUAL DE IMPUESTO PREDIAL POR MUNICIPIO, QUE VALIDE LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO, EN LOS FORMATOS QUE AL EFECTO EMITA. DICHOS COEFICIENTES SE AJUSTARAN EN EL MES DE JUNIO DEL AÑO QUE CORRESPONDA, UNA VEZ QUE LA SHCP INFORME A LA SECRETARIA DE LA VALIDACION DE LAS CIFRAS MUNICIPALES ANUALES.
 
 LA FORMULA PARA LA DISTRIBUCION DEL FONDO POR COORDINACION EN PREDIAL, SERA LA SIGUIENTE:
 
@@ -465,7 +465,9 @@ LA FORMULA PARA LA DISTRIBUCION DEL FONDO POR COORDINACION EN PREDIAL, SERA LA S
 
 > <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA EN EL P.O. DE 21 DE DICIEMBRE DE 2019, PÁGINAS DE LA 114 A LA 115.]</small>
 
-EL PODER EJECUTIVO REALIZARA PAGOS PROVISIONALES Y LOS AJUSTES CORRESPONDIENTES A LOS MUNICIPIOS QUE TENGAN DERECHO A PARTICIPAR DEL FONDO POR COORDINACION EN PREDIAL DURANTE EL AÑO T, CONFORME LOS PAGOS PROVISIONALES Y AJUSTES QUE A SU VEZ REALICE AL ESTADO LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO EN LA DISTRIBUCION DEL 30% DEL EXCEDENTE DEL FONDO DE FOMENTO MUNICIPAL CON RESPECTO A 2013 MEDIANTE LA FORMULA A LA QUE SE REFIERE EL ARTICULO 2-A, FRACCION III, DE LA LEY DE COORDINACION FISCAL, CONSIDERANDO LA INFORMACION QUE HAYA SIDO EMPLEADA POR DICHA DEPENDENCIA FEDERAL EN EL CALCULO DEL COEFICIENTE CPI,T.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+EL PODER EJECUTIVO REALIZARA PAGOS DEFINITIVOS A LOS MUNICIPIOS QUE TENGAN DERECHO A PARTICIPAR DEL FONDO POR COORDINACION EN PREDIAL DURANTE EL AÑO T, CONFORME CON LAS TRANSFERENCIAS MENSUALES QUE REALICE LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO EN LA DISTRIBUCION DEL 30% DEL EXCEDENTE DEL FONDO DE FOMENTO MUNICIPAL CON RESPECTO A 2013 MEDIANTE LA FORMULA A LA QUE SE REFIERE EL ARTICULO 2-A, FRACCION III, DE LA LEY DE COORDINACION FISCAL, CONSIDERANDO LA INFORMACION QUE HAYA SIDO EMPLEADA POR DICHA DEPENDENCIA FEDERAL EN EL CALCULO DEL COEFICIENTE CPI,T.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2009)</small>
 
@@ -1482,3 +1484,139 @@ Las sanciones previstas en los artículos 76 Bis y 76 Ter del Código Fiscal del
 Las demás reformas y adiciones al Código Fiscal del Estado de Tabasco serán aplicables a las personas físicas a partir del día uno de julio del año dos mil veintidós y a las personas jurídicas colectivas a partir del día uno de enero del año dos mil veintitrés.
 
 DÉCIMO SEGUNDO. La Secretaría de Finanzas emitirá en un plazo no mayor de 180 días naturales a partir de la entrada en vigor del presente Decreto, las Reglas de Carácter General a que refiere el artículo 30 Septies del Código Fiscal del Estado de Tabasco, las cuales deberán ser publicadas en el Periódico Oficial del Estado y en su página de internet.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 181 POR EL QUE "SE REFORMAN: LOS ARTÍCULOS 4, 7, 9 Y 16 QUÁTER FRACCIÓN II Y PÁRRAFO SEXTO; TODOS DE LA LEY DE COORDINACIÓN FISCAL Y FINANCIERA DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día uno del mes de enero del año dos mil veinticuatro, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
+
+SEGUNDO. Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO. Cuando se disponga por mandato legal de la autoridad competente, tratándose de la transferencia de servicios públicos que preste el Gobierno del Estado y se trasladen a la autoridad municipal o, en su caso, de la municipalización de servicios públicos que el Gobierno del Estado tenga que entregar al Gobierno Municipal que corresponda y por cuyos servicios se establezca en la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2024 el concepto tributario, habrá de considerarse para los fines legales pertinentes, que una vez cumplidas las formalidades del caso, tales contribuciones se entenderán de competencia hacendaria de la autoridad municipal y sin necesidad de un nuevo Decreto habrán de tenerse insertas en el texto de la Ley de ingresos del Municipio que corresponda o cualquier ordenamiento legal en que así proceda.
+
+Para el caso de aquellas contribuciones de carácter municipal, que mediante convenios sean transferidas al Gobierno del Estado, de conformidad con la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco, se entenderán de la competencia hacendaría estatal y sin necesidad de un nuevo Decreto habrán de tenerse insertadas en el texto de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2024 o cualquier otro ordenamiento legal en que así proceda.
+
+CUARTO. La Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2024 no contempla los recursos refrendados del ejercicio fiscal 2023, mismos que se reflejarán en el Presupuesto General de Egresos del Estado de Tabasco para el Ejercicio Fiscal 2024.
+
+QUINTO. La Secretaría de Finanzas expedirá dentro de los 15 días hábiles siguientes a la entrada en vigor del presente Decreto, las Reglas de Operación para la emisión, descarga y uso de la tarjeta de circulación digital y comprobante de vigencia.
+
+SEXTO. Para efecto de dar a conocer la validez de la vigencia de la tarjeta digital y el comprobante señalados en el transitorio anterior, se dará aviso a las Entidades Federativas y al Gobierno Federal, de la entrada en vigor del presente Decreto.
+
+SÉPTIMO. Por el periodo comprendido del 1 de enero al 30 de abril de 2024, se otorga un estímulo fiscal para las personas físicas y jurídicas colectivas, consistente en un 20%, 15%, 10% y 5% de descuento por concepto del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, establecidos en los artículos 85 fracción IV y 86 fracción IV de la Ley de Hacienda del Estado de Tabasco, causado en el ejercicio fiscal 2024; los contribuyentes que se adhieran al presente estímulo no deberán tener adeudos en sus obligaciones vehiculares anteriores al ejercicio fiscal 2024, y deberán realizar el pago del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, dentro del periodo en comento, conforme a la siguiente tabla:
+
+Concepto Estímulo Ejercicio Periodo de pago
+
+fiscal
+
+20% 01 al 31 de enero de 2024
+
+Refrendo anual
+
+de placa, tarjeta 15% 01 al 28 de febrero de 2024.
+
+de circulación y 2024
+
+calcomanía. 10% 01 al 31 de marzo de 2024.
+
+5% 01 al 30 de abril de 2024.
+
+OCTAVO. Por el periodo comprendido del 1 de enero al 30 de abril de 2024, se otorgan estímulos fiscales consistentes en descuentos en el pago por conceptos de multas, recargos, actualización, honorarios de notificación y gastos de ejecución, causados por la omisión del pago por los conceptos de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, así como por el concepto de canje de placas y emisión de documentos que amparan a la unidad para que circule legalmente en la vía pública, establecidos en los artículos 85 fracciones IV y V, 86 fracciones IV y V de la Ley de Hacienda del Estado de Tabasco, causados en los ejercicios anteriores al 2024; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago del derecho de refrendo anual de placas, tarjeta de circulación, dentro del periodo en comento, conforme a la siguiente tabla:
+
+Conceptos Estímulo Periodo de pago
+
+Actualización 50%
+
+Recargos 50% 01 de enero al 30
+
+de abril de 2024.
+
+Multas 50%
+
+Honorarios de notificación 30%
+
+y Gastos de Ejecución
+
+NOVENO. Por el periodo comprendido del 01 de enero al 30 de abril de 2024, se otorgará un descuento del 100% en los pagos por conceptos de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y de canje de placas y emisión de documentos que amparen a la unidad, establecidos en el artículo 85 fracciones IV y V de la Ley de Hacienda del Estado de Tabasco; del 100% en multas, recargos y actualizaciones; así como del 30% en honorarios de notificación y gastos de ejecución causados por la omisión del pago de dichos derechos, en el ejercicio 2024 y anteriores; a las personas físicas y jurídico colectivas propietarias de vehículos de modelos 2000 y anteriores, que se encuentren en total deterioro o que no cumplan con las condiciones físicas y técnicas que garanticen su seguridad para circular en la vía pública, y que además no hayan realizado ningún movimiento en el Registro Estatal de Vehículos en los últimos 10 años; conforme a la siguiente tabla:
+
+Concepto Estímulo Ejercicio Periodo
+
+Fiscal de pago
+
+Refrendo anual de placa de
+
+circulación, tarjeta de
+
+circulación y calcomanía, por 2024 y 01 de enero
+
+el concepto de canje de placas 100% anteriores al 30 de abril
+
+y emisión de documentos que de 2024.
+
+amparen a la unidad, así como
+
+en multas, recargos y
+
+actualizaciones.
+
+Honorarios de notificación y 2024 y 01 de enero
+
+gastos de ejecución. 30% anteriores al 30 de abril
+
+de 2024.
+
+Se realizará el cobro del derecho por concepto de Baja por Deterioro Natural, establecido en el artículo 85, fracción VI, inciso m) de la Ley de Hacienda del Estado de Tabasco.
+
+En caso (sic) que los contribuyentes cuenten con infracciones vehiculares, se les realizará el cobro del adeudo que se releje en el Registro Estatal de Vehículos.
+
+No podrán acceder a este estímulo los vehículos que se encuentren bloqueados o con algún reporte por parte de autoridad competente.
+
+DÉCIMO. Por el periodo comprendido del 1 de enero al 30 de abril de 2024, se otorgará un beneficio del 70% de descuento en los pagos por conceptos de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y de canje de placas y emisión de documentos que amparen a la unidad, establecidos en el artículo 85 fracciones IV incisos b) y c), y V incisos b) y c), de la Ley de Hacienda del Estado de Tabasco; del 70% de descuento en multas, recargos y actualizaciones; del 70% de descuento sobre la actualización, multas y recargos; así como de un 30% de descuento en honorarios de notificación y gastos de ejecución causados por la omisión del pago de dichos derechos, todos respecto a los años anteriores al Ejercicio Fiscal 2024.
+
+DÉCIMO PRIMERO. Por el periodo comprendido del 1 de enero al 30 de abril de 2024, se otorgará un beneficio del 100% de descuento para los adeudos por concepto de Impuesto de Traslado de Dominio de Bienes Muebles Usados, establecido en el artículo 12 de la Ley de Hacienda del Estado de Tabasco vigente, para el trámite de cambio de propietario de motocicletas, motocarro de 3 y 4 llantas, motonetas y vehículos recreativos todo terreno; de igual forma un 70% de descuento sobre la actualización, multas y recargos, así como un 30% de descuento en honorarios de notificación y gastos de ejecución que deriven de la omisión en el pago por concepto del derecho establecido en el artículo 85 fracción I incisos b) y c) de la Ley de Hacienda del Estado de Tabasco, todo respecto a los años anteriores al Ejercicio Fiscal 2024.
+
+DÉCIMO SEGUNDO. El Ejecutivo Estatal a través de la Secretaría de Finanzas implementará un programa de regularización y depuración del Registro Estatal de Vehículos, que estará vigente durante el 2024, con el que se permitirá realizar la suspensión administrativa de obligaciones vehiculares en dicho registro a los contribuyentes que se encuentren sujetos a las contribuciones vehiculares correspondientes, a pesar de que con anterioridad a la entrada en vigor del presente Decreto hayan vendido o cedido la propiedad de vehículos nacionales usados cuyo año modelos sea 2016 y anteriores.
+
+La suspensión administrativa de obligaciones vehiculares será autorizada por la Secretaría de Finanzas, quien deberá expedir a más tardar a los 15 días hábiles siguientes a la entrada en vigor del presente Decreto las reglas de operación para la correcta aplicación del programa.
+
+DÉCIMO TERCERO. Por el periodo comprendido del 01 de enero al 30 de abril de 2024, se otorgará un descuento del 70% en los pagos por concepto de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y de canje de placas y emisión de documentos que amparen a la unidad establecidos en el artículo 85 fracciones IV y V de la Ley de Hacienda del Estado de Tabasco, causados en el ejercicio 2023 y anteriores; así como del 70% en multas, recargos y actualizaciones y del 30% en honorarios de notificación y gastos de ejecución causados por la omisión del pago de dichos derechos; a las personas físicas y jurídico colectivas que teniendo la obligación de realizar el trámite de baja del Registro Estatal de Vehículos, respecto de los vehículos usados modelos 2016 y anteriores, hayan omitido realizarlo dentro del plazo establecido en el artículo 82, fracción II de la Ley de Hacienda del Estado de Tabasco; conforme a la siguiente tabla:
+
+Concepto Estímulo Ejercicio Periodo de
+
+Fiscal Pago
+
+Refrendo anual de placa de
+
+circulación, tarjeta de circulación 2024 y 01 de enero
+
+y calcomanía, canje de placas 70% anteriores al 30 de abril
+
+y emisión de documentos que de 2024.
+
+amparen a la unidad, así como
+
+en multas, recargos y
+
+actualizaciones.
+
+Honorarios de Notificación 2024 y 01 de enero al
+
+y Gastos de Ejecución. 30% anteriores 30 de abril de
+
+2024.
+
+Se pagará el 100% del costo de la baja por Suspensión de Obligaciones Vehiculares en el Registro Estatal de Vehículos, establecido en el artículo 85 fracción VI, inciso I), de la Ley de Hacienda del Estado de Tabasco.
+
+En caso (sic) que los contribuyentes cuenten con infracciones de tránsito, deberán realizar el pago correspondiente para ser beneficiario de este estimulo.
+
+DÉCIMO CUARTO. Los estímulos a que se refieren los artículos anteriores, también procederán aún y cuando existan créditos fiscales que hayan sido objeto de impugnación ante las autoridades administrativas o jurisdiccionales, siempre que a la fecha de la adhesión, el procedimiento de impugnación respectivo haya quedado concluido mediante resolución firme, o bien, de no haber concluido, el contribuyente presente la solicitud de desistimiento a dicho medio de defensa debidamente ratificado ante la autoridad competente.
+
+No se podrán aplicar los estímulos establecidos en los artículos transitorios, a los créditos fiscales pagados y en ningún caso dará lugar a devolución, compensación, acreditamiento o saldo a favor alguno.
+
+La adhesión a los estímulos previstos en los artículos anteriores no constituirá instancia y la resolución que dicte la autoridad fiscal al respecto, no podrá ser impugnada por ningún medio de defensa.
+
+DÉCIMO QUINTO. La Secretaría de Finanzas expedirá dentro de los 15 días hábiles siguientes a la entrada en vigor del presente Decreto, las reglas de operación que considere necesarias para la correcta aplicación de los estímulos fiscales que se otorgan en los artículos transitorios que anteceden.
+
+DÉCIMO SEXTO. Con fundamento en el artículo 116 del Código Fiscal del Estado de Tabasco, se declara la prescripción de los créditos y obligaciones fiscales derivados de las contribuciones por concepto de Impuesto Vehicular Estatal, refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, así como sus accesorios, anteriores al ejercicio fiscal 2019, que se encuentren en el sistema del Registro Estatal de Vehículos de la Secretaría de Finanzas; siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
+
+Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
