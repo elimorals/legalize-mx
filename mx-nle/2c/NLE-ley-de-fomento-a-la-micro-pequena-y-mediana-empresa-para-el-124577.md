@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-micro-pequena-y-mediana-empresa-para-el-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2023-11-08"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
@@ -599,7 +599,9 @@ Artículo 27 BIS 6. La Secretaría, con la aprobación del Consejo, generará un
 
 Artículo 27 BIS 7. La Secretaría podrá fomentar esquemas de crédito directo a empresas o indirecto mediante intermediarios financieros.
 
-También podrá establecer alianzas con empresas e inversionistas del estado para promover esquemas de financiamiento no bancario exclusivo para MIPYMES y emprendedores.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+También podrá establecer alianzas con empresas e inversionistas del Estado para promover esquemas de financiamiento no bancario exclusivo para MIPYMES y emprendedores, las cuales deberán estar sujetas a las mejores condiciones que brinde el mercado financiero, como plazos adecuados y pago de créditos con intereses bajos o de ser posible sin intereses.
 
 > <small>(ADICIONADO, P.O. 17 DE ENERO DE 2020)</small>
 
@@ -750,3 +752,11 @@ P.O. 8 DE NOVIEMBRE DE 2023.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- La persona Titular del Poder Ejecutivo y del Consejo Estatal de Fomento a la Micro, Pequeña y Mediana Empresa contará con un plazo de 90 días hábiles, a partir de la entrada en vigor del presente Decreto, para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se le otorgan por medio del mismo.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 471. SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 27 BIS 7 DE LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- La persona Titular del Poder Ejecutivo y del Consejo Estatal de Fomento a la Micro, Pequeña y Mediana Empresa contará con un plazo de 90 días hábiles, a partir de la entrada en vigor del presente Decreto, para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se otorgan por medio del mismo.
