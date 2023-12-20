@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-cultura-civica-del-estado-de-morelos-80505"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-30"
-last_updated: "2019-11-27"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY DE CULTURA CÍVICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 27 DE NOVIEMBRE DE 2019 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO DOSCIENTOS CUARENTA Y DOS PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Reglamento publicado en la segunda sección del Periódico Oficial del estado de Morelos, el miércoles 30 de marzo de 2011.
 
@@ -365,15 +363,41 @@ III. Golpear a una persona, en forma intencional y fuera de riña, sin causarle 
 
 IV. Lesionar a una persona siempre y cuando las lesiones que se causen de acuerdo al dictamen médico tarden en sanar menos de quince días.
 
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+V. Discriminar, condicionar, insultar o intimidar a la mujer, que alimente en cualquier espacio público, privado o medio de transporte, a un o una bebé en su período de lactancia;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+VI. Proferir silbidos, gestos, señas o expresiones verbales de connotación sexual a una persona, provocándole una situación intimidatoria, hostil o humillante;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+VII. Realizar acercamientos o persecuciones, o actos de exhibicionismo obsceno o de contenido sexual explícito o masturbación en lugares públicos o de libre acceso público;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+VIII. A quien sin consentimiento y con propósito lascivo o de connotación sexual, grabé y/o fotografié a cualquier persona a través de medios informáticos, audiovisuales, virtuales o por otro medio, en lugares públicos o de libre acceso público;
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+En la comisión de las infracciones en las fracciones V, VI, VII y VIII sólo procederá la presentación de la persona infractora cuando exista queja de la persona agredida o molestada.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+El destino de las multas que se apliquen derivado de las conductas citadas en las fracciones V, VI, VII y VIII será utilizado para campañas de sensibilización, prevención y eliminación del acoso callejero desde las instancias de la mujer o su equivalente, de conformidad con lo establecido en los artículos 18, 33 y 60 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos.
+
 En caso de que las lesiones tarden en sanar más de quince días, el juez dejará a salvo los derechos del afectado para que éste los ejercite por la vía que estime procedente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 17.
 
-Las infracciones contra la dignidad de la persona establecidas en el artículo anterior se sancionarán de la siguiente manera: fracción I, multa por el equivalente de 1 a 10 veces el valor diario de la Unidad de Medida y Actualización o con arresto de 6 a 12 horas; fracciones II y III, multa por el equivalente de 11 a 20veces (sic) el valor diario de la Unidad de Medida y Actualización o con arresto de 13 a 24 horas.
+Las infracciones contra la dignidad de la persona establecidas en el artículo anterior se sancionarán de la siguiente manera: fracción I, multa por el equivalente de 1 a 10 veces el valor diario de la Unidad de Medida y Actualización o con arresto de 6 a 12 horas; fracciones II, III y V, multa por el equivalente de 11 a 20 veces el valor diario de la Unidad de Medida y Actualización o con arresto de 13 a 24 horas, fracciones VI, VII y VIII se sancionarán con multa por el equivalente de 21 a 30 veces el valor diario de la Unidad de Medida y Actualización o arresto de 25 a 36 horas.
 
-La infracción establecida en la fracción IV, se sancionará con arresto de 25 a 36 horas. Sólo procederá la conciliación cuando el probable infractor repare el daño. Las partes de común acuerdo con la intervención del juez en su carácter de conciliador, fijarán el monto del daño.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+La infracción establecida en la fracción IV, se sancionará con arresto de 25 a 36 horas. Sólo procederá la conciliación cuando la persona probable infractora repare el daño. Las partes de común acuerdo con la intervención del o la jueza en su carácter de persona conciliadora, fijará el monto del daño.
 
 ###### Artículo 18.
 
@@ -1090,3 +1114,15 @@ DÉCIMA. En un plazo no mayor de 90 días hábiles, contados a partir de la vige
 DÉCIMA PRIMERA. En un plazo no mayor de 90 días hábiles, la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos deberá realizar las adecuaciones normativas al Estatuto Orgánico, mismas que deberán inscribirse en el Registro Público de Organismos Descentralizados.
 
 DÉCIMA SEGUNDA. El Sistema para el Desarrollo Integral de la Familia del estado de Morelos, la Fiscalía General del Estado de Morelos y demás Secretarías, Dependencias y Entidades, procederán a realizar los actos administrativos idóneos y necesarios, así como la entrega recepción correspondiente, a partir del siguiente día al que entre en vigor el presente Decreto, en caso de que se hubiere realizado la entrega - recepción que se establece en las disposiciones transitorias DÉCIMA PRIMERA, DÉCIMA SEGUNDA, DÉCIMA TERCERA, DÉCIMA CUARTA y DÉCIMA QUINTA del Decreto número Tres Mil Doscientos Cuarenta y Ocho, publicado en el Periódico Oficial "Tierra y Libertad" 5611.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS OCHENTA Y UNO.- POR EL CUAL SE ADICIONAN LAS FRACCIONES V, VI, VII Y VIII Y LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 16, SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO AL ARTÍCULO 17 DE LA LEY DE CULTURA CÍVICA DEL ESTADO DE MORELOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al titular del Poder Ejecutivo para su promulgación y publicación en el periódico oficial “Tierra y Libertad” órgano oficial de difusión del Gobierno del Estado de Morelos, de conformidad con lo dispuesto por los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
