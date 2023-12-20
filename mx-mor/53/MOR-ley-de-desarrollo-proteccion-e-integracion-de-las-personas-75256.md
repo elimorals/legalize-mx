@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-proteccion-e-integracion-de-las-personas-7525
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-09"
-last_updated: "2023-06-07"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE DESARROLLO, PROTECCION E INTEGRACION DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE DESARROLLO, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de junio de 2010.
 
@@ -637,6 +639,16 @@ X. Apoyar y proteger a las personas adultas mayores en situación de vulnerabili
 
 Las instituciones públicas, privadas y sociales que otorguen atención médica a las personas adultas mayores, deberán contar con personal que posea vocación, capacidad y conocimientos en el cuidado de las personas adultas mayores.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 30 Bis.
+
+El servicio de asistencia de vía remota constituye una herramienta que deberá brindar acompañamiento a las personas adultas mayores al cuidado de su salud, situaciones de emergencia o desastres, inseguridad o aislamiento, el cual deberá ser garantizado por las autoridades estatales de salud, así como por aquellas que determine la persona titular del gobierno del estado de Morelos.
+
+La Secretaría de Salud a través de los Servicios de Salud de Morelos serán las garantes de brindar el servicio de asistencia vía remota como se establece en el párrafo anterior, las cuales podrán celebrar los convenios necesarios con el propósito de llevar a cabo programas que permitan diseñar y otorgar brazaletes u otros accesorios de localización para las personas adultas mayores con diagnóstico médico Alzheimer u otro padecimiento que no les permita orientarse.
+
+La exclusividad del acceso a los brazaletes y otros accesorios de localización será de los Servicios de Salud de Morelos.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2015)</small>
 
 ###### Artículo 31.
@@ -1142,3 +1154,15 @@ PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo Estatal pa
 SEGUNDA. (sic) Presente decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO MIL CIENTO CUARENTA Y SEIS POR EL QUE SE ADICIONA EL ARTÍCULO 30 BIS DE LA LEY DE DESARROLLO, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]</small>
+
+PRIMERO.- Remítase el presente Decreto al Ejecutivo del Estado para que realice la publicación correspondiente en el Periódico Oficial “Tierra y Libertad”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al año fiscal próximo de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado.
+
+TERCERO.- El Congreso del Estado de Morelos, deberá considerar una partida presupuestal para este programa estatal en el presupuesto de egresos del ejercicio 2024.
+
+CUARTO.- El Poder Ejecutivo, a través de los Servicios de Salud de Morelos tendrán un periodo de 90 días hábiles para implementar el programa correspondiente; y, un plazo de 120 días hábiles, para iniciar la entrega de los brazaletes de localización de emergencia para personas adultas mayores, con diagnóstico médico de Alzheimer u otro padecimiento que les impida poder orientarse.
