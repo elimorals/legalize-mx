@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-donacion-altruista-de-alimentos-en-el-estado-de-624
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-30"
-last_updated: "2017-02-22"
+last_updated: "2023-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY PARA LA DONACION ALTRUISTA DE ALIMENTOS EN EL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY PARA LA DONACIÓN, RESCATE Y APROVECHAMIENTO INTEGRAL DE LOS PRODUCTOS ALIMENTICIOS PARA EL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. 20 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA DONACIÓN ALTRUISTA DE ALIMENTOS EN EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 30 de julio de 2008.
 
@@ -240,3 +242,19 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVII/EXLEY/0633/2023 I P.O., MEDIANTE EL CUAL SE EXPIDE LA LEY PARA LA DONACIÓN, RESCATE Y APROVECHAMIENTO INTEGRAL DE LOS PRODUCTOS ALIMENTICIOS PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley para la Donación Altruista de Alimentos en el Estado de Chihuahua, publicada en el Periódico Oficial del Estado Número 61, de techa treinta de julio de dos mil ocho.
+
+###### ARTÍCULO TERCERO.
+
+El Reglamento de esta Ley, deberá ser expedido por quien ocupe la titularidad del Poder Ejecutivo del Estado, dentro de los 180 días naturales siguientes a la entrada en vigor de la misma.
