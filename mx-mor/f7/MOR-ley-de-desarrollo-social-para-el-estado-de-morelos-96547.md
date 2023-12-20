@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-social-para-el-estado-de-morelos-96547"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-06"
-last_updated: "2022-08-24"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de noviembre de 2013.
 
@@ -127,9 +127,11 @@ Las personas morales, tienen derecho a participar y a beneficiarse de los Progra
 
 Esta Ley, garantiza el conjunto mínimo de elementos que establece la Seguridad Humana para integrar los derechos sociales fundamentales de las personas, en particular, de las que pertenecen a algún grupo en situación de vulnerabilidad, a vivir con dignidad, libres de temores y carencias, a disponer de iguales oportunidades para ejercer y disfrutar de todos sus derechos y a desarrollar plenamente su potencial humano.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 9.
 
-Serán derechos y obligaciones de los beneficiarios de los Programas Sociales, los siguientes:
+Serán derechos y obligaciones de las y los beneficiarios de los Programas Sociales, los siguientes:
 
 A). Derechos:
 
@@ -145,7 +147,9 @@ I. Cumplir con lo establecido en la normatividad aplicable;
 
 II. Proporcionar la información necesaria que le sea requerida por las Dependencias de la Administración Pública Estatal o Municipal, según corresponda, para ser beneficiarios de los programas de Desarrollo Social; y
 
-III. Informar a las instancias correspondientes cuando sea beneficiario de uno o más Programas de Desarrollo Social, ya sean Federales, Estatales o Municipales.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+III. Informar a las instancias correspondientes cuando sea beneficiaria o beneficiario de uno o más Programas de Desarrollo Social, ya sean Federales, Estatales o Municipales.
 
 ###### Artículo 10.
 
@@ -167,7 +171,9 @@ I.- Desarrollo Social: Proceso de mecanismos y Políticas Públicas permanente q
 
 II.- Acción de desarrollo social, a la acción gubernamental dirigida a modificar la condición de desigualdad social mediante la prestación de un servicio a un usuario;
 
-III.- Beneficiarios, a aquellas personas que forman parte de la población atendida por los Programas de Desarrollo Social;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+III.- Beneficiarios o beneficiarias, a aquellas personas que forman parte de la población atendida por los Programas de Desarrollo Social;
 
 IV.- Cadenas productivas, a las diversas fases o eslabones de un proceso, interpretándolo en forma integral, en sus vertientes tanto horizontal como verticalmente, mediante las interrelaciones entre sus fases, en la primera, y la concurrencia de diversos actores coadyuvantes para su desarrollo, en la segunda;
 
@@ -183,7 +189,9 @@ IX.- Consejos Municipales, a los Consejos Municipales para el Desarrollo Social;
 
 X.- Contraloría Social, al mecanismo de los beneficiarios de los Programas, de manera organizada, para verificar el cumplimiento de las metas y la correcta aplicación de los recursos públicos asignados a los Programas de Desarrollo Social;
 
-XI.- Grupos o sectores en situación de vulnerabilidad, a los grupos de población que muestran mayor pobreza, marginación y exclusión, de acuerdo a los indicadores de desarrollo humano y social. Incluyen de manera enunciativa, más no limitativa, a la población indígena, mujeres, niños, adolescentes, adultos mayores, familias de los migrantes, personas con discapacidad, desempleados, población residente en una zona que sufre una contingencia ambiental o económica, o bien en una zona de atención prioritaria;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+XI.- Grupos o sectores en situación de vulnerabilidad, a los grupos de población que muestran mayor pobreza, marginación y exclusión, de acuerdo a los indicadores de desarrollo humano y social. Incluyen de manera enunciativa, más no limitativa, a la población indígena, mujeres, niñas y niños, adolescentes, personas adultas mayores, familias de los y las migrantes, personas con discapacidad, personas desempleadas, población residente en una zona que sufre una contingencia ambiental o económica, o bien en una zona de atención prioritaria;
 
 XII.- Ley, a la Ley de Desarrollo Social para el Estado de Morelos;
 
@@ -391,7 +399,9 @@ III. Convenir acciones con otros Municipios de la Entidad, en materia de Desarro
 
 IV. Prever en su Presupuesto anualmente la materia de Desarrollo Social;
 
-V. Integrar los padrones de beneficiarios de sus programas de Desarrollo Social;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+V. Integrar los padrones de beneficiarios y beneficiarias de sus programas de Desarrollo Social;
 
 VI. Difundir las Políticas, Programas y Acciones de Desarrollo Social que ejecuten;
 
@@ -469,23 +479,37 @@ IV. La Comisión Estatal de Evaluación del Desarrollo Social.
 
 Se establece la Coordinadora Estatal para el Desarrollo Social, como órgano responsable de la interacción de los componentes del Sistema Estatal de Planeación del Desarrollo Social, en la que recae la atribución de garantizar de manera general los derechos contenidos en esta Ley y a la que corresponden las obligaciones que en la misma se establecen.
 
-Los integrantes de la Coordinadora Estatal son:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-I. El Gobernador Constitucional del Estado o el representante que designe, quien lo presidirá;
+Los y las integrantes de la Coordinadora Estatal son:
 
-II. Los Titulares de las Secretarías de Gobierno, de Desarrollo Social, de Economía y de Hacienda;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-III. Tres Presidentes Municipales de la Entidad, designados por el órgano de gobierno del Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos, en función de la regionalización del Estado que se determine;
+I. El Gobernador o Gobernadora Constitucional del Estado o la persona que designe como su representante, quien lo presidirá;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-IV. Los diputados presidentes de las Comisiones de Planeación para Desarrollo Social, Metropolitano, Zonas Conurbadas y Asentamientos Humanos; Hacienda, Presupuesto y Cuenta Pública; y Participación Ciudadana y Reforma Política del Congreso del Estado;
+II. Los y las Titulares de las Secretarías de Gobierno, de Desarrollo Social, de Economía y de Hacienda;
 
-V. El Titular de la Comisión Estatal de Evaluación del Desarrollo Social; y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-VI. El Secretario Ejecutivo del Consejo Ciudadano para el Desarrollo Social del Estado de Morelos.
+III. Tres Presidentes o Presidentas Municipales de la Entidad, designados o designadas por el órgano de gobierno del Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos, en función de la regionalización del Estado que se determine;
 
-Podrán asistir a las reuniones de la Coordinadora Estatal, los invitados que de manera temporal o permanente se estimen convenientes en razón de los asuntos a tratar.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+IV. Los Diputados y las Diputadas que presidan las Comisiones de Desarrollo Social y Hacienda, Presupuesto y Cuenta Pública, y de Participación Ciudadana del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+V. El o la Titular de la Comisión Estatal de Evaluación del Desarrollo Social; y
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+VI. La Secretaria o el Secretario Ejecutivo del Consejo Ciudadano para el Desarrollo Social del Estado de Morelos.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+Podrán asistir a las reuniones de la Coordinadora Estatal, las y los invitados que de manera temporal o permanente se estimen convenientes en razón de los asuntos a tratar.
 
 ###### Artículo 41.
 
@@ -525,9 +549,11 @@ El Consejo Ciudadano para el Desarrollo Social del Estado de Morelos, participa 
 
 El Poder Ejecutivo del Estado, mediante Decreto administrativo, dispondrá la creación de un órgano administrativo, desconcentrado de la Secretaría de Desarrollo Social, denominado Comisión Estatal de Evaluación del Desarrollo Social.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 48.
 
-La Comisión Estatal contará con un Titular, cuya denominación se determinará en el Decreto respectivo, el que será designado y removido por el Gobernador Constitucional del Estado, a propuesta de los integrantes del Comité Técnico del propio órgano administrativo.
+La Comisión Estatal contará con una persona Titular, cuya denominación se determinará en el Decreto respectivo, la que será designada y removida por el Gobernador o Gobernadora Constitucional del Estado, a propuesta de los integrantes del Comité Técnico del propio órgano administrativo.
 
 ###### Artículo 49.
 
@@ -537,27 +563,45 @@ La Comisión Estatal, es un órgano técnico, cuya función es la calificación 
 
 La Comisión, para el ejercicio de sus funciones, contará con un Comité Técnico, cuya función será apoyar a la Comisión Estatal, y estará integrado por:
 
-I. Siete COMISIÓNados ciudadanos, involucrados en los temas del Desarrollo Social, de los cuales, al menos tres, deberán contar con estudios, investigaciones o experiencia técnica y académica en el área del Desarrollo Social, preferentemente en materia de evaluación;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-II. El Secretario Ejecutivo del Consejo Ciudadano; y
+I. Siete comisionados o comisionadas involucradas en los temas del Desarrollo Social, de los cuales, al menos tres, deberán contar con estudios, investigaciones o experiencia técnica y académica en el área del Desarrollo Social, preferentemente en materia de evaluación;
 
-III. Un COMISIÓNado representante del Consejo Nacional de Evaluación de la Política de Desarrollo Social;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-Los COMISIÓNados ciudadanos a que se refiere la fracción I, serán seleccionados por la Coordinadora Estatal para el Desarrollo Social, propuestos a través de un proceso de convocatoria pública que realizará el Titular de la Comisión Estatal.
+II. El Secretario o Secretaria Ejecutiva del Consejo Ciudadano; y
 
-La presidencia recaerá en el COMISIÓNado ciudadano que se designe por mayoría de votos de los integrantes del Comité Técnico.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-Las decisiones del Comité Técnico se tomarán por la mayoría de votos de los integrantes señalados en el párrafo precedente.
+III. Un Comisionado o Comisionada representante del Consejo Nacional de Evaluación de la Política de Desarrollo Social;
 
-El Comité Técnico contará con un Secretario Técnico, función que queda a cargo de quien sea designado Titular de la Comisión Estatal.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+Las y los Comisionados a que se refiere la fracción I, serán seleccionados por la Coordinadora Estatal para el Desarrollo Social, propuestos a través de un proceso de convocatoria pública que realizará el Titular de la Comisión Estatal.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+La presidencia recaerá en el Comisionado o Comisionada que se designe por mayoría de votos de los integrantes del Comité Técnico.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+Las decisiones del Comité Técnico se tomarán por la mayoría de votos de los o las integrantes señalados en el párrafo precedente.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+El Comité Técnico contará con un secretario técnico o secretaria técnica, función que queda a cargo de quien sea designado o designada la persona Titular de la Comisión Estatal.
 
 El Comité Técnico, sesionará en las condiciones que se establezcan en el Decreto relativo a la Comisión Estatal.
 
-Serán invitados permanentes a los trabajos del Comité Técnico los Titulares de la (sic) Secretarías de Gobierno, Desarrollo Social, Economía y Hacienda.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+Serán invitados e invitadas permanentes a los trabajos del Comité Técnico los y las Titulares de la (sic) Secretarías de Gobierno, Desarrollo Social, Economía y Hacienda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 51.
 
-El cargo de COMISIÓNado ciudadano será honorífico, sin que el cumplimiento de su función cause estipendio ni compensación alguna. Los COMISIÓNados ciudadanos durarán en su función cuatro años, pudiendo ser reelectos por un período de igual duración.
+El cargo de comisionado y comisionada será honorífico, sin que el cumplimiento de su función cause estipendio ni compensación alguna. Los comisionados y comisionadas durarán en su función cuatro años, pudiendo ser reelectos o reelectas por un período de igual duración.
 
 Asimismo, la Comisión Estatal contará con un órgano de vigilancia, en los términos de lo dispuesto en el Decreto administrativo de su creación.
 
@@ -567,7 +611,9 @@ Son atribuciones de la Comisión Estatal de Evaluación del Desarrollo Social:
 
 I. La evaluación de los Programas y Acciones de Desarrollo Social que se ejecuten con recursos Estatales y Municipales, garantizando la transparencia, objetividad y rigor técnico en dicha actividad. En su caso, la evaluación de los Programas de Desarrollo Social que se ejecutan total o parcialmente con aportación de recursos Federales, cuando la normatividad específica de los programas establezca la necesidad de la evaluación en el contexto local;
 
-II. Emitir recomendaciones para los ejecutores de Programas o Acciones de Desarrollo Social, con base en los resultados de las evaluaciones, en el sentido de continuarlos, corregirlos, modificarlos, adicionarlos, reorientarlos, suspenderlos o cancelarlos;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+II. Emitir recomendaciones para los y las ejecutoras de Programas o Acciones de Desarrollo Social, con base en los resultados de las evaluaciones, en el sentido de continuarlos, corregirlos, modificarlos, adicionarlos, reorientarlos, suspenderlos o cancelarlos;
 
 III. Realizar estudios y diagnósticos participativos, relevantes en torno al Desarrollo Social, para el cumplimiento de sus funciones;
 
@@ -575,21 +621,29 @@ IV. Publicar los resultados de las evaluaciones, realizar foros especializados d
 
 V. Tomar en consideración las recomendaciones realizadas por el Consejo Ciudadano para el Desarrollo Social del Estado de Morelos;
 
-VI. Proponer al Gobernador Constitucional del Estado a la persona que sea Titular de la Comisión Estatal, así como su permanencia o remoción; y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+VI. Proponer al Gobernador o Gobernadora Constitucional del Estado a la persona que sea Titular de la Comisión Estatal, así como su permanencia o remoción; y
 
 VII. Las demás que se establecen en esta Ley.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 53.
 
-Las relaciones laborales de la Comisión Estatal de Evaluación del Desarrollo Social con el personal que tenga el carácter de servidor público, se regirán por la Ley del Servicio Civil del Estado de Morelos y las demás disposiciones jurídicas aplicables.
+Las relaciones laborales de la Comisión Estatal de Evaluación del Desarrollo Social con el personal que tenga el carácter de servidora o servidor público, se regirán por la Ley del Servicio Civil del Estado de Morelos y las demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 54.
 
-Para ser Titular de la Comisión Estatal, preferentemente, se deberá acreditar ser investigador académico, que sea o haya sido miembro del Sistema Nacional de Investigadores, con amplia experiencia en la materia de evaluación y que colabore o haya colaborado en alguna Institución de Educación Superior o de Investigación reconocida.
+Para ser Titular de la Comisión Estatal, preferentemente, se deberá acreditar ser investigador o investigadora académica, que sea o haya sido miembro del Sistema Nacional de Investigadores, con amplia experiencia en la materia de evaluación y que colabore o haya colaborado en alguna Institución de Educación Superior o de Investigación reconocida.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 55.
 
-El Titular de la Comisión Estatal, durará en su encargo cuatro años y podrá ser designado por un período de igual duración. Sólo podrá ser removido por el Gobernador Constitucional del Estado.
+El o la Titular de la Comisión Estatal, durará en su encargo cuatro años y podrá ser designado o designada por un período de igual duración. Sólo podrá ser removido por el o la Gobernadora Constitucional del Estado.
 
 ## TÍTULO CUARTO. DE LA EVALUACIÓN DEL DESARROLLO SOCIAL
 
@@ -603,15 +657,19 @@ Las evaluaciones constituyen procesos de aplicación de un método sistemático 
 
 La evaluación interna es aquella que deben efectuar anual y sistemáticamente, conforme a los lineamientos que emita la Comisión Estatal y en apego a la demás normatividad aplicable, las Dependencias, Entidades y órganos del Poder Ejecutivo del Estado de Morelos, así como los Ayuntamientos que ejecuten Programas o Acciones de Desarrollo Social. Los resultados de estas evaluaciones deberán ser publicados por los ejecutores en los términos que se establezcan en el Reglamento de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 58.
 
-La evaluación externa de la Política, los Programas y Acciones de Desarrollo Social, es aquella que realizará de manera exclusiva e independiente la Comisión Estatal. Para su realización, se podrá conformar un directorio de evaluadores externos, en el que podrán participar profesores e investigadores adscritos a Instituciones de Educación Superior y de Investigación Científica, Organizaciones Civiles sin fines de lucro con experiencia en la materia, o profesionales independientes que reúnan los requisitos de experiencia y conocimientos. Además, la Comisión Estatal aprobará un Programa Anual de Evaluaciones que será publicado en el Periódico Oficial.
+La evaluación externa de la Política, los Programas y Acciones de Desarrollo Social, es aquella que realizará de manera exclusiva e independiente la Comisión Estatal. Para su realización, se podrá conformar un directorio de evaluadores y evaluadoras externas, en el que podrán participar profesores, profesoras, investigadoras e investigadores adscritos a Instituciones de Educación Superior y de Investigación Científica, Organizaciones Civiles sin fines de lucro con experiencia en la materia, o profesionales independientes que reúnan los requisitos de experiencia y conocimientos. Además, la Comisión Estatal aprobará un Programa Anual de Evaluaciones que será publicado en el Periódico Oficial.
 
 Las Secretarías, Dependencias, Entidades y Órganos del Poder Ejecutivo del Estado y de los Ayuntamientos, ejecutoras de Programas de Desarrollo Social, proporcionarán la información y las facilidades necesarias para la realización de las evaluaciones externas.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 59.
 
-Las evaluaciones externas podrán incluir el logro de los objetivos y metas esperadas, el diseño, la operación, los resultados, el impacto alcanzado y la opinión de la población beneficiada, usuarios o derechohabientes, en función de las prioridades y objetivos de corto, mediano y largo plazo que marque el Consejo Estatal para el Desarrollo Social.
+Las evaluaciones externas podrán incluir el logro de los objetivos y metas esperadas, el diseño, la operación, los resultados, el impacto alcanzado y la opinión de la población beneficiada, usuarios, usuarias o derechohabientes, en función de las prioridades y objetivos de corto, mediano y largo plazo que marque el Consejo Estatal para el Desarrollo Social.
 
 ###### Artículo 60.
 
@@ -629,27 +687,37 @@ La Comisión Estatal, deberá publicar los resultados de las evaluaciones extern
 
 La Comisión Estatal, de acuerdo al resultado de las evaluaciones, sean estas internas o externas, deberá emitir sugerencias y recomendaciones a las Secretarías, Dependencias, Entidades y Organismos Estatales y Municipales relacionadas con el Desarrollo Social.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 64.
 
-Los ejecutores de los Programas evaluados deberán dar respuesta pública a las recomendaciones emitidas por la Comisión Estatal de Evaluación, señalando las acciones para atenderlas.
+Los y las ejecutoras de los Programas evaluados deberán dar respuesta pública a las recomendaciones emitidas por la Comisión Estatal de Evaluación, señalando las acciones para atenderlas.
 
 ###### Artículo 65.
 
 El seguimiento a las recomendaciones de los resultados de la evaluación de los Planes, Programas, Proyectos y Acciones que implementen el Poder Ejecutivo Estatal y los Ayuntamientos, lo realizará la Comisión Estatal en el ámbito de sus competencias.
 
-### CAPÍTULO II. De la creación de los padrones de beneficiarios
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO II. De la creación de los padrones de beneficiarios y beneficiarias
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 66.
 
-Las Dependencias, Organismos o Entidades del Poder Ejecutivo Estatal y los Ayuntamientos que operen Programas o Acciones de Desarrollo Social, en sus ámbitos de competencia, integrarán sus padrones de beneficiarios y los difundirán en los términos que establece la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos y demás normatividad aplicable.
+Las Dependencias, Organismos o Entidades del Poder Ejecutivo Estatal y los Ayuntamientos que operen Programas o Acciones de Desarrollo Social, en sus ámbitos de competencia, integrarán sus padrones de beneficiarios y beneficiarias y los difundirán en los términos que establece la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos y demás normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 67.
 
-El Poder Ejecutivo Estatal, por conducto de la Secretaría de Desarrollo Social, dará a conocer y publicará en el Periódico Oficial los lineamientos y criterios para la integración y actualización de los padrones de beneficiarios de las dependencias, organismos y Entidades del Ejecutivo Estatal y de los Ayuntamientos.
+El Poder Ejecutivo Estatal, por conducto de la Secretaría de Desarrollo Social, dará a conocer y publicará en el Periódico Oficial los lineamientos y criterios para la integración y actualización de los padrones de beneficiarios y beneficiarias de las dependencias, organismos y entidades del ejecutivo estatal y de los ayuntamientos.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 68.
 
-La Comisión Estatal de Evaluación creará un Padrón Único de Beneficiarios Estatal, a través de su Titular, con los padrones de beneficiarios que integrarán y deberán proporcionarle las secretarías, dependencias, organismos y Entidades del Poder Ejecutivo Estatal y de los Ayuntamientos.
+La Comisión Estatal de Evaluación creará un Padrón Único de Beneficiarios y beneficiarias Estatal, a través de su Titular, con los padrones de beneficiarios y beneficiarias que integrarán y deberán proporcionarle las secretarías, dependencias, organismos y Entidades del Poder Ejecutivo Estatal y de los Ayuntamientos.
 
 ### CAPÍTULO III. De la Participación Social
 
@@ -743,11 +811,15 @@ Las faltas en las que incurran quienes se hallen legalmente facultados para la a
 
 La denuncia ciudadana se deberá presentar por escrito, ante la Comisión Estatal, y contener:
 
-I. Nombre o denominación y domicilio del denunciante o en su caso del representante legal.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+I. Nombre o denominación y domicilio del denunciante o la denunciante o en su caso del representante legal.
 
 II. La descripción de los actos, hechos u omisiones denunciados;
 
-III. Los datos que permitan identificar a la presunta autoridad, funcionario infractor o responsable;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+III. Los datos que permitan identificar a la presunta autoridad, funcionario, funcionaria infractora o responsable;
 
 IV. Las pruebas que ofrezca el denunciante; y
 
@@ -785,9 +857,11 @@ V. Presentar ante la autoridad competente las quejas y denuncias que puedan dar 
 
 La población beneficiaria, organización o unidad familiar que contravenga las disposiciones de la presente Ley o de la normatividad de algún Programa se identificará en el padrón y se hará acreedor a una sanción que va desde la suspensión temporal del apoyo por 12 meses hasta las aplicables por las leyes correspondientes de acuerdo al recurso destinado.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 85.
 
-Los recursos destinados al Desarrollo Social, no podrán ser utilizados para fines distintos a los establecidos. El Servidor Público Estatal o Municipal que, valiéndose de su función o en ejercicio de ésta, condicione los apoyos, haga proselitismo a favor de un partido político o de una persona y, en general, contravenga las disposiciones de esta Ley, será sancionado de acuerdo a lo dispuesto en la Ley Estatal Responsabilidades (sic) de Servidores Públicos y demás ordenamientos relativos, independientemente de las responsabilidades, civiles o penales a que haya lugar.
+Los recursos destinados al Desarrollo Social, no podrán ser utilizados para fines distintos a los establecidos. La servidora o servidor Público Estatal o Municipal que, valiéndose de su función o en ejercicio de ésta, condicione los apoyos, haga proselitismo a favor de un partido político o de una persona y, en general, contravenga las disposiciones de esta Ley, será sancionado de acuerdo a lo dispuesto en la Ley de la materia y demás ordenamientos relativos, independientemente de las responsabilidades, civiles o penales a que haya lugar.
 
 ###### Artículo 86.
 
@@ -868,3 +942,15 @@ PRIMERO.- Remítase el presente al titular del Poder Ejecutivo del Estado, para 
 SEGUNDO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUMERO MIL CUATROCIENTOS OCHENTA Y DOS POR EL QUE SE REFORMAN LOS ARTÍCULOS 9 INCISO B), FRACCIÓN III, 11 FRACCIONES III Y XI, 31 INCISO B) FRACCIÓN V, 40 FRACCIONES I, III, IV Y VI Y ÚLTIMO PÁRRAFO, 48, 50, FRACCIÓN I, II, III, PÁRRAFOS SEGUNDO, TERCERO, CUARTO, QUINTO Y SÉPTIMO, 52, FRACCIONES II Y IV, 53, 54, 55, 58 PRIMER PÁRRAFO, 59, CAPÍTULO II, TÍTULO, 64, 66, 67, 68, 80 FRACCIONES I, III, IV Y V Y 85 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE MORELOS".]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente decreto al titular del Poder Ejecutivo para su promulgación y publicación en el periódico oficial "tierra y libertad" órgano oficial de difusión del Gobierno del Estado de Morelos, de conformidad con lo dispuesto por los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
