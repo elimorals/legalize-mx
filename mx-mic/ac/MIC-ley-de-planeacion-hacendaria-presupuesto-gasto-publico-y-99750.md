@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-planeacion-hacendaria-presupuesto-gasto-publico-y-99750"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-20"
-last_updated: "2022-12-22"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 20 de marzo de 2014.
 
@@ -373,6 +373,10 @@ V. Un estudio actuarial de las pensiones de sus trabajadores, el cual como míni
 
 La Ley de Ingresos y el Presupuesto de Egresos deberán ser congruentes, además de con los Criterios Generales de Política Económica, con las estimaciones de las participaciones y transferencias federales etiquetadas, previstas en la iniciativa de la Ley de Ingresos de la Federación y en el proyecto de Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+El calendario mensual de ingresos derivado de la Ley de Ingresos del Estado se publicará en un Acuerdo, en el Periódico Oficial del Estado de Michoacán de Ocampo, 10 diez días hábiles después de la publicación de dicha Ley. El calendario mensual deberá incluir una descripción de metodología y criterios que fueron utilizados para la estimación de cada rubro de ingresos.
+
 > <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 13 Bis.
@@ -437,11 +441,11 @@ IV. La geográfica, que agrupa a las previsiones de gasto con base en su destino
 
 V. La de género, la cual agrupa las previsiones de gasto con base en su destino por género, diferenciando entre mujeres y hombres.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 17.
 
-Los proyectos de presupuesto de los Poderes Legislativo, Ejecutivo y Judicial, de las Dependencias, Entidades y Organismos Autónomos, se elaborarán para cada año calendario, con base en los lineamientos de carácter técnico y financiero que emita la Secretaría y se enviarán a ésta para integrarlos al proyecto de Presupuesto de Egresos, a más tardar 10 días naturales antes de la fecha de presentación al Congreso.
+Los proyectos de presupuesto de los Poderes Legislativo, Ejecutivo y Judicial, de las Dependencias, Entidades y Organismos Autónomos, se elaborarán para cada año calendario, con base en los lineamientos de carácter técnico y financiero que emita la Secretaría y se enviarán a ésta para integrarlos al proyecto de Presupuesto de Egresos, a más tardar el último día hábil de la tercera semana del mes de octubre de cada año.
 
 > <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
@@ -521,23 +525,39 @@ Los recursos aportados deberán ser destinados, en primer término, para financi
 
 En caso de que el saldo de los recursos del fideicomiso a que se refiere el primer párrafo de este artículo, acumule un monto que sea superior al costo promedio de reconstrucción de la infraestructura estatal dañada de los últimos cinco años, medido a través de las autorizaciones de recursos aprobadas por el Fondo de Desastres Naturales, el Gobierno del Estado podrá utilizar el remanente que le corresponda para acciones de prevención y mitigación, los cuales podrán ser aplicados para financiar la contraparte del Estado de los proyectos preventivos, conforme a lo establecido en las reglas de operación del Fondo para la Prevención de Desastres Naturales.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>[N. DE E. MEDIANTE REFORMA PUBLICADA EN EL P.O. DE 20 DE DICIEMBRE DE 2023, SE DEROGAN LOS NUMERALES 6 DEL APARTADO A; Y 10 Y 11 DEL APARTADO B, AMBOS DE LA FRACCIÓN X.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 20.
 
-La iniciativa de decreto que contenga el proyecto de Presupuesto de Egresos, que presente a la consideración del Congreso el Ejecutivo del Estado, contendrá lo siguiente:
+La iniciativa que contenga el proyecto de Presupuesto de Egresos, que presente la Secretaría a consideración del Congreso el Ejecutivo del Estado, contendrá lo siguiente:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 I. Exposición de motivos en la que se señalen los efectos políticos, económicos y sociales que se pretendan lograr;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 II. Presentar la asignación de los programas y subprogramas presupuestarios que integran el proyecto de presupuesto de egresos, señalando indicadores de gestión, objetivos, actividades, metas y techos financieros clasificados por el origen de los recursos y las unidades programáticas presupuestarias responsables de su ejecución;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 III. Las asignaciones presupuestales deberán realizarse a nivel de unidad programática, unidad responsable, programa, subprograma y partida presupuestal;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 IV. Estudio actuarial de las pensiones de sus trabajadores, el cual como mínimo deberá actualizarse cada tres años;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 V. Situación de la deuda pública al final del ejercicio presupuestal en curso y estimación de la que se tendrá al cierre del que se propone; así como la proyección de estimación de recurso para el servicio de la deuda hasta por cinco años posteriores;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 VI. Las plantillas de personal por jornada y nivel, sueldo y demás prestaciones económicas asignadas por plaza presupuestada, con inclusión de aquellas que envíen los Poderes Legislativo y Judicial, las Entidades y los Organismos Autónomos, de que se trate, así como los tabuladores de sueldos;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 VII. En el proyecto de Presupuesto de Egresos se deberá presentar en una sección específica, las erogaciones correspondientes al gasto en servicios personales, el cual comprende:
 
@@ -545,49 +565,89 @@ A) Las remuneraciones de los servidores públicos, desglosando las percepciones 
 
 B) Las previsiones salariales y económicas para cubrir los incrementos salariales, la creación de plazas y otras medidas económicas de índole laboral. Dichas previsiones serán incluidas en un capítulo específico del Presupuesto de Egresos.
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 VIII. Los proyectos de presupuesto presentados por los Poderes Legislativo y Judicial, Organismos Autónomos y Entidades;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 IX. Presentar de manera consolidada el presupuesto por programas señalando indicadores de gestión, objetivos, actividades, metas y techos financieros;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 X. Presentar de manera consolidada el presupuesto a nivel de:
 
 A) Conforme a los formatos o disposiciones emitidas por el Consejo Nacional de Armonización Contable:
 
-1. Clasificación Administrativa.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-2. Clasificación Funcional.
+1. Clasificación por Objeto del Gasto (Capítulo y Concepto).
 
-3. Clasificación Programática.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-4. Calendario por Objeto de Gasto.
+2. Clasificación Económica (por Tipo de Gasto).
 
-5. Capítulo de Gasto.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-6. Clasificación por Tipo de Gasto.
+3. Clasificación Administrativa.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+4. Clasificación Funcional (Finalidad y Función).
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+5. Clasificación Programática.
 
 B) Conforme a la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios:
 
-1. Estado Analítico a nivel de Unidad Programática Presupuestaria.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-2. Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado, conforme la Ley de Disciplina Financiera Clasificación Funcional (Finalidad y Función).
+1. Balance Presupuestario-LDF.
 
-3. Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado, Clasificación Funcional (Finalidad y Función).
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-4. Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado, Clasificación por Objeto del Gasto.
+2. Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado-LDF, Clasificación por Objeto del Gasto (Capítulo y Concepto).
 
-5. Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado, Clasificación por Gasto Programático.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-6. Resultado de los Ingresos y Egresos.
+3. Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado-LDF Clasificación Administrativa.
 
-7. Proyecciones de los Ingresos y Egresos.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-8. Presentar el calendario comparativo mensual de ingresos y gastos estimados para el ejercicio fiscal, por fuente de financiamiento.
+4. Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado-LDF Clasificación Funcional (Finalidad y Función).
 
-9. Presentar un apartado de inversión pública, en especial de aquellas que abarquen dos o más de un ejercicio fiscal.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-10. La Proyección del gasto destinado a programas vinculados con políticas de procuración de la equidad de género, del desarrollo de la juventud, grupos vulnerables, ciencia y tecnología.
+5. Proyecciones de Ingresos -LDF.
 
-11. Toda información que se considere útil para presentar la propuesta en forma clara y completa.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+6. Proyecciones de Egresos-LDF.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+7. Resultados de Ingresos -LDF.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+8. Resultados de Egresos-LDF.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+9. Informe sobre Estudios Actuariales - LDF.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+C) Aunado a lo anterior, se deberá considerar lo siguiente:
+
+1. Presentar el calendario comparativo mensual de ingresos y gastos estimados para el ejercicio fiscal, por fuente de financiamiento.
+
+2. Presentar un apartado de inversión pública, en especial de aquellas que abarquen dos o más de un ejercicio fiscal.
+
+3. La Proyección del gasto destinado a programas vinculados con políticas de procuración de la equidad de género, del desarrollo de la juventud, grupos vulnerables, ciencia y tecnología.
+
+4. Toda información que se considere útil para presentar la propuesta en forma clara y completa.
 
 ###### ARTÍCULO 21.
 
@@ -903,11 +963,15 @@ VII. En materia de subsidios se deberá identificar la población objetivo, el p
 
 La información a que se refiere esta fracción deberá hacerse pública a través de la página oficial de internet de la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 42.
 
-Las afectaciones presupuestales y las ministraciones de los fondos con cargo al Presupuesto de Egresos, será autorizada y ejecutada por la Secretaria, con base en los documentos de afectación Presupuestaria.
+Las afectaciones presupuestales y las ministraciones de los fondos con cargo al Presupuesto de Egresos serán operadas por la Secretaría, con base en los documentos de afectación Presupuestaria.
 
-Los titulares y demás funcionarios competentes de los Poderes Legislativo, Ejecutivo y Judicial, de las Dependencias, Entidades y Organismos Autónomos, serán los responsables de la aplicación y uso de los recursos que ejerzan.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+Los titulares y demás funcionarios competentes de los Poderes Legislativo, Ejecutivo y Judicial, de las Dependencias, Entidades y Organismos Autónomos, serán responsables de elaborar y autorizar los documentos de afectación presupuestaria, así como de la aplicación, uso, seguimiento, justificación y comprobación de los recursos que les sean asignados.
 
 Los responsables de la administración en los ejecutores de gasto deberán cumplir con oportunidad y eficiencia las metas y objetivos previstos en sus respectivos programas, conforme a lo dispuesto en esta Ley y las demás disposiciones generales aplicables.
 
@@ -1702,3 +1766,9 @@ DÉCIMO SEGUNDO. Túrnese el presente Decreto al Titular de la Auditoría Superi
 DÉCIMO TERCERO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, para sus efectos conducentes.
 
 DÉCIMO CUARTO. El Titular del Poder Ejecutivo del Estado, acompañado del refrendo del Secretario de Gobierno de conformidad con lo dispuesto por el artículo 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, dispondrá se publique y observe.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 603 POR EL QUE “SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 17; SE REFORMAN LOS NUMERALES 1,2,3,4,5, DEROGÁNDOSE EL NUMERAL 6, DEL APARTADO A), FRACCIÓN X, DEL ARTÍCULO 20; SE REFORMAN LOS NUMERALES 1,2,3,4,5,6,7,8,9, DEROGÁNDOSE LOS NUMERALES 10 Y 11, DEL APARTADO B), FRACCIÓN X, DEL ARTÍCULO 20; SE ADICIONA UN APARTADO C), CON LOS NUMERALES 1, 2, 3 Y 4, A LA FRACCIÓN X DEL ARTÍCULO 20; SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 42; Y, SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 13, TODOS DE LA LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día 1° de enero de 2024, previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
