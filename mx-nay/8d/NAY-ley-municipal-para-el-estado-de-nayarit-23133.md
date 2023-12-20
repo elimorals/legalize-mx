@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2023-12-14"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -2393,7 +2393,9 @@ Los Ayuntamientos tendrán a su cargo las siguientes funciones y servicios públ
 
 a) Agua potable, alcantarillado, saneamiento, drenaje, tratamiento y disposición de aguas residuales;
 
-b) Alumbrado público;
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+b) Alumbrado público, este servicio podrá realizarse en su caso, por medio de la implementación e instalación de luminarias fotovoltaicas;
 
 c) Limpia, recolección, traslado, tratamiento, disposición y aprovechamiento de residuos; la materia de tratamiento será del municipio cuando la competencia no esté reservada a otros ámbitos de gobierno, sean federal o local;
 
@@ -4678,3 +4680,9 @@ P.O.14 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY MUNICIPAL DEL ESTADO DE NAYARIT, EN MATERIA DE INNOVACIÓN TECNOLÓGICA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL INCISO B) DEL ARTÍCULO 126 DE LA LEY MUNICIPAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE LUMINARIAS FOTOVOLTAICAS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
