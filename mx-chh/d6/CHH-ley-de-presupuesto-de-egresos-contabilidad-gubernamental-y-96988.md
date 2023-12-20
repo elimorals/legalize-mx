@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-presupuesto-de-egresos-contabilidad-gubernamental-y-9698
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-28"
-last_updated: "2019-03-16"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD GUBERNAMENTAL Y GASTO PÚBLICO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 28 de diciembre de 2013.
 
@@ -157,9 +157,11 @@ VI. Los Municipios.
 
 VII. Las personas físicas y morales y organizaciones de la sociedad civil que recauden, administren, manejen o ejerzan recursos públicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 5.
 
-La programación, presupuestación, ejercicio, seguimiento, monitoreo y evaluación del Gasto Público, se apegará a los lineamientos, directrices, estrategias y metas, con base en los principios de eficiencia, eficacia, economía, honradez, racionalidad, austeridad, control, rendición de cuentas, equidad de género y transparencia, de la administración de los recursos públicos, con la finalidad de satisfacer las necesidades que exija el desarrollo del Estado.
+La programación, presupuestación, ejercicio, seguimiento, monitoreo y evaluación del Gasto Público, se apegará a los lineamientos, directrices, estrategias y metas, con base en los principios de eficiencia, eficacia, economía, honradez, racionalidad, austeridad, transparencia, control y rendición de cuentas de la administración de los recursos públicos, con intersectorialidad y transversalidad de la perspectiva de género y derechos humanos, a fin de satisfacer las necesidades que exija el desarrollo del Estado.
 
 La evaluación del resultado de los programas presupuestarios, se realizará basada en los principios de verificación del grado de cumplimiento de metas y objetivos, de conformidad con los indicadores que permitan conocer el impacto social de los programas gubernamentales.
 
@@ -301,7 +303,9 @@ VII. La calendarización de las metas de conformidad con sus períodos de ejecuc
 
 VIII. Las demás previsiones que se estimen necesarias.
 
-En la elaboración de los programas operativos anuales, deberá emplearse lenguaje incluyente y acciones que promuevan la igualdad entre mujeres y hombres, la erradicación de la violencia y cualquier forma de discriminación de género.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+En la elaboración de los programas operativos anuales, deberá emplearse lenguaje incluyente, perspectiva de género y definirse acciones y políticas públicas destinadas a promover la igualdad entre mujeres y hombres, la erradicación de la violencia contra la mujer y de roles y estereotipos que fomenten cualquier forma de discriminación, considerando las recomendaciones emitidas por el Consejo Estatal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia.
 
 Cuando así se requiera, los programas operativos anuales se desagregarán en subprogramas u otras categorías programáticas.
 
@@ -1738,3 +1742,11 @@ P.O. 16 DE MARZO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVII/RFLEY/0631/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y DE LA LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD GUBERNAMENTAL Y GASTO PÚBLICO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
