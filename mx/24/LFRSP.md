@@ -4,7 +4,7 @@ identifier: "LFRSP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1982-12-31"
-last_updated: "2016-07-18"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFRSP"
 
 LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 31 de diciembre de 1982.
 
@@ -100,7 +100,9 @@ VI.- Cualquier infracción a la Constitución o a las leyes federales cuando cau
 
 VII.- Las omisiones de carácter grave, en los términos de la fracción anterior; y
 
-VIII.- Las violaciones sistemáticas o graves a los planes, programas y presupuestos de la Administración Pública Federal o del Distrito Federal y a las leyes que determinan el manejo de los recursos económicos federales y del Distrito Federal.
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2023)</small>
+
+VIII.- Las violaciones sistemáticas o graves a los planes, programas y presupuestos de la Administración Pública Federal o de la Ciudad de México y a las leyes que determinan el manejo de los recursos económicos federales y de la Ciudad de México.
 
 No procede el juicio político por la mera expresión de ideas.
 
@@ -596,33 +598,35 @@ ARTICULO 77 bis.- (DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR
 
 (DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
-(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE DICIEMBRE DE 2023)</small>
 
-## TITULO QUINTO. De las disposiciones aplicables a los servidores públicos del órgano ejecutivo del Distrito Federal
+## TITULO QUINTO. De las disposiciones aplicables a los servidores públicos del órgano ejecutivo de la Ciudad de México
 
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
-### CAPITULO UNICO. (ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+### CAPITULO UNICO
+
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 91.
 
-Al frente de la Contraloría General de la Administración Pública del Distrito Federal habrá un Contralor General, quien será nombrado y removido libremente por el Jefe de Gobierno.
+Al frente de la Secretaría de la Contraloría General de la Ciudad de México habrá una persona titular, quien será nombrada y removida en términos de la Constitución Política de la Ciudad de México.
 
-Las facultades y obligaciones que esta Ley otorga a la Secretaría y a su titular se entenderán conferidas en el Distrito Federal a la Contraloría General de la Administración Pública del Distrito Federal y a su titular.
+Las facultades y obligaciones que esta Ley otorga a la Secretaría y a la persona titular se entenderán conferidas en la Ciudad de México a la Secretaría de la Contraloría General de la Ciudad de México y a la persona titular.
 
-(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 92.
 
-El Contralor General designará y removerá libremente a los titulares de los órganos de control interno de las dependencias, entidades paraestatales y órganos desconcentrados de la Administración Pública del Distrito Federal.
+Las personas titulares de los órganos de control interno de las dependencias, entidades paraestatales y órganos desconcentrados de la Administración Pública de la Ciudad de México, serán designadas y removidas conforme a lo establecido en la legislación de la Ciudad de México aplicable.
 
-Los órganos de control interno tendrán las mismas facultades que esta Ley les confiere a las contralorías internas de las dependencias y entidades de la Administración Pública Federal, las que serán ejercidas en las dependencias, entidades y órganos desconcentrados de la Administración Pública del Distrito Federal.
+Los órganos de control interno tendrán las mismas facultades que esta Ley les confiere a las contralorías internas de las dependencias y entidades de la Administración Pública Federal las que serán ejercidas en las dependencias, entidades y órganos desconcentrados de la Administración Pública de la Ciudad de México.
 
-(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 93.
 
-El servidor público afectado por los actos o resoluciones de la Contraloría General de la Administración Pública del Distrito Federal o de los órganos de control interno, podrá, a su elección, interponer el recurso de revocación, previsto en esta Ley, o impugnar dichos actos o resoluciones ante el Tribunal de lo Contencioso Administrativo del Distrito Federal, el que se sujetará a lo dispuesto por los artículos 73 y 74 de esta ley.
+La persona servidora pública afectada por los actos o resoluciones de la Secretaría de la Contraloría General de la Ciudad de México o de los órganos de control interno, podrá, a su elección, interponer el recurso de revocación, previsto en esta Ley, o impugnar dichos actos o resoluciones ante el Tribunal de Justicia Administrativa de la Ciudad de México, el que se sujetará a lo dispuesto por los artículos 73 y 74 de esta Ley.
 
 ## TRANSITORIOS
 
@@ -843,3 +847,9 @@ A partir de la entrada en vigor de la Ley General de Responsabilidades Administr
 Para efectos del artículo 52 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa, el Presidente del Tribunal Federal de Justicia Fiscal y Administrativa, no podrá ser nombrado Presidente del Tribunal Federal de Justicia Administrativa en el periodo inmediato al que concluye.
 
 Todas las referencias que en las leyes se haga al Tribunal Federal de Justicia Fiscal y Administrativa, se entenderán referidas al Tribunal Federal de Justicia Administrativa.
+
+D.O.F. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
