@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-estatal-anticorrupcion-de-san-luis-potosi-12181
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-25"
-last_updated: "2023-11-27"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 25 de mayo de 2017.
 
@@ -93,23 +93,47 @@ V. Comités Municipales de Participación Ciudadana: las instancias ciudadanas d
 
 VI. Entes públicos: los Poderes, Legislativo y Judicial del Estado; los organismos a los que la Constitución Política del Estado otorgue autonomía; las dependencias y entidades de la Administración Pública Estatal; los municipios del Estado de San Luis Potosí, sus dependencias y entidades; la Fiscalía General del Estado; los órganos jurisdiccionales estatales que no formen parte del Poder Judicial del Estado; así como cualquier otro ente sobre el que tenga control cualquiera de los poderes y órganos públicos antes citados;
 
-VII. Órganos internos de control: los órganos internos de control en los entes públicos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-VIII. Secretaría Ejecutiva: el organismo que funge como órgano de apoyo técnico del Comité Coordinador;
+VII. Órgano de Gobierno: el órgano máximo de administración, gobierno y dirección de la Secretaría Ejecutiva;
 
-IX. Secretario Técnico: el servidor público a cargo de las funciones de dirección de la Secretaría Ejecutiva, así como las demás que le confiere la presente Ley;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-X. Servidores públicos: cualquier persona que se ubique en alguno de los supuestos establecidos en el artículo 124 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí;
+VIII. Órganos internos de control: los órganos internos de control en los entes públicos;
 
-XI. Sistema Estatal: el Sistema Estatal Anticorrupción de San Luis Potosí;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-XII. (DEROGADA, P.O. 27 DE NOVIEMBRE DE 2023)
+IX. Plataforma Digital Estatal: el conjunto de mecanismos de recopilación, sistematización y procesamiento de información en formato de datos abiertos que genere e incorpore el Estado a la Plataforma Digital Nacional;
 
-XIII. Sistema Nacional: el Sistema Nacional Anticorrupción.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+X. Secretaría Ejecutiva: el organismo que funge como órgano de apoyo técnico del Comité Coordinador;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+XI. Secretario Técnico: el servidor público a cargo de las funciones de conducción de la Secretaría Ejecutiva, así como las demás que le confiere la presente Ley;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+XII. Servidores públicos: cualquier persona que se ubique en alguno de los supuestos establecidos en el artículo 124 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+XIII. Sistema Estatal: el Sistema Estatal Anticorrupción de San Luis Potosí;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+XIV. Sistema Nacional: el Sistema Nacional Anticorrupción, y
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+XV. Sistema Nacional de Fiscalización: El Sistema Nacional de Fiscalización es el conjunto de mecanismos interinstitucionales de coordinación entre los órganos responsables de las tareas de auditoría gubernamental en los distintos órdenes de gobierno, con el objetivo de maximizar la cobertura y el impacto de la fiscalización en todo el país, con base en una visión estratégica, la aplicación de estándares profesionales similares, la creación de capacidades y el intercambio efectivo de información, sin incurrir en duplicidades u omisiones; a que hace referencia la Ley General.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 4°.
 
-Son sujetos de la presente Ley, los Entes públicos a que se refiere la fracción VI del artículo 3° de este Ordenamiento.
+Son sujetos de la presente Ley, los entes públicos a que se refiere el artículo 7º de este Ordenamiento.
 
 ### Capítulo II. Principios que rigen el Servicio Público
 
@@ -381,9 +405,7 @@ Sólo los integrantes supernumerarios que ejerzan como numerarios formarán part
 
 Los nombramientos de los integrantes supernumerarios serán por cinco años y podrán ser designados, por una sola vez, para un período igual, sin perjuicio de que sean propuestos para ser nombrados numerarios.
 
-> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2020)</small>
-
-La renuncia expresa a cargo del Presidente del Comité de Participación Ciudadana, deberá presentarse ante la Comisión de Selección.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 21.
 
@@ -394,6 +416,10 @@ De presentarse la ausencia temporal del representante, el Comité de Participaci
 > <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2020)</small>
 
 Se considera ausencias definitivas, el fallecimiento, la presencia de una enfermedad grave, o discapacidad que impida desempeñar el cargo de manera definitiva, o exista conflicto de interés derivado de las funciones de un cargo en el servicio público.
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+La renuncia expresa a cargo del Presidente del Comité de Participación Ciudadana, deberá presentarse ante la Comisión de Selección.
 
 ###### ARTÍCULO 22.
 
@@ -453,9 +479,7 @@ XVIII. Proponer al Comité Coordinador mecanismos para facilitar el funcionamien
 
 XIX. Constituir comités municipales de participación ciudadana en cada municipio, integrados por tres ciudadanos de reconocida probidad y prestigio profesional que auxilien al Comité de Participación Ciudadana en el desarrollo y cumplimiento de sus atribuciones en términos de las normas internas que para tal efecto apruebe este último. Los integrantes de estos comités participarán de manera honorifica en los mismos y estarán sujetos a la restricción que establece el segundo párrafo del artículo 16 de esta Ley, y estarán sujetos al régimen de responsabilidades que determina la ley;
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2019)</small>
-
-XX. Aprobar o, en su caso, modificar la estructura organizacional de la Secretaría Técnica que proponga su titular, y las remuneraciones de sus integrantes;
+XX. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2023)
 
 > <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2019)</small>
 
@@ -675,7 +699,7 @@ XIV. Celebrar los convenios que le proponga el Comité Coordinador.
 
 ###### ARTÍCULO 40.
 
-(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2023)
+(DEROGADO [N. DE E. REPUBLICADO], P.O. 20 DE DICIEMBRE DE 2023)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
@@ -743,11 +767,11 @@ V. Sistema Estatal de Denuncias Públicas de Faltas Administrativas y Hechos de 
 
 VI. Sistema Estatal de Información Pública de Contrataciones.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 51.
 
-Los integrantes del Sistema Estatal promoverán la publicación de la información contenida en la plataforma en formato de datos abiertos, conforme a la, la (sic) Ley General de Transparencia y Acceso a la Información Pública, la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, y demás normatividad aplicable.
-
-El Sistema Estatal establecerá las medidas necesarias para garantizar la estabilidad y seguridad de la plataforma, promoviendo la homologación de procesos y la simplicidad del uso de los sistemas electrónicos por parte de los usuarios.
+Los integrantes del Sistema Estatal promoverán la publicación de la información contenida en la plataforma en formato de datos abiertos, conforme a la Ley General de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos en Posesión de Sujetos Obligados, la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí y demás normatividad aplicable. El Sistema Estatal establecerá las medidas necesarias para garantizar la estabilidad y seguridad de la plataforma, promoviendo la homologación de procesos y la simplicidad del uso de los sistemas electrónicos por parte de los usuarios.
 
 ###### ARTÍCULO 52.
 
@@ -912,3 +936,11 @@ P.O. 27 DE NOVIEMBRE DE 2023.
 PRIMERO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0901.- SE REFORMAN LOS ARTÍCULOS 3º SUS FRACCIONES VII A XIII, 4º Y 51; ADICIONA A LOS ARTÍCULOS 3º LAS FRACCIONES XIV Y XV Y 21 EL PÁRRAFO CUARTO; Y DEROGA LOS ARTÍCULOS 20 SU PÁRRAFO CUARTO, 23 SU FRACCIÓN XX Y 40, DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
