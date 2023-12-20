@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-social-para-el-estado-de-nuevo-leon-52035"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-16"
-last_updated: "2023-11-08"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2006.
 
@@ -229,9 +229,11 @@ XII. Las demás que señalen las disposiciones legales aplicables.
 
 ### CAPÍTULO I. POLÍTICA DE DESARROLLO SOCIAL
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 9°.
 
-El objetivo de la Política de Desarrollo Social del Estado y de los Municipios es generar las condiciones para que las personas y la sociedad, en su conjunto, puedan satisfacer sus necesidades humanas y sociales para fortalecer el pleno goce de sus derechos y garantías políticas, económicas, sociales y culturales.
+El objetivo de la Política de Desarrollo Social del Estado y de los Municipios es generar las condiciones para que las personas y la sociedad, en su conjunto, puedan satisfacer sus necesidades humanas y sociales para fortalecer el pleno goce de sus derechos y garantías políticas, económicas, sociales, culturales y ambientales.
 
 ###### Artículo 10.
 
@@ -708,3 +710,9 @@ P.O. 8 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 457. SE REFORMAN LAS FRACCIONES X Y XI DEL ARTÍCULO 8, Y SE ADICIONA UNA FRACCIÓN XII AL ARTÍCULO 8; TODOS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO: El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 465. SE REFORMA EL ARTÍCULO 9 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
