@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-153311"
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-27"
-last_updated: "2022-12-22"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153311&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Décima Tercera Sección del Número 33 del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 27 de diciembre de 2021.
 
@@ -83,11 +85,15 @@ Son sujetos de este Impuesto las personas físicas o morales que obtengan ingres
 
 #### SECCIÓN III. DE LA BASE, TASA Y PAGO DEL IMPUESTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 5.
 
-El Impuesto a que se refiere este Capítulo, se determinará aplicando la tasa del 6% al monto total del ingreso por los premios obtenidos correspondientes a cada boleto o billete entero, sin deducción alguna; que será retenido al momento de la entrega de los premios de que se trate, por los organismos descentralizados a que se refiere el artículo 3 de esta Ley, quienes lo enterarán a la Secretaría de Finanzas y Administración, dentro de los primeros quince días hábiles del mes siguiente, a aquel en que se hayan cobrado.
+El Impuesto a que se refiere este Capítulo, se determinará aplicando la tasa del 6% al monto total del ingreso por los premios obtenidos correspondientes a cada boleto o billete entero, sin deducción alguna; que será retenido al momento de la entrega de los premios de que se trate, por los organismos descentralizados a que se refiere el artículo 3 de esta Ley, quienes lo enterarán al Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, dentro de los primeros quince días hábiles del mes siguiente, a aquel en que se hayan cobrado.
 
-Para efectos del entero a que se refiere el párrafo anterior, los organismos descentralizados de la Administración Pública Federal formularán y proporcionarán a la Secretaría de Finanzas y Administración, liquidaciones mensuales en las que se señalen los datos relativos a la identificación de los premios pagados e impuesto retenido en el territorio del Estado.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+Para efectos del entero a que se refiere el párrafo anterior, los organismos descentralizados de la Administración Pública Federal formularán y proporcionarán al Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, liquidaciones mensuales en las que se señalen los datos relativos a la identificación de los premios pagados e impuesto retenido en el territorio del Estado.
 
 De los ingresos derivados de este Impuesto que obtenga el Estado, participarán los municipios con un 80%, distribuyéndoseles lo que a cada uno corresponda, conforme a lo dispuesto por la Ley de Coordinación Fiscal del Estado de Michoacán de Ocampo.
 
@@ -175,15 +181,19 @@ Mismo año a que corresponda la Ley y año posterior siguiente 0.800
 
 #### SECCIÓN IV. DE LAS OBLIGACIONES Y DEL PAGO
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 11.
 
-Los sujetos del Impuesto a que se refiere este Capítulo y, en su caso, los responsables solidarios a que se refiere la fracción I del artículo 9 de esta Ley, efectuarán el pago correspondiente dentro de los quince días hábiles siguientes a la fecha de cesión de los derechos, conforme al documento que ampare la propiedad del vehículo objeto de la enajenación, del cual exhibirán el original y proporcionarán las copias que requiera la Secretaría de Finanzas y Administración, al realizarse el trámite de registro y control de vehículos conforme a lo dispuesto en el título de esta Ley relativo a los Derechos.
+Los sujetos del Impuesto a que se refiere este Capítulo y, en su caso, los responsables solidarios a que se refiere la fracción I del artículo 9 de esta Ley, efectuarán el pago correspondiente dentro de los quince días hábiles siguientes a la fecha de cesión de los derechos, conforme al documento que ampare la propiedad del vehículo objeto de la enajenación, del cual exhibirán el original y proporcionarán las copias que requiera el Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, al realizarse el trámite de registro y control de vehículos conforme a lo dispuesto en el título de esta Ley relativo a los Derechos.
 
-Para los efectos de este impuesto, se considera domicilio fiscal, el manifestado ante la Secretaría de Finanzas y Administración, al realizarse el trámite a que se refiere el párrafo anterior.
+Para los efectos de este impuesto, se considera domicilio fiscal, el manifestado ante el Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, al realizarse el trámite a que se refiere el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 12.
 
-Los servidores públicos de la Secretaría de Finanzas y Administración, no tramitarán ninguna solicitud de alta, baja o cambio de propietario de vehículos, por los cuales no se hubiese pagado el impuesto causado conforme a las disposiciones de este Capítulo.
+Los servidores públicos del Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, no tramitarán ninguna solicitud de alta, baja o cambio de propietario de vehículos, por los cuales no se hubiese pagado el impuesto causado conforme a las disposiciones de este Capítulo.
 
 ### CAPÍTULO III. DEL IMPUESTO SOBRE SERVICIOS DE HOSPEDAJE
 
@@ -192,6 +202,10 @@ Los servidores públicos de la Secretaría de Finanzas y Administración, no tra
 ###### ARTÍCULO 13.
 
 Están obligados al pago del Impuesto sobre Servicios de Hospedaje, las personas físicas o morales que a cambio de una contraprestación en dinero, presten dentro del territorio del Estado de Michoacán de Ocampo, los servicios turísticos de alojamiento o albergue en hoteles, moteles, posadas, mesones, hosterías, campamentos, villas, cabañas, bungalows, casas de huéspedes, haciendas o en cualquier otro establecimiento destinado a dar hospedaje, independientemente de su denominación, aun y cuando los mismos se oferten, anuncien, contraten, reserven o se concreten, mediante aplicaciones, plataformas o contenidos en formato digital a través de Internet u otra red, sean o no automatizados, pudiendo o no requerir una intervención humana.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+Cuando los servicios de hospedaje se oferten a través de una persona física o moral en su carácter de intermediaria, promotora o facilitadora, ésta deberá recaudar y enterar el impuesto a que refiere el presente artículo.
 
 #### SECCIÓN II. DE LA BASE Y DE LA TASA
 
@@ -213,13 +227,21 @@ En ningún caso se considerará que el Impuesto al Valor Agregado forma parte de
 
 El impuesto que regula este Capítulo se calculará por ejercicios fiscales, que coincidirán con el año de calendario. Cuando se inicien actividades con posterioridad al 1o de enero, el ejercicio fiscal será irregular, iniciándose el día en que comiencen las actividades según el aviso de inscripción en el Registro Estatal de Contribuyentes y terminará el 31 de diciembre del año de que se trate.
 
-Los sujetos del impuesto deberán efectuar pagos provisionales mensuales en la oficina recaudadora que corresponda a su domicilio, a través de medios electrónicos en los sitios de internet o en la sucursal que elijan de las instituciones bancarias que en su caso, se autoricen por la Secretaría de Finanzas y Administración, por cada uno de los establecimientos en los que se preste el servicio objeto de este impuesto, mediante declaración que deberá presentarse a más tardar el 17 del mes siguiente, a aquel al que el impuesto corresponda.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-Para efectos de la determinación del monto de los pagos provisionales, se deberá considerar también como base, el importe de los anticipos que en su caso, se reciban por reservaciones de los servicios objeto de este impuesto, dentro del mes en que estos hechos ocurran y el saldo en el mes en que se presten los servicios contratados.
+Los sujetos del impuesto deberán efectuar pagos provisionales mensuales en la oficina recaudadora que corresponda a su domicilio, a través de medios electrónicos en los sitios de internet o en la sucursal que elijan de las instituciones bancarias que en su caso, se autoricen por el Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, por cada uno de los establecimientos en los que se preste el servicio objeto de este impuesto, mediante declaración que deberá presentarse a más tardar el 17 del mes siguiente, a aquel al que el impuesto corresponda.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+Para efectos de la determinación del monto de los pagos provisionales, se deberá considerar también como base, el importe de los anticipos que, en su caso, se reciban por reservaciones de los servicios objeto de este impuesto, dentro del mes en que estos hechos ocurran y el saldo en el mes en que se presten los servicios contratados.
 
 El Impuesto del ejercicio, deducidos los pagos provisionales se pagaran mediante declaración anual que se presentará en las oficinas señaladas en el segundo párrafo de este Artículo, a más tardar el 31 de marzo del año siguiente a aquel en que se cause el Impuesto.
 
 Cuando los días 17 y 31, a que se refieren los párrafos anteriores, sea un día inhábil o las oficinas de la autoridad se encuentren cerradas, el plazo se prorrogará, conforme al «calendario de pago» que se establece en la fracción II del artículo 47 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+Cuando el servicio se preste a través de personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras recauden este impuesto, se tendrán por cumplidas las obligaciones establecidas en este artículo a través de la declaración que el recaudador presente en términos de las reglas de carácter general, que para tal efecto emita el Servicio de Administración Tributaria del Estado de Michoacán de Ocampo.
 
 ###### ARTÍCULO 16.
 
@@ -240,6 +262,14 @@ II. Presentar ante las mismas oficinas a que se refiere la fracción anterior, d
 III. Presentar los avisos, datos, documentos e informes que le sean requeridos por la autoridad fiscal, en relación con este impuesto, en los términos que se señalen en el documento respectivo; y,
 
 IV. Registrar en la contabilidad que están obligados a llevar conforme al Código Fiscal de la Federación y su Reglamento, por cada uno de los establecimientos, cada operación de prestación de servicios por la que se deba pagar este impuesto y sus características, relacionándolas con la documentación comprobatoria, de tal forma que se pueda identificar claramente la base y el impuesto que corresponda en cada caso.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+Aquellos contribuyentes que únicamente presten el servicio de hospedaje a través de una persona física o moral que realice la retención y entero del impuesto no tendrán que cumplir con los requisitos señalados en las fracciones I, II y IV.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+Las personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras recauden este impuesto, deberán registrarse ante el Registro Estatal de Contribuyentes, en términos de las reglas que al efecto emita el Servicio de Administración Tributaria del Estado de Michoacán de Ocampo.
 
 ###### ARTÍCULO 18.
 
@@ -281,11 +311,15 @@ En el precio de la venta final no deberá trasladarse o señalarse en forma expr
 
 El impuesto se causará en el momento en que el enajenante perciba efectivamente el importe correspondiente al precio de venta final de las bebidas con contenido alcohólico objeto del presente Capítulo, igualmente, cuando las contraprestaciones se paguen parcialmente, el impuesto se calculará aplicando a la parte de la contraprestación pagada, la tasa respectiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 24.
 
-El impuesto materia del presente Capítulo se calculará mensualmente y se pagará a más tardar el día 17 del mes siguiente a aquél al que corresponda su causación. Los pagos mensuales se realizarán en los términos que al efecto se establezcan en esta Ley y tendrán el carácter de definitivos, el cual será enterado por el enajenante mediante declaración en la forma oficial aprobada por la Secretaría de Finanzas y Administración.
+El impuesto materia del presente Capítulo se calculará mensualmente y se pagará a más tardar el día 17 del mes siguiente a aquél al que corresponda su causación. Los pagos mensuales se realizarán en los términos que al efecto se establezcan en esta Ley y tendrán el carácter de definitivos, el cual será enterado por el enajenante mediante declaración en la forma oficial aprobada por el Servicio de Administración Tributaria del Estado de Michoacán de Ocampo.
 
-La Secretaría de Finanzas y Administración podrá acordar con la Secretaría de Hacienda y Crédito Público, que el impuesto materia del presente Capítulo, se pague en las mismas declaraciones del Impuesto sobre la Renta.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+El Servicio de Administración Tributaria del Estado de Michoacán de Ocampo podrá acordar con la Secretaría de Hacienda y Crédito Público, que el impuesto materia del presente Capítulo, se pague en las mismas declaraciones del Impuesto sobre la Renta.
 
 Este impuesto no será acreditable contra otros impuestos locales o federales.
 
@@ -297,15 +331,19 @@ No se causará este impuesto por la venta de bebidas alcohólicas cuando éstas 
 
 Los contribuyentes de este impuesto, además de las obligaciones establecidas en esta Ley y en las demás disposiciones fiscales, tendrán las siguientes:
 
-I. Registrarse ante la Secretaría de Finanzas y Administración, mediante aviso que será presentado en las formas o medios electrónicos, que para tal efecto autorice dicha dependencia;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+I. Registrarse ante el Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, mediante aviso que será presentado en las formas o medios electrónicos, que para tal efecto autorice dicha entidad;
 
 II. Llevar un registro pormenorizado de las ventas a que se refiere el artículo 20 de esta Ley, por cada establecimiento, local, agencia o sucursal en que se efectúen, identificando los montos de cada una de dichas operaciones y las cantidades que integran la base del impuesto; y,
 
 III. Expedir comprobante por cada una de las operaciones, sin que el impuesto establecido en este Capítulo se traslade en forma expresa y por separado.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 27.
 
-Los municipios y demás autoridades vinculadas con el impuesto tendrán la obligación de proporcionar a la Secretaría de Finanzas y Administración, de forma trimestral la información con la que cuenten sobre los establecimientos que realicen actividades relacionadas con este impuesto, a fin de mantener actualizado el padrón correspondiente y ejercer las facultades con que cuenta la autoridad fiscal.
+Los municipios y demás autoridades vinculadas con el impuesto tendrán la obligación de proporcionar al Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, de forma trimestral la información con la que cuenten sobre los establecimientos que realicen actividades relacionadas con este impuesto, a fin de mantener actualizado el padrón correspondiente y ejercer las facultades con que cuenta la autoridad fiscal.
 
 ###### ARTÍCULO 28.
 
@@ -349,9 +387,11 @@ Las erogaciones a que se refiere el párrafo anterior, incluyen la carga y cualq
 
 El impuesto se causará en el momento en que el sujeto pague al operador del establecimiento, los montos o contraprestaciones que le permitan participar en dichos juegos con apuestas y hasta por el monto de cada pago que se realice de manera directa o a través de otro usuario distinto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 32.
 
-El operador del establecimiento en el que se realicen los juegos o concursos o en el que se encuentren instaladas las máquinas de juegos, recaudará este impuesto, al momento de recibir el pago o contraprestación correspondiente, y deberá presentar la declaración respectiva en los formatos que para tal efecto apruebe la Secretaría de Finanzas y Administración, para ser enterado ante las Administraciones y Receptorías de Rentas, así como en las instituciones bancarias y demás oficinas que en su caso, se autorice por la misma Secretaría, a más tardar el día 17 del mes calendario siguiente al de la fecha de su recaudación o el día hábil siguiente si cayera en día inhábil.
+El operador del establecimiento en el que se realicen los juegos o concursos o en el que se encuentren instaladas las máquinas de juegos, recaudará este impuesto, al momento de recibir el pago o contraprestación correspondiente, y deberá presentar la declaración respectiva en los formatos que para tal efecto apruebe el Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, para ser enterado ante las Unidades Administrativas Regionales, así como en las instituciones bancarias y demás oficinas que en su caso, se autorice por el Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, a más tardar el día 17 del mes calendario siguiente al de la fecha de su recaudación o el día hábil siguiente si cayera en día inhábil.
 
 Cuando el pago o contraprestación a favor del operador del establecimiento, se realice en especie, el contribuyente deberá proveer de recursos en efectivo al mismo operador para que éste pueda recaudar el impuesto.
 
@@ -381,7 +421,9 @@ IV. Los propietarios o legítimos poseedores de las máquinas de juegos a que se
 
 Quienes efectúen las retenciones del impuesto a que se refiere este Capítulo, tendrán las siguientes obligaciones:
 
-I. Inscribirse en el Registro Estatal de Contribuyentes, a través de la oficina recaudadora que corresponda a su domicilio, dentro de los 15 días hábiles siguientes a la fecha de inicio de sus actividades, mediante la presentación de la forma que al efecto autorice la Secretaría de Finanzas y Administración, debiendo adjuntar a la misma, copia de la solicitud de inscripción al Registro Federal de Contribuyentes de la Secretaría de Hacienda y Crédito Público, en la que conste información relacionada con su identidad, que podrá comprender, entre otros datos, nombre, denominación o razón social, actividad, domicilio o ubicación de cada establecimiento u oficina central cuando se trate de instituciones oficiales y en general, los demás datos que permitan su identificación precisa para los efectos de este impuesto;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+I. Inscribirse en el Registro Estatal de Contribuyentes, a través de la oficina recaudadora que corresponda a su domicilio, dentro de los 15 días hábiles siguientes a la fecha de inicio de sus actividades, mediante la presentación de la forma que al efecto autorice el Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, debiendo adjuntar a la misma, copia de la solicitud de inscripción al Registro Federal de Contribuyentes de la Secretaría de Hacienda y Crédito Público, en la que conste información relacionada con su identidad, que podrá comprender, entre otros datos, nombre, denominación o razón social, actividad, domicilio o ubicación de cada establecimiento u oficina central cuando se trate de instituciones oficiales y en general, los demás datos que permitan su identificación precisa para los efectos de este impuesto;
 
 II. Presentar ante las mismas oficinas a que se refiere el párrafo anterior, dentro del plazo señalado, los avisos de cambio de denominación o razón social, cambio de domicilio fiscal, suspensión o reanudación de actividades, apertura o cierre de establecimientos, de liquidación o apertura de sucesión y de cancelación en el Registro Estatal de Contribuyentes.
 
@@ -425,9 +467,11 @@ El impuesto se calculará aplicando la tasa del 20%, al monto total nominal del 
 
 #### SECCIÓN III. DEL MOMENTO DE CAUSACIÓN Y ÉPOCA DE PAGO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 38.
 
-El impuesto se causará en el momento en que el sujeto obligado reciba el premio correspondiente del establecimiento en el que se realicen los juegos o concursos o en el que se encuentren instaladas las máquinas de juegos o del responsable de entregar el premio, sea cualquiera el nombre con el que se le conozca, y serán quienes entreguen el premio, el responsable de recaudar el impuesto a que se refiere el presente Capítulo, reteniendo de dicho premio, el monto correspondiente al impuesto, y deberá presentar la declaración respectiva en los formatos que para tal efecto apruebe la Secretaría de Finanzas y Administración, para ser enterado ante las Administraciones y Receptorías de Rentas, así como en las instituciones bancarias y demás oficinas que en su caso, se autorice por la misma Secretaría, a más tardar el día 17 del mes calendario siguiente al de la fecha de su recaudación o el día hábil siguiente si cayera en día inhábil.
+El impuesto se causará en el momento en que el sujeto obligado reciba el premio correspondiente del establecimiento en el que se realicen los juegos o concursos o en el que se encuentren instaladas las máquinas de juegos o del responsable de entregar el premio, sea cualquiera el nombre con el que se le conozca, y serán quienes entreguen el premio, el responsable de recaudar el impuesto a que se refiere el presente Capítulo, reteniendo de dicho premio, el monto correspondiente al impuesto, y deberá presentar la declaración respectiva en los formatos que para tal efecto apruebe el Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, para ser enterado ante las Unidades Administrativas Regionales, así como en las instituciones bancarias y demás oficinas que en su caso, se autorice por el Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, a más tardar el día 17 del mes calendario siguiente al de la fecha de su recaudación o el día hábil siguiente si cayera en día inhábil.
 
 Cuando el premio se pague en especie, el contribuyente deberá proveer de recursos en efectivo al retenedor para que éste pueda recaudar el impuesto. La omisión del contribuyente a lo previsto en este párrafo, no libera al retenedor de la responsabilidad solidaria prevista en el artículo 40 de esta Ley.
 
@@ -445,9 +489,13 @@ Serán responsables solidarios del impuesto, el establecimiento en el que realic
 
 Quienes entreguen los premios a que se refiere este Capítulo, además de efectuar las retenciones de este impuesto, tendrán las siguientes obligaciones:
 
-I. Inscribirse en el Registro Estatal de Contribuyentes, a través de la oficina recaudadora que corresponda a su domicilio, dentro de los 30 días hábiles siguientes a la fecha de inicio de sus actividades, mediante la presentación de la forma que al efecto autorice la Secretaría de Finanzas y Administración, debiendo adjuntar a la misma, copia de la solicitud de inscripción al Registro Federal de Contribuyentes de la Secretaría de Hacienda y Crédito Público, en la que conste información relacionada con su identidad, que podrá comprender, entre otros datos, nombre, denominación o razón social, actividad, domicilio o ubicación de cada establecimiento u oficina central cuando se trate de instituciones oficiales y en general, los demás datos que permitan su identificación precisa para los efectos de este impuesto;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-II. Presentar ante las mismas oficinas a que se refiere el párrafo anterior, dentro del plazo señalado, los avisos de cambio de denominación o razón social, cambio de domicilio fiscal domicilio (sic), suspensión o reanudación de actividades, apertura o cierre de establecimientos, de liquidación o apertura de sucesión y de cancelación en el Registro Estatal de Contribuyentes.
+I. Inscribirse en el Registro Estatal de Contribuyentes, a través de la oficina recaudadora que corresponda a su domicilio, dentro de los 30 días hábiles siguientes a la fecha de inicio de sus actividades, mediante la presentación de la forma que al efecto autorice el Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, debiendo adjuntar a la misma, copia de la solicitud de inscripción al Registro Federal de Contribuyentes de la Secretaría de Hacienda y Crédito Público, en la que conste información relacionada con su identidad, que podrá comprender, entre otros datos, nombre, denominación o razón social, actividad, domicilio o ubicación de cada establecimiento u oficina central cuando se trate de instituciones oficiales y en general, los demás datos que permitan su identificación precisa para los efectos de este impuesto;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+II. Presentar ante las mismas oficinas a que se refiere el párrafo anterior, dentro del plazo señalado, los avisos de cambio de denominación o razón social, cambio de domicilio fiscal, suspensión o reanudación de actividades, apertura o cierre de establecimientos, de liquidación o apertura de sucesión y de cancelación en el Registro Estatal de Contribuyentes.
 
 Para efectos de lo dispuesto en esta fracción, se aplicarán supletoriamente las disposiciones que regulan esta materia, establecidas en el Código Fiscal de la Federación y su Reglamento, así como el Código Fiscal del Estado;
 
@@ -517,9 +565,11 @@ Tampoco formarán parte de las remuneraciones afectas al pago de este Impuesto, 
 
 El Impuesto a que se refiere este Capítulo, se determinará, aplicando la tasa del 3% sobre el monto total de las erogaciones realizadas por conceptos de remuneraciones al trabajo personal subordinado.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 46.
 
-El Secretario de Finanzas y Administración, estará facultado para emitir disposiciones administrativas de carácter general, conforme al presente Capítulo, con el objeto de facilitar el cumplimiento de las obligaciones establecidas en el mismo.
+El Director General del Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, estará facultado para emitir disposiciones administrativas de carácter general, conforme al presente Capítulo, con el objeto de facilitar el cumplimiento de las obligaciones establecidas en el mismo.
 
 #### SECCIÓN III. OBLIGACIONES Y EL PAGO
 
@@ -531,7 +581,9 @@ Cuando los sujetos de este impuesto inicien actividades con posterioridad al 1 d
 
 El impuesto se causará en el momento en que se realicen las erogaciones por el trabajo personal prestado bajo la dirección y dependencia de un patrón, y su pago será de la siguiente manera:
 
-I. Se harán pagos provisionales mensuales a más tardar el 17 del mes siguiente a aquel en que se cause, mediante declaración provisional que deberá presentarse en la oficina recaudadora que corresponda al domicilio del contribuyente, o a través de los medios electrónicos en los sitios de internet o en las sucursales de las instituciones autorizadas por la Secretaría de Finanzas y Administración; y,
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+I. Se harán pagos provisionales mensuales a más tardar el 17 del mes siguiente a aquel en que se cause, mediante declaración provisional que deberá presentarse en la oficina recaudadora que corresponda al domicilio del contribuyente, o a través de los medios electrónicos en los sitios de internet o en las sucursales de las instituciones autorizadas por el Servicio de Administración Tributaria del Estado de Michoacán de Ocampo; y,
 
 II. El impuesto correspondiente al ejercicio fiscal de que se trate deducidos los pagos provisionales, se pagará mediante declaración anual que se presentará en las oficinas señaladas en la fracción I anterior, deberá efectuarse mediante declaración anual, a más tardar el 31 de marzo del año siguiente a aquel en que se cause el impuesto.
 
@@ -571,7 +623,9 @@ Los obligados al pago de este impuesto, además de las obligaciones señaladas e
 
 las siguientes:
 
-I. Inscribirse en el Registro Estatal de Contribuyentes, a través de la oficina recaudadora que corresponda a su domicilio, dentro de los 30 días hábiles siguientes a la fecha de inicio de sus actividades, mediante la presentación de la forma que al efecto autorice la Secretaría de Finanzas y Administración, debiendo adjuntar a la misma, copia de la solicitud de inscripción al Registro Federal de Contribuyentes de la Secretaría de Hacienda y Crédito Público, en la que conste la información relacionada con su identidad, que podrá comprender, entre otros datos, nombre, denominación o razón social, actividad, domicilio o ubicación de cada establecimiento u oficina central cuando se trate de instituciones oficiales y en general, los demás datos que permitan su identificación precisa para los efectos de este impuesto.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+I. Inscribirse en el Registro Estatal de Contribuyentes, a través de la oficina recaudadora que corresponda a su domicilio, dentro de los 30 días hábiles siguientes a la fecha de inicio de sus actividades, mediante la presentación de la forma que al efecto autorice el Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, debiendo adjuntar a la misma, copia de la solicitud de inscripción al Registro Federal de Contribuyentes de la Secretaría de Hacienda y Crédito Público, en la que conste la información relacionada con su identidad, que podrá comprender, entre otros datos, nombre, denominación o razón social, actividad, domicilio o ubicación de cada establecimiento u oficina central cuando se trate de instituciones oficiales y en general, los demás datos que permitan su identificación precisa para los efectos de este impuesto.
 
 Asimismo, deberán presentar copia de la cédula de identificación fiscal expedida por la Secretaría de Hacienda y Crédito Público, así como copia del acta constitutiva donde conste el nombre del representante legal de la persona moral. En caso de no estar especificado en dicha acta, anexar copia del poder notarial expedido al representante legal, así como copia fotostática legible del documento donde conste el Número de Registro Patronal, expedido por el Instituto Mexicano del Seguro Social;
 
@@ -591,7 +645,9 @@ El Ejecutivo del Estado al presentar la Cuenta Pública de la Hacienda Estatal, 
 
 Tratándose de las contribuciones por concepto de impuestos a que se refiere el presente Título, que no hayan sido cubiertas en la fecha o dentro del plazo fijado por este mismo Capítulo, se causarán accesorios en términos de lo previsto por el Código Fiscal del Estado de Michoacán de Ocampo, además de recargos de acuerdo a las tasas que establezca anualmente la Ley de Ingresos del Estado.
 
-### CAPÍTULO VII (SIC). ACCESORIOS DE IMPUESTOS
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO VIII. ACCESORIOS DE IMPUESTOS
 
 ###### ARTÍCULO 53.
 
@@ -605,7 +661,9 @@ Tratándose de los impuestos a que se refiere el presente título, que no hayan 
 
 Las contribuciones de mejoras que se establezcan a cargo de las personas físicas y morales que se beneficien de manera directa con alguna obra o servicio público, que sean destinadas a cubrir los gastos que requiera la propia obra o servicio de que se trate, se regularán a través del acuerdo que se suscriba para tal efecto. Las obras o servicios públicos que por su costo financiero requieran de lineamientos específicos, éstos se establecerán por parte de las dependencias y entidades estatales correspondientes, en el acuerdo o decreto administrativo correspondiente.
 
-De los acuerdos o decretos señalados en el párrafo anterior, deberá proporcionarse copia a la Secretaría de Finanzas y Administración dentro de los 15 días hábiles siguientes a la fecha de su firma, a efecto de que se realice la recaudación de las contribuciones concertadas.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+De los acuerdos o decretos señalados en el párrafo anterior, deberá proporcionarse copia al Servicio de Administración Tributaria del Estado de Michoacán de Ocampo dentro de los 15 días hábiles siguientes a la fecha de su firma, a efecto de que se realice la recaudación de las contribuciones concertadas.
 
 ## TÍTULO CUARTO. DE LOS DERECHOS
 
@@ -627,9 +685,11 @@ Los derechos que se establecen en esta Ley se pagarán en el monto, forma, lugar
 
 Cuando en el capítulo respectivo de Derechos de la Ley de Ingresos del Estado para el ejercicio fiscal respectivo no se establezca la forma, lugar y época de pago, se aplicarán las disposiciones previstas en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 57.
 
-Las personas físicas y morales pagarán los derechos que se establecen en esta Ley, en la oficina recaudadora que corresponda al domicilio del contribuyente; a través de los medios electrónicos en los sitios de Internet; en las tiendas de conveniencia o sucursales de las instituciones financieras autorizadas por la Secretaría de Finanzas y Administración, conforme a los requisitos y procedimientos que ésta establezca, debiéndoseles expedir los recibos oficiales correspondientes.
+Las personas físicas y morales pagarán los derechos que se establecen en esta Ley, en la oficina recaudadora que corresponda al domicilio del contribuyente; a través de los medios electrónicos en los sitios de Internet; en las tiendas de conveniencia o sucursales de las instituciones financieras autorizadas por el Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, conforme a los requisitos y procedimientos que ésta establezca, debiéndoseles expedir los recibos oficiales correspondientes.
 
 El pago de los derechos deberá hacerse por el contribuyente previo a la prestación de los servicios o previo al uso, goce, explotación o aprovechamiento de bienes de dominio público del Estado, salvo los casos en que expresamente se señale que sea posterior.
 
@@ -639,7 +699,9 @@ Cuando no se presente el recibo de pago o una vez recibido el mismo se observe q
 
 I. Requerirá al contribuyente para que en un plazo no mayor a 10 días hábiles presente copia del recibo o, en su caso, efectúe la aclaración correspondiente;
 
-II. Una vez transcurrido el plazo a que se refiere la fracción anterior, si el contribuyente no hubiere presentado la declaración o aclaración correspondiente o de haberla presentado subsistan las diferencias, sin perjuicio de otros procedimientos de aclaración que se señalen en esta Ley, el encargado de la prestación de los servicios públicos o del otorgamiento del uso, goce, explotación o aprovechamiento de los bienes de dominio público del Estado, procederá a determinar los adeudos en el pago de los derechos y remitirá dicha determinación a la Dirección de Recaudación de la Secretaría de Finanzas y Administración, a fin de que éste último realice la notificación del adeudo y, en su caso, el requerimiento de pago correspondiente; y,
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+II. Una vez transcurrido el plazo a que se refiere la fracción anterior, si el contribuyente no hubiere presentado la declaración o aclaración correspondiente o de haberla presentado subsistan las diferencias, sin perjuicio de otros procedimientos de aclaración que se señalen en esta Ley, el encargado de la prestación de los servicios públicos o del otorgamiento del uso, goce, explotación o aprovechamiento de los bienes de dominio público del Estado, procederá a determinar los adeudos en el pago de los derechos y remitirá dicha determinación a la Dirección de Recaudación del Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, a fin de que éste último realice la notificación del adeudo y, en su caso, el requerimiento de pago correspondiente; y,
 
 III. Deberá suspender el servicio o interrumpir el uso, goce, explotación o aprovechamiento del bien de que se trate.
 
@@ -667,9 +729,11 @@ Asimismo, tampoco se cubrirá el derecho correspondiente cuando las copias simpl
 
 Cuando por causas no imputables a los solicitantes de alguno de los servicios a que se refiere la presente Ley, fuere necesario reponer o modificar algún registro, documento o trámite, no se les cobrará los derechos correspondientes a la reposición o modificación, siempre y cuando lo soliciten dentro de los 25 días hábiles posteriores a la fecha de expedición del servicio.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 61.
 
-Las dependencias y entidades del Poder Ejecutivo del Estado deberán informar a la Secretaría de Finanzas y Administración a los diez días hábiles posteriores a cada trimestre del ejercicio fiscal vigente, los montos de los ingresos por concepto de derechos o cualquier otro concepto, que se haya estimado, respecto de los percibidos, así como la justificación de la variación existente entre ambos.
+Las dependencias y entidades del Poder Ejecutivo del Estado deberán informar a la Secretaría de Finanzas y Administración, y al Servicio de Administración Tributaria del Estado de Michoacán de Ocampo a los diez días hábiles posteriores a cada trimestre del ejercicio fiscal vigente, los montos de los ingresos por concepto de derechos o cualquier otro concepto, que se haya estimado, respecto de los percibidos, así como la justificación de la variación existente entre ambos.
 
 ###### ARTÍCULO 62.
 
@@ -681,7 +745,9 @@ I. Por expedición de placas de circulación, incluyendo tarjeta de circulación
 
 II. Por refrendo anual de circulación;
 
-III. Por renovación o refrendo anual de concesiones de servicio público.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+III. Por revalidación o refrendo anual de concesiones de servicio público.
 
 La expedición de permisos provisionales para circular sin placas, procederá únicamente tratándose de vehículos, que tengan que ser trasladados de la localidad donde se adquieran, a la localidad donde el adquirente realice el trámite de obtención de placas, en función de su domicilio.
 
@@ -689,25 +755,31 @@ Los permisos a que se refiere el párrafo inmediato anterior sólo podrán exped
 
 Queda estrictamente prohibido la venta de permisos de otras entidades dentro del Estado de Michoacán de Ocampo, y a quien se encuentre realizando la enajenación o trasmisión bajo cualquier título, se le sancionará con multa de 5000 Unidades de Medida y Actualización
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 63.
 
-Los servicios a que se refieren las fracciones I, II y III del artículo anterior, se prestarán por la Secretaría de Finanzas y Administración, en los siguientes plazos:
+Los servicios a que se refieren las fracciones I, II y III del artículo anterior, se prestarán por el Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, en los siguientes plazos:
 
 I. La expedición original de placas de circulación para los vehículos, dentro de los quince días hábiles siguientes a la fecha de adquisición del vehículo.
 
 Tratándose de vehículos de servicio público, en la misma fecha en que se expida la concesión; y,
 
-II. El holograma de circulación de carácter anual, se cubrirá dentro de los primeros cuatro meses del año calendario de que se trate;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+II. El refrendo anual de circulación, se cubrirá dentro de los primeros cuatro meses del año calendario de que se trate;
 
 En los ejercicios fiscales en que, por disposición de la autoridad competente, se realice canje general de placas, el trámite se realizará en los mismos plazos a que se refieren la fracción anterior, o en su caso, cuando así lo disponga la Ley de Ingresos del Estado, para el Ejercicio Fiscal respectivo.
 
 Con la finalidad de tener actualizado el «Registro Estatal Vehicular», las personas físicas y morales tenedoras o usuarias de vehículos que cambien su lugar de residencia, ya sea en el interior del Estado, o que se cambien de otra entidad federativa al Estado de Michoacán de Ocampo, deberán presentar aviso de cambio de domicilio, en los primeros treinta días hábiles, posteriores a dicho cambio.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 64.
 
-Los servicios de renovación anual de concesiones de servicio público a que se refiere la fracción III del artículo 62 de esta Ley, se realizarán por la autoridad competente, dentro de los mismos plazos a que se refiere la fracción II del artículo anterior. Asimismo, se realizarán por la autoridad los trámites relativos a la expedición por primera vez de las concesiones de servicio público.
+Los servicios de revalidación anual de concesiones de servicio público a que se refiere la fracción III del artículo 62 de esta Ley, se realizarán por la autoridad competente, dentro de los mismos plazos a que se refiere la fracción II del artículo anterior. Asimismo, se realizarán por la autoridad los trámites relativos a la expedición por primera vez de las concesiones de servicio público.
 
-Simultáneamente con la prestación de servicios de expedición y renovación de concesiones a que se refiere el párrafo anterior, la Secretaría de Finanzas y Administración realizará el cobro de los derechos correspondientes, conforme a las cuotas que prevé la Ley de Ingresos del Estado para el ejercicio fiscal de que se trate.
+Simultáneamente con la prestación de servicios de expedición y revalidación de concesiones a que se refiere el párrafo anterior, el Servicio de Administración Tributaria del Estado de Michoacán de Ocampo realizará el cobro de los derechos correspondientes, conforme a las cuotas que prevé la Ley de Ingresos del Estado para el ejercicio fiscal de que se trate.
 
 ###### ARTÍCULO 65.
 
@@ -715,19 +787,25 @@ Por cada cambio de vehículos de servicio público se pagará el costo de la tar
 
 La prestación de este servicio se hará dentro del plazo de dos meses a partir de la fecha de la cancelación del registro autorizado.
 
-La revalidación de concesiones deberá realizarse de acuerdo con el calendario oficial que señale la Comisión Coordinadora del Transporte Público de Michoacán de Ocampo.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+La revalidación de concesiones deberá realizarse de acuerdo con el calendario oficial que señale el Instituto del Transporte del Estado de Michoacán de Ocampo.
 
 ###### ARTÍCULO 66.
 
 Los derechos por los servicios periódicos que preste el Gobierno del Estado, que no sean pagados dentro de los plazos a que se refiere la presente Ley o la Ley de Ingresos del Estado, para el ejercicio fiscal respectivo, causarán recargos conforme a la tasa que establezca la Ley de Ingresos del Estado para el ejercicio de que se trate, además de multas y demás accesorios que se generen conforme al Código Fiscal del Estado de Michoacán de Ocampo.
 
-La Secretaría de Finanzas y Administración, exigirá el cumplimiento de las obligaciones periódicas a que se refiere este título, mediante la aplicación del procedimiento administrativo de ejecución conforme al Código Fiscal del Estado de Michoacán de Ocampo, cuando éstas no se cumplan dentro de los plazos establecidos.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+El Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, exigirá el cumplimiento de las obligaciones periódicas a que se refiere este título, mediante la aplicación del procedimiento administrativo de ejecución conforme al Código Fiscal del Estado de Michoacán de Ocampo, cuando éstas no se cumplan dentro de los plazos establecidos.
 
 La autoridad de tránsito municipal y en su caso, por virtud de los convenios que se celebren, la autoridad de tránsito del Estado podrá retirar de la circulación a los vehículos que hayan sido embargados a sus propietarios, previa designación de la autoridad que corresponda, como depositaria de los mismos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 67.
 
-La Secretaría de Finanzas y Administración, simultáneamente a la recaudación de los «Derechos por Servicios de Transporte Público», llevará el registro y control de vehículos, para lo cual deberá establecer y mantener actualizado el «Registro Estatal Vehicular» para su integración a la «Red Nacional del Sistema Automatizado del Registro Público Vehicular» mediante la realización de las siguientes actividades:
+El Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, simultáneamente a la recaudación de los "Derechos por Servicios de Transporte Público", llevará el registro y control de vehículos, para lo cual deberá establecer y mantener actualizado el "Registro Estatal Vehicular" para su integración a la "Red Nacional del Sistema Automatizado del Registro Público Vehicular" mediante la realización de las siguientes actividades:
 
 I. Efectuar los trámites de altas, bajas, cambios y rectificaciones que procedan en el registro, conforme a las reglas generales que expida la Secretaría de Hacienda y Crédito Público;
 
@@ -827,7 +905,9 @@ I. Rendimiento o intereses de capital y valores del Estado;
 
 II. Venta de publicaciones del Periódico Oficial del Estado;
 
-III. Venta de publicaciones oficiales, leyes y reglamentos que edite el Poder Ejecutivo del Estado, conforme al costo señalado por la por la Dependencia respectiva;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+III. Venta de publicaciones oficiales, leyes y reglamentos que edite el Poder Ejecutivo del Estado, conforme al costo señalado por la Dependencia respectiva;
 
 IV. Suministro de calcomanías u hologramas y certificados para verificación vehicular de emisiones contaminantes; y,
 
@@ -861,7 +941,9 @@ A) Conforme al monto que determine el Comité de Adquisiciones del Poder Ejecuti
 
 B) Conforme al monto que determine la dependencia o entidad de que se trate, el cual debe resultar suficiente para recuperar el costo de la elaboración de las bases de licitación y de la publicación de la convocatoria respectiva o envío de las cartas de invitación, para la ejecución de obra pública.
 
-Independientemente de la Dependencia, o Entidad de la Administración pública que realice la adjudicación de contratos a que se refieren los incisos anteriores, el importe que se cobre a los proveedores de bienes y servicios y contratistas de obra, deberá enterarse en la caja de la Secretaría de Finanzas y Administración;
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+Independientemente de la Dependencia, o Entidad de la Administración pública que realice la adjudicación de contratos a que se refieren los incisos anteriores, el importe que se cobre a los proveedores de bienes y servicios y contratistas de obra, deberá enterarse en la caja del Servicio de Administración Tributaria del Estado de Michoacán de Ocampo;
 
 VII. Cuotas de Recuperación de los Centros de Comercialización y Abasto Popular;
 
@@ -891,7 +973,9 @@ XIX. Enajenación de Bienes Muebles e Inmuebles;
 
 XX. Los contratistas con quienes se celebren contratos de obra pública o de servicios relacionados con la misma, cubrirán un cinco al millar sobre el importe de cada una de las estimaciones de trabajo, para los servicios de vigilancia, inspección y control necesarios para su ejecución. De conformidad con lo dispuesto por el Artículo 43 de la Ley de Obra Pública y Servicios Relacionados con la misma para el Estado de Michoacán de Ocampo y sus Municipios, y al Acuerdo de Coordinación que celebran la Secretaría de la Función Pública y el Estado de Michoacán de Ocampo, cuyo objeto es la realización de un programa de coordinación especial denominado Fortalecimiento del Sistema Estatal de Control y Evaluación de la Gestión Pública, y Colaboración en materia de Transparencia y Combate a la Corrupción, publicado en el Diario Oficial de la Federación el 1 de noviembre del año 2012.
 
-La Secretaría de Finanzas y Administración, y en su caso, las Entidades Paraestatales y organismos autónomos, al cubrir cada una de las estimaciones o pagos, retendrán el importe correspondiente a la aplicación del derecho a que se refiere esta fracción.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+El Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, y en su caso, las Entidades Paraestatales y organismos autónomos, al cubrir cada una de las estimaciones o pagos, retendrán el importe correspondiente a la aplicación del derecho a que se refiere esta fracción.
 
 Las dependencias u organismos públicos federales, estatales o municipales que suscriban convenios o contratos con alguna de las dependencias o entidades paraestatales de la Administración Pública del Estado, por los actos a que se refiere el primer párrafo de esta Fracción, estarán obligados a realizar el pago de los Derechos por los servicios a que se refiere la misma;
 
@@ -925,9 +1009,11 @@ B) Servicios para tramitar el Pasaporte ante la Secretaría de Relaciones Exteri
 
 I. Por los servicios y documentos necesarios para tramitar el Pasaporte en oficinas estatales que funcionan como enlace de la Secretaría de Relaciones Exteriores. (No incluye fotografías).
 
-C) Cuando los predios que deban donarse a favor del Gobierno del Estado, en términos de lo establecido por el Artículo 329 del Código de Desarrollo Urbano del Estado de Michoacán de Ocampo, fueren muy pequeñas de difícil aprovechamiento, la Secretaría de Finanzas y Administración, recaudará su equivalente en moneda nacional, conforme a los valores que se determinen.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-Cuando se trate de donaciones a favor del Gobierno del Estado, en cumplimiento de la obligación establecida en el citado artículo 329 del Código de Desarrollo Urbano del Estado de Michoacán de Ocampo, la Secretaría de Finanzas y Administración por conducto de las autoridades catastrales, vigilará el cumplimiento de dicha obligación, al momento de que se le solicite el servicio de desglose a que se refiere el Capítulo Sexto del Título Primero de la Ley de Catastro del Estado de Michoacán de Ocampo; y,
+C) Cuando los predios que deban donarse a favor del Gobierno del Estado, en términos de lo establecido por el artículo 329 del Código de Desarrollo Urbano del Estado de Michoacán de Ocampo, fueren muy pequeñas de difícil aprovechamiento, el Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, recaudará su equivalente en moneda nacional, conforme a los valores que se determinen.
+
+Cuando se trate de donaciones a favor del Gobierno del Estado, en cumplimiento de la obligación establecida en el citado artículo 329 del Código de Desarrollo Urbano del Estado de Michoacán de Ocampo, el Instituto Registral y Catastral del Estado de Michoacán de Ocampo, vigilará el cumplimiento de dicha obligación, al momento de que se le solicite el servicio de desglose a que se refiere el Capítulo III del Título IV de la Ley de la Función Registral y Catastral del Estado de Michoacán de Ocampo; y,
 
 XXII. Otros no especificados.
 
@@ -1262,3 +1348,9 @@ DÉCIMO SEGUNDO. Túrnese el presente Decreto al Titular de la Auditoría Superi
 DÉCIMO TERCERO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, para sus efectos conducentes.
 
 DÉCIMO CUARTO. El Titular del Poder Ejecutivo del Estado, acompañado del refrendo del Secretario de Gobierno de conformidad con lo dispuesto por el artículo 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, dispondrá se publique y observe.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 602 POR EL QUE “SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 5; LOS ARTÍCULOS 11 Y 12; LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 15; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 24; LA FRACCIÓN I DEL ARTÍCULO 26; EL ARTÍCULO 27; EL PÁRRAFO PRIMERO DEL ARTÍCULO 32; LA FRACCIÓN I DEL ARTÍCULO 35; EL PÁRRAFO PRIMERO DEL ARTÍCULO 38; LAS FRACCIONES I Y II DEL ARTÍCULO 41; EL ARTÍCULO 46; LA FRACCIÓN I DEL PÁRRAFO TERCERO DEL ARTÍCULO 47; LA FRACCIÓN I DEL ARTÍCULO 50; EL CAPÍTULO VII (SIC) DEL TÍTULO SEGUNDO PARA DENOMINARSE CAPÍTULO VIII DEL MISMO TÍTULO SEGUNDO Y QUE CONTIENE EL ARTÍCULO 53; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 54; EL PÁRRAFO PRIMERO Y LA FRACCIÓN II DEL PÁRRAFO CUARTO DEL ARTÍCULO 57; EL ARTÍCULO 61; LA FRACCIÓN III DEL ARTÍCULO 62; EL PÁRRAFO PRIMERO Y LA FRACCIÓN II DEL ARTÍCULO 63; EL ARTÍCULO 64; PÁRRAFO TERCERO DEL ARTÍCULO 65; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 66; EL ARTÍCULO 67, PÁRRAFO PRIMERO; EL ARTÍCULO 70, FRACCIÓN III; EL SEGUNDO PÁRRAFO DEL INCISO B) DE LA FRACCIÓN VI, EL PÁRRAFO SEGUNDO DE LA FRACCIÓN XX Y EL INCISO C) DE LA FRACCIÓN XXI, TODOS DEL ARTÍCULO 71; Y, SE ADICIONAN UN ÚLTIMO PÁRRAFO AL ARTÍCULO 13; UN ÚLTIMO PÁRRAFO AL ARTÍCULO 15; Y, DOS PÁRRAFOS AL ARTÍCULO 17, TODOS DE LA LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día 1º de enero de 2024, previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
