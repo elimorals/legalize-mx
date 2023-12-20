@@ -4,7 +4,7 @@ identifier: "MIC-codigo-fiscal-del-estado-de-michoacan-de-ocampo-5965"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-02-27"
-last_updated: "2022-12-22"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 CÓDIGO FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 27 de febrero de 1992.
 
@@ -99,13 +99,17 @@ VII. Secretaría: A la Secretaría de Finanzas y Administración del Poder Ejecu
 
 VIII. Secretario: Al Titular de la Secretaría;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-IX. Oficina recaudadora: A las Administraciones y Receptorías de Rentas dentro de sus respectivas jurisdicciones; y,
+IX. SATMICH: Al Servicio de Administración Tributaria del Estado de Michoacán de Ocampo;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-X. Valor diario de la Unidad de Medida y Actualización: El valor de la Unidad de Medida y Actualización publicado por el Instituto Nacional de Estadística y Geografía, vigente para el ejercicio de que se trate, de conformidad con las leyes de la materia.
+X. Oficina recaudadora: A las Administraciones y Receptorías de Rentas dentro de sus respectivas jurisdicciones; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+XI. Valor diario de la Unidad de Medida y Actualización: El valor de la Unidad de Medida y Actualización publicado por el Instituto Nacional de Estadística y Geografía, vigente para el ejercicio de que se trate, de conformidad con las leyes de la materia.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -387,6 +391,10 @@ La práctica de diligencias por las autoridades fiscales deberá efectuarse en d
 
 Las autoridades fiscales para la práctica de visitas domiciliarias, de intervenciones, del procedimiento administrativo de ejecución, de notificaciones y de embargos precautorios, podrán habilitar los días y horas inhábiles, cuando la persona con quien se va a practicar la diligencia realice las actividades por las que deba pagar contribuciones en días u horas inhábiles; también se podrá continuar en días u horas inhábiles una diligencia iniciada en días u horas hábiles, cuando la continuación tenga por objeto el aseguramiento del interés fiscal.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+El buzón tributario se regirá conforme al horario de la Zona Centro de México, de conformidad con la Ley del Sistema de Horario en los Estados Unidos Mexicanos y el Decreto por el que se establece el horario estacional que se llegará a aplicar en el Estado de Michoacán.
+
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 16-A.
@@ -427,13 +435,19 @@ VIII. Las demás que éste Código y otros ordenamientos señalen.
 
 Son obligaciones de los contribuyentes:
 
-I. Inscribirse en el Registro Estatal de Contribuyente en un plazo que no excederá de treinta días a partir de la fecha en que se genere la obligación fiscal, utilizando las formas oficiales.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+I. Inscribirse en el Registro Estatal de Contribuyentes en un plazo que no excederá de treinta días a partir de la fecha en que se genere la obligación fiscal, utilizando las formas oficiales.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 Inscribir el vehículo en el padrón vehicular de la entidad, dentro de los quince días siguientes contados a partir de la fecha de adquisición;
 
 II. Señalar el domicilio fiscal en el que realicen actividades por las que se generen obligaciones fiscales, el cual será único para aquellos contribuyentes que cuenten con una o más sucursales, debiendo informar de los cambios de domicilio. Cuando en las formas de declaración se prevea el señalamiento de cambio de domicilio fiscal y así se manifieste, se considerará presentado el aviso a que se refiere este artículo al presentar dicha declaración ante la autoridad recaudadora correspondiente;
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+Señalar la dirección de correo electrónico para recibir notificaciones.
 
 III. Consignar en las declaraciones, manifestaciones y avisos previstos en este Código, la clave de Registro Estatal de Contribuyente asignada por la autoridad fiscal;
 
@@ -465,7 +479,9 @@ B) Cambio de régimen de capital o se transforme en otro tipo de sociedad.
 
 Tratándose de personas jurídico colectivas, para tales efectos deberán exhibir el instrumento público en que conste dicha modificación.
 
-C) Cambio de domicilio fiscal o actualización de datos relativos a éste.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+C) Cambio de domicilio fiscal o actualización de datos relativos a éste, y cambio o actualización del correo electrónico para recibir notificaciones;
 
 D) Suspensión de actividades.
 
@@ -513,6 +529,22 @@ XIII. Realizar el trámite de cambio de propietario del vehículo, en un términ
 
 XIV. Las demás que establezca este Código.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+###### ARTICULO 16-C.
+
+Las personas físicas y morales inscritas en el registro estatal de contribuyentes tendrán asignado un buzón tributario, consistente en un sistema de comunicación electrónico ubicado en la página de Internet del SATMICH, a través del cual:
+
+I. Las autoridades fiscales podrán realizar la notificación de cualquier acto o resolución administrativa que emitan, en documentos digitales, incluyendo cualquiera que pueda ser recurrido y podrán enviar mensajes de interés;
+
+II. Los contribuyentes podrán presentar promociones, solicitudes, avisos, o dar cumplimiento a requerimientos de las autoridades fiscales, a través de documentos digitales, y podrán realizar consultas sobre su situación fiscal.
+
+Los contribuyentes personas físicas y morales que tengan asignado un buzón tributario deberán consultarlo dentro de los tres días siguientes a aquél en que reciban un aviso electrónico enviado por las autoridades fiscales del SATMICH, a cualquiera de los mecanismos de comunicación que el contribuyente registre de los que se den a conocer mediante reglas de carácter general. La autoridad enviará por única ocasión, mediante los mecanismos elegidos, un aviso de confirmación que servirá para corroborar la autenticidad y correcto funcionamiento de éste.
+
+Para efectos de lo previsto en el párrafo anterior, los contribuyentes deberán habilitar el buzón tributario, registrar y mantener actualizados los medios de contacto, de acuerdo con el procedimiento que al efecto establezca el SATMICH mediante reglas de carácter general que al efecto emita.
+
+En caso de que el contribuyente no habilite el buzón tributario o señale medios de contacto erróneos o inexistentes, o bien, no los mantenga actualizados, se entenderá que se opone a la notificación y la autoridad podrá notificarle conforme a lo señalado en el artículo 113, fracción III de este Código.
+
 ## TITULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONTRIBUYENTES
 
 ### CAPITULO UNICO
@@ -521,13 +553,15 @@ XIV. Las demás que establezca este Código.
 
 Toda promoción que se presente ante las autoridades fiscales, deberá estar firmada por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-Las promociones deberán presentarse en las formas que al efecto apruebe la Secretaria, en el número de ejemplares que establezca la forma oficial acompañar los anexos que en su caso ésta requiera. Cuando no existan formas aprobadas, el documento que se formule deberá presentarse en el número de ejemplares que señalen las autoridades fiscales y tener por lo menos los siguientes requisitos:
+Las promociones deberán presentarse en las formas que al efecto apruebe la Secretaría o el SATMICH, en el número de ejemplares que establezca la forma oficial y acompañar los anexos que en su caso ésta requiera. Cuando no existan formas aprobadas, el documento que se formule deberá presentarse en el número de ejemplares que señalen las autoridades fiscales y tener por lo menos los siguientes requisitos:
 
 I. Constar por escrito;
 
-II. El nombre, la denominación o razón social, el domicilio fiscal y el registro estatal del contribuyente, en su caso;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+II. El nombre, la denominación o razón social, el domicilio fiscal, el correo electrónico para recibir notificaciones y el registro estatal del contribuyente, en su caso;
 
 III. Señalar la autoridad a la que se dirige y el propósito de la promoción; y
 
@@ -771,31 +805,31 @@ La responsabilidad solidaria comprenderá los accesorios, con excepción de las 
 
 La responsabilidad solidaria a que se refiere esta fracción se calculará multiplicando el porcentaje de participación que haya tenido el socio u accionista en el capital social suscrito al momento de la causación por la contribución omitida en la parte que no se logre cubrir con los bienes de la empresa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 23.
 
-Las personas físicas y morales, que habitualmente realicen actividades gravadas, deberán solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría y proporcionar la información relacionada con su identidad, su domicilio y en general, su situación fiscal, mediante los avisos que para tal efecto establezca la Secretaría, así como registrar y mantener actualizada una sola dirección de correo electrónico y un número telefónico del contribuyente, o bien, los medios de contacto que determine la Secretaría a través de reglas de carácter general.
+Las personas físicas y morales, que habitualmente realicen actividades gravadas, deberán solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría, administrado y regido por el SATMICH, y proporcionar la información relacionada con su identidad, su domicilio y en general, su situación fiscal, mediante los avisos que para tal efecto establezca la Secretaría por conducto del SATMICH, así como registrar y mantener actualizada una sola dirección de correo electrónico y un número telefónico del contribuyente, o bien, los medios de contacto que determine el SATMICH o la Secretaría a través de reglas de carácter general.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+El SATMICH asignará la clave que corresponda a cada persona inscrita, quien deberá citarla en todo documento que presente ante las autoridades fiscales estatales, debiendo conservar en su domicilio fiscal, la documentación comprobatoria de haber cumplido con las obligaciones que establece este Código.
 
-La Secretaría asignará la clave que corresponda a cada persona inscrita, quien deberá citarla en todo documento que presente ante las autoridades fiscales estatales, debiendo conservar en su domicilio fiscal, la documentación comprobatoria de haber cumplido con las obligaciones que establece este Código.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 24.
 
-Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de Registro Estatal de Contribuyentes y avisos ante las autoridades fiscales estatales, lo harán en las formas que al efecto apruebe la Secretaría, debiendo proporcionar el número de ejemplares, los datos e informes y adjuntar los documentos que dichas formas requieran.
+Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de Registro Estatal de Contribuyentes y avisos ante las autoridades fiscales estatales, lo harán en las formas que al efecto apruebe la Secretaría por conducto del SATMICH, debiendo proporcionar el número de ejemplares, los datos e informes y adjuntar los documentos que dichas formas requieran.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-En los casos en que las formas para la presentación de los avisos no hubieran sido aprobadas por la Secretaría, los obligados a presentarlas, las formularán en escrito por cuadruplicado conteniendo su nombre, domicilio, actividad y clave del Registro Estatal de Contribuyentes.
+En los casos en que las formas para la presentación de los avisos no hubieran sido aprobadas por la Secretaría, los obligados a presentarlas, las formularán en escrito por cuadruplicado conteniendo su nombre, domicilio, actividad, correo electrónico para recibir notificaciones y clave del Registro Estatal de Contribuyentes.
 
 Los avisos, solicitudes de inscripción en el Registro Estatal de Contribuyentes y demás documentos que exijan las disposiciones fiscales, se presentarán en las oficinas de rentas correspondientes a su jurisdicción.
 
 Las oficinas a que se refiere el párrafo anterior, recibirán los avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverán copia sellada a quien los presente.
 
-Unicamente se podrá rechazar la presentación cuando no contenga el nombre del contribuyente, su clave del Registro Estatal de Contribuyentes, su domicilio fiscal y no aparezcan debidamente firmados o no se acompañen los anexos que establezca la forma oficial.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+Únicamente se podrá rechazar la presentación cuando no contenga el nombre del contribuyente, su clave del Registro Estatal de Contribuyentes, su domicilio fiscal, correo electrónico y no aparezcan debidamente firmados o no se acompañen los anexos que establezca la forma oficial.
 
 ###### ARTICULO 25.
 
@@ -859,9 +893,9 @@ II. El Secretario de Finanzas y Administración;
 
 III. Los Directores Generales de: El Servicio de Administración Tributaria del Estado de Michoacán de Ocampo (SATMICH) o su equivalente y el Jurídico de la Secretaría de Finanzas y Administración del Ejecutivo del Estado;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-IV. Los Directores de: Recaudación, de Auditoría y Revisión Fiscal, Catastro, de lo Contencioso; y de Técnica y Legislación;
+IV. Los Directores de: lo Contencioso y Técnica y de Legislación de la Secretaría; Catastro del Instituto Registral y Catastral del Estado de Michoacán de Ocampo; Recaudación y Auditoría y Revisión Fiscal y las demás unidades administrativas del SATMICH con atribuciones y facultades ejecutivas conforme a su Reglamento Interior;
 
 V. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
@@ -877,11 +911,11 @@ VII. Los Administradores y Receptores de Rentas dentro de sus respectivas jurisd
 
 VIII. Los demás subalternos de la propia Secretaría, comisionados por el titular de ésta, mediante instrucciones por escrito.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 26-A.
 
-El Gobernador, por conducto del titular de la Secretaría de Finanzas y Administración, podrá celebrar convenios de colaboración administrativa con otros Estados y el Distrito Federal y con los Ayuntamientos, en las materias de verificación, determinación y recaudación de las contribuciones, así como para la notificación de créditos fiscales y aplicación del procedimiento administrativo de ejecución.
+El Gobernador, por conducto del titular de la Secretaría de Finanzas y Administración, y el titular del Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, podrá celebrar convenios de colaboración administrativa con otros Estados, la Ciudad de México y con los Ayuntamientos, en las materias de verificación, determinación y recaudación de las contribuciones, así como para la notificación de créditos fiscales y aplicación del procedimiento administrativo de ejecución.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -927,11 +961,11 @@ XI. Tramitar y resolver los asuntos y recursos que ante él se presenten, confor
 
 XII. Las demás que le correspondan conforme a este Código u otras leyes y reglamentos fiscales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 28.
 
-Son facultades del Secretario de Finanzas y Administración del Estado, que podrá ejercer por sí o a través de los titulares de las unidades administrativas de la Secretaría, las siguientes:
+Son facultades del Secretario de Finanzas y Administración del Estado, que podrá ejercer por sí o a través de los titulares de las unidades administrativas de la Secretaría y del SATMICH, las siguientes:
 
 I. Cuidar y vigilar la recaudación, manejo e inversión de los caudales públicos, con arreglo a la ley y a los acuerdos del titular del Poder Ejecutivo;
 
@@ -953,9 +987,9 @@ VIII. Ordenar cuando lo estime necesario, se practiquen auditorías a las oficin
 
 IX. Fijar el monto de las fianzas a los servidores públicos que tengan a su cuidado los fondos públicos, en alguna de las formas establecidas en el artículo 120 de este Código;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-X. Activar por todos los medios legales, como representante del Fisco, los asuntos que se tramiten en los Tribunales, en los que tenga intereses la Hacienda Pública, así como interponer, directamente o a través del Director General Jurídico, o Director de lo Contencioso de la Secretaría de Finanzas y Administración, el Recurso de Revisión Fiscal en contra de sentencias y resoluciones, ante el Tribunal Colegiado de Circuito competente, por conducto de las Salas, Secciones o Pleno del Tribunal Federal de Justicia Administrativa, en relación con los juicios en que la propia Entidad haya intervenido como parte, ya sea en materia estatal o derivado de los convenios de coordinación con la Federación;
+X. Activar por todos los medios legales, como representante del Fisco, los asuntos que se tramiten en los Tribunales, en los que tenga intereses la Hacienda Pública, así como interponer, directamente o a través del titular del SATMICH y sus unidades administrativas, o del Director General Jurídico, o Director de lo Contencioso de la Secretaría de Finanzas y Administración en la materia de su competencia, el Recurso de Revisión Fiscal en contra de sentencias y resoluciones, ante el Tribunal Colegiado de Circuito competente, por conducto de las Salas, Secciones o Pleno del Tribunal Federal de Justicia Administrativa, en relación con los juicios en que la propia Entidad haya intervenido como parte, ya sea en materia estatal o derivado de los convenios de coordinación con la Federación;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -987,19 +1021,17 @@ XVIII. Determinar los impuestos y sus accesorios y determinar en cantidad liquid
 
 XIX. Imponer las multas por infracciones a las disposiciones fiscales que se conozcan con motivo del ejercicio de las facultades de comprobación del cumplimiento de las obligaciones fiscales, en términos de las disposiciones fiscales; y excepcionalmente realizar la condonación de éstas;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-XX. Garantizar el interés fiscal y de la Hacienda Pública Estatal, emitiendo las medidas de aseguramiento que sean necesarias; y,
+XX. Garantizar el interés fiscal y de la Hacienda Pública Estatal, emitiendo las medidas de aseguramiento que sean necesarias; y ejercer las acciones legales, administrativas y fiscales necesarias para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda o cooperación de cualquier especie para la comisión de los delitos de operaciones con recursos de procedencia ilícita, terrorismo y su financiamiento, en apoyo a las autoridades federales competentes; y,
 
 XXI. Las demás que le correspondan conforme a las leyes, reglamentos y acuerdos del Titular del Poder Ejecutivo.
 
-> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 30 DE DICIEMBRE DE 2014, PÁGINAS 1, 2, 10 Y 11.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 29.
 
-La Secretaría a solicitud de los contribuyentes, podrá autorizar el pago a plazos, ya sea diferido o en parcialidades de las contribuciones omitidas y sus accesorios, sin que dicho plazo exceda de 24 meses, de conformidad con lo siguiente:
+La Secretaría o el SATMICH, a solicitud de los contribuyentes, podrá autorizar el pago a plazos, ya sea diferido o en parcialidades de las contribuciones omitidas y sus accesorios, sin que dicho plazo exceda de 36 meses, de conformidad con lo siguiente:
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -1061,9 +1093,9 @@ El monto del crédito determinado conforme al párrafo anterior, se expresará e
 
 No procederá la autorización a que se refiere este artículo, tratándose de aquellas contribuciones que debieron de pagarse en el año de calendario en curso, o de las que debieron pagarse en los seis meses anteriores, al mes en que se solicite la autorización.
 
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008) (F. DE E., P.O. 16 DE ENERO DE 2009) (F. DE E., P.O. 29 DE MAYO DE 2009)
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-La Secretaría, en el acuerdo de autorización de pago a plazos, exigirá del contribuyente, que garantice el interés fiscal en cualquiera de las formas que establece el artículo 120 de este Código.
+La Secretaría o el SATMICH, en el acuerdo de autorización de pago a plazos, exigirán del contribuyente, que garantice el interés fiscal en cualquiera de las formas que establece el artículo 120 de este Código.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -1075,11 +1107,11 @@ II.- Desaparezca o resulte insuficiente la garantía del interés fiscal otorgad
 
 III.- El contribuyente sea declarado en quiebra o solicite su liquidación judicial.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 30.
 
-Los demás servidores públicos del ramo hacendario, tendrán las facultades que establece este Código, el Reglamento Interior y demás disposiciones legales inherentes, las que ejercerán de conformidad al ámbito de competencia que les señalen.
+Los demás servidores públicos del ramo hacendario, tendrán las facultades que establece este Código, sus leyes de creación, reglamentos interiores y demás disposiciones legales inherentes, las que ejercerán de conformidad al ámbito de competencia que les señalen.
 
 ###### ARTICULO 31.
 
@@ -1155,7 +1187,9 @@ Para dichos efectos, la impresión de caracteres consistente en el sello resulta
 
 Asimismo, la integridad y autoría del documento que contenga el sello resultado de la firma electrónica avanzada y amparada por un certificado vigente a la fecha de la resolución, podrá ser comprobada a través de los medios que la Secretaría establezca.
 
-Adicionalmente, los funcionarios de la Secretaría, podrán utilizar su firma electrónica avanzada en cualquier documento que emitan en ejercicio de sus atribuciones, además de las resoluciones administrativas que se deban notificar, conforme a lo dispuesto en este artículo.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+Adicionalmente, los funcionarios de la Secretaría o del SATMICH, podrán utilizar su firma electrónica avanzada en cualquier documento que emitan en ejercicio de sus atribuciones, además de las resoluciones administrativas que se deban notificar, conforme a lo dispuesto en este artículo.
 
 ###### ARTICULO 37.
 
@@ -1817,11 +1851,11 @@ III. (DEROGADA, P.O. 26 DE OCTUBRE DE 2020)
 
 Para la notificación del vencimiento de los plazos de pago, la Secretaría podrá celebrar convenios de colaboración administrativa con los Ayuntamientos del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 57.
 
-La Secretaría podrá condonar las multas por infracción a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción.
+La Secretaría o el SATMICH podrán condonar o reducir las multas por infracción a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2061,9 +2095,13 @@ Son infracciones a las disposiciones fiscales relacionadas con los servicios de 
 
 I. No tramitar el cambio de placas de vehículos automotores y remolques de servicio particular, en el plazo que establezcan las disposiciones fiscales o hacerlo a requerimiento de la autoridad fiscal;
 
-II. No tramitar el cambio de placas y tarjeta de circulación anual de motocicletas;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-III. No renovar la tarjeta de circulación y calcomanía para vehículos automotores y remolques anualmente;
+II. No tramitar el cambio de placas y tarjeta de circulación de motocicletas en el plazo que establezcan las disposiciones fiscales o hacerlo a requerimiento de la autoridad fiscal;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+III. No renovar la tarjeta de circulación para vehículos automotores, remolques y motociclistas, en el plazo que establezcan las disposiciones fiscales o hacerlo a requerimiento de la autoridad fiscal;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DEL 2000)</small>
 
@@ -2095,9 +2133,9 @@ IX. No tramitar o hacerlo extemporáneamente la obtención original de placas de
 
 X. Colocar en los vehículos automotores, placas con características que no correspondan a las de las placas autorizadas por la autoridad competente o colocar placas distintas a las asignadas;
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-XI. No realizar el refrendo anual de calcomanía, en las fechas correspondientes; y,
+XI. No realizar el refrendo anual de circulación en el plazo que establezcan las disposiciones fiscales o hacerlo a requerimiento de la autoridad fiscal; y,
 
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
@@ -2109,7 +2147,9 @@ XII. No contar con la constancia de inscripción al Registro Público Vehicular.
 
 A quien cometa las infracciones señaladas en el artículo anterior, se impondrán sanciones expresadas en el equivalente al valor diario de la Unidad de Medida y Actualización en la fecha en que las infracciones se cometan, conforme a lo siguiente:
 
-I. Del equivalente de 10 a 15 veces el valor diario de la Unidad de Medida y Actualización, a las comprendidas en las fracciones I, II, III, VIII y IX;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+I. Del equivalente de 10 a 15 veces el valor diario de la Unidad de Medida y Actualización, a las comprendidas en las fracciones I, II, III, VIII, IX, XI y XII;
 
 II. Del equivalente de 5 a 10 veces el valor diario de la Unidad de Medida y Actualización, a las comprendidas en las fracciones IV, VI y VII;
 
@@ -2179,11 +2219,11 @@ Los delitos fiscales que aprovechen a una persona moral o a una agrupación, aun
 
 Por los delitos fiscales no se impondrán sanciones pecuniarias en el proceso penal. Las autoridades fiscales con arreglo a las disposiciones de este Código, harán efectivo el cobro de las contribuciones omitidas, de los recargos, de las sanciones administrativas impuestas y demás prestaciones procedentes, sin que ello afecte el procedimiento penal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 77.
 
-Para proceder penalmente contra los presuntos responsables de los delitos fiscales previstos en este Capítulo, será necesario que el Secretario de Finanzas y Administración del Estado, presente querella ante el Ministerio Público.
+Para proceder penalmente contra los presuntos responsables de los delitos fiscales previstos en este Capítulo, será necesario que las autoridades fiscales competentes de la Secretaría, el titular del SATMICH o su Dirección Jurídica, presenten querella ante el Ministerio Público.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2535,7 +2575,25 @@ Si la resolución ordena realizar un determinado acto o iniciar la reposición d
 
 Las notificaciones de los actos administrativos se harán:
 
-I. Personalmente o por correo certificado con acuse de recibo, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+I. Por buzón tributario, personalmente o por correo certificado con acuse de recibo, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos.
+
+La notificación electrónica de documentos digitales se realizará en el buzón tributario conforme las reglas de carácter general que para tales efectos establezca el SATMICH. La facultad mencionada podrá también ser ejercida por los otros organismos fiscales desconcentrados de la Secretaría.
+
+El acuse de recibo consistirá en el documento digital que transmita el destinatario al abrir el documento digital que le hubiera sido enviado. Se tendrán por realizadas las notificaciones electrónicas, cuando se genere el acuse de recibo electrónico en el que conste la fecha y hora en que el contribuyente se autenticó para abrir el documento a notificar.
+
+Al contribuyente le será enviado, previo a la realización de la notificación electrónica, un aviso mediante el mecanismo designado por éste en términos del tercer párrafo del artículo 16-C de este Código.
+
+Contarán los contribuyentes con tres días para abrir los documentos digitales pendientes de notificar. Dicho plazo se contará a partir del día siguiente a aquél en que le sea enviado el aviso al que se refiere el párrafo anterior. En caso de que el contribuyente no abra el documento digital en el plazo señalado, la notificación electrónica se tendrá por realizada al cuarto día, contado a partir del día siguiente a aquél en que le fue enviado el referido aviso.
+
+La clave de seguridad será personal, intransferible y de uso confidencial, por lo que el contribuyente será responsable del uso que dé a la misma para abrir el documento digital que le hubiera sido enviado.
+
+El acuse de recibo también podrá consistir en el documento digital con firma electrónica avanzada que genere el destinatario del documento remitido al autenticarse en el medio por el cual le haya sido enviado el citado documento.
+
+Las notificaciones electrónicas estarán disponibles en el portal de Internet establecido al efecto por las autoridades fiscales y podrán imprimirse para el interesado, dicha impresión contendrá la certificación oficial de la autoridad fiscal que lo autentifique.
+
+Las notificaciones en el buzón tributario serán emitidas anexando la firma electrónica correspondiente, conforme a lo establecido en el artículo 36 de este Código;
 
 II. Por correo ordinario o por telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior;
 
@@ -2589,11 +2647,11 @@ Tratándose de actos relativos al procedimiento administrativo de ejecución, el
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se cobrarán a quien incurra en el incumplimiento, los honorarios de notificación, equivalentes a dos veces el valor diario de la Unidad de Medida y Actualización, debiendo cubrirse conjuntamente con el cumplimiento de la obligación requerida.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 117.
 
-Cuando se deje sin efecto una notificación practicada ilegalmente, se impondrá al notificador una multa de diez veces el valor diario de la Unidad de Medida y Actualización.
+Las autoridades fiscales, para salvaguardar la esfera jurídica del contribuyente, podrán dejar sin efectos las notificaciones, cuando estas se hayan practicado ilegalmente. Cuando se deje sin efecto una notificación practicada ilegalmente, se impondrá al notificador una multa de diez veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 118.
 
@@ -2685,13 +2743,17 @@ En caso de negativa o violación a la suspensión del procedimiento administrati
 
 El superior o la autoridad ante quien se tramita el recurso, pedirá a la ejecutora un informe que deberá rendirse en un plazo de tres días y resolverá de inmediato la cuestión.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 123-A.
 
-La garantía del interés fiscal se otorgará a favor del Gobierno del Estado de Michoacán o la Secretaría en los términos siguientes:
+La garantía del interés fiscal se otorgará a favor del Gobierno del Estado de Michoacán, la Secretaría o el SATMICH, en los términos siguientes:
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 I. El depósito de dinero, podrá otorgarse mediante billete o certificado expedido por las instituciones de crédito legalmente autorizadas, o en efectivo mediante el recibo oficial expedido por la autoridad fiscal, cuyo original se entregará al interesado;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 II. Tratándose de prenda o hipoteca se constituirá sobre los siguientes bienes:
 
@@ -2705,7 +2767,11 @@ B) Bienes inmuebles, por el 75% del valor que se determine por avalúo que pract
 
 En la hipoteca, el otorgamiento de la garantía se hará en escritura pública que deberá inscribirse en el Registro Público de la Propiedad y contener los datos relacionados con el crédito fiscal. El otorgante podrá garantizar con la misma hipoteca los recargos futuros o ampliar la garantía cada año.
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
 III. En caso de que se garantice mediante fianza, ésta deberá quedar en poder y guarda de la autoridad fiscal, para que solicite su cobro en caso de que así proceda;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 IV. Tratándose del embargo en la vía administrativa, se sujetará a lo previsto al efecto en este Código y a las reglas siguientes:
 
@@ -2722,6 +2788,8 @@ No serán admisibles como garantía, los bienes que ya se encuentren embargados 
 3. Tratándose de personas físicas el depositario de los bienes será el propietario y en el caso de personas jurídico colectivas el representante legal, quien podrá ser removido libremente de su cargo por la autoridad recaudadora.
 
 4. Deberán cubrirse con anticipación a la práctica de la diligencia de embargo en la vía administrativa, los gastos de ejecución que resulten aplicables conforme a este Código. El pago así efectuado tendrá el carácter de definitivo y en ningún caso procederá su devolución una vez practicada la diligencia.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 V. Para que un tercero asuma la obligación de garantizar el interés fiscal, deberá sujetarse a lo siguiente:
 
@@ -3630,3 +3698,13 @@ DÉCIMO SEGUNDO. Túrnese el presente Decreto al Titular de la Auditoría Superi
 DÉCIMO TERCERO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, para sus efectos conducentes.
 
 DÉCIMO CUARTO. El Titular del Poder Ejecutivo del Estado, acompañado del refrendo del Secretario de Gobierno de conformidad con lo dispuesto por el artículo 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, dispondrá se publique y observe.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 604 POR EL QUE “SE REFORMAN LAS FRACCIONES IX Y X DEL ARTÍCULO 2°; LA FRACCIÓN I Y EL INCISO C) DE LA FRACCIÓN XI DEL ARTÍCULO 16-B; SEGUNDO PÁRRAFO Y FRACCIÓN II DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 17; EL ARTÍCULO 23; PÁRRAFOS PRIMERO, SEGUNDO Y QUINTO DEL ARTÍCULO 24; FRACCIÓN IV DEL ARTÍCULO 26; ARTÍCULO 26-A; PÁRRAFO PRIMERO, FRACCIONES X Y XX DEL ARTÍCULO 28; PÁRRAFO PRIMERO Y DÉCIMO TERCERO DEL ARTÍCULO 29; EL ARTÍCULO 30; PÁRRAFO OCTAVO DEL ARTÍCULO 36; PÁRRAFO PRIMERO DEL ARTÍCULO 57; FRACCIONES II, III Y XI DEL ARTÍCULO 71; FRACCIÓN I DEL ARTÍCULO 72; PÁRRAFO PRIMERO DEL ARTÍCULO 77; FRACCIÓN I DEL ARTÍCULO 113; EL ARTÍCULO 117; PÁRRAFO PRIMERO DEL ARTÍCULO 123-A; Y, SE ADICIONAN LA FRACCIÓN XI AL ARTÍCULO 2°; UN ÚLTIMO PÁRRAFO AL ARTÍCULO 16; UN ÚLTIMO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 16-B; Y, EL ARTÍCULO 16-C, TODOS DEL CÓDIGO FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día 1° de enero de 2024, previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Las personas físicas y morales inscritas en el Registro Estatal de Contribuyentes contarán con un plazo de 12 doce meses contados a partir de la entrada en vigor del presente Decreto, para proporcionar o actualizar en el Registro Estatal de Contribuyentes sus datos electrónicos de contacto.
+
+TERCERO. Para los efectos del artículo 16-C, fracción I del presente Decreto, las autoridades fiscales podrán hacer uso del buzón tributario para la notificación electrónica de los actos o resoluciones administrativas que emitan en documentos digitales, incluyendo aquellas que puedan ser recurribles, a partir del 1 de enero de 2025 dos mil veinticinco, por lo que, en tanto entra en vigor, las notificaciones que en el Código Fiscal del Estado hagan referencia al buzón tributario, deberán realizarse de conformidad con las otras formas establecidas en el artículo 113 del Código Fiscal del Estado.
