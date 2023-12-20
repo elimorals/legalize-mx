@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-transparencia-acceso-a-la-informacion-publica-y-115044"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-18"
-last_updated: "2023-07-25"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115044&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY DE TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE DICIEMBRE DE 2023 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 18 de mayo de 2016.
 
@@ -71,7 +73,9 @@ VII. Promover, fomentar, difundir e institucionalizar la cultura de la transpare
 
 VIII. Establecer las bases y la información de interés público que se debe difundir proactivamente;
 
-IX. Regular la organización y funcionamiento del organismo garante y de las unidades de transparencia de los sujetos obligados y el medio de impugnación con que cuenten los solicitantes de información; y,
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+IX. Regular la organización y funcionamiento del Instituto y de las unidades de transparencia de los sujetos obligados y el medio de impugnación con que cuenten los solicitantes de información; y,
 
 X. Establecer los mecanismos para garantizar el cumplimiento y la efectiva aplicación de las medidas de apremio y las sanciones que correspondan, por el incumplimiento de esta Ley.
 
@@ -1033,7 +1037,9 @@ El procedimiento de la denuncia se integra por las siguientes etapas:
 
 I. Presentación de la denuncia ante el Instituto;
 
-II. Solicitud por parte del organismo garante de un informe al sujeto obligado;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+II. Solicitud por parte del Instituto de un informe al sujeto obligado;
 
 III. Resolución de la denuncia; y,
 
@@ -1185,9 +1191,9 @@ Este requerimiento interrumpirá el plazo de respuesta establecido en la present
 
 El requerimiento formulado por el sujeto obligado, al que refiere el primer párrafo del presente artículo, no podrá por ningún motivo, realizarse con la finalidad de no proporcionar la información, evadir la obligación a través de simulaciones o interpretaciones forzadas respecto de la solicitud presentada por el solicitante, mediante preguntas que presuman la intención de no querer proporcionar la información, o que vaya en contra de forma manifiesta, a los principios rectores de la materia de acceso a la información.
 
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-El solicitante podrá interponer recurso de revisión ante el Órgano del Estado garante, siempre que de la prevención o requerimiento realizado por el sujeto obligado, éste presuma que se formula con la finalidad de evadir la responsabilidad de proporcionar la información solicitada, o que dicha prevención sea contraria a los criterios establecidos por los órganos garantes de acceso a la información.
+El solicitante podrá interponer recurso de revisión ante el Instituto, siempre que de la prevención o requerimiento realizado por el sujeto obligado, éste presuma que se formula con la finalidad de evadir la responsabilidad de proporcionar la información solicitada, o que dicha prevención sea contraria a los criterios establecidos por los órganos garantes de acceso a la información.
 
 La solicitud se tendrá por no presentada cuando los solicitantes no atiendan el requerimiento de información adicional. En el caso de requerimientos parciales no desahogados, se tendrá por presentada la solicitud por lo que respecta a los contenidos de información que no formaron parte del requerimiento.
 
@@ -1541,7 +1547,13 @@ En caso de que por cualquier circunstancia no haya sido designado el comisionado
 
 Una vez designados los Comisionados, éstos deberán rendir protesta ante el Pleno del Congreso del Estado.
 
-Encontrándose designada la mayoría de los Comisionados procederán a nombrar mediante votación simple a su Presidente, mismo que permanecerá con ese carácter durante el tiempo de su encargo. De no lograrse la votación anterior en un plazo no mayor de treinta días deberá notificarse al Congreso del Estado, quien nombrará de entre los Comisionados, a quien funja como Presidente.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+Encontrándose designada la mayoría de los Comisionados procederán a nombrar mediante votación simple a su Presidente, mismo que permanecerá con ese carácter durante un año. De no lograrse la votación anterior, asumirá la Presidencia quien tenga mayor antigüedad como comisionado o comisionada y cuyo periodo constitucional restante sea mayor a un año; En caso de igualdad de antigüedad, atenderá al principio de equidad de género y, en su defecto, el de mayor edad.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+La Presidencia será rotativa, cada comisionado y comisionada tendrá derecho a ocuparla un año, durante cada periodo constitucional.
 
 ###### Artículo 108.
 
@@ -1715,7 +1727,9 @@ VIII. Comunicar al Congreso las ausencias definitivas de los comisionados;
 
 IX. Requerir cualquier informe o documento que, obrando en poder de los Sujetos Obligados, pueda servir para la sustanciación o resolución de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en esta Ley;
 
-X. Ejercer por sí o por medio de los órganos designados en el Reglamento, el presupuesto de egresos del Instituto, bajo la supervisión del Pleno;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+X. Ejercer por sí o por medio de los órganos designados en el Reglamento, el presupuesto de egresos del Instituto, bajo la supervisión del Pleno, debiendo entregar de inmediato la información administrativa, financiera, presupuestal o de cualquier tipo que le requieran los comisionados para ejercer su atribución de supervisión;
 
 XI. Presentar por escrito, al Congreso, el informe anual aprobado por el Pleno; y,
 
@@ -1735,7 +1749,9 @@ IV. Firmar los acuerdos y resoluciones que dicte el Pleno;
 
 V. Fungir como ponentes en la integración y propuesta de resolución de los expedientes que les correspondan;
 
-VI. Coordinar los programas de trabajo institucionales que le sean asignados por el Pleno; y,
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+VI. Coordinar los programas de trabajo institucionales que le sean asignados por el Pleno, así como supervisar el ejercicio del presupuesto del Instituto y conocer a detalle la información correspondiente; y,
 
 VII. Las demás que señale la Ley y su Reglamento.
 
@@ -1835,7 +1851,9 @@ Los integrantes del Comité de Transparencia no podrán depender jerárquicament
 
 Los integrantes del Comité de Transparencia tendrán acceso a la información para determinar su clasificación, conforme a la normatividad previamente establecida por los sujetos obligados para el resguardo o salvaguarda de la información.
 
-No estarán sujetos a la autoridad de los Comités de Transparencia a que se refiere el presente artículo, siendo sus funciones responsabilidad exclusiva del titular de la propia entidad o unidad administrativa, la Procuraduría General de Justicia, la Secretaría de Seguridad Pública, el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública y el Centro Estatal de Acreditación, Certificación y Control de Confianza.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+No estarán sujetos a la autoridad de los Comités de Transparencia a que se refiere el presente artículo, siendo sus funciones responsabilidad exclusiva del titular de la propia entidad o unidad administrativa, la Fiscalía General del Estado de Michoacán, la Secretaría de Seguridad Pública, el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública y el Centro Estatal de Acreditación, Certificación y Control de Confianza.
 
 La clasificación, desclasificación y acceso a la información que generen o custodien las instancias de inteligencia e investigación deberá apegarse a los términos previstos en la presente Ley y a los protocolos de seguridad y resguardo establecidos para ello.
 
@@ -1855,7 +1873,9 @@ V. Promover la capacitación y actualización de los Servidores Públicos o inte
 
 VI. Establecer programas de capacitación en materia de transparencia, acceso a la información, accesibilidad y protección de datos personales, para todos los Servidores Públicos o integrantes del sujeto obligado;
 
-VII. Recabar y enviar al organismo garante, de conformidad con los lineamientos que estos expidan, los datos necesarios para la elaboración del informe anual;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+VII. Recabar y enviar al Instituto, de conformidad con los lineamientos que estos expidan, los datos necesarios para la elaboración del informe anual;
 
 VIII. Solicitar y autorizar la ampliación del plazo de reserva de la información a que se refiere la presente Ley; y,
 
@@ -1969,11 +1989,13 @@ El Instituto, en el ámbito de sus atribuciones coadyuvará, con los sujetos obl
 
 ### CAPÍTULO I. DEL RECURSO DE REVISIÓN
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 135.
 
-El solicitante podrá interponer, por sí mismo o a través de su representante, de manera directa o por medios electrónicos, recurso de revisión ante el organismo garante que corresponda o ante la Unidad de Transparencia que haya conocido de la solicitud dentro de los quince días siguientes a la fecha de la notificación de la respuesta, o del vencimiento del plazo para su notificación.
+El solicitante podrá interponer, por sí mismo o a través de su representante, de manera directa o por medios electrónicos, recurso de revisión ante el Instituto o ante la Unidad de Transparencia que haya conocido de la solicitud dentro de los quince días siguientes a la fecha de la notificación de la respuesta, o del vencimiento del plazo para su notificación.
 
-En el caso de que se interponga ante la Unidad de Transparencia, ésta deberá remitir el recurso de revisión al organismo garante que corresponda a más tardar al día siguiente de haberlo recibido.
+En el caso de que se interponga ante la Unidad de Transparencia, ésta deberá remitir el recurso de revisión al Instituto a más tardar al día siguiente de haberlo recibido.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 14 DE OCTUBRE DE 2019)</small>
 
@@ -2173,13 +2195,17 @@ Los Sujetos Obligados, a través de la Unidad de Transparencia, darán estricto 
 
 Excepcionalmente, considerando las circunstancias especiales del caso, los sujetos obligados podrán solicitar al Instituto, de manera fundada y motivada, una ampliación del plazo para el cumplimiento de la resolución.
 
-Dicha solicitud deberá presentarse, a más tardar, dentro de los primeros tres días del plazo otorgado para el cumplimiento, a efecto de que los Organismos garantes resuelvan sobre la procedencia de la misma dentro de los cinco días siguientes.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+Dicha solicitud deberá presentarse, a más tardar, dentro de los primeros tres días del plazo otorgado para el cumplimiento, a efecto de que el Instituto resuelva sobre la procedencia de la misma dentro de los cinco días siguientes.
 
 ###### Artículo 154.
 
 Transcurrido el plazo señalado en el artículo anterior, el sujeto obligado deberá informar al Instituto sobre el cumplimento de la resolución.
 
-El Instituto verificará de oficio la calidad de la información y, a más tardar al día siguiente de recibir el informe, dará vista al recurrente para que, dentro de los cinco días siguientes, manifieste lo que a su derecho convenga. Si dentro del plazo señalado el recurrente manifiesta que el cumplimiento no corresponde a lo ordenado por el organismo garante, deberá expresar las causas específicas por las cuales así lo considera.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+El Instituto verificará de oficio la calidad de la información y, a más tardar al día siguiente de recibir el informe, dará vista al recurrente para que, dentro de los cinco días siguientes, manifieste lo que a su derecho convenga. Si dentro del plazo señalado el recurrente manifiesta que el cumplimiento no corresponde a lo ordenado por el Instituto, deberá expresar las causas específicas por las cuales así lo considera.
 
 ###### Artículo 155.
 
@@ -2297,7 +2323,9 @@ Para tales efectos, el Instituto podrá denunciar ante las autoridades competent
 
 Ante incumplimientos en materia de transparencia y acceso a la información por parte de los partidos políticos, el Instituto dará vista, según corresponda, al Instituto Nacional Electoral o Instituto Electoral de Michoacán, para que resuelvan lo conducente, sin perjuicio de las sanciones establecidas para los partidos políticos en las leyes aplicables.
 
-En el caso de probables infracciones relacionadas con fideicomisos o fondos públicos, sindicatos o personas físicas o morales que reciban y ejerzan recursos públicos o realicen actos de autoridad, el Instituto u organismo garante competente deberá dar vista al órgano interno de control del sujeto obligado relacionado con éstos, cuando sean Servidores Públicos, con el fin de que instrumenten los procedimientos administrativos a que haya lugar.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+En el caso de probables infracciones relacionadas con fideicomisos o fondos públicos, sindicatos o personas físicas o morales que reciban y ejerzan recursos públicos o realicen actos de autoridad, el Instituto deberá dar vista al órgano interno de control del sujeto obligado relacionado con éstos, cuando sean Servidores Públicos, con el fin de que instrumenten los procedimientos administrativos a que haya lugar.
 
 ###### Artículo 164.
 
@@ -2414,3 +2442,11 @@ P.O. 25 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 401 POR EL QUE "SE ADICIONA EL ARTÍCULO 7 BIS A LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 608 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 2, FRACCIÓN IX; 54, FRACCIÓN II; 71, PÁRRAFO CUARTO; 107, DÉCIMO PÁRRAFO, Y SE LE ADICIONA UN PÁRRAFO UNDÉCIMO; 118, FRACCIÓN X; 119, FRACCIÓN VI; 124, PÁRRAFO QUINTO; 125, FRACCIÓN VII; 135; 153, PÁRRAFO CUARTO; 154, PÁRRAFO SEGUNDO; Y, 163, PÁRRAFO SEGUNDO; TODOS DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Para garantizar el nombramiento anual y rotativo en base al criterio de escalonamiento, dentro de los tres días hábiles siguientes a la entrada en vigor del presente Decreto, los comisionados en funciones elegirán a quien ocupará la Presidencia del Instituto en los términos del presente Decreto.
