@@ -4,7 +4,7 @@ identifier: "MOR-ley-sobre-el-ejercicio-de-las-profesiones-en-el-estado-de-7153"
 country: "mx"
 rank: "ley"
 publication_date: "1968-01-03"
-last_updated: "2015-02-18"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY SOBRE EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 3 de enero de 1968.
 
@@ -365,6 +365,10 @@ Todo profesionista o pasante está obligado a guardar estrictamente el secreto d
 
 Los tribunales deberán comunicar oportunamente a la Oficina de Profesiones las resoluciones que dicten sobre suspensión o inhabilitación en el ejercicio profesional, cuando hayan causado ejecutoria.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+Misma comunicación se realizará para el caso de impedimentos para el ejercicio de la profesión en el caso de los Magistrados del Tribunal de Justicia Administrativa del Estado de Morelos.
+
 ###### ARTICULO 37.
 
 El anuncio o la publicidad que un profesionista o pasante haga de su actividad no deberá rebasar los principios de la ética profesional. Siempre deberá mencionarse la institución de altos estudios, en la publicidad y anuncios, que le hubiere otorgado el título.
@@ -682,3 +686,23 @@ P.O. 18 DE FEBRERO DE 2015.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO MIL SEISCIENTOS CUARENTA Y SEIS POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS, DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS, Y DE LA LEY SOBRE EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE MORELOS”.]</small>
+
+PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Dentro de los 60 días hábiles siguientes el Pleno del Tribunal de Justicia Administrativa, deberá crear la Unidad de Género y Derechos Humanos del citado órgano jurisdiccional y su correspondiente reglamentación; asimismo, en el mismo plazo deberá crear la Unidad que lleve a cabo el registro de medidas de apremio y sanciones que se impongan a los servidores públicos, de conformidad con el contenido del presente Decreto.
+
+CUARTA. El Congreso del Estado deberá prever en el Presupuesto de egresos para el ejercicio fiscal del año 2024 y subsecuentes los recursos necesarios para que el Tribunal de Justicia Administrativa, pueda dar debido cumplimiento a lo previsto en el presente decreto.
+
+QUINTA. Se autoriza a la Secretaría de Hacienda del Poder Ejecutivo Estatal para que efectúe la ampliación presupuestal para el cumplimiento del presente Decreto en cuanto hace al presente ejercicio fiscal.
+
+SEXTA. Se ratifica el oficio emitido por el Presidente de la Mesa Directiva del Congreso del Estado de Morelos, mediante el cual se dio cumplimiento a la ejecutoria pronunciada en la acción de inconstitucionalidad 20/2017, del cual derivó el acuerdo plenario del Tribunal de Justicia Administrativa, publicado en el Periódico Oficial “Tierra y Libertad”, número 6053 de fecha 16 de marzo de 2022, referente a las adscripciones e integración del citado órgano jurisdiccional.
+
+SÉPTIMA. En un plazo no mayor a los sesenta días naturales, el Tribunal de Justicia Administrativa del Estado de Morelos, hará las modificaciones a su reglamentación interna, para dar cumplimiento a lo ordenado en el presente ordenamiento.
+
+OCTAVA. Se derogan todas las disposiciones jurídicas que se opongan a lo previsto en el presente ordenamiento.
