@@ -4,7 +4,7 @@ identifier: "NAY-ley-estatal-del-equilibrio-ecologico-y-proteccion-al-21201"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-25"
-last_updated: "2023-05-18"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 25 de abril del 2001.
 
@@ -134,6 +134,10 @@ V. Aprovechamiento de los Residuos: Conjunto de acciones cuyo objetivo es recupe
 VI. Áreas Naturales Protegidas Estatales: Las zonas del territorio del Estado de Nayarit, respecto de las cuales la entidad ejerza su jurisdicción, en las que los ambientes originales no han sido significativamente alterados por la actividad humana y que requieran ser preservadas o restauradas y estén sujetas al régimen previsto en la presente ley;
 
 VII. Áreas Verdes: Porción de territorio ocupado por vegetación natural o inducida, generalmente localizada en los espacios urbanos y utilizada como lugar de esparcimiento y recreo por los habitantes que las circundan;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+VII Bis. Azotea verde: Cubierta ajardinada con vegetación que se instala de manera total o parcial sobre los techos de edificaciones nuevas o existentes:
 
 VIII. Barrancas: Depresión geográfica que por sus condiciones topográficas y geológicas se presentan como hendiduras y sirven de refugio de vida silvestre, de cauce de los escurrimientos naturales de ríos, riachuelos y precipitaciones pluviales;
 
@@ -371,13 +375,17 @@ XX.- Elaborar y publicar en el portal oficial de la Secretaría, guías de separ
 
 XXI.- Prevenir, controlar y abatir, en la esfera de su competencia, la contaminación por el uso de bolsas, popotes y recipientes de plástico, unicel o aquellos elaborados con materias primas tóxicas o nocivas para el medio ambiente, que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, para transportación, carga o traslado al consumidor final;
 
-> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-XXII.- Verificar, en el uso de sus facultades, las bolsas, popotes y recipientes de plástico, unicel o aquellos elaborados con materias primas tóxicas o nocivas para el medio, que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, para transportación, carga o traslado al consumidor final (sic) cumplan con los criterios y normas de producción y consumo sustentable de reducción, reciclaje y reutilización, de modo que garanticen la disminución de los impactos ambientales asociados a la extracción de materiales, transformación, manufactura, distribución, uso y destino de estos productos plásticos, promoviendo el uso de materias primas provenientes de los recursos naturales renovables y reciclables, y
+XXII.- Verificar, en el uso de sus facultades, las bolsas, popotes y recipientes de plástico, unicel o aquellos elaborados con materias primas tóxicas o nocivas para el medio, que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, para transportación, carga o traslado al consumidor final (sic) cumplan con los criterios y normas de producción y consumo sustentable de reducción, reciclaje y reutilización, de modo que garanticen la disminución de los impactos ambientales asociados a la extracción de materiales, transformación, manufactura, distribución, uso y destino de estos productos plásticos, promoviendo el uso de materias primas provenientes de los recursos naturales renovables y reciclables;
 
-> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-XXIII.- Las demás atribuciones que se establezcan en esta Ley, las normas oficiales mexicanas y otros ordenamientos jurídicos que resulten aplicables.
+XXIII.- Fomentar la construcción de azoteas verdes en casas habitación y en edificios públicos y privados, así como, diseñar programas que informen sobre su importancia y beneficios, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+XXIV.- Las demás atribuciones que se establezcan en esta Ley, las normas oficiales mexicanas y otros ordenamientos jurídicos que resulten aplicables.
 
 ###### Artículo 5.
 
@@ -421,9 +429,21 @@ XV.- Proteger la imagen de los centros de población contra la contaminación vi
 
 XVI.- Concertar con los Gobiernos Federal, del Estado y la Sociedad Civil en General, para la realización de acciones en las materias de su competencia, conforme a esta Ley;
 
-XVII.- Aplicar las sanciones administrativas por violaciones a la presente Ley y su Reglamento, en las materias de su competencia; y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-XVIII. Emitir el Reglamento respectivo en el ámbito de su competencia.
+XVII.- Aplicar las sanciones administrativas por violaciones a la presente Ley y su Reglamento, en las materias de su competencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+XVIII.- Promover campañas para informar sobre la importancia y beneficios que genera la construcción de azoteas verdes en edificios públicos y privados, así como en casas habitación, procurando la implementación de instrumentos fiscales como incentivos para su realización;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+XIX.- Elaborar programas y acciones en su caso, para la implementación e instalación de luminarias fotovoltaicas como parte de la estructura del alumbrado público, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+XX.- Emitir el Reglamento respectivo en el ámbito de su competencia.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE JUNIO DE 2019)</small>
 
@@ -861,9 +881,17 @@ II.- El ahorro y aprovechamiento sustentable y la prevención de la contaminaci�
 
 III.- La ubicación y reubicación de instalaciones industriales, comerciales y de servicios en áreas ambientalmente adecuadas ó idóneas para su funcionamiento;
 
-IV.- El establecimiento, manejo y vigilancia de áreas naturales protegidas; y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-V. En general aquellas actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente.
+IV.- El establecimiento, manejo y vigilancia de áreas naturales protegidas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+V.- La construcción de azoteas verdes en edificios públicos y privados, así como en casas habitación, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+VI.- En general aquellas actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente.
 
 #### SECCIÓN IV. De la Regulación Ambiental de los Asentamientos Humanos
 
@@ -3267,6 +3295,12 @@ Corresponderá a las Comisiones Municipales de Ecología, identificar las accion
 
 El funcionamiento de las Comisiones Municipales de Ecología, se sujetará al Reglamento Interior que para las mismas, expidan los Ayuntamientos, considerando los lineamientos del Consejo Estatal de Protección al Ambiente.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 191 Bis.
+
+Las Comisiones Municipales de Ecología podrán generar programas para informar sobre la importancia y beneficios de la construcción de azoteas verdes, y asimismo, podrán promover proyectos para otorgar estímulos fiscales a las personas que las realicen.
+
 ### CAPÍTULO IV. Derecho a la Información Ambiental
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
@@ -4196,3 +4230,11 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Nayarit, para los efectos conducentes.
 
 TERCERO. Comuníquese el presente Decreto a los veinte Ayuntamientos del Estado de Nayarit, efectos normativos conducentes.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT, EN MATERIA DE LUMINARIAS FOTOVOLTAICAS Y AZOTEAS VERDES".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Comuníquese el presente Decreto, a los Ayuntamientos de la Entidad, para los efectos conducentes.
