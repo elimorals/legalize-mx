@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-110872"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-30"
-last_updated: "2023-10-25"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 2015.
 
@@ -629,11 +629,11 @@ Los obligados a retener el impuesto, al efectuar el entero de la retención, deb
 
 #### SECCIÓN SEGUNDA. DEL OBJETO, SUJETO Y BASE
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 39.
 
-Son objeto de este impuesto, los servicios profesionales de medicina, cuando su prestación requiera título de médico conforme a las leyes, siempre y cuando sean prestados por personas físicas, ya sea individualmente o por conducto de sociedades civiles, de conformidad con lo establecido en la fracción XIV del artículo 15 de la Ley del Impuesto al Valor Agregado.
+Son objeto de este impuesto, los ingresos que se perciban únicamente por los servicios profesionales de medicina, cuando su prestación requiera título de médico conforme a las leyes, siempre y cuando sean prestados por personas físicas, ya sea individualmente o por conducto de sociedades civiles, de conformidad con lo establecido en la fracción XIV del artículo 15 de la Ley del Impuesto al Valor Agregado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2022)</small>
 
@@ -2191,6 +2191,8 @@ VII. Semirremolque. 46.0 UMA
 
 #### SECCIÓN CUARTA. REGISTRO ESTATAL DE VEHÍCULOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 77.
 
 Por los servicios prestados por la Policía Estatal de la Secretaría de Seguridad y Protección Ciudadana, a través de la Policía Auxiliar y la Bancaria, Industrial y Comercial, se causarán y pagarán los derechos siguientes:
@@ -2585,11 +2587,13 @@ b) Tratándose de predios rústicos, en transición con pendiente ascendente (+)
 
 (a) Mayor a 45 grados. 13.0 UMA
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-XIII. Por la expedición anual de constancia que acredite su inscripción como perito valuador o perito topógrafo en la Secretaría. 15.0 UMA
+XIII. Por la expedición anual de constancia que acredite su inscripción como perito valuador de la Secretaría. 15.0 UMA
 
-XIV. Por la expedición anual de constancia que acredite su inscripción como dibujante técnico en la Secretaría. 14.0 UMA
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+XIV. Por la expedición anual de constancia que acredite su inscripción como perito dibujante en el Estado. 14.0 UMA
 
 XV. Por revisión y validación de avalúo comercial a peritos registrados ante la Secretaría. 25.0 UMA
 
@@ -2995,7 +2999,15 @@ cada establecimiento. 100.0 UMA
 
 ###### Artículo 81.
 
-La Secretaría establecerá un registro estatal de vehículos, con la finalidad de llevar un control de los contribuyentes tenedores, usuarios o propietarios de vehículos automotores, emisión de tarjetas de circulación y otorgamiento de juego de placas, calcomanías y demás comprobantes de pago de impuestos y derechos establecidos en las leyes estatales y federales.
+La Secretaría establecerá un registro estatal de vehículos, con la finalidad de llevar un control de los contribuyentes tenedores, usuarios o propietarios de vehículos automotores, emisión de tarjetas de circulación físicas y digitales, y otorgamiento de juego de placas, calcomanías y demás comprobantes de pago de impuestos y derechos establecidos en las leyes estatales y federales.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+La tarjeta de circulación digital será intransferible por lo que no podrá ser compartida ni descargada por terceras personas, asimismo le será aplicable el marco jurídico vigente en materia de protección de datos personales. Será expedida conforme a las Reglas de Operación que para tales efectos establezca la propia Secretaría a través de las herramientas tecnológicas que ésta determine.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+Los conductores contarán con un comprobante de vigencia de la tarjeta de circulación emitido por la Secretaría, el cual deberán portar dentro del vehículo de forma impresa.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
 
@@ -3031,9 +3043,9 @@ II. En el cambio de propietario de vehículo, deberá tramitarse la baja del pro
 
 III. Los propietarios, usuarios o tenedores de vehículos están obligados a presentar la baja correspondiente dentro del término de 60 días contados a partir del día siguiente al de la determinación por autoridad competente en los siguientes casos:
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-a) Que como resultado de algún accidente o siniestro sea declarada la pérdida total o destrucción del vehículo por la Fiscalía General del Estado, Secretaría de Seguridad y Protección Ciudadana a través de la Dirección General de la Policía Estatal de Caminos, por las autoridades homólogas en otras entidades o por la Fiscalía General de la República.
+a) Que como resultado de algún accidente o siniestro sea declarada la pérdida total o destrucción del vehículo, mediante documento oficial emitido por la Fiscalía General del Estado, Secretaría de Seguridad y Protección Ciudadana a través de la Dirección General de la Policía Estatal de Caminos, por las autoridades homólogas en otras entidades o por la Fiscalía General de la República.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
@@ -3047,13 +3059,13 @@ d) Que acredite con la manifestación de baja expedida por la autoridad competen
 
 e) Que acredite con documento expedido por el distribuidor, fabricante o comerciante de vehículos en el que conste que fue devuelto para dejar de ser de su propiedad o posesión.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-f) Que acredite con la factura expedida por el distribuidor, fabricante o comerciante la adquisición de un motor distinto al de origen del vehículo de su posesión y el acta de inspección vehicular realizada por la Dirección General de la Policía Estatal de Caminos de la Secretaría de Seguridad y Protección Ciudadana.
+f) Que acredite con la factura expedida por el distribuidor, fabricante o comerciante la adquisición de un motor distinto al de origen del vehículo de su posesión y el acta de inspección vehicular realizada por la Secretaría.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-g) Cuando el propietario, usuario o tenedor de un vehículo destinado al servicio particular, pretenda realizar el cambio a servicio público deberá acreditarlo con la manifestación de baja expedida por la Dirección General de la Policía Estatal de Caminos de la Secretaría de Seguridad y Protección Ciudadana.
+g) Cuando el propietario, usuario o tenedor de un vehículo destinado al servicio particular, pretenda realizar el cambio a servicio público deberá acreditarlo con la manifestación de baja expedida por la Secretaría.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
 
@@ -3125,6 +3137,18 @@ c) Motocarros de 4 llantas y
 
 vehículos recreativos todo terreno. 9.0 UMA
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+d) Remolque:
+
+(a) Con capacidad de carga de hasta 1,000 Kg. 5.0 UMA
+
+(b) Con capacidad de carga de 1,001 a 5,000 Kg. 6.5 UMA
+
+(c) Con capacidad de carga de 5,001 a 10,000 Kg. 7.5 UMA
+
+(d) Con capacidad de carga de 10,001 Kg, en adelante. 9.5 UMA
+
 II. Por reposición de juegos de placas, calcomanía y emisión de tarjeta de circulación:
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
@@ -3142,6 +3166,18 @@ llantas y motonetas. 3.0 UMA
 c) Motocarro de 4 llantas y vehículos
 
 recreativos todo terreno. 6.0 UMA
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+d) Remolque:
+
+(a) Con capacidad de carga de hasta 1,000 Kg. 3.0 UMA
+
+(b) Con capacidad de carga de 1,001 a 5,000 Kg. 4.0 UMA
+
+(c) Con capacidad de carga de 5,001 a 10,000 Kg. 5.0 UMA
+
+(d) Con capacidad de carga de 10,001 Kg, en adelante. 6.0 UMA
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
@@ -3169,6 +3205,18 @@ c) Motocarro de 4 llantas y vehículos
 
 recreativos todo terreno. 6.0 UMA
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+d) Remolque:
+
+(a) Con capacidad de carga de hasta 1,000 Kg. 3.0 UMA
+
+(b) Con capacidad de carga de 1,001 a 5,000 Kg. 4.5 UMA
+
+(c) Con capacidad de carga de 5,001 a 10,000 Kg- 5.5 UMA
+
+(d) Con capacidad de carga de 10,001 Kg, en adelante. 6.5 UMA
+
 V. Por canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública:
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
@@ -3186,6 +3234,18 @@ y motonetas. 3.0 UMA
 c) Motocarro de 4 llantas y vehículos
 
 recreativos todo terreno. 6.0 UMA
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+d) Remolque:
+
+(a) Con capacidad de carga de hasta 1,000 Kg. 3.0 UMA
+
+(b) Con capacidad de carga de 1,001 a 5,000 Kg. 4.0 UMA
+
+(c) Con capacidad de carga de 5,001 a 10,000 Kg. 5.0 UMA
+
+(d) Con capacidad de carga de 10,001 Kg, en adelante. 6.0 UMA
 
 VI. Por baja de vehículos de servicio particular por:
 
@@ -3289,25 +3349,9 @@ c) Motocarro de 4 llantas y vehículos
 
 recreativos todo terreno. 9.0 UMA
 
-d) Remolque:
+d) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2023)
 
-(a) Con capacidad de carga de
-
-hasta 1,000 Kg. 5.0 UMA
-
-(b) Con capacidad de carga de 1,001 a
-
-5,000 Kg. 6.5 UMA
-
-(c) Con capacidad de carga de 5,001 a
-
-10,000 Kg. 7.5 UMA
-
-(d) Con capacidad de carga de 10,001 Kg.,
-
-en adelante. 9.5 UMA
-
-(e) Equipo especial móvil de la industria del
+e) Equipo especial móvil de la industria del
 
 comercio. 15.0 UMA
 
@@ -3323,25 +3367,9 @@ c) Motocarro de 4 llantas y vehículos
 
 recreativos todo terreno. 6.0 UMA
 
-d) Remolque:
+d) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2023)
 
-(a) Con capacidad de carga de hasta 1,000
-
-Kg. 3.0 UMA
-
-(b) Con capacidad de carga de 1,001 a
-
-5,000 Kg. 4.00 UMA
-
-(c) Con capacidad de carga de 5,001 a
-
-10,000 Kg. 5.00 UMA
-
-(d) Con capacidad de carga de 10,001 Kg.,
-
-en adelante. 6.00 UMA
-
-(e) Equipo especial móvil de la industria del
+e) Equipo especial móvil de la industria del
 
 comercio. 15.00 UMA
 
@@ -3415,25 +3443,9 @@ c) Motocarro de 4 llantas y vehículos
 
 recreativos todo terreno. 6.0 UMA
 
-d) Remolque:
+d) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2023)
 
-(a) Con capacidad de carga de
-
-hasta 1,000 Kg. 3.0 UMA
-
-(b) Con capacidad de carga de 1,001 a
-
-5,000 Kg. 4.5 UMA
-
-(c) Con capacidad de carga de 5,001 a
-
-10,000 Kg. 5.5 UMA
-
-(d) Con capacidad de carga de 10,001 Kg.,
-
-en adelante. 6.5 UMA
-
-(e) Equipo especial móvil de la industria
+e) Equipo especial móvil de la industria
 
 del comercio. 15.0 UMA
 
@@ -3449,25 +3461,9 @@ c) Motocarro de 4 llantas y vehículos
 
 recreativos todo terreno. 8.0 UMA
 
-d) Remolque:
+d) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2023)
 
-(a) Con capacidad de carga de
-
-hasta 1,000 Kg. 3.0 UMA
-
-(b) Con capacidad de carga de
-
-1,001 a 5,000 Kg. 4.0 UMA
-
-(c) Con capacidad de carga de 5,001 a
-
-10,000 Kg. 5.00 UMA
-
-(d) Con capacidad de carga de
-
-10,001 Kg., en adelante. 6.00 UMA
-
-(e) Equipo especial móvil de la industria
+e) Equipo especial móvil de la industria
 
 del comercio. 5.0 UMA
 
@@ -6229,7 +6225,7 @@ Poder Ejecutivo para la venta de cartuchos de uso deportivo. 52.0 UMA
 
 #### SECCIÓN OCTAVA. CENTRO DE INTERPRETACIÓN Y CONVIVENCIA CON LA NATURALEZA "YUMKA"
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS FRACCIONES E INCISOS], P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 103.
 
@@ -6267,9 +6263,9 @@ XIV. Talleres para adultos mayores del CECUIDAM, se cobrará el derecho al mes. 
 
 XV. Inscripción Anual Centro de Atención Infantil (CAI) ISSET. 15.59 UMA
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
-XVI. Servicio mensual Centro de Atención Infantil (CAI) Particular. 41.58 UMA
+XVI. Servicio mensual Centro de Atención Infantil (CAI) Particular. 31.81 UMA
 
 > <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2022)</small>
 
@@ -7693,15 +7689,25 @@ El Consejo de Administración del Museo podrá fijar las tarifas que se cobrará
 
 ###### Artículo 113 Quater.
 
-Por los servicios prestados por el Centro de Interpretación y Convivencia con la Naturaleza "Yumka", organismo público descentralizado sectorizado a la Secretaría de Bienestar, Sustentabilidad y Cambio Climático, se causarán y pagarán los derechos siguientes:
+Por los servicios prestados por el Centro de Interpretación y Convivencia con la Naturaleza "YUMKA'", organismo público descentralizado sectorizado a la Secretaría de Bienestar, Sustentabilidad y Cambio Climático, se causarán y pagarán los derechos siguientes:
 
-Entrada general:
+I. Entrada general:
 
 a) Niño. 0.71 UMA
 
 b) Adulto. 1.42 UMA
 
 c) Adulto mayor con tarjeta expedida por el Instituto Nacional de las Personas Adultas Mayores. 0.71 UMA
+
+II. Entrada para locales:
+
+a) Niño. 0.39 UMA
+
+b) Adulto. 0.77 UMA
+
+c) Adulto mayor con tarjeta expedida por el Instituto Nacional de las Personas Adultas Mayores. 0.39 UMA
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
 
 En relación a los servicios establecidos en el presente artículo, se otorgan los beneficios siguientes:
 
@@ -7722,6 +7728,26 @@ Para poder ser beneficiados con los descuentos otorgados en la presente fracció
 III. En apoyo al bienestar cultural y recreativo de los trabajadores de las dependencias, órganos desconcentrados, organismos descentralizados de la administración pública estatal, Poderes Legislativo y Judicial, así como los órganos autónomos y los Municipios, se les otorgará el 50 por ciento de descuento siempre que éstas suscriban convenios con el Centro de Interpretación y Convivencia con la Naturaleza "Yumka".
 
 IV. A los maestros y estudiantes que a través del organismo descentralizado denominado Sistema para el Desarrollo Integral de la Familia de Estado de Tabasco, sean canalizadas al Centro de Interpretación y Convivencia con la Naturaleza "Yumka" en apoyo al bienestar familiar, recibirán el 80 por ciento de descuento, de igual forma se otorgará el 70 por ciento de descuento a los padres de familia de dichos estudiantes.
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+V. Se otorgará un descuento del 50% sobre las tarifas establecidas en los párrafos primero y segundo de este artículo, en los siguientes días:
+
+a) Día de Reyes;
+
+b) Día del Niño;
+
+c) Día de la Madre;
+
+d) Día del Padre;
+
+e) Aniversario de la Independencia de México; y
+
+f) Aniversario del Centro de Interpretación y Convivencia con la Naturaleza "YUMKA'".
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+Los beneficios que se otorgan en este artículo no podrán ser acumulables.
 
 ### CAPÍTULO PRIMERO. PRODUCTOS
 
@@ -7903,7 +7929,7 @@ COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
 
 > <small>[N. DE E. VÉASE ANEXO PRIMERO DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO EN EL P.O. DE 30 DE DICIEMBRE DE 2015, PÁGINAS DE LA 88 A LA 136.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS AL ANEXO PRIMERO, P.O. 24 DE DICIEMBRE DE 2016, PÁGINAS DE LA 54 A LA 65; 5 DE JULIO DE 2017, PÁGINAS DE LA 55 A LA 85; 22 DE DICIEMBRE DE 2018, PÁGINAS DE LA 51 A LA 54; 21 DE DICIEMBRE DE 2019, PÁGINAS DE LA 95 A LA 97; 18 DE DICIEMBRE DE 2020, PÁGINAS DE LA 82 A LA 87; 21 DE DICIEMBRE DE 2021, PÁGINAS DE LA 116 A LA 125; 28 DE DICIEMBRE DE 2022, PÁGINAS DE LA 87 A LA 100]</small>
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO PRIMERO, P.O. 24 DE DICIEMBRE DE 2016, PÁGINAS DE LA 54 A LA 65; 5 DE JULIO DE 2017, PÁGINAS DE LA 55 A LA 85; 22 DE DICIEMBRE DE 2018, PÁGINAS DE LA 51 A LA 54; 21 DE DICIEMBRE DE 2019, PÁGINAS DE LA 95 A LA 97; 18 DE DICIEMBRE DE 2020, PÁGINAS DE LA 82 A LA 87; 21 DE DICIEMBRE DE 2021, PÁGINAS DE LA 116 A LA 125; 28 DE DICIEMBRE DE 2022, PÁGINAS DE LA 87 A LA 100; 20 DE DICIEMBRE DE 2023, PÁGINAS DE LA 66 A LA 68.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO EN EL P.O. DE 30 DE DICIEMBRE DE 2015, PÁGINAS DE LA 137 A LA 351.]</small>
 
@@ -8828,3 +8854,137 @@ CUARTO. Cuando en otras disposiciones legales se dé una denominación distinta 
 QUINTO. En tanto se expiden los nuevos ordenamientos, que regulen aspectos sustantivos y adjetivos de este mandato, seguirán aplicándose en lo conducente en todo lo que no se opongan a la Ley de Fomento y Protección Artesanal del Estado de Tabasco, las disposiciones legales, tanto reglamentarias como administrativas que regulaban los actos previstos en la Ley que se expide.
 
 SEXTO. La Secretaría, con el auxilio del Instituto para el Fomento de las Artesanías de Tabasco, contará con seis meses posteriores a la publicación de la Ley de Fomento y Protección Artesanal del Estado de Tabasco, para la elaboración del Padrón Estatal de Artesanas y Artesanos.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 181 POR EL QUE “ARTÍCULO SEGUNDO. SE REFORMAN: LOS ARTÍCULOS 39; 78, FRACCIONES XIII Y XIV; 81 PÁRRAFO PRIMERO; 82, PÁRRAFO SEGUNDO, FRACCIÓN III, INCISOS A), F) Y G); 103; FRACCIÓN XVI; 113 QUATER, PÁRRAFO PRIMERO; Y EL ARTÍCULO VIGÉSIMO DEL ANEXO PRIMERO, FRACCIONES I, IV INCISO D), V INCISO D), X, XIII, XV, XVI, XVIII, XX, XXII Y XXXV. SE ADICIONAN: LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 81, RECORRIÉNDOSE EL ACTUAL PÁRRAFO SEGUNDO PARA SER EL PÁRRAFO CUARTO; LOS INCISOS D) A LAS FRACCIONES I, II, IV Y V DEL ARTÍCULO 85; LA FRACCIÓN V AL PÁRRAFO SEGUNDO Y UN PÁRRAFO TERCERO AL ARTÍCULO 113 QUATER; LAS FRACCIONES XLII, XLIII, XLIV Y XLV AL ARTÍCULO DÉCIMO DEL ANEXO PRIMERO; Y LAS FRACCIONES XLII Y XLIII AL ARTÍCULO VIGÉSIMO DEL ANEXO PRIMERO. SE DEROGAN: LOS INCISOS D) DE LAS FRACCIONES I, II, IV Y V DEL ARTÍCULO 86; Y LOS INCISOS A), B) Y C) DE LA FRACCIÓN IV, LOS INCISOS A), B) Y C) DE LA FRACCIÓN V, Y EL INCISO A) DE LA FRACCIÓN VIII DEL ARTÍCULO VIGÉSIMO DEL ANEXO PRIMERO; TODOS DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día uno del mes de enero del año dos mil veinticuatro, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
+
+SEGUNDO. Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO. Cuando se disponga por mandato legal de la autoridad competente, tratándose de la transferencia de servicios públicos que preste el Gobierno del Estado y se trasladen a la autoridad municipal o, en su caso, de la municipalización de servicios públicos que el Gobierno del Estado tenga que entregar al Gobierno Municipal que corresponda y por cuyos servicios se establezca en la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2024 el concepto tributario, habrá de considerarse para los fines legales pertinentes, que una vez cumplidas las formalidades del caso, tales contribuciones se entenderán de competencia hacendaria de la autoridad municipal y sin necesidad de un nuevo Decreto habrán de tenerse insertas en el texto de la Ley de Ingresos del Municipio que corresponda o cualquier ordenamiento legal en que así proceda.
+
+Para el caso de aquellas contribuciones de carácter municipal, que mediante convenios sean transferidas al Gobierno del Estado, de conformidad con la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco, se entenderán de la competencia hacendaría estatal y sin necesidad de un nuevo Decreto habrán de tenerse insertadas en el texto de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2024 o cualquier otro ordenamiento legal en que así proceda.
+
+CUARTO. La Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2024 no contempla los recursos refrendados del ejercicio fiscal 2023, mismos que se reflejarán en el Presupuesto General de Egresos del Estado de Tabasco para el Ejercicio Fiscal 2024.
+
+QUINTO. La Secretaría de Finanzas expedirá dentro de los 15 días hábiles siguientes a la entrada en vigor del presente Decreto, las Reglas de Operación para la emisión, descarga y uso de la tarjeta de circulación digital y comprobante de vigencia.
+
+SEXTO. Para efecto de dar a conocer la validez de la vigencia de la tarjeta digital y el comprobante señalados en el transitorio anterior, se dará aviso a las Entidades Federativas y al Gobierno Federal, de la entrada en vigor del presente Decreto.
+
+SÉPTIMO. Por el periodo comprendido del 1 de enero al 30 de abril de 2024, se otorga un estímulo fiscal para las personas físicas y jurídicas colectivas, consistente en un 20%, 15%, 10% y 5% de descuento por concepto del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, establecidos en los artículos 85 fracción IV y 86 fracción IV de la Ley de Hacienda del Estado de Tabasco, causado en el ejercicio fiscal 2024; los contribuyentes que se adhieran al presente estímulo no deberán tener adeudos en sus obligaciones vehiculares anteriores al ejercicio fiscal 2024, y deberán realizar el pago del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, dentro del periodo en comento, conforme a la siguiente tabla:
+
+Concepto Estímulo Ejercicio fiscal Periodo de pago
+
+20% 01 al 31 de enero de 2024
+
+Refrendo anual
+
+de placa, tarjeta 15% 01 al 28 de febrero de 2024.
+
+de circulación y 2024
+
+calcomanía. 10% 01 al 31 de marzo de 2024.
+
+5% 01 al 30 de abril de 2024.
+
+OCTAVO. Por el periodo comprendido del 1 de enero al 30 de abril de 2024, se otorgan estímulos fiscales consistentes en descuentos en el pago por conceptos de multas, recargos, actualización, honorarios de notificación y gastos de ejecución, causados por la omisión del pago por los conceptos de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, así como por el concepto de canje de placas y emisión de documentos que amparan a la unidad para que circule legalmente en la vía pública, establecidos en los artículos 85 fracciones IV y V, 86 fracciones IV y V de la Ley de Hacienda del Estado de Tabasco, causados en los ejercicios anteriores al 2024; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago del derecho de refrendo anual de placas, tarjeta de circulación, dentro del periodo en comento, conforme a la siguiente tabla:
+
+Conceptos Estímulo Periodo de pago
+
+Actualización 50%
+
+Recargos 50% 01 de enero al 30 de abril de
+
+2024.
+
+Multas 50%
+
+Honorarios de notificación 30%
+
+y Gastos de Ejecución
+
+NOVENO. Por el periodo comprendido del 01 de enero al 30 de abril de 2024, se otorgará un descuento del 100% en los pagos por conceptos de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y de canje de placas y emisión de documentos que amparen a la unidad, establecidos en el artículo 85 fracciones IV y V de la Ley de Hacienda del Estado de Tabasco; del 100% en multas, recargos y actualizaciones; así como del 30% en honorarios de notificación y gastos de ejecución causados por la omisión del pago de dichos derechos, en el ejercicio 2024 y anteriores; a las personas físicas y jurídico colectivas propietarias de vehículos de modelos 2000 y anteriores, que se encuentren en total deterioro o que no cumplan con las condiciones físicas y técnicas que garanticen su seguridad para circular en la vía pública, y que además no hayan realizado ningún movimiento en el Registro Estatal de Vehículos en los últimos 10 años; conforme a la siguiente tabla:
+
+Concepto Estímulo Ejercicio Periodo de
+
+fiscal pago
+
+Refrendo anual de placa de
+
+circulación, tarjeta de circulación
+
+y calcomanía, por el concepto 01 de enero al
+
+de canje de placas y emisión de 100 % 2024 y 30 de abril de
+
+documentos que amparen a la anteriores 2024.
+
+unidad, así como en multas,
+
+recargos y actualizaciones.
+
+Honorarios de notificación 30 % 2024 y 01 de enero al
+
+y gastos de ejecución. anteriores 30 de abril de
+
+2024.
+
+Se realizará el cobro del derecho por concepto de Baja por Deterioro Natural, establecido en el artículo 85, fracción VI, inciso m) de la Ley de Hacienda del Estado de Tabasco.
+
+En caso que los contribuyentes cuenten con infracciones vehiculares, se les realizará el cobro del adeudo que se refleje en el Registro Estatal de Vehículos.
+
+No podrán acceder a este estímulo los vehículos que se encuentren bloqueados o con algún reporte por parte de autoridad competente.
+
+DÉCIMO. Por el periodo comprendido del 1 de enero al 30 de abril de 2024, se otorgará un beneficio del 70% de descuento en los pagos por conceptos de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y de canje de placas y emisión de documentos que amparen a la unidad, establecidos en el artículo 85 fracciones IV incisos b) y c), y V incisos b) y c), de la Ley de Hacienda del Estado de Tabasco; del 70% de descuento en multas, recargos y actualizaciones; del 70% de descuento sobre la actualización, multas y recargos; así como de un 30% de descuento en honorarios de notificación y gastos de ejecución causados por la omisión del pago de dichos derechos, todos respecto a los años anteriores al Ejercicio Fiscal 2024.
+
+DÉCIMO PRIMERO. Por el periodo comprendido del 1 de enero al 30 de abril de 2024, se otorgará un beneficio del 100% de descuento para los adeudos por concepto de Impuesto de Traslado de Dominio de Bienes Muebles Usados, establecido en el artículo 12 de la Ley de Hacienda del Estado de Tabasco vigente, para el trámite de cambio de propietario de motocicletas, motocarro de 3 y 4 llantas, motonetas y vehículos recreativos todo terreno; de igual forma un 70% de descuento sobre la actualización, multas y recargos, así como un 30% de descuento en honorarios de notificación y gastos de ejecución que deriven de la omisión en el pago por concepto del derecho establecido en el artículo 85 fracción I incisos b) y c) de la Ley de Hacienda del Estado de Tabasco, todo respecto a los años anteriores al Ejercicio Fiscal 2024.
+
+DÉCIMO SEGUNDO. El Ejecutivo Estatal a través de la Secretaría de Finanzas implementará un programa de regularización y depuración del Registro Estatal de Vehículos, que estará vigente durante el 2024, con el que se permitirá realizar la suspensión administrativa de obligaciones vehiculares en dicho registro a los contribuyentes que se encuentren sujetos a las contribuciones vehiculares correspondientes, a pesar de que con anterioridad a la entrada en vigor del presente Decreto hayan vendido o cedido la propiedad de vehículos nacionales usados cuyo año modelos (sic) sea 2016 y anteriores.
+
+La suspensión administrativa de obligaciones vehiculares será autorizada por la Secretaría de Finanzas, quien deberá expedir a más tardar a los 15 días hábiles siguientes a la entrada en vigor del presente Decreto las reglas de operación para la correcta aplicación del programa.
+
+DÉCIMO TERCERO. Por el periodo comprendido del 01 de enero al 30 de abril de 2024, se otorgará un descuento del 70% en los pagos por concepto de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y de canje de placas y emisión de documentos que amparen a la unidad establecidos en el artículo 85 fracciones IV y V de la Ley de Hacienda del Estado de Tabasco, causados en el ejercicio 2023 y anteriores; así como del 70% en multas, recargos y actualizaciones y del 30% en honorarios de notificación y gastos de ejecución causados por la omisión del pago de dichos derechos; a las personas físicas y jurídico colectivas que teniendo la obligación de realizar el trámite de baja del Registro Estatal de Vehículos, respecto de los vehículos usados modelos 2016 y anteriores, hayan omitido realizarlo dentro del plazo establecido en el artículo 82, fracción II de la Ley de Hacienda del Estado de Tabasco; conforme a la siguiente tabla:
+
+Concepto Estímulo Ejercicio Periodo de
+
+Fiscal Pago
+
+Refrendo anual de placa de
+
+circulación, tarjeta de circulación
+
+y calcomanía, 70% 2024 y 01 de enero al
+
+anteriores 30 de abril de
+
+canje de placas y emisión de 2024.
+
+documentos que amparen a la
+
+unidad, así como en multas,
+
+recargos y actualizaciones.
+
+Honorarios de Notificación y 2024 y 01 de enero al
+
+Gastos de Ejecución. 30% anteriores 30 de abril de
+
+2024.
+
+Se pagará el 100% del costo de la baja por Suspensión de Obligaciones Vehiculares en el Registro Estatal de Vehículos, establecido en el artículo 85 fracción VI, inciso l), de la Ley de Hacienda del Estado de Tabasco.
+
+En caso que los contribuyentes cuenten con infracciones de tránsito, deberán realizar el pago correspondiente para ser beneficiario de este estímulo.
+
+DÉCIMO CUARTO. Los estímulos a que se refieren los artículos anteriores, también procederán aún y cuando existan créditos fiscales que hayan sido objeto de impugnación ante las autoridades administrativas o jurisdiccionales, siempre que a la fecha de la adhesión, el procedimiento de impugnación respectivo haya quedado concluido mediante resolución firme, o bien, de no haber concluido, el contribuyente presente la solicitud de desistimiento a dicho medio de defensa debidamente ratificado ante la autoridad competente.
+
+No se podrán aplicar los estímulos establecidos en los artículos transitorios, a los créditos fiscales pagados y en ningún caso dará lugar a devolución, compensación, acreditamiento o saldo a favor alguno.
+
+La adhesión a los estímulos previstos en los artículos anteriores no constituirá instancia y la resolución que dicte la autoridad fiscal al respecto, no podrá ser impugnada por ningún medio de defensa.
+
+DÉCIMO QUINTO. La Secretaría de Finanzas expedirá dentro de los 15 días hábiles siguientes a la entrada en vigor del presente Decreto, las reglas de operación que considere necesarias para la correcta aplicación de los estímulos fiscales que se otorgan en los artículos transitorios que anteceden.
+
+DÉCIMO SEXTO. Con fundamento en el artículo 116 del Código Fiscal del Estado de Tabasco, se declara la prescripción de los créditos y obligaciones fiscales derivados de las contribuciones por concepto de Impuesto Vehicular Estatal, refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, así como sus accesorios, anteriores al ejercicio fiscal 2019, que se encuentren en el sistema del Registro Estatal de Vehículos de la Secretaría de Finanzas; siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
+
+Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
