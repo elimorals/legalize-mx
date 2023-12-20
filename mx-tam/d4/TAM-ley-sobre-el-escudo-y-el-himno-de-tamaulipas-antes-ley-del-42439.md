@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-escudo-y-el-himno-de-tamaulipas-antes-ley-del-4243
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2023-12-07"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE EL ESCUDO Y EL HIMNO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2004.
 
@@ -104,6 +104,10 @@ Para la utilización del Escudo de Tamaulipas en monedas conmemorativas, medalla
 ###### Artículo 6.
 
 El Escudo del Estado podrá usarse en los vehículos que utilicen los servidores públicos del Estado y en el papel de las dependencias de los poderes estatales y de los entes públicos del Estado, así como de los Ayuntamientos, sin que pueda utilizarse para documentos particulares. Para la impresión y uso del Escudo del Estado en la papelería de las entidades públicas se requerirá acuerdo de la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+Asimismo, el Escudo del Estado podrá utilizarse en la indumentaria, pendones o distintivos de equipos u organizaciones deportivas, instituciones educativas y culturales del Estado de Tamaulipas y por quienes representen a la entidad en justas deportivas, educativas y culturales, debiendo portarlo con respeto y honor.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
@@ -808,6 +812,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 7 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-735 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN LXXI BIS, AL ARTÍCULO 11 DE LA LEY SOBRE EL ESCUDO Y EL HIMNO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO.65-747 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 6 DE LA LEY SOBRE EL ESCUDO Y EL HIMNO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
