@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-justicia-administrativa-para-el-estado-de-morelos-122618
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-19"
-last_updated: "2018-08-31"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de julio de 2017.
 
@@ -57,9 +57,11 @@ LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS
 
 ### Capítulo Único. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 1.
 
-En el Estado de Morelos, toda persona tiene derecho a controvertir los actos, omisiones, resoluciones o cualquier otra actuación de carácter administrativo o fiscal emanados de dependencias del Poder Ejecutivo del Estado, de los Ayuntamientos o de sus organismos descentralizados, que afecten sus derechos e intereses legítimos conforme a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, los Tratados Internacionales y por esta ley.
+En el Estado de Morelos, toda persona tiene derecho a controvertir los actos, omisiones, resoluciones o cualquier otra actuación de carácter administrativo o fiscal emanados de dependencias del Poder Ejecutivo del Estado, de los Ayuntamientos o de sus organismos descentralizados, del órgano técnico de fiscalización, auditoría, control y evaluación del Congreso del Estado, así como de los organismos constitucionales autónomos, con excepción de los que tengan competencia en materia electoral, acceso a la información pública y de derechos humanos, que afecten sus derechos e intereses legítimos conforme a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, los Tratados Internacionales y por esta ley.
 
 Conforme a lo dispuesto en el artículo 109 bis de la Constitución Política del Estado Libre y Soberano de Morelos, se reconoce también el interés legítimo para controvertir la existencia (sic) conflicto de intereses considerando la (sic) situaciones en las que el juicio del servidor público en relación a su interés primario y la integridad de sus acciones en el empleo, cargo o comisión, pueda ser influenciado por un interés personal, familiar o de negocios que tiende a afectar el desempeño imparcial u objetivo de su función en cualquier forma; y la compatibilidad de dos o más empleos o comisiones de los servidores públicos del Estado deberá de atenderse conforme a la naturaleza y la eficiencia del empleo, cargo o comisión, las restricciones constitucionales, y la pertinencia en función de los horarios o funciones a desempeñar (sic) el servicio público frente a otro empleo.
 
@@ -143,7 +145,9 @@ Para hacer cumplir sus determinaciones o para imponer el orden, el Tribunal y la
 
 I. Amonestación;
 
-II. Multa hasta de cien veces el valor diario de la Unidad de Medida y Actualización, que se reiterará cuantas veces sea necesario;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+II. Multa de hasta doscientas veces el valor diario de la Unidad de Medida y Actualización, que se reiterará cuantas veces sea necesario.
 
 III. Arresto hasta por treinta y seis horas;
 
@@ -1446,3 +1450,23 @@ OCTAVA. En tanto entra en funcionamiento la Plataforma Digital Nacional a que se
 NOVENA. De conformidad con lo dispuesto en el artículo 25, fracción XVIII, de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos, que por virtud de este instrumento se reforma, los juicios sobre responsabilidad administrativa de Notarios, que se encuentren en trámite o en proceso ante las salas de instrucción del Tribunal de Justicia Administrativa, deberán ser transferidos con los expedientes respectivos, en un plazo no mayor a 5 días hábiles contados a partir de la entrada en vigor de este instrumento, a las Salas Especializadas de dicho Tribunal, a fin de que sean estas últimas quienes continúen con su desahogo hasta su conclusión, en términos de la normativa aplicable, sin que el cambio de autoridad jurisdiccional pueda modificar o alterar su curso o resultado.
 
 En caso de que la sala de instrucción de que se trate no realice el traslado respectivo en el plazo a que se refiere el párrafo anterior, cualquiera de las partes podrá solicitarle por escrito que se lleve a cabo dicha transferencia.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL SEISCIENTOS CUARENTA Y SEIS.- POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS, DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS, Y DE LA LEY SOBRE EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Dentro de los 60 días hábiles siguientes el Pleno del Tribunal de Justicia Administrativa, deberá crear la Unidad de Género y Derechos Humanos del citado órgano jurisdiccional y su correspondiente reglamentación; asimismo, en el mismo plazo deberá crear la Unidad que lleve a cabo el registro de medidas de apremio y sanciones que se impongan a los servidores públicos, de conformidad con el contenido del presente Decreto.
+
+CUARTA. El Congreso del Estado deberá prever en el Presupuesto de egresos para el ejercicio fiscal del año 2024 y subsecuentes los recursos necesarios para que el Tribunal de Justicia Administrativa, pueda dar debido cumplimiento a lo previsto en el presente decreto.
+
+QUINTA. Se autoriza a la Secretaría de Hacienda del Poder Ejecutivo Estatal para que efectúe la ampliación presupuestal para el cumplimiento del presente Decreto en cuanto hace al presente ejercicio fiscal.
+
+SEXTA. Se ratifica el oficio emitido por el Presidente de la Mesa Directiva del Congreso del Estado de Morelos, mediante el cual se dio cumplimiento a la ejecutoria pronunciada en la acción de inconstitucionalidad 20/2017, del cual derivó el acuerdo plenario del Tribunal de Justicia Administrativa, publicado en el Periódico Oficial “Tierra y Libertad”, número 6053 de fecha 16 de marzo de 2022, referente a las adscripciones e integración del citado órgano jurisdiccional.
+
+SÉPTIMA. En un plazo no mayor a los sesenta días naturales, el Tribunal de Justicia Administrativa del Estado de Morelos, hará las modificaciones a su reglamentación interna, para dar cumplimiento a lo ordenado en el presente ordenamiento.
+
+OCTAVA. Se derogan todas las disposiciones jurídicas que se opongan a lo previsto en el presente ordenamiento.
