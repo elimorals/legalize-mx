@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2023-02-01"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -4055,11 +4055,19 @@ Todos los vehículos automotores en circulación en el Estado de Morelos, deben 
 
 Los derechos por concepto de verificación vehicular los ejercerá la Secretaría de Desarrollo Sustentable del Poder Ejecutivo del Estado de Morelos.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 91.
 
 Los vehículos que no hayan sido verificados en los plazos y condiciones estipuladas en el Programa de Verificación Vehicular Obligatoria para el estado de Morelos, serán considerados extemporáneos y los propietarios o poseedores de los mismos, se harán acreedores al pago de la multa única por el o los periodos de verificación vehicular, que conforme al calendario establecido en el Programa de Verificación Vehicular Obligatoria para el estado de Morelos, se encuentren vencidos.
+
+La multa a que se refiere el párrafo anterior, no será aplicable cuando el vehículo no haya podido ser presentado a la verificación vehicular dentro de los plazos y condiciones contempladas en el Programa de Verificación Vehicular Obligatoria para el Estado de Morelos, en los siguientes casos:
+
+I. Cuando por motivo de robo, el poseedor o propietario no haya contado con la plena posesión del vehículo para presentarlo a la verificación vehicular dentro de los plazos establecidos, siempre que se acredite la denuncia ante las autoridades correspondientes;
+
+II. Cuando por siniestro, el vehículo haya sido declarado con pérdida parcial por alguna institución aseguradora, y para su reparación, se requiera la inmovilización del vehículo que le impida realizar la verificación vehicular dentro de los plazos establecidos, siempre y cuando se acredite lo anterior por la misma institución aseguradora.
+
+No será aplicable lo dispuesto en esta fracción tratándose de siniestros en los que el conductor del vehículo automotor se encontraba en estado de ebriedad o bajo los efectos de sustancias enervantes.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
@@ -6416,3 +6424,15 @@ PRIMERA.- Remítase el presente decreto al Titular del Poder Ejecutivo Estatal p
 SEGUNDA.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA.- Se derogan todas aquellas disposiciones de igual o menor rango que contravengan el presente decreto.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS SETENTA Y OCHO.- POR EL QUE SE REFORMA EL ARTÍCULO 91 DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. La Secretaría de Desarrollo Sustentable deberá emitir en un plazo no mayor a 30 días hábiles contados a partir de la entrada en vigor del presente, las disposiciones administrativas o reglamentarias que permitan el cumplimiento de lo establecido en el presente Decreto.
+
+CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente Decreto.
