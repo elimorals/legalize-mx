@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-animal-del-estado-de-guanajuato-107450"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-21"
-last_updated: "2021-06-22"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCIÓN ANIMAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 21 de abril de 2015.
 
@@ -185,9 +185,17 @@ Son obligaciones en común de las autoridades de la presente Ley, las siguientes
 
 I. Reconocer a los animales domésticos como seres sintientes por lo que se deberán realizar acciones para su trato adecuado;
 
-II. Establecer medidas para la protección de los animales domésticos incluyendo las conductas prohibidas y sus respectivas sanciones; e
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-III. Implementar estímulos e incentivos, así como asesoría y asistencia técnica a las personas que brinden albergue y resguardo a los animales domésticos en abandono.
+II. Establecer medidas para la protección de los animales domésticos incluyendo las conductas prohibidas y sus respectivas sanciones;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+III. Implementar estímulos e incentivos, así como asesoría y asistencia técnica a las personas que venden albergue y resguarda (sic) los animales domésticos en abandono; y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+IV. Vigilar y supervisar el trato adecuado a los animales destinados a las actividades de seguridad pública y privada, contempladas en la Ley del Sistema de Seguridad Pública del Estado de Guanajuato y en la Ley de Seguridad Privada del Estado de Guanajuato.
 
 ### CAPÍTULO III. Participación Social
 
@@ -916,3 +924,15 @@ Artículo Segundo. Los ayuntamientos contarán con un plazo de ciento ochenta d�
 Previsiones presupuestales
 
 Artículo Tercero. Los ayuntamientos deberán considerar las previsiones presupuestales para el cumplimiento del presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 242 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DE ESTADO DE GUANAJUATO, LA LEY DE SEGURIDAD PRIVADA DEL ESTADO DE GUANAJUATO, Y LA LEY PARA LA PROTECCIÓN ANIMAL DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de la vigencia
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
+
+Adecuaciones reglamentarias y presupuesto
+
+SEGUNDO. El titular del Poder Ejecutivo y los ayuntamientos, en el ámbito de sus respectivas competencias y en un plazo no mayor de 180 días contados a partir de la entrada en vigor de este Decreto, deberán realizar la emisión o actualización reglamentaria correspondiente, así como asignar de manera progresiva recursos presupuestales necesarios para garantizar la implementación de la infraestructura, insumos, acciones y actividades de la unidad canina y equina conforme las reformas aprobadas.
