@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-21747"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-29"
-last_updated: "2023-08-24"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21747&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 29 de junio de 2001.
 
@@ -443,9 +443,15 @@ XXXVIII.- Establecer las medidas necesarias para hacer frente al cambio climáti
 
 XXXIX.- Elaborar, difundir y aplicar un programa de sustitución de plásticos, con la finalidad de reducir el consumo de bolsas, envases, embalajes o empaques de plástico que se utilicen en establecimientos mercantiles y que se entreguen para la contención, transporte y envase de mercancías, asimismo, deberá informar y fomentar la educación de los habitantes del Estado, sobre el impacto negativo que producen los plásticos en el medio ambiente, y
 
-> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-XL.- Expedir las normas técnicas estatales ambientales para la preservación, conservación, remediación y restauración de la calidad ambiental, incluyendo lo relativo a los efectos del cambio climático, que sean más estrictas que las normas oficiales mexicanas o que se refieran a aspectos no previstos por éstas.
+XL.- Coordinarse con los municipios para que, en los Programas de Ordenamiento Ecológico Municipal, se prohíba ingresar a cuerpos de agua que se encuentren dentro de su jurisdicción, conforme a lo establecido en la normatividad aplicable, con sustancias químicas o cualquier producto que genere o pueda generar un daño ecológico.
+
+Además, los municipios del Estado deberán aplicar en sus Programas de Ordenamiento Ecológico, el principio precautorio a todas las actividades conforme a lo establecido en la normatividad aplicable con el objetivo de proteger, prevenir y cuidar el medio ambiente dentro de su jurisdicción, con el fin de prevenir daños ambientales y garantizar los recursos naturales de nuestro Estado para nuestras futuras generaciones.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XLI.- Expedir las normas técnicas estatales ambientales para la preservación, conservación, remediación y restauración de la calidad ambiental, incluyendo lo relativo a los efectos del cambio climático, que sean más estrictas que las normas oficiales mexicanas o que se refieran a aspectos no previstos por éstas.
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2016)</small>
 
@@ -515,7 +521,15 @@ XXV.- La aplicación de las sanciones correspondientes por el incumplimiento de 
 
 XXVI.- Establecer y ejecutar de manera continua, campañas y programas dirigidos a la educación y cultura ambiental, en el ámbito de su competencia, y
 
-XXVII.- La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les confiere esta Ley, u otros ordenamientos legales acordes con ella y que no estén otorgados expresamente a la Federación o al Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XXVII.- Establecer en los Programas de Ordenamiento Municipal, acciones que impidan la contaminación de cuerpos de agua que se encuentren dentro de su jurisdicción, conforme a lo establecido en la normatividad aplicable, con sustancias químicas o cualquier producto que genere o pueda generar un daño ecológico.
+
+De igual manera, deberán los ayuntamientos promover campañas y programas de concientización en la ciudadanía tendientes a fomentar el uso correcto de los protectores solares y evitar su uso cuando estos generen un daño ambiental, con la finalidad de reducir la contaminación de los cuerpos de agua que se encuentren dentro de su jurisdicción.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XXVIII.- La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les confiere esta Ley, u otros ordenamientos legales acordes con ella y que no estén otorgados expresamente a la Federación o al Estado.
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2016)</small>
 
@@ -3631,6 +3645,24 @@ CUARTO. Los programas de desarrollo urbano, así como las autorizaciones de acci
 
 QUINTO. El Ejecutivo del Estado y los Municipios contarán con un plazo de un año contado a partir de la entrada en vigor de este Decreto, para formular, consultar y promover la aprobación de los Programas correspondientes al Desarrollo Urbano, conforme a sus competencias.
 
-SEXTO. Durante el Ejercicio Fiscal de 2023, los derechos establecidos en la Ley de Hacienda del Estado de Quintana Roo, por concepto de Constancia de Compatibilidad Territorial, serán aplicables a las Constancias de Congruencia Urbanística Estatal y al Dictamen de Impacto Urbanístico, a que se refiere esta Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+SEXTO. Durante el ejercicio fiscal de 2023, los derechos establecidos en la Ley de Derechos del Estado de Quintana Roo, por concepto de Constancia de Compatibilidad Territorial, serán aplicables a las Constancias de Congruencia Urbanística Estatal y el Dictamen de Impacto Urbanístico, a que se refiere esta Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo.
 
 SÉPTIMO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 190 POR EL QUE SE REFORMA EL ARTÍCULO SEXTO TRANSITORIO DEL DECRETO 093 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO; DE LA LEY DE ACCIONES URBANÍSTICAS, Y DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, TODAS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 192 POR EL QUE SE REFORMA LA FRACCIÓN XL DEL ARTÍCULO 5º Y LA FRACCIÓN XXVII DEL ARTÍCULO 6º, Y SE ADICIONA LA FRACCIÓN XLI AL ARTÍCULO 5º Y LA FRACCIÓN XXVIII AL ARTÍCULO 6º, TODOS DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
