@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2023-12-18"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -1593,6 +1593,10 @@ c) Causada con sustancias corrosivas, o
 
 d) Haya sido en los órganos sexuales de la víctima.
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+VII. Cuando se cometan en agravio de periodistas, teniendo como propósito obstaculizar, limitar o impedir su libertad de expresión, o por motivo del desempeño de su actividad profesional.
+
 ###### ARTICULO 107.
 
 Cuando el homicidio o las lesiones se cometen culposamente con motivo del tránsito de un transporte del servicio público, la pena se agravará hasta en una mitad más de la señalada por el delito culposo, y se aplicará además, la suspensión del empleo, cargo o comisión, e inhabilitación para obtener otros de la misma naturaleza y privación definitiva de licencia para conducir.
@@ -2003,9 +2007,9 @@ Además de las penas señaladas, se le privará de los derechos derivados de la 
 
 ### CAPITULO IV. ACOSO SEXUAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-ARTICULO 130 BIS. Comete el delito de acoso sexual aquella persona que en el ámbito laboral, escolar o cualquier otro, en el que no medie una relación de subordinación, asedie o acose de forma sexual o lasciva a otra persona de cualquier sexo o solicite favores de naturaleza sexual, para sí o para un tercero. A quien cometa este delito se le impondrá de seis meses a dos años de prisión y trescientos a quinientos días multa, sin perjuicio de las sanciones laborales y administrativas a las que haya lugar.
+ARTICULO 130 BIS. Comete el delito de acoso sexual aquella persona que en el ámbito laboral, escolar, en las tecnologías de la información y las comunicaciones o en cualquier otro, en el que no medie una relación de subordinación, asedie o acose de forma sexual o lasciva a otra persona de cualquier sexo o solicite favores de naturaleza sexual, para sí o para un tercero. A quien cometa este delito se le impondrá de seis meses a dos años de prisión y trescientos a quinientos días multa, sin perjuicio de las sanciones laborales y administrativas a las que haya lugar.
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2021)</small>
 
@@ -2313,11 +2317,13 @@ Se entenderá por difundir a la actividad consistente en extender, esparcir y/o 
 
 Para los efectos de este Código, el delito de robo se tendrá por consumado desde que el autor tenga la cosa robada, aunque lo abandone o lo priven de ella.
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 146
 
-BIS.- Cuando se trataré del robo de un vehículo automotor terrestre que sea objeto de registro conforme a la ley de la materia, con excepción de las motocicletas, la pena será de tres a siete años de prisión y de cien a trescientos días multa.
+BIS.- Cuando se trataré del robo de un vehículo automotor terrestre que sea objeto de registro conforme a la ley de la materia, incluyendo motocicletas y motonetas, la pena será de cuatro a ocho años de prisión y de cien a trescientos días multa.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
 
 La pena prevista en el párrafo anterior se aumentará en una mitad, cuando en el robo participe algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción de delito o ejecución de penas, así como aquel servidor público que dentro de sus funciones tenga la guarda de vehículos en lugares destinados para su depósito, además a estos servidores públicos, se le aplicará destitución e inhabilitación para desempeñar cualquier empleo, cargo o comisión públicos por un tiempo igual al de la pena de prisión impuesta.
 
@@ -3135,6 +3141,22 @@ Cuando el delito previsto en este artículo sea cometido por un servidor públic
 
 Este delito será perseguido de oficio.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+###### ARTICULO 179
+
+TER-1.- Se impondrá pena de uno a cinco años de prisión y de doscientos a mil días multa a quien:
+
+I. Posea, entrene, compre o venda perros con la finalidad de involucrarlos en cualquier exhibición, espectáculo o actividad que involucre pelea entre perros;
+
+II. Organice, promueva, anuncie, patrocine o venda entradas para asistir a cualquier exhibición, espectáculo o actividad que involucre pelea entre perros;
+
+III. Posea o administre una propiedad en la que se realicen peleas de perros con conocimiento de dicha actividad, y
+
+IV. Ocasione que niñas, niños y adolescentes asistan o presencien cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros.
+
+A quien asista como espectador a cualquier exhibición, espectáculo o actividad que implique una pelea entre perros, se le impondrá un tercio del mínimo a un tercio del máximo de la pena prevista en este artículo.
+
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTICULO 179
@@ -3459,7 +3481,7 @@ QUÁTER.- Se sancionará con prisión de tres a seis años e inhabilitación del
 
 ### CAPITULO VI. DE LA USURPACIÓN DE IDENTIDAD
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 194
 
@@ -3473,11 +3495,15 @@ Si el agente se valiese de una función pública o tuviere la patria potestad, g
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-### CAPITULO UNICO. RESPONSABILIDAD PROFESIONAL Y TECNICA
+### CAPÍTULO VII. DELITOS CONTRA LA ORIENTACIÓN SEXUAL, IDENTIDAD O EXPRESIÓN DE GÉNERO DE LAS PERSONAS
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 195
 
-SEXTIES (SIC).- El delito de usurpación se define como al que por cualquier medio usurpe o suplante con fines ilícitos o de lucro la identidad de una persona u otorgue consentimiento para llegar (sic) a cabo la usurpación o suplantación de su identidad, se le impondrá una pena de seis meses a seis años de prisión y de cuatrocientos a seiscientos días multa.
+SEXTIES (SIC).- Comete el delito de usurpación de identidad y se le impondrá una pena de seis meses a seis años de prisión y de cuatrocientos a seiscientos días multa, a quien, por cualquier medio, incluyendo las tecnologías de la información y comunicación, suplante, utilice, transfiera, se apropie o se apodere de los datos personales de otra persona sin autorización del titular o de quien pueda otorgarla, o la haya obtenido mediante error o engaño, independientemente que sean usados con fines ilícitos, o de lucro; o que, en complicidad del titular de los datos personales, se coaligue para cometer un delito.
+
+Se entenderá por datos personales a los elementos identificativos propios de un individuo o colectividad, tales como nombre, domicilio, teléfono, datos biométricos (huellas dactilares, reconocimiento de iris), fotografías, números de licencia y de seguridad social, así como cualquier otra información financiera, médica o que pueda ser usada para identificar de manera única a una persona, incluida la firma electrónica.
 
 > <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
@@ -3495,6 +3521,32 @@ IV. Al que por algún uso del medio informático, telemático o electrónico, o 
 
 En el supuesto que el activo tenga licenciatura, ingeniería o cualquier grado académico reconocido en los rubros antes mencionados, la pena se aumentara hasta en una mitad más.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+### CAPITULO UNICO. RESPONSABILIDAD PROFESIONAL Y TECNICA
+
+###### ARTICULO 195
+
+OCTIES. Se impondrá de dos a seis años de prisión y multa de cien a doscientos (sic) veces el valor diario de la Unidad de Medida y Actualización, a la persona física que imparta, aplique, obligue, induzca, financie, someta a terapias de conversión, entendiéndose como estas a aquellas prácticas consistentes en sesiones psicológicas, psiquiátricas, métodos, practicas o tratamientos, que tenga por objeto la pretensión de modificar, reprimir, reorientar, menoscabar, restringir, anular, suprimir o cambiar la orientación sexual, identidad o expresión de género de una persona, en las que se emplee cualquier tipo de violencia que atente contra la dignidad e integridad humana.
+
+Se aumentará al doble la sanción prevista en el párrafo anterior del presente artículo, en los casos en que las conductas tipificadas se realicen en contra de personas menores de dieciocho años, personas mayores, personas con alguna discapacidad o personas que no cuenten con la capacidad de comprender el hecho.
+
+En caso de que el padre, madre o tutor de la víctima sean quienes incurran en las conductas sancionadas, se les aplicará las sanciones de amonestación o apercibimiento y quince días de trabajo a favor de la comunidad, así también el juez podrá ordenar vista al juez competente de lo familiar a efecto de que se resuelva lo que conforme a derecho corresponda.
+
+Las sanciones señaladas en el primer párrafo de este artículo se aumentarán al doble de la que corresponda, cuando la persona autora tuviere para con la víctima, alguna de las relaciones que a continuación se enuncian o bien, se sitúen en alguno de los siguientes supuestos:
+
+a) Relación laboral, docente, doméstica, médica o cualquier otra que implique una subordinación de la víctima;
+
+b) Quien se valga de función pública para cometer el delito, y
+
+c) Cuando la persona autora emplee violencia física, psicológica o moral en contra de la víctima.
+
+En los casos de los incisos a) y b), además de las sanciones señaladas, se castigará con destitución e inhabilitación para desempeñar el cargo o comisión o cualquiera otro de carácter público o similar, hasta por un tiempo igual a la pena impuesta.
+
+Tratándose del sujeto activo, una persona física con cédula profesional, se suspenderá dicha cédula profesional hasta por un tiempo igual a la pena impuesta. Este delito se perseguirá de oficio en los casos en que las conductas tipificadas se realicen en contra de personas menores de dieciocho años, personas mayores, personas con alguna discapacidad o personas que no cuenten con la capacidad de comprender el hecho, en el caso de las demás personas que no encuadren en la hipótesis anterior de este párrafo, el delito se perseguirá por querella.
+
+## TITULO QUINTO. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESION
+
 ### CAPÍTULO ÚNICO
 
 > <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
@@ -3504,12 +3556,6 @@ En el supuesto que el activo tenga licenciatura, ingeniería o cualquier grado a
 Los profesionistas y sus auxiliares que cometan delitos en el ejercicio de su actividad sufrirán además de las penas que les correspondan por tales delitos, la suspensión en el ejercicio de ésta, de seis meses a tres años.
 
 Si reincidieren, la suspensión para ejercer dicha actividad podrá aumentarse hasta en una mitad más.
-
-## TITULO QUINTO. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESION
-
-### Capítulo Único. Delitos de Operaciones con Recursos de Procedencia Ilícita
-
-> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTICULO 196.
 
@@ -3549,7 +3595,9 @@ A los profesionistas o técnicos no comprendidos en las disposiciones anteriores
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-### CAPITULO I. SEDICION
+### Capítulo Único. Delitos de Operaciones con Recursos de Procedencia Ilícita
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTICULO 199
 
@@ -3597,7 +3645,7 @@ Si el agente se valiese de una función pública se le impondrá de seis meses a
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
-### CAPITULO II. MOTIN
+### CAPITULO I. SEDICION
 
 ###### ARTÍCULO 199
 
@@ -3623,7 +3671,7 @@ Además de las penas señaladas en el párrafo anterior, se impondrá inhabilita
 
 ## TITULO PRIMERO. DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO
 
-### CAPITULO III. REBELION
+### CAPITULO II. MOTIN
 
 ###### ARTICULO 200.
 
@@ -3631,13 +3679,13 @@ A los que en forma tumultuaria ataquen a la autoridad para impedir el libre ejer
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de sedición se les aplicará prisión de uno a cuatro años.
 
-### CAPITULO IV. TERRORISMO
+### CAPITULO III. REBELION
 
 ###### ARTICULO 201.
 
 A los que pretextando el ejercicio de un derecho se reúnan tumultuariamente; empleando violencia en las personas o fuerza sobre las cosas, y bienes del Estado, se les aplicará de seis meses a dos años de prisión.
 
-### CAPITULO V. SABOTAJE
+### CAPITULO IV. TERRORISMO
 
 ###### ARTICULO 202.
 
@@ -3651,11 +3699,7 @@ III.- Separar o impedir el desempeño de su cargo al Gobernador o alguno de los 
 
 IV.- Sustraer de la obediencia del Gobierno, toda o una parte de la población del Estado o algún cuerpo de Seguridad Pública de la Entidad.
 
-### CAPÍTULO VI. USO INDEBIDO DE INFORMACIÓN SOBRE LAS ACTIVIDADES DE SEGURIDAD PUBLICA Y PROCURACION DE JUSTICIA
-
-(NOTA: EL 19 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 110/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 14 DE SEPTIEMBRE DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 358, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+### CAPITULO V. SABOTAJE
 
 ###### ARTICULO 203.
 
@@ -3663,7 +3707,11 @@ A los que utilizando explosivos, sustancias tóxicas, armas de fuego por incendi
 
 Al que teniendo conocimiento de las actividades de un terrorista y de su identidad no lo haga saber a las autoridades, se le aplicará de uno a siete años de prisión.
 
-### CAPITULO VII. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TITULO
+### CAPÍTULO VI. USO INDEBIDO DE INFORMACIÓN SOBRE LAS ACTIVIDADES DE SEGURIDAD PUBLICA Y PROCURACION DE JUSTICIA
+
+(NOTA: EL 19 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 110/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 14 DE SEPTIEMBRE DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 358, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTICULO 204.
 
@@ -3679,9 +3727,7 @@ Al que teniendo conocimiento de las actividades de un saboteador y de su identid
 
 > <small>(REFORMADO [N. DE E. ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA], P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
-### CAPITULO I. DISPOSICIONES COMUNES
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+### CAPITULO VII. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TITULO
 
 ###### ARTICULO 204
 
@@ -3697,9 +3743,7 @@ Cuando la conducta se lleve a cabo utilizando equipo o vehículos oficiales, que
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO VI] P.O. 30 DE NOVIEMBRE DE 2012)
 
-### CAPÍTULO II
-
-Uso Ilícito de atribuciones y facultades del servicio público.
+### CAPITULO I. DISPOSICIONES COMUNES
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -3711,9 +3755,9 @@ Además de las penas señaladas para los delitos previstos en este título, se i
 
 ## TITULO SEGUNDO. DELITOS CONTRA LA ADMINISTRACION PUBLICA COMETIDOS POR SERVIDORES PUBLICOS
 
-### CAPÍTULO III
+### CAPÍTULO II
 
-Ejercicio Abusivo de Funciones.
+Uso Ilícito de atribuciones y facultades del servicio público.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -3741,7 +3785,9 @@ Cuando los delitos a los que se refieren este Título, el Título Primero y los 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2017)</small>
 
-### CAPITULO IV. TRAFICO DE INFLUENCIAS
+### CAPÍTULO III
+
+Ejercicio Abusivo de Funciones.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -3791,7 +3837,9 @@ Al que cometa el delito a que se refiere el presente artículo, se le impondrán
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2017)</small>
 
-### CAPITULO I. PROMOCION DE CONDUCTAS ILICITAS COHECHO Y DISTRACCION DE RECURSOS PUBLICOS
+### CAPITULO IV. TRAFICO DE INFLUENCIAS
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 208.
 
@@ -3807,7 +3855,7 @@ Cuando la cuantía a que asciendan las operaciones a que hace referencia este ar
 
 Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión y de cien a ciento cincuenta días multa
 
-### CAPITULO II. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
+### CAPITULO I. PROMOCION DE CONDUCTAS ILICITAS COHECHO Y DISTRACCION DE RECURSOS PUBLICOS
 
 ###### ARTICULO 209.
 
@@ -3825,7 +3873,7 @@ Al que cometa el delito de tráfico de influencia, se le impondrán de dos años
 
 ## TITULO TERCERO. DELITOS CONTRA LA ADMINISTRACION PUBLICA
 
-### CAPITULO III. QUEBRANTAMIENTO DE SELLOS
+### CAPITULO II. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
 ###### ARTICULO 210.
 
@@ -3847,7 +3895,7 @@ Al particular que estando obligado legalmente a la custodia, administración o a
 
 Las mismas penas se aplicarán al que, a sabiendas, adquiera indebidamente o haga figurar como suyos, bienes que un servidor público haya adquirido en contravención a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo.
 
-### CAPITULO IV. ULTRAJES A LA AUTORIDAD
+### CAPITULO III. QUEBRANTAMIENTO DE SELLOS
 
 ###### ARTICULO 213.
 
@@ -3877,13 +3925,21 @@ Al que por medio de la violencia física o moral, exija a una autoridad la ejecu
 
 Cuando la ley autorice el empleo de apremio para hacer efectivas las determinaciones de la autoridad, se consumará el delito de desobediencia cuando se hubiere agotado uno de los medios de apremio.
 
-### CAPITULO V. USURPACIÓN DE LAS FUNCIONES DEL SERVICIO PÚBLICO
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+### CAPITULO IV. ULTRAJES A LA AUTORIDAD
 
 ###### ARTICULO 218.
 
 Al que quebrante los sellos puestos por orden de la autoridad pública competente, se le impondrá prisión de seis meses a dos años y de veinte a sesenta días multa.
+
+### CAPITULO V. USURPACIÓN DE LAS FUNCIONES DEL SERVICIO PÚBLICO
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+###### ARTICULO 219.
+
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ### CAPITULO VI. VIOLACION DE LAS ORDENES DE PROTECCION
 
@@ -3896,26 +3952,6 @@ Para los efectos del presente capítulo, se entiende por orden de protección la
 Este delito se perseguirá por querella.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2022)</small>
-
-###### ARTICULO 219.
-
-(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 2014)</small>
-
-### CAPITULO VII. USO INDEBIDO DE LOS SERVICIOS DE EMERGENCIA
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
-
-ARTICULO 220 QUINQUIES. A quien, a través de una llamada telefónica o cualquier otro medio, realice un aviso falso a los servicios de emergencia o su equivalente que provoque la movilización de personal de emergencia, protección civil, bomberos o de las instituciones de seguridad pública, se le impondrá de seis meses a dos años de prisión y de cincuenta a quinientos días multa.
-
-La misma pena se impondrá a quien, a través de una llamada telefónica o cualquier otro medio, obstaculice la prestación de los servicios de emergencia o su equivalente.
-
-Además de la pena señalada, el sujeto activo será responsable de los daños o perjuicios ocasionados a un tercero, como consecuencia de la conducta descrita en el primer párrafo de este artículo.
-
-Este delito se perseguirá de oficio.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE JULIO DE 2019)</small>
 
 ###### ARTICULO 220.
 
@@ -3933,15 +3969,19 @@ V. Instale en las calles, avenidas, caminos, calzadas, plazas, paseos, pasajes, 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-### CAPÍTULO VIII. VENTA Y/O DISTRIBUCIÓN ILÍCITA DE BEBIDAS ALCOHÓLICAS
+### CAPITULO VII. USO INDEBIDO DE LOS SERVICIOS DE EMERGENCIA
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
-ARTICULO 220 SEXIES.- Se le impondrá prisión de seis meses a un año y de cincuenta a doscientos días multa, a quien sin contar con la licencia o el permiso emitido por la autoridad facultada para ello o alterando los términos y condiciones que se contengan en la licencia o permiso, venda o distribuya bebidas alcohólicas. La misma pena se aplicará a quien venda o distribuya bebidas alcohólicas en horarios no permitidos de acuerdo con la licencia o permiso correspondiente.
+ARTICULO 220 QUINQUIES. A quien, a través de una llamada telefónica o cualquier otro medio, realice un aviso falso a los servicios de emergencia o su equivalente que provoque la movilización de personal de emergencia, protección civil, bomberos o de las instituciones de seguridad pública, se le impondrá de seis meses a dos años de prisión y de cincuenta a quinientos días multa.
 
-La sanción a que se refiere el párrafo anterior, se duplicará cuando se venda o distribuya bebidas alcohólicas a menores de dieciocho años de edad, aun cuando se efectúe en los establecimientos y horarios autorizados.
+La misma pena se impondrá a quien, a través de una llamada telefónica o cualquier otro medio, obstaculice la prestación de los servicios de emergencia o su equivalente.
 
-Para efectos de este artículo, se entiende por bebidas alcohólicas las referidas en el artículo 3 de la Ley Sobre Venta y Consumo de Bebidas Alcohólicas en el Estado de Quintana Roo.
+Además de la pena señalada, el sujeto activo será responsable de los daños o perjuicios ocasionados a un tercero, como consecuencia de la conducta descrita en el primer párrafo de este artículo.
+
+Este delito se perseguirá de oficio.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE JULIO DE 2019)</small>
 
 ###### ARTICULO 220
 
@@ -3971,13 +4011,21 @@ Este delito se persigue por querella, y cuando se otorgue el perdón al probable
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-### CAPITULO I. FRAUDE PROCESAL
+### CAPÍTULO VIII. VENTA Y/O DISTRIBUCIÓN ILÍCITA DE BEBIDAS ALCOHÓLICAS
 
-### CAPITULO II. FALSO TESTIMONIO
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2019)</small>
+
+ARTICULO 220 SEXIES.- Se le impondrá prisión de seis meses a un año y de cincuenta a doscientos días multa, a quien sin contar con la licencia o el permiso emitido por la autoridad facultada para ello o alterando los términos y condiciones que se contengan en la licencia o permiso, venda o distribuya bebidas alcohólicas. La misma pena se aplicará a quien venda o distribuya bebidas alcohólicas en horarios no permitidos de acuerdo con la licencia o permiso correspondiente.
+
+La sanción a que se refiere el párrafo anterior, se duplicará cuando se venda o distribuya bebidas alcohólicas a menores de dieciocho años de edad, aun cuando se efectúe en los establecimientos y horarios autorizados.
+
+Para efectos de este artículo, se entiende por bebidas alcohólicas las referidas en el artículo 3 de la Ley Sobre Venta y Consumo de Bebidas Alcohólicas en el Estado de Quintana Roo.
+
+### CAPITULO I. FRAUDE PROCESAL
 
 ## TITULO CUARTO. DELITOS CONTRA LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO III. DENUNCIAS FALSAS
+### CAPITULO II. FALSO TESTIMONIO
 
 ###### ARTICULO 221.
 
@@ -3985,7 +4033,7 @@ Al que para obtener un beneficio indebido para sí o para otro, simule un acto j
 
 Si el juicio que se sigue en contra de un depositario judicial resultare como consecuencia el secuestro de una cosa embargada o depositada con anterioridad, se presumirá que éste fue simulado.
 
-### CAPITULO IV. EVASION DE PRESOS
+### CAPITULO III. DENUNCIAS FALSAS
 
 ###### ARTICULO 222.
 
@@ -3997,7 +4045,7 @@ La misma pena se impondrá al que a sabiendas presente testigos falsos o que por
 
 Al que espontáneamente se retracte de sus falsas declaraciones, siempre y cuando lo haga antes de que se dicte sentencia se le impondrá de seis meses a un año de prisión o de diez a cincuenta días multa.
 
-### CAPITULO V. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
+### CAPITULO IV. EVASION DE PRESOS
 
 ###### ARTICULO 224.
 
@@ -4009,9 +4057,7 @@ II.- Al que para que un inocente aparezca culpable de un delito ponga sobre él 
 
 En los casos precedentes, si el imputado es declarado penalmente responsable por razón de las falsas denuncias, se impondrá al denunciante o querella (sic), de dos a cinco años de prisión.
 
-### CAPITULO VI. ENCUBRIMIENTO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+### CAPITULO V. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
 ###### ARTICULO 225.
 
@@ -4037,9 +4083,9 @@ Si la reaprehensión del evadido se logra por gestiones del responsable de la ev
 
 Al evadido, no se le aplicará sanción alguna, pero si ejerciere violencia en las personas o fuerza en las cosas, o bien actuare de acuerdo con otro u otros detenidos, la pena será de cuatro meses a cuatro años de prisión.
 
-### CAPITULO VII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
+### CAPITULO VI. ENCUBRIMIENTO
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 230.
 
@@ -4049,13 +4095,9 @@ A quien quebrante una pena no privativa de libertad distinta a la prevista en el
 
 Al que favorezca el quebrantamiento de la pena o medida de seguridad, se le impondrá de seis meses a un año de prisión. Si se trata de un servidor público que tenga a su cargo el cumplimiento de la pena o medida, la pena de prisión será de un año a un año seis meses y privación del cargo.
 
-### CAPITULO VIII. DE LA OMISION DE LAS ORDENES DE PROTECCION
+### CAPITULO VII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
-
-ARTICULO 235 BIS.- Se aplicará de uno a seis años de prisión y hasta cien días multa, a cualquier servidor público que omita solicitar y otorgar sin causa debidamente justificada las órdenes de protección a que hace alusión la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2018)</small>
 
 ###### ARTICULO 231.
 
@@ -4119,6 +4161,34 @@ Se presume que no se tomaron las precauciones ni las providencias indispensables
 
 El órgano jurisdiccional, teniendo en cuenta la naturaleza del hecho, las características personales del sujeto activo y las demás que consignan el Artículo 52 de este Código, podrá imponer en los casos de encubrimiento, la mitad de la sanción que corresponda, debiendo hacer constar las razones en que se funda para determinar tal sanción.
 
+### CAPITULO VIII. DE LA OMISION DE LAS ORDENES DE PROTECCION
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+ARTICULO 235 BIS.- Se aplicará de uno a seis años de prisión y hasta cien días multa, a cualquier servidor público que omita solicitar y otorgar sin causa debidamente justificada las órdenes de protección a que hace alusión la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE JUNIO DE 2016)</small>
+
+###### ARTICULO 235.
+
+Se impondrá prisión de uno a cuatro años y suspensión hasta de tres años para ejercer la abogacía, en su caso, y privación definitiva si reincidiere, a quien:
+
+I. Habiendo sido nombrado mandatario en juicio o aceptado el cargo de defensor o asesor jurídico de víctima o el ofendido en un procedimiento penal, se concrete a aceptar el cargo sin realizar gestiones, trámites o promociones relativas a su representación, asesoría o cargo conforme a las leyes procesales aplicables;
+
+II. Asista o ayude a dos o más contendientes o partes con intereses opuestos en un mismo negocio o negocios conexos o acepte el patrocinio de alguno y admita después de la parte contraria en un mismo negocio;
+
+III. A sabiendas alegue hechos falsos o se apoye en leyes inexistentes o normas derogadas;
+
+IV. A sabiendas y fundándose en documentos falsos o sin valor o en testigos falsos ejercite acción u oponga excepciones en contra de otro, ante las autoridades judiciales o administrativas, o
+
+V. Simule un acto jurídico o un acto o escrito judicial, o altere elementos de prueba y los presente en juicio, con el fin de obtener sentencia, resolución o acto administrativo contrario a la ley.
+
+Si es defensor público o asesor jurídico público, se le inhabilitará hasta por tres años para desempeñar otro empleo, cargo o comisión públicos.
+
+Para efectos de la suspensión e inhabilitación señaladas en el párrafo anterior, el juez de la causa solicitará a la Dirección de Profesiones del Estado, suspenda la inscripción del profesionista al Registro Estatal de Profesiones, por el tiempo que dure la pena que en su caso haya sido impuesta.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
 ### CAPITULO IX. DELITOS CONTRA LOS PRINCIPIOS DEL SISTEMA PENAL ACUSATORIO
 
 > <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
@@ -4141,37 +4211,15 @@ VII. Estando legalmente obligado, dilate la puesta a disposición ante la autori
 
 La misma pena establecida en el primer párrafo de este artículo, se impondrá al Juez, Fiscal o Agente del Ministerio Público que se ausente de un acto procesal con el propósito de suspenderlo o diferirlo.
 
-###### ARTICULO 235.
-
-Se impondrá prisión de uno a cuatro años y suspensión hasta de tres años para ejercer la abogacía, en su caso, y privación definitiva si reincidiere, a quien:
-
-I. Habiendo sido nombrado mandatario en juicio o aceptado el cargo de defensor o asesor jurídico de víctima o el ofendido en un procedimiento penal, se concrete a aceptar el cargo sin realizar gestiones, trámites o promociones relativas a su representación, asesoría o cargo conforme a las leyes procesales aplicables;
-
-II. Asista o ayude a dos o más contendientes o partes con intereses opuestos en un mismo negocio o negocios conexos o acepte el patrocinio de alguno y admita después de la parte contraria en un mismo negocio;
-
-III. A sabiendas alegue hechos falsos o se apoye en leyes inexistentes o normas derogadas;
-
-IV. A sabiendas y fundándose en documentos falsos o sin valor o en testigos falsos ejercite acción u oponga excepciones en contra de otro, ante las autoridades judiciales o administrativas, o
-
-V. Simule un acto jurídico o un acto o escrito judicial, o altere elementos de prueba y los presente en juicio, con el fin de obtener sentencia, resolución o acto administrativo contrario a la ley.
-
-Si es defensor público o asesor jurídico público, se le inhabilitará hasta por tres años para desempeñar otro empleo, cargo o comisión públicos.
-
-Para efectos de la suspensión e inhabilitación señaladas en el párrafo anterior, el juez de la causa solicitará a la Dirección de Profesiones del Estado, suspenda la inscripción del profesionista al Registro Estatal de Profesiones, por el tiempo que dure la pena que en su caso haya sido impuesta.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
-
 ### CAPITULO I. DELITOS CONTRA LA RIQUEZA FORESTAL DEL ESTADO
+
+## TITULO QUINTO. DELITOS CONTRA LA ECONOMIA PUBLICA ESTATAL
 
 ### CAPÍTULO I
 
 Ejercicio ilícito de servicio público.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
-
-## TITULO QUINTO. DELITOS CONTRA LA ECONOMIA PUBLICA ESTATAL
-
-### CAPITULO II. INCOMPATIBILIDAD DE LABORES
 
 ###### ARTICULO 236.
 
@@ -4201,7 +4249,7 @@ Los productos explotados, transportados o adquiridos ilegalmente, así como los 
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
-### CAPITULO III. DELITOS CONTRA EL BUEN DESPACHO DE LA ADMINISTRACIÓN
+### CAPITULO II. INCOMPATIBILIDAD DE LABORES
 
 ###### ARTICULO 238.
 
@@ -4237,7 +4285,7 @@ Para efectos de la fracción VII, no se considerarán constitutivas de delito la
 
 Cuando en el ejercicio ilícito de servicio público se cause un daño a la administración pública o a los particulares, independientemente de las sanciones que correspondan por delitos que se integren, se podrá aumentar la pena señalada en el artículo anterior, hasta dos años más.
 
-### CAPITULO IV. COALICION INDEBIDA
+### CAPITULO III. DELITOS CONTRA EL BUEN DESPACHO DE LA ADMINISTRACIÓN
 
 ###### ARTICULO 240.
 
@@ -4247,7 +4295,7 @@ Se impondrá de seis meses a dos años de prisión, y de cinco a cincuenta días
 
 Sanción igual a la señalada por el artículo anterior, corresponderá al servidor público que por sí o por interpósita persona desempeñe la profesión que tenga, cuando le esté vedado su ejercicio por la Ley en razón del empleo, cargo o comisión que le haya sido conferido.
 
-### CAPITULO V. INFIDELIDAD DE LA CUSTODIA DE DOCUMENTOS
+### CAPITULO IV. COALICION INDEBIDA
 
 ###### ARTICULO 242.
 
@@ -4263,7 +4311,7 @@ En el caso en que sea un encargado de la fuerza pública quien niegue el auxilio
 
 Se sancionará con uno a cinco años de prisión, a los servidores públicos que teniendo a su cargo la prestación de un servicio público, lo suspenda en todo o en partes sin causa justificada, en perjuicio de los usuarios.
 
-### CAPITULO I. ABANDONO DE EMPLEO
+### CAPITULO V. INFIDELIDAD DE LA CUSTODIA DE DOCUMENTOS
 
 ###### ARTICULO 244.
 
@@ -4273,7 +4321,7 @@ I.- Se coaliguen para tomar medidas contrarias a una Ley, Reglamento o cualquier
 
 II.- Abandone su cargo, comisión o empleo, sin causa legítima con el deliberado propósito de impedir, entorpecer o suspender la Administración Pública, en cualquiera de sus ramas.
 
-### CAPITULO II. NEGLIGENCIA EN EL DESEMPEÑO DE FUNCION O CARGO
+### CAPITULO I. ABANDONO DE EMPLEO
 
 ###### ARTICULO 245.
 
@@ -4285,9 +4333,7 @@ II.- Abran o permitan abrir sin orden legítima, documentos, cuya custodia les e
 
 ## TITULO SEPTIMO. IRRESPONSABILIDAD EN EL DESEMPEÑO DE EMPLEO, CARGO O COMISION
 
-### CAPITULO III. IRRESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO
-
-> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
+### CAPITULO II. NEGLIGENCIA EN EL DESEMPEÑO DE FUNCION O CARGO
 
 ###### ARTICULO 246.
 
@@ -4299,9 +4345,9 @@ Se presumirá que existe abandono de empleo cuando el servidor público no se pr
 
 No será punible el abandono de empleo, cuando la autoridad correspondiente omita resolver y notificar al interesado, dentro del término de treinta días a partir de que tomó conocimiento, el acuerdo recaído a la dimisión.
 
-### CAPITULO I. APROVECHAMIENTO ILICITO DEL PODER
+### CAPITULO III. IRRESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 248.
 
@@ -4325,7 +4371,9 @@ Se impondrá de seis meses a dos años de prisión, y de diez a cincuenta días 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE JUNIO DE 2013)</small>
 
-### CAPITULO II. ABUSO DE AUTORIDAD
+### CAPITULO I. APROVECHAMIENTO ILICITO DEL PODER
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 250
 
@@ -4343,9 +4391,7 @@ Las sanciones previstas por este capítulo se impondrán sin detrimento de la re
 
 ## TITULO OCTAVO. DELITO DE ABUSO DE AUTORIDAD
 
-### CAPITULO I. COHECHO
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+### CAPITULO II. ABUSO DE AUTORIDAD
 
 ###### ARTICULO 252.
 
@@ -4361,7 +4407,7 @@ IV. Realice en provecho propio o de cualquier otra persona, actos de desposesió
 
 V. Satisfaga indebidamente algún interés propio o de cualquier persona.
 
-### CAPITULO II. PECULADO
+### CAPITULO I. COHECHO
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -4401,7 +4447,7 @@ Al que valiéndose de las facultades, medios, atribuciones o recursos que se enc
 
 ## TITULO NOVENO. DELITO DE RESPONSABILIDADES POR LUCRO INDEBIDO
 
-### CAPITULO III. CONCUSION
+### CAPITULO II. PECULADO
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -4429,7 +4475,7 @@ Cuando la cantidad o el valor de la dádiva, los bienes, promesa o prestación e
 
 En ningún caso se devolverá a los responsables del delito de cohecho, el dinero o dádivas entregadas, las mismas se aplicarán en beneficio del Estado, en los términos que dispongan las leyes.
 
-### CAPITULO IV. INTIMIDACION
+### CAPITULO III. CONCUSION
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -4453,6 +4499,26 @@ Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda
 
 Cuando los recursos materia del peculado sean aportaciones federales para los fines de seguridad pública se aplicará hasta un tercio más de las penas señaladas en los párrafos anteriores.
 
+### CAPITULO IV. INTIMIDACION
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
+###### ARTICULO 257.
+
+Comete el delito de concusión el servidor público que con el carácter de tal y a título de impuesto o contribución, recargo, renta, rédito, salario o emolumento, exija, por sí o por medio de otro, dinero, valores, servicios o cualquiera otra cosa que sepa no ser debida, o en mayor cantidad que la señalada por la Ley.
+
+Al que cometa el delito de concusión se le impondrán las siguientes sanciones:
+
+Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivalente de quinientos días de Unidades de Medida y Actualización en el momento de cometerse el delito, o no sea valuable, se impondrán de seis meses a dos años de prisión y de cien a doscientos días multa.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2022)</small>
+
+Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientos días de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrá de dos años a doce años de prisión y de cien a ciento cincuenta días multa.
+
+###### ARTICULO 258.
+
+Lo dispuesto en el artículo anterior, se aplicará también a los encargados o comisionados por un servidor público que, con aquella investidura cometa el delito.
+
 ### CAPÍTULO V. Enriquecimiento Ilícito
 
 > <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
@@ -4472,22 +4538,6 @@ II. Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equ
 III. Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización, se impondrá de dos años a catorce años de prisión y de cien a ciento cincuenta días multa.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
-
-###### ARTICULO 257.
-
-Comete el delito de concusión el servidor público que con el carácter de tal y a título de impuesto o contribución, recargo, renta, rédito, salario o emolumento, exija, por sí o por medio de otro, dinero, valores, servicios o cualquiera otra cosa que sepa no ser debida, o en mayor cantidad que la señalada por la Ley.
-
-Al que cometa el delito de concusión se le impondrán las siguientes sanciones:
-
-Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivalente de quinientos días de Unidades de Medida y Actualización en el momento de cometerse el delito, o no sea valuable, se impondrán de seis meses a dos años de prisión y de cien a doscientos días multa.
-
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2022)</small>
-
-Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientos días de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrá de dos años a doce años de prisión y de cien a ciento cincuenta días multa.
-
-###### ARTICULO 258.
-
-Lo dispuesto en el artículo anterior, se aplicará también a los encargados o comisionados por un servidor público que, con aquella investidura cometa el delito.
 
 ###### ARTICULO 259.
 
@@ -5390,3 +5440,47 @@ P.O. 18 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 130 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO; Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL DE (SIC) ESTADO DE QUINTANA ROO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+> <small>[N. DE E. EL "DECRETO NÚMERO: 179 POR EL QUE SE ADICIONA EL ARTÍCULO 179 TER-1 AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE QUINTANA ROO.]</small>
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 184 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 146 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se deroga todo aquello que se oponga al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 188 POR EL QUE SE ADICIONA UN CAPÍTULO VII DENOMINADO "DELITOS CONTRA LA ORIENTACIÓN SEXUAL, IDENTIDAD O EXPRESIÓN DE GÉNERO DE LAS PERSONAS", AL TÍTULO CUARTO DENOMINADO DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD, MISMO QUE CONTIENE EL ARTÍCULO 195-OCTIES, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 189 POR EL QUE SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 106 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 145 POR EL QUE SE REFORMA EL ARTÍCULO 195 SEXTIES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 146 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 130 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
