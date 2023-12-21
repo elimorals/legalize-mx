@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-sistema-de-seguridad-publica-del-estado-de-103697"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2023-08-10"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de noviembre de 2014.
 
@@ -235,11 +235,15 @@ XXI. Generar bases de datos especializadas que permitan administrar la prevenci�
 
 XXII. Realizar estudios periódicos sobre la victimización y la delincuencia;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-XXIII. Impulsar la participación ciudadana y comunitaria, en la prevención social de la violencia y la delincuencia en los términos que dispone la Ley de la materia; y
+XXIII. Impulsar la participación ciudadana y comunitaria, en la prevención social de la violencia y la delincuencia en los términos que dispone la Ley de la materia;
 
-XXIV. Las demás atribuciones específicas que se establezcan en esta Ley.
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XXIV. Instrumentar y aplicar acciones de tenencia y mantención responsable de los animales domésticos que coadyuven en actividades y estrategias aplicadas en el cumplimiento de la función de seguridad pública; y
+
+XXV. Las demás atribuciones específicas que se establezcan en esta Ley.
 
 Convenios con otros órdenes de gobierno
 
@@ -2889,17 +2893,85 @@ III. Garantizar la integridad física de los actores y partes procesales.
 
 3. (DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+### Capítulo V. Unidad Canina y Equina
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+Conformación de la unidad canina y equina
+
+###### Artículo 202
+
+4. La unidad canina y equina se conforma en binomios de persona y animal para el cumplimiento de labores conjuntas de seguridad pública.
+
+El personal que desempeñe actividades de adiestramiento de caninos y jinete de equinos deberá encontrarse adscrito a las instituciones de seguridad pública del ámbito estatal y municipal.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+Obligaciones de las instituciones de seguridad pública del ámbito estatal y municipal respecto a la unidad canina y equina
+
+###### Artículo 202
+
+5. Corresponderá a las instituciones de seguridad pública del ámbito estatal y municipal llevar a cabo las acciones y actividades de coordinación y colaboración en beneficio y protección de sus unidades caninas y equinas, siguientes:
+
+I. Diseñar, implantar y evaluar mecanismos que homologuen los procesos de crianza, selección, traslado, adiestramiento, capacitación y supervisión relativas a las actividades correspondientes a los binomios de persona y animal;
+
+II. Cumplir con los mecanismos de evaluación, certificación y registro de los animales que coadyuven en actividades y estrategias aplicadas en el cumplimiento de la función de seguridad pública;
+
+III. Emitir y aplicar los principios que rijan la correcta realización de las acciones de cuidado, atención, alimentación y aprovechamiento de las capacidades de los caninos y equinos por parte de los guías y jinetes;
+
+IV. Contar con perfiles de puesto para la ocupación y desempeño de las actividades de adiestramiento y jinetes, así como llevar un registro de las personas servidoras públicas que realicen dichas funciones;
+
+V. Verificar y supervisar que el personal médico veterinario- zootecnista lleve a cabo los esquemas de nutrición y la atención veterinaria requerida para los caninos y equinos; y
+
+VI. Establecer vínculos de cooperación con instituciones homólogas nacionales y extranjeras, a fin de intercambiar mecanismos y herramientas de capacitación, adiestramiento, actualización y especialización de la unidad canina y equina.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+Acciones y actividades de la unidad canina
+
+###### Artículo 202
+
+6. La unidad canina podrá llevar a cabo las acciones y actividades siguientes:
+
+I. Disuasión de las personas violentas en encuentros o acontecimientos de masas considerados conflictivos o de alto riesgo;
+
+II. Localización de explosivos;
+
+III. Búsqueda de drogas en colaboración con grupos especiales;
+
+IV. Localización y rescate de personas; y
+
+V. Aquellas actividades y estrategias aplicadas en el cumplimiento de la función de seguridad pública en las que por sus capacidades y habilidades les sea permitido participar.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+Acciones y actividades de la unidad equina
+
+###### Artículo 202
+
+7. La unidad equina podrá llevar a cabo las acciones y actividades siguientes:
+
+I. Realización de patrullajes proactivos, vigilancias, localizaciones, inspecciones selectivas y otras actuaciones puntuales, prioritariamente en aquellas zonas singulares de difícil operatividad para otros medios policiales e indicadas para el trabajo a caballo;
+
+II. Apoyo a la prevención, mantenimiento y restablecimiento, en su caso, de la seguridad ciudadana y el orden público;
+
+III. Intervención en grandes concentraciones de masas, espectáculos públicos y deportivos; y
+
+IV. Aquellas actividades y estrategias aplicadas en el cumplimiento de la función de seguridad pública en las que por sus capacidades y habilidades les sea permitido participar.
+
 ### Capítulo I. Medidas Disciplinarias y Sanciones
 
 Medidas disciplinarias
+
+## Título Décimo Cuarto. Responsabilidades por Incumplimiento de la Ley
 
 ### Capítulo II. Faltas
 
 Faltas administrativas
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
-
-## Título Décimo Cuarto. Responsabilidades por Incumplimiento de la Ley
 
 ###### Artículo 203.
 
@@ -3214,3 +3286,15 @@ P.O. 10 DE AGOSTO DE 2023.
 Inicio de vigencia
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 242 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO, LA LEY DE SEGURIDAD PRIVADA DEL ESTADO DE GUANAJUATO, Y LA LEY PARA LA PROTECCIÓN ANIMAL DEL ESTADO DE GUANAJUATO".]
+
+Inicio de la vigencia
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+Adecuaciones reglamentarias y presupuesto
+
+SEGUNDO. El titular del Poder Ejecutivo y los ayuntamientos, en el ámbito de sus respectivas competencias y en un plazo no mayor de 180 días contados a partir de la entrada en vigor de este Decreto, deberán realizar la emisión o actualización reglamentaria correspondiente, así como asignar de manera progresiva recursos presupuestales necesarios para garantizar la implementación de la infraestructura, insumos, acciones y actividades de la unidad canina y equina conforme las reformas aprobadas.
