@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-bacalar-del-estado-de-153782"
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-27"
-last_updated: "2023-12-08"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE BACALAR, DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 08 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número 194 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 27 de Diciembre de 2021.
 
@@ -113,12 +113,14 @@ l) Reposición de formatos 1.4
 
 m) Certificación de documentos 12.4
 
-(NOTA: EL 24 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2023, DECLARÓ LA INVALIDEZ DEL INCISO n) DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
-
-n) BÚSQUEDA DE DOCUMENTOS 1.4
+n) búsqueda de documentos.
 
 o) Otros no especificados 12.4
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+p) orden de cremación 1.5
 
 No se causarán los derechos a que se refiere este artículo, cuando sean solicitadas mediante oficio por las autoridades de la Federación, del Estado y de los Municipios.
