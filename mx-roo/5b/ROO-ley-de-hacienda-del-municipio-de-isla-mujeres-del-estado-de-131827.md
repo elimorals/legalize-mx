@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-isla-mujeres-del-estado-de-131
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-29"
-last_updated: "2023-12-08"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número 154 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 29 de noviembre de 2018.
 
@@ -226,6 +226,10 @@ I. Los predios del dominio público, de la federación, del Estado y del Municip
 II. Los inmuebles pertenecientes a los institutos de vivienda del Estado o Municipios tratándose de reservas territoriales, lotificaciones no otorgadas, y
 
 III. El fundo legal.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+IV. La propiedad comunal ejidal, parcelaria, de dominio pleno, cuando éstos pertenezcan a ejidatarios del núcleo ejidal de que se trate, con excepción de solares urbanos.
 
 ###### Artículo 21.
 
@@ -693,6 +697,78 @@ De igual manera, tendrán la facultad y obligación de retener y enterar el impu
 
 Los derechos que establece este capítulo se causarán por la ejecución del servicio de saneamiento ambiental que realice el Municipio con el fin de propiciar el desarrollo sustentable, la preservación y restauración del equilibrio ecológico y la protección ambiental, en razón de los visitantes que arriben o permanezcan temporalmente en el Municipio.
 
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+Para efectos de este artículo, son servicios de saneamiento ambiental, las obras y acciones siguientes:
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+I. Conservación y mantenimiento de playas;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+II. Manejo integral de residuos sólidos urbanos;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+III. Alumbrado público con efectos menores al medio ambiente;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+IV. Erradicación de tiraderos a cielo abierto;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+V. Saneamiento de los cuerpos de agua en su estado natural, así como por su manejo (potabilización, drenaje, alcantarillado, su tratamiento y disposición de aguas residuales);
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+VI. Atención a todo tipo de contingencias ambientales provocadas por fenómenos naturales por la mano del hombre, o que tengan por objeto la protección civil;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+VII. Aquellos programas, acciones y obras relacionadas con el transporte, la planificación urbana, el ordenamiento de nuevos centros de población, sus vialidades y demás servicios, todos amigables con el medio ambiente;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+VIII. Programas emergentes de empleo temporal, encaminados a la limpieza de espacios públicos y la mejora de la imagen urbana;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+IX. El saneamiento de los espacios relacionados con la prestación de servicios públicos competencia del Municipio, en términos del artículo 115 fracción III de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+X. Conservación de la biodiversidad;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XI. Pago de Servicios personales que atiendan los programas y acciones para el saneamiento ambiental;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XII. Adquisición de materiales y suministros para la atención de los programas y acciones para el saneamiento ambiental;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XIII. La adquisición de servicios generales que serán aplicados a la atención de los programas y acciones para el saneamiento ambiental;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XIV. La adquisición de bienes muebles, inmuebles e intangibles que serán destinados a la atención de los programas y acciones para el saneamiento ambiental;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XV. Inversión Pública destinada a la atención de los programas y acciones para el saneamiento ambiental;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XVI. Pago de servicios personales y equipamiento del personal de seguridad pública del Municipio;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XVII. Cualquier otro rubro que el Ayuntamiento considere necesario para el Saneamiento Ambiental, debidamente avalado por el Comité Técnico del Fideicomiso para el Saneamiento Ambiental del Municipio de isla Mujeres, Quintana Roo.
+
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
 #### SECCIÓN II. De los Sujetos
@@ -1039,41 +1115,43 @@ Los Oficiales del Registro Civil que actúen sin que hayan sido cubiertos los de
 
 ### CAPÍTULO V. De las Licencias para Construcción
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 70.
 
-Toda licencia de construcción, sus refrendos y terminación causarán derechos; su pago se efectuará previo a su expedición en base a los planos y cálculos a que deba someterse la construcción, una vez que hayan sido aprobados por la autoridad correspondiente, atendiendo a la tipología y aplicando la tarifa siguiente:
+Toda licencia de construcción, sus refrendos y terminación causarán derechos; su pago se efectuará previo a su expedición en base a los planos y cálculos a que deba someterse la construcción, una vez que hayan sido aprobados por la autoridad municipal de desarrollo urbano, y de conformidad con las tarifas siguientes:
 
 UMA.
 
 l. Cuando se trate de casa habitación:
 
-a) Quedarán exentas las de interés social cuando sea
+a) Quedan exentas las de interés social cuando sea
 
 autoconstrucción, previa verificación de la autoridad
 
-correspondiente; siempre y cuando la superficie total
+correspondiente, y la superficie no exceda los
 
-de construcción no exceda de 55 m2 de construcción.
+55.00 M2 de construcción.
 
-b) De interés medio, con más 55 m2 hasta 90 m2 de
+b) De interés medio con más de 55.00 m2 hasta 90.00 m2 de
 
-construcción, se pagará por m2 de construcción:
+construcción se pagará por m2 de construcción:
 
-1. Más de 90 y hasta 150 m2, se pagará por m2 de
+1. Más de 90.00 m2 y hasta 150 m2 se pagará por m2 de
 
-construcción 0.05
+construcción: 0.05
 
-2. De 150 m2 en adelante se pagará por m2 de
+2. de 150.00 m2 en adelante se pagará por m2 de
 
-construcción 0.09
+construcción: 0.09
 
 c) Residencial, se pagará por m2 de construcción:
 
-1. Residencial Zona Urbana 0.22
+1. Residencial Zona Urbana. 0.22
 
-2. Residencial Zona Hotelera 0.30
+2. Residencial Zona Hotelera. 0.30
 
-d) Por revisión, validación y aprobación de planos:
+d) Por revisión, validación y aprobación de planos.
 
 1. En la primera planta, m2 0.09
 
@@ -1087,39 +1165,45 @@ cualquier otra índole distinta a la establecida en la
 
 fracción anterior, se pagará por m2 de construcción:
 
-a. Comercial y/o de servicios Zona Urbana. 0.28
+a) Comercial y/o de Servicios Zona Urbana. 0.28
 
-b. Comercial y/o de servicios Zona Turística. 0.55
+b) Comercial y/o de Servicios Zona Turística. 0.55
 
-c) Comercial y/o de servicios en zona diversa a
+c) Comercial y/o de Servicios en zonas diferentes a
 
-las anteriores 0.25
+las anteriores señaladas. 0.25
 
-d) Industrial y cualquier otra índole. 0.60
+d) Industrial y de cualquier otra índole. 0.60
 
-Las licencias y refrendos de obras comprendidas en la fracción I, se expedirán por un período de hasta 360 días y las comprendidas en la fracción II, por los plazos que fije el Ayuntamiento, los cuales no deberán ser menores al aplicable para la fracción I de este artículo.
+Las licencias y refrendos de obras comprendidas en la fracción I, se expedirán por un periodo de hasta 360 días y las comprendidas en la fracción II, por los plazos que fije el Ayuntamiento, los cuales no deberán ser menores al aplicable para la fracción I de este artículo.
 
-III. Fraccionamiento de terrenos. Sobre el monto total del presupuesto de obras de urbanización por ejecutar en el fraccionamiento o en las zonas que van a desarrollarse 2%.
+III. a) Fraccionamiento de terreno: 2% sobre el monto total del presupuesto de obras de urbanización por ejecutar en el fraccionamiento o en las obras que van a desarrollarse.
 
-En este caso los derechos comprenden los gastos de revisión y el estudio de planos y proyectos, así como la urbanización y se cobrarán al quedar definidos los proyectos, antes de iniciar las obras.
+En este caso los derechos comprenden los gastos de revisión y el estudio de planos y proyectos, así como la urbanización y se cobrar (sic) en efectivo al quedar definidos los proyectos, antes de iniciar las obras.
 
-El fraccionamiento de terreno, cuando sea destinado a la vivienda de interés social y popular se cobrará el 1% en los mismos términos del párrafo anterior.
+b) El fraccionamiento del terreno, cuando sea destinado a la vivienda de interés social y popular se cobrará el 1% en los términos del párrafo anterior.
 
-Cuando el Municipio no pueda efectuar por sí mismo la función contenida en la fracción II, de este artículo, podrá convenir con el Estado la mejor manera de llevarla a cabo, a fin de no ocasionar con su ejercicio afectación a la población.
+Cuando el Municipio no pueda efectuar por sí mismo la función contenida en la fracción II, de este artículo, podrá convenir con el Estado la mejor manera de llevarla a cabo, a fin de no ocasionar con su ejercicio, afectación a la población.
+
+IV. Cuando se trate de licencias y anuencias de construcciones destinadas a servicio, industriales o de cualquier otra índole distinta a la establecida en la fracción anterior, el derecho se causará por cada metro lineal y/o metro cuadrado (m2) de construcción de acuerdo a su uso de suelo de conformidad en las fracciones I y II de este artículo.
 
 ###### Artículo 71.
 
 La ejecución de toda obra sin licencia respectiva se sancionará de 3.00 a 100.00 UMA., multa que podrá ampliarse hasta en un 50% del costo estimado de la obra en caso de reincidencia. Tratándose de viviendas de interés medio, la sanción no podrá exceder en un 30% sobre el valor total de la construcción realizada.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 72.
 
-Se requerirá de licencia para las obras de reparación de edificios, así como para cualquier demolición, excavación, relleno, reconstrucción o ampliación.
+Se requerirá de licencia de construcción y/o anuencia de construcción para las obras de reparación de edificios, así como para cualquier demolición, excavación, relleno, reconstrucción o ampliación, mismas que causarán los derechos que correspondan de acuerdo con la presente Ley.
 
-No requerirán licencia o autorización las acciones de conservación y mantenimiento de edificios.
+No requerirán de licencia o autorización las acciones de conservación y mantenimiento preventivo de edificios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 73.
 
-Las licencias de demolición se conferirán previa expedición de las autorizaciones correspondientes y causarán derechos a la tarifa siguiente:
+Las licencias de demolición se autorizarán previo análisis de la autoridad competente, y conforme a las tarifas siguientes:
 
 UMA.
 
@@ -1127,11 +1211,13 @@ l. Cuando se trate de casa habitación, cualquiera
 
 que sea su tipo por m2 0.17
 
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
 II. Tratándose de construcciones determinadas a
 
 fines distintos a lo señalado en la fracción anterior,
 
-se cobrará por m2 0.30
+se cobrará por m2 0.33
 
 ###### Artículo 74.
 
@@ -1419,475 +1505,31 @@ a) Número oficial 5.00
 
 b) De la placa 5.50
 
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
 III. Constancia de uso y destino de suelo
 
-a) Interés social 3.0 a 7.00
+a) Interés Social 3.0 a 7.00
 
-b) Nivel medio 4.0 a 15.0
+b) Nivel Medio 4.0 a 15.0
 
 c) Residencial 5.0 a 20.0
 
-d) Comercial, industrial y de servicios
+d) Comercial, Industrial y de Servicios
 
-1. Comercios por actividad o giro 5.0 a 300.0
+e) con fines turísticos
 
-1.1. Abarrotes y misceláneas
+Los derechos correspondientes al inciso d) de la fracción III del artículo 84 de la presente ley, se individualizarán y enterarán conforme a la tabla siguiente:
 
-1.2. Accesorios de seguridad industrial y doméstica
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 21 DE DICIEMBRE DE 2023, PÁGINAS DE LA 309 A LA 311.]</small>
 
-1.3. Accesorios, refacciones y equipos de Acuario
+Los derechos correspondientes al inciso e) de la fracción III del artículo 84 de la presente ley, se individualizarán y enterarán conforme a la tabla siguiente:
 
-1.4. Adiestramiento de mascotas
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 21 DE DICIEMBRE DE 2023, PÁGINA 312.]</small>
 
-1.5. Administración Local de Recaudación Fiscal
+Los derechos correspondientes al inciso d) y e) de la fracción III del artículo 84 de la presente ley, cuando comercialice bebidas alcohólicas, se individualizarán y enterarán conforme a la tabla siguiente:
 
-1.6. Agencia de autocamiones
-
-1.7. Agencia de autos
-
-1.8. Agencia de autotransporte (solo oficinas)
-
-1.9. Agencia de paquetería
-
-1.10. Agencia de publicidad
-
-1.11. Agencia de viaje
-
-1.12. Aguas frescas, jugos, licuados y paletas
-
-1.13. Alfombras
-
-1.14. Alquiler de lonas, toldos, cubiertas, sillas, mesas y similares
-
-1.15. Aluminio, vidrios y cristales
-
-1.16. Aparatos para la sordera, compra y venta
-
-1.17. Área de Ferias y Exposiciones
-
-1.18. Artesanías
-
-1.19. Artículos de dibujo
-
-1.20. Artículos de limpieza
-
-1.21. Artículos de plástico y/o madera
-
-1.22. Artículos deportivos
-
-1.23. Artículos domésticos de hojalata
-
-1.24. Artículos fotográficos
-
-1.25. Artículos para decoración
-
-1.26. Artículos para manualidades
-
-1.27. Aseguradora
-
-1.28. Asociaciones civiles
-
-1.29. Auditorio
-
-1.30. Autoservicio y/o tienda de conveniencia
-
-1.31. Azulejos, muebles de baño y accesorios
-
-1.32. Banco
-
-1.33. Baños públicos
-
-1.34. Bar
-
-1.35. Básculas
-
-1.36. Bazar y antigüedades
-
-1.37. Bienes raíces
-
-1.38. Billar
-
-1.39. Blancos
-
-1.40. Blocks, viguetas y similares
-
-1.41. Bodega de productos
-
-1.42. Boliche
-
-1.43. Boutique
-
-1.44. Café con lectura e Internet
-
-1.45. Cafetería
-
-1.46. Caja de ahorro
-
-1.47. Cajas de cartón, materiales de empaque
-
-1.48. Calcomanías
-
-1.49. Calzado y artículos de piel
-
-1.50. Cancha deportiva privada
-
-1.51. Cantinas y bares
-
-1.52. Carnicería
-
-1.53. Carpintería
-
-1.54. Casa de bolsa o de cambio
-
-1.55. Casa Hogar para Ancianos
-
-1.56. Casa Hogar para Menores
-
-1.57. Cementerio
-
-1.58. Central de Autobuses de Pasajeros
-
-1.59. Central televisora y/o radiodifusora
-
-1.60. Centro Asistencial de Desarrollo Infantil
-
-1.61. Centro comercial y/o de acopio
-
-1.62. Centro de beneficencia pública
-
-1.63. Centro de copiado
-
-1.64. Centro de espectáculos
-
-1.65. Centro de Integración Juvenil
-
-1.66. Centro de Rehabilitación
-
-1.67. Centro Deportivo
-
-1.68. Centro nocturno
-
-1.69. Centro Social Popular
-
-1.70. Cerámica
-
-1.71. Cerrajería
-
-1.72. Cine, teatro y auditorio
-
-1.73. Clínica privada
-
-1.74. Clínica y farmacia veterinaria
-
-1.75. Club social
-
-1.76. Cocina económica
-
-1.77. Conservas (mermeladas, embutidos, encurtidos y similares)
-
-1.78. Consultorio médico
-
-1.79. Contratistas
-
-1.80. Depósitos de chatarra y vehículos
-
-1.81. Discos musicales
-
-1.82. Diseño de anuncios a mano y por computadora
-
-1.83. Purificación y Distribución de agua
-
-1.84. Droguería, hierbería y homeopática
-
-1.85. Dulcería, Dulces, caramelos y similares
-
-1.86. Elaboración y/o diseño de anuncios, lonas y toldos
-
-1.87. Equipos de sonido y video
-
-1.88. Equipos hidráulicos
-
-1.89. Equipos y accesorios de computación
-
-1.90. Escudos y distintivos de metal y similares
-
-1.91. Escuela Especial para Atípicos
-
-1.92. Escuela Integral de Artes
-
-1.93. Escuela Particulares
-
-1.94. Estación de servicio de combustible
-
-1.95. Estación de Transferencia
-
-1.96. Estancia de Bienestar y Desarrollo Infantil
-
-1.97. Estética
-
-1.98. Estructuras para equipos de telecomunicaciones
-
-1.99. Expendio de billetes de lotería y sorteos varios
-
-1.100. Expendio de cerveza
-
-1.101. Expendio de hielo
-
-1.102. Expendio de libros y revistas
-
-1.103. Expendio de pan
-
-1.104. Expendio de tortillas
-
-1.105. Farmacia
-
-1.106. Ferretería de artículos especializados
-
-1.107. Ferretería, tlapalería y material eléctrico
-
-1.108. Finanzas y administración
-
-1.109. Fletes y mudanzas
-
-1.110. Florería y artículos de jardinería
-
-1.111. Foto estudio
-
-1.112. Frigoríficos
-
-1.113. Fumigaciones
-
-1.114. Funeraria
-
-1.115. Galería de arte
-
-1.116. Gimnasio
-
-1.117. Grabaciones de audio y video
-
-1.118. Guardería Infantil
-
-1.119. Herrajes en general
-
-1.120. Herrería y/o elaboración de herrajes
-
-1.121. Implementos y equipos para gas doméstico
-
-1.122. Imprenta, offset y litografías
-
-1.123. Instalaciones portuarias
-
-1.124. Instrumental médico y mobiliario hospitalario
-
-1.125. Joyería y/o bisutería
-
-1.126. Juegos infantiles
-
-1.127. Juguetería
-
-1.128. Laboratorio de análisis clínicos, revelado, fotografía
-
-1.129. Laboratorio y/o clínica médico y dental
-
-1.130. Lavado de autos, servicio de lubricación y similares
-
-1.131. Lavandería
-
-1.132. Lencería
-
-1.133. Librería
-
-1.134. Licorería (en botella cerrada)
-
-1.135. Limpieza de alfombras, muebles y cortinas
-
-1.136. Maquinaria pesada
-
-1.137. Marcos elaboración y/o venta
-
-1.138. Mariscos y pescadería
-
-1.139. Masajes, spa
-
-1.140. Material para la construcción en local cerrado
-
-1.141. Mensajería y paquetería
-
-1.142. Mercería y bonetería
-
-1.143. Mesas de billar, futbolitos y videojuegos, compra y venta
-
-1.144. Mirador
-
-1.145. Módulo Deportivo
-
-1.146. Mueblería
-
-1.147. Muebles y puertas de madera
-
-1.148. Muelles de madera
-
-1.149. Museo
-
-1.150. Museo de Arte
-
-1.151. Nevería
-
-1.152. Notaría
-
-1.153. Oficina privada
-
-1.154. Óptica
-
-1.155. Paletas, helados, aguas frescas
-
-1.156. Panadería
-
-1.157. Panificadoras
-
-1.158. Papelería, librería y artículos escolares
-
-1.159. Parque acuático
-
-1.160. Parque de Barrio
-
-1.161. Parque temático
-
-1.162. Pastelería
-
-1.163. Pedicurista
-
-1.164. Peluquería y estética
-
-1.165. Pensión de autos y estacionamiento público
-
-1.166. Perfumería
-
-1.167. Pinturas
-
-1.168. Piñatas
-
-1.169. Pista de patinaje
-
-1.170. Procesamiento de alimentos
-
-1.171. Productos cosméticos
-
-1.172. Productos de madera
-
-1.173. Productos naturistas
-
-1.174. Productos para repostería
-
-1.175. Protección y seguridad policiaca, personal y negocios
-
-1.176. Rastro
-
-1.177. Refacciones para lanchas y botes
-
-1.178. Refacciones y accesorios para autos
-
-1.179. Relojería
-
-1.180. Renta de maquinaria y equipo para la construcción
-
-1.181. Renta de video juegos y videos
-
-1.182. Reparaciones domésticas y artículos del hogar
-
-1.183. Restaurante o fonda sin venta de licor
-
-1.184. Restaurantes y bares
-
-1.185. Rosticería y/o pollería
-
-1.186. Rótulos y similares
-
-1.187. Sala de cine
-
-1.188. Salón de baile y similares.
-
-1.189. Salón de eventos
-
-1.190. Salón de fiestas
-
-1.191. Sastrería y/o costurera y/o reparación de ropa
-
-1.192. Serigrafía e impresiones
-
-1.193. Servicio de grúas
-
-1.194. Servicio de limpieza en general
-
-1.195. Supermercado
-
-1.196. Tabaquería
-
-1.197. Taller artístico
-
-1.198. Taller de hojalatería y pintura
-
-1.199. Taller de joyería, orfebrería y similares
-
-1.200. Taller de reparación de lanchas y botes
-
-1.201. Tapicería
-
-1.202. Taquería
-
-1.203. Teatro
-
-1.204. Telefonía e implementos celulares
-
-1.205. Tienda de artículos especializados
-
-1.206. Tienda de conveniencia
-
-1.207. Tienda departamental
-
-1.208. Tiendas de autoservicio institucionales
-
-1.209. Tintorería
-
-1.210. Unidad Deportiva
-
-1.211. Velatorio
-
-1.212. Vidrio soplado artesanal
-
-1.213. Vivero
-
-1.214. Y otros
-
-2. Arrendadoras 10.00 a 100.00
-
-2.1. Automóviles, por unidad
-
-2.2. Carros de Golf, por unidad
-
-2.3. Motocicletas, por unidad
-
-2.4. Bicicletas, por unidad
-
-3. Con fines turísticos 20 a 5000
-
-Para la determinación de las tarifas correspondientes
-
-a los puntos c) y d) de este párrafo, se estará a las
-
-características y especificaciones que respecto al
-
-uso y destino de los mismos se señalen en la
-
-normatividad municipal respectiva.
-
-a) Hasta 15 UMA. elevado al año. 6.60
-
-b) De 16 a 25 UMA. elevado al año. 11.00
-
-c) De 26 a 213 UMA. elevado al año. 4 al millar
-
-d) De 214 UMA. elevado al año en adelante. 3 al millar
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 21 DE DICIEMBRE DE 2023, PÁGINA 313.]</small>
 
 IV. Los servicios prestados por el Catastro Municipal
 
@@ -2531,9 +2173,11 @@ III. De morada conyugal 2.50
 
 Por la expedición de licencias, permisos o autorizaciones para toda clase de anuncios, carteles o publicidad, que se lleve a cabo en territorio municipal, se causará un derecho conforme a lo dispuesto en este capítulo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 104.
 
-Las personas físicas y morales tenedoras o usuarias de anuncios, carteles o publicidad en la vía pública o visible desde la vía pública requerirán de licencias, permisos o autorizaciones para su instalación y uso de conformidad con la reglamentación municipal.
+Las personas físicas y morales, tenedoras, usuarias o propietarias de anuncios, carteles o publicidad en la vía pública o visible desde la vía pública, requerirán de los permisos o autorizaciones para su instalación y uso, de conformidad con la reglamentación municipal.
 
 El pago de los derechos correspondientes se realizará en la Tesorería Municipal, una vez autorizada la licencia o permiso y en caso de anualidades, estas deberán cubrirse en el primer año, directamente en Tesorería.
 
@@ -2891,6 +2535,14 @@ c) Por tres horas 0.90
 
 d) Por más de tres horas 1.20
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XI. Negocios establecidos que ocupen la vía pública, por metro cuadrado 3.0
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XII. Colocación de toldo en la vía pública, por metro cuadrado 3.0
+
 ###### Artículo 126.
 
 Quedan comprendidas en este capítulo las personas físicas que realicen los siguientes actos o actividades:
@@ -2996,6 +2648,8 @@ vinculados con el manejo, producción y venta de animales. 15.00
 Los servicios prestados por la autoridad municipal de Protección Civil causarán derechos que se pagarán con base en las tarifas siguientes:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 24 DE DICIEMBRE DE 2021, PÁGINAS DE LA 245 A LA 250.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS AL TABULADOR EN EL P.O. DE 21 DE DICIEMBRE DE 2023, PÁGINAS DE LA 315 A LA 318.]</small>
 
 ### CAPÍTULO XXVIII. De los Servicios que Presta la Unidad de Vinculación
 
@@ -3360,3 +3014,11 @@ P.O. 8 DE DICIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 155 POR EL QUE SE REFORMAN: EL ARTÍCULO 70, 72, EL PRIMER PÁRRAFO Y LA FRACCIÓN II DEL ARTÍCULO 73; EL ARTÍCULO 83, EL PRIMER PÁRRAFO DEL ARTÍCULO 104, Y EL PUNTO 4 DE LA FRACCIÓN II DEL ARTÍCULO 133; Y SE ADICIONAN: LA FRACCIÓN IV AL ARTÍCULO 20, UN SEGUNDO PÁRRAFO Y LAS FRACCIONES I A LA XVII DEL ARTÍCULO 54, Y LAS FRACCIONES XI Y XII AL ARTÍCULO 125; TODOS DE LA LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES, DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
