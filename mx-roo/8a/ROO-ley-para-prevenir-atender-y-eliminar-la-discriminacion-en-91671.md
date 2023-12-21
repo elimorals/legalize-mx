@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-prevenir-atender-y-eliminar-la-discriminacion-en-91671
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2020-12-18"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY PARA PREVENIR, ATENDER Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2012.
 
@@ -375,13 +375,17 @@ VII.- Integrar y resolver los expedientes de queja sobre la materia, a través d
 
 VIII.- Dar seguimiento a las quejas canalizadas al Consejo Nacional para Prevenir la Discriminación;
 
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-IX.- Registrar y monitorear las medidas de nivelación, medidas de inclusión, medidas a favor de la igualdad y acciones afirmativas que los Poderes Públicos Estatales, los Ayuntamientos y los Órganos, le reporten en términos de esta Ley y la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Quintana Roo; y
+IX.- Registrar y monitorear las medidas de nivelación, medidas de inclusión, medidas a favor de la igualdad y acciones afirmativas que los Poderes Públicos Estatales, los Ayuntamientos y los Órganos, le reporten en términos de esta Ley y la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Quintana Roo;
 
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-X.- Las demás que establezca esta Ley.
+X. Promover, velar, y fomentar todas aquellas actividades que estén encaminadas a la inclusión laboral, la equidad remunerativa, la no discriminación sin importar el origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas, así como también la protección, observancia y promoción de los derechos humanos laborales, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XI. Las demás que establezca esta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
@@ -472,3 +476,11 @@ P.O. 18 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 187 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO, Y DE LA LEY PARA PREVENIR, ATENDER Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
