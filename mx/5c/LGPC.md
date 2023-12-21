@@ -4,7 +4,7 @@ identifier: "LGPC"
 country: "mx"
 rank: "ley_general"
 publication_date: "2012-06-06"
-last_updated: "2021-05-20"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88120&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPC"
 
 LEY GENERAL DE PROTECCIÓN CIVIL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 6 de junio de 2012.
 
@@ -78,7 +78,9 @@ XI. Consejo Nacional: Al Consejo Nacional de Protección Civil;
 
 XII. Continuidad de operaciones: Al proceso de planeación, documentación y actuación que garantiza que las actividades sustantivas de las instituciones públicas, privadas y sociales, afectadas por un agente perturbador, puedan recuperarse y regresar a la normalidad en un tiempo mínimo. Esta planeación deberá estar contenida en un documento o serie de documentos cuyo contenido se dirija hacia la prevención, respuesta inmediata, recuperación y restauración, todas ellas avaladas por sesiones de capacitación continua y realización de simulacros;
 
-XIII. Coordinación Nacional: A la Coordinación Nacional de Protección Civil de la Secretaría de Gobernación;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2023)</small>
+
+XIII. Coordinación Nacional: A la Coordinación Nacional de Protección Civil de la Secretaría de Seguridad y Protección Ciudadana;
 
 XIV. Damnificado: Persona afectada por un agente perturbador, ya sea que haya sufrido daños en su integridad física o un perjuicio en sus bienes de tal manera que requiere asistencia externa para su subsistencia; considerándose con esa condición en tanto no se concluya la emergencia o se restablezca la situación de normalidad previa al desastre;
 
@@ -162,7 +164,9 @@ XLIX. Riesgo: Daños o pérdidas probables sobre un agente afectable, resultado 
 
 L. Riesgo Inminente: Aquel riesgo que según la opinión de una instancia técnica especializada, debe considerar la realización de acciones inmediatas en virtud de existir condiciones o altas probabilidades de que se produzcan los efectos adversos sobre un agente afectable;
 
-LI. Secretaría: La Secretaría de Gobernación del Gobierno Federal;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2023)</small>
+
+LI. Secretaría: La Secretaría de Seguridad y Protección Ciudadana;
 
 LII. Seguro: Instrumento de Administración y Transferencia de Riesgos;
 
@@ -540,19 +544,21 @@ XIII. Crear grupos de trabajo para el apoyo de sus funciones, y
 
 XIV. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema Nacional.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 27.
 
-El Consejo Nacional estará integrado por el Presidente de la República, quien lo presidirá y por los titulares de las Secretarías de Estado, los Gobernadores de los Estados, el Jefe de Gobierno de la Ciudad de México, quienes podrán ser suplidos por servidores públicos que ostenten cargos con nivel inmediato inferior, y la Mesa Directiva de la Comisión de Protección Civil de la Cámara de Senadores y la de Diputados. En el caso del Presidente de la República, lo suplirá el Secretario de Gobernación, quien a su vez será suplido por el Coordinador Nacional de Protección Civil.
+El Consejo Nacional estará integrado por el Presidente de la República, quien lo presidirá y por los titulares de las Secretarías de Estado, los Gobernadores de los Estados, el Jefe de Gobierno de la Ciudad de México, quienes podrán ser suplidos por servidores públicos que ostenten cargos con nivel inmediato inferior, y la Mesa Directiva de la Comisión de Protección Civil de la Cámara de Senadores y la de Diputados. En el caso del Presidente de la República, lo suplirá el Secretario de Seguridad y Protección Ciudadana, quien a su vez será suplido por el Coordinador Nacional de Protección Civil.
 
 El Consejo Nacional podrá asesorarse en la toma de decisiones en materia de protección civil del Consejo Consultivo, en los términos que se establezca en el Reglamento.
 
 Los integrantes del Consejo Consultivo podrán ser convocados a las sesiones del Consejo Nacional, por invitación que formule el Secretario Ejecutivo.
 
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 28.
 
-El Secretario de Gobernación será el Secretario Ejecutivo del Consejo Nacional. El Secretario Técnico será el Coordinador Nacional de Protección Civil.
+El Secretario de Seguridad y Protección Ciudadana será el Secretario Ejecutivo del Consejo Nacional. El Secretario Técnico será el Coordinador Nacional de Protección Civil.
 
 ###### Artículo 29.
 
@@ -606,9 +612,11 @@ VI. Preparar la evaluación de cumplimiento del Programa Nacional de Protección
 
 VII. Las demás funciones que se señalen en el Reglamento de esta Ley o que le sean encomendadas por el Presidente o el Secretario Ejecutivo del Consejo Nacional.
 
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 31.
 
-La Coordinación Nacional de Protección Civil, para efectos presupuestarios dependerá del presupuesto de la Secretaría de Gobernación, la cual contemplará en cada ejercicio presupuestario los recursos necesarios para que la Coordinación realice sus tareas y objetivos.
+La Coordinación Nacional de Protección Civil, para efectos presupuestarios dependerá del presupuesto de la Secretaría de Seguridad y Protección Ciudadana, la cual contemplará en cada ejercicio presupuestario los recursos necesarios para que la Coordinación realice sus tareas y objetivos.
 
 ### Capítulo V. Del Comité Nacional de Emergencias
 
@@ -622,7 +630,9 @@ El Comité Nacional es el mecanismo de coordinación de las acciones en situacio
 
 El Comité Nacional estará constituido por los titulares o por un representante de las dependencias y entidades de la administración pública federal, con rango no inferior al de director general o equivalente, que de acuerdo a su especialidad asume la responsabilidad de asesorar, apoyar y aportar, dentro de sus funciones, programas, planes de emergencia y sus recursos humanos y materiales, al Sistema Nacional, así como por el representante que al efecto designe el o los gobernadores de los estados afectados o por el jefe del gobierno de la Ciudad de México, en su caso.
 
-El Comité Nacional estará presidido por el Secretario de Gobernación, o en su ausencia por el titular de la Coordinación Nacional, quienes podrán convocar para sesionar en forma extraordinaria cuando se presenten situaciones extremas de emergencia o desastre, o cuando la probabilidad de afectación por un agente perturbador sea muy alta, poniendo en inminente riesgo a grandes núcleos de población e infraestructura del país.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2023)</small>
+
+El Comité Nacional estará presidido por el Secretario de Seguridad y Protección Ciudadana, o en su ausencia por el titular de la Coordinación Nacional, quienes podrán convocar para sesionar en forma extraordinaria cuando se presenten situaciones extremas de emergencia o desastre, o cuando la probabilidad de afectación por un agente perturbador sea muy alta, poniendo en inminente riesgo a grandes núcleos de población e infraestructura del país.
 
 El Secretariado Técnico del Comité Nacional recaerá en el Titular de la Coordinación Nacional o el servidor público que éste designe para el efecto, debiendo tener un nivel jerárquico de Director General o su equivalente.
 
@@ -1307,3 +1317,9 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 2; 27; 28; 31 Y 33 DE LA LEY GENERAL DE PROTECCIÓN CIVIL".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
