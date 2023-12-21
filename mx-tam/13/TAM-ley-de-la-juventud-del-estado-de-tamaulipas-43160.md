@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-la-juventud-del-estado-de-tamaulipas-43160"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-29"
-last_updated: "2021-03-04"
+last_updated: "2023-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE LA JUVENTUD DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 21 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE LA JUVENTUD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023 (ABROGADA).
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 2004.
 
@@ -722,3 +724,65 @@ P.O. 4 DE MARZO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 65-782 MEDIANTE EL CUAL SE EXPIDE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de la Juventud del Estado de Tamaulipas, publicada en el Periódico Oficial del Estado el 29 de diciembre del 2004 mediante Decreto No. LVIII-1145.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+El reglamento de la presente ley deberá ser expedido dentro de los noventa días siguientes a la entrada en vigor de la misma.
+
+El Poder Ejecutivo, a través del Instituto de la Juventud de Tamaulipas, en un plazo de noventa días a partir de la entrada en vigor de la presente Ley, deberá expedir la Reglamentación del Sistema para el Desarrollo de la Juventud.
+
+###### ARTÍCULO QUINTO.
+
+El Poder Ejecutivo, a través del Instituto de la Juventud de Tamaulipas, en un plazo de noventa días a partir de la entrada en vigor de la presente Ley, deberá expedir la Reglamentación del Sistema de Información e investigación de la Juventud.
+
+###### ARTÍCULO SEXTO.
+
+El Poder Ejecutivo, a través del Instituto de la Juventud de Tamaulipas, en un plazo de noventa días a partir de la entrada en vigor de la presente Ley, deberá expedir el Reglamento del Consejo Tamaulipeco de la Juventud.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Poder Ejecutivo y el Instituto de la Juventud de Tamaulipas conforme a sus atribuciones citarán a reunión extraordinaria del Sistema de Desarrollo de la Juventud para dar su instalación y posesión a sus integrantes, dentro de los sesenta días naturales siguientes a la publicación del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+Los Municipios, podrán constituir el Consejo Municipal de la Juventud y Reglamentario de acuerdo con su autonomía y capacidad presupuestal.
+
+###### ARTÍCULO NOVENO.
+
+Los Municipios, conforme a su disponibilidad presupuesta! (sic) y autonomía podrán crear las Instancias Municipales en materia de Juventud de acuerdo a lo establecido en la presente Ley.
+
+En tanto se dé cumplimiento a lo dispuesto en el párrafo anterior, los Ayuntamientos podrán destinar un área administrativa que asumirá las funciones de atención a los jóvenes en el Municipio.
+
+Quedan exceptuados del cumplimiento de este artículo, los Municipios que ya cuentan con alguna dependencia u organismo municipal de atención a la Juventud.
+
+###### ARTÍCULO DÉCIMO.
+
+El Consejo Tamaulipeco de la Juventud instalado el 31 de agosto del 2023 continuará en funciones hasta el 31 de agosto del 2024.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Estado y los Municipios en un término de 180 días deberán integrar y establecer las disposiciones para la constitución de políticas públicas del impulso emprendedor.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las nuevas obligaciones derivadas de la aplicación de la presente Ley, para el Poder Ejecutivo, sus Dependencias, y Entidades, se realizarán con base en la capacidad presupuestal.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+La instrumentalización de los programas, lineamientos y acciones que se encuentren vigentes al expedirse la presente Ley, continuarán en vigencia conforme las atribuciones dispuestas en estos.
