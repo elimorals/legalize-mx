@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2023-11-24"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -125,17 +125,25 @@ Esta Constitución no perderá su fuerza y vigencia, aún cuando por cualquier c
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 12.
 
-La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás, son fundamento del orden político y la paz social.
+La dignidad humana como el origen, la esencia y el fin de todos los derechos humanos que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás, son fundamento del orden político y la paz social.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+La dignidad humana, es la base y condición para el disfrute de los demás derechos y el desarrollo integral de la personalidad. Es a partir de ella, que se reconocen la superioridad de la persona frente a las cosas, la paridad entre las personas, la individualidad del ser humano, su libertad y autodeterminación, la garantía de su existencia material mínima, la posibilidad real y efectiva del derecho de participación en la toma de decisiones.
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
 
 En el Estado de Quintana Roo, todas las personas gozarán de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los que el Estado Mexicano sea parte y esta Constitución, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que esos mismos ordenamientos establezcan.
 
 > <small>(ADICIONADO, P.O. 6 DE MARZO DE 2019)</small>
 
 Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de la materia, favoreciendo en todo tiempo a las personas la protección más amplia.
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
 
 Todas las autoridades estatales, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado de Quintana Roo, deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
 
@@ -267,11 +275,21 @@ Toda persona tiene derecho a realizar por propio consentimiento su trabajo en cu
 
 La Legislatura local, determinará qué profesiones necesitan título para su ejercicio, y los requerimientos de su expedición.
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 17.
 
-Los servidores y empleados públicos, estatales o municipales, acatarán el derecho de petición, cuando se ejercite por escrito, respetuosa y pacíficamente. En materia política sólo los Ciudadanos Mexicanos usarán de esta prerrogativa. A toda petición recaerá en breve término contestación al interesado.
+Las personas servidoras públicas estatales o municipales, respetarán el derecho de petición, siempre que ésta se formule por escrito, de manera pacífica y respetuosa, pero en materia política solo podrán hacer uso de este derecho los ciudadanos mexicanos. A toda petición deberá recaer un acuerdo escrito de la autoridad a quien se haya dirigido, la cual tiene obligación de hacerlo conocer en breve término al peticionario.
+
+El Estado reconoce a todas las personas el derecho humano a la buena administración pública conforme a principios de eficacia, eficiencia, generalidad, uniformidad, continuidad, calidad y uso de las tecnologías de la información y comunicación. La buena administración pública implica que autoridades actúen con dignidad y respeto, además de proporcionar servicios públicos siguiendo los principios de ser regulares, transparentes, disponibles, accesibles, asequibles, aceptables, adaptables y fomentando la participación ciudadana informada, acompañado de una conducta honesta, inclusiva y profesional por parte de la (sic) autoridades y las personas servidoras públicas del Estado y los municipios, con el objetivo de asegurar que las acciones gubernamentales estén en línea con los derechos humanos de las personas y se centren en su bienestar. Todas las autoridades en el Estado y los municipios, en el ámbito de sus competencias que realicen actos materialmente de administración pública, deben garantizar este derecho, sujeto a las suficiencias de sus recursos, materiales y/o humanos.
+
+Las autoridades administrativas tienen la obligación de asegurar el derecho a una audiencia previa en todos los casos en los que se emita una resolución que implique una decisión que limita derechos. En tales circunstancias, deberán resolver de manera imparcial, proporcional y justa, dentro de un plazo razonable y siguiendo las formalidades esenciales del procedimiento. Además, deben garantizar el acceso al expediente administrativo, respetando la confidencialidad y protección de datos personales.
+
+El combate contra la corrupción, la transparencia, el acceso a la información y la capacitación de las personas servidoras públicas son elementos fundamentales del derecho a la buena administración pública. Las autoridades establecerán un sistema de indicadores de calidad y excelencia en el servicio público, basado en criterios técnicos y acorde con los principios mencionados en este artículo.
+
+Toda persona tiene el derecho de impugnar cualquier acción u omisión de las autoridades que viole su derecho a una buena administración pública, siempre y cuando puedan demostrar un interés legítimo, lo cual se regirá en las leyes secundarias correspondientes.
+
+Las decisiones o resoluciones finales emitidas por las autoridades estatales y municipales pueden ser objeto de recurso, de acuerdo (sic) la legislación en la materia.
 
 ###### ARTICULO 18.
 
@@ -667,7 +685,9 @@ A fin de dar cumplimiento a lo dispuesto en la fracción II del artículo 3º de
 
 Las universidades y las demás instituciones de educación superior del Estado a las que la ley otorgue autonomía, tendrán la facultad y la responsabilidad de gobernarse a sí mismas; realizarán sus fines de educar, investigar y difundir la cultura de acuerdo con los principios del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, respetando la libertad de cátedra e investigación y de libre examen y discusión de las ideas; determinarán sus planes y programas; fijarán los términos de ingreso, promoción y permanencia de su personal académico; y administrarán su patrimonio.
 
-La educación que se imparta en el Estado, tendrá perspectiva de género y una orientación integral, por lo que se incluirá el conocimiento de las ciencias y humanidades: la enseñanza de las matemáticas, la lectoescritura, la literacidad, la historia, la geografía, el civismo, la filosofía, la tecnología, la innovación, las lenguas extranjeras, la educación física, el deporte, las artes, en especial la música, la promoción de estilos de vida saludables, la educación sexual y reproductiva y el cuidado al medio ambiente.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+La educación que se imparta en el Estado, tendrá perspectiva de género y una orientación integral, por lo que incluirá el conocimiento de las ciencias y las humanidades: la enseñanza de las matemáticas, la lectoescritura, la literacidad, la historia, la geografía, el civismo, la filosofía, la tecnología, la innovación, la enseñanza de las lenguas indígenas del Estado, en especial de la lengua maya, las lenguas extranjeras, la educación física, el deporte, las artes, en especial la música, la promoción de estilos de vida saludables, la educación sexual y reproductiva y el cuidado al medio ambiente.
 
 La educación será democrática como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo.
 
@@ -4043,15 +4063,33 @@ El Sistema Estatal Anticorrupción es la instancia de coordinación entre las au
 
 I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado, de la Fiscalía Especializada en Combate a la Corrupción, de la Secretaría del Ejecutivo responsable del control interno, el Presidente del Tribunal de Justicia Administrativa del Estado, el Presidente del organismo garante que establece el artículo 21 de esta Constitución, así como por un representante del Consejo de la Judicatura del Poder Judicial del Estado y otro del Comité de Participación Ciudadana;
 
-II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados conforme al siguiente procedimiento:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-a) La Legislatura del Estado constituirá una Comisión de Selección integrada por cinco mexicanos, residentes del Estado, por un periodo de tres años, de la siguiente manera:
+II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco personas que se hayan destacado por su contribución a la transparencia, finanzas, políticas públicas, la rendición de cuentas, fiscalización, participación ciudadana o el combate a la corrupción y serán designadas conforme al siguiente procedimiento:
 
-1. Convocará a las instituciones de educación superior y de investigación del Estado, para proponer candidatos a fin de integrar la Comisión de selección, para lo cual deberán enviar los documentos que acrediten el perfil solicitado en la convocatoria, en un plazo no mayor a quince días, para seleccionar a tres miembros basándose en los elementos decisorios que se hayan plasmado en la convocatoria, tomando en cuenta que se hayan destacado por su contribución en materia de fiscalización, de rendición de cuentas y combate a la corrupción.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-2. Convocará a organizaciones de la sociedad civil que tengan experiencia comprobada en materia de fiscalización, de rendición de cuentas y combate a la corrupción, para seleccionar a dos miembros, en los mismos términos del inciso anterior.
+a) La Legislatura del Estado constituirá una Comisión de Selección integrada por cinco personas mexicanas, residentes del Estado, por un periodo de cinco años, de la siguiente manera:
 
-3. El cargo de miembro de la Comisión de selección será honorario. Quienes funjan como miembros no podrán ser designados como integrantes del Comité de Participación Ciudadana por un periodo de seis años contados a partir de la disolución de la Comisión de selección.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+1. Convocará a las instituciones de educación superior y de investigación del Estado, para proponer candidatas o candidatos a fin de integrar la Comisión de Selección, para lo cual deberán enviar los documentos que acrediten el perfil solicitado en la convocatoria, en un plazo no mayor a quince días hábiles, tomando en cuenta que se hayan destacado por su contribución en materia de fiscalización, de rendición de cuentas y combate a la corrupción.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+2. Convocará a organizaciones de la sociedad civil que tengan experiencia comprobada en materia de fiscalización, de rendición de cuentas y combate a la corrupción, en los mismos términos del numeral anterior.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+Para garantizar la pluralidad en la integración de la Comisión de Selección, se deberá designar mínimo dos personas propuestas por las instituciones de educación superior y de investigación del Estado y dos por parte de las organizaciones de la sociedad civil, garantizando en todo momento la paridad de género.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+3. Los cargos de la Comisión de Selección serán honorarios. Quienes funjan como integrantes no podrán formar parte del Comité de Participación Ciudadana por un periodo de seis años contados a partir de la disolución de la Comisión de Selección.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+En caso de que se generen vacantes imprevistas, el proceso de selección de la nueva persona integrante de la Comisión de Selección no podrá exceder el límite de noventa días y la persona que resulte electa desempeñará el encargo por el tiempo restante de la vacante a ocupar.
 
 b) La Comisión de selección deberá emitir una convocatoria, con el objeto de realizar una amplia consulta pública en el Estado, dirigida a toda la sociedad, para que presenten sus postulaciones de aspirantes a ocupar el cargo. Para ello, definirá la metodología, plazos y criterios de selección de los integrantes del Comité de Participación Ciudadana Estatal y deberá hacerlos públicos; en donde deberá considerar al menos las siguientes características:
 
@@ -5678,3 +5716,27 @@ P.O. 24 DE NOVIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECLARATORIA NÚMERO: 004 POR LA QUE SE REFORMA EL PÁRRAFO DECIMOSEXTO DEL ARTÍCULO 32 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA NÚMERO: 005 POR LA QUE SE REFORMAN LA FRACCIÓN II, SU INCISO A) Y SUS NUMERALES 1, 2 Y 3; Y SE ADICIONAN EL SEGUNDO PÁRRAFO AL NUMERAL 2 Y EL SEGUNDO PÁRRAFO AL NUMERAL 3 AMBOS DE LA FRACCIÓN II, TODOS DEL ARTÍCULO 161 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA NÚMERO: 006 POR LA QUE SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 12 Y EL ARTÍCULO 17; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 12 RECORRIÉNDOSE LOS SUBSIGUIENTES, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. Dentro de los 180 días siguientes a la aprobación del presente Decreto, deberán realizarse las modificaciones que correspondan a las distintas disposiciones normativas secundarias, a efecto de garantizar su debido cumplimiento.
