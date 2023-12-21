@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-prestacion-de-servicios-inmobiliarios-del-estado-de-1012
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-06"
-last_updated: "2021-07-16"
+last_updated: "2023-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101241&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PRESTACIÓN DE SERVICIOS INMOBILIARIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número 54 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 06 de junio de 2014.
 
@@ -339,7 +339,9 @@ Las especificaciones, programas, periodicidad, convocatorias y demás caracterí
 
 Las visitas de verificación que llevará a cabo la Secretaría, tendrán como objeto constatar el cumplimiento de los requisitos legales para operar en el Estado como Asesor Inmobiliario, así como del cumplimiento por parte de los Asesores Inmobiliarios, de todas las disposiciones que establece la presente Ley y su Reglamento.
 
-Las visitas de verificación se llevarán a cabo conforme lo dispuesto para las Visitas de Verificación en la Ley del Procedimiento Administrativo del Estado de Quintana Roo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+Las visitas de verificación se llevarán a cabo conforme lo dispuesto para las Visitas de Verificación en el Código de Justicia Administrativa del Estado de Quintana Roo.
 
 ### CAPÍTULO SEGUNDO. DE LAS SANCIONES
 
@@ -421,11 +423,13 @@ En todo caso, las infracciones y sanciones que se cometan por los Asesores Inmob
 
 ### CAPÍTULO TERCERO. DEL RECURSO DE REVISIÓN
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 27.
 
-Los interesados afectados por los actos y resoluciones que la Secretaría emita conforme a esta Ley, podrán a su elección, interponer el recurso de revisión o intentar el juicio correspondiente ante la Sala Constitucional y Administrativa del Tribunal Superior de Justicia del Estado de Quintana Roo.
+Los interesados afectados por los actos y resoluciones que la Secretaría emita conforme a esta Ley, podrán a su elección, interponer el recurso de revisión o intentar el juicio correspondiente ante el Tribunal de Justicia de (sic) Administrativa del Estado de Quintana Roo.
 
-En todo caso, en cuanto al recurso de revisión, será aplicable lo señalado por la Ley del Procedimiento Administrativo del Estado de Quintana Roo.
+En todo caso, en cuanto a recurso de revisión, será aplicable lo señalado por el Código de Justicia Administrativa del Estado de Quintana Roo.
 
 ## TRANSITORIOS
 
@@ -488,3 +492,11 @@ La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legi
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 183 POR EL QUE SE REFORMAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 18 Y EL ARTÍCULO 27 DE LA LEY DE PRESTACIÓN DE SERVICIOS INMOBILIARIOS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación al día siguiente de su publicación (sic) en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
