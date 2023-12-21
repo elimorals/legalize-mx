@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proteccion-y-fomento-apicola-del-estado-de-quintana-1593
 country: "mx"
 rank: "ley"
 publication_date: "2022-07-13"
-last_updated: "2022-07-13"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PROTECCIÓN Y FOMENTO APÍCOLA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número 113 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 13 de julio de 2022.
 
@@ -169,9 +169,11 @@ XLVII. Ruta: Son los caminos, veredas, carreteras o sitios donde se establecen a
 
 XLVIII. Zona Apícola: Es aquel espacio físico o territorio que, por sus condiciones naturales y disposición de flora melífera es susceptible de aprovechamiento para la apicultura.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 5.
 
-Se declara de interés público y actividad prioritaria a la apicultura por los beneficios que aporta:
+Se declara de interés público y actividad prioritaria a la meliponicultura y a la apicultura por los beneficios que aporta:
 
 I. La conservación de la biodiversidad y los servicios ambientales a través de la polinización tanto de plantas de la vegetación natural como la cultivada;
 
@@ -357,7 +359,25 @@ LI. Promover en coordinación con las autoridades competentes campañas de fores
 
 LII. Iniciar los procedimientos administrativos, así como establecer las sanciones y multas a través de la de (sic) Subsecretaría de Ganadería de la Secretaría, y
 
-LIII. Las demás que establezca el reglamento de la presente Ley, así como las demás que le confieran otras disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA,] P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+LIII. Incentivar la participación de Universidades, organizaciones y asociaciones protectoras del medio ambiente en la instrumentación de acciones de protección y preservación de las abejas y su medio ambiente;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+LIV. En coordinación con las autoridades municipales, en el ámbito de sus competencias, promover programas y campañas de difusión en las cuales se fomenten conductas de respeto, cuidado y protección de las abejas y su medio ambiente;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+LV. Incentivar proyectos de emprendimiento social que generen empleos e inversión para el desarrollo de la meliponicultura y la apicultura;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+LVI. Otorgar estímulos a los productores apícolas de acuerdo con los programas autorizados y de conformidad con la disponibilidad presupuestaria; y
+
+> <small>(ADICIONADA [REPUBLICADA Y REUBICADA ANTES FRACCIÓN LIII], P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+LVII. Las demás que establezca el reglamento de la presente Ley, así como las demás que le confieran otras disposiciones legales aplicables.
 
 ###### Artículo 12.
 
@@ -401,11 +421,17 @@ Se crea el Comité, con el objeto de apoyar la ejecución de programas tendiente
 
 El Comité estará conformado de la siguiente manera:
 
-I. Una persona Presidente, que será quien ocupe la titularidad de la Secretaría;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-II. Una persona Secretario, que será la persona titular de la Subsecretaría de Ganadería de la Secretaría;
+I. Una persona encargada de la Presidencia, que será quien ocupe la titularidad de la Secretaría;
 
-III. Una persona integrante del Comité Estatal para el Fomento y Protección Pecuaria de Quintana Roo, quien fungirá como secretario técnico;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+II. Una persona encargada de la Secretaría, que será la persona titular de la Subsecretaría de Ganadería de la Secretaría;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+III. Una persona integrante del Comité Estatal para el Fomento y Protección Pecuaria de Quintana Roo, quien fungirá como persona secretaria técnica;
 
 IV. Una persona representante de la Secretaría de Desarrollo Económico del Estado;
 
@@ -427,19 +453,35 @@ XII. Una persona representante de empresas comercializadoras de miel;
 
 XIII. Una persona representante de Instituciones Educativas afines;
 
-XIV. El o la titular de la Representación Estatal de la Secretaría de Agricultura y Desarrollo Rural, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-XV. Una persona representante de las asociaciones de meliponicultores debidamente reconocido.
+XIV. El o la titular de la Representación Estatal de la Secretaría de Agricultura y Desarrollo Rural;
 
-Cada representante deberá nombrar a una persona suplente, en caso de ausencia. Los cargos son de carácter honorífico y no generan derechos a retribución monetaria alguna.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-En caso de ausencia de la persona Presidente, lo suplirá en funciones la persona Secretario y en suplencia de éste, a quien él mismo designe.
+XV. Una persona representante de las asociaciones de meliponicultores debidamente reconocida, y
 
-En las sesiones todos los integrantes tendrán derecho a voz y voto, de igual manera en cada sesión se levantará un acta para asentar los acuerdos de la misma.
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XVI. La persona que presida la Comisión de Desarrollo Rural y Pesquero del Poder Legislativo del Estado de Quintana Roo.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+Cada persona representante deberá nombrar a una persona suplente, en caso de ausencia. Los cargos son de carácter honorífico y no generan derechos a retribución monetaria alguna.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+En caso de ausencia de la persona encargada de la Presidencia, la suplirá en funciones la persona encargada de la Secretaría y en suplencia de ésta, a quien la misma designe.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+En las sesiones todas las personas integrantes tendrán derecho a voz y voto, de igual manera en cada sesión se levantará un acta para asentar los acuerdos de la misma.
 
 El reglamento de la Ley establecerá el procedimiento para la instalación del Comité, su funcionamiento y la periodicidad para sesionar, así como, el procedimiento para la elección de representantes de la sociedad civil, educativas y empresas comercializadoras de miel.
 
-El Comité para la atención de los asuntos vinculados a sus atribuciones, podrá invitar a diversos actores del sector apícola, cuya participación se dará en términos de lo que establezca el reglamento respectivo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+El Comité para la atención de los asuntos vinculados a sus atribuciones, podrá invitar a diversas personas involucradas en el sector apícola, cuya participación se dará en términos de lo que establezca el reglamento respectivo.
 
 ###### Artículo 15.
 
@@ -1352,3 +1394,21 @@ EN CUMPLIMIENTO DE LAS OBLIGACIONES QUE ME IMPONEN LOS ARTÍCULOS 91 FRACCIÓN I
 DADO EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS TRECE DÍAS DEL MES DE MAYO DEL AÑO DOS MIL VEINTIDOS.
 
 EL GOBERNADOR DEL ESTADO DE QUINTANA ROO, C.P. CARLOS MANUEL JOAQUÍN GONZÁLEZ, RUBRICA; EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO, DR. JORGE ARTURO CONTRERAS CASTILLO, RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 178 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y FOMENTO APÍCOLA DEL ESTADO DE QUINTANA ROO; Y SE DECLARA EL DÍA 20 DE MAYO DE CADA AÑO COMO "DÍA ESTATAL DE LA ABEJA MELIPONA O ABEJA SAGRADA MAYA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, y por única ocasión, la H. XVII Legislatura del Estado, conjuntamente con la Secretaría de Desarrollo Económico y la Secretaría de Desarrollo Agropecuario, Rural y Pesca, organizaran una feria y exposición apícola con la participación de los productos de las y los apicultores y meliponicultores, y deberán hacer entrega del decreto que en su caso se expida.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 144 POR EL QUE SE REFORMAN LAS FRACCIONES I, II, III, XIV Y XV, ASÍ COMO LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO Y SEXTO DEL ARTÍCULO 14; Y SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 14, TODOS DE LA LEY DE PROTECCIÓN Y FOMENTO APÍCOLA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
