@@ -4,7 +4,7 @@ identifier: "NAY-estatuto-de-las-relaciones-de-trabajo-del-instituto-estatal-160
 country: "mx"
 rank: "estatuto"
 publication_date: "2022-11-03"
-last_updated: "2022-11-03"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "NAY"
 
 ESTATUTO DE LAS RELACIONES DE TRABAJO DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT CON SU PERSONAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Estatuto publicado en la Sección Tercera del Número 86 del Periódico Oficial del Estado de Nayarit, el jueves 3 de noviembre de 2022.
 
@@ -1438,9 +1438,15 @@ Los titulares de las áreas deberán remitir a la Presidencia del Instituto, la 
 
 La Dirección de Administración verificará, que se cuente con la disponibilidad presupuestal para la ocupación de plazas vacantes a través de esta modalidad e informará a la Junta para que se considere en la aprobación respectiva.
 
-###### Artículo 82.
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 En caso de aprobación por parte de la Junta, la Dirección de Administración realizará los trámites administrativos para la contratación.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 82.
+
+En el caso del personal adscrito a las Consejeras y Consejeros Electorales, la facultad de designación directa será ejercida por la Consejera o Consejero Electoral mediante la solicitud que al efecto realice a la Presidencia para la expedición de los nombramientos correspondientes; en todos los casos, las designaciones directas que realicen las Consejeras y Consejeros Electorales surtirán sus efectos a partir del día en que su solicitud sea presentada a la Presidencia, salvo que la misma indique una fecha posterior.
 
 ### CAPÍTULO CUARTO. DE LAS ENCARGADURÍAS DE DESPACHO
 
@@ -2451,3 +2457,23 @@ TERCERO. La disposición contenida en el artículo 56 del presente Estatuto, ser
 CUARTO. Para efectos de lo previsto en el artículo 183, fracción IV del presente ordenamiento, la Dirección Jurídica, capacitará al personal adscrito a dicha dirección susceptible de ser designado como conciliador.
 
 A T E N T A M E N T E. Mtro. José Francisco Cermeño Ayón, Consejero Presidente del Instituto Estatal Electoral de Nayarit.- Rúbrica.- Lic. Vicente Zaragoza Vázquez, Secretario General del Instituto Estatal Electoral de Nayarit.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON LA VIGENCIA Y DIFUSIÓN DEL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. [...]
+
+SEGUNDO. [...]
+
+TERCERO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+CUARTO. Se abroga el Lineamiento Administrativo para Control de Entradas y Salidas del Personal del Instituto Estatal Electoral de Nayarit.
+
+QUINTO. Publíquense los presentes puntos de acuerdo en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEXTO. Hágase del conocimiento al INE, a través de la Unidad Técnica de Vinculación con los Organismos Públicos Locales, la aprobación del presente acuerdo, para los efectos legales a que haya lugar.
+
+SÉPTIMO. Publíquese el presente acuerdo en los estrados y en la página oficial de internet, ambos de este Instituto Estatal Electoral.
