@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2023-02-27"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -1817,13 +1817,19 @@ Las concesiones podrán extinguirse, según sea el caso, conforme a lo previsto 
 
 Corresponderá a la SEGAM, regular, seleccionar, determinar y autorizar los sitios que técnica y normativamente se consideren aptos para la disposición final de los residuos sólidos urbanos y de manejo especial, con apego a esta Ley, la LGEEPA y demás disposiciones normativas correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 104.
 
-La SEGAM, en coordinación con los ayuntamientos, para los efectos de este capitulo promoverán:
+La SEGAM, en coordinación con los municipios, para los efectos de este capítulo promoverán:
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2009)</small>
 
 I. El uso de sistemas de reciclamiento de desechos sólidos para disminuir su cantidad, a través de la separación y clasificación, así como la operación de sistemas de reciclaje y la eliminación del uso de bolsas de plástico;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+I Bis. Acciones para el aprovechamiento de la materia orgánica de los residuos sólidos urbanos en procesos de generación de energía;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
 
@@ -3804,3 +3810,11 @@ PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación 
 SEGUNDO. Los ayuntamientos de la Entidad tendrán el plazo de cuarenta y cinco días hábiles para adecuar su reglamento de limpia y recolección de basura conforme lo previsto por el presente Decreto.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0908.- SE REFORMA EL ARTÍCULO 104 EN SU PÁRRAFO PRIMERO; Y ADICIONA AL MISMO ARTÍCULO 104 LA FRACCIÓN I BIS, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis.”
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
