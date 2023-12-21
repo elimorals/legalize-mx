@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2023-11-27"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -447,7 +447,9 @@ VI. Los demás ingresos lícitos, que obtengan para la realización de los fines
 
 Las Alcaldías presentarán al Ayuntamiento, por conducto de la persona titular de la Presidencia Municipal, informes administrativos semestrales que serán sometidos a la consideración del Ayuntamiento, para su correspondiente aprobación, debiendo ser difundidos en la localidad.
 
-La Contraloría Municipal vigilará la correcta aplicación de los recursos asignados a las Alcaldías.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+El Órgano Interno de Control vigilará la correcta aplicación de los recursos asignados a las Alcaldías.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
 
@@ -721,9 +723,9 @@ Si la vacante se genera respecto de alguna persona integrante del Ayuntamiento d
 
 Al término de la sesión de Instalación, el Ayuntamiento procederá en sesión ordinaria a lo siguiente:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-I. Nombrar por mayoría de votos de sus personas integrantes a quienes ejerzan la titularidad de la Secretaría General, Tesorería, Contraloría Municipal, Dirección de Seguridad Pública Municipal y las Direcciones de Ingresos y Egresos de la Tesorería Municipal. Dichos nombramientos, se realizarán en apego al principio de paridad de género;
+I. Nombrar por mayoría de votos de sus integrantes a quienes ejerzan la titularidad de la Secretaría General, Tesorería, Órgano Interno de Control, Dirección de Seguridad Pública y Tránsito Municipal y las Direcciones de Ingresos y Egresos de la Tesorería Municipal;
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
 
@@ -751,11 +753,11 @@ f) Relación de documentos que obran en los archivos del Municipio; y
 
 g) La demás información que se considere relevante para garantizar una continuidad en la buena marcha de los asuntos municipales.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 56.
 
-Las personas titulares de la Presidencia Municipal, Sindicatura, Tesorería, Contraloría y Direcciones, deberán de verificar el contenido de la información señalada en el artículo anterior, en un plazo no mayor a sesenta días naturales contados a partir de la fecha de la instalación del Ayuntamiento. En el mismo plazo, la administración anterior, deberá aclarar y proporcionar la información adicional que se le solicite.
+Las personas titulares de la Presidencia Municipal, Sindicatura, Tesorería, Órgano Interno de Control y de las Direcciones, deberán de verificar el contenido de la información señalada en el artículo anterior, en un plazo no mayor a sesenta días naturales contados a partir de la fecha de la instalación del Ayuntamiento. En el mismo plazo, la administración anterior, deberá aclarar y proporcionar la información adicional que se le solicite.
 
 ###### ARTÍCULO 57.
 
@@ -877,9 +879,9 @@ f) Expedir las declaratorias que contengan la división municipal en Cabeceras M
 
 g) Convocar, por conducto de la Presidencia Municipal, a la elección de las personas integrantes de las Alcaldías, así como de las personas Delegadas y Subdelegadas Municipales que establezca el Ayuntamiento, en los términos dispuestos en la presente Ley y convocar también a elecciones extraordinarias cuando se trate de cubrir las vacantes de personas Alcaldes, Delegadas y Subdelegadas.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-h) Nombrar y remover por mayoría de votos de sus integrantes a la persona titular de la Secretaría General, de la Tesorería, de la Contraloría Municipal, de la Dirección de Seguridad Pública y Tránsito y las Direcciones de Ingresos y Egresos de la Tesorería Municipal, a propuesta de la persona titular de la Presidencia Municipal o de las personas Regidoras, en los términos previstos en la presente Ley.
+h) Nombrar y remover por mayoría de votos de sus integrantes a las personas titulares de la Secretaría General, de la Tesorería, del Órgano Interno de Control, de la Dirección de Seguridad Pública y Tránsito y de las Direcciones de Ingresos y Egresos de la Tesorería Municipal, a propuesta de la persona Titular de la Presidencia Municipal o de las Regidurías, en los términos previstos en la presente Ley.
 
 i) Crear las unidades administrativas que conforman la Administración Pública Municipal y reglamentar su funcionamiento;
 
@@ -1165,7 +1167,9 @@ VII. De Turismo;
 
 VIII. De Salud Pública y Asistencia Social;
 
-IX. De Seguridad Pública, Policía Preventiva y Tránsito;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+IX. De Seguridad Ciudadana, Policía Preventiva y Tránsito, Bomberos y Protección Civil.
 
 > <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
 
@@ -1289,11 +1293,11 @@ Las Comisiones tendrán la facultad de realizar tareas de investigación, vigila
 
 Las Comisiones en ejercicio de sus funciones, tendrán facultades suficientes para solicitar por escrito a las personas servidoras públicas de la administración municipal, la información que requieran para el despacho de los asuntos de su conocimiento.
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 85.
 
-Las Comisiones en ejercicio de sus funciones, tendrán facultades suficientes para llamar a comparecer a las personas titulares de las dependencias administrativas municipales, a efecto de que les informen, cuando así se requiera, sobre el estado que guardan los asuntos de su dependencia, o se discutan cuestiones relacionadas con el ámbito de su competencia.
+Previa autorización de la persona titular de la Presidencia Municipal, las Comisiones en ejercicio de sus funciones, tendrán facultades suficientes para llamar a comparecer a las personas titulares de las dependencias administrativas municipales, a efecto de que les informen, cuando así se requiera, sobre el estado que guardan los asuntos de su dependencia, o se discutan cuestiones relacionadas con el ámbito de su competencia.
 
 ###### ARTÍCULO 86.
 
@@ -1351,9 +1355,9 @@ VII. Promulgar y ordenar la publicación en el Periódico Oficial del Gobierno d
 
 VIII. Tomar la protesta de Ley a las personas Regidoras y a la persona Síndica del Ayuntamiento.
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-IX. Proponer al Ayuntamiento, los nombramientos de las personas titulares de la Secretaría General del Ayuntamiento, Tesorería Municipal, Contraloría Municipal, Dirección de Seguridad Pública y Tránsito Municipal y las Direcciones de Ingresos y Egresos de la Tesorería Municipal.
+IX. Proponer al Ayuntamiento, el nombramiento y remoción de las personas titulares de la Secretaría General del Ayuntamiento, Tesorería Municipal, Órgano Interno de Control, Dirección de Seguridad Pública y Tránsito Municipal y las Direcciones de Ingresos y Egresos de la Tesorería Municipal.
 
 > <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
@@ -1493,13 +1497,17 @@ V. Rendir los informes relacionados a su Comisión cada que lo solicite el Ayunt
 
 VI. Vigilar los ramos de la administración que le encomiende el Ayuntamiento, los programas respectivos y proponer en su caso al Ayuntamiento, las medidas que estimen procedentes para mejorar el funcionamiento de la Administración Pública Municipal;
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-VII. Presentar al Ayuntamiento, Iniciativas de Reglamentos, Bando de Policía y Gobierno y demás disposiciones administrativas de observancia general o, en su caso, de reformas y adiciones a los mismos. Presentar propuestas para los cargos de personas titulares de la Secretaría General, Tesorería, Contraloría Municipal, Dirección de Seguridad Pública Municipal y las Direcciones de Ingresos y Egresos de la Tesorería Municipal, cuando el Ayuntamiento haya rechazado una o más de las propuestas presentadas por la Presidencia Municipal.
+VII. Presentar al Ayuntamiento, Iniciativas de Reglamentos, Bando de Policía y Gobierno y demás disposiciones administrativas de observancia general o, en su caso, de reformas y adiciones a los mismos. Presentar propuestas para los cargos de personas titulares de la Secretaría General, Tesorería, Contraloría Municipal, Dirección de Seguridad Pública y Tránsito Municipal y las Direcciones de Ingresos y Egresos de la Tesorería Municipal, cuando el Ayuntamiento haya rechazado una o más de las propuestas presentadas por la Presidencia Municipal.
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-VIII. Solicitar a la persona titular de la Sindicatura, informes relativos a su gestión, referente a la Hacienda, Presupuesto y Patrimonio Municipales; y
+Presentar propuestas para los cargos de personas titulares de la Secretaría General, Tesorería, Órgano Interno de Control, Dirección de Seguridad Pública y Tránsito Municipal y Direcciones de Ingresos y Egresos de la Tesorería Municipal, cuando el Ayuntamiento haya rechazado una o más de las propuestas presentadas por la persona titular de la Presidencia Municipal.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+VIII. Solicitar a la persona titular de la sindicatura, informes relativos a su gestión, referente a la Hacienda, Presupuesto y Patrimonio Municipales, y
 
 IX. Las demás que les atribuyan la presente Ley, los reglamentos y acuerdos del Ayuntamiento.
 
@@ -1809,7 +1817,9 @@ I. Secretaría General del Ayuntamiento;
 
 II. Tesorería municipal;
 
-III. Contraloría municipal;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+III. Órgano Interno de Control.
 
 IV. Seguridad Pública y Tránsito; y
 
@@ -1823,11 +1833,11 @@ De la Secretaría General del Ayuntamiento.
 
 Cada Ayuntamiento contará con una Secretaría General, encargada del despacho de los asuntos de carácter político-administrativo del propio Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 118.
 
-La persona titular de la Secretaría General será designada por la mayoría de las personas integrantes del Ayuntamiento.
+La persona titular de la Secretaría General será designada por la mayoría de las personas integrantes del Ayuntamiento, a propuesta de la persona titular de la Presidencia Municipal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2023)</small>
 
@@ -1933,11 +1943,13 @@ Para el desempeño de sus funciones y el desahogo de los asuntos legales, la Sec
 
 ### Capítulo III. De la Tesorería Municipal
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 122.
 
-La Tesorería Municipal estará a cargo de una persona distinta de las personas integrantes del Ayuntamiento, denominada persona Tesorera Municipal, que será nombrada o removida por la mayoría de las personas integrantes del Ayuntamiento.
+La Tesorería Municipal estará a cargo de una persona distinta de las personas integrantes del Ayuntamiento, denominada persona Tesorera Municipal, que será nombrada o removida por la mayoría de las personas integrantes del Ayuntamiento, a propuesta de la persona titular de la Presidencia Municipal.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
 
 La persona titular de la tesorería será responsable del manejo de los valores a su cuidado y deberá otorgar caución igual que todas las personas servidoras públicas y empleadas que manejen fondos o valores de propiedad municipal.
 
@@ -2051,81 +2063,83 @@ XIX. Las demás que le confieran las leyes y reglamentos y los específicos que 
 
 La persona titular de la Tesorería será responsable civil y penalmente de los cobros que se hicieren por contribuciones adelantadas que excedan del período constitucional que debe durar el Ayuntamiento que lo nombró, cuando carezca de la autorización de la Legislatura del Estado.
 
-### Capítulo IV. De la Contraloría Municipal
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+### Capítulo IV. Del Órgano Interno de Control
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 127.
 
-Los Ayuntamientos por el acuerdo de la mayoría de sus integrantes deberán designar a quien ejerza la titularidad de la Contraloría Municipal.
+Los Ayuntamientos por el acuerdo de la mayoría de sus integrantes deberán designar a propuesta de la persona titular de la presidencia municipal a quien ejerza la titularidad del Órgano Interno de Control.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 128.
 
-Para ser la persona titular de la Contraloría Municipal se deben satisfacer los mismos requisitos señalados para la persona titular de la Tesorería Municipal, con excepción de lo establecido en la fracción VII del Artículo 123 de la presente Ley.
+Para ser Titular del Órgano Interno de Control se deben satisfacer los mismos requisitos señalados para el Titular de la Tesorería Municipal, con excepción de lo establecido en la fracción VII del Artículo 123 de la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 129.
 
-La Contraloría Municipal en el ámbito de su competencia, tendrá las siguientes facultades y obligaciones:
+El órgano Interno de Control, a través de su titular, tendrá las siguientes atribuciones:
 
-I. Establecer y operar un sistema de control y evaluación del gasto público en relación al presupuesto de egresos, las políticas y los programas municipales;
+I. Las que contempla la Ley General de Responsabilidades Administrativas;
 
-II. Vigilar el ejercicio del gasto público y su congruencia con el presupuesto de egresos, así como el correcto uso del patrimonio municipal;
+II. Prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Municipio y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado;
 
-III. Fijar las normas de control, fiscalización, contabilidad y auditoría que deben observar las dependencias municipales;
+III. Resolver sobre la responsabilidad de los servidores públicos del Municipio e imponer en su caso las sanciones administrativas que correspondan;
 
-IV. Formular al Ayuntamiento propuestas para que, en el estatuto o reglamento respectivo, se expidan, reformen o adicionen las normas reguladoras del funcionamiento, instrumentos y procedimientos de control de la Administración Pública Municipal;
+IV. Presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción o ante la Fiscalía General del Estado, según corresponda;
 
-V. Comprobar el cumplimiento de las obligaciones derivadas de las disposiciones que en materia de planeación, presupuesto, ingresos, financiamiento, inversión, deuda, patrimonio y valores tenga el Ayuntamiento;
+V. Verificar que el ejercicio del gasto del Municipio se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+VI. Presentar al Ayuntamiento los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Municipio;
 
-VI. Practicar auditorías a la Presidencia Municipal, dependencias del Ayuntamiento o Entidades Paramunicipales, a efecto de verificar el cumplimiento de los objetivos contenidos en los programas respectivos y la honestidad en el desempeño de sus cargos de las personas titulares de las dependencias y entidades municipales y de las personas servidoras públicas.
+VII. Revisar que las operaciones presupuestales que realice el Municipio, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que le dieron origen;
 
-VII. Proporcionar información a las autoridades competentes, sobre el destino y uso de los ingresos del Municipio, así como de los provenientes de participaciones, aportaciones y demás recursos asignados al Ayuntamiento;
+VIII. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorias;
 
-VIII. Atender las quejas, denuncias y sugerencias de la ciudadanía, relativas al ámbito de su competencia;
+IX. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Municipio;
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+X. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que éste determine;
 
-IX. Solicitar al Ayuntamiento que contrate la auditoría externa.
+XI. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Municipio, empleando la metodología que determine;
 
-X. Informar en un periodo no mayor de seis meses, al Ayuntamiento de las actividades de la Contraloría;
+XII. Recibir, tramitar, investigar y resolver, en su caso, las quejas, sugerencias y denuncias en contra de los servidores públicos del Municipio, conforme a las leyes aplicables;
 
-XI. Vigilar el registro e inventario de los bienes muebles e inmuebles del Municipio;
+XIII. Solicitar la información y efectuar visitas a las áreas y comisiones del Municipio para el cumplimiento de sus funciones;
 
-XII. Vigilar que las adquisiciones, enajenaciones y arrendamientos de los bienes muebles e inmuebles que realice el Ayuntamiento y la prestación de Servicios Públicos Municipales, sean favorables a su economía, procurándose que la cantidad y calidad de los bienes adquiridos correspondan a sus necesidades reales y que a la vez, se supediten a lo establecido por esta ley;
+XIV. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicios y obras públicas;
 
-XIII. Organizar y coordinar el proceso de la entrega-recepción de las dependencias y entidades de la Administración Pública Municipal;
+XV. Intervenir en los actos de entrega-recepción de los servidores públicos del municipio de mandos medios y superiores, en los términos de la normatividad aplicable;
 
-XIV. Verificar los estados financieros de la Tesorería Municipal, así como la remisión de la cuenta pública municipal al Órgano Superior de Fiscalización del Estado;
+XVI. Atender las solicitudes de los diferentes órganos del Municipio en los asuntos de su competencia;
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+XVII. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos al Municipio;
 
-XV. Vigilar el comportamiento de la situación patrimonial de las personas servidoras públicas municipales, en los términos de la legislación vigente en materia de responsabilidades administrativas, así como la normatividad que de ésta derive.
+XVIII. Formular su anteproyecto de presupuesto al Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+XIX. Presentar al Ayuntamiento, en la primera semana hábil del ejercicio fiscal siguiente que corresponda, un informe anual de resultados de su gestión, y comparecer ante el mismo, cuando así lo requiera el Ayuntamiento;
 
-XVI. Vigilar que las personas servidoras públicas municipales, que de acuerdo con la legislación vigente en materia de responsabilidades administrativas, así como la normatividad que de ésta derive, se encuentren obligadas, hagan su declaración patrimonial de forma anual, así como las declaraciones iniciales y de conclusión, en su caso.
+XX. Presentar al Ayuntamiento, en la primera semana hábil del ejercicio fiscal siguiente que corresponda, un informe anual respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas;
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+XXI. Inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos del Municipio, de conformidad con las leyes aplicables, y
 
-XVII. Fincar responsabilidades e imponer sanciones a aquéllas personas servidoras públicas que incumplan con las disposiciones establecidas en la legislación vigente en materia de responsabilidades administrativas, así como la normatividad que de ésta derive.
+XXII. Las demás que le confiera ésta u otras leyes, reglamentos, bandos municipales y acuerdos del Ayuntamiento.
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
-
-XVIII. Imponer sanciones a las personas servidoras públicas que incumplan las instrucciones, requerimientos y resoluciones que determine la Contraloría Municipal; y
-
-XIX. Las demás que le confiera ésta u otras leyes, reglamentos, bandos municipales y acuerdos de Ayuntamiento.
-
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 130.
 
-La persona titular de la Contraloría Municipal está impedida para intervenir en cualquier asunto en el que estén involucrados, de manera directa e indirecta, sus intereses, los de su cónyuge, concubinario o parientes consanguíneos en línea recta sin limitación de grados, colaterales hasta el cuarto grado.
+Cualquier persona integrante del Órgano Interno de Control está impedida para intervenir en cualquier asunto en el que estén involucradas, de manera directa e indirecta, sus intereses, los de su cónyuge, concubinario o parientes consanguíneos en línea recta sin limitación de grados, colaterales hasta el cuarto grado.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 130 BIS.- La persona titular del Órgano Interno de Control será sujeta de responsabilidad en términos de la Ley General de Responsabilidades Administrativas.
+
+Tratándose de las demás personas servidoras públicas adscritas al Órgano Interno de Control serán sancionadas por la persona Titular del Órgano Interno de Control, en términos de la Ley General de Responsabilidades Administrativas.
 
 ### Capítulo V. De la Dirección de Seguridad Pública y Tránsito Municipal
 
@@ -2149,11 +2163,11 @@ La Policía Preventiva Municipal estará al mando de la persona titular de la Pr
 
 El Ejecutivo Federal tendrá el mando de la Fuerza Pública en los Municipios donde resida habitual o transitoriamente.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 134.
 
-Al frente de la Policía Preventiva Municipal estará una persona servidora pública designada por el acuerdo de la mayoría de las personas integrantes del Ayuntamiento, con las funciones que señale el reglamento respectivo, y ésta podrá ser removida cuando medie causa justificada.
+Al frente de la Dirección de Seguridad Pública y Tránsito Municipal estará una persona servidora pública designada por el acuerdo de la mayoría de las personas integrantes del Ayuntamiento, a propuesta de la persona titular de la Presidencia Municipal, con las funciones que señale el reglamento respectivo, y ésta podrá ser removida cuando medie causa justificada.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
 
@@ -2587,9 +2601,11 @@ III. Mediante el régimen de concesión; y
 
 IV. Mediante convenios de coordinación y asociación que suscriba con el Poder Ejecutivo del Estado o con otros Ayuntamientos.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 173.
 
-La prestación de los Servicios Públicos Municipales, será supervisada por las comisiones correspondientes del Ayuntamiento y auditada por la Contraloría Municipal.
+La prestación de los Servicios Públicos Municipales, será supervisada por las comisiones correspondientes del Ayuntamiento y auditada y vigilada por el Órgano Interno de Control.
 
 ### Capítulo II. De la Municipalización
 
@@ -4020,3 +4036,33 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en e
 TERCERO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, los Ayuntamientos del Estado, deberán realizar las adecuaciones que correspondan a su normatividad aplicable, a efecto de dar cumplimiento a su contenido.
 
 CUARTO. Las disposiciones establecidas en el presente Decreto deberán aplicarse de manera progresiva, sin afectar los derechos laborales adquiridos por las personas servidoras públicas que se encuentren en funciones, al momento de la entrada en vigor del presente Decreto, es decir, surtirán sus efectos, para las nuevas incorporaciones de personal que se realicen a la estructura orgánica del Ayuntamiento.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “NÚMERO: 138 POR EL QUE REFORMAN LA FRACCIÓN IX DEL ARTÍCULO 72 DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 40 DE LA LEY DE PROTECCION CIVIL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. Dentro de los 90 días naturales siguientes a la publicación del presente Decreto, los Ayuntamientos del Estado, deberán realizar las adecuaciones que correspondan a la reglamentación aplicable, a efecto de posibilitar el cumplimiento de las disposiciones a las que se refiere el presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 143 POR EL QUE SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 90, LA FRACCIÓN VII DEL ARTÍCULO 93, ASÍ COMO LOS ARTÍCULOS 118, 122 SEGUNDO PÁRRAFO, 127 Y 134, TODOS DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a lo establecido por el presente Decreto.
+
+TERCERO. Los Ayuntamientos, en el ámbito de sus atribuciones constitucionales y legales, deberán realizar las adecuaciones que correspondan a su normatividad aplicable, a efecto de posibilitar el cumplimiento de las disposiciones a las que se refiere el presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 186 POR EL QUE SE REFORMAN: EL SEGUNDO PÁRRAFO DEL ARTÍCULO 30, EL PRIMER PÁRRAFO DE LA FRACCIÓN I DEL ARTÍCULO 54, EL ARTÍCULO 56, EL INCISO H) DE LA FRACCIÓN I DEL ARTÍCULO 66, LA FRACCIÓN IX DEL ARTÍCULO 90, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN VII Y LA FRACCIÓN VIII DEL ARTÍCULO 93, LA FRACCIÓN III DEL ARTÍCULO 116, LA DENOMINACIÓN DEL CAPÍTULO IV DEL TÍTULO NOVENO, EL ARTÍCULO 127, EL ARTÍCULO 128, EL ARTÍCULO 129, EL ARTÍCULO 130 Y EL ARTÍCULO 173; SE ADICIONA: EL ARTÍCULO 130 BIS, TODOS DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. En un plazo no mayor a sesenta días naturales siguientes a la entrada en vigor del presente Decreto, los Ayuntamientos realizarán las adecuaciones o adiciones reglamentarias que correspondan, a efecto de dar cumplimiento a lo establecido en el presente Decreto.
