@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-lazaro-cardenas-del-estado-111
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2023-12-08"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 15 de diciembre de 2015.
 
@@ -69,11 +69,11 @@ Los ingresos municipales deberán determinarse, liquidarse y recaudarse; y la fa
 
 La recaudación y administración de los impuestos, derechos, productos y aprovechamientos a que se refiere esta ley, es competencia de la Tesorería Municipal de Lázaro Cárdenas, sus Dependencias, Direcciones, Unidades Administrativas y Auxiliares, en los términos previstos por sus respectivos Reglamentos Interiores.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 5.
 
-Para efecto de mejor comprensión, cuando en esta Ley se mencione U.M.A., se entenderá como Unidad de Medida y Actualización.
+Todas las contribuciones que se encuentren calculadas o referenciadas con el Salario Mínimo General S.M.G. en la presente ley, serán calculadas en términos del valor diario de la Unidad de Medida de Actualización U.M.A.
 
 ## TÍTULO SEGUNDO. DE LOS IMPUESTOS
 
@@ -1787,53 +1787,33 @@ Los derechos que establece este capítulo se causarán por la ejecución del ser
 
 Están obligados a pagar los derechos de saneamiento ambiental el o los usuarios que visiten o permanezcan temporalmente en el Municipio, hospedándose en cuartos y/o habitaciones de hoteles, posadas o casas de huéspedes, hostales y moteles, así como cualquier centro o establecimiento de hospedaje contratado a través de plataformas digitales o similares, mismo derecho que será retenido por los prestadores de servicios del ramo.
 
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2019)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-Tratándose de los visitantes que no se hospeden en algún establecimiento de los referidos en el párrafo anterior, el pago lo deberán realizar a través de la operadora marítima de transporte de pasajeros con ruta dentro del ámbito territorial del municipio.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+Artículo 132 QUATER. El derecho de saneamiento ambiental se causará en razón del 30% del valor diario de la Unidad de Medida y Actualización y estarán obligados a pagarlo:
+
+I. Los visitantes por noche de hospedaje, al momento en el que el pago de la ocupación se efectúe, ya sea por adelantado, o al momento del registro (check in), o de la salida (check out), si el pago es después de prestado el servicio.
+
+II. Los visitantes de la zona insular que no se hospeden en alguno de los establecimientos referidos en el artículo 132 TER, quienes deberán cubrirlo a través de la operadora marítima de transporte de pasajeros con ruta dentro del ámbito territorial del municipio; o si su arribo es por vía embarcación privada, embarcación menor o turística, el pago se cubrirá al momento de adquirir sus boletos en los módulos o medios que disponga la Tesorería Municipal mediante reglas de carácter general.
+
+En términos del párrafo anterior, la operadora marítima de transporte de pasajeros deberá retener, enterar y declarar las cantidades recibidas de conformidad con el artículo 132 QUINQUIES de esta Ley.
+
+En el caso de los visitantes a la parte insular que hayan causado el derecho de saneamiento ambiental de conformidad con el párrafo primero de esta fracción y decidan hospedarse, tendrán por cubierto el pago de este derecho a la primera noche de ocupación y las siguientes noches deberán de ser cubiertas conforme lo señalado en la fracción I de este artículo.
 
 Quedan exentos del pago de este derecho:
 
-a) Las personas que presenten alguna discapacidad.
+a) Las personas que presenten alguna discapacidad;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+b) Quienes acrediten ser residentes de Lázaro Cárdenas, y
 
-b) Quienes acrediten ser residentes de Lázaro Cárdenas;
+e) Quienes, sin ser residentes, desarrollen un trabajo personal subordinado, regido por la legislación laboral, durante el período de tiempo en el cual desempeñen el trabajo que motiva su visita o estancia en el Municipio.
 
-c) (DEROGADO, P.O. 17 DE DICIEMBRE DE 2022)
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
-
-d) Quienes, sin ser residentes, desarrollen un trabajo personal subordinado, regido por la legislación laboral, durante el periodo de tiempo en el cual desempeñen el trabajo que motiva su visita o estancia en el Municipio.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2021)</small>
-
-###### Artículo 132 Quáter.
-
-El pago del derecho de saneamiento ambiental se causará en razón del 30% de la U.M.A. por cuarto y/o habitación, por noche de ocupación, por persona, al momento en el que el pago de la ocupación de la habitación se efectúe por adelantado, o al momento del registro (check in), o al momento de la salida (check out) si el pago es después de prestado el servicio de acuerdo con los siguientes montos:
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2021)</small>
-
-El cobro del derecho que se aplique a aquellos huéspedes adicionales que se alojan en los sitios ya mencionados en este artículo se hará a razón de 15% UMA por un segundo huésped por noche, y así consecutivamente de manera proporcional el mismo monto hasta por tres personas, como se especifica en la siguiente tabla:
-
-1 huésped por habitación por noche: 30 % de la UMA
-
-2 huéspedes por habitación por noche: 45 % de la UMA
-
-3 huéspedes por habitación por noche: 60 % de la UMA
-
-4 huéspedes o más por habitación por noche: 75 % de la UMA
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
-
-Tratándose de los visitantes, que no se hospeden en algún establecimiento de los referidos en el párrafo anterior, el pago será igualmente de 30% de la U.M.A. y lo deberán realizar a través de la operadora marítima de transporte de pasajeros con ruta dentro del ámbito territorial del municipio, de los prestadores de servicios turísticos (lanchas) o en su caso a través del módulo que asigne la tesorería municipal para recibir el derecho.
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
-
-###### Artículo 132 Quinquies.
-
-Los retenedores deberán de proporcionar mensualmente, mediante formas aprobadas por la Tesorería Municipal a través de los medios electrónicos dispuestos por ésta, la información e importe total de las retenciones por este concepto, de las operaciones practicadas con personas físicas y morales, a más tardar el día diecisiete del mes inmediato posterior al que corresponda dicha información, acompañado del entero del derecho correspondiente.
+Artículo 132 QUINQUIES. Los retenedores deberán de enterar y declarar mensualmente, mediante formas aprobadas por la Tesorería Municipal a través de los módulos, ventanillas o medios electrónicos dispuestos por ésta, la información que se refiere a los visitantes por noche ocupada y cruce marítimo con registro de boletos vendidos por la prestación de ese servicio, así como de las operaciones practicadas con personas físicas y morales, a más tardar el día diecisiete del mes inmediato posterior al que se efectuó la retención, acompañado del entero del derecho correspondiente.
 
 ###### Artículo 132 Sexies.
 
@@ -2214,3 +2194,15 @@ P.O. 8 DE DICIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 142 POR EL QUE SE REFORMAN LOS ARTÍCULOS 5,132 QUATER Y 132 QUINQUIES Y SE DEROGAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 132 TER, TODOS DE LA LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS, DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Comité Técnico del Fideicomiso dentro del plazo de sesenta días naturales contados a partir de la vigencia del presente decreto, deberá expedir el Reglamento Interno que regule la organización, administración y funcionamiento del Fideicomiso, lo anterior a efecto de contar con un marco jurídico adecuado que brinde la certeza sobre el ejercicio eficiente y transparente de los recursos públicos municipales que se generen por la recaudación del pago del Derecho de Saneamiento Ambiental.
+
+TERCERO. Para el caso de las contribuciones establecidas en la presente Ley, la autoridad municipal contemplará un esquema de subsidios en las tarifas que representen montos superiores. En este caso, la autoridad municipal deberá considerar la condición económica del contribuyente para dictar procedente los subsidios que estime pertinentes.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
