@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2023-05-31"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -1881,19 +1881,31 @@ No son aplicables las disposiciones de esta sección a los contratos aleatorios 
 
 #### SECCION PRIMERA. De las nulidades
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 382.
 
-Ningún acto del hombre produce efecto legal alguno como negocio jurídico, si falta cualquiera de los requisitos esenciales enumerados en el artículo 135.
+Ningún acto de las personas produce efecto legal alguno como negocio jurídico, si falta cualquiera de los requisitos esenciales enumerados en el artículo 135.
 
 ###### Artículo 383.
 
 La manifestación de la voluntad no existe si quien la emite es:
 
-a) Un niño menor de siete años de edad;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-b) Una persona privada de inteligencia por locura, idiotez o imbecilidad, aunque tenga intervalos lúcidos, salvo en este último caso, disposición de la ley;
+a) Una niña o niño menor de siete años de edad;
 
-c) Un sordomudo que no sepa leer ni escribir, ni darse a entender mediante intérprete por el lenguaje escrito o mímico en que se imparte instrucción escolar a los de su clase;
+(NOTA: EL 24 DE JUNIO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2024, DECLARÓ LA INVALIDEZ DEL INCISO b) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE JUNIO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+b) UNA PERSONA QUE POR CAUSA DE ENFERMEDAD REVERSIBLE O IRREVERSIBLE, O QUE, POR SU ESTADO PARTICULAR DE DISCAPACIDAD, YA SEA DE CARÁCTER FÍSICO, SENSORIAL, INTELECTUAL, EMOCIONAL, MENTAL O VARIAS DE ELLAS A LA VEZ, NO PUEDAN GOBERNARSE, OBLIGARSE O MANIFESTAR SU VOLUNTAD, POR SÍ MISMAS O POR ALGÚN MEDIO QUE LA SUPLA.
+
+(NOTA: EL 24 DE JUNIO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2024, DECLARÓ LA INVALIDEZ DEL INCISO c) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE JUNIO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+c) LAS PERSONAS QUE, POR IMPEDIMENTOS FÍSICOS, NO LES PERMITAN COMUNICARSE EN FORMA ALGUNA, YA SEA VERBAL, ESCRITA, O MEDIANTE LENGUAJE MÍMICO.
 
 d) Las personas que no sepan leer ni escribir, ni conozcan el idioma en que pudiera aparecer (sic) haber contratado.
 
@@ -3235,11 +3247,13 @@ El Oficial Central del Registro Civil supervisará las actuaciones de los Oficia
 
 Toda persona puede solicitar copia certificada de las actas del Registro Civil y los Oficiales están obligados a expedirlas junto con la copia certificada de los documentos relativos del apéndice.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 635.
 
-Las actas del Registro Civil extendidas conforme a las disposiciones que preceden hacen prueba plena en todo lo que el Oficial, Delegado o Subdelegado del Registro Civil, en el desempeño de sus funciones, da testimonio de haber pasado en su presencia, sin perjuicio de que el acta pueda ser redargüida de falsa.
+Las actas del Registro Civil extendidas conforme a las disposiciones que preceden hacen prueba plena en todo lo que la persona oficial, delegada y subdelegada del Registro Civil, en el desempeño de sus funciones, da testimonio de haber pasado en su presencia, sin perjuicio de que el acta pueda ser redargüida de falsa.
+
+La vigencia de las actas y las copias certificadas de las mismas que expida el Registro Civil, y se encuentran en buen estado y legibles, no estarán sujetas a plazo de caducidad alguno, y los datos asentados en ellas se presumirán actualizados, salvo prueba en contrario.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
 
@@ -3695,9 +3709,11 @@ Al escrito a que se refiere el artículo anterior se acompañará:
 
 I. El acta de nacimiento, identificación oficial o pasaporte de cada una de las personas contrayentes, así como la cédula única de registro poblacional;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+(NOTA: EL 24 DE JUNIO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2024, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE JUNIO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-II. Un certificado médico por cada persona contrayente, en el que asegure que no padece enfermedad crónica o incurable que además sea contagiosa y/o hereditaria.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+II. Un certificado médico por cada persona contrayente, en el que asegure que no padece enfermedad o padecimiento crónico o incurable, que además sea contagioso y/o hereditario. DE ENCONTRARSE ENFERMA UNA O AMBAS PERSONAS CONTRAYENTES, EL CERTIFICADO MÉDICO DEBERÁ CONTENER LOS ALCANCES Y EFECTOS DE LAS MISMAS, ASÍ COMO SI EXISTE ALGÚN RIESGO Y LAS MEDIDAS PARA LA PREVENCIÓN DE LA ENFERMEDAD O PADECIMIENTO, DE TAL MANERA QUE, LAS PERSONAS ESTÉN DEBIDAMENTE INFORMADAS DE SU DECISIÓN, EN LOS TÉRMINOS QUE CORRESPONDA.
 
 Para las personas en situación de calle tienen obligación de expedir gratuitamente este certificado las personas médicas encargadas de los servicios de sanidad de carácter oficial, y
 
@@ -3789,13 +3805,19 @@ Para contraer matrimonio es necesario que ambas personas contrayentes sean mayor
 
 Son impedimentos para celebrar el contrato de matrimonio:
 
-I.- El parentesco de consanguinidad sin limitación de grado en la línea recta. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+I.- El parentesco de consanguinidad sin limitación de grado en la línea recta. En la línea colateral igual, el impedimento se extiende a las personas hermanas y medias hermanas. En la colateral desigual, el impedimento se extiende solamente a las personas tías y sobrinas, siempre que estén en el tercer grado y no hayan obtenido dispensa;
 
 II.- El parentesco de afinidad en línea recta, sin limitación alguna;
 
-III.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-IV.- El miedo grave. En caso de rapto, subsistirá el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro donde libremente pueda manifestar su voluntad;
+III.- El atentado contra la vida de alguna de las personas casadas, para contraer matrimonio con quien quede libre;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+IV.- El miedo grave. En caso de violencia en razón de género, subsistirá el impedimento entre la víctima y la persona generadora de violencia.
 
 V.- La embriaguez habitual;
 
@@ -3805,11 +3827,25 @@ VII.- La impotencia por causa física para entrar en el estado matrimonial siemp
 
 VIII.- Cualquiera otra enfermedad crónica o incurable que sea además contagiosa y/o hereditaria;
 
-IX.- La locura, el idiotismo y la imbecilidad, y
+(NOTA: EL 24 DE JUNIO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2024, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE JUNIO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+IX.- LA ENFERMEDAD REVERSIBLE O IRREVERSIBLE, O QUE, POR SU ESTADO PARTICULAR DE DISCAPACIDAD, YA SEA DE CARÁCTER FÍSICO, SENSORIAL, INTELECTUAL, EMOCIONAL, MENTAL O VARIAS DE ELLAS A LA VEZ, IMPIDAN QUE ALGUNA PERSONA CONTRAYENTE, PUEDA GOBERNARSE, OBLIGARSE O MANIFESTAR SU VOLUNTAD, POR SÍ MISMA O POR ALGÚN MEDIO QUE LA SUPLA, Y
 
 X.- El matrimonio subsistente con persona distinta de aquélla con quien se pretenda contraer, o subsistente con ésta.
 
-En el caso a que se refiere la fracción II del Artículo 682 en relación a la fracción VIII de este artículo, el certificado médico será dispensable cuando ambos contrayentes acrediten por escrito, su consentimiento, estando informados de la enfermedad de que se trate, y signado por ambos para contraer matrimonio.
+(NOTA: EL 24 DE JUNIO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2024, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PENÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE JUNIO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+EN EL CASO A QUE SE REFIERE LA FRACCIÓN II DEL ARTÍCULO 682 EN RELACIÓN A LAS FRACCIONES VII Y VIII DE ÉSTE ARTÍCULO, EL CERTIFICADO MÉDICO SERÁ DISPENSABLE, O TALES CUESTIONES DEJARÁN DE SER IMPEDIMENTO, CUANDO CONSTE LA MANIFESTACIÓN EXPRESA FRENTE A LA PERSONA JUZGADORA, POR CUALQUIER MEDIO, DE QUE AMBAS PERSONAS CONTRAYENTES, TIENEN CONOCIMIENTO DE LAS CIRCUNSTANCIAS ENUNCIADAS, ASÍ COMO DE SUS CONSECUENCIAS, Y QUE CONSIENTEN DE ESTAS, ESTANDO INFORMADAS PARA CONTRAER MATRIMONIO BAJO LAS MISMAS.
+
+(NOTA: EL 24 DE JUNIO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2024, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE JUNIO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+DE IGUAL FORMA, PARA EL CASO DE LAS FRACCIONES V Y VI, TALES CIRCUNSTANCIAS PODRÁN SER TAMBIÉN DISPENSABLES, O DEJARÁN DE SER IMPEDIMENTO, CUANDO CONSTE LA MANIFESTACIÓN EXPRESA FRENTE A LA PERSONA JUZGADORA, POR CUALQUIER MEDIO, DE QUE AMBAS PERSONAS CONTRAYENTES, TIENEN CONOCIMIENTO DE LAS CIRCUNSTANCIAS ENUNCIADAS, ASÍ COMO DE SUS CONSECUENCIAS, Y QUE CONSIENTEN DE ESTAS, ESTANDO INFORMADAS PARA CONTRAER MATRIMONIO BAJO LAS MISMAS.
 
 ###### Artículo 701.
 
@@ -4487,55 +4523,41 @@ El cónyuge que haya recibido violencia familiar y/o violencia vicaria, podrá a
 
 Artículo 813 BIS.- (DEROGADO, P.O. 4 DE JULIO DE 2017)
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 814.
 
 Al admitirse la demanda de divorcio, se dictarán, sin necesidad de audiencia previa o vista a las partes, las medidas provisionales pertinentes, mismas que subsistirán sólo mientras dure el juicio, conforme a las disposiciones siguientes:
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+I.- Separar a las personas cónyuges en todo caso. Para este efecto, la persona juzgadora tendrá en cuenta el interés familiar, la posible existencia de violencia familiar y/o violencia vicaria y lo que más convenga a los hijos o hijas, cuál de las personas cónyuges continuará en el uso de la vivienda familiar y asimismo, previo inventario, de los bienes y enseres que continúen en ésta y ordenará se le entregue su ropa y los bienes que sean necesarios para el ejercicio de la profesión, arte u oficio a que está dedicada. Deberá la persona cónyuge informar a la persona juzgadora el lugar de su residencia. Si sobre esto se suscitare controversia la persona juzgadora decidirá sumariamente oyendo a ambas personas cónyuges;
 
-I. Separar a los cónyuges en todo caso. Para este efecto, la persona juzgadora tendrá en cuenta el interés familiar, la posible existencia de violencia familiar y/o violencia vicaria y lo que más convenga a los hijos o hijas, cuál de los cónyuges continuará en el uso de la vivienda familiar y asimismo, previo inventario, de los bienes y enseres que continúen en ésta y ordenará se le entregue su ropa y los bienes que sean necesarios para el ejercicio de la profesión, arte u oficio a que está dedicado. Deberá el cónyuge informar a la persona juzgadora el lugar de su residencia. Si sobre esto se suscitare controversia la persona juzgadora decidirá sumariamente oyendo a ambos cónyuges;
+II.- Cuando una de las personas cónyuges, alegue ser víctima de cualquier tipo de violencia ejercida por su conyugue, se le autorizará separarse del hogar conyugal, debiendo informar a la persona juzgadora del lugar de su residencia, quien ordenará se le entreguen su ropa y los bienes que sean necesarios para el ejercicio de la profesión, arte u oficio a que esté dedicada;
 
-II. Sólo a solicitud de la mujer se le autorizará a separarse del hogar conyugal. Deberá la mujer informar al Juez el lugar de su residencia y el Juez ordenará se le entreguen su ropa y los bienes que sean necesarios para el ejercicio de la profesión, arte u oficio a que esté dedicada;
+III.- Prevenir a ambas personas cónyuges que no se molesten una a la otra en ninguna forma;
 
-III. Prevenir a ambos cónyuges que no se molesten uno a otro en ninguna forma;
+IV.- Señalar y asegurar los alimentos que debe dar la persona deudora alimentaria a la persona cónyuge acreedora y a las niñas, niños y adolescentes;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+V.- Dictar las medidas que se estimen convenientes para que las personas cónyuges no se causen perjuicios en sus respectivos bienes ni en los de la comunidad conyugal, en su caso, asimismo se decretará la prohibición a las personas cónyuges de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal y en cualquier caso cuando se trate de bienes de la sociedad conyugal. Asimismo, ordenar cuando existan bienes que puedan pertenecer a ambas personas cónyuges, la anotación preventiva de la demanda en el Registro Público de la Propiedad y el Comercio del Estado de Quintana Roo y de aquellos lugares en que se conozca que tienen bienes;
 
-IV. Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a las niñas, niños y adolescentes;
+VI.- Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede embarazada;
 
-V. Dictar las medidas que se estimen convenientes para que los cónyuges no se causen perjuicios en sus respectivos bienes ni en los de la comunidad conyugal, en su caso, asimismo se decretará la prohibición a los cónyuges de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal y en cualquier caso cuando se trate de bienes de la sociedad conyugal. Asimismo, ordenar cuando existan bienes que puedan pertenecer a ambos cónyuges, la anotación preventiva de la demanda en el Registro Público de la Propiedad y el Comercio del Estado de Quintana Roo y de aquellos lugares en que se conozca que tienen bienes;
+VII.- Poner a las niñas, niños y adolescentes, al cuidado de la persona que de común acuerdo designen las personas cónyuges, debiendo ser una de éstas y pudiéndose compartir la custodia, respetando en todo momento las disposiciones de este Código al respecto. A falta de acuerdo, la persona Juzgadora de lo familiar resolverá lo conducente, atendiendo a los elementos de prueba que obren en el sumario y considerando las necesidades de las niñas, niños y adolescentes a la luz del interés superior de la niñez y del principio de igualdad; además de establecer las modalidades del derecho de visita o convivencia con sus personas progenitoras y, en su caso, con sus demás personas parientes, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para las niñas, niños y adolescentes, de conformidad con los artículos 997-bis y 1024 Bis de este Código, el cumplimiento de las obligaciones de crianza, tomando en cuenta la opinión de la niña, niño o adolescente, quien podrá ser asistida por la persona representante en suplencia, adscrita a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Quintana Roo o a las Delegaciones de las Procuradurías de Protección de Niñas, Niños, Adolescentes y la Familia de los Sistemas para el Desarrollo Integral de la Familia Municipales. La persona Juzgadora, en cualquier tiempo y antes que termine ejecutoriadamente el juicio, podrá prudentemente modificar sus determinaciones, estableciendo las modalidades y medidas que estime necesarias en beneficio de las niñas, niños y adolescentes y de los bienes de éstas, sin más limitación que este mismo beneficio, pudiendo confiar la custodia de las niñas, niños y adolescentes a una persona tercera o institución educativa y confiar la administración de los bienes a una institución fiduciaria;
 
-VI. Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede embarazada;
+VIII.- En los casos en que se alegue la violencia familiar y/o violencia vicaria, la persona juzgadora podrá decretar, atendiendo a las evidencias y con el fin de salvaguardar la integridad y seguridad de las personas interesadas, las medidas precautorias siguientes:
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+a) Ordenar la salida de la persona cónyuge demandada de la vivienda donde habita el grupo familiar.
 
-VII. Poner a las niñas, niños y adolescentes, al cuidado de la persona que de común acuerdo designen los cónyuges, debiendo ser uno de éstos y pudiéndose compartir la custodia, respetando en todo momento las disposiciones de este Código al respecto. A falta de acuerdo, la persona Juzgadora de lo familiar resolverá lo conducente, atendiendo a los elementos de prueba que obren en el sumario y considerando las necesidades de las niñas, niños y adolescentes a la luz del interés superior de la niñez y del principio de igualdad; además de establecer las modalidades del derecho de visita o convivencia con sus progenitores y, en su caso, con sus demás parientes, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para las niñas, niños y adolescentes, de conformidad con los artículos 997-bis y 1024 Bis de este Código, el cumplimiento de las obligaciones de crianza, tomando en cuenta la opinión de la niña, niño o adolescente, quien podrá ser asistido por el representante en suplencia, adscrito a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Quintana Roo o a las Delegaciones de las Procuradurías de Protección de Niñas, Niños, Adolescentes y la Familia de los Sistemas para el Desarrollo Integral de la Familia Municipales. La persona Juzgadora, en cualquier tiempo y antes que termine ejecutoriadamente el juicio, podrá prudentemente modificar sus determinaciones, estableciendo las modalidades y medidas que estime necesarias en beneficio de las niñas, niños y adolescentes y de los bienes de éstos, sin más limitación que este mismo beneficio, pudiendo confiar la custodia de las niñas, niños y adolescentes a un tercero o institución educativa y confiar la administración de los bienes a una institución fiduciaria;
+b) Prohibición a la persona cónyuge demandada de ir a lugar determinado, tales como el domicilio o el lugar donde trabajan o estudian las personas agraviadas.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+c) Suspender la custodia y la patria potestad a la persona cónyuge presuntamente agresora y prohibir que ésta se acerque a las personas agraviadas a la distancia que la propia persona Juzgadora considere pertinente, dejando a salvo los derechos de convivencia del resto de sus personas parientes, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para las niñas, niños y adolescentes, salvo en los casos que estas, hubieren participado en los presuntos actos de violencia. Esta suspensión será independiente del cumplimiento de la persona presunta agresora de las obligaciones referidas a la pensión alimenticia;
 
-VIII. En los casos en que se alegue la violencia familiar y/o violencia vicaria, la persona juzgadora podrá decretar, atendiendo a las evidencias y con el fin de salvaguardar la Integridad y seguridad de las personas interesadas, las medidas precautorias siguientes:
+IX. Requerirá a ambas personas cónyuges para que le exhiban, bajo protesta de decir verdad, un inventario de sus bienes y derechos, así como de los que se encuentren bajo el régimen de comunidad conyugal, en su caso, especificando además el título bajo el cual se adquirieron o poseen, el valor que estime que tienen, las capitulaciones matrimoniales y un proyecto de partición, y
 
-a) Ordenar la salida del cónyuge demandado de la vivienda donde habita el grupo familiar.
-
-b) Prohibición al cónyuge demandado de ir a lugar determinado, tales como el domicilio o el lugar donde trabajan o estudian los agraviados.
-
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
-
-c) Suspender la custodia y la patria potestad a la persona cónyuge presuntamente agresora y prohibir que ésta se acerque a las personas agraviadas a la distancia que la propia persona Juzgadora considere pertinente, dejando a salvo los derechos de convivencia del resto de sus parientes, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para las niñas, niños y adolescentes, salvo en los casos que estas, hubieren participado en los presuntos actos de violencia. Esta suspensión será independiente del cumplimiento de la persona presunta agresora de las obligaciones referidas a la pensión alimenticia;
-
-IX. Requerirá a ambos cónyuges para que le exhiban, bajo protesta de decir verdad, un inventario de sus bienes y derechos, así como de los que se encuentren bajo el régimen de comunidad conyugal, en su caso, especificando además el titulo bajo el cual se adquirieron o poseen, el valor que estime que tienen, as (sic) capitulaciones matrimoniales y un proyecto de partición, y
-
-X. Las demás que considere necesarias.
-
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+X.- Las demás que considere necesarias.
 
 Durante el procedimiento, la persona Juzgadora recabará la información complementaria y comprobación de datos que en su caso precise, pudiéndolo hacer incluso de oficio.
 
-En caso de que las personas menores de doce años sean sujetos de violencia familiar, éstos deberán quedar al cuidado de la madre, excepto cuando sea ésta quien la origine. No será obstáculo para la preferencia maternal en la custodia, el hecho de que la madre carezca de recursos económicos.
-
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+En caso de que las personas menores de doce años sean sujetas de violencia familiar, éstas deberán quedar al cuidado de la madre, excepto cuando sea ésta quien la origine. No será obstáculo para la preferencia maternal en la custodia, el hecho de que la madre carezca de recursos económicos.
 
 La persona juzgadora podrá ordenar cualquier otra medida de protección de emergencia, preventiva o de naturaleza civil de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo, la Ley de Asistencia y Prevención de la Violencia Familiar del Estado de Quintana Roo, así como la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Quintana Roo, sin menoscabo de lo establecido en otras disposiciones normativas aplicables, los tratados internacionales vigentes en la materia, privilegiando siempre y en todo momento, el interés superior de la niñez.
 
@@ -4859,9 +4881,13 @@ Determinados por convenio o sentencia, de manera exclusiva los alimentos que hay
 
 Las niñas, niños y adolescentes, las personas con alguna discapacidad que le impida adquirir por sus propios medios algún trabajo, las personas sujetas a estado de interdicción y la persona cónyuge que se dedique al hogar gozan de la presunción de necesitar alimentos. Salvo que se demuestre lo contrario.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-Artículo 849 TER.- Cuando no sean comprobables el salario o los ingresos del deudor alimentario, el juez de lo familiar resolverá en la definitiva con base en su capacidad económica de riqueza o la capacidad para desempeñar algún trabajo y nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en los dos últimos años. En el caso de no contar con los elementos necesarios para fijar objetivamente el monto de la pensión, conforme a los artículos 880, 881 y 882 del Código de Procedimientos Civiles para el Estado, están obligados a recabar oficiosamente los elementos que le permitan establecer los estatus antes citados, y una vez hecho lo anterior, realizar un estimado del ingreso mensual del deudor alimentario, respecto del cual fijará un porcentaje como monto de la pensión alimenticia, al resolver el fondo del asunto.
+###### Artículo 849 Ter.
+
+Cuando no sean comprobables el salario o los ingresos de la persona deudora alimentaria, la persona juzgadora de lo familiar resolverá en la definitiva con base en su capacidad económica de riqueza o la capacidad para desempeñar algún trabajo y nivel de vida que la persona deudora y sus acreedores alimentarios hayan llevado en los cinco últimos años. En el caso de no contar con los elementos necesarios para fijar objetivamente el monto de la pensión, conforme a los artículos 880, 881 y 882 del Código de Procedimientos Civiles para el Estado, están obligados a recabar oficiosamente los elementos que le permitan establecer los estatus antes citados, y una vez hecho lo anterior, realizar un estimado del ingreso mensual de la persona deudora alimentaria, respecto del cual fijará un porcentaje como monto de la pensión alimenticia, al resolver el fondo del asunto.
+
+Cuando no se tengan otros elementos que sirvan para conocer la capacidad económica de la persona deudora alimentaria, la persona juzgadora podrá utilizar como parámetro el salario mínimo vigente en el Estado para la cuantificación de la pensión alimenticia.
 
 > <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
 
@@ -18108,3 +18134,37 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los procedimientos que se encuentren en trámite con anterioridad a la entrada en vigor del presente Decreto, serán concluidos de conformidad con las disposiciones vigentes al momento de su inicio.
 
 TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 180 POR EL QUE SE ADICIONA EL ARTÍCULO 179 TER-1 AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+[N. DE E TRANSITORIOS DEL “DECRETO NÚMERO: 181 POR EL QUE SE REFORMA EL ARTÍCULO 382, LOS INCISOS A), B) Y C) DEL ARTÍCULO 383, LA FRACCIÓN II DEL ARTÍCULO 682, LAS FRACCIONES I, III, IV Y IX, ASÍ COMO EL ACTUAL ÚLTIMO PÁRRAFO DEL ARTÍCULO 700; Y SE ADICIONA: UN ÚLTIMO PÁRRAFO AL ARTÍCULO 700; TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones legales que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. Dentro de los 90 días hábiles posteriores a la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado, en el ámbito de su competencia, deberá llevar a cabo las adecuaciones que resulten necesarias a la normatividad reglamentaria que corresponda, a efecto de posibilitar el cumplimiento de lo establecido en el presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 182 POR EL QUE SE REFORMA EL ARTÍCULO 635 DEL CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 149 POR EL QUE SE REFORMA EL ARTÍCULO 849 TER DEL CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
