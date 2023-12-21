@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-139928"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-18"
-last_updated: "2022-12-23"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 18 de diciembre de 2019.
 
@@ -404,6 +404,14 @@ De la Retención
 ###### Artículo 24.
 
 En el caso de operaciones consignadas en escritura pública, los Notarios Públicos o Fedatarios, bajo su responsabilidad calcularán y retendrán el Impuesto referido y lo enterarán mediante declaración que se presentará dentro de los 10 días siguientes a la fecha en que se firme la escritura, en las formas aprobadas por la Secretaría a través del SATQ. Quedan relevados de la obligación de efectuar el cálculo y entero del impuesto, cuando la enajenación de inmuebles se realice por personas físicas dedicadas a actividades empresariales.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+Para efectos de lo dispuesto en el párrafo anterior, los Notarios Públicos o Fedatarios, previo a dicho cálculo deberán presentar el documento que contenga el avalúo base de su operación ante la autoridad fiscal competente, a efecto de que ésta proceda a su validación. Las autoridades registrales estarán obligadas a verificar que el avalúo validado se adjunte como requisito para su inscripción.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+El cálculo a que se refiere el primer párrafo del presente artículo, se hará con base en los valores referidos en el Avalúo Validado por la autoridad fiscal conforme a las disposiciones legales y normativas en materia de valuación vigente en el Estado; siempre y cuando el importe del mismo, sea igual o mayor al presentado por el Notario.
 
 ###### Artículo 25.
 
@@ -1326,3 +1334,11 @@ PRIMERO. El presente Decreto entrará en vigor a partir del 1° de enero de 2023
 SEGUNDO. Quedan sin efectos todas las demás disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 TERCERO. Dentro de un plazo de 30 días a partir de la entrada en vigor del presente Decreto, la Secretaría deberá emitir las reglas de carácter general para la operación y cumplimiento de las obligaciones fiscales en materia del Impuesto a la Venta Final de Bebidas con Contenido Alcohólico en envase cerrado.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 173 POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO Y UN PÁRRAFO TERCERO AL ARTÍCULO 24 DE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. La vigencia de los párrafos segundo y tercero del artículo 24 de la Ley de Hacienda del Estado de Quintana Roo, que se adicionan en el presente Decreto, entrarán en vigor el día primero del mes de abril del año 2024, previa su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente Decreto.
