@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-la-paz-baja-california-132
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2018-12-31"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCS"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA PARA EL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número 62 del Boletín Oficial del Gobierno del Estado de Baja California Sur, el lunes 31 de Diciembre de 2018.
 
@@ -901,21 +903,31 @@ III. Los certificados de buena conducta o de insolvencia que expida la autoridad
 
 IV. Las solicitadas de oficio por la autoridad de la Federación, del Estado y los Municipios.
 
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2023)</small>
+
+Artículo 87 BIS.- A todos los contribuyentes en comercio establecido que realicen actividades económicas y tengan a la venta el sesenta por ciento o más de sus productos, con el Distintivo "Hecho en BCS", emitido por la Subsecretaría de Economía del Gobierno del Estado de Baja California Sur, se les otorgará un 50% de descuento en las contribuciones por concepto de derechos a los que refiere el presente Título y que le sean aplicables al ejercicio de su actividad comercial. A excepción de los que cuenten con venta de alcohol.
+
 ### CAPÍTULO II. DERECHOS POR EL USO, GOCE, APROVECHAMIENTO O EXPLOTACIÓN DE BIENES DE DOMINIO PÚBLICO
 
 #### SECCIÓN ÚNICA. BIENES DE USO COMÚN Y OCUPACIÓN DE LA VÍA PÚBLICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 88.
 
-Por la expedición o revalidación de permisos para el uso u ocupación de las vías públicas para ejercer el comercio, o la prestación de servicios en los términos del Reglamento en la materia, se pagarán conforme a la siguiente:
+Por la expedición o revalidación de permisos para el uso u ocupación de las vías públicas para ejercer el comercio, o la prestación de servicios e industria; en los términos del Reglamento en la materia. La base del cálculo será el valor diario de la Unidad de Medida de (sic) Actualización y se pagarán conforme a la siguiente:
 
 TARIFA:
 
 I. Estacionamientos exclusivos para automóviles de sitio o taxis por metro lineal, anualmente: 1.5 veces el valor de la Unidad de Medida y Actualización dentro del primer cuadro de la ciudad y 1 vez el valor de la Unidad de Medida y Actualización fuera del primer cuadro de la ciudad.
 
-II. Estacionamientos exclusivos para particulares que vivan junto al estacionamiento solicitado, por metro lineal, anualmente: 4 veces el valor de la Unidad de Medida y Actualización.
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2023)</small>
 
-III. Estacionamientos exclusivos para uso comercial, por metro lineal, anualmente: 8 veces el valor de la Unidad de Medida y Actualización el primer cuadro de la ciudad de La Paz y 4 veces el valor de la Unidad de Medida y Actualización en otros lugares.
+II. Estacionamientos exclusivos para particulares que vivan junto al estacionamiento solicitado, por metro lineal, anualmente: 3 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2023)</small>
+
+III. Estacionamientos exclusivos para uso comercial, por metro lineal, anualmente: SECTORIZACIÓN POR VIALIDAD a) Paseo Álvaro Obregón: 12 UMA; b) En el primer cuadro de la ciudad: 8 UMA; c) Vías primarias: 6 UMA; d) Vías secundarias: 4 UMA; y e) Resto del Municipio: 4 UMA
 
 IV. Estacionamiento o uso de la vía pública para carga y descarga en establecimientos comerciales, diariamente: 2 veces el valor de la Unidad de Medida y Actualización.
 
@@ -923,33 +935,35 @@ V. Vehículos automotores con amplificador de sonido diariamente: 1 vez el valor
 
 VI. Ubicación de aparatos que funcionen con monedas, fichas, tarjetas u otras similares, anualmente: 0.25 del valor de la Unidad de Medida y Actualización.
 
-VII. Instalación de puestos:
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2023)</small>
 
-a) Semifijos por metro cuadrado
+VII. Instalación de puestos, por metro cuadrado, por día: SECTORIZACIÓN POR VIALIDAD a) Paseo Álvaro Obregón: 0.420 UMA; b) En el primer cuadro de la ciudad: 0.250 UMA; c) Vías primarias: 0.085 UMA; d) Vías secundarias: 0.060 UMA; e) Resto del Municipio: 0.040 UMA
 
-Hasta de 4 metros cuadrados 0.26 del valor de la Unidad de Medida y Actualización por día, y de 4.01 metros cuadrados en adelante, 0.75 del valor de la Unidad de Medida y Actualización por día, pudiendo realizar el pago mensual o anual.
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2023)</small>
 
-b) Ambulantes
+VII BIS. Ambulantes 0.05 UMA por día, pudiendo realizar el pago semanal o mensual.
 
-0.25 del valor de la Unidad de Medida y Actualización por día, pudiendo realizar el pago semanal o mensual.
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2023)</small>
 
-VIII. Cualquier otro uso o concesion de la vía pública otorgado por la Autoridad Municipal de carácter temporal, provisional o permanente:
+VII TER. Extensión en la vía pública para comercio establecido, por metro cuadrado, por día. SECTORIZACIÓN POR VIALIDAD a) Paseo Álvaro Obregón: 0.0130 UMA; b) En el primer cuadro de la ciudad: 0.0060 UMA; c) Vías primarias: 0.0050 UMA; d) Vías secundarias: 0.0040 UMA; e) Resto del Municipio: 0.0032 UMA
 
-a) En el primer cuadro de la ciudad, por día y por metro lineal:
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2023)</small>
 
-1 vez el valor de la Unidad de Medida y Actualización.
-
-b) En principales calles y avenidas, por día:
-
-0.25 del valor de la Unidad de Medida y Actualización.
-
-c) Resto de la ciudad de La Paz y delegaciones municipales por día:
-
-0.15 el valor de la Unidad de Medida y Actualización.
+VIII. Cualquier otro uso o concesión de la vía pública otorgado por la Autoridad Municipal de carácter temporal, por metro cuadrado, por los días solicitados: SECTORIZACIÓN POR VIALIDAD a) Paseo Álvaro Obregón: 0.30 UMA; b) En el primer cuadro de la ciudad: 0.11 UMA; c) Vías primarias: 0.08 UMA; d) Vías secundarias: 0.06 UMA; e) Resto del Municipio: 0.04 UMA
 
 IX. Por cada carro casa autopropulsado o de tracción de cualquier tipo que ocupe, y que sea estacionado en lugares no destinados para tal fin, deberá recabar autorización Municipal cubriendo una cuota diaria de 2 veces el valor de la Unidad de Medida y Actualización.
 
 Los pagos anuales se harán por adelantado en los meses de Enero y Febrero. En el caso de estacionamientos exclusivos de taxis, particulares y comerciales, de no continuar con el servicio deberán dar aviso por escrito a la Dirección General de Seguridad Pública, Policía Preventiva y Tránsito Municipal con 15 días de anticipación, de lo contrario se entenderá como negativa de solicitud de otorgamiento del servicio, por parte del contribuyente.
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], B.O. 21 DE DICIEMBRE DE 2023)</small>
+
+Para efectos de cobro en la sectorización establecida en las fracciones III, VII, VII Ter y VIII se estará a las siguientes definiciones:
+
+1. Primer cuadro de la ciudad.- Delimitada al Norte por la avenida José María Morelos y Pavón; al Sur, Calle Ignacio Allende; al Este, la avenida Ignacio Altamirano; al Oeste, Paseo Alvaro Obregóm;
+
+2. Vías Primarias.- Espacio físico cuya función es facilitar el flujo del tránsito vehicular continúo o controlado por semáforo, entre distintas áreas de una zona urbana, con la posibilidad de reserva para carriles exclusivos, y
+
+3. Vías secundarias (Colectoras).- Espacio físico cuya función es recolectar los flujos de las vías terciarias para llevarlos hacia la red vial primaria, pueden tener faja separadora y estacionamiento en vía pública.
 
 #### SECCIÓN I. SERVICIOS CATASTRALES
 
@@ -967,15 +981,21 @@ I. Por cada copia de planos incluida la certificación
 
 4 veces el valor de la Unidad de Medida y Actualización.
 
-II. Avalúos periciales por cada predio incluida la construcción sobre su valor. Sin que pueda ser inferior a dos veces el valor de la Unidad de Medida y Actualización.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2023)</small>
+
+II. Autorización de Avalúo pericial por cada predio incluida la construcción sobre su valor. Sin que pueda ser inferior a dos veces el valor de la Unidad de Medida y Actualización.
 
 0.8 al millar.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2023)</small>
 
 Prórroga por única ocasión por 15 días naturales de vigencia de avalúos.
 
 1.5 veces el valor de la Unidad de Medida y Actualización.
 
-III. Certificados, por cada hoja o fracción
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2023)</small>
+
+III. Copias Certificadas, por cada hoja o fracción
 
 0.3 del valor de la Unidad de Medida y Actualización.
 
@@ -983,11 +1003,17 @@ IV. Otorgamiento de claves catastrales, por cada una
 
 1.5 veces el valor de la Unidad de Medida y Actualización.
 
-V. Por búsqueda de datos para proporcionar información económica.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2023)</small>
+
+V. Por búsqueda de datos para proporcionar información catastral.
 
 1.5 veces el valor de la Unidad de Medida y Actualización.
 
-VI. Por deslindes o levantamientos prediales que se realicen a solicitud de particulares, de acuerdo con el tiempo en los que se ejecuten los trabajos, ubicación superficie y distancia en la que se ubiquen los predios:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2023)</small>
+
+VI. Por deslindes o levantamientos topográficos de predios que se realicen a solicitud de particulares, de acuerdo con el tiempo en los que se ejecuten los trabajos, ubicación superficie y distancia en la que se ubiquen los predios:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2023)</small>
 
 a) En la zona urbana:
 
@@ -1014,6 +1040,8 @@ De 2,001 M2 hasta 5,000 M2.
 De 5,000 M2 hasta 10,000 M2 (una hectárea)
 
 90 a 115.5 veces el valor de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2023)</small>
 
 b) Predios rústicos y accidentados, de más de 4 puntos:
 
@@ -1089,15 +1117,23 @@ De 2 años más un día en adelante.
 
 50 veces el valor de la Unidad de Medida y Actualización.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2023)</small>
+
 XI. Por registro de perito valuador o topógrafo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2023)</small>
 
 a) Registro inicial.
 
 60 veces el valor de la Unidad de Medida y Actualización.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2023)</small>
+
 b) Revalidación de registro anual, en los meses de enero y febrero.
 
 50 veces el valor de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2023)</small>
 
 c) La revalidación extemporánea será sancionada con multa por días naturales de atraso:
 
@@ -1129,6 +1165,8 @@ La Dependencia de Catastro no podrá autorizar servicio catastral alguno que efe
 
 Por registro de deslinde o levantamientos prediales que realicen peritos topógrafos acreditados en la Dirección de Catastro:
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2023)</small>
+
 a) En la Zona Urbana:
 
 Hasta 450 M2.
@@ -1147,23 +1185,57 @@ De 901 M2. Hasta 10,000 M2.
 
 15 a 19.15 veces el valor de la Unidad de Medida y Actualización.
 
-b) Predios rústicos y accidentados de más de 4 puntos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2023)</small>
+
+b) Predios rústicos:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2023)</small>
 
 01 hectárea
 
 19.25 veces el valor de la Unidad de Medida y Actualización.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2023)</small>
+
 Hasta 10 hectáreas
 
 38.5 veces el valor de la Unidad de Medida y Actualización.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE DICIEMBRE DE 2023)</small>
+
 de 11 hasta 50 hectáreas.
 
-57.75 veces el valor de la Unidad de Medida y Actualización.
+57.75 veces el valor de la Unidad de Medida y Actualización
 
-Mayores a 50 hectáreas
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE DICIEMBRE DE 2023)</small>
 
-Se caracteriza la diferencia con 50 hectáreas de acuerdo al grupo del que pertenezca.
+de 50 a 100 hectáreas.
+
+100 veces el valor de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE DICIEMBRE DE 2023)</small>
+
+de 101 a 1000 hectáreas.
+
+200 veces el valor de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE DICIEMBRE DE 2023)</small>
+
+de 1001 a 2000 hectáreas.
+
+250 veces el valor de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE DICIEMBRE DE 2023)</small>
+
+de 2001 a 5000 hectáreas.
+
+500 veces el valor de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE DICIEMBRE DE 2023)</small>
+
+Mayores a 5000 hectáreas.
+
+0.075 UMA/ Ha, Adicional después de las 5000 Has.
 
 XII. Por venta de productos digitales:
 
@@ -1661,9 +1733,17 @@ II. Ganado porcino, por cada uno
 
 2 veces el valor de la Unidad de Medida y Actualización.
 
-III. Ganado caprino y lanar, por cada uno
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2023)</small>
 
-1.5 veces el valor de la Unidad de Medida y Actualización.
+III. Ganado caprino, ovino o lanar, por cada uno
+
+1 veces el valor de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2023)</small>
+
+III BIS. Lechón (porcino) y/o becerro (vacuno), por cada uno
+
+1 veces el valor de la Unidad de Medida y Actualización.
 
 IV. Aves y otros
 
@@ -1687,13 +1767,13 @@ Por la guía de traslado de animales vivos para su sacrificio en el rastro munic
 
 TARIFA:
 
-I. Traslado hasta 10 cabezas
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2023)</small>
+
+I. Traslado por cabeza
 
 0.26 del valor de la Unidad de Medida y Actualización.
 
-II. Más de 10 cabezas
-
-1 vez el valor de la Unidad de Medida y Actualización por traslado.
+II. (DEROGADA, B.O. 21 DE DICIEMBRE DE 2023)
 
 #### SECCIÓN VIII. EXPEDICIÓN DE CERTIFICADOS DE VECINDAD Y DE MORADA CONYUGAL
 
@@ -1752,6 +1832,8 @@ II. De morada conyugal
 1 vez el valor de la Unidad de Medida y Actualización.
 
 #### SECCIÓN X. DE ASEO, LIMPIA, RECOLECCIÓN, TRASLADO, TRATAMIENTO Y DISPOSICIÓN FINAL DE BASURA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 110.
 
@@ -1843,13 +1925,17 @@ Los derechos por los servicios a domicilio deberán cubrirse de acuerdo con la t
 
 ###### Artículo 111.
 
-Es objeto de este derecho el servicio que por recolección de basura presta el Municipio de La Paz a los establecimientos comerciales, industriales, hoteles, restaurantes, hospitales privados, oficinas administrativas o de prestación de servicios. Los sujetos de estos derechos pagarán en base a la frecuencia de recolección que necesiten y al volumen que generen de basura, teniendo la obligación de celebrar convenio con la Tesorería Municipal a través de la Dirección General de Servicios Públicos Municipales. La forma de pago será mensual o anual cuando la empresa así lo requiera, de acuerdo a la siguiente:
+Es objeto de este derecho el servicio que por recolección de basura presta el Municipio de La Paz a los establecimientos comerciales, industriales, hoteles, restaurantes, hospitales privados, oficinas administrativas o de prestación de servicios. Los sujetos de estos derechos pagarán en base a la clasificación señalada en el acuerdo por el que se establece la estratificación de las micro, pequeñas y medianas empresas emitido por la Secretaría de Economía y al volumen que generen de basura. La tasa de cobro será por año fiscal o lo proporcional a los meses requeridos.
 
 Tarifa:
 
-I. Recolección de basura a giros comerciales:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2023)</small>
+
+I. Recolección de basura a giros:
 
 > <small>[N. DE E. VÉASE TABLA EN EL B.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 111 A LA 112]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, B.O. 21 DE DICIEMBRE DE 2023, PÁGINA 543.]</small>
 
 II. Otros servicios:
 
@@ -1915,9 +2001,11 @@ Las licencias se otorgarán por cada giro y no por domicilio o propietario, prev
 
 Los establecimientos que realicen diversas actividades concretas deberán obtener licencia por cada una de ellas.
 
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 115.
 
-Los giros que no estén inscritos en el padrón correspondiente, y los que no hubieran obtenido licencia para su funcionamiento u operen infringiendo los términos de la licencia concedida, serán clausurados por las autoridades fiscales, y se les impondrá una sanción de 3 a 50 veces el valor de la Unidad de Medida y Actualización, conforme al procedimiento que se establece en el título único de las Infracciones y Sanciones de la presente Ley.
+Los giros que no estén inscritos en el padrón correspondiente, y los que no hubieran obtenido licencia para su funcionamiento u operen infringiendo los términos de la licencia concedida, serán clausurados por las autoridades fiscales, y se les impondrá una sanción de 3 a 100 veces el valor de la Unidad de Medida y Actualización, conforme al procedimiento que se establece en el título único de las Infracciones y Sanciones de la presente Ley, así como lo establecido en la Ley de Procedimiento Administrativo para el Estado y los Municipios de Baja California Sur.
 
 ###### Artículo 116.
 
@@ -1957,11 +2045,27 @@ Los causantes están obligados a colocar en lugar visible del establecimiento la
 
 La falta oportuna de las declaraciones así como la falsedad de datos contenidos en las mismas, la resistencia a las visitas de inspección conducentes a la correcta determinación de la base gravable, y, en general, el incumplimiento de las obligaciones fiscales serán sancionadas, independientemente de la responsabilidad de tipo penal en que se incurre, con multa de 150 veces el valor de la Unidad de Medida y Actualización.
 
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 125.
 
-Los propietarios de 2 o más cabezas de ganado están obligados a presentar para su registro o refrendo, en el mes de enero de cada año, ante la Secretaría General su fierro marcador y las señales que identifiquen a los animales de su propiedad y exhibir los títulos que amparen dichos fierros y señales.
+Los propietarios de 2 o más cabezas de ganado están obligados a presentar para su registro o revalidación, durante los primeros 60 días de cada año, ante el departamento de Marcas y Señales de la Dirección General de Servicios Públicos Municipales su fierro marcador y las señales que identifiquen a los animales de su propiedad y exhibir los títulos que amparen dichos fierros y señales.
 
-Si en el plazo de 5 años consecutivos no se cumple con esta obligación, se cancelarán automáticamente los títulos de marcas y señales de herrar.
+Para tal efecto se aplicarán las siguientes
+
+TARIFAS:
+
+I Registro y validación de marcas de herrar, señales de sangre y tatuajes para trámite de título nuevo
+
+2 veces el valor de la Unidad de Medida y Actualización
+
+II Revalidación títulos de marcas de herrar, señales y tatuajes ganaderos
+
+Trámite Gratuito
+
+III Revalidación extemporánea títulos de marcas de herrar, señales y tatuajes ganaderos
+
+3 veces el valor de la Unidad de Medida y Actualización
 
 ###### Artículo 126.
 
@@ -2001,11 +2105,15 @@ III. La base de este derecho es el tipo de giro, licencia, autorización o permi
 
 Por la recepción, análisis y revisión de solicitudes de permisos nuevos, cambio de giro, cambio de nombre o razón social, sucesión de derechos y obligaciones, así como la emisión de permisos y certificados que por dichos conceptos y similares extienda el Municipio para la operación de establecimientos con venta almacenaje, distribución o consumo de bebidas alcohólicas, estarán sujetos al pago de 10 veces el valor de la Unidad de Medida y Actualización, por cada trámite.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 130.
 
-Son sujetos de este derecho las personas físicas o morales que se dediquen a la prestación de servicios que incluyan la venta, almacenaje, distribución y consumo de bebidas alcohólicas y se les otorgue licencia para el funcionamiento de establecimientos y locales en los términos del artículo 129 de esta Ley.
+Son sujetos de este derecho las personas físicas o morales que se dediquen a la prestación de servicios que incluyan la venta, almacenaje, distribución y consumo de bebidas alcohólicas y se les otorgue licencia para este fin, en los términos del artículo 129 de esta Ley.
 
-I. Por la expedición de licencias para el funcionamiento de establecimientos que almacenen, distribuyan, vendan y/o presten servicios que incluyan el consumo de bebidas alcohólicas, deberán causar derechos dentro de los rangos que establecen las tarifas que a continuación se mencionan y que deberán precisarse de acuerdo a lo que establezca el Municipio en la siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2023)</small>
+
+I. Por la expedición de licencias para establecimientos que almacenen, distribuyan, vendan y/o presten servicios que incluyan el consumo de bebidas alcohólicas, deberán causar derechos dentro de los rangos que establecen las tarifas que a continuación se mencionan y que deberán precisarse de acuerdo a lo que establezca el Municipio en la siguiente:
 
 TARIFA:
 
@@ -2068,6 +2176,16 @@ g) Restaurantes con venta de cerveza y licor, solo con el consumo de alimentos:
 h) Centros recreativos, clubes privados con membresía, asociaciones civiles y clubes deportivos de
 
 150 a 500 veces el valor de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2023)</small>
+
+i) Venta de bebidas alcohólicas artesanales
+
+120 veces el valor de la Unidad de Medida y Actualización
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2023)</small>
+
+Para poder ser sujeto de cobro correspondiente al inciso i), deberán contar con el distintivo "Hecho en BCS." que otorga la Subsecretaría de Economía del Gobierno del Estado.
 
 II. La tabla tarifaria del inciso g) de la fracción anterior podrá disminuir tomando en cuenta la importancia demográfica, económica o turística del lugar donde se pretende establecer la licencia, de igual forma, a su capital social o a su número de empleados.
 
@@ -2219,13 +2337,17 @@ El incumplimiento al requisito antes señalado es causal de la revocación de la
 
 Una vez revocada la licencia de que se trate, si el contribuyente inicia operaciones que la licencia revocada amparaba, se procederá a la inmediata clausura del establecimiento mediante mandamiento de las autoridades fiscales competentes.
 
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 136.
 
-El Ayuntamiento podrá cancelar la licencia para el funcionamiento de establecimientos que expendan bebidas alcohólicas con base en lo establecido por la Ley que Regula el Almacenaje, Distribución, Venta y Consumo de Bebidas Alcohólicas en el Estado de Baja California Sur.
+El Ayuntamiento podrá cancelar la licencia de establecimientos que expendan bebidas alcohólicas con base en lo establecido por la Ley que Regula el Almacenaje, Distribución, Venta y Consumo de Bebidas Alcohólicas en el Estado de Baja California Sur.
+
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 137.
 
-Todos los establecimientos cuya actividad es ofrecer actividades de recreación y esparcimiento con venta de bebidas alcohólicas deberán de contar con un contrato de prestación de servicios de seguridad comercial y de vigilancia, con el número de elementos policiacos que para tal efecto autorice la Dirección General de Seguridad y Tránsito Municipal.
+Todos los establecimientos que ofrezcan actividades de recreación y esparcimiento con venta de bebidas alcohólicas deberán de contar con un contrato de prestación de servicios de seguridad comercial y de vigilancia, con el número de elementos policiacos que para tal efecto autorice la Dirección General de Seguridad y Tránsito Municipal.
 
 #### SECCIÓN XV
 
@@ -2305,7 +2427,55 @@ Los servicios que presta la Dirección de Protección Civil a las personas físi
 
 TARIFA:
 
-I. Anuencia para evento masivo:
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2023)</small>
+
+I. En materia de Construcción:
+
+1. Por la revisión de planos de nueva construcción, por metro cuadrado de construcciones, edificación, establecimiento, obra y/o centro de trabajo:
+
+a) Casa habitación;
+
+0.10 de la Unidad de Medida y Actualización.
+
+b) Edificios público (sic) y salas de espectáculos;
+
+0.12 de la Unidad de Medida y Actualización
+
+c) Comercios;
+
+0.12 de la Unidad de Medida y Actualización
+
+d) Almacenes y bodegas; y
+
+0.12 de la Unidad de Medida y Actualización
+
+e) Industrias.
+
+0.12 de la Unidad de Medida y Actualización
+
+2. Por la revisión de planos por la ampliación, modificación y/o regularización, de finca por metro cuadrado de construcción, edificación, establecimiento, obra y/o centro de trabajo:
+
+a) Casa habitación;
+
+0.10 de la Unidad de Medida y Actualización
+
+b) Edificios públicos y salas de espectáculos;
+
+0.12 de la Unidad de Medida y Actualización
+
+c) Comercios;
+
+0.12 de la Unidad de Medida y Actualización
+
+d) Almacenes, bodegas, industria
+
+0.12 de la Unidad de Medida y Actualización
+
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2023)</small>
+
+II. En materia de comercio
+
+1. Anuencia para evento masivo:
 
 a) Con fines de lucro
 
@@ -2315,85 +2485,65 @@ b) Sin fines de lucro
 
 2 Veces la Unidad de Medida y Actualización
 
-II. Por dictaminar y/o autorizar los Programas Internos de Protección Civil que deberán elaborar los propietarios, poseedores, administradores o encargados de inmuebles o edificaciones que por su uso y destino concentren o reciban una afluencia masiva de personas o bien representen un riesgo de daños para la población, por metro cuadrado de construcción, edificación, establecimiento, obra y/o área del centro de trabajo:
+2. Por dictaminar y/o autorizar los Programas Internos de Protección Civil que deberán elaborar los propietarios, poseedores, administradores o encargados de inmuebles o edificaciones que por su uso y destino concentren o reciban una afluencia masiva de personas o bien representen un riesgo de daños para la población, por metro cuadrado de construcción, edificación, establecimiento, obra y/o área del centro de trabajo:
 
-0.05 de la Unidad de Medida y Actualización
+a) De 50 a 100 trabajadores y/o afluencia mayor a 50 personas.
 
-El pago por estos conceptos no podrá ser inferior a 10 veces la Unidad de Medida y Actualización.
+14 Veces la Unidad de Medida y Actualización
 
-III. Por la revisión de planos de nueva construcción, por metro cuadrado de construcciones, edificación, establecimiento, obra y/o centro de trabajo:
+b) De 101 trabajadores en adelante y/o afluencia mayor a 70 personas.
 
-1. Casa habitación;
+20 Veces la Unidad de Medida y Actualización
 
-0.10 de la Unidad de Medida y Actualización.
+c) Distribuidoras de gases, combustibles y lubricantes, oxígenos y acetilenos, gasolineras y depósitos de combustibles y lubricantes y demás de alto riesgo.
 
-2. Edificios público y salas de espectáculos;
+25 Veces la Unidad de Medida y Actualización
 
-0.12 de la Unidad de Medida y Actualización
+3. Certificación de medidas de seguridad
 
-3. Comercios;
+Comercial y de servicios:
 
-0.12 de la Unidad de Medida y Actualización
+a) Puestos semifijos y autoempleo
 
-4. Almacenes y bodegas; y
+2 Veces la Unidad de Medida y Actualización
 
-0.12 de la Unidad de Medida y Actualización
+b) Micro
 
-5. Industrias.
+3 Veces la Unidad de Medida y Actualización
 
-0.12 de la Unidad de Medida y Actualización
+c) Pequeña
 
-El pago por este concepto no podrá ser inferior a 15 veces la Unidad de Medida y Actualización.
+3 Veces la Unidad de Medida y Actualización
 
-IV.- Por la revisión de planos por la ampliación, modificación y/o regularización, de finca por metro cuadrado de construcción, edificación, establecimiento, obra y/o centro de trabajo:
+d) Mediana
 
-1.- Casa habitación;
+6 Veces la Unidad de Medida y Actualización
 
-0.10 de la Unidad de Medida y Actualización
+Industria:
 
-2.- Edificios público y salas de espectáculos;
+a) Micro
 
-0.12 de la Unidad de Medida y Actualización
+3 Veces la Unidad de Medida y Actualización
 
-3.- Comercios;
+b) Pequeña
 
-0.12 de la Unidad de Medida y Actualización
+6 Veces la Unidad de Medida y Actualización
 
-4.- Almacenes y bodegas; y
+c) Mediana
 
-0.12 de la Unidad de Medida y Actualización
+8 Veces la Unidad de Medida y Actualización
 
-5.- Industrias.
+d) Grande
 
-0.12 de la Unidad de Medida y Actualización
+10 Veces la Unidad de Medida y Actualización
 
-El pago por este concepto no podrá ser inferior a 15 veces la Unidad de Medida y Actualización
+Distribuidoras de gases, combustibles y lubricantes, oxígenos y acetilenos, gasolineras y depósitos de combustibles y lubricantes, y demás de alto riesgo.
 
-V. Por la revisión de sistemas contra incendios por metro cuadrado de construcción, edificación, establecimiento, obra y/o centro de trabajo:
+15 Veces la Unidad de Medida y Actualización
 
-1. Casa habitación;
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2023)</small>
 
-0.05 de la Unidad de Medida y Actualización.
-
-2.- Edificios público y salas de espectáculos;
-
-0.05 de la Unidad de Medida y Actualización.
-
-3.- Comercios;
-
-0.05 de la Unidad de Medida y Actualización.
-
-4.- Almacenes y bodegas; y
-
-0.05 de la Unidad de Medida y Actualización
-
-5.- Industrias.
-
-0.05 de la Unidad de Medida y Actualización
-
-El pago por este concepto no podrá ser inferior a 15 veces la Unidad de Medida y Actualización.
-
-VI. Servicio de atención pre hospitalaria:
+III. Servicio de atención prehospitalaria:
 
 a) En evento masivo:
 
@@ -2417,17 +2567,19 @@ b) Traslado Programado de persona:
 
 1. Local
 
-10 Veces la Unidad de Medida y Actualización adicionalmente 1 Vez la
+10 Veces la Unidad de Medida y Actualización
 
 2. Foráneo
 
-Unidad de Medida y Actualización por cada 5 kilómetros
+adicionalmente 1 Vez la Unidad de Medida y Actualización por cada 5 kilómetros
 
 c) Traslado de emergencia
 
 Exento
 
-VII. Servicio de capacitación:
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2023)</small>
+
+IV. Servicio de capacitación:
 
 a) Individual. Primeros auxilios básicos e incendios grupo mínimo de 15 personas.
 
@@ -2449,121 +2601,75 @@ e) Otros no especificados.
 
 4 Veces la Unidad de Medida y Actualización por persona.
 
-VIII. Constancia de daños en bienes siniestrados
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2023)</small>
 
-2 Veces la Unidad de Medida y Actualización.
+V. Terceros Acreditados:
 
-IX. A capacitadores:
+a) Por registro inicial:
 
-a) Por registro:
-
-1. Capacitadores externos.
-
-8 Veces la Unidad de Medida y Actualización
+1. Capacitadores voluntarios.
 
 Exentos
 
-2. Capacitadores voluntarios.
+2. Terceros acreditados Primer Nivel.
 
-b) Por certificación anual:
+20 Veces la Unidad de Medida y Actualización
 
-1. Capacitadores externos.
+3. Terceros acreditados Segundo Nivel
 
-3 Veces la Unidad de Medida y Actualización
+30 Veces la Unidad de Medida y Actualización
 
-2. Capacitadores voluntarios.
+4. Terceros acreditados Tercer Nivel
+
+40 Veces la Unidad de Medida y Actualización
+
+b) Por Revalidación de registro anual, en los meses de enero y febrero:
+
+1. Capacitadores voluntarios.
 
 Exentos
 
-X. Certificación de medidas de seguridad a giros comerciales:
+2. Terceros acreditados Primer Nivel.
 
-a) Comercio en pequeño y puestos semifijos
+20 Veces la Unidad de Medida y Actualización
 
-2 Veces la Unidad de Medida y Actualización
+3. Terceros acreditados Segundo Nivel
 
-b) Despachos de profesionistas y giros de servicio
+30 Veces la Unidad de Medida y Actualización
 
-3 Veces la Unidad de Medida y Actualización
+4. Terceros acreditados Tercer Nivel
 
-c) Loncherías, panaderías, lavanderías, ferreterías, refaccionaria, tiendas de ropa, misceláneas, super mercados, tiendas de alimentos, depósitos, licorerías, ultramarinos, farmacias, papelerías, librerías, templos religiosos, palapas y salón de fiestas infantiles.
+40 Veces la Unidad de Medida y Actualización
 
-3 Veces la Unidad de Medida y Actualización
+c) La revalidación extemporánea será sancionada con multa por días naturales de atraso:
 
-d) Bares, billares, cantina, café cantante, peñas culturales, restaurante bar, restaurante, clínicas.
+1. Hasta 30 días
 
-6 Veces la Unidad de Medida y Actualización
+1 Vez el valor de la Unidad de Medida y Actualización.
 
-e) Discotecas, centro de espectáculos, cabaret, centros nocturnos, bodega de distribución (excepto materiales de alto riesgo), hospital.
+2. De 31 a 59 días
 
-6 Veces la Unidad de Medida y Actualización
+2 Veces el valor de la Unidad de Medida y Actualización.
 
-f) Tiendas departamentales, clubes deportivos, sala cinematográfica, teatros, salón de renta para eventos, desmanteladoras.
+3. De 60 a 99 días
 
-8 Veces la Unidad de Medida y Actualización
+3 Veces el valor de la Unidad de Medida y Actualización.
 
-g) Moteles:
+4. De 100 a 129 días
 
-1. Hasta 10 habitaciones
+4 Veces el valor de la Unidad de Medida y Actualización.
 
-3 Veces la Unidad de Medida y Actualización
+5. De 130 a 159 días
 
-2. De 11 a 20 habitaciones
+5 Veces el valor de la Unidad de Medida y Actualización.
 
-4 Veces la Unidad de Medida y Actualización
+6. De 160 días en adelante
 
-3. De 21 habitaciones en adelante
+6 Veces el valor de la Unidad de Medida y Actualización.
 
-5 Veces la Unidad de Medida y Actualización
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2023)</small>
 
-h) Hoteles:
-
-1. Hasta 30 habitaciones
-
-5 Veces la Unidad de Medida y Actualización
-
-2. De 31 habitaciones en adelante
-
-8 Veces la Unidad de Medida y Actualización
-
-i) Edificios educativos:
-
-1. Hasta 10 aulas
-
-3 Veces la Unidad de Medida y Actualización
-
-2. De 11 aulas en adelante
-
-5 Veces la Unidad de Medida y Actualización
-
-j) Giros de alto riesgo:
-
-Distribuidoras de gases, combustibles y lubricantes, oxígenos y acetilenos, gasolineras y depósitos de combustibles y lubricantes, y demás de alto riesgo.
-
-15 Veces la Unidad de Medida y Actualización
-
-k) Otros giros no especificados
-
-3 Veces la Unidad de Medida y Actualización
-
-l) Edificios industriales:
-
-1. Micro industria de 1 a 15 empleados.
-
-3 Veces la Unidad de Medida y Actualización
-
-2. Pequeña industria de 16 a 50 empleados.
-
-6 Veces la Unidad de Medida y Actualización
-
-3. Industria mediana de 51 a 100 empleados
-
-8 Veces la Unidad de Medida y Actualización
-
-4. Macro industria
-
-10 Veces la Unidad de Medida y Actualización
-
-XI. Revisión de explosivos:
+VI. Revisión de explosivos:
 
 a) Revisión de polvorines o permisos de explosivos, previo acreditamiento de contar con permiso de la Secretaría de la Defensa Nacional (SEDENA)
 
@@ -2573,15 +2679,25 @@ b) Certificación de medidas de seguridad de fuegos pirotécnicos.
 
 10 Veces la Unidad de Medida y Actualización
 
-XII. En servicios foráneos, adicionalmente se cobrará por unidad de transporte
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2023)</small>
+
+VII. En servicios foráneos;
+
+Adicionalmente se cobrará por unidad de transporte
 
 0.15 de la Unidad de Medida y Actualización por kilómetro recorrido.
 
-XIII. Constancia de verificación anual para transportación de materiales peligrosas.
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2023)</small>
+
+VIII. Constancia para transportación de materiales peligrosos;
+
+Verificación anual para transportación de materiales peligrosos.
 
 20 Veces la Unidad de Medida y Actualización
 
-XIV. Por reposición de monto pecuniario de recursos de índole municipal usados en el control de incendios, emergencias con materiales, sustancias y residuos peligrosos; y otros servicios operativos de bomberos y rescate, ocurridos en comercios, industrias, almacenes, bodegas, talleres, empresas privadas de servicios al público o predios e inmuebles no habitados:
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2023)</small>
+
+IX. Por reposición de monto pecuniario de recursos de índole municipal usados en el control de incendios, emergencias con materiales, sustancias y residuos peligrosos; y otros servicios operativos de bomberos y rescate, ocurridos en comercios, industrias, almacenes, bodegas, talleres, empresas privadas de servicios al público o predios e inmuebles no habitados:
 
 Con superficie afectadas en metros cuadrados
 
@@ -2619,11 +2735,31 @@ En predios baldíos o construcciones abandonadas
 
 De 50 a 300 Veces la Unidad de Medida y Actualización
 
-XV. Las infracciones a las disposiciones del Reglamento de Protección Civil para el Municipio de La Paz, Baja California Sur, se sancionarán como sigue:
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2023)</small>
+
+X. Las infracciones a las disposiciones del Reglamento de Protección Civil para el Municipio de La Paz, Baja California Sur, se sancionarán como sigue:
 
 a) Negarse u obstaculizar la realización de la visita de inspección.
 
-1 a 50 Veces la Unidad de Medida y Actualización.
+1. Autoempleo
+
+1 a 99 Veces la Unidad de Medida y Actualización
+
+2. Micro
+
+100 a 249 Veces la Unidad de Medida y Actualización
+
+3. Pequeña
+
+250 a 349 Veces la Unidad de Medida y Actualización
+
+4. Mediana
+
+350 a 499 Veces la Unidad de Medida y Actualización
+
+5. Grande
+
+500 a 650 Veces la Unidad de Medida y Actualización
 
 b) Utilizar logotipos de protección civil sin la autorización correspondiente
 
@@ -2631,7 +2767,7 @@ b) Utilizar logotipos de protección civil sin la autorización correspondiente
 
 c) No cumplir con las disposiciones y observaciones que se asienten en el acta de inspección en el plazo establecido.
 
-1 a 50 Veces la Unidad de Medida y Actualización
+1 a 100 Veces la Unidad de Medida y Actualización
 
 d) Derramar hidrocarburos, sustancias químicas o cualquier otro desecho que pueda poner en riesgo a la población, sus pertenencias o su entorno.
 
@@ -2645,7 +2781,7 @@ f) Poseer, arrendar, subarrendar o utilizar estructuras para la colocación de a
 
 10 a 200 Veces la Unidad de Medida y Actualización
 
-g) No contar con la integración de la unidad interna y/o programas específicos de protección civil.
+g) No contar con la integración de la unidad interna y/o programa interno de protección civil. De acuerdo con el artículo 78 de la Ley General de Protección Civil.
 
 10 a 50 Veces la Unidad de Medida y Actualización
 
@@ -2664,6 +2800,20 @@ j) No contar con equipo contra incendios estando obligado a ello (propio o por s
 k) Estacionar vehículos contenedores de hidrocarburos o sustancias peligrosas en áreas residenciales.
 
 50 a 2000 Veces la Unidad de Medida y Actualización
+
+l) No contar con las medidas de seguridad en los inmuebles, establecidas en la normatividad vigente y aplicable.
+
+10 a 30 Veces la Unidad de Medida y Actualización
+
+XI. (DEROGADA, B.O. 21 DE DICIEMBRE DE 2023)
+
+XII. (DEROGADA, B.O. 21 DE DICIEMBRE DE 2023)
+
+XIII. (DEROGADA, B.O. 21 DE DICIEMBRE DE 2023)
+
+XIV. (DEROGADA, B.O. 21 DE DICIEMBRE DE 2023)
+
+XV. (DEROGADA, B.O. 21 DE DICIEMBRE DE 2023)
 
 #### SECCIÓN XVIII. SERVICIOS DE CONTRALORÍA
 
@@ -3085,6 +3235,8 @@ II. Intereses no bancarios.
 
 ### CAPÍTULO II. MULTAS ADMINISTRATIVAS NO FISCALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE DICIEMBRE DE 2023)</small>
+
 #### SECCIÓN V. SERVICIO DE FOTOCOPIADO
 
 #### SECCIÓN I. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES DEL PATRIMONIO MUNICIPAL
@@ -3139,9 +3291,11 @@ VIII. Enajenación de bienes muebles no sujetos a ser inventariados.
 
 ###### Artículo 154.
 
-Las sanciones por desacato al Bando de Policía y Buen Gobierno, Reglamento de Tránsito, Reglamento de Transporte Público de Carga y Pasajeros y demás disposiciones vigentes en el Municipio de La Paz, se impondrán de acuerdo a la siguiente clave, concepto y tarifa:
+Las sanciones por desacato al Bando de Policía, Buen Gobierno y Justicia Cívica del Municipio de La Paz, Reglamento de Tránsito para la Movilidad Segura para el Municipio de La Paz, B.C.S., Reglamento de Transporte Público de Carga y Pasajeros y demás disposiciones vigentes en el Municipio de La Paz, se impondrán de acuerdo con la siguiente clave, concepto y tarifa:
 
 > <small>[N. DE E. VÉASE TABLA EN EL B.O. DE 31 DE DICIEMBRE DE 2018, DE LA PÁGINA 143 A LA 151.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, B.O. 21 DE DICIEMBRE DE 2023, PÁGINAS DE LA 553 A LA 554.]</small>
 
 ### CAPÍTULO VI. APROVECHAMIENTOS NO COMPRENDIDOS EN LA LEY DE INGRESOS VIGENTE, CAUSADOS EN EJERCICIOS FISCALES ANTERIORES PENDIENTES DE LIQUIDACIÓN O PAGO
 
@@ -3534,3 +3688,13 @@ CARLOS MENDOZA DAVIS
 SECRETARIO GENERAL DE GOBIERNO
 
 ALVARO DE LA PEÑA ANGULO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3026 SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente decreto entrará en vigor el día 01 de enero de 2024 previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
