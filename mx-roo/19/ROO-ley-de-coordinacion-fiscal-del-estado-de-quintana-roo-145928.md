@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-coordinacion-fiscal-del-estado-de-quintana-roo-145928"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-21"
-last_updated: "2022-12-23"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número 170 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 21 de diciembre de 2020.
 
@@ -291,6 +291,14 @@ La distribución será en proporción a lo recaudado en cada Municipio correspon
 
 > <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 23 DE DICIEMBRE DE 2022, PÁGINAS DE LA 115 A LA 116.]</small>
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 23
+
+Ter. Los Municipios que se adhieran al Sistema Estatal de Coordinación Fiscal mediante el convenio respectivo, participarán de los ingresos estatales por concepto de contribuciones en los términos y condiciones que para tal efecto se establezcan en los convenios de coordinación y colaboración administrativa que celebren. Dichos convenios se publicarán en el Periódico Oficial del Estado y surtirán sus efectos a partir de las fechas que en el propio convenio se establezcan o, a partir del día siguiente de la publicación.
+
+El Estado o el Municipio podrán dar por terminado total o parcialmente los convenios a que se refiere el párrafo anterior, terminación que será publicada y tendrá efectos conforme al párrafo anterior.
+
 ### CAPÍTULO III. DE LOS FONDOS DE APORTACIONES FEDERALES
 
 #### SECCIÓN I. DISPOSICIONES GENERALES
@@ -439,17 +447,29 @@ III. La Junta Estatal de Coordinación Fiscal.
 
 La Reunión Estatal de Funcionarios Fiscales se integrará por:
 
-I. El titular de la Secretaría;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-II. El Subsecretario de Ingresos de la Secretaría;
+I. La persona titular de la Secretaría;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-III. El Subsecretario de Análisis Económico y Finanzas Públicas;
+II. La persona titular de la Subsecretaría de Ingresos de la Secretaría;
 
-IV. El titular del Servicio de Administración Tributaria del Estado de Quintana Roo, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-V. Por los Tesoreros de cada Municipio del Estado.
+III. La persona titular de la Procuraduría Fiscal;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+IV. La persona titular del Servicio de Administración Tributaria del Estado de Quintana Roo;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+V. Las personas titulares de las Tesorerías de cada Municipio del Estado, y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+VI. La persona titular de la Dirección de Coordinación Fiscal.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
@@ -481,7 +501,9 @@ IV. Aprobar los reglamentos de funcionamiento de la propia Reunión Estatal, de 
 
 La Comisión Estatal de Funcionarios Fiscales se integrará conforme a las reglas siguientes:
 
-I. Estará formada por la Secretaría y por tres municipios. Será presidida conjuntamente por el titular de la Secretaría, que podrá ser suplido por el Subsecretario de Ingresos, y por el tesorero que elija la Comisión entre sus miembros. En esta elección no participará la Secretaría.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+I. Estará formada por la Secretaría y por tres municipios. Será presidida por la personan titular de la Secretaría, que podrá ser suplido por la persona titular de la Subsecretaría de Ingresos.
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
@@ -648,3 +670,13 @@ P.O. 23 DE DICIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor a partir del 1° de enero de 2023.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 170 POR EL QUE SE REFORMAN LAS FRACCIONES I, II, III, IV Y V DEL ARTÍCULO 43 Y LA FRACCIÓN I DEL ARTÍCULO 46. SE ADICIONAN: EL ARTÍCULO 23-TER EN LA SECCIÓN ÚNICA DE LOS INGRESOS ESTATALES EN EL CAPÍTULO II-BIS DE LOS INGRESOS ESTATALES PARTICIPABLES A LOS MUNICIPIOS; Y LA FRACCIÓN VI AL ARTÍCULO 43; TODOS DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el primer día del mes de enero del año 2024.
+
+SEGUNDO. En tanto los municipios permanezcan adheridos al Sistema Estatal de Coordinación Fiscal, quedarán en suspenso las contribuciones que se establezcan en los convenios de coordinación y colaboración administrativa que celebren en el Estado.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto, de igual o inferior jerarquía.
