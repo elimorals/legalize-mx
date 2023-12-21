@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-sistema-anticorrupcion-del-estado-de-quintana-roo-12263
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-19"
-last_updated: "2022-06-08"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122632&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 19 de julio de 2017.
 
@@ -267,9 +267,11 @@ El Presidente del Comité Coordinador Estatal tendrá voto de calidad en caso de
 
 El Comité de Participación Ciudadana tiene como objetivo coadyuvar, en términos de esta Ley, al cumplimiento de los objetivos del Comité Coordinador Estatal, así como ser la instancia de vinculación con las organizaciones sociales y académicas relacionadas con las materias del Sistema Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 16.
 
-El Comité de Participación Ciudadana estará integrado por cinco ciudadanos de probidad y prestigio que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción. Sus integrantes deberán reunir los mismos requisitos que esta Ley establece para ser nombrado Secretario Técnico.
+El Comité de Participación Ciudadana estará integrado por cinco personas de probidad y prestigio que se hayan destacado por su contribución a la transparencia, finanzas, políticas públicas, rendición de cuentas, fiscalización, participación ciudadana o combate a la corrupción. Sus integrantes deberán reunir los mismos requisitos que esta Ley establece para ser nombrado Secretario Técnico.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2021)</small>
 
@@ -287,17 +289,19 @@ En relación con el párrafo anterior, le serán aplicables las obligaciones de 
 
 En la conformación del Comité de Participación Ciudadana se procurará que prevalezca la equidad de género.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 18.
 
-Los integrantes del Comité de Participación Ciudadana serán nombrados conforme al procedimiento siguiente:
+Las personas integrantes del Comité de Participación Ciudadana serán nombradas conforme al procedimiento siguiente:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE MAYO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-I. La Legislatura del Estado a través de la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, constituirá una Comisión de Selección integrada por cinco miembros, quienes durarán en su encargo un periodo de tres años.
+I. La Legislatura del Estado a través de la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, constituirá una Comisión de Selección integrada por cinco personas, quienes durarán en su encargo un periodo de cinco años.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-Los candidatos a integrar la Comisión de Selección, deberán cumplir con los siguientes requisitos: Ser ciudadana o ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles; haber residido en el Estado cinco años anteriores a la postulación del cargo; gozar de buena reputación y no haber sido condenado por delito que amerite pena de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza, peculado y otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena; no haber desempeñado el cargo de Secretario de Despacho, Fiscal General de la República o del Estado, Senador, Diputado Federal o Estatal ni gobernador de algún Estado y haberse destacado por su contribución en materia de fiscalización, de rendición de cuentas y combate a la corrupción.
+Las personas candidatas a integrar la Comisión de Selección, deberán cumplir con los siguientes requisitos: Tener la ciudadanía mexicana y quintanarroense, estando en pleno ejercicio de sus derechos políticos y civiles; contar con conocimientos y experiencia en materia de transparencia, finanzas, políticas públicas, rendición de cuentas fiscalización, participación ciudadana o combate a la corrupción; durante los dos años anteriores a su designación, no haber sido candidato o candidata o desempeñado cargo de elección popular alguno, no haber sido dirigente nacional, estatal o municipal de algún partido político y durante los dos años anteriores a su designación, no haber (sic) desempeñado como Gobernador o Gobernadora, haber sido titular de alguna Secretaría, Subsecretaría, de la Fiscalía General, Vice fiscal o cualquier titularidad de alguna Dependencia o Entidad federal, estatal o municipal.
 
 El procedimiento para su designación será el siguiente:
 
@@ -307,9 +311,15 @@ a) La Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos 
 
 Dicha convocatoria será dirigida:
 
-1. A las instituciones de educación superior y a las instituciones de investigación, públicas y privadas debidamente registradas para proponer candidatos a fin de integrar la Comisión de Selección, para lo cual deberán enviar los documentos que acrediten el perfil solicitado en la convocatoria, en un plazo no mayor a quince días posteriores a su emisión, para seleccionar a tres miembros basándose en los elementos decisorios que se hayan plasmado en la convocatoria.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-2. A las organizaciones de la sociedad civil que tengan preferentemente experiencia comprobada en materia de fiscalización, de rendición de cuentas y combate a la corrupción, para seleccionar a dos miembros, en los mismos términos del numeral anterior.
+1. A las instituciones de educación superior y a las instituciones de investigación, públicas y privadas debidamente registradas, para proponer candidatos a fin de integrar la Comisión de Selección, para lo cual deberán enviar los documentos que acrediten el perfil solicitado en la convocatoria, en un plazo no mayor a quince días hábiles posteriores a su emisión.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+2. A las organizaciones de la sociedad civil que tengan preferentemente experiencia en materia de fiscalización, finanzas, rendición de cuentas, participación ciudadana o combate a la corrupción, en los mismos términos del numeral anterior.
+
+Para garantizar la pluralidad en la integración de la Comisión de Selección, se deberá designar mínimo dos personas propuestas por las instituciones de educación superior y de investigación del Estado y dos por parte de las organizaciones de la sociedad civil, garantizando en todo momento la paridad de género.
 
 b) Las solicitudes deberán ser dirigidas a la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos y presentarse con los documentos que acrediten el perfil solicitado;
 
@@ -324,6 +334,10 @@ e) La designación deberá publicarse en el Periódico Oficial del Estado de Qui
 El cargo de miembro de la Comisión de Selección será honorario.
 
 Quienes funjan como miembros no podrán ser designados como integrantes del Comité de Participación Ciudadana por un periodo de seis años contados a partir de la disolución de la Comisión de Selección.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+En caso de que se generen vacantes imprevistas, el proceso de selección de la nueva persona integrante de la Comisión de Selección no podrá exceder el límite de noventa días y la persona que resulte electa desempeñará el encargo por el tiempo restante de la vacante a ocupar.
 
 II. La Comisión de Selección deberá emitir una convocatoria, con el objeto de realizar una amplia consulta pública en el Estado, dirigida a toda la sociedad, para que presenten sus postulaciones de aspirantes a ocupar el cargo.
 
@@ -703,7 +717,9 @@ X. No ser titular de una dependencia o entidad del Estado, Fiscal General del Es
 
 XI. No haber sido miembro, adherente o afiliado a algún partido político, durante los cuatro años anteriores a la fecha de emisión de la convocatoria, y
 
-XII. No ser titular de una dependencia o entidad del Estado, Fiscal General del Estado, Subsecretario, Oficial Mayor, Gobernador, Secretario de Gobierno, Consejero de la Judicatura a menos que se haya separado de su cargo un año antes del día de su designación.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XII. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cuatro años anteriores a la designación.
 
 ###### Artículo 35.
 
@@ -944,5 +960,13 @@ P.O. 8 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 225 POR EL QUE SE REFORMAN: LAS FRACCIONES XVII, XVIII Y XIX DEL ARTÍCULO 21; EL ARTÍCULO 24; LAS FRACCIONES I Y II DEL ARTÍCULO 29; LAS FRACCIONES XV Y XVI DEL ARTÍCULO 35; Y SE ADICIONAN: LA FRACCIÓN XX AL ARTÍCULO 21, LA FRACCIÓN III AL ARTÍCULO 29 Y LAS FRACCIONES XVII Y XVIII AL ARTÍCULO 35, TODOS DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE QUINTANA ROO".]
 
 PRIMERO. El presente Decreto entrará en vigor, previa publicación en el Periódico Oficial del Estado de Quintana Roo, el día en el que inicie la vigencia del Decreto por el que se adiciona un último párrafo al artículo 161 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, en materia de presupuesto de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 185 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 16; EL PRIMER PÁRRAFO, LOS PÁRRAFOS PRIMERO Y SEGUNDO Y LOS NUMERALES 1 Y 2 DEL INCISO A) DE LA FRACCIÓN I, TODOS DEL ARTÍCULO 18; LA FRACCIÓN XII DEL ARTÍCULO 34 Y SE ADICIONA UN ÚLTIMO PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 18, TODOS DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente a la fecha de publicación de las reformas constitucionales correspondientes en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
