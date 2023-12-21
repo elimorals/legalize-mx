@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-desarrollo-rural-sustentable-del-estado-de-quintana-1375
 country: "mx"
 rank: "ley"
 publication_date: "2019-08-12"
-last_updated: "2021-06-22"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 12 de agosto de 2019.
 
@@ -115,9 +115,17 @@ XXVI. Seguridad alimentaria; El abasto oportuno, suficiente e incluyente de alim
 
 XXVII. Sistema-producto: El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización;
 
-XXVIII. Soberanía alimentaria humana: La potestad del Estado para garantizar, con producción local, la seguridad alimentaria de la población del Estado y contribuir al abasto nacional de alimentos; así como para promover en el ámbito federal las políticas tendientes a esta finalidad, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-XXIX. Unidades Regionales de Desarrollo Rural: Las unidades establecidas en las regiones en que se divide el Estado para hacer efectivas las acciones de la Red Estatal, que se integran por un equipo técnico interdisciplinario especializado en servicios para el desarrollo rural sustentable, seguimiento de proyectos productivos, así como la organización y articulación de todos los agentes del medio rural.
+XXVIII. Soberanía alimentaria humana: La potestad del Estado para garantizar, con producción local, la seguridad alimentaria de la población del Estado y contribuir al abasto nacional de alimentos; así como para promover en el ámbito federal las políticas tendientes a esta finalidad;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XXIX. Unidades Regionales de Desarrollo Rural: Las unidades establecidas en las regiones en que se divide el Estado para hacer efectivas las acciones de la Red Estatal, que se integran por un equipo técnico interdisciplinario especializado en servicios para el desarrollo rural sustentable, seguimiento de proyectos productivos, así como la organización y articulación de todos los agentes del medio rural, y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XXX. Modelo Agropecuario Regenerativo: Práctica agrícola o de ganadería, que promueve la conservación de los recursos naturales, la producción de alimentos sanos, el cuidado y restauración del suelo fértil con el fin de mantener su fertilidad en el futuro.
 
 ###### Artículo 4.
 
@@ -137,9 +145,17 @@ II. Corregir las disparidades del desarrollo rural a través de la atención dif
 
 III. Contribuir a la soberanía y seguridad alimentaria humana del Estado y del país, mediante el impulso de la producción agropecuaria en la entidad;
 
-IV. Fomentar la conservación de la biodiversidad y el mejoramiento de la calidad de los recursos naturales, mediante su aprovechamiento sustentable, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-V. Valorar las diversas funciones económicas, ambientales, sociales y culturales de las diferentes actividades agropecuarias en el Estado.
+IV. Fomentar la conservación de la biodiversidad y el mejoramiento de la calidad de los recursos naturales, mediante su aprovechamiento sustentable;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+V. Valorar las diversas funciones económicas, ambientales, sociales y culturales de las diferentes actividades agropecuarias en el Estado, y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+VI. Fomentar el Modelo Agropecuario Regenerativo como una alternativa sostenible para el desarrollo rural en el Estado.
 
 ###### Artículo 6.
 
@@ -853,13 +869,17 @@ XIII. La captación de dióxido de carbono, la conservación y recuperación de 
 
 XIV. El uso sustentable del agua en las actividades agropecuarias;
 
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-XV. La implementación de estrategias que coadyuven a la mitigación de los efectos del cambio climático, y
+XV. La implementación de estrategias que coadyuven a la mitigación de los efectos del cambio climático;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-XVI. Todas las demás que deriven del cumplimiento de esta Ley, sus disposiciones reglamentarias y demás disposiciones legales y normativas aplicables.
+XVI. El impulso a programas de capacitación y asistencia técnica especializados en el Modelo Agropecuario Regenerativo, para consolidar prácticas agrícolas o de ganadería sostenibles, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XVII. Todas las demás que deriven del cumplimiento de esta Ley, sus disposiciones reglamentarias y demás disposiciones legales y normativas aplicables.
 
 ### CAPÍTULO II. De la Investigación y Transferencia de Tecnología
 
@@ -895,13 +915,17 @@ VIII. Desarrollar formas de aprovechamiento y mejoramiento de los recursos natur
 
 IX. Difundir información sobre el estado de los recursos naturales y los procesos que lo determinan, así como las bases para la construcción de los indicadores correspondientes;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-X. Vincular de manera prioritaria la investigación científica y el desarrollo tecnológico con programas orientados a mejorar el nivel de vida de las familias rurales, y
+X. Vincular de manera prioritaria la investigación científica y el desarrollo tecnológico con programas orientados a mejorar el nivel de vida de las familias rurales;
 
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-XI. Impulsar alternativas que reemplacen el uso de sustancias químicas utilizadas en la producción agropecuaria y dañinas para la vida humana y fauna, además del medio ambiente.
+XI. Impulsar alternativas que reemplacen el uso de sustancias químicas utilizadas en la producción agropecuaria y dañinas para la vida humana y fauna, además del medio ambiente, y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XII. La colaboración entre instituciones académicas, centros de investigación y el sector productivo para promover la investigación y el desarrollo tecnológico en el ámbito del Modelo Agropecuario Regenerativo, con el fin de impulsar la innovación y mejorar continuamente estas prácticas.
 
 ###### Artículo 61.
 
@@ -1506,3 +1530,11 @@ P.O. 22 DE JUNIO DE 2021.
 PRIMERO. El presente decreto entrará en vigor a partir del 1 de enero del año 2022, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 137 POR EL QUE SE REFORMAN: LAS FRACCIONES XXVIII Y XXIX DEL ARTÍCULO 3, LAS FRACCIONES IV Y V DEL ARTÍCULO 5, LAS FRACCIONES XV Y XVI DEL ARTÍCULO 57 Y LAS FRACCIONES X Y XI DEL ARTÍCULO 60; SE ADICIONAN: LA FRACCIÓN XXX AL ARTÍCULO 3, LA FRACCIÓN VI AL ARTÍCULO 5, LA FRACCIÓN XVII AL ARTÍCULO 57 Y LA FRACCIÓN XII AL ARTÍCULO 60, TODOS DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
