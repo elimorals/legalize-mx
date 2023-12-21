@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-13678
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-06-14"
-last_updated: "2023-06-07"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número 11 del Periódico Oficial del Estado de Quintana Roo, el viernes 14 de junio de 2019.
 
@@ -875,9 +875,9 @@ XXI. Comisión de Deporte;
 
 XXII. Comisión de Movilidad;
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-XXIII. Comisión de Seguridad Pública, Protección Civil y Bomberos;
+XXIII. Comisión de Seguridad Ciudadana, Protección Civil y Bomberos;
 
 XXIV. Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, y
 
@@ -1223,35 +1223,13 @@ XVII. Realizar estudios de impacto social y económico de la legislación vigent
 
 XVIII. Las demás inherentes a la consecución de las anteriores y las que expresamente le señale la Legislatura, la Junta o el Coordinador del Instituto.
 
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
 #### SECCIÓN PRIMERA. De la Unidad de Igualdad de Género
 
 ###### Artículo 109.
 
-El Instituto de Investigaciones Legislativas contará con una Unidad de Igualdad de Género, como área especializada para llevar a cabo las actividades de investigación en temas relativos a la igualdad entre mujeres y hombres, además de ser la rectora de la política en materia de igualdad de género, que fomente entre el personal nuevas relaciones laborales de manera equitativa, igualitaria y respetuosa a fin de transformar al Poder Legislativo en sus estructuras y cultura institucional.
-
-Las actividades que realice la unidad en términos de las atribuciones que esta ley le confiere, serán supervisadas por la Comisión para la Igualdad de Género del Poder Legislativo y por el titular del Instituto de Investigaciones Legislativas.
-
-La Unidad de Igualdad de Género, tendrá las siguientes atribuciones:
-
-I. Elaborar y someter a la aprobación de la Comisión para la Igualdad de Género, el programa anual de trabajo de la unidad, para fortalecer la igualdad de género del Poder Legislativo del Estado;
-
-II. Realizar y difundir investigaciones estratégicas encaminadas a contribuir en la toma de decisiones legislativas para disminuir la desigualdad entre mujeres y hombres;
-
-III. Elaborar el diagnóstico y el anteproyecto para adecuar sistemáticamente la normatividad existente con perspectiva de género;
-
-IV. Brindar asesoría en materia de igualdad de género a la Legislatura;
-
-V. Impulsar que la selección del personal y los ascensos que se realicen por la Secretaria General del Poder Legislativo, se otorguen con base en criterios de transparencia e igualdad de género e inclusión de la diversidad social y elaborar diagnósticos que permitan identificar brechas de desigualdad de género que se presenten en la estructura organizacional del Poder Legislativo;
-
-VI. Coadyuvar a las comisiones ordinarias, cuando éstas así lo consideren con la asesoría en sus anteproyectos de iniciativas de ley en materia de igualdad de género;
-
-VII. Elaborar el protocolo para la prevención, atención y sanción del hostigamiento y acoso sexual en el Poder Legislativo, mismo que deberá ser sometido a aprobación de la Legislatura;
-
-VIII. Realizar acciones con las organizaciones de la sociedad civil e instituciones académicas que trabajen temas de igualdad de género con el fin de vincularlas con la labor que realiza la unidad;
-
-IX. Elaborar, preparar e impartir cursos de capacitación enfocados a fortalecer la igualdad de género dentro del Poder Legislativo, y
-
-X. Las demás inherentes a la consecución de las anteriores y las que expresamente le señale la Legislatura, la Comisión para la Igualdad de Género, el Coordinador y el titular del Instituto.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2023)
 
 #### SECCIÓN SEGUNDA. De la Unidad de Análisis Financiero
 
@@ -1633,7 +1611,9 @@ En él se consignarán la fecha, el sumario, el nombre del diputado que presida 
 
 ## TÍTULO NOVENO. Del Órgano Interno de Control del Poder Legislativo
 
-### CAPÍTULO PRIMERO. De la Iniciación y Formación de Leyes
+### CAPÍTULO ÚNICO. De la elección y funcionamiento del Órgano para la Igualdad de Género, Prevención y Atención de la Violencia contra las Mujeres del Poder Legislativo
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 134.
 
@@ -1727,17 +1707,161 @@ Tratándose de los demás servidores públicos adscritos al Órgano Interno de C
 
 Las responsabilidades administrativas no graves en que incurran los Titulares y personal de confianza de los órganos del Poder Legislativo, serán calificadas y sancionadas por el órgano interno de control del Poder Legislativo, en los términos de la Ley General de Responsabilidades Administrativas, y del reglamento o de la normatividad que al efecto se expida.
 
-## TÍTULO DÉCIMO. Del Proceso Legislativo
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+## TÍTULO DÉCIMO. Del Órgano para la Igualdad de Género, Prevención y Atención de la Violencia contra las Mujeres del Poder Legislativo
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO PRIMERO. De la Iniciación y Formación de Leyes
+
+###### Artículo 139 Bis.
+
+El Órgano para la Igualdad de Género, Prevención y Atención de la Violencia contra las Mujeres del Poder Legislativo del Estado, es el órgano especializado e imparcial, con autonomía técnica y de gestión para decidir sobre su funcionamiento, que tiene por objeto la institucionalización de la perspectiva de género en la cultura organizacional, así como la prevención y atención de los casos de violencia laboral contra las mujeres en razón de género, que se susciten entre las personas servidoras públicas del Poder Legislativo, así como entre aquellas personas que presten algún tipo de servicio personal o social, sin tener un vínculo laboral con éste.
+
+Para efectos de este Capítulo se entenderá por violencia laboral contra las mujeres en razón de género, lo establecido en los numerales 8 y 9 de la Ley de Acceso de las Mujeres a una Vida libre de Violencia del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 139 Ter.
+
+El Órgano para la Igualdad de Género, Prevención y Atención de la Violencia contra las Mujeres del Poder Legislativo, estará adscrito al Pleno de la Legislatura, sin que ello se traduzca en subordinación alguna, contará con una persona Titular que lo representará y con la estructura administrativa necesaria y el presupuesto suficiente para el cumplimiento de sus funciones.
+
+Será el órgano rector de la política en materia de igualdad de género, que fomente entre el personal relaciones laborales equitativas, igualitarias y respetuosas, a fin de transformar al Poder Legislativo en sus estructuras y cultura institucional.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 139 Quater.
+
+El Órgano para la Igualdad de Género, Prevención y Atención de la Violencia contra las Mujeres del Poder Legislativo del Estado, tendrá las atribuciones siguientes:
+
+I. Formular e implementar su Programa Anual de Trabajo;
+
+II. Diseñar e implementar un mecanismo de prevención y atención de la violencia laboral contra las mujeres en razón de género, con el fin de eliminar dichas prácticas al interior del Poder Legislativo;
+
+III. Generar diagnósticos con perspectiva de género y enfoque basado en derechos humanos, que permitan identificar las brechas de desigualdad de género que se presenten en la estructura organizacional del Poder Legislativo, con el fin de impulsar acciones afirmativas para acortar las mismas y elaborar políticas para la corresponsabilidad de la vida laboral, familiar y personal;
+
+IV. Promover que la selección del personal y los ascensos que se realicen en el Poder Legislativo, se otorguen con base en criterios de transparencia y paridad de género;
+
+V. Realizar acciones con las organizaciones de la sociedad civil e instituciones académicas que trabajen temas de igualdad de género con el fin de vincularlas con la labor que realiza el Órgano;
+
+VI. Organizar cursos de capacitación enfocados a fortalecer la igualdad de género y la formación en masculinidades igualitarias y alternativas, al interior del Poder Legislativo;
+
+VII. Gestionar convenios de colaboración con organizaciones nacionales e internacionales, con el fin de desarrollar foros y proyectos para el intercambio de buenas prácticas en la materia que compete al Órgano;
+
+VIII. Difundir información que permita concientizar y sensibilizar al personal sobre la exigibilidad de sus derechos, con el fin de crear una cultura de no violencia y de igualdad entre mujeres y hombres al interior del Poder Legislativo;
+
+IX. Colaborar con el área de Comunicación Social, para que los mensajes, imágenes y campañas que se transmitan tengan perspectiva de género, enfoque basado en derechos humanos, lenguaje incluyente, no discriminatorio y no sexista;
+
+X. Elaborar y emitir lineamientos, y protocolos de actuación para prevenir, atender y sancionar la violencia laboral contra las mujeres en razón de género, que incluye el acoso laboral, el acoso sexual y el hostigamiento sexual; así como la violencia sexual que comprende el aprovechamiento sexual, con el fin de eliminar dichas prácticas al interior del Poder Legislativo;
+
+XI. Emitir opiniones técnicas derivadas de los casos de violencia laboral contra las mujeres en razón de género, que incluye el acoso laboral, el acoso sexual y el hostigamiento sexual, en términos de lo dispuesto en el Protocolo de actuación que al efecto se emita;
+
+XII. Emitir recomendaciones a las personas titulares de los Órganos y Unidades del Poder Legislativo para la adopción de medidas de prevención general, a fin de desincentivar o evitar la realización de posibles conductas de violencia laboral contra las mujeres en razón de género, entre el personal a su cargo, en términos de la Ley de Acceso de las Mujeres a una vida libre de violencia y del protocolo de actuación que al efecto se emita;
+
+XIII. Realizar actividades de investigación encaminadas a contribuir en la toma de decisiones legislativas para erradicar la desigualdad entre mujeres y hombres;
+
+XIV. Emitir una opinión técnica, así como recomendaciones para incorporar la perspectiva de igualdad de género en el proceso de análisis, discusión y dictaminación presupuestal a cargo del Poder Legislativo del Estado;
+
+XIV (SIC). Las demás inherentes a la consecución de las anteriores y las que le señalen otras disposiciones legales o reglamentarias.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 139 Quinquies.
+
+Para la atención de los casos de violencia laboral contra las mujeres en razón de género, que se susciten al interior del Poder Legislativo, el Órgano contará con un área especializada, denominada Unidad de Atención a la Violencia contra las Mujeres, la cual tendrá las siguientes atribuciones:
+
+I. Otorgar atención inmediata, de primer contacto a las personas denunciantes;
+
+II. Orientar respecto de los medios institucionales para atender la violencia laboral contra las mujeres en razón de género, considerando las necesidades y voluntad de la solicitante y la naturaleza de la conducta denunciada;
+
+III. Proporcionar asesoría y acompañamiento a las personas denunciantes, sin perjuicio de las atribuciones de las autoridades competentes a cargo de la investigación y de la substanciación del procedimiento de responsabilidad administrativa;
+
+IV. Proporcionar, en su caso, atención psicológica a las personas denunciantes;
+
+V. Elaborar, en su caso, los proyectos de opiniones técnicas y recomendaciones a que se refieren las fracciones XI y XII del artículo anterior;
+
+VI. Las demás que establezcan las disposiciones jurídicas y normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 139 Sexies.
+
+La persona titular del Órgano para la Igualdad de Género, Prevención y Atención de la Violencia contra las Mujeres del Poder Legislativo será nombrada por el pleno de la Legislatura, a propuesta de la Comisión para la Igualdad de Género, que presentará una terna de candidatas, durará cuatro años en su cargo y deberá reunir los siguientes requisitos:
+
+I. Estar en pleno goce de sus derechos políticos y civiles;
+
+II. Ser mujer y tener treinta años de edad cumplidos al día de la designación;
+
+III. Contar al día de su designación con título y cédula profesional de Licenciatura en Derecho, expedido con una antigüedad mínima de cinco años por autoridad o institución legalmente facultada para ello;
+
+IV. No tener sentencia firme por la comisión intencional de delitos contra la vida-y (sic) la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
+
+V. No encontrarse sancionada administrativamente por violencia política contra las mujeres en razón de género;
+
+VI. No ser declarada persona deudora alimentaria morosa;
+
+VII. Contar al momento de su designación con experiencia en materia de derechos humanos de las mujeres, perspectiva de género e igualdad sustantiva;
+
+VIII. No estar inhabilitada para desempeñar un empleo, cargo o comisión en el servicio público.
+
+La persona titular del Órgano para la Igualdad de Género, Prevención y Atención de la Violencia contra las Mujeres del Poder Legislativo no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 139 Septies.
+
+La persona titular de (sic) Órgano para la Igualdad de Género, Prevención y Atención de la Violencia contra las Mujeres del Poder Legislativo tendrá las siguientes atribuciones:
+
+I. Representar al Órgano para la Igualdad de Género, Prevención y Atención de la Violencia contra las Mujeres del Poder Legislativo;
+
+II. Formular su anteproyecto anual de presupuesto basado en resultados, ante la Junta;
+
+III. Formular el Programa Anual de Trabajo del Órgano, el cual será remitido al Pleno de la Legislatura y a la Junta de Gobierno y Coordinación Política, para conocimiento;
+
+IV. Expedir los manuales de organización y de procedimientos que se requieran para la debida organización y funcionamiento del Órgano;
+
+V. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos a la Junta;
+
+VI. Expedir los lineamientos y protocolos que esta Ley le confiere;
+
+VII. Solicitar a los Órganos y Unidades del Poder Legislativo la información que con motivo de sus atribuciones requiera;
+
+VIII. Celebrar convenios de coordinación o colaboración en materia de igualdad de género;
+
+IX. Dar seguimiento a todas las opiniones técnicas y recomendaciones que obren en su registro, salvaguardando en todo momento los datos personales;
+
+X. Presentar al Pleno en el mes de febrero de cada año, un informe anual de resultados de su gestión;
+
+XI. Las demás que señale la presente Ley, y demás disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 139 Octies.
+
+La persona titular de (sic) Órgano para la Igualdad de Género, Prevención y Atención de la Violencia contra las Mujeres del Poder Legislativo podrá ser removida de su cargo por las siguientes causas:
+
+I. Incurrir en violaciones graves a los derechos humanos, previstos por la Constitución y los tratados internacionales de los que el Estado Mexicano sea parte;
+
+II. Incurrir en responsabilidad administrativa grave en términos de la Ley General de Responsabilidades Administrativas;
+
+III. Dejar de cumplir los requisitos señalados en las fracciones IV, V y VI del artículo 139 sexies, y
+
+IV. Utilizar, en beneficio propio o de terceros, la información confidencial o reservada de que disponga en razón de su cargo, así como divulgar la mencionada información en contravención a la Ley.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 139 Nonies.
+
+En caso de actualizarse alguno de los supuestos señalados en el artículo anterior, la Comisión para la Igualdad de Género, cuando tenga conocimiento de los hechos que actualicen alguna de las causas de procedencia de la remoción y considere que existen elementos de prueba, notificará inmediatamente a la persona titular de la Mesa Directiva de la Legislatura acompañando el expediente del asunto.
+
+La persona titular de la Mesa Directiva turnará el expediente a la Junta de Gobierno y Coordinación Política para los efectos conducentes.
+
+## TÍTULO DÉCIMO PRIMERO. Del Proceso Legislativo
 
 ### CAPÍTULO SEGUNDO. Del Dictamen
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2021)</small>
-
-## TÍTULO DÉCIMO PRIMERO. De la entrega y recepción
-
-> <small>(REFORMADO EN SU NUMERACIÓN, P.O. 16 DE DICIEMBRE DE 2021)</small>
-
-### CAPÍTULO TERCERO. Del Debate
 
 ###### Artículo 140.
 
@@ -1831,7 +1955,7 @@ Si las iniciativas no fueran calificadas para su trámite de urgente y obvia res
 
 Si las proposiciones, no fueran calificadas para su trámite de urgente y obvia resolución, se procederá al trámite previsto en el artículo 148 fracción II de esta ley.
 
-### CAPÍTULO CUARTO. De la votación
+### CAPÍTULO TERCERO. Del Debate
 
 ###### Artículo 149.
 
@@ -1897,7 +2021,7 @@ II. Los dictámenes aprobados por las comisiones competentes y que no fueron som
 
 Al iniciar el primer año de ejercicio constitucional de la legislatura entrante, quien presida la Mesa Directiva hará del conocimiento al Pleno y a las comisiones ordinarias el informe a que se refiere el presente artículo a efecto de continuar con el trámite que corresponda.
 
-### CAPÍTULO QUINTO. De la expedición
+### CAPÍTULO CUARTO. De la votación
 
 ###### Artículo 155.
 
@@ -1951,9 +2075,7 @@ Toda iniciativa que conste de más de cien artículos, podrá ser discutida por 
 
 En la discusión en lo particular, se podrán apartar los artículos, fracciones, incisos o párrafos que los diputados quieran impugnar. Los demás artículos que no ameriten discusión se reservarán para su votación.
 
-### CAPÍTULO ÚNICO. Disposiciones Generales
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+### CAPÍTULO QUINTO. De la expedición
 
 ###### Artículo 164.
 
@@ -1993,9 +2115,9 @@ Podrá votarse en forma simultánea un proyecto de ley o decreto en lo general y
 
 Las disposiciones de un proyecto de ley o de decreto que sean declaradas aprobadas, serán revisadas conforme al buen uso del lenguaje y con la claridad que amerite para su inequívoca interpretación, sin que se altere su contenido esencial en lo más mínimo. La minuta podrá ser dispensada de su lectura si así lo aprueba el pleno a propuesta de algún diputado.
 
-### CAPÍTULO SEGUNDO. De la entrega y recepción de la Junta y de las Comisiones
+### CAPÍTULO ÚNICO. Disposiciones Generales
 
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 169.
 
@@ -2017,9 +2139,13 @@ Las observaciones hechas por el Ejecutivo a un proyecto de ley, en términos del
 
 En la interpretación, reforma, derogación o abrogación de las leyes o decretos, se observará el mismo procedimiento previsto en el presente Título.
 
-## TÍTULO DÉCIMO SEGUNDO. Del Servicio Profesional de Carrera Legislativa
+## TÍTULO DÉCIMO SEGUNDO. De la entrega y recepción
 
-### CAPÍTULO TERCERO. De la entrega y recepción de los Diputados
+> <small>(REFORMADO EN SU NUMERACIÓN, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO SEGUNDO. De la entrega y recepción de la Junta y de las Comisiones
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 173.
 
@@ -2051,7 +2177,7 @@ Todos los servidores públicos Titulares que integran los Órganos del Poder Leg
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO CUARTO. De la entrega y recepción de los Titulares de las Áreas del Poder Legislativo
+### CAPÍTULO TERCERO. De la entrega y recepción de los Diputados
 
 #### SECCIÓN PRIMERA. De la entrega y recepción de la Junta
 
@@ -2081,7 +2207,7 @@ Todos los servidores públicos Titulares que integran los Órganos del Poder Leg
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO QUINTO. De la entrega y recepción de los órganos de representación
+### CAPÍTULO CUARTO. De la entrega y recepción de los Titulares de las Áreas del Poder Legislativo
 
 ###### Artículo 185.
 
@@ -2093,7 +2219,7 @@ Todos los servidores públicos Titulares que integran los Órganos del Poder Leg
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
-### CAPITULO SEXTO. De las irregularidades de la entrega y recepción
+### CAPÍTULO QUINTO. De la entrega y recepción de los órganos de representación
 
 ###### Artículo 187.
 
@@ -2109,7 +2235,7 @@ Todos los servidores públicos Titulares que integran los Órganos del Poder Leg
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO SÉPTIMO. De las situaciones excepcionales en la entrega y recepción
+### CAPITULO SEXTO. De las irregularidades de la entrega y recepción
 
 ###### Artículo 190.
 
@@ -2117,7 +2243,7 @@ Todos los servidores públicos Titulares que integran los Órganos del Poder Leg
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO ÚNICO. Disposiciones Generales
+### CAPÍTULO SÉPTIMO. De las situaciones excepcionales en la entrega y recepción
 
 ###### Artículo 191.
 
@@ -2133,7 +2259,7 @@ Todos los servidores públicos Titulares que integran los Órganos del Poder Leg
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO ÚNICO. Disposiciones Especiales
+### CAPÍTULO ÚNICO. Disposiciones Generales
 
 ###### Artículo 194.
 
@@ -2143,7 +2269,9 @@ Todos los servidores públicos Titulares que integran los Órganos del Poder Leg
 
 (DEROGADO, P.O. 16 DE DICIEMBRE DE 2021)
 
-## TÍTULO DÉCIMO TERCERO. De las Prevenciones Generales
+## TÍTULO DÉCIMO TERCERO. Del Servicio Profesional de Carrera Legislativa
+
+### CAPÍTULO ÚNICO. Disposiciones Especiales
 
 ###### Artículo 196.
 
@@ -2170,6 +2298,8 @@ V. Los programas para la capacitación, actualización y desarrollo de los servi
 ###### Artículo 199.
 
 El Poder Legislativo del Estado podrá celebrar convenios de coordinación o colaboración con los demás Poderes o con instituciones públicas o privadas, con el fin de cumplir con los objetivos del Servicio Profesional de Carrera Legislativa y su Estatuto.
+
+## TÍTULO DÉCIMO CUARTO. De las Prevenciones Generales
 
 ###### Artículo 200.
 
@@ -2282,3 +2412,31 @@ P.O. 7 DE JUNIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 193 POR EL QUE SE ADICIONA UN TÍTULO DÉCIMO DENOMINADO "DEL ÓRGANO PARA LA IGUALDAD DE GÉNERO, PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA CONTRA LAS MUJERES DEL PODER LEGISLATIVO", QUE COMPRENDE LOS ARTÍCULOS DEL 139 BIS AL 139 NONIES, RECORRIÉNDOSE EN SU ORDEN LOS TÍTULOS SUBSECUENTES; Y SE DEROGA LA SECCIÓN PRIMERA "DE LA UNIDAD DE IGUALDAD DE GÉNERO", DEL CAPÍTULO SEGUNDO "DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS", DEL TÍTULO SÉPTIMO "DE LOS ÓRGANOS TÉCNICOS Y ADMINISTRATIVOS" Y EL ARTÍCULO 109, TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Órgano para la Igualdad de Género, Prevención y Atención de la Violencia contra las Mujeres, contará con un plazo de noventa días hábiles para la emisión del Protocolo de actuación para prevenir, atender y sancionar la violencia laboral contra las mujeres, en razón de género, al interior del Poder Legislativo del Estado de Quintana Roo.
+
+TERCERO. El ejercicio de las atribuciones de la Unidad de Atención a la Violencia contra las Mujeres a que refiere el artículo 139 Quinquies, quedará sujeto a la autorización de la previsión presupuestal de los recursos humanos y materiales necesarios para garantizar su debido funcionamiento.
+
+CUARTO. Los asuntos a cargo de la Unidad de Igualdad de Género del Instituto de Investigaciones Legislativas que se encuentren pendientes de atención al momento de la entrada en vigor de este Decreto, serán asumidos de inmediato por el Órgano para la Igualdad de Género, Prevención y Atención de la Violencia contra las Mujeres, conforme a las atribuciones que este mismo ordenamiento señala.
+
+QUINTO. Los recursos humanos, materiales y financieros a cargo de la Unidad de Igualdad de Género del Instituto de Investigaciones Legislativas pasarán al Órgano para la Igualdad de Género, Prevención y Atención de la Violencia contra las Mujeres, que enuncia el presente Decreto.
+
+SEXTO. La persona titular de la Unidad de Igualdad de Género del Instituto de Investigaciones Legislativas del Poder Legislativo del Estado que se encuentre en funciones a la entrada en vigor del presente decreto desempeñará la titularidad del Órgano para la Igualdad de Género, Prevención y Atención de la Violencia contra las Mujeres del Poder Legislativo del estado de Quintana Roo, hasta que se realice la designación definitiva.
+
+Para lo anterior, la Comisión para la Igualdad de Género, deberá remitir al Pleno de la Legislatura una terna para designar a la persona titular del Órgano para la Igualdad de Género, Prevención y Atención de la Violencia contra las Mujeres del Poder Legislativo del estado de Quintana Roo, en la cual se incluirá a la titular del Órgano para la Igualdad de Género, Prevención y Atención de la Violencia contra las Mujeres del Poder Legislativo del estado de Quintana Roo, en funciones.
+
+SÉPTIMO. Todas las disposiciones de igual o menor jerarquía que contravengan el presente decreto quedarán derogadas.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 151 POR EL QUE SE REFORMA LA FRACCIÓN XXIII DEL ARTÍCULO 71 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO Y EL NUMERAL 23 DEL ARTÍCULO 4 DEL PÁRRAFO PRIMERO Y LAS FRACCIONES I Y II DEL ARTÍCULO 27 DEL REGLAMENTO DE COMISIONES DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
