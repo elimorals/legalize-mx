@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proteccion-civil-del-estado-de-quintana-roo-68914"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-01"
-last_updated: "2021-07-16"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Ley Publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 1 de junio del 2009.
 
@@ -729,9 +729,9 @@ Los Consejos Municipales son órganos de consulta y de coordinación de los gobi
 
 Los Sistemas Municipales de Protección Civil son parte del Sistema Estatal de la materia; sus respectivas estructuras serán determinadas tomando en consideración la densidad de población y la extensión del territorio del Municipio a que correspondan, la disponibilidad de los recursos humanos, materiales y financieros con que cada Ayuntamiento cuente, así como las necesidades operacionales que la propia estructura de los Sistemas Municipales y su inserción en el Sistema Estatal imponen, en términos de compatibilidad, en los aspectos de comunicación, suministro y envío-recepción de información y coordinación de acciones.
 
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-Los Cuerpos de Bomberos de los Municipios serán integrantes de la estructura de los Sistemas Municipales de Protección Civil que correspondan, formando parte del Sistema Estatal de protección Civil.
+Los Cuerpos de Bomberos de los Municipios, así como la persona que presida la Comisión de Seguridad Ciudadana, Policía Preventiva y Tránsito, Bomberos y Protección Civil, serán integrantes de la estructura de los Sistemas Municipales de Protección Civil que correspondan, formando parte del Sistema Estatal de Protección Civil.
 
 > <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
 
@@ -1788,3 +1788,13 @@ La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legi
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 138 POR EL QUE REFORMAN LA FRACCIÓN IX DEL ARTÍCULO 72 DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO Y El SEGUNDO PÁRRAFO DEL ARTÍCULO 40 DE LA LEY DE PROTECCÓN CIVIL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. Dentro de los 90 días naturales siguientes a la publicación del presente Decreto, los Ayuntamientos del Estado, deberán realizar las adecuaciones que correspondan a la reglamentación aplicable, a efecto de posibilitar el cumplimiento de las disposiciones a las que se refiere el presente Decreto.
