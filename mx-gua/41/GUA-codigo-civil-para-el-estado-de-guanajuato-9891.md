@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2023-10-24"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -2621,11 +2621,11 @@ Los hermanos y demás parientes colaterales, a que se refiere el artículo anter
 
 El adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen el padre y los hijos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### Art. 362.
 
-Los alimentos comprenden la comida, el vestido, la habitación, la asistencia en casos de enfermedad y las expensas necesarias para la educación obligatoria del alimentista.
+Los alimentos comprenden la comida, el vestido, la habitación, la atención médica, las expensas necesarias para la educación obligatoria y las demás necesidades básicas que el alimentista necesita para su subsistencia y manutención.
 
 > <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
@@ -17768,3 +17768,9 @@ P.O. 24 DE OCTUBRE DE 2023.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. El Poder Ejecutivo del Estado contará con un término de treinta días a partir de la publicación del presente decreto en el Periódico Oficial del Gobierno del Estado para la adecuación reglamentaria correspondiente.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 240 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 362 DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
