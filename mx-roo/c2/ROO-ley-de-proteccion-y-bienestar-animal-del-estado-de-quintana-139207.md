@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proteccion-y-bienestar-animal-del-estado-de-quintana-139
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2023-12-18"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número 133 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 25 de noviembre de 2019.
 
@@ -147,7 +147,9 @@ XIX. Campañas: Acción pública realizada de manera periódica por alguna autor
 
 XX. Certificados de Compra: Las constancias de venta expedidas por los comercios legalmente autorizados que se dedican a la enajenación de animales;
 
-XXI. Centros de Control Animal, Asistencia y Zoonosis: Los centros públicos municipales destinados para el depósito y/o sacrificio humanitario de animales abandonados o ferales, que pueden ofrecer los servicios de esterilización, orientación y clínica a los animales, a la ciudadanía que así lo requiera, centros antirrábicos y demás que realicen acciones análogas;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XXI. Centros de Control Animal, Asistencia y Zoonosis: Los centros públicos municipales destinados para el depósito y/o sacrificio humanitario de animales abandonados o ferales, que pueden ofrecer los servicios de esterilización, orientación y clínica a los animales, a la ciudadanía que así lo requiera, centros antirrábicos, Clínicas Veterinarias Públicas y demás que realicen acciones análogas;
 
 XXII. Crueldad: Acto de brutalidad, sádico o zoofílico contra cualquier animal, ya sea por acción directa, omisión o negligencia;
 
@@ -187,13 +189,17 @@ XXXIX. Trato Digno y Respetuoso: Las medidas que esta Ley y su reglamento, así 
 
 XL. Zoonosis: Enfermedad transmisible de los animales a los seres humanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 5.
 
-Son obligaciones de los habitantes del Estado:
+Son obligaciones de las personas habitantes del Estado:
 
 I. Proteger a los animales, garantizar su bienestar, brindarles atención, asistencia, auxilio, trato digno y respetuoso, velar por su desarrollo natural, salud y evitarles el abandono, maltrato, la crueldad, el sufrimiento y la zoofilia;
 
-II. Denunciar, ante las autoridades correspondientes cualquier irregularidad o violación a la presente Ley, en las que incurra cualquier persona o autoridad, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+II. Cuidar y velar por la observancia y aplicación de la presente Ley, denunciando, ante las autoridades correspondientes cualquier irregularidad o violación a la presente Ley, en las que incurra cualquier persona o autoridad, y
 
 III. Promover en su entorno familiar la cultura de la protección, atención y trato digno y respetuoso de los animales.
 
@@ -209,25 +215,29 @@ Asimismo, toda persona física o moral que maneje animales, tiene la obligación
 
 ### Capítulo II. De los Consejos Consultivos Ciudadanos Estatal y Municipales
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 8.
 
-El Gobierno del Estado a través de la Secretaría instalará el Consejo Consultivo Ciudadano para la Atención y Bienestar de los Animales en el Estado de Quintana Roo, el cual es un órgano de coordinación institucional y de participación y colaboración ciudadana, cuya finalidad principal es establecer acciones programáticas y fijar líneas de políticas zoológicas, ambientales y de sanidad, a efecto de garantizar el trato digno y respetuoso a los animales del Estado.
+El Gobierno del Estado a través de la Secretaría instalará el Consejo Consultivo Ciudadano para la Atención y Bienestar de los Animales en el Estado de Quintana Roo, el cual es un órgano de coordinación institucional y de participación y colaboración ciudadana, cuya finalidad principal es establecer acciones programáticas y fijar líneas de políticas zoológicas, ambientales y de sanidad, a efecto de garantizar el trato digno y respetuoso a los animales del Estado, así como realizar acciones de promoción en el fomento de la cultura, educación y programas en materia de protección y bienestar de los animales.
 
 El Consejo estará integrado por:
 
-I. Un representante de cada una de las Secretarías de Ecología y Medio Ambiente, Salud, Educación y de Seguridad Pública;
+I. Una persona representante de cada una de las Secretarías de Ecología y Medio Ambiente, Salud, Educación y de Seguridad Pública;
 
-II. Un representante del Instituto, de la Procuraduría, de la Fiscalía General del Estado y de la Coordinación Estatal de Protección Civil;
+II. Una persona representante del Instituto, de la Procuraduría, de la Fiscalía General del Estado y de la Coordinación Estatal de Protección Civil;
 
-III. Los Directores de Ecología y/o Protección Animal de los Municipios del Estado;
+III. Las personas titulares de las Direcciones de Ecología y/o Protección Animal de los Municipios del Estado;
 
-IV. Dos Médicos Veterinarios Zootecnistas, mismos que deberán contar con título y cédula profesional;
+IV. Dos personas Médicas Veterinarias Zootecnistas, mismas que deberán contar con título y cédula profesional;
 
-V. Dos representantes de las Asociaciones Protectoras de Animales legalmente constituidas y registradas en el padrón correspondiente, y
+V. Dos personas representantes de las Asociaciones Protectoras de Animales legalmente constituidas y registradas en el padrón correspondiente, y
 
-VI. Dos representantes de Asociaciones Protectoras de Animales Internacionales legalmente constituidas.
+VI. Dos personas representantes de Asociaciones Protectoras de Animales Internacionales legalmente constituidas.
 
-El cargo de integrante del Consejo será honorífico. En el caso de los integrantes a que se refieren las fracciones V y VI durarán en su encargo un período de 4 años, pudiendo ser designados para un mismo período adicional.
+El cargo de persona integrante del Consejo será honorífico. En el caso de las personas integrantes a que se refieren las fracciones V y VI durarán en su encargo un período de 4 años, pudiendo ser designados para un mismo período adicional.
+
+Cuando se estime necesario enriquecer o aclarar aspectos técnicos, administrativos o de cualquier otra naturaleza relacionados con los asuntos sometidos a la atención del Consejo Consultivo Ciudadano para la Atención y Bienestar de los Animales en el Estado de Quintana Roo, a solicitud de cualquiera de las personas integrantes de dicho Consejo se podrá invitar a sus sesiones a las personas legisladoras que corresponda de acuerdo a su materia, a las organizaciones o asociaciones de la sociedad civil, o a representantes de la ciudadanía en general, quienes participarán con voz pero sin voto.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
@@ -279,17 +289,25 @@ Las autoridades a las que esta Ley hace referencia, quedan obligadas a cumplir, 
 
 Las diversas instancias gubernamentales que actúen en programas específicos para el trato digno y respetuoso a los animales, deberán establecer la coordinación correspondiente para eficientar su actividad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 12.
 
-Corresponde al Titular del Poder Ejecutivo del Estado, el ejercicio de las siguientes facultades:
+Corresponde a la persona Titular del Poder Ejecutivo del Estado, el ejercicio de las siguientes facultades:
 
 I. Expedir el reglamento y demás disposiciones necesarias para el cumplimiento de la presente Ley;
 
 II. Celebrar convenios de coordinación con las autoridades federales y municipales para la vigilancia de las leyes y Normas Oficiales Mexicanas relacionadas con la materia de la presente Ley;
 
-III. Crear los instrumentos económicos adecuados de acuerdo a la medida presupuestaria, para fomentar actividades o proyectos referentes a la protección de los animales, y para el desarrollo, infraestructura y programas de educación, investigación y difusión en las materias de la presente Ley, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-IV. Las demás que le confiera esta Ley, su reglamento y ordenamientos jurídicos aplicables.
+III. Crear los instrumentos económicos adecuados de acuerdo a la medida presupuestaria, para fomentar actividades o proyectos referentes a la protección de los animales, y para el desarrollo, infraestructura y programas de educación, investigación y difusión en las materias de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+IV. Promover la participación ciudadana a través de sus órganos de representación ciudadana e instrumentos de participación, a fin de difundir la cultura y la protección a los animales; y
+
+V. Las demás que le confiera esta Ley, su reglamento y ordenamientos jurídicos aplicables.
 
 ###### Artículo 13.
 
@@ -363,9 +381,17 @@ III. Realizar programas de trato humanitario para el control de la sobrepoblaci�
 
 IV. Implementar y administrar el registro de laboratorios, instituciones científicas y académicas, vinculados con la investigación de animales en el Estado;
 
-V. Apoyar a la Secretaría en la promoción, información y difusión de la presente Ley para generar una cultura de protección, responsabilidad y de trato digno y respetuoso a los animales con el fin de generar mejoras en la salud pública, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-VI. Las demás que esta Ley y otros ordenamientos jurídicos aplicables le confieran.
+V. Apoyar a la Secretaría en la promoción, información y difusión de la presente Ley para generar una cultura de protección, responsabilidad y de trato digno y respetuoso a los animales con el fin de generar mejoras en la salud pública;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+VI. Promover, en coordinación con los municipios, el establecimiento de Clínicas Veterinarias Públicas, principalmente, de atención médica preventiva y, en caso de enfermedad, brindar tratamiento médico expedito avalado por un médico veterinario, para animales domésticos o de compañía en sus respectivas demarcaciones, cuyos servicios deberán otorgarse de manera gratuita o a bajo costo.
+
+Para efectos de lo dispuesto en el párrafo anterior, se podrán suscribir convenios con instituciones privadas, instituciones académicas tanto públicas como privadas, así como organizaciones sociales, a fin de reducir los costos de operación.
+
+VII. Las demás que esta Ley y otros ordenamientos jurídicos aplicables le confieran.
 
 ###### Artículo 16.
 
@@ -465,9 +491,21 @@ f. Remitir con auxilio de la autoridad de seguridad pública en el Municipio, a 
 
 g. Coadyuvar en el cumplimiento de las disposiciones de esta Ley.
 
-XVI. Expedir los reglamentos municipales y demás disposiciones legales conforme a lo dispuesto en esta Ley, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-XVII. Las demás que esta Ley, los reglamentos y demás ordenamientos jurídicos aplicables les confieran.
+XVI. Expedir los reglamentos municipales y demás disposiciones legales conforme a lo dispuesto en esta Ley;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XVII. Promover, en coordinación con las instancias estatales correspondientes, el establecimiento de Clínicas Veterinarias Públicas, principalmente, de atención médica preventiva y, en caso de enfermedad, brindar tratamiento médico expedito avalado por un médico veterinario, para animales domésticos o de compañía en sus respectivas demarcaciones, cuyos servicios, deberán otorgarse de manera gratuita o a bajo costo.
+
+Para efectos de lo dispuesto en el párrafo anterior, se podrán suscribir convenios con instituciones privadas, instituciones académicas, tanto públicas como privadas, así como organizaciones sociales, a fin de reducir los costos de operación.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XVIII. Promover la participación ciudadana a través de sus órganos de representación ciudadana e instrumentos de participación, a fin de difundir la cultura y la protección a los animales; y
+
+XIX. Las demás que esta Ley, los reglamentos y demás ordenamientos jurídicos aplicables les confieran.
 
 Cada Municipio contará con una Dirección de Ecología y/o Protección Animal encargada de velar por el cumplimiento de la presente Ley.
 
@@ -1498,3 +1536,19 @@ P.O. 18 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 130 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO; Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL DE ESTADO DE QUINTANA ROO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 194 POR EL QUE SE REFORMAN: LA FRACCIÓN XXI DEL ARTÍCULO 4; EL PRIMER PÁRRAFO Y LA FRACCIÓN II DEL ARTÍCULO 5; EL ARTÍCULO 8; EL PRIMER PÁRRAFO Y LA FRACCIÓN III DEL ARTÍCULO 12; LA FRACCIÓN V DEL ARTÍCULO 15; LA FRACCIÓN XVI DEL ARTÍCULO 20; Y SE ADICIONAN: UNA FRACCIÓN IV RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 12; LA FRACCIÓN VI RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 15; LAS FRACCIONES XVII Y XVIII RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 20; TODOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a lo establecido por el presente Decreto.
+
+TERCERO. Dentro de los 90 días naturales siguientes a la publicación del presente Decreto, el Poder Ejecutivo del Estado, deberá realizar las adecuaciones que correspondan a la reglamentación aplicable, a efecto de dar cumplimiento a su contenido.
+
+CUARTO. Dentro de los 60 días naturales siguientes a la publicación de las modificaciones a las disposiciones reglamentarias a las que se refiere el artículo anterior, los Ayuntamientos del Estado, realizarán las adecuaciones o adiciones reglamentarias que correspondan a su normatividad aplicable, a efecto de dar cumplimiento a lo establecido por el presente Decreto.
+
+QUINTO. La implementación de las acciones que resulten necesarias, derivado de la entrada en vigor del presente Decreto, deberán ser solventadas por las instancias públicas competentes, con cargo a los recursos financieros que les hayan sido asignados en el ejercicio fiscal del que se trate, de conformidad a lo establecido en las disposiciones normativas aplicables, sin menoscabo de las ampliaciones presupuestales que les sean autorizadas, cuando así resulte conducente.
+
+Lo anterior, sin perjuicio de establecer las medidas conducentes, para la implementación progresiva de las medidas a las que se refiere el presente Decreto, así como de la suscripción de convenios con instituciones privadas, instituciones académicas, tanto públicas como privadas, así como organizaciones sociales, a fin de reducir los costos de operación.
