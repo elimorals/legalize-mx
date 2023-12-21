@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-derechos-del-estado-de-quintana-roo-132199"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2023-12-15"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2018.
 
@@ -191,15 +191,37 @@ Por los servicios que preste la Secretaría de Gobierno, se causarán los derech
 
 CONCEPTO UMA
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-I. Apostillamiento de documentos 6.00
+I. Certificación de documentos
 
-II. Por análisis y calificación de documentos para Aspirante al ejercicio del Notariado 25.00
+a) Apostillamiento de documentos 6.00
 
-III. Por el examen para obtención de Patente de Notario Público 60.00
+b) Legalización de firmas 3.00
 
-IV. Por el examen para obtención de Nombramiento de Aspirante al ejercicio del Notariado 30.00
+II. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2023)
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+III. Por examen para el ejercicio de la Función Notarial:
+
+a) Examen de oposición para obtener
+
+la Patente de Notario Público Titular 60.00
+
+b) Examen para ser Notario Suplente 60.00
+
+IV. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2023)
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+V. Por la expedición de constancias notariales
+
+a) Vigencia en la función notarial 10.00
+
+b) Inexistencia de sanción por
+
+responsabilidad en la función notarial 10.00
 
 > <small>(REFORMADA [N. DE E. ANTES APARTADO B], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -213,9 +235,11 @@ Por los servicios que preste la Dirección General de Notarías, se causarán lo
 
 CONCEPTO UMA
 
-I. Por la expedición del segundo o ulterior testimonio
+(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023
 
-de Escrituras Públicas o Actas Notariales 30.00
+I. Por la expedición de testimonios de
+
+Escrituras Públicas o Actas Notariales 30.00
 
 II. Por la expedición de constancias 5.75
 
@@ -271,7 +295,7 @@ IX. Por certificación de otros actos. 1.15
 
 X. Por registro de Patente o Nombramiento de Notario Público 75.00
 
-XI. Por registro de Nombramiento de Aspirante al Ejercicio del Notariado 37.50
+XI. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2023)
 
 XII. Por registro de Convenio de Suplencia entre titulares 37.50
 
@@ -493,17 +517,17 @@ Los oficiales del Registro Civil que actúen sin que hayan sido cubiertos los de
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 24.
 
-En los casos de desastres naturales o programas de regularización como matrimonios colectivos a solicitud oficial de las autoridades o instituciones competentes, la Dirección General del Registro Civil del Estado, a través de la Secretaría, podrá subsidiar hasta el 100% de los derechos que causen las actas de Registro Civil.
+En los casos de desastres naturales, programas sociales o de regularización, a solicitud oficial de las autoridades o instituciones competentes, la Dirección General del Registro Civil del Estado, a través de la Secretaría, podrá subsidiar hasta el 100% de los derechos que causen las actas de Registro Civil.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-Durante las campañas realizadas por el Registro Civil con motivo de días conmemorativos, por la expedición de copia certificada del acta de nacimiento local, procederá la exención de su cobro.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
-
-Cuando se trate de personas de escasos recursos, previa aplicación del estudio socioeconómico correspondiente, se exentará del pago de derechos que se causen por la expedición de actas certificadas de nacimiento, matrimonio, divorcio, constancias de inexistencia de registro y rectificación y/o aclaración de actas con anotación marginal, siempre y cuando sea bajo el amparo de alguno de los programas institucionales a través de la Dirección General del Registro Civil o el Sistema Estatal para el Desarrollo Integral de la Familia.
+Cuando se trate de personas de escasos recursos, previa aplicación del estudio socioeconómico correspondiente, se exentará del pago de derechos que se causen por la expedición de actas certificadas de nacimiento, matrimonio, divorcio, defunción, constancias de inexistencia de registro y rectificación y/o aclaración de actas con anotación marginal, siempre y cuando sea bajo el amparo de alguno de los programas institucionales a través de la Dirección General del Registro Civil o el Sistema Estatal para el Desarrollo Integral de la Familia.
 
 ###### Artículo 25.
 
@@ -649,7 +673,9 @@ Los servicios que presta la Dirección General del Periódico Oficial del Estado
 
 CONCEPTO UMA
 
-I. Inserción de publicaciones
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023
+
+l. Servicio de publicación
 
 a) Edición ordinaria por página (tamaño de letra 10, interlineado 1.5) 9.00
 
@@ -657,7 +683,9 @@ a) Edición ordinaria por página (tamaño de letra 10, interlineado 1.5) 9.00
 
 b) Edición extraordinaria por página (tamaño de letra 10, interlineado 1.5) 12.00
 
-c) Gráficos, mapas, planos, croquis en ambas ediciones.
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023
+
+c) Anexo de Publicaciones en ambas Ediciones de tipo: Gráficos, mapas, planos, croquis.
 
 1. Carta, 215x280 mm 1.00
 
@@ -671,7 +699,17 @@ a) Ejemplar de hasta 8 hojas. 1.00
 
 b) Ejemplar de 9 hasta100 hojas. 1.50
 
-c) Ejemplar de más de 101 hojas. 4.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+c) Ejemplar de 101 hasta 500 hojas 3.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+d) Ejemplar de 501 hasta 1000 hojas 6. 00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+e) Ejemplar de 1001 hojas en adelante 9.00
 
 III. Otros servicios
 
@@ -687,7 +725,7 @@ b) Reinicio de funciones. 42.00
 
 c) Nombramiento de Notario Público Suplente o Auxiliar. 42.00
 
-d) Nombramiento de Aspirante al ejercicio del Notariado. 21.00
+d) (DEROGADO, P.O. 21 DE DICIEMBRE DE 2023)
 
 e) Cambio de domicilio. 32.00
 
@@ -1117,11 +1155,15 @@ Todos los servicios de control vehicular que proporcione la Secretaría causará
 
 CONCEPTO UMA
 
-I. Vehículos que se matriculen y registren en el Estado
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023
+
+l. Por solicitud de análisis y calificación de documentos de los vehículos que se matriculen e inscriban en el Registro Estatal Vehicular
 
 a) Automóviles y Camiones 2.30
 
-b) Motocicletas 1.15
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+b) Motocicletas, motocarro y/o mototaxi 1.15
 
 c) Bicicletas 0.58
 
@@ -1157,7 +1199,9 @@ a) Para automóviles, camionetas, camiones y autobuses 13.50
 
 b) Para remolques 6.25
 
-c) Para motocicletas 4.50
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+c) Para motocicletas, motocarro y/o mototaxi 4.50
 
 d) Para bicicletas de:
 
@@ -1225,17 +1269,31 @@ VIII. Por la búsqueda de registro vehicular en otras entidades federativas 2.00
 
 IX. Expedición de Constancia de Registro Vehicular. 3.00
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+X. Por solicitud de análisis y calificación
+
+de documentos para movimientos de baja y alta
+
+de vehículos que se encuentren inscritos
+
+en el Registro Estatal Vehicular. 1.0
+
 ###### Artículo 44.
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 45.
 
-La Secretaría, simultáneamente a la recaudación de los derechos comprendidos en el apartado B de la Sección Tercera, llevará el registro y control de vehículos, para lo cual deberá establecer y mantener actualizado el “Registro Estatal Vehicular” para su integración a la “Red Nacional del Sistema de Información Integral Tributaria” mediante la realización de las siguientes funciones:
+La Secretaría, simultáneamente a la recaudación de los derechos comprendidos en el artículo 43 de esta Ley, llevará el registro y control de vehículos, para lo cual deberá establecer y mantener actualizado el "Registro Estatal Vehicular'' para su integración a la "Red Nacional del Sistema de Información Integral Tributaria" mediante la realización de las siguientes funciones:
 
 I. Efectuar los trámites de altas, bajas, cambios y rectificaciones que procedan en el registro, conforme a lo dispuesto en el reglamento del Código.
 
-II. Realizar actos de verificación y comprobación para mantener actualizado el registro del Estado, conforme a los lineamientos y normatividad correspondientes. Para estos efectos la Secretaría solicitará el apoyo de la Secretaría de Seguridad Pública o a las Corporaciones de Tránsito Municipal, así como para retirar de la circulación a aquellos vehículos cuyos propietarios o poseedores no comprueben el pago de los derechos por servicios de tránsito a que se refiere este capítulo, previo levantamiento del acta de embargo correspondiente, en la que se designe a dicha autoridad con el carácter de depositaria.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+II. Realizar actos de verificación y comprobación para mantener actualizado el registro del Estado, conforme a los lineamientos y normatividad correspondientes. Para estos efectos la Secretaría solicitará el apoyo de la Secretaría de Seguridad Ciudadana o a las Corporaciones de Tránsito Municipal, así como para retirar de la circulación a aquellos vehículos cuyos propietarios o poseedores no comprueben el pago de los derechos por servicios de tránsito a que se refiere este capítulo, previo levantamiento del acta de embargo correspondiente, en la que se designe a dicha autoridad con el carácter de depositaria.
 
 III. Recibir y en su caso requerir los avisos, manifestaciones y demás documentos, que conforme al reglamento del Código deban presentarse.
 
@@ -1246,6 +1304,12 @@ V. Informar a la Secretaría de Hacienda y Crédito Público de los movimientos 
 ###### Artículo 46.
 
 Los contribuyentes tendrán la obligación de efectuar los trámites de altas, bajas, cambios y rectificaciones que procedan en el registro, conforme a lo dispuesto en el Reglamento del Código.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 46
+
+Bis. Por la expedición de la constancia de validación de avalúos realizados en términos del artículo 24 de la Ley de Hacienda del Estado de Quintana Roo, se causará un derecho con una tarifa de 2.0 UMA.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -1289,7 +1353,7 @@ III. Por el análisis y calificación de documentos para la modificación o canc
 
 #### SECCIÓN SÉPTIMA. SERVICIOS DE ALMACENAJE
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 50.
 
@@ -1731,7 +1795,7 @@ Estarán exentos del pago de este derecho los visitantes nacionales y extranjero
 
 ###### Artículo 51
 
-Ter. Por el almacenaje a que se refieren el último párrafo de los artículos 184 y 192, así como el tercer párrafo del artículo 192-Bis del Código Fiscal del Estado de Quintana Roo, se estará obligado al pago del derecho de almacenaje, conforme a las disposiciones establecidas en esta Sección, el que se causará a partir de la fecha en que se hubieran puesto los bienes a disposición del adquirente o del embargado, según corresponda.
+Ter. Por el almacenaje a que se refieren el último párrafo de los artículos 184 y 192, así como el tercer párrafo del artículo 192-Bis del Código, se estará obligado al pago del derecho de almacenaje, conforme a las disposiciones establecidas en esta Sección, el que se causará a partir de la fecha en que se hubieran puesto los bienes a disposición del adquirente o del embargado, según corresponda.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
@@ -1751,11 +1815,11 @@ Sexies. (DEROGADO, P.O. 22 DE DICIEMBRE DE 2021)
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
+#### SECCIÓN DÉCIMA. DEL DERECHO A LOS PASAJEROS DE CRUCEROS
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
 #### SECCIÓN PRIMERA. DE LA SECRETARÍA DE DESARROLLO TERRITORIAL URBANO SUSTENTABLE
-
-#### SECCIÓN SEGUNDA. DE LA CONSTANCIA DE COMPATIBILIDAD TERRITORIAL
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 51
 
@@ -1767,9 +1831,9 @@ l. Gestión y trámite para la expedición de Pasaporte. 4.00
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
-#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE ECOLOGÍA Y MEDIO AMBIENTE
+#### SECCIÓN SEGUNDA. DE LA CONSTANCIA DE COMPATIBILIDAD TERRITORIAL
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 51
 
@@ -1787,19 +1851,47 @@ El derecho previsto en este artículo deberá ser enterado en los medios autoriz
 
 Estarán exentos del pago de los derechos a que se refiera el presente artículo, las personas visitantes extranjeras que ingresen al Estado de Quintana Roo por la frontera sur de la Entidad.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE ECOLOGÍA Y MEDIO AMBIENTE
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 51
+
+Nonies. Los pasajeros de cruceros turísticos cuya embarcación ingrese en algún puerto del Estado, deberán pagar en el momento de adquirir su pasaje, un derecho por el uso y goce de los bienes del dominio público del Estado, con una tarifa de cinco dólares de los EE.UU., en su equivalente en moneda nacional al tipo de cambio vigente en la fecha de adquisición del pasaje.
+
+El derecho previsto en este artículo deberá ser cobrado y retenido por las empresas navieras u operadoras de embarcaciones que se dediquen a la actividad de cruceros turísticos en el momento de adquisición del pasaje y será enterado por sí o a través de sus agentes consignatarios, en los medios autorizados por la Secretaría a través del SATQ.
+
+En caso de que los pasajeros de cruceros turísticos cuya embarcación ingrese a dos o más puertos del Estado para el uso y goce de los bienes del dominio público del Estado, durante la misma travesía turística, el derecho se causará sólo por el primer ingreso.
+
+Estarán exentos del pago de los derechos a que se refiere el presente artículo, los miembros de la tripulación.
+
+El acreditamiento del pago de este derecho exime a los pasajeros de cruceros turísticos de pagar el derecho previsto en el artículo 51-Octies de esta Ley.
+
+Los ingresos que se obtengan por la recaudación de este derecho en cada ejercicio fiscal, serán administrados a través de fideicomisos sin estructura, con las aportaciones siguientes:
+
+l. FONDO PARA LA ATENCIÓN DE DESASTRES NATURALES: 30% del total de lo aprobado por concepto de este derecho en la Ley de Ingresos del ejercicio fiscal que corresponda.
+
+II. FIDEICOMISO PARA LA INFRAESTRUCTURA TURÍSTICA: 70% del total de lo aprobado por concepto de este derecho en la Ley de Ingresos del ejercicio fiscal que corresponda.
+
+Al patrimonio del fideicomiso se le sumarán los recursos autorizados en el Presupuesto de Egresos del Gobierno del Estado en el ejercido fiscal correspondiente, en cantidad igual al porcentaje previsto en esta fracción.
+
+III. PARTICIPACIÓN A LOS MUNICIPIOS. Los Municipios de Cozumel y Othón P. Blanco participarán de la recaudación por este derecho en los términos previstos en los convenios de coordinación y colaboración administrativa, conforme a lo dispuesto en el artículo 39 de la Ley de Coordinación Fiscal del Estado de Quintana Roo.
+
+La participación a los Municipios que se adhieran al Sistema Estatal de Coordinación Fiscal, en términos de lo previsto en el artículo 23-Ter de la Ley de Coordinación Fiscal del Estado de Quintana Roo, se calculará previo a la determinación de los porcentajes a que se refieren las fracciones l y II de este artículo.
+
 > <small>(REFORMADO [N. DE E. ANTES SECCIÓN CUARTA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 #### SECCIÓN SEGUNDA. DEL INSTITUTO DE BIODIVERSIDAD Y ÁREAS NATURALES PROTEGIDAS
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
+### CAPÍTULO IV. DE LA SECRETARÍA DE OBRAS PÚBLICAS
+
 #### SECCIÓN TERCERA. DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
-
-### CAPÍTULO IV. DE LA SECRETARÍA DE OBRAS PÚBLICAS
-
-#### SECCIÓN SÉPTIMA. SECRETARÍA DE DESARROLLO ECONÓMICO
 
 ###### Artículo 52.
 
@@ -1875,87 +1967,207 @@ Inmobiliario 15.00
 
 > <small>(REFORMADA [N. DE E. ANTES APARTADO A], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN OCTAVA. SECRETARÍA DE TRABAJO Y PREVISIÓN SOCIAL
+#### SECCIÓN SÉPTIMA. SECRETARÍA DE DESARROLLO ECONÓMICO
 
 ###### Artículo 54.
 
-Por el análisis y calificación de proyectos para la expedición de la Constancia de Compatibilidad Territorial a que se refieren los artículos 80 y 81 de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo, se causarán derechos de conformidad con la tarifa siguiente:
+Por el análisis y calificación de proyectos para la expedición de la Constancia de Congruencia Urbanística Estatal a que se refieren los artículos 80 y 81 de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo, se causarán derechos de conformidad con la tarifa siguiente:
 
-CONCEPTO DE CONSTANCIA UMA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-I. Constancia de Compatibilidad Territorial en modalidad de Dictamen de Impacto Territorial para construcción o ampliación de vialidades regionales, metropolitanas u otros componentes de la infraestructura para la movilidad que comuniquen a más de un municipio: 0.2% del presupuesto de obras.
+CONCEPTO UMA
 
-II. Constancia de Compatibilidad Territorial en modalidad de Dictamen de Impacto Territorial para Vialidades Primarias, tales como periféricos y libramientos: 0.2 % del presupuesto de la obra.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-III. Constancia de Compatibilidad Territorial en modalidad de Dictamen de Impacto Territorial para centrales de carga, terminales multimodales, centrales de autobuses, ferrocarriles, aeropuertos:
+l. Constancia de Congruencia Urbanística Estatal en modalidad de Dictamen de Impacto Territorial para construcción o ampliación de vialidades regionales, metropolitanas u otros componentes de la infraestructura para la movilidad que comuniquen a más de un municipio: 0.2% del presupuesto de obras.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+II. Constancia de Congruencia Urbanística Estatal en modalidad de Dictamen de Impacto Territorial para Vialidades Primarias, tales como periféricos y libramientos: 0.2 % del presupuesto de la obra
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+III. Constancia de Congruencia Urbanística Estatal en modalidad de Dictamen de Impacto Territorial para centrales de carga, terminales multimodales, centrales de autobuses, ferrocarriles, aeropuertos:
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 a) Por metro cuadrado de superficie de construcción: 0.40
 
-IV. Constancia de Compatibilidad Territorial en modalidad de Dictamen de Impacto Territorial para plantas de almacenamiento y venta de combustibles para servicio público o privado: Por m2 de superficie de terreno: 0.50
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-V. Constancia de Compatibilidad Territorial para equipamiento institucional educativo, de salud, abasto o mercado, religioso o recreación, mayores de 1,500 m2 de construcción o mayores de 2,500 m2 de superficie; por m2 de superficie de construcción 0.30
+IV. Constancia de Congruencia Urbanística Estatal
 
-VI. Constancia de Compatibilidad Territorial para todas las acciones urbanísticas mayores de 2,500 m2 de superficie o de 1,500 m2 de construcción, a excepción de lo dispuesto en las fracciones V y VIII del presente artículo:
+en modalidad de Dictamen de Impacto Territorial
+
+para plantas de almacenamiento y venta de
+
+combustibles para servicio público o privado:
+
+Por m2 de superficie de terreno: 0.50
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+V. Constancia de Congruencia Urbanística
+
+Estatal para equipamiento institucional educativo, de salud,
+
+abasto o mercado, religioso o recreación,
+
+mayores de 1,500 m2 de construcción o
+
+mayores de 2,500 m2 de superficie; por m2
+
+de superficie de construcción: 0.30
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+VI. Constancia de Congruencia Urbanística Estatal para todas las acciones urbanísticas mayores de 2,500 m2 de superficie o de 1,500 m2 de construcción, a excepción de lo dispuesto en las fracciones V y VIII del presente artículo:
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 a) Por m2 de superficie de construcción para categoría económica y popular: 0.30
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 b) Por m2 de superficie de construcción para categoría tradicional y media: 0.60
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 c) Por m2 de superficie de construcción para categoría residencial y comercial: 0.75
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 d) Por m2 de superficie de construcción para categoría residencial plus: 0.90
 
-VII. Constancia de Compatibilidad Territorial para zonificación incluyente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+VII. Constancia de Congruencia Urbanística Estatal para zonificación incluyente:
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 a) Por m2 de superficie de terreno: 0.03
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 b) Predios de 50 a 99 hectáreas: 0.02
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 c) Predios a partir de 100 hectáreas por m2: 0.01
 
-VIII. Constancia de Compatibilidad Territorial para Acciones Urbanísticas en modalidad de Hoteles mayores de 1,200 m2 de superficie de construcción:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+VIII. Constancia de Congruencia Urbanística Estatal para Acciones Urbanísticas en modalidad de Hoteles mayores de 1,200 m2 de superficie de construcción:
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 a) Por m2 de superficie de construcción para hotel de 1 a 2 estrellas, categoría económica: 0.45
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 b) Por m2 de superficie de construcción para hotel de 3 estrellas, categoría media: 0.75
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 c) Por m2 de superficie de construcción para hotel de 4 estrellas, categoría alta: 0.90
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 d) Por m2 de superficie de construcción para hotel de 5 estrellas o más, categoría: 1.05
 
-IX. Constancia de Compatibilidad Territorial para industrias de cualquier tipo, por m2 de superficie de construcción: 0.40
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-X. Constancia de Compatibilidad Territorial para relotificación, parcelación o subdivisión de terrenos con superficies igual o mayor a los 5,500 m2 por fracción resultante: 12.00
+IX. Constancia de Congruencia Urbanística Estatal
 
-XI. Constancia de Compatibilidad Territorial para fusión de terrenos con superficie resultante igual o mayor a los 5,000 m2: 12.00
+para industrias de cualquier tipo, por m2
 
-XII. Constancia de Compatibilidad Territorial para Fraccionamientos o Conjuntos Urbanos
+de superficie de construcción: 0.40
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+X. Constancia de Congruencia Urbanística
+
+Estatal para relotificación, parcelación o
+
+subdivisión de terrenos con superficies igual o
+
+mayor a los 5,500 m2, por fracción resultante: 12.00
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XI. Constancia de Congruencia Urbanística Estatal
+
+para fusión de terrenos con superficie resultante
+
+igual o mayor a los 5,000 m2: 12.00
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XII. Constancia de Congruencia Urbanística Estatal para Fraccionamientos o Conjuntos Urbanos
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 a) Fraccionamientos o Conjuntos Urbanos en cualquiera de sus modalidades (m2 de superficie de vialidad): 0.5% del presupuesto de las obras de urbanización según los m2 de la superficie de vialidad.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 b) En el caso de modificación del Fraccionamiento o Conjunto Urbano, este derecho será adicional al presupuesto de obras de urbanización que se incrementen: 40.00
 
-XIII. Constancia de Compatibilidad Territorial para construcción o modificación de Régimen de Propiedad en Condominio:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XIII. Constancia de Congruencia Urbanística Estatal para constitución o modificación de Régimen de Propiedad en Condominio:
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 a) Por cada Unidad en el caso de desarrollos habitacionales de categoría económica y popular: 16.00
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 b) Por cada Unidad en el caso de desarrollos habitacionales de categoría tradicional y media: 24.00
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 c) Por cada Unidad en el caso de desarrollo habitacionales de categoría residencial y residencial plus: 48.00
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 d) Por cada Unidad comercial: 52.00
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 e) En el caso de modificación de Régimen de Propiedad en Condominio, este derecho será adicional al de las unidades de propiedad exclusiva que se incrementen: 40.00
 
-XIV. Constancia de Compatibilidad Territorial para modificación, demolición o ampliación de inmuebles de patrimonio cultural: Por m2 de la superficie de construcción: 0.40
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-XV. Constancia de Compatibilidad Territorial en modalidad de Dictamen de Impacto Territorial para Bancos de Extracción de Materiales Pétreos; por m2 de superficie de terreno: 0.05
+XIV. Constancia de Congruencia Urbanística
 
-XVI. Constancia de Compatibilidad Territorial en modalidad de Dictamen de Impacto Territorial para proyectos de vivienda que tengan más de 15,000 m2 de construcción.
+Estatal para modificación, demolición o ampliación
+
+de inmuebles de patrimonio cultural:
+
+Por m2 de la superficie de construcción: 0.40
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XV. Constancia de Congruencia Urbanística
+
+Estatal en modalidad de Dictamen de Impacto
+
+Territorial para Bancos de Extracción de
+
+Materiales Pétreos; por m2 de superficie de terreno: 0.05
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XVI. Constancia de Congruencia Urbanística Estatal en modalidad de Dictamen de Impacto Territorial para proyectos de vivienda que tengan más de 15,000 m2 de construcción.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 a) Para Fraccionamientos o Conjuntos Urbanos:
 
 1. 0.5% del presupuesto de las obras de urbanización según los m2 de superficie de vialidad.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 b) Para constitución de Régimen de Propiedad en Condominio:
 
@@ -1967,17 +2179,69 @@ b) Para constitución de Régimen de Propiedad en Condominio:
 
 4. Por Unidad privativa para categoría comercial: 52.00
 
-XVII. Constancia de Compatibilidad Territorial en modalidad de Dictamen de Impacto Territorial para proyectos que incluyan oficinas, comercios o servicios, por más de 4,500 m2 de construcción: Por m2 de superficie de construcción: 0.90
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-XVIII. Constancia de Compatibilidad Territorial en modalidad de Dictamen de Impacto Territorial para establecimientos mercantiles en los que se pretenda preponderantemente la venta de artículos que conforman la canasta de productos básicos, bajo el sistema de autoservicio, de más de 900 m2 de construcción, por m2 de superficie de construcción: 0.50
+XVII. Constancia de Congruencia Urbanística Estatal en
 
-XIX. Constancia de Compatibilidad Territorial en modalidad de Dictamen de Impacto Territorial para industrias de más de 3,000 m2 de superficie de construcción, por m2 de superficie de construcción 0.50
+modalidad de Dictamen de Impacto Territorial
 
-XX. Constancia de Compatibilidad Territorial en modalidad de Dictamen de Impacto Territorial para equipamiento institucional educativo, de salud, abasto o mercado, recreación que brinden servicios regionales o que supongan edificaciones mayores a 4,500 m2 de superficie de construcción: 0.45
+para proyectos que incluyan oficinas, comercios o
+
+servicios, por más de 4,500 m2 de construcción:
+
+Por m2 de superficie de construcción: 0.90
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XVIII. Constancia de Congruencia Urbanística Estatal
+
+en modalidad de Dictamen de Impacto Territorial para
+
+establecimientos mercantiles en los que se
+
+pretenda preponderantemente la venta de artículos que
+
+conforman la canasta de productos básicos, bajo el
+
+sistema de autoservicio, de más de 900 m2 de
+
+construcción, por m2 de superficie de construcción: 0.50
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XIX. Constancia de Congruencia Urbanística Estatal
+
+en modalidad de Dictamen de Impacto Territorial para
+
+industrias de más de 3,000 m2 de superficie de
+
+construcción, por m2 de superficie de construcción: 0.50
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XX. Constancia de Congruencia Urbanística Estatal
+
+en modalidad de Dictamen de Impacto Territorial para
+
+equipamiento institucional educativo, de salud,
+
+abasto o mercado, recreación que brinden servicios
+
+regionales o que supongan edificaciones
+
+mayores a 4,500 m2 de superficie deconstrucción (sic); 0.45
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 Todos los demás causarán derechos conforme a lo establecido en la fracción XVII del presente artículo.
 
-XXI. Constancia de Compatibilidad Territorial en modalidad de Dictamen de Impacto Territorial por densificación urbana:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XXI. Constancia de Congruencia Urbanística Estatal en modalidad de Dictamen
+
+de Impacto Territorial por densificación urbana.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 a) Hoteles:
 
@@ -1991,6 +2255,8 @@ a) Hoteles:
 
 Este derecho será adicional al derecho causado por las viviendas permitidas de acuerdo al uso de suelo correspondiente, independientemente de las medidas de mitigación y/o compensación que resultaren.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 b) Habitacional:
 
 1. Por vivienda densificada para categoría económica y popular: 50.00
@@ -2001,9 +2267,15 @@ b) Habitacional:
 
 4. Por vivienda densificado para residencial plus: 400.00
 
-XXII. Por reposición de la Constancia de Compatibilidad Territorial (Constancia de Compatibilidad Urbana): 45.00
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-Las dependencias y entidades de la administración pública paraestatal, estarán exentas del pago de los derechos previstos en este artículo, cuando realicen obra pública.
+XXII. Por reposición de la Constancia de Congruencia
+
+Urbanística Estatal (Constancia de Compatibilidad Urbana): 45.00
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+Las dependencias y entidades de la administración pública paraestatal, estarán exentas del pago de los derechos previstos en este artículo.
 
 > <small>(REFORMADO [N. DE E. ANTES SECCIÓN QUINTA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -2039,9 +2311,7 @@ Contratistas del Estado de Quintana Roo. 10.00
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE EDUCACIÓN
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+#### SECCIÓN OCTAVA. SECRETARÍA DE TRABAJO Y PREVISIÓN SOCIAL
 
 ###### Artículo 56.
 
@@ -2115,45 +2385,165 @@ I. Por concepto de recepción y evaluación en materia de impacto ambiental como
 
 a) Evaluación y Resolución de la Manifestación de Impacto Ambiental modalidad Ordinaria, de acuerdo a lo siguiente:
 
-1. De 0.1 a 3 hectáreas: 350.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-2. De 3.1 a 5 hectáreas: 400.00
+1. Menor o igual a 3 hectáreas. 350.00
 
-3. De 5.1 hectáreas en adelante: 450.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+2. Mayor a 3 y menor o igual a 5 hectáreas. 400.00
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+3. Mayor a 5 y menor o igual a 10 hectáreas. 450.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+4. Mayor a 10 y menor o igual a 15 hectáreas. 500.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+5. Mayor a 15 y menor o igual a 20 hectáreas. 550.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+6. Mayor a 20 y menor o igual a 30 hectáreas. 650.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+7. Mayor a 30 y menor o igual a 40 hectáreas. 750.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+8. Mayor a 40 y menor o igual a 50 hectáreas. 850.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+9. Mayor a 50 hectáreas. 950.00
 
 b) Evaluación y Resolución de la Manifestación de Impacto Ambiental, modalidad Detallada, de acuerdo a lo siguiente:
 
-1. De 0.1 a 3 hectáreas: 400.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-2. De 3.1 a 5 hectáreas: 450.00
+1. Menor o igual a 3 hectáreas. 400.00
 
-3. De 5.1 hectáreas en adelante: 500.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+2. Mayor a 3 y menor o igual a 5 hectáreas. 450.00
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+3. Mayor a 5 y menor o igual a 10 hectáreas. 500.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+4. Mayor a 10 y menor o igual a 15 hectáreas. 550.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+5. Mayor a 15 y menor o igual a 20 hectáreas. 600.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+6. Mayor a 20 y menor o igual a 30 hectáreas. 700.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+7. Mayor a 30 y menor o igual a 40 hectáreas. 800.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+8. Mayor a 40 y menor o igual a 50 hectáreas. 900.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+9. Mayor a 50 hectáreas. 1000.00
 
 c) Evaluación y Resolución de la Manifestación de Impacto Ambiental, que identifique los impactos negativos generados al ambiente y establezca las medidas para mitigar, rehabilitar y compensar dichos impactos, de acuerdo a lo siguiente:
 
-1. De 0.1 a 3 hectáreas: 500.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-2. De 3.1 a 5 hectáreas: 550.00
+1. Menor o igual a 3 hectáreas. 500.00
 
-3. De 5.1 hectáreas en adelante: 580.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+2. Mayor a 3 y menor o igual a 5 hectáreas. 550.00
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+3. Mayor a 5 y menor o igual a 10 hectáreas. 600.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+4. Mayor a 10 y menor o igual a 15 hectáreas. 650.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+5. Mayor a 15 y menor o igual a 20 hectáreas. 700.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+6. Mayor a 20 y menor o igual a 30 hectáreas. 800.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+7. Mayor a 30 y menor o igual a 40 hectáreas. 900.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+8. Mayor a 40 y menor o igual a 50 hectáreas. 1000.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+9. Mayor a 50 hectáreas. 1100.00
 
 d) Evaluación y Resolución del Informe Preventivo en materia de impacto ambiental, de acuerdo a lo siguiente:
 
-1. De 0.1 a 3 hectáreas: 200.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-2. De 3.1 a 5 hectáreas: 225.00
+1. Menor o igual a 3 hectáreas. 200.00
 
-3. De 5.1 hectáreas en adelante: 250.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-e) Evaluación y resolución del Informe Preventivo en materia de Impacto Ambiental para el aprovechamiento de materiales pétreos, de acuerdo a lo siguiente:
+2. Mayor a 3 y menor o igual a 5 hectáreas. 225.00
 
-1. De 0.1 a 3 hectáreas: 400.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-2. De 3.1 a 5 hectáreas: 450.00
+3. Mayor a 5 y menor o igual a 10 hectáreas. 250.00
 
-3. De 5.1 a 10 hectáreas: 500.00
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-4. Mayores a 10.1 hectáreas: 600.00
+4. Mayor a 10 y menor o igual a 15 hectáreas. 275.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+5. Mayor a 15 y menor o igual a 20 hectáreas. 300.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+6. Mayor a 20 y menor o igual a 30 hectáreas. 350.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+7. Mayor a 30 y menor o igual a 40 hectáreas. 400.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+8. Mayor a 40 y menor o igual a 50 hectáreas. 450.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+9. Mayor a 50 hectáreas. 500.00
+
+e) (DEROGADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)
+
+1. (DEROGADO, P.O. 21 DE DICIEMBRE DE 2023)
+
+2. (DEROGADO, P.O. 21 DE DICIEMBRE DE 2023)
+
+3. (DEROGADO, P.O. 21 DE DICIEMBRE DE 2023)
+
+4. (DEROGADO, P.O. 21 DE DICIEMBRE DE 2023)
 
 f) Análisis y resolución de la modificación de proyectos en materia de Impacto Ambiental 150.00
 
@@ -2175,6 +2565,22 @@ b) Análisis y resolución de la modificación del Estudio de Riesgo Ambiental y
 
 Tratándose del inciso h) fracción I de este artículo, estarán exentos del pago de los derechos, cuando el servicio sea requerido por la federación, estado y municipios.
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+III. Análisis y Evaluación de los proyectos
+
+aprobados en materia de impacto y Riesgo Ambiental
+
+para realizar el cambio de titularidad. 150.00
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+Estarán exentos del pago de los derechos, cuando el servicio sea requerido por la Federación, Estado y Municipios.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+Las manifestaciones de impacto ambiental a que hace referencia esta sección deberán ser adjuntadas al instrumento notarial al momento de su inscripción al Registro Público de la Propiedad y del Comercio del Estado.
+
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 58.
@@ -2185,23 +2591,83 @@ CONCEPTO UMA
 
 I. Por los servicios relacionados con la materia de Prevención y Control de la Contaminación Ambiental como a continuación se indica:
 
-a) Certificación inicial anual de vehículo automotor para el Transporte de Aguas Residuales y Aguas Residuales Tratadas 70.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-b) Refrendo anual de la certificación del vehículo automotor para el Transporte de Aguas Residuales y Aguas Residuales Tratadas 40.00
+a) Por análisis y verificación documental para acreditar el Permiso Anual para el vehículo automotor para el Transporte de Aguas Residuales y Aguas Residuales Tratadas
 
-c) Por solicitud extemporánea del refrendo anual de la certificación del vehículo automotor para el transporte de aguas residuales y aguas residuales tratadas 60.00
+1. Aguas de tipo especial 50.00
 
-d) Por análisis y resolución de la Cédula de Desempeño Ambiental, que opera de acuerdo a la Licencia de Funcionamiento Ambiental 300.00
+2. Aguas azules 40.00
 
-e) Por refrendo y resolución de la Cédula de Desempeño Ambiental, que opera de acuerdo a la Licencia de Funcionamiento Ambiental 150.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+b) Por análisis y verificación documental para acreditar el Refrendo Anual del Permiso del vehículo automotor para el Transporte de Aguas Residuales y Aguas Residuales Tratadas
+
+1. Aguas de tipo especial 30.00
+
+2. Aguas azules 25.00
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+c)·Por análisis y verificación documenta! para acreditar el Refrendo Extemporáneo Anual del Permiso del vehículo automotor para el Transporte de Aguas Residuales y Aguas Residuales Tratadas.
+
+1. Aguas de tipo especial 80.00
+
+2. Aguas azules 70.00
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+d) Por análisis y resolución de la Cédula de Desempeño Ambiental, que opera de acuerdo a la Licencia de Funcionamiento Ambiental 150.00
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+e) Por refrendo y resolución de la Cédula de Desempeño Ambiental, que opera de acuerdo a la Licencia de Funcionamiento Ambiental 75.00
 
 f) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2021)
 
 g) Por solicitud extemporánea del refrendo de la Cédula de Desempeño Ambiental que opera de acuerdo a la Licencia de Funcionamiento ambiental 200.00
 
-h) Inscripción al Padrón de Prestadores de Servicios en Materia de Prevención y Control de la Contaminación Ambiental 100.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-i) Refrendo anual al Padrón de Prestadores de Servicios en Materia de Prevención y Control de la Contaminación Ambiental 80.00
+h) Por análisis y calificación documental para
+
+acreditar la inscripción al Registro Estatal de
+
+Prestadores de Servicios en Materia de Prevención y
+
+Control de la Contaminación. 50.00
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+i) Por análisis y calificación documental para acreditar el
+
+Refrendo Anual del Registro Estatal de Prestadores de
+
+Servicios en Materia de Prevención y
+
+Control de la Contaminación Ambiental. 40.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+j) Por verificación de las instalaciones de los
+
+establecimientos para exceptuar la Cédula de
+
+Desempeño Ambiental, que opera de acuerdo a
+
+la Licencia de Funcionamiento Ambiental. 120.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+k) Por análisis y evaluación del cumplimiento
+
+documental para el otorgamiento del cambio de
+
+titular de la Cédula de Desempeño Ambiental,
+
+que opera de acuerdo a la Licencia
+
+de Funcionamiento Ambiental. 80.00
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -2245,11 +2711,31 @@ b) Tipo "B" aquellos que ocupan una superficie mayor o igual a 200 m2 y menor a 
 
 c) Tipo "C" aquellos que ocupan una superficie mayor a 600 m2. 55.00
 
-XII. Por análisis y calificación para la inscripción y refrendo anual al Padrón de Recolección y Transporte de Residuos Sólidos Urbanos y de Manejo Especial 38.17
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XII. Por análisis y calificación de documentos para
+
+la inscripción y refrendo anual por vehículo, al Padrón
+
+de Recolección y Transporte de Residuos de Manejo
+
+Especial con capacidad de 1 a 7 toneladas (redilas, pickup) 34.58
 
 XIII. Por el análisis y resolución derivado de la verificación de las instalaciones de los establecimientos que soliciten la exención a presentar plan de manejo bajo el esquema de gran generador de residuos sólidos urbanos (27.3 k/día) o generador de residuos de manejo especial 72.00
 
 XIV. Por análisis y resolución del Informe y Bitácora Anual del Plan de Manejo de Residuos de Competencia Estatal 50.00
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XV. Por análisis y calificación de documentos para la
+
+inscripción y refrendo anual por vehículo, al Padrón
+
+de Recolección y Transporte de Residuos de Manejo
+
+Especial con capacidad de 8 toneladas en adelante
+
+(rabones, volquetes, trailers, camiones de dos y tres ejes). 57.87
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -2265,7 +2751,9 @@ II. Análisis y calificación para emitir la congruencia de uso de suelo de los 
 
 > <small>(REFORMADA [N. DE E. ANTES APARTADO A], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SEGUNDA. DEL REGISTRO DE TÍTULOS PROFESIONALES
+#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE EDUCACIÓN
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 61.
 
@@ -2373,9 +2861,13 @@ III. RESERVA ECOLÓGICA ESTATAL “LAGUNA MANATÍ”.
 
 1. Admisión
 
-a) Nacionales (Excepto quintanarroenses) 0.2302
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-b) Extranjeros. 0.5755
+a) Nacionales (Excepto quintanarroenses) 0.3102
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+b) Extranjeros .0.7055
 
 c) Menores de 8 años, mayores de 65 años y personas con discapacidad. EXENTO
 
@@ -2391,9 +2883,13 @@ IV. SANTUARIO DEL MANATI (BAHÍA DE CHETUMAL).
 
 1. Admisión
 
-a) Nacionales (Excepto quintanarroenses) 0.2302
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-b) Extranjeros. 0.5755
+a) Nacionales (Excepto quintanarroenses) 0.3102
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+b) Extranjeros. 0.7055
 
 c) Menores de 8 años, mayores de 65 años y personas con discapacidad. EXENTO
 
@@ -2411,9 +2907,13 @@ V. PARQUE LAGUNA DE BACALAR.
 
 1. Admisión
 
-a) Nacionales (Excepto quintanarroenses) 0.2302
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-b) Extranjeros. 0.5755
+a) Nacionales (Excepto quintanarroenses) 0.3102
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+b) Extranjeros. 0.7055
 
 c) Menores de 8 años. Mayores de 65 años y personas con discapacidad. EXENTOS
 
@@ -2427,7 +2927,7 @@ c) Servicio público/Vans. 0.5755
 
 > <small>(REFORMADO [N. DE E. ANTES APARTADO B], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN ÚNICA. EN HOSPITALES Y JURISDICCIONES SANITARIAS
+#### SECCIÓN SEGUNDA. DEL REGISTRO DE TÍTULOS PROFESIONALES
 
 ###### Artículo 62.
 
@@ -2437,19 +2937,21 @@ I. Por concepto de recepción y evaluación de los documentos que se enlistan a 
 
 CONCEPTO UMA
 
-a) Auditorías Ambientales 220.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+a) Auditorías Ambientales 22.00
 
 b) Aclaraciones, rectificaciones o ampliaciones
 
 al contenido de las auditorías ambientales 80.00
 
-Cuando el servicio contemplado en el inciso a) sea solicitado dentro de los tres primeros meses del año el importe a pagar será del 50% de la tarifa establecida.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 Estarán exentos del pago de los derechos a que se refiere el presente artículo, la federación, el estado y los municipios.
 
 > <small>(DEROGADA CON EL ARTÍCULO LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA SEGUNDA. SECRETARÍA DE TURISMO
+#### SECCIÓN ÚNICA. EN HOSPITALES Y JURISDICCIONES SANITARIAS
 
 ###### Artículo 63.
 
@@ -2457,7 +2959,7 @@ Estarán exentos del pago de los derechos a que se refiere el presente artículo
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE LA CONTRALORÍA
+#### SECCIÓN DÉCIMA SEGUNDA. SECRETARÍA DE TURISMO
 
 ###### Artículo 64.
 
@@ -2499,9 +3001,7 @@ IX. Verificación de animales, productos y subproductos para ingreso al Estado. 
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SEGUNDA. DE LA VERIFICACIÓN, CONTROL Y FISCALIZACIÓN DE OBRA PÚBLICA
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE LA CONTRALORÍA
 
 ###### Artículo 66.
 
@@ -2516,6 +3016,10 @@ II. Reconocimiento de validez oficial de estudios a particulares para impartir e
 III. Análisis y calificación para el seguimiento y control escolar en cada ciclo escolar, por alumno de bachillerato o educación superior. 2.00
 
 IV. Certificaciones de estudios de bachillerato o educación superior, por alumno. 3.50
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+Cuando se trate de personas de escasos recursos, se subsidiará el 100% de los derechos a que se refiere esta fracción.
 
 V. Exámenes extraordinarios de bachillerato o educación superior, por alumno. 1.70
 
@@ -2545,7 +3049,9 @@ XVII. Cambio de nomenclatura de Institución Educativa, Carrera y/o Estudios de 
 
 > <small>(REFORMADA [N. DE E. ANTES APARTADO A] , P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN PRIMERA. INSTITUTO DE LA CULTURA Y LAS ARTES DE QUINTANA ROO
+#### SECCIÓN SEGUNDA. DE LA VERIFICACIÓN, CONTROL Y FISCALIZACIÓN DE OBRA PÚBLICA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 67.
 
@@ -2563,7 +3069,7 @@ III. Peritos valuadores. 17.25
 
 ### CAPÍTULO IX. DE LA SECRETARÍA DE LA CONTRALORÍA
 
-#### SECCIÓN SEGUNDA. SERVICIOS EDUCATIVOS DE QUINTANA ROO
+#### SECCIÓN PRIMERA. INSTITUTO DE LA CULTURA Y LAS ARTES DE QUINTANA ROO
 
 ###### Artículo 68.
 
@@ -2595,7 +3101,7 @@ Los servicios médicos asistenciales que se otorguen a la población con segurid
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN TERCERA. SERVICIOS ESTATALES DE SALUD
+#### SECCIÓN SEGUNDA. SERVICIOS EDUCATIVOS DE QUINTANA ROO
 
 ###### Artículo 70.
 
@@ -2611,7 +3117,7 @@ Los servicios médicos asistenciales que se otorguen a la población con segurid
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN CUARTA. RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DE QUINTANA ROO
+#### SECCIÓN TERCERA. SERVICIOS ESTATALES DE SALUD
 
 ###### Artículo 72.
 
@@ -2623,7 +3129,7 @@ Por el análisis de la documentación para participar en la designación de desp
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN QUINTA. COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO (SIC) QUINTANA ROO
+#### SECCIÓN CUARTA. RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DE QUINTANA ROO
 
 ###### Artículo 73
 
@@ -2633,15 +3139,15 @@ Las dependencias y organismos auxiliares de la Administración Pública Estatal 
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE JULIO DE 2021)</small>
 
-### CAPÍTULO XI. DE LA SECRETARÍA DE SEGURIDAD CIUDADANA
+### CAPÍTULO XI. DE LA SECRETARIA DE SEGURIDAD CIUDADANA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 74.
 
 (DEROGADO, P.O. 16 DE JULIO DE 2021)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA SU DENOMINACIÓN], P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ### CAPÍTULO II. DE LOS SERVICIOS QUE PRESTAN LAS ENTIDADES
 
@@ -2655,9 +3161,9 @@ Los servicios que presta la Secretaría de Seguridad Ciudadana se pagarán confo
 
 CONCEPTO UMA
 
-I. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2023)
+I. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 21 DE DICIEMBRE DE 2023)
 
-II. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2023)
+II. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 21 DE DICIEMBRE DE 2023)
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -2725,7 +3231,11 @@ de fábrica, no serán sujetos del pago
 
 de este derecho.
 
-VI. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2023)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+VI. Examen médico y de competencia para la
+
+licencia de conducir vehículos de motor 2.10
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -2735,13 +3245,9 @@ camiones de carga en el primer cuadro de la ciudad,
 
 por día 1.00
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+VIII. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2023)
 
-VIII. Por la inscripción al curso de vialidad
-
-del servicio público 1.00
-
-IX. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2023)
+IX. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 21 DE DICIEMBRE DE 2023)
 
 X. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2023)
 
@@ -2753,7 +3259,7 @@ XI. Por la expedición de historial de pagos 2.00
 
 XII. Por la expedición de constancias de no infracción 1.00
 
-XIII. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2023)
+XIII. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 21 DE DICIEMBRE DE 2023)
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
@@ -2765,45 +3271,105 @@ APARTADO A
 
 EMPRESAS DE SEGURIDAD PRIVADA
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 76.
 
-Por los servicios que otorga la Secretaría de Seguridad Pública por el análisis y calificación del registro de las personas físicas o personas morales que se dediquen a la prestación de los servicios de seguridad privada, se causarán los siguientes derechos con base a las tarifas siguientes:
+Por los servicios que otorga la Secretaría de Seguridad Ciudadana por el análisis y calificación del registro de las personas físicas o personas morales que se dediquen a la prestación de los servicios de seguridad privada, se causarán los siguientes derechos con base a las tarifas siguientes:
 
 CONCEPTO UMA
 
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
 I. Por el análisis y calificación para el registro y autorización anuales para el funcionamiento de las empresas o particulares que presten servicios de seguridad privada, se causará un derecho de acuerdo al tipo de servicio:
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 a) Servicio de vigilancia en inmuebles e instalaciones; 209.5
 
-b) Servicio de traslado y custodia de fondos y valores; 209.5
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+b) Servicio de traslado de bienes y valores 209.5
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 c) Servicio de Operación de equipo y sistemas electrónicos; 210.7
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
 d) Servicio de traslado y protección de personas; 199.6
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 e) Servicio de Seguridad Privada Interna, y 199.6
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
 f) Servicios de sistemas de prevención y responsabilidades. 199.6
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+g) Servicio de vigilancia con canes 209.5
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+h) Análisis y calificación de documentos para la
+
+inscripción en el Registro de clubes o asociaciones
+
+de deportistas o similares de tiro y cacería 199.6
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+i) Servicio de custodia de bienes y valores 209.5
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 II. Por el análisis y calificación para la renovación anual del registro de funcionamiento de las empresas o particulares que presten servicios de seguridad privada, se causará un derecho de acuerdo al tipo de servicio:
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
 a) Servicio de vigilancia en inmuebles e instalaciones; 145.0
 
-b) Servicio de traslado y custodia de fondos y valores; 145.0
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+b) Servicio de traslado de bienes y valores 145.0
 
 c) Servicio de Operación de equipo y sistemas electrónicos; 146.0
 
 d) Servicio de traslado y protección de personas; 138.1
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
 e) Servicio de seguridad privada interna, y; 138.1
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 f) Servicio de sistemas de prevención y responsabilidades. 138.1
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+g) Servicio de vigilancia con canes 145.0
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+h) Registro de clubes o asociaciones de deportistas
+
+o similares de tiro y cacería 138.1
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+i) Servicio de custodia de bienes y valores 145.0
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
 III. Por análisis y calificación para el registro de clave única de identificación permanente de cada elemento de seguridad privada. 2.50
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
 IV. Por análisis y calificación para la actualización anual de la clave única de identificación permanente de cada elemento de seguridad privada. 1.50
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 V. Otros servicios. 35.50
 
@@ -2819,9 +3385,11 @@ APARTADO C
 
 SERVICIO ESPECIAL DE VIGILANCIA
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 78.
 
-Es objeto de este derecho, el Servicio Especial prestado por convenio o contrato por la Unidad de Servicios Especiales de Vigilancia, dependiente de la Secretaría de Seguridad Pública. Se entiende por Servicios Especiales de Vigilancia, aquellos de carácter policial en los que su ejecución contribuye al mejoramiento de la seguridad pública en el Estado, llevándose a cabo su contratación específica para el resguardo interior y exterior de áreas del sector privado tales como hospitales, instalaciones e inmuebles, hoteles, complejos industriales, comerciales y residenciales, bancos, custodia y traslado de valores y objetos, así como la protección a funcionarios y personas en general.
+Es objeto de este derecho, el Servicio Especial prestado por convenio o contrato por la Unidad de Servicios Especiales de Vigilancia, dependiente de la Secretaría de Seguridad Ciudadana. Se entiende por Servicios Especiales de Vigilancia, aquellos de carácter policial en los que su ejecución contribuye al mejoramiento de la seguridad ciudadana en el Estado, llevándose a cabo su contratación específica para el resguardo interior y exterior de áreas del sector privado tales como hospitales, instalaciones e inmuebles, hoteles, complejos industriales, comerciales y residenciales, bancos, custodia y traslado de valores y objetos, así como la protección de personas en general.
 
 ###### Artículo 79.
 
@@ -2865,13 +3433,15 @@ APARTADO E
 
 ACADEMIA ESTATAL DE SEGURIDAD PÚBLICA
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 82
 
-Bis. Por los servicios de capacitación, adiestramiento y certificación, dirigida a los cuerpos de seguridad pública estatal y municipal, personal de custodia, policía ministerial, peritos, guías técnicos, personal de ayudantía y personal de seguridad privada, que presta la Secretaría de Seguridad Pública a través de la Academia Estatal de Seguridad Pública, se causarán derechos conforme a la tarifa siguiente:
+Bis. Por los servicios de capacitación, adiestramiento y certificación, dirigida a los cuerpos de seguridad ciudadana estatal y municipal, personal de custodia, policía ministerial, peritos, guías técnicos, personal de ayudantía y personal de seguridad privada, que presta la Secretaría de Seguridad Ciudadana a través de la Academia Estatal de Seguridad Pública, se causarán derechos conforme a la tarifa siguiente:
 
 CONCEPTO UMA
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 I. Programas de Formación Inicial Costo por elemento
 
@@ -2892,6 +3462,8 @@ Investigación. 345.3
 5) Formación Inicial para Perito. 345.3
 
 6) Formación Inicial para Custodios. 368.2
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 II. Programas de Formación Continua. Costo por elemento
 
@@ -3093,7 +3665,7 @@ Policiales. 9.67
 
 ### CAPÍTULO I. FISCALÍA GENERAL DEL ESTADO
 
-#### SECCIÓN SEXTA. COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE QUINTANA ROO
+#### SECCIÓN QUINTA. COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO (SIC) QUINTANA ROO
 
 ###### Artículo 83.
 
@@ -3101,7 +3673,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SÉPTIMA. CENTRO DE ESTUDIOS DE BACHILLERATO TÉCNICO EVA SÁMANO DE LÓPEZ MATEOS
+#### SECCIÓN SEXTA. COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 84.
 
@@ -3109,7 +3681,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN OCTAVA. COLEGIO DE BACHILLERES DEL ESTADO DE QUINTANA ROO
+#### SECCIÓN SÉPTIMA. CENTRO DE ESTUDIOS DE BACHILLERATO TÉCNICO EVA SÁMANO DE LÓPEZ MATEOS
 
 ###### Artículo 85.
 
@@ -3117,7 +3689,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN NOVENA. INSTITUTO TECNOLÓGICO SUPERIOR DE FELIPE CARRILLO PUERTO
+#### SECCIÓN OCTAVA. COLEGIO DE BACHILLERES DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 86.
 
@@ -3125,7 +3697,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA. UNIVERSIDAD DE QUINTANA ROO
+#### SECCIÓN NOVENA. INSTITUTO TECNOLÓGICO SUPERIOR DE FELIPE CARRILLO PUERTO
 
 ###### Artículo 87.
 
@@ -3133,7 +3705,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA PRIMERA. UNIVERSIDAD DEL CARIBE
+#### SECCIÓN DÉCIMA. UNIVERSIDAD DE QUINTANA ROO
 
 ###### Artículo 88.
 
@@ -3141,7 +3713,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA SEGUNDA. UNIVERSIDAD INTERCULTURAL MAYA DE QUINTANA ROO
+#### SECCIÓN DÉCIMA PRIMERA. UNIVERSIDAD DEL CARIBE
 
 ###### Artículo 89.
 
@@ -3149,7 +3721,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA TERCERA. UNIVERSIDAD POLITÉCNICA DE BACALAR
+#### SECCIÓN DÉCIMA SEGUNDA. UNIVERSIDAD INTERCULTURAL MAYA DE QUINTANA ROO
 
 ###### Artículo 90.
 
@@ -3157,7 +3729,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA CUARTA. UNIVERSIDAD TECNOLÓGICA DE CANCÚN
+#### SECCIÓN DÉCIMA TERCERA. UNIVERSIDAD POLITÉCNICA DE BACALAR
 
 ###### Artículo 91.
 
@@ -3165,7 +3737,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA QUINTA. UNIVERSIDAD TECNOLÓGICA DE CHETUMAL
+#### SECCIÓN DÉCIMA CUARTA. UNIVERSIDAD TECNOLÓGICA DE CANCÚN
 
 ###### Artículo 92.
 
@@ -3173,7 +3745,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA SEXTA. UNIVERSIDAD TECNOLÓGICA DE LA RIVIERA MAYA
+#### SECCIÓN DÉCIMA QUINTA. UNIVERSIDAD TECNOLÓGICA DE CHETUMAL
 
 ###### Artículo 93.
 
@@ -3181,7 +3753,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA SÉPTIMA. UNIVERSIDAD POLITÉCNICA DE QUINTANA ROO
+#### SECCIÓN DÉCIMA SEXTA. UNIVERSIDAD TECNOLÓGICA DE LA RIVIERA MAYA
 
 ###### Artículo 94.
 
@@ -3189,7 +3761,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DECIMA OCTAVA. INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE QUINTANA ROO
+#### SECCIÓN DÉCIMA SÉPTIMA. UNIVERSIDAD POLITÉCNICA DE QUINTANA ROO
 
 ###### Artículo 95.
 
@@ -3197,7 +3769,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA NOVENA. COMISIÓN DE AGUA POTABLE Y ALCANTARILLADO
+#### SECCIÓN DECIMA OCTAVA. INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 96.
 
@@ -3205,7 +3777,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA. INSTITUTO DE MOVILIDAD
+#### SECCIÓN DÉCIMA NOVENA. COMISIÓN DE AGUA POTABLE Y ALCANTARILLADO
 
 ###### Artículo 97.
 
@@ -3213,7 +3785,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA PRIMERA. AGENCIA DE PROYECTOS ESTRATÉGICOS
+#### SECCIÓN VIGÉSIMA. INSTITUTO DE MOVILIDAD
 
 ###### Artículo 98.
 
@@ -3221,7 +3793,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA SEGUNDA. COMISIÓN PARA LA JUVENTUD Y EL DEPORTE DE QUINTANA ROO
+#### SECCIÓN VIGÉSIMA PRIMERA. AGENCIA DE PROYECTOS ESTRATÉGICOS
 
 ###### Artículo 99.
 
@@ -3229,7 +3801,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA TERCERA. INSTITUTO DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE QUINTANA ROO
+#### SECCIÓN VIGÉSIMA SEGUNDA. COMISIÓN PARA LA JUVENTUD Y EL DEPORTE DE QUINTANA ROO
 
 ###### Artículo 100.
 
@@ -3237,7 +3809,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA CUARTA. CONSEJO QUINTANARROENSE DE CIENCIA Y TECNOLOGÍA
+#### SECCIÓN VIGÉSIMA TERCERA. INSTITUTO DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 101.
 
@@ -3253,7 +3825,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA QUINTA. SISTEMA QUINTANARROENSE DE COMUNICACIÓN SOCIAL
+#### SECCIÓN VIGÉSIMA CUARTA. CONSEJO QUINTANARROENSE DE CIENCIA Y TECNOLOGÍA
 
 ###### Artículo 104.
 
@@ -3265,7 +3837,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA SEXTA. COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE QUINTANA ROO
+#### SECCIÓN VIGÉSIMA QUINTA. SISTEMA QUINTANARROENSE DE COMUNICACIÓN SOCIAL
 
 ###### Artículo 106.
 
@@ -3273,7 +3845,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA SÉPTIMA. INSTITUTO QUINTANARROENSE DE LA MUJER
+#### SECCIÓN VIGÉSIMA SEXTA. COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 107.
 
@@ -3281,7 +3853,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA OCTAVA. SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+#### SECCIÓN VIGÉSIMA SÉPTIMA. INSTITUTO QUINTANARROENSE DE LA MUJER
 
 ###### Artículo 108.
 
@@ -3289,13 +3861,15 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA NOVENA. FUNDACIÓN DE PARQUES Y MUSEOS DE COZUMEL
+#### SECCIÓN VIGÉSIMA OCTAVA. SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
 ###### Artículo 109.
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN VIGÉSIMA NOVENA. FUNDACIÓN DE PARQUES Y MUSEOS DE COZUMEL
 
 ###### Artículo 110.
 
@@ -3457,17 +4031,17 @@ USB 64 GB 3.5285
 
 VII. Por el escaneo de documentos para entregarlos en medios magnéticos, por cada hoja 0.005 UMA.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-En la expedición de copias simples incluyendo la de datos personales (Acceso, Rectificación, Cancelación y Oposición), el cobro a que se refieren las fracciones I, II y III se realizará únicamente cuando la reproducción de la información exceda de veinte fotocopias.
+El derecho previsto en las fracciones I, II y III del presente artículo, por la expedición de copias simples incluyendo la de datos personales (Acceso, Rectificación, Cancelación y Oposición), el cobro se realizará a partir de la foja veintiuno.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
 Lo dispuesto en la fracción VI de este artículo no causará cobro alguno, cuando el solicitante se presente ante la Unidad de Transparencia que corresponda, con el material señalado en esa fracción o cualquier otra que se requiera para la reproducción de la información solicitada.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-En la expedición de copias certificadas, además del precio de la copia a que se refieren las fracciones I, II y III de este artículo, se realizará el pago a que se refiere el numeral 2 del artículo 123 de esta Ley.
+Para la certificación de copias se aplicará el derecho previsto en el numeral 2 del artículo 123 de esta Ley, que se sumará a los derechos por expedición de copias simples, que corresponda.
 
 Para el envío de documentos o de material que contenga información a través de correo certificado o mensajería, además del pago de derechos a que se refieren las fracciones I, II, III, IV, V, VI y VII el solicitante deberá cubrir el costo del servicio respectivo por lo que deberá notificar a la Unidad de Transparencia correspondiente los servicios que ha contratado para que ésta última proceda al envío.
 
@@ -3513,9 +4087,7 @@ b) Por cada foja excedente 0.07
 
 2. Por certificaciones 1.73
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2022)</small>
-
-3. Por legalizaciones 3.0
+3. (DEROGADO, P.O. 21 DE DICIEMBRE DE 2023)
 
 > <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 23 DE DICIEMBRE DE 2022)</small>
 
@@ -3810,3 +4382,57 @@ QUINTO. El Instituto de Movilidad del Estado de Quintana Roo, implementará acci
 SEXTO. Dentro de un plazo de noventa días, posteriores a la entrada en vigor del presente Decreto, se deberán realizar las adecuaciones correspondientes al Reglamento de la Ley de Movilidad del Estado de Quintana Roo.
 
 SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO, 172 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el primer día del mes de enero del año 2024.
+
+SEGUNDO. Sin perjuicio de lo dispuesto en el artículo anterior, el artículo 51-Nonies, iniciará su vigencia a partir del 1° de enero del año 2025.
+
+Para el cumplimiento de lo previsto en la fracción I del artículo 51-Nonies, la Secretaría dentro del plazo de 180 días naturales, contados a partir del inicio de la vigencia del presente Decreto, deberá realizar las gestiones jurídicas y administrativas necesarias para constituir el Fondo para la Atención de Desastres Naturales.
+
+Asimismo, con respecto a lo previsto en la fracción II del artículo 51-Nonies, la Secretaría dentro del plazo de 180 días naturales, contados a partir del inicio de la vigencia del presente Decreto, deberá realizar las gestiones jurídicas y administrativas necesarias para constituir el Fideicomiso para la Infraestructura Turística.
+
+TERCERO. Sin perjuicio de lo dispuesto en el artículo primero transitorio, el artículo 46-Bis iniciará su vigencia a partir del 1º de abril del año 2024.
+
+CUARTO. En tanto el Estado de Quintana Roo permanezca adherido al Sistema de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos, con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los siguientes derechos:
+
+I. Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Asimismo, los que resulten como consecuencia de permitir o tolerar excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de las siguientes:
+
+a) Licencias de construcción.
+
+b) Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+c) Licencias para fraccionar o lotificar terrenos.
+
+d) Licencias para conducir vehículos.
+
+e) Expedición de placas y tarjeta para la circulación de vehículos.
+
+f) Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales, cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+g) Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto los que se realicen por medio de televisión, radio, periódicos y revistas.
+
+II. Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+a) Registro Civil, y
+
+b) Registro de la Propiedad y del Comercio.
+
+III. Uso de las vías públicas o la tenencia de bienes sobre las mismas. No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semi-fijos, ni por el uso o tenencia de anuncios.
+
+IV. Actos de inspección y vigilancia.
+
+V. Los conceptos a que se refieren las fracciones anteriores, sin excepción alguna, en relación con las actividades o servicios que realicen o presten las personas respecto del uso, goce, explotación o aprovechamiento de bienes de dominio público en materia eléctrica, de hidrocarburos o de telecomunicaciones.
+
+Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto tratándose de derechos diferenciales por los conceptos a los que se refieren los incisos del a) al g) de la fracción I y la fracción III.
+
+Las certificaciones de documentos, así como la reposición de éstos por extravío o destrucción parcial o total, no quedará comprendida dentro de lo dispuesto en las fracciones I y II de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los Municipios.
+
+En ningún caso lo dispuesto en este artículo, se entenderá que limita la facultad de los Estados y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las Entidades, se considerarán derechos, aun cuando tengan una denominación distinta en la legislación local correspondiente, las contribuciones que tengan las características de derecho conforme al Código Fiscal de la Federación y la Ley de Ingresos de la Federación.
+
+QUINTO. Se derogan todas las disposiciones legales que se opongan al presente Decreto, de igual o inferior jerarquía.
