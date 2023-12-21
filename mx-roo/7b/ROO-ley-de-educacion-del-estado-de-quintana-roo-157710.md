@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-educacion-del-estado-de-quintana-roo-157710"
 country: "mx"
 rank: "ley"
 publication_date: "2022-04-27"
-last_updated: "2023-11-27"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Extraordinario Número 68 del Periódico Oficial del Estado de Quintana Roo, el miércoles 27 de abril de 2022.
 
@@ -313,7 +313,9 @@ IV. Promoverá el respeto al interés general de la sociedad, por encima de inte
 
 V. Inculcará los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y combate a los efectos del cambio climático, la reducción del riesgo de desastres, la biodiversidad, el consumo sostenible y la resiliencia; así como la generación de conciencia y la adquisición de los conocimientos, las competencias, las actitudes y los valores necesarios para forjar un futuro sostenible, como elementos básicos para el desenvolvimiento armónico e integral de la persona y la sociedad;
 
-VI. Será equitativa, al favorecer el pleno ejercicio del derecho a la educación de todas las personas, para lo cual combatirá las desigualdades socioeconómicas, regionales, de capacidades y de género, respaldará a estudiantes en condiciones de vulnerabilidad social y ofrecerá a todos los educandos una educación pertinente que asegure su acceso, tránsito, permanencia y, en su caso, egreso oportuno en los servicios educativos;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+VI. Será equitativa, al favorecer el pleno ejercicio del derecho a la educación de todas las personas, para lo cual combatirá las desigualdades socioeconómicas, regionales, de capacidades, los estereotipos y roles de género, respaldará a estudiantes en condiciones de vulnerabilidad social y ofrecerá a todos los educandos una educación pertinente que asegure su acceso, tránsito, permanencia y, en su caso, egreso oportuno en los servicios educativos;
 
 VII. Será inclusiva, al tomar en cuenta las diversas capacidades, circunstancias, necesidades, estilos y ritmos de aprendizaje de los educandos, y así eliminar las distintas barreras al aprendizaje y a la participación, para lo cual adoptará medidas en favor de la accesibilidad y los ajustes razonables;
 
@@ -945,7 +947,9 @@ I. Recibir una educación de excelencia;
 
 II. Ser respetados en su integridad, identidad y dignidad, además de la protección contra cualquier tipo de agresión física o moral;
 
-III. Recibir una orientación integral como elemento para el pleno desarrollo de su personalidad;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+III. Recibir una orientación integral como elemento para el pleno desarrollo de su personalidad, por lo que podrán elegir libremente el uniforme de su preferencia;
 
 IV. Ser respetados por su libertad de convicciones éticas, de conciencia y de religión;
 
@@ -1517,9 +1521,9 @@ XII. Proporcionar a los educandos los libros de texto gratuitos y materiales edu
 
 XIII. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia; y equidad desde una perspectiva de género;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-XIV. Garantizar, a través de políticas y programas, la entrega gratuita de uniformes, útiles escolares y mochilas para el alumnado de educación básica de escuelas públicas;
+XIV. Establecer, de acuerdo con la suficiencia presupuestal, la entrega gratuita de uniformes opcionales pudiendo ser falda o pantalón y útiles escolares, mochilas, calzado y anteojos para estudiantes de educación básica;
 
 XV. Proporcionar apoyos a educandos cuya madre, padre o tutor haya fallecido o sufrido algún accidente que le ocasione invalidez o incapacidad permanente;
 
@@ -1538,6 +1542,10 @@ Para tal efecto, cada plantel educativo deberá contar al menos con 30 unidades 
 > <small>[N. DE E. PERTENECE A LA FRACCIÓN XVIII, P.O. 27 DE NOVIEMBRE DE 2023]</small>
 
 La Secretaría, en coordinación con la Secretaría de Salud del Estado, diseñará e implementará políticas públicas orientadas a la enseñanza a las alumnas, alumnos, así como a sus madres y padres, en todos los planteles educativos, de la elaboración de toallas sanitarias ecológicas reutilizables, como parte del proceso incorporador de la salud menstrual y para fomentar la conciencia sobre esta condición y el cuidado del medio ambiente.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XIX. Instrumentar estrategias dentro de las instituciones educativas públicas y privadas, para eliminar estereotipos de género que causen desigualdad y discriminación que tengan que ver con formas de vestir, corte o color de cabello, apariencia, actitudes y creencias, entre otras, durante la educación básica y media superior.
 
 El embarazo, la maternidad o paternidad no deberán constituir impedimento para ingresar y permanecer en la educación a cualquier nivel.
 
@@ -1853,7 +1861,9 @@ La autorización y el reconocimiento incorporan a las instituciones que los obte
 
 En ningún caso, con motivo del cobro de colegiaturas o cualquier otra contraprestación, derivada de la educación que se imparta en términos de este artículo, se realizarán acciones que atenten contra la dignidad y los derechos de los educandos, de manera especial de las niñas y niños, incluyendo la retención de documentos personales y académicos.
 
-La adquisición de uniformes y materiales educativos, así como de actividades extraescolares, no podrá condicionar la prestación del servicio público referido en esta Ley. Los educandos, las madres y padres de familia o tutores tendrán el derecho de adquirir los uniformes o materiales educativos con el proveedor de su preferencia.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+La adquisición de uniformes y materiales educativos, así como de actividades extraescolares, no podrá condicionar la prestación del servicio público referido en esta Ley. Los educandos, las madres y padres de familia o personas tutoras tendrán el derecho de adquirir los uniformes o materiales educativos con el proveedor de su preferencia y el alumnado tendrán libre disposición sobre el uso del uniforme escolar.
 
 Requisitos para las Autorizaciones y los Reconocimientos de Validez Oficial de Estudios
 
@@ -2241,7 +2251,9 @@ XXI. Otorgar revalidaciones o equivalencias sin observar las disposiciones aplic
 
 XXII. Retener documentos personales y académicos por falta de pago;
 
-XXIII. Condicionar la prestación del servicio público de educación a la adquisición de uniformes y materiales educativos, así como de actividades extraescolares;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XXIII. Condicionar la prestación del servicio público de educación a la adquisición de uniformes y materiales educativos; al uso tradicional y estereotipado del uniforme escolar de acuerdo al sexo de alumnas y alumnos así como de actividades extraescolares;
 
 XXIV. Omitir dar a conocer por escrito a las personas usuarias de los servicios educativos, previamente a la inscripción para cada ciclo escolar, el costo total de la colegiatura o cualquier otra contraprestación;
 
@@ -2436,3 +2448,11 @@ Con el objeto de cumplir con la progresividad en las obligaciones que tendrán a
 TERCERO. Las políticas públicas orientadas a la enseñanza a las alumnas, alumnos, así como a sus madres y padres, en todos los planteles educativos, de la elaboración de toallas sanitarias ecológicas reutilizables, a que hace referencia el tercer párrafo de la fracción XVIII que se adiciona al artículo 105, deberá diseñarse antes del inicio del ciclo escolar 2024-2025.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 191 POR EL QUE SE REFORMAN: LA FRACCIÓN VI DEL ARTÍCULO 16; LA FRACCIÓN III DEL ARTÍCULO 70; LA FRACCIÓN XIV DEL ARTÍCULO 105; EL PÁRRAFO SEXTO DEL ARTÍCULO 129; LA FRACCIÓN XXIII DEL ARTÍCULO 157; Y SE ADICIONA: LA FRACCIÓN XIX AL ARTÍCULO 105, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
