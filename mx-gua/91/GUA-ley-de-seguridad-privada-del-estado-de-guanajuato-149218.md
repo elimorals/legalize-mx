@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-seguridad-privada-del-estado-de-guanajuato-149218"
 country: "mx"
 rank: "ley"
 publication_date: "2021-04-23"
-last_updated: "2021-04-23"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149218&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE SEGURIDAD PRIVADA DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 23 de abril de 2021.
 
@@ -485,9 +485,15 @@ XIII. Prestar el servicio bajo por (sic) los principios de legalidad, eficiencia
 
 XIV. Contratar únicamente a personal que haya aprobado las evaluaciones de control de confianza de conformidad con la legislación, mismas que deberán encontrarse vigentes para su ingreso y posteriormente cada tres años;
 
-XV. Informar por escrito cualquier suspensión de labores, así como la disolución o liquidación de la empresa, en su caso, anexando copia certificada de los avisos dados a las autoridades correspondientes; y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-XVI. Deberán cumplir con los requisitos que marque esta Ley y demás ordenamientos jurídicos.
+XV. Informar por escrito cualquier suspensión de labores, así como la disolución o liquidación de la empresa, en su caso, anexando copia certificada de los avisos dados a las autoridades correspondientes;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+XVI. Garantizar que los animales que se utilicen para custodia y protección cuenten en todo momento con las condiciones óptimas para desarrollar sus actividades; y
+
+XVII. Deberán cumplir con los requisitos que marque esta Ley y demás ordenamientos jurídicos.
 
 ### CAPÍTULO SÉPTIMO. Visitas de Verificación
 
@@ -668,3 +674,17 @@ DIEGO SINHUE RODRÍGUEZ VALLEJO
 LA SECRETARIA DE GOBIERNO
 
 LIBIA DENNISE GARCÍA MUÑOZ LEDO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 242 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO, LA LEY DE SEGURIDAD PRIVADA DEL ESTADO DE GUANAJUATO, Y LA LEY PARA LA PROTECCIÓN ANIMAL DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de la vigencia
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+Adecuaciones reglamentarias y presupuesto
+
+SEGUNDO. El titular del Poder Ejecutivo y los ayuntamientos, en el ámbito de sus respectivas competencias y en un plazo no mayor de 180 días contados a partir de la entrada en vigor de este Decreto, deberán realizar la emisión o actualización reglamentaria correspondiente, así como asignar de manera progresiva recursos presupuestales necesarios para garantizar la implementación de la infraestructura, insumos, acciones y actividades de la unidad canina y equina conforme las reformas aprobadas.
