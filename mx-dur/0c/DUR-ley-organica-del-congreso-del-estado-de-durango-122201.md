@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-122201"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-15"
-last_updated: "2023-08-23"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 15 de junio de 2017.
 
@@ -1133,9 +1133,13 @@ Son atribuciones de la Comisión Permanente:
 
 I.- Llevar la correspondencia;
 
-II.- Tomar la protesta de ley al Gobernador, a los Magistrados del Poder Judicial del Estado, los Magistrados del Tribunal de Justicia Administrativa, al Titular de la Entidad de Auditoría Superior del Estado y a los integrantes de los Órganos constitucionalmente autónomos que deban rendirla;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-III.- Recibir los avisos de ausencia del Gobernador y conceder las autorizaciones, o, en su caso, licencias que solicite el Gobernador y los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de Justicia Administrativa y los Consejeros de la Judicatura designados por el Congreso;
+II.- Tomar la protesta de ley al Gobernador o Gobernadora, a la Consejera o Consejero de la Judicatura, a las y los Magistrados del Poder Judicial del Estado, las y los Magistrados del Tribunal de Justicia Administrativa, las y los Consejeros del Poder Judicial del Estado de Durango, a la persona Titular de la Entidad de Auditoria Superior del Estado y a los integrantes de los Órganos constitucionalmente autónomos que deban rendirla;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+III.- Recibir los avisos de ausencias del Gobernador o Gobernadora y conceder las autorizaciones, o, en su caso, licencias que solicite el Gobernador o Gobernadora y las y los Magistrados del Tribunal Superior de Justicia, las y los Magistrados del Tribunal de Justicia Administrativa y las y los Consejeros de la Judicatura designados por el Congreso;
 
 IV.- Acordar por sí o a pedimento del Ejecutivo, la celebración de períodos extraordinarios de sesiones del Congreso;
 
@@ -1705,9 +1709,13 @@ IV. Legislación sobre menores infractores;
 
 V. Dictaminar sobre las leyes y reglamentos que establezcan y regulen los sistemas integrales de tratamiento penal;
 
-VI. Nombramientos, ratificación o no ratificación de los Magistrados del Poder Judicial del Estado; y,
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-VI (SIC). Nombramiento, ratificación o elección del Fiscal General del Estado y Fiscal Especializado en Combate a la Corrupción de conformidad con lo dispuesto por las leyes;
+VI. Nombramientos, ratificación o no ratificación de las y los Consejeros, y las y los Magistrados del Poder Judicial del Estado; y,
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+VII. Nombramiento, ratificación o elección de la persona titular de la Fiscalía General del Estado y la persona titular de la Fiscalía Especializada en Combate a la Corrupción de conformidad con lo dispuesto por las leyes.
 
 ###### Artículo 124.
 
@@ -1833,9 +1841,17 @@ II. Adultos mayores.
 
 La Comisión de Asuntos Familiares y de los Derechos de Niñas, Niños y Adolescentes, estudiará y analizará lo relativo a la problemática de la familia en lo general, y de las niñas, niños y adolescentes, en lo particular, como titulares de derecho.
 
-Además, impulsará la celebración anual del Parlamento Infantil del Estado de Durango, con la finalidad de generar un espacio que los acerque a conocer su derecho a participar en un proceso de representación y ser parte de la vida parlamentaria, de conformidad con las previsiones de la convocatoria que emita la Junta de Gobierno y Coordinación Política.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+Además, impulsará la celebración anual del Parlamento Infantil del Estado de Durango, preferentemente en el mes de abril, con la finalidad de generar un espacio que los acerque a conocer su derecho a participar en un proceso de representación y ser parte de la vida parlamentaria, de conformidad con las previsiones de la convocatoria que emita la Junta de Gobierno y Coordinación Política, procurando siempre en el proceso de selección, la paridad de género, así como la inclusión de las y los niños con discapacidad.
 
 La celebración del Parlamento Infantil deberá atender necesariamente las medidas sanitarias y de seguridad que corresponda.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 142 Bis.
+
+Las Comisiones Unidas de Asuntos Familiares y de los Derechos de Niñas, Niños y Adolescentes y la Comisión de Educación, enviaran de manera oportuna, la convocatoria que emita la Junta de Gobierno y Coordinación Política, a la Secretaria de Educación Pública del Estado, para que sea publicada a través de sus diversos medios la invitación a las Escuelas Públicas y Privadas, a participar en la celebración del Parlamento Infantil.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2018)</small>
 
@@ -1885,9 +1901,9 @@ La Comisión de Participación Ciudadana, dictaminará los asuntos que tengan re
 
 A la Comisión de Juventud y Deporte, le corresponderá conocer y dictaminar sobre los asuntos relativos a los programas de protección y desarrollo de la juventud duranguense, la defensa de sus derechos, su incorporación al contexto político, social y económico con las mejores ventajas posibles. Así mismo, conocerá de la legislación estatal y municipal en materia de impulso y desarrollo del deporte, como una alternativa de valor humano hacia el desarrollo personal y colectivo.
 
-> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-Además impulsará la celebración anual tanto del Parlamento Joven del Estado de Durango como del Concurso Estatal y Nacional de Oratoria "Francisco Zarco".
+Además, en el mes de agosto de cada año se impulsará la celebración del Parlamento Juvenil del Estado de Durango, el cual se desarrollará tomando en cuenta la paridad y la inclusión del sector de las y los jóvenes de la sociedad. De igual manera promoverá la realización anual del concurso estatal y nacional de oratoria "Francisco Zarco", ambos de conformidad con las bases de la convocatoria que emita la Junta de Gobierno y Coordinación Política.
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2022)</small>
 
@@ -2439,7 +2455,63 @@ XVII. Las demás que se le encomienden a través del Comité respectivo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO IX. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL
+### CAPÍTULO VIII BIS. DE LA UNIDAD DE ESTUDIOS ECONÓMICOS Y DE FINANZAS PÚBLICAS
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+Artículo 167 QUINQUIES.- El Centro de Investigaciones y Estudios Legislativos contará con una Unidad de Estudios Económicos y de Finanzas Públicas como área técnica de carácter institucional, encargada de desarrollar investigaciones, análisis, opiniones, evaluaciones, organización y manejo de la información en materia económica, hacendaria, presupuestal y de finanzas públicas.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+Artículo 167 SEXIES.- La Unidad de Estudios Económicos y de Finanzas Públicas, tendrá las siguientes atribuciones:
+
+I. Remitir a la Secretaría de Finanzas y de Administración del Gobierno del Estado, el estudio preliminar de impacto presupuestal de las iniciativas turnadas a las Comisiones Legislativas, previa solicitud de las mismas, para la emisión de la estimación del impacto presupuestario respectivo.
+
+II. Analizar, y en su caso, emitir opiniones técnicas de las iniciativas de leyes de Ingresos y Egresos del Estado Libre y Soberano de Durango; así como las de ingresos de los municipios;
+
+III. Analizar y emitir opinión de las iniciativas relativas a las operaciones de financiamiento que constituyan deuda pública y obligaciones, cuando la comisión dictaminadora correspondiente se lo requiera;
+
+IV. Realizar y analizar estadísticas respecto de la aplicación de leyes de Ingresos y Egresos del Estado Libre y Soberano de Durango; así como las de ingresos de los municipios;
+
+V. Analizar las iniciativas de ley o decreto cuyo contenido incida en materia de finanzas públicas, enviadas por conducto de las comisiones legislativas correspondientes;
+
+VI. Elaborar y actualizar una base de datos con información estadística, económica y financiera del Estado y de los Municipios necesaria para la toma de decisiones en el quehacer parlamentario;
+
+VII. Realizar estudios e investigaciones sobre política fiscal, financiera, económica y administrativa del Estado y de los Municipios, que coadyuve en el ejercicio de las atribuciones del Congreso del Estado;
+
+VIII. Proporcionar a las comisiones del Congreso, a los grupos parlamentarios y a las y los diputados la información que requieran para el ejercicio de sus funciones constitucionales en materia de finanzas públicas;
+
+IX. Solicitar información o documentación, a la Secretarla de Finanzas y de Administración, a las dependencias y entidades de la administración pública estatal y municipal, poderes públicos, órganos constitucionales autónomos y de cualquier otro ejecutor del gasto público estatal, para fines de estudio y estadística;
+
+X. Elaborar análisis respecto del informe anual de acciones y resultados de la ejecución del Plan Estatal de Desarrollo en los aspectos relacionados con las finanzas públicas;
+
+XI. Solicitar a la Entidad de Auditoría Superior del Estado la información que estime necesaria, para fines estadísticos, previo acuerdo de la Comisión de Vigilancia de la Entidad de Auditoría Superior del Estado;
+
+XII. Analizar los informes sobre la situación económica, las finanzas públicas, la deuda y las obligaciones que presenta trimestralmente la Secretaría de Finanzas y de Administración al Congreso y presentar reporte a la comisión respectiva, sobre los resultados de dichos análisis;
+
+XIII. Asesorar a las y los diputados cuando requieran información en materia económica y financiera de las dependencias y entidades de la administración pública estatal y municipal, poderes públicos, órganos constitucionales autónomos y de cualquier otro ejecutor del gasto público estatal, con el propósito de mejorar la calidad y cantidad de datos para el desempeño de sus funciones;
+
+XIV. Fomentar y diseñar programas de capacitación, profesionalización y actualización en materia de economía y finanzas públicas;
+
+XV. Procesar la información de su especialidad y publicarla mensualmente en la página oficial del Congreso, con fines de consulta.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+Artículo 167 SEPTIES.- Para ser titular de la Unidad de Estudios Económicos y de Finanzas Públicas, se requiere:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+II. Contar con título y cédula profesional en alguna de las ramas de las ciencias jurídicas, económicas o administrativas directamente relacionadas con las finanzas públicas; y
+
+III. Contar con una experiencia profesional de cuando menos cinco años al día de su designación.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+Artículo 167 OCTIES.- La persona titular de la Unidad de Estudios Económicos y de Finanzas Públicas, será propuesta por la Junta de Gobierno y Coordinación Política.
+
+La persona titular durará en su encargo 4 años y podrá ser ratificada hasta por un periodo más.
+
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO IV], P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 167 Bis.
 
@@ -2471,11 +2543,11 @@ c). Propiciar mecanismos de capacitación y formación continua del personal del
 
 El Comité de Coordinación del Centro de Investigaciones y Estudios Legislativos se deberá de reunir cuando menos cuatro veces al año.
 
-> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO IV], P.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO IX. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL
 
 ### CAPÍTULO X. DEL COMITÉ DE TRANSPARENCIA
-
-### CAPÍTULO XI. DE LA UNIDAD DE ENLACE PARA EL ACCESO A LA INFORMACIÓN PÚBLICA
 
 ###### Artículo 168.
 
@@ -2487,13 +2559,65 @@ La información que sea transmitida en forma pública a través del Sistema de T
 
 > <small>(REFORMADO [N. DE E. ANTES CAPÍTULO V], P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-### CAPITULO VI (SIC). DE LA GACETA PARLAMENTARIA
+### CAPÍTULO XI. DE LA UNIDAD DE ENLACE PARA EL ACCESO A LA INFORMACIÓN PÚBLICA
 
 ###### Artículo 169.
 
 El Comité de Transparencia se integrará por el Titular de la Unidad de Enlace para el Acceso a la Información Pública, el Secretario de Servicios Administrativos y Financieros y el Secretario de Servicios Jurídicos y sus funciones, atribuciones y obligaciones serán regidos conforme a la Ley General de la materia, la Ley de Acceso a la Información Pública del Estado y los reglamentos que corresponda (sic).
 
 > <small>(REFORMADO [N. DE E. ANTES CAPÍTULO VI], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+### CAPITULO VI (SIC). DE LA GACETA PARLAMENTARIA
+
+###### Artículo 170.
+
+La Unidad de Enlace de Acceso a la Información Pública tendrá las atribuciones que le señalan (sic) Ley General de la materia, la Ley de Acceso a la Información Pública del Estado y el Reglamento para el Acceso a la Información Pública del Congreso del Estado.
+
+La Unidad de Enlace de Acceso a la Información Pública dispondrá de los recursos financieros, humanos y materiales necesarios para el cumplimiento de sus fines y estará a cargo de un coordinador general, nombrado en los términos de la presente Ley.
+
+###### Artículo 171.
+
+Para el adecuado desempeño de sus funciones, la Unidad de Enlace de Acceso a la Información Pública contará con el personal necesario de acuerdo a las posibilidades presupuestales del Congreso.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 171 Bis.
+
+Tendrá a su cargo coordinar la debida actualización de la información pública, sin menoscabo de la que conforme a la ley deba ser difundida de oficio, apoyándose para el cumplimiento de sus atribuciones en la Secretaria General de Administración y de Servicios Legislativos, así como en la utilización de un portal oficial de internet, que contendrá como mínimo lo siguiente:
+
+a) Integración de la Legislatura, Junta de Gobierno y Coordinación Política, formas de representación parlamentaria y Mesa Directiva;
+
+b) Historial de la conformación de las Legislaturas anteriores;
+
+c) Estructura Orgánica del Congreso;
+
+d) Directorio de los servidores públicos;
+
+e) Agenda Legislativa;
+
+f) Calendario de Sesiones del Pleno, de la Comisión Permanente y de reuniones de Comisión;
+
+g) Videoteca de las sesiones;
+
+h) Códigos, leyes, decretos, acuerdos y reglamentos;
+
+i) Iniciativas y Dictámenes;
+
+j) Registro de las votaciones por asunto;
+
+k) Estadísticas de participación por diputado, por coalición parlamentaria, por fracción parlamentaria y por grupo parlamentario;
+
+l) Eventos y convocatorias;
+
+m) Calendarización de los foros y consultas públicas, así como los medios para la recepción de propuestas;
+
+n) Comunicados de prensa;
+
+o) Vínculo a las redes sociales, que permitan la comunicación interactiva con los ciudadanos;
+
+p) Buzón electrónico de quejas y sugerencia (sic), y
+
+q) Los demás elementos que resulten necesarios a la difusión de la información oficial del Congreso.
 
 ### CAPÍTULO XII. DE LA CONTRALORÍA INTERNA
 
@@ -2551,69 +2675,17 @@ V. Investigar y calificar actos u omisiones que pudieran constituir responsabili
 
 VI. Las demás que señale la legislación aplicable y el Reglamento Interno del Órgano interno de Control.
 
-###### Artículo 170.
-
-La Unidad de Enlace de Acceso a la Información Pública tendrá las atribuciones que le señalan (sic) Ley General de la materia, la Ley de Acceso a la Información Pública del Estado y el Reglamento para el Acceso a la Información Pública del Congreso del Estado.
-
-La Unidad de Enlace de Acceso a la Información Pública dispondrá de los recursos financieros, humanos y materiales necesarios para el cumplimiento de sus fines y estará a cargo de un coordinador general, nombrado en los términos de la presente Ley.
-
-###### Artículo 171.
-
-Para el adecuado desempeño de sus funciones, la Unidad de Enlace de Acceso a la Información Pública contará con el personal necesario de acuerdo a las posibilidades presupuestales del Congreso.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
-
-###### Artículo 171 Bis.
-
-Tendrá a su cargo coordinar la debida actualización de la información pública, sin menoscabo de la que conforme a la ley deba ser difundida de oficio, apoyándose para el cumplimiento de sus atribuciones en la Secretaria General de Administración y de Servicios Legislativos, así como en la utilización de un portal oficial de internet, que contendrá como mínimo lo siguiente:
-
-a) Integración de la Legislatura, Junta de Gobierno y Coordinación Política, formas de representación parlamentaria y Mesa Directiva;
-
-b) Historial de la conformación de las Legislaturas anteriores;
-
-c) Estructura Orgánica del Congreso;
-
-d) Directorio de los servidores públicos;
-
-e) Agenda Legislativa;
-
-f) Calendario de Sesiones del Pleno, de la Comisión Permanente y de reuniones de Comisión;
-
-g) Videoteca de las sesiones;
-
-h) Códigos, leyes, decretos, acuerdos y reglamentos;
-
-i) Iniciativas y Dictámenes;
-
-j) Registro de las votaciones por asunto;
-
-k) Estadísticas de participación por diputado, por coalición parlamentaria, por fracción parlamentaria y por grupo parlamentario;
-
-l) Eventos y convocatorias;
-
-m) Calendarización de los foros y consultas públicas, así como los medios para la recepción de propuestas;
-
-n) Comunicados de prensa;
-
-o) Vínculo a las redes sociales, que permitan la comunicación interactiva con los ciudadanos;
-
-p) Buzón electrónico de quejas y sugerencia (sic), y
-
-q) Los demás elementos que resulten necesarios a la difusión de la información oficial del Congreso.
-
-### CAPITULO I. DE LAS ETAPAS DEL PROCESO LEGISLATIVO
-
 ###### Artículo 172.
 
 (DEROGADO, P.O. 14 DE DICIEMBRE DE 2021)
 
 > <small>(REFORMADO [N. DE E. ANTES CAPÍTULO VII], P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-### CAPITULO II. DE LAS INICIATIVAS
+### CAPITULO I. DE LAS ETAPAS DEL PROCESO LEGISLATIVO
 
 ## TÍTULO CUARTO. DEL PROCESO LEGISLATIVO
 
-### CAPÍTULO III. DE LA DICTAMINACIÓN
+### CAPITULO II. DE LAS INICIATIVAS
 
 ###### Artículo 173.
 
@@ -2653,7 +2725,7 @@ Cuando se considere que un asunto sea considerado de urgente y obvia resolución
 
 La discusión y votación de los dictámenes relativos a la Constitución Política de los Estados Unidos Mexicanos se desarrollaran conforme a lo establecido en esta Ley.
 
-### CAPÍTULO IV. DE LA DISCUSIÓN
+### CAPÍTULO III. DE LA DICTAMINACIÓN
 
 ###### Artículo 177.
 
@@ -2733,7 +2805,7 @@ Las iniciativas presentadas por los ciudadanos, se sujetarán a lo que disponga 
 
 Toda iniciativa cuyo dictamen haya sido considerado desechado por el Pleno, no podrá ser presentado nuevamente en el mismo período ordinario de sesiones.
 
-### CAPÍTULO V. DE LA VOTACIÓN Y DE LAS RESOLUCIONES
+### CAPÍTULO IV. DE LA DISCUSIÓN
 
 #### SECCIÓN PRIMERA. DE LOS DICTÁMENES
 
@@ -2749,13 +2821,13 @@ Ninguna iniciativa, asunto o petición se discutirá y votará en el Pleno sin e
 
 Los dictámenes deberán contener una exposición clara en la cual se habrán de expresar las razones y argumentos tomados en cuenta para emitirlo, y concluir sometiendo a la consideración del Congreso, el proyecto de ley, decreto o acuerdo, según corresponda.
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-Al dictamen, según su naturaleza, deberá acompañarse el análisis (sic) impacto presupuestario que necesariamente deba elaborarse por la Secretaría de Finanzas y de Administración del Gobierno del Estado, la cual deberá remitir dicha opinión a la Comisión Dictaminadora en un plazo que no exceda de treinta días naturales. El Centro de Investigaciones y Estudios Legislativos realizará una evaluación previa en el cual señale si existe posibilidad de impacto presupuestario; esta evaluación previa deberá notificarse a los presidentes de las Comisiones respectivas dentro de los cinco días hábiles siguientes a la fecha en que el Centro de Investigaciones y Estudios Legislativos reciba la copia de las iniciativas.
+Al dictamen, según su naturaleza, deberá acompañarse el análisis de impacto presupuestario que necesariamente deba elaborarse por la Secretaría de Finanzas y de Administración del Gobierno del Estado, la cual deberá remitir dicha opinión a la Comisión Dictaminadora por conducto de la Unidad de Estudios Económicos y de Finanzas Públicas en un plazo que no exceda de treinta días naturales.
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-En caso de que la Secretaría de Finanzas y de Administración del Gobierno del Estado no remita el análisis en el plazo de treinta días naturales previsto en el presente artículo, el Centro de Investigaciones y Estudios Legislativos emitirá la opinión correspondiente.
+En caso de que la Secretaría de Finanzas y de Administración del Gobierno del Estado no remita el análisis en el plazo de treinta días naturales previsto en el presente artículo, la Unidad de Estudios Económicos y de Finanzas Públicas emitirá la opinión correspondiente.
 
 > <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
@@ -2801,7 +2873,7 @@ Recibido el dictamen, la Mesa Directiva procederá a declarar la publicidad del 
 
 Si en el dictamen se efectúan modificaciones a la iniciativa, asunto o petición turnados para su estudio, la Comisión hará una exposición de los argumentos en que apoyó su decisión.
 
-### CAPÍTULO VI. DE LA PROMULGACIÓN, PUBLICACIÓN Y ENTRADA EN VIGOR
+### CAPÍTULO V. DE LA VOTACIÓN Y DE LAS RESOLUCIONES
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -3041,7 +3113,7 @@ Cuando el Presidente lo considere conveniente, preguntará al Pleno, quien por v
 
 Declarado suficientemente debatido o agotado el registro de oradores, se hará la declaratoria de clausura, y enseguida se someterá a votación en lo general, o en lo particular, según corresponda.
 
-### CAPITULO I. DISPOSIUCIONES (SIC) GENERALES
+### CAPÍTULO VI. DE LA PROMULGACIÓN, PUBLICACIÓN Y ENTRADA EN VIGOR
 
 ###### Artículo 214.
 
@@ -3155,9 +3227,7 @@ Los empates en las votaciones se decidirán repitiéndolas, una sola vez, y si �
 
 La fórmula de expedición de decretos o acuerdos que contengan resoluciones relativas al ejercicio de atribuciones distintas a la creación de nuevas leyes, reformas, adiciones, derogaciones de leyes o decretos vigentes, se adecuará a la naturaleza de las mismas resoluciones.
 
-### CAPITULO PRIMERO. DEL INFORME DE GESTION GUBERNAMENTAL
-
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2023)</small>
+### CAPITULO I. DISPOSIUCIONES (SIC) GENERALES
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -3239,7 +3309,9 @@ La entrada en vigor de las leyes y decretos, iniciará al día siguiente al de s
 
 ## TITULO QUINTO. DE LOS PROCEDIMENTOS (SIC) DE RESPONSABILIDAD
 
-### CAPITULO SEGUNDO. PREGUNTAS PARLAMENTARIAS
+### CAPITULO PRIMERO. DEL INFORME DE GESTION GUBERNAMENTAL
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 240.
 
@@ -3347,7 +3419,7 @@ En relación con lo dispuesto en el artículo 82, fracción IV inciso c) de la C
 
 ## TITULO SEXTO. PROCEDIMIENTOS LEGISLATIVOS ESPECIALES
 
-### CAPITULO TERCERO. PROCESO DE GLOSA DEL INFORME DE GOBIERNO
+### CAPITULO SEGUNDO. PREGUNTAS PARLAMENTARIAS
 
 ###### Artículo 258.
 
@@ -3405,6 +3477,22 @@ La Comisión designada para el análisis del informe y evaluar el cumplimiento d
 
 El Centro de Investigaciones y Estudios Legislativos, será el órgano técnico de apoyo a la realización de los trabajos de análisis y evaluación del informe antes citado.
 
+### CAPITULO TERCERO. PROCESO DE GLOSA DEL INFORME DE GOBIERNO
+
+###### Artículo 268.
+
+Bien sea que se derive de las consideraciones que al efecto se elaboren del informe de gobierno, o resulte del acuerdo del Pleno en lo concerniente a un asunto en particular, el Congreso del Estado conforme lo establece el artículo 83 de la Constitución Política del Estado, podrá formular preguntas al Titular del Poder Ejecutivo, el que deberá formular su respuesta en un término no mayor a quince días.
+
+###### Artículo 269.
+
+El procedimiento para la formulación de preguntas parlamentarias, se ajustará a lo siguiente:
+
+I.- Una vez aprobado el dictamen que contiene las consideraciones legislativas respecto del informe de gobierno, dentro del término de quince días, las diferentes formas de organización parlamentaria, podrán formular hasta cinco preguntas, respecto del contenido del citado informe, las que serán entregadas por conducto de la Junta de Gobierno y Coordinación Política, a efecto de que ésta, en su carácter de órgano de representación y coordinación, proponga a la Mesa Directiva, cuáles de ellas serán sometidas a la consideración del Pleno y enviadas al Titular del Poder Ejecutivo;
+
+II.- El Gobernador del Estado, en el término al que alude el artículo anterior, remitirá sus respuestas, las que serán hechas del conocimiento del Pleno; y,
+
+III.- Cuando a juicio del Congreso, deban formularse preguntas parlamentarias respecto de situaciones de carácter especial, derivadas de situaciones generales que hagan necesaria la colaboración entre poderes, deberá seguirse el procedimiento indicado en el presente artículo.
+
 ### CAPITULO CUARTO
 
 DE LOS ÓRGANOS CONSTITUCIONALES AUTÓNOMOS.
@@ -3428,22 +3516,6 @@ c).- Forma en que se desarrollará la comparecencia; y
 d).- Fecha de entrega de preguntas derivadas de la comparecencia.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE OCTUBRE DE 2022)</small>
-
-###### Artículo 268.
-
-Bien sea que se derive de las consideraciones que al efecto se elaboren del informe de gobierno, o resulte del acuerdo del Pleno en lo concerniente a un asunto en particular, el Congreso del Estado conforme lo establece el artículo 83 de la Constitución Política del Estado, podrá formular preguntas al Titular del Poder Ejecutivo, el que deberá formular su respuesta en un término no mayor a quince días.
-
-###### Artículo 269.
-
-El procedimiento para la formulación de preguntas parlamentarias, se ajustará a lo siguiente:
-
-I.- Una vez aprobado el dictamen que contiene las consideraciones legislativas respecto del informe de gobierno, dentro del término de quince días, las diferentes formas de organización parlamentaria, podrán formular hasta cinco preguntas, respecto del contenido del citado informe, las que serán entregadas por conducto de la Junta de Gobierno y Coordinación Política, a efecto de que ésta, en su carácter de órgano de representación y coordinación, proponga a la Mesa Directiva, cuáles de ellas serán sometidas a la consideración del Pleno y enviadas al Titular del Poder Ejecutivo;
-
-II.- El Gobernador del Estado, en el término al que alude el artículo anterior, remitirá sus respuestas, las que serán hechas del conocimiento del Pleno; y,
-
-III.- Cuando a juicio del Congreso, deban formularse preguntas parlamentarias respecto de situaciones de carácter especial, derivadas de situaciones generales que hagan necesaria la colaboración entre poderes, deberá seguirse el procedimiento indicado en el presente artículo.
-
-### CAPÍTULO QUINTO. RATIFICACIÓN Y DESIGNACIÓN DE SERVIDORES PÚBLICOS
 
 ###### Artículo 270.
 
@@ -3474,6 +3546,8 @@ Los titulares de las dependencias, entidades y organismos del Gobierno Estatal o
 La omisión de respuesta, será sancionada conforme a la ley, si al requerido le fue hecho el apremio; en todo caso, el Congreso o sus Comisiones Legislativas, se auxiliarán de cualquier medio legal o autoridad para tener acceso a la información solicitada.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2022)</small>
+
+### CAPÍTULO QUINTO. RATIFICACIÓN Y DESIGNACIÓN DE SERVIDORES PÚBLICOS
 
 ###### Artículo 277.
 
@@ -3780,3 +3854,39 @@ P.O. 23 DE AGOSTO DE 2023.
 PRIMERO. El presente Decreto, entrará en vigor al día siguiente de la entrada en vigor de las reformas a la fracción XXVII del artículo 98 y al primer párrafo del articulo 164 de la Constitución Política del Estado Libre y Soberano de Durango.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 533 QUE CONTIENE REFORMA AL SEGUNDO PÁRRAFO DEL ARTÍCULO 148 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 534 QUE CONTIENE REFORMA A LAS FRACCIONES II Y III DEL ARTÍCULO 82 Y LAS FRACCIONES VI Y VII DEL ARTÍCULO 123, AMBOS DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 535 QUE CONTIENE REFORMA AL SEGUNDO PÁRRAFO DEL ARTÍCULO 142 Y SE ADICIONA UN ARTÍCULO 142 BIS DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 536 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- La Junta de Gobierno y Coordinación Política, en un plazo que no exceda los 30 días naturales, después de la entrada en vigor del presente decreto, deberá designar a la persona titular de la Unidad de Estudios Económicos y de Finanzas Públicas.
+
+SEGUNDO.- La Junta de Gobierno y Coordinación Política instruirá a la Secretaría General para que un plazo que no exceda los 30 días naturales, después de la entrada en vigor del presente decreto, se dote de los recursos financieros, materiales y humanos que resulten necesarios a la Unidad de Estudios Económicos y de Finanzas Públicas.
+
+TERCERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+CUARTO.-·Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
