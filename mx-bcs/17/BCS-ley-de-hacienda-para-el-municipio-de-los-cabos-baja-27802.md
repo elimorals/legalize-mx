@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-los-cabos-baja-27802"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-31"
-last_updated: "2022-06-14"
+last_updated: "2023-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de diciembre de 2002.
 
@@ -2167,9 +2167,9 @@ sólidos comerciales Unidad de Medida y
 
 Actualización
 
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2023)</small>
 
-Disposición final de escombro toneladas 5 veces el valor diario de la
+Disposición final de escombro toneladas 1 vez el valor diario de la
 
 de construcción comercial Unidad de Medida y
 
@@ -2206,6 +2206,10 @@ Disposición final de lodos 1 vez el valor diario de la
 estabilizados derivados de Metro cúbico Unidad de Medida y
 
 plantas de tratamientos Actualización
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 119° BIS. Las personas físicas o jurídicas que se dediquen a realizar el servicio de recolección de basura a establecimientos comerciales, industriales, hoteles, restaurantes, hospitales privados, oficinas administrativas o de prestación de servicios con fines lucrativos, pagarán la cantidad equivalente a 1 vez el Valor Diario de la Unidad de Medida y Actualización por cada tonelada que se entreguen en la disposición final de rellenos sanitarios y/o lugares de transferencia propiedad del Municipio de Los Cabos, estando exentos de dicho pago, aquellos a que se refieren los incisos a) y b) del artículo 119 de la presente Ley.
 
 ###### ARTÍCULO 120º.
 
@@ -4164,3 +4168,11 @@ B.O. 14 DE JUNIO DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial de (sic) Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3027 SE REFORMA EL INCISO C) DE LA FRACCIÓN II DEL ARTÍCULO 119° Y SE ADICIONA UN ARTÍCULO 119 BIS, AMBOS DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. El H. Ayuntamiento del Municipio de Los Cabos a partir de la publicación del presente Decreto, contará con en un plazo no mayor de 120 días naturales, a efecto de adecuar los reglamentos y demás disposiciones administrativas aplicables para el debido cumplimiento del presente Decreto.
