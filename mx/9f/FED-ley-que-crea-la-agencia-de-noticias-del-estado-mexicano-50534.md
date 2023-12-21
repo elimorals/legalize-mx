@@ -4,7 +4,7 @@ identifier: "FED-ley-que-crea-la-agencia-de-noticias-del-estado-mexicano-50534"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-02"
-last_updated: "2022-05-11"
+last_updated: "2023-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2006-05-30"
 ---
 # LEY QUE CREA LA AGENCIA DE NOTICIAS DEL ESTADO MEXICANO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO POR EL QUE SE EXTINGUE EL ORGANISMO DESCENTRALIZADO DE LA ADMINISTRACIÓN PÚBLICA FEDERAL, NO SECTORIZADO, DENOMINADO NOTIMEX, AGENCIA DE NOTICIAS DEL ESTADO MEXICANO, Y SE ABROGA LA LEY QUE CREA LA AGENCIA DE NOTICIAS DEL ESTADO MEXICANO, PUBLICADO EN EL D.O.F. DE 21 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE CREA LA AGENCIA DE NOTICIAS DEL ESTADO MEXICANO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE DICIEMBRE DE 2023 (ABROGADA).
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 2 de junio de 2006.
 
@@ -614,3 +616,23 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
 
 Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+
+D.O.F. 21 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXTINGUE EL ORGANISMO DESCENTRALIZADO DE LA ADMINISTRACIÓN PÚBLICA FEDERAL, NO SECTORIZADO, DENOMINADO NOTIMEX, AGENCIA DE NOTICIAS DEL ESTADO MEXICANO, Y SE ABROGA LA LEY QUE CREA LA AGENCIA DE NOTICIAS DEL ESTADO MEXICANO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abrogan y en su caso derogan todas aquellas disposiciones legales, administrativas y reglamentarias que sean contrarias a lo establecido en el presente Decreto.
+
+Tercero. Los asuntos que deban pasar para su atención a otra dependencia u organismo federal, permanecerán en el último trámite que hubieren alcanzado a la entrada en vigor del presente Decreto hasta que se incorporen a las nuevas instancias, a excepción de los trámites urgentes o sujetos a plazos improrrogables, mismos que deberán despacharse durante el proceso de liquidación, en términos del presente Decreto y de las disposiciones aplicables.
+
+Cuarto. El Instituto para Devolver al Pueblo lo Robado, ejercerá las atribuciones que le confieren las leyes de la materia para la salvaguarda de los bienes que, por su propia naturaleza, requieran de un resguardo especial durante el proceso de liquidación.
+
+Asimismo, responderá con el presupuesto asignado a Notimex, Agencia de Noticias del Estado Mexicano o, en su caso, con los recursos que se obtengan o recuperen de la liquidación de dicho organismo por aquellos laudos que no se hayan adherido al presente Decreto y resoluciones que se hayan dictado o estén por dictarse con carácter definitivo y cualquier otra obligación asumida por la extinguida.
+
+Quinto. Todas las referencias que hagan mención a Notimex, Agencia de Noticias del Estado Mexicano, en las leyes y demás normatividad vigente, se deben entender realizadas al Instituto para Devolver al Pueblo lo Robado, como organismo liquidador y no como patrón sustituto ni como obligado solidario.
+
+Sexto. El Instituto para Devolver al Pueblo lo Robado, una vez concluido el proceso de liquidación de Notimex, Agencia de Noticias del Estado Mexicano, debe informar a la Secretaría de Gobernación, para que ésta lo informe a la autoridad competente, y se actualice la Relación de Entidades Paraestatales de la Administración Pública Federal.
+
+Séptimo. Los instrumentos jurídicos, contratos, o cualquier acto jurídico celebrado por Notimex, Agencia de Noticias del Estado Mexicano, seguirán vigentes y surtiendo sus efectos hasta que el Instituto para Devolver al Pueblo lo Robado lleve a cabo los actos necesarios para su terminación.
