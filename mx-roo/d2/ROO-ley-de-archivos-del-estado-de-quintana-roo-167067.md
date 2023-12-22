@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-archivos-del-estado-de-quintana-roo-167067"
 country: "mx"
 rank: "ley"
 publication_date: "2023-07-13"
-last_updated: "2023-07-13"
+last_updated: "2023-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ARCHIVOS PARA EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número 105 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 13 de julio de 2023.
 
@@ -49,7 +49,9 @@ LEY DE ARCHIVOS PARA EL ESTADO DE QUINTANA ROO
 
 Del Objeto de la Ley
 
-La presente Ley es de orden público y de observancia general en todo el Estado de Quintana Roo, y es reglamentaria del artículo 21, fracción I, párrafo segundo y quinto de la Constitución Política del Estado Libre y Soberano de Quintana Roo. Tiene por objeto establecer los principios y bases generales para la organización y conservación, administración y preservación homogénea de los archivos en posesión de los sujetos obligados por esta Ley, así como determinar las bases de organización y funcionamiento del Sistema Estatal de Archivos, así como promover el resguardo, difusión y el acceso público del Patrimonio Documental del Estado.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+La presente Ley es de orden público y de observancia general en todo el Estado de Quintana Roo, y es reglamentaria del artículo 21, fracción I párrafo segundo y fracción V párrafo primero, de la Constitución Política del Estado Libre y Soberano de Quintana Roo. Tiene por objeto establecer los principios y bases generales para la organización y conservación, administración y preservación homogénea de los archivos en posesión de los sujetos obligados por esta Ley, así como determinar las bases de organización y funcionamiento del Sistema Estatal de Archivos, así como promover el resguardo, difusión y el acceso público del Patrimonio Documental del Estado.
 
 ###### Artículo 2.
 
@@ -89,7 +91,9 @@ De su aplicación e Interpretación
 
 La aplicación e interpretación de esta Ley se hará acorde a lo previsto por la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que México sea parte, la Ley General de Archivos, la Constitución Política del Estado Libre y Soberano de Quintana Roo y Lineamientos o Criterios emitidos por el Consejo Nacional y el Consejo Local, privilegiando en todo momento el respeto irrestricto a los derechos humanos y favoreciendo en todo tiempo la protección más amplia a las personas y el interés público.
 
-A falta de disposición expresa en la presente Ley, se aplicarán de manera supletoria la Ley General de Responsabilidades Administrativas y el Código de Justicia Administrativa del Estado de Quintana Roo.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+A falta de disposición expresa en la presente Ley, se aplicarán de manera supletoria la Ley General de Responsabilidades Administrativas, el Código de Justicia Administrativa del Estado de Quintana Roo y el Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo.
 
 ###### Artículo 5.
 
@@ -179,13 +183,17 @@ XL. Metadatos: Al conjunto de datos que describen el contexto, contenido y estru
 
 XLI. Organización: Al conjunto de operaciones intelectuales y mecánicas destinadas a la clasificación, ordenación y descripción de los distintos grupos documentales con el propósito de consultar y recuperar, eficaz y oportunamente, la información. Las operaciones intelectuales consisten en identificar y analizar los tipos de documentos, su procedencia, origen funcional y contenido, en tanto que las operaciones mecánicas son aquellas actividades que se desarrollan para la ubicación física de los expedientes;
 
-XLII. Órgano de Gobierno: Al Órgano de Gobierno del Archivo General;
+XLII. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2023)
 
 XLIII. Patrimonio documental: A los documentos que, por su naturaleza, no son sustituibles y dan cuenta de la evolución del Estado mexicano y de las personas e instituciones que han contribuido en su desarrollo; además de transmitir y heredar información significativa de la vida intelectual, social, política, económica, cultural y artística de una comunidad, incluyendo aquellos que hayan pertenecido o pertenezcan a los archivos de los órganos federales, entidades federativas, municipios, casas cúrales o cualquier otra organización, sea religiosa o civil;
 
 XLIV. Plazo de conservación: Al periodo de guarda de la documentación en los archivos de trámite y concentración, que consiste en la combinación de la vigencia documental y, en su caso, el término precautorio y periodo de reserva que se establezcan de conformidad con la normatividad aplicable;
 
 XLV. Programa anual: Al Programa anual de desarrollo archivístico;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+XLV. Bis. Reglamento Interior: Al Reglamento Interior del Archivo General del Estado de Quintana Roo.
 
 XLVI. Responsable de Archivo de Trámite: Es el enlace designado por el titular de cada área o unidad del Sujeto Obligado, quien deberá cumplir con las funciones previstas en la presente Ley.
 
@@ -1287,7 +1295,17 @@ Las personas usuarias de los archivos deberán respetar las disposiciones aplica
 
 Del Archivo General del Estado
 
-El Archivo General del Estado es un Organismo Público Descentralizado no sectorizado con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna; y que tiene por objeto promover la administración y organización homogénea de Archivos, preservar, incrementar y difundir el patrimonio documental del Estado, con el fin de salvaguardar la memoria estatal de corto, mediano y largo plazo; así como para contribuir a la trasparencia, rendición de cuentas y combate a la corrupción.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+El Archivo General del Estado es un Órgano Desconcentrado de la Secretaría de Gobierno con autonomía técnica y de gestión; y que tiene por objeto promover la administración y organización homogénea de Archivos, preservar, incrementar y difundir el patrimonio documental del Estado, con el fin de salvaguardar la memoria estatal de corto, mediano y largo plazo; así como para contribuir a la trasparencia, rendición de cuentas y combate a la corrupción.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+El Archivo General del Estado se regirá jurídica y administrativamente por la presente ley y por su Reglamento Interior.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+El Archivo General del Estado contará con los recursos que le sean asignados anualmente conforme al presupuesto de Egresos del Gobierno del Estado en el ejercicio fiscal correspondiente y los ingresos que perciba por los servicios que proporcione.
 
 ###### Artículo 95.
 
@@ -1301,7 +1319,9 @@ De las atribuciones
 
 Para el cumplimiento de su objeto, el Archivo General del Estado de Quintana Roo tiene las siguientes atribuciones:
 
-I. Fungir, mediante la persona titular de la Presidencia del Consejo Local;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+I. Presidir el Consejo Local, a través de la Persona Titular del Archivo General del Estado;
 
 II. Organizar, conservar y difundir el acervo documental, gráfico, bibliográfico y hemerográfico que resguarda, con base en las mejores prácticas y las disposiciones jurídicas aplicables;
 
@@ -1341,7 +1361,9 @@ XIX. Realizar la declaratoria de patrimonio documental del Estado;
 
 XX. Realizar la declaratoria de interés público respecto de documentos o archivos privados;
 
-XXI. Autorizar la salida del Estado o dentro del mismo, de documentos declarados patrimonio documental del Estado en los términos del artículo 87 Fracción V de la presente Ley.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+XXI. Autorizar la salida del Estado o dentro del mismo, de documentos declarados patrimonio documental del Estado en los términos del artículo 83 fracción V de la presente Ley.
 
 XXII. Coadyuvar con las autoridades competentes, en la recuperación y, en su caso, incorporación a sus acervos de archivos que tengan valor histórico;
 
@@ -1359,127 +1381,57 @@ XXVIII. Suscribir convenios en materia archivística en el ámbito estatal, naci
 
 XXIX. Coordinar acciones con las instancias competentes a fin de prevenir y combatir el tráfico ilícito del patrimonio documental del Estado;
 
-XXX. Organizar y participar en eventos estatales, nacionales e internacionales en la materia, y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-XXXI. Las demás establecidas en esta Ley y en otras disposiciones jurídicas aplicables.
+XXX. Organizar y participar en eventos estatales, nacionales e internacionales en la materia,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+XXXI. Someter a la consideración de la persona titular de la Secretaría de Gobierno el Reglamento Interior para su aprobación, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+XXXII. Las demás establecidas en esta Ley y en otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 97.
 
-De su integración
-
 Para el cumplimiento de su objeto, el Archivo General del Estado de Quintana Roo se integrará por:
 
-I. Órgano de Gobierno;
+I. Dirección General;
 
-II. Dirección General;
+II. Consejo Técnico y Científico Archivístico, y
 
-III. Órgano de Vigilancia;
+III. La estructura administrativa y órganos técnicos necesarios para el cumplimiento de las atribuciones conferidas, de acuerdo con su capacidad presupuestal.
 
-IV. Consejo Técnico y Científico Archivístico, y
-
-V. Las estructuras administrativas y órganos técnicos.
-
-Las relaciones laborales entre el Archivo General del Estado y su personal se regirán por lo establecido en el Reglamento de las Condiciones Generales de trabajo y demás disposiciones legales en la materia.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ### CAPÍTULO II. DEL ÓRGANO DE GOBIERNO
 
 ###### Artículo 98.
 
-De las atribuciones del Órgano de Gobierno
-
-El Órgano de Gobierno es el cuerpo colegiado de administración del Archivo General del Estado que, además de lo previsto en la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo, tendrá las siguientes atribuciones:
-
-I. Evaluar la operación administrativa, así como el cumplimiento de los objetivos y metas del Archivo General;
-
-II. Emitir los lineamientos para el funcionamiento del Consejo Técnico; y
-
-III. Las demás previstas en otras disposiciones jurídicas aplicables.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2023)
 
 ###### Artículo 99.
 
-De su integración
-
-El Órgano de Gobierno estará integrado por los representantes de las siguientes instancias:
-
-I. La Secretaría de Gobierno, quien presidirá;
-
-II. La Secretaría de Finanzas y Planeación;
-
-III. La Secretaría de la Contraloría;
-
-IV. La Secretaría de Educación;
-
-V. El Instituto de Cultura y las Artes;
-
-VI. El Instituto Quintanarroense de Innovación y Tecnología, y
-
-VII. El Consejo Quintanarroense de Ciencia y Tecnología.
-
-Las personas integrantes del Órgano de Gobierno deberán tener por lo menos, nivel de Subsecretario o su equivalente.
-
-Cada una de las personas propietarias tendrá un suplente, mismo que será acreditado ante el Órgano Directivo por quien ostente la titularidad. Las personas integrantes propietarias del Órgano Directivo tendrán derecho a voz y voto en las sesiones que celebren, con excepción del Comisario quien sólo tendrá derecho de voz.
-
-La persona designada en calidad de persona titular de la Presidencia podrá invitar a las sesiones a representantes de todo tipo de instituciones públicas o privadas, quienes intervendrán con voz, pero sin voto. Las personas Integrantes del Órgano de Gobierno, no obtendrán remuneración, compensación o emolumento por su participación.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2023)
 
 ###### Artículo 100.
 
-De su funcionamiento
-
-El Órgano de Gobierno funcionará de conformidad a lo establecido en la Ley de Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo y demás disposiciones aplicables.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2023)
 
 ###### Artículo 101.
 
-De las Obligaciones de las personas integrantes del Órgano de Gobierno
-
-Son obligaciones de las personas integrantes del Órgano de Gobierno:
-
-I. Asistir puntualmente a las sesiones ordinarias y extraordinarias a las que se les convoque;
-
-II. Participar en las comisiones en las que se les designe;
-
-III. Discutir, y en su caso, aprobar los planes, programas y demás asuntos que sean representados en las sesiones;
-
-IV. Tomar las decisiones y medidas que en cada caso se requieran, a efecto de que el Archivo General del Estado cumpla con los objetivos que le competen; y
-
-V. Las demás que determine la normatividad aplicable.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2023)
 
 ###### Artículo 102.
 
-De las atribuciones de la Presidencia del Órgano de Gobierno
-
-La Presidencia del Órgano de Gobierno tendrá las siguientes atribuciones:
-
-I. Convocar, a través del Enlace Responsable, a las personas integrantes del Órgano de Gobierno, a las sesiones que se desarrollen conforme al orden del día que para ese efecto se elabore;
-
-II. Dirigir las sesiones del órgano de Gobierno y declarar resueltos los asuntos en el sentido de las votaciones;
-
-III. Suscribir y autorizar, en unión de la (sic) Enlace Responsable, las actas que se levanten de las sesiones que celebre el Consejo Directivo;
-
-IV. Designar los asesores necesarios para el mejor desarrollo de las actividades del organismo;
-
-V. Realizar todos los actos que fuesen necesarios para el eficiente, funcionamiento del Órgano de Gobierno y del Archivo General del Estado, y
-
-VI. Las demás que le otorgue esta Ley y demás disposiciones legales.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2023)
 
 ###### Artículo 103.
 
-Del Enlace Responsable
-
-La persona titular de la Presidencia del Órgano de Gobierno, tendrá a su cargo la designación del Enlace Responsable del mismo, quien participará en las sesiones del Órgano de Gobierno con voz pero sin voto y tendrá las siguientes atribuciones:
-
-I. Auxiliar a la Presidencia en el ejercicio de sus atribuciones;
-
-II. Comunicar a las personas integrantes del Órgano de Gobierno e invitados, las convocatorias para las sesiones que se lleven a cabo;
-
-III. Llevar a efecto el escrutinio y cómputo de las votaciones de las personas integrantes del Órgano de Gobierno en cada sesión;
-
-IV. Levantar y autorizar con su firma las actas correspondientes de las sesiones que celebre el Órgano de Gobierno;
-
-V. Expedir los testimonios o copias certificadas de las resoluciones y documentos del Órgano de Gobierno;
-
-VI. Tener a su cargo y bajo su responsabilidad, el archivo y demás documentos y objetos pertenecientes al Órgano de Gobierno, y
-
-VII. Las demás facultades que le otorgue la presente Ley y demás disposiciones legales, así como aquellas que le delegue directamente (sic) persona titular de la Presidencia del Órgano de Gobierno.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2023)
 
 ### CAPÍTULO III. DE LA DIRECCIÓN GENERAL
 
@@ -1487,7 +1439,9 @@ VII. Las demás facultades que le otorgue la presente Ley y demás disposiciones
 
 De su Designación
 
-Al frente del Archivo General del Estado de Quintana Roo, estará la persona titular de la Dirección General, que será nombrada por la persona titular del Poder Ejecutivo del Estado y que deberá cubrir los siguientes requisitos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+Al frente del Archivo General del Estado de Quintana Roo, estará la persona titular de la Dirección General, que será nombrada por la persona titular del Poder Ejecutivo del Estado, a propuesta de la Secretaría de Gobierno, la cual deberá cubrir los siguientes requisitos:
 
 I. Ser persona ciudadana mexicana, con una residencia efectiva de cuando menos cinco años en el Estado de Quintana Roo;
 
@@ -1501,55 +1455,41 @@ V. No haber sido Gobernadora o Gobernador del Estado, persona titular de una Sec
 
 Durante su gestión, la persona titular de la Dirección General no podrá desempeñar ningún otro empleo, cargo o comisión, con excepción de aquellos no remunerados en las instituciones docentes, científicas o de beneficencia, siempre que sean compatibles con sus horarios, responsabilidades y actividades dentro del Archivo.
 
-La persona titular de la Dirección General del Archivo General del Estado durará en su encargo 6 años y podrá ser ratificado.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 105.
 
 De sus facultades
 
-La persona titular de la Dirección General tendrá las siguientes facultades:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+En materia de archivos la persona titular de la Dirección General tendrá las siguientes facultades:
 
 I. Supervisar que la actividad del Archivo General del Estado cumpla con las disposiciones legales, administrativas y técnicas aplicables, así como con los programas y presupuestos aprobados;
 
-II. Proveer al Órgano de Gobierno de la información requerida para efectos de dar cumplimiento a lo previsto en la fracción I del artículo 98;
+II. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2023)
 
-III. Proponer al Órgano de Gobierno el proyecto de Reglamento Interior para su aprobación;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-IV. Nombrar y remover a las personas servidoras públicas del Archivo General, cuyo nombramiento no corresponda al Órgano de Gobierno, y
+III. Proponer a la Secretaría de Gobierno el proyecto de Reglamento Interior;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+IV. Nombrar y remover a las personas servidoras públicas del Archivo General, y
 
 V. Las demás previstas en las disposiciones jurídicas aplicables
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ### CAPÍTULO IV. DEL ÓRGANO DE VIGILANCIA
 
 ###### Artículo 106.
 
-Del Comisario
-
-El Órgano de Vigilancia del Archivo General del Estado, estará a cargo de la Comisaría, misma que será designada por la persona titular de la Secretaría de la Contraloría del Estado, de entre las personas servidoras públicas de dicha dependencia; además contará con una unidad encargada del control y vigilancia.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2023)
 
 ###### Artículo 107.
 
-De las Atribuciones
-
-Para efectos de lo establecido en el artículo anterior son facultades de la Comisaría:
-
-I. Evaluar la actividad general y por funciones del Archivo General del Estado;
-
-II. Vigilar que la administración de los recursos y el funcionamiento del Archivo General del Estado, se hagan de acuerdo con lo que disponga esta Ley y así como los programas y presupuestos aprobados y demás leyes aplicables;
-
-III. Practicar las auditorías de los estados financieros y las de carácter administrativo que se requieran;
-
-IV. Realizar estudios sobre la eficiencia con la cual se ejercen los desembolsos sobre los rubros de gasto corriente y de inversión, así como lo referente a los ingresos;
-
-V. Realizar visitas, revisiones y auditorías al Archivo General del Estado;
-
-VI. Presentar a la persona titular de la Dirección General y al Órgano de Gobierno los informes financieros que resulten de las revisiones, auditorias, análisis y evaluaciones que se realicen;
-
-VII. Solicitar información y ejecutar los actos que exija el cumplimiento adecuado de sus funciones, sin perjuicio de las tareas específicas que le ordene la Contraloría del Estado;
-
-VIII. Recomendar al Órgano de Gobierno y a la Dirección General, las medidas preventivas y correctivas que sean convenientes para el mejoramiento del Archivo General, y
-
-IX. Las demás que le atribuya la ley, otras leyes y las que sean necesarias para el ejercicio de las anteriores.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2023)
 
 ### CAPÍTULO V. DEL CONSEJO TÉCNICO Y CIENTÍFICO ARCHIVÍSTICO
 
@@ -1563,21 +1503,17 @@ El Consejo Técnico y Científico Archivístico estará conformado por trece int
 
 Los integrantes del Consejo Técnico y Científico Archivístico no obtendrán remuneración, compensación o emolumento por su participación.
 
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
 ## TÍTULO SEGUNDO. DEL PATRIMONIO DEL ARCHIVO GENERAL DEL ESTADO
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ### CAPÍTULO ÚNICO
 
 ###### Artículo 109.
 
-De su integración
-
-El patrimonio del Archivo General del Estado estará integrado por:
-
-I. Los recursos que le sean asignados anualmente conforme al presupuesto de Egresos del Estado correspondiente;
-
-II. Los ingresos que perciba por los servicios que proporcione, y
-
-III. Los demás ingresos, bienes, derechos y obligaciones que adquiera, se le asignen, transfieran o adjudiquen por cualquier título jurídico.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2023)
 
 # LIBRO TERCERO. DE LAS INFRACCIONES ADMINISTRATIVAS EN CONTRA DE LOS ARCHIVOS
 
@@ -1645,7 +1581,7 @@ PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación 
 
 SEGUNDO. Con la entrada en vigor de la presente Ley, se abroga la Ley del Sistema de Documentación del Estado de Quintana Roo, de fecha 28 de diciembre de 2001 así como todas aquellas disposiciones que contravengan la presente Ley.
 
-TERCERO. El Archivo General del Estado permanecerá como Órgano Administrativo Desconcentrado sectorizado a la Secretaría de Gobierno hasta el 31 de diciembre de 2023. A partir del 1 de enero de 2024 se incluirá dentro de la relación de las Entidades Paraestatales de la Administración Pública Estatal.
+TERCERO. (DEROGADO, P.O. 22 DE DICIEMBRE DE 2023)
 
 CUARTO. El Consejo Local de Archivos de Quintana Roo, deberá instalarse en su primera sesión ordinaria, en un plazo no mayor a 180 días hábiles, contados a partir de la entrada en vigor de la presente Ley.
 
@@ -1653,9 +1589,9 @@ QUINTO. El Consejo Local de Archivos una vez instalado, emitirá en un plazo no 
 
 SEXTO. Las Secretarías de Gobierno, de Finanzas y Planeación y de la Contraloría en el ámbito de sus atribuciones, realizarán las acciones necesarias para proveer de recursos humanos, financieros, tecnológicos y materiales al Archivo General del Estado. El Presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales necesarios para cumplir sus funciones.
 
-SÉPTIMO. La persona titular de la Dirección General del Archivo General del Estado, que se encuentre en funciones al entrar en vigor la presente Ley, asumirá las funciones de la titularidad de la Dirección General del Archivo General del Estado por un término de 6 años y concluido este período podrá ser ratificado, siempre y cuando cumpla con los requisitos establecidos en el artículo 104 de la presente Ley.
+SÉPTIMO. (DEROGADO, P.O. 22 DE DICIEMBRE DE 2023)
 
-OCTAVO. El Órgano de Gobierno del Archivo General del Estado, deberá expedir y publicar en el Periódico oficial del Estado en un período no mayor de un año contado a partir de la entrada en vigor de la presente Ley, el Estatuto orgánico del Archivo General del Estado.
+OCTAVO. (DEROGADO, P.O. 22 DE DICIEMBRE DE 2023)
 
 NOVENO. Los sujetos obligados deberán implementar su Sistema Institucional de Archivos, dentro de los seis meses posteriores a la entrada en vigor de la presente Ley.
 
@@ -1673,9 +1609,9 @@ Los avances de estos trabajos deberán ser publicados al final de cada año medi
 
 DÉCIMO TERCERO. En un plazo de un año, contado a partir de la entrada en vigor de la presente Ley, los sujetos obligados deberán establecer programas de capacitación en materia de gestión documental y administración de archivos.
 
-DÉCIMO CUARTO. El personal del Archivo General del Estado en su calidad de Órgano Administrativo Desconcentrado de la Secretaría de Gobierno del Estado de Quintana Roo, en términos del artículo tercero transitorio pasará a ser parte del Archivo General del Estado, como ente Descentralizado y conservará todos los derechos laborales adquiridos de forma previa al presente decreto, por lo que en ninguna forma resultarán transgredidos en su antigüedad, prestaciones, derechos y obligaciones laborales.
+DÉCIMO CUARTO. (DEROGADO, P.O. 22 DE DICIEMBRE DE 2023)
 
-DÉCIMO QUINTO. El patrimonio del Archivo General del Estado en su calidad de Órgano Administrativo Desconcentrado de la Secretaría de Gobierno del Estado de Quintana Roo pasará al dominio del Archivo General del Estado como ente Descentralizado.
+DÉCIMO QUINTO. (DEROGADO, P.O. 22 DE DICIEMBRE DE 2023)
 
 SALÓN DE SESIONES DEL HONORABLE PODER LEGISLATIVO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS SEIS DÍAS DEL MES DE JULIO DEL AÑO DOS MIL VEINTITRÉS.
 
@@ -1688,3 +1624,17 @@ DIPUTADA SECRETARIA:
 DRA. YOHANET TEODULA TORRES MUÑOZ.
 
 En cumplimiento a lo dispuesto por la fracción II del Artículo 91 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, y para su debida publicación y observancia, promulgo el presente Decreto número 088 en la Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Chetumal Quintana Roo, a 06 de julio de 2023.- Lic. María Elena H. Lezama Espinosa.- Rúbrica.- Conforme a los artículos 93 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, y 11 de la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, refrendado por la Secretaria de Gobierno, Lic. María Cristina Torres Gómez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 201, POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ARCHIVOS DEL ESTADO DE QUITANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En un plazo no mayor a un año posterior a la entrada en vigor del presente Decreto, la persona Titular del Poder Ejecutivo deberá emitir y/o modificar los reglamentos y demás disposiciones normativas y administrativas necesarios para que se dé cabal cumplimiento a lo previsto en el presente Decreto.
+
+TERCERO. Se derogan los Artículos Tercero, Séptimo, Octavo, Décimo Cuarto y Décimo Quinto Transitorios de la Ley de Archivos del Estado de Quintana Roo, publicada en el Periódico Oficial del Estado en fecha 13 de julio de 2023.
+
+CUARTO. Se derogan todas las disposiciones que resulten contrarias al presente Decreto.
