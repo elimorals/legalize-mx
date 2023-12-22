@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2022-03-04"
+last_updated: "2023-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -475,11 +475,11 @@ Los causantes y retenedores de este impuesto estarán obligados a presentar sus 
 
 La autoridad fiscal verificará la exactitud y veracidad de la declaración, exigiendo el pago que realmente corresponda e imponiendo las sanciones respectivas.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 69.
 
-Las declaraciones deberán hacerse en las formas aprobadas por la Secretaría de Planeación y Finanzas y en ellas se consignarán todos los datos que las mismas exijan.
+Las declaraciones deberán hacerse en las formas aprobadas por la Secretaría de Hacienda y en ellas se consignarán todos los datos que las mismas exijan.
 
 ###### ARTICULO 70.
 
@@ -559,9 +559,9 @@ Es obligación de las personas que obtengan los bienes o servicios consignados e
 
 En los casos de compras de mercancías facturadas en el extranjero, éstas deberán estar amparadas con la correspondiente relación aduanal de importación o boletas en su caso, a nombre del causante.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-En los casos en que no se recabe la documentación de referencia, el comprador deberá comunicarlo de inmediato a la Secretaría de Planeación y Finanzas del Estado, y en caso de no hacerlo será solidariamente responsable del impuesto omitido.
+En los casos en que no se recabe la documentación de referencia, el comprador deberá comunicarlo de inmediato a la Secretaría de Hacienda, y en caso de no hacerlo será solidariamente responsable del impuesto omitido.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 1977)</small>
 
@@ -647,11 +647,11 @@ Los contadores, al firmar o rendir dictamen sobre el balance de los contribuyent
 
 En el caso de translación de dominio, por cualquier título, de establecimientos en los cuales perciban ingresos gravados con este impuesto, con los mismos negocios se responderá objetivamente de los créditos fiscales insolutos.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 83.
 
-Las personas físicas o morales que tengan relaciones mercantiles con alguno o algunos de los causantes de este Impuesto, deberán auxiliar a la Secretaría de Planeación y Finanzas y a sus Dependencias, suministrándoles los informes y datos que soliciten en relación con la aplicación de este mismo Impuesto.
+Las personas físicas o morales que tengan relaciones mercantiles con alguno o algunos de los causantes de este Impuesto, deberán auxiliar a la Secretaría de Hacienda y a sus Dependencias, suministrándoles los informes y datos que soliciten en relación con la aplicación de este mismo Impuesto.
 
 ###### ARTICULO 84.
 
@@ -933,11 +933,11 @@ DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TO
 
 DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1979.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 119.
 
-Los causantes de este impuesto deberán pagarlo mensualmente dentro de los días del primero al veinte de cada mes, conforme al volumen despepitado en el mes inmediato anterior mediante la presentación de una declaración en las formas autorizadas por la Secretaría de Planeación y Finanzas en la Recaudación de Rentas correspondiente, la que deberá contener el dato de los kilos de algodón en pluma despepitados y el tonelaje de la semilla de algodón obtenida.
+Los causantes de este impuesto deberán pagarlo mensualmente dentro de los días del primero al veinte de cada mes, conforme al volumen despepitado en el mes inmediato anterior mediante la presentación de una declaración en las formas autorizadas por la Secretaría de Hacienda en la Recaudación de Rentas correspondiente, la que deberá contener el dato de los kilos de algodón en pluma despepitados y el tonelaje de la semilla de algodón obtenida.
 
 ###### ARTICULO 120.- N.
 
@@ -1033,29 +1033,41 @@ Cuando los servicios a que se refiere el Artículo 127 de esta Ley, se reciban c
 
 En cualquiera de los supuestos previstos en el artículo 127 de esta Ley, cuando intervenga de cualquier manera una persona física o moral en su carácter de intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje y en caso de que se cubra a través de ella lo correspondiente al Impuesto Sobre Servicios de Hospedaje, ésta deberá ser quien entere el pago del impuesto correspondiente. En este último supuesto donde la persona física o moral en su carácter de intermediario, promotor o facilitador sea quien entere el pago del Impuesto Sobre Servicios de Hospedaje, se liberará al contribuyente del impuesto correspondiente y a las personas que presten los servicios de hospedaje de las obligaciones establecidas en el primer párrafo del presente artículo, así como de las establecidas en el artículo 132 de esta Ley.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 131.
 
-Quienes presten los servicios señalados en este capítulo tendrán el carácter de retenedores y deberán enterarlo mensualmente, a más tardar el día veinticinco del mes siguiente a aquel al que corresponda el impuesto causado, mediante las formas aprobadas por la Secretaría de Planeación y Finanzas del Estado; debiendo constar en la declaración correspondiente, la información y demás datos relativos a los actos y operaciones objeto de este impuesto, que se hayan realizado en el mes inmediato anterior.
-
-Tratándose de intermediarios que reciban el pago por el servicio de hospedaje y el Impuesto Sobre Servicios de Hospedaje, deberán enterar los impuestos que se hayan recaudado en el mes inmediato anterior, en los mismos plazos señalados en el párrafo anterior y presentar la declaración del impuesto en los términos del mismo párrafo.
+Quienes presten los servicios señalados en este capítulo tendrán el carácter de retenedores y deberán enterarlo mensualmente, a más tardar el día veinticinco del mes siguiente a aquel al que corresponda el impuesto causado, mediante las formas aprobadas por la Secretaría de Hacienda; debiendo constar en la declaración correspondiente, la información y demás datos relativos a los actos y operaciones objeto de este impuesto, que se hayan realizado en el mes inmediato anterior.
 
 > <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
 
+Tratándose de intermediarios que reciban el pago por el servicio de hospedaje y el Impuesto Sobre Servicios de Hospedaje, deberán enterar los impuestos que se hayan recaudado en el mes inmediato anterior, en los mismos plazos señalados en el párrafo anterior y presentar la declaración del impuesto en los términos del mismo párrafo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 132.
 
-Las personas que presten los servicios de hospedaje, serán responsables solidarios de este impuesto, además de las obligaciones señaladas en el Código Fiscal del Estado; con excepción del Impuesto Adicional para la Educación Media y Superior, de conformidad a lo establecido en los Artículos 155 y 156 de esta Ley; y, estarán obligados a lo siguiente:
+Las personas que presten los servicios de hospedaje, serán responsables solidarios de este impuesto, además de las obligaciones señaladas en el Código Fiscal del Estado; estarán obligados a lo siguiente:
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
 
 I.- Estar inscritos en el Registro Estatal de Causantes, mediante la forma oficial correspondiente, y proporcionar la información relacionada con su identidad, su domicilio y aquella que le sea solicitada;
 
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
+
 II.- Retener y enterar el impuesto, aún cuando no hubieren hecho la retención o no hayan recibido el pago de las contraprestaciones del servicio prestado.
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
 
 III.- Llevar los controles contables necesarios que acrediten en forma fehaciente cada uno de los actos y operaciones objeto de este impuesto.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
+
 Dentro de estos controles se incluye la separación expresa en el comprobante fiscal expedido del monto de las contraprestaciones correspondientes a los servicios de hospedaje, servicios accesorios, transportación, alimentación y otros similares.
 
-Los intermediarios, promotores o facilitadores a los que hace referencia el artículo 130 de la presente Ley, estarán obligados a cumplir con las fracciones señaladas anteriormente, en los términos de las reglas de carácter general que para tal efecto deberá emitir la Secretaría de Planeación y Finanzas del Estado.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+Los intermediarios, promotores o facilitadores a los que hace referencia el artículo 130 de la presente Ley, estarán obligados a cumplir con las fracciones señaladas anteriormente, en los términos de las reglas de carácter general que para tal efecto deberá emitir la Secretaría de Hacienda.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -1159,11 +1171,9 @@ III.- Proporcionar la información que en relación con este impuesto se les sol
 
 IV.- Registrar la obligación de pago del presente impuesto y los establecimientos en los que se realicen las actividades gravadas, ante la Recaudación de Rentas del Estado respectiva, dentro de los 15 días siguientes a que inicie operaciones o a que empiece a enajenar los bienes referidos en este capítulo.
 
-> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2020)</small>
+###### ARTÍCULO 136
 
-###### ARTICULO 136
-
-6.- No se causará por la presente contribución el impuesto adicional para la educación media y superior.
+6.- (DEROGADO, P.O. 22 DE DICIEMBRE DE 2023)
 
 (NOTA: EL 14 DE MARZO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 119/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
@@ -1197,13 +1207,13 @@ Son sujetos de este impuesto las personas fisecias (sic) o morales que obtengan 
 
 Este impuesto se causará con base en los ingresos que se obtengan por la explotación de las actividades que señala el Artículo 137 de esta Ley, y se pagará conforme a las tarifas y cuotas que señala la Ley de Ingresos del Estado.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 140.
 
-El Impuesto deberá pagarse al término de cada función, por conducto del Interventor que al efecto designe la Recaudación de Rentas del Estado. La liquidación del impuesto deberá hacerse en las formas aprobadas por la Secretaría de Planeación y Finanzas.
+El Impuesto deberá pagarse al término de cada función, por conducto del Interventor que al efecto designe la Recaudación de Rentas del Estado. La liquidación del impuesto deberá hacerse en las formas aprobadas por la Secretaría de Hacienda.
 
-La Secretaría de Planeación y Finanzas podrá autorizar al contribuyente, para enterar el impuesto causado, ante la Oficina de Recaudación de Rentas de cuya jurisdicción corresponda, al siguiente día hábil de aquel en que se celebre la función o funciones.
+La Secretaría de Hacienda podrá autorizar al contribuyente, para enterar el impuesto causado, ante la Oficina de Recaudación de Rentas de cuya jurisdicción corresponda, al siguiente día hábil de aquel en que se celebre la función o funciones.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -1239,37 +1249,49 @@ III.- Recaudar el Impuesto que se cause con motivo de la celebración de las act
 
 2.- Los honorarios de los Interventores de los eventos a que se refiere el Artículo 137 de esta Ley se determinarán discrecionalmente por el Recaudador de Rentas del Estado, y en ningún caso será menor al equivalente de cuatro salarios mínimos general vigente en el Estado.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 143
 
 3.- Los contribuyentes de este impuesto tienen, además las siguientes obligaciones:
 
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1993)</small>
+
 I.- Presentar ante la Recaudación de Rentas de cuya jurisdicción corresponda, para su resello, el boletaje y el programa que corresponda a cada función, en el mismo término que establece el Artículo 142 de esta Ley.
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1993)</small>
 
 II.- No vender boletos en tanto no estén resellados por las Autoridades Fiscales.
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-III.- Permitir a los Interventores que designe la Secretaría de Planeación y Finanzas o sus Oficinas de Recaudación de Rentas, la verificación y determinación del pago del impuesto, dándole las facilidades que requieran para su cumplimiento.
+III.- Permitir a los Interventores que designe la Secretaría de Hacienda o sus Oficinas de Recaudación de Rentas, la verificación y determinación del pago del impuesto, dándole las facilidades que requieran para su cumplimiento.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE OCTUBRE DE 1993)</small>
 
 IV. - Los contribuyentes de este impuesto que exploten espectáculos en forma eventual, tendrán además las siguientes obligaciones:
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1993)</small>
+
 A).- Dar aviso de la iniciación de las actividades a que se refiere el Artículo 137 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1993)</small>
 
 B).- Dar el aviso a que se refiere el Artículo 142 de esta Ley, señalando además la fecha en que habrán de concluir las actividades en cada jurisdicción.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1993)</small>
+
 C).- Dar el aviso correspondiente en los casos de ampliación del período de explotación, ante la Oficina de Recaudación de Rentas de su jurisdicción, a más tardar el día último que comprenda el aviso, cuya vigencia se vaya ampliar y,
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-D).- Previamente a la iniciación de actividades, otorgar garantías a satisfacción de la Secretaría de Planeación y Finanzas previstas en el Código Fiscal del Estado, que no será inferior al impuesto estimado correspondiente a un día de actividades, ni superior al que pudiera corresponder también estimativamente a tres días.
+D) Previamente a la iniciación de actividades, otorgar garantías a satisfacción de la Secretaría de Hacienda previstas en el Código Fiscal del Estado, que no será inferior al impuesto estimado correspondiente a un día de actividades, ni superior al que pudiera corresponder también estimativamente a tres días.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 143
 
-4.- Cuando los sujetos de este impuesto, obligados a otorgar garantía de acuerdo con lo dispuesto en la Fracción V Inciso D) del Artículo anterior, no hubieran cumplido con tal obligación, la Secretaría de Planeación y Finanzas podrá suspender el espectáculo, hasta en tanto no se garantice el pago del impuesto, para lo cual, el interventor que se designe solicitará el auxilio de la fuerza pública.
+4.- Cuando los sujetos de este impuesto, obligados a otorgar garantía de acuerdo con lo dispuesto en la Fracción V Inciso D) del Artículo anterior, no hubieran cumplido con tal obligación, la Secretaría de Hacienda podrá suspender el espectáculo, hasta en tanto no se garantice el pago del impuesto, para lo cual, el interventor que se designe solicitará el auxilio de la fuerza pública.
 
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1993)</small>
 
@@ -1317,23 +1339,23 @@ Son sujetos de este impuesto, las personas físicas o morales que celebren las o
 
 Para los efectos de este impuesto la base gravable será:
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-I.- Tratándose de vehículos automotores, los valores que señale al Tabulador Oficial de Valores mínimos que expida la Secretaría de Planeación y Finanzas del Estado.
+I. Tratándose de vehículos automotores, los valores que señale al Tabulador Oficial de Valores mínimos que expida la Secretaría de Hacienda;
 
 II.- En los demás casos, el valor de la operación.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-Cuando el valor de la operación sea notoriamente bajo en relación con el precio comercial, la Secretaría de Planeación y Finanzas procederá a efectuar avalúo pericial para determinar su valor real.
+Cuando el valor de la operación sea notoriamente bajo en relación con el precio comercial, la Secretaría de Hacienda procederá a efectuar avalúo pericial para determinar su valor real.
 
 Tasas y Pago
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 147.
 
-El Impuesto se causará conforme las tasas que fije la Ley de Ingresos del Estado y deberá pagarse su importe en el momento de celebrarse la operación, en la Oficina Recaudadora correspondiente, mediante la presentación de una manifestación en las formas aprobadas por la Secretaría de Planeación y Finanzas.
+El Impuesto se causará conforme las tasas que fije la Ley de Ingresos del Estado y deberá pagarse su importe en el momento de celebrarse la operación, en la Oficina Recaudadora correspondiente, mediante la presentación de una manifestación en las formas aprobadas por la Secretaría de Hacienda.
 
 ###### ARTICULO 148.
 
@@ -1381,17 +1403,17 @@ DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TO
 
 5.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1981.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 151
 
-6.- Cuando de las manifestaciones del arrendador se infiera que las rentas que produce el inmueble arrendado son inferiores a las que debe producir el predio objeto del contrato, la Secretaría de Planeación y Finanzas podrá proceder a determinarlas para fines fiscales a razón de 1% mensual del valor comercial que establezca para cada caso en particular la Dirección de Catastro del Estado o sus dependencias en cada Municipio.
+6.- Cuando de las manifestaciones del arrendador se infiera que las rentas que produce el inmueble arrendado son inferiores a las que debe producir el predio objeto del contrato, la Secretaría de Hacienda podrá proceder a determinarlas para fines fiscales a razón de 1 % mensual del valor comercial que establezca para cada caso en particular la Dirección de Catastro del Estado o sus dependencias en cada Municipio.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 151
 
-7.- Los causantes de este impuesto están obligados a presentar las declaraciones correspondientes a su pago en la Oficina Recaudadora correspondiente a la ubicación de los inmuebles, en las formas aprobadas por la Secretaría de Planeación y Finanzas del Estado.
+7.- Los causantes de este impuesto están obligados a presentar las declaraciones correspondientes a su pago en la Oficina Recaudadora correspondiente a la ubicación de los inmuebles, en las formas aprobadas por la Secretaría de Hacienda.
 
 ###### ARTICULO 151
 
@@ -1405,23 +1427,23 @@ DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TO
 
 9.-... (Sic)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-I.- Empadronarse en la Secretaría de Planeación y Finanzas, por conducto de la Oficina Recaudadora correspondiente, dentro de los quince días siguientes a aquel en que celebre su primer contrato de arrendamiento, haciendo uso de las formas aprobadas.
+I. Empadronarse en la Secretaría de Hacienda, por conducto de la Oficina Recaudadora correspondiente, dentro de los quince días siguientes a aquel en que celebre su primer contrato de arrendamiento, haciendo uso de las formas aprobadas.
 
 Cuando ... (Sic)
 
 II.-... (Sic)
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-III.- Adoptar las medidas de control que para el correcto pago del impuesto establezca la Secretaría de Planeación y Finanzas del Estado.
+III. Adoptar las medidas de control que para el correcto pago del impuesto establezca la Secretaría de Hacienda.
 
-> <small>(REFORMADO [N. DE E., ADICIONADO], P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 151
 
-10.- El arrendatario o subarrendatario que hubiese realizado obras de construcción a beneficio de inmuebles objeto del contrato deberá dar aviso a la Secretaría de Planeación y Finanzas al término de la obra y especificar el valor de la misma.
+10.- El arrendatario o subarrendatario que hubiese realizado obras de construcción a beneficio de inmuebles objeto del contrato deberá dar aviso a la Secretaría de Hacienda al término de la obra y especificar el valor de la misma.
 
 ###### ARTICULO 151
 
@@ -1469,11 +1491,13 @@ Si quien efectúa los pagos está domiciliado fuera del Estado, y no tiene dentr
 
 15.- Son sujetos del impuesto las personas físicas y morales que se encuentran domiciliadas en el Estado, o tengan en éste agencias, sucursales o representación y realicen los pagos por remuneración al trabajo personal prestado bajo la dirección y dependencia de un tercero. Así como las personas que no se encuentren domiciliados en el Estado, ni tengan en éste agencias, sucursales o representación y realicen pagos por remuneraciones al trabajo a personas que presten sus servicios de carácter personal en el Estado.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 151
 
-16.- Este impuesto se liquidará y pagará de conformidad con la tasa que estipule la Ley de Ingresos del Estado, aplicada al total de los pagos efectuados por el empleador, según los periodos establecidos por el Artículo 151-14, o al total de las percepciones que en el mismo periodo obtengan fuera del Estado, quienes presten servicios de carácter personal dentro del mismo.
+16.- Este Impuesto se liquidará y pagará a una tasa del 4.25%, aplicada al total de los pagos efectuados por el empleador, según los períodos establecidos por el Artículo 151-14 o al total de las percepciones que en el mismo período obtengan fuera del Estado, quienes presten servicios de carácter personal dentro del mismo.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
 
 La cantidad destinada por concepto de recaudación de este impuesto, así como los objetivos del mismo, se regularán por las disposiciones que al efecto señala la Ley de Ingresos del Estado de Baja California vigente.
 
@@ -1561,11 +1585,11 @@ En este caso, quienes efectúen los pagos están obligados a retener y enterar e
 
 24.- Este Impuesto se liquidará y pagará de conformidad con la tasa que estipule la Ley de Ingresos del Estado.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 151
 
-25.- El pago de este Impuesto se hará bimestralmente ante la Oficina Recaudadora de la jurisdicción del causante, dentro de los meses de Enero, Marzo, Mayo, Julio, Septiembre y Noviembre de cada año, por los ingresos obtenidos en el bimestre inmediato anterior, haciendo uso de las formas aprobadas por la Secretaría de Planeación y Finanzas del Estado.
+25.- El pago de este Impuesto se hará bimestralmente ante la Oficina Recaudadora de la jurisdicción del causante, dentro de los meses de Enero, Marzo, Mayo, Julio, Septiembre y Noviembre de cada año, por los ingresos obtenidos en el bimestre inmediato anterior, haciendo uso de las formas aprobadas por la Secretaría de Hacienda.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
@@ -1573,9 +1597,9 @@ En este caso, quienes efectúen los pagos están obligados a retener y enterar e
 
 26.- Los sujetos de este Impuesto que habitualmente ejerzan las actividades a que se refiere el Artículo 151-21, están obligados a:
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-I.- Empadronarse en la Secretaría de Planeación y Finanzas por conducto de la Oficina Recaudadora de su jurisdicción, dentro de los diez días hábiles siguientes a aquél en que inicien sus actividades, utilizando las formas aprobadas por la misma Secretaría.
+I. Empadronarse en la Secretaría de Hacienda por conducto de la Oficina Recaudadora de su jurisdicción, dentro de los diez días hábiles siguientes a aquél en que inicien sus actividades, utilizando las formas aprobadas por la misma Secretaría;
 
 II.- Dar aviso a la Oficina Recaudadora correspondiente, en los casos de cambio de domicilio, así como en los de suspensión o cambio de actividades dentro de los diez días hábiles siguientes contados a partir de la fecha en que ocurra el cambio.
 
@@ -1585,11 +1609,11 @@ IV.- Recibir las visitas de inspección y proporcionar a las Autoridades Fiscale
 
 V.- Expedir la documentación comprobatoria de sus ingresos, que deberá ser prenumerada, señalando como mínimo, nombre, dirección, actividad y número de registro.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 151
 
-27.- Las personas físicas, jurídicas o unidades económicas que hagan pagos a causantes que eventualmente sean sujetos de este Impuesto dentro del Territorio del Estado, deberán retenerlo y enterarlo en la Oficina Recaudadora correspondiente; utilizando, las formas aprobadas por la Secretaría de Planeación y Finanzas del Estado, dentro de los tres días siguientes al en que se cause, siendo en todo caso solidariamente responsable del pago del mismo.
+27.- Las personas físicas, jurídicas o unidades económicas que hagan pagos a causantes que eventualmente sean sujetos de este Impuesto dentro del Territorio del Estado, deberán retenerlo y enterarlo en la Oficina Recaudadora correspondiente; utilizando, las formas aprobadas por la Secretaría de Hacienda, dentro de los tres días siguientes al en que se cause, siendo en todo caso solidariamente responsable del pago del mismo.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
@@ -1597,11 +1621,11 @@ V.- Expedir la documentación comprobatoria de sus ingresos, que deberá ser pre
 
 28.- De los ingresos que obtenga el causante mensualmente, se considerará ingreso exento para los efectos del pago de este Impuesto, la cantidad equivalente hasta el doble del valor mensual de la Unidad de Medida y Actualización vigente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 151
 
-29.- La Secretaría de Planeación y Finanzas podrá estimar los ingresos de los sujetos de este Impuesto en los siguientes casos:
+29.- La Secretaría de Hacienda podrá estimar los ingresos de los sujetos de este Impuesto en los siguientes casos:
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
@@ -1679,61 +1703,25 @@ El período a que debe referirse el por ciento, será como mínimo de un bimestr
 
 ### CAPITULO XVII. Impuesto Adicional para la Educación Media y Superior
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
 ###### ARTICULO 152.
 
-Son objeto del Impuesto Adicional para la Educación Media y Superior, los impuestos y derechos que se causen conforme a las leyes fiscales del Estado. No se pagará el Impuesto cuando se origine de aquellos que se encuentren suspendidos.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2023)
 
 ###### ARTICULO 153.
 
-La base gravable de este impuesto será el importe de los impuestos y derechos que se causen.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2023)
 
 ###### ARTICULO 154.
 
-Este Impuesto se causará conforme la tasa que fije la Ley de Ingresos del Estado y se pagará en el momento en que se cubran las prestaciones fiscales, enterándolo en la Recaudación de Rentas correspondiente.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2023)
 
 ###### ARTICULO 155.
 
-Son sujetos de este impuesto, quienes causen los impuestos y derechos a que se refiere el Artículo 152.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE JUNIO DE 2013)</small>
-
-Para efectos de su causación, tratándose del Impuesto sobre Servicios de Hospedaje, en cuanto a las retenciones a cargo de terceros, no se pagará este impuesto adicional, ni tendrán responsabilidad solidaria, aquellos que presten los servicios de hospedaje de conformidad a lo previsto en los términos de los Artículos 131 y 132 de esta Ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 1975)</small>
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2023)
 
 ###### ARTICULO 156.
 
-No causarán este Impuesto:
-
-I.- Los derechos de registro de escrituras relativas a créditos hipotecarios, refaccionarios o de habilitación o avío, destinados a actividades agropecuarias.
-
-II.- El Impuesto sobre compraventa de algodón.
-
-III.- Los Impuestos a cargo de los ejidatarios.
-
-IV.- El Impuesto sobre venta de primera mano de gasolina y derivados del petróleo destinados al consumo del Estado.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2013)</small>
-
-V.- El Impuesto sobre Servicios de Hospedaje;
-
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 1975)</small>
-
-VI.- El Impuesto Sobre Actividades Mercantiles e Industriales solo por lo que se declare exento en el Artículo 56, de esta Ley.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1980)</small>
-
-VII.- Los derechos que se causen por los servicios prestados por los Organismos Descentralizados del Estado respecto de los cuales se pague el Impuesto al Valor Agregado.
-
-> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 1975)</small>
-
-VIII.- El Impuesto Sobre Profesiones y Ejercicios Lucrativos.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2023)
 
 > <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE LA APLICACIÓN DE LOS PRECEPTOS LEGALES QUE ESTABLECE EL SIGUIENTE IMPUESTO ESTATAL, P.O. 31 DE DICIEMBRE DE 1979.</small>
 
@@ -1759,11 +1747,11 @@ VIII.- El Impuesto Sobre Profesiones y Ejercicios Lucrativos.
 
 5.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1979.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 156
 
-6.- Los retenedores de éste impuesto deberán enterarlo en la Recaudación de Rentas del Estado correspondiente dentro de los días del 1ro. al 20 del mes siguiente a aquél en que haya sido retenido mediante la presentación de una declaración en las formas aprobadas por la Secretaría de Planeación y Finanzas del Estado.
+6.- Los retenedores de este impuesto deberán enterarlo en la Recaudación de Rentas del Estado correspondiente dentro de los días del 1ro. al 20 del mes siguiente a aquél en que haya sido retenido mediante la presentación de una declaración en las formas aprobadas por la Secretaría de Hacienda.
 
 ###### ARTICULO 156
 
@@ -1817,13 +1805,11 @@ Las erogaciones a que se refiere el párrafo anterior incluyen la carga y cualqu
 
 Cuando el pago o contraprestación a favor del operador del establecimiento se realice en especie, el contribuyente deberá proveer de recursos en efectivo al operador del establecimiento para que éste pueda recaudar el impuesto. La omisión del contribuyente a lo previsto en este párrafo, no libera al operador de la responsabilidad solidaria prevista en este capítulo.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 156
 
 9.- El impuesto previsto en esta sección se causará y pagará con independencia de los impuestos a que se refiere la Sección Segunda de este Capítulo.
-
-No obstante, lo señalado en el párrafo anterior, el impuesto previsto en el presente Capítulo no causará el impuesto adicional para la educación media y superior.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -2047,7 +2033,9 @@ IX.- Peso Bruto Vehicular: Es el peso del vehículo totalmente equipado incluyen
 
 Tratándose de permisos de traslado, el impuesto a que hace referencia el presente Capítulo, se pagará al momento de solicitar dicho permiso, siempre que no hayan transcurrido los diez días hábiles señalados en el párrafo anterior; en caso contrario el impuesto deberá pagarse dentro de dicho periodo.
 
-El pago de este impuesto se realizará en cualquiera de las oficinas Recaudadoras de Rentas del Estado, instituciones o establecimientos autorizados para ello, o bien mediante los medios electrónicos que autorice para tal efecto la Secretaría de Planeación y Finanzas.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+El pago de este impuesto se realizará en cualquiera de las oficinas Recaudadoras de Rentas del Estado, instituciones o establecimientos autorizados para ello, o bien mediante los medios electrónicos que autorice para tal efecto la Secretaría de Hacienda.
 
 Los contribuyentes de este impuesto no están obligados a presentar, por dicha contribución, la solicitud de inscripción ni los avisos del registro estatal de causantes. No obstante lo anterior, los contribuyentes que se encuentren inscritos en el citado registro para efectos del pago de otras contribuciones, deberán anotar su clave correspondiente en los formatos de pago de este impuesto.
 
@@ -2325,7 +2313,9 @@ VII.- Los que tengan para su venta los fabricantes, las plantas ensambladoras, s
 
 VIII.- Los automóviles eléctricos nuevos y usados, así como aquellos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno.
 
-IX.- Los automóviles propiedad de personas con discapacidad debidamente acreditada en los términos que establezca la Secretaría de Planeación y Finanzas del Estado. Un vehículo por persona.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+IX.- Los automóviles propiedad de personas con discapacidad debidamente acreditada en los términos que establezca la Secretaría de Hacienda. Un vehículo por persona.
 
 X.- Los Automóviles propiedad de asociaciones civiles que no persigan fines de lucro y de asociaciones religiosas constituidas en los términos de la Ley respectiva, con domicilio en Baja California.
 
@@ -2335,11 +2325,11 @@ XII.- Los automóviles propiedad de partidos políticos debidamente registrados 
 
 Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el propietario del mismo deberá pagar el impuesto correspondiente dentro de los 10 días hábiles siguientes a aquel en que tenga lugar el hecho de que se trate.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 156
 
-29.- Los tenedores o usuarios de los vehículos a que se refieren las fracciones I, II, IX, X y XII, del artículo anterior, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Planeación y Finanzas del Estado que se encuentran comprendidos en dichos supuestos, cumpliendo los lineamientos que para tal efecto emita la citada Secretaría.
+29.- Los tenedores o usuarios de los vehículos a que se refieren las fracciones I, II, IX, X y XII, del artículo anterior, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Hacienda que se encuentran comprendidos en dichos supuestos, cumpliendo los lineamientos que para tal efecto emita la citada Secretaría.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
@@ -2347,19 +2337,21 @@ Cuando por cualquier motivo un vehículo deje de estar comprendido en los supues
 
 30.- De la contribución obtenida por concepto del impuesto estatal sobre tenencia o uso de vehículos, corresponderá el 20% a los Municipios del Estado, distribuyéndose en proporción a la recaudación de este impuesto obtenida en cada uno de los Municipios en el ejercicio fiscal anterior. En virtud de ello, este impuesto no se considerará para la determinación de las participaciones a que se refiere el artículo 7° de la Ley de Coordinación Fiscal del Estado de Baja California, ni para el fondo compensatorio a que se refiere el artículo 7° BIS de la citada ley.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 156
 
-31.- Los fabricantes, ensambladores y distribuidores autorizados, así como los comerciantes en el ramo de vehículos, tendrán la obligación de proporcionar a la Secretaría de Planeación y Finanzas, a más tardar el día 17 de cada mes, la información relativa al precio de enajenación al consumidor de cada unidad vendida en territorio del Estado en el mes inmediato anterior, a través de los dispositivos electromagnéticos procesados en los términos que señale dicha Secretaría mediante disposiciones de carácter general.
+31.- Los fabricantes, ensambladores y distribuidores autorizados, así como los comerciantes en el ramo de vehículos, tendrán la obligación de proporcionar a la Secretaría de Hacienda a más tardar el día 17 de cada mes, la información relativa al precio de enajenación al consumidor de cada unidad vendida en territorio del Estado en el mes inmediato anterior, a través de los dispositivos electromagnéticos procesados en los términos que señale dicha Secretaría mediante disposiciones de carácter general.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
 Los que tengan más de un establecimiento, deberán presentar la información a que se refiere este artículo, haciendo la separación por cada uno de los establecimientos.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 156
 
-32.- Los importes señalados en este capítulo, se actualizarán anualmente en los meses de enero, considerando el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes de diciembre del año inmediato anterior, entre el citado índice correspondiente al mes de diciembre del penúltimo año. La Secretaría de Planeación y Finanzas publicara los importes actualizados.
+32.- Los importes señalados en este capítulo, se actualizarán anualmente en los meses de enero, considerando el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes de diciembre del año inmediato anterior, entre el citado índice correspondiente al mes de diciembre del penúltimo año. La Secretaría de Hacienda publicará los importes actualizados.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2455,7 +2447,9 @@ Quienes no cumplan con la obligación señalada en el párrafo anterior, serán 
 
 42.- Los contribuyentes de este impuesto tienen, además de las obligaciones señaladas en este capítulo y en las demás disposiciones fiscales, las siguientes:
 
-I. Llevar contabilidad de conformidad con el Código Fiscal del Estado, y conforme a las Reglas de Carácter General que en su caso emita la Secretaría de Planeación y Finanzas. Asimismo, se deberán identificar las operaciones por las que deba pagarse este impuesto.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+I. Llevar contabilidad de conformidad con el Código Fiscal del Estado, y conforme a las Reglas de Carácter General que en su caso emita la Secretaría de Hacienda. Asimismo, se deberán identificar las operaciones por las que deba pagarse este impuesto.
 
 II. Presentar las declaraciones relativas al impuesto previsto en el presente capítulo. Si un contribuyente tuviera varios establecimientos en el Estado, presentará una declaración por cada establecimiento, o bien una concentrada por todo el Estado.
 
@@ -2471,13 +2465,9 @@ IV. Registrar la obligación de pago del presente impuesto y los establecimiento
 
 43.- L a (sic) tasa del impuesto será del 4.5 por ciento sobre el ingreso percibido por la venta de las bebidas objeto de este impuesto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
-
 ###### ARTICULO 156
 
-44.- No se causará por la presente contribución el impuesto adicional para la educación media y superior.
+44.- (DEROGADO, P.O. 22 DE DICIEMBRE DE 2023)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2851,49 +2841,45 @@ b).- De 30 a 31 puntos:
 
 2. En un 50%, respecto del impuesto que le corresponda cubrir periódicamente, durante el segundo año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión.
 
-c).- De 32 a 44 puntos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-1. En un 100% respecto del impuesto que le corresponda cubrir durante los dos primeros años del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión.
+c) De 32 a 44 puntos, o más:
 
-2. En un 75% respecto del impuesto que le corresponda cubrir durante el tercer año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión, y
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-3. En un 50% respecto del impuesto que le corresponda cubrir durante el primer, segundo y tercer año del estímulo fiscal por los empleos existentes, previos al proyecto de inversión.
+1. En un 100% respecto del impuesto que le corresponda cubrir durante el primer año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión;
 
-d).- De 45 a 54 puntos:
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-1. En un 100% respecto del impuesto que le corresponda cubrir durante los dos primeros años del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión.
+2. En un 75% respecto del impuesto que le corresponda cubrir durante el segundo año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión, y
 
-2. En un 75% respecto del impuesto que le corresponda cubrir durante el tercer año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-3. En un 50% respecto del impuesto que le corresponda cubrir durante el cuarto año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión, y
+3. En un 50% respecto del impuesto que le corresponda cubrir durante el tercer año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión.
 
-4. En un 50% respecto del impuesto que le corresponda cubrir durante el primer, segundo, tercer y cuarto año del estímulo fiscal por los empleos existentes, previos al proyecto de inversión.
+d) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2023)
 
-e).- De 55 puntos o más:
+e) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2023)
 
-1. En un 100% respecto del impuesto que le corresponda cubrir durante los dos primeros años del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión.
-
-2. En un 75% respecto del impuesto que le corresponda cubrir durante el tercer año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión.
-
-3. En un 50% respecto del impuesto que le corresponda cubrir durante el cuarto año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión.
-
-4. En un 25% respecto del impuesto que le corresponda cubrir durante el quinto año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión.
-
-5. En un 50% respecto del impuesto que le corresponda cubrir durante el primero, segundo, tercer y cuarto año del estímulo fiscal por los empleos existentes, previos al proyecto de inversión, y
-
-6. En un 25% respecto del impuesto que le corresponda cubrir durante el quinto año del estímulo fiscal por los empleos existentes, previos al proyecto de inversión.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 Los empleos nuevos, se determinarán de acuerdo a los trabajadores que contrate la Empresa derivado del proyecto de inversión, adicionales a los que contaba con anterioridad al citado proyecto.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE DICIEMBRE DE 2023)</small>
+
 Para calcular el importe de los pagos por remuneraciones al trabajo personal subordinado que corresponde a los empleos nuevos, se considerará el salario promedio manifestado por la Empresa para su proyecto de inversión, sin perjuicio de las facultades de la autoridad fiscal para verificar y comprobar la veracidad de dicha manifestación.
 
-II. Derechos de conexión al sistema de agua potable y alcantarillado sanitario:
+II. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2023)
 
-a).- De 45 a 59 puntos, en un 20% del pago total, por única ocasión.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-b).- De 60 puntos o más, en un 50% del pago total, por única ocasión.
+Los sujetos de exención de pago del impuesto sobre remuneraciones al trabajo personal a que se refiere este artículo, deberán cumplir con las demás obligaciones fiscales relativas al mismo, como es la de presentar las declaraciones periódicas que correspondan en las formas que establezca la Secretaría de Hacienda, así como la demás información que en las mismas se establezcan
 
-Los sujetos de exención de pago del impuesto sobre remuneraciones al trabajo personal a que se refiere este artículo, deberán cumplir con las demás obligaciones fiscales relativas al mismo, como es la de presentar las declaraciones periódicas que correspondan en las formas que establezca la Secretaría de Planeación y Finanzas, así como la demás información que en las mismas se establezcan.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+Con independencia de los requisitos señalados en la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California y su Reglamento, la empresa solicitante de estímulo fiscal, deberá anexar con su solicitud que presente ante la Secretaría de Economía e Innovación, su Constancia de Situación Fiscal actualizada.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 Para que las Empresas puedan hacerse acreedoras de los estímulos fiscales previstos en este artículo, además de las condiciones estipuladas, deberán encontrarse al corriente de sus obligaciones fiscales.
 
@@ -2933,67 +2919,25 @@ III.- Aguas Residuales Tratadas.- Son aquellas que mediante procesos industriale
 
 Las Comisiones Estatales de Servicios Público (sic) del Estado, tendrán facultades para verificar, inspeccionar y dictaminar, el cumplimiento de las condiciones establecidas en este artículo, así como determinar la base sobre la cual se aplicará la exención citada.
 
-La Secretaría de Planeación y Finanzas, considerando la opinión de la Comisión Estatal del Agua, podrá emitir reglas de carácter general relativas a los aspectos regulados en este artículo.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+La Secretaría de Hacienda, considerando la opinión de la Comisión Estatal del Agua, podrá emitir reglas de carácter general relativas a los aspectos regulados en este artículo.
 
 La vigencia de este estímulo fiscal, iniciará a partir de que la autoridad competente, después de seguir el procedimiento respectivo, determine la procedencia de la exención, de acuerdo a lo establecido en el artículo 15 de la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 179.
 
 Los recargos y gastos de ejecución originados por la falta de pago de un crédito fiscal en la fecha o plazo establecido o las multas determinadas sobre el monto del crédito fiscal por infracciones o (sic) las disposiciones fiscales, a cargo de jubilados, pensionados e indigentes mayores de 60 años, personas viudas en situación de indigencia mayores de 50 años, personas con discapacidad, personas que tengan a su cargo un familiar con alguna discapacidad, se causará sobre la cantidad que éstos deban de cubrir, según lo estipulado en los artículos 173 y 174 de esta Ley.
 
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
-
-En el caso de las Empresas, el impuesto adicional para la educación media y superior y los accesorios que en su caso se generen, se determinará sobre el total del impuesto sobre remuneraciones al trabajo personal que se cause, sin considerar los estímulos fiscales otorgados en términos de los artículos 175 y 177 de esta Ley.
-
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2011)</small>
-
 ###### ARTICULO 180.
 
-Estarán exentos del pago del impuesto sobre remuneraciones al trabajo personal:
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2023)
 
-I.- Las Instituciones de Asistencia Social Privada, que sean reconocidas como Auxiliares en los términos de la Ley de Asistencia Social para el Estado de Baja California;
+###### ARTÍCULO 181.
 
-II.- Las personas que se dediquen exclusivamente a actividades agrícolas, ganaderas, pesqueras o silvícolas, y exportan sus productos derivados de esta actividad, en los términos de la legislación aduanera. Estas personas estarán exentas, en el porciento que representen sus exportaciones respecto del total de sus actividades realizadas en el período correspondiente;
-
-Se entiende por actividades agrícolas, ganaderas pesqueras y silvícolas, las referidas en el Código Fiscal de la Federación.
-
-III.- Las personas físicas o morales creadoras, productoras, realizadoras, post-productoras, estudios de filmación, que se ofertan a la Industria Cinematográfica a nivel Estatal, Nacional o de procedencia extranjera, y que participen en un proceso de realización cinematográfica determinado, siempre y cuando cumplan con las siguientes condiciones:
-
-BASE PRIMERA.- Las filmaciones se efectúen dentro del territorio del Estado de Baja California y promuevan positivamente la cultura, el turismo y la imagen del Estado hacia el exterior.
-
-BASE SEGUNDA.- Que por lo menos el treinta por ciento del total de la nómina participante, sea personal residente en el Estado de Baja California.
-
-BASE TERCERA.- Antes del inicio del proceso de filmación, presenten aviso ante la Recaudación de Rentas del Estado correspondiente, para la aplicación de la presente exención, en los términos siguientes:
-
-A) Dicho aviso deberá constar por escrito dirigido al Recaudador de Rentas de la Secretaría de Planeación y Finanzas del Estado de Baja California, señalando la fecha de inicio del proceso de filmación, así como la fecha de conclusión del mismo.
-
-B) Deberá señalar los datos generales y fiscales de la persona física o moral solicitante; y,
-
-C) Deberá describir de manera breve las etapas y características del proyecto cinematográfico en cuestión.
-
-La Secretaría de Planeación y Finanzas del Estado de Baja California podrá emitir las reglas de carácter general y criterios referentes a la interpretación y aplicación del otorgamiento de la presente exención.
-
-La exención a que refiere el presente artículo, solo será aplicable durante el lapso de tiempo señalado en términos del inciso A) BASE TERCERA de la fracción III de este artículo.
-
-Las personas a que se refieren las fracciones II y III de este artículo, deberán cubrir el impuesto adicional para la educación media y superior y los accesorios que en su caso se generen, sobre el total del impuesto sobre remuneraciones al trabajo personal que se cause, sin considerar la exención prevista en este artículo. Asimismo deberán cumplir las obligaciones previstas en el artículo 151-20 de esta Ley.
-
-> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
-
-###### ARTICULO 181.
-
-Estarán exentos del setenta por ciento del impuesto sobre remuneraciones al trabajo personal, por los pagos por remuneraciones al trabajo personal, que efectúen las personas físicas o morales, que se identifiquen como necesarios para la realización de los siguientes actos o actividades:
-
-Enajenación de bienes o prestación de servicios, cuando unos u otros se exporten, excepto las operaciones de maquila y submaquila para exportación en los términos del inciso b) de la fracción IV del artículo 29 de la Ley del Impuesto al Valor Agregado.
-
-Enajenación de bienes o prestación de servicios, que se realicen por residentes en el Estado, a quien resida en una entidad federativa de este país, distinta a Baja California, siempre que la entrega material de bienes o prestación de servicios se lleve a cabo fuera del Estado.
-
-Cuando los pagos por concepto de remuneraciones al trabajo personal no sean plenamente identificables como necesarios para la realización de los actos o actividades a que se refiere este artículo, se podrán considerar como tales en el por ciento que representen respecto del total de los realizados en el período correspondiente.
-
-Las personas a que se refiere el primer párrafo de este artículo, deberán cubrir el impuesto adicional para la educación media y superior y los accesorios que en su caso se generen, sobre el total del impuesto sobre remuneraciones al trabajo personal que se cause, sin considerar la exención prevista en este Artículo. Asimismo, deberán cumplir las obligaciones previstas en el artículo 151-20 de esta Ley.
-
-La exención a que se refiere este artículo no será aplicable a las personas físicas o morales que se encuentren gozando de algún otro estímulo fiscal en los términos de esta Ley.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2023)
 
 TRANSITORIOS:
 
@@ -3690,3 +3634,19 @@ P.O. 4 DE MARZO DE 2022.
 PRIMERO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- La Secretaría de Hacienda realizará las acciones administrativas pertinentes para efecto de elaborar los formatos institucionales a través de los cuales los sujetos obligados enterarán los impuestos previstos en la presente reforma.
+
+P.O. 22 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 361 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA; 3 FRACCIÓN XV, 13 FRACCIÓN III DE LA LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA; ASÍ COMO A LOS ARTÍCULOS 7 Y 7 BIS DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente reforma entrará en vigor el día primero de enero del año dos mil veinticuatro.
+
+SEGUNDO. La Secretaría de Economía e Innovación, deberá coordinarse con la Secretaría de Hacienda a fin de remitir en el transcurso de los siguientes 20 días hábiles a la entrada en vigor de la presente reforma, las solicitudes que hayan recibido por estímulos fiscales hasta antes de la publicación de este Decreto, y relacionadas con lo establecido en la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California; salvaguardando el derecho de obtener la resolución que corresponda por conducto de la Procuraduría Fiscal de la Secretaría de Hacienda.
+
+TERCERO. La Secretaría de Hacienda por conducto de la Procuraduría Fiscal, deberá emitir la resolución que corresponda de conformidad con las disposiciones fiscales aplicables y a los ordenamientos vigentes al momento de su presentación en ventanilla única de la Secretaría de Economía e Innovación, respecto de las solicitudes de estímulos fiscales que hayan sido presentadas por proyecto de inversión nueva, ampliación o tecnología hasta antes de la publicación de la presente reforma y que se encuentre en trámite dentro de los próximos 60 días hábiles.
+
+CUARTO. Las resoluciones emitidas con motivo de las solicitudes de estímulos fiscales con fundamento en el artículo 175 de esta Ley, antes de la entrada en vigor de la presente reforma, seguirán surtiendo sus efectos y continuarán vigentes en los términos señalados en el supuesto en que fue otorgado.
+
+Asimismo, el estímulo fiscal otorgado previo a la publicación de la presente reforma para la exención del Impuesto Sobre Remuneraciones al Trabajo Personal, seguirá aplicándose a la base del impuesto que resulte de acuerdo al artículo 151-14 de la presente Ley, a la misma proporción de la tasa del 1.80% a la que fue otorgado, hasta que cumpla el término de su vigencia, quede sin efectos, o sea cancelado de conformidad con lo señalado en la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California.
+
+QUINTO. Para los casos que venían ejerciendo la aplicación de los estímulos fiscales señalados en los artículos 180 y 181 de esta Ley hasta antes de la entrada en vigor de la presente reforma; será aplicable por última vez respecto al Impuesto Sobre Remuneraciones al Trabajo Personal causado hasta el mes de diciembre de 2023 o de aquellos causados hasta el cuarto trimestre del 2023.
