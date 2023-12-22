@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-fraccionamientos-del-estado-de-yucatan-8157"
 country: "mx"
 rank: "ley"
 publication_date: "1985-09-26"
-last_updated: "2022-06-07"
+last_updated: "2023-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY DE FRACCIONAMIENTOS DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y NOVENO TRANSITORIOS DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE YUCATÁN, PUBLICADA EN EL D.O. DE 22 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS CIENTO VEINTE DÍAS NATURALES SIGUIENTES AL DÍA DE SU PUBLICACIÓN.]</small>
+
 LEY DE FRACCIONAMIENTOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 2023 (ABROGADA).
 
 Ley publicada en el Diario Oficial el Jueves 26 de Septiembre de 1985.
 
@@ -948,3 +950,69 @@ De igual manera, cuando las leyes de la Administración Pública estatal y sus r
 Artículo Décimo segundo. Plazo para la integración del temario
 
 Por única ocasión, la Consejería Jurídica formulará el temario a que se refiere el artículo 27 de la Ley del Notariado del Estado de Yucatán, y lo publicará en el Diario Oficial del Gobierno del Estado de Yucatán, dentro del plazo de noventa días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 22 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 702/2023 POR EL QUE SE EXPIDE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE YUCATÁN Y LA LEY DE PROCURACIÓN DE JUSTICIA AMBIENTAL Y URBANA DEL ESTADO DE YUCATÁN".]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor a los ciento veinte días naturales siguientes al día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Excepciones de la vigencia
+
+Artículo segundo. Se exceptúa (sic) de la entrada en vigor las disposiciones legales contenidas en este decreto que se refieran a la Procuraduría de Justicia Ambiental y Urbana del Estado de Yucatán, que entrará en vigor en un plazo de trescientos sesenta y cinco días naturales posteriores a la entrada en vigor del decreto y la reforma a la Ley de Desarrollos Inmobiliarios del Estado de Yucatán, que entrará en vigor en un plazo de ciento ochenta días naturales, dentro del cual la normatividad reglamentaria que le corresponde.
+
+Se exceptúan las disposiciones legales contenidas en este decreto que hagan referencia a la emisión de la factibilidad urbana-ambiental a cargo del Instituto de Movilidad y Desarrollo Urbano Territorial, que entrarán en vigor en un plazo de noventa días naturales, contado a partir de la entrada en vigor de este mismo decreto. Entre tanto, la Secretaría de Desarrollo Sustentable seguirá siendo la autoridad competente para recibir las solicitudes relacionadas con la factibilidad urbana-ambiental, así como para tramitarlas, substanciarlas y resolverlas, de conformidad con el artículo décimo quinto.
+
+Obligación normativa
+
+Artículo tercero. El Congreso del Estado de Yucatán deberá expedir las leyes correspondientes y realizar las modificaciones necesarias a la legislación secundaria, para armonizarla a las disposiciones de este decreto, en un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Obligación normativa
+
+Artículo cuarto. El Poder Ejecutivo del estado, en un plazo máximo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, deberá expedir o modificar las disposiciones normativas y reglamentarias que fuesen necesarias para armonizar el marco jurídico estatal con las disposiciones contenidas en este decreto.
+
+Obligación normativa
+
+Artículo quinto. Los ayuntamientos de los municipios del estado de Yucatán deberán adecuar sus disposiciones reglamentarias en términos de lo dispuesto en este decreto dentro de un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Expedición de instrumentos de planeación territorial
+
+Artículo sexto. La persona titular del Poder Ejecutivo del estado y los ayuntamientos de los municipios del estado de Yucatán deberán expedir o adecuar los instrumentos de planeación territorial que corresponda en el ámbito de su competencia, en términos de lo dispuesto en este decreto dentro de un plazo de dos años, contado a partir de su entrada en vigor.
+
+Adecuación de instrumentos de planeación territorial
+
+Artículo séptimo. Los instrumentos de planeación territorial que, a la entrada en vigor de este decreto se encuentren en proceso de elaboración, deberán adecuarse a lo previsto en este y obtener dictamen de congruencia favorable emitido por el Instituto, quien deberá evaluar la armonización con las nuevas disposiciones legales, con base en los procedimientos y plazos establecidos en las disposiciones vigentes previas a la entrada en vigor de este decreto dentro de un plazo de dos años, contado a partir de la entrada en vigor de este decreto.
+
+Declaratorias de centros de población
+
+Artículo octavo. Los municipios del estado contarán con un plazo de trescientos sesenta y cinco días naturales, contado a partir de la entrada en vigor de este decreto, para presentar al Congreso sus propuestas de fundación de centros de población, conforme a lo previsto en este decreto.
+
+Abrogación
+
+Artículo noveno. A partir de la entrada en vigor de este decreto, se abroga la Ley de Asentamientos Humanos del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 30 de junio de 1995 y la ley de Fraccionamientos del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 26 de septiembre de 1985.
+
+Instalación de la junta de gobierno
+
+Artículo décimo. La Junta de Gobierno de la Procuraduría de Justicia Ambiental y Urbana del Estado de Yucatán deberá instalarse dentro de un plazo de noventa días naturales contados a partir de la entrada en vigor de la Ley de Procuración de Justicia Ambiental y Urbana del Estado de Yucatán.
+
+Obligación normativa
+
+Artículo décimo primero. La persona titular de la Procuraduría de Justicia Ambiental y Urbana del Estado de Yucatán deberá presentar a la junta de gobierno de la referida procuraduría, para su aprobación, el proyecto de estatuto orgánico, de conformidad con las disposiciones de este decreto, dentro de un plazo de ciento ochenta días naturales contado a partir de la entrada en vigor de la Ley de Procuración de Justicia Ambiental y Urbana del Estado de Yucatán.
+
+Adecuaciones presupuestales, financieras, de bienes y recursos humanos
+
+Artículo décimo segundo. La Secretaría de Administración y Finanzas deberá realizar, de conformidad con las disposiciones jurídicas aplicables, las adecuaciones presupuestales, financieras, de bienes y recursos humanos que resulten necesarias para la aplicación de este decreto.
+
+Ejercicio de atribuciones
+
+Artículo décimo tercero. Las dependencias y entidades correspondientes continuarán ejerciendo las atribuciones en materia de control, inspección, vigilancia y sanción en materia ambiental, de ordenamiento territorial y urbana que les conferían las leyes vigentes previo a la entrada en vigor de este decreto, hasta en tanto entra en funciones la Procuraduría de Justicia Ambiental y Urbana del Estado de Yucatán, conforme a la Ley de Procuración de Justicia Ambiental y Urbana del Estado de Yucatán.
+
+Procedimientos y asuntos en trámite
+
+Artículo décimo cuarto. Los procedimientos, así como los demás asuntos que se encuentren en trámite a la entrada en vigor de este decreto, se sustanciarán y resolverán hasta su total conclusión conforme a las disposiciones anteriores que les sean aplicables.
+
+Cláusula derogatoria
+
+Artículo décimo quinto. Se derogan todas aquellas disposiciones normativas de igual o menor rango jerárquico en lo que se opongan a lo señalado en este Decreto.
