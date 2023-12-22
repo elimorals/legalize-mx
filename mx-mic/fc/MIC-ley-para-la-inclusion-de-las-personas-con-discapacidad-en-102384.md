@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-inclusion-de-las-personas-con-discapacidad-en-10238
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-12"
-last_updated: "2023-12-07"
+last_updated: "2023-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 12 de septiembre de 2014.
 
@@ -147,9 +147,21 @@ VI. La promoción, capacitación o apoyo para el empleo y la autogestión;
 
 VII. La eliminación de barreras físicas y de comunicación;
 
-VIII. La capacitación del personal adscrito a las dependencias con áreas de atención al público con la finalidad de concientizar, sensibilizar e informar sobre la discapacidad; y,
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-IX. Atención integral con personal calificado en las áreas de atención al público de las dependencias.
+VIII. La capacitación del personal adscrito a las dependencias con áreas de atención al público con la finalidad de concientizar, sensibilizar e informar sobre la discapacidad;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+IX. Garantizar que las dependencias públicas, estatales y municipales, las organizaciones de prestación de servicios de salud y educativos tanto públicos como privados, así como, las instancias de procuración, administración e impartición de justicia cuenten con la disponibilidad de los recursos para la comunicación, debida defensa, apoyo técnico y humano necesario para la atención de las personas con discapacidad en sus respectivos ámbitos de competencia; y,
+
+X. Atención integral con personal calificado en las áreas de atención al público de las dependencias.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 4 Bis.
+
+Los Poderes Ejecutivo, Legislativo y Judicial, los gobiernos municipales y los órganos autónomos del Estado de Michoacán de Ocampo, están obligados a realizar los ajustes razonables necesarios para que en todos los eventos de orden público que realicen, cuenten con intérpretes de Lengua de Señas Mexicana, tanto para el evento en vivo, como para su transmisión, para lo cual se sujetarán a lo previsto en los Lineamientos Generales de Accesibilidad al Servicio de Televisión Radiodifundida y demás disposiciones aplicables.
 
 ###### Artículo 5.
 
@@ -326,6 +338,18 @@ XII. Pertenecer al censo y registro de personas con alguna discapacidad del Esta
 ###### Artículo 13.
 
 Todos los servidores públicos y prestadores de servicios que colaboren en dependencias públicas en el ámbito estatal o municipal, así como las organizaciones de prestación de servicios de salud o educativos públicos que brinden servicios a personas con discapacidad, deberán informar al DIF Estatal o al Consejo cuando se detecte o sospeche de maltrato, abuso, violencia e incompetencia en la tutoría y atención hacia las personas con discapacidad para darle seguimiento al caso.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 13 Bis.
+
+Las personas con discapacidad tienen derecho a una debida defensa, así como a que se les garantice un trato digno y apropiado en los procedimientos administrativos y judiciales en los que sean parte; esto implica que de acuerdo a su discapacidad les sea proporcionada la asesoría requerida, así mismo, el Estado velará en todo momento que quien ejerza el derecho de defensa sea licenciado en derecho o abogado titulado, con cédula profesional.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 13 Ter.
+
+Las instituciones de procuración, administración e impartición de justicia del Estado de Michoacán de Ocampo, deberán contar con peritos y personal especializados en las diversas discapacidades, apoyo de intérpretes de Lengua de Señas Mexicana, así como la emisión de documentos en Sistema de Escritura Braille.
 
 ### CAPÍTULO II. SALUD Y ASISTENCIA SOCIAL
 
@@ -621,9 +645,11 @@ El Poder Ejecutivo del Estado a través de la Secretaría de Desarrollo Económi
 
 ### CAPÍTULO V. ACCESIBILIDAD Y VIVIENDA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 48.
 
-Las personas con discapacidad tienen derecho a la accesibilidad universal y a la vivienda, por lo que en las instalaciones públicas o privadas, para poder permitir el libre desplazamiento en condiciones de igualdad, dignidad y seguridad se deberán observar las normas, lineamientos y reglamentos que garanticen su accesibilidad.
+Las personas con discapacidad tienen derecho a la accesibilidad, diseño universal y a la vivienda, por lo que, en las instalaciones públicas o privadas, para poder permitir el libre desplazamiento en condiciones de igualdad, dignidad y seguridad se deberán observar las normas, lineamientos y reglamentos que garanticen su accesibilidad.
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2022)</small>
 
@@ -641,9 +667,11 @@ La Secretaría de Seguridad Pública, la Secretaría de Educación, el Consejo, 
 
 El Consejo, las Dependencias del Poder Ejecutivo del Estado que participan en el mismo y los gobiernos municipales, vigilarán que se garantice el acceso y movilidad en medios de transporte, espacios públicos, privados, laborales, educativos, recreativos, así como en espectáculos públicos, a las personas con discapacidad, incluyendo sus aparatos ortopédicos, sillas de ruedas, equipos y perros guía.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 51.
 
-Las autoridades competentes establecerán las normas urbanísticas y arquitectónicas básicas a que deben ajustarse los proyectos públicos y privados de urbanización, fraccionamiento y construcción que se sometan a su aprobación, así como las ampliaciones, reparaciones y reformas de edificios existentes.
+Las autoridades competentes establecerán las normas urbanísticas y arquitectónicas básicas a que deban de ajustarse los proyectos públicos y privados de urbanización, fraccionamiento y construcción que se sometan a su aprobación, así como las ampliaciones, reparaciones, rehabilitaciones y reformas de edificios, plazas y jardines existentes, aplicando en todo momento el principio de accesibilidad a través del diseño universal.
 
 ###### Artículo 52.
 
@@ -681,7 +709,9 @@ VII. Al coadyuvar con la Coordinación de Contraloría, en la proposición de la
 
 La Secretaría de Comunicaciones y Obras Públicas, para lograr el garantizar la inclusión de las personas con discapacidad y el eficaz ejercicio de sus derechos le corresponde en el ejercicio de las atribuciones siguientes:
 
-I. Al coordinar la elaboración, ejecución, seguimiento y evaluación del Programa de Obra Pública del Gobierno del Estado, formulando sus estudios, proyectos y presupuestos, están obligados a establecer la accesibilidad universal en obras para poder permitir el libre desplazamiento en condiciones de igualdad, dignidad y seguridad de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+I. Al coordinar la elaboración, ejecución, seguimiento y evaluación del Programa de Obra Pública del Gobierno del Estado, formulando sus estudios, proyectos y presupuestos, están obligados a establecer el diseño universal en obras para poder permitir el libre desplazamiento en condiciones de igualdad, dignidad y seguridad de las personas con discapacidad;
 
 II. En los estudios y proyectos de construcción y conservación de las obras y edificios públicos estatales tendrán que considerar la accesibilidad de las personas con discapacidad;
 
@@ -1262,3 +1292,33 @@ A la entrada en vigor del presente Decreto, las autoridades responsables de la a
 ###### ARTÍCULO CUARTO.
 
 Las autoridades responsables de la aplicación de lo mandatado en el presente Decreto, deberán de reformar sus reglamentos y manuales de operación, para adecuarlos a lo mandatado en el presente Decreto en un máximo de 180 días hábiles a su entrada en vigor.
+
+P.O. 22 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 477 POR EL QUE “SE REFORMA LA FRACCIÓN VIII Y SE ADICIONA LA FRACCIÓN IX RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 4; Y, SE ADICIONAN LOS ARTÍCULOS 4 BIS, 13 BIS Y 13 TER, TODOS DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+A la entrada en vigor del presente Decreto, las autoridades responsables de la aplicación del mismo, deberán de establecer en sus presupuestos de egresos del siguiente ejercicio fiscal los recursos necesarios para su cumplimiento.
+
+###### ARTÍCULO CUARTO.
+
+Las autoridades responsables de la aplicación de lo mandatado en el presente Decreto, deberán de reformar sus reglamentos y manuales de operación, para adecuarlos a lo mandatado en el presente Decreto en un máximo de 180 días hábiles a su entrada en vigor.
+
+P.O. 22 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO LEGISLATIVO NÚMERO 481 POR EL QUE "SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 48, EL ARTÍCULO 51 Y LA FRACCIÓN I DEL ARTÍCULO 55, TODOS DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SEGUNDO. Notifíquese al Gobernador Constitucional del Estado de Michoacán de Ocampo, para que se sirva ordenar su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
