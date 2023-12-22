@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-obligaciones-financiamientos-y-deuda-publica-del-117328"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-04"
-last_updated: "2016-11-04"
+last_updated: "2023-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117328&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE OBLIGACIONES, FINANCIAMIENTOS Y DEUDA PÚBLICA DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 4 de noviembre de 2016.
 
@@ -69,13 +69,19 @@ IX. Entes Públicos: los poderes Ejecutivo, Legislativo y Judicial, los órganos
 
 X. Financiamiento: toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los Entes Públicos, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente;
 
-XI. Financiamiento Neto: la diferencia entre las disposiciones realizadas de un Financiamiento y las amortizaciones efectuadas de la Deuda Pública;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+XI. Financiamiento Neto: la suma de las disposiciones realizadas de un Financiamiento, y las Disponibilidades, menos las amortizaciones efectuadas de la Deuda Pública;
 
 XII. Fuente de pago: los recursos utilizados por los Entes Públicos para el pago de cualquier Financiamiento u Obligación;
 
 XIII. Gasto corriente: las erogaciones que no tienen como contrapartida la creación de un activo, incluyendo, de manera enunciativa, el gasto en servicios personales, materiales y suministros, y los servicios generales, así como las transferencias, asignaciones, subsidios, donativos y apoyos;
 
 XIV. Gasto no etiquetado: las erogaciones que realizan el Estado y los Municipios con cargo a sus Ingresos de libre disposición y Financiamientos. En el caso de los Municipios, se excluye el gasto que realicen con recursos del Estado con un destino específico;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+XIV Bis. Gastos y costos relacionados con la contratación: aquellos que estén relacionados con la celebración del Financiamiento, que, de manera enunciativa mas no limitativa, son: comisiones de apertura, comisiones por disposición, comisiones por estructuración, costos por la contratación de calificadoras, de instrumentos derivados y garantías de pago, sin incluir honorarios por asesoría profesional, técnica, legal y financiera;
 
 XV. Gasto total: la totalidad de las erogaciones aprobadas en el Presupuesto de Egresos, con cargo a los ingresos previstos en la Ley de Ingresos, las cuales no incluyen las operaciones que darían lugar a la duplicidad en el registro del gasto;
 
@@ -157,15 +163,19 @@ V. El otorgamiento de garantías, avales o la asunción de obligaciones solidari
 
 VI. Los pasivos contingentes relacionados con los actos anteriormente mencionados.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 5.
 
-Los Entes Públicos no podrán contraer, directa o indirectamente, Obligaciones, Financiamientos y Deuda Pública con sociedades o personas físicas o morales extranjeras; con gobiernos de otras naciones. Asimismo, los Obligaciones, Financiamientos y Deuda Pública que celebren deberán ser pagaderas en moneda nacional y dentro del territorio de los Estados Unidos Mexicanos. Asimismo, sólo podrán contraer Obligaciones o Financiamientos cuando se destinen a Inversiones públicas productivas y a Refinanciamiento o Reestructura, incluyendo los gastos y costos relacionados con la contratación de dichas Obligaciones y Financiamientos, así como las reservas que deban constituirse en relación con las mismas.
+Los Entes Públicos no podrán contraer, directa o indirectamente, Obligaciones, Financiamientos y Deuda Pública con sociedades o personas físicas o morales extranjeras; con gobiernos de otras naciones. Asimismo, las Obligaciones, Financiamientos y Deuda Pública que celebren deberán ser pagaderas en moneda nacional y dentro del territorio de los Estados Unidos Mexicanos. Asimismo, sólo podrán contraer Obligaciones o Financiamientos cuando se destinen a Inversiones públicas productivas y a Refinanciamiento o Reestructura, incluyendo los gastos y costos relacionados con la contratación de dichas Obligaciones y Financiamientos, así como las reservas que deban constituirse en relación con las mismas.
+
+Para efectos de lo anterior, los Entes Públicos sólo podrán destinar hasta un 0.15 por ciento del monto de los Financiamientos para cubrir los Gastos y costos relacionados con la contratación.
 
 Cuando las Obligaciones se deriven de esquemas de Asociaciones Público-Privadas, el destino podrá ser la contratación de servicios, cuyo componente de pago incluya la Inversión pública productiva realizada.
 
 En las obligaciones que asuman los Entes Públicos que se hagan constar en valores o títulos de crédito, se deberá indicar en el texto de los mismos que sólo podrán ser negociados dentro del territorio nacional con personas físicas o morales de nacionalidad mexicana.
 
-Lo dispuesto en este artículo no será aplicable a la contratación de Financiamientos en términos de programas federales o de los convenios con la Federación, los cuales se regirán por lo acordado entre las partes en el convenio correspondiente, así como por la Ley de Coordinación Fiscal.
+Lo dispuesto en este artículo no será aplicable a la contratación de Financiamientos en términos de programas federales o de los convenios con la Federación, los cuales se regirán por lo acordado entre las partes en el convenio correspondiente, incluyendo aquellos rubros o destinos para atender a la población afectada por desastres naturales en los términos de las leyes, reglas de operación, y lineamientos aplicables, así como por la Ley de Coordinación Fiscal.
 
 ###### Artículo 6.
 
@@ -191,15 +201,17 @@ I. Autorizar a través del voto de las dos terceras partes de sus miembros prese
 
 II. Autorizar a los Entes Públicos la celebración o contratación de operaciones u obligaciones que constituyan deuda contingente.
 
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
 III. Autorizar las operaciones de refinanciamiento de la deuda pública a cargo de los Entes Públicos y las operaciones de reestructuración de deuda pública, con excepción de las que cumplan con las siguientes condiciones:
 
-a. Mejora en la tasa de interés, incluyendo los costos asociados, lo cual deberá estar fundamentado en el cálculo de la tasa efectiva que se realice de acuerdo con lo dispuesto por el artículo 25, fracción IV de esta Ley; o tratándose de Reestructuraciones exista una mejora en las condiciones contractuales.
+a. Que exista una mejora en la tasa de interés, incluyendo los costos asociados, lo cual deberá estar fundamentado en el cálculo de la tasa efectiva que se realice de acuerdo con lo dispuesto por el artículo 25, fracción IV de esta Ley; o tratándose de Reestructuraciones exista una mejora en las condiciones contractuales;
 
-b. No se incremente el saldo insoluto, y
+b. Que no se incremente el saldo insoluto, y
 
-c. No se amplíe el plazo de vencimiento original de los Financiamientos respectivos, el plazo de duración del pago del principal e intereses del Financiamiento durante el periodo de la administración en curso, ni durante la totalidad del período del Financiamiento.
+c. Que no se amplíe el plazo de vencimiento original de los Financiamientos respectivos, no se otorgue plazo o periodo de gracia, ni se modifique el perfil de amortizaciones del principal del Financiamiento durante el periodo de la administración en curso, ni durante la totalidad del periodo del Financiamiento.
 
-Dichas operaciones deberán ser informadas al H. Congreso del Estado dentro de los 15 días naturales siguientes a la celebración del Refinanciamiento o Reestructuración, así como ser inscrito dicho Refinanciamiento o Restructuración ante el Registro Público Único.
+Dichas operaciones deberán ser informadas al H. Congreso del Estado dentro de los 15 días naturales siguientes a la celebración del Refinanciamiento o Reestructuración, así como presentar la solicitud de inscripción de dicho Refinanciamiento o Restructuración ante el Registro Público Único.
 
 IV. Autorizar al Estado la afectación de los Ingresos locales, así como el derecho y/o los ingresos a las aportaciones federales susceptibles de afectación, a las participaciones y/o cualquier otro ingreso que le corresponda, como fuente de pago o garantía de las obligaciones a su cargo.
 
@@ -501,15 +513,19 @@ Para la contratación de Obligaciones, Financiamientos y Deuda Pública las enti
 
 Para la contratación de Obligaciones, Financiamientos y Deuda Pública, las entidades de la administración pública paramunicipal requerirán, además de la autorización del H. Congreso del Estado, la previa autorización de sus órganos de gobierno y del H. Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 25.
 
 En el caso de que el Estado o cualquiera de sus Entes Públicos soliciten Financiamientos por un monto mayor o igual a cuarenta millones de Unidades de Inversión o su equivalente, o el Municipio o cualquiera de sus Entes Públicos soliciten Financiamientos por un monto mayor a diez millones de Unidades de Inversión o su equivalente y, en ambos casos, a un plazo de pago superior a un año, deberán cumplir con lo siguiente:
 
-I. Implementar un proceso competitivo con por lo menos cinco diferentes instituciones financieras, del cual obtenga mínimo dos ofertas irrevocables de Financiamiento. La temporalidad de dichas propuestas no deberá diferir en más de treinta días naturales y deberán tener una vigencia mínima de sesenta días naturales;
+I. Implementar un proceso competitivo con, por lo menos, cinco diferentes instituciones financieras, del cual obtenga mínimo dos ofertas irrevocables de Financiamiento. La temporalidad de dichas propuestas no deberá diferir en más de treinta días naturales y deberán tener una vigencia mínima de sesenta días naturales. Tratándose de propuestas relativas a Instrumentos derivados, no será aplicable la vigencia mínima de sesenta días naturales;
 
 II. La solicitud del Financiamiento que se realice a cada institución financiera deberá precisar y ser igual en cuanto a: monto, plazo, perfil de amortizaciones, condiciones de disposición, oportunidad de entrega de los recursos y, en su caso, la especificación del recurso a otorgar como Fuente de pago del Financiamiento o Garantía a contratar, de acuerdo con la aprobación de la Legislatura local. En ningún caso la solicitud podrá exceder de los términos y condiciones autorizados por el H. Congreso del Estado;
 
-III. Las ofertas irrevocables que presenten las instituciones financieras deberán precisar todos los términos y condiciones financieras aplicables al Financiamiento, así como la Fuente o Garantía de pago que se solicite. El Ente Público estará obligado a presentar la respuesta de las instituciones financieras que decidieron no presentar oferta;
+III. Las ofertas irrevocables que presenten las instituciones financieras deberán precisar todos los términos y condiciones financieras aplicables al Financiamiento, así como la Fuente o Garantía de pago que se solicite. El Ente Público estará obligado a presentar la respuesta de las instituciones financieras que decidieron no presentar oferta.
+
+En caso de no obtener el mínimo de ofertas irrevocables, el proceso competitivo será declarado desierto por única ocasión, por lo que el Ente Público deberá realizar un nuevo proceso competitivo y, en caso de no obtener dos ofertas irrevocables en los términos de la fracción I de éste artículo, la oferta ganadora será aquella que se hubiera presentado en el día y la hora indicada en la invitación enviada a las Instituciones Financieras o prestador de servicios, misma que deberá cumplir con los términos establecidos en la invitación correspondiente;
 
 IV. Contratar la oferta que represente las mejores condiciones de mercado para el Ente Público, es decir, el costo financiero más bajo, incluyendo todas las comisiones, gastos y cualquier otro accesorio que estipule la propuesta. Para establecer un comparativo que incluya la tasa de interés y todos los costos relacionados al Financiamiento, se deberá aplicar la metodología establecida para el cálculo de la tasa efectiva, bajo los Lineamientos que para tal efecto emita la Secretaría de Hacienda y Crédito Público, y
 
@@ -521,11 +537,19 @@ Para acreditar la contratación bajo las mejores condiciones de mercado de los F
 
 El Ente Público, en cualquier caso, deberá elaborar un documento que incluya el análisis comparativo de las propuestas, conforme a lo establecido en la fracción IV de este artículo. Dicho documento deberá publicarse en la página oficial de Internet del propio Ente Público, o en su caso, del Estado o Municipio, según se trate.
 
+En el caso de operaciones de Reestructuración que cumplan lo señalado en el artículo 9 fracción III de esta Ley no se requerirá realizar el proceso competitivo.
+
+Asimismo, tratándose de Refinanciamientos que sustituyan un Financiamiento por otro de forma total, aplicará la excepción prevista en el párrafo que antecede.
+
 ###### Artículo 26.
 
 Con excepción de los Financiamientos que se contraten mediante el mercado bursátil, cuando la autorización del Financiamiento a que hace referencia el artículo 10 exceda de cien millones de Unidades de Inversión, dicho proceso de contratación se realizará mediante licitación pública, en los términos siguientes:
 
-I. El proceso competitivo descrito en el artículo 25 de esta Ley deberá realizarse públicamente y de manera simultánea. Para ello, las propuestas presentadas deberán entregarse en una fecha, hora y lugar previamente especificados y serán dadas a conocer en el momento en que se presenten, pudiendo emplear mecanismos electrónicos que aseguren el cumplimiento de lo anterior, y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+I. El proceso competitivo descrito en el artículo 25 de esta Ley deberá realizarse públicamente y de manera simultánea. Para ello, las propuestas presentadas deberán entregarse en una fecha, hora y lugar previamente especificados y serán dadas a conocer en el momento en que se presenten, pudiendo emplear mecanismos electrónicos que aseguren el cumplimiento de lo anterior. El Ente Público no estará obligado a presentar las negativas de participación presentadas por las Instituciones Financieras o prestador de servicios.
+
+En caso de no obtener el mínimo de ofertas irrevocables, la licitación pública será declarada desierta por única ocasión, por lo que el Ente Público deberá realizar una nueva licitación pública y, en caso de no obtener dos ofertas irrevocables en los términos de la fracción I del artículo 25 de esta Ley, la oferta ganadora será aquella que se hubiera presentado en el día y la hora indicada en la convocatoria, misma que deberá cumplir con los términos establecidos en la propia convocatoria. La convocatoria podrá indicar supuestos adicionales bajo los cuales podrá declararse desierta una licitación pública, y
 
 II. La institución financiera participante que resulte ganadora del proceso competitivo se dará a conocer en un plazo no mayor a dos días hábiles posteriores al tiempo establecido de conformidad con la fracción anterior, a través de medios públicos, incluyendo la página electrónica del Estado, publicando el documento en que conste la comparación de las propuestas presentadas.
 
@@ -585,9 +609,11 @@ Los recursos derivados de las Obligaciones a corto plazo deberán ser destinados
 
 El Estado y sus Municipios presentarán en los informes periódicos a que se refiere la Ley General de Contabilidad Gubernamental y en su respectiva cuenta pública, la información detallada de las Obligaciones a corto plazo contraídas en los términos del presente Capítulo, incluyendo por lo menos importe, tasas, plazo, comisiones y cualquier costo relacionado. Adicionalmente, deberá incluir la tasa efectiva de las Obligaciones a corto plazo a que hace referencia el artículo 25 fracción IV, calculada conforme a la metodología que para tal efecto emita la Secretaría de Hacienda y Crédito Público.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 36.
 
-Las Obligaciones a corto plazo a que se refiere el presente Capítulo no podrán ser objeto de Refinanciamiento o Reestructura a plazos mayores a un año, salvo en el caso de las Obligaciones destinadas a Inversión pública productiva y se cumpla con los requisitos previstos en el Capítulo IV.
+Las Obligaciones a corto plazo a que se refiere el presente Capítulo no podrán ser objeto de Refinanciamiento o Reestructura a plazos mayores a un año.
 
 ### Capítulo VI. De los Mecanismos de Pago o Garantía de las Obligaciones, Financiamientos y Deuda Pública
 
@@ -760,3 +786,17 @@ Que la LXII Legislatura del H. Congreso Constitucional del Estado Libre y Sobera
 Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los veintiún días del mes de octubre del año dos mil dieciséis.
 
 EL GOBERNADOR DEL ESTADO DE CAMPECHE, LIC. RAFAEL ALEJANDRO MORENO CÁRDENAS.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS MIGUEL AYSA GONZÁLEZ.- RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 291 POR EL QUE “SE REFORMAN LA FRACCIÓN XI DEL ARTÍCULO 2, EL ARTÍCULO 5, LA FRACCIÓN III DEL ARTÍCULO 9, EL ARTÍCULO 25, LA FRACCIÓN I DEL ARTÍCULO 26 Y EL ARTÍCULO 36 DE LA LEY DE OBLIGACIONES, FINANCIAMIENTOS Y DEUDA PÚBLICA DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal en todo lo que se opongan al contenido de este Decreto.
