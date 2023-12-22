@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-legislativo-del-estado-de-campeche-89303
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-17"
-last_updated: "2023-11-21"
+last_updated: "2023-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 17 de agosto de 2012.
 
@@ -72,6 +72,14 @@ III. El Instituto de Estudios Legislativos; y
 > <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
 
 IV. El Órgano Interno de Control del Congreso.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+En el ejercicio de sus atribuciones y ámbito de competencia, el Poder Legislativo del Estado de Campeche garantizará, promoverá, protegerá y respetará los derechos humanos, de conformidad con los principios de universalidad, igualdad, interdependencia, indivisibilidad y progresividad.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+En el ejercicio de sus atribuciones, el Poder Legislativo del Estado observará su funcionamiento en un marco democrático de Parlamento Abierto, con perspectiva de género, certeza, legalidad, transparencia, máxima publicidad e interés social, desde el diseño de proyectos legislativos y de resultados, a través de la expedición de leyes, decretos y acuerdos viables, eficientes y eficaces, que sean de su competencia legal o de orden constitucional; deberá implementar mecanismos que garanticen la transparencia y acceso a la información, rendición de cuentas, la participación ciudadana y el uso de las tecnologías de la información y la comunicación, así como la evaluación de la práctica legislativa.
 
 ###### Art. 3.
 
@@ -395,9 +403,17 @@ XII. Administrar el presupuesto de egresos del Poder Legislativo;
 
 XIII. Vigilar el ejercicio del presupuesto de egresos del Poder Legislativo;
 
-XIV. Fungir como Diputación Permanente en los períodos de receso del Congreso; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-XV. Las demás que le encomiende esta ley, otras disposiciones legales y reglamentarias, así como las que no se atribuyan específicamente a la Mesa Directiva del Congreso o a otro organismo, unidad o dependencia del propio Poder Legislativo.
+XIV. Fungir como Diputación Permanente en los periodos de receso del Congreso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+XV. Acordar la excepción para los plazos previstos en esta Ley para el cumplimiento de los procesos legislativos; y
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO Y REUBICADO ANTES FRACCIÓN XV], P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+XVI. Las demás que le encomiende esta ley, otras disposiciones legales y reglamentarias, así como las que no se atribuyan específicamente a la Mesa Directiva del Congreso o a otro organismo, unidad o dependencia del propio Poder Legislativo.
 
 ###### Art. 25.
 
@@ -407,9 +423,11 @@ Las atribuciones a que aluden las fracciones I, II, VI, X y XII del artículo an
 
 Para el eficaz ejercicio de sus atribuciones, especialmente las señaladas en las fracciones IX y X del artículo 24, la Junta de Gobierno y Administración contará con un local adecuado en el Palacio Legislativo, con un secretario particular de la Presidencia, con un cuerpo de asesores bajo la dirección de un coordinador, y con el demás personal y elementos materiales que requiera y permita el presupuesto de egresos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
 ###### Art. 27.
 
-La Junta de Gobierno y Administración sesionará únicamente cuando los asuntos de su competencia lo ameriten y así lo disponga el presidente de la misma. Para la validez de los acuerdos que adopte se requerirá la presencia de cuando menos la mitad mas uno de sus integrantes, incluyendo a su presidente, salvo que éste se encuentre de licencia o comisión caso en el que la presencia requerida será la del vicepresidente. Las reuniones de la Junta serán privadas.
+La Junta de Gobierno y Administración sesionará cuando menos una vez por semana para atender los asuntos de su competencia, previa convocatoria de su presidente. Para la validez de los acuerdos que adopte se requerirá la presencia de cuando menos la mitad más uno de sus integrantes, incluyendo a su presidente, salvo que éste se encuentre de licencia o comisión caso en el que la presencia requerida será la del vicepresidente. Las reuniones de la Junta serán privadas.
 
 A las sesiones de la Junta, a invitación de su presidente, podrán asistir, con voz pero sin voto, los diputados que no formen parte de algún Grupo Parlamentario, con el único propósito de que expresen su opinión sobre los asuntos que se traten en la respectiva sesión y que sean de su interés o del de su partido político. Cuando haya dos diputados de un mismo partido político quien asistirá a la sesión será el que de entre ellos escojan.
 
@@ -565,6 +583,12 @@ En las comisiones se dictamina, investiga, consulta, analiza, evalúa, debate y 
 
 El Congreso contará con comisiones ordinarias y especiales que se integran y funcionan en términos de la Constitución Política del Estado, de esta ley y demás disposiciones legales y reglamentarias que les sean aplicables.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+Las sesiones de las comisiones serán públicas y deberán poner a disposición toda la información que genere, reciba o se encuentre en posesión a través de medios electrónicos, en formatos de datos abiertos y sin restricción alguna.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 22 DE DICIEMBRE DE 2023)</small>
+
 A falta de norma expresa, en lo procedente, son aplicables a las comisiones las reglas establecidas para el Pleno del Congreso.
 
 #### Sección Segunda. De las Comisiones Ordinarias
@@ -641,9 +665,9 @@ XXIV. La Comisión de Medio Ambiente y Desarrollo Sustentable.
 
 XXV. La Comisión de Recursos Hidráulicos.
 
-> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-XXVI. La Comisión de Transparencia y Acceso a la Información Pública.
+XXVI. La Comisión de Transparencia y Acceso a la Información Pública y Anticorrupción;
 
 > <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -679,7 +703,13 @@ Cuando el miembro de una comisión ordinaria tenga interés personal en algún a
 
 Cuando la presidencia de una comisión ordinaria reciba el asunto que se turne al conocimiento de ésta, de inmediato citará a los demás integrantes de la misma, determinando el día y la hora en que deberán reunirse para sesionar. Las sesiones deberán realizarse en las instalaciones del Palacio Legislativo. Para la validez de las sesiones, así como para la emisión de los dictámenes, informes y opiniones, se requerirá mayoría de concurrencia y de votos de los integrantes de la comisión.
 
-El miembro de una comisión que disienta de lo dictaminado por la mayoría podrá expresar sus razones por escrito, mismo que deberá agregarse al dictamen, informe u opinión, como voto particular para hacerlo del conocimiento de la asamblea. Las sesiones de las comisiones ordinarias podrán ser públicas o privadas, según lo determine su presidente, atendiendo a la naturaleza del asunto.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+El miembro de una comisión que disienta de lo dictaminado por la mayoría podrá expresar sus razones por escrito, mismo que deberá agregarse al dictamen, informe u opinión, como voto particular para hacerlo del conocimiento de la asamblea. Las sesiones de las comisiones ordinarias serán públicas, con excepción de aquellas que por la naturaleza del asunto a tratar deban considerarse reservadas en términos de la legislación aplicable en materia de juicio político y/o de transparencia y acceso a la información pública.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+Los dictámenes que se vayan a someter a análisis y discusión en una sesión de Comisión, deberán ser distribuidos a sus integrantes con al menos veinticuatro horas de anticipación. En ningún caso, se podrá someter a análisis y discusión un dictamen que no haya sido previamente circulado.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
 
@@ -687,11 +717,13 @@ El miembro de una comisión que disienta de lo dictaminado por la mayoría podr�
 
 Las comisiones ordinarias podrán citar a los titulares de las dependencias y entidades de la administración pública estatal, centralizada o descentralizada, para que informen cuando se estudie y discuta una ley o asunto relativo a su dependencia, entidad o cargo. Si una comisión ordinaria juzgare necesario llevar a consulta técnica y de opinión pública el asunto turnado a su consideración, para su mejor resolución, lo hará del conocimiento de la Junta de Gobierno y Administración para que ésta se encargue, en unión de aquélla, de convocar y realizar los correspondientes foros.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### Art. 41.
 
-Toda comisión deberá emitir dictamen sobre el asunto que se le turne en un plazo no mayor de quince días, contados a partir de la fecha en que su presidente lo reciba. Si para la emisión del dictamen se ameritase la consulta técnica y de opinión pública, el término se contará a partir del día siguiente a aquel en que se realice el foro de presentación de conclusiones.
+Toda comisión deberá emitir dictamen sobre el asunto que se le turne en un plazo no mayor de quince días hábiles, contados a partir de la fecha en que su presidencia lo reciba. Los dictámenes una vez requisitados, quedarán bajo resguardo de la Secretaría General y estarán a disposición de la Mesa Directiva para la continuación de su trámite. Si para la emisión del dictamen se ameritase la consulta técnica y de opinión pública, el término se contará a partir del día siguiente a aquél en que se realice el foro de presentación de conclusiones.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
 
 Si por la naturaleza del asunto se requiriese de un plazo mayor para la emisión del dictamen, el Congreso a petición del presidente de la comisión ordinaria formulada (sic) antes de que expire el plazo, podrá prorrogarlo por un lapso no mayor a treinta días.
 
@@ -745,7 +777,21 @@ II. Presentar proposiciones ante el Pleno del Congreso o su Diputación Permanen
 
 III. Presentar excitativas, mociones, solicitudes, preguntas parlamentarias y votos particulares;
 
-IV. Participar en las sesiones, reuniones, debates, discusiones, votaciones y cualquier otro evento que se realicen en el Pleno del Congreso y en comisiones;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+IV. Participar en respeto a la pluralidad democrática en el desarrollo de las sesiones, reuniones, debates, discusiones, votaciones y cualquier otro evento que se realicen en el Pleno del Congreso y en comisiones;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+IV Bis. Recibir con al menos veinticuatro horas de anticipación a la sesión ordinaria o extraordinaria de que se trate el Orden del Día de la misma;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+IV Ter. Tener acceso a consulta de la Gaceta Parlamentaria con al menos veinticuatro horas de anticipación a la sesión ordinaria o extraordinaria de que se trate;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+IV Quater. Recibir la información que soliciten relacionada con las sesiones de las comisiones en que participen;
 
 V. Formar parte de un grupo parlamentario;
 
@@ -799,7 +845,7 @@ En el caso de que el sistema electrónico haya cerrado y se incorpore de forma p
 
 II. Permanecer en la Cámara o Salón de Sesiones desde la apertura hasta la clausura de las sesiones;
 
-III. Durante los períodos de sesiones, residir en la población en donde tenga su sede el Congreso;
+III. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2023)
 
 IV. Desempeñar inexcusablemente los cargos para los cuales se les elija o designe por el Congreso, la Diputación Permanente o la Junta de Gobierno y Administración;
 
@@ -813,7 +859,9 @@ VIII. Solicitar y obtener licencia de la presidencia de la Mesa Directiva o de l
 
 IX. Guardar el orden y la compostura que el cargo les impone, en el interior de la Cámara, en las sesiones y en todo acto de carácter oficial;
 
-X. Asistir a las sesiones y actos oficiales portando una vestimenta adecuada a su investidura, absteniéndose de utilizar ropa propia de eventos informales (pantalones cortos o shorts, bermudas, de mezclilla, sudaderas, camisetas, etc.);
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+X. Asistir a las sesiones y actos oficiales a los que fueren convocados;
 
 XI. Observar las reglas de urbanidad y cortesía para con los integrantes del Congreso e invitados al recinto oficial o a todo acto del Congreso;
 
@@ -823,7 +871,9 @@ XIII. Evitar, durante sus intervenciones en la tribuna o en cualquier otro acto,
 
 XIV. Evitar el uso de palabras o términos obscenos, groseros o despectivos en el transcurso de los debates;
 
-XV. Guardar absoluta reserva sobre todos aquellos asuntos tratados en el seno de las comisiones ordinarias o especiales;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+XV. Guardar absoluta reserva sobre la información que se clasifique con carácter de reservada, conforme a las leyes aplicables para dicho fin;
 
 XVI. Evitar obstaculizar, de cualquiera forma y por cualquier medio, el desarrollo de los procesos legislativos; e informar a la Mesa Directiva o a la Junta de Gobierno y Administración de los asuntos competencia del Congreso en los que tengan interés económico o beneficio personal y excusarse de participar en las gestiones, trámites y procedimientos relativos;
 
@@ -913,17 +963,25 @@ El Congreso tendrá períodos extraordinarios de sesiones sólo en los casos pre
 
 Durante los períodos ordinarios el Congreso sesionará, cuando menos, dos veces por semana. Si el buen despacho de los negocios lo exige sesionará semanalmente las veces que sea necesario. Para celebrar sesiones todos los días y horas son hábiles.
 
-Las sesiones tendrán lugar en el día y a la hora que la presidencia de la Mesa Directiva determine y haga saber con la debida anticipación a los miembros del Congreso; su duración sólo tendrá como límite él haberse agotado los asuntos previstos para tratar en ellas.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+Las sesiones tendrán lugar en el día y a la hora que la presidencia de la Mesa Directiva determine y haga saber con anticipación de cuando menos veinticuatro horas a los miembros del Congreso; su duración sólo tendrá como límite él haberse agotado los asuntos previstos para tratar en ellas.
 
 En las sesiones cuya duración sea muy prolongada, la presidencia de la Mesa Directiva discrecionalmente dispondrá los recesos que sean necesarios.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
 ###### Art. 62.
 
-Las sesiones del Congreso podrán ser públicas o reservadas.
+Las sesiones del Congreso tendrán el carácter de públicas.
+
+Quedan exceptuadas aquellas que por la naturaleza del asunto a tratar deban considerarse reservadas en términos de la legislación aplicable en materia de juicio político y/o de transparencia y acceso a la información pública.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### Art. 63.
 
-Sesión pública es aquella a la que cualquiera persona mayor de edad tiene acceso, antes de que la misma se inicie. Iniciada la sesión las puertas de la Cámara o Salón de Sesiones deberán cerrarse y permanecer así hasta su clausura, con la finalidad de evitar que se distraiga la atención de los legisladores.
+Sesión pública es aquella a la que cualquier persona tiene acceso sin importar su origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, estado civil y preferencias.
 
 ###### Art. 64.
 
@@ -1123,9 +1181,13 @@ I. Conforme al orden que la presidencia de la Mesa Directiva determine, en un pl
 
 II. Leída la propuesta, iniciativa o proyecto o, en su caso, únicamente su exposición de motivos, el presidente de la Mesa Directiva dispondrá que se turne a la o las comisiones ordinarias que correspondan, en atención a su materia, en un plazo no mayor a 30 días posteriores a su lectura;
 
-III. Las comisiones ordinarias, dentro del plazo que esta misma ley señala, analizarán la iniciativa y emitirán dictamen recomendando a la asamblea la aprobación, en su integridad o con modificaciones, o el rechazo de la iniciativa de ley, decreto o acuerdo. En caso de aprobación, el dictamen contendrá la minuta proyecto de ley, decreto o acuerdo que proponga la comisión o comisiones;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-IV. El dictamen se hará del conocimiento de la asamblea, en sesión, mediante su lectura. Previa a la lectura del dictamen se leerá la iniciativa que lo provocó; esta lectura se omitirá cuando se haya distribuido entre los miembros del Congreso copia de la iniciativa, o cuando por consenso mayoritario la asamblea determine dispensarla. También se omitirá la lectura del proyecto de minuta de ley, decreto o acuerdo, que se contenga en el dictamen, en el caso de que su texto sea igual en todas y cada una de sus partes al proyecto contenido en la iniciativa o que sus modificaciones sólo sean de estilo o redacción; cuando la modificación sea de fondo se leerá únicamente la parte o partes afectadas;
+III. Las comisiones ordinarias, dentro del plazo que esta misma ley señala, analizarán la iniciativa y emitirán dictamen recomendando a la asamblea la aprobación, en su integridad o con modificaciones, o bien el rechazo de la iniciativa de ley, decreto o acuerdo. En caso de aprobación, el dictamen contendrá la minuta proyecto de ley, decreto o acuerdo que proponga la comisión o comisiones. El dictamen una vez requisitado, quedará bajo resguardo de la Secretaría General y estará a disposición de la Mesa Directiva para su trámite correspondiente;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+IV. El dictamen se hará del conocimiento de la asamblea, en sesión que determine la Presidencia de la Mesa Directiva, mediante su lectura. Previa a la lectura del dictamen se leerá la iniciativa que lo provocó; esta lectura se omitirá cuando se haya distribuido entre los miembros del Congreso copia de la iniciativa, o cuando por consenso mayoritario la asamblea determine dispensarla. También se omitirá la lectura del proyecto de minuta de ley, decreto o acuerdo, que se contenga en el dictamen, en el caso de que su texto sea igual en todas y cada una de sus partes al proyecto contenido en la iniciativa o que sus modificaciones sólo sean de estilo o redacción; cuando la modificación sea de fondo se leerá únicamente la parte o partes afectadas;
 
 V. Leído el dictamen se procederá a su discusión por la asamblea conforme a las disposiciones contenidas en el Capítulo Décimo. La aprobación del dictamen conllevará la aprobación de la iniciativa o proyecto, si aquel se emitió recomendando su aprobación. La minuta de ley o decreto contenida en el dictamen se enviará al Ejecutivo para su sanción y, en su caso, promulgación y publicación en el Periódico Oficial del Estado;
 
@@ -1655,7 +1717,9 @@ XVII. Coordinar las relaciones públicas y los servicios de orientación, inform
 
 XVIII. Coordinar los eventos oficiales a cargo del Poder Legislativo;
 
-XIX. Cuidar la elaboración e impresión del Diario de Debates y de cualesquiera otras publicaciones que edite el Congreso del Estado;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+XIX. Cuidar la elaboración e impresión del Diario de Debates, así como la elaboración y publicación electrónica de la Gaceta Parlamentaria y de cualesquiera otras publicaciones que edite el Congreso del Estado;
 
 XX. Captar y procesar la información que sirva para el mejor funcionamiento de la estructura del Poder Legislativo, por medio de la aplicación de una metodología informática consciente y precisa;
 
@@ -1961,9 +2025,11 @@ De la Gaceta Parlamentaria y el Diario de Debates
 
 La Gaceta Parlamentaria del Congreso será el órgano informativo interno del Poder Legislativo del Estado de Campeche y estará a cargo de la Secretaría General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
 ###### Art. 147.
 
-La Gaceta Parlamentaria se publicará exclusivamente a través de medios electrónicos y en ella se contendrán los siguientes asuntos:
+La Gaceta Parlamentaria se publicará exclusivamente a través de medios electrónicos con una anticipación de cuando menos veinticuatro horas antes de la sesión del Pleno o de la Diputación Permanente que corresponda y en ella se contendrán los siguientes asuntos:
 
 I. El proyecto del orden del día;
 
@@ -2406,3 +2472,15 @@ P.O. 21 DE NOVIEMBRE DE 2023.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
+
+P.O. 22 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 292 POR EL QUE “SE REFORMAN LAS FRACCIONES XIV Y XV DEL ARTÍCULO 24; EL PÁRRAFO PRIMERO DEL ARTÍCULO 27; EL PÁRRAFO CUARTO DEL ARTÍCULO 31; LA FRACCIÓN XXVI DEL ARTÍCULO 34; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 39; EL PÁRRAFO PRIMERO DEL ARTÍCULO 41; LA FRACCIÓN IV DEL ARTÍCULO 47; LAS FRACCIONES X Y XV DEL ARTÍCULO 48; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 61; LOS ARTÍCULOS 62 Y 63; LAS FRACCIONES III Y IV DEL ARTÍCULO 73; LA FRACCIÓN XIX DEL ARTÍCULO 125; EL PÁRRAFO PRIMERO DEL ARTÍCULO 147; SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 2; UNA FRACCIÓN XVI AL ARTÍCULO 24; UN PÁRRAFO QUINTO AL ARTÍCULO 31; UN PÁRRAFO TERCERO AL ARTÍCULO 39; LAS FRACCIONES IV BIS, IV TER Y IV QUATER AL ARTÍCULO 47; Y SE DEROGAN LA FRACCIÓN III DEL ARTÍCULO 48, TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se instruye a la Secretaría General del Congreso a otorgar el apoyo a las comisiones para la publicación de la información que se genere al interior de las mismas, e iniciar los trabajos de adecuación de los instrumentos y demás documentación necesaria para hacer efectivo lo mandatado en el presente decreto.
+
+TERCERO.- Los plazos establecidos en los procesos legislativos entrarán en vigor en un tiempo máximo de seis meses contados a partir de la entrada en vigor del presente decreto.
+
+CUARTO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
