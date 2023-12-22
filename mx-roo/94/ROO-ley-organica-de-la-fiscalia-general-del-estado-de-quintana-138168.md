@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-fiscalia-general-del-estado-de-quintana-1381
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-09-13"
-last_updated: "2023-11-03"
+last_updated: "2023-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 13 de septiembre de 2019.
 
@@ -136,6 +136,10 @@ XIX. Órgano Interno de Control: Al Órgano Interno de Control de la Fiscalía G
 > <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2021)</small>
 
 XX. U.M.A.: Valor diario de la Unidad de Medida y Actualización que para tal efecto publique el Instituto Nacional de Estadística y Geografía cada año.
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+XXI. LGBTTTIQ+. Hace referencia a personas lesbiana, gay, bisexual, transgénero, transexual, travesti, intersexuales, queer y cualquier otra que, no estando representada en las siglas anteriores tenga una orientación sexual diferente a la heterosexual, u ostenten la identidad o la expresión de género fuera del sistema binario hombre/mujer.
 
 ###### Artículo 6.
 
@@ -451,15 +455,15 @@ c) Fiscalía Especializada en Combate al Delito de Feminicidio;
 
 d) Fiscalía Especializada en Combate al Delito de Homicidio;
 
-e) Fiscalía Especializada en Combate a Delitos de Trata y Explotación de Niñas, Niños y
-
-Adolescentes;
+e) Fiscalía Especializada en Combate a Delitos de Trata y Explotación de Niñas, Niños y Adolescentes;
 
 f) Fiscalía Especializada en Investigación de Delitos Cometidos por Adolescentes;
 
 g) Fiscalía Especializada en Combate a Delitos de Trata de Personas;
 
-h) Fiscalía Especializada en Combate al Delito Contra la Mujer y Delitos Sexuales;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+h) Fiscalía Especializada en Combate a Delitos cometidos Contra la Mujer y por Razones de Género;
 
 i) Fiscalía Especializada en Combate a los Delitos de Secuestro y Extorsión;
 
@@ -479,9 +483,21 @@ p) Fiscalía Especializada en Combate al Robo de Vehículos y Transporte;
 
 q) Fiscalía Especializada en Combate a los Delitos Ambientales, la Fauna y el Desarrollo Urbano.
 
-r) Fiscalía Especializada en Combate a Delitos Electorales, y
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-s) Fiscalía Especializada en Asuntos Internos.
+r) Fiscalía Especializada en Combate a Delitos Electorales;
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+s) Fiscalía Especializada en Asuntos Internos;
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+t) Fiscalía Especializada en Combate a Delitos Sexuales y el Libre Desarrollo de la Personalidad, y
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+u) Fiscalía Especializada en Procesos.
 
 IV. Órganos operativos auxiliares:
 
@@ -489,17 +505,23 @@ a) Dirección General de la Policía de Investigación;
 
 b) Dirección General de Servicios Periciales;
 
-c) Dirección General de Bienes Asegurados y Extinción de Dominio;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+c) Dirección de Bienes Asegurados y Extinción de Dominio;
 
 d) Dirección General de Análisis Criminal, Estadísticas y Tecnologías de la Información, y
 
-e) Dirección General de Mecanismos Alternativos de Solución de Controversias.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+e) Dirección de Mecanismos Alternativos.
 
 V. Órganos administrativos auxiliares:
 
 a) Dirección General de Administración y Finanzas;
 
-b) Dirección General de Planeación, Control y Evaluación;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+b) Dirección General de Evaluación de Indicadores;
 
 c) Dirección General de Desarrollo Institucional;
 
@@ -525,9 +547,13 @@ La Fiscalía General tendrá los órganos, direcciones, coordinaciones y persona
 
 Para el ejercicio de las funciones y atribuciones, la Fiscalía General se delimitará geográficamente en los siguientes distritos:
 
-I. Fiscalía de Distrito Norte. Con Competencia en el Municipio de Benito Juárez y la Zona Continental de Isla Mujeres, en el Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-II. Fiscalía de Distrito Centro. Con Competencia en los Municipios de Cozumel, Lázaro Cárdenas, Isla Mujeres, Puerto Morelos, Solidaridad y Tulum, en el Estado de Quintana Roo, y
+I. Fiscalía de Distrito Norte. Con Competencia en el Municipio de Benito Juárez, Isla Mujeres y Lázaro Cárdenas, en el Estado de Quintana Roo;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+II. Fiscalía de Distrito Centro. Con Competencia en los Municipios de Cozumel, Puerto Morelos, Solidaridad y Tulum, en el Estado de Quintana Roo, y
 
 III. Fiscalía de Distrito Sur. Con Competencia en los Municipios de Bacalar, Felipe Carrillo Puerto, José María Morelos y Othón P. Blanco, en el Estado de Quintana Roo.
 
@@ -733,9 +759,13 @@ IV. Secretaría Técnica;
 
 V. Dirección General de Administración y Finanzas;
 
-VI. Dirección General de Planeación, Control y Evaluación;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-VII. Dirección General de Mecanismos Alternativos de Solución de Controversias;
+VI. Dirección General de Evaluación de Indicadores;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+VII. Dirección de Mecanismos Alternativos;
 
 VIII. Dirección General de Desarrollo Institucional;
 
@@ -852,6 +882,16 @@ VII. Las demás que le confieran el Reglamento de esta Ley y las que le encomien
 Las Fiscalías de Distrito, son órganos ministeriales integrantes de la estructura orgánica de la Fiscalía General, que como institución del Ministerio Público serán las encargadas de investigar y perseguir por conducto de las personas Fiscales del Ministerio Público adscritas, los delitos que sean competencia del orden común, no reservados a las Fiscalías Especializadas.
 
 Las Fiscalías de Distrito estarán a cargo de una persona denominada Fiscal de Distrito, que será nombrada por la persona titular de la Fiscalía General, y desarrollarán las facultades conferidas al Ministerio Público en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Quintana Roo, el Código Nacional y demás ordenamientos aplicables, en todas las etapas del procedimiento penal.
+
+> <small>(ADICIONADA [N. DE E. CON SUS FRACCIONES], P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+Para el ejercicio de sus atribuciones las Fiscalías de Distrito contarán con una Coordinación de Investigación, de acuerdo a su circunscripción territorial:
+
+I. Coordinación de Investigación Norte;
+
+II. Coordinación de Investigación Centro, y
+
+III. Coordinación de Investigación Sur.
 
 > <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
@@ -1023,7 +1063,9 @@ XXII. Conducir la investigación para la obtención de datos o medios de prueba 
 
 XXIII. Ordenar el aseguramiento de bienes propiedad de la persona imputada, así como de aquellos respecto de los cuales se conduzcan como propietarias, o propietarias beneficiarias o beneficiaria controladora, cuyo valor equivalga al producto, los instrumentos u objetos del hecho delictivo cuando éstos hayan desaparecido o no se localicen por causa atribuible a la persona imputada;
 
-XXIV. Solicitar a la Dirección General de Bienes Asegurados y Extinción de Dominio, la extinción de dominio de los bienes de las personas imputadas o sentenciadas, así como de aquéllos respecto de los cuales se conduzcan como propietarias, o propietarias beneficiarias o beneficiaria controladora, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible a la persona imputada o sentenciada, cuando estos bienes estén vinculados con hechos que la ley considera como delitos de su competencia que sean susceptibles de la acción de extinción de dominio, en los términos de la legislación aplicable;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+XXIV. Solicitar a la Dirección de Bienes Asegurados y Extinción de Dominio, la extinción de dominio de los bienes de las personas imputadas o sentenciadas, así como de aquéllos respecto de los cuales se conduzcan como propietarias, o propietarias beneficiarias o beneficiaria controladora, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible a la persona imputada o sentenciada, cuando estos bienes estén vinculados con hechos que la ley considera como delitos de su competencia que sean susceptibles de la acción de extinción de dominio, en los términos de la legislación aplicable;
 
 XXV. Decidir responsablemente sobre el destino de los recursos que le sean asignados, a fin de cubrir todas las necesidades que surjan en el desempeño de sus facultades;
 
@@ -1137,7 +1179,9 @@ III. Solicitar informes necesarios a las áreas que conforman a la Fiscalía Gen
 
 IV. Representar a la Fiscalía General ante las instancias correspondientes en todos aquellos procedimientos relativos a los Derechos Humanos;
 
-V. Formular los informes respectivos en los juicios de amparo promovidos contra actos de las personas servidoras públicas de la Fiscalía General, así como presentar las promociones y los recursos que correspondan;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+V. Formular los informes respectivos en los juicios de amparo promovidos contra actos de la Fiscalía General y de su titular, así como presentar las promociones y los recursos que correspondan;
 
 VI. Intervenir conforme a las normas aplicables, en la investigación, resolución y seguimiento de las quejas que haga del conocimiento de la Fiscalía General, la Comisión Nacional de los Derechos Humanos, así como en las visitas que ésta realice a la misma;
 
@@ -1155,7 +1199,9 @@ XII. Recibir y resolver las solicitudes de anulación de registros de antecedent
 
 XIII. Realizar las solicitudes de extradiciones y asistencias jurídicas internacionales, a través de la Dirección General de Procedimientos Internacionales de la Fiscalía General de la República;
 
-XIV. Solicitar las fichas rojas y alertas migratorias a la Dirección de Asuntos Policiales Internacionales e INTERPOL; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+XIV. Solicitar las fichas, alertas migratorias y demás notificaciones correspondientes a la Dirección de Asuntos Policiales Internacionales e INTERPOL, y
 
 XV. Las demás que le confieran las disposiciones legales aplicables, el Reglamento de esta Ley y las que le encomiende la persona titular de la Fiscalía General.
 
@@ -1199,35 +1245,63 @@ La Fiscalía Especializada en Investigación de Delitos Cometidos por Adolescent
 
 La Fiscalía Especializada en Combate a Delitos de Trata de Personas, se encargará de la investigación y persecución de los delitos previstos en la Ley General para Prevenir, Sancionar y Erradicar los delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
 
-> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-Artículo 34 bis. La Fiscalía Especializada en Combate a Delitos Contra la Mujer y Delitos Sexuales, se encargará de la investigación y persecución de los hechos de violencia contra la mujer por razones de género y delitos vinculados; así como los delitos relacionados a la libertad sexual y el libre desarrollo de la personalidad, y tendrá las siguientes facultades:
+Artículo 34 bis. La Fiscalía Especializada en Combate a Delitos cometidos Contra la Mujer y por Razones de Género, se encargará de la investigación y persecución de los hechos de violencia contra la mujer por razones de género y delitos vinculados, y tendrá las siguientes facultades:
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 I. Conocer de las denuncias y querellas que se presenten, por hechos que pudieran ser constitutivos de los delitos de su competencia de conformidad con el Código Penal y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia;
 
-II. Recibir y atender toda denuncia o querella que tenga relación con hechos posiblemente constitutivos de los delitos de su especialidad como delitos contra las mujeres por razón de género, discriminación por razones de género, delitos de homicidio doloso cuando la víctima sea mujer, homicidio o lesiones contra la población lésbico-gay y bisexual;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+II. Recibir y atender toda denuncia o querella que tenga relación con hechos posiblemente constitutivos de los delitos de su especialidad como delitos contra las mujeres por razón de género, discriminación por razones de género, delitos de homicidio doloso cuando la víctima sea mujer, homicidio o lesiones contra la población LGBTTTIQ+;
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 III. Dirigir la investigación de los delitos que conozca, practicando y ordenando para ello todas las diligencias que resulten necesarias para su comprobación y la identificación de quien lo cometió o participó en su comisión, en los términos del Código Penal y la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y demás disposiciones legales aplicables;
 
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 IV. Atraer y recibir las investigaciones que se hayan iniciado en unidades diversas por los delitos de su especialidad, para continuar con su atención y resolución procedente, salvo en los casos que, para la mejor investigación del delito, resulte más idóneo que la diversa unidad continúe conociendo del asunto, para lo cual la persona titular de esta Fiscalía deberá habilitar a la persona Fiscal del Ministerio Público, mediante el oficio correspondiente, previo acuerdo con la persona titular de la Fiscalía General;
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 V. Acordar y en su caso, solicitar al órgano jurisdiccional, la práctica de actividades necesarias para la investigación, así como la aplicación de las medidas necesarias para la protección integral de las personas víctimas, primordialmente su integridad física y psicológica;
 
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 VI. Coordinarse con el Centro de Justicia para las Mujeres que preste servicio en el Estado, mediante un modelo de atención integral a las usuarias, que preste los servicios de: presentación de denuncia ante la persona representante social, atención médica, estancia y servicios de atención, atención psicológica, acceso a servicios periciales, asesoría y representación jurídica, servicios ofrecidos por organizaciones de la sociedad civil, empoderamiento de las mujeres y bolsa de trabajo, acceso a refugios, juzgados familiares para la obtención de órdenes de protección;
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 VII. Restituir a la persona víctima o persona ofendida en el goce de sus derechos, cuando ello se encuentre al alcance de la Fiscalía General del Estado, en los términos de las disposiciones legales aplicables;
 
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 VIII. Participar en los programas, comités y comisiones que así lo requieran, en temas de delitos por razones de género;
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 IX. Informar a la persona titular de la Fiscalía General del Estado sobre los asuntos encomendados a esta Fiscalía Especializada;
 
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 X. Brindar información, asesoramiento a la persona víctima u ofendida en su idioma o lengua materna sobre sus derechos y el proceso de los trámites judiciales y administrativos, de manera gratuita y expedita;
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 XI. Canalizar a la persona víctima en forma inmediata para su atención médica psicológica;
 
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 XII. Tratar con respeto a la persona víctima u ofendida, con relación a su integridad y al ejercicio pleno de sus derechos;
 
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 XIII. Proteger la identidad de la persona víctima y la de su familia, y
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 XIV. Determinar la orden o medida de protección necesaria de acuerdo con los protocolos y legislación aplicables y canalizar a la persona víctima en forma inmediata para su atención médica psicológica y jurídica.
 
@@ -1243,43 +1317,83 @@ La Fiscalía Especializada en Combate a los Delitos de Secuestro y Extorsión, s
 
 La Fiscalía Especializada en Combate a Delitos de Desaparición Forzada de Personas y Desaparición Cometida por Particulares, se encargará de la investigación y persecución de los delitos en la materia, así como de los delitos vinculados.
 
-> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 34 Quinquies.
 
-La Fiscalía Especializada en Combate a los Delitos Cometidos por Servidores Públicos y de Tortura, estará encargada de la investigación de los delitos que cometan las personas servidoras públicas de la Fiscalía General en el desempeño de su empleo, cargo o comisión, con excepción de aquellos que sean competencia de la Fiscalía Especializada en Combate a la Corrupción, y tendrá las siguientes atribuciones:
+La Fiscalía Especializada en Combate a los Delitos Cometidos por Servidores Públicos y de Tortura, estará encargada de la investigación de los delitos que cometan las personas servidoras públicas que pertenezcan a los poderes Ejecutivo, Legislativo y Judicial del Estado de Quintana Roo, sus organismos descentralizados o desconcentrados así como los Órganos Públicos Autónomos, en el desempeño de su empleo, cargo o comisión, con excepción de aquellos que sean competencia de la Fiscalía Especializada en Combate a la Corrupción, y la Fiscalía Especializada de Asuntos Internos.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+Así mismo estará encargada de la investigación de los delitos previstos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, y tendrá las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 I. Integrar debidamente las carpetas de investigación en las que se encuentren involucrados en calidad de indiciados o imputados personas servidoras públicas adscritas a la Fiscalía General, con motivo de delitos cometidos en el ejercicio de sus funciones, determinando lo conducente; así como la investigación de hechos delictivos relacionados con los delitos previstos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes;
 
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 II. Investigar los delitos de su competencia, con la Policía de Investigación, que estará bajo su conducción y mando, los Servicios Periciales y las demás autoridades competentes, en los términos de las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 III. Practicar las diligencias necesarias para la integración de las carpetas de investigación y para allegarse de los datos de prueba que considere pertinentes para el esclarecimiento de los hechos;
 
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 IV. Tratar con respeto y dignidad a todas las personas que comparezcan, quedando estrictamente prohibido cualquier acto discriminatorio, en razón de estado civil, procedencia étnica, idioma, ideología, color de piel, nacionalidad, origen o posición social, trabajo o profesión, posición económica, características físicas, discapacidad o estado de salud, género, sexo, edad, condición social o económica, religión, orientación sexual, raza y cualquier otro que atente contra la dignidad humana y que anule o menoscabe los derechos y libertades de las personas, debiendo llevar a cabo su actuación de acuerdo con los principios de legalidad, certeza, honradez, lealtad, objetividad, imparcialidad, profesionalismo, transparencia, eficacia y eficiencia, que rigen en el Servicio Profesional, así como a tratarlas con calidad y calidez, y con el debido respeto a los derechos humanos;
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 V. Ejercer las facultades que, en materia de aseguramiento de bienes, se deriven del Código Nacional;
 
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 VI. Remitir a la Dirección General de Bienes Asegurados y Extinción de Dominio, los expedientes necesarios para solicitar la extinción de dominio de los bienes de las personas imputadas o sentenciadas, así como de aquellos respecto de los cuales se conduzcan como personas propietarias, o propietarias beneficiarias o beneficiaria controladora, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible a la persona imputada o sentenciada, cuando estos bienes estén vinculados con hechos que la ley considera como delitos de su competencia que sean susceptibles de la acción de extinción de dominio, en los términos de la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 VII. Dictar las medidas precautorias y promover los mecanismos necesarios para la reparación del daño;
 
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 VIII. Autorizar la consulta de reserva, incompetencia, acumulación; y separación de las investigaciones, acumulación, archivo temporal, criterio de oportunidad, acuerdo reparatorio y procedimiento abreviado que propongan las personas Fiscales del Ministerio Público de su adscripción;
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 IX. Ejecutar, supervisar y evaluar el Protocolo Homologado, así como los protocolos de actuación y para la investigación del delito de Tortura;
 
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 X. Requerir a las instancias del sector público competentes y del sector privado en los casos que disponga la Ley General de Víctimas y la Ley de Víctimas del Estado de Quintana Roo, a que se le brinde atención médica, psicológica y jurídica a las personas víctimas de las conductas previstas en la ley de la materia;
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 XI. Decretar las medidas de protección en favor de la vida o la integridad de las personas víctimas, de conformidad con la legislación aplicable;
 
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 XII. Llevar a cabo análisis de contextos y patrones sobre la comisión del delito de tortura, con base en los datos del Registro Nacional y otra información disponible;
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 XIII. Pedir a las autoridades competentes su colaboración y apoyo para la investigación y persecución del delito de tortura;
 
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 XIV. Proponer políticas para la prevención de las conductas previstas en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 XV. Abstenerse de conocer y resolver respecto de asuntos que sean competencias de otras Fiscalías Especializadas o Fiscalías de Distrito, salvo autorización expresa de la persona titular de la Fiscalía General, y
 
-XVI. Las demás que le confieran las disposiciones legales aplicables, el Reglamento de esta Ley y las que le encomiende la persona titular de la Fiscalía General.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+XVI. Dar vista al Órgano Interno de Control, a la Fiscalía Especializada en Asuntos Internos, Fiscalía Especializada en Combate a la Corrupción, Comité de Profesionalización, Consejo de Honor y Justicia, cuando se detecten conductas posiblemente constitutivas de responsabilidades administrativas de los servidores públicos de la Fiscalía General, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+XVII. Las demás que le confieran las disposiciones legales aplicables, el Reglamento de esta Ley y las que le encomiende la persona titular de la Fiscalía General.
 
 > <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
@@ -1297,7 +1411,9 @@ IV. Coordinarse y ejercer actos de colaboración con la Comisión Bancaria y de 
 
 V. Realizar las diligencias necesarias para allegarse de información financiera, fiscal y patrimonial, de personas físicas y morales bajo las reglas previstas en la Constitución Federal y el Código Nacional, y
 
-V. Las demás que sean necesarias para el ejercicio de sus funciones, las que le sean conferidas y las demás que le atribuyan expresamente esta ley, el Reglamento y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+VI. Las demás que sean necesarias para el ejercicio de sus funciones, las que le sean conferidas y las demás que le atribuyan expresamente en esta Ley, el Reglamento y demás disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
@@ -1335,29 +1451,101 @@ La Fiscalía Especializada en combate a los delitos ambientales, la fauna y el d
 
 La Fiscalía Especializada en Combate a Delitos Electorales, se encargará de la investigación y persecución de delitos en materia electoral en el ámbito competencial correspondiente.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 36.
 
-La Fiscalía Especializada en Asuntos Internos, se encargará de la evaluación técnico-jurídica, supervisión y control del cumplimiento de las disposiciones jurídicas aplicables y la emisión de lineamientos institucionales para el personal que integra la Fiscalía General, en su caso la acusación de los delitos cometidos por estas, en el desempeño de su empleo, cargo o comisión, y tendrá las siguientes atribuciones:
+La Fiscalía Especializada en Asuntos Internos, estará encargada de la investigación de los delitos que cometan las personas servidoras públicas de la Fiscalía General en el desempeño de su empleo, cargo o comisión, con excepción de aquellos que sean competencia de la Fiscalía Especializada en Combate a la Corrupción y delitos de Tortura; asimismo, se encargará de la evaluación técnico-jurídica, supervisión y control del cumplimiento de las disposiciones jurídicas aplicables y la emisión de lineamientos institucionales para el personal que integra la Fiscalía General, en su caso la acusación de los delitos cometidos por estas, en el desempeño de su empleo, cargo o comisión, y tendrá las siguientes atribuciones:
 
-I. Definir lineamientos técnico-jurídicos de supervisión y vigilancia de las unidades administrativas de la Fiscalía General;
+I. Integrar debidamente las carpetas de investigación en las que se encuentren involucrados en calidad de indiciados o imputados personas servidoras públicas adscritas a la Fiscalía General, con motivo de delitos cometidos en el ejercicio de sus funciones;
 
-II. Practicar la supervisión y vigilancia del cumplimiento de las disposiciones jurídicas aplicables y los lineamientos Institucionales, a través de visitas, estudios y monitoreo;
+II. Investigar los delitos de su competencia, con la Policía de Investigación, que estarán adscritas a la misma, bajo su coordinación y mando, así con los Servicios Periciales y las demás autoridades competentes, en los términos de las disposiciones legales aplicables;
 
-III. Conocer de las quejas por demoras, excesos y faltas e irregularidades de las personas servidoras públicas de la Fiscalía General y en su caso iniciar el expediente correspondiente;
+III. Practicar las diligencias necesarias para la integración de las carpetas de investigación y para allegarse de los datos de prueba que considere pertinentes para el esclarecimiento de los hechos;
 
-IV. Dar vista a la Fiscalía Especializada en Combate a los Delitos Cometidos por personas Servidoras Públicas y de Tortura, así como a la Fiscalía Especializada en Combate a la Corrupción, cuando de las visitas de supervisión se detecten irregularidades que involucre en calidad de indiciadas a personas servidoras públicas adscritas a la Fiscalía General, atendiendo los protocolos de actuación;
+IV. Tratar con respeto y dignidad a todas las personas que comparezcan, quedando estrictamente prohibido cualquier acto discriminatorio, en razón de estado civil, procedencia étnica, idioma, ideología, color de piel, nacionalidad, origen o posición social, trabajo o profesión, posición económica, características físicas, discapacidad o estado de salud, género, sexo, edad, condición social o económica, religión, orientación sexual, raza y cualquier otro que atente contra la dignidad humana y que anule o menoscabe los derechos y libertades de las personas, debiendo llevar a cabo su actuación de acuerdo con los principios de legalidad, certeza, honradez, lealtad, objetividad, imparcialidad, profesionalismo, transparencia, eficacia y eficiencia, que rigen en el Servicio Profesional, así como a tratarlas con calidad y calidez, y con el debido respeto a los derechos humanos;
 
-V. Dar vista al Órgano Interno de Control, Comité de Profesionalización y el Consejo de Honor y Justicia, cuando se detecten conductas posiblemente constitutivas de responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General, y
+V. Ejercer las facultades que, en materia de aseguramiento de bienes, se deriven del Código Nacional;
 
-VI. Las demás que le confieran las disposiciones legales aplicables, el Reglamento de esta Ley y las que le encomiende la persona titular de la Fiscalía General.
+VI. Remitir a la Dirección de Bienes Asegurados y Extinción de Dominio, los expedientes necesarios para solicitar la extinción de dominio de los bienes de las personas imputadas o sentenciadas, así como de aquellos respecto de los cuales se conduzcan como personas propietarias, o propietarias beneficiarias o beneficiaria controladora, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible a la persona imputada o sentenciada, cuando estos bienes estén vinculados con hechos que la ley considera como delitos de su competencia que sean susceptibles de la acción de extinción de dominio, en los términos de la legislación aplicable;
 
-> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+VII. Dictar las medidas precautorias y promover los mecanismos necesarios para la reparación del daño;
+
+VIII. Autorizar la consulta de reserva, incompetencia, acumulación; y separación de las investigaciones, acumulación, archivo temporal, criterio de oportunidad, acuerdo reparatorio y procedimiento abreviado que propongan las personas Fiscales del Ministerio Público de su adscripción;
+
+IX. Requerir a las instancias del sector público competentes y del sector privado en los casos que disponga la Ley General de Víctimas y la Ley de Víctimas del Estado de Quintana Roo, a que se le brinde atención médica, psicológica y jurídica a las personas víctimas de las conductas previstas en la ley de la materia;
+
+X. Decretar las medidas de protección en favor de la vida o la integridad de las personas víctimas, de conformidad con la legislación aplicable;
+
+XI. Abstenerse de conocer y resolver respecto de asuntos que sean competencias de otras Fiscalías Especializadas o Fiscalías de Distrito, salvo autorización expresa de la persona titular de la Fiscalía General;
+
+XII. Definir lineamientos técnico-jurídicos de supervisión y vigilancia de las unidades administrativas de la Fiscalía General;
+
+XIII. Practicar la supervisión y vigilancia del cumplimiento de las disposiciones jurídicas aplicables y los lineamientos Institucionales, a través de visitas, estudios y monitoreo;
+
+XIV. Conocer de las quejas por demoras, excesos y faltas e irregularidades de las personas servidoras públicas de la Fiscalía General y en su caso iniciar el expediente correspondiente;
+
+XV. Dar vista a la Fiscalía Especializada en Combate a los Delitos Cometidos por personas Servidoras Públicas y de Tortura, así como a la Fiscalía Especializada en Combate a la Corrupción, cuando de las visitas de supervisión se detecten irregularidades que involucre en calidad de indiciadas a personas servidoras públicas adscritas a la Fiscalía General, por la comisión del delito de tortura y actos de corrupción;
+
+XVI. Dar vista al Órgano Interno de Control, Comité de Profesionalización y el Consejo de Honor y Justicia, cuando se detecten conductas posiblemente constitutivas de responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General, y
+
+XVII. Las demás que le confieran las disposiciones legales aplicables, el Reglamento de esta Ley y las que le encomiende la persona titular de la Fiscalía General.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 36 Bis.
 
-Para el ejercicio de sus atribuciones, la Fiscalía Especializada en Asuntos Internos tendrá bajo su cargo a la Dirección de Supervisión, Evaluación y Control de Actuación de Personas Servidoras Públicas de la Fiscalía General.
+La Fiscalía Especializada en Asuntos Internos contará con las personas Fiscales del Ministerio Público, necesarias para el Ejercicio de sus atribuciones, quienes estarán bajo su mando y serán las encargadas de la investigación de delitos de su competencia; así mismo tendrá a su cargo la Dirección de Supervisión, Evaluación y Control de Actuación de Personas Servidoras Públicas de la Fiscalía General.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 36 Ter.
+
+La Fiscalía Especializada en Combate a Delitos Sexuales y el Libre Desarrollo de la Personalidad, se encargará de la investigación y persecución de los delitos relacionados a la libertad sexual y el libre desarrollo de la personalidad.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 36 Quater.
+
+La Fiscalía Especializada en Procesos, tendrá a su cargo la litigación de los procesos penales, desde la formulación de la acusación, hasta la ejecución de la sentencia. Así como coordinar y vigilar la ejecución de los mandamientos judiciales, y demás facultades que la persona titular de la Fiscalía General le delegue para el correcto y puntual seguimiento de los procesos penales, y tendrá las siguientes atribuciones:
+
+I. Supervisar el correcto desarrollo del procedimiento desde la formulación de la acusación hasta la ejecución de la sentencia;
+
+II. Coadyuvar en la aplicación de la Ley de Justicia Indígena y de la Ley de Derechos, Cultura y Organización Indígena del Estado de Quintana Roo;
+
+III. Supervisar la acusación en la fase oral y escrita, el ofrecimiento de los medios de prueba, los acuerdos probatorios, hasta el dictado de auto de apertura a juicio oral; privilegiando las salidas alternas y terminación anticipada del proceso penal; de igual manera promover los recursos correspondientes; el enjuiciamiento y la ejecución penal;
+
+IV. Supervisar el establecimiento de técnicas y estrategias de litigación;
+
+V. Vigilar las intervenciones en el procedimiento de ejecución penal de las sentencias y de las disposiciones legales relativas al debido cumplimiento de la misma;
+
+VI. Vigilar el cumplimiento de las cuestiones de orden público o interés social en los procedimientos de ejecución penal;
+
+VII. Coordinar y vigilar la ejecución de los mandamientos judiciales;
+
+VIII. Autorizar los procedimientos abreviados y la suspensión condicional del proceso, a solicitud de la persona Fiscal del Ministerio Público, dando cuenta de dicha autorización a la persona titular de la Fiscalía General, y
+
+IX. Las demás que le confieran las disposiciones legales aplicables, el Reglamento de esta Ley y las que le encomiende la persona titular de la Fiscalía General.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 36 Quinquies.
+
+La Fiscalía Especializada en Procesos, contará con las coordinaciones siguientes:
+
+I. Coordinación de Procesos Distrito Norte;
+
+II. Coordinación de Procesos Distrito Centro;
+
+III. Coordinación de Procesos Distrito Sur, y
+
+IV. Coordinación de Mandamientos Judiciales.
+
+Las Coordinaciones a través de las personas Fiscales del Ministerio Público a su cargo, serán las encargadas de llevar a cabo la acusación en la fase oral y escrita, así como establecer las técnicas y estrategias de litigación, comenzando a partir de los alegatos de apertura a juicio hasta la lectura de la sentencia, ofrecimiento de medios de prueba, los acuerdos probatorios, el dictado de auto de apertura a juicio oral, privilegiando las salidas alternas y terminaciones anticipadas del proceso penal; de igual manera promoverán los recursos correspondientes.
+
+Las Coordinaciones a través de las personas Fiscales del Ministerio Público a su cargo, serán las encargadas de intervenir en el procedimiento de ejecución penal de las sentencias, y de las disposiciones legales relativas al debido cumplimiento de la misma, de igual manera procurará, en el ámbito de su competencia, el cumplimiento de las cuestiones de orden público e interés social en los procedimientos de ejecución penal.
+
+La Coordinación de Mandamientos Judiciales, será la encargada del registro, control y seguimiento, coordinación y vigilancia de la ejecución de mandamientos judiciales, así como de los mandamientos ministeriales de otros Estados, y la Federación.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
@@ -1419,21 +1607,33 @@ XXII. Aplicar las correcciones disciplinarias al personal de la Policía Ministe
 
 XXIII. Las demás que le confieran las disposiciones legales aplicables, el reglamento de esta Ley y las que le encomiende la persona titular de la Fiscalía General.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 38.
 
-La Dirección General de la Policía de Investigación, tendrá a su cargo las coordinaciones siguientes:
+La Dirección General de la Policía de Investigación, tendrá a su cargo las unidades siguientes:
+
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 I. Secretaría Técnica;
 
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 II. Coordinación Ejecutiva;
+
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 III. Subdirección Operativa;
 
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 IV. Dirección Jurídica, y
 
-V. Dirección Administrativa.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+V. Dirección de Inteligencia.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 Para el cumplimiento de sus funciones y atribuciones, las Unidades Administrativas señaladas en el párrafo que antecede, contarán con los departamentos y personal necesario, los cuales se definirán en el Reglamento de esta Ley y estarán bajo el mando directo de la persona que ocupe la Dirección General.
 
@@ -1495,15 +1695,17 @@ V. De Servicios Periciales Distrito Centro, y
 
 VI. De Servicios Periciales Distrito Sur.
 
-> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-#### Sección III. De la Dirección General de Bienes Asegurados y Extinción de Dominio
+#### Sección III. De la Dirección de Bienes Asegurados y Extinción de Dominio
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 41.
 
-La Dirección General de Bienes Asegurados y Extinción de Dominio, será la encargada de establecer las medidas necesarias para el mantenimiento de los bienes, objetos y valores que se encuentren a disposición de la Institución del Ministerio Público con motivo de la investigación, así como llevar a cabo la tramitación del procedimiento de la acción de extinción de dominio de bienes a favor del Estado, de acuerdo a lo establecido en el Código Nacional y leyes aplicables en la materia.
+La Dirección de Bienes Asegurados y Extinción de Dominio, será la encargada de establecer las medidas necesarias para el mantenimiento de los bienes, objetos y valores que se encuentren a disposición de la Institución del Ministerio Público con motivo de la investigación, así como llevar a cabo la tramitación del procedimiento de la acción de extinción de dominio de bienes a favor del Estado, de acuerdo a lo establecido en el Código Nacional y leyes aplicables en la materia.
+
+Para el ejercicio de sus funciones y atribuciones, la Dirección de Bienes Asegurados y Extinción de Dominio tendrá a su cargo la Coordinación de Extinción de Dominio.
 
 > <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
@@ -1535,47 +1737,69 @@ IX. Realizar el mantenimiento preventivo y correctivo del sistema operativo e in
 
 X. Las demás que le confieran las disposiciones legales aplicables, el Reglamento de esta Ley y las que le encomiende la persona titular de la Fiscalía General.
 
-> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-#### Sección V
+###### Artículo 42 Bis.
 
-De la Dirección General de Mecanismos Alternativos de Solución de Controversias.
+Para el cumplimiento de sus funciones y atribuciones, la Dirección General de Análisis Criminal, Estadísticas y Tecnologías de la Información, tendrá a su cargo las Direcciones siguientes:
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+I. Dirección de Estadísticas, y
+
+II. Dirección de Tecnologías de la Información.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+#### Sección V. De la Dirección de Mecanismos Alternativos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 43.
 
-La Dirección General de Mecanismos Alternativos de Solución de Controversias, es el órgano especializado en mecanismos alternativos de solución de controversias originadas por la comisión de una conducta señalada como delito por la ley; será dirigido por una persona titular de la Dirección General, que tendrá presencia en las Fiscalía de Distrito y Fiscalías Especializadas, así como en el Centro de Justicia para las Mujeres, a través de una persona Coordinadora y tendrá las siguientes atribuciones:
+La Dirección de Mecanismos Alternativos, es el órgano especializado en mecanismos alternativos de solución de controversias originadas por la comisión de una conducta señalada como delito por la ley; será dirigido por una persona titular de la Dirección, que tendrá presencia en las Fiscalía de Distrito y Fiscalías Especializadas, así como en el Centro de Justicia para las Mujeres, a través de una persona Coordinadora y tendrá las siguientes atribuciones:
 
-I. Establecer los Mecanismos Alternativos necesarios para el debido funcionamiento de la Dirección General;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+I. Establecer los Mecanismos Alternativos necesarios para el debido funcionamiento de la Dirección;
+
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 II. Validar a través de su persona titular, los acuerdos reparatorios realizados por las personas facilitadoras;
 
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 III. Dar seguimiento a los acuerdos reparatorios firmados por las personas intervinientes, para hacer constar su cumplimiento o incumplimiento, así como llevar a cabo las acciones necesarias para la conclusión del procedimiento alternativo;
+
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 IV. Informar a la persona Fiscal del Ministerio Público el incumplimiento de los acuerdos firmados por las personas intervinientes, a efecto de que se continúe con la investigación del delito y en su caso, el ejercicio de la acción penal;
 
-V. Proponer la celebración de convenios de coordinación con otras instituciones públicas o privadas, para el cumplimiento de los objetivos de la Dirección General;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-VI. Proponer y ejecutar los mecanismos de difusión para informar a la sociedad sobre los servicios que brinda la Dirección General y los beneficios que brinda la justicia alternativa penal;
+V. Proponer la celebración de convenios de coordinación con otras instituciones públicas o privadas, para el cumplimiento de los objetivos de la Dirección;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+VI. Proponer y ejecutar los mecanismos de difusión para informar a la sociedad sobre los servicios que brinda la Dirección y los beneficios que brinda la justicia alternativa penal;
+
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
 VII. Calificar, previo acuerdo con la persona titular de la Fiscalía General la procedencia de la causa de excusa planteada por la persona facilitadora, para inhibirse del conocimiento del caso asignado y en su caso nombrar persona facilitadora sustituta, y
 
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+
 VIII. Las demás que le confieran las disposiciones legales aplicables, el Reglamento de esta Ley y las que le encomiende la persona titular de la Fiscalía General.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 44.
 
-Para el ejercicio de sus funciones y atribuciones, la Dirección General de Mecanismos Alternativos de Solución de Controversias tendrá bajo su cargo a:
+Para el ejercicio de sus funciones y atribuciones, la Dirección de Mecanismos Alternativos tendrá bajo su cargo las Coordinaciones siguientes:
 
-I. Dirección de Mecanismos Alternativos:
+I. Coordinación de Medios Alternativos Distrito Norte;
 
-a) Coordinación de Medios Alternativos Distrito Norte;
+II. Coordinación de Medios Alternativos Distrito Centro, y
 
-b) Coordinación de Medios Alternativos Distrito Centro, y
-
-c) Coordinación de Medios Alternativos Distrito Sur.
+III. Coordinación de Medios Alternativos Distrito Sur.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
@@ -1651,15 +1875,21 @@ II. Recursos Humanos, y
 
 III. Recursos Materiales y Servicios Generales.
 
-> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-#### Sección II. De la Dirección General de Planeación, Control y Evaluación
+#### Sección II. De la Dirección General de Evaluación de Indicadores
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 48.
 
-La Dirección General de Planeación, Control y Evaluación, se encargará de coordinar y diseñar los esquemas de planeación de la Fiscalía General para mejorar el desarrollo y funcionamiento estructural, con la aplicación de indicadores y proyectos estratégicos atendiendo al Plan Estatal de Desarrollo.
+La Dirección General de Evaluación de Indicadores, se encargará de coordinar y diseñar los esquemas de planeación de la Fiscalía General para mejorar el desarrollo y funcionamiento estructural, con la aplicación de indicadores y proyectos estratégicos atendiendo al Plan Estatal de Desarrollo.
+
+Para el ejercicio de sus atribuciones, la persona titular de la Dirección General de Evaluación de Indicadores tendrá bajo su cargo a:
+
+I Dirección de Seguimiento, y
+
+II. Dirección de Evaluación de Indicadores.
 
 > <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
@@ -1715,7 +1945,9 @@ IV. La Unidad de Igualdad Sustantiva.
 
 El Centro de Justicia para las Mujeres, estará coordinado por una persona titular de la Dirección General, preferentemente mujer, la cual será la encargada de brindar la atención a las mujeres que son víctimas de violencia, con la finalidad de garantizar sus derechos de acceso a la justicia por medio de un proceso de autovaloración que les permita construir un proyecto de vida libre de violencia; y tendrá las siguientes atribuciones:
 
-I. Recibir y atender a través del Ministerio Público adscrito a la Fiscalía Especializada en Combate a Delitos Contra la Mujer y Delitos Sexuales, las denuncias y querellas que se presenten, por hechos que pudieran ser constitutivos de delitos de su competencia de conformidad con la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+I. Recibir y atender a través del Ministerio Público adscrito a la Fiscalía Especializada en Combate a Delitos cometidos Contra la Mujer y por Razones de Género y Fiscalía Especializada en Combate a Delitos Sexuales y el Libre Desarrollo de la Personalidad, las denuncias y querellas que se presenten, por hechos que pudieran ser constitutivos de delitos de su competencia de conformidad con la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y demás disposiciones aplicables;
 
 II. Prestar un modelo de atención integral a las mujeres que comprenda:
 
@@ -1747,7 +1979,9 @@ VI. Formular, en coordinación con la unidad administrativa, los mecanismos para
 
 VII. Diseñar, integrar e implementar sistemas y mecanismos necesarios para la solución, trámite y ejecución de las acciones para dar respuesta real, material, eficiente y eficaz a los problemas de las personas víctimas de delitos de su competencia;
 
-VIII. Establecer mecanismos de coordinación con la Dirección de Prevención del Delito, Participación Ciudadana y Servicios a la Comunidad, para el buen funcionamiento y consecución de los fines del Centro; así como para organizar su participación en programas, congresos, conferencias, seminarios, foros, y reuniones nacionales, estatales y municipales, a fin de promover, difundir y fomentar el desarrollo y aplicación de herramientas, planes, programas, estrategias, acciones y resultados de la Fiscalía General del Estado;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+VIII. Establecer mecanismos de coordinación con la Dirección para la Construcción de la Paz, para el buen funcionamiento y consecución de los fines del Centro; así como para organizar su participación en programas, congresos, conferencias, seminarios, foros, y reuniones nacionales, estatales y municipales, a fin de promover, difundir y fomentar el desarrollo y aplicación de herramientas, planes, programas, estrategias, acciones y resultados de la Fiscalía General del Estado;
 
 IX. Coordinar el desarrollo y cumplimiento de la Procuración de Justicia del Estado, con las funciones de las instituciones y organizaciones no gubernamentales que integren el Centro de Justicia para las Mujeres, vigilando se observen los ordenamientos legales y demás disposiciones aplicables, y
 
@@ -2315,11 +2549,13 @@ La ausencia temporal de alguna de las personas Fiscales de Distrito y Fiscales E
 
 La suplencia de la persona Fiscal de Combate a la Corrupción, se llevará a cabo conforme lo establezca el Reglamento Interior de la Fiscalía Especializada en Combate a la Corrupción.
 
-Las ausencias temporales de las personas titulares de la Dirección General de la Policía de Investigación, la Dirección General de Servicios Periciales, del titular del Centro de Justicia para las Mujeres y de la Dirección General de Mecanismos Alternativos de Solución de Controversias, serán suplidas por la persona que designe la persona Fiscal.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-Las ausencias temporales de las personas Titulares de las Direcciones Generales, Direcciones, y las Coordinaciones Generales; serán suplidas por su inmediato anterior, o en los términos establecidos en el Reglamento de la presente Ley.
+Las ausencias temporales de las personas titulares de la Dirección General de la Policía de Investigación, la Dirección General de Servicios Periciales, del titular del Centro de Justicia para las Mujeres y de la Dirección de Mecanismos Alternativos, serán suplidas por las personas que designe la persona Fiscal.
 
-La ausencia temporal de la persona titular de la Unidad de Transparencia y Acceso a la Información Pública, y la Unidad de Archivo, serán suplidas por su inferior jerárquico, conforme se establezca en el Reglamento de esta Ley.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 Las ausencias definitivas de las personas servidoras públicas, cuyo nombramiento no requiera de un procedimiento especial en la Ley para su designación o que la ausencia no haya sido prevista por este artículo, serán suplidas por la persona que en su caso designe la persona titular de la Fiscalía General.
 
@@ -2871,7 +3107,13 @@ II. Extraordinaria, que comprende:
 
 a) La separación del servicio por el incumplimiento de los requisitos de permanencia señalados en la presente Ley y su Reglamento, así como en el Reglamento del Servicio Profesional de Carrera y en las disposiciones federales, estatales y municipales aplicables;
 
-b) La remoción por incurrir en responsabilidad en el desempeño de las funciones o incumplimiento de sus obligaciones;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+b) La remoción por incurrir en responsabilidad en el desempeño de las funciones o incumplimiento de sus obligaciones, y
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+c) La remoción ordenada por autoridad jurisdiccional, como consecuencia de la investigación o sentencia firme, respecto de delitos cometidos por la persona funcionaria pública a quien se ordena remover.
 
 ###### Artículo 107.
 
@@ -3356,3 +3598,17 @@ Los asuntos iniciados con anterioridad a la entrada en vigor del presente Decret
 SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor de este decreto se cubrirán con cargo al presupuesto de la Fiscalía General, por lo que no se autorizarán recursos adicionales durante el ejercicio fiscal 2023.
 
 SÉPTIMO. Se derogan todas las disposiciones legales que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 198 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Para la adecuación del Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Quintana Roo, continuará siendo aplicable el plazo dispuesto por el transitorio TERCERO del Decreto 122, publicado en el Periódico Oficial del Estado el 03 de noviembre de 2023.
+
+TERCERO. La persona titular de la Fiscalía General del Estado dictará los acuerdos y disposiciones de carácter general que estime necesarios para la transferencia de los recursos humanos, financieros y materiales, y la debida ejecución de lo dispuesto en el presente decreto. Para ello la persona titular de la Fiscalía General del Estado, a través de las unidades administrativas que correspondan, contará con un plazo de noventa días hábiles a partir de la entrada en vigor del presente decreto, para llevar a cabo el proceso de transferencia de recursos humanos, materiales y financieros necesarios conforme a lo previsto en el presente decreto.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor de este decreto se cubrirán de manera progresiva y de acuerdo a la disponibilidad presupuestal del Estado.
+
+QUINTO. Se derogan todas las disposiciones legales que se opongan a lo dispuesto en el presente Decreto.
