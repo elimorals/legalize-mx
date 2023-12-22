@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-la-competitividad-y-desarrollo-economico-45256
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2023-02-10"
+last_updated: "2023-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONOMICO PARA EL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Baja California, el viernes 10 de junio de 2005.
 
@@ -103,13 +105,17 @@ XIII. Persona Egresada de Albergue, Casa Hogar o Institución de Asistencia Soci
 
 XIV. Persona Productiva con Discapacidad: Toda persona que, como consecuencia de una o más deficiencias físicas, psíquicas o sensoriales, congénitas o adquiridas, permanentes o temporales, independientemente de la causa que las hubiera originado, vea limitada su capacidad educativa, laboral o de integración social, y dicha limitación sea reconocida por una institución pública competente, susceptible de ser contratada por una empresa;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE ENERO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-XV. Proyecto de Inversión: La inversión privada destinada a la instalación de una nueva Empresa, a la ampliación de las operaciones productivas, a la investigación e implementación de proyectos de innovación y desarrollo tecnológico que generen valor agregado en productos, procesos, materiales y/o servicios, de conformidad con la siguiente clasificación:
+XV. Proyecto de Inversión: La inversión privada destinada a la instalación de una nueva Empresa, y de aquellos que sean destinados para el desarrollo tecnológico que generen valor agregado en productos, procesos, materiales y/o servicios, de conformidad con la siguiente clasificación:
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2019)</small>
 
 a) Inversión Nueva: La que se destina a la instalación de una empresa para iniciar operaciones productivas en el Estado;
 
-b) Inversión en Ampliación: La que se destina a ampliar las operaciones productivas que representen un incremento en la capacidad instalada en los niveles de producción y/o empleo;
+b) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2023)
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO CON SUS NUMERALES], P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 c) Inversión en Tecnología: Inversiones cuyo modelo de negocios se basa en el conocimiento científico y tecnológico, que destinan un porcentaje de sus ventas anuales a la investigación y/o el desarrollo experimental, y se clasifican a su vez en:
 
@@ -515,7 +521,9 @@ e) Más de 15 UMA 15 puntos
 
 III. Monto y Origen de la Inversión
 
-Esquema 1. Inversión Nueva o en Ampliación, incluyendo construcción y bienes de capital, cuyo monto en moneda nacional sea equivalente a:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+Esquema 1. Inversión Nueva, cuyo monto en moneda nacional sea equivalente a:
 
 a) 250 mil dólares o menos 1 punto
 
@@ -1358,3 +1366,15 @@ P.O. 10 DE FEBRERO DE 2023.
 PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Para efectos de los programas de regularización de empresas previstos en el presente Decreto, el Ejecutivo del Estado podrá celebrar convenios de colaboración administrativa con los Ayuntamientos para otorgar asesoría y orientación en: cumplimiento de obligaciones en materia tributaria, ambiental, protección civil, del trabajo, entre otras relativas a las empresas.
+
+P.O. 22 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 361 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA; 3 FRACCIÓN XV, 13 FRACCIÓN III DE LA LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA; ASÍ COMO A LOS ARTÍCULOS 7 Y 7 BIS DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente reforma entrará en vigor el día primero de enero del año dos mil veinticuatro.
+
+SEGUNDO. Las solicitudes de estímulo (sic) fiscales presentadas en ventanilla única de la Secretaría de Economía e Innovación con anterioridad a la presente reforma, en caso de resultar procedentes, deberán ser tramitadas y remitidas en un plazo máximo de 20 días hábiles a partir de la entrada en vigor de la presente reforma, a la Secretaría de Hacienda para la emisión de la resolución correspondiente, conforme a lo previsto en las disposiciones fiscales aplicables.
+
+TERCERO. Las solicitudes en trámite por estímulos fiscales regulados por la presente Ley que hayan sido presentadas antes de la publicación de la presente reforma, se deberá dar trámite y resolver, de conformidad con los ordenamientos vigentes al momento de su presentación en ventanilla única de la Secretaría de Economía e Innovación.
+
+CUARTO. La Secretaría de Economía e Innovación, actualizará los formatos necesarios para las solicitudes de estímulos fiscales que se presenten a partir de la entrada en vigor de la presente reforma.
