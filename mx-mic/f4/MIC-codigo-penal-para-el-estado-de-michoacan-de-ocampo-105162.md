@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2023-12-07"
+last_updated: "2023-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2023.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -2913,13 +2913,21 @@ A quien se coloque en estado de insolvencia, con el objeto de eludir las obligac
 
 Despojo
 
-Se impondrá de seis meses a tres años de prisión y de cien a quinientos días multa, a quien:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-I. De propia autoridad, por medio de violencia física o psicológica, el engaño o furtivamente, ocupe un inmueble ajeno, haga uso de éste o de un derecho real que no le pertenezca;
+Se impondrán de uno a cinco años de prisión y de cien a quinientos días multa, a quien:
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+I. De propia autoridad, o sin consentimiento de quien tenga derecho a otorgarlo, o con consentimiento obtenido mediante engaño o amenazas, ocupe un inmueble ajeno o haga uso de él o de un derecho real que no le pertenezca, o impida materialmente el disfrute de uno o de otro;
 
 II. De propia autoridad y haciendo uso de cualquiera de los medios indicados en la fracción anterior o furtivamente, ocupe un inmueble de su propiedad, en los casos en que la ley no lo permite por hallarse en poder de otra persona o ejerza actos de dominio que lesionen derechos legítimos del ocupante; o,
 
 III. A quien en los mismos términos de las fracciones anteriores, cometa despojo de aguas.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+Las sanciones se impondrán aunque el derecho a la posesión sea dudoso o esté en disputa.
 
 > <small>(REFORMADO, P.O. 19 DE ENERO DE 2023)</small>
 
@@ -4746,3 +4754,9 @@ P.O. 7 DE DICIEMBRE DE 2023.
 PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+P.O. 22 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 478 POR EL QUE "SE REFORMA EL PRIMER PÁRRAFO Y SU FRACCIÓN I; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 226 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
