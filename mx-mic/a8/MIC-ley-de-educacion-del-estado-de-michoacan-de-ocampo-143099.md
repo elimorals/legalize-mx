@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-educacion-del-estado-de-michoacan-de-ocampo-143099"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-29"
-last_updated: "2023-06-26"
+last_updated: "2023-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY DE EDUCACION DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE MARZO DE 2024 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sexta Sección en el Número 22 del Periódico Oficial del Estado de Michoacán, el viernes 29 de mayo de 2020.
 
@@ -751,9 +753,9 @@ III. Desarrollar competencias en los docentes con la realización de las adecuac
 
 IV. Promover las condiciones pedagógicas, administrativas, de recursos didácticos, seguridad e infraestructura para la atención educativa en escuelas multigrado a fin de garantizar el ejercicio del derecho a la educación.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-### CAPÍTULO II BIS. DE LA EDUCACIÓN EMOCIONAL
+### CAPÍTULO II BIS. DE LA EDUCACIÓN EMOCIONAL, EDUCACIÓN DE ENRIQUECIMIENTO Y ACELERACIÓN
 
 > <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2022)</small>
 
@@ -825,9 +827,15 @@ VII. Diseñar, aplicar y evaluar programas de educación emocional para el ciclo
 
 VIII. Perfilar las estrategias más idóneas para la implantación de programas de educación emocional en los diversos niveles educativos y contextos de intervención (educación formal y no formal, medios comunitarios, organizaciones). Estas estrategias pueden ser a nivel de centro, pero también respecto de la Administración pública y de la sociedad;
 
-IX. Fomentar la cristalización del cambio con objeto de garantizar la continuidad de los programas y a ser (sic) posible su institucionalización; y,
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-X. Fomentar la optimización permanente de los programas a través de comunidades de aprendizaje.
+IX. Fomentar la cristalización del cambio con objeto de garantizar la continuidad de los programas y hacer posible su institucionalización;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+X. Implementar programas educativos aprobados por la autoridad educativa federal en los que se incluyan los modelos de atención educativos para las niñas, niños y adolescentes con aptitudes sobresalientes, tales como lo son el Modelo de Atención Educativa de Enriquecimiento y el Modelo de Atención Educativa de Aceleración, permitiéndose la acreditación, promoción y certificación anticipada de alumnos con aptitudes sobresalientes, sin sujetarse a reglas rígidas, de ahí que podrá implementar modelos educativos para ello; y,
+
+XI. Fomentar la optimización permanente de los programas a través de comunidades de aprendizaje.
 
 > <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2022)</small>
 
@@ -2568,3 +2576,23 @@ P.O. 26 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL DECRETO 371 POR EL QUE “SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 119 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO.
 
 UNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 22 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 479.- ARTÍCULO ÚNICO.- SE EXPIDE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Notifíquese al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+A la entrada en vigor del presente Decreto, las autoridades responsables de la aplicación del mismo, deberán de establecer en sus respectivos presupuestos de egresos del siguiente ejercicio fiscal los recursos necesarios para su cumplimiento.
+
+###### ARTÍCULO CUARTO.
+
+Las autoridades responsables de la aplicación de lo mandatado en el presente Decreto, deberán de reformar sus reglamentos y manuales de operación, para adecuarlos a lo mandatado en el presente Decreto en un máximo de 180 días hábiles a su entrada en vigor.
