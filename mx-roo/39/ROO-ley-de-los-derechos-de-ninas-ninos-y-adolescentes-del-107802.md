@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107802"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-30"
-last_updated: "2023-06-07"
+last_updated: "2023-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número 8 Ordinario Bis del Periódico Oficial del Estado de Quintana Roo, el jueves 30 de abril de 2015.
 
@@ -145,7 +145,9 @@ XXVIII. Representación en Suplencia: La representación de niñas, niños y ado
 
 XXIX. Secretaría de Salud: Secretaría de Salud del Estado de Quintana Roo;
 
-XXX. Secretaría de Educación y Cultura: Secretaría de Educación y Cultura del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+XXX. Secretaría de Educación: Secretaría de Educación del Estado de Quintana Roo;
 
 XXXI. Sistema DIF Estatal: El Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo;
 
@@ -513,9 +515,13 @@ Para el cumplimiento de lo dispuesto en el párrafo anterior, el Sistema Estatal
 
 #### SECCIÓN NOVENA. DEL DERECHO A LA PROTECCIÓN DE LA SALUD Y A LA SEGURIDAD SOCIAL
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 39.
 
 Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir la prestación de servicios de atención médica, para ello, las autoridades competentes, a través de la Secretaría de Salud, el Sistema DIF Estatal y demás integrantes del Sistema Estatal de Salud y correlativos de la Administración Pública Municipal, prestarán sus servicios de manera gratuita y con calidad, con el fin de prevenir, proteger y restaurar su salud.
+
+Las niñas, niños y adolescentes tienen derecho a disfrutar de la más alta calidad de salud bucodental, la cual tiene por objeto la prevención, control, diagnóstico y tratamiento de las enfermedades y los padecimientos bucodentales.
 
 ###### Artículo 40.
 
@@ -1904,3 +1910,11 @@ SEGUNDO. Se abroga la Ley para la Dotación Gratuita de Uniformes, Mochilas y Ú
 TERCERO. A partir del período escolar 2023-2024, las autoridades educativas del Estado y los Municipios, en el ámbito de sus respectivas competencias, deberá (sic) implementar las políticas y los programas que resulten necesarios para dar cumplimiento a lo establecido en el presente Decreto.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 199 POR EL CUAL SE REFORMAN LA FRACCIÓN XXX DEL ARTÍCULO 4 Y EL ARTÍCULO 39, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
