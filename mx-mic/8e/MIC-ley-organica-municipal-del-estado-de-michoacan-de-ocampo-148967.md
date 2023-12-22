@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-148967
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-03-30"
-last_updated: "2023-08-08"
+last_updated: "2023-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Octava Sección en el Número 39 del Periódico Oficial del Estado de Michoacán, el martes 30 de marzo de 2021.
 
@@ -1365,19 +1365,29 @@ IV. Opinar sobre la declaración de usos, destinos y provisiones del suelo urban
 
 V. Fomentar el cuidado y la conservación de los monumentos públicos;
 
-VI. Supervisar la conservación, rehabilitación y mejoramiento de los panteones, mercados, jardines y parques públicos;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+VI. Supervisar la conservación, rehabilitación y mejoramiento de los panteones, mercados, jardines y parques públicos, garantizando el principio de accesibilidad a través del diseño universal para las personas con discapacidad y movilidad reducida;
 
 VII. Proponer la actualización de la nomenclatura de las calles, plazas, jardines y espacios públicos;
 
-VIII Impulsar la satisfacción de los requerimientos sociales sobre pavimentación, embanquetado, nivelación y apertura de calles, plazas y jardines; así como la conservación de las vías de comunicación municipales;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+VIII. Impulsar la satisfacción de los requerimientos sociales sobre pavimentación, embanquetados, nivelación y apertura de calles, plazas y jardines; así como la conservación de las vías de comunicación municipales, garantizando el principio de accesibilidad a través del diseño universal para las personas con discapacidad y movilidad reducida;
 
 IX. Opinar sobre la ejecución de la obra pública municipal;
 
 X. Vigilar el mantenimiento de los equipos y maquinaria destinada a la prestación de los servicios públicos;
 
-XI. Elaborar y presentar al Ayuntamiento para su aprobación, en su caso, las iniciativas de reglamentos de su competencia; y,
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-XII. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
+XI. Elaborar y presentar al Ayuntamiento para su aprobacioìn (sic), en su caso, las iniciativas de reglamentos de su competencia;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+XII. Supervisar que en los planes y programas de desarrollo urbano y obra pública se garantice la accesibilidad a través del diseño universal en la infraestructura básica, equipamiento y entorno urbano en los espacios públicos; y,
+
+XIII. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
 
 ###### Artículo 59.
 
@@ -1433,7 +1443,9 @@ IV. Participar en la organización de la creación de los mecanismos para mejora
 
 V. Promover la incorporación de las mujeres de las comunidades indígenas al desarrollo, mediante el apoyo a los proyectos productivos, la protección de su salud, el otorgamiento de estímulos para favorecer su educación y su participación en la toma de decisiones relacionadas con la vida comunitaria;
 
-VI. Impulsar los mecanismos adecuados para extender la red de comunicaciones que permita la integración de las comunidades, mediante la construcción y ampliación de vías de comunicación;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+VI. Impulsar los mecanismos adecuados para extender la red de comunicaciones que permita la integración de las comunidades, mediante la construcción y ampliación de vías de comunicación, observando en todo momento el principio de accesibilidad a través del diseño universal para las personas con discapacidad y movilidad reducida;
 
 VII. Participar en la organización de las actividades productivas y el desarrollo sustentable de las comunidades indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, así como la incorporación de tecnologías para incrementar su propia capacidad productiva, procurando asegurar el acceso equitativo a los sistemas de abasto y comercialización;
 
@@ -1799,7 +1811,9 @@ VII. Verificar que la Administración Pública Municipal realice el registro e i
 
 VIII. Vigilar y revisar que las adquisiciones, enajenaciones y arrendamientos de los bienes muebles e inmuebles que realice el Ayuntamiento y la prestación de Servicios Públicos Municipales, se supediten a lo establecido por la normatividad en la materia, pudiendo manifestarse en relación con los mismos;
 
-IX. Vigilar y revisar que la obra pública municipal se ajuste a las disposiciones de la legislación de la materia;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+
+IX. Vigilar y revisar que la obra pública municipal se ajuste a las disposiciones de la legislación de la materia, observando el principio de accesibilidad, a través del diseño universal para las personas con discapacidad y movilidad reducida;
 
 X. Establecer, difundir y operar sistemas para quejas, denuncias y sugerencias, accesibles y amigables con la ciudadanía;
 
@@ -3514,3 +3528,13 @@ P.O. 8 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 427 POR EL QUE “SE ADICIONAN LAS FRACCIONES VI BIS Y VI TER AL ARTÍCULO 64 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 22 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 481.- ARTÍCULO PRIMERO.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 48, EL ARTÍCULO 51 Y LA FRACCIÓN I DEL ARTÍCULO 55, TODOS DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMAN LAS FRACCIONES VI, VIII Y XI Y SE ADICIONA LA FRACCIÓN XII RECORRIÉNDOSE LA SIGUIENTE EN SU ORDEN SUBSECUENTE, DEL ARTÍCULO 58; Y, SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 61 Y LA FRACCIÓN IX DEL ARTÍCULO 79, TODOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SEGUNDO. Notifíquese al Gobernador Constitucional del Estado de Michoacán de Ocampo, para que se sirva ordenar su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
