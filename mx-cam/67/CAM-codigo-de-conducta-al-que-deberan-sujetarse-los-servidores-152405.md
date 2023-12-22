@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-conducta-al-que-deberan-sujetarse-los-servidores-1524
 country: "mx"
 rank: "codigo"
 publication_date: "2018-11-28"
-last_updated: "2018-11-28"
+last_updated: "2023-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CODIGO DE CONDUCTA AL QUE DEBERAN SUJETARSE LOS SERVIDORES PUBLICOS DE LA SECRETARIA DE DESARROLLO SOCIAL Y HUMANO DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE BIENESTAR DEL PODER EJECUTIVO DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE DESARROLLO SOCIAL Y HUMANO DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2023 (ABROGADO).
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 28 de noviembre de 2018.
 
@@ -506,3 +508,15 @@ SEGUNDO.- - El presente Código de Conducta entrará en vigor al día siguiente 
 Aprobado en la Primera Sesión Ordinaria del 22 de febrero de 2018, del Comité de Ética y Prevención de Conflicto de Intereses de la Secretaría de Desarrollo Social y Humano de la Administración Pública del Estado de Campeche.
 
 El PRESIDENTE; C.P. LUIS JORGE MEDINA MINET.- PRIMER VOCAL; LICDA.CELIA DEL SOCORRO HERRERA RODRÍGUEZ.- SEGUNDO VOCAL, LIC. EMIR TADEO RÍOS FOSTER.- TERCER VOCAL; LIC. LUIS FELIX BELTRÁN GONZÁLEZ.- SECRETARÍA EJECUTIVA; ING. LEYDILUZ PÉREZ BLANQUET.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE BIENESTAR DEL PODER EJECUTIVO DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO.- El presente Acuerdo abroga el Código de Conducta al que deberán sujetarse los servidores públicos de la Secretaría de Desarrollo Social y Humano de la Administración Pública del Estado de Campeche, publicado en el Periódico Oficial del Estado el día 28 de noviembre de 2018 así como cualquier otra disposición análoga que haya sido aprobada por el Comité de Ética y de Prevención de Conflictos de Interés de la entonces Secretaría de Desarrollo Social y Humano.
+
+TERCERO.- Se instruye a todos los servidores públicos de la Secretaría de Bienestar de la Administración Pública del Estado de Campeche, a efecto de que pongan en práctica las medidas necesarias y pertinentes para dar debido cumplimiento a lo establecido en el presente Acuerdo.
