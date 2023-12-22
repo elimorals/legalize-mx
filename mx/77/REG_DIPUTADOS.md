@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2023-10-18"
+last_updated: "2023-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2023.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -2728,9 +2728,9 @@ IV. Los demás asuntos que no ameriten dictamen.
 
 1. La Mesa Directiva establecerá un acuerdo para que las iniciativas y minutas que no fueron dictaminadas por la comisión respectiva, en los plazos establecidos y una vez realizadas las prevenciones a que hace referencia este Reglamento, se presenten en sus términos ante el Pleno, para su discusión y votación.
 
-> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2023)</small>
 
-2. Las proposiciones no dictaminadas dentro del periodo ordinario de sesiones en que fueron presentadas, se tendrán por desechadas, procediendo a su archivo como asuntos total y definitivamente concluidos.
+2. Las iniciativas no dictaminadas al término de una legislatura, así como las proposiciones no dictaminadas dentro del periodo ordinario de sesiones en que fueron presentadas, se tendrán por desechadas, procediendo a su archivo como asuntos total y definitivamente concluidos.
 
 ###### Artículo 185.
 
@@ -3936,27 +3936,19 @@ VI. Los lineamientos y directrices que se seguirán para mejorar el desempeño d
 
 ### CAPITULO I. De las iniciativas y minutas
 
-> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2021)</small>
-
 ###### Artículo 286.
 
-1. Las iniciativas cuyo plazo para ser dictaminadas y/o resueltas haya vencido y que no fueron procesadas durante la legislatura saliente, de conformidad con los artículos 89 y 184, quedarán bajo resguardo de la Secretaría de Servicios Parlamentarios hasta el término del Primer Periodo Ordinario del Segundo Año de Ejercicio de la legislatura entrante.
-
-2. La Secretaria de Servicios Parlamentarios al finalizar la legislatura saliente publicará el listado respectivo en la Gaceta; así como, en un micrositio de la Cámara de Diputados.
-
-3. La diputada o diputado electo para un periodo consecutivo que haya sido iniciante en la legislatura anterior; los Grupos Parlamentarios a través de su coordinador o coordinadora; o la Junta Directiva de las comisiones ordinarias en ejercicio, podrán solicitar a la Presidencia de la Mesa Directiva que se turne una o varias de las iniciativas que se encuentren en el listado antes referido. Estas iniciativas serán turnadas a las comisiones correspondientes y serán procesadas en los términos reglamentarios.
-
-4. Las iniciativas que no fuesen solicitadas para ser turnadas a la o las comisiones correspondientes durante el Primer Periodo Ordinario del Segundo Año de Ejercicio de la legislatura entrante, se tendrán por desechadas y se archivarán como asuntos total y definitivamente concluidos.
-
-5. Las minutas cuyo plazo para ser dictaminadas y/o resueltas haya vencido que no fueron procesadas durante la legislatura de conformidad con los artículos 95 y 184 que tengan una antigüedad mayor a dos legislaturas, se integrarán en un listado elaborado por la Mesa Directiva que será hecho del conocimiento del Pleno de la Cámara y comunicado a la colegisladora para recabar su acuerdo respecto a su desahogo en términos de lo dispuesto por el artículo 72 Constitucional.
+(DEROGADO, D.O.F. 22 DE DICIEMBRE DE 2023)
 
 > <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2021)</small>
 
 ###### Artículo 287.
 
-1. La Secretaría de Servicios Parlamentarios al finalizar la legislatura, elaborará un listado con las iniciativas y minutas que no hayan sido dictaminadas y/o resueltas y cuyo plazo continúe vigente, el cual será remitido a la Mesa Directiva de la legislatura entrante para su publicación en la Gaceta.
+1. (DEROGADO, D.O.F. 22 DE DICIEMBRE DE 2023)
 
-2. Las iniciativas y minutas que no hayan sido dictaminadas y/o resueltas y cuyo plazo continúe vigente que sean recibidas por la legislatura entrante, serán turnadas a las comisiones correspondientes una vez que hayan sido instaladas para efecto de que sean procesadas en los términos reglamentarios.
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2023)</small>
+
+2. Las minutas no dictaminadas, cuyo plazo continúe vigente, pasarán a la siguiente legislatura y serán turnadas a las comisiones correspondientes, una vez que éstas se instalen, para efecto de que continúe su proceso legislativo.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 27 DE ABRIL DE 2021)</small>
 
@@ -3966,9 +3958,9 @@ VI. Los lineamientos y directrices que se seguirán para mejorar el desempeño d
 
 ###### Artículo 288.
 
-1. Los dictámenes de iniciativas, minutas y puntos de acuerdo que se encuentren en poder de la Mesa Directiva serán devueltos a las comisiones correspondientes en calidad de proyectos. Las comisiones deberán elaborar un acuerdo dentro del primer mes de sus trabajos a partir de su instalación donde señalen qué proyectos serán desechados y cuáles serán procesados para su nueva discusión.
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2023)</small>
 
-En caso de que un proyecto de dictamen corresponda a comisiones unidas, la comisión que encabeza el turno será la encargada de realizar el acuerdo señalado en el numeral anterior.
+1. Al término de la Legislatura, la Secretaría de Servicios Parlamentarios elaborará un listado de dictámenes de las iniciativas y las minutas, que se encuentren en poder de la Mesa Directiva. La Junta, conforme a las atribuciones que le confiere el artículo 34, numeral 1, inciso a), de la Ley, determinará, a través de un acuerdo, los dictámenes que se presentarán ante el Pleno, durante el primer periodo de sesiones, del primer año de ejercicio de la siguiente Legislatura.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 18 DE OCTUBRE DE 2023)</small>
 
@@ -4583,3 +4575,11 @@ Primero. El presente Decreto entrará en vigor el día de su publicación en el 
 Segundo. Se abroga el Reglamento para la Contingencia Sanitaria, que la Cámara de Diputados aplicará en las Sesiones Ordinarias y Extraordinarias durante el Tercer Año Legislativo de la LXIV Legislatura, publicado en el Diario Oficial de la Federación, el 2 de septiembre del 2020.
 
 Tercero. Se abroga el Reglamento que la Cámara de Diputados aplicará durante las situaciones de emergencia y la contingencia sanitaria, en las Sesiones Ordinarias y Extraordinarias durante la LXV Legislatura, publicado en el Diario Oficial de la Federación el 3 de septiembre del 2021.
+
+D.O.F. 22 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS, EN MATERIA DE REZAGO LEGISLATIVO Y DE ASUNTOS QUE PASAN DE UNA LEGISLATURA A OTRA”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación, en el Diario Oficial de la Federación.
+
+Segundo. Para el caso de las minutas cuyo plazo para ser dictaminadas haya vencido se declara finalizado el proceso legislativo. La Presidencia de la Mesa Directiva enviará a la Colegisladora, antes de que concluya el año legislativo, un listado con el objeto de que proceda en consecuencia y actualice sus registros parlamentarios.
