@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-coordinacion-fiscal-del-estado-de-baja-california-2763"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2022-05-09"
+last_updated: "2023-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:22 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección Décimo Primera del Periódico Oficial del Estado de Baja California, el jueves 31 de diciembre de 1987.
 
@@ -125,31 +125,29 @@ II. El 20%, en proporción directa al número de habitantes que tenga cada Munic
 
 El 20% del total de la recaudación del Impuesto Sobre Automóviles Nuevos y del Fondo Compensatorio del Impuesto Sobre Automóviles Nuevos, se distribuirá a los Municipios aplicando el factor que les corresponda en la distribución del Impuesto Estatal Sobre Tenencia o Uso de Vehículos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 7o.
 
-Del total de los impuestos estatales que se recauden durante el ejercicio, con excepción del Impuesto Adicional para la Educación Media y Superior, los Municipios recibirán el 20%, distribuido en proporción a la recaudación obtenida en cada uno de los Municipios en el ejercicio fiscal anterior, por el mismo concepto.
+·Del total de los impuestos estatales que se recauden durante el ejercicio, con excepción del Impuesto Sobre Remuneraciones al Trabajo Personal, los Municipios recibirán el 20%, distribuido en proporción a la recaudación obtenida en cada uno de los Municipios en el ejercicio fiscal anterior, por el mismo concepto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS PORCENTAJES], P.O. 30 DE ABRIL DE 2020)</small>
+Del total del Impuesto Sobre Remuneraciones al Trabajo Personal que se recaude durante el ejercicio, los Municipios recibirán el 8.470588%, distribuido en proporción a la recaudación obtenida en cada uno de los Municipios en el ejercicio fiscal anterior, por el mismo concepto.
 
-###### ARTICULO 7o.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-BIS.- Con el 9% del total de la recaudación de los impuestos estatales, exceptuando al Impuesto Sobre Servicio de Hospedaje, el Estado constituirá el Fondo Compensatorio, que se distribuirá de la siguiente manera:
+ARTICULO 7 BIS. Se otorgará mensualmente la cantidad de $15,000,000.00 de pesos, para ser distribuido entre aquellos municipios que tengan celebrado convenio con el Estado para la administración del Impuesto Predial, de conformidad con lo establecido en el artículo 2- A de la Ley de Coordinación Fiscal, y que en el ejercicio fiscal anterior hayan tenido un crecimiento en el porcentaje de cuentas pagadas del impuesto predial, con respecto al padrón total de cuentas por cobrar del predial del mismo ejercicio fiscal.
 
-28.59% al Municipio de Mexicali.
+La cantidad señalada en el párrafo anterior, se actualizará anualmente en el mes de enero, considerando el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes de diciembre del año inmediato anterior, entre el citado índice correspondiente al mes de diciembre del penúltimo año. La Secretaría de Hacienda publicará la cantidad actualizada.
 
-55.88% al Municipio de Tijuana.
+Para determinar el porcentaje de distribución mensual a cada Municipio, respecto a la cantidad señalada en el primer párrafo de este artículo, la Secretaría de Hacienda deberá realizar el procedimiento siguiente:
 
-15.53% al Municipio de Tecate.
+I. Se divide el total de cuentas del impuesto predial cobradas entre el total de cuentas del padrón del impuesto predial, de cada uno de los municipios, del ejercicio fiscal anterior al que se hace el cálculo; el porcentaje resultante se divide entre la suma total de los porcentajes de todos los municipios.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2000)</small>
+II. El factor resultante de la fracción anterior se multiplica por la cantidad a distribuir.
 
-A partir del año 2002, el importe que corresponda a cada Municipio en los términos del párrafo anterior, se actualizará con el factor de inflación que corresponda a cada mes del ejercicio de que se trate. En caso de que el porcentaje del incremento de la recaudación sea mayor de la inflación, el remanente se distribuirá entre todos los Municipios del Estado, en proporción inversa a las participaciones por habitante que tenga cada Municipio, como resultado de la suma de las participaciones que conforme a esta Ley corresponda a los Municipios.
+III. El resultado de la fracción anterior será la cantidad a recibir por municipio.
 
-> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2020)</small>
-
-El 9% del total recaudado por el Impuesto Sobre Servicios de Hospedaje, será distribuido entre los Municipios en proporción a la recaudación obtenida en cada uno de ellos en el ejercicio fiscal anterior, por el mismo concepto.
+La cantidad mensual no será acumulativa, por lo que, en caso de no distribuirse la totalidad en el mes correspondiente, esta pasará a formar parte del gasto del Ejecutivo Estatal.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2022)</small>
 
@@ -378,3 +376,15 @@ P.O. 9 DE MAYO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 361 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA; 3 FRACCIÓN XV, 13 FRACCIÓN III DE LA LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA; ASÍ COMO A LOS ARTÍCULOS 7 Y 7 BIS DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente reforma entrará en vigor el día primero de enero del año dos mil veinticuatro.
+
+SEGUNDO. La Secretaría de Hacienda en coordinación con los Municipios de esta entidad federativa, deberán realizar las gestiones necesarias a fin de que se lleven (sic) a cabo lo correspondiente para formalizar la celebración del Convenio para la administración del Impuesto Predial con el Poder Ejecutivo del Estado; acorde a lo establecido en el artículo 7 BIS de la presente reforma.
+
+TERCERO. La Secretaría de Hacienda a más tardar el último día hábil del mes de enero de cada ejercicio fiscal, deberá publicar en el Periódico Oficial del Estado de Baja California, la actualización del monto de incentivo señalado en el artículo 7 BIS de la presente reforma.
+
+CUARTO. La Secretaría de Hacienda deberá llevar a cabo las previsiones necesarias para la distribución oportuna de las participaciones estatales y de la cantidad señalada en el primer párrafo del artículo 7 BIS de esta Ley, iniciando su distribución al mes siguiente que los municipios hayan celebrado el Convenio para la administración del Impuesto Predial con el Poder Ejecutivo del Estado.
