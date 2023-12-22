@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-la-prevencion-gestion-integral-y-economia-circular-136
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-18"
-last_updated: "2022-07-21"
+last_updated: "2023-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136858&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY PARA LA PREVENCIÓN, GESTIÓN INTEGRAL Y ECONOMÍA CIRCULAR DE LOS RESIDUOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 18 de junio de 2019.
 
@@ -213,55 +213,61 @@ X. Disposición Final: Acción de depositar o confinar permanentemente residuos 
 
 XI. Economía Circular: Sistema de producción y consumo que elimina los residuos al aprovecharlos energéticamente o como materia prima en los nuevos ciclos productivos, reintroduciéndolos al ciclo económico de la degradación ambiental; y que minimiza o elimina el uso de sustancias tóxicas en la fabricación de productos.
 
-XII. Envases: Es el componente de un producto que cumple la función de contenerlo y protegerlo para su distribución, comercialización y consumo.
+> <small>(REFORMADA. P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-XIII. Estaciones de Transferencia: Instalaciones para el transbordo de los residuos de los vehículos de recolección a los vehículos de transferencia.
+XII. Envase: Todo recipiente destinado a contener un producto y que entra en contacto con el mismo, conservando su integridad física, química y sanitaria.
 
-XIV. Generador: Persona física o moral que produce residuos, a través del desarrollo de procesos productivos o de consumo.
+> <small>(ADICIONADA. P.O. 22 DE DICIEMBRE DE 2023)</small>
 
-XV. Gestión Integral: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación, para el manejo de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región.
+XIII. Embalaje: Material que envuelve, contiene, protege o conserva debidamente los productos empacados o envasados, que facilita y resiste las operaciones de transporte, manejo, almacenamiento y distribución, según sea el caso.
 
-XVI. Instrumentos de control: acciones que implican la materialización de la facultad coactiva del estado, para autorizar, registrar, expedir o en su caso revocar, los permisos, registros o autorizaciones, que el sujeto regulado debe tramitar para evitar daños al ambiente.
+XIV. Estaciones de Transferencia: Instalaciones para el transbordo de los residuos de los vehículos de recolección a los vehículos de transferencia.
 
-XVII. Instrumentos de gestión: elementos, acciones y métodos cuantitativos y/o cualitativos que permiten dirigir, impulsar y ejecutar la política ambiental.
+XV. Generador: Persona física o moral que produce residuos, a través del desarrollo de procesos productivos o de consumo.
 
-XVIII. LEEPA: Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Quintana Roo.
+XVI. Gestión Integral: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación, para el manejo de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región.
 
-XIX. Ley: Ley para la Prevención, Gestión Integral y Economía Circular de los Residuos del Estado de Quintana Roo.
+XVII. Instrumentos de control: acciones que implican la materialización de la facultad coactiva del estado, para autorizar, registrar, expedir o en su caso revocar, los permisos, registros o autorizaciones, que el sujeto regulado debe tramitar para evitar daños al ambiente.
 
-XX. LGEEPA: Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+XVIII. Instrumentos de gestión: elementos, acciones y métodos cuantitativos y/o cualitativos que permiten dirigir, impulsar y ejecutar la política ambiental.
 
-XXI. LGPGIR: Ley General para la Prevención y Gestión Integral de los Residuos.
+XIX. LEEPA: Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Quintana Roo.
 
-XXII. Manejo Integral: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social.
+XX. Ley: Ley para la Prevención, Gestión Integral y Economía Circular de los Residuos del Estado de Quintana Roo.
 
-XXIII. Normas Técnicas Ambientales en materia de Residuos: Circular expedida por el Gobernador del Estado, a petición del Secretario, que establece los elementos técnicos y/o científicos necesarios para ejercer un derecho u obligación, a través de los instrumentos de planeación y control, previniendo la generación, gestión, manejo integral y economía circular de los residuos de competencia estatal.
+XXI. LGEEPA: Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
-XXIV. Plan de Manejo: Instrumento cuyo objetivo es minimizar la generación y maximizar la valorización de residuos sólidos urbanos, residuos de manejo especial y residuos peligrosos específicos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, con fundamento en el Diagnóstico Básico para la Gestión Integral de Residuos, diseñado bajo los principios de responsabilidad compartida y manejo integral, que considera el conjunto de acciones, procedimientos y medios viables e involucra a productores, importadores, exportadores, distribuidores, comerciantes, consumidores, usuarios de subproductos y grandes generadores de residuos, según corresponda, así como a los tres niveles de gobierno.
+XXII. LGPGIR: Ley General para la Prevención y Gestión Integral de los Residuos.
 
-> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2022)</small>
+XXIII. Manejo Integral: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social.
 
-XXIV Bis. Plástico: Material que contiene como ingrediente principal un polímero de origen natural o sintético y que en algún momento de su procesamiento permite ser moldeado, por su característica de fluido, en productos terminados.
+XXIV. Normas Técnicas Ambientales en materia de Residuos: Circular expedida por el Gobernador del Estado, a petición del Secretario, que establece los elementos técnicos y/o científicos necesarios para ejercer un derecho u obligación, a través de los instrumentos de planeación y control, previniendo la generación, gestión, manejo integral y economía circular de los residuos de competencia estatal.
 
-> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2022)</small>
-
-XXIV Bis I. Plástico de un solo uso: Producto plástico destinado a ser usado por una sola vez.
+XXV. Plan de Manejo: Instrumento cuyo objetivo es minimizar la generación y maximizar la valorización de residuos sólidos urbanos, residuos de manejo especial y residuos peligrosos específicos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, con fundamento en el Diagnóstico Básico para la Gestión Integral de Residuos, diseñado bajo los principios de responsabilidad compartida y manejo integral, que considera el conjunto de acciones, procedimientos y medios viables e involucra a productores, importadores, exportadores, distribuidores, comerciantes, consumidores, usuarios de subproductos y grandes generadores de residuos, según corresponda, así como a los tres niveles de gobierno.
 
 > <small>(ADICIONADA, P.O. 21 DE JULIO DE 2022)</small>
 
-XXIV. Bis II. Plástico biodegradable: Cualquier material Plástico que cumpla las especificaciones mínimas que demuestren ser susceptibles de degradarse conforme a los procesos descritos en las normas internacionales y a falta de éstas, en las normas oficiales mexicanas.
+XXV Bis. Plástico: Material que contiene como ingrediente principal un polímero de origen natural o sintético y que en algún momento de su procesamiento permite ser moldeado, por su característica de fluido, en productos terminados.
 
 > <small>(ADICIONADA, P.O. 21 DE JULIO DE 2022)</small>
 
-XXIV. Bis III. Plástico compostable: Cualquier material plástico que cumpla las especificaciones mínimas que demuestren ser susceptibles de recuperación orgánica a través de composteo, conforme a los procesos descritos en las normas internacionales y a falta de éstas, en las normas oficiales mexicanas.
+XXV Bis I. Plástico de un solo uso: Producto plástico destinado a ser usado por una sola vez.
 
-XXV. Plan de Responsabilidad Extendida: Instrumento de gestión integral, que contiene el conjunto de acciones, así como los procedimientos para la disminución progresiva de la generación de residuos a través de los instrumentos aplicables a los productores, comercializadores, importadores, exportadores y/o distribuidores de productos que al consumirse se convierten en residuos dentro de procesos de aprovechamiento.
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2022)</small>
 
-XXVI. Planta de Tratamiento: Instalación donde se lleva a cabo cualquier proceso de tratamiento de los residuos para valorizarlos o disponerlos finalmente.
+XXV. Bis II. Plástico biodegradable: Cualquier material Plástico que cumpla las especificaciones mínimas que demuestren ser susceptibles de degradarse conforme a los procesos descritos en las normas internacionales y a falta de éstas, en las normas oficiales mexicanas.
 
-XXVII. Procuraduría: Procuraduría de Protección al Ambiente del Estado de Quintana Roo.
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2022)</small>
 
-XXVIII. Productos Prioritarios: Sustancia u objeto que una vez transformado en residuo, por su volumen, peligrosidad o presencia de recursos aprovechables, queda sujeto a las obligaciones de la responsabilidad extendida del productor. Dichos productos son:
+XXV. Bis III. Plástico compostable: Cualquier material plástico que cumpla las especificaciones mínimas que demuestren ser susceptibles de recuperación orgánica a través de composteo, conforme a los procesos descritos en las normas internacionales y a falta de éstas, en las normas oficiales mexicanas.
+
+XXVI. Plan de Responsabilidad Extendida: Instrumento de gestión integral, que contiene el conjunto de acciones, así como los procedimientos para la disminución progresiva de la generación de residuos a través de los instrumentos aplicables a los productores, comercializadores, importadores, exportadores y/o distribuidores de productos que al consumirse se convierten en residuos dentro de procesos de aprovechamiento.
+
+XXVII. Planta de Tratamiento: Instalación donde se lleva a cabo cualquier proceso de tratamiento de los residuos para valorizarlos o disponerlos finalmente.
+
+XXVIII. Procuraduría: Procuraduría de Protección al Ambiente del Estado de Quintana Roo.
+
+XXIX. Productos Prioritarios: Sustancia u objeto que una vez transformado en residuo, por su volumen, peligrosidad o presencia de recursos aprovechables, queda sujeto a las obligaciones de la responsabilidad extendida del productor. Dichos productos son:
 
 a) Aceites lubricantes.
 
@@ -281,47 +287,47 @@ h) Plaguicidas.
 
 i) Vehículos.
 
-XXIX. Programa Estatal: Programa para la Prevención, Gestión Integral y Economía Circular de los Residuos del Estado de Quintana Roo, emitido por el Estado.
+XXX. Programa Estatal: Programa para la Prevención, Gestión Integral y Economía Circular de los Residuos del Estado de Quintana Roo, emitido por el Estado.
 
-XXX. Programa Municipal: Programa Municipal para la Prevención, Gestión Integral y Economía Circular de los Residuos.
+XXXI. Programa Municipal: Programa Municipal para la Prevención, Gestión Integral y Economía Circular de los Residuos.
 
-XXXI. Reciclaje: Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos.
+XXXII. Reciclaje: Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos.
 
-XXXII. Recolección: Acción de recibir los residuos de sus generadores y trasladarlos a las instalaciones para su transferencia, aprovechamiento energético, reciclaje, tratamiento o disposición final.
+XXXIII. Recolección: Acción de recibir los residuos de sus generadores y trasladarlos a las instalaciones para su transferencia, aprovechamiento energético, reciclaje, tratamiento o disposición final.
 
-XXXIII. Recuperación de residuos: Principio y conjunto de acciones cuyo objetivo es obtener de forma adecuada y segura, componentes, materiales o sustancias de los residuos, para crear mercados que permitan la obtención de energía o materias primas secundarias a través del aprovechamiento energético, el reuso, remanufactura, reacondicionamiento, reciclaje y alguna otra actividad permitida por ley derivada de su valorización. La recuperación de residuos tiene prioridad con respecto a las acciones de eliminación y se realizará si es económicamente viable, técnicamente factible y socialmente aceptable.
+XXXIV. Recuperación de residuos: Principio y conjunto de acciones cuyo objetivo es obtener de forma adecuada y segura, componentes, materiales o sustancias de los residuos, para crear mercados que permitan la obtención de energía o materias primas secundarias a través del aprovechamiento energético, el reuso, remanufactura, reacondicionamiento, reciclaje y alguna otra actividad permitida por ley derivada de su valorización. La recuperación de residuos tiene prioridad con respecto a las acciones de eliminación y se realizará si es económicamente viable, técnicamente factible y socialmente aceptable.
 
-XXXIV. Reglamento: Reglamento de la Ley para la Prevención, Gestión Integral y Economía Circular de los Residuos del Estado de Quintana Roo.
+XXXV. Reglamento: Reglamento de la Ley para la Prevención, Gestión Integral y Economía Circular de los Residuos del Estado de Quintana Roo.
 
-XXXV. Reglamento de Responsabilidad Extendida: Reglamento de Responsabilidad Extendida de la Ley para la Prevención, Gestión Integral y Economía Circular de los Residuos del Estado de Quintana Roo.
+XXXVI. Reglamento de Responsabilidad Extendida: Reglamento de Responsabilidad Extendida de la Ley para la Prevención, Gestión Integral y Economía Circular de los Residuos del Estado de Quintana Roo.
 
-XXXVI. Relleno Sanitario: Obra de infraestructura que aplica métodos de ingeniería para la disposición final de los residuos sólidos urbanos y de manejo especial, ubicados en sitios adecuados a los Programas de Ordenamiento Ecológico y demás normatividad aplicable, mediante el cual se depositan y compactan al menor volumen práctico posible y se cubren con material natural o sintético con un manejo adecuado de los lixiviados y gases que se generan en apego a la normatividad ambiental aplicable, para prevenir y minimizar la generación de contaminantes al ambiente y reducir los riesgos a la salud.
+XXXVII. Relleno Sanitario: Obra de infraestructura que aplica métodos de ingeniería para la disposición final de los residuos sólidos urbanos y de manejo especial, ubicados en sitios adecuados a los Programas de Ordenamiento Ecológico y demás normatividad aplicable, mediante el cual se depositan y compactan al menor volumen práctico posible y se cubren con material natural o sintético con un manejo adecuado de los lixiviados y gases que se generan en apego a la normatividad ambiental aplicable, para prevenir y minimizar la generación de contaminantes al ambiente y reducir los riesgos a la salud.
 
-XXXVII. Residuo: Cualquier material orgánico o inorgánico generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización o tratamiento, cuya calidad no permite incluirlo nuevamente en el proceso que lo generó.
+XXXVIII. Residuo: Cualquier material orgánico o inorgánico generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización o tratamiento, cuya calidad no permite incluirlo nuevamente en el proceso que lo generó.
 
-XXXVIII. Responsabilidad Compartida: Principio mediante el cual se reconoce que los residuos sólidos urbanos y de manejo especial son generados a partir de la realización de actividades que satisfacen necesidades de la sociedad, mediante cadenas de valor tipo producción, proceso, envasado, distribución, consumo de productos, y que, en consecuencia, su manejo integral es una corresponsabilidad social y requiere la participación conjunta, coordinada y diferenciada de productores, distribuidores, consumidores, usuarios de subproductos, y de los tres órdenes de gobierno según corresponda, bajo un esquema de factibilidad de mercado y eficiencia ambiental, tecnológica, económica y social.
+XXXIX. Responsabilidad Compartida: Principio mediante el cual se reconoce que los residuos sólidos urbanos y de manejo especial son generados a partir de la realización de actividades que satisfacen necesidades de la sociedad, mediante cadenas de valor tipo producción, proceso, envasado, distribución, consumo de productos, y que, en consecuencia, su manejo integral es una corresponsabilidad social y requiere la participación conjunta, coordinada y diferenciada de productores, distribuidores, consumidores, usuarios de subproductos, y de los tres órdenes de gobierno según corresponda, bajo un esquema de factibilidad de mercado y eficiencia ambiental, tecnológica, económica y social.
 
 > <small>(REFORMADA, P.O. 21 DE JULIO DE 2022)</small>
 
-XXXIX. Responsabilidad Extendida: Régimen especial de gestión integral de residuos, conforme al cual los productores, comercializadores, transformadores, envasadores y distribuidores de los productos que al desecharse se conviertan en residuos de competencia estatal y que se encuentran listados como productos prioritarios en este ordenamiento, con el objetivo de disminuir la generación, revalorizarlos y reincorporarlos a los procesos productivos bajo un esquema de factibilidad de mercado y eficiencia ambiental, tecnológica, económica y social.
+XL. Responsabilidad Extendida: Régimen especial de gestión integral de residuos, conforme al cual los productores, comercializadores, transformadores, envasadores y distribuidores de los productos que al desecharse se conviertan en residuos de competencia estatal y que se encuentran listados como productos prioritarios en este ordenamiento, con el objetivo de disminuir la generación, revalorizarlos y reincorporarlos a los procesos productivos bajo un esquema de factibilidad de mercado y eficiencia ambiental, tecnológica, económica y social.
 
-XL. Reutilización: El empleo de un material o residuo previamente usado, sin que medie un proceso de transformación.
+XLI. Reutilización: El empleo de un material o residuo previamente usado, sin que medie un proceso de transformación.
 
-XLI. Secretaría: La Secretaría de Ecología y Medio Ambiente.
+XLII. Secretaría: La Secretaría de Ecología y Medio Ambiente.
 
-XLII. Servicios de Limpia: Servicio público de aseo y limpia de la infraestructura urbana que prestan los Municipio (sic).
+XLIII. Servicios de Limpia: Servicio público de aseo y limpia de la infraestructura urbana que prestan los Municipio (sic).
 
-XLIII. Subproductos: Materiales o productos usualmente desechados y que son técnica, económica o socialmente susceptibles de valorización.
+XLIV. Subproductos: Materiales o productos usualmente desechados y que son técnica, económica o socialmente susceptibles de valorización.
 
-XLIV. Tratamiento: Procedimientos físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos y se reduce su volumen o peligrosidad.
+XLV. Tratamiento: Procedimientos físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos y se reduce su volumen o peligrosidad.
 
-XLV. Trazabilidad de los residuos: acciones y procedimientos que permiten controlar la trayectoria, situación física y jurídica de un residuo, a lo largo de su cadena de suministro; que permiten identificar tipo de residuo, origen de generación, responsable de su manejo integral en las etapas hasta su destino en todo su ciclo de vida. Dichas acciones permitirán identificar los residuos durante el posible acopio, almacenamiento, reciclaje, transporte, aprovechamiento energético, tratamiento, coprocesamiento, disposición final u alguna otra actividad que se realice hasta su fin último de valorización o destino.
+XLVI. Trazabilidad de los residuos: acciones y procedimientos que permiten controlar la trayectoria, situación física y jurídica de un residuo, a lo largo de su cadena de suministro; que permiten identificar tipo de residuo, origen de generación, responsable de su manejo integral en las etapas hasta su destino en todo su ciclo de vida. Dichas acciones permitirán identificar los residuos durante el posible acopio, almacenamiento, reciclaje, transporte, aprovechamiento energético, tratamiento, coprocesamiento, disposición final u alguna otra actividad que se realice hasta su fin último de valorización o destino.
 
-XLVI. Valorización: Operación cuyo resultado principal es que el residuo sirva a una finalidad útil al sustituir a otros materiales que de otro modo se habrían utilizado para cumplir una función particular.
+XLVII. Valorización: Operación cuyo resultado principal es que el residuo sirva a una finalidad útil al sustituir a otros materiales que de otro modo se habrían utilizado para cumplir una función particular.
 
-XLVII. Verificación: Acción derivada del procedimiento administrativo mediante la cual se hace una revisión al establecimiento, sitio y/o lugar, para determinar el cumplimiento de la normatividad y la verificación de los datos presentados para la obtención de los permisos, autorización y/o cualquier tipo de autorización en materia ambiental para el uso y disfrute de su actividad preponderante.
+XLVIII. Verificación: Acción derivada del procedimiento administrativo mediante la cual se hace una revisión al establecimiento, sitio y/o lugar, para determinar el cumplimiento de la normatividad y la verificación de los datos presentados para la obtención de los permisos, autorización y/o cualquier tipo de autorización en materia ambiental para el uso y disfrute de su actividad preponderante.
 
-XLVIII. Zonas de Exclusión: Son aquellas áreas que no pueden ser intervenidas por ninguna actividad. Se contemplan entre dichas áreas las zonas insulares, zonas naturales protegidas y zonas consideradas vulnerables.
+XLIX. Zonas de Exclusión: Son aquellas áreas que no pueden ser intervenidas por ninguna actividad. Se contemplan entre dichas áreas las zonas insulares, zonas naturales protegidas y zonas consideradas vulnerables.
 
 ### Capítulo III. De las Atribuciones y Competencias
 
@@ -1768,3 +1774,9 @@ Los reglamentos y lineamientos de la materia que al efecto expida la Secretaría
 TERCERO. En tanto la Secretaría no emita los criterios correspondientes para el registro del Plan de Manejo estatal, los interesados podrán suscribir ante esta dependencia, de manera extraordinaria, el registro del Plan de Responsabilidad Extendida individual o colectivo que se establece en el artículo 28 de la presente ley.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 200 POR EL QUE SE REFORMA LA FRACCIÓN XII, Y SE ADICIONA LA FRACCIÓN XIII, RECORRIÉNDOSE LAS SUBSECUENTES, DEL ARTÍCULO 8 DE LA LEY PARA LA PREVENCIÓN, GESTIÓN INTEGRAL Y ECONOMÍA CIRCULAR DE LOS RESIDUOS DEL ESTADO DE QUINTANA ROO"].
+
+ÚNICO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
