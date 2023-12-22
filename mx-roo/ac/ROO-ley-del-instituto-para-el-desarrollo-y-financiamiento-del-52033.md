@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-instituto-para-el-desarrollo-y-financiamiento-del-52033
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-06"
-last_updated: "2021-07-16"
+last_updated: "2023-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52033&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DEL INSTITUTO PARA EL DESARROLLO Y FINANCIAMIENTO DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL DESARROLLO Y FINANCIAMIENTO DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL INSTITUTO PARA EL DESARROLLO Y FINANCIAMIENTO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2023 (ABROGADA).
 
 Ley publicada en el Periódico Oficial Número 89 Extraordinario del Estado de Quintana Roo, el viernes 6 de octubre de 2006.
 
@@ -454,3 +456,21 @@ La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legi
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 196 POR EL QUE SE EXPIDE LA LEY DEL INSTITUTO PARA EL DESARROLLO Y FINANCIAMIENTO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley del Instituto para el Desarrollo y Financiamiento del Estado de Quintana Roo, expedida mediante Decreto Número 104 de la XI Legislatura del Estado y publicada en el Periódico Oficial del Estado de Quintana Roo el seis de octubre de dos mil seis.
+
+TERCERO. El Instituto para el Desarrollo y Financiamiento del Estado de Quintana Roo, que se crea mediante la presente Ley, conservará todos los recursos humanos, materiales y financieros a cargo del actual Instituto para el Desarrollo y Financiamiento del Estado de Quintana Roo, así como los derechos y obligaciones derivados de normas, actos e instrumentos jurídicos que correspondan a éste.
+
+Las Secretarías de Finanzas y Planeación y de la Contraloría en el ámbito de sus atribuciones, realizarán las acciones necesarias para el cumplimiento de lo previsto en el párrafo anterior.
+
+CUARTO. Las adecuaciones conducentes al Reglamento del Instituto, que se desprendan del contenido del presente Decreto, deberán ser emitidas en un plazo de noventa días hábiles, contados a partir de la publicación de este Decreto.
+
+QUINTO. La Dirección General deberá crear en un plazo de ciento ochenta días las Unidades Administrativas que sean necesarias para el cumplimiento de sus atribuciones y funciones, de conformidad con el Reglamento del Instituto y atendiendo a la disponibilidad presupuestal del mismo.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
