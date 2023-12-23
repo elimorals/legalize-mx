@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-conducta-de-la-secretaria-de-administracion-y-152352"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-10-23"
-last_updated: "2021-10-23"
+last_updated: "2023-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152352&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "COL"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE ADMINISTRACION Y GESTION PUBLICA DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE PLANEACIÓN, FINANZAS Y ADMINISTRACIÓN, PUBLICADO EN EL P.O. DE 23 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE ADMINISTRACIÓN Y GESTIÓN PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2023 (ABROGADO).
 
 Código publicado en el Suplemento Núm. 2 del Número 80 del Periódico Oficial del Estado de Colima, el sábado 23 de octubre de 2021.
 
@@ -2337,3 +2339,15 @@ Se incorpora el término de “personas
 servidoras públicas”.
 
 0 30/06/2017 Inicia su Uso
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE PLANEACIÓN, FINANZAS Y ADMINISTRACIÓN".]
+
+PRIMERO. El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Se abroga el Código de Conducta de la Secretaría de Planeación y Finanzas, publicado en el Periódico Oficial “El Estado de Colima” el 03 de julio de 2021.
+
+TERCERO. Se abroga el Código de Conducta de la Secretaría de Administración y Gestión Pública, publicado en (sic) Periódico Oficial “El Estado de Colima” el 23 de octubre de 2021.
