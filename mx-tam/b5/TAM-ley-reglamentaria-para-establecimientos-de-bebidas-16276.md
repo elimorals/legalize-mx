@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-para-establecimientos-de-bebidas-16276"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-05"
-last_updated: "2022-02-22"
+last_updated: "2023-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 5 de abril de 2000.
 
@@ -63,13 +63,11 @@ A falta de disposición expresa en esta ley, se aplicará supletoriamente el Có
 
 Para los efectos de esta ley se entenderá por:
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-I.- Abarrotes: Establecimiento dedicado a la venta de alimentos y bebidas sin preparar, artículos para el hogar y similares que expende, complementariamente, bebidas alcohólicas en envase cerrado al menudeo, deberá contar con un área de servicio no menor de 50 metros cuadrados y el exterior del local no deberá ostentar publicidad de bebidas alcohólicas o de sus proveedores. El valor de la existencia de bebidas alcohólicas dispuesta para su venta en el establecimiento, no debe ser superior al 20% del importe total de la mercancía en el mismo.
+I.- Abarrotes: Establecimiento dedicado a la venta de alimentos y bebidas sin preparar, artículos para el hogar y similares que expende, complementariamente, bebidas alcohólicas en envase cerrado al menudeo. El valor de la existencia de bebidas alcohólicas dispuesta para su venta en el establecimiento, no debe ser superior al 20% del importe total de la mercancía en el mismo.
 
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2022)</small>
-
-Se exceptúa el requisito de cincuenta metros cuadrados para trámite de licencia nueva, únicamente a aquellos establecimientos que previamente hayan contado con licencia de alcoholes durante un periodo de cinco años o más de antigüedad y a su vez sea una solicitud del mismo giro. En este supuesto el área de servicio podrá ser de por lo menos treinta y cinco metros cuadrados;
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
@@ -83,7 +81,9 @@ IV.- Asociaciones civiles, centros cívicos, clubes de servicio o agrupaciones q
 
 V.- Bar: Establecimiento en el que, de manera independiente o formando parte de otro local, se expenden bebidas alcohólicas para su consumo en el interior del mismo lugar, pudiendo de manera complementaria, presentar música en vivo o grabada;
 
-VI.- Bar de hotel o motel: Establecimiento que forma parte de un hotel, motel o similar, en el que se enajenan bebidas alcohólicas para su consumo en el interior del mismo lugar, pudiendo presentar música en vivo o grabada;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+VI.- Bar de hotel o motel: Establecimiento que forma parte de un hotel, motel o similar, en el que se enajenan bebidas alcohólicas para su consumo en el interior del mismo lugar, pudiendo presentar música en vivo o grabada, y además podrá ser utilizada en el salón de eventos dentro de las instalaciones del mismo hotel;
 
 VII.- Bebidas alcohólicas: Aquellas que a la temperatura de 15º centígrados tengan una graduación alcohólica de más de 2º G.L., incluyendo al aguardiente y a los concentrados de bebidas alcohólicas.
 
@@ -95,7 +95,9 @@ VIII.- Billar o boliche: Establecimiento donde se practica el billar o el bolich
 
 IX.- Bodega: Lugar donde se almacenan bebidas alcohólicas, propio del establecimiento que se dedica a elaborar, envasar o enajenar dichos productos;
 
-X.- Cabaret o centro nocturno: Establecimiento donde se enajenan bebidas alcohólicas para su consumo en el interior del mismo lugar, el cual cuenta con pista de baile para la clientela y presenta además, para el entretenimiento de ésta, espectáculos de los permitidos por la ley;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+X.- Centro nocturno: Establecimiento donde se enajenan bebidas alcohólicas para su consumo en el interior del mismo lugar, el cual cuenta con pista de baile para la clientela y presenta además, para el entretenimiento de ésta, espectáculos de los permitidos por la ley;
 
 XI.- Café cantante: Establecimiento donde se enajenan bebidas alcohólicas para su consumo en el interior del mismo lugar, en donde se ofrecen presentaciones artísticas y culturales;
 
@@ -111,9 +113,9 @@ XVI.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
 
 XVII.- Centro de espectáculos: Lugar en el que se presentan espectáculos artísticos, deportivos o culturales, cuyo acceso se controla mediante boletos de distribución gratuita u onerosa, en el que se puede enajenar bebidas alcohólicas, que serán servidas en envase desechable, de plástico o de cualquier otro material que no represente peligro alguno;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-XVIII.- Centro recreativo y deportivo o club: Establecimiento donde se ofrecen al público, servicios específicos e instalaciones deportivas, deberá contar al menos con una cancha de futbol, tenis, alberca o alguna otra superficie donde se practique algún deporte. Y el total de su superficie deberá no ser menor de los diez mil metros cuadrados, que podrá contar con licencia para la enajenación de bebidas alcohólicas, para su consumo en el interior del mismo lugar;
+XVIII.- Centro recreativo y deportivo o club: Establecimiento donde se ofrecen al público, servicios específicos e instalaciones deportivas, deberá contar al menos con una cancha de futbol, tenis, alberca o alguna otra superficie donde se practique algún deporte, que podrá contar con licencia para la enajenación de bebidas alcohólicas, para su consumo en el interior del mismo lugar;
 
 XIX.- Cerveza: Bebida fermentada, elaborada con malta de cebada, lúpulo, levadura y agua o con infusiones de cualquiera semilla farinácea procedente de gramíneas o leguminosas, raíces o frutos feculentos o azúcares como adjuntos de la malta, con adición del lúpulo o sucedáneos de éste.
 
@@ -157,9 +159,9 @@ XXXIII.- Expendio o depósito: Establecimiento en donde se enajena cerveza en en
 
 XXXIV.- Feria: Lugar o espacio habilitado o construido para efecto de exponer, exhibir y dar a conocer artículos y actividades comerciales, industriales, artísticas, culturales, artesanales, deportivas y de cualquier otra naturaleza lícita, con el objeto de promover el desarrollo del Estado, en el que se puede enajenar bebidas alcohólicas, servidas en envase desechable, de plástico o de cualquier otro material que no represente peligro alguno;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-XXXV.- Fonda: Fonda, lonchería, taquería, cenaduría, comedor y similares: Lugares donde se expenden alimentos preparados, que de manera complementaria podrán enajenar únicamente cerveza para su consumo en el interior del mismo lugar y en forma simultánea al consumo de alimentos;
+XXXV.- Fonda: Fonda, lonchería, taquería, cafetería, cenaduría, comedor y similares: Lugares donde se expenden alimentos preparados, que de manera complementaria podrán enajenar cerveza o algún tipo de licor para su consumo en el interior del mismo lugar y en forma simultánea al consumo de alimentos;
 
 XXXVI.- Licencia: Documento otorgado por el Ejecutivo del Estado, por conducto de la Secretaría, en el que consta la autorización, los términos y las condiciones en que se puede enajenar, distribuir o permitir el consumo de bebidas alcohólicas, ya sea en envase cerrado o abierto;
 
@@ -177,65 +179,69 @@ XXXIX.- Microcervecería: Se entiende aquel establecimiento independiente donde 
 
 XXXIX BIS.- Micromezcalería: Establecimiento independiente donde se produce y almacena para su distribución y venta, mezcal, de producción propia, así como un diverso productor de mezcal, dicho establecimiento solo podrá enajenar producto en envase cerrado para llevar, debiendo contar con una superficie menor a los 250 metros cuadrados;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-XL.- Minisúper: Establecimiento con prestación de autoservicio, cuyo objeto primordial es la venta al público de alimentos y bebidas sin preparar, así como productos de uso y de consumo, el cual podrá complementariamente enajenar bebidas alcohólicas en envase cerrado para su consumo en lugar distinto, deberá contar con un área de servicio no menor de 50 metros cuadrados y el exterior del local no deberá ostentar publicidad de bebidas alcohólicas o de sus proveedores. El valor de la existencia de bebidas alcohólicas dispuesta para su venta en el establecimiento, no debe ser superior al 20% del importe total de la mercancía en el mismo.
+XL.- Minisúper: Establecimiento con prestación de autoservicio, cuyo objeto primordial es la venta al público de alimentos y bebidas sin preparar, así como productos de uso y de consumo, el cual podrá complementariamente enajenar bebidas alcohólicas en envase cerrado para su consumo en lugar distinto, deberá contar con un área de servicio no menor de 50 metros cuadrados. El valor de la existencia de bebidas alcohólicas dispuesta para su venta en el establecimiento, no debe ser superior al 20% del importe total de la mercancía en el mismo.
 
 > <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2022)</small>
 
 Se exceptúa el requisito de cincuenta metros cuadrados para trámite de licencia nueva, únicamente a aquellos establecimientos que previamente hayan contado con licencia de alcoholes durante un periodo de cinco años o más de antigüedad y a su vez sea una solicitud del mismo giro. En este supuesto el área de servicio podrá ser de por lo menos treinta y cinco metros cuadrados;
 
-XLI.- Permiso: Documento otorgado por el Ejecutivo del Estado, por conducto de la Secretaría, en el que se autoriza la enajenación de bebidas alcohólicas en envase abierto desechable, de plástico o de cualquier otro material que no represente peligro alguno y se permite su consumo en un espacio previamente delimitado;
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-XLII.- Propietario: Persona física o moral que enajena bebidas alcohólicas en los términos de esta ley, así como aquella que con el carácter de dependiente, gerente, administrador, representante u otro similar, sea responsable de la operación y funcionamiento de algún establecimiento;
+XLI.- Palapa o salón con alberca: establecimiento en el cual se organizan pequeñas fiestas o reuniones para la celebración de algún acontecimiento en específico, el cual no deberá rebasar de la cantidad de 100 personas, en ningún caso se permitirá la venta de bebidas alcohólicas, únicamente se autoriza el consumo de las mismas;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+XLII.- Permiso: Documento otorgado por el Ejecutivo del Estado, por conducto de la Secretaría, en el que se autoriza la enajenación de bebidas alcohólicas en envase abierto desechable, de plástico o de cualquier otro material que no represente peligro alguno y se permite su consumo en un espacio previamente delimitado;
 
-XLIII.- Restaurante: Establecimiento donde se expenden alimentos y bebidas alcohólicas, para su consumo en el mismo, debiendo contar con menú de los platillos que expenda y las materias primas suficientes para su preparación, deberá contar con un mínimo de 10 mesas con sus sillas, cocina que incluya: estufa, refrigerador, utensilios de cocina, vajillas, deberá contar con visibilidad al interior del establecimiento, sanitario independiente para ambos sexos, un área de servicio no menor de 50 metros cuadrados, el exterior del local no deberá ostentar publicidad de bebidas alcohólicas o de sus proveedores, deberá estar independiente de cualquier otro establecimiento y no deberá tener restricción alguna al acceso familiar;
+XLIII.- Propietario: Persona física o moral que enajena bebidas alcohólicas en los términos de esta ley, así como aquella que con el carácter de dependiente, gerente, administrador, representante u otro similar, sea responsable de la operación y funcionamiento de algún establecimiento;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-XLIV.- Restaurant-Bar: Establecimiento donde se expenden alimentos para su consumo en el mismo, que en su interior cuente con una área donde solo se expendan bebidas alcohólicas, que además podrá contar con pista de baile para su clientela, menú de los platillos que expenda y alimentos suficientes para su preparación, deberá contar con un mínimo de 10 mesas con sus sillas, cocina que incluya: estufa, refrigerador, utensilios de cocina, vajillas, deberá contar con visibilidad al interior del establecimiento, sanitario independiente para ambos sexos, un área de servicio no menor de 50 metros cuadrados, el exterior del local no deberá ostentar publicidad de bebidas alcohólicas o de sus proveedores, deberá estar independiente de cualquier otro establecimiento y no deberá tener restricción alguna al acceso familiar;
+XLIV.- Restaurante: Establecimiento donde se expenden alimentos y bebidas alcohólicas, para su consumo en el mismo, debiendo contar con menú de los platillos que expenda y las materias primas suficientes para su preparación, deberá contar con un mínimo de 10 mesas con sus sillas, cocina que incluya: estufa, refrigerador, utensilios de cocina, vajillas, deberá contar con visibilidad al interior del establecimiento, sanitario independiente para ambos sexos, un área de servicio no menor de 50 metros cuadrados, deberá estar independiente de cualquier otro establecimiento y no deberá tener restricción alguna al acceso familiar;
 
-> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-XLV.- Sala de degustación para la venta exclusiva de cerveza artesanal: Establecimiento mercantil cuya actividad exclusiva es la venta para consumo de cerveza artesanal hecha en México con o sin alimentos y que cuente con música grabada o en vivo;
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
-
-XLVI.- Sala de fiestas y eventos: Lugar destinado a la realización de fiestas y bailes eventuales, el cual además se caracteriza por presentar espectáculos para diversión de los asistentes y por prestar servicios de banquete, el cual incluye el consumo de bebidas alcohólicas en envase abierto y al copeo en el interior del mismo durante el desarrollo del evento, dicho lugar no podrá funcionar como discoteca, bar, restaurant-bar o cualquier otro giro;
-
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
-
-XLVII.- Secretaría: La Secretaría de Finanzas;
-
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
-
-XLVIII.- Secretario: El titular de la Secretaría de Finanzas;
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
-
-XLIX.- Supermercado: Establecimiento comercial organizado por departamentos con sistema de autoservicio, con enajenación complementaria de bebidas alcohólicas al menudeo en envase cerrado, para su consumo en lugar distinto, deberá contar con carritos de autoservicio, estacionamiento para más de 10 vehículos y en este tipo de giro la enajenación de bebidas alcohólicas, deberá ser de un 20% contra un 80% de la demás mercancía;
+XLV.- Restaurant-Bar: Establecimiento donde se expenden alimentos para su consumo en el mismo, que en su interior cuente con una área donde solo se expendan bebidas alcohólicas, que además podrá contar con pista de baile para su clientela, menú de los platillos que expenda y alimentos suficientes para su preparación, deberá contar con un mínimo de 10 mesas con sus sillas, cocina que incluya: estufa, refrigerador, utensilios de cocina, vajillas, deberá contar con visibilidad al interior del establecimiento, sanitario independiente para ambos sexos, un área de servicio no menor de 50 metros cuadrados, deberá estar independiente de cualquier otro establecimiento y no deberá tener restricción alguna al acceso familiar;
 
 > <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-L.- Tienda de Cerveza Artesanal: Establecimiento mercantil especializado en la venta de cerveza artesanal, hecha en México, en envase cerrado al menudeo, mercancías relacionadas con su consumo externo;
+XLVI.- Sala de degustación para la venta exclusiva de cerveza artesanal: Establecimiento mercantil cuya actividad exclusiva es la venta para consumo de cerveza artesanal hecha en México con o sin alimentos y que cuente con música grabada o en vivo;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+XLVII.- Sala de fiestas y eventos: Lugar destinado a la realización de fiestas y bailes eventuales, el cual además se caracteriza por presentar espectáculos para diversión de los asistentes y por prestar servicios de banquete, el cual incluye el consumo de bebidas alcohólicas en envase abierto y al copeo en el interior del mismo durante el desarrollo del evento, dicho lugar no podrá funcionar como discoteca, bar, restaurant-bar o cualquier otro giro;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+XLVIII.- Secretaría: La Secretaría de Finanzas;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+XLIX.- Secretario: El titular de la Secretaría de Finanzas;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+L.- Supermercado: Establecimiento comercial organizado por departamentos con sistema de autoservicio, con enajenación complementaria de bebidas alcohólicas al menudeo en envase cerrado, para su consumo en lugar distinto, deberá contar con carritos de autoservicio, estacionamiento para más de 10 vehículos y deberá contar con una superficie mayor a los 500 metros cuadrados y en este tipo de giro la enajenación de bebidas alcohólicas, deberá ser de un 20% contra un 80% de la demás mercancía;
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+LI.- Tienda de Cerveza Artesanal: Establecimiento mercantil especializado en la venta de cerveza artesanal, hecha en México, en envase cerrado al menudeo, mercancías relacionadas con su consumo externo;
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-LI.- Tienda de Conveniencia: Establecimiento que ofrece una gran variedad de productos, como comida rápida, bebidas alcohólicas y no alcohólicas, enlatados, congelados, periódicos y revistas, fármacos de venta libre, además de ofrecer servicios de transacciones, depósitos y pago de servicios, debiendo contar con una superficie menor a los 500 metros cuadrados, pudiendo funcionar las 24 horas del día y los 365 días del año, pero para la venta de bebidas alcohólicas deberán sujetarse a los horarios establecidos por la ley;
+LII.- Tienda de Conveniencia: Establecimiento que ofrece una gran variedad de productos, como comida rápida, bebidas alcohólicas y no alcohólicas, enlatados, congelados, periódicos y revistas, fármacos de venta libre, además de ofrecer servicios de transacciones, depósitos y pago de servicios, debiendo contar con una superficie menor a los 500 metros cuadrados, pudiendo funcionar las 24 horas del día y los 365 días del año, pero para la venta de bebidas alcohólicas deberán sujetarse a los horarios establecidos por la ley;
 
-LII.- Venta: Toda actividad relacionada con la enajenación de bebidas alcohólicas;
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
-
-LIII.- Venta al mayoreo: Enajenación de bebidas alcohólicas en cartón o caja cerrada cuando esta sea mayor de cinco cajas o cartones;
+LIII.- Venta: Toda actividad relacionada con la enajenación de bebidas alcohólicas;
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-LIV.- Venta al menudeo: Enajenación de bebidas alcohólicas en envase o botella cerrada o abierta o al copeo, y que esta sea de cinco cajas o cartones o menos; y
+LIV.- Venta al mayoreo: Enajenación de bebidas alcohólicas en cartón o caja cerrada cuando esta sea mayor de cinco cajas o cartones;
 
-LV.- Visitador: Servidor Público que se le ordena practicar visitas domiciliarias a un determinado establecimiento, con el fin de verificar el cumplimiento de esta ley.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+LV.- Venta al menudeo: Enajenación de bebidas alcohólicas en envase o botella cerrada o abierta o al copeo, y que esta sea de cinco cajas o cartones o menos; y
+
+LVI.- Visitador: Servidor Público que se le ordena practicar visitas domiciliarias a un determinado establecimiento, con el fin de verificar el cumplimiento de esta ley.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -289,7 +295,9 @@ VI.- Billares o boliches;
 
 VII.- Bodega;
 
-VIII.- Cabaret o centro nocturno;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+VIII.- Centro nocturno;
 
 IX.- Café cantante;
 
@@ -315,7 +323,9 @@ XIX.-Envasadora
 
 XX.- Expendio o depósito;
 
-XXI.- Fonda, lonchería, taquería, cenaduría, comedor y similar;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+XXI.- Fonda, lonchería, taquería, cafetería, cenaduría, comedor y similares;
 
 XXII.- Licorería;
 
@@ -347,21 +357,25 @@ XXVIII.- Salón de fiestas y eventos;
 
 XXIX.- Subagencia;
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-XXX.- Supermercado; y
+XXX.- Supermercado;
 
-> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-XXXI.- Tienda de cerveza artesanal.
+XXXI.- Tienda de cerveza artesanal;
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-XXXII.- Tienda de Conveniencia; y
+XXXII.- Tienda de Conveniencia;
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-XXXIII.- Establecimiento con Cruce o Captación de Apuestas.
+XXXIII.- Establecimiento con Cruce o Captación de Apuestas; y
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+XXXIV.- Palapa o Salón con alberca.
 
 ###### ARTICULO 11.
 
@@ -497,13 +511,11 @@ II.- Las agencias, subagencias, distribuidoras, almacenes, envasadoras y bodegas
 
 III.- Las cantinas o tabernas y cervecerías, de lunes a sábado de las diez a las veinticuatro horas;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-IV.- Las loncherías, fondas, coctelerías, taquerías, comedores, cenadurías y otros establecimientos similares que tengan por actividad la enajenación y consumo de alimentos, todos los días de las diez a las veinticuatro horas;
+IV.- Las loncherías, fondas, coctelerías, taquerías, cafeterías, comedores, cenadurías y otros establecimientos similares que tengan por actividad la enajenación y consumo de alimentos, todos los días de las diez a las veinticuatro horas.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
-
-Estos establecimientos podrán permanecer abiertos, pero no deberán enajenar ni permitir el consumo de bebidas alcohólicas fuera de este horario.
+Estos establecimientos podrán permanecer abiertos, pero no deberán enajenar ni permitir el consumo de bebidas alcohólicas fuera de este horario;
 
 V.- Los billares o boliches, de lunes a sábado de las doce a las veinticuatro horas, y los domingos de las doce a las veintidós horas;
 
@@ -513,17 +525,19 @@ VI.- Los centros recreativos, deportivos o clubes, centros de espectáculos, cas
 
 VII.- Los cabarets o centros nocturnos, discotecas y establecimiento con cruce y captación de apuesta, de domingo a jueves de las veinte a las dos horas del día siguiente, y los viernes y sábados de las veinte a las cuatro horas del día siguiente;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-VIII.- Los bares, bares de hotel y motel, restaurantes, restaurantes-bar, las microcervecerías y sala de degustación para la venta exclusiva de cerveza artesanal, de lunes a sábado de las diez a las dos horas del día siguiente, y los domingos de las diez a las veinticuatro horas;
+VIII.- Los bares, bares de hotel y motel, restaurantes, restaurantes-bar, micromezcalerías, las microcervecerías y sala de degustación para la venta exclusiva de cerveza artesanal, de lunes a sábado de las diez a las dos horas del día siguiente, y los domingos de las diez a las veinticuatro horas.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
-
-En los casos de los restaurantes y restaurant-bar, estos podrán permanecer abiertos, pero no deberán enajenar ni permitir el consumo de bebidas alcohólicas fuera de este horario.
+En los casos de los restaurantes y restaurant-bar, estos podrán permanecer abiertos, pero no deberán enajenar ni permitir el consumo de bebidas alcohólicas fuera de este horario;
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 IX.- Los salones de fiestas y eventos, de lunes a sábado de las diez a las cuatro horas del día siguiente, y los domingos de las diez a las veinticuatro horas.
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+X.- Las palapas o salones con alberca, de las diez a las dos horas del día siguiente.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -599,9 +613,9 @@ X.- Constancia de no adeudos fiscales, expedida por la Oficina Fiscal del Estado
 
 XI.- Fotografías impresas a color, tanto del exterior como del interior del local, que muestren la totalidad del mismo, incluyendo sus instalaciones de atención al cliente, cocina, instalaciones sanitarias, entre otras, según su caso;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-XII.- Los establecimientos que expendan bebidas alcohólicas, con los giros de agencia o subagencias, almacén, bar, bar de motel, billar o boliche, bodega, cabaret o centro nocturno, café cantante, cantina o taberna, centro de espectáculos, cervecería, coctelerías, distribuidora, envasadora, expendio o depósito y licorería, deberán estar ubicados a una distancia fuera de un perímetro de doscientos metros de otro similar, de planteles educativos, centros culturales, hospitales, sanatorios, hospicios, asilos, centros asistenciales, centros de trabajo con más de cien empleados, templos religiosos, centros de convivencia o instalaciones deportivas, edificios públicos o de asistencia social, así como en zonas residenciales, exceptuando sus áreas comerciales; quienes operen establecimientos en contravención a lo señalado en esta fracción, serán sancionados de acuerdo a lo establecido en el artículo 68, fracción IV, inciso j de esta ley.
+XII.- Los establecimientos que expendan bebidas alcohólicas, con los giros de agencia o subagencias, almacén, bar, bar de motel, billar o boliche, bodega, centro nocturno, café cantante, cantina o taberna, centro de espectáculos, cervecería, distribuidora, envasadora, expendio o depósito y licorería, deberán estar ubicados a una distancia fuera de un perímetro de doscientos metros de otro similar, de planteles educativos, centros culturales, hospitales, sanatorios, hospicios, asilos, centros asistenciales, centros de trabajo con más de cien empleados, templos religiosos, centros de convivencia o instalaciones deportivas, edificios públicos o de asistencia social, así como en zonas residenciales, exceptuando sus áreas comerciales; quienes operen establecimientos en contravención a lo señalado en esta fracción, serán sancionados de acuerdo a lo establecido en el artículo 68, fracción IV, inciso j) de esta ley;
 
 XIII.- Cubrir el pago de los derechos correspondientes que señala la Ley de Hacienda del Estado;
 
@@ -613,13 +627,17 @@ XIV.- Copia de la solicitud de inscripción en el Registro Federal de Contribuye
 
 XV.- Original para cotejo del comprobante de pago del predial del domicilio del establecimiento o en su caso contrato de arrendamiento;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-XVI.- Presentar el escrito celebrado y/o ratificado ante notario público mediante el cual se manifieste la voluntad de responsabilidad solidaria en las formas que establezca la Secretaría; y
+XVI.- Presentar el escrito celebrado y/o ratificado ante notario público mediante el cual se manifieste la voluntad de responsabilidad solidaria en las formas que establezca la Secretaría;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+XVII.- Comprobante de inscripción al Sistema de Información Empresarial Mexicano (SIEM); y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE FEBRERO DE 2022)</small>
 
-XVII.- Los demás requisitos que fijen las leyes o sus reglamentos, así como los que determine la Secretaría para cada tipo de establecimiento.
+XVIII.- Los demás requisitos que fijen las leyes o sus reglamentos, así como los que determine la Secretaría para cada tipo de establecimiento.
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -658,6 +676,14 @@ La licencia y el permiso constituyen actos administrativos subordinados al inter
 Cuando el establecimiento para el cual fue emitida la licencia se encuentre inscrito en el Registro Federal de Contribuyentes con nombre de persona física o moral distinta de la que aparece en la licencia, se entenderá que ha sido transferida.
 
 La transgresión prevista a lo anterior, tendrá como consecuencia la cancelación de la licencia y la clausura del establecimiento que esté operando al amparo de cualquiera de ellos.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+###### ARTICULO 30 Bis.
+
+Se exceptúa de lo dispuesto en el artículo anterior, en el caso de fallecimiento del titular de la licencia, en cuya situación podrá expedirse la licencia a favor del heredero legalmente acreditado, el cual tiene que ser familiar directo en línea recta ascendente o descendente, debiéndose elaborar la solicitud correspondiente acompañada de copia certificada del documento que acredite el juicio sucesorio, para que se autorice el cambio respectivo, y entretanto, con la copia de la solicitud recibida, el establecimiento podrá continuar funcionando con la licencia a nombre del fallecido.
+
+En tanto concluye el juicio sucesorio y se dicte sentencia firme, la licencia permanecerá a nombre del titular fallecido, agregándose el término “sucesores”, teniendo como representante legal al albacea designado en juicio.
 
 ###### ARTICULO 31.
 
@@ -1510,3 +1536,25 @@ El presente Decreto entrará en vigor el primero de enero de 2022, previa public
 ###### ARTÍCULO SEGUNDO.
 
 Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
+
+P.O. 23 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-804 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS Y DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el 1 de enero de 2024.
+
+###### ARTÍCULO SEGUNDO.
+
+En relación a la Ley de Hacienda para el Estado de Tamaulipas para los efectos del Impuesto Sobre la Prestación de Servicios de Hospedaje, cuya tasa impositiva se establece en 3% para servicios de hospedaje y para las plataformas digitales, se emitirán las reglas de carácter general que regulen los procedimientos de administración y destino del ingreso recaudado por este concepto en general, dentro de los 90 días contados a partir de la entrada en vigor del presente Decreto.
+
+De igual forma, para los efectos de los Impuestos Ambientales de la Emisión de Compuestos y Gases de Efecto Invernadero a la Atmósfera relativo a los artículos del 52 Tervicies al 52 sextricies; dentro de los 90 días contados a partir de la entrada en vigor del presente Decreto se emitirán las reglas de carácter general que regulen los procedimientos de administración y destino del ingreso recaudado por este concepto en general.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo no mayor a 120 días contados a partir de la entrada en vigor del presente Decreto, se realizarán adecuaciones administrativas y normativas necesarias a que haya lugar.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
