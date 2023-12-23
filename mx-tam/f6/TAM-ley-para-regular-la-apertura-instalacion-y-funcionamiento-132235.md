@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-regular-la-apertura-instalacion-y-funcionamiento-13223
 country: "mx"
 rank: "ley"
 publication_date: "2019-01-09"
-last_updated: "2020-12-17"
+last_updated: "2023-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY PARA REGULAR LA APERTURA, INSTALACION Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número 5 del Periódico Oficial del Estado de Tamaulipas, el miércoles 9 de enero de 2019.
 
@@ -227,11 +229,23 @@ El Ejecutivo del Estado por conducto de la Secretaría, podrá autorizar la modi
 
 I. Por cambio de domicilio del establecimiento autorizado;
 
-II. Por cambio en la razón social o denominación del permisionario; y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-III. Por cambio de propietario.
+II. Por cambio en la razón social o denominación del permisionario;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+III. Por cambio de propietario; y
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+IV. Por cambio de propietario por defunción.
 
 El permisionario deberá solicitar la modificación del permiso en el caso del supuesto de la fracción I quince días hábiles antes de realizar el cambio de domicilio, y en los supuestos de las fracciones II y III en un plazo que no exceda de diez días hábiles, contados a partir de que se dé la modificación de su situación.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+En el supuesto de la fracción IV, se deberá presentar el aviso de este trámite dentro del mes siguiente al día en que acepte el cargo de Representante o Albacea, presentando a su vez los requisitos correspondientes. Una vez adjudicados los bienes hereditarios judicialmente se realizarán los trámites a que haya lugar.
 
 ###### ARTÍCULO 16.
 
@@ -544,3 +558,25 @@ La Secretaría podrá, mediante reglas de carácter general, establecer facilida
 ###### ARTÍCULO CUARTO.
 
 En materia de derechos referente a los servicios proporcionados con relación a la protección contra riesgos sanitarios, comprendidos en la adición al artículo 93, fracción VIII de un numeral 40 de la Ley de Hacienda para el Estado de Tamaulipas, se determina que solamente el cobro estipulado en la referida adición entrará en vigor una vez concluida la emergencia sanitaria provocada por el virus COVID-19, ya que es fundamental se cumplan las condiciones sanitarias adecuadas reuniendo todos los requisitos inherentes al tema sobre el traslado de cadáveres o sus partes.
+
+P.O. 23 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-804 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS Y DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el 1 de enero de 2024.
+
+###### ARTÍCULO SEGUNDO.
+
+En relación a la Ley de Hacienda para el Estado de Tamaulipas para los efectos del Impuesto Sobre la Prestación de Servicios de Hospedaje, cuya tasa impositiva se establece en 3% para servicios de hospedaje y para las plataformas digitales, se emitirán las reglas de carácter general que regulen los procedimientos de administración y destino del ingreso recaudado por este concepto en general, dentro de los 90 días contados a partir de la entrada en vigor del presente Decreto.
+
+De igual forma, para los efectos de los Impuestos Ambientales de la Emisión de Compuestos y Gases de Efecto Invernadero a la Atmósfera relativo a los artículos del 52 Tervicies al 52 sextricies; dentro de los 90 días contados a partir de la entrada en vigor del presente Decreto se emitirán las reglas de carácter general que regulen los procedimientos de administración y destino del ingreso recaudado por este concepto en general.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo no mayor a 120 días contados a partir de la entrada en vigor del presente Decreto, se realizarán adecuaciones administrativas y normativas necesarias a que haya lugar.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
