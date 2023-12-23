@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-165929"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-05-04"
-last_updated: "2023-09-19"
+last_updated: "2023-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2023.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 19 DE SEPTIEMBRE DE 2023 NO APLICA AL ARTICULADO DEL DECRETO NO. 65-621 PUBLICADO EN EL P.O. DEL 5 DE SEPTIEMBRE DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Edición Vespertina del Número 54 del Periódico Oficial del Estado de Tamaulipas, el jueves 4 de mayo de 2023.
 
@@ -1007,7 +1007,9 @@ XXIX. Elaborar y mantener actualizado el inventario de los recursos naturales en
 
 XXX. Formular los lineamientos para la elaboración de los estudios para la cuantificación del daño ambiental causado por obras y actividades antropogénicas, dictaminar los estudios de impacto ambiental presentados por los responsables de las obras y actividades presuntamente causantes de dicho daño; así como aplicar las sanciones y requerir las medidas de compensación ambiental que sean procedentes;
 
-XXXI. Ejercer acciones de inspección y vigilancia, imponer medidas de seguridad y urgente aplicación, así como determinar las sanciones previstas en las disposiciones legales de la materia;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+XXXI. Ejercer acciones de inspección y vigilancia, facultades de comprobación fiscal en materia ambiental y urbana, imponer medidas de seguridad y de urgente aplicación, determinar las contribuciones omitidas y sus recargos, así como las sanciones previstas en las disposiciones legales en materia ambiental y urbana que sean de su competencia;
 
 XXXII. Iniciar las acciones que procedan en el ámbito de su competencia, ante las autoridades competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones a la legislación administrativa o penal, así como participar como legitimado procesal para emitir dictámenes, rendir pruebas e informes en los procesos que para el efecto se instruyan;
 
@@ -1534,3 +1536,25 @@ Quien ostente la titularidad de la Procuraduría de la Defensa del Trabajo del S
 ###### ARTÍCULO QUINTO.
 
 Los trabajadores de la Procuraduría de la Defensa del Trabajo del Servidor Público seguirán conservando sus derechos laborales, mismos que no se verán afectados con motivo de la expedición del presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-804 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS Y DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el 1 de enero de 2024.
+
+###### ARTÍCULO SEGUNDO.
+
+En relación a la Ley de Hacienda para el Estado de Tamaulipas para los efectos del Impuesto Sobre la Prestación de Servicios de Hospedaje, cuya tasa impositiva se establece en 3% para servicios de hospedaje y para las plataformas digitales, se emitirán las reglas de carácter general que regulen los procedimientos de administración y destino del ingreso recaudado por este concepto en general, dentro de los 90 días contados a partir de la entrada en vigor del presente Decreto.
+
+De igual forma, para los efectos de los Impuestos Ambientales de la Emisión de Compuestos y Gases de Efecto Invernadero a la Atmósfera relativo a los artículos del 52 Tervicies al 52 sextricies; dentro de los 90 días contados a partir de la entrada en vigor del presente Decreto se emitirán las reglas de carácter general que regulen los procedimientos de administración y destino del ingreso recaudado por este concepto en general.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo no mayor a 120 días contados a partir de la entrada en vigor del presente Decreto, se realizarán adecuaciones administrativas y normativas necesarias a que haya lugar.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
