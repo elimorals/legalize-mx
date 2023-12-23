@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-conducta-de-la-secretaria-de-planeacion-y-150219"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-07-03"
-last_updated: "2021-07-03"
+last_updated: "2023-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE PLANEACION Y FINANZAS DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE PLANEACIÓN, FINANZAS Y ADMINISTRACIÓN, PUBLICADO EN EL P.O. DE 23 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE PLANEACIÓN Y FINANZAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2023 (ABROGADO).
 
 Código publicado en el Suplemento 2 al Núm. 53 del Periódico Oficial del Estado de Colima, el sábado 3 de julio de 2021.
 
@@ -504,3 +506,15 @@ Se expide en la ciudad de Colima, Colima, el veintiséis de enero del dos mil ve
 No. de versión Fecha de actualización Descripción del cambio
 
 0 10/12/2020 Inicia su uso
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE DICIEMBRE DE 2023.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE PLANEACIÓN, FINANZAS Y ADMINISTRACIÓN".]</small>
+
+PRIMERO. El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Se abroga el Código de Conducta de la Secretaría de Planeación y Finanzas, publicado en el Periódico Oficial "El Estado de Colima" el 03 de julio de 2021.
+
+TERCERO. Se abroga el Código de Conducta de la Secretaría de Administración y Gestión Pública, publicado en (sic) Periódico Oficial "El Estado de Colima" el 23 de octubre de 2021.
