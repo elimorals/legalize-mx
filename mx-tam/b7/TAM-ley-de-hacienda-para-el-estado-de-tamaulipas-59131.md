@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2023-12-20"
+last_updated: "2023-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -903,9 +903,9 @@ Los sujetos directos obligados y los retenedores de éste impuesto deberán real
 
 El pago que realicen los contribuyentes de este impuesto se entenderá como definitivo.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-La obligación de presentar la declaración mensual subsistirá aun cuando no hubiese cantidad a cubrir.
+La obligación de presentar la declaración mensual subsistirá aun cuando no hubiese cantidad a cubrir, incluyendo aquellos que estuvieran exentos a efectuar el pago de este impuesto, de conformidad con el artículo 52, fracción II, los cuales deberán presentar una declaración de manera informativa.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -961,9 +961,9 @@ Los contratantes a que se refiere el párrafo anterior, deberán informar en la 
 
 IX.- Presentar el aviso de inscripción para efectos de control, las personas físicas o morales que reciban las prestaciones del trabajo subordinado y que no hagan las erogaciones objeto de este impuesto, exhibiendo copia del contrato de prestación de servicio ante la oficina de recaudación fiscal que corresponda a su domicilio, y proporcionar los datos que identifiquen a la persona que haga dichas erogaciones, así como el número de trabajadores que presten el trabajo subordinado;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-X.- Presentar declaración anual informativa a más tardar en el mes de mayo del siguiente año, en las formas aprobadas que dé a conocer la autoridad. Esta declaración deberá presentarse en todos los casos, incluyendo a las personas físicas o morales que contraten, subcontraten o reciban la prestación del trabajo personal subordinado así como aquellos en que no se estuvo obligado a efectuar el pago de este impuesto; a excepción de los señalados en el artículo 52, fracción II; y
+X.- Presentar declaración anual informativa a más tardar en el mes de mayo del siguiente año, en las formas aprobadas que dé a conocer la autoridad. Esta declaración deberá presentarse en todos los casos, incluyendo a las personas físicas o morales que contraten, subcontraten o reciban la prestación del trabajo personal subordinado así como aquellos en que no se estuvo obligado a efectuar el pago de este impuesto; y
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -1006,6 +1006,12 @@ La base a que se refieren las fracciones I y II del presente artículo, se deter
 ###### Artículo 51 Quater.
 
 El impuesto retenido en los términos del artículo 51 de la presente Ley, se podrá acreditar contra el impuesto a pagar que resulte en el cálculo de pago mensual definitivo, de conformidad con lo dispuesto en este Capítulo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 51 Quinquies.
+
+Las personas físicas o morales a que se refiere el artículo 51 fracciones VIII y IX que no cumplieron con sus obligaciones en tiempo, deberán en forma extemporánea presentar aviso de inscripción, informar en la declaración mensual el número de empleados así como el impuesto pagado por la empresa subcontratada.
 
 ###### Artículo 52.
 
@@ -1061,7 +1067,9 @@ a) Las asociaciones de asistencia social;
 
 b) Instituciones sin fines de lucro que realicen o promuevan asistencia social en cualquiera de sus formas y que se encuentren registradas ante las autoridades estatales competentes del ramo;
 
-c) Las asociaciones religiosas debidamente registradas ante la Secretaría de Gobernación;
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+c).- Las asociaciones religiosas debidamente registradas ante la Secretaría de Gobernación y ante las autoridades estatales competentes del ramo;
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -1073,15 +1081,19 @@ e) Clubes de servicio.
 
 III. Las erogaciones que efectúen las personas físicas titulares de un máximo de 2 concesiones individuales del servicio público de transporte de personas, sean en el mismo o en diferentes servicios.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+Para que las erogaciones de esta fracción se excluyan de la base gravable, deberán estar debidamente comprobadas y registradas en la contabilidad del contribuyente y manifestarse en la declaración mensual y anual informativa del ejercicio que corresponda.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ### CAPITULO VI. DEL IMPUESTO SOBRE HOSPEDAJE
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 52 Bis.
 
-El objeto de este impuesto es la prestación de servicios de hospedaje, el otorgamiento de albergue y cualquier otro servicio de naturaleza análoga.
+El objeto de este impuesto es la prestación de servicios de hospedaje recibidos en el Estado. Se considera servicios de hospedaje a la prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación, incluidos los servicios de hospedaje que se oferten a través de plataformas digitales, independientemente de su temporalidad.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1091,15 +1103,39 @@ Para efecto de este impuesto, se entenderá como servicios de hospedaje, además
 
 I.- La prestación de servicios, bajo el sistema de tiempo compartido o de cualquier otra denominación, mediante el que se conceda el uso o goce y demás derechos que se convengan sobre un bien o parte del mismo, ya sea una unidad cierta, considerada en lo individual, o una unidad variable dentro de una clase determinada, durante un período específico, a intervalos determinados o determinables;
 
-II.- La prestación de servicios de paraderos de casas rodantes, móviles o autotransportables, mediante los que se otorgue el espacio e instalaciones para el establecimiento temporal de estas; y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-III.- Los servicios de campamento a través de los que se otorguen espacios para acampar.
+II.- La prestación de servicios de hoteles, moteles, multipropiedad, campamentos, hosterías, posadas, mesones, suites, villas, bungalows, cabañas, paraderos de casas rodantes, móviles o autotransportables, mediante los que se otorgue el espacio e instalaciones para el establecimiento temporal de estas;
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+III.- Los servicios de campamento a través de los que se otorguen espacios para acampar; y
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+IV.- Casas o departamentos amueblados para hospedaje con fines turísticos y otros establecimientos que brinden servicios de hospedaje de naturaleza turística.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+En los supuestos previstos en las fracciones anteriores, cuando intervenga una persona física o moral en su carácter de facilitador en el cobro de las contraprestaciones por servicios de hospedaje y en caso de que se cubra a través de ella lo correspondiente al Impuesto sobre Hospedaje, ésta deberá ser quien entere el impuesto correspondiente a la autoridad fiscal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 52 Quater.
 
-Son sujetos de este impuesto las personas que reciban los servicios de hospedaje, mediante la retención que deberán efectuar los prestadores de los mismos.
+Son sujetos de este impuesto las personas físicas o morales que presten los servicios objeto de este gravamen.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+Los sujetos de este impuesto trasladarán su importe en forma expresa y por separado a las personas que reciban los servicios objeto del mismo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+Son responsables solidarios del pago de este impuesto los intermediarios o facilitadores que intervengan en la prestación de los servicios de hospedaje, ya sea que se realicen a través de internet, plataformas virtuales o de cualquier otro medio electrónico, respecto de personas físicas o morales contribuyentes del impuesto.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+En caso de que los intermediarios o facilitadores reciban directamente el monto de las erogaciones por la prestación de los servicios gravados, estarán obligados a presentar el aviso de inscripción y cumplir las demás obligaciones que establece el artículo 52 Nonies de esta Ley, salvo que acrediten que dichas obligaciones fueron cumplidas en cada caso por los prestadores del servicio de hospedaje.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1111,11 +1147,11 @@ Cuando los retenedores realicen la prestación de servicios de hospedaje e inclu
 
 Tratándose de servicios de hospedaje recibidos bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto, además del costo de la membresía o certificado de titularidad, el monto de los pagos que se reciban por cuotas de mantenimiento u otras similares.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 52 Sexies.
 
-El monto del impuesto se determinará aplicando la tasa del 2 por ciento a la base gravable a que se refiere el artículo anterior.
+El monto del impuesto se determinará aplicando la tasa del 3 por ciento a la base gravable a que se refiere el artículo anterior.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1169,9 +1205,17 @@ La Secretaría de Finanzas del Estado podrá determinar presuntivamente la base 
 
 Para este efecto, la Secretaría de Finanzas del Estado, presumirá como base gravable del impuesto la siguiente:
 
-a).- El monto total de las contraprestaciones recibidas a cambio del servicio de hospedaje, en el mismo mes del año anterior, actualizándolas con el factor a que se refiere el artículo 18-A del Código Fiscal del Estado, desde el mes del año anterior y hasta el mes a que se refiere la determinación presuntiva. En caso de haber aumentado la capacidad de servicio, se incrementará la base en la misma proporción; y
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-b).- La que resulte del monto total de las contraprestaciones por el servicio de hospedaje que observen durante siete días incluyendo los inhábiles cuando menos, y el promedio diario resultante se multiplicará por el número de días que comprende el período objeto de revisión.
+a).- El monto total de las contraprestaciones recibidas a cambio del servicio de hospedaje, en el mismo mes del año anterior, actualizándolas con el factor a que se refiere el artículo 18-A del Código Fiscal del Estado, desde el mes del año anterior y hasta el mes a que se refiere la determinación presuntiva. En caso de haber aumentado la capacidad de servicio, se incrementará la base en la misma proporción;
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+b).- La que resulte del monto total de las contraprestaciones por el servicio de hospedaje que observen durante siete días incluyendo los inhábiles cuando menos, y el promedio diario resultante se multiplicará por el número de días que comprende el período objeto de revisión; y
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+c).- La derivada por parte de los anfitriones que se le asigna a la persona física o moral que brinda servicios de hospedaje en inmuebles de su propiedad, posesión o administración, en forma total o parcial, de manera permanente o eventual, a través de una plataforma tecnológica o digital.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1303,17 +1347,291 @@ Se aplicará a la base del impuesto una tasa del 2 por ciento, antes del Impuest
 
 Artículo 52 Duovicies. Este impuesto será calculado por las Empresas de Redes de Transporte y enterado a la Secretaría de Finanzas de forma mensual dentro de los primeros 5 días del mes siguiente en que generen el ingreso, anexando carta bajo protesta de decir verdad, que el impuesto enterado corresponde a las tarifas efectivamente cobradas a sus usuarios dentro del Estado de Tamaulipas.
 
-### CAPITULO I. DE LAS DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-#### Sección Primera. del Registro Civil
+### CAPÍTULO IX. IMPUESTOS AMBIENTALES
 
-#### Sección Segunda. del Registro Público de la Propiedad Inmueble
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+#### SECCIÓN I. DE LA EMISIÓN DE COMPUESTOS Y GASES DE EFECTO INVERNADERO A LA ATMÓSFERA
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+Artículo 52 Tervicies.- El objetivo y finalidad de estas contribuciones es que la Hacienda Pública del Estado cuente con recursos que le permitan financiar las políticas y programas de adaptación al cambio climático y la mitigación de emisiones de compuestos y gases de efecto invernadero, al fomento de la sustentabilidad en las actividades económicas, industriales y productivas en el Estado, así como para cumplir con las obligaciones de protección a la salud, al ambiente y a la preservación y restauración del equilibrio ecológico, de conformidad con lo establecido por los artículos 4 y 25 de la Constitución Política de los Estados Unidos Mexicanos, así como el diverso 16 de la Constitución Política del Estado Libre y Soberano de Tamaulipas.
+
+Asimismo, estas contribuciones tienen como finalidad que los contribuyentes que se encuentren en el supuesto de causación, aporten a la Hacienda Pública del Estado en proporción a la afectación a los componentes del medio ambiente y los efectos negativos generados por el sustrato económico que llevan a cabo, cuando éste produzca emisiones de compuestos y gases de efecto invernadero.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+Artículo 52 Quatervicies.- Para efectos de este Capítulo serán aplicables de manera supletoria el Código para el Desarrollo Sustentable del Estado de Tamaulipas, la Ley de Cambio Climático para el Estado de Tamaulipas, Normas Oficiales Mexicanas aplicables y demás disposiciones vigentes en materia de derecho y protección al medio ambiente sano, que no sean contrarias a la naturaleza del derecho fiscal.
+
+Para determinar la base gravable, las autoridades fiscales podrán considerar:
+
+I. Los libros y registros sea cual fuera su denominación, que los sujetos obligados al pago del impuesto deban llevar conforme a las disposiciones legales, sean de carácter fiscal, mercantil o para dar cumplimiento a las normas en materia de ecología y medio ambiente;
+
+II. La información de sus emisiones sujetas a reporte en el Registro de Emisiones y Transferencias de contaminantes (RETC) y el Registro Nacional de Emisiones (RENE) de la Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT) del Gobierno Federal, y en el Registro Estatal Ambiental a cargo de la Secretaría de Desarrollo Urbano y Medio Ambiente del Gobierno del Estado de Tamaulipas;
+
+III. La información contenida en las facturas o comprobantes fiscales, sobre la adquisición de combustibles utilizados en los procesos productivos que generan las emisiones gravadas por el impuesto;
+
+IV. La información obtenida mediante visita domiciliaria, de verificación, auditoría o inspección que realicen las autoridades fiscales, sobre los equipos, maquinaria, actividades o procesos productivos del sujeto obligado para estimar sus emisiones de compuestos y gases de efecto invernadero; o
+
+V. Cuando no sea posible determinar la base gravable en los términos de la fracción anterior, las autoridades fiscales podrán estimar la cantidad con base en la información que se obtenga de otras autoridades, terceros, estudios científicos o tecnológicos, considerando el tipo de actividades realizadas por el contribuyente y la producción o venta del periodo en el que se causó la contribución.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+#### SECCIÓN II. DEL IMPUESTO POR LA EMISIÓN DE COMPUESTOS Y GASES DE EFECTO INVERNADERO A LA ATMÓSFERA
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+DEL OBJETO
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+Artículo 52 Quinvicies.- Son objeto de esta contribución las emisiones de compuestos y gases de efecto invernadero, provenientes de fuentes fijas, dentro del territorio del Estado.
+
+Para los efectos de este artículo, se consideran como emisiones de compuestos y gases de efecto invernadero, la expulsión directa de bióxido de carbono, metano, óxido nitroso, hidrofluorocarbonos, perfluorocarbonos y hexafluoruro de azufre, ya sea unitariamente o de cualquier combinación de ellos.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+DE LOS SUJETOS
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+Artículo 52 Sexvicies.- Son sujetos y están obligados al pago de esta contribución, las personas físicas o morales que tengan instalaciones o fuentes fijas dentro del territorio del Estado que emitan compuestos y gases de efecto invernadero.
+
+También quedan comprendidos como sujetos de este impuesto, la Federación, el Estado y los Municipios, los organismos descentralizados y desconcentrados federales, estatales y municipales, las empresas productivas del Estado, las empresas de participación estatal mayoritaria de carácter federal y estatal, las empresas de participación municipal mayoritaria, los fideicomisos constituidos por dependencias y entidades de la administración pública federal, del Estado y Municipal, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+DE LA BASE
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+Artículo 52 Septenvicies.- La base de este impuesto es la masa expresada en toneladas de bióxido de carbono equivalente (tCO2e), de las emisiones gravadas que se realicen desde la o las instalaciones o fuentes fijas.
+
+Para la determinación de la base gravable, el contribuyente la realizará mediante medición directa o estimación de las emisiones de compuestos y gases de efecto invernadero que genere y, en su caso, se tomará como referencia el último Registro Nacional de Emisiones (RENE) de la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal, así como de los reportes de emisiones del Registro Estatal Ambiental a cargo de la Secretaría de Desarrollo Urbano y Medio Ambiente del Gobierno del Estado de Tamaulipas.
+
+Las emisiones gravadas de compuestos y gases de efecto invernadero del contribuyente se deberán reportar ante la Secretaría de Desarrollo Urbano y Medio Ambiente del Gobierno del Estado de Tamaulipas a través de la Cédula de Operación Anual y/o formatos que incluyan los detalles sobre el uso de combustibles, y su emisión de compuestos y gases de efecto invernadero hacia la atmósfera.
+
+Para la determinación de las toneladas emitidas, el contribuyente realizará la conversión de los gases establecidos en el artículo 52 Quinvicies de esta Ley en bióxido de carbono equivalente (CO2e), multiplicando la tonelada del tipo de gas emitido por el factor del potencial de calentamiento global (GWP por sus siglas en inglés) conforme a la tabla siguiente:
+
+Compuestos y Composición molecular Equivalencia CO2
+
+gases de efecto (GWP)
+
+invernadero
+
+Bióxido de CO2 1
+
+carbono
+
+Metano CH4 28
+
+Óxido Nitroso N2O 273
+
+HFC-23 14,590
+
+HFC-32 770
+
+HFC-43-10-mee 1,599
+
+HFC-125 3,744
+
+HFC-134a 1,526
+
+Hidrofluoro-
+
+carbonos HFC-143a 5,807
+
+HFC-152a 164
+
+HFC-227ea 3,602
+
+HFC-236fa 8,689
+
+HFC-245fa 962
+
+HFC-365mfc 913
+
+CF4 7,379
+
+Perfluorocar-
+
+bonos C2F6 12,410
+
+C4F10 10,022
+
+C6F14 8,617
+
+Hexafluoruro
+
+de azufre SF6 25,184
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+DE LA CUOTA
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+Artículo 52 Octovicies.- El impuesto se causará en el momento que los contribuyentes realicen emisiones de compuestos y gases de efecto invernadero a la atmósfera gravadas por este impuesto, aplicando una tarifa impositiva de 8.5 veces el valor diario de la Unidad de Medida y Actualización vigente por tonelada emitida de bióxido de carbono equivalente.
+
+En situaciones en las cuales se sobrepase la unidad de medida indicada en el párrafo previo, es decir, la tonelada, sin que las emisiones lleguen al nivel de la próxima unidad de medida, la tarifa impositiva para dicho excedente se calculará de manera directamente proporcional a la fracción que supere la tonelada correspondiente.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+DEL ENTERO
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+Artículo 52 Novovicies.- El contribuyente deberá realizar el entero del impuesto en los lugares, formas y medios autorizados por la Secretaría, mediante declaración mensual a más tardar el día 17 del mes siguiente en que se causó la contribución.
+
+Para los efectos de este artículo, el contribuyente podrá calcular sus emisiones y determinar sus contribuciones mediante las siguientes formas y previa aprobación de la Secretaría de Desarrollo Urbano y Medio Ambiente:
+
+a) Pruebas de laboratorio;
+
+b) Estimación directa;
+
+c) Con base en el informe al Registro Nacional de Emisiones (RENE) de la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal; o
+
+d) Con los reportes de emisiones del Registro Estatal Ambiental de Tamaulipas.
+
+Para efectos de los incisos c) y d) el contribuyente deberá basarse para el cálculo mensual de la contribución en el último informe y/o reporte declarado; y, en su caso, deberá de realizar el cálculo anual determinando mensualmente la parte proporcional correspondiente.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+Artículo 52 Tricies.- El impuesto no deberá trasladarse a los usuarios o consumidores finales que adquieran los bienes y/o servicios producidos por los contribuyentes.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+DE LAS OBLIGACIONES
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+Artículo 52 Untricies.- Los contribuyentes estarán obligados a llevar un Libro de Registro de Emisiones, que estará a disposición de la Secretaría y de la Secretaría de Desarrollo Urbano y Medio Ambiente del Gobierno del Estado de Tamaulipas, para efectos de la gestión del mismo y como medio de control, vigilancia y seguimiento del cumplimiento de la normativa medioambiental.
+
+En el Libro de Registro de Emisiones se consignarán los datos siguientes:
+
+I. Volumen y tipología del combustible, así como materias primas consumidas y/o producidas;
+
+II. Composición química básica del combustible consumido y/o producido;
+
+III. Cálculo de las emisiones de compuestos y gases de efecto invernadero a la atmósfera realizado en cumplimiento de lo dispuesto en la presente Ley;
+
+IV. En su caso, datos de concentración resultantes de los monitores o mecanismos de control o de medición instalados; y
+
+V. Cualquier otro que se establezca mediante publicación reglamentaria por parte de la Secretaría o de la Secretaría de Desarrollo Urbano y Medio Ambiente.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+DE LOS ESTÍMULOS
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+Artículo 52 Duotricies.- Para efectos de lo establecido en la Sección I de este Capítulo, los contribuyentes gozarán de un estímulo fiscal de conformidad con lo siguiente:
+
+I. Cuando exista una disminución de los compuestos y gases de efecto invernadero objeto de este impuesto y esta sea equivalente a un 20% o más entre un ejercicio fiscal y otro, se otorgará un estímulo fiscal a los contribuyentes que consistirá en una reducción en un 15% del impuesto que le corresponda pagar en el ejercicio inmediato siguiente en el que se observe la disminución.
+
+II. Los contribuyentes podrán reducir de la base gravable hasta el 25% de las toneladas de bióxido de carbono equivalente, a través de la adquisición de reducciones certificadas de emisiones, que certifiquen la compensación de dichas emisiones a través de proyectos de reducción o absorción de emisiones de compuestos y gases de efecto invernadero.
+
+III. En el caso que se demuestre que el contribuyente ha alcanzado la neutralidad de carbono, se podrá exentar en su totalidad el pago del impuesto.
+
+Para la procedencia del estímulo, los contribuyentes deberán acreditar ante la Secretaría, la adquisición de los sellos de bajo carbono otorgados y transferidos a través del mecanismo establecido por la Secretaría de Desarrollo Urbano y Medio Ambiente del Gobierno del Estado de Tamaulipas, relativos a la reducción, compensación y neutralización de emisiones de compuestos y gases de efecto invernadero a la atmósfera.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+Artículo 52 Tertricies.- Para efectos de lo establecido en la Sección I de este Capítulo, en los procesos en que se utilice la combustión de gas natural, el contribuyente gozará de un estímulo consistente en una reducción del pago de su contribución, conforme a la siguiente tabla:
+
+Ejercicio fiscal Porcentaje de reducción sobre
+
+el pago por las emisiones generadas
+
+con gas natural
+
+2024 90
+
+2025 90
+
+2026 85
+
+2027 85
+
+2028 80
+
+2029 80
+
+2030 75
+
+2031 75
+
+2032 70
+
+2033 70
+
+2034 65
+
+2035 65
+
+2036 60
+
+2037 60
+
+2038 55
+
+2039 55
+
+2040 50
+
+2041 0
+
+Para la procedencia del estímulo, los contribuyentes deberán informar en su Libro de Registro de Emisiones la cantidad de toneladas de bióxido de carbono equivalente generadas por el uso de gas natural, así como la metodología utilizada para su cuantificación. De igual manera, deberá conservar la documentación que ampare la metodología empleada para el cálculo de las emisiones.
+
+Los contribuyentes que opten por realizar la aplicación del estímulo fiscal señalado en este artículo, no podrán aplicar adicionalmente la exención señalada en el artículo 52 Quatertricies. Una vez que el contribuyente elija la opción de aplicación del estímulo fiscal, no podrá cambiar la opción elegida durante el ejercicio fiscal que corresponda.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+DE LAS EXENCIONES
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+Artículo 52 Quatertricies.- Para efectos de lo establecido en la Sección I de este Capítulo, los contribuyentes estarán exentos del pago del impuesto, mientras sus emisiones no excedan las 25,000 toneladas anuales de bióxido de carbono equivalente (tCO2e) que incluye los compuestos y gases establecidos en el artículo 52 Quinvicies.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+Artículo 52 Quintricies.- Para efectos de lo establecido en la Sección I de este Capítulo, la tarifa impositiva tendrá una exención equivalente a 5.5 veces el valor diario de la Unidad de Medida y Actualización (UMA) vigente por tonelada emitida de bióxido de carbono equivalente (tCO2e), que incluye los compuestos y gases establecidos en el artículo 52 Quinvicies, quedando el cobro en 3 UMA por (tCO2e).
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+DEL DESTINO DEL IMPUESTO
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 52.
+
+Sextricies.- Los ingresos que se obtengan de la recaudación de la contribución establecida en este Capítulo se destinarán preferentemente a:
+
+I. Acciones para la adaptación al cambio climático atendiendo prioritariamente a los grupos sociales ubicados en las zonas más vulnerables del Estado;
+
+II. Proyectos que contribuyan simultáneamente a la mitigación y adaptación al cambio climático, incrementando el capital natural, con acciones orientadas, entre otras: a revertir la deforestación y degradación; conservar y restaurar suelos para mejorar la captura de carbono; implementar prácticas agropecuarias sustentables; recargar los mantos acuíferos; preservar la integridad de humedales; promover la conectividad de los ecosistemas a través de corredores biológicos, conservar la vegetación riparia y para aprovechar sustentablemente la biodiversidad;
+
+III. Desarrollo y ejecución de acciones y proyectos de mitigación, reducción y compensación de emisiones de gases de efecto invernadero conforme a las prioridades de la Estrategia Estatal de Cambio Climático de Tamaulipas, el Programa Estatal de Cambio Climático y los programas municipales;
+
+IV. Promoción de programas, planes y acciones para reducir la vulnerabilidad del Estado frente al cambio climático en materia de atención y protección a grupos y zonas vulnerables, uso del suelo, infraestructura y otros aspectos que se consideren en la Estrategia Estatal de Cambio Climático de Tamaulipas;
+
+V. Programas de educación, sensibilización, concientización y difusión de información y de una cultura de mitigación y adaptación;
+
+VI. Proyectos de investigación, innovación y desarrollo tecnológico;
+
+VII. Estudios y evaluaciones en materia de cambio climático;
+
+VIII. Programas de inspección y vigilancia ambientales; y
+
+IX. Los demás proyectos y acciones en materia de cambio climático que la Comisión Intersecretarial de Cambio Climático del Estado de Tamaulipas consideren estratégicos.
+
+Las actividades y obligaciones consideradas en este artículo deberán tomar en cuenta criterios de equidad de género, inclusión social, participación ciudadana, y la integración de comunidades indígenas, pueblos afromexicanos, juventudes e infancias.
 
 ## TITULO III. DE LOS DERECHOS
 
-### CAPITULO II. DE LOS SERVICIOS DE REGISTRO
+### CAPITULO I. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 53.
 
@@ -1509,13 +1827,21 @@ c).- Por la búsqueda de aviso de testamento en el Registro Local de Avisos de T
 
 d).- Por la búsqueda de aviso de poder en el Registro Local y/o Nacional de Avisos de Poderes y en su caso la expedición de constancia de existencia o inexistencia del mismo, solicitadas por particulares que acrediten su interés legítimo, cinco veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-e).- Por la expedición, cambio o actualización de contraseña en el Registro Local de Avisos de Testamentos o en el Registro Nacional de Poderes, ocho veces el valor diario de la Unidad de Medida y Actualización; y
+e).- Por la expedición, cambio o actualización de contraseña en el Registro Local de Avisos de Testamentos o en el Registro Nacional de Poderes, ocho veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-f).- Por el aviso derivado de la ausencia temporal del Notario público, se pagarán seis veces el valor diario de la Unidad de Medida y Actualización, por cada uno.
+f).- Por el aviso derivado de la ausencia temporal del Notario público, se pagarán seis veces el valor diario de la Unidad de Medida y Actualización, por cada uno;
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+g).- Por la expedición o reimpresión de credenciales impresas y/o digitales de identificación con vigencia de dos años, para Notarios y Adscritos en funciones de Notario, diez veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+h).- Por la autorización anual para el uso de los medios electrónicos de los portales de aviso local de testamentos y registro nacional de avisos de poderes, para Notarios y Adscritos en funciones de Notario, tres veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -1567,11 +1893,9 @@ VII. Emisión de dictámenes periciales, en las siguientes materias:
 
 VIII. Emisión de dictamen de paternidad o prueba para determinación de perfiles genéticos.
 
-### CAPITULO III. DE LOS SERVICIOS PRESTADOS POR AUTORIDADES EDUCATIVAS DEL ESTADO
+### CAPITULO II. DE LOS SERVICIOS DE REGISTRO
 
-#### Sección Tercera. del Registro Público del Comercio
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
+#### Sección Primera. del Registro Civil
 
 ###### Artículo 62.
 
@@ -1607,9 +1931,9 @@ b).- Expedidas en el extranjero, diez veces el valor diario de la Unidad de Medi
 
 c).- Por el registro de divorcio tramitado en sede Notarial, ocho veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-4.- Inscripción de constancias de concubinato, dos veces el valor diario de la Unidad de Medida y Actualización; y
+4.- Inscripción de constancias de concubinato, cinco veces el valor diario de la Unidad de Medida y Actualización; y
 
 > <small>(REFORMADO, P.O. 22 DE SEPTEMBRE DE 2023)</small>
 
@@ -1641,13 +1965,17 @@ III. CERTIFICACIONES.
 
 a).- Por la expedición de certificaciones de actas y constancias que obren en los libros del Registro Civil, causarán la cuota igual al importe de una vez el valor diario de la Unidad de Medida y Actualización por hoja, así mismo por la expedición de certificaciones de actas de manera digital, causarán la cuota igual al importe de una vez el valor diario de la Unidad de Medida y Actualización por hoja.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-b).- Las certificaciones de firmas, inscripciones, anotaciones, índices o apéndices que obren en los libros o en la base de datos de cualquier Oficialía o del archivo central del Registro Civil, causarán la cuota igual al importe de una vez el valor diario de la Unidad de Medida y Actualización, por hoja, y;
+b).- Las certificaciones de firmas, inscripciones, anotaciones, índices o apéndices que obren en los libros o en la base de datos de cualquier Oficialía o del archivo central del Registro Civil, causarán la cuota igual al importe de una vez el valor diario de la Unidad de Medida y Actualización, por hoja;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-c).- Por la expedición de copias certificadas de actas que obren en la base de datos del Registro Civil, en lugar distinto al de su registro, por medio de la conexión estatal entre la Coordinación General, Oficialías y Cajeros Automatizados, el importe igual a una vez el valor diario de la Unidad de Medida y Actualización, así mismo por la expedición de certificaciones de actas de manera digital, causarán la cuota igual al importe de una vez el valor diario de la Unidad de Medida y Actualización por hoja.
+c).- Por la expedición de copias certificadas de actas que obren en la base de datos del Registro Civil, en lugar distinto al de su registro, por medio de la conexión estatal entre la Coordinación General, Oficialías y Cajeros Automatizados, el importe igual a una vez el valor diario de la Unidad de Medida y Actualización, así mismo por la expedición de certificaciones de actas de manera digital, causarán la cuota igual al importe de una vez el valor diario de la Unidad de Medida y Actualización por hoja; y
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+d).- Por la expedición de la certificación de la constancia de no deudor alimentario que obren en la Coordinación del Registro Civil y/o Oficialías, el importe de dos veces el valor diario de la Unidad de Medida y Actualización por hoja.
 
 IV. DIVORCIO ADMINISTRATIVO.
 
@@ -1689,17 +2017,21 @@ f).- Por el trámite y expedición de constancias diversas derivadas de la activ
 
 En los derechos que se causen por matrimonios a domicilio, los Oficiales del Registro Civil y sus Secretarios, tendrán derecho a una participación, los primeros de un treinta por ciento y los segundos de un diez por ciento.
 
-#### SECCION I. DE LA EMISION DE GASES A LA ATMOSFERA
+#### Sección Segunda. del Registro Público de la Propiedad Inmueble
 
-DEL OBJETO
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 64.
 
 Los servicios que se presten en el Instituto Registral y Catastral del Estado de Tamaulipas causarán derechos conforme a la siguiente tarifa:
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO [N. DE E ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-I. La inscripción o registro de títulos, ya se trate de documentos públicos o privados, protocolización de informaciones ad-perpetuam, resoluciones judiciales, administrativas, o de cualquier otra clase por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, o de contratos no mercantiles de enajenación de bienes inmuebles, sobre el valor 8 al millar; por lo que hace a la inscripción de Cancelaciones de cualquier índole, se pagará el importe de diez veces el valor diario de la Unidad de Medida y Actualización por inscripción practicada; en ningún caso la cantidad a pagar será mayor a quinientas veces el valor diario de la Unidad de Medida y Actualización;
+I.- La inscripción o registro de títulos, ya se trate de documentos públicos o privados, protocolización de informaciones ad-perpetuam, resoluciones judiciales, administrativas, o de cualquier otra clase por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, o de contratos no mercantiles de enajenación de bienes inmuebles, sobre el valor 8 al millar; por lo que hace a la inscripción de Cancelaciones de cualquier índole, se pagará el importe de diez veces el valor diario de la Unidad de Medida y Actualización por inscripción practicada; en ningún caso la cantidad a pagar será mayor a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+Por el servicio urgente de inscripción o registro de los servicios citados en el párrafo anterior, y que cuenten con número de finca, adicionalmente pagaran el importe de quince veces el valor diario de la Unidad de Medida y Actualización, por cada propiedad; cuando se solicite el trámite con carácter de urgente, el cual se entregará dentro del término de 24 horas contadas a partir de la hora de su presentación y/o ingreso;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE DICIEMBRE DE 2020)</small>
 
@@ -1983,7 +2315,9 @@ VIII. Por la inscripción de títulos de predios urbanos en tierras ejidales, tr
 
 No se causarán los derechos a que se refieren los artículos 64 y 68 de esta Ley, por los informes que soliciten las autoridades judiciales en causas penales, juicios de amparo, juicios de alimentos atendiendo al principio pro-persona, a las personas que se encuentren registradas en el Registro Estatal de la Comisión Estatal de Atención a Víctimas del Estado de Tamaulipas, además por la expedición de copias certificadas, certificaciones, la inscripción de la cancelación de algún gravamen, la inscripción de la aclaración o corrección a documentos previamente inscritos, búsqueda de documentos e informes que soliciten oficialmente los demás servidores públicos del Gobierno del Estado, en ejercicio de sus facultades como autoridades, con excepción de los solicitados por los órganos jurisdiccionales del Poder Judicial del Estado. Tampoco se causarán los derechos por la inscripción de embargos de bienes solicitados por dichos servidores públicos, cuando se declare que dicho embargo se realiza para proteger o salvaguardar el patrimonio del Estado, garantizar el interés fiscal del mismo o los casos en que se requieran otorgar como garantía los bienes propiedad del Gobierno del Estado.
 
-#### SECCION II. DE LOS SUJETOS
+#### Sección Tercera. del Registro Público del Comercio
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 68.
 
@@ -2099,163 +2433,147 @@ VI. En los casos no previstos expresamente en el artículo anterior, los derecho
 
 No se causarán los derechos a que se refiere el artículo 68 por las inscripciones de las Sociedades Cooperativas Escolares.
 
-### CAPITULO IV. DE LOS SERVICIOS CATASTRALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO III. DE LOS TRÁMITES Y SERVICIOS PRESTADOS POR AUTORIDADES EDUCATIVAS DEL ESTADO
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 71.
 
-Los servicios que prestan las autoridades educativas del Estado causarán derechos conforme a la siguiente tarifa:
+Los trámites que prestan las autoridades educativas del Estado causarán derechos conforme a la siguiente tarifa:
 
-I. Certificación de estudios:
+I.- Trámites del tipo de Educación Básica:
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+1.- Ampliación de domicilio del plantel educativo particular del tipo de Educación Básica; treinta veces el valor diario de la Unidad de Medida y Actualización;
 
-1.- Certificación de estudios de nivel básico, 75 por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
+2.- Autorización oficial de estudios o reapertura de plantel particular del tipo de Educación Básica, Servicio Inicial; treinta y cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+3.- Autorización oficial de estudios o reapertura de plantel particular del tipo de Educación Básica, Servicio Preescolar; cuarenta veces el valor diario de la Unidad de Medida y Actualización;
 
-2.- Certificación de estudios de nivel medio superior, tres veces el valor diario de la Unidad de Medida y Actualización;
+4.- Autorización oficial de estudios o reapertura de plantel particular del tipo de Educación Básica, Servicio Primaria; cuarenta y cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+5.- Autorización oficial de estudios o reapertura de plantel particular del tipo de Educación Básica, Servicio Secundaria; cincuenta veces el valor diario de la Unidad de Medida y Actualización;
 
-3.- Expedición de duplicado de certificado de estudios básicos y nivel medio-superior, 75 por ciento de una vez el valor diario de la Unidad de Medida y Actualización; y
+6.- Cambio de denominación del plantel educativo particular del tipo de Educación Básica; veinticinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+7.- Cambio de domicilio del plantel educativo particular del tipo de Educación Básica; treinta veces el valor diario de la Unidad de Medida y Actualización;
 
-4.- Expedición de duplicado de certificado de estudios de nivel superior, dos veces el valor diario de la Unidad de Medida y Actualización.
+8.- Cambio de representante legal del plantel educativo particular del tipo de Educación Básica; veinticinco veces el valor diario de la Unidad de Medida y Actualización;
 
-II. Exámenes:
+9.- Cambio de titular o propietario del plantel educativo particular del tipo de Educación Básica; veinticinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+10.- Constancia de antigüedad en el servicio educativo particular del tipo de Educación Básica; una vez el valor diario de la Unidad de Medida y Actualización;
 
-1.- Examen a título de suficiencia en estudios de nivel básico, 75 por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
+11.- Constancia de capacidad máxima de alumnos por aula para escuelas particulares del tipo de Educación Básica; tres veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+12.- Corrección de datos personales en documentos de certificación del tipo de Educación Básica; veinticinco por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
 
-2.- Examen extraordinario de regularización en estudios de nivel básico y medio superior, 50 por ciento de una vez el valor diario de la Unidad de Medida y Actualización; y
+13.- Examen Extraordinario de Regularización en Estudios del tipo de Educación Básica, Nivel Secundaria; cincuenta por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+14.- Expedición de duplicado de documentos de certificación de estudios del tipo de Educación Básica; setenta y cinco por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
 
-3.- Examen extraordinario de regularización en estudios de nivel superior, una vez el valor diario de la Unidad de Medida y Actualización.
+15.- Revalidación de estudios del tipo de Educación Básica, Nivel Primaria; cincuenta por ciento de una vez el valor diario de la Unidad de Medida y Actualización; y
 
-III. Diplomas:
+16.- Revalidación de estudios del tipo de Educación Básica, Nivel Secundaria; cincuenta por ciento de una vez el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+II.- Trámites del tipo de Educación Media Superior:
 
-1.- Expedición de diploma de estudios básicos y nivel medio-superior, 75 por ciento de una vez el valor diario de la Unidad de Medida y Actualización; y
+1.- Cambio al plan y programa de estudio del tipo de Educación Media Superior; setenta y tres veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+2.- Cambio de la denominación de la institución del tipo de Educación Media Superior; sesenta y seis veces el valor diario de la Unidad de Medida y Actualización;
 
-2.- Expedición de diploma de estudios superiores, tres veces el valor diario de la Unidad de Medida y Actualización.
+3.- Cambio de titular del acuerdo por cada plan y programa de estudios del tipo de Educación Media Superior; ciento setenta y tres veces el valor diario de la Unidad de Medida y Actualización;
 
-IV. Revalidaciones:
+4.- Cambio o ampliación de domicilio de cada plan de estudios del tipo de Educación Media Superior; sesenta y seis veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+5.- Emisión de oficio de libre tránsito entre escuelas con mismo plan de estudios, para estudiantes del tipo de Educación Media Superior; cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-1.- Revalidación de estudios de primaria, 50 por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
+6.- Reconocimiento de validez oficial de estudios del tipo de Educación Media Superior; ciento setenta y tres veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+7.- Refrendo a los acuerdos de reconocimiento de validez oficial de estudios del tipo de Educación Media Superior; por cada plan y programa de estudio, cien veces el valor diario de la Unidad de Medida y Actualización;
 
-2.- Revalidación de estudios de secundaria por grado, 50 por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
+8.- Resolución de equivalencia de estudios del tipo de Educación Media Superior; cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+9.- Resolución de revalidación de estudios del tipo de Educación Media Superior; cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-3.- Revalidación de estudios de preparatoria, cinco veces el valor diario de la Unidad de Medida y Actualización; y
+10.- Validación de certificación de estudios del tipo de Educación Media Superior; tres veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+11.- Validación de duplicado del certificado de estudios del tipo de Educación Media Superior; una vez el valor diario de la Unidad de Medida y Actualización;
 
-4.- Revalidación de estudios de nivel superior, quince veces el valor diario de la Unidad de Medida y Actualización.
+12.- Validación de inscripción y reinscripción por alumno por periodo escolar del tipo de Educación Media Superior (anual, semestre, cuatrimestre, tetramestre u otros); cincuenta por ciento de una vez el valor diario de la Unidad de Medida y Actualización; y
 
-V. Revisión de estudios:
+13.- Validación y registro de título profesional de Nivel Técnico para generación de cédula profesional; cinco veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+III.- Trámites del tipo de Educación Superior:
 
-1.-Revisión de estudios en nivel de estudios básico, 25 por ciento de una vez el valor diario de la Unidad de Medida y Actualización; y
+1.- Cambio al plan y programas de estudio del tipo de Educación Superior; setenta y tres veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+2.- Cambio de la denominación de la institución del tipo de Educación Superior; sesenta y seis veces el valor diario de la Unidad de Medida y Actualización;
 
-2.- Revisión de estudios en nivel de superior, 50 por ciento de una vez el valor diario de la Unidad de Medida y Actualización.
+3.- Cambio de titular del acuerdo por cada plan y programa de estudios del tipo de Educación Superior; ciento setenta y tres veces el valor diario de la Unidad de Medida y Actualización;
 
-VI. Diversos:
+4.- Cambio o ampliación de domicilio de cada plan de estudios del tipo de Educación Superior; sesenta y seis veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+5.- Reconocimiento de validez oficial de estudios del tipo de Educación Superior; ciento setenta y tres veces el valor diario de la Unidad de Medida y Actualización;
 
-1.- Expedición de carta de docencia, 25 por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
+6.- Refrendo a los acuerdos de reconocimiento de validez oficial de estudios del tipo de Educación Superior; por cada plan y programa de estudio, cien veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+7.- Resolución de equivalencia de estudios del tipo de Educación Superior; quince veces el valor diario de la Unidad de Medida y Actualización;
 
-2.- Legalización de documentos de Universidad y Normal Superior, 75 por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
+8.- Resolución de revalidación de estudios del tipo de Educación Superior; quince veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+9.- Validación de certificación de estudios del tipo de Educación Superior; tres veces el valor diario de la Unidad de Medida y Actualización;
 
-3.- Comprobación de cumplimiento de requisitos en estudios de nivel primaria, 25 por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
+10.- Validación de duplicado del certificado de estudios del tipo de Educación Superior; dos veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+11.- Validación de inscripción y reinscripción por alumno por periodo escolar del tipo de Educación Superior (anual, semestre, cuatrimestre, tetramestre u otros); cincuenta por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
 
-4.- Comprobación de cumplimiento de requisitos en estudios de nivel secundaria, 50 por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
+12.- Validación de plan y programas de estudio del tipo de Educación Superior para su incorporación; diez veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+13.- Validación y registro de diploma de grado de estudios del tipo de Educación Superior para expedición de cédula profesional; tres veces el valor diario de la Unidad de Medida y Actualización; y
 
-5.- Corrección de nombre en nivel de estudios básico, 25 por ciento de una vez el valor diario de la Unidad de Medida y Actualización; y
+14.- Validación y registro de título profesional del tipo de Educación Superior para generación de cédula profesional; cinco veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+IV.- Trámites para Instituciones Particulares Formadoras de Docentes:
 
-6.- Comprobación de cumplimiento de requisitos en estudios de nivel medio superior y superior, una vez el valor diario de la Unidad de Medida y Actualización por alumno.
+1.- Autorización de planes y programas de estudio de licenciatura para la Formación de Docentes; ciento setenta y tres veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+2.- Autorización de programas de posgrado para la Profesionalización Docente; ciento setenta y tres veces el valor diario de la Unidad de Medida y Actualización;
 
-VII. Por solicitud, estudio y resolución del trámite de:
+3.- Cambio de la denominación de las Instituciones Particulares de Formación y Profesionalización Docente; sesenta y seis veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2019)</small>
+4.- Cambio de titular del acuerdo por cada plan y programa de estudios de las Instituciones Particulares Formadoras de Docentes; ciento setenta y tres veces el valor diario de la Unidad de Medida y Actualización;
 
-A. Del Reconocimiento de Validez Oficial de Estudios de Tipo Medio Superior y Superior.
+5.- Cambio o ampliación de domicilio de cada plan de estudios para Instituciones Particulares Formadoras de Docentes; sesenta y seis veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+6.- Duplicado de certificado de estudios total o parcial de Educación Normal; dos veces el valor diario de la Unidad de Medida y Actualización;
 
-1.- Reconocimiento de validez oficial de estudios de tipo medio superior y superior, por programa académico, ciento setenta y tres veces el valor diario de la Unidad de Medida y Actualización;
+7.- Expedición de carta de docencia para Instituciones de Formación Docente; dos veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+8.- Refrendo a los acuerdos de autorización para la Formación de Docentes y de posgrado, por cada plan y programa de estudio; cien veces el valor diario de la Unidad de Medida y Actualización;
 
-2.- Cambios a cada plan y programa de estudio de tipo medio superior y superior con reconocimiento de validez oficial, setenta y tres veces el valor diario de la Unidad de Medida y Actualización;
+9.- Renovación de autorización de programas de posgrado para la Profesionalización y Superación Docente; setenta y tres veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+10.- Resolución de equivalencia de estudios de Formación y Profesionalización de Docentes; quince veces el valor diario de la Unidad de Medida y Actualización;
 
-3.- Cambio o ampliación de domicilio, o establecimiento de un plantel adicional, respecto de cada plan de estudios de tipo medio superior y superior con reconocimiento de validez oficial, sesenta y seis veces el valor diario de la Unidad de Medida y Actualización;
+11.- Resolución de revalidación de estudios de posgrado para Profesionalización de Docentes; quince veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+12.- Validación de certificación de estudios de posgrado para Profesionalización de Docentes; tres veces el valor diario de la Unidad de Medida y Actualización;
 
-4.- Cambio de titular respecto de cada plan de estudios de tipo medio superior y superior con reconocimiento de validez oficial, cincuenta veces el valor diario de la Unidad de Medida y Actualización;
+13.- Validación de documentación de certificación de planes de estudio abrogados de Educación Normal; tres veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+14.- Validación de duplicado del certificado de estudios de posgrado para Profesionalización de Docentes; dos veces el valor diario de la Unidad de Medida y Actualización;
 
-5.- Cambio de la denominación de la institución de tipo medio superior y superior con reconocimiento de validez oficial, cincuenta veces el valor diario de la Unidad de Medida y Actualización; y
+15.- Validación de inscripción y reinscripción de alumno por periodo escolar de estudios de posgrado para Profesionalización de Docentes (anual, semestre, cuatrimestre, tetramestre u otros); cincuenta por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+16.- Validación de plan y programas de estudio de posgrado para Profesionalización de Docentes, para su incorporación; diez veces el valor diario de la Unidad de Medida y Actualización;
 
-6.- Visita de inspección ordinaria por matricula estudiantil activa de tipo medio superior y superior con reconocimiento de validez oficial, una vez el valor diario de la Unidad de Medida y Actualización.
+17.- Validación y registro de diploma de grado de estudios de posgrado para Profesionalización de Docentes para expedición de cédula profesional; tres veces el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 18 DE DICIEMBRE DE 2019)</small>
+18.- Validación y registro de título profesional de nivel de Posgrado para Docentes; cinco veces el valor diario de la Unidad de Medida y Actualización.
 
-B. De la Autorización de Validez Oficial de Estudios para Escuelas Particulares Formadoras de Docentes.
-
-1.- Autorización de validez oficial de estudios, para escuelas particulares formadoras de docentes por programa académico, ciento setenta y tres veces el valor diario de la Unidad de Medida y Actualización;
-
-2.- Cambios a cada plan y programa de estudio de las autorizaciones de validez oficial de estudios para escuelas particulares formadoras de docentes setenta y tres veces el valor diario de la Unidad de Medida y Actualización;
-
-3.- Cambio de domicilio, ampliación de domicilio o establecimiento de un plantel adicional, respecto de cada plan de estudios con autorización de validez oficial de estudios para escuelas particulares formadoras de docentes, sesenta y seis veces el valor diario de la Unidad de Medida y Actualización;
-
-4.- Cambio de titular respecto de cada plan de estudios de escuelas con autorización de validez oficial de estudios para escuelas particulares formadoras de docentes, cincuenta veces el valor diario de la Unidad de Medida y Actualización;
-
-5.- Cambio de la denominación de la institución particular que cuente con autorización de validez oficial de estudios para escuelas particulares formadoras de docentes, cincuenta veces el valor diario de la Unidad de Medida y Actualización; y
-
-6.- Visita de inspección ordinaria por matricula estudiantil activa de escuelas que cuenten con autorización de validez oficial de estudios para escuelas particulares formadoras de docentes, una vez el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
-
-VIII. Equivalencia de estudios de preparatoria, cinco veces el valor diario de la Unidad de Medida y Actualización.
-
-### CAPITULO V. DE LOS SERVICIOS PARA EL CONTROL VEHICULAR
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+### CAPITULO IV. DE LOS SERVICIOS CATASTRALES
 
 ###### Artículo 72.
 
@@ -2301,7 +2619,9 @@ c).- Tamaño mayor a doble carta, ocho veces el valor diario de la Unidad de Med
 
 4. Copia certificada de manifiesto de propiedad, que obre en los archivos físicos o consultas de manifiesto obtenida de la Base de Datos del sistema catastral de la Dirección de Catastro del Instituto Registral y Catastral del Estado de Tamaulipas, tres veces el valor diario de la Unidad de Medida y Actualización.
 
-5. La certificación de antecedentes catastrales de un predio (valores catastrales; superficies catastrales; nombre del propietario, poseedor o detentador de un predio; colindancias y medidas; inexistencia de registro a nombre del solicitante; y en general, de datos de los mismos que obren en los archivos y bases de datos de la Dirección de Catastro del Instituto Registral y Catastral del Estado de Tamaulipas), seis veces el valor diario de la Unidad de Medida y Actualización.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+5. La Cédula Única Catastral de un predio (valores catastrales; superficies catastrales; nombre del propietario, poseedor o detentador de un predio; colindancias y medidas; inexistencia de registro a nombre del solicitante; y en general, de datos de los mismos que obren en los archivos y bases de datos de la Dirección de Catastro del Instituto Registral y Catastral del Estado de Tamaulipas), seis veces el valor diario de la Unidad de Medida y Actualización.
 
 6.- Búsqueda de datos y/o documentos catastrales, seis veces el valor diario de la Unidad de Medida y Actualización.
 
@@ -2361,9 +2681,9 @@ V. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2019)
 
 VI. Se eximen de pago de derechos, por los servicios solicitados en las fracciones I, II y IV de este artículo, por las autoridades respecto de bienes inmuebles y/o derechos reales pertenecientes a la Nación, al Gobierno de Tamaulipas, sus Municipios y Organismos Públicos Descentralizados.
 
-### CAPITULO VI. DE LOS DERECHOS POR SERVICIOS DE PREVENCION Y CONTROL DE LA CONTAMINACION DEL MEDIO AMBIENTE
+### CAPITULO V. DE LOS SERVICIOS PARA EL CONTROL VEHICULAR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 73.
 
@@ -2521,13 +2841,13 @@ c).- Examen toxicológico, diez veces el valor diario de la Unidad de Medida y A
 
 XV. Por reposición de la tarjeta de circulación y por el trámite de la solicitud de baja, en el control vehicular, en cada caso seis veces el valor diario de la Unidad de Medida y Actualización; si la solicitud de baja en el control vehicular corresponde a un vehículo con placas de otra entidad federativa, se pagarán diez veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-XVI. Por la expedición de permiso provisional de circulación para el servicio particular, seis veces el valor diario de la Unidad de Medida y Actualización;
+XVI. Por la expedición del permiso provisional para circular sin placas, tarjeta de circulación y engomado por 30 días para el servicio particular, diez veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE JULIO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-XVII.- Por la expedición o reposición de licencia de conducir para:
+XVII. Por la expedición de licencia de conducir para:
 
 > <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -2579,6 +2899,10 @@ Se entenderá que la vigencia de la licencia de conducir, según se trate de su 
 
 Tratándose de extranjeros la vigencia de la licencia de conducir, no podrá ser mayor a la fecha de vencimiento del documento que acredite la legal estancia en el país.
 
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+XVII Bis.- Por la reposición de licencia de conducir diez veces el valor diario de la Unidad de Medida y Actualización;
+
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 XVIII. Por el envío de documentación oficial a domicilio, se cobrará lo siguiente:
@@ -2615,13 +2939,17 @@ XXIII. Por la expedición anual de la Constancia de Vehículo Registrado en las 
 
 XXIV. Por la expedición de la Constancia de Registro de las Empresas de Redes de Transporte, para realizar actividades de mediación, administración o promoción en el Estado, con el importe de quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-XXV. Por el refrendo anual de la Constancia de Registro de las Empresas de Redes de Transporte, para realizar actividades de mediación, administración o promoción en el Estado, con el importe de trescientas veces el valor diario de la Unidad de Medida y Actualización; y
+XXV.- Por el refrendo anual de la Constancia de Registro de las Empresas de Redes de Transporte, para realizar actividades de mediación, administración o promoción en el Estado, con el importe de trescientas veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-XXVI. Por la expedición anual del Certificado de Persona Operadora Titular o Adhesiva de las Empresas de Redes de Transporte, con el importe de veinte veces el valor diario de la Unidad de Medida y Actualización.
+XXVI.- Por la expedición anual del Certificado de Persona Operadora Titular o Adhesiva de las Empresas de Redes de Transporte, con el importe de veinte veces el valor diario de la Unidad de Medida de Actualización; y
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+XXVII.- Los distribuidores autorizados de venta de vehículos así como los comerciantes en el ramo de vehículos, tendrán la obligación de presentar durante el mes de mayo, declaración anual informativa sobre las enajenaciones de vehículos nuevos o seminuevos realizadas en territorio del Estado en el ejercicio anterior.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
@@ -2667,7 +2995,9 @@ En todos los casos, se podrá asignar hasta un segundo juego de placas de circul
 
 IV. De un 50 por ciento a los comprendidos en la fracción I, incisos a) y b), en una sola ocasión por año, tratándose de vehículos eléctricos o híbridos adquiridos en el Estado, cuyos propietarios estén domiciliados en la entidad.
 
-### CAPITULO VI-BIS. DERECHOS POR LA EMISION DE GASES A LA ATMOSFERA
+### CAPITULO VI. DE LOS DERECHOS POR SERVICIOS DE PREVENCION Y CONTROL DE LA CONTAMINACION DEL MEDIO AMBIENTE
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 75.
 
@@ -2813,9 +3143,13 @@ V. Por el uso de áreas destinadas a campismo, dentro de las áreas naturales pr
 
 VI. Por la concesión de servicios en áreas ecológicas protegidas, hasta cuatrocientas quince veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-VII. Por la emisión de dictamen de conveniencia, el cincuenta por ciento de una vez el valor diario de la Unidad de Medida y Actualización por hectárea;
+VII.- Por la emisión de dictamen de conveniencia, el cincuenta por ciento de una vez el valor diario de la Unidad de Medida y Actualización por hectárea.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+Para el caso de que el promovente sea un Núcleo Ejidal, el cinco por ciento de una vez el valor diario de la Unidad de Medida y Actualización por hectárea;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -2973,7 +3307,7 @@ b).- Por la actualización anual del Plan de Manejo, quince veces el valor diari
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JULIO DE 2020)</small>
 
-### CAPITULO VII. DERECHOS POR SERVICIOS DE ADMINISTRACION Y CONTROL DEL DESARROLLO URBANO
+### CAPITULO VI-BIS. DERECHOS POR LA EMISION DE GASES A LA ATMOSFERA
 
 ###### Artículo 76 Bis.
 
@@ -2985,7 +3319,9 @@ b).- Por la actualización anual del Plan de Manejo, quince veces el valor diari
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE JULIO DE 2020)</small>
 
-#### SECCION III. DE LA BASE
+#### SECCION I. DE LA EMISION DE GASES A LA ATMOSFERA
+
+DEL OBJETO
 
 ###### Artículo 76 Quater.
 
@@ -2993,7 +3329,7 @@ b).- Por la actualización anual del Plan de Manejo, quince veces el valor diari
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE JULIO DE 2020)</small>
 
-#### SECCION IV. DE LA TARIFA
+#### SECCION II. DE LOS SUJETOS
 
 ###### Artículo 76 Quinquies.
 
@@ -3001,7 +3337,7 @@ b).- Por la actualización anual del Plan de Manejo, quince veces el valor diari
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE JULIO DE 2020)</small>
 
-#### SECCION V. DEL ENTERO
+#### SECCION III. DE LA BASE
 
 ###### Artículo 76 Sexies.
 
@@ -3009,7 +3345,7 @@ b).- Por la actualización anual del Plan de Manejo, quince veces el valor diari
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE JULIO DE 2020)</small>
 
-#### SECCION VI. DE LAS OBLIGACIONES
+#### SECCION IV. DE LA TARIFA
 
 ###### Artículo 76 Septies.
 
@@ -3017,7 +3353,7 @@ b).- Por la actualización anual del Plan de Manejo, quince veces el valor diari
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE JULIO DE 2020)</small>
 
-#### SECCION VII. DESTINO DEL DERECHO
+#### SECCION V. DEL ENTERO
 
 ###### Artículo 76 Octies.
 
@@ -3025,17 +3361,21 @@ b).- Por la actualización anual del Plan de Manejo, quince veces el valor diari
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE JULIO DE 2020)</small>
 
+#### SECCION VI. DE LAS OBLIGACIONES
+
 ###### Artículo 76 Nonies.
 
 (DEROGADO, P.O. 20 DE DICIEMBRE DE 2022)
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE JULIO DE 2020)</small>
 
+#### SECCION VII. DESTINO DEL DERECHO
+
 ###### Artículo 76 Decies.
 
 (DEROGADO, P.O. 20 DE DICIEMBRE DE 2022)
 
-### CAPITULO VIII. DERECHOS DE COOPERACION
+### CAPITULO VII. DERECHOS POR SERVICIOS DE ADMINISTRACION Y CONTROL DEL DESARROLLO URBANO
 
 ###### Artículo 77.
 
@@ -3097,7 +3437,7 @@ IV.- Agropecuario, 2 por ciento el valor diario de la Unidad de Medida y Actuali
 
 V.- Régimen de propiedad en condominio habitacional, 4 por ciento el valor diario de la Unidad de Medida y Actualización.
 
-### CAPITULO IX. DE LOS SERVICIOS DIVERSOS
+### CAPITULO VIII. DERECHOS DE COOPERACION
 
 ###### Artículo 79.
 
@@ -3107,25 +3447,23 @@ V.- Régimen de propiedad en condominio habitacional, 4 por ciento el valor diar
 
 (DEROGADO, P.O. 15 DE JUNIO DE 2021)
 
-### CAPITULO X. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR ORGANISMOS PÚBLICOS DESCENTRALIZADOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+### CAPITULO IX. DE LOS SERVICIOS DIVERSOS
 
 ###### Artículo 81.
 
 Por la expedición de licencias para el funcionamiento de establecimientos o locales que enajenan total o parcialmente al público en general bebidas alcohólicas, se causarán conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-I.- Restaurantes, cafés cantantes, centros de espectáculos, centros recreativos y deportivos o club, casino, círculo o club social, salones de fiestas y eventos, billares y boliches, con el importe de cuatrocientas cuarenta veces el valor diario de la Unidad de Medida y Actualización. Los bares de los hoteles y moteles, con el importe de quinientas cincuenta veces el valor diario de la Unidad de Medida y Actualización. Los cabarets, centros nocturnos, discotecas y establecimiento con cruce o captación de apuestas, con el importe de mil seiscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización;
+I.- Restaurantes, cafés cantantes, centros recreativos y deportivos o club, casino, círculo o club social, salones de fiestas y eventos, billares y boliches, con el importe de cuatrocientas cuarenta veces el valor diario de la Unidad de Medida y Actualización. Los bares de los hoteles y moteles, con el importe de quinientas cincuenta veces el valor diario de la Unidad de Medida y Actualización. Los centros nocturnos, centros de espectáculos, discotecas y establecimiento con cruce o captación de apuestas, con el importe de mil seiscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-II.- Loncherías, fondas, coctelerías, taquerías, cenadurías, comedores y otros establecimientos similares que tengan por giro la venta y consumo de alimentos no comprendidos en la fracción anterior, con el importe de ciento sesenta y cinco veces el valor diario de la Unidad de Medida y Actualización;
+II.- Loncherías, fondas, coctelerías, taquerías, cafeterías, cenadurías, comedores y otros establecimientos similares que tengan por giro la venta y consumo de alimentos no comprendidos en la fracción anterior, con el importe de ciento sesenta y cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-III.- Supermercados, con el importe de cuatrocientas noventa y cinco veces el valor diario de la Unidad de Medida y Actualización;
+III.- Supermercados y tiendas de conveniencia, con el importe de cuatrocientas noventa y cinco veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
@@ -3135,17 +3473,25 @@ IV.- Minisúper y abarrotes, con el importe de doscientas veinte veces el valor 
 
 V.- Cantinas, tabernas, cervecerías, bares y otros establecimientos similares no comprendidos en la fracción I de este artículo, con el importe setecientas setenta veces el valor diario de la Unidad de Medida y Actualización; restaurantes bar con el importe de quinientas setenta veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-VI.- Permisos para eventuales, como los que se instalan en ferias, bailes, kermesses, salones de baile y eventos deportivos, con el importe de treinta y tres veces el valor diario de la Unidad de Medida y Actualización, por fecha; y
+VI.- Permisos para eventuales, como los que se instalan en ferias, bailes, kermeses, salones de baile y eventos deportivos; únicamente para consumo de bebidas en el establecimiento se cobrarán diez veces el valor diario de la Unidad de Medida y Actualización; en caso de que en el evento se considere la venta de bebidas alcohólicas se cobrarán cincuenta veces el valor diario de la Unidad de Medida y Actualización, por fecha;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 VII.- Por el trámite de la solicitud de expedición de licencia que se devuelva sin otorgar por carencia u omisión de requisitos o impedimento legal, diez veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-VIII.- Salas de degustación para la venta exclusiva de cerveza artesanal y tiendas de cerveza artesanal, con el importe de doscientas veinte veces el valor diario de la Unidad de Medida y Actualización; microcerverías, con el importe de quinientas setenta veces el valor diario de la Unidad de Medida y Actualización.
+VIII.- Salas de degustación para la venta exclusiva de cerveza artesanal y tiendas de cerveza artesanal, con el importe de doscientas veinte veces el valor diario de la Unidad de Medida y Actualización; microcervecerías y micromezcalerías con el importe de quinientas setenta veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+IX.- Palapas o salones con alberca, con el importe de ciento noventa y dos veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+El cobro de los derechos de una licencia nueva se causará de manera proporcional al mes en que se autorice.
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -3159,13 +3505,25 @@ Los servicios prestados en materia de Desarrollo Urbano se causaran, conforme a 
 
 I.- Por la expedición del Dictamen de Impacto Urbano para:
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-a).- El uso o aprovechamiento de un determinado predio o inmueble, para aquellas obras que por sus características en su desarrollo produce un impacto significativo y regional sobre la infraestructura, equipamiento urbano y servicios públicos, previstos para una región o para un centro de población, que lo impactan y que son motivo de un control urbano como lo son, Fraccionamientos, Gasolineras, Estaciones de Carburación, Estaciones de expendio al público de Gas L.P.; Equipamientos Educativos, de Salud, Abasto y Recreación, que brinden servicios regionales o cualquiera que supongan la concentración en un mismo momento de más de 300 personas; Centrales de Carga, Terminales Multimodales, Centrales de Autobuses, Ferrocarriles y Aeropuertos, Construcción de industrias que utilicen o generen residuos peligrosos, siendo todas las anteriormente descritas tanto en su contexto para servicio público o privado; se pagarán por el dictamen quinientas veces el valor diario de la Unidad de Medida de Actualización; y
+a).- Cualquier fraccionamiento que resulte procedente en los siguientes casos, se pagará:
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+1.- Hasta 1 Ha.100 UMA´s.
 
-b).- Parques Eólicos, los derechos causados serán por aerogenerador y se pagarán mil veces el valor diario de la Unidad de Medida de Actualización.
+2.- Mayor de 1 Ha. hasta 2 Has. 150 UMA´s.
+
+3.- Mayor de 2 Ha. hasta 4 Has. 200 UMA´s.
+
+4.- Mayor de 4 Ha. hasta 10 Has. 300 UMA´s.
+
+5.- Superiores a 10 Has. 500 UMA´s.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+b).- El uso o aprovechamiento de un determinado predio o inmueble, para aquellas obras que por sus características en su desarrollo, produce un impacto significativo y regional sobre la infraestructura, equipamiento urbano y servicios públicos, previstos para una región o para un centro de población que lo impactan y que son motivo de un control urbano, como lo son: Gasolineras, Estaciones de Carburación, Estaciones de expendio al público de gas L.P.; Equipamientos Educativos de Salud, Abasto y Recreación, que brinden servicios regionales o cualquiera que supongan la concentración en un mismo momento de más de 300 personas, Centrales de carga, Terminales Multimodales, Centrales de Autobuses, Ferrocarriles y Aeropuertos, Construcción de industrias que utilicen o generen residuos peligrosos, siendo todas las anteriormente descritas tanto en su contexto para servicio público o privado; se pagarán por el dictamen, quinientas veces el valor diario de la Unidad de Medida y Actualización; y
+
+c).- Parques Eólicos, los derechos causados serán por aerogenerador y se pagarán mil veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -3381,17 +3739,11 @@ El envío de la información solicitada podrá realizarse por correo simple, cor
 
 Por los servicios proporcionados en materia de protección contra riesgos sanitarios, se causarán derechos conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+I.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2023)
 
-I.- Por la expedición de certificado sobre pozo de agua para abastecimiento privado, se pagarán diez veces el valor diario de la Unidad de Medida y Actualización;
+II.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2023)
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-II.- Por la revalidación de certificado privado sobre pozo de agua, se pagarán cinco veces el valor diario de la Unidad de Medida y Actualización;
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
-
-III.- Por la solicitud de libros para el registro de medicamento controlado, ante la gestión del permiso de libros de control de estupefacientes y psicotrópicos, se pagarán cinco veces el valor diario de la Unidad de Medida y Actualización;
+III.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2023)
 
 IV.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 2019)
 
@@ -3399,15 +3751,15 @@ IV.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 2019)
 
 V. Por la aprobación de planos de construcción de ingeniería sanitaria para casa - habitación unifamiliar, se pagará el diez por ciento de una vez el valor diario de la Unidad de Medida y Actualización, por metro cuadrado; únicamente en aquellas áreas donde se encuentren ubicados los servicios sanitarios;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+V.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2023)
 
-VI.- Por la aprobación de planos de construcción de obras que por sus características y dimensiones causen impacto, en materia de ingeniería sanitaria, se pagará catorce por ciento del valor diario de la Unidad de Medida y Actualización por metro cuadrado.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-Se consideran obras de impacto: los locales comerciales, fraccionamientos, proyectos de dos o más casas-habitación, plazas comerciales, consultorios, centros de atención médica en todos sus niveles y modalidades, bodegas, naves industriales, gasolineras, talleres, tiendas de autoservicio, agencias automotrices, hoteles, departamentos, edificios multifamiliares, restaurantes, bares, casinos, centros y clubes deportivos, gimnasios y, en general, todas las construcciones mayores a proyectos de una sola casa habitación;
+VI.- Por la aprobación de planos de construcción de todo tipo, se pagará el catorce por ciento de una vez el valor diario de la Unidad de Medida y Actualización por metros cuadrados totales de la construcción en todas sus plantas o niveles;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-VII.- Por asesoría para la autorización de permiso sanitario de construcción, remodelación o modificación, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización;
+VII.- Por la expedición del permiso sanitario de construcción, remodelación o modificación, de cada plano de construcción aprobado y revisado, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -3529,13 +3881,9 @@ VIII.- Para los distintos giros sanitarios que requieren de licencia:
 
 32.- Por anfiteatro anatómico en escuelas de ciencia para la salud, se pagará ocho veces el valor diario de la unidad de medida y actualización; y ocho veces el valor diario de la unidad de medida y actualización por la autorización de responsable sanitario;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+33.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 2023)
 
-33.- Por servicios privados de hospitalización o unidades de cirugía ambulatoria, se pagará diez veces el valor diario de la Unidad de Medida y Actualización; y diez veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-34.- Por servicios públicos de hospitalización, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización, y cinco veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
+34.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 2023)
 
 35.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2017)
 
@@ -3559,9 +3907,13 @@ VIII.- Para los distintos giros sanitarios que requieren de licencia:
 
 IX.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-X.- Por visita de verificación sanitaria a petición de parte a establecimientos sujetos a control sanitario, se pagarán diez veces el valor diario de la Unidad de Medida y Actualización;
+X.- Por visita a petición de parte para la verificación sanitaria de:
+
+a).- Establecimientos sujetos a control sanitario, se pagarán diez veces el valor diario de la Unidad de Medida y Actualización;
+
+b).- Medicamentos que sean o contengan estupefacientes o psicotrópicos de balance y/o de destrucción, se pagarán cinco veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -3571,13 +3923,17 @@ XI.- Por solicitud de muestreo a petición del prestador de servicios y/o el rep
 
 XII.- Por permiso sanitario para la inhumación, reacomodo, exhumación y traslado de restos áridos, restos humanos y cadáveres; y la cremación y traslado de cenizas, se pagarán diez veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-XIII.- Por la expedición de la Constancia Sanitaria para establecimientos que comercialicen bebidas alcohólicas en envase cerrado o al copeo, se pagarán veinticinco veces el valor diario de la Unidad de Medida y Actualización;
+XIII.- Por la expedición de la Constancia Sanitaria para establecimientos que comercialicen bebidas alcohólicas en envase cerrado o al copeo, se pagarán veinticinco veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+Por la expedición de la Constancia Sanitaria para eventos instalados en centros de espectáculos, centros recreativos y deportivos o clubs y ferias, en los que se comercialicen bebidas alcohólicas, se pagarán veinticinco veces el valor diario de la Unidad de Medida y Actualización;
 
-XIV.- Por la expedición de aviso de Responsable Sanitario de establecimientos de Insumos de Salud, así como de cambio de responsable, se pagarán cinco veces el valor diario de la Unidad de Medida y Actualización;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+XIV.- Por la expedición del comprobante de Aviso de Responsable Sanitario de Insumos para la Salud, del establecimiento que opera con licencia sanitaria, así como de cambio de responsable, se pagarán cinco veces el valor diario de la Unidad de Medida y Actualización; con excepción de la Federación, los municipios, organismos estatales y descentralizados.
+
+Por la modificación o actualización del comprobante de Aviso, se pagarán cuatro veces el valor diario de la Unidad de Medida y Actualización;
 
 XV.- (DEROGADA, P.O. 17 DE DICIEMBRE DE 2020)
 
@@ -3593,13 +3949,17 @@ XVII.- Por la autorización de cada uno de los libros de control para bancos de 
 
 XVIII.- Por concepto de desinfección, desinsectación, desratización en embarcaciones y demás actividades que establezca el Reglamento Sanitario Internacional, y los tratados o convenciones internacionales, se pagarán ciento diez veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-XIX.- Por la solicitud de libros para el registro de antibióticos, ante la gestión del permiso de libros para el control de antibióticos, se pagarán cinco veces el valor diario de la Unidad de Medida y Actualización;
+XIX.- Por la solicitud de libros para el registro de antibióticos, ante la gestión del permiso de libros para el control de antibióticos, se pagarán cinco veces el valor diario de la Unidad de Medida y Actualización; con excepción de la Federación, municipios, organismos estatales y descentralizados.
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
+Por la modificación o actualización de la solicitud de libros, se pagarán cuatro veces el valor diario de la Unidad de Medida y Actualización;
 
-XX.- Por la expedición del aviso de previsiones de compra-venta de estupefacientes para farmacias, droguerías y boticas, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+XX.- Por la expedición de comprobante del aviso de previsiones de compra-venta de medicamentos que contengan estupefacientes para farmacias, droguerías y boticas, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización; con excepción de la Federación, municipios, organismos estatales y descentralizados.
+
+Por la modificación o actualización del comprobante de Aviso, se pagarán cuatro veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -3617,9 +3977,7 @@ XXIII.- Por la certificación y/o expedición de certificado de salud para manej
 
 XXIV.- Por concepto de fumigación, desinfección, desinsectación y/o desratización para control de fauna nociva en materia de sanidad internacional terrestre, en vehículos en tránsito en los puentes internacionales, tipo sedán y pickups, se pagará cuatro veces el valor diario de la Unidad de Medida y Actualización; para camiones, autobuses o transporte de carga, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
-
-XXV.- Por el Distintivo Sanitario, se pagará veinte veces el valor diario de la Unidad de Medida y Actualización;
+XXV.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2023)
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -3675,17 +4033,41 @@ Por cualquier otro servicio que se ajuste a la definición de derechos prevista 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
+### CAPITULO X. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR ORGANISMOS PÚBLICOS DESCENTRALIZADOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 99.
+
+Se pagarán los Derechos por los servicios que prestan los organismos públicos descentralizados del Estado conforme al tabulador vigente que se publique en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+Los ingresos recaudados por las dependencias de la administración estatal en términos de los diversos conceptos que establecen las leyes fiscales, deberán ser depositados para su registro en la Secretaría de Finanzas; a su vez, los ingresos propios que recauden las dependencias de la administración estatal se informarán y depositarán en la Secretaría de Finanzas. En ambos casos, los ingresos deberán reflejarse, cualquiera que sea su naturaleza, en la cuenta de la hacienda pública estatal.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 100.
+
+Por cualquier servicio que preste el Gobierno del Estado a través de las entidades de la administración estatal, que se sitúen conforme a la definición de derechos prevista en el Código Fiscal del Estado de Tamaulipas y de conformidad con el costo que represente proporcionarlo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ### CAPITULO XI. DE LOS DERECHOS POR LOS SERVICIOS DE ADMINISTRACIÓN Y CONTROL EN MATERIA AGROPECUARIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-Artículo 100 BIS. Para efecto de los servicios prestados por la Subsecretaría de Desarrollo Pecuario y Forestal, dependiente de la Secretaría de Desarrollo Rural, se causarán derechos conforme a las siguientes tarifas:
+###### Artículo 100 Bis.
+
+Para efecto de los servicios prestados por la Secretaría de Desarrollo Rural, Pesca y Acuacultura, se causarán derechos conforme a las siguientes tarifas:
 
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 I.- Por la obtención del registro, refrendo o baja del registro de fierro, señal de sangre, tatuaje y cualquier otro medio de identificación, así como autorizar la traslación de dominio de los derechos que amparan estos documentos, se determinará conforme a lo siguiente:
 
-a).- Registro entre 1 a 50 unidades animal se pagará el importe equivalente a ocho veces el valor diario de la Unidad de Medida y Actualización;
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+a).- Registro entre 1 a 50 unidades animal se pagará el importe equivalente a cuatro veces el valor diario de la Unidad de Medida y Actualización;
 
 b).- Registro entre 51 a 200 unidades animal se pagará el importe equivalente a dieciséis veces el valor diario de la Unidad de Medida y Actualización; y
 
@@ -3695,9 +4077,9 @@ II.- (DEROGADA, P.O. 22 DE FEBRERO DE 2022)
 
 III.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 2019)
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-IV.- Por el registro ante la Secretaría de Desarrollo Rural, pagarán el importe equivalente a:
+IV.- Por el registro ante la Secretaría de Desarrollo Rural, Pesca y Acuacultura, pagarán el importe equivalente a:
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -3707,9 +4089,9 @@ a) Sesenta y cuatro veces el valor diario de la Unidad de Medida y Actualizació
 
 b) Treinta veces el valor diario de la Unidad de Medida y Actualización, las empresas dedicadas al comercio de productos y subproductos cárnicos, lácteos y pieles;
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-c) Registro entre 201 o más unidades animal (sic) se pagará el importe equivalente a treinta y dos veces el valor diario de la Unidad de Medida y Actualización; y
+c).- Doscientos sesenta y cuatro veces el valor diario de la Unidad de Medida y Actualización, los mayoristas y tiendas departamentales de autoservicio; y
 
 > <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2022)</small>
 
@@ -3731,25 +4113,47 @@ d).- Vehículos de más de 10 toneladas, catorce veces el valor diario de la Uni
 
 VII.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 2019)
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+VIII.- Por la movilización y obtención del Documento Único o Guía de Tránsito de Ganado en pie y otras especies se pagará:
+
+a) Movilización interna de ganado bovino, cero punto cuarenta y ocho veces el valor diario de la Unidad de Medida y Actualización;
+
+b) Movilización de ganado bovino de Prestador de Servicios Ganaderos, cero punto veintitrés veces el valor diario de la Unidad de Medida y Actualización;
+
+c) Movilización de ganado bovino que ingresa al Estado, cero punto sesenta y cinco veces el valor diario de la Unidad de Medida y Actualización;
+
+d) Movilización de tránsito o paso de ganado bovino en el Estado, cero punto cuarenta y seis veces el valor diario de la Unidad de Medida y Actualización;
+
+e) Ganado equino, cero punto cuarenta y tres veces el valor diario de la Unidad de Medida y Actualización;
+
+f ) Ganado caprino, ovino y porcino, cero punto doce veces el valor diario de la Unidad de Medida y Actualización;
+
+g) Aves de corral, cero punto cero cero cero tres veces el valor diario de la Unidad de Medida y Actualización; y
+
+h) Abejas por alzas, cero punto quince veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+IX.- Por la realización de los procesos sanitarios y de seguridad en materia Agropecuaria se pagará por:
+
+a) Procesos sanitarios para controlar y/o erradicar plagas y enfermedades agropecuarias, el importe equivalente a una vez el valor diario de la Unidad de Medida y Actualización; y
+
+b) La obtención o reposición de fleje por vehículo, el importe de cero punto cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+X.- Por la obtención del certificado de inspección y verificación de productos y subproductos de origen vegetal:
+
+a) Vehículos de 1 tonelada y hasta 3 toneladas, cero punto setenta y siete veces el valor diario de la Unidad de Medida y Actualización;
+
+b) Vehículo de más de 3 toneladas y hasta 16 toneladas, uno punto cuarenta y cinco veces el valor diario de la Unidad de Medida y Actualización; y
+
+c) Vehículo de más de 16 toneladas, cuatro punto ochenta y dos veces el valor diario de la Unidad de Medida y Actualización.
+
 Artículo 100 TER. (DEROGADO, P.O. 22 DE FEBRERO DE 2022)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE DICIEMBRE DE 2018)</small>
-
-###### Artículo 99.
-
-Se pagarán los Derechos por los servicios que prestan los organismos públicos descentralizados del Estado conforme al tabulador vigente que se publique en el Periódico Oficial del Estado.
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
-Los ingresos recaudados por las dependencias de la administración estatal en términos de los diversos conceptos que establecen las leyes fiscales, deberán ser depositados para su registro en la Secretaría de Finanzas; a su vez, los ingresos propios que recauden las dependencias de la administración estatal se informarán y depositarán en la Secretaría de Finanzas. En ambos casos, los ingresos deberán reflejarse, cualquiera que sea su naturaleza, en la cuenta de la hacienda pública estatal.
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
-###### Artículo 100.
-
-Por cualquier servicio que preste el Gobierno del Estado a través de las entidades de la administración estatal, que se sitúen conforme a la definición de derechos prevista en el Código Fiscal del Estado de Tamaulipas y de conformidad con el costo que represente proporcionarlo.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ### CAPÍTULO XII. DERECHOS POR LOS SERVICIOS DE EXPEDICIÓN DE PERMISO E INSCRIPCIÓN EN EL REGISTRO ESTATAL DE LAS CASAS DE EMPEÑO
 
@@ -3768,10 +4172,6 @@ IV.- Por la reposición del permiso correspondiente, se pagará el importe equiv
 Los derechos se pagarán ante las oficinas autorizadas previamente al inicio del trámite de las solicitudes de permiso, revalidación, modificación o reposición antes descritas.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
-### CAPITULO UNICO
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ## TITULO IV. DE LAS CONTRIBUCIONES ESPECIALES
 
@@ -3864,6 +4264,10 @@ Los aprovechamientos se determinarán conforme a su naturaleza, y lo dispuesto e
 ## TITULO VI. DE LOS PRODUCTOS
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 109.
 
@@ -4344,3 +4748,25 @@ P.O. 20 DE DICIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-804 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS Y DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el 1 de enero de 2024.
+
+###### ARTÍCULO SEGUNDO.
+
+En relación a la Ley de Hacienda para el Estado de Tamaulipas para los efectos del Impuesto Sobre la Prestación de Servicios de Hospedaje, cuya tasa impositiva se establece en 3% para servicios de hospedaje y para las plataformas digitales, se emitirán las reglas de carácter general que regulen los procedimientos de administración y destino del ingreso recaudado por este concepto en general, dentro de los 90 días contados a partir de la entrada en vigor del presente Decreto.
+
+De igual forma, para los efectos de los Impuestos Ambientales de la Emisión de Compuestos y Gases de Efecto Invernadero a la Atmósfera relativo a los artículos del 52 Tervicies al 52 sextricies; dentro de los 90 días contados a partir de la entrada en vigor del presente Decreto se emitirán las reglas de carácter general que regulen los procedimientos de administración y destino del ingreso recaudado por este concepto en general.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo no mayor a 120 días contados a partir de la entrada en vigor del presente Decreto, se realizarán adecuaciones administrativas y normativas necesarias a que haya lugar.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
