@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8048"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-12-28"
-last_updated: "2022-02-22"
+last_updated: "2023-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 28 de diciembre de 1991.
 
@@ -145,7 +145,17 @@ El Ejecutivo del Estado está facultado para conceder participaciones en multas,
 
 Las disposiciones fiscales que establezcan cargas a los particulares y las que señalan excepciones a las mismas, así como las que fijan las infracciones y sanciones, son de aplicación estricta. Se considera que establecen cargas a los particulares las normas que se refieren al sujeto, objeto, base, tasa o tarifa.
 
-Las otras disposiciones fiscales se interpretarán de acuerdo con los fines para los cuales fueron establecidas, pudiendo aplicarse cualquier método de interpretación jurídica. A falta de norma fiscal expresa, la aplicación podrá integrarse considerando disposiciones de derecho común, cuando ésta no sea contraria a la naturaleza del derecho fiscal.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+Las otras disposiciones fiscales se interpretarán de acuerdo con los fines para los cuales fueron establecidas, pudiendo aplicarse cualquier método de interpretación jurídica.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+Se consideran beneficios fiscales cualquier reducción, subsidio, eliminación o diferimiento temporal de una contribución o sus accesorios, que puedan verse aplicados mediante Decretos, Acuerdos Gubernamentales o los que puedan aplicarse por legislación vigente.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+A falta de norma fiscal expresa, la aplicación podrá integrarse considerando disposiciones de derecho común, cuando ésta no sea contraria a la naturaleza del derecho fiscal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -833,6 +843,10 @@ VII.- Quienes conforme a las disposiciones Estatales o Municipales tengan facult
 
 Los actos administrativos realizados por las Autoridades Fiscales señaladas en las fracciones III y IV, quedan sujetos a revisión del Secretario de Hacienda del Estado, quien podrá resolver sobre la procedencia o improcedencia de los mismos, suplir dichos actos u ordenar la reposición del procedimiento.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+También serán autoridades fiscales aquellas que conforme a las leyes y reglamentos les otorguen facultades para determinar contribuciones.
+
 ###### ARTICULO 35.
 
 Las Autoridades Fiscales proporcionarán asistencia gratuita a los contribuyentes y para ello procurarán:
@@ -852,6 +866,18 @@ VI.- Publicar las resoluciones dictadas por las Autoridades Fiscales que estable
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 VII.- Establecer programas de prevención y resolución de problemas de los contribuyentes a fin de que los mismos designen representantes para participar en dichos programas.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+VIII.- Establecerán Programas de Prevención y Resolución de Problemas del Contribuyente, a fin de que los contribuyentes designen síndicos que los representen ante las autoridades fiscales, los cuales podrán solicitar opiniones o recomendaciones a las autoridades fiscales, respecto de los asuntos que les sean planteados por los contribuyentes. Los síndicos deberán reunir los siguientes requisitos:
+
+a) Ser licenciado en derecho, contador público o carrera afín.
+
+b) Contar con reconocida experiencia y solvencia moral, así como con el tiempo necesario para participar con las autoridades fiscales en las acciones que contribuyan a prevenir y resolver los problemas de sus representados.
+
+c) Prestar sus servicios en forma gratuita.
+
+La Secretaría de Finanzas podrá expedir los acuerdos que precisen las funciones de los síndicos, la manera de desarrollarlas, así como los demás aspectos y criterios que considere pertinentes para la debida aplicación y cumplimiento de lo dispuesto en esta fracción.
 
 ###### ARTICULO 36.
 
@@ -943,25 +969,31 @@ III.- Solicitar a la autoridad competente se proceda por desobediencia a un mand
 
 Para efectos de lo dispuesto en este artículo, las autoridades judiciales estatales y los cuerpos de seguridad pública o policiales deberán prestar en forma expedita el apoyo que solicite la autoridad fiscal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 43.
 
-Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos no lo hagan dentro de los plazos señalados en las disposiciones fiscales, las autoridades fiscales exigirán la presentación del documento respectivo ante las oficinas correspondientes, procediendo en forma simultánea o sucesiva a realizar uno o varios de los actos siguientes:
+Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos no lo hagan dentro de los plazos señalados en las disposiciones fiscales, las autoridades fiscales exigirán la presentación del documento respectivo ante las oficinas correspondientes, procediendo de la siguiente forma:
 
-I.- Tratándose de la omisión en la presentación de una declaración para el pago de contribuciones, podrán hacer efectiva al contribuyente o responsable solidario que haya incurrido en la omisión, una cantidad igual a la contribución que hubiera determinado en la última o cualquiera de las seis últimas declaraciones de que se trate o a la que resulte para dichos períodos de la determinación formulada por la autoridad, según corresponda, cuando haya omitido presentar oportunamente alguna declaración subsecuente para el pago de contribuciones propias o retenidas. Esta cantidad a pagar tendrá el carácter de pago provisional y no libera a los obligados de presentar la declaración omitida.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-Cuando la omisión sea de una declaración de la que se conozca de manera fehaciente, la cantidad a la que le es aplicable la tasa o cuota respectiva, la propia Autoridad Fiscal podrá hacer efectiva al contribuyente, con carácter provisional, una cantidad igual a la contribución que a éste corresponda determinar, sin que el pago lo libere de presentar la declaración omitida.
+I.- Imponer la multa que corresponda en los términos de este Código y requerir hasta en tres ocasiones la presentación de la información omitida, otorgando al contribuyente un plazo de quince días para el cumplimiento de cada requerimiento. Si no se atienden los requerimientos se impondrán las multas correspondientes que, tratándose de declaraciones, será una multa por cada obligación omitida. La autoridad, después del tercer requerimiento respecto de la misma obligación, podrá aplicar lo dispuesto en la siguiente fracción.
 
-Si el contribuyente o responsable solidario presenta la declaración omitida antes de que se le haga efectiva la cantidad resultante conforme a lo previsto en esta fracción, queda liberado de hacer el pago determinado provisionalmente. Si la declaración se presenta después de haberse efectuado el pago provisional determinado por la autoridad, éste se disminuirá del importe que se tenga que pagar con la declaración que se presente.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
+II.- Tratándose de la omisión en la presentación de una declaración periódica para el pago de contribuciones, una vez realizadas las acciones previstas en la fracción anterior, podrán hacer efectiva al contribuyente o al responsable solidario que haya incurrido en la omisión, una cantidad igual al monto mayor que hubiera determinado a su cargo en cualquiera de las seis últimas declaraciones de la contribución de que se trate. Esta cantidad a pagar no libera a los obligados de presentar la declaración omitida.
 
-II.- Embargar precautoriamente los bienes o la negociación cuando el contribuyente haya omitido presentar declaraciones en los últimos tres meses o cuando no atienda tres requerimientos de la autoridad en los términos de la fracción III de este artículo por una misma omisión. El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento o dos meses después de practicado si no obstante el incumplimiento, las autoridades fiscales no inician el ejercicio de sus facultades de comprobación.
+Cuando la omisión sea de una declaración de las que se conozca de manera fehaciente la cantidad a la que le es aplicable la tasa o cuota respectiva, la autoridad fiscal podrá hacer efectiva al contribuyente, una cantidad igual a la contribución que a éste corresponda determinar, sin que el pago lo libere de presentar la declaración omitida.
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
+Si la declaración se presenta después de haberse notificado al contribuyente la cantidad determinada por la autoridad conforme a esta fracción, dicha cantidad se disminuirá del importe que se tenga que pagar con la declaración que se presente, debiendo cubrirse, en su caso, la diferencia que resulte entre la cantidad determinada por la autoridad y el importe a pagar en la declaración. En caso de que en la declaración resulte una cantidad menor a la determinada por la autoridad fiscal, la diferencia pagada por el contribuyente únicamente podrá ser compensada en declaraciones subsecuentes.
 
-III.- Imponer la multa que corresponda en los términos de este Código y requerir la presentación del documento omitido en un plazo de quince días para el primer requerimiento y seis días para los subsecuentes requerimientos. Si no se atiende el requerimiento se impondrán multas por cada requerimiento no atendido. La autoridad en ningún caso formulará más de tres requerimientos por una misma omisión.
+La determinación del crédito fiscal que realice la autoridad con motivo del incumplimiento en la presentación de declaraciones en los términos del presente artículo, podrá hacerse efectiva a través del procedimiento administrativo de ejecución a partir del tercer día siguiente a aquél en el que sea notificado el adeudo respectivo, en este caso el recurso de revocación sólo procederá contra el propio procedimiento administrativo de ejecución y en el mismo podrán hacerse valer agravios contra la resolución determinante del crédito fiscal.
 
-En caso de la fracción III y agotados los actos señalados en la misma, se pondrán los hechos en conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legítimo de autoridad competente.
+En caso del incumplimiento a tres o más requerimientos respecto de la misma obligación, se pondrán los hechos en conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legítimo de autoridad competente.
+
+III.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2023)
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -1483,35 +1515,47 @@ Las copias o reproducciones de microfilm de documentos que tengan en su poder la
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 65.
 
-Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro de los treinta días siguientes a aquél en que haya surtido efectos su notificación.
+Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro de los treinta días siguientes a aquél en que haya surtido efectos su notificación, excepto tratándose de créditos fiscales determinados en términos del artículo 43, fracción II de este Código en cuyo caso el pago deberá de realizarse antes de que transcurra el plazo señalado en dicha fracción.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 66.
 
-Las autoridades fiscales, a petición de los contribuyentes podrán autorizar el pago en parcialidades o diferido, de las contribuciones omitidas y de sus accesorios, sin que dicho plazo exceda de veinticuatro meses, de conformidad con lo siguiente:
+Las autoridades fiscales, a petición de los contribuyentes podrán autorizar el pago en parcialidades o diferido, de las contribuciones omitidas y de sus accesorios, sin que dicho plazo exceda de doce meses para pago diferido y veinticuatro meses para pago en parcialidades, de conformidad con:
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 I.- Para el cálculo de las parcialidades se estará a lo siguiente:
 
-La primera parcialidad será el resultado de dividir el saldo del adeudo inicial a la fecha de autorización, entre el número de parcialidades solicitadas.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-El importe de las siguientes parcialidades, se determinará tomando en consideración el saldo del adeudo inicial menos el pago de la primera parcialidad. El importe del pago en cada una de las siguientes parcialidades se integrara de los recargos por prórroga más la amortización del saldo del adeudo actualizado, misma que se ajustará mensualmente a fin de que la suma de los dos conceptos resulten pagos iguales en todas las parcialidades convenidas.
+El pago inicial será el resultado de multiplicar el monto total del crédito fiscal actualizado a la fecha de autorización por el 20%.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+El saldo que se utilizará para el cálculo de las parcialidades será el resultado de disminuir el pago correspondiente al 20% señalado en el párrafo anterior, del monto total del adeudo a que hace referencia dicho párrafo.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+El monto de cada una de las parcialidades deberá ser igual, y pagadas en forma mensual y sucesiva, para lo cual se tomará como base el saldo del párrafo anterior, el plazo autorizado por la autoridad fiscal conforme a la solicitud de pago a plazos y la tasa mensual de recargos por prórroga que incluye actualización de acuerdo a la Ley de Ingresos del Estado vigente en la fecha de la solicitud de autorización del pago a plazo en parcialidades.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
 Para los efectos del párrafo anterior se utilizará el procedimiento de pagos de capital crecientes e intereses decrecientes.
 
-Los recargos por prórroga, se calcularán aplicando la tasa de recargos por prórroga al saldo insoluto del adeudo actualizado.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-El adeudo actualizado se calculará en forma mensual, aplicando el factor promedio de actualización al saldo del mismo.
+Cuando no se paguen oportunamente los montos de los pagos en parcialidades autorizados o se hagan pagos menores al importe de la parcialidad, el contribuyente estará obligado a pagar recargos por los pagos extemporáneos sobre el monto total de las parcialidades no cubiertas actualizadas, de conformidad con los artículos 18-A y 22 de este Código, por el número de meses o fracción de mes desde la fecha en que se debió realizar el pago y hasta que éste se efectúe.
 
-Cuando no se paguen oportunamente las parcialidades autorizadas, el contribuyente deberá pagar recargos por mora sobre el importe total actualizado de la parcialidad no cubierta, desde la fecha en que debió efectuar el pago, hasta cuando este se lleve a cabo.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-Cuando se hagan pagos menores al importe de la parcialidad, el contribuyente deberá pagar recargos por mora sobre el monto de la diferencia actualizado desde la fecha en que se debió efectuar el pago hasta cuando este se lleve a cabo.
+La Secretaría de Finanzas establecerá mediante reglas de carácter general los mecanismos y requisitos necesarios para la aplicación de lo dispuesto en esta fracción.
 
-La Secretaría de Finanzas establecerá mediante reglas de carácter general los mecanismos y requisitos necesarios para la aplicación de lo dispuesto en esta fracción, así mismo, facilitará a los contribuyente (sic) los cálculos que resulten de la aplicación de la misma.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 II.- Cuando se autorice el pago diferido, el contribuyente podrá calcular los recargos correspondientes al periodo autorizado, utilizando la tasa de recargos por prórroga.
 
@@ -1521,11 +1565,15 @@ Cuando no se pague oportunamente el adeudo diferido, el contribuyente deberá pa
 
 Cuando se haga un pago menor al importe del adeudo diferido, el contribuyente deberá pagar recargos por mora sobre la diferencia, desde la fecha en que se autorizó el diferimiento, hasta cuando se lleve a cabo el pago de dicha diferencia.
 
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
 III.- Las autoridades fiscales, para autorizar el pago en forma diferida o en parcialidad, exigirán que se garantice el interés fiscal, en los términos de este Código y de su reglamento.
 
 En el caso de que las garantías ofrecidas sean las únicas que pueda otorgar el contribuyente, las autoridades fiscales podrán autorizar el pago a plazos cuando la garantía sea insuficiente para cubrir el crédito fiscal en los términos del artículo 139 de este Código, siempre que se cumplan con los requisitos que establezca la Secretaría de Finanzas.
 
 Cuando en este último supuesto, las autoridades comprueben que el contribuyente puede ofrecer garantía adicional podrán exigir la ampliación de la garantía sin perjuicio de aplicar las sanciones que procedan. Si el contribuyente no amplía la garantía se estará a lo dispuesto en la fracción IV inciso a) del presente artículo.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 IV.- Quedará revocada la autorización para pagar en forma diferida o en parcialidades, cuando:
 
@@ -1539,7 +1587,11 @@ En los supuestos señalados en los incisos anteriores las autoridades fiscales r
 
 La autoridad fiscal podrá determinar y cobrar el saldo insoluto de las diferencias que resulten por la presentación de declaraciones, en las cuales, sin tener derecho al pago en parcialidades, los contribuyentes hagan uso en forma indebida de dicha facilidad.
 
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
 V.- No procederá la autorización a que se refiere este artículo, tratándose de contribuciones y sus accesorios que debieron pagarse en el año de calendario en curso.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 VI.- Para los efectos de este artículo:
 
@@ -1559,15 +1611,19 @@ c).- El factor promedio de actualización, se obtiene de la sumatoria de los úl
 
 d).- El factor de actualización mensual, se calcula dividiendo el Indice Nacional de Precios al Consumidor de un mes, entre el Indice Nacional de Precios al Consumidor del correspondiente mes inmediato anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 67.
 
-Las facultades de las autoridades fiscales para comprobar el cumplimento de las disposiciones fiscales, determinar las contribuciones omitidas y sus accesorios, así como para imponer sanciones por infracciones a dichas disposiciones, se extinguen en el plazo de 5 años contados a partir del día siguiente a aquel en que:
+Las facultades de las autoridades fiscales para comprobar el cumplimento de las disposiciones fiscales, determinar las contribuciones omitidas y sus accesorios, así como para imponer sanciones por infracciones a dichas disposiciones, caducarán en el plazo de cinco años contados a partir del día siguiente a aquel en que:
 
 Se presentó o debió haberse presentado la declaración o aviso que corresponda a una contribución o a partir de que se causaron las contribuciones cuando no exista la obligación de pagarlas mediante declaración. Cuando se presenten declaraciones complementarias, el plazo empezará a computarse a partir del día siguiente a aquel en que se presenten, por lo que hace a los conceptos modificados.
 
 Se hubiere cometido la infracción a las disposiciones fiscales, pero si la infracción fuese de carácter continuo o continuado, el término correrá a partir del día siguiente en el que hubiere cesado la consumación o se hubiese realizado la última conducta o hecho, respectivamente.
 
-El plazo a que se refiere este artículo será de diez años cuando el contribuyente no haya presentado su solicitud de inscripción en el registro de contribuyentes, no lleve contabilidad estando obligado a ello u omita manifestar la propiedad de un bien afecto al pago de contribuciones.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+El plazo a que se refiere este artículo será de diez años, cuando el contribuyente no haya presentado su solicitud en el registro de contribuyentes, no lleve contabilidad estando obligado a ello o no la conserve durante el plazo que establece este Código, u omita manifestar la propiedad de un bien afecto al pago de contribuciones o no presente alguna declaración del ejercicio, estando obligado a presentarla u omita presentar las declaraciones provisionales.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE 2001)</small>
 
@@ -1631,11 +1687,11 @@ II.- La omisión haya sido corregida por el contribuyente después de que las au
 
 Siempre que se omita el pago de una contribución cuya determinación corresponda a los funcionarios o empleados públicos o a los notarios o corredores titulados, los accesorios serán a cargo exclusivamente de ellos, y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes a quien determinó las contribuciones, los accesorios serán a cargo de los contribuyentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 74.
 
-La Secretaría de Finanzas podrá condonar las multas por infracción a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción.
+La Secretaría de Finanzas podrá reducir las multas por infracción a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -2511,6 +2567,10 @@ IV.- Por edictos, únicamente en el caso de que la persona a quien deba notifica
 
 V.- Por instructivo, solamente en los casos y con las formalidades a que se refiere el segundo párrafo del artículo 136 de este Código.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
+La Secretaría de Finanzas podrá habilitar a terceros para que realicen las notificaciones previstas en la fracción I de este artículo, cumpliendo con las formalidades previstas en este Código y conforme a las reglas generales que para tal efecto establezca dicha Secretaría.
+
 ###### ARTICULO 134.
 
 Las notificaciones surtirán sus efectos el día hábil siguiente a aquel en que fueron hechas y al practicarlas deberá proporcionarse al interesado copia del acto administrativo que se notifique. Cuando la notificación la hagan directamente las autoridades fiscales, deberá señalarse la fecha en que ésta se efectúe, recabando el nombre y la firma de la persona con quien se entienda la diligencia. Si ésta se niega a una u otra cosa, se hará constar en el acta de notificación.
@@ -2551,19 +2611,23 @@ Tratándose de actos relativos al procedimiento administrativo de ejecución, el
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán a cargo de quien incurrió en el incumplimiento los honorarios que establezca el Reglamento de este Código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 137.
 
-Las notificaciones por estrados se harán fijando el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación durante quince días; o publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales. Dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado o publicado, según corresponda; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo sexto día contado a partir del día siguiente a aquél en el que se hubiera fijado o publicado el documento.
+Las notificaciones por estrados se realizarán fijando el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación durante diez días; o publicando el documento citado, durante el mismo plazo en la página electrónica que al efecto establezcan las autoridades fiscales. Dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado o publicado, según corresponda; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo primer día contado a partir del día siguiente a aquél en el que se hubiera publicado el documento.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 138.
 
-Las notificaciones por edictos se harán mediante publicaciones durante dos días consecutivos en el Periódico Oficial del Estado y en uno de los periódicos de mayor circulación en el Estado y contendrá un resumen de los actos que se notifican.
+Las notificaciones por edictos se harán mediante publicaciones en cualquiera de los siguientes medios:
 
-En este caso se tendrá como fecha de notificación la de la última publicación.
+I.- Durante tres días en el Periódico Oficial del Estado.
+
+II.- Durante quince días en la página electrónica que al efecto establezcan las autoridades fiscales.
+
+Se tendrá como fecha de notificación la de la última publicación.
 
 ###### ARTICULO 139.
 
@@ -2621,11 +2685,11 @@ Las garantías constituídas para asegurar el interés fiscal a que se refieren 
 
 Si la garantía consiste en depósito de dinero en la Secretaría o en Institución Nacional de Crédito autorizada, una vez que el crédito fiscal quede firme se ordenará su aplicación por la Secretaría de Finanzas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRAFO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
-###### ARTÍCULO 142.
+###### ARTICULO 142.
 
-No se ejecutarán los actos administrativos cuando se garantice el interés fiscal, satisfaciendo los requisitos legales. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de treinta días siguientes a la fecha en que surta efectos su notificación, si a más tardar al vencimiento del citado plazo de treinta días se acredita la impugnación y se garantiza el interés fiscal satisfaciendo los requisitos legales, se suspenderá el procedimiento administrativo de ejecución hasta que se haga saber la resolución definitiva que recaiga en el recurso o juicio.
+No se ejecutarán los actos administrativos cuando se garantice el interés fiscal, satisfaciendo los requisitos legales. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de treinta días siguientes a la fecha en que surta efectos su notificación, si a más tardar al vencimiento del citado plazo se acredita la impugnación y se garantiza el interés fiscal satisfaciendo los requisitos legales, se suspenderá el procedimiento administrativo de ejecución hasta que se haga saber la resolución definitiva que recaiga en el recurso o juicio.
 
 Cuando en el medio de defensa se impugnen únicamente algunos de los créditos determinados por el acto administrativo, cuya ejecución fue suspendida, se pagarán los créditos fiscales no impugnados con los recargos correspondientes.
 
@@ -3640,3 +3704,25 @@ El presente Decreto entrará en vigor el primero de enero de 2022, previa public
 ###### ARTÍCULO SEGUNDO.
 
 Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
+
+P.O. 23 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-804 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS Y DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el 1 de enero de 2024.
+
+###### ARTÍCULO SEGUNDO.
+
+En relación a la Ley de Hacienda para el Estado de Tamaulipas para los efectos del Impuesto Sobre la Prestación de Servicios de Hospedaje, cuya tasa impositiva se establece en 3% para servicios de hospedaje y para las plataformas digitales, se emitirán las reglas de carácter general que regulen los procedimientos de administración y destino del ingreso recaudado por este concepto en general, dentro de los 90 días contados a partir de la entrada en vigor del presente Decreto.
+
+De igual forma, para los efectos de los Impuestos Ambientales de la Emisión de Compuestos y Gases de Efecto Invernadero a la Atmósfera relativo a los artículos del 52 Tervicies al 52 sextricies; dentro de los 90 días contados a partir de la entrada en vigor del presente Decreto se emitirán las reglas de carácter general que regulen los procedimientos de administración y destino del ingreso recaudado por este concepto en general.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo no mayor a 120 días contados a partir de la entrada en vigor del presente Decreto, se realizarán adecuaciones administrativas y normativas necesarias a que haya lugar.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
