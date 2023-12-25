@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-131954
 country: "mx"
 rank: "codigo"
 publication_date: "2018-11-29"
-last_updated: "2018-11-29"
+last_updated: "2023-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DEL INSTITUTO DEL DEPORTE DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DEL INSTITUTO DEL DEPORTE DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 25 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DEL INSTITUTO DEL DEPORTE DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2023 (DEROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 29 de noviembre de 2018.
 
@@ -330,3 +332,29 @@ Obligación de los gobiernos de dar cuenta a la ciudadanía de los actos relacio
 Se firma y expide el presente "Código de Conducta y Prevención de Conflictos de Interés del Instituto del Deporte de Tamaulipas" por los integrantes de la Junta Directiva del Instituto del Deporte de Tamaulipas, en ciudad Victoria, Tamaulipas, el día ocho del mes de agosto del año dos mil dieciocho.
 
 El Encargado de la Secretaría De Bienestar Social, en funciones de Presidente de la Junta Directiva.- Presidente Suplente.- Lic Álvaro Humberto Barrientos Barrón.- Rúbrica.- Titular de la Unidad de Entidades y Fideicomisos, en suplencia de la C.P. María de Lourdes Arteaga Reyna, Secretaria de Finanzas del Estado de Tamaulipas, Integrante Titular de esta Junta Directiva.- Integrante Suplente.- C.P. Carlos Valdés Suárez.- Rúbrica.- Director Administrativo, en suplencia del Lic. Miguel Ángel Villarreal Ongay, Secretario de Administración del Estado de Tamaulipas, Integrante Titular de esta Junta Directiva.- Integrante Suplente.- Lic. Roberto Guerra Gómez.- Rúbrica.- en suplencia del Dr. Héctor Escobar Salazar, Secretario de Educación, Integrante Titular de esta Junta Directiva.- Integrante Suplente.- Lic. Celia Andrea Villanueva Morales.- Rúbrica.- Subsecretario de Salud, en suplencia de la Dra. Gloria de Jesús Molina Gamboa Secretaria de Salud, Integrante Titular de esta Junta Directiva.- Integrante Suplente.- Dr. Alejandro García Barrientos.- Rúbrica.- Firmas de asistencia con voz, pero sin voto.- Director General del Instituto del Deporte de Tamaulipas, Secretario Técnico de la Junta Directiva.- Lic. Carlos Fernández Altamirano.- Rúbrica.- Director Administrativo del Instituto del Deporte de Tamaulipas.- Lic. Ricardo Escobar Ramírez.- Rúbrica.- Comisario del Instituto del Deporte de Tamaulipas.- C.P. Jorge Luis García Patiño.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRASCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DEL INSTITUTO DEL DEPORTE DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código de Conducta y Prevención de Conflictos de Interés del Instituto del Deporte de Tamaulipas, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Código de Conducta y Prevención de Conflictos de Interés del Instituto del Deporte de Tamaulipas, publicado en el Periódico Oficial del Estado Número 144, Tomo CXLIII, el día jueves 29 de noviembre de 2018.
+
+###### ARTÍCULO TERCERO.
+
+Los casos no previstos en este Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos del Instituto del Deporte de Tamaulipas, serán resueltos por el Comité de Ética, Conducta y Prevención de Conflictos de Interés del Instituto del Deporte de Tamaulipas, a propuesta de su presidente o presidenta.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos administrativos que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Código, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento en que se iniciaron tales procedimientos.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos del Instituto del Deporte de Tamaulipas.
