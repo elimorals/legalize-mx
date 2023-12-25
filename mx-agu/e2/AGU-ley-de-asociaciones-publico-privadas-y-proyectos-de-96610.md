@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-asociaciones-publico-privadas-y-proyectos-de-96610"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-11"
-last_updated: "2018-04-09"
+last_updated: "2023-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE ASOCIACIONES PÚBLICO-PRIVADAS Y PROYECTOS DE PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 11 de noviembre de 2013.
 
@@ -133,13 +133,25 @@ q) Proyecto: Los servicios y actividades a que se refiere el Artículo 5° de es
 
 r) Reglamento: El Reglamento de la Presente Ley;
 
-> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-s) Secretaría: La Secretaría de Finanzas del Estado de Aguascalientes; y
+s) Secretaría: La Secretaría de Finanzas del Estado de Aguascalientes;
 
-> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-t) Secretaría de Finanzas Municipal y/o Tesorería: La Secretaría de Finanzas Municipal o la Tesorería Municipal.
+t) Secretaría de Finanzas Municipal y/o Tesorería: La Secretaría de Finanzas Municipal o la Tesorería Municipal;
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+u) Concursante: La persona que participa en algún concurso que tenga por objeto la adjudicación de un proyecto de asociación público-privada;
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+v) Convocante: La autoridad estatal o municipal que convoque a un concurso para adjudicar un proyecto de asociación público-privada; y
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+w) Promotor: La persona que promueve, ante una autoridad estatal o municipal, un proyecto de asociación público-privada.
 
 ###### ARTÍCULO 3º.
 
@@ -184,6 +196,10 @@ c) Operación, mantenimiento y conservación de infraestructura y, en su caso, s
 d) Suministro y reposición de bienes muebles.
 
 Adicionalmente, en su caso, los proyectos podrán incluir el suministro, abastecimiento, proveeduría o consumo de cualquiera de los servicios básicos incluidos dentro de la clasificación del gasto corriente, siempre que se deriven, se vinculen, se integren o, en cualquier forma, se relacionen con cualquiera de las actividades que se señalan en este Artículo de manera tal de lograr su integralidad para que ningún proceso que pudiera quedar fuera detenga la realización del proyecto.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+Cualquier interesado en realizar un proyecto de asociación público-privada podrá presentar su propuesta a la dependencia o entidad estatal y/o municipal competente.
 
 ###### ARTÍCULO 6º.
 
@@ -753,13 +769,91 @@ IV. A las demás disposiciones de la Ley que resulten aplicables a la licitació
 
 En el supuesto de que un procedimiento de invitación a cuando menos tres personas haya sido declarado desierto, el titular de la convocante podrá adjudicar directamente el contrato siempre que no se modifiquen los requisitos establecidos en dichas invitaciones.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+## TÍTULO SEXTO BIS. PROPUESTAS NO SOLICITADAS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO ÚNICO. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 45 A.- Cualquier persona interesada en realizar un proyecto de Asociación Público Privada podrá presentar su propuesta no solicitada a las Autoridades Estatales o Municipales Contratantes competentes.
+
+Las propuestas no solicitadas a que se refiere el párrafo anterior, deberán cumplir los requisitos siguientes:
+
+I. Se presentarán acompañadas con el estudio preliminar de factibilidad, que deberá incluir los aspectos siguientes:
+
+a) Descripción del proyecto propuesto, con sus características y viabilidad técnicas.
+
+b) Descripción de los permisos, licencias, autorizaciones y concesiones que, en su caso, resultarían necesarios para desarrollar el proyecto, con especial atención en las autorizaciones de uso de suelo.
+
+c) La viabilidad económica, financiera y jurídica del proyecto.
+
+d) La justificación socioeconómica del proyecto.
+
+e) Las estimaciones de inversión y aportaciones, en efectivo y en especie, tanto del Estado o de los municipios, como de particulares, en las que se haga referencia al costo estimado de adquisición de los inmuebles, bienes y derechos necesarios para el proyecto.
+
+f) Las características esenciales del contrato de Asociación Público Privada a celebrar.
+
+II. No se trate de propuestas presentadas previamente.
+
+El Reglamento señalará los alcances de los requisitos mencionados en las fracciones del párrafo anterior, sin que puedan establecerse requisitos adicionales.
+
+Si la propuesta no solicitada incumple alguno de los requisitos a que se refiere este artículo, o los estudios se encuentran incompletos, no será analizada.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 45 B.- Para efectos del artículo anterior, las Autoridades Estatales o Municipales Contratantes podrán publicar en su página oficial de internet, el acuerdo mediante el cual determinen las propuestas no solicitadas de proyectos de Asociación Público Privada que estarán dispuestos a recibir, señalando los sectores, subsectores, ámbitos geográficos, tipo de proyectos y demás elementos que correspondan, así como su vinculación con los objetivos estatales y municipales, estrategias y prioridades contenidas en el Plan Estatal de Desarrollo y los Planes Municipales de Desarrollo. En estos casos, solo se analizarán las propuestas que atiendan los elementos citados.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 45 C.- Las propuestas no solicitadas que cumplan con los requisitos señalados en el presente Capítulo, serán analizadas y evaluadas por las Autoridades Estatales o Municipales Contratantes conforme a lo siguiente:
+
+I. La Autoridad Estatal o Municipal Contratante que la reciba confirmará si es competente para conocer de la misma y, en caso contrario, la remitirá a otro ente del sector público que sí lo sea.
+
+II. La Autoridad Estatal o Municipal Contratante competente, contará con un plazo de hasta tres meses a partir de que reciba la propuesta no solicitada para llevar a cabo su análisis y evaluación, pudiendo prorrogarse el plazo hasta por dos meses más cuando así lo requiera la complejidad del proyecto y se haga del conocimiento del Promotor.
+
+III. La Autoridad Estatal o Municipal Contratante competente, podrá requerir al Promotor aclaraciones o información adicional, o podrá el mismo realizar los estudios complementarios necesarios.
+
+IV. Si el Promotor no proporciona la información requerida sin causa justificada, se dará por concluido el trámite y la propuesta no solicitada no será analizada.
+
+V. La Autoridad Estatal o Municipal Contratante competente, podrá invitar a participar en la evaluación de la propuesta no solicitada a otros entes estatales o municipales que tengan vinculación con el proyecto y posible interés en el mismo.
+
+VI. Para la evaluación de la propuesta no solicitada, deberá considerarse entre otros aspectos, la alineación a los objetivos, metas y estrategias previstas en los Planes Estatal o Municipales de Desarrollo, la rentabilidad social del proyecto y las estimaciones de inversiones y aportaciones.
+
+VII. Transcurrido el plazo para el análisis y evaluación de la propuesta no solicitada, el Ente Público competente emitirá la opinión que corresponda y se pronunciará sobre la procedencia del proyecto, también acerca del impulso que se le dará al desarrollo del mismo.
+
+La presentación de propuestas no solicitadas no será vinculante para el Ente Público competente y solo da derecho al Promotor a que el aludido Ente las analice y evalúe.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 45 D.- Según el sentido de la opinión emitida, se estará a lo siguiente:
+
+I. Si el proyecto de la propuesta no solicitada no se considera procedente por no ser de interés público, por razones presupuestarias o por cualquier otra razón, el Ente Público competente comunicará al Promotor las razones de su improcedencia, y la propuesta no solicitada le será devuelta sin ninguna otra responsabilidad para el aludido Ente.
+
+II. Si el proyecto de la propuesta no solicitada se considera procedente, pero no existen condiciones para su desarrollo, la Autoridad Estatal o Municipal Contratante, podrá ofrecer al Promotor adquirir los estudios y análisis realizados, junto con los derechos de autor y de propiedad industrial correspondientes, mediante el reembolso total o parcial de los gastos generados, siempre y cuando esa adquisición reporte un beneficio para el aludido Ente.
+
+III. Si el proyecto de la propuesta no solicitada se considera procedente y se decide impulsar su desarrollo, la Autoridad Estatal o Municipal Contratante procederá a preparar el proyecto de conformidad con lo previsto en la presente Ley.
+
+IV. En caso de que el Promotor no resulte ser el Desarrollador del proyecto, la Autoridad Estatal o Municipal Contratante, entregará al mismo un certificado en el que se indicará el nombre del beneficiario, monto, plazo, así como el monto por los gastos incurridos derivados de los estudios y análisis realizados los cuales deberán estar debidamente acreditados por el Promotor y las demás condiciones a reembolsar, a efecto de que el Desarrollador cubra el pago, mismo que deberá preverse en los documentos que rijan el procedimiento de contratación. La entrega del certificado lleva implícita la cesión de todos los derechos relativos a los estudios presentados a favor de la Autoridad Estatal y Municipal Contratante.
+
+La opinión por la cual un proyecto de la propuesta no solicitada se considere o no procedente y, en su caso, se decida o no impulsar su desarrollo, no representa un acto de autoridad y contra ella no procederá instancia ni medio de defensa alguno.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 45 E.- Cuando un proyecto de una propuesta no solicitada propuesto por un Promotor, sea considerado procedente por la Autoridad Estatal o Municipal Contratante y este decida impulsar su desarrollo, la preparación del mismo se realizará conforme a lo previsto en el Título Cuarto de la presente Ley y las disposiciones siguientes:
+
+I. El Promotor estará obligado a proporcionar a la Autoridad Estatal o Municipal Contratante, la documentación e información relacionada con el proyecto de la propuesta no solicitada que sea necesaria para su preparación y, en su caso, para la adjudicación del contrato correspondiente, en el entendido de que, si para ello incurre en costos o gastos adicionales, será modificado el certificado a que hace referencia el artículo 57 de la presente Ley.
+
+II. Si el proyecto de la propuesta no solicitada no es autorizado por la Secretaría o la Secretaría de Finanzas Municipal y/o Tesorería, según corresponda, por causas imputables al Promotor, este perderá en favor de la Autoridad Estatal o Municipal Contratante todos sus derechos sobre los estudios presentados y cancelará el certificado a que se refiere el artículo 57 de la presente Ley.
+
+III. Si el proyecto de la propuesta no solicitada no es autorizado por el Congreso por causas no imputables al Promotor, se cancelará el certificado a que se refiere el artículo 57 de la presente Ley. En consecuencia, la Autoridad Estatal o Municipal Contratante deberá devolver al Promotor los estudios que este haya presentado o, en su caso, ofrecer su adquisición con base en la presente ley.
+
 ## TÍTULO SÉPTIMO. DE LOS CONTRATOS
 
 ### CAPÍTULO I. De las Características Generales
-
-## TÍTULO OCTAVO. DE LA INFORMACIÓN Y VERIFICACIÓN
-
-### CAPÍTULO II. De las Adecuaciones, Modificaciones y Prórrogas
 
 ###### ARTÍCULO 46.
 
@@ -835,7 +929,7 @@ Los pagos de recuperación de la inversión señalados en la Fracción XVI del A
 
 En el caso de la rescisión, los pagos de recuperación de la inversión se realizarán una vez hechos los descuentos por la aplicación de las penas convencionales pactadas.
 
-### CAPÍTULO III. De la Terminación y Rescisión del Contrato
+### CAPÍTULO II. De las Adecuaciones, Modificaciones y Prórrogas
 
 ###### ARTÍCULO 50.
 
@@ -847,7 +941,7 @@ Cuando en la ejecución del Contrato se presenten causas que ameriten su modific
 
 En el caso de que las modificaciones afecten el plazo y monto de los Pagos Plurianuales y la Garantía de Pago autorizado por el Congreso, la autoridad contratante deberá contar con la aprobación de la Comisión correspondiente. Tratándose de aquellas decretadas por las autoridades señaladas en la Fracción II del Artículo 1º de la Ley, se requerirá además contar con la autorización de las dos terceras partes de los miembros del Ayuntamiento. Para su posterior sometimiento a la autorización del Congreso del aumento en el plazo y monto de los Pagos Plurianuales y la Garantía de Pago.
 
-### CAPÍTULO IV. Del Control y Registro de los Contratos
+### CAPÍTULO III. De la Terminación y Rescisión del Contrato
 
 ###### ARTÍCULO 52.
 
@@ -879,9 +973,7 @@ En este supuesto, el Inversionista Prestador tendrá derecho a los pagos estable
 
 A la terminación o rescisión del contrato, los inmuebles, bienes y derechos, incorporados a la infraestructura o indispensables para la prestación del servicio, pasarán al dominio, control y administración de la autoridad contratante.
 
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
+### CAPÍTULO IV. Del Control y Registro de los Contratos
 
 ###### ARTÍCULO 57.
 
@@ -895,11 +987,11 @@ Una vez celebrados los Contratos, deberá inscribirse el Proyecto en la sección
 
 Dentro de los diez días posteriores a partir de su inscripción en el Registro Público Único, la autoridad contratante deberá publicar en su página oficial de Internet dichos Contratos. Asimismo, la autoridad contratante presentará en los informes trimestrales a que se refiere la Ley General de Contabilidad Gubernamental y en su respectiva cuenta pública, la información detallada de cada Proyecto, incluyendo como mínimo, el importe y plazo pactados.
 
-## TÍTULO NOVENO. DE LAS INFRACCIONES Y SANCIONES
+## TÍTULO OCTAVO. DE LA INFORMACIÓN Y VERIFICACIÓN
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 59.
 
@@ -921,11 +1013,11 @@ Las inspecciones se practicarán en días y horas hábiles por personal autoriza
 
 El resultado de la inspección se hará constar en acta que será firmada por la persona que la practicó, aquélla con quien se atendió la diligencia y dos testigos propuestos por ésta o en caso de no hacerlo, por los que designe quien la realizó. Del acta se dejará copia a la persona con quien se entendió la diligencia aun cuando se hubiese negado a firmarla, lo que no afectará su validez.
 
-## TÍTULO DÉCIMO. DE LA SOLUCIÓN DE CONTROVERSIAS
+## TÍTULO NOVENO. DE LAS INFRACCIONES Y SANCIONES
 
-### CAPÍTULO I. De la Instancia de Inconformidad
+### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 62.
 
@@ -983,7 +1075,9 @@ V. Cuando un Inversionista Prestador reciba de la Contraloría o de las Contralo
 
 La inhabilitación que se imponga a determinado Inversionista Prestador no podrá ser menor a seis meses ni mayor a treinta y seis meses, independientemente de las sanciones a las que se pudiere hacer acreedor, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la Contraloría o las Contralorías Municipales la hagan del conocimiento de las autoridades contratantes, mediante la publicación de la circular respectiva en el Periódico Oficial del Gobierno del Estado.
 
-### CAPÍTULO II. Del Procedimiento de Conciliación
+## TÍTULO DÉCIMO. DE LA SOLUCIÓN DE CONTROVERSIAS
+
+### CAPÍTULO I. De la Instancia de Inconformidad
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
 
@@ -1019,7 +1113,9 @@ En todos los casos en que se trate de licitantes que hayan presentado proposici�
 
 Las denuncias por inconformidades deberán presentarse en los términos previstos en el Título Quinto, Capítulo I de la Ley Patrimonial. El procedimiento para emitir la resolución correspondiente por parte de la Contraloría o Contraloría Municipal según corresponda, deberá apegarse al procedimiento establecido en dicho Título. En contra de estas resoluciones, los agraviados podrán presentar el recurso previsto en el Capítulo II de este Título.
 
-### CAPÍTULO III. Del Arbitraje, otros Mecanismos de Solución de Controversias y Competencia Judicial
+### CAPÍTULO II. Del Procedimiento de Conciliación
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 70.
 
@@ -1030,6 +1126,8 @@ En cualquier momento los Inversionistas Prestadores o las autoridades contratant
 Una vez recibida la solicitud respectiva, la Contraloría o la Contraloría Municipal, señalará día y hora para que tenga verificativo la audiencia de conciliación y citará a las partes. Dicha audiencia se deberá iniciar dentro de los quince días hábiles siguientes a la fecha de recepción de la solicitud.
 
 La asistencia a la audiencia de conciliación será obligatoria para ambas partes, por lo que la inasistencia por parte del Inversionista Prestador traerá como consecuencia tener por no presentada su solicitud.
+
+### CAPÍTULO III. Del Arbitraje, otros Mecanismos de Solución de Controversias y Competencia Judicial
 
 ###### ARTÍCULO 71.
 
@@ -1166,3 +1264,19 @@ Se Derogan todas las disposiciones normativas y/o reglamentarias que se opongan 
 ###### ARTÍCULO TERCERO.
 
 A la fecha de entrada en vigor del presente Decreto, todas la (sic) menciones a la Ley de Proyectos de Prestación de Servicios del Estado y Municipios de Aguascalientes, previstas en otras legislaciones, así como en cualquier disposición jurídica, se entenderán referidas a la Ley de Asociaciones Público- Privadas y Proyectos de Prestación de Servicios del Estado y Municipios de Aguascalientes.
+
+P.O. 25 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 563.- SE REFORMA LA LEY DE ASOCIACIONES PÚBLICO-PRIVADAS Y PROYECTOS DE PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Queda (sic) sin efectos todas aquellas disposiciones que se opongan al presenten Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado y los Ayuntamientos de la Entidad, dentro de los 90 días siguientes a la publicación de las presentes reformas, deberán realizar las modificaciones correspondientes a su normatividad reglamentaria conforme a las disposiciones del presente Decreto.
