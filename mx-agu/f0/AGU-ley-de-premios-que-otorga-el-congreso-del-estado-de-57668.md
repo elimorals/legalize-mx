@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-premios-que-otorga-el-congreso-del-estado-de-57668"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2022-12-26"
+last_updated: "2023-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -113,13 +113,17 @@ XII. Medalla "María del Carmen Martín del Campo Ramírez";
 
 XIII. Medalla “3 de diciembre. Día Internacional de las Personas con Discapacidad”;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-XIV. Medalla “Antonio Acevedo Escobedo”; y
+XIV. Medalla “Antonio Acevedo Escobedo”;
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-XV. Medalla “Carolina Villanueva de García”.
+XV. Medalla “Carolina Villanueva de García”; y
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+XVI. Medalla “Dolores Castro Varela”.
 
 El Congreso del Estado podrá otorgar reconocimientos especiales propuestos por alguno de los Diputados integrantes de la Legislatura.
 
@@ -155,9 +159,11 @@ La Medalla "José María Bocanegra", se otorgará a quienes por sus acciones, po
 
 #### Sección IV. Medalla "José Guadalupe Posada"
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 9°.
 
-La Medalla "José Guadalupe Posada", se otorgará a quienes por sus acciones, producciones o trabajos se destaquen en la disciplina de las artes visuales, literarias, teatrales y de danza.
+La Medalla “José Guadalupe Posada”, se otorgará a quienes por sus acciones, producciones o trabajos se destaquen en la disciplina de las artes visuales, teatrales y de danza.
 
 #### Sección V. Medalla "Palmas Académicas"
 
@@ -242,6 +248,14 @@ ARTÍCULO 12 H.- Esta medalla se entregará a quienes se distingan, en el uso ef
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2022)</small>
 
 ARTÍCULO 12 I.- Esta medalla se otorgará a las Personas Morales con Fines No Lucrativos que estén legalmente constituidas, con presencia en el Estado, que hayan presentado y demostrado hechos altruistas de alto impacto en beneficio de personas vulnerables.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+#### Sección XVI. Medalla “Dolores Castro Varela”
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 12 J.- La Medalla “Dolores Castro Varela”, se otorgará a quienes por sus acciones, producciones o trabajos se destaquen en la disciplina de la literatura.
 
 ### CAPÍTULO III. De La Comisión De Postulaciones
 
@@ -450,3 +464,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Respecto de la Medalla que establece el Artículo 12 I, del presente Decreto, por acuerdo de la Comisión de Postulaciones, se podrá otorgar un estímulo económico de acuerdo a la disponibilidad presupuestaria, previa autorización del Comité de Administración.
+
+P.O. 25 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 569.- SE REFORMA LA LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES".]
+
+ÚNICO.- El presente decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
