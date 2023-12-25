@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-desarrollo-agricola-del-estado-de-aguascalientes-12
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-20"
-last_updated: "2023-07-24"
+last_updated: "2023-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL DESARROLLO AGRÍCOLA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 20 de junio de 2018.
 
@@ -177,149 +177,301 @@ VI A. Agricultura regenerativa: Conjunto de prácticas agrícolas y de pastoreo 
 
 V. Agente Patogénico: Microorganismo capaz de causar enfermedades a los vegetales;
 
-VI. Agroindustrias: Conjunto de operaciones materiales ejecutadas para la obtención, transformación o movilización de productos agrícolas, y las instalaciones destinadas a ello;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-VII. Agroquímicos: Sustancias químicas utilizadas en la producción agrícola;
+VI. Agricultura familiar: Es la que realizan las personas, independientemente de régimen de propiedad de la tierra, con el trabajo preponderante del núcleo familiar, usando y transformando los recursos naturales para la obtención de productos agrícolas.
 
-VIII. Análisis, Evaluación y Manejo de Riesgo de Plagas: Determinación del potencial de daño de una plaga o enfermedad, en términos cuantitativos o cualitativos;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-IX. Asistencia técnica: Conjunto de acciones de apoyo, orientación y asesoría continuas, programadas y actualizadas por la experiencia y la investigación, que tienden a mejorar los niveles de producción y productividad;
+VII. Agricultura urbana y periurbana: micro producción y cultivo de plantas, verduras o frutos en el interior de las ciudades a escala reducida que puede desarrollarse en traspatios, techos, paredes, balcones, terrazas, puentes, calles, viviendas, pequeñas parcelas, patios y/o jardines.
 
-X. Autoridades: Todos los mencionados en el artículo 7° de esta Ley;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-XI. Auxiliares: Todos los mencionados en el artículo 24 de esta Ley;
+VIII. Agroindustrias: Conjunto de operaciones materiales ejecutadas para la obtención, transformación o movilización de productos agrícolas, y las instalaciones destinadas a ello;
 
-XII. Biotecnología: Toda aplicación tecnológica que utilice sistemas biológicos y organismos vivos o sus derivados para la creación, modificación o procesos empleados en la producción, acopio, transformación, industrialización y/o comercialización de especies vegetales, sus productos y subproductos;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-XIII. Buenas Prácticas Agrícolas: Conjunto de medidas higiénico-sanitarias mínimas que se realizan en el sitio y las unidades de producción primaria de especies vegetales, para asegurar que en ella se minimiza la posibilidad de contaminación física, química y microbiológica;
+IX. Agroquímicos: Sustancias químicas utilizadas en la producción agrícola;
 
-XIV. Buen Uso y Manejo de Agroquímicos: Conjunto de medidas y procedimientos en el uso y manejo de agroquímicos para evitar daños a la salud y el medio ambiente;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-XV. Cadena Productiva Agrícola: Proceso que sigue un producto agrícola desde la fase de producción, transformación y comercialización, hasta llegar al consumidor final;
+X. Análisis, Evaluación y Manejo de Riesgo de Plagas: Determinación del potencial de daño de una plaga o enfermedad, en términos cuantitativos o cualitativos;
 
-XVI. Campaña Fitosanitaria: Conjunto de medidas y acciones realizadas para la prevención, control, combate y erradicación de plagas y enfermedades que afectan a los cultivos y plantaciones agrícolas y ornamentales en una área geográfica determinada;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-XVII. CEAA: Consejo Estatal Agropecuario de Aguascalientes, A.C.;
+XI. Asistencia técnica: Conjunto de acciones de apoyo, orientación y asesoría continuas, programadas y actualizadas por la experiencia y la investigación, que tienden a mejorar los niveles de producción y productividad;
 
-XVIII. Certificado Fitosanitario: Documento oficial expedido por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación o las personas acreditadas y aprobadas para tal efecto, que constata el cumplimiento de las disposiciones legales aplicables en materia de sanidad vegetal a que se sujetan la producción, industrialización, comercialización, movilización e importación o exportación de especies vegetales, así como sus productos o subproductos, que representen un riesgo fitosanitario;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-XIX. CESVA: Comité Estatal de Sanidad Vegetal de Aguascalientes, A.C.;
+XII. Autoridades: Todos los mencionados en el artículo 7° de esta Ley;
 
-XX. Consejo: Consejo Estatal para el Desarrollo Rural Sustentable de Aguascalientes;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-XXI. Control Biológico: Método de control de plagas, enfermedades y malezas que consisten en utilizar organismos vivos con el objeto de controlar las poblaciones de otro (sic) organismos;
+XIII. Auxiliares: Todos los mencionados en el artículo 24 de esta Ley;
 
-XXII. Cuarentenas: Restricciones a la movilización de mercancías, que se establecen en las disposiciones legales aplicables en materia de sanidad vegetal, con el propósito de prevenir o retardar la introducción de plagas y enfermedades en áreas donde se sabe que no existen. Por sus objetivos podrán ser exteriores, si previenen la introducción y presencia de plagas exóticas, o interiores, si retardan la propagación, controlan o erradican cualquier plaga y enfermedad que se haya introducido;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-XXIII. Desarrollo Sustentable: Proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, fundado en medidas adecuadas de preservación del equilibrio ecológico, la biodiversidad, la protección del ambiente y el aprovechamiento racional de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
+XIV. Biotecnología: Toda aplicación tecnológica que utilice sistemas biológicos y organismos vivos o sus derivados para la creación, modificación o procesos empleados en la producción, acopio, transformación, industrialización y/o comercialización de especies vegetales, sus productos y subproductos;
 
-XXIV. Distintivo: Distintivo Estatal Agrícola;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-XXV. Emergencia de Sanidad Vegetal: Situación de peligro o desastre ocasionada por la presencia y propagación, actual o potencial, de plagas, enfermedades o agentes patogénicos, contaminantes o cualquier otro factor que eleve, por encima de lo aceptable, el Riesgo Fitosanitario;
+XV. Buenas Prácticas Agrícolas: Conjunto de medidas higiénico-sanitarias mínimas que se realizan en el sitio y las unidades de producción primaria de especies vegetales, para asegurar que en ella se minimiza la posibilidad de contaminación física, química y microbiológica;
 
-XXVI. Estado: Estado Libre y Soberano de Aguascalientes;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-XXVII. Especies Vegetales: Grupos de organismos propios de un género perteneciente a la categoría taxonómica de las plantas, que comparten caracteres genéricos y específicos que los distinguen, cultivados en el Estado;
+XVI. Buen Uso y Manejo de Agroquímicos: Conjunto de medidas y procedimientos en el uso y manejo de agroquímicos para evitar daños a la salud y el medio ambiente;
 
-XXVIII. Erradicación: Aplicación de medidas fitosanitarias tendientes a eliminar la presencia de plagas y enfermedades en un área geográfica determinada;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-XXIX. Fertilizantes Orgánicos: Abonos de origen natural que provienen de restos tratados de alimentos, animales y vegetales, así como de los residuos de cultivos y de cualquier fuente orgánica o natural, que aumentan la fertilidad y ayudan a mejorar la calidad del suelo o del cultivo;
+XVII. Cadena Productiva Agrícola: Proceso que sigue un producto agrícola desde la fase de producción, transformación y comercialización, hasta llegar al consumidor final;
 
-XXX. Inocuidad: Conjunto de medidas implementadas para garantizar la seguridad e higiene de los productos y subproductos agrícolas, y que no afectarán la salud del consumidor;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-XXXI. Inspección: Acto que practica la Secretaría de Desarrollo Rural y Agroempresarial para constatar, mediante verificación asentada en el acta administrativa que para tales efectos se levante, el cumplimiento de las disposiciones legales aplicables en materia de sanidad agrícola y de sistemas de reducción de riesgos de contaminación en las actividades agrícolas, con el propósito de aplicar las medidas fitosanitarias pertinentes e imponer, en caso de incumplimiento, las sanciones administrativas correspondientes;
+XVIII. Campaña Fitosanitaria: Conjunto de medidas y acciones realizadas para la prevención, control, combate y erradicación de plagas y enfermedades que afectan a los cultivos y plantaciones agrícolas y ornamentales en un área geográfica determinada;
 
-XXXII. Inspector Agrícola: Ciudadano mexicano, preferentemente ingeniero agrónomo o perfil académico análogo, autorizado y acreditado por la Secretaría para realizar actividades de verificación en los términos de esta Ley, también denominados Oficiales Estatales;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-XXXIII. Instrumentos Económicos de Apoyo: Los enumerados en el artículo 78 de la presente Ley;
+XIX. CEAA: Consejo Estatal Agropecuario de Aguascalientes, A.C.;
 
-XXXIV. Insumos Agrícolas: Todos aquellos elementos empleados en los procesos que sigue un producto agrícola desde la fase de producción, transformación y comercialización, hasta llegar al consumidor final;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-XXXV. Insumos Desinfectantes o Sanitizantes: Todos aquellos elementos, químicos u orgánicos, que eliminan contaminantes biológicos en superficies vivas e inertes;
+XX. Certificado Fitosanitario: Documento oficial expedido por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación o las personas acreditadas y aprobadas para tal efecto, que constata el cumplimiento de las disposiciones legales aplicables en materia de sanidad vegetal a que se sujetan la producción, industrialización, comercialización, movilización e importación o exportación de especies vegetales, así como sus productos o subproductos, que representen un riesgo fitosanitario;
 
-XXXVI. Insumo Fitosanitario: Todos aquellos elementos empleados en el control de plagas y enfermedades de los productos y subproductos agrícolas, tales como plaguicidas, fertilizantes orgánicos, agentes de control biológico, feromonas, atrayentes, coadyuvantes y variedades de plantas cultivadas resistentes a plagas y enfermedades;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-XXXVII. Insumos de Nutrición Vegetal: Todos aquellos elementos empleados para el aumento de la sustancia y el desarrollo de los productos y subproductos agrícolas, mediante su alimentación;
+XXI. CESVA: Comité Estatal de Sanidad Vegetal de Aguascalientes, A.C.;
 
-XXXVIII. ISSEA: Instituto de Servicios de Salud del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-XXXIX. Ley: La Ley para el Desarrollo Agrícola del Estado de Aguascalientes;
+XXII. Consejo: Consejo Estatal para el Desarrollo Rural Sustentable de Aguascalientes;
 
-XL. Medidas Fitosanitarias: Todas aquellas establecidas en esta Ley, en la Ley Federal de Sanidad Vegetal, en las Normas Oficiales Mexicanas, en las Normas Mexicanas y en las demás disposiciones aplicables, para conservar y proteger a los cultivos y plantaciones agrícolas, sus productos o subproductos de cualquier tipo de daño producido por las plagas o enfermedades que los afecten;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-XLI. Movilización: Transportación o traslado de productos o subproductos agrícolas de un lugar a otro;
+XXIII. Control Biológico: Método de control de plagas, enfermedades y malezas que consisten en utilizar organismos vivos con el objeto de controlar las poblaciones de otro (sic) organismos;
 
-XLII. NOM: Normas Oficiales Mexicanas en materia agrícola y de sanidad vegetal de carácter obligatorio, expedidas por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, en términos de la Ley Federal de Sanidad Vegetal y conforme al procedimiento previsto en la Ley Federal sobre Metrología y Normalización;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-XLIII. Organismos Genéticamente Modificados: Cualquier ser vivo que posea una combinación de material genético que se haya obtenido mediante la aplicación de biotecnología moderna;
+XXIV. Cuarentenas: Restricciones a la movilización de mercancías, que se establecen en las disposiciones legales aplicables en materia de sanidad vegetal, con el propósito de prevenir o retardar la introducción de plagas y enfermedades en áreas donde se sabe que no existen. Por sus objetivos podrán ser exteriores, si previenen la introducción y presencia de plagas exóticas, o interiores, si retardan la propagación, controlan o erradican cualquier plaga y enfermedad que se haya introducido;
 
-XLIV. Organizaciones Agrícolas: Asociaciones, cámaras y uniones nacionales, regionales y locales legalmente constituidas, tanto generales como especializadas, de Personas físicas o morales que, directa o indirectamente, se dediquen a la producción, acopio, transformación, industrialización y/o comercialización de especies vegetales, sus productos y subproductos;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-XLV. Padrón: Registro administrativo de los productores y las organizaciones agrícolas del Estado, a cargo de la Secretaría de Desarrollo Rural y Agroempresarial;
+XXV. Desarrollo Sustentable: Proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, fundado en medidas adecuadas de preservación del equilibrio ecológico, la biodiversidad, la protección del ambiente y el aprovechamiento racional de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
 
-XLVI. Permiso de Siembra: Documento mediante el cual la Secretaria autoriza a los productores, persona física o moral para que establezcan o siembren un determinado cultivo, el cual podrá ser anual o perenne;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-XLVII. Plaga: Forma de vida vegetal, animal o agente patogénico, dañino o potencialmente dañino para los productos y subproductos agrícolas;
+XXVI. Distintivo: Distintivo Estatal Agrícola;
 
-XLVIII. Plaguicida: Insumo fitosanitario destinado a prevenir, repeler, combatir y destruir plagas;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-XLIX. Planeación: Planeación del Desarrollo Agrícola del Estado;
+XXVII. Emergencia de Sanidad Vegetal: Situación de peligro o desastre ocasionada por la presencia y propagación, actual o potencial, de plagas, enfermedades o agentes patogénicos, contaminantes o cualquier otro factor que eleve, por encima de lo aceptable, el Riesgo Fitosanitario;
 
-L. Predios Agrícolas: Terrenos rústicos destinados o susceptibles de ser aprovechados para la producción agrícola;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-LI. Predios Ociosos: Predio que cuenta con uso de suelo destinado a la producción agrícola pero no se encuentra utilizado para tal fin;
+XXVIII. Estado: Estado Libre y Soberano de Aguascalientes;
 
-LII. Producción Orgánica: Sistema de producción y procesamiento de alimentos, productos y subproductos agrícolas u otros satisfactores, certificado por un organismo público o privado autorizado, caracterizado por el uso regulado de insumos externos y la restricción o, en su caso, la prohibición de la utilización de productos de síntesis química;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-LIII. Producción Primaria: Proceso que comprende desde la preparación del terreno, siembra, desarrollo del cultivo, cosecha y empaque de los productos agrícolas en campo;
+XXIX. Especies Vegetales: Grupos de organismos propios de un género perteneciente a la categoría taxonómica de las plantas, que comparten caracteres genéricos y específicos que los distinguen, cultivados en el Estado;
 
-LIV. Productividad: Capacidad o grado de producción, determinado por la cantidad total producida por unidad de superficie;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-LV. Productor Agrícola: Persona física o moral que, directa o indirectamente, se dedique a la producción, acopio, transformación, industrialización y/o comercialización de especies vegetales, sus productos y subproductos;
+XXX. Erradicación: Aplicación de medidas fitosanitarias tendientes a eliminar la presencia de plagas y enfermedades en un área geográfica determinada;
 
-LVI. Productos Agrícolas: Especies Vegetales que, como productos primarios, se obtienen del cultivo de la tierra;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-LVII. Programa Sectorial: Programa Sectorial para el Desarrollo Agrícola Sustentable del Estado;
+XXXI. Fertilizantes Orgánicos: Abonos de origen natural que provienen de restos tratados de alimentos, animales y vegetales, así como de los residuos de cultivos y de cualquier fuente orgánica o natural, que aumentan la fertilidad y ayudan a mejorar la calidad del suelo o del cultivo;
 
-LVIII. Proyecto Territorial: Instrumento que conjunta acciones orientadas a potenciar la competitividad de las actividades económicas de mayor inclusión social, con un enfoque de sustentabilidad a fin de mejorar el ingreso de los productores agrícolas con potencial productivo, mediante su inserción en los mercados, propiciando la integración organizativa y la concurrencia de recursos para el desarrollo del territorio;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-LIX. Reconversión Agrícola: Proceso a través del cual se cambia de un cultivo o se moderniza su ciclo de producción, mediante la introducción de cultivos adaptables a la región con variedades mejoradas y certificadas, así como el uso de infraestructura, materiales, insumos y equipos que permiten mejorar el rendimiento y la calidad de la producción agrícola;
+XXXII. Inocuidad: Conjunto de medidas implementadas para garantizar la seguridad e higiene de los productos y subproductos agrícolas, y que no afectarán la salud del consumidor;
 
-LX. Reglamento: Reglamento de la Ley para el Desarrollo Agrícola del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-LXI. Riesgo Fitosanitario: Peligro inminente de la aparición de alguna contingencia dañosa o de la verificación de algún fenómeno que cause un impacto fitosanitario o agroecológico nocivo por la introducción o establecimiento de un organismo a un lugar del cual no es nativo o no está establecido, y la situación o circunstancia que indique la proximidad de la aparición de una Emergencia de Sanidad Vegetal;
+XXXIII. Inspección: Acto que practica la Secretaría de Desarrollo Rural y Agroempresarial para constatar, mediante verificación asentada en el acta administrativa que para tales efectos se levante, el cumplimiento de las disposiciones legales aplicables en materia de sanidad agrícola y de sistemas de reducción de riesgos de contaminación en las actividades agrícolas, con el propósito de aplicar las medidas fitosanitarias pertinentes e imponer, en caso de incumplimiento, las sanciones administrativas correspondientes;
 
-LXII. SAGARPA: La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación del Gobierno Federal;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-LXIII. Sanidad Vegetal o Fitosanidad: Prevención, control y erradicación de plagas que afectan a los vegetales, sus productos y subproductos, así como las acciones y medidas emprendidas, realizadas e implementadas por las autoridades en la materia con tales propósitos;
+XXXIV. Inspector Agrícola: Ciudadano mexicano, preferentemente ingeniero agrónomo o perfil académico análogo, autorizado y acreditado por la Secretaría para realizar actividades de verificación en los términos de esta Ley, también denominados Oficiales Estatales;
 
-LXIV. Secretaría: Secretaría de Desarrollo Rural y Agroempresarial del Estado;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-LXV. Seguro Agrícola: Esquema de transferencia de riesgos a terceros, mediante la contratación de una póliza de seguro;
+XXXV. Instrumentos Económicos de Apoyo: Los enumerados en el artículo 78 de la presente Ley;
 
-LXVI. Semillas: Partes de los frutos de las fanerógamas, que contienen el embrión de una futura planta, protegido por una testa, derivada de los tegumentos del primordio seminal, o los fragmentos de los vegetales provistos de yemas que, al caer o ser sembrados, producen nuevas plantas de la misma especie;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-LXVII. SENASICA: Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria;
+XXXVI. Insumos Agrícolas: Todos aquellos elementos empleados en los procesos que sigue un producto agrícola desde la fase de producción, transformación y comercialización, hasta llegar al consumidor final;
 
-LXVIII. Sistema Producto: Conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización, en términos de la Ley de Desarrollo Rural Sustentable;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-LXIX. SNICS: Servicio Nacional de Inspección y Certificación de Semillas, órgano desconcentrado de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, encargado de inspeccionar, vigilar y verificar el cumplimiento de las disposiciones legales en materia de semillas y variedades vegetales para siembras;
+XXXVII. Insumos Desinfectantes o Sanitizantes: Todos aquellos elementos, químicos u orgánicos, que eliminan contaminantes biológicos en superficies vivas e inertes;
 
-LXX. Subproductos Agrícolas: Productos secundarios que se obtienen de la industrialización de las Especies Vegetales como productos primarios, la cual añade un valor a estos;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-LXXI. Sustentabilidad: Acción que integra criterios e indicadores de carácter ambiental, económico y social, tendiente a mejorar la calidad de vida y productividad de la población, con medidas apropiadas de preservación y protección del ambiente natural, el desarrollo económico equilibrado y la cohesión social, sin comprometer la satisfacción de las necesidades de futuras generaciones;
+XXXVIII. Insumo Fitosanitario: Todos aquellos elementos empleados en el control de plagas y enfermedades de los productos y subproductos agrícolas, tales como plaguicidas, fertilizantes orgánicos, agentes de control biológico, feromonas, atrayentes, coadyuvantes y variedades de plantas cultivadas resistentes a plagas y enfermedades;
 
-LXXII. Transferencia de Tecnología: Proceso mediante el cual la tecnología generada por el sistema de investigación se valida, demuestra y difunde en condiciones socioeconómicas favorables a los usuarios potenciales, promoviendo su adopción a través de la coordinación interinstitucional y el apoyo de los servicios otorgados por el Estado;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-LXXIII. Unidad de Inteligencia Sanitaria del Estado de Aguascalientes: Herramienta que permite a las autoridades estatales contar con información relevante de temas sensibles de los principales sectores agroalimentarios, la identificación geográfica y análisis espacial de las unidades de producción y de procesamiento de alimentos, la identificación de eventos agropecuarios de riesgo sanitario, las (sic) movilización de a (sic) productos agropecuarios, así como el seguimiento en emergencias sanitarias, ambientales y antropogénicas, que permita la toma de decisiones;
+XXXIX. Insumos de Nutrición Vegetal: Todos aquellos elementos empleados para el aumento de la sustancia y el desarrollo de los productos y subproductos agrícolas, mediante su alimentación;
 
-LXXIV. Zona Bajo Control Fitosanitario: Área agroecológica determinada en la que se aplican medidas fitosanitarias a fin de controlar, combatir, erradicar o disminuir la incidencia o presencia de una plaga o enfermedad, en un periodo y para una especie vegetal específica;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-LXXV. Zona Bajo Protección: Área agroecológica en la que no está presente una plaga, pero en la que no se han completado todos los requisitos para su reconocimiento como zona libre;
+XL. ISSEA: Instituto de Servicios de Salud del Estado de Aguascalientes;
 
-LXXVI. Zona de Baja Prevalencia: Área geográfica determinada que presenta infestaciones de especies de plagas no detectables, que, con base en el análisis de riesgo correspondiente, no causan impacto económico; y
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-LXXVII. Zona Libre: Área geográfica determinada en el cual se ha eliminado o no se han presentado casos positivos de una plaga específica de vegetales, durante un periodo determinado, de acuerdo con las medidas fitosanitarias aplicables establecidas por la SAGARPA o por la Secretaría.
+XLI. Ley: La Ley para el Desarrollo Agrícola del Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+XLII. Medidas Fitosanitarias: Todas aquellas establecidas en esta Ley, en la Ley Federal de Sanidad Vegetal, en las Normas Oficiales Mexicanas, en las Normas Mexicanas y en las demás disposiciones aplicables, para conservar y proteger a los cultivos y plantaciones agrícolas, sus productos o subproductos de cualquier tipo de daño producido por las plagas o enfermedades que los afecten;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+XLIII. Movilización: Transportación o traslado de productos o subproductos agrícolas de un lugar a otro;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+XLIV. NOM: Normas Oficiales Mexicanas en materia agrícola y de sanidad vegetal de carácter obligatorio, expedidas por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, en términos de la Ley Federal de Sanidad Vegetal y conforme al procedimiento previsto en la Ley Federal sobre Metrología y Normalización;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+XLV. Organismos Genéticamente Modificados: Cualquier ser vivo que posea una combinación de material genético que se haya obtenido mediante la aplicación de biotecnología moderna;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+XLVI. Organizaciones Agrícolas: Asociaciones, cámaras y uniones nacionales, regionales y locales legalmente constituidas, tanto generales como especializadas, de Personas físicas o morales que, directa o indirectamente, se dediquen a la producción, acopio, transformación, industrialización y/o comercialización de especies vegetales, sus productos y subproductos;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+XLVII. Padrón: Registro administrativo de los productores y las organizaciones agrícolas del Estado, a cargo de la Secretaría de Desarrollo Rural y Agroempresarial;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+XLVIII. Permiso de Siembra: Documento mediante el cual la Secretaria autoriza a los productores, persona física o moral para que establezcan o siembren un determinado cultivo, el cual podrá ser anual o perenne;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+XLIX. Plaga: Forma de vida vegetal, animal o agente patogénico, dañino o potencialmente dañino para los productos y subproductos agrícolas;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+L. Plaguicida: Insumo fitosanitario destinado a prevenir, repeler, combatir y destruir plagas;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LI. Planeación: Planeación del Desarrollo Agrícola del Estado;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LII. Predios Agrícolas: Terrenos rústicos destinados o susceptibles de ser aprovechados para la producción agrícola;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LIII. Predios Ociosos: Predio que cuenta con uso de suelo destinado a la producción agrícola pero no se encuentra utilizado para tal fin;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LIV. Producción Orgánica: Sistema de producción y procesamiento de alimentos, productos y subproductos agrícolas u otros satisfactores, certificado por un organismo público o privado autorizado, caracterizado por el uso regulado de insumos externos y la restricción o, en su caso, la prohibición de la utilización de productos de síntesis química;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LV. Producción Primaria: Proceso que comprende desde la preparación del terreno, siembra, desarrollo del cultivo, cosecha y empaque de los productos agrícolas en campo;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LVI. Productividad: Capacidad o grado de producción, determinado por la cantidad total producida por unidad de superficie;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LVII. Productor Agrícola: Persona física o moral que, directa o indirectamente, se dedique a la producción, acopio, transformación, industrialización y/o comercialización de especies vegetales, sus productos y subproductos;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LVIII. Productos Agrícolas: Especies Vegetales que, como productos primarios, se obtienen del cultivo de la tierra;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LVIX. Programa Sectorial: Programa Sectorial para el Desarrollo Agrícola Sustentable del Estado;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LX. Proyecto Territorial: Instrumento que conjunta acciones orientadas a potenciar la competitividad de las actividades económicas de mayor inclusión social, con un enfoque de sustentabilidad a fin de mejorar el ingreso de los productores agrícolas con potencial productivo, mediante su inserción en los mercados, propiciando la integración organizativa y la concurrencia de recursos para el desarrollo del territorio;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LXI. Reconversión Agrícola: Proceso a través del cual se cambia de un cultivo o se moderniza su ciclo de producción, mediante la introducción de cultivos adaptables a la región con variedades mejoradas y certificadas, así como el uso de infraestructura, materiales, insumos y equipos que permiten mejorar el rendimiento y la calidad de la producción agrícola;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LXII. Reglamento: Reglamento de la Ley para el Desarrollo Agrícola del Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LXIII. Riesgo Fitosanitario: Peligro inminente de la aparición de alguna contingencia dañosa o de la verificación de algún fenómeno que cause un impacto fitosanitario o agroecológico nocivo por la introducción o establecimiento de un organismo a un lugar del cual no es nativo o no está establecido, y la situación o circunstancia que indique la proximidad de la aparición de una Emergencia de Sanidad Vegetal;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LXIV. SAGARPA: La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación del Gobierno Federal;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LXV. Sanidad Vegetal o Fitosanidad: Prevención, control y erradicación de plagas que afectan a los vegetales, sus productos y subproductos, así como las acciones y medidas emprendidas, realizadas e implementadas por las autoridades en la materia con tales propósitos;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LXVI. Secretaría: Secretaría de Desarrollo Rural y Agroempresarial del Estado;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LXVII. Seguro Agrícola: Esquema de transferencia de riesgos a terceros, mediante la contratación de una póliza de seguro;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LXVIII. Semillas: Partes de los frutos de las fanerógamas, que contienen el embrión de una futura planta, protegido por una testa, derivada de los tegumentos del primordio seminal, o los fragmentos de los vegetales provistos de yemas que, al caer o ser sembrados, producen nuevas plantas de la misma especie;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LXIX. SENASICA: Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LXX. Sistema Producto: Conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización, en términos de la Ley de Desarrollo Rural Sustentable;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LXXI. SNICS: Servicio Nacional de Inspección y Certificación de Semillas, órgano desconcentrado de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, encargado de inspeccionar, vigilar y verificar el cumplimiento de las disposiciones legales en materia de semillas y variedades vegetales para siembras;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LXXII. Subproductos Agrícolas: Productos secundarios que se obtienen de la industrialización de las Especies Vegetales como productos primarios, la cual añade un valor a estos;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LXXIII. Sustentabilidad: Acción que integra criterios e indicadores de carácter ambiental, económico y social, tendiente a mejorar la calidad de vida y productividad de la población, con medidas apropiadas de preservación y protección del ambiente natural, el desarrollo económico equilibrado y la cohesión social, sin comprometer la satisfacción de las necesidades de futuras generaciones;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LXXIV. Transferencia de Tecnología: Proceso mediante el cual la tecnología generada por el sistema de investigación se valida, demuestra y difunde en condiciones socioeconómicas favorables a los usuarios potenciales, promoviendo su adopción a través de la coordinación interinstitucional y el apoyo de los servicios otorgados por el Estado;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LXXV. Unidad de Inteligencia Sanitaria del Estado de Aguascalientes: Herramienta que permite a las autoridades estatales contar con información relevante de temas sensibles de los principales sectores agroalimentarios, la identificación geográfica y análisis espacial de las unidades de producción y de procesamiento de alimentos, la identificación de eventos agropecuarios de riesgo sanitario, las (sic) movilización de a (sic) productos agropecuarios, así como el seguimiento en emergencias sanitarias, ambientales y antropogénicas, que permita la toma de decisiones;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LXXVI. Zona Bajo Control Fitosanitario: Área agroecológica determinada en la que se aplican medidas fitosanitarias a fin de controlar, combatir, erradicar o disminuir la incidencia o presencia de una plaga o enfermedad, en un periodo y para una especie vegetal específica;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LXXVII. Zona Bajo Protección: Área agroecológica en la que no está presente una plaga, pero en la que no se han completado todos los requisitos para su reconocimiento como zona libre;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LXXVIII. Zona de Baja Prevalencia: Área geográfica determinada que presenta infestaciones de especies de plagas no detectables, que, con base en el análisis de riesgo correspondiente, no causan impacto económico; y
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+LXXIX. Zona Libre: Área geográfica determinada en el cual se ha eliminado o no se han presentado casos positivos de una plaga específica de vegetales, durante un periodo determinado, de acuerdo con las medidas fitosanitarias aplicables establecidas por la SAGARPA o por la Secretaría.
 
 ###### Artículo 5°.
 
@@ -527,7 +679,9 @@ XXXI. Establecer acciones para que los productores tengan acceso directo y oport
 
 XXXII. Realizar acciones estratégicas para el fomento de las actividades agrícolas, buscando incrementar la productividad y preservar el suelo, agua y biodiversidad de la entidad;
 
-XXXIII. El fomento a los sistemas familiares de producción;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+XXXIII. El fomento a la agricultura familiar como sistemas de producción, independientemente del régimen de propiedad de la tierra usando y transformando los recursos naturales para la obtención de recursos agrícolas, que permita el auto-abastecimiento de las familias;
 
 XXXIV. Fomentar la instalación de viveros agrícolas y de laboratorios certificados para la producción de la plántula;
 
@@ -587,9 +741,9 @@ LIX. Supervisar los productos y subproductos agrícolas, permitiendo o negando s
 
 LX. Fomentar y difundir entre los productores y organizaciones agrícolas cursos, seminarios, talleres y toda aquella información que les sea de utilidad a través de medios escritos y digitales, tendientes a impulsar la educación y tecnificación de la actividad agrícola;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA ], P.O. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-LXI. Promover la creación de huertos urbanos dentro de las zonas urbanas del Estado, siendo estos el elemento principal para el fomento de la Agricultura Urbana en la entidad;
+LXI. Desarrollar, de acuerdo con sus atribuciones, las políticas de implementación de la Agricultura Urbana y Periurbana en el Estado de Aguascalientes e impulsar primordialmente la autoproducción para autoconsumo por medio del establecimiento de huertos urbanos y/o similares, además de fomentar la comercialización de estos productos agrícolas; y
 
 > <small>(REFORMADA, P.O. 24 DE JULIO DE 2023)</small>
 
@@ -1147,7 +1301,33 @@ VI. Diseñar en coordinación con los productores, los esquemas que permitan cap
 
 Para los efectos del presente Capítulo, se tendrá como prioritario el rescate y rehabilitación de la infraestructura ociosa o subutilizada, existente en el Estado.
 
-#### SECCIÓN PRIMERA. Disposiciones Generales
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+#### SECCIÓN CUARTA. De la Agricultura Urbana
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 62 Bis.
+
+El Estado, por conducto de la Secretaría, promoverá la autoproducción alimentaria y al desarrollo de la agricultura, mediante el aprovechamiento y uso de espacios urbanos y periurbanos. Así mismo, fortalecerá la participación familiar y comunitaria, mediante la organización e inclusión social.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 62 Ter.
+
+Las personas físicas o morales que decidan participar en la elaboración de proyectos de huertos urbanos y/o similares, deberán cumplir con las indicaciones que la Secretaría establezca en el Reglamento.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 62 Quater.
+
+La Secretaría podrá convenir con instituciones dedicadas a la investigación y desarrollo científico en el Estado, ya sean de carácter público o privado, las universidades y demás instituciones educativas, con la finalidad de generar programas de formación, capacitación y asistencia técnica en actividades de producción, transformación, almacenamiento y comercialización de productos y subproductos provenientes de la Agricultura Urbana, así como la implementación y desarrollo de techos verdes, huertos urbanos y sistemas de terrazas que permitan la captación y uso de agua de lluvia.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 62 Quinquies.
+
+Los productos derivados de los huertos urbanos o demás actividades de agricultura urbana, podrán ser susceptibles de comercialización siempre y cuando cumplan con las disposiciones de sanidad, inocuidad y calidad que establezcan las autoridades competentes.
 
 ### CAPÍTULO II. Comercialización de Productos y Subproductos
 
@@ -1217,7 +1397,7 @@ Los Productos y Subproductos Agrícolas para la exposición, serán examinados p
 
 ### CAPÍTULO II. Instrumentos Económicos de Apoyo
 
-#### SECCIÓN SEGUNDA. Subsidios
+#### SECCIÓN PRIMERA. Disposiciones Generales
 
 ###### Artículo 74.
 
@@ -1285,7 +1465,7 @@ IX. Fomentar y promover proyectos de agricultura regenerativa.
 
 El Ejecutivo del Estado podrá solicitar al Congreso del Estado, la aprobación de partidas presupuestales para la creación de los Instrumentos Económicos de Apoyo, y adicionalmente, podrá recibir participaciones y recursos de instituciones financieras públicas y privadas.
 
-#### SECCIÓN TERCERA. Fondos
+#### SECCIÓN SEGUNDA. Subsidios
 
 ###### Artículo 81.
 
@@ -1319,7 +1499,7 @@ Los instrumentos a los que refiere el párrafo anterior tendrán validez en todo
 
 Si al vencerse el término mencionado en el párrafo anterior no se hubieren ejercido los Subsidios o no se hubiesen destinado al objeto específico para el que fueron otorgados, la Secretaria tendrá la facultad para ejercer las acciones legales que sean que correspondan para la recuperación de los recursos relativos.
 
-#### SECCIÓN CUARTA. Créditos
+#### SECCIÓN TERCERA. Fondos
 
 ###### Artículo 86.
 
@@ -1365,7 +1545,7 @@ II. Gestionar servicios de compra de opciones en el mercado de futuros, que perm
 
 III. Respaldar a los Productores y Organizaciones Agrícolas en la comercialización de sus Productos y Subproductos.
 
-#### SECCIÓN PRIMERA. Disposiciones Generales
+#### SECCIÓN CUARTA. Créditos
 
 ###### Artículo 91.
 
@@ -1453,7 +1633,7 @@ IV. Las demás que tomen en cuenta el desarrollo de las personas que integran lo
 
 ### CAPÍTULO I. Sanidad Vegetal
 
-#### SECCIÓN SEGUNDA. Protección y Prevención Fitosanitaria
+#### SECCIÓN PRIMERA. Disposiciones Generales
 
 ###### Artículo 101.
 
@@ -1525,7 +1705,7 @@ VIII. Promover y fomentar mecanismos y estrategias de capitalización, que permi
 
 IX. Todas aquellas que se contemplen en la presente Ley, su Reglamento y las demás disposiciones relativas y aplicables.
 
-#### SECCIÓN TERCERA. Uso y Aplicación De Fertilizantes, Agroquímicos y Agentes de Control Biológico
+#### SECCIÓN SEGUNDA. Protección y Prevención Fitosanitaria
 
 ###### Artículo 105.
 
@@ -1571,7 +1751,7 @@ La adopción de cualquier Medida de Protección en caso de Riesgos Sanitarios o 
 
 Cuando por causa derivada del incumplimiento de las normas de prevención y control consignadas en esta Ley, se causen daños o perjuicios a personas, animales o al medio ambiente, los productores serán responsables del menoscabo y pérdida patrimonial correspondiente, independientemente de la responsabilidad civil, penal, administrativa o de cualquier otra índole a la que hubiera lugar.
 
-#### SECCIÓN CUARTA. Distintivo Estatal Agrícola
+#### SECCIÓN TERCERA. Uso y Aplicación De Fertilizantes, Agroquímicos y Agentes de Control Biológico
 
 ###### Artículo 114.
 
@@ -1599,7 +1779,7 @@ Asimismo, queda estrictamente prohibido en el territorio del Estado desechar en 
 
 Toda persona deberá usar los equipos adecuados de protección para el manejo y aplicación de Agentes de Control Biológico, Agroquímicos, Fertilizantes Orgánicos, Insumos Desinfectantes o Sanitizantes, Insumos Fitosanitarios, Insumos de Nutrición Vegetal y Plaguicidas. Asimismo, deberán abstenerse de llevar acabo cualquier conducta que provoque cualquier clase de Riesgo Fitosanitario, contaminación ambiental o daños a la salud humana, animal o vegetal, por un mal manejo de dichos productos, de conformidad con lo estipulado por esta Ley, su Reglamento y las demás disposiciones relativas y aplicables.
 
-#### SECCIÓN PRIMERA. Dispositivo Estatal de Emergencia de Sanidad Vegetal
+#### SECCIÓN CUARTA. Distintivo Estatal Agrícola
 
 ###### Artículo 119.
 
@@ -1625,7 +1805,7 @@ La Secretaría establecerá el procedimiento para la selección de los acreedore
 
 ### CAPÍTULO II. Medidas de Protección
 
-#### SECCIÓN SEGUNDA. Campañas y Cuarentenas
+#### SECCIÓN PRIMERA. Dispositivo Estatal de Emergencia de Sanidad Vegetal
 
 ###### Artículo 123.
 
@@ -1637,7 +1817,7 @@ Para la instrumentación del Dispositivo Estatal de Emergencia de Sanidad Vegeta
 
 La implementación del Dispositivo Estatal de Emergencia de Sanidad Vegetal, tendrá como consecuencia la aplicación del Fondo de Apoyo Económico Emergente para los Productores Agrícolas afectados por la situación de Emergencia de Sanidad Vegetal.
 
-#### SECCIÓN TERCERA. Declaratoria de Zonas Libres de Plagas
+#### SECCIÓN SEGUNDA. Campañas y Cuarentenas
 
 ###### Artículo 125.
 
@@ -1700,6 +1880,8 @@ Cuando se compruebe que la movilización implica un Riesgo Fitosanitario, la Sec
 La Secretaría y el SENASICA, a través del Auxiliar que ellas designen para tales efectos, determinarán, ordenarán y ejecutarán, inclusive con el auxilio de otras instancias federales, de los cuerpos de seguridad pública estatal o municipal de que se trate, la eliminación y/o destrucción de focos de infestación de Plagas y enfermedades que representen un Riesgo Sanitario o una Emergencia de Sanidad Vegetal que afecte la Actividad Agrícola en el Estado, siempre que esto sea verificado y comprobado plenamente.
 
 En tal caso, la Secretaría y el SENASICA podrán ordenar que tales acciones se lleven a cabo a costa del Productor Agrícola, del transportista, del comerciante o del propietario responsable, y determinarán si procede el aprovechamiento del producto o remanente a favor del Productor Agrícola de que se trate.
+
+#### SECCIÓN TERCERA. Declaratoria de Zonas Libres de Plagas
 
 ###### Artículo 130.
 
@@ -2006,6 +2188,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 24 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 392.- SE REFORMA LA LEY PARA EL DESARROLLO AGRÍCOLA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 25 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 523.- SE REFORMA LA LEY PARA EL DESARROLLO AGRÍCOLA DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
