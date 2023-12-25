@@ -4,7 +4,7 @@ identifier: "AGU-ley-sobre-el-uso-de-medios-electronicos-para-el-estado-de-95956
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-23"
-last_updated: "2023-05-08"
+last_updated: "2023-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY SOBRE EL USO DE MEDIOS ELECTRÓNICOS PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de septiembre de 2013.
 
@@ -67,7 +67,9 @@ II. Autoridad Certificadora: Al órgano designado por el Poder Ejecutivo, que ti
 
 III. Certificado Electrónico: El documento firmado electrónicamente por un Prestador de Servicios de Certificación que vincula los datos de firma a su autor y confirma su identidad;
 
-IV. Contraloría: La Secretaría de Fiscalización y Rendición de Cuentas;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+IV. Contraloría: La Contraloría del Estado;
 
 V. Datos de Creación de Firma Electrónica: Los datos únicos, las claves o llaves criptográficas privadas que el titular obtiene del Prestador de Servicios de Certificación y se utilizan para crear la Firma Electrónica;
 
@@ -245,39 +247,59 @@ Los Entes Públicos deberán habilitar una Oficialía de Partes Electrónica, qu
 
 Tales datos determinarán para todos los efectos de Ley la vigencia y vencimiento de los plazos.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 22.
 
-Los Entes Públicos habilitarán, en sus respectivos ámbitos de competencia, un portal de internet y un correo electrónico, podrán asimismo habilitar cuentas en redes sociales de internet a efecto de difundir la información relativa a los servicios públicos y trámites administrativos prestados en el ámbito de sus respectivas competencias.
+Los Entes Públicos habilitarán, en sus respectivos ámbitos de competencia, un portal web y un correo electrónico, así mismo podrán crear cuentas en redes sociales en linea para difundir la información relacionada con los servicios públicos y los trámites administrativos que ofrecen dentro de sus respectivas competencias.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2017)</small>
+Las solicitudes de información formuladas por ciudadanas y ciudadanos a través de los portales de internet o cuentas de redes sociales de los Entes Públicos deberán ser atendidas y recibir una respuesta, siempre y cuando se cumplan los siguientes requerimientos:
 
-Corresponderá a la Unidad de Firma Electrónica la gestión de un portal de internet único que concentrará la información de los servicios públicos y trámites administrativos prestados por cada uno de los Entes Públicos.
+A) La solicitud se realice de forma pacífica y respetuosa;
+
+B) El Ente Público sea titular de la cuenta en cuestión;
+
+C) El Ente Público haya habilitado el uso de esa red o plataforma como parte de su actuación oficial o para captar y responder solicitudes de información;
+
+D) El uso de la cuenta no sea únicamente mediático o destinado al simple diálogo con la ciudadanía; y
+
+E) Lo expresado por la ciudadana o ciudadano implique una genuina petición, más allá de un comentario u opinión;
+
+Las respuestas o acuerdos emitidos por los Entes Públicos no podrán exceder de veinte días hábiles contados a partir del día siguiente a la presentación de la solicitud. Excepcionalmente, dicho plazo podrá ampliarse hasta por diez días hábiles adicionales, en conformidad con el Artículo 71 y demás disposiciones relacionadas y aplicables a la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios. Los Entes Públicos podrán notificar las respuestas por la misma vía, o en su caso, en el domicilio o medio de contacto señalado por la persona solicitante. En caso de incumplimiento por parte de los Entes Públicos, se aplicarán las medidas de apremio y sanciones establecidas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios.
+
+Corresponderá a la Secretaría de Innovación y Gobierno Digital la gestión de un portal de internet único que concentre la información de los servicios públicos y trámites administrativos ofrecidos por cada uno de los Entes Públicos.
 
 El Sistema de Gobierno Electrónico del Estado de Aguascalientes se regirá por los siguientes principios rectores:
 
-a) Acceso Universal: Disponer el acceso al sistema en cualquier momento sin mayores restricciones a las establecidas para atender, o en su caso sustanciar servicios públicos o trámites Administrativos que los expresamente establecidos en los ordenamientos aplicables.
+a) Acceso Universal: Garantizar el acceso al sistema en cualquier momento, con restricciones limitadas a las establecidas para la atención o el procesamiento de servicios públicos y trámites administrativos que estén expresamente definidos en la legislación aplicables;
 
-b) Simplicidad: Diseñar un sistema caracterizado por la facilidad en su consulta y la sencillez en su interacción de acuerdo con las preferencias y necesidades de los usuarios.
+b) Adecuación Tecnológica: Fomentar el uso estandarizado de tecnologías de la información y comunicaciones que sean compatibles con cualquier medio o dispositivo electrónico;
 
-c) Confiabilidad: Asegurar que la información proveída sea auténtica a efecto de garantizar su seguridad y eficacia jurídica.
+c) Compatibilidad Internacional: Cumplir con los estándares internacionales;
 
-d) Innovación: Incorporar continuamente nuevas tecnologías de la información con base en la eficiencia de resultados y la optimización de costos.
+d) Confiabilidad: Garantizar que la información proporcionada sea auténtica para asegurar su seguridad y eficacia jurídica;
 
-e) Participación Multisectorial: Impulsar la colaboración del Sector Privado y el Sector Social en la implementación y la vigilancia del Gobierno Electrónico.
+e) Cooperación: Implica la colaboración necesaria entre instituciones en el uso de medios electrónicos para garantizar la interoperabilidad de los sistemas y soluciones adoptados por cada una de ellas, así como la posible prestación conjunta de servicios a los usuarios. Se asegurará el reconocimiento mutuo de documentos electrónicos y de medios de identificación y autenticación en conformidad con esta Ley;
 
-f) Seguridad: Disponer de adecuados niveles de seguridad que garanticen la protección de datos personales de conformidad con lo establecido en los ordenamientos aplicables.
+f) Igualdad: El uso de medios electrónicos no debe dar lugar a restricciones o discriminaciones para los usuarios que se relacionen a través de medios no electrónicos, ya sea en términos de acceso a servicios públicos o en relación con cualquier acción o procedimiento. Sin embargo, se pueden tomar medidas para promover el uso de medios electrónicos;
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2017)</small>
+g) Innovación: La incorporación constante de nuevas tecnologías de la información basadas en la eficiencia de resultados y la optimización de costos;
 
-g) Simplificación Administrativa: Procurar la reducción de los requisitos y formalidades para la atención, y en su caso, sustanciación electrónica de los servicios públicos y trámites administrativos;
+h) Legalidad: Los tramites, servicios y otros actos realizados por medios electrónicos cumplirán con las formalidades establecidas en las disposiciones legales aplicables;
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2017)</small>
+i) Neutralidad Tecnológica: El uso de cualquier tecnología sin favorecer ninguna en particular;
 
-h) Compatibilidad Internacional: La observación en el cumplimiento de los estándares internacionales; y
+j) Participación Multisectorial: Fomentar la colaboración entre el Sector Privado y el Sector Social en la implementación y supervisión del Gobierno Electrónico;
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2017)</small>
+k) Privacidad: Implica el respeto a la información personal de los usuarios en el uso de comunicaciones electrónicas, en conformidad con las normas y regulaciones de protección de datos personales;
 
-i) Neutralidad Tecnológica: La utilización de cualquier tecnología sin que se favorezca alguna en particular.
+l) Proporcionalidad: Se requerirán únicamente las garantías y medidas de seguridad apropiadas según la naturaleza y circunstancias de los diferentes trámites y actuaciones. Además, se solicitarán a los usuarios solamente los datos estrictamente necesarios para cumplir con la finalidad de la solicitud;
+
+m) Seguridad: Garantizar niveles adecuados de seguridad en la implantación y uso de medios electrónicos. Se exigirá, al menos, el mismo nivel de garantías y seguridad requeridos para el uso de medios no electrónicos en la actividad administrativa, asegurando la protección de datos personales de conformidad con las regulaciones aplicables;
+
+n) Simplicidad: Diseñar un sistema que se destaque por su facilidad de uso y su interacción sencilla, de acuerdo con las preferencias y necesidades de los usuarios; y
+
+ñ) Simplificación Administrativa: Buscar la reducción de los requisitos y formalidades necesarios para la prestación y, en su caso, la tramitación electrónica de servicios públicos y trámites administrativos.
 
 ### CAPÍTULO IV. De los Derechos y Obligaciones de los Titulares de Certificados de Firma Electrónica y de los Prestadores del Servicio de Certificación
 
@@ -285,7 +307,9 @@ i) Neutralidad Tecnológica: La utilización de cualquier tecnología sin que se
 
 Los titulares de Certificados Electrónicos tendrán los siguientes derechos:
 
-I. A la protección y resguardo de datos reservados y confidenciales en los términos de la Ley de Transparencia y Acceso a la Información Pública y la Ley de Protección de Datos Personales;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+I. A la protección y resguardo de datos reservados y confidenciales en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios y la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Aguascalientes y sus Municipios;
 
 II. A modificar y actualizar los datos que sobre su identidad se encuentren contenidos en el certificado que en su caso fuera requerido, previa presentación del soporte correspondiente que acredite dichos cambios;
 
@@ -604,3 +628,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 – Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 516.- SE REFORMA LA LEY SOBRE EL USO DE MEDIOS ELECTRÓNICOS PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
