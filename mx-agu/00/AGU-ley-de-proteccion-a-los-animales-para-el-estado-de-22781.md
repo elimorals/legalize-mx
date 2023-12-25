@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-a-los-animales-para-el-estado-de-22781"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2023-01-23"
+last_updated: "2023-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de noviembre de 2001.
 
@@ -953,9 +953,9 @@ I.- Evitar cualquier maltrato, daño o sacrifico innecesario;
 
 II.- Proveer de alimento, agua, espacios adecuados para su crecimiento y desarrollo, abrigo contra la intemperie, higiene, luz, aire, atención médica y sanitaria, propios para la especie o animal;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-III.- No abandonarlos, torturarlos, aislarlos en azoteas, terrenos baldíos, bodegas, casas solas, o cualquier predio; así como descuidarlos o amarrarlos de manera que su limitado movimiento le cause algún daño, lesión o les impida satisfacer sus necesidades básicas.
+III.- No abandonarlos, torturarlos, aislarlos en azoteas, terrenos baldíos, bodegas, casas solas o cualquier predio o dejarlos en vehículos estacionados sin ventilación y sin la compañía de una persona; así como descuidarlos o amarrarlos de manera que su limitado movimiento le cause algún daño, lesión o les impida satisfacer sus necesidades básicas;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -1706,3 +1706,11 @@ P.O. 23 DE ENERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 25 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 519.- SE REFORMA LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
