@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-organico-del-instituto-para-la-educacion-de-las-129216
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-06-11"
-last_updated: "2022-01-31"
+last_updated: "2023-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129216&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO PARA LA EDUCACION DE LAS PERSONAS JOVENES Y ADULTAS DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA EDUCACIÓN DE LAS PERSONAS JÓVENES Y ADULTAS DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 25 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA EDUCACIÓN DE LAS PERSONAS JÓVENES Y ADULTAS DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2023 (ABROGADO).
 
 Estatuto publicado en la Quinta Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 11 de junio de 2018.
 
@@ -1250,3 +1252,27 @@ Con la entrada en vigor de las presentes reformas, derogaciones y adiciones, que
 ###### ARTÍCULO TERCERO.
 
 Se ordena inscribir las presentes reformas, derogaciones y adiciones al Estatuto Orgánico del Instituto para la Educación de las Personas Jóvenes y Adultas de Aguascalientes, en el Registro Público de la Propiedad y del Comercio del Estado de Aguascalientes, en el libro correspondiente a las Entidades Paraestatales.
+
+P.O. 25 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA EDUCACIÓN DE LAS PERSONAS JÓVENES Y ADULTAS DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Queda abrogado y sin efecto la reforma al Estatuto Orgánico del Instituto para la Educación de las Personas Jóvenes y Adultas de Aguascalientes, publicado en la Primera Sección del Periódico Oficial del Estado, el día 1 º de marzo de 2021
+
+###### ARTÍCULO TERCERO.
+
+Se ordena inscribir el presente Estatuto Orgánico del Instituto para la Educación ele las Personas Jóvenes y Adultas de Aguascalientes., en el Registro Público de la Propiedad y del Comercio del Estado en el libro correspondiente a las Entidades Paraestatales.
+
+###### ARTÍCULO CUARTO.
+
+Los titulares de las áreas deberán elaborar los Manuales de Operación y Procedimientos correspondientes, en un plazo no mayor a ochenta días hábiles siguientes contados a partir de su entrada en vigor, para su presentación al Consejo Interior.
+
+###### ARTÍCULO QUINTO.
+
+Quedan sin efectos todas aquellas disposiciones que se opongan al contenido del presente Estatuto Orgánico del Instituto para la Educación de las Personas Jóvenes y Adultas de Aguascalientes.
