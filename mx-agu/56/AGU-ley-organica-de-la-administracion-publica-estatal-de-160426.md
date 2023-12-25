@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-estatal-de-160426"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-09-30"
-last_updated: "2023-06-05"
+last_updated: "2023-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:25 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número 56 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de septiembre de 2022.
 
@@ -1285,7 +1285,13 @@ XI. Organizar y fomentar servicios relacionados con las actividades agrícolas, 
 
 XII. Organizar y patrocinar en coordinación con las Secretarías de Desarrollo Económico, Ciencia y Tecnología; y de Turismo, según el caso, congresos, ferias, exposiciones y concursos agrícolas, ganaderos, avícolas, apícolas y silvícolas;
 
-XIII. Impulsar y apoyar los proyectos productivos que generen empleos e ingresos a las familias rurales;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+XIII. Impulsar y apoyar los proyectos productivos, así como los apoyos directos a trabajadores del campo para generar y mantener los empleos e ingresos a las familias rurales, a efecto de garantizar su arraigo e identidad en sus comunidades.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+Se entenderán como apoyos directos, el monto económico fijo, que asigne la Secretaría de Desarrollo Rural y Agroempresarial al trabajador del campo, de manera mensual o bimestral, en atención al programa que se instaure para tal efecto;
 
 XIV. Promover programas tendientes a la integración de actividades económicas para el desarrollo rural del Estado, que permitan la generación de empleos;
 
@@ -1952,3 +1958,19 @@ P.O. 5 DE JUNIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de la publicación de su Declaratoria respectiva en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 25 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 524.- SE REFORMA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Desarrollo Rural y Agroempresarial dentro del plazo de 180 días a partir de la fecha en que entre en vigor el presente Decreto, realizará todas las adecuaciones presupuestales a que haya lugar, para solventar la entrega de apoyos directos a los trabajadores del campo.
+
+###### ARTICULO TERCERO.
+
+La Secretaría de Desarrollo Rural y Agroempresarial, dentro del plazo de 180 días contados a partir de la fecha en que se hayan asignado los recursos solicitados, deberá emitir las reglas para su asignación y determinación, así como los mecanismos para la entrega de los apoyos directos a los trabajadores del campo, los cuales una vez instaurados deberán ser difundidos, para dar a conocer el proceso del trámite que los interesados habrán de llevar a cabo.
