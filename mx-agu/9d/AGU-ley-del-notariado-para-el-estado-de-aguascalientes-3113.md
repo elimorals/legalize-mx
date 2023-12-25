@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-notariado-para-el-estado-de-aguascalientes-3113"
 country: "mx"
 rank: "ley"
 publication_date: "1980-06-01"
-last_updated: "2021-03-01"
+last_updated: "2023-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 1 de junio de 1980.
 
@@ -803,17 +803,23 @@ La designación del notario supernumerario que substituya a algún numerario, de
 
 ### CAPITULO TERCERO. DE LOS REQUISITOS PARA LA EXPEDICION DEL FIAT NOTARIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 89.
 
-Para obtener el fíat de notario, ya sea de número o supernumerario, se elevará solicitud por escrito al Gobernador del Estado, llenándose los requisitos siguientes:
+Para obtener el fíat de notario, ya sea de número o supernumerario, se elevará solicitud por escrito dirigido a la persona titular del Poder Ejecutivo del Estado, llenándose los requisitos siguientes:
 
-I.- Ser mexicano por nacimiento, tener veinticinco años cumplidos; estar en el ejercicio de sus derechos de ciudadano; haber tenido buena conducta; no ser militar y no pertenecer al estado eclesiástico;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+I.- Contar con nacionalidad mexicana, tener veinticinco años cumplidos; estar en el ejercicio de sus derechos ciudadanos; haber tenido buena conducta; no ser militar y no pertenecer al estado eclesiástico;
 
 II.- Ser abogado con título legalmente expedido y debidamente registrado conforme a la Ley Reglamentaria del Artículo 5o. de la Constitución Política de los Estados Unidos Mexicanos, así como haber ejercido su profesión en la Entidad, en un término no menor de tres años inmediatos anteriores a la fecha de su solicitud;
 
 III.- No tener enfermedad habitual que impida el ejercicio de las facultades intelectuales, ni impedimento físico que se oponga a las funciones del notariado;
 
-IV.- No haber sido condenado por delito intencional a sufrir pena privativa de la libertad; y
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+IV.- No haber sido condenado por algún delito doloso que tenga previsto como tipos penales los protectores del patrimonio, o por algún delito que tenga previsto como tipos penales los protectores de la administración pública, en aquellos que se relacionen con el ejercicio de sus funciones, tipos penales protectores de la fe pública o hechos de corrupción, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia; y
 
 V.- No haber sido declarado en quiebra o sujeto a concurso, haber sido rehabilitado y obtenido declaratoria de inculpabilidad.
 
@@ -821,13 +827,17 @@ V.- No haber sido declarado en quiebra o sujeto a concurso, haber sido rehabilit
 
 Los requisitos señalados en el artículo anterior, se justificarán en la siguiente forma:
 
-El primero con copia certificada del acta correspondiente del Registro Civil, por lo que hace a la nacionalidad, a la edad y al ejercicio de ciudadano del interesado y, por cuanto se refiere al estado seglar y a la buena conducta, con los certificados que al efecto expida la autoridad correspondiente del último domicilio del solicitante.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+El primero con copia certificada del acta correspondiente del Registro Civil o en su caso la Carta de Naturalización respectiva, por lo que hace a la nacionalidad, a la edad y al ejercicio de ciudadano (a) del interesado (a) y, por cuanto se refiere al estado seglar y a la buena conducta, con los certificados que al efecto expida la autoridad correspondiente del último domicilio del solicitante.
 
 El segundo, con la presentación del título original en el que debe aparecer la constancia de su registro ante el Supremo Tribunal de Justicia en el Estado y la cédula con efectos de patente para ejercer la profesión de abogado expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública.
 
 El tercero, con el certificado de dos médicos legalmente autorizados para el ejercicio de su profesión.
 
-El cuarto, con el certificado negativo de las autoridades penales federales y del fuero común del último domicilio del interesado.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+El cuarto, con las constancias documentales públicas respectivas extendidas por la autoridad federal correspondiente en términos de la fracción IV del artículo 27 de la Ley Nacional de Ejecución Penal, así mismo por el Poder Judicial del Estado de Aguascalientes y de aquellas autoridades penales del fuero común en caso de haber ejercido su profesión en otras entidades federativas.
 
 El quinto, con el certificado correspondiente de las autoridades judiciales del Estado y Federales, también del último domicilio del interesado.
 
@@ -1356,3 +1366,11 @@ Con la entrada en vigor del presente Decreto, quedan sin efectos las disposicion
 El Ejecutivo Estatal, deberá llevar a cabo las adecuaciones reglamentarias necesarias para dar cumplimiento a lo dispuesto por el presente Decreto.
 
 Al Ejecutivo para su promulgación y publicación.
+
+P.O. 25 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 522.- SE REFORMA LA LEY DEL NOTARIADO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día (sic)
