@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-especial-de-las-personas-adultas-69278"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-13"
-last_updated: "2023-05-08"
+last_updated: "2023-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -151,9 +151,9 @@ IV. Corresponsabilidad: La concurrencia y responsabilidad compartida del sector 
 
 V. Atención Diferenciada: Aquella que obliga a las autoridades del gobierno del Estado y Municipios a implementar acciones y programas acordes a las diferentes etapas, características, y requerimientos de las personas adultas mayores;
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-VI. Atención preferente: Es aquella que obliga a toda institución pública, social, privada y a la propia familia a implementar acciones y programas preferentes en beneficio de las personas adultas mayores, en igualdad de circunstancias frente a otras personas y de acuerdo a las condiciones y requerimientos que presenten, y para que se realicen procedimientos alternativos en los trámites administrativos, cuando tengan alguna discapacidad;
+VI. Atención preferente: Es aquella que obliga a las instituciones estatales y municipales de gobierno, a los sectores social y privado, así como a las familias, a implementar prioritariamente acciones y programas en beneficio de las personas adultas mayores, de acuerdo a las condiciones y requerimientos que presenten en sus diferentes etapas, características y circunstancias;
 
 > <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2018)</small>
 
@@ -167,13 +167,17 @@ VIII. Previsión: Acción a realizar cuando la persona aún no llega a la etapa 
 
 IX.- Prevención: Es la adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, mentales o sensoriales;
 
-> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-X. Protección al patrimonio del adulto mayor: Conjunto de medidas legales para proteger el patrimonio de los adultos mayores que por razones de edad y enfermedades degenerativas son vulnerables y se sitúan en una posición de riesgo de abuso de sus derechos patrimoniales; y
+X. Protección al patrimonio del adulto mayor: Conjunto de medidas legales para proteger el patrimonio de los adultos mayores que por razones de edad y enfermedades degenerativas son vulnerables y se sitúan en una posición de riesgo de abuso de sus derechos patrimoniales;
 
-> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-XI. Asistencia legal prioritaria: Aquella que se proporciona de forma gratuita especializada por parte del Estado para los adultos mayores que estén catalogados como vulnerables.
+XI. Asistencia legal prioritaria: Aquella que se proporciona de forma gratuita especializada por parte del Estado para los adultos mayores que estén catalogados como vulnerables; e
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+XII. Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
 
 ### CAPÍTULO II. De los Derechos
 
@@ -651,7 +655,9 @@ Los Comités Municipales estarán integrados de tres a cinco miembros, designado
 
 Corresponde al Instituto de Salud del Estado de Aguascalientes, en materia de personas adultas mayores:
 
-I. Coordinar y proporcionar la atención médica en los centros, unidades de salud y hospitales con una orientación gerontológica y geriátrica para los adultos mayores, conforme el Programa Estatal de Salud;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+I. Coordinar y proporcionar la atención médica. en los centros, unidades de salud y hospitales con una orientación gerontológica y geriátrica para los adultos mayores, conforme al Programa Estatal de Salud;
 
 II. Proporcionar, a los adultos mayores, una cartilla médica de auto cuidado, que será utilizada indistintamente en las instituciones públicas y privadas de salud;
 
@@ -669,9 +675,27 @@ VIII. Asegurar en su cuadro básico de medicamentos, los medicamentos para los t
 
 IX. Asignar cuando menos 10 consultorios de medicina geriátrica, para la atención de personas adultas mayores y se generen las plazas de especialistas en diagnóstico y tratamiento de este sector de la población;
 
-X. Contratar personas adultas mayores, conforme a su oficio, habilidad o profesión, sin más restricción que su limitación física o mental declarada por la autoridad médica o legal competente; y
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
-XI. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
+X. Contratar personas adultas mayores, conforme a su oficio, habilidad o profesión, sin más restricción que su limitación física o mental declarada por la autoridad médica o legal competente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+XI. Garantizar el derecho a la prestación de servicios públicos de salud integrales y de calidad, en todas las actividades de atención médica, de conformidad con lo establecido en el artículo 44 de la Ley de Salud del Estado de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+XII. Establecer programas de detección oportuna y tratamiento temprano de enfermedades crónicas y neoplasias entre las personas adultas mayores, así como de atención y asistencia a quienes sufren de discapacidades funcionales.
+
+Los programas de salud dirigidos a atender las necesidades de las personas en las diferentes etapas del ciclo de vida incorporarán medidas de prevención y promoción de la salud a fin de contribuir a prevenir discapacidades y favorecer un envejecimiento saludable; en igualdad de condiciones para el ejercicio del derecho a la protección de la salud de las personas adultas mayores;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+XIII. Contar con infraestructura adecuada a las necesidades de las personas adultas mayores; y
+
+> <small>(ADICIONADA [REPUBLICADA Y REUBICADA ANTES FRACCIÓN XI], P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+XIV. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
 ### CAPÍTULO V. De la Secretaría de Turismo del Estado
 
@@ -1502,3 +1526,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarías que se opongan al presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 517.- SE REFORMA Y ADICIONA LA LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+·El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes
