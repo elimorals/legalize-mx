@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-142998"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-25"
-last_updated: "2023-12-18"
+last_updated: "2023-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección Primera al Número 21 del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de mayo de 2020.
 
@@ -219,9 +219,11 @@ V. Organismo Público del Sector: Las demás Entidades Paraestatales u Organismo
 
 ### Capítulo II. Del Derecho a la Educación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 4°.
 
-Todo individuo tiene derecho a recibir educación de excelencia que garantice el máximo logro de aprendizaje de los educandos, en condiciones de equidad, sin discriminación alguna por motivos de raza, sexo, religión, lengua, ideología, embarazo, impedimento físico o mental, o cualquier otra condición personal, social o económica, por lo tanto, todos los habitantes del Estado de Aguascalientes tienen las mismas oportunidades de acceso, tránsito, permanencia, avance académico y, en su caso, egreso oportuno en el Sistema Educativo Nacional, con sólo satisfacer los requisitos que establezcan las instituciones educativas con base en las disposiciones aplicables.
+Todas las personas tienen derecho a recibir educación de excelencia que garantice el máximo logro de aprendizaje de los educandos, en condiciones de equidad, sin discriminación alguna por motivos de raza, sexo, religión, lengua, ideología, embarazo, impedimento físico o mental, o cualquier otra condición personal, social o económica, por lo tanto, todos los habitantes del Estado de Aguascalientes tienen las mismas oportunidades de acceso, tránsito, permanencia, avance académico y, en su caso, egreso oportuno en el Sistema Educativo Nacional, con sólo satisfacer los requisitos que establezcan las instituciones educativas con base en las disposiciones aplicables.
 
 Toda persona gozará del derecho fundamental a la educación bajo el principio de la intangibilidad de la dignidad humana.
 
@@ -293,9 +295,11 @@ El embarazo, la maternidad o paternidad no deberán constituir impedimento para 
 
 Con la finalidad de brindar servicios educativos de excelencia, el Gobierno del Estado garantizará que en las instituciones de educación básica los grupos no excedan de treinta y cinco alumnos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 9°.
 
-El Ejecutivo y la Autoridad Educativa Estatal realizarán acciones y tomarán las medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de excelencia de cada individuo, garantizarán una mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso, tránsito y permanencia en los servicios educativos al prestar especial atención a los individuos, planteles, comunidades y municipios que se encuentren en situación de rezago o que enfrenten condiciones económicas y sociales de vulnerabilidad por circunstancias específicas, a través de las siguientes acciones:
+El Poder Ejecutivo y la Autoridad Educativa Estatal realizarán acciones y tomarán las medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de excelencia de todas las personas, garantizarán una mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso, tránsito y permanencia en los servicios educativos al prestar especial atención a las personas, planteles, comunidades y municipios que se encuentren en situación de rezago o que enfrenten condiciones económicas y sociales de vulnerabilidad por circunstancias específicas, a través de las siguientes acciones:
 
 I. Atender de manera especial las escuelas en que, por estar en localidades aisladas o zonas urbanas marginadas, sea considerablemente mayor la posibilidad de atrasos o deserciones, mediante la asignación de elementos de mejor calidad para enfrentar los problemas educativos;
 
@@ -2482,3 +2486,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 520.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
