@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-72269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-21"
-last_updated: "2022-12-16"
+last_updated: "2023-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 2009.
 
@@ -319,9 +319,19 @@ IV. Expedir los comprobantes fiscales digitales por Internet que acrediten las e
 
 V. Las demás que señale esta Ley, el Código Fiscal del Estado y otros ordenamientos fiscales.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 27.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 2018)
+Las personas físicas, las personas morales y las unidades económicas que en el ejercicio fiscal de que se trate, estén obligadas al pago de Impuesto Sobre Nóminas, en términos del Título Segundo, Capítulo III de esta Ley, estarán obligadas a dictaminar el correcto cumplimiento de las disposiciones fiscales de este impuesto, cuando en el año de calendario inmediato anterior, se ubiquen en cualquiera de los siguientes supuestos:
+
+I. Que hayan realizado erogaciones o pagos, en efectivo o especie, por concepto de remuneraciones al servicio personal subordinado, a un promedio mensual de cien o más trabajadores, o
+
+II. Que hayan realizado erogaciones o pagos, en efectivo o especie, por concepto de remuneraciones al servicio personal subordinado, acumulados por un millón de pesos o más.
+
+Las personas físicas, las personas morales y las unidades económicas obligadas al pago del Impuesto sobre Nóminas, en términos del Título Segundo, Capítulo III de esta Ley, que no se encuentren obligadas a presentar el dictamen mencionado en el párrafo anterior, podrán optar por dictaminarse respecto del año de calendario inmediato anterior, presentando el aviso correspondiente, y aplicando, para ello, los términos y las condiciones que establezcan el Código Fiscal del Estado de Campeche y las reglas de carácter general que emita el Servicio de Administración Fiscal del Estado de Campeche.
+
+El monto de la cantidad establecida en este artículo se actualizará en el mes de enero de cada año, con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año al mes de diciembre del último año inmediato anterior a aquél por el cual se efectúe el cálculo, de conformidad con el procedimiento a que se refiere el artículo 27 del Código Fiscal del Estado de Campeche.
 
 #### SECCIÓN SÉPTIMA. DE LAS EXENCIONES
 
@@ -371,67 +381,51 @@ Para que los conceptos mencionados en este artículo no se encuentren gravados p
 
 #### SECCIÓN PRIMERA. DEL OBJETO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 29.
 
 Es objeto de este impuesto la prestación de servicios de hospedaje, siempre que dichos servicios sean prestados u otorgados dentro del Estado de Campeche, independientemente del lugar o el medio por el cual se realice el pago, incluidos aquellos que se contraten a través de intermediarios, promotores o facilitadores.
 
-Para los efectos de este impuesto se consideran servicios de hospedaje entre otros, los siguientes:
+Para los efectos de este impuesto se consideran servicios de hospedaje, entre otros, los siguientes:
 
-I.- El alojamiento o albergue temporal de personas en hoteles y moteles; casas de huéspedes, suites, villas, casas, departamentos, departamentos amueblados, albergues, bungalows, y todo tipo de construcción en que se proporcione alojamiento, así como en todo tipo o clase de establecimientos de naturaleza análoga;
+I. El alojamiento o albergue temporal de personas en hoteles y moteles; casas de huéspedes, suites, villas, casas, departamentos, departamentos amueblados, albergues, bungalows, y todo tipo de construcción en que se proporcione alojamiento, así como en todo tipo o clase de establecimientos de naturaleza análoga;
 
-II.- La prestación de servicios mediante el sistema de tiempo compartido o de operación hotelera en hoteles, moteles, suites, villas o bungalows, así como en complejos turísticos y demás establecimientos de naturaleza análoga independientemente el nombre con el que se les designe o denomine, mediante el que se conceda el uso, goce y demás derechos que se convengan sobre un bien o parte del mismo, ya sea sobre una sola unidad o sobre una diversidad de unidades a opción del prestatario, durante un período específico, a intervalos previamente establecidos, determinados o determinables;
+II. La prestación de servicios mediante el sistema de tiempo compartido o de operación hotelera en hoteles, moteles, suites, villas o bungalows, así como en complejos turísticos y demás establecimientos de naturaleza análoga, independientemente del nombre con el que se les designe o denomine, mediante el que se conceda el uso, goce y demás derechos que se convengan sobre un bien o parte del mismo, ya sea sobre una sola unidad o sobre una diversidad de unidades a opción del prestatario, durante un período específico, a intervalos previamente establecidos, determinados o determinables;
 
-III.- La prestación de servicios de paraderos de casas rodantes, móviles o autotransportables, mediante los cuales se otorga el espacio e instalaciones para el estacionamiento temporal de éstas; y
+III. La prestación de servicios de paraderos de casas rodantes, móviles o autotransportables, mediante los cuales se otorga el espacio e instalaciones para el estacionamiento temporal de éstas; y
 
-IV.- Los servicios de campamento a través de los que se otorga espacio para acampar.
+IV. Los servicios de campamento a través de los que se otorga espacio para acampar.
 
-Para los efectos de este impuesto no se considerará la prestación de servicios de albergue o alojamiento prestados por hospitales, clínicas, asilos, internados, casas de beneficencia pública o asistencia social, conventos, seminarios e instituciones religiosas, siempre que se trate de servicios propios de su objeto o fin.
+Para los efectos de este impuesto, no se considerará la prestación de servicios de albergue o alojamiento prestados por hospitales, clínicas, asilos, internados, casas de beneficencia pública o asistencia social, conventos, seminarios e instituciones religiosas, siempre que se trate de servicios propios de su objeto o fin.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
+En los supuestos previstos en las fracciones I, II y III de este artículo, cuando intervenga una persona física o moral en su carácter de intermediario, promotor o facilitador, ésta deberá retener y enterar el pago del impuesto correspondiente a la autoridad fiscal.
 
-En los supuestos previstos en las fracciones I, II y III de este artículo, cuando intervenga una persona física o moral en su carácter de intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje, y en caso de que se cubra a través de ella lo correspondiente al Impuesto sobre Servicios de Hospedaje, ésta deberá retener y enterar el pago del impuesto correspondiente a la autoridad fiscal, debiendo proporcionar la constancia de retención correspondiente.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
+ARTÍCULO 29 BIS.- Las personas físicas o morales que participen en su carácter de intermediarias, promotoras o facilitadoras, deberán inscribirse en el Registro Estatal de Contribuyentes en su carácter de intermediario, promotor o facilitador, a efecto de coadyuvar en el cumplimiento de lo establecido en el artículo 33 de esta Ley.
 
-Para los efectos de este impuesto se considerará como intermediarias, promotoras o facilitadoras, además, a las plataformas tecnológicas, aplicaciones informáticas y similares, a través de las cuales se contrate el servicio de hospedaje.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-ARTÍCULO 29 BIS.- Las personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras intervengan en el cobro de las contraprestaciones por servicios de hospedaje, y en caso de que se cubra a través de ellas lo correspondiente al impuesto señalado en este capítulo, deberán inscribirse al Registro Estatal de Contribuyentes en su carácter de intermediario, promotor o facilitador a efecto de coadyuvar en el cumplimiento de lo establecido en el artículo 33 de esta Ley.
-
-> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 5 DE NOVIEMBRE DE 2021)</small>
-
-Asimismo, las personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras intervengan en la contratación de servicios de hospedaje, deberán proporcionar al Servicio de Administración Fiscal del Estado de Campeche a más tardar el día 20 del mes siguiente de que se trate, de conformidad con las reglas de carácter general que para tal efecto se emitan, la información respecto de las operaciones en las que hayan actuado como intermediarias, aun y cuando no hayan efectuado el cobro de la contraprestación y el impuesto sobre hospedaje correspondiente, teniendo que proporcionar la siguiente información de sus clientes:
-
-a) Nombre completo o razón social;
-
-b) Registro Estatal de Contribuyentes;
-
-c) Domicilio fiscal;
-
-d) Institución financiera y cuenta bancaria en la cual se reciben los depósitos de los pagos;
-
-e) Monto de las operaciones celebradas con su intermediación durante el período del que se trate; y
-
-f) Domicilio del inmueble, objeto de la prestación de servicios de hospedaje.
+Asimismo, las personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras retengan el Impuesto, deberán proporcionar al Servicio de Administración Fiscal del Estado de Campeche, a más tardar el día 20 del mes siguiente de que se trate, la declaración mensual correspondiente, de conformidad con las reglas de carácter general que para tal efecto se emitan.
 
 #### SECCIÓN SEGUNDA. DE LOS SUJETOS
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 30.
 
-Son sujetos y están obligados al pago de este impuesto, las personas físicas y morales y las unidades económicas que presten los servicios a que se refiere el artículo anterior, dentro del Estado de Campeche, incluyendo las agencias, sucursales, oficinas, locales, establecimientos o instalaciones, cualquiera que sea la denominación que se le dé, aun cuando tengan su domicilio principal fuera del Estado de Campeche, quienes lo trasladarán en forma expresa y por separado a los usuarios del servicio, independientemente del lugar donde se celebre el contrato, se pague el precio o contraprestación.
+Son sujetos y están obligados al pago de este impuesto, las personas físicas y morales y las unidades económicas que presten los servicios de hospedaje dentro del Estado de Campeche, incluyendo las agencias, sucursales, oficinas, locales, establecimientos o instalaciones, cualquiera que sea la denominación que se les dé, aun cuando tengan su domicilio principal fuera del Estado de Campeche, quienes lo trasladarán en forma expresa y por separado a los usuarios del servicio, independientemente del lugar donde se celebre el contrato, se pague el precio o contraprestación.
 
 Se entenderá por traslado del impuesto, el cobro o cargo que el contribuyente debe hacer a los usuarios de este servicio, por un monto equivalente al impuesto establecido en este Capítulo.
 
-El traslado del impuesto a que se refiere este artículo no se considerará violatorio de precios o tarifas incluyendo los oficiales.
+El traslado del impuesto a que se refiere este artículo no se considerará violatorio de precios o tarifas, incluyendo los oficiales.
 
 #### SECCIÓN TERCERA. DE LA BASE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 31.
 
-La base para el cálculo de este impuesto será el valor de la contraprestación pactada por los servicios de hospedaje, así como los depósitos y anticipos que ésta incluya y las cantidades que además se carguen o cobren a quien recibe el servicio, intereses normales o moratorios, penas convencionales y cualquier otro concepto vinculado al servicio prestado.
+La base para el cálculo de este impuesto será el valor de la contraprestación pactada por los servicios de hospedaje, así como los depósitos y anticipos que ésta incluya y las cantidades que, además, se carguen o cobren a quien recibe el servicio.
 
 No formarán parte de la base gravable de este impuesto, el importe de los servicios correspondientes a alimentación y demás servicios distintos al hospedaje.
 
@@ -449,19 +443,17 @@ El monto del impuesto se determinará aplicando a la base gravable a que alude e
 
 #### SECCIÓN QUINTA. DEL PAGO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 33.
 
-El impuesto establecido en este capítulo se causará y se tendrá obligación de pagar en el momento en que se cobren o sean exigibles las contraprestaciones en favor de quien preste los servicios de hospedaje, el que ocurra primero.
+El impuesto establecido en este capítulo se causará y se tendrá obligación de pagar en el momento en que se cobren o sean exigibles las contraprestaciones a favor de quien preste los servicios de hospedaje; el que ocurra primero.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
+El pago de este impuesto tiene el carácter de definitivo y deberá efectuarse mensualmente, mediante declaración que deberá presentarse, a más tardar, el día veinte del mes siguiente a aquel en que se cause el impuesto, en los formularios que apruebe y publique el Servicio de Administración Fiscal del Estado de Campeche. La obligación de presentar declaración subsistirá aun cuando no hubiese cantidad a cargo.
 
-El pago de este impuesto tiene el carácter de definitivo y deberá efectuarse mensualmente, mediante declaración que deberá presentarse a más tardar el día veinte del mes siguiente a aquel en que se cause el impuesto, en los formularios que apruebe y publique el Servicio de Administración Fiscal del Estado de Campeche. La obligación de presentar declaración subsistirá aun cuando no hubiese cantidad a cargo.
+Asimismo, aquellas personas físicas o morales que intervengan como intermediarias, promotoras o facilitadoras, deberán presentar, a más tardar, el día veinte de cada mes, una sola declaración por el total de las contraprestaciones percibidas en el mes inmediato anterior, y enterar el impuesto retenido en las formas y medios que se establezcan en las reglas que para este efecto se emitan.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
-
-Asimismo, aquellas personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras intervengan en el cobro de las contraprestaciones por los servicios de hospedaje y en caso de que se cubra a través de ellas lo correspondiente al Impuesto sobre Servicios de Hospedaje, deberán presentar a más tardar el día veinte de cada mes, una sola declaración por el total de las contraprestaciones percibidas en el mes inmediato anterior, y enterar el impuesto retenido, en las formas y medios que para tal efecto establezca el Servicio de Administración Fiscal, de conformidad con lo establecido en el párrafo segundo de este artículo.
+En caso de que las personas físicas o morales intermediarias, promotoras o facilitadoras no cumplan con la obligación de retener y enterar el impuesto sobre el hospedaje, serán objeto de las sanciones correspondientes. Además, en este supuesto, los prestadores del servicio serán responsables de presentar declaraciones mensuales y llevar la contabilidad de las operaciones para acreditar el pago correspondiente.
 
 #### SECCIÓN SEXTA. DE LAS OBLIGACIONES
 
@@ -490,6 +482,10 @@ IX.- Conservar la documentación comprobatoria de las operaciones de prestación
 X.- Poner a disposición de las autoridades competentes, para los efectos del ejercicio de sus facultades de comprobación, los informes, documentos, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de este impuesto, así como del resto de las obligaciones a su cargo en términos del presente Capítulo; y
 
 XI.- Las demás que señale esta Ley y los ordenamientos fiscales aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+En el caso de las personas físicas o morales que intervengan como intermediarias, promotoras o facilitadoras deberán cumplir con los requisitos establecidos en las reglas administrativas aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
@@ -1683,6 +1679,78 @@ Autobuses de más de 30 pasajeros 60.00
 
 El cobro de los derechos señalados aplicarán en los términos, tramos, modalidades y condiciones que señala la Ley que Establece Disposiciones para el Tránsito en el Camino de Acceso a la Zona Arqueológica de Calakmul, publicada en el Periódico Oficial del Estado, en fecha 29 de diciembre de 1994.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+###### ARTÍCULO 71-A.
+
+Están obligados al pago del derecho por el acceso a los monumentos históricos inmuebles, en propiedad o posesión del Estado, las personas que tengan acceso a las mismas, conforme a las siguientes cuotas:
+
+UMAS
+
+Monumentos
+
+Históricos ESTUDIANTES
+
+Inmuebles GENERAL NIÑO INAPAM CON
+
+CREDENCIAL
+
+Acceso al Baluarte
+
+de Santiago (Jardín
+
+Botánico Xmuch-
+
+Haltún) 0.4820
+
+Acceso a los
+
+Baluartes Puerta de
+
+Tierra, San Juan
+
+y San Francisco 0.4820
+
+Acceso y
+
+Espectáculo
+
+Artístico en los
+
+Baluartes de Puerta
+
+de Tierra,
+
+San Juan
+
+y San
+
+Francisco 1.1567 0.5784 0.5784 0.5784
+
+El pago de este derecho deberá hacerse previamente al ingreso de los monumentos históricos Inmuebles a que se refiere este artículo. Las personas que acrediten ser campechanos y tener su domicilio en el Estado no pagarán el derecho previsto en el presente artículo.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+###### ARTÍCULO 71-B.
+
+Están obligadas a pagar el derecho por el uso o aprovechamiento de los monumentos históricos inmuebles, las personas físicas y morales que usen o aprovechen dichos bienes, conforme a lo que a continuación se señala:
+
+I. 0.5805 por cada metro cuadrado o fracción, cuando el uso o goce consista en la realización de actividades comerciales y el espacio no exceda de 30 metros cuadrados.
+
+El pago del derecho a que se refiere esta fracción se efectuará mensualmente mediante declaración que se presentará en las oficinas autorizadas a más tardar el día 17 del mes siguiente al que corresponda el pago.
+
+II. 0.3481 por cada metro cuadrado o fracción que se use, goce o aproveche para cada evento cultural de hasta cuatro horas de duración, incluido el tiempo de montaje y desmontaje de instalaciones, realizado en espacios exteriores de cualquier tipo. El pago del derecho a que se refiere esta fracción, se efectuará previamente a la realización del evento.
+
+III. 96.743 por evento cultural de hasta cuatro horas de duración, incluido el tiempo de montaje y desmontaje de equipos y accesorios, realizado en espacios cerrados, tales como auditorios, vestíbulos y salas.
+
+El pago del derecho a que se refiere esta fracción se efectuará previamente a la realización del evento.
+
+Para los efectos de este artículo, no estarán obligados al pago de los derechos los siguientes:
+
+a) Las instituciones públicas que realicen conjuntamente con la Secretaría de Turismo, eventos turísticos, culturales, educativos, cívicos o de asistencia social, previa celebración de un convenio; y
+
+b) Las instituciones públicas que realicen de manera conjunta con la Secretaría de Turismo, actividades turísticas y culturales de promoción, difusión y comercialización, previa celebración de un convenio.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
 ### CAPÍTULO VII
@@ -2017,469 +2085,443 @@ informativo prevista en el artículo 17 del Código
 
 Fiscal del Estado de Campeche. 3
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXIV.- Por los servicios prestados en materia de transporte, de conformidad con los artículos 13, 14 y 15 de la Ley de Transporte del Estado; en lo referente a concesiones y permisos de pasajeros y carga para las modalidades de servicio público y mercantil, estimado con el cálculo del valor diario de la unidad de medida y actualización, es el siguiente:
+XXIV.- Por los servicios prestados en materia de transporte y movilidad de pasajeros y carga en sus diversas modalidades, de conformidad con la legislación aplicable, se causarán y pagarán los siguientes derechos:
 
-CONCEPTO Unidades de Medidas
+Concepto Unidades de Medidas
 
 y Actualización
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
 
 a) Por el estudio para la solicitud de concesión de
 
 servicio público de transporte de pasajeros y carga
 
-en las modalidades contempladas en los apartados 42
+en las modalidades de autobuses, colectivos, taxis,
 
-A y B de la fracción I de los artículos 14 y 15 de la
-
-Ley de Transporte del Estado.
+carga en general, grúas, BRT y servicio mixto. 42
 
 b) Por el estudio para la solicitud de concesión de
 
-servicio especializado de transporte para la 10
+servicio especializado de transporte para la
 
-modalidad contemplada en el apartado A de la
+modalidad de mototaxis. 10
 
-fracción II del artículo 14 de la Ley de Transporte
+c) Por el otorgamiento de una concesión de servicio
 
-del Estado:
+público de transporte, a solicitud de la parte
 
-c) Por el estudio para la solicitud de concesión de
+interesada, en las modalidades de autobuses,
 
-servicio especializado de transporte para la 5
+colectivos, taxis, carga en general y grúas. 30
 
-modalidad contemplada en el apartado B de la
+d) Por el otorgamiento de una concesión de servicio
 
-fracción II del artículo 14 de la Ley de Transporte
+público de transporte, a solicitud de la parte interesada,
 
-del Estado:
+para la modalidad de mototaxis. 5
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+e) Por el otorgamiento de una concesión en la modalidad
 
-d) Por el refrendo de una concesión de servicio público
+de BRT. 4820
 
-de transporte de pasajeros y carga en las modalidades 30
+f) Por el otorgamiento de la concesión en la modalidad
 
-contempladas en los apartados A y B de la fracción I de
+de servicio mixto. 20
 
-los artículos 14 y 15 de la Ley de Transporte del Estado:
+g) Por la prórroga de una concesión de servicio público
 
-e) Por el refrendo de una concesión de servicio público
+de transporte de pasajeros y carga, en las modalidades
 
-de transporte para la modalidad contemplada en el 5
+de autobuses, colectivos, taxis, carga en general y grúas. 30
 
-apartado A de la fracción II del artículo 14 de la
+h) Por la prórroga de una concesión del servicio de
 
-Ley de Transporte del Estado:
+transporte público en la modalidad de mototaxis. 5
 
-f) Por el refrendo de una concesión de servicio público
+i) Por la prórroga de una concesión del servicio público
 
-de transporte para la modalidad contemplada en el 2
+de transporte, en la modalidad de BRT. 4820
 
-apartado B de la fracción II del artículo 14 de la Ley
+j) Por la prórroga de una concesión del servicio público
 
-de Transporte del Estado:
+de transporte, en la modalidad de servicio mixto. 20
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+k) Por la expedición de un nuevo título de concesión de
 
-g) Por la expedición de un nuevo título de concesión
+servicio público de transporte, con motivo del cambio
 
-de servicio público, con motivo del cambio de titular 24
+de titular por la incapacidad física o mental, declaración
 
-por la incapacidad física o mental, declaración de
+de ausencia o fallecimiento del concesionario, en las
 
-ausencia o fallecimiento de concesionario en
+modalidades de autobuses, colectivos, taxis, carga en
 
-modalidades contempladas en los apartados A y B
+general, grúas y servicio mixto. 24
 
-de la fracción I de los artículos 14 y 15 de la Ley de
+l) Por la expedición de un nuevo título de concesión de
 
-Transporte del Estado:
+servicio público de transporte, con motivo del cambio
 
-h) Por la expedición de un nuevo título de concesión de
+de titular por la incapacidad física o mental, declaración
 
-servicio público, con motivo del cambio de titular por la 5
+de ausencia o fallecimiento del concesionario, en la
 
-incapacidad física o mental, declaración de ausencia o
+modalidad de mototaxis. 5
 
-fallecimiento de concesionario, para la modalidad
+m) Por la reposición de un título de concesión de
 
-contemplada en el apartado A de la fracción II del artículo
+servicio público de transporte, por modificación, robo
 
-14 de la Ley de Transporte del Estado:
+o extravío, en las modalidades de autobuses, colectivos,
 
-i) Por la expedición de un nuevo título de concesión de
+taxis, carga en general, grúas, BRT y servicio mixto. 24
 
-servicio público, con motivo del cambio de titular por la 2
+n) Por la reposición de un título de concesión de
 
-incapacidad física o mental, declaración de ausencia o
+servicio público de transporte, por modificación, robo
 
-fallecimiento de concesionario para la modalidad
+o extravío, en la modalidad de mototaxi. 5
 
-contemplada en el apartado B de la fracción II del
+o) Por la revisión física y mecánica de los vehículos
 
-artículo 14 de la Ley de Transporte del Estado:
+destinados al transporte público y mercantil, en las
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+modalidades de autobuses, colectivos, taxis, carga en
 
-j) Por el otorgamiento de una concesión de servicio
-
-público de transporte, a solicitud de la parte interesada, 30
-
-en las modalidades contempladas en los apartados
-
-A y B de la fracción I de los artículos 14 y 15 de la
-
-Ley de Transporte del Estado:
-
-k) Por el otorgamiento de una concesión de servicio
-
-público de transporte a solicitud de parte interesada, 5
-
-para la modalidad contemplada en el apartado A de
-
-la fracción II del artículo 14 de la Ley de Transporte
-
-del Estado:
-
-l) Por el otorgamiento de una concesión de servicio
-
-público de transporte a solicitud de parte interesada, 2
-
-para la modalidad contemplada en el apartado B de
-
-la fracción II del artículo 14 de la Ley de Transporte
-
-del Estado:
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
-
-m) Por la reposición de un título de concesión de servicio
-
-público de transporte en las modalidades contempladas 24
-
-en los apartados A y B de la fracción I de los artículos 14
-
-y 15 de la Ley de Transporte del Estado:
-
-n) Por la reposición de un título de concesión de servicio
-
-público de transporte para la modalidad contemplada 5
-
-en el apartado A de la fracción II del artículo 14 de la
-
-Ley de Transporte del Estado:
-
-o) Por la reposición de un título de concesión de servicio
-
-público de transporte para la modalidad contemplada en 2
-
-el apartado B de la fracción II del artículo 14 de la Ley de
-
-Transporte del Estado:
+general, grúas, BRT y servicio mixto. 3
 
 p) Por la revisión física y mecánica de los vehículos
 
-destinados al servicio público y mercantil de transporte 3
+destinados al transporte público y mercantil, en la
 
-en las modalidades contempladas en las fracciones I y III
+modalidad de mototaxis. 2
 
-del artículo 14, así como I y II del artículo 15 de la Ley de
+q) Por la tramitación, estudio y diagnóstico de
 
-Transporte del Estado.
+factibilidad para la autorización de modificación,
 
-q) Por la revisión física y mecánica de los vehículos
+ampliación o creación de ruta de transporte público
 
-destinados al servicio público y mercantil de transporte 2
+en las modalidades de autobuses, colectivos, BRT y
 
-para la modalidad contemplada en el apartado A de la
+servicio mixto. 15
 
-fracción II del artículo 14 de la Ley de Transporte del Estado:
+r) Por la modificación, ampliación o creación de una
 
-r) Por la revisión física y mecánica de los vehículos
+ruta de transporte público, en las modalidades de
 
-destinados al servicio público y mercantil de transporte 1
+autobuses, colectivos, BRT y servicio mixto. 15
 
-para la modalidad contemplada en el apartado B de la
+s) Por la ampliación del parque vehicular del servicio
 
-fracción II del artículo 14 de la Ley de Transporte del Estado:
+público de grúas. 60
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+t) Por la capacitación de conductores certificados en
 
-s) Por la tramitación, estudio y diagnóstico de factibilidad
+cualquiera de sus modalidades. 12
 
-para la autorización de modificación o creación de ruta 15
+u) ) Por la expedición o reimpresión de la identificación
 
-de transporte público en las modalidades contempladas
+de conductor de vehículo de servicio de transporte
 
-en los apartados A y B de la fracción I del artículo 14 de
+público y mercantil, en todas las modalidades excepto
 
-la Ley de Transporte del Estado:
+mototaxis. 10
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+v) Por la expedición o reimpresión de la identificación de
 
-t) Por la modificación o creación de una ruta de transporte
+conductor de vehículo de servicio de transporte público y
 
-público en las modalidades contempladas en los apartados 15
+mercantil, en la modalidad de mototaxi. 4
 
-A y B de la fracción I del artículo 14 de la Ley de Transporte
+w) Por el resello de la identificación de conductor de
 
-del Estado:
+vehículo del servicio de transporte, en todas sus
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+modalidades, excepto mototaxi. 5
 
-u) Por la expedición o reimpresión de la identificación de
+x) Por el resello de la identificación de conductor de
 
-conductor de vehículo de servicio público o mercantil de 10
+vehículo de servicio público o mercantil de transporte
 
-transporte para las modalidades contempladas en las
+para la modalidad de mototaxi. 2
 
-fracciones I y III del artículo 14, así como I y II del artículo
+y) Por el resello anual por vehículo del servicio público
 
-15, todos de la Ley de Transporte del Estado:
+de transporte, en la modalidad de BRT 60
 
-v) Por la expedición o reimpresión de la identificación
+z) Por el resello anual por vehículo del servicio público
 
-de conductor de vehículo de servicio público o mercantil 4
+de transporte, en la modalidad de servicio mixto. 20
 
-de transporte, para la modalidad contemplada en el
+aa) Por el dictamen favorable para el alta y baja de
 
-apartado A de la fracción II del artículo 14 de la Ley de
+socios y cambio de los estatutos sociales de las
 
-Transporte del Estado:
-
-w) Por la expedición o reimpresión de la identificación
-
-de conductor de vehículo de servicio público o mercantil 1
-
-de transporte para la modalidad contemplada en el apartado
-
-B de la fracción II del artículo 14 de la Ley de Transporte
-
-del Estado:
-
-x) Por el resello de la identificación de conductor
-
-de vehículo de servicio público y mercantil 5
-
-de transporte para las modalidades contempladas
-
-en las fracciones I y III del artículo 14 y las fracciones
-
-I y II del artículo 15 de la Ley de Transporte del Estado:
-
-y) Por el resello de la identificación de conductor de
-
-vehículo de servicio público o mercantil de 2
-
-transporte para la modalidad contemplada en el
-
-apartado A de la Fracción II del artículo 14 de la Ley
-
-de Transporte del Estado:
-
-z) Por el resello de la identificación de conductor
-
-de vehículo de servicio público o mercantil de 1
-
-transporte para la modalidad contemplada en el
-
-apartado B de la Fracción II del artículo 14 de la
-
-Ley de Transporte del Estado:
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
-
-aa) Por la tramitación y expedición de un permiso
-
-temporal, de hasta por un año, de un servicio
-
-de transporte público y mercantil de transporte,
-
-cuando exista una necesidad de servicio inmediata 18
-
-o emergente. En el caso de que la vigencia de la
-
-autorización sea menor se cobrará la parte
-
-proporcional; para las modalidades contempladas
-
-en las fracciones I y III del artículo 14 y las fracciones
-
-I y II del artículo 15 de la Ley de Transporte del Estado:
+sociedades cooperativas y mercantiles. 50
 
 bb) Por la tramitación y expedición de un permiso
 
-temporal de hasta por un año, de un servicio 2
+temporal de hasta por un año, de un servicio de
 
-de transporte público y mercantil de transporte,
+transporte público, privado y mercantil de transporte,
 
-cuando exista una necesidad de servicio inmediata
+cuando exista una necesidad de servicio inmediata o
 
-o emergente. En el caso de que la vigencia de la
+emergente, para las modalidades de autobuses,
 
-autorización sea menor se cobrará la parte proporcional;
+colectivos, taxis, carga en general, grúas, BRT y
 
-para la modalidad contemplada en el apartado A de la
+servicio mixto. En el caso de que la vigencia de la
 
-fracción II del artículo 14 de la Ley de Transporte del Estado:
+autorización sea menor se cobrará la parte proporcional. 18
 
 cc) Por la tramitación y expedición de un permiso
 
-temporal de hasta por un año, de un servicio 1
+temporal de hasta por un año, de un servicio de
 
-de transporte público y mercantil de transporte,
+transporte público y mercantil de transporte,
 
-cuando exista una necesidad de servicio inmediata
+cuando exista una necesidad de servicio inmediata,
 
-o emergente. En el caso de que la vigencia de la
+en la modalidad de mototaxi. 2
 
-autorización sea menor se cobrará la parte proporcional;
+dd) Por la expedición de la constancia de transporte de
 
-para la modalidad contemplada en el apartado B de la
+pasajeros a las empresas de redes de transporte
 
-Fracción II del artículo 14 de la Ley de Transporte del Estado:
+tecnológicas. 4820
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 27 DE DICIEMBRE DE 2017)</small>
+ee) Por la expedición del certificado de operador titular de
 
-XXV.- Por los servicios relativos al Registro Público de Transporte de pasajeros y carga de conformidad con el artículo 13 de la Ley de Transporte del Estado, para las modalidades de servicio público y mercantil, estimado con el cálculo del valor diario de la unidad de medida y actualización, se causarán y pagarán los derechos siguientes:
+transporte de pasajeros contratado a través de plataformas
 
-CONCEPTO Unidades de Medida
+tecnológicas. 10
+
+ff) Por la expedición de la constancia para el vehículo
+
+registrado como transporte de pasajeros contratado a
+
+través de plataformas tecnológicas. 10
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+XXV.- Por los servicios relativos al Registro Público de Transporte, prestados en materia de transporte y movilidad de pasajeros y carga en sus diversas modalidades, de conformidad con la legislación aplicable, se causarán y pagarán los siguientes derechos:
+
+Concepto Unidades de Medidas
 
 y Actualización
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
-
-a) Por la inscripción del concesionario o
-
-permisionario de servicio público y mercantil 6
-
-de transporte, así como por la inscripción del
-
-título de concesión o permiso, así como para la
-
-modificación de sus datos en dicho registro para
-
-las modalidades contempladas en las fracciones
-
-I y III del artículo 14 y fracciones I y II del artículo
-
-15 de la Ley de Transporte del Estado:
-
-b) Por la inscripción del concesionario o permisionario 2
+a) Por la inscripción del concesionario o permisionario
 
 de servicio público y mercantil de transporte, así
 
 como por la inscripción del título de concesión o
 
-permiso, así como para la modificación de sus
+permiso; así como para la modificación de sus datos
 
-datos en dicho registro, para la modalidad
+en dicho registro para las modalidades de autobuses,
 
-contemplada en el apartado A de la fracción II
+colectivos, taxis, carga en general, grúas, BRT y
 
-del artículo 14 de la Ley de Transporte del Estado:
+servicio mixto. 6
 
-c) Por la inscripción del concesionario o permisionario
+b) Por la inscripción del concesionario o permisionario
 
 de servicio público y mercantil de transporte, así
 
-como por la inscripción del título de concesión o 1
+como por la inscripción del título de concesión o
 
-permiso, así como para la modificación de sus
+permiso; así como para la modificación de sus datos
 
-datos en dicho registro, para la modalidad
+en dicho registro para la modalidad de mototaxis. 2
 
-contemplada en el apartado B de la fracción II
+c) Por la inscripción de la designación de beneficiarios
 
-del artículo 14 de la Ley de Transporte del Estado:
+por persona física titular de una concesión de servicio
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+de transporte público, para las modalidades de autobuses,
+
+colectivos, taxis, carga en general, grúas y servicio mixto. 6
 
 d) Por la inscripción de la designación de beneficiarios
 
-por persona física titular de una concesión de servicio 6
+por persona física titular de una concesión de servicio
 
-público de transporte, para las modalidades contempladas
+público de transporte, para la modalidad de mototaxis. 2
 
-en los apartados A y B de la fracción I de los artículos
+e) Por la inscripción de beneficiario entre un titular con
 
-14 y 15 de la Ley de Transporte del Estado:
+concesión y un particular, por vehículo. 200
 
-e) Por la inscripción de la designación de beneficiarios
+f) Por la integración de expediente de solicitud de
 
-por persona física titular de una concesión de 2
+cambio de beneficiario, en cualquier modalidad. 10
 
-servicio público de transporte, para la modalidad
+g) Por la expedición de copias certificadas de la
 
-contemplada en el apartado A de la fracción II
-
-del artículo 14 de la Ley de Transporte del Estado:
-
-f) Por la inscripción de la designación de beneficiarios
-
-por persona física titular de una concesión de servicio 1
-
-público de transporte, para la modalidad contemplada
-
-en el apartado B de la fracción II del artículo 14 de la
-
-Ley de Transporte del Estado:
+información del Registro Estatal de Transporte. 1
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
 Por lo que respecta a los servicios que preste el Poder Judicial del Estado de Campeche, se cobrarán los derechos que se mencionan en las fracciones I y II de este artículo, consistentes en el registro a concurso, inscripción y venta de base, así como por el registro en el padrón de proveedores, contratistas y prestadores de servicio.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+###### ARTÍCULO 72-A.
+
+Por los servicios prestados en materia de Actividades de Agentes Inmobiliarios, de conformidad con la Ley que Regula las Actividades de los Agentes Inmobiliarios Registrados en el Estado de Campeche, se causarán y pagarán los derechos siguientes:
+
+Concepto Unidades de Medida
+
+y Actualización
+
+I. Por inscripción en el Registro Estatal de Agentes
+
+Inmobiliarios y expedición de acreditaciones como
+
+Agente inmobiliario 12
+
+II. Por Renovación de Acreditación como Agente
+
+inmobiliario. 12
+
+III. Reposición por extravío o destrucción de la
+
+Acreditación como Agente inmobiliario 10
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+###### ARTÍCULO 72-B.
+
+Por los servicios prestados en materia de Protección Civil de conformidad con la Ley de Protección Civil, Prevención y Atención de Desastres del Estado de Campeche, se causarán y pagarán los derechos siguientes:
+
+CONCEPTO Unidades de Medida
+
+y Actualización
+
+I. Elaboración de Dictámenes de Análisis de Peligro
+
+o Riesgo 30
+
+II. Revisión de Dictámenes de Análisis de Peligro o
+
+Riesgo elaborados por Municipios o por Terceros
+
+Acreditados 5
+
+III. Expedición de Constancias de Registro que
+
+se otorguen a las personas físicas capacitadoras e
+
+instructores en materia de protección civil 28
+
+IV. Prorroga/revalidación de Constancias de Registro
+
+que se otorguen a las personas físicas capacitadoras e
+
+instructores en materia de protección civil 15
+
+V. Expedición de Constancias de Registro que se
+
+otorguen a las empresas capacitadoras e instructores
+
+en materia de protección civil 38
+
+VI. Prórroga/revalidación de Constancias de Registro
+
+que se otorguen a las empresas capacitadoras e
+
+instructores en materia de protección civil 20
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+###### ARTÍCULO 72-C.
+
+Por los servicios que proporciona la Secretaría de Protección y Seguridad Ciudadana para regular la prestación de servicios de seguridad privada, se causarán y pagarán los derechos siguientes:
+
+Concepto Unidades de Medida y
+
+Actualización
+
+I. Por la inscripción y autorización expedida por la
+
+Unidad de Registro Estatal de Empresas, Personal y
+
+Equipo de Seguridad Privada en sus distintas
+
+modalidades. 30
+
+II. Por la Revalidación de la Autorización expedida por
+
+la Unidad de Registro Estatal de Empresas, Personal y
+
+Equipo de Seguridad Privada en sus distintas
+
+modalidades. 20
+
+III. Por la consulta de antecedentes policiales y la
+
+inscripción en el Registro Nacional del Personal de
+
+Seguridad Pública mediante la expedición de la Clave
+
+Única de Identificación Permanente del personal
+
+operativo que preste servicios de seguridad privada. 3
+
+IV. Por la autorización a empresas de seguridad privada,
+
+para el uso de torretas color ámbar, verde o la
+
+combinación de éstos, a vehículos utilitarios de las
+
+empresas de seguridad privada por el período de un año. 20
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
 ### CAPÍTULO VIII. EXPEDICIÓN Y REVALIDACIÓN DE LICENCIAS Y PERMISOS EN MATERIA DE BEBIDAS ALCOHÓLICAS
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-###### ARTICULO 73.
+###### ARTÍCULO 73.
 
-Por la expedición de licencias en materia de bebidas alcohólicas, se causarán y pagarán derechos de acuerdo con el número de veces el valor diario de la Unidad de Medida y Actualización, conforme a la siguiente:
+Por la expedición de licencias para la distribución, almacenamiento, venta y consumo de bebidas alcohólicas, se causarán y pagarán derechos de acuerdo con el número de veces el valor diario de la Unidad de Medida y Actualización, conforme a la siguiente:
 
-T A R I F A
-
-Unidades de Medida
+TARIFA Unidades de Medida
 
 y Actualización
 
-I. Cabaret o Centro Nocturno, Bar, Cantina,
+I. Restaurante, Hotel y Motel, Distribuidora, Bodega,
 
-Restaurant, Discoteca, Hotel y Motel,
+Almacén, Deposito y Casino. 2650
 
-Distribuidora, Bodega, Almacén y Supermercado,
+II. Cabaret o Centro Nocturno, Discoteca, Bar y Cantina. 2900
 
-Casino, Franquicia, Fábrica de Bebidas Alcohólicas. 2,522
+III. Charrería. 2240
 
-II. Charrería 2,240
+IV. Salón cerveza, Salón Baile, Billar o Boliche. 1965
 
-III. Salón Cerveza, Salón Baile, Billar o Boliche,
+V. Licorería, Agencia y Subagencia, Minisúper, Tienda
 
-Licorería, Tienda de Conveniencia, Minisúper,
+de Conveniencia, Franquicia, Expendio y Botanero. 2522
 
-Agencias y Subagencias 1,965
+VI. Minisúper Local, Tienda de Abarrotes, Lonchería y
 
-IV. Depósito, Minisúper Local, Expendio
+Coctelería. 1620
 
-y Botanero, Tienda de Abarrotes, Lonchería
+VII. Supermercado. 3400
 
-y Cocteleria. 1,620
+Por la expedición de licencias especiales en materia de bebidas alcohólicas en Polígonos Turísticos con vigencia de un año, se pagarán derechos a razón de 500 veces el valor diario de la Unidad de Medida y Actualización.
 
-Por la expedición de licencias especiales en materia de bebidas alcohólicas en Polígonos Turísticos con vigencia de un año, se pagarán derechos a razón de 1500 veces el valor diario de la Unidad de Medida y Actualización.
+En el caso de Fábrica de Bebidas Alcohólicas que a su vez opere como Distribuidora, bastará con la expedición de una sola licencia en la que se consignará la doble actividad, previo pago del derecho establecido en la fracción I de este artículo, que amparará los dos conceptos por 2,650 veces al valor diario de la Unidad de Medida y Actualización.
 
-En el caso de Fábrica de Bebidas Alcohólicas que a su vez opere como Distribuidora, bastará con la expedición de una sola licencia en la que se consignará la doble actividad, previo pago del derecho establecido en la fracción 1 de este artículo, que amparará los dos conceptos por 2.522 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 74.
 
-Por la expedición de permisos eventuales en materia de bebidas alcohólicas, se causarán y pagarán derechos por cada día, a razón de 22 veces el valor diario de la Unidad de Medida y Actualización.
+Por la expedición de permisos eventuales en materia de bebidas alcohólicas, se causarán y pagarán derechos por semana y fracción de semana, y por punto de venta, a razón de 30 veces el valor diario de la Unidad de Medida y Actualización
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -2495,13 +2537,13 @@ I. Cabaret o Centro Nocturno,
 
 Bar, Cantina, Casino 22
 
-II. Discoteca, Salón Cerveza. Salón de Baile,
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-Restaurant, Distribuidora, Bodega, Almacén,
+II. Discoteca, Salón Cerveza, Salón de Baile,
 
-Hotel y Motel, Billar o Boliche, Supermercados,
+Restaurante, Distribuidora, Bodega, Almacén, Hotel
 
-Franquicia 20
+y Motel, Billar o Boliche, Supermercados, Franquicia. 20
 
 III. Licorería, Minisúper, Tienda de Conveniencia,
 
@@ -2517,39 +2559,35 @@ y Tienda de Abarrotes 10
 
 V. Charrería 6
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 76.
 
-Por revalidación de licencias en materia de bebidas alcohólicas que deberán revalidarse anualmente, dentro de los tres primeros meses de cada año, se causarán y pagarán derechos de acuerdo con el número de veces el valor diario de la Unidad de Medida y Actualización, conforme a la siguiente:
+Por revalidación de licencias para la distribución, almacenamiento, venta y consumo de bebidas alcohólicas, que deberán revalidarse dentro de los tres primeros meses de cada año, se causarán y pagarán derechos de acuerdo con el número de veces el valor diario de la Unidad de Medida y Actualización, conforme a la siguiente:
 
-T A R I F A
+TARIFA Unidades de Medida
 
-Unidades de Medida y
+y Actualización
 
-Actualización
+I. Restaurante, Hotel y Motel, Distribuidora, Bodega,
 
-I. Cabaret o Centro Nocturno, Bar, Cantina, Casino 76
+Almacén, Depósito, Salón Cerveza, Salón de Baile,
 
-II. Discoteca, Salón Cerveza, Salón de Baile,
+Cantina, Boliche y Casino. 94
 
-Restaurant, Distribuidora, Bodega, Almacén,
+II. Cabaret o Centro Nocturno, Discoteca, y Bar. 152
 
-Hotel y Motel, Billar o Boliche, Franquicia, Fabrica
+III. Licorería, Agencia y Subagencia, Minisúper, Tienda
 
-de Bebidas Alcohólicas 63
+de Conveniencia, Franquicia, Expendio y Botanero. 66
 
-III. Licorería, Supermercado o Minisúper,
+IV. Minisúper Local, Tienda de Abarrotes, Lonchería,
 
-Tienda de Conveniencia, Tienda de Abarrotes,
+Coctelería, y Billar. 55
 
-Agencia y Subagencia, Depósito, Expendio y
+V. Supermercado 212
 
-Botanero 53
-
-IV. Lonchería, Cocteleria y Minisúper Local 44
-
-V. Charrería 34
+VI. Charrería 34
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
@@ -2563,21 +2601,25 @@ En los casos de sucesión testamentaria o intestamentaria, la cesión o transfer
 
 Por la autorización de modificaciones o adecuaciones y demás movimientos tales como: duplicado de licencia en materia de bebidas alcohólicas, cambio de domicilio, reposiciones, cambio o ampliación de giro, cambio de razón social, arrendamiento y comodato se causarán y pagarán derechos de acuerdo con el número de veces del valor diario de la Unidad de Medida y Actualización, conforme a la siguiente:
 
-T A R I F A Unidades de Medida y Actualización
+> <small>(REFORMADA [N. DE E. CON SUS FRACCIONES], P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-I. Por duplicado de licencia 13
+Tarifa Unidades de Medida
 
-II. Por cambio de domicilio de la licencia 40
+y Actualización
+
+I. Por duplicado de licencia 26
+
+II. Por cambio de domicilio de la licencia 300
 
 III. Por reposición de una licencia 40
 
-IV. Por cambio o ampliación de giro de la licencia 103
+IV. Por cambio o ampliación de giro de la licencia 300
 
-V. Por cambio de razón social 103
+V. Por cambio de razón social 300
 
-VI. Por arrendamiento anualmente 206
+VI. Por arrendamiento o comodato, anualmente 250
 
-VII. Por comodato anualmente 206
+VII. Permiso especial por fallecimiento de la o el titular 26
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
@@ -2951,6 +2993,90 @@ LVII. Registro de Consejo de Certificación de
 
 Especialidades 4.96
 
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+LVIII. Duplicado de credencial (PREPARATORIA
+
+ABIERTA); 0.63
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+LIX. Solicitud de examen (PREPARATORIA
+
+ABIERTA); 0.96
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+LX. Duplicado del certificado de terminación de estudios
+
+(PREPARATORIA) 1.45
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+LXI. Inscripción (PREPARATORIA ABIERTA); 3.37
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+LXII. Constancia de inscripción (PREPARATORIA
+
+ABIERTA); 0.96
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+LXIII. Copia de solicitud de examen (PREPARATORIA
+
+ABIERTA); 0.48
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+LXIV. Impresión de historial académico
+
+(PREPARATORIA ABIERTA); 0.48
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+LXV. Actualización de historial y búsqueda
+
+(PREPARATORIA ABIERTA); 0.96
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+LXVI. Renuncia de calificaciones (PREPARATORIA
+
+ABIERTA); 0.96
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+LXVII. Cambio de área (PREPARATORIA ABIERTA); 0.96
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+LXVIII. Reactivación (PREPARATORIA ABIERTA); 1.45
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+LXIX. Constancia de certificación (PREPARATORIA
+
+ABIERTA); 0.96
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+LXX. Autenticación de certificado (PREPARATORIA
+
+ABIERTA); 0.96
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+LXXI. Cotejo de copias (PREPARATORIA ABIERTA),
+
+y 1.45
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+LXXII. Recuperación documento electrónico de
+
+certificación (PREPARATORIA ABIERTA). 1.93
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. DE 27 DE DICIEMBRE DE 2019)</small>
 
 ### CAPÍTULO XI. DE LOS SERVICIOS PRESTADOS POR EL PERIÓDICO OFICIAL DEL ESTADO
@@ -3007,9 +3133,23 @@ Los Poderes Legislativo y Judicial, así como las Secretarías, Dependencias y E
 
 ### CAPÍTULO I. POR ENAJENACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 80.
 
-(DEROGADO, P.O. 27 DE DICIEMBRE DE 2019)
+Se consideran Productos los ingresos que perciba el Estado por los siguientes actos:
+
+I. Uso, aprovechamiento o enajenación de bienes de dominio privado del Estado, de conformidad con las disposiciones legales aplicables;
+
+II. Intereses financieros;
+
+III. Las contraprestaciones por los servicios que preste el Estado en sus funciones de derecho privado; e
+
+IV. Ingresos por la enajenación de bienes muebles e inmuebles no sujetos al régimen de dominio público.
+
+Los bienes que integran el patrimonio del Estado son inalienables, imprescriptibles e inembargables, y no podrán ser objeto de gravamen alguno. Dichos bienes sólo podrán enajenarse en los términos de la Ley de Bienes del Estado de Campeche y de sus Municipios y, en su caso, la Ley para el Fomento de las Actividades Económicas y Empresariales en el Estado de Campeche y demás leyes aplicables.
+
+Los bienes que el Estado se haya adjudicado en pago de contribuciones podrán ser enajenados sin más requisito que el de la subasta, en el precio y condiciones que el Ejecutivo del Estado estime convenientes.
 
 ###### ARTÍCULO 81.
 
@@ -3115,15 +3255,11 @@ Ingresarán al Erario Estatal las donaciones que se hagan en favor del Estado. C
 
 ### CAPÍTULO IV. APROVECHAMIENTOS PATRIMONIALES
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. DE 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 99.
 
-Se consideran aprovechamientos patrimoniales, los ingresos que percibe el Estado por uso o enajenación de bienes muebles, inmuebles e intangibles, por recuperación de capital o, en su caso, patrimonio invertido.
-
-Los bienes que integran el patrimonio del Estado son inalienables, imprescriptibles e inembargables, y no podrán ser objeto de gravamen alguno. Dichos bienes sólo podrán enajenarse en los términos de la Ley de Bienes del Estado de Campeche y de sus Municipios y, en su caso, la Ley para el Fomento de las Actividades Económicas y Empresariales en el Estado de Campeche y demás leyes aplicables.
-
-Los bienes que el Estado se haya adjudicado en pago de contribuciones podrán ser enajenados sin más requisito que el de la subasta, en el precio y condiciones que el Ejecutivo del Estado estime convenientes.
+Se consideran aprovechamientos patrimoniales, los ingresos que percibe el Estado por recuperaciones de capital o, en su caso, patrimonio invertido de conformidad con la legislación aplicable en la materia y otros conceptos análogos.
 
 ### CAPÍTULO V. APROVECHAMIENTOS DIVERSOS
 
@@ -3642,3 +3778,13 @@ El presente decreto entrará en vigor el 1 de enero de 2023, previa publicación
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 319 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 29; 29 BIS Y 30; EL PÁRRAFO PRIMERO DEL ARTÍCULO 31; EL ARTÍCULO 33; LAS FRACCIONES XXIV Y XXV DEL ARTÍCULO 72; LOS ARTÍCULOS 73 Y 74; LA FRACCIÓN II DEL ARTÍCULO 75; LOS ARTÍCULOS 76, 78 Y 99, TODOS DE LA LEY DE HACIENDA DEL ESTADO DE CAMPECHE, SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 34; LOS ARTÍCULOS 71-A; 71-B; 72-A; 72- B Y 72- C; ASÍ COMO LAS FRACCIONES LVIII, LVIX, LX, LXI, LXII, LXIII, LXIV, LXV, LXVI, LXVII, LXVIII, LXIX, LXX, LXXI Y LXXII AL ARTÍCULO 79-E; SE REPONEN CON NUEVO TEXTO LOS ARTÍCULOS 27 Y 80, TODOS DE LA LEY DE HACIENDA DEL ESTADO DE CAMPECHE”.]
+
+Primero. La presente Ley entrará en vigor el día uno de enero de dos mil veinticuatro, previa publicación en el Periódico Oficial del Estado.
+
+Segundo. Los recursos que no pertenecen a la hacienda pública que contablemente constituyen fondos ajenos, representan el monto de los depósitos ajenos que, eventualmente, se tendrán que devolver y se aplicarán de acuerdo con los mandamientos que emitan las autoridades administrativas o judiciales que hayan ordenado su depósito conforme a las disposiciones de las leyes que correspondan; las retenciones de seguridad social se aplicarán conforme a las leyes que las rijan, y cualquier otro recurso conceptualizado como fondo ajeno tendrá la aplicación correspondiente conforme a la ley, reglamento, disposición administrativa, acuerdo o convenio que lo regule.
+
+Tercero. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
