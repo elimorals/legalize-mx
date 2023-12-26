@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2023-11-16"
+last_updated: "2023-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -81,11 +81,9 @@ El Titular del Poder Ejecutivo del Estado podrá conceder exenciones de impuesto
 
 La Hacienda Pública del Estado de Durango se compone, de conformidad con en (sic) el artículo 158 de la Constitución Política del Estado Libre y Soberano de Durango.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2010)</small>
-
-I.- De los ingresos provenientes de los Impuestos Sobre Nóminas, para el Fomento de la Educación Pública en el Estado, por Servicio de Hospedaje, Sobre Juegos con Apuestas, Rifas, Loterías, Sorteos y premios, Sobre la Enajenación de Vehículos Automotores Usados; del Impuesto para la modernización de los Registros Públicos; y del Impuesto Sobre Tenencia o Uso de Vehículos;
+I.- De los ingresos provenientes de los Impuestos Sobre Nóminas, para el Fomento de la Educación Pública en el Estado, por Servicio de Hospedaje, Impuesto a las Demasías Caducas; Sobre Juegos con Apuestas, Rifas, Loterías, Sorteos y premios, Sobre la Enajenación de Vehículos Automotores Usados; del Impuesto para la modernización de los Registros Públicos; y del Impuesto Sobre Tenencia o Uso de Vehículos; Impuesto a la Venta Final de Bebidas Alcohólicas; Impuesto para Preservación y Restauración Ecológica en la Extracción de Materiales; Impuesto de la Emisión de Gases a la Atmósfera; Impuesto de la Emisión de Contaminantes al Suelo, Subsuelo y Agua; Impuesto al Depósito o Almacenamiento de Residuos; Impuesto por Otorgar el Uso o Goce Temporal de Bienes Inmuebles; Impuesto al Servicio de Transporte Especializado en la modalidad de Ejecutivo Privado.
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
@@ -173,11 +171,11 @@ IX. El tiempo extraordinario dentro de los márgenes señalados en la Ley Federa
 
 Para que los conceptos mencionados en este precepto se excluyan como integrantes de la base del impuesto a que se refiere este capítulo, deberán estar debidamente registrados en la contabilidad del contribuyente.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 5.
 
-El impuesto se determinará aplicando a la base señalada en el artículo anterior, la tasa del 3%; para aquellos contribuyentes que cuenten con una plantilla laboral de hasta 10 trabajadores, la tasa aplicable será del 2%
+El impuesto se determinará aplicando a la base señalada en el artículo anterior, la tasa del 3%.
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
 
@@ -335,9 +333,9 @@ ARTICULO 18 BIS.- Es facultad del titular del Poder Ejecutivo exentar total o pa
 
 Es objeto de este impuesto los servicios de hospedaje dentro del Estado, a cambio de una contraprestación en dinero o en especie.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-Para los efectos de este impuesto, se consideran servicios de hospedaje la prestación de alojamiento o albergue temporal de personas a través de: hoteles, villas, cabañas, posadas, hosterías, mesones, campamentos, paraderos de casas rodantes, casas de huéspedes y otros establecimientos que presten servicios de naturaleza análoga, incluyendo los prestados bajo la modalidad de tiempo compartido.
+Para los efectos de este impuesto, se consideran servicios de hospedaje la prestación de alojamiento o albergue temporal de personas a través de: hoteles, villas, cabañas, posadas, hosterías, mesones, campamentos, paraderos de casas rodantes, casas de huéspedes y otros establecimientos que presten servicios de naturaleza análoga, así como, de casas habitación, departamentos, incluyendo los prestados bajo la modalidad de tiempo compartido.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2022)</small>
 
@@ -381,6 +379,14 @@ El prestador deberá realizar el pago del impuesto en la oficina recaudadora que
 
 Tratándose de contribuyentes con establecimientos en diversos lugares del territorio del Estado, deberán presentar una sola declaración en la oficina recaudadora correspondiente a su domicilio fiscal, o bien, en las oficinas autorizadas que correspondan, acumulando en la misma el valor total de las operaciones realizadas en los diversos establecimientos y el total del impuesto causado.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+Tratándose de servicios de hospedaje que se presten a través de internet mediante plataformas tecnológicas, aplicaciones informáticas y similares, el impuesto que se cause por el pago de servicio a la plataforma de intermediación, inclusive si se trata de anticipos, esta deberá realizar la determinación, retención y entero del Impuesto a la Secretaria de Finanzas y de Administración, a través de los medios disponibles, emitiendo el comprobante de cumplimiento al prestador del servicio de hospedaje.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+Se entiende por plataforma tecnológica, aplicaciones informáticas y similares, a los programas descargables en teléfonos móviles o instrumentos electrónicos a través de las cuales se puedan descargar o recibir datos o comunicaciones de voz a través de la telefonía celular o internet, y que para efectos de la presente Ley, permiten a la persona física o moral propietaria o usuaria de la misma, administrar y operar en su carácter de gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga, permitiendo al usuario contratar los servicios ofrecidos por el prestador de servicio de hospedaje.
+
 ###### ARTICULO 24.
 
 (DEROGADO, P.O. 21 DE DICIEMBRE DE 2006)
@@ -396,6 +402,32 @@ Las personas que presten los servicios de hospedaje a que se refiere este capít
 I. Inscribirse ante la oficina recaudadora correspondiente a su domicilio fiscal en el Estado, dentro del mes siguiente a la fecha de inicio de sus operaciones, haciendo uso de las formas oficiales aprobadas por la Secretaría de Finanzas y de Administración.
 
 II. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2006)
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+III. Las plataformas tecnológicas que intervengan como intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje, deberán inscribirse en el Registro Estatal de Contribuyentes, a través del Representante Legal nombrado ante la Secretaría de Hacienda y Crédito Público para efectos del Articulo 18-D de la Ley del Impuesto al Valor Agregado.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+IV. La plataforma tecnológica que intervenga en el cobro de las contraprestaciones por servicio de hospedaje, deberá proporcionar a la Secretaría de Finanzas y de Administración, un padrón de personas que prestan el servicio de hospedaje a través de dicha plataforma, debiendo otorgarles una constancia de manera individual del cumplimiento de esta obligación.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IV, P.O. 26 DE DICIEMBRE DE 2023]</small>
+
+El registro de las personas que prestan el servicio de hospedaje a través de plataformas, deberá considerar al menos lo siguiente:
+
+a) Nombre o, en su caso, denominación o razón social.
+
+b) Registro Federal de Contribuyentes;
+
+c) El domicilio en el que prestarán los servicios de hospedaje;
+
+d) Números telefónicos y direcciones de correo electrónico,
+
+e) La denominación de la plataforma tecnológica a través de la cual se ofrecen y promocionan los servicios de hospedaje;
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IV, P.O. 26 DE DICIEMBRE DE 2023]</small>
+
+Sin perjuicio de lo anterior, las personas que prestan el servicio de Hospedaje a través de plataformas, deberán inscribirse en el Padrón Estatal de Contribuyentes, con esta modalidad de servicio.
 
 > <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2010)</small>
 
@@ -1241,13 +1273,21 @@ ARTICULO 44 ter 8.- Los contribuyentes sujetos al pago del impuesto, estarán ob
 
 #### SECCION I. DEL IMPUESTO PARA PRESERVACIÓN Y RESTAURACIÓN ECOLÓGICA EN LA EXTRACCIÓN DE MATERIALES
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-ARTICULO 44 QUATER.- Es objeto de este impuesto el aprovechamiento y la extracción del suelo y subsuelo de las sustancias no reservadas a la Federación, que constituyan depósitos de naturaleza similar a los componentes de los terrenos, tales como rocas o productos de su descomposición que sólo puedan utilizarse para la fabricación de materiales para la construcción u ornamento de obras, aún y cuando constituyan vetas, mantos o yacimientos tales como: agregados pétreos, arcillas, arena, caliza, cantera, grava, rocas, piedras y sustrato o capa fértil y otros.
+ARTICULO 44 QUATER.- Es objeto de este impuesto el aprovechamiento y la extracción del suelo y subsuelo de las sustancias no reservadas a la Federación, que constituyan depósitos de naturaleza similar a los componentes de los terrenos, tales como rocas o productos de su descomposición que sólo puedan utilizarse para la fabricación de materiales para la construcción u ornamento de obras, aún y cuando constituyan vetas, mantos o yacimientos tales como: agregados pétreos, andesita, arcillas y limos, arena, caliza, cantera, caolín, grava, rocas, piedras y sustrato o capa fértil y riolita.
 
-Para efectos de este artículo la extracción deberá realizarse por medio de trabajos a cielo abierto en el territorio del Estado.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-En ningún momento se considerarán objeto de este impuesto los minerales o sustancias a que hace referencia el artículo 4 de la Ley Minera.
+Para efectos de esta Sección, se entiende como:
+
+I. Agregados pétreos: los materiales granulares sólidos inertes que se emplean en los firmes de las carreteras con o sin adición de elementos activos y con granulometrías adecuadas; se utilizan para la fabricación de productos artificiales resistentes, mediante su mezcla con materiales aglomerantes de activación hidráulica (cementos, cales, entre otros) o con ligantes asfálticos.
+
+II. Rocas: el granito, la roca volcánica, el mármol, el ónix, roca travertino, rocas sedimentarias y demás rocas para la construcción.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+No serán sujetos de este impuesto las personas físicas y morales que de acuerdo a la Ley Minera, les hayan sido otorgadas concesiones mineras, por la remoción de los suelos o sustancias iguales a las que componen los terrenos, en los que se realicen los trabajos destinados a la preparación y desarrollo del área que comprende el depósito mineral, así como, los encaminados a desprender y extraer los productos minerales o sustancias existentes en el mismo para la exploración, explotación, beneficio y aprovechamiento de los minerales o sustancias, a que hacen referencia los artículos 2, 3 y 4 de dicha Ley
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
@@ -1261,33 +1301,31 @@ ARTICULO 44 quater 2.- La base para el cálculo de este impuesto será el volume
 
 ARTICULO 44 quater 3.- El impuesto a que se refiere este capítulo se causará por cada metro cúbico que se extraiga de los materiales objeto de la contribución conforme a lo siguiente:
 
-Material Tarifa por m3
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-Grava $19.24
+MATERIAL TARIFA POR M3
 
-Arena $19.24
+Agregados pétreos $ 9,62
 
-Arcillas y limos $15.40
+Andesita $ 17,86
 
-Materiales en greña $15.40
+Arcillas y limos $ 7,70
 
-Rocas $17.32
+Arena $ 9,62
 
-Piedras y sustrato o capa fértil $9.62
+Caliza $ 5,29
 
-Piedras de construcción y de adorno
+Cantera $ 9,62
 
-de mármol de granito y ónix $428.18
+Caolín $ 214,09
 
-Cantera $19.24
+Grava $ 9,62
 
-Travertinos $428.18
+Piedras y sustrato o capa fértil $ 4,81
 
-Agregados pétreos $19.24
+Riolita $ 12,32
 
-Caliza $10.58
-
-Otros $13.47
+Rocas $ 214,09
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
@@ -1315,11 +1353,9 @@ VI. Las demás que señale la ley y los ordenamientos fiscales aplicables.
 
 #### SECCIÓN II. DE LA EMISIÓN DE GASES A LA ATMÓSFERA
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-ARTICULO 44 QUINQUIES.- Son objeto de este impuesto las emisiones a la atmósfera de determinadas sustancias generadas en los procesos productivos que se desarrollen en el Estado y que afecten el territorio del mismo.
-
-Para los efectos de este impuesto se considera emisión a la atmósfera, la expulsión directa o indirecta de bióxido de carbono, metano, óxido nitroso ya sea unitariamente o de cualquier combinación de ellos que afecten la calidad del aire, los componentes de la atmósfera y que constituyen gases de efecto invernadero que impactan en deterioro ambiental por provocar calentamiento global.
+ARTICULO 44 QUINQUIES. Son objeto de este impuesto las emisiones a la atmósfera de determinadas sustancias generadas en los procesos productivos que se desarrollen en el Estado y que afecten el territorio del mismo. Para los efectos de este impuesto se considera emisión a la atmósfera, la expulsión directa o indirecta de bióxido de carbono, metano, óxido nitroso, carbono negro, hidrofluoro carbonos y perfluoro carbonos, ya sea unitariamente o de cualquier combinación de ellos que afecten la calidad del aire, los componentes de la atmósfera y que constituyen gases de efecto invernadero que impactan en deterioro ambiental por provocar calentamiento global.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
@@ -1327,27 +1363,59 @@ ARTICULO 44 quinquies 1.- Son sujetos y están obligados al pago de este impuest
 
 También quedan comprendidos como sujetos de este impuesto, la Federación, el Estado y los Municipios, los organismos descentralizados federales, estatales y municipales, las empresas de participación estatal mayoritaria de carácter federal y estatal, las empresas de participación municipal mayoritaria, los fideicomisos constituidos por dependencias y entidades de la administración pública federal, por el Estado y por los Municipios, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-ARTICULO 44 quinquies 2.- Es base de este impuesto la cuantía de carga contaminante de las emisiones gravadas que se realicen desde la o las instalaciones o fuentes fijas expresadas en toneladas.
+ARTICULO 44 QUINQUIES 2.- Es base de este impuesto la cuantía de carga contaminante de las emisiones gravadas que se realicen desde la o las instalaciones o fuentes fijadas expresadas en toneladas, fracción o ambas
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
 Para la determinación de la base gravable, el contribuyente la realizará mediante medición o estimación directa de las emisiones que genere y, en su caso, se tomará como referencia el último Registro de Emisiones y Transferencias de Contaminantes (RETC) de la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal, así como en el Registro de Emisiones y Transferencia de Contaminantes que integra la Secretaría de Recursos Naturales y Medio Ambiente del Estado de Durango.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
 Para la determinación de las toneladas emitidas, el contribuyente realizará la conversión de los gases establecidos en el artículo 44 QUINQUIES de esta Ley en bióxido de carbono (CO2), multiplicando la tonelada del tipo de gas emitido por el factor relacionado conforme a la tabla siguiente:
 
-CLASES EFECTO COMPOSICIÓN EQUIVALENCIA
+Gases de Efecto Invernadero Composición Molecular Equivalencia
 
-INVERNADERO MOLECULAR CO2
+CO2
 
-Bióxido de carbono CO2 1
+Bióxido de Carbono CO2 1
 
-Metano CH4 23
+Metano CH4 28
 
-Óxido Nitroso N20 296
+Óxido nitroso N2O 265
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+Carbono negro CN 900
 
-ARTICULO 44 quinquies 3.- El impuesto se causará en el momento que los contribuyentes realicen emisiones a la atmósfera, gravadas por este impuesto que afecten el territorio del Estado, aplicando una cuota impositiva por el equivalente a 179 pesos por tonelada emitida de bióxido de carbono o la conversión del mismo, establecida en el artículo anterior.
+Hidrofluorocarbonos CHF3 12,400
+
+CHF2CF3 3,170
+
+CH2FCF3 1,300
+
+CH3CHF2 138
+
+CF3CHFCF3 3,350
+
+CF3CH2CF3 8,060
+
+CF3CHFCHFCF2 1,650
+
+CF3
+
+CF4 6,630
+
+C2F6 11,100
+
+Perfluorocarbonos C4F10 9,200
+
+C6F14 7,910
+
+SF6 23,500
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 44 QUINQUIES 3.- El impuesto se causará en el momento que los contribuyentes realicen emisiones a la atmósfera, gravadas por este impuesto que afecten el territorio del Estado, aplicando una cuota impositiva por el equivalente a 100 pesos por tonelada emitida de bióxido de carbono o la conversión del mismo, establecida en el artículo anterior.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
@@ -1370,6 +1438,10 @@ ARTICULO 44 SEXIES.- Es objeto de este impuesto la emisión de sustancias contam
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
 ARTICULO 44 sexies 1.- Son sujetos de este impuesto las personas físicas, las personas morales, así como las unidades económicas que, en el territorio del Estado, independientemente del domicilio fiscal del contribuyente, bajo cualquier título, por sí mismas o a través de intermediarios, realicen los actos o actividades que los ubiquen en el supuesto del artículo anterior.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+Estarán exentos del pago de este impuesto, los Ayuntamientos, la Comisión del Agua del Estado de Durango y los señalados en las fracciones I, II, III y IV del Artículo 28 de la Ley de Agua para el Estado de Durango.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
@@ -1439,39 +1511,45 @@ Talio 5.2
 
 Vanadio 78
 
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 26 DE DICIEMBRE DE 2023)</small>
+
 II. Para agua en miligramos en litros, que se presenten por cada metro cúbico, con base en lo siguiente:
 
-Las muestras para determinar la cantidad de miligramos por litro por cada metro cúbico de agua, se obtendrán conforme a la Norma Oficial Mexicana NOM-001- SEMARNAT-1996: "Que establece los límites máximos permisibles de contaminantes en las descargas residuales en aguas y bienes nacionales"
+Las muestras para determinar la cantidad de miligramos por litro por cada metro cúbico de agua, se obtendrán conforme a la Norma Oficial Mexicana NOM-001-SEMARNAT-2021, “Que establece los límites permisibles de contaminantes en las descargas de aguas residuales en cuerpos receptores propiedad de la Nación”, publicada el 11 de marzo de 2022.
 
 a) Contaminantes en aguas residuales básicos:
 
-Contaminante Cantidad de miligramos por litro, por metro cúbico
+Contaminante Cantidad de miligramos por litro,
 
-Grasas y Aceites 25
+por metro cúbico
+
+Grasas y Aceites 15
 
 Sólidos Suspendidos Totales 60
 
-Demanda Bioquímica de Oxigeno 5 60
+Demanda Bioquímica de Oxígeno 5 150
 
 Nitrógeno Total 25
 
-Fósforo Total 10
+Fósforo Total 15
 
 b) Contaminantes en aguas residuales, ocasionado por metales pesados y cianuros:
 
-Contaminante Cantidad de miligramos por litro, por metro cúbico
+Contaminante Cantidad de miligramos por litro,
 
-Arsénico 0.1
+por metro cúbico
 
-Cadmio 0.1
+Arsénico 0.2
+
+Cadmio 0.2
 
 Cianuro 1
 
 Cobre 4
 
-Cromo 0.5
+Cromo 1
 
-Mercurio 0.005
+Mercurio 0.01
 
 Níquel 2
 
@@ -1489,13 +1567,27 @@ I. Suelo y subsuelo: una cuota impositiva por el equivalente a 25 pesos por cada
 
 II. Agua: contaminantes en aguas residuales básicos y en aguas residuales, ocasionado por metales pesados y cianuros, una cuota impositiva por el equivalente a 100 pesos por cada metro cúbico afectado con las sustancias contaminantes señaladas en el artículo 44 SEXIES 2 fracción II de esta Ley.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-ARTICULO 44 sexies 4.- Si el suelo, subsuelo o agua fueron contaminados con dos o más sustancias de las mencionadas en este artículo la cuota se pagará por cada contaminante.
+ARTICULO 44 SEXIES 4.- Si el suelo, subsuelo o agua fueron contaminados con dos o más sustancias de las mencionadas en el artículo 44 SEXIES 2 la cuota se pagará por cada contaminante, así como por lo que exceda a cada unidad de contaminante.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
 ARTICULO 44 sexies 5.- El pago de este impuesto deberá efectuarse mediante declaración mensual, dentro de los primeros 17 días naturales del mes siguiente al que corresponda dicha declaración, en cualquier oficina recaudadora de rentas de la Secretaría de Finanzas y de Administración o en la forma y términos que se establezcan en el Código Fiscal del Estado, utilizando las formas aprobadas para tal efecto.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 44 SEXIES 6.- Para determinar la base gravable las autoridades fiscales podrán considerar los libros y registros sea cual fuera su denominación, que los sujetos obligados al pago del impuesto deban llevar conforme a las disposiciones legales sean de carácter fiscal, mercantil o para dar cumplimiento a las Normas Oficiales Mexicanas en materia de ecología y medio ambiente.
+
+Cuando no sea posible determinar la base gravable en los términos de la fracción anterior, las autoridades fiscales podrán estimar el Impuesto por la Emisión de Contaminantes al Suelo, Subsuelo y Agua, a partir de los datos y documentos contenidos en las autorizaciones, cédulas, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante la Secretaría de Medio Ambiente y Recursos Naturales, o la Secretaría de Recursos Naturales y Medio Ambiente del Gobierno del Estado de Durango, así como ante la Comisión Nacional del Agua y demás dependencias relacionadas.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 44 SEXIES 7.- Los contribuyentes sujetos al pago de este Impuesto, deberán cumplir con las siguientes obligaciones:
+
+I. Presentar aviso de inscripción ante la Secretaría de Finanzas y de Administración.
+
+II. Llevar un registro específico de las sustancias contaminantes mencionadas en esta Sección, que sean adquiridas y utilizadas en los procesos de producción, su uso y destino, así como las cantidades que en estado físico sólido, semisólido o líquido se emitieron al suelo, subsuelo o agua.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
@@ -1513,6 +1605,18 @@ ARTICULO 44 septies 1.- Son sujetos de este impuesto las personas físicas y mor
 
 ARTICULO 44 septies 2.- Es base gravable para este impuesto la cantidad en tonelada de residuos depositados o almacenados en vertederos públicos o privados, situados en el Estado que sean generados durante un mes de calendario o fracción del mismo.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+Para efectos del párrafo anterior, no constituirá base del impuesto, la proporción del residuo depositado o almacenado, destinado a la reutilización, reciclado, coprocesamiento o valorización, con excepción de lo siguiente:
+
+I. Cuando el residuo permanezca un año o más, depositado o almacenado, sin llevar a cabo el proceso de reutilización, de reciclado, de coprocesamiento o de valorización.
+
+II. Cuando el residuo sea peligroso y permanezca seis meses o más, depositado o almacenado, sin llevar a cabo el proceso de reutilización, de reciclado, de coprocesamiento o de valorización.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+No existirá base del impuesto, cuando el residuo depositado o almacenado tenga las características técnicas de disposición final, con base en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General para la Prevención y Gestión Integral de los Residuos, o alguna de las Normas Oficiales Mexicanas.
+
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
 ARTICULO 44 septies 3.- El impuesto al depósito o almacenamiento de residuos se causará aplicando una cuota de 100 pesos por tonelada de residuos depositados o almacenados en vertederos públicos o privados.
@@ -1521,7 +1625,37 @@ ARTICULO 44 septies 3.- El impuesto al depósito o almacenamiento de residuos se
 
 ARTICULO 44 septies 4.- El impuesto determinado deberá ser enterado mensualmente por las personas físicas y morales, así como las unidades económicas dentro de los primeros 17 días del mes siguiente a su vencimiento, en cualquier oficina recaudadora de rentas de la Secretaría de Finanzas y Administración o en la forma y términos que se establezcan en el Código Fiscal del Estado, utilizando las formas aprobadas para tal efecto.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 44 SEPTIES 5.- Para determinar la base gravable las autoridades fiscales podrán considerar, los libros y registros sea cual fuera su denominación, que los sujetos obligados al pago del impuesto deban llevar conforme a las disposiciones legales sean de carácter fiscal, mercantil o para dar cumplimiento a las Normas Oficiales Mexicanas en materia de ecología y medio ambiente.
+
+Cuando no sea posible determinar la base gravable en los términos de la fracción anterior, las autoridades fiscales podrán estimar el Impuesto al depósito o almacenamiento de residuos, a partir de los datos y documentos contenidos en las autorizaciones, cédulas, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante la Secretaría de Medio Ambiente y Recursos Naturales, o la Secretaría de Recursos Naturales y Medio Ambiente del Gobierno del Estado de Durango y demás dependencias relacionadas.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 44 SEPTIES 6.- Los contribuyentes sujetos al pago de este Impuesto, deberán cumplir con las siguientes obligaciones:
+
+I. Presentar aviso de inscripción ante la Secretaría de Finanzas y de Administración.
+
+II. Llevar un registro específico de los residuos en el que se identifique la cantidad en toneladas y el lugar de depósito o almacenamiento, así como señalar si fue depositado o almacenado en un vertedero público, privado y su ubicación.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 44 SEPTIES 7.- Para identificar que el residuo genera los efectos establecidos en el artículo 44 SEPTIES, se tomará como base la información que reporten los sujetos obligados de este impuesto a la Secretaría de Medio Ambiente y Recursos Naturales, a través de cualquiera de los siguientes medios: Manifiesto de Impacto Ambiental, Licencia Ambiental Única, Cédula de Operación Anual o Plan de Manejo de Residuos, de conformidad en lo establecido en la Ley General del Equilibrio Ecológico y la Protección al Ambiente; o en su caso, los residuos sean identificados en la Ley General para la Prevención y Gestión Integral de los Residuos, Ley de Gestión Ambiental Sustentable para el Estado de Durango o en alguna de las Normas Oficiales Mexicanas correspondientes según sea la actividad que desarrollan los sujetos obligados, atendiendo a la vigencia de la misma.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+#### SECCIÓN V. OTORGAMIENTO DE INCENTIVOS PARA IMPUESTOS ECOLÓGICOS
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 44 SEPTIES 8.- Se otorgan incentivos fiscales a las personas físicas y morales, referidos en los artículos; 44 QUATER 1, 44 QUINQUIES 1, 44 SEXIES 1 y 44 SEPTIES 1, en los términos que se establezcan en la Ley de Ingresos del Estado Libre y Soberano de Durango.
+
 > <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+### CAPITULO XI. IMPUESTOS CEDULARES
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
 #### SECCIÓN I. OTORGAR EL USO O GOCE TEMPORAL DE BIENES INMUEBLES
 
@@ -1567,17 +1701,53 @@ II. El aviso a que se refiere esta fracción deberá ser presentado por cada loc
 
 III. Presentar declaraciones provisionales y anuales
 
-### CAPITULO XI. IMPUESTOS CEDULARES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2022)</small>
+### CAPITULO XII. IMPUESTO AL SERVICIO DE TRANSPORTE ESPECIALIZADO EN LA MODALIDAD DE EJECUTIVO PRIVADO
 
-### CAPITULO I. DISPOSICIONES GENERALES
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 44 NONIES.- El objeto de este impuesto es el ingreso que perciben las Empresas de Redes de Transporte, por la tarifa efectivamente cobrada, por cada servicio de transporte especializado en la modalidad de ejecutivo privado, que inicie dentro del territorio del Estado de Durango.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 44 NONIES 1.- Son sujetos de este impuesto las empresas de redes de transporte que promuevan, administren u operen servicio de transporte especializado en la modalidad de ejecutivo privado, que inicien dentro del territorio del Estado de Durango.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 44 NONIES 2.- Es base del Impuesto al Servicio de Transporte Ejecutivo Privado, el ingreso que perciben las Empresas de Redes de Transporte, por la tarifa efectivamente cobrada, por cada servicio de transporte especializado en la modalidad de ejecutivo privado, que inicie dentro del territorio del Estado de Durango, sin considerar el Impuesto al Valor Agregado que se hubiere trasladado según las disposiciones fiscales vigentes.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 44 NONIES 3.- El impuesto se causará aplicando la tasa del 4% a la base del impuesto que resulte en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 44 NONIES 4.- El impuesto causado, será retenido por las Empresas de Redes de Transporte, quienes deberán enterarlo a la Secretaría de Finanzas y de Administración, de forma mensual, dentro de los primeros 17 días del mes de (sic) siguiente, en que realicen la retención, en las formas aprobadas por la Secretaría, pudiendo ser estos por medios electrónicos en los formatos aprobados por esta misma.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 44 NONIES 5.- Quienes se encuentren dentro de los supuestos del presente Capítulo, además de efectuar el cálculo y entero de este impuesto, tendrán las siguientes obligaciones:
+
+I. Solicitar su inscripción ante el Padrón Estatal de Contribuyentes, como retenedor, mediante aviso que será presentado en las formas y medios que para tal efecto emita la Secretaría de Finanzas y de Administración.
+
+II. Entregar una copia del acta o documento constitutivo, así como los datos de identificación y acreditación de la personalidad del representante o representantes legales designados para oír y recibir notificaciones en el Estado de Durango.
+
+III. Conservar la documentación relacionada con las retenciones de este impuesto, por un plazo no menor a cinco años, a disposición de la Secretaría de Finanzas y de Administración.
+
+IV. Las Empresas de Redes de Transporte que intervengan en el cobro de las contraprestaciones por servicio de Transporte Especializado en la Modalidad de Ejecutivo Privado, deberán proporcionar a la Secretaría de Finanzas y de Administración, un padrón de personas que presten dicho servicio, a través de sus plataformas tecnológicas, debiendo otorgarles una constancia de manera individual del cumplimiento de esta obligación.
+
+El registro a que se refiere el párrafo anterior, deberá considerar al menos lo siguiente:
+
+a) Nombre o, en su caso, denominación o razón social.
+
+b) Registro Federal de Contribuyentes;
+
+c) Números telefónicos y direcciones de correo electrónico.
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
-### CAPITULO II. DE LOS DERECHOS POR INSCRIPCION Y DEMAS SERVICIOS EN EL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO Y EN EL REGISTRO PUBLICO DE TRANSPORTE
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 45.
 
@@ -1613,7 +1783,7 @@ La Federación, las Entidades Federativas, los Municipios, los Organismos Descen
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2003)</small>
 
-### CAPITULO III. DE LOS DERECHOS POR LEGALIZACION DE FIRMAS, CERTIFICACIONES, EXPEDICION DE COPIAS DE DOCUMENTOS Y OTROS
+### CAPITULO II. DE LOS DERECHOS POR INSCRIPCION Y DEMAS SERVICIOS EN EL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO Y EN EL REGISTRO PUBLICO DE TRANSPORTE
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
@@ -1993,7 +2163,7 @@ II. Por los informes o certificaciones que soliciten el Gobierno Federal o los M
 
 III. Por los informes que soliciten las autoridades para asuntos Penales o para Juicios de Amparo.
 
-### CAPITULO IV. DE LOS DERECHOS POR ACTOS DEL REGISTRO CIVIL
+### CAPITULO III. DE LOS DERECHOS POR LEGALIZACION DE FIRMAS, CERTIFICACIONES, EXPEDICION DE COPIAS DE DOCUMENTOS Y OTROS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
@@ -2367,7 +2537,7 @@ impresión. Hasta 2.3
 
 En el caso de la fracción II de éste artículo, después de las primeras 100 hojas el monto se reducirá en 0.0085 UMA diaria por hoja hasta 100 hojas más, las hojas que se soliciten adicionalmente a éstas su costo será de 0.0034 UMA diaria por hoja.
 
-### CAPITULO V. DE LOS DERECHOS POR SERVICIOS CATASTRALES
+### CAPITULO IV. DE LOS DERECHOS POR ACTOS DEL REGISTRO CIVIL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
@@ -2491,7 +2661,7 @@ XVI Otros servicios no especificados
 
 en las fracciones anteriores: 3
 
-### CAPITULO VI. DE LOS DERECHOS POR SERVICIOS DE CONTROL DE VEHICULOS Y POR EXPEDICION DE CONCESIONES, PERMISOS Y AUTORIZACIONES DE RUTA
+### CAPITULO V. DE LOS DERECHOS POR SERVICIOS CATASTRALES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
@@ -2807,7 +2977,9 @@ fracciones anteriores. 3.0
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-### CAPITULO VII. DE LOS DERECHOS POR INSCRIPCION EN EL PADRON DE PROPIETARIOS Y POSEEDORES DE VEHICULOS AUTOMOTORES DE PROCEDENCIA EXTRANJERA
+### CAPITULO VI. DE LOS DERECHOS POR SERVICIOS DE CONTROL DE VEHICULOS Y POR EXPEDICION DE CONCESIONES, PERMISOS Y AUTORIZACIONES DE RUTA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 60.
 
@@ -2847,6 +3019,18 @@ excepto agrícolas. 17
 
 6.- Placas de demostración. 21
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+7.- Vehículos todo terreno de tres o cuatro
+
+ruedas, con motor a gasolina, destinado
+
+específicamente para ser utilizado en
+
+actividades deportivas, recreativas,
+
+turísticas, de seguridad o laborales 8
+
 > <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2022)</small>
 
 El pago por servicio de control en la dotación de placas, por canje o replaqueo, deberá realizarse cada seis años en la forma y términos indicados en los artículos 60 y 61 de la presente ley.
@@ -2878,6 +3062,18 @@ excepto agrícolas. 14
 5.- Bicicletas. 1
 
 6.- Placas de demostración. 18
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+7.- Vehículos todo terreno de tres o cuatro
+
+ruedas, con motor a gasolina, destinado
+
+específicamente para ser utilizado en
+
+actividades deportivas, recreativas,
+
+turísticas, de seguridad o laborales 16
 
 > <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
@@ -3187,6 +3383,12 @@ para personas con discapacidad, adultos
 
 mayores y público en general 250
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+c) Servicio de transporte especializado en
+
+la modalidad de ejecutivo privado 250
+
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2003)</small>
 
 6. Por la expedición de autorizaciones
@@ -3301,13 +3503,63 @@ expidan por la Dirección General de
 
 Transportes del Estado 5
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VIII. las demás autorizaciones no consideradas
+VIII. Por la expedición de la Identificación a que
 
-en el presente artículo 10
+se refiere el artículo 46 fracción XI de la Ley de
+
+Transportes para el Estado de Durango. 2
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+IX. Por la verificación de los vehículos de servicio
+
+público que circulan en el Estado de Durango y que
+
+se encuentran registrados en él, a que se refiere la
+
+Ley de Transportes del Estado de Durango. 4
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+X. Por la capacitación y expedición de certificado
+
+a que se refiere el artículo 64 de la Ley de
+
+Transportes del Estado de Durango. 19
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+XI. Por la Expedición del código QR, a que se
+
+refiere el segundo párrafo del artículo 56 de la
+
+Ley de Transportes del Estado de Durango. 2
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+XII. Las demás autorizaciones no consideradas
+
+en el presente artículo. 10
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+### CAPITULO VII. DE LOS DERECHOS POR INSCRIPCION EN EL PADRON DE PROPIETARIOS Y POSEEDORES DE VEHICULOS AUTOMOTORES DE PROCEDENCIA EXTRANJERA
+
+###### ARTICULO 67.
+
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2005)
+
+###### ARTICULO 68.
+
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2005)
+
+###### ARTICULO 69.
+
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2005)
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE JUNIO DE 2003)</small>
 
 ### CAPITULO VIII. DE LOS DERECHOS POR LOS SERVICIOS DE LA SECRETARIA DE RECURSOS NATURALES Y MEDIO AMBIENTE
 
@@ -3663,20 +3915,6 @@ VIII. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2022)
 
 > <small>(ADICIONADO CON EL APARTADO Y ARTÍCULO QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
-###### ARTICULO 67.
-
-(DEROGADO, P.O. 15 DE DICIEMBRE DE 2005)
-
-###### ARTICULO 68.
-
-(DEROGADO, P.O. 15 DE DICIEMBRE DE 2005)
-
-###### ARTICULO 69.
-
-(DEROGADO, P.O. 15 DE DICIEMBRE DE 2005)
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE JUNIO DE 2003)</small>
-
 ### CAPITULO IX. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE SALUD
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2006)</small>
@@ -4029,13 +4267,9 @@ personal operativo, misma que será de uso obligatorio. 1
 
 ### CAPITULO UNICO
 
-### CAPITULO UNICO
-
 ## TITULO CUARTO. DE LOS PRODUCTOS
 
 ### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 70.
 
@@ -4066,6 +4300,10 @@ VII. La venta de formas oficiales impresas.
 VIII. Otros no especificados en las fracciones anteriores.
 
 ## TITULO QUINTO. DE LOS APROVECHAMIENTOS
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 71.
 
@@ -4472,3 +4710,13 @@ PRIMERO. El presente Decreto, entrará en vigor el día siguiente al de su publi
 SEGUNDO. Dentro de los tres días posteriores a la publicación en el Periódico Oficial del Gobierno del Estado, la Secretaría de Finanzas y de Administración, deberá publicar los Lineamientos Operativos del Programa del Emplacamiento Exprés.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 540 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE HACIENDA DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor el primero de enero de 2024 mismo que será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. La Secretaría General de Gobierno a través de la Subsecretaria de Movilidad y Transportes, actualizará el padrón de vehículos a que se refiere el decreto número 399 publicado en el periódico oficial no. 60 de fecha 27 de julio de 2023, en consecuencia, hasta en tanto no se emitan los lineamientos, este decreto entrará en vigor en lo que se refiere a los impuestos y derechos relacionados con la reforma aludida en el decreto 399 emitido por este Congreso.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente.
