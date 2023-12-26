@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-contratos-de-colaboracion-publico-privada-para-el-82355"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-08"
-last_updated: "2011-07-08"
+last_updated: "2023-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE CONTRATOS DE COLABORACION PUBLICO PRIVADA PARA EL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ASOCIACIONES PÚBLICO-PRIVADAS DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 26 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE CONTRATOS DE COLABORACION PUBLICO PRIVADA PARA EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2023 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 8 de julio de 2011.
 
@@ -1230,3 +1232,19 @@ C. Fernando Chan Chi, Diputado Presidente.- C. Rocío Adriana Abreu Artiñano, D
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, el primer día del mes de julio del año dos mil once.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, LIC. WILLIAM ROBERTO SARMIENTO URBINA.- RUBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE ASOCIACIONES PÚBLICO-PRIVADAS DEL ESTADO DE CAMPECHE".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Contratos de Colaboración Público-Privada para el Estado de Campeche, expedida mediante Decreto 138 publicado en el Periódico Oficial del Estado el 8 de julio de 2011.
+
+TERCERO. El Ejecutivo del Estado contará con un plazo de 180 días naturales para emitir el Reglamento de la presente Ley.
+
+CUARTO. En virtud del presente Decreto, los Municipios del Estado de Campeche deberán actualizar sus marcos normativos en los términos que correspondan.
+
+QUINTO. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal en todo lo que opongan al presente Decreto.
