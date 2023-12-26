@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-125101"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-12-19"
-last_updated: "2021-03-19"
+last_updated: "2023-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE DICIEMBRE DE 2023 EN EL P.O. DEL ESTADO DE COAHUILA DE ZARAGOZA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección al Número 101 del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 19 de diciembre de 2017.
 
@@ -201,9 +203,11 @@ IX. Concurrir al Congreso cuando se discuta un proyecto de ley o decreto que el 
 
 X. Las que con ese carácter le confieran la Constitución Federal, la Constitución Política del Estado y las demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 10.
 
-Son unidades administrativas que corresponden al Despacho del Titular del Ejecutivo, la Jefatura de la Oficina del Ejecutivo, la Secretaría Particular, la Coordinación General de Comunicación e Imagen Institucional, la Unidad de Atención Regional en la Laguna, la Secretaría Privada, así como la Comisión para la Instrumentación del Nuevo Sistema de Justicia Penal; y la Procuraduría para Niños, Niñas y la Familia como entidad sectorizada, que auxilian al Ejecutivo y a la administración pública para el despacho de los asuntos que le correspondan. Esta ley y los reglamentos que de ella se desprendan, fijarán sus facultades y obligaciones.
+Son unidades administrativas que corresponden al Despacho del Titular del Ejecutivo, la Jefatura de Gabinete y Proyectos Estratégicos, de la cual forma parte Pro Coahuila, la Jefatura de la Oficina del Ejecutivo, la Secretaría Particular, la Secretaría Privada, así como la Comisión para la Instrumentación del Nuevo Sistema de Justicia Penal, que auxilian al Ejecutivo y a la administración pública para el despacho de los asuntos que le correspondan. Esta ley y los reglamentos que de ella se desprendan, fijarán sus facultades y obligaciones.
 
 ### CAPÍTULO CUARTO. DE LAS COMISIONES INTERSECRETARIALES
 
@@ -241,7 +245,9 @@ V. La solicitud a que se refiere el artículo 119 de la Constitución Federal, y
 
 VI. Los proyectos o propuestas que impliquen contratación de deuda pública.
 
-El Jefe de Oficina del Ejecutivo tendrá el carácter de Secretario del Consejo de Estado, será el encargado de instrumentar la convocatoria y asistirá a las sesiones con voz pero sin voto a efecto de dar fe y levantar las minutas correspondientes, que serán publicadas en el Periódico Oficial.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+El Jefe de Gabinete y Proyectos Estratégicos, tendrá el carácter de Secretario del Consejo de Estado, será el encargado de instrumentar la convocatoria y asistirá a las sesiones con voz, pero sin voto a efecto de dar fe y levantar las minutas correspondientes, que serán publicadas en el Periódico Oficial.
 
 ## TÍTULO SEGUNDO. DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA
 
@@ -337,13 +343,21 @@ XIII. Secretaría del Trabajo;
 
 XIV. Secretaría de Vivienda y Ordenamiento Territorial;
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XV. Secretaría de Turismo y Desarrollo de Pueblos Mágicos, y
+XV. Secretaría de Turismo y Desarrollo de Pueblos Mágicos;
 
 > <small>(ADICIONADA, P.O. 19 DE MARZO DE 2021)</small>
 
 XVI. Secretaría de Inversión Pública Productiva.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+XVII. Secretaría de las Mujeres; y
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+XVIII. Secretaría de Desarrollo Regional de la Laguna.
 
 Quienes sean titulares de las secretarías integrarán el gabinete legal.
 
@@ -489,7 +503,9 @@ XXVII. Formular y conducir la política de población, salvo lo relativo a colon
 
 XXVIII. Vigilar el cumplimiento de las disposiciones constitucionales y legales en materia de culto público, iglesias, agrupaciones y asociaciones religiosas;
 
-XXIX. Impulsar las políticas públicas en materia de derechos humanos y dar seguimiento a los programas que refuercen la igualdad entre mujeres y hombres, mediante estrategias y acciones que contribuyan a prevenir y a eliminar la violencia y discriminación;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+XXIX. Impulsar las políticas públicas en materia de derechos humanos y dar seguimiento a los programas, mediante estrategias y acciones que contribuyan a prevenir y a eliminar la discriminación;
 
 XXX. Coordinar y apoyar la defensa jurídica de las dependencias y entidades de la administración pública, en los juicios de amparo en los que se señale como responsables a las autoridades del Poder Ejecutivo y representar al Titular del Ejecutivo, en todo tipo de controversias, juicios o acciones de inconstitucionalidad en que éste sea parte con cualquier carácter, esta facultad es delegable;
 
@@ -501,9 +517,17 @@ XXXIII. Dirigir, coordinar, operar y calificar los procesos de evaluación y cer
 
 XXXIV. Establecer mecanismos de coordinación interinstitucional con dependencias e instancias federales, estatales y municipales que ejercen facultades, realicen acciones, ejecuten programas y políticas públicas en materia de seguridad pública;
 
-XXXV. Proponer, implementar y evaluar políticas públicas en materia de prevención social de la violencia y la delincuencia, y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXXVI. Las demás que le confieran expresamente esta ley, otras disposiciones aplicables y aquellas que le encomiende el Titular del Ejecutivo.
+XXXV. Conocer la operación y evaluar los resultados de las entidades paraestatales que se encuentren sectorizadas a la Secretaría, en relación de los objetivos y metas del Plan Estatal de Desarrollo vigente y sus respectivos programas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+XXXVI. Promover y coordinar acciones y proyectos en materia de salud, educación, bienestar y demás temas en el ámbito social que sean necesarios para el desarrollo sostenible de la población; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+XXXVII. Las demás que le confieran expresamente esta ley, otras disposiciones legales y administrativas, y aquellas que le encomiende el Titular del Ejecutivo.
 
 ###### ARTÍCULO 22.
 
@@ -601,7 +625,9 @@ A la Secretaría de Seguridad Pública le corresponde el despacho de los siguien
 
 I. Formular y ejecutar las políticas, programas y acciones tendientes a garantizar la seguridad pública del Estado y de sus habitantes; proponer al Ejecutivo la política criminal y las medidas que garanticen la congruencia de ésta entre las dependencias de la administración pública de acuerdo al Plan Estatal de Desarrollo; ejercer el mando sobre la fuerza pública para proteger a la población ante todo tipo de amenazas y riesgos, con plena sujeción a los derechos humanos y libertades fundamentales; salvaguardar la integridad y los derechos de las personas; así como preservar las libertades, el orden y la paz públicos;
 
-II. Coadyuvar a la prevención del delito;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+II. Proponer, implementar y evaluar políticas públicas en materia de prevención social de la violencia y la delincuencia y coadyuvar a la prevención del delito;
 
 III. Organizar, dirigir y supervisar bajo su adscripción a la Policía del Estado, garantizar el desempeño honesto de su personal y aplicar su régimen disciplinario, con el objeto de salvaguardar la integridad y el patrimonio de las personas y prevenir la comisión de delitos del orden común;
 
@@ -915,7 +941,7 @@ XVIII. Integrar un padrón de beneficiarios de los programas de desarrollo socia
 
 XIX. Instrumentar, en coordinación con las dependencias competentes, acciones encaminadas a mejorar condiciones de marginación;
 
-XX. Tener a su cargo el Secretariado Ejecutivo del Sistema Estatal para la Garantía de los Derechos Humanos de los Niños y Niñas, y
+XX. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2023)
 
 XXI. Las demás que le confieran expresamente esta ley, otras disposiciones aplicables y aquellas que le encomiende el Titular del Ejecutivo.
 
@@ -1373,6 +1399,124 @@ XXVII. Celebrar los contratos, convenios y acuerdos que sean necesarios para el 
 
 XXVIII. Las demás atribuciones que por la naturaleza de sus funciones sean competencia de la Secretaría.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 33 QUINQUIES. A la Secretaría de las Mujeres le corresponden los siguientes asuntos:
+
+I. Impulsar, en coordinación con las demás dependencias y entidades de la administración pública estatal, la incorporación transversal de la perspectiva de género y de derechos humanos de las mujeres en todas las políticas y programas del Estado;
+
+II. Promover la formulación de políticas públicas para alcanzar la igualdad de género;
+
+III. Impulsar en la población la erradicación de los estereotipos que generan desigualdad para las mujeres y niñas;
+
+IV. Elaborar, en coordinación con las dependencias y entidades de la administración pública del Estado, el Programa Estatal para la Igualdad entre Mujeres y Hombres que deberá contener los objetivos, estrategias y líneas de acción para lograr el avance en la igualdad sustantiva;
+
+V. Coordinar, dar seguimiento y evaluar las acciones que lleven a cabo las dependencias y entidades estatales, en el marco del Programa Estatal para la Igualdad entre Mujeres y Hombres;
+
+VI. Desarrollar y dar seguimiento al Programa de Acceso de las Mujeres a una Vida Libre de Violencia;
+
+VII. Impulsar de manera coordinada con las instancias competentes en los tres poderes del Estado y en las instancias federal y municipales, las estrategias y acciones encaminadas a la prevención, atención, sanción y erradicación de la violencia de género contra las mujeres y niñas;
+
+VIII. Coordinar y supervisar el funcionamiento de los Centros de Justicia y Empoderamiento para las mujeres;
+
+IX. Promover el empoderamiento y el avance de las mujeres en todos los ámbitos;
+
+X. Implementar el Programa de Empoderamiento Educativo para las Mujeres que permita el acceso a la educación de las mujeres con perspectiva de género, así como su permanencia o reingreso a todos los niveles y modalidades del sector educativo, favoreciendo, a través del proceso de enseñanza-aprendizaje, la igualdad de oportunidades para mujeres y hombres;
+
+XI. Promover la incorporación de las mujeres en todos los ámbitos tanto públicos como privados, con perspectiva de género, libre de prejuicios, sin patrones estereotipados de comportamiento, prácticas sociales y culturales basados en conceptos de inferioridad o subordinación;
+
+XII. Fomentar el acceso de las mujeres a servicios financieros y créditos para apoyar las actividades productivas, la formalización y el crecimiento de las microempresas dirigidas por mujeres;
+
+XIII. Participar en la operación y seguimiento de programas que emanen del gobierno federal y del ámbito internacional que promuevan la igualdad entre mujeres y hombres, los derechos humanos de las mujeres y su acceso a una vida libre de violencia;
+
+XIV. Promover, ante las instancias competentes, el establecimiento de presupuestos etiquetados a las diversas dependencias de gobierno con perspectiva de género;
+
+XV. Impulsar, en coordinación con las dependencias y entidades de la administración pública estatal, la creación de las Unidades de Igualdad de Género;
+
+XVI. Diseñar e implementar planes de formación, capacitación, especialización y profesionalización de las y los servidores públicos en materia de perspectiva de género, igualdad de género, derechos humanos de las mujeres y violencia contra las mujeres;
+
+XVII. Impulsar la adopción de prácticas de conciliación entre la vida laboral, familiar y personal de las mujeres;
+
+XVIII. Promover la participación de las mujeres en el ámbito político;
+
+XIX. Fungir como enlace y representante permanente del Gobierno del Estado ante la instancia federal competente en la materia;
+
+XX. Coadyuvar en la observancia del debido cumplimiento de las disposiciones legales que forman parte del orden jurídico estatal, nacional e internacional en materia de protección a los derechos humanos de las mujeres;
+
+XXI. Proponer iniciativas de reforma al marco jurídico estatal que permitan el avance hacia la igualdad sustantiva y que garanticen el ejercicio de los derechos de las mujeres, o en su caso, la creación de nuevas leyes, en colaboración con el Poder Legislativo;
+
+XXII. Establecer vínculos de colaboración con las autoridades responsables de la procuración de justicia y de seguridad pública para la implementación de medidas de prevención y protección contra cualquier forma de violencia y/o discriminación contra las mujeres;
+
+XXIII. Actuar como órgano de consulta, capacitación y asesoría de las dependencias y entidades de la Administración Pública Estatal, así como de las autoridades municipales y de los sectores social y privado, en materia de igualdad de género y de igualdad de oportunidades para las mujeres, cuando así lo requieran;
+
+XXIV. Promover en colaboración con las instancias competentes la creación de fuentes y bolsa de trabajo, así como capacitación para el empleo y emprendimiento para las mujeres;
+
+XXV. Propiciar el acceso de todas las mujeres a los programas sociales y culturales que se establezcan en la entidad;
+
+XXVI. Promover el acceso de las mujeres a los servicios de salud de calidad considerando las características de su ciclo de vida, condición social y ubicación geográfica, ante el sector salud público y privado;
+
+XXVII. Fomentar, en conjunto con las instancias competentes, acciones para mejorar la condición social, la inclusión y no discriminación contra las mujeres tanto en el sector urbano como rural;
+
+XXVIII. Impulsar ante las instancias que correspondan la creación y el fortalecimiento de los mecanismos jurídicos y administrativos para asegurar el ejercicio pleno de los derechos de las mujeres;
+
+XXIX. Fomentar la participación activa de las organizaciones que actúan en la promoción y defensa de los derechos de las mujeres;
+
+XXX. Promover la ejecución de acciones para el reconocimiento y la visibilidad pública de las mujeres en todos los ámbitos;
+
+XXXI. Promover en los medios de comunicación una cultura de igualdad entre mujeres y hombres, la eliminación de imágenes estereotipadas de género y el respeto a la dignidad de las personas;
+
+XXXII. Impulsar la cooperación internacional, nacional, estatal y municipal para el apoyo financiero y técnico para el desarrollo de acciones, programas y proyectos que favorezcan el avance de las mujeres y de la igualdad de género;
+
+XXXIII. Suscribir acuerdos de colaboración con organismos gubernamentales, no gubernamentales, públicos y privados, nacionales e internacionales, para el desarrollo de políticas, programas y acciones en materia de igualdad de género e igualdad de oportunidades para las mujeres;
+
+XXXIV. Realizar periódicamente investigaciones, diagnósticos y recopilación de datos estadísticos y demás información pertinente sobre la situación en el Estado que sirvan de soporte para el desarrollo de políticas públicas; y
+
+XXXV. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 33 SEXIES. A la Secretaría de Desarrollo Regional de la Laguna le corresponden los siguientes asuntos:
+
+I. Coordinar a las dependencias y entidades en la región laguna, para garantizar el cumplimiento de las órdenes y los acuerdos del Titular del Ejecutivo;
+
+II. Coordinar en la región laguna, las políticas, estrategias y acciones de seguridad pública que se implementen en conjunto con las instituciones militares, con las corporaciones policiales federales, estatales y municipales;
+
+III. Convocar y dirigir las reuniones de coordinación con las dependencias, entidades o unidades administrativas, cuando se trate de temas relacionados con la región laguna y dar seguimiento a los acuerdos que se generen;
+
+IV. Atender las necesidades de la ciudadanía de la región laguna, y dar o proponer soluciones a conflictos sociales;
+
+V. Dar seguimiento en la región laguna, a las políticas públicas aplicadas por la administración pública estatal y realizar su evaluación periódica, con objeto de aportar elementos para la toma de decisiones;
+
+VI. Coadyuvar con las dependencias en la ejecución de programas y proyectos en materia de salud, derechos humanos, educación, cultura, vivienda y en cualquier otro relacionado con el desarrollo social;
+
+VII. Promover y fortalecer la gestión individual y colectiva en materia social, económica y de turismo;
+
+VIII. Apoyar las actividades y programas científicos, tecnológicos, deportivos y culturales que organice el Gobierno del Estado;
+
+IX. Participar en la ejecución de programas y obras sociales que favorezcan el bienestar individual y colectivo;
+
+X. Participar en la distribución y abastecimiento de productos alimentarios básicos a población marginada o en estado de necesidad;
+
+XI. Actuar como enlace en la región, entre el Titular del Ejecutivo y la sociedad civil, entidades privadas y los Ayuntamientos;
+
+XII. Representar al Titular del Ejecutivo, ante las autoridades federales, del estado, municipales, de otras entidades federativas, así como de organismos públicos y privados, en la región laguna;
+
+XIII. Auxiliar a las dependencias y entidades competentes en la organización de actividades y eventos que fomenten las tradiciones culturales y el deporte;
+
+XIV. Coordinar la atención de las demandas populares dirigidas al Titular del Ejecutivo o a las dependencias;
+
+XV. Dirigir y organizar las unidades administrativas a su cargo y establecer sistemas de coordinación y colaboración de éstas con las dependencias y entidades para el debido ejercicio de sus funciones;
+
+XVI. Establecer mecanismos de coordinación con las oficinas de las diferentes dependencias ubicadas en la región para cumplir los objetivos establecidos en el Plan Estatal de Desarrollo;
+
+XVII. Colaborar en el ámbito de su competencia, con las acciones que considere pertinentes e inherentes a su función, con los gobiernos municipales, entidades federativas y las autoridades federales, ubicadas en la región de la laguna; y
+
+XVIII. Las que le confiera esta ley, su reglamento y demás disposiciones aplicables, así como las que le asigne el Titular del Ejecutivo.
+
+La Secretaría, desempeñará sus atribuciones en los municipios de Torreón, San Pedro, Matamoros, Viesca y Francisco I. Madero.
+
+Cuando alguna de las facultades u obligaciones contenidas en el presente artículo sean concurrentes con otra dependencia o entidad, deberá ser ejercida en forma coordinada buscando la mayor eficiencia y eficacia en el uso de los recursos y el máximo beneficio para la población de la región laguna.
+
 ###### ARTÍCULO 34.
 
 Los titulares de los órganos internos de control de las dependencias y entidades de la administración pública y de sus áreas de auditoría, quejas y responsabilidades, serán responsables de mantener el control interno de la dependencia o entidad a la que se encuentren adscritos. Asimismo, tendrán como función apoyar la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como al buen desempeño de servidores públicos y órganos, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos. Los órganos internos de control de las entidades que cuenten con un régimen específico de control interno, se sujetarán a las funciones y organización establecidas en las disposiciones mediante las que se crea la respectiva entidad.
@@ -1614,3 +1758,11 @@ SEXTO.- Los trabajadores que con motivo del cumplimiento del presente decreto de
 SÉPTIMO.- Los procedimientos ya iniciados conforme a las disposiciones vigentes hasta antes de la entrada en vigor del presente decreto, continuarán regulándose bajo dichas disposiciones, esto, hasta el momento en que se emita el dictamen de viabilidad por parte del Comité de Proyectos o Comité Municipal de Proyectos, según corresponda y; posteriormente deberán ajustarse a lo establecido en el presente Decreto.
 
 OCTAVO.- A partir de la entrada en vigor del presente Decreto, en lo que respecta a las disposiciones legales, reglamentarias y administrativas en materia de asociaciones público privadas, en cualquier mención hecha a la Secretaría de Infraestructura, deberá entenderse referida a la Secretaría de Inversión Pública Productiva, conforme a las atribuciones que a esta se le confieren en el presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 675.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente decreto entrará en vigor el primero de enero de dos mil veinticuatro.
