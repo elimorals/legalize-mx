@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-152263"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-11-03"
-last_updated: "2023-10-06"
+last_updated: "2023-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152263&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-10-28"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2023.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 3 de noviembre de 2021.
 
@@ -149,7 +149,9 @@ XXIV. Suprema Corte: Suprema Corte de Justicia de la Nación;
 
 XXV. Titulares: Las Magistradas o Magistrados de Tribunales Colegiados de Circuito, de Tribunales Colegiados de Apelación y de Plenos Regionales; las Juezas y los Jueces de Distrito y sus categorías equivalentes en el sistema penal acusatorio y en el nuevo sistema de justicia laboral, y
 
-XXVI. Vínculo o relación familiar: El o la que tienen las personas servidoras públicas con su cónyuge, concubina o concubinario, conviviente o con quien o quienes sostengan relación análoga a las anteriores, conforme a las legislaciones aplicables que regulen instituciones o figuras del derecho de familia, así como con parientes consanguíneos o por afinidad hasta el quinto grado, tanto en línea recta ascendente o descendente, como colateral.
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+XXVI. Vínculo o relación familiar. El o la que tienen los servidores públicos con su cónyuge, concubina o concubinario, conviviente o con quien o quienes sostengan relación análoga a las anteriores, así como con parientes consanguíneos o por afinidad hasta el cuarto grado, tanto en línea recta como colateral.
 
 ###### Artículo 3.
 
@@ -437,7 +439,9 @@ IX. Los criterios de desempate; su ponderación y las etapas en que serán aplic
 
 X. El número de plazas que se concursarán cuando el concurso lo requiera;
 
-XI. La obligación de las personas concursantes de manifestar bajo protesta de decir verdad todas las relaciones familiares por afinidad o consanguinidad hasta el quinto grado en el Poder Judicial de la Federación;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+XI. La obligación de las personas concursantes de manifestar bajo protesta de decir verdad todas las relaciones familiares por afinidad o consanguinidad hasta el cuarto grado en el Poder Judicial de la Federación;
 
 > <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
 
@@ -1669,9 +1673,9 @@ Propuesta de cambio de adscripción. Las Magistradas y los Magistrados y Juezas 
 
 I. Sus solicitudes se valorarán de acuerdo con los criterios previstos por el artículo 66 de la Ley;
 
-> <small>(F. DE E., D.O.F. 20 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
-II. La solicitud deberá presentarse por escrito al Consejo mediante el sistema electrónico previsto para tal efecto, en el que se deberá manifestar bajo protesta de decir verdad lo siguiente: las razones por las que se solicita el cambio de adscripción; los posibles conflictos de interés que pudieran existir con particulares o con otras personas servidoras públicas con motivo del desempeño de la función jurisdiccional; los nombres y grado de parentesco de todas las y los familiares dentro del quinto grado por consanguinidad y por afinidad que laboren dentro del Poder Judicial de la Federación; los cursos que hubiera impartido o tomado en la Escuela Judicial; y las labores de cuidado familiares no remuneradas que realice al interior de su núcleo familiar; y
+II. La solicitud deberá presentarse por escrito al Consejo mediante el sistema electrónico previsto para tal efecto, en el que se deberá manifestar bajo protesta de decir verdad lo siguiente: las razones por las que se solicita el cambio de adscripción; los posibles conflictos de interés que pudieran existir con particulares o con otras personas servidoras públicas con motivo del desempeño de la función jurisdiccional; los nombres y grado de parentesco de todas las y los familiares hasta el cuarto grado por consanguinidad y por afinidad que laboren dentro del Poder Judicial de la Federación; los cursos que hubiera impartido o tomado en la Escuela Judicial; y las labores de cuidado familiares no remuneradas que realice al interior de su núcleo familiar; y
 
 III. Acreditar una antigüedad mínima de tres años en el órgano jurisdiccional al que se encuentre adscrito el o la solicitante, salvo los casos que exijan las necesidades del servicio, en los que el Pleno podrá exceptuar la presente regla.
 
@@ -1965,51 +1969,93 @@ En todo momento quedará a salvo el derecho de las personas servidoras públicas
 
 ### Capítulo Único. Integración de la plantilla de los órganos jurisdiccionales
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 141.
 
-Integración de la plantilla de los órganos jurisdiccionales. La plantilla de los órganos jurisdiccionales deberá integrarse observando el principio de paridad de género, en el entendido de que, de manera integral y en cada nivel de cargo o escalafón, cuando menos la mitad de las plazas sean ocupadas por mujeres. Esta regla admite como única excepción el caso de que en determinado puesto el número de plazas sea impar o tratándose de puestos en los que sólo exista una plaza.
+Integración de la plantilla de los órganos jurisdiccionales. La plantilla de los órganos jurisdiccionales deberá integrarse observando el principio de paridad de género, en el entendido de que, de manera integral y en cada nivel de cargo o escalafón, cuando menos la mitad de las plazas sean ocupadas por mujeres.
+
+Esta regla admite como única excepción el caso en que se requiera cubrir una plaza vacante de forma temporal en una situación apremiante a criterio del titular. Esta medida no podrá exceder de tres meses.
 
 ## TÍTULO DÉCIMO PRIMERO. Medidas de Combate al Nepotismo
 
 ### Capítulo Único. Impedimentos en los nombramientos y obligación de informar vínculos familiares
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 142.
 
-Impedimentos en los nombramientos. Las y los Titulares están impedidas e impedidos para otorgar nombramiento, prórroga o promoción a cualquier persona en los supuestos siguientes:
+Impedimentos en los nombramientos. Los titulares están impedidos para otorgar nombramiento, prórroga o promoción:
 
-I. Con la que tenga vínculo o relación familiar o de pareja, o conflicto de interés;
+I. A (sic) persona con la que tenga vínculo o relación familiar, o conflicto de interés;
 
-II. Con la que tenga vínculo o relación familiar o de pareja con cualquier persona servidora pública del órgano jurisdiccional en el que es Titular, lo que incluye al resto de Titulares en el caso de órganos jurisdiccionales colegiados y al personal de la Secretaría de Acuerdos;
+II. A quien tenga vínculo o relación familiar, o conflicto de interés, con cualquier servidor público del órgano jurisdiccional en el que es titular.
 
-III. Con la que tenga vínculo o relación familiar o de pareja con el o la Titular de un órgano jurisdiccional o área administrativa que previamente haya contratado a una persona con la que la persona impedida tuvo o tiene relación familiar o de pareja, bajo el mismo concepto previamente aludido. La prohibición prevista en este supuesto será aplicable inclusive cuando se pretenda vincular el movimiento con otro u otros órganos jurisdiccionales o áreas administrativas, siempre que se acredite el vínculo o relación familiar entre los esquemas de contratación y la temporalidad en los nombramientos.
+Si con anterioridad a la entrada en vigor del Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la Carrera Judicial se hubiera otorgado nombramiento de base a dos o más servidores públicos que tengan vínculo o relación familiar en un mismo órgano jurisdiccional, se respetará su derecho a la promoción, siempre que entre ellos no exista una relación de subordinación que pueda dar lugar a un conflicto de interés;
 
-Bajo el criterio adoptado en esta fracción, tampoco podrá otorgarse nombramiento al personal adscrito a un órgano jurisdiccional cuyo o cuya Titular haya contratado a una persona que tenga un vínculo o relación familiar o de pareja con quien ahora pretende otorgar el nombramiento, y
+III. A quien tenga vínculo o relación familiar, o conflicto de interés, con otro titular de órgano jurisdiccional o área administrativa, si se configura alguno de los siguientes esquemas:
 
-IV. A la que tenga vínculo o relación familiar o de pareja con algún o alguna Titular que haya estado adscrito en los dos años inmediatos anteriores al órgano jurisdiccional donde se pretenda dar el nombramiento.
+a) Nombramientos cruzados: cuando dos titulares contraten entre sí familiares de cada uno de ellos, o personas con las que tengan conflicto de interés, con independencia de que los respectivos nombramientos sean o no simultáneos.
 
-Con independencia de lo anterior, las y los Titulares deberán abstenerse de construir esquemas de contratación en los que se genere beneficio a una o más personas con las que aquellos u otros Titulares tengan vínculo o relación familiar o de pareja, o algún otro conflicto de interés.
+b) Nombramientos triangulados: cuando más de dos titulares contraten entre sí familiares de cada uno de ellos o personas con las que tengan conflicto de interés, siempre que los respectivos nombramientos sean simultáneos.
 
-La contravención a lo dispuesto en el presente artículo será considerada una falta grave conforme lo dispuesto en los artículos 58 y 63 Bis. de la Ley General de Responsabilidades Administrativas y los artículos 110, fracciones VI, XV y XV y 117 de la Ley Orgánica y, por lo tanto, será causa de responsabilidad administrativa.
+c) Rotación intermitente: cuando más de dos titulares, con el propósito de evadir la configuración del esquema de nombramientos triangulados, otorguen nombramientos no simultáneos, de forma intermitente, a familiares de cada uno de ellos o personas con las que tengan conflicto de interés.
+
+d) Nombramientos a terceros: cuando dos o más titulares, con el propósito de evadir la configuración de los esquemas de nombramientos cruzados y triangulados, contraten a servidores públicos con los que no tengan relación familiar, para beneficiar a familiares de alguno o algunos de ellos o personas con las que tengan conflicto de interés.
+
+IV. A quien tenga vínculo o relación familiar, o conflicto de interés, con algún titular que en los dos años inmediatos anteriores haya estado adscrito al órgano jurisdiccional donde se pretenda dar el nombramiento.
+
+Con independencia de lo anterior, los titulares deberán abstenerse de construir esquemas de contratación que les generen beneficios recíprocos o para favorecer indebidamente a sus familiares o personas con las que tengan conflicto de interés.
+
+La contravención a lo dispuesto en el presente artículo será considerada falta administrativa conforme a los artículos 58 y 63 Bis. de la Ley General de Responsabilidades Administrativas y los artículos 110, fracciones VI, XIV y XV, y 117 de la Ley Orgánica.
+
+Para la contratación, el interesado deberá informar al titular, bajo protesta de decir verdad y mediante los formatos autorizados por el Consejo, los vínculos o relaciones familiares, o conflictos de interés, que tenga en el Poder Judicial de la Federación. Esta obligación es independiente de las diversas relacionadas con el padrón de relaciones familiares reguladas en los artículos 150 y 151 del presente Acuerdo. La falta de veracidad de la información proporcionada será causa de responsabilidad administrativa.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 143.
 
-Impedimentos en la transferencia de personal y cambios de adscripción. El Consejo deberá evitar concentrar en un mismo órgano jurisdiccional personas servidoras públicas con vínculos o relaciones familiares o de pareja entre sí, cuando se trate de la transferencia de personal por conclusión de funciones, así como en casos de cambios de adscripción o supuestos análogos. Las y los Titulares no podrán ser adscritos a un órgano jurisdiccional donde tenga vínculos o relaciones familiares o a un circuito dónde cuenten con tres o más vínculos o relaciones familiares y en el caso del primer circuito cuando cuenten con cuatro vínculos o relaciones familiares.
+Impedimentos en adscripciones de titulares de órganos jurisdiccionales. Los titulares no podrán ser adscritos.
 
-Para lo anterior, el Consejo podrá apoyarse de la información en los formatos de inscripción a los concursos, así como de los medios que considere pertinentes.
+I. A un órgano jurisdiccional donde tengan algún vínculo o relación familiar.
 
-Cuando el Consejo adopte una determinación que pudiera contravenir lo dispuesto en el párrafo anterior, la persona interesada deberá hacerlo del conocimiento de las instancias respectivas, a efecto de que se corrija la situación, preferentemente antes de que surta efectos la decisión adoptada.
+II. A un circuito donde cuenten con más de cuatro vínculos o relaciones familiares, sin que ello incluya a titulares de órganos jurisdiccionales.
+
+Para efectos de la fracción II, sólo se tomarán en cuenta los vínculos o relaciones familiares que estén en activo en órganos jurisdiccionales, siempre que hubieran ingresado o, en su caso, reingresado al Poder Judicial de la Federación con posterioridad a la fecha de la primera adscripción como titular de órgano jurisdiccional.
+
+Los vínculos o relaciones familiares derivados del parentesco por afinidad, sólo se tomarán en cuenta cuando el origen del parentesco siga vigente conforme a la legislación civil.
+
+Cuando el Consejo emita una determinación que pudiera contravenir lo dispuesto en este artículo, los titulares involucrados deberán informarlo a las instancias respectivas, a efecto de que se corrija la situación, preferentemente antes de que surta efectos la determinación.
+
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 143 Bis.
+
+Impedimentos en la transferencia de personal de órganos jurisdiccionales. El Consejo deberá evitar concentrar en un mismo órgano jurisdiccional servidores públicos con vínculos o relaciones familiares, en los casos de transferencia de personal por conclusión de funciones, así como en casos de cambios de adscripción o supuesto análogos.
+
+Cuando el Consejo emita una determinación que pudiera contravenir lo dispuesto en este artículo, los servidores públicos involucrados deberán informarlo a las instancias respectivas, a efecto de que se corrija la situación, preferentemente antes de que surta efectos la determinación.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 144.
 
-Obtención de un vínculo o relación posterior al nombramiento. La circunstancia de que alguna o algún Titular obtenga un vínculo o relación familiar o de pareja con alguna de las personas servidoras públicas adscritas al mismo órgano jurisdiccional del que sea titular, no hace cesar el nombramiento previamente expedido. En el supuesto anterior, deberá actualizarse la declaración establecida en el padrón de relaciones familiares, contenido en el Registro Único, y se comunicará a la Secretaría Ejecutiva de Adscripción dentro del plazo de 3 días, con la finalidad de valorar la situación de la o el Titular.
+Obtención de un vínculo o relación posterior al nombramiento. Si surgiera algún vínculo o relación familiar, o conflicto de interés, entre un titular y otro servidor público del mismo órgano jurisdiccional, no cesará el nombramiento previamente expedido, pero deberán actualizar su información en el padrón de relaciones familiares y comunicarlo a la Secretaría Ejecutiva de Adscripción, dentro del plazo de 3 días, con la finalidad de valorar la situación del titular.
 
-Cuando el vínculo o relación familiar o de pareja se obtenga entre personas adscritas a un mismo órgano jurisdiccional, y ninguna de ellas sea titular del mismo, el personal deberá actualizar su información en el padrón de relaciones familiares y hacerlo del conocimiento de dicha o dicho Titular, para que éste, a su vez, dé el aviso correspondiente a Recursos Humanos y ésta valide la información en el padrón de relaciones familiares, contenido en el Registro Único. Asimismo, el o la Titular procurará adoptar las medidas de organización necesarias para evitar que las personas con vínculos o relaciones familiares laboren juntas o en los mismos equipos o áreas de trabajo, y nunca podrá nombrar como secretario o secretaria en funciones a una persona con la que tenga relaciones familiares.
+Cuando el vínculo o relación familiar, o el conflicto de interés, surja entre servidores públicos adscritos a un mismo órgano jurisdiccional, y ninguno sea titular, deberán actualizar su información en el padrón de relaciones familiares y hacerlo del conocimiento del titular, para que éste, a su vez, dé el aviso correspondiente a Recursos Humanos.
+
+El titular procurará adoptar las medidas de organización necesarias para evitar que las personas con vínculos o relaciones familiares laboren juntas o en los mismos equipos o áreas de trabajo, y no podrá proponer como secretario en funciones a una persona que tenga relaciones familiares o conflicto de interés.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 145.
 
-Contratación de personas vinculadas o relacionadas con otras y otros Titulares. La contratación de las personas que tengan vínculo o relación familiar o de pareja con otras u otros Titulares, requerirá previamente la opinión no vinculante del Comité de Integridad, la cual formará parte del trámite correspondiente. La omisión de la o el Titular de requerir dicha opinión será causa de responsabilidad administrativa no grave conforme lo dispuesto en el artículo 49 de la Ley General de Responsabilidades Administrativas y el artículo 110, fracción XVI, de la Ley Orgánica y, por lo tanto, será causa de responsabilidad administrativa.
+Contratación de personas con vínculo o relación familiar, o conflicto de interés, con otros titulares. La contratación de quienes tengan vínculo o relación familiar, o conflicto de interés, con otro titular de órgano jurisdiccional o de área administrativa, será sometida a consulta ante el Comité de Integridad.
 
-La o el Titular que, tras conocer la opinión del Comité de Integridad, designe en cualquier cargo a personas que tengan vínculo o relación familiar o de pareja con otra u otro Titular de órgano jurisdiccional o de área administrativa, deberá dar aviso de esa circunstancia a Recursos Humanos, dentro de los cinco días siguientes al otorgamiento del nombramiento. La omisión del aviso anterior generará responsabilidad administrativa no grave, en términos de los artículos 110, fracción XVI, de la Ley Orgánica, en relación con el diverso 49, fracción I, de la Ley General de Responsabilidades Administrativas.
+Los titulares podrán formular la consulta al Comité de Integridad antes de otorgar el nombramiento, o bien, otorgarlo y realizar la consulta dentro de los cinco días hábiles siguientes. En el último supuesto, el otorgamiento del nombramiento no dará lugar a responsabilidad administrativa, pero la omisión de efectuar la consulta sí la producirá.
+
+El Comité de Integridad deberá emitir la determinación respectiva dentro de los cinco días hábiles siguientes a la recepción de la consulta, la cual tendrá efectos vinculantes. Si se emite Determinación de Inexistencia de Impedimento, se eximirá de responsabilidad administrativa al titular por lo que hace a ese movimiento, pero no lo libera de la que pudiera derivar si con motivo de una investigación se recaban pruebas que acrediten la configuración de algún esquema de contratación prohibido que, por su complejidad, no fuera evidente al momento de resolver la consulta.
+
+De dictarse Determinación de Existencia de Impedimento, deberá notificarse al titular para que se abstenga de continuar con la contratación o, en su caso, para que deje sin efectos el nombramiento.
 
 ###### Artículo 146.
 
@@ -2033,21 +2079,29 @@ Consultas a la Comisión. La Comisión está facultada para que, en los casos no
 
 Contravención a los impedimentos de nombramiento. Los nombramientos realizados en contravención a este Capítulo constituyen una causal de responsabilidad administrativa para las y los Titulares que intervengan en los mismos. Adicionalmente, la Comisión de Administración dejará sin efectos dichos nombramientos.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 150.
 
-Obligación de informar. Las personas servidoras públicas tendrán la obligación de informar sus vínculos familiares y de pareja. Para tal efecto, deberán hacer los registros respectivos en el padrón de relaciones familiares, contenido en el Registro Único, e informar a sus Titulares, para que éstos tengan claridad sobre casos que pudieran actualizar una prohibición de contratación en el futuro o si deben solicitar opinión al Comité de Integridad respecto de ésta. En el caso de los Tribunales Colegiados, los vínculos familiares y de pareja del personal que no esté asignado a una ponencia, serán informados a la Presidencia.
+Obligación de informar. Los servidores públicos tendrán la obligación de informar sus vínculos o relaciones familiares. Para tal efecto, deberán hacer los registros respectivos en el padrón de relaciones familiares, contenido en el Registro Único, e informar a sus titulares, para que éstos tengan claridad sobre casos que pudieran actualizar una prohibición de contratación en el futuro.
+
+En el caso de los Tribunales Colegiados, los vínculos o relaciones familiares del personal que no esté asignado a una ponencia, serán informados a la Presidencia.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 151.
 
-Obligación de refrendar información. Asimismo, cada persona servidora pública tendrá la obligación de refrendar y actualizar la información sobre sus relaciones y vínculos familiares cada seis meses en el padrón de relaciones familiares, contenido en el Registro Único.
+Obligación de refrendar y actualizar información. Los servidores públicos tendrán la obligación de refrendar y actualizar la información sobre sus vínculos o relaciones familiares en el padrón de relaciones familiares, contenido en el Registro Único.
 
-Los periodos para informar y refrendar serán los primeros quince días de los meses de mayo y noviembre de cada anualidad, en términos de la plantilla autorizada hasta el día inmediato anterior. La actualización deberá hacerse dentro de los primeros quince días a partir de la notificación electrónica que se haga en el correo institucional o cuando se tenga conocimiento del vínculo familiar, con excepción del trámite que para Titulares y relaciones familiares en el propio órgano prevé el artículo 144 de este Acuerdo.
+Los periodos para refrendar serán los meses de mayo y noviembre de cada anualidad, en términos de la plantilla autorizada hasta el día inmediato anterior.
 
-Las personas servidoras públicas que reciban un nombramiento provisional o definitivo contarán con 15 días hábiles para registrar la información respectiva en el padrón de relaciones familiares.
+La actualización deberá hacerse dentro de los primeros treinta días naturales a partir de la notificación electrónica que se haga en el correo institucional o cuando se tenga conocimiento del vínculo o relación familiar, con excepción del trámite que para titulares y relaciones familiares en el propio órgano prevé el artículo 144 de este Acuerdo.
 
-En adición a las responsabilidades administrativas que pudieran surgir, el incumplimiento en el llenado del padrón electrónico de relaciones familiares, contenido en el Registro Único, ya sea en el registro inicial, actualizaciones o refrendos, impedirá a quien incurra en dicha omisión recibir licencias —a excepción de las licencias médicas de así considerarlo el área correspondiente—, participar en concursos para cubrir una plaza de mayor nivel, recibir nuevos nombramientos, bases o prórrogas de nombramientos, y, tratándose de Titulares, solicitar cambios de adscripción. Lo anterior, en tanto no se subsane dicha omisión.
+Los servidores públicos que reciban un nombramiento provisional o definitivo contarán con treinta días naturales para registrar la información respectiva en el padrón de relaciones familiares.
 
-Para efectos de lo anterior, dentro de los 30 días siguientes a cada período de refrendo, las y los Titulares recibirán un aviso con los nombres de las personas adscritas a los órganos jurisdiccionales a su cargo que hayan incurrido en dicha omisión. Por su parte, la Escuela Judicial y las áreas encargadas de tramitar las licencias y las solicitudes de cambio de adscripción de Titulares podrán consultar si las personas interesadas en dichos procesos han dado cumplimiento a sus obligaciones conforme a lo previsto en este Título.
+En adición a las responsabilidades administrativas que pudieran surgir, el incumplimiento en el llenado del padrón electrónico de relaciones familiares, contenido en el Registro Único, ya sea en el registro inicial, actualizaciones o refrendos, impedirá a quien incurra en dicha omisión recibir licencias —a excepción de las licencias médicas de así considerarlo el área correspondiente—, participar en concursos para cubrir una plaza de mayor nivel, recibir nuevos nombramientos, bases o prórrogas de nombramientos, y, tratándose de titulares, solicitar cambios de adscripción. Lo anterior, en tanto no se subsane dicha omisión.
+
+Para efectos de lo anterior, dentro de los 30 días siguientes a cada período de refrendo, las y los titulares recibirán un aviso con los nombres de las personas adscritas a los órganos jurisdiccionales a su cargo que hayan incurrido en dicha omisión. Por su parte, la Escuela Judicial y las áreas encargadas de tramitar las licencias y las solicitudes de cambio de adscripción de titulares podrán consultar si las personas interesadas en dichos procesos han dado cumplimiento a sus obligaciones conforme a lo previsto en este Título.
 
 ## TÍTULO DÉCIMO SEGUNDO. Nombramientos, Sustituciones, Vacaciones, Licencias, Estímulos y Retiro en la Carrera Judicial
 
@@ -2277,9 +2331,7 @@ Autorización de licencia. El resultado de las solicitudes de licencia deberá e
 
 ###### Artículo 180.
 
-Solicitud de opinión del Comité de Integridad. Tratándose de solicitudes de licencias personales superiores a diez días de personas servidoras públicas que tengan relaciones de pareja o parentesco por consanguinidad o afinidad dentro del quinto grado con otras u otros Titulares de áreas administrativas u órganos jurisdiccionales, deberán contar con la opinión no vinculante del Comité de Integridad. La omisión de solicitar la opinión anterior generará responsabilidad administrativa no grave en términos de los artículos 110, fracción XVI de la Ley Orgánica, en relación con el diverso 49, fracción I, de la Ley General de Responsabilidades Administrativas.
-
-En casos de urgencia justificable, la o el Titular del órgano jurisdiccional podrá otorgar licencias personales sin la opinión no vinculante del Comité de Integridad. Sin embargo, cuando ello sea posible la o el Titular deberá dar aviso inmediato de la licencia y de las circunstancias de urgencia al Comité de Integridad, acompañando con las constancias respectivas.
+(DEROGADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, D.O.F. 26 DE DICIEMBRE DE 2023)
 
 ###### Artículo 181.
 
@@ -2565,7 +2617,9 @@ La Comisión de Administración se encargará de la creación y regulación del 
 
 Elementos del Registro Único. El Registro Único sistematizará la información relativa a la planeación de recursos humanos, ingreso, promoción, evaluación del desempeño, permanencia y separación de las personas servidoras públicas de la Carrera Judicial. El Registro Único deberá incluir un expediente para cada persona servidora pública que ingrese a la Carrera Judicial.
 
-El Registro Único estará interconectado con el padrón electrónico de relaciones familiares. El citado padrón será administrado por la Secretaría Ejecutiva de Adscripciones, y consiste en un sistema electrónico en donde las personas servidoras públicas cada seis meses deberán manifestar bajo protesta de decir verdad sus relaciones familiares en el Poder Judicial de la Federación, por afinidad o consanguinidad hasta el quinto grado, así como los potenciales conflictos de interés en el ejercicio de su encargo. Dicha información será registrada dentro del expediente de las personas servidoras públicas en el Registro Único.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+El Registro Único estará interconectado con el padrón electrónico de relaciones familiares. El citado padrón será administrado por la Secretaría Ejecutiva de Adscripción, y consiste en un sistema electrónico en donde las personas servidoras públicas cada seis meses deberán manifestar bajo protesta de decir verdad sus relaciones familiares en el Poder Judicial de la Federación, por afinidad o consanguinidad hasta el cuarto grado, así como los potenciales conflictos de interés en el ejercicio de su encargo. Dicha información será registrada dentro del expediente de las personas servidoras públicas en el Registro Único.
 
 ###### Artículo 218.
 
@@ -2892,3 +2946,11 @@ TERCERO. La Escuela Federal de Formación Judicial será la encargada de emitir 
 CUARTO. Respecto a las personas que previo a la entrada en vigor del presente Acuerdo se encuentren inscritos en el Curso Género como Herramienta para la Igualdad y en el Curso para generar espacios libres de violencia, deberán concluirlos para que la Escuela Federal de Formación Judicial les emita únicamente una constancia de participación.
 
 QUINTO. Las personas servidoras públicas deberán cumplir con la obligatoriedad de participar en el Curso Género como Herramienta para la Igualdad y en el Curso para generar espacios libres de violencia, en tanto se da a conocer el Programa de Sensibilización integral en Materia de Género y Espacios Libres de Violencia.
+
+D.O.F. 26 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes y en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
