@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2023-12-15"
+last_updated: "2023-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2023.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -877,7 +877,9 @@ VII. SEPTIMO CIRCUITO:
 
 Los Juzgados de Distrito en el Estado de Veracruz, con residencia en Xalapa y los Juzgados de Distrito de Procesos Penales Federales y de Amparo en Materia Penal en el Estado de Veracruz, con residencia en Villa Aldama, en los asuntos de amparo en materia penal, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acajete, Acatlán, Actopan, Alamo Temapache, Alpatláhuac, Alto Lucero de Gutiérrez Barrios, Altotonga, Apazapan, Atzalan, Ayahualulco, Banderilla, Calcahualco, Chiconquiaco, Coacoatzintla, Coatepec, Colipa, Comapa, Cosautlán de Carvajal, Coscomatepec, Emiliano Zapata, Huatusco, Ixhuacán de los Reyes, Ixhuatlán del Café, Jalacingo, Jalcomulco, Jilotepec, Juchique de Ferrer, Landero y Coss, Las Minas, Las Vigas de Ramírez, Martínez de la Torre, Miahuatlán, Misantla, Naolinco, Nautla, Perote, Rafael Lucio, San Rafael, Sochiapa, Tatatila, Tenampa, Tenochtitlán, Teocelo, Tepatlaxco, Tepetlán, Tlacolulan, Tlacotepec de Mejía, Tlalnelhuayocan, Tlaltetela, Tlapacoyan, Tonayán, Totutla, Vega de Alatorre, Villa Aldama, Xalapa, Xico, Yecuatla y Zentla.
 
-Los juzgados de Distrito en el Estado de Veracruz, con residencia en Boca del Río, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acula, Alvarado, Amatitlán, Angel R. Cabada, Boca del Río, Carlos A. Carrillo, Catemaco, Cosamaloapan de Carpio, Cotaxtla, Chacaltianguis, Hueyapan de Ocampo, Ignacio de la Llave, Isla, Ixmatlahuacán, Jamapa, José Azueta, Juan Rodríguez Clara, La Antigua, Lerdo de Tejada, Manlio Fabio Altamirano, Medellín, Otatitlán, Paso de Ovejas, Playa Vicente, Puente Nacional, Saltabarranca, San Andrés Tuxtla, Santiago Sochiapan, Santiago Tuxtla, Soledad de Doblado, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tlalixcoyan, Tres Valles, Tuxtilla, Ursulo Galván y Veracruz.
+> <small>(REFORMADO POR EL ARTÍCULO 5 DEL ACUERDO GENERAL 37/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+Los juzgados de Distrito en el Estado de Veracruz, con residencia en Boca del Río, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acula, Alvarado, Amatitlán, Angel R. Cabada, Boca del Río, Carlos A. Carrillo, Catemaco, Cosamaloapan de Carpio, Cotaxtla, Chacaltianguis, Hueyapan de Ocampo, Ignacio de la Llave, Isla, Ixmatlahuacán, Jamapa, José Azueta, Juan Rodríguez Clara, La Antigua, Lerdo de Tejada, Manlio Fabio Altamirano, Medellín, Otatitlán, Paso de Ovejas, Playa Vicente, Puente Nacional, Saltabarranca, San Andrés Tuxtla, Santiago Sochiapan, Santiago Tuxtla, Soledad de Doblado, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tlalixcoyan, Tres Valles, Tuxtilla, Ursulo Galván y Veracruz. De igual forma, conocerán de los asuntos que tengan su origen y procedencia en los municipios del Estado de Oaxaca siguientes: Acatlán de Pérez Figueroa, Ayotzintepec, Cosolapa, Eloxochitlán de Flores Magón, Huautepec, Huautla de Jiménez, Loma Bonita, San Andrés Teotilálpam, San Bartolomé Ayautla, San Felipe Jalapa de Díaz, San Felipe Usila, San Francisco Huehuetlán, San Jerónimo Tecóatl, San José Chiltepec, San José Independencia, San José Tenango, San Juan Bautista Tuxtepec, San Juan Bautista Valle Nacional, San Juan Coatzóspam, San Lorenzo Cuaunecuiltitla, San Lucas Ojitlán, San Lucas Zoquiápam, San Miguel Soyaltepec, San Pedro Ixcatlán, San Pedro Ocopetatillo, San Pedro Teutila, Santa Ana Ateixtlahuaca, Santa Cruz Acatepec, Santa María Teopoxco, Santa María Chilchotla, Santa María Jacatepec, Santa María La Asunción y San Mateo Yoloxochitlán.
 
 El Juzgado de Distrito en el Estado de Veracruz, con sede en Córdoba, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Acultzingo, Amatlán de los Reyes, Aquila, Astacinga, Atlahuilco, Atoyac, Atzacan, Camarón de Tejeda, Camerino Z. Mendoza, Carrillo Puerto, Coetzala, Córdoba, Cuichapa, Cuitláhuac, Chocamán, Fortín, Huiloapan de Cuauhtémoc, Ixhuatlancillo, Ixtaczoquitlán, La Perla, Los Reyes, Magdalena, Maltrata, Mariano Escobedo, Mixtla de Altamirano, Naranjal, Nogales, Omealca, Orizaba, Paso del Macho, Rafael Delgado, Río Blanco, San Andrés Tenejapan, Soledad Atzompa, Tehuipango, Tequila, Texhuacán, Tezonapa, Tlaquilpa, Tlilapan, Tomatlán, Xoxocotla, Yanga y Zongolica.
 
@@ -931,9 +933,9 @@ Los juzgados de Distrito en el Estado de Sinaloa, con residencia en Mazatlán, e
 
 XIII. DECIMOTERCER CIRCUITO:
 
-> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 45/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 5 DEL ACUERDO GENERAL 37/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
-Los juzgados de Distrito en el Estado de Oaxaca, con residencia en San Bartolo Coyotepec, Oaxaca, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa, excepto en el distrito judicial en el que ejercen jurisdicción territorial los juzgados de Distrito con residencia en Salina Cruz.
+Los Juzgados de Distrito en el Estado de Oaxaca, con residencia en San Bartolo Coyotepec, Oaxaca, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa, con excepción de los municipios que conforman el distrito judicial en el que ejercen jurisdicción territorial los juzgados de Distrito con residencia en Salina Cruz, así como los Juzgados de Distrito en el Estado de Veracruz, con residencia en Boca del Río.
 
 Los juzgados de Distrito en el Estado de Oaxaca, con residencia en Salina Cruz, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Asunción Ixtaltepec, Ciudad Ixtepec, Chauites, El Barrio de la Soledad, El Espinal, Guevea de Humboldt, Juchitán de Zaragoza, Magdalena Tequisistlán, Magdalena Tlacotepec, Matías Romero, Reforma de Pineda, Salina Cruz, San Blás Atempa, San Dionisio del Mar, San Francisco del Mar, San Francisco Ixhuatán, San Juan Guichicovi, San Mateo del Mar, San Miguel Chimalapa, San Miguel del Puerto, San Miguel Tenango, San Pedro Comitancillo, San Pedro Huamelula, San Pedro Huilotepec, San Pedro Mixtepec, San Pedro Pochutla, San Pedro Tapanatepec, Santa María Colotepec, Santa María Chimalapa, Santa María Guienagati, Santa María Huatulco, Santa María Jalapa del Marqués, Santa María Mixtequilla, Santa María Petapa, Santa María Tonameca, Santa María Totolapilla, Santa María Xadani, Santiago Astata, Santiago Lachiguiri, Santiago Laollaga, Santiago Niltepec, Santo Domingo Chihuitán, Santo Domingo Ingenio, Santo Domingo Petapa, Santo Domingo Tehuantepec, Santo Domingo Zanatepec y Unión Hidalgo.
 
@@ -11068,3 +11070,17 @@ QUINTO. Las Direcciones Generales de Tecnologías de la Información y de Gesti�
 SEXTO. La Dirección General de Gestión Judicial, en coordinación con la Dirección General de Tecnologías de la Información, instrumentarán los cambios necesarios en el sistema de cómputo de la oficina de correspondencia común y del Sistema Integral de Gestión de Expedientes, para trasladar los expedientes electrónicos de los asuntos en trámite, del Tribunal de origen que correspondan al Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Zacatecas, con sede en Zacatecas y al Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Zacatecas, con sede en Zacatecas.
 
 SÉPTIMO. Con el objeto de llevar a cabo adecuadamente la recepción, distribución y registro de los asuntos en trámite, se declaran inhábiles pero laborales los días comprendidos del 2 al 9 de enero de 2024, por lo que no correrán plazos y términos; sin perjuicio de que se recibirán asuntos nuevos y promociones, a los cuales se les dará registro conforme al orden y fecha de recepción.
+
+D.O.F. 26 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 37/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA MODIFICACIÓN DE LA JURISDICCIÓN TERRITORIAL DE LOS JUZGADOS DE DISTRITO EN EL ESTADO DE OAXACA, CON RESIDENCIA EN SAN BARTOLO COYOTEPEC; LA MODIFICACIÓN DE LA JURISDICCIÓN TERRITORIAL DE LOS JUZGADOS DE DISTRITO EN EL ESTADO DE VERACRUZ, CON RESIDENCIA EN BOCA DEL RÍO; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Se faculta a la Secretaría Ejecutiva de Creación de Nuevos Órganos, a la Dirección General de Gestión Judicial y a la Dirección General de Tecnologías de la Información, para que resuelvan en el ámbito de sus facultades, todas las situaciones que surjan con motivo de la aplicación del presente Acuerdo.
+
+CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en las Oficinas de Correspondencia Común que dan servicio a los órganos jurisdiccionales motivo del presente Acuerdo.
+
+QUINTO. Los Juzgados de Distrito Primero, Segundo, Tercero, Cuarto, Quinto, Octavo, Noveno, Décimo y Decimoprimero, todos en el Estado de Oaxaca, con residencia en San Bartolo Coyotepec, continuarán con el trámite, resolución y cumplimiento hasta su conclusión y archivo definitivo de los asuntos que tengan actualmente, cuyo origen y procedencia provengan de los municipios del Estado de Oaxaca a que se refiere el presente Acuerdo General. Para tal efecto la Dirección General de Gestión Judicial realizará las modificaciones necesarias en la base de datos del SISE.
