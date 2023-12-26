@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-el-estado-de-guanajuato-141405"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-30"
-last_updated: "2023-05-31"
+last_updated: "2023-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Octava Parte del Periódico Oficial del Estado de Guanajuato, el lunes 30 de diciembre de 2019.
 
@@ -855,9 +855,9 @@ El SATEG podrá suspender ante el Registro Estatal de Contribuyentes a los contr
 
 #### Sección I. Disposiciones Generales
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
-
 Objetivo y finalidad de los impuestos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 38.
 
@@ -1471,7 +1471,7 @@ V. Conservar la contabilidad y los comprobantes de los asientos respectivos, as�
 
 ###### Artículo 78-A.
 
-El objetivo y finalidad de estos impuestos es que la Hacienda Pública del Estado cuente con recursos que le permitan atender su obligación a la protección de la salud y a un medio ambiente sano para la población, de conformidad con lo establecido en el artículo 4 de la Constitución Política de los Estados Unidos Mexicanos y el artículo 1, antepenúltimo párrafo de la Constitución Política para el Estado de Guanajuato, a través del establecimiento de figuras impositivas que al mismo tiempo incentiven cambios en la conducta de los sujetos obligados para que favorezcan al medio ambiente.
+El objetivo y finalidad de estos impuestos es que la Hacienda Pública del Estado cuente con recursos que le permitan atender su obligación a la protección de la salud y a un medio ambiente sano para la población, de conformidad con lo establecido en el artículo 4 de la Constitución Política de los Estados Unidos Mexicanos y el artículo 1, décimo tercer párrafo de la Constitución Política para el Estado de Guanajuato, a través del establecimiento de figuras impositivas que al mismo tiempo incentiven cambios en la conducta de los sujetos obligados para que favorezcan al medio ambiente.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
@@ -2209,9 +2209,9 @@ El SATEG para efectos de mantener actualizado el padrón vehicular podrá, de of
 
 I. Cuando las entidades federativas informen de manera oficial que han causado alta en sus padrones respectivos. Asimismo, de aquéllos que derivado de la consulta en el Registro Público Vehicular de la unidad administrativa federal competente, se obtenga como resultado la existencia de un registro posterior en otra Entidad Federativa;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Los que cuenten con adeudos por concepto del pago de refrendo anual de placas metálicas y tarjeta de circulación por seis ejercicios fiscales o más y que el año modelo del vehículo sea de cuarenta años o más;
+II. Los que cuenten con adeudos por concepto del pago de refrendo anual de placas metálicas y tarjeta de circulación por diez ejercicios fiscales o más y que el año modelo del vehículo sea de veinte años o más;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
@@ -2914,3 +2914,9 @@ Cuando los contribuyentes participantes del Sistema de Comercio de Emisiones gen
 Inicio de vigencia de las obligaciones del impuesto por la emisión de contaminantes al suelo, subsuelo y agua
 
 Artículo Octavo. Las obligaciones establecidas en la Sección III, Capítulo Octavo, Título Segundo, relativas al Impuesto para Remediación Ambiental por la Emisión de Contaminantes al Suelo, Subsuelo y Agua se originarán a partir del 1 de abril de 2027.
+
+P.O. 26 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 296, POR EL QUE SE REFORMAN LOS ARTÍCULOS 78-A Y 87, FRACCIÓN II DE LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO”.]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
