@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-reconocimiento-y-la-atencion-de-las-personas-151006
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-07"
-last_updated: "2022-11-11"
+last_updated: "2023-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151006&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-09-06"
 
 LEY PARA EL RECONOCIMIENTO Y LA ATENCIÓN DE LAS PERSONAS LGBTTTI DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número 678 Bis de la Gaceta Oficial de la Ciudad de México, el martes 7 de septiembre de 2021.
 
@@ -308,7 +308,13 @@ II. Desarrollar los lineamientos, mecanismos e instrumentos para la organizació
 
 III. Establecer convenios de colaboración con instituciones y organismos públicos, sociales y privados para acciones de atención dirigidas a las personas LGBTTTI; y
 
-IV. Fomentar la participación de los sectores social y privado en la promoción, seguimiento y financiamiento de los programas de atención a las personas LGBTTTI.
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2023)</small>
+
+IV. Fomentar la participación de los sectores social y privado en la promoción, seguimiento y financiamiento de los programas de atención a las personas LGBTTTI; y
+
+> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2023)</small>
+
+V. Establecer programas y acciones que promuevan la gestión menstrual para las personas LGBTTTI en igualdad de condiciones y oportunidades con el resto de la población.
 
 ###### Artículo 18.
 
@@ -769,3 +775,11 @@ PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
 
 TERCERO.- En tanto se formaliza material, financiera y administrativamente, la creación de la Secretaria Ejecutiva de la Unidad de Atención a la Diversidad Sexual de la Ciudad de México (UNADIS), los recursos humanos, materiales, técnicos, tecnológicos, financieros y presupuestales de la Dirección General de Diversidad Sexual y Derechos Humanos adscrita a la Secretaría de Inclusión y Bienestar Social continuara ejerciendo los recursos presupuestales correspondientes a esa área administrativa de conformidad con los techos presupuestales aprobados en el Presupuesto de Egresos de la Ciudad de México para el ejercicio fiscal 2022.
+
+G.O. 26 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN IV Y SE ADICIONA UNA FRACCIÓN V, AMBOS DEL ARTÍCULO 17, DE LA LEY PARA EL RECONOCIMIENTO Y LA ATENCIÓN DE LAS PERSONAS LGBTTTI DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
