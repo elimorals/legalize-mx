@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-145670"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-12-22"
-last_updated: "2020-12-22"
+last_updated: "2023-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145670&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-12-08"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2023.
 
 Acuerdo publicado en el Número 23 del Diario Oficial de la Federación, el martes 22 de diciembre de 2020.
 
@@ -61,11 +61,13 @@ ACUERDO
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 1.
 
-El presente Acuerdo tiene por objeto establecer las bases generales para la implementación del Sistema de Control Interno Institucional en el Consejo de la Judicatura Federal, así como la integración, organización y funcionamiento del Comité de Control Interno.
+El presente Acuerdo tiene por objeto establecer las bases generales para la implementación del Sistema de Control Interno Institucional en el Consejo de la Judicatura Federal, así como las disposiciones que las personas servidoras públicas que integran las áreas administrativas, en sus respectivos niveles, deberán implementar para establecerlo, operarlo, evaluarlo y actualizarlo permanentemente.
 
-Tiene el objeto de establecer las disposiciones que las áreas administrativas y las y los servidores públicos que integran el Consejo de la Judicatura Federal, en sus respectivos niveles, deberán implementar para establecer, operar, supervisar y actualizar gradual y continuamente el Sistema de Control Interno institucional.
+Adicionalmente, el de contribuir al fortalecimiento, la integración, organización y funcionamiento del Comité.
 
 ###### Artículo 2.
 
@@ -75,7 +77,9 @@ I. Acción (es) de mejora: Las actividades determinadas e implementadas por las 
 
 II. Administración de riesgos: El proceso dinámico desarrollado para contextualizar, identificar, analizar, evaluar, responder, supervisar y comunicar los riesgos, incluidos los de corrupción asociados a los procesos por los cuales se logra el mandato del Consejo de la Judicatura Federal, mediante el análisis de los distintos factores que pueden provocarlos, con la finalidad de definir las estrategias y acciones que permitan mitigarlos y asegurar el logro de metas y objetivos de una manera razonable, en términos de eficacia, eficiencia y economía en un marco de transparencia y rendición de cuentas;
 
-III. Áreas administrativas: Las unidades administrativas y órganos auxiliares;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+III. Áreas administrativas: Las unidades administrativas y los órganos auxiliares a que se refiere el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo;
 
 IV. Área (s) de oportunidad: La situación favorable en el entorno institucional, bajo la forma de hechos, tendencias, cambios o nuevas necesidades que se pueden aprovechar para el fortalecimiento del Sistema de Control Interno Institucional;
 
@@ -85,179 +89,339 @@ VI. Comité: Comité de Control Interno;
 
 VII. Consejo: Consejo de la Judicatura Federal;
 
-VIII. Contraloría: Contraloría del Poder Judicial de la Federación;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
-IX. Control Interno: Proceso efectuado por las áreas administrativas y las y los servidores públicos del Consejo, con objeto de proporcionar una seguridad razonable sobre la consecución de las metas y objetivos institucionales y la salvaguarda de los recursos públicos, así como para prevenir actos contrarios a la integridad;
+VIII. Contraloría: Contraloría del Consejo de la Judicatura Federal;
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+IX. Control Interno: Proceso efectuado por las personas servidoras públicas que integran las áreas administrativas, con objeto de proporcionar una seguridad razonable sobre la consecución de las metas y objetivos institucionales y la salvaguarda de los recursos públicos, así como para prevenir actos contrarios a la integridad;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+IX. Bis. Cultura de Integridad: Conjunto de acciones, de carácter institucional, dirigidas a fortalecer la prevención de hechos de corrupción y diversas prácticas contrarias a la ética, que deben observar las personas integrantes del Consejo;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+IX. Ter. Eficacia: La capacidad de alcanzar los objetivos en el tiempo indicado;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+IX. Quater. Eficiencia: La capacidad de alcanzar los objetivos con el uso adecuado de los recursos humanos, presupuestales, financieros, materiales y tecnológicos;
 
 X. Elementos de control Interno: Los puntos de interés que deberán instrumentar las áreas administrativas del Consejo para asegurar la implementación, operación y actualización del Sistema de Control Interno Institucional;
 
-XI. Evaluación del Sistema de Control Interno Institucional: El Proceso mediante el cual se determina el grado de eficacia y de eficiencia con que se cumplen los componentes de control interno y sus principios;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
-XII. Medidas de control: Actividades que pueden realizarse para prevenir, limitar o reducir la probabilidad de ocurrencia e impacto de un riesgo;
+XI. Evaluación del impacto de las acciones de mejora: Se refiere a la apreciación de las áreas administrativas, respecto de la mejora alcanzada en los procesos clave y/o proyectos estratégicos evaluados, con la implementación de las acciones de mejora;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+XI. Bis. Evaluación del Sistema de Control Interno Institucional: El proceso mediante el cual se determina el grado de eficacia y de eficiencia con que se cumplen los componentes y principios de control interno en sus tres categorías de objetivos: operación, información y cumplimiento;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+XI. Ter. Información de calidad: Son los atributos de oportunidad, suficiencia, pertinencia, competencia y relevancia que debe contener la información que generan las áreas administrativas, para la consecución de los objetivos institucionales;
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+XII. Medida de control: Las actividades que pueden realizarse para prevenir, limitar o reducir la probabilidad de ocurrencia e impacto de un riesgo;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+XII. Bis. Mejora continua: Es el método que integra las etapas de planeación, realización, verificación e implementación de los sistemas y procesos que permite su optimización de forma permanente;
 
 XIII. Probabilidad de ocurrencia: La estimación de que se materialice un riesgo, en un periodo determinado;
 
 XIV. Pleno: Pleno del Consejo de la Judicatura Federal;
 
-XV. Procesos clave: Los procesos fundamentales que permiten incidir en el cumplimiento de las líneas generales, objetivos estratégicos, acciones genéricas y específicas del Consejo;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
-XVI. Procesos Operativos: Los procesos subordinados a los procesos clave, que se plantean para coadyuvar en el cumplimiento de sus objetivos;
+XV. Proceso clave: Procesos fundamentales que permiten incidir en el cumplimiento de las líneas generales, objetivos estratégicos, sublíneas de trabajo y acciones específicas del Consejo;
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+XVI. Proyecto estratégico: Proyecto particular de un área administrativa, identificado para dar cumplimiento a las líneas generales, objetivos estratégicos, sublíneas de trabajo y acciones específicas del Consejo;
 
 XVII. PTCI: Programa de Trabajo de Control Interno;
 
-XVIII. Riesgo: El evento adverso e incierto (interno o externo) que derivado de la combinación de su probabilidad de ocurrencia y el posible impacto pudiera obstaculizar o impedir el logro de las metas y objetivos institucionales;
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
-XIX. Seguridad razonable: Nivel de confianza alto, más no absoluto, de que las metas y objetivos del Consejo serán alcanzados; y
+XVII. Bis. Reportes de Avances Trimestrales: Es el resumen cuantitativo de las acciones de mejora comprometidas en el PTCI, en el que se indican las concluidas, las que se encuentran en proceso de atención, así como las que no registran avance;
 
-XX. Sistema de Control Interno Institucional: Conjunto de procesos, mecanismos y elementos organizados y relacionados que interactúan entre sí, que se aplican de manera específica por el Consejo a nivel de planeación, organización, ejecución, dirección, información y seguimiento de sus procesos de gestión, para dar certidumbre a la toma de decisiones y conducirlo con una seguridad razonable al logro de sus metas y objetivos en un ambiente ético e íntegro, de calidad, mejora continua, eficiencia y de cumplimiento de ley.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+XVIII. Riesgo: El evento adverso e incierto de carácter interno o externo que, derivado de la combinación de su probabilidad de ocurrencia y el posible impacto pudiera obstaculizar o impedir el logro de las metas y objetivos institucionales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+XIX. SECI: Sistema de Evaluación del Control Interno electrónico de la Unidad de Control Interno, que permite coordinar la evaluación del Sistema de Control Interno Institucional en el Consejo y promover su mejora continua;
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+XX. Seguridad razonable: Nivel de confianza alto, más no absoluto, de que las metas y objetivos del Consejo serán alcanzados;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+XXI. Sistema de Control Interno Institucional: Conjunto de procesos, mecanismos y elementos organizados y relacionados que interactúan entre sí, que se aplican de manera específica por el Consejo a nivel de planeación, organización, ejecución, dirección, información y seguimiento de sus procesos de gestión, para dar certidumbre a la toma de decisiones con una seguridad razonable para el logro de sus metas y objetivos en un ambiente ético e íntegro, de calidad, mejora continua, eficiencia y de cumplimiento de ley; y
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+XXII. Unidad: Unidad de Control Interno.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 3.
 
-Las áreas administrativas y las y los servidores públicos del Consejo tendrán a su cargo la participación, control, inspección y el cumplimiento de las disposiciones contenidas en el presente Acuerdo, en el marco de sus facultades y conforme a las demás disposiciones que en esta materia se emitan.
+Las personas servidoras públicas de las áreas administrativas tendrán a su cargo la participación, control y el cumplimiento de las disposiciones contenidas en el presente Acuerdo, en el marco de sus facultades y conforme a las demás disposiciones que en esta materia se emitan.
 
-Será responsabilidad de la Contraloría, a través de la Unidad de Control Interno, coordinar la promoción, evaluación y fortalecimiento del control interno para el buen funcionamiento institucional y promover su mejora continua.
+Será responsabilidad de la Contraloría, a través de la Unidad, coordinar la promoción, supervisión, evaluación y fortalecimiento del control interno y promover su mejora continua.
 
-### CAPÍTULO SEGUNDO. IMPLEMENTACIÓN DEL SISTEMA DE CONTROL INTERNO INSTITUCIONAL
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO SEGUNDO. DEL SISTEMA DE CONTROL INTERNO INSTITUCIONAL
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 4.
 
-El Control Interno tiene como objetivo proporcionar una seguridad razonable en el logro de objetivos y metas del Consejo, fortaleciendo el desempeño mediante la implementación de medidas que prevengan faltas administrativas y actos de corrupción dentro de las siguientes categorías:
+El Control Interno tiene como objetivo proporcionar una seguridad razonable en el logro de objetivos y metas del Consejo, fortaleciendo el desempeño mediante la implementación de medidas que prevengan faltas administrativas y posibles hechos de corrupción agrupando los objetivos del Consejo en las categorías siguientes:
 
-I. Operación: Eficacia, eficiencia y economía de las operaciones y demás actividades;
+I. Operación: Eficacia, eficiencia y economía de las operaciones y demás actividades, referentes a la consecución de la misión y visión del Consejo y la razón fundamental de su existencia;
 
-II. Información: Confiabilidad, veracidad y oportunidad de los informes internos y externos; y
+II. Información: Confiabilidad, veracidad y oportunidad de los informes internos y externos útiles para el Consejo; y
 
-III. Cumplimiento: Apego a las disposiciones jurídicas y normativas aplicables, lo que incluye la salvaguarda de la legalidad, honradez, lealtad, imparcialidad, eficiencia y prevención de la corrupción en el desempeño institucional.
+III. Cumplimiento: Observancia de las disposiciones jurídicas y normativas aplicables, lo que incluye la salvaguarda de la legalidad, honradez, lealtad, imparcialidad, eficiencia, prevención de la corrupción y promoción de la integridad en el desempeño institucional.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 5.
 
-El Control Interno Institucional se integra por un grupo de componentes y principios que deberán operar en conjunto y de manera sistémica, con la finalidad de coadyuvar en el cumplimiento de los ejes rectores establecidos en la misión del Consejo.
+El Sistema de Control Interno Institucional se integra por cinco componentes, los cuales a su vez cuentan con diversos principios que hacen un total de diecisiete, mismos que se desagregan en elementos de control interno, que deberán operar de manera conjunta y sistémica, con la finalidad de coadyuvar en el cumplimiento de los objetivos institucionales y de la misión y visión del Consejo.
 
-Las áreas administrativas y las y los servidores públicos del Consejo, en el ámbito de sus respectivas competencias y facultades, deberán observar los componentes y principios establecidos en el presente Acuerdo para contribuir al cumplimiento en la implementación del Sistema de Control Interno Institucional.
+Las áreas administrativas y las personas servidoras públicas del Consejo, en el ámbito de sus respectivas competencias y facultades, deberán observar los componentes y principios establecidos en el presente Acuerdo para contribuir a la implementación del Sistema de Control Interno Institucional.
 
-Los cinco componentes y diecisiete principios antes mencionados son:
+Los componentes y principios mencionados corresponden a los siguientes:
 
-I. Componente Ambiente de Control: Es la base que proporciona las condiciones de disciplina y estructura para un control interno eficaz; influye en la definición de los objetivos y la constitución de las actividades de control. Deberá establecerse y mantenerse un ambiente de control en todo el Consejo, que implique una actitud de respaldo hacia el Control Interno.
+I. Componente Ambiente de Control: Es el conjunto de normas, procesos y estructuras que constituyen la base que proporciona las condiciones de disciplina y estructura para un control interno eficaz; influye en la definición de los objetivos y la constitución de las actividades de control. Las áreas administrativas y las personas servidoras públicas del Consejo, en el ámbito de sus respectivas competencias y facultades, deberán establecer y mantener un ambiente de control, que implique una actitud de respaldo hacia el control interno, así como vigilar la implementación y operación en conjunto y de manera sistémica de los principios siguientes:
 
-- Principio 1. Mostrar una actitud de respaldo y compromiso con la integridad, los valores éticos, las normas de conducta y la prevención de irregularidades administrativas y la corrupción.
+Principio 1. Mostrar una actitud de respaldo y compromiso con la integridad, los valores éticos, las normas de conducta, la prevención de irregularidades administrativas y posibles actos contrarios a la integridad; así como atender las recomendaciones que deriven del seguimiento a la aplicación del Código de Ética y la prevención de conflictos de interés.
 
-- Principio 2. Supervisar el funcionamiento del control interno.
+Principio 2. Dar seguimiento al funcionamiento del control interno.
 
-- Principio 3. Autorizar conforme a las disposiciones jurídicas y normativas aplicables, la estructura organizacional, asignar responsabilidades y delegar autoridad para alcanzar los objetivos del Consejo, preservar la integridad, prevenir la corrupción y rendir cuentas de los resultados alcanzados.
+Principio 3. Contar con estructuras organizacionales dictaminadas por las instancias correspondientes, con niveles de autoridad y responsables para alcanzar los objetivos del Consejo y rendir cuentas de los resultados alcanzados.
 
-- Principio 4. Promover los medios necesarios para contratar, capacitar y retener profesionales competentes.
+Principio 4. Demostrar compromiso para contratar, desarrollar y retener profesionales competentes, que permita contribuir al cumplimiento de los objetivos del Consejo.
 
-- Principio 5. Evaluar el desempeño del control interno en el Consejo y hacer responsables a todos los servidores públicos por sus obligaciones específicas en materia de Control Interno.
+Principio 5. Definir las responsabilidades de control interno de las personas servidoras públicas del Consejo para la consecución de los objetivos institucionales.
 
-II. Componente Administración de Riesgos: Es el proceso dinámico que permite identificar, analizar, evaluar, responder y supervisar los riesgos, incluidos los de corrupción, que pueden obstaculizar el cumplimiento de los objetivos del Consejo; mediante el análisis de los distintos factores que pueden provocarlos, se definen estrategias y acciones para mitigarlos.
+II. Componente Administración de Riesgos: Es el proceso dinámico que permite identificar, analizar, evaluar, responder y supervisar los riesgos, incluidos los de corrupción, que pueden obstaculizar el cumplimiento de los objetivos del Consejo; mediante el análisis de los distintos factores que pueden provocarlos, a efecto de definir estrategias y acciones para administrarlos.
 
-Las áreas administrativas y las y los servidores públicos del Consejo, en el ámbito de sus respectivas competencias y facultades, deberán observar los principios generales en materia de riesgos, que se determinen conforme a los periodos de ejecución y etapas establecidas en la Guía Metodológica para la Integración de la Planeación Institucional, con base en lo siguiente:
+Las personas servidoras públicas que integran las áreas administrativas, en el ámbito de sus respectivas competencias y facultades, deberán observar lo establecido en materia de administración de riesgos, que se establezca en la Metodología de Planeación Estratégica Institucional, así como lo que se establezca derivado del apoyo técnico y capacitación que proporcione la Unidad para la determinación y seguimiento de las medidas de control que se comprometan para la administración de los riesgos.
 
-- Principio 6. Formular un plan estratégico que de manera coherente y ordenada oriente los esfuerzos hacia la consecución de los objetivos relativos a su mandato y las disposiciones jurídicas y normativas aplicables.
+Principio 6. Definir en el plan, programa o documento de planeación estratégica que se determine, los objetivos relativos a su mandato y las disposiciones jurídicas y normativas aplicables que le permitan la identificación y evaluación de los riesgos relacionados.
 
-- Principio 7. Identificar, analizar y responder a los riesgos asociados al cumplimiento de objetivos.
+Principio 7. Identificar y analizar los riesgos asociados al cumplimiento de objetivos institucionales y determinar la forma en que se administrarán.
 
-- Principio 8. Considerar la posibilidad de ocurrencia de actos de corrupción, fraude, abuso, desperdicio y otras irregularidades relacionadas con la adecuada salvaguarda de los recursos públicos, al identificar, analizar y responder a los riesgos, en los diversos procesos que realiza.
+Principio 8. Considerar la probabilidad de ocurrencia de posibles hechos de corrupción, fraude, abuso, desperdicio y otras irregularidades relacionadas con la adecuada salvaguarda de los recursos públicos, al identificar, evaluar, mitigar y monitorear los riesgos y los mecanismos de control implementados para la consecución de los objetivos.
 
-- Principio 9. Identificar, analizar y responder a los cambios significativos que puedan impactar el Control Interno.
+Principio 9. Identificar, analizar y responder a los cambios significativos que puedan impactar el Sistema de Control Interno Institucional.
 
-III. Componente Actividades de Control: Son las acciones desarrolladas mediante políticas, procedimientos y tecnologías de la Información, que sirven como mecanismo para asegurar el cumplimiento de los objetivos institucionales y responder a los riesgos, incluidos los de corrupción. Se ejecutan en todos los niveles de una institución, en las diferentes etapas de los procesos y el contexto tecnológico.
+III. Componente Actividades de Control: Son las acciones establecidas mediante políticas, procedimientos y tecnologías de la información, que sirven como mecanismo para asegurar el cumplimiento de los objetivos institucionales y responder a los riesgos, incluidos los de corrupción.
 
-- Principio 10. Diseñar, actualizar y garantizar la suficiencia e idoneidad de las actividades de control establecidas para lograr los objetivos y responder a los riesgos.
+Se ejecutan en todos los niveles del Consejo, en las diferentes etapas de los procesos y en el contexto tecnológico.
 
-- Principio 11. Diseñar los sistemas de información y las actividades de control relacionadas con dicho sistema, a fin de alcanzar los objetivos y responder a los riesgos.
+Principio 10. Desarrollar o actualizar las actividades de control establecidas para administrar los riesgos y lograr el cumplimiento de los objetivos institucionales.
 
-- Principio 12. Implementar las actividades de control a través de políticas, procedimientos y otros medios de similar naturaleza, las cuales deben estar documentadas y formalmente establecidas.
+Principio 11. Desarrollar o actualizar los sistemas de información, a fin de alcanzar los objetivos institucionales y administrar los riesgos, mediante la mejora continua de los sistemas de información.
 
-IV. Componente Información y Comunicación: Permite asegurarse de que la información relevante cuente con los elementos de calidad suficientes y que los canales de comunicación internos y externos sean efectivos. Debe instrumentarse bajo criterios de utilidad, confiabilidad y oportunidad; así como verificar su actualización y difusión permanente y eficaz
+Principio 12. Implementar las actividades de control a través de políticas, procedimientos y otros medios de similar naturaleza, las cuales deben estar documentadas y formalmente establecidas.
 
-- Principio 13. Implementar los medios que permitan a cada área administrativa elaborar información pertinente y de calidad para la consecución de los objetivos y el cumplimiento de las disposiciones aplicables a la gestión financiera.
+IV. Componente Información y Comunicación: Es la información de calidad que las personas servidoras públicas generan, obtienen, utilizan y comunican para documentar las actividades que realizan en el marco de sus atribuciones, de carácter sustancial para la consecución de objetivos, por lo que debe ser confiable en los ámbitos interno y externo.
 
-- Principio 14. Comunicar internamente, por los canales apropiados y de conformidad con las disposiciones aplicables, la información de calidad necesaria para contribuir a la consecución de los objetivos y la gestión financiera.
+Debe instrumentarse bajo criterios de utilidad, confiabilidad y oportunidad; así como verificar su actualización y difusión permanente y eficaz.
 
-- Principio 15. Comunicar externamente, por los canales apropiados y de conformidad con las disposiciones aplicables, la información de calidad necesaria para contribuir a la consecución de los objetivos y la gestión financiera.
+Principio 13. Implementar mecanismos que permitan a cada área administrativa, contar con información oportuna, suficiente, pertinente, competente y relevante para la consecución de los objetivos institucionales.
 
-V. Componente Supervisión: Contribuye a evaluar la calidad del desempeño de las operaciones y asegurar que las insuficiencias, deficiencias o inexistencias identificadas en las auditorías y otras revisiones, se atiendan oportunamente. Apoya a la optimización permanente del control interno, mediante la revisión de la idoneidad y suficiencia de los controles implementados.
+Principio 14. Comunicar internamente, por los canales apropiados y de conformidad con las disposiciones aplicables, la información de calidad, incluidos los objetivos y responsabilidades necesarias para contribuir a la consecución de las metas institucionales.
 
-- Principio 16. Establecer actividades para la adecuada supervisión del Control Interno y la evaluación de sus resultados.
+Principio 15. Comunicar externamente, por los canales apropiados y de conformidad con las disposiciones aplicables, la información de calidad, incluidos los objetivos y responsabilidades necesarias para contribuir a la consecución de las líneas estratégicas del Plan de Desarrollo Institucional del Consejo.
 
-- Principio 17. Corregir oportunamente las deficiencias de Control Interno detectadas.
+V. Componente Supervisión: Son las actividades establecidas para asegurar que el control interno se mantiene alineado con los objetivos institucionales; asimismo, permite evaluar la calidad del desempeño de las operaciones y asegurar que las insuficiencias, deficiencias o inexistencias identificadas en las auditorías y otras revisiones, se atiendan oportunamente. Apoya a la optimización permanente del control interno, mediante la revisión de la idoneidad y suficiencia de los controles implementados.
 
-### CAPÍTULO TERCERO. DESIGNACIONES Y RESPONSABILIDADES
+Las áreas administrativas considerarán los resultados de la evaluación de la planeación institucional y del Plan de Desarrollo Institucional que la Dirección General de Innovación, Planeación y Desarrollo Institucional realice en el ámbito de su competencia, como parte de los aspectos a analizar en el presente componente.
+
+Principio 16. Establecer actividades para la supervisión del control interno y la evaluación de sus resultados.
+
+Principio 17. Identificar y corregir oportunamente las deficiencias de control interno detectadas.
+
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO TERCERO. RESPONSABILIDADES Y DESIGNACIONES
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 6.
 
-A partir de las directrices del Pleno, la Contraloría y la Unidad de Control Interno, llevarán a cabo la coordinación del Control Interno, y la aplicación y seguimiento de las presentes disposiciones, con el carácter de áreas administrativas responsables.
+A partir de las directrices del Pleno, la Contraloría, a través de la Unidad, llevará a cabo la coordinación del control interno, así como la aplicación y seguimiento de las presentes disposiciones, con el carácter de área administrativa responsable.
 
-La implementación del Sistema de Control Interno Institucional estará a cargo de cada área administrativa del Consejo, con la finalidad de promover y fortalecer una cultura de autocontrol, impulsar la prevención de la materialización de riesgos y evitar la recurrencia de las debilidades de Control Interno.
+La Unidad mediante la promoción, evaluación y fortalecimiento del Sistema de Control Interno Institucional, propiciará la mejora continua de los procesos a cargo de las áreas administrativas, para lo cual realizará lo siguiente:
+
+I. Promover la cultura de integridad de las personas servidoras públicas del Consejo, a través del seguimiento a las acciones de mejora que las áreas administrativas o el Comité determinen, en los términos establecidos en el Componente Ambiente de Control, principio 1;
+
+II. Emitir sugerencias relacionadas con los documentos normativos-administrativos, en el marco de la evaluación del Sistema de Control Interno Institucional para que, en su caso, las áreas administrativas soliciten su actualización a la Dirección General de Innovación, Planeación y Desarrollo Institucional;
+
+III. Coadyuvar en la mejora continua de los programas de modernización y desarrollo administrativo, simplificación de trámites y procedimientos, en el marco de la evaluación del Sistema de Control Interno Institucional, así como en los relativos a desconcentración y descentralización de la función administrativa, mediante las acciones de mejora que determinen las áreas administrativas, en los términos establecidos en el Componente Administración de Riesgos, principio 9;
+
+IV. Revisar las acciones de mejora y los riesgos que determinen las áreas administrativas, en relación con los mecanismos de control de sus sistemas de información, con el fin de contribuir a su seguridad y confidencialidad, en los términos establecidos en el Componente Actividades de Control, principio 11;
+
+V. Proponer acciones de mejora y medidas de control a las áreas administrativas, en el marco de la evaluación del Sistema de Control Interno Institucional a efecto de promover que los procesos que evalúen éstas, incluyan los controles internos que les permitan administrar sus riesgos y alcanzar sus objetivos, en los términos y plazos previstos en la normativa aplicable;
+
+VI. Contribuir a la mejora continua de los procesos, con las acciones que determinen las áreas administrativas o el Comité, con el propósito de que cumplan sus objetivos con eficiencia, eficacia y en un ambiente ético e integro;
+
+VII. Llevar a cabo revisiones a la evaluación del Plan de Desarrollo Institucional en el marco de la evaluación del Sistema de Control Interno Institucional y, en su caso, proponer acciones de mejora con el fin de contar con elementos adicionales que permitan alcanzar los objetivos institucionales; y
+
+VIII. Coordinar la evaluación, por parte de las áreas administrativas, respecto del funcionamiento de la Unidad, para identificar áreas de oportunidad y de mejora que permitan fortalecer su operación.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 6. Bis.
+
+La implementación del Sistema de Control Interno Institucional estará a cargo de las áreas administrativas y de las personas servidoras públicas del Consejo, en el ámbito de sus respectivas competencias y facultades, con la finalidad de promover y fortalecer una cultura de autocontrol, impulsar la prevención de la materialización de riesgos y evitar la recurrencia de las debilidades de control interno, lo que contribuye al cumplimiento de los objetivos y metas institucionales.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 7.
 
-Anualmente durante el mes de septiembre, las personas responsables del control interno designarán a los enlaces responsables de las áreas administrativas, para la realización de la evaluación del Sistema de Control Interno Institucional, quienes deberán definir los procesos claves y operativos a evaluar.
+Anualmente durante el mes de septiembre, las personas titulares de las áreas administrativas designarán por escrito a las personas Enlaces de Control Interno para que coordinen la autoevaluación del Sistema de Control Interno Institucional, así como para la integración de los reportes de avances trimestrales, el cual no podrá tener un cargo inferior al Nivel 13 del Manual General de Puestos del Consejo.
+
+Las actividades referidas en el primer párrafo se realizarán en coordinación con las personas responsables de los procesos que serán sujetos a evaluación, quienes definirán los procesos clave y/o proyectos estratégicos a evaluar.
+
+Las personas titulares de las áreas administrativas comunicarán a la Unidad, durante el mes de septiembre, los procesos clave y/o proyectos estratégicos que serán sujetos de evaluación del Sistema de Control Interno Institucional.
+
+De conformidad con lo dispuesto en el artículo 19, fracción I, de este Acuerdo General, en caso de que el Comité considere pertinente para el cumplimiento de los objetivos de este instrumento normativo, en el mencionado mes, podrá comunicar a las personas titulares de las áreas administrativas los procesos clave o proyectos estratégicos que serán también parte de la evaluación del citado Sistema.
 
 ###### Artículo 8.
 
-Será responsabilidad de todas las servidoras y los servidores públicos que integran el Consejo, en el ámbito de sus respectivas competencias y facultades, participar en el buen funcionamiento del Sistema de Control Interno Institucional, con la finalidad de contribuir al cumplimiento de los objetivos y metas institucionales.
+(DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)
 
 ### CAPÍTULO CUARTO. EVALUACIÓN DEL SISTEMA DE CONTROL INTERNO INSTITUCIONAL
 
 ###### Artículo 9.
 
-La Contraloría a través de la Unidad de Control Interno, promoverá, evaluará y fortalecerá el buen funcionamiento del Control Interno, a efecto de que sean adoptadas las medidas necesarias para el fortalecimiento institucional en su desempeño.
+(DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 10.
 
-El Sistema de Control Interno Institucional será evaluado anualmente, en el mes de octubre de cada ejercicio, por los enlaces responsables de los procesos claves y operativos seleccionados en cada área administrativa, identificando y conservando la evidencia documental y/o electrónica que acredite la existencia y suficiencia de la implementación de los cinco componentes de control interno, sus diecisiete Principios y elementos de control interno, en términos del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece la organización y conservación de los archivos administrativos en el propio Consejo.
+El Sistema de Control Interno Institucional será evaluado anualmente, a través del SECI, en el mes de octubre de cada ejercicio, por las personas responsables de los procesos clave y/o proyectos estratégicos seleccionados por cada área administrativa o el Comité, identificando y conservando la evidencia documental y/o electrónica que acredite la existencia y suficiencia de la implementación de los cinco componentes de control interno, así como de los diecisiete principios y elementos de control interno que lo integren, en términos del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece la organización y conservación de los archivos administrativos en el propio Consejo.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 11.
 
-Para evaluar el Sistema de Control Interno Institucional, se deberá verificar la existencia y operación de los elementos de control interno en dos procesos -claves y operativos- por área administrativa, a fin de conocer el estado que guarda el Sistema de Control Interno Institucional del Consejo.
+Para evaluar el Sistema de Control Interno Institucional, se verificará la existencia y operación de los elementos de control interno en los procesos clave y/o proyectos estratégicos seleccionados por el área administrativa o el Comité, a fin de conocer el estado que guarda el Sistema de Control Interno Institucional.
 
-Con la evaluación, las áreas administrativas del Consejo podrán determinar si existen mecanismos de control en sus procesos, si se han puesto en operación y si son suficientes, eficientes y eficaces para alcanzar los objetivos institucionales.
+Con la evaluación de los procesos clave y/o proyectos estratégicos, las áreas administrativas podrán determinar si los procesos se encuentran documentados en manuales, políticas, instructivos, metodologías, u otros medios; si existen mecanismos de control, tales como: delimitación de funciones, niveles de supervisión y autorización, entre otros; si se han puesto en operación y si son suficientes, eficientes y eficaces para alcanzar los objetivos institucionales.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 12.
 
-Los enlaces responsables de los procesos claves y operativos deberán establecer y comprometer acciones de mejora en un PTCI, para atender las inexistencias o deficiencias de Control Interno identificadas en la evaluación.
+Las personas Enlaces de Control Interno y las personas responsables de los procesos evaluados deberán establecer y comprometer acciones de mejora en un PTCI, derivadas de las áreas de oportunidad detectadas, tales como: puntos de inflexión, demoras, duplicidades, reprocesos y retrabajos, entre otros; o bien, inexistencias o deficiencias de control interno.
 
-La Unidad de Control Interno será la encargada de recomendar las acciones de mejora específica, conciliando su política con el resto de las áreas administrativas que forman parte del Comité.
+En el marco del Sistema de Control Interno Institucional se aplicará la Metodología y Políticas para la implementación, promoción, evaluación, y fortalecimiento del Sistema de Control Interno Institucional, así como las directrices y demás normativa aplicable que, en esta materia, emita la Contraloría y demás instancias superiores.
 
-La evaluación a que se refiere este capítulo se llevará a cabo en el marco de las Políticas y Procedimientos que contengan las actividades de control interno que emita la Contraloría.
+Al concluir los PTCI, las áreas administrativas realizarán una evaluación de las acciones de mejora en los procesos clave y/o proyectos estratégicos, a efecto de determinar el impacto de su implementación.
 
 ### CAPÍTULO QUINTO. INFORME ANUAL DEL SISTEMA DE CONTROL INTERNO INSTITUCIONAL
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 13.
 
-La Unidad de Control Interno someterá a consideración de la Contraloría, el proyecto de informe que ésta presentará al Pleno, en el mes de noviembre de cada año, sobre los resultados derivados de la evaluación del Sistema de Control Interno Institucional de las áreas administrativas.
+La Unidad someterá a consideración de la Contraloría el proyecto de informe que ésta presentará al Pleno, en el mes de noviembre de cada año, sobre los resultados derivados de la evaluación del Sistema de Control Interno Institucional de las áreas administrativas.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 14.
 
-Los enlaces responsables de los procesos evaluados, efectuarán y presentarán el seguimiento de los PTCI por medio de reportes de avances trimestrales a la Unidad de Control Interno.
+Las personas responsables de los procesos clave y/o proyectos estratégicos evaluados, a través de las personas Enlaces de Control Interno, conforme a los plazos establecidos en la Metodología y Políticas para la Implementación, Promoción, Evaluación y Fortalecimiento del Sistema de Control Interno Institucional, realizarán y presentarán el avance en la implementación de las acciones de mejora comprometidas en los PTCI, por medio de los Reportes de Avances Trimestrales, a través del SECI.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 14. Bis.
+
+La Unidad integrará los Reportes de Avances Trimestrales presentados por las áreas administrativas mediante el SECI, elaborará el informe de avances en la implementación de las acciones de mejora comprometidas en el PTCI, y lo enviará para su conocimiento a los integrantes del Comité, así como el seguimiento correspondiente.
+
+La Unidad a través de la Contraloría, presentará al Pleno, en los meses de junio y noviembre de cada año, los informes con corte del seguimiento al 31 de marzo, y el informe final al 30 de septiembre, respectivamente; con la finalidad de dar a conocer el impacto de las acciones de mejora implementadas en los procesos clave y/o proyectos estratégicos evaluados, así como los resultados finales obtenidos con la implementación de las acciones de mejora comprometidas por las áreas administrativas.
 
 ### CAPÍTULO SEXTO. PROCESO DE ADMINISTRACIÓN DE RIESGOS
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 15.
 
-El proceso de administración de riesgos a efectuar por las áreas administrativas del Consejo, se llevará a cabo conforme a los periodos de ejecución y etapas establecidas en la Guía Metodológica para la Integración de la Planeación Institucional, elaborada por la Dirección General de Innovación, Planeación y Desarrollo Institucional.
+El proceso de administración de riesgos a efectuar por las áreas administrativas se llevará a cabo en los periodos de ejecución y etapas establecidas en la Metodología de Planeación Estratégica Institucional.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 15 Bis.
+
+La Unidad emitirá una opinión respecto del apartado del Sistema de Administración de Riesgos de la Metodología de Planeación Estratégica Institucional, en los términos establecidos en ésta, previo a su proceso de aprobación correspondiente.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 16.
 
-Las áreas administrativas del Consejo deberán contar con la opinión de la Unidad de Control Interno de sus matrices de riesgos, previo a la autorización de los Programas Anuales de Trabajo.
+Las áreas administrativas deberán contar con la opinión de la Unidad sobre el apartado de riesgos, previo a la autorización de sus Programas Anuales de Trabajo.
 
-La Unidad de Control Interno proporcionará asesoría a las áreas administrativas en la elaboración de las matrices de riesgos.
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 16 Bis.
+
+La Unidad proporcionará la asistencia técnica necesaria a las áreas administrativas, para la identificación e integración de los riesgos en sus Programas Anuales de Trabajo, así como para la determinación de medidas de control, a fin de que se encuentren alineados a la realidad de los procesos institucionales y proporcionen una seguridad razonable en la consecución de los objetivos institucionales y las metas del Consejo.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 16 Ter.
+
+La Unidad, en coordinación con la Dirección General de Innovación, Planeación y Desarrollo Institucional, en el ámbito de sus atribuciones, llevarán a cabo las acciones siguientes:
+
+I. Coordinar reuniones de trabajo con las áreas administrativas, para que cuenten con mayores elementos para identificar riesgos y determinar medidas de control; y
+
+II. Señalar áreas de oportunidad en materia de riesgos y medidas de control.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 16 Quater.
+
+La Unidad dará seguimiento a la implementación de las medidas de control establecidas por las áreas administrativas en sus Programas Anuales de Trabajo, a través de los reportes que la Dirección General de Innovación, Planeación y Desarrollo Institucional le proporcione.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 17.
 
-La Contraloría realizará el informe de verificación al Reporte General de Avance Trimestral de los riesgos, para su presentación al Pleno.
+La Contraloría, a través de la Unidad, presentará puntos informativos trimestrales al Pleno, en los que presente los resultados y logros alcanzados, como resultado del seguimiento a la implementación de las medidas de control.
+
+Una vez que el Pleno tome conocimiento del resultado del seguimiento de la implementación de las medidas de control, la Unidad remitirá los resultados y las oportunidades de mejora a la Dirección General de Innovación, Planeación y Desarrollo Institucional, para su atención, en coordinación con las áreas administrativas.
+
+Lo anterior, de conformidad con el plazo establecido en la Metodología de Planeación Estratégica Institucional.
 
 ### CAPÍTULO SÉPTIMO. COMITÉ DE CONTROL INTERNO
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 18.
 
-El Comité es un cuerpo multidisciplinario con carácter permanente, que tiene por objeto analizar, estudiar y proponer las mejores prácticas relativas al Control Interno, de conformidad con los criterios establecidos por los órganos colegiados correspondientes.
+El Comité es un cuerpo multidisciplinario con carácter permanente, que tiene por objeto analizar, estudiar y proponer las mejores prácticas relativas al control interno, de conformidad con los criterios establecidos por el Pleno del Consejo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 19.
 
-El Comité tendrá las siguientes atribuciones:
+El Comité tendrá las atribuciones siguientes:
 
 I. Promover, evaluar y fortalecer el Sistema de Control Interno Institucional, mediante las acciones que resulten necesarias para su cumplimiento;
 
@@ -267,31 +431,41 @@ III. Contribuir a la administración de riesgos con el análisis y seguimiento d
 
 IV. Promover la aplicación de medidas de control preventivas para evitar la materialización de riesgos;
 
-V. Diseñar canales de comunicación internos que fomenten y fortalezcan la colaboración entre las áreas administrativas y las y los servidores públicos, para la consecución de los objetivos y metas institucionales;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+V. Diseñar canales de comunicación internos que fomenten y fortalezcan la colaboración entre las personas servidoras públicas de las áreas administrativas, para la consecución de los objetivos y metas institucionales;
 
 VI. Proponer mejoras al marco normativo del Consejo, a efecto de lograr la consolidación del sistema;
 
-VII. Impulsar la prevención de la materialización de riesgos, considerando las observaciones de los órganos fiscalizadores para evitar su recurrencia y minimizar su impacto;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+VII. Proponer e implementar medidas para la prevención de la materialización de riesgos;
 
 VIII. Emitir opiniones a las acciones de mejora implementadas por las áreas administrativas; y
 
 IX. Las demás que establezcan el Pleno y las Comisiones.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 20.
 
 El Comité, estará integrado en los siguientes términos:
 
-I. Presidente: La persona titular de la Contraloría del Poder Judicial de la Federación; y
+I. Presidente: La persona titular de la Contraloría;
 
-II. Vocales: Las personas titulares de las Secretarias Ejecutivas; de los órganos auxiliares; de la Secretaría General de Presidencia; de la Coordinación de Asesores de la Presidencia; y de la Dirección General de Comunicación Social y Vocería.
+II. Vocales: Las personas titulares de las secretarías ejecutivas; de los órganos auxiliares, con excepción de la Contraloría; de la Secretaría General de la Presidencia y de la Coordinación General de Planeación Institucional; y
 
-Las y los integrantes del Comité tendrán derecho a voz y voto durante las sesiones, y podrán ser sustituidos, en los casos debidamente justificados, por la persona que designen por oficio, quien deberá contar con el nivel inmediato inferior.
+III. Vocal Ejecutivo: La persona titular de la Unidad.
+
+Las personas integrantes del Comité tendrán derecho a voz y voto durante las sesiones, con excepción del Vocal Ejecutivo y podrán ser sustituidos, en los casos debidamente justificados, por la persona que designen por oficio, quien deberá contar con el nivel inmediato inferior.
 
 Existirá quórum para celebrar válidamente una sesión cuando se cuente con la asistencia de la mitad más uno de sus integrantes.
 
-###### Artículo 21.
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
-La persona titular de la Unidad de Control Interno será asesor permanente del Comité y tendrá las siguientes funciones:
+###### Artículo 20 Bis.
+
+La persona titular de la Unidad será Vocal Ejecutivo del Comité y tendrá las funciones siguientes:
 
 I. Asistir a las reuniones del Comité con derecho a voz, pero sin voto;
 
@@ -299,15 +473,33 @@ II. Analizar los documentos que le sean turnados por el Comité;
 
 III. Emitir opinión respecto de los asuntos que le sean requeridos en el ámbito de sus competencias; y
 
-IV. Promover alternativas de solución cuando le sean solicitadas.
+IV. Presentar en las sesiones del Comité los avances, resultados y logros alcanzados, en materia de control interno, administración de riesgos y demás temas inherentes en el marco de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 21.
+
+La persona titular de la Dirección General de Innovación, Planeación y Desarrollo Institucional será asesor permanente del Comité y tendrá las funciones siguientes:
+
+I. Asistir a las reuniones del Comité con derecho a voz, pero sin voto;
+
+II. Analizar los documentos que le sean turnados por el Comité;
+
+III. Emitir opinión respecto de los asuntos que le sean requeridos en el ámbito de sus competencias; y
+
+IV. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 22.
 
-Podrán incorporarse al Comité como invitados las y los servidores públicos del Consejo, expertos o especialistas en los temas a tratar en las sesiones, cuya participación se considere necesaria.
+Podrán incorporarse al Comité como invitadas las personas servidoras públicas del Consejo, expertos o especialistas en los temas a tratar en las sesiones, cuya participación se considere necesaria.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 23.
 
-El Presidente del Comité tendrá las funciones siguientes:
+La persona que presida el Comité tendrá las funciones siguientes:
 
 I. Presidir las sesiones y emitir voto de calidad respecto de los asuntos puestos a consideración del Comité;
 
@@ -321,29 +513,51 @@ V. Vigilar el correcto funcionamiento del Comité; y
 
 VI. Las demás que le sean conferidas por el Pleno y las Comisiones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 24.
 
-Las y los vocales tendrán las siguientes funciones:
+Las personas Vocales tendrán las funciones siguientes:
 
 I. Asistir a las sesiones que convoque el Comité;
 
 II. Analizar el orden del día y los documentos de los asuntos a tratar;
 
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+II. Bis. Proponer asuntos específicos a tratar en el orden del día;
+
 III. Dar su opinión y emitir su voto respecto de los asuntos puestos a consideración del Comité en la sesión correspondiente;
 
-IV. Remitir al secretario técnico del Comité, antes de la sesión, los documentos de los asuntos que deseen someter a la consideración del Comité;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+IV. Remitir a la persona Secretaria Técnica del Comité, antes de la sesión, los documentos de los asuntos que deseen someter a consideración del Comité;
 
 V. Verificar que el desarrollo de las sesiones del Comité se realice de conformidad con lo establecido en el presente Acuerdo; y
 
-VI. Las demás que le correspondan conforme a la normatividad aplicable.
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+V. Bis. Podrán presentar riesgos de atención inmediata y/o de integridad no reflejados en la Matriz de Riesgos de las áreas administrativas;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+V. Ter. Proponer, en su caso, áreas de oportunidad para mejorar el funcionamiento del Comité;
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+VI. Las demás que les correspondan conforme a la normatividad aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 25.
 
-El Comité se auxiliará en lo administrativo por un secretario técnico designado por el Presidente del Comité, quien se encargará de lo siguiente:
+El Comité se auxiliará en lo administrativo por una persona Secretaria Técnica designada por la persona que presida el Comité, quien se encargará de lo siguiente:
 
 I. Remitir las convocatorias de las sesiones del Comité;
 
-II. Someter a la aprobación del Presidente del Comité el proyecto del orden del día, y una vez aprobado, remitirlo a los integrantes del Comité junto con la documentación soporte, con cinco días hábiles de anticipación a la celebración de la sesión;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+II. Someter a la aprobación de la persona que presida el Comité, el proyecto del orden del día y, una vez aprobado, remitirlo a las personas integrantes del Comité junto con la documentación soporte, con cinco días hábiles de anticipación a la celebración de la sesión;
 
 III. Incluir en el orden del día los asuntos para acuerdo, informativos y generales, y el seguimiento de los acuerdos de las sesiones precedentes;
 
@@ -357,11 +571,15 @@ VII. Mantener actualizado el archivo de los asuntos tratados por el Comité;
 
 VIII. Elaborar las actas y recabar la firma de los asistentes en los asuntos aprobados por el Comité; y
 
-IX. Las demás que le encomiende el Presidente del Comité o sus integrantes.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+IX. Las demás que le encomiende la persona que presida el Comité o sus Vocales.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 26.
 
-Las sesiones del Comité se celebrarán dos veces al año de manera ordinaria, conforme al calendario que se apruebe en su primera sesión, y en forma extraordinaria las veces que sea necesario.
+Las sesiones del Comité se celebrarán semestralmente de manera ordinaria, conforme al calendario que se apruebe en la última sesión ordinaria del ejercicio inmediato anterior, y en forma extraordinaria las veces que sea necesario.
 
 ## TRANSITORIOS
 
@@ -378,3 +596,17 @@ Las nuevas disposiciones derivadas de este Acuerdo se contemplarán en los progr
 QUINTO. La Dirección General de Innovación, Planeación y Desarrollo Institucional, contará con un plazo de 60 días naturales para actualizar la Guía Metodológica para la Integración de la Planeación Institucional, en el marco del presente Acuerdo.
 
 EL LICENCIADO ARTURO GUERRERO ZAZUETA, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece el Sistema de Control Interno Institucional del propio Consejo, fue aprobado por el Pleno del Consejo, en sesión ordinaria de 25 de noviembre de 2020, por unanimidad de votos de los señores Consejeros: Presidente Ministro Arturo Zaldívar Lelo de Larrea, Bernardo Bátiz Vázquez, Jorge Antonio Cruz Ramos, Eva Verónica de Gyvés Zárate, Alejandro Sergio González Bernabé, Sergio Javier Molina Martínez y Loretta Ortiz Ahlf.- Ciudad de México, a 8 de diciembre de 2020.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 26 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE EL SISTEMA DE CONTROL INTERNO INSTITUCIONAL DEL PROPIO CONSEJO, EN RELACIÓN CON SU PROMOCIÓN, EVALUACIÓN Y FORTALECIMIENTO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. La Contraloría del Consejo de la Judicatura Federal, a través de la Unidad de Control Interno, armonizará conforme a las modificaciones del presente Acuerdo, la Metodología y Políticas para la implementación, promoción, evaluación y fortalecimiento del Sistema de Control Interno Institucional, en un plazo de 60 días naturales, contados a partir de la entrada en vigor del instrumento normativo.
+
+CUARTO. La evaluación del Sistema de Control Interno Institucional, del ejercicio 2023, a que se refiere el artículo 10 de este documento normativo, se realizará en los términos y plazos establecidos en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece el Sistema de Control Interno Institucional del propio Consejo, publicado el 20 de diciembre de 2020.
