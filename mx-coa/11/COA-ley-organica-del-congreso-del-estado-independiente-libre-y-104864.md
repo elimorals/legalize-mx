@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2023-12-08"
+last_updated: "2023-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 30 de diciembre de 2014.
 
@@ -553,7 +553,9 @@ Quienes integren la Mesa Directiva del Congreso durarán en sus cargos durante e
 
 No podrán ser reelectos o reelectas en el siguiente año legislativo en forma consecutiva con igual cargo, salvo el caso de quienes hayan integrado la Mesa Directiva en el Periodo de Instalación, que podrán ser ratificados o ratificadas por el Pleno para el Primer Año Legislativo.
 
-La presidencia de la Mesa Directiva será ejercida en forma alternada y para cada año legislativo, por los grupos parlamentarios que cuenten con el mayor número de diputadas y diputados; correspondiéndole el primer año de ejercicio constitucional al Grupo Parlamentario que cuente con mayor número de diputados y diputadas en la legislatura.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+La presidencia de la Mesa Directiva será ejercida en forma alternada y para cada año legislativo, por los grupos parlamentarios que cuenten con el mayor número de diputadas y diputados, en el orden que determine la Junta de Gobierno.
 
 En caso de que dos o más grupos parlamentarios tengan igual número de integrantes, se decidirá por el grupo parlamentario del partido político que haya obtenido más votos en el Estado, en la elección correspondiente a la legislatura en turno.
 
@@ -755,6 +757,10 @@ II. Las normas acordadas por los miembros del grupo para su funcionamiento inter
 
 III. Los nombres de las y los Diputados que hayan sido designados como coordinador y subcoordinador del Grupo Parlamentario y los nombres de quienes desempeñen otras actividades.
 
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+IV. El nombre de la Diputada o Diputado que haya sido designado como Presidente de la Junta de Gobierno, en caso de que el Grupo Parlamentario por sí mismo cuente con el mayor número de diputaciones en el Congreso, siempre y cuando este número sea igual o mayor a una tercera parte del total de quienes integran la Legislatura.
+
 Las Fracciones Parlamentarias y Diputados Independientes, deberán presentar en la primera sesión del período de instalación de la Legislatura, la siguiente documentación:
 
 I. El acta en la que conste la decisión de su miembro de constituirse en fracción, con especificación del nombre de la misma; y
@@ -811,13 +817,19 @@ La Junta de Gobierno del Congreso del Estado, es el órgano de gobierno encargad
 
 En la Junta de Gobierno se expresará la pluralidad del Congreso y funcionará como un órgano colegiado que servirá de enlace entre los grupos parlamentarios y fracciones legalmente constituidos en el seno de la legislatura, con objeto de impulsar entendimientos y convergencias políticas con las instancias y órganos que resulten necesarios, a fin de alcanzar acuerdos que permitan al Pleno y a la Diputación Permanente adoptar las decisiones que constitucional y legalmente les corresponden.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 64.
 
-La Junta de Gobierno estará integrada por las y los coordinadores de los grupos parlamentarios constituidos conforme a lo dispuesto en esta ley. Las y los diputados de los partidos políticos que no hayan formado grupo parlamentario, podrán participar con voz pero sin voto en la Junta de Gobierno.
+La Junta de Gobierno estará integrada por la presidencia y por las y los coordinadores de los grupos parlamentarios constituidos conforme a lo dispuesto en esta ley, quienes podrán participar con voz y voto en las sesiones. Las y los diputados de los partidos políticos que no hayan formado grupo parlamentario, podrán participar con voz pero sin voto en la Junta de Gobierno.
 
-Será Presidente de la Junta de Gobierno, por la duración de la Legislatura, la o el Coordinador de aquel Grupo Parlamentario que por sí mismo cuente con la mayoría absoluta en el Congreso.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-En caso de que ningún grupo parlamentario se encuentre en el supuesto señalado en el párrafo anterior, la presidencia de la Junta será ejercida en forma alternada y para cada año legislativo, por los coordinadores de los tres grupos parlamentarios que cuenten con el mayor número de diputadas y diputados. Esta encomienda se desempeñará sucesivamente por las o los diputados que designen los grupos, en orden decreciente del número de legisladores que los integren.
+Será presidente o presidenta de la Junta de Gobierno, por la duración de la Legislatura, la diputada o diputado que designe aquel Grupo Parlamentario que por sí mismo cuente con el mayor número de diputaciones en el Congreso, siempre y cuando este número sea igual o mayor a una tercera parte del total de quienes integran la Legislatura.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+En caso de que ningún grupo parlamentario se encuentre en el supuesto señalado en el párrafo anterior, la presidencia de la Junta será ejercida en forma alternada y para cada año legislativo, por los tres grupos parlamentarios que cuenten con el mayor número de diputadas y diputados. Esta encomienda se desempeñará sucesivamente por las o los diputados que designen los grupos, en orden decreciente del número de legisladores que los integren.
 
 En caso de que dos o más grupos parlamentarios tengan igual número de integrantes, se decidirá por el grupo parlamentario del partido político que haya obtenido más votos en el Estado, en la elección correspondiente a la legislatura en turno.
 
@@ -906,6 +918,10 @@ XV. Las demás que le confiera esta ley.
 ###### ARTÍCULO 73.
 
 En las sesiones de la Junta de Gobierno, sus integrantes tendrán voto ponderado, en relación directa al número de diputados que representen. Consecuentemente, el voto de cada coordinador valdrá tantos votos como diputados integren el Grupo Parlamentario al que pertenece.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+En caso de ausencia, en las sesiones de la Junta de Gobierno por parte del coordinador del Grupo Parlamentario que cuente con la mayoría de las diputaciones, de conformidad con lo dispuesto en el segundo párrafo del artículo 64 de esta Ley, la o el presidente de la Junta de Gobierno podrá ejercer el derecho al voto ponderado. En caso de ausencia de las y los coordinadores del resto de los Grupos Parlamentarios podrá presentarse el suplente respectivo.
 
 ###### ARTÍCULO 74.
 
@@ -1067,13 +1083,17 @@ X. De Desarrollo Rural;
 
 XI. De Desarrollo Urbano, Infraestructura, Transporte y Movilidad Sustentable;
 
-XII. De Salud, Medio Ambiente, Recursos Naturales y Agua;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XIIII (SIC). De Deporte y Juventud;
+XII. Medio Ambiente y Recursos Naturales;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XIV. Asuntos Municipales, Metropolitanos e Interestatales;
+XIII. Salud y Deporte;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+XIV. Agua, Asuntos Municipales, Metropolitanos e Interestatales;
 
 XV. De Igualdad y No Discriminación;
 
@@ -1101,9 +1121,9 @@ XXIV. Instructora de Juicio Político.
 
 XXV. Contra la Trata de Personas.
 
-> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXVI. De los Derechos de las Niñas, Niños y Adolescentes.
+XXVI. Jóvenes y Niñez.
 
 ###### ARTÍCULO 89.
 
@@ -1361,9 +1381,31 @@ VI. Mejoramiento de la infraestructura de la obra pública existente; y
 
 VII. Otros asuntos que sean o se consideren de la competencia de esta comisión.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 100.
 
-La Comisión de Salud, Medio Ambiente, Recursos Naturales y Agua conocerá de los asuntos relacionados con:
+La Comisión de Medio Ambiente y Recursos Naturales conocerá de los asuntos relacionados con:
+
+I. Equilibrio ecológico y protección del medio ambiente;
+
+II. Creación, protección y preservación de áreas de reserva ecológica;
+
+III. Contaminación del ambiente por cualquier causa;
+
+IV. Saneamiento y procesamiento de desechos sólidos;
+
+V. Confinamientos de basura y desechos industriales;
+
+VI. Protección de los animales; y
+
+VII. Otros asuntos que se consideren de la competencia de esta Comisión:
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+###### ARTÍCULO 101.
+
+La Comisión de Salud y Deporte conocerá de los asuntos relacionados con:
 
 I. Servicios de salud pública, higiene y servicios sanitarios;
 
@@ -1381,55 +1423,17 @@ VII. Prestadores de los servicios de salud de los sectores público, social y pr
 
 VIII. Actividades científicas y tecnológicas en el campo de la salud;
 
-IX. Regulación en materia sanitaria en los servicios de agua potable y alimentos, así como en lo relativo a la limpia de mercados, centrales de abasto, panteones y rastros.
+IX. Alcoholismo y farmacodependencia;
 
-X. Alcoholismo y farmacodependencia;
+X. Fomento y desarrollo de actividades deportivas para todos los sectores de la población; y
 
-XI. Equilibrio ecológico y protección del medio ambiente;
+XI. Otros asuntos que sean o se consideren de la competencia de esta Comisión.
 
-XII. Creación, protección y preservación de áreas de reserva ecológica;
-
-XIII. Contaminación del ambiente por cualquier causa;
-
-XIV. Saneamiento y procesamiento de desechos sólidos;
-
-XV. Confinamientos de basura y desechos industriales;
-
-XVI. Protección de los animales;
-
-XVII. Uso y manejo del agua;
-
-XVIII. Suministro de agua para consumo humano;
-
-XIX. Funcionamiento y operación de los sistemas de aguas y saneamiento;
-
-XX. Tratamiento de aguas residuales;
-
-XXI. Saneamiento de ríos, arroyos, cuencas y presas; y
-
-XXII. Otros asuntos que se consideren de la competencia de esta comisión:
-
-###### ARTÍCULO 101.
-
-La Comisión de Deporte y Juventud conocerá de los asuntos relacionados con:
-
-I. Desarrollo y superación de la juventud;
-
-II. Vinculación de la juventud con las actividades del desarrollo del Estado;
-
-III. Promoción de eventos para la manifestación de las ideas, capacidades y aptitudes de los jóvenes en todos los órdenes;
-
-IV. Realización de actividades que fortalezcan la formación y desarrollo cultural de los jóvenes;
-
-V. Fomento y desarrollo de actividades deportivas para todos los sectores de la población; y
-
-VI. Otros asuntos que sean o se consideren de la competencia de esta comisión.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 102.
 
-La Comisión de Asuntos Municipales, Metropolitanos e Interestatales conocerá de los asuntos relacionados con:
+La Comisión de Agua, Asuntos Municipales, Metropolitanos e Interestatales conocerá de los asuntos relacionados con:
 
 I. Organización y funcionamiento de los Ayuntamientos;
 
@@ -1455,9 +1459,33 @@ Con el fin de fortalecer la cooperación entre el Poder Legislativo y las legisl
 
 IX. La Comisión de Asuntos Municipales, Metropolitanos e Interestatales, en coordinación con la Mesa Directiva, la Junta de Gobierno y la Comisión de Reglamentos y Prácticas Parlamentarias, se encargará de crear y gestionar, el marco jurídico y el mecanismo institucional de colaboración interparlamentaria cuya función será la de fomentar, facilitar y agilizar la relación y colaboración entre el Congreso de Coahuila con otras legislaturas estatales para que, a través de ellos, se pueda discutir, concertar, coordinar y proponer una agenda legislativa interestatal compartida y la armonización de los marcos jurídicos que consideren.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-X. Otros asuntos que sean o se consideran de la competencia de esta comisión.
+X. Regulación en materia sanitaria en los servicios de agua potable y alimentos, así como en lo relativo a la limpia de mercados, centrales de abasto, panteones y rastros;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+XI. Uso y manejo del agua;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+XII. Suministro de agua para consumo humano;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+XIII. Funcionamiento y operación de los sistemas de aguas y saneamiento;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+XIV. Tratamiento de aguas residuales;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+XV. Saneamiento de ríos, arroyos, cuencas y presas; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+XVI. Otros asuntos que sean o se consideren de la competencia de esta comisión.
 
 ###### ARTÍCULO 103.
 
@@ -1663,23 +1691,29 @@ II.- El establecimiento de mecanismos efectivos para tutelar la vida, la dignida
 
 III.- La actualización de la Ley para la Prevención, Protección, Atención y Asistencia a las Víctimas y Ofendidos de los Delitos en Materia de Trata de Personas del Estado de Coahuila de Zaragoza.
 
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-###### ARTÍCULO 112 Ter.
+ARTÍCULO 112 TER. La Comisión de Jóvenes y Niñez conocerá de los asuntos relacionados con:
 
-La Comisión de los Derechos de las Niñas, Niños y Adolescentes, conocerá de los asuntos relacionados con:
+I. Protección y promoción de los derechos de la niñez y la juventud;
 
-I. Protección y promoción de los derechos de la niñez y la adolescencia;
-
-II. Mecanismos de participación permanente de la niñez y la adolescencia en el Estado y los municipios;
+II. Mecanismos de participación permanente de la niñez y la juventud en el Estado y los municipios;
 
 III. Prevención, erradicación y combate del maltrato, abuso, violencia y explotación infantil en todas sus manifestaciones, así como del acoso escolar;
 
-IV. Prevención de las adicciones de los menores a substancias tóxicas y a bebidas embriagantes, así como el tratamiento para la rehabilitación de aquellos que tengan estas adicciones;
+IV. Prevención de las adicciones de las niñas, niños y jóvenes a substancias tóxicas y a bebidas embriagantes, así como el tratamiento para la rehabilitación de aquellos que tengan estas adicciones;
 
-V. Acciones encaminadas al respeto de los derechos humanos de las niñas, niños y adolescentes, a través de la vinculación interinstitucional y la sociedad civil, y
+V. Acciones encaminadas al respeto de los derechos humanos de las niñas, niños y la juventud, a través de la vinculación interinstitucional y la sociedad civil;
 
-VI. Otros asuntos que sean o se consideren de la competencia de esta Comisión.
+VI. Desarrollo y superación de la niñez y la juventud;
+
+VII. Vinculación de la niñez y juventud con las actividades del desarrollo del Estado;
+
+VIII. Promoción de eventos para la manifestación de las ideas, capacidades y aptitudes de los jóvenes en todos los órdenes;
+
+IX. Realización de actividades que fortalezcan la formación y desarrollo cultural de las niñas, niños y jóvenes; y
+
+X. Otros asuntos que sean o se consideren de la competencia de esta Comisión.
 
 ###### ARTÍCULO 113.
 
@@ -3870,3 +3904,13 @@ P.O. 8 DE DICIEMBRE DE 2023.
 PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 674.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Publíquese en el Periódico Oficial del Estado.
