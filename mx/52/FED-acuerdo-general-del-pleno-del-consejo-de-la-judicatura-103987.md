@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2023-10-16"
+last_updated: "2023-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2023.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -439,9 +439,9 @@ CIV Bis. Organismo u Organización Internacional: Persona jurídica creada con e
 
 CV. Órganos jurisdiccionales: Tribunales Colegiados de Circuito, tribunales Colegiados de Apelación y juzgados de Distrito;
 
-> <small>(ADICIONADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
-CV Bis. Padrón electrónico de relaciones familiares: Sistema electrónico al que se incorpora la declaración que rindan las y los servidores públicos obligados, de las relaciones de pareja incluyendo matrimonio, concubinato, sociedad de convivencia y otras que conforme a las legislaciones aplicables que regulen instituciones o figuras del derecho de familia resulten de naturaleza análoga, y de las relaciones familiares por afinidad y consanguinidad hasta el quinto grado, tanto en línea recta ascendente o descendente, como colateral, en ambos casos, respecto de personas que laboren en el Poder Judicial de la Federación, ya sea en áreas administrativas del Consejo o en los órganos jurisdiccionales a su cargo;
+CV Bis. Padrón electrónico de relaciones familiares: Sistema electrónico al que se incorporan las declaraciones de los servidores públicos obligados sobre sus vínculos o relaciones familiares derivadas del matrimonio, concubinato, sociedad de convivencia o cualquiera otra análoga a las anteriores, así como por parentesco por consanguinidad y afinidad hasta el cuarto grado tanto en línea recta como colateral, cuando éstas laboren en el Poder Judicial de la Federación, ya sea en áreas administrativas del Consejo o en los órganos jurisdiccionales a su cargo;
 
 CVI. Pasajes locales: Traslados realizados por el servidor público dentro de la zona metropolitana de la ciudad en la que se efectué la comisión, a través del servicio del transporte urbano de los que se disponga, siendo entre otros: taxi, autobús y transporte colectivo;
 
@@ -621,9 +621,17 @@ CLXXXVII. Vida útil: Tiempo de uso según norma del fabricante, régimen fiscal
 
 > <small>(ADICIONADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
+> <small>[N. DE E. ESTA FRACCIÓN ES SIMILAR A LA FRACCIÓN CLXXXVIII BIS, D.O.F. 26 DE DICIEMBRE DE 2023]</small>
+
 CLXXXVII Bis. Vínculo o relación familiar: La que tienen las y los servidores públicos con su cónyuge, concubina o concubinario, conviviente o con quien o quienes sostengan relación análoga a las anteriores conforme a las legislaciones aplicables que regulen instituciones o figuras del derecho de familia, o con parientes consanguíneos o por afinidad hasta el quinto grado, tanto en línea recta ascendente o descendente, como colateral;
 
 CLXXXVIII. Visitantes: Las personas físicas distintas de los servidores públicos que ingresen a las instalaciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+> <small>[N. DE E. ESTA FRACCIÓN ES SIMILAR A LA FRACCIÓN CLXXXVII BIS, D.O.F. 26 DE DICIEMBRE DE 2023]</small>
+
+CLXXXVIII Bis. Vínculo o relación familiar: El o la que tienen los servidores públicos con su cónyuge, concubina o concubinario, conviviente o con quien o quienes sostengan relación análoga a las anteriores, así como con parientes consanguíneos o por afinidad hasta el cuarto grado, tanto en línea recta como colateral.
 
 CLXXXIX. Volante de Autorización Presupuestal: Documento por el cual se autoriza el ejercicio del Presupuesto para cubrir el pago de servicios personales, adquisición de bienes, prestación de servicios, y obra pública, a través de la presentación de facturas, recibos, resumen general de nóminas, o cualquier otro documento que pueda comprobar el pago; y
 
@@ -709,33 +717,37 @@ El nombramiento inicial del personal de confianza de las áreas administrativas,
 
 Corresponde a la instancia que propone el nombramiento inicial determinar la temporalidad de éste, dentro del rango señalado en el artículo anterior, a efecto de evaluar el desempeño laboral del servidor público.
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 18 Bis.
 
-Las y los titulares de las áreas administrativas, o cualquier persona que tenga facultad para hacerlo, con base en la información proporcionada por las personas a contratar, se abstendrán de proponer, votar o realizar nombramientos, en los siguientes supuestos:
+Los titulares de áreas administrativas, o cualquier persona que tenga facultad para hacerlo, con base en la información proporcionada por las personas a contratar, se abstendrán de proponer, votar u otorgar nombramientos:
 
-I. Persona con la que tenga vínculo o relación familiar, conflicto de interés o relación de pareja en cualquier modalidad o forma;
+I. A persona con la que tenga vínculo o relación familiar, o conflicto de interés;
 
-II. Persona que tenga vínculo o relación familiar o de pareja con cualquier servidor público del área administrativa en la que es titular; y
+II. A quien tenga vínculo o relación familiar, o conflicto de interés, con cualquier servidor público del área administrativa en la que es titular; y
 
-III. Persona que tenga vínculo o relación familiar o de pareja con el titular de un órgano jurisdiccional o área administrativa que previamente haya contratado a una persona con la que el impedido tuvo o tiene relación familiar o de pareja.
+III. A quien tenga vínculo o relación familiar, o conflicto de interés, con otro titular de área administrativa o de órgano jurisdiccional que previamente haya contratado a una persona con la que el impedido tenga relación familiar o conflicto de interés.
 
-Con independencia de lo anterior, los titulares de áreas administrativas deberán abstenerse de cualquier tipo de práctica tendiente a construir esquemas de contratación que de manera recurrente genere beneficio a una o más personas con la que aquéllos u otros titulares de órganos jurisdiccionales o áreas administrativas tengan vínculo o relación familiar o de pareja, o conflicto de interés.
+Con independencia de lo anterior, los titulares de áreas administrativas deberán abstenerse de construir esquemas de contratación con otros titulares de áreas administrativas o de órganos jurisdiccionales, que les generen beneficios recíprocos o para favorecer indebidamente a sus familiares o personas con las que tengan conflicto de interés.
 
-La contravención a cualquiera de los supuestos anteriores constituye responsabilidad administrativa grave, cuya actualización deberá hacerse del conocimiento inmediato de la Comisión de Administración para que declare sin efectos el nombramiento o nombramientos que se hubiesen otorgado.
+La contravención a cualquiera de los supuestos anteriores constituye responsabilidad administrativa.
 
 Para efectos de este artículo, por titular de área administrativa se entiende a las y los consejeros, titular de la Secretaría General de la Presidencia, titulares de secretarías ejecutivas, de coordinaciones, de unidades, de Direcciones Generales, o órganos auxiliares, administradoras o administradores de los Centros de Justicia Penal Federal, jefas o jefes de las unidades de notificadores, administradoras o administradores regionales, delegadas o delegados administrativos, así como administradores de edificios, y demás servidores públicos que cuenten con facultades o atribuciones para realizar o proponer nombramientos o promociones.
 
-> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+Para la contratación, el interesado deberá informar al titular de área administrativa, bajo protesta de decir verdad y mediante los formatos autorizados por el Consejo, los vínculos o relaciones familiares, o conflictos de interés, que tenga en el Poder Judicial de la Federación. Esta obligación es independiente de las diversas relacionadas con el padrón de relaciones familiares reguladas en los artículos 150 y 151 del Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la Carrera Judicial. La falta de veracidad de la información proporcionada será causa de responsabilidad administrativa.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 18 Ter.
 
-La contratación de las personas que tengan vínculo familiar con titulares de otras áreas administrativas u órganos jurisdiccionales, requerirá previamente la opinión no vinculante del Comité de Integridad, la cual formará parte del trámite en que se involucren a estos parientes.
+La contratación de quienes tengan vínculo o relación familiar, o conflicto de interés, con otro titular de área administrativa o de órgano jurisdiccional, será sometida a consulta ante el Comité de Integridad.
 
-El Consejo evitará concentrar relaciones familiares cuando se trate de la transferencia de personal por extinción o transformación de cualquier área administrativa u órgano jurisdiccional.
+Los titulares de áreas administrativas podrán formular la consulta al Comité de Integridad antes de otorgar el nombramiento, o bien, otorgarlo y realizar la consulta dentro de los cinco días hábiles siguientes. En el último supuesto, el otorgamiento del nombramiento no dará lugar a responsabilidad administrativa, pero la omisión de efectuar la consulta sí la producirá.
 
-La o el titular del órgano jurisdiccional o área administrativa que designe en cualquier cargo a personas que tengan relación familiar con otro titular de área administrativa o de órgano jurisdiccional, deberá dar aviso de esa circunstancia a la Dirección General de Recursos Humanos. La omisión genera responsabilidad administrativa en términos de la normatividad aplicable.
+El Comité de Integridad deberá emitir la determinación respectiva dentro de los cinco días hábiles siguientes a la recepción de la consulta, la cual tendrá efectos vinculantes. Si se emite Determinación de Inexistencia de Impedimento, se eximirá de responsabilidad administrativa al titular de área administrativa por lo que hace a ese movimiento, pero no lo libera de la que pudiera derivar si con motivo de una investigación se recaban pruebas que acrediten la configuración de algún esquema de contratación prohibido que, por su complejidad, no fuera evidente al momento de resolver la consulta.
+
+De dictarse Determinación de Existencia de Impedimento, deberá notificarse al titular para que se abstenga de continuar con la contratación o, en su caso, para que deje sin efectos el nombramiento.
 
 > <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL TRÁMITE DE PRÓRROGA DE LOS NOMBRAMIENTOS, D.O.F. 16 DE OCTUBRE DE 2023)</small>
 
@@ -14606,3 +14618,11 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
 
 TERCERO. Los asuntos que a la entrada en vigor del presente Acuerdo estén en trámite, deberán concluirse con las disposiciones con las que fueron iniciados.
+
+D.O.F. 26 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes y en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
