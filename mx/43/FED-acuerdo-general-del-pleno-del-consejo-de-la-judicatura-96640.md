@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2023-10-16"
+last_updated: "2023-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2023.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -1329,39 +1329,49 @@ Asimismo, se faculta al titular de la Dirección de Normatividad y Enlace Instit
 
 #### SECCIÓN SEGUNDA. COMITÉ DE INTEGRIDAD
 
-> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 65 Bis.
 
-El Comité de Integridad, será el encargado de emitir la opinión, no vinculante, respecto de los nombramientos y licencias superiores a diez días de personas que tengan parentesco por consanguinidad o afinidad dentro del quinto grado con otros titulares de áreas administrativas u órganos jurisdiccionales.
+El Comité de Integridad será el encargado de resolver, con efectos vinculantes, las consultas que se formulen respecto de los nombramientos de personas que tengan vínculo o relación familiar, o conflicto de interés, con titulares de órganos jurisdiccionales o áreas administrativas.
 
-El Comité deberá verificar que la contratación no trasgreda el derecho de las personas a acceder a cargos públicos en condiciones de igualdad, no repare en un conflicto de interés que ponga en riesgo la percepción de legitimidad del Poder Judicial de la Federación, y que no exista impedimento, para que se lleve a cabo la contratación correspondiente.
-
-> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 65 Ter.
 
-El Comité de Integridad estará conformado por las y los Titulares de:
+El Comité de Integridad estará conformado por los Titulares de:
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON EL FUNCIONAMIENTO DEL COMITÉ DE INTEGRIDAD, D.O.F. 13 DE SEPTIEMBRE DE 2022)</small>
 
 I. Contraloría del Consejo de la Judicatura Federal, quien lo presidirá;
 
+> <small>(ADICIONADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
 II. Secretaría Ejecutiva de Carrera Judicial; y
 
-III. Dirección General de Recursos Humanos.
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON EL FUNCIONAMIENTO DEL COMITÉ DE INTEGRIDAD, D.O.F. 13 DE SEPTIEMBRE DE 2022)</small>
+III. Secretaría Ejecutiva de Vigilancia.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
+
+La Dirección General de Recursos Humanos será asesora permanente del Comité de Integridad, por lo que en las sesiones tendrá derecho a voz, pero sin voto, y estará facultada para analizar y opinar sobre los asuntos competencia del Comité de Integridad.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 65 Quater.
 
 El Comité de Integridad tendrá las siguientes atribuciones:
 
-I. Verificar que se haya efectuado un proceso de selección transparente de acuerdo al cargo, empleo o comisión que ocupará la persona propuesta en el Poder Judicial de la Federación, a fin de determinar si se produce o no un potencial o real conflicto de interés, o si pone en riesgo el derecho de acceder a cargos públicos en condiciones de igualdad;
+I. Verificar que el nombramiento sujeto a consulta no configure un impedimento y no repare en un conflicto de interés que ponga en riesgo la percepción de legitimidad del Poder Judicial de la Federación;
 
-II. Emitir dentro de los diez días hábiles, contados a partir del día siguiente a la recepción de la solicitud, la opinión, no vinculante, respecto de la contratación y licencias superiores a diez días de personas que tengan relaciones familiares o de pareja con otros titulares. Las licencias urgentes podrán otorgarse sin la necesidad de obtener previamente la opinión del Comité, lo cual deberá hacerse de su conocimiento;
+II. Emitir dentro de los cinco días hábiles, contados a partir de la recepción de la consulta, la determinación respectiva, la cual tendrá efectos vinculantes.
 
-III. Emitir una guía para identificar y prevenir actos de nepotismo y conflictos de interés de las y los servidores públicos del Poder Judicial de la Federación, la cual deberá ser revisada y actualizada anualmente, y someterse a consideración del Pleno;
+Los efectos vinculantes implican que, de emitirse Determinación de Inexistencia de Impedimento, se eximirá de responsabilidad administrativa al titular por lo que hace a ese movimiento, pero no lo libera de la que pudiera derivar si con motivo de una investigación se recaban pruebas que acrediten la configuración de algún esquema de contratación prohibido que, por su complejidad, no fuera evidente al momento de resolver la consulta.
+
+De dictarse Determinación de Existencia de Impedimento, deberá notificarse al titular para que se abstenga de continuar con la contratación o, en su caso, para que deje sin efectos el nombramiento;
+
+III. Emitir una guía para identificar y prevenir actos de nepotismo y conflictos de interés de los servidores públicos del Poder Judicial de la Federación, la cual deberá ser revisada y actualizada anualmente, y someterse a consideración del Pleno;
 
 IV. Nombrar y remover a la persona titular de la Secretaría Técnica del Comité de Integridad y su personal de apoyo, la cual estará adscrita a la Contraloría del Consejo de la Judicatura Federal; y
 
@@ -1369,7 +1379,9 @@ V. Las demás que determine el Pleno del Consejo.
 
 Para el desarrollo y validez de las sesiones del Comité de Integridad, se estará a lo dispuesto por los acuerdos generales del Pleno.
 
-El Comité de Integridad emitirá las opiniones no vinculantes, por mayoría de sus integrantes de forma permanente; y podrá celebrar sesiones extraordinarias a solicitud de cualquiera de sus miembros, cuando la urgencia o trascendencia del caso lo amerite.
+El Comité de Integridad emitirá sus determinaciones por mayoría de sus integrantes de forma permanente; y podrá celebrar sesiones extraordinarias a solicitud de cualquiera de sus miembros, cuando la urgencia o trascendencia del caso lo amerite.
+
+Las determinaciones que emita el Comité se acordarán por mayoría.
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON EL FUNCIONAMIENTO DEL COMITÉ DE INTEGRIDAD, D.O.F. 13 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1401,13 +1413,13 @@ V. Vigilar que el archivo de los documentos analizados por el Comité de Integri
 
 VI. Notificar y dar seguimiento al cumplimiento de los acuerdos emitidos por el Comité de Integridad;
 
-> <small>(ADICIONADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
-VII. Llevar un registro de las opiniones emitidas por el Comité;
+VII. Llevar un registro de las determinaciones emitidas por el Comité;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON EL FUNCIONAMIENTO DEL COMITÉ DE INTEGRIDAD, D.O.F. 13 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, D.O.F. 26 DE DICIEMBRE DE 2023)</small>
 
-VIII. Informar a la persona titular consultante respecto de la opinión emitida por el Comité;
+VIII. Informar a la persona titular consultante respecto de la determinación emitida por el Comité;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON EL FUNCIONAMIENTO DEL COMITÉ DE INTEGRIDAD, D.O.F. 13 DE SEPTIEMBRE DE 2022)</small>
 
@@ -7568,3 +7580,11 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
 
 TERCERO. Los asuntos que a la entrada en vigor del presente Acuerdo estén en trámite, deberán concluirse con las disposiciones con las que fueron iniciados.
+
+D.O.F. 26 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes y en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
