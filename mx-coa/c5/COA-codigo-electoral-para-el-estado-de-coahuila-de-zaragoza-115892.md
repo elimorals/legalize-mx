@@ -4,7 +4,7 @@ identifier: "COA-codigo-electoral-para-el-estado-de-coahuila-de-zaragoza-115892"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-08-01"
-last_updated: "2023-10-06"
+last_updated: "2023-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE OCTUBRE DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2023.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Coahuila de Zaragoza, el lunes 1 de agosto de 2016.
 
@@ -5075,7 +5073,9 @@ c) Las Mesas Directivas de Casilla.
 
 ###### Artículo 341.
 
-1. El Consejo General se reunirá en sesión ordinaria una vez al mes. Su presidente podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición, debidamente fundada y motivada, que le sea formulada por la mayoría de las y los Consejeros Electorales o de los representantes de los partidos políticos, conjunta o indistintamente, debiendo adjuntar los documentos necesarios para su análisis y discusión.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+1. El Consejo General se reunirá en sesión ordinaria una vez al mes. Su presidente deberá convocar a sesión extraordinaria cuando lo estime necesario o a petición, debidamente fundada y motivada, que le sea formulada por la mayoría de las personas Consejeras Electorales o de las representaciones de los partidos políticos, conjunta o indistintamente, debiendo adjuntar los documentos necesarios para su análisis y discusión.
 
 2. Para el inicio y preparación del proceso electoral el Consejo General se reunirá en los plazos que señala este Código. A partir de esa fecha y hasta la conclusión del proceso, el Consejo General sesionará por lo menos dos veces al mes.
 
@@ -5181,7 +5181,11 @@ bb) Aprobar la realización de estudios demoscópicos, basados en actas de escru
 
 cc) Resolver respecto a los proyectos de dictamen, acuerdo o resolución que se sometan a su consideración por la presidencia del Consejo General, las Comisiones o el Secretario Ejecutivo del Instituto, en la esfera de su competencia; y
 
-dd) Las demás que le confiera este Código u otras disposiciones legales aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+dd) Asumir la competencia de los Comités Electorales Distritales y Municipales una vez que se ha declarado su desinstalación o desintegración; y
+
+ee) Las demás que le confiera este Código u otras disposiciones legales aplicables.
 
 ###### Artículo 345.
 
@@ -5269,9 +5273,11 @@ r) Cualquier otra análoga a las anteriores.
 
 #### SECCIÓN SEGUNDA. DE LA PRESIDENCIA DEL CONSEJO GENERAL
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 351.
 
-1. La o el Presidente del Consejo General será designado por el Instituto Nacional y fungirá también como titular y representante legal del Instituto durante todo el tiempo que dure su encargo.
+1. La persona titular de la Presidencia del Consejo General será designado por el Instituto Nacional y fungirá como titular del Instituto durante todo el tiempo que dure su encargo.
 
 ###### Artículo 352.
 
@@ -5281,13 +5287,15 @@ a) Garantizar la unidad y cohesión de las actividades de los órganos del Insti
 
 b) Establecer los vínculos entre el Instituto y las autoridades federales, estatales y municipales, para lograr su apoyo y colaboración, en sus respectivos ámbitos de competencia, cuando esto sea necesario para el cumplimiento de los fines del Instituto
 
-c) Dirigir la administración y funcionamiento del Instituto, dictando las políticas, normas y procedimientos para la administración de los recursos humanos, financieros y materiales, proporcionando a las diferentes áreas los elementos necesarios para el cumplimiento de sus respectivas tareas;
+c) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2023)
 
 d) Dirigir, coordinar, promover, fortalecer, establecer y ejecutar las relaciones del Instituto, con dependencias, organismos e instituciones públicas, sociales o privadas, de carácter local, regional, nacional e internacional, implementando para ello las políticas de comunicación institucional, tanto internas como externas, necesarias para el cumplimiento de los fines del Instituto;
 
 e) Dictar y ejecutar las medidas generales y específicas que juzgue convenientes para el mejor desempeño del Instituto, así como para el debido cumplimiento de su objeto;
 
-f) Determinar e implementar las campañas de difusión y promoción, tanto al interior como al exterior del Instituto, para el debido cumplimiento de su objeto;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+f) Implementar las campañas de difusión y promoción, tanto al interior como al exterior del Instituto, para el debido cumplimiento de su objeto, que apruebe el Consejo General;
 
 g) Celebrar convenios de apoyo o colaboración con autoridades federales, estatales o municipales, así como con el Instituto Nacional, además aquellos de coordinación que se requieran conforme a la distribución de competencias establecida (sic) en la ley;
 
@@ -5297,9 +5305,9 @@ i) Vigilar el cumplimiento de los acuerdos adoptados por el propio Consejo por s
 
 j) Proponer al Consejo General el nombramiento del Secretario Ejecutivo y demás titulares de las áreas ejecutivas de dirección del Instituto conforme a los Lineamientos emitidos por el Instituto Nacional o las leyes aplicables;
 
-k) Ejercer, de manera conjunta o separadamente con el Secretario Ejecutivo, las partidas presupuestales con las que cuente el Instituto;
+k) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2023)
 
-l) Recibir del contralor interno los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto, así como hacerlos del conocimiento del Consejo General;
+l) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2023)
 
 m) Remitir al titular del Poder Ejecutivo el proyecto de presupuesto del Instituto aprobado por el Consejo General, en los términos de la ley de la materia;
 
@@ -5309,15 +5317,23 @@ n) Remitir al (sic) Auditoría Superior del Estado los avances de gestión finan
 
 o) Recibir las solicitudes de registro de candidaturas a la Gubernatura y someterlas al Consejo General para su registro;
 
-p) Elaborar el proyecto de Reglamento Interior del Instituto;
+p) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2023)
 
 q) Proponer la realización de estudios demoscópicos, basados en actas de escrutinio y cómputo de casilla, a fin de conocer las tendencias de los resultados de las elecciones locales el día de la jornada electoral;
 
 r) Ordenar, en su caso, la publicación en el Periódico Oficial de los acuerdos y resoluciones que apruebe el Consejo General;
 
-s) Nombrar y remover a los servidores públicos que no tengan otro mecanismo de designación, y que estén aprobados en la estructura orgánica del Instituto, y
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-t) Las demás que sean necesarias para el cumplimiento del objeto y fines del Instituto, así como las que le sean conferidas por la normatividad aplicable.
+s) Nombrar y remover a las personas servidoras públicas adscritas a la oficina de la Presidencia del Consejo General, que no tengan otro mecanismo de designación, y que estén aprobados en la estructura orgánica del Instituto;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+t) Solicitar a las autoridades competentes la fuerza pública para garantizar el desarrollo pacífico del proceso electoral; y
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+u) Las demás que le confiera el Consejo General, este Código y las demás disposiciones aplicables.
 
 #### SECCIÓN TERCERA. DE LAS COMISIONES DEL CONSEJO GENERAL
 
@@ -5341,17 +5357,47 @@ g) De Vinculación con el Instituto Nacional y con los OPLES, y
 
 h) De Transparencia y Acceso a la Información.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+i) De innovación e Informática; y
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+j) De paridad de género e inclusión.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+2. Las Comisiones se reunirá en sesión ordinaria una vez al mes. Su presidencia podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición, debidamente fundada y motivada, que le sea formulada por la mayoría de las Consejerías Electorales o de las representaciones de los partidos políticos, conjunta o indistintamente, debiendo adjuntar los documentos necesarios para su análisis y discusión.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+3. A partir del inicio del proceso electoral y hasta su conclusión, las Comisiones sesionarán por lo menos una vez al mes.
+
 ###### Artículo 354.
 
-1. El Consejo General integrará las comisiones y/o comités, temporales o permanentes, que considere necesarias para el desempeño de sus atribuciones, las que siempre serán presididas por un Consejero Electoral.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+1. El Consejo General integrará las comisiones y/o comités, temporales o permanentes, que considere necesarias para el desempeño de sus atribuciones, las cuales se integrarán exclusivamente por Consejerías Electorales y siempre serán presididas por una de estas.
 
 2. Todas las comisiones se integrarán con tres Consejeros Electorales; podrán participar en ellas, con voz pero sin voto, los representantes de los partidos políticos, salvo en las Comisiones del Servicio Profesional Electoral y de Quejas y Denuncias.
 
-3. Las y los Consejeros Electorales podrán participar hasta en cuatro de las comisiones antes mencionadas, por un periodo de tres años; la presidencia de tales comisiones será rotativa en forma anual entre sus integrantes.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+3. Las Consejerías Electorales podrán participar hasta en seis de las comisiones antes mencionadas, por un periodo de tres años; la presidencia de tales comisiones será rotativa en forma anual entre sus integrantes.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+4. La Presidencia del Instituto, las Consejerías Electorales y la persona titular de la Secretaría Ejecutiva tendrán derecho a voz en los asuntos sometidos a la consideración de las comisiones, pero solamente sus integrantes tendrán derecho a voto.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+5. Las presidencias de las comisiones comunicarán a la Secretaría Ejecutiva el estado que guarden los asuntos que les fueron encomendados, para que, en el caso de encontrarse en estado de resolución, ésta los incluya en el orden del día de la siguiente sesión para someter a votación del Consejo General el acuerdo de comisión correspondiente.
 
 ###### Artículo 355.
 
-1. Las comisiones permanentes contarán con un secretario técnico que será el titular de la Dirección Ejecutiva o Unidad Técnica correspondiente.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+1. Las comisiones permanentes y temporales contarán con una secretaría técnica que será la persona titular de la Dirección Ejecutiva o Unidad Técnica correspondiente, quien será responsable de preparar el orden del día, levantar el acta o minuta de las sesiones o reuniones de trabajo, preparar los proyectos de acuerdo o dictamen, llevar el archivo, y en general, auxiliar a la presidencia de la comisión en las demás tareas que le sean encomendadas. Las secretarías técnicas deberán informar de manera permanente a la Secretaría Ejecutiva el estado que guardan los asuntos en trámite de las Comisiones.
 
 2. Las Comisiones permanentes y temporales deberán presentar un informe de actividades cada tres meses al Consejo General, en el cual se señalará las tareas desarrolladas, los reportes de las sesiones y su respectiva asistencia, así como las demás consideraciones que se estimen convenientes.
 
@@ -5485,7 +5531,9 @@ g) Las demás que le confiera el consejo general, este Código y otras disposici
 
 ###### Artículo 363.
 
-1. La Comisión de Trasparencia y Acceso a la Información tendrá las siguientes atribuciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+1. La Comisión de Transparencia y Acceso a la Información tendrá las siguientes atribuciones:
 
 a) Vigilar el cumplimiento de la ley y demás disposiciones que regulen la materia de transparencia y acceso a la información, así como las políticas que en dicha materia apruebe el Consejo;
 
@@ -5499,7 +5547,7 @@ e) Elaborar los proyectos de informes que en materia de transparencia y acceso a
 
 f) Proponer al Consejo General la confirmación, modificación o revocación de la clasificación de información reservada o confidencial; o la confirmación o modificación de la declaratoria de inexistencia de la información hecha por los titulares de los órganos responsables del Instituto y partidos políticos;
 
-g) Verificar la clasificación de información que realicen los órganos del Instituto y los partidos políticos, conforme a lo previsto en la normatividad aplicable;
+g) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2023)
 
 h) Requerir a los órganos responsables del Instituto y a los partidos políticos, cualquier información temporalmente reservada o confidencial y, en general, cualquier documentación o insumo que le permita el adecuado cumplimiento de sus atribuciones;
 
@@ -5511,21 +5559,135 @@ k) Las demás que le confiera el Consejo General, este Código y las demás disp
 
 ###### Artículo 364.
 
-1. La Comisión de vinculación con el Instituto Nacional y con los OPLES tendrá las siguientes atribuciones:
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+1. La Comisión de Vinculación con el Instituto Nacional y con los OPLES tendrá las siguientes atribuciones:
 
 a) Observar las disposiciones generales, reglas, lineamientos, acuerdos y criterios que establezca el INE en materia de vinculación en el ámbito de su competencia;
 
-b) Informar en forma periódica al Consejo General las actividades y seguimiento en relación con la vinculación y coordinación de las tareas encomendadas a este Instituto por el Instituto Nacional en cumplimiento de las atribuciones que les corresponden;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-c) Coadyuvar con el Instituto Nacional en la elaboración de acuerdos y convenios de coordinación que celebre con el Instituto y con los OPLES, para dar cumplimiento a las disposiciones legales vigentes y a los acuerdos del Consejo General;
+b) Informar en forma mensual al Consejo General las actividades y seguimiento en relación con la vinculación y coordinación de las tareas encomendadas a este Instituto por el Instituto Nacional en cumplimiento de las atribuciones que les corresponden;
 
-d) Implementar el calendario y el plan integral de coordinación elaborado por el Instituto Nacional con los OPLES, cuando se celebren comicios concurrentes;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+c) Coadyuvar con el Instituto Nacional en la elaboración y seguimiento de acuerdos y convenios de coordinación que celebre con el Instituto y con los OPLES, para dar cumplimiento a las disposiciones legales vigentes y a los acuerdos del Consejo General;
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+d) Implementar y dar seguimiento al calendario y el plan integral de coordinación elaborado por el Instituto Nacional con los OPLES;
 
 e) Dar seguimiento a las actividades relacionadas con las solicitudes de asunción y atracción aprobadas por la mayoría calificada del Consejo General y las determinaciones de delegación de facultades emitidas por el Instituto Nacional;
 
 f) Proponer al Consejo General los lineamientos, criterios y disposiciones para el cumplimiento de las funciones que se deleguen al Instituto por parte del Instituto Nacional e informar a este último respecto al cumplimiento de las mismas.
 
 g) Las demás que le confiera el Consejo General, este Código y las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 364 Bis.
+
+1. La Comisión de Paridad de Género e Inclusión, tiene por objeto coadyuvar, asesorar, supervisar, monitorear y transparentar las actividades que contribuyan a consolidar el derecho a la paridad e inclusión, bajo los criterios de transversalidad, interseccionalidad, y de perspectiva de género con la misión de garantizar el ejercicio de los derechos político-electorales de todas las personas en contextos libres de discriminación y de promover la participación activa y el fortalecimiento de liderazgos políticos de las mujeres, así como de cualquier grupo históricamente vulnerado, con la finalidad de implementar acciones que contribuyan a visibilizar, reconocer y garantizar el ejercicio de los derechos político-electorales de todas las personas en contextos libres de discriminación y de promover la participación activa y el fortalecimiento de liderazgos políticos de los mismos.
+
+2. La Comisión de paridad de género e inclusión, tendrá las siguientes atribuciones:
+
+a) Lograr que el personal del Instituto conozca qué es la igualdad, paridad y la inclusión y se los apropie como principios, a través de programas de capacitación especializada, según los requerimientos de las direcciones ejecutivas y unidades técnicas responsables;
+
+b) Promover la incorporación de la paridad e inclusión en el diseño de los procedimientos del Instituto;
+
+c) Dar seguimiento y evaluar el impacto de las medidas ejecutadas en materia de paridad e inclusión;
+
+d) Dar seguimiento a la implementación de políticas institucionales para promover ambientes laborales libres de violencia, propiciar la conciliación de la vida laboral con la personal y familiar, y procurar condiciones para una ocupación paritaria e incluyente en los cargos de toma de decisión;
+
+e) Asesorar respecto de la forma y contenidos de los diferentes materiales de las campañas de difusión institucionales, con el propósito de asegurar una comunicación no sexista, no discriminatoria y el uso de un lenguaje incluyente;
+
+f) Informar trimestralmente al Consejo, sobre el avance en el cumplimiento de los programas implementados;
+
+g) Establecer la vinculación con las instancias gubernamentales, observatorios de paridad, organizaciones no gubernamentales, asociaciones civiles y demás organizaciones, con el fin de realizar actividades de difusión de la paridad, igualdad e inclusión;
+
+h) Atraer a su conocimiento cualquier asunto relacionado con su objeto o misión;
+
+i) Opinar en cualquier asunto relacionado con sus atribuciones;
+
+j) Generar la información y estudios necesarios para proponer al Consejo General políticas y lineamientos en materia de paridad, igualdad e inclusión, así como las acciones afirmativas necesarias para lograrlo;
+
+k) Dar seguimiento a las acciones implementadas por el Instituto y los actores políticos para garantizar el acceso a la información sin discriminación alguna;
+
+l) Proponer la revisión y actualización de los documentos que regulan la actuación del personal del Instituto en materia de igualdad, paridad e inclusión;
+
+m) Opinar respecto del contenido e imagen de las publicaciones institucionales, los programas y campañas informativas y de difusión implementadas por el Instituto en materia de género, igualdad, paridad, inclusión y no discriminación;
+
+n) Proponer al Consejo General, los manuales, protocolos, lineamientos y reglamentos necesarios para la promoción de la paridad, igualdad e inclusión, así como sus actualizaciones;
+
+o) Revisar los documentos de planeación institucional estratégica y operativa y proponer la transversalidad de la perspectiva de género y el enfoque de igualdad e inclusión en su contenido;
+
+p) Revisar la implementación de la perspectiva de género y el enfoque de igualdad e inclusión, en las tareas institucionales;
+
+q) Supervisar las acciones, competencia del Instituto, relativas a la difusión, promoción y formación en materia de equidad de género, igualdad e inclusión, dirigidas a los miembros del Servicio Profesional Electoral Nacional y al personal de la Rama Administrativa;
+
+r) Supervisar los procesos institucionales que favorecen la participación y representación política de las mujeres;
+
+s) Supervisar la implementación de los mecanismos que favorecen una cultura institucional incluyente, no discriminatoria y no sexista en el Instituto;
+
+t) Supervisar los procesos institucionales que favorecen la participación y representación política de las mujeres;
+
+u) Supervisar la implementación de los mecanismos que favorecen una cultura institucional incluyente, no discriminatoria y no sexista en el Instituto; y
+
+v) Las demás que le confiera el Consejo General, este Código y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 364 Ter.
+
+1. La Comisión de Innovación e Informática tendrá las siguientes atribuciones:
+
+a) Ser la instancia encargada del seguimiento, supervisión e instrumentación de los Programas de Resultados Electorales Preliminares y Conteos Rápidos que se realicen;
+
+b) Dar seguimiento a la actualización, mejora y utilización de la urna electrónica;
+
+c) Proponer al Consejo General todos aquellos acuerdos que resulten necesarios con motivo de los Programas de Resultados Electorales Preliminares y, en su caso, de Conteos Rápidos que se implementen;
+
+d) Supervisar que los sistemas informáticos con los que cuente el Instituto operen correctamente;
+
+e) Proponer la utilización de nuevas tecnologías informáticas, así como la mejora continua de las existentes;
+
+f) Establecer las reglas, políticas, procedimientos y estándares necesarios en materia de seguridad informática y continuidad de los sistemas y servicios informáticos institucionales;
+
+g) Establecer un mecanismo para la difusión inmediata en el Consejo General, de los resultados preliminares de las elecciones, para este efecto se dispondrá de un sistema de informática para recabar los resultados preliminares. Al sistema que se establezca tendrán acceso en forma permanente los consejeros y representantes de los partidos políticos acreditados ante el Consejo General, y
+
+h) Las demás que le confiera el Consejo General, este Código y las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 364 Quater.
+
+1. El Instituto contará con un Comité Editorial de Difusión de la Cultura Democrática, el cual tendrá por objeto las actividades de difusión del Instituto, así como la aprobación del diseño, elaboración y publicación oportuna y de calidad, de materiales relacionados con la democracia, participación ciudadana, política electoral, educación cívica y de cultura democrática.
+
+2. El Comité será la instancia facultada para conocer de las obras susceptibles de producción editorial, aprobar el Programa Anual Editorial y supervisar su cumplimiento, así como observar la debida integración del Catálogo General de Publicaciones.
+
+3. Las obras editoriales deberán contribuir a difundir y fortalecer la educación cívica y la cultura democrática, por lo que el contenido se apegará a los criterios y líneas temáticas que se establezcan en la Política Editorial. Asimismo, se promoverá la publicación de obras en colaboración con otras instituciones, destinadas a la divulgación de la cultura democrática y a la promoción de la participación ciudadana.
+
+4. El Comité Editorial de Difusión de la Cultura Democrática, tendrá las siguientes atribuciones:
+
+a) Planear, ejecutar, dirigir y supervisar los programas de divulgación de desarrollo y fortalecimiento de la cultura política democrática y los referentes a la comunicación educativa, con el objeto de impulsar la cultura democrática;
+
+b) Dirigir y supervisar la investigación, análisis y la preparación de material didáctico que requieren los programas de capacitación electoral y educación cívica;
+
+c) Coordinar la elaboración de análisis, estudios, investigaciones y bases de datos sobre temas de cultura política democrática, dirigidos a fomentar el conocimiento y difusión de estas temáticas y construir una ciudadanía más participativa y mejor informada;
+
+d) Diseñar, proponer e implementar campañas de difusión y cultura democrática en coordinación con la Fiscalía Especializada para la Prevención de Delitos Electorales;
+
+e) Colaborar en la elaboración y envío de los materiales audiovisuales correspondientes a la campaña institucional para su difusión oportuna;
+
+f) Asesorar a los partidos políticos y a las agrupaciones políticas nacionales en el diseño de sus programas de difusión y cultura democrática, cuando así lo soliciten;
+
+g) Identificar y establecer mecanismos de colaboración con institutos políticos, organizaciones civiles, instituciones académicas y de investigación, así como de educación superior o especializada, para coadyuvar al desarrollo de la vida cultural democrática;
+
+h) Diseñar y organizar encuentros y foros académicos que contribuyan a la difusión de la cultura democrática;
+
+i) Acordar con el Secretario Ejecutivo del Instituto los asuntos de su competencia; y
+
+j) Diseñar y proponer estrategias para promover el voto entre la ciudadanía, en coordinación con la Comisión de Educación Cívica y Participación Ciudadana.
 
 ### CAPÍTULO TERCERO. DE LOS ÓRGANOS EJECUTIVOS
 
@@ -5541,13 +5703,15 @@ g) Las demás que le confiera el Consejo General, este Código y las demás disp
 
 1. La Junta General Ejecutiva tendrá las siguientes atribuciones:
 
-a) Proponer al Consejo General las políticas generales, los programas y los procedimientos administrativos del Instituto;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+a) Fijar las políticas, los programas, las normas y los procedimientos administrativos internos del Instituto;
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 b) Proponer al Consejo General el Programa de Capacitación Electoral y Paridad de Género, así como los materiales didácticos que se ocuparán para la capacitación, conforme a la legislación y lineamientos aplicables;
 
-c) Proponer al Consejo General programas de educación cívica en materia electoral;
+c) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2023)
 
 d) Coordinar el funcionamiento técnico de los órganos del Instituto y supervisar el adecuado desarrollo de sus actividades;
 
@@ -5563,15 +5727,53 @@ i) Supervisar el cumplimiento de las normas aplicables a los partidos políticos
 
 j) Proponer al Consejo General establecer oficinas regionales o municipales de acuerdo a la disponibilidad presupuestal, y
 
-k) Las demás que le atribuya el Consejo General, este Código y demás disposiciones aplicables.
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+k) Proponer al Consejo General los acuerdos y lineamientos necesarios para el nombramiento y remoción de los servidores públicos del Instituto que no tengan otro mecanismo de designación, tanto de los que estén aprobados en la estructura orgánica del Instituto, como del personal eventual;
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+l) Elaborar los reglamentos, circulares y lineamientos internos necesarios para el correcto funcionamiento del Instituto y sus órganos, para someterlos a consideración del Consejo General;
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+m) Aprobar los manuales de organización, procedimientos, servicios y demás necesarios para el buen desempeño del Instituto;
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+n) Elaborar lineamientos en materia de adquisiciones, arrendamientos, contratación de servicios, así como de baja y enajenación de bienes del Instituto, para someterlos a consideración del Consejo General;
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+o) Proponer al Consejo General el proyecto de Reglamento Interno del Instituto;
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+p) Elaborar el proyecto de presupuesto de egresos del Instituto;
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+q) Aprobar el tabulador de sueldos y prestaciones del personal permanente y eventual del Instituto, contemplado en la estructura orgánica autorizada por el Consejo General;
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+r) Coadyuvar con la Comisión del Servicio Profesional Electoral para elaborar el proyecto de modernización de la estructura orgánica del Instituto;
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+s) Aprobar el calendario oficial de labores, así como el horario de trabajo del Instituto; y
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+t) Las demás que no estén expresamente reservadas al Consejo General, y las que este le atribuya, este Código y demás disposiciones aplicables.
 
 #### SECCIÓN SEGUNDA. DE LA SECRETARÍA EJECUTIVA
 
 ###### Artículo 367.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. La o el Titu1ar de la Secretaría Ejecutiva será designado por el voto de al menos cinco miembros del Consejo General del Instituto, a propuesta de 1a o el Consejero Presidente. Corresponde al Titular de la Secretaría Ejecutiva:
+1. La Secretaría Ejecutiva es el órgano central ejecutivo, encargado de dirigir, coordinar y supervisar el desarrollo de todas las actividades de los órganos ejecutivos y técnicos del Instituto, de conformidad con las disposiciones aplicables. La o el Titular de la Secretaría Ejecutiva será designado por el voto de al menos cinco miembros del Consejo General del Instituto, a propuesta de la o el Consejero Presidente. Corresponde a la persona titular de la Secretaría Ejecutiva:
 
 a) Representar legalmente al Instituto;
 
@@ -5589,7 +5791,9 @@ g) Suscribir, previa aprobación del Consejo General, los acuerdos o convenios p
 
 h) Recibir los informes de los funcionarios de los comités electorales y dar cuenta al presidente del Consejo General sobre los mismos;
 
-i) Ejercer, de manera conjunta o separadamente con la presidencia del Consejo General, las partidas presupuestales con las que cuente el Instituto;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+i) Ejercer las partidas presupuestales con las que cuente el Instituto;
 
 j) Otorgar poderes a nombre del Instituto, para actos de dominio, de administración y para ser representado ante cualquier autoridad administrativa o judicial, o ante particulares. Para realizar actos de dominio sobre inmuebles destinados al Instituto o para otorgar poderes para dichos efectos, el secretario ejecutivo requerirá de la autorización previa del Consejo General;
 
@@ -5607,7 +5811,9 @@ p) Firmar, junto con el presidente del Consejo, todos los acuerdos y resolucione
 
 q) Proveer lo necesario para que se publiquen los acuerdos y resoluciones que pronuncie el Consejo General;
 
-r) Suscribir los convenios necesarios para el cumplimiento de las responsabilidades del Instituto en materia electoral y las demás que le correspondan, dando cuenta a la presidencia del Consejo General;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+r) Suscribir, en conjunto con la presidencia del Consejo General, los convenios necesarios para el cumplimiento de las responsabilidades del Instituto en materia electoral y las demás que le correspondan. Los convenios deberán ser ratificados por el Consejo General;
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -5631,17 +5837,83 @@ z) Evaluar permanentemente el diseño y contenido del portal de internet de tran
 
 aa) Informar al Consejo General respecto a las resoluciones emitidas por las autoridades jurisdiccionales en relación con los asuntos en los que el Instituto sea parte, y
 
-bb) Las demás que le sean conferidas por el Consejo General, este Código y demás disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADA ], P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+bb) Nombrar y remover a las personas servidoras públicas adscritas a la oficina de la Secretaría Ejecutiva, que estén aprobados en la estructura orgánica del Instituto;
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+cc) Nombrar y remover a las personas empleadas del Instituto, que no tengan previsto algún método de designación;
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+dd) Canalizar los requerimientos de información que formulen las personas Consejeras Electorales, sobre las actividades de las Direcciones Ejecutivas, Unidades Técnicas y órganos desconcentrados del Instituto;
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+ee) Coordinar y ejecutar las acciones necesarias para atender los requerimientos que le formula la persona titular de la Contraloría Interna como coadyuvante en los procedimientos que este acuerde para la vigilancia de los recursos y bienes del Instituto y, en su caso, en los procedimientos para la determinación de responsabilidades e imposición de sanciones a los servidores del Instituto;
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+ff) Instruir directamente a las personas titulares de las Direcciones Ejecutivas y de las Unidades Técnicas, la atención de asuntos y suscripción de documentos para el adecuado ejercicio de sus funciones y del Instituto;
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+gg) Realizar las sustituciones que resulten necesarias de ciudadanas y ciudadanos para integrar los Comités Electorales Distritales y Municipales, conforme a la lista de suplentes aprobada por el Consejo General;
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+hh) Dirigir la administración y funcionamiento del Instituto, dictando las políticas, normas y procedimientos para la administración de los recursos humanos, financieros y materiales, proporcionando a las diferentes áreas los elementos necesarios para el cumplimiento de sus respectivas tareas;
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+ii) Dictar y ejecutar las medidas generales y específicas que juzgue convenientes para el mejor desempeño del Instituto, así como para el debido cumplimiento de su objeto;
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+jj) Aprobar la estructura eventual de las direcciones ejecutivas, unidades técnicas y demás órganos del Instituto conforme a las necesidades institucionales y los recursos presupuestales autorizados;
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+kk) Recibir de la Contraloría Interna los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto, así como hacerlos del conocimiento del Consejo General; y
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+l (sic)) Las demás que sean necesarias para el cumplimiento del objeto y fines del Instituto, así como las que le sean conferidas por el Consejo General, este Código y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+2. La persona titular de la Secretaría Ejecutiva podrá actuar, en todo tiempo, con la representación legal del Instituto.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+3. En su estructura, contará con al menos tres coordinaciones generales, así como con los recursos humanos, materiales y financieros necesarios para el correcto desempeño de sus funciones.
 
 #### SECCIÓN TERCERA. DE LAS DIRECCIONES EJECUTIVAS Y UNIDADES TÉCNICAS
 
 ###### Artículo 368.
 
-1. El Consejo General determinara el número de direcciones ejecutivas y unidades técnicas que sean necesarias para el cumplimiento de las atribuciones del Instituto, cuyas atribuciones, se establecerán en el reglamento interior, de conformidad con las leyes aplicables.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+1. El Consejo General determinará el número de direcciones ejecutivas y unidades técnicas que sean necesarias para el cumplimiento de las atribuciones del Instituto, las cuales dependerán administrativa, jerárquica y operativamente de la Secretaría Ejecutiva, y cuyas atribuciones, se establecerán en el reglamento interior, de conformidad con las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+2. Durante los procesos electorales estatales, el Instituto, a través de la Secretaría Ejecutiva, dispondrá lo conducente para la contratación y pago del personal eventual necesario para tales efectos. El personal de referencia será contratado por tiempo determinado y tarea específica y no formarán parte del Servicio Profesional Electoral. En todo caso se atenderá a la disponibilidad presupuestal del Instituto.
 
 ###### Artículo 369.
 
-1. En el desempeño de sus atribuciones, las direcciones ejecutivas y unidades técnicas mantendrán comunicación permanente con las comisiones del Consejo General que correspondan a su ámbito de competencia. Los consejeros electorales se abstendrán de interferir en el desempeño de las atribuciones legales de las direcciones.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+1. En el desempeño de sus atribuciones, las direcciones ejecutivas y unidades técnicas mantendrán comunicación permanente, a través de la Secretaría Ejecutiva, con las comisiones del Consejo General que correspondan a su ámbito de competencia. Los consejeros electorales se abstendrán de interferir en el desempeño de las atribuciones legales, administrativas y operativas de las direcciones y unidades técnicas.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+2. Las Direcciones Ejecutivas y Unidades Técnicas acordarán e informarán permanentemente a la Secretaría Ejecutiva de los asuntos bajo su competencia. Cuando éstas deban presentar al Consejo General o a las Comisiones asuntos para la resolución en dichos órganos, lo harán mediante un dictamen o proyecto de acuerdo que deberá contener sus fundamentos legales, las motivaciones en que se funda y los puntos resolutivos, el cual deberá ser revisado previamente por la Secretaría Ejecutiva y, en su caso, la Comisión correspondiente.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+3. Asimismo, los titulares de los órganos de referencia acordarán sobre los asuntos de su competencia con la persona titular de la Secretaría Ejecutiva.
 
 #### SECCIÓN CUARTA. DE LA OFICIALÍA ELECTORAL
 
@@ -7268,3 +7540,11 @@ SEGUNDO.- En atención a lo previsto en el numeral 3 del artículo 17, durante e
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones en contrario a este Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 676.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones contrarias al presente Decreto.
