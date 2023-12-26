@@ -4,7 +4,7 @@ identifier: "COA-codigo-fiscal-para-el-estado-de-coahuila-de-zaragoza-37936"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-01-02"
-last_updated: "2022-12-27"
+last_updated: "2023-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37936&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 2 de enero de 2004.
 
@@ -250,6 +250,10 @@ Las cantidades en moneda nacional que se establezcan en este Código, se actuali
 Para determinar el monto de las cantidades a que se refiere el párrafo anterior, se considerarán, inclusive, las fracciones de peso; no obstante lo anterior, dicho monto se ajustará para que las cantidades de 0.01 a 5.00 pesos en exceso de una decena, se ajusten a la decena inmediata anterior y de 5.01 a 9.99 pesos en exceso de una decena, se ajusten a la decena inmediata superior.
 
 Cuando de conformidad con las disposiciones fiscales se deban realizar operaciones aritméticas, con el fin de determinar factores o proporciones, las mismas deberán calcularse hasta el diezmilésimo.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+Las cantidades actualizadas conservarán la naturaleza jurídica que tenían antes de la actualización. El monto de esta, determinada en los pagos provisionales, definitivos y del ejercicio, no será deducible ni acreditable.
 
 ### CAPITULO II. DE LOS MEDIOS ELECTRONICOS
 
@@ -1449,11 +1453,21 @@ II. Venció el plazo para pagar las contribuciones cuando no exista la obligaci�
 
 III. Se hubiere cometido la infracción a las disposiciones fiscales, pero si la infracción fuese de carácter continuo o continuado, el término correrá a partir del día siguiente al en que hubiere cesado la consumación o se hubiese realizado la última conducta o hecho, respectivamente.
 
-El plazo señalado en este artículo no está sujeto a interrupción y sólo se suspenderá cuando se interponga algún recurso administrativo o juicio.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-Las facultades de las autoridades fiscales para investigar hechos constitutivos de delitos en materia fiscal, no se extinguirán conforme a este artículo.
+El plazo a que se refiere este artículo será de diez años, cuando el contribuyente no haya presentado su solicitud en el Registro Estatal de Contribuyentes, no lleve contabilidad o no la conserve durante el plazo que establece este Código, así como por los ejercicios que no presente alguna declaración mensual o del ejercicio, estando obligado a presentarlas. En los casos en los que posteriormente el contribuyente de forma espontánea presente la declaración omitida y cuando esta no sea requerida, el plazo será de cinco años, sin que en ningún caso este plazo de cinco años, sumado al tiempo transcurrido entre la fecha en la que debió presentarse la declaración omitida y la fecha en la que se presentó espontáneamente, exceda de diez años.
 
-Los contribuyentes, transcurridos los plazos a que se refiere este artículo, podrán solicitar se declare que se han extinguido las facultades de las autoridades fiscales.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+El plazo señalado en este artículo no está sujeto a interrupción y sólo se suspenderá cuando se ejerzan las facultades de comprobación de las autoridades fiscales a que se refieren las fracciones II, III, IV y VIII del artículo 42 de este Código; cuando se interponga algún recurso administrativo o juicio; o cuando las autoridades fiscales no puedan iniciar el ejercicio de sus facultades de comprobación en virtud de que el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal. En estos dos últimos casos, se reiniciará el cómputo del plazo de caducidad a partir de la fecha en la que se localice al contribuyente. Asimismo, el plazo a que hace referencia este artículo se suspenderá en los casos de huelga, a partir de que se suspenda temporalmente el trabajo y hasta que termine la huelga y en el de fallecimiento del contribuyente, hasta en tanto se designe al representante legal de la sucesión.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+El plazo de caducidad que se suspende con motivo del ejercicio de las facultades de comprobación antes mencionadas inicia con la notificación de su ejercicio y concluye cuando se notifique la resolución definitiva por parte de la autoridad fiscal o cuando concluya el plazo que establece el artículo 50 de este Código para emitirla. De no emitirse la resolución, se entenderá que no hubo suspensión.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+En todo caso, el plazo de caducidad que se suspende con motivo del ejercicio de las facultades de comprobación, adicionado con el plazo por el que no se suspende dicha caducidad, no podrá exceder de diez años. Tratándose de visitas domiciliarias, de revisión de la contabilidad en las oficinas de las propias autoridades o de la revisión de dictámenes, el plazo de caducidad que se suspende con motivo del ejercicio de las facultades de comprobación, adicionado con el plazo por el que no se suspende dicha caducidad, no podrá exceder de seis años con seis meses o de siete años, según corresponda y, cuando el plazo de caducidad se suspenda por dos años o más, no se podrá exceder el plazo de siete años, siete años con seis meses u ocho años, según sea el caso.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -3214,6 +3228,22 @@ P.O. 27 DE DICIEMBRE DE 2022.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor el día primero de enero de dos mil veintitrés.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 687.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero de dos mil veinticuatro.
 
 ###### ARTÍCULO SEGUNDO.
 
