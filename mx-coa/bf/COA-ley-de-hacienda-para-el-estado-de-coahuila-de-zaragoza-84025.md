@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-84025"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-25"
-last_updated: "2023-11-03"
+last_updated: "2023-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ NOTA: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRE
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -343,7 +343,7 @@ Para los efectos del presente artículo, se asimilan a salarios, las erogaciones
 
 I. Las remuneraciones y demás prestaciones, obtenidas por los funcionarios y trabajadores de la Federación, de las entidades federativas y de los municipios, aun cuando sean por concepto de gastos no sujetos a comprobación, así como los obtenidos por los miembros de las fuerzas armadas.
 
-II. Los rendimientos y anticipos, que obtengan los miembros de las sociedades cooperativas de producción, así como los anticipos que reciban los miembros de sociedades y asociaciones civiles.
+II. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2023)
 
 III. Los honorarios a miembros de consejos directivos, de vigilancia, consultivos o de cualquier otra índole, así como los honorarios a administradores, comisarios y gerentes generales.
 
@@ -511,15 +511,19 @@ II. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 OBJETO
 
-###### ARTICULO 33.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-Es objeto de este impuesto, la prestación de servicios de hospedaje, campamentos y de tiempo compartido, en el territorio del Estado. Para los efectos de este impuesto sólo se considerará el albergue, sin incluir los alimentos y demás servicios relacionados con los mismos.
+###### ARTÍCULO 33.
 
-Se consideran servicios de hospedaje, el acto por el cual se concede a una persona el uso, goce y demás derechos que se adquieran sobre un bien o parte del mismo, otorgados en establecimientos de hospedaje durante un período determinado, se encuentre o no registrado en la contabilidad de la empresa.
+Es objeto de este impuesto, la prestación de servicios de hospedaje en el territorio del Estado. Para los efectos de este impuesto sólo se considerará el albergue, sin incluir los alimentos y demás servicios relacionados con los mismos.
 
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-Para los efectos de este artículo, se consideran establecimientos de hospedaje los hoteles, moteles, albergues, habitaciones con sistema de tiempo compartido o de operación hotelera, suites, villas o bungalows, ex-haciendas departamentos y casas, total o parciamente (sic) y construcciones en las que se proporcione el servicio de alojamiento, a cambio de una contraprestación en dinero o en especie, sea cual fuere.
+Se consideran servicios de hospedaje, el acto por el cual se concede a una persona el uso, goce y demás derechos que se adquieran sobre un bien o parte del mismo, otorgados en establecimientos de hospedaje durante un período determinado, se encuentre o no registrado en la contabilidad de la empresa, incluidos los servicios de hospedaje que se oferten a través de plataformas digitales, independientemente de su temporalidad.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+Para los efectos de este artículo, se consideran establecimientos de hospedaje los hoteles, moteles, albergues, habitaciones con sistema de tiempo compartido o de operación hotelera, suites, villas o bungalows, cabañas, ex-haciendas, departamentos y casas, amueblados para hospedaje con fines turísticos y otros establecimientos que brinden servicios de hospedaje y construcciones en las que se proporcione el servicio de alojamiento, a cambio de una contraprestación en dinero o en especie, sea cual fuere.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 59], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -534,6 +538,10 @@ Son sujetos de este impuesto las personas físicas y morales, que presten los se
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 En los supuestos de hospedaje de departamentos y casas, total o parcialmente, campamentos y paraderos de casas rodantes, previstos en el artículo 33, de esta Ley, cuando la contraprestación por servicios de hospedaje se cubra a través de una persona física o moral en su carácter de intermediaria, promotora o facilitadora, éstas deberán retener y enterar este impuesto.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+Son responsables solidarios de este impuesto los retenedores del mismo, así como los administradores, encargados o cualquier otra persona física o moral que independientemente de la denominación que se utilice, se encarguen de otorgar el acceso o acondicionamiento para el uso del lugar en que se prestan los servicios de hospedaje.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 60], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -583,27 +591,49 @@ Los contribuyentes que tengan varios establecimientos deberán conservar, en cad
 
 Las personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras retengan este impuesto, deberán enterarlo mediante declaraciones definitivas en términos del primer párrafo de este artículo, proporcionando la información de las personas físicas o morales que prestaron el servicio de hospedaje y de la totalidad de las operaciones en las que hayan intervenido.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 64], P.O. 31 DE DICIEMBRE DE 2019) (REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2019)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-###### ARTICULO 39.
+###### ARTÍCULO 39.
 
-Los contribuyentes que obtengan ingresos por los servicios de hospedaje, además de las obligaciones señaladas en el presente capítulo, tendrán las siguientes:
+Los contribuyentes personas físicas o personas morales, así como aquellas que tengan el carácter de intermediario, promotor o facilitador, que obtengan ingresos por los servicios de hospedaje, además de las obligaciones señaladas en el presente capítulo, tendrán las siguientes:
 
-I. Llevar contabilidad de conformidad con el Código Fiscal para el Estado de Coahuila de Zaragoza y efectuar los registros en la misma.
+> <small>(REFORMADA [N. DE E. REFORMADA Y REUBICADA], P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Llevar un registro detallado por nombre, o en su defecto, por placa de vehículo, de las personas a quienes se presta el servicio de hospedaje.
+I. Solicitar su inscripción en el Registro Estatal de Contribuyentes ante la Administración Fiscal del Estado, mediante la forma oficial que esta autorice, conforme a los requisitos establecidos en las reglas de carácter general de la materia.
 
-III. Presentar en las oficinas autorizadas las declaraciones mensuales de este impuesto.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+II. Presentar ante las autoridades fiscales, los avisos de cambio de domicilio, nombre, razón social, suspensión o reanudación de actividades u obligaciones, clausura, fusión, escisión, liquidación de personas morales o cualquier otra circunstancia que modifique los datos aportados por el contribuyente, en las formas oficiales autorizadas.
 
-IV.- Solicitar su inscripción en el Registro Estatal de Contribuyentes, tratándose de personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras retengan este impuesto.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+III. Presentar cuando así lo soliciten las autoridades fiscales, los avisos, datos, documentos e informes en relación con este impuesto, dentro de los plazos y en los lugares señalados para tal efecto.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+IV. Llevar contabilidad de conformidad con el Código Fiscal para el Estado de Coahuila de Zaragoza y efectuar los registros en la misma.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+V. Llevar un registro detallado por nombre, o en su defecto, por placa de vehículo, de las personas a quienes se presta el servicio de hospedaje.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+VI. Presentar las declaraciones mensuales de este impuesto, de conformidad con lo establecido en el presente Capítulo y en las reglas de carácter general.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 65], P.O. 31 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 40.
 
 Cuando el contribuyente omita registrar ingresos a que se refiere este impuesto, estos podrán ser determinados por la autoridad fiscal.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+En caso de que la autoridad fiscal requiera revisar las declaraciones mediante las cuales el intermediario, promotor o facilitador hubiera efectuado el entero de este impuesto, con el propósito de verificar su veracidad, se ajustará a los procedimientos establecidos en la legislación fiscal estatal, pudiendo solicitar en dichos casos, acceso a los registros financieros directamente relacionados con el pago del impuesto, los cuales podrán ser presentados en muestras y anonimizados.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+La información proporcionada por las personas físicas o morales en su carácter de intermediarios, promotores o facilitadores será considerada información confidencial y, por lo tanto, no podrá ser revelada (sic) terceros.
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REUBICADO ANTES CAPÍTULO SEXTO], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -869,9 +899,9 @@ I. Impuestos
 
 II. Derechos
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. Que se causen por los Servicios que presta la Secretaría de Educación Pública; así como los que se causen por la prestación de servicios de la Dirección General del Registro Civil, y;
+1. Que se causen por los Servicios que presta la Secretaría de Educación Pública; así como los que se causen por la prestación de servicios de la Dirección General del Registro Civil, relativos a la expedición de actas de nacimiento, y;
 
 2. Los que se causen por los Servicios prestados por las Dependencias de la Administración Pública Centralizada, relativas al Derecho de Acceso a la Información Pública.
 
@@ -899,13 +929,13 @@ Los servicios prestados por el Registro Público, relativos a la propiedad, caus
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-I. El examen de todo documento público o privado que se presente para su inscripción, cuando se rehúse esta por no ser procedente o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial, se pagará $308.00 (TRESCIENTOS OCHO PESOS 00/100 M.N.).
+I. El examen de todo documento público o privado que se presente para su inscripción, cuando se rehúse esta por no ser procedente o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial, se pagará $323.00 (TRESCIENTOS VEINTITRÉS PESOS 00/100 M.N.).
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Se pagará una cuota de $23,089.00 (VEINTITRÉS MIL OCHENTA Y NUEVE PESOS 00/100 M.N.), en los siguientes supuestos:
+II. Se pagará una cuota de $24,243.00 (VEINTICUATRO MIL DOSCIENTOS CUARENTA Y TRES PESOS 00/100 M.N.), en los siguientes supuestos:
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
@@ -953,19 +983,19 @@ Por otros servicios:
 
 I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. El depósito de cualquier otro documento, $308.00 (TRESCIENTOS OCHO PESOS 00/100 M.N.).
+II. El depósito de cualquier otro documento, $323.00 (TRESCIENTOS VEINTITRÉS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-III. La expedición de certificados de no antecedentes registrales de inmuebles, $1,139.00 (UN MIL CIENTO TREINTA Y NUEVE PESOS 00/100 M.N.).
+III. La expedición de certificados de no antecedentes registrales de inmuebles, $1,196.00 (UN MIL CIENTO NOVENTA Y SEIS PESOS 00/100 M.N.).
 
 IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-V. La búsqueda y/o constancia de información, solicitados por autoridades de la Federación, Entidades Federativas, Municipios u organismos de estos, por cada inmueble, o persona física o moral $308.00 (TRESCIENTOS OCHO PESOS 00/100 M.N.).
+V. La búsqueda y/o constancia de información, solicitados por autoridades de la Federación, Entidades Federativas, Municipios u organismos de estos, por cada inmueble, o persona física o moral $323.00 (TRESCIENTOS VEINTITRÉS PESOS 00/100 M.N.).
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
@@ -973,23 +1003,23 @@ V. La búsqueda y/o constancia de información, solicitados por autoridades de l
 
 VI. La expedición de certificados o certificaciones relativos a las constancias del Registro:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-I (SIC). Certificados de existencia o inexistencia de gravámenes, $308.00 (TRESCIENTOS OCHO PESOS 00/100 M.N.), por cada lote.
+1. Certificados de existencia o inexistencia de gravámenes, $323.00 (TRESCIENTOS VEINTITRÉS PESOS 00/100 M.N.), por cada lote.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. Constancia de existencia o inexistencia de propiedad, $308.00 (TRESCIENTOS OCHO PESOS 00/100 M.N.).
+2. Constancia de existencia o inexistencia de propiedad, $323.00 (TRESCIENTOS VEINTITRÉS PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-3. Constancia de historial registral $600.00 (SEISCIENTOS PESOS 00/100 M.N.).
+3. Constancia de historial registral $630.00 (SEISCIENTOS TREINTA PESOS 00/100 M.N.).
 
 4. (DEROGADO, P.O. 27 DE DICIEMBRE DE 2022)
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-5. Por copia certificada de asientos registrales de un folio o de una partida de los libros $308.00 (TRESCIENTOS OCHO PESOS 00/100 M.N.).
+5. Por copia certificada de asientos registrales de un folio o de una partida de los libros $323.00 (TRESCIENTOS VEINTITRÉS PESOS 00/100 M.N.).
 
 VII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2020)
 
@@ -1005,29 +1035,29 @@ X. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2022)
 
 Por la utilización del Sistema Integral de Informática Registral del Instituto:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. Por servicio de vinculación remota al módulo de oficina virtual de Notarios del Sistema, se pagará de forma anual $6,263.00 (SEIS MIL DOSCIENTOS SESENTA Y TRES PESOS 00/100 M.N.).
+1. Por servicio de vinculación remota al módulo de oficina virtual de Notarios del Sistema, se pagará de forma anual $6,576.00 (SEIS MIL QUINIENTOS SETENTA Y SEIS PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. Por servicio de trámites realizados vía telemática, se pagará una cuota adicional de $51.00 (CINCUENTA Y UN PESOS 00/100 M.N.).
+2. Por servicio de trámites realizados vía telemática, se pagará una cuota adicional de $54.00 (CINCUENTA Y CUATRO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-3. Por búsqueda de antecedentes registrales o consulta en línea, por cada imagen digital a través del Sistema Integral de Informática Registral del Instituto, se pagará una cuota de $51.00 (CINCUENTA Y UN PESOS 00/100 M.N.).
+3. Por búsqueda de antecedentes registrales o consulta en línea, por cada imagen digital a través del Sistema Integral de Informática Registral del Instituto, se pagará una cuota de $54.00 (CINCUENTA Y CUATRO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-4. Por suscripción anual al servicio Aviso Electrónico Inmobiliario, $100.00 (CIEN PESOS 00/100 M.N.).
+4. Por suscripción anual al servicio Aviso Electrónico Inmobiliario, $105.00 (CIENTO CINCO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-5. Por cada ejemplar del Boletín Registral en la fecha de su expedición, $62.00 (SESENTA Y DOS PESOS 00/100 M.N.).
+5. Por cada ejemplar del Boletín Registral en la fecha de su expedición, $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-Cuando no se utilice el módulo de oficina virtual del Sistema Integral de Informática Registral del Instituto, la digitalización de documentos presentados físicamente en la oficina registral se pagará una cuota de $308.00 (TRESCIENTOS OCHO PESOS 00/100 M.N.), por cada trámite presentado.
+Cuando no se utilice el módulo de oficina virtual del Sistema Integral de Informática Registral del Instituto, la digitalización de documentos presentados físicamente en la oficina registral se pagará una cuota de $323.00 (TRESCIENTOS VEINTITRÉS PESOS 00/100 M.N.), por cada trámite presentado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
@@ -1081,13 +1111,13 @@ Los servicios prestados por el Registro Público, relativos al comercio, causar�
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-I. El examen de todo documento público o privado que se presente para su inscripción, cuando se rehúse esta por no ser procedente o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial deniegue por causas insubsanables, o cuando no se cumpla con los requisitos exigidos en la suspensión, se pagará $308.00 (TRESCIENTOS OCHO PESOS 00/100 M.N.).
+I. El examen de todo documento público o privado que se presente para su inscripción, cuando se rehúse esta por no ser procedente o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial deniegue por causas insubsanables, o cuando no se cumpla con los requisitos exigidos en la suspensión, se pagará $323.00 (TRESCIENTOS VEINTITRÉS PESOS 00/100 M.N.).
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Se pagará una cuota de $23,089.00 (VEINTITRÉS MIL OCHENTA Y NUEVE PESOS 00/100 M.N.), en los siguientes supuestos:
+II. Se pagará una cuota de $24,243.00 (VEINTICUATRO MIL DOSCIENTOS CUARENTA Y TRES PESOS 00/100 M.N.), en los siguientes supuestos:
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
@@ -1127,23 +1157,21 @@ I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2019)
 
 II. La expedición de certificados o certificaciones relativos a constancias del registro:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. Certificado de existencia o inexistencia de gravámenes, $308.00 (TRESCIENTOS OCHO PESOS 00/100 M.N.), por cada lote.
+1. Certificado de existencia o inexistencia de gravámenes, $323.00 (TRESCIENTOS VEINTITRÉS PESOS 00/100 M.N.), por cada lote.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. Certificado de historial registral, $599.00 (QUINIENTOS NOVENTA Y NUEVE PESOS 00/100 M.N.).
+2. Certificado de historial registral, $629.00 (SEISCIENTOS VEINTINUEVE PESOS 00/100 M.N.).
 
 3. (DEROGADO, P.O. 27 DE DICIEMBRE DE 2022)
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-4. Por copia certificada de asientos registrales de folio o de una partida de los libros $308.00 (TRESCIENTOS OCHO PESOS 00/100 M.N.).
+4. Por copia certificada de asientos registrales de folio o de una partida de los libros $323.00 (TRESCIENTOS VEINTITRÉS PESOS 00/100 M.N.).
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
-
-5. Expedición de copia simple, $5.00 (CINCO PESOS 00/100 M.N.), por hoja.
+5. (DEROGADO, P.O. 26 DE DICIEMBRE DE 2023)
 
 III. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2017)
 
@@ -1151,9 +1179,9 @@ IV. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2017)
 
 V. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2022)
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VI. La búsqueda y/o constancia solicitada por autoridades de la Federación, Entidades Federativas, Municipios u Organismos de estos por cada inmueble o persona física o moral, $308.00 (TRESCIENTOS OCHO PESOS 00/100 M.N.).
+VI. La búsqueda y/o constancia solicitada por autoridades de la Federación, Entidades Federativas, Municipios u Organismos de estos por cada inmueble o persona física o moral, $323.00 (TRESCIENTOS VEINTITRÉS PESOS 00/100 M.N.).
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -1201,11 +1229,11 @@ DE LOS SERVICIOS CATASTRALES
 
 Son objeto de estos Derechos, los Servicios Catastrales que presta el Instituto Registral y Catastral del Estado de Coahuila, por concepto de:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-I. Búsquedas a nombre de propietarios, poseedores, usufructuarios, herederos y entidades públicas relacionadas con la información catastral, geográfica y cartográfica, de inexistencia de registro, y en general de datos que formen parte del acervo catastral del Estado de Coahuila $361.00 (TRESCIENTOS SESENTA Y UN PESOS 00/100 M.N.) por cada predio.
+I. Búsquedas a nombre de propietarios, poseedores, usufructuarios, herederos y entidades públicas relacionadas con la información catastral, geográfica y cartográfica, de inexistencia de registro, y en general de datos que formen parte del acervo catastral del Estado de Coahuila $379.00 (TRESCIENTOS SETENTA Y NUEVE PESOS 00/100 M.N.) por cada predio.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+(REPUBLICADA, P.O. 26 DE DICIEMBRE DE 2023)
 
 II. Por la realización y emisión del avalúo catastral de predios urbanos y rústicos, el 1.8 al millar del valor concluido. El avalúo tendrá vigencia exclusivamente durante el ejercicio fiscal en el que sea emitido.
 
@@ -1213,13 +1241,13 @@ II. Por la realización y emisión del avalúo catastral de predios urbanos y r�
 
 III. Certificados catastrales
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. Certificación de documentos que obren en el acervo catastral del Estado de Coahuila, previa legitimación de derecho a la información, $361.00 (TRESCIENTOS SESENTA Y UN PESOS 00/100 M.N.).
+1. Certificación de documentos que obren en el acervo catastral del Estado de Coahuila, previa legitimación de derecho a la información, $379.00 (TRESCIENTOS SETENTA Y NUEVE PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. Certificación de planos de predios urbanos y rústicos que formen parte de la cartografía catastral $361.00 (TRESCIENTOS SESENTA Y UN PESOS 00/100 M.N.) por cada uno, que deberán sumarse a los servicios de copiado especificados en el numeral IV.
+2. Certificación de planos de predios urbanos y rústicos que formen parte de la cartografía catastral $379.00 (TRESCIENTOS SETENTA Y NUEVE PESOS 00/100 M.N.) por cada uno, que deberán sumarse a los servicios de copiado especificados en el numeral IV.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -1229,13 +1257,13 @@ IV. Servicios fotogramétricos consistentes en:
 
 1. Copia de la información existente en los archivos digitales
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-a) Fotografía aérea, copias de contacto de 23 x 23 cms $573.00 (QUINIENTOS SETENTA Y TRES PESOS 00/100 M.N.) cada una.
+a) Fotografía aérea, copias de contacto de 23 x 23 cms $602.00 (SEISCIENTOS DOS PESOS 00/100 M.N.) cada una.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-b) Coordenadas de puntos de control orientados con el Sistema Global de Posicionamiento $2,568.00 (DOS MIL QUINIENTOS SESENTA Y OCHO PESOS 00/100 M.N.) cada una.
+b) Coordenadas de puntos de control orientados con el Sistema Global de Posicionamiento $2,696.00 (DOS MIL SEISCIENTOS NOVENTA Y SEIS PESOS 00/100 M.N.) cada una.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1245,61 +1273,61 @@ V. Servicios de copiado
 
 1. Copias xerográficas de planos que obren en los archivos del departamento
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-a) Hasta 30 x 30 cms $39.00 (TREINTA Y NUEVE PESOS 00/100 M.N.).
+a) Hasta 30 x 30 cms $41.00 (CUARENTA Y UN PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+(REPUBLICADO, P.O. 26 DE DICIEMBRE DE 2023)
 
 b) En tamaños mayores, por cada decímetro cuadrado adicional o fracción $10.00 (DIEZ PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. Copias fotostáticas de plano o manifiestos que obren en los archivos del departamento, hasta tamaño oficio $29.00 (VEINTINUEVE PESOS 00/100 M.N.) por cada uno.
+2. Copias fotostáticas de plano o manifiestos que obren en los archivos del departamento, hasta tamaño oficio $30.00 (TREINTA PESOS 00/100 M.N.) por cada uno.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 3. Copia xerográfica del plano urbano general catastral
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-a) Escala 1:10000 $946.00 (NOVECIENTOS CUARENTA Y SEIS PESOS 00/100 M.N.).
+a) Escala 1:10000 $993.00 (NOVECIENTOS NOVENTA Y TRES PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-b) Escalas mayores a 1:10000 $623.00 (SEISCIENTOS VEINTITRÉS PESOS 00/100 M.N.).
+b) Escalas mayores a 1:10000 $654.00 (SEISCIENTOS CINCUENTA Y CUATRO PESOS 00/100 M.N.).
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 4. Copia de la cartografía catastral urbana
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-a) De la lámina catastral escala 1:1000 a $1,679.00 (UN MIL SEISCIENTOS SETENTA Y NUEVE PESOS 00/100 M.N.).
+a) De la lámina catastral escala 1:1000 a $1,763.00 (UN MIL SETECIENTOS SESENTA Y TRES PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-b) De la manzana catastral escala 1:1000 a $592.00 (QUINIENTOS NOVENTA Y DOS PESOS 00/100 M.N.).
+b) De la manzana catastral escala 1:1000 a $621.00 (SEISCIENTOS VEINTIÙN PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VI. Por servicios no incluidos en fracciones anteriores de $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.) a $920.00 (NOVECIENTOS VEINTE PESOS 00/100 M.N.).
+VI. Por servicios no incluidos en fracciones anteriores de $68.00 (SESENTA Y OCHO PESOS 00/100 M.N.) a $966.00 (NOVECIENTOS SESENTA Y SEIS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VII. Por servicio de validación de la clave catastral y folio real, para su vinculación, $181.00 (CIENTO OCHENTA Y UN PESOS 00/100 M.N.).
+VII. Por servicio de validación de la clave catastral y folio real, para su vinculación, $190.00 (CIENTO NOVENTA PESOS 00/100 M.N.).
 
 > <small>(ADICIONADA [N. DE E. REFORMADA CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 VIII. Formatos catastrales valorados.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-a) Forma de declaración para el pago del Impuesto Sobre Adquisición de Inmuebles, en original y cinco copias, así como folio de control $334.00 (TRESCIENTOS TREINTA Y CUATRO PESOS 00/100 M.N.), por cada juego.
+a) Forma de declaración para el pago del Impuesto Sobre Adquisición de Inmuebles, en original y cinco copias, así como folio de control $350.00 (TRESCIENTOS CINCUENTA PESOS 00/100 M.N.), por cada juego.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-b) Exclusivamente para el uso en programas de regularización de tenencia de la tierra a través de CERTTURC, RAN, CEV, programas sociales implementados por los municipios, así como el pago de las reposiciones por errores administrativos que sean cometidos por el personal técnico adscrito a este Instituto, el costo de la forma de declaración para el pago del Impuesto Sobre Adquisición de Inmuebles, en original y cinco copias, así como folio de control, será de $15.00 (QUINCE PESOS 00/100 M.N.).
+b) Exclusivamente para el uso en programas de regularización de tenencia de la tierra a través de CERTTURC, RAN, CEV, programas sociales implementados por los municipios, así como el pago de las reposiciones por errores administrativos que sean cometidos por el personal técnico adscrito a este Instituto, el costo de la forma de declaración para el pago del Impuesto Sobre Adquisición de Inmuebles, en original y cinco copias, así como folio de control, será de $16.00 (DIECISÉIS PESOS 00/100 M.N.).
 
 #### SECCION SEGUNDA. POR SERVICIOS DEL REGISTRO CIVIL
 
@@ -1311,77 +1339,81 @@ Los servicios que se presten en relación con el Registro Civil, causarán derec
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-I. Registro de nacimientos, $130.00 (CIENTO TREINTA PESOS 00/100 M.N.);
+I. Registro de nacimientos, $136.00 (CIENTO TREINTA Y SEIS PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Registro de reconocimientos, $236.00 (DOSCIENTOS TREINTA Y SEIS PESOS 00/100 M.N.);
+II. Registro de reconocimientos, $248.00 (DOSCIENTOS CUARENTA Y OCHO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-III. Inscripción actas de tutela de ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes; o bien, de las resoluciones que rectifiquen o modifiquen un acta del Registro Civil, $675.00 (SEISCIENTOS SETENTA Y CINCO PESOS 00/100 M.N.);
+III. Inscripción actas de tutela de ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes; o bien, de las resoluciones que rectifiquen o modifiquen un acta del Registro Civil, $709.00 (SETECIENTOS NUEVE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-IV. Registro de matrimonios, $886.00 (OCHOCIENTOS OCHENTA Y SEIS PESOS 00/100 M.N.);
+IV. Registro de matrimonios, $930.00 (NOVECIENTOS TREINTA PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-V. Registro de divorcios, $886.00 (OCHOCIENTOS OCHENTA Y SEIS PESOS 00/100 M.N.);
+V. Registro de divorcios, $930.00 (NOVECIENTOS TREINTA PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VI. Registro de defunciones, $109.00 (CIENTO NUEVE PESOS 00/100 M.N.);
+VI. Registro de defunciones, $114.00 (CIENTO CATORCE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VII. Inscripción de actos o hechos registrados en el extranjero, $675.00 (SEISCIENTOS SETENTA Y CINCO PESOS 00/100 M.N.);
+VII. Inscripción de actos o hechos registrados en el extranjero, $709.00 (SETECIENTOS NUEVE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VIII. Registro de Pacto Civil de Solidaridad, $875.00 (OCHOCIENTOS SETENTA Y CINCO PESOS 00/100 M.N.);
+VIII. Registro de Pacto Civil de Solidaridad, $919.00 (NOVECIENTOS DIECINUEVE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-IX. Registro de terminación de Pacto Civil de Solidaridad, $875.00 (OCHOCIENTOS SETENTA Y CINCO PESOS 00/100 M.N.);
+IX. Registro de terminación de Pacto Civil de Solidaridad, $919.00 (NOVECIENTOS DIECINUEVE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-X. Anotaciones en los registros por mandato judicial o a petición de la parte interesada, $236.00 (DOSCIENTOS TREINTA Y SEIS PESOS 00/100 M.N.);
+X. Anotaciones en los registros por mandato judicial o a petición de la parte interesada, $248.00 (DOSCIENTOS CUARENTA Y OCHO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XI. Expedición de copias certificadas, $142.00 (CIENTO CUARENTA Y DOS PESOS 00/100 M.N.), por hoja; Para efectos de esta fracción, los oficiales de Registro Civil pagarán la cantidad de $130.00 (CIENTO TREINTA PESOS 00/100 M.N.) por la expedición del formato correspondiente.
+XI. Expedición de copias certificadas, $149.00 (CIENTO CUARENTA Y NUEVE PESOS 00/100 M.N.), por hoja; Para efectos de esta fracción, los oficiales de Registro Civil pagarán la cantidad de $136.00 (CIENTO TREINTA Y SEIS PESOS 00/100 M.N.) por la expedición del formato correspondiente.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XII. Impresión de copias certificadas de otros Estados, a través de procesos sistematizados o de interconexión de redes informáticas del Registro Civil $251.00 (DOSCIENTOS CINCUENTA Y UN PESOS 00/100 M.N.).
+XII. Impresión de copias certificadas de otros Estados, a través de procesos sistematizados o de interconexión de redes informáticas del Registro Civil $264.00 (DOSCIENTOS SESENTA Y CUATRO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XIII. Rectificaciones relativas a actas del Registro Civil, $522.00 (QUINIENTOS VEINTIDÓS PESOS 00/100 M.N.);
+XIII. Rectificaciones relativas a actas del Registro Civil, $548.00 (QUINIENTOS CUARENTA Y OCHO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XIV. Expedición de certificados de inexistencia y cualquier otra clase de constancia relativa al Registro Civil, $236.00 (DOSCIENTOS TREINTA Y SEIS PESOS 00/100 M.N.);
+XIV. Expedición de certificados de inexistencia y cualquier otra clase de constancia relativa al Registro Civil, $248.00 (DOSCIENTOS CUARENTA Y OCHO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XV. Búsqueda de actas en el Registro Civil, $115.00 (CIENTO QUINCE PESOS 00/100 M.N.);
+XV. Búsqueda de actas en el Registro Civil, $121.00 (CIENTO VEINTIÚN PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XVI. Por otros servicios no especificados, $259.00 (DOSCIENTOS CINCUENTA Y NUEVE PESOS 00/100 M.N.).
+XVI. Por otros servicios no especificados, $272.00 (DOSCIENTOS SETENTA Y DOS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XVII. Constancia de Concubinato, $277.00 (DOSCIENTOS SETENTA Y SIETE PESOS 00/100 M.N.).
+XVII. Constancia de Concubinato, $291.00 (DOSCIENTOS NOVENTA Y UN PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XVIII. Reconocimiento de Identidad de Género, $611.00 (SEISCIENTOS ONCE PESOS 00/100 M.N.).
+XVII-A. Constancia de terminación de Concubinato, $291.00 (DOSCIENTOS NOVENTA Y UN PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+XVIII. Reconocimiento de Identidad de Género, $642.00 (SEISCIENTOS CUARENTA Y DOS PESOS 00/100 M.N.).
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -1403,157 +1435,163 @@ Los otros servicios que presta la Secretaría de Gobierno, causarán derechos co
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-I. Certificaciones, $67.00 (SESENTA Y SIETE PESOS 00/100 M.N.), por hoja;
+I. Certificaciones, $70.00 (SETENTA PESOS 00/100 M.N.), por hoja;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Apostillar documentos, $377.00 (TRESCIENTOS SETENTA Y SIETE PESOS 00/100 M.N.);
+II. Apostillar documentos, $396.00 (TRESCIENTOS NOVENTA Y SEIS PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-III. Presentación de examen para obtener patente de aspirante a notario, $62,612.00 (SESENTA Y DOS MIL SEISCIENTOS DOCE PESOS 00/100 M.N.);
+III. Presentación de examen para obtener patente de aspirante a notario, $65,743.00 (SESENTA Y CINCO MIL SETECIENTOS CUARENTA Y TRES PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-III-A. Presentación de examen de Notario Adjunto $12,607.00 (DOCE MIL SEISCIENTOS SIETE PESOS 00/100 M.N.).
+III-A. Presentación de examen de Notario Adjunto $13,237.00 (TRECE MIL DOSCIENTOS TREINTA Y SIETE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-IV. Expedición de patente de aspirante a notario, $84,483.00 (OCHENTA Y CUATRO MIL CATROCIENTOS (SIC) OCHENTA Y TRES PESOS 00/100 M.N.);
+IV. Expedición de patente de aspirante a notario, $88,707.00 (OCHENTA Y OCHO MIL SETECIENTOS SIETE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-V. Presentación de examen de selección para obtener la expedición de Fiat Notarial, $104,358.00 (CIENTO CUATRO MIL TRESCIENTOS CINCUENTA Y OCHO PESOS 00/100 M.N.);
+V. Presentación de examen de selección para obtener la expedición de Fiat Notarial, $109,575.00 (CIENTO NUEVE MIL QUINIENTOS SETENTA Y CINCO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-V-A. Designación de Notario Adjunto $31,518.00 (TREINTA Y UN MIL QUINIENTOS DIECIOCHO PESOS 00/100 M.N.).
+V-A. Designación de Notario Adjunto $33,094.00 (TREINTA Y TRES MIL NOVENTA Y CUATRO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VI. Expedición de Fiat Notarial, $522,992.00 (QUINIENTOS VEINTIDÓS MIL NOVECIENTOS NOVENTA Y DOS PESOS 00/100 M.N.);
+VI. Expedición de Fiat Notarial, $549,142.00 (QUINIENTOS CUARENTA Y NUEVE MIL CIENTO CUARENTA Y DOS PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VII. Expedición de constancia de Función Notarial, $844.00 (OCHOCIENTOS CUARENTA Y CUATRO PESOS 00/100 M.N.);
+VII. Expedición de constancia de Función Notarial, $886.00 (OCHOCIENTOS OCHENTA Y SEIS PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VIII. Expedición de certificados de necesidad, para adquisición de terrenos que hagan las sociedades mercantiles, según lo establecido en el artículo 27, fracción IV de la Constitución Política de los Estados Unidos Mexicanos, $8,368.00 (OCHO MIL TRESCIENTOS SESENTA Y OCHO PESOS 00/100 M.N.);
+VIII. Expedición de certificados de necesidad, para adquisición de terrenos que hagan las sociedades mercantiles, según lo establecido en el artículo 27, fracción IV de la Constitución Política de los Estados Unidos Mexicanos, $8,786.00 (OCHO MIL SETECIENTOS OCHENTA Y SEIS PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-IX. Por la revisión de documentos requeridos para la celebración de eventos tradicionales $2,090.00 (DOS MIL NOVENTA PESOS 00/100 M.N.);
+IX. Por la revisión de documentos requeridos para la celebración de eventos tradicionales $2,194.00 (DOS MIL CIENTO NOVENTA Y CUATRO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-X. Legalización de firmas en cualquier documento, $321.00 (TRESCIENTOS VEINTIÚN PESOS 00/100 M.N.), por firma;
+X. Legalización de firmas en cualquier documento, $337.00 (TRESCIENTOS TREINTA Y SIETE PESOS 00/100 M.N.), por firma;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XI. Expedición de copias certificadas de constancias existentes en las Oficinas Públicas: primera hoja $66.00 (SESENTA Y SEIS PESOS 00/100 M.N.); cada hoja subsecuente $5.00 (CINCO PESOS 00/100 M.N.);
+XI. Expedición de copias certificadas de constancias existentes en las Oficinas Públicas: primera hoja $69.00 (SESENTA Y NUEVE PESOS 00/100 M.N.); cada hoja subsecuente $5.00 (CINCO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XII. Certificaciones de hechos ocurridos en presencia de la autoridad: primera hoja $66.00 (SESENTA Y SEIS PESOS 00/100 M.N.); cada hoja subsecuente $5.00 (CINCO PESOS 00/100 M.N.);
+XII. Certificaciones de hechos ocurridos en presencia de la autoridad: primera hoja $69.00 (SESENTA Y NUEVE 00/100 M.N.); cada hoja subsecuente $5.00 (CINCO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XIII. Legalización de firmas de notarios, de funcionarios estatales y municipales y de documentos del registro civil, $321.00 (TRESCIENTOS VEINTIÚN PESOS 00/100 M.N.) por firma;
+XIII. Legalización de firmas de notarios, de funcionarios estatales y municipales y de documentos del registro civil, $337.00 (TRESCIENTOS TREINTA Y SIETE PESOS 00/100 M.N.) por firma;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XIV. Exhorto y legalización de firmas de éste a otro Estado, $760.00 (SETECIENTOS SESENTA PESOS 00/100 M.N.);
+XIV. Exhorto y legalización de firmas de éste a otro Estado, $798.00 (SETECIENTOS NOVENTA Y OCHO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XV. Exhorto de otro Estado a éste, $810.00 (OCHOCIENTOS DIEZ PESOS 00/100 M.N.);
+XV. Exhorto de otro Estado a éste, $850.00 (OCHOCIENTOS CINCUENTA PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XVI. Búsqueda de antecedentes notariales por año o por notario y de testamento, $414.00 (CUATROCIENTOS CATORCE PESOS 00/100 M.N.);
+XVI. Búsqueda de antecedentes notariales por año o por notario, $435.00 (CUATROCIENTOS TREINTA Y CINCO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XVII. Expedición de testimonios de instrumentos notariales hasta por 10 hojas, $3,129.00 (TRES MIL CIENTO VEINTINUEVE PESOS 00/100 M.N.); por hoja adicional de los testimonios $260.00 (DOSCIENTOS SESENTA PESOS 00/100 M.N.);
+XVII. Expedición de testimonios de instrumentos notariales hasta por 10 hojas, $3,285.00 (TRES MIL DOSCIENTOS OCHENTA Y CINCO PESOS 00/100 M.N.); por hoja adicional de los testimonios $273.00 (DOSCIENTOS SETENTA Y TRES PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XVIII. Expedición de segundos testimonios que obren en la Dirección de Notarías, $539.00 (QUINIENTOS TREINTA Y NUEVE PESOS 00/100 M.N.);
+XVIII. Expedición de segundos testimonios que obren en la Dirección de Notarías, $566.00 (QUINIENTOS SESENTA Y SEIS PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XIX. Certificación de existencia o inexistencia de testamento por testador, $429.00 (CUATROCIENTOS VEINTINUEVE PESOS 00/100 M.N.).
+XIX. Certificación de existencia o inexistencia de testamento por testador, $450.00 (CUATROCIENTOS CINCUENTA PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XX. Expedición de copias certificadas de instrumentos notariales, $200.00 (DOSCIENTOS PESOS 00/100 M.N.), cada una de las primeras diez hojas y a partir de la onceava $100.00 (CIEN PESOS 00/100 M.N.) por hoja;
+XX. Expedición de copias certificadas de instrumentos notariales, $210.00 (DOSCIENTOS DIEZ PESOS 00/100 M.N.), cada una de las primeras diez hojas y a partir de la onceava $105.00 (CIENTO CINCO PESOS 00/100 M.N.) por hoja;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXI. Expedición de copias simples de instrumentos notariales, $100.00 (CIEN PESOS 00/100 M.N.), cada una de las primeras diez hojas y a partir de la onceava $50.00 CINCUENTA PESOS 00/100 M.N), por hoja;
+XXI. Expedición de copias simples de instrumentos notariales, $105.00 (CIENTO CINCO PESOS 00/100 M.N.), cada una de las primeras diez hojas y a partir de la onceava $52.00 (CINCUENTA Y DOS PESOS 00/100 M.N), por hoja;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXII. Expedición de copias certificadas de expedientes administrativos o personales de notarios, $50.00 (CINCUENTA PESOS 00/100 M.N.) por hoja;
+XXII. Expedición de copias certificadas de expedientes administrativos o personales de notarios, $52.00 (CINCUENTA Y DOS PESOS 00/100 M.N.) por hoja;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXIII. Peritajes desahogados en la Dirección de Notarias $2,000.00 (DOS MIL PESOS 00/100 M.N.).
+XXIII. Peritajes desahogados en la Dirección de Notarias $2,100.00 (DOS MIL CIEN PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXIV. Autorización para cambio de distrito notarial y/o autorización de cambio de Municipio, dentro del mismo distrito notarial, $417,384.00 (CUATROCIENTOS DIECISIETE MIL TRESCIENTOS OCHENTA Y CUATRO PESOS 00/100 M.N.);
+XXIV. Autorización para cambio de distrito notarial y/o autorización de cambio de Municipio, dentro del mismo distrito notarial, $438,253.00 (CUATROCIENTOS TREINTA Y OCHO MIL DOSCIENTOS CINCUENTA Y TRES PESOS 00/100 M.N.);
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
 XXIV-A. Expedición de credenciales:
 
-a) Para Notario $577.00 (QUINIENTOS SETENTA Y SIETE PESOS 00/100 M.N.), por dos años.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-b) Para gestor de Notario $462.00 (CUATROCIENTOS SESENTA Y DOS PESOS 00/100 M.N.).
+a) Para Notario $606.00 (SEISCIENTOS SEIS PESOS 00/100 M.N.), por dos años.
 
-c) Reposición de credencial para Notario o Gestor $398.00 (TRESCIENTOS NOVENTA Y OCHO PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+b) Para gestor de Notario $485.00 (CUATROCIENTOS OCHENTA Y CINCO PESOS 00/100 M.N.).
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+c) Reposición de credencial para Notario o Gestor $418.00 (CUATROCIENTOS DIECIOCHO PESOS 00/100 M.N.).
+
+(REPUBLICADA, P.O. 26 DE DICIEMBRE DE 2023)
 
 XXIV-B. Expedición a Notarios de folios para la integración de Protocolos y Testimonios $5.00 (CINCO PESOS 00/100 M.N.) por folio.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXIV-C. Licencias para suspender el ejercicio de la función notarial, $5,772.00 (CINCO MIL SETECIENTOS SETENTA Y DOS PESOS 00/100 M.N.), por año. Aquellos notarios públicos que requieran suspender el ejercicio de la función notarial para ocupar un cargo de elección popular o un puesto como servidor público en el Estado de Coahuila de Zaragoza y en caso de enfermedad o incapacidad debidamente acreditada, la licencia a que se refiere esta fracción no tendrá costo.
+XXIV-C. Licencias para suspender el ejercicio de la función notarial, $6,060.00 (SEIS MIL SESENTA PESOS 00/100 M.N.), por año. Aquellos notarios públicos que requieran suspender el ejercicio de la función notarial para ocupar un cargo de elección popular o un puesto como servidor público en el Estado de Coahuila de Zaragoza y en caso de enfermedad o incapacidad debidamente acreditada, la licencia a que se refiere esta fracción no tendrá costo.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXIV-D. Expedición de constancia de actualización de conocimientos para ejercer la función notarial $808.00 (OCHOCIENTOS OCHO PESOS 00/100 M.N.).
+XXIV-D. Expedición de constancia de actualización de conocimientos para ejercer la función notarial $848.00 (OCHOCIENTOS CUARENTA Y OCHO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXV. Autorización de exhumación de cadáveres para ser reinhumados en el mismo panteón $424.00 (CUATROCIENTOS VEINTICUATRO PESOS 00/100 M.N.);
+XXV. Autorización de exhumación de cadáveres para ser reinhumados en el mismo panteón $445.00 (CUATROCIENTOS CUARENTA Y CINCO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXVI. Autorización para la exhumación de cadáveres para ser reinhumados en otro panteón dentro del mismo municipio $556.00 (QUINIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.);
+XXVI. Autorización para la exhumación de cadáveres para ser reinhumados en otro panteón dentro del mismo municipio $583.00 (QUINIENTOS OCHENTA Y TRES PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXVII. Autorización para la exhumación de cadáveres para ser reinhumados en otros municipios del Estado $708.00 (SETECIENTOS OCHO PESOS 00/100 M.N.);
+XXVII. Autorización para la exhumación de cadáveres para ser reinhumados en otros municipios del Estado $743.00 (SETECIENTOS CUARENTA Y TRES PESOS 00/100 M.N.);
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXVIII. Autorización para la exhumación de cadáveres para ser reinhumados fuera del Estado $1,061.00 (UN MIL SESENTA Y UN PESOS 00/100 M.N.);
+XXVIII. Autorización para la exhumación de cadáveres para ser reinhumados fuera del Estado $1,114.00 (UN MIL CIENTO CATORCE PESOS 00/100 M.N.);
 
 Las autorizaciones a que se refieren las fracciones XXV, XXVI, XXVII y XXVIII se expedirán previo cumplimiento de los requisitos exigidos por la Ley Estatal de Salud;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXIX. Por el trámite de pasaporte ordinario mexicano que se realice en las oficinas de enlace con la Secretaría de Relaciones Exteriores, $1,638.00 (UN MIL SEISCIENTOS TREINTA Y OCHO PESOS 00/100 M.N.).
+XXIX. Por el trámite de pasaporte ordinario mexicano que se realice en las oficinas de enlace con la Secretaría de Relaciones Exteriores, $1,720.00 (UN MIL SETECIENTOS VEINTE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXX. Por el trámite del permiso a que se refiere el artículo 27 Constitucional que se realice en las oficinas de enlace con la Secretaría de Relaciones Exteriores, $488.00 (CUATROCIENTOS OCHENTA Y OCHO PESOS 00/100 M.N.), y
+XXX. Por el trámite del permiso a que se refiere el artículo 27 Constitucional que se realice en las oficinas de enlace con la Secretaría de Relaciones Exteriores, $512.00 (QUINIENTOS DOCE PESOS 00/100 M.N.), y
 
 (REPUBLICADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2022)
 
@@ -1563,41 +1601,41 @@ XXXI. Por los Derechos que presta la Subsecretaría de Protección Civil:
 
 2. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-3. Ingreso y revisión de programas de prevención de accidentes, población afectable de 1-10 personas; $508.00 (QUINIENTOS OCHO PESOS 00/100 M.N.);
+3. Ingreso y revisión de programas de prevención de accidentes, población afectable de 1-10 personas; $533.00 (QUINIENTOS TREINTA Y TRES PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-4. Ingreso y revisión de Programas de Prevención de Accidentes, población afectable 11-50 personas, $1,975.00 (UN MIL NOVECIENTOS SETENTA Y CINCO PESOS 00/100 M.N.);
+4. Ingreso y revisión de Programas de Prevención de Accidentes, población afectable 11-50 personas, $2,074.00 (DOS MIL SETENTA Y CUATRO PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-5. Ingreso y revisión de programas de prevención de accidentes, población afectable 51-100 personas; $4,924.00 (CUATRO MIL NOVECIENTOS VEINTICUATRO PESOS 00/100 M.N.);
+5. Ingreso y revisión de programas de prevención de accidentes, población afectable 51-100 personas; $5,170.00 (CINCO MIL CIENTO SETENTA PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-6. Ingreso y revisión de programas de prevención de accidentes, población afectable 101-500 personas; $9,856.00 (NUEVE MIL OCHOCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.);
+6. Ingreso y revisión de programas de prevención de accidentes, población afectable 101-500 personas; $10,349.00 (DIEZ MIL TRESCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-7. Ingreso y revisión de programas de prevención de accidentes, población afectable 501 personas en adelante, $24,634.00 (VEINTICUATRO MIL SEISCIENTOS TREINTA Y CUATRO PESOS 00/100 M.N.);
+7. Ingreso y revisión de programas de prevención de accidentes, población afectable 501 personas en adelante, $25,866.00 (VEINTICINCO MIL OCHOCIENTOS SESENTA Y SEIS PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-8. Inspección solicitada en materia de protección civil, $8,436.00 (OCHO MIL CUATROCIENTOS TREINTA Y SEIS PESOS 00/100 M.N.);
+8. Inspección solicitada en materia de protección civil, $8,858.00 (OCHO MIL OCHOCIENTOS CINCUENTA Y OCHO PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-9. Constancia de factibilidad en materia de protección civil de inicio y de construcción $8,814.00 (OCHO MIL OCHOCIENTOS CATORCE PESOS 00/100 M.N.);
+9. Constancia de factibilidad en materia de protección civil de inicio y de construcción $9,255.00 (NUEVE MIL DOSCIENTOS CINCUENTA Y CINCO PESOS 00/100 M.N.);
 
 10. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 11. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-12. Registro como empresas, consultorías y personas físicas que se dediquen a prestar servicios en materia de protección civil $16,871.00 (DIECISEIS MIL OCHOCIENTOS SETENTA Y UN PESOS 00/100 M.N.);
+12. Registro como empresas, consultorías y personas físicas que se dediquen a prestar servicios en materia de protección civil $17,715.00 (DIECISIETE MIL SETECIENTOS QUINCE PESOS 00/100 M.N.);
 
 13. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
@@ -1611,29 +1649,29 @@ XXXI. Por los Derechos que presta la Subsecretaría de Protección Civil:
 
 18. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-19. Autorizaciones en materia de explosivos, $16,871.00 (DIECISEIS MIL OCHOCIENTOS SETENTA Y UN PESOS 00/100 M.N.);
+19. Autorizaciones en materia de explosivos, $17,715.00 (DIECISIETE MIL SETECIENTOS QUINCE PESOS 00/100 M.N.);
 
 XXXII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 XXXIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXXIV. Por otros servicios no especificados, $411.00 (CUATROCIENTOS ONCE PESOS 00/100 M.N.).
+XXXIV. Por otros servicios no especificados, $432.00 (CUATROCIENTOS TREINTA Y DOS PESOS 00/100 M.N.).
 
 (REPUBLICADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2021)
 
 XXXV. Por servicios prestados por el Centro Estatal de Evaluación y Control de Confianza.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-a) Por la aplicación de exámenes de control de confianza $8,662.00 (OCHO MIL SEISCIENTOS SESENTA Y DOS PESOS 00/100 M.N.);
+a) Por la aplicación de exámenes de control de confianza $9,095.00 (NUEVE MIL NOVENTA Y CINCO PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-b) Evaluación de portación de arma de fuego, $1,154.00 (UN MIL CIENTO CINCUENTA Y CUATRO PESOS 00/100 M.N.).
+b) Evaluación de portación de arma de fuego, $1,212.00 (UN MIL DOSCIENTOS DOCE PESOS 00/100 M.N.).
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 88], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -1667,55 +1705,55 @@ TARIFA
 
 I. Avisos judiciales y administrativos:
 
-(REPUBLICADO, P.O. 27 DE DICIEMBRE DE 2022)
+(REPUBLICADO, P.O. 26 DE DICIEMBRE DE 2023)
 
 1. Por cada palabra en primera o única inserción, $2.00 (DOS PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+(REPUBLICADO, P.O. 26 DE DICIEMBRE DE 2023)
 
 2. Por cada palabra en inserciones subsecuentes, $2.00 (DOS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Por publicación de aviso de registro de fierro de herrar, arete o collar o cancelación de los mismos, señal de sangre o venta, $842.00 (OCHOCIENTOS CUARENTA Y DOS PESOS 00/100 M.N.);
+II. Por publicación de aviso de registro de fierro de herrar, arete o collar o cancelación de los mismos, señal de sangre o venta, $884.00 (OCHOCIENTOS OCHENTA Y CUATRO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-III. Publicación de balances o estados financieros, $1,147.00 (UN MIL CIENTO CUARENTA Y SIETE PESOS 00/100 M.N.);
+III. Publicación de balances o estados financieros, $1,204.00 (UN MIL DOSCIENTOS CUATRO PESOS 00/100 M.N.);
 
 IV. Suscripciones:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. Por un año, $3,138.00 (TRES MIL CIENTO TREINTA Y OCHO PESOS 00/100 M.N.).
+1. Por un año, $3,295.00 (TRES MIL DOSCIENTOS NOVENTA Y CINCO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. Por seis meses, $1,570.00 (UN MIL QUINIENTOS SETENTA PESOS 00/100 M.N.).
+2. Por seis meses, $1,648.00 (UN MIL SEISCIENTOS CUARENTA Y OCHO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-3. Por tres meses, $829.00 (OCHOCIENTOS VEINTINUEVE PESOS 00/100 M.N.).
+3. Por tres meses, $870.00 (OCHOCIENTOS SETENTA PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-V. Número del día, $33.00 (TREINTA Y TRES PESOS 00/100 M.N.);
+V. Número del día, $35.00 (TREINTA Y CINCO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VI. Números atrasados hasta 6 años, $118.00 (CIENTO DIECIOCHO PESOS 00/100 M.N.);
+VI. Números atrasados hasta 6 años, $124.00 (CIENTO VEINTICUATRO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VII. Números atrasados de más de 6 años, $236.00 (DOSCIENTOS TREINTA Y SEIS PESOS 00/100 M.N.);
+VII. Números atrasados de más de 6 años, $248.00 (DOSCIENTOS CUARENTA Y OCHO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VIII. Códigos, leyes, reglamentos, suplementos o ediciones de más de 24 páginas, $423.00 (CUATROCIENTOS VEINTITRÉS PESOS 00/100 M.N.).
+VIII. Códigos, leyes, reglamentos, suplementos o ediciones de más de 24 páginas, $444.00 (CUATROCIENTOS CUARENTA Y CUATRO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-IX. Por costo de tipografía relativa a los fierros de registro, arete o collar por cada figura, $842.00 (OCHOCIENTOS CUARENTA Y DOS PESOS 00/100 M.N.);
+IX. Por costo de tipografía relativa a los fierros de registro, arete o collar por cada figura, $884.00 (OCHOCIENTOS OCHENTA Y CUATRO PESOS 00/100 M.N.);
 
 El pago de las cuotas establecidas en la fracción IV, darán derecho a que el contribuyente reciba por la suscripción, todos los ejemplares incluyendo Códigos, Leyes y Reglamentos.
 
@@ -1917,37 +1955,37 @@ La expedición de licencia para el funcionamiento de establecimientos que enajen
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-I. Distribuidor de cerveza o vinos, ladies bar, cabaret, discoteca bar, centro de entretenimiento con apuestas, video bar, salón de baile, casa de huéspedes, hoteles de paso y moteles de paso $360,970.00 (TRESCIENTOS SESENTA MIL NOVECIENTOS SETENTA PESOS 00/100 M.N.);
+I. Distribuidor de cerveza o vinos, ladies bar, cabaret, discoteca bar, centro de entretenimiento con apuestas, video bar, salón de baile, casa de huéspedes, hoteles de paso y moteles de paso $379,018.00 (TRESCIENTOS SETENTA Y NUEVE MIL DIECIOCHO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Tienda de autoservicio $143,697.00 (CIENTO CUARENTA Y TRES MIL SEISCIENTOS NOVENTA Y SIETE PESOS 00/100 M.N.);
+II. Tienda de autoservicio $150,882.00 (CIENTO CINCUENTA MIL OCHOCIENTOS OCHENTA Y DOS PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-III. Restaurante bar, restaurantes y estadios $115,511.00 (CIENTO QUINCE MIL QUINIENTOS ONCE PESOS 00/100 M.N.);
+III. Restaurante bar, restaurantes y estadios $121,287.00 (CIENTO VEINTIÚN MIL DOSCIENTOS OCHENTA Y SIETE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-IV. Supermercados, agencias y cantina o bar $79,138.00 (SETENTA Y NUEVE MIL CIENTO TREINTA Y OCHO PESOS 00/100 M.N.);
+IV. Supermercados, agencias y cantina o bar $83,095.00 (OCHENTA Y TRES MIL NOVENTA Y CINCO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-V. Expendio de vinos y licores, tiendas de abarrotes, minisúper, casinos, clubes sociales y deportivos, círculos sociales y semejantes, billares y boliches, hoteles, salón de fiesta y subagencia $59,198.00 (CINCUENTA Y NUEVE MIL CIENTO NOVENTA Y OCHO PESOS 00/100 M.N.);
+V. Expendio de vinos y licores, tiendas de abarrotes, minisúper, casinos, clubes sociales y deportivos, círculos sociales y semejantes, billares y boliches, hoteles, salón de fiesta y subagencia $62,158.00 (SESENTA Y DOS MIL CIENTO CINCUENTA Y OCHO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VI. Cervecerías, depósitos de cerveza y otros establecimientos en los que únicamente se enajene cerveza, $40,428.00 (CUARENTA MIL CUATROCIENTOS VEINTIOCHO PESOS 00/100 M.N.);
+VI. Cervecerías, depósitos de cerveza y otros establecimientos en los que únicamente se enajene cerveza, $42,449.00 (CUARENTA Y DOS MIL CUATROCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VII. Fonda, taquerías y otros de naturaleza análoga $33,208.00 (TREINTA Y TRES MIL DOSCIENTOS OCHO PESOS 00/100 M.N.);
+VII. Fonda, taquerías y otros de naturaleza análoga $34,868.00 (TREINTA Y CUATRO MIL OCHOCIENTOS SESENTA Y OCHO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VIII. Misceláneas $28,038.00 (VEINTIOCHO MIL TREINTA Y OCHO PESOS 00/100 M.N.);
+VIII. Misceláneas $29,440.00 (VEINTINUEVE MIL CUATROCIENTOS CUARENTA PESOS 00/100 M.N.);
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
@@ -1965,11 +2003,11 @@ La entrega a domicilio de las bebidas alcohólicas, podrá realizarse por medio 
 
 Esta licencia adicional tendrá vigencia anual, por lo que en su caso deberá solicitarse su revalidación en los primeros tres meses de cada ejercicio fiscal.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 87-B.
 
-La licencia adicional a que se refiere el artículo anterior tendrá un costo de $9,756.00 (NUEVE MIL SETECIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.).
+La licencia adicional a que se refiere el artículo anterior tendrá un costo de $10,243.00 (DIEZ MIL DOSCIENTOS CUARENTA Y TRES PESOS 00/100 M.N.).
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 106], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -1985,11 +2023,11 @@ El permiso únicamente será válido por el tiempo y en el lugar para el cual fu
 
 #### SECCION SEGUNDA. DE LAS REVALIDACIONES DE LICENCIAS PARA ESTABLECIMIENTOS QUE EXPENDEN BEBIDAS ALCOHOLICAS
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 89.
 
-La expedición de la revalidación anual para el funcionamiento de establecimientos que enajenen bebidas alcohólicas o que presten servicios en los que se expendan dichas bebidas, causarán derechos por la cantidad de $13,320.00 (TRECE MIL TRESCIENTOS VEINTE PESOS 00/100 M.N.).
+La expedición de la revalidación anual para el funcionamiento de establecimientos que enajenen bebidas alcohólicas o que presten servicios en los que se expendan dichas bebidas, causarán derechos por la cantidad de $13,986.00 (TRECE MIL NOVECIENTOS OCHENTA Y SEIS PESOS 00/100 M.N.).
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 108], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -2049,45 +2087,45 @@ TARIFA
 
 I. Expedición de tarjetas de circulación y calcomanía con número identificatorio o refrendo anual:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. Refrendo para automóviles, camiones, camionetas, remolques, motocicletas, motocicletas todo terreno de cuatro llantas o vehículos utilitarios recreacionales, así como vehículos de servicio público en todas sus modalidades, $2,109.00 (DOS MIL CIENTO NUEVE PESOS 00/100 M.N.).
+1. Refrendo para automóviles, camiones, camionetas, remolques, motocicletas, motocicletas todo terreno de cuatro llantas o vehículos utilitarios recreacionales, así como vehículos de servicio público en todas sus modalidades, $2,214.00 (DOS MIL DOSCIENTOS CATORCE PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. Los vehículos de carga de tres o más toneladas, ómnibus y tractores no agrícolas tipo quinta rueda, además de la cuota que les corresponde conforme al inciso anterior, deberán pagar la cantidad de $1,198.00 (UN MIL CIENTO NOVENTA Y OCHO PESOS 00/100 M.N.) con el refrendo anual, a excepción de los vehículos que presten el servicio público de pasajeros o carga, mediante concesión otorgada por las autoridades estatales o municipales.
+2. Los vehículos de carga de tres o más toneladas, ómnibus y tractores no agrícolas tipo quinta rueda, además de la cuota que les corresponde conforme al inciso anterior, deberán pagar la cantidad de $1,258.00 (UN MIL DOSCIENTOS CINCUENTA Y OCHO PESOS 00/100 M.N.) con el refrendo anual, a excepción de los vehículos que presten el servicio público de pasajeros o carga, mediante concesión otorgada por las autoridades estatales o municipales.
 
 Los ingresos que se generen conforme al inciso anterior, deberán destinarse para programas de rehabilitación y mejoramiento de las vías de comunicación.
 
 3. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-4. Reposición por pérdida de la tarjeta de circulación, $132.00 (CIENTO TREINTA Y DOS PESOS 00/100 M.N.).
+4. Reposición por pérdida de la tarjeta de circulación, $139.00 (CIENTO TREINTA Y NUEVE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Expedición de juego de placas para demostración de vehículos $3,494.00 (TRES MIL CUATROCIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.);
+II. Expedición de juego de placas para demostración de vehículos $3,669.00 (TRES MIL SEISCIENTOS SESENTA Y NUEVE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II-A. Refrendo anual de placas para demostración de vehículos $3,110.00 (TRES MIL CIENTO DIEZ PESOS 00/100 M.N.);
+II-A. Refrendo anual de placas para demostración de vehículos $3,265.00 (TRES MIL DOSCIENTOS SESENTA Y CINCO PESOS 00/100 M.N.);
 
 III. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2022)
 
 IV. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2022)
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-V. Constancia de Registro Vehicular $431.00 (CUATROCIENTOS TREINTA Y UN PESOS 00/100 M.N).
+V. Constancia de Registro Vehicular $453.00 (CUATROCIENTOS CINCUENTA Y TRES PESOS 00/100 M.N).
 
 (REPUBLICADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2022)
 
 VI. Dotación de placas metálicas con número identificatorio y con vigencia de tres años, para los vehículos siguientes:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. Automóviles, motocicleta, motocicleta todo terreno de cuatro llantas, vehículo utilitario recreacional, camiones y camionetas, vehículos de servicio público y Remolques $1,011.00 (UN MIL ONCE PESOS 00/100 M.N.);
+1. Automóviles, motocicleta, motocicleta todo terreno de cuatro llantas, vehículo utilitario recreacional, camiones y camionetas, vehículos de servicio público y Remolques $1,062.00 (UN MIL SESENTA Y DOS PESOS 00/100 M.N.);
 
 > <small>(REFORMADO [N. DE E. ADICIONADO CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2117,23 +2155,23 @@ Para el otorgamiento del tarjetón que se describe en el párrafo que antecede, 
 
 En el caso de que el contribuyente adquiera placas metálicas con número identificatorio, además deberá pagar los derechos por la expedición de la tarjeta de circulación y la calcomanía con número identificatorio.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VII. Por la obtención de un número de placas específico (sujeto a disponibilidad) $4,945.00 (CUATRO MIL NOVECIENTOS CUARENTA Y CINCO PESOS 00/100 M.N.).
+VII. Por la obtención de un número de placas específico (sujeto a disponibilidad) $5,192.00 (CINCO MIL CIENTO NOVENTA Y DOS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VIII. Expedición de permiso provisional para circular sin placas, hasta por un plazo que no podrá exceder de treinta días, $842.00 (OCHOCIENTOS CUARENTA Y DOS PESOS 00/100 M.N.), este permiso se expedirá por una sola ocasión;
+VIII. Expedición de permiso provisional para circular sin placas, hasta por un plazo que no podrá exceder de treinta días, $884.00 (OCHOCIENTOS OCHENTA Y CUATRO PESOS 00/100 M.N.), este permiso se expedirá por una sola ocasión;
 
 IX. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-X. Expedición de constancia o certificación de documentos relativos a derechos de control vehicular, $66.00 (SESENTA Y SEIS PESOS 00/100 M.N.); por la primera hoja y $5.00 (CINCO PESOS 00/100 M.N.) por hoja adicional.
+X. Expedición de constancia o certificación de documentos relativos a derechos de control vehicular, $69.00 (SESENTA Y NUEVE PESOS 00/100 M.N.); por la primera hoja y $5.00 (CINCO PESOS 00/100 M.N.) por hoja adicional.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XI. La baja de placas del Estado y de otros Estados $14.00. (CATORCE PESOS 00/100 M.N.).
+XI. La baja de placas del Estado y de otros Estados $15.00. (QUINCE PESOS 00/100 M.N.).
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -2231,21 +2269,21 @@ Los demás servicios que presta la Secretaría de Finanzas a través de sus Unid
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-I. Certificaciones, $66.00 (SESENTA Y SEIS PESOS 00/100 M.N.), por la primera hoja; $5.00 (CINCO PESOS 00/100 M.N.), por hoja adicional;
+I. Certificaciones, $69.00 (SESENTA Y NUEVE PESOS 00/100 M.N.), por la primera hoja; $5.00 (CINCO PESOS 00/100 M.N.), por hoja adicional;
 
-(REPUBLICADA, P.O. 27 DE DICIEMBRE DE 2022)
+(REPUBLICADA, P.O. 26 DE DICIEMBRE DE 2023)
 
 II. Expedición de copia simple, $5.00 (CINCO PESOS 00/100 M.N.), por hoja;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-III. Servicios periciales contables, $168.00 (CIENTO SESENTA Y OCHO PESOS 00/100 M.N.) por hora, por auditor; y
+III. Servicios periciales contables, $176.00 (CIENTO SETENTA Y SEIS PESOS 00/100 M.N.) por hora, por auditor; y
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-IV. Por revisión y validación de documentos en plataformas tecnológicas para los trámites en el padrón vehicular, $150.00 (CIENTO CINCUENTA PESOS 00/100), por cada uno.
+IV. Por revisión y validación de documentos en plataformas tecnológicas para los trámites en el padrón vehicular, $157.00 (CIENTO CINCUENTA Y SIETE PESOS 00/100), por cada uno.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
@@ -2263,29 +2301,29 @@ Los servicios prestados por la Administración Fiscal General, por el uso y/o ap
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-I. Automóvil, pick up, panel con o sin remolque y motos $152.00 (CIENTO CINCUENTA Y DOS PESOS 00/100 M.N.).
+I. Automóvil, pick up, panel con o sin remolque y motos $160.00 (CIENTO SESENTA PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Autobuses de pasajeros $218.00 (DOSCIENTOS DIECIOCHO PESOS 00/100 M.N.).
+II. Autobuses de pasajeros $229.00 (DOSCIENTOS VEINTINUEVE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-III. Camiones de 2 ejes $218.00 (DOSCIENTOS DIECIOCHO PESOS 00/100 M.N.).
+III. Camiones de 2 ejes $229.00 (DOSCIENTOS VEINTINUEVE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-IV. Camiones de 3 y 4 ejes $218.00 (DOSCIENTOS DIECIOCHO PESOS 00/100 M.N.).
+IV. Camiones de 3 y 4 ejes $229.00 (DOSCIENTOS VEINTINUEVE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-V. Camiones de 5 y 6 ejes $302.00 (TRESCIENTOS DOS PESOS 00/100 M.N.).
+V. Camiones de 5 y 6 ejes $317.00 (TRESCIENTOS DIECISIETE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VI. De más de 6 ejes $337.00 (TRESCIENTOS TREINTA Y SIETE PESOS 00/100 M.N.).
+VI. De más de 6 ejes $354.00 (TRESCIENTOS CINCUENTA Y CUATRO PESOS 00/100 M.N.).
 
 Las tarifas establecidas en este artículo deberán actualizarse trimestralmente, conforme al índice nacional de precios al consumidor, en términos del artículo 15-A del Código Fiscal para el Estado de Coahuila de Zaragoza.
 
@@ -2327,53 +2365,69 @@ I. Por los servicios que otorga la Comisión Estatal de Vivienda y Comisión Est
 
 A. Regularización de la Tenencia de la Tierra:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. Por la elaboración de escritura privada de predio o lote urbano se pagarán $939.00 (NOVECIENTOS TREINTA Y NUEVE PESOS 00/100 M.N.) por escritura;
+1. Por la elaboración de escritura privada de predio o lote urbano se pagarán $986.00 (NOVECIENTOS OCHENTA Y SEIS PESOS 00/100 M.N.) por escritura;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. Por la verificación de medidas de predios o lotes se pagarán $160.00 (CIENTO SESENTA PESOS 00/100 M.N.) por cada inmueble a verificar;
+2. Por la verificación de medidas de predios o lotes se pagarán $168.00 (CIENTO SESENTA Y OCHO PESOS 00/100 M.N.) por cada inmueble a verificar;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-3. Por la elaboración de plano manzanero se pagarán $78.00 (SETENTA Y OCHO PESOS 00/100 M.N.) por plano que comprenda un lote;
+3. Por la elaboración de plano manzanero se pagarán $82.00 (OCHENTA Y DOS PESOS 00/100 M.N.) por plano que comprenda un lote;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-4. Por la validación de cesión de derechos se pagarán $398.00 (TRESCIENTOS NOVENTA Y OCHO PESOS 00/100 M.N.) por predio o lote que ampare la cesión;
+4. Por la validación de cesión de derechos se pagarán $418.00 (CUATROCIENTOS DIECIOCHO PESOS 00/100 M.N.) por predio o lote que ampare la cesión;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-5. Por la constancia para trámite de predial se pagarán $78.00 (SETENTA Y OCHO PESOS 00/100 M.N.);
+5. Por la constancia para trámite de predial se pagarán $82.00 (OCHENTA Y DOS PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-6. Por la cancelación de escritura en proceso, a petición de parte, se pagarán $939.00 (NOVECIENTOS TREINTA Y NUEVE PESOS 00/100 M.N.);
+6. Por la cancelación de escritura en proceso, a petición de parte, se pagarán $986.00 (NOVECIENTOS OCHENTA Y SEIS PESOS 00/100 M.N.);
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
 7. Por escrituras privadas del Programa de Predios Rústicos para el Municipio de Saltillo:
 
-a. Predios/lotes de hasta 500 metros pagarán $5,565.00 (CINCO MIL QUINIENTOS SESENTA Y CINCO PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-b. Predios/lotes de más de 501 metros a 10 hectáreas, pagarán $7,952.00 (SIETE MIL NOVECIENTOS CINCUENTA Y DOS PESOS 00/100 M.N.);
+a. Predios/lotes de hasta 500 metros pagarán $5,843.00 (CINCO MIL OCHOCIENTOS CUARENTA Y TRES PESOS 00/100 M.N.);
 
-c. Predios/lotes de 10-00-01 hectáreas a 20 hectáreas, pagarán $11,134.00 (ONCE MIL CIENTO TREINTA Y CUATRO PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-d. Predios/lotes de 20-00-01 hectáreas a 30 hectáreas, pagarán $15,903.00 (QUINCE MIL NOVECIENTOS TRES PESOS 00/100 M.N.);
+b. Predios/lotes de más de 501 metros a 10 hectáreas, pagarán $8,350.00 (OCHO MIL TRESCIENTOS CINCUENTA PESOS 00/100 M.N.);
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+c. Predios/lotes de 10-00-01 hectáreas a 20 hectáreas, pagarán $11,690.00 (ONCE MIL SEISCIENTOS NOVENTA PESOS 00/100 M.N.);
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+d. Predios/lotes de 20-00-01 hectáreas a 30 hectáreas, pagarán $16,698.00 (DIECISÉIS MIL SEISCIENTOS NOVENTA Y OCHO PESOS 00/100 M.N.);
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
 8. Por escrituras privadas del Programa de Predios Rústicos para el resto del Estado:
 
-a. Predios/lotes con superficie hasta de 300 metros, pagarán $2,384.00 (DOS MIL TRESCIENTOS OCHENTA Y CUATRO PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-b. Predios/lotes con superficie de 301 metros hasta 10 hectáreas, pagarán $5,300.00 (CINCO MIL TRESCIENTOS PESOS 00/100 M.N.);
+a. Predios/lotes con superficie hasta de 300 metros, pagarán $2,503.00 (DOS MIL QUINIENTOS TRES PESOS 00/100 M.N.);
 
-c. Predios/lotes con superficie mayor de 10-00-01 hectáreas hasta 20 hectáreas, pagarán $7,952.00 (SIETE MIL NOVECIENTOS CINCUENTA Y DOS PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-d. Predios/lotes con superficie mayor de 20-00-01 hectáreas hasta 40 hectáreas, pagarán $12,723.00 (DOCE MIL SETECIENTOS VEINTITRÉS PESOS 00/100 M.N.);
+b. Predios/lotes con superficie de 301 metros hasta 10 hectáreas, pagarán $5,565.00 (CINCO MIL QUINIENTOS SESENTA Y CINCO PESOS 00/100 M.N.);
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+c. Predios/lotes con superficie mayor de 10-00-01 hectáreas hasta 20 hectáreas, pagarán $8,350.00 (OCHO MIL TRESCIENTOS CINCUENTA PESOS 00/100 M.N.);
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+d. Predios/lotes con superficie mayor de 20-00-01 hectáreas hasta 40 hectáreas, pagarán $13,359.00 (TRECE MIL TRESCIENTOS CINCUENTA Y NUEVE PESOS 00/100 M.N.);
 
 B. En materia inmobiliaria y de vivienda popular.
 
@@ -2381,35 +2435,45 @@ B. En materia inmobiliaria y de vivienda popular.
 
 1. Por la expedición del documento que contiene la información del predio y la constancia de pago del mismo denominada carta de liberación:
 
-a. Que correspondan a las colonias Jardines del Lago, Saltillo 400, Fundadores IV Sector y Asturias de Saltillo, Coahuila de Zaragoza, se pagarán $2,224.00 (DOS MIL DOSCIENTOS VEINTICUATRO PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-b. Que correspondan a las colonias Fundadores III Sector en Saltillo, colonia Latinoamericano en Torreón y la colonia Elsa Hernández en Monclova, Coahuila de Zaragoza, se pagarán $1,112.00 (UN MIL CIENTO DOCE PESOS 00/100 M.N.).
+a. Que correspondan a las colonias Jardines del Lago, Saltillo 400, Fundadores IV Sector y Asturias de Saltillo, Coahuila de Zaragoza, se pagarán $2,335.00 (DOS MIL TRESCIENTOS TREINTA Y CINCO PESOS 00/100 M.N.).
 
-c. Que correspondan a fraccionamientos distintos a los señalados en los dos apartados anteriores en todo el territorio del Estado, se pagarán $318.00 (TRESCIENTOS DIECIOCHO PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+b. Que correspondan a las colonias Fundadores III Sector en Saltillo, colonia Latinoamericano en Torreón y la colonia Elsa Hernández en Monclova, Coahuila de Zaragoza, se pagarán $1,168.00 (UN MIL CIENTO SESENTA Y OCHO PESOS 00/100 M.N.).
 
-2. Por la expedición de una carta de liberación actualizada que sustituye a la expedida en otra época, se pagarán $318.00 (TRESCIENTOS DIECIOCHO PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+c. Que correspondan a fraccionamientos distintos a los señalados en los dos apartados anteriores en todo el territorio del Estado, se pagarán $334.00 (TRESCIENTOS TREINTA Y CUATRO PESOS 00/100 M.N.).
 
-3. Por la expedición del documento en el que se contiene la información del predio y la constancia de pago del mismo, pero que es propiedad de algún Municipio del Estado, se expide la denominada carta de no adeudo, se pagarán $318.00 (TRESCIENTOS DIECIOCHO PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+2. Por la expedición de una carta de liberación actualizada que sustituye a la expedida en otra época, se pagarán $334.00 (TRESCIENTOS TREINTA Y CUATRO PESOS 00/100 M.N.).
 
-4. Por la expedición del croquis de ubicación de un predio, necesario para el trámite de número oficial ante los Municipios del Estado, se pagarán $160.00 (CIENTO SESENTA PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+3. Por la expedición del documento en el que se contiene la información del predio y la constancia de pago del mismo, pero que es propiedad de algún Municipio del Estado, se expide la denominada carta de no adeudo, se pagarán $334.00 (TRESCIENTOS TREINTA Y CUATRO PESOS 00/100 M.N.).
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+4. Por la expedición del croquis de ubicación de un predio, necesario para el trámite de número oficial ante los Municipios del Estado, se pagarán $168.00 (CIENTO SESENTA Y OCHO PESOS 00/100 M.N.);
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
 5. Por la elaboración del documento que contiene la manifestación de voluntad del propietario de un predio de ceder sus derechos como titular a favor de un tercero, documento denominado cesión de derechos:
 
-Cuando se trata de la cesión del primer titular del predio a un tercero, el costo será de $1,112.00 (UN MIL CIENTO DOCE PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-Cuando se trata de la cesión del segundo titular en adelante del predio a un tercero, el costo será de $7,952.00 (SIETE MIL NOVECIENTOS CINCUENTA Y DOS PESOS 00/100 M.N.);
+Cuando se trata de la cesión del primer titular del predio a un tercero, el costo será de $1,168.00 (UN MIL CIENTO SESENTA Y OCHO PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-6. Por la certificación de la documentación que obra en el expediente de la dependencia, correspondiente a la titularidad de una persona respecto a un predio y de la cual el titular no tiene constancia, denominada regularización de expediente, el costo será de $795.00 (SETECIENTOS NOVENTA Y CINCO 00/100 M.N.).
+Cuando se trata de la cesión del segundo titular en adelante del predio a un tercero, el costo será de $8,350.00 (OCHO MIL TRESCIENTOS CINCUENTA PESOS 00/100 M.N.);
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+6. Por la certificación de la documentación que obra en el expediente de la dependencia, correspondiente a la titularidad de una persona respecto a un predio y de la cual el titular no tiene constancia, denominada regularización de expediente, el costo será de $835.00 (OCHOCIENTOS TREINTA Y CINCO 00/100 M.N.).
 
 (REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE MARZO DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 128], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -2453,77 +2517,109 @@ TARIFA
 
 I. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2022)
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Tarjetón de identificación para operadores del servicio público de transporte, $475.00 (CUATROCIENTOS SETENTA Y CINCO PESOS 00/100 M.N).
+II. Tarjetón de identificación para operadores del servicio público de transporte, $499.00 (CUATROCIENTOS NOVENTA Y NUEVE PESOS 00/100 M.N).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II-A. Tarjetón de identificación para choferes de Empresas de Redes de Transporte $475.00 (CUATROCIENTOS SETENTA Y CINCO PESOS 00/100 M.N).
+II-A. Tarjetón de identificación para choferes de Empresas de Redes de Transporte $499.00 (CUATROCIENTOS NOVENTA Y NUEVE PESOS 00/100 M.N).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-III. Expedición de constancia o certificación de documentos relativos a derechos de control vehicular, $277.00 (DOSCIENTOS SETENTA Y SIETE PESOS 00/100 M.N.); y
+III. Expedición de constancia o certificación de documentos relativos a derechos de control vehicular, $291.00 (DOSCIENTOS NOVENTA Y UN PESOS 00/100 M.N.); y
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
 IV. Expedición de licencias para conducir vehículos:
 
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2023)
+
 1. Tipo A: Chofer particular:
 
-a) Con vigencia de dos años $591.00 (QUINIENTOS NOVENTA Y UN PESOS 00/100 M.N).
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-b) Con vigencia de cuatro años $840.00 (OCHOCIENTOS CUARENTA PESOS 00/100 M.N.).
+a) Con vigencia de dos años $621.00 (SEISCIENTOS VEINTIÚN PESOS 00/100 M.N).
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+b) Con vigencia de cuatro años $882.00 (OCHOCIENTOS OCHENTA Y DOS PESOS 00/100 M.N.).
+
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2023)
 
 2. Tipo B: Chofer de transporte público;
 
-a) Con vigencia de dos años $562.00 (QUINIENTOS SESENTA Y DOS PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-b) Con vigencia de cuatro años $840.00 (OCHOCIENTOS CUARENTA PESOS 00/100 M.N.).
+a) Con vigencia de dos años $590.00 (QUINIENTOS NOVENTA PESOS 00/100 M.N.).
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+b) Con vigencia de cuatro años $882.00 (OCHOCIENTOS OCHENTA Y DOS PESOS 00/100 M.N.).
+
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2023)
 
 3. Tipo C: Motociclista;
 
-a) Con vigencia de dos años $162.00 (CIENTO SESENTA Y DOS PESOS 00/100 M.N).
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-b) Con vigencia de cuatro años $230.00 (DOSCIENTOS TREINTA PESOS 00/100 M.N.).
+a) Con vigencia de dos años $170.00 (CIENTO SETENTA PESOS 00/100 M.N).
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+b) Con vigencia de cuatro años $241.00 (DOSCIENTOS CUARENTA Y UN PESOS 00/100 M.N.).
+
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2023)
 
 4. Tipo D: Chofer de empresas de redes de transporte:
 
-a) Con vigencia de dos años $868.00 (OCHOCIENTOS SESENTA Y OCHO PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-b) Con vigencia de cuatro años $1,303.00 (UN MIL TRESCIENTOS TRES PESOS 00/100 M.N.).
+a) Con vigencia de dos años $911.00 (NOVECIENTOS ONCE PESOS 00/100 M.N.).
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+b) Con vigencia de cuatro años $1,368.00 (UN MIL TRESCIENTOS SESENTA Y OCHO PESOS 00/100 M.N.).
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
 IV-A. Reposición por robo o extravío de licencias para conducir vehículos:
 
-1. Tipo A: Chofer particular, $419.00 (CUATROCIENTOS DIECINUEVE PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. Tipo B: Chofer de transporte público, $419.00 (CUATROCIENTOS DIECINUEVE PESOS 00/100 M.N.).
+1. Tipo A: Chofer particular, $440.00 (CUATROCIENTOS CUARENTA PESOS 00/100 M.N.).
 
-3. Tipo C: Motociclista, $115.00 (CIENTO QUINCE PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-4. Tipo D: Chofer de empresas de redes de transporte, $649.00 (SEISCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.).
+2. Tipo B: Chofer de transporte público, $440.00 (CUATROCIENTOS CUARENTA PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-V. Aplicación de Examen Teórico de conocimientos de las disposiciones reglamentarias de tránsito, $72.00 (SETENTA Y DOS PESOS 00/100 M.N.).
+3. Tipo C: Motociclista, $121.00 (CIENTO VEINTIÚN PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-V-A. Fotografía digitalizada en la licencia de conducir $60.00 (SESENTA PESOS 00/100 M.N.).
+4. Tipo D: Chofer de empresas de redes de transporte, $681.00 (SEISCIENTOS OCHENTA Y UN PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VI. Examen médico para demostrar aptitud física para obtener licencia de conducir $63.00 (SESENTA Y TRES PESOS 00/100 M.N.).
+V. Aplicación de Examen Teórico de conocimientos de las disposiciones reglamentarias de tránsito, $76.00 (SETENTA Y SEIS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VII. Por aplicación de examen psicométrico a operadores del servicio público de transporte $63.00 (SESENTA Y TRES PESOS 00/100 M.N.).
+V-A. Fotografía digitalizada en la licencia de conducir $63.00 (SESENTA Y TRES PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VIII. Certificado médico-toxicológico para operadores del servicio público de transporte, $377.00 (TRESCIENTOS SETENTA Y SIETE PESOS 00/100 M.N.).
+VI. Examen médico para demostrar aptitud física para obtener licencia de conducir $66.00 (SESENTA Y SEIS PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+VII. Por aplicación de examen psicométrico a operadores del servicio público de transporte $66.00 (SESENTA Y SEIS PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+VIII. Certificado médico-toxicológico para operadores del servicio público de transporte, $396.00 (TRESCIENTOS NOVENTA Y SEIS PESOS 00/100 M.N.).
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 132], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -2635,11 +2731,11 @@ II. Por el otorgamiento de permisos para la construcción de obras dentro del de
 
 12. Por el otorgamiento de permiso para la construcción de puentes vehiculares dentro del derecho de vía: 1% del costo total de la obra.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-III. Certificaciones, $61.00 (SESENTA Y UN PESOS 00/100 M.N.), por la primera hoja; $5.00 (CINCO PESOS 00/100 M.N.), por hoja adicional;
+III. Certificaciones, $64.00 (SESENTA Y CUATRO PESOS 00/100 M.N.), por la primera hoja; $5.00 (CINCO PESOS 00/100 M.N.), por hoja adicional;
 
-(REPUBLICADA, P.O. 27 DE DICIEMBRE DE 2022)
+(REPUBLICADA, P.O. 26 DE DICIEMBRE DE 2023)
 
 IV. Expedición de copia simple, $5.00 (CINCO PESOS 00/100 M.N.), por hoja;
 
@@ -2681,17 +2777,17 @@ I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2019)
 
 II. Concesión intermunicipal de transporte de pasajeros, hasta por treinta años:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. Expedición, por 30 años derivada de licitación, $48,389.00 (CUARENTA Y OCHO MIL TRESCIENTOS OCHENTA Y NUEVE PESOS 00/100 M.N.); y
+1. Expedición, por 30 años derivada de licitación, $50,808.00 (CINCUENTA MIL OCHOCIENTOS OCHO PESOS 00/100 M.N.); y
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. Renovación de concesión (prórroga de concesión por 30 años) $48,389.00 (CUARENTA Y OCHO MIL TRESCIENTOS OCHENTA Y NUEVE PESOS 00/100 M.N.);
+2. Renovación de concesión (prórroga de concesión por 30 años) $50,808.00 (CINCUENTA MIL OCHOCIENTOS OCHO PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-3. Refrendo anual, $4,472.00 (CUATRO MIL CUATROCIENTOS SETENTA Y DOS PESOS 00/100 M.N.).
+3. Refrendo anual, $4,696.00 (CUATRO MIL SEISCIENTOS NOVENTA Y SEIS PESOS 00/100 M.N.).
 
 > <small>(REFORMADA CON SUS NUMERALES, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -2701,153 +2797,153 @@ III. Concesión estatal para servicio de transporte de agua:
 
 2. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-3. Refrendo anual de concesión, $2,416.00 (DOS MIL CUATROCIENTOS DIECISÉIS PESOS 00/100 M.N.).
+3. Refrendo anual de concesión, $2,537.00 (DOS MIL QUINIENTOS TREINTA Y SIETE PESOS 00/100 M.N.).
 
 > <small>(REFORMADA CON SUS NUMERALES, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 IV. Permiso con vigencia de cinco años para servicio de transporte especializado escolar:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. Expedición, $4,687.00 (CUATRO MIL SEISCIENTOS OCHENTA Y SIETE PESOS 00/100 M.N.);
+1. Expedición, $4,921.00 (CUATRO MIL NOVECIENTOS VEINTIÚN PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. Refrendo $1,480.00 (UN MIL CUATROCIENTOS OCHENTA PESOS 00/100 M.N.); y
+2. Refrendo $1,554.00 (UN MIL QUINIENTOS CINCUENTA Y CUATRO PESOS 00/100 M.N.);
 
 > <small>(REFORMADA [N. DE E. CON SUS NUMERALES], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 V. Permiso con vigencia de cinco años para servicio de transporte especializado de personal.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. Expedición, $8,066.00 (OCHO MIL SESENTA Y SEIS PESOS 00/100 M.N.);
+1. Expedición, $8,469.00 (OCHO MIL CUATROCIENTOS SESENTA Y NUEVE PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. Refrendo $2,419.00 (DOS MIL CUATROCIENTOS DIECINUEVE PESOS 00/100 M.N.); y
+2. Refrendo $2,540.00 (DOS MIL QUINIENTOS CUARENTA PESOS 00/100 M.N.); y
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 VI. Permiso con vigencia de 5 años para el servicio de transporte de personal propio.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. Expedición, $3,509.00 (TRES MIL QUINIENTOS NUEVE PESOS 00/100 M.N.).
+1. Expedición, $3,684.00 (TRES MIL SEISCIENTOS OCHENTA Y CUATRO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. Refrendo anual $1,134.00 (UN MIL CIENTO TREINTA Y CUATRO PESOS 00/100 M/N).
+2. Refrendo anual $1,191.00 (UN MIL CIENTO NOVENTA Y UN PESOS 00/100 M/N).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VII. Permiso anual para transporte de carga especializada de materiales o residuos peligrosos, $3,344.00 (TRES MIL TRESCIENTOS CUARENTA Y CUATRO PESOS 00/100 M.N.);
+VII. Permiso anual para transporte de carga especializada de materiales o residuos peligrosos, $3,511.00 (TRES MIL QUINIENTOS ONCE PESOS 00/100 M.N.);
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 VIII. Permiso anual para servicio de transporte de carga:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. De comestibles, $1,653.00 (UN MIL SEISCIENTOS CINCUENTA Y TRES PESOS 00/100 M.N);
+1. De comestibles, $1,736.00 (UN MIL SETECIENTOS TREINTA Y SEIS PESOS 00/100 M.N);
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. De minerales, $4,184.00 (CUATRO MIL CIENTO OCHENTA Y CUATRO PESOS 00/100 M.N.);
+2. De minerales, $4,393.00 (CUATRO MIL TRESCIENTOS NOVENTA Y TRES PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-3. Distribuidores de materiales de construcción, $3,331.00 (TRES MIL TRESCIENTOS TREINTA Y UN PESOS 00/100 M.N.); y
+3. Distribuidores de materiales de construcción, $3,498.00 (TRES MIL CUATROCIENTOS NOVENTA Y OCHO PESOS 00/100 M.N.); y
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-4. Otros productos, $1,653.00 (UN MIL SEISCIENTOS CINCUENTA Y TRES PESOS 00/100 M.N);
+4. Otros productos, $1,736.00 (UN MIL SETECIENTOS TREINTA Y SEIS PESOS 00/100 M.N);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-IX. Permiso anual para grúas, $4,401.00 (CUATRO MIL CUATROCIENTOS UN PESOS 00/100 M.N.);
+IX. Permiso anual para grúas, $4,621.00 (CUATRO MIL SEISCIENTOS VEINTIÚN PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-X. Cesión o transmisión de concesiones, $4,184.00 (CUATRO MIL CIENTO OCHENTA Y CUATRO PESOS 00/100 M.N.);
+X. Cesión o transmisión de concesiones, $4,393.00 (CUATRO MIL TRESCIENTOS NOVENTA Y TRES PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XI. Autorización de nueva ruta $20,921.00 (VEINTE MIL NOVECIENTOS VEINTIÚN PESOS 00/100 M.N.);
+XI. Autorización de nueva ruta $21,967.00 (VEINTIÚN MIL NOVECIENTOS SESENTA Y SIETE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XII. Ampliación de ruta del servicio de transporte de pasajeros, $10,784.00 (DIEZ MIL SETECIENTOS OCHENTA Y CUATRO PESOS 00/100 M.N.);
+XII. Ampliación de ruta del servicio de transporte de pasajeros, $11,323.00 (ONCE MIL TRESCIENTOS VEINTITRÉS PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XIII. Permiso temporal hasta por treinta días naturales para prestar el servicio de transporte público, $1,060.00 (UN MIL SESENTA PESOS 00/100 M.N.);
+XIII. Permiso temporal hasta por treinta días naturales para prestar el servicio de transporte público, $1,113.00 (UN MIL CIENTO TRECE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XIV. Revisión físico-mecánica a vehículos de servicio público, $218.00 (DOSCIENTOS DIECIOCHO PESOS 00/100 M.N.);
+XIV. Revisión físico-mecánica a vehículos de servicio público, $229.00 (DOSCIENTOS VEINTINUEVE PESOS 00/100 M.N.);
 
 XV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XVI. Constancia de extravío de documentos $218.00 (DOSCIENTOS DIECIOCHO PESOS 00/100 M.N.); y
+XVI. Constancia de extravío de documentos $229.00 (DOSCIENTOS VEINTINUEVE PESOS 00/100 M.N.); y
 
 XVII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XVIII. Derecho de preferencia por parcela, $880.00 (OCHOCIENTOS OCHENTA PESOS 00/100 M.N.).
+XVIII. Derecho de preferencia por parcela, $924.00 (NOVECIENTOS VEINTICUATRO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XIX. Registro de Director responsable de obra y Corresponsable de obra por tres años, $2,529.00 (DOS MIL QUINIENTOS VEINTINUEVE PESOS 00/100 M.N.).
+XIX. Registro de Director responsable de obra y Corresponsable de obra por tres años, $2,655.00 (DOS MIL SEISCIENTOS CINCUENTA Y CINCO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XX. Registro con vigencia de 5 años para el funcionamiento de las empresas de redes de transporte, servicio entre particulares $34,040.00 (TREINTA Y CUATRO MIL CUARENTA PESOS 00/100 M.N.).
+XX. Registro con vigencia de 5 años para el funcionamiento de las empresas de redes de transporte, servicio entre particulares $35,742.00 (TREINTA Y CINCO MIL SETECIENTOS CUARENTA Y DOS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXI. Permiso anual para el transporte turístico $6,933.00 (SEIS MIL NOVECIENTOS TREINTA Y TRES PESOS 00/100 M.N.)
+XXI. Permiso anual para el transporte turístico $7,280.00 (SIETE MIL DOSCIENTOS OCHENTA PESOS 00/100 M.N.).
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2023)
 
 XXII. Permiso con vigencia de 5 años para el transporte de personas con discapacidad:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. Expedición, $3,655.00 (TRES MIL SEISCIENTOS CINCUENTA Y CINCO PESOS 00/100 M.N.)
+1. Expedición, $3,838.00 (TRES MIL OCHOCIENTOS TREINTA Y OCHO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. Refrendo anual $2,270.00 (DOS MIL DOSCIENTOS SETENTA PESOS 00/100 M.N.).
+2. Refrendo anual $2,383.00 (DOS MIL TRESCIENTOS OCHENTA Y TRES PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXIII. Permiso anual para ambulancias $1,512.00 (UN MIL QUINIENTOS DOCE PESOS 00/100 M.N.)
+XXIII. Permiso anual para ambulancias $1,588.00 (UN MIL QUINIENTOS OCHENTA Y OCHO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXIV. Permiso anual para el transporte ejecutivo $2,269.00 (DOS MIL DOSCIENTOS SESENTA Y NUEVE PESOS 00/100 M.N.).
+XXIV. Permiso anual para el transporte ejecutivo $2,382.00 (DOS MIL TRESCIENTOS OCHENTA Y DOS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXV. Permiso anual para el transporte mixto y de pasaje $1,386.00 (UN MIL TRESCIENTOS OCHENTA Y SEIS PESOS 00/100 M.N.)
+XXV. Permiso anual para el transporte mixto y de pasaje $1,455.00 (UN MIL CUATROCIENTOS CINCUENTA Y CINCO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXVI. Permiso anual para el transporte de carga de agua potable $2,174.00 (DOS MIL CIENTO SETENTA Y CUATRO PESOS 00/100 M.N.).
+XXVI. Permiso anual para el transporte de carga de agua potable $2,282.00 (DOS MIL DOSCIENTOS OCHENTA Y DOS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXVII. Registro de los vehículos adheridos a las empresas de redes de transporte para el servicio entre particulares $3,016.00 (TRES MIL DIECISEIS PESOS 00/100 M.N.), por vehículo, con vigencia de 5 años.
+XXVII. Registro de los vehículos adheridos a las empresas de redes de transporte para el servicio entre particulares $3,167.00 (TRES MIL CIENTO SESENTA Y SIETE PESOS 00/100 M.N.), por vehículo, con vigencia de 5 años.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXVIII. Permiso anual o por campaña publicitaria para la colocación de anuncios publicitarios en vehículos del servicio público de transporte de competencia estatal, $3,782.00 (TRES MIL SETECIENTOS OCHENTA Y DOS PESOS 00/100 M.N.).
+XXVIII. Permiso anual o por campaña publicitaria para la colocación de anuncios publicitarios en vehículos del servicio público de transporte de competencia estatal, $3,971.00 (TRES MIL NOVECIENTOS SETENTA Y UN PESOS 00/100 M.N.).
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 140], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -2879,185 +2975,185 @@ TARIFA
 
 I. Por registro de título y expedición de cédula profesional:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. De nivel técnico medio $1,265.00 (UN MIL DOSCIENTOS SESENTA Y CINCO PESOS 00/100 M.N.)
+1. De nivel técnico medio $1,328.00 (UN MIL TRESCIENTOS VEINTIOCHO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. De nivel técnico superior, universitario o profesional asociado $1,212.00 (UN MIL DOSCIENTOS DOCE PESOS 00/100 M.N.)
+2. De nivel técnico superior, universitario o profesional asociado $1,272.00 (UN MIL DOSCIENTOS SETENTA Y DOS PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-3. De nivel licenciatura $1,291.00 (UN MIL DOSCIENTOS NOVENTA Y UN PESOS 00/100 M.N.)
+3. De nivel licenciatura $1,356.00 (UN MIL TRESCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-4. De nivel posgrado $1,939.00 (UN MIL NOVECIENTOS TREINTA Y NUEVE PESOS 00/100 M.N.);
+4. De nivel posgrado $2,036.00 (DOS MIL TREINTA Y SEIS PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Duplicado de cédula profesional $337.00 (TRESCIENTOS TREINTA Y SIETE PESOS 00/100 M.N.);
+II. Duplicado de cédula profesional $354.00 (TRESCIENTOS CINCUENTA Y CUATRO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-III. Constancia de registro de título y no sanción $379.00 (TRESCIENTOS SETENTA Y NUEVE PESOS 00/100 M.N.);
+III. Constancia de registro de título y no sanción $398.00 (TRESCIENTOS NOVENTA Y OCHO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-IV. Constancia de registro de título y expedición de cédula profesional en trámite $172.00 (CIENTO SETENTA Y DOS PESOS 00/100 M.N,);
+IV. Constancia de registro de título y expedición de cédula profesional en trámite $181.00 (CIENTO OCHENTA Y UN PESOS 00/100 M.N,);
 
 V. DEROGADA
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VI. Registro de institución educativa $8,336.00 (OCHO MIL TRESCIENTOS TREINTA Y SEIS PESOS 00/100 M.N.):
+VI. Registro de institución educativa $8,753.00 (OCHO MIL SETECIENTOS CINCUENTA Y TRES PESOS 00/100 M.N.):
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VII. Adición de carrera y/o estudios de posgrado $1,011.00 (UN MIL ONCE PESOS 00/100 M.N.);
+VII. Adición de carrera y/o estudios de posgrado $1,062.00 (UN MIL SESENTA Y DOS PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VIII. Cambio de nomenclatura de carrera y/o estudios de posgrado, $1,011.00 (UN MIL ONCE PESOS 00/100 M.N.);
+VIII. Cambio de nomenclatura de carrera y/o estudios de posgrado, $1,062.00 (UN MIL SESENTA Y DOS PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-IX. Cambio de nomenclatura de institución educativa $1,011.00 (UN MIL ONCE PESOS 00/100 M.N.);
+IX. Cambio de nomenclatura de institución educativa $1,062.00 (UN MIL SESENTA Y DOS PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-X. Registro de título, diploma de especialidad o grado académico que procedan de otro estado $1,939.00 (UN MIL NOVECIENTOS TREINTA Y NUEVE PESOS 00/100 M.N.);
+X. Registro de título, diploma de especialidad o grado académico que procedan de otro estado $2,034.00 (DOS MIL TREINTA Y CUATRO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XI. Legalización de firmas de documentos académicos, $321.00 (TRESCIENTOS VEINTIÚN PESOS 00/100 M.N.) por firma;
+XI. Legalización de firmas de documentos académicos, $337.00 (TRESCIENTOS TREINTA Y SIETE PESOS 00/100 M.N.) por firma;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XII. Por autorización de incorporación de planteles de educación básica y educación inicial $35,432.00 (TREINTA Y CINCO MIL CUATROCIENTOS TREINTA Y DOS PESOS 00/100 M.N.);
+XII. Por autorización de incorporación de planteles de educación básica y educación inicial $37,204.00 (TREINTA Y SIETE MIL DOSCIENTOS CUATRO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XIII. Reconocimiento de validez oficial de estudios a planteles de educación media superior y formación para el trabajo $31,957.00 (TREINTA Y UN MIL NOVECIENTOS CINCUENTA Y SIETE PESOS 00/100 M.N.);
+XIII. Reconocimiento de validez oficial de estudios a planteles de educación media superior y formación para el trabajo $33,555.00 (TREINTA Y TRES MIL QUINIENTOS CINCUENTA Y CINCO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XIV. Reconocimiento de validez oficial de estudios a planteles de educación superior $34,738.00 (TREINTA Y CUATRO MIL SETECIENTOS TREINTA Y OCHO PESOS 00/100 M.N.);
+XIV. Reconocimiento de validez oficial de estudios a planteles de educación superior $36,475.00 (TREINTA Y SEIS MIL CUATROCIENTOS SETENTA Y CINCO PESOS 00/100 M.N.);
 
-(REPUBLICADA, P.O. 27 DE DICIEMBRE DE 2022)
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XV. Por trámite de autorización para la incorporación de planteles de educación básica e inicial $3,892.00 (TRES MIL OCHOCIENTOS NOVENTA Y DOS PESOS 00/100 M.N.);
+XV. Por trámite de autorización para la incorporación de planteles de educación básica e inicial $4,087.00 (CUATRO MIL OCHENTA Y SIETE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XVI. Por trámite de reconocimiento de validez oficial de estudios de educación media superior y formación para el trabajo $3,475.00 (TRES MIL CUATROCIENTOS SETENTA Y CINCO PESOS 00/100 M.N.);
+XVI. Por trámite de reconocimiento de validez oficial de estudios de educación media superior y formación para el trabajo $3,649.00 (TRES MIL SEISCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XVII. Por trámite de reconocimiento de validez oficial de estudios de educación superior $4,169.00 (CUATRO MIL CIENTO SESENTA Y NUEVE PESOS 00/100 M.N.);
+XVII. Por trámite de reconocimiento de validez oficial de estudios de educación superior $4,377.00 (CUATRO MIL TRESCIENTOS SETENTA Y SIETE PESOS 00/100 M.N.);
 
 XVIII. DEROGADA
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XIX. Por autorización de examen a título de suficiencia de educación media y superior $521.00 (QUINIENTOS VEINTIÚN PESOS 00/100 M.N.) por alumno;
+XIX. Por autorización de examen a título de suficiencia de educación media y superior $547.00 (QUINIENTOS CUARENTA Y SIETE PESOS 00/100 M.N.) por alumno;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XX. Por equivalencia de estudios de nivel medio y superior $1,688.00 (UN MIL SEISCIENTOS OCHENTA Y OCHO PESOS 00/100 M.N.) por alumno; y
+XX. Por equivalencia de estudios de nivel medio y superior $1,772.00 (UN MIL SETECIENTOS SETENTA Y DOS PESOS 00/100 M.N.) por alumno; y
 
 XXI. …
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. De primaria $2,530.00 (DOS MIL QUINIENTOS TREINTA PESOS 00/100 M.N.) por alumno;
+1. De primaria $2,656.00 (DOS MIL SEISCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.) por alumno;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. De secundaria cursada en el extranjero $3,372.00 (TRES MIL TRESCIENTOS SETENTA Y DOS PESOS 00/100 M.N.) por alumno;
+2. De secundaria cursada en el extranjero $3,541.00 (TRES MIL QUINIENTOS CUARENTA Y UN PESOS 00/100 M.N.) por alumno;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-3. De educación media superior y superior cursada en el extranjero $4,169.00 (CUATRO MIL CIENTO SESENTA Y NUEVE PESOS 00/100 M.N.) por alumno;
+3. De educación media superior y superior cursada en el extranjero $4,377.00 (CUATRO MIL TRESCIENTOS SETENTA Y SIETE PESOS 00/100 M.N.) por alumno;
 
 XXII. Expedición de certificado de terminación de estudios de escuelas particulares incorporadas:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. De nivel preescolar $34.00 (TREINTA Y CUATRO PESOS 00/100 M.N.) por alumno;
+1. De nivel preescolar $36.00 (TREINTA Y SEIS PESOS 00/100 M.N.) por alumno;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. De nivel primaria $87.00 (OCHENTA Y SIETE PESOS 00/100 M.N.) por alumno; y
+2. De nivel primaria $91.00 (NOVENTA Y UN PESOS 00/100 M.N.) por alumno; y
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-3. De nivel secundaria $172.00 (CIENTO SETENTA Y DOS PESOS 00/100 M.N.) por alumno.
+3. De nivel secundaria $181.00 (CIENTO OCHENTA Y UN PESOS 00/100 M.N.) por alumno.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXIII. Expedición de certificado de terminación de estudios de bachillerato general y nivel técnico $696.00 (SEISCIENTOS NOVENTA Y SEIS PESOS 00/100 M.N.), por alumno.
+XXIII. Expedición de certificado de terminación de estudios de bachillerato general y nivel técnico $731.00 (SETECIENTOS TREINTA Y UN PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXIV. Por registro de Colegios de Profesionistas $9,447.00 (NUEVE MIL CUATROCIENTOS CUARENTA Y SIETE PESOS 00/100 M.N.);
+XXIV. Por registro de Colegios de Profesionistas $9,919.00 (NUEVE MIL NOVECIENTOS DIECINUEVE PESOS 00/100 M.N.);
 
 XXV. Por encomienda al Registro del Colegio de Profesionistas:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. Por cambio de nomenclatura del Colegio $1,084.00 (UN MIL OCHENTA Y CUATRO PESOS 00/100 M.N.);
+1. Por cambio de nomenclatura del Colegio $1,138.00 (UN MIL CIENTO TREINTA Y OCHO PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1 (SIC). Por cambios en nómina de socios $277.00 (DOSCIENTOS SETENTA Y SIETE PESOS 00/100 M.N.);
+2. Por cambios en nómina de socios $291.00 (DOSCIENTOS NOVENTA Y UN PESOS 00/100 M.N.);
 
 XXVI. DEROGADA
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXVII. Por tramite de documentos escolares de otros Estados $336.00 (TRESCIENTOS TREINTA Y SEIS PESOS 00/100 M.N.).
+XXVII. Por tramite de documentos escolares de otros Estados $353.00 (TRESCIENTOS CINCUENTA Y TRES PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXVIII. Por expedición de nuevo acuerdo por cambio de domicilio, cambio de titular y/o reestructuración de plan y programa de estudios $1,390.00 (UN MIL TRESCIENTOS NOVENTA PESOS 00/100 M.N.).
+XXVIII. Por expedición de nuevo acuerdo por cambio de domicilio, cambio de titular y/o reestructuración de plan y programa de estudios $1,459.00 (UN MIL CUATROCIENTOS CINCUENTA Y NUEVE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXIX. Por nuevo reconocimiento de validez oficial de estudios a planes y programas de escuelas particulares incorporadas $1,390.00 (UN MIL TRESCIENTOS NOVENTA PESOS 00/100 M.N.).
+XXIX. Por nuevo reconocimiento de validez oficial de estudios a planes y programas de escuelas particulares incorporadas $1,459.00 (UN MIL CUATROCIENTOS CINCUENTA Y NUEVE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXX. Por duplicado de acuerdo de incorporación $277.00 (DOSCIENTOS SETENTA Y SIETE PESOS 00/100 M.N.).
+XXX. Por duplicado de acuerdo de incorporación $291.00 (DOSCIENTOS NOVENTA Y UN PESOS 00/100 M.N.).
 
 XXXI. DEROGADA
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXXII. Por constancia de estudio y certificación parcial de estudios $172.00 (CIENTO SETENTA Y DOS PESOS 00/100 M.N.).
+XXXII. Por constancia de estudio y certificación parcial de estudios $181.00 (CIENTO OCHENTA y UN PESOS 00/100 M.N.).
 
 XXXIII. Preparatoria abierta.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. Inscripción semestral $164.00 (CIENTO SESENTA Y CUATRO PESOS 00/100 M.N.).
+1. Inscripción semestral $172.00 (CIENTO SETENTA Y DOS PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. Credencial $126.00 (CIENTO VEINTISÉIS PESOS 00/100 M.N.).
+2. Credencial $132.00 (CIENTO TREINTA Y DOS PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-3. Evaluación $82.00 (OCHENTA Y DOS PESOS 00/100 M.N.).
+3. Evaluación $86.00 (OCHENTA Y SEIS PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-4. Certificado $796.00 (SETECIENTOS NOVENTA Y SEIS PESOS 00/100 M.N.).
+4. Certificado $836.00 (OCHOCIENTOS TREINTA Y SEIS PESOS 00/100 M.N.).
 
-(REPUBLICADO, P.O. 27 DE DICIEMBRE DE 2022)
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-5. Constancias $186.00 (CIENTO OCHENTA Y SEIS PESOS 00/100 M.N.).
+5. Constancias $195.00 (CIENTO NOVENTA Y CINCO PESOS 00/100 M.N.).
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 143], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -3089,149 +3185,149 @@ Los servicios que presta la Secretaría de Medio Ambiente, causarán derechos co
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-I. Por recepción, evaluación y expedición de la autorización del Generador de Residuos de Manejo Especial, $5,701.00 (CINCO MIL SETECIENTOS UN PESOS 00/100 M.N.).
+I. Por recepción, evaluación y expedición de la autorización del Generador de Residuos de Manejo Especial, $5,986.00 (CINCO MIL NOVECIENTOS OCHENTA Y SEIS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Por la recepción, evaluación y expedición de la autorización bianual como Transportista de Residuos de Manejo Especial $10,973.00 (DIEZ MIL NOVECIENTOS SETENTA Y TRES PESOS 00/100M.N.).
+II. Por la recepción, evaluación y expedición de la autorización bianual como Transportista de Residuos de Manejo Especial $11,522.00 (ONCE MIL QUINIENTOS VEINTIDÓS PESOS 00/100M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-III. Por expedición de la revalidación bianual de la autorización como Transportista de Residuos de Manejo Especial $4,344.00 (CUATRO MIL TRESCIENTOS CUARENTA Y CUATRO PESOS 00/100 M.N.).
+III. Por expedición de la revalidación bianual de la autorización como Transportista de Residuos de Manejo Especial $4,561.00 (CUATRO MIL QUINIENTOS SESENTA Y UN PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-IV. Por la recepción, evaluación y expedición de la Licencia de Funcionamiento en Materia de Atmósfera $7,590.00 (SIETE MIL QUINIENTOS NOVENTA PESOS 00/100M.N.).
+IV. Por la recepción, evaluación y expedición de la Licencia de Funcionamiento en Materia de Atmósfera $7,969.00 (SIETE MIL NOVECIENTOS SESENTA Y NUEVE PESOS 00/100M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-V. Por la recepción, evaluación y expedición de la actualización de la Licencia de Funcionamiento en Materia de Atmósfera $3,799.00 (TRES MIL SETECIENTOS NOVENTA Y NUEVE PESOS 00/100 M.N.).
+V. Por la recepción, evaluación y expedición de la actualización de la Licencia de Funcionamiento en Materia de Atmósfera $3,989.00 (TRES MIL NOVECIENTOS OCHENTA Y NUEVE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VI. Por la evaluación y resolución de la Manifestación de Impacto Ambiental $9,889.00 (NUEVE MIL OCHOCIENTOS OCHENTA Y NUEVE PESOS 00/100 M.N.).
+VI. Por la evaluación y resolución de la Manifestación de Impacto Ambiental $10,383.00 (DIEZ MIL TRESCIENTOS OCHENTA Y TRES PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VII. Por la evaluación y resolución del Informe Preventivo de Impacto Ambiental $6,612.00 (SEIS MIL SEISCIENTOS DOCE PESOS 00/100 M.N.).
+VII. Por la evaluación y resolución del Informe Preventivo de Impacto Ambiental $6,945.00 (SEIS MIL NOVECIENTOS CUARENTA Y CINCO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VIII. Por inscripción en el Registro Estatal de los Prestadores de Servicios Profesionales en materia de impacto ambiental, $3,373.00 (TRES MIL TRESCIENTOS SETENTA Y TRES PESOS 00/100 M.N.).
+VIII. Por inscripción en el Registro Estatal de los Prestadores de Servicios Profesionales en materia de impacto ambiental, $3,542.00 (TRES MIL QUINIENTOS CUARENTA Y DOS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-IX. Por refrendo anual en el Registro Estatal de los Prestadores de Servicios Profesionales en materia de impacto ambiental, $1,688.00 (UN MIL SEISCIENTOS OCHENTA Y OCHO PESOS 00/100 M.N.).
+IX. Por refrendo anual en el Registro Estatal de los Prestadores de Servicios Profesionales en materia de impacto ambiental, $1,772.00 (UN MIL SETECIENTOS SETENTA Y DOS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-X. Por inscripción en el Registro Estatal de los Prestadores de Servicios Profesionales en materia de residuos de manejo especial, $4,826.00 (CUATRO MIL OCHOCIENTOS VEINTISÉIS PESOS 00/100 M.N.), con vigencia bianual.
+X. Por inscripción en el Registro Estatal de los Prestadores de Servicios Profesionales en materia de residuos de manejo especial, $5,067.00 (CINCO MIL SESENTA Y SIETE PESOS 00/100 M.N.), con vigencia bianual.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XI. Por refrendo bianual en el Registro Estatal de los Prestadores de Servicios Profesionales en materia de residuos de manejo especial, $2,413.00 (DOS MIL CUATROCIENTOS TRECE PESOS 00/100 M.N.).
+XI. Por refrendo bianual en el Registro Estatal de los Prestadores de Servicios Profesionales en materia de residuos de manejo especial, $2,534.00 (DOS MIL QUINIENTOS TREINTA Y CUATRO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XII. Por trámite bianual de recepción, evaluación y otorgamiento de la resolución sobre la solicitud de autorización de sitio de acopio y/o almacenamiento de residuos de manejo especial, $12,064.00 (DOCE MIL SESENTA Y CUATRO PESOS 00/100 M.N.).
+XII. Por trámite bianual de recepción, evaluación y otorgamiento de la resolución sobre la solicitud de autorización de sitio de acopio y/o almacenamiento de residuos de manejo especial, $12,667.00 (DOCE MIL SEISCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XIII. Por revalidación bianual de la autorización de sitio de acopio y/o almacenamiento de residuos de manejo especial $7,239.00 (SIETE MIL DOSCIENTOS TREINTA Y NUEVE PESOS 00/100 M.N.).
+XIII. Por revalidación bianual de la autorización de sitio de acopio y/o almacenamiento de residuos de manejo especial $7,601.00 (SIETE MIL SEISCIENTOS UN PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XIV. Por trámite bianual de recepción, evaluación y otorgamiento de la resolución sobre la solicitud de autorización de sitio de tratamiento y/o coprocesamiento de residuos de manejo especial, $7,239.00 (SIETE MIL DOSCIENTOS TREINTA Y NUEVE PESOS 00/100 M.N.).
+XIV. Por trámite bianual de recepción, evaluación y otorgamiento de la resolución sobre la solicitud de autorización de sitio de tratamiento y/o coprocesamiento de residuos de manejo especial, $7,601.00 (SIETE MIL SEISCIENTOS UN PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XV. Por trámite bianual de revalidación de la autorización de sitio de tratamiento y/o coprocesamiento de residuos de manejo especial, $4,826.00 (CUATRO MIL OCHOCIENTOS VEINTISÉIS PESOS 00/100 M.N.).
+XV. Por trámite bianual de revalidación de la autorización de sitio de tratamiento y/o coprocesamiento de residuos de manejo especial, $5,067.00 (CINCO MIL SESENTA Y SIETE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XVI. Por trámite bianual de recepción, evaluación y otorgamiento de la resolución sobre la solicitud de autorización de reciclado de residuos de manejo especial, $3,619.00 (TRES MIL SEISCIENTOS DIECINUEVE PESOS 00/100 M.N.).
+XVI. Por trámite bianual de recepción, evaluación y otorgamiento de la resolución sobre la solicitud de autorización de reciclado de residuos de manejo especial, $3,800.00 (TRES MIL OCHOCIENTOS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XVII. Por trámite bianual años de revalidación de la autorización de reciclado de residuos de manejo especial, $2,413.00 (DOS MIL CUATROCIENTOS TRECE PESOS 00/100 M.N.).
+XVII. Por trámite bianual años de revalidación de la autorización de reciclado de residuos de manejo especial, $2,534.00 (DOS MIL QUINIENTOS TREINTA Y CUATRO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XVIII. Por trámite bianual de recepción, evaluación y otorgamiento de la resolución sobre la solicitud de autorización de sitio de disposición final de residuos de manejo especial, $46,178.00 (CUARENTA Y SEIS MIL CIENTO SETENTA Y OCHO PESOS 00/100 M.N.).
+XVIII. Por trámite bianual de recepción, evaluación y otorgamiento de la resolución sobre la solicitud de autorización de sitio de disposición final de residuos de manejo especial, $48,487.00 (CUARENTA Y OCHO MIL CUATROCIENTOS OCHENTA Y SIETE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XIX. Por trámite bianual de revalidación de la autorización de sitio de disposición final de residuos de manejo especial, $12,064.00 (DOCE MIL SESENTA Y CUATRO PESOS 00/100 M.N.).
+XIX. Por trámite bianual de revalidación de la autorización de sitio de disposición final de residuos de manejo especial, $12,667.00 (DOCE MIL SEISCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XX. Autorización de quema a cielo abierto en bienes y fuentes de jurisdicción estatal, $841.00 (OCHOCIENTOS CUARENTA Y UN PESOS 00/100 M.N.)
+XX. Autorización de quema a cielo abierto en bienes y fuentes de jurisdicción estatal, $883.00 (OCHOCIENTOS OCHENTA Y TRES PESOS 00/100 M.N.)
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXI. Recepción, evaluación y otorgamiento de la resolución de autorización del estudio de riesgo, $5,062.00 (CINCO MIL SESENTA Y DOS PESOS 00/100 M.N.)
+XXI. Recepción, evaluación y otorgamiento de la resolución de autorización del estudio de riesgo, $5,315.00 (CINCO MIL TRESCIENTOS QUINCE PESOS 00/100 M.N.)
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXII. Recepción, evaluación y resolución de la solicitud de permiso de funcionamiento temporal de fuente emisora estacionaria estatal, $8,436.00 (OCHO MIL CUATROCIENTOS TREINTA Y SEIS PESOS 00/100 M.N.).
+XXII. Recepción, evaluación y resolución de la solicitud de permiso de funcionamiento temporal de fuente emisora estacionaria estatal, $8,859.00 (OCHO MIL OCHOCIENTOS CINCUENTA Y NUEVE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXIII. Recepción, revisión y evaluación de cedulas de operación anual, $482.00 (CUATROCIENTOS OCHENTA Y DOS PESOS 00/100 M.N.).
+XXIII. Recepción, revisión y evaluación de cedulas de operación anual, $506.00 (QUINIENTOS SEIS PESOS 00/100 M.N.).
 
 XXIV. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2014)
 
 XXV. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXVI. Por los servicios de laboratorio del Banco de Germoplasma, costo por muestra de humedad, $50.00 (CINCUENTA PESOS 00/100 M.N.)
+XXVI. Por los servicios de laboratorio del Banco de Germoplasma, costo por muestra de humedad, $52.00 (CINCUENTA Y DOS PESOS 00/100 M.N.)
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXVII. Por el servicio de una muestra de pureza, $204.00 (DOSCIENTOS CUATRO PESOS 00/100 M.N.).
+XXVII. Por el servicio de una muestra de pureza, $214.00 (DOSCIENTOS CATORCE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXVIII. Muestra de viabilidad, $348.00 (TRESCIENTOS CUARENTA Y OCHO PESOS 00/100 M.N.).
+XXVIII. Muestra de viabilidad, $365.00 (TRESCIENTOS SESENTA Y CINCO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXIX. Muestra de germinación, $276.00 (DOSCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.).
+XXIX. Muestra de germinación, $290.00 (DOSCIENTOS NOVENTA PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXX. Por autorización de Depósitos o Corralones para llevar a cabo el manejo de vehículos al final de su vida útil, $9,850.00 (NUEVE MIL OCHOCIENTOS CINCUENTA PESOS 00/100 M.N.), por dos años.
+XXX. Por autorización de Depósitos o Corralones para llevar a cabo el manejo de vehículos al final de su vida útil, $10,342.00 (DIEZ MIL TRESCIENTOS CUARENTA Y DOS PESOS 00/100 M.N.), por dos años.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXXI. Por autorización de Centros Autorizados de Recepción para llevar a cabo el manejo de vehículos al final de su vida útil, $14,775.00 (CATORCE MIL SETECIENTOS SETENTA Y CINCO PESOS 00/100 M.N), por dos años.
+XXXI. Por autorización de Centros Autorizados de Recepción para llevar a cabo el manejo de vehículos al final de su vida útil, $15,514.00 (QUINCE MIL QUINIENTOS CATORCE PESOS 00/100 M.N), por dos años.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXXII. Por registro de organizaciones vinculadas con la conservación y aprovechamiento sustentable de la vida silvestre, $835.00 (OCHOCIENTOS TREINTA Y CINCO PESOS 00/100 M.N.).
+XXXII. Por registro de organizaciones vinculadas con la conservación y aprovechamiento sustentable de la vida silvestre, $877.00 (OCHOCIENTOS SETENTA Y SIETE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXXIII. Por la elaboración de tasa de aprovechamiento, $1,206.00 (UN MIL DOSCIENTOS SEIS PESOS 00/100 M.N.).
+XXXIII. Por la elaboración de tasa de aprovechamiento, $1,266.00 (UN MIL DOSCIENTOS SESENTA Y SEIS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXXIV. Por registro de mascota de vida silvestre $603.00 (SEISCIENTOS TRES PESOS 00/100 M.N.), por mascota.
+XXXIV. Por registro de mascota de vida silvestre $633.00 (SEISCIENTOS TREINTA Y TRES PESOS 00/100 M.N.), por mascota.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXXV. Por el refrendo bianual de Depósito o Corralones para llevar a cabo el manejo de vehículos al final de su vida útil, $4,320.00 (CUATRO MIL TRESCIENTOS VEINTE PESOS 00/100 M.N.).
+XXXV. Por el refrendo bianual de Depósito o Corralones para llevar a cabo el manejo de vehículos al final de su vida útil, $4,536.00 (CUATRO MIL QUINIENTOS TREINTA Y SEIS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXXVI. Por el refrendo bianual de Centros Autorizados de Recepción para llevar a cabo el manejo de Vehículos al final de su vida útil $6,635.00 (SEIS MIL SEISCIENTOS TREINTA Y CINCO PESOS 00/100 M.N.).
+XXXVI. Por el refrendo bianual de Centros Autorizados de Recepción para llevar a cabo el manejo de Vehículos al final de su vida útil $6,967.00 (SEIS MIL NOVECIENTOS SESENTA Y SIETE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XXXVII. Tratamiento pregerminativo, $2,009.00 (DOS MIL NUEVE PESOS 00/100 M.N.).
+XXXVII. Tratamiento pregerminativo, $2,109.00 (DOS MIL CIENTO NUEVE PESOS 00/100 M.N.).
 
 (REPUBLICADA, P.O. 27 DE DICIEMBRE DE 2022)
 
@@ -3241,9 +3337,9 @@ XXXVIII. Extracción y limpieza de semillas, el 30% del valor total de la semill
 
 XXXIX. Por venta de semillas, 100% del valor de la semilla de acuerdo con la especie.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XL. Registro estatal de los proveedores de servicio y/o Promoventes en materia de Calidad del Aire y RETC, $5,656.00 (CINCO MIL SEISCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.).
+XL. Registro estatal de los proveedores de servicio y/o Promoventes en materia de Calidad del Aire y RETC, $5,939.00 (CINCO MIL NOVECIENTOS TREINTA Y NUEVE PESOS 00/100 M.N.).
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 146], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -3279,21 +3375,21 @@ Por el servicio de verificación, evaluación y supervisión que las leyes de la
 
 Por otros servicios:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-I. Por la expedición de certificados de no existencia de registros de inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público $321.00 (TRESCIENTOS VEINTIÚN PESOS 00/100 M.N.);
+I. Por la expedición de certificados de no existencia de registros de inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público $337.00 (TRESCIENTOS TREINTA Y SIETE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Por la expedición de certificado de aptitud de inscripción o refrendo en el Padrón de Proveedores o en el Padrón de Contratistas de la Administración Pública Estatal, por cada uno de ellos $4,845.00 (CUATRO MIL OCHOCIENTOS CUARENTA Y CINCO PESOS 00/100 M.N.);
+II. Por la expedición de certificado de aptitud de inscripción o refrendo en el Padrón de Proveedores o en el Padrón de Contratistas de la Administración Pública Estatal, por cada uno de ellos $5,087.00 (CINCO MIL OCHENTA Y SIETE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-III. Por la expedición del certificado de aptitud de refrendo en el Padrón de Proveedores o en el Padrón de Contratistas de la Administración Pública Estatal, por cada uno, $7,753.00 (SIETE MIL SETECIENTOS CINCUENTA Y TRES PESOS 00/100 M.N.), por dos años
+III. Por la expedición del certificado de aptitud de refrendo en el Padrón de Proveedores o en el Padrón de Contratistas de la Administración Pública Estatal, por cada uno, $8,141.00 (OCHO MIL CIENTO CUARENTA Y UN PESOS 00/100 M.N.), por dos años
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-IV. Por la expedición de copias certificadas $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.), por la primera hoja; $5.00 (CINCO PESOS 00/100 M.N.) por hoja adicional.
+IV. Por la expedición de copias certificadas $68.00 (SESENTA Y OCHO PESOS 00/100 M.N.), por la primera hoja; $5.00 (CINCO PESOS 00/100 M.N.) por hoja adicional.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 150], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -3369,9 +3465,9 @@ Los derechos a que se refiere este capítulo se causarán conforme a la siguient
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-I. $64.00 (SESENTA Y CUATRO PESOS 00/100 M.N.) del precio comercial de la tonelada del mineral beneficiado cuando sea mejorado, lavado, homogenizado, o trasladado.
+I. $67.00 (SESENTA Y SIETE PESOS 00/100 M.N.) del precio comercial de la tonelada del mineral beneficiado cuando sea mejorado, lavado, homogenizado, o trasladado.
 
 (REPUBLICADA, P.O. 30 DE DICIEMBRE DE 2020)
 
@@ -3409,89 +3505,89 @@ El pago de los derechos a que se refiere el artículo 140, deberá efectuarse en
 
 Los servicios prestados por la Secretaría de Seguridad Pública, causarán derechos conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-I. Certificados de no antecedentes penales $143.00 (CIENTO CUARENTA Y TRES PESOS 00/100 M.N.).
+I. Certificados de no antecedentes penales $150.00 (CIENTO CINCUENTA PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Por el uso y mantenimiento de un dispositivo de monitoreo electrónico de localización a distancia, para personas que hayan sido sentenciadas dentro de un proceso penal y que se hagan acreedores a dicha medida de seguridad $7,218.00 (SIETE MIL DOSCIENTOS DIECIOCHO PESOS 00/100 M.N.), mensuales.
+II. Por el uso y mantenimiento de un dispositivo de monitoreo electrónico de localización a distancia, para personas que hayan sido sentenciadas dentro de un proceso penal y que se hagan acreedores a dicha medida de seguridad $7,579.00 (SIETE MIL QUINIENTOS SETENTA Y NUEVE PESOS 00/100 M.N.), mensuales.
 
 III. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2020)
 
 IV. Servicios prestados por la Dirección General de Registro y Control de Seguridad Privada:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-a) Autorización para la prestación del servicio de seguridad privada en el Estado, $4,078.00 (CUATRO MIL SETENTA Y OCHO PESOS 00/100 M.N.).
+a) Autorización para la prestación del servicio de seguridad privada en el Estado, $4,282.00 (CUATRO MIL DOSCIENTOS OCHENTA Y DOS PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-b) Revalidación anual para la prestación del servicio de seguridad privada en el Estado, $3,055.00 (TRES MIL CINCUENTA Y CINCO PESOS 00/100 M.N.).
+b) Revalidación anual para la prestación del servicio de seguridad privada en el Estado, $3,208.00 (TRES MIL DOSCIENTOS OCHO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-c) Estudio de factibilidad, relativo al manejo del expediente y cumplimiento de los requisitos legales, $2,547.00 (DOS MIL QUINIENTOS CUARENTA Y SIETE PESOS 00/100 M.N.).
+c) Estudio de factibilidad, relativo al manejo del expediente y cumplimiento de los requisitos legales, $2,674.00 (DOS MIL SEISCIENTOS SETENTA Y CUATRO PESOS 00/100 M.N.).
 
 (REPUBLICADO, P.O. 27 DE DICIEMBRE DE 2022)
 
 d) Se pagará adicionalmente por modalidad a servicios a realizar, conforme a lo siguiente:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-e) Seguridad privada a personas, $20,386.00 (VEINTE MIL TRESCIENTOS OCHENTA Y SEIS PESOS 00/100 M.N.).
+e) Seguridad privada a personas, $21,405.00 (VEINTIÚN MIL CUATROCIENTOS CINCO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-f) Seguridad privada intramuros, $15,289.00 (QUINCE MIL DOSCIENTOS OCHENTA Y NUEVE PESOS 00/100 M.N.).
+f) Seguridad privada intramuros, $16,053.00 (DIECISÉIS MIL CINCUENTA Y TRES PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-g) Seguridad privada en los bienes, $20,617.00 (VEINTE MIL SEISCIENTOS DIECISIETE PESOS 00/100 M.N.).
+g) Seguridad privada en los bienes, $21,648.00 (VEINTIÚN MIL SEISCIENTOS CUARENTA Y OCHO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-h) Seguridad privada en el traslado de bienes o valores, $30,579.00 (TREINTA MIL QUINIENTOS SETENTA Y NUEVE PESOS 00/100 M.N.).
+h) Seguridad privada en el traslado de bienes o valores, $32,108.00 (TREINTA Y DOS MIL CIENTO OCHO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-i) Seguridad por medio de canes, $10,193.00 (DIEZ MIL CIENTO NOVENTA Y TRES PESOS 00/100 M.N.).
+i) Seguridad por medio de canes, $10,703.00 (DIEZ MIL SETECIENTOS TRES PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-j) Servicio de alarmas y monitoreo electrónico, $10,193.00 (DIEZ MIL CIENTO NOVENTA Y TRES PESOS 00/100 M.N.).
+j) Servicio de alarmas y monitoreo electrónico, $10,703.00 (DIEZ MIL SETECIENTOS TRES PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-k) Servicio de alarmas por medio de aeronaves no tripuladas, $10,193.00 (DIEZ MIL CIENTO NOVENTA Y TRES PESOS 00/100 M.N.).
+k) Servicio de alarmas por medio de aeronaves no tripuladas, $10,703.00 (DIEZ MIL SETECIENTOS TRES PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-l) Seguridad de la Información, $15,289.00 (QUINCE MIL DOSCIENTOS OCHENTA Y NUEVE PESOS 00/100 M.N.).
+l) Seguridad de la Información, $16,053.00 (DIECISÉIS MIL CINCUENTA Y TRES PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-m) Sistemas de prevención y responsabilidades, $10,193.00 (DIEZ MIL CIENTO NOVENTA Y TRES PESOS 00/100 M.N.).
+m) Sistemas de prevención y responsabilidades, $10,703.00 (DIEZ MIL SETECIENTOS TRES PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-n) Actividad vinculada con servicios de blindaje y equipo, $30,579.00 (TREINTA MIL QUINIENTOS SETENTA Y NUEVE PESOS 00/100 M.N.).
+n) Actividad vinculada con servicios de blindaje y equipo, $32,108.00 (TREINTA Y DOS MIL CIENTO OCHO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-o) Actividad vinculada con servicios de seguridad privada, $10,193.00 (DIEZ MIL CIENTO NOVENTA Y TRES PESOS 00/100 M.N.).
+o) Actividad vinculada con servicios de seguridad privada, $10,703.00 (DIEZ MIL SETECIENTOS TRES PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-p) Consulta de personal directivo, administrativo y operativo que realizan las personas físicas o morales que prestan el servicio de seguridad privada de antecedentes en el Registro Estatal de Personal de Seguridad Pública y Registro Nacional de Personal de Seguridad Pública, $109.00 (CIENTO NUEVE PESOS 00/100 M.N.).
+p) Consulta de personal directivo, administrativo y operativo que realizan las personas físicas o morales que prestan el servicio de seguridad privada de antecedentes en el Registro Estatal de Personal de Seguridad Pública y Registro Nacional de Personal de Seguridad Pública, $114.00 (CIENTO CATORCE PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-q) Inscripción de personal directivo, administrativo y operativo que realizan las personas físicas o morales que prestan el servicio de seguridad privada en el Registro Estatal de Personal de Seguridad Pública y Registro Nacional de Personal de Seguridad Pública, $109.00 (CIENTO NUEVE PESOS 00/100 M.N.).
+q) Inscripción de personal directivo, administrativo y operativo que realizan las personas físicas o morales que prestan el servicio de seguridad privada en el Registro Estatal de Personal de Seguridad Pública y Registro Nacional de Personal de Seguridad Pública, $114.00 (CIENTO CATORCE PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-r) Baja de personal directivo, administrativo y operativo que realizan las personas físicas o morales que prestan el servicio de seguridad privada en el Registro Estatal de Personal de Seguridad Pública y Registro Nacional de Personal de Seguridad Pública, $109.00 (CIENTO NUEVE PESOS 00/100 M.N.).
+r) Baja de personal directivo, administrativo y operativo que realizan las personas físicas o morales que prestan el servicio de seguridad privada en el Registro Estatal de Personal de Seguridad Pública y Registro Nacional de Personal de Seguridad Pública, $114.00 (CIENTO CATORCE PESOS 00/100 M.N.).
 
 > <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 26 DE NOVIEMBRE DE 2021)</small>
 
@@ -3499,63 +3595,63 @@ V. Servicios prestados por la Policía Complementaria:
 
 a) Servicios de guardia, custodia, vigilancia de bienes muebles, inmuebles o valores en sus distintas modalidades por suboficial armado:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-I. $31,436.00 (TREINTA Y UN MIL CUATROCIENTOS TREINTA Y SEIS PESOS 00/100 M.N.) mensuales;
+I. $33,008.00 (TREINTA Y TRES MIL OCHO PESOS 00/100 M.N.) mensuales;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Por evento $1,047.00 (UN MIL CUARENTA Y SIETE PESOS 00/100 M.N.). por día.
+II. Por evento $1,099.00 (UN MIL NOVENTA Y NUEVE PESOS 00/100 M.N.). por día.
 
 b) Servicios de guardia, custodia, vigilancia de bienes muebles, inmuebles o valores en sus distintas modalidades por oficial armado:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-I. $42,276.00 (CUARENTA Y DOS MIL DOSCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.) mensuales;
+I. $44,390.00 (CUARENTA Y CUATRO MIL TRESCIENTOS NOVENTA PESOS 00/100 M.N.) mensuales;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Por evento $1,409.00 (UN MIL CUATROCIENTOS NUEVE PESOS 00/100 M.N.). por día.
+II. Por evento $1,479.00 (UN MIL CUATROCIENTOS SETENTA Y NUEVE PESOS 00/100 M.N.). por día.
 
 c) Servicios de guardia, custodia, vigilancia y seguridad de personas en sus distintas modalidades por suboficial armado:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-I. $31,436.00 (TREINTA Y UN MIL CUATROCIENTOS TREINTA Y SEIS PESOS 00/100 M.N.) mensuales;
+I. $33,008.00 (TREINTA Y TRES MIL OCHO PESOS 00/100 M.N.) mensuales;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Por evento $1,047.00 (UN MIL CUARENTA Y SIETE PESOS 00/100 M.N.), por día.
+II. Por evento $1,099.00 (UN MIL NOVENTA Y NUEVE PESOS 00/100 M.N.), por día.
 
 d) Servicios de guardia, custodia, vigilancia y seguridad de personas en sus distintas modalidades por oficial armado:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-I. $42,276.00 (CUARENTA Y DOS MIL DOSCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.) mensuales;
+I. $44,390.00 (CUARENTA Y CUATRO MIL TRESCIENTOS NOVENTA PESOS 00/100 M.N.) mensuales;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Por evento $1,409.00 (UN MIL CUATROCIENTOS NUEVE PESOS 00/100 M.N.), por día.
+II. Por evento $1,479.00 (UN MIL CUATROCIENTOS SETENTA Y NUEVE PESOS 00/100 M.N.), por día.
 
 e) Servicios de guardia, custodia, vigilancia de bienes muebles, inmuebles o valores en sus distintas modalidades por suboficial sin arma:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-I. $19,512.00 (DIECINUEVE MIL QUINIENTOS DOCE PESOS 00/100 M.N.) mensuales;
+I. $20,488.00 (VEINTE MIL CUATROCIENTOS OCHENTA Y OCHO PESOS 00/100 M.N.) mensuales;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Por evento $650.00 (SEISCIENTOS CINCUENTA PESOS 00/100 M.N.), por día.
+II. Por evento $682.00 (SEISCIENTOS OCHENTA Y DOS PESOS 00/100 M.N.), por día.
 
 f) Servicios de guardia, custodia, vigilancia y seguridad de personas en sus distintas modalidades por Suboficial sin arma:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-I. $19,512.00 (DIECINUEVE MIL QUINIENTOS DOCE PESOS 00/100 M.N.) mensuales,
+I. $20,488.00 (VEINTE MIL CUATROCIENTOS OCHENTA Y OCHO PESOS 00/100 M.N.) mensuales,
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Por evento $650.00 (SEISCIENTOS CINCUENTA PESOS 00/100 M.N.), por día.
+II. Por evento $682.00 (SEISCIENTOS OCHENTA Y DOS PESOS 00/100 M.N.), por día.
 
 Los servicios por evento se cobran por día en turnos de 8 horas.
 
@@ -3617,33 +3713,33 @@ Los servicios a que se refiere el presente Capítulo, causarán derechos conform
 
 TARIFA
 
-(REPUBLICADA, P.O. 27 DE DICIEMBRE DE 2022)
+(REPUBLICADA, P.O. 26 DE DICIEMBRE DE 2023)
 
 I. Por la expedición de copia simple, se pagará $1.00 (UN PESO 00/100 M.N.), por hoja.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Por expedición de copia certificada, se pagarán $66.00 (SESENTA Y SEIS PESOS 00/100 M.N.), por hoja.
+II. Por expedición de copia certificada, se pagarán $69.00 (SESENTA Y NUEVE PESOS 00/100 M.N.), por hoja.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-III. Por expedición de copia a color, se pagarán $50.00 (CINCUENTA PESOS 00/100 M.N.), por hoja.
+III. Por expedición de copia a color, se pagarán $52.00 (CINCUENTA Y DOS PESOS 00/100 M.N.), por hoja.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+(REPUBLICADA, P.O. 26 DE DICIEMBRE DE 2023)
 
 IV. Por cada disco flexible de 3.5 pulgadas que contenga la información requerida, se pagarán $5.00 (CINCO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-V. Por cada disco compacto que contenga la información requerida, se pagarán $31.00 (TREINTA Y UN PESOS 00/100 M.N.).
+V. Por cada disco compacto que contenga la información requerida, se pagarán $33.00 (TREINTA Y TRES PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VI. Por expedición de copia simple de planos, se pagarán de (sic) $119.00 (CIENTO DIECINUEVE PESOS 00/100 M.N.) por metro cuadrado.
+VI. Por expedición de copia simple de planos, se pagarán de (sic) $125.00 (CIENTO VEINTICINCO PESOS 00/100 M.N.) por metro cuadrado.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VII. Por expedición de copia certificada de planos, se pagarán $64.00 (SESENTA Y CUATRO PESOS 00/100 M.N.) adicionales a la cuota que le corresponde conforme a la fracción VI de este artículo.
+VII. Por expedición de copia certificada de planos, se pagarán $67.00 (SESENTA Y SIETE PESOS 00/100 M.N.) adicionales a la cuota que le corresponde conforme a la fracción VI de este artículo.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 162], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -3691,65 +3787,65 @@ Los servicios a que se refiere el presente Capítulo, causarán derechos conform
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-I. El Taller de orientación prematrimonial que imparte el Poder Judicial del Estado por conducto del Instituto Estatal de la Defensoría Pública, $251.00 (DOSCIENTOS CINCUENTA Y UN PESOS 00/100 M.N.) por pareja.
+I. El Taller de orientación prematrimonial que imparte el Poder Judicial del Estado por conducto del Instituto Estatal de la Defensoría Pública, $264.00 (DOSCIENTOS SESENTA Y CUATRO PESOS 00/100 M.N.) por pareja.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Bases de licitación pública nacional para obra pública y servicios relacionados con la misma, $2,521.00 (DOS MIL QUINIENTOS VEINTIÚN PESOS 00/100 M.N.).
+II. Bases de licitación pública nacional para obra pública y servicios relacionados con la misma, $2,647.00 (DOS MIL SEISCIENTOS CUARENTA Y SIETE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-III. Búsqueda de datos en el Archivo General Judicial, $63.00 (SESENTA Y TRES PESOS 00/100 M.N.).
+III. Búsqueda de datos en el Archivo General Judicial, $66.00 (SESENTA Y SEIS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-IV. Curso de preparación en materia de mediación, por parte del Centro de Medios Alternos de Solución de Controversias, $2,521.00 (DOS MIL QUINIENTOS VEINTIÚN PESOS 00/100 M.N.).
+IV. Curso de preparación en materia de mediación, por parte del Centro de Medios Alternos de Solución de Controversias, $2,647.00 (DOS MIL SEISCIENTOS CUARENTA Y SIETE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-V. Certificación de mediadores, $629.00 (SEISCIENTOS VEINTINUEVE PESOS 00/100 M.N.).
+V. Certificación de mediadores, $660.00 (SEISCIENTOS SESENTA PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VI. Validación extemporánea de convenios de mediación privada, ante el Centro de Medios Alternos de Solución de Controversias, $629.00 (SEISCIENTOS VEINTINUEVE PESOS 00/100 M.N.).
+VI. Validación extemporánea de convenios de mediación privada, ante el Centro de Medios Alternos de Solución de Controversias, $660.00 (SEISCIENTOS SESENTA PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VII. Certificación como mediador privado capacitado por otras instituciones, $629.00 (SEISCIENTOS VEINTINUEVE PESOS 00/100 M.N.).
+VII. Certificación como mediador privado capacitado por otras instituciones, $660.00 (SEISCIENTOS SESENTA PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VIII. Curso de capacitación impartido por el Instituto de Especialización Judicial a personas externas al Poder Judicial, $377.00 (TRESCIENTOS SETENTA Y SIETE PESOS 00/100 M.N.).
+VIII. Curso de capacitación impartido por el Instituto de Especialización Judicial a personas externas al Poder Judicial, $396.00 (TRESCIENTOS NOVENTA Y SEIS PESOS 00/100 M.N.).
 
-(REPUBLICADA, P.O. 27 DE DICIEMBRE DE 2022)
+(REPUBLICADA, P.O. 26 DE DICIEMBRE DE 2023)
 
 IX. Copia simple $2.00 (DOS PESOS 00/100 M.N.).
 
-(REPUBLICADA, P.O. 27 DE DICIEMBRE DE 2022)
+(REPUBLICADA, P.O. 26 DE DICIEMBRE DE 2023)
 
 X. Copia certificada $3.00 (TRES PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XI. Constancia de no registro en el REDAM, $126.00 (CIENTO VEINTISÉIS PESOS 00/100 M.N.).
+XI. Constancia de no registro en el REDAM, $132.00 (CIENTO TREINTA Y DOS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XII. CD/DVD con la grabación de audiencia en materia penal o familiar, $36.00 (TREINTA Y SEIS PESOS 00/100 M.N).
+XII. CD/DVD con la grabación de audiencia en materia penal o familiar, $38.00 (TREINTA Y OCHO PESOS 00/100 M.N).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XIII. Reposición de credencial institucional $190.00 (CIENTO NOVENTA PESOS 00/100 M. N.).
+XIII. Reposición de credencial institucional $199.00 (CIENTO NOVENTA Y NUEVE PESOS 00/100 M. N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XIV. Validación de contenidos de capacitación en materia de Mecanismos Alternativos de Controversias $3,151.00 (TRES MIL CIENTO CINCUENTA Y UN PESOS 00/100 M.N.).
+XIV. Validación de contenidos de capacitación en materia de Mecanismos Alternativos de Controversias $3,309.00 (TRES MIL TRESCIENTOS NUEVE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XVI (SIC). Renta de instalaciones para la impartición de cursos, talleres, conferencias, encuentros, seminarios, coloquios y demás actividades académicas, por parte de particulares e instituciones privadas. $629.00 (SEISCIENTOS VEINTINUEVE PESOS 00/100 M.N.), por hora.
+XVI (SIC). Renta de instalaciones para la impartición de cursos, talleres, conferencias, encuentros, seminarios, coloquios y demás actividades académicas, por parte de particulares e instituciones privadas. $660.00 (SEISCIENTOS SESENTA PESOS 00/100 M.N.), por hora.
 
 (ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018) (REUBICADO [N. DE E. ANTES ARTÍCULO 167], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -3801,21 +3897,21 @@ TARIFA
 
 I. (DEROGADA, P.O. 8 DE MAYO DE 2012)
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Inscripción y encuesta médica semestral al Centro Acuático Coahuila 2000, $426.00 (CUATROCIENTOS VEINTISÉIS PESOS 00/100 M.N.).
+II. Inscripción y encuesta médica semestral al Centro Acuático Coahuila 2000, $447.00 (CUATROCIENTOS CUARENTA Y SIETE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-III. Curso mensual del Centro Acuático Coahuila 2000, $1,191.00 (UN MIL CIENTO NOVENTA Y UN PESOS 00/100 M.N.).
+III. Curso mensual del Centro Acuático Coahuila 2000, $1,251.00 (UN MIL DOSCIENTOS CINCUENTA Y UN PESOS 00/100 M.N.).
 
 IV. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2020)
 
 V. Mensualidad por uso de piso e instalaciones de la Ciudad Deportiva Francisco I. Madero:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. Por metro cuadrado $319.00 (TRESCIENTOS DIECINUEVE PESOS 00/100 M.N.);
+1. Por metro cuadrado $335.00 (TRESCIENTOS TREINTA Y CINCO PESOS 00/100 M.N.);
 
 Al resultado por metro cuadrado se sumará por concepto de consumo de energía eléctrica y mantenimiento de áreas, la siguiente:
 
@@ -3823,85 +3919,85 @@ CUOTA
 
 Concepto Importe
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-Sin uso de energía eléctrica $266.00
+Sin uso de energía eléctrica $279.00
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-Menores a 50 kw $295.00
+Menores a 50 kw $310.00
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-de 51 kw hasta 280 kw $402.00
+de 51 kw hasta 280 kw $422.00
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-de 281 kw hasta 400 kw $674.00
+de 281 kw hasta 400 kw $708.00
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-de 401 kw hasta 500 kw $749.00
+de 401 kw hasta 500 kw $786.00
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-de 501 kw hasta 600 kw $922.00
+de 501 kw hasta 600 kw $968.00
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-de 601 kw hasta 1,000 kw $1,479.00
+de 601 kw hasta 1,000 kw $1,553.00
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. Con carrito ambulante $799.00 (SETECIENTOS NOVENTA Y NUEVE PESOS 00/100 M.N.);
+2. Con carrito ambulante $839.00 (OCHOCIENTOS TREINTA Y NUEVE PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-3. Con canastilla $387.00 (TRESCIENTOS OCHENTA Y SIETE PESOS 00/100 M.N.); y
+3. Con canastilla $406.00 (CUATROCIENTOS SEIS PESOS 00/100 M.N.); y
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-4. Otros ambulantes $412.00 (CUATROCIENTOS DOCE PESOS 00/100 M.N.).
+4. Otros ambulantes $433.00 (CUATROCIENTOS TREINTA Y TRES PESOS 00/100 M.N.).
 
 VI. Mensualidad por uso de piso e instalaciones del Parque Venustiano Carranza, de la Unidad Deportiva Oscar Flores Tapia, y del Centro Acuático Coahuila 2000:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. Por metro cuadrado $272.00 (DOSCIENTOS SETENTA Y DOS PESOS 00/100 M.N.);
+1. Por metro cuadrado $286.00 (DOSCIENTOS OCHENTA Y SEIS PESOS 00/100 M.N.);
 
 Al resultado por metro cuadrado se sumará por concepto de consumo de energía eléctrica y mantenimiento de áreas, la cuota contenida en la fracción IV de este artículo.
 
-(REPUBLICADO, P.O. 27 DE DICIEMBRE DE 2022)
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. Con carrito ambulante, $645.00 (SEISCIENTOS CUARENTA Y CINCO PESOS 00/100 M.N.);
+2. Con carrito ambulante, $677.00 (SEISCIENTOS SETENTA Y SIETE PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-3. Con canastilla, $352.00 (TRESCIENTOS CINCUENTA Y DOS PESOS 00/100 M.N.); y
+3. Con canastilla, $370.00 (TRESCIENTOS SETENTA PESOS 00/100 M.N.); y
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-4. Otros ambulantes $412.00 (CUATROCIENTOS DOCE PESOS 00/100 M.N.).
+4. Otros ambulantes $433.00 (CUATROCIENTOS TREINTA Y TRES PESOS 00/100 M.N.).
 
 VII. Mensualidad por uso de piso e instalaciones de otros Parques:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. Metro cuadrado $254.00 (DOSCIENTOS CINCUENTA Y CUATRO PESOS 00/100 M.N.);
+1. Metro cuadrado $267.00 (DOSCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.);
 
 Al resultado por metro cuadrado se sumará por concepto de consumo de energía eléctrica y mantenimiento de áreas, la cuota contenida en la fracción V de este artículo.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. Con carrito ambulante, $622.00 (SEISCIENTOS VEINTIDÓS PESOS 00/100 M.N.);
+2. Con carrito ambulante, $653.00 (SEISCIENTOS CINCUENTA Y TRES PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-3. Con canastilla $317.00 (TRESCIENTOS DIECISIETE PESOS 00/100 M.N.); y
+3. Con canastilla $333.00 (TRESCIENTOS TREINTA Y TRES PESOS 00/100 M.N.); y
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-4. Otros ambulantes $338.00 (TRESCIENTOS TREINTA Y OCHO PESOS 00/100 M.N.).
+4. Otros ambulantes $355.00 (TRESCIENTOS CINCUENTA Y CINCO PESOS 00/100 M.N.).
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 175], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -3925,21 +4021,21 @@ El Instituto Estatal del Deporte en el Estado de Coahuila de Zaragoza, al realiz
 
 Los servicios prestados por la Secretaría de Desarrollo Rural, causarán derechos conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-I. Registro de fierro de herrar y marca de sangre $519.00 (QUINIENTOS DIECINUEVE PESOS 00/100 M.N.).
+I. Registro de fierro de herrar y marca de sangre $545.00 (QUINIENTOS CUARENTA Y CINCO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Guías de tránsito para movilización de ganado $132.00 (CIENTO TREINTA Y DOS PESOS 00/100 M.N.).
+II. Guías de tránsito para movilización de ganado $139.00 (CIENTO TREINTA Y NUEVE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-III. Registro y/o revalidación de prestadores de servicios de ganadería $3,463.00 (TRES MIL CUATROCIENTOS SESENTA Y TRES PESOS 00/100 M.N.).
+III. Registro y/o revalidación de prestadores de servicios de ganadería $3,636.00 (TRES MIL SEISCIENTOS TREINTA Y SEIS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-IV. Certificación de origen de ganado $1,154.00 (UN MIL CIENTO CINCUENTA Y CUATRO PESOS 00/100 M.N.).
+IV. Certificación de origen de ganado $1,212.00 (UN MIL DOSCIENTOS DOCE PESOS 00/100 M.N.).
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
@@ -3985,19 +4081,19 @@ Los servicios a que se refiere esta Sección causarán derechos conforme a la si
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-I. Por la constancia de no robo de vehículo, $163.00 (CIENTO SESENTA Y TRES PESOS 00/100 M.N.).
+I. Por la constancia de no robo de vehículo, $171.00 (CIENTO SETENTA Y UN PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Certificaciones, constancias o actas que acrediten el extravío de documentos $54.00 (CINCUENTA Y CUATRO PESOS 00/100 M.N.) por la primera hoja, y $5.00 (CINCO PESOS 00/100 M.N.) por hoja adicional.
+II. Certificaciones, constancias o actas que acrediten el extravío de documentos $57.00 (CINCUENTA Y SIETE PESOS 00/100 M.N.) por la primera hoja, y $5.00 (CINCO PESOS 00/100 M.N.) por hoja adicional.
 
-(REPUBLICADA, P.O. 27 DE DICIEMBRE DE 2022)
+(REPUBLICADA, P.O. 26 DE DICIEMBRE DE 2023)
 
 III. Por la expedición de copias certificadas, $3.00, (TRES PESOS 00/100 M.N.), por hoja.
 
-(REPUBLICADA, P.O. 27 DE DICIEMBRE DE 2022)
+(REPUBLICADA, P.O. 26 DE DICIEMBRE DE 2023)
 
 IV. Copia simple $2.00 (DOS PESOS 00/100 M.N.), por hoja.
 
@@ -4031,7 +4127,7 @@ SUJETO
 
 Son sujetos de este derecho las personas físicas y morales que soliciten los servicios a que se refiere el artículo anterior.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2023)
 
 ###### ARTICULO 157-J.
 
@@ -4039,23 +4135,83 @@ Los servicios a que se refiere esta Sección causarán derechos conforme a la si
 
 TARIFA
 
-I. Por la impartición de cursos, diplomados, foros, talleres, licenciaturas, especialidades, capacitaciones para el trabajo, maestrías y adiestramientos relacionados con el área de seguridad y procuración de justicia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Inscripción, colegiaturas, títulos, cárdex, certificados, constancias.
+I. Por paquete de titulación:
 
-III. Material Didáctico.
+a. Técnico Superior Universitario $3,500.00 (TRES MIL QUINIENTOS PESOS 00/100 M.N.).
 
-IV. Seguro Facultativo.
+b. Especialidades $4,000.00 (CUATRO MIL PESOS 00/100 M.N.).
 
-V. Uniformes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VI. Diseño o asesoría para la elaboración Curricular de Programas Académicos.
+II. Constancia de Estudios $100.00 (CIEN PESOS 00/100 M.N.).
 
-VII. Uso de Plataformas relacionados con la Educación en Línea Propiedad del Centro.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VIII. Expedición y duplicado de títulos, cárdex, certificados, constancias.
+III. Cárdex o Certificado:
 
-Los derechos por los conceptos señalados en las fracciones I, II, III, IV, V, VI, VII y VIII del presente artículo se determinarán en el convenio específico que al efecto se celebre con los usuarios de los mismos.
+a. Técnico Superior $1,500.00 (UN MIL QUINIENTOS PESOS 00/100 M.N.).
+
+b. Especialidades $2,000.00 (DOS MIL PESOS 00/100 M.N.).
+
+c. Reposición $500.00 (QUINIENTOS PESOS 00/100 M.N.).
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+IV. Curso de Titulación $2,000.00 (DOS MIL PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+V. Inscripción $500.00 (QUINIENTOS PESOS 00/100 M.N.).
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+VI. Ficha de examen de admisión $200.00 (DOSCIENTOS PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+VII. Colegiatura $800.00 (OCHOCIENTOS PESOS 00/100 M.N.).
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+VIII. Constancia de liberación del servicio social $100.00 (CIEN PESOS 00/100 M.N.).
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+IX. Credencial estudiantil $100.00 (CIEN PESOS 00/100 M.N.).
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+X. Curso de formación de Mediadores Universitarios $200.00 (DOSCIENTOS PESOS 00/100 M.N.).
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+XI. Por la impartición de cursos, diplomados, foros, talleres, licenciaturas, especialidades, capacitaciones para el trabajo, maestrías y adiestramientos relacionados con el área de seguridad y procuración de justicia.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+XII. Material Didáctico.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+XIII. Seguro Facultativo.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+XIV. Uniformes.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+XV. Diseño o asesoría para la elaboración Curricular de Programas Académicos.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+XVI. Uso de Plataformas relacionados con la Educación en Línea Propiedad del Centro.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+Los derechos por los conceptos señalados en las fracciones XI., XII., XIII., XIV., XV. Y XVI., del presente artículo se determinarán en el convenio específico que al efecto se celebre con los usuarios de los mismos.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
@@ -4095,181 +4251,181 @@ Los servicios a que se refiere esta Sección causarán derechos conforme a la si
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-I. Por la consulta en el Archivo de Antecedentes Policiales $114.00 (CIENTO CATORCE PESOS 00/100 M.N.).
+I. Por la consulta en el Archivo de Antecedentes Policiales $120.00 (CIENTO VEINTE PESOS 00/100 M.N.).
 
 II. Pruebas y Técnicas:
 
 a. Laboratorio de Química.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. Detección de alcohol $347.00 (TRESCIENTOS CUARENTA Y SIETE PESOS 00/100 M.N.).
+1. Detección de alcohol $364.00 (TRESCIENTOS SESENTA Y CUATRO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. Identificación de metabolitos de drogas de abuso (IMDA). $325.00 (TRESCIENTOS VEINTICINCO PESOS 00/100 M.N.).
+2. Identificación de metabolitos de drogas de abuso (IMDA), $341.00 (TRESCIENTOS CUARENTA Y UN PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-3. Identificación de narcóticos. $629.00 (SEISCIENTOS VEINTINUEVE PESOS 00/100 M.N.).
+3. Identificación de narcóticos, $660.00 (SEISCIENTOS SESENTA PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-4. Identificación de sangre. $217.00 (DOSCIENTOS DIECISIETE PESOS 00/100 M.N.).
+4. Identificación de sangre, $228.00 (DOSCIENTOS VEINTIOCHO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-5. Tipificación de grupo sanguíneo. $217.00 (DOSCIENTOS DIECISIETE PESOS 00/100 M.N.).
+5. Tipificación de grupo sanguíneo, $228.00 (DOSCIENTOS VEINTIOCHO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-6. Identificación de células $271.00 (DOSCIENTOS SETENTA Y UN PESOS 00/100 M.N.).
+6. Identificación de células, $285.00 (DOSCIENTOS OCHENTA Y CINCO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-7. Identificación de fenolftaleína. $217.00 (DOSCIENTOS DIECISIETE PESOS 00/100 M.N.).
+7. Identificación de fenolftaleína, $228.00 (DOSCIENTOS VEINTIOCHO PESOS 00/100 M.N.).
 
 III. Otros servicios periciales:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-a. Peritaje de tránsito terrestre, $2,938.00 (DOS MIL NOVECIENTOS TREINTA Y OCHO PESOS 00/100 M.N.).
+a. Peritaje de tránsito terrestre, $3,085.00 (TRES MIL OCHENTA Y CINCO PESOS 00/100 M.N.).
 
 b. Grafoscopía,
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. Autenticidad o falsedad de firmas $3,252.00 (TRES MIL DOSCIENTOS CINCUENTA Y DOS PESOS 00/100 M.N.).
+1. Autenticidad o falsedad de firmas $3,415.00 (TRES MIL CUATROCIENTOS QUINCE PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. Atribución o procedencia de firmas y/o manuscritura, $3,252.00 (TRES MIL DOSCIENTOS CINCUENTA Y DOS PESOS 00/100 M.N.).
+2. Atribución o procedencia de firmas y/o manuscritura, $3,415.00 (TRES MIL CUATROCIENTOS QUINCE PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-3. Origen gráfico de firmas y/o manuscritura, $3,252.00 (TRES MIL DOSCIENTOS CINCUENTA Y DOS PESOS 00/100 M.N.).
+3. Origen gráfico de firmas y/o manuscritura, $3,415.00 (TRES MIL CUATROCIENTOS QUINCE PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-c. Valuación de daños, $2,797.00 (DOS MIL SETECIENTOS NOVENTA Y SIETE PESOS 00/100 M.N.).
+c. Valuación de daños, $2,937.00 (DOS MIL NOVECIENTOS TREINTA Y SIETE PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-d. Dactiloscopía, $3,794.00 (TRES MIL SETECIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.).
+d. Dactiloscopía, $3,983.00 (TRES MIL NOVECIENTOS OCHENTA Y TRES PESOS 00/100 M.N.).
 
 e. Documentoscopico.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. Autenticidad o falsedad de Documentos. $3,794.00 (TRES MIL SETECIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.).
+1. Autenticidad o falsedad de Documentos. $3,983.00 (TRES MIL NOVECIENTOS OCHENTA Y TRES PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. Alteración de documentos. $3,794.00 (TRES MIL SETECIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.).
+2. Alteración de documentos. $3,983.00 (TRES MIL NOVECIENTOS OCHENTA Y TRES PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-3. Análisis de impresión de sellos. $3,794.00 (TRES MIL SETECIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.).
+3. Análisis de impresión de sellos. $3,983.00 (TRES MIL NOVECIENTOS OCHENTA Y TRES PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-4. Revelado de surcos. $3,794.00 (TRES MIL SETECIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.).
+4. Revelado de surcos. $3,983.00 (TRES MIL NOVECIENTOS OCHENTA Y TRES PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-f. Fotografía Forense. $1,301.00 (UN MIL TRESCIENTOS UN PESOS 00/100 M.N.).
+f. Fotografía Forense. $1,366.00 (UN MIL TRESCIENTOS SESENTA Y SEIS PESOS 00/100 M.N.).
 
 g. Identificación de Vehículos.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. Identificación de Vehículos $867.00 (OCHOCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.).
+1. Identificación de Vehículos $910.00 (NOVECIENTOS DIEZ PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. Avalúo de Vehículos. $867.00 (OCHOCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.).
+2. Avalúo de Vehículos. $910.00 (NOVECIENTOS DIEZ PESOS 00/100 M.N.).
 
 h. Informática Forense.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. Dictámenes de informática forense. $1,951.00 (UN MIL NOVECIENTOS CINCUENTA Y UN PESOS 00/100 M.N.).
+1. Dictámenes de informática forense. $2,049.00 (DOS MIL CUARENTA Y NUEVE PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. Identificación de equipos. $1,951.00 (UN MIL NOVECIENTOS CINCUENTA Y UN PESOS 00/100 M.N.).
+2. Identificación de equipos. $2,049.00 (DOS MIL CUARENTA Y NUEVE PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-3. Valuación de daños en equipos. $1,951.00 (UN MIL NOVECIENTOS CINCUENTA Y UN PESOS 00/100 M.N.).
+3. Valuación de daños en equipos. $2,049.00 (DOS MIL CUARENTA Y NUEVE PESOS 00/100 M.N.).
 
 i. Ingeniería Civil y Arquitectura.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. Valorización de daños en bienes inmuebles. $3,794.00 (TRES MIL SETECIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.).
+1. Valorización de daños en bienes inmuebles. $3,983.00 (TRES MIL NOVECIENTOS OCHENTA Y TRES PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. Causalidad de daños. $3,794.00 (TRES MIL SETECIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.).
+2. Causalidad de daños. $3,983.00 (TRES MIL NOVECIENTOS OCHENTA Y TRES PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-3. Análisis de obra. $3,794.00 (TRES MIL SETECIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.).
+3. Análisis de obra. $3,983.00 (TRES MIL NOVECIENTOS OCHENTA Y TRES PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-4. Identificación de predios o inmuebles urbanos. $3,794.00 (TRES MIL SETECIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.).
+4. Identificación de predios o inmuebles urbanos. $3,983.00 (TRES MIL NOVECIENTOS OCHENTA Y TRES PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-5. Avalúo de bienes inmuebles. $3,794.00 (TRES MIL SETECIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.).
+5. Avalúo de bienes inmuebles. $3,983.00 (TRES MIL NOVECIENTOS OCHENTA Y TRES PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-6. Levantamientos Topográficos. $3,794.00 (TRES MIL SETECIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.).
+6. Levantamientos Topográficos. $3,983.00 (TRES MIL NOVECIENTOS OCHENTA Y TRES PESOS 00/100 M.N.).
 
 j. Odontología Forense.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. Clasificativos de lesiones odontológicas. $542.00 (QUINIENTOS CUARENTA Y DOS PESOS 00/100 M.N.).
+1. Clasificativos de lesiones odontológicas. $569.00 (QUINIENTOS SESENTA Y NUEVE PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. Reclasificativos de lesiones odontológicas. $542.00 (QUINIENTOS CUARENTA Y DOS PESOS 00/100 M.N.).
+2. Reclasificativos de lesiones odontológicas. $569.00 (QUINIENTOS SESENTA Y NUEVE PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-3. Responsabilidad médica en materia de odontología. $16,260.00 (DIECISÉIS MIL DOSCIENTOS SESENTA PESOS 00/100 M.N.).
+3. Responsabilidad médica en materia de odontología. $17,073.00 (DIECISIETE MIL SETENTA Y TRES PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-4. Valorización y costos de trabajos odontológicos para reparaciones del daño. $3,252.00 (TRES MIL DOSCIENTOS CINCUENTA Y DOS PESOS 00/100 M.N.).
+4. Valorización y costos de trabajos odontológicos para reparaciones del daño. $3,415.00 (TRES MIL CUATROCIENTOS QUINCE PESOS 00/100 M.N.).
 
 l. (Sic) Valuación de Bienes.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-1. Avalúo. $3,794.00 (TRES MIL SETECIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.).
+1. Avalúo. $3,984.00 (TRES MIL NOVECIENTOS OCHENTA Y CUATRO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-2. Valor comercial. $3,794.00 (TRES MIL SETECIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.).
+2. Valor comercial. $3,984.00 (TRES MIL NOVECIENTOS OCHENTA Y CUATRO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-3. Valorización de daños. $3,794.00 (TRES MIL SETECIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.).
+3. Valorización de daños. $3,984.00 (TRES MIL NOVECIENTOS OCHENTA Y CUATRO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-4. Valor intrínseco. $3,794.00 (TRES MIL SETECIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.).
+4. Valor intrínseco. $3,984.00 (TRES MIL NOVECIENTOS OCHENTA Y CUATRO PESOS 00/100 M.N.).
 
-(REPUBLICADO, P.O. 27 DE DICIEMBRE DE 2022)
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-En todos los casos en que el personal de la Dirección General de Servicios Periciales, con o sin equipo, deba trasladarse fuera de los locales en que normalmente prestan sus servicios, se causarán derechos de $30.00 (TREINTA PESOS 00/100 M.N.) por kilómetro recorrido.
+En todos los casos en que el personal de la Dirección General de Servicios Periciales, con o sin equipo, deba trasladarse fuera de los locales en que normalmente prestan sus servicios, se causarán derechos de $31.00 (TREINTA Y UN PESOS 00/100 M.N.) por kilómetro recorrido.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
@@ -4309,33 +4465,33 @@ Los servicios a que se refiere el presente Capítulo causarán derechos conforme
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-I. Bases de licitación pública nacional para obra pública y servicios relacionados con la misma, $2,367.00 (DOS MIL TRESCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.).
+I. Bases de licitación pública nacional para obra pública y servicios relacionados con la misma, $2,485.00 (DOS MIL CUATROCIENTOS OCHENTA Y CINCO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-II. Búsqueda de datos en el Archivo General del Tribunal de Justicia Administrativa de Coahuila de Zaragoza, $59.00 (CINCUENTA Y NUEVE PESOS 00/100 M.N.).
+II. Búsqueda de datos en el Archivo General del Tribunal de Justicia Administrativa de Coahuila de Zaragoza, $62.00 (SESENTA Y DOS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-III. Curso de capacitación impartido por el Servicio Profesional de Carrera a personas externas al Tribunal de Justicia Administrativa de Coahuila de Zaragoza, $354.00 (TRESCIENTOS CINCUENTA Y CUATRO PESOS 00/100 M.N.).
+III. Curso de capacitación impartido por el Servicio Profesional de Carrera a personas externas al Tribunal de Justicia Administrativa de Coahuila de Zaragoza, $371.00 (TRESCIENTOS SETENTA Y UN PESOS 00/100 M.N.).
 
-(REPUBLICADA, P.O. 27 DE DICIEMBRE DE 2022)
+(REPUBLICADA, P.O. 26 DE DICIEMBRE DE 2023)
 
 IV. Copia simple $2.00 (DOS PESOS 00/100 M.N.), por hoja.
 
-(REPUBLICADA, P.O. 27 DE DICIEMBRE DE 2022)
+(REPUBLICADA, P.O. 26 DE DICIEMBRE DE 2023)
 
 V. Copia certificada, $3.00 (TRES PESOS 00/100 M.N.), por hoja.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VI. CD/DVD con la grabación de audiencia en materia fiscal, administrativa y de responsabilidades, $35.00 (TREINTA Y CINCO PESOS 00/100 M.N.).
+VI. CD/DVD con la grabación de audiencia en materia fiscal, administrativa y de responsabilidades, $37.00 (TREINTA Y SIETE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-VII. Validación de contenidos de capacitación en materia fiscal, administrativa y de responsabilidades, $2,927.00 (DOS MIL NOVECIENTOS VEINTISIETE PESOS 00/100 M.N.).
+VII. Validación de contenidos de capacitación en materia fiscal, administrativa y de responsabilidades, $3,073.00 (TRES MIL SETENTA Y TRES PESOS 00/100 M.N.).
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
@@ -4457,11 +4613,11 @@ La base de esta contribución, es el importe de los pagos que se realicen por co
 
 TASA
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 169.
 
-La cuota correspondiente a esta contribución para el fomento al deporte, será de $10.00 (DIEZ PESOS 00/100 M.N.), sobre el monto de uno de los pagos por concepto de los impuestos, derechos y cualquier otra contribución y los accesorios de éstos, que se paguen con excepción de los señalados.
+La cuota correspondiente a esta contribución para el fomento al deporte será de $10.00 (DIEZ PESOS 00/100 M.N.), sobre el monto de uno de los pagos por concepto de los impuestos, derechos y cualquier otra contribución y los accesorios de éstos, que se paguen con excepción de los señalados.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE DICIEMBRE DE 2021)</small>
 
@@ -4733,57 +4889,57 @@ II. Arrendamiento de bienes muebles o inmuebles propiedad del Estado; inclusive 
 
 1. Teatro de Monclova y Piedras Negras,
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-a. Empresarios Privados, $77,825.00 (SETENTA Y SIETE MIL OCHOCIENTOS VEINTICINCO PESOS 00/100 M.N.);
+a. Empresarios Privados, $81,716.00 (OCHENTA Y UN MIL SETECIENTOS DIECISÉIS PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-b. Escuelas y Eventos Gratuitos previa autorización del Ejecutivo del Estado, $38,912.00 (TREINTA Y OCHO MIL NOVECIENTOS DOCE PESOS 00/100 M.N.);
+b. Escuelas y Eventos Gratuitos previa autorización del Ejecutivo del Estado, $40,858.00 (CUARENTA MIL OCHOCIENTOS CINCUENTA Y OCHO PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-c. Eventos de Artistas Locales Independientes, $24,904.00 (VEINTICUATRO MIL NOVECIENTOS CUATRO PESOS 00/100 M.N.) por día;
+c. Eventos de Artistas Locales Independientes, $26,149.00 (VEINTISÉIS MIL CIENTO CUARENTA Y NUEVE PESOS 00/100 M.N.) por día;
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-d. Teatro de Cámara de Monclova para Artistas Locales, $8,014.00 (OCHO MIL CATORCE PESOS 00/100 M.N.) por día;
+d. Teatro de Cámara de Monclova para Artistas Locales, $8,415.00 (OCHO MIL CUATROCIENTOS QUINCE PESOS 00/100 M.N.) por día;
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-e. Teatro de Cámara de Monclova para graduaciones, $15,568.00 (QUINCE MIL QUINIENTOS SESENTA Y OCHO PESOS 00/100 M.N.) por día;
+e. Teatro de Cámara de Monclova para graduaciones, $16,346.00 (DIECISÉIS MIL TRESCIENTOS CUARENTA Y SEIS PESOS 00/100 M.N.) por día;
 
 2. Teatro de Saltillo,
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-a. Empresarios Privados, $62,260.00 (SESENTA Y DOS MIL DOSCIENTOS SESENTA PESOS 00/100 M.N.);
+a. Empresarios Privados, $65,373.00 (SESENTA Y CINCO MIL TRESCIENTOS SETENTA Y TRES PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-b. Escuelas y Eventos Gratuitos previa autorización del Ejecutivo del Estado, $34,245.00 (TREINTA Y CUATRO MIL DOSCIENTOS CUARENTA Y CINCO PESOS 00/100 M.N.);
+b. Escuelas y Eventos Gratuitos previa autorización del Ejecutivo del Estado, $35,957.00 (TREINTA Y CINCO MIL NOVECIENTOS CINCUENTA Y SIETE PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-c. Eventos de Artistas Locales Independientes, $28,794.00 (VEINTIOCHO MIL SETECIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.) por día;
+c. Eventos de Artistas Locales Independientes, $30,234.00 (TREINTA MIL DOSCIENTOS TREINTA Y CUATRO PESOS 00/100 M.N.) por día;
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-d. Teatro De Cámara del Teatro Fernando Soler y Casa de la Cultura para Artistas Locales, $3,887.00 (TRES MIL OCHOCIENTOS OCHENTA Y SIETE PESOS 00/100 M.N.) fin de semana;
+d. Teatro De Cámara del Teatro Fernando Soler y Casa de la Cultura para Artistas Locales, $4,081.00 (CUATRO MIL OCHENTA Y UN PESOS 00/100 M.N.) fin de semana;
 
 3. Teatro Salvador Novo de Torreón:
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-a. Empresarios Privados, $18,678.00 (DIECIOCHO MIL SEISCIENTOS SETENTA Y OCHO PESOS 00/100 M.N.);
+a. Empresarios Privados, $19,612.00 (DIECINUEVE MIL SEISCIENTOS DOCE PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-b. Escuelas y Eventos Gratuitos previa autorización del Ejecutivo del Estado, $12,451.00 (DOCE MIL CUATROCIENTOS CINCUENTA Y UN PESOS 00/100 M.N.);
+b. Escuelas y Eventos Gratuitos previa autorización del Ejecutivo del Estado, $13,074.00 (TRECE MIL SETENTA Y CUATRO PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-c. Eventos de Artistas Locales Independientes, $7,487.00 (SIETE MIL CUATROCIENTOS OCHENTA Y SIETE PESOS 00/100 M.N.) por dos días.
+c. Eventos de Artistas Locales Independientes, $7,861.00 (SIETE MIL OCHOCIENTOS SESENTA Y UN PESOS 00/100 M.N.) por dos días.
 
 III. Explotación o enajenación de cualquier naturaleza, de los bienes propiedad del Estado;
 
@@ -5220,3 +5376,15 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 SEGUNDO.- El presente Decreto entrara en vigor el día primero de enero de dos mil veinticuatro.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 685.- SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero de dos mil veinticuatro.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
