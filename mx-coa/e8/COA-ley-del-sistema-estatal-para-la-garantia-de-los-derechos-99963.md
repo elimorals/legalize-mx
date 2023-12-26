@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-estatal-para-la-garantia-de-los-derechos-99963"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-18"
-last_updated: "2021-01-29"
+last_updated: "2023-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 18 de marzo de 2014.
 
@@ -377,9 +377,9 @@ IX. Instituto Coahuilense de la Juventud;
 
 X. Secretaría de Medio Ambiente y Desarrollo Urbano;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-XI. Instituto Coahuilense de las Mujeres;
+XI. Secretaría de las Mujeres;
 
 XII. Secretaría de Salud;
 
@@ -425,9 +425,9 @@ c) Promover actividades que fortalezcan la promoción y protección de los derec
 
 El Consejo será presidido por la persona titular del Poder Ejecutivo del Estado quien fungirá como Presidente del mismo y tendrá la obligación de incorporar dentro del Plan Estatal de Desarrollo, la política pública que se implementará en el Estado de Coahuila de Zaragoza para garantizar los derechos humanos de niños y niñas.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
-Así mismo, contará con una Secretaría Ejecutiva que estará a cargo de la Secretaría de Inclusión y Desarrollo Social.
+Así mismo, contará con una Secretaría Ejecutiva que estará a cargo de la Dirección General del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza.
 
 ###### Artículo 9.
 
@@ -669,11 +669,13 @@ Para efectos de asistir al menor en toda diligencia a la que comparezca, la auto
 
 De la Procuraduría para Niños, Niñas y la Familia.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 20.
 
-La Procuraduría para Niños, Niñas y la Familia es un organismo público descentralizado de la Administración Pública Estatal, sectorizado al Despacho de la persona titular del Poder Ejecutivo, con personalidad jurídica y patrimonio propio, que tiene por objeto promover y proteger los derechos de niños, niñas y adolescentes.
+La Procuraduría para Niños, Niñas y la Familia es un organismo público descentralizado de la Administración Pública Estatal, sectorizado a la Secretaría de Gobierno, con personalidad jurídica y patrimonio propio, que tiene por objeto promover y proteger los derechos de niños, niñas y adolescentes.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 Tendrá su domicilio en la ciudad de Saltillo, Coahuila de Zaragoza, sin perjuicio de que establezca las representaciones que considere necesarias en las diversas regiones y municipios de la entidad y, que faciliten el cumplimiento de su objeto.
 
@@ -739,13 +741,17 @@ La administración y la dirección de la Procuraduría estarán a cargo del Órg
 
 El Órgano de Gobierno de la Procuraduría estará integrado de la siguiente manera:
 
-I. Un Presidente, que será la persona titular del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+I. Un Presidente, que será la persona titular de la Secretaría de Gobierno;
 
 II. Un Secretario Técnico, que será el Procurador o Procuradora;
 
 III. Por ocho vocales, que serán las personas titulares de:
 
-a. La Secretaría de Gobierno;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+
+a. La Secretaría de las Mujeres;
 
 b. La Secretaría de Inclusión y Desarrollo Social;
 
@@ -2124,3 +2130,11 @@ P.O. 29 DE ENERO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 675.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente decreto entrará en vigor el primero de enero de dos mil veinticuatro.
