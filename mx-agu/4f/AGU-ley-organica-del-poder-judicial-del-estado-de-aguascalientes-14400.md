@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2022-12-09"
+last_updated: "2023-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "AGU"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2023 (ABROGADA).
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -2806,3 +2808,43 @@ P.O. 9 DE DICIEMBRE DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 593.- SE EXPIDE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga la Ley Orgánica del Poder Judicial del Estado, expedida en (sic) 15 de agosto de 1993.
+
+###### ARTÍCULO SEGUNDO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Mientras el Consejo de la Judicatura Estatal realiza la designación de su Secretario, el servidor público que, conforme a la Ley Orgánica del Poder Judicial del Estado abrogada, desempeñaba ese cargo, continuará haciéndolo para el debido funcionamiento de dicho Órgano Administrativo.
+
+###### ARTÍCULO CUARTO.
+
+Los Procedimientos de Responsabilidad Administrativa que, a la entrada en vigor de la presente Ley, se encuentren en etapa de investigación por la Contraloría Interna del Poder Judicial, se remitirán a la Unidad Investigadora de dicho órgano interno de control, para que continúe con las diligencias y en caso de contar con elementos suficientes, proceda a presentar el Informe de Presunta Responsabilidad ante la Autoridad Substanciadora que corresponda conforme a esta legislación.
+
+###### ARTÍCULO QUINTO.
+
+Los Procedimientos de Responsabilidad Administrativa que, a la entrada en vigor de la presente Ley, se encuentren en las etapas de substanciación o resolución, continuarán bajo el conocimiento de las autoridades que corresponda conforme a la legislación abrogada hasta su conclusión.
+
+###### ARTÍCULO SEXTO.
+
+Quedan sin efecto todas aquellas porciones normativas que se opongan a las disposiciones de la presente Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Para los efectos de lo establecido en el artículo Décimo Cuarto de los Transitorios del Decreto 405 del Congreso del Estado de Aguascalientes, publicado en el Periódico Oficial el 8 de agosto del 2023, la transferencia de los procedimientos, expedientes y documentación que tenga bajo su atención o resguardo de la Sala Administrativa del Poder Judicial del Estado de Aguascalientes se realizará al Tribunal de Justicia Administrativa del Estado de Aguascalientes dentro de los diez días hábiles siguientes al 8 de enero del 2024.
+
+###### ARTÍCULO OCTAVO.
+
+Las Magistraturas de la Sala Administrativa integrarán el Pleno del Supremo Tribunal de Justicia del Estado de Aguascalientes a partir del día 8 de enero del 2024, conforme a lo ordenado en el segundo párrafo del artículo Tercero de los Transitorios del Decreto 405 del Congreso del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado el 8 de agosto del 2023.
+
+###### ARTÍCULO NOVENO.
+
+A excepción de la Sala Constitucional, la nueva integración del Pleno del Supremo Tribunal de Justicia del Estado de Aguascalientes deberá integrar el resto de las Salas que se establecen en el artículo 51, párrafo sexto, de la Constitución Política del Estado de Aguascalientes, a través de un procedimiento de insaculación, a más tardar, el 31 de enero del 2024.
