@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-estatal-de-160426"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-09-30"
-last_updated: "2023-12-25"
+last_updated: "2023-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:25 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Número 56 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de septiembre de 2022.
 
@@ -285,9 +285,11 @@ Los Titulares de las Dependencias a que se refiere esta Ley, no podrán desempe�
 
 Los Titulares de las Dependencias del Poder Ejecutivo estarán obligados a coordinar entre sí sus actividades y proporcionarse los informes, datos y la cooperación técnica que requieran en el desempeño de sus atribuciones. Así mismo, estarán obligados a atender las instrucciones de la persona titular del Poder Ejecutivo del Estado en materia de coordinación gubernamental.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 17.
 
-Al tomar posesión del cargo, los Titulares de las Dependencias mencionadas en esta Ley realizarán un inventario sobre los bienes que se encuentren en ellas, debiendo registrarlo ante la Secretaría de Finanzas y presentarlo a la Contraloría del Estado, quienes se encargarán de verificar su exactitud.
+Al tomar posesión del cargo, las personas titulares de las Dependencias mencionadas en esta Ley realizarán un inventario sobre los bienes que se encuentren en ellas, debiendo registrarlo ante la Secretaría de Finanzas, y la Secretaría de Administración, según corresponda, quienes se encargarán de verificar su exactitud.
 
 ###### Artículo 18.
 
@@ -577,15 +579,29 @@ XIX. Desarrollar los procedimientos de contratación y celebrar los contratos de
 
 XX. Llevar el registro de proveedores de bienes y servicios de la Administración Pública Estatal;
 
-XXI. Presentar las denuncias, acusaciones o querellas con motivo de hechos delictuosos donde resulte afectado el patrimonio del Estado, con las excepciones que marca la Ley, dándole el seguimiento correspondiente;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
+XXI. Coordinarse con las Dependencias y Entidades para emitir los lineamientos y criterios, jurídicos y administrativos que deberán aplicarse en las denuncias, demandas, acusaciones o querellas presentadas por las Dependencias y Entidades, con motivo de hechos donde resulte afectado el patrimonio del Estado con las excepciones que marca la Ley, sin limitar la responsabilidad de los actos ejercidos por las Dependencias o Entidades;
 
 XXII. Proporcionar los apoyos necesarios para la realización de los actos cívicos en el Estado;
 
 XXIII. Proponer a las Entidades Paraestatales las directrices que emita la Secretaría de Administración en el ámbito de su competencia, con la finalidad de eficientar el desarrollo de sus funciones, sin perjuicio de lo establecido en su normatividad;
 
-XXIV. Llevar el inventario de los bienes muebles e inmuebles al cuidado o propiedad de la Administración Pública Estatal; supervisar el correcto uso y estado de conservación de los mismos, e informar a la Secretaría de Finanzas cualquier aspecto que pudiera afectar el registro de la propiedad sobre los mismos; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2023)</small>
 
-XXV. Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
+XXIV. Llevar y mantener actualizado el inventario de los bienes al cuidado o propiedad de la Administración Pública Estatal, con base a la información que proporcionen las Dependencias y Entidades Paraestatales, así como llevar el control y resguardo del acervo documental y archivístico de los bienes inmuebles de la Administración Pública Centralizada;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
+XXV. Administrar, asignar y controlar los bienes de la Administración Pública Centralizada, así como normar su uso, aprovechamiento y destino, en atención a la Ley de Bienes para el Estado de Aguascalientes e informar a la Secretaría de Finanzas cualquier aspecto que pudiera afectar el registro de la propiedad sobre los mismos, de conformidad con la Ley General de Contabilidad Gubernamental;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
+XXVI. Coordinar el Sistema Estatal de Bienes, así como conformar y administrar el Registro Estatal de Bienes de los Poderes y Entidades del Estado, de conformidad con lo establecido por la Ley de Bienes para el Estado de Aguascalientes;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE DICIEMBRE DE 2023)</small>
+
+XXVII. Ejercer las atribuciones y facultades que le señale la Ley de Bienes para el Estado de Aguascalientes, la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios, las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
 
 #### Sección Tercera. Secretaría de Finanzas
 
@@ -1685,7 +1701,9 @@ X. Llevar a cabo la evaluación sistemática del ejercicio de los recursos propi
 
 XI. Informar a la persona titular del Poder Ejecutivo del Estado sobre el resultado de la evaluación, fiscalización y auditoría de las Dependencias y Entidades de la Administración Pública Estatal;
 
-XII. Vigilar y supervisar que las Dependencias y Entidades de la Administración Pública, cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obras públicas, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
+XII. Fiscalizar que las Dependencias y Entidades de la Administración Pública Estatal, cumplan con las normas y disposiciones en materia de sistemas de registros de bienes, de contabilidad, contratación y pago de personal, contratación de servicios, obras públicas, adquisiciones, arrendamientos, almacenes y demás activos y recursos materiales;
 
 XIII. Coordinarse con el Órgano Superior de Fiscalización, conforme al Sistema Estatal de Fiscalización, para el establecimiento de los procedimientos necesarios para el cabal cumplimiento de sus respectivas atribuciones;
 
@@ -1731,7 +1749,7 @@ XXX. Registrar y recibir las declaraciones de situación patrimonial, de interes
 
 XXXI. Supervisar el cumplimiento de los sujetos obligados de la Administración Pública Estatal, conforme a lo estipulado en materia de Transparencia, Acceso a la Información Pública y Protección de Datos Personales;
 
-XXXII. Vigilar y fiscalizar el ejercicio de las funciones inherentes al Registro Administrativo de la Propiedad Pública del Estado; y
+XXXII. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2023)
 
 XXXIII. Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
 
@@ -1793,7 +1811,13 @@ XXIV. Representar al Poder Ejecutivo en el Consejo de la Judicatura Estatal;
 
 XXV. Revisar y aprobar la viabilidad jurídica de los documentos que se sometan a consideración y firma de la persona titular del Poder Ejecutivo del Estado;
 
-XXVI. Los demás que en relación con su competencia le señale la Persona Titular del Poder Ejecutivo o le atribuyan expresamente las Leyes, Decretos, Reglamentos, Acuerdos, Convenios y demás disposiciones vigentes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2023)</small>
+
+XXVI. Suscribir los documentos jurídicos y legales para la formalización de los actos de adquisición y disposición de bienes inmuebles en los que el Ejecutivo y las Dependencias intervengan, conforme a las disposiciones y competencias establecidas en la Ley de Bienes para el Estado de Aguascalientes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE DICIEMBRE DE 2023)</small>
+
+XXVII. Los demás que en relación con su competencia le señale la Persona Titular del Poder Ejecutivo o le atribuyan expresamente las Leyes, Decretos, Reglamentos, Acuerdos, Convenios y demás disposiciones vigentes.
 
 ### CAPÍTULO V. Tribunales Administrativos
 
@@ -1974,3 +1998,41 @@ La Secretaría de Desarrollo Rural y Agroempresarial dentro del plazo de 180 dí
 ###### ARTICULO TERCERO.
 
 La Secretaría de Desarrollo Rural y Agroempresarial, dentro del plazo de 180 días contados a partir de la fecha en que se hayan asignado los recursos solicitados, deberá emitir las reglas para su asignación y determinación, así como los mecanismos para la entrega de los apoyos directos a los trabajadores del campo, los cuales una vez instaurados deberán ser difundidos, para dar a conocer el proceso del trámite que los interesados habrán de llevar a cabo.
+
+P.O. 27 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 575.- SE REFORMA LA LEY DE LA ADMINISTRACIÓN PÚBLICA ESTATAL; Y SE EXPIDE LA LEY DE BIENES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, se abroga la Ley de Bienes del Estado de Aguascalientes, publicado en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, de fecha 23 de marzo de 2015, así como sus reformas y modificaciones subsecuentes.
+
+###### ARTÍCULO TERCERO.
+
+Con la entrada en vigor del presente Decreto quedan sin efecto todas aquellas disposiciones legales y administrativas anteriores a esta o aquellas que se opongan. Los manuales, lineamientos y demás normatividad emanada de la Ley de Bienes a que se refiere el artículo anterior, permanecerán vigentes en tanto no se emitan aquellos que los sustituyan.
+
+###### ARTÍCULO CUARTO.
+
+Cuando en el Artículo Segundo del presente Decreto, por el que se expide la Ley de Bienes para el Estado de Aguascalientes se dé una denominación distinta a alguna de las Unidades Administrativas con funciones o atribuciones establecidas por otro ordenamiento jurídico, dichas funciones o atribuciones se entenderán conferidas a la Unidad Administrativa que determine la Ley referida, en tanto no se expidan o reformen los ordenamientos jurídicos correspondientes.
+
+###### ARTÍCULO QUINTO.
+
+A partir de la entrada en vigor del presente Decreto, deberán instalarse los Comités de Bienes establecidos en el Artículo Segundo del presente Decreto, por el que se expide la Ley de Bienes para el Estado de Aguascalientes, en un término no mayor a 90 días naturales posteriores.
+
+ARTÍCULO SÉXTO.- A partir de la entrada en vigor de la presente Ley, La Secretaría de Administración en coordinación con la Secretaría de Innovación y Gobierno Digital, en un plazo que no exceda de 360 días naturales contados a partir de la entrada en vigor del presente decreto, deberán elaborar los programas y/o sistemas digitales que correspondan para la implementación del Registro Estatal y de Inventario en los términos establecidos por la presente Ley, según las necesidades y operación requeridas.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se faculta a la Secretaría de Finanzas a realizar todas las adecuaciones y reasignaciones que sean necesarias para la implementación del presente Decreto, considerando el Presupuesto de Egresos del Estado de Aguascalientes para el Ejercicio fiscal del Año 2024 y presupuesto subsecuente y rindiendo lo relativo en la Cuenta Pública del Ejercicio Fiscal que corresponda.
+
+###### ARTÍCULO OCTAVO.
+
+Los asuntos administrativos, legales, judiciales; archivos, expediente, documentos y carpetas que se encuentren en trámite ante la Contraloría del Estado y que deriven de la Ley de Bienes del Estado de Aguascalientes que se abroga con la entrada en vigor del presente Decreto, serán transferidos a la Secretaría de Administración para su resguardo y en su caso, para la tramitación que corresponda en virtud de la sustitución de funciones en los términos de la nueva Ley de Bienes del Estado de Aguascalientes que se expide y conforme a las demás disposiciones jurídicas que de ella emanen.
+
+###### ARTÍCULO NOVENO.
+
+Los derechos y obligaciones sobre los títulos de propiedad en materia de bienes muebles e inmuebles pertenecientes y/o asignados a la Contraloría del Estado, pasarán a formar parte de la Secretaría de Administración, misma que ejercerá pleno derecho sobre los mismos.
