@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-electoral-de-la-ciudad-de-1225
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-07-18"
-last_updated: "2022-01-05"
+last_updated: "2023-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122599&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-07-10"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE DICIEMBRE DE 2023.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el martes 18 de julio de 2017.
 
@@ -254,9 +254,9 @@ XIX. Establecer las medidas de austeridad para la optimización de recursos, a m
 
 XX. Administrar los recursos humanos, financieros y materiales que les sean asignados, sujetos a las políticas y normativa establecidas al respecto; así como participar y colaborar con los órganos o áreas administrativas competentes en la supervisión y control del presupuesto;
 
-> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2023)</small>
 
-XXI. Designar, mediante oficio, a quienes las/los sustituyan en ausencias que se den por motivos de salud, vacaciones, licencias o cualquier otra causa justificada. Las ausencias que excedan diez días hábiles, así como las vacantes, serán cubiertas temporalmente, con todos los emolumentos y prestaciones inherentes al cargo, por la persona encargada de despacho que designe la Presidencia, hasta que el Pleno determine lo conducente; a excepción de la Secretaría General, de la Contraloría y de la Defensoría Ciudadana, cuya designación se realizará conforme a lo previsto en el presente Reglamento;
+XXI. Designar, mediante oficio, a quienes las/los sustituyan en ausencias que se den por motivos de salud, vacaciones, licencias o cualquier otra causa justificada. Las ausencias que excedan noventa días hábiles, así como las vacantes, serán cubiertas temporalmente, con todos los emolumentos y prestaciones inherentes al cargo, por la persona encargada de despacho que designe la Presidencia, hasta que el Pleno determine lo conducente; a excepción de la Secretaría General, de la Contraloría y de la Defensoría Ciudadana, cuya designación se realizará conforme a lo previsto en el presente Reglamento;
 
 > <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
 
@@ -2601,3 +2601,11 @@ G.O. 5 DE ENERO DE 2022.
 PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en los estrados del Tribunal Electoral de la Ciudad de México.
 
 SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México y en los estrados, así como en las páginas de Internet e Intranet del Tribunal Electoral de la Ciudad de México.
+
+G.O. 27 DE DICIEMBRE DE 2023.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE SE “REFORMA A LA FRACCIÓN XXI DEL ARTÍCULO 5 DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO”.]</small>
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en los Estrados del Tribunal Electoral de la Ciudad de México.
+
+SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México y en los Estrados, así como en las páginas de Internet e Intranet del Tribunal Electoral de la Ciudad de México.
