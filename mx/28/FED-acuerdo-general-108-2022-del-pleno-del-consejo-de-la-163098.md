@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-108-2022-del-pleno-del-consejo-de-la-163098"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2023-01-16"
-last_updated: "2023-03-24"
+last_updated: "2023-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=163098&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-01-05"
 
 ACUERDO GENERAL 108/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DE LOS PLENOS REGIONALES DE LAS REGIONES CENTRO-NORTE Y CENTRO-SUR, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL Y DOMICILIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2023.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 16 de enero de 2023.
 
@@ -47,35 +47,33 @@ Por lo anterior, se expide el siguiente
 
 ACUERDO
 
+> <small>(REFORMADO POR EL ARTÍCULO 3 DEL ACUERDO GENERAL 38/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 1.
 
-Creación y denominación. Se crean los Plenos Regionales que conforman las Regiones Centro-Norte, y Centro Sur, los cuales serán especializados en materias penal, administrativa, civil o de trabajo.
+Creación y denominación. Se crean los Plenos Regionales que conforman las Regiones Centro-Norte, y Centro Sur, los cuales serán semiespecializados: uno en materias penal y de trabajo, y uno en materias administrativa y civil.
 
 Su denominación será la siguiente:
 
 I. Plenos Regionales de la Región Centro-Norte:
 
-1. Pleno Regional en Materia Penal de la Región Centro-Norte, con residencia en la Ciudad de México.
+1. Pleno Regional en Materias Penal y de Trabajo de la Región Centro-Norte, con residencia en la Ciudad de México.
 
-2. Pleno Regional en Materia Administrativa de la Región Centro-Norte, con residencia en la Ciudad de México.
-
-3. Pleno Regional en Materia Civil de la Región Centro-Norte, con residencia en la Ciudad de México.
-
-4. Pleno Regional en Materia de Trabajo de la Región Centro-Norte, con residencia en Monterrey, Nuevo León.
+2. Pleno Regional en Materias Administrativa y Civil de la Región Centro-Norte, con residencia en la Ciudad de México.
 
 II. Plenos Regionales de la Región Centro-Sur:
 
-1. Pleno Regional en Materia Penal de la Región Centro-Sur, con residencia en San Andrés Cholula, Puebla.
+1. Pleno Regional en Materias Penal y de Trabajo de la Región Centro-Sur, con residencia en la Ciudad de México.
 
-2. Pleno Regional en Materia Administrativa de la Región Centro-Sur, con residencia en Cuernavaca, Morelos.
+2. Pleno Regional en Materias Administrativa y Civil de la Región Centro-Sur, con residencia en la Ciudad de México.
 
-3. Pleno Regional en Materia Civil de la Región Centro-Sur, con residencia en Guadalajara, Jalisco.
-
-4. Pleno Regional en Materia de Trabajo de la Región Centro-Sur, con residencia en la Ciudad de México.
+> <small>(REFORMADO POR EL ARTÍCULO 3 DEL ACUERDO GENERAL 38/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 2.
 
-Competencia. Los Plenos Regionales conocerán de los asuntos en la materia de su especialidad, conforme a lo previsto en la Ley Orgánica del Poder Judicial de la Federación, la Ley de Amparo Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos y los artículos 7, 8, 12, 13, 14 y 15 del Acuerdo General 67/2022 del Pleno del Consejo de la Judicatura Federal que reglamenta la competencia, integración, organización y funcionamiento de los Plenos Regionales.
+Competencia. Los Plenos Regionales conocerán de los asuntos en las materias de su semiespecialidad, conforme a lo previsto en la Ley Orgánica del Poder Judicial de la Federación, la Ley de Amparo Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos y los artículos 7, 8, 12, 13, 14 y 15 del Acuerdo General 67/2022, del Pleno del Consejo de la Judicatura Federal, que reglamenta la competencia, integración, organización y funcionamiento de los Plenos Regionales.
+
+> <small>(REFORMADO POR EL ARTÍCULO 3 DEL ACUERDO GENERAL 38/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 3.
 
@@ -83,25 +81,15 @@ Domicilio. Los Plenos Regionales tendrán su domicilio en:
 
 I. Plenos Regionales de la Región Centro-Norte:
 
-1. Pleno Regional en Materia Penal de la Región Centro-Norte, con residencia en la Ciudad de México, en Avenida Revolución número 366, colonia San Pedro de los Pinos, alcaldía Benito Juárez, código postal 03800, en la Ciudad de México.
+1. Pleno Regional en Materias Penal y de Trabajo de la Región Centro-Norte, con residencia en la Ciudad de México, en Avenida Revolución número 366, colonia San Pedro de los Pinos, alcaldía Benito Juárez, código postal 03800, en la Ciudad de México.
 
-2. Pleno Regional en Materia Administrativa de la Región Centro-Norte, con residencia en la Ciudad de México, en Avenida Insurgentes Sur número 2065, colonia San Ángel, alcaldía Álvaro Obregón, código postal 01000, en la Ciudad de México.
-
-3. Pleno Regional en Materia Civil de la Región Centro-Norte, con residencia en la Ciudad de México, en Avenida Revolución número 366, colonia San Pedro de los Pinos, alcaldía Benito Juárez, código postal 03800, en la Ciudad de México.
-
-> <small>(REFORMADO POR EL ARTÍCULO 6 DEL ACUERDO GENERAL 1/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE MARZO DE 2023)</small>
-
-4. Pleno Regional en Materia de Trabajo de la Región Centro-Norte, con residencia en Monterrey, Nuevo León, en Avenida San Jerónimo, número 999 Poniente, colonia San Jerónimo, código postal 64640, en Monterrey, Nuevo León.
+2. Pleno Regional en Materias Administrativa y Civil de la Región Centro-Norte, con residencia en la Ciudad de México, en Avenida Insurgentes Sur número 2065, colonia San Ángel, alcaldía Álvaro Obregón, código postal 01000, en la Ciudad de México.
 
 II. Plenos Regionales de la Región Centro-Sur:
 
-1. Pleno Regional en Materia Penal de la Región Centro-Sur, con residencia en San Andrés Cholula, Puebla, en el Edificio Sede del Poder Judicial de la Federación en Puebla, avenida Osa Menor número 82, Ciudad Judicial Siglo XXI, reserva territorial Atlixcáyotl, código postal 72810, San Andrés Cholula, Puebla.
+1. Pleno Regional en Materias Administrativa y Civil de la Región Centro-Sur, con residencia en la Ciudad de México, en Avenida Revolución número 366, colonia San Pedro de los Pinos, alcaldía Benito Juárez, código postal 03800, en la Ciudad de México.
 
-2. Pleno Regional en Materia Administrativa de la Región Centro-Sur, con residencia en Cuernavaca, Morelos, en avenida Cuauhtémoc número 158, colonia Chapultepec, código postal 62450, Cuernavaca, Morelos.
-
-3. Pleno Regional en Materia Civil de la Región Centro-Sur, con residencia en Guadalajara, Jalisco, en avenida Patria 1725, esquina Asunción, colonia Agraria, código postal 44667, Guadalajara, Jalisco.
-
-4. Pleno Regional en Materia de Trabajo de la Región Centro-Sur, con residencia en la Ciudad de México, en avenida Insurgentes Sur número 1888, colonia Florida, alcaldía Álvaro Obregón, código postal 01030, en la Ciudad de México.
+2. Pleno Regional en Materias Penal y Trabajo de la Región Centro-Sur, con residencia en la Ciudad de México, en avenida Insurgentes Sur número 1888, colonia Florida, alcaldía Álvaro Obregón, código postal 01030, en la Ciudad de México.
 
 ###### Artículo 4.
 
@@ -148,3 +136,15 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para
 TERCERO. El Pleno Regional en Materia de Trabajo de la Región Centro-Norte, con residencia en Monterrey, Nuevo León, deberá publicar avisos en lugares visibles para conocimiento del público, en relación con su cambio de domicilio dispuesto en el presente Acuerdo.
 
 CUARTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas con las que cuenta, prestará auxilio en el traslado del Pleno Regional a su nuevo domicilio.
+
+D.O.F. 27 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 38/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA LA DENOMINACIÓN DE LOS PLENOS REGIONALES DE LAS REGIONES CENTRO-NORTE Y CENTRO-SUR; Y QUE REFORMA DIVERSAS DISPOSICIONES RELATIVAS A SU SEMIESPECIALIZACIÓN, COMPETENCIA Y DOMICILIO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los asuntos pendientes de resolución serán remitidos al Pleno Regional correspondiente con base en la semiespecialización señalada en el artículo 1, del Acuerdo General 108/2022 del Pleno del Consejo de la Judicatura Federal, relativo a la creación, denominación e inicio de funciones de los Plenos Regionales de las Regiones Centro-Norte y Centro-Sur, así como su competencia, jurisdicción territorial y domicilio; para la remisión no se considerarán aquellos asuntos listados, aplazados o retirados.
+
+Al momento del reparto de asuntos, todos los órganos jurisdiccionales deberán enviar a la Dirección General de Estadística Judicial, una relación de los expedientes que se remiten.
