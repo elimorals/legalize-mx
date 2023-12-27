@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-bienes-del-estado-de-aguascalientes-106727"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-23"
-last_updated: "2020-12-28"
+last_updated: "2023-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106727&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # LEY DE BIENES DEL ESTADO DE AGUASCALIENTES
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE BIENES PARA EL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE BIENES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2023 (ABROGADA).
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de marzo de 2015.
 
@@ -1004,3 +1004,41 @@ P.O. 28 DE DICIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE BIENES PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, se abroga la Ley de Bienes del Estado de Aguascalientes, publicado en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, de fecha 23 de marzo de 2015, así como sus reformas y modificaciones subsecuentes.
+
+###### ARTÍCULO TERCERO.
+
+Con la entrada en vigor del presente Decreto quedan sin efecto todas aquellas disposiciones legales y administrativas anteriores a esta o aquellas que se opongan. Los manuales, lineamientos y demás normatividad emanada de la Ley de Bienes a que se refiere el artículo anterior, permanecerán vigentes en tanto no se emitan aquellos que los sustituyan.
+
+###### ARTÍCULO CUARTO.
+
+Cuando en el Artículo Segundo del presente Decreto, por el que se expide la Ley de Bienes para el Estado de Aguascalientes se dé una denominación distinta a alguna de las Unidades Administrativas con funciones o atribuciones establecidas por otro ordenamiento jurídico, dichas funciones o atribuciones se entenderán conferidas a la Unidad Administrativa que determine la Ley referida, en tanto no se expidan o reformen los ordenamientos jurídicos correspondientes.
+
+###### ARTÍCULO QUINTO.
+
+A partir de la entrada en vigor del presente Decreto, deberán instalarse los Comités de Bienes establecidos en el Artículo Segundo del presente Decreto, por el que se expide la Ley de Bienes para el Estado de Aguascalientes, en un término no mayor a 90 días naturales posteriores.
+
+ARTÍCULO SÉXTO.- A partir de la entrada en vigor de la presente Ley, La Secretaría de Administración en coordinación con la Secretaría de Innovación y Gobierno Digital, en un plazo que no exceda de 360 días naturales contados a partir de la entrada en vigor del presente decreto, deberán elaborar los programas y/o sistemas digitales que correspondan para la implementación del Registro Estatal y de Inventario en los términos establecidos por la presente Ley, según las necesidades y operación requeridas.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se faculta a la Secretaría de Finanzas a realizar todas las adecuaciones y reasignaciones que sean necesarias para la implementación del presente Decreto, considerando el Presupuesto de Egresos del Estado de Aguascalientes para el Ejercicio fiscal del Año 2024 y presupuesto subsecuente y rindiendo lo relativo en la Cuenta Pública del Ejercicio Fiscal que corresponda.
+
+###### ARTÍCULO OCTAVO.
+
+Los asuntos administrativos, legales, judiciales; archivos, expediente, documentos y carpetas que se encuentren en trámite ante la Contraloría del Estado y que deriven de la Ley de Bienes del Estado de Aguascalientes que se abroga con la entrada en vigor del presente Decreto, serán transferidos a la Secretaría de Administración para su resguardo y en su caso, para la tramitación que corresponda en virtud de la sustitución de funciones en los términos de la nueva Ley de Bienes del Estado de Aguascalientes que se expide y conforme a las demás disposiciones jurídicas que de ella emanen.
+
+###### ARTÍCULO NOVENO.
+
+Los derechos y obligaciones sobre los títulos de propiedad en materia de bienes muebles e inmuebles pertenecientes y/o asignados a la Contraloría del Estado, pasarán a formar parte de la Secretaría de Administración, misma que ejercerá pleno derecho sobre los mismos.
