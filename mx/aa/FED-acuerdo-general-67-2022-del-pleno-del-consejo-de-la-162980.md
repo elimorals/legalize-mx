@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-67-2022-del-pleno-del-consejo-de-la-162980"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2023-01-13"
-last_updated: "2023-01-13"
+last_updated: "2023-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=162980&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-01-05"
 
 ACUERDO GENERAL 67/2022, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA COMPETENCIA, INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS PLENOS REGIONALES.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2023.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 13 de enero de 2023.
 
@@ -163,9 +163,11 @@ Circuitos que comprende la Región Centro-Norte. La Región Centro-Norte compren
 
 Circuitos que comprende la Región Centro-Sur. La Región Centro-Sur comprende los Circuitos Primero, respecto de las materias civil y de trabajo; Tercero; Sexto; Séptimo; Décimo; Décimo Primero; Décimo Tercero; Décimo Cuarto; Décimo Octavo; Vigésimo; Vigésimo Primero; Vigésimo Séptimo; Vigésimo Noveno; Trigésimo Primero; y Trigésimo Segundo.
 
+> <small>(REFORMADO POR EL ARTÍCULO 2 DEL ACUERDO GENERAL 38/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 9.
 
-Número y especialización de los Plenos Regionales. En cada Región habrá cuatro Plenos Regionales, cada uno de ellos especializado en materias penal, administrativa, civil o de trabajo.
+Número y especialización de los Plenos Regionales. En cada Región habrá dos Plenos Regionales semiespecializados: uno en materias penal y de trabajo, y uno en materias administrativa y civil.
 
 ###### Artículo 10.
 
@@ -173,9 +175,11 @@ Tribunales Colegiados Auxiliares. Para efectos de determinar la región a que pe
 
 Se exceptúa de lo anterior a los Tribunales Colegiados Primero y Cuarto Auxiliares de la Primera Región, que forman parte del Primer Circuito, para efectos de determinar la región a la que pertenecen.
 
+> <small>(REFORMADO POR EL ARTÍCULO 2 DEL ACUERDO GENERAL 38/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 11.
 
-Materias especiales. Para resolver las contradicciones que se susciten entre los Tribunales Colegiados de Circuito en Materia Administrativa Especializados en Competencia Económica, Radiodifusión y Telecomunicaciones, con residencia en la Ciudad de México y Jurisdicción en toda la República se formará el Pleno Regional Especializado en Competencia Económica, Radiodifusión y Telecomunicaciones, el cual operará cuando se suscite alguna contradicción de criterios o se reciba algún asunto de su competencia, conforme a las reglas previstas en el presente Acuerdo. El Pleno Regional en esta materia se integrará por las presidencias de los dos tribunales colegiados, y como tercera integrante y Presidencia actuará la magistrada o magistrado que presida el Pleno Regional en Materia Administrativa de la Región Centro-Norte.
+Materias especiales. Para resolver las contradicciones que se susciten entre los Tribunales Colegiados de Circuito en Materia Administrativa Especializados en Competencia Económica, Radiodifusión y Telecomunicaciones, con residencia en la Ciudad de México y Jurisdicción en toda la República se formará el Pleno Regional Especializado en Competencia Económica, Radiodifusión y Telecomunicaciones, el cual operará cuando se suscite alguna contradicción de criterios o se reciba algún asunto de su competencia, conforme a las reglas previstas en el presente Acuerdo. El Pleno Regional en esta materia se integrará por las presidencias de los dos tribunales colegiados, y como tercera integrante y Presidencia actuará la magistrada o magistrado que presida el Pleno Regional en Materias Administrativa y Civil de la Región Centro-Norte.
 
 ### Capítulo II. De la competencia de los Plenos Regionales
 
@@ -215,9 +219,11 @@ Competencia en otros asuntos. Los Plenos Regionales tienen competencia para reso
 
 Composición. Los Plenos Regionales se compondrán por tres Magistradas o Magistrados, Secretarias y Secretarios, las y los Actuarios, las y los secretarios particulares, las y los oficiales judiciales y demás personas empleadas que determine el CJF, atendiendo a la disponibilidad presupuestaria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 2 DEL ACUERDO GENERAL 38/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 18.
 
-Composición del Pleno Regional Especializado en Competencia Económica, Radiodifusión y Telecomunicaciones. Este Pleno Regional se compondrá por quienes presidan los Tribunales Colegiados de Circuito en Materia Administrativa Especializados en Competencia Económica, Radiodifusión y Telecomunicaciones, con residencia en la Ciudad de México y Jurisdicción en toda la República, y será presidido por la Magistrada o Magistrado que, a su vez, presida el Pleno Regional de la Región Centro-Norte.
+Composición del Pleno Regional Especializado en Competencia Económica, Radiodifusión y Telecomunicaciones. Este Pleno Regional se compondrá por quienes presidan los Tribunales Colegiados de Circuito en Materia Administrativa Especializados en Competencia Económica, Radiodifusión y Telecomunicaciones, con residencia en la Ciudad de México y Jurisdicción en toda la República, y será presidido por la Magistrada o Magistrado que, a su vez, presida el Pleno Regional en Materias Administrativa y Civil de la Región Centro-Norte.
 
 Para el desempeño de sus funciones, las Magistradas y Magistrados contarán con el apoyo del personal de su ponencia, correspondiente al Tribunal Colegiado de Circuito de su adscripción. Por su parte, la Presidencia del Pleno Regional actuará con el personal de dicho órgano.
 
@@ -674,3 +680,17 @@ DÉCIMO. Las Direcciones Generales de Tecnologías de la Información; y de Gest
 DÉCIMO PRIMERO. La Visitaduría Judicial ajustará los formatos de informes y actas de visita para la práctica de las inspecciones, en los que se refleje la nueva composición de los Plenos Regionales. Por su parte, la Dirección General de Estadística Judicial generará indicadores estadísticos que reflejen adecuadamente las cargas de trabajo de los referidos órganos y la Secretaría Ejecutiva de Vigilancia propondrá a la Comisión de Vigilancia indicadores de productividad.
 
 EL LICENCIADO ARTURO GUERRERO ZAZUETA, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 67/2022, del Pleno del Consejo de la Judicatura Federal, que reglamenta la competencia, integración, organización y funcionamiento de los Plenos Regionales, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de 9 de noviembre de 2022, por unanimidad de votos de los señores Consejeros: Presidente Ministro Arturo Zaldívar Lelo de Larrea, Bernardo Bátiz Vázquez, Eva Verónica de Gyvés Zárate, Alejandro Sergio González Bernabé, Lilia Mónica López Benítez y Sergio Javier Molina Martínez.- Ciudad de México, a 5 de enero de 2023.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 27 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 38/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA LA DENOMINACIÓN DE LOS PLENOS REGIONALES DE LAS REGIONES CENTRO-NORTE Y CENTRO-SUR; Y QUE REFORMA DIVERSAS DISPOSICIONES RELATIVAS A SU SEMIESPECIALIZACIÓN, COMPETENCIA Y DOMICILIO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los asuntos pendientes de resolución serán remitidos al Pleno Regional correspondiente con base en la semiespecialización señalada en el artículo 1, del Acuerdo General 108/2022 del Pleno del Consejo de la Judicatura Federal, relativo a la creación, denominación e inicio de funciones de los Plenos Regionales de las Regiones Centro-Norte y Centro-Sur, así como su competencia, jurisdicción territorial y domicilio; para la remisión no se considerarán aquellos asuntos listados, aplazados o retirados.
+
+Al momento del reparto de asuntos, todos los órganos jurisdiccionales deberán enviar a la Dirección General de Estadística Judicial, una relación de los expedientes que se remiten.
