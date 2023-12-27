@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-ingresos-del-estado-de-baja-california-sur-para-el-16891
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2023-12-15"
-last_updated: "2023-12-15"
+last_updated: "2023-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCS"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE DICIEMBRE DE 2023 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA SUR PARA EL EJERCICIO FISCAL 2024
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DE 27 DE DICIEMBRE DE 2023.]</small>
 
 Ley publicada en el Extraordinario Número 82 del Boletín Oficial del Estado de Baja California Sur, el viernes 15 de diciembre de 2023.
 
@@ -41,7 +41,9 @@ EL H. CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR
 
 D E C R E T A:
 
-SE EXPIDE LA LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA SUR PARA EL EJERCICIO FISCAL DE 2023 (SIC).
+> <small>(F. DE E., B.O. 27 DE DICIEMBRE DE 2023)</small>
+
+SE EXPIDE LA LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA SUR PARA EL EJERCICIO FISCAL DE 2024.
 
 Artículo Único.- Se expide la Ley de Ingresos del Estado de Baja California Sur para el Ejercicio Fiscal 2024, para quedar como sigue:
 
