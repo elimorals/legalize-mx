@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2023-12-11"
+last_updated: "2023-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1203,25 +1203,39 @@ Las penas de prisión y multa referidas en los dos párrafos anteriores, se dupl
 
 Si el acto de instigación ocurrió en circunstancias relacionadas con motivo del acoso escolar sobre la víctima, la pena de prisión aumentará hasta las dos terceras partes respecto de los mínimos y máximos.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 101.
 
-Aborto doloso. El Aborto Doloso es la muerte del producto de la concepción en cualquier momento de la preñez.
+Aborto es la interrupción del embarazo después de la décima segunda semana de gestación. Para los efectos de este Código, el embarazo es la parte del proceso de la reproducción humana que comienza con la implantación del embrión en el endometrio.
 
-Al responsable de Aborto Doloso se le aplicarán de 1 a 3 años de prisión y de 40 a 80 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando se realice por la mujer embarazada o por otra persona con el consentimiento de la mujer embarazada, tomando en cuenta para ello las reglas de la autoría, participación y complicidad.
+Al responsable de Aborto se le aplicarán de 6 meses a 1 año de prisión y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-Cuando falte tal consentimiento de la mujer embarazada, la prisión será de 3 a 6 años y de 70 a 120 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados; si mediare violencia física o moral sobre la mujer embarazada, se impondrán al responsable de 6 a 8 años de prisión y de 80 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+Si la mujer o persona gestante, únicamente interviene otorgando el consentimiento para que otro realice el Aborto en su persona, se le aplicarán de 1 a 3 años de prisión y de 40 a 80 días de multa.
 
-Si la mujer embarazada consiente que otro realice el Aborto Doloso en su persona, se le aplicarán de 6 meses a 1 año de prisión y de 40 a 80 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 102.
 
-Suspensión en caso de aborto. Cuando el Aborto Doloso lo realice un médico, cirujano o partero, además de la punibilidad establecida en el Artículo anterior, se le suspenderá de 2 a 5 años en el ejercicio de su profesión u oficio.
+Aborto forzado. El aborto forzado consiste en la interrupción del embarazo, en cualquier momento, sin el consentimiento de la mujer embarazada o persona gestante.
+
+Al responsable de Aborto forzado se le aplicarán de 3 a 6 años y de 70 a 120 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados; si mediare violencia física o moral sobre la mujer embarazada o persona gestante, se impondrán al responsable de 6 a 8 años de prisión y de 80 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 103.
 
-Exclusión de aborto doloso. No se considerará Aborto Doloso, y por ende no se aplicará pena o medida de seguridad alguna cuando de no practicarse el aborto, la mujer embarazada corra grave peligro de muerte, a juicio del médico que la asista y de otro a quien éste consulte, si ello fuere posible y la demora en consultar no implique peligro.
+Se consideran excluyentes de responsabilidad penal en el delito de Aborto:
 
-Cuando el embarazo haya sido causado por hecho punible tipificado como violación en cualquier etapa del procedimiento penal iniciado al efecto, a petición de la víctima, la autoridad judicial podrá autorizar la realización del aborto, para que sea practicado por personal médico especializado, sin que ello conlleve las consecuencias jurídicas descritas en el presente capítulo.
+I. Cuando sea resultado de una conducta culposa de la mujer embarazada o persona gestante;
+
+II. Cuando el embarazo haya sido causado por hecho punible tipificado como violación o estupro;
+
+III. Cuando de no practicarse el aborto, la mujer embarazada o persona gestante corra grave peligro de muerte, a juicio del médico que la asista;
+
+IV. Cuando a juicio de dos médicos especialistas exista razón suficiente para diagnosticar que el producto presenta alteraciones genéticas o congénitas que puedan dar como resultado daños físicos o mentales, al límite que puedan poner en riesgo la sobrevivencia del mismo, siempre que se tenga el consentimiento de la mujer embarazada o persona gestante.
+
+En los casos de las fracciones III y IV que anteceden, los médicos tendrán la obligación de proporcionar a la mujer embarazada, información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos; así como de los apoyos y alternativas existentes, para que la mujer embarazada o persona gestante pueda tomar la decisión de manera libre, informada y responsable.
 
 ###### ARTÍCULO 104.
 
@@ -3223,7 +3237,9 @@ Al responsable de Aborto Culposo se le aplicarán de 6 meses a 2 años de prisi�
 
 Si el Aborto Culposo se comete por la conducción de vehículos de motor en estado de ebriedad o bajo el influjo de substancias tóxicas que produzcan en el autor efectos similares, se aplicarán al responsable de 3 a 12 años de prisión, de 40 a 150 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, así como inhabilitación para obtener licencia para conducir de 2 a 5 años, o en su caso, suspensión de la licencia para conducir de 2 a 5 años.
 
-La punibilidad prevista en el presente Artículo no se aplicará si el aborto se causa por conducta culposa de la mujer embarazada.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
+La punibilidad prevista en el presente Artículo no se aplicará si el aborto se causa por conducta culposa de la mujer embarazada o persona gestante.
 
 ###### ARTÍCULO 197.
 
@@ -4124,3 +4140,9 @@ El presente Decreto entrara en vigor al día siguiente de su publicación en el 
 ###### ARTICULO SEGUNDO.
 
 Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentos que se opongan al mismo.
+
+P.O. 27 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 573.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+Artículo Primero.- El presente Decreto iniciará su vigencia al siguiente día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
