@@ -4,7 +4,7 @@ identifier: "QUE-codigo-fiscal-del-estado-de-queretaro-101805"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-07-21"
-last_updated: "2023-03-31"
+last_updated: "2023-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "QUE"
 
 CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE MARZO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el lunes 21 de julio de 2014.
 
@@ -141,15 +139,21 @@ La administración y recaudación de las contribuciones que establezca la Ley de
 
 Para lograr un mejor y más exacto cumplimiento de las disposiciones de carácter fiscal se considerará como auxiliares de las dependencias receptoras a todas las autoridades del Estado, ya sean judiciales o administrativas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 10.
 
-Para efectos fiscales se entenderá por Estado de Querétaro, el que conforme al artículo 11 de la Constitución Política del Estado de Querétaro integra el territorio estatal.
+Para efectos fiscales se entenderá por Estado de Querétaro, el que conforme al artículo 11 de la Constitución Política del Estado Libre y Soberano de Querétaro integra el territorio estatal.
 
 Para el ejercicio de sus facultades, las autoridades fiscales del Estado señaladas en el artículo 8 del presente Código tendrán la siguiente competencia:
 
-I. Las comprendidas en las fracciones I, II, III, IV, V y VIII, en todo el territorio del Estado de Querétaro; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
-II. Las autoridades a que se refieren las fracciones VI y VII, dentro del territorio que en términos de las disposiciones aplicables corresponda al municipio de su adscripción.
+I. Las comprendidas en las fracciones I, II, III, IV, V, VI y IX, en todo el territorio del Estado de Querétaro; y
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
+II. Las autoridades a que se refieren las fracciones VII y VIII, dentro del territorio que en términos de las disposiciones aplicables corresponda al municipio de su adscripción.
 
 ###### Artículo 11.
 
@@ -189,9 +193,11 @@ La práctica de diligencias por las autoridades fiscales deberá efectuarse en d
 
 Las autoridades fiscales para la práctica de diligencias, podrán habilitar los días y horas inhábiles, cuando la persona con quien se va a practicar la diligencia realice las actividades por las que deba pagar contribuciones en días u horas inhábiles. También se podrá continuar en días u horas inhábiles una diligencia iniciada en días y horas hábiles, cuando la continuación tenga por objeto el aseguramiento de contabilidad o de bienes del particular.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 13.
 
-Para la presentación de declaraciones, avisos o documentos ante las oficinas de las autoridades fiscales y sus dependencias se considerarán días hábiles sólo aquellos en que se encuentren abiertas al público las oficinas fiscales, durante el horario normal. La existencia de personal de guardia no habilitará los días en que se suspendan las labores.
+Para la presentación de declaraciones, promociones, avisos o documentos ante las oficinas de las autoridades fiscales y sus dependencias se considerarán días hábiles sólo aquellos en que se encuentren abiertas al público las oficinas fiscales, durante el horario normal. La existencia de personal de guardia no habilitará los días en que se suspendan las labores.
 
 Para efectos de este Código son días hábiles todos los días del año, con exclusión de los sábados y domingos, el 1o. de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 1o. y 5 de mayo; el 16 de septiembre; el 1o. de octubre de cada 6 años, cuando corresponda a la transmisión del Poder Ejecutivo del Estado de Querétaro, el tercer lunes de noviembre en conmemoración del 20 de noviembre; el 1o. de diciembre de cada 6 años, cuando corresponda a la transmisión del Poder Ejecutivo Federal y el 25 de diciembre.
 
@@ -733,7 +739,9 @@ En caso de que la firma no sea legible o se dude de su autenticidad, las autorid
 
 Las promociones deberán presentarse en las formas que al efecto aprueben las autoridades fiscales, en el número de ejemplares que establezca la forma oficial y acompañando los anexos que en su caso ésta requiera. Cuando no existan formas aprobadas, el documento que se formule deberá presentarse con el número de ejemplares que señalen las autoridades fiscales y cumplir por lo menos con los siguientes requisitos:
 
-I. Constar por escrito;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
+I. Constar por escrito y/o a través de la utilización de herramientas electrónicas autorizadas por las autoridades fiscales;
 
 II. El nombre, la denominación o razón social y el domicilio fiscal manifestado al registro de contribuyentes, para el efecto de fijar la competencia de la autoridad;
 
@@ -1190,6 +1198,10 @@ Si el documento a que se refiere el párrafo anterior se exhibe en el momento de
 ###### Artículo 67.
 
 Los funcionarios fiscales facultados debidamente, podrán expedir circulares para dar a conocer a las diversas dependencias el criterio de la autoridad superior que deberán seguir, en cuanto a la aplicación de las normas tributarias. De dichas circulares no nacen obligaciones ni derechos para los particulares.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
+Las autoridades fiscales, para el mejor cumplimiento de sus facultades, podrán emitir anualmente las resoluciones dictadas por las mismas, que establezcan disposiciones de carácter general, agrupándolas de manera que faciliten su conocimiento por parte de los contribuyentes; se podrán emitir aisladamente aquellas disposiciones cuyos efectos se limitan a periodos inferiores a un año. Las resoluciones que se emitan conforme a este párrafo y que se refieran a sujeto, objeto, base, tasa o tarifa y época de pago, no generarán obligaciones o cargas adicionales a las establecidas en las propias leyes fiscales.
 
 ###### Artículo 68.
 
@@ -1673,9 +1685,11 @@ VIII. Durante el periodo que el contribuyente se encuentre pagando a plazos en l
 
 IX. Las personas físicas y morales, que tengan créditos fiscales por impuestos trasladados, retenidos o recaudados, podrán solicitar autorización para pagar a plazos dichos créditos, cumpliendo con los requisitos establecidos en el presente artículo y sin que la autorización exceda de 12 parcialidades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 92.
 
-Las resoluciones favorables a los particulares no podrán ser revocadas o nulificadas, salvo que así lo resuelva el Tribunal de lo Contencioso Administrativo del Estado.
+Las resoluciones favorables a los particulares no podrán ser revocadas o nulificadas, salvo que así lo resuelva el Tribunal de Justicia Administrativa del Estado.
 
 Las autoridades fiscales podrán, discrecionalmente, revisar las resoluciones administrativas de carácter individual no favorables a un particular, emitidas por sus subordinados jerárquicamente y, en el supuesto de que se demuestre fehacientemente que las mismas se hubieran emitido en contravención a las disposiciones fiscales, podrán, por una sola vez, modificarlas o revocarlas en beneficio del contribuyente, siempre y cuando estos no hubieren interpuesto medios de defensa, hubieren transcurrido los plazos para presentarlos, y sin que haya prescrito el crédito fiscal.
 
@@ -2655,7 +2669,9 @@ Es improcedente el recurso cuando se haga valer contra actos administrativos:
 
 I. Que no afecten el interés jurídico del recurrente;
 
-II. Que sean resoluciones dictadas en recurso administrativo o en cumplimiento a éstos o de sentencias dictadas por el Tribunal de lo Contencioso Administrativo;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
+II. Que sean resoluciones dictadas en recurso administrativo o en cumplimiento a éstos o de sentencias dictadas por el Tribunal de Justicia Administrativa del Estado;
 
 III. Que se hayan consentido, entendiéndose por consentimiento aquellos contra los que no se promovió el recurso en el plazo señalado al efecto;
 
@@ -2665,13 +2681,17 @@ V. Si son revocados los actos por la autoridad;
 
 VI. Contra actos que tengan por objeto hacer efectivas fianzas otorgadas en garantía de obligaciones fiscales a cargo de terceros; o
 
-VII. En caso de que no se amplíe el recurso administrativo o si en la ampliación no se expresa agravio alguno, tratándose de lo previsto por la fracción II del artículo 156, de este Código.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
+VII. En los demás casos en que la improcedencia resulte de alguna disposición de este Código o de otra Ley Fiscal.
 
 #### Sección Segunda. De la Opción de Interponer el Recurso de Revocación
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 154.
 
-Será optativo para el interesado la interposición del recurso de revocación o acudir directamente sin agotar éste al Tribunal de lo Contencioso Administrativo del Estado.
+Será optativo para el interesado la interposición del recurso de revocación o acudir directamente sin agotar éste al Tribunal de Justicia Administrativa del Estado.
 
 #### Sección Tercera. Del Sobreseimiento
 
@@ -2687,7 +2707,9 @@ III. Cuando de las constancias que obran en el expediente administrativo quede d
 
 IV. Cuando hayan cesado los efectos del acto o resolución impugnada; y
 
-V. En caso de que no se amplíe el recurso administrativo o si en la ampliación no se expresa agravio alguno, tratándose de lo previsto por la fracción II del artículo 156 de este Código.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
+V. En los demás casos en que por disposición legal haya impedimento para emitir resolución en cuanto al fondo.
 
 #### Sección Cuarta. De la Impugnación de las Notificaciones
 
@@ -2859,9 +2881,11 @@ II. Para que sea aplicable la excepción a que se refiere la fracción anterior,
 
 III. La vigencia y exigibilidad en cantidad líquida del derecho del crédito cuya preferencia se invoque, deberá comprobarse en forma fehaciente al hacerse valer el recurso administrativo correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 165.
 
-Las controversias que surjan entre el fisco estatal y los fiscos municipales relativas al derecho de preferencia para recibir el pago de los créditos fiscales se resolverán por el Tribunal de lo Contencioso Administrativo del Estado tomando en cuenta las garantías constituidas y conforme a las siguientes reglas:
+Las controversias que surjan entre el fisco estatal y los fiscos municipales relativas al derecho de preferencia para recibir el pago de los créditos fiscales se resolverán por el Tribunal de Justicia Administrativa del Estado tomando en cuenta las garantías constituidas y conforme a las siguientes reglas:
 
 I. La preferencia en el pago corresponderá al primer embargante, si ninguno de los créditos tiene garantía real;
 
@@ -4536,3 +4560,181 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 27 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES LEGISLATIVAS EN MATERIA FISCAL Y ADMINISTRATIVA A PARTIR DEL EJERCICIO FISCAL 2024”.]
+
+Artículo Primero. La presente Ley entrará en vigor el 1 de enero de 2024, bajo las modalidades previstas en los artículos subsecuentes.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+Artículo Tercero. La suspensión prevista en el Artículo Tercero Transitorio de la Ley que reforma, adiciona y deroga diversas disposiciones de la Ley de Hacienda del Estado de Querétaro, de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro, de la Ley de la Administración Pública Paraestatal del Estado de Querétaro, de la Ley de Hacienda de los Municipios del Estado de Querétaro, del Código Fiscal del Estado de Querétaro, de la Ley de Procedimientos Administrativos del Estado de Querétaro, de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro y de la Ley de Coordinación Fiscal Estatal Intermunicipal del Estado de Querétaro, publicada el 22 de diciembre de 2022 en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, continuará surtiendo sus efectos durante el Ejercicio Fiscal 2024, respecto de la circunscripción territorial de aquellos Municipios en cuyas Leyes de Ingresos se prevea el impuesto de entretenimientos públicos municipales, conforme a las obligaciones derivadas de la colaboración administrativa en materia fiscal con el Poder Ejecutivo del Estado, de acuerdo con lo establecido en la Ley de Coordinación Fiscal Estatal Intermunicipal del Estado de Querétaro.
+
+Las obligaciones nacidas con anterioridad al ejercicio fiscal 2023, por concepto del impuesto sobre diversiones y espectáculos públicos previsto en el Capítulo Quinto del Título Tercero de la Ley de Hacienda del Estado de Querétaro, deberán cumplirse en los términos previstos en dicha Ley respecto de los montos, formas y plazos establecidos, así como en las demás disposiciones fiscales estatales.
+
+Los procedimientos iniciados con anterioridad al 2023, deberán substanciarse y resolverse en términos de las disposiciones fiscales estatales vigentes conforme al ejercicio fiscal que corresponda.
+
+Artículo Cuarto. Dentro de los otros ingresos derivados del Sistema de Colaboración Administrativa Estatal Intermunicipal previstos en el segundo párrafo del artículo 2 de la Ley de Coordinación Fiscal Estatal Intermunicipal del Estado de Querétaro, se incluyen los relativos a la recaudación que obtenga el Estado por concepto del impuesto por la prestación del servicio de hospedaje establecido en la Ley de Hacienda del Estado de Querétaro, la cual será distribuida entre los municipios que cumplan con los siguientes elementos de elegibilidad:
+
+I. Consideren en su Ley de Ingresos el cobro del impuesto que tenga por objeto el uso de la propiedad inmobiliaria destinada para la prestación de servicios de hospedaje.
+
+II. Acrediten haber recaudado ingresos por dicho impuesto en los dos ejercicios fiscales anteriores a la suscripción del convenio correspondiente.
+
+III. Suscriban convenio de colaboración administrativa con la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro, respecto del impuesto señalado en la fracción I del presente artículo.
+
+Para aquellos municipios que hayan suscrito el convenio en comento, se les participará el uno por ciento de los recursos autorizados por la Legislatura del Estado en el Decreto de Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2024 por concepto del Impuesto por la Prestación del Servicio de Hospedaje, con relación a la circunscripción territorial del municipio de que se trate y en términos de la calendarización que para tal efecto realice la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro.
+
+Artículo Quinto. Para efectos de lo establecido en el artículo 49 de la Ley de la Administración Pública Paraestatal del Estado de Querétaro, con relación a las disponibilidades de las Entidades de ejercicios fiscales anteriores, se destinarán como parte de las ministraciones calendarizadas del monto aprobado dentro del Decreto de Presupuesto de Egresos del Estado de Querétaro del ejercicio fiscal 2024, exceptuando de lo anterior a las entidades en materia de seguridad.
+
+Artículo Sexto. Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2024, serán las siguientes:
+
+I. Por la expedición de los oficios y certificaciones a que se refieren las fracciones III y IV del artículo 127 de la Ley de Hacienda del Estado de Querétaro, se autoriza al titular en materia de catastro para realizar la aplicación del cobro del derecho equivalente a 1.25 UMA, respecto de bienes considerados como vivienda de interés social o popular;
+
+II. Se causará una tasa cero con motivo de los derechos a que se refieren las fracciones I, X y XI del artículo 127 de la Ley de Hacienda del Estado de Querétaro, con relación a autoridades federales, estatales o municipales, siempre que éstas soliciten la prestación de los servicios previstos en dichas fracciones en ejercicio de sus funciones de derecho público y respecto a predios que formen parte de su patrimonio;
+
+III. Se autoriza a las autoridades registrales y catastrales emitir un programa de beneficios para la aplicación de un factor de reducción de hasta el setenta y cinco por ciento en el cobro de los derechos generados por los servicios que prestan dichas autoridades previstos en los Capítulos Segundo y Cuarto del Título Cuarto de la Ley de Hacienda del Estado de Querétaro, para los propietarios de predios que en ejercicios fiscales anteriores o durante el presente, han sufrido afectaciones por obras de nivel Federal, Estatal o Municipal y que exista instrumento que tenga por objeto la donación del predio, ya sea su superficie total o varias fracciones en favor de un Municipio y/o el Estado, y que el predio cuente con características de derecho de paso, siempre que se acredite la utilidad pública del mismo, lo anterior, previa validación del programa correspondiente por la Secretaría de Finanzas;
+
+IV. Se causará una tasa cero con motivo de los derechos a que se refiere la fracción XXII del artículo 127 de la Ley de Hacienda del Estado de Querétaro, con relación a autoridades estatales o municipales, siempre que éstas soliciten la prestación del servicio en ejercicio de sus funciones de derecho público y respecto a predios que formen parte de su patrimonio;
+
+V. Cuando los avisos de testamentos a los que se refiere el artículo 113 de la Ley de Hacienda del Estado de Querétaro, se lleven a cabo en el periodo y conforme a los requisitos que para tal efecto establezca la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro, se causará una tasa cero por los derechos correspondientes, debiendo notificar al titular en materia registral;
+
+VI. Durante el periodo que al efecto establezca la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro, se causará una tasa cero por la prestación de los servicios previstos en el artículo 142 de la Ley de Hacienda del Estado de Querétaro, de conformidad con lo siguiente:
+
+a) Rectificación de acta;
+
+b) Expedición de copias certificadas de actas del estado civil de las personas, levantadas en el Estado de Querétaro, por cada hoja, bajo los siguientes supuestos:
+
+1. La expedición de la primera copia certificada, que con motivo de un procedimiento administrativo de rectificación de acta haya sido resuelto por la Dirección Estatal del Registro Civil, cuyo formato se imprima en español o en lengua indígena.
+
+2. La expedición de una copia certificada de acta de nacimiento impresa en sistema braille, que soliciten las personas físicas ciegas o débiles visuales; y
+
+c) La expedición de copias certificadas de actas del estado civil de las personas, levantadas en otra entidad federativa, por medio de la Base de Datos Nacional a partir de la Conexión Interestatal, tratándose de copia certificada de acta de nacimiento impresa en sistema braille que soliciten las personas físicas ciegas o débiles visuales;
+
+VII. Se autoriza a la Secretaría de Gobierno del Poder Ejecutivo para la creación de un Programa para la aplicación de un factor de reducción de hasta el cincuenta por ciento del cobro por concepto de multas administrativas que se hubieren generado, respecto de los derechos previstos en los artículos 87 y 88 de la Ley de Hacienda del Estado de Querétaro y que deban pagarse por los servicios que preste la citada dependencia, previa validación de la Secretaría de Finanzas del Poder Ejecutivo;
+
+VIII. Los contribuyentes que realicen el pago de los derechos por refrendo de licencias para almacenaje, venta, porteo y consumo de bebidas alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 88 de la Ley de Hacienda del Estado de Querétaro, obtendrán los siguientes beneficios:
+
+PERIODO DE PAGO DESCUENTO
+
+Enero 2024 10 por ciento
+
+Febrero 2024 8 por ciento
+
+Marzo 2024 5 por ciento
+
+IX. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo, para que, en el ámbito de su competencia, realice la recepción, aplicación y asignación de los recursos que se deriven con motivo de las actividades y servicios que presten las dependencias y los organismos descentralizados estatales durante el ejercicio fiscal 2024, conforme a la normativa correspondiente;
+
+X. Se faculta a las autoridades fiscales para emitir y autorizar programas estatales vinculados al Plan Estatal de Desarrollo Querétaro 2021-2027, de beneficios administrativos y fiscales de reducciones de hasta el noventa y cinco por ciento de las contribuciones y aprovechamientos, conforme a lo establecido en la Ley de Hacienda del Estado de Querétaro en el ejercicio fiscal 2024;
+
+XI. Se autoriza a las autoridades fiscales a realizar la cancelación de los créditos fiscales por incosteabilidad en el cobro durante el ejercicio fiscal 2024.
+
+Para efectos de esta fracción, se consideran créditos de cobro incosteable, aquellos cuyo importe histórico al 31 de diciembre de 2023, sea inferior o igual al equivalente en moneda nacional a 2000 unidades de inversión, incluyendo las sanciones emitidas por los Juzgados.
+
+Se autoriza a las autoridades fiscales la aplicación de la cancelación de los adeudos del Impuesto Sobre Tenencia o Uso de Vehículos, así como de los derechos por control vehicular previstos en la Ley de Hacienda del Estado de Querétaro, generados por los ejercicios fiscales 2019 y anteriores, a petición de parte o a través de la autorización de un programa.
+
+Se autoriza a las autoridades fiscales para que realicen los movimientos correspondientes a la baja administrativa en el Padrón Vehicular Estatal, respecto del Impuesto Sobre Tenencia o Uso de Vehículos, así como de los derechos por control vehicular previstos en la Ley de Hacienda del Estado de Querétaro, generados por los ejercicios fiscales 2019 y anteriores, sin que ello constituya la cancelación de adeudos por el impuesto y derechos antes referidos;
+
+XII. Los contribuyentes, tenedores o usuarios de vehículos deberán realizar el pago para el ejercicio fiscal 2024 del Impuesto Sobre Tenencia o Uso de Vehículos y los derechos correspondientes, conforme a lo establecido en la Ley de Hacienda del Estado de Querétaro, y cumplido lo anterior, se entenderá que las tarjetas de circulación a que se refiere el artículo 157 de la citada Ley, que hubiesen sido expedidas en los ejercicios fiscales 2022 y 2023, continuarán su vigencia dentro del Padrón Vehicular Estatal hasta el 31 de diciembre de 2024.
+
+Los citados contribuyentes, tenedores o usuarios, para comprobar la vigencia de las tarjetas de circulación señaladas en el párrafo anterior, exhibirán la representación impresa del recibo de pago respectivo ante las autoridades que así lo requieran;
+
+XIII. Las personas que resulten beneficiarias de los apoyos contenidos en el Programa que para tal efecto se emita, enfocado al sector empresarial que contrate personal con discapacidad, podrán reducir de la base gravable en el impuesto sobre nóminas previsto en la Ley de Hacienda del Estado de Querétaro a su cargo, a través del mecanismo establecido por la Secretaría de Finanzas del Poder Ejecutivo, debiendo la Secretaría de Trabajo del Poder Ejecutivo emitir los lineamientos de aplicación correspondientes;
+
+XIV. Por cuanto ve al cobro por el uso y aprovechamiento de espacios del Centro Educativo y Cultural del Estado de Querétaro “Manuel Gómez Morín”, respecto del recinto identificado como Planetario, ubicado en el Museo de Ciencia y Tecnología “El Péndulo”, en términos del artículo 169 QUÁTER de la Ley de Hacienda del Estado de Querétaro, se podrá aplicar un factor de reducción de hasta un ochenta por ciento mediante lineamientos que emita la Secretaría de Educación del Poder Ejecutivo, los cuales, previo a su expedición, deberán contar con validación de la Secretaría de Finanzas del Poder Ejecutivo;
+
+XV. Para efectos del artículo 135 de la Ley de Hacienda del Estado de Querétaro, se estará a lo señalado en las disposiciones que, previo estudio de mercado, y una vez validadas por la Secretaría de Finanzas del Poder Ejecutivo, emita la Secretaría de Educación del Poder Ejecutivo;
+
+XVI. Las personas que resulten beneficiarias de los apoyos contenidos en el Programa de Apoyo a la Tenencia gozarán de una reducción en el impuesto sobre tenencia o uso de vehículos previsto en la Ley de Hacienda del Estado de Querétaro a su cargo, de hasta el noventa y nueve por ciento; debiendo la Secretaría de Finanzas del Poder Ejecutivo realizar las autorizaciones a través de los lineamientos de aplicación correspondientes;
+
+XVII. Las autoridades fiscales podrán restituir las cantidades pagadas por los particulares por concepto de derechos contenidos en la Ley de Hacienda del Estado de Querétaro, derivados de medios de defensa, siempre y cuando:
+
+a) Los particulares hayan promovido un medio de defensa en materia de constitucionalidad en el que se haya declarado a su favor la inaplicabilidad de los derechos a que hace referencia el primer párrafo de esta fracción; y
+
+b) Las cantidades sujetas a restitución hayan sido efectivamente pagadas al fisco estatal.
+
+Para efectos de lo anterior, previa opinión favorable de la Procuraduría Fiscal de la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro, se generarán las acciones administrativas correspondientes;
+
+XVIII. En caso de robo de placas metálicas, se causarán y pagarán al 50% los derechos establecidos en el artículo 157, fracción II de la Ley de Hacienda del Estado de Querétaro para el ejercicio fiscal 2024, siempre y cuando el contribuyente acredite dicha circunstancia de conformidad con los criterios normativos establecidos por la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro;
+
+XIX. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro para realizar la aplicación del beneficio contemplado en el artículo 164 de la Ley de Hacienda del Estado de Querétaro, hasta por tres unidades vehiculares por cada contribuyente que actualice el supuesto previsto en dicho artículo, quedando facultada para autorizar la ampliación del beneficio de conformidad con los lineamientos que al efecto emita dicha Secretaría;
+
+XX. Se autoriza al Centro de Congresos y Querétaro Teatro Metropolitano para que en términos de los artículos 169 Bis y 169 Ter de la Ley de Hacienda del Estado de Querétaro, apliquen un factor de reducción de hasta el cincuenta por ciento del cobro de los derechos respectivos, de conformidad a los lineamientos emitidos por el mismo Centro de Congresos y Teatro Metropolitano;
+
+XXI. Se causará una cuota cero por la prestación de los servicios previstos en el artículo 172 Ter de la Ley de Hacienda del Estado de Querétaro, con relación a las personas mayores de 60 años, menores de 13 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso por parte de la Secretaría de Cultura del Poder Ejecutivo del Estado de Querétaro, para realizar estudios afines a los espacios a que se refiere dicho artículo. Asimismo, se causará una tasa cero con motivo de este derecho, con relación a los visitantes que accedan a los espacios los días domingos y días festivos;
+
+XXII. Se causará una cuota cero respecto de los conceptos referidos en el artículo 172 Quáter de la Ley de Hacienda del Estado de Querétaro, con relación a las instituciones públicas o privadas que realicen conjuntamente con la Secretaría de Cultura del Poder Ejecutivo, eventos culturales, educativos, cívicos o de asistencia social, así como las personas físicas o morales que realicen actividades de promoción, difusión y comercialización culturales, educativas, artísticas, cívicas o de asistencia social, previa celebración del convenio correspondiente;
+
+XXIII. Se faculta a la Secretaría de Cultura del Poder Ejecutivo para llevar a cabo la aplicación de lo establecido en el artículo 172 Quáter de la Ley de Hacienda del Estado de Querétaro, en función del uso de los espacios y a través de los lineamientos que para tal efecto se emitan, previa validación de la Secretaría de Finanzas del Poder Ejecutivo;
+
+XXIV. Los derechos por vivienda de interés social o popular que de conformidad con la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste la autoridad en materia registral en el Estado, se causarán al cincuenta por ciento conforme a las siguientes:
+
+a) La inscripción de limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente.
+
+b) La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos.
+
+c) La expedición de certificados de no propiedad;
+
+XXV. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste la autoridad en materia registral en el Estado que a continuación se describen, se causarán al 25 por ciento:
+
+a) La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+b) Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+c) Del contrato de hipoteca relacionado con la compraventa de viviendas de interés social o popular.
+
+Se causará un derecho a razón de 5 UMA por la inscripción del acto en el que conste la adquisición de vivienda de interés social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona;
+
+XXVI. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste la autoridad en materia registral en el Estado que a continuación se describen, se causarán al cincuenta por ciento:
+
+a) La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos.
+
+b) La inscripción de la escritura pública en la que conste la operación mediante la cual las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios.
+
+c) La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado;
+
+XXVII. No se causarán los derechos previstos en la Ley de Hacienda del Estado de Querétaro, por los servicios de inscripción que preste la autoridad en materia registral en el Estado, respecto de:
+
+a) El acto en el que conste la reestructuración de los créditos señalados en el artículo 100 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicha autoridad se encuentre la anotación del crédito inicial.
+
+b) El testimonio en el que conste la adquisición de inmuebles, efectuada por personas morales y personas físicas con actividad empresarial, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que los inmuebles adquiridos se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos.
+
+Para la aplicación del párrafo anterior, se requerirá un dictamen de viabilidad de generación de empleos e inversión en el Estado, emitido por la Secretaría de Desarrollo Sustentable del Poder Ejecutivo respecto a la procedencia del otorgamiento del beneficio.
+
+c) El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas morales y personas físicas con actividad empresarial, siempre que con ello se propicie el mantenimiento de empleos.
+
+d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes.
+
+e) La inscripción de los actos provenientes de los Programas de Regularización, siempre y cuando se presenten mediante oficio de petición de la autoridad que regularizó;
+
+XXVIII. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por autoridad competente, estarán exceptuadas del pago de los derechos relativos a la expedición de certificado de única propiedad por parte de la autoridad en materia registral en el Estado, contenida en el artículo 107, fracción IV, de la Ley de Hacienda del Estado de Querétaro, para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial;
+
+XXIX. Los recursos derivados de aprovechamientos relativos al concepto de multas y sanciones, por incumplimiento a las disposiciones en materia de verificación vehicular, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro, a que se refiere el Código Ambiental del Estado de Querétaro y los Programas que se financien con dicho Fondo;
+
+XXX. Se autoriza a la Secretaría de Seguridad Ciudadana para la creación de Programas Estatales para la aplicación de un factor de reducción de hasta el setenta y cinco por ciento del cobro por concepto de los derechos que, de conformidad con lo previsto en el Capítulo Décimo Primero del Título Cuarto de la Ley de Hacienda del Estado de Querétaro, deban pagarse por los servicios que preste la citada dependencia, previa validación de la Secretaría de Finanzas;
+
+XXXI. La Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro realizará las acciones administrativas conducentes para efecto de elaborar los formatos institucionales a través de los cuales los sujetos obligados enterarán los impuestos previstos en los Capítulos Sexto y Sexto Bis del Título Tercero de la Ley de Hacienda del Estado de Querétaro;
+
+XXXII. Se faculta al Titular de la Secretaría de Finanzas del Poder Ejecutivo para que, en el ejercicio de sus facultades, expida los acuerdos y lineamientos administrativos necesarios para el manejo de los asuntos financieros y tributarios del Estado.
+
+Asimismo, estará facultado para expedir aquellos que autoricen los estímulos fiscales a través de disposiciones y procesos relativos a los numerales 70 al 73 de la Ley de Hacienda del Estado de Querétaro que tengan por objeto establecer los mecanismos para optimizar la recaudación estatal;
+
+XXXIII. Se faculta a las autoridades fiscales para emitir y autorizar programas estatales vinculados al Plan Estatal de Desarrollo Querétaro 2021-2027, de beneficios fiscales por declaración oportuna o anticipada respecto al Capitulo Noveno del Título Tercero de la Ley de Hacienda del Estado de Querétaro para el ejercicio fiscal 2024;
+
+XXXIV. Los contribuyentes de los impuestos establecidos en las Secciones II, III y IV del Capítulo Noveno del Título Tercero de la Ley de Hacienda del Estado de Querétaro, podrán reducir hasta el veinte por ciento de la base gravable, las toneladas o su correspondiente conversión, que se certifiquen mediante los sellos de bajas de emisiones otorgados y transferidos a través del mecanismo establecido por la Secretaría de Desarrollo Sustentable del Poder Ejecutivo, relativos a la compensación de emisiones de gases de efecto invernadero a la atmósfera y la absorción de bióxido de carbono por actividades de conservación de zonas forestales, energía, ganadería sustentable y reducción de emisiones en el manejo de residuos, en términos de lo previsto en la Ley de Cambio Climático para el Estado de Querétaro, debiendo para tal efecto emitir la disposición o los lineamientos correspondientes, previa validación la Secretaría de Finanzas del Poder Ejecutivo;
+
+XXXV. Los recursos obtenidos en términos de lo previsto en el Capítulo Noveno del Título Tercero de la Ley de Hacienda del Estado de Querétaro, serán destinados principalmente a obras de infraestructura en el Estado, así como para proyectos ambientales;
+
+XXXVI. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo, para la aplicación de estímulos fiscales de hasta el veinte por ciento por concepto del impuesto por remediación ambiental causado por la erosión del suelo, establecido en el artículo 83 BIS-5 de la Ley de Hacienda del Estado de Querétaro, en términos de los lineamientos que para tal efecto se emitan;
+
+XXXVII. En el caso de los derechos que se causen en términos de la Ley de Hacienda del Estado de Querétaro, se utilizará la Unidad de Medida y Actualización para su determinación y cálculo, de conformidad con lo establecido en la Ley de la Unidad de Medida y Actualización del Estado de Querétaro y demás disposiciones que al efecto resulten aplicables.
+
+Así mismo, en términos del numeral 170 de la Ley de Hacienda del Estado de Querétaro se fijan los derechos en pesos, ya que se hace más dinámico el cobro de los mismos;
+
+XXXVIII. Los aprovechamientos generados por la Secretaría de Seguridad Ciudadana por las infracciones establecidas en el artículo 48 del Reglamento de la Ley de Tránsito para el Estado de Querétaro, serán destinados preferentemente a proyectos y programas de Seguridad, de conformidad a lo establecido en el Plan Estatal de Desarrollo Querétaro 2021-2027;
+
+XXXIX. Se faculta a la Secretaría de Gobierno para emitir y autorizar programas estatales vinculados al Plan Estatal de Desarrollo Querétaro 2021-2027, en que se autoricen reducciones hasta en un noventa por ciento de las multas administrativas generadas por conceptos vinculados al Capítulo Octavo del Título Cuarto de la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2024, de conformidad con los criterios de procedencia que para tal efecto establezca la Secretaría de Finanzas; y
+
+XL. Para los Asentamientos en proceso de regularización con la Comisión de Regularización de la Tenencia de la Tierra (CORETT), actualmente Instituto Nacional del Suelo Sustentable (INSUS), con el Instituto de la Vivienda del Estado de Querétaro (IVEQ) o la Secretaría de Desarrollo Social del Estado de Querétaro (SEDESOQ), o cualquier otro programa de regularización del Estado o de los Municipios en dicha materia podrán contar con estímulos fiscales previa validación de la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro.
+
+Artículo Séptimo. Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
