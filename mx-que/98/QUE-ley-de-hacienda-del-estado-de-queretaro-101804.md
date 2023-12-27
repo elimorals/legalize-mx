@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-del-estado-de-queretaro-101804"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-21"
-last_updated: "2023-03-31"
+last_updated: "2023-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,9 +27,7 @@ state: "QUE"
 
 LEY DE HACIENDA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 31 DE MARZO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 21 de julio de 2014.
 
@@ -1711,9 +1709,9 @@ Para efectos de este Capítulo serán aplicables de manera supletoria el Código
 
 1. El establecimiento de los impuestos previstos en este Capítulo, se entenderá sin perjuicio de las multas, responsabilidades o sanciones que establezcan las disposiciones jurídicas aplicables en materia de equilibrio ecológico y protección al ambiente, u otras responsabilidades penales, civiles o administrativas y demás disposiciones que resulten aplicables por el riesgo de pérdida de vida humana, así mismo por deterioro que causa a la salud pública y el daño al ambiente.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
-#### Sección II. Impuesto por Remediación Ambiental en la Extracción de Materiales
+#### Sección II. Impuesto por Remediación Ambiental causado por la Erosión del Suelo
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -1723,13 +1721,15 @@ Objeto
 
 2. Es objeto de este impuesto la extracción del suelo y subsuelo de materiales que constituyan depósitos de igual naturaleza a los componentes de los terrenos, aún y cuando constituyan vetas, mantos, depósito natural o yacimiento geológico de agregados pétreos, grava, piedra, tezontle, tepetate, arena, arenilla, tepecil o cualquier material no metálico derivado de las rocas o de procesos de sedimentación o metamorfismo.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
-Asimismo, para efectos del presente artículo se entenderá que es objeto de este impuesto la extracción del suelo y subsuelo de materiales sobre los cuales se efectúe el aprovechamiento, explotación y restauración de bancos de materiales de construcción y ornamento no reservados a la Federación y de aquellas actividades donde se exploten o beneficien productos derivados de la descomposición o fragmentación de las rocas, mediante trabajos a cielo abierto.
+Asimismo, para efectos del presente artículo se entenderá que es objeto de este impuesto la extracción del suelo y subsuelo de materiales sobre los cuales se efectúe la erosión y restauración de bancos de materiales de construcción y ornamento no reservados a la Federación y de aquellas actividades donde se exploten o se obtengan productos derivados de la descomposición o fragmentación de las rocas, mediante trabajos a cielo abierto.
 
 Para efectos de este artículo la extracción deberá realizarse en el territorio del Estado.
 
-En ningún momento se considerarán objeto de este impuesto los minerales o sustancias a que hace referencia el artículo 4 de la Ley Minera.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
+En ningún momento se considerarán objeto de este impuesto el aprovechamiento, exploración y explotación de los recursos naturales comprendidos en los párrafos cuarto y quinto del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, en particular de aquellos minerales o sustancias a que hace referencia el artículo 4 de la Ley de Minería.
 
 Para efectos de este artículo se entenderá por:
 
@@ -1747,13 +1747,13 @@ Sujetos
 
 3. Son sujetos de este impuesto las personas físicas, las personas morales y unidades económicas que, en el territorio del Estado, independientemente del domicilio fiscal del contribuyente, extraigan del suelo y subsuelo materiales que constituyan depósitos de igual o semejante naturaleza a los componentes del terreno, a que se hace referencia en el artículo 83 BIS-2 de la presente Ley.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
 Base
 
 ###### Artículo 83 Bis
 
-4. El impuesto a pagar establecido en la presente Sección, será la cantidad que resulte de aplicar la cuota señalada en el artículo 83 BIS-5, al volumen de metros cúbicos de material extraído, según lo manifestado en el informe anual de Registro de Emisiones y Transferencia de Contaminantes a través de la Cédula de Operación Anual presentada a la Secretaría de Desarrollo Sustentable, de conformidad con lo previsto en el Código Ambiental del Estado de Querétaro.
+4. El impuesto a pagar establecido en la presente Sección, será la cantidad que resulte de aplicar la cuota señalada en el artículo 83 BIS-5, al volumen de metros cúbicos de material extraído.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -1797,9 +1797,17 @@ III. Llevar un Libro de Registro de extracción, en el que se hará constar la c
 
 IV. Presentar los avisos, datos, documentos, informes y registros que les soliciten las autoridades fiscales en relación con este impuesto, inclusive los relacionados en materia ambiental que sean referenciados en esta Ley para el pago de las contribuciones, dentro de los plazos, formas y lugares señalados al efecto;
 
-V. Poner a disposición de las autoridades competentes, para los efectos del ejercicio de sus facultades de comprobación, los informes, documentos, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de este impuesto, inclusive los relacionados en materia ambiental que sean referenciados en esta Ley para el pago de las contribuciones, así como del resto de las obligaciones a su cargo en términos de la presente Sección; y,
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
-VI. Las demás que señale la presente Ley y los ordenamientos fiscales aplicables.
+V. Poner a disposición de las autoridades competentes, para los efectos del ejercicio de sus facultades de comprobación, los informes, documentos, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de este impuesto, inclusive los relacionados en materia ambiental que sean referenciados en esta Ley para el pago de las contribuciones, así como del resto de las obligaciones a su cargo en términos de la presente Sección;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2023)</small>
+
+VI. Presentar la declaración informativa anual, a que se refiere el segundo párrafo del artículo 83 BIS-6 de la presente Ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE DICIEMBRE DE 2023)</small>
+
+VII. Las demás que señale la presente Ley y los ordenamientos fiscales aplicables.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -1815,43 +1823,43 @@ Objeto
 
 Para los efectos de este impuesto se considera emisión a la atmósfera, la expulsión directa o indirecta de las siguientes sustancias sujetas a reporte en los Registros de Emisiones y Transferencias de Contaminantes (RETC) de la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal, así como en los reportes de emisiones del Registro de Emisiones y Transferencia de Contaminantes (RETC) Estatal, de la Secretaría de Desarrollo Sustentable: bióxido de carbono, metano, óxido nitroso, hidrofluoro-carbonos, perfluorocarbonos y hexafluoruro de azufre, ya sea unitariamente o de cualquier combinación de ellos que afecten la calidad del aire, los componentes de la atmósfera y que constituyen gases de efecto invernadero que impactan en deterioro ambiental por provocar calentamiento global.
 
-Sujetos
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+Sujetos
 
 ###### Artículo 83 Bis
 
-9. Son sujetos y están obligados al pago de este impuesto, las personas físicas, las personas morales y las unidades económicas residentes en el Estado o los residentes fuera del Estado, generadores de emisiones de gases de efecto invernadero, las cuales se encuentren obligadas a la presentación de reporte en el Registro de Emisiones y Transferencia de Contaminantes de competencia estatal, que tengan instalaciones o fuentes fijas en las que se desarrollen las actividades que determinan las emisiones a la atmósfera gravadas por este impuesto en el territorio del Estado.
+9. Son sujetos y están obligados al pago de este impuesto, las personas físicas, las personas morales y las unidades económicas, así como aquellos entes que por sus actividades realicen algún proceso productivo que encuadre en el objeto del presente impuesto; que sean residentes en el Estado o los residentes fuera del Estado, que tengan instalaciones o fuentes fijas en las que se desarrollen las actividades que determinan las emisiones a la atmósfera gravadas por este impuesto en el territorio del Estado.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
-
-Para efectos del párrafo anterior se entenderán como instalaciones o fuentes fijas de emisiones a la atmósfera, las estipuladas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente y el Código Ambiental del Estado de Querétaro.
+Para efectos del párrafo anterior se entenderá como fuentes fijas, toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera, de conformidad con la Norma Oficial Mexicana NOM-085-SEMARNAT-2011, así como lo referido en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, el Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en materia de Prevención y Control de la contaminación de la Atmósfera y el Código Ambiental del Estado de Querétaro.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 Base
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 83 Bis
 
-10. Es base de este impuesto la cuantía de carga contaminante de las emisiones gravadas que se realicen desde la o las instalaciones o fuentes fijas expresadas en toneladas.
+10. Es base de este impuesto la cuantía de carga contaminante de las emisiones gravadas que se realicen desde las fuentes fijas, que sean emitidas de forma unitaria o cualquier combinación de las mismas, que serán expresadas en toneladas.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2023)</small>
 
-Para la determinación de las toneladas emitidas, los sujetos de este impuesto realizarán la conversión de los gases establecidos en el artículo 83 BIS-8 de esta Ley en Bióxido de Carbono Equivalente (CO2e), multiplicando cada tonelada del tipo de gas emitido por el factor relacionado conforme a la tabla siguiente:
+Para la determinación de las toneladas emitidas, los sujetos de este impuesto realizarán la conversión a bióxido de carbono equivalente de cualquiera de los gases establecidos en al (sic) artículo 83 BIS-8 de esta Ley, así como en el presente, lo cual se realizará multiplicando cada tonelada del tipo de gas emitido por la equivalencia correspondiente conforme a la tabla siguiente:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 23 DE DICIEMBRE DE 2021, PÁGINA 55679.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL NÚMERO 89 DEL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINA 31626.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL NÚMERO 89 DEL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINA 31626; P.O. DE 27 DE DICIEMBRE DE 2023, PÁGINAS DE LA 47180 A LA 47181.]</small>
 
 Para efecto de realizar la conversión en toneladas de los elementos citados con antelación se toma como referencia el Acuerdo que establece los gases y compuestos de efecto invernadero que se agrupan para efectos de reporte de emisiones, así como sus potenciales de calentamiento, publicado en el Diario Oficial de la Federación el 14 de agosto de 2015.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
 Cuota
 
 ###### Artículo 83 Bis
 
-11. El impuesto se causará en el momento que los sujetos de este impuesto realicen emisiones a la atmósfera, gravadas por este impuesto que afecten el territorio del Estado, aplicando una cuota impositiva por el equivalente a 5.6 UMA por tonelada emitida de Bióxido de Carbono Equivalente (CO2e) o la conversión del mismo, establecida en el artículo 83 BIS-10 de esta Ley.
+11. El impuesto se causará en el momento que los sujetos de este impuesto realicen emisiones a la atmósfera, gravadas por este impuesto que afecten el territorio del Estado, aplicando una cuota impositiva por el equivalente a 5.9 UMA por tonelada emitida de Bióxido de Carbono Equivalente (CO2e) o la conversión del mismo, establecida en el artículo 83 BIS-10 de esta Ley.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
@@ -2439,17 +2447,19 @@ IV. Certificado de propiedad, de no propiedad y de única propiedad, 6 UMA;
 
 V. Certificado de historial registral de hasta 10 años, 20 UMA;
 
-VI. Certificado de historial registral de más de 10 y hasta 20 años, 21 UMA;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
-VII. Certificado de historial registral de más de 20 años, 27 UMA; y,
+VI. Certificado de historial registral de más de 10 y hasta 20 años, 25 UMA;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
+VII. Certificado de historial registral de más de 20 años, 30 UMA; y,
 
 VIII. Expedición de copias certificadas de cada plano, 7.5 UMA.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-Las solicitudes emitidas por autoridades judiciales no causarán derechos, siempre y cuando su atención no implique la expedición de certificados, copias certificadas o la realización de algún acto de inscripción.
+Las solicitudes emitidas por autoridades judiciales y administrativas no causarán derechos, siempre y cuando su atención no implique la expedición de certificados, copias certificadas o la realización de algún acto de inscripción.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -2461,9 +2471,9 @@ I. Búsqueda de antecedentes en los archivos con expedición de copias certifica
 
 II. Búsqueda de antecedentes en los archivos sin expedición de certificados por inmueble, 3 UMA;
 
-III. Por cotejo de documentos no autentificados que deban destinarse al apéndice, 3 UMA; y,
+III. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2023)
 
-IV. Por el cotejo de constancias de documentos de archivo, 3 UMA.
+IV. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2023)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -2947,11 +2957,9 @@ X. Cuando de la información o del desarrollo del procedimiento para la obtenci�
 
 Por la prestación de los siguientes servicios, se causarán y pagarán derechos, conforme a las siguientes cuotas:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
 I. Por la reproducción de cartas catastrales o planos en medios digitales, se causarán y pagarán los siguientes derechos:
-
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 TIPO DE PLANO ESCALA UMA
 
@@ -2993,7 +3001,9 @@ en formato de imagen digital estándar,
 
 píxel de 40 cm.
 
-Colonia en formato digital dxf O shape. 1:1000 40
+Asentamiento humano en formato 1:1000 40
+
+digital dxf o shape
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
@@ -3155,7 +3165,7 @@ Más de 10 horas hasta 24 horas 8
 
 IV. (DEROGADA [N. DE E. REUBICADA], P.O. 23 DE DICIEMBRE DE 2021)
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 27 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 126.
 
@@ -3163,13 +3173,17 @@ Por los servicios catastrales relativos a fraccionamientos y condominios, se cau
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, PÁGINA 28570.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 23 DE DICIEMBRE DE 2021, PÁGINA 55698.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 23 DE DICIEMBRE DE 2021, PÁGINA 55698; P.O. DE 27 DE DICIEMBRE DE 2023, PÁGINA 47182.]</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 En caso de que, tras la primera revisión, y derivado del incumplimiento de alguno de los requisitos, no sea posible realizar el alta de un fraccionamiento, unidad condominal o condominio, se causará y pagará un derecho de 4 UMA por cada revisión subsecuente que se requiera.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
+
 En caso de que no sea posible realizar el alta del fraccionamiento, unidad condominal o condominio debido a la inconsistencia en algún documento presentado o a que la información registrada en los archivos catastrales no coincida con la presentada; por la subsecuente revisión del expediente se causará el 50 por ciento de los derechos que por dichos conceptos establece el presente artículo.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
 Tratándose de la regularización de asentamientos humanos derivado de programas federales o estatales, no se pagarán los derechos que se causen con motivo de la prestación de los servicios consistentes en el alta de fraccionamiento, la preasignación de claves catastrales y la relotificación.
 
@@ -3221,9 +3235,13 @@ V. Por la autorización de folios físicos o electrónicos para la elaboración 
 
 Cuando se trate de avalúos que se realicen para operaciones traslativas de dominio de vivienda de interés social o popular con crédito hipotecario de instituciones u organismos federales o estatales, se pagará por este concepto 2 UMA.
 
-Cuando se trate de avalúos que se realicen para la primera operación traslativa de dominio de un predio regularizado a través de un programa federal, estatal o municipal de regularización de asentamientos humanos irregulares, se causará y pagará por este concepto 2 UMA.
+> <small>(REFORMADO [N. DE E. ADICIONADO] P.O. 27 DE DICIEMBRE DE 2023)</small>
 
-En los dos últimos supuestos, el valuador con nombramiento emitido por el Poder Ejecutivo del Estado de Querétaro, deberá acreditar fehacientemente dicha circunstancia mediante la documentación oficial correspondiente;
+Cuando se trate de avalúos que se realicen para la primera operación traslativa de dominio, de la subdivisión o la fusión de un predio para su regularización a través de un programa estatal, federal o municipal de regularización de la titulación de predios, se causará y pagará por este concepto 2 UMA.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 2023)</small>
+
+En estos tres últimos supuestos, el valuador con nombramiento emitido por el Poder Ejecutivo del Estado de Querétaro, deberá acreditar fehacientemente dicha circunstancia mediante la documentación oficial correspondiente;
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
@@ -3475,9 +3493,11 @@ Por los servicios que presta la Dirección de Educación, se causarán y pagará
 
 > <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL NÚMERO 89 DEL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINAS DE LA 31634 A LA 31535.]</small>
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 135.
 
-(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
+Por los servicios que prestan otras autoridades de la Secretaría de Educación con motivo de las actividades inherentes a su operación, se pagarán derechos de conformidad con las disposiciones de carácter general que al efecto se expidan.
 
 ### Capítulo Séptimo. Por los servicios prestados por las Autoridades de la Secretaría de Desarrollo Urbano y Obras Públicas
 
@@ -3937,11 +3957,9 @@ Zona C: Jalpan de Serra, Landa de Matamoros, Peñamiller, Pinal de Amoles, San J
 
 (DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
-
 ###### Artículo 148.
 
-Por la reposición física del dispositivo del almacenamiento que entregue la Secretaría de la Contraloría para la firma electrónica, se causará y pagará un derecho equivalente a 1.12 UMA. Por la generación por segunda o ulterior ocasión del certificado para generación de firma electrónica se causará y pagará un derecho equivalente a 4 UMA.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2023)
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -3967,7 +3985,7 @@ Por la expedición de la constancia de no inhabilitación a favor de las persona
 
 ### Capítulo Décimo Primero. Servicios prestados por las Autoridades de la Secretaría de Seguridad Ciudadana
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 151.
 
@@ -3979,19 +3997,19 @@ a). Por el trámite y, en su caso, autorización a personas
 
 físicas y morales para la prestación de servicios de seguridad
 
-privada en el Estado de Querétaro 105
+privada en el Estado de Querétaro 126
 
 b). Por el trámite de registro para la prestación de servicios de
 
 seguridad privada en el Estado a personas físicas y morales
 
-con autorización de la Secretaría de Gobernación 58
+con autorización de la Secretaría de Gobernación 69
 
 c). Por el trámite y, en su caso, refrendo anual de la autorización
 
 a personas físicas y morales para la prestación de servicios de
 
-seguridad privada en el Estado de Querétaro 53
+seguridad privada en el Estado de Querétaro 69
 
 d). Por el trámite y, en su caso, modificación de las modalidades
 
@@ -4017,6 +4035,14 @@ de vehículos en el Padrón de Vehículos Escolta 2
 
 j). Por baja en el Padrón de Vehículos Escolta 2
 
+k). Por el trámite de cada persona de seguridad privada en el
+
+Registro Nacional de Personal de Seguridad Pública 1
+
+l). Expedición de constancia o historial de la empresa de
+
+Seguridad Privada 2
+
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 152.
@@ -4031,7 +4057,7 @@ I. En materia de licencias de conducir:
 
 > <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 23 DE DICIEMBRE DE 2021, PÁGINA 55704.]</small>
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
 II. En materia de permisos provisionales y constancias:
 
@@ -4067,10 +4093,6 @@ vigencia de 30 días naturales 3
 
 Constancia de no accidentes, con vigencia de 30 días naturales 3
 
-Permiso vehículo con vidrios obscurecidos o polarizados con
-
-vigencia de un año 3
-
 Permiso para traslado de vehículo usado, vigencia de 10 días
 
 naturales 2
@@ -4105,7 +4127,7 @@ o de uso para la construcción, con vigencia de 2 años 2
 
 Las personas adultas mayores, pensionados, jubilados o con haber de retiro por las diversas instituciones sociales; así como las personas con discapacidad que lo acrediten con documento emitido por el Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Querétaro, causarán y pagarán un 50 por ciento de los derechos contemplados por las fracciones I y II del presente artículo, debiendo acreditar ante la autoridad correspondiente el supuesto anterior con la documentación original de la misma.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 153.
 
@@ -4115,13 +4137,13 @@ CONCEPTO UMA
 
 Registro y autorización para operar escuelas de manejo, con
 
-vigencia de un año 6
+vigencia de un año 50
 
-Refrendo anual de autorización para operar escuela de manejo 4
+Refrendo anual de autorización para operar escuela de manejo 25
 
 Constancia de instructor de manejo 3
 
-Autorización de vehículo para impartir clases de manejo 2
+Autorización de vehículo para impartir clases de manejo 3
 
 ### Capítulo Décimo Segundo. Por los servicios prestados por Autoridades Fiscales
 
@@ -4243,19 +4265,29 @@ V. Por la reposición de la tarjeta de circulación se pagará 3 UMA. Para ello,
 
 VI. Por el trámite relativo al aviso a otras entidades federativas sobre el alta de vehículos provenientes de otras entidades en el Padrón Vehicular Estatal, se pagarán 4 UMA;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
-VII. Por la actualización al Padrón Vehicular Estatal derivada del cambio de propietario se pagarán 3.5 UMA; y
+VII. Por la actualización al Padrón Vehicular Estatal derivada del cambio de propietario se pagarán 3.5 UMA;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
-VIII. Por la obtención de placas metálicas de circulación con características especiales, las cuales estarán sujetas a los requisitos y procedimientos que para tal efecto establezca la Secretaría de Finanzas, se pagarán 6 UMA adicionales a los derechos correspondientes de acuerdo al transporte y tipo a que se refieren las fracciones II y III del presente.
+VIII. Por la obtención de placas metálicas de circulación con características especiales, las cuales estarán sujetas a los requisitos y procedimientos que para tal efecto establezca la Secretaría de Finanzas, se pagarán 6 UMA adicionales a los derechos correspondientes de acuerdo al transporte y tipo a que se refieren las fracciones II y III del presente;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
+IX. Por la validación que realice la autoridad fiscal de los datos asentados en los registros vehiculares de otras entidades federativas se pagarán 3 UMA; y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
+X. Por la inspección física de la Unidad Vehicular para cotejar las características de la misma e identificar la clave vehicular, se pagarán 3 UMA.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 El refrendo anual o la expedición de placas metálicas, tarjeta de circulación y calcomanía de identificación vehicular, realizada con motivo del alta o registro en el Padrón Vehicular Estatal, a que se refiere la fracción I de este artículo, deberá realizarse junto con el pago del impuesto sobre tenencia o uso de vehículos, cumpliendo para ello con los requisitos que al efecto determine la Secretaría de Finanzas.
 
-La emisión de una nueva tarjeta de circulación derivada de la actualización de datos que realice el contribuyente no causará derechos, sólo se requerirá presentar la tarjeta vigente a la fecha y estar al corriente en el pago del impuesto sobre tenencia o uso de vehículos que corresponda y de los derechos por control vehicular.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
+La emisión de una nueva tarjeta de circulación derivada de la actualización de datos que realice el contribuyente, causará derechos por 3 UMA, y se requerirá presentar la tarjeta vigente a la fecha, así como estar al corriente en el pago del impuesto sobre tenencia o uso de vehículos que corresponda y de los derechos por control vehicular.
 
 Para los efectos del presente artículo, los vehículos de transporte funerario y los camiones con características especiales dedicados a prestar servicios públicos, se equiparan al transporte público, tipo camión.
 
@@ -4411,7 +4443,9 @@ II. Estar al corriente en el pago del impuesto sobre tenencia o uso de vehículo
 
 III. Cuando la baja del vehículo sea consecuencia de la falta de documentos que acrediten su legal estancia en el país, se autorizará la baja sin que el contribuyente esté obligado a pagar el adeudo que existiera por concepto de impuesto sobre tenencia o uso de vehículos previsto en la legislación federal o en el Capítulo Segundo del Título Tercero de esta Ley, según sea el caso y derechos por control vehicular, a que hace referencia la fracción II del presente artículo;
 
-IV. Los vehículos que cuenten con placas de circulación del Servicio Público Federal y que presenten su baja ante la Secretaría de Comunicaciones y Transportes, estarán obligados a realizar el trámite de baja del Padrón Vehicular Estatal dentro del ejercicio fiscal en el que se realizó la baja ante la autoridad federal; dicho trámite no causará los derechos contemplados en el artículo 157, fracción IV, de esta Ley.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2023)</small>
+
+IV. Los vehículos que cuenten con placas de circulación del Servicio Público Federal y que presenten su baja ante la Secretaría de Infraestructura, Comunicaciones y Transportes, estarán obligados a realizar el trámite de baja del Padrón Vehicular Estatal dentro del ejercicio fiscal en el que se realizó la baja ante la autoridad federal, así como a efectuar el pago de los derechos contemplados en el artículo 157, fracción IV de esta Ley.
 
 En caso de no presentar la baja mencionada en el párrafo anterior, el contribuyente será responsable solidario de las contribuciones que se generen hasta la fecha en que se tramite la baja;
 
@@ -4423,19 +4457,19 @@ VI. Tratándose de trámites de baja de vehículos destinados al servicio de tra
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
-Las bajas de vehículos señaladas en las fracciones III, IV, V y VI, no causarán los derechos que establece la fracción IV del artículo 157 de la presente Ley.
+Las bajas de vehículos señaladas en las fracciones III, V y VI, no causarán los derechos que establece la fracción IV del artículo 157 de la presente Ley.
 
 ###### Artículo 163.
 
 Las autoridades fiscales no autorizarán movimientos en el Padrón Vehicular Estatal, sin haberse cerciorado de que no existan adeudos por concepto del impuesto sobre tenencia o uso de vehículos previsto en la legislación federal y/o en el Capítulo Segundo del Título Tercero de esta Ley, según sea el caso.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 164.
 
-Las personas afiliadas al Instituto Nacional de las Personas Adultas Mayores o que tengan el carácter de pensionados o jubilados por las diversas instituciones sociales; así como las personas con discapacidad que lo acrediten con la constancia emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, causarán y pagarán un 50% de los derechos contemplados por el artículo 157 de esta Ley, debiendo acreditar ante la autoridad correspondiente el supuesto anterior con la documentación original de la misma.
+Las personas afiliadas al Instituto Nacional de las Personas Adultas Mayores o que tengan el carácter de pensionados o jubilados por las diversas instituciones sociales; así como las personas con discapacidad que lo acrediten con la constancia emitida por el Sistema Estatal para el Desarrollo Integral de la Familia o por cualquier otra autoridad competente, causarán y pagarán un 50% de los derechos contemplados por el artículo 157 de esta Ley, debiendo acreditar ante la autoridad correspondiente el supuesto anterior con la documentación original de la misma.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 2022)</small>
 
@@ -4621,17 +4655,17 @@ XV. Por la autorización de la manifestación de impacto ambiental en modalidad 
 
 XVI. Por la resolución de riesgo ambiental, se pagará el equivalente a 158 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
-XVII. Por el registro al padrón de prestadores de servicios ambientales en la categoría de manejo integral de residuos educación se pagará el equivalente a 37.5 UMA;
+XVII. Por el registro al padrón de prestadores de servicios ambientales para las categorías de: Manejo Integral de Residuos; perito responsable para bancos de material, consultoría ambiental; capacitación ambiental; laboratorios de estudios ambientales y de calibración; unidades de verificación ambiental; auditoría ambiental; talleres de diagnósticos de emisiones vehiculares y manejo de vegetación se pagará el equivalente a 37.5 UMA
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
-XVIII. Por el registro al padrón de prestadores de servicios ambientales, se pagará el equivalente a 14 UMA para las categorías de: perito responsable para bancos de material, consultoría ambiental; capacitación ambiental; laboratorios de estudios ambientales y de calibración; unidades de verificación ambiental; auditoría ambiental; talleres de diagnósticos de emisiones vehiculares y manejo de vegetación;
+XVIII. Por el refrendo al padrón de prestadores de servicios ambientales para las categorías de: Manejo Integral de Residuos; perito responsable para bancos de material, consultoría ambiental; capacitación ambiental; laboratorios de estudios ambientales y de calibración; unidades de verificación ambiental; auditoría ambiental; talleres de diagnósticos de emisiones vehiculares y manejo de vegetación se pagará el equivalente a 14 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
-XIX. Por el refrendo al padrón de prestadores de servicios ambientales, se pagará el equivalente a 14 UMA, incluyendo la modalidad de perito;
+XIX. Por la autorización y refrendo anual para operar Centros Integrales de Residuos de la Construcción y Demolición (CIRCD) se pagará el equivalente a 389 UMA;
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -4720,6 +4754,18 @@ II. Por el uso de bienes dentro del Querétaro Centro de Congresos (sic) causar�
 Por el uso y aprovechamiento de los bienes del Querétaro Teatro Metropolitano, se causarán y pagarán, por evento, los siguientes derechos:
 
 > <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL NÚMERO 89 DEL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINAS DE LA 31640 A LA 31641.]</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 169 Quáter.
+
+Estarán obligadas al pago de los derechos por concepto de admisión al recinto identificado como Planetario ubicado en el Museo de Ciencia y Tecnología “El Péndulo”, a cargo de la Secretaría de Turismo del Poder Ejecutivo del Estado de Querétaro, las personas que tengan acceso a los mismos, conforme a las siguientes cuotas:
+
+I. Adultos: 0.9640 UMA; y
+
+II. Menores de edad, personas adultas mayores y personas con alguna discapacidad física: 0.4820 UMA.
+
+El pago de este derecho deberá hacerse previamente al ingreso al espacio a que se refiere este artículo.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -6564,3 +6610,181 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 27 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES LEGISLATIVAS EN MATERIA FISCAL Y ADMINISTRATIVA A PARTIR DEL EJERCICIO FISCAL 2024".]
+
+Artículo Primero. La presente Ley entrará en vigor el 1 de enero de 2024, bajo las modalidades previstas en los artículos subsecuentes.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+Artículo Tercero. La suspensión prevista en el Artículo Tercero Transitorio de la Ley que reforma, adiciona y deroga diversas disposiciones de la Ley de Hacienda del Estado de Querétaro, de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro, de la Ley de la Administración Pública Paraestatal del Estado de Querétaro, de la Ley de Hacienda de los Municipios del Estado de Querétaro, del Código Fiscal del Estado de Querétaro, de la Ley de Procedimientos Administrativos del Estado de Querétaro, de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro y de la Ley de Coordinación Fiscal Estatal Intermunicipal del Estado de Querétaro, publicada el 22 de diciembre de 2022 en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", continuará surtiendo sus efectos durante el Ejercicio Fiscal 2024, respecto de la circunscripción territorial de aquellos Municipios en cuyas Leyes de Ingresos se prevea el impuesto de entretenimientos públicos municipales, conforme a las obligaciones derivadas de la colaboración administrativa en materia fiscal con el Poder Ejecutivo del Estado, de acuerdo con lo establecido en la Ley de Coordinación Fiscal Estatal Intermunicipal del Estado de Querétaro.
+
+Las obligaciones nacidas con anterioridad al ejercicio fiscal 2023, por concepto del impuesto sobre diversiones y espectáculos públicos previsto en el Capítulo Quinto del Título Tercero de la Ley de Hacienda del Estado de Querétaro, deberán cumplirse en los términos previstos en dicha Ley respecto de los montos, formas y plazos establecidos, así como en las demás disposiciones fiscales estatales.
+
+Los procedimientos iniciados con anterioridad al 2023, deberán substanciarse y resolverse en términos de las disposiciones fiscales estatales vigentes conforme al ejercicio fiscal que corresponda.
+
+Artículo Cuarto. Dentro de los otros ingresos derivados del Sistema de Colaboración Administrativa Estatal Intermunicipal previstos en el segundo párrafo del artículo 2 de la Ley de Coordinación Fiscal Estatal Intermunicipal del Estado de Querétaro, se incluyen los relativos a la recaudación que obtenga el Estado por concepto del impuesto por la prestación del servicio de hospedaje establecido en la Ley de Hacienda del Estado de Querétaro, la cual será distribuida entre los municipios que cumplan con los siguientes elementos de elegibilidad:
+
+I. Consideren en su Ley de Ingresos el cobro del impuesto que tenga por objeto el uso de la propiedad inmobiliaria destinada para la prestación de servicios de hospedaje.
+
+II. Acrediten haber recaudado ingresos por dicho impuesto en los dos ejercicios fiscales anteriores a la suscripción del convenio correspondiente.
+
+III. Suscriban convenio de colaboración administrativa con la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro, respecto del impuesto señalado en la fracción I del presente artículo.
+
+Para aquellos municipios que hayan suscrito el convenio en comento, se les participará el uno por ciento de los recursos autorizados por la Legislatura del Estado en el Decreto de Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2024 por concepto del Impuesto por la Prestación del Servicio de Hospedaje, con relación a la circunscripción territorial del municipio de que se trate y en términos de la calendarización que para tal efecto realice la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro.
+
+Artículo Quinto. Para efectos de lo establecido en el artículo 49 de la Ley de la Administración Pública Paraestatal del Estado de Querétaro, con relación a las disponibilidades de las Entidades de ejercicios fiscales anteriores, se destinarán como parte de las ministraciones calendarizadas del monto aprobado dentro del Decreto de Presupuesto de Egresos del Estado de Querétaro del ejercicio fiscal 2024, exceptuando de lo anterior a las entidades en materia de seguridad.
+
+Artículo Sexto. Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2024, serán las siguientes:
+
+I. Por la expedición de los oficios y certificaciones a que se refieren las fracciones III y IV del artículo 127 de la Ley de Hacienda del Estado de Querétaro, se autoriza al titular en materia de catastro para realizar la aplicación del cobro del derecho equivalente a 1.25 UMA, respecto de bienes considerados como vivienda de interés social o popular;
+
+II. Se causará una tasa cero con motivo de los derechos a que se refieren las fracciones I, X y XI del artículo 127 de la Ley de Hacienda del Estado de Querétaro, con relación a autoridades federales, estatales o municipales, siempre que éstas soliciten la prestación de los servicios previstos en dichas fracciones en ejercicio de sus funciones de derecho público y respecto a predios que formen parte de su patrimonio;
+
+III. Se autoriza a las autoridades registrales y catastrales emitir un programa de beneficios para la aplicación de un factor de reducción de hasta el setenta y cinco por ciento en el cobro de los derechos generados por los servicios que prestan dichas autoridades previstos en los Capítulos Segundo y Cuarto del Título Cuarto de la Ley de Hacienda del Estado de Querétaro, para los propietarios de predios que en ejercicios fiscales anteriores o durante el presente, han sufrido afectaciones por obras de nivel Federal, Estatal o Municipal y que exista instrumento que tenga por objeto la donación del predio, ya sea su superficie total o varias fracciones en favor de un Municipio y/o el Estado, y que el predio cuente con características de derecho de paso, siempre que se acredite la utilidad pública del mismo, lo anterior, previa validación del programa correspondiente por la Secretaría de Finanzas;
+
+IV. Se causará una tasa cero con motivo de los derechos a que se refiere la fracción XXII del artículo 127 de la Ley de Hacienda del Estado de Querétaro, con relación a autoridades estatales o municipales, siempre que éstas soliciten la prestación del servicio en ejercicio de sus funciones de derecho público y respecto a predios que formen parte de su patrimonio;
+
+V. Cuando los avisos de testamentos a los que se refiere el artículo 113 de la Ley de Hacienda del Estado de Querétaro, se lleven a cabo en el periodo y conforme a los requisitos que para tal efecto establezca la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro, se causará una tasa cero por los derechos correspondientes, debiendo notificar al titular en materia registral;
+
+VI. Durante el periodo que al efecto establezca la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro, se causará una tasa cero por la prestación de los servicios previstos en el artículo 142 de la Ley de Hacienda del Estado de Querétaro, de conformidad con lo siguiente:
+
+a) Rectificación de acta;
+
+b) Expedición de copias certificadas de actas del estado civil de las personas, levantadas en el Estado de Querétaro, por cada hoja, bajo los siguientes supuestos:
+
+1. La expedición de la primera copia certificada, que con motivo de un procedimiento administrativo de rectificación de acta haya sido resuelto por la Dirección Estatal del Registro Civil, cuyo formato se imprima en español o en lengua indígena.
+
+2. La expedición de una copia certificada de acta de nacimiento impresa en sistema braille, que soliciten las personas físicas ciegas o débiles visuales; y
+
+c) La expedición de copias certificadas de actas del estado civil de las personas, levantadas en otra entidad federativa, por medio de la Base de Datos Nacional a partir de la Conexión Interestatal, tratándose de copia certificada de acta de nacimiento impresa en sistema braille que soliciten las personas físicas ciegas o débiles visuales;
+
+VII. Se autoriza a la Secretaría de Gobierno del Poder Ejecutivo para la creación de un Programa para la aplicación de un factor de reducción de hasta el cincuenta por ciento del cobro por concepto de multas administrativas que se hubieren generado, respecto de los derechos previstos en los artículos 87 y 88 de la Ley de Hacienda del Estado de Querétaro y que deban pagarse por los servicios que preste la citada dependencia, previa validación de la Secretaría de Finanzas del Poder Ejecutivo;
+
+VIII. Los contribuyentes que realicen el pago de los derechos por refrendo de licencias para almacenaje, venta, porteo y consumo de bebidas alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 88 de la Ley de Hacienda del Estado de Querétaro, obtendrán los siguientes beneficios:
+
+PERIODO DE PAGO DESCUENTO
+
+Enero 2024 10 por ciento
+
+Febrero 2024 8 por ciento
+
+Marzo 2024 5 por ciento
+
+IX. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo, para que, en el ámbito de su competencia, realice la recepción, aplicación y asignación de los recursos que se deriven con motivo de las actividades y servicios que presten las dependencias y los organismos descentralizados estatales durante el ejercicio fiscal 2024, conforme a la normativa correspondiente;
+
+X. Se faculta a las autoridades fiscales para emitir y autorizar programas estatales vinculados al Plan Estatal de Desarrollo Querétaro 2021-2027, de beneficios administrativos y fiscales de reducciones de hasta el noventa y cinco por ciento de las contribuciones y aprovechamientos, conforme a lo establecido en la Ley de Hacienda del Estado de Querétaro en el ejercicio fiscal 2024;
+
+XI. Se autoriza a las autoridades fiscales a realizar la cancelación de los créditos fiscales por incosteabilidad en el cobro durante el ejercicio fiscal 2024.
+
+Para efectos de esta fracción, se consideran créditos de cobro incosteable, aquellos cuyo importe histórico al 31 de diciembre de 2023, sea inferior o igual al equivalente en moneda nacional a 2000 unidades de inversión, incluyendo las sanciones emitidas por los Juzgados.
+
+Se autoriza a las autoridades fiscales la aplicación de la cancelación de los adeudos del Impuesto Sobre Tenencia o Uso de Vehículos, así como de los derechos por control vehicular previstos en la Ley de Hacienda del Estado de Querétaro, generados por los ejercicios fiscales 2019 y anteriores, a petición de parte o a través de la autorización de un programa.
+
+Se autoriza a las autoridades fiscales para que realicen los movimientos correspondientes a la baja administrativa en el Padrón Vehicular Estatal, respecto del Impuesto Sobre Tenencia o Uso de Vehículos, así como de los derechos por control vehicular previstos en la Ley de Hacienda del Estado de Querétaro, generados por los ejercicios fiscales 2019 y anteriores, sin que ello constituya la cancelación de adeudos por el impuesto y derechos antes referidos;
+
+XII. Los contribuyentes, tenedores o usuarios de vehículos deberán realizar el pago para el ejercicio fiscal 2024 del Impuesto Sobre Tenencia o Uso de Vehículos y los derechos correspondientes, conforme a lo establecido en la Ley de Hacienda del Estado de Querétaro, y cumplido lo anterior, se entenderá que las tarjetas de circulación a que se refiere el artículo 157 de la citada Ley, que hubiesen sido expedidas en los ejercicios fiscales 2022 y 2023, continuarán su vigencia dentro del Padrón Vehicular Estatal hasta el 31 de diciembre de 2024.
+
+Los citados contribuyentes, tenedores o usuarios, para comprobar la vigencia de las tarjetas de circulación señaladas en el párrafo anterior, exhibirán la representación impresa del recibo de pago respectivo ante las autoridades que así lo requieran;
+
+XIII. Las personas que resulten beneficiarias de los apoyos contenidos en el Programa que para tal efecto se emita, enfocado al sector empresarial que contrate personal con discapacidad, podrán reducir de la base gravable en el impuesto sobre nóminas previsto en la Ley de Hacienda del Estado de Querétaro a su cargo, a través del mecanismo establecido por la Secretaría de Finanzas del Poder Ejecutivo, debiendo la Secretaría de (sic) Trabajo del Poder Ejecutivo emitir los lineamientos de aplicación correspondientes;
+
+XIV. Por cuanto ve al cobro por el uso y aprovechamiento de espacios del Centro Educativo y Cultural del Estado de Querétaro "Manuel Gómez Morín", respecto del recinto identificado como Planetario, ubicado en el Museo de Ciencia y Tecnología "El Péndulo", en términos del artículo 169 QUÁTER de la Ley de Hacienda del Estado de Querétaro, se podrá aplicar un factor de reducción de hasta un ochenta por ciento mediante lineamientos que emita la Secretaría de Educación del Poder Ejecutivo, los cuales, previo a su expedición, deberán contar con validación de la Secretaría de Finanzas del Poder Ejecutivo;
+
+XV. Para efectos del artículo 135 de la Ley de Hacienda del Estado de Querétaro, se estará a lo señalado en las disposiciones que, previo estudio de mercado, y una vez validadas por la Secretaría de Finanzas del Poder Ejecutivo, emita la Secretaría de Educación del Poder Ejecutivo;
+
+XVI. Las personas que resulten beneficiarias de los apoyos contenidos en el Programa de Apoyo a la Tenencia gozarán de una reducción en el impuesto sobre tenencia o uso de vehículos previsto en la Ley de Hacienda del Estado de Querétaro a su cargo, de hasta el noventa y nueve por ciento; debiendo la Secretaría de Finanzas del Poder Ejecutivo realizar las autorizaciones a través de los lineamientos de aplicación correspondientes;
+
+XVII. Las autoridades fiscales podrán restituir las cantidades pagadas por los particulares por concepto de derechos contenidos en la Ley de Hacienda del Estado de Querétaro, derivados de medios de defensa, siempre y cuando:
+
+a) Los particulares hayan promovido un medio de defensa en materia de constitucionalidad en el que se haya declarado a su favor la inaplicabilidad de los derechos a que hace referencia el primer párrafo de esta fracción; y
+
+b) Las cantidades sujetas a restitución hayan sido efectivamente pagadas al fisco estatal.
+
+Para efectos de lo anterior, previa opinión favorable de la Procuraduría Fiscal de la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro, se generarán las acciones administrativas correspondientes;
+
+XVIII. En caso de robo de placas metálicas, se causarán y pagarán al 50% los derechos establecidos en el artículo 157, fracción II de la Ley de Hacienda del Estado de Querétaro para el ejercicio fiscal 2024, siempre y cuando el contribuyente acredite dicha circunstancia de conformidad con los criterios normativos establecidos por la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro;
+
+XIX. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro para realizar la aplicación del beneficio contemplado en el artículo 164 de la Ley de Hacienda del Estado de Querétaro, hasta por tres unidades vehiculares por cada contribuyente que actualice el supuesto previsto en dicho artículo, quedando facultada para autorizar la ampliación del beneficio de conformidad con los lineamientos que al efecto emita dicha Secretaría;
+
+XX. Se autoriza al Centro de Congresos y Querétaro Teatro Metropolitano para que en términos de los artículos 169 Bis y 169 Ter de la Ley de Hacienda del Estado de Querétaro, apliquen un factor de reducción de hasta el cincuenta por ciento del cobro de los derechos respectivos, de conformidad a los lineamientos emitidos por el mismo Centro de Congresos y Teatro Metropolitano;
+
+XXI. Se causará una cuota cero por la prestación de los servicios previstos en el artículo 172 Ter de la Ley de Hacienda del Estado de Querétaro, con relación a las personas mayores de 60 años, menores de 13 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso por parte de la Secretaría de Cultura del Poder Ejecutivo del Estado de Querétaro, para realizar estudios afines a los espacios a que se refiere dicho artículo. Asimismo, se causará una tasa cero con motivo de este derecho, con relación a los visitantes que accedan a los espacios los días domingos y días festivos;
+
+XXII. Se causará una cuota cero respecto de los conceptos referidos en el artículo 172 Quáter de la Ley de Hacienda del Estado de Querétaro, con relación a las instituciones públicas o privadas que realicen conjuntamente con la Secretaría de Cultura del Poder Ejecutivo, eventos culturales, educativos, cívicos o de asistencia social, así como las personas físicas o morales que realicen actividades de promoción, difusión y comercialización culturales, educativas, artísticas, cívicas o de asistencia social, previa celebración del convenio correspondiente;
+
+XXIII. Se faculta a la Secretaría de Cultura del Poder Ejecutivo para llevar a cabo la aplicación de lo establecido en el artículo 172 Quáter de la Ley de Hacienda del Estado de Querétaro, en función del uso de los espacios y a través de los lineamientos que para tal efecto se emitan, previa validación de la Secretaría de Finanzas del Poder Ejecutivo;
+
+XXIV. Los derechos por vivienda de interés social o popular que de conformidad con la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste la autoridad en materia registral en el Estado, se causarán al cincuenta por ciento conforme a las siguientes:
+
+a) La inscripción de limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente.
+
+b) La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos.
+
+c) La expedición de certificados de no propiedad;
+
+XXV. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste la autoridad en materia registral en el Estado que a continuación se describen, se causarán al 25 por ciento:
+
+a) La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+b) Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+c) Del contrato de hipoteca relacionado con la compraventa de viviendas de interés social o popular.
+
+Se causará un derecho a razón de 5 UMA por la inscripción del acto en el que conste la adquisición de vivienda de interés social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona;
+
+XXVI. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste la autoridad en materia registral en el Estado que a continuación se describen, se causarán al cincuenta por ciento:
+
+a) La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos.
+
+b) La inscripción de la escritura pública en la que conste la operación mediante la cual las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios.
+
+c) La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado;
+
+XXVII. No se causarán los derechos previstos en la Ley de Hacienda del Estado de Querétaro, por los servicios de inscripción que preste la autoridad en materia registral en el Estado, respecto de:
+
+a) El acto en el que conste la reestructuración de los créditos señalados en el artículo 100 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicha autoridad se encuentre la anotación del crédito inicial.
+
+b) El testimonio en el que conste la adquisición de inmuebles, efectuada por personas morales y personas físicas con actividad empresarial, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que los inmuebles adquiridos se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos.
+
+Para la aplicación del párrafo anterior, se requerirá un dictamen de viabilidad de generación de empleos e inversión en el Estado, emitido por la Secretaría de Desarrollo Sustentable del Poder Ejecutivo respecto a la procedencia del otorgamiento del beneficio.
+
+c) El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas morales y personas físicas con actividad empresarial, siempre que con ello se propicie el mantenimiento de empleos.
+
+d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes.
+
+e) La inscripción de los actos provenientes de los Programas de Regularización, siempre y cuando se presenten mediante oficio de petición de la autoridad que regularizó;
+
+XXVIII. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por autoridad competente, estarán exceptuadas del pago de los derechos relativos a la expedición de certificado de única propiedad por parte de la autoridad en materia registral en el Estado, contenida en el artículo 107, fracción IV, de la Ley de Hacienda del Estado de Querétaro, para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial;
+
+XXIX. Los recursos derivados de aprovechamientos relativos al concepto de multas y sanciones, por incumplimiento a las disposiciones en materia de verificación vehicular, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro, a que se refiere el Código Ambiental del Estado de Querétaro y los Programas que se financien con dicho Fondo;
+
+XXX. Se autoriza a la Secretaría de Seguridad Ciudadana para la creación de Programas Estatales para la aplicación de un factor de reducción de hasta el setenta y cinco por ciento del cobro por concepto de los derechos que, de conformidad con lo previsto en el Capítulo Décimo Primero del Título Cuarto de la Ley de Hacienda del Estado de Querétaro, deban pagarse por los servicios que preste la citada dependencia, previa validación de la Secretaría de Finanzas;
+
+XXXI. La Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro realizará las acciones administrativas conducentes para efecto de elaborar los formatos institucionales a través de los cuales los sujetos obligados enterarán los impuestos previstos en los Capítulos Sexto y Sexto Bis del Título Tercero de la Ley de Hacienda del Estado de Querétaro;
+
+XXXII. Se faculta al Titular de la Secretaría de Finanzas del Poder Ejecutivo para que, en el ejercicio de sus facultades, expida los acuerdos y lineamientos administrativos necesarios para el manejo de los asuntos financieros y tributarios del Estado.
+
+Asimismo, estará facultado para expedir aquellos que autoricen los estímulos fiscales a través de disposiciones y procesos relativos a los numerales 70 al 73 de la Ley de Hacienda del Estado de Querétaro que tengan por objeto establecer los mecanismos para optimizar la recaudación estatal;
+
+XXXIII. Se faculta a las autoridades fiscales para emitir y autorizar programas estatales vinculados al Plan Estatal de Desarrollo Querétaro 2021-2027, de beneficios fiscales por declaración oportuna o anticipada respecto al Capitulo Noveno del Título Tercero de la Ley de Hacienda del Estado de Querétaro para el ejercicio fiscal 2024;
+
+XXXIV. Los contribuyentes de los impuestos establecidos en las Secciones II, III y IV del Capítulo Noveno del Título Tercero de la Ley de Hacienda del Estado de Querétaro, podrán reducir hasta el veinte por ciento de la base gravable, las toneladas o su correspondiente conversión, que se certifiquen mediante los sellos de bajas de emisiones otorgados y transferidos a través del mecanismo establecido por la Secretaría de Desarrollo Sustentable del Poder Ejecutivo, relativos a la compensación de emisiones de gases de efecto invernadero a la atmósfera y la absorción de bióxido de carbono por actividades de conservación de zonas forestales, energía, ganadería sustentable y reducción de emisiones en el manejo de residuos, en términos de lo previsto en la Ley de Cambio Climático para el Estado de Querétaro, debiendo para tal efecto emitir la disposición o los lineamientos correspondientes, previa validación (sic) la Secretaría de Finanzas del Poder Ejecutivo;
+
+XXXV. Los recursos obtenidos en términos de lo previsto en el Capítulo Noveno del Título Tercero de la Ley de Hacienda del Estado de Querétaro, serán destinados principalmente a obras de infraestructura en el Estado, así como para proyectos ambientales;
+
+XXXVI. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo, para la aplicación de estímulos fiscales de hasta el veinte por ciento por concepto del impuesto por remediación ambiental causado por la erosión del suelo, establecido en el artículo 83 BIS-5 de la Ley de Hacienda del Estado de Querétaro, en términos de los lineamientos que para tal efecto se emitan;
+
+XXXVII. En el caso de los derechos que se causen en términos de la Ley de Hacienda del Estado de Querétaro, se utilizará la Unidad de Medida y Actualización para su determinación y cálculo, de conformidad con lo establecido en la Ley de la Unidad de Medida y Actualización del Estado de Querétaro y demás disposiciones que al efecto resulten aplicables.
+
+Así mismo, en términos del numeral 170 de la Ley de Hacienda del Estado de Querétaro se fijan los derechos en pesos, ya que se hace más dinámico el cobro de los mismos;
+
+XXXVIII. Los aprovechamientos generados por la Secretaría de Seguridad Ciudadana por las infracciones establecidas en el artículo 48 del Reglamento de la Ley de Tránsito para el Estado de Querétaro, serán destinados preferentemente a proyectos y programas de Seguridad, de conformidad a lo establecido en el Plan Estatal de Desarrollo Querétaro 2021-2027;
+
+XXXIX. Se faculta a la Secretaría de Gobierno para emitir y autorizar programas estatales vinculados al Plan Estatal de Desarrollo Querétaro 2021-2027, en que se autoricen reducciones hasta en un noventa por ciento de las multas administrativas generadas por conceptos vinculados al Capítulo Octavo del Título Cuarto de la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2024, de conformidad con los criterios de procedencia que para tal efecto establezca la Secretaría de Finanzas; y
+
+XL. Para los Asentamientos en proceso de regularización con la Comisión de Regularización de la Tenencia de la Tierra (CORETT), actualmente Instituto Nacional del Suelo Sustentable (INSUS), con el Instituto de la Vivienda del Estado de Querétaro (IVEQ) o la Secretaría de Desarrollo Social del Estado de Querétaro (SEDESOQ), o cualquier otro programa de regularización del Estado o de los Municipios en dicha materia podrán contar con estímulos fiscales previa validación de la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro.
+
+Artículo Séptimo. Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
