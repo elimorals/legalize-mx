@@ -4,7 +4,7 @@ identifier: "CMX-codigo-fiscal-de-la-ciudad-de-mexico-antes-codigo-fiscal-71178"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-29"
-last_updated: "2023-12-26"
+last_updated: "2023-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71178&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,11 +22,11 @@ issue_date: "2009-12-28"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE DICIEMBRE DE 2023 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO FISCAL DE LA CIUDAD DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 26 DE DICIEMBRE DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 27 DE DICIEMBRE DE 2023.]</small>
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 2009.
 
@@ -25768,6 +25768,8 @@ NORMAS DE APLICACIÓN
 
 > <small>[N. DE E. VÉASE ANEXOS EN LA G.O. DE 26 DE DICIEMBRE DE 2023, PÁGINAS DE LA 237 A LA 367.]</small>
 
+> <small>[N. DE E. VÉASE F. DE E. A LOS ANEXOS, G.O. 27 DE DICIEMBRE DE 2023, PÁGINAS DE LA 10 A LA 18.]</small>
+
 ###### ARTÍCULO VIGÉSIMO TERCERO.
 
 Tratándose del trámite de actualización de datos catastrales mediante avalúo no operará durante el ejercicio fiscal 2024 la resolución afirmativa ficta a que se refiere el artículo 55 de este Código.
@@ -25778,7 +25780,7 @@ Para el cumplimiento de lo previsto en el Transitorio Décimo Séptimo de la Ley
 
 ###### ARTÍCULO VIGÉSIMO QUINTO.
 
-Los usuarios con Uso Doméstico obligados al pago de los Derechos por el Suministro de Agua que provea la Ciudad de México, ubicados en las colonias que determine el Sistema de Aguas de la Ciudad de México que durante el primero, segundo y tercer bimestre del año, registren un consumo superior a los 60,000 litros, deberán pagar un 35% adicional respecto a la tarifa que corresponda del artículo 172 del Código Fiscal de la Ciudad de México.
+Los usuarios con Uso Doméstico obligados al pago de los Derechos por el Suministro de Agua que proveVa la Ciudad de México, ubicados en las colonias que determine el Sistema de Aguas de la Ciudad de México que durante el primero, segundo y tercer bimestre del año, registren un consumo superior a los 60,000 litros, deberán pagar un 35% adicional respecto a la tarifa que corresponda del artículo 172 del Código Fiscal de la Ciudad de México.
 
 Para efectos del párrafo anterior, el citado Sistema de Aguas deberá publicar a más tardar el 19 de enero de 2024 el referido listado de colonias.
 
@@ -25861,3 +25863,11 @@ Lo dispuesto en este artículo únicamente será aplicable cuando resulte estric
 ARTÍCULO TRIGÉSIMO TERCERO.- Para el ejercicio fiscal 2024, por la emisión de la Licencia de medios publicitarios denominativos autosoportados a los cuales se les haya aprobado su permanencia conforme a lo previsto en los artículos 33 y QUINTO transitorio del Decreto por el que se abroga el Reglamento de la Ley de Publicidad Exterior del Distrito Federal y se expide el Reglamento de la Ley de Publicidad Exterior de la Ciudad de México, publicado el 11 de abril de 2023 en la Gaceta Oficial de la Ciudad de México, se deberá cubrir el pago por concepto de derechos correspondiente a las Licencias de medios publicitarios denominativos mixtos, previsto en el artículo 193, fracción I, inciso b), de este Código.
 
 ARTÍCULO TRIGÉSIMO CUARTO.- Las situaciones a que se refería el artículo 474 de este Código vigente hasta el ejercicio fiscal 2023, serán resueltas de conformidad con lo previsto en la Ley de Publicidad Exterior de la Ciudad de México.
+
+G.O. 27 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "AVISO POR EL QUE SE DA A CONOCER LA FE DE ERRATAS AL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, NÚMERO 1263, TOMO I, EL PASADO 26 DE DICIEMBRE DE 2023".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Aviso por el que se da a conocer la Fe de Erratas entra en vigor el día de su publicación.
