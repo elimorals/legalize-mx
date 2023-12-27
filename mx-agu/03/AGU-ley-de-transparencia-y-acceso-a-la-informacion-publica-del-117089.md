@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1170
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-07"
-last_updated: "2023-06-12"
+last_updated: "2023-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117089&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de noviembre de 2016.
 
@@ -273,7 +273,9 @@ El máximo órgano de dirección del ITEA será el Pleno, conformado por tres co
 
 Para ser Comisionado se requiere:
 
-I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
@@ -281,7 +283,9 @@ II. Tener al menos veinticinco años cumplidos al día de la designación;
 
 III. Contar con título profesional de licenciatura;
 
-IV. No haber sido condenado por delito doloso;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
+
+IV. No haber sido condenado por algún delito previsto como tipo penal protector de la administración pública, en aquellos que se relacionen con el ejercicio de sus funciones, o hechos de corrupción, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia;
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
@@ -1970,3 +1974,11 @@ P.O. 12 DE JUNIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 528.- SE REFORMA LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
