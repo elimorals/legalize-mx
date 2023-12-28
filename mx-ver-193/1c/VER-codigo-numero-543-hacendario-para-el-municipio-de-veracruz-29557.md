@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-543-hacendario-para-el-municipio-de-veracruz-2955
 country: "mx"
 rank: "codigo"
 publication_date: "2003-03-10"
-last_updated: "2021-03-10"
+last_updated: "2023-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO PARA EL MUNICIPIO DE VERACRUZ, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 2023.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 10 de marzo de 2003.
 
@@ -142,6 +142,14 @@ XXIII. Tesorero: El Titular de la Tesorería del Ayuntamiento; y
 > <small>(ADICIONADA, G.O. 7 DE DICIEMBRE DE 2006)</small>
 
 XXIV. Multa: Sanción a la conducta infractora sobre el pago de impuestos, derechos, productos, aprovechamientos, con el fin de que los sujetos pasivos no vuelvan a incurrir en omisión en el cumplimiento de su pago.
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XXV. CUICUVER: Catálogo Único Industrial y de Comercio del Municipio de Veracruz; y
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XXVI. SCIAN: Sistema de Clasificación Industrial de América del Norte.
 
 ###### Artículo 3.
 
@@ -791,13 +799,19 @@ VIII. Proporcionar a las autoridades fiscales los datos o informes que les solic
 
 IX. Mostrar, a solicitud de la autoridad municipal, la cédula de empadronamiento, las licencias, permisos o autorizaciones originales, así como otros documentos diversos de la misma naturaleza de los anteriores que les sean requeridos;
 
-X. Devolver para su cancelación la cédula o documento de empadronamiento en caso de clausura, cese de actividades, cambio de giro, de nombre o razón social, de domicilio o traspaso, en el momento en que dichas circunstancias sean comunicadas a la autoridad municipal;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+X. Devolver para su cancelación la cédula o documento de empadronamiento en caso de clausura, cese de actividades, ampliación de giro, cambio de giro, de nombre o razón social, de domicilio o traspaso, en el momento en que dichas circunstancias sean comunicadas a la autoridad municipal;
 
 XI. Dar aviso a la Tesorería, en el término de treinta días hábiles posteriores, respecto del cese de actividades o de funcionamiento definitivo de su negociación, para su anotación correspondiente en el padrón fiscal del Municipio;
 
 XII. Liquidar, retener y enterar ingresos municipales, en los casos previstos en las leyes fiscales; y
 
-XIII. Las demás que dispongan este Código, las leyes, reglamentos y ordenamientos aplicables.
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XIII. Recibir cartas invitación de carácter informativo con el propósito de conocer sus adeudos fiscales, los cuales no constituirán instancia alguna.
+
+XIV. Las demás que dispongan este Código, las leyes, reglamentos y ordenamientos aplicables.
 
 ###### Artículo 62.
 
@@ -869,15 +883,33 @@ X. Elaborar, integrar y mantener actualizados los padrones de contribuyentes, as
 
 XI. Determinar, mediante resolución, la responsabilidad solidaria.
 
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XII. Notificar cartas invitación de carácter informativo a los domicilios de los contribuyentes sin que se consideren resoluciones administrativas definitivas, y sin constituir instancia al tener como finalidad que el contribuyente regularice su situación fiscal;
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XIII. Utilizar, además de firmas autografas, firmas digitales o firmas electrónicas avanzadas, así como sellos digitales en documentos que hagan constar el cumplimiento de disposiciones fiscales, además de las firmas autógrafas;
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XIV. Requerir a los contribuyentes el cumplimiento de sus obligaciones y para el caso de incumplimiento ejercer sus facultades de comprobación;
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XV. Las demás que con tal carácter le atribuyan expresamente las disposiciones legales y las que le sean delegadas o encomendadas.
+
 ###### Artículo 67.
 
 Para los efectos de notificación de actos administrativos a los interesados, las autoridades fiscales deberán cubrir los requisitos previstos en el Código de Procedimientos Administrativos.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 68.
 
-El Cabildo podrá condonar o reducir los créditos fiscales municipales, cuando por causa de algún siniestro se afecte la situación económica de alguna región del territorio municipal. Lo anterior, previa declaratoria de desastre por parte de la autoridad competente.
+El Ayuntamiento podrá, previa declaratoria de la autoridad competente, condonar o reducir los créditos fiscales municipales, cuando por causa de algún siniestro, salud pública, caso fortuito, fuerza mayor u otras circunstancias, se afecte la situación económica, se provoquen trastornos graves, pérdidas materiales o se generen gastos adicionales, en alguna región o sector del territorio municipal.
 
-Para efectos del párrafo anterior, el Cabildo dictará, mediante disposiciones casuísticas, las contribuciones, productos o aprovechamientos materia de la condonación o reducción, señalando las regiones del Municipio en las que se disfrutará de la misma.
+Para efectos del párrafo anterior, el Ayuntamiento dictará, mediante disposiciones casuísticas, las contribuciones, productos o aprovechamientos materia de la condonación o reducción, señalando las regiones o sectores del Municipio en las que se disfrutará de la misma
 
 ###### Artículo 69.
 
@@ -917,7 +949,9 @@ XIV. Designar personal para presenciar la celebración de loterías, rifas, sort
 
 XV. Ordenar la práctica de la notificación de los actos relacionados con el ejercicio de las facultades de comprobación, así como las resoluciones que determinen créditos fiscales, citatorios, requerimientos, solicitud de informes y los demás actos administrativos que se generen con motivo de sus facultades de comprobación del cumplimiento de las disposiciones fiscales municipales;
 
-XVI. Rectificar los errores aritméticos que aparezcan en las declaraciones, manifestaciones o avalúos;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XVI. Rectificar los errores aritméticos, omisiones u otros que aparezcan en las declaraciones, solicitudes, manifestaciones, avisos o avalúos; para lo cual las autoridades fiscales podrán requerir al contribuyente la presentación de la documentación que proceda para la rectificación del error u omisión de que se trate;
 
 XVII. Ordenar la práctica de embargo precautorio para asegurar el interés fiscal, cuando el crédito fiscal no sea exigible pero haya sido determinado por el contribuyente o por la autoridad en el ejercicio de sus facultades de comprobación, si, a juicio de ésta, hubiera peligro de que el obligado se ausente o realice la enajenación de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales, así como levantarlo cuando proceda;
 
@@ -1667,11 +1701,11 @@ Las constancias de no adeudo que, en su caso, expida la Tesorería estarán vige
 
 Si existiere algún crédito por concepto de contribuciones por mejoras a favor del Estado o el Municipio, con fecha de vencimiento para el pago posterior a la fecha de la firma de la escritura, y el adquirente acepta o consiente dicho crédito los Notarios lo harán constar en el instrumento público.
 
-> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 136.
 
-El impuesto al que se refiere el presente Capítulo se causará, liquidará y pagará aplicando a la base gravable determinada, la tasa del (2%) dos por ciento.
+El impuesto al que se refiere el presente Capítulo se causará, liquidará y pagará aplicando a la base gravable determinada, la tasa del (2.5%) dos punto cinco por ciento.
 
 ###### Artículo 137.
 
@@ -2127,13 +2161,29 @@ Cuando la ley establezca la obligación de pago de un refrendo de permisos, lice
 
 Es objeto de este derecho el otorgamiento de la licencia de funcionamiento, permiso o autorización, registro o refrendo a negociaciones, giros o actividades económicas, cuya reglamentación y vigilancia corresponda a la autoridad municipal.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 196.
 
-Los propietarios de negociaciones comerciales, industriales, de prestación de servicios, de comisión y, en general, de toda actividad económica, deberán empadronarse en la Tesorería y obtener la cédula respectiva y, en su caso, la licencia o autorización de funcionamiento que corresponda, ya sea que sus actividades las realicen en tiendas abiertas al público, en despachos, almacenes, bodegas, interior de casas o edificios o en cualquier otro lugar. Dicha cédula de empadronamiento se mantendrá vigente, hasta en tanto no se realice baja, cambio de giro o de domicilio, excepto para los giros que implican la enajenación o expendio de bebidas alcohólicas, en cuyo caso la vigencia de la cédula de empadronamiento de la licencia será de un año.
+Los propietarios de negociaciones comerciales, industriales, de prestación de servicios, de comisión y, en general, de toda actividad económica, deberán empadronarse en la Tesorería y obtener la cédula respectiva y, en su caso, la licencia o autorización de funcionamiento que corresponda ya sea que sus actividades las realicen en tiendas abiertas al público, en despachos, almacenes, bodegas, interior de casas o edificios o en cualquier otro lugar. Dicha cédula de empadronamiento se mantendrá vigente, hasta en tanto no se realice baja, cambio de giro o de domicilio, excepto los giros a que se refieren los artículos 199 bis y 202 del presente Código, en cuyo caso la vigencia de la cédula de empadronamiento de la licencia será de un año, debiendo ser refrendada anualmente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 197.
 
-El inicio de actividades, la ampliación o el cambio de giro de los establecimientos o locales a los que se refiere el artículo anterior, serán autorizados por la Tesorería, de conformidad con los requisitos que establezca el reglamento municipal respectivo o, en su defecto, el Cabildo.
+El inicio de actividades, la ampliación o cambio de giro, cambio de domicilio, cambio de nombre de la negociación, reimpresión de originales, suspensión de actividades temporal o definitivas de los establecimientos o locales a los que se refiere el artículo anterior, serán autorizados por la Tesorería, de conformidad con los requisitos que establezca el reglamento municipal respectivo.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Las modificaciones y/o actualizaciones se pagarán de acuerdo con las siguientes tarifas:
+
+I. Por cambio de domicilio se pagará el veinte por ciento del valor de la licencia;
+
+II. Por cambio de nombre de la negociación se pagará 20 UMA's;
+
+III. Por reimpresión de originales se cobrar (sic) se pagará 10 UMA's; y
+
+IV. Por la ampliación de giro se pagará de acuerdo con la diferencia de UMA's que resulte de los montos establecidos para cada giro en el artículo 202 del presente código.
 
 ###### Artículo 198.
 
@@ -2143,15 +2193,39 @@ Son sujetos de este derecho las personas físicas o morales que soliciten del Ay
 
 El Municipio, en términos de lo dispuesto por la Ley de Coordinación Fiscal y demás normatividad aplicable, ejercerá facultades operativas de verificación al momento de expedir las licencias a que se refiere este Código y deberá solicitar a los interesados la exhibición de su cédula de inscripción al Registro Federal de Contribuyentes.
 
-En términos de la normatividad aludida en el párrafo anterior, la licencia, permiso o autorización de funcionamiento, o el registro o refrendo anual en su caso, no causarán cuota alguna, pero cumplirán los requisitos que para su otorgamiento señalen los reglamentos municipales, incluyendo el pago de formas valoradas.
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-Se exceptúan de la no causación los giros comerciales que enajenen o expendan bebidas alcohólicas en forma total o parcial al público en general, en cuyo caso deberán cubrir la cuota o tarifa establecida en el presente Código por el otorgamiento o refrendo de cada licencia, pero la omisión a dicha obligación se sancionará con multa equivalente a la cuota o tarifa señalada para el refrendo, según el caso y, de persistir la omisión dentro del término de quince días, se procederá a la clausura.
+En términos de la normatividad aludida en el párrafo anterior, la licencia, permiso, o el registro o refrendo anual de los comercios, no causarán cuota alguna, pero cumplirán los requisitos que para su otorgamiento señalen los reglamentos municipales, incluyendo el pago de formas valoradas.
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Se exceptúan de la no causación los giros comerciales establecidos en los artículos 199 bis y 202 del presente Código, que en cuyo caso deberán cubrir la cuota o tarifa establecida en el presente Código por el otorgamiento o refrendo de cada cédula de empadronamiento o licencia de funcionamiento en su caso, pero la omisión a dicha obligación se sancionará con multa equivalente a la cuota o tarifa señalada para el refrendo, según el caso y, de persistir la omisión dentro del término de quince días, se procederá a la clausura.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 199 Bis.
+
+Por el Registro y/o Refrendo de las actividades económicas contenidas en el presente apartado de naturaleza especial, independientemente de la clasificación del catálogo CUICVER que les corresponda, deberán pagar las cuotas siguientes:
+
+> <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 28 DE DICIEMBRE DE 2023, PÁGINAS DE LA 178 A LA 183.]</small>
+
+Los derechos por refrendos anuales se calcularán a razón del diez por ciento del costo actualizado del registro y deberán ser cubiertos en los meses de enero y febrero del ejercicio fiscal siguiente en que se otorgó la licencia de funcionamiento. Se exceptuarán del pago de refrendo los establecimientos clasificados en la tabla anterior como fracción III, mismos que solo cubrirán el derecho por concepto de registro por una única ocasión.
+
+El cobro de los derechos previstos en el presente capítulo deberá efectuarse de forma conjunta con los impuestos y derechos que sean relacionados al funcionamiento del giro.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 199 Ter.
+
+Por la expedición de permiso para el comercio en vía pública se pagara mensualmente, la tarifa autorizada por el Ayuntamiento.
 
 #### SECCIÓN I. DE LOS ESTABLECIMIENTOS CUYO GIRO SEA LA ENAJENACIÓN DE BEBIDAS ALCOHÓLICAS REALIZADA TOTAL O PARCIALMENTE AL PÚBLICO EN GENERAL
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 200.
 
-Las licencias, permisos o autorizaciones son intransferibles, otorgados para una persona física o moral y para un lugar determinado, por lo que no podrá cambiarse el domicilio señalado en los mismos.
+Las licencias, permisos o autorizaciones son intransferibles, otorgados para una persona física o moral. Para los supuestos contemplados en el artículo 197, deberán solicitar el trámite de conformidad con los requisitos establecidos en el Reglamento Municipal respectivo.
 
 ###### Artículo 201.
 
@@ -2161,11 +2235,11 @@ Los permisos o autorizaciones de carácter temporal, para giros comerciales que 
 
 La expedición de licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales con giros comerciales que enajenen o expendan bebidas alcohólicas, estará sujeta a los requisitos que establezca el reglamento municipal respectivo o, en su defecto, el Cabildo, mediante reglas o disposiciones de carácter general.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 Por la expedición de licencias a que este artículo se refiere, se pagarán las cuotas siguientes:
 
-Giro: Costo de la licencia en
-
-número de salarios mínimos:
+Giro Costo de la licencia en UMAs:
 
 Abarrotes con venta de cerveza 250
 
@@ -2199,7 +2273,9 @@ Hoteles 800
 
 Moteles 400
 
-Kermeses, ferias y bailes públicos 600
+Kermeses, ferias, bailes públicos,
+
+y eventos deportivos amateurs 600
 
 Licorerías 550
 
@@ -2225,7 +2301,39 @@ Supermercados 1,500
 
 Centros comerciales 2,300
 
-Los derechos por refrendos anuales se calcularán a razón del diez por ciento del costo de la licencia.
+Tiendas departamentales 1,500
+
+Establecimientos en los que se
+
+lleven a cabo juegos con apuestas
+
+y sorteos o casinos 3,500
+
+Recintos de eventos deportivos
+
+o espectáculos 3,500
+
+Salas de cine y autocinemas 250
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Los derechos por refrendos anuales se calcularán a razón del diez por ciento del costo actualizado de la licencia de funcionamiento, durante los meses de enero y febrero del ejercicio fiscal siguiente en que se otorgó la licencia de funcionamiento.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 202 Bis.
+
+El pago de derechos por la extensión de horario, se pagará por cada hora o fracción, de conformidad con las siguientes tarifas:
+
+I. Establecimientos con actividad económica general de 0.03 a 0.06 UMA's.
+
+II. Establecimientos que enajenen o expendan bebidas alcohólicas:
+
+a) Con venta en botella cerrada para llevar de 0.12 a 0.15 UMA's por hora.
+
+b) Con venta para consumo en establecimiento de 0.75 a 3.15 UMA's por hora.
+
+En caso de establecimientos que requieran la extensión de horarios eventual por festividad y/o ventas especiales se cobrará de 10 a 15 UMA's por hora
 
 #### SECCIÓN II. DE LOS DERECHOS POR ANUNCIOS COMERCIALES Y PUBLICIDAD
 
@@ -2257,51 +2365,93 @@ Las autoridades municipales establecerán en sus reglamentos respectivos, o medi
 
 Los derechos a que se refiere esta Sección, se cobrarán por la autorización respectiva, de acuerdo a las cuotas siguientes:
 
-> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 28 DE DICIEMBRE DE 2023)</small>
 
 I. Por la colocación de anuncios comerciales en la vía pública o tenga efectos sobre ésta, repercutiendo en la imagen urbana:
 
-a) Permiso temporal la cuota será de 1.25 salarios mínimos, por metro cuadrado o fracción, por mes, por pieza;
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-b) Carteles en casetas telefónicas, siempre que no sean denominativos, la tarifa será de 0.25 salarios mínimos por mes, por cada lado;
+a) Permiso temporal la cuota será de 2.5 UMA's, por metro cuadrado o fracción, por mes, por pieza;
 
-c) Volantes, folletos y/o muestras impresas de una a quinientas piezas, la tarifa será de 14 salarios mínimos por evento, de máximo 3 días;
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-d) Material flexible tipo manta o lona, adosado o fachada por metro cuadrado o fracción, la cuota será de 1.5 salarios mínimos por mes;
+b) Carteles en casetas telefónicas, siempre que no sean denominativos, la tarifa será de 0.5 UMA's por mes, por cada lado;
 
-e) Carpas y toldos por pieza, por día, de hasta setenta metros cuadrados por máximo quince días, la tarifa será de 4.5 salarios mínimos;
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-f) Globos aerostáticos, dirigibles, e inflables por metro cuadrado o fracción, por evento, la cuota será de 2.5 salarios mínimos;
+c) Volantes, folletos y/o muestras impresas de una a quinientas piezas, la tarifa será de 28 UMA's por evento, de máximo 3 días;
 
-g) Por anuncios móviles en autobuses, automóviles, motocicletas y bicicletas, la cuota será de 2.8 salarios mínimos anualmente por cada metro cuadrado o fracción de unidad;
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-h) Altoparlantes móviles o fijos, la tarifa será de 4 salarios mínimos por día, por evento de máximo 3 días;
+d) Material flexible tipo manta o lona, adosado o fachada por metro cuadrado o fracción, la cuota será de 3 UMA's por mes;
 
-i) Pintura en fachadas, bardas, cortinas metálicas, anuncios de piso o de obra, por metro cuadrado o fracción, la cuota será de 1.5 salarios mínimos;
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-j) De gabinete o adosado, con o sin iluminación, la tarifa será de 2 salarios mínimos por metro cuadrado o fracción;
+e) Carpas y toldos por pieza, por día, de hasta setenta metros cuadrados por máximo quince días, la tarifa será de 9 UMA's;
 
-k) Toldos rígidos o flexibles, la cuota será de 6 salarios mínimos por metro cuadrado o fracción;
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-l) Anuncios tipo paleta, tipo bandera, múltiple o con máximo siete metros cuadrados de área de exhibición y hasta cinco metros de alto, por metro cuadrado o fracción y por número de lados, la tarifa será de 2.5 salarios mínimos; y
+f) Globos aerostáticos, dirigibles, e inflables por metro cuadrado o fracción, por evento, la cuota será de 5 UMA's;
 
-m) Todo espectacular unipolar, bipolar, estructural de azotea, muro o piso, mayor a diez metros cuadrados, espectacular electrónico y espectacular de proyección por metro cuadrado o fracción, por cada lado, la tarifa será de 3 salarios mínimos.
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-Por revalidación de licencia o permiso se pagará un cincuenta por ciento de las cuotas establecidas para las licencias, debiendo estar vigente la licencia anterior al momento del pago de la licencia nueva, de lo contrario se cobrará como renovación.
+g) Por anuncios móviles en autobuses, automóviles, motocicletas y bicicletas, la cuota será de 5.6 UMA's anualmente por cada metro cuadrado o fracción de unidad;
 
-Por renovación de licencia (actualización de una licencia vencida), se pagará el valor de la licencia más un cincuenta por ciento del costo de la misma.
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+h) Altoparlantes móviles o fijos, la tarifa será de 8 UMA's por día, por evento de máximo 3 días;
 
-II. Por la colocación eventual de módulos de información con venta, que tengan efectos sobre ésta, repercutiendo en la imagen urbana, de cuatro a treinta salarios mínimos, por evento;
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-III. Por el anuncio de eventos en altavoz móvil, cuatro salarios mínimos por evento; y
+i) Adheribles y/o pintura en fachadas, bardas, cortinas metálicas, anuncios de piso o de obra, por metro cuadrado o fracción, la cuota será de 3 UMA's;
 
-IV. Por la colocación de anuncios comerciales en el interior o exterior de vehículos en los que se preste el servicio de transporte público de pasajeros, seis salarios mínimos, anualmente.
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+j) De gabinete o adosado, con o sin iluminación, la tarifa será de 4 UMA's, por metro cuadrado o fracción;
 
-V. Por la colocación de activaciones publicitarias en la vía pública, de cuatro a quince salarios mínimos por metro cuadrado, por evento;
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+k) Toldos rígidos o flexibles, la cuota será de 12 UMA's, por metro cuadrado o fracción;
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+l) Anuncios tipo paleta, tipo bandera, múltiple o con máximo siete metros cuadrados de área de exhibición y hasta cinco metros de alto, por metro cuadrado o fracción, por número de lados, la tarifa será de 5 UMA's;
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+m) Todo espectacular unipolar, bipolar, y/o totem, con estructura de azotea, muro o piso, mayor a siete metros un centímetro cuadrado (7.01 m2), espectacular electrónico y espectacular de proyección, por metro cuadrado o fracción, por número de lados, la tarifa será de 6 UMA's;
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+n) Caravana publicitaria, se cobrará por evento de 4 a 15 UMA's por unidad o vehículo que realice anuncios publicitarios en caravana en la vía pública;
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+ñ) Señales informativas de servicios y turísticas (señalética tipo SCT), la tarifa será de 50 UMA's, anualmente, por m2 o fracción, por lado;
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+o) Para la instalación de mobiliario urbano: 0.75 UMA's, anualmente, por metro cuadrado o fracción de este; y
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+p) Por Factibilidad de Imagen Urbana, la cuota será de 15 UMA's.
+
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+II. Por la colocación eventual de módulos de información con venta, que tengan efectos sobre ésta, repercutiendo en la imagen urbana, de 8 a 60 UMA's, por evento;
+
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+III. Por el anuncio de eventos en altavoz móvil, 8 UMA's por evento;
+
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+IV. Por la colocación de anuncios comerciales en el interior o exterior de vehículos en los que se preste el servicio de transporte público de pasajeros, 12 UMA's, anualmente; y
+
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+V. Por la colocación de activaciones publicitarias en la vía pública, de 8 a 30 UMA's por metro cuadrado, por evento.
 
 No causarán los derechos previstos en esta Sección, la colocación de anuncios, o cualquier acto publicitario, realizado con fines de asistencia o beneficencia pública; la publicidad de partidos políticos y de asociaciones religiosas; la publicidad de la Federación, del Estado, o del Municipio; y la publicidad que se realice con fines nominativos para la identificación de la negociación, siempre y cuando se realice en el propio establecimiento.
 
@@ -2311,293 +2461,245 @@ No causarán los derechos previstos en esta Sección, la colocación de anuncios
 
 Son objeto de este derecho los servicios que el Ayuntamiento preste, a solicitud o en rebeldía del usuario, los que se causarán y pagarán conforme a los conceptos y tarifas siguientes:
 
-> <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-I. Alineamiento de predios, en términos de la Ley de Desarrollo Regional y Urbano y sus Reglamentos, por metro lineal 0.875 salarios mínimos. Cuando se trate de predios en zonas populares o de interés social, la tarifa será de 0.50 salarios mínimos por metro lineal;
+I. Alineamiento de predios, en términos de la Ley de Desarrollo Regional y Urbano y sus Reglamentos, por metro lineal 1.22 UMA's. Cuando se trate de predios en zonas populares o de interés social, la tarifa será de 0.70 UMA's por metro lineal.
 
-> <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-II. Por asignación de número oficial e inspección de predios, 7.5 salarios mínimos. Cuando se trate de lotes en zonas populares o de interés social la cuota será de 5 salarios mínimos;
+II. Por asignación de número oficial e inspección de predios, 10.5 UMA's. Cuando se trate de lotes en zonas populares o de interés social la cuota será de 7 UMA's.
+
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
 III. Por licencias:
 
-a) De construcción de bardas, por metro lineal 0.325 salarios mínimos;
+a). De construcción de bardas, por metro lineal 0.455 UMA's;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 12 DE NOVIEMBRE DE 2018)</small>
+b). De construcción o ampliación o remodelación, tomando como base la superficie total que resulte de la suma de las superficies parciales cubiertas por construcciones correspondientes a cada uno de los pisos de que consta la construcción, se pagaran por metro cuadrado o fracción, de conformidad con las cuotas siguientes:
 
-b) De construcción o ampliación o remodelación, tomando como base la superficie total que resulte de la suma de las superficies parciales cubiertas por construcciones correspondientes a cada uno de los pisos de que consta la construcción, se pagaran por metro cuadrado o fracción, de conformidad con las cuotas siguientes:
+Uso UMA
 
-Uso Salario
+1. Residencial 0.392
 
-Mínimo
+2. Medio 0.338
 
-1. Residencial 0.28
+3. Interés Social 0.105
 
-2. Medio 0.242
+4. Popular 0.084
 
-3. Interés Social 0.075
+5. Comercial 0.595
 
-4. Popular 0.06
+6. Industrial 0.595
 
-5. Comercial 0.425
+7. Agropecuario 0.212
 
-6. Industrial 0.425
+8. De Servicio 0.212
 
-7. Agropecuario 0.152
+c). Para fusionar, subdividir en términos de la Ley de Desarrollo Urbano, Ordenamiento Territorial y Vivienda, y el Reglamento de la materia, por metro cuadrado:
 
-8. De Servicio 0.152
+Uso UMA
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 12 DE NOVIEMBRE DE 2018)</small>
+1. Residencial 0.042
 
-c) Para fusionar, subdividir en términos de la Ley de Desarrollo Urbano, Ordenamiento Territorial y Vivienda, y el Reglamento de la materia, por metro cuadrado:
+2. Medio 0.030
 
-> <small>(REFORMADA SU TABLA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+3. Interés Social 0.015
 
-Usos de Suelo Salario Mínimo
+4. Popular 0.012
 
-1. Residencial 0.030
+5. Comercial 0.140
 
-2. Medio 0.022
+6. Industrial 0.084
 
-3. Interés Social 0.011
+7. Agropecuario 0.028
 
-4. Popular 0.009
+8. De Servicio 0.030
 
-5. Comercial 0.100
+En ningún caso la cuota a pagar será menor de 2.8 UMA'S
 
-6. Industrial 0.060
+d). Para fraccionamientos, sobre el área total por fraccionar, lotificar o relotificar, por metro cuadrado o fracción, en término de la Ley de Desarrollo Urbano, Ordenamiento Territorial y Vivienda, y el Reglamento de la materia por metro cuadrado o fracción:
 
-7. Agropecuario 0.020
+Uso UMA
 
-8. De Servicio 0.022
+1. Residencial 0.042
 
-En ningún caso la cuota a pagar será menor de 2 salarios mínimos
+2. Medio 0.030
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 12 DE NOVIEMBRE DE 2018)</small>
+3. Interés Social 0.015
 
-d) Para fraccionamientos, sobre el área total por fraccionar, lotificar o relotificar, por metro cuadrado o fracción, en término de la Ley de Desarrollo Urbano, Ordenamiento Territorial y Vivienda, y el Reglamento de la materia por metro cuadrado o fracción:
+4. Popular 0.012
 
-> <small>(REFORMADA SU TABLA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+5. Comercial 0.140
 
-Usos de Suelo Salario Mínimo
+6. Industrial 0.084
 
-1. Residencial 0.030
+7. Agropecuario 0.028
 
-2. Medio 0.022
+8. De Servicio 0.030
 
-3. Interés Social 0.011
+En ningún caso la cuota a pagar será menor de 2.8 UMA'S;
 
-4. Popular 0.009
+e). Por demoliciones de construcción por metro cuadrado;
 
-5. Comercial 0.100
+Uso UMA
 
-6. Industrial 0.060
+1. Residencial 0.358
 
-7. Agropecuario 0.020
+2. Medio 0.287
 
-8. De Servicio 0.022
+3. Interés Social 0.178
 
-En ningún caso la cuota a pagar será menor de 2 salarios mínimos;
+4. Popular 0.143
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 12 DE NOVIEMBRE DE 2018)</small>
+5. Comercial 0.805
 
-e) Por demoliciones de construcción por metro cuadrado;
+6. Industrial 0.805
 
-> <small>(REFORMADA SU TABLA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+7. Agropecuario 0.322
 
-Usos de Suelo Salario Mínimo
+8. De Servicio 0.570
 
-1. Residencial 0.256
-
-2. Medio 0.205
-
-3. Interés Social 0.1275
-
-4. Popular 0.1025
-
-5. Comercial 0.575
-
-6. Industrial 0.575
-
-7. Agropecuario 0.23
-
-8. De Servicio 0.4075
-
-En ningún caso la cuota a pagar será menor de 2 salarios mínimos;
-
-> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+En ningún caso la cuota a pagar será menor de 2.8 UMA's;
 
 Por concepto de demolición de losa se tomará como base la superficie que resulte de la multiplicación de largo por ancho de losa, y en bardas perimetrales se tomará como base la superficie resultante del largo por la altura de barda.
 
-f) Por la construcción de albercas y depósitos de agua, por metro cúbico o fracción, 1.2 salarios mínimos
+f). Por la construcción de albercas y depósitos de agua, por metro cúbico o fracción, 1.68 UMA's.
 
-g) Por la construcción de tanques subterráneos para almacenamiento de material peligroso o combustible, por metro cúbico o fracción, 4 salarios mínimos
+g). Por la construcción de tanques subterráneos para almacenamiento de material peligroso o combustible, por metro cúbico o fracción, 5.6 UMA's.
 
-h) Para la conversión al régimen de propiedad en condominio, por metro cuadrado:
+h). Para la conversión al régimen de propiedad en condominio, por metro cuadrado:
 
-Uso Salario
+Uso UMA
 
-Mínimo
+1. Residencial 0.196
 
-1. Residencial 0.14
+2. Medio 0.171
 
-2. Medio 0.1225
+3. Interés Social 0.052
 
-3. Interés Social 0.0375
+4. Popular 0.042
 
-4. Popular 0.03
+5. Comercial 0.297
 
-5. Comercial 0.2125
+6. Industrial 0.297
 
-6. Industrial 0.2125
+7. Agropecuario 0.105
 
-7. Agropecuario 0.075
+8. De Servicio 0.105
 
-8. De Servicio 0.075
+i). Por remodelación de fachadas, se pagará por metro cuadrado o fracción, de acuerdo a lo señalado en el inciso b);
 
-i) Por remodelación de fachadas, se pagará por metro cuadrado o fracción, de acuerdo a lo señalado en el inciso b);
+j). Por la construcción de estacionamientos descubiertos o patios de almacenaje, se pagará por metro cuadrado de piso, 0.14 UMA's;
 
-j) Por la construcción de estacionamientos descubiertos o patios de almacenaje, se pagará por metro cuadrado de piso, 0.10 salario mínimo; y
+k). Para realizar obras, modificaciones, reparaciones, introducir servicios provisionales o permanentes en la vía pública, por metro lineal o cuadrado, según corresponda, 2.8 UMA's.
 
-> <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
+l). De construcción o instalación de antenas de telecomunicación, por metro lineal, 250 UMA's.
 
-k) Para realizar obras, modificaciones, reparaciones, introducir servicios provisionales o permanentes en la vía pública, por metro lineal o cuadrado, según corresponda, 2 salarios mínimos.
+m). Para edificar estacionamientos públicos o particulares de uso no habitacional, por metro cuadrado:
 
-> <small>(ADICIONADO, G.O. 7 DE JULIO DE 2004)</small>
+Uso UMA
 
-l) De construcción o instalación de antenas de telecomunicación, por metro lineal, 12 salarios mínimos.
+1. Comercial 0.595
 
-> <small>(ADICIONADO, G.O. 7 DE JULIO DE 2004)</small>
+2. Servicio 0.212
 
-m) Para edificar estacionamientos públicos o particulares de uso no habitacional, conforme a lo señalado en el Reglamento de Estacionamientos Municipal, por metro cuadrado:
+3. Habitacional 0.140
 
-Uso Salario Mínimo
+n). Por la construcción, modificación u ocupación temporal del área de estacionamiento públicos o privados, por metro cuadrado o fracción, pagarán una cuota diaria de 0.014 UMA's.
 
-1. Comercial 0.425
+o). Para realizar movimiento de tierra, por metro cuadrado, 0.07 UMA's.
 
-2. Servicio 0.152
+En ninguno caso, la cuota será menor a 7 UMA's.
 
-> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+Por las demás no especificadas en esta fracción, por metro cuadrado, 0.07 UMA.
 
-3. Habitacional 0.100
-
-> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
-
-n) Por la construcción, modificación u ocupación temporal del área de estacionamiento públicos o privados, por metro cuadrado o fracción, pagarán una cuota diaria de 0.01 salarios mínimos.
-
-> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
-
-o) Para realizar movimiento de tierra, por metro cuadrado, 0.05 salarios mínimos.
-
-En ninguno caso, la cuota será menor a cinco salarios mínimos.
-
-> <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
-
-Por las demás no especificadas en esta fracción, por metro cuadrado, 0.05 salarios mínimos;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
 IV. Por deslinde de predios por metro cuadrado o fracción:
 
-Uso Salario
+Uso UMA
 
-Mínimo
+1. Residencial 0.129
 
-1. Residencial 0.0925
+2. Medio 0.07
 
-2. Medio 0.05
+3. Interés Social 0.061
 
-3. Interés Social 0.04375
+4. Popular 0.052
 
-4. Popular 0.0375
-
-5. Comercial 0.0625
-
-> <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
+5. Comercial 0.087
 
 6. Industrial
 
-De 1 a 10,000 m2 0.025
+a) De 1 a 10,000 m2 0.035
 
-De 10,001 m2 en adelante. 0.015
-
-> <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
+b) De 10,001 m2 en adelante 0.021
 
 7. Agropecuario
 
-De 1 a 10,000 m2 0.02
+a) De 1 a 10,000 m2 0.035
 
-De 10,001 m2 en adelante 0.015
-
-> <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
+b) De 10,001 m2 en adelante 0.021
 
 8. De Servicio
 
-De 1 a 10,000 m2 0.025
+a) De 1 a 10,000 m2 0.035
 
-De 10,001 m2 en adelante 0.015
+b) De 10,001 m2 en adelante. 0.021
 
-En ningún caso la cuota a pagar será menor de 2 salarios mínimos;
+En ningún caso la cuota a pagar será menor de 2.8 UMA'S.
+
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
 V. Por registro, estudio y aprobación de planos y proyectos de construcción, remodelación o ampliación, de acuerdo a los reglamentos vigentes, por plano:
 
-Uso Salario
+Uso UMA
 
-Mínimo
+1. Residencial 5.6
 
-1. Residencial 4
+2. Medio 4.2
 
-2. Medio 3
+3. Interés Social 2.8
 
-3. Interés Social 2
+4. Popular 1.4
 
-4. Popular 1
+5. Comercial 11.2
 
-5. Comercial 8
+6. Industrial 11.2
 
-6. Industrial 8
+7. Agropecuario 5.6
 
-7. Agropecuario 4
+8. De Servicio 5.6
 
-8. De Servicio 4
+Por concepto de modificación y/o cambio del proyecto autorizado, aplicará pago de derechos, siempre y cuando cumplan con el mismo uso de suelo autorizado y la misma superficie de construcción autorizada, dentro de la vigencia de la licencia.
 
-> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
-
-Por concepto de modificación y/o cambio del proyecto autorizado, aplicará pago de derechos, siempre y cuando cumplan con el mismo uso de suelo autorizado, y la misma superficie de construcción autorizada, dentro de la vigencia de la licencia.
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
 VI. Por dictamen de uso de suelo o administrativo, según clasificación, por metro cuadrado:
 
-> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], G.O. 12 DE NOVIEMBRE DE 2018)</small>
-
 a) Por licencia de uso de suelo, según clasificación, por metro cuadrado:
 
-> <small>(REFORMADA SU TABLA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+Uso UMA
 
-Usos de Suelo Salario Mínimo
+1. Residencial 0.140
 
-1. Residencial 0.100
+2. Medio 0.112
 
-2. Medio 0.080
+3. Interés Social 0.098
 
-3. Interés Social 0.070
+4. Popular 0.098
 
-4. Popular 0.070
+5. Comercial 0.252
 
-5. Comercial 0.180
+6. Industrial 0.126
 
-6. Industrial 0.090
-
-7. De Servicio 0.120
-
-> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+7. De Servicio 0.168
 
 b) Por licencia de regularización de uso de suelo, según clasificación, por metro cuadrado, causará los derechos normales más un cincuenta por ciento de los mismos;
 
-> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+c) Por actualización de licencia de uso de suelo, sin importar la clasificación o los metros cuadrados, siempre y cuando no haya cambiado el plan de desarrollo urbano y ordenamiento territorial que sustenta la autorización: 14 UMA's. En caso de haber cambiado el programa de ordenamiento deberá tramitar una licencia nueva; y
 
-c) Por actualización de licencia de uso de suelo, sin importar la clasificación o los metros cuadrados, siempre y cuando no haya cambiado el plan de desarrollo urbano y ordenamiento territorial que sustenta la autorización: 10 salarios mínimos. En caso de haber cambiado el programa de ordenamiento deberá tramitar una licencia nueva; y
-
-> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
-
-d) Por constancia de zonificación, la cuota será de 10 salarios mínimos.
+d) Por constancia de zonificación, la cuota será de 14 UMA's.
 
 > <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
@@ -2717,11 +2819,13 @@ b) Por hoja que indica el inciso anterior, escrita a un espacio por ambas caras,
 
 c) En los casos a que se refieren las fracciones anteriores, cuando se escriba por una sola cara de la hoja, 1 salario mínimo.
 
-d) Copias certificadas de planos de construcción, 5 salarios mínimos.
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+d) Copias certificadas de planos de construcción, 10 UMA's.
 
 En los casos a que se refiere esta fracción, además de los derechos que establecen los incisos que anteceden, se cobrará por la búsqueda de los documentos de los que deba sacarse copia, cuando el interesado no proporcione los datos exactos para su localización, por cada año que comprenda la busca, 0.30 salarios mínimos;
 
-III. Evaluación de impacto ambiental, 21 salarios mínimos;
+III. (DEROGADA, G.O. 28 DE DICIEMBRE DE 2023)
 
 IV. Certificados de conducta, 2.10 salarios mínimos;
 
@@ -2731,17 +2835,23 @@ VI. Certificados de reclutamiento militar, 2.10 salarios mínimos;
 
 VII. Certificados de huellas dactilares 2.10 salarios mínimos;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 12 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-VIII. Constancias expedidas por las dependencias de Desarrollo Urbano excepto las constancias de zonificación de uso de suelo que se regulan de acuerdo al artículo 206, fracción VI inciso e), por cada una, según los incisos siguientes:
+VIII. Constancias expedidas por las dependencias de Desarrollo Urbano, excepto las constancias de zonificación de uso de suelo que se regulan de acuerdo al artículo 206, fracción VI inciso d) por cada una, según los incisos siguientes:
 
-a) Interés Social y Popular, 2 salarios mínimos, y
+a) Interés Social y Popular, 2.8 UMA's;
 
-b) Residencial, Industrial y Comercial, 10 salarios mínimos.
+b) Residencial, medio, Industrial, Comercial y servicio, 10 UMA's;
 
-> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2015)</small>
+c) Por Término de obra, 10 UMA's;
 
-IX. Por diversas constancias en materia ambiental, expedidas por el área competente en materia de Ecología y Medio Ambiente, 20 salarios mínimos;
+d) Constancia por lona de obra, 10 UMA's;
+
+e) Constancias, y/o autorizaciones varias de desarrollo urbano, 10 UMA's; y
+
+f) Constancias de: Integración Vial, Avance de Obra, no Afectación y Cancelación de fianza de régimen en condominio, cualquier sector, 15 UMA's.
+
+IX. (DEROGADA, G.O. 28 DE DICIEMBRE DE 2023)
 
 > <small>(ADICIONADA, G.O. 7 DE JULIO DE 2004)</small>
 
@@ -2751,9 +2861,9 @@ X. Por diversas constancias expedidas por la Dirección de Protección Civil, 3 
 
 XI. En los casos no especificados, la tarifa por la expedición de verificaciones, constancias o dictámenes, por cada uno, 2 salarios mínimos.
 
-> <small>(ADICIONADA, G.O. 10 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-XII. Tratándose de constancias emitidas por conceptos del cobro de trámites y servicios que se deriven de los convenios de coordinación o colaboración con las autoridades federales, estatales, municipales, sectores públicos o privados, se realizará en términos del instrumento correspondiente. Ante la falta de monto definido, se cobrarán 3 salarios mínimos.
+XII. Tratándose de constancias emitidas por conceptos del cobro de trámites y servicios que se deriven de los convenios de coordinación o colaboración con las autoridades federales, estatales, municipales, sectores públicos o privados, se realizará en términos del instrumento correspondiente. Ante la falta de monto definido, se cobrarán de 3 a 5 UMA's.
 
 > <small>(ADICIONADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
@@ -2817,9 +2927,13 @@ Son sujetos de estos derechos, las personas físicas o morales que soliciten la 
 
 I. Inhumaciones por siete años y refrendo de fosas: 17
 
-a) (DEROGADO, G.O. 7 DE JULIO DE 2004)
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-b) (DEROGADO, G.O. 7 DE JULIO DE 2004)
+a) Tramitación por funeraria 17
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+b) Tramitación por particulares 10
 
 II. Inhumaciones en fosas a perpetuidad 10
 
@@ -2843,7 +2957,9 @@ a) Tramitación por funerarias 21.6
 
 b) Tramitación por particulares 10
 
-X. Nichos en el panteón municipal 13
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+X. Nichos en el panteón municipal 30
 
 > <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
@@ -2871,7 +2987,9 @@ La base gravable se determinará de la siguiente manera:
 
 I. Por el servicio prestado a los propietarios, poseedores o usufructuarios de inmuebles destinados a uso habitacional, se aplicará una cuota mensual, en términos del presente Capítulo; y
 
-II. En los casos de establecimientos comerciales, industriales, prestadores de servicios y empresas de espectáculos públicos, se fijará una cuota por kilogramo o por metro cúbico, en razón del peso del volumen de los desechos.
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+II. En los casos de establecimientos comerciales, industriales o prestadores de servicios se fijará una cuota mensual de acuerdo a su actividad económica.
 
 En caso de que se concesione el servicio, las tarifas que cobren los concesionarios, se establecerán en el título de concesión respectivo.
 
@@ -2881,7 +2999,9 @@ El pago de derechos a que este Capítulo se refiere, deberá efectuarse:
 
 I. Tratándose de los sujetos señalados en la fracción I del artículo anterior, durante los primeros diez días de cada mes, pudiéndose optar por efectuar el pago de manera anual, durante los primeros dos meses del ejercicio fiscal;
 
-II. Tratándose de establecimientos comerciales, industriales o prestadores de servicios, el pago deberá realizarse dentro de los primeros quince días del mes siguiente a aquél en que se prestó el servicio; y
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+II. Tratándose de establecimientos comerciales, industriales o prestadores de servicios, este derecho se causará de manera mensual y deberá realizarse el pago respectivo dentro de los primeros diez días del mes siguiente a aquél en que se prestó el servicio, pudiéndose optar por efectuar el pago de manera anual, en conjunto con el pago de los derechos establecidos en los artículos 199 bis y 202 de este Código.
 
 III. Tratándose de empresas de espectáculos públicos, el pago se hará conforme a lo dispuesto por el artículo 149, fracción II, inciso h).
 
@@ -2901,9 +3021,31 @@ Interés social 0.3
 
 Popular 0.2
 
-II. Por cada industria o comercio, así como empresas que presenten espectáculos públicos, 0.010 salarios mínimos por kilogramo o 0.025 salarios mínimos por metro cúbico, sin que en ningún caso la cuota resulte menor a la establecida para inmuebles de uso habitacional de tipo residencial.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-Aquellos contribuyentes que opten por el pago anual recibirán un descuento del diez por ciento.
+II. Por cada industria, comercio o prestador de servicios, se pagará una cuota con base a la siguiente clasificación:
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+a) La tarifa de 0.25 UMA's por cada persona que dentro de estos desempeñen actividades laborales de manera habitual, de los siguientes establecimientos: tiendas de abarrotes exclusivamente al menudeo; mercerías, misceláneas, bonetería, regalos y novedades; lotería y pronósticos deportivos; paleterías y neverías; reparación de calzado; relojerías; sastrería; librerías; artesanías; cerrajería; servicio de fotocopiado; renta de computadoras e impresiones; venta de equipos de telefonía celular; consultorio médico; ópticas; laboratorio de análisis clínicos; venta de revistas y periódicos; elaboración y/o venta de pan; artículos fotográficos, estudio y enmarcados; inmobiliaria; venta de productos agrícolas; carpinterías; diseño gráfico y rótulos e impresiones de publicidad; talabartería; renta de vestuarios; taller mecánico y de hojalatería para vehículos automotores; vulcanizadora; artículos de belleza y spa; artículos naturistas y homeopáticos; distribución, venta y mantenimiento de equipos de cómputo y redes; ferretería; tapicerías; tintorería y lavandería; refacciones, accesorios y partes de colisión para vehículos automotores; venta y mantenimiento de aparatos eléctricos y electrónicos en general; servicios en general de mantenimiento de inmuebles; estacionamientos; joyerías; juegos electrónicos; agencias aseguradoras, afianzadoras y casas de cambio; dulcerías; oficinas y empresas prestadoras de servicios en general; tienda de ropa; peluquerías, salas o clínicas de belleza; perfumería y cosméticos; tortillerías; venta de carnes frías, quesos y productos lácteos; fabricación y venta de piñatas; servicio de banquetes, pastelerías; venta de cualquier tipo de carne al menudeo; madererías; reparación y mantenimiento de maquinaria; veterinaria y estética de animales; arrendamiento de vehículos automotores y equipos acuáticos; mobiliario para eventos; venta de gas doméstico; agencia de autos y de motocicletas; venta de bicicletas, accesorios y refacciones; florerías; frutería y verdulería; juguerías; mensajería y paquetería; venta y servicio general de mobiliario y equipo de oficina; mueblería; peletería; recolección; traslado y custodia de valores; agencias de viaje; casas de empeño; agencia aduanal; plásticos y derivados; talleres de herrería, aluminio, torno, prensa, soldadura, refrigeración, aires acondicionados; cristalería; servicio de lavado y engrasado en general de vehículos automotores; tienda de juguetes; agencia de seguridad; servicio de limpieza; agencias de servicio de grúas y maniobras; llanteras.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+b) La tarifa de 0.5 UMA's por cada persona que dentro de estos desempeñen actividades laborales de manera habitual, de los siguientes establecimientos: zapaterías; tienda de conveniencia, minisúper; abarroteras con venta al mayoreo y menudeo; venta de materiales para la construcción; productos metálicos; pinturas y accesorios; agencia automotriz; venta de carros seminuevos; farmacias; transporte terrestre de carga; chatarrera; gasolineras y venta de aceites; congeladora y empacadora de mariscos; venta de pescados y mariscos; sucursales bancarias e instituciones del sistema financiero; distribuidoras y comercializadoras; bodegas; artículos deportivos.
+
+c) La tarifa de 0.1 UMA's por cada persona que tengan como capacidad estimada de atención para los locales o establecimientos siguientes: de comida rápida y snacks; billares; coctelerías; rosticerías; bares y establecimientos de entretenimiento nocturno; restaurantes; hoteles y moteles, casa de huéspedes; centros de servicio comunitario y de apoyo social; instalaciones deportivas y de acondicionamiento físico.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+d) La tarifa de 0.05 UMA's por cada persona que tengan como capacidad estimada de atención para los locales o establecimientos siguientes: Instituciones educativas y académicas, así como de capacitación para el trabajo.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+e) Para Plazas comerciales; sanatorios y hospitales; salas de cine y autocinemas; velatorios; terminal transporte terrestre de pasajeros; salones para eventos, 0.01 UMA's por kilogramo o 0.025 UMA's por metro cúbico, sin que en ningún caso la cuota resulte menor a la establecida para inmuebles de uso habitacional de tipo residencial.
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Aquellos contribuyentes que opten por el pago anual anticipado recibirán un descuento del diez por ciento, durante los meses de enero y febrero
 
 ### CAPÍTULO IX. DE LOS DERECHOS POR LIMPIEZA DE PREDIOS NO EDIFICADOS
 
@@ -3053,9 +3195,11 @@ Son objeto de estos derechos los servicios de inscripción de actos del estado c
 
 Son sujetos de estos derechos, las personas físicas o morales que soliciten los servicios a que se refiere el artículo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 245.
 
-Los derechos a que se refiere este Capítulo se causarán y pagarán, en salarios mínimos, de acuerdo a las cuotas siguientes:
+Los derechos a que se refiere este Capítulo se causarán y pagarán, en UMA's, de acuerdo a las cuotas siguientes:
 
 Salarios
 
@@ -3125,13 +3269,17 @@ e) Sábado 33
 
 VI. Celebración de matrimonios a domicilio 65
 
-VII. Inscripción de sentencias. 13.20
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+VII. Inscripciones de sentencias 26.40
 
 > <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
 VIII. Divorcios
 
-a) Judiciales 13.20
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+a) Judiciales 21
 
 b) Administrativos 26.40
 
@@ -3143,9 +3291,9 @@ IX. Expedición de certificados o constancias 1.20
 
 X. Notas marginales en los libros de actas 2.50
 
-> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-XI. Inscripción de actas del extranjero 13.20
+XI. Inscripción de actas del extranjero 26.40
 
 > <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
@@ -3153,7 +3301,9 @@ Por búsqueda de los documentos anteriores, se pagarán 2 salarios mínimos, por
 
 En los casos de trámites urgentes, se aumentará su costo en un cien por ciento más de la cuota autorizada.
 
-### CAPÍTULO XIII. DE LOS DERECHOS POR OCUPACIÓN DE INMUEBLES DEL DOMINIO PÚBLICO
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO XIII. DE LOS DERECHOS POR OCUPACIÓN DE VÍA PÚBLICA E INMUEBLES DEL DOMINIO PÚBLICO
 
 ###### Artículo 246.
 
@@ -3175,9 +3325,9 @@ Los derechos por la ocupación de espacios, se calcularán y pagarán de conform
 
 I. La ocupación de espacios en mercados municipales se pagará diariamente por metro cuadrado, de conformidad con las cuotas que para tales efectos establezca el Ayuntamiento.
 
-> <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-Las altas, traspasos, cambios, ampliaciones de giro y arreglo o modificaciones de locales o áreas que ocupen, se efectuarán de conformidad con la normatividad aplicable, previa autorización del Ayuntamiento;
+Las incorporaciones y traspasos en el padrón de mercados se efectuarán de conformidad con la normatividad aplicable, previa autorización del Ayuntamiento;
 
 > <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
@@ -3187,27 +3337,95 @@ II. Ocupación permanente o temporal de la vía pública o áreas municipales, p
 
 III. Ocupación temporal de la vía pública o áreas municipales por vehículos, aparatos mecánicos o electromecánicos, en días de mercado o celebraciones de ferias o similares, por metro cuadrado o fracción, pagarán una cuota diaria de 0.05 a 0.125 salarios mínimos;
 
-> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-IV. La ocupación de espacios en vía pública o áreas municipales, por postería eléctrica, líneas aéreas de cable, puestos de revistas, etc; exceptuando las áreas verdes, se pagará diariamente por metro cuadrado de superficie o metro lineal, según corresponda; 0.05 salarios mínimos;
+IV. Por la ocupación de la vía pública o áreas municipales permanentes y mobiliario urbano, se calculará y pagará anualmente, dentro de los primeros 60 días del año fiscal, o en su caso la opción de pago mensual:
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+a) Líneas aéreas de cableado, 0.10 UMA's por metro lineal;
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+b) Líneas subterráneas de cableado, 0.05 UMA's por metro lineal;
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+c) Por registros de instalaciones subterráneas, 1.5 UMA's por cada uno.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+d) Por mobiliario urbano instalado se pagará anualmente por cada uno 2.5 UMA's;
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+e) Por el uso de postes de alumbrado público propiedad municipal, por cada uno 5 UMA's; y
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+f) Por el uso de instalaciones subterráneas propiedad municipal, por metro lineal o cuadrado según se trate 0.05 UMA's.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Para efectos de esta fracción se entiende como mobiliario urbano entre otros las casetas telefónicas, fuentes, postes, bolardos, parabuses, mupis, bancas, depósitos de basura, señalización, buzones, puestos de revistas y otros elementos análogos.
 
 V. La ocupación de la vía pública requiere autorización en los casos y con las cuotas que a continuación se indican:
 
 Andamios, tapiales y otros usos no especificados, por metro lineal diariamente:
 
-a). Sobre el arroyo de una calle de la ciudad 0.05 salarios mínimos.
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-b). Por ocupación de banqueta en la ciudad 0.05 salarios mínimos.
+a) Sobre el arroyo de una calle de la ciudad 0.09 UMA's; y
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+b) Por ocupación de banqueta en la ciudad 0.07 UMA's.
 
 VI. Por la ocupación de subsuelo con construcciones permanentes, se pagarán mensualmente las siguientes cuotas:
 
-a) Instalaciones lineales diversas por metro 0.05 salarios mínimos
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-b) Instalaciones no lineales por metro cuadrado o fracción por planta o piso de profundidad 0.1375 salarios mínimos
+a) Instalaciones lineales diversas por metro 0.07 UMA's; y
 
-VII. Por ocupación temporal de la vía pública o áreas municipales a vendedores ambulantes por puesto semifijo de hasta dos metros lineales de frente, diariamente 0.075 salarios mínimos
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-El estacionamiento en la vía pública se pagará mediante utilización de parquímetros, por hora o fracción a razón de 0.125 salarios mínimos
+b) Instalaciones no lineales por metro cuadrado o fracción por planta o piso de profundidad 0.1925 UMA's.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+VII. Por ocupación temporal de la vía pública por avance de comercios establecidos se pagarán mensualmente las siguientes cuotas:
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+a) Comercios Establecidos giros A: 1 UMA por metro cuadrado;
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+b) Comercios Establecidos giros B: 2 UMA's por metro cuadrado; y
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+c) Comercios Establecidos giros C: 3 UMA's por metro cuadrado.
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+El estacionamiento en la vía pública se pagará mediante utilización de parquímetros, por hora o fracción, en atención a la tarifa autorizada por el Ayuntamiento.
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+VIII. Por ocupación temporal de las unidades deportivas municipales se pagará diariamente por metro cuadrado, de 0.01 a 0.05 UMA's; y
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+IX. Por ocupación temporal de la vía pública para carreras deportivas se pagarán las siguientes cuotas por evento:
+
+a) Carreras deportivas de hasta 5 km: Doscientas UMA's;
+
+b) Carreras deportivas de hasta 10 km: Trescientas UMA's;
+
+c) Carreras deportivas de hasta 21 km: Cuatrocientas UMA's; y
+
+d) Carreras deportivas de más de 21 km: Quinientas UMA's.
 
 > <small>(ADICIONADO, G.O. 7 DE JULIO DE 2004)</small>
 
@@ -3223,81 +3441,183 @@ Por los servicios prestados por la Dirección de Tránsito Municipal, se causar�
 
 ### CAPÍTULO XV. DE LOS DERECHOS POR SERVICIOS PRESTADOS EN MATERIA DE PROTECCIÓN CIVIL
 
-> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 247 Ter.
 
-Por los servicios prestados en materia de Protección Civil se causarán y cobrarán en salarios mínimos, los siguientes derechos:
+Por los servicios prestados en materia de Protección Civil se causarán y cobrarán en UMA's, los siguientes derechos:
 
-I. Por la emisión de dictámenes técnicos y anuencias de instalaciones públicas y privadas.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+I. Por la emisión de anuencias de operación de instalaciones públicas y privadas, de acuerdo a los metros cuadrados de superficie total del terreno donde se pueda materializar un riesgo relativo a la operación-actividad de cada inmueble.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2015)</small>
 
 Alto riesgo
 
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2015)</small>
+
 1 a 166 metros cuadrados de superficie: 26
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2015)</small>
 
 167 a 332 metros cuadrados de superficie: 52
 
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2015)</small>
+
 333 a 500 metros cuadrados de superficie: 80
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2015)</small>
 
 Riesgo medio
 
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2015)</small>
+
 1 a 166 metros cuadrados de superficie: 23
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2015)</small>
 
 167 a 332 metros cuadrados de superficie: 46
 
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2015)</small>
+
 333 a 500 metros cuadrados de superficie: 70
+
+> <small>(REFORMADO [N. DE. E. REPUBLICADO], G.O. 28 DE DICIEMBRE DE 2023)</small>
 
 Bajo riesgo
 
-1 a 60 metros cuadrados de superficie: 7
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-61 a 125 metros cuadrados de superficie: 14
+1 a 60.99 metros cuadrados de superficie 9 UMA's
 
-126 a 190 metros cuadrados de superficie: 21
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-191 a 250 metros cuadrados de superficie: 28
+61 a 125.99 metros cuadrados de superficie 16 UMA's
 
-251 a 315 metros cuadrados de superficie: 35
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-316 a 380 metros cuadrados de superficie: 42
+126 a 190.99 metros cuadrados de superficie 23 UMA's
 
-381 a 500 metros cuadrados de superficie: 60
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-Se cobrarán 20 salarios mínimos adicionales por cada 500 metros cuadrados de superficie o fracción que exceda los primeros 500 metros cuadrados de superficie de los rubros mencionados.
+191 a 250.99 metros cuadrados de superficie 30 UMA's
 
-II. Por impartición de cada curso de capacitación a personas físicas o morales:
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-Persona física: 2
+251 a 315.99 metros cuadrados de superficie 37 UMA's
 
-Persona moral: 60
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-III. Por registro como tercero acreditado que por su actividad y experiencia se vinculen con la protección civil, para llevar a cabo cursos de capacitación, estudios de riesgo y vulnerabilidad, programas internos y especiales:
+316 a 380.99 metros cuadrados de superficie 44 UMA's
 
-Persona física: 25
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-IV. Renovación de registro como terceros acreditados.
+381 a 500 metros cuadrados de superficie 62 UMA'S
 
-Persona física: 12
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-V. Por la autorización de programas especiales de Protección Civil que se presenten para la realización de un evento o espectáculo en el municipio, para promotores particulares, se pagará:
+Para comercios móviles y rodantes de alimentos 4 UMA's
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Se cobrará 20 UMA's adicionales por cada 500 metros cuadrados de superficie o fracción que exceda los primeros 500 metros cuadrados de superficie de los rubros mencionados. Así mismo la autoridad en materia de Protección Civil determinará el grado de riesgo de cada inmueble de acuerdo a su actividad conforme a la Legislatrura (sic) Estatal en la materia de Protección Civil
+
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+II. Por impartición de cada curso de capacitación a personas morales o físicas como entidades del sector privado:
+
+Persona física 4 UMA's
+
+Persona moral 60 UMA's (hasta 15 participantes)
+
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+III. Por registro como tercero acreditado que por su actividad y experiencia se vinculen con la protección civil para llevar a cabo cursos de capacitación, estudios de riesgo vulnerabilidad, programas internos y especiales:
+
+Persona física 25 UMA's
+
+Persona moral 30 UMA's
+
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+IV. Por renovación de registro como terceros acreditados.
+
+Persona física 12 UMA's
+
+Persona moral 15 UMA's
+
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+V. Por la autorización de programas especiales de Protección Civil que se presenten para la realización de un evento o espectáculo en el Municipio de Veracruz para promotores particulares, se pagará:
 
 Aforo del evento:
 
-De 1 a 1,000 asistentes: 40
+a) De 1 a 1,000 asistentes 50 UMA's;
 
-De 1,001 a 5,000 asistentes: 60
+b) De 1,001 a 5,000 asistentes 70 UMA's;
 
-De 5,001 a 10,000 asistentes: 80
+c) De 5,001 a 10,000 asistentes 100 UMA's; y
 
-De 10,001 en adelante: 90
+d) De 10,001 en adelante 150 UMA's.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2015)</small>
 
 VI. Por la emisión de la factibilidad de Protección Civil, para personas físicas y morales: 3.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO XVI. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS EN MATERIA DE MEDIO AMBIENTE Y PROTECCIÓN ANIMAL
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 247 Quáter.
+
+Por los servicios prestados en materia de Medio Ambiente y Protección Animal, se causarán y cobrarán en Unidades de Medida y Actualización, los siguientes derechos:
+
+I. Evaluación Ambiental Municipal en modalidades:
+
+a). Obra Nueva, la cantidad de 35 UMA's;
+
+b). Memoria Técnica. La cantidad de 35 UMA's; y
+
+c). Antenas de telecomunicación de hasta 50 metros de altura (auto soportada, arriostrada y monopolar) en terreno natural o azotea, la cantidad de 100 UMA's.
+
+II. Constancia de no Inconveniencia Ambiental, la cantidad de 50 UMA's;
+
+III. Registro al Padrón General de Servicios Ambientales, la cantidad de 30 UMA's;
+
+IV. Refrendo al Padrón General de Servicios Ambientales, la cantidad de 30 UMA's;
+
+V. Registro como Prestador de Servicios Ambientales, la cantidad de 30 UMA's;
+
+VI. Refrendo como Prestador de Servicios Ambientales, la cantidad de 30 UMA's;
+
+VII. Licencia Ambiental de Funcionamiento, la cantidad de 40 UMA's;
+
+VIII. Refrendo de la Licencia Ambiental de Funcionamiento, la cantidad de 15 UMA's;
+
+IX. Dictaminación (corte o poda de árbol), la cantidad de 2 UMA's;
+
+X. Poda de árbol, la cantidad de 5 UMA's;
+
+XI. Corte de árbol, la cantidad de 15.5 UMA's para árboles de 2 metros de altura, aumentando en 5 UMA's por cada metro de altura extra;
+
+XII. Servicio por la recolección de materia vegetal; de 2 a 15.5 UMA's;
+
+XIII. Consultas (veterinarias), la cantidad de 0.5 UMA's;
+
+XVI. (Sic) Vacuna antirrábica, el servicio no tendrá costo alguno;
+
+XV. Esterilización felina, la cantidad de 2 UMA's;
+
+XVI. Esterilizaciones caninas, de 2 a 6 UMA's.
+
+Los montos de los derechos por corte de árbol no deberán ser menores a 15.5 UMA'S y deberá incrementarse 5 UMA's por cada metro de altura adicional a los ejemplares mayores de dos metros de altura; y el monto por los derechos de poda no deberá ser menor a 5 UMA's por ejemplar a podar.
 
 ## TÍTULO TERCERO. DE LAS CONTRIBUCIONES POR MEJORAS
 
-### CAPÍTULO I. DISPOSICIONES GENERALES DEL SERVICIO DE TESORERÍA
+### CAPÍTULO ÚNICO
 
 ###### Artículo 248.
 
@@ -3545,7 +3865,7 @@ Los ingresos extraordinarios se causarán y recaudarán de conformidad con los o
 
 ## TÍTULO PRIMERO. DE LOS SERVICIOS DE TESORERÍA
 
-### CAPÍTULO II. DE LOS PAGOS Y MINISTRACIONES
+### CAPÍTULO I. DISPOSICIONES GENERALES DEL SERVICIO DE TESORERÍA
 
 ###### Artículo 269.
 
@@ -3607,7 +3927,7 @@ El servicio de recaudación y concentración de fondos podrá efectuarse por con
 
 Las instituciones bancarias, crediticias o comerciales pagarán intereses, por concepto de indemnización, en caso de entrega o concentración extemporánea de fondos, conforme a la tasa que al respecto determine la Tesorería, misma que se establecerá en los contratos que con ellos se celebren.
 
-### CAPÍTULO III. DE LA PRESCRIPCIÓN DE FONDOS Y CRÉDITOS
+### CAPÍTULO II. DE LOS PAGOS Y MINISTRACIONES
 
 ###### Artículo 274.
 
@@ -3627,7 +3947,7 @@ La Tesorería y las entidades solamente autorizarán el pago de anticipos que es
 
 Todo pago o salida de valores se registrará en la contabilidad de la Tesorería y de las correspondientes entidades.
 
-### CAPÍTULO IV. DE LAS GARANTÍAS A FAVOR O A CARGO DEL MUNICIPIO
+### CAPÍTULO III. DE LA PRESCRIPCIÓN DE FONDOS Y CRÉDITOS
 
 ###### Artículo 277.
 
@@ -3639,7 +3959,7 @@ Cuando no sea posible determinar la fecha en que legalmente pudo exigirse la dev
 
 Los depósitos de los particulares en las cuentas del Ayuntamiento no generarán intereses a favor de quien los haya constituido o de sus beneficiarios.
 
-### CAPÍTULO V. DE LA CUSTODIA Y VIGILANCIA DE FONDOS Y VALORES
+### CAPÍTULO IV. DE LAS GARANTÍAS A FAVOR O A CARGO DEL MUNICIPIO
 
 ###### Artículo 278.
 
@@ -3669,7 +3989,7 @@ Las garantías que reciba el Ayuntamiento por contratos administrativos, en conc
 
 Las garantías a que alude el párrafo anterior se podrán hacer efectivas por la Tesorería o la Sindicatura, con sujeción a los procedimientos que establezcan los ordenamientos legales de la materia.
 
-### CAPÍTULO VI. DE LA COLABORACIÓN ADMINISTRATIVA
+### CAPÍTULO V. DE LA CUSTODIA Y VIGILANCIA DE FONDOS Y VALORES
 
 ###### Artículo 283.
 
@@ -3745,7 +4065,7 @@ I. Si es sobrante, ordenará su registro en la contabilidad, haciéndolo del con
 
 II. Cuando sea faltante, requerirá al responsable para que efectúe el reintegro en el acto; si el responsable justifica satisfactoriamente la razón del mismo, únicamente dará cuenta pormenorizada a la Tesorería. Si no lo justifica debidamente o no lo restituye, independientemente de cuidar que en el primer supuesto se dé entrada a las cantidades o valores faltantes, informará a la Contraloría o su equivalente, para los efectos que procedan conforme a la ley.
 
-### CAPÍTULO I. DEL PRESUPUESTO DE EGRESOS
+### CAPÍTULO VI. DE LA COLABORACIÓN ADMINISTRATIVA
 
 ###### Artículo 294.
 
@@ -3763,7 +4083,7 @@ Los Convenios de Colaboración Administrativa que comprometan al Municipio por u
 
 ## TÍTULO SEGUNDO. DEL PRESUPUESTO DE EGRESOS Y GASTO PÚBLICO
 
-### CAPÍTULO II. DEL GASTO PÚBLICO
+### CAPÍTULO I. DEL PRESUPUESTO DE EGRESOS
 
 #### SECCIÓN I. DE LA INTEGRACIÓN Y ESTRUCTURA DEL PRESUPUESTO DE EGRESOS
 
@@ -3873,7 +4193,7 @@ Cuando, con posterioridad a la aprobación del presupuesto, surjan situaciones e
 
 La formulación de los programas institucionales se sujetará a la estructura programática aprobada por la Tesorería, de conformidad con los lineamientos que para tales fines expida.
 
-### CAPÍTULO III. DE LA ADMINISTRACIÓN DE LOS RECURSOS
+### CAPÍTULO II. DEL GASTO PÚBLICO
 
 #### SECCIÓN ÚNICA. DEL EJERCICIO DEL GASTO PÚBLICO MUNICIPAL
 
@@ -3933,7 +4253,7 @@ El Cabildo determinará la forma en que deberán invertirse los subsidios que ot
 
 El Cabildo podrá autorizar la participación municipal en empresas, sociedades y asociaciones civiles y mercantiles, ya sea para su creación o para la adquisición de todo o parte de su capital social o su patrimonio, previa autorización del Congreso.
 
-### CAPÍTULO IV. DE LA CONTABILIDAD Y CUENTA PÚBLICA
+### CAPÍTULO III. DE LA ADMINISTRACIÓN DE LOS RECURSOS
 
 #### SECCIÓN I. DISPOSICIONES GENERALES EN MATERIA DE ADMINISTRACIÓN DE RECURSOS PÚBLICOS
 
@@ -4113,7 +4433,7 @@ El Ayuntamiento y entidades no comprometerán los recursos del capítulo de serv
 
 Si existen contratos por honorarios, no incrementarán sus percepciones ni obtendrán percepciones adicionales a las establecidas en el contrato respectivo.
 
-### CAPÍTULO V. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
+### CAPÍTULO IV. DE LA CONTABILIDAD Y CUENTA PÚBLICA
 
 #### SECCIÓN I. DE LA CONTABILIDAD GUBERNAMENTAL
 
@@ -4313,7 +4633,7 @@ El Ayuntamiento presentará al Congreso, para su estudio, dictamen y aprobación
 
 De no presentar en tiempo la cuenta pública al Congreso, el Presidente, los integrantes de la Comisión de Hacienda y el Tesorero serán penalmente responsables por el delito de abuso de autoridad o incumplimiento del deber legal. La Dirección de Servicios Jurídicos del Congreso presentará de oficio la denuncia ante el Ministerio Público.
 
-### CAPÍTULO I. DISPOSICIONES PRELIMINARES
+### CAPÍTULO V. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
 
 #### SECCIÓN I. DEL CONTROL Y EVALUACIÓN
 
@@ -4475,7 +4795,7 @@ Las dependencias y entidades proporcionarán los informes, documentos y, en gene
 
 ## TÍTULO ÚNICO
 
-### CAPÍTULO II. DE LAS FACULTADES DE LAS AUTORIDADES EN MATERIA DE DEUDA
+### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 397.
 
@@ -4537,7 +4857,7 @@ Las entidades públicas a que se refieren las fracciones II a IV del artículo 3
 
 También se considera deuda extraordinaria la que autorice el H. Congreso del Estado mediante decretos posteriores al inicio del ejercicio para la contratación de financiamientos que se destinen a inversiones públicas productivas.
 
-### CAPÍTULO III. DE LA PROGRAMACIÓN DE LA DEUDA PÚBLICA
+### CAPÍTULO II. DE LAS FACULTADES DE LAS AUTORIDADES EN MATERIA DE DEUDA
 
 ###### Artículo 404.
 
@@ -4617,7 +4937,7 @@ VI. Las demás que le confieran este Código y otras leyes.
 
 A fin de que las entidades a que refieren las fracciones II a IV del artículo 398 de este Código, puedan obtener autorización del Ayuntamiento para la contratación de financiamientos en el caso previsto en la fracción II del artículo 404, deberán proporcionar a la Tesorería sus programas financieros y la información que arroje su capacidad de pago, así como toda aquella que se les solicite, a fin de determinar sus necesidades de crédito y la viabilidad de su pago.
 
-### CAPÍTULO IV. DE LA CONTRATACIÓN DE LOS FINANCIAMIENTOS
+### CAPÍTULO III. DE LA PROGRAMACIÓN DE LA DEUDA PÚBLICA
 
 ###### Artículo 408.
 
@@ -4651,9 +4971,7 @@ XII. Los demás requisitos que fije el Congreso.
 
 El Ayuntamiento, al someter al Congreso el proyecto de Ley de Ingresos, propondrá los montos del endeudamiento neto necesario y acompañará su programa de financiamiento, mismo que contendrá los elementos de juicio suficientes para fundamentar su propuesta, entre los que se encontrará la indicación clara de los recursos que se utilizarán para el pago de los financiamientos.
 
-### CAPÍTULO V. DE LAS GARANTÍAS Y FUENTES DE PAGO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE JULIO DE 2008)</small>
+### CAPÍTULO IV. DE LA CONTRATACIÓN DE LOS FINANCIAMIENTOS
 
 ###### Artículo 410.
 
@@ -4717,7 +5035,9 @@ Cuando el Municipio se coordine o asocie a otro o al Estado para la prestación 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE JULIO DE 2008)</small>
 
-### CAPÍTULO VI. DE LA VIGILANCIA Y REGISTRO DE LAS OPERACIONES DE FINANCIAMIENTO
+### CAPÍTULO V. DE LAS GARANTÍAS Y FUENTES DE PAGO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE JULIO DE 2008)</small>
 
 ###### Artículo 420.
 
@@ -4761,7 +5081,7 @@ VI. Que el Ayuntamiento esté al corriente en el cumplimiento de sus obligacione
 
 Todo esto sin perjuicio de los requisitos que para tal efecto señale el Código Financiero para el Estado.
 
-### CAPÍTULO VII. DE LA AFECTACIÓN DE LOS INGRESOS DERIVADOS DE LA COORDINACIÓN FISCAL
+### CAPÍTULO VI. DE LA VIGILANCIA Y REGISTRO DE LAS OPERACIONES DE FINANCIAMIENTO
 
 ###### Artículo 423.
 
@@ -4849,7 +5169,7 @@ Las operaciones de crédito autorizadas, sólo podrán modificarse con los mismo
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE JULIO DE 2008)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VII. DE LA AFECTACIÓN DE LOS INGRESOS DERIVADOS DE LA COORDINACIÓN FISCAL
 
 ###### Artículo 434.
 
@@ -4877,7 +5197,7 @@ Para todo lo no previsto en este Libro se estará a lo que señale el Código Fi
 
 ## TÍTULO PRIMERO. DE LOS BIENES EN GENERAL
 
-### CAPÍTULO II. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 436.
 
@@ -4963,9 +5283,7 @@ Los actos de adquisición, administración, uso, aprovechamiento, explotación o
 
 Los actos de planeación, programación, adquisición, almacenaje, control, destino, baja y arrendamiento; así como los procedimientos de rescisión administrativa y de enajenación de bienes muebles municipales se regirán por la ley de la materia.
 
-### CAPÍTULO III. DEL INVENTARIO
-
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+### CAPÍTULO II. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
 ###### Artículo 444.
 
@@ -4995,7 +5313,9 @@ XI. Determinar el valor de los lotes de su propiedad susceptibles de enajenació
 
 XII. Las demás que les señalen la Constitución, el presente Código y demás leyes aplicables.
 
-### CAPÍTULO I. DE LOS BIENES MUEBLES
+### CAPÍTULO III. DEL INVENTARIO
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 445.
 
@@ -5033,7 +5353,7 @@ La Comisión de Hacienda, de conformidad con lo establecido en la Ley Orgánica 
 
 ## TÍTULO SEGUNDO. DEL DOMINIO Y ADMINISTRACIÓN DE LOS BIENES
 
-### CAPITULO II. DE LOS BIENES INMUEBLES
+### CAPÍTULO I. DE LOS BIENES MUEBLES
 
 ###### Artículo 449.
 
@@ -5043,7 +5363,7 @@ El Ayuntamiento, con apoyo en la Comisión de Hacienda, expedirá las normas rel
 
 Las enajenaciones de los bienes muebles no podrán realizarse a favor de los servidores públicos municipales que, en cualquier forma, intervengan en los actos relativos, ni de sus cónyuges o parientes consanguíneos y por afinidad hasta el cuarto grado, o de terceros con los que dichos servidores tengan vínculos privados o de negocios. Las enajenaciones que se realicen en contravención a ello serán causa de responsabilidad y serán nulos de pleno derecho.
 
-### CAPÍTULO ÚNICO. DE LA RESCISIÓN ADMINISTRATIVA
+### CAPITULO II. DE LOS BIENES INMUEBLES
 
 ###### Artículo 451.
 
@@ -5228,6 +5548,8 @@ III. Si en el término de dos años, el adquirente no concluye el proceso de esc
 Los Notarios Públicos al otorgar las escrituras o instrumentos que contengan las enajenaciones de inmuebles, estipularán en las mismas las condiciones a que se refiere el artículo anterior. La infracción será sancionada conforme al procedimiento establecido en la Ley del Notariado y demás disposiciones legales aplicables, sin perjuicio de otras responsabilidades que pudieren resultarles. Para su ejercicio se otorga acción pública.
 
 ## TÍTULO TERCERO
+
+### CAPÍTULO ÚNICO. DE LA RESCISIÓN ADMINISTRATIVA
 
 ###### Artículo 478.
 
@@ -5420,3 +5742,13 @@ G.O. 10 DE MARZO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al Presente Decreto.
+
+G.O. 28 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 719 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO HACENDARIO PARA EL MUNICIPIO DE VERACRUZ, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. Las disposiciones contenidas en el Artículo Primero, Segundo y Tercero del presente Decreto iniciarán su vigencia a partir de su autorización y publicación en la Gaceta Oficial por el H. Congreso del Estado de Veracruz de Ignacio de la Llave y tendrán carácter obligatorio para el Municipio de Veracruz, Veracruz.
+
+Segundo. En la aplicación de lo dispuesto por el artículo 199 bis de este Código, el Ayuntamiento cobrará a los establecimientos que operaban con anterioridad a la entrada en vigor del mismo, únicamente la cuota que corresponda a los derechos por el refrendo anual, previa comprobación de dicha circunstancia por parte de los interesados, mediante la exhibición de las cédulas de empadronamiento o de otros documentos probatorios.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
