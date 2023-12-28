@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-571-hacendario-para-el-municipio-de-34131"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-08-26"
-last_updated: "2021-03-10"
+last_updated: "2023-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO PARA EL MUNICIPIO DE MINATITLÁN, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 2023.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el martes 26 de agosto de 2003.
 
@@ -57,7 +57,9 @@ II. La administración financiera y tributaria de la Hacienda Municipal; y
 
 III. Las normas que regulan las contribuciones, aprovechamientos y productos;
 
-En materia de administración de los recursos humanos, financieros y materiales; integración de la cuenta pública municipal; administración y contratación de deuda pública; dominio y administración de los bienes; y, en general, en todo lo no previsto por el presente ordenamiento, se aplicará supletoriamente el Código Hacendario Municipal para el Estado de Veracruz de Ignacio de la Llave.
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+En todo lo no previsto por el presente ordenamiento se aplicará supletoriamente el Código Hacendario Municipal para el Estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 2.
 
@@ -129,6 +131,66 @@ XXVI. La Secretaría de Finanzas: La Secretaría de Finanzas, Administración y 
 
 XXVII. Secretario de Finanzas: El titular de la Secretaría de Finanzas, Administración y Tesorería.
 
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XXXVIII. Cédula de Empadronamiento: es el documento expedido por la Tesorería Municipal que acredita la inscripción, pago anual de derechos por refrendo y/o modificaciones al régimen de un establecimiento comercial, industrial o de servicios, al Padrón Fiscal Municipal;
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XXIX. CFDI: Comprobante Fiscal Digital por Internet previsto en el Código Fiscal de la Federación y toda su normatividad relacionada;
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XXX. Estado de Cuenta: El documento donde se contiene el reporte de adeudos consolidado o resumido de un contribuyente con fines informativos y que no constituye instancia; mismo que puede ser enviado por mensajería ordinaria o certificada de forma indistinta, o bien generada a través de los portales electrónicos que para tal efecto implemente o contrate la tesorería;
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XXXI. Estrados Electrónicos: Se efectuará a través del sitio oficial web del Municipio https://www.minatitlan.gob.mx/, cuando la persona a quien deba notificarse no sea localizable en el domicilio que haya señalado ante la Autoridad Municipal correspondiente o en su caso, no haya notificado domicilio para el cumplimiento de sus obligaciones fiscales, se ignore su domicilio o el de su representante, desaparezca o se oponga a la diligencia de notificación;
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XXXII. Formato: Documento oficial solicitado por las dependencias municipales como parte de los requisitos necesarios para realizar un trámite o solicitar un servicio y que deberá ser previamente autorizado para su utilización por la Tesorería Municipal;
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XXXIII. Ley de Ingresos: La Ley de Ingresos del Municipio de Minatitlán, Veracruz de Ignacio de la llave, correspondiente al ejercicio fiscal del año de que se trate;
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XXXIV. Licencia de Funcionamiento: Documento expedido por la Tesorería que permite el funcionamiento de los establecimientos cuyo giro sea la enajenación de bebidas alcohólicas realizadas total o parcialmente al público en general;
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XXXV. Multa Administrativa: Sanción de carácter pecuniario que consiste en la imposición del pago de una suma de dinero que se deriva de la verificación de la comisión de una conducta que contraviene disposiciones administrativas de competencia municipal;
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XXXVI. Multa Fiscal: Sanción económica, prevista en la normatividad aplicable, que imponen las autoridades fiscales a los contribuyentes cuando no cumplen de manera espontánea sus obligaciones fiscales o por cumplirlas incorrectamente;
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XXXVII. Pago espontáneo: Acción por la cual el contribuyente de forma voluntaria realiza el pago de sus obligaciones sin que medie entre éste y la autoridad algún requerimiento o notificación de pago;
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XXXVIII. Padrón Fiscal Municipal de Unidades Económicas o Padrón Fiscal Municipal: Para efectos del presente Código se entenderá como tal, al registro administrativo de índole fiscal que contempla la información cualitativa y cuantitativa de las unidades económicas, que se encuentran regularizadas en el territorio municipal;
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XXXIX. Refrendo: Es el acto por el cual el contribuyente solicita a las autoridades competentes la actualización del registro al padrón municipal de contribuyentes;
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XL. SCIAN: Sistema de Clasificación Industrial de América del Norte.
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XLI. UMA: La unidad de medida y actualización, que se utiliza como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y de la Ciudad de México, así como en las disposiciones jurídicas que emanen de dichas leyes; y
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XLII. Unidad Económica: Todo establecimiento comercial, industrial o de prestación de servicios que se encuentren dentro del territorio del Municipio de Minatitlán, Veracruz de Ignacio de la Llave.
+
 ###### Artículo 3.
 
 La Hacienda Pública Municipal se formará por los bienes del dominio público municipal y por los rendimientos de los bienes que le pertenezcan, de conformidad con la legislación aplicable; así como por las aportaciones voluntarias, los impuestos, derechos, productos, aprovechamientos, participaciones, tasas adicionales establecidas por el Congreso sobre la propiedad inmobiliaria, la de su fraccionamiento, división, consolidación, traslación y mejoras, las que tengan por base el cambio de valor de los inmuebles y todos los demás ingresos fiscales que aquél establezca a su favor, en términos de las disposiciones legales aplicables.
@@ -186,6 +248,10 @@ La aplicación de los ordenamientos a que se refiere este artículo corresponde 
 El Ayuntamiento podrá dictar reglas de carácter general, para modificar o adicionar el control y forma de pago, siempre que no varíe en forma alguna el sujeto, objeto, base, cuota, tasa o tarifa de las contribuciones y sus accesorios, infracciones y sanciones, de acuerdo a lo dispuesto en este Código.
 
 Por conducto del Presidente y del Síndico, el Municipio podrá celebrar los convenios de colaboración administrativa a que se refiere el artículo 295 del Código Hacendario Municipal para el Estado.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Corresponde al H. Ayuntamiento y por acuerdo generado en sesión de Cabildo, el otorgar facilidades administrativas o se emitan resoluciones de descuentos en el pago de contribuciones, productos, aprovechamientos, o accesorios generados, a favor de las personas físicas o morales que lo soliciten en términos de lo establecido en este Código. Asimismo, tratándose de situaciones de emergencia o contingencia provocadas por desastres naturales, situación socioeconómica adversa, epidemias, pandemias o sucesos que generen inestabilidad social, el Presidente Municipal podrá expedir disposiciones de carácter general para el área, zona o región afectada dentro del Municipio de su circunscripción, por medio de las cuales se implementen programas de estímulos fiscales, dando cuenta de inmediato al H. Ayuntamiento.
 
 ###### Artículo 13.
 
@@ -473,11 +539,13 @@ El pago también podrá efectuarse por medio de cheques certificados o cheques d
 
 La Tesorería podrá autorizar expresamente la aceptación de otros instrumentos de pago.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 38.
 
-Para determinar las contribuciones se considerarán las fracciones del peso; para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de uno hasta cincuenta centavos se ajusten a la unidad del peso inmediata inferior, y las que contengan cantidades de cincuenta y uno a noventa y nueve centavos, se ajusten a la unidad del peso inmediata superior. Para los efectos de este Código, se entenderá por salario mínimo el establecido como tal para el Municipio en las disposiciones legales respectivas de orden federal.
+Todas las contribuciones se pagarán en UMA y para su determinación se considerarán las fracciones del peso; para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de uno hasta cincuenta centavos se ajusten a la unidad del peso inmediata inferior, y las que contengan cantidades de cincuenta y uno a noventa y nueve centavos, se ajusten a la unidad del peso inmediata superior.
 
-Cuando no se cubra la contribución, producto o aprovechamiento en la fecha o época establecidas en este Código, y los mismos se fijen en salarios mínimos, el cobro se realizará conforme al vigente al momento de su incumplimiento.
+Cuando no se cubra la contribución, producto o aprovechamiento en la fecha o época establecidas en este Código, el cobro se realizará conforme a la UMA vigente al momento del pago.
 
 ###### Artículo 39.
 
@@ -542,6 +610,10 @@ Si los recargos determinados por el contribuyente son inferiores a los que calcu
 En caso de aprovechamientos, los recargos se calcularán, de conformidad con lo dispuesto en este artículo, sobre el total del crédito fiscal, excluyendo los recargos, los gastos de ejecución y la indemnización por cheque no pagado.
 
 Las autoridades fiscales no liberarán ni condonarán, total o parcialmente, el pago de las contribuciones y de los recargos correspondientes, salvo en los casos que prevé este mismo Código.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+El Ayuntamiento sólo podrá condonar total o parcialmente recargos a través de un programa temporal por cada año, debiendo ser autorizado mediante un acuerdo de Cabildo, que deberá contener las bases y especificaciones que sean necesarias.
 
 ###### Artículo 43.
 
@@ -953,9 +1025,11 @@ VIII. No obstante tener la obligación de contar con el permiso o autorización 
 
 IX. Incurran en cualquier otro supuesto que señale el Código de Procedimientos Administrativos.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 73.
 
-Para los electos de la determinación presuntiva a que se refiere el artículo anterior, las autoridades fiscales procederán de la manera siguiente:
+Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, las autoridades fiscales procederán de la manera siguiente:
 
 I. Tratándose de diversiones o espectáculos públicos, el número total de localidades, asientos, lugares o aforo con que cuente el local en donde se desarrolló el espectáculo público, se multiplicará por el precio de la localidad más alta que para dicho espectáculo se hubiere dado, y el resultado obtenido será considerado como base gravable, la cual no será objeto de deducción o reducción alguna;
 
@@ -1203,29 +1277,43 @@ Las autoridades fiscales impondrán las sanciones administrativas por infracció
 
 I. Las infracciones que establece el artículo 88 de este Código serán sancionadas con multa equivalente a los montos que a continuación se señalan:
 
-a) De cinco a quince días de salario mínimo, por infracción a las fracciones I, IV, VII, VIII, X, XII y XV.
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-b) De quince a treinta días de salario mínimo, por infracción a las fracciones XX, XXIII (sic) y XXIII.
+a) De 9 a 27 UMAs, por infracción a las fracciones I, IV, VII, VIII, X, XII y XV.
 
-c) De treinta a cincuenta días de salario mínimo, por infracción a las fracciones II, III, V, VI, IX, XI, XIII, XIV, XVI, XVII, XVIII y XIX;
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+b) De 27 a 54 UMAs, por infracción a las fracciones XX, XXIII y XXIV.
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+c) De 50 a 90 UMAs, por infracción a las fracciones II, III, V, VI, IX, XI, XIII, XIV, XVI, XVII, XVIII y XIX;
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
 II. La infracción que establecen las fracciones XXI y XXIV del artículo 88 de este Código, se sancionará con multa de cien a ciento cincuenta por ciento del crédito omitido;
 
-III. Las infracciones comprendidas en el artículo 89 de este Código, se sancionarán con multa de cincuenta a cien días de salario mínimo;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-IV. Las infracciones comprendidas en el artículo 90 de este Código, se sancionarán con multa de setenta y cinco a cien días de salario mínimo; y
+III. Las infracciones comprendidas en el artículo 89 de este Código, se sancionarán con multa de 90 a 180 UMAs;
 
-V. Las infracciones comprendidas en el artículo 91 de este Código, se sancionarán con multa de cuarenta y cinco a noventa días de salario mínimo.
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+IV. Las infracciones comprendidas en el artículo 90 de este Código, se sancionarán con multa de 135 a 180 UMAs; y
+
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+V. Las infracciones comprendidas en el artículo 91 de este Código, se sancionarán con multa de 80 a 160 UMAs.
 
 Cuando por un acto o una omisión se incurra en varias infracciones a las que correspondan diversas multas, sólo se impondrá la multa mayor.
 
 Los ingresos que el Municipio obtenga por la aplicación de multas y sanciones establecidas en disposiciones reglamentarias, así como en otros ordenamientos de carácter hacendario, se enterarán de conformidad con los montos que establezcan los ordenamientos que las contengan.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 93.
 
-La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de cinco a cien días de salario mínimo.
+La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de 9 a 180 UMAs.
 
 ## TÍTULO QUINTO. DE LOS DELITOS FISCALES
 
@@ -1409,9 +1497,11 @@ c) Imprima u ordene imprimir formas de control fiscal o emita u ordene la emisi�
 
 d) Altere documentación oficial o expida una falsa en cualquier tipo de trámite del orden fiscal.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 112.
 
-Se impondrá prisión de seis meses a tres años y se impondrá multa de treinta a quinientos días de salario mínimo, a quien entregue u ofrezca dinero o dádivas a los servidores públicos municipales, para incurrir en alguno de los delitos previstos por este Título.
+Se impondrá prisión de seis meses a tres años y se impondrá multa de 53 a 898 UMAs, a quien entregue u ofrezca dinero o dádivas a los servidores públicos municipales, para incurrir en alguno de los delitos previstos por este Título.
 
 # LIBRO TERCERO. DE LOS INGRESOS MUNICIPALES
 
@@ -1917,9 +2007,11 @@ VI. Retener y enterar el impuesto que corresponda, conforme a los artículos 154
 
 VII. Proporcionar constancia de retención de impuestos a la persona que obtenga el premio.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 159.
 
-No causarán este impuesto la Federación, los Estados, los Municipios, los Partidos Políticos en los términos de la legislación electoral correspondiente, los organismos públicos descentralizados de la Administración Pública Estatal y Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública, y las asociaciones de asistencia y beneficencia pública legalmente constituidas, así como las asociaciones religiosas. Tampoco se causará este impuesto cuando los premios en forma global no superen el valor equivalente a los cuatrocientos salarios mínimos en el Municipio.
+No causarán este impuesto la Federación, los Estados, los Municipios, los Partidos Políticos en los términos de la legislación electoral correspondiente, los organismos públicos descentralizados de la Administración Pública Estatal y Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública, y las asociaciones de asistencia y beneficencia pública legalmente constituidas, así como las asociaciones religiosas. Tampoco se causará este impuesto cuando los premios en forma global no superen el valor equivalente a 718.64 UMAS en el Municipio.
 
 ###### Artículo 160.
 
@@ -1945,9 +2037,11 @@ Este impuesto se causará mensualmente por cada establecimiento en que se celebr
 
 El impuesto señalado en el presente capítulo se causará y pagará conforme a las tarifas establecidas en la Ley de Ingresos correspondiente al periodo fiscal aplicable.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 165.
 
-Este impuesto se pagará en la Tesorería, los primeros cinco días de cada mes.
+Este impuesto se pagará en la Tesorería, en los meses de enero y febrero.
 
 ###### Artículo 166.
 
@@ -2069,6 +2163,18 @@ Se considerará para todos los derechos por la prestación de servicios, la real
 
 Los derechos por los servicios prestados por la administración pública municipal se causarán y pagarán conforme a las tasas, cuotas o tarifas que para cada caso señale este Código.
 
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Tratándose del uso de baños públicos, los derechos se describirán, calcularán y pagarán de conformidad con las cuotas establecidas en la Ley de ingresos vigente.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Por los derechos generados por los servicios agropecuarios, pesca y ganadería se describirán, calcularán y pagarán de conformidad con las cuotas establecidas en la Ley de ingresos vigente.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Los servicios por el uso de transbordadores municipales, se causarán y pagarán, conforme a la cuota o tarifa que para tal efecto establezca la Ley de Ingresos Municipal del ejercicio fiscal de que se trate y autorizado por las autoridades competentes.
+
 ###### Artículo 187.
 
 Los derechos que, en su caso, se recauden por el otorgamiento de la concesión de bienes o servicios municipales, se ingresarán con arreglo a lo previsto en cada título de concesión.
@@ -2119,9 +2225,19 @@ Cuando la ley establezca la obligación de pago de un refrendo de permisos, lice
 
 ### CAPÍTULO II. DE LOS DERECHOS POR REGISTRO Y REFRENDO ANUAL DE TODA ACTIVIDAD ECONÓMICA
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 195.
 
-Es objeto de este derecho el otorgamiento de la licencia de funcionamiento, permiso o autorización, registro o refrendo a negociaciones, giros o actividades económicas, cuya reglamentación y vigilancia corresponda a la autoridad municipal.
+Es objeto de este derecho el registro o refrendo al Padrón Fiscal Municipal de Unidades Económicas existentes en el territorio municipal, así como las autorizaciones que modifiquen su régimen de operación, y las verificaciones o inspecciones que se realicen a los establecimientos, a través del despliegue técnico realizado por las dependencias del Municipio.
+
+Se entiende por despliegue técnico, las actividades que tienen como propósito corroborar mediante la supervisión y revisión a las unidades económicas y a la universalidad de éstas, con el fin de verificar el debido cumplimiento de los lineamientos municipales de protección al medio ambiente, uso de suelo, seguridad física del inmueble, salud pública, prevención en materia de vialidad, protección civil y seguridad pública, con la finalidad de salvaguardar la vida de las personas.
+
+Los titulares de las Unidades Económicas, deberán pagar por la prestación de los servicios brindados por el Municipio durante el transcurso del ejercicio fiscal, como obligación administrativa, por la implicación de una serie de verificaciones y/o inspecciones ordinarias o extraordinarias que se traducen en trabajo de campo y de gabinete derivado de las consecuencias de las actividades realizadas por las mismas según sea el caso específico, dichas cuotas por el registro y/o refrendo al Padrón Fiscal Municipal de Unidades Económicas tiende a garantizar los derechos humanos a un ambiente sano, a la vida, a la seguridad pública, a la salud y a la urbanización, con la finalidad de ponderar los derechos de los habitantes de este Municipio y con ello optimizar su calidad de vida y satisfacer lo previsto en el artículo 1° de la Constitución Política de los Estados Unidos Mexicanos.
+
+a) Se entiende por verificaciones ordinarias: Las verificaciones y/o inspecciones que realiza el Municipio a través de diversas dependencias de forma periódica, con la finalidad de verificar si los establecimientos comerciales cumplen con los lineamientos señalados en los diversos ordenamientos o en las normas oficiales en la materia.
+
+b) Se entiende por verificaciones extraordinarias: Las verificaciones y/o inspecciones que realiza el Municipio a través de sus diversas dependencias de forma espontánea o por caso fortuito, con la finalidad de verificar si los establecimientos comerciales cumplen con los lineamientos señalados en los diversos ordenamientos o en las normas oficiales en la materia.
 
 ###### Artículo 196.
 
@@ -2131,25 +2247,447 @@ Los propietarios de negociaciones comerciales, industriales, de prestación de s
 
 El inicio de actividades, la ampliación o el cambio de giro de los establecimientos o locales a los que se refiere el artículo anterior, serán autorizados por la Tesorería, de conformidad con los requisitos que establezca el reglamento municipal respectivo o, en su defecto, el Cabildo.
 
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Cuando los titulares de establecimientos de tipo comercial, industrial o de prestación de servicios, omitan realizar su registro al Padrón Fiscal Municipal de Unidades Económicas conforme a lo estipulado en el presente Código, las autoridades fiscales, determinarán de manera presuntiva el importe que les corresponde pagar conforme a lo establecido en el presente capítulo. Para los efectos de la determinación presuntiva, ésta se calculará acorde a la tarifa que proceda por concepto de registro o refrendo, según corresponda, tomando como base los datos proporcionados por terceros a solicitud de las autoridades fiscales o con información obtenida en el ejercicio de sus facultades de comprobación.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2023)</small>
+
+La determinación presuntiva a que hace referencia el párrafo anterior, no prejuzga ni convalida el funcionamiento del establecimiento comercial, asimismo, no preconstituye un derecho y procederá independientemente de las sanciones a que haya lugar.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 198.
 
-Son sujetos de este derecho las personas físicas o morales que soliciten del Ayuntamiento la autorización de funcionamiento, registro o refrendo señalados en el artículo 195 de este Código o la licencia correspondiente.
+Son sujetos de los derechos del presente capítulo, las personas físicas o morales titulares de las unidades económicas que realicen actividades de tipo comercial, industrial o de prestación de servicios, mismos que tienen la obligación de obtener su registro o en su caso el refrendo al Padrón Fiscal Municipal de Unidades Económicas.
+
+La base para el cálculo de este derecho será de acuerdo a los impactos causados por las unidades económicas y por la erogación que realiza el Municipio en cada caso específico.
+
+El pago del derecho por el Registro al Padrón Fiscal Municipal de Unidades Económicas, deberá realizarse durante los primeros 15 días naturales al que haya iniciado actividades comerciales, industriales o de prestación de servicios, independientemente de la autorización o no de las dependencias adscritas a este Municipio para la obtención del registro de su unidad económica.
+
+Para la obtención del registro plasmado con anterioridad, la autoridad fiscal en cualquier momento tendrá la facultad de solicitar los requisitos de acuerdo a las características particulares del giro comercial que pretende desarrollar en su establecimiento mercantil.
+
+El pago por el refrendo al Padrón Fiscal Municipal de Unidades Económicas se causará de forma anual y se deberá realizar durante los meses de enero, febrero y marzo del ejercicio fiscal que corresponda, el cual será un monto del 20% del costo total del registro.
+
+Las personas físicas o morales titulares de las Unidades Económicas, deberán colocar la cédula de empadronamiento correspondiente del giro autorizado, en un lugar visible y de fácil acceso en el inmueble donde ejerzan su actividad.
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 199.
 
-El Municipio, en términos de lo dispuesto por la Ley de Coordinación Fiscal y demás normatividad aplicable, ejercerá facultades operativas de verificación al momento de expedir las licencias a que se refiere este Código y deberá solicitar a los interesados la exhibición de su cédula de inscripción al Registro Federal de Contribuyentes.
+Para los efectos del presente capítulo, los registros y/o verificaciones administrativas de las Unidades Económicas se clasificarán de la siguiente manera:
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+I. Giros de registro normal: Son aquellas que, en materia de salud, protección civil, ecología y protección al ambiente, planeación, ordenamiento territorial e impacto vial implican bajo o nulo riesgo para la población. (Tipo 1, Tipo 2 y Tipo 3);
 
-En términos de la normatividad aludida en el párrafo anterior, la licencia, permiso o autorización de funcionamiento, o el registro o refrendo anual en su caso, no causarán cuota alguna, pero sus propietarios cumplirán los requisitos que para su otorgamiento señalen los reglamentos municipales, incluyendo el pago de formas valoradas a razón de cinco salarios mínimos.
+II. Giros o actividades de mediano impacto: Son aquellas que, en materia de salud, protección civil, ecología y protección al ambiente, planeación, ordenamiento territorial e impacto vial, alteran el orden o la seguridad de la población. (Tipo A, Tipo B, Tipo C, Tipo D, Tipo E, Tipo F, Tipo G, Tipo H, Tipo I, Tipo J, Tipo K, Tipo L, Tipo M, Tipo N, Tipo O, Tipo P, Tipo Q, Tipo R); y
 
-Se exceptúan de la no causación los giros comerciales que enajenen o expendan bebidas alcohólicas en forma total o parcial al público en general, en cuyo caso deberán cubrir la cuota o tarifa establecida en el presente Código por el otorgamiento o refrendo de cada licencia, pero la omisión a dicha obligación se sancionará con multa equivalente a la cuota o tarifa señalada para el refrendo, según el caso y, de persistir la omisión dentro del término de quince días, se procederá a la clausura.
+III. Giros o actividades de alto impacto: Son aquellas que por sus actividades económicas y características en su ubicación, giro, instalación, apertura y operación representan un riesgo alto para la población de este Municipio, catalogados así para proteger la vida, la salud, el medio ambiente y la seguridad de las personas, y en general aquellos cuyo manejo debe realizarse de acuerdo a normas especiales. (Tipo 1, Tipo 2, Tipo 3, Tipo 4, Tipo 5, Tipo 6, Tipo 7, Tipo 8, Tipo 9, Tipo 10, Tipo 11 y Tipo 12).
+
+Para efectos de la aplicación del presente capítulo, la clasificación de las unidades económicas, consideradas como de normal, mediano y alto impacto para la población, en materia de protección civil y demás verificaciones actividades económicas en el Padrón Fiscal Municipal de Unidades Económicas serán facultad exclusiva de las Autoridades Municipales de conformidad con lo establecido en este artículo y en el tabulador contemplado en el artículo 199 Bis del presente Código.
+
+La Dirección de Protección Civil, es el área encargada de emitir dictamen técnico, pliego de recomendaciones y opiniones técnicas de acuerdo con lo establecido en el artículo 82 de la Ley de Protección Civil y la Reducción del Riesgo de Desastres para el Estado de Veracruz de Ignacio de la Llave.
+
+> <small>(ADICIONADO, G.O.28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 199 Bis.
+
+Por el registro, refrendo y/o modificación de los giros mercantiles al Padrón Fiscal Municipal de Unidades Económicas, se aplicará la tarifa administrativa necesaria para llevar a cabo el registro y/o refrendo anual de las correspondientes según las actividades que desarrollen estas unidades, la cual se muestra en el catálogo de giros que se presenta a continuación:
+
+> <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 28 DE DICIEMBRE DE 2023, PÁGINAS DE LA 14 A LA 36.]</small>
+
+Con excepción del catálogo de giros del presente artículo, tratándose de establecimientos comerciales, industriales y de prestación de servicios de presencia local que no excedan los 25.99 metros cuadrados de superficie, se cobrará de acuerdo a lo siguiente:
+
+1. Con excepción del catálogo de giros del presente artículo, tratándose de establecimientos comerciales, industriales y de prestación de servicios de presencia local que no excedan los 25.99 metros cuadrados de superficie, se cobrará de acuerdo a lo siguiente:
+
+CONCEPTO MONTO EN UMA
+
+a) Registro 0.26 por m2
+
+b) Refrendo 20% del costo del registro
+
+2. Con excepción del catálogo de giros del presente artículo, tratándose de establecimientos comerciales, industriales y de prestación de servicios de presencia local de 26 a 50.99 metros cuadrados de superficie, se cobrará de acuerdo a lo siguiente:
+
+CONCEPTO MONTO EN UMA
+
+a) Registro 0.30 por m2
+
+b) Refrendo 20% del costo del registro
+
+3. Con excepción del catálogo de giros del presente artículo, tratándose de establecimientos comerciales, industriales y de prestación de servicios de presencia local de 51 a 100.99 metros cuadrados de superficie, se cobrará de acuerdo a lo siguiente:
+
+CONCEPTO MONTO EN UMA
+
+a) Registro 0.35 por m2
+
+b) Refrendo 20% del costo del registro
+
+4. Con excepción del catálogo de giros del presente artículo, tratándose de establecimientos comerciales, industriales y de prestación de servicios de presencia local que excedan los 101 metros cuadrados de superficie, se cobrará de acuerdo a lo siguiente:
+
+CONCEPTO MONTO EN UMA
+
+a) Registro 0.40 por m2
+
+b) Refrendo 20% del costo del registro
+
+Las unidades económicas que excedan los metros permitidos pagarán por metro adicional el proporcional de dividir el costo de registro o refrendo entre el número de metros tope que corresponda.
+
+> <small>[N. DE E. VÉASE FÓRMULA EN LA G.O. DE 28 DE DICIEMBRE DE 2023, PÁGINA 37.]</small>
+
+Para los efectos de este capítulo, las unidades económicas que presten servicios complementarios o adicionales al giro o actividad principal, deberán pagar por el registro y/o refrendo al Padrón Fiscal Municipal de Unidades Económicas del giro complementario, aun cuando este sea de menor, igual o mayor proporción o tamaño que el principal. Se entenderá por giro complementario o adicional, la actividad o actividades que se ejerzan en un establecimiento, con el objeto de prestar algún servicio distinto al principal, incluyendo los señalados en el artículo 200 Quater del presente Código.
+
+El cobro de los derechos previstos en el presente capítulo deberá efectuarse de forma conjunta con los derechos que sean relacionados al funcionamiento del giro, es decir, los derechos por limpia pública, protección civil, uso de suelo, constancia sanitaria, anuncios publicitarios, constancia en materia ambiental, pago de formatos diversos y demás verificaciones y/o dictámenes en caso de ser requeridos, de acuerdo a lo establecido en el presente Código, así como el respectivo pago del impuesto adicional establecido en el artículo 172 del presente Código.
+
+La Tesorería será la facultada para emitir órdenes de pago de las Unidades Económicas que se encuentren debidamente registradas en el Padrón Fiscal Municipal de Unidades Económicas y así mismo, realizar el cálculo de los derechos de forma conjunta respecto de las demás contribuciones con motivo de la misma a que sean sujetos los titulares, con la finalidad de determinar el importe total a liquidar. Para las unidades económicas que no se encuentren regularizadas o empadronadas, deberán pagar un 25 por ciento más sobre el monto que corresponde al Registro al Padrón Fiscal Municipal de Unidades Económicas, conjuntamente con el pago de los accesorios a que sea acreedor, debiendo cumplir con los requisitos y procedimientos establecidos para la expedición.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 199 Ter.
+
+Los trámites que modifiquen el régimen de funcionamiento de las Unidades Económicas derivados de los derechos del presente capítulo, se realizarán mediante los formatos autorizados vigentes por las autoridades municipales competentes de conformidad con la reglamentación y demás ordenamientos aplicables y se pagarán de acuerdo a las siguientes tarifas:
+
+I. Por traspaso de la Unidad Económica, 0.25 UMA por metro cuadrado que tenga el establecimiento;
+
+II. Por cambio de domicilio del registro de la Unidad Económica, 0.20 UMA por metro cuadrado que tenga el establecimiento;
+
+III. Por ampliación de horario de funcionamiento 10 por ciento del costo del refrendo de la Unidad Económica por cada hora adicional del horario ordinario que se tenga autorizado.
+
+IV. Por cambio de denominación la Unidad Económica, 8 UMA;
+
+V. Por afectación de superficie, cuando aumente el número de metros cuadrados del establecimiento, 0.25 UMA por metro cuadrado;
+
+VI. Por autorización de ampliación de giro causará derechos del 30 por ciento del costo del registro del giro solicitado;
+
+VII. Por corrección de datos, 1.5 UMA;
+
+VIII. Por autorización de trámite especial la tarifa será de 2.5 UMA;
+
+IX. Por reposición de la Cédula de empadronamiento por extravío, destrucción o robo 30% (treinta por ciento) del costo del refrendo;
+
+X. Por la instalación de anexos temporales de establecimientos comerciales, siempre que no invada la vía pública ni obstruyan la visibilidad peatonal. Así como dentro de espectáculos públicos conforme a lo siguiente:
+
+SUPERFICIE UMA POR METRO CUADRADO
+
+a) De 1 a 4 m2 1
+
+b) De 4.01 m2 en adelante 1.5
+
+El monto que resulte será independiente al pago por el refrendo al Padrón Fiscal Municipal de Unidades Económicas de la cédula de funcionamiento y cual amparará únicamente el periodo autorizado; y
+
+XI. Otros trámites no especificados en las fracciones anteriores 1.5 UMA.
+
+El horario ordinario de funcionamiento de las unidades económicas a que se refiere este capítulo será de las 07:00 a 23:00 horas.
+
+El Titular que suspenda actividades ante la Secretaría de Hacienda y Crédito Público, deberá solicitar por escrito a la dependencia municipal correspondiente, la suspensión temporal o baja definitiva del Registro al Padrón Fiscal Municipal de Unidades Económicas siempre y cuando el titular de la unidad económica no cuente con adeudos fiscales derivados de su actividad comercial, industrial o de servicios, de lo contrario deberá cubrir el pago conjunto de dichas obligaciones. Por lo que, en caso de que la Autoridad Municipal se cerciore que el contribuyente presenta adeudos por el Refrendo al Padrón Fiscal Municipal de Unidades Económicas, éste deberá pagar lo proporcional al tiempo en que mantuvo sus operaciones, es decir, lo que resulte de dividir el monto total del refrendo entre los 12 meses que corresponden al ejercicio fiscal.
+
+El Titular que haya solicitado la suspensión temporal y/o baja definitiva y pretenda reanudar actividades en el mismo establecimiento, deberá solicitar el Registro al Padrón Fiscal Municipal de Unidades Económicas, cubriendo la totalidad los derechos correspondientes.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 199 Quáter.
+
+Por ejercicios fiscales los contribuyentes tendrán derecho de un 20%, 15% y 10% de descuento en los meses de enero, febrero y marzo respectivamente, en el pago del refrendo al Padrón Fiscal Municipal de Unidades Económicas del giro correspondiente.
+
+Para ser sujetos de los presentes estímulos fiscales, los contribuyentes deberán estar al corriente con el pago de sus obligaciones fiscales respecto al ejercicio fiscal inmediato anterior, debiendo presentar el último recibo de pago, copia de identificación oficial y su cédula de empadronamiento.
 
 #### SECCIÓN I. DE LOS ESTABLECIMIENTOS CUYO GIRO SEA LA ENAJENACIÓN DE BEBIDAS ALCOHÓLICAS REALIZADA TOTAL O PARCIALMENTE AL PÚBLICO EN GENERAL
 
 ###### Artículo 200.
 
 Las licencias, permisos o autorizaciones son intransferibles, otorgados para una persona física o moral y para un lugar determinado, por lo que no podrá cambiarse el domicilio señalado en los mismos sin la autorización previa del Cabildo, en términos de las disposiciones reglamentarias correspondientes.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 200 Bis.
+
+Es objeto de este derecho la expedición o refrendo de licencias o permisos para el funcionamiento de establecimientos que enajenen, fabriquen o expendan bebidas alcohólicas total o parcialmente al público en general, las autorizaciones que modifiquen su régimen de operación, así como, las verificaciones o inspecciones que se realicen a los establecimientos, a través del despliegue técnico realizado por las dependencias del Municipio, conforme al Reglamento que corresponda.
+
+El pago por la expedición de la licencia de establecimientos comerciales, industriales o de prestación de servicios, que enajenen bebidas alcohólicas, deberá efectuarse al momento en el que las personas físicas o morales se encuentren en la situación jurídica o de hecho prevista en el presente Código, de conformidad con las tarifas establecidas en el artículo 200 Quater de este ordenamiento. El pago por el derecho de refrendo de licencia de establecimientos comerciales, industriales o de prestación de servicios, que enajenen bebidas alcohólicas, se causará de manera anual y se deberá pagar durante los meses de enero, febrero y marzo de cada ejercicio fiscal correspondiente, a excepción de la expedición de licencia y el otorgamiento de permisos para el expendio, venta o degustación de bebidas alcohólicas por una sola ocasión en eventos y espectáculos o diversiones públicas transitorias, estos se deberán pagar al momento en que las personas físicas o morales se encuentren en la situación jurídica o de hecho prevista en la reglamentación de la materia.
+
+Para el caso de lo plasmado con anterioridad, la autoridad tendrá la facultad de solicitar los requisitos necesarios que considere pertinentes de acuerdo a las características particulares de cada establecimiento comercial, industrial o de prestación de servicios.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 200 Ter.
+
+Son sujetos de este derecho las personas físicas o morales que realicen actividades de tipo comercial, industrial o de prestación de servicios que incluye la enajenación, fabricación o que expendan bebidas alcohólicas de manera total o parcial con el público en general.
+
+El Titular que suspenda actividades ante la Secretaría de Hacienda y Crédito Público, deberá solicitar por escrito a la dependencia municipal correspondiente, la suspensión temporal o baja definitiva de su licencia siempre y cuando el titular de la unidad económica no cuente con adeudos fiscales derivados de su actividad comercial, industrial o de servicios, de lo contrario deberá cubrir el pago conjunto de dichas obligaciones. Por lo que, en caso de que la Autoridad Municipal se cerciore que el contribuyente presenta adeudos por el refrendo de su licencia, éste deberá pagar lo proporcional al tiempo en que mantuvo sus operaciones, es decir, lo que resulte de dividir el monto total del refrendo entre los 12 meses que corresponden al ejercicio fiscal.
+
+El Titular que haya solicitado la suspensión temporal y/o baja definitiva y pretenda reanudar actividades en el mismo establecimiento, deberá solicitar nuevamente la expedición de su licencia de funcionamiento, cubriendo la totalidad de los derechos correspondientes.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 200 Quater.
+
+La expedición de licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales, con giros comerciales que enajenen o expendan bebidas alcohólicas, estará sujeta a los requisitos que establezca el reglamento municipal respectivo o, en su defecto, el Cabildo, mediante reglas o disposiciones de carácter general.
+
+Por la expedición de licencias de venta de bebidas alcohólicas a que este artículo se refiere, se pagarán las cuotas siguientes:
+
+Giro Expedición de Registro
+
+UMAs
+
+I. Abarrotes con venta de cerveza. 250
+
+II. Abarrotes con venta de cerveza, vinos y licores. 500
+
+III. Agencia de venta de cerveza. 1,250
+
+IV. Agencia de vinos y licores. 1,250
+
+V. Almacén o Bodega de distribución sin venta al
+
+público en general. 1,250
+
+VI. Billares con venta de cerveza, vinos y licores. 500
+
+VII. Boliche con venta de cerveza en envase abierto. 808.476
+
+VIII. Cantinas o bares. 1,300
+
+IX. Centro botanero. 405
+
+X. Centros de eventos sociales o salón de fiestas. 1,000
+
+XI. Centros deportivos o recreativos con venta de
+
+bebidas alcohólicas 809
+
+XII. Centros nocturnos y cabarets. 3,900
+
+XIII. Cervecerías locales 600
+
+XIV. Clubes sociales. 500
+
+XV. Depósito de cerveza o licores, de cadena nacional
+
+o franquicia en botella cerrada. 300
+
+XVI. Depósitos locales. 300
+
+XVII. Discotecas, antros o similares. 4,500
+
+XVIII. Distribución en el territorio municipal de agencia
+
+o sub agencia de marca cervecera nacional o
+
+internacional, mediante sistema de red general de
+
+reparto utilizando la vía pública del Municipio así como
+
+el estacionamiento en la misma, dentro de su proceso
+
+de enajenación. 900
+
+XIX. Distribución en el territorio municipal de agencia o
+
+sub agencia de marca de vinos y licores nacional o
+
+internacional, mediante sistema de red general de
+
+reparto utilizando la vía pública del Municipio así como
+
+el estacionamiento en la misma, dentro de su proceso
+
+de enajenación. 900
+
+XX. Establecimientos en los que se lleven a cabo
+
+juegos con apuestas y sorteos o casinos. 4,500
+
+XXI. Estadio con venta de bebidas alcohólicas en
+
+envase abierto aprovechable exclusivamente para
+
+eventos deportivos de liga. 774
+
+XXII. Giros no clasificados en otras fracciones. 150
+
+XXIII. Expendio de mezcal (en botella cerrada) 270
+
+XXIV. Licencia de venta de bebidas alcohólicas en hoteles. 900
+
+XXV. Kermeses, ferias y bailes públicos. 250
+
+XXVI. Licencia de venta de bebidas alcohólicas en
+
+centro, clubes y/o recinto, donde se realizan eventos
+
+de tipo artístico, deportivo, cultural, social y afines. 315
+
+XXVII. Loncherías, taquerías, marisquerías, fondas,
+
+coctelerías, torterías, pizzerías y similares. 350
+
+XXVIII. Mezcalería. 630
+
+XXIX. Minisúper. 750
+
+XXX. Minisúper de cadena nacional con venta de
+
+cerveza, vinos y licores en botella cerrada. 1,350
+
+XXXI. Miscelánea o abarrotes con venta de cerveza en
+
+botella cerrada. 250
+
+XXXII. Licencia de venta de bebidas alcohólicas en
+
+moteles. 400
+
+XXXIII. Peñas, canta bar, café bar, video bar, café
+
+Cantante 500
+
+XXXIV. Licencia de venta de bebidas alcohólicas en
+
+Restaurante 500
+
+XXXV. Restaurante-bar. 800
+
+XXXVI. Restaurante de cadena regional, nacional o
+
+Internacional 900
+
+XXXVII. Restaurante-bar con música en vivo que
+
+opere una franquicia. 1,440
+
+XXXVIII. Servicar con venta de cerveza, vinos y licores 800
+
+IXL. (SIC) Spa con venta de cerveza, vinos o licores. 250
+
+XL. Licencia de venta de bebidas alcohólicas en
+
+botella cerrada en tienda departamental y/o
+
+supermercado de presencia nacional o internacional 2,400
+
+XLI. Venta de cerveza, vinos y licores, en botella
+
+cerrada en tiendas de conveniencia de cadena
+
+nacional o internacional. 1,350
+
+XLII. Vinaterías y licorerías. 500
+
+XLIII. Centros comerciales con venta de cerveza, vinos
+
+y licores. 2,500
+
+XLIV. Comercio al por menor de vinos y licores. 300
+
+XLV. Expendio de bebidas preparadas 350
+
+Los derechos por refrendos anuales se calcularán a razón del 20% del costo del Registro al Padrón Fiscal Municipal.
+
+Para efectos de esta sección, los establecimientos comerciales que presten servicios complementarios o adicionales al giro principal, deberán pagar por la expedición o refrendo de la licencia de funcionamiento de éstos, aun cuando sea de menor, igual o mayor proporción o tamaño que el principal. Se entenderá por giro complementario o adicional la actividad o actividades que ejerzan en un establecimiento, con el objeto de prestar algún servicio distinto al principal, incluyendo los señalados en el artículo 198 Bis del presente Código.
+
+El horario ordinario de funcionamiento a que se refiere este capítulo será de las 08:00 a 00:00 horas, de forma general y de forma específica atendiendo al horario autorizado en sesión de cabildo por las autoridades municipales correspondientes.
+
+Así mismo, la autoridad fiscal podrá acordar la ampliación o disminución temporal de los horarios establecidos en el reglamento aplicable, cuando existan eventos o situaciones especiales en la ciudad que a su consideración lo ameriten.
+
+De igual manera, las inspecciones que realicen las autoridades municipales competentes tendrán un costo por cada una de 3 UMA, conforme a lo previsto en el Reglamento respectivo.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 200 Quinquies.
+
+Los servicios y trámites que modifiquen el régimen de funcionamiento de los establecimientos comerciales, industriales o de prestación de servicios de esta sección, se tramitarán mediante los formatos previamente autorizados por las autoridades fiscales y se pagarán de acuerdo a las siguientes tarifas:
+
+I. Por el cambio de propietario del establecimiento, entre personas físicas o morales, se pagará únicamente el 50% de la expedición u otorgamiento de la licencia que corresponda, siempre que no existan adeudos, en caso contrario, se deberá cubrir el monto total del costo de la licencia más el adeudo correspondiente;
+
+II. Por cualquier cambio de giro o actividad comercial del establecimiento, se pagará una nueva expedición de licencia y la cancelación de la licencia ya existente;
+
+III. Por el cambio de nombre o denominación comercial, la cantidad de 5 UMA;
+
+IV. Por cambio de régimen de razón social, la cantidad de 4 UMA;
+
+V. Por cambio de domicilio del establecimiento, la cantidad de 5 UMA;
+
+VI. Por corrección de domicilio del establecimiento, la cantidad de 2 UMA;
+
+VII. Por disminución de la actividad comercial, la cantidad de 5 UMA;
+
+VIII. Por autorización de ampliación de horario extraordinario de funcionamiento de forma anual la cantidad del 10% (diez por ciento) por cada hora respecto al pago del refrendo que establece el artículo anterior;
+
+IX. Por reposición de licencia de funcionamiento, la cantidad de 4 UMA;
+
+X. Por copia certificada del estudio de impacto social, la cantidad de 20 UMA;
+
+XI. Por expedición de constancia de no adeudo de licencias o permisos de establecimientos comerciales, industriales o de prestación de servicios que enajenen bebidas alcohólicas, la cantidad de 1 UMA;
+
+XII. Por expedición de constancia de baja del establecimiento comercial, industrial o de prestación de servicios, la cantidad de 1 UMA;
+
+XIII. Por autorizaciones temporales de hasta 30 días el 10% del costo del Refrendo al Padrón Fiscal Municipal de Establecimientos Comerciales, Industriales o de Prestación de Servicios que enajenen Bebidas Alcohólicas de acuerdo al giro que corresponda o el de mayor similitud. Los permisos o autorizaciones de carácter temporal mayores a treinta días no especificados dentro del presente artículo, tendrán un costo proporcional al número de días para el cual se expidan, en relación con la cuota que corresponda de acuerdo a su giro que corresponde o al de mayor similitud. En ningún caso el costo será menor al que corresponda a quince días;
+
+XIV. Por autorizaciones de una sola ocasión ya sea en espectáculos, diversiones o eventos públicos que se realicen en lugares abiertos o cerrados, se pagará de conformidad con las siguientes
+
+tarifas:
+
+Concepto UMA
+
+a) Eventos deportivos, exposiciones, kermeses
+
+y eventos públicos similares. 40 por día
+
+b) Ferias, bailes tradicionales, rodeo y eventos
+
+públicos similares. 50 por día
+
+c) Conciertos, obras de teatro y bailes musicales
+
+masivos y presentaciones artísticas. 450 por evento
+
+d) Permiso para la degustación de bebidas
+
+alcohólicas en calendas o romerías. 100 por día
+
+e) Permiso para la autorización para
+
+degustación de bebidas alcohólicas en tiendas
+
+de autoservicio. 70 por día
+
+XV. Anexos para la venta de artículos por temporada de establecimientos comerciales, pagarán conforme a lo siguiente:
+
+Superficie UMA por m2 Tarifa adicional diaria UMA
+
+a) De 1 a 4 m2 1.00 0.2
+
+b) De 4.01 m2 en Adelante 1.50 0.5
+
+XVI. Por autorización de trámite especial la tarifa será de 5 UMA.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Artículo 200 Sixties.- Las licencias, permisos o autorizaciones son intransferibles, otorgados para una persona física o moral y para un lugar determinado, por lo que no podrá cambiarse de propietario y del domicilio señalado en los mismos, sin la autorización previa del Cabildo, en términos de las disposiciones legales correspondientes, sujetándose a las condiciones siguientes:
+
+I. Las licencias no serán negociables;
+
+II. La licencia no podrá ser utilizada para giro diferente al que se indique en la misma, ni se operará en sitio diferente al que fue autorizada;
+
+III. No se podrá exceder del horario permitido; y
+
+IV. No se podrá vender bebidas alcohólicas, en envase cerrado y/o abierto y/o al copeo, durante los días que así lo determinen las Leyes Federales y Estatales o cuando así lo acuerde el Ayuntamiento.
+
+Los traspasos, cambios de giro, cambios de nombre de negocio, cambios de domicilio o ampliaciones de horarios que se realicen sin el consentimiento de la Tesorería, serán nulos y se aplicará una multa al propietario de la licencia de acuerdo a lo establecido en el artículo siguiente.
+
+Asimismo, las licencias de funcionamiento que después de 5 años de la fecha de otorgamiento o último pago, no se encuentren refrendadas, serán canceladas, y aquellas licencias que no estén en actividad comercial y que por lo mismo se suspendan temporalmente, deberán de cubrir el 100 por ciento del costo anual de la licencia;
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 200 Septies.
+
+Los establecimientos comerciales, industriales y de servicios a que hace referencia esta sección serán sancionados por lo (sic) servidores públicos competentes, considerando las circunstancias particulares del caso, la situación económica del contribuyente, las reincidencias y los motivos de la sanción, conforme a lo siguiente:
+
+I. Apercibimiento por no acatar lo previsto en los Reglamentos Municipales de Minatitlán, Estado de Veracruz de Ignacio de la Llave;
+
+II. Multa de 1 a 50 unidades de medida y actualización;
+
+III. Suspensión o cancelación de la licencia; y
+
+IV. Clausura temporal hasta por 30 días naturales o definitiva.
 
 ###### Artículo 201.
 
@@ -2355,7 +2893,9 @@ Son objeto de estos derechos:
 
 I. La expedición de certificados, constancias y copias certificadas de documentos que obren en los archivos municipales; y
 
-II. La evaluación de impacto ambiental.
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+II. La evaluación de impacto ambiental; la licencia ambiental municipal, autorización para derribo de árbol no protegido, autorización de derribo de árbol en zona urbana y autorización para transporte y traslado de madera.
 
 ###### Artículo 223.
 
@@ -2391,15 +2931,21 @@ El pago de este derecho se efectuará previamente a la prestación del servicio,
 
 Por la prestación de servicios que se proporcionan en los rastros públicos municipales se causarán derechos conforme a las cuotas siguientes:
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-I. Bovino, por cada animal: 2 a 3.0 salarios mínimos;
+I. Bovino, por cada animal: 3.99 a 5.99 UMA;
 
-II. Porcino y equino, por cada animal: 0.5 a 1.0 salarios mínimos;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-III. Ovino y caprino, por cada animal: 0.2 a 0.4 salarios mínimos;
+II. Porcino y equino, por cada animal: 0.99 a 1.99 UMA;
 
-IV. Aves y otras especies menores, por cada animal: 0.01 a 0.02 salarios mínimos;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+III. Ovino y caprino, por cada animal: 0.39 a 0.79 UMA; y
+
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+IV. Aves y otras especies menores, por cada animal, 0.019 a 0.039 UMA.
 
 V. Por uso de corrales después de transcurridas cuarenta y ocho horas del ingreso del animal, por día o fracción se pagará el diez por ciento de las cantidades señaladas en las fracciones anteriores; y
 
@@ -2411,15 +2957,11 @@ VI. Por uso de frigoríficos, después de transcurridas veinticuatro horas del i
 
 Son objeto de estos derechos, los servicios de inhumación, cremación y exhumación de cadáveres o restos humanos, apertura y cierre de gavetas, depósito de restos en osario, construcción, reconstrucción y ampliación de monumentos, criptas o fosas.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 230.
 
-Son sujetos de estos derechos las personas físicas o morales que soliciten la prestación de los servicios que señala el artículo anterior, quienes pagarán, en salarios mínimos, las cuotas establecidas en la Ley de Ingresos correspondiente al periodo fiscal aplicable.
-
-> <small>(ADICIONADO, G.O. 15 DE OCTUBRE DE 2019)</small>
-
-El Ayuntamiento, por acuerdo del Cabildo, podrá exentar del pago del derecho por la prestación de los servicios de inhumaciones y refrendo de fosas a que se refiere este artículo cuando se trate de los restos mortales de las víctimas directas e indirectas del delito de desaparición forzada de personas y la cometida por particulares, a efecto de garantizar el derecho previsto en la fracción IX del artículo 73 de la Ley en Materia de Desaparición de Personas para el Estado de Veracruz de Ignacio de la Llave.
+Son sujetos de estos derechos las personas físicas o morales que soliciten la prestación de los servicios que señala el artículo anterior, quienes pagarán, en UMA, las cuotas establecidas en la Ley de Ingresos correspondiente al periodo fiscal aplicable.
 
 ### CAPÍTULO VIII. DE LOS DERECHOS POR SERVICIOS DE RECOLECCIÓN, TRANSPORTE Y DISPOSICIÓN FINAL DE DESECHOS SÓLIDOS
 
@@ -2439,7 +2981,13 @@ La base gravable se determinará de la siguiente manera:
 
 I. Por el servicio prestado a los propietarios, poseedores o usufructuarios de inmuebles destinados a uso habitacional, se aplicará una cuota mensual, en términos del presente Capítulo; y
 
-II. En los casos de establecimientos comerciales, industriales, prestadores de servicios y empresas de espectáculos públicos, se fijará una cuota mensual, en razón del peso o del volumen de los desechos.
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+II. En los casos de establecimientos comerciales, industriales, prestadores de servicios y empresas de espectáculos públicos, se fijará una cuota mensual, en razón del peso o del volumen de los desechos; y
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+III. Cuando sea el propio ciudadano quien traslade sus residuos sólidos municipales hasta el lugar de su disposición final, en razón del peso o volumen de los desechos.
 
 En caso de que se concesione el servicio, las tarifas que cobren los concesionarios, se establecerán en el título de concesión respectivo.
 
@@ -2465,9 +3013,19 @@ Aquellos contribuyentes que opten por el pago anual durante los meses de enero a
 
 ### CAPÍTULO IX. DE LOS DERECHOS POR LIMPIEZA DE PREDIOS NO EDIFICADOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 236.
 
-Son objeto de estos derechos, los servicios de limpieza que el Ayuntamiento efectúe en predios no edificados, a solicitud o en rebeldía de sus propietarios o poseedores.
+Son objeto de estos derechos, los servicios de limpieza y saneamiento que el Ayuntamiento efectúe en predios, en estado ruinoso, en desuso o, en su caso, en uso.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Se entiende por predio ruinoso aquel que se encuentre edificado y ocupado total o parcialmente, cuya estructura se encuentre en mal estado o en riesgo de desplomarse.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Predio en desuso será aquel que, edificado o no, representa un riesgo para la salubridad de los vecinos y predio en uso es aquel habitado o no, que al igual que los otros dos casos, no reúne las condiciones de limpieza, sanidad y conservación que exige este capítulo.
 
 ###### Artículo 237.
 
@@ -2480,6 +3038,88 @@ El pago de estos derechos se enterará a la Tesorería, dentro del plazo de quin
 Los derechos por limpieza de predios no edificados se causarán y pagarán de acuerdo al costo del arrendamiento de la maquinaria y la mano de obra utilizada para llevar a cabo el servicio.
 
 Los propietarios o poseedores de predios están obligados a realizar la limpieza de los mismos, para mantener la buena imagen del Municipio y evitar la proliferación de focos de infección y, en caso de no hacerlo, el servicio será prestado por el Ayuntamiento, a costa del propietario o poseedor.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 238 Bis.
+
+Son obligaciones de los propietarios o poseedores de predios o bienes inmuebles en uso, desuso o ruinosos:
+
+I. Sanearlos, limpiarlos y mantenerlos en condiciones óptimas de salud e higiene, tanto al interior como al exterior del inmueble, por cada uno de los lados que colinden con la vía pública, así como con predios particulares o de utilidad pública, debiendo estar permanentemente libres de maleza, basura o cualquier contaminante para evitar que se propaguen infecciones o se conviertan en peligro o molestia para los vecinos;
+
+II. Cercar, o en su caso, bardear los lados que colinden con la vía pública e instalar una puerta de acceso;
+
+III. Podar periódicamente las ramas de los árboles que invadan la vía pública y predios colindantes que se encuentren dentro de su propiedad;
+
+IV. En aquellos que por algún motivo tengan que almacenar materiales de construcción como arena, piedra, grava u otros, deberán estar separados al menos 1.50 metros de los muros colindantes; y
+
+V. Mantenerlos en buen estado físico, con la finalidad de evitar deterioros al patrimonio o contingencias dañosas a terceros.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 238 Ter.
+
+Cualquier persona podrá presentar denuncia ciudadana ante el Ayuntamiento por algún predio o bien inmueble que no cumpla con las especificaciones que marca el presente Capítulo.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 238 Quater.
+
+Son facultades de las autoridades municipales en materia de limpieza y saneamiento de predios en estado ruinoso, en desuso o en uso, edificados o no, las siguientes:
+
+I. Implementar programas que motiven a los propietarios y poseedores a tener en óptimas condiciones de limpieza, seguridad y sanidad, sus predios y bienes inmuebles, apoyándolos en la medida de sus posibilidades para el cumplimiento del presente Capítulo;
+
+II. Llevar a cabo inspecciones en los predios y bienes inmuebles en desuso para efecto de verificar las condiciones de limpieza y sanidad y conservación que se exige;
+
+III. Emitir las resoluciones administrativas que obliguen a los propietarios o poseedores a cumplir con estas disposiciones;
+
+IV. Sancionar el incumplimiento de lo dispuesto en el presente Capítulo;
+
+V. Coordinarse con las autoridades competentes para la identificación de predios y bienes inmuebles que no cumplan con las exigencias de este capítulo, así como ubicar a los propietarios para que pueda cumplirse lo dispuesto en el presente Ordenamiento;
+
+VI. Celebrar Convenios de Colaboración con los propietarios de predios para la limpieza y saneamiento de los mismos;
+
+VII. Emitir el reglamento respectivo, dentro de los márgenes que establecen este Código y las demás disposiciones legales aplicables; y
+
+VIII. Las demás que les confieran otras disposiciones legales.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 238 Quinquies.
+
+Para el caso de que el infractor admita su responsabilidad respecto a la limpieza y conservación de sus bienes inmuebles y acepte tomar las medidas correctivas pertinentes, firmará un convenio para que, en un plazo que no exceda de treinta días naturales, haga la limpieza y saneamiento del predio.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Artículo 238 Sexties.- Los Convenios que celebre la autoridad municipal con los propietarios de los predios deberán contener como mínimo lo siguiente:
+
+I. Lugar y fecha;
+
+II. Nombre del propietario o poseedor;
+
+III. Dimensiones del predio;
+
+IV. Ubicación; y
+
+V. Los demás que sean necesarios para la celebración del Convenio siempre y cuando esté permitido por las leyes vigentes.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 238 Septies.
+
+Si trascurridos los plazos concedidos a los responsables para corregir las irregularidades detectadas, aquéllos no lo hicieren, la autoridad municipal, sobreponiendo a la utilidad privada, el interés público, la sanidad y la seguridad de la comunidad, si lo considera pertinente podrá llevar a cabo a cuenta del propietario o poseedor las obras o acciones que correspondan para corregirlas, quedando éstos obligados a liquidar el costo de ellas al Ayuntamiento, sin perjuicio de las demás sanciones que correspondan. El importe de dichas obras o acciones tendrá el carácter de crédito fiscal de conformidad con lo dispuesto en las leyes respectivas.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 238 Octies.
+
+Se aplicarán multas de 5.483 a 109.627 UMA a quien incumpla las obligaciones previstas en el presente Capítulo, de conformidad con lo señalado en las disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 238 Nonies.
+
+Los actos administrativos derivados de la aplicación de las disposiciones del presente Capítulo se regirán por lo establecido en el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave.
 
 ### CAPÍTULO X. DE LOS DERECHOS POR LA PRESTACIÓN DE SERVICIOS DE SUPERVISIÓN TÉCNICA SOBRE LA EXPLOTACIÓN DE BANCOS DE MATERIAL
 
@@ -2495,11 +3135,13 @@ Son sujetos de este derecho, las personas físicas o morales que sean propietari
 
 Es base gravable el volumen de material extraído cuantificado en metros cúbicos o, en su defecto, por el lapso de explotación del banco de material.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-Por los derechos a que se refiere este Capítulo se pagará, por metro cúbico o fracción de material extraído, la cuota de 0.025 salarios mínimos.
+Por los derechos a que se refiere este Capítulo se pagará, por metro cúbico o fracción de material extraído, la cuota de 0.049 UMA.
 
-En el caso de que no sea posible determinar el volumen de material extraído, este derecho se pagará a razón de un salario mínimo diario.
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+En el caso de que no sea posible determinar el volumen de material extraído, este derecho se pagará a razón de 1.99 UMA.
 
 ### CAPÍTULO XI. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA TESORERÍA
 
@@ -2525,27 +3167,29 @@ Son objeto de estos derechos los servicios de inscripción de actos del estado c
 
 Son sujetos de estos derechos, las personas físicas o morales que soliciten los servicios a que se refiere el artículo anterior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 246.
 
-Los derechos a que se refiere este Capítulo se causarán y pagarán, en salarios mínimos, de acuerdo a las cuotas establecidas en la Ley de Ingresos correspondiente al periodo fiscal aplicable.
+Los derechos a que se refiere este Capítulo se causarán y pagarán, en UMA…
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+Cuando no se proporcionen los datos exactos de localización para alguno de los documentos anteriores se pagará una cuota de 0.99 UMA.
 
-Cuando no se proporcionen los datos exactos de localización para alguno de los documentos anteriores se pagará una cuota de 0.5 salarios mínimos.
+El ayuntamiento, por acuerdo del Cabildo, podrá exentar del pago del derecho por la prestación del servicio a que se refiere esta fracción, a aquellas personas que, siendo víctimas indirectas de los delitos de desaparición forzada de personas y desaparición cometida por particulares, soliciten la expedición de copias certificadas de su acta de registro de nacimiento o de la perteneciente a la víctima directa de la cual sean familiar.
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+I. Registro de nacimientos ordinarios y extemporáneos;
 
-Cuando se trate de trámites urgentes se incrementará el costo del mismo en un cien por ciento más de la cuota autorizada.
+II. Reconocimiento de hijos;
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+III. Adopciones;
 
-Cuando los documentos se soliciten por algún medio de tipo electrónico, telefónico o cualquier otro que la tecnología permita y se requiera un envío físico del mismo, el costo de cada trámite se tomará como equivalente al servicio urgente y dependiendo del lugar, los servicios de paquetería que se contemplen y el costo de envío no será incluido.
+IV. Celebración de matrimonios en oficina;
 
-> <small>(ADICIONADO, G.O. 10 DE MARZO DE 2021)</small>
+V. Celebración de matrimonios a domicilio;
 
-El ayuntamiento, por acuerdo del Cabildo, podrá exentar del pago del derecho por la prestación de servicios a que se refiere este Capítulo, a aquellas personas que, siendo víctimas indirectas de los delitos de desaparición forzada de personas y desaparición cometida por particulares, soliciten la expedición de copias certificadas de su acta de registro de nacimiento o de la perteneciente a la víctima directa de la cual sean familiar.
+VI. Inscripción de sentencias; y
+
+VII. Divorcios.
 
 ### CAPÍTULO XIII. DE LOS DERECHOS POR OCUPACIÓN DE INMUEBLES DEL DOMINIO PÚBLICO
 
@@ -2561,87 +3205,139 @@ Las personas que utilicen espacios en mercados, así como en tianguis, deberán 
 
 Los derechos por la ocupación de espacios, se describirán, calcularán y pagarán de conformidad con las cuotas establecidas en la Ley de Ingresos correspondiente al periodo fiscal aplicable.
 
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Tratándose del uso de Espacios o Instalaciones Deportivas, los derechos se describirán, calcularán y pagarán de conformidad con las cuotas establecidas en la Ley de ingresos vigente.
+
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO XIV. DE LOS DERECHOS POR SERVICIOS PRESTADOS EN MATERIA DE PROTECCIÓN CIVIL
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-###### Artículo 248 Bis
+###### Artículo 248 Bis.
 
-Por los servicios prestados en materia de Protección Civil se causarán y cobrarán en salarios mínimos, los siguientes derechos:
+Por los servicios prestados en materia de Protección Civil se causarán y cobrarán en UMA, los siguientes derechos:
 
-I. Por la emisión de dictámenes técnicos y anuencias de instalaciones públicas y privadas.
+(REFORMADO [N. DE E. REPUBLICADO], G.O. 28 DE DICIEMBRE DE 2023
 
 Alto riesgo
 
-1 a 166 metros cuadrados de superficie: 26
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-167 a 332 metros cuadrados de superficie: 52
+1 a 166 metros cuadrados de superficie: 51.98 UMA
 
-333 a 500 metros cuadrados de superficie: 80
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+167 a 332 metros cuadrados de superficie: 103.97 UMA
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+333 a 500 metros cuadrados de superficie: 159.96 UMA
+
+(REFORMADO [N. DE E. REPUBLICADO], G.O. 28 DE DICIEMBRE DE 2023
 
 Riesgo medio
 
-1 a 166 metros cuadrados de superficie: 23
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-167 a 332 metros cuadrados de superficie: 46
+1 a 166 metros cuadrados de superficie: 45.99 UMA
 
-333 a 500 metros cuadrados de superficie: 70
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+167 a 332 metros cuadrados de superficie: 91.98 UMA
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+333 a 500 metros cuadrados de superficie: 139.97 UMA
+
+(REFORMADO [N. DE E. REPUBLICADO], G.O. 28 DE DICIEMBRE DE 2023
 
 Bajo riesgo
 
-1 a 60 metros cuadrados de superficie: 7
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-61 a 125 metros cuadrados de superficie: 14
+1 a 60 metros cuadrados de superficie: 13.99 UMA
 
-126 a 190 metros cuadrados de superficie: 21
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-191 a 250 metros cuadrados de superficie: 28
+61 a 125 metros cuadrados de superficie: 27.99 UMA
 
-251 a 315 metros cuadrados de superficie: 35
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-316 a 380 metros cuadrados de superficie: 42
+126 a 190 metros cuadrados de superficie: 41.99 UMA
 
-381 a 500 metros cuadrados de superficie: 60
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-Se cobrarán 20 salarios mínimos adicionales por cada 500 metros cuadrados de superficie o fracción que exceda los primeros 500 metros cuadrados de superficie de los rubros mencionados.
+191 a 250 metros cuadrados de superficie: 55.97 UMA
 
-II. Por impartición de cada curso de capacitación a personas físicas o morales:
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-Persona física: 2
+251 a 315 metros cuadrados de superficie: 69.96 UMA
 
-Persona moral: 60
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-III. Por registro como tercero acreditado que por su actividad y experiencia se vinculen con la protección civil, para llevar a cabo cursos de capacitación, estudios de riesgo y vulnerabilidad, programas internos y especiales:
+316 a 380 metros cuadrados de superficie: 83.98 UMA
 
-Persona física: 25
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-Persona moral: 50
+381 a 500 metros cuadrados de superficie: 119.97 UMA
 
-IV. Renovación de registro como terceros acreditados.
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-Persona física: 12
+Se cobrarán 39.99 UMA adicionales por cada 500 metros cuadrados de superficie o fracción que exceda los primeros 500 metros cuadrados de superficie de los rubros mencionados.
 
-Personas morales: 24
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN II], G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-V. Por la autorización de programas especiales de Protección Civil que se presenten para la realización de un evento o espectáculo en el municipio, para promotores particulares, se pagará:
+I. Por impartición de cada curso de capacitación a personas físicas o morales:
+
+Persona física: 3.99 UMA
+
+Persona moral: 119.97 UMA
+
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN III], G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+II. Por registro como tercero acreditado que por su actividad y experiencia se vinculen con la protección civil, para llevar a cabo cursos de capacitación, estudios de riesgo y vulnerabilidad,
+
+Persona física: 49.99 UMA
+
+Persona moral: 99.98 UMA
+
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN IV], G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+III. Renovación de registro como terceros acreditados.
+
+Persona física: 23.99 UMA
+
+Personas morales: 47.99 UMA
+
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN V], G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+IV. Por la autorización de programas especiales de Protección Civil que se presenten para la realización de un evento o espectáculo en el municipio, para promotores particulares, se pagará:
 
 Aforo del evento:
 
-De 1 a 1,000 asistentes: 40
+De 1 a 1,000 asistentes: 79.98 UMA
 
-De 1,001 a 5,000 asistentes: 60
+De 1,001 a 5,000 asistentes: 119.97 UMA
 
-De 5,001 a 10,000 asistentes: 80
+De 5,001 a 10,000 asistentes: 159.96 UMA
 
-De 10,001 en adelante: 90
+De 10,001 en adelante: 179.96 UMA
 
-VI. Por la emisión de la factibilidad de Protección Civil, para
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN VI], G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-Personas físicas: 3
+V. Por la emisión de la factibilidad de Protección Civil, para Personas físicas: 5.99 UMA
 
-Personas morales: 10
+Personas morales: 19.99 UMA
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+VI. Aprobación del Programa Interno
+
+Personas físicas: 28.25 UMA
+
+Personas morales: 56.51 UMA
 
 ## TÍTULO TERCERO. DE LAS CONTRIBUCIONES POR MEJORAS
 
@@ -2823,9 +3519,13 @@ Los productos a que se refieren las fracciones I a IV del artículo anterior se 
 
 Los bienes embargados por las autoridades municipales que se depositen en almacenes o locales pertenecientes al Municipio, cuando no se retiren después de cinco días siguientes a la fecha en que queden a disposición del adquirente o del deudor contra quien se hubiese seguido el procedimiento económico-coactivo, así como los bienes depositados por cualquier otra causa en los mismos locales, causarán por concepto de almacenaje, por períodos mensuales vencidos, las cuotas siguientes:
 
-I. Por metro cuadrado o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día, 0.02 salarios mínimos; y
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-II. Los semovientes depositados en predios propiedad del Municipio, diariamente por cabeza, 0.04 salarios mínimos.
+I. Por metro cuadrado o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día 0.039 UMA; y
+
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+II. Los semovientes depositados en predios propiedad del Municipio, diariamente por cabeza, 0.079 UMA.
 
 Además de las cuotas que señala esta fracción, se cobrará el importe de la manutención y el gasto del cuidado de los animales depositados.
 
@@ -2858,6 +3558,2222 @@ Los aprovechamientos se harán efectivos, según proceda en cada caso, atendiend
 ###### Artículo 266.
 
 Las cantidades en efectivo o los bienes que el Ayuntamiento reciba por concepto de herencia, legado, donación o indemnización, se harán efectivos de acuerdo con las leyes respectivas y con las disposiciones de los testadores o donantes, o con sujeción a las resoluciones en que se decreten las indemnizaciones o a los convenios que respecto a ellas se celebren.
+
+> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+# LIBRO CUARTO. DE LA ADMINISTRACIÓN FINANCIERA MUNICIPAL DE LOS SERVICIOS DE TESORERÍA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO I. DISPOSICIONES GENERALES DEL SERVICIO DE TESORERÍA
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 267.
+
+Son atribuciones de la Tesorería, en materia de administración financiera, las siguientes:
+
+I. Recaudar, administrar, concentrar, custodiar, vigilar y situar los fondos municipales, así como los conceptos que deba percibir el Ayuntamiento, de conformidad con las disposiciones legales aplicables en materia de ingresos;
+
+II. La recepción de fondos ajenos en calidad de depósito;
+
+III. La guarda, custodia y control de fondos y valores de propiedad municipal;
+
+IV. La emisión, guarda, custodia, control, distribución y destrucción de formas valoradas;
+
+V. La programación y realización de pagos a terceros con cargo al presupuesto del Municipio;
+
+VI. La contratación de servicios bancarios o de seguros y fianzas que requiera el Ayuntamiento;
+
+VII. La constitución de garantías a favor o a cargo del Municipio, así como su guarda y custodia;
+
+VIII. Participar con voz en la formación y discusión de los presupuestos;
+
+IX. Informar al Ayuntamiento de los derechos que tenga a su favor el fisco municipal, para que sean ejercitados o deducidos por el Síndico;
+
+X. Supervisar, el primer día de cada mes, con la intervención de la Comisión de Hacienda y el Órgano de Control Interno, el corte de caja del movimiento de caudales del mes anterior. De este documento remitirán una copia al Congreso, así como a los Ediles que lo soliciten y, en su caso, contestar a éstos, por escrito y en eltérmino (sic) de diez días hábiles, las dudas que tuvieren.
+
+XI. Se deberá priorizar el cobro a través de medios electrónicos, evitando en lo posible el uso de efectivo en las operaciones de cobro y pago de contribuciones, de seguir existiendo el manejo de efectivo se deberán realizar cortes diarios de caja y su respectiva comprobación de los depósitos realizados en las cuentas bancarias autorizadas para tal efecto, siendo el Órgano de Control Interno la instancia de vigilancia y control del cumplimiento de lo anteriormente establecido.
+
+XII. Presentar al Ayuntamiento, dentro de los primeros quince días de cada mes, la cuenta del anterior para su glosa preventiva, debiendo aquél remitirla al Congreso dentro de los diez días siguientes;
+
+XIII. Proporcionar todos los informes que el Ayuntamiento o alguno de los ediles le solicite;
+
+XIV. Proponer al Presidente el nombramiento o remoción de los servidores públicos y empleados de la Tesorería;
+
+XV. Proponer al Cabildo, para su aprobación, el Reglamento Interior de la Tesorería; y
+
+XVI. Las demás que expresamente le otorguen este Código, la Ley Orgánica del Municipio Libre y demás leyes del Estado.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 268.
+
+La Tesorería emitirá los lineamientos bajo los cuales se brindarán los servicios que presta y dictará las reglas administrativas que establezcan los sistemas e instrucciones en la materia.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 269.
+
+Son obligaciones de los servidores públicos que recauden, manejen, custodien o administren fondos o valores de la propiedad municipal o al cuidado del Ayuntamiento que establece este Código, las siguientes:
+
+I. Dar o presentar los avisos, datos informes, libros, registros, padrones y demás documentos que se les exijan;
+
+II. Abstenerse de asentar hechos falsos o alterar los libros y documentos a que se refiere la fracción anterior; o coludirse con otras personas, aun cuando no estén sujetas a la vigilancia, con la mira de obtener algún beneficio para sí o para terceros;
+
+III. Abstenerse de faltar en cualquier otro caso a las obligaciones que le impongan este Código y las disposiciones reglamentarias; y
+
+IV. Garantizar el pago de las responsabilidades en que pudiese incurrir en el desempeño de su encargo. Para tal efecto el Municipio cubrirá el pago de las primas relativas a las fianzas correspondientes.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 270.
+
+El servicio de recaudación y concentración de fondos podrá efectuarse por conducto de las instituciones bancarias, crediticias o comerciales que autorice la Tesorería.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 271.
+
+Las instituciones bancarias, crediticias o comerciales pagarán intereses, por concepto de indemnización, en caso de entrega o concentración extemporánea de fondos, conforme a la tasa que al respecto determine la Tesorería, misma que se establecerá en los contratos que con ellos se celebren.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO II. DE LOS PAGOS Y MINISTRACIONES
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 272.
+
+La Tesorería y las entidades efectuarán los pagos que les correspondan con cargo al presupuesto del Municipio.
+
+Todos los pagos se realizarán a través de trasferencias electrónicas a cuentas de los beneficiarios. La Tesorería ministrará los fondos en función de sus disponibilidades financieras y del calendario financiero autorizado.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 273.
+
+Los Ayuntamientos acordarán anualmente las remuneraciones para sus integrantes y empleados de confianza, de acuerdo con los lineamientos que determine la Ley Orgánica del Municipio Libre.
+
+El pago por remuneraciones al personal de la Administración Pública Municipal centralizada se llevará a cabo por conducto de la Tesorería, con observancia de las disposiciones administrativas aplicables.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 274.
+
+La Tesorería y las entidades solamente autorizarán el pago de anticipos que estén previstos en las disposiciones legales aplicables.
+
+Todo pago o salida de valores se registrará en la contabilidad de la Tesorería y de las correspondientes entidades.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO III. DE LA PRESCRIPCIÓN DE FONDOS Y CRÉDITOS
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 275.
+
+Los depósitos y pasivos al cuidado o a disposición del Ayuntamiento, constituidos en dinero o en valores, prescribirán en los mismos términos del crédito fiscal, según dispone el presente Código.
+
+En los asuntos sobre los cuales se hayan constituido depósitos o pasivos, que no se hubieren exigido por determinación judicial a favor de beneficiario, la Tesorería tendrá en cuenta el plazo fijado en el párrafo anterior y declarará de oficio la prescripción, así como la disposición de los depósitos y pasivos respectivos a beneficio del fisco municipal.
+
+Cuando no sea posible determinar la fecha en que legalmente pudo exigirse la devolución del depósito o el pago del pasivo, se tomará como base la de la constitución del mismo, para efectos de la prescripción.
+
+Los depósitos y pasivos de los particulares en las cuentas del Ayuntamiento no generarán intereses a favor de quien los haya constituido o de sus beneficiarios.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO IV. DE LAS GARANTÍAS A FAVOR O A CARGO DEL MUNICIPIO
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 276.
+
+La Tesorería establecerá los lineamientos generales para el otorgamiento o exclusión de las garantías que deban constituirse a favor del Municipio en los actos y contratos que celebren las dependencias y entidades.
+
+El Municipio, a través de la Tesorería, será el beneficiario de todas las garantías que se otorguen.
+
+Lo anterior, sin perjuicio de las atribuciones del Síndico, en el caso de que el cobro de garantías genere procedimientos formal o materialmente jurisdiccionales.
+
+Corresponde a las dependencias y entidades integrar y remitir a la Tesorería los expedientes de contratos en los que se hubieren otorgado garantías de cumplimiento a favor del Municipio, para que ésta proceda a ejercitar los derechos que correspondan.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 277.
+
+El Municipio está exento de otorgar garantías y depósitos para el cumplimiento de sus obligaciones de pago con cargo a su presupuesto, con excepción de las previstas para garantizar el pago de deuda pública municipal directa o contingente.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 278.
+
+La Tesorería calificará, aceptará, registrará, conservará en guarda y custodia, sustituirá, cancelará, devolverá y hará efectivas, según proceda, las garantías que se otorguen a favor del Municipio.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 279.
+
+La garantía del interés fiscal se constituirá en los casos y con las formalidades y requisitos previstos en el Libro Segundo de este Código.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 280.
+
+Las garantías que reciba el Ayuntamiento por contratos administrativos, en concursos de obras y adquisiciones, anticipos, permisos, autorizaciones, concesiones y otras obligaciones de naturaleza no fiscal, se otorgarán a nombre del Municipio de que se trate, y se constituirán conforme a las formalidades que señalen las disposiciones legales aplicables.
+
+Las garantías a que alude el párrafo anterior se podrán hacer efectivas por la Tesorería o la Sindicatura, con sujeción a los procedimientos que establezcan los ordenamientos legales de la materia.
+
+Tratándose de entidades paramunicipales creadas por dos o más ayuntamientos, las garantías se constituirán a favor de dichas entidades y se harán efectivas en términos de las disposiciones legales aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO V. DE LA CUSTODIA Y VIGILANCIA DE FONDOS Y VALORES
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 281.
+
+La Tesorería ejercerá los derechos patrimoniales de los valores que representen inversiones financieras del Municipio.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 282.
+
+Tratándose de empresas de participación municipal y de aquellas en que el Municipio tenga una participación minoritaria, el Cabildo designará al representante del Ayuntamiento ante los órganos de gobierno o las asambleas generales de accionistas o de socios de la entidad.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 283.
+
+La Tesorería concentrará, revisará, integrará y custodiará la información contable del movimiento de los fondos y valores de la propiedad o al cuidado del Ayuntamiento y elaborará los estados contables para su integración en la cuenta pública municipal.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 284.
+
+La contabilidad de fondos municipales a cargo de la Tesorería deberá:
+
+I. Registrar diariamente la información del ingreso y del egreso efectuados;
+
+II. Conciliar la contabilidad con la información que registren las instituciones bancarias del movimiento de fondos de las cuentas municipales y la cuenta concentradora de la Tesorería;
+
+III. Establecer y mantener los registros necesarios que provean la información para el análisis económico, financiero y de toma de decisiones; y
+
+IV. Aportar los elementos que permitan determinar la responsabilidad de los servidores públicos en materia de manejo de fondos y valores mediante controles contables y administrativos.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 285.
+
+Los ingresos resultantes de la recaudación se reflejarán de inmediato en los registros de la oficina receptora, salvo que se trate de instituciones bancarias, crediticias o comerciales autorizadas, en cuyo caso éstas efectuarán el registro en los plazos establecidos en las autorizaciones relativas que emita la Tesorería.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 286.
+
+Los bienes que excepcionalmente se reciban para el pago de adeudos a favor del Ayuntamiento, conforme a lo dispuesto en este Código, se registrarán en las cuentas de ingresos de la Tesorería. Tratándose de entidades paramunicipales creadas por dos o más ayuntamientos se registrarán en las cuentas de ingresos de su respectiva área financiera.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 287.
+
+Los fondos que resulten del ejercicio de los derechos patrimoniales, inherentes a los valores que representen inversiones financieras del Ayuntamiento, deberán registrarse en el sistema de contabilidad de fondos municipales.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 288.
+
+Los créditos no fiscales a cargo del Municipio se registrarán en la contabilidad de las dependencias de la Administración Pública Municipal. La Tesorería comunicará a las dependencias y entidades la forma y plazos en que deban rendir cuenta del manejo de fondos, bienes y valores municipales.
+
+En las entidades paramunicipales creadas por dos o más ayuntamientos los créditos no fiscales se registrarán en su contabilidad.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 289.
+
+En caso de que el Ayuntamiento cuente con varias cajas receptoras, la Tesorería vigilará y comprobará el funcionamiento adecuado de las oficinas que recauden, manejen, administren o custodien fondos o valores de la propiedad o al cuidado del Ayuntamiento y el cumplimiento de las obligaciones que, a este respecto, incumben a los servidores públicos, a efecto de que se ajusten a las disposiciones legales respectivas. Para ello, tendrá las facultades siguientes:
+
+I. Efectuar visitas, inspecciones y auditorías que tengan por objeto la revisión de operaciones de los ingresos y los egresos, examinando los aspectos contables y legales correspondientes;
+
+II. Examinar si los remanentes presupuestarios, ingresos propios, disponibilidades financieras, contratación de servicios bancarios, cuentas bancarias y sus rendimientos, se ajustan a lo establecido en el presupuesto del Municipio y demás disposiciones que para el efecto expidan la Tesorería y la Contraloría en el ámbito de su competencia;
+
+III. Comprobar la existencia de los fondos y valores que obren en poder de las oficinas del Municipio;
+
+IV. Participar, con carácter obligatorio, en los actos relacionados con la instalación, entrega y clausura de oficinas del Municipio que administren fondos y valores, en la destrucción de valores que realicen las autoridades administrativas del Municipio y los demás que fije la Tesorería;
+
+V. Informar a las autoridades competentes acerca de las anomalías o deficiencias que se observen y recomendar las medidas preventivas y correctivas necesarias; y
+
+VI. Las demás que de manera expresa determinen este Código u otras leyes.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 290.
+
+Los actos u omisiones de que tenga conocimiento la Tesorería, que impliquen incumplimiento de este Código y demás disposiciones legales, se comunicarán a la Contraloría y a la Comisión de Hacienda, para que se practiquen las investigaciones y auditorías necesarias. Si de ellas apareciere la probable responsabilidad administrativa de los servidores públicos, se impondrán las sanciones disciplinarias correspondientes, conforme al procedimiento previsto en el Código de la materia, de ser de carácter penal, el Síndico presentará la denuncia o querella respectiva.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 291.
+
+Cuando con motivo del ejercicio de la facultad de vigilancia, la Tesorería determine fondos o valores sobrantes o faltantes, procederá como sigue:
+
+I. Si es sobrante, ordenará su registro en la contabilidad, haciéndolo del conocimiento de la dependencia para que lo concentre de inmediato; y
+
+II. Cuando sea faltante, requerirá al responsable para que efectúe el reintegro en el acto; si el responsable justifica satisfactoriamente la razón del mismo, únicamente dará cuenta pormenorizada a la Tesorería. Si no lo justifica debidamente o no lo restituye, independientemente de cuidar que en el primer supuesto se dé entrada a las cantidades o valores faltantes, informará a la Contraloría o su equivalente, para los efectos que procedan conforme a la ley.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO VI. DE LA COLABORACIÓN ADMINISTRATIVA
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 292.
+
+El Ayuntamiento, previa autorización del Congreso, podrá suscribir con el Estado, con Municipios, con organismos descentralizados, con entidades auxiliares de la Administración Pública de ambos órdenes de gobierno o con organismos autónomos, Convenios de Colaboración Administrativa, que tengan por objeto la ejecución de acciones en materia hacendaria municipal, entero de cuotas y aportaciones de seguridad social o prestación de servicios públicos.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 293.
+
+En el caso de que la colaboración administrativa sea entre el Municipio y el Estado o sus organismos descentralizados, en materia de gasto o deuda, entero de cuotas y aportaciones de seguridad social o prestación de servicios públicos, los procedimientos y destinos del mismo serán los que se deriven de los convenios de colaboración, en los que también podrá determinarse la constitución de fondos para la ejecución de programas específicos.
+
+En los Convenios de Colaboración Administrativa que el Ayuntamiento suscriba con el Estado o sus organismos descentralizados para el entero de cuotas y aportaciones de seguridad social, o para la prestación de algún servicio público, podrá pactarse que el Ayuntamiento, previo acuerdo de Cabildo y del Congreso, solicite al Gobierno del Estado el descuento directo aplicable a sus participaciones federales para realizar el entero al organismo que brinde la seguridad social a los trabajadores del Municipio o para aquel que preste el servicio público de que se trate.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 294.
+
+Los Convenios de Colaboración Administrativa que comprometan al Municipio por un plazo mayor a la gestión del Ayuntamiento de que se trate, deberán ser aprobados por el Cabildo y por el Congreso, en la forma y términos que señale la legislación aplicable.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+## TÍTULO SEGUNDO (SIC). DEL PRESUPUESTO DE EGRESOS Y GASTO PÚBLICO
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO I. DEL PRESUPUESTO DE EGRESOS
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+#### SECCIÓN I. DE LA INTEGRACIÓN Y ESTRUCTURA DEL PRESUPUESTO DE EGRESOS
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 295.
+
+El presente Capítulo tiene por objeto normar y regular el presupuesto de egresos.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 296.
+
+La aplicación de este Capítulo será a cargo de la Comisión de Hacienda y del Presidente a través de la Tesorería.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 297.
+
+El Presupuesto de Egresos para el Municipio será el que apruebe el Cabildo, a iniciativa de la Comisión de Hacienda, para solventar, durante el período de un año a partir del día primero de enero, las actividades, las obras y los servicios públicos previstos en los programas a cargo de las dependencias, así como los criterios especiales para su ejercicio y control.
+
+El Presupuesto de Egresos del Municipio será aprobado con base en los ingresos disponibles para cada ejercicio fiscal, dentro de los que se considerarán los obtenidos como consecuencia de la realización de las operaciones de financiamiento reguladas por este ordenamiento.
+
+Asimismo, contendrá las erogaciones previstas en cada año, correspondientes a las entidades y dependencias a cuyos programas se destinen recursos comprendidos en la Ley de Ingresos del Municipio.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 298.
+
+El gasto público municipal se basará en presupuestos que se formularán con apoyo en programas que señalen objetivos, metas de las dependencias y entidades responsables de su ejecución. Los presupuestos se elaborarán para cada año calendario y se fundarán en costos.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 299.
+
+La Comisión de Hacienda, al examinar los presupuestos, cuidará que simultáneamente se defina el tipo y fuente de recursos para su financiamiento.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 300.
+
+El Presupuesto de Egresos del Municipio comprenderá las previsiones de gasto público que habrán de realizar las entidades y dependencias por conducto de la Tesorería.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 301.
+
+Para la formulación del proyecto de Presupuesto de Egresos del Municipio, las entidades y dependencias que deban quedar comprendidas en el mismo, elaborarán sus anteproyectos de presupuesto con base en los programas respectivos.
+
+Las entidades y dependencias remitirán su respectivo anteproyecto presupuestal a la Tesorería, con sujeción a las normas que el Cabildo establezca por medio de la propia Tesorería.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 302.
+
+La Comisión de Hacienda validará los proyectos de presupuesto de las dependencias y de las entidades que tengan a su cargo programas que deban quedar comprendidos en la integración del proyecto de presupuesto del Municipio.
+
+La Comisión de Hacienda, en coordinación con la Tesorería, queda facultada para formular el proyecto de presupuesto de las entidades y dependencias, en el caso de que no le sea presentado en los plazos que al efecto se le hubiere señalado, sin perjuicio de la responsabilidad a que se haga acreedor el titular de la entidad omisa.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 303.
+
+El proyecto de Presupuesto de Egresos del Municipio se integrará con los documentos que se refieran a:
+
+I. Descripción clara de los programas que sean la base del proyecto, en los que se señalen objetivos, metas y dependencias y entidades responsables de su ejecución, así como su costo estimado por programa;
+
+II. Explicación y comentarios de los principales programas y, en especial, de aquellos que abarquen dos o más ejercicios fiscales;
+
+III. Estimación de ingresos por cada concepto de contribuciones municipales, aprovechamientos, productos, participaciones y aportaciones federales, y demás ingresos; contenida en el presupuesto respectivo y propuesta de gastos del ejercicio fiscal para el que se propone;
+
+IV. Ingresos y gastos reales del último ejercicio fiscal;
+
+V. Tabulador de sueldos de los ediles, empleados de confianza y trabajadores de base, así como todos aquellos, cualquiera que sea su denominación, que presten servicios de manera subordinada permanentemente o de forma eventual al Ayuntamiento;
+
+VI. Estimación de los ingresos y gastos del ejercicio fiscal en curso, de acuerdo a su clasificación económica, administrativa y funcional;
+
+VII. Situación de la deuda pública al fin del último ejercicio fiscal y estimación de la que se tendrá al fin de los ejercicios fiscales en curso e inmediatos siguientes;
+
+VIII. La contratación de operaciones de financiamiento que se someterán a la consideración del Congreso;
+
+IX. Situación de la Tesorería al fin del último ejercicio fiscal y estimación de la que se tendrá al fin de los ejercicios fiscales en curso e inmediato siguiente;
+
+X. Comentarios sobre las condiciones económicas, financieras y hacendarías actuales y las que se prevén para el futuro; y
+
+XI. En general, toda la información que se considere útil para mostrar la proposición en forma clara y completa.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 304.
+
+Con objeto de lograr un mejor aprovechamiento y eficiencia en el ejercicio de los recursos públicos, la Comisión de Hacienda, el Presidente y el Tesorero analizarán e integrarán, durante la segunda quincena de agosto, los proyectos de presupuestos de egresos elaborados por las Comisiones, así como de las dependencias y entidades.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 305.
+
+La Comisión de Hacienda presentará al Cabildo, para su discusión y, en su caso, aprobación, los proyectos presupuestales de Ingresos y de Egresos del Municipio, durante el mes de septiembre del año anterior al de su vigencia, para su posterior remisión al Congreso.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 306.
+
+Una vez aprobado el presupuesto de egresos y por causas supervenientes, podrá ser objeto de ampliación presupuestal o de creación de partidas, en cuyo caso, la Tesorería proveerá lo conducente para que sea agregada la correspondiente justificación del ingreso, si con tal proposición se altera el equilibrio presupuestal.
+
+La Ley de Ingresos del Municipio señalará los conceptos de ingresos ordinarios que se establecen en este Código, indicando el monto estimado a obtener por cada uno de ellos en el ejercicio fiscal.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 307.
+
+La división de los capítulos en conceptos y partidas específicas se hará con base en el instructivo que al efecto emita el Congreso.
+
+El presupuesto se ejercerá con base en los calendarios financieros y de metas que se establezcan, conforme a los criterios, manuales y lineamientos que determine la Tesorería.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+#### SECCIÓN II. DE LA INICIATIVA, APROBACIÓN Y REFORMAS DEL PRESUPUESTO
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 308.
+
+El Ayuntamiento presentará al Congreso, en el curso de la segunda quincena del mes de septiembre, el proyecto anual de Ley de Ingresos, con sus propuestas de tasas, cuotas y tarifas aplicables para el cobro de las contribuciones municipales y de los productos, así como el Presupuesto de Egresos del año siguiente.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 309.
+
+Cuando las asignaciones establecidas en el presupuesto resultaren insuficientes para cubrir el servicio a que se destinen, las dependencias y entidades solicitarán al Presidente, a través de la Tesorería, las modificaciones correspondientes a su respectivo presupuesto. Dichas solicitudes se acompañarán con los informes que las justifiquen.
+
+Cuando se considere justificada la modificación, si existieran recursos suficientes, la Tesorería preparará la modificación para someterla a consideración del Presidente y del Cabildo que, en su caso, la aprobará, lo cual se hará del conocimiento del Congreso.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 310.
+
+Cuando, con posterioridad a la aprobación del presupuesto, surjan situaciones extraordinarias o imprevisibles de la economía nacional que repercutan en el Municipio o cuando se trate de la aplicación de leyes, decretos o acuerdos para los que se requieran erogaciones adicionales no previstas, la Tesorería solicitará la aprobación del Cabildo para modificar el Presupuesto de Egresos, con el mismo procedimiento aplicable de la aprobación del presupuesto original y la propuesta de ingresos para cubrirlas.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 311.
+
+La formulación de los programas institucionales se sujetará a la estructura programática aprobada por la Tesorería, de conformidad con los lineamientos que para tales fines expida.
+
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO II. DEL GASTO PÚBLICO
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+#### SECCIÓN ÚNICA. DEL EJERCICIO DEL GASTO PÚBLICO MUNICIPAL
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 312.
+
+El gasto público municipal comprende las erogaciones por concepto de gasto corriente, gasto de capital y servicio de la deuda pública que se realicen con recursos aprobados en la Ley de Ingresos del Municipio para la ejecución de programas a cargo de:
+
+I. Las dependencias;
+
+II. Los organismos;
+
+III. Las empresas de participación municipal mayoritaria; y
+
+IV. Los fideicomisos en que el fideicomitente sea el Ayuntamiento o alguna de las entidades mencionadas en las fracciones II y III.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 313.
+
+La Tesorería efectuará los cobros y los pagos correspondientes a las erogaciones a cargo de las dependencias.
+
+Por lo que se refiere a las entidades, se estará a los términos que en cada caso se convengan, considerando la naturaleza de los programas a ejecutarse y las condiciones de pago que, en su caso, se pacten con contratistas, proveedores o cualquier otro tipo de acreedores.
+
+La ministración de los fondos correspondientes será autorizada en todos los casos por el Presidente y la Comisión de Hacienda, de conformidad con el Presupuesto de Egresos del Municipio.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 314.
+
+Las entidades informarán a la Tesorería, dentro de los plazos y en la forma que ésta les dé a conocer oportunamente, los elementos que permitan conocer el destino del presupuesto municipal ejercido.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 315.
+
+Una vez concluida la vigencia de un Presupuesto de Egresos del Municipio, sólo procederá hacer pagos con base en él, por los conceptos efectivamente devengados en el año que corresponda y siempre que se hubieren contabilizado, debida y oportunamente, las operaciones correspondientes.
+
+En el ejercicio del gasto público no podrán mezclarse los presupuestos de dos o más años.
+
+En casos excepcionales, debidamente fundados, deberán existir recursos provisionados para el efecto de pagos en ejercicios posteriores o, en su defecto, se registrarán dichos pagos como deuda para el siguiente ejercicio.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 316.
+
+Quienes efectúen gasto público municipal estarán obligados a proporcionar a la Tesorería la información que se les solicite y a permitirle al personal de ésta la práctica de visitas para verificar el cumplimiento de las obligaciones derivadas de este ordenamiento y de la normatividad expedida con base en él.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 317.
+
+El Ayuntamiento y el Órgano de Fiscalización Superior del Estado, en el ámbito de sus respectivas competencias, basados en las disposiciones de este Código y en los lineamientos que expida el Congreso, emitirán los criterios y lineamientos para la administración del gasto público municipal, los que serán de observancia obligatoria para las dependencias y entidades.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 318.
+
+El Cabildo asignará los recursos que se obtengan en exceso de los previstos en la Ley de Ingresos del Municipio, a los programas que considere prioritarios y autorizará los traspasos de partidas cuando sea procedente, dándole, en su caso, la participación que corresponda a entidades interesadas. Tratándose de ingresos extraordinarios derivados de empréstitos, el gasto deberá sujetarse a lo dispuesto por este ordenamiento, los parámetros establecidos en el presupuesto de egresos y las asignaciones que acuerde el Ayuntamiento por conducto de la Tesorería. En todo caso, la aplicación de esta disposición será informada al Congreso al rendir la cuenta pública.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 319.
+
+El gasto público municipal se sujetará al monto autorizado por los programas y partidas presupuestales, salvo que se trate de las partidas que se señalen como de ampliación automática en los presupuestos para aquellas erogaciones cuyo monto no sea posible prever.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 320.
+
+El Cabildo determinará la forma en que deberán invertirse los subsidios que otorgue, cuyos beneficiarios proporcionarán a la Tesorería la información que se les solicite sobre la aplicación que hagan de los mismos, en la forma, plazos y términos que ésta determine.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 321.
+
+El Cabildo podrá autorizar la participación municipal en empresas, sociedades y asociaciones civiles y mercantiles, ya sea para su creación o para la adquisición de todo o parte de su capital social o su patrimonio, previa autorización del Congreso.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO III. DE LA ADMINISTRACIÓN DE LOS RECURSOS
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+#### SECCIÓN I. DISPOSICIONES GENERALES EN MATERIA DE ADMINISTRACIÓNDERECURSOS (SIC) PÚBLICOS
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 322.
+
+No se podrá hacer pago alguno que no esté comprendido en el presupuesto de egresos autorizado o modificado conforme a los lineamientos que señala este Código.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 323.
+
+Las entidades se abstendrán de formalizar o modificar convenios, cuando dicha modificación genere una erogación mayor y no se cuente con disponibilidad presupuestal en la partida correspondiente.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 324.
+
+Las entidades serán responsables de la administración de los recursos municipales y federales de que dispongan para la realización de los programas a su cargo.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 325.
+
+Tratándose de fondos estatales y, en su caso, federales el Ayuntamiento y las entidades ejercerán y controlarán los recursos que les sean transferidos para la realización de los programas convenidos entre el Estado o la Federación y el Municipio, de manera que se aplique la normatividad correspondiente y las disposiciones específicas para su ejercicio.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 326.
+
+La Tesorería será responsable de llevar un padrón de servidores públicos autorizados para realizar y tramitar pagos con cargo a fondos públicos; para tal efecto se establecerán los criterios y los lineamientos procedentes.
+
+Los servidores públicos que administren fondos y valores del Municipio caucionarán debidamente sumanejo (sic).
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 327.
+
+Tratándose de operaciones con cargo a partidas de dos o más ejercicios presupuestales, se desglosarán los montos que correspondan a cada uno de ellos.
+
+En el caso de que el Ayuntamiento y las entidades requieran efectuar erogaciones por concepto de adeudos provenientes de ejercicios anteriores, los pagos se harán conforme a los montos establecidos con cargo a las partidas de gasto que correspondan y estén previstas en el presupuesto vigente, sin que su pago implique la asignación de recursos adicionales.
+
+La procedencia de los pagos señalados en los párrafos anteriores será verificada por los órganos de control respectivos.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 328.
+
+Las entidades no contraerán obligaciones que impliquen comprometer recursos de los subsecuentes ejercicios presupuestales, así como tampoco celebrarán contratos o ejecutarán proyectos de infraestructura de largo plazo, ni otorgarán concesiones, permisos, licencias y autorizaciones o cualquier otro acto de naturaleza análoga, que implique la posibilidad de algún gasto contingente o adquirir obligaciones futuras.
+
+En casos excepcionales, debidamente justificados, el Presidente y el Síndico, previo acuerdo de Cabildo y conforme a las disposiciones legales aplicables, podrán celebrar contratos de obras públicas, adquisiciones o de otra índole que rebasen las asignaciones presupuestales aprobadas para el año. En estos casos, los compromisos excedentes serán cubiertos con la disponibilidad presupuestal de los años subsecuentes, siempre y cuando sea dentro de ese período constitucional.
+
+Para los efectos del párrafo anterior, la Tesorería recabará los proyectos respectivos, mismos que contendrán la estimación de la cantidad total a erogar, el monto total de la operación, la justificación del gasto, el periodo de ejecución, el calendario de ministraciones e indicación de las áreas responsables de su ejercicio.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 329.
+
+Las entidades se sujetarán a las disposiciones legales referentes a la aprobación de su presupuesto y rendición de cuentas que se determinen en los ordenamientos que las crean, con observancia, en lo que les sea aplicable, de las disposiciones que sobre el ejercicio del gasto se detallan en este Título.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 330.
+
+Las entidades también reportarán en tiempo y forma a la Tesorería la información presupuestal y contable que le solicite para la integración del presupuesto y de la cuenta pública del Municipio.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+#### SECCIÓN II. DE LA ADMINISTRACIÓN DE LOS RECURSOS FINANCIEROS
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 331.
+
+La Tesorería dará a conocer el presupuesto de egresos autorizado por el Cabildo y el calendario a las dependencias y entidades, durante los primeros cinco días del mes de enero de cada año.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 332.
+
+Con base en el presupuesto de egresos autorizado, las dependencias y entidades harán las adecuaciones que correspondan a sus programas operativos y calendarios anuales y los presentarán a la Tesorería antes de que concluya el mes de enero de cada año.
+
+Se faculta a la Tesorería para elaborar los calendarios, cuando éstos no se le hubieran presentado en tiempo y forma por las dependencias y entidades.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 333.
+
+La Tesorería, con la supervisión de la Comisión de Hacienda, autorizará la suficiencia presupuestaria a las dependencias y entidades, conforme a la calendarización respectiva y al monto global estimado para atender los programas a ejecutar.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 334.
+
+En el ejercicio de sus presupuestos, las dependencias y entidades se sujetarán estrictamente a los calendarios de gasto que establezca la Tesorería.
+
+Las dependencias y entidades respetarán la distribución presupuestal autorizada por la Tesorería.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 335.
+
+Los recursos presupuestales que no se hubieren destinado oportunamente a efectuar los pagos para los que fueron ministrados, se reintegrarán de inmediato a la Tesorería.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 336.
+
+Los montos presupuestales no devengados y las economías presupuestales, previa autorización del Cabildo, podrán aplicarse a programas prioritarios de las dependencias y entidades que los originen, conforme a los lineamientos administrativos que al efecto expida la Tesorería.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 337.
+
+Corresponde a las dependencias y entidades operar y controlar los fondos revolventes, los cuales se ejercerán de acuerdo a los criterios y lineamientos que emita la Tesorería.
+
+Las dependencias y entidades, durante la primera quincena del mes de diciembre, cancelarán los fondos revolventes del ejercicio del año anterior de sus áreas administrativas o, en su defecto, solicitarán a éstas la reintegración total de los recursos no ejercidos.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 338.
+
+Todas las dependencias y entidades informarán a la Tesorería, dentro de los primeros cinco días del mes de enero de cada año, el monto, estructura y características de su pasivo circulante al fin del año anterior.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 339.
+
+Las ministraciones de fondos a las dependencias y entidades serán autorizadas por la Tesorería, de acuerdo con los programas y metas correspondientes.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 340.
+
+La Tesorería, previo acuerdo del Presidente y de la Comisión de Hacienda, autorizará las transferencias de un área administrativa a otra, entre capítulos o conceptos, partidas no comprometidas del objeto del gasto, para lo cual verificará previamente:
+
+I. Que se justifique la aplicación de los recursos solicitados, en función de la disponibilidad y el cumplimiento de las metas;
+
+II. Que no se cuenten con recursos ociosos o aplicados en operaciones que originen rendimientos de cualquier clase;
+
+III. El avance programático presupuestal de los programas, subprogramas y proyectos, con el propósito de regular el ritmo de su ejecución con base en lo programado; y
+
+IV. Que la transferencia se efectúe de una partida no prioritaria a otra que sí lo sea o viceversa con la justificación y previa autorización del Tesorero.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 341.
+
+El Presidente, por conducto de la Tesorería, previo acuerdo del Cabildo, efectuará las reducciones a los montos de los presupuestos aprobados a las dependencias y entidades, cuando se presenten contingencias que repercutan en una disminución de los ingresos presupuestales.
+
+Para los efectos del párrafo anterior, se tomarán en cuenta las circunstancias económicas y sociales que priven en el Municipio y, en su caso, la naturaleza y características particulares de operación de las dependencias y entidades.
+
+Los ajustes y reducciones que se efectúen en observancia de lo anterior, se realizarán en forma selectiva y sin afectar las metas sustantivas del gasto social y de los principales proyectos de inversión, optando preferentemente por aquellos de menor impacto social y económico.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 342.
+
+Los montos de ingresos excedentes a los previstos en la Ley de Ingresos del Municipio podrán generarse a partir de:
+
+I. Excedentes a las estimaciones en la recaudación de contribuciones municipales y rendimientos financieros;
+
+II. Remanentes que tengan las entidades entre sus ingresos y gastos netos que se consignen como erogaciones recuperables dentro de sus presupuestos;
+
+III. Ingresos que obtenga el Municipio como consecuencia de la enajenación de bienes muebles o inmuebles no prioritarios; así como de los provenientes de la recuperación de seguros y fianzas; y
+
+IV. Ingresos provenientes de apoyos adicionales del Gobierno Federal o Estatal.
+
+El Cabildo podrá asignar los recursos excedentes a los programas que considere convenientes.
+
+La Tesorería queda facultada para la ministración de los mismos.
+
+De los movimientos que se efectúen en los términos de este artículo, el Ayuntamiento informará al Congreso al rendir la Cuenta Pública Municipal de dicho ejercicio.
+
+Los recursos excedentes preferentemente se destinarán a gastos contingentes no previstos y a proyectos de inversión adicionales a realizarse durante el transcurso del ejercicio.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+#### SECCIÓN III. DE LA ADMINISTRACIÓN DE LOS RECURSOS HUMANOS
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 343.
+
+En la administración de los recursos humanos, el Ayuntamiento se sujetará a lo dispuesto por este Código, la Ley Estatal del Servicio Civil, las condiciones generales de trabajo y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 344.
+
+La dependencia encargada de la administración de los recursos humanos será la que designe el Cabildo.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 345.
+
+Para la contratación de personal deberá mediar opinión de la Tesorería, respecto de la disponibilidad presupuestal para cubrir sus salarios y prestaciones.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 346.
+
+Los Municipios y sus entidades, en el ejercicio del presupuesto, en el capítulo de servicios personales deberán:
+
+I. Apegarse estrictamente a los niveles establecidos en los tabuladores de sueldos aprobados por el Cabildo;
+
+II. Reducir el pago de horas extras y de compensaciones, a fin de optimizar los resultados del personal en horas normales de trabajo;
+
+III. Tratándose de remuneraciones adicionales por jornadas y horas extraordinarias, así como de otras prestaciones del personal que labore en las entidades con asignación presupuestal que se rijan por contratos colectivos de trabajo, los pagos se efectuarán de acuerdo con las estipulaciones contractuales que se mantengan vigentes a esa fecha;
+
+IV. Vigilar permanentemente que no se realicen pagos por concepto de compensaciones de cualquier naturaleza, a título de representación en Juntas Directivas, Consejos, Comités Técnicos y otros.
+
+V. Sujetarse a los lineamientos existentes para realizar las erogaciones necesarias para el desempeño de comisiones oficiales;
+
+VI. Vigilar que no se realicen pagos de servicios personales por medio de fondos revolventes; y
+
+VII. Vigilar que los servidores públicos, en el desempeño de su actividad, no incurran en duplicidad de funciones.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 347.
+
+Las dependencias y entidades deberán analizar las estructuras orgánicas y ocupacionales, a efecto de promover su racionalización, sin detrimento de su eficiencia y productividad para cumplir con las prioridades que se establezcan (sic) el Plan Municipal de Desarrollo.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 348.
+
+Los servidores públicos adscritos a las dependencias y entidades se abstendrán de intervenir o de participar en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier otro servidor, cuando tenga interés personal, familiar o de negocios en el caso y pueda derivar alguna ventaja o beneficio para ellos.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 349.
+
+El Ayuntamiento y las entidades se abstendrán de contratar personas inhabilitadas en el servicio público municipal, estatal o federal, para desempeñar un empleo, cargo o comisión.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 350.
+
+El Ayuntamiento y entidades no comprometerán los recursos del capítulo de servicios personales para ejercicios posteriores; ni asumirán compromisos anteriores que no hayan sido devengados en términos de las disposiciones contractuales vigentes, salvo por resolución judicial de autoridad competente en la materia, asimismo; cualquier modificación a las estructuras orgánicas o remuneraciones se deberán cubrir con recursos presupuestales del ejercicio fiscal en que se realicen, de tal forma que no generen necesidades presupuestales adicionales en los años subsecuentes.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 351.
+
+Si existen contratos por honorarios, no incrementarán sus percepciones ni obtendrán percepciones adicionales a las establecidas en el contrato respectivo.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO IV. DE LA CONTABILIDAD Y CUENTA PÚBLICA
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+#### SECCIÓN I. DE LA CONTABILIDAD GUBERNAMENTAL
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 352.
+
+La Tesorería y cada entidad, en el ámbito de su competencia, llevarán su propia contabilidad, la cual incluirá las cuentas para registrar tanto los activos, pasivos, capital o patrimonio, ingresos, costos y gastos, como las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas de su propio presupuesto.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 353.
+
+La contabilidad del Ayuntamiento y la correspondiente a las entidades se llevará con base acumulativa para determinar costos y facilitar la formulación, ejercicio y evaluación de los presupuestos y sus programas con objetivos, metas y unidades responsables de su ejecución, a efecto de integrar la información que coadyuve a la toma de decisiones; así como a la verificación y evaluación de las actividades realizadas.
+
+Los sistemas de contabilidad que establezcan los manuales e instructivos que el Congreso apruebe se operarán en forma que faciliten la fiscalización de los activos, pasivos, ingresos, costos, gastos, avances en la ejecución de programas y, en general, de manera que permitan medir la eficacia y eficiencia del gasto público municipal.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 354.
+
+Las dependencias y entidades suministrarán a la Tesorería mensualmente, la información presupuestal, contable, financiera y de otra índole que requiera la propia Tesorería.
+
+Será responsabilidad de la Tesorería la confiabilidad de las cifras consignadas en su contabilidad, así como de la representatividad de los saldos de las cuentas de balance, en función de los activos y pasivos reales de la misma, adoptando para ello las medidas de control y depuración correspondientes.
+
+A su vez, la Tesorería consolidará la información para que el Cabildo la apruebe y la remita al Congreso, a efectos de control legislativo del gasto.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 355.
+
+La Tesorería emitirá las instrucciones sobre la forma y términos en que las entidades y dependencias comprendidas en el Presupuesto de Egresos del Municipio, deban llevar sus registros auxiliares y contabilidad y, en su caso, rendirle sus informes y cuentas para fines de contabilidad y consolidación. Asimismo, examinará periódicamente el funcionamiento del sistema y los procedimientos de contabilidad de cada entidad y dependencia y podrá autorizar su modificación o simplificación, únicamente por lo que se refiere al gasto público contenido en el Presupuesto.
+
+Las entidades y dependencias someterán a la consideración de la Tesorería las modificaciones que consideren necesarias o convenientes a su sistema de contabilidad.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 356.
+
+Los estados financieros y demás información financiera, presupuestal y contable, serán consolidados por la Tesorería, la que será responsable de:
+
+I. Formular la cuenta anual de la Hacienda Pública Municipal, en términos del artículo 20 de la Ley de Fiscalización Superior para el Estado de Veracruz de Ignacio de la Llave;
+
+II. Proporcionar al Presidente y a la Comisión de Hacienda la información que el Órgano de Fiscalización Superior del Estado requiera en el ejercicio de sus funciones;
+
+III. Coadyuvar con el Presidente y la Comisión de Hacienda en la solventación de las observaciones del Órgano de Fiscalización Superior del Estado;
+
+IV. Administrar y conservar la documentación que contenga la información necesaria para la comprobación, origen y aplicación del gasto público, por el plazo que señale la ley de la materia;
+
+V. Proporcionar al Presidente y a la Comisión de Hacienda la información necesaria para Justificar ante las autoridades competentes, la aplicación de recursos transferidos al Municipio de fondos estatales o federales, en los términos de los ordenamientos aplicables;
+
+VI. Efectuar el registro contable del patrimonio de bienes muebles e inmuebles del Municipio;
+
+VII. Participar en la depuración de cuentas de balance; y
+
+VIII. Las demás que le indique el Presidente y las que se deriven de otros ordenamientos.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 357.
+
+El registro de las operaciones y la preparación de informes financieros de las dependencias y entidades, deberá llevarse a cabo de acuerdo con los principios de contabilidad gubernamental, así como de las normas, políticas y lineamientos que dicte el Congreso.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+#### SECCIÓN II. DE LOS CATÁLOGOS DE CUENTAS Y DEL REGISTRO DE LAS OPERACIONES
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 358.
+
+El Congreso, para efectos de la revisión de las cuentas públicas, emitirá los catálogos de cuentas a que se sujetarán las dependencias y entidades para el registro de sus operaciones financieras y presupuestales. Dichos catálogos estarán integrados por los siguientes grupos de cuentas:
+
+I. Activo;
+
+II. Pasivo;
+
+III. Hacienda Pública;
+
+IV. Ingresos;
+
+V. Egresos;
+
+VI. Cuentas de Orden, y
+
+VII. Presupuesto.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 359.
+
+El registro presupuestal de las erogaciones del Ayuntamiento y sus entidades se efectuará en las cuentas que para tal efecto establezca el Congreso, destinadas a captar los procesos siguientes:
+
+I. Asignación Presupuestal, que identifica el presupuesto de la dependencia o entidad y, en su caso modificada con autorización del Cabildo;
+
+II. Compromiso Presupuestal, referido al hecho consistente en que un monto se destina a un fin determinado, a través de un documento formal que ampara la operación; y
+
+III. Ejercicio Presupuestal, determinado por el acto de autorizar el pago correspondiente al avance de obra o a la adquisición de un bien o servicio.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 360.
+
+El Ayuntamiento y sus entidades registrarán en cuentas específicas los movimientos de sus fondos asignados.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 361.
+
+Será responsabilidad de las dependencias y entidades la desagregación de las subcuentas, subsubcuentas y demás registros complementarios que permitan el suministro de información interna para la toma de decisiones administrativas, y para el control en la ejecución de las acciones, de acuerdo con sus necesidades específicas.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 362.
+
+La contabilidad de las dependencias y entidades contendrá los registros auxiliares para los programas presupuestales que muestren de manera sistemática los avances financieros y de consecución de metas, con objeto de facilitar la evaluación en el ejercicio del gasto público.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 363.
+
+El Ayuntamiento y sus entidades llevarán registros auxiliares que permitan el control y conocimiento individual de los distintos saldos integrantes de cada cuenta de balance o resultados.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 364.
+
+El Ayuntamiento y sus entidades están obligados a resguardar y conservar en su poder y bajo custodia de la Tesorería los libros, registros auxiliares e información correspondiente, así como los documentos originales justificativos y comprobatorios de sus operaciones financieras.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 365.
+
+El Ayuntamiento y sus entidades registrarán anualmente, como asiento de apertura en los libros principales y registros auxiliares de contabilidad, los saldos de las cuentas de balance del ejercicio inmediato anterior.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 366.
+
+Para el registro contable de las operaciones con base acumulativa, se observará lo siguiente:
+
+I. En lo relativo a obras públicas, el presupuesto se considerará comprometido al momento de aprobarse la estimación del avance físico de las mismas, por las personas autorizadas para tal efecto;
+
+II. Cuando se trate de gastos que se eroguen en forma continua, como son los servicios personales, los alquileres y la energía eléctrica, entre otros, el presupuesto se considerará ejercido al momento de efectuarse el pago; y
+
+III. El registro contable de los pagos correspondientes al pasivo flotante o circulante, por operaciones de ejercicios anteriores de las dependencias y entidades, se efectuará con base en lasinstrucciones (sic) que sobre el particular gire el Congreso.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+#### SECCIÓN III. DE LOS ESTADOS FINANCIEROS
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 367.
+
+La Tesorería consolidará mensualmente la información que a continuación se detalla:
+
+I. Estados Financieros, que comprenderán Balance General, Estado de Resultados y Estado de Origen y Aplicación de Recursos;
+
+II. Estados Contables, que incluirán Balanzas de Comprobación, Auxiliares de Cuentas Colectivas de Balance y Resultado y Conciliaciones Bancarias;
+
+III. Estados Presupuestarios, que consistirán en Estado Condensado de Ingresos, Estado Condensado de Egresos, Estado Analítico de Ingresos, Estado Analítico de Egresos, Estado de Avance Presupuestal y Estados Programáticos;
+
+IV. Estado de Deuda Pública; y
+
+V. Estados Económicos, que contendrán la descripción de información general que permita el análisis de los resultados económicos en un período y la evolución de las finanzas públicas.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 368.
+
+Las entidades enviarán a la Tesorería, dentro de los primeros diez días de cada mes, la misma información a que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 369.
+
+Los beneficiarios de subsidios y transferencias con cargo al presupuesto del Municipio, rendirán trimestralmente, dentro de los primeros cinco días del mes siguiente, cuenta detallada de la aplicación de los fondos a las dependencias y entidades por el cual se les hubiere canalizado, así como la información y justificación correspondiente; las dependencias y entidades informarán con el mismo detalle a la Tesorería del ejercicio de estos recursos, dentro de los primeros quince días del mes siguiente.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 370.
+
+La Tesorería, previo acuerdo del Cabildo, hará del conocimiento de las dependencias y entidades sus requerimientos de información adicional, para lo cual dictará las normas y lineamientos necesarios.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+#### SECCIÓN IV. DE LA INTEGRACIÓN DE LA CUENTA PÚBLICA
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 371.
+
+La Tesorería emitirá y dará a conocer a las dependencias y entidades, los lineamientos para obtener de éstas los datos necesarios para la elaboración de la cuenta pública del Municipio, a más tardar el día treinta de noviembre de cada año. En el último año de la administración, el plazo vencerá el treinta de septiembre.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 372.
+
+Para efectos de la formulación de la cuenta pública, la información que proporcionen las dependencias y entidades estará debidamente clasificada, de conformidad con los lineamientos que para tal fin emita el Congreso.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 373.
+
+Para la integración de la cuenta pública anual del Municipio, las entidades y dependencias, previa aprobación de su titular, proporcionarán oportunamente a la Tesorería, la información a que se refiere la Ley de Fiscalización Superior para el Estado.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 374.
+
+Corresponde a las entidades consolidar la información contable, financiera, presupuestal, programática y económica de la dependencia o entidad, de acuerdo con sus necesidades y para cumplir los requerimientos de la Tesorería. Las entidades y dependencias cuidarán que la información consolidada que proporcionen a la Tesorería cumpla con las normas y lineamientos establecidos.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+#### SECCIÓN V. DE LA PRESENTACIÓN DE LA CUENTA PÚBLICA AL CONGRESO
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 375.
+
+La Tesorería será responsable de integrar la cuenta pública del Municipio, la cual será elaborada con la información que la misma genere y la que le remitan las entidades y dependencias.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 376.
+
+La Tesorería determinará la forma en que se presentarán los informes para la integración de la cuenta pública, para lo cual podrá solicitar a las dependencias y entidades la información complementaria y aclaraciones que considere convenientes.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 377.
+
+La Comisión de Hacienda, en coordinación con la Tesorería, someterá a la consideración del Cabildo la Cuenta Pública Municipal del ejercicio inmediato anterior, a más tardar el último día hábil del mes de marzo y la presentará al Congreso del Estado a más tardar el día treinta de abril. Tratándose del último año de la administración municipal, deberán someterla a la consideración del Cabildo, durante el mes de diciembre, o bien, hasta el último día del mes de enero.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 378.
+
+El Ayuntamiento presentará al Congreso, para su estudio, dictamen y aprobación, la cuenta pública del ejercicio presupuestal inmediato anterior, en los plazos establecidos en la ley de la materia.
+
+De no presentar en tiempo la cuenta pública al Congreso, el Presidente y los integrantes de la Comisión de Hacienda y el Tesorero serán penalmente responsables por el delito de abuso de autoridad o incumplimiento del deber legal. La Dirección de Servicios Jurídicos del Congreso presentará de oficio la denuncia ante el Ministerio Público.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO V. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+#### SECCIÓN I. DEL CONTROL Y EVALUACIÓN
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 379.
+
+El control y la evaluación del gasto público municipal comprenden:
+
+I. La supervisión permanente de los activos, pasivos, ingresos, costos y gastos;
+
+II. El seguimiento a las acciones durante el desarrollo de la ejecución de los programas aprobados; y
+
+III. El establecimiento de indicadores para la medición de la eficiencia y eficacia en la consecución de los objetivos y metas de los programas.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 380.
+
+El control y la evaluación del gasto público municipal se basarán en la información siguiente:
+
+I. La contabilidad de las dependencias y entidades;
+
+II. Los análisis de las evaluaciones que en materia de presupuesto y gasto público se realicen a las dependencias y entidades conforme a los criterios que fije la Tesorería para tal efecto;
+
+III. Las conclusiones y recomendaciones y, en general, los informes y resultados de las auditorías y visitas practicadas; y
+
+IV. Los indicadores de resultados y;
+
+V. Las demás fuentes y medios que se juzguen convenientes.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 381.
+
+El seguimiento y medición del ejercicio del gasto público se realizará en la forma siguiente:
+
+I. En reuniones entre la Tesorería y las dependencias y entidades en plazos que no sean mayores a un bimestre;
+
+II. Mediante visitas y auditorías, y
+
+III. Por medio de los sistemas de seguimiento de realizaciones financieras y de metas que determinen la Tesorería y la Contraloría en su caso.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 382.
+
+Con base en las conclusiones, informes y dictámenes que se deriven de las acciones comprendidas en el artículo anterior, la Tesorería, la Contraloría en su caso, y las dependencias y entidades, de conformidad con lo dispuesto por el presente Código y otros ordenamientos en la materia, efectuarán, según el caso, las siguientes actividades:
+
+I. Aplicación de medidas correctivas a las normas, lineamientos, sistemas y demás instrumentos utilizados en el manejo del gasto público municipal;
+
+II. Adecuaciones presupuestarias;
+
+III. Fincamiento de las responsabilidades que procedan, y
+
+IV. Determinación de las previsiones que constituyan una de las bases para la Programación-Presupuestación del ejercicio siguiente.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+#### SECCIÓN II. DE LA CONTRALORÍA
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 383.
+
+El Ayuntamiento, de conformidad con lo dispuesto por el artículo 35, fracción XXI, de la Ley Orgánica del Municipio Libre, establecerá un órgano de control interno autónomo, el cual, para los efectos de este Código, se denominará Contraloría, que desarrollará funciones de control yevaluación (sic).
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 384.
+
+Corresponde a la Contraloría coordinar los sistemas de auditoría interna, así como de control y evaluación del origen y aplicación de recursos.
+
+Los sistemas de auditoría interna permitirán:
+
+I. Verificar el cumplimiento de normas, objetivos, políticas y lineamientos;
+
+II. Promover la eficiencia y eficacia operativa; y
+
+III. La protección de los activos y la comprobación de la exactitud y confiabilidad de la información financiera y presupuestal.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 385.
+
+La Contraloría verificará el cumplimiento de la normatividad en el ejercicio del gasto de las dependencias y entidades, quienes le proporcionarán toda la información que les solicite en el ejercicio de esta atribución.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 386.
+
+La Contraloría, en caso de determinar la falta de aplicación de la normatividad en el ejercicio del gasto por parte de las dependencias y entidades, reportará tal situación al Cabildo e impondrá las medidas correctivas.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 387.
+
+Las auditorías al gasto público municipal podrán ser de tipo financiero, operacional, de resultado de programas y de legalidad, las cuales serán realizadas por la Contraloría y, en su caso por auditores externos.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 388.
+
+Los hechos, conclusiones, recomendaciones y, en general, los informes y resultados de las auditorías practicadas, facilitarán la medición de la eficiencia en la administración de los recursos y el cumplimiento de metas, para apoyar las actividades de evaluación del gasto público, la determinación de las medidas correctivas que sean conducentes y, en su caso, las responsabilidades que procedan.
+
+Las actividades propias de la auditoría no obstaculizarán las labores operativas y trámites administrativos que directamente realicen las dependencias y entidades.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 389.
+
+La Contraloría, con base en sus programas anuales de auditoría y sin perjuicio de lo establecido en otras disposiciones legales, realizará las actividades siguientes:
+
+I. Evaluar los sistemas y procedimientos de las dependencias y entidades;
+
+II. Revisar las operaciones, transacciones, registros, informes y estados financieros;
+
+III. Comprobar el cumplimiento de las normas, disposiciones legales y políticas aplicables a la entidad, en el desarrollo de sus actividades;
+
+IV. Examinar la asignación y utilización de los recursos financieros, humanos y materiales;
+
+V. Revisar el cumplimiento de los objetivos y metas fijados en los programas a cargo de la dependencia o entidad;
+
+VI. Participar en la determinación de indicadores para la realización de auditorías operacionales y de resultados de los programas;
+
+VII. Analizar y opinar sobre la información que produzca la dependencia o entidad para efectos de evaluación;
+
+VIII. Promover la capacitación del personal de auditoría;
+
+IX. Vigilar el cumplimiento de las medidas correctivas; y
+
+X. Las demás que determine el Cabildo.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 390.
+
+La Contraloría elaborará un programa anual de auditoría, el cual contendrá:
+
+I. Los tipos de auditoría a practicar;
+
+II. Las dependencias y entidades, programas y actividades a examinar;
+
+III. Los períodos estimados de realización; y
+
+IV. Los días - hombre a utilizar.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 391.
+
+La Contraloría mantendrá actualizados los manuales de normas, políticas, guías y procedimientos de auditoría y los manuales y guías de revisión para la práctica de auditorías especiales.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 392.
+
+La Contraloría, por cada una de las auditorías que se practiquen, recibirá un informe sobre el resultado de las mismas; estos informes se darán a conocer a los titulares de las dependencias y entidades auditadas para que, en su caso, ejecuten medidas tendientes a mejorar su gestión y el control interno, así como a corregir las desviaciones y deficiencias que se hubieren encontrado.
+
+Si, como resultado de las auditorías, se advirtieren irregularidades que afecten a la Hacienda Pública Municipal, o contravengan el presente Código, se procederá en los términos de la Ley Orgánica del Municipio Libre, de la Ley de Fiscalización Superior para el Estado de Veracruz de Ignacio de la Llave, del Código de Procedimientos Administrativos, y las disposiciones civiles o penales aplicables, según sea el caso.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 393.
+
+La Contraloría tendrá a su cargo un control de las observaciones y recomendaciones derivadas de la auditoría, y hará el seguimiento sobre el cumplimiento de las medidas correctivas que se hubieren acordado.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 394.
+
+Las dependencias y entidades enviarán a la Contraloría, en la forma y términos que ésta indique, los siguientes documentos:
+
+I. Informe sobre el avance del cumplimiento de los programas anuales de las dependencias y entidades;
+
+II. Informes de las observaciones derivadas de las auditorías, y
+
+III. Informes sobre el seguimiento de las medidas correctivas aprobadas por el titular de la dependencia o entidad.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 395.
+
+Las dependencias y entidades proporcionarán los informes, documentos y, en general, todos aquellos datos que permitan la realización de las visitas y auditorías que determine efectuar la Contraloría.
+
+> <small>(ADICIONADO CON EL TÍTULO, CAPITULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+# LIBRO QUINTO. DE LA DEUDA PÚBLICA
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+## TÍTULO ÚNICO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO I. DISPOSICIONES PRELIMINARES
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 396.
+
+El presente Libro tiene por objeto regular la planeación, contratación, ejercicio, control y vigilancia de la deuda pública del Municipio y de sus entidades.
+
+Las operaciones de financiamiento serán pagaderas en moneda y territorio nacionales, en cumplimiento de los requisitos que en materia federal y estatal existan sobre el particular.
+
+Las operaciones de financiamiento que se otorguen con garantía del Estado, se regirán por el Código Financiero para el Estado de Veracruz de Ignacio de la Llave.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 397.
+
+La deuda pública municipal, para efectos de este ordenamiento, está constituida por las obligaciones de pasivo, directas o contingentes, derivadas de financiamientos y a cargo del patrimonio de:
+
+I. El Municipio;
+
+II. Los organismos descentralizados;
+
+III. Las empresas de participación municipal mayoritaria; y
+
+IV. Los fideicomisos en los que el fideicomitente sea el Municipio o alguna de las entidades mencionadas en las fracciones II y III de este artículo.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 398.
+
+Para los efectos de este ordenamiento, se entiende por financiamiento la contratación de créditos, empréstitos o préstamos derivados de:
+
+I. La suscripción o emisión de títulos de crédito o cualquier otro documento pagadero a plazo;
+
+II. La adquisición de bienes, así como la contratación de obras o servicios cuyo pago se pacte en plazos que excedan de un ejercicio presupuestal;
+
+III. Los pasivos contingentes relacionados con los actos mencionados; y
+
+IV. La celebración de actos jurídicos análogos a los anteriores.
+
+El Congreso sólo autorizará la contratación de operaciones de financiamiento, directas o contingentes, cuando se trate de inversiones públicas productivas.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 399.
+
+Las operaciones de endeudamiento que, previo cumplimiento de los requisitos detallados por este Código, asuma el Municipio, por sí o por sus entidades, se destinarán a inversiones públicas productivas, entendiéndose como tales, aquellas creadas para la ejecución de obras, adquisición o manufactura de bienes y prestación de servicios, que produzcan directa o indirectamente un incremento en los ingresos del Municipio, o tengan una clara repercusión en beneficio de la sociedad y de la economía local.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 400.
+
+Cuando las condiciones financieras del Ayuntamiento así lo hagan necesario, previo acuerdo del Cabildo, y cumpliendo con las disposiciones de la ley, se podrán contraer nuevas obligaciones, para la reestructuración de los créditos ya adquiridos.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 401.
+
+La Tesorería es la dependencia del Ayuntamiento encargada de la aplicación de las normas en materia de deuda pública y de expedir las disposiciones necesarias para su debido cumplimiento.
+
+Quienes contraten financiamientos en representación de los sujetos a que se refiere el artículo 402 de este Código, serán responsables del estricto cumplimiento de este ordenamiento, de sus disposiciones reglamentarias y de las demás leyes aplicables, así como de las directrices de contratación que expida la Tesorería.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 402.
+
+La deuda pública que contrate el Municipio será ordinaria y extraordinaria.
+
+La deuda pública ordinaria se contratará y ejercerá con base en el programa anual de financiamiento que anualmente apruebe el Congreso, mientras que la deuda pública extraordinaria la autorizará éste, para la contratación de financiamientos que se destinen a la atención de necesidades urgentes de liquidez, a enfrentar situaciones imprevisibles de la economía nacional, estatal y municipal y a sufragar las erogaciones que debieran efectuarse en virtud de algún acontecimiento futuro e incierto que altere la planeación financiera del Municipio y que no pudiera preverse en el programa anual de financiamiento.
+
+Las entidades públicas a que se refieren las fracciones II a IV del artículo 403, contratarán su deuda pública, con base en las autorizaciones específicas del Congreso.
+
+También se considera deuda extraordinaria la que autorice el H. Congreso del Estado mediante decretos posteriores al inicio del ejercicio para la contratación de financiamientos que se destinen a inversiones públicas productivas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO II. DE LAS FACULTADES DE LAS AUTORIDADES EN MATERIA DE DEUDA
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 403.
+
+Corresponde al Cabildo, por conducto de la Tesorería y, en su caso, del Presidente y del Síndico.
+
+I. Elaborar el programa anual de financiamiento con base en el cual se contratará y manejará la deuda pública;
+
+II. Emitir opinión sobre la procedencia del otorgamiento de garantía municipal, para la contratación de financiamientos a cargo de las entidades a que se refieren las fracciones II a IV del artículo 403 de este ordenamiento;
+
+III. Cuidar que los recursos procedentes de financiamientos constitutivos de la deuda pública se destinen a los fines para los que fueron contratados;
+
+IV. Contratar y manejar la deuda pública del Municipio; afectar los ingresos, el derecho, o ambos, a las aportaciones federales que les correspondan, susceptibles de destinarse, como fuente de pago, garantía o ambos, para el cumplimiento de sus obligaciones; o en su caso, otorgar la garantía del Municipio para la realización de operaciones crediticias;
+
+V. Vigilar que la capacidad de pago del Municipio sea suficiente para cubrir puntualmente los compromisos que contraigan. Para tal efecto, deberá supervisar en forma permanente el desarrollo del programa de financiamiento aprobado, así como la adecuada estructura financiera del propio Municipio;
+
+VI. Vigilar que se hagan oportunamente los pagos de capital e intereses de los créditos contratados por el Municipio, y que las partidas destinadas a su amortización sean fijadas en el presupuesto de egresos respectivo;
+
+VII. Participar en las negociaciones y suscribir los convenios que tengan por objeto, la reestructuración, conversión o consolidación de la deuda pública, a fin de reducir las cargas financieras del Municipio;
+
+VIII. Llevar el registro de la deuda del sector público municipal, conforme a la normatividad respectiva e inscribirse y proporcionar la información que le sea requerida para efectos del Registro de Deuda Municipal que tiene a su cargo el Congreso, o en su caso, para efectos del Registro de Deuda Estatal que controla la Secretaría de Finanzas y Planeación del Gobierno del Estado;
+
+IX. Sustituir su calidad de deudor directo al transferir total o parcialmente su obligación, cuando sus organismos descentralizados, empresas de participación municipal y fideicomisos se subroguen en los compromisos financieros contraídos originalmente por el Ayuntamiento; pudiendo también asumir la calidad de avalista;
+
+X. Informar trimestralmente al Congreso sobre el estado que guarda la deuda pública, así como proporcionar la información que éste y el Ejecutivo del Estado le requieran; y
+
+XI. Las demás que le atribuya este ordenamiento, las que le sean delegadas conforme a la ley, y las que establezcan las normas aplicables.
+
+Los titulares de las entidades a que se refieren las fracciones II a IV del artículo 403 de este Código, ejercerán en el ámbito de su competencia y en lo conducente, las atribuciones enumeradas, y, adicionalmente, se encontrarán obligados a informar a la Tesorería, del estado que guarda la deuda que contraten, para los efectos de la fracción VIII de este artículo.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 404.
+
+Corresponde al H. Congreso del Estado:
+
+I. Aprobar anualmente en la Ley de Ingresos los programas anuales de financiamiento del Ayuntamiento para cada ejercicio fiscal;
+
+II. A solicitud del Ayuntamiento, autorizar la contratación de deuda pública extraordinaria, cuando a su juicio las circunstancias lo ameriten, o estos cuenten con recursos suficientes para pagar los financiamientos correspondientes;
+
+III. Autorizar de manera expresa la contratación de endeudamiento por los Ayuntamientos, cuando los plazos de amortización de los créditos rebasen el término del periodo constitucional para el que fueron elegidos;
+
+IV. Autorizar a las entidades de la administración pública paramunicipal la contratación de endeudamiento;
+
+V. Autorizar la afectación en garantía de las participaciones federales que le correspondan al Municipio, informando al Ejecutivo del Estado; así como autorizar la afectación de los ingresos, el derecho, o ambos, a las aportaciones federales que le correspondan y que sean susceptibles de destinarse, como fuente de pago, garantía, o ambas, para el cumplimiento de sus obligaciones, en los términos de la legislación vigente;
+
+VI. Verificar que todas las operaciones de deuda que realicen el Ayuntamiento y sus entidades, se apeguen a las disposiciones legales;
+
+VII. Informar al Ejecutivo del Estado, con propósitos de registro, así como al Ayuntamiento, de cualquier observación que surja de la verificación a que se refiere la fracción anterior, sin perjuicio de las responsabilidades que originen;
+
+VIII. Operar el Registro de Deuda Pública Municipal; y
+
+IX. Las demás que le confieran este Código y otras leyes.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 405.
+
+Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Planeación:
+
+I. A solicitud expresa del Ayuntamiento, proporcionar los informes, datos y cooperación técnica que requiera para la elaboración de programas financieros;
+
+II. Asesorar técnicamente y apoyar al Municipio y a las entidades a que se refiere el artículo 401 de este Código en la gestión, concertación y contratación de sus operaciones de deuda pública;
+
+III. Promover y apoyar la operación de instrumentos y modalidades de financiamiento municipal, incluyendo adquisiciones consolidadas de bienes, pagaderas a plazo, constitución de fondos y otros que autoricen las leyes respectivas;
+
+IV. Expedir los certificados de afectación a los ingresos municipales en participaciones federales, cuando el Ayuntamiento los otorgue como garantía de financiamiento;
+
+V. Cuando el Estado sea avalista del Municipio, solicitar al Ayuntamiento la información sobre sus operaciones de financiamiento y sobre los saldos y circunstancias de su deuda pública; y
+
+VI. Las demás que le confieran este Código y otras leyes.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 406.
+
+A fin de que las entidades a que refieren las fracciones II a IV del artículo 403 de este Código, puedan obtener autorización del Ayuntamiento para la contratación de financiamientos en el caso previsto en la fracción II del artículo 409, deberán proporcionar a la Tesorería sus programas financieros y la información que arroje su capacidad de pago, así como toda aquella que se les solicite, a fin de determinar sus necesidades de crédito y la viabilidad de su pago.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO III. DE LA PROGRAMACIÓN DE LA DEUDA PÚBLICA
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 407.
+
+El Ayuntamiento y las entidades, al solicitar autorización del Congreso para contratar financiamientos, indicarán:
+
+I. El monto de la deuda que se solicita contratar;
+
+II. Las tasas de interés a pactar;
+
+III. Las instituciones que podrán fungir como acreditantes;
+
+IV. Los plazos de amortización;
+
+V. La denominación en que podrá contratarse;
+
+VI. El destino de los recursos;
+
+VII. Las condiciones suspensivas o resolutorias que rijan la vigencia de las obligaciones;
+
+VIII. La forma y tiempos de disposición de los recursos;
+
+IX. Los períodos de inversión;
+
+X. En su caso, las normas que resulten aplicables para la contratación de obras o servicios;
+
+XI. Las garantías que podrán otorgarse; y
+
+XII. Los demás requisitos que fije el Congreso.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 408.
+
+El Ayuntamiento, al someter al Congreso el proyecto de Ley de Ingresos, propondrá los montos del endeudamiento neto necesario y acompañará su programa de financiamiento, mismo que contendrá los elementos de juicio suficientes para fundamentar su propuesta, entre los que se encontrará la indicación clara de los recursos que se utilizarán para el pago de los financiamientos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO IV. DE LA CONTRATACIÓN DE LOS FINANCIAMIENTOS
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 409.
+
+Para la obtención y contratación de créditos y empréstitos, el Municipio y las entidades podrán ocurrir a Instituciones de banca de desarrollo, de banca nacional o cualquier institución de crédito o auxiliar de crédito que funcionen conforme a la legislación sobre la materia. En todo caso se elegirá, entre diversas opciones, la que resulte más favorable para la obtención derecursos (sic).
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 410.
+
+Los proyectos a cargo de las dependencias del Ayuntamiento que requieran financiamiento para su realización, deberán producir los recursos suficientes para su amortización y las obligaciones que se asuman, en razón de que dichos financiamientos, no deberán ser superiores a la capacidad de pago del Ayuntamiento.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 411.
+
+Las entidades mencionadas en las fracciones II a IV del artículo 403 de este ordenamiento, sólo requerirán autorización previa y expresa del Ayuntamiento, cuando el Municipio sea garante de sus créditos.
+
+La Tesorería, previo el análisis de la información que le remita la entidad pública solicitante, emitirá una opinión al Presidente, misma que será sometida por conducto de éste al Cabildo. La resolución que se emita se comunicará por escrito, a las entidades solicitantes, precisando en su caso, las características y condiciones en que los créditos puedan ser concertados.
+
+En los demás casos, bastará que el órgano interno de cada entidad pública autorice la contratación de financiamiento, misma que deberá ser aprobada por el Congreso, en los términos de este Código.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 412.
+
+El Congreso vigilará que en la garantía que se otorgue para el pago de operaciones de financiamiento, no se afecte la continuidad, permanencia y generalidad de los servicios públicos, o que en general, no se cause un perjuicio al interés público.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 413.
+
+El Municipio, previa autorización del Cabildo, podrá realizar operaciones en virtud de las cuales, los particulares, las entidades públicas, concesionarios o usuarios del sector privado o social se subroguen en los adeudos suscritos originalmente por el Ayuntamiento.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 414.
+
+El Municipio, por conducto del Ayuntamiento, y las entidades podrán suscribir los contratos, pagarés, letras de cambio o cualquier otro título de crédito, que formalicen las operaciones a que se refiere este Libro.
+
+En el caso del Municipio, los contratos y convenios serán firmados por el Presidente, Síndico, Secretario y Tesorero Municipales. Los títulos de crédito que se emitan serán firmados por el Presidente, Síndico y Tesorero Municipales.
+
+En el caso de las entidades, los documentos a que se refiere este artículo serán suscritos por sus representantes legales.
+
+De la misma forma se documentarán las operaciones por las que se substituyan como acreditado, cambien su calidad de deudores directos o avalistas o subroguen su deuda a terceros.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 415.
+
+Los montos derivados de la contratación de obligaciones directas a corto plazo se computarán como deuda pública municipal extraordinaria, requerirán la autorización previa del Congreso y reunirán los requisitos siguientes:
+
+I. Que el saldo total acumulado de estos créditos no exceda al cinco por ciento de los ingresos ordinarios del ejercicio fiscal correspondiente;
+
+II. Que el plazo de su vencimiento no rebase los cuarenta y cinco días;
+
+III. Que su pago se realice al término del vencimiento y no rebase el periodo constitucional; y
+
+IV. Que la operación no se contrate en el último trimestre de la gestión municipal para la que fueron electos.
+
+El Municipio y las entidades podrán contratar montos adicionales de financiamiento en obligaciones directas a corto plazo, cuando a juicio del Cabildo o del órgano de gobierno, según sea el caso, se presenten circunstancias económicas extraordinarias que así lo exijan.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 416.
+
+En la contratación de deuda se deberá buscar que se mantenga un correcto equilibrio financiero y que se cuente con los elementos económicos suficientes para hacer frente a las obligaciones contraídas.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 417.
+
+Las entidades mencionadas en las fracciones II a IV del artículo 403 de este Código, sólo podrán solicitar autorización para contratar empréstitos o créditos, previa acuerdo del órgano de gobierno interno correspondiente.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 418.
+
+Cuando el Municipio se coordine o asocie a otro o al Estado para la prestación de servicios municipales, se podrán contratar en forma consolidada las operaciones a que se refiere el presente ordenamiento, pero se establecerán por separado las obligaciones a cargo de cada participante y de esta forma se inscribirán en el Registro de Deuda Pública Municipal o Estatal, en su caso.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO V. DE LAS GARANTÍAS Y FUENTES DE PAGO
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 419.
+
+Se podrá otorgar en garantía cualquier bien, derecho o ingreso que se encuentre dentro del patrimonio de quien contrate operaciones de financiamiento, directas o contingentes, si conforme a la ley no existe impedimento para tales efectos.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 420.
+
+En los casos en que se requiera el aval del Gobierno del Estado respecto de obligaciones del Municipio o de las entidades, la solicitud se formulará por conducto del Ayuntamiento respectivo y contendrá su justificación, además de la autorización del Cabildo o del órgano de gobierno interno, según corresponda.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 421.
+
+Cuando los Municipios soliciten el aval del Gobierno del Estado, deberán cumplir con los siguientes requisitos:
+
+I. Que el importe a contratar se encuentre dentro del programa anual de financiamiento que haya sido aprobado por el Congreso en la Ley de Ingresos para el ejercicio correspondiente;
+
+II. Que medie autorización del Congreso;
+
+III. Que cuando se trate de operaciones a corto plazo, éstas reúnan los requisitos establecidos en el artículo 415 del presente ordenamiento;
+
+IV. Que el monto acumulado de los avales otorgados por el Gobierno del Estado no exceda del porcentaje a que se refiere el artículo 425 de este ordenamiento y la previsión contenida en la Ley de Ingresos del Estado, del ejercicio presupuestal correspondiente, en la partida expresa de asignación fiscal al Ayuntamiento;
+
+V. Que el Ayuntamiento haya acreditado que cuenta con elementos económicos suficientes para hacer frente a la obligación en los montos y plazos, conforme a su programación financiera; y
+
+VI. Que el Ayuntamiento esté al corriente en el cumplimiento de sus obligaciones de información al Registro de Deuda Pública Municipal y, en su caso, Estatal.
+
+Todo esto sin perjuicio de los requisitos que para tal efecto señale el Código Financiero para el Estado de Veracruz de Ignacio de la Llave.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO VI. DE LA VIGILANCIA Y REGISTRO DE LAS OPERACIONES DE FINANCIAMIENTO
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 422.
+
+Es responsabilidad de la Tesorería la vigilancia del cumplimiento de las obligaciones asumidas por el Municipio al contratar operaciones de financiamiento, y de las entidades a que se refieren las fracciones II a IV del artículo 403 de este Código, en el caso de que el Municipio actúe como su garante.
+
+Para tal efecto, las dependencias del Ayuntamiento y, en su caso, las entidades referidas, deberán proporcionar información a la Tesorería en la forma y términos que le sean requeridos.
+
+En todos los casos el titular de la dependencia o entidad de que se trate, será responsable de vigilar el cumplimiento de las obligaciones que se contraten.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 423.
+
+La Tesorería vigilará que se incluyan en el presupuesto de egresos del Municipio, los montos necesarios para satisfacer puntualmente los compromisos derivados de la contratación de financiamientos.
+
+La misma obligación corresponderá a los titulares de las entidades.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 424.
+
+El Ayuntamiento y las entidades llevarán un registro interno de su deuda pública, pero deberán informar a la Tesorería, periódicamente, del estado que guarda la misma, para su registro.
+
+En todo caso, la Tesorería o los titulares de las entidades rendirán los informes que les sean requeridos por las autoridades estatales competentes, para los efectos del Registro de Deuda Municipal y, en su caso, del Estatal.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 425.
+
+El Ayuntamiento, al solicitar la inscripción en el Registro de la Deuda Estatal, anexará a su petición lo siguiente:
+
+I. El instrumento jurídico en que se haga constar la obligación cuyo registro solicita;
+
+II. El acta de Cabildo en la que se autorice contratar y afectar, en garantía de pago de las obligaciones contraídas, los ingresos municipales propios y participaciones federales;
+
+III. El acta de Cabildo en la que se autorice a afectar otras garantías distintas a las señaladas en la fracción anterior;
+
+IV. La autorización del Congreso; y
+
+V. Información sobre el destino del crédito.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 426.
+
+Todas las obligaciones que contraigan el Municipio y las entidades se inscribirán en el Registro de Deuda Pública Municipal.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 427.
+
+En el Registro de Deuda Pública Municipal se anotarán los datos siguientes:
+
+I. El número progresivo y fecha de inscripción;
+
+II. Las características del acto jurídico, con identificación de las obligaciones contraídas, su objeto, plazo y monto;
+
+III. La fecha del acta de Cabildo donde se autoriza al Ayuntamiento a asumir obligaciones y en su caso a afectar garantías;
+
+IV. La autorización del Congreso;
+
+V. Las garantías afectadas;
+
+VI. Las cancelaciones de las inscripciones, cuando se acredite el cumplimiento de las obligaciones que las generaron; y
+
+VII. Las variaciones de los endeudamientos.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 428.
+
+El número progresivo y la fecha de inscripción en el Registro de Deuda Pública Municipal darán preferencia a los acreditantes para los efectos de exigibilidad en el pago de las obligaciones.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 429.
+
+El Congreso, por conducto de la dependencia encargada del Registro, expedirá a todos aquellos que acrediten su interés jurídico, las certificaciones que soliciten respecto de las obligaciones inscritas en el Registro de Deuda Pública Municipal del Estado de Veracruz-Llave.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 430.
+
+El Municipio y las entidades tendrán las obligaciones siguientes:
+
+I. Llevar registro de las operaciones a que se refiere este Libro;
+
+II. Comunicar al Ejecutivo del Estado, cuando éste actúe como aval, todos los datos relacionados con la contratación y reestructuración de créditos, así como los derivados de obligaciones contingentes, en un plazo no mayor de diez días hábiles, contado a partir de la celebración del acto; y
+
+III. Comunicar al Congreso el pago total o parcial de las obligaciones, para efectos de su inscripción en el Registro de Deuda Pública Municipal.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 431.
+
+La inscripción en el Registro de Deuda Pública Municipal de las obligaciones a cargo de los Municipios, confiere a los acreedores el derecho a que sus créditos, en caso de incumplimiento de pago por los Municipios, se cubran con cargo a los ingresos municipales en gravámenes y participaciones federales, que deba entregarles el Estado.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 432.
+
+Las operaciones de crédito autorizadas, sólo podrán modificarse con los mismos requisitos y formalidades relativos a su autorización.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO VII. DE LA AFECTACIÓN DE PARTICIPACIONES FEDERALES
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 433.
+
+Las participaciones que corresponden al Municipio son inembargables, no pueden afectarse para fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones derivadas o contraídas, con apego a las disposiciones legales, por el Municipio o sus entidades, que hayan requerido de afectación en garantía de dichas participaciones.
+
+Las operaciones deberán estar debidamente inscritas en el registro de la Secretaría de Hacienda y Crédito Público, en el Registro Público de Deuda Municipal y en el Registro de Deuda Pública Estatal correspondiente, tratándose en este último de adeudos avalados por el Estado.
+
+El Municipio podrá afectar como fuente de pago o garantía de sus obligaciones, el derecho, los ingresos o ambos a las aportaciones federales susceptibles de destinarse a dichos fines en términos de la legislación aplicable.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 434.
+
+En todos los casos en que se afecten participaciones, el Ayuntamiento, previa autorización del Congreso, podrá solicitar a la Secretaría de Finanzas y Planeación del Gobierno del Estado, que en su nombre y representación realice los pagos de las amortizaciones de operaciones de endeudamiento convenidas, descontando dichos montos de las participaciones queen (sic) ingresos federales le correspondan al Municipio.
+
+En el caso de que se afecten aportaciones, el Ayuntamiento, podrá instrumentar como fuente de pago, garantía, o ambas, fideicomisos, mandatos irrevocables o cualquier otro mecanismo autorizado por las disposiciones aplicables.
+
+Para todo lo no previsto en este Libro se estará a lo que señale el Código Financiero para el Estado de Veracruz de Ignacio de la Llave y el Código Hacendario Municipal para el Estado de Veracruz de Ignacio de la Llave, según corresponda.
+
+> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+# LIBRO SEXTO. DE LOS BIENES MUNICIPALES
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+## TÍTULO PRIMERO. DE LOS BIENES EN GENERAL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 435.
+
+El presente libro tiene por objeto definir y regular el dominio, uso, usufructo, aprovechamiento, enajenación, destino, registro y control de los bienes muebles e inmuebles que integran el patrimonio de los Municipios y de sus Entidades.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 436.
+
+El patrimonio de los Municipios se compone de:
+
+I. Bienes de dominio público; y
+
+II. Bienes de dominio privado.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 437.
+
+Son bienes de dominio público:
+
+I. Los de uso común;
+
+II. Los destinados por el Municipio a un servicio público, y los equiparados a éstos conforme a la ley;
+
+III. Los monumentos históricos y artísticos, muebles e inmuebles, de propiedad municipal;
+
+IV. Los muebles de propiedad municipal que, por su naturaleza no sean normalmente substituibles, como los documentos y expedientes de las oficinas: los manuscritos, incunables, ediciones, libros, documentos, publicaciones, periódicos, mapas, folletos y grabados importantes o raros, así como las colecciones de esos bienes; los archivos; las fonograbaciones, películas, archivos fotográficos, cintas magnetofónicas y cualquier otro objeto que contenga imágenes y sonidos;
+
+V. Las pinturas murales, las esculturas y cualquier obra artística incorporada o adherida permanentemente a los inmuebles del Municipio o del patrimonio de las Entidades;
+
+VI. Los puentes y carreteras del dominio municipal;
+
+VII. Los inmuebles adquiridos para destinarse a fines de utilidad pública;
+
+VIII. Los montes y bosques propiedad del dominio del gobierno municipal, que se destinen a fines de interés públicos, y
+
+IX. Los demás bienes del dominio municipal no considerados en las fracciones anteriores, que proporcionen un servicio público.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 438.
+
+Son bienes de dominio privado:
+
+I. Los no comprendidos en el artículo anterior;
+
+II. Los inmuebles que formen parte del patrimonio municipal no enajenados a particulares;
+
+III. Los excesos o demasías en inmuebles del fundo legal enajenados a particulares, si fueren mayores al diez por ciento de la superficie declarada en el título de propiedad;
+
+IV. Los que hayan formado parte del patrimonio de las Entidades que se extingan o liquiden, en la proporción que corresponda al Municipio;
+
+V. La totalidad o la parcialidad de los bienes del dominio público, que sean desafectados o desincorporados del mismo;
+
+VI. Los bienes que adquiera el Municipio o que ingresen por vía de derecho público y tengan por objeto la constitución de reservas territoriales, el desarrollo urbano, ecológico y habitacional o la regularización de la tenencia de la tierra;
+
+VII. Los materiales y suministros adquiridos por el Municipio para la prestación de servicios públicos e igualmente para la ejecución de obras por administración directa o por contrato, cuando aquél hubiere asumido la obligación de adquirir los materiales; y
+
+VIII. Los que el municipio adquiera legalmente, por vía de derecho común, a título de propios.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 439.
+
+Los bienes de dominio público municipal son inalienables, imprescriptibles e inembargables. Los bienes de dominio privado serán de dominio público, cuando se apliquen o de hecho se utilicen a esos fines
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 440.
+
+Los bienes del dominio privado del Municipio son susceptibles de enajenación, uso, usufructo o arrendamiento a particulares; también podrán gravarse o ser objeto de garantía de crédito.
+
+En todos los casos se requerirá acuerdo del Cabildo, aprobado por las dos terceras partes de sus integrantes, y la autorización del Congreso o de la Diputación Permanente.
+
+Sólo en casos excepcionales, por razones debidamente fundadas y motivadas, el Ayuntamiento podrá, con el voto de las dos terceras partes de sus integrantes, desincorporar los bienes de uso común o los afectos o destinados a un servicio público para convertirlos en bienes de dominio privado, previa autorización del Congreso o, en su caso, de la Diputación Permanente.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 441.
+
+Los actos de adquisición, administración, uso, aprovechamiento, explotación o enajenación de los inmuebles municipales, así como la ejecución de obras de construcción, reconstrucción, modificación, adaptación, conservación, mantenimiento y demolición en los mismos, se sujetarán a las disposiciones del presente Libro y demás leyes y reglamentos aplicables.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 442.
+
+Los actos de planeación, programación, adquisición, almacenaje, control, destino, baja y arrendamiento; así como los procedimientos de rescisión administrativa y de enajenación de bienes muebles municipales se regirán por la ley de la materia.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO II. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 443.
+
+Son atribuciones de los Ayuntamientos, respecto a sus bienes, las siguientes:
+
+I. Vigilar la observancia del presente Código;
+
+II. Programar la adquisición, uso, aprovechamiento, usufructo, destino, enajenación y arrendamiento de los bienes municipales;
+
+III. Promover la titulación y registro de todos los bienes y derechos que formen parte de su patrimonio y, si procediere, de aquellos que se presuman de su propiedad, mediante escritura pública o título supletorio de dominio;
+
+IV. Realizar o promover, en su caso, los deslindes sobre sus bienes patrimoniales;
+
+V. Ejecutar todas las acciones jurídicas y materiales tendientes a la reivindicación o recuperación de sus bienes;
+
+VI. Suscribir, por conducto del Presidente Municipal y del Síndico, los contratos que el Congreso o la Diputación Permanente autorice;
+
+VII. Intervenir, conforme a las leyes de la materia, en la regularización de la tenencia de la tierra en el Municipio;
+
+VIII. Formular un inventario de todos los bienes y derechos municipales;
+
+IX. Establecer y mantener actualizado un registro de solicitudes y enajenaciones relativas a sus bienes;
+
+X. Ejercitar las acciones de rescisión administrativa respecto a los bienes municipales que establece este Código;
+
+XI. Determinar el valor de los lotes de su propiedad susceptibles de enajenación, considerando su ubicación y calidad. En ningún caso su valor será inferior al valor catastral o fiscal; y
+
+XII. Las demás que les señalen la Constitución, el presente Código y demás leyes aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO III. DEL INVENTARIO
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 444.
+
+El municipio actualizará cada año, en el mes de enero, un inventario general y avalúo de los bienes que conforman el patrimonio municipal de cualquiera naturaleza que sean. El avalúo deberá ser practicado por peritos que cuenten con cédula profesional, instituciones de crédito, agentes especializados o corredores públicos, y deberá consignar, al menos, el valor comercial y el de realización inmediata. Concurrirán a su formulación la Presidenta o el Presidente municipal, la Comisión de Hacienda y Patrimonio Municipal y la tesorera o el tesorero.
+
+El inventario y el avalúo se extenderán por triplicado, y quedará un ejemplar en el archivo municipal, uno en la tesorería y el otro se remitirá al Congreso del Estado.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 445.
+
+Los bienes se clasificarán en el inventario agrupándolos de la siguiente manera:
+
+I. Muebles;
+
+II. Inmuebles;
+
+III. Derechos;
+
+IV. Valores mobiliarios, inmobiliarios, financieros y bursátiles;
+
+V. Créditos; y
+
+VI. Semovientes.
+
+Los documentos que por su naturaleza tengan incorporados valores o derechos estarán a cargo de la Tesorería para su custodia.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 446.
+
+Las dependencias de la administración pública municipal y las demás instituciones públicas y privadas que por cualquier concepto usen, administren o tengan a su cuidado bienes y recursos propiedad del Municipio proporcionarán información necesaria para la elaboración y actualización del inventario de bienes municipales.
+
+Lo anterior, sin perjuicio de la integración y actualización de los propios catálogos e inventarios de las Entidades.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 447.
+
+La Comisión de Hacienda, de conformidad con lo establecido en la Ley Orgánica del Municipio Libre, ejercerá sus atribuciones para el establecimiento de los procedimientos de integración y recepción de la información para el funcionamiento y actualización del inventario; la comprobación del cumplimiento de las normas a que se refiere este capítulo, así como para verificar la existencia en almacenes de los documentos o bienes que constituyan el inventario y el destino o afectación final de éstos.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+## TÍTULO SEGUNDO. DEL DOMINIO Y ADMINISTRACIÓN DE LOS BIENES
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO I. DE LOS BIENES MUEBLES
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 448.
+
+El Ayuntamiento, con apoyo en la Comisión de Hacienda, expedirá las normas relativas al dominio y la administración de los bienes muebles del Municipio, de conformidad con las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 449.
+
+Las enajenaciones de los bienes muebles no podrán realizarse a favor de los servidores públicos municipales que, en cualquier forma, intervengan en los actos relativos, ni de sus cónyuges o parientes consanguíneos y por afinidad hasta el cuarto grado, o de terceros con los que dichos servidores tengan vínculos privados o de negocios. Las enajenaciones que se realicen en contravención a ello serán causa de responsabilidad y serán nulos de pleno derecho.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPITULO II. DE LOS BIENES INMUEBLES
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 450.
+
+Las disposiciones de este capítulo regulan la adquisición y el arrendamiento de bienes inmuebles, para satisfacción de las necesidades de la Administración Pública Municipal.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 451.
+
+Las dependencias de la administración pública municipal presentarán al Cabildo un programa anual, que prevea sus necesidades inmobiliarias y contenga la información necesaria para fundar las políticas y decisiones en la materia.
+
+Las adquisiciones de bienes inmuebles que se programen se orientarán al cumplimiento de los fines previstos en el Plan de (sic) Municipal de Desarrollo.
+
+En todos los casos, el Ayuntamiento verificará que el uso para el que se requieran los inmuebles sea compatible con las disposiciones vigentes en materia de desarrollo urbano y verificará la disponibilidad presupuestal para la adquisición de los mismos. Al momento de la adquisición deberá contarse con la partida presupuestal autorizada.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 452.
+
+Para satisfacer los requerimientos de inmuebles que formulen las Dependencias y Entidades, la Comisión de Hacienda, con base en la información que proporcione el Inventario de Bienes Municipales, procederá conforme a las disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 453.
+
+Cuando el Municipio adquiera un inmueble, por vías de derecho privado, para cumplir con finalidades de orden público, en su caso, podrá convenir con los poseedores, derivados o precarios, la forma y términos conforme a los cuales se darán por terminados los contratos de arrendamientos, comodato o cualquier otro tipo de relación jurídica que les otorgue la posesión del bien, con la posibilidad de cubrir, en cada caso, la compensación que se considere procedente. El término para la desocupación y entrega del inmueble no excederá de un año.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 454.
+
+Las dependencias sólo podrán arrendar bienes inmuebles para su servicio, cuando previo informe que le rindan al Cabildo, éste lo apruebe si no fuere posible o conveniente su adquisición.
+
+Tanto el arrendamiento de inmuebles para oficinas públicas como la construcción, reconstrucción, adaptación, conservación y mantenimiento de las mismas, se realizará con la asesoría de la dependencia responsable de Obras Públicas.
+
+El Presidente, con la asesoría de la dependencia responsable de Obras Públicas, propondrá al Cabildo las normas y criterios técnicos para la construcción, reconstrucción, adaptación, conservación, mantenimiento y aprovechamiento de los inmuebles destinados a oficinas públicas municipales.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 455.
+
+En las distintas operaciones inmobiliarias en las que la Administración Pública Municipal sea parte, corresponderá a la Comisión de Hacienda:
+
+I. Validar los avalúos de los inmuebles objeto de la operación de adquisición, enajenación o permuta o de cualquier otra autorizada por la ley cuando se requiera; y
+
+II. Validar la justipreciación de las rentas que el Municipio deba recaudar o pagar cuando tenga el carácter de arrendador o arrendatario.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+#### SECCIÓN PRIMERA. DEL DOMINIO DE LOS BIENES
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 456.
+
+Para aprovechamientos especiales sobre los bienes de uso común o afectos o destinados a un servicio público, se requiere permiso o autorización, otorgados con las condiciones y requisitos que apruebe el Cabildo.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 457.
+
+Los permisos y autorizaciones sobre bienes de uso común y los destinados o afectos a un servicio público, no generan derechos reales, sólo otorgan, frente a la Administración Municipal y sin perjuicio de terceros, el derecho a realizar los usos o aprovechamientos de conformidad con las reglas y condiciones que establezcan las leyes y el permiso o autorización.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 458.
+
+Los permisos o autorizaciones a que se refiere el artículo anterior, los concederá el Cabildo hasta por el lapso de un año, que podrá prorrogarse por igual término siempre que no exceda del periodo de la Administración que lo emite.
+
+Los permisos o autorizaciones se otorgarán a título personal y serán intransferibles.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 459.
+
+Serán nulos los permisos o autorizaciones que se otorguen en contravención a las disposiciones anteriores, además, serán revocados por las causas siguientes:
+
+I. Dar un fin distinto al permiso o autorización o no usar el bien de acuerdo con lo dispuesto en este Código, los reglamentos y permisos o autorizaciones;
+
+II. Dejar de pagar en forma oportuna los derechos que se hayan fijado en el permiso o autorización;
+
+III. Realizar obras no autorizadas por escrito;
+
+IV. Dañar en forma reiterada ecosistemas como consecuencia del uso o aprovechamiento; o
+
+V. Las demás previstas en este ordenamiento.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 460.
+
+Los inmuebles considerados, en términos de este Código, como bienes de dominio privado deberán destinarse prioritariamente al uso común o al servicio de las Dependencias y Entidades de la Administración Pública Municipal.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 461.
+
+Los inmuebles que no sean adecuados para destinarlos a los fines a que se refiere el artículo anterior podrán ser objeto de los siguientes actos de dominio y administración, sin perjuicio de lo dispuesto por la Ley Orgánica del Municipio Libre:
+
+Enajenación a título oneroso; para adquirir o permutar otros inmuebles que se requieran para la prestación de los servicios a cargo de las dependencias de la Administración Pública Municipal; para el pago de indemnizaciones o adeudos en los que el municipio tenga el carácter de deudor; para la instalación de empresas particulares que contribuyan, a través de la generación de empleos, a elevar el nivel económico de la localidad; a particulares para la construcción de viviendas de interés social; y, en general, para promover el bienestar colectivo;
+
+I. Enajenación a título gratuito, a favor de los Gobiernos Federal, de los Estados o de los Municipios, para la prestación de servicios públicos, de personas físicas o morales de carácter privado, que realicen actividades de interés social y no persigan fines de lucro; y
+
+II. Arrendamiento o comodato, según convengan al interés público, a favor de personas físicas o morales, públicas o privadas, de conformidad con la legislación aplicable.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 462.
+
+El Ayuntamiento, previa autorización del Congreso o, en su caso, de la Diputación Permanente, podrá conceder el uso o el usufructo de inmuebles considerados como bienes de dominio privado.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 463.
+
+En las distintas operaciones inmobiliarias en las que la Administración Pública Municipal sea parte, en materia de avalúos se estará a lo dispuesto por la Ley de Catastro.
+
+La transmisión de dominio, a título gratuito u oneroso, de los bienes inmuebles propiedad del Ayuntamiento sólo podrá realizarse mediante acuerdo del Ayuntamiento, emitido en términos de la legislación aplicable.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 464.
+
+En los casos de enajenación a título gratuito, el acuerdo del Ayuntamiento fijará el plazo máximo dentro del cual deberá iniciarse la utilización del bien para el objeto solicitado; en su defecto se entenderá que el plazo será de un año.
+
+Si el beneficiario no hiciere uso del bien dentro del plazo previsto o destinare el inmueble a un uso distinto al autorizado, tanto el inmueble como sus mejoras, si las hubiere, se revertirán a favor del Municipio, sin derecho a repetir.
+
+Cuando la beneficiaria sea una persona física o moral de carácter privado y deje de cumplir con su objeto o se extinga, también procederá la reversión del bien y sus mejoras, si las hubiere, a favor del Municipio, sin derecho a repetir.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 465.
+
+En la enajenación de bienes el precio de venta no será menor al valor catastral actualizado, preferentemente será de contado y podrá realizarse a censo redimible en los supuestos previstos en el artículo siguiente.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 466.
+
+Toda enajenación onerosa de inmuebles que realice el Municipio deberá ser de contado, a excepción de las enajenaciones que se efectúen en beneficio de organismos, asociaciones de beneficencia o personas de escasos recursos y que tengan como finalidad resolver necesidades de vivienda de interés social, las que se verifiquen para la realización de actividades sociales y culturales, o las que se realicen teniendo por objeto el desarrollo de programas de interés social o popular, la incorporación de asentamientos irregulares al desarrollo urbano, el mejoramiento y la conservación de bienes públicos o con valor histórico o arqueológico, así como la integración económica de una zona o región.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 467.
+
+Mientras no esté totalmente pagado el precio, los compradores de inmuebles municipales no podrán hipotecarlos ni constituir sobre ellos derechos reales a favor de terceros, ni estarán facultados para derribar o modificar las construcciones sin acuerdo expreso del Ayuntamiento, mismo que se expedirá considerando el destino final de los bienes y la necesidad desu (sic) afectación, salvo excepción prevista en este Código.
+
+En los contratos respectivos deberá estipularse que la falta de pago de tres mensualidades por concepto de los abonos a cuenta del precio y en su caso de los intereses en los términos convenidos, así como la violación de las prohibiciones que contiene este artículo, dará origen a la rescisión del contrato.
+
+Lo dispuesto en este artículo y en el anterior, no será aplicable en el caso en el que los bienes inmuebles se afecten en fideicomiso público, en cuyo evento, será el Comité Técnico del mismo el que apruebe las enajenaciones considerando los fines del propio fideicomiso y sus reglas de comercialización.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 468.
+
+El Ayuntamiento procederá a regularizar las demasías a que se refiere la fracción III del artículo 444 de este Código, mediante requerimiento al poseedor de las mismas para que entere el pago a la Tesorería, de lo cual se informará al Registro Público de la Propiedad para que éste realice la rectificación correspondiente.
+
+El valor de las superficies a que se refiere el párrafo anterior se fijará conforme a lo dispuesto por la fracción XI del artículo 449.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+#### SECCIÓN SEGUNDA. DE LA VENTA DE INMUEBLES DE INTERÉS SOCIAL
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 469.
+
+La enajenación de los bienes de dominio privado a los particulares, será para fines habitacionales; excepcionalmente y previa autorización del Congreso o de la Diputación Permanente, en su caso, para otros fines, de preferencia los de beneficio colectivo, debiendo satisfacer los requisitos, limitaciones, modalidades y procedimiento que imponen los siguientes artículos de este Código, la Ley de Desarrollo Regional y Urbano para el Estado de Veracruz, así como los Planes de Desarrollo Estatal, Regional o Municipal.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 470.
+
+Serán requisitos para la enajenación a particulares con fines habitacionales, los siguientes:
+
+I. Presentar ante el Ayuntamiento solicitud escrita en la que, bajo protesta de decir verdad, se proporcionen los datos requeridos por el mismo;
+
+II. Tener modo honesto de vivir, ser mayor de edad y preferentemente jefe de familia;
+
+III. Ser vecino del lugar de la ubicación del inmueble por lo menos desde un año antes de la solicitud;
+
+IV. Acreditar, mediante constancia del Registro Público de la Propiedad, no ser propietario de bienes inmuebles;
+
+V. Acreditar, mediante constancia expedida por fedatario público, si se encuentra en posesión del predio cuya compra pretende, o ha construido en el mismo; y
+
+VI. Acompañar el plano del predio con la indicación de sus linderos, superficie y ubicación, si está en el supuesto de la fracción anterior.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 471.
+
+Satisfechos los requisitos señalados en el artículo anterior, el Ayuntamiento, en sesión de Cabildo y en los términos dispuestos por la legislación aplicable, emitirá el Acuerdo correspondiente, en el cual de ser favorable al solicitante, deberán asentarse los datos del beneficiario y del bien a enajenar, así como el precio de venta y la forma de pago.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 472.
+
+Si la solicitud de enajenación fuere acordada favorablemente, el Ayuntamiento remitirá el expediente relativo al Congreso, a efecto de que éste o la Diputación Permanente en su caso, previa inspección cuando así se requiera, emita el acuerdo respectivo, que deberá publicarse en la Gaceta Oficial y comunicarse al Ayuntamiento y al interesado.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 473.
+
+Autorizada por el Congreso o la Diputación Permanente la enajenación respectiva, se procederá a la elaboración del instrumento notarial, en el cual se estipularán las restricciones a que, de conformidad con lo dispuesto en esta Sección, estará sujeto el inmueble.
+
+La escrituración se efectuará ante el Notario Público que elija el adquirente, dentro de la demarcación notarial que corresponda, según la ubicación del inmueble.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 474.
+
+Serán limitaciones para la enajenación a particulares, las siguientes:
+
+I. No podrán adquirir en propiedad por si ni por interpósita persona más de un inmueble;
+
+II. La extensión superficial no excederá de doscientos metros cuadrados, salvo las situaciones que el Ayuntamiento, el Congreso del Estado o la Diputación Permanente en su caso, consideren excepcionales;
+
+III. En caso de que el precio se pague a plazos, estos no excederán de tres años, constituyéndose en garantía real el propio bien inmueble; y
+
+IV. En ningún caso podrán enajenarse a particulares, áreas de equipamiento urbano de las unidades habitacionales.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 475.
+
+La enajenación a particulares se sujetará a las condiciones siguientes:
+
+I. Obligarse a construir y habitar su vivienda, en un plazo de dos años a partir de la fecha de notificada la autorización de enajenación por el Congreso;
+
+II. No gravar, ni arrendar o dar en uso, aprovechamiento o en usufructo el bien inmueble adquirido dentro de los dos años siguientes a la fecha de escrituración; se exceptúa de esta disposición el gravamen que se constituya para edificar su casa habitación, siempre que medie autorización expresa del Ayuntamiento; y
+
+III. Si en el término de dos años, el adquirente no concluye el proceso de escrituración una vez obtenido el acuerdo para su enajenación, se procederá a la rescisión administrativa del mismo.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 476.
+
+Los Notarios Públicos al otorgar las escrituras o instrumentos que contengan las enajenaciones de inmuebles, estipularán en las mismas las condiciones a que se refiere el artículo anterior. La infracción será sancionada conforme al procedimiento establecido en la Ley del Notariado y demás disposiciones legales aplicables, sin perjuicio de otras responsabilidades que pudieren resultarles. Para su ejercicio se otorga acción pública.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+#### SECCIÓN TERCERA. DE LOS INMUEBLES BALDÍOS
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 476 Bis.
+
+Son terrenos baldíos, aquellos que ubicados en las zonas urbanas y suburbanas de los municipios, carecen de propietario, edificación y posesión particular.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 476 Ter.
+
+El Ayuntamiento, para preservar el interés general, podrá adjudicarse los terrenos baldíos mediante el procedimiento de ocupación, con el fin de destinarlos a un servicio público y requerimientos habitacionales de interés social. La autoridad catastral municipal elaborará un padrón actualizado de terrenos baldíos ubicados dentro de las zonas urbanas y suburbanas del municipio.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Artículo 476 Cuarter.- El Ayuntamiento, para efectuar la adjudicación de los terrenos baldíos, se sujetará al procedimiento siguiente:
+
+I. Informes de la oficina de catastro municipal de la existencia de un terreno baldío, y del Registro Público de la Propiedad y de Comercio, de la demarcación registral correspondiente, que hagan constar que el bien o bienes baldíos no se encuentran inscritos a favor de persona alguna;
+
+II. Recibidos los informes a que se refiere la fracción anterior, en sesión del Cabildo, se tomará el acuerdo para proceder a la adjudicación y se ordenará publicar dicho acuerdo, por una sola vez, en la tabla de avisos del palacio municipal, que contendrá la ubicación, superficie, medidas y colindancias; concediéndose el término de treinta días naturales, contados a partir del día siguiente a su publicación, para que comparezcan los interesados a deducir sus derechos en caso de que se consideren afectados;
+
+III. Dicho acuerdo será notificado de manera personal a los colindantes;
+
+IV. Transcurrido el término señalado en la fracción II, y no existiendo oposición legítima de terceros, el Ayuntamiento emitirá el acuerdo declarando que el bien sujeto al procedimiento pasa a ser propiedad del Municipio; y
+
+V. El acuerdo declarativo será publicado por única vez en la tabla de avisos del palacio municipal y en la Gaceta Oficial del Estado, remitiéndose copia certificada del acuerdo de adquisición al Registro Público de la Propiedad y del Comercio que corresponda, para que se inscriba por primera vez como título de propiedad a favor del Municipio.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+## TÍTULO TERCERO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO ÚNICO. DE LA RESCISIÓN ADMINISTRATIVA
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 477.
+
+Son causas de rescisión administrativa:
+
+I. La falsedad de los datos proporcionados por el adquirente en su solicitud;
+
+II. El incumplimiento de las disposiciones de este Libro o de alguna de las cláusulas del contrato; o
+
+III. Mantener el lote baldío por más de dos años, contándose este término a partir de la fecha de notificada la autorización por el Congreso.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 478.
+
+Cuando el Ayuntamiento tenga conocimiento de alguna causa de rescisión administrativa de un contrato, a solicitud de parte o de oficio, sin mayor trámite el Síndico del Ayuntamiento procederá de la forma siguiente:
+
+I. Integrará un expediente con el nombre del beneficiario del inmueble, anotando el domicilio particular donde pueda ser notificado, la ubicación del lote, superficie y estado en que se encuentra, señalando la causal de que se trate, agregando copia certificada del contrato de compraventa, expedida por el Registro Público de la Propiedad;
+
+II. Integrado el expediente, dictará acuerdo de inicio del procedimiento administrativo de rescisión;
+
+III. El acuerdo recaído se notificará al propietario en su domicilio mediante instructivo de notificación o por edicto si se desconociere, publicándolo en la Gaceta Oficial del Estado y en el periódico de mayor circulación en el lugar de ubicación del lote motivo del contrato, para que surta efectos de notificación personal;
+
+IV. El propietario del inmueble dispondrá del término de nueve días hábiles, contado a partir del en que surta efectos la notificación, para que por escrito manifieste lo que a su derecho convenga y para ofrecer pruebas, señalando domicilio para recibir notificaciones; de no hacerlo, las subsecuentes se harán en la tabla de avisos del Ayuntamiento;
+
+V. Hechas las manifestaciones y ofrecidas las pruebas, dentro de los tres días hábiles siguientes se señalará día y hora para su recepción. Las pruebas que sean admitidas serán recibidas y desahogadas en la misma audiencia, comparezca o no el oferente;
+
+VI. Si transcurrido el término a que se refiere la fracción IV de este artículo, el propietario no hiciere manifestación alguna, se practicará certificación de dicha circunstancia, turnándose el expediente al Cabildo, para resolver dentro de los tres días hábiles siguientes; y
+
+VII. Celebrada la audiencia, dentro de los tres días hábiles siguientes, el Cabildo dictará resolución conforme a derecho. Esta se notificará al interesado como se prevé en la fracción III de este artículo.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 479.
+
+Al resolverse la rescisión administrativa de un contrato celebrado conforme a este Código, el interesado tendrá derecho a que se le reintegre únicamente la cantidad que hubiere pagado por el lote, solicitándolo por escrito al Ayuntamiento.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 480.
+
+Contra la resolución de rescisión administrativa, el interesado podrá interponer dentro de los quince días hábiles siguientes a la fecha de la notificación de la misma, ante el propio Ayuntamiento, el recurso administrativo de revocación. Admitido el recurso deberá ser resuelto por votación mayoritaria de los miembros del cabildo dentro de igual término.
+
+La interposición del recurso suspenderá de plano la ejecución de la resolución.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 481.
+
+Cuando no se haya hecho valer el recurso de revocación o haciéndolo, se confirme la resolución, se comunicará por oficio al Encargado del Registro Público de la Propiedad de la zona registral de la ubicación del lote, para que practique la anotación marginal correspondiente y el Ayuntamiento proceda a la recuperación física del predio y realice la variación del padrón catastral como consecuencia de la rescisión administrativa.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 482.
+
+El Ayuntamiento, para recuperar los inmuebles como consecuencia de la rescisión administrativa prevista en este Título, se sujetará a las disposiciones del Código de Procedimientos Administrativos.
 
 ## TRANSITORIOS
 
@@ -2924,3 +5840,11 @@ G.O. 10 DE MARZO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al Presente Decreto.
+
+G.O. 28 DE DICIEMBRE DE 2023.
+
+## N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 716 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO HACENDARIO PARA EL MUNICIPIO DE MINATITLÁN, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
