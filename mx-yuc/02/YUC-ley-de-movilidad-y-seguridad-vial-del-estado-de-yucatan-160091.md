@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-movilidad-y-seguridad-vial-del-estado-de-yucatan-160091"
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-12"
-last_updated: "2022-09-12"
+last_updated: "2023-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el lunes 12 de septiembre de 2022.
 
@@ -115,7 +115,9 @@ III. La Ley General de Hacienda del Estado de Yucatán.
 
 IV. El Código de Procedimientos Civiles del Estado de Yucatán.
 
-El Instituto de Movilidad y Desarrollo Urbano Territorial y la Agencia de Transporte de Yucatán serán las autoridades competentes para interpretar, aplicar y resolver para efectos administrativos, en materia de movilidad y seguridad vial, y en materia de transporte, respectivamente, lo relacionado con los preceptos de esta ley. Las disposiciones de esta ley se interpretarán de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, convenciones, acuerdos y demás instrumentos, nacionales o internacionales en materia de movilidad, así como en la Ley General de Movilidad y Seguridad Vial, favoreciendo en todo tiempo la protección más amplia a las personas.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+El Instituto de Movilidad y Desarrollo Urbano Territorial y la Agencia de Transporte de Yucatán serán las autoridades competentes para interpretar, aplicar y resolver para efectos administrativos, en materia de movilidad y seguridad vial, y en materia de transporte, respectivamente y en el ámbito de sus competencias, lo relacionado con los preceptos de esta ley. Las disposiciones de esta ley se interpretarán de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, convenciones, acuerdos y demás instrumentos, nacionales o internacionales en materia de movilidad, seguridad vial y transporte, así como en la Ley General de Movilidad y Seguridad Vial, favoreciendo en todo tiempo la protección más amplia a las personas.
 
 ###### Artículo 6.
 
@@ -129,15 +131,15 @@ II. Bahía: el área adaptada al margen de la vía pública, para mayor segurida
 
 III. Comité: el Comité Estatal de Movilidad y Seguridad Vial.
 
-IV. Concesión: la autorización que emite la persona titular de la Agencia, para la prestación del servicio público de transporte, previo cumplimiento de los trámites y requisitos previstos en esta ley y su reglamento.
+IV. (DEROGADA, D.O. 28 DE DICIEMBRE DE 2023)
 
-V. Condiciones generales: el documento emitido por la agencia, que contienen las especificaciones técnicas y operativas necesarias para la prestación de servicio de transporte público, al que deben sujetarse las personas concesionarias.
+V. (DEROGADA, D.O. 28 DE DICIEMBRE DE 2023)
 
-VI. Dirección de transporte: la dirección del transporte de la agencia.
+VI. (DEROGADA, D.O. 28 DE DICIEMBRE DE 2023)
 
-VII. Dirección del sistema: la Dirección del Sistema Metropolitano de Movilidad Amable y Sostenible de la agencia.
+VII. (DEROGADA, D.O. 28 DE DICIEMBRE DE 2023)
 
-VIII. Empresa de redes de transporte: la persona física o moral que, basándose en el desarrollo de las tecnologías de los teléfonos inteligentes y los sistemas de posicionamiento global, promueva, administre u opere una plataforma tecnológica en el estado, para la prestación del servicio de transporte de personas pasajeras y de carga, ya sea directamente o a través de una filial, subsidiaria o empresa relacionada, en virtud de acuerdos comerciales que tenga celebrados y vigentes.
+VIII. (DEROGADA, D.O. 28 DE DICIEMBRE DE 2023)
 
 IX. Gestión de la demanda de movilidad: Conjunto de medidas, programas y estrategias que inciden en la conducta de las personas usuarias a fin de reducir viajes o cambiar el modo de transporte; con el fin de optimizar tiempos en los desplazamientos;
 
@@ -159,19 +161,19 @@ XVII. Movilidad sustentable: la forma de desplazamiento capaz de satisfacer las 
 
 XVIII. Observatorio: el Observatorio Ciudadano de Movilidad y Seguridad Vial.
 
-XIX. Permiso: la autorización que emite la persona titular de la agencia, para la prestación del servicio privado de transporte, previo cumplimiento de los trámites y requisitos previstos en esta ley y su reglamento.
+XIX. (DEROGADA, D.O. 28 DE DICIEMBRE DE 2023)
 
-XX. Permiso provisional: la autorización que emite la persona titular de la agencia a personas concesionarias y personas prestadoras de servicio de transporte a través de medios alternativos, para prestar el servicio de transporte público en forma temporal para satisfacer una necesidad de transporte eventual, emergente o extraordinaria.
+XX. (DEROGADA, D.O. 28 DE DICIEMBRE DE 2023)
 
-XXI. Persona concesionaria: la persona física o moral que cuenta con el título de concesión que otorga la persona titular de la agencia para prestar el servicio de transporte público que involucre personas o carga.
+XXI. (DEROGADA, D.O. 28 DE DICIEMBRE DE 2023)
 
-XXII. Persona permisionaria: la persona física o moral que es titular de un permiso temporal, expedido por la persona titular de la agencia para la realización específica de un servicio de transporte privado que involucre personas o carga.
+XXII. (DEROGADA, D.O. 28 DE DICIEMBRE DE 2023)
 
-XXIII. Programa de operación: las disposiciones establecidas por la agencia, que deberán observar de manera obligatoria las personas concesionarias, para la adecuada y eficaz prestación del servicio de transporte público.
+XXIII. (DEROGADA, D.O. 28 DE DICIEMBRE DE 2023)
 
 XXIV. Reglamento: el Reglamento de la Ley de Movilidad y Seguridad Vial del Estado de Yucatán.
 
-XXV. Tarifa: el precio que paga la persona usuaria por la prestación de un servicio de transporte público.
+XXV. (DEROGADA, D.O. 28 DE DICIEMBRE DE 2023)
 
 XXVI. Velocidad de operación: Velocidad establecida por las autoridades correspondientes en los reglamentos de tránsito.
 
@@ -181,7 +183,9 @@ XXVII. Violencias de género contra las mujeres: Cualquier acción u omisión, b
 
 Principios de movilidad y seguridad vial
 
-La administración pública estatal y municipal, de acuerdo con sus facultades, considerarán los siguientes principios de movilidad y seguridad vial:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+La administración pública estatal y municipal, y la Agencia de acuerdo con sus facultades, considerarán los siguientes principios de movilidad y seguridad vial:
 
 I. Accesibilidad. Garantizar el acceso pleno en igualdad de condiciones, con dignidad y autonomía a todas las personas al espacio público, infraestructura, servicios, vehículos, transporte público y los sistemas de movilidad tanto en zonas urbanas como rurales mediante la identificación y eliminación de obstáculos y barreras de acceso, discriminación, exclusiones, restricciones físicas, culturales, económicas, así como el uso de ayudas técnicas y perros de asistencia, con especial atención a personas con discapacidad, movilidad limitada y grupos en situación de vulnerabilidad.
 
@@ -239,7 +243,9 @@ IV. Personas prestadoras de servicios de transporte público o privado de carga.
 
 V. Personas usuarias de vehículos motorizados particulares.
 
-El reglamento establecerá el uso prioritario de la vía pública a vehículos que presten servicios de emergencia, cuando la situación así lo requiera.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Las autoridades en materia de movilidad y seguridad vial, en el ámbito de sus competencias establecerán el uso prioritario de la vía pública a vehículos que presten servicios de emergencia, cuando la situación así lo requiera.
 
 ### Capítulo II. Derecho a la movilidad y seguridad vial
 
@@ -269,7 +275,9 @@ Las autoridades en materia de movilidad y seguridad vial deberán diseñar y ope
 
 Criterios de movilidad y seguridad vial
 
-Para integrar adecuadamente el sistema de movilidad, el instituto deberá implementar, además de los criterios de movilidad y seguridad vial y las acciones previstas en el artículo 31 de la ley general, las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Para integrar adecuadamente el sistema de movilidad, las autoridades en materia de movilidad y seguridad vial, en el ámbito de sus competencias, deberán implementar, además de los criterios de movilidad y seguridad vial y las acciones previstas en el artículo 31 de la ley general, las siguientes:
 
 I. Formular los planes, programas y políticas de movilidad, los cuales deberán ser congruentes con las disposiciones que definan los instrumentos de política territorial, urbana y ambiental conforme las disposiciones legales aplicables.
 
@@ -281,9 +289,11 @@ IV. Promover zonas de emisiones bajas, a las cuales únicamente podrán acceder 
 
 V. Promover zonas de tránsito controlado, las cuales se implementarán dentro de áreas residenciales o de alta concentración de comercio y servicios, en las que, a través de condiciones físicas u operacionales, la velocidad máxima de circulación no podrá ser mayor a 30 kilómetros por hora.
 
-VI. Reorganizar, en coordinación con la agencia, el servicio de transporte y el tránsito sobre ejes viales que permitan incrementar la movilidad y bajar los niveles de contaminación, acorde a la demanda de la movilidad.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
-VII. Generar una señalética accesible en los paraderos, centros de información de los servicios, centros de transferencia modal, y en general, en el Sistema Metropolitano de Movilidad Amable y Sostenible.
+VI. Reorganizar el tránsito sobre ejes viales que permitan incrementar la movilidad y bajar los niveles de contaminación, acorde a la demanda de la movilidad.
+
+VII. (DEROGADA, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 13.
 
@@ -331,17 +341,21 @@ Zonas y tramos de vía de gestión de la demanda de movilidad.
 
 Las zonas de gestión de la demanda son polígonos en los que se regula el flujo de vehículos motorizados en función de sus emisiones contaminantes o tamaño, mediante sistemas de control vial y regulación del tránsito, a fin de disminuir el uso y el impacto social y ambiental negativo que implica su circulación.
 
-El Gobierno del Estado y los Ayuntamientos, en el marco de sus facultades, podrán implementar zonas de tránsito controlado en zonas de alta demanda de viajes de las ciudades, a fin de priorizar la gestión de la seguridad vial, la movilidad peatonal, ciclista y de transporte colectivo, reducir el volumen vehicular o los vehículos con mayor impacto ambiental y de riesgo vial, mediante las disposiciones que para tal efecto emita la autoridad competente.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Las autoridades en materia de movilidad y seguridad vial, en el marco de sus facultades, podrán implementar zonas de tránsito controlado en zonas de alta demanda de viajes de las ciudades, a fin de priorizar la gestión de la seguridad vial, la movilidad peatonal, ciclista y de transporte colectivo, reducir el volumen vehicular o los vehículos con mayor impacto ambiental y de riesgo vial, mediante las disposiciones que para tal efecto emita la autoridad competente.
 
 Se podrán implementar sistemas de control vial y regulación del tránsito, usando cámaras y lectores digitales de placas o lectura visual, por parte de agentes públicos en los términos que se establezcan en la normatividad aplicable.
 
 Lo establecido en la presente disposición se realizará sin perjuicio de la productividad, competitividad y el mantenimiento de la regularidad de la vida cotidiana de los centros de población de conformidad con lo dispuesto en esta Ley.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 17.
 
 Instrumentos económicos y financieros en materia de movilidad.
 
-El Gobierno del estado y los Ayuntamientos, de conformidad con lo establecido en las leyes en la materia y en el ámbito de sus facultades, podrán considerar la implementación de los instrumentos económicos y financieros, públicos y privados, de carácter estatal, nacional o internacional necesarios para mejorar la eficiencia y equidad en el acceso de los sistemas de movilidad, la renovación vehicular, la gestión de la seguridad vial y la sostenibilidad.
+Las autoridades en materia de movilidad y seguridad vial, en el ámbito de sus competencias y de conformidad con lo establecido en las leyes en la materia y en el ámbito de sus facultades, podrán considerar la implementación de los instrumentos económicos y financieros, públicos y privados, de carácter estatal, nacional o internacional necesarios para mejorar la eficiencia y equidad en el acceso de los sistemas de movilidad, la gestión de la seguridad vial y la sostenibilidad.
 
 ###### Artículo 18.
 
@@ -371,7 +385,9 @@ VI. La Secretaría Técnica de Planeación y Evaluación.
 
 VII. Los municipios.
 
-Para efectos de esta ley, las autoridades previstas en las fracciones II y V de este artículo serán consideradas, además, autoridades de transporte.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Para efectos de esta ley, las autoridades previstas en las fracciones II y V de este artículo serán consideradas, además, autoridades de transporte. Para el caso de la Agencia, se reservará su autonomía en la materia del transporte de personas pasajeras conforme la legislación y la normativa que a efecto la regule.
 
 ###### Artículo 20.
 
@@ -391,7 +407,9 @@ V. Celebrar convenios de coordinación con la federación, otras entidades feder
 
 VI. Formular políticas y programas que incentiven el uso del servicio de transporte público, vehículos no motorizados, vehículos no contaminantes y otros modos de movilidad de alta eficiencia energética, cuando el entorno lo permita y bajo un enfoque sistémico, en el plan estatal de desarrollo y demás instrumentos programáticos.
 
-VII. Coordinarse con los municipios para alcanzar los objetivos y prioridades previstos en los programas en materia de seguridad vial, transporte y los demás que de estos deriven.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+VII. Coordinarse con los municipios y la agencia para alcanzar los objetivos y prioridades previstos en los programas en materia de seguridad vial, transporte y los demás que de estos deriven.
 
 VIII. Establecer estrategias, planes, programas en materia de infraestructura vial y políticas públicas para evitar las muertes, lesiones y discapacidades ocasionadas por siniestros de tránsito.
 
@@ -409,7 +427,9 @@ XIV. Establecer las políticas y acciones en materia de movilidad urbana, interu
 
 XV. Las demás que establezca esta ley y las demás disposiciones aplicables.
 
-La persona Titular del Poder Ejecutivo podrá delegar las facultades que le confieren esta ley y su reglamento en las demás personas servidoras públicas que esta señala como autoridades en materia de movilidad y seguridad vial.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+La persona Titular del Poder Ejecutivo podrá delegar las facultades que le confieren esta ley y demás personas servidoras públicas que esta señala como autoridades en materia de movilidad y seguridad vial, a excepción de la agencia.
 
 ###### Artículo 21.
 
@@ -425,7 +445,9 @@ III. Elaborar el programa de movilidad con enfoque de sistema seguro y perspecti
 
 IV. Impulsar la elaboración e implementación de programas municipales en materia de movilidad, respetando el ámbito de su competencia, conforme a lo establecido en el programa de movilidad.
 
-V. Participar en la constitución, operación y vigilancia de los fondos y fideicomisos creados en materia de movilidad, seguridad vial y transporte público de conformidad con la normativa aplicable.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+V. Participar en la constitución, operación y vigilancia de los fondos y fideicomisos creados en materia de movilidad y seguridad vial de conformidad con la normativa aplicable.
 
 VI. Proponer a la persona titular del Poder Ejecutivo estatal, los planes de financiamiento público de la movilidad, de acuerdo con los instrumentos de planeación en la materia y bajo los criterios previstos en la ley general y en esta ley, garantizando la disciplina financiera y la aplicación del gasto a los proyectos prioritarios.
 
@@ -433,7 +455,9 @@ VII. Promover la participación ciudadana a través de mecanismos inclusivos y e
 
 VIII. Fomentar la construcción de estacionamientos para bicicletas, vehículos adaptados para personas con discapacidad y conexiones para el intercambio modal con otros medios de transporte.
 
-IX. Desarrollar estrategias, programas y proyectos para la movilidad, fomentando y priorizando el uso del transporte público y los modos no motorizados.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+IX. Desarrollar estrategias, programas y proyectos para la movilidad.
 
 X. Asignar, gestionar y administrar recursos públicos, bajo los criterios de la presente ley para apoyar e implementar acciones y proyectos en materia de movilidad, su infraestructura y los servicios auxiliares relacionados con esta.
 
@@ -483,11 +507,13 @@ Atribuciones de los municipios
 
 Los municipios, dentro de su ámbito territorial, tendrán las atribuciones previstas en el artículo 68 y demás aplicables de la ley general y las previstas en esta ley.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 24.
 
 Convenios de colaboración
 
-El estado y los municipios podrán suscribir convenios de colaboración y coordinación en materia de movilidad y seguridad vial. En estos convenios se observarán las disposiciones de las leyes hacendarias, a fin de establecer los procedimientos para ejecutar las sanciones económicas y la participación que corresponda al estado o a los municipios, respecto a las contribuciones que se recauden.
+El estado, los municipios y la agencia podrán suscribir convenios de colaboración y coordinación en materia de movilidad y seguridad vial. En estos convenios se observarán las disposiciones de las leyes hacendarias, a fin de establecer los procedimientos para ejecutar las sanciones económicas y la participación que corresponda al estado, los municipios y la agencia, respecto a las contribuciones que se recauden
 
 ###### Artículo 25.
 
@@ -527,13 +553,15 @@ VI. Proponer el establecimiento de medidas fiscales destinadas a desincentivar e
 
 VII. Fomentar la participación ciudadana en la elaboración y ejecución de los programas en la materia.
 
-VIII. Analizar las propuestas de convenios o acuerdos que presenten sus integrantes, que tengan por objeto la obtención de los recursos necesarios para el mejoramiento del Sistema de Movilidad y resolver sobre su conveniencia.
+VIII. (DEROGADA, D.O. 28 DE DICIEMBRE DE 2023)
 
 IX. Expedir su reglamento interno.
 
 X. Atender las observaciones que emita el observatorio.
 
-XI. Promover programas que incentiven el uso de tecnologías sustentables por parte de las personas concesionarias o permisionarias y de las personas propietarias de vehículos.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XI. Promover programas que incentiven el uso de tecnologías sustentables por parte de las personas propietarias de vehículos.
 
 XII. Impulsar y dar seguimiento al establecimiento y la inversión en las medidas de accesibilidad, incluso mediante la adopción de nuevas tecnologías.
 
@@ -551,7 +579,9 @@ I. La persona titular del Poder Ejecutivo estatal, quien actuará como president
 
 II. La persona titular del instituto, quien fungirá como secretaria técnica.
 
-III. La persona titular de la agencia.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+III. Una persona representante de la agencia.
 
 IV. La persona titular de la Secretaría de Obras Públicas.
 
@@ -669,6 +699,10 @@ VII. Vehículos particulares.
 
 VIII. Estacionamientos y biciestacionamientos.
 
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Tratándose de las fracciones IV, V y VI, se deberá considerar la participación de la agencia, en respeto a su autonomía.
+
 ###### Artículo 38.
 
 Objetivos del programa de movilidad
@@ -681,9 +715,11 @@ II. Establecer los criterios de transversalidad e integralidad que las dependenc
 
 III. Desarrollar programas de transporte público de vanguardia, de calidad, eficiente, sustentable y bajo en emisiones.
 
-IV. Desarrollar la planeación de un sistema integral de transporte público.
+IV. (DEROGADA, D.O. 28 DE DICIEMBRE DE 2023)
 
-V. Establecer medidas para el transporte seguro, eficiente y sustentable de bienes y personas pasajeras.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+V. Establecer medidas para la movilidad segura, eficiente y sustentable.
 
 VI. Considerar un equilibrio sustentable entre el desarrollo económico, la equidad social y la calidad ambiental de las ciudades.
 
@@ -709,7 +745,7 @@ f) El fomento de mecanismos públicos de alquiler de bicicletas y otros vehícul
 
 g) El establecimiento de biciestacionamientos en los centros de transferencia modal.
 
-h) Las acciones para que el transporte público de personas pasajeras prevea espacios específicos para el transporte de bicicletas y otros vehículos no motorizados.
+h). (DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 i) Las directrices para que los edificios destinados a servicios públicos cuenten con biciestacionamientos.
 
@@ -731,15 +767,17 @@ Los ayuntamientos contarán con sus propios programas municipales de movilidad y
 
 ### Capítulo II. Fuentes de financiamiento
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 40.
 
 Fuentes de financiamiento
 
-Las fuentes de financiamiento para la movilidad, seguridad vial, infraestructura, servicios auxiliares y transporte son las siguientes:
+Las fuentes de financiamiento para la movilidad, seguridad vial, infraestructura, y servicios auxiliares son las siguientes:
 
-I. Los fondos, que podrán integrarse con recursos internacionales, federales, estatales y municipales, que financien acciones relacionadas con la movilidad, seguridad vial, infraestructura, servicios auxiliares y transporte.
+I. Los fondos, que podrán integrarse con recursos internacionales, federales, estatales y municipales, que financien acciones relacionadas con la movilidad, seguridad vial, infraestructura y servicios auxiliares.
 
-II. Los programas y proyectos de inversión relacionados con la movilidad, seguridad vial, infraestructura, servicios auxiliares y transporte, a inscribirse en la cartera de proyectos de la Secretaría de Hacienda y Crédito Público.
+II. Los programas y proyectos de inversión relacionados con la movilidad, seguridad vial, infraestructura y servicios auxiliares, a inscribirse en la cartera de proyectos de la Secretaría de Hacienda y Crédito Público.
 
 III. Las aportaciones de instancias privadas, educativas, culturales; así como organismos internacionales, de conformidad con las disposiciones correspondientes para cada caso.
 
@@ -755,9 +793,11 @@ II. Fomentar la movilidad activa, así como el uso de vehículos no motorizados 
 
 III. Mejorar la infraestructura peatonal, así como la destinada al uso de vehículos no motorizados y crear intersecciones seguras.
 
-IV. Integrar y fortalecer el servicio de transporte público, así como su renovación vehicular.
+IV. (DEROGADA, D.O. 28 DE DICIEMBRE DE 2023)
 
-V. Implementar el uso eficiente de los recursos y fuentes de energía renovables en el sistema de movilidad y todos los componentes que lo integren, tales como servicios conexos, terminales, talleres, infraestructura, edificios e instalaciones vinculados al sistema de transporte.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+V. Implementar el uso eficiente de los recursos y fuentes de energía renovables en el sistema de movilidad.
 
 VI. Implementar acciones para reducir siniestros de tránsito, así como proyectos estratégicos de seguridad vial, priorizando aquellos enfocados en proteger la vida e integridad de las personas usuarias de las vías públicas.
 
@@ -765,19 +805,25 @@ VII. Mejorar la eficiencia en la distribución de bienes y mercancías a través
 
 VIII. Realizar estudios para el desarrollo de la movilidad activa y el transporte público, así como para la aplicación de los avances en innovación, tecnología e informática en la optimización de la movilidad.
 
-IX. Implementar sistemas de transporte inteligentes y soluciones de movilidad eléctrica.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+IX. Implementar soluciones de movilidad eléctrica.
 
 X. Llevar a cabo auditorías e inspecciones viales, como parte de instrumentos preventivos, correctivos y evaluativos, que analicen la operación de la infraestructura de movilidad e identifiquen las medidas necesarias que se deben emprender para que se cumplan los principios y criterios establecidos en esta ley.
 
 XI. Desarrollar programas de información, educación e investigación en materia de movilidad sustentable y segura.
 
-XII. Otras acciones y proyectos en materia de movilidad y seguridad vial, infraestructura, servicios auxiliares y transporte que permitan el cumplimiento de esta ley, sus principios y objetivos conforme a la jerarquía de movilidad.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XII. Otras acciones y proyectos en materia de movilidad y seguridad vial, infraestructura y servicios auxiliares que permitan el cumplimiento de esta ley, sus principios y objetivos conforme a la jerarquía de movilidad.
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 42.
 
 Objeto del fondo
 
-El Fondo Estatal para la Movilidad tendrá como objeto contribuir a la viabilidad presupuestal de las acciones y proyectos en materia de movilidad y seguridad vial, infraestructura, servicios auxiliares y transporte encaminados a propiciar la movilidad sostenible en el estado. La administración y operación del fondo estará a cargo del instituto, en coordinación con los municipios, en términos de lo establecido en sus reglas de operación.
+El Fondo Estatal para la Movilidad tendrá como objeto contribuir a la viabilidad presupuestal de las acciones y proyectos en materia de movilidad y seguridad vial, infraestructura y servicios auxiliares encaminados a propiciar la movilidad sostenible en el estado. La administración y operación del fondo estará a cargo del instituto, en coordinación con los municipios, en términos de lo establecido en sus reglas de operación.
 
 ###### Artículo 43.
 
@@ -795,9 +841,9 @@ IV. Los ingresos que se generen por su operación o por las inversiones de sus r
 
 V. Las utilidades, intereses, dividendos y rendimientos de sus bienes y derechos.
 
-VI. Los recursos que aporten las empresas de redes de transporte, en términos de lo dispuesto en la fracción VI del artículo 141 de esta Ley.
+VI. (DEROGADA, D.O. 28 DE DICIEMBRE DE 2023)
 
-VII. Los recursos que para tales efectos se determinen en el fideicomiso a que se refiere el artículo 94 de esta ley.
+VII. (DEROGADA, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 44.
 
@@ -811,11 +857,13 @@ Mecanismos de financiamiento municipales
 
 En el ámbito de su competencia los municipios deberán establecer los mecanismos que consideren adecuados para el financiamiento de la movilidad.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 46.
 
 Renovación
 
-A efecto de mejorar la calidad ambiental y disminuir los riesgos de siniestros de tránsito, la persona titular del Poder Ejecutivo estatal promoverá mecanismos y programas para fortalecer la gestión del transporte, así como la renovación del parque vehicular de los prestadores del servicio de transporte público de personas pasajeras y de carga. La agencia establecerá los acuerdos necesarios para la conservación, mantenimiento, renovación y cumplimiento de las especificaciones técnicas del parque vehicular destinado a la prestación de los servicios de transporte, además de implementar las medidas necesarias para fomentar su renovación.
+A efecto de mejorar la calidad ambiental y disminuir los riesgos de siniestros de tránsito, la agencia, conforme a lo dispuesto en la normativa que la regule y demás disposiciones que esta emita, promoverá mecanismos y programas para fortalecer la gestión del transporte, así como la renovación del parque vehicular de las personas prestadoras del servicio de transporte público de personas pasajeras. La agencia establecerá los acuerdos necesarios para la conservación, mantenimiento, renovación y cumplimiento de las especificaciones técnicas del parque vehicular destinado a la prestación de los servicios de transporte, además de implementar las medidas necesarias para fomentar su renovación.
 
 ## TÍTULO TERCERO. INFRAESTRUCTURA
 
@@ -825,7 +873,9 @@ A efecto de mejorar la calidad ambiental y disminuir los riesgos de siniestros d
 
 Criterios para el diseño de infraestructura vial
 
-Las autoridades del estado y de los municipios considerarán, además de los principios establecidos en la ley general y en esta ley, y de los criterios previstos en el artículo 35 de la ley general, los siguientes criterios en el diseño y operación de la infraestructura vial, urbana y carretera, para garantizar una movilidad segura, eficiente y de calidad:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Las autoridades del estado, los municipios y la agencia considerarán, además de los principios establecidos en la ley general y en esta ley, y de los criterios previstos en el artículo 35 de la ley general, los siguientes criterios en el diseño y operación de la infraestructura vial, urbana y carretera, para garantizar una movilidad segura, eficiente y de calidad:
 
 I. Flexibilidad: el diseño de las vías públicas debe prever la capacidad de adaptarse a cambios en los requerimientos de su funcionamiento, para facilitar adecuaciones futuras a un bajo costo.
 
@@ -869,17 +919,21 @@ Consideraciones en los proyectos de infraestructura
 
 Con el fin de garantizar la vocación de las vías públicas, todos los proyectos de infraestructura vial urbana, tomando en cuenta sus capacidades técnicas o financieras, deberán considerar las disposiciones previstas en el artículo 40 de la ley general.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 52.
 
 Estándares en la construcción de infraestructura vial
 
-Las autoridades del estado y de los municipios, en el ámbito de sus competencias, deberán contemplar, en la construcción de infraestructura vial, los estándares previstos en el artículo 37 de la ley general.
+Las autoridades del estado, municipios y la agencia, en el ámbito de sus competencias, deberán contemplar, en la construcción de infraestructura vial, los estándares previstos en el artículo 37 de la ley general.
 
 ###### Artículo 53.
 
 Clasificación de infraestructura ciclista
 
-Con el fin de contribuir al uso seguro de la bicicleta en el estado, en las vialidades que se construyan o se remodelen, las autoridades del estado y de los municipios incluirán infraestructura ciclista, la cual se clasifica de la siguiente manera:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Con el fin de contribuir al uso seguro de la bicicleta en el estado, en las vialidades que se construyan o se remodelen, las autoridades del estado, los municipios y la agencia, incluirán infraestructura ciclista, la cual se clasifica de la siguiente manera:
 
 I. Andador peatonal y ciclista: vía pública de circulación compartida por personas peatonas y ciclistas, ubicada en áreas verdes, camellones, derechos de vía, que pueden carecer de marcas que delimiten áreas de circulación.
 
@@ -953,7 +1007,7 @@ IV. Difundir información y conocimientos sobre la problemática de la movilidad
 
 V. Realizar estudios e investigación científica aplicada en el área de la movilidad y seguridad vial, en colaboración con personas académicas y profesionales de la materia.
 
-VI. Proponer al instituto acciones para mejorar la calidad de los servicios de transporte.
+VI. (DEROGADA, D.O. 28 DE DICIEMBRE DE 2023)
 
 VII. Emitir recomendaciones técnicas orientadas a resolver problemas de movilidad y seguridad vial mediante la gestión de datos e información que requiera relacionados con cada caso.
 
@@ -1027,15 +1081,17 @@ Criterios de las políticas, programas, campañas y acciones de educación
 
 Las políticas, programas, campañas y acciones de educación en materia de movilidad y seguridad vial deberán observar los criterios previstos en el artículo 64 de la ley general.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 68.
 
 Formación en materia de movilidad y seguridad vial
 
-Las autoridades en materia de movilidad y seguridad vial, en el ámbito de sus competencias, promoverán, en coordinación con la Secretaría de las Mujeres y del Instituto para la Inclusión de las Personas con Discapacidad del Estado de Yucatán, las acciones y mecanismos de capacitación.
+Las autoridades en materia de movilidad y seguridad vial, en el ámbito de sus competencias, promoverán las acciones y mecanismos de capacitación en coordinación con la Secretaría de las Mujeres y del Instituto para la Inclusión de las Personas con Discapacidad del Estado de Yucatán, salvo en el caso de la agencia.
 
 La formación en materia de movilidad y seguridad vial implica que el personal técnico y/o profesional cuenta con capacitación en dichas materias, así como en perspectiva de género y necesidades de los grupos en situación de vulnerabilidad.
 
-El Gobierno del Estado y los Ayuntamientos, en el ámbito de sus respectivas atribuciones, promoverán acciones y mecanismos en coordinación con las dependencias y entidades competentes, las concesionarias, las permisionarias, los sectores privado y social, para que el personal técnico y/o profesional en materia de movilidad y seguridad vial acredite su capacidad técnica y operativa.
+El Gobierno del Estado, los Ayuntamientos, y la agencia en el ámbito de sus respectivas atribuciones, podrán promover acciones y mecanismos en coordinación con las dependencias y entidades competentes, las personas concesionarias, las personas permisionarias, los sectores privado y social, para que el personal técnico y/o profesional en materia de movilidad y seguridad vial acredite su capacidad técnica y operativa.
 
 ## TÍTULO QUINTO. ORGANIZACIÓN DEL TRANSPORTE
 
@@ -1069,35 +1125,25 @@ IV. Prestado por medios alternativos de transporte:
 
 a) De personas pasajeras.
 
-Las modalidades de cada servicio de transporte y de los vehículos, así como las restricciones para cada caso se regularán de conformidad con las disposiciones previstas en el reglamento.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+La regulación, organización, autorizaciones y demás actos tendiente (sic) a normar el servicio de transporte de personas pasajeras, independientemente de su clasificación, serán reservadas a la Agencia, conforme lo dispuesto en la Ley que la regule y demás lineamientos o disposiciones que emita la Agencia, con pleno respeto a su autonomía. Para el caso del transporte de carga, quedará a cargo de la Secretaria de Seguridad Pública conforme la normativa que resulte aplicable.
 
 ###### Artículo 70.
 
-Seguro de cobertura amplia
-
-Las unidades destinadas al servicio de transporte público, privado o contratado a través de plataformas tecnológicas deberán contar con seguro de cobertura amplia que cubra las responsabilidades que surjan con motivo de la prestación del servicio respecto de las personas usuarias y sus bienes, terceros y de la agencia, así como la atención médica que requieran las personas pasajeras y peatonas dentro de la infraestructura destinada para la prestación del servicio. En caso de que dicho seguro resulte insuficiente, las personas concesionarias, permisionarias o personas poseedoras de la constancia estarán obligadas a responder con sus recursos propios por los daños ocasionados.
-
-En el caso del servicio de transporte contratado a través de plataformas tecnológicas de personas pasajeras o de carga, en el supuesto de que el seguro de cobertura amplia no se encuentre vigente, las empresas de redes de transporte serán consideradas obligadas solidarias de las personas operadoras del servicio ante el Estado, las personas usuarias del servicio y terceros, por la responsabilidad civil que pudiera surgir con motivo de su operación, únicamente hasta por un monto igual a las sumas aseguradas en la póliza de seguro del vehículo que deberán entregar las personas operadoras a estas empresas.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 71.
 
-Exención de responsabilidades por daños
-
-Las personas concesionarias y permisionarias del servicio de transporte público y privado de personas pasajeras, estarán exentas de las responsabilidades por daños cuando estos sean causados por culpa de la persona usuaria, por causas fortuitas o por causas imputables a terceros.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 72.
 
-Garantía para la prestación del servicio
-
-Para garantizar la prestación del servicio de transporte, la persona concesionaria o permisionaria deberá constituir una garantía mediante fianza emitida por institución autorizada para tal efecto, y que sea suficiente para garantizar todas y cada una de las obligaciones establecidas en esta ley, su reglamento, el programa de operación y demás disposiciones aplicables, y para responder por los casos de suspensión del servicio imputables a la persona concesionaria o permisionaria, así como aquellos en que se declare la extinción, caducidad, revocación, ocupación temporal o cualquier otro supuesto que se señalen (sic) en las disposiciones legales aplicables.
-
-La fianza a que se refiere el párrafo anterior deberá ser expedida a favor de la agencia, y contendrá en su texto la reproducción íntegra de este artículo, así como la mención de que estará sujeta al procedimiento establecido en los artículos 178 y 282 de la Ley de Instituciones de Seguros y de Fianzas. La persona concesionaria o permisionaria deberá presentar a la agencia dicha fianza a más tardar dentro del mes calendario siguiente al día en que inicie operaciones, debiendo actualizarla anualmente, y mantenerla vigente durante todo el tiempo que dure la concesión o permiso, incluyendo la prórroga que en su caso se conceda por motivo de renovación.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 73.
 
-Actualización del monto de la fianza
-
-La persona concesionaria o permisionaria actualizará anualmente el monto de la fianza a que se refiere el artículo anterior, con base en el porcentaje en que se incremente el Índice Nacional de Precios al Consumidor que publique el Instituto Nacional de Estadística y Geografía, esta actualización también deberá realizarse aún en el caso de prórroga de la concesión, y durante todo el tiempo que dure esta.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 74.
 
@@ -1105,7 +1151,9 @@ Herramientas tecnológicas
 
 Las unidades destinadas al servicio de transporte público de personas pasajeras en su modalidad de taxi de alquiler y los contratados a través de plataformas tecnológicas, deberán contar con las herramientas tecnológicas necesarias para emitir una señal de alerta, las cuales deberán estar plenamente al alcance de las personas pasajeras y de la persona conductora.
 
-Estas herramientas tecnológicas estarán enlazadas vía satelital con el Centro de Monitoreo y los cuerpos de seguridad que al efecto determine la Secretaría de Seguridad Pública, los cuales, al recibir alguna señal, deberán acudir al llamado de esta, notificando a la brevedad cualquier llamado de auxilio recibido a la dirección de transporte y a la dirección del sistema.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Estas herramientas tecnológicas estarán enlazadas vía satelital con el Centro de Monitoreo y los cuerpos de seguridad que al efecto determine la Secretaría de Seguridad Pública, los cuales, al recibir alguna señal, deberán acudir al llamado de auxilio recibido.
 
 ###### Artículo 75.
 
@@ -1133,7 +1181,9 @@ VI. Que las unidades destinadas al servicio cubran todo el recorrido de la ruta 
 
 VII. A la seguridad de la frecuencia de la circulación de las unidades destinadas al servicio, en los horarios autorizados.
 
-VIII. Viajar con menores de seis años sin que estos paguen tarifa, salvo disposición diversa emitida por la persona titular del Poder Ejecutivo del estado.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+VIII. Viajar con menores de seis años sin que estos paguen tarifa, salvo disposición diversa emitida la autoridad competente.
 
 IX. A ser tratado con cortesía por las personas operadoras de la unidad destinada al servicio.
 
@@ -1149,11 +1199,17 @@ XIV. Recibir indemnización en caso de lesión o muerte en accidente.
 
 XV. A que la Agencia reciba la queja correspondiente por el aumento excesivo en la tarifa de cobro de carácter temporal, en el servicio de transporte de personas pasajeras contratado a través de plataformas tecnológicas, con relación a la oferta y demanda en un lugar y momento determinado.
 
-La Agencia recabará los datos necesarios vinculados a la queja y emitirá las recomendaciones de movilidad correspondientes.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
-XVI. A solicitar a la Agencia, la modificación o ampliación de rutas, horarios y frecuencia del servicio de transporte público de personas pasajeras, así como la creación de nuevas rutas, en términos de las fracciones XXIX y XXXIII del artículo 81 de la Ley.
+La agencia recabará los datos necesarios vinculados a la queja y emitirá las recomendaciones de movilidad correspondientes, conforme lo dispuesto en su propia legislación y normativa.
 
-La violación reiterada de los derechos contenidos (sic) las fracciones I a XIII de este artículo será sancionada con el retiro de las unidades destinadas al servicio de transporte, multas económicas y suspensión o revocación de la concesión o permiso, en términos de lo establecido en esta ley y su reglamento.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XVI. A solicitar a la agencia, la modificación o ampliación de rutas, horarios y frecuencia del servicio de transporte público de personas pasajeras, así como la creación de nuevas rutas, en términos de lo dispuesto en la legislación y normativa de la agencia.
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+La violación reiterada de los derechos contenidos de las fracciones I a XIII de este artículo serán sancionadas con el retiro de los vehículos destinados al servicio de transporte, multas económicas, suspensión, revocación de la concesión o permiso, y demás sanciones, conforme lo determinado en la Ley que regule la agencia y demás normativa que dicha autoridad emita.
 
 ###### Artículo 77.
 
@@ -1169,7 +1225,9 @@ III. No proferir insultos o palabras altisonantes cuando se encuentren a bordo d
 
 IV. No ingerir bebidas alcohólicas, sustancias psicotrópicas o enervantes cuando se encuentre a bordo de las unidades destinadas al servicio.
 
-V. No realizar actos contra la moral, la tranquilidad, la integridad o la seguridad de otras personas usuarias.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+V. No realizar actos que vulneren la tranquilidad, la integridad o seguridad de otras personas usuarias.
 
 VI. No tirar basura dentro de las unidades destinadas al servicio.
 
@@ -1237,123 +1295,29 @@ V. Cuando sean falsas las declaraciones o instrucciones de la persona usuaria, o
 
 ### Capítulo II. Autoridades en materia de transporte
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 83.
 
 Convenios con la federación y ayuntamientos
 
-La persona titular de la agencia podrá firmar convenios con la federación, con objeto de que la agencia asuma las funciones de competencia federal que le sean delegadas en la materia. Asimismo, podrá convenir con los ayuntamientos para que estos realicen algunas de las actividades establecidas en esta ley, tendientes al mejor cumplimiento y buen desempeño del servicio de transporte y para imponer las sanciones que correspondan en el ámbito de su competencia.
+La persona titular de la agencia podrá firmar convenios con la federación, con objeto de que la agencia asuma las funciones de competencia federal que le sean delegadas en la materia. Asimismo, podrá convenir con los ayuntamientos o autoridades estatales para que estos realicen algunas de las actividades establecidas originalmente a la agencia, tendientes al mejor cumplimiento y buen desempeño del servicio de transporte y para imponer las sanciones que correspondan, conforme lo dispuesto en la legislación y la normativa que regulen a la agencia y a las disposiciones que esta emita.
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 84.
 
 Medidas para el uso adecuado las vías terrestres
 
-La agencia dispondrá las medidas conducentes para que las unidades destinadas al servicio de transporte utilicen en forma adecuada las vías terrestres del estado.
+La agencia dispondrá las medidas conducentes para que los vehículos destinados al servicio de transporte utilicen en forma adecuada las vías terrestres del estado, conforme las disposiciones que dicha autoridad emita.
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 85.
 
 Atribuciones de la agencia
 
-La agencia tendrá las atribuciones siguientes en materia de transporte:
-
-I. Otorgar, renovar, suspender o revocar las concesiones del servicio de transporte público, así como aumentar o disminuir el número de estas, según las necesidades de dicho servicio.
-
-II. Regular la prestación de los servicios de transporte público, privado, el contratado a través de plataformas tecnológicas y el prestado a través de medios alternativos de transporte en el estado, conforme a lo establecido en esta ley y su reglamento.
-
-III. Vigilar el cumplimiento de las disposiciones de esta ley, su reglamento y demás normativa aplicable, e imponer las medidas de seguridad y las sanciones procedentes por violaciones a sus disposiciones.
-
-IV. Vigilar que las unidades del servicio de transporte garanticen a las personas con discapacidad y movilidad limitada, la accesibilidad para el desplazamiento y los servicios, incluyendo especificaciones técnicas y antropométricas, apoyos técnicos o humanos y personal capacitado en lengua de señas mexicana.
-
-V. Coordinar con las personas prestadoras del servicio de transporte público la elaboración de programas que tiendan a mejorar el desarrollo del servicio en el estado.
-
-VI. Organizar, vigilar, integrar y mantener actualizado el padrón de concesiones, permisos, constancias, certificados vehiculares y certificados de personas operadoras de transporte del estado, así como el Registro de Vehículos de Transporte en el Estado de Yucatán, de acuerdo con lo que establezca el reglamento.
-
-VII. Otorgar, renovar, suspender o revocar las constancias y los certificados necesarios para la prestación del servicio de transporte contratado a través de plataformas tecnológicas de personas pasajeras o de carga, así como el prestado por medios alternativos de transporte de personas pasajeras.
-
-VIII. Otorgar, renovar, suspender o revocar los permisos especiales y provisionales a que hace referencia esta ley.
-
-IX. Vigilar la estricta observancia, por parte de las personas prestadoras del servicio de transporte, de las tarifas a las personas usuarias y de las formas de pago del servicio.
-
-X. Realizar u ordenar la práctica de visitas de inspección para verificar el cumplimiento de la legislación aplicable en materia de transporte y, en su caso, comisionar al personal de la agencia que deba realizarlas.
-
-XI. Diseñar e instrumentar programas de seguridad en materia de transporte.
-
-XII. Vigilar que las personas prestadoras del servicio de transporte cumplan con el perfil y demás requisitos que establezca el reglamento.
-
-XIII. Proponer e implementar políticas, estrategias y acciones para mejorar la organización y el funcionamiento del servicio de transporte, aprovechando el desarrollo tecnológico y tomando en cuenta sus efectos en el medio ambiente.
-
-XIV. Formular políticas y programas que tiendan a favorecer la construcción de infraestructura y obras, el equipo, los servicios y los demás elementos que complementen el servicio de transporte.
-
-XV. Evaluar el estado que guarda el servicio de transporte en el estado, con base en los informes que realicen las personas titulares de la dirección de transporte y de la dirección del sistema.
-
-XVI. Establecer nuevos tipos de servicio de transporte, de acuerdo con las necesidades que dicte el interés público.
-
-XVII. Coordinarse con las demás dependencias y entidades de la Administración Pública estatal para mejorar el desarrollo del servicio de transporte en el estado.
-
-XVIII. Coordinar la ejecución de acciones, proyectos y obras para la implementación, conservación y vigilancia de la infraestructura, de la tecnología y de los servicios relacionados con el transporte en el estado, para mejorar su organización y funcionamiento, y propiciar su desarrollo. Así mismo, establecer los mecanismos para su seguimiento, evaluación y control.
-
-XIX. Procurar la integración progresiva de los diferentes servicios de transporte, para ampliar su cobertura en beneficio de la población.
-
-XX. Coordinar, desarrollar, operar y administrar el Sistema Metropolitano de Movilidad Amable y Sostenible, de conformidad con lo dispuesto en esta ley, su reglamento y las demás disposiciones jurídicas aplicables, e implementar las acciones necesarias para el cumplimiento de su objeto y de sus objetivos.
-
-XXI. Llevar a cabo las acciones previstas en las diversas disposiciones legales y administrativas aplicables, necesarias para mejorar la organización de la prestación del servicio de transporte.
-
-XXII. Determinar y autorizar la ubicación de los sitios, paraderos, paradas parabuses y bahías para la prestación del servicio de transporte, así como su reubicación.
-
-XXIII. Determinar la ubicación, así como diseñar, implementar, operar y administrar los centros de transferencia modal.
-
-XXIV. Determinar la ubicación, así como comercializar, administrar y supervisar los espacios publicitarios que formen parte del servicio de transporte público, y fijar los precios por el uso de esos espacios publicitarios.
-
-XXV. Emitir los acuerdos, lineamientos, programas de operación, condiciones generales de operación y demás instrumentos necesarios para el correcto funcionamiento y operatividad del servicio de transporte.
-
-XXVI. Diseñar, establecer y determinar las etapas por territorio que permitirán la implementación del Sistema Metropolitano de Movilidad Amable y Sostenible, así como la articulación de la red de servicio público de transporte en el estado.
-
-XXVII. Fungir como árbitro y mediador en los conflictos que se susciten entre los distintos prestadores del servicio de transporte, o entre estos y las personas usuarias del servicio, cuando los involucrados lo soliciten o se afecte la prestación del servicio.
-
-XXVIII. Determinar las características de la infraestructura que se requiera para la correcta operación de los servicios auxiliares y conexos del transporte público, así como promover su construcción, operación, conservación, mejoramiento y vigilancia.
-
-XXIX. Declarar la creación de nuevas rutas, previo análisis y determinación de las necesidades de la población, para lograr una mayor cobertura de servicio público de transporte.
-
-XXX. Ordenar la ocupación temporal del servicio de transporte cuando las personas prestadoras del servicio no lo presten eficazmente o lo nieguen.
-
-XXXI. Procurar la innovación y aplicación del desarrollo tecnológico en los servicios de transporte en el estado.
-
-XXXII. Promover la adopción de eficiencia energética, reducción de emisiones y gestión de la velocidad de las unidades de servicio de transporte.
-
-XXXIII. Modificar las rutas, derroteros, horarios, frecuencias y cantidad de vehículos autorizados para la prestación del servicio de transporte público de personas pasajeras, a través de las condiciones generales de operación de las concesiones, programas de operación o demás disposiciones que emita la agencia, cuando hayan variado las condiciones de movilidad, así como las sociales, económicas, de salud y de seguridad que se hayan considerado para el otorgamiento de las concesiones, conforme a los criterios y en los términos previstos en el reglamento.
-
-XXXIV. Requerir a las personas concesionarias que presten el servicio de transporte público de personas pasajeras de determinado centro de población, su adhesión al Sistema Metropolitano de Movilidad Amable y Sostenible, conforme a los programas y lineamientos contenidos en esta ley y su reglamento.
-
-XXXV. Solicitar a las personas concesionarias, permisionarias y personas poseedoras de la constancia, la información para la verificación del cumplimiento de las disposiciones que les confiere esta ley y su reglamento.
-
-XXXVI. Determinar la ubicación, así como diseñar e implementar las cuencas en las que se prestará el servicio de transporte público de personas pasajeras.
-
-XXXVII. Asignar, gestionar y administrar recursos públicos, bajo los criterios de esta ley para apoyar e implementar acciones y proyectos en materia de transporte.
-
-XXXVIII. Participar en la operación y administración de los fideicomisos en materia de transporte público, de conformidad con la normatividad aplicable.
-
-XXXIX. Dictar las medidas necesarias para la renovación y la conservación del parque vehicular de las personas concesionarias.
-
-XL. Disponer la implementación de las medidas necesarias para evitar que, en la prestación del servicio de transporte público, se realicen prácticas monopólicas, de competencia desleal, o discriminatorias contra las personas usuarias, que atenten contra la generalidad, regularidad, seguridad, eficiencia e igualdad.
-
-XLI. Ordenar la ejecución de las medidas que se consideren pertinentes para que los bienes muebles e inmuebles, infraestructura, accesorios físicos, tecnológicos y materiales destinados a la prestación del servicio de transporte público o que apoyan su funcionalidad y lo complementan, así como aquellas destinadas a la seguridad de las personas y los bienes, se mantengan en buen estado.
-
-XLII. Aprobar, de conformidad con lo que señalen esta ley, su reglamento y demás ordenamientos legales aplicables, las tarifas para la prestación del servicio de transporte público, considerando a las personas usuarias con discapacidad y movilidad limitada al momento de fijarlas.
-
-XLIII. Establecer restricciones al servicio de transporte público cuando las condiciones socioeconómicas, de seguridad, de salud y ambientales en el estado así lo requieran.
-
-XLIV. Disponer del servicio de transporte público, en caso de cualquier problema grave que afecte a los municipios en donde presten su servicio o en cualquier otro punto del territorio del estado.
-
-XLV. Establecer mecanismos de consulta tendientes a mejorar el servicio de transporte en el estado.
-
-XLVI. Procurar que el servicio de transporte sea regular, confiable, eficaz, eficiente, cómodo, seguro y de bajas emisiones contaminantes; y que se preste con altos estándares de calidad, accesibilidad y cobertura, con tecnologías limpias y con vehículos eficientes.
-
-XLVII. Determinar mecanismos para promover e incentivar la inversión en el servicio de transporte público.
-
-XLVIII. Emitir opinión cuando lo considere pertinente sobre iniciativas de leyes y anteproyectos de reglamentos y decretos en materia de transporte, sin que estas opiniones tengan efectos vinculantes.
-
-XLIX. Emitir lineamientos, normas técnicas, instrumentos y políticas públicas, así como realizar estudios para cumplir con los objetivos de esta ley en materia de transporte.
-
-L. Las demás que establezca esta ley, su reglamento y las demás disposiciones aplicables.
+La agencia tendrá las atribuciones establecidas en la ley que regule su competencia conforme a su objeto establecido en el artículo 75 sexies de la Constitución Política del Estado de Yucatán.
 
 ###### Artículo 86.
 
@@ -1365,339 +1329,147 @@ I. Expedir las placas de circulación específicas para la prestación del servi
 
 II. Autorizar los sitios de la vía pública en los que se puedan efectuar las maniobras de carga y descarga de bienes.
 
-III. En auxilio de las labores de inspección y vigilancia que realice la agencia, impedir la circulación así como retener y remitir a los depósitos correspondientes cualquier vehículo que preste el servicio de transporte público de personas pasajeras sin contar con concesión, permiso, constancia, constancia de transporte alternativo, o que las personas operadoras no cuenten con la licencia, el certificado vehicular o certificado de operador vigente, o bien, contando con estos, viole de manera flagrante alguna de las disposiciones establecidas en esta ley, su reglamento, las condiciones generales de operación, los programas de operación y demás disposiciones jurídicas, técnicas o administrativas aplicables.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
-IV. En auxilio de las labores de inspección y vigilancia que realice la agencia, impedir la circulación, así como retener y remitir a los depósitos correspondientes los vehículos destinados al servicio de transporte público y privado de carga, cuando este se preste fuera de ruta u horario, con exceso de peso o dimensiones, o cuando se viole de manera flagrante alguna de las disposiciones de esta ley, su reglamento y demás disposiciones jurídicas, técnicas o administrativas aplicables.
+III. En auxilio de las labores de inspección y verificación que realice la agencia, conforme lo dispuesto en la legislación y la normativa que la regule, y en respeto a su autonomía, o en su caso la autoridad que resulte competente, impedir la circulación así como retener y remitir a los depósitos correspondientes cualquier vehículo que preste el servicio de transporte público de personas pasajeras sin contar con concesión, permiso, constancia, constancia de transporte alternativo, o que las personas operadoras no cuenten con la licencia, el certificado vehicular o certificado de persona operadora vigente, o bien, contando con estos, viole de manera flagrante alguna de las disposiciones establecidas en esta ley, su reglamento, la legislación y la normativa de la agencia, las condiciones generales de operación, los programas de operación y demás disposiciones jurídicas, técnicas o administrativas aplicables.
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+IV. En auxilio de las labores de inspección y verificación que realice la agencia, conforme lo dispuesto en la legislación y la normativa que la regule, y en respeto a su autonomía, o en su caso la autoridad que resulte competente, impedir la circulación, así como retener y remitir a los depósitos correspondientes los vehículos destinados al servicio de transporte público y privado de carga, cuando este se preste fuera de ruta u horario, con exceso de peso o dimensiones, o cuando se viole de manera flagrante alguna de las disposiciones de esta ley, su reglamento, la legislación y la normativa de la agencia y demás disposiciones jurídicas, técnicas o administrativas aplicables.
 
 V. Retirar placas o documentos del vehículo o de la persona operadora cuando se advierta una irregularidad en la prestación del servicio de transporte, que pueda implicar un riesgo grave para la seguridad o el orden público.
 
 VI. Hacer del conocimiento de la agencia, las infracciones que se cometan en contra de las disposiciones contenidas en esta ley, su reglamento y demás disposiciones jurídicas, técnicas o administrativas aplicables.
 
-VII. Las demás que establezca esta ley, su reglamento y las demás disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+VII. Regular, organizar y otorgar las autorizaciones correspondientes del servicio de transporte de carga en el Estado.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+VIII. Las demás que establezca esta ley, su reglamento y las demás disposiciones aplicables.
 
 ###### Artículo 87.
 
-Sistema Metropolitano de Movilidad Amable y Sostenible
-
-El Sistema Metropolitano de Movilidad Amable y Sostenible es el sistema de transporte público de personas pasajeras, cuyos componentes se encuentran integrados de manera física, operacional, informativa, iconográfica y tarifaria, a fin de movilizar a las personas usuarias en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad, mediante vehículos que cuenten con los requerimientos y las propiedades para cumplir adecuadamente con su función, producir el menor daño ambiental, ofrecer un espacio apropiado y confortable, y encontrarse en buen estado físico y mecánico; que incorpore el uso de tecnología que incluya, entre otros, validadores, sistemas de localización vía satelital, pago electrónico, sistema de recaudación, distribución y dispersión centralizada, y aplicaciones de software para las personas usuarias.
-
-El Sistema Metropolitano de Movilidad Amable y Sostenible funcionará y operará conforme a esta ley, su reglamento, los programas de operación y demás disposiciones jurídicas, técnicas y administrativas que al efecto emita la agencia, bajo el concepto de complementariedad entre los diferentes medios y servicios de transporte, con identidad única, planificación y operación integrada, combinando infraestructura, estaciones, terminales, paraderos, unidades, sistemas de control e información, así como recaudación centralizada y un sistema de dispersión de pagos, con rutas, derroteros, recorridos, horarios, frecuencias y paradas específicas.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 88.
 
-Objetivos del Sistema Metropolitano de Movilidad Amable y Sostenible
-
-El Sistema Metropolitano de Movilidad Amable y Sostenible tendrá los siguientes objetivos:
-
-I. Aplicar la política y los criterios en materia del servicio de transporte público de personas pasajeras, de los servicios de pago electrónico, del Centro de Monitoreo de Operaciones y demás elementos necesarios para su operación.
-
-II. Planear, diseñar, construir, operar, administrar, controlar y vigilar, en todas las vías públicas de competencia estatal, el servicio de transporte público de personas pasajeras, de conformidad con la ley, su reglamento y los programas de operación que al efecto emita la agencia.
-
-III. Mejorar el servicio de transporte público de personas pasajeras que opera en el estado.
-
-IV. Ampliar el servicio de transporte público de personas pasajeras, por etapas y por territorio que permitirán la implementación del Sistema Metropolitano de Movilidad Amable y Sostenible, así como la articulación de la red de transporte en el estado a través de cuencas o el método que la agencia determine para tales efectos.
-
-V. Consolidar el servicio de transporte público de personas pasajeras para que se preste de manera general, regular, eficaz, eficiente y seguro.
-
-VI. Implementar tecnologías limpias y vehículos eficientes y sustentables en el servicio de transporte público de personas pasajeras.
-
-VII. Mejorar la organización de las personas prestadoras del servicio de transporte público de personas pasajeras, a través de cuencas o el método que la agencia determine para tal efecto, para que estos optimicen su funcionamiento y brinden un servicio de calidad acorde a las necesidades de la población, principalmente a los grupos en situación de vulnerabilidad y personas con discapacidad y movilidad limitada.
-
-VIII. Dotar de infraestructura adecuada para alcanzar mayor eficiencia en el servicio de transporte público de personas pasajeras.
-
-IX. Articular de manera física, operativa y tecnológica el servicio de transporte público de personas pasajeras, a efecto de garantizar que sea confiable, eficiente, cómodo, seguro, de bajas emisiones contaminantes y con altos estándares de calidad, accesibilidad y cobertura.
-
-X. Realizar progresivamente la integración y coordinación de los diferentes tipos del servicio de transporte público de personas pasajeras, facilitando a la persona usuaria un transporte con el menor número de interrupciones, que supere las diferentes competencias administrativas y propicie la máxima calidad que la tecnología de transporte puede ofrecer.
-
-XI. Contribuir a garantizar el derecho a la movilidad de la población.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 89.
 
-Principios del Sistema Metropolitano de Movilidad Amable y Sostenible
-
-El Sistema Metropolitano de Movilidad Amable y Sostenible operará, además de los principios de movilidad y seguridad vial previstos en el artículo 4 de la ley general, bajo los siguientes principios:
-
-I. Continuidad: el servicio de transporte público de personas pasajeras no puede ser interrumpido ni suspendido.
-
-II. Regularidad: debe garantizarse que el servicio de transporte público de personas pasajeras sea prestado en todo momento conforme a las disposiciones de esta ley, su reglamento, los programas de operación que al efecto emita la agencia y demás normativa aplicable.
-
-III. Integración del servicio: se debe promover la integración de las diversas divisiones, subdivisiones y clasificaciones del servicio de transporte público de personas pasajeras, mediante la implementación de sistemas de transporte eficientes y potenciando la intermodalidad y conectividad entre ellos, física y tarifariamente.
-
-IV. Asequibilidad: procurar que el servicio de transporte público de personas pasajeras sea adecuado a las necesidades sociales y se reduzcan los costos y tiempos de traslado de las personas.
-
-V. Innovación tecnológica: procurar el uso de soluciones y sistemas tecnológicos que permitan un desempeño eficiente del servicio de transporte público de personas pasajeras y que puedan generar un desarrollo sustentable con eficiencia energética y fuentes de energía renovable.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 90.
 
-Coordinación y ejecución del Sistema Metropolitano de Movilidad Amable y Sostenible
-
-La agencia coordinará y ejecutará el Sistema Metropolitano de Movilidad Amable y Sostenible, y dispondrá de todo lo necesario para la instauración y cumplimiento de su objeto y sus objetivos.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 91.
 
-Componentes del Sistema Metropolitano de Movilidad Amable y Sostenible
-
-El Sistema Metropolitano de Movilidad Amable y Sostenible para el cumplimiento de su objeto contará con los siguientes componentes:
-
-I. Instalaciones, infraestructura y equipamiento que den soporte al Sistema Metropolitano de Movilidad Amable y Sostenible.
-
-II. Centro de monitoreo y operaciones.
-
-III. Centros de transferencia modal y su equipamiento auxiliar.
-
-IV. Servicios auxiliares y conexos.
-
-V. Los dispositivos, equipo y componentes tecnológicos que den soporte al Sistema Metropolitano de Movilidad Amable y Sostenible.
-
-VI. Cualquier otra instalación que dé soporte al Sistema Metropolitano de Movilidad Amable y Sostenible.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 92.
 
-Adhesión al Sistema Metropolitano de Movilidad Amable y Sostenible
-
-La agencia podrá requerir la adhesión al Sistema Metropolitano de Movilidad Amable y Sostenible a las personas concesionarias del servicio de transporte público de personas pasajeras, conforme a los lineamientos y procedimientos que la agencia emita para tal efecto. Las personas concesionarias deberán sujetarse a las condiciones generales de operación de conformidad con las especificaciones técnicas y operativas necesarias para la prestación del servicio; en caso de no adherirse conforme a lo dispuesto en esta ley, su reglamento y los lineamientos que emita la agencia, la concesión será revocada.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 93.
 
-Imagen institucional del sistema
-
-El Sistema Metropolitano de Movilidad Amable y Sostenible contará con la imagen institucional que determine la agencia en el programa de operación correspondiente, el cual deberá utilizarse obligatoriamente en las unidades destinadas al servicio de transporte público de personas pasajeras del Sistema Metropolitano de Movilidad Amable y Sostenible. En caso que la persona concesionaria altere la imagen institucional, se determinará su responsabilidad de conformidad con lo que dispongan las condiciones generales de operación, los programas de operación, esta ley, su reglamento y demás disposiciones legales aplicables.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 94.
 
-Administración del recurso del sistema
-
-Los recursos que se obtengan por la prestación del servicio de transporte público en el Sistema Metropolitano de Movilidad Amable y Sostenible serán concentrados y administrados por la agencia, a través de un fideicomiso público que se constituirá para la operación financiera del Sistema Metropolitano de Movilidad Amable y Sostenible y para el pago de servicios conexos.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 95.
 
-Atribuciones del Centro de Monitoreo y Operaciones
-
-El Centro de Monitoreo y Operaciones es el órgano de la agencia que coordinará las acciones para una eficiente operación del servicio de transporte público de personas pasajeras y del Sistema Metropolitano de Movilidad Amable y Sostenible que, para el cumplimiento de su objeto, tendrá las siguientes atribuciones:
-
-I. Manejar la tecnología de monitoreo de los traslados de las unidades destinadas al servicio de transporte público de personas pasajeras.
-
-II. Detectar e informar en tiempo real las ubicaciones donde existan congestiones viales, se presenten los retrasos y las necesidades de abastecimiento.
-
-III. Implementar los instrumentos o tecnologías que permitan analizar macrodatos para mantener informados a las personas usuarias y a las autoridades.
-
-IV. Proporcionar información confiable para la toma de decisiones.
-
-V. Cuantificar el número de personas pasajeras y los kilómetros recorridos de las unidades.
-
-VI. Apoyar en aspectos de seguridad para brindar un servicio eficiente y atención en caso de contingencia.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 96.
 
-Integración de información del servicio de transporte público
-
-El Centro de Monitoreo y Operaciones deberá integrar lo siguiente:
-
-I. Información relativa al número de personas pasajeras y a la cantidad de kilómetros recorridos de las unidades para realizar el pago a las personas concesionarias adheridas al Sistema Metropolitano de Movilidad Amable y Sostenible por kilómetro recorrido.
-
-II. La oferta y la demanda de los diferentes modos de transporte.
-
-III. Información sobre los servicios de transporte público de personas pasajeras.
-
-IV. Costos sobre la prestación de los servicios de todos los modos de transporte público de personas pasajeras, con la finalidad de que la agencia obtenga una visión integrada que permita su análisis, facilite la gestión de la movilidad, mejore el diseño de soluciones de movilidad sostenibles y eficientes, y aporte transparencia para el diseño de las políticas públicas en materia de transportes y movilidad.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 97.
 
-Integración, organización y funcionamiento del Centro de Monitoreo y Operaciones
-
-El Centro de Monitoreo y Operaciones se integrará, organizará y funcionará de acuerdo con lo que señale el reglamento de esta ley y el programa de operación que emita la agencia.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 98.
 
-Obligatoriedad del sistema de localización satelital
-
-Los prestadores del servicio de transporte público de personas pasajeras que se encuentren integrados al Sistema Metropolitano de Movilidad Amable y Sostenible tienen la obligación de colocar, utilizar y mantener funcionando en sus unidades un sistema de localización vía satelital que pueda ser monitoreado desde el centro de monitoreo y operaciones, a fin de generar la información necesaria que permita determinar el pago del servicio prestado, el cual se realizará por kilómetro recorrido conforme lo dispuesto en las condiciones generales de operación. La agencia establecerá los lineamientos que deben cubrir dichos dispositivos.
-
-Cuando los dispositivos del sistema de localización vía satelital sean propiedad o de legal posesión de la agencia, esta última coordinará la instalación correspondiente, conforme al procedimiento que se determine en los programas de operación y en el reglamento de esta ley, para lo cual, la persona concesionaria estará obligada a dar todas las facilidades al personal que la agencia designe para tal efecto, y a someterse a los calendarios de instalación respectivos.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 99.
 
-Centros de transferencia modal
-
-El Sistema Metropolitano de Movilidad Amable y Sostenible contará con centros de transferencia modal, destinados a organizar el servicio de transporte público de personas pasajeras y su oferta, así como a la conexión de los diversos modos de transporte que permitan un adecuado y seguro funcionamiento del tránsito peatonal y vehicular.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 100.
 
-Objeto de los centros de Transferencia Modal
-
-Los centros de transferencia modal deberán ser instalaciones planeadas y desarrolladas para fortalecer la operación y facilitar la intercomunicación y el acceso al servicio de transporte público de personas pasajeras, se ubicarán fuera de la vía pública, y tendrán por objeto vincular los diferentes modos de transporte, crear y operar zonas de transferencia estratégicas, para que las unidades destinadas al servicio del transporte público de personas pasajeras ingresen y egresen para el ascenso y descenso de personas pasajeras.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 101.
 
-Criterios que deberán cumplir los centros de transferencia modal
-
-El Sistema Metropolitano de Movilidad Amable y Sostenible deberá garantizar que los centros de transferencia modal cumplan con los siguientes criterios:
-
-I. Diseño universal, incluyente y accesible para personas con discapacidad y grupos vulnerables, bajo los criterios de pluriculturalidad y multilingüismo, con perspectiva de género.
-
-II. Accesos en zonas seguras y áreas circundantes de calidad para los diferentes modos de transporte.
-
-III. Áreas de tránsito que faciliten a las unidades de servicio de transporte público de personas pasajeras, el ascenso y descenso de personas pasajeras de forma segura y eficiente con especial atención en las personas con discapacidad.
-
-IV. Áreas que permitan la intermodalidad del servicio de transporte público de personas pasajeras, con modos de transporte no motorizados.
-
-V. Servicios en red con nodos de cambio de servicio, a través de los cuales las personas usuarias puedan completar su ruta desde su origen hasta su destino, con coordinación tanto física como horaria de los servicios.
-
-VI. Intermodalidad y uso combinado de la bicicleta en trayectos urbanos e interurbanos.
-
-VII. Soluciones tecnológicas de información, como dispositivos móviles, que sirvan para transmitir a la persona usuaria información pertinente respecto del servicio.
-
-VIII. Información oportuna y señalización que oriente los movimientos de la persona usuaria.
-
-IX. Servicios básicos para que la conexión se efectúe con seguridad y comodidad.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 102.
 
-Programa de operación para los centros de transferencia modal
-
-La agencia emitirá un programa de operación para los centros de transferencia modal, el cual contendrá como mínimo la organización, operación y funcionamiento de los centros de transferencia modal, así como las especificaciones para la nomenclatura e identificación gráfica, que permitan contar con sistemas de orientación e información a la persona usuaria.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 103.
 
-Características de las instalaciones de los centros de transferencia modal
-
-Las características de las instalaciones de los nuevos centros de transferencia modal o la reconversión de los existentes será determinado por el reglamento de esta ley, las normas técnicas que para tal efecto emita la agencia, así como por los ordenamientos en materia de desarrollo urbano, construcción y demás relativos aplicables, debiendo además considerar la accesibilidad universal y las disposiciones de la Ley para la Protección de los Derechos de las Personas con Discapacidad del Estado de Yucatán.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 104.
 
-Administración de los centros de transferencia modal
-
-La administración, explotación y supervisión de los centros de transferencia modal, los servicios complementarios y su equipamiento auxiliar corresponderá a la agencia. La explotación de estos centros, sus servicios complementarios y equipamientos auxiliares, podrán otorgarse a terceros mediante concesión, autorización, permiso, licencia, contrato o la figura jurídica más conveniente, de conformidad con las disposiciones aplicables.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 105.
 
-Medios para la construcción o instalación de los centros de transferencia modal
-
-La construcción o instalación de los centros de transferencia modal se podrá realizar por medio de obra pública, asociación público-privada o cualquier otro mecanismo previsto en la legislación aplicable. Deberá desarrollarse como un proyecto integral de mejoramiento urbano, para fomentar la accesibilidad y el mejor uso de la zona y sus alrededores; y podrá planearse y gestionarse a través de los instrumentos del sistema de planeación territorial que correspondan o los instrumentos aplicables en congruencia con la legislación en materia de ordenamiento territorial, desarrollo urbano y asentamiento (sic) humanos.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 106.
 
-Condiciones para utilizar los centros de transferencia modal
-
-Las personas prestadoras de servicio de transporte público de personas pasajeras que utilicen los centros de transferencia modal, lo harán previo pago de la cantidad que determine la agencia.
-
-La agencia podrá autorizar el acceso a los centros de transferencia modal a los prestadores del servicio de transporte público de personas pasajeras provenientes de otras entidades federativas, o a los prestadores del servicio de autotransporte público federal de personas pasajeras o turismo.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ### Capítulo III. Sistema tarifario, de peaje y control de acceso
 
 ###### Artículo 107.
 
-Sistema tarifario
-
-El sistema tarifario es el mecanismo de financiamiento del servicio de transporte público de personas pasajeras, que se conforma con los recursos provenientes del pago de la tarifa que realizan las personas usuarias, así como por el pago de los servicios que determine la agencia, a través del Sistema Metropolitano de Movilidad Amable y Sostenible. El sistema tarifario contribuye al sustento económico del servicio de transporte en el estado, para que dicha prestación pueda realizarse en la forma y condiciones señaladas en este ordenamiento.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 108.
 
-Directrices del sistema tarifario
-
-El sistema tarifario tendrá las siguientes directrices:
-
-I. Aprovechar, racionalizar y optimizar el ejercicio de sus recursos, encaminados a mejorar la prestación del servicio de transporte.
-
-II. Propiciar la simplificación administrativa en su modelo de administración y la transparencia en el manejo de los recursos.
-
-III. Atender las necesidades de los grupos en situación de vulnerabilidad.
-
-IV. Implementar acciones que permitan que las tarifas del servicio de transporte público de personas pasajeras sean congruentes con las condiciones socioeconómicas de la población.
-
-V. Fomentar el desarrollo de estudios e investigaciones para mejorar el servicio de transporte.
-
-VI. Las demás que sean necesarias para que la prestación del servicio de transporte pueda realizarse en la forma y condiciones señaladas en esta ley.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 109.
 
-Autorización de las tarifas
-
-La agencia autorizará las tarifas del servicio de transporte público, de conformidad con el procedimiento establecido en el reglamento de esta ley.
-
-Cuando las personas concesionarias soliciten la autorización de tarifas nuevas o de modificación a las existentes, dicha solicitud deberá presentarse ante la agencia, acompañada del estudio socioeconómico que, para tales efectos, se haya llevado a cabo para juzgar su conveniencia, con la finalidad de que ésta, previo análisis de viabilidad, resuelva la procedencia correspondiente.
-
-La agencia podrá realizar revisiones a las tarifas del servicio de transporte público cuando lo estime necesario y deberá llevar a cabo una revisión obligatoria, cuando menos, cada dos años. Para ambos supuestos, la agencia deberá realizar un estudio socioeconómico el cual servirá de base para emitir la resolución correspondiente.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 110.
 
-Publicación de las tarifas aprobadas
-
-Las tarifas, una vez aprobadas, se publicarán para su cumplimiento en el Diario Oficial del Gobierno del Estado de Yucatán. Asimismo, una vez publicadas, las personas concesionarias deberán exhibirlas en lugares visibles en sus terminales y unidades destinadas a la prestación del servicio.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 111.
 
-Sistema de Peaje y Control de Acceso
-
-El Sistema de Peaje y Control de Acceso se integrará por todos los elementos que permitan la recaudación, distribución y dispersión centralizada, independientemente de las formas de pago de las personas usuarias de los servicios que formarán el Sistema Metropolitano de Movilidad Amable y Sostenible.
-
-Para la correcta distribución y dispersión de los recursos, se deberá considerar la información generada por el centro de monitoreo y operaciones y se realizará exclusivamente en los términos que señala esta ley, en las condiciones generales de operación, programas de operación y demás instrumentos que, para la prestación del servicio de transporte público de personas pasajeras, expida la agencia, así como en lo estipulado en el contrato de fideicomiso constituido para la operación financiera del Sistema Metropolitano de Movilidad Amable y Sostenible.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 112.
 
-Forma de pago a personas concesionarias
-
-A las personas concesionarias del servicio de transporte público de personas pasajeras que formen parte del Sistema Metropolitano de Movilidad Amable y Sostenible, se les pagará por kilómetro recorrido. La determinación del monto por kilómetro recorrido, así como la cantidad y forma en que se pagará a las personas concesionarias, se realizará conforme a lo siguiente:
-
-I. Ajuste de precio por kilómetro recorrido de unidades diésel.
-
-El pago por kilómetro podrá actualizarse cada año en el mes de abril, siempre que durante dicho año no se lleve a cabo una revisión extraordinaria y como consecuencia se realice la actualización correspondiente.
-
-La revisión extraordinaria podrá realizarse en fecha distinta, por incremento al diésel mayor al 10%, cuando existan condiciones que pongan en peligro la generalidad, la eficiencia, la regularidad o la seguridad del servicio.
-
-Las actualizaciones del pago por kilómetro se realizarán conforme a los incrementos que se señalan a continuación:
-
-> <small>[N. DE E. VÉASE FÓRMULA EN EL D.O. DE 12 DE SEPTIEMBRE DE 2022, PÁGINA 74.]</small>
-
-La variación anual del precio del diésel se multiplica por el 24% y el 76% por la variación anual del Índice Nacional de Precios al Consumidor, la sumatoria da como resultado el incremento anual ponderado, el cual se multiplica por el costo operativo y, finalmente se suma al costo operativo y financiero. El resultado de esta actualización tendrá como máximo un incremento del 10% anual del valor total del precio por kilómetro.
-
-Esta actualización aplicará siempre que las condiciones financieras del instrumento legal para la operación financiera del Sistema Metropolitano de Movilidad Amable y Sostenible lo permitan, en caso contrario se aplicará un año de gracia para la actualización. Transcurrido el año de gracia, la actualización considerará el costo del diésel y el Índice Nacional de Precios al Consumidor de los dos años anteriores.
-
-II. Ajuste de precio por kilómetro recorrido de unidades eléctricas.
-
-El pago por kilómetro podrá actualizarse cada año en el mes de abril, siempre que durante dicho año no se lleve a cabo una revisión extraordinaria y como consecuencia se realice la actualización correspondiente.
-
-La revisión extraordinaria podrá realizarse en fecha distinta, por incremento al diésel mayor al 10%, existan condiciones que pongan en peligro la generalidad, la eficiencia, la regularidad o la seguridad del servicio.
-
-Las actualizaciones del pago por kilómetro se realizarán conforme a los incrementos que se señalan a continuación:
-
-> <small>[N. DE E. VÉASE FÓRMULA EN EL D.O. DE 12 DE SEPTIEMBRE DE 2022, PÁGINA 75.]</small>
-
-La variación anual del Índice Nacional de Precios al Consumidor se multiplica por el costo operativo y se suma al costo operativo y financiero. El resultado de esta actualización tendrá como máximo un incremento del 10% anual del valor total del precio por kilómetro.
-
-Esta actualización aplicará siempre que las condiciones financieras del instrumento legal para la operación financiera del Sistema Metropolitano de Movilidad Amable y Sostenible lo permitan, en caso contrario se aplicará un año de gracia para la actualización. Transcurrido el año de gracia, la actualización considerará el costo del diésel y el Índice Nacional de Precios al Consumidor de los dos años anteriores.
-
-Lo anterior se establecerá en las concesiones, las condiciones generales de operación y en los programas de operación anexos a éstas que emita la agencia.
-
-El pago por kilómetro recorrido podrá modificarse en las condiciones generales de operación, de conformidad con los supuestos previstos en el reglamento de esta ley.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 113.
 
-Vía de cobro de tarifa
-
-El cobro de la tarifa del servicio del transporte público de personas pasajeras, deberá efectuarse únicamente mediante el Sistema de Peaje y Control de Acceso. Los programas de operación que expida la agencia establecerán las condiciones de instalación, habilitación, conservación y todo lo relativo a su funcionamiento; los mecanismos y plazos para su implementación; y la manera de realizar el recaudo.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 114.
 
-Prioridad del Sistema de Peaje y Control de Acceso
-
-El Sistema de Peaje y Control de Acceso del servicio de transporte público de personas pasajeras del Sistema Metropolitano de Movilidad Amable y Sostenible priorizará los medios electrónicos de pago para el cobro de las tarifas e incorporará de manera eficiente la tecnología que mejor se adapte a las necesidades del Sistema de Peaje y Control de Acceso, el cual ofrecerá a la persona usuaria alternativas de cobro modernas, que puedan incluir entre otros: tarjetas inteligentes, boletos prepagados, multiviajes con descuento, multimodales, por distancia recorrida o por zonas.
-
-Asimismo, cuando la persona usuaria no tenga saldo suficiente en su tarjeta inteligente, podrá realizar un viaje a crédito para la utilización del servicio de transporte, no acumulable, mismo que será cobrado en conjunto con la tarifa normal en el siguiente viaje que realice.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 115.
 
-Obligatoriedad de uso de validadores, dispositivos electrónicos y tecnológicos
-
-Las personas prestadoras del servicio de transporte público de personas pasajeras que se encuentren integradas al Sistema Metropolitano de Movilidad Amable y Sostenible tendrán la obligación de colocar, utilizar y mantener funcionando en sus unidades, los validadores, dispositivos electrónicos y tecnológicos necesarios que permitan la operación del Sistema de Peaje y Control de Acceso. La agencia establecerá los lineamientos que deben cubrir dichos dispositivos.
-
-Cuando los validadores o dispositivos electrónicos y tecnológicos sean propiedad o de legal posesión de la agencia, esta última coordinará la instalación correspondiente, conforme al procedimiento que se determine en los programas de operación y en el reglamento de esta ley, para lo cual, la persona concesionaria estará obligada a dar todas las facilidades al personal que la agencia designe para tal efecto y someterse a los calendarios de instalación respectivos.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 116.
 
-Administración y operación del Sistema de Peaje y Control de Acceso
-
-La administración y operación del Sistema de Peaje y Control de Acceso es responsabilidad y atribución de la agencia, la cual podrá otorgar a terceros mediante concesión, autorización, permiso, licencia, contrato o la figura jurídica más conveniente, de conformidad con las disposiciones aplicables.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ## TÍTULO SEXTO. AUTORIZACIONES PARA LA PRESTACIÓN DEL SERVICIO DE TRANSPORTE PÚBLICO
 
@@ -1705,169 +1477,103 @@ La administración y operación del Sistema de Peaje y Control de Acceso es resp
 
 ###### Artículo 117.
 
-Otorgamiento de concesión
-
-Para la prestación del servicio de transporte público, se deberá contar con concesión que será otorgada por la agencia, a personas físicas o morales que deseen prestarlo, previo cumplimiento de las formalidades y requisitos señalados en esta ley y su reglamento, y con sujeción a las disposiciones antes señaladas, así como a los demás ordenamientos legales, técnicos, operativos y administrativos aplicables que emita la agencia.
-
-En el caso de que varios de los interesados se encuentren en igualdad de condiciones, la concesión será otorgada considerando la antigüedad de los concesionarios existentes.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 118.
 
-Responsable del procedimiento para el otorgamiento de las concesiones
-
-La agencia se encargará de la expedición y publicación de la convocatoria, los requisitos, las formalidades, el procedimiento, resoluciones y plazos aplicables para el otorgamiento de las concesiones, de conformidad con lo establecido en el reglamento de esta ley. Para el otorgamiento de las concesiones, las convocatorias deberán contener requisitos ambientales, energéticos y de seguridad vial y su expedición estará sujeta a las necesidades de planeación de vialidad y transporte en el estado, y de acuerdo con los estudios que al efecto lleve a cabo la agencia.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 119.
 
-Requisitos para la convocatoria
-
-Los requisitos mínimos que debe contener la convocatoria para el otorgamiento de la concesión son:
-
-I. Escrito de manifestación de interés de participar en el proceso, que contenga nombre o razón social y domicilio de la persona solicitante; la clase de servicio que se pretenda prestar; y la relación y características de los vehículos que se pretendan utilizar para la prestación del servicio de transporte de personas pasajeras.
-
-II. Acreditar la personalidad de la persona solicitante. Las personas físicas deberán presentar copia del acta de nacimiento e identificación oficial. Tratándose de personas morales, copia del acta constitutiva debidamente certificada y, en su caso, copia de la última modificación a sus estatutos, así como el documento que acredite la personalidad de su representante legal o apoderado.
-
-III. Acreditar que los vehículos destinados al servicio son de su propiedad o dispone legalmente de ellos por un tiempo igual al de la duración máxima de la concesión.
-
-Si la persona solicitante no se encontrare en condiciones de acreditar lo anteriormente señalado, por tratarse de vehículos en proceso de compra o adquisición, deberá presentar la orden de compra, el comprobante fiscal o el instrumento jurídico correspondiente para acreditar que dispondrá de los vehículos por un tiempo igual al de la duración máxima de la concesión.
-
-IV. Acreditar la internación y permanencia legal en el país de los vehículos de procedencia extranjera que se pretendan utilizar en la prestación del servicio público de transporte, con los documentos expedidos por la autoridad correspondiente.
-
-V. Presentar la Constancia de Situación Fiscal expedida por el Servicio de Administración Tributaria.
-
-El procedimiento, las formalidades y los plazos aplicables en el otorgamiento de las concesiones, se establecerán en el reglamento de esta ley.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 120.
 
-Duración de las concesiones
-
-Las concesiones se otorgarán hasta por un plazo de diez años, y de quince años únicamente para el caso de concesiones otorgadas a vehículos eléctricos; podrán ser renovadas en una o varias ocasiones, siempre que cada una de ellas no exceda del plazo por el que se otorgó la primera concesión y que, además, la persona concesionaria cumpla los requisitos y procedimientos previstos en el reglamento de esta ley. La renovación no constituye derecho preexistente a favor de las personas concesionarias, quienes estarán sujetas a la disposición antes señalada.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 121.
 
-Inscripción ante el padrón
-
-Dentro de los diez días hábiles siguientes a la fecha del otorgamiento de la concesión, o de haber adquirido los derechos y obligaciones contenidos en ésta, la persona concesionaria deberá inscribir los datos de la concesión en el padrón de concesiones, permisos, constancias, certificados vehiculares y certificados de operadores de transporte del estado. Dentro de los seis meses siguientes a la inscripción referida, la persona concesionaria deberá presentar ante la dirección de transporte de la agencia, el o los vehículos que se destinarán al servicio que se concesiona para su verificación vehicular y, en caso de ser procedente, dicha dirección llevará a cabo el registro correspondiente en el Registro de Vehículos de Transporte en el Estado de Yucatán.
-
-Si la persona concesionaria se encuentra en proceso de compra o adquisición de la o las unidades durante el plazo señalado para la verificación vehicular, deberá solicitar una prórroga haciendo constar el motivo y presentar la orden de compra, el comprobante fiscal o el instrumento jurídico correspondiente para acreditar que dispondrá del vehículo o los vehículos por un tiempo igual al de la duración máxima de la concesión; en caso de ser procedente y previa valuación de los documentos, la dirección de transporte de la agencia determinará la ampliación del plazo, que será por el plazo de tiempo que transcurra hasta la fecha de entrega pactada en la orden de compra, comprobante fiscal o instrumento jurídico correspondiente debidamente acreditados, contado a partir del vencimiento del plazo de seis meses anteriormente referido.
-
-La solicitud de prórroga señalada deberá ser presentada ante la dirección de transporte de la agencia, dentro del plazo de un mes antes de la terminación del plazo de los seis meses señalado con anterioridad.
-
-Las unidades destinadas a la prestación del servicio de transporte no podrán proporcionar dicho servicio hasta que cuenten con placa de circulación específica para el servicio que se preste, de conformidad con lo que establezca la legislación aplicable.
-
-Si la persona concesionaria no cumpliere las disposiciones y plazos a que se refieren los párrafos anteriores, la concesión le será revocada.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 122.
 
-Condiciones para la cesión de concesiones
-
-Las concesiones podrán cederse siempre y cuando se cumpla con los requisitos y el procedimiento señalado en el reglamento de esta ley.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 123.
 
-Condición para la agrupación de personas concesionarias
-
-Las personas concesionarias del servicio de transporte público de personas pasajeras, podrán agruparse en personas morales si tienen por objeto mejorar su funcionamiento o llevar a cabo otros fines análogos que no se opongan a esta ley y demás disposiciones aplicables, con fines referentes al servicio que no tengan carácter preponderantemente económico. Los miembros de las personas morales que se constituyan conforme a este precepto, deberán reservarse la titularidad de sus concesiones.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 124.
 
-Condiciones para la prestación del servicio
-
-Para la prestación del servicio de transporte público de personas pasajeras, se deberán utilizar únicamente las unidades que la agencia autorice a la persona concesionaria conforme al programa de operación que establece sus características físico-mecánicas.
-
-Las personas prestadoras del servicio de transporte podrán instalar publicidad en los vehículos designados, previa autorización de la agencia, y cumpliendo con las especificaciones de ubicación, diseño y tamaño que establezca el reglamento de esta ley, así como los programas de operación que emita la agencia para tal efecto.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 125.
 
-Contratos de crédito adquiridos por personas concesionarias
-
-Si la persona concesionaria adquiere obligaciones crediticias sobre las unidades autorizadas para prestar el servicio, a favor de un tercero integrante del sistema financiero mexicano o a favor del Gobierno del estado, en virtud de la celebración de un contrato de crédito con garantía prendaria o instrumento equivalente, las unidades no podrán ser sustituidas si no se cuenta con el consentimiento por escrito de la personal acreedora de que se trate.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 126.
 
-Cambios temporales en el itinerario de una ruta
-
-La agencia podrá variar temporalmente el itinerario de una ruta, sin alterar su origen y destino, cuando resulte necesario por la ejecución de una obra pública, la realización de algún evento cívico, religioso, cultural, deportivo o por caso fortuito o fuerza mayor. Esta modificación no formará parte del título de concesión. En caso de variación temporal de una ruta, la agencia determinará el recorrido provisional y, en su caso, las respectivas paradas, debiendo notificarlo oportunamente a la persona concesionaria e informar a la persona usuaria.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 127.
 
-Cambios definitivos en el itinerario de una ruta
-
-Cuando la variación sea de carácter definitivo por alguno de los supuestos previstos en el artículo anterior, o por el cambio de sentido de circulación vial, la agencia podrá autorizar la modificación de ruta. Esta modificación se incluirá en el título de concesión a través de las condiciones generales de operación o programas de operación. Sólo se podrá variar de manera definitiva la ruta cuando esta medida resulte necesaria para mejorar sustancialmente el servicio, con base en los estudios técnicos que al efecto realice la agencia. En este caso, la agencia resolverá lo relativo a la modificación en los términos establecidos en esta ley y su reglamento.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 128.
 
-Modificación en los horarios de una ruta
-
-La agencia podrá modificar los horarios de una ruta, cuando derivado de un estudio técnico se compruebe su necesidad, siempre y cuando represente una mejora sustancial al servicio.
-
-La persona concesionaria podrá solicitar a la agencia la modificación de los horarios de una ruta, debiendo presentar la justificación técnica que compruebe la necesidad, la cual será dictaminada por dicha autoridad.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 129.
 
-Obligaciones de las personas concesionarias del servicio de transporte público de personas pasajeras
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
-Son obligaciones de las personas concesionarias del servicio de transporte público de personas pasajeras, las siguientes:
-
-I. Prestar el servicio público concesionado de conformidad con lo establecido en la concesión correspondiente, dentro del territorio señalado en la misma.
-
-II. Pintar o marcar en los vehículos destinados al servicio concesionado el rótulo que contenga el nombre o razón social que los identifique, con excepción de las unidades que operen adheridas al Sistema Metropolitano de Movilidad Amable y Sostenible, las cuales deberán cumplir con lo señalado en la fracción II, del artículo 131 de esta ley.
-
-III. Mantener los vehículos destinados al servicio concesionado en buen estado de funcionamiento y operación, de calidad, y seguridad e higiene.
-
-IV. Habilitar y mantener a su costa, las terminales en las condiciones que establezcan esta ley y su reglamento.
-
-V. Prestar servicio gratuito en caso de emergencia, desastre o cualquier problema grave que afecte a los municipios comprendidos en la ruta en que operen la concesión y en cualquier otro punto del estado, a requerimiento de la autoridad competente.
-
-VI. Someter periódicamente, a su costa, a quienes operen los vehículos que se destinen a la prestación del servicio concesionado, a los exámenes médicos de conformidad con los programas de operación emitidos por la agencia, informando los resultados oportunamente a este, de conformidad con lo que establezca el reglamento de esta ley.
-
-VII. Inscribir los vehículos que se destinen a la prestación del servicio concesionado en el registro que al efecto lleve la agencia.
-
-VIII. Vigilar que el manejo y control efectivo de los vehículos destinados a la prestación del servicio, quede encomendado únicamente a las personas operadoras que cuenten con la licencia y tarjetón único de operador correspondientes, y que cumplan con el perfil y demás requisitos que establezca esta ley y el reglamento.
-
-Los requisitos y el procedimiento para la obtención del tarjetón único de operador estarán contenidos en el reglamento de esta ley.
-
-IX. Integrar y poner a disposición de la agencia, cuando les sean requeridos, los expedientes individuales de sus operadores, los cuales deberán contener la documentación y registros relativos a los hechos de tránsito en que cada uno de ellos haya participado derivado de la prestación del servicio y el resultado de los exámenes médicos a que se hayan sometido, así como las anotaciones pertinentes derivadas de la observación y vigilancia de la conducta y eficacia.
-
-X. Informar mediante escrito motivado, a la agencia cuando vayan a dejar de operar el servicio público de transporte en las rutas o zonas otorgadas, con anticipación no menor de treinta días a que esto ocurra, o noventa días, si son los únicos prestadores.
-
-XI. Someter a los vehículos destinados a la prestación del servicio concesionado a verificación periódica, para efecto de controlar la emisión de contaminantes a la atmósfera, de acuerdo con lo que establezca la legislación en materia ambiental.
-
-XII. Proporcionar a las autoridades competentes de transporte toda la información que le sea requerida relacionada con la prestación del servicio público concesionado, a efecto de conocer y evaluar la forma de prestación de dichos servicios.
-
-XIII. Respetar los derechos de las personas usuarias establecidos en esta ley.
-
-XIV. Tramitar y obtener, para la prestación del servicio concesionado, las placas de circulación específicas de dicho servicio, en un plazo máximo de treinta días naturales siguientes a aquel en que la Dirección de Transporte haya llevado a cabo el registro correspondiente en el Registro de Vehículos de Transporte en el Estado de Yucatán. Si la persona concesionaria no acredita haber cumplido con el plazo anteriormente referido, la concesión le será revocada.
-
-XV. Las demás que señalen esta ley, su reglamento, el título de concesión, las condiciones generales de operación, los programas de operación y otras disposiciones legales y normativas aplicables.
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 130.
 
-Obligaciones de las personas concesionarias del servicio de transporte público de carga
+Obligaciones de las personas prestadoras del servicio de transporte público de carga
 
-Son obligaciones de las personas concesionarias del servicio de transporte público de carga, las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
-I. Prestar el servicio público concesionado de conformidad con lo establecido en la concesión correspondiente, dentro del territorio señalado en la misma.
+Son obligaciones de las personas prestadoras del servicio de transporte público de carga, las siguientes:
 
-II. Pintar o marcar en los vehículos destinados al servicio concesionado el rótulo que contenga el nombre o razón social que los identifique.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
-III. Mantener los vehículos destinados al servicio concesionado en buen estado de funcionamiento.
+I. Prestar el servicio de conformidad con lo establecido en la autorización correspondiente, dentro del territorio señalado en la misma.
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+II. Pintar o marcar en los vehículos destinados al servicio el rótulo que contenga el nombre o razón social que los identifique.
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+III. Mantener los vehículos destinados al servicio en buen estado de funcionamiento.
 
 IV. Habilitar y mantener a su costa, las terminales en las condiciones que establezcan esta ley y su reglamento.
 
-V. Prestar servicio gratuito en caso de emergencia, desastre o cualquier problema grave que afecte a los municipios comprendidos en la ruta en que operen la concesión y en cualquier otro punto del estado, a requerimiento de la autoridad competente.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+V. Prestar servicio gratuito en caso de emergencia, desastre o cualquier problema grave que afecte a los municipios comprendidos en la ruta en que se preste el servicio y en cualquier otro punto del estado, a requerimiento de la autoridad competente.
 
 VI. Entregar los bienes en el tiempo convenido y en buen estado.
 
-VII. Someter periódicamente, a su costa, a quienes operen los vehículos que se destinen a la a la (sic) prestación del servicio concesionado, a los exámenes médicos de conformidad con los programas de operación emitidos por la agencia, informando los resultados oportunamente a este, de conformidad con lo que establezca el reglamento de esta ley.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
-VIII. Inscribir los vehículos que se destinen a la prestación del servicio concesionado en el registro que al efecto lleve la agencia.
+VII. Someter periódicamente, a su costa, a quienes operen los vehículos que se destinen a la prestación del servicio, a los exámenes médicos de conformidad con los programas de operación emitidos por la autoridad competente, informando los resultados oportunamente a este, de conformidad con lo que establezca el reglamento de esta ley.
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+VIII. Inscribir los vehículos que se destinen a la prestación del servicio en el registro que al efecto lleve la autoridad competente.
 
 IX. Vigilar que el manejo y control efectivo de sus unidades quede encomendado únicamente a las personas operadoras que posean la licencia correspondiente y cumplan con el perfil y demás requisitos establecidos en el reglamento de esta ley.
 
-X. Integrar y poner a disposición de la agencia, cuando les sean requeridos, los expedientes individuales de sus operadores, los cuales deberán contener la documentación y registros relativos a los hechos de tránsito en que cada uno de ellos haya participado derivado de la prestación del servicio, y el resultado de los exámenes médicos a que se hayan sometido, así como las anotaciones pertinentes derivadas de la observación y vigilancia de la conducta y eficacia.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
-XI. Informar, mediante escrito motivado, a la agencia cuando vayan a dejar de operar el servicio público de transporte en las rutas o zonas otorgadas, con anticipación no menor de treinta días a que esto ocurra, o noventa días, si son los únicos prestadores.
+X. Integrar y poner a disposición de la autoridad competente, cuando les sean requeridos, los expedientes individuales de sus personas operadoras, los cuales deberán contener la documentación y registros relativos a los hechos de tránsito en que cada uno de ellos haya participado derivado de la prestación del servicio, y el resultado de los exámenes médicos a que se hayan sometido, así como las anotaciones pertinentes derivadas de la observación y vigilancia de la conducta y eficacia.
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XI. Informar, mediante escrito motivado, a la autoridad competente cuando vayan a dejar de operar el servicio público de transporte en las rutas o zonas otorgadas, con anticipación no menor de treinta días a que esto ocurra, o noventa días, si son los únicos prestadores.
 
 XII. Someter los vehículos destinados a la prestación del servicio, a verificación periódica, a efecto de controlar la emisión de contaminantes a la atmósfera, de acuerdo con lo que establezca la legislación en materia ambiental.
 
@@ -1875,191 +1581,39 @@ XIII. Proporcionar a las autoridades competentes toda la información que le sea
 
 XIV. Respetar los derechos de las personas usuarias establecidos en esta ley.
 
-XV. Las demás que señalen esta ley, su reglamento, el título de concesión, las condiciones generales de operación, los programas de operación y otras disposiciones legales y normativas aplicables.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XV. Las demás que señalen esta ley, su reglamento, las autorizaciones correspondientes, las condiciones generales de operación, los programas de operación y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 131.
 
-Obligaciones de las personas concesionarias del servicio de transporte público de personas pasajeras adheridos al sistema metropolitano de movilidad amable y sostenible
-
-Independientemente de las obligaciones de las personas concesionarias del servicio de transporte público de personas pasajeras establecidas en el artículo 129 de esta ley, son obligaciones específicas de las personas concesionarias del servicio de transporte público de personas pasajeras adheridos al Sistema Metropolitano de Movilidad Amable y Sostenible, las siguientes:
-
-I. Prestar el servicio exclusivamente en las rutas, derroteros, horarios, frecuencias y demás términos establecidos en las condiciones generales de operación y conforme a las disposiciones administrativas y procedimientos de operación establecidas por la agencia en el programa de operación.
-
-II. Prestar el servicio conforme a las disposiciones de la ley, su reglamento, las condiciones generales de operación, los programas de operación y demás disposiciones aplicables.
-
-III. Cuando se trate de una ruta o concesión nueva, iniciar la prestación del servicio en la fecha que le indique la agencia.
-
-IV. Adherirse al fideicomiso público para la operación financiera del Sistema Metropolitano de Movilidad Amable y Sostenible y permanecer en él hasta el término de la concesión.
-
-V. Permitir en el fideicomiso público para la operación financiera del Sistema Metropolitano de Movilidad Amable y Sostenible, la afectación de los bienes y derechos inherentes a la concesión.
-
-VI. Contar con un parque vehicular integrado con el número de vehículos determinado por la agencia, que incluya los que estén en operación y la reserva técnica para cubrir el servicio, en caso de mantenimiento y contingencias. Dichos vehículos deben cumplir con lo dispuesto por los programas de operación aplicables.
-
-VII. Contratar y mantener vigente durante la concesión o permiso, todas las licencias, permisos, seguros, garantías, seguro de responsabilidad civil, gastos legales, muerte del conductor, responsabilidad civil de personas pasajeras, peatonas y automovilistas, y demás relativos, necesarios para la prestación del servicio.
-
-Las pólizas de seguros deberán ser presentadas a la agencia, con al menos cinco días hábiles de anticipación al inicio de operación, tratándose de concesiones o rutas nuevas; y durante el primer mes de cada año, tratándose de concesiones o rutas previamente existentes. En caso de tratarse de seguros con vigencia anual, deberá presentar las renovaciones correspondientes. La póliza de seguro deberá señalar que para cancelar o modificar cualquier condición prevista en la póliza, se deberá contar con autorización expresa de la agencia, de igual forma, será obligación de la aseguradora notificar al instituto la falta de pago oportuno de las primas, así como cualquier otro cambio significativo a la cobertura o la moneda de contratación.
-
-Las primas e indemnizaciones a que haya lugar, serán liquidadas en moneda nacional y todos los deducibles serán asumidos invariablemente por la persona concesionaria.
-
-VIII. Que cada uno de los vehículos de la concesión cuente con los dispositivos y las tecnologías señalados en los artículos 98, 114 y 115 de esta ley.
-
-IX. Cumplir con las obligaciones fiscales y administrativas que le correspondan por la prestación del servicio concesionado, conforme a lo dispuesto por la ley, su reglamento, y demás disposiciones aplicables.
-
-X. Dar mantenimiento al parque vehicular y demás equipos e instalaciones afectos a la prestación del servicio, para lo cual deberán contar con un programa anual de mantenimiento de acuerdo con las especificaciones de los fabricantes, que deberá presentar anualmente a la agencia para conocimiento y supervisión.
-
-XI. Llevar un registro de las actividades desarrolladas con motivo de la prestación del servicio, y del programa de operación aplicable, y entregar a la agencia los informes que sean necesarios para verificar el cumplimiento de las obligaciones de la persona concesionaria, evaluar su desempeño y sustentar su pago.
-
-XII. Constituir en tiempo y forma la fianza de cumplimiento de las obligaciones de la concesión y mantenerla actualizada.
-
-XIII. Cumplir oportunamente con todos los trámites que establecen la ley, su reglamento y demás disposiciones aplicables.
-
-XIV. Aceptar las deducciones que aplique la agencia derivado del incumplimiento de la ley, el reglamento, el programa de operación y demás disposiciones legales aplicables.
-
-XV. Verificar que sus operadores cumplan con las obligaciones que les corresponden, establecidas en las disposiciones legales aplicables.
-
-XVI. Utilizar los medios de pago electrónico que determine la agencia, así como respetar las tarifas que se cobren por dichos medios.
-
-XVII. Respetar los derechos de las personas usuarias establecidos en esta ley y demás disposiciones aplicables.
-
-XVIII. Notificar la cesión, enajenación o transferencia de la concesión a la persona titular de la agencia conforme al procedimiento señalado en el reglamento de esta ley, así como en la demás normatividad aplicable.
-
-XIX. Utilizar en las unidades destinadas al servicio de transporte, la imagen institucional que determine la agencia. La persona concesionaria será responsable de la alteración de la imagen institucional.
-
-XX. No deberán portar o exhibir rótulos o anuncios que atenten contra la moral y las buenas costumbres o que tiendan a fomentar el consumo de productos que puedan causar daños a la salud.
-
-XXI. No dar un uso distinto a las unidades destinadas a prestar el servicio concesionado.
-
-XXII. Mantener las unidades destinadas al servicio concesionado, en los patios de encierro autorizados por la agencia, cuando no se encuentren prestando el servicio.
-
-XXIII. No permitir el estacionamiento o la realización de reparaciones de las unidades destinadas al servicio de transporte concesionado en la vía pública, con excepción de aquellas que sean motivadas por una emergencia.
-
-XXIV. Equipar las unidades destinadas a la prestación del servicio, con los componentes, validadores y dispositivos electrónicos y tecnológicos interconectados entre sí, en los términos que señale la agencia en el programa de operación respectivo.
-
-XXV. Hacer uso correcto de las unidades destinadas a la prestación del servicio, así como de los equipos y sistemas.
-
-XXVI. Prestar servicio gratuito en casos de emergencia, desastre o cualquier problema grave que afecte a los municipios comprendidos en la ruta en que operen y en cualquier otro punto del estado, a requerimiento de la autoridad competente.
-
-XXVII. Proporcionar capacitación permanente a sus operadores en prácticas viales que garanticen la integridad física de las personas peatonas y ciclistas; seguridad en materia de transporte; primeros auxilios; perspectiva de género y necesidades de grupos en situación de vulnerabilidad; y sensibilización para la prestación del servicio a personas con discapacidad o movilidad limitada. Dicha capacitación deberá ser debidamente acreditada ante la agencia, en los términos y condiciones que para tales efectos lo determine.
-
-XXVIII. Enviar periódicamente a las personas operadoras, a su costa, a practicarse los exámenes médicos de conformidad con los programas de operación emitidos por la agencia, informando oportunamente a esta los resultados.
-
-XXIX. Inscribir los vehículos que se destinen a la prestación del servicio concesionado, en el registro público vehicular.
-
-XXX. Integrar y poner a disposición de la agencia, cuando le sean requeridos, los expedientes individuales de sus operadores, los cuales deberán contener la documentación y registros relativos a los hechos de tránsito en que cada uno de ellos haya participado y el resultado de los exámenes médicos a que se hayan sometido, así como las anotaciones pertinentes derivadas de la observación y vigilancia de su conducta y eficacia.
-
-XXXI. Informar a la agencia, mediante escrito motivado, con anticipación no menor de treinta días hábiles a que ello ocurra, conforme al procedimiento establecido en el reglamento de esta ley, cuando vayan a dejar de prestar el servicio de forma definitiva o temporal.
-
-XXXII. Someter las unidades destinadas a la prestación del servicio de transporte a verificación periódica, a efecto de controlar la emisión de contaminantes a la atmósfera y gases de efecto invernadero, así como emprender medidas para la reducción de los mismos.
-
-XXXIII. Proporcionar a las autoridades de transporte toda la información que le sea requerida, para conocer y evaluar la forma de prestación del servicio.
-
-XXXIV. Contar con patios de encierro y talleres, que estarán equipados con áreas administrativas para conductores, estacionamiento, limpieza de las unidades y talleres de mantenimiento. El espacio de estos locales será proporcional al número de unidades que se pretenda introducir a estos, conforme a las disposiciones previstas en el reglamento de esta ley.
-
-XXXV. No alterar la infraestructura para la prestación del servicio y en caso de deterioro por negligencia, hacer las reparaciones con recursos propios.
-
-XXXVI. Cubrir en tiempo y forma el número de kilómetros que determine la agencia, conforme el programa de operación aplicable, en el entendido de que estos podrán variar en función de la demanda de personas usuarias, con base en la evaluación que realice.
-
-XXXVII. Compartir anualmente con la agencia, los estados financieros anuales auditados dentro de los cuatro meses siguientes al cierre de cada ejercicio fiscal, así como los reportes de cumplimiento y pago de sus obligaciones fiscales.
-
-XXXVIII. Tratándose de vehículos de combustión interna, estos no deberán abastecer de combustible con personas pasajeras a bordo.
-
-XXXIX. No interrumpir injustificadamente el servicio.
-
-XL. El servicio de transporte público de personas pasajeras no deberá prestarse por intermediación de terceros. No se considerará intermediarios a los operadores de las unidades destinadas al servicio.
-
-XLI. No afectar en fideicomiso o gravar de manera alguna, total o parcialmente la concesión o permiso, o alguno de los derechos en ella contenidos, sin previa autorización por escrito de la agencia.
-
-XLII. No ceder, enajenar, transmitir, afectar en fideicomiso, o gravar los bienes afectos al servicio.
-
-XLIII. Las demás que señalen esta ley, su reglamento y otras disposiciones legales y normativas aplicables.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 132.
 
-Formalidades y requisitos para la administración, explotación y supervisión de los componentes del Sistema Metropolitano de Movilidad Amable y Sostenible
-
-Para el caso de que la agencia determine la administración, explotación y supervisión de los componentes previstos en el artículo 91 de la presente ley, estos actos se formalizarán mediante concesión, autorización, permiso, licencia, contrato o la figura jurídica más conveniente, de conformidad con el reglamento de esta ley y demás disposiciones aplicables.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ### Capítulo II. Permisos
 
 ###### Artículo 133.
 
-Permisos
-
-Para la prestación del servicio de transporte privado de personas pasajeras y de carga, las personas físicas o morales deberán contar con permiso, el cual será otorgado de manera anual por la persona titular de la agencia, previa satisfacción de los requisitos y formalidades previstos en esta ley y su reglamento.
-
-Además del permiso a que se refiere el párrafo anterior, la agencia podrá emitir permisos por evento o por traslado.
-
-Los permisos podrán ser renovados en una o varias ocasiones, siempre que cada una (sic) de ellos no exceda el plazo originalmente otorgado, siempre y cuando se sigan cumpliendo los requisitos previstos en esta ley y su reglamento.
-
-Una vez otorgado el permiso, la agencia, por conducto de la Dirección de transporte, registrará los datos correspondientes en el padrón de concesiones, permisos, constancias, certificados vehiculares y certificados de personas operadoras de transporte del estado, conforme al reglamento de esta ley.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 134.
 
-Permisos provisionales para la prestación del servicio de transporte público de personas pasajeras
-
-La agencia podrá otorgar permisos provisionales para la prestación del servicio de transporte público de personas pasajeras en los siguientes casos:
-
-I. Cuando debido a las condiciones sociales y económicas imperantes, no se pueda prestar el servicio de forma regular y permanente.
-
-II. Cuando el otorgamiento permita la atención de circunstancias emergentes, supervenientes o extraordinarias que afecten la prestación del servicio.
-
-III. Cuando la autorización del permiso sea para mejorar notablemente la movilidad.
-
-IV. Cuando exista mayor demanda de transporte motivada por ferias, exposiciones, excursiones y causas análogas.
-
-V. Cuando el no otorgarlo implique riesgo de que el servicio colapse o no se garantice el derecho a la movilidad.
-
-VI. Cuando se suspenda total o parcialmente el servicio por caso fortuito o fuerza mayor.
-
-VII. Por necesidades de interés público.
-
-VIII. Cuando se necesite prestar el servicio en lugares en donde no exista, o el mismo no sea suficiente.
-
-El plazo por el que se otorgará el permiso provisional será de hasta seis meses, aquellos a los que se les otorgue este permiso, estarán obligados a prestar el servicio en la forma que señala la autorización obtenida originalmente para este efecto.
-
-Los requisitos y trámites para la obtención del permiso de que se trata este artículo, serán establecidos en el reglamento de esta ley.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 135.
 
-Obligaciones de las personas permisionarias del servicio de transporte privado
-
-Son obligaciones de las personas permisionarias del servicio de transporte privado de personas pasajeras y de carga, las siguientes:
-
-I. Prestar el servicio autorizado conforme a lo establecido en el permiso correspondiente y dentro del territorio señalado en el mismo.
-
-II. Mantener en buen estado y en correcto funcionamiento las unidades autorizadas para la prestación del servicio, cumpliendo en tiempo y forma con los mantenimientos preventivos y correctivos, en los términos que establezca el reglamento de esta ley y los programas de operación que emita la agencia.
-
-III. Vigilar que el manejo y control efectivo de sus unidades quede encomendado únicamente a personas operadoras que cuenten con la licencia correspondiente y cumplan con el perfil y demás requisitos establecidos en el reglamento de esta ley.
-
-IV. Someter a las unidades a verificación periódica, a efecto de controlar la emisión de contaminantes a la atmósfera, de acuerdo con lo que establezca la legislación en materia ambiental.
-
-V. Enviar periódicamente a sus personas operadoras, a practicarse los exámenes médicos de conformidad con los programas de operación emitidos por la agencia, informando oportunamente a este los resultados.
-
-VI. Integrar y poner a disposición de la agencia cuando le sean requeridos, los expedientes individuales de sus personas operadoras, los cuales deberán contener la documentación y registros relativos a los hechos de tránsito en que cada una de ellas haya participado derivado de la prestación del servicio, así como el resultado de los exámenes médicos a que se hayan sometido, así como las anotaciones pertinentes derivadas de la observación y vigilancia de la conducta y eficacia de dichas personas.
-
-VII. Informar, mediante escrito motivado, a la agencia, cuando vayan a dejar de operar el servicio de transporte en las zonas otorgadas, en los términos que establezca el reglamento de esta ley.
-
-VIII. En el caso del servicio de transporte privado de personas pasajeras, contar con el equipamiento necesario para prestar sus servicios a personas en situación de vulnerabilidad y para personas usuarias que requieran trasladarse con su bicicleta.
-
-IX. Proporcionar a la agencia toda la información que les sea requerida, relacionada con el servicio de transporte prestado.
-
-X. Las demás que señalen esta ley, su reglamento, el permiso y otras disposiciones legales y normativas aplicables.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 136.
 
-Permisos especiales para vehículos foráneos y extranjeros
-
-Los vehículos procedentes de otras entidades federativas o del extranjero, autorizados en su lugar de procedencia para prestar algún servicio de transporte, para poder proporcionarlo dentro del territorio del estado, deberán registrarse ante la agencia, el cual, previo cumplimiento de los requisitos y condiciones que establezca el reglamento de esta ley, y mediante el pago de los derechos correspondientes, le otorgará un permiso especial.
-
-Las personas titulares de permisos especiales deberán sujetarse a las disposiciones de esta ley, su reglamento y otras disposiciones legales y normativas aplicables.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 137.
 
-Responsabilidad de las personas concesionarias y permisionarias
-
-Las personas concesionarias y permisionarias serán responsables si por su culpa, dolo o negligencia se ocasionaren daños durante la prestación del servicio, a las personas pasajeras, a su equipaje o a la carga.
-
-Con independencia de las responsabilidades penales o civiles en que se puedan incurrir, para el caso del equipaje, la responsabilidad será por el valor declarado y comprobado en el peso y volumen permitidos, de conformidad con el procedimiento establecido en el reglamento de esta ley.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ### Capítulo III. Constancias
 
@@ -2067,359 +1621,145 @@ Con independencia de las responsabilidades penales o civiles en que se puedan in
 
 ###### Artículo 138.
 
-Operación de las empresas de redes de transporte
-
-Sólo podrán operar en el estado las empresas de redes de transporte a través de plataformas tecnológicas que cuenten con una constancia, la cual será expedida por la persona titular de la agencia, previo cumplimiento de los requisitos y procedimiento establecidos en el reglamento de esta ley.
-
-La constancia tendrá una vigencia anual y podrá ser renovada siempre que se cumplan los requisitos previstos en el reglamento de esta ley.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 139.
 
-Servicios que preste la agencia a través de elementos tecnológicos
-
-Cuando la agencia implemente elementos tecnológicos y sistemas electrónicos para la gestión del transporte y sus formas de pago, no serán equiparados o considerados como una empresa de redes de transporte.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 140.
 
-Requisitos para operar
-
-Las personas concesionarias del servicio de taxi de alquiler, además de esta modalidad, podrán prestar el servicio formando parte de una empresa de redes de transporte, previo cumplimiento de los requisitos que para ello se señalen en esta ley, su reglamento y otras disposiciones legales y normativas aplicables.
-
-Para lo anterior, dichos prestadores deberán obtener el certificado vehicular y el certificado de persona operadora correspondiente, expedidos por la agencia.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 141.
 
-Obligaciones de las empresas de redes de transporte
-
-Las empresas de redes de transporte que presten el servicio a través de plataformas tecnológicas tienen las siguientes obligaciones:
-
-I. Permitir el uso de sus plataformas tecnológicas únicamente a las personas que cuenten con el certificado vehicular y con el certificado de persona operadora correspondiente, expedidos por la agencia.
-
-II. Proporcionar a la agencia, dentro de los primeros cinco días de cada mes, un informe que incluya la relación de personas operadoras titulares y adhesivas, de vehículos inscritos en sus bases de datos, la relación de los traslados efectuados por sus personas operadoras y la contraprestación recibida por estos, en el mes inmediato anterior, y demás información que fije el reglamento.
-
-III. Conservar la información relacionada con sus personas asociadas, personas operadoras, vehículos, personas usuarias, traslados, transacciones y, en general, con su operación por un término de cinco años a partir de la fecha de su elaboración.
-
-IV. Abstenerse de divulgar información personal de alguna de sus personas usuarias, salvo las excepciones previstas en las leyes en materia de protección de datos personales aplicables.
-
-V. Informar oportunamente a la autoridad competente sobre cualquier irregularidad en la prestación del servicio o el incumplimiento de esta ley, su reglamento o de otras disposiciones legales y normativas aplicables.
-
-VI. Aportar mensualmente el 1.5% de cada servicio de transporte de personas pasajeras que presten los operadores inscritos en sus bases de datos y que estará destinado al Fondo Estatal para la Movilidad previsto en esta ley. La falta de aportación de dicha prestación será causa de revocación de la constancia tanto de las empresas de redes de transporte como de las personas socias y personas afiliadas que tenga.
-
-VII. Enviar, una vez concluido el servicio prestado, un recibo a la persona usuaria por correo electrónico con la información de dicho servicio.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 142.
 
-Conocimiento sobre las tarifas
-
-Las tarifas del servicio de transporte contratado a través de plataformas tecnológicas de personas pasajeras y de carga deberán ser informadas a la persona usuaria por la empresa de redes de transporte, o cualquiera de sus empresas relacionadas, en función de la oferta y la demanda de la propia modalidad de transporte, por lo que será posible que exista un incremento eventual en la tarifa, en un momento y lugar determinado.
-
-En caso de que ocurra un incremento eventual de tarifa como consecuencia de un aumento en la demanda en una zona y hora determinada, esta será hecha del conocimiento a la persona usuaria previo a la confirmación de la solicitud del servicio.
-
-En todos los casos, es una prerrogativa de la persona usuaria confirmar o no dicho servicio.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 143.
 
-Certificado vehicular
-
-El servicio de transporte contratado a través de plataformas tecnológicas de personas pasajeras solo podrá ser prestado en vehículos automotores de cuatro ruedas, los cuales requerirán de un certificado vehicular para prestar el servicio.
-
-En el caso del servicio de transporte de carga contratado a través de plataformas tecnológicas, se requerirá de certificado vehicular para los vehículos automotores con los que se preste dicho servicio.
-
-En ambos casos deberán contar con el certificado de persona operadora titular o adhesiva, expedido por la persona titular de la agencia, previo cumplimiento del procedimiento establecido en el reglamento de esta ley.
-
-Para obtener un certificado de persona operadora titular o adhesiva, las personas interesadas deberán estar registradas en una empresa de redes de transporte con constancia vigente.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 144.
 
-Obligaciones de las personas operadoras
-
-Las personas operadoras del servicio de transporte contratado a través de plataformas tecnológicas de personas pasajeras o de carga tienen las siguientes obligaciones:
-
-I. Contar y portar, durante la prestación del servicio, el certificado vehicular y el certificado de persona operadora vigente.
-
-II. Abstenerse de prestar el servicio bajo la influencia de alcohol o sustancias psicotrópicas, estupefacientes o que produzcan efectos similares.
-
-III. Prestar el servicio de conformidad con la tarifa, la ruta de traslado y demás términos y condiciones del contrato, así como con las disposiciones establecidas en la Ley de Tránsito y Vialidad del Estado de Yucatán, y su reglamento.
-
-IV. Someterse a las inspecciones que requiera la agencia para verificar el cumplimiento de esta ley, su reglamento y demás disposiciones legales y normativas aplicables.
-
-V. Abstenerse de ofertar sus servicios fuera de la plataforma electrónica o en la vía pública.
-
-VI. Abstenerse de fijar un lugar al que las posibles personas usuarias acudan a solicitar la prestación del servicio, hacer base, sitio o similares.
-
-VII. Cubrir las contribuciones que le correspondan en términos de las disposiciones legales estatales aplicables en materia fiscal y hacendaria.
-
-VIII. Abstenerse de subarrendar el vehículo o los vehículos registrados.
-
-IX. Contar con el elemento distintivo que disponga la agencia o, en su caso, la Secretaría de Seguridad Pública, para su identificación como operadores del servicio de transporte contratado a través de plataformas tecnológicas de personas pasajeras o de carga.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 #### Sección II. Medios alternativos de transporte
 
 ###### Artículo 145.
 
-Requisitos para prestar el servicio
-
-El servicio de transporte de personas pasajeras en medios alternativos de transporte se prestará a través de microvehículos que se utilizarán como medio para transportar a personas de un sitio determinado de origen a otro determinado o determinable por la persona usuaria.
-
-El servicio de transporte de personas pasajeras en medios alternativos de transporte podrá ser prestado por personas físicas, morales o agrupaciones sindicales que cuenten con la constancia respectiva y exclusivamente mediante el uso de microvehículos.
-
-La constancia será expedida por la persona titular de la agencia, previo dictamen de la dirección de transporte en el que se determine que es viable la prestación del servicio, y conforme a los requisitos y procedimientos establecidos en esta ley y su reglamento.
-
-La constancia tendrá una vigencia anual y podrá ser renovada cumpliendo los mismos requisitos requeridos para su expedición.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 146.
 
-Requisitos para operar
-
-El servicio de transporte prestado por medios alternativos de transporte de personas pasajeras solo podrá ser prestado en microvehículos que cuenten con el certificado vehicular, y por quienes cuenten con el certificado de persona operadora titular o adhesivo, expedidos por la persona titular de la agencia, previo cumplimiento de los requisitos y el procedimiento establecido en el reglamento de esta ley.
-
-Las personas que deseen contar con los certificados de operador titular o adhesivo deberán estar registrados con las personas físicas, morales o agrupaciones sindicales que cuenten con constancia vigente.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 147.
 
-Certificados
-
-La persona titular de la agencia expedirá el certificado vehicular a favor de la persona propietaria o legal poseedora del microvehículo con el que se pretenda prestar el servicio de transporte prestado a través de medios alternativos de transporte de personas pasajeras, siempre y cuando cumpla con los requisitos y el procedimiento establecidos en el reglamento de esta ley.
-
-Los certificados de persona operadora se otorgarán a las personas que operen los microvehículos destinados a la prestación del servicio de transporte a través de medios alternativos de transporte de personas pasajeras.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 148.
 
-Prohibiciones
-
-Queda estrictamente prohibida la prestación del servicio de transporte de personas pasajeras en medios alternativos de transporte a través de microvehículos en carreteras estatales, en el periférico de la ciudad de Mérida, así como en avenidas primarias, aquellas donde exista alguna ruta de transporte de personas pasajeras pública en la modalidad de autobús, y en las intersecciones con carreteras y autopistas de jurisdicción federal, a la distancia que establezcan las disposiciones aplicables a la regulación de la vialidad.
-
-En caso de incumplimiento de lo establecido en el párrafo anterior, la autoridad competente inmediatamente impedirá la circulación, retendrá el microvehículo y lo remitirá al depósito correspondiente, sin perjuicio de aplicar los procedimientos y las sanciones respectivas a las infracciones previstas en las disposiciones establecidas para la regulación de la vialidad.
-
-La agencia, en coordinación con las autoridades municipales, serán las autoridades encargadas de diseñar y aprobar las rutas, cuadrantes y circuitos en donde podrán prestar el servicio de transporte de personas pasajeras en medios alternativos de transporte.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 149.
 
-Mala visibilidad y condiciones climatológicas
-
-Queda estrictamente prohibida la prestación del servicio de transporte de personas pasajeras en medios alternativos de transporte a través de microvehículos cuando se presenten condiciones climáticas desfavorables y en condiciones en las que su visibilidad sea escasa en los términos que el reglamento de esta ley señale.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 150.
 
-Placa
-
-Los medios alternativos de transporte autorizados para la prestación del servicio de transporte no podrán proporcionarlo hasta en tanto no cuenten con placa de circulación específica para el servicio que se preste, expedida por la Secretaría de Seguridad Pública, de conformidad con lo que establezca la legislación aplicable.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 151.
 
-Obligaciones de las personas operadoras
-
-Las personas operadoras de los servicios de transporte de personas pasajeras en medios alternativos de transporte tienen las siguientes obligaciones:
-
-I. Contar y portar, durante la prestación del servicio, el certificado vehicular y el certificado de persona operadora vigente.
-
-II. Abstenerse de prestar el servicio bajo la influencia de alcohol o sustancias psicotrópicas, estupefacientes o que produzcan efectos similares.
-
-III. Prestar el servicio de conformidad con la tarifa, la ruta de traslado y demás términos y condiciones del contrato, así como con las disposiciones establecidas en la Ley de Tránsito y Vialidad del Estado de Yucatán y su reglamento.
-
-IV. Someterse a las inspecciones que requiera la agencia para verificar el cumplimiento de esta ley, su reglamento y demás disposiciones legales y normativas aplicables.
-
-V. Cubrir las contribuciones que le correspondan en términos de las disposiciones legales estatales aplicables en materia fiscal y hacendaria.
-
-VI. Abstenerse de subarrendar el microvehículo o los microvehículos registrados.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ### Capítulo IV. Causas de terminación
 
 ###### Artículo 152.
 
-Causas de terminación
-
-Las concesiones, permisos, constancias o certificados terminan por:
-
-I. Expiración del plazo por el que se otorgó.
-
-II. Revocación.
-
-III. Renuncia o muerte del titular, siempre que no se hubiere realizado el trámite de designación de beneficiario establecido en el reglamento de esta ley.
-
-IV. Desaparición del objeto de la concesión o del permiso.
-
-V. Declaración de nulidad, de conformidad con lo dispuesto en la Ley de Actos y Procedimientos Administrativos.
-
-VI. Disolución o modificación de la persona moral que sea titular, en cuanto a su objeto, integración y denominación.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 153.
 
-Facultad de suspensión o revocación de concesión o permiso
-
-La persona titular de la agencia podrá suspender o revocar las concesiones, los permisos, las constancias y los certificados, de acuerdo con lo establecido en esta ley y su reglamento.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 154.
 
-Causas de revocación de concesiones, permisos, constancias y certificados
-
-Son causales de revocación de la concesión, permiso, constancia o certificado:
-
-I. No iniciar la prestación del servicio dentro del plazo señalado en la concesión o permiso, salvo caso de fuerza mayor o de que la falta de cumplimiento obedezca a obstáculos insuperables ajenos a la voluntad de la persona titular.
-
-II. Suspender la prestación del servicio público o particular de transporte por causas imputables a la persona titular durante un plazo mayor de treinta días.
-
-III. Hipotecar o de cualquier manera gravar la concesión, el permiso, la constancia, el certificado o alguno de los derechos en ellos establecidos, o los bienes afectos al servicio de que se trate, sin la previa autorización de la persona titular de la agencia.
-
-IV. Ceder, enajenar o transferir de cualquier manera, la constancia, el certificado o alguno de los derechos establecidos en estos, o los bienes afectos al servicio de que se trate, o bien, realizar dichos actos sin notificar previamente a la persona titular de la agencia, cuando se trate de concesiones o permisos.
-
-V. No acatar las disposiciones relativas a modificaciones a la concesión, conforme a esta ley y su reglamento, para la prestación del servicio de transporte.
-
-VI. No renovar oportunamente el seguro establecido en esta ley.
-
-VII. No adherirse al Sistema Metropolitano de Movilidad Amable y Sostenible cuando la agencia así se lo requiera, de conformidad con el procedimiento señalado en el reglamento de esta ley.
-
-VIII. No cubrir las indemnizaciones por daños que se originen con motivo de la prestación de los servicios.
-
-IX. No cumplir con lo establecido en las siguientes disposiciones:
-
-a) La inscripción ante el padrón de concesiones, permisos, constancias, certificados vehiculares y certificado de operadores de transporte del estado o verificación vehicular de conformidad con el artículo 121 de esta ley.
-
-b) Las obligaciones de las personas concesionarias del servicio de transporte público de personas pasajeras de conformidad con el artículo 129 de esta ley.
-
-c) Las obligaciones de las personas concesionarias del servicio de transporte público de carga de conformidad con el artículo 130 de esta ley.
-
-d) Las obligaciones de las personas concesionarias del servicio de transporte público de personas pasajeras adheridos al Sistema Metropolitano de Movilidad Amable y Sostenible de conformidad con el artículo 131 de esta ley.
-
-e) Los requisitos previstos en esta ley, su reglamento y demás disposiciones legales y normativas aplicables de conformidad con el artículo 133 de esta ley.
-
-f) Las obligaciones de las personas permisionarias del servicio de transporte privado de conformidad con el artículo 135 de esta ley.
-
-g) Las de esta ley, su reglamento y demás disposiciones legales y normativas aplicables de conformidad con el artículo 136 de esta ley.
-
-h) Las obligaciones para las empresas de redes de transporte que presten el servicio a través de plataformas tecnológicas de conformidad con el artículo 141 de esta ley.
-
-X. Prestar un servicio distinto al autorizado.
-
-XI. Cometer infracciones graves en más de dos ocasiones, de conformidad con las disposiciones establecidas en el reglamento de esta ley.
-
-XII. No cubrir las aportaciones previstas en el artículo 43, fracción VI, de esta ley.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 155.
 
-Vigencia de la revocación
-
-Las personas que hubiesen sido sancionadas con la revocación no podrán solicitar de nuevo concesión, permiso, constancia o certificado para prestar el servicio de transporte, hasta transcurridos tres años a partir de la fecha en que la revocación hubiese quedado firme.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 156.
 
-Causal imputable a la persona titular de una concesión, permiso, constancia o certificado
-
-Si la persona titular, por su causa o negligencia no solicita en tiempo y forma la renovación de su concesión, permiso, constancia o certificado al concluir su vigencia, de conformidad con lo previsto en el reglamento de esta ley, este no podrá continuar prestando el servicio autorizado.
-
-Si la solicitud antes mencionada se presentare en tiempo y forma, se deberá continuar prestando el servicio, hasta en tanto se emita la resolución correspondiente por parte de la persona titular de la agencia.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ### Capítulo V. Servicios auxiliares y conexos
 
 ###### Artículo 157.
 
-Servicios auxiliares y conexos
-
-Los servicios auxiliares y conexos son todos los servicios, bienes muebles o inmuebles, infraestructura, accesorios físicos, tecnológicos y materiales que apoyan la funcionalidad, que se ejecuten con elementos de seguridad y complementan el servicio de transporte.
-
-La agencia podrá prestar los servicios auxiliares y conexos directamente, otorgarlos en concesión, o en su caso, contratarlos a través de la figura jurídica más conveniente, de conformidad con las leyes aplicables.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 158.
 
-Listado de servicios auxiliares y conexos
-
-Los servicios auxiliares y conexos son:
-
-I. Los centros de transferencia modal y su equipamiento auxiliar.
-
-II. Sistema de peaje y control de acceso.
-
-III. Servicio de monitoreo y operaciones, así como la tecnología para su adecuada operación.
-
-IV. Sitios, patios de encierro, talleres, paraderos, parabuses, estaciones, terminales y sus estacionamientos anexos.
-
-V. Servicios de seguridad y mantenimiento de las instalaciones afectas al servicio de transporte.
-
-VI. Servicios publicitarios y de promoción visual que se efectúen por medio de o en instalaciones, infraestructura, tarjetas de pago electrónico, boletos multimodales o multiviajes de transporte y, en general, cualquier bien afecto a la prestación del servicio de transporte o relacionado con el mismo.
-
-VII. Aplicaciones móviles relacionadas con el servicio de transporte.
-
-VIII. La elaboración y comercialización de tarjetas electrónicas, boletos multimodales o multiviajes de transporte.
-
-IX. Los demás que determine la agencia.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 159.
 
-Accesibilidad en las terminales
-
-Las terminales correspondientes al servicio de transporte público y los servicios auxiliares, deberán considerar elementos que cumplan con los lineamientos de accesibilidad y con las medidas necesarias para que puedan atender adecuadamente a las personas con discapacidad y a los grupos en situación de vulnerabilidad, bajo los principios de accesibilidad y diseño universal, en los términos que establece esta ley, su reglamento y demás disposiciones legales aplicables.
-
-Asimismo, las instalaciones e infraestructura del servicio de transporte de personas pasajeras, servicios auxiliares y conexos, deberán cumplir con las disposiciones, estatales y municipales relativas en materia de construcción, desarrollo urbano y protección ambiental que corresponda; así como con las normas técnicas y demás ordenamientos aplicables.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 160.
 
-Construcción o habilitación de terminales
-
-La agencia podrá construir y operar terminales de personas pasajeras y de carga, las cuales podrán ser concesionadas a personas particulares previa satisfacción de los requisitos que establezca el reglamento de esta ley.
-
-Las personas concesionarias del servicio de transporte público están obligadas a construir o habilitar, a su costa, terminales de personas pasajeras o de carga, según corresponda, previa autorización de la agencia, en coordinación con la Secretaría de Seguridad Pública, para el ascenso y descenso de personas pasajeras y para la realización de las maniobras de carga y descarga.
-
-En este caso, las personas concesionarias deberán elaborar programas indicativos de inversiones en materia de construcción, conservación y mantenimiento, en los cuales deberán incluir las medidas específicas relacionadas con la seguridad, desarrollo urbano y protección ambiental que correspondan, y ponerlos a disposición de la agencia. En caso de modificaciones a los programas respectivos, deberá solicitarse autorización a la agencia. El reglamento de esta ley establecerá las condiciones de construcción, habilitación y conservación de las terminales.
-
-Se exceptúan de la obligación establecida en el primer párrafo, las personas concesionarias que utilicen las terminales que opere o concesione la agencia.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 161.
 
-Obligaciones de las personas concesionarias y permisionarias
-
-En las terminales, las personas concesionarias y permisionarias tienen las siguientes obligaciones:
-
-I. Estacionarse dentro de la zona señalada para tal efecto.
-
-II. Mantener libre la circulación de personas peatonas o vehículos.
-
-III. Hacer las reparaciones o lavar los vehículos en los lugares señalados, para tal efecto, de conformidad con las disposiciones de esta ley y su reglamento.
-
-IV. Conservar limpia el área designada para los vehículos.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 162.
 
-Ubicación de las terminales
-
-La agencia determinará la ubicación de las terminales, los sitios y los lugares destinados para las paradas eventuales en la vía pública de los vehículos que presten el servicio de transporte de personas pasajeras, para el ascenso y descenso correspondiente, así como la reubicación y cambio de estos.
-
-Está prohibido que las personas operadoras realicen paradas de ascenso o descenso en la vía pública a menos de veinte metros respecto del final o inicio de una esquina.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 163.
 
-Prohibición de paradas intermedias en zonas urbanas
-
-En el caso del servicio de transporte foráneo de personas pasajeras, dentro de los centros de población, sólo se permitirá el ascenso y descenso en las terminales o sitios que se hayan habilitado para ello, por lo que no se permitirán paradas intermedias en las zonas urbanas.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ## TÍTULO SÉPTIMO. INSPECCIÓN, SANCIÓN, MEDIOS DE DEFENSA Y TRANSPARENCIA
 
 ### Capítulo I. Inspección y vigilancia
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 164.
 
-Inspección y vigilancia
+Inspección y verificación
 
-El instituto tendrá a su cargo la inspección y vigilancia en materia de movilidad y seguridad vial, a fin de garantizar el cumplimiento de esta ley, su reglamento y demás disposiciones legales aplicables. El procedimiento para realizar la inspección y vigilancia se determinará en el reglamento de esta ley.
+El instituto tendrá a su cargo la inspección y verificación en materia de movilidad y seguridad vial, a fin de garantizar el cumplimiento de esta ley, su reglamento y demás disposiciones legales aplicables. El procedimiento para realizar la inspección y vigilancia se determinará en el reglamento de esta ley.
 
-La agencia con el auxilio de la Secretaría de Seguridad Pública, tendrá a su cargo la inspección y vigilancia de los servicios de transporte, a fin de garantizar el cumplimiento de esta ley, su reglamento y demás disposiciones legales aplicables. Para tal efecto, podrán requerir, en cualquier tiempo, a las personas prestadoras del servicio de transporte, informes con los datos técnicos, administrativos y estadísticos que le permitan conocer la situación de cómo están operando las concesiones, permisos, constancias y certificados para prestar el servicio.
+La agencia con el auxilio de la Secretaría de Seguridad Pública, conforme lo dispuesto en la ley de la propia agencia y con pleno respeto a su autonomía, tendrá a su cargo la inspección y verificación de los servicios de transporte de personas pasajeras, a fin de garantizar el cumplimiento de esta ley, la legislación y la normativa de la agencia y demás disposiciones legales aplicables.
 
-La agencia podrá ordenar la realización de visitas de inspección general y de verificación de vehículos, las cuales podrán ser ordinarias y extraordinarias. Las primeras se efectuarán, previo aviso, en días y horas hábiles, y las segundas en cualquier tiempo dentro del horario de servicio autorizado.
-
-Estas visitas deberán realizarse de conformidad con lo dispuesto en el reglamento de esta ley.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 165.
 
 Casos de retiro de la circulación del vehículo
 
-Cuando la agencia detecte que una persona se encuentra prestando el servicio de transporte sin la autorización o certificado correspondiente, o bien, contando con estos, viole de manera flagrante alguna de las infracciones establecidas en esta ley o su reglamento, con el auxilio de la Secretaría de Seguridad Pública, en su caso, ordenará el retiro del vehículo de la circulación y lo remitirá al depósito correspondiente. Además, aplicará una multa de hasta cinco veces el valor de la autorización respectiva, en términos de la Ley General de Hacienda del Estado de Yucatán, a quien se encontrase conduciendo el vehículo y, en su caso, a su propietario, como responsable solidario.
+Cuando la agencia detecte que una persona se encuentra prestando el servicio de transporte sin la autorización o certificado correspondiente, o bien, contando con estos, viole de manera flagrante alguna de las infracciones establecidas en esta ley o lo dispuesto en la ley de la propia agencia y demás normativa que la agencia emita, con el auxilio de la Secretaría de Seguridad Pública, en su caso, podrá ordenar el retiro del vehículo de la circulación y lo remitirá al depósito correspondiente. Además, aplicará las sanciones y multas que resulten aplicables conforme la normatividad que regule a la propia agencia o expida esta misma. La persona que se encontrase conduciendo el vehículo y, en su caso, a su propietario, se considerará como responsable solidario.
 
-Los inspectores de transporte o los elementos policiales de la Secretaría de Seguridad Pública podrán impedir la circulación, retener y remitir a los depósitos correspondientes, cualquier vehículo que preste el servicio de transporte sin contar con la autorización o certificados correspondientes, o bien, contando con estos, viole de manera flagrante alguna de las infracciones establecidas en esta ley o su reglamento.
+Los elementos policiales de la Secretaría de Seguridad Pública podrán impedir la circulación, retener y remitir a los depósitos correspondientes, cualquier vehículo que preste el servicio de transporte sin contar con la autorización o certificados correspondientes en términos de la legislación y la normativa en materia de tránsito, vialidad, esta ley, su reglamento y demás disposiciones que resulten aplicables.
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 166.
 
 Condiciones y medios de control en el transporte de comestibles y bebidas
 
-La Secretaría de Salud, en coordinación con la agencia, vigilará las condiciones y medios de control en el transporte de comestibles y bebidas, con base en los programas y acciones que se realicen en conjunto.
+La Secretaría de Salud, podrá coordinarse con la agencia, a fin de vigilar las condiciones y medios de control en el transporte de comestibles y bebidas, con base en los programas y acciones que se realicen en conjunto, conforme el convenio de colaboración respectivo y en pleno respeto a la autonomía de la agencia.
 
 ###### Artículo 167.
 
@@ -2431,7 +1771,9 @@ La Secretaría de Desarrollo Sustentable, en coordinación con la Secretaría de
 
 Inspecciones y verificaciones
 
-La agencia, a través de las direcciones competentes, realizará periódicamente con cargo a las personas prestadoras del servicio de transporte, inspecciones en las instalaciones que para tal efecto habilite, para verificar que las unidades automotrices estén en condiciones adecuadas de funcionamiento en la prestación del servicio de que se trate. Dichas inspecciones no relevan a las personas concesionarias y permisionarias de la obligación de brindar mantenimiento permanente a sus unidades.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+La agencia, conforme lo determinado en su propia legislación y normativa, realizará periódicamente con cargo a las personas prestadoras del servicio de transporte de personas pasajeras, inspecciones en las instalaciones que para tal efecto habilite, para verificar que las unidades automotrices estén en condiciones adecuadas de funcionamiento en la prestación del servicio de que se trate.
 
 ### Capítulo II. Infracciones y sanciones
 
@@ -2445,59 +1787,59 @@ Para los efectos de esta ley, se entiende por infracción, la conducta que trans
 
 Sanciones
 
-Para la imposición de sanciones, la agencia deberá cumplir con el procedimiento que señale el reglamento de esta ley. En caso de la imposición de una multa, la agencia deberá determinar la misma en términos del tabulador que se establezca en el reglamento de esta ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Para la imposición de sanciones, la agencia deberá cumplir con el procedimiento que a efecto se señale en su ley orgánica y en la demás normativa aplicable. En caso de la imposición de una multa, la agencia deberá determinar la misma en términos del tabulador que se establezca en su propia normativa.
 
 La Secretaría de Seguridad Pública podrá coadyuvar en los operativos de inspección y vigilancia, así como intervenir para el caso de retiro de unidades, mantener el orden al momento de operativos de inspección y también participar para corroborar que el servicio que se preste cumpla con las disposiciones señaladas en la ley de vialidad y tránsito, así como su reglamento.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 171.
 
-Constancia de la infracción
+Boleta de la infracción
 
-La agencia, a través de la dirección de transporte y de la dirección del sistema, según corresponda, deberán hacer constar por escrito la conducta infractora en los formatos oficiales que para tal efecto se establezcan, debiendo contener la descripción de la infracción cometida, así como la disposición legal vulnerada, de conformidad con lo que establezca el reglamento de esta ley.
+La agencia, deberá hacer constar por escrito la conducta infractora en los formatos oficiales que para tal efecto se establezcan, debiendo contener la descripción de la infracción cometida, así como la disposición legal vulnerada, de conformidad con su propia normatividad.
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 172.
 
 Sanciones pecuniarias
 
-Las sanciones pecuniarias se harán efectivas por la Secretaría de Administración y Finanzas de acuerdo con el procedimiento que establezca la legislación respectiva.
+Las sanciones pecuniarias se harán efectivas por la Agencia de Administración Fiscal de Yucatán de acuerdo con el procedimiento que establezca la legislación respectiva y conforme lo disponga la ley que regule a la Agencia.
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 173.
 
 Deber de informar
 
-Cuando además de las infracciones, se cometa alguna conducta que pudiera ser constitutiva de algún delito, la agencia, por sí o a través de la dirección de transporte o la dirección del sistema, según corresponda, harán de su conocimiento a la autoridad competente los hechos correspondientes para los efectos legales pertinentes.
+Cuando además de las infracciones, se cometa alguna conducta que pudiera ser constitutiva de algún delito, la agencia, hará del conocimiento de la autoridad competente, los hechos correspondientes para los efectos legales pertinentes, conforme a lo dispuesto en su propia normatividad.
 
 ###### Artículo 174.
 
-Medidas de seguridad
-
-Las medidas de seguridad en materia del servicio de transporte serán las siguientes:
-
-I. La suspensión total o parcial del servicio.
-
-II. La prohibición de utilizar los inmuebles, muebles y demás elementos destinados a la prestación del servicio de transporte.
-
-III. Las demás previstas en la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán.
-
-Las medidas de seguridad serán impuestas por la agencia de conformidad con lo previsto en esta ley y su reglamento y en la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ### Capítulo III. Medios de defensa
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 175.
 
 Recurso administrativo de revisión
 
-Contra los actos y resoluciones de las autoridades competentes que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente en aplicación de esta ley y su reglamento, procederá el recurso administrativo de revisión previsto en la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán.
+Contra los actos y resoluciones de las autoridades competentes, que sean distintas a la Agencia, y que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente en aplicación de esta ley, procederá el recurso administrativo de revisión previsto en la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán.
 
 Contra la resolución definitiva que se emita en el recurso administrativo de revisión, la persona afectada podrá acudir en juicio contencioso administrativo ante el Tribunal de Justicia Administrativa del Estado de Yucatán.
+
+La Agencia contará con sus propios medios de defensa de acuerdo a la normatividad que la regule.
 
 ### Capítulo IV. Denuncia ciudadana
 
 ###### Artículo 176.
 
-Procedimiento de denuncia ciudadana
-
-Las personas usuarias del servicio de transporte podrán hacer uso del procedimiento de denuncia ciudadana a que hace referencia la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán, por cualquier irregularidad en la prestación de dicho servicio.
+(DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
 ### Capítulo V. Transparencia, acceso a la información pública, rendición de cuentas, protección de datos personales y archivos
 
@@ -2614,3 +1956,91 @@ Gobernador del Estado de Yucatán
 Abog. María Dolores Fritz Sierra
 
 Secretaria general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 28 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 710/2023 POR EL QUE SE EXPIDE LA LEY DE LA AGENCIA DE TRANSPORTE DE YUCATÁN Y SE MODIFICA LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE YUCATÁN”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Obligación normativa
+
+Artículo segundo La Agencia de Transporte de Yucatán deberá emitir su reglamento interior dentro de un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Obligación normativa
+
+Artículo tercero. La Agencia de Transporte de Yucatán deberá expedir la demás normativa contemplada en este decreto, dentro de un plazo no mayor de dos años, contado a partir de la entrada en vigor del presente decreto.
+
+Finalmente, y para efecto de continuar con la operatividad de la agencia, en tanto se expiden los ordenamientos específicos y respectivos en las siguientes materias, de manera enunciativa más no limitativa: de adquisiciones, arrendamientos y prestación de servicios; obra pública y servicios conexos; bienes muebles e inmuebles; proyectos de prestación de servicios; asociaciones público privadas; entre otros, serán aplicables en lo conducente, las disposiciones legales estatales vigentes en la materia, en todo lo que no contravenga lo dispuesto en este decreto.
+
+Integración del Consejo Consultivo de la Agencia
+
+Artículo cuarto. La designación de las personas integrantes del Consejo Consultivo de la Agencia de Transporte de Yucatán se realizará dentro de un plazo 90 días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Designación del órgano de control interno
+
+Artículo quinto. El Congreso deberá expedir la convocatoria para la designación de la persona titular del Órgano de Control Interno de la Agencia de Transporte de Yucatán dentro de un plazo de noventa días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Asuntos en trámite en materia de transporte
+
+Artículo sexto. Los procedimientos de contratación, aplicación de sanciones, inconformidades y los recursos administrativos, así como los demás asuntos que se encuentren en trámite o pendientes de resolución se tramitarán y resolverán en los términos de las disposiciones de las leyes con las que se iniciaron.
+
+Quedan exceptuadas del párrafo anterior las concesiones, permisos, constancias y certificados que se encuentren en proceso de renovación, cuyo procedimiento y trámite se ajustará a lo previsto en esta ley.
+
+Concesiones, permisos, constancias y certificados
+
+Artículo séptimo. Las concesiones, permisos, constancias y certificados vigentes a la fecha de entrada en vigor de este decreto, continuarán vigentes hasta la fecha de su vencimiento y serán aplicables en lo conducente, las disposiciones legales vigentes en la materia al momento que se otorgaron, en todo lo que no contravenga lo dispuesto en esta ley.
+
+Cuando dichos documentos mencionen o contemplen la figura del Instituto de Movilidad y Desarrollo Urbano Territorial, se entenderán referidas a la Agencia de Transporte de Yucatán.
+
+Las concesiones, permisos, constancias y certificados que se encuentren en proceso de renovación, los términos de expedición de dichos documentos deberán ajustarse a lo previsto en este decreto.
+
+Cambio de denominación
+
+Artículo octavo. Cuando en las leyes de la Administración Pública estatal y sus reglamentos o en otras disposiciones legales vigentes se haga referencia al Instituto de Movilidad y Desarrollo Urbano Territorial, en cuanto a la materia de transporte se trata, se entenderá que se refieren a la Agencia de Transporte de Yucatán.
+
+Obligaciones de las personas permisionarias y las empresas de redes de transporte
+
+Artículo noveno. Se otorgará un término de ciento veinte días hábiles, contado a partir de la entrada en vigor de este decreto, para que las empresas de redes de transporte y las personas permisionarias del servicio de transporte privado cumplan con los requerimientos y obligaciones a que hace referencia esta ley.
+
+Vehículos o áreas destinadas para mujeres, niñas niños y vehículos para la movilidad inclusiva
+
+Artículo décimo. La implementación de la acción afirmativa en materia de género a la que se refiere este decreto se realizará de manera paulatina conforme a las disposiciones que emita la Agencia de Transporte de Yucatán.
+
+Transferencia de recursos
+
+Artículo décimo primero. A partir de la entrada en vigor de este decreto, el patrimonio, el presupuesto del ejercicio fiscal en curso, las economías, recursos en cuentas, bienes muebles del Instituto de Movilidad y Desarrollo Urbano Territorial para el ejercicio de sus facultades de transporte, pasarán al dominio y uso de la Agencia de Transporte de Yucatán, garantizando la continuidad de la operación y de las actividades en materia de transporte.
+
+El personal que preste sus servicios en la Dirección de Transporte y en la Dirección del Sistema Metropolitano de Movilidad Amable y Sostenible del Instituto de Movilidad y Desarrollo Urbano Territorial continuará ejerciendo las atribuciones que en materia de transporte le otorga a la Agencia de Transporte de Yucatán la Ley de Movilidad y Seguridad Vial del Estado de Yucatán y este decreto en tanto se concluye la transferencia a que se refiere el primer párrafo del transitorio siguiente.
+
+Derechos laborales
+
+Artículo décimo segundo. El personal que preste sus servicios en la Dirección de Transporte y en la Dirección del Sistema Metropolitano de Movilidad Amable y Sostenible del Instituto de Movilidad y Desarrollo Urbano Territorial pasará a formar parte de la Agencia de Transporte de Yucatán hasta el 1 de enero de 2024, y se estará a lo establecido en las disposiciones legales aplicables.
+
+Quedarán a salvo los derechos laborales de los servidores públicos y empleados del Instituto de Movilidad y Desarrollo Urbano Territorial que sean transferidos a la Agencia de Transporte de Yucatán, con motivo de la entrada en vigor de este decreto.
+
+Transferencias del Fondo Estatal para la Movilidad
+
+Artículo décimo tercero. A partir de la entrada en vigor de esta ley, el Instituto de Movilidad y Desarrollo Urbano Territorial y la Agencia de Transporte de Yucatán deberán realizar las gestiones necesarias para que, en un plazo no mayor a trescientos sesenta días naturales, los recursos que se encontraban en el Fondo Estatal para la Movilidad sean transferidos al Fondo Estatal para el Transporte previsto en esta ley.
+
+Fideicomiso del Sistema Metropolitano de Movilidad Amable y Sostenible
+
+Artículo décimo cuarto. La Agencia de Transporte de Yucatán contará con un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, para realizar las gestiones necesarias para que la institución fiduciaria que corresponda reconozca su carácter de fideicomitente dentro del fideicomiso que actualmente se utilice para la operación financiera del Sistema Metropolitano de Movilidad Amable y Sostenible.
+
+De los convenios, contratos y obligaciones en materia en transporte.
+
+Artículo décimo quinto. Los contratos, convenios o cualquier acto jurídico que genere obligaciones en materia de transporte y que hubieran sido suscritos por el Instituto de Movilidad y Desarrollo Urbano Territorial con anterioridad a la entrada en vigor de esta ley, permanecerán vigentes en tanto se realizan las gestiones administrativas y legales para que la Agencia de Transporte de Yucatán esté en condiciones de asumir las obligaciones contraídas en los mismos.
+
+En dicho caso, el Instituto de Movilidad y Desarrollo Urbano Territorial en conjunto con la Agencia de Transporte de Yucatán realizará lo necesario para dar continuidad a las obligaciones pactadas en los mismos, a efecto de mantener habilitado el servicio de público de personas pasajeras en las condiciones establecidas en la ley.
+
+Cláusula derogatoria
+
+Artículo décimo sexto. Se derogan todas las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este Decreto.
+
+Primer Informe de la persona titular de la Agencia de Transporte de Yucatán
+
+Artículo décimo séptimo. Por única ocasión, la primera rendición del Informe anual de la Agencia de Transporte de Yucatán, a cargo de la persona titular de dicho órgano autónomo, se realizará en el mes de abril de 2025, y comprenderá el período que abarca del inicio de sus funciones como titular hasta el 31 de diciembre 2024.
