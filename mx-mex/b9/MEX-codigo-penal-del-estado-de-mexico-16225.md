@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2023-12-12"
+last_updated: "2023-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE DICIEMBRE DE 2023.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -4017,11 +4017,13 @@ Este delito se perseguirá por querella.
 
 ### CAPITULO V. USURPACION DE IDENTIDAD
 
-> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 264.
 
-Se le impondrán de uno a cuatro años de prisión y de cien a quinientos días multa, a quien ejerza con fines ilícitos un derecho o use cualquier tipo de datos, informaciones o documentos que legítimamente pertenezcan a otro, que lo individualiza ante la sociedad y que le permite a una persona física o jurídica colectiva ser identificada o identificable para hacerse pasar por él.
+Se le impondrán de uno a cuatro años de prisión y de cien a quinientos días multa, a quien ejerza con fines ilícitos un derecho o use cualquier tipo de datos, informaciones o documentos que legítimamente pertenezcan a otra persona física o jurídico colectiva, que la individualiza ante la sociedad y que le permite a una persona física o jurídica colectiva ser identificada o identificable, para hacerse pasar por ella.
+
+> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2010)</small>
 
 Se equiparan a la usurpación de identidad y se impondrán las mismas penas previstas en el párrafo que precede prevista en el presente artículo a quienes:
 
@@ -4033,6 +4035,8 @@ III. Otorguen el consentimiento para llevar a cabo la usurpación de su identida
 
 IV. Se valgan de la homonimia para cometer algún ilícito.
 
+> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2010)</small>
+
 Las sanciones previstas en este artículo se impondrán con independencia de las que correspondan por la comisión de otro u otros delitos.
 
 > <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2010)</small>
@@ -4040,6 +4044,10 @@ Las sanciones previstas en este artículo se impondrán con independencia de las
 ###### Artículo 265.
 
 Las penas señaladas en el artículo anterior se incrementarán hasta en una mitad, cuando el ilícito sea cometido por un servidor público aprovechándose de sus funciones, o por quien sin serlo, se valga de su profesión o empleo para ello.
+
+> <small>(ADICIONADO, G.G. 28 DE DICIEMBRE DE 2023)</small>
+
+Artículo 265 bis.- Se aumentará la penalidad hasta en una tercera parte cuando se cometa mediante manipulación de medios electrónicos, telemáticos, informáticos, redes sociales, o intercepción de datos de envío.
 
 ### CAPITULO VI. EXTORSION
 
@@ -7732,3 +7740,11 @@ G.G. 12 DE DICIEMBRE DE 2023.
 PRIMERO.- Publíquese este Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 28 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 233.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 264 Y SE ADICIONA EL ARTÍCULO 265 BIS DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
