@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-servicios-de-salud-del-instituto-167824"
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-09-13"
-last_updated: "2023-10-25"
+last_updated: "2023-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167824&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2023-07-31"
 
 ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE SEPTIEMBRE DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 25 DE OCTUBRE DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2023.
 
 Estatuto publicado en el Diario Oficial de la Federación, el miércoles 13 de septiembre de 2023.
 
@@ -354,6 +352,10 @@ XVI. Establecer, previa autorización de la Junta de Gobierno, un sistema de eva
 XVII. Proponer la creación de Comisiones o Comités que se establezcan en las normas aplicables o que se requieran para el cumplimiento de los objetivos de IMSS-BIENESTAR, así como la normatividad que los regula.
 
 XVIII. Las demás que le encomienden las leyes, los reglamentos, el Decreto de Creación y la Junta de Gobierno, de acuerdo con sus atribuciones.
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+XIX. Emitir las normas, los lineamientos de operación y disposiciones de aplicación general de IMSS-BIENESTAR aprobadas por la Junta de Gobierno, salvo disposición en contrario.
 
 ###### Artículo 18.
 
@@ -911,7 +913,9 @@ XVI. Instrumentar las metas e indicadores de evaluación del desempeño de los p
 
 Son facultades y atribuciones de la Unidad de Administración y Finanzas:
 
-I. Establecer las normas, criterios, sistemas y procedimientos de carácter administrativo que deban regir la gestión de los recursos humanos, financieros, la conservación de bienes muebles e inmuebles, seguridad en los inmuebles, servicios generales e inversión, abastecimiento de insumos, servicios de administración, servicios informáticos y de comunicaciones, equipamiento, contratación de servicios, la atención a órganos fiscalizadores, así como darles seguimiento y verificar su observancia de conformidad con la política que determine la persona titular de la Dirección General y las autoridades correspondientes.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+I. Establecer las normas, criterios, sistemas y procedimientos de carácter administrativo que deban regir la gestión de los recursos humanos, financieros, la conservación de bienes muebles e inmuebles, seguridad en los inmuebles, servicios generales e inversión, abastecimiento de insumos, servicios de administración, servicios informáticos y de comunicaciones, equipamiento, contratación de servicios incluido dentro de estos el mantenimiento de bienes inmuebles cuando no implique una modificación al mismo, la atención a órganos fiscalizadores, así como darles seguimiento y verificar su observancia de conformidad con la política que determine la persona titular de la Dirección General y las autoridades correspondientes.
 
 II. Autorizar la realización de gestiones administrativas para la obtención de recursos para el pago de juicios contenciosos y laborales y, en su caso, instrumentar acciones administrativas en aquellas controversias que obliguen al IMSS-BIENESTAR a cumplir con la resolución respectiva.
 
@@ -933,9 +937,13 @@ X. Aprobar el Programa de Aseguramiento de Inmuebles, para la contratación y ad
 
 XI. Acordar los criterios institucionales para la administración de los recursos que transfieran directamente los gobiernos de las entidades federativas, así como, de los recursos del fondo de aportaciones a que se refiere el artículo 25, fracción II, de la Ley de Coordinación Fiscal, que podrá recibir el IMSS-BIENESTAR a través de un fideicomiso público de administración y pago que, en su caso, se constituya y autorice con la finalidad de salvaguardar el patrimonio del organismo.
 
-XII. Administrar el patrimonio institucional y los procesos de adquisición de bienes y equipamiento, contratación de servicios, abastecimiento y demás servicios de carácter general y los proporcionados por terceros de naturaleza administrativa, con la finalidad de que se encuentren alineados a las prioridades establecidas por el IMSS-BIENESTAR.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
-XIII. Coordinar la formulación y ejecución de los programas anuales de adquisición de bienes, y contratación de servicios; fungir como responsable inmobiliario; en el interés de que el IMSS-BIENESTAR disponga de los bienes y servicios necesarios para la operación de los servicios de salud.
+XII. Administrar el patrimonio institucional, y coordinar los procesos de adquisición de bienes y equipamiento, contratación de servicios, abastecimiento y demás servicios de carácter general incluido dentro de estos el mantenimiento de bienes inmuebles cuando no implique una modificación al propio inmueble y los proporcionados por terceros de naturaleza administrativa, con la finalidad de que se encuentren alineados a las prioridades establecidas por IMSS-BIENESTAR.
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+XIII. Coordinar la formulación y ejecución del Programa Anual de Adquisiciones, Arrendamientos y Servicios; así como aprobar el programa anual de obras y servicios; fungir como responsable inmobiliario; en el interés de que IMSS-BIENESTAR disponga de los bienes y servicios necesarios para la operación de los servicios de salud.
 
 XIV. Establecer y supervisar la implementación del Programa Interno de Protección Civil, para el personal, instalaciones, bienes e información de IMSS-BIENESTAR, con el objeto de que se cuente con protocolos de actuación antes, durante y después de cualquier situación de emergencia.
 
@@ -1101,41 +1109,75 @@ XVIII. Elaborar los criterios generales y específicos para la asignación, ejer
 
 Son facultades y atribuciones de la Coordinación de Servicios de Administración:
 
-I. Proponer las políticas, normas, planes, programas, proyectos y sistemas que requieran ser sometidos a la consideración y/o autorización de la persona titular de la Unidad de Administración y Finanzas, respecto a servicios generales, recursos materiales y conservación, con el propósito de establecer el control y la organización para la realización de las adquisiciones y suministros requeridos por las unidades administrativas de IMSS-BIENESTAR.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
-II. Dirigir los planes y programas de alcance nacional de servicios generales y de administración de muebles e inmuebles, seguridad y resguardo de inmuebles, conservación y servicios complementarios, con la finalidad de homologar los criterios de operación.
+I. Proponer las políticas, normas, planes, programas, proyectos y sistemas que requieran ser sometidos a la consideración y/o autorización de la persona titular de la Unidad de Administración y Finanzas, respecto a servicios generales, recursos materiales y adquisiciones, con el propósito de establecer una óptima organización que permita llevar el control de los procedimientos internos para realizar la contratación de los servicios y la adquisición de bienes por las unidades administrativas de IMSS-BIENESTAR.
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+II. Dirigir los planes y programas de alcance nacional en relación con la contratación y administración de los servicios generales y de administración de muebles e inmuebles, seguridad y resguardo de inmuebles, conservación y servicios complementarios, con la finalidad de homologar los criterios de operación.
 
 III. Establecer los programas de Protección Civil con base en la legislación y disposiciones reglamentarias emitidas por la Secretaría de Gobernación, con el objeto de que sean aplicados en las unidades administrativas de IMSS-BIENESTAR y se cuente con protocolos de actuación antes, durante y después de cualquier situación de emergencia.
 
-IV. Validar los esquemas de contratación y coordinar los servicios de mantenimiento preventivo y correctivo de inmuebles, equipo de transporte, equipos médicos y electromecánicos; transportes, boletos de avión nacional e internacional, servicios administrativos, correspondencia, adquisición de vehículos, oxígeno y gases medicinales, residuos peligrosos biológico infecciosos, residuos sólidos urbanos, residuos de manejo especial, residuos peligrosos, lavado de ropa hospitalaria, reposición o sustitución de equipos electromecánicos, así como para el servicio de lavado de ropa en las plantas y módulos de lavado; entre otros, con el objetivo de definir la líneas rectoras en los procesos operativos.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
-V. Coordinar la operación de los planes estratégicos de adquisición y abastecimiento de bienes de consumo, con objeto de evaluar el desempeño en el cumplimiento de los procesos de abasto.
+IV. Coordinar la integración del Programa Anual de Adquisiciones, Arrendamientos y Servicios con los requerimientos determinados por las unidades administrativas de IMSS-BIENESTAR, con la finalidad de presentarlo al Comité de Adquisiciones, Arrendamientos y Servicios.
 
-VI. Coordinar la integración del Programa Anual de Adquisiciones, Arrendamientos y Servicios con los requerimientos determinados por las unidades administrativas de IMSS-BIENESTAR, con la finalidad de presentarlo al Comité de Adquisiciones, Arrendamientos y Servicios.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
-VII. Validar, en el ámbito de su competencia, las solicitudes de adquisiciones, arrendamientos y servicios que emitan las Áreas Requirentes de IMSS-BIENESTAR, con el objeto de que se elaboren de conformidad con las leyes, reglamentos, políticas, bases, lineamientos, acuerdos institucionales y demás disposiciones vigentes dictadas por los órganos superiores.
+V. Establecer, en el ámbito de su responsabilidad, las directrices para las Contrataciones Públicas en materia de adquisiciones, arrendamientos y servicios, a efecto de que se instrumenten los procesos apegados a la normatividad para proveer de los insumos y servicios requeridos por las unidades administrativas de IMSS-BIENESTAR.
 
-VIII. Establecer, en el ámbito de su responsabilidad, las directrices para las Contrataciones Públicas en materia de adquisiciones, arrendamientos y servicios, a efecto de que las áreas contratantes instrumenten los procesos para proveer de los insumos y servicios requeridos por las unidades administrativas de IMSS-BIENESTAR
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
-IX. Coordinar la integración del proyecto de presupuesto anual de operación, para el ejercicio de las funciones y cumplimiento de los objetivos de IMSS BIENESTAR, así como controlar el comportamiento del ejercicio del presupuesto autorizado
+VI. Validar, en el ámbito de su competencia, las solicitudes de adquisiciones, arrendamientos y servicios que emitan las áreas requirentes de IMSS-BIENESTAR, con el objeto de que se elaboren de conformidad con las leyes, reglamentos, políticas, bases, lineamientos, acuerdos institucionales y demás disposiciones vigentes dictadas por los órganos superiores, además de determinar la posibilidad de realizar una consolidación interna de requerimientos, buscando con ello, garantizar las mejores condiciones del mercado.
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+VII. Llevar a cabo los procedimientos de contratación, desde la investigación de mercado hasta la contratación de la adquisición y mantenimiento de bienes muebles, inmuebles cuando no impliquen una modificación al mismo, equipo médico, equipo electrónico, equipo electromecánico, parque vehicular; además de la contratación de los servicios generales, servicios médicos, servicios médicos integrales, servicios complementarios, entre otros, que sean requeridos para las oficinas centrales y los hospitales que formen parte de IMSS BIENESTAR, con la finalidad de definir las líneas rectoras en los procesos operativos.
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+VIII. Coordinar la operación y participar de los planes estratégicos de adquisición y abastecimiento de bienes de consumo.
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+IX. Coordinar la integración del proyecto de presupuesto anual de operación, para el ejercicio de las funciones y cumplimiento de los objetivos de IMSS BIENESTAR, así como dar seguimiento al comportamiento del ejercicio del presupuesto autorizado.
 
 X. Coordinar las solicitudes de comprobación y trámite de erogaciones derivadas de las contrataciones de servicios y la adquisición de bienes.
 
 XI. Validar los proyectos y programas anuales de arrendamiento inmobiliario del IMSS- BIENESTAR y presentar a la persona titular de la Unidad de Administración y Finanzas para su aprobación.
 
-XII. Coordinar el control de recursos materiales, el registro, transferencia y baja de los bienes capitalizables propiedad del IMSS- BIENESTAR.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+XII. Llevar a cabo el registro, transferencia y baja de los bienes capitalizables propiedad de IMSS-BIENESTAR, manteniendo siempre un control sobre los recursos materiales.
 
 XIII. Coordinar el desarrollo e implementación del Sistema Institucional de Archivos que propicie la organización, administración, conservación y localización de los expedientes.
 
-XIV. Establecer los esquemas de identificación de necesidades y áreas de oportunidad en los procesos de conservación, con el objeto de que se optimice el uso de los recursos en los que el IMSS-BIENESTAR considere prioritarios, urgentes y de atención inmediata.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+XIV. Establecer los esquemas de identificación de necesidades y áreas de oportunidad, con el objeto de que se optimice el uso de los recursos en los que IMSS-BIENESTAR considere prioritarios, urgentes y de atención inmediata.
 
 XV. Suscribir los contratos, convenios y acuerdos relativos al ejercicio de sus facultades, así como, los demás documentos que impliquen actos de administración, de acuerdo con las disposiciones jurídicas aplicables y previa validación de la Unidad Jurídica.
 
-XVI. Determinar los programas para los recursos materiales y conservación, así como los servicios generales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
-XVII. Elaborar los criterios generales y específicos para la administración del patrimonio, incluido lo correspondiente a inmuebles federales; así como para la asignación, ejercicio, comprobación y rendición de cuentas de los recursos que le sean transferidos o aportados al IMSS-BIENESTAR, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y demás normativa aplicable de conformidad a sus atribuciones.
+XVI. Recibir, calificar, custodiar y, en su caso, ordenar la cancelación de las fianzas relacionadas con los contratos y convenios que celebre por la adquisición de bienes y la prestación de servicios y aquéllas que reciba en el ejercicio de sus atribuciones.
 
-XVIII. Coordinar que los donativos y pagos extraordinarios se lleven a cabo conforme a las disposiciones legales aplicables y verificar que los mismos se apliquen a los fines señalados en el Acuerdo de la Junta de Gobierno respectivo y a lo autorizado por la Dirección General.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+XVII. Colaborar con la Coordinación de Programación y Presupuesto en la elaboración e integración del programa de inversiones de bienes muebles de IMSS-BIENESTAR.
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+XVIII. Determinar los programas necesarios para la administración de los recursos materiales y conservación, así como los servicios generales.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+XIX. Elaborar los criterios generales y específicos para la administración del patrimonio, incluido lo correspondiente a inmuebles federales; así como para la asignación, ejercicio, comprobación y rendición de cuentas de los recursos que le sean transferidos o aportados a IMSS-BIENESTAR, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y demás normativa aplicable de conformidad a sus atribuciones.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+XX. Coordinar que los donativos y pagos extraordinarios se lleven a cabo conforme a las disposiciones legales aplicables y verificar que los mismos se apliquen a los fines señalados en el Acuerdo de la Junta de Gobierno respectivo y a lo autorizado por la Dirección General.
 
 ###### Artículo 40.
 
@@ -1323,13 +1365,25 @@ V. Definir, en coordinación con la Unidad Jurídica, la elaboración de los ins
 
 VI. Coordinar la elaboración de información correspondiente al IMSS-BIENESTAR en materia de infraestructura que sea requerida para la Administración Pública Federal con fundamento en la normatividad aplicable.
 
-VII. Conducir las disposiciones normativas y administrativas que correspondan al ejercicio de sus atribuciones y los correspondientes a las áreas de su adscripción.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
-VIII. Definir los lineamientos para autorizar la asignación la conservación y mantenimiento del equipamiento en los establecimientos de salud a fin de alargar su vida útil y asegurar su óptimo funcionamiento.
+VII. Conducir y proponer las disposiciones normativas y administrativas que correspondan al ejercicio de sus atribuciones y los correspondientes a las áreas de su adscripción.
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+VIII. Definir los lineamientos para autorizar la asignación y conservación, así como realizar cualquier labor relacionada con la contratación para el mantenimiento y equipamiento en los establecimientos de salud, a fin de alargar su vida útil y asegurar su óptimo funcionamiento.
 
 IX. Acordar la integración de especificaciones técnicas con las áreas solicitantes competentes, en vinculación con la Coordinación de Normatividad y Planeación Médica, a fin de cubrir las necesidades detectadas para el suministro de equipamiento.
 
 X. Consolidar el desarrollo de los programas y proyectos con el objeto de dar cumplimiento a las solicitudes.
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+XI. Coordinar la formulación y ejecución del Programa Anual de Obras y Servicios;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+XII. Coordinar los procesos de contratación de obras públicas y servicios relacionados con las mismas, incluido el mantenimiento de bienes inmuebles cuando implique una modificación al propio inmueble con la finalidad de que se encuentren alineados a las prioridades establecidas por IMSS-BIENESTAR;
 
 ###### Artículo 45.
 
@@ -1337,7 +1391,9 @@ Son facultades y atribuciones de la Coordinación de Proyectos y Construcción d
 
 I. Dirigir la realización de proyectos arquitectónicos y de ingeniería, así como de construcción de obras públicas dirigidas al desarrollo de la infraestructura hospitalaria.
 
-II. Conducir la realización de proyectos presupuestos base, que sirvan de referencia para llevar a cabo los análisis de las propuestas económicas que presenten los proveedores que participan en las licitaciones, en coordinación con la Unidad de Infraestructura, para la adjudicación de los contratos.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+II. Conducir la realización de proyectos (sic) presupuestos base, que sirvan de referencia para llevar a cabo los análisis de las propuestas económicas que presenten los proveedores que participan en las licitaciones, para la adjudicación de los contratos.
 
 III. Dictar estrategias y mecanismos para diagnosticar y evaluar el estado de la infraestructura, a fin de determinar prioridades en la inversión, así como mecanismos para su fortalecimiento y desarrollo.
 
@@ -1347,19 +1403,27 @@ V. Implementar estrategias y acciones dirigidas a fortalecer los estándares y p
 
 VI. Establecer acciones y estrategias dirigidas al cumplimiento de la normativa en materia de control del ejercicio presupuestal y ejecución de obra pública.
 
-VII. Presidir las contrataciones para la elaboración de proyectos arquitectónicos y de ingeniería dirigidos al desarrollo de la infraestructura, previo acuerdo con la persona titular de la Unidad de Infraestructura.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
-VIII. Autorizar, en el marco de sus atribuciones, los contratos de obras públicas y servicios relacionados con las mismas, a efecto de supervisar, realizar obras, trabajos y acciones para el desarrollo de la infraestructura, previo acuerdo con la persona titular de la Unidad de Infraestructura.
+VII. Fungir como Área Responsable de las contrataciones para la elaboración de proyectos arquitectónicos y de ingeniería dirigidos al desarrollo de la infraestructura, previo acuerdo con la persona titular de la Unidad de Infraestructura.
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+VIII. Celebrar, los contratos de obras públicas y servicios relacionados con las mismas, a efecto de realizar obras, trabajos y acciones para el desarrollo de la infraestructura, así como supervisar las mismas, lo anterior previo acuerdo con la persona titular de la Unidad de Infraestructura.
 
 IX. Establecer las estrategias, acciones y actividades de supervisión externa, evaluación y seguimiento de los contratos de obra pública.
 
 X. Dirigir la integración, diseño y actualización de modelos de referencia para el desarrollo y construcción de los establecimientos de salud, en vinculación con la Coordinación de Normatividad y Planeación Médica,. (sic)
 
-XI. Controlar los procedimientos de contratación que se requieran para la adaptación, adecuación, ampliación, conservación, construcción, mantenimiento, rehabilitación, reparación y sustitución de los establecimientos de salud a cargo de IMSS-BIENESTAR, con base en la normativa aplicable.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+XI. Realizar los procedimientos de licitación pública, invitación a cuando menos tres personas y de adjudicación directa, en materia de obras públicas, que requieran las unidades administrativas de IMSS-BIENESTAR, de conformidad con la Ley de Obras Públicas y Servicios Relacionados con las Mismas, su Reglamento y demás disposiciones jurídicas aplicables.
 
 XII. Determinar la terminación de manera anticipada, o bien, declarar la rescisión administrativa de los contratos de obra pública y servicios relacionados con las mismas, previa orientación de la Unidad Jurídica, cuando así proceda, así como determinar la suspensión parcial, total, temporal o definitiva de las obras públicas o servicios relacionados contratados, de conformidad con las disposiciones jurídicas aplicables.
 
-XIII. Proponer a la persona titular de la Unidad de Infraestructura los criterios en materia de obra pública y servicios relacionados con las mismas, con la finalidad de garantizar que los actos que celebre la Coordinación de Proyectos y Coordinación de Obras en tales rubros se lleven a cabo conforme el marco normativo aplicable.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+XIII. Proponer a la persona titular de la Unidad de Infraestructura los criterios en materia de obra pública y servicios relacionados con las mismas, con la finalidad de garantizar que los actos que celebren la Coordinación de Proyectos y Construcción de Obras y las Coordinaciones Estatales en tales rubros se lleven a cabo conforme el marco normativo aplicable.
 
 XIV. Dirigir la participación del personal del área para el asesoramiento en todas las etapas de los procedimientos de licitaciones públicas en el ámbito de obra pública y servicios relacionados con la (sic) mismas, que lleve a cabo la Unidad de Infraestructura para la adjudicación de contratos, mediante la asistencia a dichos actos, con la finalidad de determinar que se cubran los aspectos legales de la normatividad vigente en la materia.
 
@@ -1374,6 +1438,10 @@ XVIII. Establecer el presupuesto asignado a la Unidad de Infraestructura a efect
 XIX. Consolidar los procesos de planeación, evaluación y administración de las obras públicas y de los servicios relacionados con las mismas, de conformidad con la normativa federal aplicable.
 
 XX. Dirigir las solicitudes de pago de acciones de obra pública de los programas y proyectos financiados con Recursos del Fondo tras la validación del expediente en apego a la normativa vigente, a fin de que el área designada realice la gestión de pago.
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+XXI. Elaborar el Programa Anual de Obras Públicas y Servicios Relacionados con las Mismas.
 
 ###### Artículo 46.
 
@@ -1405,13 +1473,19 @@ III. Coordinar los mecanismos para la realización de los diferentes proyectos d
 
 IV. Dirigir la aplicación de las políticas, normas, sistemas y procedimientos para la planeación, programación y ejecución de las acciones en materia de conservación y mantenimiento de infraestructura hospitalaria.
 
-V. Asegurar que se cumplan las etapas de contratación de los diferentes proyectos a desarrollar y supervisar que las acciones de conservación y mantenimiento de infraestructura se lleven a cabo con los estándares de calidad esperados.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
-VI. Evaluar los contratos de obras y de servicios relacionados con las mismas, a efecto de realizar trabajos y acciones para el desarrollo de conservación y mantenimiento de Establecimientos de Salud.
+V. Asegurar que se cumplan las etapas de contratación de los diferentes proyectos a desarrollar y supervisar que las acciones de conservación y mantenimiento de infraestructura cuando impliquen una modificación al propio inmueble se lleven a cabo con los estándares de calidad esperados y en términos de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+VI. Evaluar y vigilar el cumplimiento de los contratos de obras públicas y de servicios relacionados con las mismas, a efecto de realizar trabajos y acciones para el desarrollo de conservación y mantenimiento de Establecimientos de Salud.
 
 VII. Proponer a la persona titular de la Unidad de Infraestructura el presupuesto anual de operación y de inversión de la Unidad de Infraestructura, para la contratación de obra pública y servicios relacionados con la misma, así como las de conservación y los demás servicios de carácter general y naturaleza administrativa que sean necesarios.
 
-VIII. Formular el seguimiento al avance físico y financiero de los programas de conservación, mantenimiento, seguridad, protección ambiental y supervisión de la infraestructura hospitalaria en los Establecimientos de salud.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+VIII. Formular y reportar el seguimiento al avance físico y financiero de los programas de conservación, mantenimiento, seguridad, protección ambiental y supervisión de la infraestructura hospitalaria en los Establecimientos de salud.
 
 IX. Disponer las acciones para la evaluación, seguimiento y control de las actividades establecidas en los programas de trabajo aprobados, para el desarrollo de la infraestructura inmobiliaria.
 
@@ -1470,6 +1544,10 @@ XIX. Asesorar a la Coordinación de Recursos Humanos en la instrumentación de l
 XX. Sustanciar los recursos administrativos que corresponda resolver a la persona titular de la Dirección General, en coordinación con las áreas sustantivas sobre las que versen los mismos y someter a su consideración el proyecto de resolución.
 
 XXI. Sustanciar el procedimiento de Responsabilidad Patrimonial del Estado en términos de la normatividad aplicable.
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+XXII. Emitir los lineamientos de operación, normas y disposiciones de aplicación general del IMSS-BIENESTAR que le instruya la Junta de Gobierno, previamente aprobadas por esta.
 
 ###### Artículo 49.
 
@@ -2117,7 +2195,9 @@ XXXV. Supervisar la actualización permanente de los inventarios de los almacene
 
 XXXVI. Planear, organizar y dirigir las medidas de seguridad y vigilancia de los bienes recibidos para su almacenaje, custodia y distribución.
 
-XXXVII. Llevar a cabo los procedimientos de adquisición de bienes, arrendamientos y contratación de servicios, de conformidad con la normativa aplicable, de acuerdo con su presupuesto autorizado y previa autorización de la Coordinación de Servicios de Administración.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+XXXVII. Realizar los procedimientos de adquisición de bienes, arrendamientos y contratación de servicios, así como los de contratación de obra pública y servicios relacionados con las mismas, de conformidad con la normativa aplicable, de acuerdo con su presupuesto autorizado y previa autorización de la Coordinación de Servicios de Administración o de la Coordinación de Proyectos y Construcción de Obra (sic), según corresponda.
 
 XXXVIII. Aprobar las cuentas por pagar conforme al procedimiento para la recepción, glosa y aprobación de documentos presentados para trámite de pago por Fondo Fijo de IMSS-BIENESTAR.
 
@@ -2288,3 +2368,11 @@ D.O.F. 25 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIO DE LA “NOTA ACLARATORIA AL ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR), PUBLICADO EL 13 DE SEPTIEMBRE DE 2023”.]
 
 ÚNICO. Las presentes aclaraciones entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "MODIFICACIÓN AL ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR)".]
+
+PRIMERO. La presente modificación entrará en vigor al día siguiente de su aprobación por la Junta de Gobierno.
+
+SEGUNDO. La presente modificación deberá ser publicado (sic) en el Diario Oficial de la Federación.
