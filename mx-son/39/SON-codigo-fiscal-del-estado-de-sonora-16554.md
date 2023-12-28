@@ -4,7 +4,7 @@ identifier: "SON-codigo-fiscal-del-estado-de-sonora-16554"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-06-12"
-last_updated: "2022-12-30"
+last_updated: "2023-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO FISCAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE DICIEMBRE DE 2023.
 
 Código publicado en la Segunda Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de junio del 2000.
 
@@ -105,11 +105,11 @@ Las participaciones no pueden afectarse para fines específicos, ni estar sujeta
 
 Los productos se regularán por lo que prevengan los contratos o concesiones respectivos, por este Código y supletoriamente por el derecho común.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 5°.
 
-Son créditos fiscales los que tenga derecho a percibir el Estado que provengan de contribuciones, de aprovechamientos o de sus accesorios, incluyendo los que deriven de responsabilidades que el Estado tenga derecho a exigir de sus servidores públicos o de los particulares, así como aquellos a los que las leyes les den ese carácter y el Estado tenga derecho a percibir por cuenta ajena. Las autoridades distintas de las fiscales que remitan créditos fiscales a la Secretaría de Hacienda para su cobro, deberán estar debidamente notificados en los términos de las leyes aplicables.
+Son créditos fiscales los que tenga derecho a percibir el Estado que provengan de contribuciones, de aprovechamientos o de sus accesorios, incluyendo los que deriven de responsabilidades que el Estado tenga derecho a exigir de sus servidores públicos o de los particulares, así como aquellos a los que las leyes les den ese carácter y el Estado tenga derecho a percibir por cuenta ajena. Las autoridades distintas de las fiscales que remitan créditos fiscales a la Secretaría de Hacienda para su cobro, deberán estar debidamente notificados (sic) en los términos de las leyes aplicables. Además, deberán proporcionar a la autoridad fiscal, el registro federal de contribuyentes (RFC), así como, los datos de identificación y localización que tengan de la persona física o moral a la que se haya determinado la resolución remitida para cobro.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -409,6 +409,14 @@ Cuando las disposiciones fiscales establezcan opciones a los contribuyentes para
 
 Para determinar las contribuciones se considerarán inclusive, las fracciones del peso; no obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 a 50 centavos se ajusten a la unidad del peso inmediata anterior y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad del peso inmediata superior.
 
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Las contribuciones y sus accesorios se causarán y pagarán en moneda nacional.
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Para determinar las contribuciones y sus accesorios se considerará el tipo de cambio a que se haya adquirido la moneda extranjera de que se trate y no habiendo adquisición, se estará al tipo de cambio que el Banco de México publique en el Diario Oficial de la Federación el día anterior a aquél en que se causen las contribuciones. Los días en que el Banco de México no publique dicho tipo de cambio se aplicará el último tipo de cambio publicado con anterioridad al día en que se causen las contribuciones.
+
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
 ARTÍCULO 18 BIS.- El monto de las contribuciones y aprovechamientos a cargo de los contribuyentes, así como de las devoluciones a cargo del fisco estatal por dichos conceptos, se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización obtenido de acuerdo con el siguiente párrafo a las cantidades que se deban actualizar. Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes de la actualización.
@@ -461,7 +469,9 @@ Las promociones deberán presentarse en las formas que al efecto apruebe la Secr
 
 I.- Constar por escrito;
 
-II.- El nombre, la denominación o razón social y el domicilio fiscal manifestado al Registro Estatal de Contribuyentes, para el efecto de fijar la competencia de la autoridad, y la clave que le correspondió en dicho Registro;
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+II.- El nombre, la denominación o razón social y el domicilio fiscal manifestado al Registro Estatal de Contribuyentes, para el efecto de fijar la competencia de la autoridad, y la clave que correspondió en dicho Registro. A falta de la clave antes señalada, indicar la clave del Registro Federal de Contribuyentes (RFC);
 
 III.- Señalar la autoridad a la que se dirige y el propósito de la promoción; y,
 
@@ -663,9 +673,11 @@ Cuando en la solicitud de inscripción al Registro Estatal, o en los avisos corr
 
 Tratándose de personas físicas o morales cuyas actividades (sic) reguladas por leyes administrativas en el Estado y tengan la obligación de efectuar un pago anual, bianual o trianual por conceptos de Derechos en los términos de la Ley de Hacienda del Estado, deberán de solicitar su inscripción en el Registro Estatal de Contribuyentes en los 45 días siguientes al pago efectuado o presentar un aumento de obligaciones fiscales si ya están inscritos; cumplido el plazo la Secretaría de Hacienda podrá realizar su registro de contribuyente de conformidad con lo dispuesto en el artículo 34 de este Código.
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE DICIEMBRE DE 2023)</small>
 
-ARTÍCULO 33 BIS.- Las personas físicas o morales que contraten la prestación de servicios con empresas para que éstas les proporcionen a los trabajadores, deberán presentar el aviso correspondiente, dentro de los diez días siguientes a la fecha de contratación, ante la oficina recaudadora que corresponda a su domicilio fiscal, debiendo acompañar copia del contrato de prestación de servicios, e informar sobre el número de trabajadores que presten el trabajo, así como el nombre, registro estatal de contribuyentes y domicilio de la prestadora de servicios de que se trate, así como los avisos que esta última debe presentar ante el Instituto Mexicano del Seguro Social.
+ARTÍCULO 33 BIS.- Las personas físicas o morales que contraten la prestación de servicios especializados, en términos del artículo 13 de la Ley Federal del Trabajo, deberán presentar el aviso correspondiente, dentro de los diez días siguientes a la fecha de contratación, ante la oficina recaudadora que corresponda a su domicilio fiscal, debiendo acompañar copia del contrato de prestación de servicios, e informar sobre el número de personas que presten el servicio, así como el nombre, registro estatal de contribuyentes y domicilio de la prestadora de servicios de que se trate, así como los avisos que esta última debe presentar ante el Instituto Mexicano del Seguro Social.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
 Las autoridades fiscales podrán requerir a las personas físicas o morales a que se refiere este artículo, la presentación de documentos o información adicional, a fin de que en un plazo máximo de diez días cumplan con lo solicitado. En este caso, no se considera que se inicie el ejercicio de facultades de comprobación.
 
@@ -694,6 +706,16 @@ ARTÍCULO 33 QUATER.- Los subsidios o estímulos previstos en los ordenamientos 
 Las entidades y dependencias que tengan a su cargo la aplicación de subsidios o estímulos deberán abstenerse de aplicarlos a las personas que se ubiquen en los supuestos previstos en las fracciones I a IV del artículo 33 TER, salvo que tratándose de la fracción III, no tengan obligación de inscribirse en el Registro Estatal de Contribuyentes.
 
 Los particulares que tengan derecho al otorgamiento de subsidio o estímulos y que se ubiquen en los supuestos de las fracciones I y II del artículo 33 TER, no se consideran comprendidos en dichos supuestos cuando previo a la aplicación del estímulo celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo.
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 33 QUINQUIES.- Los representantes legales, socios y accionistas de las personas morales, así como las personas que hubiesen adquirido sus acciones a través de mercados reconocidos o de amplia bursatilidad y dichas acciones se consideren colocadas entre el gran público inversionista, siempre que, en este último de (sic) supuesto, el socio o accionista no hubiere solicitado su registro en el libro de socios y accionistas, tendrán las siguientes obligaciones:
+
+I.- Solicitar la inscripción en el Registro Estatal de Contribuyentes.
+
+II.- Proporcionar en el Registro Estatal de Contribuyentes, la información relacionada con la identidad, domicilio y, en general, sobre la situación fiscal, mediante los avisos que se establecen en este Código, así como registrar y mantener actualizada una sola dirección de correo electrónico y un número telefónico del contribuyente, o bien, los medios de contacto que determine la autoridad fiscal en sus formatos oficiales.
+
+III.- Manifestar al Registro Estatal de Contribuyentes el domicilio fiscal.
 
 > <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -735,9 +757,17 @@ III.- De aumento o disminución de obligaciones, suspensión o reanudación de a
 
 El aviso de reanudación de actividades no implica nueva inscripción al Registro Estatal de Contribuyentes.
 
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+El contribuyente que presente aviso de suspensión de actividades deberá conservar su contabilidad en el último domicilio que tenga manifestado en el registro estatal de contribuyentes y, si con posterioridad desocupa el domicilio consignado ante el referido registro, deberá presentar el aviso de cambio de domicilio, en el cual deberá conservar su contabilidad durante el plazo que establece el artículo 39 de este Código.
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Durante el período de suspensión de actividades, el contribuyente no queda relevado de presentar los demás avisos previstos en este artículo.
+
 > <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-IV - De traspaso de la negociación clausura definitiva, liquidación o apertura de sucesión;
+IV.- De traspaso de la negociación clausura definitiva, liquidación o apertura de sucesión;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -799,11 +829,15 @@ Las declaraciones que presenten los contribuyentes serán definitivas y sólo se
 
 En los siguientes casos no operará la anterior limitación:
 
-I.- Cuando sólo incrementen sus ingresos o el valor de sus actos o actividades;
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+I.- Cuando sólo incrementen sus ingresos, el valor de sus actos o actividades, o el monto de las remuneraciones al trabajo personal;
 
 II.- Cuando sólo disminuyan las cantidades que hubieran compensado;
 
-III.- Cuando el contribuyente haga dictaminar por contador público autorizado sus estados financieros, podrá corregir, en su caso, la declaración original como consecuencia de los resultados obtenidos en el dictamen respectivo; y,
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+III.- Cuando el contribuyente haga dictaminar por contador público autorizado sobre el cumplimento de las disposiciones fiscales, podrá corregir, en su caso, la declaración original como consecuencia de los resultados obtenidos en el dictamen respectivo; y,
 
 > <small>(REFORMADA EN PÁRRAFO PRIMERO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -817,6 +851,10 @@ Si en la declaración complementaria se determina que el pago efectuado fue meno
 
 > <small>(DEROGADO QUINTO PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Para los efectos de este artículo, una vez que las autoridades fiscales hayan iniciado el ejercicio de sus facultades de comprobación no tendrán efectos las declaraciones complementarias de periodos anteriores que presenten los contribuyentes revisados cuando éstas tengan alguna repercusión en el periodo que se esté revisando.
+
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
 ARTÍCULO 41 BIS.- Podrán optar por dictaminar el cumplimiento de sus obligaciones fiscales, las personas físicas y morales que tengan su domicilio fiscal o realicen operaciones en el Estado y que se ubiquen en cualquiera de los siguientes supuestos:
@@ -827,7 +865,7 @@ b) Que tengan más de veinte trabajadores a su servicio.
 
 c) Que presten servicios profesionales de personal a contribuyentes dentro del Estado de Sonora.
 
-d) Que presten habitualmente servicios de juegos con apuestas y concursos.
+d) (DEROGADO, B.O. 28 DE DICIEMBRE DE 2023)
 
 e) Sean establecimientos con licencia para venta de bebidas alcohólicas, cuyos ingresos para efectos del impuesto sobre la renta en el ejercicio inmediato anterior sean superiores a dos millones de pesos y que tengan más de diez empleados.
 
@@ -841,13 +879,13 @@ ARTÍCULO 41 TER.- Quienes opten por dictaminar sus obligaciones fiscales confor
 
 2.- Impuesto por la Prestación de Servicios de Hospedaje.
 
-3.- Impuesto Estatal por la Prestación de Servicios de Juegos con Apuestas y Concursos.
+3.- (DEROGADO, B.O. 28 DE DICIEMBRE DE 2023)
 
 4.- Impuesto Predial.
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
 
-ARTÍCULO 41 QUÁTER.- Los contribuyentes que opten por presentar el dictamen, deberán hacerlo ante las autoridades fiscales a más tardar en el último día hábil del mes de julio del ejercicio siguiente del que se dictamina, en los términos y con los datos e informes que al respecto se señale en las disposiciones administrativas que al efecto publique la Secretaría de Hacienda.
+ARTÍCULO 41 QUÁTER.- Los contribuyentes que estén obligados a presentar el dictamen y los que opten por presentarlo, deberán hacerlo de manera impresa, ante las autoridades fiscales a más tardar en el último día hábil del mes de julio del ejercicio siguiente del que se dictamina, en los términos y con los datos e informes que al respecto se señale en las reglas de carácter general que al efecto publique la Secretaría de Hacienda, de conformidad con lo dispuesto en el artículo 41 SEPTIES de esta Ley.
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
@@ -863,11 +901,23 @@ La inscripción ante el registro único de contadores públicos de la Secretarí
 
 a) Las personas de nacionalidad mexicana que tengan título de contador público registrado ante la Secretaría de Educación Pública y que sean miembros de un colegio profesional reconocido por la misma Secretaría, cuando menos en los tres años previos a la presentación de la solicitud de registro correspondiente.
 
-Las personas a que se refiere el párrafo anterior, adicionalmente deberán contar con certificación expedida por los colegios profesionales o asociaciones de contadores públicos, registrados y autorizados por la Secretaría de Educación Pública, y sólo serán válidas las certificaciones que le sean expedidas a los contadores públicos por los organismos certificadores que obtengan el Reconocimiento de Idoneidad que otorgue la Secretaría de Educación Pública; además, deberán contar con experiencia mínima de tres años participando en la elaboración de dictámenes fiscales.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
 
-b) Las personas que cuenten con registro para dictaminar estados financieros para efectos fiscales, emitido por las autoridades fiscales federales, siempre que el mismo se encuentre vigente
+Las personas a que se refiere el párrafo anterior, adicionalmente deberán contar con certificación vigente expedida con no más de dos meses de anticipación, emitida por los colegios profesionales o asociaciones de contadores públicos, registrados y autorizados por la Secretaría de Educación Pública, y sólo serán válidas las certificaciones que le sean expedidas a los contadores públicos por los organismos certificadores que obtengan el Reconocimiento de Idoneidad que otorgue la Secretaría de Educación Pública que lo acredite como miembro activo de los mismos, además, deberán contar con experiencia mínima de tres años participando en la elaboración de dictámenes fiscales, de conformidad con los requisitos que establezca la Secretaría de Hacienda mediante reglas de carácter general.
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+En caso de que la certificación a que se refiere este inciso se haya expedido con más de un año al momento de solicitar la inscripción, deberá presentar una constancia que acredite el cumplimiento de la Norma de Educación Continua o de Actualización Académica expedida por un colegio profesional o por una asociación de contadores públicos reconocidos por la Secretaría de Educación Pública al que pertenezca, la cual deberá obtener y proporcionar a la Secretaría de Hacienda anualmente, de la cual una vez concluida la vigencia de la certificación, el contador público inscrito deberá contar con el refrendo o recertificación de la misma y deberá proporcionarla a la Secretaría de Hacienda, dentro de los primeros tres meses de cada año.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+b) Las personas que cuenten con registro para dictaminar sobre el cumplimiento de las disposiciones fiscales, emitido por las autoridades fiscales federales, siempre que el mismo se encuentre vigente.
 
 Para obtener el registro, los solicitantes deberán encontrarse al corriente en el cumplimiento de sus obligaciones fiscales, para lo cual deberán exhibir documento vigente expedido por la Secretaría de Hacienda, en el que se emita la opinión del cumplimiento de obligaciones fiscales.
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+La solicitud de registro y la documentación que compruebe que cumple con los requisitos establecidos en este artículo, deberán ser presentadas ante la Coordinación Ejecutiva de Auditoria Fiscal, mediante escrito firmado por el Contador Público que solicite el registro, en los términos y con los datos y documentos que al respecto se señale en las Reglas de Carácter General que al efecto publique la Secretaría de Hacienda.
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
@@ -883,9 +933,13 @@ d) La revisión de bases, cálculo y entero de los impuestos correspondientes.
 
 e) La declaración, bajo protesta de decir verdad, del apego del dictamen a lo ordenado en las disposiciones fiscales, así como la opinión acerca del cumplimiento de las obligaciones fiscales del contribuyente, indicando, en su caso, las omisiones observadas, independientemente de su importancia relativa.
 
-f) La demás información y documentación que se establezca en las reglas generales administrativas que emita la Secretaría de Hacienda.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
 
-Para los efectos del contenido del dictamen, su elaboración y presentación, se estará a lo dispuesto en las reglas generales administrativas que establezca la Secretaría de Hacienda.
+f) La demás información y documentación que se establezca en las Reglas de carácter general que emita la Secretaría de Hacienda.
+
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Para los efectos del contenido del dictamen, su elaboración y presentación, se estará a lo dispuesto en las Reglas de carácter general que establezca la Secretaría de Hacienda.
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
@@ -899,7 +953,9 @@ a) No proporcione o presente incompleta la información a que se refieren las le
 
 La amonestación se aplicará por cada dictamen formulado en contravención a las disposiciones jurídicas aplicables, independientemente del ejercicio fiscal de que se trate y las sanciones correspondientes se acumularán;
 
-b) No hubiera integrado en el dictamen la información que para efectos del proceso de envío se determine en las reglas generales administrativas que emita la Secretaría de Hacienda.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+b) No hubiera integrado en el dictamen la información que para efectos del proceso de presentación se determine en las Reglas de carácter general que emita la Secretaría de Hacienda.
 
 En este caso, la amonestación se aplicará por cada dictamen en el que no se hubiera integrado la información que corresponda, independientemente del ejercicio fiscal de que se trate y las sanciones correspondientes se acumularán, y
 
@@ -939,17 +995,25 @@ I.- Cuando el contador público acumule tres suspensiones de las previstas en la
 
 II.- Cuando cause ejecutoria la sentencia definitiva que declare culpable al contador público que haya cometido un delito de carácter fiscal.
 
-> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE DICIEMBRE DE 2023)</small>
 
-ARTÍCULO 41 DECIES.- Los establecimientos o prestadores de servicios de juegos con apuestas, sorteos o concursos, están obligados a dictaminar sus obligaciones fiscales respecto de los siguientes impuestos:
+ARTÍCULO 41 DECIES.- Las personas físicas, morales o unidades económicas sin personalidad jurídica que realicen la prestación de servicios a que se refiere el artículo 212-M de la Ley de Hacienda del Estado de Sonora, están obligados a dictaminar sus obligaciones fiscales respecto de los siguientes impuestos:
+
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
 I.- Impuesto Estatal Sobre los Ingresos Derivados por la Obtención de Premios;
 
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2018)</small>
+
 II.- Impuesto Estatal por la Prestación de Servicios de Juegos con Apuestas y Concursos;
+
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
 III.- Impuesto a las Erogaciones en Juegos con Apuestas, Sorteos o Concursos.
 
-Dicho dictamen deberá ser presentado en los términos establecidos en el presente Código.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Dicho dictamen deberá ser presentado en los términos establecidos en los artículos 41 QUATER y 41 SEPTIES, del presente Código, así como en los términos y con los datos e informes que al respecto se señale en las Reglas de carácter general que al efecto publique la Secretaría de Hacienda.
 
 ## TITULO TERCERO. DE LAS FACULTADES DE LAS AUTORIDADES FISCALES
 
@@ -1000,6 +1064,20 @@ III.- Realizar recorridos, invitaciones y censos para informar y asesorar a los 
 > <small>(REFORMADO [N. DE E. PERTENECE A LA FRACCIÓN III], B.O. 27 DE DICIEMBRE DE 2019)</small>
 
 No se considera que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando derivado de lo señalado en la fracción III de este artículo, soliciten a los particulares los datos, informes y documentos necesarios para corregir o actualizar el Registro Estatal de Contribuyentes o en su caso, inscribirlos de oficio a dicho registro.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+IV.- Promover el cumplimiento en materia de presentación de declaraciones, así como las correcciones a su situación fiscal mediante el envío de:
+
+a) Propuestas de pago o declaraciones prellenadas.
+
+b) Comunicados para promover el cumplimiento de sus obligaciones fiscales.
+
+c) Comunicados para informar sobre inconsistencias detectadas o comportamientos atípicos.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN IV, B.O. 28 DE DICIEMBRE DE 2023]</small>
+
+El envío de los documentos señalados en los incisos anteriores, no se considerará inicio de facultades de comprobación.
 
 Asimismo, las autoridades fiscales darán a conocer a los contribuyentes, a través de los medios de difusión, los criterios de carácter interno que emitan para el debido cumplimiento de las disposiciones fiscales, salvo aquéllos que, a juicio de la propia autoridad, tengan el carácter de confidenciales, sin que por ello nazcan obligaciones para los particulares y únicamente derivarán derechos de los mismos cuando se publiquen en el Boletín Oficial del Estado de Sonora.
 
@@ -1087,13 +1165,37 @@ Para la emisión y regulación de los documentos digitales, de la firma electró
 
 Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria se señalará, además, la causa legal de la responsabilidad.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+En el caso de resoluciones administrativas que consten en documentos digitales, deberán contener la firma electrónica avanzada del funcionario competente, la que tendrá el mismo valor que la firma autógrafa.
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+En caso de resoluciones administrativas que consten en documentos impresos, el funcionario competente podrá expresar su voluntad para emitir la resolución plasmando en el documento impreso un sello expresado en caracteres, generado mediante el uso de su firma electrónica avanzada y amparada por un certificado vigente a la fecha de la resolución.
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Para dichos efectos, la impresión de caracteres consistente en el sello resultado del acto de firmar con la firma electrónica avanzada amparada por un certificado vigente a la fecha de la resolución, que se encuentre contenida en el documento impreso, producirá los mismos efectos que las Leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Asimismo, la integridad y autoría del documento que contenga el sello resultado de la firma electrónica avanzada y amparada por un certificado vigente a la fecha de la resolución, podrá ser comprobada a través de los medios que la Secretaría de Hacienda establezca.
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Adicionalmente, los funcionarios de la Secretaría de Hacienda, podrán utilizar su firma electrónica avanzada en cualquier documento que emitan en ejercicio de sus atribuciones, además de las resoluciones administrativas que se deban notificar, siendo aplicable para tal efecto, lo dispuesto en el presente artículo, respecto a la firma electrónica avanzada.
+
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 49.
 
-Procederá la reducción total o parcial de créditos fiscales cuando se haya afectado o trate de impedirse se afecte la situación de alguna región de la entidad, o de alguna rama de las actividades económicas.
+EI Ejecutivo del Estado mediante disposiciones de carácter general podrá:
 
-El Ejecutivo del Estado, mediante disposiciones de carácter general determinará el monto de los créditos que se reduzcan, los sujetos que gozarán del beneficio; la región o las ramas favorecidas, así como los requisitos que deban satisfacerse y el periodo de vigencia de los beneficios.
+I.- Reducir o eximir, total o parcialmente, el pago de contribuciones y sus accesorios, autorizar su pago a plazo, diferido o en parcialidades, cuando se haya afectado o trate de impedir que se afecte la situación de algún lugar o región del Estado, una rama de actividad, la producción o venta de productos, o la realización de una actividad, así como en casos de catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias.
+
+II.- Conceder subsidios o estímulos fiscales.
+
+Las resoluciones que conforme a este artículo dicte el Ejecutivo del Estado, deberán señalar las contribuciones a que se refieren, salvo que se trate de estímulos fiscales, así como, el monto o proporción de los beneficios, plazos que se concedan y los requisitos que deban cumplirse por los beneficiados.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
@@ -1107,13 +1209,13 @@ I.- Solicitar el auxilio de la fuerza pública;
 
 II.- Imponer la multa que corresponda en los términos de este Código;
 
-> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2023)</small>
 
-III.- Solicitar a la autoridad competente se proceda por desobediencia a un mandato legítimo de autoridad competente; y/o
+III.- Practicar el aseguramiento precautorio de los bienes o de la negociación del contribuyente, responsable solidario o terceros con ellos relacionados, respecto de los actos, solicitudes de información o requerimientos de documentación dirigidos a éstos, conforme a lo establecido en el artículo 50-A de este Código; y/o
 
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2023)</small>
 
-IV.- Practicar el aseguramiento precautorio de los bienes o de la negociación del contribuyente, responsable solidario o terceros con ellos relacionados, respecto de los actos, solicitudes de información o requerimientos de documentación dirigidos a éstos, conforme a lo establecido en el artículo 50-A de este Código.
+IV.- Solicitar a la autoridad competente se proceda por desobediencia a un mandato legítimo de autoridad competente.
 
 Para efectos de este artículo, las autoridades judiciales estatales y los cuerpos de seguridad o policiales deberán prestar en forma expedita el apoyo que solicite la autoridad fiscal.
 
@@ -1301,7 +1403,9 @@ Para los efectos del párrafo anterior, se considera como parte de la documentac
 
 III.- Practicar visitas a los contribuyentes, los responsables solidarios o terceros relacionados con ellos y revisar su contabilidad, bienes y mercancías;
 
-IV.- Revisar los dictámenes formulados por contadores públicos sobre los estados financieros de los contribuyentes y cualquier otro dictamen que tenga repercusión para efectos fiscales formulado por contador público y su relación con el cumplimiento de disposiciones fiscales.
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+IV.- Revisar los dictámenes formulados por contadores públicos sobre el cumplimiento de las disposiciones fiscales de los contribuyentes y cualquier otro dictamen que tenga repercusión para efectos fiscales formulado por contador público y su relación con el cumplimiento de disposiciones fiscales.
 
 V.- Proceder a la verificación física de toda clase de bienes, incluso durante su transporte u ordenar se practique avalúo sobre los mismos;
 
@@ -1541,11 +1645,13 @@ Si durante el plazo para concluir la visita domiciliaria o la revisión de la co
 
 Cuando las autoridades no levanten el acta final de visita o no notifiquen el oficio de observaciones o, en su caso, el de conclusión de la revisión dentro del plazo mencionado, ésta se entenderá concluida en esa fecha, quedando sin efectos la orden y las actuaciones que de ella se derivaron durante dicha visita o revisión.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 60.
 
-Las visitas en los domicilios fiscales ordenadas por las autoridades fiscales podrán concluirse anticipadamente cuando el visitado se encuentre obligado a dictaminar sus estados financieros por contador público autorizado o cuando el contribuyente haya ofrecido la opción a que se refiere el párrafo quinto del artículo 32-A del Código Fiscal de la Federación. Lo dispuesto en este párrafo no será aplicable cuando a juicio de las autoridades fiscales la información proporcionada en los términos del artículo 67 de este Código por el contador público que haya dictaminado, no sea suficiente para conocer la situación fiscal del contribuyente, cuando no se presente dentro de los plazos que establece el artículo 67-Bis de este ordenamiento, la información o documentación solicitada, ni cuando en el dictamen exista abstención de opinión negativa o salvedades, que tengan implicaciones fiscales.
+Las visitas en los domicilios fiscales ordenadas por las autoridades fiscales podrán concluirse anticipadamente cuando el visitado se encuentre obligado a dictaminar sobre el cumplimiento de las disposiciones fiscales por contador público autorizado o cuando el contribuyente haya ofrecido la opción a que se refiere el párrafo quinto del artículo 32-A del Código Fiscal de la Federación. Lo dispuesto en este párrafo no será aplicable cuando a juicio de las autoridades fiscales la información proporcionada en los términos del artículo 67 de este Código por el contador público que haya dictaminado, no sea suficiente para conocer la situación fiscal del contribuyente, cuando no se presente dentro de los plazos que establece el artículo 67-Bis de este ordenamiento, la información o documentación solicitada, ni cuando en el dictamen exista abstención de opinión negativa o salvedades, que tengan implicaciones fiscales.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
 En el caso de conclusión anticipada a que se refiere el párrafo anterior se deberá levantar acta en la que se señale la razón de tal hecho.
 
@@ -1623,7 +1729,9 @@ b).- Seis días contados a partir del día siguiente a aquél en que surta efect
 
 c).- Quince días contados a partir del día siguiente a aquél en que surta efectos la notificación de la solicitud respectiva, en los demás casos.
 
-Los plazos a que se refiere este inciso, se podrán ampliar por las autoridades fiscales por diez días más, cuando se trate de informes cuyo contenido sea difícil de proporcionar o de difícil obtención.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Los plazos a que se refiere este artículo, se podrán ampliar por las autoridades fiscales por diez días más, cuando se trate de informes cuyo contenido sea difícil de proporcionar o de difícil obtención.
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
@@ -1665,9 +1773,11 @@ V.- Si al cierre de cada una de las actas de visita domiciliaria el visitado o l
 
 VI.- Si con motivo de la visita domiciliaria a que se refiere este artículo, las autoridades tuvieran conocimiento de incumplimientos a las disposiciones fiscales, se procederá a la formulación de la resolución correspondiente. Previamente se deberá conceder al contribuyente, así como a terceros con ellos relacionados, un plazo de seis días hábiles para desvirtuar la comisión de la infracción presentando las pruebas y formulando los alegatos correspondientes. Si se observa que el visitado no se encuentra inscrito en el registro estatal de contribuyentes, la autoridad requerirá los datos necesarios para su inscripción, sin perjuicio de las sanciones y demás consecuencias legales derivadas de dicha omisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 64.
 
-Se presumirán ciertos, salvo prueba en contrario, los hechos afirmados en los dictámenes formulados por contadores públicos sobre los estados financieros de los contribuyentes; en cualquier otro dictamen que tenga repercusión fiscal formulado por contador público o relación con el cumplimiento de las disposiciones fiscales; o bien en las aclaraciones que dichos contadores formulen respecto de sus dictámenes, siempre que se reúnan los siguientes requisitos:
+Se presumirán ciertos, salvo prueba en contrario, los hechos afirmados en los dictámenes formulados por contadores públicos sobre el cumplimiento de las disposiciones fiscales, o en cualquier otro dictamen que tenga repercusión fiscal formulado por contador público, o bien en las aclaraciones que dichos contadores formulen respecto de sus dictámenes, siempre que se reúnan los siguientes requisitos:
 
 > <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
@@ -1679,29 +1789,13 @@ II.- Que el dictamen se formule de acuerdo con las disposiciones del Código Fis
 
 Las opiniones o interpretaciones contenidas en los dictámenes, no obligan a las autoridades fiscales. La revisión de los dictámenes y demás documentos relativos a los mismos se podrá efectuar en forma previa o simultánea al ejercicio de las otras facultades de comprobación respecto de los contribuyentes o responsables solidarios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
-
 ###### ARTÍCULO 65.
 
-Los contribuyentes que se encuentren obligados legalmente a dictaminar sus estados financieros o que hubieren optado por hacerlo, de conformidad con lo dispuesto por las disposiciones fiscales federales, deberán cumplir con las siguientes obligaciones ante la Dirección General de Auditoria Fiscal de la Secretaría de Hacienda:
-
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-I.- Presentar copia del dictamen fiscal enviado vía internet ante el Servicio de Administración Tributaria, dentro de los seis días siguientes al haberse exhibido ante dicha autoridad federal;
-
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-II.- Anexar a la copia del dictamen fiscal a que hace referencia la fracción anterior, los documentos mediante los cuales se determine la base y tasa del Impuesto Sobre Remuneración al Trabajo Personal, causados en el periodo que el citado dictamen comprende; y
-
-> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-III.- Cualquier otra documentación o información que requiera la Secretaría de Hacienda personalmente o a través de las disposiciones administrativas de carácter general.
-
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+(DEROGADO, B.O. 28 DE DICIEMBRE DE 2023)
 
 ###### ARTÍCULO 66.
 
-La copia del dictamen y los demás documentos a que hace referencia el artículo anterior, presentados fuera de los plazos previstos, no surtirán efecto alguno, salvo que la Dirección General de Auditoria Fiscal de la Secretaría de Hacienda considere que existen razones para admitir tales documentos caso en el cual deberá comunicar tal hecho al contribuyente con copia al contador público, dentro de los tres meses siguientes a la fecha de su presentación.
+(DEROGADO, B.O. 28 DE DICIEMBRE DE 2023)
 
 ###### ARTÍCULO 67.
 
@@ -1709,7 +1803,9 @@ Cuando las autoridades fiscales en ejercicio de sus facultades de comprobación 
 
 I.- Al contador público que haya formulado el dictamen, lo siguiente:
 
-a).- Cualquier información que conforme a lo establecido en la fracción II del artículo 65 de este Código debiera estar incluida en los estados financieros dictaminados para efectos fiscales;
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+a).- Cualquier información que conforme a lo establecido en el artículo 41 Septies de este Código, debiera estar incluida en los dictámenes de cumplimiento de obligaciones fiscales;
 
 b).- La exhibición de los papeles de trabajo elaborados con motivo de la auditoria practicada, los cuales, en todo caso, se entiende que son propiedad del contador público;
 
@@ -1735,9 +1831,11 @@ I.- Seis días, tratándose de papeles de trabajo elaborados con motivo del dict
 
 II.- Quince días, tratándose de otra documentación o información relacionada con el dictamen, que esté en poder del contribuyente.
 
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 68.
 
-Se considera que se inicia el ejercicio de las facultades de comprobación en relación con los contribuyentes que hayan presentado estados financieros dictaminados, cuando la autoridad fiscal competente lleva a cabo alguno de los actos señalados en las fracciones II y III del artículo anterior.
+Se considera que se inicia el ejercicio de las facultades de comprobación en relación con los contribuyentes que hayan presentado dictamen de cumplimiento de obligaciones fiscales, cuando la autoridad fiscal competente lleva a cabo alguno de los actos señalados en la fracción II del artículo 67 de este Código.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
@@ -1747,11 +1845,15 @@ Las autoridades fiscales podrán determinar presuntivamente los ingresos, así c
 
 I.- Se opongan u obstaculicen la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales; u omitan presentar declaraciones de cualquier contribución hasta el momento en que se inicie el ejercicio de dichas facultades y siempre que haya transcurrido más de un mes desde el día en que venció el plazo para la presentación de la declaración de que se trate;
 
-II.- No presenten los libros y registros de contabilidad, la documentación comprobatoria de más del 3% de alguno de los conceptos de las declaraciones, o no proporcionen los informes relativos al cumplimiento de las disposiciones fiscales;
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+II.- No presenten los libros y registros de contabilidad, la documentación comprobatoria de más del 3% de alguno de los conceptos de las declaraciones, no proporcionen los informes relativos al cumplimiento de las disposiciones fiscales, o cuando los establecimientos o prestadores de servicios de juegos con apuestas, sorteos o concursos, no cumplan con los (sic) dispuesto por el artículo 212-Y de la Ley de Hacienda del Estado de Sonora;
 
 III.- Se dé alguna de las siguientes irregularidades:
 
-a).- Omisión del registro de operaciones, ingresos o compras, así como alteración del costo, por más de 3% sobre los declarados en el período objeto de revisión;
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+a).- Omisión del registro de remuneraciones, operaciones, ingresos o compras, así como alteración del costo, por más de 3% sobre los declarados en el período objeto de revisión;
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -1807,9 +1909,11 @@ Para efectos de la determinación presuntiva a que se refiere este artículo, la
 
 (DEROGADO, B.O. 18 DE DICIEMBRE DE 2003).
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 73.
 
-Para la comprobación de los ingresos, así como de las contribuciones omitidas, las autoridades fiscales presumirán, salvo prueba en contrario:
+Para la comprobación de los ingresos, de remuneraciones al trabajo personal, así como de las contribuciones omitidas, las autoridades fiscales presumirán, salvo prueba en contrario:
 
 I.- Que la información contenida en la contabilidad, documentación comprobatoria y correspondencia que se encuentren en poder del contribuyente, corresponde a operaciones celebradas por él, aún cuando aparezcan sin su nombre o a nombre de otra persona, siempre que se logre demostrar que al menos una de las operaciones o actividades contenidas en tales elementos, fue realizada por el contribuyente;
 
@@ -1829,9 +1933,9 @@ Se presumirá que los depósitos efectuados por el empleador en cuentas de las p
 
 V.- Que las diferencias entre los activos registrados en contabilidad y las existencias reales corresponden a ingresos y valor de actos o actividades del último ejercicio que se revisa por los que se deban pagar contribuciones;
 
-> <small>(REFORMADA, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2023)</small>
 
-VI.- Que los cheques librados contra las cuentas del contribuyente a proveedores o prestadores de servicios al mismo, que no correspondan a operaciones registradas en su contabilidad son pagos por mercancías adquiridas o por servicios por los que el contribuyente obtuvo ingresos; y
+VI.- Que los cheques librados contra las cuentas del contribuyente a proveedores o prestadores de servicios al mismo, que no correspondan a operaciones registradas en su contabilidad son pagos por mercancías adquiridas o por servicios por los que el contribuyente obtuvo ingresos, y que los cheques librados contra las cuentas del contribuyente a trabajadores o prestadores de servicios, que no correspondan a operaciones registradas en su contabilidad son remuneraciones al trabajo personal pagados; y
 
 VII.- Que los inventarios de materias primas, productos semiterminados y terminados, los activos fijos, gastos y cargos diferidos que obren en poder del contribuyente, así como los terrenos donde desarrolle su actividad son de su propiedad. Los bienes a que se refiere este párrafo se valuarán a sus precios de mercado y en su defecto al de avalúo.
 
@@ -1849,9 +1953,11 @@ La presunción establecida en este artículo no se aplicará cuando el contribuy
 
 Igual procedimiento se seguirá para determinar el valor por enajenación de bienes faltantes en inventarios. En este caso, si no pudiera determinarse el monto de la adquisición se considerará el que corresponda a bienes de la misma especie adquiridos por el contribuyente en el ejercicio de que se trate y en su defecto, el de mercado o el de avalúo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 75.
 
-Para comprobar las contribuciones omitidas, así como los ingresos o el valor de los actos o actividades de los contribuyentes, las autoridades fiscales presumirán, salvo prueba en contrario, que la información o documentos de terceros relacionados con el contribuyente, corresponden a operaciones realizadas por éste, cuando:
+Para comprobar las contribuciones omitidas, los ingresos o el valor de los actos o actividades de los contribuyentes, así como las remuneraciones al trabajo personal a que se refiere el artículo 213 de la Ley de Hacienda del Estado, las autoridades fiscales presumirán, salvo prueba en contrario, que la información o documentos de terceros relacionados con el contribuyente, corresponden a operaciones realizadas por éste, cuando:
 
 I.- Se refieran al contribuyente designado por su nombre, denominación o razón social;
 
@@ -2061,17 +2167,23 @@ II.- La omisión haya sido corregida por el contribuyente después de que las au
 
 Siempre que se omita el pago de una contribución cuya determinación corresponda a los funcionarios o empleados públicos o a los notarios o corredores titulados, los accesorios serán, a cargo exclusivamente de ellos, y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes a quien determinó las contribuciones, los accesorios serán a cargo de los contribuyentes.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 85.
 
-La Secretaría de Hacienda podrá reducir hasta el 100% las multas por infracción a las disposiciones fiscales, inclusive las determinadas por el propio contribuyente, para lo cual apreciará discrecionalmente las circunstancias del caso, así como los motivos que tuvo la autoridad que impuso la sanción.
+La Secretaría de Hacienda podrá reducir hasta el 100% las multas por infracción a las disposiciones fiscales, inclusive las determinadas por el propio contribuyente, para lo cual la Secretaría establecerá, mediante reglas de carácter general, los requisitos y supuestos por los cuales procederá la reducción, así como la forma y plazos para el pago de la parte no reducida.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
 La solicitud de reducción de multas en los términos de este artículo no constituirá instancia y las resoluciones que dicte la Secretaría de Hacienda al respecto no podrán ser impugnadas por los medios de defensa que establece este Código.
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
 La solicitud dará lugar a la suspensión del procedimiento administrativo de ejecución, si así se pide y se garantiza el interés fiscal.
 
-Sólo procederá la reducción de multas que hayan quedado firmes y siempre que un acto administrativo conexo no sea materia de impugnación.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Procederá la reducción de multas siempre que un acto administrativo conexo no sea materia de impugnación.
 
 ###### ARTÍCULO 86.
 
@@ -2163,13 +2275,15 @@ b).- De un 60% a un 90% del monto de las contribuciones omitidas o del beneficio
 
 c).- De un 50% a un 75% del importe de las contribuciones retenidas o recaudadas y no enteradas, cuando se incurra en la agravante a que se refiere la fracción III del artículo 86 de este Código.
 
-Tratándose de los casos comprendidos en las fracciones I y II del artículo anterior, el aumento de multas, a que se refiere esta fracción, se determinará por la autoridad fiscal correspondiente, aun después de que el infractor hubiera pagado las multas en los términos del artículo precedente; y,
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Tratándose de los casos comprendidos en las fracciones I y II del artículo 86 de este código, el aumento de multas, a que se refiere esta fracción, se determinará por la autoridad fiscal correspondiente, aun después de que el infractor hubiera pagado las multas en los términos del artículo precedente; y,
 
 II.- Se disminuirán:
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
 
-a).- De un 20% a un 30% del monto de las contribuciones omitidas o del beneficio indebido, en el caso de la fracción II del Artículo 87 y siempre que el infractor pague o devuelva los mismos con sus accesorios, dentro de los treinta días siguientes a la fecha en que surta efectos la notificación de la resolución respectiva. Para aplicar la reducción contenida en este inciso no se requiere modificar la resolución que impuso la multa.
+a).- De un 20% a un 30% el monto de las contribuciones omitidas o del beneficio indebido, en el caso de la fracción II del artículo 86 y siempre que el infractor pague o devuelva los mismos con sus accesorios, dentro de los treinta días siguientes a la fecha en que surta efectos la notificación de la resolución respectiva. Para aplicar la reducción contenida en este inciso no se requiere modificar la resolución que impuso la multa.
 
 ###### ARTÍCULO 89.
 
@@ -2205,7 +2319,7 @@ III.- Obtener o usar mas de un numero de registro o de empadronamiento para el c
 
 IV.- Utilizar interpósita persona para manifestar negociaciones propias o para percibir ingresos gravables, dejando de pagar los impuestos correspondientes;
 
-V- No obtener oportunamente los permisos, placas, boletos de registro o cualquier otro documento exigido por las leyes fiscales o no tenerlos en el lugar que señalan dichas disposiciones;
+V.- No obtener oportunamente los permisos, placas, boletos de registro o cualquier otro documento exigido por las leyes fiscales o no tenerlos en el lugar que señalan dichas disposiciones;
 
 VI.- Producir, fabricar, transformar, almacenar o expender artículos gravados sin cumplir con las obligaciones que establezcan las leyes fiscales;
 
@@ -2223,13 +2337,13 @@ XII.- Llevar doble juego de libros con anotaciones distintas a los libros autori
 
 XIII.- No conservar los libros, documentos o correspondencia que le sean dejados en calidad de depositario, por los visitadores, al estarse practicando visitas domiciliarias;
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2023)</small>
 
-XIV.- No presentar o no proporcionar, o hacerlo extemporáneamente los avisos, declaraciones, dictámenes, solicitudes, datos, informes, copias, libros o documentos que exijan las disposiciones fiscales. No comprobarlos o aclararlos cuando las autoridades fiscales lo soliciten;
+XIV.- No presentar o no proporcionar, o hacerlo extemporáneamente, los avisos, declaraciones, solicitudes, datos, informes, copias, libros o documentos que exijan las disposiciones fiscales. No comprobarlos o aclararlos cuando las autoridades fiscales lo soliciten;
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2023)</small>
 
-XV.- Presentar los avisos, dictámenes, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refiere la fracción anterior, falsificados, alterados, incompletos o con errores que traigan consigo la evasión de una prestación fiscal;
+XV.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refiere la fracción anterior, falsificados, alterados, incompletos o con errores que traigan consigo la evasión de una prestación fiscal;
 
 > <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
@@ -2245,7 +2359,7 @@ XIX.- Alterar o destruir los sellos o marcas oficiales colocados con fines fisca
 
 XX.- Señalar como domicilio fiscal para efectos del Registro Estatal de Contribuyentes, un lugar distinto del que corresponda conforme al artículo 15;
 
-XXI.- No presentar copia del dictamen fiscal a que se refiere la fracción I del artículo 65 de este Código dentro del plazo establecido, así como los documentos a que alude la fracción II del citado precepto.
+XXI.- (DEROGADA, B.O. 28 DE DICIEMBRE DE 2023)
 
 > <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
@@ -2255,9 +2369,13 @@ XXII.- No presentar el aviso por cambio de domicilio;
 
 XXIII.- No expedir, no entregar o no poner a disposición de los clientes los comprobantes fiscales que señalen las disposiciones fiscales; y
 
-> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2023)</small>
 
-XXIV.- No presentar el dictamen fiscal habiendo presentado el aviso a que se refiere el artículo 41 Bis del (sic) éste Código.
+XXIV.- No presentar el dictamen fiscal habiendo presentado el aviso a que se refiere el artículo 41 Bis del (sic) éste Código, o presentarlo fuera del plazo establecido en el artículo 41 QUATER de este Código. De igual manera, no comprobarlos o aclararlos cuando las autoridades fiscales lo soliciten.
+
+> <small>(ADICIONADA, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XXV.- No presentar el dictamen sobre el cumplimiento de obligaciones fiscales establecido en el artículo 41 DECIES de este Código, estando obligado a presentarlo, o presentarlo fuera del plazo establecido en el artículo 41 QUATER de este Código. Asimismo, presentar el dictamen falsificado, alterado, incompleto o con errores que traigan consigo la evasión de una prestación fiscal.
 
 ###### ARTÍCULO 91.
 
@@ -2299,7 +2417,9 @@ III.- No presentar o no exhibir los avisos, informes, datos, declaraciones o doc
 
 IV.- Presentar los informes, datos y documentos a que se refiere la fracción anterior, incompletos, inexactos, alterados o falsificados;
 
-V.- Asesorar o aconsejar a los sujetos pasivos para evadir el pago de una prestación fiscal o para infringir las disposiciones fiscales; contribuir a la alteración, inscripción de cuentas, asientos o datos falsos en los libros de contabilidad o en los documentos que se expidan, o expedir dictámenes de estados financieros para efectos fiscales que no reflejen la situación fiscal correcta del sujeto pasivo o responsable solidario;
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+V.- Asesorar o aconsejar a los sujetos pasivos para evadir el pago de una prestación fiscal o para infringir las disposiciones fiscales; contribuir a la alteración, inscripción de cuentas, asientos o datos falsos en los libros de contabilidad o en los documentos que se expidan, o expedir dictámenes sobre el cumplimiento de las disposiciones fiscales que no reflejen la situación fiscal correcta del sujeto pasivo o responsable solidario;
 
 VI.- No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una prestación en los casos en que la ley les imponga esa obligación;
 
@@ -2363,7 +2483,9 @@ V.- De 25 a 35 Unidades de Medida y Actualización, a la señalada en el Artícu
 
 VI.- De 2.2 A 44 Unidades de Medida y Actualización, a la señalada en el artículo 90 fracción II;
 
-VII.- De 2.5 A 25 Unidades de Medida y Actualización, a las señaladas en los artículos 90 fracciones V, VI, VII, VIII, XI, XII, XX y XXI y 91 fracción V;
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+VII.- De 2.5 a 25 Unidades de Medida y Actualización, a las señaladas en los artículos 90 fracciones V, VI, VII, VIII, XI, XII, XX y 91 fracción V;
 
 VIII.- De 2.5 A 63 Unidades de Medida y Actualización, a las señaladas en el artículo 90, fracciones IX, X y XVII;
 
@@ -2379,7 +2501,9 @@ XIII.- De 150 a 300 Unidades de Medida y Actualización, a las señaladas en los
 
 XIV.- De 34 a 100 Unidades de Medida y Actualización, a las señaladas en el artículo 90 fracciones XXII, y XXIII; y
 
-XV.- De 400 a 700 Unidades de Medida y Actualización, a la señalada en el artículo 90, fracción XXIV.
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XV.- De 400 a 700 Unidades de Medida y Actualización, a las señaladas en el artículo 90, fracciones XXIV y XXV.
 
 ### CAPITULO II. De los Delitos Fiscales
 
@@ -3119,15 +3243,7 @@ TER.- La Secretaría de Hacienda podrá reducir total o parcialmente multas y re
 
 Lo previsto en este artículo no constituye instancia, las autorizaciones que otorguen no podrán ser impugnadas por los particulares y deberán ser publicadas conforme a las reglas que al efecto emitan las autoridades correspondientes.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
-
-ARTÍCULO 146 QUÁTER.- Tratándose de contribuyentes que se encuentren sujetos a un procedimiento de concurso mercantil, las autoridades fiscales podrán reducir parcialmente los créditos fiscales relativos a contribuciones que debieron pagarse con anterioridad a al fecha en que se inicie el procedimiento de concurso mercantil, siempre que el comerciante haya celebrado convenio con sus acreedores en los términos de la Ley respectiva y de acuerdo con lo siguiente:
-
-I.- Cuando el monto de los créditos fiscales represente menos del 60% del total de los créditos reconocidos en el procedimiento concursal, la reducción no excederá del beneficio mínimo de entre los otorgados por los acreedores que, no siendo partes relacionadas, representen en conjunto cuando menos el 50% del monto reconocido a los acreedores no fiscales.
-
-II.- Cuando el monto de los créditos fiscales represente más del 60% del total de los créditos reconocidos en el procedimiento concursal, la reducción, determinada en los términos del inciso anterior, no excederá del monto que corresponda a los accesorios de las contribuciones adeudadas.
-
-La autorización de reducción deberá sujetarse a los requisitos y lineamientos que establezca la Secretaría de Hacienda.
+ARTÍCULO 146 QUÁTER.- (DEROGADO, B.O. 28 DE DICIEMBRE DE 2023)
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
@@ -4420,3 +4536,11 @@ El 10% del importe de los recursos recaudados durante el ejercicio fiscal 2023, 
 ###### ARTÍCULO CUARTO.
 
 El Instituto Catastral y Registral para el Estado de Sonora, deberá emitir los lineamientos relativos a la presentación de la fianza para hacer uso del escritorio notarial, a que se hace referencia en el artículo 326, fracción V, numeral 8, párrafo tercero, de la Ley de Hacienda del Estado de Sonora, dentro del plazo de 90 días naturales a la entrada en vigor del presente Decreto.
+
+B.O. 28 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 155 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE SONORA, DE LA LEY DE HACIENDA DEL ESTADO DE SONORA, DE LA LEY DE CONTROL VEHICULAR DEL ESTADO DE SONORA Y DE LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del 1 de enero de 2024, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
