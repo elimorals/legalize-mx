@@ -4,7 +4,7 @@ identifier: "YUC-codigo-fiscal-del-estado-de-yucatan-77797"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-12-22"
-last_updated: "2023-04-21"
+last_updated: "2023-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO FISCAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2023.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 22 de diciembre de 2010.
 
@@ -613,6 +613,14 @@ Los contribuyentes que hayan ejercido la opción a que se refiere el primer pár
 
 La cantidad compensada y no procedente causará recargos en los términos del artículo 30 de este Código, actualizadas por el período transcurrido desde el mes en que se efectuó la compensación indebida hasta aquél en que se haga el pago del monto de la compensación indebidamente efectuada.
 
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Para los efectos de los recargos a que se refiere el artículo 30 de este Código, se entenderá que el pago de las contribuciones o aprovechamientos se realizó oportunamente cuando el contribuyente realice el pago mediante compensación contra un saldo a favor o un pago de lo indebido, hasta por el monto de los mismos, siempre que el contribuyente hubiere presentado la declaración que contenga el saldo a favor o se haya realizado el pago de lo indebido con anterioridad a la fecha en la que debió pagarse la contribución o aprovechamiento de que se trate.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Cuando la presentación de la declaración que contenga el saldo a favor o la realización del pago de lo indebido se hubieran llevado a cabo con posterioridad a la fecha en la que se causó la contribución o aprovechamiento a pagar, los recargos se causarán por el periodo comprendido entre la fecha en la que debió pagarse la contribución o aprovechamiento y la fecha en la que se originó el saldo a favor o el pago de lo indebido a compensar.
+
 ###### Artículo 35.
 
 La compensación no procederá en los casos siguientes:
@@ -681,13 +689,17 @@ XV. Los asociados, respecto de las contribuciones que se hubieran causado en rel
 
 XVI. Las instituciones de crédito autorizadas para llevar a cabo operaciones fiduciarias respecto de los créditos fiscales que se hubieran causado por los ingresos derivados de la actividad objeto del fideicomiso;
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
-XVII. Los representantes o apoderados de los contribuyentes que hayan girado cheques para cubrir créditos fiscales sin tener fondos disponibles, o que teniéndolos dispongan de ellos antes de que transcurra el plazo de presentación, o que no estén autorizados para girar los cheques a cargo del librado, y
+XVII. Los representantes o apoderados de los contribuyentes que hayan girado cheques para cubrir créditos fiscales sin tener fondos disponibles, o que teniéndolos dispongan de ellos antes de que transcurra el plazo de presentación, o que no estén autorizados para girar los cheques a cargo del librado;
 
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
-XVIII. Los albaceas o representantes de la sucesión por las contribuciones que se causaron o se debieron pagar durante el período de su encargo.
+XVIII. Los albaceas o representantes de la sucesión por las contribuciones que se causaron o se debieron pagar durante el período de su encargo, y
+
+> <small>(ADICIONADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XIX. Los fedatarios públicos que autoricen algún acto jurídico o den trámite a algún documento, sin verificar previamente que se han cubierto los impuestos, derechos o demás contribuciones relativos a dichos actos o trámites, hasta por el monto de dichas contribuciones.
 
 Los responsables solidarios previstos en este artículo quedan obligados a cubrir la totalidad de los créditos fiscales. El fisco puede exigir de cualquiera de ellos simultánea o separadamente el cumplimiento de las obligaciones fiscales.
 
@@ -1325,9 +1337,17 @@ III. Durante el desarrollo de la visita, los visitadores, a fin de asegurar la c
 
 IV. Con las mismas formalidades a que se refieren las fracciones anteriores, se podrán levantar actas parciales o complementarias en las que se hagan constar hechos, omisiones o circunstancias de carácter concreto, de los que se tenga conocimiento en el desarrollo de una visita. Si al presentarse los visitadores al lugar en donde deba practicarse la diligencia no estuviere el visitado o su representante, dejarán citatorio con la persona que se encuentre en dicho lugar para que el mencionado visitado o su representante los esperen a la hora determinada del día siguiente para atender la diligencia; si no lo hicieren, dicha diligencia se entenderá con quien se encuentre en el lugar visitado. Una vez levantada el acta final, no se podrán levantar actas complementarias sin que exista una nueva orden de visita;
 
-Cuando en el desarrollo de una visita las autoridades fiscales conozcan hechos u omisiones que puedan entrañar incumplimiento de las disposiciones fiscales, los consignarán en forma circunstanciada en actas parciales. También se consignarán en dichas actas los hechos u omisiones que se conozcan de terceros. En la última acta parcial que al efecto se levante se hará mención expresa de tal circunstancia, y entre ésta y el acta final deberán transcurrir, cuando menos, veinte días, durante los cuales el contribuyente podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones, así como optar por corregir su situación fiscal;
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
-Cuando el periodo revisado sea mayor a doce meses se ampliará el plazo por quince días más, siempre que el contribuyente presente aviso dentro del plazo inicial de veinte días.
+Cuando en el desarrollo de una visita las autoridades fiscales conozcan hechos u omisiones que puedan entrañar incumplimiento de las disposiciones fiscales, los consignarán en forma circunstanciada en actas parciales. También se consignarán en dichas actas los hechos u omisiones que se conozcan de terceros. En la última acta parcial que al efecto se levante se hará mención expresa de tal circunstancia, y entre ésta y el acta final deberán transcurrir, cuando menos, veinte días, durante los cuales el contribuyente podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones, así como optar por corregir su situación fiscal. Cuando el periodo revisado sea mayor a doce meses se ampliará el plazo por quince días más, siempre que el contribuyente presente aviso dentro del plazo inicial de veinte días.
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Los visitadores tendrán la facultad para realizar la valoración de los documentos o informes obtenidos de terceros en el desarrollo de la visita, así como de los documentos, libros o registros que presente el contribuyente dentro de los plazos establecidos en el párrafo anterior para desvirtuar los hechos u omisiones mencionados en la última acta parcial.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+La valoración comprenderá la idoneidad y alcance de los documentos, libros, registros o informes de referencia, como resultado del análisis, la revisión, la comparación, la evaluación o la apreciación, realizadas en lo individual o en su conjunto, con el objeto de desvirtuar o no los citados hechos u omisiones.
 
 Se tendrán por consentidos los hechos consignados en las actas a que se refiere el párrafo anterior, si antes del cierre del acta final el contribuyente no presenta los documentos, libros o registros de referencia o no señale el lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad o no prueba que éstos se encuentran en poder de una autoridad;
 
@@ -1340,6 +1360,14 @@ VII. Se entenderá que las actas parciales forman parte integrante del acta fina
 VIII. Cuando de la revisión de las actas de visita y demás documentación vinculada a éstas, se observe que el procedimiento no se ajustó a las normas aplicables, que pudieran afectar la legalidad de la determinación del crédito fiscal, la autoridad podrá de oficio, por una sola vez, reponer el procedimiento, a partir de la violación formal cometida.
 
 Lo señalado en la fracción anterior será sin perjuicio de la responsabilidad en que pueda incurrir el servidor público que motivó la violación.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Se entenderá por circunstanciar detallar pormenorizadamente toda la información y documentación obtenida dentro de la visita domiciliaria, a través del análisis, la revisión, la comparación contra las disposiciones fiscales, así como la evaluación, estimación, apreciación, cálculo, ajuste y percepción, realizado por los visitadores, sin que se entienda en modo alguno que la acción de circunstanciar constituye valoración de pruebas.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+La información a que se refiere el párrafo anterior será de manera enunciativa mas no limitativa, aquella que esté consignada en los libros, registros y demás documentos que integran la contabilidad, así como la contenida en cualquier medio de almacenamiento digital o de procesamiento de datos que los contribuyentes sujetos a revisión tengan en su poder, incluyendo los objetos y mercancías que se hayan encontrado en el domicilio visitado y la información proporcionada por terceros.
 
 Concluida la visita domiciliaria, para iniciar otra a la misma persona, se requerirá nueva orden. En el caso de que las facultades de comprobación se refieran a las mismas contribuciones, aprovechamientos y periodos, sólo se podrá efectuar la nueva revisión cuando se comprueben hechos diferentes a los ya revisados. La comprobación de hechos diferentes deberá estar sustentada en información, datos o documentos de terceros, en la revisión de conceptos específicos que no se hayan revisado con anterioridad, en los datos aportados por los particulares en las declaraciones complementarias que se presenten o en la documentación aportada por los contribuyentes en los medios de defensa que promuevan y que no hubiera sido exhibida ante las autoridades fiscales durante el ejercicio de las facultades de comprobación previstas en las disposiciones fiscales; a menos que en este último supuesto la autoridad no haya objetado de falso el documento en el medio de defensa correspondiente pudiendo haberlo hecho o bien, cuando habiéndolo objetado, el incidente respectivo haya sido declarado improcedente.
 
@@ -2681,7 +2709,7 @@ III. Por estrados, cuando la persona a quien deba notificarse no sea localizable
 
 IV. Por edictos, cuando la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión, y
 
-V. Por instructivo, solamente en los casos y con las formalidades a que se refiere el segundo párrafo del artículo 159 de este Código.
+V. (DEROGADA, D.O. 28 DE DICIEMBRE DE 2023)
 
 Cuando se trate de notificaciones o actos relacionados con personas radicadas en otras entidades federativas, se podrán efectuar mediante exhorto a las autoridades fiscales respectivas del lugar donde deba notificarse o por mensajería con acuse de recibo o por correo certificado con acuse de recibo.
 
@@ -2717,11 +2745,15 @@ Toda notificación personal realizada con quien deba entenderse será legalmente
 
 En los casos de sociedades en liquidación, cuando se hubieran nombrado varios liquidadores, las notificaciones o diligencias que deban efectuarse con las mismas podrán practicarse válidamente con cualquiera de ellos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 159.
 
-Cuando la notificación se efectúe personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio en el domicilio, sea para que espere a una hora fija del día hábil siguiente o para que acuda a notificarse, dentro del plazo de seis días, a las oficinas de las autoridades fiscales.
+Cuando la notificación se efectúe personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio en el domicilio, señalando el día y la hora en que se actúa, y que su objeto es para que el destinatario de la notificación espere en dicho lugar a una hora fija del día hábil posterior que se señale en este; en caso de que en el domicilio no se encuentre alguna persona con quien pueda llevarse a cabo la diligencia o quien se encuentre se niegue a recibir el citatorio, éste se fijará en el acceso principal de dicho lugar y de ello, el notificador levantará una constancia.
 
-Tratándose de actos relativos al procedimiento administrativo de ejecución, el citatorio será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaren, a la hora señalada en el citatorio, se practicará la diligencia con quien se encuentre en el domicilio o, en su defecto, con un vecino. En caso de que estos últimos se negasen a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar razón de tal circunstancia para dar cuenta al jefe de la oficina exactora.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+El día y hora de la cita, el notificador deberá constituirse en el domicilio del interesado, y deberá requerir nuevamente la presencia del destinatario y notificarlo, pero si la persona citada o su representante legal no acudiera a la cita, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino. En caso de que estos últimos se negasen a recibir la notificación, ésta se hará por cualquiera de los medios previstos en el artículo 156 de este Código.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -3283,7 +3315,7 @@ No se practicará embargo respecto de aquellos créditos fiscales que hayan sido
 
 El ejecutor designado por el jefe de la oficina exactora se constituirá en el lugar donde se encuentren los bienes propiedad del deudor y deberá identificarse ante la persona con quien se practicará la diligencia de requerimiento de pago y de embargo de bienes, con intervención de la negociación en su caso, cumpliendo las formalidades que se señalan para las notificaciones en este Código. De esta diligencia se levantará acta circunstanciada de la que se entregará copia a la persona con quien se entienda la misma, y se notificará al propietario de los bienes embargados.
 
-Si la notificación del crédito fiscal adeudado o del requerimiento, en su caso, se hizo por edictos, estrados, o instructivo, la diligencia se entenderá con la autoridad municipal o local de la circunscripción de los bienes, salvo que en el momento de iniciarse la diligencia compareciere el deudor, en cuyo caso se entenderá con él.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -4132,3 +4164,11 @@ La Agencia de Inteligencia Patrimonial y Económica preferentemente contratará 
 Artículo Sexto. Exención
 
 La Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán queda exenta, por única ocasión, de los derechos, impuestos y obligaciones fiscales estatales, así como de las contribuciones municipales respecto de sus bienes de dominio público en términos del artículo 82, fracción VIII, de la Constitución Política del Estado de Yucatán y que puedan ser causados con motivo de la regularización de sus bienes y servicios para el cumplimiento de este decreto.
+
+D.O. 28 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 705/2023 POR EL QUE SE MODIFICA EL CÓDIGO FISCAL DEL ESTADO DE YUCATÁN, EN MATERIA DE ARMONIZACIÓN”.]
+
+Artículo único. Entrada en vigor
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil veinticuatro, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
