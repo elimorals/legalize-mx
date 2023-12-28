@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-merida-yucatan-90732"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-28"
-last_updated: "2022-12-28"
+last_updated: "2023-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 28 de diciembre de 2012.
 
@@ -819,7 +819,7 @@ I.- Los valores unitarios para el terreno correspondiente a las secciones catast
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 27 A LA 55.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 7 A LA 37; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 53 A LA 83; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 16 A LA 50; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 8 A LA 36; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 5 A LA 35; 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 5 A LA 36; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 7 A LA 47, 23 DE DICIEMBRE DE 2020, PÁGINAS DE LA 31 A LA 40; 29 DE DICIEMBRE DE 2021, PÁGINAS 24 A LA 55; 28 DE DICIEMBRE DE 2022, PÁGINAS DE LA 5 A LA 36.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 7 A LA 37; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 53 A LA 83; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 16 A LA 50; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 8 A LA 36; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 5 A LA 35; 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 5 A LA 36; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 7 A LA 47, 23 DE DICIEMBRE DE 2020, PÁGINAS DE LA 31 A LA 40; 29 DE DICIEMBRE DE 2021, PÁGINAS 24 A LA 55; 28 DE DICIEMBRE DE 2022, PÁGINAS DE LA 5 A LA 36; 28 DE DICIEMBRE DE 2023, PÁGINAS DE LA 23 A LA 34.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -1791,7 +1791,9 @@ a) Para establecimiento con venta de bebidas alcohólicas en envase cerrado.
 
 b) Para establecimiento con venta de bebidas alcohólicas para su consumo en el mismo lugar. 70 Constancia
 
-c) Para establecimiento con giro diferente a los mencionados en los incisos a), b), d), i), j), k) de esta fracción
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+c) Para establecimiento con giro no habitacional diferente a los mencionados en los incisos a), b), d), e), f), h), i), j), k) y l) de esta fracción.
 
 1. Zona 1. Consolidación Urbana 0.75 Constancia
 
@@ -1855,9 +1857,9 @@ l) Para desarrollo inmobiliario
 
 Para los efectos de los incisos anteriores de las fracciones I y II se entiende por Desarrollo Inmobiliario al bien inmueble que por sus características físicas o el régimen de propiedad se constituye como Fraccionamiento o División de Lotes.
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
-Para los efectos de las fracciones anteriores se entenderá por Otros Desarrollos los siguientes conceptos: industria, locales comerciales, centros comerciales, equipamiento, bodegas e infraestructura. Dicha clasificación se establece de conformidad con el Programa Municipal de Desarrollo Urbano de Mérida vigente.
+Para los efectos de las fracciones anteriores se entenderá por Otros Desarrollos los siguientes conceptos: vivienda multifamiliar, locales comerciales, centros y plazas comerciales, equipamiento, almacenamiento, industria y usos agropecuarios. Dicha clasificación se establece de conformidad con el Programa Municipal de Desarrollo Urbano de Mérida vigente.
 
 III.- Constancia de Alineamiento 0.20 Metro Lineal
 
@@ -2959,9 +2961,9 @@ b).- Para la factibilidad de división, cambio de nomenclatura, estado físico d
 
 c).- Para la elaboración de actas circunstanciadas por cada predio colindante que requiera de investigación documental 20.0
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE DICIEMBRE DE 2023)</small>
 
-VIII.- Por los trabajos de topografía que se requieran para la elaboración de planos o la diligencia de verificación, se causarán derechos de acuerdo a la superficie, metro lineal o punto posicionado geográfica o altimétricamente, conforme a lo siguiente:
+VIII.- Por los trabajos de topografía o de gabinete que se requieran para la elaboración de planos o la diligencia de verificación, se causarán derechos de acuerdo a la superficie, metro lineal o punto posicionado geográfica o altimétricamente, conforme a lo siguiente:
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2019)</small>
 
@@ -3045,11 +3047,15 @@ El derecho al que se refiere el inciso a) de la fracción IV del artículo 89, s
 
 No causarán derecho alguno las divisiones o fracciones de terrenos en zonas rústicas cuya superficie sea utilizada plenamente para la producción agrícola o ganadera.
 
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 92.
 
-Los deslindes o marcajes, las divisiones y las diligencias de verificación de altimetría causarán derechos de conformidad con lo establecido en la fracción VIII del artículo 89, con excepción de lo dispuesto en el artículo anterior.
+Los deslindes o marcajes y las diligencias de verificación de altimetría causarán derechos de conformidad con lo establecido en la fracción VIII, del artículo 89.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+En el caso de divisiones, uniones y revisión técnica para la constitución o modificación del régimen de propiedad en condominio, se cobrarán trabajos de gabinete conforme a lo establecido en la fracción VIII, del artículo 89 de esta Ley, con excepción de lo dispuesto en el artículo anterior.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
@@ -3185,7 +3191,13 @@ b) Cuando se trate de validación de planos necesarios para el servicio de revis
 
 2. En condominios horizontales de 41 fracciones o más, o en condominios verticales de 3 niveles o más 0.50 U.M.A.
 
-3. En subcondominios 1.0 U.M.A.
+3. En subcondominios 1.0
+
+U.M.A.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Cuando se trate de validación de planos con construcciones distribuidas en más de dos niveles, se cobrará la validación del plano que incluya todos los niveles, más un plano por cada nivel de construcción.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 30 DE DICIEMBRE DE 2019)</small>
 
@@ -3223,21 +3235,41 @@ XI.- Por la elaboración de plano de armado documental se pagará por cada plano
 
 Los armados documentales causarán adicionalmente derechos, de conformidad con lo establecido en el artículo 89, fracciones VI, inciso b), VII y VIII y el artículo 95, fracciones I, inciso b) y IV.
 
-#### Sección Séptima. De los Derechos por el Uso y Aprovechamiento de los Bienes de Dominio Público del Patrimonio Municipal
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XII.- Información cartográfica digital del Municipio de Mérida, en formato Shape, conforme lo siguiente:
+
+a) CD que contiene información a nivel
+
+manzana del Municipio de Mérida: 200 U.M.A.
+
+b) CD que contiene información a nivel
+
+de predio hasta nomenclatura: 500 U.M.A.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+#### Sección Séptima. De los Derechos por el Uso y Aprovechamiento de los Espacios Públicos y/o Bienes de Dominio Público del Patrimonio Municipal
 
 De los sujetos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 96.
 
-Son sujetos al pago de los derechos establecidos en esta sección las personas que usen y aprovechen los bienes del dominio público del patrimonio municipal.
+Son sujetos al pago de los derechos establecidos en esta sección las personas que usen y aprovechen espacios públicos y/o bienes del dominio público del patrimonio municipal.
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Para los efectos de esta sección se considera espacio público, las áreas, espacios abiertos o predios de los asentamientos humanos destinados al uso, disfrute o aprovechamiento colectivo de acceso generalizado y libre tránsito, quedando comprendidos las calles, parques, plazas, áreas deportivas, zoológicos y equipamiento urbano principalmente destinados a dar un servicio y en general, todo espacio de dominio público por disposición de ley, determinación de la autoridad o por razón del servicio.
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
 De la base
 
 ###### ARTÍCULO 97.
 
-La base para determinar el importe de estos derechos será el acceso a los aparatos de recreo, o el número de metros cuadrados o lineales, según sea el caso, usados y aprovechados por la persona obligada al pago.
+La base para determinar el importe de estos derechos será el acceso a los aparatos de recreo, o el número de metros cuadrados o lineales, según sea el caso, usados y aprovechados por la persona obligada al pago; así como, para el inciso f) de la fracción I del artículo 98, la base para determinar el importe de los derechos referidos en dicho inciso será el valor unitario de la sección o tramo catastral donde se sitúa el espacio requerido, conforme a lo establecido por el artículo 46 fracciones I, II y III de la presente Ley.
 
 De la tasa y del pago
 
@@ -3245,7 +3277,9 @@ De la tasa y del pago
 
 Los derechos establecidos en esta sección serán pagados de conformidad con lo siguiente:
 
-I.- Por el uso de espacios en la vía o parques públicos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+I.- Por el uso de espacios en la vía o espacios públicos:
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -3275,9 +3309,17 @@ e) Para la instalación de puestos semifijos en los tianguis, ubicados en las zo
 
 Cuando la aplicación de este factor resultare una cantidad superior a 75.00 pesos, se cobrará esta cantidad en vez de aquella.
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
-f) Para uso distinto a los señalados en los incisos anteriores: 10.0 veces la unidad de medida y actualización por metro cuadrado.
+f) Para uso distinto a los señalados en los incisos a), b), c), d) y e) de esta fracción, por el uso o aprovechamiento de los espacios públicos y/o bienes de dominio público del patrimonio municipal, la tasa de este derecho será del 0.0027, misma que se multiplicará por el valor unitario de la sección o tramo catastral donde se sitúa el espacio requerido, conforme a lo establecido por el artículo 46 fracciones I, II y III de la presente Ley, y el producto resultante se multiplica por los metros cuadrados a ocupar, por cada día de uso de la vía, espacio público o bien del dominio público.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Quedan exentos del pago de los derechos que se establecen en este inciso, cualquier autoridad centralizada o descentralizada del nivel federal, estatal o municipal, cuando el uso o aprovechamiento esté relacionado directamente con la promoción y desarrollo de sus atribuciones o su objeto público; las asociaciones civiles sin fines de lucro que se encuentren inscritas en el Registro Estatal de Organizaciones de la Sociedad Civil, así como a quienes les corresponda la promoción de la participación ciudadana para el ejercicio del derecho al sufragio y que tienen como fin contribuir al desarrollo de la vida democrática a nivel nacional y estatal.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Cuando la solicitud del uso o aprovechamiento que se establecen en este inciso f) sea con fines culturales, recreativos, educativos, de beneficencia, para promoción del deporte o la convivencia familiar, la persona titular de la Dirección de Finanzas y Tesorería Municipal, a solicitud de la persona titular de la Dirección de Gobernación, quedará facultada para disminuir las tasas previstas en dicho inciso.
 
 Para efectos de esta fracción se entiende como mobiliario urbano entre otros las casetas telefónicas, fuentes, bancas, depósitos de basura, señalización, buzones, y otros elementos análogos.
 
@@ -3309,9 +3351,17 @@ b) Safari $5.00
 
 c) Catamarán $5.00
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
-Excepto por el derecho contenido en las fracciones III y IV, los demás derechos señalados en este artículo se causarán por períodos de un mes natural, sin embargo para el caso de los derechos establecidos en los incisos a) y f) de la fracción I de este artículo si el período de uso fuese menor a un mes natural el período de causación será en proporción a los días de uso considerando para tales efectos que un mes natural es equivalente a treinta días.
+V.- Por el uso y aprovechamiento de locales, islas y/o piso en los espacios públicos con giro de predios integrales de la vida silvestre y/o en los centros de conservación de la vida silvestre propiedad del Municipio, el equivalente a 0.50 veces la unidad de medida y actualización por metro cuadrado.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN V, D.O. 28 DE DICIEMBRE DE 2023]</small>
+
+Para la instalación de juegos mecánicos, eléctricos, manuales o de cualquier otro que promueva el esparcimiento o diversión pública en los espacios públicos con giro de predios integrales de la vida silvestre y/o en los centros de conservación de la vida silvestre propiedad del Municipio, se pagará por los dos primeros metros cuadrados el equivalente a 5.0 veces la unidad de medida y actualización, y por cada metro excedente a dos metros cuadrados el equivalente a 0.15 veces la unidad de medida y actualización.
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Los derechos señalados en este artículo se causarán por períodos de un mes natural, con excepción de los establecidos en los incisos a) y f) de la fracción I, III y IV. Los derechos establecidos en los incisos a) y f) de la fracción I se causarán por día y se pagarán previo a la autorización que se otorgue para el uso y aprovechamiento de la vía, espacio público o bien de dominio público.
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -3324,6 +3374,14 @@ Los derechos establecidos en el inciso d) de la fracción I de este artículo, d
 > <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
 El derecho establecido en el inciso e) de la fracción I de este artículo se pagará dentro del mes natural al que se solicite el permiso.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Los derechos contenidos en la fracción V de este artículo se causarán por período de un mes natural y se pagarán dentro de los 7 días naturales siguientes al mes en que se haya causado.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Cuando el contribuyente realice el pago correspondiente a una anualidad, durante los meses de enero y febrero del año vigente de que se trate, gozará de una bonificación del 0.10 sobre el importe a pagar de dichos derechos.
 
 > <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
@@ -3341,9 +3399,11 @@ Cuando algún concesionario ilegalmente haya pretendido enajenar sus derechos, e
 
 Por el permiso para realizar el comercio ambulante, se pagará un derecho de 0.18 veces la unidad de medida y actualización por día.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 100.
 
-El pago de los derechos establecidos en la presente sección será posterior a la obtención de la autorización que otorgue la autoridad o dependencia municipal que corresponda.
+El pago de los derechos establecidos en la presente sección será posterior a la obtención de la autorización que otorgue la autoridad o dependencia municipal que corresponda, con excepción del plazo establecido para la fracción I incisos a) y f), III, IV y V del artículo 98 de esta Ley.
 
 #### Sección Octava
 
@@ -6678,3 +6738,95 @@ Se derogan todas las disposiciones legales que eximan a los particulares del pag
 ###### ARTÍCULO NOVENO.
 
 Para los derechos por los servicios que presta la Dirección de Desarrollo Urbano durante el ejercicio fiscal 2023, todos los desarrollos que cuenten con autorización de constitución de desarrollo inmobiliario o su similar (autorización por Gobierno del Estado) con fecha anterior al 18 de octubre de 2017 en la cual entró en vigor el Programa Municipal de Desarrollo Urbano de Mérida, que se encuentren en la Zona 3. Regeneración y Desarrollo Sustentable y en la Zona 4. Conservación de los Recursos Naturales, pagarán en los trámites subsecuentes a dicha autorización, los derechos establecidos para la Zona 2. Crecimiento Urbano.
+
+D.O. 28 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 704/2023 POR EL QUE SE MODIFICA LA LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA, YUCATÁN”.]
+
+Artículo primero.- Este Decreto entrará en vigor el día uno de enero del año dos mil veinticuatro, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo.- Los derechos establecidos en la Sección Décima Segunda del Capítulo II del Título Segundo de esta Ley de Hacienda del Municipio de Mérida, serán aplicados únicamente en las áreas del Municipio de Mérida, por las cuales el Ejecutivo del Estado le haya transferido al Municipio atribuciones en materia de vialidad, tránsito, y de seguridad pública.
+
+Artículo tercero.- En caso de que durante el ejercicio fiscal 2024 fueran modificadas mediante Sesión de Cabildo las tarifas autorizadas a los concesionarios para la prestación del Servicio de Recolección y Traslado de Residuos Sólidos no Peligrosos o Basura, las cuotas establecidas en la Sección Décima Quinta, del Capítulo II, del Título Segundo, se verán incrementadas, o en su caso decrementadas, en la misma proporción que las tarifas autorizadas lo sean para dichos concesionarios.
+
+Artículo cuarto.- Para el ejercicio fiscal 2024, en vez de aplicar lo dispuesto en el segundo párrafo del artículo 48, las bonificaciones se otorgarán de conformidad con lo establecido en el Programa de Estímulo que al efecto expida el Cabildo del H. Ayuntamiento de Mérida.
+
+Artículo quinto.- Se otorga un estímulo fiscal en materia de impuesto predial, consistente en el acreditamiento del monto de la inversión realizada en inmuebles ubicados dentro de los perímetros “A”, “B-1”, “B-2”, “B-3” y “B-4” de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982, contra el impuesto predial que se cause hasta el mes de diciembre de 2024, siempre y cuando los trabajos fueren iniciados y concluidos durante el año 2024, de conformidad con lo siguiente:
+
+I.- Por un importe hasta del 100% del monto de la inversión en trabajos de rescate, consolidación, restauración, o rehabilitación integral de inmuebles catalogados o declarados por el Instituto Nacional de Antropología e Historia como monumentos históricos o artísticos.
+
+II.- Por un importe hasta del 50% del monto de la inversión en trabajos de integración al contexto en inmuebles distintos a los catalogados o declarados como monumentos históricos o artísticos en el Decreto Presidencial de referencia.
+
+Para efectos de este artículo se entenderá por acreditamiento, el restar del impuesto predial que corresponda hasta el mes de diciembre de 2024, el importe de la inversión que se determine en la constancia de aplicación del estímulo.
+
+Asimismo, para efectos de este artículo, los tipos de trabajos que se podrán realizar serán los siguientes:
+
+I.- Rescate: Aquellos trabajos que se realizan para la recuperación de elementos que hubieren sido mutilados o alterados;
+
+II.- Consolidación: Aquellos trabajos que se realizan para devolver la estabilidad a partir de lo existente;
+
+III.- Restauración: Aquellos trabajos que se realizan para reincorporar algún elemento original, o con características similares a la original;
+
+IV.- Integración al contexto: Aquellos trabajos que permiten incorporar al predio en cuestión con las características de su entorno; y
+
+V.- Rehabilitación integral: Conjunto de trabajos, en interior y exterior, respetuosos de las características originales de inmueble que conlleve a su habitabilidad, y en consecuencia al uso inmediato.
+
+Previo al inicio de los trabajos, el contribuyente solicitará por escrito a la Dirección de Desarrollo Urbano, un dictamen en el cual se determine el importe de la inversión de los trabajos, que podrá considerarse en la aplicación del estímulo.
+
+Dicha solicitud deberá contener cuando menos la información que indique el importe de la inversión, fecha de inicio y conclusión, así como el tipo de trabajo que se realizará.
+
+La Dirección de Desarrollo Urbano previa revisión de la solicitud señalada en el párrafo anterior desechará o aprobará la solicitud, en este último caso emitirá el dictamen en el cual se establecerán los requisitos que el contribuyente deberá cumplir para obtener la constancia de aplicación del estímulo.
+
+Una vez concluidos todos los trabajos de conformidad con los requisitos y plazos establecidos en el dictamen el contribuyente dará aviso por escrito, dentro de los quince días hábiles siguientes, a la Dirección de Desarrollo Urbano, la que en caso de que sea procedente, emitirá la constancia de aplicación del estímulo en la cual se indicará el importe de la inversión que podrá acreditarse contra el impuesto predial, tomando en cuenta el monto de la inversión y el porcentaje de aplicación del estímulo, de acuerdo con el tipo de trabajo realizado.
+
+Después de obtener la constancia señalada en el párrafo anterior, si el impuesto lo causa sobre la base del valor catastral, el contribuyente deberá solicitar por escrito a la Dirección de Finanzas y Tesorería Municipal la aplicación del estímulo señalado en este artículo, anexando a su solicitud la constancia señalada en el párrafo anterior.
+
+Para la aplicación de dicho estímulo la Dirección de Finanzas y Tesorería Municipal dictará un acuerdo de conformidad con lo siguiente:
+
+1. Determinará el importe del impuesto que se cause hasta por el mes de diciembre de 2024.
+
+2. Procederá a realizar el acreditamiento de conformidad con lo establecido en este artículo.
+
+3. Si al realizar el acreditamiento, resultase que el importe del impuesto determinado es menor que el importe de la inversión señalada en la constancia de aplicación del estímulo, se considerará pagado en su totalidad el impuesto correspondiente al período determinado en el punto 1.
+
+4. Si al realizar el acreditamiento, resultase que el importe del impuesto determinado es mayor que el importe de la inversión determinada en la constancia de aplicación del estímulo, la diferencia deberá ser pagada al momento de aplicar el estímulo.
+
+En caso de que el impuesto predial se cause sobre la base de la contraprestación, el contribuyente deberá determinar el impuesto que se cause hasta el mes de diciembre de 2024, y realizar, en una sola declaración, el acreditamiento que señala este artículo. En este caso, le será aplicable lo dispuesto en los puntos 3 y 4 del párrafo anterior.
+
+En caso de que en los períodos comprendidos hasta el mes de diciembre de 2024 le corresponda al contribuyente tributar, por algún, o algunos meses, sobre la base del valor catastral y por otro, u otros sobre la base de la contraprestación, para la aplicación del estímulo, deberá cumplir con lo que para cada una de esas bases dispone este artículo.
+
+La suma de los acreditamientos aplicados no podrá ser mayor al importe de la inversión que se determinó en la constancia de aplicación del estímulo.
+
+El acreditamiento del importe de la inversión deberá realizarse contra el principal, así como por los accesorios del mismo.
+
+La aplicación del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial.
+
+En ningún caso la aplicación del estímulo a que se refiere este artículo, dará lugar a devolución de cantidad alguna.
+
+Artículo sexto.- Las personas físicas propietarias de inmuebles que se encuentren catalogados o declarados como monumentos históricos o artísticos por el Instituto Nacional de Antropología e Historia y ubicados dentro de los perímetros “A”, “B-1”, “B-2”, “B-3” y “B-4” de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982, siempre y cuando dichos inmuebles sean su casa habitación, tendrán derecho a un estímulo consistente en una bonificación equivalente al 15% respecto del impuesto predial sobre la base valor catastral correspondiente al ejercicio fiscal 2024, siempre y cuando el pago de dicho impuesto se realice durante dicho ejercicio.
+
+Para poder acceder al estímulo el contribuyente deberá acreditar que el inmueble es su casa habitación y exhibir la siguiente documentación:
+
+1.- El certificado o dictamen expedido por el Instituto Nacional de Antropología e Historia en el que se señale que el inmueble está declarado o catalogado como monumento histórico o artístico.
+
+2.- Se encuentre pagado en su totalidad el impuesto predial, causado hasta por el mes de diciembre de 2023.
+
+Para efectos de que el contribuyente acredite que el inmueble objeto del estímulo fiscal es su casa habitación, deberá exhibir cualquiera de los documentos comprobatorios que se relacionan a continuación, siempre que el domicilio consignado en dicha documentación coincida con el domicilio del inmueble objeto del estímulo:
+
+1. La credencial de elector, expedida por el Instituto Nacional Electoral (INE).
+
+2. Los comprobantes de los pagos efectuados por la prestación de energía eléctrica o de telefonía fija.
+
+La documentación a que se refieren las fracciones anteriores, deberá estar a nombre del propietario del inmueble objeto del estímulo.
+
+La aplicación del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial.
+
+En ningún caso la aplicación del estímulo a que se refiere este artículo, dará lugar a devolución de cantidad alguna.
+
+Artículo séptimo.- Si durante el ejercicio fiscal 2024 el contribuyente hubiese pagado el importe correspondiente a esa anualidad del impuesto predial sobre la base del valor catastral, este pago se considerará como definitivo respecto de esta base; en consecuencia no le será aplicable lo dispuesto en los párrafos penúltimo y último del artículo 45 de esta Ley.
+
+Artículo octavo.- Se derogan todas las disposiciones legales que eximan a los particulares del pago de las contribuciones previstas en esta Ley con excepción de las que dispone la misma que otorguen beneficios fiscales.
+
+Artículo noveno.- Para los derechos por los servicios que presta la Dirección de Desarrollo Urbano durante el ejercicio fiscal 2024, todos los desarrollos que cuenten con autorización de constitución de desarrollo inmobiliario o su similar (autorización por Gobierno del Estado) con fecha anterior al 18 de octubre de 2017 en la cual entró en vigor el Programa Municipal de Desarrollo Urbano de Mérida, que se encuentren en la Zona 3. Regeneración y Desarrollo Sustentable y en la Zona 4. Conservación de los Recursos Naturales, pagarán en los trámites subsecuentes a dicha autorización, los derechos establecidos para la Zona 2. Crecimiento Urbano.
+
+Artículo décimo.- Las disposiciones establecidas en las reformas a la denominación de la Sección Séptima, del Capítulo II, del Título Segundo; a los artículos 96, 97, a la fracción I del artículo 98, inciso f), de la fracción I, del artículo 98, segundo párrafo del artículo 98, artículo 100, así como las adiciones consistentes en un segundo párrafo al artículo 96; un segundo y un tercer párrafo al inciso f) de la fracción I del artículo 98; la fracción V, al artículo 98, un penúltimo párrafo al artículo 98, todos de esta Ley, entrarán en vigor para efectos del ejercicio fiscal 2024 al día siguiente de la publicación en la Gaceta Municipal del reglamento municipal en materia de espacio público; y en tanto esto no ocurra, se aplicarán los derechos como lo establecen los artículos 96, 97, 98 y 100 de la Ley de Hacienda del Municipio de Mérida, Yucatán, en vigor para el ejercicio fiscal 2023.
