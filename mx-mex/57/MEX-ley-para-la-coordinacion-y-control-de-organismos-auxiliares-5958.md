@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-coordinacion-y-control-de-organismos-auxiliares-595
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-24"
-last_updated: "2020-02-20"
+last_updated: "2023-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "MEX"
 
 LEY PARA LA COORDINACIÓN Y CONTROL DE ORGANISMOS AUXILIARES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE DICIEMBRE DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 20 DE FEBRERO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 24 de agosto de 1983.
 
@@ -136,6 +134,10 @@ La dependencia coordinadora de sector, en lo que no se oponga a su regulación e
 Los fideicomisos públicos asimilados que están sujetos a esta Ley, son aquellos constituidos por el Ejecutivo del Estado, a través de sus dependencias y organismos auxiliares, previa autorización de la Secretaría de Finanzas, con el propósito de auxiliarlo en el ejercicio de las atribuciones a su cargo, siempre y cuando cuenten con estructura orgánica. Únicamente los fideicomisos que reúnan estas características, serán considerados organismos auxiliares del Poder Ejecutivo y estarán sujetos a esta Ley, a su Reglamento y a las disposiciones administrativas que emita la Secretaría.
 
 Los fideicomisos públicos simples constituidos por el Ejecutivo del Estado en los que a través de sus dependencias y organismos auxiliares sea parte, deberán ser autorizados, registrados, supervisados y evaluados por la Secretaría de Finanzas y sujetarán su operación, control y régimen financiero a lo estipulado en el decreto o acto jurídico de creación por el cual se autoricen, a lo pactado en el contrato por el que se constituyan y a las demás disposiciones normativas aplicables que para tal efecto emita dicha Secretaría.
+
+> <small>(ADICIONADO, G.G. 28 DE DICIEMBRE DE 2023)</small>
+
+Para efectos de este artículo, la constitución o celebración de los fideicomisos, deberá contar en todos los casos, con la participación de la Secretaría de Finanzas en su carácter de fideicomitente.
 
 ###### Artículo 8.
 
@@ -728,3 +730,25 @@ Durante el periodo del 01 de enero al 30 de junio del 2020, para determinar el I
 SÉPTIMO.- Las Instituciones que presenten adeudos por concepto de cuotas y aportaciones ante el Instituto de Seguridad Social del Estado de México y Municipios, podrán regularizarlos mediante convenio de pago en parcialidades hasta por ochenta y cuatro meses exceptuando lo previsto en el artículo 32 del Código Financiero del Estado de México y Municipios, y se les podrá condonar hasta el 100% de los recargos y multas que, en su caso, hubiesen generado, para tal efecto deberán suscribir el convenio respectivo dentro de los dos meses siguientes a la entrada en vigor del presente Decreto.
 
 OCTAVO.- Las Reglas Generales y Lineamientos Generales a que se refiere el presente Decreto, deberán emitirse dentro de los primeros 90 días a partir de la entrada en vigor de este Decreto.
+
+G.G. 28 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 225.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS Y SE REFORMAN OTROS ORDENAMIENTOS”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el 01 de enero de 2024.
+
+TERCERO.- Se derogan, en su caso, todas las disposiciones legales y administrativas del marco jurídico estatal, de igual o menor jerarquía, en lo que se opongan al contenido de este Decreto.
+
+CUARTO.- A partir de la entrada en vigor del presente Decreto, lo dispuesto por el artículo 3 fracción XVII del Código Financiero del Estado de México y Municipios, los fideicomisos públicos deberán constituirse o contratarse con la participación de la Secretaría de Finanzas en su carácter de fideicomitente.
+
+Tratándose de los fideicomisos públicos constituidos o contratados con anterioridad a la entrada en vigor del presente Decreto, los entes públicos, de acuerdo con su naturaleza jurídica y según corresponda, en un lapso de 90 días naturales, a partir de su entrada en vigor, deberán celebrar los actos jurídicos correspondientes, a efecto de que se cumpla dicha condición.
+
+QUINTO.- Las modificaciones a los artículos 60 B, 60 F y 77 párrafo tercero del Código Financiero del Estado de México y Municipios, entrarán en vigor al día siguiente del inicio de vigencia del Proyecto de Modificación de la Norma Oficial Mexicana NOM-167-SEMARNAT-2017, publicado en el Diario Oficial de la Federación el 7 de julio de 2023.
+
+SEXTO.- Lo previsto en las Secciones Novena denominada "Del Impuesto Ecológico a la Disposición, Confinamiento y Almacenamiento de Residuos" y Décima denominada "Del Impuesto a la Emisión de Contaminantes al Agua", adicionadas al Capítulo Primero del Título Tercero del Código Financiero del Estado de México y Municipios, entrarán en vigor a partir del 1 º de abril de 2024.
+
+SÉPTIMO.- Lo dispuesto en el artículo 221 del Código Financiero del Estado de México y Municipios, entrará en vigor a partir del 1º de abril de 2024.
+
+OCTAVO.- A efecto de dar cumplimiento a lo dispuesto por el artículo 349 del Código Financiero del Estado de México y Municipios, las Dependencias, Entidades Públicas y Organismos Autónomos, de acuerdo con su naturaleza jurídica y según corresponda, remitirán a la Secretaría de Finanzas, en un lapso de 90 días naturales, a partir de la entrada en vigor de su reforma, los convenios, contratos, acuerdos y demás instrumentos jurídicos que impliquen un impacto presupuestario y se encuentren vigentes; asimismo, deberán armonizar, en el mismo plazo, sus disposiciones reglamentarias, a efecto de garantizar el cumplimiento de dicha obligación. El incumplimiento será sancionado en términos de las disposiciones jurídicas aplicables.
