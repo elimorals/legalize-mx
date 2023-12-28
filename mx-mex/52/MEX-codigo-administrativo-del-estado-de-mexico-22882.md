@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2023-12-01"
+last_updated: "2023-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE DICIEMBRE DE 2023.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -2019,7 +2019,7 @@ VI. Procurar el fomento de una cultura sustentada en valores y principios en tor
 
 ### CAPÍTULO SÉPTIMO. De la atención integral al cáncer de mama
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN , G.G. 21 DE JUNIO DE 2022)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 21 DE JUNIO DE 2022)</small>
 
 #### SECCIÓN PRIMERA. Disposiciones generales
 
@@ -2085,7 +2085,7 @@ IX. Las demás necesarias para la aplicación de las disposiciones de este capí
 
 48 Quindecies.- El Programa de Atención Integral del Cáncer de Mama, comprende acciones de promoción de la salud, prevención, consejería, detección, diagnóstico, tratamiento y rehabilitación integral.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN , G.G. 21 DE JUNIO DE 2022)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 21 DE JUNIO DE 2022)</small>
 
 #### SECCIÓN SEGUNDA. Tratamiento y seguimiento del cáncer de mama
 
@@ -2119,7 +2119,7 @@ IX. Las demás necesarias para la aplicación de las disposiciones de este capí
 
 48 Vicies.- Los usuarios tendrán derecho a obtener prestaciones de salud oportuna, profesional, ética y de calidad idónea, así como la orientación necesaria respecto a riesgos, efectos y alternativas de los procedimientos, diagnósticos terapéuticos, quirúrgicos y de rehabilitación que se le indiquen o apliquen, teniendo un trato respetuoso y digno de los profesionales, técnicos y auxiliares.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN , G.G. 21 DE JUNIO DE 2022)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 21 DE JUNIO DE 2022)</small>
 
 #### SECCIÓN TERCERA. De la mastectomía y la mamoplastia reconstructiva de calidad
 
@@ -8594,6 +8594,22 @@ Para efectos del párrafo anterior, se consideran estacionamientos de servicio a
 (REFORMADA, G.G. 20 DE DICIEMBRE DE 2016) (F. DE E. 23 DE ENERO DE 2017)
 
 I. En materia de tránsito, con las multas establecidas en los reglamentos correspondientes, las que no podrán exceder por cada infracción de 20 veces el valor diario de la Unidad de Medida y Actualización vigente al momento de la misma, sin que en su conjunto exceda de 50 veces el valor diario de la Unidad de Medida y Actualización vigente, que aplicará la autoridad competente.
+
+> <small>(ADICIONADO, G.G. 28 DE DICIEMBRE DE 2023)</small>
+
+Para el caso de multas por conducir un vehículo sobre una isleta camellón o sus marcas de aproximación, por estacionarse en aceras, camellones, andadores y otras vías reservadas a los peatones, por no hacer alto para ceder el paso a los peatones, que se encuentren en el arroyo de los cruceros o zonas marcadas para su paso, por obstaculizar los pasos destinados para los peatones, por no ceder el paso a las ambulancias, patrullas de policía, vehículos del cuerpo de bomberos, los convoyes militares y el ferrocarril o por seguirlos, detenerse o estacionarse a una distancia que pueda significar riesgo, por recibir, acomodar, estacionar vehículos en la vía pública sin que dichas vías estén destinadas para tal fin, no podrán exceder por cada infracción 40 veces el valor diario de la Unidad de Medida y Actualización vigente al momento de la misma, sin que en su conjunto exceda de 80 veces el valor diario de la Unidad de Medida y Actualización vigente, que aplicará la autoridad competente.
+
+> <small>(ADICIONADO, G.G. 28 DE DICIEMBRE DE 2023)</small>
+
+En el caso de las multas por no usar casco exclusivo para motos y anteojos protectores, tanto el conductor o en su caso, sus acompañantes, por transitar sobre las aceras y áreas reservadas para peatones, por viajar más personas de las autorizadas en la tarjeta de circulación, por llevar carga que dificulte su visibilidad equilibrio o adecuada operación o constituya un peligro para sí u otros usuarios de la vía pública, por transportar a un pasajero entre el conductor y el manubrio, por transportar un menor de edad, cuando este no pueda sujetarse por sí mismo a la motocicleta y, estando correctamente sentado, no pueda colocar adecuada y firmemente los pies en los estribos o posa pies, excepto que cuente con los aditamentos especialmente diseñados para su seguridad, no podrán exceder por cada infracción 40 veces el valor diario de la Unidad de Medida y Actualización vigente al momento de la misma, sin que en su conjunto exceda de 80 veces el valor diario de la Unidad de Medida y Actualización vigente, que aplicará la autoridad competente.
+
+> <small>(ADICIONADO, G.G. 28 DE DICIEMBRE DE 2023)</small>
+
+Para el supuesto de las multas por circular sin ambas placas; no coincidir los números y letras de las placas con la calcomanía y la tarjeta de circulación, por no respetar los carriles, derecho de circulación y de contraflujo o confinado para los vehículos de transporte público, masivo o de alta capacidad, por carecer de permiso para circular sin placas y tarjeta de circulación o esté vencido, por circular sin una de las placas de circulación ; no podrán exceder por cada infracción 60 veces el valor diario de la Unidad de Medida y Actualización vigente al momento de la misma, sin que en su conjunto exceda de 120 veces el valor diario de la Unidad de Medida y Actualización vigente, que aplicará la autoridad competente.
+
+> <small>(ADICIONADO, G.G. 28 DE DICIEMBRE DE 2023)</small>
+
+En el supuesto de las multas por conducir estando bajo el efecto de drogas enervantes o psicotrópicos y por conducir en estado de ebriedad; no podrán exceder por cada infracción 50 veces el valor diario de la Unidad de Medida y Actualización vigente al momento de la misma, sin que en su conjunto exceda de 100 veces el valor diario de la Unidad de Medida y Actualización vigente, que aplicará la autoridad competente.
 
 > <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
 
@@ -18875,7 +18891,7 @@ TERCERO.- Los impuestos previstos en las Secciones Séptima y Octava adicionadas
 
 G.G. 10 DE MARZO DE 2022.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 33.- POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 1.5 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 33; Y SE ADICIONAN LAS FRACCIONES IV BIS, XV BIS, XX BIS Y XXIII BIS AL ARTÍCULO 4, LAS FRACCIONES IV Y V AL ARTÍCULO 33, EL CAPÍTULO SÉPTIMO Y SUS ARTÍCULOS 59 BIS, 59 TER, 59 QUÁTER, 59 QUINQUIES, 59 SEXTES, 59 SEPTIES, 59 OCTIES, 59 NONIES Y 59 DECIES AL TÍTULO TERCERO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y SUS MUNICPIOS, SE REFORMAN LAS FRACCIONES XI, XI BIS Y XIV DEL ARTÍCULO 5, LA FRACCION I DEL ARTÍCULO 11, LOS ARTÍCULOS 26, 35 Y 36, LA FRACCIÓN IV DEL ARTÍCULO 45 Y EL ARTÍCULO 76; SE ADICIONAN LAS FRACCIONES III BIS, Y XX BIS AL ARTÍCULO 5, LA FRACCIÓN IV BIS AL ARTÍCULO 11 , LA FRACCION II BIS AL ARTÍCULO 44; Y SE DEROGAN LOS ARTÍCULOS 29 Y 30 DE LA LEY DE GOBIERNO DIGITAL DEL DEL ESTADO DE MÉXCO Y MUNICIPIOS, SE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 5 DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 33.- POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 1.5 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 33; Y SE ADICIONAN LAS FRACCIONES IV BIS, XV BIS, XX BIS Y XXIII BIS AL ARTÍCULO 4, LAS FRACCIONES IV Y V AL ARTÍCULO 33, EL CAPÍTULO SÉPTIMO Y SUS ARTÍCULOS 59 BIS, 59 TER, 59 QUÁTER, 59 QUINQUIES, 59 SEXTES, 59 SEPTIES, 59 OCTIES, 59 NONIES Y 59 DECIES AL TÍTULO TERCERO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y SUS MUNICPIOS, SE REFORMAN LAS FRACCIONES XI, XI BIS Y XIV DEL ARTÍCULO 5, LA FRACCION I DEL ARTÍCULO 11, LOS ARTÍCULOS 26, 35 Y 36, LA FRACCIÓN IV DEL ARTÍCULO 45 Y EL ARTÍCULO 76; SE ADICIONAN LAS FRACCIONES III BIS, Y XX BIS AL ARTÍCULO 5, LA FRACCIÓN IV BIS AL ARTÍCULO 11, LA FRACCION II BIS AL ARTÍCULO 44; Y SE DEROGAN LOS ARTÍCULOS 29 Y 30 DE LA LEY DE GOBIERNO DIGITAL DEL DEL ESTADO DE MÉXCO Y MUNICIPIOS, SE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 5 DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -19070,3 +19086,25 @@ PRIMERO. Publíquese este Decreto en el Periódico Oficial “Gaceta del Gobiern
 SEGUNDO. Este Decreto entrará el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. El Poder Legislativo del Estado de México asignara recursos públicos en los ejercicios fiscales correspondientes, para cumplir con la presente reforma.
+
+G.G. 28 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 225.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS Y SE REFORMAN OTROS ORDENAMIENTOS”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el 01 de enero de 2024.
+
+TERCERO.- Se derogan, en su caso, todas las disposiciones legales y administrativas del marco jurídico estatal, de igual o menor jerarquía, en lo que se opongan al contenido de este Decreto.
+
+CUARTO.- A partir de la entrada en vigor del presente Decreto, lo dispuesto por el artículo 3 fracción XVII del Código Financiero del Estado de México y Municipios, los fideicomisos públicos deberán constituirse o contratarse con la participación de la Secretaría de Finanzas en su carácter de fideicomitente.
+
+Tratándose de los fideicomisos públicos constituidos o contratados con anterioridad a la entrada en vigor del presente Decreto, los entes públicos, de acuerdo con su naturaleza jurídica y según corresponda, en un lapso de 90 días naturales, a partir de su entrada en vigor, deberán celebrar los actos jurídicos correspondientes, a efecto de que se cumpla dicha condición.
+
+QUINTO.- Las modificaciones a los artículos 60 B, 60 F y 77 párrafo tercero del Código Financiero del Estado de México y Municipios, entrarán en vigor al día siguiente del inicio de vigencia del Proyecto de Modificación de la Norma Oficial Mexicana NOM-167-SEMARNAT-2017, publicado en el Diario Oficial de la Federación el 7 de julio de 2023.
+
+SEXTO.- Lo previsto en las Secciones Novena denominada “Del Impuesto Ecológico a la Disposición, Confinamiento y Almacenamiento de Residuos” y Décima denominada “Del Impuesto a la Emisión de Contaminantes al Agua”, adicionadas al Capítulo Primero del Título Tercero del Código Financiero del Estado de México y Municipios, entrarán en vigor a partir del 1 º de abril de 2024.
+
+SÉPTIMO.- Lo dispuesto en el artículo 221 del Código Financiero del Estado de México y Municipios, entrará en vigor a partir del 1º de abril de 2024.
+
+OCTAVO.- A efecto de dar cumplimiento a lo dispuesto por el artículo 349 del Código Financiero del Estado de México y Municipios, las Dependencias, Entidades Públicas y Organismos Autónomos, de acuerdo con su naturaleza jurídica y según corresponda, remitirán a la Secretaría de Finanzas, en un lapso de 90 días naturales, a partir de la entrada en vigor de su reforma, los convenios, contratos, acuerdos y demás instrumentos jurídicos que impliquen un impacto presupuestario y se encuentren vigentes; asimismo, deberán armonizar, en el mismo plazo, sus disposiciones reglamentarias, a efecto de garantizar el cumplimiento de dicha obligación. El incumplimiento será sancionado en términos de las disposiciones jurídicas aplicables.
