@@ -4,7 +4,7 @@ identifier: "VER-codigo-244-hacendario-para-el-municipio-de-misantla-estado-1379
 country: "mx"
 rank: "codigo"
 publication_date: "2019-05-30"
-last_updated: "2021-03-10"
+last_updated: "2023-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO PARA EL MUNICIPIO DE MISANTLA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 2023.
 
 Código publicado en el Número Extraordinario al Número 216 de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el jueves 30 de mayo de 2019.
 
@@ -111,7 +111,9 @@ XVI. Ley de Coordinación Fiscal: La Ley de Coordinación Fiscal en el ámbito f
 
 XVII. Municipio: El Municipio de Misantla, del Estado de Veracruz-Llave;
 
-XVIII. Oficina Ejecutora: La oficina de Ejecución Fiscal de la Tesorería o su equivalente, encargada del cobro coactivo de un crédito fiscal;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XVIII. Área Ejecutora: Las áreas que autoridades del Municipio designen para ejecución del procedimiento, en términos de peste (sic) Código, responsables, de ejercer el cobro coactivo de un crédito fiscal;
 
 XIX. Presidente: El Presidente Municipal del Ayuntamiento;
 
@@ -123,7 +125,13 @@ XXII. Tesorería: La Tesorería del Ayuntamiento;
 
 XXIII. Tesorero: El Titular de la Tesorería del Ayuntamiento; y
 
-XXIV. UMA ó UMAs: Unidad de Medida y Actualización.
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XXIV. UMA ó UMAs: Unidad de Medida y Actualización; y
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XXV. Contraloría: La contraloría del Honorable Ayuntamiento del municipio de Misantla, Veracruz de Ignacio de la Llave.
 
 ###### Artículo 3.
 
@@ -177,35 +185,41 @@ III. La Ley de Ingresos del Municipio; y
 
 IV. Los demás ordenamientos de naturaleza fiscal, que aplique el Municipio, por prever disposiciones de su competencia, o las que deba ejercer como consecuencia de la suscripción de convenios.
 
-La aplicación de los ordenamientos a que se refiere este artículo corresponde a las autoridades fiscales.
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+La aplicación e interpretación para efectos administrativas (sic) de las leyes a que se refiere este artículo, corresponde a las autoridades fiscales municipales
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+La aplicación de las leyes a que se refiere este artículo le corresponderá al Presidente Municipal, así como a las autoridades que establezcan los ordenamientos legales correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 12.
 
-El Ayuntamiento podrá dictar reglas de carácter general, para modificar o adicionar el control y forma de pago, siempre que no varíe en forma alguna el sujeto, objeto, base, cuota, tasa o tarifa de las contribuciones y sus accesorios, infracciones y sanciones, de acuerdo a lo dispuesto en este Código.
+El Ayuntamiento podrá dictar reglas de carácter general, para modificar o adicionar el control y forma de pago, y cualquieras otras disposiciones de este Código.
 
-Por conducto del Presidente y del Síndico, el Municipio podrá celebrar los convenios de colaboración administrativa a que se refiere el artículo 294 de este Código.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 13.
 
 Cuando las leyes fiscales establezcan que las contribuciones se calcularán por ejercicios, éstos se entenderán del primero de enero al treinta y uno de diciembre del año de que se trate.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 14.
 
 En el Municipio son autoridades fiscales:
 
-I. El Ayuntamiento;
+I. El Presidente;
 
-II. El Presidente;
+II. El Tesorero y los titulares de las siguientes unidades administrativas que le estén jerárquicamente subordinadas;
 
-III. El Tesorero y, en su caso, quien ejerza la función de ejecución fiscal;
+III. Los titulares de Organismos Públicos Descentralizados o de empresas de participación municipal, que tengan bajo su responsabilidad la prestación de servicios públicos, cuando realicen funciones de recaudación de ingresos municipales;
 
-IV. Los titulares de organismos públicos descentralizados o de empresas de participación municipal, que tengan bajo su responsabilidad la prestación de servicios públicos, cuando realicen funciones de recaudación de ingresos municipales;
+IV. Los demás servidores públicos que auxilien a la Tesorería en el ejercicio de sus atribuciones, a los que las leyes y convenios confieren facultades específicas en materia de hacienda municipal o las reciban por delegación expresa de las autoridades señaladas en este artículo; y
 
-V. Los demás servidores públicos que auxilien a la Tesorería en el ejercicio de sus atribuciones, a los que las leyes y convenios confieren facultades específicas en materia de hacienda municipal o las reciban por delegación expresa de las autoridades señaladas en este artículo; y
-
-VI. Las que así considera el Código Financiero para el Estado de Veracruz-Llave, cuando actúen en términos de los convenios que, al efecto, celebren el Gobierno del Estado y el Municipio.
-
-Las autoridades fiscales ejercerán sus facultades en la forma y los términos señalados en las disposiciones legales y reglamentarias, decretos o acuerdos delegatorios específicos.
+V. Las que así considera el Código Financiero para el Estado de Veracruz-Llave, cuando actúen en términos de los convenios que, al efecto, celebren el Gobierno del Estado y el Municipio. Las autoridades fiscales ejercerán sus facultades en la forma y los términos señalados en las disposiciones legales y reglamentarias, decretos o acuerdos delegatorios específicos.
 
 ###### Artículo 15.
 
@@ -433,9 +447,13 @@ La obligación fiscal nace cuando se realizan las situaciones jurídicas o de he
 
 Las contribuciones se determinarán y liquidarán conforme a las disposiciones vigentes en el momento de su causación, pero le serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
 
-Se causarán honorarios por concepto de entrega de notificaciones por requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales. Serán pagados por el notificado por un monto equivalente a 1 UMA.
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-La obligación de pago se hará del conocimiento del infractor conjuntamente con la notificación de la infracción de que se trate. Los honorarios deberán ser cubiertos a más tardar en la fecha en que se cumpla con el requerimiento.
+Serán pagados por el notificado por un monto equivalente a 3 UMAs. La obligación de pago se hará del conocimiento del infractor conjuntamente con la notificación de la infracción de que se trate.
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Los honorarios deberán ser cubiertos a más tardar en la fecha en que se cumpla con el requerimiento.
 
 ###### Artículo 35.
 
@@ -739,13 +757,17 @@ I. Inscribirse en el padrón municipal que les corresponda, dentro de los treint
 
 II. Señalar domicilio fiscal en el Municipio que les corresponda y, en su caso, domicilio para recibir notificaciones;
 
-III. Pagar los créditos fiscales en los términos que dispongan las leyes fiscales municipales;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+III. Pagar los impuestos y derechos establecidos en el presente código, incluyendo los servicios domiciliados tales como la recolección de los residuos sólidos urbanos, limpieza de predios y otros de carácter similar, así como los créditos fiscales, derivados de estos, en los términos que dispongan las leyes fiscales municipales;
 
 IV. Presentar los avisos, declaraciones y cualquier otro documento de naturaleza análoga que dispongan las leyes, en las formas oficiales autorizadas por la Tesorería, o bien, previa autorización de la misma dependencia, cumpliendo con los requisitos legales;
 
 V. Firmar todos los documentos dirigidos a las autoridades fiscales municipales;
 
-VI. Mantener actualizados los documentos de control y cumplimiento de sus obligaciones fiscales, que deberán ser proporcionados, en copia fotostática, a la autoridad fiscal cuando sean requeridos;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+VI. Mantener actualizados los documentos de control y cumplimiento de sus obligaciones fiscales, que deberán ser proporcionados, en copia simple, a la autoridad fiscal cuando sean requeridos;
 
 VII. Conservar toda la documentación fiscal o la relacionada con ésta, así como los elementos contables y comprobatorios del cumplimiento de las obligaciones en dicha materia, en el domicilio fiscal ubicado en el Municipio, durante un término no menor de cinco años;
 
@@ -760,6 +782,10 @@ XI. Dar aviso a la Tesorería, en el término de treinta días hábiles posterio
 XII. Liquidar, retener y enterar ingresos municipales, en los casos previstos en las leyes fiscales; y
 
 XIII. Las demás que dispongan este Código, las leyes, reglamentos y ordenamientos aplicables.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+El incumplimiento a estas disposiciones dará lugar a la imposición de multas y la aplicación de honorarios, derivado de las acciones administrativas que imponga el municipio, en los términos establecidos en el Código de Procedimientos Administrativos aplicable para el Estado de Veracruz.
 
 ###### Artículo 62.
 
@@ -1183,6 +1209,36 @@ Los ingresos que el Municipio obtenga por la aplicación de multas y sanciones e
 
 La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de 5 a 109 UMAs.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Tanto en el presente artículo como en el anterior, la imposición de sanciones de carácter monetario por infringir las disposiciones del presente Código estará basada en los siguientes criterios:
+
+I. Reincidencia: Tiene por objeto establecer sanciones incrementales al acumular infracciones durante el transcurso de un periodo de cinco años, y su aplicación será llevada a cabo por el funcionario que determine el Tesorero Municipal dentro de la oficina asignada para ese propósito, de acuerdo con las siguientes reglas:
+
+a) Se impondrá la sanción mínima, cuando el infractor transgreda alguna de las disposiciones previstas en el presente Reglamento, y tenga cero o una sanción previa;
+
+b) Se impondrá una sanción equivalente a la media aritmética entre el valor mínimo y el valor máximo señalado para la categoría, cuando el infractor transgreda alguna de las disposiciones previstas en el presente Reglamento, y tenga de dos a tres sanciones previas. O cuando la infracción sea cometida por conductores que manejan un vehículo con placas de matrícula de otra entidad federativa o país.
+
+c) Se impondrá la sanción máxima, cuando el infractor transgreda alguna de las disposiciones previstas en el presente Reglamento y tenga cuatro o más sanciones.
+
+II. Tiempo de Retraso en el incumplimiento: A las personas que hayan incumplido con sus obligaciones fiscales en el ejercicio correspondiente, se les sancionará de la siguiente forma:
+
+a) Se impondrá la sanción mínima a la persona que haya incumplido con la obligación fiscal correspondiente en el ejercicio anterior;
+
+b) Se impondrá una sanción equivalente a la media aritmética entre el valor mínimo y el valor máximo señalado para la categoría, a la persona que haya incumplido con la obligación fiscal correspondiente en dos o tres ejercicios anteriores.
+
+c) Se impondrá la sanción máxima:
+
+i. A la persona que haya incumplido con la obligación fiscal correspondiente en cuatro o cinco ejercicios anteriores.
+
+ii. A la persona que haya incumplido con la obligación fiscal correspondiente en actividades comerciales o con fines de lucro.
+
+iii. A la persona que haya incumplido con la obligación fiscal correspondiente en actividades relativas a los giros con venta de alcohol.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+A la persona que haya incumplido con la obligación fiscal correspondiente después de 15 días de haber sido notificado de dicho incumplimiento.
+
 ## TÍTULO QUINTO. DE LOS DELITOS FISCALES
 
 ### CAPÍTULO ÚNICO
@@ -1195,7 +1251,9 @@ Los delitos fiscales son de comisión intencional, dirigidos a causar un daño p
 
 Para proceder penalmente por los delitos previstos en este Título, será necesario que el Síndico formule la querella respectiva; en los casos previstos por el artículo 111 de este Código, cualquier persona podrá denunciar los hechos ante la Fiscalía General Del Estado De Veracruz.
 
-El derecho para formular la querella por delitos fiscales prescribirá en un año, a partir del día en que se tenga conocimiento del delito; y en tres años, independientemente de esta circunstancia.
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+El derecho para formular la querella por delitos fiscales prescribirá en tres años, a partir del día en que se tenga conocimiento del delito; y en cinco años, independientemente de esta circunstancia.
 
 ###### Artículo 96.
 
@@ -1367,9 +1425,9 @@ c) Imprima u ordene imprimir formas de control fiscal o emita u ordene la emisi�
 
 Altere documentación oficial o expida una falsa en cualquier tipo de trámite del orden fiscal.
 
-###### Artículo 112.
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-Se impondrá prisión de seis meses a tres años y se impondrá multa de 32 a 548 UMAs, a quien entregue u ofrezca dinero o dádivas a los servidores públicos municipales, para incurrir en alguno de los delitos previstos por este Título.
+Artículo 112 bis. Se impondrán de seis meses a dos años de prisión y multa hasta de cincuenta UMAs a quien quebrante y a quien ordene quebrantar los sellos que se fijen por orden de autoridad competente.
 
 # LIBRO TERCERO. DE LOS INGRESOS MUNICIPALES
 
@@ -1453,7 +1511,9 @@ El Impuesto Predial se causará anualmente y se liquidará y pagará conforme a 
 
 El pago del Impuesto Predial será semestral y se realizará dentro de los meses de enero y julio de cada año, en la Tesorería u oficinas autorizadas.
 
-Los sujetos de este impuesto que opten por el pago anual podrán efectuarlo en el mes de enero, en una sola exhibición y, en este caso, obtendrán un descuento del veinte por ciento, incluidos quienes paguen la cuota mínima.
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Por acuerdo de Cabildo el plazo para el pago del impuesto predial podrá prorrogarse durante los meses de febrero y marzo, comunicándolo al Congreso, con un descuento hasta del 20% a quienes realicen el pago anual en una sola exhibición.
 
 Por acuerdo de Cabildo el plazo para el pago del impuesto predial podrá prorrogarse durante el mes de marzo, comunicándolo al Congreso, con un descuento hasta del 20% a quienes realicen el pago anual en una sola exhibición.
 
@@ -1512,6 +1572,24 @@ En consecuencia, el procedimiento administrativo de ejecución, que establece el
 ###### Artículo 129.
 
 Los Notarios Públicos, para autorizar la expedición del título en forma definitiva, en que se hagan constar contratos y resoluciones judiciales o administrativas, cuyo objeto sean inmuebles ubicados en el Municipio, exigirán la constancia de no adeudo en el pago de este impuesto y la última boleta o recibo de pago, correspondiente al ejercicio fiscal en que se efectúe la operación.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Artículo 129 bis. Las autoridades fiscales exigirán el pago de los créditos fiscales que no hubieren sido cubiertos o garantizados dentro de los plazos señalados por este Código, mediante el Procedimiento Administrativo de Ejecución. Se podrá practicar embargo precautorio para asegurar el interés fiscal, antes de la fecha en que el crédito fiscal esté determinado o sea exigible cuando:
+
+I. A juicio de la autoridad hubiere peligro de que el obligado se ausente, enajene, oculte sus bienes; o
+
+II. Realice cualquier maniobra tendiente a evadir el cumplimiento de sus obligaciones de pago.
+
+Si el pago se hiciere dentro de los plazos legales, el contribuyente no estará obligado a cubrir los gastos que origine la diligencia y se levantará el embargo.
+
+El embargo quedará sin efecto si la autoridad no emite dentro del plazo de un año contado desde la fecha en que fue practicado, resolución en la que determine créditos fiscales. Si dentro del plazo señalado la autoridad los determina, el embargo precautorio se convertirá en definitivo y continuará el Procedimiento Administrativo de Ejecución conforme a las disposiciones de este título, debiendo dejar constancia de la resolución y notificación de la misma en el expediente de ejecución. Si el particular garantiza el interés fiscal en los términos de este Código, se levantará el embargo.
+
+No se aplicará el Procedimiento Administrativo de Ejecución para cobrar créditos derivados de productos, salvo que exista sometimiento expreso de los particulares a dicho procedimiento. Los vencimientos que ocurran durante el Procedimiento Administrativo de Ejecución incluso recargos, gastos de ejecución y cualesquiera otros, se harán efectivos junto con el crédito inicial, sin necesidad de notificación ni otras formalidades especiales. No será necesario que previamente al requerimiento de pago exista determinado y notificado un crédito fiscal, cuando el contribuyente se autodeterminó e incumplió con el pago en parcialidades o con el pago diferido.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Artículo 129 ter. Cuando sea necesario emplear el Procedimiento Administrativo de Ejecución para hacer efectivo un crédito fiscal, los sujetos pasivos estarán obligados a pagar por concepto de gastos de ejecución, las cuotas que establezca anualmente la Ley de Ingresos del Municipio, por cada una de las diligencias que practique la autoridad fiscal, hasta en tanto se haga efectivo el crédito. Los gastos de ejecución serán determinados por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales.
 
 ### CAPÍTULO II. DEL IMPUESTO SOBRE TRASLACIÓN DE DOMINIO DE BIENES INMUEBLES
 
@@ -1601,9 +1679,11 @@ Las constancias de no adeudo que, en su caso, expida la Tesorería estarán vige
 
 Si existiere algún crédito por concepto de contribuciones por mejoras a favor del Estado o el Municipio, con fecha de vencimiento para el pago posterior a la fecha de la firma de la escritura, y el adquirente acepta o consiente dicho crédito los Notarios lo harán constar en el instrumento público.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 136.
 
-El impuesto al que se refiere el presente Capítulo se causará, liquidará y pagará aplicando a la base gravable determinada, una tasa del 1 por ciento.
+El impuesto al que se refiere el presente Capítulo se causará, liquidará y pagará aplicando a la base gravable determinada, la tasa del dos por ciento.
 
 ###### Artículo 137.
 
@@ -1769,7 +1849,13 @@ f) Los sujetos al pago de este impuesto, deberán otorgar toda clase de facilida
 
 g) Otorgar garantía suficiente en términos del presente Código; y
 
-h) Pagar los derechos por servicio de limpia, en caso necesario.
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+h) Pagar los derechos por servicio de limpia, en caso necesario; y
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+i) Pagar los derechos por servicio de retiro de publicidad, en caso necesario.
 
 El pago de este impuesto no libera a las personas físicas o morales que exploten o realicen diversiones o espectáculos públicos, de la obligación de tramitar y obtener cuando otros ordenamientos jurídicos lo determinen, las licencias o autorizaciones que se requieran para el desarrollo de las actividades a que se refiere este capítulo o para la prestación de servicios de otra naturaleza dentro del mismo local.
 
@@ -1851,9 +1937,11 @@ VII. Proporcionar constancia de retención de impuestos a la persona que obtenga
 
 No causarán este impuesto la Federación, los Estados, los Municipios, los Partidos Políticos en los términos de la legislación electoral correspondiente, los organismos públicos descentralizados de la Administración Pública Estatal y Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública, y las asociaciones de asistencia y beneficencia pública legalmente constituidas, así como las asociaciones religiosas. Tampoco se causará este impuesto cuando los premios en forma global no superen el valor equivalente a 438 UMAs.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 160.
 
-El Cabildo podrá autorizar el pago de cuotas fijas como impuesto, cuando no sea posible su determinación y pago en la forma y términos establecidos en este Capítulo o cuando no se compense el sostenimiento de su interventor.
+El Tesorero podrá autorizar el pago de cuotas fijas como impuesto, cuando no sea posible su determinación y pago en la forma y términos establecidos en este Capítulo o cuando no se compense el sostenimiento de su interventor.
 
 ### CAPÍTULO V. DEL IMPUESTO SOBRE JUEGOS PERMITIDOS
 
@@ -1877,7 +1965,9 @@ I. Billar, dominó, dados, ajedrez, damas y otros similares, por mesa, 2 UMAS;
 
 II. Los juegos de boliche, por mesa, 3 UMAS.
 
-III. Videojuegos, 2 UMAS.
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+III. Videojuegos, por máquina, 2 UMAS.
 
 IV. Los juegos de azar y electrónicos, por mesa o máquina electrónica, 3 UMAS.
 
@@ -2051,27 +2141,41 @@ Cuando la ley establezca la obligación de pago de un refrendo de permisos, lice
 
 ### CAPÍTULO II. DE LOS DERECHOS POR REGISTRO Y REFRENDO ANUAL DE TODA ACTIVIDAD ECONÓMICA
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 195.
 
-Es objeto de este derecho el otorgamiento de la licencia de funcionamiento, permiso o autorización, registro o refrendo a negociaciones, giros o actividades económicas, cuya reglamentación y vigilancia corresponda a la autoridad municipal.
+Es objeto de este derecho el otorgamiento de la licencia de funcionamiento, cédula de empadronamiento, permiso o autorización, registro o refrendo a negociaciones, giros o actividades económicas, cuya reglamentación y vigilancia corresponda a la autoridad municipal.
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 196.
 
-Los propietarios de negociaciones comerciales, industriales, de prestación de servicios, de comisión y, en general, de toda actividad económica, deberán empadronarse en la Tesorería y obtener la cédula respectiva y, en su caso, la licencia o autorización de funcionamiento que corresponda, ya sea que sus actividades las realicen en tiendas abiertas al público, en despachos, almacenes, bodegas, interior de casas o edificios o en cualquier otro lugar. Dicha cédula de empadronamiento se mantendrá vigente, hasta en tanto no se realice baja, cambio de giro o de domicilio, excepto para los giros que implican la enajenación o expendio de bebidas alcohólicas, en cuyo caso la vigencia de la cédula de empadronamiento de la licencia será de un año.
+Los propietarios de negociaciones comerciales, industriales, de prestación de servicios, de comisión y, en general, de toda actividad económica, deberán empadronarse en la Tesorería y obtener la cédula respectiva y, en su caso, la licencia o autorización de funcionamiento que corresponda, ya sea que sus actividades las realicen en tiendas abiertas al público, en despachos, almacenes, bodegas, interior de casas o edificios o en cualquier otro lugar.
+
+Tanto la licencia de funcionamiento, como la cédula de empadronamiento, tendrán la vigencia del ejercicio fiscal en que se paga y deberá refrendarse en el mes de enero del ejercicio siguiente, hasta en tanto no se realice baja, cambio de giro o de domicilio, para todos los giros que implican la enajenación o expendio de bebidas alcohólicas.
+
+El pago del refrendo será en forma anual, durante el mes de enero de cada año. La omisión del pago deja sin efecto la Licencia de Funcionamiento y/o Cédula de Empadronamiento y dará lugar a la clausura del establecimiento, así como al pago de las sanciones establecidas en el presente Código.
+
+(REPUBLICADO, G.O. 28 DE DICIEMBRE DE 2023)
 
 ###### Artículo 197.
 
 El inicio de actividades, la ampliación o el cambio de giro de los establecimientos o locales a los que se refiere el artículo anterior, serán autorizados por la Tesorería, de conformidad con los requisitos que establezca el reglamento municipal respectivo o, en su defecto, el Cabildo.
 
+(REPUBLICADO, P.O. 28 DE DICIEMBRE DE 2023)
+
 ###### Artículo 198.
 
 Son sujetos de este derecho las personas físicas o morales que soliciten del Ayuntamiento la autorización de funcionamiento, registro o refrendo señalados en el artículo 195 de este Código o la licencia correspondiente.
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 199.
 
 El Municipio, en términos de lo dispuesto por la Ley de Coordinación Fiscal y demás normatividad aplicable, ejercerá facultades operativas de verificación al momento de expedir las licencias a que se refiere este Código y deberá solicitar a los interesados la exhibición de su cédula de inscripción al Registro Federal de Contribuyentes.
 
-En términos de la normatividad aludida en el párrafo anterior, la licencia, permiso o autorización de funcionamiento, o el registro o refrendo anual en su caso; sus propietarios cumplirán los requisitos que para el otorgamiento de aquéllos señalen los reglamentos municipales y deberán cubrir la cuota o tarifa establecida en el presente Código por el otorgamiento o refrendo de cada licencia o cédula de empadronamiento, pero la omisión a dicha obligación se sancionará con multa equivalente a la cuota o tarifa señalada para el refrendo, según el caso y, de persistir la omisión dentro del término de quince días, se procederá a la clausura.
+En términos de la normatividad aludida en el párrafo anterior, la licencia, permiso o autorización de funcionamiento, o el registro o refrendo anual en su caso; deberá exhibirse en el local que se autorizó, y sus propietarios cumplirán los requisitos que para el otorgamiento de aquéllos señalen los reglamentos municipales y deberán cubrir la cuota o tarifa establecida en el presente Código por el otorgamiento o refrendo de cada licencia o cédula de empadronamiento, pero (sic) y la omisión a dicha obligación se sancionará con multa equivalente a la cuota o tarifa señalada para el refrendo, según el caso y, de persistir la omisión dentro del término de quince días, se procederá a la clausura.
 
 #### SECCIÓN I
 
@@ -2085,6 +2189,8 @@ Las cédulas de empadronamiento, las licencias, permisos o autorizaciones son in
 
 Los permisos o autorizaciones de carácter temporal, para giros comerciales que enajenen o expendan bebidas alcohólicas, tendrán un costo proporcional al número de días para el cual se expidan, en relación con la cuota que corresponda de acuerdo a su giro. En ningún caso el costo será menor al que corresponda a quince días.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 202.
 
 La expedición de cédulas de empadronamiento, licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales con los siguientes giros según corresponda a la clasificación siguiente:
@@ -2095,7 +2201,7 @@ Por la expedición de licencias a que este artículo se refiere, se pagarán las
 
 El costo de la licencia en número de Unidades de Medida y Actualización:
 
-> <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 30 DE MAYO DE 2019, PÁGINAS DE LA 54 A LA 55.]</small>
+> <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 28 DE DICIEMBRE DE 2023, PÁGINA DE LA 96 A LA 97.]</small>
 
 Los derechos por refrendos anuales se calcularán a razón del veinte por ciento del costo de la licencia más sus correspondientes accesorios.
 
@@ -2103,7 +2209,7 @@ Por la ampliación de horario de servicio de los establecimientos o locales con 
 
 B. Por la Expedición de la Cédula de Empadronamiento para los propietarios de negociaciones comerciales, industriales, de prestación de servicios, de comisión y, en general, de toda actividad económica, ya sea que sus actividades las realicen en tiendas abiertas al público, en despachos, almacenes, bodegas, interior de casas o edificios o en cualquier otro lugar y que no enajenen o no expendan bebidas alcohólicas, atendiendo a los requisitos que establezca el Reglamento Municipal respectivo o, en su defecto, el Cabildo, mediante reglas o disposiciones de carácter general, a que esta fracción se refiere, y atendiendo a su capacidad comercial, se cobrará conforme a la tabla siguiente en UMAs:
 
-> <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 30 DE MAYO DE 2019, PÁGINA 55.]</small>
+> <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 28 DE DICIEMBRE DE 2023, PÁGINA 97.]</small>
 
 Los derechos por refrendos anuales se calcularán a razón del veinte por ciento del costo de la Cédula de Empadronamiento más sus correspondientes accesorios.
 
@@ -2135,13 +2241,21 @@ Los derechos a que se refiere esta Sección, se cobrarán por la autorización r
 
 I. Por la colocación de anuncios comerciales en la vía pública, repercutiendo en la imagen urbana, de acuerdo a la siguiente clasificación:
 
-a) Bajo: 1 UMA por metro cuadrado de superficie del anuncio, por cara anunciante, anualmente.
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-b) Medio: De 3 a 5 UMAs por metro cuadrado por superficie del anuncio, por cara anunciante, anualmente.
+a) Bajo: 3 UMA por metro cuadrado de superficie del anuncio, por cara anunciante, anualmente.
 
-c) Alto: De 6 a 9 UMAS por metro cuadrado de superficie del anuncio, por cara anunciante, anualmente.
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-II. Por la colocación eventual de anuncios comerciales que tengan efectos en la vía pública, repercutiendo en la imagen urbana, 2 UMAs por eventos;
+b) Medio: De 5 a 8 UMAs por metro cuadrado por superficie del anuncio, por cara anunciante, anualmente.
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+c) Alto: De 9 a 12 UMAS por metro cuadrado de superficie del anuncio, por cara anunciante, anualmente.
+
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+II. Por la colocación eventual de anuncios comerciales que tengan efectos en la vía pública, repercutiendo en la imagen urbana, 4 UMAs por eventos;
 
 III. Por el anuncio de eventos en altavoz móvil, 2 UMAs por evento; y
 
@@ -2159,21 +2273,39 @@ I. Por derechos de alineamiento de predios, calculados sobre el total de metros 
 
 > <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 30 DE MAYO DE 2019, PÁGINAS DE LA 57 A LA 58.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA G.O. DE 28 DE DICIEMBRE DE 2023, PÁGINAS 98 A LA 99.]</small>
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 II. Por asignación de número oficial e inspección de predios, cada uno:
 
 > <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 30 DE MAYO DE 2019, PÁGINAS DE LA 58 A LA 59.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA G.O. DE 28 DE DICIEMBRE DE 2023, PÁGINA 99.]</small>
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], G.O. 28 DE DICIEMBRE DE 2023)</small>
 
 III. Por licencias:
 
 > <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 30 DE MAYO DE 2019, PÁGINAS DE LA 59 A LA 75.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA G.O. DE 28 DE DICIEMBRE DE 2023, PÁGINAS DE LA 99 A LA 111.]</small>
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 IV. Por deslinde de predios:
 
 > <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 30 DE MAYO DE 2019, PÁGINAS DE LA 75 A LA 78.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA G.O. DE 28 DE DICIEMBRE DE 2023, PÁGINAS DE LA 111 A LA 113.]</small>
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 V. Por registro, estudio y aprobación de planos y proyectos de construcción, remodelación o ampliación: Si el terreno es de uso:
 
 > <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 30 DE MAYO DE 2019, PÁGINAS DE LA 78 A LA 79.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA G.O. DE 28 DE DICIEMBRE DE 2023, PÁGINA 114.]</small>
 
 La modificación de proyectos también causará derechos, a razón de un cincuenta por ciento sobre las cuotas que correspondan.
 
@@ -2181,9 +2313,127 @@ La modificación de proyectos también causará derechos, a razón de un cincuen
 
 En el caso de la asignación de número oficial, una vez asignado éste y pagados los derechos, no se estará obligado a pagar nuevos derechos cuando se hagan cambios ordenados por el Ayuntamiento, en un plazo de cinco años, contado a partir de su otorgamiento.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 208.
 
 Por lo que hace a las licencias de construcción o ampliación, se tomará como base la superficie total de las sumas de las superficies parciales cubiertas por construcciones correspondientes a cada uno de los pisos de que conste la construcción.
+
+I. Las licencias y permisos de construcción, reconstrucción, ampliación o remodelación de inmuebles (llámese provisionales o definitivos), de fraccionamientos, lotificaciones, construcción de albercas, depósitos de agua y ruptura de banquetas, guarniciones, empedrados o pavimento, demolición, reparación, excavaciones y rellenos, terracerías y movimiento de tierras, remodelación de fachadas y bardas en superficies horizontales o verticales, construcción de bardas y muros de contención, instalación de antenas de radiocomunicación y telefonía, la canalización de duetos subterráneos, ya sean telefónicos, de energía eléctrica o de televisión por cable;
+
+II. Estos derechos, se tramitarán mediante los formatos previamente autorizados por la Tesorería y deberán cubrirse con anticipación al otorgamiento de las licencias o permisos referidos, se causarán y pagarán conforme a los conceptos y tarifas siguientes:
+
+a) De construcción de bardas, por metro lineal 0.60 UMA;
+
+b) La construcción e instalaciones en inmuebles de características especiales: que constituyen un conjunto complejo de uso especializado, integrado por suelo, edificios, instalaciones y obras de urbanización y mejora que, por su carácter unitario y por estar ligado de forma definitiva para su funcionamiento, se configura a efectos catastrales como único bien inmueble. Serán considerados bienes inmuebles o instalaciones de características especiales.
+
+c) De construcción o ampliación o remodelación, tomando como base la superficie total que resulte de la suma de las superficies parciales cubiertas por construcciones correspondientes a cada uno de los pisos de qué consta el edificio, se pagarán por metro cuadrado o fracción, de conformidad con las cuotas siguientes:
+
+No. Uso Unidad de Medida y Actualización (UMA)
+
+1 Residencial 0.503
+
+2 Medio 0.435
+
+3 Interés Social 0.135
+
+4 Popular 0.108
+
+5 Comercial 0.764
+
+6 Industrial 0.764
+
+7 Agropecuario 0.273
+
+8 De Servicio 0.273
+
+d) Para fusionar, subdividir o relotificar, en términos de la Ley de Desarrollo Regional y Urbano y el Reglamento de la materia, por metro cuadrado:
+
+No. Uso Unidad de Medida y Actualización (UMA)
+
+1 Residencial 0.06
+
+2 Medio 0.04
+
+3 Interés Social 0.02
+
+4 Popular 0.02
+
+5 Comercial 0.10
+
+6 Industrial 0.08
+
+7 Agropecuario 0.02
+
+8 De Servicio 0.03
+
+En ningún caso, la cuota a pagar será menor de 5 UMA.
+
+e) Por una construcción de albercas y depósitos de agua, por metro cúbico o fracción, 2.30 UMA.
+
+f) Por la construcción de tanques subterráneos para almacenamiento de material peligroso o combustible, por metro cúbico o fracción, 8 UMA.
+
+g) Por remodelación de fachadas, se pagará por metro cuadrado o fracción, de acuerdo a lo señalado en el inciso b);
+
+h) Por la construcción de estacionamientos descubiertos o patios de almacenaje, se pagará por metro cuadrado de piso, 0.20 UMA;
+
+i) Realizar obras, modificaciones, reparaciones, introducir servicios provisionales o permanentes en la vía pública por metro lineal o cuadrado, según corresponda, 2 UMA.
+
+En ningún caso, la cuota a pagar será menor de 10 UMAS.
+
+j) Por las demás no especificadas en esta fracción por metro cuadrado 0.20 UMA;
+
+k) Por el otorgamiento de licencias de construcción y/o instalación de infraestructura de sistemas de radiocomunicación y de telecomunicación, así como para la colocación o anclaje de postes e instalación de red o cableado subterráneo en piso o cableado exterior o aéreo de telefonía, internet, televisión por cable y similares:
+
+> <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 28 DE DICIEMBRE DE 2023, PÁGINAS DE LA 116 A LA 117.]</small>
+
+Las personas físicas o morales que instalen y/o coloquen estructuras, antenas o similares independientemente de la licencia inicial de colocación o construcción quedarán sujetos a las revalidaciones anuales en materia de protección civil, seguridad estructural, salud y ecología respectivamente, así como de refrendo de uso de suelo que este Código y la reglamentación determinen.
+
+De igual forma, serán solidarios responsables del cumplimiento, así como del pago de los créditos fiscales que se originen con motivo de la ejecución de obras o de la colocación de las bases, estructuras, mástiles, antenas, así como de los refrendos y dictámenes anuales y de los daños que éstas ocasionen a las personas, bienes o al entorno urbano, así como las previstas en la normatividad aplicable:
+
+1. El titular de la concesión de la señal de radiofrecuencia ante el Instituto Federal de Telecomunicaciones será el directo (sic) responsable de tramitar el permiso de colocación del elemento físico denominado -antenall o su similar específico ante el Municipio, así como de verificar ante las autoridades municipales que la estructura donde se pretenda colocar cuenta con los permisos correspondientes, para el caso de que no sea de su propiedad.
+
+2. El dueño de la base, estructura o mástil donde se coloquen las antenas de radiofrecuencia.
+
+3. El dueño del inmueble donde se coloquen las estructuras, mástiles o antenas.
+
+A más tardar en el mes de mayo, los titulares de las concesiones a que hace referencia el párrafo anterior, deberán contar respecto a todas las radiobases, estructuras, mástiles y de sus respectivas antenas con los dictámenes municipales vigentes de seguridad estructural, protección civil, salud, ecología y cumplimiento de los límites de exposición máxima para seres humanos a radiaciones electromagnéticas de radiofrecuencia no ionizantes. Con el fin de que la autoridad municipal salvaguarde el derecho humano a la vida y a la salud de los habitantes del Municipio.
+
+Sólo podrán establecerse por estos derechos exenciones por concepto de permisos relacionados con la construcción de todo tipo, realizadas por la Federación, el Estado y los Municipios, cuando se trate de construcción de bienes de dominio público.
+
+III. En caso de incurrir en omisión por construir sin licencia de Uso de Suelo y/o que no respete lo especificado por el programa de ordenamiento vigente en la zona, será acreedor a la sanción administrativa consistente de 500 a 1000 UMAS.
+
+IV. Es obligación de los propietarios, poseedores, o empresas dueñas de los sistemas de telecomunicación refrendar anualmente el dictamen de uso de suelo para la instalación y/o colocación de base de todo tipo, torre, estructura o mástil para el soporte de antenas, por unidad, causando derechos de 800 UMAS.
+
+V. La modificación o revalidación de proyectos causarán derechos, a razón de un cincuenta por ciento sobre las cuotas que correspondan al inciso b).
+
+VI. La regularización por omisión de registros o licencias de construcción causará los derechos normales más un cincuenta por ciento de los mismos.
+
+VII. Por movimiento de tierra, por pieza, de acuerdo a la siguiente tabla:
+
+No. Uso Unidad de Medida y Actualización (UMA)
+
+1 Residencial 4
+
+2 Medio 3
+
+3 Interés Social 2
+
+4 Popular 1
+
+5 Comercial 8
+
+6 Industrial 8
+
+7 Agropecuario 4
+
+8 De Servicio 4
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Artículo 208 bis. Las personas físicas o morales que en el Municipio realicen obras en inmuebles propiedad de particulares o en inmuebles de dominio público para la colocación de estructuras de antenas y torres de telecomunicación, de telefonía celular o convencional, de radio frecuencia, de conducción de energía eléctrica, serán sujetos obligados al pago también de los siguientes derechos:
+
+> <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 28 DE DICIEMBRE DE 2023, PÁGINAS DE LA 118 A LA 119.]</small>
 
 ###### Artículo 209.
 
@@ -2207,7 +2457,13 @@ I. La expedición de certificados, constancias y copias certificadas de document
 
 II. La evaluación de impacto ambiental, y
 
-III. La expedición de copias simples o certificadas, o por hoja impresa por medio de dispositivo electrónico de almacenamiento o disco compacto, por solicitudes de información conforme a la Ley de Transparencia y Acceso a la Información Pública para el Estado.
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+III. La expedición de copias simples o certificadas, o por hoja impresa por medio de dispositivo electrónico de almacenamiento o disco compacto, por solicitudes de información conforme a la Ley de Transparencia y Acceso a la Información Pública para el Estado; y
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+IV. Permiso para bailes.
 
 ###### Artículo 213.
 
@@ -2224,6 +2480,10 @@ I. Certificado o certificaciones expedidos por funcionarios o empleados municipa
 II. Copias de documentos que obren en los archivos de oficinas municipales, incluyendo la búsqueda de datos para expedirlos, por cada copia, 0.50 a 1 UMA.
 
 III. Evaluación de impacto ambiental, 20 UMAs.
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+IV. Permiso para bailes, mínimo 6.6 UMAs, máximo 26.4 UMAs.
 
 ### CAPÍTULO VI. DE LOS DERECHOS POR SERVICIOS DE RASTRO O LUGARES AUTORIZADOS
 
@@ -2265,37 +2525,13 @@ VI. Por uso de frigoríficos, después de transcurridas veinticuatro horas del i
 
 Son objeto de estos derechos, los servicios de inhumación, cremación y exhumación de cadáveres o restos humanos, apertura y cierre de gavetas, depósito de restos en osario, construcción, reconstrucción y ampliación de monumentos, criptas, fosas o nichos.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 220.
 
 Son sujetos de estos derechos, las personas físicas o morales que soliciten la prestación de los servicios que señala el artículo anterior, quienes pagarán, en Unidades de Medida y Actualización, las cuotas que se causarán y se liquidará y pagará conforme a la tasa que autorice el Congreso en la Ley de Ingresos del Municipio para el ejercicio fiscal de que se trate.
 
-I. Inhumaciones por sietes (sic) años y refrendos de fosas;
-
-II. Inhumaciones en fosas a perpetuidad;
-
-III. Depósito de restos en osario por una temporalidad de 7 años;
-
-IV. Depósito de restos en el osario a perpetuidad;
-
-V. Construcción, reconstrucción, ampliación o modificación de monumentos, criptas o fosas;
-
-VI. Inhumación de restos, apertura o cierre de gavetas y demás operaciones semejantes;
-
-VII. Exhumaciones;
-
-VIII. Reinhumaciones;
-
-IX. Cremaciones;
-
-X. Traslado de cadáver;
-
-XI. Registro de Defunción; y
-
-XII. Apertura de Fosa o Permiso para sepultar.
-
-> <small>(ADICIONADO, G.O. 15 DE OCTUBRE DE 2019)</small>
-
-El Ayuntamiento, por acuerdo del Cabildo, podrá exentar del pago del derecho por la prestación de los servicios de inhumaciones y refrendo de fosas a que se refiere este artículo cuando se trate de los restos mortales de las víctimas directas e indirectas del delito de desaparición forzada de personas y la cometida por particulares, a efecto de garantizar el derecho previsto en la fracción IX del artículo 73 de la Ley en Materia de Desaparición de Personas para el Estado de Veracruz de Ignacio de la Llave.
+> <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 28 DE DICIEMBRE DE 2023, PÁGINAS DE LA 120 A LA 121.]</small>
 
 ### CAPÍTULO VIII. DE LOS DERECHOS POR SERVICIOS DE RECOLECCIÓN, TRANSPORTE Y DISPOSICIÓN FINAL DE DESECHOS SÓLIDOS
 
@@ -2306,6 +2542,10 @@ Son objeto de estos derechos los servicios de recolección, transporte y disposi
 ###### Artículo 222.
 
 Son sujetos de estos derechos las personas físicas o morales que sean propietarias, poseedoras o usufructuarias de los predios en que se presten los servicios a que se refiere este capítulo.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Los propietarios de inmuebles arrendados son deudores solidarios del pago del servicio de recolección, cuando el arrendatario deje de cubrir este derecho y (sic) deberán cubrir los adeudos con los recargos generados por el incumplimiento, en el período normal del pago del Impuesto Predial, en los meses comprendidos de enero a marzo.
 
 El Ayuntamiento o los concesionarios podrán rechazar el manejo de residuos cuyas características los hagan de manejo especial, en tanto no se adopten las medidas necesarias para su manejo. Los residuos considerados como peligrosos por la legislación federal en ningún caso deberán ser manejados por el Ayuntamiento.
 
@@ -2327,17 +2567,47 @@ I. Tratándose de los sujetos señalados en la fracción I del artículo 223 del
 
 II. Tratándose de los sujetos señalados en la fracción II del artículo 223 del presente Código, al mismo tiempo que el contribuyente realice el pago de la licencia o refrendo anual, con recibo por separado, se cobrarán los derechos por los servicios de recolección, transporte y disposición final de los residuos sólidos que preste el Ayuntamiento.
 
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+En ambos casos los usuarios del servicio podrán optar por realizar un pago anual, durante los meses comprendidos de enero a marzo; semestral, en este primer período y dentro de los meses comprendidos de julio a septiembre; y/o en forma mensual, acudiendo a las cajas de ingresos en la tesorería Municipal.
+
 ###### Artículo 225.
 
 Los derechos a que este Capítulo se refiere, se causarán y pagarán anualmente de conformidad con las cuotas siguientes:
 
-PARA USO HABITACIONAL
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-> <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 30 DE MAYO DE 2019, PÁGINA 82.]</small>
+I. Para uso habitacional
 
-PARA USO COMERCIALES, INDUSTRIALES Y PRESTADORES DE SERVICIOS
+Descripción Cuota Fija Anual
 
-> <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 30 DE MAYO DE 2019, PÁGINA 82.]</small>
+en UMAs
+
+Casa habitación en zona urbana 15
+
+Casa habitación en zona rural 3.46
+
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+II. Para uso comerciales, industriales y prestadores de servicios
+
+Descripción Cuota Rango UMAS
+
+Comercio
+
+Bajo 20 34.7
+
+Medio 75 138.81
+
+Alto 200 607.29
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+III. El pago de este derecho se realizará, en forma anual, durante el período comprendido del mes de enero a marzo, en forma conjunta con el Impuesto Predial. Pudiendo convenir, los interesados, con el municipio, en pagar en forma semestral, trimestral o mensual.
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+IV. Este derecho se ajustará en el Ejercicio 2025, y se calculará de acuerdo a los gastos de mantenimiento y de operación del Relleno Sanitario que establecerá el Municipio en el Ejercicio 2024.
 
 ### CAPÍTULO IX. DE LOS DERECHOS POR LIMPIEZA DE PREDIOS NO EDIFICADOS
 
@@ -2511,7 +2781,17 @@ II. La ocupación de espacios en vía pública o áreas municipales, exceptuando
 
 III. La ocupación temporal de la vía pública o áreas municipales, exceptuando las áreas verdes, por vehículos, aparatos mecánicos o electromecánicos, por tianguis, ferias o similares, se pagará diariamente, por metro cuadrado o fracción, a razón de 0.05 a 0.125 UMAs; y
 
-IV. El estacionamiento en la vía pública se pagará, mediante utilización de parquímetros, a razón de 0.125 UMAs por hora o fracción.
+> <small>(REFORMADA [N. DE E. CON SU TABLA], G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+IV. El estacionamiento en la vía pública se pagará, mediante utilización de parquímetros, de acuerdo a la siguiente tabla:
+
+Tiempo 1 hora 2 horas 3 o más horas
+
+Tarifa por tiempo $8.00 $9.00 $13.00
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN IV, G.O. 28 DE DICIEMBRE DE 2023.]</small>
+
+El municipio ofrece para la primera cuota $5.00 de bonificación; y $4.00 para la cuota de 2 horas. Para la cuota por 3 horas o más de estacionamiento se aplica la cuota de 0.125 UMAs.
 
 ### CAPÍTULO XIV. DE LOS DERECHOS POR SERVICIOS PRESTADOS EN MATERIA DE PROTECCIÓN CIVIL
 
@@ -2856,6 +3136,32 @@ Para el aseguramiento de las obligaciones respecto al uso o aprovechamiento de b
 El Ayuntamiento tendrá los siguientes aprovechamientos:
 
 I. Multas administrativas: Todas las que no sean consideradas como multas fiscales en el presente Código, y demás reglamentos municipales;
+
+II. Reintegros e Indemnizaciones: Para el pago de reintegros e indemnizaciones se estará al dictamen de la autoridad correspondiente.
+
+En el caso de que se cause un daño imprudencial o intencional a los bienes municipales, la autoridad determinará el monto de la indemnización atendiendo al valor comercial de los bienes dañados o al de su reparación;
+
+III. Legados y Donaciones recibidos; y
+
+IV. Aprovechamientos diversos.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Artículo 263 bis. Las faltas al Reglamento de Tránsito Municipal quedan consideradas dentro de este capítulo y se aplicarán conforme a la siguiente Tabla:
+
+Categorías de multas según criterio de gravedad (UMAs)
+
+I. Categoría A: de dos a cinco Unidades de Medida y Actualización;
+
+II. Categoría B: de seis a diez Unidades de Medida y Actualización;
+
+III. Categoría C: de veinte a cincuenta Unidades de Medida y Actualización; y
+
+IV. Categoría D: de sesenta a cien Unidades de Medida y Actualización.
+
+1. Para la aplicación de las categorías a que refiere este artículo, será aplicable a cada infracción de este reglamento la que de acuerdo a la clave que se señale en ella, se especifica en la tabla siguiente:
+
+> <small>[N. DE E. VÉASE TABA EN LA G.O. DE 28 DE DICIEMBRE DE 2023, PÁGINAS DE LA 123 A LA 130.]</small>
 
 II. Reintegros e Indemnizaciones: Para el pago de reintegros e indemnizaciones se estará al dictamen de la autoridad correspondiente.
 
@@ -3299,11 +3605,11 @@ Las entidades serán responsables de la administración de los recursos municipa
 
 Tratándose de fondos estatales y, en su caso, federales el Ayuntamiento y las entidades ejercerán y controlarán los recursos que les sean transferidos para la realización de los programas convenidos entre el Estado o la Federación y el Municipio, de manera que se aplique la normatividad correspondiente y las disposiciones específicas para su ejercicio.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 328.
 
-La Tesorería será responsable de llevar un padrón de servidores públicos autorizados para realizar y tramitar pagos con cargo a fondos públicos; para tal efecto se establecerán los criterios y los lineamientos procedentes.
-
-Los servidores públicos que administren fondos y valores del Municipio caucionarán debidamente su manejo.
+Tratándose de fondos estatales y, en su caso, federales el Ayuntamiento y las entidades ejercerán y controlarán los recursos que les sean transferidos para la realización de los programas convenidos entre el Estado o la Federación y el Municipio, de manera que se aplique la normatividad correspondiente y las disposiciones específicas para su ejercicio.
 
 ###### Artículo 329.
 
@@ -3679,59 +3985,63 @@ IV. Determinación de las previsiones que constituyan una de las bases para la p
 
 El Ayuntamiento, de conformidad con lo dispuesto por el artículo 35, fracción XXI, de la Ley Orgánica del Municipio Libre, establecerá un órgano de control interno autónomo, el cual, para los efectos de este Código, se denominará Contraloría, que desarrollará funciones de control y evaluación.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 385.
 
-Corresponde a la Contraloría coordinar los sistemas de auditoría interna, así como de control y evaluación del origen y aplicación de recursos.
+La Contraloría en el ámbito de su competencia, dictará las medidas administrativas sobre las responsabilidades de los servidores públicos, que afecten a la Hacienda Pública Municipal directamente o a los recursos transferidos a las entidades derivadas del incumplimiento de las disposiciones contenidas en este ordenamiento y de las que se hayan expedido con base en ellas, y que se conozcan a través de:
 
-Los sistemas de auditoría interna permitirán:
+I. Visitas, auditorias o investigaciones que realice la propia Contraloría y/o cada Contraloría interna, en el ámbito de su competencia;
 
-I. Verificar el cumplimiento de normas, objetivos, políticas y lineamientos;
+II. Pliegos preventivos que levanten:
 
-II. Promover la eficiencia y eficacia operativa; y
+a) Las entidades, con motivo de la glosa que de su propia contabilidad hagan;
 
-III. La protección de los activos y la comprobación de la exactitud y confiabilidad de la información financiera y presupuestal.
+b) La Contraloría.
+
+III. Pliegos de observaciones que emita el Órgano de Fiscalización Superior del Estado en términos de su ordenamiento orgánico.
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 386.
 
-La Contraloría verificará el cumplimiento de la normatividad en el ejercicio del gasto de las dependencias y entidades, quienes le proporcionarán toda la información que les solicite en el ejercicio de esta atribución.
+Los servidores públicos de la Tesorería, las dependencias y entidades a que se refiere el artículo 314 de este ordenamiento, serán responsables de cualquier daño o perjuicio estimable en dinero que sufra la Hacienda Pública Municipal, directa o indirectamente por actos u omisiones que le sean imputables o bien, por incumplimiento o inobservancia de las obligaciones derivadas de este ordenamiento, inherentes a su cargo o relacionadas con su función o actuación.
+
+Las responsabilidades se constituirán en primer término a las personas que directamente hayan ejecutado los actos o incurran en las omisiones que las originaron y, subsidiariamente a los servidores públicos que, por la índole de sus funciones, hayan omitido la revisión o autorizado tales actos por causas que impliquen dolo, culpa o negligencia por parte de los mismos.
+
+Serán responsables solidarios con los servidores públicos y demás personal de las dependencias o entidades, los particulares en los casos que hayan participado y originen una responsabilidad.
+
+Los responsables garantizarán a través de embargo precautorio y en norma individual el importe de los pliegos preventivos a que se refiere el artículo anterior, en tanto se determina la responsabilidad.
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 387.
 
-La Contraloría, en caso de determinar la falta de aplicación de la normatividad en el ejercicio del gasto por parte de las dependencias y entidades, reportará tal situación al Cabildo e impondrá las medidas correctivas.
+Las responsabilidades que se constituyan tendrán por objeto indemnizar por los daños y perjuicios que se ocasionen a la Hacienda Pública Municipal, las que tendrán el carácter de créditos fiscales y se fijarán por la Contraloría en cantidad líquida, misma que se exigirá se cubra desde luego, sin perjuicio de que, en su caso, la Tesorería las hagan efectivas a través del Procedimiento Administrativo de Ejecución.
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 388.
 
-Las auditorías al gasto público municipal podrán ser de tipo financiero, operacional, de resultado de programas y de legalidad, las cuales serán realizadas por la Contraloría y, en su caso por auditores externos.
+La Contraloría, podrá dispensar las responsabilidades en que se incurra, siempre que los hechos que las constituyan no revistan un carácter delictuoso, ni se deban a culpa grave o descuido notorio del responsable, y que los daños causados no excedan del equivalente al valor diario de cien unidades de medida y actualización, calculados al momento de la determinación de los daños causados, rindiendo informe al Ayuntamiento sobre dicha situación.
+
+La Contraloría podrá cancelar los créditos derivados del fincamiento de responsabilidades que no excedan del equivalente al valor diario de cien unidades de medida y actualización, por incosteabilidad práctica de cobro. En los demás casos propondrá su cancelación al Presidente, previa fundamentación.
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 389.
 
-Los hechos, conclusiones, recomendaciones y, en general, los informes y resultados de las auditorías practicadas, facilitarán la medición de la eficiencia en la administración de los recursos y el cumplimiento de metas, para apoyar las actividades de evaluación del gasto público, la determinación de las medidas correctivas que sean conducentes y, en su caso, las responsabilidades que procedan.
+La Contraloría, podrá imponer como corrección disciplinaria a los servidores públicos de las entidades a que se refiere el artículo 314 fracción 11 de este ordenamiento, que en el desempeño de sus funciones incurran en faltas que ameriten el fincamiento de responsabilidades, multa por el importe del equivalente al valor diario de cien a mil unidades de medida y actualización al momento de determinarse la falta.
 
-Las actividades propias de la auditoría no obstaculizarán las labores operativas y trámites administrativos que directamente realicen las dependencias y entidades.
+La multa a que se refiere el párrafo anterior se aplicará, en su caso, a los particulares que en forma dolosa participen en los actos que originen la responsabilidad. Iguales medidas impondrá la propia Contraloría a los funcionarios y empleados cuando no apliquen las disposiciones a que se refiere este Capítulo o las reglamentarias que se deriven del mismo.
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 390.
 
-La Contraloría, con base en sus programas anuales de auditoría y sin perjuicio de lo establecido en otras disposiciones legales, realizará las actividades siguientes:
+Las responsabilidades a que se refiere este ordenamiento, se constituirán y exigirán administrativamente, con independencia de las sanciones de carácter penal que en su caso lleguen a determinarse por la autoridad judicial.
 
-I. Evaluar los sistemas y procedimientos de las dependencias y entidades;
-
-II. Revisar las operaciones, transacciones, registros, informes y estados financieros;
-
-III. Comprobar el cumplimiento de las normas, disposiciones legales y políticas aplicables a la entidad, en el desarrollo de sus actividades;
-
-IV. Examinar la asignación y utilización de los recursos financieros, humanos y materiales;
-
-V. Revisar el cumplimiento de los objetivos y metas fijados en los programas a cargo de la dependencia o entidad;
-
-VI. Participar en la determinación de indicadores para la realización de auditorías operacionales y de resultados de los programas;
-
-VII. Analizar y opinar sobre la información que produzca la dependencia o entidad para efectos de evaluación;
-
-VIII. Promover la capacitación del personal de auditoría;
-
-IX. Vigilar el cumplimiento de las medidas correctivas; y
-
-X. Las demás que determine el Cabildo.
+Si, como resultado de las auditorías, se advirtieren irregularidades que afecten a la Hacienda Pública Municipal, o contravengan el presente Código, se procederá en los términos de la Ley General de Responsabilidades Administrativas; Ley número 366 de Responsabilidades Administrativas para el Estado de Veracruz de Ignacio de la Llave; Ley Orgánica del Municipio Libre; Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Veracruz de Ignacio de la Llave; Ley de Fiscalización Superior para el Estado de Veracruz de Ignacio de la Llave, Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave, y las disposiciones civiles o penales aplicables, según sea el caso.
 
 ###### Artículo 391.
 
@@ -4616,3 +4926,11 @@ G.O. 10 DE MARZO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al Presente Decreto.
+
+G.O. 28 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 717 QUE REFORMA Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO HACENDARIO PARA EL MUNICIPIO DE MISANTLA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
