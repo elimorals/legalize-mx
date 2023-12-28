@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-16903
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2023-12-20"
-last_updated: "2023-12-20"
+last_updated: "2023-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=169036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # LEY DE INGRESOS DEL ESTADO DE MICHOACAN DE OCAMPO, PARA EL EJERCICIO FISCAL 2024
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE DICIEMBRE DE 2023 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL 2024
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE MICHOACÁN EL 28 DE DICIEMBRE DE 2023.]</small>
 
 Ley publicada en la Décima Quinta Sección del Número 50 del Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 20 de diciembre de 2023.
 
@@ -54,6 +54,8 @@ LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO, PARA EL EJERCICIO FISCAL 202
 En el Ejercicio Fiscal 2024, el Gobierno del Estado de Michoacán de Ocampo, percibirá ingresos por un monto de $ 95,471,978,325.00 (noventa y cinco mil cuatrocientos setenta y un millones, novecientos setenta y ocho mil trescientos veinticinco pesos 00/100 m.n.) proveniente de los conceptos y en las cantidades estimadas que se enumeran a continuación:
 
 > <small>[N. DE E. VÉASE TABLA EN LA DÉCIMA QUINTA SECCIÓN DEL P.O. DE 20 DE DICIEMBRE DE 2023, PÁGINAS DE LA 1 A LA 4.]</small>
+
+> <small>[N. DE E. VÉASE FE DE ERRATAS A LA TABLA EN EL P.O. DE 28 DE DICIEMBRE DE 2023, PÁGINA 1.]</small>
 
 El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas y Administración, informará trimestralmente al Congreso del Estado, dentro de los cuarenta y cinco días naturales siguientes al trimestre de que se trate, sobre los ingresos percibidos por el Gobierno del Estado, con relación a los montos estimados que se señalan en el artículo 1° de esta Ley, excepto los correspondientes al último trimestre, cuya información quedará comprendida en la Cuenta Pública de la Hacienda Estatal del Ejercicio Fiscal 2024.
 
