@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-167794"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-09-11"
-last_updated: "2023-09-11"
+last_updated: "2023-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167794&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección Segunda del Número 46 de la Gaceta de Gobierno del Estado de México, el lunes 11 de septiembre de 2023.
 
@@ -453,6 +453,10 @@ XXXIX. Expedir las placas de matriculación, calcomanías, tarjetas de circulaci
 
 XL. Emitir dictamen de viabilidad o la autorización, según sea el caso, respecto de la constitución de los fideicomisos públicos de los entes públicos, a través de sus unidades administrativas, dependencias u organismos auxiliares, verificar el debido cumplimiento de sus fines, así como registrar, supervisar y evaluar su funcionamiento en cualquier momento, solicitando la información que considere necesaria con base en los lineamientos que para tal efecto emita la Secretaría;
 
+> <small>(ADICIONADO, G.G. 28 DE DICIEMBRE DE 2023)</small>
+
+Asimismo, participará en la constitución o celebración de fideicomisos públicos.
+
 XLI. Comparecer ante terceros con facultades para formular declaraciones en representación del Estado y celebrar convenios a través de los cuales el Estado pueda asumir obligaciones de hacer y no hacer en relación con operaciones de crédito, préstamo, empréstito, emisión de valores o financiamiento a cargo de fideicomisos en los que participe como fideicomitente un organismo público descentralizado, y obligarse a indemnizar del daño o perjuicio o la privación de cualquier ganancia lícita que se ocasione por el incumplimiento de dichas obligaciones de hacer y no hacer o por la inexactitud de sus declaraciones, sin que ello constituya deuda pública del Estado y siempre y cuando no se garanticen obligaciones a favor de terceros. En los convenios a que se refiere esta fracción, no se podrán pactar penas convencionales o predeterminar responsabilidades por daños y perjuicios en caso de incumplimiento. En los convenios antes mencionados que celebre el Estado se podrán estipular las cláusulas que se requieran incluyendo, entre otras, las aplicables a la jurisdicción;
 
 XLII. Hacer efectivas las garantías otorgadas bajo cualquier modalidad a favor del Gobierno del Estado de México, mediante los procedimientos previstos en las disposiciones legales y reglamentarias aplicables.
@@ -473,7 +477,11 @@ XLVIII. Impulsar la igualdad entre mujeres y hombres a través de la incorporaci
 
 XLIX. Aplicar las políticas en materia de protección de datos personales respecto del almacenamiento y custodia de información que derive del ejercicio de sus atribuciones; y
 
-L. Las demás que le señalen otras leyes, reglamentos y disposiciones jurídicas aplicables, así como las que le encomiende la persona titular del Poder Ejecutivo del Estado.
+> <small>(ADICIONADA, G.G. 28 DE DICIEMBRE DE 2023)</small>
+
+L. Realizar las estimaciones del impacto presupuestario de las iniciativas de leyes o de decretos que se presenten a la consideración de la Legislatura, que impliquen afectación al Presupuesto de Egresos del Gobierno del Estado de México, de conformidad a lo dispuesto por el Código Financiero y demás disposiciones legales aplicables;
+
+LI. Las demás que le señalen otras leyes, reglamentos y disposiciones jurídicas aplicables, así como las que le encomiende la persona titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 30.
 
@@ -1791,9 +1799,11 @@ En la integración del capital social de estas empresas, podrán participar los 
 
 Se asimilan a las empresas de participación estatal mayoritaria, las sociedades civiles, así como las asociaciones civiles en las que la mayoría de los asociados sean dependencias o entidades de la Administración Pública Estatal, o personas servidores públicos (sic) estatales que participen en razón de sus cargos o alguna o varias de ellas, se obliguen a realizar o realicen las aportaciones económicas preponderantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 68.
 
-La persona titular del Poder Ejecutivo del Estado, a través de sus dependencias y entidades, podrá constituir o participar en los fideicomisos previstos en el artículo 3 fracción XVII del Código Financiero del Estado de México y Municipios.
+La persona titular del Poder Ejecutivo del Estado, a través de sus dependencias, unidades administrativas u organismos auxiliares, podrá constituir o participar en los fideicomisos previstos en el artículo 3 fracción XVII del Código Financiero del Estado de México y Municipios, en todos los casos, con la intervención de la Secretaría de Finanzas en su carácter de fideicomitente.
 
 Los fideicomisos públicos asimilados, deberán contar con un Decreto o Acuerdo de creación emitido por la Legislatura o la persona titular del Poder Ejecutivo del Estado, según corresponda, de conformidad con lo señalado en el artículo 65 de esta Ley. Serán considerados organismos auxiliares del Poder Ejecutivo y sujetarán su actuación a lo previsto en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México, su Reglamento y a las disposiciones administrativas que al efecto emita la Secretaría de Finanzas.
 
@@ -1848,3 +1858,27 @@ Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, Capit
 Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
 
 Toluca de Lerdo, México, a 11 de septiembre de 2023.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MÉXICO, LIC. ALFREDO DEL MAZO MAZA.- RÚBRICA.- EL SECRETARIO GENERAL DE GOBIERNO, LUIS FELIPE PUENTE ESPINOSA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 28 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 225.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS Y SE REFORMAN OTROS ORDENAMIENTOS”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el 01 de enero de 2024.
+
+TERCERO.- Se derogan, en su caso, todas las disposiciones legales y administrativas del marco jurídico estatal, de igual o menor jerarquía, en lo que se opongan al contenido de este Decreto.
+
+CUARTO.- A partir de la entrada en vigor del presente Decreto, lo dispuesto por el artículo 3 fracción XVII del Código Financiero del Estado de México y Municipios, los fideicomisos públicos deberán constituirse o contratarse con la participación de la Secretaría de Finanzas en su carácter de fideicomitente.
+
+Tratándose de los fideicomisos públicos constituidos o contratados con anterioridad a la entrada en vigor del presente Decreto, los entes públicos, de acuerdo con su naturaleza jurídica y según corresponda, en un lapso de 90 días naturales, a partir de su entrada en vigor, deberán celebrar los actos jurídicos correspondientes, a efecto de que se cumpla dicha condición.
+
+QUINTO.- Las modificaciones a los artículos 60 B, 60 F y 77 párrafo tercero del Código Financiero del Estado de México y Municipios, entrarán en vigor al día siguiente del inicio de vigencia del Proyecto de Modificación de la Norma Oficial Mexicana NOM-167-SEMARNAT-2017, publicado en el Diario Oficial de la Federación el 7 de julio de 2023.
+
+SEXTO.- Lo previsto en las Secciones Novena denominada “Del Impuesto Ecológico a la Disposición, Confinamiento y Almacenamiento de Residuos” y Décima denominada “Del Impuesto a la Emisión de Contaminantes al Agua”, adicionadas al Capítulo Primero del Título Tercero del Código Financiero del Estado de México y Municipios, entrarán en vigor a partir del 1 º de abril de 2024.
+
+SÉPTIMO.- Lo dispuesto en el artículo 221 del Código Financiero del Estado de México y Municipios, entrará en vigor a partir del 1º de abril de 2024.
+
+OCTAVO.- A efecto de dar cumplimiento a lo dispuesto por el artículo 349 del Código Financiero del Estado de México y Municipios, las Dependencias, Entidades Públicas y Organismos Autónomos, de acuerdo con su naturaleza jurídica y según corresponda, remitirán a la Secretaría de Finanzas, en un lapso de 90 días naturales, a partir de la entrada en vigor de su reforma, los convenios, contratos, acuerdos y demás instrumentos jurídicos que impliquen un impacto presupuestario y se encuentren vigentes; asimismo, deberán armonizar, en el mismo plazo, sus disposiciones reglamentarias, a efecto de garantizar el cumplimiento de dicha obligación. El incumplimiento será sancionado en términos de las disposiciones jurídicas aplicables.
