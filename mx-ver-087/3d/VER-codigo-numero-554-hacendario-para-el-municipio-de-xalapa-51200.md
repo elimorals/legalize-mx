@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-554-hacendario-para-el-municipio-de-xalapa-51200"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-07-14"
-last_updated: "2022-12-29"
+last_updated: "2023-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO PARA EL MUNICIPIO DE XALAPA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 2023.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz Ignacio de la Llave, el viernes 14 de julio de 2006.
 
@@ -118,6 +118,10 @@ XI. Contribuyente: Persona física o moral obligada al pago de las contribucione
 > <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
 
 XII. Convenio de colaboración fiscal: Instrumento legal de colaboración celebrado entre el Ayuntamiento y el Gobierno del Estado, con la finalidad de trasladar, a las autoridades municipales, funciones específicas en materia fiscal;
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XII bis. Cuota mínima. La cantidad menor determinada en la tarifa para tributar el impuesto predial, de acuerdo a los rangos en que se encuentran clasificados los predios urbanos construidos;
 
 XIII. Dependencias: Los órganos de la Administración Pública Centralizada del Ayuntamiento;
 
@@ -1601,9 +1605,13 @@ Cuando la Tesorería advierta que un inmueble ha salido del dominio público de 
 
 Los contribuyentes del impuesto predial que sean pensionados o jubilados y, en caso de fallecimiento de éstos, la viuda o concubina legalmente reconocida, tendrán derecho a un descuento del cincuenta por ciento del importe anual a pagar, previa acreditación fehaciente de los supuestos respectivos, de que el contribuyente resida en el inmueble y de encontrarse al corriente en el pago de este impuesto. Esta prerrogativa se aplicará únicamente a un inmueble, siempre que se trate de la casa habitación del contribuyente y éste no haya transmitido la propiedad del mismo a terceros y el pago se realice durante los meses de enero o febrero del ejercicio correspondiente.
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-Las personas mayores de sesenta años, madres solteras, personas con discapacidad y víctimas indirectas de los delitos de desaparición forzada de personas y desaparición cometida por particulares, así como familias monoparentales primarias y secundarias, que sea (sic) contribuyentes de este impuesto, también derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo, si el valor catastral del inmueble correspondiente no excediere de seis mil unidades de medida y actualización (UMA).
+Las personas mayores de sesenta años, madres solteras, personas con discapacidad y víctimas indirectas de los delitos de desaparición forzada de personas y desaparición cometida por particulares, así como familias monoparentales primarias y secundarias, que sea (sic) contribuyentes de este impuesto, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo, si el valor catastral del inmueble correspondiente no excediere de seis mil unidades de medida y actualización (UMA).
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Los titulares de predios cuyos inmuebles se encuentren destinados para la asistencia o beneficencia; las sociedades o asociaciones civiles dedicadas a la atención de menores, personas de la tercera edad, discapacitados, farmacodependientes así como las que se dediquen a la protección del medio ambiente y religiosos, tendrán derecho al descuento del cincuenta por ciento del importe anual, previa acreditación mediante acta constitutiva vigente de encontrarse constituidos como asociaciones civiles, estar al corriente de contribuciones.
 
 A este descuento no se podrá adicionar el previsto en el artículo 119 de este Código.
 
@@ -1611,11 +1619,11 @@ A este descuento no se podrá adicionar el previsto en el artículo 119 de este 
 
 La Tesorería Municipal llevará un padrón de estos contribuyentes, mismo que se actualizará durante el periodo comprendido de los meses de octubre a noviembre de cada año.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 123.
 
-El impuesto anual a pagar no podrá ser menor a 3.5 UMAs, excepto lo dispuesto por el artículo 119 de este Código.
+El impuesto anual a pagar como cuota mínima, será determinada en la Ley de Ingreso (sic) del Municipio del ejercicio fiscal de que se trate.
 
 El pago de este impuesto se considerará definitivo, salvo prueba en contrario.
 
@@ -1895,7 +1903,9 @@ El pago del Impuesto Sobre Espectáculos Públicos, se realizará en la forma si
 
 I. Previo a la realización de la diversión o espectáculo público, en el caso de que se pueda determinar anticipadamente el monto del mismo. En este caso el pago es requisito para que se pueda celebrar el evento;
 
-II. Cuando el monto del Impuesto no pueda determinarse anticipadamente o cuando se cause sobre el importe, de los boletos vendidos o cuotas de admisión recaudadas, diariamente, al finalizar el espectáculo, los interventores fiscales, designados por la autoridad municipal para vigilar la entrada a los mismos, harán la liquidación correspondiente y levantarán acta por duplicado, en la que se hará constar dicha liquidación. Un ejemplar del acta lo entregarán al causante y otro a la Tesorería. Con base en dicha liquidación, el contribuyente pagará el impuesto en la Tesorería que corresponda a los interventores fiscales;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+II. Cuando el monto del Impuesto no pueda determinarse anticipadamente o cuando se cause sobre el importe, de los boletos vendidos o cuotas de admisión recaudadas, diariamente, al finalizar el espectáculo, los interventores fiscales, designados por la autoridad municipal para vigilar la entrada a los mismos, harán la liquidación correspondiente y levantarán acta por duplicado, en la que se hará constar dicha liquidación. Un ejemplar del acta lo entregarán al causante y otro a la Tesorería. Con base en dicha liquidación, el contribuyente pagará el impuesto que corresponda, en los lugares que para el efecto haya dispuesto la Tesorería Municipal;
 
 III. Si en la liquidación del impuesto hubiere error, la Tesorería determinará el impuesto causado, procediendo al cobro de la diferencia o a la devolución. En caso de que se hubiese pagado de menos, el contribuyente cubrirá la diferencia dentro de las veinticuatro horas siguientes a la notificación de la liquidación respectiva;
 
@@ -2047,9 +2057,11 @@ El Cabildo podrá autorizar el pago de cuotas fijas como impuesto, cuando no sea
 
 ### CAPÍTULO V. DEL IMPUESTO SOBRE JUEGOS PERMITIDOS
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 162.
 
-Es objeto de este impuesto, la explotación comercial de los juegos siguientes: billar, dominó, dados y juegos electrónicos, excepto cuando se trate de torneos gratuitos, lo cual se notificará y comprobará previamente ante la Tesorería Municipal.
+Es objeto de este impuesto, la explotación comercial de los juegos siguientes: billar, dominó, dados, juegos de boliche, videojuegos, juegos de azar, juegos electrónicos y los juegos de todo orden en que se apuesta, previstos en la Ley Federal de Juegos y Sorteos y en el Reglamento de la materia, excepto cuando se trate de torneos gratuitos, lo cual se notificará y comprobará previamente ante la Tesorería Municipal.
 
 ###### Artículo 163.
 
@@ -2077,9 +2089,13 @@ II. Los juegos de boliche, por mesa;
 
 III. Videojuegos, por máquina; y
 
-> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-IV. Los juegos de azar y electrónicos, por mesa o máquina electrónica.
+IV. Los juegos de azar y electrónicos, por mesa o máquina electrónica; y
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+V. Juegos de todo orden en que se apuesta, previstos en la Ley Federal de Juegos y Sorteos y en el Reglamento de la materia.
 
 ###### Artículo 166.
 
@@ -2391,9 +2407,9 @@ V. Billares;
 
 VI. Cantinas, bares, centrobotanero y antros;
 
-> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-VII. Casinos;
+VII. Juegos de todo orden en que se apuesta, previstos en la Ley Federal de Juegos y Sorteos y en el Reglamento de la materia;
 
 > <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
 
@@ -2403,9 +2419,9 @@ VIII. Centros de eventos sociales;
 
 IX. Centros deportivos o recreativos;
 
-> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-X. Centros nocturnos y cabarés;
+X. Centros nocturnos con espectáculos públicos en vivo;
 
 > <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
 
@@ -2435,9 +2451,7 @@ XVI. Gasolineras;
 
 XVII. Hoteles y moteles;
 
-> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
-
-XVIII. Hoteles con casino;
+XVIII. (DEROGADA, G.O. 28 DE DICIEMBRE DE 2023)
 
 > <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
 
@@ -2475,9 +2489,9 @@ XXVI. Restaurante-bar;
 
 XXVII. Salón social con extensión de horario;
 
-> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-XXVIII. Servicar;
+XXVIII. Servicar o bebidas alcohólicas preparadas para llevar;
 
 > <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
 
@@ -3085,23 +3099,37 @@ Son objeto de estos derechos los servicios de recolección, transporte y disposi
 
 Son sujetos de estos derechos las personas físicas o morales que sean propietarias, poseedoras o usufructuarias de los predios en que se presten los servicios a que se refiere este capítulo.
 
-> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Están exentos del pago de estos Derechos, los bienes del dominio público de la Federación, del Estado y del Municipio, salvo que estos bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos de los de su objeto público.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Las exenciones se solicitarán por escrito a la Tesorería, debiéndose acompañar de las constancias que demuestren la procedencia de la misma. La Tesorería deberá resolver en un plazo no mayor a treinta días.
+
+> <small>(REFORMADO [N. DE E REPUBLICADO Y REUBICADO], G.O. 28 DE DICIEMBRE DE 2023)</small>
 
 Los sujetos obligados al pago de estos derechos que sean pensionados, jubilados o personas mayores de sesenta años, y, en caso de fallecimiento de éstos, la viuda o concubina legalmente reconocida, y las personas con discapacidad tendrán derecho a un descuento del cincuenta por ciento del importe anual a pagar, previa acreditación fehaciente de los supuestos respectivos, de que el contribuyente resida en el inmueble y de encontrarse al corriente en el pago de este derecho. Esta prerrogativa se aplicará únicamente a un bien inmueble, siempre que se trate de la casa habitación del sujeto obligado al pago de estos derechos y éste no haya transmitido la propiedad del mismo a terceros y el pago se realice durante los meses de enero o febrero del ejercicio fiscal correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO Y REUBICADO, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+El Ayuntamiento, podrá otorgar igualmente el descuento del cincuenta por ciento en el pago de esta contribución a las familias monoparentales primarias y secundarias, siempre que reunan los requisitos señalados en el párrafo anterior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Los titulares de predios cuyos inmuebles se encuentren destinados para la asistencia o beneficiencia (sic); las sociendades (sic) o asociaciones civiles dedicadas a la atención de menores, personas de la tercera edad, discapacitados, farmacodependientes así como las que se dediquen a la protección del medio ambiente y religiosos, tendráb (sic) derecho al descuento del cincuenta por ciento del importe anual, previa acreditación mediante acta constitutiva vigente de encontrarse constituidos como asociaciones civiles, estar al corrientre (sic) en el pago de contribuciones.
+
+> <small>(REFORMADO [N. DE E REPUBLICADO Y REUBICADO], G.O. 28 DE DICIEMBRE DE 2023)</small>
 
 A este descuento no se podrá adicionar el previsto en el artículo 236 de este Código.
 
+> <small>(REFORMADO [N. DE E REPUBLICADO Y REUBICADO], G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 La Tesorería Municipal llevará un padrón de estos contribuyentes, mismo que actualizará en los meses de octubre y noviembre de cada año.
 
+> <small>(REFORMADO [N. DE E REPUBLICADO Y REUBICADO], G.O. 28 DE DICIEMBRE DE 2023)</small>
+
 El Ayuntamiento o los concesionarios podrán rechazar el manejo de residuos cuyas características los hagan de manejo especial, en tanto no se adopten las medidas necesarias para su manejo. Los residuos considerados como peligrosos por la legislación federal en ningún caso deberán ser manejados por los Ayuntamientos.
-
-> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
-
-El Ayuntamiento, por acuerdo del Cabildo, podrá otorgar igualmente el descuento del cincuenta por ciento en el pago de esta contribución a las familias monoparentales primarias y secundarias, siempre que reúnan los requisitos señalados en el párrafo anterior. En este caso, la tesorería municipal informará al Congreso del Estado y al Órgano de Fiscalización Superior sobre el acuerdo referido.
 
 ###### Artículo 234.
 
@@ -3151,9 +3179,9 @@ d) Popular
 
 No serán sujetos del pago de los derechos aquí establecidos los propietarios o poseedores de predios ubicados en colonias populares en que no se preste (sic) los servicios a que se refiere este Capítulo, aun cuando estén considerados como urbanos o suburbanos y se encuentren baldíos; y
 
-> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-II. Por cada industria, comercio, tienda de autoservicio, prestadores de servicios, así como empresas que presenten espectáculos públicos, por kilogramo o por metro cúbico, sin que en ningún caso la cuota resulte menor a la establecida para inmuebles de uso habitacional de tipo residencial.
+II. Por cada industria, comercio, tienda de autoservicio, prestadores de servicios, así como empresas que presenten espectáculos públicos, por kilogramo o por metro cúbico, sin que en ningún caso la cuota resulte menor a la establecida para inmuebles de uso habitacional de tipo popular.
 
 > <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
@@ -3447,9 +3475,9 @@ IV. El estacionamiento en la vía pública se pagará, mediante utilización de 
 
 V. Por la ocupación o uso de sanitarios públicos ubicados en inmuebles o áreas municipales, se causarán y pagarán conforme a las cuotas, tasas o tarifas que, para cada caso, señale la Ley de Ingresos del Municipio, del ejercicio fiscal correspondiente; y
 
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
-VI. Por la ocupación temporal de inmuebles de propiedad municipal, en donde se presenten espectáculos públicos o similares, se causarán y pagarán conforme a las cuotas, tasas o tarifas que, para cada caso, señale la Ley de Ingresos del Municipio, del ejercicio fiscal correspondiente.
+VI. Por la ocupación temporal de bienes muebles e inmuebles de propiedad municipal, en donde se presenten espectáculos públicos o similares, se causarán y pagarán conforme a las cuotas, tasas o tarifas que, para cada caso, señale la Ley de Ingresos del Municipio, del ejercicio fiscal correspondiente.
 
 > <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
@@ -5634,3 +5662,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Las solicitudes presentadas con antelación a la entrada en vigor del presente Decreto, se realizarán en las formas y procedimientos vigentes al momento de presentada dicha solicitud.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 28 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 715 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO HACENDARIO PARA EL MUNICIPIO DE XALAPA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
