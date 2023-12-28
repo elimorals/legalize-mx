@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-fiscalia-general-de-justicia-del-estado-de-mexico-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-09"
-last_updated: "2023-06-22"
+last_updated: "2023-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado Libre y Soberano de México, el viernes 9 de diciembre de 2016.
 
@@ -495,7 +495,7 @@ VII. Denunciar las contradicciones de tesis respecto de la jurisprudencia del Tr
 
 VIII. Promover e intervenir en las controversias constitucionales que procedan, de conformidad con la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.
 
-IX. Vigilar la observancia de lo establecido en la Ley de Contratación Pública del Estado de México y Municipios y demás ordenamientos jurídicos aplicables en materia de adquisiciones, arrendamientos, contratación de servicios y ejecución de obras.
+IX. (DEROGADA, G.G. 28 DE DICIEMBRE DE 2023)
 
 X. Autorizar la estructura orgánica y crear, modificar o suprimir las unidades administrativas necesarias para el cumplimiento de las funciones de la Fiscalía General, de acuerdo al presupuesto establecido, determinando su adscripción y la de su personal.
 
@@ -1425,6 +1425,10 @@ El funcionamiento de la Comisión de Honor y Justicia de la Fiscalía será conf
 
 La Fiscalía realizará las adquisiciones y arrendamientos de bienes, contratación de servicios y obras públicas que requiera, en términos de lo dispuesto en la Constitución Federal, la Constitución del Estado y la Ley de Contratación Pública del Estado de México y Municipios, con sujeción a los principios de economía, eficacia, eficiencia, imparcialidad, transparencia y honradez, a efecto de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes de acuerdo con la naturaleza de la contratación.
 
+> <small>(ADICIONADO, G.G. 28 DE DICIEMBRE DE 2023)</small>
+
+Las facultades de las y los servidores públicos de la Fiscalía para iniciar, substanciar y resolver los procedimientos administrativos y procesos de rescisión de contratos de adquisiciones, arrendamientos de bienes, contratación de servicios y ejecución de obra, se establecerán en el Reglamento o en las demás disposiciones jurídicas aplicables.
+
 ### CAPÍTULO DÉCIMO SEXTO
 
 DE LOS DERECHOS Y OBLIGACIONES DEL PERSONAL OPERATIVO DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO SECCIÓN PRIMERA DE LOS DERECHOS DEL PERSONAL OPERATIVO
@@ -1605,9 +1609,11 @@ En el caso de ausencia definitiva de la o el Fiscal General será suplido por la
 
 Las y los mandos superiores de la Fiscalía serán suplidos en los términos que establezca el Reglamento.
 
+> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 72.
 
-La representación de la o el Fiscal General y mandos de la Fiscalía en procedimientos constitucionales como el juicio de amparo o controversias constitucionales, así como en procedimientos contenciosos de cualquier naturaleza, será por conducto de las y los servidores públicos de las unidades administrativas con función jurídico contenciosa, en los términos que establezcan el Reglamento y las normas aplicables.
+La representación de la o el Fiscal General y mandos de la Fiscalía en procedimientos constitucionales como el juicio de amparo o controversias constitucionales, los procedimientos contenciosos de cualquier naturaleza, así como en los procesos administrativos, será por conducto de las y los servidores públicos de las unidades administrativas con función jurídico contenciosa, en los términos que establezcan el Reglamento y las normas aplicables.
 
 ## TRANSITORIOS
 
@@ -1944,3 +1950,11 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 28 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 234.- POR EL QUE SE REFORMA EL ARTÍCULO 72; SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 59; Y SE DEROGA LA FRACCIÓN IX DEL ARTÍCULO 25 DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
