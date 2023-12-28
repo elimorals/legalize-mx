@@ -4,7 +4,7 @@ identifier: "LGSM"
 country: "mx"
 rank: "ley_general"
 publication_date: "1934-08-04"
-last_updated: "2023-10-20"
+last_updated: "2023-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=578&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGSM"
 
 [NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
-[NOTA 2. PARA CONOCER EL FACTOR DE ACTUALIZACIÓN A LOS INGRESOS TOTALES ANUALES DE UNA SOCIEDAD POR ACCIONES SIMPLIFICADA CONFORME A LO DISPUESTO EN EL ARTÍCULO 260 DE LA PRESENTE LEY, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL D.O.F. DE 27 DE DICIEMBRE DE 2022.]
+[NOTA 2. PARA CONOCER EL FACTOR DE ACTUALIZACIÓN A LOS INGRESOS TOTALES ANUALES DE UNA SOCIEDAD POR ACCIONES SIMPLIFICADA CONFORME A LO DISPUESTO EN EL ARTÍCULO 260 DE LA PRESENTE LEY, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL D.O.F. DE 28 DE DICIEMBRE DE 2023.]
 
 LEY GENERAL DE SOCIEDADES MERCANTILES
 
@@ -2102,7 +2102,7 @@ Las asociaciones en participación funcionan, se disuelven y liquidan, a falta d
 
 ### CAPITULO XIV. De la sociedad por acciones simplificada
 
-> <small>[N. DE E. PARA CONOCER EL FACTOR DE ACTUALIZACIÓN A LOS INGRESOS TOTALES ANUALES DE UNA SOCIEDAD POR ACCIONES SIMPLIFICADA CONFORME A LO DISPUESTO EN EL PRESENTE ARTÍCULO, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL D.O.F. DE 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. PARA CONOCER EL FACTOR DE ACTUALIZACIÓN A LOS INGRESOS TOTALES ANUALES DE UNA SOCIEDAD POR ACCIONES SIMPLIFICADA CONFORME A LO DISPUESTO EN EL PRESENTE ARTÍCULO, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL D.O.F. DE 28 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE MARZO DE 2016)</small>
 
@@ -2523,3 +2523,9 @@ Segundo.- Las personas morales constituidas con anterioridad a la entrada en vig
 Tercero.- Las reformas al segundo párrafo del artículo 81 entrarán en vigor en un plazo de seis meses contados a partir de su publicación en el Diario Oficial de la Federación.
 
 Cuarto.- Las sociedades constituidas antes de la reforma referida en el artículo tercero transitorio, deberán sujetarse a dicha disposición publicando las convocatorias en el sistema electrónico establecido por la Secretaría de Economía conforme a lo dispuesto en el artículo 50 Bis del Código de Comercio con los requisitos establecidos en dicha reforma, independientemente de que sus estatutos contemplen que se realizarán por otro medio.
+
+D.O.F. 28 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE DA A CONOCER EL FACTOR DE ACTUALIZACIÓN A LOS INGRESOS TOTALES ANUALES DE UNA SOCIEDAD POR ACCIONES SIMPLIFICADA, CONFORME A LO DISPUESTO EN EL ARTÍCULO 260 DE LA LEY GENERAL DE SOCIEDADES MERCANTILES”.]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2024.
