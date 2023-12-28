@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-la-gestion-integral-del-municipio-de-170590"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-07-15"
-last_updated: "2023-10-25"
+last_updated: "2023-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 25 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 28 DE DICIEMBRE DE 2023.
 
 Reglamento publicado en el Suplemento de la Gaceta Municipal del Estado de Guadalajara, el viernes 15 de julio de 2016.
 
@@ -355,7 +355,9 @@ XII. La Dirección de Participación Ciudadana;
 
 XIII. La Dirección de Protección Civil y Bomberos; y
 
-XIV. Las demás que señalen las disposiciones jurídicas aplicables.
+> <small>(REFORMADA, G.M. 28 DE DICIEMBRE DE 2023)</small>
+
+XIV. Dirección de Licencias de Construcción.
 
 ###### Artículo 5.
 
@@ -809,7 +811,7 @@ e) (DEROGADO, G.M. 20 DE DICIEMBRE DE 2017)
 
 IV. Impacto Alto: En las zonas con esta denominación, los usos y destinos, permitidos o condicionados, observarán los siguientes lineamientos de control de impacto:
 
-a) No son asimilables a la vivienda;
+a) (DEROGADO, G.M. 28 DE DICIEMBRE DE 2023)
 
 > <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
@@ -825,9 +827,9 @@ e) Generan residuos sólidos, que incluyen, además del tipo municipal, desechos
 
 f) (DEROGADO, G.M. 20 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 28 DE DICIEMBRE DE 2023)</small>
 
-V. Impacto Máximo: En las zonas con esta denominación, los Usos y Destinos, permitidos o condicionados, observaran los siguientes lineamientos de control de impacto:
+V. Impacto Máximo: En las zonas con esta denominación, los usos y destinos, permitidos o condicionados, observaran los siguientes lineamientos de control de impacto:
 
 > <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
@@ -857,6 +859,10 @@ i) Requieren del uso de equipos de transporte con capacidad mayor a 30- treinta 
 
 j) Aun contando con área para carga y descarga, utiliza vehículos pesados que afectan la circulación del lugar o lo hace en horas inhábiles.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 28 DE DICIEMBRE DE 2023)</small>
+
+k) La vivienda será condicionada, y en caso necesario se sujetará a las medidas de mitigación determinadas por la normatividad aplicable y las autoridades competentes.
+
 > <small>(ADICIONADO, G.M. 16 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 29 Bis.
@@ -875,6 +881,14 @@ V. Predios de propiedad privada que desarrollen actividades y acciones de asiste
 
 VI. Predios de propiedad privada donde se presten servicios de educación preescolar y guarderías.
 
+> <small>(ADICIONADO, G.M. 28 DE DICIEMBRE DE 2023)</small>
+
+Artículo 29 ter. Cuando en los Planes Parciales de Desarrollo Urbano y en la zonificación secundaria se determinen usos de suelo predominante de comercio y servicios Impacto Máximo (CS5) se podrán considerar como compatibles los desarrollos habitacionales de vivienda plurifamiliar; siempre y cuándo obtengan el dictamen de viabilidad urbanística de las Direcciones de Movilidad y Transporte, Protección Civil, Medio Ambiente y Promoción a la Vivienda, de conformidad a sus respectivas competencias.
+
+Previo a la emisión de la Licencia de Construcción, las Direcciones de Medio Ambiente y de Movilidad y Transporte, en caso de ser necesario, determinarán las medidas de mitigación del impacto en la zona.
+
+Los predios en este supuesto no podrán acceder al ICOS y garantizarán la restricción posterior correspondiente.
+
 > <small>(REFORMADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 30.
@@ -891,21 +905,17 @@ III. Prohibidos: Aquellos que no cumplen con alguna de las dos fracciones anteri
 
 En cualquier caso, las Direcciones de Ordenamiento del Territorio, de Movilidad y Transporte, de Medio Ambiente, y de Licencias de Construcción, podrán indicar otras condicionantes contempladas en la normatividad aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.M. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 31.
 
-La Matriz de Compatibilidad, es el instrumento mediante el cual, se define la compatibilidad de Usos y Destinos en las Zonas Secundarias, estableciéndose los usos permitidos, condicionados y prohibidos para cada una de las zonas. Para determinar la permisibilidad, deberá leerse de manera horizontal desde la Zona Secundaria en la que se encuentre clasificado el Predio de referencia (A), cruzándose con los Usos y Destinos establecidos para cada zona (B). La letra P se refiere a que el uso se encuentra permitido; la letra C, se refiere a que el uso se encuentra condicionado, y la letra X, a que el uso se encuentra prohibido (Tabla 2):
+La Matriz de Compatibilidad, es el instrumento mediante el cual, se define la compatibilidad de Usos y Destinos en las Zonas Secundarias, estableciéndose los usos permitidos, condicionados y prohibidos para cada una de las zonas.
 
-* La tabla queda en sus términos.
+Para determinar la permisibilidad, deberá leerse de manera horizontal desde la Zona Secundaria en la que se encuentre clasificado el Predio de referencia (A), cruzándose con los Usos y Destinos establecidos para cada zona (B). La letra P se refiere a que el uso se encuentra permitido; la letra C, se refiere a que el uso se encuentra condicionado, y la letra X, a que el uso se encuentra prohibido (Tabla2):
 
-> <small>[N. DE E. VÉASE TABLA EN LA G.M. DE 15 DE JULIO DE 2016, PÁGINA 21.]</small>
+> <small>[N. DE E. VÉASE TABLA EN LA G.M. DE 28 DE DICIEMBRE DE 2023, PÁGINA 4.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA G.M. DE 24 DE ABRIL DE 2017 PÁGINA 11; 20 DE DICIEMBRE DE 2017, PÁGINA 9 .]</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 16 DE DICIEMBRE DE 2019)</small>
-
-Habrá excepciones y condiciones especiales a la Matriz de Compatibilidad, para algunas actividades económicas o giros, las cuales estarán previstas en el reglamento para el Funcionamiento de Giros Comerciales, Industriales y de Prestación de Servicios en el Municipio de Guadalajara.
+Habrá excepciones y condiciones especiales a la Matriz de Compatibilidad, para algunas actividades económicas o giros, las cuales estarán previstas en el Reglamento para el Funcionamiento de Giros Comerciales, Industriales y de Prestación de Servicios en el Municipio de Guadalajara.
 
 > <small>(REFORMADO, G.M. 16 DE DICIEMBRE DE 2019)</small>
 
@@ -937,7 +947,9 @@ b) Se permitirá la ocupación por actividades de prestación de servicios, en l
 
 3. Predios de propiedad privada donde se desarrollen actividades del sector público;
 
-4. Predios de propiedad privada que desarrollen actividades y acciones de asistencia social, debidamente acreditadas; y
+> <small>(REFORMADO, G.M. 28 DE DICIEMBRE DE 2023)</small>
+
+4. Predios de propiedad privada que desarrollen actividades, acciones de asistencia social, educativa y del sector salud debidamente acreditadas; y
 
 5. Predios de propiedad privada donde se presten servicios de educación preescolar y guarderías.
 
@@ -1007,9 +1019,9 @@ III. Para la acreditación de los derechos adquiridos en la permisibilidad de Gi
 
 IV. En los casos de construcciones que hayan sido edificadas con anterioridad a la existencia de Normas de Control a la Urbanización y Edificación y rebasen lo permitido en los Planes Parciales, no se permitirán obras de ampliación sobre la superficie de desplante del Predio, sin embargo podrá ampliarse en elevación, sin alterar su COS actual, acatando estrictamente su CUS si es que no lo ha rebasado. Cuando dichas construcciones sufran daños o colapsos estructurales, y que se requieran obras tendientes a reparar, rehabilitar o reforzar la estructura, no se perderán los derechos adquiridos, referente al coeficiente de ocupación de suelo. Cuando se demuela para realizar una nueva construcción en sustitución de la anterior, esta deberá respetar las permisibilidades y las Normas de Control a la Urbanización y Edificación señaladas en el Plan Parcial vigente; y
 
-> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, G.M. 28 DE DICIEMBRE DE 2023)</small>
 
-V. Para predios donde exista edificación de dos o más unidades privativas que pretendan subdividirse o constituir un régimen de condominio, y las fracciones resultantes o el Predio no cumplan con frentes o superficies mínimas requeridas, podrá ser autorizada la subdivisión o el régimen de condominio, únicamente si presenta Licencia de Construcción, la certificación de planos donde se demuestren situación de hecho o si acredita las dimensiones existentes del Predio con escritura pública, boletas prediales, comprobantes de pago de agua, luz, historial catastral de al menos 5 años de antigüedad o imágenes satelitales validadas por el Área de licencias y permisos de construcción de la Dirección de Obras Públicas. La subdivisión será autorizada siempre y cuando las fracciones resultantes presenten muros divisorios e instalaciones totalmente independientes, y en caso contrario, se autorizará un régimen de condominio.
+V. Para predios donde exista edificación de dos o más unidades privativas que pretendan subdividirse o construir un régimen de condominio, y las fracciones resultantes o el Predio no cumplan con frentes o superficies mínimas requeridas, podrá ser autorizada la subdivisión o el régimen de condominio, únicamente si presenta Licencia de Construcción, la certificación de planos donde se demuestren (sic) situación de hecho o si acredita las dimensiones existentes del Predio con escritura pública, boletas prediales, comprobantes de pago de agua, luz, historial catastral de al menos 5 años de antigüedad o imágenes satelitales validadas por la Dirección de Licencias de Construcción. La subdivisión será autorizada siempre y cuando las fracciones resultantes presenten muros divisores e instalaciones totalmente independientes, y en caso contrario, se autorizará un régimen de condominio.
 
 ### CAPÍTULO III. Lineamientos Generales de Control a la Urbanización y la Edificación
 
@@ -1061,11 +1073,11 @@ III. (DEROGADA, G.M. 20 DE DICIEMBRE DE 2017)
 
 Dichos predios, ya no podrán subdividirse en fracciones menores, y deberán cumplir cabalmente, con el resto de las Normas de Control a la Urbanización y la Edificación y con los lineamientos establecidos por la Dirección, en su caso.
 
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, G.M. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 44.
 
-Se podrá autorizar la subdivisión de un Predio con un dimensionamiento menor a lo establecido en las Normas de Control a la Urbanización y la Edificación, siempre y cuando las edificaciones estén totalmente independientes y se acredite dicha situación con una antigüedad mayor a 5 años mediante escritura pública, boletas prediales, comprobantes de pago de agua, luz, historial catastral de al menos 5 años de antigüedad o imágenes satelitales validadas por la Dirección de Obras Públicas.
+Se podrá autorizar la subdivisión de un Predio con un dimensionamiento menor a lo establecido en las Normas de Control a la Urbanización y la Edificación, siempre y cuando las edificaciones estén totalmente independientes y se acredite dicha situación con una antigüedad mayor a 5 años mediante escritura pública, boletas prediales, comprobantes de pago de agua, luz, historial catastral de al menos 5 años de antigüedad o imágenes satelitales validadas por la Dirección de Licencias de Construcción.
 
 > <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
@@ -1083,7 +1095,9 @@ IV. El comercio y servicio será permitido en planta baja de conformidad con las
 
 V. Las escaleras podrán ubicarse dentro de la restricción frontal, siempre y cuando estos espacios no estén cubiertos, estén dentro de la propiedad, no obstruyan la iluminación y ventilación de un espacio habitable y no alteren de manera negativa la imagen urbana del contexto inmediato;
 
-VI. Para el trámite de desdoblamiento no se requiere de la emisión de un Dictamen de Trazo, Usos y Destinos Específicos, por lo que podrá tramitarse directamente ante la Dirección de Obras Públicas; y
+> <small>(REFORMADA, G.M. 28 DE DICIEMBRE DE 2023)</small>
+
+VI. Para el trámite de desdoblamiento no se requiere de la emisión de un Dictamen de Trazo, Usos y Destinos Específicos, por lo que podrá tramitarse directamente ante la Dirección de Licencias de Construcción; y
 
 VII. Para cualquier acción de desdoblamiento no será obligatorio otorgar cajones de estacionamiento.
 
@@ -1272,6 +1286,86 @@ Las Normas de Control a la Urbanización y la Edificación para las zonas indust
 ###### Artículo 58.
 
 Las Normas de Control a la Urbanización y la Edificación establecidas en el presente Reglamento, serán aplicables en la totalidad del territorio municipal, señalándose en los Planes Parciales, las zonas donde aplique el ICUS así como sus valores, además de las zonas receptoras de Transferencia de Derechos de Desarrollo Urbano.
+
+> <small>(ADICIONADO, G.M. 28 DE DICIEMBRE DE 2023)</small>
+
+Artículo 58 bis. Las restricciones deberán observar lo siguiente:
+
+I. Las restricciones frontales observarán las siguientes condiciones:
+
+a) Se deberá cumplir con la o las restricciones frontales señaladas en las Normas de Control de la Urbanización y la Edificación, que se entenderán libre de edificación o cubiertas ligeras de textiles o lonarias;
+
+b) Cuando se indique una restricción frontal de cero (0) metros en el (sic) Zona de Protección del Centro Histórico (Perímetro A), el parámetro de la edificación no estará en ningún caso remetido más de cincuenta (50) centímetros del lindero frontal del lote;
+
+c) Se indicará un porcentaje de ajardinamiento obligatorio, que deberá estar libre de recubrimientos impermeables y que deberá contener vegetación que contribuya al mejoramiento del contexto urbano. Su cómputo será en superficie y no en metros lineales; y
+
+d) Se determinan como excepciones al cumplimiento de las restricciones frontales, en aplicación de lo dispuesto por el artículo 161 fracción II del Código Urbano para el Estado de Jalisco, que remite a las normas de control de densidad de la edificación y urbanización del contexto, las siguientes:
+
+1. Cuando al aplicar la restricción frontal, la superficie de desplante edificable de un lote resulte menor al cincuenta por ciento (50%), la restricción frontal podrá reducirse a la mitad;
+
+2. En predios con dos o más linderos frontales, la restricción frontal corresponderá a la señalada en la zona. En caso de colindar con una zona con una restricción distinta, se optará por la restricción señalada en la zona colindante de la misma manzana o vialidad; y
+
+3. En caso de existir algún interés municipal sobre las restricciones frontales por Restricción por Infraestructura (RI).
+
+II. La restricción posterior observará las siguientes condiciones:
+
+a) La restricción posterior medirá el veinticinco por ciento (25%) de la altura de la edificación, medida esta última por la cota vertical que va desde el punto más alto de la edificación hasta el nivel de la banqueta, a partir del punto medio del lindero frontal. No será menor a tres (3) metros para cualquier edificación, salvo en las excepciones expresamente indicadas en el numeral 3 del presente artículo;
+
+b) Se podrán generar escalonamientos en la edificación, en donde cada nivel deberá cumplir con la restricción resultante de aplicar lo señalado en el punto anterior; y
+
+c) Excepciones al cumplimiento de la restricción posterior, en aplicación de lo dispuesto por el artículo 161 fracción II del Código Urbano para el Estado de Jalisco, que remite a las normas de control de densidad de la edificación y urbanización del contexto:
+
+1. Cuando se trate de lotes cabeceros cuyo lindero posterior colinde con linderos laterales de lotes contiguos, la restricción especificada en el numeral 1 del presente artículo quedará sin efecto, pero sólo en la parte adyacente con la edificación vecina no sujeta a restricción posterior;
+
+2. Cuando un lote colinde en su parte posterior con una edificación existente que no tenga restricción posterior, será permitido ocupar la restricción posterior para nueva edificación, siempre que la altura de la fachada posterior del edificio sea menor a tres (3) niveles o diez (10) metros, y únicamente en la sección de la edificación del lote colindante que esté invadiendo completamente la restricción. A partir de cuatro (4) niveles o diez (10) metros de altura, la nueva edificación deberá garantizar la restricción posterior en las dimensiones que se señalan en el numeral 1 del presente artículo, salvaguardando así el debido asoleamiento y ventilación sobre los predios vecinos;
+
+3. Será permitida la ocupación parcial o total de la restricción posterior en la primera planta, siempre que la edificación o estructura tenga una altura máxima de tres (3) metros, sin perjuicio de la garantía de patios de ventilación e iluminación;
+
+4. Los predios cuyo lindero posterior colinde con Espacios Abiertos de titularidad pública, quedan exentos del cumplimiento de la restricción posterior. No serán autorizables ingreso y salidas principales, y sólo será permitido un acceso secundario y peatonal siempre que se obtenga la aprobación expresa por parte del Ayuntamiento;
+
+5. Para zonas con uso I1, I2, I3, I4 e I5, la restricción posterior será de cero (0) metros;
+
+6. Los predios con usos I3, I4, I5 y CS5, que colinden con predios con usos distintos, excepto RI y EA, la restricción posterior no será en ningún caso menor a diez (10) metros y no podrá contener edificaciones; y
+
+7. Tratándose de urbanizaciones y edificaciones destinadas a la vivienda de interés social y vivienda media, que no rebasen las setecientas cincuenta (750) Unidades de Medida y Actualización (UMA) mensuales, y que se traten de programas para la redensificación y repoblamiento urbano avalados por la Dirección de Ordenamiento del Territorio (DOT), la restricción posterior será de tres (3) metros, siempre que la altura de la fachada posterior del edificio sea menor a dieciocho (18) metros y no mayor a cinco (5) niveles. En este caso, las circulaciones verticales, equipos e instalaciones en azoteas, no se encontrarán a menos de cinco (5) metros del lindero posterior del lote.
+
+III. Par (sic) las edificaciones nuevas, la restricción lateral cumplirá lo siguiente:
+
+a) Las dimensiones serán señaladas en las Normas de control de la urbanización y la edificación de acuerdo con el plan parcial de desarrollo urbano vigente.
+
+> <small>(ADICIONADO, G.M. 28 DE DICIEMBRE DE 2023)</small>
+
+Artículo 58 ter. La altura de la edificación deberá guardar la relación con el ancho de vía pública, considerando lo siguiente:
+
+I. Altura en relación con el ancho de vía pública.
+
+a) La altura no podrá rebasar el plano límite que se proyecta con un ángulo de cincuenta y seis grados sexagesimales (56°), medidos con respecto al plano de la cota de origen que inicia en el límite opuesto de la sección transversal de la vialidad. En los casos donde el límite opuesto no dé frente a un lindero de la misma vialidad, el límite opuesto será el del lote más cercano que dé frente a un lindero frontal de la misma vialidad, conforme el artículo 161 fracción II del Código Urbano para el Estado de Jalisco, que remite a las normas de control de densidad de la edificación y urbanización del contexto;
+
+b) En lotes en esquina; que colinde con dos vialidades, la referencia de la altura se tomará con la calle de mayor anchura;
+
+c) En lotes con fachadas a calles opuestas, es decir, que existan linderos frontales no adyacentes y den frente a diferentes vialidades, la altura se limitará con la aplicación de los planos límites correspondientes a ambas vialidades;
+
+d) En lotes que sean cabeceras de manzana, es decir, que colinden con tres o más vialidades la altura se limitará con la aplicación de los planos límites correspondientes a ambas vialidades en linderos frontales no adyacentes;
+
+e) A fin de dar cumplimiento a la presente norma, las fachadas de las edificaciones podrán escalonarse, evitando así que éstas sigan planos inclinados;
+
+f) El plano límite no podrá rebasarse por ningún motivo que no sean los contenidos en lo siguiente:
+
+1. Barandillas o remates ornamentales, cuya suma de alturas no podrán rebasar ciento cincuenta (150) centímetros de la losa;
+
+2. Se permiten instalaciones deportivas al aire libre, siempre que ningún elemento constructivo sobrepase el plano límite;
+
+3. Cuando resulte permitido en la zona, los conductos o las antenas de los sistemas de telecomunicación; con las alturas y dimensiones que en orden a su correcto funcionamiento determine el reglamento de la materia;
+
+4. Ornamentos aislados o elementos de cerrajería;
+
+5. Los paneles de captación de energía solar;
+
+6. Los anuncios publicitarios encima de los edificios, siempre que la normativa sectorial lo permita; y
+
+7. Instalaciones relacionadas con procesos industriales, sólo en las Zonas con uso predominante Industrial.
+
+g) Se podrá admitir la superación del plano límite cuando por razones técnicas derivadas de la normativa de protección a la imagen urbana de los Perímetros de Protección al Patrimonio, se determinen necesarios.
 
 ### CAPÍTULO IV. De las Zonas Habitacionales
 
@@ -1817,7 +1911,9 @@ Dentro de los PIUEs, las áreas de cesión podrán permutarse por las siguientes
 
 I. Obras de Infraestructura: Se calculará a razón a la superficie de área de cesión que estaría obligado a otorgar y permutar, dependiendo del porcentaje por el tipo de Acción Urbanística, y considerando el costo del terreno, más el costo prorrateado de la infraestructura y del equipamiento, por metro cuadrado, que el urbanizador haya sufragado o deba sufragar; y
 
-II. El valor que tendría dicha área de cesión, será el que se destine a obras de infraestructura. El proyecto de obra de infraestructura se ubicará en el área colindante al Predio de la Acción Urbanística y deberá ser previamente validado por la Dirección de Obras Públicas.
+> <small>(REFORMADA, G.M. 28 DE DICIEMBRE DE 2023)</small>
+
+II. El valor que tendría dicha área de cesión, será el que se destine a obras de infraestructura. El proyecto de obra de infraestructura se ubicará en el área colindante al Predio de la Acción Urbanística y deberá ser previamente validado por la Dirección de Licencias de Construcción.
 
 ### CAPÍTULO VIII. Transferencia de Derechos de Desarrollo Urbano
 
@@ -2219,69 +2315,131 @@ II. Para mujeres dos inodoros y un lavabo; y
 
 III. Cumplir con lo estipulado en la legislación estatal y municipal referente a servicios para personas con discapacidad.
 
-> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 28 DE DICIEMBRE DE 2023)</small>
 
-Artículo 121 Terdecies. Para obtener la Licencia de Construcción para estaciones de servicio deberá ingresar en la Dirección de Obras Públicas la solicitud multitrámite acompañada de los siguientes documentos:
+Artículo 121 Terdecies. Para obtener la Licencia de Construcción para estaciones de servicio deberá ingresar en la Dirección de Licencias de Construcción la solicitud multitrámite acompañada de los siguientes documentos:
+
+> <small>(ADICIONADA, G.M. 12 DE ABRIL DE 2018)</small>
 
 I. Para estaciones de servicio nuevas:
 
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+
 a) Dictamen de Trazo, Usos y Destinos Específicos favorable;
+
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
 
 b) Resolutivo de la Manifestación (o Informe Preventivo) de Impacto Ambiental emitido por la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, ASEA, favorable;
 
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+
 c) Resolutivo en materia de Impacto Social por parte de la Secretaría de Energía, SENER;
+
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
 
 d) Reporte de Evaluación Técnica del Diseño por parte del Tercero Especialista autorizado por la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, ASEA, acompañado de los planos sellados por el Tercero Especialista firmados por el Director Responsable de Obra;
 
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+
 e) Planos de Instalación Eléctrica revisados y avalados por la Unidad Verificadora de Instalaciones Eléctricas;
+
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
 
 f) Estudio de mecánica de suelos firmado por el Director Responsable de Obra y el responsable del laboratorio que realizó el estudio;
 
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+
 g) Estudios solicitados en el Dictamen de Trazo, Usos y Destinos Específicos, con los dictámenes favorables respectivos de las dependencias correspondientes;
+
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
 
 h) Certificado de Alineamiento y número oficial;
 
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+
 i) Escritura debidamente inscrita en el Registro Público de la Propiedad del predio en que se pretende edificar. En caso de que vaya a realizar alguna demolición, deberá acompañar el Certificado de Libertad de Gravamen con una antigüedad no mayor a tres meses de su expedición;
+
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
 
 j) Identificación oficial del propietario. En caso de realizar el trámite por conducto de un promotor, este deberá presentar carta poder firmada por el propietario y dos testigos, acompañando esta con la identificación oficial de cada uno de los que intervienen;
 
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+
 k) Recibo de pago actualizado del impuesto predial;
+
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
 
 l) Recibo de pago actualizado del Sistema Intermunicipal de Agua Potable y Alcantarillado, SIAPA, además de la información que se requiera por este organismo en archivo digital PDF para la solicitud de la factibilidad respectiva a través del portal del Sistema Intermunicipal de Agua Potable y Alcantarillado, SIAPA;
 
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+
 m) Copia de identificación del Director Responsable de Proyecto y Obra de Edificación;
+
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
 
 n) Visto bueno o dictamen favorable de la Dirección de Movilidad y Transporte del municipio, para el proyecto propuesto;
 
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+
 o) Cuatro juegos de planos arquitectónicos y dos juegos de planos estructurales firmados por el propietario o representante legal y el Director Responsable de Obra; y
+
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
 
 p) Estudio de infraestructura favorable por la Dirección de Obras Públicas.
 
+> <small>(ADICIONADA, G.M. 12 DE ABRIL DE 2018)</small>
+
 II. Para cambios de proyecto, remodelaciones y ampliaciones deberá integrar el expediente con los siguientes documentos y planos:
+
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
 
 a) Resolutivo del Informe Preventivo de Impacto Ambiental emitido por la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, ASEA, favorable para la remodelación;
 
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+
 b) Reporte de Evaluación Técnica del Diseño de la Remodelación por parte de Tercero Especialista autorizado por la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, ASEA, acompañado de los planos sellados por el Tercero Especialista, firmados por el Director Responsable de Obra;
+
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
 
 c) Planos de Instalación Eléctrica revisados y avalados por la Unidad Verificadora de Instalaciones Eléctricas; y
 
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+
 d) Estudio de mecánica de suelos firmados por el Director Responsable de Obra y el responsable del laboratorio que realizó el estudio.
 
-III. Al concluir la obra se deberá recabar Certificado de Habitabilidad ante la Dirección de Obras Públicas debiendo presentar lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 28 DE DICIEMBRE DE 2023)</small>
+
+III. Al concluir la obra se deberá recabar Certificado de Habitabilidad ante la Dirección de Licencias de Construcción debiendo presentar lo siguiente:
+
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
 
 a) Solicitud multitrámite firmada por propietario o representante legal y Director Responsable de Obra;
 
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+
 b) Identificación oficial del propietario. En caso de realizar el trámite por conducto de un promotor, este deberá presentar carta poder firmada por el propietario y dos testigos, acompañando esta con la identificación oficial de cada uno de los que intervienen;
+
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
 
 c) Copia de identificación del Director Responsable de Proyecto y Obra de Edificación;
 
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+
 d) Original de la(s) licencia(s) de construcción, planos autorizados y bitácora(s) de obra;
+
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
 
 e) Constancia de cumplimiento técnico emitida por el Sistema Intermunicipal de Agua Potable y Alcantarillado, SIAPA o el organismo operador del agua que corresponda;
 
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+
 f) Oficio de cumplimiento o liberación de condicionantes del resolutivo de Impacto Ambiental emitido por la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, ASEA;
 
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+
 g) Reporte de Evaluación Técnica del proceso constructivo por parte de Tercero Especialista autorizado por la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, ASEA; y
+
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
 
 h) Representación gráfica del permiso de expendio de Petrolíferos en Estación de Servicio emitido por la Comisión Reguladora de Energía.
 
@@ -2547,7 +2705,9 @@ a) El proyecto de reglamento al que se sujetarán los adquirientes de los predio
 
 b) La autorización de las dependencias y organismos federales, o sus concesionarios, que controlen los diferentes servicios públicos. El Proyecto Definitivo de Urbanización se integrará con los documentos, que exige (sic) los artículos 234 y 235 del Código.
 
-V. Las demás que por la naturaleza de la Acción Urbanística dispongan los ordenamientos aplicables o lo que requiera la Dirección de Obras Públicas.
+> <small>(REFORMADA, G.M. 28 DE DICIEMBRE DE 2023)</small>
+
+V. Las demás que por la naturaleza de la Acción Urbanística dispongan los ordenamientos aplicables o lo que requiera la Dirección de Licencias de Construcción. Habiendo sido aprobado el Proyecto Definitivo de Urbanización por parte de la Dirección de Obras Públicas, esta emite la Licencia de Urbanización una vez que se haya enterado el pago de los derechos respectivos, de acuerdo a la Ley de Ingresos del Municipio vigente, en el tiempo máximo de respuesta establecido de 5 días hábiles.
 
 > <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
@@ -2583,15 +2743,13 @@ Los proyectos técnicos presentados, deberán ser revisados y avalados por el á
 
 Para otorgar la autorización de la Licencia de Urbanización, se deberá haber cumplido conforme a lo señalado en el Capítulo II, artículos del 247 al 266 del Código.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, G.M. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 150.
 
-Recibida la manifestación de terminación de obra, la Dirección de Obras Públicas realizará la inspección correspondiente para verificar el cumplimiento de los requisitos señalados en la Licencia de Urbanización respectiva, comparando lo ejecutado con los planos de proyecto y demás documentos que hayan servido de base para el otorgamiento de la Licencia de Urbanización. Una vez cumplido lo anterior, se procede a la entrega de la obra por parte del urbanizador y a la recepción de la misma por parte de la autoridad municipal, a través de un acta de certificación de hechos ante Notario Público, constituyéndose desde este momento la autoridad municipal, como responsable de la operación y mantenimiento de las obras de urbanización. La Dirección de Obras Públicas permitirá diferencias en la obra ejecutada con respecto al proyecto aprobado, siempre y cuando las mismas sean manifestadas a la autoridad municipal para su previa autorización y que no afecten las restricciones y condiciones marcadas en el Programa, el Plan y/o los Planes Parciales o en los dictámenes y normas de este Reglamento.
+Recibida la manifestación de terminación de obra, la Dirección de Licencias de Construcción realizará la inspección correspondiente para verificar el cumplimiento de los requisitos señalados en la Licencia de Urbanización respectiva, comparando lo ejecutado con los planos de proyecto y demás documentos que hayan servido de base para el otorgamiento de la Licencia de Urbanización. Una vez cumplido lo anterior, se procede a la entrega de la obra por parte del urbanizador y a la recepción de la misma por parte de la autoridad municipal, a través de un acta de certificación de hechos ante Notario Público, constituyéndose desde este momento la autoridad municipal, como responsable de la operación y mantenimiento de las obras de urbanización. La Dirección de Licencias de Construcción permitirá diferencias en la obra ejecutada con respecto al proyecto aprobado, siempre y cuando las mismas sean manifestadas a la autoridad municipal para su previa autorización y que no afecten las restricciones y condiciones marcadas en el Programa, el Plan y/o los Planes Parciales o en los dictámenes y normas de este Reglamento.
 
-Si como resultado de la inspección y el cotejo de la documentación correspondiente, apareciera que la obra no se ajustó a las normas, restricciones y licencia autorizada, la Dirección de Obras Públicas aplicará las sanciones correspondientes y ordenará al urbanizador efectuar las modificaciones que fuesen necesarias y en tanto estas no se ejecuten a satisfacción de la propia autoridad, las obras no serán recibidas.
-
-Para realizar la recepción de las obras de urbanización autorizadas bajo una licencia otorgada por la autoridad municipal, se apegarán a lo dispuesto en los artículos 299, 300, 301 y 304 del Código.
+Si como resultado de la inspección y el cotejo de la documentación correspondiente, apareciera que la obra no se ajustó a las normas, restricciones y licencia autorizada, la Dirección de Licencias de Construcción aplicará las sanciones correspondientes y ordenará al urbanizador efectuar las modificaciones que fuesen necesarias y en tanto estas no se ejecuten a satisfacción de la propia autoridad, las obras no serán recibidas. Para realizar la recepción de las obras de urbanización autorizadas bajo una licencia otorgada por la autoridad municipal, se apegarán a lo dispuesto en los artículos 299, 300, 301 y 304 del Código.
 
 ###### Artículo 151.
 
@@ -2603,9 +2761,11 @@ Para el caso de obras de urbanización en Predio bajo régimen jurídico condomi
 
 Es requisito indispensable para las obras de urbanización, el otorgar por parte del urbanizador, una fianza de conformidad a la Ley de Ingresos vigente, con el fin de garantizar los vicios ocultos de las obras, por un plazo no menor de 2 años a partir de la fecha de recepción y certificado de habitabilidad en su caso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 153.
 
-La vigencia de las Licencias de Urbanización que expida la Dirección de Obras Públicas será por un plazo de hasta 24 meses, pudiendo el interesado solicitar prórroga conforme a lo que señale el artículo 273 del Código y hasta por un máximo de 12 meses más, para completar 36 meses de plazo total.
+La vigencia de las Licencias de Urbanización que expida la Dirección de Licencias de Construcción será por un plazo de hasta 36 meses, pudiendo el interesado solicitar prórroga conforme a lo que señale el artículo 273 del Código.
 
 Terminado el plazo para urbanizar señalado en la Licencia de Urbanización sin que esta se haya concluido, para continuarla deberá solicitar su refrendo respectivo para estar vigente cubriendo los derechos correspondientes establecidos en la Ley de Ingresos vigente.
 
@@ -2619,11 +2779,35 @@ Con fundamento en lo que señala el artículo 267 fracción III del Código, la 
 
 Para estar en posibilidades de iniciar una preventa en cualquiera de los tipos de Uso o Destino, deberá solicitarlo a la autoridad municipal correspondiente, cumpliendo con los requisitos que establezca la misma autoridad, y con fundamento en lo que señala el artículo 298 del Código.
 
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, G.M. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 156.
 
-Cuando se pretenda realizar obras de urbanización, condominios o conjuntos habitacionales, subdivisiones y relotificaciones en cualquiera de los tipos de zona, y que de acuerdo a su respectivo Plan Parcial de Desarrollo Urbano presente restricción por traza vial, automáticamente deberá tramitar su Licencia de Urbanización y por ende la aplicación de la normatividad correspondiente, como es el caso de las Áreas de Cesión para Destinos.
+Cuando se pretenda realizar cualquier acción urbanística en zonas distintas a las de Reserva Urbana, y que de acuerdo a su respectivo Plan Parcial de Desarrollo Urbano presente restricción por traza vial o restricción por infraestructura de transporte, previo a la licencia de construcción, deberá de presentar:
+
+I. La subdivisión correspondiente a la superficie afectada y cumpliendo con lo estipulado en el artículo 149 septies del Reglamento de Gestión del Desarrollo Urbano para el Municipio de Guadalajara y además presentar:
+
+a) Presupuesto de obras de urbanización;
+
+b) Fianza de acuerdo con la totalidad del monto del presupuesto presentado, previamente validado y con la vigencia hasta el término de las obras;
+
+c) Carta compromiso notariada para la ejecución y entrega de las obras de urbanización;
+
+d) Contar con la validación de la Dirección de Obras Públicas y la Dirección de Alumbrado Público, así como los planos autorizados;
+
+e) Presentar la viabilidad por los servicios de agua potable y alcantarillado del organismo correspondiente, así como los planos autorizados; y
+
+f) Factibilidad del servicio de la C.F.E. así como los planos autorizados.
+
+II. Previo a la emisión del Certificado de Habitabilidad, se deberá:
+
+a) Transmitir a título gratuito, la superficie afectada correspondiente, a favor del patrimonio municipal, de las vialidades municipales;
+
+b) Presentar los vistos buenos para la entrega-recepción de las obras por parte de las Direcciones, dependencias y organismos mencionados en la fracción I;
+
+c) Fianza por vicios ocultos el cual deberá de cubrir el 20.00% del costo de las obras y con una vigencia mínima de 2 años; y
+
+d) Posteriormente, ejecutar la entrega-recepción de las obras correspondientes a través de una certificación de hechos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.M. 24 DE ABRIL DE 2017)</small>
 
@@ -2643,7 +2827,7 @@ Los proyectos arquitectónicos y la ejecución de obras de edificación deberán
 
 Los proyectos ejecutivos y las construcciones, deberán cumplir las especificaciones necesarias para la estabilidad estructural y servicio o función de sus diversos elementos e instalaciones según las normas técnicas y previsiones de seguridad, salubridad, comodidad, acordes con su magnitud, uso, destino y ubicación así como, los requisitos mínimos de ventilación e iluminación y los espacios diseñados para proporcionar tal servicio. Dichos proyectos deberán ser signados por el autor del proyecto quien deberá fungir como director responsable en los términos de lo establecido por el Código.
 
-> <small>(ADICIONADO, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.M. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 159 Bis.
 
@@ -2669,7 +2853,7 @@ despensas, clóset y similares,
 
 pasillos, estudios sin baño o clóset.
 
-a) Si la altura de los paramentos propios del patio fuera variable, se tomará el promedio de los dos más bajos;
+a) Si la altura de los paramentos propios del patio fuera variable, se tomará el promedio de los dos más bajos, excluyendo muros perimetrales;
 
 b) Los pretiles y volúmenes en la parte superior de los paramentos podrán remeterse un mínimo equivalente a su altura, con el propósito de no ser considerados para el dimensionamiento del patio;
 
@@ -2682,6 +2866,8 @@ e) Cuando los patios converjan con la fachada frontal o posterior de la edificac
 f) En caso de piezas no habitables, podrán omitirse los patios si se garantiza iluminación y ventilación asistida; y
 
 g) Los bienes inmuebles que estén contenidos en los inventarios de patrimonio cultural, podrán observar las dimensiones de los patios de iluminación y ventilación del proyecto original o construcción existente, siempre que cuenten con el permiso del Instituto Nacional de Antropología e Historia o la Secretaría de Cultura del Estado de Jalisco, según corresponda.
+
+Sin perjuicio de lo previsto en los incisos anteriores, el lado menor de los patios no podrá ser inferior a 2.50 metros.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -2833,11 +3019,11 @@ IX. Marquesinas adosadas; y
 
 X. Movimientos de tierras cuando el corte sea mayor a 50 centímetros de profundidad o cuando este se realice a una distancia menor a 1.50 metros de las construcciones aledañas.
 
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, G.M. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 166.
 
-Para hacer modificaciones al proyecto original, estas se deben presentar para validación de la Dirección de Obras Públicas y deben sujetarse al mismo uso y superficie del proyecto autorizado y durante el tiempo de vigencia de la licencia. Todo cambio debe respetar las disposiciones de los Programas y Planes de Desarrollo Urbano y el presente Reglamento y las restricciones y especificaciones del dictamen, alineamiento y demás autorizaciones de acuerdo a la naturaleza de la Acción Urbanística, en caso de no cumplirse, se aplicarán las sanciones correspondientes.
+Para hacer modificaciones al proyecto original, estas se deben presentar para validación de la Dirección de Licencias de Construcción y deben sujetarse al mismo uso y superficie del proyecto autorizado y durante el tiempo de vigencia de la licencia. Todo cambio debe respetar las disposiciones de los Programas y Planes de Desarrollo Urbano y el presente Reglamento y las restricciones y especificaciones del dictamen, alineamiento y demás autorizaciones de acuerdo a la naturaleza de la Acción Urbanística, en caso de no cumplirse, se aplicarán las sanciones correspondientes.
 
 ###### Artículo 167.
 
@@ -2977,9 +3163,9 @@ Artículo 184 ter. Una vez obtenida su autorización en materia de impacto y rie
 
 (DEROGADO, G.M. 24 DE ABRIL DE 2017)
 
-> <small>(ADICIONADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.M. 28 DE DICIEMBRE DE 2023)</small>
 
-Artículo 185 bis. El certificado de Habitabilidad emitido por la Dirección de Obras Públicas, quedará condicionado al cumplimiento de las condicionantes expuestas en la autorización. La Dirección de Medio Ambiente, emitirá el visto bueno al respecto.
+Artículo 185 bis. El Certificado de Habitabilidad emitido por la Dirección de Licencias de Construcción, quedará condicionado al cumplimiento de las condicionantes expuestas en la autorización. La Dirección de Medio Ambiente, emitirá el visto bueno al respecto.
 
 En los casos en que el incumplimiento de los términos y condicionantes de la autorización en materia de impacto y riesgo ambiental, no puedan ser resarcidos por el responsable del proyecto, la Dirección de Medio Ambiente determinará las medidas de compensación por el daño generado por su incumplimiento.
 
@@ -3053,11 +3239,11 @@ La vigencia de la constancia a que hace mención el artículo 192 de este reglam
 
 ### CAPÍTULO VIII. De la Delimitación de Colonias, la Nomenclatura y la Asignación de Números Oficiales
 
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, G.M. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 195.
 
-La Dirección de Obras Públicas establecerá la delimitación y división de las colonias, así como la actualización de los nombres de calles, colonias y avenidas nuevas, debiendo dicha actualización estar sujeta a la norma técnica sobre domicilios geográficos establecida por el Instituto Nacional de Estadística y Geografía, INEGI.
+La Dirección de Licencias de Construcción establecerá la delimitación y división de las colonias, así como la actualización de los nombres de calles, colonias y avenidas nuevas, debiendo dicha actualización estar sujeta a la norma técnica sobre domicilios geográficos establecida por el Instituto Nacional de Estadística y Geografía, INEGI.
 
 ###### Artículo 196.
 
@@ -3069,11 +3255,11 @@ Los particulares podrán designar a vías y espacios de dominio privado destinad
 
 Es obligación de los propietarios de fincas ubicadas en las esquinas, permitir la colocación de placas de nomenclatura en el lugar que determine la autoridad municipal.
 
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, G.M. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 198.
 
-Es facultad de la Dirección de Obras Públicas, previa solicitud de los interesados, indicar el número que corresponde a la entrada de cada finca o Predio, siempre que este tenga frente a la vía pública; y corresponderá a esta dependencia el control de la numeración y el autorizar u ordenar el cambio de un número cuando este sea irregular o provoque confusión, quedando obligado el propietario a colocar el nuevo número en un plazo no mayor de 10 días naturales de recibido el aviso correspondiente, con derecho a conservar el antiguo hasta por 90 días naturales después de dicha notificación.
+Es facultad de la Dirección de Licencias de Construcción, previa solicitud de los interesados, indicar el número que corresponde a la entrada de cada finca o Predio, siempre que este tenga frente a la vía pública; y corresponderá a esta dependencia el control de la numeración y el autorizar u ordenar el cambio de un número cuando este sea irregular o provoque confusión, quedando obligado el propietario a colocar el nuevo número en un plazo no mayor de 10 días naturales de recibido el aviso correspondiente, con derecho a conservar el antiguo hasta por 90 días naturales después de dicha notificación.
 
 ###### Artículo 199.
 
@@ -3097,9 +3283,11 @@ V. La autoridad municipal deberá expedir la asignación de número oficial, en 
 
 En caso de que la asignación de número oficial sea solicitada por una persona distinta a las establecidas en el artículo anterior, esta deberá acreditar el interés con el que comparece a solicitar la asignación del número oficial. Una vez presentada la solicitud, la Dirección de Control resolverá en un plazo no mayor de 5 días hábiles.
 
+> <small>(REFORMADO, G.M. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 202.
 
-Es obligación de la Dirección de Obras Públicas, dar aviso a la Dirección de Catastro, al Registro Público de la Propiedad y del Comercio del Estado de Jalisco, y a cualquier otra dependencia municipal, estatal o federal, que deba tener conocimiento de cualquier cambio que hubiere en la denominación de las vías y espacios públicos, así como cuando hubiere cambio general en la numeración de los inmuebles, por regularización de la numeración general de fincas en una o varias zonas.
+Es obligación de la Dirección de Licencias de Construcción, dar aviso a la Dirección de Catastro, al Registro Público de la Propiedad y del Comercio del Estado de Jalisco, y a cualquier otra dependencia municipal, estatal o federal, que deba tener conocimiento de cualquier cambio que hubiere en la denominación de las vías y espacios públicos, así como cuando hubiere cambio general en la numeración de los bienes inmuebles, por regularización de la numeración general de fincas en una o varias zonas.
 
 > <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
@@ -3161,9 +3349,15 @@ VIII. Las demás que por la naturaleza de la acción urbanística dispongan los 
 
 La modificación de los planos de alineamiento, números oficiales, o zonas de restricción, se sujetará al siguiente procedimiento:
 
-I. Los particulares que acrediten su interés jurídico o el Municipio, deberá solicitar una modificación a la Dirección de Obras Públicas;
+> <small>(REFORMADA, G.M. 28 DE DICIEMBRE DE 2023)</small>
 
-II. Deberá contarse con el dictamen técnico favorable emitido por la Dirección de Obras Públicas, en el que se justifique la procedencia de la modificación de que se trate y se acredite la no afectación de proyectos futuros de vialidades, infraestructura o servicios; y
+I. Los particulares que acrediten su interés jurídico o el Municipio, deberán solicitar una modificación a la Dirección de Licencias de Construcción;
+
+> <small>(REFORMADA, G.M. 28 DE DICIEMBRE DE 2023)</small>
+
+II. Deberá contarse con el dictamen técnico favorable emitido por la Dirección de Licencias de Construcción, en el que se justifique la procedencia de la modificación de que se trate y se acredite la no afectación de proyectos futuros de vialidades, infraestructura o servicios; y
+
+> <small>(REFORMADA, G.M. 28 DE DICIEMBRE DE 2023)</small>
 
 III. Cuando la solicitud se refiera a modificaciones en suelo no urbanizable, en lugar del dictamen a que se refiere el párrafo anterior, el interesado deberá gestionar y obtener una resolución favorable en materia de impacto urbano ambiental, como requisito previo a su dictaminación.
 
@@ -3199,9 +3393,11 @@ VII. Todo tipo de mortero fabricado en el lugar, deberá mezclarse en artesa o m
 
 VIII. Inmediatamente que se concluyan los trabajos, se retirará todo el material sobrante producto de la excavación y/o de los demás utilizados en la obra, hasta lograr la limpieza total. Sin perjuicio de las sanciones pecuniarias que se impongan a los infractores de este artículo, los mismos son acreedores a las sanciones establecidas por el Reglamento.
 
+> <small>(REFORMADO, G.M. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 211.
 
-Cuando se haga necesaria la ruptura de los pavimentos de las vías públicas para la ejecución de alguna obra de interés particular, será requisito indispensable el recabar la autorización de la Dirección de Obras Públicas previamente a la iniciación de tales trabajos, a fin de que esta Dependencia señale las condiciones bajo las cuales se llevarán estos a cabo, así como el monto de las reparaciones, pago por uso de suelo, y la forma de caucionar que estas serán hechas en el plazo y condiciones señaladas. La ruptura de pavimentos de concreto deberá ser reparada precisamente con el mismo material, y con un espesor de 1.25 veces al de la losa afectada.
+Cuando se haga necesaria la ruptura de los pavimentos de las vías públicas para la ejecución de alguna obra de interés particular, será requisito indispensable el recabar la autorización de la Dirección de Licencias de Construcción previamente a la iniciación de tales trabajos, a fin de que esta Dependencia señale las condiciones bajo las cuales se llevarán estos a cabo, así como el monto de las reparaciones, pago por uso de suelo, y la forma de caucionar que estas serán hechas en el plazo y condiciones señaladas. La ruptura de pavimentos de concreto deberá ser reparada precisamente con el mismo material, y con un espesor de 1.25 veces al de la losa afectada.
 
 ###### Artículo 212.
 
@@ -3213,7 +3409,9 @@ Para el efecto de la colocación de las canalizaciones que deban alojarse bajo l
 
 En cuanto a las losas de concreto hidráulico, el ejecutor deberá:
 
-I. Presentar ante la Dirección de Obras Públicas, plano de localización de las losas afectadas en los cruceros, impreso y en formato digital, en escala 1:100;
+> <small>(REFORMADA, G.M. 28 DE DICIEMBRE DE 2023)</small>
+
+I. Presentar ante la Dirección de Licencias de Construcción, plano de localización de las losas afectadas en los cruceros, impreso y en formato digital, en escala 1:100;
 
 II. Presentar ante la Dirección de Obras Públicas, programa y calendario de obra incluyendo la fecha de inicio, terminación y nombre del responsable;
 
@@ -3251,9 +3449,11 @@ II. El pavimento empedrado será repuesto utilizando mano de obra especializada 
 
 La solicitud para instalar, construir o modificar infraestructura urbana o sus sistemas, estará condicionada a la obtención de una resolución favorable en materia de impacto urbano ambiental, por parte de la Dirección de Medio Ambiente.
 
+> <small>(REFORMADO, G.M. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 217.
 
-Para las instalaciones subterráneas, uso de la infraestructura de penetración, mantenimiento o retiro de ductos, y conducción de toda clase de fluidos en el territorio municipal, que se realicen con el fin de introducir servicios y cualesquiera otras, se requerirá, previo inicio de obra, la autorización correspondiente ante Dirección de Obras Públicas, una resolución favorable en materia de impacto urbano ambiental ante (sic) Dirección de Medio Ambiente, debiendo observar lo dispuesto por el Código y demás ordenamientos aplicables.
+Para las instalaciones subterráneas, uso de la infraestructura de penetración, mantenimiento o retiro de ductos, y conducción de toda clase de fluidos en el territorio municipal, que se realicen con el fin de introducir servicios y cualesquiera otras, se requerirá, previo inicio de obra, la autorización correspondiente ante (sic) Dirección de Licencias de Construcción, una resolución favorable en materia de impacto urbano ambiental ante (sic) Dirección de Medio Ambiente, debiendo observar lo dispuesto por el Código y demás ordenamientos aplicables.
 
 ###### Artículo 218.
 
@@ -3281,9 +3481,11 @@ La cancelación de la póliza solo procederá cuando sea retirado el elemento in
 
 Las excavaciones o cortes de cualquier índole que se realicen en vía pública para instalaciones subterráneas y cuya profundidad sea mayor a 60 centímetros, requerirán de licencia de construcción suscrita por un Director responsable de obra. Este requisito no será exigido cuando la excavación constituya una etapa de la edificación autorizada por la licencia de construcción respectiva o se trate de pozos con línea de exploración para estudios de mecánica de suelos, o para obras de jardinería.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 220.
 
-Para las instalaciones subterráneas en la vía pública de gas natural, el promovente deberá presentar ante la Dirección de Obras Públicas, lo siguiente:
+Para las instalaciones subterráneas en la vía pública de gas natural, el promovente deberá presentar ante la Dirección de Licencias de Construcción, lo siguiente:
 
 I. Concesión y/o permisos vigentes por parte del Gobierno Federal para la explotación, comercialización y distribución de gas natural;
 
@@ -3307,11 +3509,11 @@ IX. Acreditar el pago de derechos conforme a la Ley de Ingresos municipal vigent
 
 Una vez que se tenga la totalidad de requisitos, la Dirección de Obras Públicas, elaborará el dictamen técnico y, con base en el referido dictamen, emitirá la autorización correspondiente, pudiendo señalar en la misma, la realización de actos de adecuación. Concluidas las obras autorizadas, el responsable de las mismas deberá realizar la reparación a las afectaciones a la vía pública a entera satisfacción del Municipio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 222.
 
-Para las instalaciones subterráneas en la vía pública de redes de telecomunicaciones como fibra óptica, telefonía, televisión por cable, vigilancia, de electrificación, instalaciones o redes similares, el promovente deberá tramitar la Licencia de Canalización, presentando ante la Dirección de Obras Públicas el expediente con la documentación que a continuación se detalla, a efecto de que la dependencia valore su procedencia:
+Para las instalaciones subterráneas en la vía pública de redes de telecomunicaciones como fibra óptica, telefonía, televisión por cable, vigilancia, de electrificación, instalaciones o redes similares, el promovente deberá tramitar la Licencia de Canalización, presentando ante la Dirección de Licencias de Construcción el expediente con la documentación que a continuación se detalla, a efecto de que la dependencia valore su procedencia:
 
 I. Visto Bueno, o en caso de así requerirlo, una resolución favorable en materia de impacto urbano ambiental, por parte de la Dirección de Medio Ambiente;
 
@@ -3321,11 +3523,11 @@ III. Memoria técnico-descriptiva de la instalación de las redes;
 
 IV. En el caso de redes de electrificaciones además de lo anterior comprobante de pago ante la Comisión Federal de Electricidad o dependencia responsable de proporcionar el servicio; y
 
-> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA [N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES SIMILAR AL DEL SEGUNDO PÁRRAFO], G.M. 28 DE DICIEMBRE DE 2023)</small>
 
-V. Dictamen técnico emitido por la Dirección de Obras Públicas, a través del Área de Gestión de Recursos.
+V. Dictamen técnico emitido por la Dirección de Obras Públicas, a través del Área de Gestión de Recursos. Una vez cubiertos los requisitos descritos anteriormente, la Dirección de Obras Públicas emitirá el dictamen técnico correspondiente. La Dirección de Licencias de Construcción con base en el referido dictamen, emitirá la autorización correspondiente, previo pago de los derechos municipales, pudiendo señalar en la misma la realización de actos de adecuación.
 
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+(REFORMADO, G.M. 24 DE ABRIL DE 2017) [N. DE E. EL CONTENIDO DE ESTE PÁRRAFO ES SIMILAR AL DE LA FRACCIÓN V]
 
 Una vez cubiertos los requisitos descritos anteriormente, la Dirección de Obras Públicas emitirá el dictamen técnico correspondiente. La Dirección de Obras Públicas con base en el referido dictamen, emitirá la autorización correspondiente, previo pago de los derechos municipales, pudiendo señalar en la misma la realización de actos de adecuación.
 
@@ -3427,11 +3629,9 @@ Las contestaciones a las prevenciones por parte de los interesados deberán real
 
 En caso de que el interesado no cumpla con la prevención dentro del término legal, el trámite le será desechado.
 
-> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, G.M. 28 DE DICIEMBRE DE 2023)</small>
 
-Artículo 222 undecies. Tratándose de trámites electrónicos para licencias de construcción en las cuales se requiera responsiva de un director responsable de obra o de proyecto en los términos establecidos por el Código, este deberá emitir la validación del proyecto y documentos anexos utilizando su firma electrónica certificada, previo al ingreso de la solicitud a la dependencia. Solo podrán validar proyectos de los solicitantes aquellos directores responsables registrados en el padrón de la Dirección de Obras Públicas y que no tengan antecedentes de sanciones en su contra.
-
-Los directores responsables a través del sistema de tramitación electrónica podrán emitir observaciones al proyecto y sus anexos, mismas que el solicitante deberá atender a fin de concluir el ingreso de su solicitud.
+Artículo 222 undecies. Tratándose de trámites electrónicos para licencias de construcción en las cuales se requiera responsiva de un director responsable de obra o de proyecto en los términos establecidos por el Código, este deberá emitir la validación del proyecto y documentos anexos utilizando su firma electrónica certificada, previo al ingreso de la solicitud a la dependencia. Solo podrán validar proyectos de los solicitantes aquellos directores responsables registrados en el padrón de la Dirección de Licencias de Construcción y que no tengan antecedentes de sanciones en su contra. Los directores responsables a través del sistema de tramitación electrónica podrán emitir observaciones al proyecto y sus anexos, mismas que el solicitante deberá atender a fin de concluir el ingreso de su solicitud.
 
 > <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
 
@@ -3533,11 +3733,11 @@ Los espacios públicos y las vías de propiedad municipal, mientras no se desafe
 
 Corresponde al Municipio normar sobre el espacio público dentro de su territorio, y, a través de sus dependencias competentes, vigilar el cumplimiento de las disposiciones del presente Reglamento y otros ordenamientos en la materia.
 
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, G.M. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 230.
 
-Los particulares, instituciones públicas o privadas que sin previo permiso de la Dirección de Obras Públicas, ocupen la vía pública con escombros o materiales, tapiales, andamios, anuncios, aparatos, puertas de cochera o en cualquier forma; o bien ejecuten alteraciones de cualquier tipo de sistemas de agua potable o alcantarillado, pavimentos, guarniciones, aceras o banquetas, postes o cableado del alumbrado público; están obligados al cumplimiento de las sanciones administrativas, penales o de cualquier otra índole a que se hagan acreedores, a retirar los obstáculos y a hacer las reparaciones a las vías y servicios públicos en la forma y plazos que al efecto le sean señalados por la Dirección de Inspección y Vigilancia u otras dependencias competentes, y al pago de la licencia para su uso en caso procedente a la Tesorería Municipal.
+Los particulares, instituciones públicas o privadas que sin previo permiso de la Dirección de Licencias de Construcción, ocupen la vía pública con escombros o materiales, tapiales, andamios, anuncios, aparatos, puertas de cochera o en cualquier forma; o bien ejecuten alteraciones de cualquier tipo de sistemas de agua potable o alcantarillado, pavimentos, guarniciones, aceras o banquetas, postes o cableado del alumbrado público; están obligados al cumplimiento de las sanciones administrativas, penales o de cualquier otra índole a que se hagan acreedores, a retirar los obstáculos y a hacer las reparaciones a las vías y servicios públicos en la forma y plazos que al efecto le sean señalados por la Dirección de Inspección y Vigilancia u otras dependencias competentes, y al pago de la licencia para su uso en caso procedente a la Tesorería.
 
 ###### Artículo 231.
 
@@ -4137,7 +4337,9 @@ IV. Los cajones de estacionamiento no podrán estar ubicados invadiendo total o 
 
 V. Deberán evitarse cajones para automóviles en Zonas de Impacto Alto;
 
-VI. En los cajones exclusivos de estacionamiento en vía pública, se podrán instalar ciclopuertos, los cuales deberán contemplar un proyecto de adecuación de la zona de instalación para generar condiciones de seguridad para los usuarios. La ubicación y proyecto de adecuación, necesitan el visto bueno de la Dirección de Movilidad y Transporte, los permisos de construcción serán conducente (sic) con la Dirección de Obras Públicas; y
+> <small>(REFORMADA, G.M. 28 DE DICIEMBRE DE 2023)</small>
+
+VI. En los cajones exclusivos de estacionamiento en vía pública, se podrán instalar ciclopuertos, los cuales deberán contemplar un proyecto de adecuación de la zona de instalación para generar condiciones de seguridad para los usuarios. La ubicación y proyecto de adecuación, necesitan el visto bueno de la Dirección de Movilidad y Transporte, los permisos de construcción serán conducente con la Dirección de Licencias de Construcción; y
 
 > <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
@@ -4271,7 +4473,9 @@ c) Para el caso de la ventilación forzada, ningún punto del estacionamiento qu
 
 IX. Señalización:
 
-a) Los señalamientos verticales y horizontales deben sujetarse al proyecto que para tal efecto apruebe la Dirección de Obras Públicas; y
+> <small>(REFORMADO, G.M. 28 DE DICIEMBRE DE 2023)</small>
+
+a) Los señalamientos verticales y horizontales deben sujetarse al proyecto que para tal efecto apruebe la Dirección de Licencias de Construcción; y
 
 b) Los cajones para vehículos de personas con movilidad reducida serán señalizados con pintura en el piso con el símbolo internacional de acceso a personas con discapacidad, de 1.60 metros en medio del cajón, y letrero con el mismo símbolo de 0.40 metros por 0.60 metros colocado a 2.1 O metros de altura.
 
@@ -4561,9 +4765,9 @@ d) (DEROGADO, G.M. 20 DE DICIEMBRE DE 2017)
 
 e) Propuesta geométrica en plano impreso o digital.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.M. 28 DE DICIEMBRE DE 2023)</small>
 
-II. Una vez validada la permuta por la Dirección de Movilidad y Transporte del Municipio, el solicitante deberá acudir a la Dirección de Obras Públicas que analizará el proyecto y en caso de considerarlo factible, emitirá la licencia o permiso de construcción, tomando en cuenta la opinión técnica de la Dirección de Medio Ambiente para el tipo de vegetación propuesto para la permuta.
+II. Una vez validada la permuta por la Dirección de Movilidad y Transporte del Municipio, el solicitante deberá acudir a la Dirección de Licencias de Construcción que analizará el proyecto y en caso de considerarlo factible, emitirá la licencia o permiso de construcción, tomando en cuenta la opinión técnica de la Dirección de Medio Ambiente para el tipo de vegetación propuesto para la permuta.
 
 > <small>(ADICIONADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -4579,7 +4783,9 @@ c) Croquis y fotografías del espacio a permutar; y
 
 d) Propuesta geométrica en plano impreso o digital.
 
-II. Una vez validada la permuta por la Dirección de Movilidad y Transporte del Municipio, el solicitante deberá acudir a la Dirección de Obras Públicas, que analizará el proyecto y de ser factible, emitirá la licencia o permiso de construcción.
+> <small>(REFORMADA, G.M. 28 DE DICIEMBRE DE 2023)</small>
+
+II. Una vez validada la permuta por la Dirección de Movilidad y Transporte del Municipio, el solicitante deberá acudir a la Dirección de Licencias de Construcción, que analizará el proyecto y de ser factible, emitirá la licencia o permiso de construcción.
 
 ###### Artículo 283.
 
@@ -4639,11 +4845,11 @@ La Dirección de Inspección y Vigilancia podrá realizar inspecciones por zonas
 
 Artículo 291 bis. El Patronato del Centro Histórico, Barrios y Zonas Tradicionales de la Ciudad de Guadalajara, coadyuvará en las labores de inspección referidas a la ejecución de obras en fincas inventariadas como Patrimonio Cultural Urbano, pudiendo emitir apercibimientos a los infractores, por todo acto u omisión que contravenga lo dispuesto por este Reglamento y demás disposiciones en materia de conservación de fincas patrimoniales. El Patronato deberá observar los procedimientos aplicables y remitir los apercibimientos en un plazo no mayor a cinco días hábiles a la Dirección de Inspección y Vigilancia para su debido seguimiento.
 
+> <small>(REFORMADO, G.M. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 292.
 
-Para el fin de hacer cumplir las disposiciones del presente ordenamiento, la Dirección de Obras Públicas se apoya en los inspectores y supervisores adscritos a la Dirección de Inspección y Vigilancia, para que se encarguen de la inspección de obras en las condiciones previstas por las disposiciones reglamentarias aplicables.
-
-Los inspectores y supervisores adscritos a la Dirección de Inspección y Vigilancia, previa identificación, y cumpliendo las disposiciones legales y reglamentarias aplicables, pueden entrar en edificios desocupados o en construcción para los fines de inspección y mediante orden escrita, fundada y motivada de la Dirección de Inspección y Vigilancia, pueden penetrar en edificios habitados exclusivamente para el cumplimiento de la orden mencionada, satisfaciendo, en su caso, los requisitos constitucionales necesarios.
+Para el fin de hacer cumplir las disposiciones del presente ordenamiento, la Dirección de Licencias de Construcción se apoya en los inspectores y supervisores adscritos a la Dirección de Inspección y Vigilancia, para que se encarguen de la inspección de obras en las condiciones previstas por las disposiciones reglamentarias aplicables. Los inspectores y supervisores adscritos a la Dirección de Inspección y Vigilancia, previa identificación, y cumpliendo las disposiciones legales y reglamentarias aplicables, pueden entrar en edificios desocupados o en construcción para los fines de inspección y mediante orden escrita, fundada y motivada de la Dirección de Inspección y Vigilancia, pueden penetrar en edificios habitados exclusivamente para el cumplimiento de la orden mencionada, satisfaciendo, en su caso, los requisitos constitucionales necesario (sic).
 
 ###### Artículo 293.
 
@@ -4651,7 +4857,9 @@ La inspección de obras se realiza de manera aleatoria o en obras en que se acre
 
 I. El procedimiento se inicia mediante un oficio, fundado y motivado, firmado por parte de la autoridad competente, el cual debe notificarse y dejar el original al propietario o representante de la obra. La notificación del oficio y la inspección puede ser simultáneamente;
 
-II. La inspección, acto seguido se procede a realizar, misma que consiste en verificar si la obra cuenta con la autorización de la Dirección de Obras Públicas o, de existir la misma, verificar si coincide con el proyecto autorizado en los términos de la Licencia de Construcción y la bitácora, así como los demás documentos anexos que contenga el expediente de autorización de dichos trabajos y con lo que regula y establece el presente ordenamiento;
+> <small>(REFORMADA, G.M. 28 DE DICIEMBRE DE 2023)</small>
+
+II. La inspección, acto seguido se procede a realizar, misma que consiste en verificar si la obra cuenta con la autorización de la Dirección de Licencias de Construcción o, de existir la misma, verificar si coincide con el proyecto autorizado en los términos de la Licencia de Construcción y la bitácora, así como los demás documentos anexos que contenga el expediente de autorización de dichos trabajos y con lo que regula y establece el presente ordenamiento;
 
 III. El acta circunstanciada se levanta una vez concluida la inspección, de la cual se otorga copia al propietario o representante de la obra, con la notificación donde se haga de su conocimiento si hubo o no irregularidades; y
 
@@ -4793,9 +5001,9 @@ XXIX. No cumplir con lo previsto en la constancia de medidas de seguridad o vist
 
 XXX. Realizar poda o derribo de sujeto forestal para la ejecución de una acción urbanística pública o privada sin contar con la autorización previa de la dependencia competente;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.M. 28 DE DICIEMBRE DE 2023)</small>
 
-XXXI. No respetar la suspensión de la licencia de urbanización autorizada por la Dirección de Obras Públicas;
+XXXI. No respetar la suspensión de la licencia de urbanización autorizada por la Dirección de Licencias de Construcción;
 
 > <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
@@ -5053,7 +5261,9 @@ c) (DEROGADO, G.M. 24 DE ABRIL DE 2017)
 
 d) No solicite darse de baja como perito responsable de una obra de conformidad con las normas legales y reglamentarias vigentes; o
 
-e) No efectúe notificación a la Dirección de Obras Públicas del cambio de su domicilio.
+> <small>(REFORMADO, G.M. 28 DE DICIEMBRE DE 2023)</small>
+
+e) No efectúe notificación a la Dirección de Licencias de Construcción del cambio de su domicilio.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
 
@@ -5093,9 +5303,11 @@ II. Separarse del cargo por más de 30 días hábiles, sin la licencia correspon
 
 III. Incurrir en falta de probidad durante su función.
 
+> <small>(REFORMADO, G.M. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 322.
 
-La imposición de las sanciones a los peritos, referidas en el presente capítulo, es atribución de la Dirección de Obras Públicas, la cual, garantizando el derecho de audiencia del afectado y observando las disposiciones legales y reglamentarias aplicables determina la sanción correspondiente.
+La imposición de las sanciones a los peritos, referidas en el presente capítulo, es atribución de la Dirección de Licencias de Construcción, la cual, garantizando el derecho de audiencia del afectado y observando las disposiciones legales y reglamentarias aplicables determina la sanción correspondiente.
 
 > <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
@@ -5438,3 +5650,17 @@ Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalaja
 Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
 
 Tercero. Una vez publicadas las presentes reformas, remítase una copia al Congreso del Estado de Jalisco para efectos de lo ordenado en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 28 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA”.]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara en términos de lo dispuesto en el artículo 42 fracciones IV y V de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Se derogan todas las disposiciones legales y administrativas que contravengan las reformas y adiciones del presente ordenamiento.
+
+Cuarto. Se instruye a la Secretaría General para que notifique y solicite a la Dirección de Integración y Dictaminación, para que de conformidad con sus atribuciones pueda llevar a cabo en coordinación con las dependencias municipales competentes, el análisis de aquellas normas reglamentarias que requieran de su adecuación debido a la presente reforma.
+
+Quinto. Una vez publicadas las presentes reformas, remítase una copia al Congreso del Estado de Jalisco, para efectos de lo ordenado en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
