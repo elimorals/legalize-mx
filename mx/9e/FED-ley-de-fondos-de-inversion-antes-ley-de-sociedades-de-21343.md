@@ -4,7 +4,7 @@ identifier: "FED-ley-de-fondos-de-inversion-antes-ley-de-sociedades-de-21343"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-04"
-last_updated: "2021-05-20"
+last_updated: "2023-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21343&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-05-31"
 
 LEY DE FONDOS DE INVERSIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de junio de 2001.
 
@@ -53,7 +53,9 @@ SE EXPIDE LA LEY DE FONDOS DE INVERSION
 
 La presente Ley es de orden público y observancia general en los Estados Unidos Mexicanos y tiene por objeto regular la organización y funcionamiento de los fondos de inversión, la intermediación de sus acciones en el mercado de valores, los servicios que deberán contratar para el correcto desempeño de sus actividades, así como la organización y funcionamiento de las personas que les presten servicios en términos de este ordenamiento legal.
 
-En la aplicación de esta Ley, las autoridades deberán procurar el fomento de las sociedades de inversión, su desarrollo equilibrado y el establecimiento de condiciones tendientes a la consecución de los siguientes objetivos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+En la aplicación de esta Ley, las autoridades deberán procurar el fomento de los fondos de inversión, su desarrollo equilibrado y el establecimiento de condiciones tendientes a la consecución de los siguientes objetivos:
 
 I. El fortalecimiento y descentralización del mercado de valores;
 
@@ -141,7 +143,9 @@ Las acciones representativas del capital social de los fondos de inversión se c
 
 ARTICULO 5 BIS. Las expresiones sociedades de inversión, fondos de inversión, portafolios de inversión u otras que expresen ideas semejantes en cualquier idioma, por las que pueda inferirse el ejercicio de las actividades reservadas por esta Ley a los fondos de inversión, no podrán ser usadas en el nombre, denominación social, razón social, publicidad, propaganda o documentación de personas y establecimientos distintos de los propios fondos de inversión a que se refiere esta Ley.
 
-Se exceptúa de lo dispuesto en el párrafo anterior a las sociedades operadoras de fondos de inversión, distribuidoras de acciones de fondos de inversión, sociedades valuadoras de acciones de fondos de inversión, a las sociedades de inversión especializadas en fondos para el retiro a que se refiere esta Ley, a los certificados bursátiles fiduciarios de desarrollo, inmobiliarios o indizados que se emitan conforme a las disposiciones de la Ley del Mercado de Valores, así como a las asociaciones de fondos de inversión y las demás personas que sean autorizadas por la Comisión para estos efectos, siempre que no realicen operaciones propias de los fondos de inversión u operadoras, distribuidoras y valuadoras señaladas.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+Se exceptúa de lo dispuesto en el párrafo anterior, a las sociedades operadoras de fondos de inversión, distribuidoras de acciones de fondos de inversión, sociedades valuadoras de acciones de fondos de inversión, asesores en inversiones que obtengan la autorización a que se refiere el artículo 225 Bis de la Ley del Mercado de Valores, a las sociedades de inversión especializadas en fondos para el retiro a que se refiere esta Ley, a los certificados bursátiles fiduciarios de desarrollo, inmobiliarios o indizados que se emitan, conforme a las disposiciones de la Ley del Mercado de Valores, así como a las asociaciones de fondos de inversión y las demás personas que sean autorizadas por la Comisión para estos efectos, siempre que no realicen operaciones propias de los fondos de inversión u operadoras distribuidoras y valuadoras señaladas.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -155,7 +159,9 @@ II. En instrumentos de deuda;
 
 III. De capitales, y
 
-IV. De objeto limitado.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+IV. De cobertura.
 
 Los fondos de inversión estarán sujetos a la supervisión, regulación y sanción de la Comisión, debiendo observar lo previsto en la presente Ley y demás disposiciones aplicables.
 
@@ -351,7 +357,9 @@ II. Establecer las políticas de inversión y operación de los fondos de invers
 
 III. Dictar las medidas que se requieran para que se observe debidamente lo señalado en el prospecto de información al público inversionista;
 
-IV. Analizar y evaluar el resultado de la gestión del fondo de inversión;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+IV. Analizar y evaluar el resultado de la gestión del fondo de inversión, así como evaluar por lo menos una vez al año el desempeño de los prestadores de servicios contratados; establecer los mecanismos para notificar a los accionistas de los fondos de inversión el resultado de la referida evaluación y, en su caso, la sustitución de dichos prestadores de servicios.
 
 V. Abstenerse de pagar servicios no devengados o no contemplados en el prospecto de información al público inversionista del fondo de inversión;
 
@@ -381,7 +389,9 @@ Los miembros del consejo de administración de la sociedad operadora de fondos d
 
 Los fondos de inversión, a través del consejo de administración de la sociedad operadora de fondos de inversión, establecerán límites máximos de tenencia por accionista y determinarán políticas para que las personas que se ajusten a las mismas, adquieran temporalmente porcentajes superiores a tales límites, debiendo esto contenerse en sus prospectos de información al público inversionista.
 
-Las sociedades operadoras o las personas que presten servicios de distribución de acciones de fondos de inversión, deberán implementar por cuenta de estas, mecanismos que permitan a sus accionistas, contar con información oportuna relativa al porcentaje de su tenencia accionaria, a fin de dar cumplimiento a lo previsto en el presente artículo.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+Las sociedades operadoras o las personas que presten servicios de distribución de acciones de fondos de inversión, deberán implementar por cuenta de estas, mecanismos que permitan a sus accionistas, contar con información oportuna relativa al porcentaje y valor de su tenencia accionaria, a fin de dar cumplimiento a lo previsto en el presente artículo.
 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -421,7 +431,9 @@ IV. Exigir el reembolso de sus acciones conforme al valor establecido en el bala
 
 V. Ejercer la acción de responsabilidad en contra de los miembros del consejo de administración de la sociedad operadora de fondos de inversión que administre al fondo de inversión, en los términos a que se refieren los artículos 12 y 13 de esta Ley.
 
-Los accionistas de la parte variable del capital social de los fondos de inversión no contarán con los derechos previstos en los artículos 144, 163, 184 y 201 de la Ley General de Sociedades Mercantiles. No obstante lo anterior, los estatutos sociales de los fondos de inversión de capitales o de objeto limitado, podrán prever derechos corporativos y otros derechos económicos para los accionistas de la parte variable del capital social, así como el derecho para oponerse a las decisiones tomadas por el consejo de administración de la sociedad operadora de fondos de inversión que los administre, con respecto al propio fondo de inversión de capital o de objeto limitado. Los derechos a que se refiere este párrafo deberán ejercerse en los términos y condiciones que al efecto se hubieren pactado en los propios estatutos sociales.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+Los accionistas de la parte variable del capital social de los fondos de inversión no contarán con los derechos previstos en los artículos 144, 163, 184 y 201 de la Ley General de Sociedades Mercantiles. No obstante, lo anterior, los estatutos sociales de los fondos de inversión de capitales o de cobertura, podrán prever derechos corporativos y otros derechos económicos para los accionistas de la parte variable del capital social, así como el derecho para oponerse a las decisiones tomadas por el consejo de administración de la sociedad operadora de fondos de inversión que los administre, con respecto al propio fondo de inversión de capitales o de cobertura. Los derechos a que se refiere este párrafo deberán ejercerse en los términos y condiciones que al efecto se hubieren pactado en los propios estatutos sociales.
 
 Para el ejercicio de los derechos a que se refieren las fracciones III y V, será necesario que los accionistas en lo individual, o en su conjunto, representen el 0.5 por ciento del capital social en circulación, o bien, mantengan invertido en el fondo de inversión el equivalente en moneda nacional a 100,000 unidades de inversión, lo que resulte mayor, a la fecha en que se pretenda ejercer la acción.
 
@@ -679,9 +691,13 @@ VI. Emitir valores representativos de una deuda a su cargo, para el cumplimiento
 
 VII. Las análogas y conexas que autorice la Comisión mediante disposiciones de carácter general.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
-En la realización de las operaciones a que se refiere este artículo, los fondos de inversión se sujetarán a las disposiciones de carácter general que expida la Comisión, salvo tratándose de las operaciones de reporto, préstamo de valores, préstamos y créditos, emisión de valores y la celebración de operaciones financieras conocidas como derivadas y con moneda extranjera, en cuyo caso deberán ajustarse a las disposiciones de carácter general que al efecto expida el Banco de México.
+En la realización de las operaciones a que se refiere este artículo, los fondos de inversión se sujetarán a las disposiciones de carácter general que expida la Comisión, salvo tratándose de las operaciones de reporto, préstamo de valores, préstamos y créditos, emisión de valores y la celebración de operaciones financieras conocidas como derivadas y con moneda extranjera, en cuyo caso deberán ajustarse a las disposiciones de carácter general que al efecto expida el Banco de México, en las cuales podrá establecer límites máximos a los montos de tales operaciones con base en las características de los activos objeto de inversión y las del propio fondo, así como la situación del mercado.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+Las disposiciones de carácter general aplicables a los fondos de inversión de cobertura deberán ser aprobadas y, en su caso modificadas, por la Junta de Gobierno de la Comisión.
 
 (REFORMADO, D.O.F. 10 DE ENERO DE 2013)En el evento de que la Comisión pretenda incorporar en el régimen de inversión de los fondos de inversión de cualquier tipo, la celebración de operaciones financieras conocidas como derivadas o con moneda extranjera, deberá obtener la opinión favorable del Banco de México.
 
@@ -855,21 +871,31 @@ En el evento de actualizarse los supuestos señalados en el párrafo anterior, l
 
 La tenencia de las acciones de empresas que hayan tenido el carácter de Empresas Promovidas, estará sujeta a un plazo no mayor de cinco años, a fin de que el fondo de inversión de capitales de que se trate desincorpore de su activo la referida inversión. Dicho supuesto deberá establecerse en el prospecto de información al público inversionista. Los fondos de inversión de capitales deberán estipular en los contratos de promoción, como causal de terminación anticipada de dicho instrumento, los supuestos a que se refiere el primer párrafo de este artículo.
 
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
-### Capítulo Décimo. De los fondos de inversión de objeto limitado
+### Capítulo Décimo. De los fondos de inversión de cobertura
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 30.
 
-Los fondos de inversión de objeto limitado operarán exclusivamente con los Activos Objeto de Inversión que definan en sus estatutos y prospectos de información al público inversionista.
+Los fondos de inversión de cobertura podrán operar con cualquier Activo Objeto de Inversión, siempre que así lo definan en su prospecto de información a los posibles inversionistas, implementando estrategias de inversión que podrán ser susceptibles de cambios según las circunstancias del mercado o las necesidades de (sic) propio fondo, pudiendo incluir dentro de éstas los préstamos, créditos u otras operaciones causantes de pasivo que puedan obtener conforme a lo señalado en el artículo 15 de la presente Ley y que, en conjunto, les permita gestionar los riesgos como resultado de la diversificación en actividades, operaciones y estrategias.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 30 BIS. Como excepción a lo previsto en el artículo 5, las acciones representativas del capital social de los fondos de inversión de cobertura, únicamente podrán ser ofrecidas a inversionistas calificados e institucionales.
+
+Adicionalmente, este tipo de fondos no estarán obligados a establecer los límites máximos de tenencia previstos en el artículo 14 de la presente Ley. No obstante, lo anterior, estarán obligados a implementar mecanismos que permitan a sus accionistas, contar con información oportuna relativa al porcentaje y valor de su tenencia accionaria.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 31.
 
-Las inversiones que realicen los fondos de este tipo, se sujetarán al régimen que la Comisión establezca mediante disposiciones de carácter general y a los prospectos de información al público inversionista, en los que se deberá de contemplar el porcentaje que de su patrimonio habrá de estar representado por los Activos Objeto de Inversión propios de su actividad preponderante, sin perjuicio de que los recursos transitoriamente no invertidos, se destinen a la constitución de depósitos de dinero, así como a la adquisición de acciones representativas del capital social de fondos de inversión de renta variable o en instrumentos de deuda, y de valores, títulos y documentos objeto de inversión de los fondos de inversión en instrumentos de deuda.
+Las inversiones que realicen los fondos de este tipo, se sujetarán al régimen que la Comisión establezca mediante disposiciones de carácter general y a los prospectos de información al público inversionista, sin perjuicio de que los recursos transitoriamente no invertidos, se destinen a la constitución de depósitos de dinero, así como a la adquisición de acciones representativas del capital social de fondos de inversión de renta variable o en instrumentos de deuda, y de valores, títulos y documentos objeto de inversión de los fondos de inversión en instrumentos de deuda.
+
+Los fondos de inversión de cobertura deberán definir su estrategia de inversión alineándose a su política de inversión. Dicha estrategia podrá ser flexible en términos de liquidez, selección y, en su caso, diversificación o especialización de Activos Objeto de Inversión.
+
+En el prospecto de información al público inversionista se incluirá información sobre los criterios que la sociedad operadora de fondos de inversión o el asesor en inversiones que administren fondos de cobertura ha decidido aplicar en la valuación de los Activos Objeto de Inversión, la posible existencia de conflictos de interés al realizar operaciones con partes relacionadas, así como los plazos mínimos de anticipación para la notificación de compras y ventas de acciones representativas de su capital social por parte de los inversionistas.
 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -921,9 +947,9 @@ IX. Los demás que autorice la Comisión mediante disposiciones de carácter gen
 
 Los fondos de inversión estarán obligados a contratar los servicios a que se refiere la fracción IV anterior, cuando así lo prevea la Comisión en las disposiciones de carácter general a que se refiere el artículo 17 de esta Ley, salvo en los casos a que alude el último párrafo del artículo 80 Bis del presente ordenamiento.
 
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
-Los fondos de inversión de capitales no estarán obligadas (sic) a contratar los servicios señalados en las fracciones II, IV, V y VIII de este artículo, pero en todo caso deberán ajustarse en materia de valuación a lo establecido en el artículo 44 de esta Ley. La Comisión podrá exceptuar, mediante disposiciones de carácter general, a los fondos de inversión de objeto limitado, de la contratación de algunos de los servicios a que se refiere este precepto. Los fondos de inversión de capitales y de objeto limitado estarán obligados a contratar los servicios de auditoría externa independiente.
+Los fondos de inversión de capitales no estarán obligadas (sic) a contratar los servicios señalados en las fracciones II, IV, V y VIII de este artículo, pero en todo caso deberán ajustarse en materia de valuación a lo establecido en el artículo 44 de esta Ley. La Comisión podrá exceptuar, mediante disposiciones de carácter general, a los fondos de inversión de cobertura, de la contratación de algunos de los servicios a que se refiere este precepto. Los fondos de inversión de capitales y de cobertura estarán obligados a contratar los servicios de auditoría externa independiente.
 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -1081,7 +1107,9 @@ III. Que la valuación de las acciones representativas del capital social del fo
 
 IV. Que en las operaciones relativas a los Activos Objeto de Inversión de los fondos de inversión a los que preste sus servicios, cualquier ingreso o rendimiento sea reconocido en la contabilidad de dicho fondo, de conformidad con las disposiciones de carácter general que emita la Comisión;
 
-V. Que los sistemas y la contabilidad del fondo de inversión sean adecuados. Para efectos de lo anterior, deberá proponer al consejo de administración de la sociedad operadora de fondos de inversión los procesos o procedimientos para realizar la función a que alude esta fracción. Lo previsto en esta fracción no será aplicable tratándose de fondos de inversión de capitales o de objeto limitado, y
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+V. Que los sistemas y la contabilidad del fondo de inversión sean adecuados. Para efectos de lo anterior, deberá proponer al consejo de administración de la sociedad operadora de fondos de inversión los procesos o procedimientos para realizar la función a que alude esta fracción. Lo previsto en esta fracción no será aplicable tratándose de fondos de inversión de capitales o de cobertura, y
 
 VI. El proceso de arqueo que se lleve a cabo para verificar que las acciones del fondo de inversión que haya distribuido la sociedad distribuidora o las entidades que presten tal servicio, correspondan al capital social autorizado del propio fondo de inversión.
 
@@ -1213,9 +1241,9 @@ IV. Proporcionar servicios administrativos a los fondos de inversión.
 
 Las personas que otorguen servicios de administración de activos deberán estar constituidas como sociedades operadoras de fondos de inversión, y contarán con todo tipo de facultades y obligaciones para administrar, como si se tratara de un apoderado con poder general para realizar actos de tal naturaleza, debiendo observar en todo caso, el régimen de inversión aplicable al fondo de inversión de que se trate, así como su prospecto de información al público inversionista, salvaguardando en todo momento los intereses de los accionistas del mismo, para lo cual deberán proporcionarles la información relevante, suficiente y necesaria para la toma de decisiones.
 
-(ADICIONADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
-Las operaciones a que se refieren las fracciones I y III de este artículo que celebren las sociedades operadoras con motivo de la prestación de los servicios que otorguen a los fondos de inversión, deberán llevarlas a cabo con la intermediación de casas de bolsa o instituciones de crédito cuyo régimen les permita operar con el Activo Objeto de Inversión de que se trate, conforme a las disposiciones aplicables. La intermediación que realicen las sociedades operadoras con las acciones representativas del capital social de fondos de inversión podrá realizarse directamente, así como con aquellos valores que el Banco de México, mediante disposiciones de carácter general, les permita operar en dichos términos.
+Las operaciones a que se refieren las fracciones I y III de este artículo que celebren las sociedades operadoras con motivo de la prestación de los servicios que otorguen a los fondos de inversión, deberán llevarlas a cabo con la intermediación de casas de bolsa o instituciones de crédito cuyo régimen les permita operar con el Activo Objeto de Inversión de que se trate, conforme a las disposiciones aplicables. En los casos que por la regulación aplicable no sean susceptibles de intermediación por parte de las casas de bolsa o las instituciones de crédito, podrán llevarse a cabo directamente por las sociedades operadoras. La intermediación que realicen las sociedades operadoras con las acciones representativas del capital social de fondos de inversión podrá realizarse directamente, así como con aquellos valores que el Banco de México, mediante disposiciones de carácter general, les permita operar en dichos términos.
 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -1226,8 +1254,6 @@ La Comisión podrá autorizar a las sociedades operadoras de fondos de inversió
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 Las sociedades operadoras de fondos de inversión podrán prestar a los fondos de inversión, en forma conjunta, los servicios referidos en este artículo y aquellos a que se refiere el artículo 39 Bis siguiente.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -1290,6 +1316,18 @@ ARTICULO 39 BIS 4. Las sociedades operadoras de fondos de inversión deberán pr
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ARTICULO 39 BIS 5. Las sociedades operadoras de fondos de inversión estarán obligadas a grabar o documentar en medios electrónicos o digitales todas las comunicaciones con sus clientes respecto de los servicios de asesoría, promoción, compra y venta de valores, servicios fiduciarios, relacionados con las actividades antes citadas, así como conservar durante un plazo de cuando menos cinco años como parte integrante de la contabilidad de la sociedad operadora de fondos de inversión, tales grabaciones o documentos, sin perjuicio de lo establecido en el artículo 91 de esta Ley. Dicha información y documentación, deberá estar a disposición de la Comisión en todo momento, quien podrá requerir su entrega inmediata.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+ARTICULO 39 BIS 6. Los asesores en inversiones a los que se refiere el artículo 225 de la Ley del Mercado de Valores que cuenten con la autorización del artículo 225 Bis de la misma Ley, podrán ser el socio fundador de los fondos de inversión a los que se refiere el artículo 30 de la presente Ley y les prestarán los servicios de administración de activos, como excepción a lo establecido en el artículo 39.
+
+A la asamblea de accionistas, al consejo de administración y al comisario de los asesores en inversiones que actúen como socios fundadores de dichos fondos de inversión, les corresponderán las funciones asignadas, respectivamente, las funciones a que se refiere el artículo 10 de esta Ley.
+
+El consejo de administración del asesor en inversiones a que se refiere el presente artículo, tendrá delegadas las facultades que le son aplicables al consejo de administración de las sociedades operadoras de fondos de inversión, respecto de los fondos de inversión a los que les preste el servicio de administración de activos.
+
+En la prestación de estos servicios, el asesor en inversiones podrá contratar a terceros que cuenten con la capacidad legal y técnica para la realización de sus actividades.
+
+Adicionalmente para la realización de las actividades de vigilancia de los fondos de inversión establecidas para el contralor normativo, podrán contratar a una persona moral, que preste el servicio a través de personas físicas que cuenten con la certificación correspondiente del organismo autorregulatorio y que acrediten contar con honorabilidad e historial crediticio satisfactorio.
 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -1395,7 +1433,9 @@ La Comisión, mediante disposiciones de carácter general, podrá establecer req
 
 El servicio de valuación de acciones representativas del capital social de fondos de inversión será proporcionado por sociedades valuadoras de acciones de fondos de inversión. El resultado de la valuación determinará el precio de valuación de las distintas series o clases de acciones.
 
-Tratándose de los fondos de inversión de capitales y de objeto limitado, el precio de las acciones representativas de su capital social, podrá ser determinado por sociedades valuadoras o bien, por comités de valuación designados por aquellas.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+Tratándose de los fondos de inversión de capitales y de cobertura, el precio de las acciones representativas de su capital social, podrá ser determinado por sociedades valuadoras o bien, por comités de valuación designados por aquellas. La Comisión establecerá mediante disposiciones de carácter general la periodicidad con la que deberá de realizarse la valuación de las acciones representativas del capital social de estos fondos de inversión.
 
 Las sociedades valuadoras de acciones de fondos de inversión podrán llevar la contabilidad de los fondos de inversión a las que les presten sus servicios, estando obligadas a corroborar los registros que efectúen con la información que soporte de cada uno de los movimientos realizados.
 
@@ -1413,7 +1453,9 @@ Las sociedades valuadoras, en la prestación de sus servicios, se ajustarán a l
 
 Los precios actualizados de valuación de las acciones de los fondos de inversión, se darán a conocer al público a través de medios impresos o electrónicos de amplia circulación o divulgación, pero en todo caso los responsables de prestar este servicio, proporcionarán dichos precios a la Comisión y a las personas a que se refiere el artículo 32, fracciones I, II y VII de esta Ley, sujetándose a las disposiciones de carácter general que al efecto expida la Comisión. Asimismo, la citada Comisión en protección de los intereses del público, establecerá mediante disposiciones de carácter general los procedimientos para que los fondos de inversión puedan aplicar diferenciales al precio actualizado de valuación de las distintas series de acciones que emitan, para la realización de operaciones de compra y venta sobre sus propias acciones.
 
-Lo señalado en este artículo no será aplicable a los fondos de inversión de capitales y de objeto limitado cuando así lo determine la Comisión, mediante disposiciones de carácter general.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+Lo señalado en este artículo no será aplicable a los fondos de inversión de capitales y de cobertura cuando así lo determine la Comisión, mediante disposiciones de carácter general.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -1613,15 +1655,21 @@ Las sociedades operadoras de fondos de inversión que actúen como fiduciarias p
 
 En ningún caso, las personas que otorguen servicios de calificación, de valuación y de proveeduría de precios, podrán adquirir acciones de los fondos de inversión que las contraten.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 53.
 
-Las sociedades operadoras de fondos de inversión, distribuidoras y valuadoras de acciones de fondos de inversión, responderán por los daños y perjuicios que ocasionen al fondo de inversión que las contrate, cuando dichos daños y perjuicios sean producto de una actuación dolosa o intencional, o bien, de una negligencia inexcusable.
+Las sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión, entidades que presten el servicio de distribución de acciones de fondos de inversión, valuadoras de acciones de fondos de inversión y asesores en inversiones que cuenten con la autorización a que se refiere el artículo 225 Bis de la Ley del Mercado de Valores responderán por los daños y perjuicios que ocasionen al fondo de inversión que las contrate, cuando dichos daños y perjuicios sean producto de una actuación dolosa o intencional, o bien, de una negligencia inexcusable.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ESTE PÁRRAFO], D.O.F. 10 DE ENERO DE 2014)</small>
 
 La acción de responsabilidad a que se refiere este artículo podrá ser ejercida por:
 
+> <small>(REFORMADA Y REUBICADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
 I. El fondo de inversión afectado, o
+
+> <small>(REFORMADA Y REUBICADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
 II. Los accionistas del fondo de inversión afectado, que en lo individual o en su conjunto, representen el 0.5 por ciento del capital social en circulación o bien, mantengan invertido en el fondo de inversión el equivalente en moneda nacional a 100,000 unidades de inversión, lo que resulte mayor, a la fecha en que se pretenda ejercer la acción.
 
@@ -1779,11 +1827,11 @@ La Comisión, mediante disposiciones de carácter general, determinará las cara
 
 Las comisiones y remuneraciones que los fondos de inversión o sus accionistas cubrirán a las personas que proporcionen los servicios a que se refiere el presente capítulo, así como las que deban pagar los mencionados prestadores de servicios entre sí, deberán sujetarse a las disposiciones de carácter general que al efecto dicte la Comisión, atendiendo a criterios de equidad y transparencia, entre otros.
 
-> <small>(REFORMADO PRIMER PÁRRAFO Y REUBICADO, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 60.
 
-Las sociedades operadoras de fondos de inversión y las distribuidoras de acciones de fondos de inversión, al celebrar operaciones con el público inversionista, podrán pactar el uso de equipos y sistemas automatizados o de telecomunicación, siempre que se establezca en los contratos respectivos lo siguiente:
+Las sociedades operadoras de fondos de inversión, las sociedades distribuidoras de acciones de fondos de inversión y las entidades que prestan el servicio de distribución de acciones de fondos de inversión, al celebrar operaciones con el público inversionista, podrán pactar el uso de equipos y sistemas automatizados o de telecomunicación, siempre que se establezca en los contratos respectivos lo siguiente:
 
 I. Las bases para determinar las operaciones y servicios cuya prestación se pacte;
 
@@ -1985,9 +2033,11 @@ ARTICULO 77 BIS. Los auditores externos que suscriban el dictamen a los estados 
 
 Además, los citados auditores externos, la persona moral de la cual sean socios y los socios o personas que formen parte del equipo de auditoría no deberán ubicarse en ninguno de los supuestos de falta de independencia que al efecto establezca la Comisión, mediante disposiciones de carácter general, en las que se consideren, entre otros aspectos, vínculos financieros o de dependencia económica, prestación de servicios adicionales al de auditoría y plazos máximos durante los cuales los auditores externos puedan prestar los servicios de auditoría externa a las sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión o sociedades valuadoras de acciones de fondos de inversión.
 
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
-ARTICULO 77 BIS 1. La Comisión mediante disposiciones de carácter general, señalará las bases a las que se sujetará la aprobación de los estados financieros de los fondos de inversión por parte del consejo de administración de la sociedad operadora de fondos de inversión que les proporcione sus servicios; su difusión a través de la página electrónica de la red mundial denominada Internet en el sitio de la sociedad operadora de fondos de inversión que las administre, o en cualquier otro medio de comunicación incluyendo a los medios electrónicos, ópticos o de cualquier otra tecnología, así como el procedimiento a que se ajustará la revisión que de los mismos efectúe la propia Comisión. Tales publicaciones serán de la estricta responsabilidad de los administradores que hayan aprobado la autenticidad de los datos contenidos en dichos estados financieros. Tales personas deberán cuidar que los estados financieros revelen la verdadera situación financiera de los fondos de inversión y quedarán sujetos a las sanciones correspondientes en el caso de que las publicaciones no se ajusten a esta situación. Adicionalmente, el auditor externo de las sociedades operadoras de fondos de inversión que administre fondos de inversión de renta variable y en instrumentos de deuda, en la dictaminación de sus estados financieros, deberá incluir una opinión sobre la razonabilidad del proceso contable y de los estados financieros de los fondos de inversión de que se trate. Para el caso de fondos de inversión de capitales y de objeto limitado, el auditor externo que contrate la sociedad operadora de fondos de inversión que les preste sus servicios, deberá adicionalmente dictaminar sus estados financieros, ajustándose a lo previsto en los artículos 77, tercer y último párrafos y 77 Bis de esta Ley.
+ARTICULO 77 BIS 1. La Comisión mediante disposiciones de carácter general, señalará las bases a las que se sujetará la aprobación de los estados financieros de los fondos de inversión por parte del consejo de administración de la sociedad operadora de fondos de inversión que les proporcione sus servicios; su difusión a través de la página electrónica de la red mundial denominada Internet en el sitio de la sociedad operadora de fondos de inversión que las administre, o en cualquier otro medio de comunicación incluyendo a los medios electrónicos, ópticos o de cualquier otra tecnología, así como el procedimiento a que se ajustará la revisión que de los mismos efectúe la propia Comisión. Tales publicaciones serán de la estricta responsabilidad de los administradores que hayan aprobado la autenticidad de los datos contenidos en dichos estados financieros. Tales personas deberán cuidar que los estados financieros revelen la verdadera situación financiera de los fondos de inversión y quedarán sujetos a las sanciones correspondientes en el caso de que las publicaciones no se ajusten a esta situación. Adicionalmente, el auditor externo de las sociedades operadoras de fondos de inversión que administre fondos de inversión de renta variable y en instrumentos de deuda, en la dictaminación de sus estados financieros, deberá incluir una opinión sobre la razonabilidad del proceso contable y de los estados financieros de los fondos de inversión de que se trate. Para el caso de fondos de inversión de capitales y de cobertura, el auditor externo que contrate la sociedad operadora de fondos de inversión que les preste sus servicios, deberá adicionalmente dictaminar sus estados financieros, ajustándose a lo previsto en los artículos 77, tercer y último párrafos y 77 Bis de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 Se exceptúa a los fondos de inversión de lo establecido en el artículo 177 de la Ley General de Sociedades Mercantiles por lo que corresponde a la publicación de los estados financieros en el Diario Oficial de la Federación.
 
@@ -2593,9 +2643,9 @@ VI. Multa de 10,000 a 50,000 días de salario, a las sociedades a que se refiere
 
 VII. Multa de 15,000 a 50,000 días de salario, a las sociedades operadoras de fondos de inversión, los auditores de estas, respecto de las propias operadoras o de los fondos de inversión que administren, y las personas que presten servicios contables y administrativos a los fondos de inversión, que falseen, oculten, omitan o disimulen los registros contables y estados financieros de dichos fondos, independientemente de las responsabilidades civiles o penales en que incurran;
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
-VIII. Multa de 5,000 a 20,000 días de salario, a las sociedades operadoras de fondos de inversión y distribuidoras de acciones de fondos de inversión, que infrinjan lo dispuesto en la fracción VII del artículo 80 de esta Ley y las disposiciones de carácter general que emanen de este;
+VIII. Multa de 5,000 a 20,000 días de salario, a las sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión y entidades que presten el servicio de distribución de acciones de fondos de inversión, que infrinjan lo dispuesto en la fracción VII del artículo 80 de esta Ley y las disposiciones de carácter general que emanen de este;
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -2897,25 +2947,27 @@ Apartado F
 
 De los delitos
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 88.
 
-Serán sancionadas con prisión de cinco a quince años a las personas que realicen actos de los reservados por este ordenamiento legal en los artículos 5, 39, 39 Bis, 40, 40 Bis y 44 a los fondos de inversión, operadoras de fondos de inversión o distribuidoras de acciones de fondos de inversión, según corresponda, sin que para ello se cuente con la autorización correspondiente en los términos de la presente Ley.
-
-Igual pena será aplicada a quien ofrezca a persona indeterminada invertir en dos o más valores de cualquier tipo por cuenta de terceros, a través de un fideicomiso, mandato, comisión o de cualquier otro acto jurídico, estipulando la obligación de mutualizar entre las distintas cuentas las ganancias o pérdidas que resulten de tales inversiones. No será aplicable lo previsto en este párrafo a las ofertas públicas de valores que se ajusten a lo establecido en la Ley del Mercado de Valores y las disposiciones que de ella emanen.
+Serán sancionadas con prisión de cinco a quince años las personas que realicen actos de los reservados por este ordenamiento legal en los artículos 5, 39, 39 Bis, 39 Bis 6, 40, 40 Bis y 44 a los fondos de inversión, operadoras de fondos de inversión o distribuidoras de acciones de fondos de inversión, según corresponda, sin que para ello se cuente con la autorización correspondiente en los términos de la presente Ley.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
+Igual pena será aplicada a quien ofrezca a persona indeterminada invertir en dos o más valores de cualquier tipo por cuenta de terceros, a través de un fideicomiso, mandato, comisión o de cualquier otro acto jurídico, estipulando la obligación de mutualizar entre las distintas cuentas las ganancias o pérdidas que resulten de tales inversiones. No será aplicable lo previsto en este párrafo a las ofertas públicas de valores que se ajusten a lo establecido en la Ley del Mercado de Valores y las disposiciones que de ella emanen.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 89.
 
-Serán sancionadas con prisión de cinco a quince años las personas que desempeñen funciones directivas, empleos, cargos o comisiones en un fondo de inversión o sociedad operadora de fondos de inversión, que dispongan de los activos integrantes del patrimonio del fondo de inversión a la que pertenezcan, aplicándolos a fines distintos a los que se prevean en el prospecto de información al público inversionista.
+Serán sancionadas con prisión de cinco a quince años las personas que desempeñen funciones directivas, empleos, cargos o comisiones en un fondo de inversión, sociedad operadora de fondos de inversión o asesor en inversiones que cuente con la autorización a que se refiere el artículo 225 Bis de la Ley del Mercado de Valores, que dispongan de los activos integrantes del patrimonio del fondo de inversión a la que pertenezcan, aplicándolos a fines distintos a los que se prevean en el prospecto de información al público inversionista.
 
-> <small>(REFORMADO PRIMER PÁRRAFO Y REUBICADO, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 90.
 
-Serán sancionados con prisión de dos a diez años los miembros del consejo de administración, directivos, funcionarios, empleados, apoderados para celebrar operaciones con el público, comisarios o auditores externos de un fondo de inversión o sociedad operadora de fondos de inversión que intencionalmente:
+Serán sancionados con prisión de dos a diez años los miembros del consejo de administración, directivos, funcionarios, empleados, apoderados para celebrar operaciones con el público, comisarios o auditores externos de un fondo de inversión, sociedad operadora de fondos de inversión o asesor en inversiones que cuente con la autorización que refiere el artículo 225 Bis de la Ley del Mercado de Valores, que intencionalmente:
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -2923,9 +2975,9 @@ I. Omitan registrar en los términos del artículo 76 de esta Ley, las operacion
 
 II. Inscriban u ordenen que se inscriban datos falsos en la contabilidad o que proporcionen o permitan que se incluyan datos falsos en los documentos o informes que deban proporcionarse a la Comisión.
 
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
-ARTICULO 90 BIS. Las personas que ostenten algún cargo, mandato, comisión o cualquier otro título jurídico que, para el desempeño de las actividades y operaciones que correspondan a las sociedades operadoras de fondos de inversión y sociedades distribuidoras de acciones de fondos de inversión, estas les hubieren otorgado, serán consideradas como funcionarios o empleados de dichas sociedades, para efectos de las responsabilidades administrativas y penales establecidas en el presente Apartado.
+ARTICULO 90 BIS. Las personas que ostenten algún cargo, mandato, comisión o cualquier otro título jurídico que, para el desempeño de las actividades y operaciones que correspondan a las sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión, sociedades valuadoras de acciones de fondos de inversión y asesores en inversiones que cuenten con la autorización que refiere el artículo 225 Bis de la Ley del Mercado de Valores, estas les hubieren otorgado, serán consideradas como funcionarios o empleados de dichas sociedades, para efectos de las responsabilidades administrativas y penales establecidas en el presente Apartado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO Y REUBICADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -3246,3 +3298,15 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 28 DE DICIEMBRE DE 2023.
+
+> <small>[N. DE E. "DISPOSICIONES TRANSITORIAS DE LA LEY DE FONDOS DE INVERSIÓN”.]</small>
+
+Primero.- La Comisión Nacional Bancaria y de Valores deberá emitir las Disposiciones de carácter general a que se refiere el presente Decreto en un plazo no mayor a 365 días naturales contados a partir del siguiente de su entrada en vigor.
+
+Segundo.- El Banco de México deberá emitir las Disposiciones de carácter general a que se refiere el presente Decreto en un plazo no mayor a 365 días naturales contados a partir del siguiente de su entrada en vigor.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL MERCADO DE VALORES Y DE LA LEY DE FONDOS DE INVERSIÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
