@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-proteccion-del-ambiente-natural-y-el-desarrollo-262
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-18"
-last_updated: "2022-10-21"
+last_updated: "2023-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY PARA LA PROTECCION DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2024 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de septiembre de 2002.
 
@@ -171,6 +173,10 @@ V.- BIODEGRADABLE.- Es el compuesto químico que se degrada por una acción biol
 
 VI.- BIODIVERSIDAD.- La variabilidad de organismos vivos de cualquier fuente, incluidos entre otros, los ecosistemas terrestres, marítimos y acuáticos y los complejos ecológicos de los que forman parte; asimismo la diversidad entre las especies y los ecosistemas;
 
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2023)</small>
+
+VI Bis. BOLETA DE INFRACCIÓN AMBIENTAL. Documento mediante el cual se hace constar una infracción a la Presente Ley, y su Reglamento en Materia de Prevención y Control de la Contaminación Atmosférica, advertida por dispositivos o medios tecnológicos;
+
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
 VII.- CERTIFICACIONES DE BUENAS PRÁCTICAS AMBIENTALES.- Son reconocimientos que otorga el Ejecutivo del Estado, a través de la Secretaría, con la finalidad de continuar incentivando más allá del cumplimiento de la norma ambiental, las actividades y obras que sean competencia del Estado;
@@ -222,6 +228,10 @@ XVIII.- DAÑO AMBIENTAL.- Toda pérdida, disminución, detrimento o menoscabo si
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
 XIX.- DESEQUILIBRIO ECOLÓGICO.- La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo de los seres vivos;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XIX Bis. DISPOSITIVOS O MEDIOS TECNOLÓGICOS. Equipo electromecánico, eléctrico, análogo, digital u óptico, incluyendo, cámaras, opacímetros, u otros instrumentos de innovación tecnológica que permitan verificar el cumplimiento del programa de verificación vehicular, así como la detección e identificación de infracciones a la presente Ley, y su Reglamento en Materia de Prevención y Control de la Contaminación Atmosférica;
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
@@ -299,6 +309,10 @@ XXXVII.- MANEJO DE RESIDUOS.- Es el conjunto de actividades relativas al almacen
 
 XXXVIII.- MEDIO AMBIENTE.- Conjunto de elementos naturales o artificiales que hacen posible la existencia y desarrollo de los seres humanos y organismos vivos que interactúan en un lugar y tiempo determinados;
 
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XXXVIII Bis. MONITOREO REMOTO. Acción que se realiza a través de dispositivos o medios tecnológicos instalados y debidamente habilitados que permiten vigilar, de manera remota, el cumplimiento del programa de verificación vehicular, y por otro lado permiten realizar el procedimiento de inspección y vigilancia de acuerdo con la Normas Oficiales Mexicanas vigentes y aplicables;
+
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
 XXXIX.- ORDENAMIENTO ECOLÓGICO.- Es el instrumento de política ambiental que establece el proceso de planeación dirigido a programar el óptimo manejo de los recursos naturales en el territorio estatal, para regular e inducir el uso de suelo con base en su vocación natural y las actividades productivas a través de la aplicación de políticas y criterios para proteger, preservar, conservar, restaurar y aprovechar sustentablemente los recursos naturales;
@@ -363,6 +377,10 @@ LII.- RIESGO AMBIENTAL.- Es la contingencia en el proceso de los fenómenos natu
 
 LIII.- SECRETARÍA.- La Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial;
 
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2023)</small>
+
+LIII Bis. SECRETARÍA DE SEGURIDAD PÚBLICA. La Secretaría de Seguridad Pública del Gobierno del Estado de Puebla;
+
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
 
 LIV.- SUBSISTEMA DE ÁREAS NATURALES PROTEGIDAS.- Es un diagnóstico e inventario completo de las características bióticas y abióticas, así como su situación legal y socioeconómica que presenta cada área natural protegida a través de un sistema de información geográfica;
@@ -378,6 +396,10 @@ LVI.- SUSTANCIAS DEL GRUPO II.- Grupo de sustancias que contenga cualquier cloro
 > <small>(REFORMADA, P.O. 12 DE MARZO DE 2020)</small>
 
 LVII.- TRATAMIENTO.- Es el proceso al que se someten los residuos, con el objeto de neutralizar, disminuir o eliminar los contaminantes que se le hayan incorporado;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2023)</small>
+
+LVII Bis. VEHÍCULO EFICIENTE. Vehículo de propulsión mecánica con motor de combustión interna que cumple con las Normas Oficiales Mexicanas sobre emisiones y con las obligaciones de verificación, previsto en la fracción XXVIII de este artículo;
 
 > <small>(REFORMADA, P.O. 12 DE MARZO DE 2020)</small>
 
@@ -463,17 +485,39 @@ XXIV.- El ejercicio de las funciones que en materia de preservación del equilib
 
 XXV.- Promover la utilización de materiales biodegradables;
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2023)</small>
 
-XXVI.- La prevención y control de la contaminación visual, y la protección de la imagen del entorno ambiental, en las Vialidades de Jurisdicción Estatal, sus Zonas Adyacentes y los bienes inmuebles propiedad del Estado; y
+XXVI.- La prevención y control de la contaminación visual, y la protección de la imagen del entorno ambiental, en las Vialidades de Jurisdicción Estatal, sus Zonas Adyacentes y los bienes inmuebles propiedad del Estado;
 
-> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2023)</small>
 
-XXVII.- Las demás facultades que en materia de preservación de los ecosistemas y protección al ambiente prevea esta Ley.
+XXVII.- Promover, fomentar y procurar la movilidad tomando en consideración el principio de sostenibilidad, procurando el uso de vehículos eficientes y el cumplimiento de la normatividad aplicable en materia ambiental relacionada con la movilidad;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XXVIII.- Suscribir convenios o acuerdos de colaboración y coordinación con Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal para la aplicación de esta Ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2023)</small>
+
+XXIX.- Las demás facultades que en materia de preservación de los ecosistemas y protección al ambiente prevea esta Ley.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 2023)</small>
+
+#### SECCIÓN PRIMERA BIS. DE LAS ATRIBUCIONES DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 5 BIS. Es competencia de la Secretaría de Seguridad Pública:
+
+I. Coadyuvar con la Secretaría en la implementación de los instrumentos de política ambiental de jurisdicción estatal en materia de prevención y control de la contaminación atmosférica proveniente de fuentes móviles directas;
+
+II. Coordinarse con la Secretaría en las acciones que realice para verificar el cumplimiento en materia de contaminación atmosférica generada por fuente móvil directa que contaminen de manera ostensible;
+
+III. Celebrar convenios o acuerdos de coordinación con la Secretaría, para la aplicación de esta Ley; y
+
+IV. Las demás que, en materia de contaminación atmosférica de fuentes móviles directas, le conceda esta Ley u otros ordenamientos en concordancia con ella.
 
 #### SECCIÓN SEGUNDA. DE LAS ATRIBUCIONES DE LOS AYUNTAMIENTOS
-
-#### SECCIÓN PRIMERA. INSTRUMENTOS DE PLANEACIÓN AMBIENTAL
 
 ###### ARTÍCULO 6.
 
@@ -699,7 +743,7 @@ XXI. Ante la duda sobre la certeza o exactitud científica de riesgos ambientale
 
 ### CAPÍTULO III. DE LOS INSTRUMENTOS DE POLÍTICA AMBIENTAL
 
-#### SECCIÓN SEGUNDA. DEL ORDENAMIENTO ECOLÓGICO
+#### SECCIÓN PRIMERA. INSTRUMENTOS DE PLANEACIÓN AMBIENTAL
 
 ###### ARTÍCULO 17.
 
@@ -717,7 +761,7 @@ II.- De administración pública vinculada y federalista: Soportada en la operac
 
 III.- De protección ambiental permanente: A través del rescate de la calidad de vida, rehabilitando, restaurando y preservando los ecosistemas, promoviendo la salud ambiental, previniendo, controlando y atenuando la contaminación, la recuperación de habitabilidad, estableciendo modelos de desarrollo urbano con criterios ambientales, el fortalecimiento permanente de la gestión ambiental, promoviendo la educación ambiental en todos los niveles y gestionando la investigación aplicada, en primera instancia, a la solución de problemas ambientales puntuales en el estado.
 
-#### SECCIÓN TERCERA. DE LOS CRITERIOS AMBIENTALES EN LA PROMOCIÓN DEL DESARROLLO ESTATAL
+#### SECCIÓN SEGUNDA. DEL ORDENAMIENTO ECOLÓGICO
 
 ###### ARTÍCULO 19.
 
@@ -831,13 +875,13 @@ Los Programas de Ordenamiento Ecológico a que se refiere esta Ley, una vez apro
 
 La Secretaría establecerá un Subsistema de Información de los Programas de Ordenamiento Ecológicos.
 
-#### SECCIÓN CUARTA. REGULACIÓN AMBIENTAL DE LOS ASENTAMIENTOS HUMANOS
+#### SECCIÓN TERCERA. DE LOS CRITERIOS AMBIENTALES EN LA PROMOCIÓN DEL DESARROLLO ESTATAL
 
 ###### ARTÍCULO 27.
 
 En la planeación y realización de las acciones a cargo de los Gobiernos Estatal y Municipales, conforme a sus respectivas áreas de competencia, que se relacionen con materias objeto de este ordenamiento, así como en el ejercicio de las atribuciones que se les confieren para regular, promover, restringir, prohibir, orientar y, en general, inducir las acciones de los particulares en los ámbitos económico y social, se observarán los criterios ambientales generales que establezcan las Leyes de la materia, a través del uso de los instrumentos de la política ambiental.
 
-#### SECCIÓN QUINTA. DE LOS INSTRUMENTOS ECONÓMICOS
+#### SECCIÓN CUARTA. REGULACIÓN AMBIENTAL DE LOS ASENTAMIENTOS HUMANOS
 
 ###### ARTÍCULO 28.
 
@@ -897,9 +941,7 @@ VI.- Los diseños que faciliten la ventilación natural; y
 
 VII.- El uso de materiales de construcción apropiados al medio ambiente y a las tradiciones regionales.
 
-#### SECCIÓN SEXTA. DEL PROCEDIMIENTO DE EVALUACIÓN DEL IMPACTO Y RIESGO AMBIENTAL
-
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+#### SECCIÓN QUINTA. DE LOS INSTRUMENTOS ECONÓMICOS
 
 ###### ARTÍCULO 31.
 
@@ -957,7 +999,9 @@ En los proyectos públicos financiados con partidas del presupuesto estatal o mu
 
 La Secretaría estimulará a los particulares a incorporar en su actividad productiva y de servicios, procesos y tecnologías ambientales adecuadas, utilizando los programas de incentivos y promoviendo la cooperación nacional e internacional, financiera y técnica.
 
-#### SECCIÓN SÉPTIMA. DE LA AUTORREGULACIÓN Y AUDITORÍAS AMBIENTALES
+#### SECCIÓN SEXTA. DEL PROCEDIMIENTO DE EVALUACIÓN DEL IMPACTO Y RIESGO AMBIENTAL
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 37.
 
@@ -1105,9 +1149,7 @@ Los Ayuntamientos condicionarán las autorizaciones de uso de suelo, licencias d
 
 La Secretaría vigilará y supervisará el cumplimiento de las obligaciones señaladas en la autorización en materia de impacto ambiental.
 
-#### SECCIÓN OCTAVA. DE LA EDUCACIÓN E INVESTIGACIÓN AMBIENTAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2021)</small>
+#### SECCIÓN SÉPTIMA. DE LA AUTORREGULACIÓN Y AUDITORÍAS AMBIENTALES
 
 ###### ARTÍCULO 50.
 
@@ -1153,7 +1195,9 @@ La Secretaría, en coordinación con la empresa auditada, pondrá los programas 
 
 La Secretaría garantizará el derecho a la información de los interesados, poniendo a su disposición los programas preventivos y correctivos derivados de las auditorías ambientales practicadas, en términos de lo dispuesto por la presente Ley. En todo caso, deberán observarse las disposiciones legales relativas a la confidencialidad de la información industrial y comercial.
 
-#### SECCIÓN PRIMERA. DE LAS DECLARATORIAS PARA EL ESTABLECIMIENTO, CONSERVACIÓN Y ADMINISTRACIÓN DE LAS ÁREAS NATURALES PROTEGIDAS
+#### SECCIÓN OCTAVA. DE LA EDUCACIÓN E INVESTIGACIÓN AMBIENTAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 55.
 
@@ -1293,9 +1337,7 @@ En las Zonas de Preservación Ecológica de los Centros de Población se integra
 
 Los Ayuntamientos podrán imponer las medidas de protección, administración y vigilancia que consideren pertinentes para la consecución de los objetivos por los que se someta al presente régimen de este tipo de áreas naturales.
 
-#### SECCIÓN SEGUNDA. DE LOS PROGRAMAS DE MANEJO Y SU FINANCIAMIENTO
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2012)</small>
+#### SECCIÓN PRIMERA. DE LAS DECLARATORIAS PARA EL ESTABLECIMIENTO, CONSERVACIÓN Y ADMINISTRACIÓN DE LAS ÁREAS NATURALES PROTEGIDAS
 
 ###### ARTÍCULO 70.
 
@@ -1339,7 +1381,9 @@ Las declaratorias deberán publicarse en el Periódico Oficial del Estado y se n
 
 Una vez establecida el área natural protegida, sólo podrá modificarse su extensión y, en su caso, los usos del suelo permitidos o cualquiera de sus disposiciones, por acuerdo de la Autoridad que los haya establecido, de conformidad con los estudios que se realicen, y siguiendo el procedimiento previsto en esta Ley, para la expedición de la declaratoria respectiva.
 
-#### SECCIÓN TERCERA. DE LA ADMINISTRACIÓN Y VIGILANCIA DE LAS ÁREAS NATURALES PROTEGIDAS
+#### SECCIÓN SEGUNDA. DE LOS PROGRAMAS DE MANEJO Y SU FINANCIAMIENTO
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 76.
 
@@ -1415,7 +1459,7 @@ III.- Promoverá los incentivos económicos y los estímulos para las personas y
 
 El Estado y los Ayuntamientos procurarán establecer en sus presupuestos de egresos partidas destinadas a la realización de acciones de preservación y restauración de la biodiversidad.
 
-#### SECCIÓN CUARTA. DEL SUBSISTEMA DE ÁREAS NATURALES PROTEGIDAS DEL ESTADO
+#### SECCIÓN TERCERA. DE LA ADMINISTRACIÓN Y VIGILANCIA DE LAS ÁREAS NATURALES PROTEGIDAS
 
 ###### ARTÍCULO 85.
 
@@ -1439,7 +1483,7 @@ Las áreas naturales protegidas previstas en esta Ley, así como las áreas fede
 
 En el Subsistema de áreas naturales protegidas se consignarán los datos contenidos en la declaratoria respectiva, el Programa de Manejo correspondiente, así como los relativos a su inscripción en el Registro Público de la Propiedad y del Comercio respectivo.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES COMUNES
+#### SECCIÓN CUARTA. DEL SUBSISTEMA DE ÁREAS NATURALES PROTEGIDAS DEL ESTADO
 
 ###### ARTÍCULO 88.
 
@@ -1685,7 +1729,7 @@ ARTÍCULO 111 NONIES.- La Secretaría podrá celebrar convenios de colaboración
 
 ### CAPÍTULO II. DE LA PROTECCIÓN A LA ATMÓSFERA
 
-#### SECCIÓN SEGUNDA. DE LAS FUENTES FIJAS DE CONTAMINACIÓN ATMOSFÉRICA
+#### SECCIÓN PRIMERA. DISPOSICIONES COMUNES
 
 ###### ARTÍCULO 112.
 
@@ -1711,7 +1755,7 @@ II.- El otorgamiento de todo tipo de concesiones, autorizaciones, licencias, per
 
 La Secretaría y, en su caso, los Ayuntamientos promoverán y apoyarán el establecimiento y operación del sistema de monitoreo de la calidad del aire, la elaboración de los reportes y la publicación para su integración al inventario nacional.
 
-#### SECCIÓN TERCERA. DE LAS FUENTES MÓVILES DE CONTAMINACIÓN ATMOSFÉRICA
+#### SECCIÓN SEGUNDA. DE LAS FUENTES FIJAS DE CONTAMINACIÓN ATMOSFÉRICA
 
 ###### ARTÍCULO 115.
 
@@ -1779,6 +1823,8 @@ V.- Una lista que contenga todas las empresas públicas o privadas que al moment
 
 VI.- Recomendaciones sobre investigaciones científicas, convenios de colaboración con organismos públicos o privados y ordenamientos legales que deberán concretarse para lograr las metas de la fracción III del presente artículo.
 
+#### SECCIÓN TERCERA. DE LAS FUENTES MÓVILES DE CONTAMINACIÓN ATMOSFÉRICA
+
 ###### ARTÍCULO 119.
 
 Los vehículos automotores que circulen en el Estado, deberán contar con los dispositivos para el control de emisiones y observar los niveles de emisiones contaminantes establecidos en las Normas Oficiales Mexicanas de acuerdo con los programas que para controlar la contaminación y prevenir contingencias ambientales emita la Secretaría.
@@ -1826,6 +1872,40 @@ III.- Integrar un registro de los Centros de Verificación Vehicular;
 IV.- Integrar y mantener actualizado un informe de los datos obtenidos por los Centros de Verificación Vehicular; y
 
 V.- Promover el mejoramiento y modernización de los sistemas del servicio público de transporte en el Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 125 BIS.- La Secretaría, podrá implementar, establecer y operar dispositivos o medios tecnológicos para verificar el cumplimiento de esta Ley, su Reglamento en Materia de Prevención y Control de la Contaminación Atmosférica, las Normas Oficiales Mexicanas aplicables, y el Programa de Verificación Vehicular.
+
+El monitoreo remoto consiste en la actividad generada por la Secretaría a través de dispositivos o medios tecnológicos para constatar que los vehículos registrados en el Estado, así como los que circulan dentro de su territorio, cumplan con las Normas Oficiales Mexicanas aplicables y el Programa de Verificación Vehicular.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 125 TER.- Las acciones del monitoreo remoto consistirán en:
+
+I. Constatar el cumplimiento del Programa de Verificación Vehicular; y
+
+II. Inspeccionar y Vigilar las fuentes móviles directas que circulen sobre vías de jurisdicción estatal, que contaminen de forma ostensible.
+
+ARTÍCULO 125 QUÁTER.- Para los efectos de la fracción I del artículo 125 Ter, la Secretaría detectará las fuentes móviles directas registradas en el Estado que se encuentren en circulación y no hayan cumplido con el Programa de Verificación Vehicular, contrastando las bases de datos de vehículos verificados en el Estado.
+
+Los propietarios o poseedores de vehículos detectados por dispositivos o medios tecnológicos que se encuentren en circulación y que no hubieren aprobado el Programa de Verificación Vehicular serán acreedores a la sanción prevista en el artículo 179 fracción I de esta Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 125 QUINQUIES.- Para los efectos de la fracción II del artículo 125 Ter de esta Ley, la Secretaría podrá verificar e inspeccionar a través de medios o dispositivos tecnológicos, a las fuentes móviles directas que circulen en el territorio del Estado y que contaminen de manera ostensible, hayan o no aprobado el programa de verificación.
+
+Para cumplir lo anterior, la Secretaría, en coordinación con la Secretaría de Seguridad Pública de acuerdo con los convenios o acuerdos que para tal efecto suscriban, podrá detener a los vehículos señalados en el párrafo anterior, y practicar en ese momento, las pruebas técnicas que resulten necesarias para verificar la aplicación de esta Ley, su Reglamento en Materia de Prevención y Control de la Contaminación Atmosférica, y las Normas Oficiales Mexicanas aplicables, en materia de contaminación atmosférica.
+
+El procedimiento técnico de verificación vehicular de fuentes móviles directas que contaminen de manera ostensible, realizado a través de dispositivos o medios tecnológicos, se detallará en el Reglamento de esta Ley en Materia de Prevención y Control de la Contaminación Atmosférica, y en las disposiciones que emita la Secretaría.
+
+Con independencia de lo anterior, en todo momento el personal de la Secretaría y de la Secretaría de Seguridad Pública, deberá identificarse y portar credencial vigente, hacer del conocimiento al poseedor o su propietario el motivo de la detención, informarle sobre el procedimiento técnico de verificación, mostrarle los dispositivos que se emplearán en el mismo, así como dar a conocer el resultado de la verificación.
+
+Los propietarios o poseedores de vehículos que se corrobore que contaminan ostensiblemente a través del procedimiento previsto en este artículo, serán acreedores a la sanción prevista en el artículo 179 fracción I de esta Ley.
+
+De igual forma, tendrán la obligación de realizar las medidas correctivas necesarias y aprobar el programa de verificación en un máximo de 30 días.
+
+En caso de que la acción subsista, además de la sanción que refiere el artículo 179 fracción I, la Secretaría podrá retirar de circulación las fuentes móviles directas en función de la fracción V del artículo citado. Artículo 166. Las disposiciones expresadas en este Título regulan la actuación de las autoridades competentes durante el ejercicio de las funciones de inspección y vigilancia, monitoreo remoto, ejecución de medidas de seguridad, determinación de sanciones y recursos administrativos, así como la presentación de denuncias en materia penal, incluyendo la denuncia popular.
 
 ### CAPÍTULO III. DE LA PROTECCIÓN DEL AGUA
 
@@ -2233,9 +2313,11 @@ Quien reciba información ambiental de la Secretaría, en los términos del pres
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 166.
 
-Las disposiciones expresadas en este título regulan la actuación de las Autoridades competentes durante el ejercicio de las funciones de inspección y vigilancia, ejecución de medidas de seguridad, determinación de sanciones y recursos administrativos, así como la presentación de denuncias en materia penal incluyendo la denuncia popular.
+Las disposiciones expresadas en este Título regulan la actuación de las autoridades competentes durante el ejercicio de las funciones de inspección y vigilancia, monitoreo remoto, ejecución de medidas de seguridad, determinación de sanciones y recursos administrativos, así como la presentación de denuncias en materia penal, incluyendo la denuncia popular.
 
 Tratándose de asuntos de competencia municipal los Ayuntamientos aplicarán lo dispuesto en el presente título, los Reglamentos que expidan en materia de protección del ambiente y los bandos de policía y gobierno.
 
@@ -2303,11 +2385,39 @@ Transcurrido el término a que se refiere el artículo anterior, desahogadas las
 
 La Secretaría verificará el cumplimiento de las medidas ordenadas en términos del requerimiento o resolución respectiva y en caso de subsistir la o las infracciones podrá imponer las sanciones que procedan conforme la Ley, independientemente de denunciar la desobediencia de un mandato legítimo de Autoridad ante las instancias competentes.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO II BIS. DEL PROCESO DE MONITOREO REMOTO DE FUENTES MÓVILES DIRECTAS
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2023)</small>
+
+ARTÍCULO 175 BIS. Las violaciones a las disposiciones previstas en la Sección Tercera del Capítulo II del Título Quinto de esta Ley, y su Reglamento en Materia de Prevención y Control de la Contaminación Atmosférica, captadas por la Secretaría a través de medios o dispositivos tecnológicos, constituyen infracciones, las que se harán constar en la Boleta de Infracción Ambiental, que deberán contener como mínimo, lo siguiente:
+
+I. Nombre y domicilio del propietario del vehículo;
+
+II. La fundamentación y motivación de la infracción cometida y los artículos de la sanción aplicable;
+
+III. Nombre y firma de la persona autoridad que emite la resolución;
+
+La firma de la autoridad podrá ser autógrafa o electrónica conforme a la Ley aplicable;
+
+IV. Placa, marca y modelo de la fuente móvil directa;
+
+V. Fecha, hora, lugar y descripción de la conducta infractora;
+
+VI. Nombre del dispositivo o medio tecnológico utilizado; y
+
+VII. La captura de imagen expedida por dispositivo o medio tecnológico utilizado.
+
+La Secretaría emitirá la boleta de infracción ambiental, por incumplimiento del programa de verificación derivada del monitoreo remoto, y deberá ser notificada en el domicilio del propietario o poseedor del vehículo.
+
+La boleta de infracción ambiental por contaminar ostensiblemente derivada del monitoreo remoto deberá ser notificada en el mismo momento al propietario o poseedor del vehículo.
+
+En contra de la boleta de infracción ambiental los propietarios o poseedores podrán interponer recurso de revisión previsto en esta Ley, o mediante el procedimiento Contencioso Administrativo establecido en la Ley del Procedimiento Contencioso Administrativo del Estado de Puebla.
+
 ### CAPÍTULO III. DE LAS MEDIDAS DE SEGURIDAD
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2021)</small>
-
-### CAPÍTULO IV. DE LOS MEDIOS DE PRUEBA
 
 ###### ARTÍCULO 176.
 
@@ -2327,13 +2437,13 @@ La Autoridad podrá solicitar el auxilio de la fuerza pública para ejecutar cua
 
 Cuando la Autoridad ordene alguna de las medidas de seguridad previstas en esta Ley, indicará al interesado, una vez iniciado el procedimiento administrativo correspondiente, y cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
 
-### CAPÍTULO V. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPÍTULO IV. DE LOS MEDIOS DE PRUEBA
 
 ###### ARTÍCULO 178.
 
 En los procedimientos administrativos previstos en la Ley, son admisibles toda clase de pruebas, con excepción de la confesional, la declaración de partes y las que sean contrarias a derecho, a la moral y a las buenas costumbres.
 
-### CAPÍTULO VI. DEL RECURSO ADMINISTRATIVO DE REVISIÓN
+### CAPÍTULO V. DE LAS SANCIONES ADMINISTRATIVAS
 
 ###### ARTÍCULO 179.
 
@@ -2403,7 +2513,7 @@ Independientemente de lo mencionado en el artículo 179, procederá la clausura 
 
 La Secretaría promoverá ante las Autoridades Federales, Estatales o Municipales competentes, con base en los estudios técnicos que realice, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos y turísticos, o cualquier actividad que afecte o pueda afectar el ambiente, los recursos naturales o causar desequilibrio ecológico o pérdida de la biodiversidad.
 
-### CAPÍTULO VII. DE LA DENUNCIA POPULAR
+### CAPÍTULO VI. DEL RECURSO ADMINISTRATIVO DE REVISIÓN
 
 ###### ARTÍCULO 186.
 
@@ -2504,6 +2614,8 @@ Cualquier persona que se vea afectada directamente por obras, o actividades auto
 ###### ARTÍCULO 198.
 
 En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo esta Ley, serán nulas y los servidores públicos responsables serán sancionados conforme lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado. Dicha nulidad deberá ser declarada por medio del recurso a que se refiere el artículo anterior.
+
+### CAPÍTULO VII. DE LA DENUNCIA POPULAR
 
 ###### ARTÍCULO 199.
 
@@ -2760,3 +2872,13 @@ P.O. 21 DE OCTUBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XXVI Y XXVII DEL ARTÍCULO 5 Y EL ACÁPITE DEL ARTÍCULO 166, Y ADICIONA LAS FRACCIONES VI BIS, XIX BIS, LIII BIS Y LVII BIS AL ARTÍCULO 4, LAS FRACCIONES XXVIII Y XXIX AL ARTÍCULO 5, LA SECCIÓN PRIMERA BIS AL CAPÍTULO II DEL TÍTULO PRIMERO, LOS ARTÍCULOS 5 BIS, 125 BIS, 125 TER, 125 QUÁTER, 125 QUINQUIES, EL CAPÍTULO II BIS AL TÍTULO SÉPTIMO Y EL ARTÍCULO 175 BIS, TODOS DE LA LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente ordenamiento.
+
+TERCERO. El Ejecutivo del Estado realizará las modificaciones reglamentarias necesarias para la aplicación del presente Decreto.
