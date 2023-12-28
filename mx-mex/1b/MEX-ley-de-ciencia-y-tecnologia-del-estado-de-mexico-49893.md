@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-ciencia-y-tecnologia-del-estado-de-mexico-49893"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2022-12-09"
+last_updated: "2023-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE DICIEMBRE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Tercera Sección Bis de la Gaceta del Gobierno del Estado de México, el viernes 31 de diciembre de 2004.
 
@@ -103,6 +103,10 @@ IV. Integrar esfuerzos de las diversas comunidades y sectores, tanto de los gene
 
 V. Brindar atención especial a personas en situación de extrema pobreza, grupos marginados, con discapacidad, mujeres, niñas, niños, adolescentes y personas jóvenes, pequeñas empresas y micro empresas, dependencias del Gobierno del Estado y los municipios, instituciones educativas públicas, privadas de tipo básica, media superior y superior.
 
+> <small>(ADICIONADA, G.G. 28 DE DICIEMBRE DE 2023)</small>
+
+VI. Promover la inclusión de la perspectiva de género y la participación equitativa de mujeres y hombres en la ciencia, la tecnología y la innovación, así como en todos los ámbitos del Sistema Estatal de Ciencia y Tecnología.
+
 ###### ARTICULO 4.
 
 Para efectos de esta Ley, el Sistema Estatal de Ciencia y Tecnología, estará integrado por:
@@ -174,6 +178,10 @@ XVIII. Se promoverá la conservación, consolidación, actualización y desarrol
 > <small>(REFORMADA, G.G. 9 DE DICIEMBRE 2022)</small>
 
 XIX. Se fomentará la creación y fortalecimiento de espacios destinados a la investigación, desarrollo y divulgación de la ciencia y la tecnología para niñas, niños, adolescentes y personas jóvenes mexiquenses.
+
+> <small>(ADICIONADA, G.G. 28 DE DICIEMBRE DE 2023)</small>
+
+XX. Se promoverá activamente el fomento, apoyo, reconocimiento y divulgación de las actividades y logros en la investigación científica y el desarrollo tecnológico realizadas o lideradas por mujeres, así como aquellas que tengan un impacto positivo en el alcance de la igualdad sustantiva.
 
 ###### ARTICULO 7.
 
@@ -515,6 +523,10 @@ I. Reconocer la labor de los investigadores que lleven a cabo investigación cie
 
 II. Apoyar la integración de grupos de investigadores y tecnólogos en el Estado, que participen en el proceso de generación de conocimientos científicos y tecnológicos, hasta su aplicación en beneficio de la sociedad.
 
+> <small>(ADICIONADA, G.G. 28 DE DICIEMBRE DE 2023)</small>
+
+III. Promover y fomentar el apoyo, reconocimiento, participación y desarrollo de las mujeres en la innovación, la ciencia y la tecnología, asegurando la igualdad sustantiva entre los géneros, a través de la equidad.
+
 ###### ARTICULO 44.
 
 Formarán parte del Sistema Estatal de Investigadores y Tecnólogos todos aquellos que estén inscritos en el Registro Estatal de Investigadores y Tecnólogos, y cuya labor científica y tecnológica cumpla con lo establecido en las Reglas de Operación del propio Sistema.
@@ -611,9 +623,11 @@ El Ejecutivo del Estado, promoverá permanentemente la investigación que sirva 
 
 Con el objeto de integrar la investigación y la educación, los centros de investigación públicos y privados y la comunidad académica promoverán, a través de sus ordenamientos internos, que sus académicos e investigadores participen en actividades de enseñanza relacionadas con la investigación o aplicación innovadora del conocimiento.
 
+> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 61.
 
-El Ejecutivo del Estado, reconocerá los logros sobresalientes de quienes realicen investigación científica y desarrollo tecnológico en la entidad y procurará apoyarlos para que sus actividades de investigación contribuyan a mantener y fortalecer la calidad en la educación.
+El Ejecutivo del Estado reconocerá los logros sobresalientes de quienes realicen investigación científica y desarrollo tecnológico en la entidad y procurará apoyarlos, observando el principio de igualdad entre mujeres y hombres, para que sus actividades de investigación contribuyan a mantener y fortalecer la calidad en la educación.
 
 T R A N S I T O R I O S
 
@@ -706,3 +720,11 @@ G.G. 9 DE DICIEMBRE 2022.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 28 DE DICIEMBRE DE 2023.
+
+[N. DE E TRANSITORIOS DEL “DECRETO NÚMERO 232.- POR EL QUE SE REFORMA EL ARTÍCULO 61; SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 3, LA FRACCIÓN XX AL ARTÍCULO 6 Y LA FRACCIÓN III AL ARTÍCULO 43 DE LA LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
