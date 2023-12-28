@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-42094"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2023-07-07"
+last_updated: "2023-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Cuarta Sección del Boletín Oficial del Estado de Sonora, el jueves 23 de diciembre de 2004.
 
@@ -621,13 +621,11 @@ Las agencias distribuidoras, los expendios, tiendas de autoservicio y tiendas de
 
 Tratándose de tiendas de abarrotes, podrá venderse bebidas alcohólicas todos los días desde las 8:00 horas hasta las 21:00 horas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 28.
 
-Las cantinas, centros nocturnos, centros de eventos o salones de bailes, restaurantes, hoteles o moteles, centros deportivos o recreativos y establecimientos que presten el servicio de sorteos y juegos con apuestas, podrán permanecer abiertos de lunes a domingo, de las 8:00 horas a las 02:00 horas del día siguiente.
+Las cantinas, centros nocturnos, centros de eventos o salones de baile, restaurantes, hoteles o moteles, así como centros deportivos o recreativos, podrán permanecer abiertos de lunes a domingo, de las 8:00 horas a las 02:00 horas del día siguiente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1854,3 +1852,11 @@ B.O. 7 DE JULIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 28 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 155, POR LO (SIC) QUE SE REFORMA, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE SONORA, DE LA LEY DE HACIENDA DEL ESTADO DE SONORA, DE LA LEY DE CONTROL VEHÍCULAR DEL ESTADO DE SONORA Y DE LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del 1 de enero de 2024, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
