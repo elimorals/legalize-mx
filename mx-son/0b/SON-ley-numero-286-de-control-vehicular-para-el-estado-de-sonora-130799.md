@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-286-de-control-vehicular-para-el-estado-de-sonora-13
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-27"
-last_updated: "2022-12-30"
+last_updated: "2023-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE CONTROL VEHICULAR PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 27 de septiembre de 2018.
 
@@ -197,7 +197,9 @@ B) El comprobante fiscal o pedimento de importación de origen con endoso, donde
 
 C) Las resoluciones de tribunales o autoridades competentes que hagan las veces de factura judicial, siempre y cuando no exista aviso preventivo en el Registro Vehicular Estatal o en Registro Público Vehicular.
 
-D) La refactura o comprobante fiscal diferente al de origen, emitido por quien enajena el vehículo a favor del nuevo propietario. A este documento se deberá adjuntar copia del comprobante que le dio origen como vehículo nuevo o usado. Si la unidad es importada, el original del pedimento de importación.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+D) De ser de procedencia nacional, la refactura o comprobante fiscal diferente al de origen, emitido por quien enajena el vehículo a favor del nuevo propietario. A este documento, de contar con él, se podrá adjuntar copia del comprobante que le dio origen como vehículo nuevo. Si la unidad es importada, el original del pedimento de importación.
 
 ###### ARTÍCULO 8.
 
@@ -419,7 +421,9 @@ B) Comprobante de domicilio en los términos de la presente Ley;
 
 C) Clave Única del Registro de Población; y
 
-D) Registro Federal de Contribuyentes, si la persona está obligada a tributar en términos de las disposiciones fiscales, deberá presentar Cédula de Identificación Fiscal.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+D) Si la persona está obligada a tributar en términos de las disposiciones fiscales, deberá presentar Cédula de Identificación Fiscal.
 
 II.- Tratándose de personas morales:
 
@@ -483,6 +487,10 @@ A) Licencia de conducir del Estado, vigente; y
 
 B) Comprobar el pago del derecho de la revalidación de la concesión, tratándose de unidades destinadas al servicio del transporte público y contribuciones estatales de las que sea sujeto.
 
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+C) Identificación oficial en términos de la presente Ley.
+
 Deberá realizarse anualmente, durante los tres primeros meses del año de calendario.
 
 IV.- Canje:
@@ -501,9 +509,15 @@ A) Devolución de placa o placas metálicas; y
 
 B) Constancia de no adeudo vehicular, expedida por la autoridad municipal que corresponda.
 
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+C).- Identificación oficial del propietario del vehículo.
+
 Deberá realizarse dentro de los quince días siguientes a partir del hecho que le de origen; tratándose de cambio de propietario, a partir de la fecha que se efectúe la operación.
 
-También procederá la baja de un vehículo del Registro Vehicular Estatal, cuando las autoridades competentes mandaten dicho trámite, en este supuesto el trámite no generará el pago de derecho alguno.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+También procederá la baja de un vehículo del Registro Vehicular Estatal, cuando las autoridades competentes mandaten dicho trámite, mediante baja administrativa, la cual se realizará en términos de los lineamientos que expida para tal efecto la Secretaría. En este supuesto, el trámite no generará el pago de derecho alguno, a menos que la omisión de baja sea atribuible al contribuyente, en cuyo caso, se le cobrarán la multa y los gastos de ejecución que, en su caso, se hayan generado con motivo del procedimiento administrativo de ejecución.
 
 VI.- Permiso para circular sin placas:
 
@@ -839,6 +853,10 @@ IV.- Cuando a juicio debidamente fundado de la autoridad correspondiente, repres
 
 Las licencias a que se refieren los artículos 37 y 38 de esta Ley, serán expedidas por la Secretaría, en los formatos oficiales impresos y/o digitales, de conformidad con los lineamientos que la Secretaría para el efecto expida, y tendrán la vigencia que en las mismas se establezcan y contendrán:
 
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+I.- Licencia Impresa:
+
 A) Nombre completo del conductor;
 
 B) Fecha de nacimiento;
@@ -898,6 +916,86 @@ BB) (DEROGADO, B.O. 24 DE DICIEMBRE DE 2020)
 CC) Código de barras; y
 
 DD) Folio pre-impreso.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+II.- Licencia Digital:
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+A) Nombre completo del conductor;
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+B) Fecha de nacimiento;
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+C) CURP;
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+D) RFC;
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+E) Fotografía;
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+F) Autoridad emisora;
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+G) Fecha de expedición;
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+H) Término de vigencia;
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+I) Número que corresponda a la licencia;
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+J) Tipo de licencia;
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+K) Especificación de ser donador voluntario o no;
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+L) Sexo;
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+M) Tipo de sangre;
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+N) Padecimientos médicos;
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+O) Alergias;
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+P) Datos para emergencia;
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Q) Teléfono para emergencia;
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+R) Firma del conductor;
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+
+S) Código Qr;
 
 ###### ARTÍCULO 44.
 
@@ -1190,3 +1288,11 @@ El 10% del importe de los recursos recaudados durante el ejercicio fiscal 2023, 
 ###### ARTÍCULO CUARTO.
 
 El Instituto Catastral y Registral para el Estado de Sonora, deberá emitir los lineamientos relativos a la presentación de la fianza para hacer uso del escritorio notarial, a que se hace referencia en el artículo 326, fracción V, numeral 8, párrafo tercero, de la Ley de Hacienda del Estado de Sonora, dentro del plazo de 90 días naturales a la entrada en vigor del presente Decreto.
+
+B.O. 28 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 155 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE SONORA, DE LA LEY DE HACIENDA DEL ESTADO DE SONORA, DE LA LEY DE CONTROL VEHICULAR DEL ESTADO DE SONORA Y DE LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del 1 de enero de 2024, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
