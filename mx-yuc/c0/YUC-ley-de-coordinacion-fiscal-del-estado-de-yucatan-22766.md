@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-coordinacion-fiscal-del-estado-de-yucatan-22766"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-28"
-last_updated: "2021-12-30"
+last_updated: "2023-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 28 de diciembre de 2001.
 
@@ -270,6 +270,14 @@ En caso de incumplimiento en los plazos establecidos, el retraso dará lugar al 
 > <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
 Las entregas antes referidas serán cubiertas por la Secretaría de Administración y Finanzas mediante cheque o depósito en cuenta bancaria a nombre de los municipios.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+
+###### ARTICULO 7 Bis.
+
+El Poder Ejecutivo del Estado dará a conocer mediante acuerdo publicado en el Diario Oficial del Gobierno del Estado de Yucatán, los coeficientes provisionales de distribución de participaciones a municipios, en el cual se señalarán los porcentajes estimados de participaciones federales y estatales para el ejercicio fiscal en curso, tomando provisionalmente los coeficientes del ejercicio fiscal inmediato anterior, en tanto se cuente con la información necesaria para calcular los nuevos coeficientes.
+
+Los coeficientes preliminares referidos en el párrafo anterior deberán ser ajustados a partir de que se cuente con la información definitiva y se aplicarán retroactivamente a partir de enero del ejercicio fiscal en curso, en términos del artículo 7, párrafo quinto, de la Ley de Coordinación Fiscal federal. Dichos ajustes se publicarán en el Diario Oficial del Gobierno del Estado de Yucatán, mediante acuerdo elaborado por el Poder Ejecutivo del Estado.
 
 > <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
 
@@ -536,3 +544,11 @@ D.O. 30 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 444/2021 POR EL QUE SE MODIFICA EL CÓDIGO FISCAL DEL ESTADO DE YUCATÁN, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE YUCATÁN Y LA LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATÁN”.]
 
 Único. Entrada en vigor Este decreto entrará en vigor el 1 de enero de 2022, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O.F. 28 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 706/2023 POR EL QUE SE MODIFICA LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE YUCATÁN”.]
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
