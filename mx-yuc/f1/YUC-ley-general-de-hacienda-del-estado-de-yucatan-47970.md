@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-del-estado-de-yucatan-47970"
 country: "mx"
 rank: "ley_general"
 publication_date: "2005-12-29"
-last_updated: "2022-12-29"
+last_updated: "2023-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 29 de diciembre de 2005.
 
@@ -1611,6 +1611,14 @@ VII. La generación de proyectos para desarrollo sustentable y sostenible.
 
 VIII. La planeación y construcción de vivienda, para la reubicación de los habitantes de zonas de riesgo.
 
+> <small>(ADICIONADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+IX. La protección, conservación, manejo, restauración y aprovechamiento sustentable de las áreas naturales protegidas o que tengan alto valor ecosistémico ubicadas en el territorio estatal.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Para efectos de esta fracción, los ingresos que se obtengan por la recaudación del impuesto establecido en este capítulo, se destinarán al fondo o fideicomiso que el Gobierno del estado conforme para el sostenimiento de la actividad prevista en esta fracción, en la proporción que este establezca.
+
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
 #### SECCIÓN PRIMERA. DEL OBJETO
@@ -1961,9 +1969,21 @@ V. La implementación y ejecución de proyectos para la prevención, protección
 
 VI. La prevención y atención de desastres naturales, contingencias ambientales, sequías, ciclones, entre otros;
 
-VII. La generación de proyectos para desarrollo sustentable y sostenible, y
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
-VIII. La planeación y construcción de vivienda, para la reubicación de los habitantes de zonas de riesgo.
+VII. La generación de proyectos para desarrollo sustentable y sostenible;
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+VIII. La planeación y construcción de vivienda, para la reubicación de los habitantes de zonas de riesgo, y
+
+> <small>(ADICIONADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+IX. La protección, conservación, manejo, restauración y aprovechamiento sustentable de las áreas naturales protegidas o que tengan alto valor ecosistémico ubicadas en el territorio estatal.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+Para efectos de esta fracción, los ingresos que se obtengan por la recaudación del impuesto establecido en este capítulo, se destinarán al fondo o fideicomiso que el Gobierno del estado constituya para el sostenimiento de la actividad prevista en esta fracción, en la proporción que este establezca.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
@@ -3059,27 +3079,27 @@ III.- De testamento 3.60 UMA
 
 Cuando las escrituras o contratos otorgados ante cualquier fedatario público contengan precio de operación, se causarán derechos conforme a la siguiente:
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
 Tarifa
 
 Pesos
 
-Hasta 10,000.00 5.64 UMA
+Hasta 50,000.00 7.00 UMA
 
-De 10,000.01 a 20,000.00 8.31 UMA
+De 50,000.01 a 100,000.00 13.00 UMA
 
-De 20,000.01 a 50,000.00 12.23 UMA
+De 100,000.01 a 300,000.00 25.00 UMA
 
-De 50,000.01 a 80,000.00 15.99 UMA
+De 300,000.01 a 500,000.00 40.00 UMA
 
-De 80,000.01 a 110,000.00 20.69 UMA
+De 500,000.01 a 1'000,000.00 50.00 UMA
 
-De 110,000.01 a 500,000.00 40.00 UMA
+De 1'000,000.01 a 5'000,000.00 60.00 UMA
 
-De 500,000.01 a 1'000,000.00 45.00 UMA
+De 5'000,000.01 a 10'000,000.00 70.00 UMA
 
-De 1'000,000.01 En adelante 60.00 UMA
+De 10'000,000.01 en adelante 80.00 UMA
 
 En los contratos o convenios en los que se pacte la ocupación o la desocupación de inmuebles y se estipule un plazo indefinido, se tomará la cuantía correspondiente a un año, aplicándose la tarifa del párrafo anterior.
 
@@ -3299,6 +3319,8 @@ En el pago de kilometraje se causará un solo derecho cuando se trate del mismo 
 
 VI.- Por los trabajos de topografía que se requieran para la elaboración de planos o diligencia de verificación, se causarán derechos de acuerdo con la superficie, conforme a lo siguiente:
 
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
 Superficie del predio en metros cuadrados FACTOR UMA
 
 Hasta 400.00 m2 4.00
@@ -3309,39 +3331,27 @@ De 1,000.01 a 2,500.00 m2 10.00
 
 De 2,500.01 a 10,000.00 m2 25.00
 
-De 10,000.01 m2 a 30,000 m2, por m2 0.0028
+DE 10,000.01 m2 A 30,000 m2 45.00
 
-De 30,000.01 m2 a 60,000 m2, por m2 0.0022
+DE 30,000.01 m2 A 60,000 m2 90.00
 
-De 60,000.01 m2 a 90,000 m2, por m2 0.0020
+DE 60,000.01 m2 A 90,000 m2 135.00
 
-De 90,000.01 m2 a 120,000 m2, por m2 0.0018
+DE 90,000.01 m2 A 120,000 m2 180.00
 
-De 120,000.01 m2 a 150,000 m2, por m2 0.0016
+DE 120,000.01 m2 A 150,000 m2 225.00
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+De 150,000.01 m2 a 300,000.00 m2 270.00
 
-De 150,000.01 m2 a 300,000.00 m2, por m2 0.0014
+De 300,000.01 m2 a 500,000.00 m2. 315.00
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+DE 500,000.01 m2 a 750,000.00 m2 360.00
 
-De 300,000.01 m2 a 500,000.00 m2, por m2 0.0012
+DE 750,000.01 m2 a 1´000,000.00 m2 405.00
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+DE 1´000,000.01 m2 a 1´500,000.00 m2 450.00
 
-De 500,000.01 m2 a 750,000.00 m2, por m2 0.0010
-
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
-
-De 750,000.01 m2 a 1´000,000.00 m2, por m2 0.0008
-
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
-
-De 1´000,000.01 m2 a 1´500,000.00 m2, por m2 0.0006
-
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
-
-De 1´500,000.01 m2 en adelante, por m2 0.0004
+En predios con superficie mayor 1´500,000.01 m2, pagará por cada 10,000 m2 del total de la superficie 3.50
 
 VII.- Por impresión de planos:
 
@@ -4573,115 +4583,27 @@ XXVI.- Validación de título profesional, de diploma de especialidad o de grado
 
 ### CAPÍTULO XXVI. DERECHOS POR LOS SERVICIOS QUE PRESTA EL INSTITUTO DE MOVILIDAD Y DESARROLLO URBANO TERRITORIAL
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL D.O. 28 DE DICIEMBRE DE 2023, PÁGINA 85.]</small>
+
 > <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ARTÍCULO 85 X.- Los servicios que presta el Instituto de Movilidad y Desarrollo Urbano Territorial, causarán derechos de conformidad con lo siguiente:
 
-I.- (DEROGADA, D.O. 29 DE DICIEMBRE DE 2022)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 28 DE DICIEMBRE DE 2023)</small>
 
-II.- Emisión del tarjetón único del operador de transporte público 2.00 UMA
+I. Por cada evaluación que derive en la resolución de obtención de congruencia de uso de suelo viable, se causará por cada metro cuadrado un derecho de 0.014 UMA.
 
-III.- Reposición del tarjetón único del operador de transporte público 2.00 UMA
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
-IV.- Expedición de impresiones a tamaño gran escala de los croquis y rutas concesionadas 2.00 UMA
+II. Por cada evaluación que derive en la resolución de obtención de incorporación de terrenos ejidales a la zona urbana viable, se causará por cada metro cuadrado, un derecho de 0.014 UMA.
 
-V.- Cesión de derechos (concesión o permiso) 20.00 UMA
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
-VI.- Reconocimiento de derechos del beneficiario como titular de concesión 10.00 UMA
+III. Por cada verificación de áreas, predios y obras, se causará un derecho de 21.14 UMA.
 
-VII.- Emisión de tarjeta de información del servicio público de transporte de pasajeros 4.00 UMA
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
-
-VIII.- Expedición de certificado vehicular de transporte de pasajeros contratado a través de plataformas tecnológicas 13.00 UMA
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
-
-IX.- Expedición de certificado de operador adhesivo de transporte de pasajeros contratado a través de plataformas tecnológicas 7.00 UMA
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
-
-X.- Por cada evaluación que derive en la resolución de obtención de congruencia de uso de suelo viable, se causará por cada metro cuadrado un derecho de 0.014 UMA
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
-
-XI.- Por cada evaluación que derive en la resolución de obtención de incorporación de terrenos ejidales a la zona urbana viable, se causará por cada metro cuadrado, un derecho de 0.014 UMA
-
-XII.- Por cada verificación de áreas, predios y obras, se causará un derecho de 21.14 UMA
-
-XIII.- Por la verificación de emisión de contaminantes de vehículos automotores, destinados al transporte público de pasajeros:
-
-a) Para vehículos con capacidad de hasta 5 pasajeros 3.20 UMA
-
-b) Para vehículos con capacidad mayor a 5 pasajeros 4.96 UMA
-
-XIV.- Por el permiso provisional para vehículos destinados al transporte público de conformidad con la Ley de Transporte del Estado de Yucatán:
-
-a) Con vigencia de siete días 3.10 UMA
-
-b) Con vigencia mayor de siete días 9.98 UMA
-
-> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
-
-XV.- Emisión de la constancia de transporte de pasajeros a las empresas de redes de transporte hasta 300 vehículos 718.00 UMA
-
-> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
-
-XVI.- Emisión de la constancia de transporte de pasajeros a las empresas de redes de transporte de 301 hasta 1000 vehículos 2,155.00 UMA
-
-> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
-
-XVII.- Emisión de la constancia de transporte de pasajeros a las empresas de redes de transporte 1,001 vehículos en adelante 4,788.00 UMA
-
-> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
-
-XVIII.- Expedición de certificado de operador titular de transporte de pasajeros contratado a través de plataformas tecnológicas 7.00 UMA
-
-> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
-
-XIX.- Emisión de la constancia de transporte de carga a las empresas de redes de transporte 240.00 UMA
-
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XX.- Por el permiso anual para prestar el servicio particular de transporte de pasajeros 55.00 UMA
-
-> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
-
-XXI.- Por el permiso eventual para prestar el servicio particular de transporte de pasajeros 5.74 UMA
-
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
-
-XXII.- Emisión de la constancia tipo “Permiso en Modalidad de Servicio Público”, de 1 a 100 vehículos 220.00 UMA
-
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
-
-XXIII.- Emisión de la constancia tipo “Permiso en Modalidad de Servicio Público”, de 101 a 300 vehículos 500.00 UMA
-
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
-
-XXIV.- Emisión de la constancia tipo “Permiso en Modalidad de Servicio Público”, de 301 vehículos en adelante 710.00 UMA
-
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
-
-XXV.- Expedición del certificado vehicular de transporte alternativo 2.50 UMA
-
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
-
-XXVI.- Expedición del certificado de operador titular de transporte alternativo 1.25 UMA
-
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
-
-XXVII.- Expedición del certificado de operador adhesivo de transporte alternativo 1.00 UMA
-
-> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XXVIII.- Expedición al cedente de la Constancia de Historial de infracciones a la Ley de Movilidad y Seguridad Vial del Estado de Yucatán y el reglamento aplicable 0.5 UMA
-
-> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XXIX.- Expedición al cesionario de la Constancia de Historial de infracciones a la Ley de Movilidad y Seguridad Vial del Estado de Yucatán y el reglamento aplicable 0.5 UMA
-
-Los derechos por los servicios previstos en las fracciones X y XI de este artículo serán aplicables únicamente en caso de que el área a evaluar pertenezca a un municipio que no preste los referidos servicios o a solicitud de este.
+Los derechos por los servicios previstos en las fracciones I y II de este artículo serán aplicables únicamente en caso de que el área a evaluar pertenezca a un municipio que no preste los referidos servicios o a solicitud de este.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 7 DE ABRIL DE 2020)</small>
 
@@ -4709,9 +4631,9 @@ AB.- (DEROGADO, D.O. 7 DE ABRIL DE 2020)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO XXIX. DERECHOS POR SERVICIOS QUE PRESTA LA AGENCIA DE TRANSPORTE DE YUCATÁN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 85
 
@@ -4727,17 +4649,103 @@ IV. Por módulo de trabajo de investigación del Instituto de Investigaciones Le
 
 Las recaudaciones de estos derechos se destinarán íntegramente al Poder Legislativo del Estado de Yucatán.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 85
+
+AD.- Los servicios que presta la Agencia de Transporte de Yucatán, causarán derechos de conformidad con lo siguiente:
+
+I. Emisión del tarjetón único de persona operadora de transporte público 2.00 UMA
+
+II. Reposición o renovación del tarjetón único de persona operadora de transporte público 2.00 UMA
+
+III. Cesión de derechos:
+
+a) Concesión de transporte convencional de personas pasajeras 30.00 UMA
+
+b) Concesión adherida al Sistema Metropolitano de Movilidad Amable y Sostenible 100.00 UMA
+
+IV. Reconocimiento de derechos de la persona beneficiaria como titular de concesión 20.00 UMA
+
+V. Emisión de tarjeta de información del servicio público de transporte de personas pasajeras 5.00 UMA
+
+VI. Expedición de certificado vehicular de transporte contratado a través de plataformas tecnológicas de personas pasajeras 20.00 UMA
+
+VII. Expedición de certificado de persona operadora titular de transporte contratado a través de plataformas tecnológicas de personas pasajeras 10.00 UMA
+
+VIII. Expedición de certificado de persona operadora adhesivo de transporte contratado a través de plataformas tecnológicas de personas pasajeras 10.00 UMA
+
+IX. Renovación del certificado vehicular de transporte contratado a través de plataformas tecnológicas de personas pasajeras 10.00 UMA
+
+X. Por la verificación de emisión de contaminantes de vehículos automotores, destinados al transporte público de personas pasajeras 10.00 UMA
+
+XI. Por el permiso provisional para vehículos destinados al transporte público de personas pasajeras de conformidad con la Ley de la Agencia de Transporte de Yucatán:
+
+a) Con vigencia de siete días 5.00 UMA
+
+b) Con vigencia mayor de siete días 20.00 UMA
+
+XII. Emisión de la constancia de transporte contratado a través de plataformas tecnológicas de personas pasajeras, a las empresas de redes de transporte 3000.00 UMA
+
+XIII. Renovación de la constancia de transporte de personas pasajeras contratado a través de plataformas tecnológicas 1000.00 UMA
+
+XIV. Por el permiso anual para prestar el servicio de transporte privado de personas pasajeras 60.00 UMA
+
+XV. Por el permiso por evento o por traslado para prestar el servicio de transporte privado de personas pasajeras 10.00 UMA
+
+XVI. Emisión de la constancia de transporte prestado por medios alternativos de transporte de personas pasajeras 250.00 UMA
+
+XVII. Renovación de la constancia de transporte prestado por medios alternativos de transporte de personas pasajeras 125.00 UMA
+
+XVIII. Expedición del certificado vehicular de transporte prestado por medios alternativos de transporte de personas pasajeras 10.00 UMA
+
+XIX. Renovación del certificado vehicular de transporte prestado por medios alternativos de transporte de personas pasajeras 5.00 UMA
+
+XX. Expedición del certificado de persona operadora titular de transporte prestado por medios alternativos de transporte de personas pasajeras 2.00 UMA
+
+XXI. Expedición del certificado de persona operadora adhesivo de transporte prestado por medios alternativos de transporte de personas pasajeras 2.00 UMA
+
+XXII. Expedición al cedente de la Constancia de Historial de infracciones a la Ley de la Agencia de Transporte de Yucatán 5.00 UMA
+
+XXIII. Expedición al cesionario de la Constancia de Historial de infracciones a la Ley de la Agencia de Transporte de Yucatán 5.00 UMA
+
+XXIV. Por la expedición de copias simples, a partir de la vigésima primera copia, por hoja 0.02 UMA
+
+XXV. Por la expedición de la certificación de datos o documentos, a partir de la vigésima primera hoja, por hoja 0.20 UMA
+
+XXVI. Por la entrega de disco magnético o disco compacto, por cada uno 1.00 UMA
+
+XXVII. Para renovar la concesión de transporte público de personas pasajeras:
+
+a) Concesión de transporte convencional de personas pasajeras 15.00 UMA
+
+b) Concesión adherida al Sistema Metropolitano de Movilidad Amable y Sostenible 50.00 UMA
+
+XXVIII. Registro de imagen de empresa de transporte convencional de personas pasajeras 15.00 UMA
+
+XXIX. Cambio de imagen de vehículo de transporte convencional de personas pasajeras 10.00 UMA
+
+XXX. Trámite de resguardo de placas del servicio de transporte público de transporte convencional de personas pasajeras 5.00 UMA
+
+XXXI. Constancia para circular el transporte público concesionado 3.00 UMA
+
+XXXII. Verificación físico-mecánica de unidades de transporte de pasajeros 7.00 UMA
+
+La recaudación de los derechos contenidos en el presente capítulo se destinará a la Agencia de Transporte de Yucatán.
+
 ### CAPÍTULO ÚNICO. APROVECHAMIENTOS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
 ## TÍTULO CUARTO. DE LOS PRODUCTOS
 
 ### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 86.
 
@@ -4792,6 +4800,8 @@ Todos los gastos y honorarios que se cobren por la aplicación del procedimiento
 Cualquier otro aprovechamiento que deba percibir el Estado, no especificado en este título, será ingresado a la Secretaría de Administración y Finanzas o la Agencia de Administración Fiscal de Yucatán.
 
 ## TÍTULO SEXTO. INGRESOS EXTRAORDINARIOS
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 91.
 
@@ -5412,3 +5422,17 @@ Artículo tercero. Los contribuyentes del Impuesto a la Emisión de Contaminante
 Para efectos de lo anterior, los contribuyentes que se encuentren en el supuesto de este artículo transitorio deberán presentar, a más tardar el 17 de febrero del año que se trate, y si este fuera inhábil al día hábil siguiente, a la Agencia de Administración Fiscal de Yucatán, adjunto al aviso respecto al Impuesto a la Emisión de Contaminantes al Suelo, Subsuelo y Agua, la copia del título de concesión, permiso o documento donde se especifiquen las condiciones particulares de descarga determinadas por la Comisión Nacional del Agua.
 
 La Agencia de Administración Fiscal de Yucatán y la Secretaría de Administración y Finanzas podrán expedir las disposiciones complementarias que sean necesarias para la correcta y debida aplicación de este artículo transitorio.
+
+D.O. 28 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 708/2023 POR EL QUE SE MODIFICA LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN".]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de enero de 2024, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán, con excepción de lo previsto en el artículo 85-X y el capítulo XXIX del título tercero, que contiene el artículo 85-AD de la Ley General de Hacienda del Estado de Yucatán, que entrarán en vigor al momento en que lo haga la Ley de la Agencia de Transporte de Yucatán.
+
+Artículo segundo. Excepción
+
+Durante el ejercicio fiscal 2024, las personas físicas, personas morales y unidades económicas que tengan la obligación de retener el impuesto sobre erogaciones por remuneración al trabajo personal de conformidad con el artículo 22 Bis de la Ley General de Hacienda del Estado de Yucatán, no tendrán la obligación de realizar la retención cuando subcontraten servicios especializados o de ejecución de obras especializadas, y estarán eximidas de las obligaciones señaladas en el artículo 27-E de la ley referida.
+
+Así mismo, durante el ejercicio fiscal 2024, los intermediarios, contratistas, terceros o cualquiera que sea su denominación, que presten servicios especializados o de ejecución de obras especializadas, no estarán obligados a presentar el aviso a que se refiere el artículo 22 Ter de la Ley General de Hacienda del Estado de Yucatán, ni estarán obligados a realizar el desglose en el comprobante fiscal de los conceptos por los cuales se cause el impuesto sobre erogaciones por remuneración al trabajo personal, así como tampoco a suministrar la información a que se refiere el artículo 27-F de la citada ley.
