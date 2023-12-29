@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-derechos-del-estado-de-hidalgo-110839"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2021-12-31"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ESTATAL DE DERECHOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -591,11 +591,11 @@ Cuando un documento presentado para su inscripción se refiera a bienes situados
 
 En términos del segundo párrafo del artículo 4 de la Ley del Registro Público de la Propiedad del Estado de Hidalgo, el pago de derechos ante dicho Registro Público de la Propiedad se realizará por cada acto registral o de inscripción, con independencia de la forma en que éste o éstos se ingresen, y las situaciones jurídicas que les hubieran dado origen.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 24.
 
-Para el pago de derechos generados por la prestación de servicios del Registro Público de la Propiedad, éste se sujetará a las facultades de cobro de la Secretaría de Finanzas Públicas.
+Para el pago de derechos generados por la prestación de servicios del Registro Público de la Propiedad, éste se sujetará a las facultades de cobro de la Secretaría de Hacienda.
 
 El pago de los servicios prestados por el Registro Público de la Propiedad deberá efectuarse al momento de ingresar el trámite de que se trate. No se procederá a realizar ningún trámite sin antes acreditar el pago correspondiente. Lo anterior no aplica a los supuestos señalados en el segundo párrafo del artículo 22.
 
@@ -829,39 +829,41 @@ Los derechos por la prestación de los servicios del Estado, a través del Peri�
 
 I.- Por publicación de avisos y documentos que deberán hacerse por disposición de Ley, correspondientes a remates, edictos y avisos diversos:
 
-a) Por una sola vez. 6.5 u.m.a.´s;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+a).- Por una sola vez 4 u.m.a.’s;
 
-b) Por dos veces. 13 u.m.a.’s;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+b).- Por dos veces 8 u.m.a.’s; y
 
-c) Por tres veces. 19.5 u.m.a.’s;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+c).- Por tres veces.12 u.m.a.’s;
 
-II.- Por las publicaciones en el Periódico Oficial, hasta media plana. 7.5 u.m.a.’s;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+II.- Por las publicaciones en el Periódico Oficial, hasta media plana 5.5 u.m.a.’s;
 
-III.- Por la publicación en el Periódico Oficial, hasta una plana. 15 u.m.a.’s;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+III.- Por la publicación en el Periódico Oficial, hasta una plana 11 u.m.a.’s;
 
-III BIS.- Por la publicación directa de municipios del Estado en el Periódico Oficial, hasta una plana respecto únicamente de sus instrumentos legales, necesarios para mantener sus marcos jurídicos actualizados, exceptuando de este beneficio convocatorias a licitación pública así como todo lo referente a los procesos de licitación. 5 u.m.a.’s
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+III BIS.- Por la publicación directa de municipios del Estado en el Periódico Oficial, hasta una plana respecto únicamente de sus instrumentos legales, necesarios para mantener sus marcos jurídicos actualizados, exceptuando de este beneficio convocatorias a licitación pública así como todo lo referente a los procesos de licitación 3.5 u.m.a.’s
 
-IV.- Por la suscripción al Periódico Oficial del Estado por el ejercicio fiscal vigente. 53 u.m.a.’s
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+IV.- Por la suscripción al Periódico Oficial del Estado por el ejercicio fiscal vigente. 40 u.m.a.’s;
 
-V.- Por la expedición y entrega de un ejemplar del Periódico Oficial del Estado. 1 u.m.a.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+V.- Por la expedición y entrega de un ejemplar del Periódico Oficial del Estado. 0.5 u.m.a.’s: y
 
-VI.- Por la certificación, expedición y entrega de un ejemplar del Periódico Oficial del Estado. 1.5 u.m.a.´s
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+VI.- Por la certificación, expedición y entrega de un ejemplar del Periódico Oficial del Estado 0.75 u.m.a.´s.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -973,6 +975,30 @@ b) Por la expedición de permisos provisionales de carga:
 
 c).- Por la expedición de permiso provisional de conducir para menores de edad 6.5 u.m.a.’s
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+IV.- Por la expedición de licencias para conducir especial, para vehículos que transporten gas licuado de petróleo:
+
+a).- Por la expedición de licencia especial, con vigencia de 2 años …..6.5 u.m.a.’s
+
+b).- Por el canje de licencia especial, con vigencia de 2 años………….5.2 u.m.a.’s y
+
+c).- Por la expedición de duplicado de licencia especial, con vigencia de 2 años 2.6 u.m.a.´s.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+V.- Por la expedición de tarjetón para operadores y tripulantes de vehículos que transportan gas licuado de petróleo:
+
+a).- Por la expedición del Tarjetón a Operadores y Tripulantes, con vigencia de 1 año 4.0 u.m.a.’s
+
+b).- Por el canje del Tarjetón a Operadores y Tripulantes, con vigencia de 1 año. 4.0 u.m.a.’s y
+
+c).- Por la expedición de duplicado del Tarjetón a Operadores y Tripulantes, con vigencia de 1 año 2.5 u.m.a.´s.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+VI.- Por la autorización o revalidación para el establecimiento y funcionamiento de escuelas de manejo o enseñanza para conducir vehículos, hasta por un año. 42.8 u.m.a.´s
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 #### SECCIÓN SEGUNDA. DE LA UNIDAD DE REGISTRO Y SUPERVISIÓN DE SEGURIDAD PRIVADA
@@ -1021,31 +1047,59 @@ Los derechos por el uso o goce del Aeropuerto Nacional Ingeniero Juan Guillermo 
 
 I.- Tratándose de aeronaves, tanto en horario diurno como nocturno
 
-a) Por aterrizaje nacional por tonelada o fracción; 0.37 u.m.a.´s;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+a) Por aterrizaje nacional por tonelada o fracción 0.56 u.m.a.’s;
 
 b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
-c) Por estacionamiento en plataforma de permanencia prolongada o pernocta, por hora o fracción por tonelada. 0.026 u.m.a.´s
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+c) Por estacionamiento en plataforma de permanencia prolongada, dentro del horario de operación del Aeródromo de 07:00 a 19:00 horas, por hora o fracción por tonelada 0.10 u.m.a.’s;
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+d) Por estacionamiento en plataforma por pernocta de 19:01 a 06:59 horas, por hora o fracción por tonelada 0.15 u.m.a.’s; y
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+e) Por despegue nacional por tonelada o fracción…0.56 u.m.a.’s;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 II.- Tratándose de helicópteros, en horario diurno:
 
-a) Por aterrizaje nacional por tonelada o fracción; 0.18 u.m.a.´s;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+a) Por aterrizaje nacional por tonelada o fracción 0.28 u.m.a.’s;
 
 b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
-c) Por estacionamiento en plataforma de permanencia prolongada o pernocta, por hora o fracción por tonelada. 0.013 u.m.a.´s
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+c) Por estacionamiento en plataforma de permanencia prolongada, dentro del horario de operación del Aeródromo de 07:00 a 19:00 horas, por hora o fracción por tonelada 0.05 u.m.a.’s; y
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+d) Por despegue nacional por tonelada o fracción 0.28 u.m.a.’s;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 III.- Tratándose de helicópteros en horario nocturno:
 
-a) Por aterrizaje nacional por tonelada o fracción; 0.37 u.m.a.´s;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+a) Por aterrizaje nacional por tonelada o fracción 0.56 u.m.a.’s;
 
 b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
-c) Por estacionamiento en plataforma de permanencia prolongada o pernocta, por hora o fracción por tonelada. 0.026 u.m.a.´s
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+c) Por estacionamiento en plataforma por pernocta de 19:01 a 06:59 horas, por hora o fracción por tonelada 0.15 u.m.a.’s; y
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+d) Por despegue nacional por tonelada o fracción 0.56 u.m.a.’s.
 
 Para la aplicación de las cuotas a que se refieren las fracciones I, II y III del presente artículo, el peso de la aeronave o helicóptero expresado en toneladas, se redondeará hasta 2 decimales (centésimos) por defecto o por exceso, en función del milésimo según sea menor o mayor que 0.005.
 
@@ -1197,19 +1251,19 @@ III.- Evaluación Médico-Toxicológica. 33.8 u.m.a.´s; y
 
 IV.- Evaluación de Entorno Socioeconómico. 26.0 u.m.a.´s.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-### CAPÍTULO TERCERO. DE LOS DERECHOS CORRESPONDIENTES A LA SECRETARÍA DE FINANZAS PÚBLICAS
+### CAPÍTULO TERCERO. DE LOS DERECHOS CORRESPONDIENTES A LA SECRETARÍA DE HACIENDA
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN GENERAL DE RECAUDACIÓN
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN GENERAL DE RECAUDACIÓN Y LA DIRECCIÓN GENERAL DE ATENCIÓN AL CONTRIBUYENTE
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 33.
 
-Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Finanzas Públicas, por conducto de la Dirección General de Recaudación y de las Oficinas Hidalgo Pagos, se causarán y pagarán de la siguiente forma:
+Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Hacienda, por conducto de la Dirección General de Atención al Contribuyente, de los Centros Regionales de Hacienda y de la Dirección General de Recaudación, en el ámbito de sus respectivas competencias, se causarán y pagarán de la siguiente forma:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -1271,9 +1325,9 @@ b) Relacionados con vehículos de demostración:
 
 1. Por expedición de placas. 19.5 u.m.a.´s;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-2. Por canje de éstas cuando el mismo sea acordado por la Secretaría de Finanzas Públicas en términos de la legislación aplicable. 19.5 u.m.a.´s;
+2. Por canje de éstas cuando el mismo sea acordado por la Secretaría de Hacienda en términos de la legislación aplicable 19.5 u.m.a.’s.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -1371,6 +1425,10 @@ f) Por las consultas realizadas a otras entidades federativas, a la Federación 
 
 II.- Por la certificación de pagos. 1.3 u.m.a.´s
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+III.- Por la expedición de la Opinión de Cumplimiento de Obligaciones Fiscales Estatales 1 u.m.a.
+
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 #### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE PATRIMONIO INMOBILIARIO
@@ -1429,19 +1487,23 @@ I. Por la expedición de constancia de no inhabilitación o, en su caso, constan
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-### CAPÍTULO QUINTO. DE LOS DERECHOS CORRESPONDIENTES A LA SECRETARÍA DE OBRAS PÚBLICAS Y ORDENAMIENTO TERRITORIAL
+### CAPÍTULO QUINTO. DE LOS DERECHOS CORRESPONDIENTES A LA SECRETARÍA DE INFRAESTRUCTURA PÚBLICA Y DESARROLLO URBANO SOSTENIBLE
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 #### SECCIÓN PRIMERA. DE LA DIRECCIÓN GENERAL DE CONSERVACIÓN DE CARRETERAS ESTATALES
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE ORDENAMIENTO TERRITORIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE IMAGEN Y DESARROLLO URBANO SOSTENIBLE
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 37.
 
-Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Obras Públicas y Ordenamiento Territorial, por conducto de la Dirección General de Conservación de Carreteras Estatales, se causarán y pagarán de la siguiente forma:
+Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible, por conducto de la Dirección General de Conservación de Carreteras Estatales, se causarán y pagarán de la siguiente forma:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -1463,11 +1525,11 @@ IV.- Por la autorización para la realización de obras marginal 20.8 u.m.a.’s
 
 V.- Por la autorización para el adosamiento en puentes 31.2 u.m.a.’s
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 38.
 
-Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Obras Públicas y Ordenamiento Territorial, por conducto de la Dirección General de Ordenamiento Territorial, se causarán y pagarán de la siguiente forma:
+Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible, por conducto de la Dirección General de Imagen y Desarrollo Urbano Sostenible, se causarán y pagarán de la siguiente forma:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -1687,13 +1749,19 @@ III.- Por la reposición de certificados de verificación vehicular del semestre
 
 IV.- Por cada certificado con holograma que adquieran los centros de verificación vehicular o unidades de verificación vehicular, se causarán los siguientes derechos:
 
-a) "2" (dos). 1.19 u.m.a.´s;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-b) "0" (cero). 2.04 u.m.a.´s;
+a) “2” (dos)…1.05 u.m.a.’s;
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+b) “0” (cero)…. 1.90 u.m.a.’s;
 
 c) "00" (doble cero). 4.6 u.m.a.´s;
 
-d) "1" (uno). 1.19 u.m.a.´s; y
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+d) “1” (uno)…...1.05 u.m.a.’s.
 
 e) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
@@ -2055,6 +2123,10 @@ Los derechos por la prestación de los servicios del Estado por conducto de la S
 
 I.- Por la validación electrónica de título profesional mediante medidas de seguridad. 1.0 u.m.a.´s;
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+I BIS.- Por la validación electrónica de la constancia electrónica de servicio social mediante medidas de seguridad 1.0 u.m.a.;
+
 II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2019)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
@@ -2085,6 +2157,10 @@ VIII.- Por la expedición de acuerdo de registro a instituciones de educación m
 
 IX.- Por la expedición de duplicado de registro estatal. 3.0 u.m.a.´s
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+X.- Por la expedición de constancias de documentos 3.0 u.m.a.’s.
+
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 #### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE EDUCACIÓN SUPERIOR
@@ -2099,15 +2175,17 @@ I.- En materia de Reconocimiento de Validez Oficial de Estudios (RVOE):
 
 a).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-b) por la expedición del dictamen de planes y programas de estudio. 200.0 u.m.a.´s;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+b).- Por la expedición del dictamen de planes y programas de estudio. 100.0 u.m.a.’s;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 c) por la inspección técnica de revisión de instalaciones para el trámite de Reconocimiento de Validez Oficial de Estudios. 59.99 u.m.a.'s;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-d) por la expedición del acuerdo que autoriza o niega el Reconocimiento de Validez Oficial de Estudios. 80.0 u.m.a.'s;
+d).- Por la expedición del acuerdo que autoriza o niega el Reconocimiento de Validez Oficial de Estudios…….100.0 u.m.a.’s;
 
 e) por la expedición de la carta de no inconveniente para incorporación a una institución educativa nacional. 19.99 u.m.a.´s;
 
@@ -2124,6 +2202,10 @@ h) por la inspección ordinaria a los servicios educativos que prestan las Insti
 i) por la inspección técnica de revisión de instalaciones para el trámite de cambio de domicilio y emisión del acuerdo que autoriza o niega dicho cambio. 89.99 u.m.a.'s; y
 
 j) por registro de personal docente de instituciones particulares de educación superior. 1.0 u.m.a.´s;
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+k).- Por la expedición del acuerdo que otorga o niega la Carta de No Inconveniencia…59.99 u.m.a.’s.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -2145,13 +2227,9 @@ III.- En materia de control escolar de escuelas particulares incorporadas:
 
 a) por la revisión de documentos para ingresar a una institución particular. 1 u.m.a.;
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+b) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2023)
 
-b) por la expedición de la forma valorada para certificado. 2 u.m.a.´s;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
-c) por la expedición de la forma valorada para Diploma, Título y Grado Académico. 4 u.m.a.´s.
+c) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2023)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -2165,21 +2243,13 @@ c) por duplicado de equivalencia de estudios de nivel superior. 3.0 u.m.a.´s; y
 
 d) por duplicado de revalidación de estudios de nivel superior. 6.72 u.m.a.´s.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 #### SECCIÓN TERCERA. DE LA DIRECCIÓN GENERAL DE VINCULACIÓN Y FORTALECIMIENTO INSTITUCIONAL
 
 ###### ARTÍCULO 44.
 
-Los derechos por la prestación de los servicios del Estado por conducto de la Secretaría de Educación Pública, a través de la Dirección General de Vinculación y Fortalecimiento Institucional, se causarán y pagarán de la siguiente forma:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-I.- Por cursar cada materia. 6.0 u.m.a.´s; y
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-II.- Por recursar materia no aprobada. 32.73 u.m.a.´s
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2023)
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -2207,9 +2277,9 @@ II.- En materia de Reconocimiento de Validez Oficial de Estudios (RVOE):
 
 a) por la inspección técnica de revisión de instalaciones para el trámite del Reconocimiento de Validez Oficial de Estudios. 59.99 u.m.a.´s;
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-b) por la expedición del acuerdo que autoriza o niega el Reconocimiento de Validez Oficial de Estudios. 600.0 u.m.a.’s;
+b).- Por la expedición del acuerdo que autoriza o niega el Reconocimiento de Validez Oficial de Estudios 200.0 u.m.a.’s;
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -2218,6 +2288,10 @@ c) por la inspección ordinaria de los servicios educativos que prestan las Inst
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 d) por la inspección técnica de revisión de instalaciones para el trámite de cambio de domicilio y emisión del acuerdo que autoriza o niega dicho cambio. 89.99 u.m.a.´s.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+e).- Por la expedición del acuerdo que otorga o niega la Carta de No Inconveniencia 59.99 u.m.a.’s.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -2327,11 +2401,11 @@ VI.- Por el registro del profesional, persona física o moral, experto o perito 
 
 DE LOS DERECHOS POR LA PRESTACIÓN DE SERVICIOS Y USO O GOCE DE BIENES DEL DOMINIO PÚBLICO CORRESPONDIENTES A LOS ORGANISMOS DESCENTRALIZADOS QUE CONFORMAN LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 47.
 
-Los Organismos Descentralizados como personas jurídicas, cuyo objetivo primordial es auxiliar a la Administración Pública Centralizada en la realización de actividades correspondientes a las áreas estratégicas o prioritarias del Gobierno del Estado, mediante la prestación de diversos servicios públicos o sociales o la obtención y aplicación de recursos para fines de asistencia o seguridad social, obtendrán sus ingresos mediante el cobro de derechos, conforme a los rubros, conceptos, cuotas y tarifas que señale su órgano de Gobierno respectivo, previa autorización por la Secretaría de Finanzas Públicas y aprobación por el Congreso del Estado, en términos de lo establecido en la Ley de Ingresos del Estado, los que deberán ser publicados en el Periódico Oficial del Estado para tener vigencia y aplicabilidad.
+Los Organismos Descentralizados como personas jurídicas, cuyo objetivo primordial es auxiliar a la Administración Pública Centralizada en la realización de actividades correspondientes a las áreas estratégicas o prioritarias del Gobierno del Estado, mediante la prestación de diversos servicios públicos o sociales o la obtención y aplicación de recursos para fines de asistencia o seguridad social, obtendrán sus ingresos mediante el cobro de derechos, conforme a los rubros, conceptos, cuotas y tarifas que señale su órgano de Gobierno respectivo, previa autorización por la Secretaría de Hacienda y aprobación por el Congreso del Estado, en términos de lo establecido en la Ley de Ingresos del Estado, los que deberán ser publicados en el Periódico Oficial del Estado para tener vigencia y aplicabilidad.
 
 T R A N S I T O R I O S
 
@@ -2426,3 +2500,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 TERCERO. Para efectos del aviso a que se refiere el penúltimo y último párrafos del artículo 26 de la Ley de Hacienda del Estado de Hidalgo, las personas físicas o morales que con anterioridad a la fecha de entrada en vigor del presente Decreto hayan subcontratado servicios especializados o la ejecución de obras especializadas, deberán presentar el aviso de los contratos o las modificaciones que se realicen a los mismos dentro de los treinta días siguientes a la entrada en vigor del presente Decreto.
 
 CUARTO. Lo dispuesto en el artículo 27 QUÁTER entrará en vigor a partir del 02 de enero del 2023 para personas morales, y para las personas físicas el 03 de julio del mismo año.
+
+P.O. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 748 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO Y LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el 01 de enero del 2024, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
