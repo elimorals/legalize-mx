@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-servicio-de-medios-publicos-de-la-157446"
 country: "mx"
 rank: "estatuto"
 publication_date: "2022-04-18"
-last_updated: "2023-02-16"
+last_updated: "2023-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157446&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2022-04-08"
 ---
 # ESTATUTO ORGANICO DEL SERVICIO DE MEDIOS PUBLICOS DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL AVISO MEDIANTE EL CUAL SE DA A CONOCER EL ENLACE ELECTRÓNICO EN DONDE PUEDE SER CONSULTADO EL NUEVO ESTATUTO ORGÁNICO DEL SERVICIO DE MEDIOS PÚBLICOS DE LA CIUDAD DE MÉXICO Y SE ABROGA EL ESTATUTO ORGÁNICO PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL 18 DE ABRIL DE 2022 Y SU MODIFICACIÓN DEL 16 DE FEBRERO DE 2023, PUBLICADO EN LA G.O. DE 29 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL SERVICIO DE MEDIOS PÚBLICOS DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE DICIEMBRE DE 2023 (ABROGADO).
 
 Estatuto publicado en el No. 831 de la Gaceta Oficial de la Ciudad de México, el lunes 18 de abril de 2022. (REPUBLICADO EN LA G.O. 16 DE FEBRERO DE 2023).
 
@@ -951,3 +953,17 @@ Ciudad de México a 08 de abril de 2022
 ALONSO MILLÁN ZEPEDA
 
 DIRECTOR GENERAL DEL SERVICIO DE MEDIOS PÚBLICOS DE LA CIUDAD DE MÉXICO Y SECRETARIO TÉCNICO DEL ÓRGANO DE GOBIERNO DEL SERVICIO DE MEDIOS PÚBLICOS DE LA CIUDAD DE MÉXICO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO MEDIANTE EL CUAL SE DA A CONOCER EL ENLACE ELECTRÓNICO EN DONDE PUEDE SER CONSULTADO EL NUEVO ESTATUTO ORGÁNICO DEL SERVICIO DE MEDIOS PÚBLICOS DE LA CIUDAD DE MÉXICO Y SE ABROGA EL ESTATUTO ORGÁNICO PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL 18 DE ABRIL DE 2022 Y SU MODIFICACIÓN DEL 16 DE FEBRERO DE 2023”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.– El presente Estatuto Orgánico entrará en vigor el 01 de enero de 2024.
+
+TERCERO.- En tanto se expidan los manuales a que hace mención este Estatuto, se aplicarán los actuales en lo que no se opongan al mismo.
+
+CUARTO.- La referencia o atribución de alguna Unidad Administrativa que cambie su denominación o competencia, se entenderá hecha a aquella que cuenten con la facultad correspondiente.
