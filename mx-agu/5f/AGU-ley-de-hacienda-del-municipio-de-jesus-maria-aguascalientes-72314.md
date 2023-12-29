@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-jesus-maria-aguascalientes-723
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-25"
-last_updated: "2022-12-31"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE JESÚS MARÍA, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de enero de 2010.
 
@@ -1555,9 +1555,9 @@ Quedan exentos del pago de este impuesto los bienes inmuebles del dominio públi
 
 La base de este impuesto es el valor catastral de los predios o de las construcciones, en su caso.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-En cuanto a los predios o construcciones que no tengan valores catastrales o estos no se encuentren actualizados, servirá de base el último valor catastral con que se encuentren fiscalmente empadronados o el valor de operación del traslado de dominio que se registre, aun tratándose de ventas con reserva de dominio, si éste es mayor que aquéllos.
+En cuanto a los predios o construcciones que no tengan valores catastrales o estos no se encuentren actualizados o vigentes, servirá de base el último valor catastral con que se encuentren fiscalmente empadronados o el valor de operación del traslado de dominio que se registre, aun tratándose de ventas con reserva de dominio, si éste es mayor que aquéllos.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
@@ -1763,9 +1763,13 @@ d) El que realicen personas que cuenten con cédula profesional de valuadores ex
 
 El avalúo se acompañará a la declaración para el pago del impuesto sobre adquisición de bienes inmuebles.
 
-Quedan relevados de la obligación de presentar el avalúo a que se refieren los incisos a) al d) antes señalados, las adquisiciones de inmuebles sobre los cuales se encuentre edificada una vivienda de tipo popular, de interés social o lotes individualizados que estén destinados a la edificación de una vivienda de la misma naturaleza, siempre que se encuentre en fraccionamientos autorizados como de tipo popular o de interés social, cuya superficie de terreno sea inferior a ciento veinte metros cuadrados y la construcción no sea mayor de 78 metros cuadrados. En este caso, la base para el pago del impuesto será el valor de operación.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-En el caso de los incisos b), c) y d) la Secretaría de Finanzas estará facultada para practicar avalúo del inmueble. En caso de resultar superior al del presentado por el contribuyente, el impuesto se calculará sobre el avalúo de la Secretaría de Finanzas del Municipio.
+Quedan relevados de la obligación de presentar el avalúo a que se refieren los incisos a) al d) antes señalados, las adquisiciones de inmuebles sobre los cuales se encuentre edificada una vivienda de tipo popular, de interés social o lotes individualizados que estén destinados a la edificación de una vivienda de la misma naturaleza, siempre que se encuentre en fraccionamientos autorizados como de tipo popular o de interés social, cuya superficie de terreno sea inferior a 120m2 (ciento veinte metros cuadrados) y la construcción no sea mayor de 78m2 (setenta y ocho metros cuadrados), siempre que estos inmuebles no excedan el valor descrito por la fracción III del presente artículo. En este caso, la base para el pago del impuesto será el valor de operación.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+En el caso de los incisos b), c) y d) la Secretaría de Finanzas estará facultada para revisar previamente los avalúos comerciales que le serán presentados y en casos que determine inconsistencias practicar avalúo del inmueble. En caso de resultar superior al del presentado por el contribuyente, el impuesto se calculará sobre el avalúo de la Secretaría de Finanzas del Municipio.
 
 Para determinar el pago de este impuesto se aplicará una exención al valor que resulte del inmueble, en los siguientes casos:
 
@@ -2584,3 +2588,11 @@ P.O. 31 DE DICIEMBRE DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia a partir del 1º de enero del año dos mil veintitrés.
+
+P.O. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 583.- SE REFORMA LA LEY DE HACIENDA DEL MUNICIPIO DE JESÚS MARÍA, AGUASCALIENTES”.]
+
+Artículo Primero.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Aguascalientes.
+
+Artículo Segundo.- El presente Decreto iniciara su vigencia el día 01 de enero del año 2024.
