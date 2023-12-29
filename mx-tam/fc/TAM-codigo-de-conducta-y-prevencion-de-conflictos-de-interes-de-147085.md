@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-de-147
 country: "mx"
 rank: "codigo"
 publication_date: "2021-02-03"
-last_updated: "2021-02-03"
+last_updated: "2023-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=147085&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DE LAS Y LOS SERVIDORES PUBLICOS DE LA SECRETARIA DE EDUCACION DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE EDUCACIÓN DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE EDUCACIÓN DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023 (DEROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 3 de febrero de 2021.
 
@@ -376,3 +378,25 @@ Fecha:
 Firma
 
 [Esta carta se deberá entregar ante la Subsecretaría de la cual dependa)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE EDUCACIÓN DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código de Conducta y Prevención de Conflictos de las y los Servidores Públicos de la Secretaría de Educación de Tamaulipas, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos de la Secretaría de Educación de Tamaulipas, publicado en el Periódico Oficial del Estado Número 14, de fecha 3 de Febrero de 2021.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos administrativos que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Código, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento en que se iniciaron tales procedimientos.
+
+###### ARTÍCULO CUARTO.
+
+Los casos no previstos en este Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos de la Secretaría de Educación de Tamaulipas, serán resueltos por el Comité de Ética, Conducta y Prevención de Conflictos de Interés a propuesta de su presidente o presidenta.
