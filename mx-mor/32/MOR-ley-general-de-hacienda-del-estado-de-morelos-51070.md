@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2023-12-20"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -813,7 +813,9 @@ Una cantidad equivalente al 100% de los recursos que se recauden por el impuesto
 
 Lo anterior, en el entendido que dentro del concepto de promoción en general se engloba: espectaculares, medios de comunicación tales como periódico, televisión, radio, entre otros; campañas de internet, realización de páginas de internet, centro de reservaciones, pago de stands, incluyendo asistencia y viáticos de ferias, eventos, asambleas, congresos y seminarios, impresión de folletería, revistas especializadas, artículos promocionales, producción de video y banco de imágenes, así como una partida destinada a relaciones públicas.
 
-La Secretaría enterará bimestralmente al Fideicomiso Público, una cantidad equivalente al 95% de los recursos recaudados durante el periodo, en que estarán ya incluidos los recursos económicos que el Gobierno del Estado le destina o transfiera a más tardar el día veintisiete de los meses de marzo, mayo, julio, septiembre, noviembre y enero del ejercicio siguiente.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+La Secretaría enterará bimestralmente al Fideicomiso Público, una cantidad equivalente al 100% de los recursos recaudados durante el periodo, en que estarán ya incluidos los recursos económicos que el Gobierno del Estado le destina o transfiera a más tardar el día veintisiete de los meses de marzo, mayo, julio, septiembre, noviembre y enero del ejercicio siguiente.
 
 ### CAPÍTULO SÉPTIMO BIS. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIONES AL TRABAJO PERSONAL
 
@@ -1607,7 +1609,9 @@ a que se refiere esta fracción: 85.00
 
 La primera inscripción de la propiedad será gratuita y los derechos por el registro de los actos traslativos subsecuentes se causarán en términos de este inciso.
 
-Esta misma tarifa aplicará a la compraventa con reserva de dominio; a la compraventa de la nuda propiedad con reserva del usufructo; así como a la adjudicación de bienes por disolución de la sociedad conyugal o aplicación de bienes por gananciales cuando el adquiriente no sea titular registral;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Esta misma tarifa aplicará a la compraventa con reserva de dominio; a la compraventa de la nuda propiedad con reserva del usufructo; así como a la adjudicación de bienes por cambio, substitución, disolución o terminación de la sociedad conyugal en cualquiera de las formas establecidas en el Código Familiar para el Estado Libre y Soberano de Morelos o aplicación de bienes por gananciales cuando el adquiriente no sea titular registral;
 
 b) Hipoteca, por cada inmueble
 
@@ -1728,6 +1732,16 @@ de los mismos, por cada inmueble: 9.00
 b) Revocación de poderes, por
 
 cada inmueble: 3.50
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+c) Cambio, designación o
+
+asignación de algún tipo de
+
+representación legal, en
+
+cualquier instrumento 9.00
 
 X. Por la inscripción de fianzas,
 
@@ -2783,9 +2797,7 @@ automóviles a los que les corresponda
 
 el holograma tipo E: 2.3757
 
-1.2. Por la reposición de holograma de
-
-verificación con independencia del tipo: 2.3757
+1.2. (DEROGADO, P.O. 29 DE DICIEMBRE DE 2023)
 
 1.3. (DEROGADO, P.O. 29 DE ENERO DE 2020)
 
@@ -4509,6 +4521,8 @@ particulares por ciclo escolar (semestre o cuatrimestre) 1.00
 
 a) Certificado de estudios 1.00
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 b) Certificado de estudios de manera electrónica: 2.00
 
 VII. Inspección y vigilancia de establecimientos educativos
@@ -5069,7 +5083,9 @@ I) Centro Cultural Jardín Borda:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 45.]</small>
 
-Los criterios de coproducción con las compañías que buscan un espacio para presentar sus producciones, en la Sala Manuel M. Ponce, Foro del Lago y Fuente Magna.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Los criterios de coproducción con las compañías que buscan un espacio para presentar sus producciones en la Sala Manuel M. Ponce, Foro del Lago y Fuente Magna, se distribuirá tomando como base el resultado de la operación aritmética señalada en el párrafo final de esta fracción, al cual se le aplicarán los porcentajes siguientes para cada parte:
 
 A* 70% para la producción y 30% para la Secretaría de Turismo y Cultura.
 
@@ -5119,7 +5135,9 @@ VII) Cine Morelos
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 47.]</small>
 
-Los conceptos de exhibición con las distribuidoras para la exhibición de películas, sólo en caso de no contar con un presupuesto base para el pago de programación:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Los criterios de coproducción con las distribuidoras que no cuenten con un presupuesto base para el pago de la programación, se distribuirá tomando como base el resultado de la operación aritmética señalada en párrafo final de esta fracción, al cual se le aplicarán los porcentajes para cada parte y conforme a la clasificación siguiente:
 
 A* 70% para la producción y 30% para la Secretaría de Turismo y Cultura.
 
@@ -5133,7 +5151,9 @@ VIII) Teatro Ocampo:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 48.]</small>
 
-Con el propósito de promover y fomentar los eventos sin fines de lucro con actividades culturales o en beneficio de grupos vulnerables, dependencias oficiales e instituciones educativas y privadas, se otorga a los siguientes conceptos de coproducción, el tipo A, A2, A3, B, B2 y B3, se determinará de acuerdo a la rentabilidad del dicho evento.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Con el propósito de promover y fomentar los eventos sin fines de lucro con actividades culturales o en beneficio de grupos vulnerables, dependencias oficiales e instituciones educativas y privadas, los criterios de coproducción con los distribuidores serán los que resulten de aplicar los porcentajes siguientes a cada parte, sobre el resultado de la operación aritmética señalada en el párrafo siguiente y conforme al tipo A, A2, A3, B, B2 y B3.
 
 *A.- 70% para la producción y 30% para la Secretaría de Turismo y Cultura.
 
@@ -5509,17 +5529,17 @@ UTILIDAD POR ACCIONES Y PARTICIPACIONES EN SOCIEDADES O EMPRESAS, RENDIMIENTO PO
 
 Por la evaluación del programa interno de protección civil a que se refieren los artículos 135 y 136 de la Ley Estatal de Protección Civil de Morelos correspondientes a los inmuebles e instalaciones fijas y móviles previstas en el artículo 139 de la misma Ley, se causará un derecho por la cantidad equivalente a 32.00 UMA.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 114 Quater
 
-1. Por la “evaluación del programa específico de protección civil para eventos públicos y espacios de concentración masiva”, a que se refieren los artículos 127 y 135 de la Ley Estatal de Protección Civil de Morelos, se pagará un derecho por la cantidad equivalente a 55.00 UMA.
+1. Por la evaluación del programa específico de Protección Civil para la realización de eventos públicos y espacios de concentración masiva, a que se refieren los artículos 127 y 135 de la Ley Estatal de Protección Civil de Morelos y 117 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se pagará un derecho por la cantidad equivalente a 55.00 UMA.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 114 Quater
 
-2. Por la evaluación del programa específico de Protección Civil a que se refiere el artículo 135 de la Ley Estatal de Protección Civil de Morelos para proyectos e instalaciones existentes o de nueva creación, a que se refiere el artículo 98, de la Ley Estatal de Protección Civil de Morelos se causará un derecho por la cantidad equivalente a 55.00 UMA.
+2. Por la evaluación del programa específico de Protección Civil, para proyectos de construcción, remodelación, reparación, reconstrucción o demolición de Riesgo Alto, que se refieren los artículos 135 y 143 de la Ley Estatal de Protección Civil de Morelos y 120 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 55.00 UMA.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
@@ -5533,17 +5553,17 @@ Por la evaluación del programa interno de protección civil a que se refieren l
 
 4. Por la visita de inspección y visto bueno, en cumplimiento de la seguridad para prevenir y evitar riesgos en instalaciones donde exista concentración masiva de personas a que se refiere el artículo 129, de la Ley Estatal de Protección Civil de Morelos, se pagará un derecho por la cantidad equivalente a 60.00 UMA.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 114 Quater
 
-5. Por la visita de inspección y visto bueno, al predio para Proyectos e instalaciones existentes o de nueva creación y desarrollos habitacionales, a que se refieren los artículos 98 y 100, de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA
+5. Por la visita de inspección, verificación y visto bueno al predio donde se construya todo desarrollo habitacional, así como a Proyectos de construcción e instalación, existentes o de nueva creación, a que se refieren los artículos 98, y 100 de la Ley Estatal de Protección Civil de Morelos y 62 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 114 Quater
 
-6. Por visita de inspección y opinión en materia de riesgo, para proyectos e instalaciones existentes o de nueva creación, a que se refieren el artículo 93 de la Ley Estatal de Protección Civil de Morelos, 61 y 66 de su Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA
+6. Por visita de inspección y opinión en materia de riesgo, para proyectos e instalaciones existentes o de nueva creación, a que se refieren los artículos 93 y 98 de la Ley Estatal de Protección Civil de Morelos, 61, 66 y 203 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
@@ -5557,11 +5577,11 @@ Por la evaluación del programa interno de protección civil a que se refieren l
 
 8. Por la visita de inspección, y visto bueno a los establecimientos, instalaciones, edificaciones e inmuebles que estén en operación y funcionamiento, a que se refiere los artículos 190, 191 y 192 de la Ley Estatal de Protección Civil de Morelos y 190 y 204 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 114 Quater
 
-9. Por la visita de inspección y opinión favorable para los permisos regulados por la Ley Federal de Armas de Fuego y Explosivos, a que se refieren los artículos 96 de la Ley Estatal de Protección Civil de Morelos, 67 y 68 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA.
+9. Por la visita de inspección y opinión en materia de riesgo, para el trámite de la opinión favorable para los permisos regulados por la Ley Federal de Armas de Fuego y Explosivos, a que se refieren los artículos 96 de la Ley Estatal de Protección Civil de Morelos, 67, 68 y 69 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
@@ -5575,17 +5595,17 @@ Por la evaluación del programa interno de protección civil a que se refieren l
 
 11. Por la visita de inspección, y visto bueno para verificar vehículos que transportan gas L.P., gas natural, materiales, sustancias peligrosas o los regulados por la Ley Federal de Armas de Fuego y Explosivos, por cada unidad vehicular, a que se refieren los artículos 91 y 193 de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 15.00 UMA.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 114 Quater
 
-12. Por el registro como consultor, para la elaboración de programa interno y específico en materia de protección civil a que se refieren los artículos 163 de la Ley Estatal de Protección Civil de Morelos y 153 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 69.00 UMA.
+12. Por el registro como asesor, para la elaboración de programa interno y específico en materia de protección civil a que se refieren los artículos 163 de la Ley Estatal de Protección Civil de Morelos y 153 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 69.00 UMA.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 114 Quater
 
-13. Por el registro como consultor, para la elaboración de estudios de vulnerabilidad y riesgos en materia de protección civil a que se refieren los artículos 163 de la Ley Estatal de Protección Civil de Morelos y 153 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 89.00 UMA.
+13. Por el registro como asesor, para la elaboración de estudios de vulnerabilidad y riesgos en materia de protección civil a que se refieren los artículos 163 de la Ley Estatal de Protección Civil de Morelos y 153 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 89.00 UMA.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2020)</small>
 
@@ -5619,11 +5639,19 @@ modalidad presencial, virtual o mixta con duración
 
 mínima de 120 horas.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 114 Quater
 
-16. Por el registro y autorización de los libros bitácora que documenten acciones en materia de protección civil, se causará un derecho por la cantidad equivalente a 5.00 UMA.
+16. Por el registro, certificación y autorización del libro bitácora, que documenten el control y registro de las actividades y acciones en materia de protección civil siguientes, se causará un derecho por la cantidad equivalente a 5.00 UMA:
+
+a) De las asociadas al registro de asesor;
+
+b) De las asociadas al registro capacitador; y
+
+c) De documentos y evidencia fotográfica del desarrollo de los simulacros.
+
+Por las actividades y acciones a que refiere este artículo en relación con los artículos 3, fracción XIII, 85 párrafo tercero de la Ley Estatal de Protección Civil de Morelos y 47, 50 y 165 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 5.00 UMA.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2020)</small>
 
@@ -5647,11 +5675,11 @@ Nocturno- 24:00 a las
 
 Matutino 08:00 horas 10.00
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 114 Quater
 
-18. Por cada evaluación de simulacros se causará un derecho por cada uno la cantidad equivalente a 5.00 UMA.
+18. Por cada evaluación de simulacros, realizada en términos de los artículos 86 de la Ley Estatal de Protección Civil de Morelos, así como 48, 49 o 52 del Reglamento de la misma, se causará un derecho por la cantidad equivalente a 5.00 UMA.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2020)</small>
 
@@ -6436,3 +6464,13 @@ SEGUNDA.- entrará en vigor a partir del día siguiente de su publicación en el
 TERCERA. La Secretaría de Desarrollo Sustentable deberá emitir en un plazo no mayor a 30 días hábiles contados a partir de la entrada en vigor del presente, las disposiciones administrativas o reglamentarias que permitan el cumplimiento de lo establecido en el presente Decreto.
 
 CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL SEISCIENTOS VEINTE POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES, DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS Y DEL CÓDIGO FISCAL PARA EL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del 01 de enero de 2024, previa publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente Decreto.
