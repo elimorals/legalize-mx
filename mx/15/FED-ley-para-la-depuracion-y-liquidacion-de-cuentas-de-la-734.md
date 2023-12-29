@@ -4,7 +4,7 @@ identifier: "FED-ley-para-la-depuracion-y-liquidacion-de-cuentas-de-la-734"
 country: "mx"
 rank: "ley"
 publication_date: "1950-12-28"
-last_updated: "1950-12-28"
+last_updated: "2023-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=734&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1950-11-28"
 ---
 # LEY PARA LA DEPURACION Y LIQUIDACION DE CUENTAS DE LA HACIENDA PUBLICA FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO POR EL QUE SE ABROGA LA LEY PARA LA DEPURACIÓN Y LIQUIDACIÓN DE CUENTAS DE LA HACIENDA PÚBLICA FEDERAL, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 28 DE DICIEMBRE DE 1950; PUBLICADO EN EL D.O.F. DE 29 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA DEPURACION Y LIQUIDACION DE CUENTAS DE LA HACIENDA PUBLICA FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2023 (ABROGADA).
 
 Ley publicada en el Diario Oficial de la Federación el jueves 28 de diciembre de 1950.
 
@@ -118,3 +120,9 @@ Esta Ley entrará en vigor el día de su publicación en el "Diario Oficial" de 
 Guillermo Ramírez Valadez, D. P.- Alfonso Corona del Rosal, S. P.- Edmundo Sánchez Gutiérrez, D. S.- Ruffo Figueroa Figueroa, S. S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente Ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintiocho días del mes de noviembre de mil novecientos cincuenta.- Miguel Alemán.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Ramón Beteta.- Rúbrica.- El Secretario de Gobernación, Adolfo Ruíz Cortines.- Rúbrica.
+
+D.O.F. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ABROGA LA LEY PARA LA DEPURACIÓN Y LIQUIDACIÓN DE CUENTAS DE LA HACIENDA PÚBLICA FEDERAL, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 28 DE DICIEMBRE DE 1950”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
