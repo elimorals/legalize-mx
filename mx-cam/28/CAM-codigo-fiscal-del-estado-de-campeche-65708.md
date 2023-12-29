@@ -4,7 +4,7 @@ identifier: "CAM-codigo-fiscal-del-estado-de-campeche-65708"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-08"
-last_updated: "2022-12-16"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO FISCAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Campeche, el lunes 8 de diciembre de 2008.
 
@@ -295,11 +295,11 @@ Lo dispuesto en este artículo no es aplicable a las declaraciones, solicitudes 
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO NÚMERO 100 PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2016, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PASANDO DE ONCE A DIEZ PÁRRAFOS.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 17.
 
-Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de Registro Estatal de Contribuyentes, declaraciones, solicitudes de inscripción, avisos o informes, ante autoridades fiscales, lo harán en las formas impresas que al efecto apruebe el Servicio de Administración Fiscal del Estado de Campeche, debiendo de proporcionar el número de ejemplares, los datos e informes y los documentos que dichas formas requieran o mediante documento electrónico cuando así establezca el mencionado Servicio de Administración Fiscal del Estado de Campeche, mediante reglas de carácter general.
+Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de Registro Estatal de Contribuyentes, declaraciones, solicitudes de inscripción, avisos o informes, ante autoridades fiscales, lo harán en las formas que al efecto apruebe el Servicio de Administración Fiscal del Estado de Campeche.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -973,25 +973,31 @@ Los contribuyentes podrán microfilmar o grabar en discos ópticos o en cualquie
 
 Cuando la información de los comprobantes fiscales o de los datos y documentación que integran la contabilidad esté en idioma distinto al español, o los valores se consignen en moneda extranjera, deberán acompañarse de la traducción correspondiente, por perito autorizado, y señalar el tipo de cambio utilizado por cada operación.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 49.
 
 Las declaraciones que presenten los contribuyentes serán definitivas y solo se podrán modificar por el propio contribuyente hasta en tres ocasiones, siempre que no se haya iniciado el ejercicio de las facultades de comprobación.
 
-No obstante lo dispuesto en el párrafo anterior, el contribuyente podrá modificar en más de tres ocasiones las declaraciones correspondientes, aun cuando se hayan iniciado las facultades de comprobación, en los siguientes casos:
+No obstante, lo dispuesto en el párrafo anterior, el contribuyente podrá modificar en más de tres ocasiones las declaraciones correspondientes, aun cuando se hayan iniciado las facultades de comprobación, en los siguientes casos:
 
-I. Cuando sólo incrementen sus ingresos, erogaciones, pagos, valor de actos, actividades o contraprestaciones que son afectos a alguna contribución estatal; y
+I. Cuando sólo incrementen sus ingresos, erogaciones, pagos, valor de actos, actividades o contraprestaciones que son afectos a alguna contribución estatal;
 
-II. Cuando la presentación de la declaración que modifica a la original se establezca como obligación por disposición expresa de ley.
+II. Cuando el contribuyente haga dictaminar por una o un contador público registrado el cumplimiento de las disposiciones fiscales estatales del Impuesto sobre Nóminas, podrá corregir, en su caso, la declaración original, como consecuencia de los resultados obtenidos en el dictamen respectivo; y
+
+III. Cuando la presentación de la declaración que modifica a la original se establezca como obligación por disposición expresa de ley.
 
 Lo dispuesto en este precepto no limita las facultades de comprobación de las autoridades fiscales.
 
-La modificación de las declaraciones a que se refiere este artículo, se efectuará mediante la presentación de declaración complementaria que modifique los datos de la original.
+La modificación de las declaraciones a que se refiere este artículo se efectuará mediante la presentación de declaración complementaria que modifique los datos de la original.
 
-Iniciado el ejercicio de facultades de comprobación se podrá presentar declaración complementaria, debiendo en su caso pagarse las multas que establece este Código.
+Iniciado el ejercicio de facultades de comprobación, se podrá presentar declaración complementaria, debiendo en su caso pagarse las multas que establece este Código.
 
-Si se controvierten sólo determinados conceptos de la resolución administrativa que determinó el crédito fiscal, el particular pagará la parte consentida del crédito y los recargos correspondientes, mediante declaración complementaria, caso en el cual se pagará la multa que corresponda, calculada sobre la parte consentida de la resolución y disminuida en su caso en los términos de este Código por su pronto pago.
+Si se controvierten sólo determinados conceptos de la resolución administrativa que determinó el crédito fiscal, el particular pagará la parte consentida del crédito y los recargos correspondientes, mediante declaración complementaria, caso en el cual se pagará la multa que corresponda, calculada sobre la parte consentida de la resolución y disminuida, en su caso, en los términos de este Código por su pronto pago.
 
 Si en la declaración complementaria se determina que el pago fue menor al que correspondía, los recargos se computarán sobre la diferencia, en los términos del artículo 31 de este Código, a partir de la fecha en que debió hacerse el pago.
+
+En el caso de que en el dictamen a que se refiere la fracción II del párrafo segundo del presente artículo se determinen diferencias de impuestos a pagar, éstas deberán enterarse mediante declaración complementaria en las oficinas autorizadas, dentro de los diez días posteriores a la presentación del dictamen.
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 2018)</small>
 
@@ -999,9 +1005,65 @@ Si en la declaración complementaria se determina que el pago fue menor al que c
 
 Cuando las leyes fiscales establezcan la obligación de expedir comprobantes fiscales por las contraprestaciones e ingresos que se cobren, así como por las erogaciones o pagos que se realicen por concepto de remuneraciones al servicio personal subordinado y/o asimilado, los contribuyentes deberán emitirlos de conformidad con el Código Fiscal de la Federación, cumpliendo con los requisitos que en el referido Código se señalan. En el caso de los contribuyentes del impuesto sobre hospedaje y a las erogaciones en juegos y concursos, los comprobantes deberán de contener adicionalmente en forma expresa y por separado el monto de este impuesto.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 51.
 
-(DEROGADO, P.O. 15 DE JUNIO DE 2018)
+Las personas físicas, las personas morales y las unidades económicas que en el año de calendario inmediato anterior de que se trate, estén obligados o que hayan optado por dictaminar el correcto cumplimiento de las disposiciones fiscales del Impuesto Sobre Nóminas, regulado en el Título Segundo, Capítulo III, de la Ley de Hacienda del Estado de Campeche, deberán presentar el dictamen, a más tardar, el 31 de julio del año de calendario siguiente a aquel que se dictamina, en términos de lo que establecen la Ley de Hacienda del Estado de Campeche, este Código y las reglas de carácter general que emita el Servicio de Administración Fiscal del Estado de Campeche.
+
+Cuando las personas físicas, las personas morales y las unidades económicas opten por dictaminar la determinación y pago del Impuesto sobre Nóminas, deberán presentar el aviso correspondiente, a través de los medios que establezca la Secretaría, ante la Dirección de Auditoría Fiscal dependiente del Servicio de Administración Fiscal del Estado de Campeche.
+
+El aviso para dictaminarse se presentará, a más tardar, el 31 de enero del año de calendario siguiente al que se opte por dictaminar.
+
+El aviso a que se refiere este artículo no surtirá efectos cuando:
+
+a) No se presente en el formato publicado;
+
+b) La o el Contador Público propuesto no cuente con el registro correspondiente ante las autoridades fiscales del Estado de Campeche antes de la presentación del aviso y compruebe haber cumplido con lo dispuesto en el artículo 72-B, o su registro se encuentre suspendido o cancelado en los términos del artículo 90-A, de este Código;
+
+c) Cuando se presente de manera extemporánea; no obstante, lo anterior, los contribuyentes a que hace referencia el artículo 27 de la Ley de Hacienda del Estado de Campeche, deberán cumplir con esta obligación.
+
+El período del dictamen deberá abarcar el cumplimiento de las disposiciones fiscales del Impuesto Sobre Nóminas, reguladas en el Título Segundo, Capítulo III, de la Ley de Hacienda del Estado de Campeche, correspondiente al año calendario inmediato anterior.
+
+La presentación del dictamen se realizará ante la Dirección de Auditoría Fiscal, dependiente del Servicio de Administración Fiscal del Estado de Campeche.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 51-A.
+
+No surtirá efecto fiscal alguno el dictamen, cuando ocurra alguna de las siguientes situaciones:
+
+I. Se presente el aviso fuera del plazo mencionado o se tenga como no presentado por la autoridad fiscal;
+
+II. Cuando el dictamen y la información relacionada con el mismo se presenten fuera de los plazos legales; y
+
+III. Cuando se presente en forma incompleta o con formatos diferentes a los autorizados por el Servicio de Administración Fiscal del Estado de Campeche, mediante reglas de carácter general.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 51-B.
+
+El dictamen que se formule por la o el contador público registrado deberá contener lo siguiente:
+
+I. Carta de presentación, que contendrá la información de identificación del contribuyente que se dictamina, de su representante legal en su caso, y de la o el Contador Público Registrado que formula el dictamen;
+
+II. Cuestionario inicial de autoevaluación fiscal;
+
+III. La información cuantitativa sobre la determinación y pago de la contribución revisada, de acuerdo a su periodo de causación;
+
+IV. El informe sobre la revisión de la situación fiscal del contribuyente con motivo del trabajo profesional realizado por la o el Contador Público Registrado;
+
+V. La opinión profesional de la o el Contador Público que lo formula, soportada razonablemente en la información y documentación del contribuyente;
+
+La o el contador público registrado, al emitir dictámenes relacionados con el Impuesto sobre Nóminas del contribuyente de que se trate, deberá formularlo con base en papeles de trabajo elaborados por el obligado en la determinación de las cantidades a pagar por concepto del impuesto, información de los estados financieros, en información de registros contables, información de declaraciones presentadas en cumplimiento a las obligaciones del impuesto referido, información de declaraciones presentadas ante autoridades federales de seguridad social, las normas y procedimientos de auditoría, normas de información financiera vigentes, comprobantes fiscales digitales por internet regulados en el Código Fiscal de la Federación, entre otros y, la determinación del impuesto sobre nóminas deberá realizarse con base en las disposiciones aplicables contenidas en las disposiciones fiscales estatales; y
+
+VI. Notas aclaratorias.
+
+Las opiniones o interpretaciones contenidas en los dictámenes no obligan a la autoridad fiscal. La revisión de los dictámenes y demás información y documentos en relación a éstos se podrá efectuar en forma previa o simultánea al ejercicio de las otras facultades de comprobación previstas en este Código, respecto de los contribuyentes o responsables solidarios.
+
+Los contribuyentes que se dictaminen podrán sustituir en cualquier tiempo a la o el Contador Público Registrado que hayan designado en el aviso de dictamen a que se refiere el segundo párrafo de este artículo, informando a la autoridad fiscal competente de dicho cambio, expresando los motivos que se tengan y presentando en su caso las pruebas documentales pertinentes, a más tardar el último día en que concluya el plazo para la presentación oportuna del dictamen, sin que esto modifique en forma alguna el término autorizado para dicha presentación.
+
+Cuando derivado de la elaboración del dictamen la o el contador público registrado tenga conocimiento de que el contribuyente ha incumplido con las disposiciones fiscales estatales o que ha llevado a cabo alguna conducta que pueda constituir la comisión de un delito fiscal, deberá informarlo a la autoridad fiscal, por el medio establecido mediante reglas de carácter general, ante la Dirección de Auditoría Fiscal dependiente del Servicio de Administración Fiscal del Estado de Campeche.
 
 ###### Artículo 52.
 
@@ -1141,7 +1203,9 @@ V. Practicar u ordenar se practique avalúo o verificación física de toda clas
 
 VI. Recabar de los funcionarios y empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones; y
 
-VII. (DEROGADA), P.O. 6 DE AGOSTO DE 2019)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+VII. Revisar los dictámenes formulados por las o los contadores públicos registrados respecto del cumplimiento de las disposiciones fiscales del Impuesto sobre Nóminas, reguladas en el Título Segundo, Capítulo III, de la Ley de Hacienda del Estado de Campeche, así como cualquier otro dictamen que tenga repercusión para efectos fiscales formulado por la o el contador público y su relación con el cumplimiento de disposiciones fiscales estatales.
 
 Las autoridades fiscales podrán ejercer estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
 
@@ -1411,6 +1475,80 @@ VI. Si con motivo de la visita domiciliaria a que se refiere este artículo, las
 
 La resolución a que se refiere el párrafo anterior deberá emitirse en un plazo que no excederá de seis meses contados a partir del vencimiento del plazo señalado en el párrafo que antecede.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 72-A.
+
+Se presumirán ciertos, salvo prueba en contrario, los hechos afirmados en los dictámenes formulados por las o los contadores públicos que tengan repercusiones para contribuciones estatales, siempre que reúnan los siguientes requisitos:
+
+I. Que la o el Contador Público que dictamine cuente con registro actualizado ante el Servicio de Administración Fiscal del Estado de Campeche para dictaminar contribuciones estatales;
+
+II. Que el dictamen se formule de acuerdo a las disposiciones de este Código y de las reglas de carácter general que al efecto publique el Servicio de Administración Fiscal del Estado de Campeche; y
+
+III. Que la o el Contador Público emita, conjuntamente con su dictamen, un informe sobre la revisión fiscal en el que se consignen, bajo protesta de decir verdad, los datos que señale este Código y las reglas de carácter general que al efecto publique el Servicio de Administración Fiscal del Estado de Campeche.
+
+El dictamen únicamente constituye una opinión técnica, emitida por la o el contador público registrado que realice la revisión de la información presentada por el contribuyente obligado o que haya optado por dictaminarse, que no obliga a las autoridades fiscales. La revisión de los dictámenes y demás documentos relativos a los mismos se podrá efectuar en forma previa, simultánea o indistinta al ejercicio de las otras facultades de comprobación respecto de los contribuyentes o responsables solidarios.
+
+En el caso de que en el dictamen se determinen diferencias de impuestos a pagar y estos no se enteren dentro de los diez días posteriores a la presentación del dictamen, se tendrá por no presentado.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 72-B.
+
+Las y los contadores públicos que tramiten y obtengan autorización para formular los dictámenes a que se refiere el artículo 51 de este Código, quedarán registrados ante el Servicio de Administración Fiscal del Estado de Campeche.
+
+Las sociedades o asociaciones civiles conformadas por los despachos de las y los contadores públicos registrados, cuyos integrantes obtengan autorización para formular los dictámenes a que se refiere el primer párrafo de este artículo, deberán registrarse ante el Servicio de Administración Fiscal del Estado de Campeche.
+
+Para poder obtener autorización para formular los dictámenes y registrarse ante el Servicio de Administración Fiscal del Estado de Campeche, respecto del correcto cumplimiento de las obligaciones de contribuciones estatales, se deberá cumplir con los siguientes requisitos:
+
+I. Presentar por escrito el trámite de registro ante el Servicio de Administración Fiscal del Estado de Campeche, cumpliendo con los requisitos establecidos en este código y en las reglas de carácter general que para los efectos emita dicha institución,
+
+II. Presentar el título que le acredite como profesional en contaduría pública registrado ante la Secretaría de Educación Pública,
+
+III. Presentar la constancia con la que acredite ser miembro de un colegio profesional de contaduría pública reconocido por la misma Secretaría, cuando menos en los tres años previos a la presentación de la solicitud de registro correspondiente.
+
+Deberá mantenerse actualizado en los conocimientos profesionales y presentar, a más tardar, en el mes de junio de cada año, la constancia que acredite el cumplimiento de la norma de educación continua expedida por dicho colegio.
+
+IV. Estar domiciliado o tener sucursales en donde preste los servicios profesionales en el territorio del Estado de Campeche,
+
+V. Estar al corriente en el cumplimiento de sus obligaciones fiscales en los términos del artículo 32-D del Código Fiscal de la Federación, para lo cual deberán exhibir documento vigente expedido por el Servicio de Administración Tributaria, en el que se emita la opinión del cumplimiento de obligaciones fiscales.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 72-C.
+
+Cuando las autoridades fiscales, en el ejercicio de sus facultades de comprobación, revisen el dictamen y demás información a que se refiere este artículo y demás que señalen las reglas de carácter general que expida el Servicio de Administración Fiscal del Estado de Campeche, estarán a lo siguiente:
+
+I. Cuando la autoridad requiera en primera instancia a la o el contador público registrado que haya formulado el dictamen, podrá solicitar lo siguiente:
+
+a) La exhibición de los papeles de trabajo elaborados con motivo de la auditoría practicada, los cuales, en todo caso, se entiende que son propiedad de la o el contador público; y
+
+b) La información que se considere pertinente para cerciorarse del cumplimiento de las obligaciones fiscales del contribuyente.
+
+La revisión a que se refiere esta fracción se llevará a cabo con la o el contador público que haya formulado el dictamen. Esta revisión no deberá exceder de un plazo de seis meses contados a partir de que se notifique a la o el contador público la solicitud de información.
+
+Cuando la autoridad, dentro del plazo mencionado, no requiera directamente al contribuyente la información a que se refiere el inciso c) de esta fracción o no ejerza directamente con el contribuyente las facultades a que se refiere la fracción II del presente artículo, no podrá volver a revisar el mismo dictamen, salvo cuando se revisen hechos diferentes de los ya revisados.
+
+En caso de que la autoridad fiscal inicie facultades de comprobación directamente con el contribuyente, podrá solicitar información mediante compulsa a la o el contador público registrado que haya emitido el dictamen de que se trate.
+
+II. Habiéndose requerido a la o el contador público registrado que haya formulado el dictamen la información y los documentos a que se refiere la fracción anterior, después de haberlos recibido o si éstos no fueran suficientes a juicio de las autoridades fiscales para conocer la situación fiscal del contribuyente, o si éstos no se presentan dentro de los plazos que establece el artículo 72-D de este Código, o dicha información y documentos son incompletos, las citadas autoridades deberán ejercer directamente con el contribuyente sus facultades de comprobación, y
+
+III. Las autoridades fiscales podrán, en cualquier tiempo, solicitar a los terceros relacionados con el contribuyente o responsables solidarios, la información y documentación para verificar si son ciertos los datos consignados en el dictamen y en los demás documentos, en cuyo caso la solicitud respectiva se hará por escrito, notificando copia de la misma al contribuyente.
+
+La visita domiciliaria o el requerimiento de información que se realice a un contribuyente que dictamine sus estados financieros en los términos de este Código, cuyo único propósito sea el obtener información relacionada con un tercero, no se considerará revisión de dictamen.
+
+El plazo a que se refiere el segundo párrafo de la fracción I de este artículo es independiente del que se establece en el artículo 68 de este Código.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 72-D.
+
+Cuando las autoridades fiscales revisen el dictamen y demás información a que se refiere el artículo 72-C de este Código, y soliciten a la o el contador público registrado que lo hubiera formulado, información o documentación, ésta se deberá presentar en los siguientes plazos:
+
+I. Seis días, tratándose de papeles de trabajo elaborados con motivo del dictamen realizado. Cuando la o el contador público registrado tenga su domicilio fuera del territorio del estado de Campeche, el plazo será de quince días; y
+
+II. Quince días, tratándose de otra documentación o información relacionada con el dictamen, que esté en poder del contribuyente.
+
 ###### Artículo 73.
 
 En el caso de que con motivo de sus facultades de comprobación, las autoridades fiscales soliciten informes o documentos del contribuyente, responsable solidario o tercero, se tendrán los siguientes plazos para su presentación:
@@ -1441,7 +1579,9 @@ El plazo señalado en este artículo no está sujeto a interrupción y sólo se 
 
 El plazo de caducidad que se suspende con motivo del ejercicio de las facultades de comprobación antes mencionadas, inicia con la notificación de su ejercicio y concluye cuando se notifique la resolución definitiva por parte de la autoridad fiscal.
 
-En todo caso, el plazo de caducidad que se suspende con motivo del ejercicio de las facultades de comprobación, adicionado con el plazo por el que no se suspende dicha caducidad, no podrá exceder de diez años. Tratándose de visitas domiciliarias y de revisión de la contabilidad en las oficinas de las propias autoridades, el plazo de caducidad que se suspende con motivo del ejercicio de las facultades de comprobación, adicionado con el plazo por el que no se suspende dicha caducidad, no podrá exceder de seis años con seis meses o de siete años, según corresponda.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+En todo caso, el plazo de caducidad que se suspende con motivo del ejercicio de las facultades de comprobación, adicionado con el plazo por el que no se suspende dicha caducidad, no podrá exceder de diez años. Tratándose de visitas domiciliarias, de revisión de la contabilidad en las oficinas de las propias autoridades o de la revisión de dictámenes, el plazo de caducidad que se suspende con motivo del ejercicio de las facultades de comprobación, adicionado con el plazo por el que no se suspende dicha caducidad, no podrá exceder de seis años con seis meses, y en el caso de la revisión de dictámenes cuando se inicie con la o el contador público registrado y se continúe con el contribuyente, no podrá exceder de siete años.
 
 Las facultades de las autoridades fiscales para investigar hechos constitutivos de delitos en materia fiscal, no se extinguirán conforme a este artículo.
 
@@ -1488,6 +1628,10 @@ Se considera que el cumplimiento no es espontáneo en los siguientes casos:
 I. Cuando la omisión sea descubierta por las autoridades fiscales; y
 
 II. Cuando la omisión haya sido corregida por el contribuyente, después que las autoridades fiscales hubiesen notificado una orden de visita domiciliaria o haya mediado requerimiento o cualquier otra gestión notificada por las mismas, tendientes a la verificación del cumplimiento de la obligación fiscal de que se trate.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+III. Que la omisión haya sido subsanada por el contribuyente con posterioridad a los diez días siguientes a la presentación del dictamen de dicho contribuyente formulado por la o el contador público ante el Servicio de Administración Fiscal del Estado de Campeche, respecto de aquellas contribuciones omitidas que hubieren sido observadas en el dictamen.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -1699,6 +1843,28 @@ VIII. Declarar falsamente la información que se refiere en el artículo 116 de 
 
 IX. Declarar falsamente la información a que se refiere en el artículo 142 párrafo último de este Código: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 90-A.
+
+Cuando la o el contador público registrado que emita el dictamen de que se trate, no dé cumplimiento a las disposiciones referidas en el artículo 51-B de este código, la autoridad fiscal, previa audiencia, exhortará o amonestará a la o el contador público registrado, y en caso de que se acumulen dos amonestaciones, se suspenderá hasta por dos años los efectos de su registro.
+
+Si posterior a la suspensión anterior hubiera reincidencia o la o el contador hubiere participado en la comisión de un delito de carácter fiscal estatal, o no exhiba a requerimiento de autoridad los papeles de trabajo que elaboró con motivo de la auditoría practicada al contribuyente para efectos fiscales estatales, se procederá a la cancelación definitiva de dicho registro, quedando impedido para emitir dictámenes por cuenta propia o a través de terceros. En estos casos se dará inmediatamente aviso por escrito al colegio profesional y, en su caso, a la federación de colegios profesionales a que pertenezca la o el contador público en cuestión.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 90-B.
+
+Son infracciones relacionadas con la emisión de dictámenes, relativas al cumplimiento de las disposiciones fiscales estatales, que la o el contador público registrado que dictamina no observe la omisión del pago de contribuciones a que se encuentra obligado el contribuyente en términos de la ley de Hacienda del Estado de Campeche y siempre que la omisión de contribuciones sea determinada por las autoridades fiscales en ejercicio de sus facultades de comprobación mediante resolución que haya quedado firme.
+
+No se incurrirá en la infracción a que se refiere el párrafo anterior, cuando la omisión determinada no supere el 20% de las contribuciones estatales del contribuyente.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 90-C.
+
+A la o el contador público que cometa las infracciones a que se refiere el artículo 90-B de este Código se le aplicará una multa del 10% al 20% de las contribuciones omitidas a que se refiere el citado precepto, sin que dicha multa exceda del doble de los honorarios cobrados por la elaboración del dictamen.
+
 ### CAPÍTULO IV. De las Infracciones y Sanciones Relacionadas con la Obligación del Pago de las Contribuciones
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
@@ -1742,6 +1908,10 @@ IV. No realizar los registros correspondientes a las operaciones efectuadas, hac
 > <small>(REFORMADA, P.O. 15 DE JUNIO DE 2018)</small>
 
 V. No expedir los comprobantes cuando las disposiciones fiscales lo establezcan: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+VI. No dictaminar sus estados financieros cuando, de conformidad con lo previsto en el artículo 27 de la Ley de Hacienda del Estado de Campeche, esté obligado o hubiera optado por hacerlo. Así como en el caso de que no presente dicho dictamen dentro del término previsto por las leyes fiscales estatales. La multa para las conductas establecidas en esta fracción es de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPÍTULO VI. De las Infracciones y Sanciones Relacionadas con el Ejercicio de las Facultades de Comprobación
 
@@ -3187,13 +3357,17 @@ VI. Ayuden dolosamente a otro para su comisión; o
 
 VII. Auxilien a otro después de su ejecución, cumpliendo una promesa anterior.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 218.
 
 Es responsable de encubrimiento en los delitos fiscales, quien, sin previo acuerdo y sin haber participado en él, después de la ejecución del delito:
 
-I. Con ánimo de lucro adquiera, reciba, traslade u oculte el objeto del delito a sabiendas de que provenía de éste, o si de acuerdo con las circunstancias debía presumir su ilegítima procedencia, o ayude a otro a los mismos fines; y
+I. Con ánimo de lucro adquiera, reciba, traslade u oculte el objeto del delito a sabiendas de que provenía de éste, o si de acuerdo con las circunstancias debía presumir su ilegítima procedencia, o ayude a otro a los mismos fines;
 
-II. Ayude en cualquier forma al inculpado a eludir las investigaciones de la autoridad o a sustraerse de la acción de ésta, u oculte, altere, destruya o haga desaparecer las huellas, pruebas o instrumentos del delito o asegure para el inculpado el objeto o provecho del mismo.
+II. Ayude en cualquier forma al inculpado a eludir las investigaciones de la autoridad o a sustraerse de la acción de ésta, u oculte, altere, destruya o haga desaparecer las huellas, pruebas o instrumentos del delito o asegure para el inculpado el objeto o provecho del mismo; y
+
+III. Cuando derivado de la elaboración del dictamen de la determinación y pago del Impuesto sobre Nóminas, la o el contador público inscrito haya tenido conocimiento de un hecho probablemente constitutivo delito, sin haberlo informado en términos del artículo 51-B, último párrafo de este Código.
 
 El encubrimiento a que se refiere este artículo se sancionará con prisión de tres meses a seis años.
 
@@ -3518,3 +3692,11 @@ El presente decreto entrará en vigor el 1° de enero de 2023, previa publicaci�
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 328 POR EL QUE "SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 17; EL ARTÍCULO 49; EL PÁRRAFO SEXTO DEL ARTÍCULO 74 Y EL ARTÍCULO 218" Y "SE REPONE CON NUEVO TEXTO EL ARTÍCULO 51; LA FRACCIÓN VII DEL ARTÍCULO 61 Y SE ADICIONAN LOS ARTÍCULOS 51-A; 51-B; 72-A; 72-B; 72-C; 72-D; UNA FRACCIÓN III AL SEGUNDO PÁRRAFO DEL ARTÍCULO 78; LOS ARTÍCULOS 90-A, 90-B, 90-C Y UNA FRACCIÓN VI AL ARTÍCULO 92; TODOS DEL CÓDIGO FISCAL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el día 1° de enero de 2024, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
