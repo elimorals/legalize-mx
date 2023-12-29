@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-53416"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-02-01"
-last_updated: "2023-05-08"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53416&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-01-31"
 
 LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de febrero de 2007.
 
@@ -1033,7 +1033,9 @@ V. Brindar los servicios especializados y gratuitos para la atención y protecci
 
 VI. Fomentar y apoyar programas de educación pública y privada, destinados a concientizar a la sociedad sobre las causas y las consecuencias de la violencia contra las mujeres;
 
-VII. Diseñar programas de atención y capacitación a víctimas que les permita participar plenamente en todos los ámbitos de la vida;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2023)</small>
+
+VII. Diseñar programas de atención y capacitación a víctimas que les permita participar plenamente en todos los ámbitos de la vida; incluyendo aquellas que permitan su inserción laboral y empoderamiento económico;
 
 VIII. Vigilar que los medios de comunicación no fomenten la violencia contra las mujeres y que favorezcan la erradicación de todos los tipos de violencia, para fortalecer el respeto a los derechos humanos y la dignidad de las mujeres;
 
@@ -2318,3 +2320,9 @@ Sexto.- Las dependencias de la Administración Pública Federal involucradas y l
 Séptimo.- El Consejo Nacional de Seguridad Pública deberá actualizar los lineamientos y acuerdos bajo los cuales se desarrollará la implementación de los Programas con Prioridad Nacional para que los Centros de Justicia para las Mujeres sean considerados como un Programa con Prioridad Nacional para el ejercicio del Fondo, Subsidio y demás recursos de carácter federal que se otorguen a las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en materia de seguridad pública.
 
 Octavo.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado para los ejecutores de gasto correspondientes, para el presente ejercicio fiscal y los subsecuentes.
+
+D.O.F. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 38 DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
