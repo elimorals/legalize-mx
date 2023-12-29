@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-151554"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-09-14"
-last_updated: "2023-07-28"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección del Número 1519 del Periódico Oficial del Estado de Campeche, el martes 14 de septiembre de 2021.
 
@@ -363,7 +363,7 @@ XXXIII. Diseñar, instrumentar y gestionar, a través de las instancias correspo
 
 XXXIV. Formular y evaluar políticas, programas y estudios dirigidos a la protección de las víctimas de delitos, promoviendo el establecimiento de estrategias de coordinación entre las instancias encargadas de la materia y coadyuvar en la celebración de acuerdos de colaboración con instituciones del sector público y privado;
 
-XXXV. Promover la implementación de un programa para la protección de las niñas, niños y adolescentes en el Estado, sobre la base de una coordinación eficiente que asegure la participación de todos los sectores responsables; estableciendo mecanismos concretos para la evaluación y monitoreo del cumplimiento de los objetivos y metas definidos por la Ley General y la Ley local en la materia;
+XXXV. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2023)
 
 XXXVI. Coordinar el Centro de Supervisores de Libertad, en términos de lo dispuesto por la Ley Nacional de Ejecución Penal, así como establecer el proceso de certificación para que una organización de la sociedad civil pueda coadyuvar en la supervisión de libertad condicionada;
 
@@ -407,7 +407,9 @@ LV. Proponer y ejecutar los convenios y acuerdos que en materia de trabajo firme
 
 LVI. Coadyuvar con la Dependencia Federal correspondiente en la formulación y promulgación de contratos-ley, tratándose de empresas de jurisdicción local;
 
-LVII. Formular y proponer a la Secretaría de Modernización Administrativa e Innovación Gubernamental y a la Secretaría de Administración y Finanzas, ambas de la Administración Pública Estatal, en sus respectivas competencias, los programas en materia de trabajo, previsión social, protección y fomento al empleo, mismos que podrá ejecutar con la participación de los tres órdenes de gobierno y de los sectores social y privado
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+LVII. Formular y proponer a la Secretaría de Administración y Finanzas de la Administración Pública Estatal los programas en materia de trabajo, previsión social, protección y fomento al empleo, mismos que podrá ejecutar con la participación de los tres órdenes de gobierno y de los sectores sociales y privado;
 
 LVIII. Integrar las estadísticas generales correspondientes a la materia del trabajo, coordinándose con las autoridades competentes de la Administración Pública Estatal a efecto de sistematizar y homologar los criterios para el procesamiento de la información;
 
@@ -426,6 +428,8 @@ LXIV. Impulsar y apoyar el desarrollo social, cultural y recreativo de las y los
 LXV. Organizar y administrar el Archivo General del Estado; y
 
 LXVI. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 28.
 
@@ -457,8 +461,6 @@ XII. Mantener actualizado el Padrón Estatal de Contribuyentes;
 
 XIII. Requerir y exigir a los particulares la presentación de declaraciones, avisos, manifestaciones y demás documentos a que obliguen las disposiciones fiscales, cuando los obligados no lo hagan en los plazos respectivos y, simultánea o sucesivamente, hacer efectiva una cantidad igual a la determinada en la última o en cualquiera de las seis últimas declaraciones de que se trate, o la que resulte de la determinada por la autoridad; practicar el embargo precautorio en bienes o en la negociación de la o el contribuyente; asimismo, requerir a las y los contribuyentes la rectificación de errores u omisiones contenidos en las declaraciones, solicitudes, avisos y demás documentos, y dejar sin efectos los avisos presentados cuando al revisarse o verificarse no correspondan a lo manifestado;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
-
 XIV. Resolver las consultas respecto a dudas que se susciten con motivo de la interpretación y aplicación de las disposiciones fiscales, formuladas por las autoridades estatales, municipales y los particulares respecto a casos concretos que sean de su competencia, así como las solicitudes que presenten dichos particulares respecto a las autorizaciones previstas en las citadas disposiciones; y prestar a las y los contribuyentes el servicio de orientación y de asistencia en el cumplimiento de las obligaciones fiscales tanto en materia estatal como federal; en este último caso, se realizará conforme al convenio respectivo celebrado entre el Estado y la Federación;
 
 XV. Ejercitar todos los derechos que correspondan al Estado, en el caso de las garantías que se otorguen a favor de éste, así como proceder a su legal cobro previa solicitud por escrito que le haga el Organismo Centralizado, la Entidad Paraestatal o la autoridad que corresponda;
@@ -471,27 +473,19 @@ XVIII. Dictar las normas relacionadas con la administración de fondos y valores
 
 XIX. Cuidar que las y los servidores públicos que administren fondos del Estado otorguen fianza suficiente para garantizar la aplicación adecuada en los términos establecidos en la legislación en materia de responsabilidad administrativa de las y los servidores públicos;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
-
 XX. Integrar el programa general del gasto público y el anteproyecto de Presupuesto de Egresos del ejercicio fiscal que corresponda en términos de la Ley General de Contabilidad Gubernamental;
 
 XXI. Verificar los resultados de los programas y presupuestos de los Organismos Centralizados y, en su caso, de las Entidades Paraestatales;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
-
-XXII. Presidir la Comisión Intersecretarial Gasto-Financiamiento para determinar los lineamientos a que deben sujetarse los Organismos Centralizados y las Entidades Paraestatales de la administración pública estatal, respecto de las disponibilidades financieras con que cuenten durante el ejercicio presupuestal, sus ampliaciones, así como en la planeación, programación y ejecución del gasto y financiamiento;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
+XXII. Presidir en la Comisión Intersecretarial Gasto-Financiamiento para determinar los lineamientos a que deben sujetarse los Organismos Centralizados y las Entidades Paraestatales de la administración pública estatal, respecto de las disponibilidades financieras con que cuenten durante el ejercicio presupuestal, sus ampliaciones, así como en la planeación, programación y ejecución del gasto y financiamiento;
 
 XXIII. Revisar y autorizar presupuestalmente las estructuras orgánicas y ocupacionales de los Organismos Centralizados y las Entidades Paraestatales y sus modificaciones, así como emitir las normas, criterios, dictámenes y conducir las políticas en la materia;
 
 XXIV. Contar con un sistema de registro y control de las erogaciones de servicios personales, para los fines que establece la legislación en materia de disciplina financiera y responsabilidad hacendaria federal y estatal;
 
-XXV. Formular trimestralmente el estado de origen y aplicación de los recursos, así como los demás estados financieros respecto del estado que guarda la hacienda pública estatal;
+XXV. Formular trimestralmente los estados financieros respecto del estado que guarda la hacienda pública estatal, de conformidad con la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y demás disposiciones aplicables;
 
 XXVI. Revisar las operaciones que se hayan realizado con los recursos económicos del Estado, y aplicar para tal efecto los sistemas de contabilidad gubernamental;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
 
 XXVII. Analizar la disponibilidad presupuestaria a efecto de ministrar los recursos para los programas de inversión de los Organismos Centralizados y de las Entidades Paraestatales, de conformidad con la Ley de Presupuesto de Egresos del ejercicio fiscal que corresponda;
 
@@ -503,8 +497,6 @@ XXX. Llevar el Registro de Empréstitos y Obligaciones y ejercer las facultades 
 
 XXXI. Llevar el Registro Público de Organismos Descentralizados y ejercer las facultades que le confiera la Ley de la Administración Pública Paraestatal;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
-
 XXXII. Suscribir contratos, títulos de crédito y demás documentos jurídico-contractuales en representación del Poder Ejecutivo Estatal;
 
 XXXIII. Tramitar la cancelación de cuentas y créditos incobrables, así como el otorgamiento de subsidios y estímulos fiscales de conformidad con la legislación aplicable;
@@ -513,7 +505,7 @@ XXXIV. Estimar y publicar el monto global y calendarización provisional del pre
 
 XXXV. Prestar a los municipios, cuando así se lo soliciten, la asesoría y el apoyo técnico necesarios en materia hacendaria;
 
-XXXVI. Publicar la información financiera en términos de la Ley General de Contabilidad Gubernamental;
+XXXVI. Publicar la información financiera en términos de la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y demás disposiciones aplicables;
 
 XXXVII. Publicar anualmente en el Periódico Oficial del Estado, la relación de las entidades que formen parte de la Administración Pública Paraestatal del Estado;
 
@@ -522,8 +514,6 @@ XXXVIII. Dirigir y ejecutar las acciones, procedimientos e implementación neces
 XXXIX. Conducir las políticas, establecer las normas y emitir las autorizaciones y los criterios correspondientes en materia de administración de recursos humanos, contratación, remuneraciones del personal y servicio profesional de carrera de la administración pública estatal;
 
 XL. Vigilar el cumplimiento de las disposiciones legales que rijan las relaciones entre la Administración Pública Estatal y sus servidoras y servidores públicos;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
 
 XLI. Autorizar y controlar las nóminas y plantillas del personal adscrito a los Organismos Centralizados, con excepción de las nóminas federalizadas de las y los servidores públicos al servicio de los ramos de educación y salud, las cuales serán de la competencia directa de las Secretarías de Educación y de Salud, respectivas. Los Organismos Centralizados deberán someter a consideración de esta Secretaría las contrataciones y movimientos de personal;
 
@@ -539,41 +529,35 @@ XLVI. Administrar los seguros de los Organismos Centralizados de la Administraci
 
 XLVII. Conducir la política inmobiliaria y mobiliaria de la administración pública estatal y ejercer las facultades que en materia de bienes muebles e inmuebles le confieren la Ley de Bienes del Estado de Campeche y de sus Municipios, así como el Reglamento de Bienes Muebles de la propiedad del Estado de Campeche y asegurar la administración, operación, conservación y mantenimiento de los bienes muebles e inmuebles propiedad o en posesión del Estado cuando no estén asignados a alguna entidad paraestatal y llevar su inventario general correspondiente, así como coordinar los actos jurídicos relacionados con la propiedad del Estado;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
-
-XLVIII. Adquirir y suministrar los bienes, productos y servicios que requiera la Administración Pública Centralizada para su funcionamiento, bajo las normas de adquisición, contratación y dotación establecidas, así como en los lineamientos que para tal efecto emita;
+XLVIII. Adquirir y suministrar los bienes, productos y servicios que requiera la Administración Pública Centralizada para su funcionamiento, bajo las normas de adquisición, contratación y dotación establecidas, así como en los lineamentos que para tal efecto emita;
 
 XLIX. Autorizar y controlar las adquisiciones de bienes, productos y servicios que requiera la Administración Pública Centralizada para su funcionamiento, bajo las normas de adquisición, contratación y dotación establecidas, con excepción de aquellas adquisiciones con cargo al gasto federalizado en materia de salud y educación, cuyas adquisiciones deberán ser realizadas directamente por los Organismos Centralizados ejecutores de salud y de educación. En materia de gasto federalizado en el rubro de seguridad pública, la Secretaría podrá realizar las adquisiciones a solicitud de los Organismos Centralizados ejecutores o éstos podrán hacerlas de manera directa;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
-
-L. Designar, y en su caso remover, a las y los responsables de las áreas administrativas encargadas principalmente de capital humano, servicios materiales y recursos financieros de los Organismos Centralizados de la Administración Pública;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
+L. Designar, y en su caso remover a las y los responsables de las áreas administrativas encargadas principalmente de capital humano, servicios materiales y recursos financieros de los Organismos Centralizados de la Administración Pública.
 
 LI. Organizar, dirigir y controlar la intendencia de los Organismos Centralizados de la Administración Pública Estatal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE DICIEMBRE DE 2022)</small>
-
 LII. Representar al Estado como fideicomitente único en la constitución de fideicomisos estatales en los términos que establezcan las disposiciones en la materia;
-
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
 
 LIII. Verificar y validar la información financiera contenida en el informe que rinda anualmente la Gobernadora o Gobernador del Estado ante el H. Congreso del Estado en términos de lo establecido en los artículos 41 y 73 de la Constitución Política del Estado de Campeche;
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
+LIV. Administrar los bienes que sean destinados en favor del Estado de Campeche en razón de procedimientos administrativos o jurisdiccionales que hayan quedado firmes en los términos previstos en la legislación en la materia y en las demás disposiciones legales y reglamentarias aplicables;
 
-LXIV (SIC). Administrar los bienes que sean destinados en favor del Estado de Campeche en razón de procedimientos administrativos o jurisdiccionales que hayan quedado firmes en los términos previstos en la legislación en la materia y en las demás disposiciones legales y reglamentarias aplicables;
+LV. Administrar los bienes asegurados en materia de extinción de dominio de conformidad con la Ley Nacional de Extinción de Dominio y demás legislación aplicable;
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
+LVI. Gestionar, solicitar y tramitar, en ámbito de su competencia, la obtención de donativos y donaciones en efectivo o especie, indemnizaciones o contraprestaciones ante Petróleos Mexicanos, sus empresas productivas subsidiarias y sus empresas filiales, o cualquier otra dependencia o Entidad Paraestatal en materia de energía, para su otorgamiento al Estado de Campeche, ajustándose, en su caso, a los documentos contractuales que al efecto se suscriban;
 
-LV. Gestionar, solicitar y tramitar la obtención de donativos y donaciones en efectivo o especie, indemnizaciones o contraprestaciones ante Petróleos Mexicanos, sus empresas productivas subsidiarias y sus empresas filiales o cualquier otra Dependencia o Entidad Paraestatal en materia de energía para su otorgamiento al Estado de Campeche, en el ámbito de su competencia, ajustándose, en su caso, a los documentos contractuales que al efecto se suscriban; y
+LVII. Expedir, conforme a la Ley de la materia, los permisos o licencias a los establecimientos en donde se vendan o consuman bebidas alcohólicas, así como controlar los cobros y proveer la vigilancia, verificación y cumplimiento de la legislación aplicable en materia de venta, distribución y consumo de bebidas alcohólicas en el Estado;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE DICIEMBRE DE 2022)</small>
+LVIII. Proporcionar la asesoría técnica y capacitación en la evaluación de la rentabilidad social de los programas y proyectos de inversión pública y de la conformación de la cartera estatal de programas y proyectos de inversión pública de alta rentabilidad social;
 
-LVI. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
+LIX. Administrar el registro Estatal de los Programas y Proyectos de Inversión Pública que los organismos Centralizados y las Entidades Paraestatales pretendan realizar bajo los lineamientos que establezca la persona Titular del Organismo Centralizado o la persona que represente a la Entidades (sic) Paraestatal;
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2023)</small>
+LX. Convenir y coordinar con las autoridades federales los programas de inversión a realizarse en el Estado; y
+
+LXI. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 29.
 
@@ -589,11 +573,11 @@ IV. Coordinar el Sistema Estatal de Planeación Democrática, así como procurar
 
 V. Proporcionar asistencia técnica a los HH. Ayuntamientos de los Municipios para la formulación de sus Planes Municipales de Desarrollo;
 
-VI. Planear y supervisar las acciones del Comité de Planeación para el Desarrollo del Estado de Campeche (COPLADECAM) en coordinación con las autoridades federales y estatales ejecutoras del gasto, así como con los HH. Ayuntamientos de los Municipios del Estado;
+VI. Planear y supervisar las acciones del Comité de Planeación para el Desarrollo del Estado de Campeche (COPLADECAM) en coordinación con las autoridades federales y estatales ejecutoras del gasto, así como los HH. Ayuntamientos de los Municipios del Estado;
 
 VII. Estimular la participación del sector social y privado en el COPLADECAM;
 
-VIII. Integrar y coordinar el Sistema Estatal de Estadística e Información para la Planeación, que opera el Instituto de Información Estadística, Geografía y Catastral del Estado de Campeche, así como coordinar, con los Municipios y la Federación, el intercambio de la información en el marco del Sistema Nacional de Información Estadística y Geográfica;
+VIII. Integrar y coordinar el Sistema Estatal de Estadística e Información para la Planeación, que opera el Instituto de Información Estadística, Geográfica y Catastral del Estado de Campeche, así como coordinar, con los Municipios y la Federación, el intercambio de la información en el marco del Sistema Nacional de Información Estadística y Geográfica;
 
 IX. Definir el desarrollo de mecanismos y estrategias de participación de la sociedad civil en las tareas de planeación, seguimiento y evaluación de las políticas, programas y proyectos de la Administración Pública Estatal;
 
@@ -609,33 +593,29 @@ XIV. Coadyuvar al fortalecimiento de las instancias de la Administración Públi
 
 XV. Coordinar la integración del Programa Anual de Inversión Pública;
 
-XVI. Proporcionar la asesoría técnica y capacitación en la evaluación de la rentabilidad social de los programas y proyectos de inversión pública y de la conformación de la cartera estatal de programas y proyectos de inversión pública de alta rentabilidad social;
+XVI. Analizar y autorizar los recursos del Programa Anual de Inversión Pública, conforme a las prioridades del Plan Estatal de Desarrollo, para que la Secretaría de Administración y Finanzas integre el proyecto de Ley de Presupuesto de Egresos;
 
-XVII. Administrar el Registro Estatal de los Programas y Proyectos de Inversión Pública que los Organismos Centralizados y las Entidades Paraestatales, pretendan realizar bajo los lineamientos que establezca la persona titular del Organismo Centralizado o la persona que represente a la Entidad Paraestatal;
+XVII. Coordinar el control y la evaluación del Plan Estatal de Desarrollo para adecuarlo a las previsiones de los planes que formule el Ejecutivo Federal e incidan localmente, así como coadyuvar al oportuno cumplimiento de sus objetivos y metas;
 
-XVIII. Coordinar el control y la evaluación del Plan Estatal de Desarrollo para adecuarlo a las previsiones de los planes que formule el Ejecutivo Federal e incidan localmente, así como coadyuvar al oportuno cumplimiento de sus objetivos y metas;
+XVIII. Analizar sistemáticamente el desarrollo y el impacto socioeconómico que produzcan los programas y acciones que deriven del Sistema Estatal de Planeación;
 
-XIX. Analizar sistemáticamente el desarrollo y el impacto socioeconómico que produzcan los programas y acciones que deriven del Sistema Estatal de Planeación;
+XIX. Aprobar y evaluar los programas derivados del Plan Estatal de Desarrollo, revisando periódicamente su impacto, así como el cumplimiento de sus objetivos, metas y acciones para promover su corrección, modificación, adición, reorientación o suspensión en coordinación con los Organismos Centralizados y las Entidades Paraestatales responsables de los mismos;
 
-XX. Aprobar y evaluar los programas derivados del Plan Estatal de Desarrollo, revisando periódicamente su impacto, así como el cumplimiento de sus objetivos, metas y acciones para promover su corrección, modificación, adición, reorientación o suspensión en coordinación con los Organismos Centralizados y las Entidades Paraestatales responsables de los mismos;
+XX. Promover la realización de proyectos a través de organismos gubernamentales, consultorías especializadas, organismos no gubernamentales, fondos de fomento y convenios existentes con otros Gobiernos, sean estos locales, nacionales e internacionales;
 
-XXI. Analizar y autorizar los recursos del Programa Anual de Inversión Pública, conforme a las prioridades del Plan Estatal de Desarrollo, para que la Secretaría de Administración y Finanzas integre el proyecto de Ley de Presupuesto de Egresos;
+XXI. Auxiliar a la Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas en la instrumentación de la política de asentamiento y desarrollo territorial y urbano, así como en materia de movilidad; y asegurar que los programas en esta materia sean congruentes con los objetivos, políticas y metas establecidos por el Plan Estatal y los Planes Municipales de Desarrollo señalados en la Ley de Planeación del Estado de Campeche y sus Municipios;
 
-XXII. Convenir y coordinar con las autoridades federales los programas de inversión a realizarse en el Estado;
+XXII. Conducir y vigilar los procesos de certificación de la calidad en la prestación de servicios de la Administración Pública Estatal;
 
-XXIII. Promover la realización de proyectos a través de organismos gubernamentales, consultorías especializadas, organismos no gubernamentales, fondos de fomento y convenios existentes con otros Gobiernos, sean estos locales, nacionales e internacionales;
+XXIII. Elaborar y mantener actualizado el Catálogo de Trámites y Servicios de la Administración Pública Estatal;
 
-XXIV. Auxiliar a la Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas en la instrumentación de la política de asentamiento y desarrollo territorial y urbano, así como en materia de movilidad; y asegurar que los programas en esta materia sean congruentes con los objetivos, políticas y metas establecidos por el Plan Estatal y los planes Municipales de Desarrollo señalados en la Ley de Planeación del Estado de Campeche y sus Municipios;
+XXIV. Emitir los lineamientos para la elaboración de los manuales de organización, estructuras y procedimientos de la Administración Pública del Estado y, en su caso, autorizarlos;
 
-XXV. Conducir y vigilar los procesos de certificación de la calidad en la prestación de servicios de la Administración Pública Estatal;
+XXV. Conducir las políticas de fortalecimiento integral de las capacidades institucionales de la Administración Pública, con especial énfasis en la esfera Municipal, promoviendo la vinculación y la participación ciudadana, a través de la capacitación, asesoría, asistencia técnica e investigación;
 
-XXVI. Elaborar y mantener actualizado el Catálogo de Trámites y Servicios de la Administración Pública Estatal;
+XXVI. Formular, conducir, ejecutar y evaluar el Programa de Mejora Regulatoria en coordinación con las instancias correspondientes de las autoridades Federales y Municipales; y
 
-XXVII. Emitir los lineamientos para la elaboración de los manuales de organización, estructuras y procedimientos de la Administración Pública del Estado y, en su caso, autorizarlos;
-
-XXVIII. Formular, conducir, ejecutar y evaluar el Programa de Mejora Regulatoria en coordinación con las instancias correspondientes de las autoridades federales y municipales; y
-
-XXIX. Las demás atribuciones que señalen las leyes y reglamentos vigentes en el Estado.
+XXVII. Las demás atribuciones que señalen las Leyes y Reglamentos vigentes en el Estado.
 
 ###### Artículo 30.
 
@@ -861,11 +841,17 @@ XXVIII. Expedir disposiciones administrativas para los contratos de obras y serv
 
 XXIX. Cumplir con las disposiciones de la legislación general y la legislación estatal en materia de movilidad, definir sus políticas y actuar en coordinación con las Secretarías, Dependencias y Entidades de las Administraciones Públicas Federal, Estatal y Municipal en cumplimiento de las atribuciones y facultades que expresamente le establezcan las leyes generales y estatales en la materia;
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-XXX. Promover una mayor y mejor coordinación interinstitucional que garantice la concurrencia y corresponsabilidad de los tres órdenes de gobierno para el ordenamiento sustentable del territorio y el impulso al desarrollo regional y urbano, a fin de lograr el crecimiento equilibrado de las diversas comunidades y centros de población de la Entidad; y
+XXX. Promover una mayor y mejor coordinación interinstitucional que garantice la concurrencia y corresponsabilidad de los tres órdenes de gobierno para el ordenamiento sustentable del territorio y el impulso al desarrollo regional y urbano, a fin de lograr el crecimiento equilibrado de las diversas comunidades y centros de población de la Entidad;
 
-XXXI. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+XXXI. Realizar y supervisar las obras de estructura vial, señalética y balizamiento, en coordinación con la Secretaría de Protección y Seguridad Ciudadana, de conformidad con la normativa aplicable; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+XXXII. Las demás atribuciones que le señalen las Leyes y Reglamentos vigentes en el Estado.
 
 ###### Artículo 33.
 
@@ -1037,7 +1023,9 @@ XX. Dirigir en coordinación con la Secretaría de Inclusión la integración de
 
 XXI. Asistir y ejecutar, en conjunto con la Coordinación General de la Oficina de la Gobernadora o del Gobernador del Estado, las directrices respecto a las Delegaciones Municipales de Programas para el Desarrollo, así como la planeación, ejecución y evaluación de las acciones, planes y programas sociales que desarrollen;
 
-XXII. Impulsar políticas y dar seguimiento a los programas de protección social de los derechos de niñas, niños y adolescentes, en coordinación con los Organismos Centralizados y las Entidades Paraestatales, así como con las autoridades federales y municipales que correspondan;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+XXII. Promover la implementación de un programa para la protección de las Niñas, Niños y Adolescentes en el Estado, sobre la base de una coordinación eficiente que asegure la participación de todos los sectores responsables, estableciendo mecanismos concretos para la evaluación y monitoreo del cumplimiento de los objetivos y metas definidos por la Ley General y la Ley local en la materia;
 
 XXIII. Elaborar políticas públicas y dar seguimiento a los programas de apoyo e inmersión de los jóvenes a la vida social participativa y productiva, en coordinación y bajo las directrices de los organismos competentes;
 
@@ -1345,35 +1333,37 @@ XXXVII. Crear, operar y mantener actualizado el Registro Estatal de Prestadores 
 
 XXXVIII. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 40.
 
-A la Secretaría de Protección Civil le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Protección Civil le corresponde el despacho e (sic) los siguientes asuntos:
 
-I. Disponer de tecnologías y estrategias para promover en los medios de comunicación propios o medios de comunicación social escritos, audiovisuales y electrónicos, los planes y programas de capacitación, difusión y divulgación en campañas permanentes sobre temas de protección civil, que contribuyan a la formación de una cultura en la materia con una cobertura estatal;
+I. Disponer de tecnologías y estrategias para promover en los medios de comunicación propios o medios de comunicación social escritos, audiovisuales y electrónicos, los planes y programas de capacitación, difusión y divulgación en campañas permanentes sobre temas de protección civil, que contribuyan a la formación de una cultura en la materia con la cobertura estatal;
 
-II. Invitar a la población a participar activamente en acciones de protección civil y prevención de desastres;
+II. Invitar a la población a participar activamente en acciones de protección civil y prevención de desastres; así como impulsar programas que les permitan conocer de forma clara mecanismos de prevención, mitigación y autoprotección;
 
 III. Promover la incorporación de contenidos temáticos de protección civil en los planes de estudio de todos los niveles escolares;
 
 IV. Promover el desarrollo de planes y programas para la formación de especialistas en la materia y la investigación de las causas y efectos de los desastres, en los planteles de educación superior y en los organismos dedicados a la investigación científica y tecnológica;
 
-V. Integrar y mantener actualizada la base de datos de recursos humanos y materiales de los Organismos Centralizados y las Entidades Paraestatales de los diferentes órdenes de Gobierno y del sector privado, contenidas en el Sistema Estatal de Información de Protección Civil, susceptibles de movilizar en caso de desastre;
+V. Integrar y mantener actualizada la base de datos de recursos humanos y materiales de los Organismos Centralizados y las Entidades Paraestatales de los diferentes órdenes de Gobierno y previa autorización del sector privado, contenidas en el Sistema Estatal de Información de Protección Civil, susceptibles de movilizar en caso de desastre;
 
 VI. Promover la actualización de leyes y reglamentos que garanticen la seguridad de la población, así como la protección a sus bienes, servicios estratégicos y su entorno;
 
-VII. Promover que los Organismos Centralizados y las Entidades Paraestatales de la Administración Pública Estatal y la Municipal, cuenten con la infraestructura, equipamiento y servicios necesarios en las zonas urbanas y rurales para evitar daños en los casos que proceda;
+VII. Promover que los Organismos Centralizados y las Entidades Paraestatales de la Administración Pública Estatal y Municipal, ante situaciones de emergencia o desastre, dispongan de la infraestructura, equipamiento y servicios necesarios en las zonas urbanas y rurales para disminuir el impacto de un fenómeno perturbador;
 
 VIII. Coadyuvar de manera permanente en los programas, planes de emergencia y capacitación que en la materia le soliciten;
 
-IX. Establecer vínculos de coordinación y capacitación con entidades gubernamentales y privadas nacionales o extranjeras;
+IX. Establecer vínculos de coordinación y capacitación con Entidades Gubernamentales y privadas nacionales o extranjeras;
 
 X. Promover ante autoridades de los tres órdenes de Gobierno, así como del sector privado, la adquisición del equipo requerido para la atención de emergencias;
 
-XI. Coordinarse con las autoridades federales, estatales, municipales y el sector privado, para dar respuesta oportuna en caso de emergencia o desastre;
+XI. Coordinarse con las autoridades Federales, Estatales, Municipales y el sector privado, para dar respuesta oportuna en caso de emergencia o desastre;
 
 XII. Elaborar el Programa Estatal y los Programas Operativos Anuales de Protección Civil, para su aprobación, y en su caso, por el Consejo Estatal de Protección Civil;
 
-XIII. Celebrar con las entidades federativas y gobiernos municipales, así como con organismos e instituciones públicas y privadas, los convenios y acuerdos que estime necesarios en materia de protección civil y gestión de riesgos;
+XIII. Celebrar con las Entidades Federativas y Gobiernos Municipales, así como con organismos e instituciones públicas y privadas, los convenios y acuerdos que estimen necesarios en materia de protección civil y gestión de riesgos;
 
 XIV. Tramitar y dar seguimiento a los acuerdos emitidos por el Consejo Estatal de Protección Civil;
 
@@ -1381,39 +1371,39 @@ XV. Expedir las constancias de los registros que se otorguen a las empresas capa
 
 XVI. Elaborar, operar y mantener actualizado el Atlas Estatal de Peligros y Riesgos;
 
-XVII. Realizar visitas de inspección a los establecimientos mencionados en el artículo 43 fracción III de la Ley de Protección Civil, Prevención y Atención de Desastres del Estado de Campeche, cuando se considere pertinente, independientemente de la atribución similar de los Órganos Municipales, con el único objeto de cerciorarse que dichos inmuebles cuentan con la Unidad y el Programa Interno de Protección Civil, así como las medidas de seguridad necesarias para afrontar cualquier contingencia que pudiera presentarse;
+XVII. Realizar visitas de inspección a los establecimientos mencionados en el artículo 43 fracción III de la Ley de Protección Civil, Prevención y Atención de Desastres del Estado de Campeche, cuando se considere pertinente, independientemente de la atribución similar de los Órganos Municipales, con el objeto de cerciorarse que dichos inmuebles cuentan con la Unidad y el Programa Interno de Protección Civil, así como las medidas de seguridad necesarias para afrontar cualquier contingencia que pudiera presentarse;
 
-XVIII. Vigilar que los Organismos Centralizados y las Entidades Paraestatales cuenten con sus programas internos de protección civil, y otorgar el documento respectivo una vez que hayan cumplido con la normatividad;
+XVIII. Vigilar que los Organismos Centralizados y las Entidades Paraestatales de la Administración Pública Estatal, cuenten con sus programas internos de protección civil, y otorgar el documento respectivo una vez que hayan cumplido con la normatividad;
 
-XIX. Administrar el registro estatal de Grupos Voluntarios y Organizaciones Civiles cuyo objetivo sea fomentar la cultura de la Protección Civil, mediante procedimientos periódicos de control que permitan su coordinación y apoyo en acciones de Protección Civil;
+XIX. Administrar el Registro Estatal de Grupos Voluntarios y Organizaciones Civiles cuyo objetivo sea fomentar la cultura de Protección Civil, mediante procedimientos periódicos de control que permitan su coordinación y apoyo en acciones de Protección Civil y Gestión de Riesgos;
 
 XX. Organizar cursos de capacitación en materia de protección civil y gestión de riesgos a las y los integrantes del Sistema Estatal, integrantes de los diversos grupos voluntarios y organismos privados, los que deberán impartirse de forma descentralizada en el ámbito territorial del Estado, y cuando se soliciten, a efecto de que participen en ellos el mayor número de personas interesadas;
 
 XXI. Apoyar dentro de sus posibilidades presupuestarias y cuando la situación lo amerite, a las y los ciudadanos organizados y participativos en la materia de protección civil;
 
-XXII. Coordinar la promoción de acciones de educación, capacitación y difusión a la comunidad en materia de simulacros, señalización y usos de equipos de seguridad personal relativos a la protección civil, así como coadyuvar en la supervisión de esas acciones;
+XXII. Coordinar la promoción de acciones de educación, capacitación y difusión a la comunidad en materia de simulacros, señalización y usos de equipos de seguridad personal relativos a la protección civil, así como coadyuvar en la supervisión de esas acciones a fin de garantizar una respuesta adecuada ante situaciones de riesgo, previstas en el Atlas de Riesgo;
 
 XXIII. Coadyuvar en la identificación de las zonas, inmuebles o instalaciones de alto riesgo y en la vigilancia del cumplimiento de las medidas de seguridad del almacenamiento, distribución y transporte de materiales y residuos peligrosos;
 
-XXIV. Solicitar informes a las autoridades federales, estatales y municipales, así como a las instancias privadas, académicas o de investigación en materia de protección civil;
+XXIV. Solicitar informes a las autoridades Federales, Estatales y Municipales, así como a las instancias privadas, académicas o de investigación en materia de protección civil;
 
-XXV. Solicitar los dictámenes en materia de protección civil a las autoridades federales, estatales y municipales, y a las instituciones académicas o de investigación para implementar acciones dispuestas en la presente ley o en los reglamentos que tengan por objeto conocer el peligro y vulnerabilidad de la población para tomar las medidas preventivas o de mitigación necesarias;
+XXV. Solicitar los dictámenes en materia de protección civil a las autoridades Federales, Estatales y Municipales, y a las instituciones académicas o de investigación para implementar acciones dispuestas en la presente ley o en los reglamentos que tengan por objeto conocer el peligro y vulnerabilidad de la población para tomar las medidas preventivas o de mitigación necesarias;
 
 XXVI. Elaborar, administrar y mantener actualizada la base de datos del registro de empresas de bienes y servicios;
 
-XXVII. Diseñar y operar los sistemas de alertamiento por fenómenos perturbadores que puedan afectar a la entidad;
+XXVII. Diseñar y operar los sistemas de alertamiento por fenómenos perturbadores que puedan afectar a la Entidad;
 
-XXVIII. Realizar, a petición de una instancia de la Administración Pública, o de un particular, previo pago del servicio, los dictámenes de análisis de riesgos que sustenten, en su caso, las medidas de mitigación mismas que deberán ser autorizadas por las instancias de la Administración Pública facultadas para autorizar permisos correspondientes;
+XXVIII. Realizar, a petición de una instancia de la Administración Pública, o de un particular, previo al pago del servicio, los dictámenes de análisis de riesgos que sustenten, en su caso, las medidas de mitigación mismas que deberán ser autorizadas por las instancias de la Administración Pública facultadas para autorizar permisos correspondientes;
 
 XXIX. Realizar de manera oficiosa los análisis de riesgo para emitir observaciones a las autoridades competentes que conlleven a la disminución de la vulnerabilidad y exposición de la población y sus bienes;
 
 XXX. Promover la integración de estudios y de investigación relacionada con la Gestión Integral de Riesgos vinculándose con los organismos e instituciones académicas locales, nacionales e internacionales y con el trabajo coordinado del Comité Científico Asesor;
 
-XXXI. Administrar la operación del Fondo Estatal de Desastres y su vinculación con los instrumentos financieros disponibles a nivel federal;
+XXXI. Administrar la operación del Fondo Estatal de Desastres y su vinculación con los instrumentos financieros disponibles a nivel Federal;
 
 XXXII. Promover ciclos de conferencias, seminarios y diplomados de alta especialización en materia de Protección Civil para fortalecer capacidades institucionales y la cultura de la prevención en la población;
 
-XXXIII. Definir y actualizar, en coordinación con la Secretaría de Administración y Finanzas y la Secretaría de la Contraloría, ambas de la Administración Pública Estatal, los procedimientos y tabuladores para efecto de recaudación por prestación de servicios específicos de la Secretaría enmarcados en la Ley y Reglamento de Protección Civil y en la normatividad aplicable al mismo;
+XXXIII. Definir y actualizar, en coordinación con la Secretaría de Administración y Finanzas, y la Secretaría de la Contraloría, ambas de la Administración Pública Estatal, los procedimientos y tabuladores para efecto de recaudación por prestación de servicios específicos de la Secretaría enmarcados en la Ley y el Reglamento de Protección Civil y en la normatividad aplicable al mismo;
 
 XXXIV. Convocar a los integrantes del Consejo Estatal y activar la sesión ordinaria o extraordinaria según corresponda, ante la presencia de un fenómeno perturbador;
 
@@ -1423,21 +1413,21 @@ XXXVI. Administrar la atención de la emergencia a través del Comité de Coordi
 
 XXXVII. Solicitar a las y los integrantes del Consejo Estatal que nombren a una o un representante para que funja como enlace interinstitucional en las labores de operatividad y de gestión social para la atención de la emergencia;
 
-XXXVIII. Implementar acciones conjuntas, aportación de recursos humanos y económicos, a través de los acuerdos y convenios correspondientes para establecer mecanismos de preparación y mitigación;
+XXXVIII. Implementar acciones conjuntas, aportaciones de recursos humanos y económicos, a través de los acuerdos y convenios correspondientes para establecer mecanismos de preparación y mitigación;
 
 XXXIX. Coordinar y asesorar a los Consejos Municipales en la atención de la emergencia;
 
-XL. Activar el Plan de Contingencias y asegurar la adecuada coordinación de las acciones que realicen las y los participantes en el mismo, con base en lo previsto en la Ley de Protección Civil y Prevención y Atención de Desastres del Estado de Campeche.
+XL. Activar el Plan de Contingencias y asegurar la adecuada coordinación de las acciones que realicen las y los participantes en el mismo, con base en lo previsto en la Ley de Protección Civil, Prevención y Atención de Desastres del Estado de Campeche;
 
 XLI. Formular el diagnóstico y evaluación inicial de la severidad y magnitud de la emergencia, y presentarla de inmediato al Consejo Estatal y al Sistema Nacional de Protección Civil;
 
-XLII. Solicitar, en representación de la Gobernadora o del Gobernador del Estado, la corroboración del desastre ante la Comisión Nacional del Agua, así como la emisión de Declaratorias de Emergencias y de Desastres ante la Secretaría de Gobernación para el acceso de los fondos federales;
+XLII. Solicitar, en representación de la Gobernadora o del Gobernador del Estado, la corroboración del desastre ante la Comisión Nacional del Agua, así como la emisión de Declaratorias de Emergencias y de Desastres ante la Secretaría de Gobernación para el acceso de los fondos Federales;
 
 XLIII. Establecer los mecanismos de comunicación tanto en situación de normalidad como de emergencia, con los integrantes del Consejo Estatal y el Sistema Nacional de Protección Civil;
 
 XLIV. Coordinar y dirigir técnica y operativamente la atención de la emergencia;
 
-XLV. Establecer la operación de redes de comunicación disponibles en situaciones de normalidad para asegurar la eficacia de las mismas en situaciones de alerta y de emergencia;
+XLV. Establecer la operación de redes de comunicación disponibles en situaciones de normalidad para asegurar la eficacia de las mismas en situaciones de alerta y emergencia;
 
 XLVI. Supervisar el adecuado funcionamiento de los refugios temporales o albergues;
 
@@ -1447,7 +1437,7 @@ XLVIII. Realizar adquisiciones y servicios en forma directa en caso de emergenci
 
 XLIX. Dirigir y supervisar las áreas de rescate, protección ciudadana y bomberos; y
 
-L. Las demás atribuciones que le señalen las leyes, y reglamentos, vigentes en el Estado.
+L. Las demás atribuciones que señalen las Leyes y Reglamentos, vigentes en el Estado.
 
 ###### Artículo 41.
 
@@ -1910,3 +1900,51 @@ QUINTO.- La Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas seguir
 SEXTO.- A partir de la publicación del presente Decreto, la Consejería Jurídica, contará con un plazo de 180 días naturales para modificar su Reglamento Interior para armonizarlo con lo dispuesto en el mismo.
 
 SÉPTIMO.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía, del marco jurídico estatal, que se opongan a lo contenido en el presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 324 POR EL QUE "SE REFORMA LA FRACCIÓN LVII DEL ARTÍCULO 27; EL ARTÍCULO 28; EL ARTÍCULO 29; LAS FRACCIONES XXX Y XXXI DEL ARTÍCULO 32; LA FRACCIÓN XXII DEL ARTÍCULO 35; EL ARTÍCULO 40; SE ADICIONA LA FRACCIÓN XXXII AL ARTÍCULO 32; Y SE DEROGA LA FRACCIÓN XXXV DEL ARTÍCULO 27, TODOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1° de enero de 2024, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para los efectos legales del presente decreto, el H. Congreso del Estado y el Ejecutivo Estatal tomarán todas las previsiones financieras y presupuestales correspondientes en la Ley de Presupuesto de Egresos del Estado para el ejercicio fiscal 2024.
+
+###### ARTÍCULO TERCERO.
+
+Debido a las disposiciones del actual decreto, los Organismos Centralizados, Órganos y Entidades que detenten modificaciones, continuarán funcionando con su denominación, estructura, organización, presupuesto, atribuciones y, en su caso, sectorización, tal como lo establece la Ley Orgánica de la Administración Pública del Estado de Campeche vigente y los ordenamientos aplicables, hasta el 31 de diciembre de 2023.
+
+###### ARTÍCULO CUARTO.
+
+En virtud de las disposiciones del presente decreto, la Dirección General de Proyectos de Inversión, que actualmente se encuentra en la Secretaría de Modernización Administrativa e Innovación Gubernamental, pasará a ser parte de la Secretaría de Administración y Finanzas con la denominación de Unidad de Programas y Proyectos de Inversión Pública del Estado, por lo que, en un plazo no mayor a 30 días naturales a partir de la entrada en vigor del presente decreto, serán transferidos todos los recursos presupuestales, financieros, materiales y humanos de dicha Dirección a esta última Secretaría.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría Ejecutiva del Sistema Estatal de Protección Integral de los Derechos de Niñas, Niños y Adolescentes (SIPINNA), que actualmente se encuentra en la Secretaría de Gobierno, quedará adscrita a la Secretaría de Bienestar, por lo que, en un plazo no mayor a 30 días naturales a partir de la entrada en vigor del presente decreto, serán transferidos todos los recursos presupuestales, financieros, materiales y humanos de dicho Órgano Desconcentrado a la Secretaría de Administración y Finanzas para que esta, a su vez, transfiera los recursos en comento a la Secretaría de Bienestar.
+
+###### ARTÍCULO SEXTO.
+
+El Instituto de Desarrollo y Formación Social del Estado quedará sectorizado a la Secretaría de Modernización Administrativa e Innovación Gubernamental, por lo que, a partir de la entrada en vigor de este decreto, se tendrá un plazo no mayor a 30 días naturales para realizar las modificaciones respectivas en el Acuerdo de creación del Instituto.
+
+###### ARTÍCULO SÉPTIMO.
+
+En relación con las transferencias de recursos humanos que provengan de lo establecido en este decreto, todas las personas servidoras públicas que cambien de adscripción deberán cumplir con las disposiciones de la Ley de Entrega-Recepción del Estado de Campeche.
+
+###### ARTÍCULO OCTAVO.
+
+Quedan garantizados los derechos laborales y de seguridad social de las y los servidores públicos que, en virtud del presente decreto, se transfieren de una Secretaría a otra.
+
+###### ARTÍCULO NOVENO.
+
+Derivado de las disposiciones del presente decreto, a partir de su entrada en vigor, se tendrá un plazo máximo de 90 días naturales para modificar la Ley de Planeación del Estado de Campeche y sus Municipios, la Ley de Protección Civil, Prevención y Atención de Desastres del Estado de Campeche, la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Campeche y demás legislación pertinente, salvo lo dispuesto en el artículo siguiente.
+
+###### ARTÍCULO DÉCIMO.
+
+A partir de la entrada en vigor del presente decreto, se tendrá un plazo no mayor a 60 días naturales para hacer las modificaciones respectivas en los Reglamentos interiores de los Organismos Centralizados que correspondan.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, que se opongan al contenido del presente decreto.
