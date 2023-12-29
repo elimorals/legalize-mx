@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-temax-yucatan-53554"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-28"
-last_updated: "2021-12-31"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE TEMAX, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 28 de diciembre de 2006.
 
@@ -1690,19 +1690,21 @@ UMA
 
 1.90
 
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
+
 XV.- Licencia de uso de suelo
 
 Concepto UMA
 
-Licencia de uso Hasta 40 m2 3.91
+Licencia de uso Hasta 40 m2 0.50 por M2
 
 de suelo
 
-De 41 a 120 m2 3.91
+De 41 a 120 m2 0.50 por M2
 
-De 121 a 240 m2 3.91
+De 121 a 240 m2 0.50 por M2
 
-De 241 m2 en adelante 3.91
+De 241 m2 en adelante 0.50 por M2
 
 XVI.- Inspección para expedir licencia para efectuar excavaciones o zanjas en la vía pública
 
@@ -1716,11 +1718,13 @@ UMA
 
 3.91
 
-XVIII.- Constancia de factibilidad de uso de suelo, apertura de una vía pública, unión, división, rectificación de medidas o fraccionamiento de inmuebles
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
+
+XVIII.- Constancia de factibilidad de uso de suelo para comercios, apertura de una vía pública, unión, división, rectificación de medidas o fraccionamiento de inmuebles.
 
 UMA
 
-3.91
+0.50 por M2
 
 XIX.- Inspecciones para el otorgamiento de la licencia que autorice romper o hacer cortes a pavimento, las banquetas, y las guarniciones, así como ocupar la vía pública para instalaciones.
 
@@ -1827,6 +1831,38 @@ UMA
 29.99
 
 Quedaran exentos de pago de este derecho, las construcciones de cartón, madera o paja, siempre que se destinen a casa habitación.
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 91 Bis.
+
+Los Inmuebles públicos o privados que, por sus funciones o actividades, puedan contar con la presencia simultánea de más de veinticinco personas, independientemente de que sean o no empleados, o en los que se presten servicios educativos o se manejen materiales peligrosos, deberán cumplir con las siguientes disposiciones y cubrir con los siguientes montos:
+
+I.- Obtener el Análisis de riesgos de la coordinación Municipal
+
+Tarifa para el otorgamiento $7,000.00
+
+II.- Obtener el dictamen de riesgo de la coordinación Municipal en la que conste el cumplimiento del presente artículo
+
+Tarifa para el otorgamiento $7,000.00
+
+III.- Contar con Programas Internos de Protección Civil, los cuales deberán ajustarse a lo establecido en la Ley de Protección Civil Estatal.
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 91 Ter.
+
+Análisis de Riesgos.
+
+Para la construcción de cualquier inmueble y apertura de comercios, salvo que se trate de viviendas unifamiliares, la coordinación municipal deberá emitir previamente el análisis de riesgo, sin el cual, la autoridad municipal no podrá otorgar los permisos de construcción respectivos o en su caso las licencias correspondientes.
+
+La emisión de los análisis de riesgo a que se refiere este artículo corresponderá a la coordinación Municipal cuando se trate de inmuebles o comercios.
+
+Las infracciones a los artículos que anteceden serán sancionadas por la coordinación municipal de la manera siguiente:
+
+I. Las infracciones leves serán sancionadas con amonestación o con multa de quinientas unidades de medida y actualización Vigentes.
+
+II. Las infracciones graves serán sancionadas con una multa de cinco mil unidades de medida y actualización vigentes, así como con la clausura temporal o definitiva, parcial o total del inmueble.
 
 ###### Artículo 92.
 
@@ -2837,3 +2873,11 @@ En lo no previsto por estas Leyes, se aplicará supletoriamente lo establecido p
 ###### ARTÍCULO CUARTO.
 
 El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que, a la fecha de la publicación de este decreto, no hayan sido transferidos formalmente a los Ayuntamientos por el Gobierno del Estado de Yucatán, entrarán en vigor hasta la celebración del convenio respectivo.
+
+D.O. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 712/2023 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CHICHIMILÁ, HOCABÁ, MOTUL, OXKUTZCAB, SACALUM, TEMAX Y VALLADOLID, TODAS DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero. Este decreto entrará en vigor el día siguiente de su publicación, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Se exceptúa de la vigencia señalada en el artículo anterior, lo dispuesto en el artículo 178 Bis, contenido en el artículo séptimo de este decreto relativo a las modificaciones a la Ley de Hacienda para el Municipio de Valladolid, Yucatán, el cual entrará en vigor el segundo semestre del año 2024.
