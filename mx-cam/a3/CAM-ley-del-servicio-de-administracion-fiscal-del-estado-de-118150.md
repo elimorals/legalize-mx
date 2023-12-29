@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-servicio-de-administracion-fiscal-del-estado-de-118150"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-22"
-last_updated: "2022-12-16"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118150&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CAM"
 ---
 # LEY DEL SERVICIO DE ADMINISTRACION FISCAL DEL ESTADO DE CAMPECHE
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL DÍA 1 DE ABRIL DE 2017.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY DEL SERVICIO DE ADMINISTRACIÓN FISCAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Segunda Sección al Número 0344 del Periódico Oficial del Estado de Campeche, el jueves 22 de diciembre de 2016.
 
@@ -49,9 +49,9 @@ LEY DEL SERVICIO DE ADMINISTRACIÓN FISCAL DEL ESTADO DE CAMPECHE
 
 La presente Ley es de interés público y de observancia general en todo el territorio del Estado de Campeche, y tiene por objeto regular la creación, operación y funcionamiento del Servicio de Administración Fiscal del Estado de Campeche.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-Se crea el Servicio de Administración Fiscal del Estado de Campeche como órgano desconcentrado de la Secretaría de Administración y Finanzas de la Administración Pública del Estado de Campeche, con el carácter de autoridad fiscal y tendrá a su cargo el ejercicio de las facultades ejecutivas y el despacho de los asuntos que le otorgue esta Ley, así como las demás disposiciones jurídicas aplicables, y su acrónimo será "SEAFI".
+Se crea el Servicio de Administración Fiscal del Estado de Campeche como órgano desconcentrado de la Secretaría de Administración y Finanzas de la Administración Pública del Estado de Campeche, con el carácter de autoridad fiscal y administrativa, y tendrá a su cargo el ejercicio de las facultades ejecutivas y el despacho de los asuntos que le otorgue esta Ley, así como las demás disposiciones jurídicas aplicables, y su acrónimo será “SEAFI”.
 
 > <small>(REFORMADO, P.O. 15 DE MARZO DE 2019)</small>
 
@@ -87,11 +87,11 @@ IX. Secretario o Secretaria: a la persona titular de la Secretaría de Administr
 
 ### CAPÍTULO II. DEL OBJETO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 3.
 
-“El Servicio” tiene la responsabilidad de aplicar la legislación fiscal, realizar actividades de recaudación, de fiscalizar a las y los contribuyentes para que cumplan con las disposiciones fiscales, de facilitar e incentivar el cumplimiento voluntario de dichas disposiciones, así como generar y proporcionar la información necesaria para el diseño y la evaluación de la política tributaria en el Estado.
+“El Servicio” tiene la responsabilidad de aplicar la legislación fiscal y administrativa, realizar actividades de recaudación, de fiscalizar a las y los contribuyentes para que cumplan con las disposiciones fiscales y administrativas, de facilitar e incentivar el cumplimiento voluntario de dichas disposiciones, así como generar y proporcionar la información necesaria para el diseño y la evaluación de la política tributaria y administrativa en el Estado.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2022)</small>
 
@@ -101,11 +101,11 @@ Las contribuciones y aprovechamientos federales y municipales que en virtud de l
 
 ### CAPÍTULO III. DE LA AUTONOMÍA
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 4.
 
-"El Servicio" gozará de autonomía de gestión, tecnológica y técnica para ejecutar sus atribuciones y dictar sus resoluciones como autoridad fiscal, en los términos que determine la legislación fiscal y/o le instruya la Asamblea de Gobierno.
+“El Servicio” gozará de autonomía de gestión, tecnológica y técnica para ejecutar sus atribuciones y dictar sus resoluciones como autoridad fiscal y administrativa, en los términos que determine la legislación fiscal, administrativa y/o le instruya la Asamblea de Gobierno.
 
 ### CAPÍTULO IV. DEL DOMICILIO
 
@@ -127,33 +127,25 @@ III. Las asignaciones que establezca el Presupuesto de Egresos del Estado.
 
 ### CAPÍTULO VI. DE LAS ATRIBUCIONES
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 7.
 
-"El Servicio" tendrá las atribuciones siguientes:
+“El Servicio” tendrá las atribuciones siguientes:
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2022)</small>
+I. Recaudar los impuestos, contribuciones especiales, derechos, productos, aprovechamientos y sus accesorios de acuerdo con la legislación aplicable, así como las demás que deriven de los Convenios de colaboración fiscal celebrados con la Federación y/o con los Municipios del Estado, debiendo concentrar los recursos en las cuentas que determine la Secretaría a más tardar al día hábil siguiente;
 
-I. Recaudar los impuestos, contribuciones especiales, derechos, productos, aprovechamientos y sus accesorios de acuerdo con la legislación aplicable, así como las demás que deriven de los Convenios de colaboración fiscal celebrados con la Federación y/o con los municipios del Estado, debiendo concentrar los recursos en las cuentas que determine la Secretaría a más tardar al día hábil siguiente;
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2022)</small>
-
-II. Ejercer aquéllas que deriven de convenios de colaboración administrativa en materia fiscal celebrados con la Federación o con los municipios del Estado u organismos descentralizados;
+II. Ejercer aquéllas que deriven de convenios de colaboración administrativas en materia fiscal celebrados con la Federación o con los Municipios del Estado u Organismos Descentralizados;
 
 III. Solicitar a otras instancias e instituciones públicas el acceso a la información necesaria para evitar la evasión o elusión fiscal, de conformidad con las leyes y convenios en materia fiscal;
 
-IV. Vigilar y asegurar el debido cumplimiento de las disposiciones fiscales del Estado y, en su caso, ejercer las facultades de comprobación previstas en dichas disposiciones, así como aplicar las sanciones que correspondan en caso de infracciones a las mismas;
+IV. Vigilar y asegurar el debido cumplimiento de las disposiciones fiscales y administrativas del Estado y, en su caso, ejercer las facultades de comprobación previstas en dichas disposiciones, así como aplicar las sanciones que correspondan en caso de infracciones a las mismas;
 
-V. Proporcionar, bajo el principio de reciprocidad, la información y asistencia vinculada con el cobro de contribuciones, aprovechamientos y sus accesorios que le soliciten otras entidades federativas del país, municipios del Estado o la Federación, siempre que se tengan celebrados los convenios respectivos;
+V. Proporcionar, bajo el principio de reciprocidad, la información y asistencia vinculada con el cobro de contribuciones, aprovechamientos y sus accesorios que le soliciten otras Entidades Federativas del País, Municipios del Estado o la Federación, siempre que se tengan celebrados los convenios respectivos;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2022)</small>
+VI. Participar, por instrucciones del Secretario o Secretaria, en la negociación de los convenios que lleve a cabo el Gobernador o Gobernadora en materia fiscal y administrativa, así como celebrar acuerdos interinstitucionales en el ámbito de su competencia;
 
-VI. Participar, por instrucciones del Secretario o Secretaria, en la negociación de los convenios que lleve a cabo el Gobernador o Gobernadora en materia fiscal, así como celebrar acuerdos interinstitucionales en el ámbito de su competencia;
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2022)</small>
-
-VII. Fungir como órgano de consulta del Ejecutivo Estatal en materia fiscal; informando posteriormente al Secretario o Secretaria sobre el alcance de las mismas;
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2022)</small>
+VII. Fungir como órgano de consulta del Ejecutivo Estatal en materia fiscal y administrativa, informando posteriormente al Secretario o Secretaria sobre el alcance de las mismas;
 
 VIII. Elaborar los criterios para el otorgamiento de los estímulos fiscales que conceda el Estado, analizando los efectos en sus ingresos, a fin de que la Secretaría pueda someterlos a la consideración y aprobación del Gobernador o Gobernadora, proponiendo los montos globales que corresponderán a estos conceptos. Asimismo, elaborar los proyectos de resolución de otorgamiento de estímulos fiscales para firma del Secretario o Secretaria, que corresponda por la Ley para el Fomento de las Actividades Económicas y Empresariales del Estado de Campeche;
 
@@ -163,11 +155,7 @@ X. Allegarse la información necesaria para determinar el cumplimiento correcto 
 
 XI. Proponer a la Secretaría, la política de administración fiscal, y ejecutar las acciones para su aplicación. Se entenderá como política de administración fiscal el conjunto de acciones dirigidas a recaudar eficientemente las contribuciones y los aprovechamientos que la legislación fiscal estatal establece, así como combatir la evasión y elusión fiscales, ampliar la base de contribuyentes y facilitar el cumplimiento voluntario de las obligaciones de los contribuyentes;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2022)</small>
-
 XII. Proporcionar a la Secretaría los datos estadísticos e información suficiente requerida que permita elaborar de manera completa los informes que en materia de resultados y prospectiva de la administración fiscal deba rendir el Gobernador o Gobernadora al H. Congreso del Estado y otras instancias conforme las disposiciones normativas estatales y federales, según corresponda;
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2022)</small>
 
 XIII. Contribuir con datos oportunos, ciertos y verificables al diseño de la política de administración fiscal;
 
@@ -175,15 +163,13 @@ XIV. Emitir las disposiciones de carácter general necesarias para el ejercicio 
 
 XV. Representar el interés del Estado en controversias fiscales;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2022)</small>
+XVI. Realizar o encargar estudios en materia fiscal y administrativa, con la participación de organismos públicos y privados que permitan mejorar la recaudación fiscal estatal;
 
-XVI. Realizar o encargar estudios en materia fiscal, con la participación de organismos públicos y privados que permitan mejorar la recaudación fiscal estatal;
+XVII. Generar y usar certificados de firma electrónica avanzada, para la realización de trámites y servicios electrónicos, en los términos establecidos en la normatividad jurídica legal y administrativa, así como en los convenios correspondientes en materia fiscal;
 
-XVII. Generar y usar certificados de firma electrónica avanzada, para la realización de trámites y servicios electrónicos, en los términos establecidos en la normatividad jurídica legal y administrativa, así como en los convenios correspondientes en materia fiscal; y
+XVIII. Autorizar las Licencias a las personas físicas o morales que se dediquen al almacenamiento, distribución, venta o consumo de bebidas alcohólicas en los locales o establecimientos que regula la Ley para la Venta Ordenada y Consumo Responsable de Bebidas Alcohólicas del Estado de Campeche; y
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2022)</small>
-
-XVIII. Las demás que le establezcan otros ordenamientos jurídicos o le instruya el Secretario o Secretaria y, en general, aquellas que sean necesarias para llevar a cabo las previstas en esta Ley, el Reglamento Interior y demás disposiciones jurídicas aplicables.
+XIX. Las demás que le establezcan otros ordenamientos jurídicos o le instruya el Secretario o Secretaria y, en general, aquellas que sean necesarias para llevar a cabo las previstas en esta Ley, el Reglamento Interior y demás disposiciones jurídicas aplicables.
 
 ## TÍTULO SEGUNDO. DE LA ESTRUCTURA ORGANIZACIONAL
 
@@ -251,9 +237,9 @@ La Asamblea de Gobierno tendrá las atribuciones siguientes;
 
 I. Opinar y coadyuvar con la Secretaría en la elaboración de las medidas de política de administración fiscal necesarias para la formulación y ejecución del Plan Estatal de Desarrollo y de sus programas, así como llevar a cabo los programas especiales y los asuntos que el propio Secretario o Secretaria le encomiende ejecutar y coordinar en esas materias;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-II. Emitir su opinión respecto a los proyectos de Acuerdos, Órdenes, Resoluciones Administrativas y demás disposiciones de carácter general en materia fiscal que pretenda expedir el Administrador o Administradora;
+II. Emitir su opinión respecto a los proyectos de Acuerdos, Órdenes, Resoluciones Administrativas y demás disposiciones de carácter general en materia fiscal y administrativa que pretenda expedir el Administrador o Administradora;
 
 III. Aprobar la estructura orgánica de "El Servicio" y las modificaciones que procedan a la misma, de conformidad con las disposiciones jurídicas aplicables, así como el proyecto de Reglamento Interior y sus modificaciones correspondientes;
 
@@ -323,33 +309,31 @@ V. Se ausente de sus labores sin autorización de la Asamblea de Gobierno o sin 
 
 VI. Cuando sin justificación incumpla las metas ligadas a los indicadores de desempeño anuales que apruebe la Asamblea de Gobierno.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 14.
 
-El Administrador o Administradora tendrá las siguientes atribuciones:
+El Administrador o Administradora tendrá las atribuciones siguientes:
 
-I. Representar legalmente a "El Servicio", tanto en su carácter de autoridad fiscal, como de órgano desconcentrado, con la suma de facultades generales y especiales que, en su caso, requiera conforme a la legislación aplicable;
+I. Representar legalmente a “El Servicio”, tanto en su carácter de autoridad fiscal y administrativa, como de órgano desconcentrado, con la suma de facultades generales y especiales que, en su caso, requiera conforme a la legislación aplicable;
 
-II. Dirigir, supervisar y coordinar el desarrollo de las actividades de las Unidades Administrativas de "El Servicio";
+II. Dirigir, supervisar y coordinar el desarrollo de las actividades de las Unidades Administrativas de “El Servicio”;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2022)</small>
-
-III. Expedir las disposiciones administrativas necesarias para aplicar eficaz y eficientemente la legislación fiscal, haciéndolas de conocimiento a la Asamblea de Gobierno tan pronto como sea posible;
+III. Expedir las disposiciones administrativas necesarias para aplicar eficaz y eficientemente la legislación fiscal y administrativa, haciéndolas de conocimiento a la Asamblea de Gobierno tan pronto como sea posible;
 
 IV. Presentar a la Asamblea de Gobierno para su consideración y, en su caso, aprobación, el anteproyecto de Reglamento Interior, el manual de organización general, los manuales de procedimientos y los de servicio al público, el estatuto del servicio fiscal de carrera, y sus modificaciones;
 
-V. Informar a la Asamblea de Gobierno sobre las labores de las Unidades Administrativas a su cargo y el ejercicio del presupuesto de egresos asignado a "El Servicio", de manera anual o cuando ésta se lo solicite.
+V. Informar a la Asamblea de Gobierno sobre las labores de las Unidades Administrativas a su cargo y el ejercicio del presupuesto de egresos asignado a “El Servicio”, de manera anual o cuando ésta se lo solicite;
 
-VI. Fungir como enlace entre "El Servicio" y las administraciones públicas federal, estatales y municipales en los asuntos vinculados con las materias fiscal y de colaboración fiscal;
+VI. Fungir como enlace entre “El Servicio” y las administraciones públicas federal, estatales y municipales en los asuntos vinculados con las materias fiscal y de colaboración fiscal;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2022)</small>
+VII. Participar en la concertación de los convenios que lleve a cabo el Gobernador o Gobernadora del Estado o el Secretario o Secretaria en materia fiscal; asimismo, celebrar contratos, convenios y, en general toda clase de actos jurídicos directamente vinculados con el desarrollo de las atribuciones de “El Servicio” o relacionados con la administración de los recursos humanos, materiales y financieros que les sean asignados;
 
-VII. Participar en la concertación de los convenios que lleve a cabo el Gobernador o Gobernadora del Estado o el Secretario o Secretaria en materia fiscal; asimismo, celebrar contratos, convenios y, en general, toda clase de actos jurídicos directamente vinculados con el desarrollo de las atribuciones de “El Servicio” o relacionados con la administración de recursos humanos, materiales y financieros que les sean asignados;
+VIII. Suscribir acuerdos interinstitucionales de cooperación técnica y administrativa en materia fiscal;
 
-VIII. Suscribir acuerdos interinstitucionales de cooperación técnica y administrativa en materia fiscal; y
+IX. Autorizar las Licencias a las personas físicas o morales que se dediquen al almacenamiento, distribución, venta o consumo de bebidas alcohólicas en los locales o establecimientos que regula la Ley para la Venta Ordenada y Consumo Responsable de Bebidas Alcohólicas del Estado de Campeche; y
 
-IX. Aquellas que le ordene, o en su caso, delegue la Asamblea de Gobierno y las demás que sean necesarias para llevar a cabo las previstas en esta Ley, el Reglamento Interior y demás disposiciones jurídicas aplicables.
+X. Aquellas que le ordene, o en su caso, delegue la Asamblea de Gobierno y las demás que sean necesarias para llevar a cabo las previstas en esta Ley, el Reglamento Interior y demás disposiciones jurídicas aplicables.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2019)</small>
 
@@ -403,7 +387,9 @@ Para ser Director de "El Servicio", éste deberá cumplir con los mismos requisi
 
 "El Servicio" podrá contar con instancias de consulta y comités especializados que le permitan mantener una vinculación efectiva y permanente con los contribuyentes y especialistas interesados en su operación y funcionamiento.
 
-Las instancias y comités que se constituyan tendrán como objetivo primordial coadyuvar en el mejoramiento de la administración fiscal y la aplicación de la legislación fiscal, así como la difusión de la información y orientación necesarias que permita crear una auténtica conciencia tributaria entre la sociedad.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Las instancias y comités que se constituyan tendrán como objetivo primordial coadyuvar en el mejoramiento de la administración fiscal y la aplicación de la legislación fiscal y administrativa, así como la difusión de la información y orientación necesarias que permita crear una auténtica conciencia tributaria entre la sociedad.
 
 ## TÍTULO QUINTO. DE LAS RELACIONES LABORALES
 
@@ -506,3 +492,11 @@ SEGUNDO.- En un plazo no mayor a sesenta días hábiles contados a partir de la 
 TERCERO.- La denominación Subsecretario o Subsecretaria de Administración y Finanzas entrará en vigor cuando entren en vigor las reformas que se realicen al Reglamento Interior de la Secretaría de Administración y Finanzas, hasta en tanto, las menciones a ésta se entenderán hechas a la Subsecretaría de Administración
 
 CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 327 POR EL QUE “SE REFORMAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 1; EL PÁRRAFO PRIMERO DEL ARTÍCULO 3; LOS ARTÍCULOS 4 Y 7; LA FRACCIÓN II DEL ARTÍCULO 10; EL ARTÍCULO 14; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 21, TODOS DE LA LEY DEL SERVICIO DE ADMINISTRACIÓN FISCAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día 1 de enero de 2024, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
