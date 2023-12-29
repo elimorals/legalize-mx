@@ -4,7 +4,7 @@ identifier: "NAY-estatuto-organico-del-instituto-de-adquisiciones-155266"
 country: "mx"
 rank: "estatuto"
 publication_date: "2022-01-26"
-last_updated: "2022-01-26"
+last_updated: "2023-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=155266&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023 (ABROGADO).
 
 Estatuto publicado en la Sección Tercera del Número 16 del Periódico Oficial del Estado de Nayarit, el miércoles 25 de enero del 2022.
 
@@ -574,3 +576,29 @@ CUARTO. Dentro de los sesenta días posteriores a la entrada en vigor el present
 Dado en la Casa de Gobierno, en la ciudad de Tepic, Nayarit, durante la Primer Sesión Ordinaria del año 2022 de la Junta de Gobierno del Instituto de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Nayarit, celebrada a los 26 días del mes de enero del año dos mil veintidós.
 
 DR. MIGUEL ÁNGEL NAVARRO QUINTERO, GOBERNADOR CONSTITUCIONAL DEL ESTADO.- Rúbrica.- LIC. JUAN ANTONIO ECHEAGARAY BECERRA, SECRETARIO GENERAL DE GOBIERNO.- Rúbrica.- MTRO. EN FISCAL. JULIO CÉSAR LÓPEZ RUELAS, SECRETARIO DE ADMINISTRACIÓN Y FINANZAS.- Rúbrica.- LIC. JOSÉ DE JESÚS PÉREZ LÓPEZ, SECRETARIO DE ECONOMÍA.- Rúbrica.- LIC. RIGOBERTO GARCÍA ORTEGA, CONSEJERO JURÍDICO DEL GOBERNADOR.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DEL INSTITUTO DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE NAYARIT".]
+
+PRIMERO. El presente Estatuto entrará en vigor el día 01 de enero de 2024 previo (sic) su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se abroga el Estatuto Orgánico del Instituto de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Nayarit publicado el 26 de enero de 2022 en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+TERCERO. En tanto se realiza la adecuación presupuestal y se nombra a los integrantes del Órgano Interno de Control, se procederá como sigue:
+
+a) Mientras no se nombre al Titular del Órgano Interno de Control, la Secretaría para la Honestidad y Buena Gobernanza atraerá los casos que se llegasen a presentar, para su atención y resolución, de conformidad a lo dispuesto en la Ley Orgánica del Poder Ejecutivo.
+
+b) Cuando el Órgano Interno de Control sólo se componga de la persona que ocupe la titularidad del mismo, esta fungirá como autoridad investigadora dentro del procedimiento de responsabilidad administrativa conforme a lo establecido en el Reglamento Interior de la Secretaría para la Honestidad y Buena Gobernanza para dicha autoridad integrante del Órgano Interno de Control, sin perjuicio de las demás atribuciones que le otorga el Reglamento Interior de la Secretaría para la Honestidad y Buena Gobernanza, para posteriormente, de ser el caso, continuar el procedimiento de responsabilidad administrativa ante las autoridades substanciadora y resolutora, respectivamente, de la Secretaría para la Honestidad y Buena Gobernanza.
+
+Cabe señalar que, de actualizarse el supuesto anterior, la persona titular del Órgano Interno de Control deberá suscribir los documentos propios de la investigación identificándose con la denominación que derive de su nombramiento, agregándose, además, que su actuación la efectúa en su carácter de autoridad investigadora en los términos del presente artículo transitorio;
+
+c) Cuando el Órgano Interno de Control sólo cuente con la autoridad investigadora debidamente designada, esta última ejercerá las atribuciones que se establecen en el Reglamento Interior de la Secretaría para la Honestidad y Buena Gobernanza, para posteriormente, de ser el caso, continuar el procedimiento de responsabilidad administrativa ante las autoridades substanciadora y resolutora, respectivamente, de la Secretaría para la Honestidad y Buena Gobernanza, y
+
+d) Cuando el Órgano Interno de Control sólo cuente con las autoridades investigadora y substanciadora debidamente designadas, la persona titular del Órgano Interno de Control fungirá como autoridad resolutora dentro del procedimiento de responsabilidad administrativa conforme a lo establecido en el Reglamento Interior de la Secretaría para la Honestidad y Buena Gobernanza para dicha autoridad integrante del Órgano Interno de Control, sin perjuicio de las demás atribuciones que le otorga el Reglamento Interior de la Secretaría para la Honestidad y Buena Gobernanza.
+
+CUARTO. En tanto no se cuente con suficiencia presupuestal y se nombre a la persona Titular del Área de Correspondencia, Archivo de Concentración y Archivo Histórico, las atribuciones de estas, las realizaran de manera honorífica quien designe la Persona Titular de la Dirección General del Instituto.
+
+QUINTO. El presente Estatuto Orgánico se podrá reformar en cualquier tiempo y deberá aprobarse por la Junta de Gobierno del Instituto de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Nayarit.
