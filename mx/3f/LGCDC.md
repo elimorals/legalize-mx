@@ -4,7 +4,7 @@ identifier: "LGCDC"
 country: "mx"
 rank: "ley_general"
 publication_date: "2017-06-19"
-last_updated: "2023-11-29"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121955&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCDC"
 
 LEY GENERAL DE CULTURA Y DERECHOS CULTURALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección al número 14 del Diario Oficial de la Federación, el lunes 19 de junio de 2017.
 
@@ -176,7 +176,9 @@ VIII. La formación de audiencias, y programas de educación e investigación ar
 
 IX. El aprovechamiento de la infraestructura cultural, con espacios y servicios adecuados para hacer un uso intensivo de la misma;
 
-X. El acceso universal a la cultura para aprovechar los recursos de las tecnologías de la información y las comunicaciones, conforme a la Ley aplicable en la materia, y
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2023)</small>
+
+X. El acceso universal a la cultura en las diversas lenguas nacionales reconocidas para aprovechar los recursos de las tecnologías de la información y las comunicaciones, conforme a la Ley aplicable en la materia, y
 
 XI. La inclusión de personas y grupos en situación de discapacidad, en condiciones de vulnerabilidad o violencia en cualquiera de sus manifestaciones.
 
@@ -453,5 +455,11 @@ Segundo.- Las Legislaturas de las Entidades Federativas, en el ámbito de sus re
 D.O.F. 29 DE NOVIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 12 Y 19 DE LA LEY GENERAL DE CULTURA Y DERECHOS CULTURALES”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 12 DE LA LEY GENERAL DE CULTURA Y DERECHOS CULTURALES”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
