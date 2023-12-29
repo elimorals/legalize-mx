@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-economia-social-y-solidaria-antes-ley-de-la-87825"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-23"
-last_updated: "2022-05-11"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87825&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2012-05-22"
 ---
 # LEY DE LA ECONOMIA SOCIAL Y SOLIDARIA -- ANTES LEY DE LA ECONOMIA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PARRAFO OCTAVO DEL ARTICULO 25 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, EN LO REFERENTE AL SECTOR SOCIAL DE LA ECONOMIA -- ANTES LEY DE LA ECONOMIA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PARRAFO SEPTIMO DEL ARTICULO 25 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, EN LO REFERENTE AL SECTOR SOCIAL DE LA ECONOMIA --
 
-LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PÁRRAFO OCTAVO DEL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN LO REFERENTE AL SECTOR SOCIAL DE LA ECONOMÍA
+LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 23 de mayo de 2012.
 
@@ -39,9 +39,9 @@ SE EXPIDE LA LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PÁRRAFO 
 
 Artículo Único. Se expide la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Séptimo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2023)</small>
 
-LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PÁRRAFO OCTAVO DEL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN LO REFERENTE AL SECTOR SOCIAL DE LA ECONOMÍA.
+LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA
 
 ## TÍTULO I. DISPOSICIONES GENERALES
 
@@ -97,9 +97,9 @@ I. Sector, el que se refiere en el artículo 3o. de la presente Ley;
 
 II. Organismos del Sector, a las organizaciones, empresas y sociedades del Sector Social de la Economía;
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2023)</small>
 
-III. Secretaría, a la Secretaría de Desarrollo Social;
+III. Secretaría, a la Secretaría de Bienestar;
 
 IV. Instituto, al Instituto Nacional de la Economía Social;
 
@@ -171,13 +171,17 @@ VI. Facilitar a los Asociados de los Organismos del Sector la participación y a
 
 VII. Participar en la generación de fuentes de trabajo y de mejores formas de vida para todas las personas;
 
-> <small>(ADICIONADA, D.O.F. 11 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2023)</small>
 
-VIII. Impulsar el pleno potencial creativo e innovador de los trabajadores, ciudadanos y la sociedad, y
+VIII. Impulsar el pleno potencial creativo e innovador de los trabajadores, ciudadanos y la sociedad;
 
-> <small>(ADICIONADA, D.O.F. 11 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2023)</small>
 
-IX. Promover la productividad como mecanismo de equidad social.
+IX. Promover la productividad como mecanismo de equidad social, y
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2023)</small>
+
+X. Generar condiciones para la integración social y productiva de las mujeres libre de cualquier forma de discriminación.
 
 ###### Artículo 9o.
 
@@ -255,7 +259,9 @@ VIII. Destino de excedentes a la prestación de servicios de carácter social, a
 
 IX. Educación, formación y capacitación técnico administrativa permanente y continua para los Asociados;
 
-X. Promoción de la cultura solidaria y de la protección del medio ambiente entre sus Asociados y la comunidad;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2023)</small>
+
+X. Promoción de la cultura solidaria, basada en los derechos humanos y de la protección del medio ambiente entre sus Asociados y la comunidad;
 
 XI. Información periódica de sus estados financieros y de resultados a todos y cada uno de sus Asociados, a través de los informes a sus órganos de dirección, administración y vigilancia, así como libre acceso a la información respectiva para los mismos;
 
@@ -886,3 +892,11 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
 
 Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+
+D.O.F. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LA DENOMINACIÓN Y DIVERSAS DISPOSICIONES DE LA LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PÁRRAFO OCTAVO DEL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN LO REFERENTE AL SECTOR SOCIAL DE LA ECONOMÍA".]
+
+Primero.- El presente Decreto entrará en vigor tres días después de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Todas las referencias que hagan mención a la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos en lo referente al sector social de la economía contenidas en las leyes y normatividad vigente, se entenderán realizadas a la Ley de la Economía Social y Solidaria.
