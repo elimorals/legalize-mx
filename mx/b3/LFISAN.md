@@ -4,7 +4,7 @@ identifier: "LFISAN"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-30"
-last_updated: "2022-12-27"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9238&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -176,13 +176,13 @@ No se pagará el impuesto establecido en esta Ley, en los siguientes casos:
 
 I.- En la exportación de automóviles con carácter definitivo, en los términos de la legislación aduanera.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE “RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023 Y SUS ANEXOS 1, 5, 8, 15, 19, 26 Y 27”, PUBLICADA EN EL D.O.F. 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE “RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024 Y SUS ANEXOS 1, 5, 8, 15, 19 Y 27”, PUBLICADA EN EL D.O.F. 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 II. En la enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o comerciante en el ramo de vehículos, cuyo precio de enajenación, incluyendo materiales o equipo opcional, especial, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones no exceda de la cantidad de $272,471.43. En el precio mencionado no se considerará el impuesto al valor agregado.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE “RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023 Y SUS ANEXOS 1, 5, 8, 15, 19, 26 Y 27”, PUBLICADA EN EL D.O.F. 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE “RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024 Y SUS ANEXOS 1, 5, 8, 15, 19 Y 27”, PUBLICADA EN EL D.O.F. 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -3221,3 +3221,63 @@ fracción II segundo párrafo: $315,342.43 y hasta $399,433.75
 C. Código de claves vehiculares
 
 > <small>[N. DE E. VÉASE CÓDIGO DE CLAVES VEHICULARES EN EL D.O.F. DE 27 DE DICIEMBRE DE 2022, PÁGINAS DE LA 784 A LA 804.]</small>
+
+D.O.F. 29 DE DICIEMBRE DE 2023.
+
+> <small>[N. DE E. LA "RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024 Y SUS ANEXOS 1, 5, 8, 15, 19 Y 27", PUBLICADA EL 29 DE DICIEMBRE DE 2023, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE LA SEXTA MODIFICACIÓN AL ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, PUBLICADA EL 29 DE DICIEMBRE DE 2023.]</small>
+
+SEXTA MODIFICACIÓN AL ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022
+
+Contenido
+
+ISAN
+
+A. Tarifa para determinar el ISAN para el año 2024.
+
+B. Cantidades correspondientes al artículo 8o., fracción II de la Ley Federal del ISAN para el año 2024.
+
+C. Código de Claves Vehiculares:
+
+1. Registradas.
+
+2. Canceladas.
+
+A. Tarifa para determinar el ISAN para el año 2024.
+
+TARIFA
+
+Límite inferior Límite superior Cuota fija Tasa para aplicarse
+
+$ $ $ sobre el excedente
+
+del límite inferior
+
+%
+
+0.01 353,896.47 0.00 2.0
+
+353,896.48 424,675.70 7,077.81 5.0
+
+424,675.71 495,455.19 10,616.93 10.0
+
+495,455.20 637,013.37 17,694.85 15.0
+
+637,013.38 En adelante 38,928.53 17.0
+
+Si el precio del automóvil es superior a $ 977,228.54 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $ 977,228.54
+
+B. Cantidades correspondientes al artículo 8o., fracción II de la Ley Federal del ISAN para el año 2024.
+
+###### Artículo 8o.
+
+fracción II primer párrafo: $ 328,965.21
+
+###### Artículo 8o.
+
+fracción II segundo párrafo: $ 328,965.22 y hasta $ 416,689.29
+
+C. Código de claves vehiculares
+
+> <small>[N. DE E. VÉASE CÓDIGO DE CLAVES VEHICULARES EN EL D.O.F. DE 29 DE DICIEMBRE DE 2023, PÁGINAS DE LA 776 A LA 785.]</small>
