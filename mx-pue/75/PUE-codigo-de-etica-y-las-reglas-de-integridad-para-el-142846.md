@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-etica-y-las-reglas-de-integridad-para-el-142846"
 country: "mx"
 rank: "codigo"
 publication_date: "2020-04-17"
-last_updated: "2020-04-17"
+last_updated: "2023-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # CODIGO DE ETICA, Y LAS REGLAS DE INTEGRIDAD PARA EL EJERCICIO DE LA FUNCION PUBLICA DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO DE LA SECRETARIA DE LA FUNCIÓN PÚBLICA DEL GOBIERNO DEL ESTADO, POR EL QUE EXPIDE EL CÓDIGO DE ÉTICA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA Y LAS REGLAS DE INTEGRIDAD PARA EL EJERCICIO DE LA FUNCIÓN PÚBLICA, DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023 (ABROGADO).
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Puebla, el viernes 17 de abril de 2020.
 
@@ -488,3 +490,17 @@ TERCERO. Se deja sin efectos toda disposición que se contraponga a lo estableci
 Dado en la Cuatro Veces Heroica Puebla de Zaragoza, a los catorce días del mes de abril de dos mil veinte.
 
 La Secretaria de la Función Pública. C. LAURA OLIVIA VILLASEÑOR ROSALES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE LA SECRETARIA DE LA FUNCIÓN PÚBLICA DEL GOBIERNO DEL ESTADO, POR EL QUE EXPIDE EL CÓDIGO DE ÉTICA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se abroga el Acuerdo de la Secretaría de la Función Pública del Gobierno del Estado, por el que se expide el Código de Ética, y las Reglas de Integridad para el ejercicio de la función pública, publicado en el Periódico Oficial del Estado el 17 de abril de 2020; el ACUERDO de la Secretaria de la Función Pública, por el que expide los Lineamientos Generales para propiciar la integridad del Servidor Público e implementar acciones permanentes que favorezcan su comportamiento ético, a través de los Comités de Ética y Prevención de Conflictos de Interés; el ACUERDO de la Secretaria de la Función Pública del Gobierno del Estado, por el que da a conocer la Guía para la Elaboración del Código de Conducta de las Dependencias y Entidades de la Administración Pública Estatal, emitido con fecha doce de mayo de dos mil veinte por la Unidad de Ética de la propia Dependencia, así como cualquier disposición de índole administrativo que se contraponga al presente Acuerdo.
+
+TERCERO. Las Dependencias y Entidades tendrán hasta el mes de abril de 2024 para actualizar sus Códigos de Conducta en términos del presente Código de Ética y de la Guía para su elaboración que al efecto emita la Secretaría.
+
+CUARTO. La Secretaría en un plazo no mayor a 60 días hábiles posteriores a la publicación del presente Acuerdo deberá emitir los Lineamientos Generales para la Integración y Funcionamiento de los Comités de Ética y Prevención de Conflictos de Interés.
