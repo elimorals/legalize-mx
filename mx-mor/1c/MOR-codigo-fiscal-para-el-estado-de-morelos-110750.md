@@ -4,7 +4,7 @@ identifier: "MOR-codigo-fiscal-para-el-estado-de-morelos-110750"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-12-09"
-last_updated: "2022-11-17"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FISCAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 9 de diciembre de 2015.
 
@@ -1407,7 +1407,9 @@ La solicitud dará lugar a la suspensión del procedimiento administrativo de ej
 
 Sólo procederá la condonación de las multas que hayan quedado firmes y siempre que un acto administrativo conexo no sea materia de impugnación; así como las multas a que se refiere el segundo párrafo de este artículo.
 
-Las multas cuya imposición hubiera quedado firme deberán ser condonadas totalmente si por pruebas diversas de las presentadas ante las autoridades administrativas o jurisdiccionales en su caso, se demuestra que no se comprometió la infracción o la persona a la cual aquella se atribuye no es la responsable.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Las multas cuya imposición hubiera quedado firme deberán ser condonadas totalmente si por pruebas diversas de las presentadas ante las autoridades administrativas o jurisdiccionales en su caso, se demuestra que no se cometió la infracción o la persona a la cual aquella se atribuye no es la responsable.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -1432,6 +1434,10 @@ III. Cuando hubiere fallecido el deudor, sin dejar bienes que puedan ser objeto 
 La cancelación de los créditos a que se refiere este artículo no libera de su pago a los obligados.
 
 Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar si se cumplen los requisitos señalados. Los importes a que se refiere el segundo párrafo de este artículo, se determinarán de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+La Secretaría dará a conocer mediante Reglas, los procedimientos para la cancelación administrativa de los créditos fiscales, previstos en este artículo.
 
 ###### Artículo 99.
 
@@ -3403,7 +3409,9 @@ XV. Incluir o asentar datos falsos u ocultar los verdaderos en perjuicio del Fis
 
 XVI. Adquirir los bienes objeto de un remate fiscal por sí o por medio de interpósita persona; con multa por la cantidad equivalente de 28.50 a 187.00 UMA;
 
-XVII. Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos; con (sic) por la cantidad equivalente multa de 28.50 a 187.00 UMA;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+XVII. Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos; con multa por la cantidad equivalente de 28.50 a 187.00 UMA;
 
 XVIII. No practicar visitas de inspección cuando se tenga la obligación de hacerlo; con multa por la cantidad equivalente de 19.00 a 112.50 UMA;
 
@@ -3746,5 +3754,15 @@ P.O. 17 DE NOVIEMBRE DE 2022.
 PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente decreto entrará en vigor a partir del 01 de enero de 2023, previa publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL SEISCIENTOS VEINTE POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES, DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS Y DEL CÓDIGO FISCAL PARA EL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del 01 de enero de 2024, previa publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente Decreto.
