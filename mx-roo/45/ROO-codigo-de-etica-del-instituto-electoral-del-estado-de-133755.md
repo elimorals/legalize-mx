@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-etica-del-instituto-electoral-del-estado-de-133755"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-02-15"
-last_updated: "2019-02-15"
+last_updated: "2023-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # CODIGO DE ETICA DEL INSTITUTO ELECTORAL DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA DEL INSTITUTO ELECTORAL DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA QUEDADO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL INSTITUTO ELECTORAL DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023 (ABROGADO).
 
 Código publicado en el Número 3 del Periódico Oficial del Estado de Quintana Roo, el viernes 15 de febrero de 2019.
 
@@ -260,3 +262,13 @@ CERTIFICO.
 QUE EL PRESENTE LEGAJO DE COPIAS FOTOSTÁTICAS CONCUERDAN FIEL Y EXACTAMENTE CON SU ORIGINAL, QUE OBRA EN LOS ARCHIVOS DE ESTE INSTITUTO Y SE EXPIDE EN QUINCE FOJAS ÚTILES A UNA SOLA CARA CADA UNA, DEBIDAMENTE SELLADAS Y COTEJADAS, PARA LOS EFECTOS LEGALES CONDUCENTES.
 
 SE EXTIENDE LA PRESENTE EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS OCHO DÍAS DEL MES DE FEBRERO DEL AÑO DOS MIL DIECINUEVE.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE ÉTICA DEL INSTITUTO ELECTORAL DE QUINTANA ROO".]
+
+Primero. El presente Código entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se abroga el Código de Ética emitido él ocho de febrero de 2019, así como cualquier disposición que se contraponga al presente Código.
