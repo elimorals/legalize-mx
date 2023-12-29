@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-874-que-regula-el-uso-de-la-firma-electronica-66169"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-30"
-last_updated: "2008-12-30"
+last_updated: "2023-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66169&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 874 QUE REGULA EL USO DE LA FIRMA ELECTRONICA CERTIFICADA DEL ESTADO DE GUERRERO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 679 DE GOBERNANZA DIGITAL DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 29 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY NUMERO 874 QUE REGULA EL USO DE LA FIRMA ELECTRONICA CERTIFICADA DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 30 de diciembre de 2008.
 
@@ -450,3 +452,29 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. GUILLERMO RAMÍREZ RAMOS.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 679 DE GOBERNANZA DIGITAL DEL ESTADO DE GUERRERO".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Se abroga la Ley Número 874 que regula el uso de la Firma Electrónica Certificada del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado de Guerrero, Número 105 de fecha 30 de diciembre del 2008, los trámites en proceso iniciados con esta Ley que se abroga, serán válidos y seguirán su tramitación conforme a las disposiciones anteriores hasta su conclusión.
+
+TERCERO. Se abroga el Acuerdo por el que se crea el Comité Estatal de Tecnologías de la Información y Comunicación, publicado en el Periódico Oficial del Gobierno del Estado No. 98, de fecha 8 de diciembre de 2006, El personal adscrito a este, sin perjuicio de sus derechos laborales adquiridos, los recursos presupuestales y en general, el equipo que hayan venido usando para la atención de los asuntos que tuvo encomendados, quedan transferidos a la Coordinación General, lo que se materializara mediante un procesos (sic) ordenado y debidamente documentado entre las instancias de gobierno competentes con la intervención que corresponda a la Secretaría de Finanzas y Administración y a la Secretaría de Contraloría y Transparencia Gubernamental.
+
+CUARTO. Considerando que la presente Ley establece el desarrollo de la Plataforma Digital JAGUAR_ID y el Identificador Digital Único, así como la interconexión de los distintos sistemas, programas y demás tecnologías de la información y comunicación que tienen implementados o pretendan desarrollar los Sujetos para el desahogo de sus trámites, servicios y demás actos jurídicos o administrativos en el ámbito de su competencia, el Poder Ejecutivo establecerá un calendario a fin de que a más tardar en enero de 2025 se implemente la misma.
+
+QUINTO. El Consejo emitirá la normatividad necesaria para la aplicación de esta ley en los municipios que no tengan condiciones presupuestarias ni técnicas y cuenten con una población menor a 20,000 habitantes.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley para los Sujetos, se cubrirán con cargo a sus respectivos presupuestos aprobados para el presente ejercicio fiscal y los subsecuentes. Asimismo, se deberán realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en esta Ley.
+
+SÉPTIMO. El Consejo deberá integrarse dentro de tres meses a partir de la entrada en vigor de la presente Ley, y elaborar su reglamento en los seis meses subsecuentes.
+
+OCTAVO. Remítase a la Titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales correspondientes.
+
+NOVENO. Remítase a los Sujetos para su conocimiento y efectos legales correspondientes.
+
+DÉCIMO. Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
