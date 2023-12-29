@@ -4,7 +4,7 @@ identifier: "HID-ley-de-control-vehicular-para-el-estado-de-hidalgo-97915"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-31"
-last_updated: "2021-12-31"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el martes 31 de diciembre de 2013.
 
@@ -37,7 +37,9 @@ QUE CONTIENE LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO.
 
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política del Estado de Hidalgo, D E C R E T A:
 
-A N T E C E D E N T E S…
+A N T E C E D E N T E S
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -55,15 +57,15 @@ Se crea la Ley de Control Vehicular para (sic) Estado de Hidalgo.
 
 La presente Ley es de orden público, interés social y de observancia general en el Estado de Hidalgo, y tiene por objeto establecer las normas de control vehicular para la Entidad, con el fin primordial de garantizar la seguridad pública mediante el registro y control de los vehículos que circulan en su territorio.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 2.
 
-La aplicación e interpretación de la presente Ley es competencia del Poder Ejecutivo, a través de la Secretaría de Finanzas Públicas y de la Secretaría de Seguridad Pública, cada una dentro de sus respectivas atribuciones.
+La aplicación e interpretación de la presente Ley es competencia del Poder Ejecutivo, a través de la Secretaría de Hacienda y de la Secretaría de Seguridad Pública, cada una dentro de sus respectivas atribuciones.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-La Secretaría de Finanzas Públicas y las dependencias encargadas de la seguridad pública y tránsito estatal y municipal, cualquiera que sea su denominación, son autoridades competentes para vigilar el cumplimiento de las disposiciones de la misma, en los términos y con las atribuciones que ésta señala.
+La Secretaría de Hacienda y las dependencias encargadas de la seguridad pública y tránsito estatal y municipal, cualquiera que sea su denominación, son autoridades competentes para vigilar el cumplimiento de las disposiciones de la misma, en los términos y con las atribuciones que ésta señala.
 
 ###### Artículo 3.
 
@@ -95,9 +97,9 @@ XII.- Registro Vehicular Estatal, la relación nominal de datos, registros y arc
 
 XIII.- Reglamento, el Reglamento de la Ley de Control Vehicular para el Estado de Hidalgo;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-XIV.- Secretaría, la Secretaría de Finanzas Públicas del Gobierno del Estado de Hidalgo;
+XIV.- Secretaría, la Secretaría de Hacienda del Gobierno del Estado de Hidalgo;
 
 XV.- Tarjeta de Circulación, el documento expedido por la Secretaría, indispensable para la circulación, que contiene el nombre del propietario, las características y el número de matrícula asignados al vehículo;
 
@@ -411,7 +413,7 @@ Las tarjetas de circulación expedidas por el Estado, a través de la Secretarí
 
 I.- Anverso:
 
-A) Nombre y logotipo de la Secretaría;
+A) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2023)
 
 B) Nombre del propietario del vehículo;
 
@@ -671,7 +673,11 @@ Tratándose del extravío de comprobantes de pago, pedimentos de importación y,
 
 En caso de robo o extravío de una sola de las placas metálicas, el propietario del vehículo deberá devolver la placa metálica restante, a fin de proceder a la correspondiente actualización al Registro Vehicular Estatal.
 
-En el supuesto de robo de un vehículo, el Ministerio Público deberá dar el aviso inmediato a la Secretaría para los efectos legales conducentes, sin perjuicio de que el propietario pueda hacerlo acompañando los medios que así lo acrediten.
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 748 PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2023, SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE MODIFICACIÓN ES APLICABLE AL PRESENTE PÁRRAFO.]</small>
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+En el supuesto de robo de un vehículo, el Ministerio Público deberá dar el aviso inmediato a la Secretaría para los efectos legales conducentes, sin que ello exima al propietario de la obligación de realizar el trámite de desincorporación, previo cumplimiento de los requisitos de Ley.
 
 ###### Artículo 31.
 
@@ -872,3 +878,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 TERCERO. Para efectos del aviso a que se refiere el penúltimo y último párrafos del artículo 26 de la Ley de Hacienda del Estado de Hidalgo, las personas físicas o morales que con anterioridad a la fecha de entrada en vigor del presente Decreto hayan subcontratado servicios especializados o la ejecución de obras especializadas, deberán presentar el aviso de los contratos o las modificaciones que se realicen a los mismos dentro de los treinta días siguientes a la entrada en vigor del presente Decreto.
 
 CUARTO. Lo dispuesto en el artículo 27 QUATER entrará en vigor a partir del 02 de enero del 2023 para personas morales, y para las personas físicas el 03 de julio del mismo año.
+
+P.O. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 748 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO Y LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor el 01 de enero del 2024, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
