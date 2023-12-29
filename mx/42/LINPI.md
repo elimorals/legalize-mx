@@ -4,7 +4,7 @@ identifier: "LINPI"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-04"
-last_updated: "2022-05-18"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131900&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LINPI"
 
 LEY DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación, el martes 4 de diciembre de 2018.
 
@@ -124,7 +124,9 @@ XXV. Instrumentar, operar, ejecutar y evaluar planes, programas, proyectos y acc
 
 XXVI. Elaborar, gestionar, impulsar, dar seguimiento y evaluar, de manera conjunta y coordinada con los pueblos interesados, los Planes Integrales de Desarrollo Regional de los Pueblos Indígenas;
 
-XXVII. Apoyar, impulsar y fortalecer las economías locales y las actividades productivas de los pueblos y comunidades indígenas y afromexicanas, mediante acciones que permitan lograr la suficiencia de ingresos económicos, la creación de empleos, la incorporación de tecnologías para incrementar su capacidad productiva, así como asegurar el acceso justo y equitativo a los sistemas de abasto, comercialización y financiamiento;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2023)</small>
+
+XXVII. Apoyar, impulsar y fortalecer las economías locales y las actividades productivas y el intercambio de experiencias y proyectos de los pueblos y comunidades indígenas y afromexicanas, mediante acciones que permitan lograr la suficiencia de ingresos económicos, la creación de empleos, la incorporación de tecnologías para incrementar su capacidad productiva, así como asegurar el acceso justo y equitativo a los sistemas de abasto, comercialización y financiamiento;
 
 XXVIII. Apoyar e impulsar, en coordinación con las dependencias y entidades de la Administración Pública Federal competentes, los sistemas agrícolas tradicionales y los cultivos básicos, en especial, el sistema de la milpa, para lograr la seguridad, autosuficiencia y soberanía alimentaria;
 
@@ -601,5 +603,11 @@ Cuarto. Todas las obligaciones que se generen con la entrada en vigor del presen
 D.O.F. 18 DE MAYO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN INCISO L) A LA FRACCIÓN II DEL ARTÍCULO 12 DE LA LEY DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XXVII DEL ARTÍCULO 4 DE LA LEY DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
