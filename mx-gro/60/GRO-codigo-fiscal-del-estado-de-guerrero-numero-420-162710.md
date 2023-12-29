@@ -4,7 +4,7 @@ identifier: "GRO-codigo-fiscal-del-estado-de-guerrero-numero-420-162710"
 country: "mx"
 rank: "codigo"
 publication_date: "2022-12-27"
-last_updated: "2022-12-27"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=162710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CÓDIGO FISCAL DEL ESTADO DE GUERRERO NÚMERO 420
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023.
 
 Código publicado en la Edición Número 103 del Alcance V del Periódico Oficial del Estado de Guerrero, el martes 27 de diciembre de 2022.
 
@@ -95,9 +95,11 @@ VIII. Los demás ordenamientos que contengan disposiciones de orden hacendario.
 
 La aplicación de las disposiciones a que se refiere este artículo le corresponderá al ejecutivo del estado, por conducto de la Secretaría de Finanzas y Administración y demás autoridades fiscales que prevengan las leyes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 5.
 
-Las disposiciones fiscales que establezcan cargas a los particulares y las que señalan excepciones a las mismas, así como las que fijan las infracciones y sanciones, son de aplicación estricta. Se considera que establecen cargas a los particulares las normas que se refieren al sujeto, objeto, base, tasa o tarifa.
+Las disposiciones fiscales que establezcan cargas a los particulares y las que señalan excepciones a las mismas, así como las que fijan las infracciones y sanciones, serán de aplicación estricta. Se considera que establecen cargas a los particulares las normas que se refieren al sujeto, objeto, base, tasa, tarifa o época de pago.
 
 Las otras disposiciones fiscales se interpretarán aplicando cualquier método de interpretación jurídica. A falta de norma fiscal expresa, se aplicarán supletoriamente las disposiciones del derecho federal común cuando su aplicación no sea contraria a la naturaleza propia del derecho fiscal.
 
@@ -155,9 +157,11 @@ El Estado tendrá derecho a percibir las participaciones que se le otorguen en i
 
 Son ingresos derivados de la coordinación hacendaria los que perciba el Estado como consecuencia de la adhesión al Sistema Nacional de Coordinación Fiscal, de conformidad con las disposiciones de este Código, de los convenios, acuerdos o declaratorias que al efecto se celebren o realicen y se regularán, además, por lo que en su caso disponga la Ley de Coordinación Fiscal.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 10.
 
-Cuando en las leyes fiscales se haga referencia a la Unidad de Medida y Actualización, será la que determine el Instituto Nacional de Estadística y Geografía en los términos que establece la constitución del país y las demás disposiciones jurídicas aplicables.
+Cuando en las leyes fiscales se haga referencia a la Unidad de Medida y Actualización, será la que determine el Instituto Nacional de Estadística y Geografía en los términos que establece la Constitución Política de los Estados Unidos Mexicanos y las demás disposiciones jurídicas aplicables.
 
 ###### Artículo 11.
 
@@ -183,13 +187,15 @@ IX. Los Coordinadores y Auditores Fiscales Estatales.
 
 X. Los Titulares de las Oficinas Regionales de Cobro Coactivo y Vigilancia.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 12.
 
-Las autoridades fiscales del estado ejercerán su competencia en el territorio del mismo, conforme lo precisa este Código, los artículos 25, 26 y 27 de la Constitución Política del Estado Libre y Soberano de Guerrero y demás leyes y ordenamientos aplicables. Para el cumplimiento de sus funciones y en ejercicio de sus facultades, podrán delegarlas, siempre que no se contravengan las disposiciones establecidas en la Ley Orgánica de la Administración Pública del Estado de Guerrero número 08, y en el Reglamento Interior de la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero, cumpliendo con los requisitos que para tal efecto se señalen.
+Las autoridades fiscales del estado ejercerán su competencia en el territorio del mismo, conforme a este Código, los artículos 24, 25, 26 y 27 de la Constitución Política del Estado Libre y Soberano de Guerrero y demás leyes y ordenamientos aplicables. Para el cumplimiento de sus funciones y en ejercicio de sus facultades, podrán delegarlas, siempre que no se contravengan las disposiciones establecidas en la Ley Orgánica de la Administración Pública del Estado de Guerrero, y en el Reglamento Interior de la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero, cumpliendo con los requisitos que para tal efecto se señalen.
 
-Para el trámite y resolución de los asuntos dentro de las facultades y atribuciones que les confiere a las autoridades fiscales Estatales el presente Código, se considerará competencia territorial en donde se ejercerán las facultades de las Coordinaciones Fiscales Estatales de la Dirección General de Fiscalización, así como de las Oficinas Regionales de Cobro Coactivo y Vigilancia de la Dirección General de Cobro Coactivo y Vigilancia dependiente de la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero, será la que corresponda conforme a este al (sic) Código.
+Para el trámite y resolución de los asuntos dentro de las facultades y atribuciones que les confiere a las autoridades fiscales estatales, el presente Código se considerará competencia territorial en donde se ejercerán las facultades de las coordinaciones fiscales estatales de la Dirección General de Fiscalización, así como de las oficinas regionales de Cobro Coactivo y Vigilancia de la Dirección General de Cobro Coactivo y Vigilancia, dependiente de la subsecretaría de ingresos de la Secretaría de Finanzas y Administración del gobierno del estado de Guerrero, será la que corresponda conforme a este Código.
 
-Se considera también, para fines fiscales, como parte del territorio del Estado, la Zona Federal Marítimo Terrestre y Territorios Ganados al Mar, ubicados en la franja costera en la que colinde el Estado con el Océano Pacífico.
+Se considera también, para fines fiscales, como parte del territorio del estado, la Zona Federal Marítimo Terrestre y Territorios Ganados al Mar, ubicados en la franja costera en la que colinde el estado con el océano pacífico.
 
 ###### Artículo 13.
 
@@ -199,9 +205,11 @@ Sólo podrá afectarse un ingreso estatal a un fin especial, que a su vez consti
 
 Las leyes y demás disposiciones de carácter general que se refieran a la Hacienda Pública del Estado y que no prevengan expresamente otra cosa, obligan y surten efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado; o el de la fecha que señalen las mismas leyes, reglamentos y demás disposiciones legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 15.
 
-En los plazos fijados en días no se contarán los sábados, los domingos, ni el 1o. de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 1o de mayo; el 16 de septiembre; el tercer lunes de noviembre en conmemoración del 20 de noviembre; el primero de diciembre de cada 6 años cuando corresponda la transmisión del Poder Ejecutivo Federal y; el 25 de diciembre.
+En los plazos fijados en días no se contarán los sábados, los domingos, el 1o. de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 1o de mayo; el 5 de mayo, el 16 de septiembre; el 15 de octubre de cada seis años cuando corresponda a la transmisión del Poder Ejecutivo Estatal; el tercer lunes de noviembre en conmemoración del 20 de noviembre; el 1o. de octubre de cada 6 años cuando corresponda la transmisión del Poder Ejecutivo Federal y el 25 de diciembre.
 
 Tampoco se contarán en dichos plazos, los días en que tengan vacaciones generales las autoridades fiscales estatales, excepto cuando se trate de plazos para la presentación de declaraciones y pago de contribuciones, exclusivamente, en cuyos casos esos días se consideran hábiles. No son vacaciones generales las que se otorguen en forma escalonada.
 
@@ -211,7 +219,9 @@ Cuando los plazos se fijen por mes o por año, sin especificar que sean de calen
 
 No obstante, lo dispuesto en los párrafos anteriores, si el último día del plazo o en la fecha determinada, las oficinas ante las que se vaya a hacer el trámite permanecen cerradas durante el horario normal de labores o se trate de un día inhábil, se prorrogará el plazo hasta el siguiente día hábil. Lo dispuesto en este artículo es aplicable, inclusive cuando se autoricen a las instituciones de crédito para recibir declaraciones. También se prorrogará el plazo hasta el siguiente día hábil, cuando sea viernes el último día del plazo en que se deba presentar la declaración respectiva, ante las instituciones de crédito autorizadas.
 
-Las autoridades fiscales podrán habilitar los días inhábiles. Esta circunstancia deberá comunicarse a los particulares y no alterará el cálculo de plazos.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Las autoridades fiscales podrán habilitar los días inhábiles. Esta circunstancia deberá comunicarse a las personas contribuyentes y no alterará el cálculo de plazos.
 
 Las autoridades fiscales podrán suspender los plazos por fuerza mayor o caso fortuito, Dicha suspensión deberá darse a conocer mediante disposiciones de carácter general.
 
@@ -239,15 +249,19 @@ Se considera Firma Electrónica Avanzada (FIEL): el conjunto de datos y caracter
 
 No surtirán efectos legales las circulares, acuerdos, convenios, contratos y demás actos jurídicos de carácter administrativo, que contravengan los preceptos de las leyes fiscales, ni podrán establecerse gravámenes y procedimientos que constituyan sistemas alcabalatorios.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 19.
 
-Para la validez de los convenios, concesiones, estímulos fiscales, acuerdos y cualesquiera otros actos en los que se afecte un ingreso del Estado, deberán someterse a consideración de la Secretaría de Finanzas y Administración.
+Para la validez de los convenios, contratos, concesiones, estímulos fiscales, acuerdos y cualquier otro acto en los que se afecte un ingreso del estado, deberán someterse a consideración de la Secretaría de Finanzas y Administración.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 20.
 
-La facultad reglamentaria en materia fiscal corresponde al Gobernador del Estado. Compete al propio funcionario la interpretación de las Leyes en los casos dudosos que se sometan a su consideración, siempre que se planteen situaciones reales y concretas.
+La facultad reglamentaria en materia fiscal corresponde a la persona titular del Poder Ejecutivo del estado y le compete la interpretación de las leyes en los casos dudosos que se sometan a su consideración, siempre que se planteen situaciones reales y concretas.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Administración podrá mediante reglas de carácter general establecer disposiciones relativas a la administración, control, formas de pago y procedimientos, sin variar las relativas al objeto, sujeto, base, tasa o tarifa del gravamen, infracciones y sanciones.
+El Poder ejecutivo del estado, por conducto de la Secretaría de Finanzas y Administración podrá mediante reglas de carácter general establecer disposiciones relativas a la administración, control, formas de pago y procedimientos, sin variar las relativas al sujeto, objeto, base, tasa o tarifa del gravamen, infracciones, sanciones o época de pago.
 
 ###### Artículo 21.
 
@@ -309,7 +323,9 @@ III. Para que un tercero asuma la obligación de garantizar el interés fiscal, 
 
 a) Manifestará su aceptación mediante escrito, firmado ante la autoridad fiscal que tenga encomendado el cobro del crédito fiscal, identificándose a satisfacción de la misma, ante la presencia de dos testigos, y
 
-b) Cuando sea persona moral la que garantice el interés fiscal, el monto de la garantía no podrá exceder del 10% del capital social mínimo fijo.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+b) Cuando sea persona moral la que garantice el interés fiscal, el monto de la garantía no podrá exceder del 13% del capital social mínimo fijo.
 
 IV. En los demás casos que señale este ordenamiento y demás disposiciones legales aplicables.
 
@@ -365,13 +381,19 @@ III. Si ante ambos acreedores se han constituido garantías reales, la preferenc
 
 Para determinar la preferencia de los créditos fiscales se estará a lo siguiente:
 
-I. Los créditos del Gobierno del Estado provenientes de impuestos, derechos, productos o aprovechamientos, son preferentes a cualesquiera otros, con excepción de los créditos con garantía hipotecaria o prendaría, de alimentación, de salarios o sueldos devengados durante el último año, o de indemnizaciones laborales, de conformidad con lo que dispone la Ley Federal del Trabajo.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-II. Para que sea aplicable la excepción señalada en la fracción anterior, será requisito indispensable que antes (sic) que se notifique al deudor el crédito fiscal, se haya presentado la demanda ante la autoridad competente, y ésta hubiere dictado el auto que lo admite y los créditos hipotecarios con garantía prendaría se encuentren debidamente inscritos en el Registro Público de la Propiedad que corresponda; y
+I. Los créditos del gobierno del estado provenientes de impuestos, derechos, productos o aprovechamientos, son preferentes a cualquier otro, con excepción de los créditos con garantía hipotecaria o prendaría, de alimentación, de salarios o sueldos devengados durante el último año, o de indemnizaciones laborales, de conformidad con lo que dispone la Ley Federal del Trabajo.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+II. Para que sea aplicable la excepción señalada en la fracción anterior, será requisito indispensable que antes que se notifique a la persona deudora el crédito fiscal, se haya presentado la demanda ante la autoridad competente, y ésta haya dictado el auto que lo admite y los créditos hipotecarios con garantía prendaria se encuentren debidamente inscritos en el Registro Público de la Propiedad, del Comercio y Crédito Agrícola que corresponda, y
 
 III. La vigencia y exigibilidad en cantidad líquida del derecho de crédito cuya preferencia se invoque, deberá comprobarse en forma fehaciente al hacerse valer el recurso administrativo correspondiente.
 
-En ningún caso el fisco estatal entrará en los juicios universales. Cuando se inicie el juicio de quiebra, suspensión de pago o de concurso, el juez que conozca del asunto deberá dar aviso a las autoridades fiscales estatales, para que, en su caso, hagan exigibles los créditos fiscales a su favor, a través del procedimiento administrativo de ejecución.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+En ningún caso el fisco estatal entrará en los juicios universales. Cuando se inicie el juicio de quiebra, suspensión de pago o de concurso, la persona juzgadora que conozca del asunto deberá dar aviso a las autoridades fiscales estatales, para que, en su caso, hagan exigibles los créditos fiscales a su favor, a través del procedimiento administrativo de ejecución.
 
 ###### Artículo 30.
 
@@ -385,7 +407,9 @@ I. Tenga a su cargo créditos fiscales firmes.
 
 II. Tenga a su cargo créditos fiscales determinados, firmes o no, que no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código.
 
-III. No se encuentren inscritos en el Registro Estatal y Federal de Contribuyentes; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+III. No se encuentren inscritos en el Registro Estatal y Federal de Contribuyentes.
 
 IV. Habiendo vencido el plazo para presentar alguna declaración provisional o no, y con independencia de que en la misma resulte o no cantidad (sic) pagar, ésta no haya sido presentada. Lo dispuesto en esta fracción no es aplicable tratándose de omisión en la presentación de declaraciones que sean exclusivamente informativas.
 
@@ -407,9 +431,13 @@ Los particulares que tengan derecho al otorgamiento de subsidio o estímulos y q
 
 Los proveedores a quienes se adjudique el contrato, para poder subcontratar, deberán solicitar y entregar a la contratante la constancia de cumplimiento de las obligaciones fiscales del subcontratante, que se obtiene a través de la página de Internet del Servicio de Administración Tributaria.
 
-Para participar como proveedores, los contribuyentes estarán obligados a autorizar a la Secretaría de Finanzas y Administración, para que haga público el resultado de la opinión del cumplimiento, a través del procedimiento que establezca mediante reglas de carácter general, además de cumplir con lo establecido en las fracciones anteriores.
+> <small>(REFORMADO [N. DE E. PERTENECE A LA FRACCIÓN VII], P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-Los contribuyentes que requieran obtener la constancia de cumplimiento de obligaciones fiscales para realizar alguna operación comercial o de servicios, para obtener subsidios y estímulos, para realizar algún trámite fiscal u obtener alguna autorización en materia de impuestos internos, así como para la contratación de adquisición de bienes, arrendamiento, prestación de servicios y obra pública que vayan a realizar con los sujetos señalados en el primer párrafo de este artículo, deberán hacerlo mediante el procedimiento que se determine mediante Reglas de Carácter General que se publiquen en el Periódico Oficial del Gobierno del Estado de Guerrero.
+Para participar como personas proveedoras, las personas contribuyentes estarán obligadas a autorizar a la Secretaría de Finanzas y Administración, para que haga público el resultado de la opinión del cumplimiento, a través del procedimiento que establezca mediante reglas de carácter general, además de cumplir con lo establecido en las fracciones anteriores.
+
+> <small>(REFORMADO [N. DE E. PERTENECE A LA FRACCIÓN VII], P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Las personas contribuyentes que requieran obtener la constancia de cumplimiento de obligaciones fiscales para realizar alguna operación comercial o de servicios, para obtener subsidios y estímulos, para realizar algún trámite fiscal u obtener alguna autorización en materia de impuestos internos, así como para la contratación de adquisición de bienes, arrendamiento, prestación de servicios y obra pública que vayan a realizar con las secretarías, dependencias y organismos señalados en el primer párrafo de este artículo, deberán hacerlo conforme al procedimiento que se determine en las Reglas de Carácter General que se publiquen en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 ## TÍTULO SEGUNDO. DE LOS SUJETOS PASIVOS Y DEL CRÉDITO FISCAL
 
@@ -581,9 +609,13 @@ Cuando el resultado de la operación a que se refiere el primer párrafo de este
 
 Pago o entero es el cumplimiento de una obligación fiscal determinada en cantidad líquida y deberá efectuarse, en los términos siguientes:
 
-I. Tratándose de los créditos fiscales determinados por las autoridades fiscales en el ejercicio de sus facultades de comprobación, determinación y sancionadoras, deberán pagarse o garantizarse junto con sus accesorios dentro de los 15 días hábiles siguientes a aquél en que surta efectos su notificación.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-II. Tratándose de contribuciones determinadas por el contribuyente dentro del plazo señalado en las disposiciones respectivas. A falta de disposición expresa el pago deberá hacerse a más tardar el día diecisiete del mes del calendario inmediato posterior al que corresponda el pago.
+I. Tratándose de los créditos fiscales determinados por las autoridades fiscales en el ejercicio de sus facultades de comprobación, determinación y sancionadoras, deberán pagarse o garantizarse junto con sus accesorios dentro de los 30 (treinta) días hábiles siguientes a aquél en que surta efectos su notificación.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+II. Tratándose de contribuciones determinadas por la persona contribuyente dentro del plazo señalado en las disposiciones respectivas. A falta de disposición expresa el pago deberá hacerse a más tardar el día 17 (diecisiete) del mes del calendario inmediato posterior al que corresponda el pago.
 
 III. El pago de derechos deberá hacerse previamente a la prestación de los servicios, salvo los casos en que expresamente se señale otro plazo.
 
@@ -593,7 +625,9 @@ IV. Cuando el crédito se determine mediante un convenio, en el término que és
 
 Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos, no lo hagan dentro de los plazos señalados en las disposiciones fiscales, la Secretaría de Finanzas y Administración exigirá la presentación del documento respectivo, procediendo en forma simultánea o sucesiva, a realizar uno o varios de los actos siguientes:
 
-I. Tratándose de la omisión en la presentación de una declaración periódica para el pago de contribuciones, podrán hacer efectiva al contribuyente o responsable solidario que haya incurrido en la omisión una cantidad igual a la contribución que hubiere determinado en la última o cualquiera de las seis últimas declaraciones de que se trate. Esta cantidad a pagar tendrá el carácter de pago provisional y no liberará a los obligados a presentar la declaración omitida;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+I. Tratándose de la omisión en la presentación de una o más declaraciones periódicas para el pago de contribuciones, podrán hacer efectiva al contribuyente o responsable solidario que haya incurrido en la omisión una cantidad igual a la contribución que hubiere determinado en la última o cualquiera de las seis últimas declaraciones de que se trate. Esta cantidad a pagar tendrá el carácter de pago provisional y no liberará a los obligados a presentar la declaración o declaraciones omitidas, y
 
 II. Imponer las multas que correspondan en los términos de este Código.
 
@@ -640,6 +674,10 @@ La autorización de la prórroga no exime al contribuyente del pago de los recar
 ###### Artículo 52.
 
 La Secretaría de Finanzas y Administración podrá autorizar prórrogas y pago en parcialidades de créditos fiscales, previa solicitud del contribuyente para cubrir las contribuciones omitidas y sus accesorios y cumpla con las disposiciones establecidas en el presente Código. En la autorización se señalará el número de pagos, los cuales no podrán exceder de 36 parcialidades, así como el monto de los mismos, que comprenderán las contribuciones omitidas y sus accesorios, debiéndose señalar que se sujetarán a la actualización y recargos correspondientes, calculados a partir de la fecha en que dejaron de cubrirse, hasta el momento del entero en el tiempo fijado para cada uno de ellos.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Cuando el Contribuyente reconozca su adeudo, la Secretaría de Finanzas y Administración podrá autorizar prórroga para el pago en mensualidades de impuestos, siempre que el importe del adeudo y sus adicionales no excedan de dos mil cuatrocientas diez Unidades de Medidas y Actualización y sin que esta no sea mayor a seis mensualidades, no provengan del procedimiento administrativo de ejecución o como resultado del inicio de facultades de comprobación, siendo aplicable las formalidades y obligaciones previstas para el pago en parcialidades, excepto el de la garantía del interés fiscal.
 
 ###### Artículo 53.
 
@@ -917,19 +955,27 @@ Cuando no se cumplan los requisitos a que se refieren las fracciones I y II de e
 
 Lo dispuesto en este artículo no es aplicable a las declaraciones, solicitudes de inscripción o avisos al registro estatal de contribuyentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 82.
 
-Las personas físicas y morales que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de inscripción, declaraciones o avisos, ante las autoridades fiscales, así como expedir constancias o documentos, lo harán en las formas que al efecto apruebe la Secretaría de Finanzas y Administración, debiendo proporcionar el número de ejemplares, los datos e informes y adjuntar los documentos que dichas formas requieran, o bien, deberán hacerlo mediante documento digital cuando así establezca la Secretaría mediante reglas de carácter general.
+Las personas físicas y morales que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de inscripción, declaraciones o avisos, ante las autoridades fiscales, así como expedir constancias o documentos, lo harán en las formas que al efecto apruebe la Secretaría de Finanzas y Administración, debiendo proporcionar el número de ejemplares, los datos e informes y adjuntar los documentos que dichas formas requieran, o bien, deberán hacerlo mediante documento digital cuando así establezca la Secretaría de Finanzas y Administración mediante reglas de carácter general.
 
 En los casos en que las formas para la presentación de las declaraciones o avisos y expedición de constancias, que prevengan las disposiciones fiscales, no hubieran sido aprobadas por la Secretaría de Finanzas y Administración, los obligados a presentarlas las formularán en escrito libre por triplicado que contengan su nombre, denominación o razón social, domicilio y clave de Registro Estatal de Contribuyentes y en su caso el Registro Federal de Contribuyentes, así como el período y los datos relativos a la obligación que pretendan cumplir; en caso de que se trate de la obligación de pago, se deberá señalar además el período y el monto del mismo.
 
-Los contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las leyes fiscales respectivas continuarán haciéndolo en tanto no presenten los avisos de suspensión, disminución o cancelación en el registro estatal de contribuyentes, según corresponda. Tratándose de las declaraciones de pago, los contribuyentes deberán presentar dichas declaraciones, aun cuando no exista cantidad a pagar.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el Estado, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones, están obligados a formular y presentar a nombre de sus representados en omisión de estos, las declaraciones, avisos y demás documentos que señalen las disposiciones fiscales. Esta disposición, no releva a los obligados principales de presentar el aviso correspondiente cuando no sea presentado por sus representantes.
+Las personas contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las leyes fiscales respectivas continuarán haciéndolo en tanto no presenten los avisos de suspensión, disminución o cancelación en el Registro Estatal de Contribuyentes, según corresponda. Tratándose de las declaraciones de pago, las personas contribuyentes deberán presentar dichas declaraciones, aun cuando no exista cantidad a pagar, sin que estas últimas excedan de seis declaraciones mensuales sucesivas, de lo contrario deberán presentar el aviso de suspensión, disminución o cancelación en el Registro Estatal.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Las personas representantes, sea cual fuera el nombre con que se les designe, de personas no residentes en el estado, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones, están obligados a formular y presentar a nombre de sus representados en omisión de estos, las declaraciones, avisos y demás documentos que señalen las disposiciones fiscales. Esta disposición, no releva a los obligados principales de presentar el aviso correspondiente cuando no sea presentado por sus representantes.
 
 Las declaraciones, avisos, solicitud de inscripción y demás documentos que exijan las disposiciones fiscales, se presentarán en las administraciones o agencias fiscales estatales de su jurisdicción. También podrán enviarse por medio del servicio postal en pieza certificada, cuando no exista administración o agencia fiscal estatal en su jurisdicción; en este último caso, se tendrá como fecha de presentación la del día en que se haga la entrega a las oficinas de correos.
 
-Las oficinas a que se refiere el párrafo anterior recibirán las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverán copia sellada a quien los presente. Únicamente se podrá rechazar la presentación cuando no contengan el nombre, denominación o razón social del contribuyente, su clave de Registro Estatal de Contribuyentes y en su caso, el Registro Federal de Contribuyentes, su domicilio fiscal o no aparezcan debidamente firmados por el contribuyente o por su representante legal, no se acompañen los anexos o tratándose de declaraciones en donde éstas contengan errores aritméticos. En este último caso, las oficinas podrán cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Las oficinas a que se refiere el párrafo anterior recibirán las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverán copia sellada a quien los presente. Únicamente se podrá rechazar la presentación cuando no contengan el nombre, denominación o razón social de la persona contribuyente, su clave de Registro Estatal de Contribuyentes y en su caso, el Registro Federal de Contribuyentes, su domicilio fiscal o no aparezcan debidamente firmados por la persona contribuyente o por su representante legal, no se acompañen los anexos o tratándose de declaraciones en donde éstas contengan errores aritméticos. En este último caso, las oficinas podrán cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
 
 Las personas obligadas a presentar solicitud de inscripción o avisos en los términos de las disposiciones fiscales podrán presentar su solicitud o avisos complementarios, completando o sustituyendo los datos de la solicitud o aviso original siempre que los mismos se presenten dentro de los plazos previstos en las disposiciones fiscales.
 
@@ -1099,15 +1145,21 @@ VI. Realizar las demás actividades conducentes al logro de los fines señalados
 
 El Secretario de Finanzas y Administración podrá expedir circulares en forma interna, para dar a conocer a las diversas dependencias el criterio que deberán seguir, en cuanto a la aplicación de las normas tributarias. De dichas circulares no nacen obligaciones ni derechos que favorezcan a los particulares.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 91.
 
-Las autoridades fiscales del Estado a fin de comprobar que los contribuyentes, los responsables solidarios o los terceros con ellos relacionados, han cumplido con las disposiciones fiscales estatales y, en su caso, determinar las contribuciones omitidas o los créditos fiscales, así como para comprobar la comisión de delitos fiscales y para proporcionar información a otras autoridades fiscales, estarán facultadas para:
+Las autoridades fiscales del estado a fin de comprobar que las personas contribuyentes, responsables solidarios o terceros con ellos relacionados, han cumplido con las disposiciones fiscales estatales y, en su caso, determinar las contribuciones omitidas o los créditos fiscales, así como para comprobar la comisión de delitos fiscales y para proporcionar información a otras autoridades fiscales, estarán facultadas para:
 
 I. Ordenar y practicar visitas en el domicilio o dependencia de los sujetos pasivos, de los responsables solidarios o de los terceros y revisar sus libros, documentos y correspondencia, que tenga relación con las obligaciones fiscales y; en su caso, asegurarlos dejando en calidad de depositario al visitado, previo inventario que al efecto se formule.
 
-Practicar visitas domiciliarlas (sic) a los contribuyentes, a fin de verificar la presentación de solicitudes o avisos en materia del registro estatal de contribuyentes.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en las oficinas de las propias autoridades, la contabilidad, proporcionen los datos, otros documentos o informes que se requieran, así como revisar los dictámenes en materia del Impuesto Sobre Remuneraciones al Trabajo Personal e Impuesto Sobre la Prestación de Servicios de Hospedaje y cualquier otro dictamen que tenga repercusión para efectos fiscales formulado por las contadoras o contadores públicos y su relación con el cumplimiento de disposiciones fiscales estatales.
+Practicar visitas domiciliarlas (sic) a las personas contribuyentes, a fin de verificar la presentación de solicitudes o avisos en materia del Registro Estatal de Contribuyentes.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Requerir a las personas contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en las oficinas de las propias autoridades, la contabilidad, proporcionen los datos, otros documentos o informes que se requieran, así como revisar los dictámenes en materia del Impuesto Sobre Remuneraciones al Trabajo Personal e Impuesto Sobre la Prestación de Servicios de Hospedaje y cualquier otro dictamen que tenga repercusión para efectos fiscales formulado por las contadoras o contadores públicos y su relación con el cumplimiento de disposiciones fiscales estatales.
 
 II. Rectificar los errores aritméticos, omisiones u otros que aparezcan en las declaraciones, solicitudes o avisos, para lo cual las autoridades fiscales podrán requerir al contribuyente la presentación de la documentación que proceda, para la rectificación del error u omisión de que se trate.
 
@@ -1115,7 +1167,9 @@ III. Proceder a la verificación física, clasificación, valuación o comprobac
 
 IV. Solicitar de sujetos pasivos, responsables solidarios o terceros, datos o informes relacionados con el cumplimiento de las disposiciones fiscales. Cuando se conozcan éstos de terceros, en ejercicio de las facultades de comprobación, hechos de omisiones que puedan entrañar incumplimiento de las obligaciones fiscales de un contribuyente o responsable solidario, al que le estén practicando una visita domiciliaria, darán a conocer a éste el resultado de aquella actuación, en el acta final de la citada visita domiciliaria.
 
-V. Recabar de los funcionarios y empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+V. Recabar de las personas servidoras públicas y de las personas fedatarias, los informes y datos que posean con motivo de sus funciones.
 
 VI. Hacer las verificaciones de los lugares, bienes o mercancías en la forma que para el control de los gravámenes determine la Secretaría de Finanzas y Administración; para lo cual se designará expresamente y por escrito, a la persona que deberá realizar la inspección, señalando igualmente, las facultades inherentes.
 
@@ -1125,27 +1179,45 @@ VIII. Las actuaciones que practique la Secretaría de Finanzas y Administración
 
 Las autoridades fiscales podrán ejercer estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
 
-IX. Para la comprobación de la base de los gravámenes a que se encuentren afectos los contribuyentes, se presumirá, salvo pruebas en contrario:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-a) Que la información contenida en libros, registros, sistemas de contabilidad, documentación comprobatoria y correspondencia que se encuentre en poder del contribuyente, corresponde a operaciones celebradas por él, aunque aparezcan sin su nombre o a nombre de otra persona.
+IX. Para la comprobación de la base de los gravámenes a que se encuentren afectos las personas contribuyentes, se presumirá, salvo pruebas en contrario:
 
-b) Que la información contenida en libros, registros y sistemas de contabilidad a nombre del contribuyente, localizados en poder de personas a su servicio, o de acciones propiedad de la empresa, corresponde a operaciones del contribuyente.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-c) Que la información contenida en documentos de terceros, relacionados con el contribuyente, correspondan a operaciones realizadas por éste, en cualquiera de los casos siguientes:
+a) Que la información contenida en libros, registros, sistemas de contabilidad, documentación comprobatoria y correspondencia que se encuentre en poder de la persona contribuyente, corresponde a operaciones celebradas por ella, aunque aparezcan sin su nombre o a nombre de otra persona.
 
-1. Cuando se refiera al contribuyente designándolo por su nombre, denominación o razón social.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-2. Cuando se señale como lugar para la entrega o recibo de bienes o prestaciones de servicios, a cualquiera de los establecimientos del contribuyente aun cuando exprese el nombre, denominación o razón social de un tercero real o ficticio.
+b) Que la información contenida en libros, registros y sistemas de contabilidad a nombre de la persona contribuyente, localizados en poder de personas a su servicio, o de acciones propiedad de la empresa, corresponde a operaciones de la persona contribuyente.
 
-3. Cuando se refiere a cobros o pagos efectuados por el contribuyente por su cuenta, por persona interpósita o ficticia.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-4. Que los depósitos en la cuenta bancaria del contribuyente que no correspondan a registros de contabilidad son ingresos gravables.
+c) Que la información contenida en documentos de terceros, relacionados con la persona contribuyente, correspondan a operaciones realizadas por ésta, en cualquiera de los casos siguientes:
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+1. Cuando se refiera a la persona contribuyente designándola por su nombre, denominación o razón social.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+2. Cuando se señale como lugar para la entrega o recibo de bienes o prestaciones de servicios, a cualquiera de los establecimientos de la persona contribuyente aun cuando exprese el nombre, denominación o razón social de un tercero real o ficticio.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+3. Cuando se refiere a cobros o pagos efectuados por la persona contribuyente por su cuenta, por persona interpósita o ficticia.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+4. Que los depósitos en la cuenta bancaria de la persona contribuyente que no correspondan a registros de contabilidad son ingresos gravables.
 
 5. Que son ingresos gravables de las empresas los depósitos hechos en cuenta de cheques, personal de los gerentes, administradores, o terceros, cuando efectúen el pago de deudas de la empresa con cheques de dicha cuenta o depositen en la misma, cantidades que corresponden a la empresa y ésta no los registre en contabilidad.
 
 6. Que las diferencias entre los activos registrados en contabilidad y las existencias reales corresponden a ingresos favorables del último ejercicio que se revise.
 
-X. Determinar presuntivamente la base de las contribuciones a cargo de los contribuyentes, responsables solidarios o de los terceros, en cualesquiera de los siguientes casos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+X. Determinar presuntivamente la base de las contribuciones a cargo de las personas contribuyentes, responsables solidarios o terceros, en cualquiera de los casos siguientes:
 
 a) Cuando se resisten y obstaculicen por cualquier medio, la iniciación o desarrollo de las visitas domiciliarias, o se nieguen a recibir la orden respectiva.
 
@@ -1153,21 +1225,37 @@ b) Cuando no proporcionen libros, documentos, informes y datos que le soliciten.
 
 c) Cuando presenten libros, documentos, informes o datos del erario falsificados, o existan vicios o irregularidades en su contabilidad.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 d) Cuando no lleven los libros o registros a que estén obligados, o no los conserven en domicilio ubicado en el Estado.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 e) Cuando la información que obtengan de los terceros, o que les sea proporcionada por otras autoridades, ponga de manifiesto la percepción de ingresos superior al declarado.
 
-XI. Siempre que los contribuyentes se coloquen en alguna de las causales de determinación presuntiva a que se refiere la fracción anterior, y no comprueben por el período objeto de revisión sus ingresos o erogaciones por los que deban pagar contribuciones, se presumirá que son iguales al resultado de algunas, de las siguientes operaciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-a) Si con la base de contabilidad y la documentación del contribuyente, información de los terceros y cualquier otro medio pudieran reconstruirse las operaciones correspondientes cuando menos treinta días, el ingreso se determinará con base en el promedio diario de período reconstruido, el que se multiplicará por el número de días que correspondan al período objeto de la revisión.
+XI. Siempre que las personas contribuyentes se coloquen en alguna de las causales de determinación presuntiva a que se refiere la fracción anterior, y no comprueben por el período objeto de revisión sus ingresos o erogaciones por los que deban pagar contribuciones, se presumirá que son iguales al resultado de algunas, de las operaciones siguientes:
 
-b) Si la contabilidad y la documentación del contribuyente no permiten reconstruir las operaciones de treinta días, la Secretaría de Finanzas y Administración tomará como base los ingresos que observe durante siete días cuando menos, de operaciones normales y el promedio diario resultante, se multiplicará por el número de días que comprenda el período objeto de la revisión.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-c) Las autoridades fiscales podrán estimar las erogaciones de los sujetos del Impuesto sobre Remuneraciones al Trabajo Personal en los siguientes casos:
+a) Si con la base de contabilidad y la documentación de la persona contribuyente, información de los terceros y cualquier otro medio pudieran reconstruirse las operaciones correspondientes cuando menos treinta días, el ingreso se determinará con base en el promedio diario de período reconstruido, el que se multiplicará por el número de días que correspondan al período objeto de la revisión.
 
-1. Cuando no presenten sus declaraciones o no lleven los libros o registros a que legalmente estén obligados.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-2. Cuando por los informes que se obtengan se pongan de manifiesto que se han efectuado erogaciones gravadas que exceden del 3% de las declaradas por el contribuyente.
+b) Si la contabilidad y la documentación de la persona contribuyente no permiten reconstruir las operaciones de treinta días, la Secretaría de Finanzas y Administración tomará como base los ingresos que observe durante siete días cuando menos, de operaciones normales y el promedio diario resultante, se multiplicará por el número de días que comprenda el período objeto de la revisión.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+c) Las autoridades fiscales podrán estimar las erogaciones de los sujetos del Impuesto sobre Remuneraciones al Trabajo Personal en los casos siguientes:
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+1. Cuando no presenten sus declaraciones o no lleven los libros o registros a que legalmente estén obligados, un diez por ciento sobre el total de ingresos obtenidos en el ejercicio.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+2. Cuando por los informes que se obtengan se pongan de manifiesto que se han efectuado erogaciones gravadas que exceden del 3% de las declaradas por la persona contribuyente, un diez por ciento sobre el total de ingresos obtenidos en el ejercicio.
 
 3. Cuando se adviertan o detecten irregularidades en sus registros que imposibiliten el conocimiento de sus erogaciones que sirven de base para el cálculo del impuesto sobre Remuneraciones al Trabajo Personal.
 
@@ -1177,29 +1265,47 @@ a) Las erogaciones realizadas, declaradas en los últimos doce meses para efecto
 
 b) Los pagos a que se refiere el Capítulo I del Título IV de la Ley del Impuesto sobre la Renta en los últimos doce meses.
 
-c) La información contenida en los dictámenes que para efectos fiscales hubieren presentado los contribuyentes conforme a las disposiciones fiscales estatales o federales, en su caso.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+c) La información contenida en los dictámenes que para efectos fiscales hayan presentado las personas contribuyentes conforme a las disposiciones fiscales estatales o federales, en su caso.
 
 d) Los hechos que conozcan las autoridades fiscales con motivo del ejercicio de sus facultades de comprobación previstas en este Código, o bien que consten en los expedientes o documentos que lleven o tengan en su poder, así como aquellos proporcionados por otras autoridades del nivel federal, estatal o municipal, y
 
-e) Las actividades realizadas por el contribuyente y otros datos que puedan utilizarse; obtenidos a través de las facultades de comprobación de la autoridad fiscal.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+e) Las actividades realizadas por la persona contribuyente y otros datos que puedan utilizarse; obtenidos a través de las facultades de comprobación de la autoridad fiscal, un diez por ciento sobre el total de ingresos obtenidos en el ejercicio.
 
 XII. Cuando las autoridades fiscales en el ejercicio de sus facultades de comprobación adviertan la existencia de contribuyentes que no se encuentran inscritos en el registro estatal de contribuyentes, y se cuente con los datos necesarios para hacerlo, procederán a realizar de oficio la inscripción correspondiente.
 
-Asimismo, podrán solicitar a los contribuyentes la información necesaria para su inscripción y actualización de sus datos en el citado registro e inscribir a quienes de conformidad con las disposiciones fiscales deban estarlo y no cumplan con este requisito.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-XIII. Practicar revisiones electrónicas a los contribuyentes, responsables solidarios o terceros con ellos relacionados, basándose en el análisis de la información y documentación que obre en poder de la autoridad, sobre uno o más rubros o conceptos específicos de una o varias contribuciones.
+Asimismo, podrán solicitar a las personas contribuyentes la información necesaria para su inscripción y actualización de sus datos en el citado registro e inscribir a quienes de conformidad con las disposiciones fiscales deban estarlo y no cumplan con este requisito.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+XIII. Practicar revisiones electrónicas a las personas contribuyentes, responsables solidarios o terceros con ellos relacionados, basándose en el análisis de la información y documentación que obre en poder de la autoridad, sobre uno o más rubros o conceptos específicos de una o varias contribuciones.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 XIV. Asignar un buzón tributario a las personas físicas y morales inscritas en el padrón de contribuyentes del Estado, consistente en un sistema de comunicación electrónico ubicado en la página de Internet de la Secretaría de Finanzas y Administración, a través del cual:
 
 a) La autoridad fiscal realizará la notificación de cualquier acto o resolución administrativa que emita, en documentos digitales, incluyendo cualquiera que pueda ser recurrido.
 
-b) Los contribuyentes presentarán promociones, solicitudes, avisos, o darán cumplimiento a requerimientos de la autoridad, a través de documentos digitales, y podrán realizar consultas sobre su situación fiscal.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-c) La Secretaría de Finanzas y Administración podrá utilizar como un medio de identificación, registro y clasificación de los contribuyentes, la Cedula Única de Registro Poblacional, el Registro Federal de Contribuyentes y la e.firma emitida por el Servicio de Administración Tributaria.
+b) Las personas contribuyentes presentarán promociones, solicitudes, avisos, o darán cumplimiento a requerimientos de la autoridad, a través de documentos digitales, y podrán realizar consultas sobre su situación fiscal.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+c) La Secretaría de Finanzas y Administración podrá utilizar como un medio de identificación, registro y clasificación de las personas contribuyentes, la Cedula Única de Registro Poblacional, el Registro Federal de Contribuyentes y la e.firma emitida por el Servicio de Administración Tributaria.
 
 d) El dictamen fiscal a que se refiere el artículo 106 del presente Código, deberá presentarse a través del Buzón Tributario a que se refiere la presente fracción.
 
 Las personas físicas y morales que tengan asignado un buzón tributario deberán consultarlo dentro de los tres días siguientes a aquél en que reciban un aviso electrónico enviado por la Secretaría de Finanzas y Administración mediante los mecanismos de comunicación que el contribuyente elija de entre los que se den a conocer mediante reglas de carácter general. La autoridad enviará por única ocasión, mediante el mecanismo elegido, un aviso de confirmación que servirá para corroborar la autenticidad y correcto funcionamiento de éste.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+XV. Llevar a cabo verificaciones conforme al procedimiento establecido en el artículo 100 de este Código, sin que por ello se considere que inician sus facultades de comprobación, para constatar los datos relacionados con su identidad, domicilio y demás que se hayan manifestado para su registro y de la actualización al Registro Estatal de Contribuyentes.
 
 Cuando la autoridad en términos de este artículo inicie facultades de comprobación, con los municipios del Estado y en su caso se lleguen a determinar créditos fiscales, derivados del incumplimiento de sus obligaciones fiscales, la Secretaría de Finanzas y Administración del Gobierno del Estado, podrá convenir con los Municipios afecte sus participaciones o aportaciones para efecto de lo establecido en el artículo 9º de la Ley de Coordinación Fiscal.
 
@@ -1315,9 +1421,11 @@ Tratándose de los supuestos establecidos en el inciso b) de la fracción I del 
 
 Para la práctica del aseguramiento precautorio se observarán las disposiciones contenidas en la Sección Segunda del Capítulo Segundo del Título Cuarto de este Código, en aquello que no se oponga a lo previsto en este artículo.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 98.
 
-Las copias o reproducciones que deriven del microfilm o disco óptico y de documentos que tengan en su poder las autoridades fiscales, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias o reproducciones sean certificadas por funcionario competente para ello, de acuerdo con la legislación fiscal estatal.
+Las copias o reproducciones que deriven del microfilm o disco óptico, medios magnéticos, digitales, electrónicos o magneto ópticos y de documentos que tengan en su poder las autoridades fiscales, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias o reproducciones sean certificadas por la persona competente para ello, de acuerdo con la legislación fiscal estatal.
 
 ###### Artículo 99.
 
@@ -1449,9 +1557,11 @@ En los casos en que, al practicarse una auditoría, inspección o revisión, los
 
 Se levantará acta indicando el número de sellos y su localización ya sea en muebles, cuartos, oficinas y en qué lugar de la empresa se encuentran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 106.
 
-Las personas físicas con actividades empresariales y las personas morales que se encuentren en alguno de los supuestos previstos en este artículo, podrán optar por dictaminar sus obligaciones fiscales estatales, por contador público autorizado, en los términos de lo que establece el presente Código Fiscal; así como de las reglas de carácter general que al efecto expida la Secretaría de Finanzas y Administración.
+Las personas físicas con actividades empresariales y las personas morales que se encuentren en alguno de los supuestos previstos en este artículo, podrán optar por dictaminar sus obligaciones fiscales estatales, por la persona profesional de la contaduría pública autorizada, en los términos de lo que establece el presente Código; así como de las reglas de carácter general que al efecto expida la Secretaría de Finanzas y Administración.
 
 I. Las que en el ejercicio anterior hayan obtenido ingresos acumulables superiores a $25’000,000.00 para efecto del impuesto sobre la renta.
 
@@ -1459,7 +1569,9 @@ II. O que por lo menos cien de sus trabajadores en promedio mensual les hayan pr
 
 Las personas físicas y las personas morales que no se encuentren en alguno de los supuestos señalados en las fracciones de este artículo, tendrán la opción de hacer dictaminar el cumplimiento de sus obligaciones fiscales.
 
-Los contribuyentes que estén obligados a dictaminarse, así como los que opten por dictaminar el cumplimiento de sus obligaciones fiscales, deben hacerlo por los conceptos de Impuesto Sobre Remuneraciones al Trabajo Personal, por el Impuesto Sobre la Prestación de Servicios de Hospedaje, Impuesto Sobre Diversiones, Espectáculos Públicos y juegos permitidos, así como el Impuesto Sobre Loterías, Rifas, Sorteos, concurso de toda clase y Apuestas sobre juegos permitidos.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Las personas contribuyentes que estén obligadas a dictaminarse, así como las que opten por dictaminar el cumplimiento de sus obligaciones fiscales, deben hacerlo por los conceptos de Impuesto Sobre Remuneraciones al Trabajo Personal, por el Impuesto Sobre la Prestación de Servicios de Hospedaje, Impuesto Sobre Diversiones, Espectáculos Públicos y juegos permitidos, así como el Impuesto Sobre Loterías, Rifas, Sorteos, concurso de toda clase y Apuestas sobre juegos permitidos.
 
 III. Para efectos de determinar si se está en los supuestos previstos por las fracciones I y II de este artículo, se tratará como a una sola persona moral el conjunto de aquellas que reúna alguna de las características que se señalan a continuación, caso en el cual cada una de estas personas morales deberá cumplir con la obligación establecida por este artículo:
 
@@ -1473,13 +1585,17 @@ b) Cuando una misma persona física o moral ejerza control efectivo de ellas, au
 
 3. Cuando la controladora o las controladas tengan una inversión en la sociedad de que se trate, de tal magnitud que de hecho les permita ejercer una influencia preponderante en las operaciones de la empresa.
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 IV. El registro para formular dictámenes del cumplimiento de obligaciones fiscales, lo pueden obtener las personas que se encuentren registradas ante la Administración General de Auditoría Fiscal Federal, que sean miembros de un Colegio Profesional reconocido por la Secretaría de Educación Pública, además deberán contar con la Constancia de certificación expedida por los organismos certificadores que obtengan el Reconocimiento de Idoneidad que otorgue la Secretaría de Educación Pública. Para tal efecto, deberán presentar ante la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero, solicitud de registro en el formato oficial autorizado por la Secretaría de Finanzas y Administración, acompañando original y copia de su constancia de registro ante la Administración General de Auditoría Fiscal Federal del Servicio de Administración Tributaria, constancia emitida por un Colegio Profesional reconocido, que acredite su calidad de miembro activo, expedida a más tardar en la fecha de la solicitud, así como la Constancia de certificación expedida por los organismos certificadores que obtengan el Reconocimiento de Idoneidad que otorgue la Secretaría de Educación Pública, original y copia de una identificación oficial y comprobante de domicilio el correspondiente al ubicado en el Estado de Guerrero.
 
-Por lo que respecta a la recepción de avisos, documentos e informes relacionados con el dictamen estatal, los contribuyentes cuya circunscripción territorial corresponda a los municipios de Acatepec, Ahuacuotzingo, Ajuchitlán del Progreso, Alcozauca de Guerrero, Alpoyeca, Apaxtla, Arcelia, Atenango del Río, Atlamajalcingo del Monte, Atlixtac, Buenavista de Cuéllar, Chilapa de Álvarez, Chilpancingo de los Bravo, Cochoapa el Grande, Cocula, Copala, Copalillo, Copanatoyac, Coyuca de Catalán, Cualác, Cuetzala del Progreso, Cutzamala de Pinzón, Eduardo Neri, General Canuto A. Neri, General Heliodoro Castillo, Huamuxtitlán, Huitzuco de los Figueroa, Iguala de la Independencia, Ixcateopan de Cuauhtémoc, Iliatenco, José Joaquín de Herrera, Juan R. Escudero, Leonardo Bravo, Malinaltepec, Mártir de Cuilapan, Metlatónoc, Mochitlán, Olinalá, Pedro Ascencio Alquisiras, Pilcaya, Pungarabato, Quechultenango, San Miguel Totolapan, Taxco de Alarcón, Teloloapan, Tepecoacuilco de Trujano, Tetipac, Tixtla de Guerrero, Tlacoapa, Tlalchapa, Tlalixtaquilla de Maldonado, Tlapa de Comonfort, Tlapehuala, Xalpatláhuac, Xochihuehuetlán, Zapotitlán Tablas, Zirándaro, y Zitlala, realizarán sus trámites correspondientes en la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero cuyo domicilio se encuentra ubicado en la calle de Zaragoza esquina 16 de septiembre, Edificio Juan Álvarez 1er. Piso colonia centro C.P. 39000, Chilpancingo, Guerrero.
+Por lo que respecta a la recepción de avisos, documentos e informes relacionados con el dictamen estatal, las personas contribuyentes cuya circunscripción territorial corresponda a los municipios de Acatepec, Ahuacuotzingo, Ajuchitlán del Progreso, Alcozauca de Guerrero, Alpoyeca, Apaxtla, Arcelia, Atenango del Río, Atlamajalcingo del Monte, Atlixtac, Buenavista de Cuéllar, Chilapa de Álvarez, Chilpancingo de los Bravo, Cochoapa el Grande, Cocula, Copalillo, Copanatoyac, Coyuca de Catalán, Cualác, Cuetzala del Progreso, Cutzamala de Pinzón, Eduardo Neri, General Canuto A. Neri, General Heliodoro Castillo, Huamuxtitlán, Huitzuco de los Figueroa, Iguala de la Independencia, Ixcateopan de Cuauhtémoc, Iliatenco, José Joaquín de Herrera, Juan R. Escudero, Leonardo Bravo, Malinaltepec, Mártir de Cuilapan, Metlatónoc, Mochitlán, Olinalá, Pedro Ascencio Alquisiras, Pilcaya, Pungarabato, Quechultenango, San Miguel Totolapan, Taxco de Alarcón, Teloloapan, Tepecoacuilco de Trujano, Tetipac, Tixtla de Guerrero, Tlacoapa, Tlalchapa, Tlalixtaquilla de Maldonado, Tlapa de Comonfort, Tlapehuala, Xalpatláhuac, Xochihuehuetlán, Santa Cruz del Rincón, Ñuu Savi, Zapotitlán Tablas, Zirándaro y Zitlala, realizarán sus trámites correspondientes en la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero cuyo domicilio se encuentra ubicado en la calle de Zaragoza esquina 16 de septiembre, Edificio Juan Álvarez 1er. Piso colonia centro C.P. 39000, Chilpancingo, Guerrero.
 
-Para efectos de la recepción de avisos, documentos e informes relacionados con el dictamen estatal, los contribuyentes cuya circunscripción territorial corresponda a los municipios de Acapulco de Juárez, Atoyac de Álvarez, Ayutla de los Libres, Azoyú, Benito Juárez, Coahuayutla de José María Izazaga, Copala, Coyuca de Benítez, Cuajinicuilapa, Cuautepec, Florencio Villarreal, Igualapa, José Azueta, Juchitán, La Unión, Marquelia, Ometepec, Petatlán, San Luis Acatlán, San Marcos, Tecoanapa, Tecpan de Galeana, Tlacoachistlahuaca y Xochistlahuaca, realizaran sus trámites correspondientes, en la oficina de Revisión de Dictámenes en Acapulco dependiente de la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero cuyo domicilio se encuentra ubicado en la calle Quebrada número 30 Planta Alta, colonia centro C.P. 39300, Acapulco, Guerrero.
+Para efectos de la recepción de avisos, documentos e informes relacionados con el dictamen estatal, las personas contribuyentes cuya circunscripción territorial corresponda a los municipios de Acapulco de Juárez, Atoyac de Álvarez, Ayutla de los Libres, Azoyú, Benito Juárez, Coahuayutla de José María Izazaga, Copala, Coyuca de Benítez, Cuajinicuilapa, Cuautepec, Florencio Villarreal, Igualapa, José Azueta, Juchitán, La Unión, Marquelia, Ometepec, Petatlán, San Luis Acatlán, San Marcos, Tecoanapa, Tecpan de Galeana, Tlacoachistlahuaca, Xochistlahuaca, Las Vigas y San Nicolás, realizarán sus trámites correspondientes, en la oficina de Revisión de Dictámenes en Acapulco dependiente de la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero cuyo domicilio se encuentra ubicado en la calle Quebrada número 30 Planta Alta, colonia centro C.P. 39300, Acapulco, Guerrero.
 
-Además de los anteriores requisitos el solicitante deberá:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Además de los anteriores requisitos la persona solicitante deberá:
 
 1. Estar inscrito en el registro federal de contribuyentes, con cualquiera de las claves y regímenes de tributación que a continuación se señalan:
 
@@ -1503,9 +1619,13 @@ c) Servicios profesionales para los efectos del Régimen de las Personas Física
 
 8. Manifestar, bajo protesta de decir verdad, que no ha participado en la comisión de un delito de carácter fiscal.
 
-V. La Secretaría de Finanzas y Administración del Gobierno del Estado proporcionará al Contador Público que haya cumplido con los requisitos mencionados en la fracción IV de este artículo, su registro correspondiente en un plazo no mayor de 15 días hábiles contados a partir de la fecha en que se integró debidamente la solicitud, debiendo recoger su oficio de constancia de registro, según lo estipulado en los párrafos segundo y tercero de la fracción IV del citado artículo.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-Anualmente, el contador público inscrito deberá obtener las siguientes constancias:
+V. La Secretaría de Finanzas y Administración del gobierno del estado proporcionará a la persona profesional de la contaduría pública que haya cumplido con los requisitos mencionados en la fracción IV de este artículo, su registro correspondiente en un plazo no mayor de 15 días hábiles contados a partir de la fecha en que se integró debidamente la solicitud, debiendo recoger su oficio de constancia de registro, según lo estipulado en los párrafos segundo y tercero de la fracción IV del citado artículo.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Anualmente, la contadora o contador público inscrito deberá obtener las constancias siguientes:
 
 1. Aquélla a que se refiere el artículo 106 fracción IV cuarto párrafo número 4 de este Código que lo acredite como miembro activo de un colegio profesional o de una asociación de contadores públicos, que tengan reconocimiento por parte de la Secretaría de Educación Pública o de la autoridad educativa estatal; y
 
@@ -1907,6 +2027,10 @@ d) Que se destruya, ordene o permita la destrucción total o parcial de la conta
 
 e) Que se microfilmen o graven en discos ópticos o en cualquier otro medio que autorice la Secretaría de Finanzas y Administración mediante reglas de carácter general, documentación o información para efectos fiscales sin cumplir con los requisitos que establecen las disposiciones relativas. El agravante procederá sin perjuicio de que los documentos microfilmados o gravados en discos ópticos o en cualquier otro medio de los autorizados, en contravención de las disposiciones fiscales, carezcan de valor probatorio.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+f) Que no se inscriba en el Registro Estatal de Contribuyentes en el plazo establecido en este Código.
+
 III. Se considera también agravante, la omisión en el entero de contribuciones que se hayan retenido o recaudado de los contribuyentes.
 
 IV. Igualmente es agravante, el que la comisión de la infracción sea en forma continuada.
@@ -1935,7 +2059,9 @@ II. Se disminuirán en un 20% el monto de las contribuciones omitidas o del bene
 
 La Secretaría de Finanzas y Administración y sus dependencias impondrán las sanciones administrativas a las infracciones cuya responsabilidad recae sobre los sujetos pasivos o responsables solidarios a una prestación fiscal, en los términos siguientes:
 
-I. No cumplir con las obligaciones que señalan las disposiciones fiscales de inscribirse o registrarse en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas y Administración, o hacerlo fuera de los plazos legales; no incluir en las manifestaciones para su inscripción en el Registro de Contribuyentes que corresponda las actividades por las que sea causante habitual; de diez hasta treinta Unidades de Medida y Actualización.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+I. No cumplir con las obligaciones que señalen las disposiciones fiscales de inscribirse o registrarse en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas y Administración, o hacerlo fuera de los plazos legales; no incluir en las manifestaciones para su inscripción en el registro de contribuyentes que corresponda las actividades por las que sea causante habitual; de doce hasta treinta y dos Unidades de Medida y Actualización.
 
 No citar correctamente en la solicitud de inscripción o avisos al Registro Estatal de Contribuyentes, las actividades por las que sea contribuyente habitual, no citar la clave de Registro Federal de Contribuyentes o utilizar alguna distinta, de cinco a quince Unidades de Medida y Actualización.
 
@@ -1985,7 +2111,9 @@ XII. Eludir el pago de las prestaciones fiscales como consecuencia de inexactitu
 
 XIII. Traficar con los documentos o comprobantes de pago de prestaciones fiscales, o hacer uso ilegal de ellos; de $2,000 a $6,000 pesos.
 
-XIV. Resistirse por cualquier medio, a las visitas de inspección, no suministrar los datos e informes que legalmente pueden exigir los inspectores o auditores, no mostrar los sistemas de contabilidad, documentos, registros o impedir el acceso a los almacenes, depósitos, bodegas o cualquiera otra dependencia y en general negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado, en relación con el objeto de la visita domiciliaria; de $2,000 a $8,000 pesos.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+XIV. Resistirse por cualquier medio, a la visita o verificación, no suministrar los datos e informes que legalmente puedan solicitar las personas visitadoras, notificadoras o auditoras, no mostrar los sistemas de contabilidad, documentos, registros o impedir el acceso a los almacenes, depósitos, bodegas o cualquiera otra dependencia y en general negar el acceso a las personas visitadoras y a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado, en relación con el objeto de la visita domiciliaria o inspección; $2,500.00 a $7,500.00 pesos.
 
 XV. No conservar los libros, documentos y correspondencia que les sean dejados en calidad de depositarios, por los visitadores, al estarse practicando visitas domiciliarias; de $2,000 a $8,000 pesos.
 
@@ -2081,6 +2209,10 @@ XIX. Infringir disposiciones fiscales en forma distinta de las previstas en las 
 
 XX. Cuando no se deje citatorio, no se realice la diligencia a la hora exacta, llenar parcialmente los campos del acta de notificación, alterar los datos del acta de notificación, asentar datas (sic) falsos en el acta de notificación, no recabar la firma del contribuyente o del propio notificador, no circunstanciar los hechos cuando se niegue el contribuyente a recibir u oponer resistencia, realizar la diligencia fuera del horario normal, en general todos los actos dolosos que tengan el fin (sic) no hacer efectivo el crédito fiscal, a los notificadores, visitadores y ejecutores se les impondrá una multa de cinco a hasta diez Unidades de Medida y Actualización.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+XXI. Dar de alta en el Registro Estatal de Contribuyentes, los vehículos de procedencia extranjera al amparo de documentos que no acrediten su legal estancia en el País y la propiedad del mismo, conforme lo establece el artículo 73 de la Ley de Hacienda del Estado de Guerrero, de 150 a 200 Unidades de Medida y Actualización.
+
 #### SECCIÓN SÉPTIMA. DE LAS INFRACCIONES Y SANCIONES CUYA RESPONSABILIDAD RECAE SOBRE TERCEROS
 
 ###### Artículo 125.
@@ -2125,11 +2257,15 @@ XVIII. No conservar los libros, documentos, correspondencia que les sean dejados
 
 XIX. Infringir disposiciones fiscales en formas distintas de las previstas en las fracciones precedentes; de $100 hasta $8,000 pesos el costo de la infracción.
 
-#### SECCIÓN OCTAVA. DE LAS INFRACCIONES Y SANCIONES CUYA RESPONSABILIDAD RECAE SOBRE PERITOS VALUADORES DE BIENES INMUEBLES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+#### SECCIÓN OCTAVA. DE LAS INFRACCIONES Y SANCIONES CUYA RESPONSABILIDAD RECAE SOBRE PERSONAS PERITAS VALUADORAS DE BIENES INMUEBLES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 126.
 
-Son infracciones y sanciones cuya responsabilidad recae en los peritos valuadores inscritos en el Registro Estatal, cuando de las supervisiones realizadas a sus trabajos de valuación inmobiliaria, se detecten deficiencias por la incorrecta aplicación de los criterios de dicha valuación que afecten las bases de tributación, al efecto las autoridades fiscales les aplicarán las siguientes sanciones:
+Son infracciones y sanciones cuya responsabilidad recae en las personas peritas valuadoras inscritas en el Registro de Peritos Valuadores con Fines Fiscales del Estado de Guerrero, cuando de las supervisiones realizadas a sus trabajos de valuación inmobiliaria, se detecten deficiencias por la incorrecta aplicación de los criterios de dicha valuación que afecten las bases de tributación, al efecto las autoridades fiscales les aplicarán las sanciones siguientes:
 
 I. Amonestación por escrito:
 
@@ -2137,9 +2273,13 @@ a) Cuando en la revisión de los avalúos se determine que los datos no correspo
 
 b) Por cambiar de domicilio fiscal sin dar el aviso correspondiente a la Secretaría de Finanzas y Administración.
 
-c) Por cualquier otro incumplimiento a las disposiciones normativas que establecen las Leyes de Hacienda del Estado, Reglamento de Valuación Inmobiliaria con Fines Fiscales y del Registro de Peritos Valuadores del Estado de Guerrero y al presente Código.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-d) Por la incorrecta aplicación de los valores unitarios de suelo y construcción y deficiente empleo de los factores de eficiencia por abajo de lo establecido en el Reglamento de Valuación Inmobiliaria con Fines Fiscales y del Registro de Peritos Valuadores del Estado de Guerrero.
+c) Por cualquier otro incumplimiento a las disposiciones normativas que establecen las Leyes de Hacienda del Estado, Reglamento de Valuación Inmobiliaria y del Registro de Peritos Valuadores con Fines Fiscales del Estado de Guerrero y al presente Código.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+d) Por la incorrecta aplicación de los valores unitarios de suelo y construcción y deficiente empleo de los factores de eficiencia por abajo de lo establecido en el Reglamento de Valuación Inmobiliaria y del Registro de Peritos Valuadores con Fines Fiscales del Estado de Guerrero.
 
 e) Previa evaluación de resolución de la autoridad judicial.
 
@@ -2155,25 +2295,71 @@ III. Cancelación del registro por:
 
 a) Haber obtenido el registro con información y/o documentación falsa.
 
-b) Por violaciones graves y reiteradas a las disposiciones contenidas en la Ley de Hacienda del Estado, Reglamento de Valuación Inmobiliaria con Fines Fiscales y del Registro de Peritos Valuadores del Estado de Guerrero y al presente Código, relativos a la práctica y formulación de avalúos; y
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-c) Ser condenado mediante sentencia que cause ejecutoria y que amerite privación de la libertad.
+b) Por violaciones graves y reiteradas a las disposiciones contenidas en la Ley de Hacienda del Estado, Reglamento de Valuación Inmobiliaria y del Registro de Peritos Valuadores con Fines Fiscales del Estado de Guerrero y al presente Código, relativos a la práctica y formulación de avalúos, y
 
-Al perito valuador que se le suspenda temporalmente, no podrá realizar avalúos con fines fiscales durante ese período, sujetándose su reinscripción a los requisitos establecidos en el Reglamento de Valuación Inmobiliaria con Fines Fiscales y del Registro de Peritos Valuadores del Estado de Guerrero. En el momento de la suspensión el perito valuador, reportará los avalúos hechos hasta esta fecha, así como los pendientes, quedando apercibido de que los no reportados carecerán de validez.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-El nombre y el número que les corresponderá a los peritos valuadores registrados, así como de los que se les aplique la suspensión o cancelación del registro se hará del conocimiento de las siguientes instituciones:
+c) Ser condenada o condenado mediante sentencia que cause ejecutoria y que amerite privación de la libertad.
 
-a) Colegio de Valuadores Posgraduados del Estado de Guerrero A.C.
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-b) Notarios Públicos.
+d) Por haber utilizado información falsa o altere un avalúo ya autorizado, se aplicará lo previsto en el artículo 347 del Código Penal del Estado Libre y Soberano de Guerrero.
 
-c) Dirección de Registro Público de la Propiedad, del Comercio y Crédito Agrícola.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-d) Administraciones y Agencias Fiscales Estatales; y
+A la persona perita valuadora que se le suspenda temporalmente, no podrá realizar avalúos con fines fiscales durante ese período, sujetándose su reinscripción a los requisitos establecidos en el Reglamento de Valuación Inmobiliaria y del Registro de Peritos Valuadores con Fines Fiscales del Estado de Guerrero. En el momento de la suspensión la persona perita valuadora, reportará los avalúos hechos hasta esta fecha, así como los pendientes, quedando apercibido de que los no reportados carecerán de validez.
 
-e) Tesorerías municipales.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-Cuando los Peritos Valuadores cometan alguna infracción distinta a las previstas en el presente Capítulo, se hará del conocimiento de la autoridad competente, independientemente de la imposición de las sanciones previstas en este Código.
+El nombre y el número que les corresponderá a las personas peritas valuadoras registradas, así como de los que se les aplique la suspensión o cancelación del registro se hará del conocimiento a las instituciones siguientes:
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+a) Colegio de Valuadores Posgraduados del Estado de Guerrero A.C.;
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+b) Las personas titulares de las Notarías Públicas;
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+c) Dirección de Registro Público de la Propiedad, del Comercio y Crédito Agrícola;
+
+d) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2023)
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+e) Direcciones de Catastro Municipales.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Cuando las personas peritas valuadoras cometan alguna infracción distinta a las previstas en el presente capítulo, se hará del conocimiento de la autoridad competente, independientemente de la imposición de las sanciones previstas en este Código.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+IV. Multas.
+
+1. En caso de persistencia de reincidencias por errores u omisión en la captura de información por parte de las o los peritos, se sancionará con una determinada cantidad de UMAS por falsedad u omisión de la información, conforme se establece en esta fracción se sancionará con una multa equivalente de 20 a 48 UMAS cuando:
+
+a) Exista falsedad del domicilio de la persona solicitante;
+
+b) Reportar un avaluó como lote baldío cuando exista construcción;
+
+c) Reportar un terreno rustico por urbano;
+
+d) Reportar fotografías no correspondientes al inmueble del avaluó;
+
+e) Modificación o alteración del avaluó certificado, y
+
+f) Deslindes catastrales no firmados o alterados.
+
+2. Se sancionará con una multa equivalente de 10 a 30 UMAS en General cuando exista omisión de cualquier información solicitada en el avaluó.
+
+3. Se sancionará con una multa equivalente de 50 a 100 UMAS cuando exista alteración de avalúos finalizados.
+
+4. En caso de la segunda reincidencia o persistencia de falsedad u omisión de la información, se procederá a aplicar una sanción de 500 a 1000 UMAS.
 
 ### CAPÍTULO II. DE LOS DELITOS FISCALES
 
@@ -2355,17 +2541,27 @@ a) Personalmente o por correo certificado con acuse de recibo cuando se trate de
 
 Las notificaciones también se podrán efectuar en el último domicilio que el interesado haya señalado ante las autoridades fiscales. Asimismo, podrán realizarse en el domicilio que hubiere designado para recibir notificaciones al iniciar alguna instancia o en el curso de un procedimiento administrativo, tratándose de las actuaciones relacionadas con el trámite o la resolución de los mismos. A falta de señalamientos, se estará a lo establecido en el inciso b) fracción II de este artículo y los demás relativos del propio Código.
 
-Cuando la notificación se efectúe personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio en el domicilio, señalando el día y la hora en que se actúa, y que el objeto del mismo es para que el destinatario de la notificación espere en dicho lugar a una hora fija del día hábil posterior que se señale en el mismo; en caso de que en el domicilio no se encuentre alguna persona con quien pueda llevarse a cabo la diligencia o quien se encuentre se niegue a recibir el citatorio, éste se fijará en el acceso principal de dicho lugar y de ello, el notificador levantará una constancia.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-El día y hora de la cita, el notificador deberá constituirse en el domicilio del interesado, y deberá requerir nuevamente la presencia del destinatario y notificarlo, pero si la persona citada o su representante legal no acudiera a la cita, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino. En caso de que estos últimos se negasen a recibir la notificación, ésta se hará por cualquiera de los medios previstos en esta fracción.
+Cuando la notificación se efectúe personalmente y la persona notificadora no encuentre a quien deba notificar, le dejará citatorio en el domicilio, señalando el día y la hora en que se actúa, y que el objeto del mismo es para que la persona destinataria de la notificación espere en dicho lugar a una hora fija del día hábil siguiente que se señale en el mismo; en caso de que en el domicilio no se encuentre alguna persona con quien pueda llevarse a cabo la diligencia o quien se encuentre se niegue a recibir el citatorio, éste se fijará en el acceso principal de dicho lugar y de ello, la persona notificadora levantará una acta circunstanciada.
 
-En el momento de la notificación se entregará al notificado o, a la persona con quien se entienda la diligencia, copia del documento a que se refiere la notificación, asentándose razón por el notificador.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+El día y hora de la cita, la persona notificadora deberá constituirse en el domicilio de la persona interesada, y deberá requerir nuevamente la presencia de la persona destinataria y notificarle, pero si la persona citada o su representante legal no acudiera a la cita, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con una persona vecina o vecino. En caso de que estos últimos se negasen a recibir la notificación, ésta se hará por cualquiera de los medios previstos en esta fracción.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+En el momento de la notificación se entregará a la persona que se notifica o a la persona con quien se entienda la diligencia, copia del documento a que se refiere la notificación, asentándose razón por la persona notificadora.
 
 Las notificaciones practicadas en los términos de los párrafos anteriores se tendrán por hechas en forma legal.
 
 b) Por edicto que se publique una sola vez en el Periódico Oficial del Estado y durante tres días consecutivos en uno de los periódicos de mayor circulación, cuando el causante a notificar haya desaparecido, se ignore su domicilio en la entidad, se encuentra en el extranjero sin haber dejado representante legal, o hubiere fallecido y no se conozca al albacea de la sucesión.
 
 c) Por estrados, cuando la persona a quien deba notificarse desaparezca después de haberse iniciado tanto el procedimiento administrativo de ejecución, como después de haberse iniciado las facultades de comprobación, se opongan a la diligencia de notificación o no haya notificado su cambio de domicilio, después de que la autoridad le haya notificado la orden de visita o un crédito fiscal y antes que este se haya garantizado, pagado o quedado sin efecto y en los demás casos que señalen las leyes fiscales. Esta notificación se hará fijando durante 10 días hábiles el documento que se pretenda notificar en un sitio abierto al público de la oficina de la autoridad que efectúe la notificación y publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales, dicho plazo se contará a partir del día siguiente a aquél en que el documento fue publicado. La autoridad deberá dejar constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del decimoprimer día hábil contado a partir del día siguiente a aquél en el que se hubiera fijado o publicado el documento.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Aunado al párrafo que antecede, la autoridad dejará constancia en acta debidamente circunstanciada del inicio de la publicación electrónica y también deberá circunstanciar claramente el día del vencimiento de la publicación donde se levantó por el término transcurrido.
 
 d) En los demás casos por medio de oficios o telegramas.
 
@@ -2379,31 +2575,49 @@ Si las notificaciones se refieren a requerimientos para el cumplimiento de oblig
 
 Las notificaciones también podrán hacerse en las oficinas de las autoridades fiscales, si las personas a quienes se tiene que notificar se presentaren en las mismas. Gozarán de plena validez y legalidad, la notificación realizada con quien deba entenderse, aun cuando no se efectúe en el domicilio respectivo o en las oficinas de las autoridades fiscales, siempre y cuando se apegue a lo dispuesto por (sic) artículo 16 del presente ordenamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 153.
 
-Los actos administrativos que se deban notificar deberán contar con los siguientes elementos:
+Los actos administrativos que se deban notificar contarán con los elementos siguientes:
 
 I. Constar por escrito en documento impreso o digital.
 
-Tratándose de actos administrativos que consten en documentos digitales y deban ser notificados personalmente o por medio del buzón tributario, deberán transmitirse codificados a los destinatarios.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-II. Señalar nombre, razón social o domicilio del contribuyente a quien va dirigido, o en su caso al representante o apoderado legal; cuando se ignore el nombre de la persona a la que va dirigido se señalaran los datos suficientes que permitan su identificación.
+Tratándose de actos administrativos que consten en documentos digitales y deban ser notificados personalmente o por medio del buzón tributario, deberán transmitirse codificados a las personas destinatarias signadas con la firma electrónica de la persona servidora pública competente que los emita.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+II. Señalar nombre, razón social o domicilio de la persona contribuyente a quien va dirigido, o en su caso a la persona que la represente legalmente o sea su apoderada legal; cuando se ignore el nombre de la persona a la que va dirigido se señalarán los datos suficientes que permitan su identificación.
 
 III. Señalar la autoridad que lo emite, así como el lugar y fecha de emisión.
 
-IV. Estar fundado y motivado y expresar la resolución, objeto o propósito de que se trate.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+IV. Estar fundado, motivado y expresar la resolución determinante del objeto o propósito de que se trate.
 
 V. Puntos resolutivos.
 
-VI. Ostentar la firma del funcionario competente, en el caso de resoluciones administrativas que consten en documentos digitales, deberán contener la firma electrónica avanzada del funcionario competente, la que tendrá el mismo valor que la firma autógrafa.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-En caso de resoluciones administrativas que consten en documentos impresos, el funcionario competente podrá expresar su voluntad para emitir la resolución plasmando en el documento impreso un sello expresado en caracteres, generado mediante el uso de su firma electrónica avanzada y amparada por un certificado vigente a la fecha de la resolución.
+VI. Ostentar, de puño y letra, la firma de la persona servidora pública competente y, en el caso de resoluciones administrativas que consten en documentos digitales, deberán contener la firma electrónica avanzada de la persona servidora pública competente, la que tendrá el mismo valor que la firma autógrafa.
 
-Para dichos efectos, la impresión de caracteres consistente en el sello resultado del acto de firmar con la firma electrónica avanzada amparada por un certificado vigente a la fecha de la resolución, que se encuentre contenida en el documento impreso, producirá los mismos efectos que las Leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-Asimismo, la integridad y autoría del documento impreso que contenga la impresión del sello resultado de la firma electrónica avanzada y amparada por un certificado vigente a la fecha de la resolución, será verificable mediante el método de remisión al documento original con la clave pública del autor.
+En caso de resoluciones administrativas que consten en documentos impresos, la persona servidora pública competente podrá emitir la resolución plasmando en el documento impreso un sello expresado en caracteres, generado mediante el uso de su firma electrónica avanzada y amparada por un certificado vigente a la fecha de la resolución.
 
-Cuando se ignore el nombre de la persona a la que vaya dirigida, se señalarán los datos suficientes que permitan su identificación.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Para dichos efectos, la impresión de caracteres consistente en el sello resultado del acto de firmar con la firma electrónica avanzada amparada por un certificado vigente a la fecha de la resolución, que se encuentre contenida en el documento impreso, producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Asimismo, la integridad y autoría del documento impreso que contenga la impresión del sello resultado de la firma electrónica avanzada y amparada por un certificado vigente a la fecha de la resolución, será verificable mediante el método de remisión al documento original con la clave pública de la persona autora.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Cuando se ignore el nombre de la persona a la que vaya dirigida el acto administrativo que se pretenda notificar, se señalarán los datos suficientes que permitan su identificación.
 
 Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria se señalará, además, la causa legal de la responsabilidad.
 
@@ -2417,15 +2631,23 @@ II. Las que se hagan por telegrama desde el día siguiente al de la fecha en que
 
 III. Las que se practiquen por oficio:
 
-a) Desde el día hábil siguiente al en que lo recibiere el destinatario o quien lo represente.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-b) Desde el día hábil siguiente a aquél en que se entregue a través de un funcionario o empleado de una dependencia fiscal, o se trate de notificaciones por correo certificado con acuse de recibo.
+a) Desde el día hábil siguiente en que lo reciba el destinatario o quien lo represente.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+b) Desde el día hábil siguiente a aquél en que se entregue a través de una persona servidora pública de una dependencia fiscal, o se trate de notificaciones por correo certificado con acuse de recibo.
 
 IV. Las que se hagan por edicto desde el día siguiente hábil al de la última publicación.
 
-V. Desde la fecha en que el interesado o su representante manifiesten que conocen la resolución o acuerdo respectivo si lo hacen con anterioridad a la fecha en que la notificación deba surtir efectos, de acuerdo con las fracciones anteriores.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-VI. Las que se hagan por estrados, se tendrá como fecha de notificación, la del décimo sexto día hábil contado a partir del día siguiente a aquel en que se hubiera fijado y publicado el documento.
+V. Desde la fecha en que la persona interesada o la persona que la represente manifieste que conoce la resolución o acuerdo respectivo si lo hacen con anterioridad a la fecha en que la notificación deba surtir efectos, de acuerdo con las fracciones anteriores.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+VI. Las que se hagan por estrados, se tendrá como fecha de notificación, la del décimo primer día hábil contado a partir del día siguiente a aquel en que se haya fijado y publicado el documento.
 
 ###### Artículo 155.
 
@@ -2459,6 +2681,12 @@ No satisfecho o garantizado un crédito a favor del erario del Estado dentro del
 
 En ningún caso se aplicará el procedimiento administrativo de ejecución, para cobrar créditos derivados por concepto de productos.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 159 Bis.
+
+La Dirección General de Cobro Coactivo y Vigilancia de la Secretaría de Finanzas y Administración, en el ejercicio de sus facultades emplearán el procedimiento administrativo de ejecución para hacer efectivo los créditos y multas de carácter no fiscal, a las autoridades administrativas federales y estatales, así como infractores domiciliados dentro de la circunscripción territorial del estado de Guerrero.
+
 ###### Artículo 160.
 
 Los vencimientos que ocurran durante el procedimiento administrativo de ejecución, incluso recargos, gastos de ejecución, y cualesquiera otros, se harán efectivos junto con el crédito inicial.
@@ -2471,9 +2699,13 @@ I. Si la exigibilidad se origina por situaciones previstas en el artículo 53 de
 
 II. Al día siguiente de vencido el plazo para el pago del crédito fiscal respectivo, la dependencia recaudadora donde radique el cobro, formulará la liquidación del adeudo e iniciará el procedimiento administrativo de ejecución, con mandamiento debidamente motivado y fundado, ordenando que se notifique al deudor el crédito determinado a su cargo, para que efectúe el pago en la caja de la propia dependencia, dentro de los cinco días siguientes a aquel en que surta efectos la notificación, precisando que el cumplimiento del pago dentro del plazo antes mencionado, no exime al contribuyente de cubrir la sanción a que se ha hecho acreedor conforme a lo dispuesto por el artículo 122 de este Código.
 
-III. Para el caso de que se hubiere celebrado convenio con el deudor para el pago a plazos de un crédito vencido y uno de ellos no sea cubierto oportunamente, se dará por terminado el convenio, procediéndose a su cobro como lo señalan las fracciones precedentes.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-IV. Transcurrido el término que señala la fracción anterior, se ordenará requerir al deudor para que se efectúe el pago y en caso de no hacerlo en la misma diligencia se le embargarán bienes de su propiedad suficientes para garantizar el crédito fiscal y sus accesorios.
+III. Para el caso de que se haya celebrado convenio con la persona deudora para el pago a plazos de un crédito vencido y uno de ellos no sea cubierto oportunamente, se dará por terminado el convenio, procediéndose a cobrar la totalidad del crédito determinado, como lo señalan las fracciones precedentes.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+IV. Transcurrido el término que señala la fracción anterior, se ordenará requerir a la persona deudora para que se efectúe el pago y en caso de no hacerlo en la misma diligencia se le embargarán bienes de su propiedad suficientes para cubrir el crédito fiscal y sus accesorios.
 
 ###### Artículo 162.
 
@@ -2487,17 +2719,25 @@ Cuando en los casos de las fracciones anteriores el 2% del crédito sea inferior
 
 En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán excederse de la cantidad equivalente a dos Unidades de Medida y Actualización elevadas al año.
 
-Asimismo, se pagarán por concepto de gastos de ejecución las erogaciones extraordinarias en que se incurra con motivo del procedimiento administrativo de ejecución, las que únicamente comprenderán los gastos de transporte de los bienes embargados, de avalúo, de impresión y publicación de convocatorias y edictos, de inscripción o cancelación de gravámenes en el Registro Público que corresponda, a los erogados por la obtención del certificado de libertad de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Asimismo, se pagarán por concepto de gastos de ejecución las erogaciones extraordinarias en que se incurra con motivo del procedimiento administrativo de ejecución, las que únicamente comprenderán los gastos de transporte de los bienes embargados, de avalúo, de impresión y publicación de convocatorias y edictos, de inscripción o cancelación de gravámenes en el Registro Público de la propiedad, del Comercio y Crédito Agrícola que corresponda, a los erogados por la obtención del certificado de libertad de gravámenes, los honorarios de las personas depositarias y de las personas peritas valuadoras, así como los honorarios de las personas que contraten las personas interventoras.
 
 Los gastos de ejecución se determinarán por la autoridad ejecutora debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de oposición al procedimiento administrativo de ejecución.
 
-Los ingresos recaudados por concepto de gastos de ejecución, se destinarán al establecimiento de un fondo revolvente para gastos de cobranza, para programas de fomento con el público en general del cumplimiento de las obligaciones fiscales, para financiar los programas de formación de funcionarios fiscales, salvo que por Ley estén destinados a otros fines. El destino de estos ingresos será con independencia del presupuesto que tengan asignado las autoridades fiscales estatales.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-No se ejecutarán los actos administrativos cuando se garantice el interés fiscal, satisfaciendo los requisitos legales. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de treinta días. Si dentro de dicho plazo se acredita la impugnación que se haya intentado y se garantiza el interés fiscal satisfaciendo los requisitos legales, se suspenderá el Procedimiento Administrativo de Ejecución Fiscal.
+Los ingresos recaudados por concepto de gastos de ejecución, se destinarán al establecimiento de un fondo revolvente para gastos de cobranza, para programas de fomento con el público en general del cumplimiento de las obligaciones fiscales, para financiar los programas de formación de personas servidoras públicas fiscales, salvo que por Ley estén destinados a otros fines. El destino de estos ingresos será con independencia del presupuesto que tengan asignado las autoridades fiscales estatales.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+No se ejecutarán los actos administrativos cuando se garantice el interés fiscal, satisfaciendo los requisitos legales. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de treinta días hábiles. Si dentro de dicho plazo se acredita la impugnación que se haya intentado y se garantiza el interés fiscal satisfaciendo los requisitos legales, se suspenderá el Procedimiento Administrativo de Ejecución.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 163.
 
-El requerimiento se hará personalmente, pero cuando el deudor no se encuentre en la primera búsqueda, se procederá en los términos del artículo 151 Fracción II inciso a).
+El requerimiento se hará personalmente, pero cuando la persona deudora no se encuentre en la primera búsqueda, se procederá en los términos del artículo 151 fracción II inciso a), de esté Código.
 
 ###### Artículo 164.
 
@@ -2507,25 +2747,39 @@ Cuando la autoridad fiscal por cualquier motivo no haya localizado al deudor o a
 
 Para iniciar un procedimiento de cobro en contra de un responsable solidario de crédito fiscal, será necesario hacerle notificación en la que se expresará:
 
-I. Nombre del causante.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-II. La resolución de la que se derive el crédito fiscal y el monto de éste.
+I. Nombre de la persona contribuyente;
 
-III. Los motivos y fundamentos por los que se considere responsable del crédito; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-IV. El plazo para el pago, el cual será de cinco días salvo que la Ley señale otro.
+II. La resolución de la que se derive el crédito fiscal y el monto de éste;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+III. Los motivos y fundamentos por los que se considere responsable del crédito, y
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+IV. El plazo para el pago, el cual será de seis días hábiles salvo que la Ley señale otro.
 
 #### SECCIÓN SEGUNDA. DEL EMBARGO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 166.
 
-Se podrá practicar embargo precautorio, sobre los bienes o la negociación del contribuyente conforme a lo establecido en el presente Código.
+Se podrá practicar embargo precautorio, sobre los bienes o la negociación de la persona contribuyente conforme a lo establecido en el presente Código.
 
-Procederá el embargo precautorio cuando el contribuyente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Procederá el embargo precautorio cuando la persona contribuyente:
 
 a) Haya desocupado el domicilio fiscal sin haber presentado el aviso de cambio de domicilio, después de haberse envido (sic) la determinación respectiva.
 
-b) Se oponga a la práctica de la notación de la determinación de los créditos fiscales correspondientes.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+b) Se oponga a la práctica de la notificación de la determinación de los créditos fiscales correspondientes.
 
 c) Tenga créditos fiscales que debieran estar garantizados, y no lo estén, o la garantía resulte insuficiente, excepto cuando haya declarado, bajo protesta de decir verdad, que son los únicos bienes que posee.
 
@@ -2585,29 +2839,45 @@ A más tardar al tercer día hábil siguiente a aquél en que hubiera tenido lug
 
 Para los efectos de este Código, se entenderá como entidad financiera a las instituciones de crédito, instituciones de seguros que ofrecen seguros de vida, administradoras de fondos para el retiro, uniones de crédito, casas de bolsa, sociedades financieras populares, sociedades de inversión en renta variable, sociedades de inversión en instrumentos de deuda, sociedades operadoras de sociedades de inversión y sociedades que presten servicios de distribución de acciones de sociedades de inversión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 170.
 
-El ejecutor trabará embargo sobre los bienes bastantes para garantizar las prestaciones pendientes de pago y los gastos de ejecución, poniendo todo lo embargado, previa identificación, bajo la guarda de los depositarios que fueren necesarios y que los hubiere designado anticipadamente la Secretaría de Finanzas y Administración, cuando no hubiere tal designación, el ejecutor podrá designarlo en el mismo acto de la diligencia.
+La persona ejecutora trabará embargo sobre los bienes bastantes para garantizar los créditos fiscales pendientes de pago y los gastos de ejecución, poniendo todo lo embargado, previa identificación, bajo la guarda de los depositarios que sean necesarios y que los haya designado anticipadamente la Secretaría de Finanzas y Administración, cuando no haya tal designación, la persona ejecutora podrá designarlo en el mismo acto de la diligencia.
 
-Con excepción de los bienes a que se refiere el inciso f) del artículo 168 de este Código, los bienes embargados precautoriamente podrán, desde el momento en que se notifique el mismo y hasta que se levante, dejarse en posesión del contribuyente, siempre que para estos efectos actúe como depositario en los términos establecidos en el artículo 189, del presente Código.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-El contribuyente que actúe como depositario, deberá rendir cuentas mensuales a la autoridad fiscal competente respecto de los bienes que se encuentren bajo su custodia.
+Con excepción de los bienes a que se refiere el inciso f) del artículo 168 de este Código, los bienes embargados precautoriamente podrán, desde el momento en que se notifique el mismo y hasta que se levante, dejarse en posesión de la persona contribuyente, siempre que para estos efectos actúe como depositario en los términos establecidos en el artículo 189, del presente Código.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+La persona contribuyente que actúe como depositario, deberá rendir cuentas a la autoridad fiscal competente respecto de la existencia física de los bienes que se encuentren bajo su custodia, dentro de los tres días hábiles siguientes a la fecha en que les sea solicitado.
 
 Salvo tratándose de los bienes a que se refiere el artículo 174 de este Código, la autoridad fiscal deberá ordenar el levantamiento del embargo precautorio a más tardar al tercer día hábil siguiente a aquél en que se acredite que cesó la conducta que dio origen al embargo precautorio, o bien, que existe orden de suspensión emitida por autoridad competente.
 
-La autoridad requerirá al obligado para que dentro el término de diez días hábiles desvirtúe el monto por el que se realizó el embargo. El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+La autoridad requerirá a la persona obligada para que dentro del término de diez días hábiles desvirtúe el monto por el que se realizó el embargo. El embargo quedará sin efecto cuando la persona contribuyente cumpla con el requerimiento de pago.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 171.
 
-Las autoridades fiscales, una vez que haya transcurrido el término de treinta días de la notificación del crédito fiscal sin que se haya realizado el pago procederán a requerir al deudor, y en caso de no efectuar el pago en el acto procederán como sigue:
+Las autoridades fiscales, una vez que haya transcurrido el término de treinta días hábiles de la notificación del crédito fiscal, a que se refiere la fracción I del artículo 42 del presente Código, sin que se haya realizado el pago del mismo procederán a requerir a la persona contribuyente deudora, y en caso de no efectuar el pago en el acto procederán como sigue:
 
-I. A embargar bienes suficientes para en su caso rematarlos, enajenarlos fuera de subasta o adjudicarlos a favor del fisco.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+I. A embargar bienes suficientes para en su caso rematarlos, enajenarlos fuera de subasta o adjudicarlos a favor del fisco estatal.
 
 II. A embargar negociaciones con todo lo que de hecho y por derecho les corresponda, a fin de obtener, mediante la intervención de ellos, los ingresos necesarios que permitan satisfacer el crédito fiscal y los accesorios legales.
 
-El embargo de bienes raíces, de derechos reales o negociaciones de cualquier género se inscribirá en el Registro Público que le corresponda, en atención a la naturaleza de los bienes o derechos de que se trate.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-Dicho aseguramiento de bienes podrá realizarse a petición del interesado para garantizar un crédito fiscal.
+El embargo de bienes raíces, de derechos reales o negociaciones de cualquier género se inscribirá en el Registro Público de la Propiedad, del Comercio y Crédito Agrícola que le pertenezca, de acuerdo a la ubicación del bien, derechos reales o en el domicilio fiscal de la persona contribuyente, según corresponda, en atención a la naturaleza de los bienes o derechos de que se trate.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+El aseguramiento de bienes podrá realizarse a petición de la persona interesada para garantizar un crédito fiscal.
 
 ###### Artículo 172.
 
@@ -2655,7 +2925,9 @@ VII. Negociaciones comerciales, industriales y agrícolas.
 
 VIII. Créditos o derechos no comprendidos en la fracción III de este artículo.
 
-La persona con quien se entienda la diligencia de embargo podrá designar dos testigos, y si no lo hiciere o al terminar la diligencia los testigos designados se negaren a firmar, así lo hará constar el ejecutor en el acta, sin que tales circunstancias afecten la legalidad del embargo.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+La persona con quien se entienda la diligencia de embargo podrá designar dos personas que atestigüen, y si no lo hiciera o al terminar la diligencia las personas designadas para atestiguar se nieguen a firmar, así lo hará constar la persona ejecutora en el acta, debiendo la persona ejecutora nombrar las personas que atestigüen de entre las personas que se encuentren presentes en el momento del acto del embargo, sin que tales circunstancias afecten la legalidad de éste.
 
 ###### Artículo 175.
 
@@ -2743,17 +3015,21 @@ XII. Las pensiones civiles y militares concedidas por el Gobierno Federal o Esta
 
 XIII. Las tierras ejidales, no se incluyen en esta excepción las edificaciones en ellas existentes.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 182.
 
-El ejecutor trabará embargo sobre los bienes bastantes para garantizar las prestaciones pendientes de pago y los gastos de ejecución, poniendo todo lo embargado, previa identificación bajo la guarda de los depositarios que fueren necesarios y que los hubiere designado anticipadamente la Secretaría de Finanzas y Administración, cuando no hubiere tal designación, el ejecutor podrá designarlo en el mismo acto de la diligencia, pudiendo recaer el nombramiento en el ejecutado.
+La persona ejecutora trabará embargo sobre los bienes bastantes para garantizar los créditos pendientes de pago y los gastos de ejecución, poniendo todo lo embargado, previa identificación de cada bien, bajo la guarda de los depositarios que sean necesarios y que los haya designado anticipadamente la Secretaría de Finanzas y Administración. Cuando no existiera tal designación, la persona ejecutora podrá designarla en el mismo acto de la diligencia, pudiendo recaer el nombramiento en la persona contribuyente deudora.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 183.
 
-El embargo de bienes será notificado personalmente por el ejecutor a los deudores de créditos para que hagan el pago de las cantidades respectivas en las cajas de la Secretaría de Finanzas y Administración.
+El embargo de bienes será notificado personalmente por la persona ejecutora a las personas deudoras de créditos para que hagan el pago de las cantidades respectivas en las cajas de la Secretaría de Finanzas y Administración.
 
-Llegado el caso de que un deudor, en cumplimiento de lo dispuesto en el primer párrafo de este artículo, hiciere pago de un crédito cuya cancelación deba anotarse en el Registro Público de la Propiedad correspondiente, el Secretario de Finanzas y Administración requerirá al acreedor embargante para que dentro de los cinco días siguientes a la notificación firme la escritura de pago y cancelación o el documento en que se deba constatar el finiquito.
+Llegado el caso de que una persona deudora, en cumplimiento de lo dispuesto en el primer párrafo de este artículo, hiciera pago de un crédito cuya cancelación deba anotarse en el Registro Público de la Propiedad, del Comercio y Crédito Agrícola correspondiente, la Secretaría de Finanzas y Administración requerirá a la persona acreedora embargante para que dentro de los cinco días siguientes a la notificación firme la escritura de pago y cancelación o el documento en que se deba constatar el finiquito.
 
-En caso de omisión del acreedor embargante, transcurrido el plazo indicado, la Secretaría de Finanzas y Administración, firmará la escritura o documentos relativos en rebeldía de aquél, lo que hará del conocimiento del Registro Público de la Propiedad correspondiente, para los efectos procedentes.
+En caso de omisión de la persona acreedora embargante, transcurrido el plazo indicado, la Secretaría de Finanzas y Administración, firmará la escritura o documentos relativos en rebeldía de aquella, lo que hará del conocimiento del Registro Público de la Propiedad, del Comercio y Crédito Agrícola correspondiente, para los efectos procedentes.
 
 ###### Artículo 184.
 
@@ -2801,11 +3077,15 @@ V. Ejercitar ante las autoridades competentes las acciones y actos necesarios pa
 
 VI. Erogar los gastos de administración, mediante aprobación de la oficina ejecutora, cuando sean depositarios administradores o ministrar el importe de tales gastos previa la comprobación procedente, si sólo fueron depositarios interventores.
 
-VII. Rendir cuentas mensuales comprobadas a la oficina ejecutora.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+VII. La persona depositaria, deberá rendir cuentas a la autoridad fiscal competente respecto de la existencia física de los bienes que se encuentren bajo su custodia, dentro de los tres días hábiles siguientes a la fecha en que les sea solicitado.
 
 VIII. El depositario interventor que tuviere conocimiento de irregularidades en el manejo de las negociaciones sujetas a embargo o de operaciones que pongan en peligro los intereses del Fisco estatal, dictará las medidas provisionales urgentes que estime necesarias para proteger intereses y dará cuenta a la oficina ejecutora, la que podrá ratificarlas o modificarlas.
 
-Cuando las medidas a que se refiere esta fracción no fueren acatadas, la oficina ejecutora ordenará que cese la intervención con cargo a la caja y se convierta en administración.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Cuando las medidas a que se refiere esta fracción no sean acatadas, la oficina ejecutora ordenará que cese la intervención con cargo a la caja y se convierta en administración.
 
 IX. El interventor con cargo a la caja, recibirá por concepto de honorarios como pago por sus servicios, el equivalente a 7 Unidades de Medida y Actualización, sin que dicho importe sea superior al salario que percibe el administrador o gerente de la negociación intervenida, excepto cuando no exista esta figura en la negociación, los honorarios serán el equivalente al doble del salario del empleado de la negociación intervenida que perciba el mayor salario.
 
@@ -2823,11 +3103,13 @@ Tratándose de negociaciones que no constituyan una sociedad el interventor admi
 
 El interventor administrador recibirá por concepto de honorarios como pago por sus servicios, el equivalente a 14 Unidades de Medida y Actualización, sin que dicho importe sea superior al salario que percibe el administrador o gerente de la negociación intervenida. Cuando no exista esta figura en la negociación, los honorarios serán el equivalente a 4 veces el salario del empleado de la negociación intervenida que perciba el mayor salario.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 192.
 
-El embargo de bienes raíces, de derechos reales o de negociaciones de cualquier género, se inscribirá en el Registro Público de la Propiedad correspondiente.
+El embargo de bienes raíces, de derechos reales o de negociaciones de cualquier género, se inscribirá en el Registro Público de la Propiedad, del Comercio y Crédito Agrícola correspondiente.
 
-Cuando los bienes raíces, derechos reales o negociaciones queden comprendidos en la jurisdicción de dos o más oficinas del Registro Público, en todas ellas se inscribirá el embargo.
+Cuando los bienes raíces, derechos reales o negociaciones queden comprendidos en la jurisdicción de dos o más oficinas del Registro Público de la Propiedad, del Comercio y Crédito Agrícola, en todas ellas se inscribirá el embargo.
 
 ###### Artículo 193.
 
@@ -2843,13 +3125,17 @@ I. A partir del día siguiente a aquél en que se hubiese fijado la base para el
 
 II. Cuando el embargado no proponga comprador dentro de los plazos a que se refiere el artículo 215 de este Código.
 
-III. Al quedar firme la resolución confirmatoria del acto impugnado, recaída en los medios de defensa que se hubieren hecho valer.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+III. Al quedar firme la resolución confirmatoria del acto impugnado, recaída en los medios de defensa que se hayan interpuesto.
 
 ###### Artículo 195.
 
 Salvo los casos en que este Código autoriza, toda enajenación se hará en subasta pública que se celebrará en el local de la oficina ejecutora.
 
-La Secretaría de Finanzas y Administración con objeto de un mayor rendimiento, podrá designar otro lugar para la enajenación y ordenar que los bienes embargados se vendan en lote, fracciones o piezas sueltas.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+La Secretaría de Finanzas y Administración con objeto de un mayor rendimiento, podrá designar otro lugar para la enajenación y ordenar que los bienes embargados se vendan en lote, fracciones o piezas separadas.
 
 ###### Artículo 196.
 
@@ -2871,9 +3157,13 @@ La publicación de la convocatoria se hará cuando menos diez días antes de la 
 
 La convocatoria se fijará en un sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzgue conveniente.
 
-Cuando el valor de los muebles exceda cinco Unidades de Medida y Actualización elevadas al año. La convocatoria se publicará en el Periódico Oficial del Gobierno del Estado y en uno de los periódicos de mayor circulación sí lo hubiere dentro de la circunscripción de la oficina ejecutora, dos veces de siete en siete días.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-En todo caso a petición del deudor y previo pago del costo, la oficina ejecutora puede ordenar una publicidad más amplia, dentro del plazo señalado en el 1er. párrafo de este artículo.
+Cuando el valor de los muebles exceda cinco Unidades de Medida y Actualización elevadas al año, la convocatoria se publicará en el Periódico Oficial del Gobierno del Estado de Guerrero y en uno de los periódicos de mayor circulación sí existiera, dentro de la circunscripción territorial de la oficina ejecutora, dos veces de siete en siete días.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+En todo caso a petición de la persona deudora y previo pago del costo, la oficina ejecutora puede ordenar una publicidad más amplia, dentro del plazo señalado en el 1er. párrafo de este artículo.
 
 ###### Artículo 198.
 
@@ -2955,9 +3245,11 @@ Hecho el pago a que se refiere el párrafo anterior y cuando proceda, designado 
 
 La propia escritura consignará garantía hipotecaria a favor del Gobierno del Estado por la parte que el adquirente le quede adeudando; en su caso el deudor responderá de la evicción y saneamiento del inmueble rematado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 209.
 
-Los bienes inmuebles pasarán a ser propiedad del postor libres de todo gravamen y a fin de que se cancele los que reportaren, el jefe de la oficina ejecutora que finque el remate deberá comunicar al Registro Público de la Propiedad que corresponda, la tramitación correspondiente de dominio de los inmuebles.
+Los bienes inmuebles pasarán a ser propiedad del postor libres de todo gravamen y a fin de que se cancele los que reportaran, la persona jefa de la oficina ejecutora que finque el remate deberá comunicar al Registro Público de la Propiedad, del Comercio y Crédito Agrícola que corresponda, la tramitación correspondiente de dominio de los inmuebles.
 
 Los registradores o encargados del Registro Público de la Propiedad, del Comercio y Crédito Agrícola, deberán inscribir las transmisiones de dominio de bienes inmuebles que resulten de los remates celebrados por las oficinas ejecutoras y procederán a hacer la cancelación de gravámenes que sean procedentes como consecuencia de la adjudicación.
 
@@ -3071,9 +3363,11 @@ X. La autoridad encargada de resolver el recurso acordará lo que proceda sobre 
 
 XI. Vencido el plazo para la rendición de las pruebas, la autoridad dictará resolución en un término que no excederá de treinta días.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 221.
 
-Para determinar la preferencia de los créditos fiscales en las tercerías, se estará a lo establecido en el artículo 214 de esta Ley.
+Para determinar la preferencia de los créditos fiscales en las tercerías, se estará a lo establecido en el artículo 214 de este Código.
 
 ###### Artículo 222.
 
@@ -3089,9 +3383,11 @@ II. Que medie orden escrita de autoridad competente.
 
 III. En caso de conflicto, las cantidades de dinero o valores que contribuyan al remanente, se enviarán en depósito a la Secretaría de Finanzas y Administración, mientras resuelven las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 224.
 
-Si el recurrente tiene su domicilio en población distinta del lugar en que reside la autoridad citada, podrá enviar su escrito dentro del mismo término, por correo certificado con acuse de recibo, o bien presentarlo ante la autoridad que le haya notificado la resolución. En estos casos se tendrá como fecha de presentación del escrito respectivo, la del día en que se entregue en la oficina de correos o a la autoridad que efectuó la notificación.
+Si la persona recurrente tiene su domicilio en población distinta del lugar en que reside la autoridad citada, podrá enviar su escrito dentro del mismo término, por correo certificado con acuse de recibo, o bien presentarlo ante la autoridad que le haya notificado la resolución o por buzón tributario mediante el uso de su firma electrónica avanzada. En estos casos se tendrá como fecha de presentación del escrito respectivo, la del día en que se entregue en la oficina de correos, o ante la autoridad que efectuó la notificación o en la fecha que certifique la plataforma del buzón tributario.
 
 ## TÍTULO QUINTO. DE LOS RECURSOS ADMINISTRATIVOS
 
@@ -3282,3 +3578,19 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 MTRO. LUDWIG MARCIAL REYNOSO NÚÑEZ.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 666 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE GUERRERO NÚMERO 420”.]
+
+PRIMERO. El presente Decreto entrará en vigor el 1 de enero del año 2024.
+
+SEGUNDO. Comuníquese el presente Decreto a la titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero, para su conocimiento general.
+
+CUARTO. Los asuntos en trámite y los recursos de revocación que se encuentren pendientes por resolver a la entrada en vigor del presente Decreto continuarán su trámite hasta su conclusión conforme a las disposiciones con que se iniciaron.
+
+QUINTO. Los créditos fiscales generados antes de la vigencia del presente Decreto pero que aún no se hayan notificado se sujetarán a las disposiciones y ordenamientos legales aplicables en el momento en que se generaron.
