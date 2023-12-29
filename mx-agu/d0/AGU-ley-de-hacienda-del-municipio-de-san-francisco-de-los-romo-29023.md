@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-san-francisco-de-los-romo-2902
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-16"
-last_updated: "2019-12-16"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1995.
 
@@ -109,9 +109,11 @@ A excepción de los ingresos provenientes de Aprovechamientos, ninguna autoridad
 
 Los créditos hacendarios a favor del Ayuntamiento, deberán liquidarse en los términos señalados por esta Ley. El Presidente Municipal podrá acordar el otorgamiento de un plazo o plazos mayores a los previstos por este Ordenamientos sin que la concesión exceda al ejercicio fiscal correspondiente, exigiendo que se garantice previamente el interés fiscal, por el tiempo que dure la prórroga.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 12.
 
-El Director de Finanzas queda facultado para aplicar el procedimiento administrativo de ejecución que previene el Código Fiscal del Estado.
+El Director de Finanzas y Administración queda facultado para aplicar el procedimiento administrativo de ejecución que previene el Código Fiscal del Estado.
 
 ###### ARTICULO 13.
 
@@ -159,7 +161,9 @@ VI.- El Delegado Municipal; y
 
 VII.- El Comisario Municipal.
 
-Las Autoridades Fiscales del Estado podrán coordinarse con las del Municipio, para el mejor cumplimiento de esta Ley y la de Ingresos Municipal, en cuyo caso, se les considerará Autoridades Fiscales Municipales y ejercerán las atribuciones de la Dirección de Administración y Finanzas que se les señalen en los convenios y acuerdos respectivos, por lo que en contra de los actos que realicen, cuando actúen en los términos de este precepto, sólo procederán los recursos y medios de defensa establecidos en esta Ley.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Las Autoridades Fiscales del Estado podrán coordinarse con las del Municipio, para el mejor cumplimiento de esta Ley y la de Ingresos Municipal, en cuyo caso, se les considerará Autoridades Fiscales Municipales y ejercerán las atribuciones de la Dirección de Finanzas y Administración que se les señalen en los convenios y acuerdos respectivos, por lo que en contra de los actos que realicen, cuando actúen en los términos de este precepto, sólo procederán los recursos y medios de defensa establecidos en esta Ley.
 
 ###### ARTICULO 17.
 
@@ -209,7 +213,9 @@ II.- Asistir a las almonedas públicas que tengan por objeto a un bien perteneci
 
 III.- Revisar periódicamente las relaciones de rezagos, para que sean liquidados;
 
-IV.-Revisar y firmas los cortes de caja formulados por la Dirección de Administración y Finanzas; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+IV.- Revisar y firmar los cortes de caja formulados por la Dirección de Finanzas y Administración; y
 
 V.- Las demás que otorgue la Ley.
 
@@ -219,13 +225,17 @@ El Regidor Comisionado de Hacienda goza de las siguientes atribuciones:
 
 I.- Vigilar la marcha administrativa de la recaudación y proporcionar al Ayuntamiento las medidas que estime convenientes para mejorarla;
 
-II.- Analizar los cortes de caja formulados por la Dirección de Finanzas, dictaminando lo conducente; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+II.- Analizar los cortes de caja formulados por la Dirección de Finanzas y Administración, dictaminando lo conducente; y
 
 III.- Los demás que le confieren las leyes y reglamentos respectivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 21.
 
-Son facultades del Director de Finanzas:
+Son facultades del Director de Finanzas y Administración:
 
 I.- Designar a los empleados necesarios para ejecutar el cobro de los créditos fiscales municipales;
 
@@ -237,7 +247,9 @@ IV.- Abrir las cuentas bancarias necesarias para guardar y (sic) administración
 
 V.- Intervenir en los juicios de carácter fiscal en cualquier otro procedimiento que se ventile ante los tribunales, cuando tenga interés la Hacienda Pública Municipal;
 
-VI.- Proponer al Ayuntamiento los proyectos de reglamentos administrativos internos conducentes a mejorar la organización de la Dirección de Finanzas;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+VI.- Proponer al Ayuntamiento los proyectos de reglamentos administrativos internos conducentes a mejorar la organización de la Dirección de Finanzas y Administración;
 
 VII.- Someter al acuerdo del Presidente Municipal las solicitudes de prórrogas de plazo para el pago de créditos fiscales o cualquiera otro (sic) modalidad procedente;
 
@@ -297,7 +309,9 @@ e).- Emplear cualquiera de los siguientes medios de apremio, que juzgue eficaz, 
 
 f).- Se embarguen precautoriamente los bienes, el establecimiento y negocios cuando el contribuyente no atienda tres requerimientos de la autoridad, con una misma omisión. El embargo quedará sin efecto, cuando el contribuyente cumpla con la obligación de que se trate, o transcurridos dos meses de practicado el embargo, si la obligación no es cumplida y las autoridades fiscales no inician el ejercicio de sus facultades de comprobación;
 
-g).- Allegarse las pruebas necesarias para denunciar al Ministerio Público la posible omisión de delitos fiscales, en su caso, para formular la querella respectiva. Las actuaciones que practique el personal autorizado de la Secretaría de Finanzas, tendrá el mismo valor probatorio que la Ley relativa concede a las actas de la Policía Judicial, la propia Secretaría será coadyuvante del Ministerio Público en términos del Código de Procedimientos Penales para el Estado de Aguascalientes;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+g).- Allegarse las pruebas necesarias para denunciar al Ministerio Público la posible comisión de delitos fiscales, en su caso, para formular la querella respectiva. Las actuaciones que practique el personal autorizado de la Dirección de Finanzas y Administración, tendrá el mismo valor probatorio que la Ley relativa concede a las actas de la Policía Judicial, la propia Secretaría será coadyuvante del Ministerio Público en términos del Código de Procedimientos Penales para el Estado de Aguascalientes;
 
 h).- Comprobar los ingresos de los contribuyentes. A este efecto se presumirá salvo prueba en contrario que la información contenida en los libros, registros, sistemas de contabilidad, documentación comprobatoria y correspondencia que se encuentre en poder del contribuyente, corresponden a operaciones celebradas por él, aun cuando aparezca sin su nombre o a nombre de otra persona;
 
@@ -313,29 +327,45 @@ Son facultades de los Delegados y Comisarios Municipales:
 
 I.- Ejercer la vigilancia que demande el cumplimiento de las leyes fiscales, reglamentos, instructivos, circulares y demás disposiciones aplicables;
 
-II.- Recaudar los fondos provenientes del cumplimiento de las disposiciones municipales, que deba percibir el erario municipal a nombre propio o por cuenta ajena, previa autorización del Secretario de Finanzas;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-III.- Concertar los ingresos recaudados en los términos y plazos que fije el Secretario de Finanzas;
+II.- Recaudar los fondos provenientes del cumplimiento de las disposiciones municipales, que deba percibir el erario municipal a nombre propio o por cuenta ajena, previa autorización del Director de Finanzas y Administración;
 
-IV.- Poner a consideración del Secretario de Finanzas las directrices, normas y criterios técnicos en materia de ingresos, así como evaluarlos, además de rendirle los informes que éste solicite; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-V.- En general, ejecutar las facultades que expresamente les reconozcan las disposiciones fiscales y las que el Secretario de Finanzas les confiera.
+III.- Concertar los ingresos recaudados en los términos y plazos que fije el Director de Finanzas y Administración;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+IV.- Poner a consideración del Director de Finanzas y Administración las directrices, normas y criterios técnicos en materia de ingresos, así como evaluarlos, además de rendirle los informes que éste solicite; y
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+V.- En general, ejecutar las facultades que expresamente les reconozcan las disposiciones fiscales y las que el Director de Finanzas y Administración les confiera.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 23.
 
-Previo acuerdo respectivo, el Secretario de Finanzas puede delegar sus funciones de inspección, intervención y recaudación al servidor o servidores públicos que considere conveniente.
+Previo acuerdo respectivo, el Director de Finanzas y Administración puede delegar sus funciones de inspección, intervención y recaudación al servidor o servidores públicos que considere conveniente.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 24.
 
-El Director de Finanzas está facultado para ordenar la verificación de los datos que los contribuyentes están obligados a proporcionar, para cuantificar concretamente el monto del crédito fiscal del caso.
+El Director de Finanzas y Administración está facultado para ordenar la verificación de los datos que los contribuyentes están obligados a proporcionar, para cuantificar concretamente el monto del crédito fiscal del caso.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 25.
 
-Independientemente de la facultad de aplicar el procedimiento económico-coactivo, el Director de Finanzas está facultado para aplicar las medidas de apremio necesario para lograr la liquidación de los créditos fiscales. Tales medidas consisten en la amonestación, el apercibimiento, la multa y la clausura o cancelación.
+Independientemente de la facultad de aplicar el procedimiento económico-coactivo, el Director de Finanzas y Administración está facultado para aplicar las medidas de apremio necesario para lograr la liquidación de los créditos fiscales. Tales medidas consisten en la amonestación, el apercibimiento, la multa y la clausura o cancelación.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 26.
 
-Los acuerdos tomados por el Director de Finanzas con base en las facultades expresas que le otorga la Ley, tiene carácter obligatorio para los contribuyentes.
+Los acuerdos tomados por el Director de Finanzas y Administración con base en las facultades expresas que le otorga la Ley, tiene carácter obligatorio para los contribuyentes.
 
 ### CAPITULO III. De la Obligación Fiscal y sus Modalidades
 
@@ -351,7 +381,9 @@ Para los efectos de esta Ley, la obligación fiscal nace en el momento en que el
 
 Son obligaciones de los contribuyentes:
 
-I.- Obtener su licencia de funcionamiento mediante la presentación de su solicitud de empadronamiento ante la Secretaría de Finanzas, dentro de los quince días siguientes a la fecha de iniciación de sus operaciones. Los giros reglamentarios deberán obtener de la autoridad municipal competente, autorización previa para inicio de operaciones.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+I.- Obtener su licencia de funcionamiento mediante la presentación de su solicitud de empadronamiento ante la Dirección de Finanzas y Administración, dentro de los quince días siguientes a la fecha de iniciación de sus operaciones. Los giros reglamentarios deberán obtener de la autoridad municipal competente, autorización previa para inicio de operaciones.
 
 Cuando un mismo contribuyente tenga diversos establecimientos, sucursales, bodegas o dependencias, deberá obtener licencia de funcionamiento en cada una de ellas, por separado, mediante el empadronamiento respectivo.
 
@@ -361,17 +393,23 @@ II.- Dar aviso oportuno de cualquier modificación, trátese de un aumento de gi
 
 III.- Quienes realizan actividades eventuales deberán obtener autorización del Presidente Municipal, con base a ello solicitar la determinación de créditos fiscales a que están obligados;
 
-IV.- Utilizar las formas elaboradas por la Secretaría de Finanzas, para comparecer, solicitar o liquidar créditos fiscales;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+IV.- Utilizar las formas elaboradas por la Dirección de Finanzas y Administración, para comparecer, solicitar o liquidar créditos fiscales;
 
 V.- Pagar los impuestos, derechos, productos o aprovechamientos, en forma y términos que establecen las leyes respectivas;
 
-VI.- Proporcionar a la Secretaría de Finanzas y otras autoridades competentes, todos los documentos e informes que requieran, dentro del plazo que para ello fija la dependencia solicitante;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+VI.- Proporcionar a la Dirección de Finanzas y Administración y otras autoridades competentes, todos los documentos e informes que requieran, dentro del plazo que para ello fija la dependencia solicitante;
 
 VII.- Recibir las visitas de investigación ordenadas por la autoridad competente, y en su caso proporcionar a las mismas, los libros, datos, informes, documentos y demás requisitos que le soliciten, para el desempeño de sus funciones;
 
 VIII.- Colocar en lugar visible del establecimiento la licencia municipal, para el funcionamiento en giro, así como la placa o tarjeta de inscripción relativa;
 
-IX.- Aceptar la intervención del Secretario de Finanzas a través de las personas que al efecto designa;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+IX.- Aceptar la intervención del (sic) Dirección de Finanzas y Administración a través de las personas que al efecto designa;
 
 X.- Los contribuyentes sujetos a pagos periódicos presentarán al efectuar sus pagos el recibo anterior y en su caso de ser requerido para ello, hasta los tres últimos;
 
@@ -383,15 +421,21 @@ El crédito fiscal es la obligación determinada en cantidad líquida y deberá 
 
 A falta de disposición legal expresa, el pago deberá hacerse;
 
-I.- Las obligaciones fiscales de carácter anual deberán liquidarse dentro de los primeros dos meses del año fiscal respectivo;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+I.- Las obligaciones fiscales de carácter anual deberán liquidarse dentro de los meses de enero, febrero y marzo del año fiscal respectivo;
 
 II.- Los créditos fiscales que deban liquidarse en forma mensual, deberán cubrirse dentro de los primeros quince días del mes de que se trate;
 
-III.- Los comerciantes ambulantes, los semifijos y los que ocupan vía pública deberán liquidar sus créditos fiscales diariamente al recaudador que al efecto designe el Director de Finanzas;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+III.- Los comerciantes ambulantes, los semifijos y los que ocupan vía pública deberán liquidar sus créditos fiscales diariamente al recaudador que al efecto designe el Director de Finanzas y Administración o realizar el pago de manera mensual en las cajas de la Dirección de Finanzas y Administración;
 
 IV.- Los créditos originados por Derechos de prestación de servicio público dado por la autoridad, deberán pagarse por anticipado salvo aquellos en que su monto sólo pueda determinarse después de recibida la prestación; y
 
-V.- Las personas físicas o morales que ofrezcan espectáculos y diversiones públicas, pagarán sus obligaciones fiscales al interventor que designe el Director de Finanzas, en el momento en que concluye cada función o período de espectáculos o diversión.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+V.- Las personas físicas o morales que ofrezcan espectáculos y diversiones públicas, pagarán sus obligaciones fiscales al interventor que designe el Director de Finanzas y Administración, en el momento en que concluye cada función o período de espectáculos o diversión.
 
 ###### ARTICULO 31.
 
@@ -539,9 +583,11 @@ VI.- Los funcionarios y empleados públicos que autoricen algún acto jurídico 
 
 #### SECCION CUARTA. DE LA BASE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 43.
 
-Será base para el pago de este impuesto, el valor catastral de los predios o de las construcciones, en su costo. En cuanto a los predios o construcción que no tengan valores catastrales, servirá de base el valor con que se encuentren fiscalmente empadronadas o el valor de operaciones de traslado de dominio que se registre, aún tratándose de ventas con reserva de dominio, éste es mayor que aquellos.
+Será base para el pago de este impuesto, el valor catastral de los predios o de las construcciones, en su costo. En cuanto a los predios o construcción que no tengan valores catastrales o estos no se encuentren vigentes, servirá de base el valor con que se encuentren fiscalmente empadronadas o el valor de operaciones de traslado de dominio que se registre, aun tratándose de ventas con reserva de dominio, éste es mayor que aquellos.
 
 La base del impuesto se cambiará:
 
@@ -549,13 +595,23 @@ I.- Cuando se realice alguna de las causas que establece la Ley de Catastro del 
 
 II.- Cuando por cualquier circunstancia el predio sufra demérito al 25% del valor catastral o registrado;
 
-III.- Cuando por cualquier circunstancia la base con que esté tributado un predio sea inferior al valor que le correspondería en una libre transacción comercial; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-IV.- Cuando con motivo de la aplicación de las tablas de valores, se practique un avalúo que se acerque más al valor comercial.
+III.- Cuando por cualquier circunstancia la base con que esté tributando un predio sea inferior al valor que le correspondería en una libre transacción comercial;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+IV.- Cuando con motivo de la aplicación de las tablas de valores, se practique un avalúo que se acerque más al valor comercial; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+V.- Cuando se entregue en la Dirección de Finanzas y Administración el Avalúo Catastral y/o Manifestación de Construcción con Avalúo Catastral
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 44.
 
-Cuando no sea posible determinar el valor catastral aplicable al inmueble la Dirección de Finanzas, con apoyo en los elementos de que disponga, determinará el valor que sirva de base el que deberá ser lo más apegado posible a su valor comercial, el valor así determinado surtirá los efectos de valor catastral.
+Cuando no sea posible determinar el valor catastral aplicable al inmueble la Dirección de Finanzas y Administración el Avaluó Catastral y/o (sic), con apoyo en los elementos de que disponga, determinará el valor que sirva de base el que deberá ser lo más apegado posible a su valor comercial, el valor así determinado surtirá los efectos de valor catastral.
 
 ###### ARTICULO 45.
 
@@ -563,9 +619,17 @@ La nueva base surtirá efecto:
 
 I.- A partir del bimestre siguiente a aquél en que se produzca, acto o contrato que le dé origen;
 
-II.- A partir del bimestre siguiente al en que se notifique el nuevo avalúo, cuando éste sea efectuado por haber transcurrido el plazo de dos y de cuatro años, según se trate de predios urbanos rústicos; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-III.- Por cualquiera de las circunstancias a que se refiere la Ley de Catastro del Estado.
+II.- A partir del bimestre siguiente al en que se notifique el nuevo avalúo, cuando éste sea efectuado por haber transcurrido el plazo de dos y de cuatro años, según se trate de predios urbanos rústicos;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+III.- Por cualquiera de las circunstancias a que se refiere la Ley de Catastro del Estado; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+IV. Al momento de entregar a la Dirección de Finanzas y Administración el Avalúo Catastral y/o la Manifestación de Construcción con Avalúo Catastral.
 
 #### SECCION QUINTA. DEL PAGO
 
@@ -627,9 +691,11 @@ Para los efectos de este impuesto, se estará a las definiciones que sobre diver
 
 #### SECCION SEPTIMA. DE LA LIQUIDACION
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 52.
 
-La Dirección de Finanzas deberá determinar el monto del impuesto, de conformidad con las respectivas bases, tasas o cuotas que al efecto establezca esta Ley, y la Ley de Ingresos del Municipio.
+La Dirección de Finanzas y Administración, deberá determinar el monto del impuesto, de conformidad con las respectivas bases, tasas o cuotas que al efecto establezca esta Ley, y la Ley de Ingresos del Municipio.
 
 ###### ARTICULO 53.
 
@@ -639,7 +705,9 @@ Tratándose de cementerios, el impuesto a pagar durante el año, se liquidará s
 
 En los casos de excedencias o de predios no empadronados de construcciones, reconstrucciones o de ampliaciones no manifestadas, la liquidación comprenderá cinco años anteriores a la fecha de su descubrimiento por cualquier causa o motivo, salvo que el contribuyente pruebe que tales hechos u omisiones datan de fecha más reciente.
 
-También se impondrá al propietario o poseedor del inmueble una multa de cinco hasta diez veces del valor del impuesto anual en la fecha de su descubrimiento.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+También se impondrá al propietario o poseedor del inmueble una multa de cinco hasta diez veces del valor del impuesto anual en la fecha de su descubrimiento. Para la imposición de la multa se deberá tomar en cuenta la gravedad de la infracción, la capacidad económica del infractor y la reincidencia, entendiéndose por esta, la segunda o posteriores veces que se sancione al infractor por la misma infracción.
 
 En caso de que la excedencia no rebase el 10% de la superficie total del inmueble, no se cobrará la multa a que se refiere el párrafo anterior.
 
@@ -651,9 +719,11 @@ Quedan exceptuados de pago de este impuesto, los bienes de dominio público de l
 
 #### SECCION NOVENA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 56.
 
-Para los efectos de esta Ley, los sujetos de este impuesto están obligados a presentar los avisos correspondientes, dentro de los 45 días naturales siguientes al en que se celebren o se realicen según el caso, los contratos, permisos, hechos o actos siguientes:
+Para los efectos de esta Ley, los sujetos de este impuesto están obligados a presentar los avisos correspondientes, dentro de los 30 días naturales siguientes al en que se celebren o se realicen según el caso, los contratos, permisos, hechos o actos siguientes:
 
 I.- De compra-venta, venta con reserva de dominio, promesa de venta o cualquier otro traslativo de dominio de bienes inmuebles;
 
@@ -663,21 +733,27 @@ III.- De fusión, subdivisión y fraccionamiento de predios.
 
 Se tendrá por cumplida esta obligación, respecto de la fracción I, con la presentación de los avisos exigidos por esta Ley, para el pago del impuesto sobre adquisición de inmuebles, y para las fracciones II y III, con los avisos que señala la Ley de Catastro del Estado.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 57.
 
-Los sujetos del impuesto deberán manifestar a la Dirección de Finanzas sus cambios de domicilio, dentro de los quince días siguientes a aquél en que se efectúen; si no lo hicieren, se tendrá como domicilio, para todos los efectos legales, el que hubieren señalado anteriormente o, en su defecto, el predio mismo.
+Los sujetos del impuesto deberán manifestar a la Dirección de Finanzas y Administración sus cambios de domicilio, dentro de los quince días siguientes a aquél en que se efectúen; si no lo hicieren, se tendrá como domicilio, para todos los efectos legales, el que hubieren señalado anteriormente o, en su defecto, el predio mismo.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 58.
 
-Las autoridades judiciales o administrativas previamente al remate del inmueble, recabarán de la Dirección de Finanzas un informe sobre los créditos fiscales que con motivo de tal inmueble se hayan originado hasta la fecha de la subasta.
+Las autoridades judiciales o administrativas previamente al remate del inmueble, recabarán de la Dirección de Finanzas y Administración un informe sobre los créditos fiscales que con motivo de tal inmueble se hayan originado hasta la fecha de la subasta.
 
-Si de tal informe apareciere algún crédito fiscal insoluto, la autoridad retendrá del producto del remate la cantidad suficiente a cubrirlo, remitiéndola inmediatamente a la Dirección de Finanzas para que ésta extienda y envía el recibo correspondiente, que será entregado al adquirente del inmueble.
+Si de tal informe apareciere algún crédito fiscal insoluto, la autoridad retendrá del producto del remate la cantidad suficiente a cubrirlo, remitiéndola inmediatamente a la Dirección de Finanzas y Administración para que ésta extienda y envía el recibo correspondiente, que será entregado al adquirente del inmueble.
 
 ###### ARTICULO 59.
 
 Cuando en las manifestaciones o avisos exigidos no se expresen los datos o no se acompañen los documentos o planos también requeridos, las autoridades fiscales darán un plazo de quince días para que se corrija la omisión, que se contará a partir de la fecha en que los interesados reciban el requerimiento.
 
-Si transcurrido dicho plazo no se expresan los datos o no se presentan los documentos o planos requeridos, la Dirección de Finanzas no tomará en cuenta las manifestaciones o avisos sin perjuicio de imponer al infractor las sanciones que procedan.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Si transcurrido dicho plazo no se expresan los datos o no se presentan los documentos o planos requeridos, la Dirección de Finanzas y Administración no tomará en cuenta las manifestaciones o avisos sin perjuicio de imponer al infractor las sanciones que procedan.
 
 ### CAPITULO II. Del Impuesto Sobre Adquisición de Inmuebles
 
@@ -723,29 +799,47 @@ En la constitución, adquisición o extinción del usufructo o de la nuda propie
 
 DE LOS SUJETOS
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 61.
 
-Están obligados al pago de este impuesto las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicadas en el Municipio, por cualesquiera de las figuras enumeradas en el Artículo 63 de esta Ley.
+Están obligados al pago de este impuesto las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicadas en el Municipio, por cualesquiera de las figuras enumeradas en el Artículo 60 de esta Ley.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 62.
 
-Será base para el pago de impuesto, el avalúo para efectos fiscales, al que le será disminuida la cantidad sobre la cual se calculó este impuesto sobre su última adquisición, siempre y cuando ésta se hubiere realizado dentro de los tres años inmediatos anteriores a la adquisición por la que se calcula el impuesto. El avalúo podrá ser a elección del adquirente:
+Será base para el pago de impuesto, el valor del inmueble consignado en el avalúo comercial, al que le será disminuida la cantidad sobre la cual se calculó este impuesto sobre su última adquisición, siempre y cuando ésta se hubiere realizado dentro de los tres años inmediatos anteriores a la adquisición por la que se calcula el impuesto. El avalúo podrá ser a elección del adquirente:
 
-a) El solicitado a la Secretaría de Finanzas del Municipio con al menos 8 días hábiles de anticipación a la presentación de la declaración para el pago de este impuesto y se deberá cubrir el derecho correspondiente señalado en la respectiva ley de ingresos;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+a) El solicitado a Dirección de Finanzas y Administración del Municipio con al menos 8 días hábiles de anticipación a la presentación de la declaración para el pago de este impuesto y se deberá cubrir el derecho correspondiente señalado en la respectiva ley de ingresos;
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
 
 b) El realizado por una institución del sistema financiero mexicano o un organismo público de vivienda, siempre que no tenga más de seis meses de practicado;
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
+
 c) EI realizado por corredor público siempre que no tenga más de seis meses de practicado; o
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
 
 d) El que realicen personas que cuenten con cédula profesional de valuadores expedida por la Secretaría de Educación Pública, siempre que no tenga más de seis meses de practicado.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
+
 El avalúo se acompañará a la declaración para el pago del impuesto sobre adquisición de bienes inmuebles.
 
-Quedan relevados de la obligación de presentar el avalúo a que se refieren los incisos a) al d) antes señalados, las adquisiciones de inmuebles sobre los cuales se encuentre edificada una vivienda de tipo popular, de interés social o lotes individualizados que estén destinados a la edificación de una vivienda de la misma naturaleza, siempre que se encuentre en fraccionamientos autorizados como de tipo popular o de interés social, cuya superficie de terreno sea inferior a ciento veinte metros cuadrados y la construcción no sea mayor de 78 metros cuadrados. En este caso, la base para el pago del impuesto será el valor de operación.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Quedan relevados de la obligación de presentar el avalúo a que se refieren los incisos a) al d) antes señalados, las adquisiciones de inmuebles sobre los cuales se encuentre edificada una vivienda, en fraccionamientos autorizados, cuya superficie de terreno sea igual 75 (setenta y cinco) metros cuadrados y la construcción no sea mayor de 42 (cuarenta y dos) metros cuadrados. En este caso, la base para el pago del impuesto será el valor de operación, el cual no podrá ser menor al valor catastral.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
 
 En el caso de los incisos b), c) y d) la Secretaría de Finanzas estará facultada para practicar avalúo del inmueble. En caso de resultar superior al del presentado por el contribuyente, el impuesto se calculará sobre el avalúo de la Secretaría de Finanzas del Municipio.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
 
 Para determinar el pago de este impuesto se aplicará una exención al valor que resulte del inmueble, en los siguientes casos:
 
@@ -757,15 +851,17 @@ I. De cinco veces la Unidad de Medida y Actualización (UMA) vigente, elevado al
 
 II. De dos y medio veces la Unidad de Medida y Actualización (UMA) vigente, elevado al año cuando el inmueble no tenga construcción alguna o sólo se encuentre bardeado;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-III. De quince veces la Unidad de Medida y Actualización (UMA), elevado al año cuando se trate de un inmueble popular, de uso habitacional.
+III. De quince veces la Unidad de Medida y Actualización (UMA), elevado al año cuando se trate de un inmueble habitacional urbano.
 
-Para los efectos señalados en la Fracción III que antecede, se considerarán como inmuebles de tipo popular aquellos que se ubiquen en fraccionamientos autorizados como de tipo popular o de interés social, cuya superficie de terreno sea igual o inferior a 120 metros cuadrados y la superficie de construcción en su caso no sea mayor de 78 metros cuadrados.
+Para los efectos señalados en la Fracción III que antecede, los inmuebles que se ubiquen en fraccionamientos autorizados, cuya superficie de terreno sea igual a 75 (setenta y cinco) metros cuadrados y la construcción no sea mayor de 42 (cuarenta y dos) metros cuadrados.
 
 > <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2019)</small>
 
 IV. De cinco veces la Unidad de Medida y Actualización (UMA) vigente, elevado al año cuando se trate de terrenos dedicados a la explotación agropecuaria;
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
 
 Para los fines de esta ley se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
 
@@ -817,9 +913,11 @@ El enajenante responde solidariamente del impuesto que deba pagar el adquirente.
 
 DE LAS OBLIGACIONES DE TERCEROS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 67.
 
-Para los efectos del Artículo 66, los notarios públicos o quienes hagan sus veces y los funcionarios públicos, deberán dar aviso a la Dirección de Finanzas de los actos o contratos en que intervengan y que resulten gravados con este impuesto.
+Para los efectos del Artículo 66, los notarios públicos o quienes hagan sus veces y los funcionarios públicos, deberán dar aviso a la Dirección de Finanzas y Administración de los actos o contratos en que intervengan y que resulten gravados con este impuesto.
 
 Los particulares tendrán la misma obligación, tratándose de escrituras otorgadas fuera del Estado.
 
@@ -875,7 +973,9 @@ I.- Tratándose de diversiones o espectáculos en los que el boletaje se expenda
 
 II.- Tratándose de juegos con premiso, tales como rifas, loterías, concursos o sorteos, el impuesto será liquidado con una anticipación de cinco días, respecto de la fecha en que han de celebrarse.
 
-En el caso de que, celebrada la actividad gravada, no se haya cubierto el crédito fiscal en términos de este artículo, la Dirección de Finanzas podrá ordenar la retención del o los premios como garantía del pago del crédito fiscal sin perjuicio de que se aplique el procedimiento económico coactivo.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+En el caso de que, celebrada la actividad gravada, no se haya cubierto el crédito fiscal en términos de este artículo, la Dirección de Finanzas y Administración podrá ordenar la retención del o los premios como garantía del pago del crédito fiscal sin perjuicio de que se aplique el procedimiento económico coactivo.
 
 III.- Tratándose de impuesto cobrable por cuota, deberá liquidarse con tres días de anticipación a la fecha en que se ofrezca la diversión, juego o espectáculo, motivo del gravamen;
 
@@ -887,23 +987,27 @@ VI.- Las cantidades que se paguen por el derecho a reservar localidades en los e
 
 #### SECCION QUINTA. OBLIGACIONES DE LOS CONTRIBUYENTES
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 75.
 
-Las empresas de espectáculos o diversiones públicas deberán otorgar fianza, a satisfacción de la Dirección de Finanzas, cuando soliciten su permiso, la que perderán en caso de cancelar. Asimismo exhibirán ante la Dirección de Finanzas el boletaje que se utilizará para permitir el acceso al público a efecto de que sea autorizado y sellado.
+Las empresas de espectáculos o diversiones públicas deberán otorgar fianza, a satisfacción de la Dirección de Finanzas y Administración, cuando soliciten su permiso, la que perderán en caso de cancelar. Asimismo, exhibirán ante la Dirección de Finanzas el boletaje que se utilizará para permitir el acceso al público a efecto de que sea autorizado y sellado.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+En caso de que sorprenda un boletaje no autorizado por la Dirección de Finanzas y Administración, se impondrá al referido empresario una infracción consistente en el importe de diez a quinientas veces el valor diario de la unidad de medida y actualización al momento de cometerse la violación.
 
-En caso de que sorprenda un boletaje no autorizado por la Dirección de Finanzas, se impondrá al referido empresario una infracción consistente en el importe de diez a quinientas veces el valor diario de la unidad de medida y actualización al momento de cometerse la violación.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 76.
 
-Los contribuyentes que utilicen sistemas mecánicos o electrónicos para la venta de boletaje que se utilice para permitir el acceso del público están obligados a permitir la inspección de las mismas por parte de los inspectores o interventores nombrados por la Dirección de Finanzas.
+Los contribuyentes que utilicen sistemas mecánicos o electrónicos para la venta de boletaje que se utilice para permitir el acceso del público están obligados a permitir la inspección de las mismas por parte de los inspectores o interventores nombrados por la Dirección de Finanzas y Administración.
 
 #### SECCION SEXTA. DE LA RESPONSABILIDAD SOLIDARIA
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTICULO 77.
 
-Los propietarios de los inmuebles donde se autoricen a las empresas para celebrar espectáculos o diversiones públicas, son solidariamente responsables de los créditos fiscales que causen dichos eventos, por lo que deberán exigir a los empresarios que exhiban la autorización municipal y en su caso el comprobante de garantía que el Director de Finanzas les expida.
+Los propietarios de los inmuebles donde se autoricen a las empresas para celebrar espectáculos o diversiones públicas, son solidariamente responsables de los créditos fiscales que causen dichos eventos, por lo que deberán exigir a los empresarios que exhiban la autorización municipal y en su caso el comprobante de garantía que el Director de Finanzas y Administración les expida.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE MARZO DE 2012)</small>
 
@@ -1059,7 +1163,9 @@ Los Fraccionadores deberán cubrir derechos sobre el precio de venta de lotes fr
 
 Juntamente con la autorización deberán cubrirse las cantidades determinadas con base en la Ley de Ingresos Municipal, en calidad de anticipo en base a los precios de venta autorizados, que se ajustarán al precio de venta real en el momento de celebrarse el contrato de compraventa.
 
-Para lograr lo anterior, deberán remitir copia de contrato de compraventa a la Dirección de Finanzas dentro de los diez días siguientes al de su celebración.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Para lograr lo anterior, deberán remitir copia de contrato de compraventa a la Dirección de Finanzas y Administración dentro de los diez días siguientes al de su celebración.
 
 ###### ARTICULO 98.
 
@@ -1083,11 +1189,13 @@ Los servicios que prestan los Rastros Municipales, causarán derechos de conform
 
 ###### ARTICULO 102.
 
-Por la autorización del sacrificio de ganado en mataderos particulares que funcionen con permiso, se aplicará el 50% de las cuotas que al efecto señale la Ley de Ingresos Municipal.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2023)
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 103.
 
-Todos los derechos estipulados en este Capítulo, deberán pagarse antes de que se presten los servicios, en la Dirección de Finanzas o en sus oficinas recaudadoras autorizadas, en los lugares donde se presten tales servicios.
+Todos los derechos estipulados en este Capítulo, deberán pagarse antes de que se presten los servicios, en la Dirección de Finanzas y Administración o en sus oficinas recaudadoras autorizadas, en los lugares donde se presten tales servicios.
 
 ###### ARTICULO 104.
 
@@ -1682,3 +1790,11 @@ P.O. 16 DE DICIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día 01 de enero de 2020.
+
+P.O. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 587.- SE REFORMA LA LEY DE HACIENDA DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGUASCALIENTES”.]
+
+Artículo Primero.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Aguascalientes.
+
+Artículo Segundo.- El presente Decreto iniciará su vigencia el día 1 de enero de 2024.
