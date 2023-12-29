@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-motul-yucatan-132512"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-29"
-last_updated: "2022-12-30"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE MOTUL, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Suplemento II al Número 33,762 del Diario Oficial del Estado de Yucatán, el sábado 29 de diciembre de 2018.
 
@@ -1281,6 +1281,28 @@ XX.- Licencias para construcción de piscinas o albercas 0.27 UMA por metro cuad
 
 XXI.- Licencia para explotación de bancos de materiales pétreos 0.02 UMA por metro cuadrado.
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O. 29 DE DICIEMBRE DE 2023)</small>
+
+XXII.- Por expedición de oficio de factibilidad de uso del suelo:
+
+Superficie ocupada UMAS
+
+a) De 1 a 50.0 m2 4.1 (sic)
+
+b) De 50.1 a 100.0 m2 8.2
+
+c) De 100.1 a 200.0 m2 11.0
+
+d) De 200.1 a 400.0 m2 13.7
+
+e) De 400.1 a 800.0 m2 21.8
+
+f) De 800.1 a 1000.0 m2 27.3
+
+g) De 1000.1 a 2000 m2 54.6
+
+h) De 2000.1 en adelante 81.9
+
 DE LAS EXENCIONES
 
 ###### Artículo 84.
@@ -1697,6 +1719,10 @@ b) Establecimientos mayores a 50 y menores de 150 metros cuadrados, pagarán el 
 
 c) Establecimientos mayores a 150 metros cuadrados, pagarán el equivalente a 200 UMAS.
 
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Para la expedición de cualquier licencia, será indispensable, además de realizar los pagos correspondientes y entregar la documentación comprobatoria de propiedad o posesión legítima del inmueble, la identidad y personalidad del solicitante, la cédula y planos catastrales, así como estar al corriente en el pago de los impuestos y derechos municipales correspondientes, cumplir con los lineamientos en materia de imagen urbana que establece el reglamento municipal de la materia.
+
 > <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 114.
@@ -1754,6 +1780,10 @@ INDUSTRIAL O DE SERVICIO 745 UMA 745 UMA
 Parque de celdas solares, Parque eólico.
 
 Con el objeto de fomentar el desarrollo empresarial, comercial, industrial y de servicios, entre los ciudadanos e incentivar sus inversiones, toda aquella persona física o moral, que demuestre fehacientemente su vecindad en este municipio, por ese simple hecho gozará del 50% de descuento en el pago de las tarifas descritas en la tabla anterior.
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Para la expedición de cualquier licencia, será indispensable, además de realizar los pagos correspondientes y entregar la documentación comprobatoria de propiedad o posesión legítima del inmueble, la identidad y personalidad del solicitante, la cédula y planos catastrales, así como estar al corriente en el pago de los impuestos y derechos municipales correspondientes, cumplir con los lineamientos en materia de imagen urbana que establece el reglamento municipal de la materia.
 
 ###### Artículo 115.
 
@@ -2806,3 +2836,11 @@ Artículo Primero.- Este decreto entrará en vigor el día siguiente de su publi
 Artículo Segundo. El H. Ayuntamiento de Dzidzantún, para percibir aprovechamientos vía infracciones por faltas administrativas, deberá contar con los reglamentos municipales respectivos, que establecerán los montos de las sanciones correspondientes.
 
 Artículo Tercero.- La Ley de Hacienda del Municipio de Tixpéual, deroga el artículo primero transitorio por el que se modificó dicha Ley, mediante Decreto 449/2021 publicado en el Diario Oficial del Gobierno del Estado el 31 de diciembre de 2021.
+
+D.O. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 712/2023 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CHICHIMILÁ, HOCABÁ, MOTUL, OXKUTZCAB, SACALUM, TEMAX Y VALLADOLID, TODAS DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero. Este decreto entrará en vigor el día siguiente de su publicación, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Se exceptúa de la vigencia señalada en el artículo anterior, lo dispuesto en el artículo 178 Bis, contenido en el artículo séptimo de este decreto relativo a las modificaciones a la Ley de Hacienda para el Municipio de Valladolid, Yucatán, el cual entrará en vigor el segundo semestre del año 2024.
