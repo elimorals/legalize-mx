@@ -4,7 +4,7 @@ identifier: "LGMSV"
 country: "mx"
 rank: "ley_general"
 publication_date: "2022-05-17"
-last_updated: "2023-05-08"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158314&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGMSV"
 
 LEY GENERAL DE MOVILIDAD Y SEGURIDAD VIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 17 de mayo de 2022.
 
@@ -82,7 +82,9 @@ Glosario.
 
 Para efectos de esta Ley, se entenderá por:
 
-I. Accesibilidad: Las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con los demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información, y otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales e insulares;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2023)</small>
+
+I. Accesibilidad: Las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con los demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información, la accesibilidad cognitiva y otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales e insulares;
 
 II. Acciones afirmativas: Políticas, medidas o acciones dirigidas a favorecer a personas o grupos en situación de vulnerabilidad, con el fin de eliminar o reducir las desigualdades y barreras de tipo actitudinal, social, cultural o económico que los afectan;
 
@@ -460,9 +462,13 @@ Las autoridades competentes en el ámbito de sus atribuciones deberán garantiza
 
 Las leyes y reglamentos en la materia contendrán las previsiones necesarias para garantizar, al menos, lo siguiente:
 
-I. Que los servicios de transporte prevean vehículos y entornos con diseño universal y en su caso, con ayudas técnicas para la accesibilidad de personas con discapacidad y movilidad limitada, con las acciones afirmativas y los ajustes razonables que se requieran para ello;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2023)</small>
 
-II. Que las vías y el espacio público se diseñen contemplando infraestructura que permita que las personas con discapacidad y movilidad limitada se desplacen de manera segura, tales como rutas accesibles, señales auditivas, visuales, táctiles, rampas, entre otras;
+I. Que los servicios de transporte prevean vehículos y entornos con diseño universal, incluida la accesibilidad cognitiva y en su caso, con ayudas técnicas para la accesibilidad de personas con discapacidad y movilidad limitada, apoyos a la comunicación y a la información con las acciones afirmativas y los ajustes razonables que se requieran para ello;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2023)</small>
+
+II. Que las vías y el espacio público se diseñen contemplando infraestructura que permita que las personas con discapacidad y movilidad limitada se desplacen de manera segura, tales como rutas accesibles, señales auditivas, visuales, táctiles, rampas, información en formatos accesibles, entre otras;
 
 III. Que se contribuya a la accesibilidad de las personas con discapacidad y movilidad limitada, aportando especificaciones de diseño universal que permitan construir un entorno incluyente, y
 
@@ -518,7 +524,9 @@ II. Diseño universal: Todos los componentes de los sistemas de movilidad deben 
 
 III. Perspectiva de género: El sistema de movilidad debe tener las condiciones adecuadas y diseñarse considerando estrategias que mejoren y faciliten el acceso e inclusión de las mujeres en un marco de seguridad y conforme a sus necesidades, con el fin de garantizar la igualdad de género.
 
-IV. Pluriculturalidad y multilingüismo: El espacio público y el sistema de transporte deben garantizar el respeto por la pluriculturalidad y deben contemplar mecanismos que garanticen la accesibilidad de las personas indígenas, afromexicanas, con discapacidad en materia lingüística.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2023)</small>
+
+IV. Pluriculturalidad y multilingüismo: El espacio público y el sistema de transporte deben garantizar el respeto por la pluriculturalidad y deben contemplar mecanismos que garanticen la accesibilidad de las personas indígenas, afromexicanas y sordas hablantes de lenguas de señas.
 
 V. Prioridad en el uso de la vía: El sistema de movilidad debe garantizar el uso equitativo del espacio público por parte de todas las personas usuarias, de acuerdo con la jerarquía de la movilidad y las necesidades territoriales de los centros de población.
 
@@ -913,6 +921,10 @@ III. Control y registro de conductores.
 De la información del transporte.
 
 Las autoridades competentes de los tres órdenes de gobierno, establecerán unidades de información y quejas para que las personas usuarias denuncien cualquier irregularidad en la prestación del servicio de transporte público. Para ello, se observarán los principios de accesibilidad, prontitud, imparcialidad, integridad y gratuidad, otorgando de forma expedita atención a la persona quejosa y se le deberá informar sobre las resoluciones adoptadas.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2023)</small>
+
+Cuando se trate de personas hablantes de lenguas indígenas o de Lengua de Señas Mexicana o regional, la atención deberá prestarse asegurando que la comunicación se lleve a cabo en su propia lengua.
 
 ###### Artículo 47.
 
@@ -1537,3 +1549,11 @@ D.O.F. 8 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 49 DE LA LEY GENERAL DE MOVILIDAD Y SEGURIDAD VIAL”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE MOVILIDAD Y SEGURIDAD VIAL”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- A la entrada en vigor del presente Decreto, los Congresos de las Entidades Federativas contarán con un plazo de 90 días naturales para realizar las adecuaciones a su normatividad correspondiente.
