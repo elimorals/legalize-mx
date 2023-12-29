@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-684-de-participacion-ciudadana-del-estado-libre-6196
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-04"
-last_updated: "2022-07-26"
+last_updated: "2023-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 684 DE PARTICIPACION CIUDADANA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY NÚMERO 669 DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 29 DE DICIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY NÚMERO 684 DE PARTICIPACIÓN CIUDADANA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 4 de julio de 2008.
 
@@ -1480,3 +1482,59 @@ P.O. 26 DE JULIO DE 2022.
 PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO. Publíquese en el presente Decreto para su conocimiento general y difusión, en el Portal Web del Congreso del Estado y en sus redes sociales en internet.
+
+P.O. DE 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL LA “LEY NÚMERO 669 DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor de la presente ley, se abroga la Ley Número 684 de Participación Ciudadana del Estado Libre y Soberano de Guerrero.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que contravengan a la presente ley.
+
+###### ARTÍCULO CUARTO.
+
+Las normas relativas a los instrumentos de Plebiscito, Referéndum, Consulta Popular Guerrerense e Iniciativa Ciudadana, tendrán aplicación a partir de que concluya el término que se prevé en el artículo quinto transitorio.
+
+###### ARTÍCULO QUINTO.
+
+Una vez concluido el Proceso Electoral Ordinario de Diputaciones Locales y Ayuntamientos 2023-2024, el Instituto Electoral y de Participación Ciudadana del Estado de Guerrero tendrá un plazo de hasta 180 días naturales para la elaboración de las normas reglamentarias que correspondan en los instrumentos de participación ciudadana señalados en el artículo transitorio anterior.
+
+###### ARTÍCULO SEXTO.
+
+A partir de la entrada en vigor de la presente ley, los Ayuntamientos y los Concejos Municipales del Estado de Guerrero tendrán un plazo de hasta 180 días naturales para la elaboración de las normas reglamentarias aplicables a los instrumentos de participación ciudadana de competencia municipal contenidos en esta ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Con apego a la normatividad aplicable, el Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, incluirá dentro de su proyecto de presupuesto de egresos de cada ejercicio fiscal, la propuesta de los recursos que se requieran para la organización y ejecución de los instrumentos de participación ciudadana en los que tiene intervención, de conformidad con lo dispuesto en esta ley.
+
+###### ARTÍCULO OCTAVO.
+
+A partir de la entrada en vigor de la presente ley, los Ayuntamientos y los Consejos Municipales del Estado de Guerrero harán las adecuaciones necesarias en su Proyecto de Egresos del ejercicio fiscal siguiente al que entre en vigor la presente ley, a fin de incluir las partidas necesarias para la aplicación y ejecución del Prepuesto Participativo que se destine en su municipio.
+
+###### ARTÍCULO NOVENO.
+
+Las normas relativas a la Revocación de Mandato de la persona titular del Poder Ejecutivo Estatal, se aplicarán a partir del periodo gubernamental 2027-2033. Para ello, el Instituto Electoral y de Participación Ciudadana del Estado de Guerrero deberá prever todo lo necesario a efecto de emitir la normativa reglamentaria que permita el buen desarrollo de este instrumento. Asimismo, deberá realizar la proyección presupuestal en los términos previstos en la presente ley.
+
+###### ARTÍCULO DÉCIMO.
+
+A falta de disposición expresa en esta ley, se aplicará en forma supletoria la Ley Número 483 de Instituciones y Procedimientos Electorales del Estado de Guerrero, y demás leyes relacionadas con la materia.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Remítase el presente Decreto al H. Tribunal Superior de Justicia del Estado de Guerrero, al H. Tribunal Electoral del Estado de Guerrero, a los Ayuntamientos y a los Concejos Municipales, para su conocimiento y efectos legales conducentes. Asimismo, para que prevean la emisión de las disposiciones reglamentarias correspondientes con el objeto de dar debido cumplimiento a la aplicación de la presente ley.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Notifíquese y Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y efectos legales conducentes.
