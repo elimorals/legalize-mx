@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-125101"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-12-19"
-last_updated: "2023-12-26"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE DICIEMBRE DE 2023 EN EL P.O. DEL ESTADO DE COAHUILA DE ZARAGOZA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 Ley publicada en la Primera Sección al Número 101 del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 19 de diciembre de 2017.
 
@@ -1766,3 +1766,79 @@ P.O. 26 DE DICIEMBRE DE 2023.
 PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. El presente decreto entrará en vigor el primero de enero de dos mil veinticuatro.
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Sin perjuicio de lo dispuesto por el párrafo anterior, la Coordinación General de Comunicación e Imagen Institucional adscrita al Despacho del Ejecutivo, continuará en funcionamiento y ejerciendo todas sus atribuciones que contemplen su Reglamento Interior y demás disposiciones legales y administrativas, hasta en tanto, el Ejecutivo del Estado determine, mediante reglamento o cualquier otra disposición administrativa, su nueva adscripción o bien, quien deberá sustituirla. Una vez cumplido lo antes señalado, se procederá en los términos del transitorio noveno del presente decreto.
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+TERCERO. Dentro del plazo de treinta días naturales contados a partir de la entrada en vigor de este decreto, las dependencias y unidades administrativas de nueva creación, deberán remitir a la Consejería Jurídica los anteproyectos de reforma o de nuevos reglamentos interiores para someterlos a consideración del Titular del Ejecutivo.
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+CUARTO. Se abroga el Decreto de creación del Instituto Coahuilense de las Mujeres, publicado el 12 de enero de 2018, en el Periódico Oficial del Gobierno del Estado.
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+No obstante lo anterior, las disposiciones relacionadas con el Consejo Consultivo a que se refiere dicho decreto, continuarán en vigor hasta que se expida el Reglamento Interior de la Secretaría de las Mujeres.
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+QUINTO. Cuando en una ley, reglamentos o cualquier otra disposición administrativa, se haga referencia o se establezcan facultades y obligaciones al Instituto Coahuilense de las Mujeres, se entenderán hechas o conferidas, según sea el caso, a la Secretaría de las Mujeres.
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+El Reglamento Interior del Instituto Coahuilense de las Mujeres será aplicable a la Secretaría de las Mujeres en lo que no se oponga al presente decreto, y continuará en vigor hasta que no se expida el Reglamento Interior de la Secretaría de las Mujeres.
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Todos los recursos humanos, financieros y materiales asignados al Instituto Coahuilense de las Mujeres, deberán ser reasignados a la Secretaría de las Mujeres.
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Los asuntos en trámite que se encuentren pendientes en el Instituto Coahuilense de las Mujeres se continuarán hasta su conclusión, por la Secretaría de las Mujeres.
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Los derechos y obligaciones derivados de convenios celebrados por el Instituto Coahuilense de las Mujeres, serán asumidos por la Secretaría de las Mujeres.
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+SEXTO. Cuando en una ley, reglamentos o cualquier otra disposición administrativa, se haga referencia o se establezcan facultades y obligaciones a la Unidad de Atención Regional en la Laguna, se entenderán hechas o conferidas, según sea el caso, a la Secretaría de Desarrollo Regional de la Laguna.
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+El Reglamento Interior de la Unidad de Atención Regional en la Laguna será aplicable a la Secretaría de Desarrollo Regional de la Laguna en lo que no se oponga al presente decreto, y continuará en vigor hasta que no se expida el Reglamento Interior de la Secretaría de Desarrollo Regional de la Laguna.
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Todos los recursos humanos, financieros y materiales asignados a la Unidad de Atención Regional en la Laguna, deberán ser reasignados a la Secretaría de Desarrollo Regional de la Laguna.
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Los asuntos en trámite que se encuentren pendientes en la Unidad de Atención Regional en la Laguna se continuarán hasta su conclusión, por la Secretaría de Desarrollo Regional de la Laguna.
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Los derechos y obligaciones derivados de convenios celebrados por la Unidad de Atención Regional en la Laguna, serán asumidos por la Secretaría de Desarrollo Regional de la Laguna.
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+SÉPTIMO. El personal que con motivo de la aplicación del presente decreto deba quedar adscrito a una dependencia diferente a su actual centro de trabajo, en ninguna forma resultará afectado en sus derechos laborales.
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+OCTAVO. La Secretaría de Finanzas, deberá realizar las gestiones necesarias para las adecuaciones presupuestales, con el fin de dar cumplimiento al presente decreto, de conformidad con las disposiciones legales aplicables.
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+NOVENO. La Secretaría de Fiscalización y Rendición de Cuentas, en coordinación con las Secretarías de nueva creación y de las unidades administrativas que cambian de adscripción en cumplimiento al presente decreto, deberán llevar a cabo las gestiones necesarias para los efectos de la entrega recepción que corresponda.
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+DÉCIMO. Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente decreto, el Congreso realizará las modificaciones a la legislación estatal que resulten necesarias.
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+DÉCIMO PRIMERO. Se derogan todas las disposiciones que se opongan al presente decreto.
