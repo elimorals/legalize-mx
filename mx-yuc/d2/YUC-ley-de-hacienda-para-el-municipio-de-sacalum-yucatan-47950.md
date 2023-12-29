@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-sacalum-yucatan-47950"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2022-12-30"
+last_updated: "2023-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47950&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE SACALUM, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -41,7 +41,7 @@ Artículo Primero, Se aprueban las Leyes de Hacienda de los Municipios de: Kanas
 
 Artículo Segundo.- Las Leyes de Hacienda a que se refiere el artículo anterior, se describen en cada una de las fracciones siguientes:
 
-...
+[...]
 
 IV. LEY DE HACIENDA PARA EL MUNICIPIO DE SACALUM, YUCATÁN
 
@@ -1319,21 +1319,17 @@ TARIFA
 
 La tarifa de los derechos para la obtención de las Licencias de Funcionamiento de los establecimientos que se señalan en el artículo 88 de esta Ley, serán los siguientes:
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-I.- Por apertura para venta de bebidas
+I.- Por apertura $ 25,000.00
 
-alcohólicas $25,000.00
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
+II.- Por revalidación $ 7,000.00
 
-II.- Por revalidación para venta de bebidas
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-alcohólicas $6,000.00
-
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
-
-III.- Por permisos eventuales $ 3,500.00
+III.- Por permisos eventuales $4,000.00
 
 (REPUBLICADA, D.O. 26 DE DICIEMBRE DE 2020)
 
@@ -1367,153 +1363,283 @@ energía renovables o no renovable $300,000.00
 
 Artículo 90 A.- El cobro de derechos por el otorgamiento de licencias, permisos o autorizaciones para el funcionamiento de los demás establecimientos y locales comerciales o de servicios se realizará con base en las siguientes tarifas:
 
-GIRO COMERCIAL O DE SERVICIOS EXPEDICION RENOVACION
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO QUINTO DEL DECRETO 712/2023, PUBLICADO EN EL D.O. DE 29 DE DICIEMBRE DE 2023, CAMBIA LA ESTRUCTURA DE LA PRESENTE TABLA DE LVII A LIV FRACCIONES. VÉASE LITERALIDAD DEL DECRETO, PÁGINAS DE LA 20 A LA 21.]</small>
 
-$ $
+GIRO COMERCIAL O EXPEDICION RENOVACION
+
+DE SERVICIOS $ $
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 29 DE DICIEMBRE DE 2023)</small>
 
 I.- Farmacias y boticas 600.00 300.00
 
-II.- Carnicerías, pollerías, pescaderías 300.00 150.00
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-y fruterías
+II.- Carnicerías, pollerías,
+
+pescaderías y fruterías 400.00 250.00
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 29 DE DICIEMBRE DE 2023)</small>
 
 III.- Panaderías y tortillerías 400.00 300.00
 
-IV.- Expendio de refrescos 300.00 200.00
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-V.- Fábrica de jugos embolsados 300.00 200.00
+IV.- Expendio de refrescos 400.00 300.00
 
-VI.- Expendio de refrescos naturales 300.00 100.00
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-VII.- Compra/venta de oro y plata 1,000.00 500.00
+V.- Fábrica de jugos embolsados 400.00 300.00
 
-VIII.- Taquerías, loncherías y fondas 500.00 300.00
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
+
+VI.- Expendio de refrescos naturales 400.00 250.00
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
+
+VII.- Compra/venta de oro y plata 1,200.00 700.00
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
+
+VIII.- Taquerías, loncherías y fondas 650.00 300.00
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 29 DE DICIEMBRE DE 2023)</small>
 
 IX.- Taller y/o expendio de alfarerías 200.00 100.00
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 29 DE DICIEMBRE DE 2023)</small>
+
 X.- Talleres zapatería o accesorios 2,000.00 800.00
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 29 DE DICIEMBRE DE 2023)</small>
 
 XI.- Tlapalerías 1,000.00 800.00
 
-XII.- Compra/venta de materiales de 2,000.00 1,500.00
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-construcción
+XII.- Compra/venta de materiales
 
-XIII.- Tiendas, tendejones y misceláneas 500.00 300.00
+de construcción 3,000.00 2,500.00
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 29 DE DICIEMBRE DE 2023)</small>
+
+XIII.- Tiendas, tendejones
+
+y misceláneas 500.00 300.00
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 29 DE DICIEMBRE DE 2023)</small>
 
 XIV.- Bisutería 500.00 300.00
 
-XV.- Compra/venta de motos y 700.00 500.00
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-refaccionarias
+XV.- Compra/venta de motos
 
-XVI.- Papelerías y centro de copiado 700.00 400.00
+y refaccionarias 700.00 500.00
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 29 DE DICIEMBRE DE 2023)</small>
+
+XVI.- Papelerías y centro
+
+de copiado 700.00 400.00
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 29 DE DICIEMBRE DE 2023)</small>
 
 XVII.- Hoteles, hospedajes 10,000.00 2,500.00
 
-XVIII.- Peleterías compra/venta de sintéticos 450.00 250.00
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-XIX.- Terminales de taxis, autobuses y 400.00 150.00
+XVIII.- Peleterías compra/venta
 
-triciclos
+de sintéticos 450.00 250.00
 
-XX.- Ciber-café y centros de cómputo 300.00 200.00
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-XXI.- Estéticas unisex y peluquerías 300.00 300.00
+XIX.- Ciber-café y centros
 
-XXII.- Talleres mecánicos 500.00 300.00
+de cómputo 400.00 300.00
 
-XXIII.- Talleres de torno y herrería en general 400.00 200.00
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-XXIV.- Restaurantes y cafeterías 2,000.00 1,000.00
+XX.- Estéticas unisex y peluquerías 350.00 300.00
 
-XXV.- Tiendas de ropa y almacenes 400.00 300.00
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-XXVI.- Florerías y funerarias 400.00 150.00
+XXI.- Talleres mecánicos 600.00 300.00
 
-XVII.- Bancos, casas de empeño y 5,000.00 2,000.00
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-financieras
+XXII.- Talleres de torno y herrería
 
-XXVIII.- Puesto de venta de revistas y 300.00 100.00
+en general 700.00 400.00
 
-periódicos
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-XXIX.- Videoclubs en general 300.00 150.00
+XXIII.- Restaurantes y cafeterías 2,000.00 1,000.00
 
-XXX.- Carpinterías 500.00 300.00
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-XXXI.- Bodegas de refrescos 3,500.00 800.00
+XXIV.- Tiendas de ropa y almacenes 400.00 300.00
 
-XXXII.- Consultorios y clínicas 1,000.00 700.00
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-XXXIII.- Dulcerías 300.00 150.00
+XXV.- Florerías y funerarias 400.00 150.00
 
-XXXIV.- Expendios de venta y reparación 500.00 300.00
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-de telefonía celular
+XVI.- Bancos, casas de empeño
 
-XXXV.- Cinema 2,000.00 1,000.00
+y financieras 5,500.00 2,500.00
 
-XXXVI.-Talleres de reparación eléctrica 400.00 150.00
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-XXXVII.- Escuelas particulares y academias 700.00 300.00
+XXVII.- Puesto de venta de
 
-XXXVIII.- Salas de fiestas 3,000.00 1,000.00
+revistas y periódicos 300.00 100.00
 
-XXXIX.- Expendios de alimentos de animales 1,000.00 700.00
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-XL.- Gaseras 3,000.00 1,000.00
+XXVIII.- Videoclubs en general 300.00 150.00
 
-XLI.- Gasolineras 6,000.00 1,500.00
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-XLII.- Mueblerías 1,000.00 500.00
+XXIX.- Carpinterías 500.00 300.00
 
-XLIII.- Servicio de sistema de cablevisión 800.00 500.00
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-XLIV.- Fábrica de hielo 400.00 150.00
+XXX.- Bodegas de refrescos 3,500.00 800.00
 
-XLV.- Centros de foto estudios y grabación 400.00 150.00
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-XLVI.- Despachos contables y jurídicos 1,000.00 500.00
+XXXI.- Consultorios y clínicas 1,000.00 700.00
 
-XLVII.- Servicio de motos taxi 500.00 150.00
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-XLVIII.- Compra/venta de frutas y verduras 500.00 400.00
+XXXII.- Dulcerías 300.00 150.00
 
-XLIX.- Empacadoras de alimentos 7,000.00 4,000.00
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-L.- La instalación y operación de plantas 600,000.00 70,000.00
+XXXIII.- Expendios de venta y
 
-fotovoltaicas para la generación de
+reparación de telefonía celular 500.00 300.00
 
-energía renovable y no renovable.
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-LI.- Por la instalación de ductos, postes 300,000.00 50,000.00
+XXXIV.- Cinema 2,000.00 1,000.00
 
-para energías renovables o no renovables
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-LII.- Granjas avícolas, porcícolas, ganaderas 20,000.00 15,000.00
+XXXV.-Talleres de reparación
 
-de más de 10 empleados.
+eléctrica 400.00 150.00
 
-LIII.- Granjas avícolas, porcícolas, ganaderas 3,000.00 1,000.00
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-de menos de 10 empleados
+XXXVI.- Escuelas particulares
 
-LIV.- Instalación y operación de parques 400,000.00 60,000.00
+y academias 700.00 300.00
 
-eólicos para la generación de energía
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-renovable o no renovable
+XXXVII.- Salas de fiestas 3,000.00 1,000.00
 
-LV.- Servicios de Sistemas de telefonía 60,000.00 30,000.00
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
-celular o satelital
+XXXVIII.- Expendios de alimentos
 
-LVI.-Servicios de Internet 2,000.00 1,000.00
+de animales 1,000.00 700.00
 
-LVII.- Gimnasios 1,000.00 800.00
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
+
+XXXIX.- Gaseras 3,000.00 1,000.00
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
+
+XL.- Gasolineras 6,000.00 1,500.00
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
+
+XLI.- Mueblerías 1,000.00 500.00
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
+
+XLII. Servicio de sistema
+
+de cablevisión 800.00 500.00
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
+
+XLIII.- Fábrica de hielo 400.00 150.00
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
+
+XLIV.- Centros de foto estudios
+
+y grabación 400.00 150.00
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
+
+XLV.- Despachos contables
+
+y jurídicos 1,000.00 500.00
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
+
+XLVI.- Compra/venta de frutas
+
+y verduras 500.00 400.00
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
+
+XLVII.- Empacadoras de alimentos 7,000.00 4,000.00
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
+
+XLVIII.- La instalación y operación
+
+de plantas fotovoltaicas para
+
+la generación de energía renovable
+
+y no renovable. 600,000.00 70,000.00
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
+
+XLIX.- Por la instalación de ductos,
+
+postes para energías renovables
+
+o no renovables 300,000.00 50,000.00
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
+
+L.- Granjas avícolas, porcícolas
+
+y/o ganaderas 22,000.00 17,000.00
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
+
+LI.- Instalación y operación de
+
+parques eólicos para la
+
+generación de energía renovable
+
+o no renovable 400,000.00 60,000.00
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
+
+LII.- Servicios de Sistemas de
+
+telefonía celular o satelital 60,000.00 30,000.00
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
+
+LIII.-Servicios de Internet 2,200.00 1,200.00
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2023)</small>
+
+LIV.- Gimnasios 1,200.00 1,000.00
 
 DE LAS MULTAS Y CLAUSURAS
 
@@ -1557,11 +1683,11 @@ II.- La superficie total del predio que sea objeto de limpia por parte del perso
 
 TARIFA
 
-> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 96.
 
-La tarifa se causara mensualmente a razón de $11.00 por predio, en el caso del inciso I y de $200.00, en el caso del inciso II, ambos del artículo anterior.
+La tarifa se causará mensualmente a razón de $11.00 por predio habitacional y $50.00 por predio comercial, en el caso de la fracción I y de $200.00, en el caso de la fracción II, ambos del artículo anterior.
 
 PAGO
 
@@ -1591,11 +1717,11 @@ Son responsables solidarios del pago de estos derechos los Notarios Públicos y 
 
 CUOTA
 
-> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 101.
 
-La cuota de este derecho será el equivalente a $20.00 habitacional y $50.00 comercial de manera mensual por cada toma de agua.
+La cuota de este derecho será el equivalente a $ 20.00 habitacional y $ 150.00 comercial de manera mensual por cada toma de agua.
 
 PAGO
 
@@ -2394,3 +2520,11 @@ Artículo Primero.- Este decreto entrará en vigor el día siguiente de su publi
 Artículo Segundo.- El H. Ayuntamiento de Dzidzantún, para percibir aprovechamientos vía infracciones por faltas administrativas, deberá contar con los reglamentos municipales respectivos, que establecerán los montos de las sanciones correspondientes.
 
 Artículo Tercero.- La Ley de Hacienda del Municipio de Tixpéual, deroga el artículo primero transitorio por el que se modificó dicha Ley, mediante Decreto 449/2021 publicado en el Diario Oficial del Gobierno del Estado el 31 de diciembre de 2021.
+
+D.O. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 712/2023 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CHICHIMILÁ, HOCABÁ, MOTUL, OXKUTZCAB, SACALUM, TEMAX Y VALLADOLID, TODAS DEL ESTADO DE YUCATÁN".]
+
+Artículo primero. Este decreto entrará en vigor el día siguiente de su publicación, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Se exceptúa de la vigencia señalada en el artículo anterior, lo dispuesto en el artículo 178 Bis, contenido en el artículo séptimo de este decreto relativo a las modificaciones a la Ley de Hacienda para el Municipio de Valladolid, Yucatán, el cual entrará en vigor el segundo semestre del año 2024.
