@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-794-de-archivos-del-estado-de-guerrero-y-sus-150361"
 country: "mx"
 rank: "ley"
 publication_date: "2021-07-23"
-last_updated: "2021-07-23"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 794 DE ARCHIVOS DEL ESTADO DE GUERRERO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Edición Número 59 del Periódico Oficial del Estado de Guerrero, el viernes 23 de julio de 2021.
 
@@ -177,9 +177,9 @@ XLIV. Plazo de conservación: El periodo de guarda de la documentación en los a
 
 XLV. Programa anual: El Programa anual de desarrollo archivístico;
 
-(NOTA: EL 2 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2021 Y SU ACUMULADA 125/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XLVI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-XLVI. REGISTRO ESTATAL: EL REGISTRO DE ARCHIVOS DEL ESTADO DE GUERRERO;
+XLVI. Registro Nacional: El Registro Nacional de Archivos del Archivo General de la Nación;
 
 XLVII. Sección: Cada una de las divisiones del fondo documental basada en las atribuciones de cada sujeto obligado de conformidad con las disposiciones legales aplicables;
 
@@ -263,9 +263,9 @@ II. Establecer un sistema institucional para la administración de sus archivos 
 
 III. Integrar los documentos en expedientes;
 
-(NOTA: EL 2 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2021 Y SU ACUMULADA 125/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-IV. Inscribir EN EL REGISTRO ESTATAL Y en el Registro Nacional, de acuerdo con las disposiciones que se emitan en la materia, la existencia y ubicación de archivos bajo su resguardo;
+IV. Inscribir en el Registro Nacional, de acuerdo con las disposiciones que se emitan en la materia, la existencia y ubicación de archivos bajo su resguardo;
 
 V. Conformar un grupo interdisciplinario, que coadyuve en la valoración documental;
 
@@ -279,7 +279,9 @@ IX. Racionalizar la producción, uso, distribución y control de los documentos 
 
 X. Resguardar los documentos contenidos en sus archivos;
 
-XI. Aplicar métodos y medidas para la organización, protección y conservación de los documentos de archivo, considerando el estado que guardan y el espacio para su almacenamiento; así como procurar el resguardo digital de dichos documentos, y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+XI. Aplicar métodos y medidas para la organización, protección y conservación de los documentos de archivo, considerando el estado que guardan y el espacio para su almacenamiento; así como procurar el resguardo digital de todos los archivos de índole de trámite, conservación e históricos, y demás documentos de interés público con el fin de contribuir a un gobierno abierto con acceso a la información, y con base a la transparencia y combate a la corrupción, y
 
 XII. Las demás disposiciones establecidas en esta Ley y otras normas aplicables.
 
@@ -525,9 +527,9 @@ III. El acceso a dicha información beneficie de manera contundente a la persona
 
 IV. Sea solicitada por un familiar directo de la persona titular de la información o un biógrafo autorizado por él mismo.
 
-(NOTA: EL 2 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2021 Y SU ACUMULADA 125/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-LOS PARTICULARES PODRÁN IMPUGNAR LAS DETERMINACIONES O RESOLUCIONES QUE, EN MATERIA DE LO PREVISTO POR LA LEY GENERAL Y ESTA LEY DICTE EL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO, QUE REFIERE EL PRESENTE ARTÍCULO, ANTE EL PODER JUDICIAL DEL ESTADO.
+Los particulares podrán impugnar las determinaciones o resoluciones que, en materia de lo previsto por la Ley General y esta Ley dicte el Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado, que refiere el presente artículo, ante el Poder Judicial de la Federación, conforme lo establecido en la Ley General de la materia.
 
 ###### Artículo 40.
 
@@ -785,9 +787,9 @@ XI. Un representante del Consejo Técnico y Científico Archivístico.
 
 Los representantes referidos en las fracciones IV, V y VI de este artículo serán designados en los términos que disponga la normativa de los órganos a que pertenecen.
 
-(NOTA: EL 2 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2021 Y SU ACUMULADA 125/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-La designación del representante de los archivos privados referidos en la fracción X de este artículo, será a través de convocatoria que emita el Consejo Estatal, estableciendo como mínimo los requisitos siguientes: QUE FORME PARTE DEL REGISTRO ESTATAL, una asociación civil legalmente constituida con al menos diez años previos a la convocatoria, cuyo objeto social sea relacionado con la conservación de archivos y que cuente con la representación de al menos quince archivos privados.
+La designación del representante de los archivos privados referidos en la fracción X de este artículo, será a través de convocatoria que emita el Consejo Estatal, estableciendo como mínimo los requisitos siguientes: que forme parte de una asociación civil legalmente constituida con al menos diez años previos a la convocatoria, cuyo objeto social sea relacionado con la conservación de archivos y que cuente con la representación de al menos quince archivos privados.
 
 El Consejo Local contará con un Secretario Técnico que será nombrado y removido por el Presidente del Consejo.
 
@@ -885,7 +887,9 @@ II. Celebrar acuerdos interinstitucionales para el intercambio de conocimientos 
 
 III. Promover acciones coordinadas de protección del patrimonio documental y del derecho de acceso a los archivos, y
 
-IV. Promover la digitalización de la información generada con motivo del ejercicio de las funciones y atribuciones de los sujetos obligados, que se encuentre previamente organizada, así como garantizar el cumplimiento de los lineamientos que para el efecto se emitan.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+IV. Realizar de manera obligatoria la digitalización de la información generada con motivo del ejercicio de las funciones y atribuciones de los Sujetos Obligados, que se encuentre previamente organizada, así como garantizar el cumplimiento de los lineamientos que para el efecto se emitan con el propósito de asegurar el derecho de acceso a la información, en los términos que señale la Ley General de Archivos y la Ley de Gobernanza Digital del Estado de Guerrero.
 
 ### Capítulo IV. Archivos privados
 
@@ -923,33 +927,35 @@ Los sujetos obligados que tengan conocimiento de la enajenación por venta de un
 
 Las autoridades del Estado y sus municipios deberán coadyuvar con el Archivo General, en un marco de respeto de sus atribuciones, para promover acciones coordinadas que tengan como finalidad el cumplimiento de las obligaciones de conservación, preservación y acceso público de los archivos privados de interés público en posesión de particulares.
 
-### Capítulo V. Registro Estatal de Archivo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-(NOTA: EL 2 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2021 Y SU ACUMULADA 125/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+### Capítulo V. Vinculación con el Registro Nacional de Archivo
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 77.
 
-El Sistema Estatal contará con el Registro Estatal, cuyo objeto es obtener y concentrar información sobre los sistemas institucionales y de los archivos privados de interés público, así como difundir el patrimonio documental resguardado en sus archivos, el cual será administrado por el Archivo General del Estado.
+El Consejo Estatal coordinará la implementación de los criterios que apruebe el Consejo Nacional de Archivos con el objetivo para que cada sujeto obligado concentre y registre la información sobre los sistemas institucionales de archivo, así como con las instituciones que cuenten con archivos privados de interés público, en el Registro Nacional administrado por el Archivo General de la Nación.
 
-(NOTA: EL 2 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2021 Y SU ACUMULADA 125/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 78.
 
-La inscripción al Registro Estatal es obligatoria para los sujetos obligados quienes deberán actualizar anualmente la información requerida en dicho Registro, de conformidad con las disposiciones que para tal efecto emita el Consejo Local y, en su caso, el Consejo Nacional, en términos de lo dispuesto por la normativa aplicable.
+La inscripción al Registro Nacional es obligatoria para los sujetos obligados quienes deberán actualizar anualmente la información requerida en dicho Registro, de conformidad con las disposiciones que para tal efecto emita el Consejo Nacional, en términos de lo dispuesto por la normativa aplicable.
 
-(NOTA: EL 2 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2021 Y SU ACUMULADA 125/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 79.
 
-El Registro Estatal será administrado por el Archivo General del Estado, su organización y funcionamiento será conforme las disposiciones que emita el Consejo Estatal.
+El registro de información en el Registro Nacional será supervisado por el Archivo General del Estado, que mantendrá comunicación y coordinación permanente con los sujetos obligados sobre la organización y funcionamiento del mismo, conforme las disposiciones que emita el Consejo Nacional.
 
-(NOTA: EL 2 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2021 Y SU ACUMULADA 125/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 80.
 
-Para la operación del Registro Estatal, el Archivo General del Estado pondrá a disposición de los sujetos obligados y de los particulares, propietarios o poseedores de archivos privados de interés público, una aplicación informática que les permita registrar y mantener actualizada la información.
+El Archivo General del Estado pondrá a disposición de los sujetos obligados y de los particulares, propietarios o poseedores de archivos privados de interés público, la información, manuales y lineamientos validades (sic) por el Consejo Nacional que permita a los sujetos obligados registrar y mantener actualizada la información que les competa en el Registro Nacional.
 
-La información del Registro Estatal será de acceso público y de consulta gratuita, disponible a través del portal electrónico del Archivo General del Estado.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ### Capítulo VI. Fondos de apoyo económico para los archivos
 
@@ -987,9 +993,9 @@ Todos los documentos de archivo con valor histórico y cultural son bienes muebl
 
 El titular del Poder Ejecutivo, a través del Archivo General del Estado, podrá emitir declaratorias de patrimonio documental del Estado en los términos previstos por las disposiciones jurídicas aplicables, las cuales serán publicadas en el Periódico Oficial del Gobierno del Estado.
 
-(NOTA: EL 2 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2021 Y SU ACUMULADA 125/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-Los organismos a los que la Constitución Política del Estado Libre y Soberano de Guerrero les otorga autonomía, en coordinación con el Archivo General del Estado, podrán emitir declaratorias de patrimonio documental DE LA NACIÓN en las materias de su competencia y deberán publicarse en el Periódico Oficial del Gobierno del Estado.
+Los organismos a los que la Constitución Política del Estado Libre y Soberano de Guerrero les otorga autonomía, en coordinación con el Archivo General del Estado, podrán solicitar al Archivo General de la Nación, la emisión de declaratorias de patrimonio documental en las materias de su competencia.
 
 ### Capítulo II. Protección del patrimonio documental del Estado
 
@@ -1083,11 +1089,11 @@ Los usuarios de los archivos deberán respetar las disposiciones aplicables para
 
 ### Capítulo I. Organización y funcionamiento
 
-(NOTA: EL 2 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2021 Y SU ACUMULADA 125/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 103.
 
-EL ARCHIVO GENERAL ES UN ORGANISMO ADMINISTRATIVO DESCONCENTRADO CON AUTONOMÍA TÉCNICA Y DE GESTIÓN PARA EL CUMPLIMIENTO DE SUS ATRIBUCIONES, OBJETO Y FINES, DEPENDIENTE DE LA SECRETARÍA GENERAL DE GOBIERNO; SU DOMICILIO LEGAL ES EN LA CIUDAD DE CHILPANCINGO, MUNICIPIO DE CHILPANCINGO DE LOS BRAVO.
+El Archivo General es un Organismo Público Descentralizado, con personalidad jurídica y patrimonio propio, autonomía técnica y de gestión para el cumplimiento de sus atribuciones, objeto y atribuciones (sic); su domicilio legal es en la Ciudad de Chilpancingo, municipio de Chilpancingo de los Bravo.
 
 El Archivo General del Estado, es la entidad especializada en materia de archivos, que tiene por objeto promover la organización y administración homogénea de archivos, preservar, incrementar y difundir el patrimonio documental del Estado de Guerrero, con el fin de salvaguardar la memoria estatal de corto, mediano y largo plazo; así como contribuir a la transparencia y rendición de cuentas.
 
@@ -1095,9 +1101,9 @@ El Archivo General del Estado, es la entidad especializada en materia de archivo
 
 Para el cumplimiento de su objeto, el Archivo General del Estado, tiene las atribuciones siguientes:
 
-(NOTA: EL 2 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2021 Y SU ACUMULADA 125/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-I. FUNGIR, MEDIANTE SU TITULAR, COMO SECRETARIO TÉCNICO DEL CONSEJO ESTATAL;
+I. Garantizar su viabilidad y operación, a fin de dar cumplimiento a los objetivos y principios constitucionales que lo rige;
 
 II. Organizar, conservar y difundir el acervo documental, gráfico, bibliográfico y hemerográfico que resguarda, con base en las mejores prácticas y las disposiciones jurídicas aplicables;
 
@@ -1165,43 +1171,79 @@ XXXIII. Organizar y participar en eventos estatales, nacionales e internacionale
 
 XXXIV. Las demás establecidas en esta Ley y en otras disposiciones legales aplicables.
 
-(NOTA: EL 2 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2021 Y SU ACUMULADA 125/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 105.
 
 Para el cumplimiento de su objeto, el Archivo General contará con los órganos siguientes:
 
-I. Dirección General;
+I.- Órgano de Gobierno
 
-II. Órgano de Vigilancia;
+II.- Dirección General;
 
-III. Comité Técnico y Científico Archivístico, y
+III.- Órgano de Control Interno;
 
-IV. La estructura administrativa y órganos técnicos establecidos en su Estatuto Orgánico.
+IV.- Consejo Técnico; y
 
-### Capítulo II. Director General
+V.- La estructura administrativa y órganos técnicos establecidos en su Estatuto Orgánico.
 
-### Capítulo III. Órgano de Vigilancia
+El Consejo Técnico operará conforme a los lineamientos emitidos por el Órgano de Gobierno.
 
-(NOTA: EL 2 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2021 Y SU ACUMULADA 125/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+### CAPÍTULO II. DEL ÓRGANO DE GOBIERNO
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Artículo 105 BIS. El Órgano de Gobierno es el cuerpo colegiado de administración del Archivo General que, además de lo previsto en la Ley de Entidades Paraestatales del Estado de Guerrero y las disposiciones reglamentarias, tendrá las siguientes atribuciones:
+
+I. Evaluar la operación administrativa así como el cumplimiento de los objetivos y metas del Archivo General;
+
+II. Emitir los lineamientos para el funcionamiento del Consejo Técnico, y
+
+III. Las demás previstas en otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Artículo 105 TER. El Órgano de Gobierno estará integrado por una persona representante de las siguientes instancias:
+
+I. La Secretaría General de Gobierno, quien lo presidirá;
+
+II. La Secretaría de Finanzas y Administración;
+
+III. La Secretaría de Educación Guerrero;
+
+IV. La Secretaría de la Contraloría y Transparencia Gubernamental; y
+
+V. El Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Guerrero.
+
+Los integrantes del Órgano de Gobierno deberán tener, por lo menos, nivel de Subsecretario o su equivalente. Por cada miembro propietario habrá un suplente que deberá tener nivel, por lo menos, de director general o su equivalente.
+
+El presidente o a propuesta de alguno de los integrantes del Órgano de Gobierno, podrá invitar a las sesiones a representantes de todo tipo de instituciones públicas o privadas, quienes intervendrán con voz pero sin voto.
+
+Los integrantes del Órgano de Gobierno, no obtendrán remuneración, compensación o emolumento por su participación.
+
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CÁPITULO II], P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+### Capítulo III. Director General
 
 ###### Artículo 106.
 
 El Director General, será nombrado por el Gobernador del Estado y deberá cubrir los siguientes requisitos:
 
-(NOTA: EL 2 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2021 Y SU ACUMULADA 125/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-I. Ser ciudadano mexicano POR NACIMIENTO;
+I. Ser ciudadano mexicano;
 
 II. Poseer, al día de la designación, preferentemente el grado académico de licenciado, expedido por autoridad o institución facultada para ello, o bien, contar con experiencia mínima de cinco años en materia archivística;
 
-(NOTA: EL 2 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2021 Y SU ACUMULADA 125/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-III. NO HABER SIDO CONDENADO POR LA COMISIÓN DE ALGÚN DELITO DOLOSO;
+III. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2023)
 
 IV. Tener cuando menos treinta años de edad al día de la designación;
 
-V. No ser cónyuge, ni tener relación de parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con cualquiera de los miembros del Consejo Estatal, y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+V. No ser cónyuge, ni tener relación de parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con cualquiera de los miembros del Órgano de Gobierno, y
 
 VI. No haber sido Secretario de Estado, Fiscal General, Diputado Federal o Estatal, dirigente de un partido o agrupación política, Gobernador de algún Estado, durante el año previo al día de su nombramiento.
 
@@ -1213,27 +1255,31 @@ El Director General, tendrá las facultades siguientes:
 
 I. Supervisar que la actividad del Archivo General del Estado cumpla con las disposiciones legales, administrativas y técnicas aplicables, así como con los programas y presupuestos aprobados;
 
-(NOTA: EL 2 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2021 Y SU ACUMULADA 125/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-II. PROPONER AL CONSEJO ESTATAL LAS MEDIDAS NECESARIAS PARA EL FUNCIONAMIENTO DEL ARCHIVO GENERAL DEL ESTADO;
+II. Proponer al Órgano de Gobierno las medidas necesarias para el funcionamiento del Archivo General del Estado;
 
-(NOTA: EL 2 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2021 Y SU ACUMULADA 125/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-III. PROPONER AL CONSEJO ESTATAL EL PROYECTO DEL REGLAMENTO INTERIOR DEL ÓRGANO ADMINISTRATIVO DESCONCENTRADO;
+III. Proponer al Órgano de Gobierno el proyecto de Estatuto Orgánico;
 
-(NOTA: EL 2 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2021 Y SU ACUMULADA 125/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-IV. NOMBRAR Y REMOVER A LOS SERVIDORES PÚBLICOS DEL ARCHIVO GENERAL, CUYO NOMBRAMIENTO NO CORRESPONDA A LOS TITULARES DE LA SECRETARÍA GENERAL DE GOBIERNO Y DEL PODER EJECUTIVO, Y
+IV. Nombrar y remover a los servidores públicos del Archivo General, cuyo nombramiento no corresponda al Órgano de Gobierno,
 
 V. Las demás previstas en esta Ley y en otras disposiciones jurídicas aplicables.
 
-### Capítulo IV. Comité Técnico y Científico Archivístico
+> <small>(REFORMADA SU DENOMINACIÓN Y NUMERACIÓN [N. DE E. ANTES CÁPITULO III], P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+### Capítulo IV. Órgano Interno de Control
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 108.
 
-El Archivo General del Estado, será vigilado por órgano interno de control de la Secretaría General de Gobierno, que será designado y removido por el Secretario de Contraloría y Transparencia Gubernamental y tendrá las atribuciones previstas en la Ley Orgánica de la Administración Pública del Estado de Guerrero y demás disposiciones legales aplicables.
+El Archivo General del Estado contará con un Órgano de Control Interno de conformidad con la Ley Orgánica de la Administración Pública del Estado de Guerrero, su Estatuto Orgánico y demás disposiciones legales aplicables.
 
-### Capítulo I. Infracciones administrativas
+### Capítulo IV (SIC). Comité Técnico y Científico Archivístico
 
 ###### Artículo 109.
 
@@ -1245,7 +1291,7 @@ Los integrantes del Comité Técnico no obtendrán remuneración, compensación 
 
 ## Título Séptimo. Infracciones Administrativas y delitos en materia de archivos
 
-### Capítulo II. Delitos contra los archivos
+### Capítulo I. Infracciones administrativas
 
 ###### Artículo 110.
 
@@ -1293,6 +1339,8 @@ Las sanciones administrativas señaladas en esta Ley son aplicables sin perjuici
 
 En caso de que existan hechos que pudieran ser constitutivos de algún delito, las autoridades estarán obligadas a realizar la denuncia ante el Ministerio Público correspondiente, coadyuvando en la investigación y aportando todos los elementos probatorios con los que cuente.
 
+### Capítulo II. Delitos contra los archivos
+
 ###### Artículo 114.
 
 Será sancionado con pena de tres a diez años de prisión y multa de tres mil a cinco mil veces la unidad de medida y actualización a la persona que:
@@ -1325,9 +1373,9 @@ SEGUNDO. A partir de la entrada en vigor de la Ley se abroga la Ley número 875 
 
 TERCERO. En tanto se expidan las normas archivísticas correspondientes, se aplicarán las disposiciones reglamentarias vigentes en la materia derivadas de la Ley General de Archivos.
 
-(NOTA: EL 2 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2021 Y SU ACUMULADA 125/2021, DECLARÓ LA INVALIDEZ DEL TRANSITORIO CUARTO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-CUARTO. EL CONSEJO LOCAL EMITIRÁ LINEAMIENTOS, MECANISMOS Y CRITERIOS PARA LA CONSERVACIÓN Y RESGUARDO DE DOCUMENTOS DE ACUERDO A LAS CARACTERÍSTICAS ECONÓMICAS, CULTURALES Y SOCIALES DE CADA REGIÓN EN LOS MUNICIPIOS QUE NO TENGAN CONDICIONES PRESUPUESTARIAS NI TÉCNICAS Y CUENTEN CON UNA POBLACIÓN MENOR A 70,000 HABITANTES.
+CUARTO. El Consejo Estatal brindará apoyo a los municipios para el adecuado cumplimiento e implementación de los lineamientos, mecanismos y criterios para la conservación y resguardo de documentos que apruebe el Consejo Nacional, de acuerdo a las características económicas, culturales y sociales, así como conforme las limitaciones técnicas que enfrenten.
 
 QUINTO. Las Secretarías General de Gobierno, de Finanzas y Administración y de la Contraloría y Transparencia Gubernamental, en el ámbito de sus atribuciones, deberán llevar a cabo las gestiones necesarias para que se autorice conforme a las disposiciones aplicables la estructura orgánica y ocupacional del Archivo General del Estado.
 
@@ -1335,13 +1383,15 @@ SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor de la pr
 
 SÉPTIMO. El Órgano de Gobierno del Archivo General del Estado, deberá expedir y publicar en el Periódico Oficial del Estado de Guerrero en un periodo no mayor a un año, contado a partir de la entrada en vigor de la presente Ley, el Estatuto Orgánico del Archivo General del Estado.
 
-(NOTA: EL 2 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2021 Y SU ACUMULADA 125/2021, DECLARÓ LA INVALIDEZ DEL TRANSITORIO OCTAVO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-OCTAVO. EL ARCHIVO GENERAL DEL ESTADO PERMANECERÁ SECTORIZADO A LA SECRETARÍA GENERAL DE GOBIERNO HASTA EL 31 DE DICIEMBRE DE 2020. A PARTIR DEL 1 DE ENERO DE 2021, SE INCLUIRÁ DENTRO DE LA RELACIÓN DE ENTIDADES PARAESTATALES DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL COMO NO SECTORIZADO.
+OCTAVO. La Secretaría General de Gobierno realizará las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en esta Ley correspondientes para la constitución del Archivo General del Estado como Organismo Público Descentralizado y se incorpore a la relación de Entidades de la Administración Pública Paraestatal. En tanto, la Secretaría General de Gobierno realizará la transferencia de los archivos, recursos materiales, financieros y humanos de los que disponga el actual Archivo General para incorporarse al nuevo organismo.
 
 NOVENO. La Secretaría General de Gobierno, con cargo a su presupuesto, proveerá los recursos humanos, materiales, tecnológicos y financieros que requiera el Archivo General para el cumplimiento del presente ordenamiento, hasta el 31 de diciembre de 2020.
 
-DÉCIMO. El Consejo Local deberá empezar a sesionar dentro de los tres meses posteriores a la entrada en vigor de esta Ley.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+DÉCIMO. El Consejo Estatal, deberá empezar a sesionar dentro de los tres meses posteriores a la entrada en vigor de esta Ley.
 
 DÉCIMO PRIMERO. Los sujetos obligados deberán implementar su sistema institucional, dentro de los seis meses posteriores a la entrada en vigor de la presente Ley.
 
@@ -1396,3 +1446,23 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. FLORENCIO SALAZAR ADAME.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 670 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 794 DE ARCHIVOS DEL ESTADO DE GUERRERO Y SUS MUNICIPIOS”.]
+
+PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para su conocimiento, y en su caso, para la promulgación, sanción y publicación correspondientes.
+
+TERCERO.- Se instruye a la Secretaría de Servicios Parlamentarios para que por las vías más seguras, precisas, indubitables y expeditas haga del conocimiento a la Suprema Corte de Justicia de la Nación del cumplimiento que hace este H. Congreso del Estado, de la Sentencia que dictó, con motivo de las Acciones de Inconstitucionalidad 122/2021 y su Acumulada 125/2021, haciendo llegar copia certificada del presente Decreto, así de la documentación que se estime necesaria para tener por cumplimentada la resolución de mérito.
+
+CUARTO.- Envíese copia certificada de este Decreto a las Secretarías General de Gobierno y de Administración y Finanzas del Gobierno del Estado para los efectos procedentes, previo acuerdo de la Titular del Poder Ejecutivo Local.
+
+QUINTO.- Córrase traslado a la Comisión de Presupuesto y Cuenta Pública de este H. Poder Legislativo para los efectos correspondientes en el dictamen del próximo Presupuesto de Egresos del ejercicio fiscal venidero, que presentará a consideración del Pleno de este H. Congreso del Estado.
+
+SEXTO.- Se instruye a la Secretaría de Servicios Parlamentarios tenga como total y definitivamente desahogados los turnos enviados mediante oficios LXIII/2DO/SSP/DPL/1308/2023; LXIII/3ER/SSP/DPL/0110/2023; LXIII/3ER/SSP/DPL/0203/2023 y LXIII/3ER/SSP/DPL/0363/2023.
+
+SÉPTIMO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
