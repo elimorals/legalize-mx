@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-centro-nacional-de-control-del-gas-166221
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-05-22"
-last_updated: "2023-05-22"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166221&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2023-03-08"
 ---
 # ESTATUTO ORGANICO DEL CENTRO NACIONAL DE CONTROL DEL GAS NATURAL
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE DICIEMBRE DE 2023 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE CONTROL DEL GAS NATURAL
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 22 de mayo de 2023.
 
@@ -33,7 +33,9 @@ Al margen un logotipo, que dice: Centro Nacional de Control del Gas Natural.
 
 ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE CONTROL DEL GAS NATURAL
 
-ABRAHAM DAVID ALIPI MENA, Director General del Centro Nacional de Control del Gas Natural, con fundamento en los artículos 59, fracción XII, de la Ley Federal de las Entidades Paraestatales y Vigésimo Tercero, fracción VII, del Decreto por el que se crea el Centro Nacional de Control del Gas Natural, y en cumplimiento al Acuerdo número CA-012/2023 emitido por el Consejo de Administración del Organismo en su sesión 51 ordinaria, celebrada el día 07 de marzo de 2023, por el que aprobó el Estatuto Orgánico del Centro Nacional de Control del Gas Natural, he tenido a bien publicar el siguiente:
+> <small>(F. DE E., D.O.F. 29 DE DICIEMBRE DE 2023)</small>
+
+ABRAHAM DAVID ALIPI MENA, Director General del Centro Nacional de Control del Gas Natural, con fundamento en los artículos 59, fracción XII, de la Ley Federal de las Entidades Paraestatales y Vigésimo Tercero, fracción VII, del Decreto por el que se crea el Centro Nacional de Control del Gas Natural, y en cumplimiento al Acuerdo número CA-013/2023 emitido por el Consejo de Administración del Organismo en su sesión 51 ordinaria, celebrada el día 07 de marzo de 2023, por el que aprobó el Estatuto Orgánico del Centro Nacional de Control del Gas Natural, he tenido a bien publicar el siguiente:
 
 ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE CONTROL DEL GAS NATURAL
 
@@ -1545,4 +1547,6 @@ QUINTO. Las referencias que se hagan en otros instrumentos a las áreas cuya den
 
 SEXTO. Los asuntos, procedimientos, trámites o instrumentos de cualquier naturaleza que se hayan iniciado por las áreas que se reubican, deberán continuarse hasta su conclusión por las áreas que asumen las funciones conforme a este Estatuto.
 
-Ciudad de México, a 8 de marzo de 2023.- Con fundamento en los artículos 59, fracción XII, de la Ley Federal de las Entidades Paraestatales y Vigésimo Tercero, fracción VII, del Decreto por el que se crea el Centro Nacional de Control del Gas Natural y, en cumplimiento al Acuerdo número CA-012/2023 emitido por el Consejo de Administración en su sesión 51 ordinaria, celebrada el día 7 de marzo de 2023, firma el Director General del Centro Nacional de Control del Gas Natural, Abraham David Alipi Mena.- Rúbrica.
+> <small>(F. DE E., D.O.F. 29 DE DICIEMBRE DE 2023)</small>
+
+Ciudad de México, a 8 de marzo de 2023.- Con fundamento en los artículos 59, fracción XII, de la Ley Federal de las Entidades Paraestatales y Vigésimo Tercero, fracción VII, del Decreto por el que se crea el Centro Nacional de Control del Gas Natural y, en cumplimiento al Acuerdo número CA-013/2023 emitido por el Consejo de Administración en su sesión 51 ordinaria, celebrada el día 7 de marzo de 2023, firma el Director General del Centro Nacional de Control del Gas Natural, Abraham David Alipi Mena.- Rúbrica.
