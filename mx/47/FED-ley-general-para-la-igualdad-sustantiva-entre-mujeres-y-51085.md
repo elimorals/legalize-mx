@@ -4,7 +4,7 @@ identifier: "FED-ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-51085"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-08-02"
-last_updated: "2022-10-31"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51085&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-07-27"
 
 LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de agosto de 2006.
 
@@ -51,13 +51,13 @@ La presente Ley tiene por objeto regular y garantizar la igualdad de oportunidad
 
 Son principios rectores de la presente Ley: la igualdad, la no discriminación, la equidad y todos aquellos contenidos en la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 3.
 
-Son sujetos de los derechos que establece esta Ley, las mujeres y los hombres que se encuentren en territorio nacional, que por razón de su sexo, independientemente de su edad, estado civil, profesión, cultura, origen étnico o nacional, condición social, salud, religión, opinión o discapacidad, se encuentren con algún tipo de desventaja ante la violación del principio de igualdad que esta Ley tutela.
+Son sujetos de los derechos que establece esta Ley, las mujeres y los hombres que se encuentren en territorio nacional, que por razón de su sexo, independientemente de su edad, género, color de la piel, embarazo, estado civil, profesión, cultura, origen étnico o nacional, lengua o idioma, situación migratoria, orientación sexual, condición social o económica, situación familiar, responsabilidad familiar, salud, religión, opinión o discapacidad, se encuentren con algún tipo de desventaja ante la violación del principio de igualdad que esta Ley tutela.
 
-La trasgresión a los principios y programas que la misma prevé será sancionada de acuerdo a lo dispuesto por la Ley Federal de Responsabilidades de los Servidores Públicos y, en su caso, por las Leyes aplicables de las Entidades Federativas, que regulen esta materia.
+La trasgresión a los principios y programas que la misma prevé será sancionada de acuerdo a lo dispuesto por la Ley General de Responsabilidades Administrativas, por la Ley Federal de Responsabilidades de los Servidores Públicos, la Ley Federal para Prevenir y Eliminar la Discriminación y demás aplicables en el ámbito federal, en su caso, por las Leyes aplicables de las Entidades Federativas, que regulen esta materia.
 
 > <small>(REFORMADO, D.O.F. 21 DE OCTUBRE DE 2021)</small>
 
@@ -774,3 +774,9 @@ D.O.F. 31 DE OCTUBRE DE 2022.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria de los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes.
+
+D.O.F. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 3 DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
