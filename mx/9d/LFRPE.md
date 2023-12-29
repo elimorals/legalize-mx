@@ -4,7 +4,7 @@ identifier: "LFRPE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2004-12-31"
-last_updated: "2021-05-20"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41938&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFRPE"
 
 LEY FEDERAL DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE MAYO DE 2021.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 31 de diciembre de 2004.
 
@@ -46,9 +46,11 @@ LEY FEDERAL DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO.
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es reglamentaria del segundo párrafo del artículo 113 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones son de orden público e interés general; tiene por objeto fijar las bases y procedimientos para reconocer el derecho a la indemnización a quienes, sin obligación jurídica de soportarlo, sufran daños en cualquiera de sus bienes y derechos como consecuencia de la actividad administrativa irregular del Estado. La responsabilidad extracontractual a cargo del Estado es objetiva y directa, y la indemnización deberá ajustarse a los términos y condiciones señalados en esta Ley y en las demás disposiciones legales a que la misma hace referencia.
+La presente Ley es reglamentaria del sexto párrafo del artículo 109 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones son de orden público e interés general; tiene por objeto fijar las bases y procedimientos para reconocer el derecho a la indemnización a quienes, sin obligación jurídica de soportarlo, sufran daños en cualquiera de sus bienes y derechos como consecuencia de la actividad administrativa irregular del Estado. La responsabilidad extracontractual a cargo del Estado es objetiva y directa, y la indemnización deberá ajustarse a los términos y condiciones señalados en esta Ley y en las demás disposiciones legales a que la misma hace referencia.
 
 Para los efectos de esta Ley, se entenderá por actividad administrativa irregular, aquella que cause daño a los bienes y derechos de los particulares que no tengan la obligación jurídica de soportar, en virtud de no existir fundamento legal o causa jurídica de justificación para legitimar el daño de que se trate.
 
@@ -375,3 +377,9 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 29 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 1 DE LA LEY FEDERAL DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
