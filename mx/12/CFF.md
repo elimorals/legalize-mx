@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2022-12-27"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -26,7 +26,7 @@ CÓDIGO FISCAL DE LA FEDERACIÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE NOVIEMBRE DE 2021.
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 27 DE DICIEMBRE DE 2022.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 29 DE DICIEMBRE DE 2023.
 
 Código publicado en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -1098,11 +1098,11 @@ Para determinar las contribuciones al comercio exterior, así como para pagar aq
 
 La equivalencia del peso mexicano con monedas extranjeras distintas al dólar de los Estados Unidos de América que regirá para efectos fiscales, se calculará multiplicando el tipo de cambio a que se refiere el párrafo tercero del presente artículo, por el equivalente en dólares de la moneda de que se trate, de acuerdo con la tabla que mensualmente publique el Banco de México durante la primera semana del mes inmediato siguiente a aquél al que corresponda.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-Se aceptará como medio de pago de las contribuciones y aprovechamientos, los cheques del mismo banco en que se efectúe el pago, la transferencia electrónica de fondos a favor de la Tesorería de la Federación, así como las tarjetas de crédito y débito, de conformidad con las reglas de carácter general que expida el Servicio de Administración Tributaria. Los contribuyentes personas físicas que realicen actividades empresariales y que en el ejercicio inmediato anterior hubiesen obtenido ingresos inferiores a $2,455,520.00, así como las personas físicas que no realicen actividades empresariales y que hubiesen obtenido en dicho ejercicio ingresos inferiores a $420,940.00, efectuarán el pago de sus contribuciones en efectivo, transferencia electrónica de fondos a favor de la Tesorería de la Federación, tarjetas de crédito y débito o cheques personales del mismo banco, siempre que en este último caso, se cumplan las condiciones que al efecto establezca el Reglamento de este Código. Se entiende por transferencia electrónica de fondos, el pago de las contribuciones que por instrucción de los contribuyentes, a través de la afectación de fondos de su cuenta bancaria a favor de la Tesorería de la Federación, se realiza por las instituciones de crédito, en forma electrónica.
+Se aceptará como medio de pago de las contribuciones y aprovechamientos, los cheques del mismo banco en que se efectúe el pago, la transferencia electrónica de fondos a favor de la Tesorería de la Federación, así como las tarjetas de crédito y débito, de conformidad con las reglas de carácter general que expida el Servicio de Administración Tributaria. Los contribuyentes personas físicas que realicen actividades empresariales y que en el ejercicio inmediato anterior hubiesen obtenido ingresos inferiores a $2,761,230.00, así como las personas físicas que no realicen actividades empresariales y que hubiesen obtenido en dicho ejercicio ingresos inferiores a $473,350.00, efectuarán el pago de sus contribuciones en efectivo, transferencia electrónica de fondos a favor de la Tesorería de la Federación, tarjetas de crédito y débito o cheques personales del mismo banco, siempre que en este último caso, se cumplan las condiciones que al efecto establezca el Reglamento de este Código. Se entiende por transferencia electrónica de fondos, el pago de las contribuciones que por instrucción de los contribuyentes, a través de la afectación de fondos de su cuenta bancaria a favor de la Tesorería de la Federación, se realiza por las instituciones de crédito, en forma electrónica.
 
 > <small>(F. DE E., D.O.F. 28 DE MARZO DE 1984)</small>
 
@@ -1586,9 +1586,9 @@ f) Omita enterar a las autoridades fiscales, dentro del plazo que las leyes esta
 
 g) Se encuentre en el listado a que se refiere el artículo 69-B, cuarto párrafo de este Código, por haberse ubicado en definitiva en el supuesto de presunción de haber emitido comprobantes que amparan operaciones inexistentes a que se refiere dicho artículo.
 
-> <small>[N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-h) Se encuentre en el supuesto a que se refiere el artículo 69-B, octavo párrafo de este Código, por no haber acreditado la efectiva adquisición de los bienes o recepción de los servicios, ni corregido su situación fiscal, cuando en un ejercicio fiscal dicha persona moral haya recibido comprobantes fiscales de uno o varios contribuyentes que se encuentren en el supuesto a que se refiere el cuarto párrafo del artículo 69-B del (sic) este código, por un monto superior a $8,658,790.00.
+h) Se encuentre en el supuesto a que se refiere el artículo 69-B, octavo párrafo de este Código, por no haber acreditado la efectiva adquisición de los bienes o recepción de los servicios, ni corregido su situación fiscal, cuando en un ejercicio fiscal dicha persona moral haya recibido comprobantes fiscales de uno o varios contribuyentes que se encuentren en el supuesto a que se refiere el cuarto párrafo del artículo 69-B del (sic) este código, por un monto superior a $9,736,810.00.
 
 > <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
@@ -2266,19 +2266,19 @@ Si en la declaración complementaria se determina que el pago efectuado fue meno
 
 Para los efectos de este artículo, una vez que las autoridades fiscales hayan iniciado el ejercicio de sus facultades de comprobación no tendrán efectos las declaraciones complementarias de ejercicios anteriores que presenten los contribuyentes revisados cuando éstas tengan alguna repercusión en el ejercicio que se esté revisando.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 32-A.
 
-Las personas físicas con actividades empresariales y las personas morales, que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a $140,315,940.00, que el valor de su activo determinado en los términos de las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria, sea superior a $110,849,600.00 o que por lo menos trescientos de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior, podrán optar por dictaminar, en los términos del artículo 52 del Código Fiscal de la Federación, sus estados financieros por contador público autorizado. No podrán ejercer la opción a que se refiere este artículo las entidades paraestatales de la Administración Pública Federal.
+Las personas físicas con actividades empresariales y las personas morales, que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a $157,785,270.00, que el valor de su activo determinado en los términos de las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria, sea superior a $124,650,380.00 o que por lo menos trescientos de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior, podrán optar por dictaminar, en los términos del artículo 52 del Código Fiscal de la Federación, sus estados financieros por contador público autorizado. No podrán ejercer la opción a que se refiere este artículo las entidades paraestatales de la Administración Pública Federal.
 
-> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-Están obligadas a dictaminar, en los términos del artículo 52 del Código Fiscal de la Federación, sus estados financieros por contador público inscrito, las personas morales que tributen en términos del Título II de la Ley del Impuesto sobre la Renta, que en el último ejercicio fiscal inmediato anterior declarado hayan consignado en sus declaraciones normales ingresos acumulables para efectos del impuesto sobre la renta iguales o superiores a un monto equivalente a $1,779,063,820.00, así como aquéllas que al cierre del ejercicio fiscal inmediato anterior tengan acciones colocadas entre el gran público inversionista, en bolsa de valores.
+Están obligadas a dictaminar, en los términos del artículo 52 del Código Fiscal de la Federación, sus estados financieros por contador público inscrito, las personas morales que tributen en términos del Título II de la Ley del Impuesto sobre la Renta, que en el último ejercicio fiscal inmediato anterior declarado hayan consignado en sus declaraciones normales ingresos acumulables para efectos del impuesto sobre la renta iguales o superiores a un monto equivalente a $1,855,919,380.00, así como aquéllas que al cierre del ejercicio fiscal inmediato anterior tengan acciones colocadas entre el gran público inversionista, en bolsa de valores.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -2604,9 +2604,9 @@ La información a que se refiere el párrafo anterior se deberá presentar a má
 
 Los contribuyentes que a continuación se señalan deberán presentar ante las autoridades fiscales, como parte de la declaración del ejercicio, la información sobre su situación fiscal, utilizando los medios y formatos que mediante reglas de carácter general establezca el Servicio de Administración Tributaria.
 
-> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-I. Quienes tributen en términos del Título II de la Ley del Impuesto sobre la Renta, que en el último ejercicio fiscal inmediato anterior declarado hayan consignado en sus declaraciones normales ingresos acumulables para efectos del impuesto sobre la renta iguales o superiores a un monto equivalente a $974,653,950.00,así como aquéllos que al cierre del ejercicio fiscal inmediato anterior tengan acciones colocadas entre el gran público inversionista, en bolsa de valores y que no se encuentren en cualquier otro supuesto señalado en este artículo.
+I. Quienes tributen en términos del Título II de la Ley del Impuesto sobre la Renta, que en el último ejercicio fiscal inmediato anterior declarado hayan consignado en sus declaraciones normales ingresos acumulables para efectos del impuesto sobre la renta iguales o superiores a un monto equivalente a $1,016,759,000.00,así como aquéllos que al cierre del ejercicio fiscal inmediato anterior tengan acciones colocadas entre el gran público inversionista, en bolsa de valores y que no se encuentren en cualquier otro supuesto señalado en este artículo.
 
 El monto de la cantidad establecida en el párrafo anterior se actualizará en el mes de enero de cada año, con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año al mes de diciembre del último año inmediato anterior a aquél por el cual se efectúe el cálculo, de conformidad con el procedimiento a que se refiere el artículo 17-A de este Código.
 
@@ -4116,11 +4116,11 @@ III. Que los depósitos en la cuenta bancaria del contribuyente que no correspon
 
 Para los efectos de esta fracción, se considera que el contribuyente no registró en su contabilidad los depósitos en su cuenta bancaria cuando, estando obligado a llevarla, no la presente a la autoridad cuando ésta ejerza sus facultades de comprobación.
 
-> <small>[N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
-También se presumirá que los depósitos que se efectúen en un ejercicio fiscal, cuya suma sea superior a $1,804,010.00 en las cuentas bancarias de una persona que no está inscrita en el Registro Federal de Contribuyentes o que no está obligada a llevar contabilidad, son ingresos y valor de actos o actividades por los que se deben pagar contribuciones.
+También se presumirá que los depósitos que se efectúen en un ejercicio fiscal, cuya suma sea superior a $2,028,610.00 en las cuentas bancarias de una persona que no está inscrita en el Registro Federal de Contribuyentes o que no está obligada a llevar contabilidad, son ingresos y valor de actos o actividades por los que se deben pagar contribuciones.
 
 > <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
@@ -4956,43 +4956,43 @@ X. No atender los requerimientos realizados por la autoridad fiscal, en el plazo
 
 A quien cometa las infracciones relacionadas con el Registro Federal de Contribuyentes a que se refiere el artículo 79, se impondrán las siguientes multas:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 I. De $4,480.00 a $13,430.00, a las comprendidas en las fracciones I, II y VI.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-II. De $4,800.00 a $9,590.00, a la comprendida en la fracción III. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta, la multa será de $1,600.00 a $3,200.00.
+II. De $5,400.00 a $10,780.00, a la comprendida en la fracción III. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta, la multa será de $1,800.00 a $3,600.00.
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 III. Para la señalada en la fracción IV:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 a) Tratándose de declaraciones, se impondrá una multa entre el 2% de las contribuciones declaradas y $9,530.00. En ningún caso la multa que resulte de aplicar el porcentaje a que se refiere este inciso será menor de $3,810.00 ni mayor de $9,530.00.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 b) De $1,160.00 a $2,660.00, en los demás documentos.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 IV. De $22,400.00 a $44,790.00, para la establecida en la fracción V.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 V. De $4,440.00 a $13,390.00, a la comprendida en la fracción VII.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-VI. De $19,170.00 a $38,360.00, a las comprendidas en las fracciones VIII, IX y X.
+VI. De $21,560.00 a $43,140.00, a las comprendidas en las fracciones VIII, IX y X.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -5200,31 +5200,31 @@ A quien cometa las infracciones relacionadas con la obligación de presentar dec
 
 I. Para la señalada en la fracción I:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 a) De $1,810.00 a $22,400.00, tratándose de declaraciones, por cada una de las obligaciones no declaradas. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, por dicha declaración también se aplicará la multa a que se refiere este inciso.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 b) De $1,810.00 a $44,790.00, por cada obligación a que esté afecto, al presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 c) De $17,190.00 a $34,350.00, por no presentar el aviso a que se refiere el primer párrafo del artículo 23 de este Código.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 d) De $18,360.00 a $36,740.00, por no presentar las declaraciones en los medios electrónicos estando obligado a ello, presentarlas fuera del plazo o no cumplir con los requerimientos de las autoridades fiscales para presentarlas o cumplirlos fuera de los plazos señalados en los mismos.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -5234,165 +5234,163 @@ e) De $1,840.00 a $5,880.00, en los demás documentos.
 
 II. Respecto de la señalada en la fracción II:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 a) De $1,340.00 a $4,480.00, por no poner el nombre o domicilio o ponerlos equivocadamente, por cada uno.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 b) De $30.00 a $120.00, por cada dato no asentado o asentado incorrectamente en la relación de clientes y proveedores contenidas en las formas oficiales.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 c) De $240.00 a $440.00, por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la multa en los términos de este inciso por cada dato que contenga el anexo no presentado.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 d) De $900.00 a $2,230.00, por no señalar la clave que corresponda a su actividad preponderante conforme al catálogo de actividades que publique la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, o señalarlo equivocadamente.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 e) De $5,500.00 a $18,360.00, por presentar medios electrónicos que contengan declaraciones incompletas, con errores o en forma distinta a lo señalado por las disposiciones fiscales.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 f) De $1,620.00 a $4,860.00, por no presentar firmadas las declaraciones por el contribuyente o por el representante legal debidamente acreditado.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 g) De $810.00 a $2,210.00, en los demás casos.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 III. De $1,810.00 a $44,790.00, tratándose de la señalada en la fracción III, por cada requerimiento.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 IV. De $22,400.00 a $44,790.00, respecto de la señalada en la fracción IV, salvo tratándose de contribuyentes que de conformidad con la Ley del Impuesto sobre la Renta, estén obligados a efectuar pagos provisionales trimestrales o cuatrimestrales, supuestos en los que la multa será de $2,230.00 a $13,430.00.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
 
 V. Para la señalada en la fracción V, la multa será de $15,380.00 a $30,800.00.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 VI. Para la señalada en la fracción VI la multa será de $4,480.00 a $13,430.00.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
-
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2004)</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 VII. De $1,110.00 a $11,300.00, para la establecida en la fracción VII.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 VIII. Para la señalada en la fracción VIII, la multa será de $85,000.00 a $254,980.00.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 IX. De $13,430.00 a $44,790.00, para la establecida en la fracción IX.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
-X. De $12,540.00 a $23,500.00, para la establecida en la fracción X.
+X. De $14,100.00 a $26,430.00, para la establecida en la fracción X.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-XI. De $146,740.00 a $195,660.00, para la establecida en la fracción XI, por cada sociedad integrada no incluida en la solicitud de autorización para determinar el resultado fiscal integrado o no incorporada al régimen opcional para grupos de sociedades.
+XI. De $165,010.00 a $220,020.00, para la establecida en la fracción XI, por cada sociedad integrada no incluida en la solicitud de autorización para determinar el resultado fiscal integrado o no incorporada al régimen opcional para grupos de sociedades.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 XII. De $58,240.00 a $89,630.00, para la establecida en la fracción XII, por cada aviso de incorporación o desincorporación no presentado o presentado extemporáneamente, aun cuando el aviso se presente en forma espontánea.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 XIII. De $13,430.00 a $44,790.00, para la establecida en la fracción XIII.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 XIV. De $13,430.00 a $31,350.00, para la establecida en la fracción XIV.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 XV. De $112,020.00 a $224,040.00, para la establecida en la fracción XV.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-XVI. De $13,920.00 a $27,830.00, a la establecida en la fracción XVI. En caso de reincidencia la multa aumentará al 100% por cada nuevo incumplimiento.
+XVI. De $15,650.00 a $31,290.00, a la establecida en la fracción XVI. En caso de reincidencia la multa aumentará al 100% por cada nuevo incumplimiento.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 XVII. De $99,590.00 a $199,190.00, para la establecida en la fracción XVII.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 XVIII. De $12,700.00 a $21,150.00, para la establecida en la fracción XVIII.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 XIX. De $21,150.00 a $42,340.00, para la establecida en la fracción XIX.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2004)</small>
 
 XX. De $6,780.00 a $13,560.00, para la establecida en la fracción XX.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 XXI. De $162,050.00 a $324,130.00, para la establecida en la fracción XXI.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 XXII. De $6,780.00 a $13,560.00, por cada informe no proporcionado a los contribuyentes, para la establecida en la fracción XXII.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 XXIII. De $19,440.00 a $35,650.00, a la establecida en la fracción XXIII.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2004)</small>
 
@@ -5402,67 +5400,67 @@ XXIV. De $6,780.00 a $13,560.00, por cada constancia no proporcionada, para la e
 
 XXV. Para el supuesto de la fracción XXV, las siguientes, según corresponda:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-a) De $35,000.00 a $61,500.00, para la establecida en el primer párrafo.
+a) De $39,360.00 a $69,160.00, para la establecida en el primer párrafo.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-b) De $1,000,000.00 a $1,500,000.00, para la establecida en el segundo párrafo, inciso a).
+b) De $1,124,500.00 a $1,686,750.00, para la establecida en el segundo párrafo, inciso a).
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-c) De $2,000,000.00 a $3,000,000.00, para la establecida en el segundo párrafo, inciso b). La sanción consistirá además en la clausura del establecimiento del contribuyente, por un plazo de uno a tres meses.
+c) De $2,249,000.00 a $3,373,500.00, para la establecida en el segundo párrafo, inciso b). La sanción consistirá además en la clausura del establecimiento del contribuyente, por un plazo de uno a tres meses.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-d) De $3,000,000.00 a $5,000,000.00, para las establecidas en el segundo párrafo, incisos c) y d). La sanción consistirá además en la clausura del establecimiento del contribuyente, por un plazo de tres a seis meses.
+d) De $3,373,500.00 a $5,622,500.00, para las establecidas en el segundo párrafo, incisos c) y d). La sanción consistirá además en la clausura del establecimiento del contribuyente, por un plazo de tres a seis meses.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-e) De $35,000.00 a $61,500.00, para la establecida en el segundo párrafo, inciso e), por cada uno de los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código no enviados al Servicio de Administración Tributaria.
+e) De $39,360.00 a $69,160.00, para la establecida en el segundo párrafo, inciso e), por cada uno de los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código no enviados al Servicio de Administración Tributaria.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-f) De $35,000.00 a $61,500.00, para la establecida en el segundo párrafo, inciso f), por cada uno de los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código enviados al Servicio de Administración Tributaria fuera del plazo establecido.
+f) De $39,360.00 a $69,160.00, para la establecida en el segundo párrafo, inciso f), por cada uno de los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código enviados al Servicio de Administración Tributaria fuera del plazo establecido.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-g) De $35,000.00 a $61,500.00, para la establecida en el segundo párrafo, inciso g), por cada uno de los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código enviados de forma incompleta, con errores, o en forma distinta a lo señalado en dicho apartado.
+g) De $39,360.00 a $69,160.00, para la establecida en el segundo párrafo, inciso g), por cada uno de los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código enviados de forma incompleta, con errores, o en forma distinta a lo señalado en dicho apartado.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-h) De $35,000.00 a $61,500.00, para la establecida en el segundo párrafo, inciso h), por cada uno de los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código no generados o conservados.
+h) De $39,360.00 a $69,160.00, para la establecida en el segundo párrafo, inciso h), por cada uno de los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código no generados o conservados.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-XXVI. De $13,230.00 a $26,460.00, a la establecida en la fracción XXVI. En caso de reincidencia la multa aumentará al 100% por cada nuevo incumplimiento.
+XXVI. De $14,880.00 a $29,750.00, a la establecida en la fracción XXVI. En caso de reincidencia la multa aumentará al 100% por cada nuevo incumplimiento.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
 
 XXVII. De $15,380.00 a $30,800.00, a la establecida en la fracción XXVII.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
 
 XXVIII. De $930.00 a $1,400.00, a la establecida en la fracción XXVIII.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
 
 XXIX. De $62,360.00 a $311,820.00, a la establecida en la fracción XXIX. En caso de reincidencia la multa será de $124,710.00 a $623,640.00, por cada requerimiento que se formule.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
 
 XXX. De $204,050.00 a $290,520.00, a la establecida en la fracción XXX.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
 
@@ -5472,7 +5470,7 @@ XXXII. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
 XXXIII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -5480,33 +5478,33 @@ XXXIV. De $26,440.00 a $44,050.00 por cada solicitud no atendida, para la señal
 
 XXXV. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
-XXXVI. De $102,060.00 a $127,570.00 a la establecida en las fracciones XXXVI, XXXVII, XXXVIII, XLII y XLIV, y, en su caso, la cancelación de la autorización para recibir donativos deducibles.
+XXXVI. De $114,770.00 a $143,450.00 a la establecida en las fracciones XXXVI, XXXVII, XXXVIII, XLII y XLIV, y, en su caso, la cancelación de la autorización para recibir donativos deducibles.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 XXXVII. De $199,630.00 a $284,220.00, para la establecida en la fracción XL.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 XXXVIII. Respecto de las señaladas en la fracción XLI de $7,110.00 a $21,310.00, por no ingresar la información contable a través de la página de Internet del Servicio de Administración Tributaria, como lo prevé el artículo 28, fracción IV del Código, dentro de los plazos establecidos en las disposiciones fiscales estando obligado a ello; ingresarla a través de archivos con alteraciones que impidan su lectura; no ingresarla de conformidad con las reglas de carácter general emitidas para tal efecto, o no cumplir con los requerimientos de información o de documentación formulados por las autoridades fiscales en esta materia.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
-XXXIX. De $179,290.00 a $255,260.00 a la establecida en la fracción XXXIX.
+XXXIX. De $201,610.00 a $287,040.00 a la establecida en la fracción XXXIX.
 
 XL. (DEROGADA, D.O.F. 12 DE NOVIEMBRE DE 2021)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 23 DE ABRIL DE 2021)</small>
 
@@ -5542,33 +5540,33 @@ VII. No presentar la declaración informativa que contenga una lista con los nom
 
 A quien cometa las infracciones relacionadas con la revelación de esquemas reportables previstas en el artículo 82-A, se impondrán las siguientes sanciones:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-I. De $55,480.00 a $22,190,000.00 en el supuesto previsto en la fracción I.
+I. De $62,390.00 a $24,952,660.00 en el supuesto previsto en la fracción I.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-II. De $16,640.00 a $22,190.00 en el supuesto previsto en la fracción II.
+II. De $18,710.00 a $24,950.00 en el supuesto previsto en la fracción II.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-III. De $22,190.00 a $27,740.00 en el supuesto previsto en la fracción III.
+III. De $24,950.00 a $31,190.00 en el supuesto previsto en la fracción III.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-IV. De $110,950.00 a $332,850.00 en el supuesto previsto en la fracción IV.
+IV. De $124,760.00 a $374,290.00 en el supuesto previsto en la fracción IV.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-V. De $27,740.00 a $33,290.00 en el supuesto previsto en la fracción V.
+V. De $31,190.00 a $37,430.00 en el supuesto previsto en la fracción V.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-VI. De $110,950.00 a $554,750.00 en el supuesto previsto en la fracción VI.
+VI. De $124,760.00 a $623,820.00 en el supuesto previsto en la fracción VI.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-VII. De $55,480.00 a $77,670.00 en el supuesto previsto en la fracción VII.
+VII. De $62,390.00 a $87,340.00 en el supuesto previsto en la fracción VII.
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -5592,17 +5590,17 @@ A quien cometa las infracciones relacionadas con la revelación de esquemas repo
 
 I. En el supuesto previsto por la fracción I, no se aplicará el beneficio fiscal previsto en el esquema reportable y se aplicará una sanción económica equivalente a una cantidad entre el 50% y el 75% del monto del beneficio fiscal del esquema reportable que se obtuvo o se esperó obtener en todos los ejercicios fiscales que involucra o involucraría la aplicación del esquema.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-II. De $55,480.00 a $110,950.00 en el supuesto previsto en la fracción II.
+II. De De $62,390.00 a $124,760.00 en el supuesto previsto en la fracción II.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-III. De $110,950.00 a $388,330.00 en el supuesto previsto en la fracción III.
+III. De $124,760.00 a $436,680.00 en el supuesto previsto en la fracción III.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-IV. De $221,900.00 a $2,219,000.00 en el supuesto previsto en la fracción IV.
+IV. De $249,530.00 a $2,495,270.00 en el supuesto previsto en la fracción IV.
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -5628,29 +5626,29 @@ VI. Celebrar contratos o mantener cuentas financieras incumpliendo lo establecid
 
 A quien cometa las infracciones a que se refiere el artículo 82-E de este Código, se le impondrán las siguientes multas:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-I. De $100,000.00 a $150,000.00 a las establecidas en la fracción I, por cada cuenta.
+I. De $112,450.00 a $168,680.00 a las establecidas en la fracción I, por cada cuenta.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-II. De $120,000.00 a $170,000.00 a la establecida en la fracción II, por cada cuenta.
+II. De $134,940.00 a $191,170.00 a la establecida en la fracción II, por cada cuenta.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-III. De $10,000.00 a $50,000.00 a la establecida en la fracción III, por cada dato que se presente incompleto, con errores o en forma distinta a lo señalado por las disposiciones aplicables.
+III. De $11,250.00 a $56,230.00 a la establecida en la fracción III, por cada dato que se presente incompleto, con errores o en forma distinta a lo señalado por las disposiciones aplicables.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-IV. De $60,000.00 a $110,000.00 a la establecida en la fracción IV, por cada cuenta.
+IV. De $67,470.00 a $123,700.00 a la establecida en la fracción IV, por cada cuenta.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-V. De $100,000.00 a $150,000.00 a la establecida en la fracción V, por cada cuenta no registrada.
+V. De $112,450.00 a $168,680.00 a la establecida en la fracción V, por cada cuenta no registrada.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-VI. De $800,000.00 a $1,000,000.00 a la establecida en la fracción VI, por cada contrato celebrado o cuenta financiera mantenida.
+VI. De $899,600.00 a $1,124,500.00 a la establecida en la fracción VI, por cada contrato celebrado o cuenta financiera mantenida.
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -5676,13 +5674,13 @@ VI. Cuando el proveedor de certificación, certifique un comprobante fiscal o lo
 
 A quien cometa las infracciones a que se refiere el artículo 82-G de este Código, se le impondrán las siguientes sanciones:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 I. De $10.00 a $20.00, a las establecidas en las fracciones I, y VI, por cada comprobante fiscal que incumpla con los requisitos establecidos.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-II. De $21.00 a $50.00, a las establecidas en las fracciones II, III, IV, y V, por cada comprobante fiscal que incumpla con los requisitos establecidos.
+II. De $20.00 a $60.00, a las establecidas en las fracciones II, III, IV, y V, por cada comprobante fiscal que incumpla con los requisitos establecidos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -5758,81 +5756,81 @@ XIX. Utilizar para efectos fiscales comprobantes expedidos por un tercero, cuand
 
 A quien cometa las infracciones relacionadas con la obligación de llevar contabilidad a que se refiere el artículo 83, se impondrán las siguientes sanciones:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 I. De $1,960.00 a $19,530.00, a la comprendida en la fracción I.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 II. De $430.00 a $9,760.00, a las establecidas en las fracciones II y III.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-III. De $260.00 a $4,740.00 por cometer la señalada en la fracción IV consistente en no hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos, inexactos, con identificación incorrecta de su objeto o fuera de los plazos respectivos; y por la infracción consistente en registrar gastos inexistentes prevista en la citada fracción IV de un 55% a un 75% del monto de cada registro de gasto inexistente.
+III. De $290.00 a $5,330.00 por cometer la señalada en la fracción IV consistente en no hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos, inexactos, con identificación incorrecta de su objeto o fuera de los plazos respectivos; y por la infracción consistente en registrar gastos inexistentes prevista en la citada fracción IV de un 55% a un 75% del monto de cada registro de gasto inexistente.
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 IV. Para el supuesto de la fracción VII, las siguientes, según corresponda:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 a) De $19,700.00 a $112,650.00. En caso de reincidencia, las autoridades fiscales podrán, adicionalmente, clausurar preventivamente el establecimiento del contribuyente por un plazo de tres a quince días; para determinar dicho plazo, se tomará en consideración lo previsto por el artículo 75 de este Código.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-b) De $1,700.00 a $3,380.00 tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta. En caso de reincidencia, adicionalmente las autoridades fiscales podrán aplicar la clausura preventiva a que se refiere el inciso anterior.
+b) De $1,910.00 a $3,800.00 tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta. En caso de reincidencia, adicionalmente las autoridades fiscales podrán aplicar la clausura preventiva a que se refiere el inciso anterior.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-c) De $16,940.00 a $96,820.00 tratándose de contribuyentes que cuenten con la autorización para recibir donativos deducibles a que se refieren los artículos 79, 82, 83 y 84 de la Ley del Impuesto sobre la Renta y 31 y 114 del Reglamento de dicha Ley, según corresponda. En caso de reincidencia, además se revocará la autorización para recibir donativos deducibles.
+c) De $19,050.00 a $108,870.00 tratándose de contribuyentes que cuenten con la autorización para recibir donativos deducibles a que se refieren los artículos 79, 82, 83 y 84 de la Ley del Impuesto sobre la Renta y 31 y 114 del Reglamento de dicha Ley, según corresponda. En caso de reincidencia, además se revocará la autorización para recibir donativos deducibles.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-d) De $400.00 a $600.00 por cada comprobante fiscal que se emita y no cuente con los complementos que se determinen mediante las reglas de carácter general, que al efecto emita el Servicio de Administración Tributaria.
+d) De $450.00 a $670.00 por cada comprobante fiscal que se emita y no cuente con los complementos que se determinen mediante las reglas de carácter general, que al efecto emita el Servicio de Administración Tributaria.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 V. De $1,190.00 a $15,600.00, a la señalada en la fracción VI.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-VI. De $19,050.00 a $108,880.00, a la señalada en la fracción IX cuando se trate de la primera infracción. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta, la multa será de $1,910.00 a $3,800.00 por la primera infracción. En el caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
+VI. De $21,420.00 a $122,440.00, a la señalada en la fracción IX cuando se trate de la primera infracción. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta, la multa será de $2,150.00 a $4,270.00 por la primera infracción. En el caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
 VII. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 VIII. De $8,960.00 a $44,790.00, a la comprendida en la fracción XIII.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-IX. De $15,410.00 a $154,050.00 a la comprendida en la fracción X.
+IX. De $17,330.00 a $173,230.00 a la comprendida en la fracción X.
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 X. De tres a cinco veces el monto o valor señalado en el comprobante fiscal digital por Internet que ampare el donativo, a la comprendida en la fracción XI.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -5840,7 +5838,7 @@ XI. De $880.00 a $17,030.00, a la comprendida en la fracción XII.
 
 XII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2004)</small>
 
@@ -5848,11 +5846,11 @@ XIII. De $2,260.00 a $6,780.00, a la señalada en la fracción XV, por cada oper
 
 XIV. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-XV. De $15,410.00 a $154,050.00 a la comprendida en la fracción XVII.
+XV. De $17,330.00 a $173,230.00 a la comprendida en la fracción XVII.
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -5928,7 +5926,7 @@ XIV. No proporcionar la información a que se refiere el artículo 32-E de este 
 
 A quien cometa las infracciones relacionadas con las entidades financieras o sociedades cooperativas de ahorro y préstamo a que se refiere el artículo 84-A de este Código, se le impondrán las siguientes multas:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 I. De $430.00 a $19,530.00, a la comprendida en la fracción I.
 
@@ -5936,65 +5934,65 @@ I. De $430.00 a $19,530.00, a la comprendida en la fracción I.
 
 II. Por el 20% del valor del cheque a la establecida en la fracción II.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 III. De $30.00 a $100.00, por cada dato no asentado o asentado incorrectamente, a la señalada en la fracción III.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 IV. De $648,250.00 a $1,296,470.00, a la establecida en la fracción IV.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 V. De $8,510.00 a $127,460.00, a la establecida en la fracción V.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 VI. De $32,400.00 a $97,220.00, a la establecida en la fracción VI.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 VII. De $120.00 a $230.00, por cada estado de cuenta no emitido en términos del artículo 32-B de este Código, y de $456,320.00 a $912,630.00, por no proporcionar la información, a las señaladas en la fracción VII.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-VIII. De $355,040.00 a $394,510.00, a las establecidas en las fracciones VIII, IX y X.
+VIII. De $399,240.00 a $443,630.00, a las establecidas en las fracciones VIII, IX y X.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
-
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
-
-IX. De $355,040.00 a $394,510.00, a las establecidas en la fracción XI.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-X. De $70,150.00 a $84,180.00, a la establecida en la fracción XIV.
+IX. De $399,240.00 a $443,630.00, a las establecidas en la fracción XI.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
-
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
-
-XI. De $315,720.00 a $701,570.00, a la establecida en la fracción XII.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-XII. De $6,520.00 a $97,730.00, a la establecida en la fracción XIII.
+X. De $78,880.00 a $94,660.00, a la establecida en la fracción XIV.
+
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
+
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
+XI. De $355,030.00 a $788,920.00, a la establecida en la fracción XII.
+
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
+
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
+XII. De $7,330.00 a $109,900.00, a la establecida en la fracción XIII., a la establecida en la fracción XIII.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -6002,7 +6000,7 @@ XII. De $6,520.00 a $97,730.00, a la establecida en la fracción XIII.
 
 Son infracciones de los usuarios de los servicios, así como de los cuentahabientes de las instituciones de crédito a que se refiere el último párrafo del artículo 30-A de este Código, la omisión total o parcial de la obligación de proporcionar la información relativa a su nombre, denominación o razón social, domicilio, clave del registro federal de contribuyentes o los datos que se requieran para formar dicha clave o la que la sustituya, que les soliciten los prestadores de servicios y las instituciones de crédito, así como proporcionar datos incorrectos o falsos.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -6016,7 +6014,7 @@ A quien cometa las infracciones a que se refiere el artículo 84-C de este Códi
 
 Se considera infracción en la que pueden incurrir las empresas de factoraje financiero y las sociedades financieras de objeto múltiple en relación a las obligaciones a que se refieren el primero y segundo párrafos del Artículo 32-C de este Código, el no efectuar la notificación de la transmisión de créditos operada en virtud de un contrato de factoraje financiero, o el negarse a recibir dicha notificación.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -6030,7 +6028,7 @@ De $8,510.00 a $85,000.00, a quien cometa la infracción a que se refiere el art
 
 Se considera infracción en la que pueden incurrir las casas de bolsa, el no proporcionar la información a que se refiere el artículo 58 de la Ley del Impuesto sobre la Renta, respecto de contribuyentes que enajenen acciones con su intermediación.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -6044,7 +6042,7 @@ A la casa de bolsa que cometa la infracción a que se refiere el artículo 84-G 
 
 Se considera infracción en la que pueden incurrir las personas que emitan tarjetas de crédito, de débito, de servicio o las denominadas monederos electrónicos autorizadas por el Servicio de Administración Tributaria, en relación con las obligaciones a que se refiere el artículo 32-E de este Código, el no expedir los estados de cuenta cumpliendo con lo previsto en las disposiciones aplicables.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -6058,7 +6056,7 @@ A las personas morales que cometan la infracción a que se refiere el artículo 
 
 Se considera infracción en la que pueden incurrir las personas morales a que se refiere el artículo 84-I de este Código, el no proporcionar al Servicio de Administración Tributaria la información contenida en los estados de cuenta, a que se refiere el artículo 32-E de este Código.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -6084,17 +6082,17 @@ III. Presentar la información a que se refiere el artículo 32-B Ter de este C�
 
 A quien cometa las infracciones a que se refiere el artículo 84-M de este Código, se le impondrán las siguientes multas:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-I. De $1,500,000.00 a $2,000,000.00 a las comprendidas en la fracción I, por cada beneficiario controlador que forme parte de la persona moral, fideicomiso o figura jurídica de que se trate.
+I. De $1,686,750.00 a $2,249,000.00 a las comprendidas en la fracción I, por cada beneficiario controlador que forme parte de la persona moral, fideicomiso o figura jurídica de que se trate.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-II. De $800,000.00 a $1,000,000.00 a la establecida en la fracción II, por cada beneficiario controlador que forme parte de la persona moral, fideicomiso o figura jurídica de que se trate.
+II. De $899,600.00 a $1,124,500.00 a la establecida en la fracción II, por cada beneficiario controlador que forme parte de la persona moral, fideicomiso o figura jurídica de que se trate.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-III. De $500,000.00 a $800,000.00 a la establecida en la fracción III, por cada beneficiario controlador que forme parte de la persona moral, fideicomiso o figura jurídica de que se trate.
+III. De $562,250.00 a $899,600.00 a la establecida en la fracción III, por cada beneficiario controlador que forme parte de la persona moral, fideicomiso o figura jurídica de que se trate.
 
 ###### Artículo 85.
 
@@ -6122,31 +6120,31 @@ V. Declarar falsamente que cumplen los requisitos que se señalan en el artícul
 
 A quien comenta (sic) las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el artículo 85, se impondrán las siguientes multas:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 I. De $22,400.00 a $67,210.00, a la comprendida en la fracción I.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 II. De $1,960.00 a $80,880.00, a la establecida en la fracción II.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 III. De $4,250.00 a $106,250.00, a la establecida en la fracción III.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 IV. De $171,240.00 a $228,320.00, a la comprendida en la fracción IV.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -6200,47 +6198,47 @@ IX. Producir más de una vez los folios electrónicos que le fueron autorizados 
 
 A quienes cometan las infracciones señaladas en el artículo 86-A de este Código, se impondrán las siguientes multas:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-I. De $70.00 a $140.00, a la comprendida en la fracción I, por cada marbete o precinto no adherido, o bien, por cada marbete o precinto falso o alterado.
+I. De $80.00 a $160.00, a la comprendida en la fracción I, por cada marbete o precinto no adherido, o bien, por cada marbete o precinto falso o alterado.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 II. De $30.00 a $150.00, a la comprendida en la fracción II, por cada marbete o precinto usado indebidamente.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-III. De $20.00 a $70.00, a la comprendida en la fracción III, por cada envase o recipiente que carezca de marbete o precinto, según se trate, o bien por cada marbete o precinto falso o alterado.
+III. De $20.00 a $80.00, a la comprendida en la fracción III, por cada envase o recipiente que carezca de marbete o precinto, según se trate, o bien por cada marbete o precinto falso o alterado.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2004)</small>
 
 IV. De $30.00 a $140.00, a la comprendida en la fracción IV, por cada envase vacío no destruido.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-V. De $560.00 a $850.00, por cada marbete o precinto que haya sido adquirido ilegalmente.
+V. De $630.00 a $960.00, por cada marbete o precinto que haya sido adquirido ilegalmente.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
-
-> <small>(ADICIONADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
-
-VI. De $20,000.00 a $50,000.00 a la comprendida en la fracción VIII, por cada ocasión que el Servicio de Administración Tributaria, en el ejercicio de sus facultades, detecte que no se realiza la lectura del código QR del marbete en presencia del consumidor final.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-VII. De $50,000.00 a $100,000.00 a la comprendida en la fracción IX, por cada ocasión que el Servicio de Administración Tributaria, en el ejercicio de sus facultades, determine la conducta señalada en dicha fracción.
+VI. De $22,490.00 a $56,230.00 a la comprendida en la fracción VIII, por cada ocasión que el Servicio de Administración Tributaria, en el ejercicio de sus facultades, detecte que no se realiza la lectura del código QR del marbete en presencia del consumidor final.
+
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
+
+> <small>(ADICIONADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+
+VII. De $56,230.00 a $112,450.00 a la comprendida en la fracción IX, por cada ocasión que el Servicio de Administración Tributaria, en el ejercicio de sus facultades, determine la conducta señalada en dicha fracción.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -6256,13 +6254,13 @@ El Servicio de Administración Tributaria podrá cancelar los folios de los marb
 
 Se considera infracción en la que pueden incurrir los contribuyentes conforme lo previsto en el artículo 17-K de este Código, el no habilitar el buzón tributario, no registrar o no mantener actualizados los medios de contacto conforme lo previsto en el mismo.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 86-D.
 
-A quien cometa la infracción relacionada con la no habilitación del buzón tributario, el no registro o actualización de los medios de contacto conforme a lo previsto en el artículo 86-C, se impondrá una multa de $3,420.00 a $10,260.00.
+A quien cometa la infracción relacionada con la no habilitación del buzón tributario, el no registro o actualización de los medios de contacto conforme a lo previsto en el artículo 86-C, se impondrá una multa de $3,850.00 a $11,540.00.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -6274,7 +6272,7 @@ Son infracciones de los fabricantes, productores o envasadores de bebidas alcoh�
 
 Asimismo, son infracciones de los productores o envasadores de bebidas alcohólicas, no llevar los controles físico o volumétrico a que se refieren las fracciones X y XVI del artículo 19 de la Ley del Impuesto Especial sobre Producción y Servicios o llevarlos en forma distinta a lo que establecen dichas fracciones.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -6298,7 +6296,7 @@ II. No permitir a las autoridades fiscales la realización de las verificaciones
 
 También se consideran infracciones de los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, cuando sea informado al Servicio de Administración Tributaria por la autoridad competente el incumplimiento por parte del contribuyente de las medidas sanitarias en materia de tabacos, así como hacer un uso incorrecto de los códigos de seguridad; para tales efectos el Servicio de Administración Tributaria determinará mediante reglas de carácter general las conductas que no configuran el uso incorrecto de los códigos de seguridad.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -6306,13 +6304,13 @@ También se consideran infracciones de los productores, fabricantes e importador
 
 A quienes cometan las infracciones señaladas en el artículo 86-G, primer párrafo, se les impondrá una multa de $10.00 a $20.00 por cada cajetilla de cigarros que no contenga impreso el código de seguridad a que se refiere el artículo 19, fracción XXII de la Ley del Impuesto Especial sobre Producción y Servicios.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-A quienes cometan las infracciones señaladas en el artículo 86-G, segundo párrafo, fracción I de este Código, se les impondrá una multa de $28,070.00 a $420,940.00 cada vez que no proporcionen o no pongan a disposición de las autoridades fiscales la información, documentación o dispositivos, que permitan constatar el cumplimiento de las obligaciones previstas en los artículos 19, fracción XXII y 19-A de la Ley del Impuesto Especial sobre Producción y Servicios, respectivamente.
+A quienes cometan las infracciones señaladas en el artículo 86-G, segundo párrafo, fracción I de este Código, se les impondrá una multa de $31,560.00 a $473,350.00 cada vez que no proporcionen o no pongan a disposición de las autoridades fiscales la información, documentación o dispositivos, que permitan constatar el cumplimiento de las obligaciones previstas en los artículos 19, fracción XXII y 19-A de la Ley del Impuesto Especial sobre Producción y Servicios, respectivamente.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-A quienes cometan las infracciones señaladas en el artículo 86-G, segundo párrafo, fracción II de este Código, se les impondrá una multa de $28,070.00 a $420,940.00, por cada vez que no permitan la realización de las verificaciones en los establecimientos o domicilios de los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, así como de los proveedores autorizados de servicios de impresión de códigos de seguridad, o bien en cualquier lugar en donde se encuentren los mecanismos o sistemas de impresión del referido código de seguridad, a efecto de constatar el cumplimiento de las obligaciones previstas en los artículos 19, fracción XXII y 19-A de la Ley del Impuesto Especial sobre Producción y Servicios.
+A quienes cometan las infracciones señaladas en el artículo 86-G, segundo párrafo, fracción II de este Código, se les impondrá una multa de $31,560.00 a $473,350.00, por cada vez que no permitan la realización de las verificaciones en los establecimientos o domicilios de los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, así como de los proveedores autorizados de servicios de impresión de códigos de seguridad, o bien en cualquier lugar en donde se encuentren los mecanismos o sistemas de impresión del referido código de seguridad, a efecto de constatar el cumplimiento de las obligaciones previstas en los artículos 19, fracción XXII y 19-A de la Ley del Impuesto Especial sobre Producción y Servicios.
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -6328,7 +6326,7 @@ El Servicio de Administración Tributaria podrá cancelar los códigos de seguri
 
 Cometen infracción quienes almacenen, vendan, enajenen o distribuyan en México cajetillas de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, que no contengan impreso el código de seguridad previsto en el artículo 19, fracción XXII de la Ley del Impuesto Especial sobre Producción y Servicios, o el que contengan sea apócrifo, acorde con lo previsto en el artículo 19-A de la citada Ley.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -6364,7 +6362,7 @@ V. Revelar a terceros, en contravención a lo dispuesto por el artículo 69 de e
 
 VI. No emitir la resolución a que se refiere el artículo 69-B de este Código dentro del plazo previsto en el mismo.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -6390,7 +6388,7 @@ IV. Al que permita o publique a través de cualquier medio, anuncios para la adq
 
 No se incurrirá en la infracción a que se refiere la fracción primera de este artículo, cuando se manifieste en la opinión que se otorgue por escrito que el criterio contenido en ella es diverso a los criterios dados a conocer por las autoridades fiscales en los términos del inciso h) de la fracción I del artículo 33 de este Código o bien manifiesten también por escrito al contribuyente que su asesoría puede ser contraria a la interpretación de las autoridades fiscales.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
@@ -6402,7 +6400,7 @@ En los supuestos señalados en la fracción I del artículo citado, se considera
 
 No se incurrirá en la agravante a que se refiere el párrafo anterior, cuando se manifieste en la opinión que se otorgue por escrito que el criterio contenido en ella es diverso a los criterios dados a conocer por las autoridades fiscales en los términos del inciso h) de la fracción I del artículo 33 de este Código.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
@@ -6412,7 +6410,7 @@ Se sancionará con una multa de $578,700.00 a $1,157,400.00 a los concesionarios
 
 Dicha sanción también se impondrá por cada mes de calendario que transcurra sin cumplir las mencionadas órdenes.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 ###### Artículo 91.
 
@@ -6600,7 +6598,7 @@ III. De importación o exportación prohibida.
 
 También comete delito de contrabando quien interne mercancías extranjeras procedentes de una franja o región fronteriza al resto del país en cualquiera de los casos anteriores, así como quien las extraiga de los recintos fiscales o fiscalizados sin que le hayan sido entregados legalmente por las autoridades o por las personas autorizadas para ello.
 
-> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 No se formulará la declaratoria a que se refiere el artículo 92, fracción II, si el monto de la omisión no excede de $225,940.00 o del diez por ciento de los impuestos causados, el que resulte mayor. Tampoco se formulará la citada declaratoria si el monto de la omisión no excede del cincuenta y cinco por ciento de los impuestos que deban cubrirse cuando la misma se deba a inexacta clasificación arancelaria por diferencia de criterio en la interpretación de las tarifas contenidas en las leyes de los impuestos generales de importación o exportación, siempre que la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad. Lo dispuesto en este párrafo no será aplicable cuando la contribución omitida es el impuesto especial sobre producción y servicios aplicable a los bienes a que se refiere el artículo 2, fracción I, inciso D) de la Ley del Impuesto Especial sobre Producción y Servicios.
 
@@ -6700,13 +6698,13 @@ No se formulará declaratoria de perjuicio, a que se refiere la fracción II del
 
 El delito de contrabando se sancionará con pena de prisión:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 I. De tres meses a cinco años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, es de hasta $1,603,710.00, respectivamente o, en su caso, la suma de ambas es de hasta de $2,405,540.00.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -6870,15 +6868,15 @@ El delito de defraudación fiscal y el delito previsto en el artículo 400 Bis d
 
 El delito de defraudación fiscal se sancionará con las penas siguientes:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 I. Con prisión de tres meses a dos años, cuando el monto de lo defraudado no exceda de $2,236,480.00.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 II. Con prisión de dos años a cinco años cuando el monto de lo defraudado exceda de $2,236,480.00 pero no de $3,354,710.00.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 III. Con prisión de tres años a nueve años cuando el monto de lo defraudado fuere mayor de $3,354,710.00.
 
@@ -7090,7 +7088,7 @@ c) Los litros de los hidrocarburos o petrolíferos, de acuerdo con los registros
 
 Para proceder penalmente por este delito será necesario que previamente la Secretaría de Hacienda y Crédito Público formule querella, independientemente del estado en que se encuentre el procedimiento administrativo que en su caso se tenga iniciado.
 
-> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -7154,7 +7152,7 @@ Se aumentará la sanción hasta por una mitad más de la que resulte aplicable, 
 
 Se impondrá sanción de uno a seis años de prisión, al servidor público que revele a terceros, en contravención a lo dispuesto por el artículo 69 de este Código, la información que las instituciones que componen el sistema financiero hayan proporcionado a las autoridades fiscales.
 
-> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -8106,13 +8104,13 @@ II. Por la de embargo, incluyendo los señalados en los artículos 41, fracción
 
 III. Por la de remate, enajenación fuera de remate o adjudicación al fisco federal.
 
-> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a $560.00, se cobrará esta cantidad en vez del 2% del crédito.
 
-> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE MODIFICACIÓN AL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -11259,5 +11257,9 @@ VI. Para los efectos de lo previsto en el artículo 27, Apartado A, párrafo qui
 Único. El presente Decreto entrará en vigor el 1 de enero de 2022. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, deberán substanciarse y resolverse en términos de las disposiciones vigentes hasta el 31 de diciembre de 2021.
 
 D.O.F. 27 DE DICIEMBRE DE 2022.
+
+> <small>[N. DE E. LA ACTUALIZACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+D.O.F. 29 DE DICIEMBRE DE 2023.
 
 > <small>[N. DE E. LA ACTUALIZACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
