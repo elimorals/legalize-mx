@@ -1,0 +1,54 @@
+---
+title: "LEY DE INGRESOS DEL MUNICIPIO DE PABELLON DE ARTEAGA, AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2024"
+identifier: "AGU-ley-de-ingresos-del-municipio-de-pabellon-de-arteaga-170043"
+country: "mx"
+rank: "ley_de_ingresos"
+publication_date: "2023-12-29"
+last_updated: "2023-12-29"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170043&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-agu"
+scjn_id: "170043"
+scjn_status: "NO VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "61 EXTRAORDINARIO NOVENA SECCION"
+reform_count: "1"
+scjn_last_update: "2024-11-25"
+issue_date: "2023-12-22"
+municipality: "Pabellón de Arteaga"
+municipality_inegi: "01006"
+state: "AGU"
+---
+# LEY DE INGRESOS DEL MUNICIPIO DE PABELLON DE ARTEAGA, AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2024
+
+LEY DE INGRESOS DEL MUNICIPIO DE PABELLON DE ARTEAGA, AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2024
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Novena Sección del Número 61 del Periódico Oficial del Estado de Aguascalientes, el viernes 29 de diciembre de 2023.
+
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+
+###### Artículo 28.
+
+Los derechos a que se refiere este Capítulo, se causarán de acuerdo a lo que establece la siguiente:
+
+TARIFA
+
+(NOTA: EL 15 DE OCTUBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 39/2024, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE OCTUBRE DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+I. CERTIFICACIONES O CONSTANCIAS SOBRE DOCUMENTOS, ACTAS, DATOS Y ANOTACIONES, POR CADA UNA DE ELLAS: 5 VVUMA.
+
+II. […]
+
+(NOTA: EL 15 DE OCTUBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 39/2024, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE OCTUBRE DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+III. COPIAS CERTIFICADAS QUE SE EXPIDAN DE LOS DOCUMENTOS EXISTENTES EN EL ARCHIVO, POR CADA UNA DE ELLAS: 5 VVUMA.
+
+IV. a XIV. […]
+
+Tratándose de constancias de ingresos que sean emitidas exclusivamente para trámite de becas académicas quedan exentas de pago.
+
+Tratándose de los conceptos contemplados en la Fracción XII de este Capítulo, se podrá realizar un descuento hasta del 50%, previo estudio socioeconómico.
