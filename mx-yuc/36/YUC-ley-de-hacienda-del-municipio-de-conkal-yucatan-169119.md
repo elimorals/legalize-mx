@@ -1,0 +1,104 @@
+---
+title: "LEY DE HACIENDA DEL MUNICIPIO DE CONKAL, YUCATAN"
+identifier: "YUC-ley-de-hacienda-del-municipio-de-conkal-yucatan-169119"
+country: "mx"
+rank: "ley"
+publication_date: "2023-12-29"
+last_updated: "2023-12-29"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=169119&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-yuc"
+scjn_id: "169119"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "35273 SUPLEMENTO I"
+reform_count: "2"
+scjn_last_update: "2024-12-30"
+issue_date: "2023-12-21"
+municipality: "Conkal"
+municipality_inegi: "31013"
+state: "YUC"
+---
+# LEY DE HACIENDA DEL MUNICIPIO DE CONKAL, YUCATAN
+
+LEY DE HACIENDA DE CONKAL, YUCATÁN
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Número 35,273, Suplemento I del Diario Oficial del Estado de Yucatán, el viernes 29 de diciembre de 2023.
+
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+
+###### Artículo 85.
+
+Por los servicios que presta la Dirección de Catastro del Municipio de Conkal, Yucatán, se causarán derechos de conformidad con las siguientes tarifas:
+
+CONCEPTO IMPORTE
+
+(NOTA: EL 2 DE DICIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 49/2024, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE DICIEMBRE DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+I.- POR LA EMISIÓN DE COPIAS FOTOSTÁTICAS SIMPLES
+
+a) POR CADA HOJA SIMPLE TAMAÑO CARTA DE CÉDULA 48
+
+CATASTRAL, PLANO CATASTRAL, PARCELAS, FORMAS
+
+DE MANIFESTACIÓN DE TRASLACIÓN DE DOMINIO O
+
+CUALQUIER OTRO DOCUMENTO EXPEDIDO POR LA
+
+DIRECCIÓN DE CATASTRO MUNICIPAL.
+
+b) POR PLANOS MAYORES AL TAMAÑO OFICIO Y HASTA 4 400
+
+VECES TAMAÑO CARTA
+
+c) POR PLANOS MAYORES A VECES TAMAÑO CARTA 850
+
+CONCEPTO IMPORTE
+
+(NOTA: EL 2 DE DICIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 49/2024, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE DICIEMBRE DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+II.- POR LA EMISIÓN DE COPIAS FOTOSTÁTICAS
+
+CERTIFICADAS DE:
+
+a) POR CADA HOJA CERTIFICADA TAMAÑO CARTA U 198
+
+OFICIO DE CÉDULAS PLANOS, PARCELAS, FORMAS DE
+
+MANIFESTACIONES DE TRASLACIÓN DE DOMINIO O
+
+CUALQUIER OTRO DOCUMENTO
+
+b) POR PLANOS MAYORES AL TAMAÑO OFICIO Y HASTA
+
+CUATRO VECES TAMAÑO CARTA 450
+
+c) POR PLANOS MAYORES A CUATRO VECES TAMAÑO CARTA 900
+
+III.- Por expedición de oficios de:
+
+[…]
+
+IV.- Información de Bienes Inmuebles por Predio:
+
+[…]
+
+V.- Información de Bienes Inmuebles por Predio:
+
+[…]
+
+VI.- Información de Bienes Inmuebles por Predio:
+
+[…]
+
+VII.- Revalidación de oficios:
+
+[…]
+
+Cuando la elaboración de planos o la diligencia de verificación o rectificación incluyan trabajos de topografía, adicionalmente a la tarifa respectiva por estos trabajos se cobrará de acuerdo a la siguiente tabla.
+
+[…]
