@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-fiscal-del-estado-de-zacatecas-y-sus-municipios-118122"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-12-31"
-last_updated: "2022-12-31"
+last_updated: "2023-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118122&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2023.
 
 Código publicado en el Suplemento 16 al Número 105 del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -245,9 +245,13 @@ Se considera gestión de cobro cualquier actuación de la autoridad hecha saber 
 
 Se suspenderá el plazo para que se configure la prescripción cuando la autoridad se encuentre impedida para realizar gestiones de cobro en los términos de este artículo, debido a la suspensión del procedimiento administrativo de ejecución en términos de lo dispuesto en el artículo 256 de este Código, o cuando la resolución que determinó el crédito fiscal no sea ejecutable en los términos del referido artículo.
 
-Asimismo, se interrumpe el plazo a que se refiere este artículo cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-El plazo para que se configure la prescripción, en ningún caso, incluyendo cuando éste se haya interrumpido, podrá exceder de diez años contados a partir de que el crédito fiscal pudo ser legalmente exigido. En dicho plazo no se computarán los períodos en los que se encuentre en interrupción por las causas previstas en este artículo.
+Asimismo, se suspenderá el plazo a que se refiere este artículo cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+El plazo para que se configure la prescripción, en ningún caso, incluyendo cuando éste se haya interrumpido, podrá exceder de diez años contados a partir de que el crédito fiscal pudo ser legalmente exigido. En dicho plazo no se computarán los períodos en los que se encontraba suspendido por las causas previstas en este artículo.
 
 La prescripción, se podrá declarar de oficio por la autoridad, por acción o excepción ejercidas por el deudor.
 
@@ -351,7 +355,9 @@ b) El local en que realicen sus actividades si la administración principal se e
 
 Cuando en las disposiciones fiscales se haga referencia expresa a domicilio fiscal, lo dispuesto en este artículo es aplicable sólo para efectos del cumplimiento de obligaciones a cargo del contribuyente, y no contraria a la ejecución de los procedimientos que las autoridades fiscales realicen en el ejercicio de sus facultades conforme las demás disposiciones de este Código.
 
-Cuando los contribuyentes no hayan designado un domicilio fiscal estando obligado a ello, o hubieran designado como domicilio fiscal un lugar distinto al que le corresponda de acuerdo con lo dispuesto en este mismo precepto, o cuando hayan manifestado un domicilio ficticio, las autoridades fiscales podrán practicar diligencias en cualquier lugar dentro del territorio del Estado, en el que realicen sus actividades o en el lugar que conforme a este artículo se considere su domicilio indistintamente.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+Cuando los contribuyentes no hayan designado un domicilio fiscal estando obligado a ello, o hubieran designado como domicilio fiscal un lugar distinto al que le corresponda de acuerdo con lo dispuesto en este mismo precepto, o cuando hayan manifestado un domicilio ficticio o no se localicen en el domicilio fiscal registrado ante el Registro Estatal de Contribuyentes, las autoridades fiscales podrán practicar diligencias en cualquier lugar dentro del territorio del Estado, en el que realicen sus actividades o en el lugar que conforme a este artículo se considere su domicilio indistintamente.
 
 ###### ARTÍCULO 27.
 
@@ -899,7 +905,9 @@ XXXV. Previa solicitud, cuando corrijan su situación fiscal con posterioridad a
 
 XXXVI. No sean determinadas nuevas omisiones de las contribuciones revisadas durante el período objeto del ejercicio de las facultades de comprobación, salvo cuando se comprueben hechos diferentes. La comprobación de hechos diferentes deberá estar sustentada en información que el propio contribuyente proporcione al hacer valer los medios de impugnación a que tiene derecho, o en información, datos o documentos de terceros, o bien, en la revisión de conceptos específicos que no se hayan revisado con anterioridad; y
 
-XXXVII. Acudir ante la Comisión Estatal de la Defensa del Contribuyente para aclarar en breve tiempo los aspectos de la revisión con los que esté inconforme y, en su caso, obtener la condonación de multas.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+XXXVII. Acudir ante la Comisión Estatal de la Defensa del Contribuyente para aclarar en breve tiempo los aspectos de la revisión con los que esté inconforme y, en su caso, obtener la reducción de multas.
 
 ### CAPÍTULO SEGUNDO. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
 
@@ -1765,7 +1773,9 @@ Asimismo, con la finalidad de fortalecer la administración y recaudación de lo
 
 El Poder Ejecutivo Estatal o Municipal mediante resoluciones de carácter general podrá:
 
-I. Eximir o condonar, total o parcialmente, el pago de contribuciones y sus accesorios, autorizar su pago a plazo o en parcialidades, cuando se haya afectado o trate de impedir que se afecte algún lugar, región del Estado o grupos sociales en situación de vulnerabilidad, una rama de actividad, la producción o venta de productos, o la realización de una actividad, así como en casos de catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+I. Eximir o reducir, total o parcialmente, el pago de contribuciones y sus accesorios, autorizar su pago a plazo o en parcialidades, cuando se haya afectado o trate de impedir que se afecte algún lugar, región del Estado o grupos sociales en situación de vulnerabilidad, una rama de actividad, la producción o venta de productos, o la realización de una actividad, así como en casos de catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias;
 
 II. Dictar las medidas relacionadas con la administración, control, forma de pago y procedimientos señalados en las leyes fiscales, sin variar las disposiciones relacionadas con el sujeto, el objeto, la base, la cuota, la tasa o la tarifa de los gravámenes, las infracciones o las sanciones de las mismas, a fin de facilitar el cumplimiento de las obligaciones de los contribuyentes; y
 
@@ -3023,9 +3033,9 @@ Para mejor proveer a la adopción del acuerdo conclusivo, la Comisión Estatal d
 
 ARTÍCULO 158 SEXIES.- El procedimiento de acuerdo conclusivo suspende los plazos a que se refieren los artículos 131 y 146 Bis de este Código, a partir de que el contribuyente presente ante la Comisión Estatal de la Defensa del Contribuyente la solicitud de acuerdo conclusivo y hasta que se notifique a la autoridad revisora la conclusión del procedimiento previsto en esta Sección.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-ARTÍCULO 158 SEPTIES.- El contribuyente que haya suscrito un acuerdo conclusivo tendrá derecho, por única ocasión, a la condonación del 100 por ciento de las multas; en la segunda y posteriores suscripciones aplicará la condonación de sanciones en los términos y bajo los supuestos que establecen los artículos 164 y 166 de este Código. Las autoridades fiscales deberán tomar en cuenta los alcances del acuerdo conclusivo para, en su caso, emitir la resolución que corresponda. La condonación prevista en este artículo no dará derecho a devolución o compensación alguna.
+ARTÍCULO 158 SEPTIES. El contribuyente que haya suscrito un acuerdo conclusivo tendrá derecho, por única ocasión, a la reducción del 100 por ciento de las multas; en la segunda y posteriores suscripciones aplicará la reducción de sanciones en los términos y bajo los supuestos que establecen los artículos 164 y 166 de este Código. Las autoridades fiscales deberán tomar en cuenta los alcances del acuerdo conclusivo para, en su caso, emitir la resolución que corresponda. La reducción prevista en este artículo no dará derecho a devolución o compensación alguna.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -3121,11 +3131,13 @@ Siempre que se omita el pago de una contribución cuya determinación correspond
 
 Para efectos de este artículo, se considera que la notificación surte efectos en el momento en que se realiza.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 164.
 
-Las autoridades fiscales podrán condonar las multas por infracciones a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y, en su caso, los motivos que tuvo la autoridad que impuso la sanción.
+Las autoridades fiscales podrán reducir las multas por infracciones a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y, en su caso, los motivos que tuvo la autoridad que impuso la sanción.
 
-La solicitud de condonación de multas, no procede respecto de multas que ya hubieran sido pagadas, y no constituirá instancia; por tanto, las resoluciones que dicten las autoridades fiscales al respecto, no podrán ser impugnadas por los medios de defensa que establece este Código.
+La solicitud de reducción de multas, no procede respecto de multas que ya hubieran sido pagadas, y no constituirá instancia; por tanto, las resoluciones que dicten las autoridades fiscales al respecto, no podrán ser impugnadas por los medios de defensa que establece este Código.
 
 ###### ARTÍCULO 165.
 
@@ -3539,9 +3551,11 @@ No se otorgará garantía respecto de gastos de ejecución, salvo que el interé
 
 La garantía deberá constituirse dentro de los cinco días siguientes a aquél en que se solicite la suspensión del procedimiento administrativo de ejecución, o se solicite la prórroga para el pago en parcialidades o diferido de créditos fiscales, salvo en los casos en que se indique un plazo diferente en otros preceptos de este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 190.
 
-Cuando se solicite la suspensión del procedimiento administrativo de ejecución, o prórroga para el pago de créditos fiscales o condonación de multas, el interés fiscal podrá ser garantizado en cualquiera de las formas siguientes:
+Cuando se solicite la suspensión del procedimiento administrativo de ejecución, o prórroga para el pago de créditos fiscales o reducción de multas, el interés fiscal podrá ser garantizado en cualquiera de las formas siguientes:
 
 I. Depósito en dinero, carta de crédito u otras formas de garantía financiera equivalentes. El depósito en dinero podrá otorgarse mediante cheque certificado o de caja, expedido por institución de crédito autorizada, el cual quedará en poder de la autoridad fiscal, o en efectivo mediante recibo oficial expedido por la misma cuyo original se entregará al interesado, una vez que el crédito fiscal quede firme se ordenará su aplicación por las propias autoridades fiscales;
 
@@ -4161,9 +4175,11 @@ Las autoridades fiscales, para la determinación del monto de los gastos de ejec
 
 Quienes intervengan en un procedimiento administrativo de ejecución, cualesquiera que sean las funciones que desempeñen, en ningún caso podrán cobrar directamente de los contribuyentes los honorarios a que tengan derecho conforme a los establecidos en este Código.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 246.
 
-Los gastos que se originen con motivo del procedimiento administrativo de ejecución, no podrán ser objeto de condonación, excepto en los casos previstos conforme a la fracción I del artículo 104 de este Código.
+Los gastos que se originen con motivo del procedimiento administrativo de ejecución, no podrán ser objeto de reducción, excepto en los casos previstos conforme a la fracción I del artículo 104 de este Código.
 
 ###### Artículo 247.
 
@@ -5226,3 +5242,15 @@ Se autoriza a la Secretaría de Finanzas del Gobierno del Estado, para otorgar e
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 497.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS Y DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veinticuatro, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal, en lo que se opongan al presente Decreto.
