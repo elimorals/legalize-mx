@@ -4,7 +4,7 @@ identifier: "CHH-ley-hacienda-del-estado-de-chihuahua-132078"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2022-06-08"
+last_updated: "2023-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Número 104 del Periódico Oficial del Estado de Chihuahua, el lunes 31 de diciembre de 2018.
 
@@ -679,107 +679,41 @@ ESTIMACIÓN PRESUNTIVA
 
 La autoridad fiscal podrá determinar, en forma presuntiva, el valor de los actos por los que se debe de pagar este impuesto en los casos en que los retenedores se ubiquen en alguno de los supuestos establecidos para tales efectos en el Código Fiscal del Estado.
 
-#### SECCIÓN II. IMPUESTO SOBRE ACTOS JURÍDICOS
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-OBJETO
+#### SECCIÓN II. IMPUESTO SOBRE ACTOS JURÍDICOS
 
 ###### ARTÍCULO 55.
 
-Son objeto de este impuesto todos los actos jurídicos, de cualquier naturaleza, que se otorguen en escritura pública o privada.
-
-SUJETOS
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2023)
 
 ###### ARTÍCULO 56.
 
-Los sujetos de este impuesto son las personas físicas y morales que celebren los actos jurídicos objeto de este impuesto.
-
-BASE, TARIFA Y CAUSACIÓN
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2023)
 
 ###### ARTÍCULO 57.
 
-La base del impuesto serán los importes o capitales que se consignen en los actos jurídicos objeto de este impuesto, y se causarán de acuerdo a los siguientes conceptos y tarifas:
-
-I. Por la constitución de sociedades civiles o mercantiles, y en general cualquier agrupación con fines lucrativos; sobre el capital de las mismas, se pagará $ 0.75 por cada mil pesos o fracción.
-
-II. Por el aumento, por cualquier causa, del capital social de sociedades civiles o mercantiles o cualquier agrupación con fines preponderantemente económicos; sobre el importe del capital aumentado, se pagará $ 0.75 por cada mil pesos o fracción.
-
-III. Por los actos tendientes a garantizar obligaciones, tales como fianzas, hipotecas u otros; sobre el importe de lo garantizado, se pagará $ 0.375 por cada cien pesos o fracción.
-
-IV. El mandato que se haga constar en escritura pública o en escrito privado, ratificado ante Notario o ante autoridad judicial, pagará el equivalente al 85% sobre el valor de la unidad de medida y actualización.
-
-En el caso de escritura pública, el entero del impuesto se comprobará con el original del certificado de pago, que se agregará al apéndice de protocolo correspondiente.
-
-Tratándose de escritos privados ratificados, el certificado de pago se anexará a la copia que se agregue al apéndice del libro de registro de actos fuera de protocolo, y en el documento que se entregue al interesado se hará constar el número del certificado.
-
-En ambos casos, si el pago se realizó por conducto del Notario, a través de la red electrónica mundial, bastará que el fedatario público, asiente el número de operación que le correspondió.
-
-Si el mandato fuese judicial, deberá agregarse el certificado de ingresos a las actuaciones conducentes.
-
-V. En los contratos de aparcería, el propietario pagará el 1% del precio de los frutos percibidos.
-
-VI. Por los actos jurídicos no previstos en las fracciones anteriores, se pagará $ 0.75 por cada mil pesos o fracción sobre el valor de la operación.
-
-ACTOS DE VALOR INDETERMINADO
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2023)
 
 ###### ARTÍCULO 58.
 
-Cuando por la naturaleza del acto jurídico no pueda determinarse el valor de la operación, se pagará el equivalente al 125% sobre el valor de la unidad de medida y actualización.
-
-En este caso para el pago del impuesto la autoridad fiscal podrá expedir certificados pre impresos, que se agregarán al apéndice del protocolo correspondiente, o a la copia auténtica que se agregue al apéndice del Libro de Registro de Actos fuera de Protocolo, si el acto se otorgó ante fedatario público. En el documento que se entregue al interesado se pondrá razón del pago en la que conste el número del certificado.
-
-INSTRUMENTOS CON DIVERSOS ACTOS
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2023)
 
 ###### ARTÍCULO 59.
 
-Cuando en un mismo instrumento se consignen diversos actos, a cada uno de éstos se aplicará la tarifa que le corresponda.
-
-ACTOS FORÁNEOS
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2023)
 
 ###### ARTÍCULO 60.
 
-Los actos jurídicos celebrados fuera del Estado, pero que surtan sus efectos dentro de su jurisdicción territorial, así como los que se registren o deban registrarse en las oficinas del Registro Público de la Propiedad estatales, causarán el impuesto a que se refiere esta Sección.
-
-NO CAUSACIÓN
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2023)
 
 ###### ARTÍCULO 61.
 
-No causan este impuesto:
-
-I. Los actos del estado civil.
-
-II. Los actos cuyo valor no exceda de $ 500.00 (quinientos pesos).
-
-III. Los actos que consignen fianzas que se extiendan para excarcelación de presos insolventes y para caucionar el manejo de fondos de empleados públicos.
-
-IV. Los actos que contengan operaciones cuyo gravamen corresponda exclusivamente a la Federación.
-
-V. Los actos relativos a la asistencia pública y de la beneficencia privada.
-
-VI. Los actos relativos a la adquisición de muebles destinados a escuelas, colegios o bibliotecas públicas.
-
-VII. Los actos en que se revoquen mandatos.
-
-VIII. Los que consignen la resolución de actos jurídicos.
-
-IX. Los actos en cuya virtud se cancele otro.
-
-X. Los actos mediante los cuales se reduzca el capital social o se disuelvan personas jurídicas colectivas o sociedades conyugales.
-
-XI. Los actos en que se consignen y tramiten disposiciones testamentarias o intestamentarias.
-
-XII. Los actos en los que se constituya o se cancele el régimen de patrimonio familiar.
-
-XIII. Los actos que contengan operaciones gravadas con algún otro impuesto establecido por esta Ley, o por el Impuesto sobre Traslación de Dominio de Bienes Inmuebles, siempre y cuando el importe a pagar por éstos sea mayor al que resulte de aplicar las tarifas de este impuesto.
-
-OBLIGACIONES
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2023)
 
 ###### ARTÍCULO 62.
 
-Los sujetos de este impuesto están obligados a:
-
-I. Presentar ante la oficina recaudadora respectiva, los documentos originales en que consten los actos jurídicos, para los efectos del registro y control del impuesto. Cuando los actos jurídicos consten en escritura pública o sean ratificados ante fedatario, no será necesaria su presentación.
-
-II. Enterar el impuesto dentro de los 15 días siguientes a la fecha de la realización o celebración del acto jurídico.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2023)
 
 #### SECCIÓN III. IMPUESTO SOBRE ADQUISICIÓN DE VEHÍCULOS AUTOMOTORES Y OTROS BIENES MUEBLES USADOS
 
@@ -1406,3 +1340,15 @@ Una vez publicadas las reglas de operación que se mencionan en el Artículo Tra
 ###### ARTÍCULO CUARTO.
 
 Dentro del plazo de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Turismo promoverá ante la institución fiduciaria la formalización de las adecuaciones correspondientes al Contrato de Fideicomiso celebrado el día 20 de mayo de 1997, entre el Gobierno del Estado de Chihuahua y el Banco Mexicano, Sociedad Anónima, Institución de Banca Múltiple, Grupo Financiero Invermexico, ahora Banco Santander México, S.A., Institución de Banca Múltiple, Grupo Financiero Santander.
+
+P.O. 30 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVII/RFLYC/0800/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA, DE LA LEY ESTATAL DE DERECHOS DE CHIHUAHUA, DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La derogación del Impuesto sobre Actos Jurídicos entrará en vigor a partir del 01 de enero de 2024, sin perjuicio de que todos los actos realizados o celebrados hasta el 31 de diciembre de 2023, que impliquen el pago de este impuesto, deban enterarse con posterioridad a la derogación del mismo.
