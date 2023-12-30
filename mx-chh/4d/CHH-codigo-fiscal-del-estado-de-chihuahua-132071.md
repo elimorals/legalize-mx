@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-132071"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-12-31"
-last_updated: "2022-12-24"
+last_updated: "2023-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2023.
 
 Código publicado en el Folleto Anexo al Número 104 del Periódico Oficial del Estado de Chihuahua, el lunes 31 de diciembre de 2018.
 
@@ -709,9 +709,9 @@ En los trámites administrativos que se realicen ante las autoridades fiscales, 
 
 La representación ante las autoridades fiscales deberá acreditarse mediante escritura pública o carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las autoridades fiscales, o ante fedatario público. En el caso de carta poder, para acreditar debidamente el poder otorgado, se deberá proporcionar esta a la autoridad, acompañada de una copia de una identificación del contribuyente o representante legal previo cotejo con su original y de los testigos.
 
-Las autoridades fiscales establecerán un registro de representantes legales, en cuyo caso previa inscripción que se realice cumpliendo los requisitos que se establezcan en el Reglamento, se podrá acreditar la representación en los trámites ante la autoridad fiscal, con copia simple de la constancia que al efecto se expida. El registro de representantes legales realizado por los contribuyentes, surtirá pleno efecto mientras no se haya manifestado de forma expresa ante la autoridad competente, la voluntad en contrario de quien lo hubiese otorgado o de quien sea facultado para ello, como contribuyente o representante legal.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-La solicitud de inscripción se hará mediante escrito libre debidamente firmado por quien otorga el poder y por el aceptante del mismo, acompañando el documento en el que conste la representación correspondiente, así como los demás documentos que mediante reglas de carácter general establezca la Secretaría. Es responsabilidad del contribuyente que hubiese otorgado la representación y la hubiese inscrito, el solicitar la cancelación de la misma en el registro citado en los casos en que se revoque el poder correspondiente. Para estos efectos, se deberá dar aviso a las autoridades fiscales dentro de los 5 días siguientes a aquel en que se presente tal circunstancia; de no hacerlo, los actos que realice la persona a la que se le revocó la citada representación surtirán plenos efectos jurídicos.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
 Los particulares o sus representantes podrán autorizar por escrito a personas que a su nombre reciban notificaciones. La persona así autorizada podrá ofrecer, rendir pruebas y presentar promociones relacionadas con estos propósitos.
 
@@ -814,6 +814,10 @@ Las autoridades fiscales devolverán a los particulares, las cantidades pagadas 
 Lo dispuesto en el párrafo anterior, se aplicará sin perjuicio del acreditamiento de los impuestos indirectos a los que de conformidad con lo dispuesto en las leyes que los establezcan tengan derecho los contribuyentes.
 
 Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución en los términos de este artículo, nace cuando dicho acto se anule.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+En los casos no previstos en los párrafos anteriores, tendrán derecho a la devolución por pago de lo indebido, quienes hubieren efectuado el entero respectivo.
 
 Cuando se solicite la devolución, esta deberá efectuarse dentro del plazo de cuarenta días siguientes a la fecha en que fue presentada la solicitud ante la autoridad fiscal competente con todos los datos requeridos, incluyendo para el caso en que solicite la devolución para su depósito en cuenta del solicitante, los datos de la institución integrante del sistema financiero y el número de cuenta para transferencias electrónicas del contribuyente en dicha institución financiera debidamente integrado de conformidad con las disposiciones del Banco de México, así como los demás informes y documentos que señale el Reglamento.
 
@@ -967,9 +971,11 @@ Cuando la formulación de un dictamen se efectúe sin que se cumplan los requisi
 
 Quienes en términos de las disposiciones de este Código y las demás leyes fiscales aplicables efectúen actividades por las que deban pagar contribuciones, estarán obligados a llevar contabilidad por las operaciones que realicen. Se considerará que se cumple con la obligación señalada por las disposiciones fiscales estatales cuando esta se cumpla conforme a la legislación fiscal federal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 74.
 
-Los contribuyentes deberán conservar en el domicilio fiscal, en los términos del artículo 17 de este Código, la documentación y demás elementos contables y comprobatorios, hasta por el término de cinco años ó durante el plazo que corresponda para que opere la caducidad de las facultades de determinación de las autoridades fiscales, conforme lo establecido en el artículo 117 de este Código.
+Los contribuyentes deberán conservar en el domicilio fiscal, en los términos del artículo 17 de este Código, la documentación y demás elementos contables y comprobatorios, hasta por el término de cinco años o durante el plazo que corresponda para que opere la caducidad de las facultades de determinación de las autoridades fiscales, conforme lo establecido en los artículos 112 y 113 de este Código.
 
 Tratándose de la contabilidad y de la documentación correspondiente a actos cuyos efectos fiscales se prolonguen en el tiempo, el plazo de conservación de la contabilidad comenzará a computarse a partir del día en el que se presente la declaración fiscal o informativa del último ejercicio en que se hayan producido dichos efectos. Cuando se trate de la documentación correspondiente a aquellos conceptos respecto de los cuales se hubiera promovido algún recurso o juicio, el plazo para conservarla se computará a partir de la fecha en la que quede firme la resolución que les ponga fin.
 
@@ -1637,9 +1643,11 @@ VI. Títulos valor o cartera de créditos del propio contribuyente, en caso de q
 
 La garantía deberá comprender, además de las contribuciones adeudadas actualizadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS NÚMERO LXVII/RFLYC/0800/2023, PUBLICADO EN EL P.O. DE 30 DE DICIEMBRE DE 2023, SE SUGIERE CONSULTAR LA HISTORIA LEGISLATIVA DEL PRESENTE ARTÍCULO 122.]</small>
 
-El Reglamento establecerá los requisitos que deberán reunir las garantías. La Secretaría vigilará que sean suficientes tanto en el momento de su aceptación como con posterioridad y, si no lo fueren, exigirá su ampliación. En los casos en que los contribuyentes, a requerimiento de la autoridad fiscal, no lleven a cabo la ampliación o sustitución de garantía suficiente, esta procederá al secuestro o embargo de otros bienes para garantizar el interés fiscal.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+El Reglamento establecerá los requisitos que deberán reunir las garantías. La Secretaría vigilará que sean suficientes tanto en el momento de su aceptación como con posterioridad y, si no lo fueren, exigirá su ampliación. En los casos en que los contribuyentes, a requerimiento de la autoridad fiscal, no lleven a cabo la ampliación o sustitución de garantía suficiente, esta procederá al embargo de otros bienes para garantizar el interés fiscal.
 
 La autoridad fiscal podrá dispensar la garantía del interés fiscal en los supuestos establecidos en el Reglamento.
 
@@ -1682,6 +1690,18 @@ I. Ordinarias.
 II. Extraordinarias.
 
 Son notificaciones ordinarias las que se realicen personalmente, por correo ordinario, telegrama, correo certificado y vía mensaje de datos con acuse de recibo en el buzón fiscal; y son extraordinarias, aquellas que por virtud de causa imputable a la persona que deba ser notificada no puedan realizarse en cualquiera de las formas antes señaladas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+Cuando las notificaciones tengan por objeto la notificación de un crédito fiscal o el requerimiento para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán honorarios de notificación a cargo de quien incurrió en el incumplimiento, los cuales serán igual a ocho Unidades de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+Los ingresos recaudados por concepto de honorarios de notificación, se destinarán a las autoridades fiscales para: el otorgamiento de incentivos a la productividad; financiar programas de formación de funcionarios fiscales; la adquisición, adecuación y renta de bienes y la contratación de servicios destinados a mejorar la administración tributaria y la atención al contribuyente; financiar programas de fomento con el público en general, respecto del cumplimiento de las obligaciones fiscales; así mismo para cubrir los gastos de notificación; salvo que por ley estén destinados a otros fines. El destino de estos ingresos se dará con independencia del presupuesto que, para los fines correspondientes, tengan asignado las autoridades fiscales estatales.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+La autoridad fiscal determinará los honorarios a que se refiere este artículo y los hará del conocimiento del interesado, conjuntamente con la notificación de que se trate. Dichos honorarios se deberán pagar a más tardar en la fecha en que se cumpla con el requerimiento.
 
 ###### Artículo 126.
 
@@ -1765,13 +1785,11 @@ Si la persona citada o su representante legal no esperaren, se practicará la di
 
 En el caso de visitas domiciliarias la notificación de la orden se llevará a cabo en el lugar o lugares señalados en la misma.
 
-Cuando las notificaciones tengan por objeto la notificación de un crédito fiscal o el requerimiento para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán honorarios de notificación a cargo de quien incurrió en el incumplimiento, los cuales serán igual a seis Unidades de Medida y Actualización.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-Los ingresos recaudados por concepto de honorarios de notificación, se destinarán a las autoridades fiscales para: el otorgamiento de incentivos a la productividad; financiar programas de formación de funcionarios fiscales; la adquisición, adecuación y renta de bienes y la contratación (sic) servicios destinados a mejorar la administración tributaria y la atención al contribuyente; financiar programas de fomento con el público en general, respecto del cumplimiento de las obligaciones fiscales; así mismo para cubrir los gastos de notificación; salvo que por ley estén destinados a otros fines. El destino de estos ingresos se dará con independencia del presupuesto que para los fines correspondientes tengan asignado las autoridades fiscales estatales.
-
-La Autoridad Fiscal determinará los honorarios a que se refiere este artículo y los hará del conocimiento del interesado conjuntamente con la notificación de que se trate. Dichos honorarios se deberán pagar a más tardar en la fecha en que se cumpla con el requerimiento.
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 134.
 
@@ -2435,7 +2453,9 @@ II. Por la de embargo, incluyendo el señalado en la fracción V del artículo 1
 
 III. Por la de remate, enajenación fuera de remate o adjudicación al Fisco Estatal.
 
-Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a cinco Unidades de Medida y Actualización, se cobrará esta cantidad.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a ocho Unidades de Medida y Actualización, se cobrará esta cantidad.
 
 En ningún caso los gastos de ejecución por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de dos Unidades de Medida y Actualización elevadas al año.
 
@@ -2955,11 +2975,15 @@ La adjudicación se tendrá por formalizada una vez que la autoridad ejecutora f
 
 Cuando la traslación de bienes se deba inscribir en el registro público de la propiedad, el acta de adjudicación debidamente firmada por la autoridad ejecutora tendrá el carácter de escritura pública y será el documento público que se considerará como testimonio de escritura para los efectos de inscripción en dicho registro.
 
-De los ingresos obtenidos por remates de los bienes, disminuidos con los gastos de administración y mantenimiento, se destinará el 5% a un fondo de administración y mantenimiento de dichos bienes, que se constituirá en la Secretaría. Una vez que se hayan rematado los bienes, la autoridad fiscal deberá reintegrar los recursos que haya obtenido de dicho fondo y, de existir remanente, se entregará el 5% de los ingresos obtenidos para su capitalización.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+De los ingresos obtenidos por la enajenación de los bienes adjudicados o que hayan causado abandono, disminuidos con los gastos de administración y mantenimiento, se destinará el 5% a un fondo de administración y mantenimiento de dichos bienes, que se constituirá en la Secretaría. Una vez que se hayan rematado los bienes, la autoridad fiscal deberá reintegrar los recursos que haya obtenido de dicho fondo y, de existir remanente, se entregará el 5% de los ingresos obtenidos para su capitalización.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 222.
 
-Los bienes adjudicados por las autoridades fiscales de conformidad con lo dispuesto en este artículo, serán considerados, para todos los efectos legales, como bienes no sujetos al régimen del dominio público, hasta en tanto sean destinados o donados para obras o servicios públicos.
+Los bienes adjudicados o que hayan causado abandono a favor del Fisco Estatal, serán considerados, para todos los efectos legales, como bienes no sujetos al régimen del dominio público, hasta en tanto sean destinados o donados para obras o servicios públicos, y podrán ser enajenados por la autoridad ejecutora fuera de remate.
 
 ###### Artículo 223.
 
@@ -3522,3 +3546,15 @@ El presente Decreto entrará en vigor el día primero de enero del año dos mil 
 ###### ARTÍCULO SEGUNDO.
 
 Las solicitudes de devolución señaladas en el Código Fiscal del Estado que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán substanciándose y se resolverán conforme al artículo 67 del Código Fiscal del Estado anterior al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVII/RFLYC/0800/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA, DE LA LEY ESTATAL DE DERECHOS DE CHIHUAHUA, DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La derogación del Impuesto sobre Actos Jurídicos entrará en vigor a partir del 01 de enero de 2024, sin perjuicio de que todos los actos realizados o celebrados hasta el 31 de diciembre de 2023, que impliquen el pago de este impuesto, deban enterarse con posterioridad a la derogación del mismo.
