@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-cultura-fisica-y-deporte-para-el-estado-de-oaxaca-139171
 country: "mx"
 rank: "ley"
 publication_date: "2019-10-22"
-last_updated: "2023-02-25"
+last_updated: "2023-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139171&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el martes 22 de octubre de 2019.
 
@@ -445,11 +445,15 @@ XXXVII. Diseñar y proponer criterios para asegurar la uniformidad y congruencia
 
 XXXVIII. Procurar servicios y realizar programas deportivos por sí, o en colaboración con el sector público y privado;
 
-XXXIX. Los recursos obtenidos por la renta de espacios deportivos o servicios que ofrezca el Instituto, serán destinados a la constitución de un fondo estatal para el desarrollo del deporte, crear y conceder becas, reconocimientos, premios y trofeos como estímulos para el deportista o asociación deportiva que se destaque en la práctica, organización, o apoyo al deporte;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+XXXIX. Los recursos obtenidos por la renta de espacios deportivos o servicios que ofrezca el Instituto, serán destinados a la constitución de un fondo estatal para el desarrollo del deporte, crear y conceder becas, reconocimientos, premios y trofeos como estímulos para los deportistas, entrenadores o asociaciones deportivas que se destaquen en la práctica, organización, o apoyo al deporte;
 
 XL. Organizar desfiles atléticos y todo género de eventos deportivos;
 
-XLI. Otorgar estímulos y reconocimientos a deportistas de alta calidad y mérito que se hayan distinguido por sus resultados en el desarrollo de alguna actividad deportiva;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+XLI. Otorgar estímulos y reconocimientos a deportistas y entrenadores de alto rendimiento y mérito que se hayan distinguido por sus resultados en el desarrollo de alguna actividad deportiva;
 
 XLII. Otorgar la certificación para la creación, modernización y conservación de infraestructura municipal deportiva, siempre y cuando integren su Sistema Municipal de Cultura Física y Deporte y cumpla con el registro correspondiente.
 
@@ -991,7 +995,9 @@ V. Participar en eventos deportivos reglamentarios u oficiales, avalados por el 
 
 VI. Desempeñar cargos directivos, siempre y cuando, cuenten con la autorización y nombramiento correspondiente de la organización deportiva que integren conforme a sus disposiciones estatutarias aplicables;
 
-VII. Solicitar o recibir toda clase de estímulos, apoyos, becas, premios, reconocimientos o recompensas en dinero o especie, o bien, facilidades laborales, en los términos y condiciones de la normatividad aplicable, principalmente si se trata de deportistas sobresalientes, talentos deportivos, de alto rendimiento o seleccionados;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+VII. Solicitar o recibir toda clase de estímulos, apoyos, becas, premios, reconocimientos o recompensas en dinero o especie, o bien, facilidades laborales, en los términos y condiciones de la normatividad aplicable, principalmente si se trata de deportistas y entrenadores sobresalientes, talentos deportivos, de alto rendimiento o seleccionados;
 
 VIII. Recibir apoyo logístico en las competencias que se desarrollen bajo los lineamientos del SIEDE, informando oportunamente a la institución respectiva la cual lo brindará según sus posibilidades;
 
@@ -1863,9 +1869,11 @@ Las actividades deportivas de orden profesional quedarán excluidas del SIEDE.
 
 ### CAPÍTULO I. GENERALIDADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 178.
 
-El Instituto, los Organismos Municipales y los sectores, social y privado, promoverán y gestionarán en sus respectivos ámbitos de competencia con perspectiva de género y bajo el principio de igualdad de oportunidades entre hombres y mujeres, apoyos, estímulos, premios y reconocimientos a deportistas, organizaciones deportivas, árbitros, técnicos, instructores, entrenadores, guías, investigadores en ciencias aplicadas al deporte, profesores y estudiantes de educación física y promotores comunitarios que destaquen en el desarrollo e impulso del deporte y la cultura física en el Estado, previo cumplimiento de los requisitos que para tal efecto se establecen en términos de esta Ley.
+El Instituto, los Organismos Municipales y los sectores social y privado promoverán, gestionarán y otorgarán en sus respectivos ámbitos de competencia con perspectiva de género y bajo el principio de igualdad de oportunidades entre hombres y mujeres, apoyos, estímulos, premios y reconocimientos a deportistas, organizaciones deportivas, árbitros, técnicos, instructores, entrenadores, guías, investigadores en ciencias aplicadas al deporte, profesores y estudiantes de educación física y promotores comunitarios que destaquen en el desarrollo e impulso del deporte y la cultura física en el Estado, previo cumplimiento de los requisitos que para tal efecto se establecen en términos de esta Ley.
 
 > <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2021)</small>
 
@@ -1891,7 +1899,9 @@ VII. Propiciar con las universidades, la participación en los programas deporti
 
 VIII. Cooperar con los Organismos Municipales y en su caso, con el sector social y privado, en el desarrollo de los planes de la actividad deportiva escolar y universitaria;
 
-IX. Incentivar y apoyar el desarrollo de los deportistas que destaquen por sus méritos;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+IX. Incentivar y apoyar el desarrollo de los deportistas y entrenadores que destaquen por sus méritos;
 
 X. Realizar cualquier actividad que contribuya al desarrollo de las competencias y eventos oficiales que de acuerdo con esta Ley corresponda al Instituto; y
 
@@ -1917,7 +1927,9 @@ I. Formar parte del SIEDE, con la debida inscripción ante el REEDE;
 
 II. Ser propuestos por la organización deportiva correspondiente o alguna institución educativa o autoridad deportiva;
 
-III. No ser deportistas profesionales, ni obtener un lucro con el desarrollo y práctica de actividades relacionadas con el deporte y la cultura física;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+III. No ser deportistas y entrenadores del deporte profesional, ni obtener un lucro con el desarrollo y práctica de actividades relacionadas con el deporte y la cultura física;
 
 IV. Participar en las competencias que convoque el Instituto; y
 
@@ -2364,5 +2376,13 @@ P.O. 25 DE FEBRERO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 850.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 6 DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y la Gaceta Parlamentaria del H. Congreso del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1619.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES XXXIX Y XLI DEL ARTÍCULO 22, LA FRACCIÓN VII DEL ARTÍCULO 60, EL PÁRRAFO PRIMERO DEL ARTÍCULO 178, LA FRACCIÓN IX DEL ARTÍCULO 179 Y LA FRACCIÓN III DEL ARTÍCULO 183 DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
