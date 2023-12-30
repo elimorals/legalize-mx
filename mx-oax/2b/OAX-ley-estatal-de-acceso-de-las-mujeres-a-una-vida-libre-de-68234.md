@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2023-10-14"
+last_updated: "2023-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -181,9 +181,9 @@ Los tipos de Violencia contra las Mujeres son:
 
 I. La violencia psicológica: Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, desvalorización, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-II. La violencia física: Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de sustancia, arma u objeto que pueda provocar o no lesiones ya sean internas, externas, o ambas;
+II. La violencia física.- Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma, objeto o sustancia ácida, corrosiva, cáustica, irritante, tóxica, inflamable o cualquier otro agente químico o sustancia que, en determinadas condiciones, pueda provocar o no lesiones ya sean internas, externas, o ambas;
 
 III. Violencia patrimonial: Es cualquier acto u omisión que menoscabe el patrimonio de las mujeres por transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes, valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades, pudiendo comprender también los daños a los bienes comunes o propios de la víctima;
 
@@ -353,7 +353,9 @@ XIX. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución i
 
 XX. Obligar a una mujer electa o designada en el ejercicio de sus funciones político-públicas, mediante fuerza, presión o intimidación a suscribir todo tipo de documentos y/o avalar decisiones contrarias a su voluntad, al interés público o general;
 
-XXI. Imponer sanciones administrativas o pecuniarias injustificadas o abusivas, descuentos arbitrarios y/o retención de salarios, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+XXI. Imponer sanciones administrativas o pecuniarias injustificadas o abusivas, descuentos arbitrarios, reducción y/o retención de salarios, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad;
 
 XXII. Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos; y
 
@@ -2836,3 +2838,23 @@ PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Quedan derogadas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1629.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXI DEL ARTÍCULO 11 BIS DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1630.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN II DEL ARTÍCULO 7 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
