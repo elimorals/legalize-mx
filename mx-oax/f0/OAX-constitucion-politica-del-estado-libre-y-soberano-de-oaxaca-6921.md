@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2023-12-13"
+last_updated: "2023-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2023.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -997,11 +997,9 @@ La organización, desarrollo, vigilancia y calificación de las elecciones es un
 
 En el ejercicio de la función electoral, a cargo de las autoridades electorales, serán principios rectores los de certeza, imparcialidad, independencia, legalidad, interculturalidad, máxima publicidad y objetividad.
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-I. Las elecciones de Gobernador del Estado, Diputados Locales y de los Ayuntamientos por el régimen de partidos políticos y de candidatos independientes, se celebraran mediante sufragio universal, efectivo, libre, secreto y directo, el primer domingo de junio del año que corresponda.
-
-Las elecciones extraordinarias se celebraran en la fecha que señale la autoridad electoral;
+I. Las elecciones de Gobernador del Estado, Diputados Locales y de los Ayuntamientos por el régimen de partidos políticos y de candidatos independientes, se celebrarán de manera concurrente con los comicios federales, mediante sufragio universal, efectivo, libre, secreto y directo, el primer domingo de junio del año que corresponda.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
@@ -6738,3 +6736,15 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. El Congreso del Estado de Oaxaca deberá realizar las adecuaciones normativas correspondientes, en un plazo no mayor a los ciento ochenta días naturales, contados a partir del día siguiente a la entrada en vigor del presente Decreto.
 
 CUARTO. Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1624.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN I, BASE A, DEL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor el 01 de enero de 2025.
+
+TERCERO. La presente reforma no será aplicable a la persona titular del Poder Ejecutivo que este en funciones a la entrada en vigor de la misma.
+
+CUARTO. Con la finalidad de cumplir con la presente reforma constitucional y para lograr la concurrencia de la elección de Gobernador o Gobernadora con los comicios federales; por única ocasión la persona titular del Poder Ejecutivo que se elija el primer domingo de junio del año dos mil veintiocho, iniciará su periodo el uno de diciembre de dos mil veintiocho, y concluirá el treinta de noviembre de dos mil treinta.
