@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-servicio-de-administracion-tributaria-del-estado-de-139
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-30"
-last_updated: "2021-12-31"
+last_updated: "2023-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2023.
 
 Ley publicada en la Novena Parte al Número 260 del Periódico Oficial del Estado de Guanajuato, el lunes 30 de diciembre de 2019.
 
@@ -155,9 +155,9 @@ XXIV. Determinar, mediante resolución administrativa las contribuciones o aprov
 
 XXV. Determinar la responsabilidad solidaria respecto de créditos fiscales;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-XXVI. Tramitar y resolver las solicitudes de condonación de multas que se impongan en el ejercicio de sus facultades, por infracción a las disposiciones fiscales estatales, así como en materia de impuestos federales coordinados, en el área de su competencia, en los términos de las disposiciones legales y lineamientos aprobados por la Junta de Gobierno;
+XXVI. Tramitar y resolver las solicitudes de reducción de multas que se impongan en el ejercicio de sus facultades, por infracción a las disposiciones fiscales estatales, así como en materia de impuestos federales coordinados, en el área de su competencia, en los términos de las disposiciones legales y lineamientos aprobados por la Junta de Gobierno;
 
 XXVII. Tramitar y resolver las solicitudes de prescripción de créditos fiscales y la extinción de facultades de las autoridades fiscales;
 
@@ -486,3 +486,9 @@ P.O. 31 DE DICIEMBRE DE 2021.
 Inicio de vigencia
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 297, EXPEDIDO POR LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE GUANAJUATO; Y SE REFORMA LA FRACCIÓN XXVI DEL ARTÍCULO 6 DE LA LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
