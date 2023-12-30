@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-coordinacion-y-colaboracion-financiera-para-el-118757"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2022-12-31"
+last_updated: "2023-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Suplemento al Periódico Oficial del Gobierno del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -105,13 +105,17 @@ X. Ley de Coordinación. Ley de Coordinación Fiscal;
 
 XI. Municipio o Municipios. Los que integran el Estado de Zacatecas;
 
-XII. Participaciones. A los recursos federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, transferidos a las Entidades Federativas y en su caso, por conducto de éstas a los municipios, a través del Ramo General 33 del Presupuesto de Egresos de la Federación;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+XII. Participaciones. A los recursos federales a que se refiere el Capítulo I de la Ley de Coordinación Fiscal, transferidos a las Entidades Federativas y en su caso, por conducto de éstas a los municipios, a través del Ramo General 28 del Presupuesto de Egresos de la Federación;
 
 XIII. Patrimonio. Los bienes muebles e inmuebles considerados de dominio público o privado, según la Ley del Patrimonio del Estado y sus Municipios;
 
 XIV. Periódico Oficial. El Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas;
 
-XV. SEDESOL. A la Secretaría de Desarrollo Social del Estado de Zacatecas;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+XV. Secretaría de Bienestar. A la Secretaría de Bienestar del Gobierno Federal;
 
 XVI. Secretaría. La Secretaría de Finanzas, del Gobierno del Estado de Zacatecas; y
 
@@ -123,9 +127,15 @@ XVII. Sistema de Coordinación. Sistema Estatal de Coordinación y Colaboración
 
 XVIII. Inversión Pública Municipal: Toda erogación por la cual se genere, directa o indirectamente, un beneficio social, y adicionalmente, cuya finalidad específica sea: (a) la construcción, mejoramiento, rehabilitación o reposición de bienes de dominio público; (b) la adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en los conceptos de mobiliario y equipo de administración, mobiliario y equipo educacional, equipo médico e instrumental médico y de laboratorio, equipo de defensa y seguridad, y maquinaria, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable, o (c) la adquisición de bienes para la prestación de un servicio público específico, comprendidos de manera limitativa en los conceptos de vehículos de transporte público, terrenos y edificios no residenciales, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable;
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+XIX. Aportaciones. A los recursos federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, transferidos a las Entidades Federativas y, en su caso, por conducto de éstas a los municipios, a través del Ramo General 33 del Presupuesto de Egresos de la Federación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 3.
 
-El Estado percibirá las participaciones correspondientes a los ingresos federales, de conformidad con lo dispuesto en la Ley de Coordinación; y los Municipios las percibirán atendiendo a lo dispuesto en el inciso b), fracción IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+El Estado percibirá las participaciones y aportaciones correspondientes a los ingresos federales, de conformidad con lo dispuesto en la Ley de Coordinación; y los Municipios las percibirán atendiendo a lo dispuesto en la legislación de la materia.
 
 Los criterios, bases y montos para la distribución de las participaciones que les corresponderán a los Municipios se establecerán en esta Ley, con apego a lo dispuesto en ambos ordenamientos.
 
@@ -671,7 +681,9 @@ FPt es el Fondo de Participación por Colaboración Administrativa en Materia de
 
 Ci es el Coeficiente de distribución del Fondo por Colaboración Administrativa en Materia de Recaudación del Impuesto Predial del Municipio i en el año t en el que se efectúa el cálculo.
 
-Rci,t es el monto de la recaudación del Impuesto Predial del Municipio i en el ejercicio fiscal anterior al que se realiza el cálculo y que registre un flujo de efectivo, reportado en la última cuenta pública presentada a la Legislatura del Estado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+Rci, t es el monto de la recaudación del Impuesto Predial del Municipio i en el ejercicio fiscal anterior al que se realiza el cálculo y que registre un flujo de efectivo, reportado en los formatos que para tal efecto emita la Secretaría, dentro de la segunda quincena del mes de enero de cada ejercicio fiscal.
 
 --- (sic). Es la suma sobre todos los Municipios de la variable que le sigue.
 
@@ -717,7 +729,9 @@ i
 
 Ab. Es el año base definido en el artículo 2 de la presente Ley.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+Cuando el crecimiento en el Fondo a que se refiere este artículo entre el Año Base y el periodo t sea negativo, no se actualizarán los coeficientes Efectivos y quedarán vigentes los del ejercicio inmediato anterior.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -767,13 +781,17 @@ La participación correspondiente al mes de diciembre, la Secretaría realizará
 
 La entrega de las participaciones a los Municipios, la realizará la Secretaría a través de transferencia electrónica o mediante la expedición del cheque, quedando estrictamente prohibido al Gobierno del Estado hacer el pago a los Municipios mediante obras realizadas en la circunscripción de éstos, así como condicionar la entrega a la realización de una obra en particular y no podrán ser objeto de deducciones, lo anterior, sin perjuicio de lo dispuesto en el artículo 9 de la Ley de Coordinación.
 
-La Secretaría, a más tardar el 15 de febrero del ejercicio de que se trate, deberá publicar en el Periódico Oficial, así como en la página oficial de Internet del Gobierno del Estado, el calendario de entrega, porcentaje, fórmulas y variables utilizadas, así como los montos estimados, del Fondo Único de Participaciones que los Municipios recibirán. También se deberá publicar en el Periódico Oficial, el día 15 del mes posterior a la conclusión de cada trimestre, así como en la página oficial de Internet del Gobierno del Estado, el importe de las participaciones entregadas y, en su caso, el ajuste realizado al término de cada ejercicio fiscal.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+La Secretaría, a más tardar el 15 de febrero del ejercicio de que se trate, deberá publicar mediante acuerdo en el Periódico Oficial, así como en la página oficial de Internet del Gobierno del Estado, el calendario de entrega, porcentaje, fórmulas y variables utilizadas, así como los montos estimados, del Fondo Único de Participaciones que los Municipios recibirán. También se deberá publicar mediante acuerdo en el Periódico Oficial, el día 15 del mes posterior a la conclusión de cada trimestre, así como en la página oficial de Internet del Gobierno del Estado, el importe de las participaciones entregadas y, en su caso, el ajuste realizado al término de cada ejercicio fiscal.
 
 El Secretario expedirá los acuerdos que contengan la información a que se refiere el párrafo anterior, dando cumplimiento a los tiempos establecidos para estos efectos.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 37.
 
-Cuando las entregas del Fondo establecido en el artículo 33 de esta Ley, no fueren oportunas, sin perjuicio de lo dispuesto por el artículo 8 de la Ley de Coordinación, los Municipios podrán reclamar esta situación ante la Legislatura o ante las instancias establecidas en la propia Ley de Coordinación, quienes dentro de los siguientes cinco días hábiles, conminarán a la Secretaría para que efectúe las entregas en los términos de la presente Ley.
+Cuando las entregas del Fondo establecido en el artículo 33 de esta Ley, no fueren oportunas, sin perjuicio de lo dispuesto por el artículo 6 de la Ley de Coordinación, los Municipios podrán reclamar esta situación ante la Legislatura o ante las instancias establecidas en la propia Ley de Coordinación, quienes, dentro de los siguientes cinco días hábiles, conminarán a la Secretaría para que efectúe las entregas en los términos de la presente Ley.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -813,19 +831,25 @@ Dichos Fondos se integrarán, distribuirán, administrarán, ejercerán y superv
 
 Los recursos del Fondo de Aportaciones para la Infraestructura Social Municipal se destinarán exclusivamente al financiamiento de obras, acciones sociales básicas y a inversiones que beneficien directamente a población en pobreza extrema, localidades con alto o muy alto nivel de rezago social conforme a lo previsto en la Ley General de Desarrollo Social, y en las zonas de atención prioritaria.
 
-Los recursos del Fondo de Aportaciones para la Infraestructura Social Municipal, se destinarán a agua potable, alcantarillado, drenaje y letrinas, urbanización, electrificación rural en colonias de bajos recursos, infraestructura básica del sector salud y educativo, mejoramiento de vivienda, así como mantenimiento de infraestructura, conforme a lo señalado en el catálogo de acciones establecido en los Lineamientos del Fondo que emita la Secretaría de Desarrollo Social.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+Los recursos del Fondo de Aportaciones para la Infraestructura Social Municipal, se destinarán a agua potable, alcantarillado, drenaje y letrinas, urbanización, electrificación rural en colonias de bajos recursos, infraestructura básica del sector salud y educativo, mejoramiento de vivienda, así como mantenimiento de infraestructura, conforme a lo señalado en el catálogo de acciones establecido en los Lineamientos del Fondo que emita la Secretaría de Bienestar.
 
 Este Fondo se entregará a los Municipios en los términos que establece el artículo 32 de la Ley de Coordinación.
 
-Los Municipios podrán disponer de hasta un 2% del total de recursos del Fondo para la Infraestructura Social Municipal que les correspondan para la realización de un Programa de Desarrollo Institucional Municipal. Este programa será convenido entre el Ejecutivo Federal a través de la Secretaría de Desarrollo Social, el Gobierno del Estado y el Municipio de que se trate. Los recursos de este programa podrán utilizarse para la elaboración de proyectos con la finalidad de fortalecer las capacidades de gestión del Municipio, de acuerdo con lo señalado en el catálogo de acciones establecido en los Lineamientos del Fondo que emita la Secretaría de Desarrollo Social.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+Los Municipios podrán disponer de hasta un 2% del total de recursos del Fondo para la Infraestructura Social Municipal que les correspondan para la realización de un Programa de Desarrollo Institucional Municipal. Este programa será convenido entre el Ejecutivo Federal a través de la Secretaría de Bienestar, el Gobierno del Estado y el Municipio de que se trate. Los recursos de este programa podrán utilizarse para la elaboración de proyectos con la finalidad de fortalecer las capacidades de gestión del Municipio, de acuerdo con lo señalado en el catálogo de acciones establecido en los Lineamientos del Fondo que emita la Secretaría de Bienestar.
 
 Adicionalmente, los Municipios podrán destinar hasta el 3% de los recursos que les correspondan de este Fondo para ser aplicados como gastos indirectos para la verificación y seguimiento de las obras y acciones que se realicen, así como para la realización de estudios y la evaluación de proyectos que cumplan con los fines específicos a que se refiere este artículo.
 
 Los Municipios tendrán las mismas obligaciones a que se refiere el artículo 33, apartado 8, fracción II, de la Ley de Coordinación.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 43.
 
-El Fondo de Aportaciones para la Infraestructura Social Municipal será distribuido entre los Municipios, considerando criterios, fórmula y procedimientos que se establecen en el artículo 35 de la Ley de Coordinación, la Secretaría puede tomar referencia de los montos que anualmente determina la Secretaría de Desarrollo Social.
+El Fondo de Aportaciones para la Infraestructura Social Municipal será distribuido entre los Municipios, considerando criterios, fórmula y procedimientos que se establecen en el artículo 35 de la Ley de Coordinación, la Secretaría puede tomar referencia de los montos que anualmente determina la Secretaría de Bienestar.
 
 ###### Artículo 44.
 
@@ -1102,3 +1126,25 @@ Se autoriza a la Secretaría de Finanzas del Gobierno del Estado, para otorgar e
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2023.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NO. 497.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS Y DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]</small>
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veinticuatro, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal, en lo que se opongan al presente Decreto.
+
+RELACIÓN DE ANEXOS
+
+MISCELÁNEA FISCAL PARA EL EJERCICIO FISCAL 2024
+
+ANEXO 1. ESTIMACIÓN DE IMPACTO PRESUPUESTARIO DE LA MISCELÁNEA FISCAL PARA EL EJERCICIO FISCAL 2024.
+
+ANEXO 2. EVALUACIÓN DE IMPACTO PRESUPUESTARIO DE LA MISCELÁNEA FISCAL PARA EL EJERCICIO FISCAL 2024.
+
+> <small>[N. DE E. VÉASE ANEXOS EN EL SUPLEMENTO DEL P.O. DE 30 DE DICIEMBRE DE 2023, PÁGINAS DE LA 3 A LA 12.]</small>
