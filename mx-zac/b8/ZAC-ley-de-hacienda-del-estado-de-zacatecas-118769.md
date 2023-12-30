@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-118769"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2022-12-31"
+last_updated: "2023-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -991,9 +991,11 @@ Para los efectos de esta Ley se presume que el propietario es el tenedor o usuar
 
 DEL SUJETO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 54.
 
-Están obligados al pago del Impuesto Sobre Tenencia o Uso de Vehículos, las personas físicas y morales, así como las unidades económicas tenedoras o usuarias de los vehículos a que se refiere el artículo anterior.
+Están obligados al pago del Impuesto Sobre Tenencia o Uso de Vehículos, las personas físicas y morales, así como las unidades económicas tenedoras o usuarias de los vehículos a que se refiere el artículo anterior, con excepción de los automóviles eléctricos e híbridos.
 
 Para los efectos de este impuesto, la Federación, la Ciudad de México, los Estados, los Municipios, los Organismos Descentralizados o cualquier otra persona física, moral o unidades económicas, deberán pagar el Impuesto Sobre Tenencia o Uso de Vehículos que se establece en este Capítulo, con las excepciones que en el mismo se señalan, aun cuando de conformidad con otras leyes o decretos no estén obligados a pagar contribuciones federales o estatales, o estén exentos de ellos.
 
@@ -1037,7 +1039,9 @@ g) Automóviles eléctricos e híbridos.
 
 h) Automóviles con motor de uso de biocombustibles.
 
-Para efectos de este Capítulo se entenderá como automóvil híbrido, aquellos automóviles eléctricos, que además cuenten con motor de combustión interna.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+Para efectos de este Capítulo se entenderán como automóviles eléctricos aquellos que cuenten con motores alimentados por baterías recargables de energía eléctrica; y como híbrido, aquellos automóviles eléctricos, que además cuenten con motor de combustión interna. Los automóviles eléctricos e híbridos serán considerados como ecológicos.
 
 IX. Comerciantes en el ramo de vehículos: A las personas físicas y morales, así como las unidades económicas cuya actividad sea la importación y venta de vehículos nuevos o usados;
 
@@ -1677,7 +1681,7 @@ I. Por la Coordinación Estatal de Protección Civil por concepto de:
 
 > <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO DEL P.O. DE 31 DE DICIEMBRE DE 2016, PÁGINAS DE LA 98 A LA 100.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 36 A LA 37; P.O. 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 23 A LA 24; P.O. 31 DE DICIEMBRE DE 2022, PÁGINAS DE LA 8 A LA 10.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 36 A LA 37; P.O. 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 23 A LA 24; P.O. 31 DE DICIEMBRE DE 2022, PÁGINAS DE LA 8 A LA 10; P.O. 30 DE DICIEMBRE DE 2023, PÁGINA 15.]</small>
 
 > <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1685,11 +1689,17 @@ II. Por el Instituto de Formación Profesional:
 
 Seguridad Privada Importe
 
-a. Evaluaciones CONCIPER. $1,400.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-b. Conducción de presuntos responsables y radiocomunicación. $ 3,000 00
+a) Evaluaciones CONCIPER. $1,540.00
 
-c. Si tiene portación de arma: armamento y práctica de tiro, vigilancia y patrullaje, manejo de emociones, preservación del lugar de los hechos. $ 5,000.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+b) Conducción de presuntos responsables y radiocomunicación. $3,300.00
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+c) Si tiene portación de arma: armamento y práctica de tiro, vigilancia y patrullaje, manejo de emociones, preservación del lugar de los hechos. $5,500.00
 
 > <small>(ADICIONADA [N. DE E. CON SUS IMPORTES], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1749,9 +1759,9 @@ e) Autorización para registro de actas de registro civil provenientes del extra
 
 f) Servicio de Expedición de Actas Interestatales. $246.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-g) Expedición y entrega de acta en línea impresa en papel bond. $ 90.00
+g) Expedición y entrega de acta en línea impresa en papel bond. $100.00
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
@@ -1813,27 +1823,29 @@ e) Apostilla de documentos. $432.00
 
 V. La Dirección de Estudios Legislativos y Consultoría Legal:
 
-Por revisión de documentos que integran el expediente técnico para la elaboración de iniciativas con proyecto de Decreto que se presentarán a la Legislatura del Estado, para desincorporación o enajenación de bienes de patrimonio estatal, paraestatal, municipal y paramunicipal, así como toda documentación de cualquier ente público que remita para su debida revisión y emisión de un dictamen de valoración. $1,500.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+Por revisión de documentos que integran el expediente técnico para la elaboración de iniciativas con proyecto de Decreto que se presentarán a la Legislatura del Estado, para desincorporación o enajenación de bienes de patrimonio estatal, paraestatal, municipal y paramunicipal, así como toda documentación de cualquier ente público que remita para su debida revisión y emisión de un dictamen de valoración. $1,650.00
 
 VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2022)
 
 VII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2022)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-VIII. Por servicios de publicación en el Periódico Oficial, Órgano de Gobierno del Estado Libre y Soberano de Zacatecas, por palabra de Aviso judicial, administrativo, edicto, notificación y otros actos que se publiquen conforme a disposiciones legales, causarán la siguiente cuota por inserción. $1.10
+VIII. Por servicios de publicación en el Periódico Oficial, Órgano de Gobierno del Estado Libre y Soberano de Zacatecas, por palabra de Aviso judicial, administrativo, edicto, notificación y otros actos que se publiquen conforme a disposiciones legales, causarán la siguiente cuota por inserción. $1.20
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 IX. Por certificación de copias de ejemplares:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-a) Fecha menor diez años $500.00
+a) Fecha menor a diez años. $ 550.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-b) Fecha mayor de diez años $600.00
+b) Fecha mayor de diez años. $660.00
 
 > <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
@@ -1989,19 +2001,19 @@ Grupo C: Pánuco, Mezquital del Oro, Vetagrande, Apulco, Jiménez del Téul, Mom
 
 II. Las verificaciones a los establecimientos que lleve a cabo el Estado, se causarán de acuerdo al grupo al que pertenezca el municipio donde se ubique el domicilio del establecimiento, de acuerdo a los importes siguientes:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
 Grupo A B C
 
-$722.00 $579.00 $433.00
+$794.00 $637.00 $476.00
 
 III. La anuencia que expida el Estado se tasará de acuerdo con los importes siguientes:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
 Grupo A B C
 
-$1,011.00 $867.00 $722.00
+$1,112.00 $954.00 $794.00
 
 IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2022)
 
@@ -2047,6 +2059,12 @@ b) Aquellos vehículos provenientes de otra entidad federativa que se den de alt
 
 c) Para los vehículos que se encuentren registrados en el padrón vehicular, cuando lleven a cabo el canje de placas, deberá efectuarse durante los primeros tres meses del año al que corresponda el pago.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+d) Los automóviles eléctricos e híbridos registrados, recibirán una placa que los identifique como automóviles ecológicos.
+
+Quedan exentos del pago de este derecho los automóviles eléctricos e híbridos.
+
 Para los efectos de esta fracción, se cubrirán los derechos siguientes
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
@@ -2081,9 +2099,21 @@ III. La verificación que se realice de documentación, respecto de vehículos q
 
 IV. Baja de Placa: $150.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-Para el trámite de baja, una vez iniciado el ejercicio fiscal, deberá estar cubierto el impuesto por tenencia o uso de vehículos y los derechos relativos al control vehicular, del ejercicio en que se solicite la baja respectiva, debiendo no tener adeudos de ejercicios anteriores y entregar las placas vehiculares correspondientes.
+Para el trámite de baja, una vez iniciado el ejercicio fiscal, se dará conforme a lo siguiente:
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+Para aquellas unidades que se encuentren al corriente al ejercicio inmediato anterior en nuestro padrón vehicular del Estado de Zacatecas, el contribuyente podrá realizar su baja conforme a esta fracción, hasta el 31 de marzo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+Para aquellas unidades que no se encuentren al corriente en el pago de control vehicular dentro del plazo del párrafo anterior y que cuente con adeudos, el contribuyente deberá cubrirlos hasta el ejercicio en curso para obtener su baja.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+Para ambos casos se deben de entregar las placas vehiculares correspondientes.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2139,6 +2169,10 @@ III. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2017)
 
 Cuando no se cubra la contribución dentro del plazo señalado, deberán pagarse recargos y actualización por concepto de indemnización a la Hacienda Pública Estatal por falta de pago oportuno, de conformidad con la Ley de Ingresos del Estado.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+Quedan exentos del pago de este derecho los automóviles eléctricos e híbridos.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 100.
@@ -2189,9 +2223,9 @@ a la fecha de caducidad 20.00%
 
 A partir del inicio del quinto mes posterior a la caducidad se considerará como emisión de nuevo avalúo.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-II. Para deslinde o levantamiento topográfico de predios urbanos por cada metro cuadrado (m2) se aplicará la cuota de $5.00 pesos.
+II. Para deslinde o levantamiento topográfico de predios urbanos por cada metro cuadrado(m2) se aplicará la cuota de: $6.00
 
 a) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
@@ -2217,7 +2251,7 @@ IV. Para deslinde o levantamiento topográfico de predios rústicos por cada hec
 
 > <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO DEL P.O. DE 31 DE DICIEMBRE DE 2016, PÁGINAS DE LA 107 A LA 108.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 40 A LA 41; P.O. 29 DE DICIEMBRE DE 2018, PÁGINA 29; P.O. 31 DE DICIEMBRE DE 2018, PÁGINA 27; P.O. 31 DE DICIEMBRE DE 2022, PÁGINAS DE LA 13 A LA 14.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 40 A LA 41; P.O. 29 DE DICIEMBRE DE 2018, PÁGINA 29; P.O. 31 DE DICIEMBRE DE 2018, PÁGINA 27; P.O. 31 DE DICIEMBRE DE 2022, PÁGINAS DE LA 13 A LA 14; P.O. DE 30 DE DICIEMBRE DE 2023, PÁGINA 18.]</small>
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
@@ -2495,6 +2529,10 @@ k) Uso, usufructo, servidumbre y contratos de crédito refaccionario, de habilit
 
 l) División de copropiedad, por cada uno de los predios resultantes. $1,302.00
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+m) Constitución de Créditos Agrícolas se tasará al 0.10% sobre el valor del crédito.
+
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 IX. Por el registro de cédula hipotecaria, embargo judicial o administrativo, cuando el monto total de lo reclamado sea hasta por la cantidad de $250,000.00, se cubrirá la cantidad de: $1,500.00
@@ -2663,6 +2701,14 @@ b) Por cada foja excedente. $22.00
 
 VI. Certificado de Limitación o de Anotación. $356.00
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+VII. Expedición de Certificado con Aviso Pre-preventivo y/o Preventivo. $560.00
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+VIII. Expedición de Certificado de única propiedad. $367.00
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 105.
@@ -2813,17 +2859,17 @@ c) Habitacional residencial, por m2 vendible. $1.725
 
 d) Habitacional campestre, por m2 vendible. $1.725
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-e) Comercial y zonas destinadas al comercio en los fraccionamientos habitacionales, por m2 vendible. $2.185
+e) Comercial y zonas destinadas al comercio en los fraccionamientos habitacionales, por m2 vendible. $2.40
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-f) Granja de explotación agropecuaria, por m2 vendible. $2.185
+f) Granja de explotación agropecuaria, por m2 vendible. $2.40
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-g) Funerario o cementerio, por m3 del volumen de las fosas o gaveta. $6.90
+g) Funerario o cementerio, por m3 del volumen de las fosas o gavetas. $7.60
 
 Cuando las obras autorizadas no se ejecuten dentro de la vigencia de la autorización, se deberá solicitar el refrendo de la misma debiendo cubrirse los derechos en términos de este artículo como si se trataren de una inicial;
 
@@ -3031,7 +3077,9 @@ VII. Costo por inscripción a licitaciones de suministros, servicios y arrendami
 
 ARTÍCULO 111 TER. Por los servicios relacionados con el otorgamiento de permisos para la construcción de obras dentro del derecho de vía de los caminos y puentes de jurisdicción estatal, se pagarán los derechos conforme a las siguientes cuotas:
 
-I. Por la autorización de cruces superficiales, subterráneos o aéreos en carreteras y puentes de jurisdicción estatal $2,624.00
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+I. Por la autorización de cruces superficiales, subterráneos o aéreos en carreteras y puentes de jurisdicción estatal. $2,886.00
 
 II. Por la autorización de instalaciones marginales dentro del derecho de vía de carreteras y puentes de jurisdicción estatal, por cada 100 metros o fracción que exceda de dicha longitud $2,624.00
 
@@ -3041,6 +3089,10 @@ III. Por la autorización para construcción de accesos que afecten el derecho d
 
 IV. Por expedición de la constancia de no afectación al Derecho de Vía Estatal. $700.00
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+V. Por la autorización de instalaciones marginales aéreas y subterráneas, para cables de redes de telecomunicaciones que se realicen dentro del derecho de vía de carreteras y puentes de jurisdicción estatal, por kilómetro o fracción. $10,000.00
+
 ### CAPÍTULO SÉPTIMO. Servicios de la Secretaría de la Función Pública
 
 ###### ARTÍCULO 112.
@@ -3049,23 +3101,23 @@ Los servicios que presten por concepto de:
 
 I. Por registro con vigencia de un año en el padrón:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-a) De proveedores. $562.00
+a) De proveedores. $618.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-b) De contratistas. $803.00
+b) De contratistas. $883.00
 
 II. Por revalidación del registro con vigencia de un año:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-a) De proveedores. $401.00
+a) De proveedores. $441.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-b) De contratistas. $562.00
+b) De contratistas. $618.00
 
 ###### ARTÍCULO 113.
 
@@ -3415,13 +3467,17 @@ d) Tipo Superior. $72.00
 
 LI. DUPLICADO DE EQUIVALENCIA DE ESTUDIOS DE:
 
-A) SECUNDARIA. $15.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-B) TIPO MEDIO SUPERIOR. $50.00
+a) Secundaria. $17.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-c) Tipo Superior. $65.00
+b) Tipo Medio Superior. $55.00
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+c) Tipo Superior. $72.00
 
 > <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -3435,13 +3491,13 @@ a) Educación Primaria. $32.00
 
 b) Educación Secundaria (por grados). $32.00
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-LIII. Expedición de copias certificadas de documentos, por cada foja tamaño carta u oficio. $14.00
+LIII. Expedición de copias certificadas de documentos, por cada foja tamaño carta u oficio. $15.00
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-LIV. Certificación a punto y raya de título y acta de examen profesionales. $75.00
+LIV. Certificación a punto y raya de título y acta de examen profesionales. $83.00
 
 > <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
@@ -3451,17 +3507,17 @@ LV. Práctica de examen a título de suficiencia de Nivel Medio Superior, Academ
 
 LVI. Servicios complementarios de los Subsistemas de Preparatoria Abierta y Bachillerato a Distancia:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-a) Por la emisión de Duplicado de Credencial. $35.00
+a) Por la emisión de Duplicado de Credencial. $40.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-b) Por expedición de Historial Académico. $10.00
+b) Por expedición de Historial Académico. $11.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-c) Por expedición de Constancias. $35.00
+c) Por expedición de Constancias. $40.00
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
@@ -3493,9 +3549,9 @@ I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 II. Costo por concepto de pago de bases para participar en los procedimientos de Licitación Pública:
 
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-a) Adquisiciones, arrendamiento de bienes y prestación de servicios. $2,000.00
+a) Adquisiciones, arrendamiento de bienes y prestación de servicios. $ 2,200.00
 
 b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
@@ -3503,9 +3559,9 @@ b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 III. Costo por concepto de pago de bases para participar en los procedimientos de concurso por invitación:
 
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-a) Adquisiciones, arrendamientos de bienes y prestación de servicios $1,600.00
+a) Adquisiciones, arrendamientos de bienes y prestación de servicios. $1,760.00
 
 IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
@@ -3566,6 +3622,18 @@ III. Modificación de la autorización para prestar servicios de seguridad priva
 (REFORMADA, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
 IV. Por cambio de representante legal de las empresas prestadoras de servicios de seguridad privada: $4,291.00
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+V. Expedición de constancia que solicite el prestador de servicios de seguridad privada por haber concluido el proceso de trámite a que se refieren los incisos de la fracción I del presente artículo. $520.00
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+VI. Expedición de autorización por la prestación de otros servicios relacionados con la seguridad privada: $ 21,500.00
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+VII. Revalidación de los permisos señalados en fracción VI de este artículo: $19,750.00
 
 La autorización y revalidación que refieren las fracciones I y II del presente artículo, serán vigentes por el ejercicio fiscal en que se expidan.
 
@@ -3667,25 +3735,25 @@ a) Por 5 días:
 
 b) Por 10 días:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-1. Servicio Particular. $530
+1. Servicio Particular: $593.00
 
 2. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 c) Por 15 días:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-1. Servicio Particular. $680
+1. Servicio Particular: $748.00
 
 2. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 d) Por treinta días:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-1. Servicio Particular. $1,050.00
+1. Servicio Particular: $1,155.00
 
 2. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
@@ -3705,15 +3773,19 @@ b) Por treinta días: $903.00
 
 X. Permiso por el uso de cristales polarizados con una luminosidad al 75% en vehículos de uso particular:
 
-a) Por noventa días. $400.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-b) Por ciento ochenta días. $800.00
+a) Por noventa días: $440.00
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+b) Por ciento ochenta días: $880.00
 
 Quedan exentos del pago establecido en la fracción inmediata anterior, los conductores que por razones médicas o de seguridad requieran de utilizar un polarizado en mayor grado al señalado anteriormente.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-XI. Constancia de vigencia o de existencia de licencia de conducir. $300.00
+XI. Constancia de vigencia o de existencia de licencia de conducir. $330.00
 
 ###### ARTÍCULO 119.
 
@@ -3725,127 +3797,151 @@ XI. Constancia de vigencia o de existencia de licencia de conducir. $300.00
 
 Por la evaluación y emisión del dictamen de impacto ambiental:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-I. Informe preventivo. $5,532.00
+I. Informe preventivo. $6,085.00
 
 II. Estudio de Impacto Ambiental tipo General:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-a) Con nivel de impacto bajo. $7,223.00
+a) Con nivel de impacto bajo. $7,945.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-b) Con nivel de impacto medio. $7,446.00
+b) Con nivel de impacto medio. $8,191.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-c) Con nivel de impacto alto. $8,445.00
+c) Con nivel de impacto alto. $9,290.00
 
 III. Estudio de Impacto Ambiental tipo Intermedio:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-a) Con nivel de impacto bajo. $9,446.00
+a) Con nivel de impacto bajo. $10,391.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-b) Con nivel de impacto medio. $12,062.00
+b) Con nivel de impacto medio. $13,268.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-c) Con nivel de impacto alto. $16,830.00
+c) Con nivel de impacto alto. $18,513.00
 
 IV. Estudio de Impacto Ambiental Específico:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-a) Con nivel de impacto bajo. $18,157.00
+a) Con nivel de impacto bajo. $19,984.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-b) Con nivel de impacto medio. $22,696.00
+b) Con nivel de impacto medio. $24,966.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-c) Con nivel de impacto alto. $27,462.00
+c) Con nivel de impacto alto. $30,208.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-V. Exención de trámite de impacto ambiental. $4,360.00
+V. Exención de trámite de impacto ambiental. $4,796.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-VI. Ratificación y ampliación de resolución de impacto ambiental. $2,688.00
+VI. Ratificación y ampliación de resolución de impacto ambiental. $2,957.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-VII. Estudio de riesgo ambiental. $12,482.00
+VII. Estudio de riesgo ambiental. $13,730.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-VIII. Evaluación y resolución de la solicitud de modificación de proyectos autorizados en materia de impacto ambiental. $5,620.00
+VIII. Evaluación y resolución de la solicitud de modificación de proyectos autorizados en materia de impacto ambiental. $6,182.00
 
 ###### ARTÍCULO 121.
 
 Por la prestación de los siguientes servicios:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-I. Reproducción de material didáctico, ecológico y ambiental. $17.00 por foja
+I. Reproducción de material didáctico, ecológico y ambiental. $19.00 por foja.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-II. Reproducción de material informático ecológico y ambiental en medio de almacenamiento (USB, Disco Compacto o cualquier otro). $194.00
+II. Reproducción de material informativo ecológico y ambiental en medio de almacenamiento (USB, Disco Compacto o cualquier otro). $213.00 c/u.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-III. Reproducción de material con información ecológico-ambiental disponible en archivos digitalizados o en medio de almacenamiento (USB, CD y otros). $415.00
+III. Reproducción de material con información ecológico-ambiental disponible en archivos digitalizados o en medio de almacenamiento (USB, CD y otros). $457.00 c/u.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-IV. Información de Planos con información ecológico-ambiental. $1,797.00
+IV. Información de Planos con información ecológico-ambiental. $1,977.00 c/u.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-V. Reproducción de planos con información ecológico-ambiental. $1,107.00
+V. Reproducción de planos con información ecológico-ambiental. $1,218.00 c/u.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-VI. Asesoría, capacitación y materiales sobre ecología y medio ambiente, por cada hora. $1,517.00
+VI. Asesoría, capacitación y materiales sobre ecología y medio ambiente, por cada hora. $1,669.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-VII. Registro en el Padrón de Prestadores de Servicio Ecológico y Ambiental. $2,489.00
+VII. Registro en el Padrón de Prestadores de Servicio Ecológico y Ambiental. $2,738.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-VIII. Reproducción en plotter. $1,175.00
+VIII. Reproducción en plotter. $1,293.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-IX. Autorización por simulacro de Incendio. $1,175.00
+IX. Autorización por simulacro de incendio. $1,293.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-X. Registro de generadores de residuos de manejo especial. $4,236.00
+X. Registro de generadores de residuos de manejo especial. $4,660.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-XI. Trámite de certificación ambiental. $3,457.00
+XI. Trámite de certificación ambiental. $3,803.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-XII. Renovación de Registro de Generadores de Residuos de Manejo Especial. $3,457.00
+XII. Renovación de Registro de Generadores de Residuos de Manejo Especial. $ 3,803.00
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 XIII. Opinión técnica. $2,300.00
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-XIV. Licencia Ambiental de Operación. $2,500.00
+XIV (SIC). Opinión técnica. $2,530.00
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+XV. Licencia Ambiental de Operación. $2,750.00
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+XV (SIC). Expedición de copias certificadas de documentos tamaño carta, por cada foja. $15.00
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+XVI. Evaluación y Resolución de Plan de Manejo de Residuos de Manejo Especial de Pequeño Generador (dos años). $1,850.00
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+XVII. Evaluación y Resolución de Plan de Manejo de Residuos de Manejo Especial de Gran Generador (dos años). $5,455.00
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+XVIII. Modificación de Categoría para los Generadores de Residuos de Manejo Especial (dos años). $450.00
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+XIX. Modificación del Plan de Manejo de Gran Generador. $355.00
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -3929,37 +4025,55 @@ c) A más de dos años anteriores. $246.00
 
 d) Por cada foja excedente correspondiente a asuntos de cualquier año. $13.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-II. Constancia de registro de mandamientos judiciales. $154.00
+II. Constancia de registro de mandamientos judiciales. $169.00
 
-III. Actas que se expidan en los kioscos de servicios electrónicos de Gobierno del Estado, su costo será el que corresponda al considerado en la Ley de Ingresos del Municipio en que estén ubicados dichos servicios electrónicos.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+III. Actas que se expidan en los kioscos de servicios electrónicos de Gobierno del Estado, su costo será el que corresponda al considerado en el inciso g) fracción II del artículo 96 de esta Ley.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 IV. Servicio de Expedición de Impresos Oficiales en formas valoradas y papel especial para:
 
-a) Formato de actas de registro civil. $10.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-b) Asentamiento de actos de registro civil, cada juego. $20.00
+a) Formato de actas de registro civil. $11.00
 
-c) Asentamiento de escritura pública. $4.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-d) Otras formas impresas, cada una. $4.00
+b) Asentamiento de actos de registro civil, cada juego. $22.00
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+c) Asentamiento de escritura pública. $4.50
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+d) Otras formas impresas, cada una. $4.50
 
 e) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
-f) Servicio y expedición de juego de 150 fojas de protocolo notarial abierto. $746.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-g) Servicio y expedición de formas de solicitud para inicio, renovación, cambio de domicilio, cambio de giro o transferencia del derecho de licencia, de establecimientos con venta de bebidas alcohólicas. $10.00
+f) Servicio y expedición de juego de 150 fojas de protocolo notarial abierto. $821.00
 
-h) Servicio de impresión de formas para permisos provisionales para circular sin placas . $75.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-i) Servicio y expedición de hologramas y certificados para Centros de
+g) Servicio y expedición de formas de solicitud para inicio, renovación, cambio de domicilio, cambio de giro o transferencia del derecho de licencia, de establecimientos con venta de bebidas alcohólicas. $11.00
 
-Verificación. $99.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-j) Servicio y expedición de hoja de rechazo para Centros de Verificación. $38.00
+h) Servicio de impresión de formas para permisos provisionales para circular sin placas. $83.00
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+i) Servicio y expedición de hologramas y certificados para Centros de Verificación. $109.00
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+j) Servicio y expedición de hoja de rechazo para Centros de Verificación. $42.00
 
 ###### Artículo 128.
 
@@ -4306,3 +4420,21 @@ Se autoriza a la Secretaría de Finanzas del Gobierno del Estado, para otorgar e
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 497.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS Y DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veinticuatro, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Respecto al Impuesto Sobre Tenencia o Uso de Vehículos contenido en el Capítulo Cuarto del Título Segundo de la Ley de Hacienda del Estado de Zacatecas, continúa en suspensión de cobro para el ejercicio fiscal 2024.
+
+Las obligaciones derivadas de la Ley de Hacienda del Estado de Zacatecas respecto a este Impuesto se suspenden conforme a este Decreto, con excepción de las que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, mismas que deberán ser cumplidas en las formas y plazos establecidos en las disposiciones aplicables.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal, en lo que se opongan al presente Decreto.
