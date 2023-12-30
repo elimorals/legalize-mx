@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-acceso-a-la-informacion-publica-y-buen-150
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-04"
-last_updated: "2023-09-30"
+last_updated: "2023-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2023.
 
 Ley publicada en el No. 36 del Periódico Oficial del Estado de Oaxaca, el sábado 4 de septiembre de 2021.
 
@@ -1867,6 +1867,18 @@ En el caso de que la información ya esté disponible en medios electrónicos, l
 
 En el caso de que la información solicitada ya esté disponible al público en medios impresos, tales como libros, compendios, informes, trípticos o en cualquier otro medio, se hará saber al solicitante por escrito la fuente, el lugar y la forma en que puede consultar, reproducir o adquirir dicha información en un plazo no mayor a cinco días.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+El acceso a la información pública debe ejercerse con el debido respeto entre las y los solicitantes al requerir información pública, así como entre los sujetos obligados al cumplir los requerimientos de información, con uso del lenguaje apropiado y respetuoso que propicie el libre intercambio de ideas y el ejercicio oportuno del derecho a favor de la ciudadanía.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+Conforme a lo anterior, las Unidades de Transparencia de los sujetos obligados no estarán obligados a dar trámite a solicitudes ofensivas o reiterativas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+Se entenderá por solicitudes ofensivas aquellas que, contrario a solicitar información de carácter público, utilicen lenguaje lesivo o palabras altisonantes que pretenda afectar, vulnerar o menospreciar a las y los servidores públicos del sujeto obligado. Así mismo, se entenderá por reiterativas las solicitudes que hayan entregado información sustancialmente idéntica como respuesta a una solicitud de la misma persona.
+
 ###### Artículo 129.
 
 Las y los solicitantes tendrán un plazo de treinta días a partir de que se les notifique la respuesta de acceso a la información para realizar el pago a que se refiere la Ley respectiva y, en caso de no hacerlo dentro del plazo, deberán realizar una nueva solicitud de información sin responsabilidad para el sujeto obligado.
@@ -2528,3 +2540,13 @@ P.O. 30 DE SEPTIEMBRE DE 2023.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Estado de Oaxaca.
+
+P.O. 30 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1631.- MEDIANTE EL CUAL SE ADICIONAN LOS PÁRRAFOS CUARTO, QUINTO Y SEXTO AL ARTÍCULO 128 DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
