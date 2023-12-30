@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-coordinacion-fiscal-del-estado-de-chihuahua-y-sus-131737
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-24"
-last_updated: "2022-12-24"
+last_updated: "2023-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 24 de noviembre de 2018.
 
@@ -381,6 +381,12 @@ El 20% de los recursos que reciba el Estado por concepto de la recaudación deri
 
 La Secretaría entregará a los municipios las participaciones federales que les correspondan, las cuales serán cubiertas en efectivo, sin condicionamiento alguno y no podrán ser objeto de deducciones, salvo lo dispuesto en el artículo 9o. de la Ley de Coordinación Fiscal. Dichas participaciones se entregarán, en los términos del artículo 6o., segundo párrafo, de la Ley de Coordinación Fiscal, dentro de los cinco días siguientes a aquel en que el Estado las reciba.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+###### ARTÍCULO 33
+
+1. La Secretaría cubrirá con cargo a los recursos que del Fondo General de Participaciones, le corresponda a los municipios, el pago de los créditos fiscales federales a cargo de los mismos, asignados por la Secretaría de Hacienda y Crédito Público para su cobro por parte del Estado, en términos de lo establecido en el segundo párrafo de la Cláusula Décima Séptima del Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado entre la Secretaría de Hacienda y Crédito Público y el Estado de Chihuahua; previa solicitud que deberá ser firmada por el presidente municipal y, además, se cumpla con los demás requisitos establecidos para este supuesto, conforme a las disposiciones legales aplicables. Así mismo, el municipio solicitante, deberá suscribir con la Secretaría, convenio por medio del cual autorice a esta, llevar a cabo la afectación de sus participaciones, en términos de lo dispuesto en el artículo 9 de la Ley de Coordinación Fiscal.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 34.
@@ -408,6 +414,10 @@ Para llevar a cabo el reintegro indicado en el párrafo anterior, los municipios
 ###### ARTÍCULO 34
 
 1. Con la finalidad de que mediante el mecanismo de potenciación de los recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas, implementado por Secretaría de Hacienda y Crédito Público, los Municipios obtengan mayores recursos en el ejercicio fiscal de que se trate, a cambio de los recursos futuros que les correspondan de dicho fondo, la Secretaría mediante la suscripción de Convenios con los Municipios, solicitará a la Secretaría de Hacienda y Crédito Público, para que trasmita los referidos recursos en favor del fideicomiso que como vehículo de potenciación, se haya constituido para tales efectos. Dicho convenio deberá incluir la autorización para que, con cargo a los recursos que les correspondan del Fondo General de Participaciones, se cubran las cantidades faltantes necesarias para el pago de las obligaciones que deriven del mencionado mecanismo de potenciación.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+Con el fin de fortalecer la colaboración entre el Estado y los Municipios, para que estos no se vean afectados en sus participaciones, cuando se estime conveniente, la Secretaría cubrirá con cargo a sus ingresos, las aportaciones que les correspondan a los Municipios, relativas al mecanismo de potenciación.
 
 ### CAPÍTULO II. DE LOS FONDOS DE APORTACIONES
 
@@ -842,3 +852,15 @@ El presente Decreto entrará en vigor el día primero de enero del año dos mil 
 ###### ARTÍCULO SEGUNDO.
 
 Las solicitudes de devolución señaladas en el Código Fiscal del Estado que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán substanciándose y se resolverán conforme al artículo 67 del Código Fiscal del Estado anterior al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVII/RFLYC/0800/2023 | P.O. REFORMA AL CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA, LEY ESTATAL DE DERECHOS DE CHIHUAHUA, LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA Y A LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La derogación del Impuesto sobre Actos Jurídicos entrará en vigor a partir del 01 de enero de 2024, sin perjuicio de que todos los actos realizados o celebrados hasta el 31 de diciembre de 2023, que impliquen el pago de este impuesto, deban enterarse con posterioridad a la derogación del mismo.
