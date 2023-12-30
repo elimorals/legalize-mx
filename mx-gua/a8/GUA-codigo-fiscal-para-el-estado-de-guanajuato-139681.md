@@ -4,7 +4,7 @@ identifier: "GUA-codigo-fiscal-para-el-estado-de-guanajuato-139681"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-12-30"
-last_updated: "2022-12-30"
+last_updated: "2023-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO FISCAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2023.
 
 Código publicado en la Novena Parte del Periódico Oficial del Estado de Guanajuato, el lunes 30 de diciembre de 2019.
 
@@ -879,9 +879,11 @@ VII. Al término del plazo para el ejercicio de las facultades de comprobación 
 
 Compensaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 45.
 
-Los contribuyentes obligados a pagar mediante declaración podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, incluyendo sus accesorios. Al efecto, bastará que efectúen la compensación de dichas cantidades actualizadas conforme en el artículo 25 de este Código, desde el mes en que se realizó el pago de lo indebido o se presentó la declaración que contenga el saldo a favor, hasta aquel en que la compensación se realice. Los contribuyentes presentarán el aviso de compensación, dentro de los cinco días siguientes a aquel en el que la misma se haya efectuado, anexando la documentación que al efecto se solicite en la forma oficial que para estos efectos se publique.
+Los contribuyentes obligados a pagar mediante declaración podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio siempre que ambas deriven de un mismo impuesto, incluyendo sus accesorios. Al efecto, bastará que efectúen la compensación de dichas cantidades actualizadas conforme a lo previsto en el artículo 25 de este Código, desde el mes en que se realizó el pago de lo indebido o se presentó la declaración que contenga el saldo a favor, hasta aquel en que la compensación se realice. Los contribuyentes que presenten el aviso de compensación deben acompañar los documentos que establezca el SATEG mediante reglas de carácter general. En dichas reglas también se establecerán los plazos para la presentación del aviso mencionado.
 
 Los contribuyentes que hayan ejercido la opción a que se refiere el primer párrafo del presente artículo, que tuvieran remanente una vez efectuada la compensación, podrán solicitar su devolución.
 
@@ -890,6 +892,58 @@ Si la compensación se hubiera efectuado y no procediera, se causarán recargos 
 No se podrán compensar las cantidades cuya devolución se haya solicitado o cuando haya prescrito obligación para devolverlas, ni las cantidades que hubiesen sido trasladadas de conformidad con las leyes fiscales, expresamente y por separado o incluidas en el precio, cuando quien pretenda hacer la compensación no tenga derecho a obtener su devolución en términos del artículo 40 de este Código.
 
 Las autoridades fiscales podrán compensar de oficio las cantidades que los contribuyentes tengan derecho a recibir de las autoridades fiscales por cualquier concepto, en los términos de lo dispuesto en el artículo 40 de este Código, aún en el caso de que la devolución hubiera sido o no solicitada, contra las cantidades que los contribuyentes estén obligados a pagar por adeudos propios o por retención a terceros cuando estos hayan quedado firmes por cualquier causa. La compensación también se podrá aplicar contra créditos fiscales cuyo pago se haya autorizado a plazos; en este último caso, la compensación deberá realizarse sobre el saldo insoluto al momento de efectuarse dicha compensación. Las autoridades fiscales notificarán personalmente al contribuyente la resolución que determine la compensación.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+Sin perjuicio de lo dispuesto en el párrafo que antecede, los contribuyentes sujetos al ejercicio de facultades de comprobación a que se refiere el artículo 71, fracciones II y III de este Código, podrán optar por corregir su situación fiscal a través de la aplicación de las cantidades que tengan derecho a recibir de las autoridades fiscales por cualquier concepto en términos de lo dispuesto por el artículo 40 de este Código, contra las contribuciones omitidas y sus accesorios. Lo anterior siempre que las cantidades que se pretendan aplicar se hayan generado y declarado de manera previa a que el contribuyente presente la solicitud conforme al procedimiento y requisitos que establezca el SATEG mediante disposiciones de carácter general.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+Para tales efectos, la opción a que se refiere el párrafo anterior no será aplicable a aquellas cantidades que hayan sido previamente negadas en devolución, o cuando haya prescrito la obligación para devolverlas. Tampoco será aplicable a aquellas cantidades que el contribuyente tenga derecho a recibir, cuando las mismas deriven de una resolución emitida en un recurso administrativo o de una sentencia emitida por un órgano jurisdiccional.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+La solicitud a que se refiere el sexto párrafo de este artículo podrá presentarse a partir del día hábil siguiente al en que surta efectos la notificación del oficio de observaciones o bien, de que se levante la última acta parcial, y hasta dentro de los veinte días hábiles posteriores a que concluya el plazo a que se refiere el artículo 77, fracción VI de este Código, según corresponda, o en su caso, se levante el acta final de visita domiciliaria.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+En la solicitud a que se refiere el sexto párrafo de este artículo, el contribuyente podrá pronunciarse sobre uno o varios hechos u omisiones identificados en el ejercicio de facultades de comprobación, para lo cual, el contribuyente deberá indicar los montos y rubros por los que solicita la corrección de su situación fiscal mediante la aplicación de esta facilidad.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+Para determinar las cantidades que el contribuyente solicite se apliquen, la autoridad ante la que se presente la solicitud podrá requerir los datos, informes o documentos adicionales que considere necesarios, dentro de los veinticinco días hábiles siguientes a aquél en que se presente la solicitud correspondiente.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+Para tales efectos, el contribuyente deberá dar cumplimiento a dicho requerimiento dentro de un plazo máximo de veinte días hábiles contados a partir del día hábil siguiente al que surta efectos la notificación del requerimiento señalado en el párrafo anterior, por lo que no procederá solicitud de prórroga para presentar la información y documentación solicitada y, en caso de no cumplir en su totalidad con el requerimiento, se tendrá por desistida su solicitud.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+No se considerará que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando soliciten los datos, informes o documentos adicionales que consideren necesarios para determinar las cantidades susceptibles de aplicarse en términos del sexto párrafo de este artículo, pudiendo ejercerlas en cualquier momento.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+La autoridad fiscal ante la que se presente la solicitud de aplicación de saldos a favor citará al contribuyente, a su representante legal y, en el caso de las personas morales a sus órganos de dirección por conducto de aquél, dentro de los veinticinco días hábiles posteriores al que se presente la solicitud de corrección fiscal en caso de no requerir información o documentación adicional, o bien, dentro de los veinte días hábiles posteriores al que se cumpla con el requerimiento correspondiente, a efecto de que acuda a sus oficinas con la finalidad de comunicarle el monto al que asciende la cantidad susceptible de aplicarse. Para tales efectos, la autoridad levantará un acta circunstanciada en la cual se asiente el monto correspondiente. El contribuyente deberá manifestar dentro de los diez días hábiles siguientes al que se levante dicha acta, si acepta o no la determinación de la autoridad, para corregir su situación fiscal mediante la aplicación de esta facilidad, en caso de que el contribuyente no realice manifestación al respecto se entenderá que no acepta la propuesta.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+En la resolución determinante de las contribuciones omitidas y sus accesorios que se emita conforme al artículo 79 de este Código, la autoridad que ejerció las facultades de comprobación informará al contribuyente el monto al que ascendió la autocorrección por medio de la aplicación de la facilidad prevista en los párrafos anteriores. Para tales efectos, el monto correspondiente se aplicará a todas las partidas por las cuales el contribuyente solicitó corregirse. Asimismo, dicho monto se aplicará al adeudo determinado por la autoridad en el orden que establece el artículo 36, octavo párrafo de este Código.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+En el supuesto de que la cantidad susceptible de aplicarse sea insuficiente para cubrir la totalidad del monto por el cual se corrigió el contribuyente, éste deberá enterar el importe restante dentro de los treinta días siguientes a aquél en que haya surtido efectos la notificación de la resolución determinante de los créditos fiscales, conforme al artículo 96 de este Código.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+Tratándose de las partidas por las cuales el contribuyente no opte por corregir su situación fiscal, se deberá estar a lo establecido en las disposiciones aplicables, por lo que en caso de que la autoridad determine contribuciones omitidas y sus accesorios, las mismas deberán pagarse o garantizarse, junto con sus accesorios, dentro de los treinta días siguientes a aquél en que haya surtido efectos su notificación, de conformidad con el artículo 96 de este Código.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+Si la cantidad susceptible de aplicarse es mayor al monto de las contribuciones omitidas y sus accesorios determinado por la autoridad, o bien, si el contribuyente no acepta que se lleve a cabo la aplicación de la cantidad que la autoridad determine conforme al decimotercer párrafo de este artículo, ello no dará derecho al contribuyente a devolución o compensación alguna y en ningún caso se generarán precedentes, por lo que para su devolución o compensación deberá estar a lo establecido en las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+La opción contenida en el sexto párrafo de este artículo, así como la presentación de la solicitud correspondiente no se considerará como gestión de cobro que interrumpa la prescripción de la obligación de devolver en términos de los artículos 40 y 171 de este Código. Asimismo, la solicitud que presente el contribuyente para corregir su situación fiscal no constituye instancia, por lo que los actos que se emitan por la autoridad fiscal no podrán ser impugnados por los contribuyentes.
 
 Cuando el contribuyente no efectúe la compensación total de contribuciones podrá continuar compensando el remanente del saldo a favor en pagos futuros o solicitar su devolución.
 
@@ -1649,9 +1703,9 @@ I. Permitir a los visitadores designados por las autoridades fiscales el acceso 
 
 II. Mantener a disposición de las autoridades fiscales la contabilidad y demás papeles que acrediten el cumplimiento de las disposiciones fiscales, de los que los visitadores podrán sacar copias para que previo cotejo con sus originales se certifiquen por estos y sean anexados a las actas finales o parciales que levanten con motivo de la visita;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-III. Permitir la verificación de bienes, mercancías, emisiones de contaminantes en el suelo, subsuelo, agua y a la atmósfera, y el depósito o el almacenamiento de residuos en vertederos públicos o privados, que sean objeto de alguno de los impuestos del Estado, así como de los documentos, estados de cuentas bancarias, discos, cintas o cualquier otro medio procesable de almacenamiento de datos y procesos productivos que tenga o realice el contribuyente en los lugares visitados, así como de los equipos de medición de sustancias contaminantes y niveles de contaminación, de acuerdo con las disposiciones fiscales. Las autoridades fiscales podrán utilizar herramientas tecnológicas de medida, estimación o cálculo para determinar emisiones, los elementos de la contribución o la base gravable de cualquiera de los impuestos ecológicos de remediación ambiental, así como material que sirva como muestra, testigo o constancia de contaminación que exista en las instalaciones de los contribuyentes; y
+III. Permitir la verificación de bienes, mercancías, emisiones de contaminantes en el suelo, subsuelo, agua y a la atmósfera, y el depósito de residuos en sitios de disposición final, que sean objeto de alguno de los impuestos del Estado, así como de los documentos, estados de cuentas bancarias, discos, cintas o cualquier otro medio procesable de almacenamiento de datos y procesos productivos que tenga o realice el contribuyente en los lugares visitados, así como de los equipos de medición de sustancias contaminantes y niveles de contaminación, de acuerdo con las disposiciones fiscales. Las autoridades fiscales podrán utilizar herramientas tecnológicas de medida, estimación o cálculo para determinar emisiones, los elementos de la contribución o la base gravable de cualquiera de los impuestos ecológicos de remediación ambiental, así como material que sirva como muestra, testigo o constancia de contaminación que exista en las instalaciones de los contribuyentes; y
 
 IV. Cuando los visitados lleven su contabilidad o parte de ella con el sistema de registro electrónico, o microfilmen o graben en discos ópticos o en cualquier otro medio que autoricen las autoridades fiscales mediante disposiciones de carácter general, deberán poner a disposición de los visitadores el equipo de cómputo y sus operadores, para que los auxilien en el desarrollo de la visita, así como entregar a la autoridad los archivos electrónicos en donde conste dicha contabilidad.
 
@@ -1859,11 +1913,11 @@ Para determinar contribuciones omitidas, el SATEG tendrá como ciertos los hecho
 
 Supuestos en los que procede la determinación presuntiva
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 85.
 
-Las autoridades fiscales podrán determinar presuntivamente la utilidad fiscal de los contribuyentes, las erogaciones por concepto de remuneraciones al trabajo personal subordinado, independientemente de la denominación que se les dé, el precio por la venta final de bebidas alcohólicas en envase cerrado, las emisiones de contaminantes en el suelo, subsuelo, agua y a la atmósfera, y el depósito o el almacenamiento de residuos en vertederos públicos o privados, la base gravable de las contribuciones, el monto de la contraprestación obtenida con motivo de la enajenación de bienes inmuebles o los ingresos, por los que se deban pagar contribuciones, cuando:
+Las autoridades fiscales podrán determinar presuntivamente la utilidad fiscal de los contribuyentes, las erogaciones por concepto de remuneraciones al trabajo personal subordinado, independientemente de la denominación que se les dé, el precio por la venta final de bebidas alcohólicas en envase cerrado, las emisiones de contaminantes en el suelo, subsuelo, agua y a la atmósfera, y el depósito de residuos en sitios de disposición final públicos o privados, la base gravable de las contribuciones, el monto de la contraprestación obtenida con motivo de la enajenación de bienes inmuebles o los ingresos, por los que se deban pagar contribuciones, cuando:
 
 I. Se opongan u obstaculicen la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales; u omitan presentar las declaraciones de cualquier contribución hasta el momento en que se inicie el ejercicio de dichas facultades y siempre que haya transcurrido más de un mes desde el día en que venció el plazo para la presentación de la declaración de que se trate;
 
@@ -1893,11 +1947,11 @@ La determinación presuntiva a que se refiere este artículo, procederá indepen
 
 Elementos para la determinación presuntiva
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 86.
 
-Para la determinación presuntiva a que se refiere el artículo 85, las autoridades fiscales calcularán los ingresos de los contribuyentes, las erogaciones por concepto de remuneraciones al trabajo personal subordinado, independientemente de la denominación que se les dé, el precio por la venta final de bebidas alcohólicas en envase cerrado, las emisiones de contaminantes en el suelo, subsuelo, agua y a la atmósfera, y el depósito o el almacenamiento de residuos en vertederos públicos o privados, sobre los que proceda el pago de contribuciones, para el ejercicio de que se trate, indistintamente con cualquiera de los siguientes procedimientos:
+Para la determinación presuntiva a que se refiere el artículo 85, las autoridades fiscales calcularán los ingresos de los contribuyentes, las erogaciones por concepto de remuneraciones al trabajo personal subordinado, independientemente de la denominación que se les dé, el precio por la venta final de bebidas alcohólicas en envase cerrado, las emisiones de contaminantes en el suelo, subsuelo, agua y a la atmósfera, y el depósito de residuos en sitios de disposición final públicos o privados, sobre los que proceda el pago de contribuciones, para el ejercicio de que se trate, indistintamente con cualquiera de los siguientes procedimientos:
 
 I. Utilizando los datos contenidos en la contabilidad del contribuyente, o los que en su caso debieran formar parte de ella;
 
@@ -2199,11 +2253,17 @@ II. En los casos que señalen las leyes fiscales o cuando en las leyes de manera
 
 III. Cuando se solicite por autoridades encargadas de la administración y de la defensa de los intereses fiscales del Estado;
 
-IV. Cuando se solicite por las autoridades jurisdiccionales en el ejercicio de sus funciones; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
-V. En el supuesto previsto en el artículo 94 de este Código.
+IV. Cuando se solicite por las autoridades jurisdiccionales en el ejercicio de sus funciones;
 
-Cuando la información tenga relación con el Registro Estatal Vehicular, y siempre que no se trate de algún supuesto de las fracciones anteriores, se deberá suscribir un convenio o acuerdo interinstitucional con las autoridades fiscales, en el marco de sus competencias.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+V. En el supuesto previsto en el artículo 94 de este Código; y
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+VI. Cuando la información tenga relación con los registros previstos en la legislación fiscal que administra el SATEG, y siempre que no se trate de algún supuesto de las fracciones anteriores, se deberá suscribir un acuerdo interinstitucional con las autoridades fiscales, en el marco de sus competencias.
 
 Las autoridades señaladas en las fracciones que anteceden y que tengan acceso a cualquier tipo de información al amparo de este artículo, estarán obligadas a guardar absoluta reserva al respecto.
 
@@ -2313,17 +2373,25 @@ II. La omisión haya sido corregida por el contribuyente, después que las autor
 
 Siempre que se omita el pago de una contribución cuya determinación corresponda a los servidores públicos o a los notarios o corredores titulados, los accesorios serán a cargo exclusivamente de ellos, y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes a quien determinó las contribuciones, los accesorios serán a cargo de los contribuyentes.
 
-Condonación de recargos y multas
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+Reducción de multas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 108.
 
-La Secretaría podrá condonar hasta el 100% de las multas por infracción a las disposiciones fiscales, inclusive las determinadas por el propio contribuyente, para lo cual el SATEG establecerá, mediante disposiciones de carácter general, los requisitos y supuestos por los cuales procederá la condonación, así como la forma y plazos para el pago de la parte no condonada.
+El SATEG podrá reducir hasta el 100% de las multas por infracción a las disposiciones fiscales, inclusive las determinadas por el propio contribuyente, para lo cual, establecerá mediante disposiciones de carácter general, los requisitos y supuestos por los cuales procederá la reducción, así como la forma y plazos para el pago de la parte no reducida.
 
-La solicitud de condonación de multas en los términos de este artículo, no constituirá instancia y las resoluciones que dicte la Secretaría al respecto, no podrán ser impugnadas por el medio de defensa que establece este Código.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+La solicitud de reducción de multas en los términos de este artículo no constituirá instancia y las resoluciones que dicte el SATEG al respecto, no podrán ser impugnadas por los contribuyentes.
 
 La solicitud dará lugar a la suspensión del procedimiento administrativo de ejecución, si así se pide y se garantiza el interés fiscal.
 
-Sólo procederá la condonación de multas que hayan quedado firmes y siempre que un acto administrativo conexo no sea materia de impugnación.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+
+Sólo procederá la reducción de multas que hayan quedado firmes y siempre que un acto administrativo conexo no sea materia de impugnación.
 
 Fundamentación y motivación
 
@@ -4240,3 +4308,11 @@ P.O. 30 DE DICIEMBRE DE 2022.
 Inicio de vigencia
 
 Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 30 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 297, EXPEDIDO POR LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE GUANAJUATO; Y SE REFORMA LA FRACCIÓN XXVI DEL ARTÍCULO 6 DE LA LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
