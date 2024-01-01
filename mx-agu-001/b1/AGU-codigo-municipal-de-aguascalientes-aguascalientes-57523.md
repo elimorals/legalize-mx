@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2023-12-11"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ENERO DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1271,33 +1271,25 @@ Asistente del C. Presidente
 
 Secretario Privado del C. Presidente
 
-(REPUBLICADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2017)
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
 
 II.- SECRETARÍA PARTICULAR
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2017)</small>
+Coordinación Administrativa:
 
 Dirección del Centro de Atención a la Ciudadanía.
 
-(REUBICADO, P.O. 20 DE MARZO DE 2017)
-
 Departamento de Atención a la Ciudadanía.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MARZO DE 2017)</small>
 
 Departamento de Gestión Social.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MARZO DE 2017)</small>
-
 Dirección de Relaciones Públicas.
-
-(REUBICADO, P.O. 20 DE MARZO DE 2017)
 
 Departamento de Relaciones Públicas.
 
-(REUBICADO, P.O. 20 DE MARZO DE 2017)
+Dirección de Giras y Eventos.
 
-Departamento de Giras y Eventos.
+Departamento de Logística y Protocolo.
 
 > <small>(REFORMADA, P.O. 9 DE ENERO DE 2023)</small>
 
@@ -1353,9 +1345,11 @@ Presidencia del Sistema D.I.F. Municipal.
 
 Coordinación Operativa General de Voluntariado.
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
 
 VI.- DIRECCIÓN GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA:
+
+Departamento de Procuraduría de Protección Municipal de los Derechos de Niñas, Niños y Adolescentes.
 
 Departamento Jurídico.
 
@@ -1363,7 +1357,7 @@ Departamento de Comunicación Social.
 
 Departamento de Trabajo Social y Atención a personas con discapacidad.
 
-Coordinación Operativa de Peritaje de Trabajo Social
+Coordinación Operativa de Peritaje de Trabajo Social.
 
 Dirección Administrativa.
 
@@ -1825,7 +1819,7 @@ Departamento de Programas Sociales.
 
 Departamento de Mantenimiento.
 
-(REFORMADA, P.O. 13 DE ENERO DE 2014) (REPUBLICADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)
+> <small>(REFORMADA [N. DE E. CON SUS APARTADOS], P.O. 1 DE ENERO DE 2024)</small>
 
 XVI.- SECRETARÍA DE SEGURIDAD PÚBLICA.
 
@@ -1833,13 +1827,11 @@ Secretaría Particular.
 
 Departamento de Comunicación Social.
 
-Departamento de Atención a la ciudadanía.
+Departamento de Atención a la Ciudadanía.
 
-Coordinación de Asuntos Jurídicos
+Dirección de Asuntos Jurídicos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MARZO DE 2017)</small>
-
-Coordinación de la Unidad Municipal y Atención Inmediata
+Coordinación de la Unidad Municipal y Atención Inmediata.
 
 Dirección Administrativa.
 
@@ -1847,47 +1839,25 @@ Departamento de Recursos Materiales y Financieros.
 
 Departamento de Recursos Humanos.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
-
 Dirección de Policía Preventiva.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JUNIO DE 2019)</small>
 
 Coordinación Operativa.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
-
 Jefatura Operativa de Policía Auxiliar y Comercial.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
 
 Jefatura Operativa de la Delegación Jesús Terán.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
-
 Jefatura Operativa de la Delegación Insurgentes.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
 
 Jefatura Operativa de la Delegación Morelos.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
-
 Jefatura Operativa de la Delegación Área Centro.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
 
 Jefatura Operativa Área Uno.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
-
 Jefatura Operativa Especial.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
-
 Jefatura Operativa de las Delegaciones Rurales.
-
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2019)</small>
 
 Dirección de Movilidad.
 
@@ -1899,7 +1869,7 @@ Departamento de Pensión Municipal.
 
 Coordinación Operativa.
 
-Coordinación de Ingeniería vial.
+Coordinación de Ingeniería Vial.
 
 Departamento de Sistema de Semáforos e Ingeniería de Tránsito.
 
@@ -1909,39 +1879,21 @@ Departamento de Estacionamiento Regulado.
 
 Departamento de Proyectos de Movilidad y Estudios de Tránsito.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2019)</small>
-
 Dirección de Prevención de las Violencias y la Delincuencia.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
 
 Coordinación Operativa para la Prevención.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
-
 Departamento de Planeación de Programas Preventivos.
-
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2019)</small>
 
 Departamento de Implementación de Programas Preventivos.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2019)</small>
-
 Departamento de Policía Comunitaria.
-
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2019)</small>
 
 Instituto Superior en Seguridad Pública.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
-
 Coordinación de Seguimiento de Servicio de Carrera Policial.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
-
 Departamento de Formación y Capacitación.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
 
 Departamento de Evaluación.
 
@@ -1953,9 +1905,7 @@ Departamento de Información y Estadística.
 
 Departamento de Planeación.
 
-> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2022)</small>
-
-Departamento de Inteligencia Policial y Política Criminal
+Departamento de Inteligencia Policial y Política Criminal.
 
 Coordinación del Centro de Mando C-4.
 
@@ -1965,9 +1915,7 @@ Departamento de Monitoreo de Videocámaras.
 
 Departamento de Radio Comunicación.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2022)</small>
-
-Departamento de Atención a Emergencias
+Departamento de Atención a Emergencias.
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
@@ -2175,9 +2123,11 @@ APARTADO SEGUNDO
 
 Del Comité Municipal para el Desarrollo Integral de la Familia y el Voluntariado
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 100.
 
-El Comité Municipal para el Desarrollo Integral de la Familia y el Voluntariado, promoverán el bienestar social para lograr el desarrollo integral de la familia y otorgarán asistencia social, con las siguientes atribuciones:
+El Comité Municipal para el Desarrollo Integral de la Familia y el Voluntariado, con auxilio de la Dirección General del Sistema para el Desarrollo Integral de la Familia, promoverán el bienestar social para lograr el desarrollo integral de la familia y otorgarán asistencia social, con las siguientes atribuciones:
 
 I. Fortalecer el núcleo familiar a través de la promoción social, que tienda al mejoramiento de la vida del individuo, la familia y la sociedad en general.
 
@@ -2185,21 +2135,25 @@ I. Fortalecer el núcleo familiar a través de la promoción social, que tienda 
 
 Asimismo, sensibilizar al núcleo familiar y a la población, a través de campañas de educación encaminadas a eliminar prejuicios, estereotipos y otras actitudes que atentan contra el derecho de las personas a ser iguales, propiciando de esta forma el respeto y la convivencia con las personas con discapacidad.
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
 
-II. Realizar estudios e investigaciones sobre los problemas de la familia, de las y los menores, de las personas adultas mayores, considerando a las mujeres y su problemática en especial en esta etapa de su ciclo de vida, de las personas con discapacidad y proponer soluciones adecuadas.
+II. Realizar estudios e investigaciones sobre los problemas de la familia, de niñas, niños y adolescentes, de las personas adultas mayores, considerando a las mujeres y su problemática en especial en esta etapa de su ciclo de vida, de las personas en situación de discapacidad y proponer soluciones adecuadas.
 
-III. Proporcionar servicios asistenciales a menores en estado de abandono, a las personas con discapacidad, personas sin recursos y senectos desamparados.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
+
+III. Proporcionar servicios asistenciales a niñas, niños y adolescentes en estado de abandono, a las personas en situación de discapacidad, personas sin recursos y personas adultas mayores desamparadas.
 
 IV. Fomentar la educación para la integración social, a través de la enseñanza preescolar y extraescolar.
 
 V. Promover el desarrollo de la comunidad en el territorio del Municipio.
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
 
-VI. Brindar servicios de asistencia jurídica y de orientación social a los menores, senectos, personas con discapacidad y en general a toda la población que no cuente con recursos o se encuentre socialmente desprotegida.
+VI. Brindar servicios de asistencia jurídica y de orientación social a niñas, niños y adolescentes, personas adultas mayores, personas en situación de discapacidad y en general a toda la población que no cuente con recursos o se encuentre socialmente desprotegida.
 
-VII. Intervenir en el ejercicio de la tutela de menores, que corresponda al Estado en términos de la Ley, y auxiliar al Ministerio Público en la protección de incapaces y en los procedimientos civiles y familiares que les afecten de acuerdo a la Ley.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
+
+VII. Intervenir en el ejercicio de la tutela de niñas, niños y adolescentes, que corresponda al Estado en términos de la Ley, y auxiliar al Ministerio Público en la protección de personas en situación de discapacidad y en los procedimientos civiles y familiares que les afecten de acuerdo con la Ley.
 
 VIII. Fomentar el sano crecimiento físico y mental de la niñez, la orientación crítica de la población hacia una conciencia cívica y en valores, y propiciar la recreación, el deporte y la cultura.
 
@@ -2221,41 +2175,75 @@ XIII. Formará parte de los Sistemas Municipales, de Prevención, atención, san
 
 ARTÍCULO 100 BIS.- El Comité Municipal para el Desarrollo Integral de la Familia y el Voluntariado, en materia de violencia de género, considerará la desigualdad en que se encuentra, quien vive violencia familiar y consecuentemente:
 
-I. No impondrán procedimientos de conciliación ni de mediación entre pareja, y en los casos de que existan menores en la familia, atenderán en todo momento al interés superior de éstos.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
+
+I. No impondrán procedimientos de conciliación ni de mediación entre pareja, y en los casos de que existan niñas, niños o adolescentes en la familia, atenderán en todo momento al interés superior de éstos.
 
 II. Se abstendrán de imponer así como recomendar psicoterapia de pareja y de familia.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
 
-ARTÍCULO 100 TER.- El Sistema Municipal de Protección de los Derechos de las Niñas, Niños y Adolescentes de Aguascalientes para el fortalecimiento familiar con el fin de proteger de forma integral los derechos de las niñas, niños y adolescentes, contará con las siguientes atribuciones:
+ARTÍCULO 100 TER.- El Sistema Municipal de Protección de los Derechos de las Niñas, Niños y Adolescentes de Aguascalientes se integrará por:
 
-I. Elaborar un programa municipal y participar en el diseño del Programa Local del Estado;
+I.- La persona titular de Presidencia Municipal, quien además presidirá el Sistema Municipal de Protección de los Derechos de las Niñas, Niños y Adolescentes;
 
-II. Realizar acciones de difusión que promuevan los derechos de niñas, niños y adolescentes en el municipio, para que sean plenamente conocidos y ejercidos;
+II.- La persona regidora que se desempeñe como presidenta de la Comisión Permanente de Derechos Humanos;
 
-III. Promover la libre manifestación de ideas de niñas, niños y adolescentes en los asuntos concernientes a su municipio;
+III.- La persona titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Municipio;
 
-IV. Ser enlace entre la administración pública municipal y niñas, niños y adolescentes que deseen manifestar inquietudes;
+IV.- La persona titular del Departamento de Procuraduría de Protección Municipal de los Derechos de Niñas, Niños y Adolescentes;
 
-V. Recibir quejas y denuncias por violaciones a los derechos contenidos en la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes y demás disposiciones aplicables, así como canalizarlas de forma inmediata a la Procuraduría de Protección Local, sin perjuicio que ésta pueda recibirla directamente;
+V.- La persona titular de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
 
-VI. Auxiliar a la Procuraduría Local de Protección competente en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones;
+VI.- La persona titular de la Secretaría de Desarrollo Social del Municipio;
 
-VII. Promover la celebración de convenios de coordinación con las autoridades competentes, así como con otras instancias públicas o privadas, para la atención y protección de niñas, niños y adolescentes;
+VII.- La persona titular de la Secretaría de Seguridad Pública del Municipio;
 
-VIII. Difundir y aplicar los protocolos específicos sobre niñas, niños y adolescentes que autoricen las instancias competentes de la Federación y del Estado de Aguascalientes;
+VIII.- La persona titular de la Secretaría de Finanzas Públicas del Municipio;
 
-IX. Coordinarse con las autoridades de los órdenes de gobierno para la implementación y ejecución de las acciones y políticas públicas que deriven de la Ley General de los Derechos de Niñas, Niños y Adolescentes y de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes;
+IX.- La persona titular de la Dirección General del Instituto Municipal de Salud Mental;
 
-X. Coadyuvar en la integración del sistema de información a nivel nacional de niñas, niños y adolescentes;
+X.- La persona titular de la Dirección General del Instituto Municipal de la Juventud;
 
-XI. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales;
+XI.- La persona titular de la Dirección General del Instituto Municipal de la Mujer;
 
-XII. Contar con un programa de atención y con un área o con servidores públicos que fungirán como autoridad de primer contacto con niñas, niños o adolescentes y que serán el enlace con las instancias locales y federales competentes.
+XII.- La persona titular del Instituto Municipal de Planeación y Evaluación de Aguascalientes; y
 
-La instancia a que se refiere el presente artículo coordinará a los servidores públicos municipales cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos de las niñas, niños y adolescentes, contenidos en la presente Ley, a efecto de que se dé vista a la Procuraduría de Protección Local de forma inmediata; y
+XIII.- Dos representantes de la sociedad civil, designados por la persona titular de la Presidencia Municipal a propuesta de instituciones académicas o asociaciones civiles, a fin de garantizar la participación de los sectores social y privado. Dichas personas representantes fungirán hasta la conclusión del periodo constitucional de la administración municipal en que hayan sido nombradas y deberán cumplir con los siguientes requisitos:
 
-XIII. Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que, de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes, se asuman en el Sistema Nacional DIF y el Sistema DIF Estatal.
+a) No haber sido condenadas por la comisión de un delito doloso en el que la víctima u ofendido haya sido una niña, niño o adolescente; y
+
+b) Contar con experiencia comprobada en la defensa o promoción de los derechos de la infancia o derechos humanos.
+
+La persona titular de la Presidencia Municipal, en las sesiones del Sistema Municipal de Protección de los Derechos de las Niñas, Niños y Adolescentes de Aguascalientes, podrá ser suplida, en casos excepcionales, por la persona titular de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
+
+Los demás integrantes, con excepción de las personas representantes de la sociedad civil, podrán nombrar suplentes los cuales deberán desempeñar un cargo de nivel jerárquico inmediato inferior de quien suplan.
+
+Los cargos propietarios y suplentes como integrantes del Sistema Municipal de Protección de los Derechos de las Niñas, Niños y Adolescentes de Aguascalientes serán honoríficos, en consecuencia, quienes los ostenten no gozarán de compensación por ello.
+
+Dicho Sistema deberá sesionar por lo menos cuatro veces al año; para que sus sesiones sean válidas será necesaria la presencia de la mayoría de sus integrantes propietarios o suplentes, los cuales contarán con voz y voto. Las decisiones se tomarán por mayoría de votos de los presentes y en caso de empate, la persona que funja como Presidente tendrá voto de calidad. Los integrantes del Sistema podrán acordar reglas complementarias para el desahogo de sus sesiones, siempre que no sean contrarias a las establecidas en el presente artículo.
+
+Podrán participar con voz en las sesiones:
+
+I.- Las niñas, niños y adolescentes que determine el Sistema Municipal de Protección de los Derechos de las Niñas, Niños y Adolescentes, o su Presidencia;
+
+II.- Las personas o instituciones especializadas en materia de derechos de niñas, niños o adolescentes que determine el Sistema Municipal de Protección de los Derechos de las Niñas, Niños y Adolescentes o su Presidencia;
+
+III.- Representantes de otras dependencias y entidades municipales, o bien, de la administración pública estatal o federal, de órganos constitucionales autónomos estatales o federales, a invitación de la Presidencia según la naturaleza de los asuntos a tratar.
+
+El Sistema a que se refiere este artículo estará facultado para aprobar los programas municipales de atención y protección que elabore el Departamento de Procuraduría de Protección Municipal de los Derechos de Niñas, Niños y Adolescentes; asimismo, podrá acordar la constitución de comisiones encargadas de atender asuntos o materias específicas, las cuales se integrarán y funcionarán conforme a lo que determine el propio Sistema.
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2024)</small>
+
+ARTÍCULO 100 QUATER.- El Departamento de Procuraduría de Protección Municipal de los Derechos de Niñas, Niños y Adolescentes, fungirá como:
+
+I.- Secretaría Ejecutiva del Sistema referido en el artículo anterior y conforme a lo previsto en el artículo 138 de la Ley General de los Derechos de Niñas, Niños y Adolescentes; y
+
+II.- Autoridad de primer contacto con niñas, niños o adolescentes y enlace con las instancias locales y federales competentes, de conformidad con los artículos 139 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, así como 110 fracción XII de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes.
+
+La persona titular de dicho Departamento será nombrada y removida por la persona titular de la Presidencia Municipal y deberá cumplir los requisitos establecidos en el artículo 122 de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes.
+
+El Departamento a que se refiere este artículo elaborará los programas municipales de atención y protección de niñas, niños y adolescentes; asimismo, ejercerá las demás atribuciones derivadas del artículo 119 en relación con el artículo 139 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, y de los artículos 110 y 123 A de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
@@ -7373,11 +7361,17 @@ II. Secretario: Al titular de la Secretaría de Seguridad Pública;
 
 III. Personal: Todos los servidores públicos de la Secretaría de Seguridad Pública;
 
-IV. Integrantes operativos: A todo el personal operativo adscrito a las Direcciones de Policía Preventiva y de Tránsito y Movilidad, que se les atribuye ese carácter mediante la constancia correspondiente y que sus funciones son aquellas inherentes a la prestación del servicio de seguridad pública en forma directa y no forman parte del área administrativa; y
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
+
+IV. Integrantes operativos: A todo el personal operativo adscrito a la Dirección de Policía Preventiva o a la Dirección de Movilidad, que se les atribuye ese carácter mediante la constancia correspondiente y que sus funciones son aquellas inherentes a la prestación del servicio de seguridad pública en forma directa y no forman parte del área administrativa; y
+
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
 
 V. Personal Administrativo: A los servidores públicos que desarrollan actividades de carácter estrictamente administrativo y coadyuvan al buen funcionamiento de la Secretaría de Seguridad Pública.
 
-Este personal estará obligado a prestar sus servicios en cualquier momento y en cualquier tiempo que las necesidades del servicio lo requieran por motivos de seguridad pública, previamente acreditados o para evitar el entorpecimiento del actuar operativo de la Secretaría, sin perjuicio de sus derechos laborales. Asimismo no formará parte del área operativa y se regirá por el Título Tercero, Capítulo Primero, del Libro Segundo de este Código y lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y demás instrumentos normativos aplicables.
+[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN V, P.O. 1 DE ENERO DE 2024)
+
+Este personal estará obligado a prestar sus servicios en cualquier momento y en cualquier tiempo que las necesidades del servicio lo requieran por motivos de seguridad pública, previamente acreditados o para evitar el entorpecimiento del actuar operativo de la Secretaría, sin perjuicio de sus derechos laborales. Asimismo, no formará parte del área operativa y se regirá por el Título Tercero, Capítulo Primero, del Libro Segundo de este Código y lo previsto en la Ley General de Responsabilidades Administrativas y la ley local de la materia y demás instrumentos normativos aplicables.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -7471,17 +7465,17 @@ a) Director (a) de Estado Mayor;
 
 b) Director (a) de Policía Preventiva;
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
 
-c) Director (a) de Tránsito y Movilidad;
+c) Director (a) de Movilidad;
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
 
-d) Director (a) de Prevención del Delito; y
+d) Director (a) de Prevención de las Violencias y la Delincuencia;
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
 
-e) Director (a) de la Academia de Policía Municipal.
+e) Director (a) del Instituto Superior en Seguridad Pública;
 
 IX. Recibir y realizar acuerdos directamente con los Directores de la Secretaría para el despacho de los asuntos de su competencia;
 
@@ -7509,49 +7503,87 @@ XVI. Ordenar la actuación policial en casos de violencia de género, órdenes d
 
 XVII. Las demás que le señalen las disposiciones normativas aplicables o le asigne el Presidente o Presidenta Municipal.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 551.
 
-Para el correcto desempeño de las actividades de la Secretaría, contará con una Coordinación de Asuntos Jurídicos, que tendrá las siguientes atribuciones:
+Para el correcto desempeño de las actividades de la Secretaría, contará con una Dirección de Asuntos Jurídicos, que tendrá las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 I. Defender, asesorar y representar legalmente ante cualquier instancia a la Secretaría y su personal, en los procedimientos judiciales, administrativos y cualquier otro asunto en el que tenga interés e injerencia la Secretaría, con todos los derechos procesales que las disposiciones legales otorgan, siempre y cuando se trate de intervenciones que realicen en cumplimiento de sus funciones, atendiendo a que el propósito fundamental de su actuar es la defensa jurídica integral del personal de la Secretaría;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 II. Elaborar y proponer los informes previos y justificados que en materia de amparo deba rendir el Secretario, así como los relativos al personal de la Secretaría que sean señalados como autoridades responsables; además de verificar que las demás unidades administrativas cumplan con las resoluciones que en ellos se pronuncien, prestando la asesoría que se requiera e informando al superior jerárquico en caso de incumplimiento;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 III. Formular a nombre de la Secretaría, las denuncias y querellas que legalmente procedan;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 IV. Presentar y contestar demandas, reconvenir a la contraparte, ejercitar acciones y oponer excepciones; así como ofrecer pruebas, formular alegatos, interponer toda clase de recursos y, en general, vigilar y atender la tramitación de los juicios y procedimientos judiciales y contencioso-administrativos y de aquellos asuntos en los que la Secretaría tenga interés;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 V. Fijar, sistematizar y difundir los criterios de interpretación y aplicación de las disposiciones jurídicas que normen la actuación de la Secretaría;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 VI. Proporcionar asesoría jurídica al Secretario y a todo el personal, respecto de las reformas y adiciones a las leyes, reglamentos, decretos y manuales que involucren la operación de la Secretaría;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 VII. Suscribir por conducto de su titular, en ausencia del Secretario previo acuerdo del mismo, escritos y desahogar los trámites que correspondan a los casos urgentes relativos a términos, interposición de recursos y recepción de toda clase de notificaciones;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 VIII. Requerir a los servidores públicos de las unidades administrativas de la Secretaría, por cualquier medio, la documentación e información necesarios para el cumplimiento de sus atribuciones y para realizar las diligencias solicitadas por cualquier autoridad. En caso de omisión del servidor público requerido, podrá solicitarse a través de su superior jerárquico el cumplimiento de la misma;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 IX. Supervisar el seguimiento y cumplimiento ágil, eficaz y oportuno de los asuntos planteados a esta Secretaría, por las Comisiones Nacional y Estatal de Derechos Humanos, haciendo las gestiones necesarias y solicitando la información conducente;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 X. Elaborar y emitir opiniones sobre proyectos de leyes, decretos, reglamentos, acuerdos, circulares, manuales, convenios y contratos relacionados con la competencia de la Secretaría, que le sean sometidos a su consideración;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XI. Llevar el registro y control de convenios, acuerdos y demás actos jurídicos de los que se generen derechos y obligaciones a cargo de la Secretaría;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XII. Participar en los procesos de actualización y adecuación del orden jurídico-normativo que rige el funcionamiento de la Secretaría;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XIII. Emitir y publicar acuerdos para la correcta operación de las áreas que se encuentren bajo su responsabilidad, previa revisión y la autorización respectiva del Secretario;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XIV. Elaborar estudios comparados sobre las legislaciones de las entidades federativas en materia de Seguridad Pública, reglamentos, bandos de policía y gobierno;
 
-XV. Mantener informado al Secretario de Seguridad Pública, a los Directores y demás personal de la Secretaría, respecto de la creación, reformas y adiciones a las leyes, reglamentos, decretos y manuales que atañen a la Secretaría; y
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+XV. Mantener informado al Secretario de Seguridad Pública, a los Directores y demás personal de la Secretaría, respecto de la creación, reformas y adiciones a las leyes, reglamentos, decretos y manuales que atañen a la Secretaría;
 
-XVI. Revisar los lineamientos de actuación en materia de órdenes de protección de las mujeres y víctimas indirectas, con arreglo a los protocolos específicos o manuales, así como tener el registro respectivo de dichas órdenes y de sus acciones de proximidad policial a cada una de ellas.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+XVI. Revisar los lineamientos de actuación en materia de órdenes de protección de las mujeres y víctimas indirectas, con arreglo a los protocolos específicos o manuales, así como tener el registro respectivo de dichas órdenes y de sus acciones de proximidad policial a cada una de ellas;
 
-XVII. Las demás que le confiera el Secretario y las disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE ENERO DE 2024)</small>
+
+XVII. Representar legalmente ante cualquier instancia a la Comisión del Servicio Profesional de Carrera Policial, en los procedimientos judiciales y administrativos con todos los derechos procesales que las disposiciones legales otorgan en cumplimiento de sus funciones. Además, estará facultada para suscribir escritos y desahogar los trámites que correspondan a los casos urgentes relativos a términos, interposición de recursos y recepción de toda clase de notificaciones que atañen a dicha Comisión;
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2024)</small>
+
+XVIII. Recibir, llevar el control y remitir a las áreas competentes, escritos, oficios y cualquier correspondencia dirigida a la Secretaría; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE ENERO DE 2024)</small>
+
+XIX. Las demás que le confiera el Secretario y las disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -7591,11 +7623,13 @@ XV. Divulgar y fomentar, entre los integrantes de la Secretaría la normatividad
 
 XVI. Sustituir al Secretario en sus faltas y ausencias temporales, salvo que por acuerdo del Presidente Municipal medie otra disposición;
 
-XVII. Emitir y publicar acuerdos para la correcta operación de las áreas que se encuentren bajo su responsabilidad, previa revisión de la Coordinación de Asuntos Jurídicos y la autorización respectiva del Secretario; y
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+XVII. Emitir y publicar acuerdos para la correcta operación de las áreas que se encuentren bajo su responsabilidad, previa revisión de la Dirección de Asuntos Jurídicos y la autorización respectiva del Secretario;
 
-XVIII. La supervisión de las acciones de proximidad policial, para acotar el riesgo en que se encuentran las personas que viven violencia de género.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
+
+XVIII. La supervisión de las acciones de proximidad policial, para acotar el riesgo en que se encuentran las personas que viven violencia de género; y
 
 > <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
 
@@ -7629,7 +7663,9 @@ X. Ejecutar y regular los programas y servicios relativos a la Seguridad Públic
 
 XI. Llevar la estadística y los registros de la incidencia de infracciones al Código Municipal en lo que se refiere a faltas de policía y los hechos presumiblemente delictivos que se susciten y tengan conocimiento los integrantes operativos bajo su mando dentro del Municipio de Aguascalientes, suministrando a la Dirección de Estado Mayor toda la información que corresponda;
 
-XII. Emitir y publicar acuerdos para la correcta operación de las áreas que se encuentren bajo su responsabilidad, previa revisión de la Coordinación de Asuntos Jurídicos y la autorización respectiva del Secretario;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
+
+XII. Emitir y publicar acuerdos para la correcta operación de las áreas que se encuentren bajo su responsabilidad, previa revisión de la Dirección de Asuntos Jurídicos y la autorización respectiva del Secretario;
 
 XIII. Emitir informes mensuales de sus actividades al Secretario;
 
@@ -7647,11 +7683,11 @@ XVI. Las demás que le confiera el Secretario y las disposiciones legales aplica
 
 La Policía Auxiliar y Comercial es una Jefatura Operativa sujeta al mando del Director de Policía Preventiva, cuyas funciones se dirigen específicamente a la guarda y custodia de personas, valores e instalaciones.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 555.
 
-Los integrantes de la Policía Auxiliar y Comercial están obligados a llevar el programa de formación inicial y los demás que determine la Academia de Policía Municipal, previo acuerdo del Secretario. Asimismo tienen la obligación de incorporarse al Sistema Integral de Desarrollo Policial y de adoptar los principios de actuación, obligaciones, sanciones y correctivos disciplinarios establecidas (sic) en el presente Libro.
+Los integrantes de la Policía Auxiliar y Comercial están obligados a llevar el programa de formación inicial y los demás que determine el Instituto Superior en Seguridad Pública, previo acuerdo del Secretario. Asimismo tienen la obligación de incorporarse al Sistema Integral de Desarrollo Policial y de adoptar los principios de actuación, obligaciones, sanciones y correctivos disciplinarios establecidos en el presente Libro.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -7663,45 +7699,73 @@ En el caso de que en los servicios contratados, se requieran integrantes con det
 
 En ningún caso se podrá asignar un nivel jerárquico distinto al que posea un integrante por la sola prestación de un servicio, pues dichos niveles constituyen la organización institucional, el efectivo control de las actividades, la medición del desempeño y la base de la carrera policial.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 557.
 
-El Director de Tránsito y Movilidad tendrá las atribuciones siguientes:
+El Director (sic) Movilidad tendrá las atribuciones siguientes:
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 I. Planear la operación y regulación de los Servicios de Tránsito y Movilidad;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 II. Ejecutar y regular los programas y servicios relativos a la vigilancia de sistemas viales y de tránsito en el territorio del Municipio de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 III. Analizar y evaluar las operaciones que realice la Dirección a su cargo, para mejorar los servicios de seguridad vial, inspección y vigilancia de tránsito de personas y vehículos;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 IV. Apoyar e intervenir en situaciones de contingencia con el propósito de prevenir y mitigar situaciones de emergencia;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 V. Dirigir, coordinar y supervisar las Unidades Administrativas a su cargo;
 
-VI. Transmitir las órdenes del Secretario al personal de la Dirección de Tránsito y Movilidad así como verificar su estricto cumplimiento;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
+
+VI. Transmitir las órdenes del Secretario al personal de la Dirección de Movilidad así como verificar su estricto cumplimiento;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 VII. Cumplir y vigilar que los integrantes operativos bajo su mando acaten todas las disposiciones legales en materia de Tránsito, y que sus actos se apeguen estrictamente al respeto de los Derechos Humanos, a las disposiciones del presente Código y los manuales de procedimientos de la Secretaría;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 VIII. Planear la operación y regulación de los servicios de los integrantes operativos a su cargo, a fin de que sean sometidos a la consideración del Secretario para su aprobación;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 IX. Tomar conocimiento de los hechos de tránsito y rendir el dictamen técnico correspondiente;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 X. Llevar la estadística y registro de la incidencia de infracciones a la Ley de Vialidad del Estado y al Reglamento de Tránsito Municipal, así como de los accidentes suscitados dentro del Municipio;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XI. Dar parte a la instancia correspondiente de las violaciones cometidas por el personal bajo su mando;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XII. Emitir informes mensuales de sus actividades al Secretario;
 
-XIII. Emitir y publicar acuerdos para la correcta operación de las áreas que se encuentren bajo su responsabilidad, previa revisión de la Coordinación de Asuntos Jurídicos y la autorización respectiva del Secretario; y
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
+
+XIII. Emitir y publicar acuerdos para la correcta operación de las áreas que se encuentren bajo su responsabilidad, previa revisión de la Dirección de Asuntos Jurídicos y la autorización respectiva del Secretario; y
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XIV. Las demás que le confiera el Secretario y las disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 558.
 
-La Dirección de Prevención del Delito, tendrá las siguientes atribuciones:
+La Dirección de Prevención de las Violencias y la Delincuencia, tendrá las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -7753,9 +7817,9 @@ c).- Prevenir la violencia generada por el uso de armas, el abuso de drogas y al
 
 d).- Promover la atención integral a las víctimas del delito.
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
 
-X. Emitir y publicar acuerdos para la correcta operación de las áreas que se encuentren bajo su responsabilidad, previa revisión de la Coordinación de Asuntos Jurídicos y la autorización respectiva del Secretario;
+X. Emitir y publicar acuerdos para la correcta operación de las áreas que se encuentren bajo su responsabilidad, previa revisión de la Dirección de Asuntos Jurídicos y la autorización respectiva del Secretario;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -7769,11 +7833,11 @@ XII. Emitir informes mensuales de sus actividades al Secretario; y
 
 XIII. Las demás que le confiera el Secretario y las disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 559.
 
-La Academia de Policía Municipal tendrá las atribuciones siguientes:
+El Instituto Superior en Seguridad Pública tendrá las atribuciones siguientes:
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -7827,13 +7891,11 @@ XII. Registrar, administrar y resguardar la información derivada del Sistema In
 
 XIII. Promover el desarrollo obligatorio y permanente del Servicio Profesional de Carrera Policial, en colaboración con las áreas de la Secretaría, en estricto cumplimiento de los principios constitucionales y legales que rigen la labor de la Institución;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
 
-XIV. Emitir y publicar acuerdos para la correcta operación de las áreas que se encuentren bajo su responsabilidad, previa revisión de la Coordinación de Asuntos Jurídicos y la autorización respectiva del Secretario;
+XIV. Emitir y publicar acuerdos para la correcta operación de las áreas que se encuentren bajo su responsabilidad, previa revisión de la Dirección de Asuntos Jurídicos y la autorización respectiva del Secretario;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
-
-XV. Elaborar e implementar los procedimientos disciplinarios que se instruyan a los participantes de la formación inicial y continua, en los términos que establezca la normatividad aplicable;
+XV. (DEROGADA, P.O. 1 DE ENERO DE 2024)
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -7981,9 +8043,9 @@ II. Gozar de un trato digno y respetuoso por parte de sus superiores jerárquico
 
 III. Recibir el respeto y la atención de la comunidad a la que sirve;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
 
-IV. Recibir la formación inicial y continua que para el efecto señale la Academia de Policía Municipal, a través de las áreas correspondientes;
+IV. Recibir la formación inicial y continua que para el efecto señale el Instituto Superior en Seguridad Pública, a través de las áreas correspondientes;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -8011,9 +8073,9 @@ IX. Contar con jornadas de trabajo que permitan su desarrollo personal, profesio
 
 El Municipio proporcionará en la medida de sus posibilidades, los elementos necesarios a efecto de que dentro de las prestaciones referidas en el párrafo anterior, se otorgue el servicio de guardería para hijas e hijos de mujeres y hombres policías;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
 
-X. Ser asesorados y defendidos jurídicamente por la Secretaría a través de la Coordinación de Asuntos Jurídicos, en forma gratuita, en el supuesto de que por motivos del servicio, sean sujetos a algún procedimiento que tenga por objeto fincarles una responsabilidad jurídica.
+X. Ser asesorados y defendidos jurídicamente por la Secretaría a través de la Dirección de Asuntos Jurídicos, en forma gratuita, en el supuesto de que por motivos del servicio, sean sujetos a algún procedimiento que tenga por objeto fincarles una responsabilidad jurídica.
 
 La asesoría y defensa podrá negarse o suspenderse en cualquier tiempo, por decisión fundada y motivada del Secretario, cuando la conducta del integrante en cuestión, sea contraria a los principios de actuación y obligaciones que rigen a los integrantes operativos de la Secretaría o vaya en detrimento de la imagen de la misma;
 
@@ -8103,7 +8165,9 @@ V. Preservar la secrecía de los asuntos que por razón del desempeño de su fun
 
 VI. Velar por la vida e integridad física de las personas detenidas, las cuales se encuentran bajo su más estricta responsabilidad desde el momento de la detención hasta la recepción final de la puesta a disposición ante la autoridad competente;
 
-VII. Tomar las medidas de protección y aseguramiento respecto de personas con capacidades diferentes, notoriamente intoxicados, personas extraviadas o menores de edad, debiendo en todo caso, inmediatamente hacer del conocimiento y/o poner a disposición de las instancias o autoridades competentes;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
+
+VII. Tomar las medidas de protección y aseguramiento respecto de personas en situación de discapacidad, notoriamente intoxicados, personas extraviadas, o de niñas, niños y adolescentes, debiendo en todo caso, inmediatamente hacer del conocimiento y/o poner a disposición de las instancias o autoridades competentes;
 
 VIII. Detener a los probables responsables de hechos delictivos e infractores que sorprendan en el momento en que esté cometiendo un delito o falta administrativa o inmediatamente después de haberlo cometido, los que pondrán a disposición ante la autoridad competente en forma inmediata, asimismo entregarán un inventario con la descripción detallada de los objetos asegurados a los mismos;
 
@@ -8137,7 +8201,9 @@ XXII. Abstenerse de disparar el arma de fuego, salvo que sea estrictamente neces
 
 XXIII. Abstenerse de intervenir en operativos o acciones que impliquen un conflicto de interés, debido a los vínculos de amistad, parentesco, negocios, enemistad o animadversión que existan entre su persona y aquella o aquellas que esté obligado a proteger, detener, inspeccionar, custodiar o someter a cualquier actividad con motivo de sus funciones. Tratándose de una detención o intervención urgente en la que sea el primer respondiente, se concretará a realizar las acciones imprescindibles para que no se produzca la evasión de los responsables o el perjuicio de un tercero, así como prestar la atención necesaria a las víctimas en tanto acude el apoyo;
 
-XXIV. Faltar a su servicio injustificadamente por más de quince ocasiones en un periodo natural de un año;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
+
+XXIV. Abstenerse de faltar a su servicio injustificadamente por más de quince ocasiones en un periodo natural de un año;
 
 XXV. Abstenerse de ostentar una actitud negligente e indiferente en el servicio o fuera de él; y
 
@@ -8427,11 +8493,11 @@ Las sanciones de amonestación y arresto, a que se refiere este artículo serán
 
 ### CAPÍTULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 580.
 
-Para lograr una óptima y eficaz prestación del servicio de seguridad pública y con el objeto de alcanzar el desarrollo profesional, personal, familiar y social de sus integrantes operativos, se establece el Sistema Integral de Desarrollo Policial, su coordinación y vigilancia estará a cargo de la Academia de Policía Municipal de la Secretaría.
+Para lograr una óptima y eficaz prestación del servicio de seguridad pública y con el objeto de alcanzar el desarrollo profesional, personal, familiar y social de sus integrantes operativos, se establece el Sistema Integral de Desarrollo Policial, su coordinación y vigilancia estará a cargo del Instituto Superior en Seguridad Pública de la Secretaría.
 
 > <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
 
@@ -8475,9 +8541,9 @@ VIII. La realización de evaluaciones propias para la obtención y actualizació
 
 IX. Las demás actividades que sean susceptibles de preverse y que incidan en el desarrollo de los integrantes operativos, favoreciendo además la prestación del servicio de seguridad pública.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
 
-Para tal efecto se conformará una junta de planeación, la cual será presidida por el Secretario y coordinada por el Director (a) de la Academia de Policía Municipal, sesionará de manera ordinaria por un periodo al año, contará con las atribuciones que al efecto señale el reglamento correspondiente y deberá operar en base a un manual de procedimientos.
+Para tal efecto se conformará una junta de planeación, la cual será presidida por el Secretario y coordinada por el Director (a) del Instituto Superior en Seguridad Pública, sesionará de manera ordinaria por un periodo al año, contará con las atribuciones que al efecto señale el reglamento correspondiente y deberá operar en base a un manual de procedimientos.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -8491,9 +8557,9 @@ El ingreso es el proceso en el que intervienen los procedimientos de reclutamien
 
 Dentro de este procedimiento se atenderá a los siguientes puntos:
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
 
-I. La Academia de Policía Municipal deberá consultar los antecedentes de cualquier aspirante en el Registro Nacional de Personal de Seguridad Pública y en su caso, en los registros locales, antes de que se autorice su ingreso;
+I. El Instituto Superior en Seguridad Pública deberá consultar los antecedentes de cualquier aspirante en el Registro Nacional de Personal de Seguridad Pública y en su caso, en los registros locales, antes de que se autorice su ingreso;
 
 II. Ninguna persona podrá ingresar a la Secretaría si no ha sido debidamente certificado y registrado en el Sistema Nacional de Seguridad Pública;
 
@@ -8693,11 +8759,11 @@ Las recompensas, en ningún caso, se considerarán como un ingreso fijo, regular
 
 El procedimiento correspondiente para los efectos de aplicar para el otorgamiento de algún estímulo, será definido en el reglamento y manuales correspondientes.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 595.
 
-Las condecoraciones consistirán en fistoles o preseas metálicas; la mención honorífica consistirá en un documento oficial, expedido y registrado por la Academia de Policía Municipal por su naturaleza académica, sin que implique la necesidad de ser avalado por otra instancia.
+Las condecoraciones consistirán en fistoles o preseas metálicas; la mención honorífica consistirá en un documento oficial, expedido y registrado por el Instituto Superior en Seguridad Pública por su naturaleza académica, sin que implique la necesidad de ser avalado por otra instancia.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -8737,23 +8803,23 @@ Al concluir el servicio el integrante deberá entregar al servidor público desi
 
 El Servicio Profesional de Carrera Policial es el eje que constituye un sistema obligatorio y permanente que la Secretaría dispone para los integrantes operativos, conforme al cual se establecen los lineamientos que definen los procedimientos de reclutamiento, selección, adscripción, formación, control y registro de la certificación, evaluaciones, evaluación, promoción y régimen de estímulos; así como la separación o baja del servicio de los integrantes de la Secretaría.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
 
-La Academia de Policía Municipal establecerá un sistema de diagnóstico, evaluación y retroalimentación que permita identificar las áreas de oportunidad, tanto en los procesos como en las capacidades de los integrantes operativos de la Secretaría, con el objeto de implementar programas de mejora continua que promuevan su desarrollo, personal, profesional, familiar y social.
+El Instituto Superior en Seguridad Pública establecerá un sistema de diagnóstico, evaluación y retroalimentación que permita identificar las áreas de oportunidad, tanto en los procesos como en las capacidades de los integrantes operativos de la Secretaría, con el objeto de implementar programas de mejora continua que promuevan su desarrollo, personal, profesional, familiar y social.
 
 La Carrera Policial comprende el grado policial, la antigüedad, y los estímulos obtenidos, el resultado de los procesos de promoción, y todos los registros derivados de los procedimientos del sistema, incluyendo las sanciones que, en su caso, haya acumulado el integrante operativo.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
 
-Será responsabilidad de la Academia de Policía Municipal en los términos de las disposiciones aplicables, controlar, resguardar y actualizar el registro de los datos mencionados en el párrafo anterior en el expediente de seguimiento del Servicio de Carrera Policial de cada integrante operativo y éstos, están obligados a presentar la totalidad de la documentación relativa a su desempeño operativo, académico, personal y profesional para su control y actualización, atendiendo a los instrumentos normativos aplicables. La titulación de la operación de este eje está a cargo de la Comisión del Servicio Profesional de Carrera en Coordinación con la Academia de Policía Municipal.
+Será responsabilidad del Instituto Superior en Seguridad Pública, en los términos de las disposiciones aplicables, controlar, resguardar y actualizar el registro de los datos mencionados en el párrafo anterior en el expediente de seguimiento del Servicio de Carrera Policial de cada integrante operativo y éstos, están obligados a presentar la totalidad de la documentación relativa a su desempeño operativo, académico, personal y profesional para su control y actualización, atendiendo a los instrumentos normativos aplicables. La titulación de la operación de este eje está a cargo de la Comisión del Servicio Profesional de Carrera en coordinación con el Instituto Superior de Seguridad Pública.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 598.
 
-La Profesionalización es el eje que se conforma por el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial y continua, esta última comprende la actualización, la especialización y alta dirección; para desarrollar al máximo las competencias, capacidades y habilidades de los integrantes operativos de la Secretaría. La titularidad de la operación de este eje está a cargo de la Comisión del Servicio Profesional de Carrera en coordinación con la Academia de Policía Municipal.
+La Profesionalización es el eje que se conforma por el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial y continua, esta última comprende la actualización, la especialización y alta dirección; para desarrollar al máximo las competencias, capacidades y habilidades de los integrantes operativos de la Secretaría. La titularidad de la operación de este eje está a cargo de la Comisión del Servicio Profesional de Carrera en coordinación con el Instituto Superior en Seguridad Pública.
 
-Los planes de estudio para la formación se integrarán al interior de la Academia de Policía Municipal.
+Los planes de estudio para la formación se integrarán al interior del Instituto Superior en Seguridad Pública.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -8829,7 +8895,9 @@ La Comisión de Honor y Justicia se integrará por:
 
 I. Un Presidente que será el Secretario de Seguridad Pública y tendrá voz y voto;
 
-II. Un Secretario Técnico que contará sólo con voz y será el Coordinador de Asuntos de Honor y Justicia adscrito a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, el cual contará con un nombramiento otorgado por el Presidente, deberá ser Licenciado en Derecho y contar con una experiencia mínima de dos años en Seguridad Pública;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
+
+II. Un Secretario Técnico que contará sólo con voz y será el Jefe del Departamento de Asuntos de Honor y Justicia adscrito a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, el cual contará con un nombramiento otorgado por el Presidente, deberá ser Licenciado en Derecho y contar con una experiencia mínima de dos años en Seguridad Pública;
 
 III. Ocho Vocales que contarán con voz y voto y serán los siguientes:
 
@@ -8839,7 +8907,9 @@ b) Dos integrantes de la Comisión de Seguridad Pública;
 
 c) Dos integrantes de la Dirección de Policía Preventiva, uno de ellos, que contará con nivel de enseñanza superior, perteneciente en su caso, a la unidad operativa de investigación y otro, con escolaridad media básica, perteneciente en su caso, a la unidad operativa de reacción. Ambos deberán contar con al menos cinco años continuos de servicio en la Secretaría;
 
-d) Un integrante de la Dirección de Tránsito y Movilidad que posea, la escolaridad de nivel medio superior, con al menos cinco años de servicio;
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
+
+d) Un integrante de la Dirección de Movilidad que posea, la escolaridad de nivel medio superior, con al menos cinco años de servicio;
 
 > <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
@@ -8927,7 +8997,9 @@ III.- Realizar y llevar a cabo las notificaciones emanadas por acuerdo de la Com
 
 IV.- Requerir a los servidores público (sic) de las unidades administrativas de la Secretaría de Seguridad Pública Municipal, por cualquier medio, la documentación e información necesarios para el cumplimiento de sus atribuciones y para realizar las diligencias solicitadas por cualquier autoridad. En caso de omisión del servidor público requerido, podrá solicitarse a través de su superior jerárquico el cumplimiento de la misma;
 
-V.- Presentar ante los miembros de la Comisión de Seguridad Pública dentro de sus sesiones ordinarias o cuando así lo requiera cualquiera de sus integrantes, un informe detallado sobre los asuntos que guarda la Coordinación de Asuntos de Honor y Justicia; y
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
+
+V.- Presentar ante los miembros de la Comisión de Seguridad Pública dentro de sus sesiones ordinarias o cuando así lo requiera cualquiera de sus integrantes, un informe detallado sobre los asuntos que guarda el Departamento de Asuntos de Honor y Justicia; y
 
 VI.- Las demás que le confiera la Comisión y las disposiciones legales aplicables.
 
@@ -9045,11 +9117,13 @@ La resolución de responsabilidad y la aplicación de sanciones serán tomadas p
 
 Las atribuciones de la Comisión de Honor y Justicia se ejercerán sin perjuicio de las que correspondan al Presidente Municipal, al Secretario del H. Ayuntamiento y Director General de Gobierno, al Secretario de Seguridad Pública, al Contralor Municipal y a las autoridades correspondientes.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 613.
 
-El Secretario Técnico dirigirá el desarrollo de la audiencia única y dictará los acuerdos de mero trámite en la misma, cuidando en todo momento el cumplimiento de las formalidades esenciales, de igual manera cuenta con atribuciones para certificar toda clase de documentos que obren en los archivos de la Coordinación de Honor y Justicia.
+El Secretario Técnico dirigirá el desarrollo de la audiencia única y dictará los acuerdos de mero trámite en la misma, cuidando en todo momento el cumplimiento de las formalidades esenciales, de igual manera cuenta con atribuciones para certificar toda clase de documentos que obren en los archivos del Departamento de Asuntos de Honor y Justicia.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 Contra las determinaciones dictadas por el Secretario Técnico durante la audiencia única, procederá la interposición de incidentes para revocar dichas determinaciones de manera verbal, en forma inmediata al acto que lo motiva y se resolverá sin sustanciación alguna, por el Presidente de la Comisión; contra la resolución del incidente no habrá recurso alguno.
 
@@ -9071,13 +9145,15 @@ II. Un Secretario Técnico, que contará sólo con voz y será el Coordinador de
 
 III. Ocho vocales con derecho a voz y voto:
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
 
-a) Director (a) de la Academia de Policía Municipal;
+a) Director (a) del Instituto Superior en Seguridad Pública;
 
 b) Dos integrantes de la Dirección de Policía Preventiva, uno de ellos con estudios de nivel superior, perteneciente en su caso, a la unidad operativa de investigación y otro con nivel de escolaridad media básica, perteneciente en su caso, a la unidad operativa de reacción. Ambos deberán contar con al menos cinco años continuos de servicio en la Secretaría;
 
-c) Un integrante de la Dirección de Tránsito y Movilidad que posea nivel de escolaridad media superior, perteneciente en su caso a la unidad operativa de prevención, con al menos cinco años de servicio;
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
+
+c) Un integrante de la Dirección de Movilidad que posea nivel de escolaridad media superior, perteneciente en su caso a la unidad operativa de prevención, con al menos cinco años de servicio;
 
 d) Dos integrantes de la Comisión de Seguridad Pública, que serán elegidos democráticamente al interior de la misma; y
 
@@ -9091,11 +9167,17 @@ Esta comisión sesionará con la presencia del Presidente y al menos la mitad m�
 
 Para el correcto desempeño de las actividades de esta Comisión, el Secretario Técnico, tendrá las siguientes facultades y obligaciones:
 
-I. Representar legalmente ante cualquier instancia a esta Comisión, en los procedimientos judiciales y administrativos con todos los derechos procesales que las disposiciones legales otorgan en cumplimiento de sus funciones;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
 
-II. Suscribir escritos y desahogar los trámites que correspondan a los casos urgentes relativos a términos, interposición de recursos y recepción de toda clase de notificaciones;
+I. Dar seguimiento, en coordinación con la Dirección de Asuntos Jurídicos, a los procedimientos judiciales y administrativos de los que sea parte la Comisión, debiendo informar a dicha Dirección sobre el estado que guarden los mismos. Asimismo, ostentar la representación legal referida en el artículo 551 fracción XVII del presente Código, cuando esté ausente la persona titular de la Dirección de Asuntos Jurídicos;
 
-III. Realizar y llevar a cabo las notificaciones emanadas de esta Comisión;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
+
+II. Recibir toda clase de notificaciones que se deban realizar con motivo de las funciones de la Comisión;
+
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
+
+III. Notificar los acuerdos o actuaciones emanadas de la Comisión. Dichas notificaciones las realizará directamente o por conducto de los servidores públicos que, en la sesión correspondiente de la Comisión, se habiliten para su auxilio;
 
 IV. Presentar mensualmente ante los miembros de esta Comisión o cuando así lo requiera su Presidente, un informe detallado sobre los asuntos a su responsabilidad; y
 
@@ -9123,29 +9205,37 @@ VII. Examinar los expedientes de los integrantes de la institución, a fin de de
 
 VIII. Aprobar las convocatorias para los procesos de ingreso y promoción;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
 
-IX. Solicitar a la Academia de Policía Municipal, los informes sobre los avances de implementación y cumplimiento de los procedimientos del Servicio Profesional de Carrera Policial;
+IX. Solicitar al Instituto Superior en Seguridad Pública, los informes sobre los avances de implementación y cumplimiento de los procedimientos del Servicio Profesional de Carrera Policial;
 
 X. Recomendar ajustes, cuando así lo considere pertinente, sobre los procedimientos, programas, acciones y medidas relacionadas con la operación del Servicio de Carrera;
 
 XI. Conocer y resolver sobre el otorgamiento de constancias de grado jerárquico, cumpliendo escrupulosamente con las formalidades de los procedimientos;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
 
-XII. Revisar anualmente los resultados del Servicio Profesional de Carrera Policial, expuestos por la Academia de Policía Municipal;
+XII. Revisar anualmente los resultados del Servicio Profesional de Carrera Policial, expuestos por el Instituto Superior en Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
 
-XIII. Sugerir a la Academia de Policía Municipal programas y actividades académicas para el óptimo desarrollo de los procedimientos de formación inicial y continua, y evaluación para la permanencia de los integrantes de la Secretaría;
+XIII. Sugerir al Instituto Superior en Seguridad Pública programas y actividades académicas para el óptimo desarrollo de los procedimientos de formación inicial y continua, y evaluación para la permanencia de los integrantes de la Secretaría;
 
 XIV. Informar al Secretario de aquellos aspectos del Servicio de Carrera, que por su importancia lo ameriten;
 
 XV. Coordinarse con las demás autoridades e instituciones relacionadas con el Servicio Profesional de Carrera Policial para su mejor funcionamiento;
 
-XVI. Fomentar la vocación de servicio mediante la promoción y permanencia entre los integrantes de la Secretaría, para satisfacer las expectativas de desarrollo profesional del personal; y
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
 
-XVII. Las demás que de manera implícita o explícita le confieran los instrumentos legales aplicables.
+XVI. Fomentar la vocación de servicio mediante la promoción y permanencia entre los integrantes de la Secretaría, para satisfacer las expectativas de desarrollo profesional del personal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE ENERO DE 2024)</small>
+
+XVII. Coordinar, dirigir y determinar sobre la migración de los integrantes al Servicio Profesional de Carrera Policial, acordando los niveles, términos y condiciones en que deberán ser ubicados cada uno de ellos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE ENERO DE 2024)</small>
+
+XVIII. Las demás que de manera implícita o explícita le confieran los instrumentos legales aplicables.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2017)</small>
 
@@ -9237,19 +9327,23 @@ Dichos consejeros contarán con voz y voto, cuya función principal será la de 
 
 IV. Nueve Vocales que serán nombrados por cada uno de los consejeros, los cuales conformarán el órgano técnico normativo permanente de esta comisión, contando sólo con voz en las sesiones y tendrán como función principal, el desarrollo de los distintos instrumentos. Para su funcionamiento serán coordinados por el secretario técnico.
 
-(REFORMADO, P.O. 8 DE AGOSTO DE 2011) (REPUBLICADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 617.
 
-Para ser vocal del órgano técnico normativo permanente, representante del Secretario y de las diferentes Direcciones del (sic) se requiere:
+Para ser vocal del órgano técnico normativo permanente, representante del Secretario y de las diferentes Direcciones se requiere:
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 I. Contar con estudios a nivel superior.
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 II. Tener como mínimo dos años de experiencia en Seguridad Pública.
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
 
-III. Acreditar las evaluaciones que sean elaboradas por la Secretaría Técnica en coordinación con la Academia de Policía Municipal.
+III. Acreditar las evaluaciones que sean elaboradas por la Secretaría Técnica en coordinación con el Instituto Superior en Seguridad Pública.
 
 ###### ARTÍCULO 618.
 
@@ -17987,11 +18081,11 @@ XXXVIII. Zona de Tolerancia.- Área urbana delimitada, donde se ejerce la prosti
 
 ARTÍCULO 1293 TER.- La autoridad Municipal en uso de sus facultades y atribuciones, deberá garantizar y vigilar la tranquilidad, seguridad, bienestar y los derechos humanos de las personas, cuidando que no se altere el orden público o las buenas costumbres, anteponiendo cualquier interés particular que se oponga el bienestar colectivo, para una sana convivencia y un desarrollo armónico.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 1294.
 
-Queda estrictamente prohibido vender y/o permitir el consumo de bebidas alcohólicas a personas menores de edad.
+Queda estrictamente prohibido vender y/o permitir el consumo de bebidas alcohólicas a niñas, niños y adolescentes.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -18391,31 +18485,43 @@ e) Cervecería: Es el establecimiento en el que de manera exclusiva se venda cer
 
 f) Discoteca: Es todo establecimiento que ofrece al público eventos musicales en cualquiera de sus modalidades para bailar, que opera con juego de luces y sonido, grabaciones, pista de baile, en ella pueden venderse bebidas alcohólicas en envase abierto o al copeo de cualquier graduación;
 
-g) Merendero: Todo establecimiento destinado de manera primordial a la venta y/o consumo de bebidas alcohólicas al copeo y que de manera secundaria ofrecen al público comida y/o botanas preparadas. Se permitirá el ingreso a personas menores de edad, acompañados de sus padres y/o tutor debidamente comprobado y su permanencia será hasta las veintidós horas; y
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
+
+g) Merendero: Todo establecimiento destinado de manera primordial a la venta y/o consumo de bebidas alcohólicas al copeo y que de manera secundaria ofrecen al público comida y/o botanas preparadas. Se permitirá el ingreso a niñas, niños y adolescentes, acompañados de sus padres y/o tutor debidamente comprobado y su permanencia será hasta las veintidós horas; y
 
 h) Pulquería: Todo establecimiento dedicado a la venta de pulque al menudeo, ya sea de barril o envasado, para consumirse en el interior del local.
 
-Se prohíbe la entrada a personas menores de edad en todos los establecimientos señalados en los incisos anteriores de la fracción I del presente artículo, salvo en el inciso g), con su limitante.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
+
+Se prohíbe la entrada a niñas, niños y adolescentes en todos los establecimientos señalados en los incisos anteriores de la fracción I del presente artículo, salvo en el inciso g), con su limitante.
 
 II. Establecimientos mercantiles que en forma accesoria puedan vender y consumir bebidas alcohólicas:
 
 a) Centros Turísticos y Balnearios: Aquellos lugares que por sus bellezas naturales, adaptaciones arquitectónicas, tradición u otras condiciones semejantes a juicio de la autoridad municipal, constituyan sitios de atracción, reunión, esparcimiento o descanso en el que se puedan vender bebidas alcohólicas, únicamente con alimentos, para consumirse dentro de sus instalaciones;
 
-b) Baños Públicos: Aquellos establecimientos en los que se brinde el servicio de regaderas o vapor a los clientes, en el cual se podrá vender cerveza con las medidas de seguridad adecuadas, con botana, para consumirse en el establecimiento. Queda prohibida la entrada de personas menores de edad, salvo acompañado con sus padres o tutores debidamente comprobado;
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
 
-c) Billares: Todo establecimiento que cuenta con mesas de billar y de juegos de mesa para rentar con costo por tiempo y se podrá vender y consumir cerveza exclusivamente, pudiéndose acompañar de botanas y alimentos. Queda prohibida la entrada a personas menores de edad;
+b) Baños Públicos: Aquellos establecimientos en los que se brinde el servicio de regaderas o vapor a los clientes, en el cual se podrá vender cerveza con las medidas de seguridad adecuadas, con botana, para consumirse en el establecimiento. Queda prohibida la entrada de niñas, niños y adolescentes, salvo acompañados con sus padres o tutores debidamente comprobado;
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
+
+c) Billares: Todo establecimiento que cuenta con mesas de billar y de juegos de mesa para rentar con costo por tiempo y se podrá vender y consumir cerveza exclusivamente, pudiéndose acompañar de botanas y alimentos. Queda prohibida la entrada a niñas, niños y adolescentes;
 
 d) Cafetería: Es todo establecimiento en el que se realizan actividades de carácter artístico y cultural, con venta de café preparado en diferente modalidades y en forma accesoria cerveza, licores o vinos generosos al copeo únicamente con alimentos, para consumir dentro del establecimiento;
 
 e) Birrieria, Cenaduría, Fonda, Lonchería, Marisquería, Ostionería, Rosticerías, Pizzerías, Taquería o similares: Aquellos establecimientos, en los que de forma accesoria a la venta de sus alimentos preparados se vende y consume cerveza o vinos de mesa dentro del mismo local;
 
-f) Casino o Centro de Apuestas: Establecimientos que cuentan con autorización de la autoridad federal, para realizar juegos y sorteos con apuestas y donde se podrán vender y consumir bebidas alcohólicas en envase abierto o al copeo en el interior del mismo y que además podrán contar con el servicio de restaurant previa autorización de la autoridad municipal. Queda prohibida la entrada a personas menores de edad;
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
+
+f) Casino o Centro de Apuestas: Establecimientos que cuentan con autorización de la autoridad federal, para realizar juegos y sorteos con apuestas y donde se podrán vender y consumir bebidas alcohólicas en envase abierto o al copeo en el interior del mismo y que además podrán contar con el servicio de restaurant previa autorización de la autoridad municipal. Queda prohibida la entrada a niñas, niños y adolescentes;
 
 g) Club Social y Otros Similares: Aquellos centros de reunión que se sostengan con la cooperación de sus accionistas; sean de uso exclusivo de los mismos y realicen actividades sociales recreativas. Podrán contar con un área especial para el consumo de bebidas alcohólicas y con el servicio de restaurant previa autorización de la autoridad municipal. Se podrá permitir la celebración de banquetes en que se haga consumo de bebidas alcohólicas, aunque intervengan personas que no sean accionistas, siempre y cuando ello no desvirtúe el objeto social del mismo;
 
 h) Hotel, Motel y Similares: Establecimiento cuya finalidad principal es la de brindar el servicio de renta de habitaciones y en los cuales, complementariamente podrán venderse y consumirse bebidas alcohólicas para lo que deberán organizarse y establecerse áreas o secciones independientes de tal modo que no interfieran o impidan el funcionamiento de la actividad principal, siempre que se obtenga la autorización municipal correspondiente;
 
-i) Peña: Todo establecimiento destinado de manera primordial a la presentación de música cultural en vivo, con presencia de trovadores y cantantes, sólo cuando sean contratados por el mismo establecimiento, que de manera secundaria ofrecen al público venta y consumo de bebidas alcohólicas mediante copeo que deberán ser acompañadas de comida y/o botanas preparadas. Las peñas no deberán contar con espacio para baile ni música propio para ello. Se permitirá el acceso de personas menores de edad, acompañados de sus padres y/o tutores, debidamente comprobado y su permanencia será hasta las veintitrés horas;
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
+
+i) Peña: Todo establecimiento destinado de manera primordial a la presentación de música cultural en vivo, con presencia de trovadores y cantantes, sólo cuando sean contratados por el mismo establecimiento, que de manera secundaria ofrecen al público venta y consumo de bebidas alcohólicas mediante copeo que deberán ser acompañadas de comida y/o botanas preparadas. Las peñas no deberán contar con espacio para baile ni música propio para ello. Se permitirá el acceso de niñas, niños y adolescentes acompañados de sus padres y/o tutores, debidamente comprobado y su permanencia será hasta las veintitrés horas;
 
 j) Restaurante: Lugar destinado para el consumo preferente y predominantemente de alimentos, como actividad principal, en el que podrá venderse y consumirse bebidas alcohólicas exclusivamente acompañadas de aquellos. Se establecen las siguientes modalidades:
 
@@ -18633,7 +18739,9 @@ los determinará.
 
 ARTÍCULO 1301 BIS.- Los horarios de los establecimientos mercantiles o lugares con venta y/o consumo de bebidas alcohólicas, que no estén previstos por el artículo anterior, en atención a su funcionalidad y características especiales, serán establecidos por la autoridad municipal, con otros giros semejantes.
 
-Los establecimientos mercantiles o lugares que tengan restricción para la entrada de personas menores de edad, podrán solicitar a la Dirección Reglamentación, la realización de eventos especiales privados fuera de su horario de funcionamiento, sin venta y/o consumo de bebidas alcohólicas, con las condiciones y modalidades que la autoridad municipal le establezca y que podrá autorizarle de manera discrecional.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
+
+Los establecimientos mercantiles o lugares que tengan restricción para la entrada de niñas, niños y adolescentes, podrán solicitar a la Dirección Reglamentación, la realización de eventos especiales privados fuera de su horario de funcionamiento, sin venta y/o consumo de bebidas alcohólicas, con las condiciones y modalidades que la autoridad municipal le establezca y que podrá autorizarle de manera discrecional.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -18855,7 +18963,9 @@ En el caso de reposición de licencias, deberán llevar la leyenda que es copia 
 
 La autoridad municipal competente, no otorgarán licencias o permisos a las personas solicitantes por:
 
-a) Ser persona menor de edad;
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
+
+a) No tener una edad de 18 años o más;
 
 b) Haber sido sancionado en forma reiterada por el incumplimiento de las disposiciones establecidas en el presente Libro:
 
@@ -18993,7 +19103,9 @@ I. Vender y/o permitir el consumo de bebidas alcohólicas sin contar con permiso
 
 II. Permitir que en un establecimiento o lugar se vendan y/o consuman bebidas alcohólicas en días y horarios prohibidos; y
 
-III. Vender bebidas alcohólicas a personas menores de edad y/o que le permita el consumo de éstas dentro del establecimiento o lugar.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
+
+III. Vender bebidas alcohólicas a niñas, niños o adolescentes, o que le permita el consumo de éstas dentro del establecimiento o lugar.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -19113,7 +19225,9 @@ XI. Retirar a las personas que se encuentren en notorio estado de ebriedad dentr
 
 De igual forma deben reportar cualquier evento que pudiera constituir algún ilícito a la Autoridad competente.
 
-XII. Solicitar previo al acceso, credencial o identificación oficial con fotografía a personas que se presuma son menores de edad y en presencia de su titular constatarlo y realizar su devolución inmediata sin dilación alguna;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
+
+XII. Solicitar previo al acceso, credencial o identificación oficial con fotografía a personas que se presuma que no tengan 18 años cumplidos o más y en presencia de su titular constatarlo y realizar su devolución inmediata sin dilación alguna;
 
 XIII. Renovar anualmente, a más tardar el treinta y uno de Marzo, el permiso o licencia correspondiente, cumpliendo con las obligaciones y requisitos que les señala este Código;
 
@@ -19151,7 +19265,9 @@ III. Realizar venta y/o permitir el consumo clandestino de bebidas alcohólicas;
 
 IV. Permitir el acceso al establecimiento mercantil a personas con notorio estado de ebriedad o bajo el influjo de estupefacientes;
 
-V. Permitir la entrada de personas menores de edad a los establecimientos mercantiles con venta y consumo de bebidas alcohólicas como giro principal, con excepción de los casos mencionados en el presente Código, donde se permita su acceso en compañía de sus padres y/o tutores debidamente acreditado;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
+
+V. Permitir la entrada de niñas, niños y adolescentes a los establecimientos mercantiles con venta y consumo de bebidas alcohólicas como giro principal, con excepción de los casos mencionados en el presente Código, donde se permita su acceso en compañía de sus padres y/o tutores debidamente acreditado;
 
 VI. Permitir el acceso a personas armadas, con excepción de los integrantes operativos de los cuerpos de seguridad pública, que por razones de servicio deberán ingresar a los establecimientos en forma inmediata y sin dilación alguna;
 
@@ -19177,9 +19293,11 @@ XIII. Dar mal uso a los colores y símbolos nacionales así como retratos o esta
 
 ### CAPÍTULO XI. De las Farmacias, Droguerías, Tlapalerías o Similares
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 1323.
 
-Los lugares destinados a la venta de sustancias de efecto psicotrópico se clasifican en: ferreterías, supermercados, tlapalerías, empresas industriales, farmacias, boticas, droguerías y cualquier establecimiento similar que expenda cualquiera de los productos señalados en el presente libro, quedando prohibida su venta a menores de edad.
+Los lugares destinados a la venta de sustancias de efecto psicotrópico se clasifican en: ferreterías, supermercados, tlapalerías, empresas industriales, farmacias, boticas, droguerías y cualquier establecimiento similar que expenda cualquiera de los productos señalados en el presente libro, quedando prohibida su venta a niñas, niños y adolescentes.
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -19263,11 +19381,11 @@ Se podrá invitar a las sesiones del Consejo, a los representantes de institucio
 
 Todo cambio de razón social o denominación, de domicilio, cesión de derechos, de productos o en su caso, la suspensión de actividades, trabajos o servicios, deberán ser comunicados a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, en un plazo no mayor de tres días hábiles anteriores a la fecha en que se pretende realizar.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 1327.
 
-Queda prohibida la venta de sustancias de efecto psicotrópico a personas menores de edad, a personas físicas o morales que no acrediten el trabajo o actividad en términos de este capítulo.
+Queda prohibida la venta de sustancias de efecto psicotrópico a niñas, niños y adolescentes, así como a personas físicas o morales que no acrediten el trabajo o actividad en términos de este capítulo.
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -19285,13 +19403,17 @@ La Secretaría del H. Ayuntamiento y Dirección General de Gobierno, podrá form
 
 ### CAPÍTULO XII. De los Hoteles, Moteles, Casas de Huéspedes, Mesones y Otros Establecimientos Similares
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 1330.
 
-Los administradores o encargados de hoteles, moteles, casa de huéspedes, mesones y otros establecimientos similares, tienen la obligación de requerir a todo huésped el equipaje correspondiente y sus datos personales que deberán anotarse en el libro de registro. Independientemente de lo anterior, se prohíbe el ingreso de parejas menores de edad o, en su caso, de personas con uniforme escolar sin acompañarse de sus padres o familiares; así como de personas que se aprecie su ingreso sin el debido consentimiento, o bien que no estén en aptitudes de manifestarlo.
+Los administradores o encargados de hoteles, moteles, casa de huéspedes, mesones y otros establecimientos similares, tienen la obligación de requerir a todo huésped el equipaje correspondiente y sus datos personales que deberán anotarse en el libro de registro. Independientemente de lo anterior, se prohíbe el ingreso de parejas que no tengan una edad de 18 años o más o, en su caso, de personas con uniforme escolar sin acompañarse de sus padres o familiares; así como de personas que se aprecie su ingreso sin el debido consentimiento, o bien que no estén en aptitudes de manifestarlo.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
 
 Asimismo, deberán colocar en el exterior de la fachada del establecimiento un anuncio visible y legible que contenga la leyenda de: "EN ESTE ESTABLECIMIENTO NO SE DISCRIMINA EL INGRESO NI EL SERVICIO A PERSONA ALGUNA POR MOTIVOS DE SU ORIGEN ÉTNICO, NACIONALIDAD, GÉNERO, DISCAPACIDADES, CONDICIÓN SOCIAL, CONDICION DE SALUD, RELIGIÓN, OPINIONES, PREFERENCIAS SEXUALES, EL ESTADO CIVIL O CUALQUIER OTRA QUE ATENTE CONTRA LA DIGNIDAD HUMANA", acompañado del número telefónico de la Comisión de Derechos Humanos del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
 
 La violación a las obligaciones anteriores será materia de sanción en los términos de este Código.
 
@@ -19299,23 +19421,19 @@ La violación a las obligaciones anteriores será materia de sanción en los té
 
 ### CAPÍTULO XIII. De los Billares, Boliches, Máquinas de Juegos, Videojuegos, Juegos Electrónicos y Renta de Equipos de Cómputo
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 1331.
 
-Los establecimientos cuyo giro sea la renta de mesas de billar para adultos y líneas de boliche, deberán contar con licencia expedida en términos de este Código y sujetarse a un horario de las nueve a las veinticuatro horas; queda prohibido permitir el acceso a menores de edad a las mesas de billar para adultos.
+Los establecimientos cuyo giro sea la renta de mesas de billar para adultos y líneas de boliche, deberán contar con licencia expedida en términos de este Código y sujetarse a un horario de las nueve a las veinticuatro horas; queda prohibido permitir el acceso a niñas, niños y adolescentes a las mesas de billar para adultos.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE DICIEMBRE DE 2019, PÁGINAS 55 Y 56.]</small>
+Asimismo, deberán colocar en el exterior del establecimiento un anuncio visible y legible que contenga la leyenda de: "EN ESTE ESTABLECIMIENTO NO SE DISCRIMINA EL INGRESO NI EL SERVICIO A PERSONA ALGUNA POR MOTIVOS DE SU ORIGEN ÉTNICO, NACIONALIDAD, GÉNERO, DISCAPACIDADES, CONDICIÓN SOCIAL, CONDICION DE SALUD, RELIGIÓN, OPINIONES, PREFERENCIAS SEXUALES, EL ESTADO CIVIL O CUALQUIER OTRA QUE ATENTE CONTRA LA DIGNIDAD HUMANA", acompañado del número telefónico de la Comisión de Derechos Humanos del Estado de Aguascalientes.
 
-I. a la III ....[SIC]
-
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE DICIEMBRE DE 2019, PÁGINAS 55 Y 56.]</small>
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
-
-IV. Colocar en el exterior del establecimiento un anuncio visible y legible que contenga la leyenda de: "EN ESTE ESTABLECIMIENTO NO SE DISCRIMINA EL INGRESO NI EL SERVICIO A PERSONA ALGUNA POR MOTIVOS DE SU ORIGEN ÉTNICO, NACIONALIDAD, GÉNERO, DISCAPACIDADES, CONDICIÓN SOCIAL, CONDICION DE SALUD, RELIGIÓN, OPINIONES, PREFERENCIAS SEXUALES, EL ESTADO CIVIL O CUALQUIER OTRA QUE ATENTE CONTRA LA DIGNIDAD HUMANA", acompañado del número telefónico de la Comisión de Derechos Humanos del Estado de Aguascalientes. (SIC)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 1332.
 
-Los giros dedicados a la renta de máquinas de juegos, video-juegos electrónicos de cualquier tipo o mesas de billar para menores, deben cumplir con las siguientes obligaciones:
+Los giros dedicados a la renta de máquinas de juegos, video-juegos electrónicos de cualquier tipo o mesas de billar para niñas, niños y adolescentes, deben cumplir con las siguientes obligaciones:
 
 I. Contar con licencia que expida la autoridad municipal y colocarla en lugar visible del establecimiento.
 
@@ -19337,7 +19455,9 @@ VIII. Impedir el cruce de apuestas dentro del establecimiento.
 
 IX. Sujetarse a un horario de las nueve a las veintiún horas.
 
-X. Prohibir la entrada y permanencia a menores de edad con uniforme escolar.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
+
+X. Informar de inmediato a la Procuraduría de Protección Municipal de los Derechos de Niñas, Niños y Adolescentes, sobre la presencia de niñas, niño o adolescentes que acudan sin la compañía de sus padres o tutores.
 
 XI. Colocar en lugar visible mensajes en el que se señalen las prohibiciones que contempla este artículo.
 
@@ -19413,11 +19533,13 @@ Los establecimientos dedicados a la venta, renta y/o intercambio de fonogramas o
 
 I. Operar en un horario de las nueve a las veintitrés horas.
 
-II. Prohibir que laboren menores de edad dentro del establecimiento.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+II. Prohibir que laboren niñas, niños y adolescentes dentro del establecimiento.
 
-III. Prohibir la exhibición, venta, renta y/o intercambio de videogramas clasificados como exclusivos para adultos a menores de edad, así como la proyección de estos videogramas en el interior del establecimiento.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
+
+III. Prohibir la exhibición, venta, renta y/o intercambio de videogramas clasificados como exclusivos para adultos, a niñas, niños y adolescentes, así como la proyección de estos videogramas en el interior del establecimiento.
 
 > <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
@@ -19441,11 +19563,11 @@ BIS.- Los establecimientos dedicados a la venta, renta y/o intercambio de fonogr
 
 En cualquier momento, la Dirección de Reglamentos podrá solicitar el auxilio de la Secretaría de Seguridad Pública para la realización de las diligencias en donde se impongan y ejecuten las sanciones previstas en el párrafo anterior.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(REFORMADO PRIME PÁRRAFO, P.O. 1 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 1336.
 
-Las salas de cine deberán contar con licencia vigente, y permitir la entrada de las personas de acuerdo a la edad según la clasificación de las películas, además deberán anunciar la clasificación de cada película que exhiban. Los complejos cinematográficos que tengan autorizada la venta de bebidas alcohólicas, deberán abstenerse de vender o permitir el consumo a los menores de edad y fuera del área destinada para tal fin.
+Las salas de cine deberán contar con licencia vigente, y permitir la entrada de las personas de acuerdo con la edad según la clasificación de las películas, además deberán anunciar la clasificación de cada película que exhiban. Los complejos cinematográficos que tengan autorizada la venta de bebidas alcohólicas, deberán abstenerse de vender o permitir el consumo, en toda área, a niñas, niños y adolescentes, o a adultos fuera del área destinada para tal fin.
 
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
 
@@ -19467,11 +19589,11 @@ Los establecimientos dedicados a la renta de salones para fiestas infantiles, ja
 
 ### CAPÍTULO XVI. De Las Personas que se Dediquen a La Venta de "Revistas y Periódicos en Estanquillos, Kioscos o Locales
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 1338.
 
-Las personas que se dediquen a la venta de revistas y periódicos en estanquillos, kioscos o locales, deberán exhibir las revistas con contenido señalado para adultos en los lugares menos visibles y prohibir la venta de estas revistas a menores de edad.
+Las personas que se dediquen a la venta de revistas y periódicos en estanquillos, kioscos o locales, deberán exhibir las revistas con contenido señalado para adultos en los lugares menos visibles y prohibir la venta de estas revistas a niñas, niños y adolescentes.
 
 > <small>(ADICIONADO [N. DE E. REUBICADA SU DENOMINACIÓN ANTES EN EL CAPÍTULO IX], P.O. 4 DE MARZO DE 2013)</small>
 
@@ -22473,7 +22595,9 @@ a) Carecer de licencia o permiso.
 
 b) Permitir el consumo de bebidas alcohólicas en lugares no autorizados.
 
-c) Permitir el acceso a menores de edad a espectáculos exclusivos para adultos.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
+
+c) Permitir el acceso a niñas, niños y adolescentes, a espectáculos exclusivos para adultos.
 
 d) Permitir dentro del establecimiento la alternancia y/o actividades tendientes a la prostitución.
 
@@ -22997,7 +23121,9 @@ h) Permitir la discriminación y ejercicio de la violencia de género, dentro de
 
 IV. Sanción de cincuenta a quinientos días de salario mínimo general vigente en el Estado por:
 
-a) Permitir el acceso a personas menores de edad a diversiones o espectáculos públicos, en los que sólo esté autorizado el acceso a personas mayores de edad, tales como: centros nocturnos, bares, cabarets, discotecas, billares, cines, teatros, lugares que tengan máquinas tragamonedas o similares, así como la renta o exhibición a menores de edad, de películas clasificadas para adultos que exhiban pornografía;
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
+
+a) Permitir el acceso a niñas, niños o adolescentes a diversiones o espectáculos públicos, en los que sólo esté autorizado el acceso a personas mayores de edad, tales como: centros nocturnos, bares, cabarets, discotecas, billares, cines, teatros, lugares que tengan máquinas tragamonedas o similares, así como la renta o exhibición a niñas, niños o adolescentes, de películas clasificadas para adultos que exhiban pornografía;
 
 b) Permitir la permanencia de personas con notorio estado de ebriedad que escandalicen o alteren el orden público o las buenas costumbres, dentro de los establecimientos mercantiles o lugares que se dediquen a explotar un giro reglamentado con venta de bebidas alcohólicas y/o consumo;
 
@@ -23011,7 +23137,9 @@ e) Realizar venta o permitir el consumo de bebidas alcohólicas, en los días qu
 
 V. Sanción de quinientos a mil días de salario mínimo general vigente en el Estado por:
 
-a) Vender bebidas alcohólicas a personas menores de edad y/o permitirles el consumo de éstas dentro del establecimiento mercantil o lugar; y
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
+
+a) Vender bebidas alcohólicas a niñas, niños o adolescentes y/o permitirles el consumo de éstas dentro del establecimiento mercantil o lugar; y
 
 b) Realizar o permitir la venta y/o consumo de bebidas alcohólicas de manera clandestina en cualquiera de sus modalidades o formas.
 
@@ -23025,7 +23153,9 @@ a) Porque se dé uso distinto a la autorización que ampare la licencia.
 
 b) Por reiterada renuencia a acatar las disposiciones que señala este Código.
 
-c) Por venta a menores de edad.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
+
+c) Por venta a niñas, niños o adolescentes.
 
 II. Clausura temporal o definitiva según la gravedad de la infracción y las características de la actividad:
 
@@ -23073,9 +23203,13 @@ d) Los teatros, cines y espectáculos públicos que durante entreactos se exceda
 
 e) Personas que alteren el orden o atenten contra la moral pública durante los espectáculos en el interior de los lugares con acceso al público.
 
-f) No respetar los ordenamientos cinematográficos respecto a los noticieros, pasar avances de películas no autorizadas para menores en funciones para toda la familia, así como las interrupciones durante la proyección de películas de largo metraje, siempre que no sea por causa de fuerza mayor.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
 
-g) Tener revistas obscenas a la vista del público en tiendas, estanquillos y otros lugares similares o permitir su venta a menores de edad.
+f) No respetar los ordenamientos cinematográficos respecto a los noticieros, pasar avances de películas no autorizadas para niñas, niños y adolescentes, en funciones para toda la familia, así como las interrupciones durante la proyección de películas de largo metraje, siempre que no sea por causa de fuerza mayor.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
+
+g) Tener revistas obscenas a la vista del público en tiendas, estanquillos y otros lugares similares o permitir su venta a niñas, niños y adolescentes.
 
 h) Elevar el precio fijado en las tarifas, respecto de espectáculos públicos y otros establecimientos similares.
 
@@ -25122,3 +25256,23 @@ P.O. 11 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DE LA “REFORMA AL ARTÍCULO 98 FRACCIÓN XVII DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES, RELATIVAS AL CAMBIO DE ESTRUCTURA ORGÁNICA DE LA SECRETARÍA DEL MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE”.]
 
 ÚNICO.- La presente reforma entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 1 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES, AL REGLAMENTO DE LA DIRECCIÓN DE ASUNTOS INTERNOS DE SEGURIDAD PÚBLICA Y TRÁNSITO ADSCRITA A LA SECRETARÍA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO, ASÍ COMO AL REGLAMENTO DEL SISTEMA INTEGRAL DE DESARROLLO POLICIAL DEL MUNICIPIO DE AGUASCALIENTES, CON EL PROPÓSITO DE TRANSFORMAR LA ACTUAL “COORDINACIÓN DE ASUNTOS JURÍDICOS DE LA SECRETARÍA DE SEGURIDAD PÚBLICA” EN DIRECCIÓN, AJUSTAR LA NOMENCLATURA DE DIVERSAS INSTANCIAS CON SUS ACTUALES DENOMINACIONES Y EVITAR DUPLICIDAD DE REGULACIONES".]
+
+PRIMERO.- Las presentes reformas, adiciones y derogaciones, iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Toda referencia a la Coordinación de Asuntos Jurídicos de la Secretaría de Seguridad Pública Municipal, realizada en cualquier disposición legal, reglamentaria, administrativa o contractual, se entenderá hecha a la Dirección de Asuntos Jurídicos de la Secretaría de Seguridad Pública Municipal.
+
+P.O. 1 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “INICIATIVA DE REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL DE AGUASCALIENTES A FIN DE COMPLETAR LA REGULACIÓN DEL SISTEMA MUNICIPAL DE PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, CREAR EL DEPARTAMENTO DE PROCURADURÍA MUNICIPAL EN ESA MATERIA, Y EVITAR EL TÉRMINO "MENORES" PARA REFERIRSE A ESE SECTOR POBLACIONAL”.]
+
+ÚNICO.- Las presentes reformas y adiciones iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA EL ARTÍCULO 98 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES, A FIN DE AJUSTAR LA ORGANIZACIÓN DE LA SECRETARÍA PARTICULAR”.]
+
+ÚNICO.- La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
