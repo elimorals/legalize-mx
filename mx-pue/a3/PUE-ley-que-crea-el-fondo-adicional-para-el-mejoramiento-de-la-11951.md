@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-el-fondo-adicional-para-el-mejoramiento-de-la-1195
 country: "mx"
 rank: "ley"
 publication_date: "1980-11-11"
-last_updated: "2001-03-12"
+last_updated: "2024-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY QUE CREA EL FONDO ADICIONAL PARA EL MEJORAMIENTO DE LA ADMINISTRACION DE JUSTICIA EN EL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2024.
 
 Ley Publicada en el Periódico Oficial del Estado de Puebla, el martes 11 de noviembre de 1980.
 
@@ -71,9 +71,11 @@ e).- Las donaciones o aportaciones a favor del fondo.
 
 Son fondos ajenos los depósitos en efectivo o en valores que por cualquier causa se exhiban ante los tribunales, judiciales del fuero común.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2024)</small>
+
 ###### Art. 5o.
 
-Para los efectos del artículo que antecede, el Tribunal remitirá el dinero o valores en calidad de depósito al ciudadano Secretario de Finanzas por conducto de la Presidencia del Tribunal Superior de Justicia del Estado.
+Para los efectos del artículo que antecede, el Tribunal remitirá el dinero o valores en calidad de depósito a la persona titular de la Secretaria de Planeación y Finanzas por conducto de la Presidencia del Honorable Tribunal Superior de Justicia del Estado.
 
 ###### Art. 6o.
 
@@ -89,29 +91,37 @@ Las cantidades que por concepto de depósito reciba el fondo, en su caso, serán
 
 El fondo adicional para el mejoramiento de la administración de justicia del Estado de Puebla tiene personalidad jurídica propia y se administrará por un Consejo Técnico.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2024)</small>
+
 ###### Art. 9o.
 
-El Consejo Técnico del fondo para la administración de justicia se integrará con los ciudadanos Presidente del Honorable Tribunal Superior de Justicia, Presidentes de las Salas que lo integran y Secretario de Finanzas en el Estado.
+El Consejo Técnico del fondo para la administración de justicia se integrará por la persona titular de la Presidencia del Honorable Tribunal Superior de Justicia, las personas titulares de las Presidencias de las Salas que lo integran y la persona titular de la Secretaria de Planeación y Finanzas en el Estado.
 
 ###### Art. 10o.
 
 El Consejo Técnico, invertirá los fondos propios y ajenos en títulos, bonos o valores de renta fija, a la vista o a plazo fijo, cuidando que se conserve la liquidez necesaria, para hacer las devoluciones correspondientes, dentro de un lapso de tres días hábiles a partir de la fecha en que la Presidencia del Tribunal Superior de Justicia, reciba la solicitud de las autoridades respectivas.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2024)</small>
+
 ###### Art. 11.
 
-El Consejo Técnico estudiará y aprobará en su caso, el anteproyecto de presupuesto anual de egresos del fondo para la administración de justicia que ponga a su consideración el ciudadano Presidente del Honorable Tribunal Superior de Justicia.
+El Consejo Técnico estudiará y aprobará en su caso, el anteproyecto de presupuesto anual de egresos del fondo para la administración de justicia que oponga (sic) a su consideración la persona titular de la Presidencia del Honorable Tribunal Superior de Justicia.
 
 ###### Art. 12.
 
 Compete al Consejo Técnico supervisar que las erogaciones efectuadas por el fondo se ajusten a lo dispuesto por el Presupuesto de Egresos.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2024)</small>
+
 ###### Art. 13.
 
-El Secretario de Finanzas fungirá como Tesorero del fondo adicional para la Administración de Justicia.
+La persona titular de la Secretaria de Planeación y Finanzas fungirá como Tesorera del fondo adicional para la administración de Justicia.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2024)</small>
 
 ###### Art. 14.
 
-El Secretario de Finanzas representará a este organismo en todas las inversiones y erogaciones conforme al presupuesto de egresos recabando los recibos y comprobantes relativos; hará las devoluciones procedentes y dará cuenta al Consejo de cualquier irregularidad, que observe en la administración del fondo.
+La persona titular de la Secretaria de Planeación y Finanzas representará a este organismo en todas las inversiones y erogaciones conforme al presupuesto de egresos recabando los recibos y comprobantes relativos; hará las devoluciones procedentes y dará cuenta al Consejo de cualquier irregularidad, que observe en la administración del fondo.
 
 ###### Art. 15.
 
@@ -119,15 +129,17 @@ El Consejo Técnico o el Honorable Tribunal Superior de Justicia en Pleno, orden
 
 ### CAPITULO TERCERO. Del destino del fondo
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2024)</small>
 
 ###### Art. 16.
 
-Los ingresos propios del Fondo, así como el total de los productos que generen los mismos, se destinarán a la adquisición de mobiliario y equipo para las oficinas y dependencias del Tribunal, a la capacitación profesional y técnica de sus integrantes, a los estímulos que acuerde el Consejo Técnico a propuesta del Presidente del Tribunal Superior de Justicia y a todo aquello que mejore la Administración de Justicia.
+Los ingresos propios del Fondo, así como el total de los productos que generen los mismos, se destinarán a la adquisición de mobiliario y equipo para las oficinas y dependencias del Tribunal, a la capacitación profesional y técnica de sus integrantes, a los estímulos económicos que acuerde el Consejo Técnico a propuesta de la persona titular de la Presidencia del Honorable Tribunal Superior de Justicia y a todo aquello que mejore la Administración de Justicia.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2024)</small>
 
 ###### Art. 17.
 
-Corresponde al ciudadano Presidente del Tribunal Superior de Justicia, elaborar el anteproyecto del presupuesto anual de egresos del fondo adicional y someterlo, a más tardar el día treinta de noviembre de cada año, a la consideración del Comité Técnico para que éste lo apruebe, en su caso, con las moficiaciones (sic) que estime pertinentes.
+Corresponde a la persona titular de la Presidencia del Honorable Tribunal Superior de Justicia, elaborar el anteproyecto del presupuesto anual de egresos del fondo adicional y someterlo, a más tardar el día treinta de noviembre de cada año, a la consideración del Comité Técnico para que éste lo apruebe, en su caso, con las modificaciones que estime pertinentes.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -160,3 +172,11 @@ P.O. 12 DE MARZO DE 2001.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 5, 9, 11, 13, 14, 16 Y 17 DE LA LEY QUE CREA EL FONDO ADICIONAL PARA EL MEJORAMIENTO DE LA ADMINISTRACIÓN DE JUSTICIA EN EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
