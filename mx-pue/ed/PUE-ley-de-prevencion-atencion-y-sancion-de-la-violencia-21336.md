@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-prevencion-atencion-y-sancion-de-la-violencia-21336"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-06"
-last_updated: "2022-08-03"
+last_updated: "2024-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PREVENCION, ATENCION Y SANCION DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2024.
 
 Ley publicada en la tercera sección del Periódico Oficial del Estado de Puebla, el viernes 6 de abril de 2001.
 
@@ -163,9 +163,11 @@ VII.- La persona con la que en época anterior tuvo relación conyugal, de concu
 
 La aplicación de esta Ley estará a cargo del Ejecutivo Estatal, por conducto de sus dependencias, instituciones y organismos públicos, así como de los Ayuntamientos, en el ámbito de sus respectivas competencias; y sin perjuicio de otras disposiciones familiares, civiles y penales vigentes en la Entidad.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 5.
 
-En el Estado de Puebla la prevención, atención y tratamiento de la violencia familiar, corresponde en forma conjunta a las Secretarías de Gobernación, Educación Pública, Salud, Procuraduría General de Justicia, Sistema Estatal para el Desarrollo Integral de la Familia, Instituto Poblano de la Mujer, la Procuraduría del Ciudadano y la Comisión de Derechos Humanos del Estado de Puebla, en el ámbito de sus respectivas competencias, coordinando sus actividades a través del Consejo Estatal para la Atención de la Violencia Familiar.
+En el Estado de Puebla la prevención, atención y tratamiento de la violencia familiar, corresponde en forma conjunta a las Secretarías de Gobernación, Educación, Salud, Fiscalía General del Estado, Sistema Estatal para el Desarrollo Integral de la Familia, Secretaría de Igualdad Sustantiva, la Defensoría Pública y la Comisión de Derechos Humanos del Estado de Puebla, en el ámbito de sus respectivas competencias, coordinando sus actividades a través del Consejo Estatal para la Atención de la Violencia Familiar.
 
 ###### ARTÍCULO 6.
 
@@ -187,23 +189,41 @@ El domicilio del Consejo será en la Ciudad de Puebla, sin perjuicio de que pued
 
 Este Consejo estará integrado por:
 
-I.- El Gobernador del Estado quien fungirá como Presidente Honorario;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2024)</small>
 
-II.- El Secretario de Gobernación quien será Presidente Ejecutivo y el Director de Estrategias para la Prevención del Delito de la misma Dependencia como Suplente;
+I.- La persona titular del Poder Ejecutivo en el Estado quien fungirá como Presidenta o Presidente Honorario;
 
-III.- El Secretario de Educación Pública como Vocal Propietario y el Director de Participación Social de la misma como Suplente;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2024)</small>
 
-IV.- El Secretario de Salud en su carácter de Vocal Propietario y el Subdirector de Servicios Médicos de los Servicios de Salud del Estado como Suplente;
+II.- La persona titular de la Secretaría de Gobernación quien ocupará la Presidencia Ejecutiva y la persona titular de la Dirección de Estrategias para la Prevención del Delito de la misma Dependencia como Suplente;
 
-V.- El Procurador General de Justicia como Vocal Propietario y el Director de Participación Social de la misma Dependencia como Suplente;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2024)</small>
 
-VI.- El Director General del Sistema Estatal para el Desarrollo Integral de la Familia como Vocal Propietario y el Procurador de la Defensa del Menor, la Mujer y la Familia del mismo, en su carácter de Suplente;
+III.- La persona titular de la Secretaría de Educación como Vocal Propietario y la persona titular de la Dirección de Participación Social de la misma como Suplente;
 
-VII.- La Directora General del Instituto Poblano de la Mujer como Vocal Propietario y la Subdirectora de Asuntos Jurídicos y Apoyo Psicológico como Suplente;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2024)</small>
 
-VIII.- El Procurador del Ciudadano como Vocal Propietario y el Director de Trabajo Social de la misma como Suplente;
+IV.- La persona titular de la Secretaría de Salud en su carácter de Vocal Propietario y la persona titular de la Subdirección de Servicios Médicos de los Servicios de Salud del Estado como Suplente;
 
-IX.- El Presidente de la Comisión de Derechos Humanos del Estado como Vocal Propietario y la Titular del Programa para la Atención de la Mujer como Suplente; y
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2024)</small>
+
+V.- La persona titular de la Fiscalía General del Estado, como Vocal Propietario y la persona titular de la Dirección del Centro de Justicia para Mujeres como Suplente.
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2024)</small>
+
+VI.- La persona titular de la Dirección General del Sistema Estatal para el Desarrollo Integral de la Familia como Vocal Propietario y el Procurador o Procuradora de la Defensa del Menor, la Mujer y la Familia del mismo, en su carácter de Suplente;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2024)</small>
+
+VII.- La persona titular de la Secretaría de Igualdad Sustantiva, como Vocal Propietario y la persona titular de la Dirección Jurídica como Suplente;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2024)</small>
+
+VIII.- La persona titular de la Dirección General de la Defensoría Pública como Vocal Propietario y la persona titular de la Dirección de Trabajo Social de la misma como Suplente;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2024)</small>
+
+IX.- La persona titular de la Presidencia de la Comisión de Derechos Humanos del Estado como Vocal Propietario y la persona titular del Programa para la Atención de la Mujer como Suplente; y
 
 X.- Seis representantes del sector privado y social, que serán designados de conformidad con los lineamientos que el Reglamento de la presente Ley señale; quienes necesariamente deberán ser: un psicólogo, un sociólogo o antropólogo, un abogado o licenciado en Derecho, un médico con especialidad en medicina familiar, un profesor y un trabajador social.
 
@@ -251,21 +271,27 @@ XIV.- Proponer la creación de Coordinaciones Regionales que se requieran para a
 
 XV.- Las demás que le confiera la presente Ley y demás ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 13.
 
-El Gobernador del Estado como Presidente Honorario del Consejo, expedirá el Programa Estatal para la Atención de la Violencia Familiar. Dicho Programa se publicará en el Periódico Oficial del Estado y en él se establecerán las políticas, estrategias, acciones y medidas adecuadas para la prevención y atención de la violencia familiar.
+La persona titular del Poder Ejecutivo en el Estado como Presidenta o Presidente Honorario del Consejo, expedirá el Programa Estatal para la Atención de la Violencia Familiar. Dicho Programa se publicará en el Periódico Oficial del Estado y en él se establecerán las políticas, estrategias, acciones y medidas adecuadas para la prevención y atención de la violencia familiar.
 
 El mismo procedimiento se seguirá para incorporar cualquier modificación a este Programa, derivado de las propuestas que realicen el sector público, privado o social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 14.
 
-Son atribuciones del Presidente Ejecutivo del Consejo las siguientes:
+Son atribuciones de la Presidenta o Presidente Ejecutivo del Consejo las siguientes:
 
 I.- Presidir las Sesiones del Consejo;
 
 II.- Representar al Consejo en los asuntos o reuniones de trabajo;
 
-III.- Presentar a la consideración del Gobernador del Estado, para su aprobación, el Proyecto de Programa para la Atención de la Violencia Familiar;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2024)</small>
+
+III.- Presentar a la consideración de la persona titular del Poder Ejecutivo en el Estado, para su aprobación, el Proyecto de Programa para la Atención de la Violencia Familiar;
 
 IV.- Promover ante las instancias competentes el financiamiento necesario para la realización de las funciones del Consejo;
 
@@ -383,11 +409,15 @@ V.- Difundir en el ámbito de su competencia el contenido y alcance de la presen
 
 VI.- Comunicar de inmediato a las autoridades competentes o Instituciones de Asistencia, los casos en los cuales por sus características o situaciones, se desprenda la existencia de violencia familiar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 25.
 
-A la Procuraduría General de Justicia corresponde:
+A la Fiscalía General del Estado corresponde:
 
-I.- Conocer a través de la Subprocuraduría Jurídica y de Participación Social, de todos aquellos casos en que se presuma la existencia de violencia familiar para su atención y sanción en términos de su competencia;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2024)</small>
+
+I.- Conocer a través de la Fiscalía Especializada en Investigación de Delitos de Violencia de Género Contra las Mujeres, de todos aquellos casos en que se presuma la existencia de violencia familiar para su atención y sanción en términos de su competencia;
 
 II.- Impulsar la capacitación y sensibilización de las o los Agentes del Ministerio Público y su personal auxiliar, para mejorar la atención a las víctimas de la violencia familiar que requieran su intervención;
 
@@ -431,9 +461,11 @@ VIII.- Promover programas educativos y preventivos adecuados en el ámbito de su
 
 IX.- Difundir en el ámbito de su competencia el contenido y alcance de la presente Ley; así como informar al Consejo los casos de violencia familiar que conozca.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 27.
 
-Corresponde al Instituto Poblano de la Mujer:
+Corresponde a la Secretaría de Igualdad Sustantiva:
 
 I.- Coadyuvar con las instituciones competentes, en las acciones y programas de prevención y atención de la violencia familiar mediante la capacitación y elaboración de modelos de atención integral;
 
@@ -451,9 +483,11 @@ VII.- Colaborar a través de sus Coordinadoras Regionales en el Estado, para log
 
 VIII.- Comunicar de inmediato a las autoridades competentes o Instituciones de Asistencia, los casos en los cuales por sus características o situaciones, se desprenda la existencia de violencia familiar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 28.
 
-Corresponde a la Procuraduría del Ciudadano:
+Corresponde a la Defensoría Pública:
 
 I.- Otorgar asesoría jurídica gratuita y patrocinar a las receptoras y los receptores de la violencia familiar, con el propósito de defender sus derechos;
 
@@ -497,89 +531,57 @@ IV.- Brindar la asistencia necesaria a las víctimas de este tipo de violencia y
 
 V.- Difundir en el ámbito de su competencia el contenido y alcance de la presente Ley; así como informar al Consejo los casos de violencia familiar que conozca.
 
+> <small>(DEROGADA SU DENOMINACIÓN, P.O. 2 DE ENERO DE 2024)</small>
+
 ### CAPÍTULO VI. DEL PROCESO CONCILIATORIO Y DE ARBITRAJE
 
 ###### ARTÍCULO 31.
 
-La Procuraduría General de Justicia en el Estado, a través de la Subprocuraduría Jurídica y de Participación Social será la autoridad competente para la aplicación de lo dispuesto en el presente Capítulo.
+(DEROGADO, P.O. 2 DE ENERO DE 2024)
 
 ###### ARTÍCULO 32.
 
-El procedimiento se iniciará formalmente con la presentación verbal o por escrito de la queja; citando con posterioridad a la presunta o presunto generador de violencia familiar para el desarrollo de una audiencia de conciliación.
-
-Si la presunta generadora o el presunto generador de violencia familiar no se presentara, la autoridad en términos de su competencia y con los elementos a su alcance dictará la resolución a que haya lugar.
+(DEROGADO, P.O. 2 DE ENERO DE 2024)
 
 ###### ARTÍCULO 33.
 
-Iniciado el procedimiento, las partes en conflicto familiar podrán resolver sus diferencias mediante los procedimientos de:
-
-I.- Conciliación; y
-
-II.- Arbitraje.
+(DEROGADO, P.O. 2 DE ENERO DE 2024)
 
 ###### ARTÍCULO 34.
 
-Este procedimiento procederá sólo cuando no se trate de actos que puedan constituir delito, de aquéllos que deban perseguirse de oficio.
+(DEROGADO, P.O. 2 DE ENERO DE 2024)
 
 ###### ARTÍCULO 35.
 
-Al iniciarse la audiencia de conciliación, se procederá a buscar la avenencia entre las partes, proporcionándoles terapia familiar, además de todas las alternativas posibles, exhortándolas a su entendimiento por el bien de la familia y dándoles a conocer las consecuencias en caso de continuar su conflicto.
-
-Si las partes llegasen a una conciliación se celebrará el convenio correspondiente, que será firmado por quienes hayan intervenido en el mismo.
+(DEROGADO, P.O. 2 DE ENERO DE 2024)
 
 ###### ARTÍCULO 36.
 
-De no lograrse la conciliación, una vez que las partes hayan decidido por escrito someterse al arbitraje, se iniciará dicho procedimiento, que habrá de concluir con la resolución respectiva.
+(DEROGADO, P.O. 2 DE ENERO DE 2024)
 
 ###### ARTÍCULO 37.
 
-El procedimiento de arbitraje, a que hace referencia el artículo 33 fracción II, se verificará de la siguiente forma:
-
-I.- Se iniciará con la comparecencia de las partes, quienes ratificarán el escrito señalado en el artículo anterior, haciendo una relación sucinta de los hechos; para lo cual se dictará un auto de sujeción o inicio;
-
-II.- Dentro de un plazo de cinco días hábiles siguientes a la sujeción del procedimiento arbitral, se celebrará una audiencia de ofrecimiento y aportación de pruebas, las cuales, de ser admitidas, se desahogarán en la misma audiencia;
-
-III.- Las partes podrán presentar alegatos verbales o por escrito, quedando asentado en autos, en un término de dos días hábiles a la conclusión de la audiencia de ofrecimiento, aportación y desahogo de pruebas; y
-
-IV.- Cumplimentado lo anterior, el árbitro procederá a emitir la resolución respectiva, una vez que hayan sido presentados o no los alegatos.
+(DEROGADO, P.O. 2 DE ENERO DE 2024)
 
 ###### ARTÍCULO 38.
 
-Para la valoración de las pruebas se aplicará supletoriamente en lo conducente, el Código de Procedimientos Civiles para el Estado de Puebla.
-
-Las pruebas que por su propia naturaleza no se puedan desahogar en la audiencia respectiva, se desahogarán en la fecha que para tal efecto se señale.
+(DEROGADO, P.O. 2 DE ENERO DE 2024)
 
 ###### ARTÍCULO 39.
 
-El procedimiento de arbitraje podrá suspenderse por una sola vez, a efecto de reunir los elementos de convicción necesarios para apoyar las propuestas de las partes, debiendo reanudarse dentro del término de cinco días hábiles.
+(DEROGADO, P.O. 2 DE ENERO DE 2024)
 
 ###### ARTÍCULO 40.
 
-Cuando alguna de las partes incumpla las obligaciones y deberes establecidos en el convenio o en la resolución del arbitro, la parte afectada podrá pedir ante la autoridad competente que dicte las medidas necesarias para que el convenio o resolución de que se trate sea cumplido en todos sus términos.
+(DEROGADO, P.O. 2 DE ENERO DE 2024)
 
 ###### ARTÍCULO 41.
 
-La Subprocuraduría Jurídica y de Participación Social de la Procuraduría General de Justicia en el Estado, llevará un registro de sus actuaciones y labores que en esta materia conozca.
+(DEROGADO, P.O. 2 DE ENERO DE 2024)
 
 ###### ARTÍCULO 42.
 
-La Subprocuraduría Jurídica y de Participación Social, a través de la autoridad competente, promoverá lo necesario para:
-
-I.- La guarda de los hijos e hijas o personas incapaces, a instituciones de asistencia o terceras personas;
-
-II.- Designar domicilio diferente a las receptoras o los receptores, las generadoras o los generadores de la violencia y verificar la entrega inmediata de sus efectos personales;
-
-III.- Limitar a las generadoras y a los generadores de la violencia, el acceso al domicilio, lugar de trabajo o estudio de la persona agredida;
-
-IV.- Reincorporar al domicilio familiar a quien ha salido de el por seguridad personal; cuando existan las condiciones necesarias para ello;
-
-V.- Evitar la perturbación o intimidación a cualquier integrante del grupo familiar;
-
-VI.- Levantar el inventario de bienes muebles e inmuebles propiedad del núcleo familiar, para efectos de asegurar su patrimonio;
-
-VII.- Imponer las medidas cautelares pertinentes, cuando sin causa justificada falten a la audiencia conciliatoria, se incumpla con el convenio suscrito o con la resolución respectiva; y
-
-VIII.- Dictar todas las medidas cautelares de carácter urgente que se requieran para la protección de las víctimas de la violencia familiar.
+(DEROGADO, P.O. 2 DE ENERO DE 2024)
 
 ### CAPÍTULO VII. DE LAS INFRACCIONES, SANCIONES Y MEDIOS DE IMPUGNACIÓN
 
@@ -589,11 +591,11 @@ Se consideran infracciones a la presente Ley:
 
 I.- Los actos de violencia familiar y cualquier tipo de maltrato señalados en el artículo 2 de la presente Ley, independientemente de la acepción que pudieren tener en otros ordenamientos legales;
 
-II.- La inasistencia injustificada a la audiencia de conciliación señalada en los artículos 32 y 35 de la presente Ley;
+II.- (DEROGADA, P.O. 2 DE ENERO DE 2024)
 
 III.- El incumplimiento a las medidas que se hubieren dictado en términos de la presente Ley; y
 
-IV.- El incumplimiento a la resolución arbitral; independientemente de ejercitar por la vía legal lo correspondiente.
+IV.- (DEROGADA, P.O. 2 DE ENERO DE 2024)
 
 ###### ARTÍCULO 44.
 
@@ -609,9 +611,11 @@ Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado c
 
 Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 45.
 
-Contra la imposición de sanciones previstas en esta Ley, así como contra las resoluciones emitidas, procede el recurso de reconsideración; el cual será tramitado ante la misma Subprocuraduría Jurídica y de Participación Social, dentro de los tres días siguientes al de su notificación, estableciendo los agravios y las pruebas en que se basen.
+Contra la imposición de sanciones previstas en esta Ley, así como contra las resoluciones emitidas, procede el recurso de reconsideración; el cual será tramitado ante la misma Fiscalía Especializada en Investigación de Delitos de Violencia de Género Contra las Mujeres, dentro de los tres días siguientes al de su notificación, estableciendo los agravios y las pruebas en que se basen.
 
 El recurso de reconsideración deberá resolverse dentro de los diez días siguientes al de su interposición y su resolución será inapelable.
 
@@ -654,3 +658,11 @@ P.O. 3 DE AGOSTO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE PREVENCIÓN, ATENCIÓN Y SANCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
