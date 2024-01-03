@@ -4,7 +4,7 @@ identifier: "LIFNCT"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-24"
-last_updated: "2014-01-10"
+last_updated: "2024-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50132&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIFNCT"
 
 LEY DEL INSTITUTO DEL FONDO NACIONAL PARA EL CONSUMO DE LOS TRABAJADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 24 de abril de 2006.
 
@@ -118,7 +118,9 @@ VI. Brindar apoyo y asesoría en el funcionamiento de las tiendas y almacenes a 
 
 VII. Celebrar los actos o contratos relacionados directa o indirectamente con su objeto;
 
-VIII. Celebrar convenios con las entidades federativas y gobiernos de los municipios, así como con las dependencias y entidades de la Administración Pública Federal, a fin de que el Instituto otorgue a los trabajadores respectivos los créditos a que se refiere la fracción II del artículo 9 de esta Ley;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2024)</small>
+
+VIII. Celebrar convenios con los poderes legislativo y judicial de la Federación y de las entidades federativas, con los gobiernos de los municipios, así como con las dependencias y entidades de la Administración Pública Federal, de los estados y de la Ciudad de México, a fin de que el Instituto otorgue a los trabajadores respectivos los créditos a que se refiere la fracción II del artículo 9 de esta Ley;
 
 IX. Constituir fideicomisos y otorgar mandatos, directamente relacionados con su objeto, y
 
@@ -238,7 +240,9 @@ VI. Aprobar los manuales de operación y funcionamiento, así como las reglas de
 
 VII. Autorizar la participación de profesionistas independientes en los comités de apoyo del Instituto, en términos de lo dispuesto por el Estatuto Orgánico;
 
-VIII. Autorizar las políticas generales para la celebración de convenios con los gobiernos de las entidades federativas y de los municipios, así como con dependencias y entidades de la Administración Pública Federal, a fin de que el Instituto otorgue a los trabajadores respectivos los créditos a que se refiere la fracción II del artículo 9 de esta Ley;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2024)</small>
+
+VIII. Autorizar las políticas generales para la celebración de convenios con los poderes legislativo y judicial de la Federación y de las entidades federativas, con los gobiernos de los municipios, así como con las dependencias y entidades de la Administración Pública Federal, de los estados y de la Ciudad de México, a fin de que el Instituto otorgue a los trabajadores respectivos los créditos a que se refiere la fracción II del artículo 9 de esta Ley;
 
 IX. Acordar los asuntos intersectoriales que se requieran en la administración integral del Instituto;
 
@@ -471,3 +475,9 @@ IX. La Cámara de Diputados procurará destinar recursos en el presupuesto de la
 ## TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+
+D.O.F. 3 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES VIII DEL ARTÍCULO 8 Y VIII DEL ARTÍCULO 18 DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL PARA EL CONSUMO DE LOS TRABAJADORES".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
