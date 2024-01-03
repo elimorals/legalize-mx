@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-obras-publicas-y-servicios-relacionados-con-las-96757"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-24"
-last_updated: "2023-07-31"
+last_updated: "2024-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 24 de octubre de 2013.
 
@@ -248,6 +248,10 @@ Para coordinar las acciones que en materia de obra pública y los servicios rela
 ###### ARTÍCULO 17.
 
 En lo no previsto por esta Ley, serán aplicables, el Código Procesal Administrativo para el Estado de San Luis Potosí; el Código Civil, y el Código de Procedimientos Civiles para el Estado, siempre que, tratándose de éstos últimos, su aplicación no sea contraria a la naturaleza administrativa de los actos y resoluciones que en materia de obra pública y servicios relacionados con las mismas se dicten.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2024)</small>
+
+ARTÍCULO 17 BIS. Las dependencias, entidades y organismos que realicen obras públicas, podrán establecer convenios de vinculación con las instituciones de educación superior en el Estado, y con las empresas que desarrollen este tipo de obras, con la finalidad de promover el primer empleo en la ejecución de obras públicas; de acuerdo al área aplicable y a las condiciones de viabilidad, con el objetivo de apoyar su formación profesional.
 
 ## TÍTULO SEGUNDO. DE LA PLANEACIÓN, PROGRAMACIÓN Y PRESUPUESTACIÓN
 
@@ -2432,6 +2436,14 @@ SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto e
 P.O. 31 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0808.- SE ADICIONA AL ARTÍCULO 170 EL ÚLTIMO PÁRRAFO, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 23 EN SUS FRACCIONES XI Y XII; Y ADICIONA AL MISMO ARTÍCULO 23 LA FRACCIÓN XIII, DE LA LEY DE JUNTAS DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0991.- SE ADICIONA EL ARTÍCULO 17 BIS, A LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
