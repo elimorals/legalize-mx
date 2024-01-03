@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-proteccion-de-personas-que-intervienen-en-el-102590
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-17"
-last_updated: "2014-09-17"
+last_updated: "2024-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL EN EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 17 de septiembre de 2014.
 
@@ -517,7 +517,9 @@ I. Suscribir y emitir los instrumentos jurídicos que faciliten el funcionamient
 
 II. Recibir las solicitudes del ministerio público para la aplicación de alguna medida de protección o bien para la incorporación de una persona al Programa, en virtud de encontrarse en situación de riesgo o peligro por su intervención en un Procedimiento Penal, cuando por la urgencia del caso deban aplicarse medidas de protección con carácter preventivo en tanto se ratifican por la autoridad judicial competente;
 
-III. Estas solicitudes deberán ser presentadas por el Titular de la Subprocuraduría o de la unidad administrativa equivalente a las que se encuentre asignado el Ministerio Público responsable del Procedimiento Penal, en donde interviene o ha intervenido la persona a proteger;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2023)</small>
+
+III. Estas solicitudes deberán ser presentadas por la persona Titular de la Vice Fiscalía o de la unidad administrativa equivalente a las que se encuentre asignado la o el Agente Fiscal responsable del Procedimiento Penal, en donde interviene o ha intervenido la persona a proteger;
 
 IV. Llevar a cabo las acciones necesarias para implementar las medidas de protección que hayan sido acordadas por el órgano jurisdiccional competente a favor de la persona protegida;
 
@@ -525,7 +527,9 @@ V. Ordenar la práctica de estudios psicológicos, clínicos y, en general, de t
 
 VI. En caso de ser procedente, autorizar la incorporación al Programa a la persona propuesta;
 
-VII. Integrar y proponer al Procurador el presupuesto para la operatividad del Programa, en coordinación con las áreas competentes de la Fiscalía General;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2023)</small>
+
+VII. Integrar y proponer a la persona titular de la Fiscalía General del Estado el presupuesto para la operatividad del Programa, en coordinación con las áreas competentes de la Fiscalía General;
 
 VIII. Llevar el registro y expediente de las personas incorporadas al Programa;
 
@@ -646,3 +650,13 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0993.- SE REFORMA EL ARTÍCULO 44 EN LAS FRACCIONES III Y VII, DE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL EN EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
