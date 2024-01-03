@@ -4,7 +4,7 @@ identifier: "YUC-ley-sobre-el-regimen-de-propiedad-en-condominio-del-estado-1029
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-21"
-last_updated: "2014-10-21"
+last_updated: "2024-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY SOBRE EL REGIMEN DE PROPIEDAD EN CONDOMINIO DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE ENERO DE 2024.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 21 de octubre de 2014.
 
@@ -63,9 +65,13 @@ I. Acta constitutiva: el instrumento jurídico otorgado ante notario público en
 
 II. Administrador: la persona física o moral designada por la asamblea para desempeñar las funciones de administración del condominio.
 
-III. Áreas y bienes de uso común: las áreas y los bienes que pertenecen en forma proindiviso a los condóminos y que estos utilizan y comparten para satisfacer sus necesidades de acuerdo al destino y uso del o los inmuebles.
+> <small>(REFORMADA, D.O. 3 DE ENERO DE 2024)</small>
 
-IV. Asamblea: el órgano supremo de decisión del condominio y la máxima instancia para la discusión y toma de acuerdos respecto de asuntos de interés para los condóminos.
+III. Áreas y bienes de uso común: las áreas y los bienes que pertenecen en forma proindiviso a los condóminos y que se utilizan y comparten para satisfacer sus necesidades de acuerdo al destino y uso de los inmuebles, incluyendo las destinadas a infraestructura y equipamiento urbano; su uso estará regulado por esta ley, así como por el acta constitutiva, estatutos y reglamentos interiores que correspondan.
+
+> <small>(REFORMADA, D.O. 3 DE ENERO DE 2024)</small>
+
+IV. Asamblea: el órgano supremo de decisión del condominio, que constituye la máxima instancia encargada de regir la organización y funcionamiento de los mecanismos para la discusión y toma de acuerdos respecto de asuntos de interés para los condóminos, en términos de esta ley.
 
 V. Condominio: el inmueble sujeto al régimen de propiedad en condominio, en los términos de esta ley.
 
@@ -75,11 +81,23 @@ VII. Cuota de administración: la que se determina anualmente para cada condómi
 
 VIII. Cuota de participación: la que determina el porcentaje que le corresponde a cada condómino con respecto al total del inmueble y que sirve de base para determinar la participación en las cargas y beneficios del condominio.
 
-IX. Estatutos: el documento normativo que regula aspectos referentes al gobierno del condominio y a su régimen jurídico real.
+> <small>(ADICIONADA, D.O. 3 DE ENERO DE 2024)</small>
 
-X. Subcondominio: el régimen de propiedad en el cual un condominio es constituido al interior de otro condominio.
+IX. Equipamiento urbano: el conjunto de inmuebles, instalaciones, construcciones y mobiliario utilizado para prestar a la población los servicios urbanos para desarrollar actividades económicas, sociales, culturales, deportivas, educativas, de traslado y de abasto.
 
-XI. Unidades de propiedad exclusiva: los lotes de terreno, departamentos, viviendas, casas, locales o naves que integran el condominio, susceptibles de aprovechamiento independiente por tener salida propia a un elemento común de aquel, y que pertenecen de manera exclusiva a determinados condóminos.
+X. Estatutos: el documento normativo que regula aspectos referentes al gobierno del condominio y a su régimen jurídico real.
+
+> <small>(ADICIONADA, D.O. 3 DE ENERO DE 2024)</small>
+
+XI. Infraestructura urbana: los sistemas, redes e instalaciones para la organización y distribución de bienes y servicios en los centros de población.
+
+> <small>(ADICIONADA, D.O. 3 DE ENERO DE 2024)</small>
+
+XII. Poseedor: la persona que tiene el uso, goce y disfrute de una unidad de propiedad exclusiva, a través de un hecho o acto jurídico, y no tiene la calidad de condómino.
+
+XIII. Subcondominio: el régimen de propiedad en el cual un condominio es constituido al interior de otro condominio.
+
+XIV. Unidades de propiedad exclusiva: los lotes de terreno, departamentos, viviendas, casas, locales o naves que integran el condominio, susceptibles de aprovechamiento independiente por tener salida propia a un elemento común de aquel, y que pertenecen de manera exclusiva a determinados condóminos.
 
 ###### Artículo 3.
 
@@ -89,11 +107,13 @@ El régimen de propiedad en condominio es aquel bajo el cual un inmueble se divi
 
 En este régimen los condóminos tienen un derecho de propiedad sobre sus unidades de propiedad exclusiva y un derecho de copropiedad sobre las áreas y bienes de uso común.
 
+> <small>(REFORMADO, D.O. 3 DE ENERO DE 2024)</small>
+
 ###### Artículo 4.
 
 Supletoriedad
 
-Son supletorias de esta ley, las disposiciones del Código Civil del Estado de Yucatán.
+Son supletorias de esta ley, las disposiciones del Código Civil del Estado de Yucatán, la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Yucatán y la Ley de Desarrollos Inmobiliarios del Estado de Yucatán.
 
 ### Capítulo II. Constitución, modificación y extinción del régimen de propiedad en condominio
 
@@ -123,13 +143,25 @@ V. Los estatutos del condominio.
 
 VI. La previsión, si procede, sobre la formación presente o futura de subcondominios.
 
-Al apéndice de la escritura se agregarán, debidamente certificados por el notario público, el plano general, los planos correspondientes a cada una de las unidades de propiedad exclusiva y los planos de las áreas comunes y cualquier otro elemento que dicho notario considere conveniente para la mejor identificación del inmueble en condominio.
+> <small>(ADICIONADA, D.O. 3 DE ENERO DE 2024)</small>
+
+VII. Copia del plano general del condominio.
+
+> <small>(REFORMADO, D.O. 3 DE ENERO DE 2024)</small>
+
+Al apéndice de la escritura se agregarán, debidamente certificados por el notario público, el plano general; los planos correspondientes a cada una de las unidades de propiedad exclusiva; los planos de las áreas comunes; la autorización de constitución de desarrollo inmobiliario privado, emitida por la autoridad municipal competente en materia de desarrollo urbano en términos de lo dispuesto en la Ley de Desarrollos Inmobiliarios del Estado de Yucatán; así como cualquier otro elemento que dicho notario considere conveniente para la mejor identificación del inmueble en condominio.
 
 ###### Artículo 7.
 
 Inscripción del acta constitutiva
 
-El primer testimonio de la escritura pública en la que conste el acta constitutiva a que se refiere el artículo anterior, junto con los anexos respectivos, deberá inscribirse en el Registro Público de la Propiedad y del Comercio del Instituto de Seguridad Jurídica Patrimonial de Yucatán.
+> <small>(REFORMADO, D.O. 3 DE ENERO DE 2024)</small>
+
+El primer testimonio de la escritura pública y su apéndice, en la que consten el acta constitutiva y la documentación a la que se refiere el artículo anterior, deberá inscribirse en el Registro Público de la Propiedad y del Comercio del Instituto de Seguridad Jurídica Patrimonial de Yucatán.
+
+> <small>(ADICIONADO, D.O. 3 DE ENERO DE 2024)</small>
+
+Los registradores denegarán la inscripción si el apéndice referido no contiene la documentación prevista en el párrafo segundo del artículo anterior de esta ley, en atención a lo dispuesto en la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán.
 
 ###### Artículo 8.
 
@@ -351,7 +383,9 @@ Tratándose de los bienes muebles que se consuman por su simple uso, corresponde
 
 Es responsabilidad del administrador presentar un informe anual a la asamblea respecto del estado que guarden los bienes muebles ubicados en las áreas de uso común, precisando los que deban de ser dados de baja por ya no ser apropiados para su uso y aquellos que hayan sido objeto de robo o extravío.
 
-El inventario de bienes podrá ser consultado en cualquier momento por cualquiera de los condóminos.
+> <small>(REFORMADO, D.O. 3 DE ENERO DE 2024)</small>
+
+El inventario de bienes podrá ser consultado en cualquier momento por cualquiera de los condóminos, previa solicitud al administrador por escrito o por la vía que establezca el reglamento interior.
 
 ### Capítulo VII. Administración del condominio
 
@@ -878,3 +912,61 @@ Gobernador del Estado de Yucatán
 Víctor Edmundo Caballero Durán
 
 Secretario General de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 3 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 721/2023 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, LA LEY DE DESARROLLOS INMOBILIARIOS DEL ESTADO DE YUCATÁN, LA LEY DE VIVIENDA DEL ESTADO DE YUCATÁN Y LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DEL ESTADO DE YUCATÁN, EN MATERIA DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor a los ciento veinte días naturales siguientes al día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Excepciones de la vigencia
+
+Artículo segundo. Se exceptúa de la entrada en vigor las disposiciones legales contenidas en este decreto que se refieran a la Procuraduría de Justicia Ambiental y Urbana del Estado de Yucatán, que entrará en vigor en un plazo de trescientos sesenta y cinco días naturales posteriores a la entrada en vigor del decreto y la reforma a la Ley de Desarrollos Inmobiliarios del Estado de Yucatán, que entrará en vigor en un plazo de ciento ochenta días naturales, en tanto se publica la ley reglamentaria que le corresponde.
+
+Se exceptúan las disposiciones legales contenidas en este decreto que hagan referencia a la emisión de la factibilidad urbana-ambiental a cargo del Instituto de Movilidad y Desarrollo Urbano Territorial, que entrarán en vigor en un plazo de noventa días naturales, contado a partir de la entrada en vigor de este mismo decreto. Entre tanto, la Secretaría de Desarrollo Sustentable seguirá siendo la autoridad competente para recibir las solicitudes relacionadas con la factibilidad urbana-ambiental, así como para tramitarlas, substanciarlas y resolverlas, de conformidad con el artículo décimo quinto.
+
+De igual manera, se exceptúa de la entrada en vigor lo dispuesto en el artículo 5, fracción I, inciso b), numeral 3 de este decreto, referente al Padrón de Asesores Inmobiliarios, que entrará en vigor al momento en que lo hagan las reformas legales que lo regulen.
+
+Obligación normativa
+
+Artículo tercero. El Congreso del Estado de Yucatán deberá expedir las leyes correspondientes y realizar las modificaciones necesarias a la legislación secundaria, para armonizarla a las disposiciones de este decreto, en un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Obligación normativa
+
+Artículo cuarto. El Poder Ejecutivo del estado, en un plazo máximo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, deberá expedir o modificar las disposiciones normativas y reglamentarias que fuesen necesarias para armonizar el marco jurídico estatal con las disposiciones contenidas en este decreto.
+
+Obligación normativa
+
+Artículo quinto. Los ayuntamientos de los municipios del estado de Yucatán deberán adecuar sus disposiciones reglamentarias en términos de lo dispuesto en este decreto dentro de un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Expedición de instrumentos de planeación territorial
+
+Artículo sexto. La persona titular del Poder Ejecutivo del estado y los ayuntamientos de los municipios del estado de Yucatán deberán expedir o adecuar los instrumentos de planeación territorial que corresponda en el ámbito de su competencia, en términos de lo dispuesto en este decreto dentro de un plazo de dos años, contado a partir de su entrada en vigor.
+
+Adecuación de instrumentos de planeación territorial
+
+Artículo séptimo. Los instrumentos de planeación territorial que, a la entrada en vigor de este decreto se encuentren en proceso de elaboración, deberán adecuarse a lo previsto en este y obtener dictamen de congruencia favorable emitido por el Instituto, quien deberá evaluar la armonización con las nuevas disposiciones legales, con base en los procedimientos y plazos establecidos en las disposiciones vigentes previas a la entrada en vigor de este decreto dentro de un plazo de dos años, contado a partir de la entrada en vigor de este decreto
+
+Declaratorias de centros de población
+
+Artículo octavo. Los municipios del estado contarán con un plazo de trescientos sesenta y cinco días naturales, contado a partir de la entrada en vigor de este decreto, para presentar al Congreso sus propuestas de fundación de centros de población, conforme a lo previsto en este decreto.
+
+Adecuaciones presupuestales, financieras, de bienes y recursos humanos
+
+Artículo noveno. La Secretaría de Administración y Finanzas deberá realizar, de conformidad con las disposiciones jurídicas aplicables, las adecuaciones presupuestales, financieras, de bienes y recursos humanos que resulten necesarias para la aplicación de este decreto.
+
+Procedimientos y asuntos en trámite
+
+Artículo décimo. Los procedimientos, así como los demás asuntos que se encuentren en trámite a la entrada en vigor de este decreto, se sustanciarán y resolverán hasta su total conclusión conforme a las disposiciones anteriores que les sean aplicables.
+
+Cláusula derogatoria
+
+Artículo décimo primero. Se derogan todas aquellas disposiciones normativas de igual o menor rango jerárquico en lo que se opongan a lo señalado en este Decreto.
+
+Exención de la vigencia
+
+Artículo décimo segundo. Los proyectos de desarrollos inmobiliarios que, a la entrada en vigor de este decreto, se encuentren aprobados por la autoridad municipal competente, no serán sujetos de la acreditación de los requisitos de habitabilidad que deban señalarse en el avalúo.
