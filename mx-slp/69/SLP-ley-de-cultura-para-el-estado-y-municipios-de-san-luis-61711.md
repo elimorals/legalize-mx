@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cultura-para-el-estado-y-municipios-de-san-luis-61711"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-10"
-last_updated: "2021-11-18"
+last_updated: "2024-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 10 de mayo de 2008.
 
@@ -293,7 +293,15 @@ Además de las obligaciones que le establece la Ley Orgánica de la Administraci
 
 I. Garantizar los derechos culturales a maestros, alumnos y trabajadores del sector educativo;
 
-II. Propiciar la formación cultural de los niños, jóvenes y adultos, escolarizados, semiescolarizados, e inscritos en los sistemas de educación abierta, a través de diferentes programas que incluyan la enseñanza de las artes y el fomento a la cultura, como parte de la educación básica obligatoria, y
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2024)</small>
+
+II. Propiciar la formación cultural de los niños, jóvenes y adultos, escolarizados, semiescolarizados, e inscritos en los sistemas de educación abierta, a través de diferentes programas que incluyan la enseñanza de las artes y el fomento a la cultura, como parte de la educación básica obligatoria;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE ENERO DE 2024)</small>
+
+II Bis. Fomentar la visita a monumentos, museos lugares históricos y artísticos, zonas arqueológicos (sic) y sitios de interés por su belleza natural y su importancia histórica en el Estado, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE ENERO DE 2024)</small>
 
 III. Propiciar el fomento a la lectura a través de publicaciones gratuitas y no gratuitas, que tengan como finalidad tanto la divulgación de la cultura y el arte, como el acercamiento al libro, de la población en general.
 
@@ -892,5 +900,13 @@ P.O. 18 DE NOVIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0013.- SE REFORMA EL ARTÍCULO 10 EN SU FRACCIÓN XXVI Y ADICIONA AL MISMO ARTÍCULO 10 UNA FRACCIÓN, DE LA LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0989.- SE REFORMA EL ARTÍCULO 11 EN SUS FRACCIONES II Y III; Y ADICIONA AL MISMO ARTÍCULO 11 LA FRACCIÓN II BIS, DE LA LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
