@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-familia-para-el-estado-de-yucatan-87537"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-04-30"
-last_updated: "2022-06-07"
+last_updated: "2024-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE ENERO DE 2024.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 30 de abril de 2012.
 
@@ -749,6 +749,10 @@ Obligación común para las deudas
 
 Constituida la sociedad conyugal, cualquiera de los cónyuges debe responder por las deudas contraídas para solventar necesidades básicas de carácter familiar.
 
+> <small>(ADICIONADO, D.O. 3 DE ENERO DE 2024)</small>
+
+Esta obligación no aplicará cuando la deuda haya sido empleada para fines distintos, o en su caso, cuando se configure una de las causas de excepción establecidas en el artículo 107 de este Código.
+
 Determinación de una cantidad fija al cónyuge
 
 ###### Artículo 83.
@@ -977,9 +981,11 @@ Es nula toda obligación contraída con infracción de las disposiciones de este
 
 Deudas contraídas durante el matrimonio
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE ENERO DE 2024)</small>
+
 ###### Artículo 106.
 
-Las deudas contraídas durante el matrimonio por ambos cónyuges o por cualquiera de ellos en términos de lo señalado en el artículo anterior, son carga de la sociedad conyugal.
+Las deudas contraídas durante el matrimonio por ambos cónyuges o por cualquiera de ellos en términos de lo señalado en el artículo anterior, son carga de la sociedad conyugal, con excepción de lo dispuesto en este Código.
 
 En caso contrario, los terceros pueden hacerlas efectivas sobre los bienes propios del cónyuge al que corresponda o sobre sus gananciales.
 
@@ -993,9 +999,25 @@ I. Las deudas de cada cónyuge, anteriores al matrimonio, a menos que el otro es
 
 II. La reparación del daño proveniente de un delito y las multas generadas con motivo de un proceso penal, así como por infracciones administrativas;
 
-III. Las deudas que graven los bienes propios de los cónyuges, a menos que se hayan contraído en beneficio común, o que se trate de gastos de conservación o impuestos prediales, y las rentas o frutos hayan entrado al patrimonio de la sociedad, y
+> <small>(REFORMADA, D.O. 3 DE ENERO DE 2024)</small>
 
-IV. Las deudas contraídas por uno de los cónyuges durante la vigencia de la sociedad, por la adquisición u obtención de bienes o servicios suntuarios que beneficien únicamente a quien las contrajo.
+III. Las deudas que graven los bienes propios de los cónyuges, a menos que se hayan contraído en beneficio común, o que se trate de gastos de conservación o impuestos prediales, y las rentas o frutos hayan entrado al patrimonio de la sociedad;
+
+> <small>(REFORMADA, D.O. 3 DE ENERO DE 2024)</small>
+
+IV. Las deudas contraídas por uno de los cónyuges durante la vigencia de la sociedad, por la adquisición u obtención de bienes o servicios suntuarios que beneficien únicamente a quien las contrajo, y
+
+> <small>(ADICIONADA, D.O. 3 DE ENERO DE 2024)</small>
+
+V. Las deudas que fueron contraídas durante la sociedad conyugal por medio de cualquier tipo de violencia ejercida contra la mujer, en términos de lo establecido en la Ley de Acceso de la Mujeres a una Vida Libre de Violencia del Estado de Yucatán.
+
+> <small>(ADICIONADO, D.O. 3 DE ENERO DE 2024)</small>
+
+Casos de violencia en razón de género
+
+###### Artículo 107 Bis.
+
+En caso que se documente cualquier tipo de violencia contra la mujer ejercida por su cónyuge para la obtención de créditos solicitados por éste, no operará sobre ella la cobranza de los mismos, aun cuando fueran destinados para la satisfacción de las necesidades familiares o, cuando la mujer sea obligada solidaria o fiadora. Tampoco será válida la hipoteca sobre el patrimonio de ésta, independientemente del tiempo en el que haya sido adquirido, en términos de lo señalado por el Código Civil del Estado de Yucatán.
 
 Subsistencia de la sociedad conyugal cuando exista buena fe
 
@@ -1141,9 +1163,15 @@ No puede disponerse por testamento de los bienes que constituyen el patrimonio d
 
 Derecho de habitar la casa familiar y usufructuar bienes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE ENERO DE 2024)</small>
+
 ###### Artículo 125.
 
-El derecho de habitar la casa familiar y de usufructuar los productos y beneficios que integran el patrimonio de familia, corresponde a quien lo constituye, a los cónyuges, concubina o concubinario y a las personas a quien tiene la obligación de dar alimentos. Tal derecho es intransmisible, pero debe tenerse en cuenta lo dispuesto en el artículo 134 de este Código.
+El derecho de habitar la casa familiar y de usufructuar los productos y beneficios que integran el patrimonio de familia, corresponde a quien lo constituye, a los cónyuges, concubina o concubinario y a las personas a quien tiene la obligación de dar alimentos, observando en todo momento lo dispuesto en el artículo 134 de este Código.
+
+> <small>(ADICIONADO, D.O. 3 DE ENERO DE 2024)</small>
+
+Este derecho es intransmisible; sin embargo, podrá perderlo quien teniendo el derecho de habitar la casa familiar y usufructuar bienes, haya obtenido resolución en contra por haber ejercido cualquier tipo de violencia contemplada en la Ley de Acceso de la Mujeres a una Vida Libre de Violencia del Estado de Yucatán, a alguna de las personas que habiten en la misma.
 
 Representación del patrimonio de familia ante terceros
 
@@ -7770,3 +7798,15 @@ De igual manera, cuando las leyes de la Administración Pública estatal y sus r
 Artículo Décimo segundo. Plazo para la integración del temario
 
 Por única ocasión, la Consejería Jurídica formulará el temario a que se refiere el artículo 27 de la Ley del Notariado del Estado de Yucatán, y lo publicará en el Diario Oficial del Gobierno del Estado de Yucatán, dentro del plazo de noventa días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 3 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 722/2023 POR EL QUE SE MODIFICA EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, EN MATERIA DE SEGURIDAD PATRIMONIAL DE LA MUJER”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo segundo. Se derogan todas las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este Decreto.
