@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2023-12-11"
+last_updated: "2024-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2024.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -6357,7 +6357,9 @@ Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir
 
 Del Consentimiento
 
-ART. 1639.- El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por la Ley o por convenio la voluntad deba manifestarse expresamente.
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2024)</small>
+
+ART. 1639.- El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos, a través de medios físicos, electrónicos, ópticos o por cualquier otra tecnología. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por la Ley o por convenio la voluntad deba manifestarse expresamente.
 
 ART. 1640.- Toda persona que propone a otra la celebración de un contrato fijándole un plazo para aceptar, queda ligada por su oferta hasta la expiración del plazo.
 
@@ -6436,6 +6438,10 @@ ART. 1669.- Cuando la Ley exija determinada forma para un contrato, mientras que
 ART. 1670.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
 
 Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2024)</small>
+
+Los supuestos previstos en los párrafos que anteceden se tendrán por cumplidos mediante la utilización de medios electrónicos, ópticos, o de cualquier otra tecnología, siempre que la información generada o comunicada en forma íntegra, a través de estos medios, sea atribuible a la persona obligada y accesible para su consulta.
 
 División de los Contratos
 
@@ -10670,3 +10676,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Los mandatos otorgados en escritura pública en los que no se haya señalado su vigencia, y que hayan sido otorgados antes del inicio de vigencia de este Decreto, se entenderán por tiempo indefinido, hasta en tanto opere su conclusión en términos del Código Civil para el Estado de San Luis Potosí.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0992.- SE REFORMA EL ARTÍCULO 1639; Y ADICIONA UN PÁRRAFO AL ARTÍCULO 1670, ÉSTE COMO TERCERO AL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
