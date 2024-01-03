@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2023-10-09"
+last_updated: "2024-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE ENERO DE 2024.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -51,11 +51,11 @@ LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
 La presente Ley es de interés público y observancia general en el Estado de Yucatán, y tiene por objeto establecer las bases del gobierno municipal, así como la integración, organización y funcionamiento del Ayuntamiento, con sujeción a los mandatos establecidos por la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
 
-> <small>(F. DE E., D.O. 8 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE ENERO DE 2024)</small>
 
 ###### Artículo 2.
 
-El Municipio es el orden de gobierno que constituye la base de la división territorial y de la organización política y administrativa del Estado. Como orden de gobierno local, ejerce las funciones que le son propias, presta los servicios públicos de su competencia y organiza a los distintos núcleos poblacionales que por razones históricas o por ministerio de ley, fueron conformándose en su jurisdicción territorial para la gestión de sus intereses.
+El Municipio es el orden de gobierno que constituye la base de la división territorial y de la organización política y administrativa del Estado. Como orden de gobierno local, ejerce las funciones que le son propias, presta los servicios públicos de su competencia en los distintos centros de población.
 
 Los Municipios del Estado de Yucatán gozarán de autonomía plena para gobernar y administrar los asuntos propios, en los términos de la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
 
@@ -231,19 +231,21 @@ La denominación de los Municipios sólo podrá ser modificada por el voto calif
 
 Para su organización interna y efectos administrativos, el Municipio dividirá su jurisdicción territorial, en colonias, fraccionamientos, secciones y manzanas, así como en comisarías y subcomisarías, en su caso; cuyas extensiones serán determinados (sic) por el Cabildo, de conformidad con la ley respectiva.
 
+> <small>(REFORMADO, D.O. 3 DE ENERO DE 2024)</small>
+
 ###### Artículo 12.
 
-Los núcleos de población de los Municipios, por su importancia, grado de concentración demográfica, infraestructura y equipamiento urbano, tendrán las categorías geográficas siguientes:
+Los centros de población de los Municipios, por su importancia, grado de concentración demográfica, infraestructura y equipamiento urbano, tendrán las categorías político-administrativas siguientes:
 
-I.- Ciudad, es el núcleo de población con censo no menor de quince mil vecinos;
+I.- Ciudad, es el centro de población con censo no menor de quince mil vecinos;
 
-II.- Villa, es el núcleo de población con censo no menor de ocho mil vecinos;
+II.- Villa, es el centro de población con censo no menor de ocho mil vecinos;
 
-III.- Pueblo, es el núcleo de población con censo no menor de tres mil vecinos o aquel donde se asiente la cabecera municipal;
+III.- Pueblo, es el centro de población con censo no menor de tres mil vecinos o aquel donde se asiente la cabecera municipal;
 
-IV.- Comisaría, es el núcleo de población con censo no menor a los quinientos vecinos, y
+IV.- Comisaría, es el centro de población con censo no menor a los quinientos vecinos, y
 
-V.- Sub-Comisaría, el núcleo de población con censo inferior a quinientos vecinos.
+V.- Sub-Comisaría, el centro de población con censo inferior a quinientos vecinos.
 
 > <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2011)</small>
 
@@ -257,15 +259,27 @@ En el mes de enero del último año de su ejercicio, el Ayuntamiento deberá com
 
 ### CAPÍTULO IV. DE LA CREACIÓN Y FUSIÓN DE LOS MUNICIPIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE ENERO DE 2024)</small>
+
 ###### Artículo 14.
 
-Es facultad del Congreso del Estado, resolver con el voto de las dos terceras partes de sus integrantes, la creación o fusión de Municipios e integración o anexión de núcleos de población a otro Municipio, la modificación de sus jurisdicciones territoriales o su denominación, así como, el cambio de la cabecera municipal.
+Es facultad del Congreso del Estado, resolver con el voto de las dos terceras partes de sus integrantes, la creación o fusión de Municipios e integración o anexión de algún centro de población a otro Municipio, la modificación de sus jurisdicciones territoriales o su denominación, así como el cambio de la cabecera municipal.
+
+> <small>(ADICIONADO, D.O. 3 DE ENERO DE 2024)</small>
+
+De igual manera, el Congreso del Estado deberá aprobar, por mayoría simple de sus integrantes presentes en la sesión de que se trate, el decreto con la declaratoria para la fundación de centros de población, la cual deberá contener las determinaciones sobre provisión de tierras; ordenará la formulación del plan o programa de desarrollo urbano respectivo y asignará la categoría político administrativa al centro de población.
+
+> <small>(ADICIONADO, D.O. 3 DE ENERO DE 2024)</small>
+
+La fundación de centros de población a que se refiere este artículo deberá realizarse términos de lo previsto en la legislación aplicable en materia de asentamientos humanos, ordenamiento territorial y desarrollo urbano.
 
 La opinión de los Municipios afectados se formará con el voto de las dos terceras partes de los integrantes del Cabildo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE ENERO DE 2024)</small>
+
 ###### Artículo 15.
 
-Para la creación de un nuevo Municipio, el núcleo o núcleos de población involucrados, deberán cumplir con los requisitos siguientes:
+Para la creación de un nuevo Municipio, el centro o centros de población involucrados, deberán cumplir con los requisitos siguientes:
 
 I.- Reunir las condiciones establecidas en el Artículo 30 fracción I de la Constitución Política del Estado de Yucatán;
 
@@ -279,11 +293,15 @@ IV.- Contar con reservas territoriales suficientes para atender las necesidades 
 
 Al crear un nuevo Municipio, el Congreso del Estado de conformidad con la Constitución Política del Estado de Yucatán, le designará un Concejo Municipal, el cual fungirá hasta la fecha en que deba tomar posesión el Ayuntamiento que resulte electo en las elecciones municipales inmediatas que se realicen, conforme a los plazos y términos señalados por la Constitución Política del Estado de Yucatán y las disposiciones electorales respectivas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE ENERO DE 2024)</small>
+
 ###### Artículo 17.
 
-Para la fusión de Municipios o la anexión de núcleos de población, deberá (sic) atenderse los aspectos siguientes:
+Para la fusión de Municipios o la anexión de centros de población, deberá (sic) atenderse los aspectos siguientes:
 
-I.- La densidad demográfica o el número de habitantes de los núcleos poblacionales involucrados;
+> <small>(REFORMADA, D.O. 3 DE ENERO DE 2024)</small>
+
+I.- La densidad demográfica o el número de habitantes de los centros de población involucrados;
 
 II.- Se cuente con la capacidad económica para la atención de los servicios públicos, garantizando las condiciones idóneas para su prestación;
 
@@ -295,11 +313,15 @@ IV.- Que se demuestre la conveniencia política, social, económica, administrat
 
 El Congreso del Estado podrá por sí mismo, resolver la anexión o fusión de dos o más Municipios cuando lo considere conveniente, con base en las atribuciones que le otorga la Constitución Política del Estado de Yucatán, o a solicitud del Gobernador del Estado, o del Ayuntamiento interesado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE ENERO DE 2024)</small>
+
 ###### Artículo 19.
 
-Tratándose de la integración de un núcleo poblacional a otro Municipio, deberá reunirse (sic) los requisitos siguientes:
+Tratándose de la integración de un centro de población a otro Municipio, deberá (sic) reunirse los requisitos siguientes:
 
-I.- Que el núcleo de población y el Municipio que pretendan integrarse, constituya una unidad geográfica, económica y social;
+> <small>(REFORMADA, D.O. 3 DE ENERO DE 2024)</small>
+
+I.- Que el centro de población y el Municipio que pretendan integrarse, constituya una unidad geográfica, económica y social;
 
 II.- Que se demuestre la conveniencia política, social, económica, administrativa y cultural de la anexión o fusión, y
 
@@ -1157,9 +1179,9 @@ XIX.- Regular el funcionamiento de los espectáculos públicos, para proteger lo
 
 XX.- Promover en igualdad de condiciones de los beneficiarios, los programas federales y estatales de desarrollo social, conforme a la normatividad aplicable;
 
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O. 3 DE ENERO DE 2024)</small>
 
-XXI.- Acordar en su caso, la categoría política y denominación que les corresponde a los núcleos de población conforme a esta ley;
+XXI.- Acordar y proponer al Congreso la fundación de nuevos centros de población, especificando la categoría política-administrativa y denominación que les corresponde, entre otros, así como, en su caso, su desaparición, conforme a esta ley;
 
 > <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
 
@@ -1180,6 +1202,10 @@ I.- Intervenir en la regularización de la tenencia de la tierra urbana conforme
 II.- Participar en la creación y administración de sus reservas territoriales, así como aprobar los programas relativos;
 
 III.- Aprobar, ejecutar, supervisar y evaluar, en su caso, los programas de desarrollo agropecuario y forestal, del Plan Estratégico y del Plan Municipal de Desarrollo, en su caso;
+
+> <small>(ADICIONADA, D.O. 3 DE ENERO DE 2024)</small>
+
+III Bis.- Prestar los servicios catastrales, de manera concurrente, en el ámbito municipal en términos de lo previsto en la legislación de la materia;
 
 IV.- Celebrar los convenios con la Federación para la administración y custodia de las zonas federales;
 
@@ -2345,7 +2371,9 @@ VIII.- Seguridad pública, en los términos del artículo 21 de la Constitución
 
 IX.- (DEROGADA, D.O. 25 DE MAYO DE 2006)
 
-X.- El Catastro, y
+> <small>(REFORMADA, D.O. 3 DE ENERO DE 2024)</small>
+
+X.- La recaudación de contribuciones municipales, y
 
 XI.- La autorización del uso del suelo y funcionamiento de establecimientos mercantiles.
 
@@ -2403,7 +2431,9 @@ II.- Publicar la convocatoria en la Gaceta Municipal, misma que deberá contener
 
 a) El objeto y duración de la concesión;
 
-b) El núcleo de población donde se prestará el servicio público;
+> <small>(REFORMADO, D.O. 3 DE ENERO DE 2024)</small>
+
+b) El centro de población donde se prestará el servicio público;
 
 c) La autoridad municipal ante quien se deba presentar la solicitud y el domicilio de la misma;
 
@@ -2597,15 +2627,19 @@ IV.- El establecimiento de sus propios órganos consultivos para la formulación
 
 La planeación constituye la base de la administración pública municipal, que será integral, participativa, a largo plazo y tiene como sustento, el sistema de planeación democrática, previsto en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado, en la Ley de Planeación del Estado de Yucatán y en esta ley.
 
+> <small>(REFORMADO, D.O. 3 DE ENERO DE 2024)</small>
+
 ###### Artículo 110.
 
-Los Ayuntamientos conducirán sus actividades de manera planeada y programada en la esfera de su competencia, en coordinación con los demás órdenes de gobierno, con la participación ciudadana y los núcleos de población; y reglamentarán las bases que establece esta Ley y la Ley Estatal de Planeación, para integrar el sistema municipal de planeación, crear los consejos de planeación para el desarrollo de los municipios y establecer los mecanismos de participación de los grupos y organizaciones sociales y comunitarias.
+Los Ayuntamientos conducirán sus actividades de manera planeada y programada en la esfera de su competencia, en coordinación con los demás órdenes de gobierno y con la participación ciudadana; y reglamentarán las bases que establece esta Ley y la Ley de Planeación para el Desarrollo del Estado de Yucatán, para integrar el sistema municipal de planeación, crear los consejos de planeación para el desarrollo de los municipios y establecer los mecanismos de participación de los grupos y organizaciones sociales y comunitarias.
 
 ###### Artículo 111.
 
 Los Ayuntamientos formularán su Plan Estratégico y el Plan Municipal de Desarrollo, con la finalidad de promover el desarrollo integral de la comunidad, de acuerdo con sus recursos técnicos, administrativos y económicos para el cumplimiento de sus fines.
 
-Para el desarrollo de sus actividades productivas, el aprovechamiento de sus recursos, el establecimiento, ampliación, mejoramiento y conservación de los núcleos de población y los servicios públicos, formularán los programas que deriven del Plan Estratégico y del Plan Municipal de Desarrollo.
+> <small>(REFORMADO, D.O. 3 DE ENERO DE 2024)</small>
+
+Para el desarrollo de sus actividades productivas, el aprovechamiento de sus recursos, el establecimiento, ampliación, mejoramiento y conservación de los centros de población y los servicios públicos, formularán los programas de desarrollo urbano que deriven del Plan Estratégico y del Plan Municipal de Desarrollo y de los demás instrumentos de planeación reconocidos en la legislación de la materia.
 
 #### SECCIÓN SEGUNDA. DE LOS INSTRUMENTOS DE PLANEACIÓN
 
@@ -2897,7 +2931,9 @@ I.- Convenio de coordinación: será aquel que tenga por objeto la colaboración
 
 II.- Convenio de asociación por mandato específico: será aquel en el que una parte encarga a la otra la prestación de un servicio público a su cargo o el ejercicio de una función, cediéndole en consecuencia todo o parte de las atribuciones y facultades relativas al servicio o función pública de que se trate, y
 
-III.- Convenio de asociación con objeto común: será aquél en el que las partes se propongan prestar uno o más servicios públicos o realizar una o más de sus funciones de manera conjunta, para lo cual crearán un organismo descentralizado en los términos del acuerdo al que lleguen las partes.
+> <small>(REFORMADA, D.O. 3 DE ENERO DE 2024)</small>
+
+III.- Convenio de asociación con objeto común: será aquél en el que las partes se propongan prestar uno o más servicios públicos o realizar una o más de sus funciones de manera conjunta, para lo cual crearán un organismo público descentralizado en los términos de lo previsto en esta ley, en lo que no se oponga a lo establecido en la normatividad en materia de coordinación metropolitana, desarrollo regional y asociatividad intermunicipal del Estado.
 
 La asociación, coordinación, contratación y cualquier acto de los municipios en su carácter de personas jurídicas de derecho privado, se realizará conforme a las normas del derecho común.
 
@@ -4456,3 +4492,59 @@ Artículo Segundo. Se derogan todas las disposiciones legales de igual o menor j
 Obligación Normativa
 
 Artículo Tercero. La persona Titular del Poder Ejecutivo del Estado deberá modificar el Reglamento del Código de la Administración Pública de Yucatán, en un plazo no mayor a ciento ochenta días, contado a partir de la entrada en vigor de este Decreto.
+
+D.O. 3 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 721/2023 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, LA LEY DE DESARROLLOS INMOBILIARIOS DEL ESTADO DE YUCATÁN, LA LEY DE VIVIENDA DEL ESTADO DE YUCATÁN Y LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DEL ESTADO DE YUCATÁN, EN MATERIA DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor a los ciento veinte días naturales siguientes al día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Excepciones de la vigencia
+
+Artículo segundo. Se exceptúa de la entrada en vigor las disposiciones legales contenidas en este decreto que se refieran a la Procuraduría de Justicia Ambiental y Urbana del Estado de Yucatán, que entrará en vigor en un plazo de trescientos sesenta y cinco días naturales posteriores a la entrada en vigor del decreto y la reforma a la Ley de Desarrollos Inmobiliarios del Estado de Yucatán, que entrará en vigor en un plazo de ciento ochenta días naturales, en tanto se publica la ley reglamentaria que le corresponde.
+
+Se exceptúan las disposiciones legales contenidas en este decreto que hagan referencia a la emisión de la factibilidad urbana-ambiental a cargo del Instituto de Movilidad y Desarrollo Urbano Territorial, que entrarán en vigor en un plazo de noventa días naturales, contado a partir de la entrada en vigor de este mismo decreto. Entre tanto, la Secretaría de Desarrollo Sustentable seguirá siendo la autoridad competente para recibir las solicitudes relacionadas con la factibilidad urbana-ambiental, así como para tramitarlas, substanciarlas y resolverlas, de conformidad con el artículo décimo quinto.
+
+De igual manera, se exceptúa de la entrada en vigor lo dispuesto en el artículo 5, fracción I, inciso b), numeral 3 de este decreto, referente al Padrón de Asesores Inmobiliarios, que entrará en vigor al momento en que lo hagan las reformas legales que lo regulen.
+
+Obligación normativa
+
+Artículo tercero. El Congreso del Estado de Yucatán deberá expedir las leyes correspondientes y realizar las modificaciones necesarias a la legislación secundaria, para armonizarla a las disposiciones de este decreto, en un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Obligación normativa
+
+Artículo cuarto. El Poder Ejecutivo del estado, en un plazo máximo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, deberá expedir o modificar las disposiciones normativas y reglamentarias que fuesen necesarias para armonizar el marco jurídico estatal con las disposiciones contenidas en este decreto.
+
+Obligación normativa
+
+Artículo quinto. Los ayuntamientos de los municipios del estado de Yucatán deberán adecuar sus disposiciones reglamentarias en términos de lo dispuesto en este decreto dentro de un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Expedición de instrumentos de planeación territorial
+
+Artículo sexto. La persona titular del Poder Ejecutivo del estado y los ayuntamientos de los municipios del estado de Yucatán deberán expedir o adecuar los instrumentos de planeación territorial que corresponda en el ámbito de su competencia, en términos de lo dispuesto en este decreto dentro de un plazo de dos años, contado a partir de su entrada en vigor.
+
+Adecuación de instrumentos de planeación territorial
+
+Artículo séptimo. Los instrumentos de planeación territorial que, a la entrada en vigor de este decreto se encuentren en proceso de elaboración, deberán adecuarse a lo previsto en este y obtener dictamen de congruencia favorable emitido por el Instituto, quien deberá evaluar la armonización con las nuevas disposiciones legales, con base en los procedimientos y plazos establecidos en las disposiciones vigentes previas a la entrada en vigor de este decreto dentro de un plazo de dos años, contado a partir de la entrada en vigor de este decreto
+
+Declaratorias de centros de población
+
+Artículo octavo. Los municipios del estado contarán con un plazo de trescientos sesenta y cinco días naturales, contado a partir de la entrada en vigor de este decreto, para presentar al Congreso sus propuestas de fundación de centros de población, conforme a lo previsto en este decreto.
+
+Adecuaciones presupuestales, financieras, de bienes y recursos humanos
+
+Artículo noveno. La Secretaría de Administración y Finanzas deberá realizar, de conformidad con las disposiciones jurídicas aplicables, las adecuaciones presupuestales, financieras, de bienes y recursos humanos que resulten necesarias para la aplicación de este decreto.
+
+Procedimientos y asuntos en trámite
+
+Artículo décimo. Los procedimientos, así como los demás asuntos que se encuentren en trámite a la entrada en vigor de este decreto, se sustanciarán y resolverán hasta su total conclusión conforme a las disposiciones anteriores que les sean aplicables.
+
+Cláusula derogatoria
+
+Artículo décimo primero. Se derogan todas aquellas disposiciones normativas de igual o menor rango jerárquico en lo que se opongan a lo señalado en este Decreto.
+
+Exención de la vigencia
+
+Artículo décimo segundo. Los proyectos de desarrollos inmobiliarios que, a la entrada en vigor de este decreto, se encuentren aprobados por la autoridad municipal competente, no serán sujetos de la acreditación de los requisitos de habitabilidad que deban señalarse en el avalúo.
