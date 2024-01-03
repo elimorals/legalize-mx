@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2023-05-29"
+last_updated: "2024-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ENERO DE 2024.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 24 DE DICIEMBRE DE 2018.
 
@@ -106,9 +106,7 @@ II.- La atención médica;
 
 II bis.- La prestación gratuita de los servicios de salud, medicamentos y demás insumos asociados para personas sin seguridad social.
 
-> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2023)</small>
-
-Para efectos de la concurrencia a que se refiere el párrafo anterior, y en el caso de las entidades federativas que celebren convenios de coordinación en los términos del artículo 77 bis 16 A de esta Ley, los recursos que del artículo 25, fracción II de la Ley de Coordinación Fiscal correspondan a dichas entidades, éstas, en la parte que corresponda, los deberán transferir junto con los rendimientos financieros que se hayan generado, al Fideicomiso Público Federal sin estructura orgánica denominado Fondo de Salud para el Bienestar dentro de los cinco días hábiles contados a partir del día hábil siguiente al que los reciban por parte de la Secretaría de Hacienda y Crédito Público.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 3 DE ENERO DE 2024)</small>
 
 III.- La coordinación, evaluación y seguimiento de los servicios de salud a los que se refiere el artículo 34, fracción II;
 
@@ -348,7 +346,7 @@ Asimismo, Servicios de Salud del Instituto Mexicano del Seguro Social para el Bi
 
 II Bis.- Promover e impulsar que las instituciones del Sistema Nacional de Salud implementen programas cuyo objeto consista en brindar atención médica integrada de carácter preventivo, acorde con la edad, sexo y factores de riesgo de las personas;
 
-III.- Impulsar la desconcentración y descentralización de los servicios de salud;
+III. (DEROGADA, D.O.F. 3 DE ENERO DE 2024)
 
 IV.- Promover, coordinar y realizar la evaluación de programas y servicios de salud que le sea solicitada por el Ejecutivo Federal;
 
@@ -1954,29 +1952,37 @@ Las entidades federativas llevarán la contabilidad y presentarán la informaci�
 
 ARTICULO 77 bis 16 A.- En el caso de que las entidades federativas concurran con los Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) para garantizar la prestación de los servicios de salud a que se refiere este Título, mediante convenios de coordinación acordarán la forma de colaboración en materia de personal, infraestructura, equipamiento, medicamentos y demás insumos asociados.
 
-> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2024)</small>
 
-En el caso a que se refiere el presente artículo, las entidades federativas deberán entregar al fideicomiso público sin estructura orgánica a que hace mención el artículo 77 bis 29 de la presente, ley los recursos señalados en los artículos 77 bis 13 y 77 bis 14 de esta Ley, en términos de las disposiciones reglamentarias y en los respectivos convenios de coordinación.
+En el caso a que se refiere el presente artículo, las entidades federativas deberán entregar al fideicomiso público sin estructura orgánica a que hace mención el artículo 77 bis 29 de la presente Ley, los recursos señalados en los artículos 77 bis 13 y 77 bis 14 de esta Ley, así como sus recursos propios o de libre disposición que cubren el pago de servicios personales y de operación de atención a la salud, en términos de lo señalado en los respectivos convenios de coordinación.
 
-> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2023)</small>
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2024)</small>
 
-Por lo que se refiere a los recursos que correspondan a las entidades federativas en términos del artículo 25, fracción II, de la Ley de Coordinación Fiscal, éstas, en la parte que corresponda, los deberán transferir junto con los rendimientos financieros que se hayan generado, al fideicomiso público sin estructura orgánica a que hace mención el artículo 77 bis 29 de la presente ley dentro de los cinco días hábiles contados a partir del día hábil siguiente al que los reciban por parte de la Secretaría de Hacienda y Crédito Público, lo anterior para efectos de lo previsto en el artículo 49, segundo párrafo de la Ley de Coordinación Fiscal. Dichos recursos deberán encontrarse identificados en subcuentas individuales correspondientes a cada entidad federativa.
+El Presupuesto de Egresos de la Federación preverá cada año para Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR), el monto que le corresponda en términos de lo establecido en los convenios de coordinación a que se refiere este artículo.
 
-> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2024)</small>
 
-Las entidades federativas comprobarán el ejercicio de los recursos del Fondo de Aportaciones para los Servicios de Salud y de los intereses respectivos que sean entregados en términos del párrafo anterior, con la documentación que acredite la aportación de los mismos al fideicomiso antes referido, lo anterior, para efectos de lo establecido en la Ley de Coordinación Fiscal, en la Ley General de Contabilidad Gubernamental, y en las demás disposiciones aplicables.
+Los recursos que correspondan a las entidades federativas en términos de lo previsto en el artículo 25, fracción II, y último párrafo, de la Ley de Coordinación Fiscal y que de acuerdo con los convenios de coordinación a que se refiere este artículo se destinen para complementar el pago de servicios personales de atención a la salud, éstas los deberán transferir junto con los rendimientos financieros que se hayan generado, al fideicomiso público sin estructura orgánica a que hace mención el artículo 77 bis 29 de la presente Ley dentro de los cinco días hábiles contados a partir del día hábil siguiente al que los reciban por parte de la Secretaría de Hacienda y Crédito Público, lo anterior para efectos de lo previsto en el artículo 49, segundo párrafo, de la Ley de Coordinación Fiscal. Dichos recursos deberán encontrarse identificados en el Fondo referido en subcuentas individuales correspondientes a cada entidad federativa.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 29 DE MAYO DE 2023)</small>
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2024)</small>
+
+En los convenios se establecerán disposiciones que regulen el traspaso a Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR), de las plazas en las que complementa el pago de los servicios, en términos de las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2024)</small>
+
+Las entidades federativas comprobarán el ejercicio de los recursos del Fondo de Aportaciones para los Servicios de Salud y de los intereses respectivos que sean entregados en términos del párrafo cuarto del presente artículo, con la documentación que acredite la aportación de los mismos al fideicomiso antes referido, lo anterior, para efectos de lo establecido en la Ley de Coordinación Fiscal, en la Ley General de Contabilidad Gubernamental, y en las demás disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 3 DE ENERO DE 2024)</small>
 
 Los convenios de coordinación mediante los cuales se formalice lo relativo al presente artículo serán celebrados con base en el análisis técnico que elabore Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR); y en los términos de las disposiciones reglamentarias deberán contemplar cuando menos:
 
-> <small>(REFORMADA, D.O.F. 29 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2024)</small>
 
-I. Criterios relativos a los recursos humanos, materiales y financieros objeto de los convenios de coordinación;
+I. Criterios relativos a la transferencia de los recursos humanos, materiales y financieros objeto de los convenios de coordinación;
 
-> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2024)</small>
 
-II. Régimen laboral, incluyendo, entre otros, lo relativo a las remuneraciones que observará el personal objeto de los acuerdos de coordinación;
+II. Régimen laboral, incluyendo, entre otros, lo relativo a las remuneraciones que observará el personal objeto de los convenios de coordinación;
 
 > <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
 
@@ -1998,9 +2004,9 @@ VI. El porcentaje o monto de recursos que la entidad federativa deberá aportar.
 
 Para efecto de la formalización de los convenios de coordinación a que se refiere este artículo, las entidades federativas deberán proporcionar previamente a Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) la información que les requiera.
 
-> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2024)</small>
 
-Las entidades federativas serán responsables de llevar a cabo todos los actos necesarios a fin de que los recursos humanos, financieros y materiales objeto de los convenios de coordinación, se encuentren libres de cargas, gravámenes u obligaciones pendientes de cualquier naturaleza. En ningún caso Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) podrá asumir el cumplimiento de obligaciones adquiridas por las entidades federativas previo a la celebración de dichos convenios.
+Las entidades federativas serán responsables de llevar a cabo todos los actos necesarios a fin de que los recursos humanos, financieros y materiales, así como los inmuebles, objeto de los convenios de coordinación, se encuentren libres de cargas, gravámenes u obligaciones pendientes de cualquier naturaleza. En ningún caso Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) podrá asumir el cumplimiento de obligaciones adquiridas por las entidades federativas previo a la celebración de dichos convenios.
 
 > <small>(DEROGADO SÉPTIMO PÁRRAFO, D.O.F. 29 DE MAYO DE 2023)</small>
 
@@ -9869,3 +9875,29 @@ Octavo. El Instituto Mexicano del Seguro Social y Servicios de Salud del Institu
 Noveno. El Servicio Nacional de Salud Pública será una unidad administrativa adscrita a la Secretaría de Salud, la cual operará con los recursos que se le otorguen a la Secretaría de Salud anualmente en el Presupuesto de Egresos de la Federación.
 
 Décimo. Las obligaciones y erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a los recursos aprobados expresamente para esos fines en los respectivos presupuestos de egresos de los ejecutores del gasto correspondientes, por lo que no se autorizarán ampliaciones a sus presupuestos de egresos para el ejercicio fiscal en curso y subsecuentes.
+
+D.O.F. 3 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL Y DE LA LEY GENERAL DE SALUD, PARA CONSOLIDAR LA FEDERALIZACIÓN DEL SISTEMA DE SALUD PARA EL BIENESTAR”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Para dar cumplimiento a lo previsto en el presente Decreto, quedarán sin efectos los Acuerdos de Coordinación para la Descentralización Integral de los Servicios de Salud en aquellas entidades federativas que hayan suscrito o que suscriban el Convenio de Coordinación con Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) a que se refieren los artículos 77 bis 6 y 77 bis 16 A de la Ley General de Salud.
+
+Tercero. Por lo que respecta al ejercicio fiscal 2024, Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) a más tardar el 31 de marzo de 2024 deberá realizar las conciliaciones respectivas, contar con la opinión de la Secretaría de Hacienda y Crédito Público, y modificar los convenios de coordinación que haya suscrito en el ejercicio fiscal 2023 con las entidades federativas en términos del artículo 77 bis 16 A de la Ley General de Salud, a efecto de adecuarlos a lo previsto en el presente Decreto. Una vez modificados dichos convenios, deberá gestionar en términos de las disposiciones aplicables ante la Secretaría de Salud y la Secretaría de Hacienda y Crédito Público las adecuaciones presupuestarias respectivas con objeto de llevar a cabo el traspaso de recursos que correspondan del Ramo General 33 a Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR), quedando la Secretaría de Hacienda y Crédito Público facultada para autorizar las adecuaciones correspondientes.
+
+En este caso, Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR), será responsable del ejercicio, administración, aplicación, comprobación, transparencia, y rendición de cuentas de estos recursos.
+
+Cuarto. Las entidades federativas que suscriban los convenios de coordinación a que se refiere el artículo 77 bis 16 A de la Ley General de Salud continuarán recibiendo los recursos del Fondo de Aportaciones para los Servicios de Salud vinculados a los trabajadores que cuenten con regímenes de seguridad social no compatibles con la Ley del Seguro Social y la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado. Las entidades federativas deberán transferir dichos recursos junto con los rendimientos financieros que se hayan generado, al fideicomiso público sin estructura orgánica a que hace mención el artículo 77 bis 29 de la Ley General de Salud dentro de los cinco días hábiles contados a partir del día hábil siguiente al que los reciban por parte de la Secretaría de Hacienda y Crédito Público, lo anterior para efectos de lo previsto en el artículo 49, segundo párrafo, de la Ley de Coordinación Fiscal. Dichos recursos deberán encontrarse identificados en el Fondo referido en subcuentas individuales correspondientes a cada entidad federativa.
+
+Las entidades federativas comprobarán el ejercicio de los recursos del Fondo de Aportaciones para los Servicios de Salud y de los intereses respectivos que sean entregados en términos del párrafo anterior, con la documentación que acredite la aportación de los mismos al fideicomiso antes referido, lo anterior, para efectos de lo establecido en la Ley de Coordinación Fiscal, en la Ley General de Contabilidad Gubernamental, y en las demás disposiciones aplicables.
+
+Quinto. En términos de los convenios de coordinación a que se refiere el artículo 77 bis 16 A de la Ley General de Salud, las entidades federativas continuarán entregando los recursos propios para la prestación de los servicios de salud al Fondo de Salud para el Bienestar.
+
+Sexto. Se faculta a la Secretaría de Hacienda y Crédito Público para realizar las modificaciones que resulten necesarias a los calendarios de gasto a que se refiere el artículo 44, último párrafo de la Ley Federal de Presupuesto y Responsabilidad Hacendaria para dar cumplimiento a lo establecido en el presente Decreto.
+
+Séptimo. Los derechos laborales individuales de los trabajadores que con motivo del presente Decreto se transfieran a Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) serán respetados en términos de las disposiciones aplicables.
+
+Octavo. Se faculta a las Dependencias y Entidades de la Administración Pública Federal para que en los ejercicios fiscales subsecuentes realice (sic) las adecuaciones presupuestarias necesarias en términos de las disposiciones aplicables, para que los recursos que correspondan del Ramo General 33 se traspasen a Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) en aquellos casos en que una entidad federativa suscriba el convenio de coordinación a que se refiere el artículo 77 bis 16 A de la Ley General de Salud con fecha posterior a la entrada en vigor del presente Decreto.
+
+Noveno. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado de los ejecutores de gasto que correspondan.
