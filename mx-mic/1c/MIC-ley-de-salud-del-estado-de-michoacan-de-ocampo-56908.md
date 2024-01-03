@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2023-12-08"
+last_updated: "2024-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -295,6 +295,10 @@ XIV. La prestación de los servicios de prevención y control de las enfermedade
 
 XV. La prestación de los servicios de prevención de la discapacidad y su rehabilitación;
 
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2024)</small>
+
+XV. bisLa (sic) prestación de los servicios de prevención de enfermedades crónico degenerativas, así como el diagnóstico y atención de enfermedades raras;
+
 XVI. La prestación del servicio de asistencia social;
 
 XVII. El programa contra el alcoholismo;
@@ -313,13 +317,21 @@ XXII. Elaborar información estadística local y proporcionarla a la autoridad f
 
 XXIII. Vigilar en la esfera de su competencia, el cumplimiento de la Ley General de Salud y demás disposiciones aplicables;
 
-> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2024)</small>
 
-XXIII Bis. La información dirigida a los padres de familia o tutores sobre los cuidados que se deben durante la primera infancia, incluyendo la estimulación temprana;
+XXIII Bis. La información dirigida a los padres de familia o tutores sobre los cuidados que deben tener durante la primera infancia, incluyendo la estimulación temprana y los cuidados que deben garantizar a niñas, niños y adolescentes que viven con discapacidad;
 
-> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2024)</small>
 
-XXIII Ter. La atención médica a mujeres embarazadas, incluyendo orientación nutricional, la importancia de la lactancia materna y la participación del padre desde la etapa prenatal; y,
+XXIII Ter. La atención médica a mujeres embarazadas, incluyendo orientación nutricional, la importancia de la lactancia materna y la participación del padre desde la etapa prenatal;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2024)</small>
+
+XXIII Quater. Los padres de las niñas y niños que previo o posterior a su nacimiento hayan sido detectados con alguna discapacidad, tendrán derecho a recibir información, orientación y acompañamiento;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2024)</small>
+
+XXIII Quinquies. Los programas de salud pública para la orientación, prevención, detección oportuna, estimulación temprana, atención integral o especializada, rehabilitación y habilitación para las diferentes discapacidades, con el objetivo de desarrollar al máximo las capacidades cognitivas, físicas, emocionales, sociales, afectivas y lingüísticas del niño o niña con discapacidad; y,
 
 XXIV. Las demás que establezca la Ley General de Salud y otras disposiciones aplicables. El ejercicio de la salubridad general se ejercerá a través de los Acuerdos de Coordinación, los que determinarán las bases y modalidades para el ejercicio de las mismas.
 
@@ -901,9 +913,17 @@ VI. El mejoramiento del ambiente y saneamiento básico;
 
 VII. El Paquete Básico de Servicios de Salud para atender los problemas más relevantes en regiones estratégicas;
 
-VIII. Las acciones de protección contra riesgos sanitarios en productos, servicios y establecimientos, insumos para la salud, así como en el saneamiento básico, la salud ambiental y la salud ocupacional; y,
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2024)</small>
 
-IX. La seguridad sanitaria de los alimentos en todo su proceso.
+VIII. Las acciones de protección contra riesgos sanitarios en productos, servicios y establecimientos, insumos para la salud, así´ como en el saneamiento básico, la salud ambiental y la salud ocupacional;
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2024)</small>
+
+IX. La seguridad sanitaria de los alimentos en todo su proceso, y
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2024)</small>
+
+X. La prevención de enfermedades crónico degenerativas y la concientización sobre las enfermedades raras.
 
 ### CAPÍTULO IV. DE LA SALUD PÚBLICA EN EL ESTADO
 
@@ -1315,11 +1335,25 @@ I. Rastro: Todo establecimiento destinado al sacrificio higiénico, humanitario 
 
 II. Unidad de sacrificio o matadero: Todos los establecimientos en los que se sacrifican y faenan en forma higiénica y humanitaria, animales para abasto humano. Con capacidad de sacrificio mínimo de veintiocho cabezas de ganado mayor, o de cincuenta y seis de ganado menor o menos de mil aves domésticas por día.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 82.
 
-La vigilancia del funcionamiento, aseo y conservación de los rastros municipales y unidades de sacrificio o matadero, concesionados o no, quedarán a cargo de la autoridad municipal competente; en ambos casos, quedan sujetos a lo dispuesto por esta Ley, el reglamento respectivo y demás normatividad aplicable.
+La vigilancia y supervisión del funcionamiento, aseo y conservación de los rastros municipales y unidades de sacrificio o matadero, concesionados o no, quedarán a cargo de la autoridad municipal competente; en ambos casos, quedan sujetos a lo dispuesto por esta Ley, las normas oficiales mexicanas vigentes, el reglamento respectivo y demás normatividad aplicable.
 
 Queda prohibido el funcionamiento de establecimientos, que no cumplan con los requisitos mínimos sanitarios establecidos en el Reglamento de Ingeniería Sanitaria de (sic) y demás normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2024)</small>
+
+ARTÍCULO 82 BIS. Las autoridades estatales y municipales deberán coordinarse, desde el ámbito de sus competencias, a efecto de tener control y registro sobre los rastros municipales y unidades de sacrificio o mataderos con la finalidad de prevenir riesgos sanitarios y erradicar el sacrificio clandestino de animales.
+
+La Secretaría deberá crear, integrar, controlar, administrar y actualizar un registro estatal de rastros municipales y unidades de sacrifico o mataderos, el cuál será de carácter público y deberá encontrarse actualizado, para consulta de la ciudadanía, en los medios electrónicos oficiales de la Secretaría y autoridades municipales respectivas, así como en el Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria y/o la plataforma destinada para dicho fin a nivel nacional.
+
+La protección y publicidad de la información contenida en el registro se realizará en los términos de lo establecido en la Ley de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Michoacán de Ocampo.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2024)</small>
+
+ARTÍCULO 82 TER. La Secretaría, en coordinación con las autoridades municipales, deberá implementar programas y acciones de capacitación, formación, actualización y evaluación del personal que labora en rastros municipales y unidades de sacrificio o mataderos, que garantice que el personal cuenta con destrezas, habilidades y conocimientos para desarrollar su labor, incluida la disposición de desechos de manera segura.
 
 ###### ARTÍCULO 83.
 
@@ -1333,15 +1367,23 @@ Queda prohibido el sacrificio de animales en domicilios particulares o en la ví
 
 El sacrificio de los animales, estará sujeto a los métodos y técnicas señaladas en la Ley de Protección a los Animales del Estado de Michoacán y demás normatividad aplicable.
 
-La Secretaría, establecerá las especificaciones sanitarias que deben cumplir los rastros y mataderos.
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2024)</small>
+
+La Secretaría, establecerá las especificaciones sanitarias que deben cumplir los rastros y mataderos, conforme a lo dispuesto en las normas oficiales mexicanas vigentes y demás normatividad aplicable, y realizará las recomendaciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2024)</small>
+
+Queda prohibido el funcionamiento de establecimientos que no cumplan con los requisitos mínimos sanitarios establecidos en el Reglamento de Ingeniería Sanitaria y demás normatividad aplicable.
 
 ###### ARTÍCULO 86.
 
 El sacrificio de animales en los rastros y unidades de sacrificio o mataderos, se efectuará en los días y horas que fijen las autoridades municipales.
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 87.
 
-Cuando se sospeche o detecte la presencia de alguna enfermedad transmisible o sustancias tóxicas que contaminen la carne o sus productos, será obligación de los médicos veterinarios zootecnistas dar aviso inmediato a la autoridad correspondiente, estableciendo las medidas de control respectivas y no podrá destinarse para consumo humano.
+Cuando se sospeche o detecte la presencia de alguna enfermedad transmisible o sustancias tóxicas que contaminen la carne o sus productos, será obligación de los médicos veterinarios zootecnistas dar aviso inmediato a la autoridad correspondiente, estableciendo las medidas de control respectivas y no podrá destinarse para consumo humano, ni verterse a drenajes, cuencas o cielo abierto.
 
 ###### ARTÍCULO 88.
 
@@ -3097,7 +3139,7 @@ P.O. 21 DE ABRIL DE 2023.
 
 P.O. 26 DE JUNIO DE 2023.
 
-## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 371 POR EL QUE "SE REFORMAN LAS FRACCIONES VIII Y IX Y SE ADICIONA UNA FRACCIÓN X AL INCISO A) DEL ARTÍCULO 21; Y SE ADICIONA UN ARTÍCULO 31 TER A LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 371 POR EL QUE “SE REFORMAN LAS FRACCIONES VIII Y IX Y SE ADICIONA UNA FRACCIÓN X AL INCISO A) DEL ARTÍCULO 21; Y SE ADICIONA UN ARTÍCULO 31 TER A LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
@@ -3180,3 +3222,35 @@ P.O. 8 DE DICIEMBRE DE 2023.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Segundo. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
+
+P.O. 3 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 564.- ARTÍCULO ÚNICO. SE ADICIONA LA FRACCIÓN XV BIS AL ARTÍCULO 6°; Y, SE REFORMAN LAS FRACCIONES VIII Y IX Y SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 29 DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. El Poder Ejecutivo, a través de la Secretaría de Salud, realizará los ajustes reglamentarios correspondientes.
+
+Tercero. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
+
+P.O. 3 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 565.- ARTÍCULO ÚNICO. SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 82; SE ADICIONAN LOS ARTÍCULOS 82 BIS Y 82 TER; SE REFORMA EL SEGUNDO PÁRRAFO Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 85; Y, SE REFORMA EL ARTÍCULO 87, TODOS DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. La Secretaría, en coordinación con las autoridades municipales, deberá publicar el registro sobre los rastros municipales y unidades de sacrificio o matadero, para consulta de la ciudadanía, en los medios electrónicos oficiales de la Secretaría y autoridades municipales, así como en el Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria y/o la plataforma destinada para dicho fin a nivel nacional, en un término no mayor a 180 días naturales, a partir de la entrada en vigor del presente Decreto.
+
+Tercero. Las autoridades estatales y municipales deberán implementar los programas de capacitación, formación, actualización y evaluación del personal que labora en rastros municipales y unidades de sacrificio o matadero, en un plazo no mayor a 365 días naturales.
+
+P.O. 3 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 566.- ARTÍCULO PRIMERO. SE ADICIONA UN TERCER Y CUARTO PÁRRAFO AL ARTÍCULO 28; SE REFORMAN LAS FRACCIONES V Y VI Y SE ADICIONA LA FRACCIÓN VII DEL ARTÍCULO 32; SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 34, TODOS DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO. ARTÍCULO SEGUNDO. SE REFORMAN LAS FRACCIONES XXIII BIS Y XXIII TER Y SE ADICIONAN LAS FRACCIONES XXIII QUATER Y XXIII QUINQUIES DEL ARTÍCULO 6 DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
