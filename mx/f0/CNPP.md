@@ -4,7 +4,7 @@ identifier: "CNPP"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-03-05"
-last_updated: "2023-04-25"
+last_updated: "2024-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99314&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CNPP"
 
 CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ENERO DE 2024.
 
 Código publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 5 de marzo de 2014.
 
@@ -1240,7 +1240,13 @@ X. A participar en los mecanismos alternativos de solución de controversias;
 
 XI. A recibir gratuitamente la asistencia de un intérprete o traductor desde la denuncia hasta la conclusión del procedimiento penal, cuando la víctima u ofendido pertenezca a un grupo étnico o pueblo indígena o no conozca o no comprenda el idioma español;
 
-XII. En caso de tener alguna discapacidad, a que se realicen los ajustes al procedimiento penal que sean necesarios para salvaguardar sus derechos;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 3 DE ENERO DE 2024)</small>
+
+XII. En caso de tener alguna discapacidad, a que se realicen los ajustes al procedimiento penal que sean necesarios para salvaguardar sus derechos.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2024)</small>
+
+De igual forma, se adaptarán las condiciones que sean necesarias para garantizar el acceso de las personas adultas mayores, cuando así lo requieran;
 
 XIII. A que se le proporcione asistencia migratoria cuando tenga otra nacionalidad;
 
@@ -1346,7 +1352,9 @@ XIV. A no ser expuesto a los medios de comunicación;
 
 XV. A no ser presentado ante la comunidad como culpable;
 
-XVI. A solicitar desde el momento de su detención, asistencia social para los menores de edad o personas con discapacidad cuyo cuidado personal tenga a su cargo;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2024)</small>
+
+XVI. A solicitar desde el momento de su detención, asistencia social para los menores de edad o personas con discapacidad o personas adultas mayores cuyo cuidado personal tenga a su cargo;
 
 XVII. A obtener su libertad en el caso de que haya sido detenido, cuando no se ordene la prisión preventiva, u otra medida cautelar restrictiva de su libertad;
 
@@ -6111,3 +6119,9 @@ D.O.F. 25 DE ABRIL DE 2023.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
+
+D.O.F. 3 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 109 Y 113 DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
