@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-centro-de-justicia-para-las-mujeres-del-estado-de-12236
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2022-12-12"
+last_updated: "2024-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 3 de junio de 2017.
 
@@ -123,7 +123,9 @@ XVII. Organizaciones de la sociedad civil;
 
 XVIII. Poder Judicial del Estado, y
 
-XIX. Procuraduría General de Justicia del Estado.
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2024)</small>
+
+XIX. Fiscalía General del Estado.
 
 El Centro podrá celebrar convenio con los ayuntamientos de los municipios en donde se establezca, a fin de que estos últimos integren una representación municipal en las instalaciones del Centro, a través del DIF Estatal o, en su caso, de la instancia municipal que atienda a las mujeres; así mismo, para acordar que el municipio se haga cargo de los servicios municipales que requiera el Centro para su operación y funcionamiento.
 
@@ -179,7 +181,9 @@ XI. Enfoque intercultural: implica atender la posibilidad de diálogo entre dist
 
 El Centro brindará de manera integral y gratuita a las personas usuarias los siguientes servicios:
 
-I. Atención jurídica: que comprende asesorar, asistir, garantizar, proteger y representar a las víctimas y usuarias así como a sus menores hijos e hijas en todo lo referente a sus derechos legalmente reconocidos, en un marco de coordinación y coadyuvancia entre los servicios de atención a víctimas y el Ministerio Público como órgano investigador, así como ante los órganos jurisdiccionales competentes. Este servicio se brindará (sic) través del Departamento Jurídico y de las instituciones asociadas tales como el Centro de Atención Integral a Víctimas, la Defensoría Pública, la Procuraduría General de Justicia del Estado y el Instituto de las Mujeres del Estado, así como todas aquellas de naturaleza pública o privada que formen parte del Centro o se integren al mismo y estén en aptitud de prestar servicios en esta área ya sea en las instalaciones del mismo o de manera externa;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2024)</small>
+
+I. Atención jurídica: que comprende asesorar, asistir, garantizar, proteger y representar a las víctimas y usuarias así como a sus menores hijos e hijas en todo lo referente a sus derechos legalmente reconocidos, en un marco de coordinación y coadyuvancia entre los servicios de atención a víctimas y el Ministerio Público como órgano investigador, así como ante los órganos jurisdiccionales competentes. Este servicio se brindará través (sic) del Departamento Jurídico y de las instituciones asociadas tales como el Centro de Atención Integral a Víctimas, la Defensoría Pública, la Fiscalía General del Estado, y el Instituto de las Mujeres del Estado, así como todas aquellas de naturaleza pública o privada que formen parte del Centro o se integren al mismo y estén en aptitud de prestar servicios en esta área ya sea en las instalaciones del mismo o de manera externa;
 
 II. Atención a la seguridad: se presta mediante las acciones pertinentes para garantizar la seguridad requerida a las mujeres víctimas y usuarias y a sus menores hijas e hijos. Este servicio se otorga de manera inmediata mediante la gestión que realiza el área de trabajo social, jurídico o en la vía telefónica del Centro ante los Cuerpos de Seguridad Pública del Estado y Municipios según sea el caso, o bien derivando a las mujeres víctimas o usuarias y a sus menores hijos e hijas al Refugio en caso necesario.
 
@@ -259,7 +263,9 @@ El Consejo contará con un órgano de gobierno denominado Consejo Directivo el c
 
 I. La Secretaría General de Gobierno quien lo presidirá;
 
-II. La Procuraduría General de Justicia, quien ocupará la vicepresidencia;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2024)</small>
+
+II. La Fiscalía General del Estado, quien ocupará la vicepresidencia;
 
 III. La Coordinación General del Centro quien fungirá como Secretaría Técnica, y
 
@@ -1203,7 +1209,9 @@ III. Deberá evitar conciliar, mediar, carear o entrevistar a la víctima de vio
 
 IV. En los casos en que proceda, deberá promover las medidas de protección ante el juez u otorgarlas, conforme a las leyes vigentes, para salvaguardar la integridad de las mujeres usuarias víctimas de violencia, y la de sus hijas e hijos;
 
-V. Además de los reportes e informes que deba realizar a la Procuraduría, deberá entregar a la Coordinación General del Centro, la información cuantitativa sobre las usuarias atendidas e informar sobre los avances cualitativos de los procedimientos iniciados, a fin de que dicha información se agregue a las estadísticas de atención del Centro, y
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2024)</small>
+
+V. Además de los reportes e informes que deba realizar a la Fiscalía General del Estado, deberá entregar a la Coordinación General del Centro, la información cuantitativa sobre las usuarias atendidas e informar sobre los avances cualitativos de los procedimientos iniciados, a fin de que dicha información se agregue a las estadísticas de atención del Centro, y
 
 VI. Cuando de la denuncia presentada se infiera que la usuaria o víctima de violencia se encuentra en situación de riesgo, con su consentimiento y a través del área de trabajo social del Centro, hará las gestiones necesarias para que la misma y en su caso sus hijas e hijos menores sean ingresados al albergue temporal o a un Refugio según se requiera.
 
@@ -1326,5 +1334,13 @@ P.O. 12 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0547.- REFORMA A LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ, A LA LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ, A LA LEY DE LA PERSONA JOVEN PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ, ASÍ COMO A LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0994.- SE REFORMAN LOS ARTÍCULOS 3° LA FRACCIÓN XIX, 6° LA FRACCIÓN I, 9° LA FRACCIÓN II Y 77 LA FRACCIÓN V, DE LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
