@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-inclusion-de-las-personas-con-discapacidad-en-10238
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-12"
-last_updated: "2023-12-22"
+last_updated: "2024-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2024.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 12 de septiembre de 2014.
 
@@ -445,6 +445,14 @@ Es derecho de los padres o tutores, recibir la información sobre la situación 
 
 Las instituciones de salud pública y privada proveerán lo necesario para que los padres de familia o tutores cuenten con la información de salud necesaria o requerida.
 
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2024)</small>
+
+Cuando el no nacido o neonato sea diagnosticado con alguna discapacidad, las instituciones de salud públicas deberán brindar información y acompañamiento a los padres acerca del tipo de discapacidad y respecto a la atención que como padres deben garantizarle en su vida cotidiana, así como canalizarlos ante las áreas especializadas correspondientes.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2024)</small>
+
+La Secretaría de Salud vinculará a las niñas y niños con discapacidad con los Centros de Desarrollo Infantil, a las Unidades Básicas de Rehabilitación, o al Centro de Rehabilitación de Educación Especial, a fin de que reciban estimulación temprana para un desarrollo integral en la primera infancia, que les permita desarrollar al máximo las capacidades cognitivas, físicas, emocionales, sociales, afectivas y lingüísticas.
+
 ###### Artículo 29.
 
 Los hospitales que funcionen con recursos públicos promoverán la inclusión de una sección pedagógica atendida por personal especializado para evitar el rezago del proceso educativo de los alumnos con discapacidad en edad escolar internados por períodos de tiempo prolongados durante el ciclo escolar; así mismo se promoverá dicha práctica en los hospitales del sector privado.
@@ -473,9 +481,17 @@ III. El fomento y la promoción de todas las potencialidades de las personas con
 
 IV. Desarrollar al máximo su capacidad de aprendizaje;
 
-V. La inclusión a la vida social y al sistema de trabajo que permita a la persona con discapacidad servirse a sí mismo, a la sociedad y auto realizarse; e,
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2024)</small>
 
-VI. Informar, orientar y capacitar a los padres de familia o tutores de las personas con discapacidad considerando que este núcleo es el primer y más importante referente para su desarrollo físico, emocional, intelectual y social.
+V. La inclusión a la vida social y al sistema de trabajo que permita a la persona con discapacidad servirse a sí mismo, a la sociedad y auto realizarse;
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2024)</small>
+
+VI. Informar, orientar y capacitar a los padres de familia o tutores de las personas con discapacidad considerando que este núcleo es el primer y más importante referente para su desarrollo físico, emocional, intelectual y social; y,
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2024)</small>
+
+VII. El desarrollo integral en la primera infancia mediante la estimulación temprana, encaminada a conformar adecuadamente el sistema nervioso con el fin de conseguir el máximo de conexiones neuronales, como un apoyo para desarrollar las capacidades cognitivas, físicas, emocionales, sociales afectivas y lingüísticas.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE MAYO DE 2018)</small>
 
@@ -545,7 +561,9 @@ XXVI. Las demás que dispongan otros ordenamientos.
 
 Las niñas y los niños con discapacidad gozan del derecho a la admisión gratuita y obligatoria, así como a la atención especializada, en los centros de desarrollo infantil y guarderías públicas, una vez que cumplan con los requisitos. Las niñas y niños con discapacidad no podrán ser condicionados en su inclusión a la educación inicial o preescolar.
 
-Las personas con discapacidad puedan acceder a una educación básica y media superior inclusiva, de calidad y gratuita, en igualdad de condiciones con las demás, en la comunidad en que vivan.
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2024)</small>
+
+Las personas con discapacidad tienen derecho a acceder a estimulación temprana, educación básica y media superior inclusiva, de calidad y gratuita, en igualdad de condiciones con las demás, en la comunidad en que vivan.
 
 Asimismo tienen acceso general a la educación superior, la formación profesional, la educación para adultos y el aprendizaje durante toda la vida sin discriminación y en igualdad de condiciones con las demás.
 
@@ -1322,3 +1340,15 @@ PRIMERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SEGUNDO. Notifíquese al Gobernador Constitucional del Estado de Michoacán de Ocampo, para que se sirva ordenar su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 TERCERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 3 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 566.- ARTÍCULO PRIMERO. SE ADICIONA UN TERCER Y CUARTO PÁRRAFO AL ARTÍCULO 28; SE REFORMAN LAS FRACCIONES V Y VI Y SE ADICIONA LA FRACCIÓN VII DEL ARTÍCULO 32; SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 34, TODOS DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
