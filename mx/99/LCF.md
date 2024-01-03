@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "2018-01-30"
+last_updated: "2024-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACIÓN FISCAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ENERO DE 2024.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 27 de diciembre de 1978.
 
@@ -986,6 +986,14 @@ Dichos Fondos se integrarán, distribuirán, administrarán, ejercerán y superv
 
 El Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo será administrado por la Secretaría de Hacienda y Crédito Público, y la transferencia de los recursos de dicho Fondo se realizará en los términos previstos en el artículo 26-A de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2024)</small>
+
+Las entidades federativas que no suscriban el convenio mencionado en el artículo 77 bis 16 A, de la Ley General de Salud, se sujetarán a lo previsto en la presente Ley, respecto del Fondo de Aportaciones para los Servicios de Salud.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2024)</small>
+
+En el caso de las entidades federativas que suscriban o hayan suscrito el convenio previsto en el artículo 77 bis 16 A de la Ley General de Salud con Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) recibirán el monto de los recursos que correspondan del Fondo de Aportaciones para los Servicios de Salud, con objeto de destinarlo a las obligaciones que conserven en términos de la Ley General de Salud, de conformidad con lo que se señale en el convenio antes citado.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
@@ -1100,11 +1108,11 @@ Las autoridades federales y de las entidades federativas, tanto en materia educa
 
 Para tal efecto, los gobiernos estatales y del Distrito Federal proporcionarán al Ejecutivo Federal a través de la Secretaría de Educación Pública, la información financiera y operativa que les sea requerida para el mejor cumplimiento de las atribuciones que en materia de planeación, programación y evaluación del Sistema Educativo Nacional, correspondan a la Federación.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2024)</small>
 
 ###### ARTICULO 29.
 
-Con cargo a las aportaciones que del Fondo de Aportaciones para los Servicios de Salud les correspondan, los Estados y el Distrito Federal recibirán los recursos económicos que los apoyen para ejercer las atribuciones que en los términos de los artículos 3o.,13 y 18 de la Ley General de Salud les competan.
+Con cargo a las aportaciones que del Fondo de Aportaciones para los Servicios de Salud les correspondan a las entidades federativas que no suscriban el convenio previsto en el artículo 77 bis 16 A de la Ley General de Salud con Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR), ejercerán las atribuciones que en términos de la Ley General de Salud les competan. Asimismo, dicho Fondo será aplicable para las entidades federativas que suscriban o hayan suscrito el referido convenio de coordinación, en términos de lo señalado en el último párrafo del artículo 25 de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1119,6 +1127,14 @@ II.- Por los recursos que con cargo a las Previsiones para Servicios Personales 
 III.- Por los recursos que la Federación haya transferido a las entidades federativas, durante el ejercicio fiscal inmediato anterior a aquel que se presupueste, para cubrir el gasto de operación e inversión, excluyendo los gastos eventuales de inversión en infraestructura y equipamiento que la Federación y las entidades correspondientes convengan como no susceptibles de presupuestarse en el ejercicio siguiente y por los recursos que para iguales fines sean aprobados en el Presupuesto de Egresos de la Federación en adición a los primeros; y
 
 IV.- Por otros recursos que, en su caso, se destinen expresamente en el Presupuesto de Egresos de la Federación a fin de promover la equidad en los servicios de salud, mismos que serán distribuidos conforme a lo dispuesto en el artículo siguiente.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2024)</small>
+
+Para determinar cada año en el Presupuesto de Egresos de la Federación el monto del Fondo de Aportaciones para los Servicios de Salud, respecto de las entidades a que se refiere el artículo 25, último párrafo, de la presente Ley, no se deberán considerar como parte de los elementos a que se refiere el párrafo anterior, los recursos y, en su caso, las plazas que, durante los ejercicios fiscales anteriores a aquel que se presupueste, se hayan traspasado o transferido del Ramo General 33 a Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) con motivo de los convenios de coordinación que celebre con las entidades federativas en términos del artículo 77 bis 16 A de la Ley General de Salud.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2024)</small>
+
+El monto que corresponda a Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) en términos de los convenios de coordinación que éste suscriba con las entidades federativas conforme a lo previsto en el artículo 77 bis 16 A de la Ley General de Salud, se asignará de origen en el Presupuesto de Egresos de la Federación a dicho organismo, salvo los montos que correspondan a lo previsto en el último párrafo del artículo 25 de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -2375,3 +2391,29 @@ Cuarto.- En lo correspondiente al segundo párrafo del artículo 14 de la Ley de
 El tercer párrafo del artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, entrará en vigor a partir del ejercicio fiscal 2019.
 
 Para efectos del cuarto párrafo del artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, sólo se considerarán los Ingresos de libre disposición destinados a un fin específico en términos de las leyes que a la fecha de la entrada en vigor del presente Decreto se encuentren vigentes.
+
+D.O.F. 3 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL Y DE LA LEY GENERAL DE SALUD, PARA CONSOLIDAR LA FEDERALIZACIÓN DEL SISTEMA DE SALUD PARA EL BIENESTAR".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Para dar cumplimiento a lo previsto en el presente Decreto, quedarán sin efectos los Acuerdos de Coordinación para la Descentralización Integral de los Servicios de Salud en aquellas entidades federativas que hayan suscrito o que suscriban el Convenio de Coordinación con Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) a que se refieren los artículos 77 bis 6 y 77 bis 16 A de la Ley General de Salud.
+
+Tercero. Por lo que respecta al ejercicio fiscal 2024, Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) a más tardar el 31 de marzo de 2024 deberá realizar las conciliaciones respectivas, contar con la opinión de la Secretaría de Hacienda y Crédito Público, y modificar los convenios de coordinación que haya suscrito en el ejercicio fiscal 2023 con las entidades federativas en términos del artículo 77 bis 16 A de la Ley General de Salud, a efecto de adecuarlos a lo previsto en el presente Decreto. Una vez modificados dichos convenios, deberá gestionar en términos de las disposiciones aplicables ante la Secretaría de Salud y la Secretaría de Hacienda y Crédito Público las adecuaciones presupuestarias respectivas con objeto de llevar a cabo el traspaso de recursos que correspondan del Ramo General 33 a Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR), quedando la Secretaría de Hacienda y Crédito Público facultada para autorizar las adecuaciones correspondientes.
+
+En este caso, Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR), será responsable del ejercicio, administración, aplicación, comprobación, transparencia, y rendición de cuentas de estos recursos.
+
+Cuarto. Las entidades federativas que suscriban los convenios de coordinación a que se refiere el artículo 77 bis 16 A de la Ley General de Salud continuarán recibiendo los recursos del Fondo de Aportaciones para los Servicios de Salud vinculados a los trabajadores que cuenten con regímenes de seguridad social no compatibles con la Ley del Seguro Social y la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado. Las entidades federativas deberán transferir dichos recursos junto con los rendimientos financieros que se hayan generado, al fideicomiso público sin estructura orgánica a que hace mención el artículo 77 bis 29 de la Ley General de Salud dentro de los cinco días hábiles contados a partir del día hábil siguiente al que los reciban por parte de la Secretaría de Hacienda y Crédito Público, lo anterior para efectos de lo previsto en el artículo 49, segundo párrafo, de la Ley de Coordinación Fiscal. Dichos recursos deberán encontrarse identificados en el Fondo referido en subcuentas individuales correspondientes a cada entidad federativa.
+
+Las entidades federativas comprobarán el ejercicio de los recursos del Fondo de Aportaciones para los Servicios de Salud y de los intereses respectivos que sean entregados en términos del párrafo anterior, con la documentación que acredite la aportación de los mismos al fideicomiso antes referido, lo anterior, para efectos de lo establecido en la Ley de Coordinación Fiscal, en la Ley General de Contabilidad Gubernamental, y en las demás disposiciones aplicables.
+
+Quinto. En términos de los convenios de coordinación a que se refiere el artículo 77 bis 16 A de la Ley General de Salud, las entidades federativas continuarán entregando los recursos propios para la prestación de los servicios de salud al Fondo de Salud para el Bienestar.
+
+Sexto. Se faculta a la Secretaría de Hacienda y Crédito Público para realizar las modificaciones que resulten necesarias a los calendarios de gasto a que se refiere el artículo 44, último párrafo de la Ley Federal de Presupuesto y Responsabilidad Hacendaria para dar cumplimiento a lo establecido en el presente Decreto.
+
+Séptimo. Los derechos laborales individuales de los trabajadores que con motivo del presente Decreto se transfieran a Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) serán respetados en términos de las disposiciones aplicables.
+
+Octavo. Se faculta a las Dependencias y Entidades de la Administración Pública Federal para que en los ejercicios fiscales subsecuentes realice las adecuaciones presupuestarias necesarias en términos de las disposiciones aplicables, para que los recursos que correspondan del Ramo General 33 se traspasen a Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) en aquellos casos en que una entidad federativa suscriba el convenio de coordinación a que se refiere el artículo 77 bis 16 A de la Ley General de Salud con fecha posterior a la entrada en vigor del presente Decreto.
+
+Noveno. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado de los ejecutores de gasto que correspondan.
