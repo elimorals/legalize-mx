@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-ejecutivo-para-el-estado-de-18976"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-15"
-last_updated: "2023-11-20"
+last_updated: "2024-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2024.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de diciembre del año 2000.
 
@@ -237,11 +237,9 @@ Las dependencias del Poder Ejecutivo, ejercerán las funciones de coordinadoras 
 
 Los titulares de las Secretarías serán nombrados por el Gobernador del Estado, ejercerán sus funciones por acuerdo del mismo, de conformidad con lo que señala esta Ley y dictarán las resoluciones que les competan.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 6 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2017)</small>
-
-El titular de la Secretaría de la Transparencia y Rendición de Cuentas será nombrado por el Gobernador del Estado con la ratificación de las dos terceras partes de los integrantes del Congreso del Estado; en tanto se apruebe el nombramiento aquél, podrá designar un encargado de despacho. La persona que nombre el Gobernador del Estado, no podrá ser o haber sido dirigente de partido o asociación política a nivel nacional, estatal o municipal o candidato a un puesto de elección popular, ni ministro de ningún culto religioso, en los cinco años anteriores a su nombramiento.
+El titular de la Secretaría de la Transparencia y Rendición de Cuentas será nombrado por el Gobernador del Estado con la ratificación de las dos terceras partes de los integrantes del Congreso del Estado; en tanto se apruebe el nombramiento aquél, podrá designar un encargado de despacho.
 
 > <small>(ADICIONADO, P.O. 12 DE MARZO DE 2019)</small>
 
@@ -2480,3 +2478,9 @@ P.O. 20 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 235, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO Y LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 4 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 301, EXPEDIDO POR LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 17 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
