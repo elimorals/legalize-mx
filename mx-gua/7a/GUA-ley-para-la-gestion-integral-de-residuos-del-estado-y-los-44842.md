@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-gestion-integral-de-residuos-del-estado-y-los-44842
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-10"
-last_updated: "2018-10-10"
+last_updated: "2024-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44842&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY PARA LA GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE OCTUBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2024.
 
 Ley Publicada en el Periódico Oficial del Estado de Guanajuato, el 10 de mayo de 2005.
 
@@ -497,13 +495,17 @@ VIII. Generar acciones para inhibir el uso de popotes, bolsas de plástico, y de
 
 Dichos residuos generados deberán estar sujetos a los planes de manejo;
 
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2024)</small>
+
+IX. Proponer acciones o mecanismos para inhibir el uso de facturas, recibos o comprobantes de papel, derivados de transacciones comerciales de compraventa, servicios prestados u operaciones realizadas, salvo que su utilización sea solicitada expresamente.
+
 > <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-IX. Reducir la generación de residuos inorgánicos a través de campañas y programas para concientizar a la población sobre la preservación, restauración ecológica, y la eliminación paulatina del uso de productos de plástico que no sean biodegradable (sic); y
+X. Reducir la generación de residuos inorgánicos a través de campañas y programas para concientizar a la población sobre la preservación, restauración ecológica, y la eliminación paulatina del uso de productos de plástico que no sean biodegradable (sic); y
 
 > <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-X. Generar políticas públicas tendientes a la sustitución progresiva del uso de materiales que generen residuos inorgánicos por aquellos que sean biodegradables.
+XI. Generar políticas públicas tendientes a la sustitución progresiva del uso de materiales que generen residuos inorgánicos por aquellos que sean biodegradables.
 
 ###### Artículo 29.
 
@@ -1006,3 +1008,9 @@ Artículo Noveno. El Gobernador del Estado expedirá los reglamentos, así como 
 En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
 
 Artículo Décimo. Los ayuntamientos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.
+
+P.O. 4 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 300, EXPEDIDO POR LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN IX, RECORRIENDO EN SU ORDEN EL CONTENIDO DE LAS ACTUALES FRACCIONES IX Y X, AL ARTÍCULO 28 DE LA LEY PARA LA GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
