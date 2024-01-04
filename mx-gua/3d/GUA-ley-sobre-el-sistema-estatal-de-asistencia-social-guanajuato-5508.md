@@ -4,7 +4,7 @@ identifier: "GUA-ley-sobre-el-sistema-estatal-de-asistencia-social-guanajuato-55
 country: "mx"
 rank: "ley"
 publication_date: "1986-09-19"
-last_updated: "2022-12-30"
+last_updated: "2024-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y FORTALECIMIENTO FAMILIAR PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 4 DE ENERO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2024 (ABROGADA).
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 19 de septiembre de 1986.
 
@@ -1060,3 +1062,31 @@ P.O. 30 DE DICIEMBRE DE 2022.
 Inicio de vigencia
 
 Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 4 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 298, EXPEDIDO POR LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE EXPIDE LA LEY DE ASISTENCIA SOCIAL Y FORTALECIMIENTO FAMILIAR PARA EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogaciones y derogación tácita
+
+Artículo Segundo. Se abroga la Ley sobre el Sistema Estatal de Asistencia Social contenida en el Decreto Legislativo número 5, publicada en el Periódico Oficial del Gobierno del Estado de Guanajuato número 75, segunda parte el 19 de septiembre de 1986; y la Ley de Organizaciones de Asistencia Social para el Estado de Guanajuato, contenida en el Decreto Legislativo número 172, publicada en el Periódico Oficial del Gobierno del Estado de Guanajuato número 92, segunda parte el 10 de junio de 2014; así como las demás disposiciones que se opongan a lo dispuesto por esta ley.
+
+Instalación de la Comisión del Sistema de Asistencia Social y Fortalecimiento Familiar del Estado de Guanajuato
+
+Artículo Tercero. La Comisión del Sistema de Asistencia Social y Fortalecimiento Familiar del Estado de Guanajuato deberá instalarse dentro de los 90 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+Referencias a los ordenamientos abrogados
+
+Artículo Cuarto. Las referencias que en otros ordenamientos se hagan a la Ley sobre el Sistema Estatal de Asistencia Social, y a la Ley de Organizaciones de Asistencia Social para el Estado de Guanajuato, se entenderán hechas a la Ley de Asistencia Social y Fortalecimiento Familiar para el Estado de Guanajuato.
+
+Reglamentación en el ámbito estatal
+
+Artículo Quinto. El Titular del Poder Ejecutivo del Estado expedirá y en su caso actualizará los reglamentos que deriven del contenido del presente Decreto, en un plazo no mayor de 120 días contados a partir de su entrada en vigencia. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a éste, acorde a lo establecido en el artículo segundo transitorio del presente Decreto.
+
+Reglamentación en el ámbito municipal
+
+Artículo Sexto. Los municipios expedirán o, en su caso, actualizarán los reglamentos que deriven del contenido del presente Decreto, en un plazo no mayor de 120 días contados a partir de la entrada en vigor del mismo.
