@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-servicio-profesional-de-carrera-en-566
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-06"
-last_updated: "2007-09-06"
+last_updated: "2024-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56607&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-09-04"
 
 REGLAMENTO DE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA EN LA ADMINISTRACION PUBLICA FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE ENERO DE 2024.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 6 de septiembre de 2007.
 
@@ -37,39 +37,59 @@ REGLAMENTO DE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA EN LA ADMINISTRACIÓN P
 
 El presente ordenamiento tiene por objeto reglamentar la Ley del Servicio Profesional de Carrera en la Administración Pública Federal.
 
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+En la aplicación del presente reglamento debe atenderse a lo dispuesto en el artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos, que señala la prohibición de todo tipo de discriminación que vulnere los derechos de las personas, y lo dispuesto en la Ley Federal para Prevenir y Eliminar la Discriminación.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+Son susceptibles de aplicación para este reglamento, las acciones afirmativas encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres en materia del Servicio Profesional de Carrera de la Administración Pública Federal Centralizada, así como promover acciones que favorezcan la inclusión y profesionalización de personas jóvenes, indígenas, afrodescendientes, afromexicanas y con discapacidad, conforme a los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados y convenios internacionales, y demás disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
 ###### Artículo 2.
 
-Para los efectos del presente Reglamento, en adición a los términos que define la Ley en su artículo 3, se entenderá por:
+Para efectos del presente reglamento, además de lo previsto en el artículo 3 de la Ley, se entiende por:
 
-I. Capacidades: A los conocimientos, habilidades y aptitudes requeridos para el adecuado desempeño de los servidores públicos de carrera en un puesto;
+I. Ascenso: la promoción de un servidor público de carrera a un mayor rango o grupo en la estructura jerárquica de la dependencia en la que labora o presta sus servicios;
 
-II. Convenio: El instrumento jurídico a que se refiere el artículo 43 de la Ley, que celebran las dependencias con autoridades federales, estatales, municipales y del Distrito Federal y organismos públicos o privados para fomentar el desarrollo profesional y experiencias a través del intercambio de recursos humanos;
+II. Capacidades profesionales: el conjunto de conocimientos, actitudes y habilidades del servidor público de carrera, las cuales se refieren a las competencias requeridas para el adecuado desempeño en un puesto, y serán objeto de evaluación y, en su caso, certificación;
 
-III. DGRH: A las Direcciones Generales de Recursos Humanos, o unidades administrativas encargadas de la administración de los recursos humanos, cualquiera que sea su nivel o denominación;
+III. Convenio: el acto jurídico al que se refiere el artículo 43 de la Ley, que celebran las dependencias con las autoridades federales, las entidades federativas, los municipios, las demarcaciones territoriales de la Ciudad de México y los organismos públicos o privados para fortalecer el desarrollo profesional del servidor público de carrera;
 
-IV. Estímulos o reconocimientos económicos: A la remuneración extraordinaria en numerario, susceptible de otorgarse a un servidor público de carrera por su desempeño destacado, la cual en ningún caso se considerará un ingreso fijo, regular o permanente ni formará parte de la percepción ordinaria;
+IV. Cuerpo de función: la clasificación de la rama de cargo o puesto con base en grupos de funciones vinculadas por sus actividades y capacidades profesionales y que es la base para permitir la movilidad vertical u horizontal de los servidores públicos de carrera mediante los procesos de profesionalización;
 
-V. Experiencia: Conocimientos y habilidades generados a través del tiempo, considerando entre otros elementos, el orden y duración en los puestos desempeñados en el sector público, privado o social, el nivel de responsabilidad, de remuneración y la relevancia de las funciones o actividades encomendadas;
+V. DGRH: las unidades administrativas de las dependencias encargadas de la administración de los recursos humanos, cualquiera que sea su nivel o denominación;
 
-VI. Finalista: La persona que en un concurso de ingreso apruebe las etapas señaladas en las fracciones I, II, III y IV del artículo 34 de este Reglamento;
+VI. Expediente: el conjunto de documentos del concurso o del servidor público de carrera que debe integrar la DGRH con relación a su ingreso, permanencia y separación del sistema, el cual se va integrando conforme se actualiza cada uno de los procesos o procedimientos de los subsistemas del Servicio Profesional de Carrera de la Administración Pública Federal Centralizada;
 
-VII. Incentivos: La distinción de carácter no económico que tiene como propósito motivar el excelente desempeño de los servidores públicos de carrera, y puede consistir en apoyos institucionales para el desarrollo profesional del servidor público de carrera, así como en el otorgamiento de días adicionales de descanso, entre otros beneficios;
+VII. Experiencia: los conocimientos y habilidades adquiridas a través del tiempo, para lo cual se debe considerar, entre otros elementos, el orden y duración en los puestos desempeñados en el sector público, privado o social, el nivel de responsabilidad, de remuneración y la relevancia de las funciones o actividades encomendadas;
 
-VIII. Ley: La Ley del Servicio Profesional de Carrera en la Administración Pública Federal;
+VIII. Finalista: la persona que en un concurso de selección apruebe las etapas señaladas en las fracciones I, II, III y IV del artículo 34 de este reglamento;
 
-IX. Mérito: Los logros, distinciones, reconocimientos o premios obtenidos en el ejercicio profesional o por destacar en alguna actividad en lo individual, así como en el desempeño de empleos, cargos o comisiones en el servicio público o privado;
+IX. Incentivo: la distinción con el que una dependencia motiva a los servidores públicos de carrera para que sean más eficaces y eficientes en sus resultados de desempeño esperados, y propicien su satisfacción laboral y desarrollo profesional;
 
-X. Movimiento o trayectoria lateral: Los cambios del servidor público de carrera a otro puesto con características y perfil equivalentes, homólogos o afines, en la misma u otra dependencia;
+X. Ley: la Ley del Servicio Profesional de Carrera en la Administración Pública Federal;
 
-XI. Puestos de designación directa: Aquellos puestos que no están sujetos a la Ley, en virtud de que el procedimiento para realizar la designación o expedir el nombramiento de su titular, se encuentra previsto expresamente en alguna disposición a nivel constitucional o legal;
+XI. Mérito: el conjunto de elementos que componen la trayectoria profesional del servidor público de carrera, la cual se integra con aquellos elementos, resultados o merecimientos que permitan acreditar o reconocer objetivamente su calidad profesional en su desempeño, entre los cuales se pueden considerar: sus evidencias de experiencia, sus estudios y actividades de formación o difusión, sus capacidades profesionales, los resultados de desempeño, sus logros, sus distinciones y las contribuciones a la dependencia para cumplir con los objetivos de la misma, así como aquellos aspectos que determine la Unidad;
 
-XII Puestos de libre designación: Los puestos que cumplan con los requisitos señalados en el artículo 91 de este Reglamento, así como con los criterios generales establecidos por la Secretaría;
+XII. Movimiento o trayectoria lateral: los cambios del servidor público de carrera a otro puesto con características y perfil equivalentes, homólogos o afines, en la misma u otra dependencia;
 
-XIII. Rama de cargo o puesto: La sistematización de puestos que por sus características y particularidades guardan afinidad, por lo que son susceptibles de clasificarse en conjuntos y subconjuntos, ya sea por rango, por nivel jerárquico, por ámbito de competencia, por materia, por funciones, por nivel de responsabilidad, entre otros;
+XIII. Persona servidora pública de libre designación: la persona física que ocupa un puesto de libre designación y que no adquiere los derechos del Servicio Profesional de Carrera, pero está sujeta a los procedimientos de evaluación del desempeño;
 
-XIV. Servidor público de libre designación: La persona física que desempeña un puesto de libre designación y que no forma parte del Servicio Profesional de Carrera, pero está sujeto a los procedimientos de evaluación del desempeño, y
+XIV. Programa Anual de Planeación del Sistema: el documento que emiten los Comités Técnicos de Profesionalización conforme a lo dispuesto en las fracciones IV y VI del artículo 75 de la Ley, mediante el cual se proponen acciones y metas específicas en materia de ingreso, desarrollo, capacitación, evaluación y separación en las dependencias, y su elaboración debe atender lo dispuesto por la Secretaría;
 
-XV. Unidad: La Unidad de Recursos Humanos y Profesionalización de la Administración Pública Federal, adscrita a la Secretaría de la Función Pública.
+XV. Programa Operativo Anual del Sistema: el documento que, en términos del artículo 64 de la Ley, elabora la Secretaría con el apoyo de las dependencias y funge como mecanismo de evaluación de la operación del Sistema, a efecto de contar con elementos suficientes para su perfeccionamiento;
+
+XVI. Promoción: el mecanismo de movilidad para que un servidor público de carrera ocupe un cargo dentro del Sistema de mayor responsabilidad o jerarquía, derivado del desarrollo profesional o por reconocimiento de elementos de mérito;
+
+XVII. Puestos de designación directa: los puestos que no están sujetos a la Ley, en virtud de que el procedimiento para realizar la designación o expedir el nombramiento de su titular, se encuentra previsto expresamente en la Constitución Política de los Estados Unidos Mexicanos o en alguna otra ley;
+
+XVIII. Puestos de libre designación: los puestos que cumplen con los requisitos de excepción señalados en el artículo 91 de este reglamento, así como con los criterios generales establecidos por la Secretaría, y están sujetos a los procedimientos de evaluación del desempeño del Sistema;
+
+XIX. Rebeldía: la falta de respuesta del servidor público de carrera formalmente requerido para que comparezca a la defensa de sus derechos dentro de un plazo determinado en alguno de los procesos o procedimientos previstos en la Ley o en este reglamento, y
+
+XX. Unidad: la Unidad de Política de Recursos Humanos de la Administración Pública Federal de la Secretaría.
 
 ###### Artículo 3.
 
@@ -91,9 +111,13 @@ V. Imparcialidad: Es actuar sin conceder preferencias o privilegios a persona al
 
 VI. Equidad: Es la igualdad de oportunidades, sin discriminación por razones de edad, raza o etnia, condiciones de salud, capacidades diferentes, religión o credo, estado civil, condición social o preferencia política;
 
-VII. Competencia por Mérito: Es la valoración de las capacidades de los aspirantes a ingresar al Sistema y de los servidores públicos de carrera, con base en los conocimientos, habilidades, experiencia y, en su caso, en los logros alcanzados en el cumplimiento de las metas individuales, colectivas e institucionales, y
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
 
-VIII. Equidad de Género: Es la igualdad de oportunidades para cualquier persona sin distinción de su sexo.
+VII. Competencia por mérito: Es la valoración integral de las capacidades de las personas aspirantes a ingresar al Sistema, así como de los servidores públicos de carrera, que se efectúa con base en la relación que existe entre los siguientes elementos: experiencia, estudios y actividades de formación y difusión, actitudes, competencias, resultados de desempeño en el cumplimiento de sus programas de trabajo, logros, y contribuciones que realizan para el cumplimiento de los objetivos institucionales de las dependencias, y
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
+
+VIII. Igualdad de género: Es el acceso de las mujeres y hombres a las mismas posibilidades y oportunidades para el reconocimiento, goce o ejercicio de los derechos que reconoce la Ley y el presente reglamento.
 
 ### Capítulo Segundo. De los Servidores Públicos de Carrera
 
@@ -115,61 +139,77 @@ a) Los que ingresan al Sistema, mediante concurso público y abierto, con excepc
 
 b) Los que ingresan al Sistema, cuando han obtenido su nombramiento al acreditar cumplir los requisitos y las evaluaciones que se hayan establecido para ese propósito.
 
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+Los servidores públicos de carrera eventuales a que se refiere la fracción I, inciso a, de este artículo, tienen los derechos a que se refiere el artículo 10 de la Ley, excepto los previstos en sus fracciones I, VII y VIII, los cuales adquirirán en caso de que se otorgue el nombramiento como titular.
+
 ###### Artículo 6.
 
 El nombramiento que se otorgue a los servidores públicos de carrera deberá contener, al menos, la siguiente información:
 
-I. El carácter de titular o eventual, según corresponda;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
 
-II. El nombre del servidor público de carrera al que se extiende el nombramiento;
+I. Clasificación del servidor público de carrera, según corresponda, en titular o eventual;
 
-III. El rango que tendrá el servidor público de carrera;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
 
-IV. La denominación del puesto;
+II. Nombre del servidor público de carrera;
 
-V. La fecha a partir de la cual surte efectos el nombramiento;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
 
-VI. En su caso, la vigencia del mismo, y
+III. Rango que tendrá el servidor público de carrera;
 
-VII. El nombre, el puesto y la firma de quien emite el nombramiento, de conformidad con el Reglamento Interior que corresponda.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
+
+IV. Denominación del puesto;
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
+
+V. Fecha a partir de la cual surte efectos el nombramiento;
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
+
+VI. Vigencia del nombramiento, en su caso, y
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
+
+VII. Nombre, puesto y firma de la persona que tiene facultades para emitir el nombramiento, de conformidad con el reglamento interior correspondiente.
 
 En todos los casos, el servidor público de carrera al tomar posesión de su puesto, deberá rendir la protesta a que se refiere el artículo 128 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ### Capítulo Tercero. De la Organización del Servicio Profesional de Carrera
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
 ###### Artículo 7.
 
-La Secretaría se apoyará en la Unidad para efectos de programar, dirigir, coordinar, evaluar y dar seguimiento a la operación y funcionamiento del Sistema.
+Corresponde a la Secretaría, a través de la Unidad, programar, dirigir, coordinar, evaluar y dar seguimiento a la implementación, operación y funcionamiento del Sistema.
 
-Dicha Unidad será la responsable de la dirección y coordinación de los Subsistemas de Planeación de los Recursos Humanos; de Ingreso; de Desarrollo Profesional; de Capacitación y Certificación de Capacidades; de Evaluación del Desempeño; de Separación, y de Control y Evaluación, en términos del reglamento interior de la Secretaría.
+La Unidad es la responsable de la dirección y coordinación de los subsistemas de Planeación de los Recursos Humanos, de Ingreso, de Desarrollo Profesional, de Capacitación y Certificación de Capacidades, de Evaluación del Desempeño, de Separación, y de Control y Evaluación, en términos del Reglamento Interior de la Secretaría de la Función Pública y demás disposiciones aplicables.
 
-La definición de la operación integral de los subsistemas a que se refiere el párrafo anterior será responsabilidad de las unidades administrativas siguientes:
-
-I. Dirección General de Planeación, Organización y Compensaciones de la Administración Pública Federal;
-
-II. Dirección General de Ingreso, Capacitación y Certificación;
-
-III. Dirección General de Atención a Instituciones Públicas en Recursos Humanos;
-
-IV. Dirección General de Evaluación de Sistemas de Profesionalización, y
-
-V. Las demás unidades administrativas que al efecto se determinen.
+La operación integral de los subsistemas a que se refiere el párrafo anterior corresponde a las unidades administrativas que determine el Reglamento Interior de la Secretaría de la Función Pública.
 
 ### Capítulo Cuarto. Del Consejo Consultivo del Sistema
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
 ###### Artículo 8.
 
-El titular de la Secretaría presidirá el Consejo, el Subsecretario de la Función Pública fungirá como Vicepresidente y el titular de la Unidad como Secretario Técnico del mismo.
+La persona titular de la Secretaría preside el Consejo y designa a las personas servidoras públicas que deben ocupar la Vicepresidencia y la Secretaría Técnica de dicho Consejo.
 
-En casos de ausencia del Secretario de la Función Pública, las sesiones del Consejo serán presididas por el Vicepresidente.
+En casos de ausencia de la persona titular de la Presidencia del Consejo, las sesiones serán presididas por la persona titular de la Vicepresidencia.
 
 ###### Artículo 9.
 
 Para efectos del artículo 70 de la Ley, los responsables de cada subsistema serán:
 
-I. El Titular de la Unidad, en su carácter de responsable de la dirección y coordinación de los subsistemas, y
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
 
-II. Los titulares de las unidades administrativas de la Secretaría a que se refieren las fracciones I a V del artículo 7 de este Reglamento.
+I. La persona titular de la Unidad, en su carácter de responsable de la dirección y coordinación de los subsistemas, y
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
+
+II. Las personas titulares de las unidades administrativas que determine el Reglamento Interior de la Secretaría de la Función Pública.
 
 ###### Artículo 10.
 
@@ -179,11 +219,13 @@ Con excepción de los presidentes de los Comités Técnicos de Profesionalizaci�
 
 Los representantes de los sectores social, privado y académico en el Consejo participarán con carácter honorífico, y serán invitados a propuesta del Presidente del mismo.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
 ###### Artículo 12.
 
-El Consejo sesionará de manera ordinaria por lo menos dos veces al año y de manera extraordinaria a convocatoria de su Presidente. Sus determinaciones se tomarán por mayoría de los miembros presentes y, en caso de empate, el Presidente tendrá voto de calidad. El quórum para sesionar deberá ser de la mitad más uno de sus integrantes.
+El Consejo debe sesionar de manera ordinaria una vez al año y de manera extraordinaria a convocatoria de la persona titular de su Presidencia. Sus determinaciones se deben tomar por mayoría de las personas integrantes presentes; en caso de empate, la persona titular de la Presidencia tendrá voto de calidad. El quórum para sesionar se integra con más de la mitad de sus integrantes.
 
-El Secretario Técnico levantará una minuta de los acuerdos adoptados en cada sesión, la cual para su validez sólo requerirá ser suscrita por el Presidente del Consejo o el Vicepresidente, cuando éste presida la sesión, y por el Secretario Técnico.
+La persona titular de la Secretaría Técnica debe levantar una minuta de los acuerdos adoptados en cada sesión, la cual para su validez sólo requiere ser suscrita por la persona titular de la Presidencia del Consejo o por la persona titular de la Vicepresidencia, cuando ésta presida la sesión, y por la persona titular de la Secretaría Técnica.
 
 ### Capítulo Quinto. De los Comités Técnicos de Profesionalización
 
@@ -199,9 +241,13 @@ Dichos Comités tendrán las mismas facultades que la Ley y este Reglamento esta
 
 Los Comités Técnicos de Profesionalización estarán integrados por:
 
-I. El Oficial Mayor de la dependencia o su equivalente, quien lo presidirá;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
 
-II. El titular de la DGRH, o bien, por el servidor público de carrera del área de recursos humanos que designe el titular de la dependencia cuando en la misma no se cuente con aquél o se encuentre vacante el puesto. Dicho servidor público fungirá como secretario técnico, y
+I. La persona titular de la Unidad de Administración y Finanzas o su equivalente de cada dependencia, según corresponda, quien lo preside;
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
+
+II. La persona titular de la DGRH o la persona servidora pública del área de recursos humanos que designe la persona titular de la dependencia cuando aquélla se encuentre ausente temporalmente o esté vacante el puesto, o no sea servidora pública de carrera. Esta persona debe fungir como secretaria técnica, y
 
 III. Un representante de la Secretaría, que será el titular del Órgano Interno de Control en la dependencia, salvo que la propia Secretaría designe a otro servidor público.
 
@@ -217,9 +263,13 @@ II. Definir su calendario de reuniones;
 
 III. Solicitar a la Secretaría la constitución o desaparición de Comités Técnicos de Profesionalización en los órganos administrativos desconcentrados;
 
-IV. Determinar, dentro del plazo máximo de cuarenta y cinco días naturales de aquél en que se encuentre vacante un puesto del Sistema o se cree uno nuevo, el momento en que deberá iniciarse el procedimiento para cubrirlo;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
 
-V. Invitar a sus sesiones al titular de la dependencia, así como a especialistas de instituciones de educación superior, de empresas, de asociaciones civiles especializadas nacionales o internacionales, de colegios de profesionales o a otros servidores públicos. Estos invitados sólo tendrán derecho a voz, y
+IV. Determinar, dentro del plazo de cuarenta y cinco días naturales de aquél en que se encuentre vacante un puesto del Sistema o se cree uno nuevo, el momento en que debe iniciarse el procedimiento para cubrirlo, conforme a lo establecido en el Programa Anual de Planeación del Sistema;
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
+
+V. Invitar a sus sesiones a la persona titular de la dependencia, así como a personas especialistas de instituciones de educación superior, de empresas, de asociaciones civiles especializadas, nacionales o internacionales, de colegios de profesionistas, o a otras personas servidoras públicas. Estas personas invitadas sólo tienen derecho a voz, y
 
 VI. Las demás que señale este Reglamento y las disposiciones aplicables al Sistema.
 
@@ -237,11 +287,17 @@ Los Comités Técnicos de Selección se integrarán por:
 
 I. El superior jerárquico inmediato del puesto vacante, quien lo presidirá;
 
-II. Un representante de la Secretaría, que será el titular del Área de Auditoría de Control y Evaluación y Apoyo al Buen Gobierno del Órgano Interno de Control en la dependencia o, en su caso, en el órgano administrativo desconcentrado de que se trate, salvo que la misma Secretaría designe a otro servidor público.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 4 DE ENERO DE 2024)</small>
 
-A falta de dicho titular, fungirá como representante de la Secretaría, el titular del Área de Auditoría o del Área de Auditoría Interna, según corresponda, y
+II. Una persona representante de la Secretaría designada por la persona titular del Órgano Interno de Control en la dependencia o, en su caso, en el de sus órganos administrativos desconcentrados de que se trate, salvo que la Secretaría designe a otra persona servidora pública.
 
-III. El titular de la DGRH o por el servidor público del área de recursos humanos de la dependencia o del órgano administrativo desconcentrado que designe el Comité Técnico de Profesionalización, quien fungirá como Secretario Técnico.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+La representación debe realizarse en términos de lo dispuesto por la Secretaría y, en ningún caso puede recaer en una persona servidora pública adscrita al Área de Quejas, Denuncias e Investigaciones, ni al Área de Responsabilidades, de los órganos internos de control, y
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
+
+III. La persona titular de la DGRH de la dependencia o, en su caso, la de sus órganos administrativos desconcentrados, y en su defecto, por la persona servidora pública del área de recursos humanos de la dependencia o, en su caso, la de sus órganos administrativos desconcentrados, que designe el Comité Técnico de Profesionalización, cuando la persona titular se encuentre ausente temporalmente, su puesto vacante, o no sea servidor público de carrera. Esta persona debe fungir como secretaria técnica.
 
 El Comité Técnico de Selección sesionará con la totalidad de sus miembros o sus representantes y sus decisiones se tomarán por mayoría de votos. Los miembros a que se refieren las fracciones II y III de este artículo sólo podrán ser representados por un servidor público de nivel jerárquico inmediato inferior y no podrán hacerse representar en más de dos ocasiones consecutivas.
 
@@ -255,9 +311,17 @@ Los Comités Técnicos de Selección tendrán, en adición a las que señala la 
 
 I. Instruir la integración del expediente del concurso de que se trate;
 
-II. Resolver dentro del plazo de noventa días naturales posteriores a la publicación de la convocatoria en el Diario Oficial de la Federación, los procedimientos de selección en que intervenga, y
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
 
-III. Las demás que señale este Reglamento y las disposiciones aplicables al Sistema.
+II. Resolver, dentro del plazo de noventa días naturales posteriores a la publicación de la convocatoria en el Diario Oficial de la Federación, los procedimientos de selección en que intervenga;
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 2024)</small>
+
+III. Elaborar y emitir las convocatorias de los cargos a concurso conforme a lo establecido en el Programa Anual de Planeación del Sistema, y
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
+
+IV. Las demás que señale este reglamento y las disposiciones aplicables al Sistema.
 
 El Secretario Técnico del Comité Técnico de Selección convocará a sesión cuando el Comité Técnico de Profesionalización, con motivo de la existencia de una vacante o la creación de una nueva, determine que se deben iniciar los procedimientos de reclutamiento y selección.
 
@@ -269,7 +333,9 @@ Durante los procedimientos respectivos, el Secretario Técnico será responsable
 
 Cada dependencia tendrá a su cargo la operación de los subsistemas, de conformidad con la Ley, este Reglamento y las disposiciones que emita la Secretaría.
 
-El Comité Técnico de Profesionalización de la dependencia, por sí o por quien éste designe, realizará los estudios sobre las características, particularidades, condiciones, requisitos y perfiles que conforman la estructura ocupacional de la dependencia, a efecto de elaborar sus programas específicos de planeación de recursos humanos, ingreso, desarrollo, capacitación, evaluación y separación de su personal.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+El Comité Técnico de Profesionalización de la dependencia, por sí o por quien éste designe, debe realizar los estudios sobre las características, particularidades, condiciones, requisitos y perfiles que conforman la estructura ocupacional de la dependencia, a efecto de elaborar su Programa Anual de Planeación del Sistema.
 
 ###### Artículo 20.
 
@@ -277,9 +343,11 @@ Las dependencias deberán proporcionar a la Secretaría en los medios, formatos 
 
 ### Capítulo Octavo. Del Subsistema de Planeación de los Recursos Humanos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE ENERO DE 2024)</small>
+
 ###### Artículo 21.
 
-En el Subsistema de Planeación de los Recursos Humanos se efectuarán los procesos de registro y análisis de la información que remitan las dependencias a la Secretaría, para la operación del Sistema.
+En el Subsistema de Planeación de Recursos Humanos se deben efectuar los procesos de registro y análisis de la información que remitan las dependencias a la Secretaría, para la operación del Sistema y toma de decisiones en materia de recursos humanos en la Administración Pública.
 
 En este Subsistema operará el Registro Único del Servicio Público Profesional, con información sistematizada sobre el ingreso, desarrollo, capacitación, certificación, evaluación del desempeño y separación de los servidores públicos de carrera.
 
@@ -289,15 +357,19 @@ La retroalimentación de este Subsistema se hará tomando en cuenta los resultad
 
 Las dependencias, a través del Comité Técnico de Profesionalización, son responsables de la descripción, de los perfiles y demás requerimientos de los puestos del Sistema que forman parte del Catálogo, así como de su registro y actualización.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE ENERO DE 2024)</small>
+
 ###### Artículo 23.
 
-El Catálogo es el instrumento a partir del cual se establecen ramas de cargos o puestos, así como la homologación o equivalencia entre puestos, atendiendo, a las características de los perfiles, nivel de responsabilidad, remuneraciones, ámbito de competencia, rango, jerarquía, tipo de funciones o régimen laboral, entre otros aspectos.
+El Catálogo es el instrumento a partir del cual se establecen ramas de cargos o puestos y cuerpos de función, así como la homologación o equivalencia entre puestos conforme a las características de los perfiles, nivel de responsabilidad, remuneraciones, competencia, rango, jerarquía, tipo de funciones o régimen laboral, entre otros aspectos.
 
 La información que contenga el Catálogo será pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE ENERO DE 2024)</small>
+
 ###### Artículo 24.
 
-El Catálogo integrará la información de los puestos del Sistema, relativa a la adscripción, denominación, rama de cargo o puesto, código, funciones, perfil del puesto, incluyendo las remuneraciones que le correspondan, así como la fecha de creación, modificación o supresión del puesto.
+El Catálogo debe integrar la información de los puestos del Sistema, relativa a la adscripción, denominación, rama de cargo o puesto, cuerpo de función, código, funciones, perfil del puesto, remuneraciones que correspondan, y la fecha de creación, modificación o supresión del puesto.
 
 La Secretaría se coordinará con las dependencias y, en su caso, con las entidades paraestatales de la Administración Pública Federal para incorporar al Catálogo, la información correspondiente a otros puestos, con la finalidad de identificar posibles candidatos que podrían ser invitados a participar en los concursos de puestos del Sistema.
 
@@ -315,19 +387,31 @@ Si a la conclusión del plazo máximo de dos años, los servidores públicos a q
 
 Cuando por virtud de lo previsto en las disposiciones en materia presupuestaria, se autorice a las dependencias el traspaso de recursos destinados a plazas eventuales o al pago de prestación de servicios profesionales por honorarios para plazas presupuestarias, y tal autorización implique la incorporación al Sistema de los puestos que resulten de esos traspasos, los Comités Técnicos de Profesionalización determinarán lo conducente, para efectos de la aplicación de lo establecido en este artículo, respecto de las personas que la DGRH acredite venían ocupando las plazas o prestando los servicios.
 
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+Cuando se autorice la transformación de puestos de gabinete de apoyo a puestos que formen parte del Sistema, la ocupación de éstos se sujetará a los requisitos de ingreso por concurso establecidos en la Ley, este reglamento y demás disposiciones aplicables.
+
 ###### Artículo 26.
 
 En los casos en que se supriman puestos del Sistema o se determine alguno de ellos como de libre designación, los servidores públicos de carrera que los ocupen serán reubicados en el Sistema, previa solicitud que formulen a la DGRH y siempre que existan puestos vacantes afines al perfil del puesto del que es titular.
 
-Corresponderá a la DGRH llevar a cabo, dentro del plazo que al efecto determine el Comité Técnico de Profesionalización, las gestiones tendientes a la reubicación en el Sistema de los servidores públicos a que se refiere el párrafo anterior.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+Cuando se modifiquen puestos del Sistema por necesidades de reestructura en las dependencias, los servidores públicos de carrera que los ocupen podrán tener continuidad en el nuevo puesto siempre y cuando se cumpla con el perfil del puesto y dichas modificaciones no impliquen cambio de rango o grupo. En caso contrario, el Comité Técnico de Profesionalización, previa solicitud que formulen dichos servidores públicos de carrera a la DGRH, podrá determinar la reubicación de éstos en el Sistema.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+Corresponde a la DGRH llevar a cabo, dentro del plazo que determine el Comité Técnico de Profesionalización, las gestiones tendientes a la reubicación en el Sistema de los servidores públicos de carrera a que se refiere este artículo.
 
 ### Capítulo Noveno. Del Registro Único del Servicio Público Profesional
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
 ###### Artículo 27.
 
-Los Comités Técnicos de Profesionalización serán responsables de que la información correspondiente a sus respectivos servidores públicos esté integrada al Registro y que ésta se actualice, de conformidad con los procedimientos que establezca la Secretaría.
+Los Comités Técnicos de Profesionalización son responsables de que, la información correspondiente a los servidores públicos de carrera que laboren en su dependencia, esté integrada al Registro y que se actualice, de conformidad con las disposiciones que emita la Secretaría.
 
-Las DGRH deberán actualizar la información a que se refiere el párrafo anterior, observando los plazos y términos que establezca la Secretaría.
+Las DGRH deben actualizar la información a que se refiere el párrafo anterior, en los plazos y términos que establezca la Secretaría, para salvaguardar la calidad, integralidad y veracidad de la información.
 
 ###### Artículo 28.
 
@@ -373,9 +457,13 @@ En estos supuestos el proceso de selección consistirá en desahogar de manera d
 
 Cuando la convocatoria esté dirigida a servidores públicos o a la reserva de aspirantes y el concurso se declare desierto, se deberá emitir nueva convocatoria dirigida a todo interesado.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
 ###### Artículo 33.
 
-Los servidores públicos de carrera eventuales a que se refiere el inciso a) fracción I del artículo 5 de este Reglamento, al término de su designación, podrán obtener su nombramiento como servidores públicos de carrera titulares sólo si obtienen al menos un resultado satisfactorio en la evaluación de su desempeño.
+Los servidores públicos de carrera eventuales a que se refiere el inciso a de la fracción I del artículo 5 de este reglamento tienen derecho a obtener el nombramiento como servidores públicos de carrera titulares, al término del plazo de su designación como eventuales, salvo que en la evaluación de su desempeño obtuvieran una calificación no satisfactoria, no aprobatoria o deficiente, en cuyo caso el nombramiento surtirá efectos únicamente hasta la fecha de su vigencia, sin responsabilidad para la dependencia, y la relación laboral se tendrá por concluida.
+
+La evaluación a que se refiere el párrafo anterior debe realizarse dentro de los treinta días naturales previos al cumplimiento del año de su ingreso al Sistema, salvo que antes haya sido separado por alguna de las causas previstas en las disposiciones aplicables.
 
 ###### Artículo 34.
 
@@ -391,11 +479,21 @@ IV. Entrevistas, y
 
 V. Determinación.
 
-El Comité Técnico de Profesionalización establecerá las reglas de valoración y el sistema de puntuación general aplicables en el proceso de selección, en congruencia con los lineamientos emitidos por la Secretaría.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2024)</small>
 
-El Comité Técnico de Selección, con sujeción a lo previsto en el párrafo anterior, determinará los exámenes de conocimientos y las evaluaciones de habilidades aplicables a cada puesto, los puntajes mínimos para su calificación, las reglas específicas de valoración para la ocupación del puesto o puestos de que se trate, así como los criterios para la evaluación de las entrevistas y para la determinación, respectivamente.
+Las etapas del procedimiento de selección deben llevarse a cabo conforme a las disposiciones y metodologías que emita la Secretaría. Respecto de las etapas que corresponde realizar a la DGRH, la persona titular de ésta debe, mediante documento oficial, designar al personal responsable de la aplicación de los exámenes de conocimientos y de las evaluaciones de habilidades, experiencia y el mérito de las personas candidatas.
 
-La DGRH será la responsable de aplicar los exámenes de conocimientos y las evaluaciones de habilidades, así como de evaluar la experiencia y el mérito de candidatos, por lo que adoptará las medidas que garanticen la confidencialidad de los exámenes e instrumentos de evaluación respectivos.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+El Comité Técnico de Profesionalización debe establecer las reglas de valoración y el sistema de puntuación general aplicables en el proceso de selección, en congruencia con las disposiciones y metodologías emitidas por la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+El Comité Técnico de Selección, con sujeción a lo previsto en este artículo, debe coordinar la aplicación de los exámenes de conocimientos y las evaluaciones de habilidades correspondientes a cada puesto, así como determinar los puntajes mínimos para su calificación, las reglas específicas de valoración para la ocupación del puesto o puestos de que se trate, los criterios para la evaluación de las entrevistas y para la determinación, conforme a las disposiciones y metodologías emitidas por la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+La DGRH es la responsable de aplicar los exámenes de conocimientos y las evaluaciones de habilidades, así como de evaluar la experiencia y el mérito de las personas candidatas, por lo que debe adoptar las medidas que garanticen la confidencialidad de los exámenes e instrumentos de evaluación respectivos.
 
 ###### Artículo 35.
 
@@ -421,13 +519,23 @@ Los finalistas que no sean seleccionados integrarán la reserva de aspirantes de
 
 La ocupación de puestos vacantes por candidatos que integran la reserva será previa determinación del Comité Técnico de Selección dentro del año posterior a la publicación de resultados del concurso en que hubieran participado.
 
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+###### Artículo 36 Bis.
+
+Cuando una persona no cumpla con algún requisito establecido en la convocatoria, no podrá continuar participando en el proceso de selección, y se le deberá notificar el motivo de la eliminación de su participación y el fundamento de esta determinación.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
 ###### Artículo 37.
 
-El superior jerárquico del puesto en concurso podrá, por una sola vez y bajo su estricta responsabilidad, vetar durante la determinación al finalista seleccionado por los demás integrantes del Comité Técnico de Selección para ocupar el puesto, razonando debidamente su determinación en el acta correspondiente.
+La persona superior jerárquica del puesto en concurso puede, por una sola vez y bajo su responsabilidad, vetar durante la determinación a la persona seleccionada como finalista por los demás integrantes del Comité Técnico de Selección para ocupar el puesto, para lo cual debe fundar y motivar su determinación en el acta correspondiente.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
 
 ###### Artículo 38.
 
-En caso de que el superior jerárquico del puesto que se concursa ejerza el veto previsto en el artículo 74 de la Ley, el Comité Técnico de Selección elegirá a la persona que ocupará el puesto de entre los restantes finalistas.
+En caso de que la persona superior jerárquica del puesto que se concursa ejerza, de manera fundada y motivada, el veto previsto en el artículo 74 de la Ley, el Comité Técnico de Selección debe elegir, de entre los restantes finalistas, a la persona que ocupará el puesto.
 
 ###### Artículo 39.
 
@@ -443,7 +551,9 @@ II. Porque ninguno de los candidatos obtenga el puntaje mínimo de calificación
 
 III. Porque sólo un finalista pase a la etapa de determinación y en ésta sea vetado o bien, no obtenga la mayoría de los votos de los integrantes del Comité Técnico de Selección.
 
-Si el concurso se declara desierto, el puesto vacante no podrá ser ocupado mediante el procedimiento establecido en el artículo 34 de la Ley.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+Si el concurso se declara desierto, el Comité Técnico de Selección debe determinar el momento en que deberá convocarse nuevamente a concurso. En caso de que el puesto esté ocupado en términos del artículo 34 de la Ley, la persona servidora pública puede continuar ocupando el puesto conforme a los plazos previstos en el artículo 92 de este reglamento, según corresponda.
 
 La resolución del Comité Técnico de Selección deberá precisar la causa por la que se determinó declarar desierto el concurso, y en caso de corresponder a la prevista en la fracción III de este artículo, se deberán señalar las conclusiones de la determinación.
 
@@ -461,13 +571,19 @@ El representante de la Secretaría en el Comité Técnico de Selección, dentro 
 
 En caso de que en el desarrollo del proceso de selección se presente alguna inconformidad o se interponga el recurso de revocación previsto en la Ley, la certificación a que se refiere el párrafo anterior se realizará una vez que se emita la resolución correspondiente.
 
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+En caso de que la certificación se haya emitido y posteriormente se tenga conocimiento de un recurso de revocación, dicha certificación quedará sin efectos, y se expedirá una nueva al momento en que se emita la resolución correspondiente.
+
 De detectar posibles irregularidades en el proceso, las comunicará al Área de Quejas del Órgano Interno de Control de la dependencia, para el efecto de que se proceda en términos de las disposiciones aplicables.
 
 ### Capítulo Décimo Primero. Del Subsistema de Desarrollo Profesional
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE ENERO DE 2024)</small>
+
 ###### Artículo 43.
 
-El Subsistema de Desarrollo Profesional se integra por los procedimientos y mecanismos con base en los cuales los servidores públicos de carrera titulares podrán ocupar plazas de igual o mayor jerarquía tanto en las dependencias, como en instituciones públicas o privadas con las que las dependencias tengan celebrados convenios.
+El Subsistema de Desarrollo Profesional se integra con los procedimientos y mecanismos con base en los cuales los servidores públicos de carrera titulares pueden adquirir experiencias y fortalecer su desarrollo profesional para, en su caso, ocupar plazas vacantes de igual o mayor jerarquía tanto en las dependencias, como en instituciones públicas o privadas con las que las dependencias tengan convenios celebrados.
 
 La Secretaría emitirá las disposiciones que deberán observar los servidores públicos de carrera para estar en posibilidad de:
 
@@ -481,9 +597,11 @@ III. Identificar sus posibles trayectorias de ascenso y promoción en la propia 
 
 Los Comités Técnicos de Profesionalización, a través de las DGRH apoyarán a los servidores públicos de carrera para elaborar sus respectivos planes de carrera, de conformidad con la disponibilidad presupuestaria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE ENERO DE 2024)</small>
+
 ###### Artículo 45.
 
-Los Comités Técnicos de Profesionalización establecerán, de conformidad con las disposiciones que emita la Secretaría, las reglas de valoración y los puntajes que serán considerados en las acciones de desarrollo que realicen los servidores públicos de carrera para acceder a un puesto del Sistema de mayor responsabilidad o jerarquía.
+Los Comités Técnicos de Profesionalización deben establecer, de conformidad con las disposiciones que emita la Secretaría, las reglas de valoración y los puntajes a considerar en las acciones de desarrollo profesional que realicen los servidores públicos de carrera para acceder a un puesto vacante del Sistema, de mayor responsabilidad o jerarquía, así como para determinar los estímulos, reconocimientos, recompensas o premios, con sujeción a lo establecido en el artículo 69 de este reglamento.
 
 Dichas reglas o puntajes deberán ser actualizados permanentemente en el Registro y serán considerados invariablemente en la valoración de la experiencia y del mérito acumulados por los servidores públicos de carrera que participen en los procedimientos de selección para ocupar puestos vacantes que impliquen su ascenso y promoción.
 
@@ -493,19 +611,29 @@ Los Comités Técnicos de Profesionalización, a través de las DGRH, deberán a
 
 I. La capacitación que reciba para el mejor desempeño de las funciones que realiza en el puesto que ocupa, conforme a los planes establecidos por el Comité Técnico de Profesionalización y autorizados por la Secretaría;
 
-II. La certificación de capacidades en desarrollo administrativo y calidad, de conformidad con los lineamientos que expida la Secretaría y los planes de capacitación que a tal efecto sean establecidos por la misma;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
 
-III. La certificación de capacidades para el mejor desempeño de otros puestos del Sistema, impartidos por dependencias distintas;
+II. La certificación de capacidades profesionales, de conformidad con las disposiciones que expida la Secretaría y los planes de capacitación que la misma establezca;
+
+III. (DEROGADA, D.O.F. 4 DE ENERO DE 2024)
 
 IV. Otros estudios que hubiera realizado el servidor público;
 
-V. Los resultados de la evaluación de su desempeño, obtenidos en los términos previstos en este Reglamento y en los lineamientos que al efecto expida la Secretaría, incluyendo el cumplimiento de las funciones asignadas al puesto que ocupa, sus contribuciones al cumplimiento de los objetivos del área en la que preste sus servicios y sus aportaciones institucionales, y
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
 
-VI. El cumplimiento de su plan de carrera y la experiencia acumulada en el servicio público.
+V. Los resultados de la evaluación de su desempeño obtenidos en los términos previstos en este reglamento y en las disposiciones que expida la Secretaría, los cuales también deben incluir el cumplimiento de las funciones asignadas al puesto que ocupa, sus contribuciones al cumplimiento de los objetivos del área en la que preste sus servicios y sus aportaciones institucionales;
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
+
+VI. El cumplimiento de su plan de carrera y la experiencia acumulada en el servicio público, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 2024)</small>
+
+VII. Las demás que determine la Secretaría.
 
 ###### Artículo 47.
 
-Para que un servidor público de carrera pueda ser sujeto a una promoción por concurso en el Sistema, conforme a lo previsto en el artículo 37 de la Ley, deberá contar con al menos dos evaluaciones del desempeño anuales.
+(DEROGADO, D.O.F. 4 DE ENERO DE 2024)
 
 ###### Artículo 48.
 
@@ -521,17 +649,23 @@ I. Que se cuente con la autorización del Comité Técnico de Selección de la d
 
 II. Que el perfil de los puestos considerados para llevar a cabo estos movimientos cumplan condiciones de equivalencia, homologación y afinidad;
 
-III. Que el movimiento no implique incremento o disminución en las percepciones del servidor público de carrera titular de que se trate, mayor al 30%, ni una promoción a otro rango, en cuyo caso tendrá que contarse con la anuencia del servidor público de carrera titular, y
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
+
+III. Que el movimiento no implique una promoción a otro rango, en cuyo caso tendrá que aplicarse el mecanismo de ingreso correspondiente y, en su caso, contarse con la anuencia del servidor público de carrera titular, y
 
 IV. Que el servidor público de carrera titular sujeto a movimiento o trayectoria lateral cubra el perfil del puesto correspondiente.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
 ###### Artículo 50.
 
-Las dependencias podrán ocupar puestos vacantes sujetos al Sistema, por un plazo máximo de un año, con personas provenientes de otras instituciones públicas federales, locales o municipales u organismos públicos o privados, siempre que la dependencia de que se trate tenga celebrado un convenio con las autoridades de esas instituciones u organismos, para que a su vez un servidor público de carrera del mismo rango al del puesto vacante, realice durante igual plazo en la institución u organismo de que se trate, prácticas que contribuyan a ampliar sus conocimientos y experiencias sobre temas, aspectos o técnicas específicos.
+Las dependencias pueden intercambiar temporalmente servidores públicos de carrera por personas provenientes de otras instituciones públicas federales, de las entidades federativas, de los municipios o de las demarcaciones territoriales de la Ciudad de México u organismos privados, a efecto de que estas personas realicen actividades de apoyo en procesos propios de la dependencia por un plazo máximo de un año y los servidores públicos de carrera puedan realizar, durante dicho plazo, en la institución u organismo de que se trate, prácticas que contribuyan a ampliar sus conocimientos y experiencias sobre temas, aspectos o técnicas específicos, siempre que la dependencia y las autoridades de estas instituciones u organismos de que se trate hayan celebrado un convenio de intercambio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE ENERO DE 2024)</small>
 
 ###### Artículo 51.
 
-Para efectos de los intercambios previstos en el artículo 43 de la Ley, se deberá atender a lo siguiente:
+Para efectos de los convenios de intercambio previstos en el artículo 43 de la Ley, se debe atender a lo siguiente:
 
 I. Que el servidor público de carrera titular lo solicite y manifieste por escrito su conformidad con los términos y condiciones del intercambio;
 
@@ -543,9 +677,11 @@ El intercambio tendrá como propósito fortalecer el desarrollo profesional del 
 
 Durante el tiempo que dure el intercambio, el servidor público de carrera titular no será sujeto de evaluación de su desempeño ni estará obligado a cumplir con los cursos de capacitación obligatorios a que se refiere la Ley, pero estará obligado a observar estrictamente los términos y condiciones del intercambio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE ENERO DE 2024)</small>
+
 ###### Artículo 52.
 
-Las dependencias podrán ocupar temporalmente puestos con servidores públicos de carrera de nivel jerárquico inferior que cubran el perfil requerido para el puesto en los siguientes casos:
+Las dependencias pueden ocupar temporalmente puestos con servidores públicos de carrera que cubran el perfil requerido para el puesto, en los casos siguientes:
 
 I. Por determinación del Comité Técnico de Profesionalización cuando:
 
@@ -555,9 +691,17 @@ b) Por necesidades del servicio se requiera cubrir un puesto al estar incapacita
 
 c) Al determinarse la suspensión del nombramiento de un servidor público de carrera conforme a lo previsto en el artículo 80 de este Reglamento, hasta por el tiempo de la suspensión, y
 
-II. Por determinación del titular de la dependencia o del Oficial Mayor o equivalente, sin perjuicio de lo previsto en el artículo 92 de este Reglamento, con motivo de los causas excepcionales que establece el artículo 34 de la Ley, hasta por diez meses.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2024)</small>
 
-Al efecto, se deberá comunicar a la Secretaría la autorización y justificación correspondientes, así como sujetar a concurso el puesto de que se trate, en el plazo establecido en el artículo 92 de este Reglamento.
+d) Se imponga la suspensión de un servidor público de carrera conforme a lo previsto en la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables, hasta por el tiempo que dure la suspensión, y
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
+
+II. Por determinación de la persona titular de la dependencia o la de la Unidad de Administración y Finanzas o su equivalente, con motivo de las causas excepcionales que establece el artículo 34 de la Ley, sin perjuicio de lo previsto en el artículo 92 de este reglamento.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+Para efectos del párrafo anterior, se debe comunicar a la Secretaría la autorización y justificación correspondientes, así como sujetar a concurso el puesto de que se trate, conforme al Programa Anual de Planeación del Sistema.
 
 Las determinaciones del Comité Técnico de Profesionalización a que se refiere la fracción I, deberán considerar lo previsto en el artículo 75 de este Reglamento y atender las disposiciones relativas a la suplencia de servidores públicos contenidas en el Reglamento Interior de la dependencia.
 
@@ -571,61 +715,75 @@ Cuando por necesidades del servicio se requiera que algún servidor público de 
 
 ### Capítulo Décimo Segundo. Del Subsistema de Capacitación y Certificación de Capacidades
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
 ###### Artículo 54.
 
-El Subsistema de Capacitación y Certificación de Capacidades se implementará con base en los diagnósticos de detección de necesidades de capacitación que realicen las dependencias.
+El Subsistema de Capacitación y Certificación de Capacidades debe implementarse con base en la detección de necesidades institucionales y de profesionalización que requieran las dependencias, para lo cual debe tomar como referencia el cuerpo de funciones y los requerimientos para el desarrollo profesional de las personas servidoras públicas.
 
-Será responsabilidad de los Comités Técnicos de Profesionalización, establecer a través de la DGRH y en coordinación con las unidades administrativas de la dependencia, programas de capacitación para los diferentes puestos del Sistema, sujetándose a la disponibilidad presupuestaria de ésta, y determinar el carácter obligatorio u optativo de las actividades de capacitación. Dichos programas se establecerán conforme a las disposiciones que al efecto emita la Secretaría y deberán ser registrados ante la misma.
+Corresponde a los Comités Técnicos de Profesionalización establecer, por medio de la DGRH y en coordinación con las unidades administrativas de la dependencia, los programas de capacitación para los diferentes puestos del Sistema, de acuerdo con la disponibilidad presupuestaria, así como determinar el carácter obligatorio u optativo de las actividades de capacitación. Dichos programas deben establecerse conforme al Programa Anual de Planeación del Sistema y a las disposiciones que emita la Secretaría, y estar registrados ante ésta.
+
+La capacitación que derive de los resultados de la evaluación del desempeño de las personas servidoras públicas tiene el carácter de obligatoria. Las erogaciones que se generen con motivo de la aplicación del presente artículo se sujetarán a la disponibilidad del presupuesto aprobado para esos fines a las dependencias, así como a las políticas y disposiciones en materia de austeridad presupuestaria.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
 
 ###### Artículo 55.
 
-Las dependencias al establecer sus programas de capacitación, tomarán en cuenta los planes de estudio y sistemas de calificación, así como los requisitos siguientes:
+Las dependencias, al establecer sus programas de capacitación, deben tomar en cuenta los criterios establecidos en el modelo de profesionalización emitido por la Secretaría, así como los requisitos que se determinen en el Programa Anual de Planeación del Sistema, conforme a lo siguiente:
 
-I. Que la capacitación que se prevea impartir a cada servidor público de carrera, en ningún caso, represente menos de cuarenta horas efectivas anuales, y
+I. Que la capacitación que se prevea impartir a cada persona servidora pública incluya las horas efectivas que se establezcan en el Programa Anual de Planeación del Sistema, las cuales en ningún caso pueden representar menos de cuarenta horas efectivas anuales, y
 
-II. Que los cursos de capacitación o actualización que se incluyan en los programas sean impartidos por:
+II. Que los cursos de capacitación o actualización que se incluyan en los programas sean impartidos indistintamente por:
 
-a) Instituciones educativas, de investigación científica o tecnológica, públicas o privadas, nacionales o extranjeras, u otras personas morales, o
+a) Instituciones de la administración pública en cualquier orden de gobierno, y
 
-b) Expertos, quienes podrán ser servidores públicos o personas físicas.
+b) Personas expertas, quienes pueden ser personas servidoras públicas o cualquier otra persona física.
 
-Las personas físicas y morales a que refiere esta fracción, deberán registrarse ante la Secretaría, de conformidad con lo previsto en los lineamientos expedidos por la misma.
+La Secretaría puede recomendar ajustes a los programas de capacitación de las dependencias, cuando éstos no consideren lo previsto en la Ley, este reglamento y demás disposiciones aplicables.
 
-La Secretaría podrá recomendar ajustes a los programas de capacitación de las dependencias, cuando los mismos no consideren lo previsto en la Ley, este Reglamento y las disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
 
 ###### Artículo 56.
 
-Los requisitos de calidad conforme a los cuales se impartirá la capacitación y actualización son los siguientes:
+Los requisitos de calidad, conforme a los cuales se debe impartir la capacitación y actualización, son los siguientes:
 
-I. Deberán ser consistentes los diversos elementos del curso, tales como: objetivos, temario, capacidades a desarrollar, información y seguimiento proporcionados al participante sobre sus resultados en ejercicios, evaluaciones y plan curricular;
+I. Ser consistentes los diversos elementos del curso, tales como: objetivos de aprendizaje, temario, actividades para el aprendizaje, evaluaciones correspondientes y requisitos de aprobación;
 
-II. Considerar el uso de técnicas y metodologías adecuadas conforme al contenido temático, con el fin de fortalecer el aprendizaje;
+II. Considerar el uso de técnicas y metodologías adecuadas conforme al contenido temático y la modalidad de impartición, con el fin de fortalecer el aprendizaje;
 
-III. Que el uso del lenguaje y el diseño gráfico sean apropiados para fortalecer el proceso de aprendizaje;
+III. Usar apropiadamente el lenguaje y el diseño gráfico, para fortalecer el proceso de aprendizaje;
 
-IV. Que prevean facilidades de interacción entre el participante y el instructor, y
+IV. Prever facilidades de interacción entre las personas participantes e instructora o tutora, y
 
-V. En cursos impartidos por medios remotos, que cumplan con las características operativas de compatibilidad, acceso y funcionalidad para los participantes, a fin de que puedan ubicarse y desplazarse con facilidad entre temas, unidades y módulos.
+V. Cumplir, cuando los cursos sean impartidos en modalidad virtual, con las características operativas y didácticas que se requieran para el logro de los aprendizajes de las personas participantes.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
 
 ###### Artículo 57.
 
-Será obligatorio para los servidores públicos de carrera cursar los programas de capacitación y actualización que establezca el Comité Técnico de Profesionalización de la dependencia a la que estén adscritos, y su aprobación será requisito indispensable para permanecer en el puesto y en el Sistema.
+Es obligatorio para los servidores públicos de carrera cumplir con las acciones de capacitación y actualización que establezca el Comité Técnico de Profesionalización en el Programa Anual de Planeación del Sistema, en coordinación con la Secretaría. La aprobación de dichas acciones es requisito indispensable para permanecer en el puesto y en el Sistema.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
 
 ###### Artículo 58.
 
-La Secretaría, en coordinación con los Comités Técnicos de Profesionalización, establecerá los sistemas de evaluación u homologación que permitan la certificación de las capacidades profesionales de los servidores públicos de carrera y demostrar que han desarrollado y mantienen actualizado el perfil y aptitudes requeridos para el desempeño de sus puestos.
+La Secretaría, en coordinación con los Comités Técnicos de Profesionalización, debe establecer los sistemas de evaluación u homologación que permitan la certificación de las capacidades profesionales, con fines de permanencia de los servidores públicos de carrera, para demostrar que desarrollan y mantienen actualizadas las capacidades requeridas en el desempeño de sus puestos.
 
 ###### Artículo 59.
 
 La certificación de capacidades otorgará puntos adicionales a los servidores públicos de carrera, los cuales deberán ser actualizados permanentemente en el Registro, para ser considerados en los procesos de selección y en la autorización de movimientos o trayectorias laterales.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
 ###### Artículo 60.
 
-Los servidores públicos de carrera que certifiquen las capacidades necesarias para permanecer en el puesto que ocupan, estarán obligados a cursar y acreditar los programas de actualización que determinen los Comités Técnicos de Profesionalización en cada caso, de conformidad con la Ley, este Reglamento y los lineamientos expedidos por la Secretaría.
+Los servidores públicos de carrera que certifiquen las capacidades profesionales requeridas para permanecer en el puesto que ocupan, están obligados a acreditar las acciones de actualización a que se refiere el artículo 57 de este reglamento.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
 
 ###### Artículo 61.
 
-Los servidores públicos de carrera que obtengan resultados no satisfactorios en su segunda evaluación de capacitación, serán separados de su puesto y del Sistema, y en consecuencia causarán baja del Registro.
+Los servidores públicos de carrera titulares, que no aprueben en dos ocasiones la capacitación obligatoria, deben ser separados de su puesto y del Sistema, y en consecuencia deben causar baja del Registro.
 
 ### Capítulo Décimo Tercero. Del Subsistema de Evaluación del Desempeño
 
@@ -633,25 +791,27 @@ Los servidores públicos de carrera que obtengan resultados no satisfactorios en
 
 El Subsistema de Evaluación del Desempeño se integra con los procesos, métodos y mecanismos de medición, cualitativos y cuantitativos, del cumplimiento de las funciones y metas individuales y colectivas de los servidores públicos de carrera, en función de sus capacidades y del perfil determinado para el puesto que ocupan.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
 ###### Artículo 63.
 
-Será responsabilidad del Comité Técnico de Profesionalización establecer las descripciones y evaluaciones de los puestos del Sistema, así como definir y operar los métodos de evaluación del desempeño de los servidores públicos, considerando lo siguiente:
+Corresponde al Comité Técnico de Profesionalización establecer las descripciones, los perfiles y las valuaciones de los puestos del Sistema, así como definir los métodos de evaluación del desempeño de las personas servidoras públicas. Dichos métodos deben considerar las modalidades de valoración siguientes:
 
-I. La valoración del cumplimiento individual de las funciones y metas que correspondan a cada servidor público de carrera, en el puesto que ocupa y en los puestos de los que se hubiere hecho cargo de manera provisional, con base en indicadores cuantificables y verificables.
+I. La valoración del cumplimiento individual de las funciones y metas que correspondan a cada servidor público de carrera, respecto del puesto que ocupa y de los puestos que se hizo cargo de manera provisional, con base en indicadores cuantificables y verificables.
 
-Los Comités Técnicos de Profesionalización, en el ámbito de su dependencia, emitirán las reglas generales de operación para que cada unidad responsable recabe los datos y la evidencia necesarios para realizar la valoración a que se refiere el párrafo anterior;
+Los Comités Técnicos de Profesionalización deben emitir las reglas generales de operación para que cada área responsable recabe la evidencia y los datos necesarios para realizar la valoración a que se refiere el párrafo anterior;
 
-II. La valoración del cumplimiento cuantitativo de los objetivos establecidos en los distintos instrumentos de gestión del rendimiento, por cada unidad responsable de la dependencia, así como la contribución de cada uno de los servidores públicos adscritos a éstas, en función de su jerarquía y responsabilidad propias.
+II. La valoración del cumplimiento cuantitativo de los objetivos y metas establecidos en los distintos instrumentos de gestión gubernamental, por cada unidad administrativa de la dependencia, así como la contribución de cada una de las personas servidoras públicas adscritas a éstas, en función de su jerarquía y su responsabilidad.
 
-Los Comités Técnicos de Profesionalización emitirán las reglas de operación específicas para que la Oficialía Mayor o su equivalente, recabe los datos y la evidencia necesarias para efectuar la valoración prevista en el párrafo anterior, y
+Los Comités Técnicos de Profesionalización deben emitir las reglas de operación específicas para que la Unidad de Administración y Finanzas o su equivalente, recabe la evidencia y los datos necesarios para efectuar la valoración prevista en el párrafo anterior, y
 
-III. La valoración cualitativa de las aportaciones institucionales efectuadas por cada servidor público de carrera al cumplimiento de los objetivos de la dependencia, determinada a través de la opinión razonada de: los superiores jerárquicos inmediatos, la de sus subordinados inmediatos y la de los demás servidores públicos de la unidad responsable a la que estén adscritos.
+III. La valoración cualitativa de los comportamientos esperables por cada persona servidora pública al cumplimiento de los objetivos y metas de la dependencia, sus capacidades profesionales y la aplicación de los valores del Sistema y del servicio público determinados por medio de la opinión razonada de: sus superiores jerárquicos inmediatos, sus subordinados inmediatos y demás personas servidoras públicas de la unidad administrativa a la que estén adscritas.
 
-Los Comités Técnicos de Profesionalización emitirán las reglas de operación específicas para que la Oficialía Mayor o su equivalente, obtenga de las opiniones señaladas, los datos necesarios para realizar la valoración correspondiente. La Secretaría diseñará los instrumentos que faciliten la obtención de esta información.
+Los Comités Técnicos de Profesionalización deben emitir las reglas de operación específicas para que la Unidad de Administración y Finanzas o su equivalente, obtenga de las opiniones señaladas en esta fracción, los datos necesarios para realizar la valoración correspondiente. La Secretaría debe diseñar los instrumentos que faciliten la obtención de esta información.
 
-En los casos en los que no sea posible efectuar la valoración, por la falta de alguna de las opiniones señaladas en esta fracción, se podrá complementar con la opinión de las personas a las que el servidor público atienda o preste servicios de manera directa, determinada a través de encuestas periódicas de calidad en el servicio, que diseñará la Secretaría y cuyos datos serán recabados bajo los principios de objetividad e imparcialidad.
+En los casos en los que no sea posible efectuar la valoración, por la falta de alguna de las opiniones señaladas en esta fracción, se puede complementar con la opinión de las personas a las que la persona servidora pública atienda o preste sus servicios de manera directa, determinada a través de encuestas periódicas de calidad en el servicio diseñadas por la Secretaría y cuyos datos deben ser recabados bajo los principios de objetividad e imparcialidad.
 
-La Secretaría emitirá lineamientos específicos para la evaluación del desempeño de los servidores públicos de carrera, con base en las modalidades de valoración contenidas en este artículo, las cuales deberán ser difundidas previamente a su aplicación.
+La Secretaría debe emitir disposiciones para realizar la evaluación del desempeño de las personas servidoras públicas, con base en las modalidades de valoración previstas en este artículo, las cuales deben ser difundidas previamente a su aplicación.
 
 ###### Artículo 64.
 
@@ -667,69 +827,113 @@ El Comité Técnico de Profesionalización al establecer los métodos de evaluac
 
 La combinación de las modalidades de valoración, dará como resultado un puntaje específico para cada uno de los servidores públicos de carrera evaluados.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
 ###### Artículo 67.
 
-Los métodos de evaluación del desempeño de los servidores públicos de carrera incluirán, el puntaje que resulte de la combinación de las modalidades de valoración, así como la tercera parte del puntaje total obtenido de la capacitación acreditada.
+Los métodos de evaluación del desempeño de las personas servidoras públicas deben incluir el puntaje que resulte de la combinación de las modalidades de valoración determinadas, así como el correspondiente al resultado promedio de la capacitación recibida. El resultado de ambos puntajes se debe considerar como:
 
-El resultado de ambos puntajes, se considerará como:
+I. Sobresaliente, cuando en conjunto sean iguales o mayores a una calificación de 90 puntos, de un total de 100 posibles;
 
-I. Excelente, cuando en conjunto sean mayores a una calificación de 90 puntos, de un total de 100 posibles;
+II. Satisfactorio, cuando en conjunto sean iguales o mayores de 70 puntos y menores de 90, de un total de 100 posibles;
 
-II. Satisfactorio, cuando en conjunto sean mayores de 70 puntos y menores de 90, de un total de 100 posibles;
+III. No Satisfactorio, cuando en conjunto sean iguales o mayores de 60 puntos y menores de 70, de un total de 100 posibles;
 
-III. No Satisfactorio, cuando en conjunto sean mayores de 60 puntos y menores de 70, de un total de 100 posibles, y
+IV. No aprobatorio, cuando en conjunto sean mayores de 50 puntos y menores de 60 puntos, de un total de 100 posibles, y
 
-IV. Deficiente, cuando en conjunto sean menores de 60 puntos, de un total de 100 posibles.
+V. Deficiente, cuando en conjunto sean menores de 50 puntos, de un total de 100 posibles.
 
-Se entiende por desempeño destacado los resultados previstos en la fracción I del presente artículo.
+Los servidores públicos de carrera que obtengan una calificación deficiente en su evaluación de desempeño, deben ser separados de su puesto y del Sistema, conforme a lo previsto en los artículos 58, segundo párrafo, y 60, fracción VII, de la Ley.
+
+Se entiende por desempeño destacado el resultado previsto en la fracción I del presente artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE ENERO DE 2024)</small>
 
 ###### Artículo 68.
 
-Las dependencias realizarán la evaluación del desempeño de sus servidores públicos de carrera durante los meses de enero y febrero de cada año, la cual corresponderá al ejercicio fiscal anterior.
+Las dependencias deben realizar la evaluación del desempeño de las personas servidoras públicas durante los meses de enero y febrero de cada año, la cual debe corresponder al ejercicio fiscal anterior.
 
-Las DGRH conservarán la documentación relativa a las evaluaciones del desempeño de sus servidores públicos, incluida la evidencia que soporte las valoraciones efectuadas, con objeto de acreditar, cuando corresponda, la objetividad y la veracidad de las mismas.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+Las DGRH deben establecer los mecanismos para el resguardo de la documentación relativa a las evaluaciones del desempeño de las personas servidoras públicas, incluida la evidencia que soporte las valoraciones efectuadas, con objeto de acreditar, cuando corresponda, la objetividad y la veracidad de las mismas.
 
 Los servidores públicos podrán tener acceso a la información y documentación relativa a las evaluaciones en las que participen directamente, así como a solicitar, en su caso, la revisión de las mismas ante el Comité Técnico de Profesionalización respectivo.
 
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+###### Artículo 68 Bis.
+
+Los servidores públicos de carrera cuyo resultado de evaluación de desempeño sea sobresaliente pueden ser sujetos de incentivos, por su desempeño destacado, los cuales se clasifican en:
+
+I. Estímulos, cuando se refieran al acceso a beneficios monetarios o no monetarios, de satisfacción directa no monetaria ni intercambiable, e implique o no una erogación directa en monetario, tales como, días de vacación, becas de estudios o permisos especiales;
+
+II. Reconocimientos, cuando tengan por objeto distinguir a un servidor público de carrera como consecuencia de una acción, acto, característica o rasgo meritorio derivado de su desempeño destacado y que se experimenta como un logro, convalidación o distinción. Los reconocimientos pueden ser no monetarios o en especie, individuales o colectivos, tales como, vales de despensa, diplomas, distinciones o menciones. Los reconocimientos deben sujetarse a las disposiciones que resulten aplicables;
+
+III. Recompensas, cuando sea monetario, y
+
+IV. Premios, cuando se otorgue derivado de un concurso e implique la superación de otros servidores públicos de carrera que hayan obtenido un resultado sobresaliente, así como lo previsto en el artículo 3 de la Ley de Premios, Estímulos y Recompensas Civiles.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE ENERO DE 2024)</small>
+
 ###### Artículo 69.
 
-Los servidores públicos de carrera cuyo resultado de evaluación sea excelente, podrán ser sujetos de estímulos o reconocimientos e incentivos por su desempeño destacado. Para su otorgamiento, las dependencias deberán observar lo siguiente:
+Las dependencias, para el otorgamiento de incentivos, deben observar lo siguiente:
 
-I. Que se apliquen a servidores públicos de carrera con resultados excelentes, así como a aquéllos que obtengan resultados satisfactorios durante tres años consecutivos;
+I. (DEROGADA, D.O.F. 4 DE ENERO DE 2024)
 
-II. Que se sujete a la disponibilidad presupuestaria con que cuente la dependencia, así como a las disposiciones generales aplicables y se obtengan las autorizaciones correspondientes, y
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
 
-III. Que prevean incentivos o reconocimientos no económicos de diverso tipo.
+II. Que su otorgamiento esté sujeto a la disponibilidad del presupuesto aprobado para esos fines a la dependencia que los otorga, y a la autorización previa, en el ámbito presupuestario, que emita la Secretaría de Hacienda y Crédito Público de conformidad con la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley Federal de Remuneraciones de los Servidores Públicos, el Presupuesto de Egresos de la Federación para el ejercicio fiscal que corresponda y demás disposiciones aplicables, y
 
-Una vez cumplidos los requisitos establecidos en las fracciones I y II de este artículo, los Comités Técnicos de Profesionalización enviarán el proyecto que integre las propuestas para el otorgamiento de estímulos o reconocimientos e incentivos al Oficial Mayor o su equivalente para que, en su caso, autorice su entrega.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
 
-Los resultados de las evaluaciones del desempeño de cada uno de los servidores públicos de carrera, así como el otorgamiento de estímulos o reconocimientos e incentivos, deberán inscribirse en el Registro.
+III. Que prevean incentivos no monetarios de diverso tipo.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+Una vez cumplidos los requisitos establecidos en este artículo, los Comités Técnicos de Profesionalización deben enviar el proyecto que integre las propuestas para el otorgamiento de incentivos a la Unidad de Administración y Finanzas o su equivalente, para que, en su caso, autorice su entrega.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+Los resultados de las evaluaciones del desempeño de cada uno de los servidores públicos de carrera, así como el otorgamiento de sus incentivos deben inscribirse en el Registro.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
 
 ###### Artículo 70.
 
-Los servidores públicos de carrera sujetos a evaluación y sus superiores jerárquicos llevarán a cabo sesiones de seguimiento para mejorar su desempeño y lograr el cumplimiento de metas del periodo correspondiente.
+Las personas servidoras públicas sujetas a evaluación del desempeño y sus superiores jerárquicos deben llevar a cabo sesiones de seguimiento o un plan de acción para mejorar su desempeño y lograr el cumplimiento de metas del periodo correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE ENERO DE 2024)</small>
 
 ###### Artículo 71.
 
-Como resultado de las reuniones de seguimiento se acordarán las acciones de capacitación, actualización y apoyo para fortalecer el desempeño y el logro de resultados del servidor público de carrera, considerando sus fortalezas y áreas de oportunidad identificadas previamente.
+Como resultado de las sesiones de seguimiento o de cumplimiento del plan de acción se deben acordar las acciones de capacitación, actualización y apoyo para fortalecer el desempeño y el logro de resultados del servidor público de carrera, para lo cual se deben considerar sus fortalezas y áreas de oportunidad identificadas previamente.
 
 El seguimiento a dichas acciones será responsabilidad del servidor público de carrera y de sus superiores jerárquicos o supervisores directos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE ENERO DE 2024)</small>
+
 ###### Artículo 72.
 
-Los casos de los servidores públicos de carrera que obtengan puntajes no satisfactorios, serán valorados de manera individual por el Comité Técnico de Profesionalización, a fin de detectar las causas de dichos resultados y proponer las medidas correctivas que procedan para mejorar su desempeño. Las medidas adoptadas podrán consistir en:
+Los casos de los servidores públicos de carrera titulares, que obtengan puntajes no satisfactorios o su primer resultado no aprobatorio, deben ser valorados de manera individual por el Comité Técnico de Profesionalización, a fin de detectar las causas de dichos resultados y proponer las medidas correctivas que procedan para mejorar su desempeño. Las medidas adoptadas pueden consistir en:
 
 I. Cursos adicionales de capacitación para reforzar los conocimientos o las habilidades en las que el servidor público haya mostrado mayores deficiencias;
 
-II. Evaluaciones individuales destinadas a medir el cumplimiento de las funciones del servidor público en aquellas áreas en que haya mostrado deficiencias;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
+
+II. Evaluaciones individuales destinadas a medir el cumplimiento de las funciones del servidor público de carrera en aquellas áreas en que haya mostrado falta de capacidad;
 
 III. Evaluaciones colectivas destinadas a mejorar el rendimiento de las unidades responsables en las que no se hayan cumplido los objetivos establecidos;
 
 IV. Cursos específicamente destinados a mejorar el clima laboral de las unidades responsables, en las que las evaluaciones cualitativas hayan resultado notoriamente deficientes, y
 
-V. Cualquier otra medida que, respetando los derechos de los servidores públicos de carrera, tienda a mejorar los resultados de sus evaluaciones.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
 
-La evaluación prevista en la fracción II de este artículo, se practicará entre los tres y seis meses siguientes a la evaluación anual prevista en el artículo 68 de este Reglamento. Los servidores públicos de carrera que no acrediten esta evaluación, serán separados de su puesto y del Sistema, por desempeño deficiente, conforme a lo previsto en los artículos 58 y 60 fracción VII de la Ley.
+V. Cualquier otra medida, que sin afectar los derechos de los servidores públicos de carrera, tienda a mejorar su desempeño y los resultados de sus evaluaciones.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+La evaluación prevista en la fracción II de este artículo debe practicarse entre los tres y seis meses siguientes a la evaluación anual prevista en el artículo 68 de este reglamento.
 
 De las medidas que los Comités Técnicos de Profesionalización adopten en los términos del presente artículo, se informará a la Secretaría a efecto de que se evalúe, con base en la recurrencia de las mismas, la conveniencia de realizar ajustes a los procedimientos de algún subsistema.
 
@@ -743,6 +947,10 @@ El Subsistema de Separación se integra por los procesos que permiten determinar
 
 Será responsabilidad de los Comités Técnicos de Profesionalización establecer los procedimientos específicos para el otorgamiento de licencias y para la separación de los servidores públicos de carrera, tomando en cuenta lo dispuesto en la Ley, este Reglamento y las disposiciones que resulten aplicables en materia laboral.
 
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+La Unidad debe establecer disposiciones específicas para orientar la adecuada integración de expedientes y facilitar los procedimientos correspondientes.
+
 ###### Artículo 75.
 
 El Comité Técnico de Profesionalización al conceder la licencia solicitada, podrá señalar en su dictamen el nombre del servidor público de carrera que ocupará ese puesto de manera provisional, atendiendo a lo siguiente:
@@ -755,11 +963,15 @@ La DGRH tramitará el nombramiento respectivo, conforme a lo previsto en el art�
 
 Para efectos de lo previsto en el segundo párrafo del artículo 61 de la Ley, el Comité Técnico de Profesionalización podrá conceder licencias a servidores públicos de carrera, cuando acrediten continuidad en los servicios prestados a la dependencia en su calidad de servidores públicos considerados de libre designación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE ENERO DE 2024)</small>
+
 ###### Artículo 76.
 
-La DGRH procederá a dejar sin efectos el nombramiento del servidor público de carrera que se ubique en alguna de las causas previstas en las fracciones I, II, III y V del artículo 60 de la Ley, a partir de que el acto o motivo que lo generó, surta efectos.
+La DGRH debe proceder a dejar sin efectos el nombramiento del servidor público de carrera que se ubique en alguna de las causas previstas en las fracciones I, II, III y V del artículo 60 de la Ley, a partir de que el acto o motivo que lo generó surta efectos, así como a realizar los trámites administrativos de baja en términos de la normatividad aplicable y, en su caso, los trámites para el pago de las prestaciones devengados por los servicios prestados, que no hubiesen sido cubiertos.
 
-Para efectos de la causa establecida en la fracción V del artículo 60 de la Ley, se requerirá que la resolución administrativa correspondiente determine como sanción la destitución o inhabilitación del servidor público de carrera.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+Para efectos de la causa establecida en la fracción V del artículo 60 de la Ley, se debe requerir que la resolución administrativa correspondiente determine como sanción la destitución o inhabilitación del servidor público de carrera, en términos de la Ley General de Responsabilidades Administrativas.
 
 La DGRH deberá integrar al expediente del servidor público de carrera, la documentación que acredite la actualización de cualquiera de las causas señaladas en este artículo.
 
@@ -767,31 +979,45 @@ La DGRH deberá integrar al expediente del servidor público de carrera, la docu
 
 Cuando se presuma el incumplimiento reiterado e injustificado por parte del servidor público de carrera a sus obligaciones establecidas en la Ley, en los ordenamientos aplicables en materia laboral, así como en otras disposiciones legales y reglamentarias, o en la descripción del puesto, se desahogará el procedimiento establecido conforme al artículo 74 de este Reglamento.
 
-Para los efectos del párrafo anterior y de la causa prevista en la fracción IV del artículo 60 de la Ley, bastará que la misma conducta se realice más de una vez para incurrir en incumplimiento reiterado. De cada ocasión en que los servidores públicos de carrera incurran en incumplimiento a sus obligaciones, se deberá dejar constancia en su expediente.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+Para los efectos del párrafo anterior y de la causa prevista en la fracción IV del artículo 60 de la Ley, se entiende que el servidor público de carrera incurre en incumplimiento reiterado cuando éste realice más de una vez una misma o diferente conducta que contravenga las obligaciones que tienen los servidores públicos de carrera. De cada ocasión en que los servidores públicos de carrera incurran en incumplimiento a sus obligaciones se debe dejar constancia en su expediente.
 
 ###### Artículo 78.
 
 Cuando el servidor público de carrera incumpla diversas obligaciones, las DGRH podrán integrar un sólo expediente con las evidencias documentales de cada incumplimiento. En todo caso, el Comité Técnico de Profesionalización respectivo deberá, al emitir su determinación, pronunciarse respecto de cada uno de los incumplimientos que se hubieren señalado.
 
-La determinación de si es o no injustificado el incumplimiento de sus obligaciones del servidor público de carrera, quedará a cargo del Comité Técnico de Profesionalización respectivo, el cual considerará la valoración que realice la Secretaría, a través del titular del Área de Quejas del Órgano Interno de Control en la dependencia y, determinará la separación del servidor público de carrera, cuando corresponda.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+La determinación de si el incumplimiento de las obligaciones del servidor público de carrera es injustificado queda a cargo del Comité Técnico de Profesionalización, el cual debe considerar la valoración que realice la Secretaría, mediante la persona titular del Área de Quejas, Denuncias e Investigaciones del Órgano Interno de Control en la dependencia. Asimismo, el Comité Técnico de Profesionalización debe determinar si procede la separación del servidor público de carrera, cuando corresponda.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
 
 ###### Artículo 79.
 
-Una vez que se notifique al servidor público de carrera el inicio del procedimiento por incumplimiento reiterado de sus obligaciones, correrá un plazo de treinta días hábiles para que la dependencia determine si son o no injustificadas las conductas respectivas. Durante ese plazo, la DGRH deberá concederle al servidor público de carrera, un término no menor a cinco días hábiles para que rinda un informe de justificación, al que podrá acompañar los documentos y demás elementos que considere pertinentes. La falta de presentación del informe de justificación no invalidará el procedimiento.
+La persona titular de la unidad administrativa a la que se encuentre adscrito el servidor público de carrera debe recabar el soporte documental del posible incumplimiento reiterado en que éste haya incurrido, y enviarlo a la DGRH.
 
-Concluido el término para la presentación del informe de justificación, la DGRH elaborará la determinación preliminar, la cual enviará, junto con el expediente, al Área de Quejas del Órgano Interno de Control respectivo, para que valore si el procedimiento y la integración del expediente, se llevó a cabo tomando en cuenta lo dispuesto en la Ley, este Reglamento y las disposiciones aplicables en materia laboral.
+La DGRH, una vez que reciba el soporte documental a que se refiere el párrafo anterior, debe integrar el expediente respectivo y notificar, mediante un oficio fundado y motivado, el inicio del procedimiento al presunto responsable y le solicitará que, en un término no mayor a cinco días hábiles, rinda un informe de justificación al que podrá acompañar las pruebas que considere pertinentes.
 
-La valoración de la determinación preliminar se comunicará a la DGRH, dentro del plazo de siete días hábiles contados a partir de su recepción.
+Una vez que se notifique al servidor público de carrera el inicio del procedimiento por incumplimiento reiterado de sus obligaciones, debe transcurrir un plazo de quince días hábiles para que el Comité Técnico de Profesionalización determine si son injustificadas las conductas respectivas.
 
-La DGRH deberá subsanar las deficiencias que en su caso se hubieren detectado en el procedimiento o en la integración del expediente y presentará al Comité Técnico de Profesionalización el proyecto de determinación de separación o de archivo de la causa, para que éste, dentro del plazo a que se refiere el primer párrafo de este artículo, determine lo conducente. En consecuencia no será necesario acudir nuevamente al Área de Quejas.
+La DGRH, una vez recibido el informe de justificación y, desahogadas las pruebas admitidas, o en su caso, cuando exista rebeldía del presunto responsable, debe elaborar la determinación preliminar correspondiente y enviarla al Área de Quejas, Denuncias e Investigaciones del Órgano Interno de Control en la dependencia, para que, en un término no mayor a tres días hábiles, dicha Área valore el procedimiento y la integración del expediente respectivo.
+
+Si el Área de Quejas, Denuncias e Investigaciones no tuviera observaciones, lo hará del conocimiento de la DGRH para que proceda a presentar al Comité Técnico de Profesionalización el proyecto de determinación y el expediente respectivo.
+
+En caso de existir observaciones, el Área de Quejas, Denuncias e Investigaciones las hará saber a la DGRH para que ésta las subsane y proceda a presentar al Comité Técnico de Profesionalización de la dependencia el proyecto de determinación corregido y el expediente respectivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE ENERO DE 2024)</small>
 
 ###### Artículo 80.
 
-Una vez iniciado el procedimiento, la dependencia, a través del Oficial Mayor o su equivalente, podrá de acuerdo con la gravedad del incumplimiento, suspender temporalmente al servidor público de carrera, sin perjuicio de continuar el procedimiento hasta agotarlo en los términos y plazos previstos en este Reglamento.
+Una vez iniciado el procedimiento, la persona titular de la Unidad de Administración y Finanzas o su equivalente, de la dependencia, puede, de acuerdo con la gravedad del incumplimiento, suspender temporalmente al servidor público de carrera, sin perjuicio de continuar el procedimiento hasta agotarlo en los términos y plazos previstos en este reglamento.
 
 La suspensión temporal no implicará prejuzgar sobre el incumplimiento reiterado e injustificado de las obligaciones del servidor público de carrera titular.
 
-La suspensión temporal podrá levantarse por el propio Oficial Mayor o su equivalente, antes de que concluya el procedimiento de separación. En este caso, se restituirá al servidor público de carrera en sus derechos y pago de percepciones correspondientes.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+La suspensión temporal puede levantarse por la persona titular de la Unidad de Administración y Finanzas o su equivalente, según corresponda, antes de que concluya el procedimiento de separación. En este caso, se debe restituir al servidor público de carrera en sus derechos y pago de percepciones correspondientes.
 
 ###### Artículo 81.
 
@@ -821,11 +1047,13 @@ El Subsistema de Control y Evaluación se integra con los mecanismos y procedimi
 
 ###### Artículo 86.
 
-La Secretaría, en coordinación con las dependencias, elaborará el Programa para el Servicio Profesional de Carrera en la Administración Pública Federal, el cual será sometido a la consideración de la Secretaría de Hacienda y Crédito Público, para su inclusión en el marco de las disposiciones aplicables para la programación y presupuestación.
+(DEROGADO, D.O.F. 4 DE ENERO DE 2024)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE ENERO DE 2024)</small>
 
 ###### Artículo 87.
 
-En congruencia con lo establecido en el Programa a que se refiere el artículo anterior, la Secretaría, en coordinación con las dependencias, elaborará los programas operativos anuales del Sistema, que contendrán como mínimo los elementos siguientes:
+La Secretaría, en coordinación con las dependencias, debe elaborar el Programa Operativo Anual del Sistema, el cual está sujeto a la disponibilidad presupuestaria del ejercicio fiscal que corresponda, y debe contener, como mínimo, los elementos siguientes:
 
 I. Diagnóstico;
 
@@ -835,17 +1063,17 @@ III. Líneas de acción por subsistema, y
 
 IV. Metas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE ENERO DE 2024)</small>
+
 ###### Artículo 88.
 
-El proyecto de programa operativo anual del Sistema será sometido a la opinión del Consejo, durante el mes de marzo del año anterior al del programa, y remitido a la Secretaría de Hacienda y Crédito Público de conformidad con las disposiciones aplicables, con el objeto de analizar las previsiones presupuestarias para el siguiente ejercicio fiscal en congruencia con los criterios generales de política económica y la disponibilidad presupuestaria de dicho ejercicio, y a cuyas previsiones, las dependencias deberán sujetarse para la elaboración de sus respectivos anteproyectos de presupuesto, en el contexto de la programación anual del gasto público.
+El proyecto de Programa Operativo Anual del Sistema debe ser sometido a la opinión del Consejo en su sesión ordinaria.
 
-En el año inmediato siguiente al que inicie su encargo el Titular del Ejecutivo Federal, el proyecto del programa operativo anual del Sistema, sólo contendrá aquellos elementos que la Secretaría en coordinación con las dependencias consideren implicarán gasto para el siguiente ejercicio fiscal, a efecto de que se remita a la Secretaría de Hacienda y Crédito Público, para el efecto de que lleve a cabo las previsiones presupuestarias correspondientes, en congruencia con los criterios generales de política económica y la disponibilidad presupuestaria de ese ejercicio, y a cuyas previsiones, las dependencias se sujetarán para la elaboración de sus respectivos anteproyectos de presupuesto.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 4 DE ENERO DE 2024)</small>
 
 ###### Artículo 89.
 
-Una vez aprobado el Presupuesto de Egresos de la Federación se realizarán, en su caso, los ajustes necesarios al Programa Operativo Anual; a cuyo efecto los Comités Técnicos de Profesionalización comunicarán a la Secretaría, durante el mes de enero, las acciones que instrumentarán para alcanzar las metas establecidas en dicho programa.
-
-Los Comités Técnicos de Profesionalización, comunicarán a la Secretaría los ajustes a que se refiere el párrafo anterior, a más tardar en el mes de abril del ejercicio fiscal siguiente al que inicie su encargo el Titular del Ejecutivo Federal.
+(DEROGADO, D.O.F. 4 DE ENERO DE 2024)
 
 ###### Artículo 90.
 
@@ -865,17 +1093,25 @@ II. La justificación de las propuestas deberá ser suscrita por los integrantes
 
 Las propuestas serán remitidas a la Secretaría, para dictamen y, en su caso, aprobación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE ENERO DE 2024)</small>
+
 ###### Artículo 92.
 
-Las dependencias podrán ocupar puestos del Sistema, vacantes o de nueva creación, sin sujetarse a los procesos de reclutamiento y de selección, en los supuestos de excepción establecidos en el artículo 34 de la Ley y con sujeción a lo establecido en este Reglamento y en las demás disposiciones aplicables.
+Las dependencias pueden ocupar puestos del Sistema vacantes, de nueva creación o al determinarse la suspensión del nombramiento de un servidor público de carrera, sin sujetarse a los procesos de reclutamiento y de selección, en los supuestos de excepción establecidos en el artículo 34 de la Ley y de acuerdo con lo establecido en este reglamento y demás disposiciones aplicables.
 
 La autorización del nombramiento previsto en el artículo 34 de la Ley confiere a la persona designada para ocupar el puesto de que se trate, el carácter de servidor público y no constituye para éste derecho alguno de ingreso al Sistema.
 
-Dentro de los cuarenta y cinco días hábiles siguientes a la fecha de la autorización del nombramiento, el puesto deberá convocarse a concurso, con base en la descripción, perfil y valuación del puesto registrado en el Catálogo, con anterioridad a dicha autorización.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
 
-Estos nombramientos tendrán la temporalidad que determinen los titulares de las dependencias o el oficial mayor u homólogo, la cual no podrá exceder de diez meses. En todo caso el nombramiento quedará sin efectos de declararse un ganador en el concurso respectivo.
+El puesto debe convocarse a concurso conforme a los periodos establecidos en el Programa Anual de Planeación del Sistema, con base en la descripción, perfil y valuación del puesto registrado en el Catálogo, con anterioridad a su autorización de ocupación.
 
-Una misma persona podrá ser designada para ocupar, conforme al artículo 34 de la Ley, hasta por dos ocasiones, puestos distintos, durante un periodo de dos años. En este supuesto para que esa persona pueda ser considerada nuevamente para una designación, en términos del precepto invocado, después de ese periodo, deberá haber transcurrido, al menos, un año de la conclusión de su último nombramiento.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+Los nombramientos a que se refiere el segundo párrafo de este artículo tienen la temporalidad que determine la persona titular de la dependencia o de la Unidad de Administración y Finanzas o su equivalente, la cual no puede exceder de diez meses. En casos excepcionales y cuando el nivel de responsabilidad lo justifique conforme a los criterios que establezca la Secretaría, para los puestos de Dirección General, Coordinación, Dirección de Área o sus equivalentes, el nombramiento puede extenderse hasta por tres años, siempre que así lo determine la persona titular de la dependencia o de la Unidad de Administración y Finanzas o su equivalente, con autorización de la Unidad.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+En todos los casos, quedan sin efectos los nombramientos a que se refiere este artículo al declararse una persona ganadora en el concurso respectivo. Una misma persona podrá ser designada para ocupar, conforme al artículo 34 de la Ley, hasta por dos ocasiones, puestos distintos conforme a los lineamientos que emita la Secretaría.
 
 ### Capítulo Décimo Séptimo. De las Inconformidades
 
@@ -895,17 +1131,25 @@ Los conflictos individuales de carácter laboral, no son materia de inconformida
 
 La inconformidad deberá presentarse dentro de los diez días hábiles siguientes a la fecha en que se presentó el acto motivo de la inconformidad o del día en que concluyó el plazo en que se estime debió realizarse un acto previsto en la Ley, en este Reglamento o en los demás ordenamientos administrativos aplicables, si los Comités, órganos o autoridades responsables hubieren sido omisos.
 
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
+Cuando la inconformidad presentada guarde relación con el procedimiento de selección señalado en la Ley y este reglamento, la persona titular del Área de Quejas, Denuncias e Investigaciones del Órgano Interno de Control en la dependencia, debe notificar a la Secretaría, el inicio y resolución de dicha inconformidad para, en su caso, suspender el procedimiento de selección o determinar lo que en derecho corresponda.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2024)</small>
+
 ###### Artículo 96.
 
-El titular del Área de Quejas del Órgano Interno de Control de la dependencia, dentro de los cinco días hábiles siguientes a la fecha de su presentación, determinará si procede o no dar trámite a la inconformidad, dictando el acuerdo respectivo. De dictarse acuerdo de procedencia se requerirá al órgano o autoridad en contra de cuyos actos u omisiones se hubiere formulado la inconformidad, para que en un plazo no mayor a siete días hábiles, contado a partir de su notificación, rinda informe circunstanciado sobre la inconformidad presentada, acompañado de los elementos de justificación respectivos.
+La persona titular del Área de Quejas, Denuncias e Investigaciones del Órgano Interno de Control en la dependencia, dentro de los cinco días hábiles siguientes a la fecha de su presentación, debe determinar si procede o no dar trámite a la inconformidad, y dictar el acuerdo respectivo. De dictarse acuerdo de procedencia se debe requerir al órgano o autoridad que haya emitido los actos u omisiones contra los que se hubiese formulado la inconformidad para que, en un plazo no mayor a siete días hábiles contado a partir de su notificación, rinda un informe circunstanciado sobre la inconformidad presentada, acompañado de los elementos de justificación respectivos.
 
-Durante la sustanciación de la inconformidad, el titular del Área de Quejas del Órgano Interno de Control de la dependencia podrá allegarse de los elementos relacionados con el acto sujeto a revisión que estime necesarios, así como recomendar acciones inmediatas al órgano o autoridad de que se trate para preservar la observancia de los principios rectores que rigen la operación del Sistema.
+Durante la substanciación de la inconformidad, la persona titular del Área de Quejas, Denuncias e Investigaciones del Órgano Interno de Control en la dependencia puede allegarse de los elementos relacionados con el acto sujeto a revisión que estime necesarios, así como recomendar acciones inmediatas al órgano o autoridad de que se trate para preservar la observancia de los principios rectores que rigen la operación del Sistema.
 
-Una vez recibidos los informes solicitados, el titular del Área de Quejas del Órgano Interno de Control de la dependencia, dentro del plazo máximo de siete días hábiles, determinará lo conducente, comunicando al órgano o autoridad en contra de cuyos actos u omisiones se hubiere formulado la inconformidad, las medidas que estime necesarias para la adecuada operación del Sistema. Dichas medidas se comunicarán al Comité Técnico de Profesionalización, para su seguimiento y a la Secretaría, para efectos de evaluación a la operación del Sistema.
+En las inconformidades que se presenten respecto de actos de operación en el Subsistema de Ingreso, la persona titular del Área de Quejas, Denuncias e Investigaciones del Órgano Interno de Control en la dependencia pueden recomendar al Comité Técnico de Selección la suspensión temporal o definitiva del procedimiento de selección, por considerar que las fallas o inconsistencias en la operación del Sistema motivo de la inconformidad, pudieran ocasionar la vulneración de los principios rectores del mismo o incidir en la aplicación correcta de dicho procedimiento de selección.
 
-La determinación a que se refiere el párrafo anterior, se notificará al inconforme dentro de los diez días hábiles siguientes. Dichas determinaciones no tendrán efectos vinculatorios para los inconformes.
+Una vez recibidos los informes solicitados, la persona titular del Área de Quejas, Denuncias e Investigaciones del Órgano Interno de Control en la dependencia, dentro del plazo de siete días hábiles, debe determinar lo conducente, y comunicar al órgano o autoridad que haya emitido los actos u omisiones contra los que se hubiere formulado la inconformidad, las medidas que estime necesarias para la adecuada operación del Sistema, en las que puede, aun cuando no se haya emitido la resolución final en el procedimiento de selección, ordenar la reposición del acto que considera irregular. Dichas medidas deben comunicarse al Comité Técnico de Profesionalización, para su seguimiento, y a la Secretaría, para efectos de evaluación de la operación del Sistema.
 
-En aquellos casos en que con motivo de las inconformidades presentadas y la substanciación de las mismas, se advierta incumplimiento a las obligaciones de los servidores públicos, el titular del Área de Quejas del Órgano Interno de Control de la Dependencia procederá, en términos de las disposiciones aplicables a efecto de que se inicie el procedimiento disciplinario previsto en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+Las medidas que se hayan determinado conforme al párrafo anterior, se deben notificar a la persona inconforme dentro de los diez días hábiles siguientes. Dichas medidas no tienen efectos vinculatorios para las personas inconformes.
+
+En aquellos casos en que, con motivo de las inconformidades presentadas y la substanciación de éstas, se advierta incumplimiento a las obligaciones de las personas servidoras públicas, la persona titular del Área de Quejas, Denuncias e Investigaciones del Órgano Interno de Control en la dependencia debe proceder, en términos de las disposiciones aplicables a efecto de que se inicie el procedimiento previsto en la Ley General de Responsabilidades Administrativas.
 
 ### Capítulo Décimo Octavo. Del Recurso de Revocación
 
@@ -915,23 +1159,37 @@ La interposición del recurso de revocación no suspenderá los efectos de la re
 
 La Secretaría establecerá los medios que permitan a su representante en los Comités Técnicos de Selección, mantenerse oportunamente informado sobre los recursos de revocación que se interpongan, para efectos de la certificación que debe realizar al desarrollo de los procesos de selección, en términos del artículo 74 de la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE ENERO DE 2024)</small>
+
 ###### Artículo 98.
 
-Durante la sustanciación del recurso de revocación, la Secretaría llevará a cabo los actos siguientes:
+La Secretaría, durante la substanciación del recurso de revocación, debe llevar a cabo los actos siguientes:
 
 I. Allegarse de los elementos que tengan relación con el acto impugnado;
 
 II. Emitir los acuerdos de admisión y desahogo de pruebas y, en general, cualquier otro que se requiera en la substanciación del recurso;
 
-III. Requerir al promovente el cumplimiento de algún requisito establecido en la Ley y en otros ordenamientos legales aplicables, en los casos en que se hayan omitido: la presentación del documento mediante el cual acredite su personalidad; señalar domicilio en el Distrito Federal o el medio de comunicación electrónica, para oír y recibir notificaciones;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
+
+III. Requerir a la persona promovente el cumplimiento de algún requisito establecido en la Ley y en otros ordenamientos aplicables, en los casos en que se haya omitido, como la presentación del documento mediante el cual se acredite su personalidad, el señalamiento de su domicilio en la Ciudad de México o el medio de comunicación electrónica, para oír y recibir notificaciones;
 
 IV. Dar vista a los terceros interesados con el recurso interpuesto, para que dentro del plazo de cinco días hábiles, manifiesten lo que a su derecho convenga y, en su caso, ofrezcan pruebas;
 
-V. Solicitar al Comité Técnico de Selección que, dentro del plazo de cinco días hábiles, proporcione un informe que dé cuenta de la resolución emitida en el proceso de selección, acompañado de las constancias respectivas y del expediente original del concurso, y
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
 
-VI. Vencidos los plazos de desahogo de vista y de las pruebas que al efecto se acordaron, se dictará la resolución que en derecho proceda dentro del plazo de quince días hábiles.
+V. Solicitar al Comité Técnico de Selección que, dentro del plazo de cinco días hábiles, proporcione un informe que dé cuenta de la resolución emitida en el proceso de selección, acompañado de las constancias respectivas y del expediente original del concurso;
 
-Las resoluciones que recaigan a los recursos de revocación, se notificarán a los interesados en un plazo máximo de cinco días hábiles.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 2024)</small>
+
+VI. Dictar, una vez vencidos los plazos de desahogo de vista y de las pruebas que al efecto se acordaron, la resolución que en derecho proceda dentro del plazo de quince días hábiles. Las resoluciones que recaigan a los recursos de revocación deben notificarse a las personas interesadas en un plazo de cinco días hábiles, contado a partir de la emisión de dicha resolución, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 2024)</small>
+
+VII. Cuando se haya resuelto revocar la resolución recurrida, una vez que la determinación sea notificada al Comité Técnico de Selección, éste cuenta con un mes para dar cumplimiento a lo ordenado. Vencido dicho plazo, dentro de los cinco días hábiles siguientes, debe informar a la Secretaría el cumplimiento y las acciones realizadas.
+
+De no informar sobre el cumplimento de la resolución, la Secretaría debe requerir al Comité Técnico de Selección que corresponda un informe respectivo y, en su caso, dar vista al Órgano Interno de Control competente.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 4 DE ENERO DE 2024)</small>
 
 ## TRANSITORIOS
 
@@ -968,3 +1226,17 @@ Décimo.- Hasta en tanto los servidores públicos considerados como de libre des
 Décimo Primero.- Los métodos de evaluación del desempeño a que se refiere el artículo 64 de este Reglamento, se someterán a revisión de la Secretaría dentro del plazo de veinte días hábiles a partir de la publicación en el Diario Oficial de la Federación de los lineamientos correspondientes.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los cuatro días del mes de septiembre de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de la Función Pública, Germán Martínez Cázares.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 4 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA EN LA ADMINISTRACIÓN PÚBLICA FEDERAL".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los procedimientos iniciados, con anterioridad a la entrada en vigor del presente decreto, deben ser concluidos conforme a las disposiciones vigentes al momento de su inicio.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+CUARTO.- Las erogaciones que, en su caso, deban realizar las dependencias de la Administración Pública Federal con motivo de la entrada en vigor del presente decreto, deberán cubrirse con cargo a su presupuesto aprobado para el ejercicio fiscal que corresponda, por lo que no se autorizarán ampliaciones de recursos a las mismas para el presente ejercicio fiscal ni subsecuentes.
