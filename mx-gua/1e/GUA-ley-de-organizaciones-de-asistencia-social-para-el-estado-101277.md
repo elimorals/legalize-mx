@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-organizaciones-de-asistencia-social-para-el-estado-10127
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-10"
-last_updated: "2019-08-01"
+last_updated: "2024-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY DE ORGANIZACIONES DE ASISTENCIA SOCIAL PARA EL ESTADO DE GUANAJUATO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y FORTALECIMIENTO FAMILIAR PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 4 DE ENERO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE ORGANIZACIONES DE ASISTENCIA SOCIAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2024 (ABROGADA).
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 10 de junio de 2014.
 
@@ -1148,3 +1148,31 @@ Procesos de entrega recepción
 Artículo Noveno. El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato transferirá al organismo público descentralizado de la administración pública estatal denominado Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y a la Secretaría de Gobierno, respectivamente y desde el ámbito de las competencias que les correspondan conforme al presente Decreto, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato haya venido destinando para la atención de las funciones que desempeñaba la unidad administrativa de dicho organismo denominada Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y de la unidad administrativa de dicho organismo denominada Secretaría Ejecutiva del Sistema de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato hasta antes de la entrada en vigencia del presente Decreto, a través de la entrega-recepción respectiva.
 
 El Comité Interno de entrega-recepción, para cada unidad administrativa, deberá quedar conformado dentro de los cuarenta y cinco días siguientes a la entrada en vigencia del presente Decreto, en el que participarán las unidades administrativas competentes del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, el órgano interno de control de éste, la unidad administrativa (sic) Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, la Secretaría de Gobierno y su órgano interno de control, la Secretaría de Finanzas, Inversión y Administración y de la Secretaría de la Transparencia y Rendición de Cuentas.
+
+P.O. 4 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 298, EXPEDIDO POR LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE EXPIDE LA LEY DE ASISTENCIA SOCIAL Y FORTALECIMIENTO FAMILIAR PARA EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogaciones y derogación tácita
+
+Artículo Segundo. Se abroga la Ley sobre el Sistema Estatal de Asistencia Social contenida en el Decreto Legislativo número 5, publicada en el Periódico Oficial del Gobierno del Estado de Guanajuato número 75, segunda parte el 19 de septiembre de 1986; y la Ley de Organizaciones de Asistencia Social para el Estado de Guanajuato, contenida en el Decreto Legislativo número 172, publicada en el Periódico Oficial del Gobierno del Estado de Guanajuato número 92, segunda parte el 10 de junio de 2014; así como las demás disposiciones que se opongan a lo dispuesto por esta ley.
+
+Instalación de la Comisión del Sistema de Asistencia Social y Fortalecimiento Familiar del Estado de Guanajuato
+
+Artículo Tercero. La Comisión del Sistema de Asistencia Social y Fortalecimiento Familiar del Estado de Guanajuato deberá instalarse dentro de los 90 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+Referencias a los ordenamientos abrogados
+
+Artículo Cuarto. Las referencias que en otros ordenamientos se hagan a la Ley sobre el Sistema Estatal de Asistencia Social, y a la Ley de Organizaciones de Asistencia Social para el Estado de Guanajuato, se entenderán hechas a la Ley de Asistencia Social y Fortalecimiento Familiar para el Estado de Guanajuato.
+
+Reglamentación en el ámbito estatal
+
+Artículo Quinto. El Titular del Poder Ejecutivo del Estado expedirá y en su caso actualizará los reglamentos que deriven del contenido del presente Decreto, en un plazo no mayor de 120 días contados a partir de su entrada en vigencia. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a éste, acorde a lo establecido en el artículo segundo transitorio del presente Decreto.
+
+Reglamentación en el ámbito municipal
+
+Artículo Sexto. Los municipios expedirán o, en su caso, actualizarán los reglamentos que deriven del contenido del presente Decreto, en un plazo no mayor de 120 días contados a partir de la entrada en vigor del mismo.
