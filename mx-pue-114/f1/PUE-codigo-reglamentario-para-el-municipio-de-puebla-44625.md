@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2023-08-28"
+last_updated: "2024-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -11927,7 +11927,25 @@ Bajo ninguna circunstancia podrán autorizarse permisos de carácter permanente,
 
 Los permisos tendrán vigencia de un mes, y podrán ser renovados por la autoridad, bajo el cumplimiento continuo de las obligaciones contenidas en el presente.
 
-No se podrán otorgar permisos en la zona de monumentos a las personas comerciantes ambulantes, semifijas y prestadoras ambulantes de servicios, salvo en las áreas expresamente autorizadas por el Ayuntamiento.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 5 DE FEBRERO DE 2024)</small>
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2024)</small>
+
+###### Artículo 640 Bis.
+
+No se podrán otorgar permisos a las personas comerciantes ambulantes, semifijas y prestadoras ambulantes de servicios, en las siguientes zonas:
+
+I. En la zona de monumentos, salvo en las áreas expresamente autorizadas por el Ayuntamiento.
+
+II. En los tramos comprendidos entre las siguientes vialidades:
+
+a) 119 Poniente entre 11 Sur y 9 A Sur;
+
+b) 9 B Sur entre 119 Poniente y calle de los Pinos;
+
+c) Calle de los Pinos entre 11 Sur y 9 B Sur; y
+
+d) 9 F Sur entre 119 Poniente y 117 Poniente.
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2018)</small>
 
@@ -40846,6 +40864,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
 P.O. 28 DE AGOSTO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 18 DE AGOSTO DE 2023, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE GOBERNACIÓN, POR EL QUE REFORMA LAS FRACCIONES I, IV Y V DEL ARTÍCULO 1254, EL ACÁPITE Y LAS FRACCIONES V Y VI DEL 1254 BIS, EL ACÁPITE Y FRACCIÓN XII DEL 1254 TER, LA DENOMINACIÓN DE LOS INCISOS CUARTO Y QUINTO DEL 1256 PARA QUEDAR COMO D) Y E), ASÍ COMO EL INCISO F) DE LA MISMA DISPOSICIÓN, LAS FRACCIONES V, VI Y VII DEL ACÁPITE Y PÁRRAFO ÚLTIMO DEL 1257, LA FRACCIÓN I DEL INCISO D) DEL 1260, EL 1343 Y EL 1344, ASIMISMO, ADICIONA LA FRACCIÓN VII AL ARTÍCULO 1254 BIS, EL INCISO G) AL 1256, LAS FRACCIONES VIII, IX, X Y XI AL 1257, EL 1268 BIS Y EL 1344 BIS; TODOS DEL CAPÍTULO 18 DENOMINADO: "ANUNCIOS", DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 5 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 15 DE DICIEMBRE DE 2023, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS REGIDORES INTEGRANTES DE LA COMISIÓN DE SEGURIDAD DE JUSTICIA Y PROTECCIÓN CIVIL, POR EL QUE DEROGA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 640 Y ADICIONA EL ARTÍCULO 640 BIS DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
 
 PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
