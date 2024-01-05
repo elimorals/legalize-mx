@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-servicio-civil-del-estado-de-nuevo-leon-7913"
 country: "mx"
 rank: "ley"
 publication_date: "1948-06-26"
-last_updated: "2023-10-25"
+last_updated: "2024-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 26 de junio de 1948.
 
@@ -349,6 +349,20 @@ III. Cuando el menor cumpla dieciocho años; y
 
 IV. Cuando el ascendiente que goza de la licencia, sea contratado por un nuevo jefe.
 
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2024)</small>
+
+###### Art. 24 Bis 7.
+
+Las trabajadoras menstruantes a quienes se les diagnostique con endometriosis severa o dismenorrea primaria o secundaria en grado incapacitante, podrán ausentarse hasta dos días, sustituyéndolos por trabajo a distancia, mediante el uso de las tecnologías de información y de la comunicación.
+
+En el caso de que por la naturaleza del trabajo no sea posible realizar el trabajo a distancia, podrán dejar de laborar hasta por dos días, siempre y cuando lo justifiquen mediante prescripción médica.
+
+Para tal efecto, el certificado de salud correspondiente será expedido por el médico de la institución de seguridad social del Gobierno del Estado o del Municipio, en su caso.
+
+Cuando se presente autorización de médicos particulares deberá contener el nombre y número de cédula profesional de quien la expida, así como la fecha y el estado de salud de la persona trabajadora.
+
+Los días utilizados en estos casos serán con goce (sic) sueldo y no afectarán las prestaciones laborales establecidas en la Ley de Servicio Civil y en la Ley Federal del Trabajo.
+
 ###### Art. 25o.
 
 Serán días de descanso obligatorio los que como tales señala el calendario oficial.
@@ -459,15 +473,19 @@ XVII.- Otorgar permiso de ausencia laboral por motivo de luto a causa del fallec
 
 XVIII.- Una vez al año, otorgar permiso de un día con goce de sueldo a las mujeres trabajadoras, para realizarse estudios médicos preventivos de cáncer de mama y cervicouterino.
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2024)</small>
 
-XIX.- Otorgar permisos de ausencia laboral por motivos de asuntos escolares relacionados con sus hijos o hijas menores de edad, previa justificación, hasta por cuatro horas, los cuales no podrán exceder de cuatro permisos durante el año escolar. Se podrá compensar la ausencia con un tiempo igual de trabajo efectivo, previo acuerdo entre la persona trabajadora y su superior jerárquico, e
+XIX.- Otorgar permisos de ausencia laboral por motivos de asuntos escolares relacionados con sus hijos o hijas menores de edad, previa justificación, hasta por cuatro horas, los cuales no podrán exceder de cuatro permisos durante el año escolar. Se podrá compensar la ausencia con un tiempo igual de trabajo efectivo, previo acuerdo entre la persona trabajadora y su superior jerárquico.
 
-> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2024)</small>
 
 XX.- Implementar un protocolo, de común acuerdo con los trabajadores, para prevenir la discriminación por razones de género y la atención de casos de violencia, acoso u hostigamiento sexual.
 
-Dichos protocolos deberán incluir procedimientos ágiles, claros y precisos para sancionar las conductas previstas en esta fracción, así como otorgar las facilidades necesarias a las y los trabajadores quienes denuncien, ante las autoridades competentes.
+Dichos protocolos deberán incluir procedimientos ágiles, claros y precisos para sancionar las conductas previstas en esta fracción, así como otorgar las facilidades necesarias a las y los trabajadores quienes denuncien, ante las autoridades competentes, y
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 2024)</small>
+
+XXI.- Fomentar el uso de las tecnologías de la información y de la comunicación para las mujeres trabajadoras diagnosticadas con endometriosis severa o dismenorrea primaria o secundaria, en grado incapacitante, realicen trabajo a distancia hasta por dos días o, en su caso, se les otorgue un permiso en términos del artículo 24 bis 7 de esta Ley.
 
 ### CAPITULO QUINTO. De las obligaciones de los funcionarios y trabajadores
 
@@ -1282,3 +1300,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación.
 ###### ARTÍCULO SEGUNDO.
 
 Las personas Titulares de los Tres Poderes Ejecutivo, Legislativo y Judicial; y los Ayuntamientos contarán con un plazo de 90 días hábiles a partir de la entrada en vigor del presente Decreto, para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se le otorgan por medio del mismo.
+
+P.O. 5 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 476. SE REFORMAN LAS FRACCIONES XIX Y XX DEL ARTÍCULO 36, Y SE ADICIONA UN ARTÍCULO 24 BIS 7, Y LA FRACCIÓN XXI AL ARTÍCULO 36, TODOS DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+las personas Titulares de los Tres Poderes Ejecutivo, Legislativo y Judicial, así como de los Ayuntamientos contarán con un plazo de 120 días hábiles, a partir de la entrada en vigor del presente Decreto, para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se le otorgan por medio del mismo.
