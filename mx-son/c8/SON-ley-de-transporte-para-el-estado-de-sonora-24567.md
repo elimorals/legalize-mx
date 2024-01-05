@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transporte-para-el-estado-de-sonora-24567"
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-08"
-last_updated: "2017-08-03"
+last_updated: "2024-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DE TRANSPORTE PARA EL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPORTE DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. 5 DE ENERO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TRANSPORTE PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE ENERO DE 2024 (ABROGADA).
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 8 de marzo de 2002.
 
@@ -2288,3 +2290,61 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 5 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 177, DE TRANSPORTE DEL ESTADO DE SONORA”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+SEGUNDO. La presente Ley abroga la Ley 149 de Transporte para el Estado de Sonora.
+
+TERCERO. La presente Ley abroga el Decreto que crea al Instituto de Movilidad y Transporte para el Estado de Sonora, publicado el 09 de junio de 2022 en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+CUARTO. El organismo público descentralizado denominado Instituto de Movilidad y Transporte para el Estado de Sonora conservará su personalidad jurídica, patrimonio propio, recursos humanos, materiales y financieros en los términos en los que fue constituido. Así como quien actualmente funge como Coordinador Ejecutivo continuará en su encargo.
+
+QUINTO. Los contratos, convenios, acuerdos y cualquier otro instrumento y figura jurídica formalizados en los que sea parte el Instituto de Movilidad y Transporte para el Estado de Sonora que se encuentren vigentes, subsistirán en los acuerdos y términos pactados, entendiéndose que éste es la misma persona jurídica que adquirió tales responsabilidades.
+
+SEXTO. Las obligaciones que esta Ley determina para las personas concesionarias, permisionarias, titulares de registros, inscripciones, autorizaciones, así como para personas operadoras o conductoras, según corresponda, serán exigibles desde la entrada en vigor de la presente normatividad y su incumplimiento será sancionado en los términos previstos en la presente Ley.
+
+SÉPTIMO. Las determinaciones relacionadas con la vida útil de las unidades se remitirán al periodo establecido para el proceso de actualización y expedición del título de concesión ante el Instituto referido en el siguiente artículo transitorio.
+
+OCTAVO. Las concesiones regulares vigentes otorgadas con anterioridad a la presente Ley conservarán los derechos adquiridos conforme al Título que las contenga.
+
+NOVENO. Las personas concesionarias que no cuenten con título de concesión emitido por el Instituto deberán tramitarlo ante éste, para estar en condiciones de actualizar el Registro Público de Transporte del Estado; para ello, deberán acreditar encontrarse operando y estar al corriente del pago de derechos de explotación, atendiendo las siguientes determinaciones: Para la actualización y expedición del título de concesión del sistema de automóvil de alquiler, el Instituto tendrá 180 días para emitir el programa de regularización por regiones.
+
+La actualización y expedición del título de concesión en los sistemas de transporte foráneo, turístico, especializado y escolar, deberá realizarse a más tardar un año después de la entrada en vigor de la presente Ley.
+
+La actualización y expedición del título de concesión en los sistemas de transporte urbano, suburbano y de trabajadores agrícolas, deberá realizarse a más tardar dos años después de la entrada en vigor de la presente Ley.
+
+Para la actualización y expedición del título de concesión en los sistemas de transporte de carga, con excepción del sistema de grúas, deberá realizarse a más tardar cinco años después de la entrada en vigor de la presente Ley; mientras que en el sistema de grúas deberá realizarse durante el período de un año posterior a la entrada en vigor de la presente Ley.
+
+DÉCIMO. Las empresas de redes de transporte que operan mediante aplicaciones móviles o plataformas tecnológicas en el Estado deberán solicitar su registro dentro de los 90 días hábiles posteriores a la entrada en vigor de la presente Ley.
+
+UNDÉCIMO. Las personas asociadas a las empresas de redes de transporte que operan mediante aplicaciones móviles o plataformas tecnológicas en el Estado deberán solicitar la inscripción para el vehículo con el cual prestan dicho servicio privado de transporte, dentro de los 180 días hábiles posteriores a la fecha de publicación del registro de la empresa de redes de transporte a la que se encuentran asociados.
+
+DUODÉCIMO. El Instituto deberá constituir el Fondo Estatal de Movilidad en los siguientes ciento ochenta días posteriores a la entrada en vigor de la presente Ley.
+
+DECIMOTERCERO. Los trámites de cesión de derechos de las concesiones que actualmente se encuentren pendientes de resolución, deberán resolverse conforme a la Ley en que inició su trámite.
+
+DECIMOCUARTO. Los recursos o expedientes administrativos que se encuentren en trámite al inicio de la vigencia de la presente Ley seguirán hasta su conclusión o hasta que les opere la figura de caducidad, apegándose a las formas y procedimiento de los ordenamientos jurídicos que les dieron origen.
+
+DECIMOQUINTO. Los procedimientos de convocatoria pública de otorgamiento de concesiones que se encuentren en proceso seguirán su curso hasta su conclusión atendiendo las disposiciones de la Ley 149 de Transporte para el Estado de Sonora, así como de los términos de sus respectivas convocatorias.
+
+DECIMOSEXTO. Las concesiones en las que se identifique que la persona concesionaria y la persona sucesora se encuentran finados, se declararán vacantes por el Instituto y se inscribirán en el Banco de Concesiones por un periodo de 6 meses, si no se adjudican por algún tercero durante ese periodo se procederá a la extinción de la concesión.
+
+DECIMOSÉPTIMO. La Secretaría de Hacienda deberá realizar durante los 90 días hábiles siguientes a la entrada en vigor las adecuaciones a su sistema y manuales de procedimiento para efectos de que las concesiones que se encuentran inscritas en el Banco de Concesiones no generen créditos fiscales durante ese periodo.
+
+DECIMOCTAVO. Las personas sucesoras que tengan pendientes trámites de adjudicación deberán de realizarlos dentro de los siguientes ciento ochenta días posteriores a la entrada en vigor de la presente Ley, en caso contrario, el Instituto inscribirá dichas concesiones en el Banco de concesiones por un periodo de seis meses, si no se adjudican por un tercero durante ese periodo se procederá a la extinción de dicha concesión.
+
+DECIMONOVENO. Las concesiones cuyos titulares sean menores de edad, deberán adjudicarse durante los trescientos sesenta y cinco días siguientes a la entrada en vigor de la presente ley, por quien acredite estar fungiendo como tutora en el título de concesión. Las concesiones en las que los tutores no demuestren cumplir con los requisitos establecidos en la presente ley para ser personas concesionarias se declararán vacantes por el Instituto y se inscribirán en el Banco de Concesiones durante un periodo de seis meses, si no logran adjudicarse por quien ostenta el carácter de tutor de manera preferente o por algún tercero, se declararán extintas.
+
+VIGÉSIMO. Las concesiones que tienen inscritas como sucesores a menores de edad, deberán realizar cambio de sucesor durante los trescientos sesenta y cinco días posteriores a la entrada en vigor de la presente Ley, debiendo inscribir a una persona mayor de edad, susceptible de adjudicarse la concesión en caso de ser necesario. En caso contrario, se considerará que ha fenecido el derecho para designar sucesor.
+
+VIGÉSIMO PRIMERO. Las personas que cuentan con un número de concesión o un folio de pago de expedición de concesión, derivado de una resolución de otorgamiento que no concluyó debidamente con la inscripción de dicha concesión en el Registro Público de Transporte, deberán durante el plazo de 180 días posteriores a la entrada en vigor de la presente Ley acreditar que se encuentran operando y que cumplen con los requisitos para ser concesionarios. En caso de que no se realice debidamente la adjudicación se procederá a la inscripción de tales concesiones en el Banco de Concesiones durante un periodo de seis meses, si no logra adjudicarse procederá la cancelación de tales registros por parte de la Secretaría de Hacienda.
+
+VIGÉSIMO TERCERO (SIC). A partir de la entrada en vigor de la presente Ley, todas las referencias que se hagan a la Ley de Transporte para el Estado de Sonora, en ordenamientos jurídicos, decretos, reglamentos, acuerdos, convenios y demás disposiciones jurídicas y reglamentaria se entenderán hechas a la presente Ley.
+
+VIGÉSIMO CUARTO. Las tarifas preferenciales que se encuentran vigentes al momento de la expedición del presente Decreto continuarán en vigor.
+
+VIGÉSIMO QUINTO. El Instituto deberá realizar las reformas requeridas a su reglamento interior durante los siguientes 180 días posteriores a la entrada en vigor de la presente Ley, para establecer las nuevas atribuciones y procedimientos establecidos en la presente Ley.
