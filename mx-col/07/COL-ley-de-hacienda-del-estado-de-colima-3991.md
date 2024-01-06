@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2023-12-16"
+last_updated: "2024-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "COL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE ENERO DE 2024 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE ENERO DE 2024.]</small>
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -4415,9 +4415,9 @@ I.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2023)
 
 II.- Recepción, evaluación y otorgamiento del resolutivo de la manifestación de impacto ambiental:
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023) (F. DE E., P.O. 6 DE ENERO DE 2024)
 
-1.- En su modalidad MIA-1 50.000
+1.- En su modalidad MIA-1 150.000
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
