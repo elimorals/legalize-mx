@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-atencion-y-prevencion-de-la-desaparicion-de-139634"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-30"
-last_updated: "2023-07-24"
+last_updated: "2024-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA DESAPARICIÓN DE PERSONAS EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de diciembre de 2019.
 
@@ -165,7 +165,9 @@ XXIV. Reporte: A la comunicación mediante la cual la autoridad competente conoc
 
 XXV. Tratados: A los Tratados Internacionales de los que el Estado Mexicano sea parte, y
 
-XXVI. Víctimas: Aquellas a las que hace referencia a (sic) la Ley de Atención y Protección a la Víctima y al Ofendido para el Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
+
+XXVI. Víctimas: Aquellas a las que hace referencia la Ley General de Víctimas y la Ley de Víctimas del Estado de Aguascalientes.
 
 ###### ARTÍCULO 5.
 
@@ -195,9 +197,13 @@ XI. Presunción de vida: En las acciones, mecanismos y procedimientos para la b�
 
 XII. Verdad: El derecho de conocer con certeza lo sucedido y recibir información sobre las circunstancias en que se cometieron los hechos constitutivos de los delitos previstos en la Ley General, en tanto que el objeto de la misma es el esclarecimiento de los hechos, la protección de las Víctimas, el castigo de las personas responsables y la reparación de los daños causados, en términos de la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Aguascalientes.
 
+(NOTA: EL 29 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO, TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 54/2024, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE ENERO DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 529, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 6.
 
-En todo lo no previsto en la presente Ley, son aplicables supletoriamente las disposiciones establecidas en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, el Código Nacional de Procedimientos Penales, el Código Penal Federal, el Código Civil del Estado de Aguascalientes, así como la Ley de Atención y Protección a la Víctima y al Ofendido para el Estado de Aguascalientes y los Tratados Internacionales de los que el Estado Mexicano sea parte.
+En todo lo no previsto en la presente Ley, supletoriamente serán aplicables las disposiciones establecidas en la LEY GENERAL, EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EL CÓDIGO PENAL FEDERAL, el Código Civil del Estado de Aguascalientes, el Código de Procedimientos Civiles del Estado de Aguascalientes, la LEY GENERAL DE VÍCTIMAS, la Ley de Víctimas del Estado de Aguascalientes Y LOS TRATADOS INTERNACIONALES DE LOS QUE EL ESTADO MEXICANO SEA PARTE.
 
 ### CAPÍTULO SEGUNDO. Disposiciones Generales para Personas Desaparecidas Menores de 18 Años
 
@@ -231,6 +237,8 @@ En el diseño de las acciones y herramientas para la búsqueda e investigación 
 
 ### CAPÍTULO PRIMERO. Disposiciones Generales
 
+(NOTA: EL 29 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO, TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 54/2024, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE ENERO DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 529, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
 ###### ARTÍCULO 13.
 
 En la investigación, persecución, procesamiento y sanción de los delitos de Desaparición Forzada de Personas, de Desaparición cometida por Particulares serán aplicables las disposiciones señaladas en la Ley General, el Código Nacional de Procedimientos Penales, el Código Penal Federal y demás leyes aplicables.
@@ -259,7 +267,9 @@ Si de las diligencias practicadas en la investigación de hechos probablemente c
 
 El ejercicio de la acción penal y la ejecución de sanciones penales que se impongan judicialmente para los delitos de desaparición forzada de personas y de desaparición cometida por particulares son imprescriptibles y no están sujetos a criterios de oportunidad ni a formas de solución alterna al proceso u otras de similar naturaleza.
 
-Se prohíbe la aplicación de amnistías, indultos y medidas similares de impunidad que impidan la investigación, procesamiento o sanción y cualquier otra medida para determinar la verdad y obtener reparación plena de los delitos previstos en la Ley General.
+(NOTA: EL 29 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO, TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 54/2024, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE ENERO DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 529, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Se prohíbe la aplicación de amnistías, indultos y medidas similares de impunidad que impidan la investigación, procesamiento o sanción y cualquier otra medida para determinar la verdad y obtener reparación plena de los delitos previstos en LA LEY GENERAL.
 
 ### CAPÍTULO SEGUNDO. De las Responsabilidades Administrativas
 
@@ -521,9 +531,13 @@ Dichas autoridades estarán obligadas a procesar y proporcionar la información 
 
 ### CAPÍTULO QUINTO. Derechos de las Víctimas
 
+(NOTA: EL 29 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO, TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 54/2024, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE ENERO DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 529, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 43.
 
-Las Víctimas directas de los delitos de desaparición forzada de personas y desaparición cometida por particulares, así como sus Familiares tendrán los derechos y (sic) señalados en los Artículos 137, 138, 139, y 150 a 152 de la Ley General, así como aquellos reconocidos en la Ley de Atención y Protección a la Víctima y al Ofendido para el Estado de Aguascalientes y demás ordenamientos aplicables.
+Las Víctimas directas de los delitos de desaparición forzada de personas y desaparición cometida por particulares, así como sus Familiares tendrán los derechos señalados en los artículos 137, 138, 139, y 150 a 152 de LA Ley General, así como aquellos reconocidos en la Ley General de Víctimas y la Ley de Víctimas del Estado de Aguascalientes y demás ordenamientos aplicables.
 
 ## TÍTULO CUARTO. De la Declaración Especial de Ausencia
 
@@ -952,3 +966,11 @@ Queda sin efectos el capítulo IV denominado “Consejo Estatal Ciudadano”, de
 ###### ARTÍCULO SÉPTIMO.
 
 Se derogan las disposiciones de menor jerarquía que se opongan al presente Decreto.
+
+P.O. 8 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 529.- SE REFORMA LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA DESAPARICIÓN DE PERSONAS EN EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
