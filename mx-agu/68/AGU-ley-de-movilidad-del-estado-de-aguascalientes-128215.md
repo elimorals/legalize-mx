@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2023-12-18"
+last_updated: "2024-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -5451,9 +5451,19 @@ b) Motocicletas:
 
 11. Circular con distractores visuales que obstruya su conducción;
 
-12. Circular con carga que dificulte su visibilidad, equilibrio y adecuada operación o constituya peligro para sí o para otros usuarios de la vía pública; o
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
 
-13. No respetar los semáforos ni las indicaciones de los agentes;
+12. Circular con carga que dificulte su visibilidad, equilibrio y adecuada operación o constituya peligro para sí o para otros usuarios de la vía pública;
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
+13. No respetar los semáforos ni las indicaciones de los agentes; o
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+14. Realizar malabares, acrobacias, suertes o cualquier maniobra que impida la sujeción correcta de ambas manos con la motocicleta, colocarse deliberadamente fuera del asiento de la misma, parte del cuerpo humano completamente, o que la persona conductora se coloque en una situación que constituya peligro para sí o para otras personas usuarias de la vía pública.
+
+Lo anterior con la salvedad de que se realice como disciplina, la persona conductora cuente con pericia, se ejecute en lugar apto para ello, y no constituya riesgo para las personas usuarias de la vía pública.
 
 c) Todo vehículo motorizado:
 
@@ -6042,3 +6052,11 @@ P.O. 18 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 512.- SE REFORMA LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES".]
 
 ARTICULO PRIMERO (SIC).- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 536.- SE REFORMA LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
