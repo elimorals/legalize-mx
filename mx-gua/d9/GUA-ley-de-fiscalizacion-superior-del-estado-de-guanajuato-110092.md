@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fiscalizacion-superior-del-estado-de-guanajuato-110092"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-25"
-last_updated: "2020-10-28"
+last_updated: "2024-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2024.
 
 Ley publicada en la Décima Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de septiembre de 2015.
 
@@ -41,11 +41,13 @@ Artículo Único. Se expide la Ley de Fiscalización Superior del Estado de Guan
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
 Objeto de la ley
 
 ###### Artículo 1.
 
-La presente ley tiene por objeto reglamentar la función de fiscalización a que se refieren los artículos 63 fracciones XVIII, XIX y XXVIII y 66 de la Constitución Política para el Estado de Guanajuato, así como establecer las bases de la organización y funcionamiento de la Auditoría Superior del estado de Guanajuato.
+La presente ley tiene por objeto reglamentar la función de fiscalización a que se refieren los artículos 63, fracciones XVIII, XIX y XXVIII y 66 de la Constitución Política para el Estado de Guanajuato, así como establecer las bases de la organización y funcionamiento de la Auditoría Superior del Estado de Guanajuato, con perspectiva preventiva, transparente y participativa, enfocada al desarrollo sostenible.
 
 Sujetos de la ley
 
@@ -107,27 +109,41 @@ Glosario de la Ley
 
 Para efectos de esta ley, se entenderá por:
 
-I. Auditoría Superior: La Auditoría Superior del estado de Guanajuato;
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2024)</small>
 
-II. Congreso: El Congreso del estado de Guanajuato;
+I. Acciones de fiscalización: Las notificaciones, comunicaciones, visitas, inspecciones, entrevistas, cuestionarios, compulsas, cotejos, aseguramientos requerimientos, confrontas y demás diligencias que realice la Auditoría Superior, para el desarrollo de la función de fiscalización;
 
-III. Comisión: La Comisión de Hacienda y Fiscalización del Congreso del estado de Guanajuato;
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2024)</small>
 
-IV. Fiscalización: Revisar, auditar, evaluar o verificar las cuentas públicas, el ejercicio y destino de los recursos públicos, la gestión financiera de los sujetos de fiscalización y la observancia de su normativa aplicable, así como el cumplimiento de las metas y objetivos de los planes y programas estatales y municipales, conforme a los principios de eficiencia, eficacia y economía;
+II. Actos de fiscalización: La práctica de una auditoría, revisión, verificación o evaluación de uno o varios de los conceptos a que refiere esta Ley, la cual inicia con la orden respectiva y concluye con la entrega del informe de resultados al Congreso;
 
-V. Ley: La Ley de Fiscalización Superior del Estado de Guanajuato;
+III. Auditoría Superior: La Auditoría Superior del estado de Guanajuato;
 
-VI. Organismos Autónomos: Aquéllos que por disposición constitucional o legal han sido dotados de tal carácter;
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2024)</small>
 
-VII. Órganos de Control: Las unidades de los sujetos de fiscalización que tienen a su cargo el control, vigilancia y evaluación de los mismos;
+IV. Buzón ASEG: El medio electrónico oficial a través del cual los sujetos de fiscalización podrán recibir y dar atención a los requerimientos de información, órdenes de auditoría, informe general de resultados de la función de fiscalización o cualquier otro acto que se emita, así como la atención de estos, los cuales constarán en documentos digitales que se integrarán en los expedientes correspondientes;
 
-VIII. Órgano de Gobierno: La Junta de Gobierno y Coordinación Política del Congreso del Estado;
+V. Congreso: El Congreso del estado de Guanajuato;
 
-IX. Planes: Los señalados en la Ley de Planeación para el Estado de Guanajuato;
+VI. Comisión: La Comisión de Hacienda y Fiscalización del Congreso del estado de Guanajuato;
 
-X. Programas: Los señalados en la Ley de Planeación para el Estado de Guanajuato; en la Ley para el Ejercicio y Control de los Recursos Públicos para el Estado y los Municipios de Guanajuato; y los contenidos en los presupuestos estatal y municipales del ejercicio fiscal correspondiente;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
 
-XI. Reglamento: El Reglamento de la Ley de Fiscalización Superior.
+VII. Función de fiscalización: El acto de revisar, auditar, evaluar o verificar las cuentas públicas, el ejercicio y destino de los recursos públicos, la gestión financiera de los sujetos de fiscalización y la observancia de su normativa aplicable, así como el cumplimiento de las metas y objetivos de los planes y programas estatales y municipales, conforme a los principios de eficiencia, eficacia y economía;
+
+VIII. Ley: La Ley de Fiscalización Superior del Estado de Guanajuato;
+
+IX. Organismos Autónomos: Aquéllos que por disposición constitucional o legal han sido dotados de tal carácter;
+
+X. Órganos de Control: Las unidades de los sujetos de fiscalización que tienen a su cargo el control, vigilancia y evaluación de los mismos;
+
+XI. Órgano de Gobierno: La Junta de Gobierno y Coordinación Política del Congreso del Estado;
+
+XII. Planes: Los señalados en la Ley de Planeación para el Estado de Guanajuato;
+
+XIII. Programas: Los señalados en la Ley de Planeación para el Estado de Guanajuato; en la Ley para el Ejercicio y Control de los Recursos Públicos para el Estado y los Municipios de Guanajuato; y los contenidos en los presupuestos estatal y municipales del ejercicio fiscal correspondiente;
+
+XIV. Reglamento: El Reglamento de la Ley de Fiscalización Superior.
 
 Normas complementarias
 
@@ -137,17 +153,37 @@ En el Reglamento, los lineamientos, los manuales y las guías se establecerán l
 
 La Auditoría Superior determinará los procedimientos y métodos de auditoría que estime adecuados para el ejercicio de su función, los cuales deberán publicarse en su página electrónica institucional, así como en el Periódico Oficial del Gobierno del Estado.
 
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Supletoriedad
+
+###### Artículo 6 Bis.
+
+En lo no previsto en la presente Ley para el desarrollo de las acciones de fiscalización, será aplicable de manera supletoria el Código de Procedimiento y Justicia Administrativa para el Estado de Guanajuato.
+
 Principios rectores
 
 ###### Artículo 7.
 
 La función de fiscalización se desarrollará conforme a los principios de objetividad, definitividad, confiabilidad, imparcialidad, independencia, transparencia, legalidad y profesionalismo.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
 Auditorías concomitantes
 
 ###### Artículo 8.
 
-La Auditoría Superior podrá realizar auditorías de manera concomitante a la ejecución de actos de gobierno y la aplicación de recursos en los casos que así lo acuerde el Congreso.
+La Auditoría Superior podrá solicitar al Congreso auditorías sobre actos del ejercicio fiscal en curso, de conformidad con las bases metodológicas de planeación establecidas en las disposiciones que al efecto se emitan.
+
+Las auditorías concomitantes instruidas por el Congreso se incorporarán al Programa Anual de Fiscalización correspondiente, durante los 5 días hábiles siguientes a su resolución o notificación.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Inicio de la auditoría concomitante
+
+###### Artículo 8 Bis.
+
+La auditoría concomitante, una vez incorporada al Programa Anual de Fiscalización, deberá iniciar su ejecución en un plazo no mayor a 30 días naturales.
 
 Acciones para la planeación
 
@@ -183,11 +219,29 @@ Los servidores públicos de la Auditoría Superior tendrán la obligación de ab
 
 Representantes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2024)</small>
+
 ###### Artículo 14.
 
-Las auditorías que se efectúen en los términos de esta ley, se practicarán por el personal expresamente comisionado para tal efecto por la Auditoría Superior o mediante la contratación de despachos o profesionales independientes, habilitados expresamente, siempre y cuando no exista conflicto de intereses.
+Las acciones de fiscalización se practicarán por el personal de la Auditoría Superior expresamente comisionado para tal efecto, o en caso necesario, mediante la coordinación con los Órganos Internos de Control, o a través de la contratación de despachos o profesionales independientes, habilitados para tal fin.
 
-Las personas a que se refiere este artículo, tendrán el carácter de representantes de la Auditoría Superior en lo concerniente a la comisión conferida. Para tal efecto, deberán presentar previamente la orden de auditoría e identificarse plenamente como personal actuante.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Las personas a que se refiere este artículo tendrán el carácter de representantes de la Auditoría Superior, en lo concerniente a la comisión o habilitación conferida; para ello, deberán identificarse plenamente como personal actuante.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+La Auditoría Superior implementará mecanismos para garantizar que las personas comisionadas o habilitadas no se encuentren en un supuesto de conflicto de interés, respecto del sujeto u objeto del acto de fiscalización a realizar, para lo cual deberán firmar la declaratoria de integridad correspondiente.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Recusación del personal designado
+
+###### Artículo 14 Bis.
+
+El sujeto de fiscalización podrá rechazar la designación del personal comisionado o habilitado para la ejecución del acto de fiscalización, cuando considere que existe un conflicto de interés, exponiendo las razones para ello.
+
+La presentación de la recusación se deberá realizar dentro de los tres días hábiles posteriores a la notificación de la orden de inicio o, en su caso, del instrumento mediante el cual se notifique la incorporación del personal al acto de fiscalización.
 
 Uso de medios electrónicos y firma electrónica
 
@@ -203,15 +257,65 @@ La Auditoría Superior facilitará, a los sujetos de fiscalización el acceso a 
 
 Actos de fiscalización a través de medios digitales o electrónicos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2024)</small>
+
 ###### Artículo 15 Bis.
 
-Se podrán realizar los actos de fiscalización, notificaciones y comunicaciones previstos en esta Ley, su Reglamento y normas complementarias, a través de medios electrónicos o digitales, mediante los mecanismos o herramientas que disponga la Auditoría Superior.
+La Auditoría Superior podrá realizar los actos de fiscalización previstos en esta Ley, por medios electrónicos, de manera presencial o mixtos, a través de las herramientas tecnológicas que para el efecto se disponga, de conformidad con la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Guanajuato y sus Municipios y demás normativa aplicable y complementaria.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Para ello, se contará con el medio electrónico a través del cual, de manera enunciativa y no limitativa, se realizará la notificación de solicitudes de información preliminar, requerimientos, órdenes de auditoría, pliegos de observaciones y recomendaciones, informes de resultados y, en su caso, cualquier acción que resulte necesaria, las cuales constarán en documentos digitales.
 
 Las disposiciones relativas a los actos de fiscalización presenciales serán aplicables, en lo conducente, a los realizados a través de medios digitales o electrónicos, en los términos establecidos en la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Guanajuato y sus Municipios, el Reglamento del Poder Legislativo del Estado de Guanajuato para el Uso de Medios electrónicos y Firma Electrónica, así como en los lineamientos que para tal efecto emita la Auditoría Superior.
 
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Los sujetos de fiscalización podrán presentar solicitudes o darán atención a requerimientos de información de la Auditoría Superior, a través de documentos o archivos digitales enviados a través del medio electrónico o ejecutar las acciones que se requieran dentro del proceso de fiscalización.
+
 La Auditoría Superior facilitará, a los sujetos de fiscalización o particulares que deban intervenir en los actos de fiscalización, el acceso a los mecanismos o herramientas referidos en este artículo.
 
-Los actos de fiscalización, realizados en los términos precedentes, deberán conservarse electrónicamente y se proporcionará una copia de los mismos en archivo electrónico a quienes en ellos hayan intervenido, los que deberán guardar reserva sobre la información generada.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Los actos de fiscalización, realizados de manera electrónica, deberán conservarse en ese mismo formato y se proporcionará una copia en archivo electrónico a la persona con quien se atienda la diligencia; quien deberá guardar reserva sobre la información generada hasta en tanto el resultado sea aprobado por el Congreso.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Acciones de fiscalización a través de medios electrónicos
+
+###### Artículo 15 Ter.
+
+Las acciones realizadas a través de medios electrónicos se sujetarán a lo siguiente:
+
+I. Previo al inicio de la auditoría, la Auditoría Superior requerirá por escrito al sujeto de fiscalización, la designación del servidor público que fungirá como enlace para la atención de las acciones de fiscalización por medios electrónicos, debiendo informar el nombre y cargo;
+
+II. Una vez recibida la información a que hace referencia la fracción anterior, la Auditoría Superior enviará al correo o dirección electrónica designada, un aviso de confirmación que servirá para corroborar la autenticidad y correcto funcionamiento de este;
+
+III. Los servidores públicos de los sujetos de fiscalización que se encuentren autorizados para tal efecto deberán contar con registro previo para el uso del medio electrónico, mismo que servirá para llevar a cabo el desarrollo de las acciones de fiscalización, y deberán consultarlo a más tardar al segundo día hábil siguiente a aquél en que reciban un aviso electrónico, enviado por la Auditoría Superior;
+
+IV. Las notificaciones electrónicas, se tendrán por realizadas cuando se genere el acuse de recibo digital de notificación del acto de autoridad de que se trate, en el que se hará constar el sello digital de tiempo emitido de conformidad con las disposiciones jurídicas aplicables, que refleja la fecha y hora en que el servidor público del sujeto de fiscalización se autenticó para abrir el documento a notificar o bien, se tuvo por notificado; y
+
+V. Ante la falta de consulta de la notificación digital, esta se tendrá por realizada al tercer día hábil siguiente del día en que fue enviado el referido aviso. Será responsabilidad de los sujetos de fiscalización, mantener vigente la cuenta de correo electrónico señalada, para efectos de notificación de los actos derivados de la auditoría por medios electrónicos.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Grabaciones en audio o video
+
+###### Artículo 15 Quáter.
+
+La Auditoría Superior podrá grabar en audio o video, las reuniones de trabajo y audiencias que se lleven a cabo durante las auditorías o revisiones correspondientes, informando a los participantes de tal circunstancia, para proceder a la integración del archivo electrónico.
+
+La información y datos que se generen como resultado de las reuniones estarán afectos exclusivamente al objeto de esta Ley.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Acuerdo de días y horas inhábiles
+
+###### Artículo 15 Quinquies.
+
+La Auditoría Superior emitirá, durante el mes de diciembre del año previo al de su vigencia, la disposición complementaria a esta Ley, en la que se indicarán los días y horas inhábiles para el desarrollo de los actos y acciones de fiscalización.
+
+La Auditoría Superior podrá habilitar días y horas inhábiles para el desarrollo de acciones de fiscalización, indicando las que deberán practicarse y, en su caso, el acto al que corresponden.
 
 ### Capítulo II. Programa General de Fiscalización
 
@@ -225,6 +329,14 @@ La Auditoría Superior establecerá un Programa General de Fiscalización, seña
 
 El Auditor Superior hará del conocimiento de la Comisión, el Programa General de Fiscalización.
 
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Mecanismos de participación ciudadana
+
+###### Artículo 16 Bis.
+
+Para la elaboración del Programa General de Fiscalización, el Auditor Superior deberá contemplar mecanismos de participación ciudadana que incluyan, al menos, la convocatoria para la recepción de propuestas ciudadanas sobre instituciones o programas susceptibles de ser auditados.
+
 Auditorías aprobadas por el Congreso
 
 ###### Artículo 17.
@@ -232,6 +344,14 @@ Auditorías aprobadas por el Congreso
 El Programa General de Fiscalización podrá ser adicionado por acuerdo de las dos terceras partes del Pleno del Congreso.
 
 El acuerdo señalará el sujeto de fiscalización, tipo, alcance, periodo y el momento en que la auditoría deba iniciarse.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Notificación de las modificaciones
+
+###### Artículo 17 Bis.
+
+Las modificaciones al Programa General de Fiscalización se darán a conocer a la Comisión, se publicarán en el Periódico Oficial de Gobierno del Estado de Guanajuato y se difundirán en el portal institucional.
 
 Emisión y difusión del programa
 
@@ -254,6 +374,10 @@ Presentación de la cuenta pública
 ###### Artículo 20.
 
 La cuenta pública deberá ser presentada al Congreso, a más tardar dentro de los sesenta días naturales siguientes a la fecha en que concluya el ejercicio fiscal respectivo. La cuenta pública y la información financiera deberán estar debidamente integradas y disponibles a través de las páginas de internet de los sujetos de fiscalización.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+La cuenta pública y la información financiera deberán presentarse a través de los medios electrónicos que implemente la Auditoría Superior.
 
 No será impedimento para que la Auditoría Superior realice la función de fiscalización, si la cuenta pública no está presentada y disponible en los plazos y requisitos señalados en esta ley. Lo anterior, sin perjuicio de la promoción de las responsabilidades a que haya lugar por la omisión de la presentación de la cuenta pública.
 
@@ -319,9 +443,15 @@ Con motivo de su función, la Auditoría Superior podrá compulsar información 
 
 Actas circunstanciadas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2024)</small>
+
 ###### Artículo 29.
 
-Durante sus actuaciones, los representantes de la Auditoría Superior que hubieren intervenido en las revisiones, deberán levantar actas circunstanciadas en presencia de dos testigos propuestos por el representante del sujeto de fiscalización o, en su ausencia o negativa, por la autoridad que practique la diligencia, en las que se harán constar, en su caso, los hechos u omisiones que se hubieren detectado. Las actas y sus anexos serán considerados como prueba de los hechos que consignen.
+En las acciones de fiscalización que se efectúen de manera presencial, los representantes de la Auditoría Superior que intervengan en ellas deberán levantar actas circunstanciadas en presencia de dos testigos, propuestos por el representante del sujeto de fiscalización o, en su ausencia o negativa, por la autoridad que practique la diligencia, en las que se harán constar, en su caso, los hechos u omisiones que se hubieren detectado. Las actas deberán levantarse en dos juegos, debiendo entregarse un ejemplar al sujeto de fiscalización.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Tratándose de acciones de fiscalización efectuadas a través de medios electrónicos, se levantará durante la reunión el acta correspondiente, y se remitirá a través del sistema electrónico para ello implementado a los sujetos de fiscalización que intervinieron en el acto, para su firma electrónica certificada, con independencia de que la reunión sea grabada.
 
 Visitas
 
@@ -341,7 +471,7 @@ Fiscalización a particulares
 
 Para la fiscalización de los recursos públicos que se destinen y ejerzan por particulares, se practicarán auditorías que estarán destinadas exclusivamente a la revisión de la aplicación de dichos recursos a los fines para los que fueron otorgados. Para tal efecto, los particulares deberán llevar el control y registro contable de los recursos públicos que se les hayan destinado para su ejercicio.
 
-Dichas auditorías se llevarán a cabo observando los procedimientos previstos en la presente ley, o en lo conducente aquéllos que para este efecto se establezcan en el Reglamento y en su defecto o (sic) en el Código Fiscal para el Estado de Guanajuato.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 8 DE ENERO DE 2024)</small>
 
 Extinción de facultades
 
@@ -371,23 +501,29 @@ Plazo
 
 El proceso de revisión de cuenta pública y auditorías a cargo de la Auditoría Superior tendrá un plazo máximo de duración de seis meses. Dicho plazo se computará a partir de la fecha de notificación de su inicio al sujeto de fiscalización. Para los efectos de este plazo, el proceso concluirá con la entrega del informe de resultados al Congreso.
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
 
-El Auditor Superior podrá suspender el plazo referido en el párrafo anterior, cuando se presenten circunstancias que alteren el orden social, la seguridad, la salud pública o cualquier otra que restrinja el ejercicio de las atribuciones de la Auditoría Superior.
+El Auditor Superior podrá ampliar el plazo referido en el párrafo anterior, cuando se presenten circunstancias que alteren el orden social, la seguridad, la salud pública o cualquier otra que restrinja el ejercicio de las atribuciones de la Auditoría Superior.
 
-> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 12 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 8 DE ENERO DE 2024)</small>
 
 Dicha suspensión deberá formalizarse mediante acuerdo, estableciendo:
 
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2020)</small>
+
 I. Las razones que la sustentan;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2020)</small>
 
 II. La fecha de inicio y conclusión de la misma, la cual no podrá exceder el plazo de seis meses, con la salvedad de poder renovarse en caso de prevalecer las circunstancias que le dieron origen; y
 
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2020)</small>
+
 III. El o los procesos de fiscalización a los que aplicará.
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
 
-El acuerdo de suspensión de plazos para que surta sus efectos deberá publicarse previamente en el Periódico Oficial del Gobierno del Estado de Guanajuato. Dicho acuerdo, además, se notificará al sujeto o sujetos de fiscalización que afecte y se informará al Órgano de Gobierno y a la Comisión.
+El acuerdo de ampliación de plazos para que surta sus efectos deberá publicarse previamente en el Periódico Oficial del Gobierno del Estado de Guanajuato. Dicho acuerdo, además, se notificará al sujeto o sujetos de fiscalización que afecte y se informará al Órgano de Gobierno y a la Comisión.
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2020)</small>
 
@@ -421,7 +557,9 @@ e) Personal comisionado o habilitado; y
 
 f) Firma del Auditor Superior;
 
-II. La Auditoría Superior notificará al sujeto de fiscalización, así como a los ex titulares cuando el proceso de fiscalización corresponda al período de su gestión, el pliego de observaciones y recomendaciones, para que las aclare, atienda o solvente dentro del término de quince días hábiles contados a partir del día hábil siguiente al de la notificación.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ENERO DE 2024)</small>
+
+II. La Auditoría Superior notificará el pliego de observaciones y recomendaciones a los titulares de los sujetos de fiscalización, así como a los ex titulares quienes dispondrán de quince días hábiles contados a partir del día siguiente al de su notificación, para dar respuesta y aportar los elementos de convicción que estimen pertinentes, para aclarar o solventar las observaciones, debiendo para el caso de las recomendaciones, precisar las mejoras efectuadas, las acciones a realizar o en su caso, justificar la improcedencia por la cual no resulte factible su implementación.
 
 Los ex titulares, para el efecto de contestar las observaciones tendrán derecho a solicitar por escrito la información que consideren pertinente a los titulares de los sujetos de fiscalización, quienes estarán obligados a entregar a la Auditoría Superior la información con que se cuente en sus archivos. También tendrán derecho a solicitar las copias certificadas que requieran.
 
@@ -431,17 +569,57 @@ De no existir observación o recomendación alguna, se formulará el informe de 
 
 III. Concluido el plazo para que el sujeto de fiscalización atienda o dé respuesta a las observaciones y recomendaciones o agotadas las acciones necesarias para su esclarecimiento, la Auditoría Superior elaborará y emitirá el informe de resultados correspondiente, el cual contendrá, como mínimo, lo siguiente:
 
-a) Los criterios de selección, el objetivo, el alcance, los procedimientos de auditoría aplicados y el dictamen de la revisión;
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
 
-b) El nombre del personal directivo de la Auditoría Superior a cargo de realizar la auditoría;
+a) Criterios de selección del acto, incluyendo aquellos para la selección de la muestra revisada; y, resumen de los procedimientos de auditoría aplicados a cada elemento de la muestra revisada;
 
-c) Los resultados de la fiscalización efectuada;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ENERO DE 2024)</small>
 
-d) Las observaciones y recomendaciones; y
+b) Objetivo;
 
-e) Los anexos que correspondan.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ENERO DE 2024)</small>
 
-De no existir observación o recomendación alguna, el informe de resultados únicamente contendrá lo prevenido en los incisos a) y b).
+c) Resumen de alcance, naturaleza, riesgos, procedimientos y conclusiones derivados del acto;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ENERO DE 2024)</small>
+
+d) Valoraciones respecto al estado de control interno;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ENERO DE 2024)</small>
+
+e) Dictamen de la revisión;
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 8 DE ENERO DE 2024)</small>
+
+f) Resultados de la fiscalización efectuada;
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 8 DE ENERO DE 2024)</small>
+
+g) Observaciones y recomendaciones;
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+h) Promoción del ejercicio de facultades de comprobación fiscal;
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+i) Comunicado ante órganos de control y autoridades que administran padrones de proveedores y contratistas;
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+j) Mecanismos de participación ciudadana, de ser el supuesto;
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+k) Firma electrónica certificada; y
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 8 DE ENERO DE 2024)</small>
+
+l) Anexos.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
+De no existir observación o recomendación alguna, el informe de resultados únicamente contendrá lo comprendido en los incisos a, b, c, d, e, en su caso, los incisos j y k.
 
 El informe de resultados que se presente al Congreso, deberá contener, además de lo señalado en los incisos que anteceden, la resolución y los acuerdos recaídos al recurso;
 
@@ -449,9 +627,9 @@ IV. El informe de resultados se notificará al sujeto de fiscalización, así co
 
 V. Agotado el plazo para presentar el recurso de reconsideración o resuelto éste, el Auditor Superior remitirá el informe de resultados al Congreso, a más tardar el 30 de octubre tratándose de la cuenta pública estatal, y a más tardar el 30 de noviembre respecto a la (sic) cuentas públicas municipales;
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
 
-Ante la emisión del acuerdo de suspensión señalado en el artículo 35 de la presente Ley, el periodo que comprenda dicha suspensión será adicionado a las fechas para la remisión del informe de resultados al Congreso, establecidas en el párrafo anterior.
+Ante la emisión del acuerdo de ampliación señalado en el artículo 35 de la presente Ley, el periodo que comprenda dicha ampliación será adicionado a las fechas para la remisión del informe de resultados al Congreso, establecidas en el párrafo anterior.
 
 VI. Emitido el acuerdo correspondiente por el Congreso, la Auditoría Superior notificará el mismo a quienes corresponda.
 
@@ -461,6 +639,22 @@ VI. Emitido el acuerdo correspondiente por el Congreso, la Auditoría Superior n
 
 VII. En su caso, la Auditoría Superior, iniciará las acciones de responsabilidad conducentes en los términos de las leyes aplicables, y promoverá el seguimiento a observaciones y recomendaciones.
 
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Comunicación con el sujeto de fiscalización
+
+###### Artículo 37 Bis.
+
+La Auditoría Superior informará al sujeto de fiscalización sobre los criterios que servirán de fundamento a sus opiniones y lo mantendrán al tanto de los objetivos, metodología y resultados de la función de fiscalización, debiendo dejar constancia en el expediente respectivo.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Análisis de comprobantes fiscales digitales
+
+###### Artículo 37 Ter.
+
+Dentro de los alcances de las revisiones que efectúe la Auditoría Superior, procurará el análisis de la totalidad de los comprobantes fiscales digitales, que correspondan a las operaciones efectuadas por el sujeto de fiscalización, dentro del periodo sujeto a revisión.
+
 Observaciones por el Congreso al informe de resultados
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
@@ -469,29 +663,19 @@ Observaciones por el Congreso al informe de resultados
 
 El informe de resultados sólo podrá ser observado por las dos terceras parles (sic) de los diputados integrantes del Congreso, cuando no se observen las formalidades esenciales del proceso de fiscalización.
 
-### Capítulo III. Denuncia de Investigación de Situación Excepcional
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ENERO DE 2024)</small>
 
-Presentación
+### Capítulo III. Denuncia de Situación Excepcional
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Presentación de la denuncia
 
 ###### Artículo 39.
 
-Cuando se presenten denuncias de situación excepcional por escrito ante la Auditoría Superior ésta procederá a integrar en el expediente respectivo las evidencias de los hechos vinculados de manera directa con las denuncias presentadas.
+Cualquier persona podrá presentar denuncia de situación excepcional ante la Auditoría Superior cuando presuma hechos irregulares relacionados con la aplicación, manejo o custodia de recursos públicos por parte de los sujetos de fiscalización, contratistas, proveedores o prestadores de servicios, respecto de contratos celebrados con estos.
 
-Se entenderá por situaciones excepcionales, aquellos casos en los cuales, de la denuncia que al efecto se presente, se deduzca o desprenda alguna de las circunstancias siguientes:
-
-I. Un daño patrimonial que afecte la hacienda pública estatal o municipal, o en su caso, al patrimonio de los entes públicos;
-
-II. Posibles actos de corrupción;
-
-III. Desvío flagrante de recursos hacia fines distintos a los que están autorizados;
-
-IV. La afectación de áreas estratégicas o prioritarias de la economía; y
-
-V. El riesgo de que se paralice la prestación de servicios públicos esenciales para la comunidad.
-
-Requisitos de la denuncia
-
-###### Artículo 40.
+La denuncia de situación excepcional podrá ser presentada de manera presencial o a través de los mecanismos electrónicos, que para tal efecto establezca la Auditoría Superior en su portal institucional.
 
 El escrito de denuncia de investigación excepcional deberá contener lo siguiente:
 
@@ -499,7 +683,7 @@ I. Nombre del denunciante;
 
 II. Domicilio para recibir notificaciones;
 
-III. Nombre del servidor público a quien se le imputan los hechos denunciados;
+III. Nombre del sujeto fiscalizado, dependencia o unidad a quien se le imputan los hechos denunciados;
 
 IV. Hechos en los que se sustenta la denuncia;
 
@@ -508,6 +692,36 @@ V. Elementos probatorios tendientes a acreditar irregularidades y las erogacione
 VI. Firma autógrafa del promovente.
 
 Cuando no se señale domicilio para recibir notificaciones o se detecte que el domicilio es erróneo o inexistente, se procederá a notificar en los estrados de las oficinas de la Auditoría Superior el acuerdo que recaiga sobre la denuncia presentada, así como las notificaciones subsecuentes.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Garantía de anonimato
+
+###### Artículo 39 Bis.
+
+Toda denuncia de situación excepcional por parte de la ciudadanía recibirá tratamiento de anónima, salvo que la persona interesada exprese su intención de que puedan ser divulgados los datos personales que hubiere proporcionado durante su presentación.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Remisión de denuncia
+
+###### Artículo 39 Ter.
+
+La denuncia de situación excepcional cuya tramitación no corresponda a las atribuciones de la Auditoría Superior, será remitida a la instancia que corresponda siempre que ésta sea identificable, a efecto de que se le dé el trato que corresponda.
+
+###### Artículo 40.
+
+(DEROGADO, P.O. 8 DE ENERO DE 2024)
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Plazo para la determinación de la denuncia
+
+###### Artículo 40 Bis.
+
+Cumplidos los requisitos previstos en el artículo 39 de esta Ley, entre la admisión de la denuncia de situación excepcional y la determinación que recaiga a la misma, no podrán mediar más de cuarenta y cinco días hábiles, lapso durante el cual la Auditoría Superior con la finalidad de robustecer o mejor proveer, podrá realizar requerimientos de información u otras acciones al denunciante.
+
+Admitida la denuncia de situación excepcional la Auditoría Superior requerirá al sujeto de fiscalización de que se trate, la revisión de los conceptos específicos vinculados de manera directa con la denuncia de situación excepcional presentada, con la finalidad de que rinda un informe detallado respecto de los hechos denunciados, de conformidad con el artículo 66, párrafo séptimo de la Constitución Política para el Estado de Guanajuato, dentro de los diez días hábiles contados a partir del día hábil siguiente al de la notificación del requerimiento. El sujeto fiscalizado en su caso podrá solicitar ampliar el plazo de respuesta por cinco días hábiles.
 
 Improcedencia
 
@@ -519,15 +733,31 @@ I. Cuando la denuncia instaurada no contenga alguno de los requisitos señalados
 
 II. Cuando de la denuncia presentada no se advierta o desprenda alguna de las circunstancias o supuestos previstos en el artículo 39 de esta ley;
 
-III. Cuando los hechos denunciados se contengan en una cuenta pública ya aprobada por el Congreso; y
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
+
+III. Cuando los hechos denunciados se contengan en una cuenta pública ya aprobada por el Congreso o en revisiones concluidas por otro ente fiscalizador; y
 
 IV. Cuando se trate de hechos notoriamente improcedentes.
 
-Informe
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Información al denunciante
+
+###### Artículo 41 Bis.
+
+La Auditoría Superior implementará el uso de medios electrónicos que permitan al denunciante conocer el estatus y atención de la denuncia presentada hasta su total resolución.
+
+Asimismo, la Auditoría Superior difundirá información estadística y analítica relativa a las denuncias que reciba.
+
+> <small>(REFORMADA SU EPÍGRAFE, P.O. 8 DE ENERO DE 2024)</small>
+
+Procedencia de la denuncia de situación excepcional
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2024)</small>
 
 ###### Artículo 42.
 
-Admitida la denuncia, la Auditoría Superior requerirá al sujeto de fiscalización de que se trate, la revisión de los conceptos específicos vinculados de manera directa con la denuncia presentada, a efecto de que le rinda un informe al respecto, dentro de los quince días hábiles contados a partir del día hábil siguiente al de la notificación del requerimiento.
+Una vez analizada la denuncia y los elementos de convicción proporcionados, atendiendo a lo señalado en el artículo 39 de la presente Ley, de advertirse las presuntas irregularidades, se determinará la realización del acto de fiscalización que corresponda.
 
 En el supuesto de que la denuncia se sustente en hechos derivados de una cuenta pública no presentada, se remitirá el expediente de la denuncia al Congreso para que determine lo conducente en términos del artículo 8 de esta ley.
 
@@ -537,11 +767,33 @@ Resolución
 
 La Auditoría Superior, una vez agotadas las acciones anteriores, podrá:
 
-I. Ordenar la práctica de la auditoría;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ENERO DE 2024)</small>
 
-II. Acumular el expediente de la denuncia con alguna otra auditoría ya existente en el Programa General de Fiscalización; o
+I. Incorporar la investigación al proyecto de la planeación del Programa General de Fiscalización;
 
-III. Archivar el expediente cuando se detecte que no existen elementos para probar los hechos o actos relacionados con la denuncia.
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
+
+II. Acumular el expediente de la denuncia con alguna auditoría relacionada ya existente en el Programa General de Fiscalización;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE ENERO DE 2024)</small>
+
+III. Ordenar la práctica de la auditoría, debiendo comunicar al Congreso a fin de que se pueda incorporar en el Programa General de Fiscalización dentro de los cinco días hábiles posteriores a la fecha de la determinación; o
+
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
+
+IV. Archivar el expediente cuando se detecte que no existen elementos para aprobar los hechos o actos relacionados con la denuncia;
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2024)</small>
+
+V. En el supuesto de que la denuncia se sustente en hechos derivados de una cuenta pública no presentada, se remitirá el expediente de la denuncia al Congreso para que determine lo conducente, en términos del artículo 8 de esta ley.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Conclusión de la revisión
+
+###### Artículo 43 Bis.
+
+La resolución que recaiga a la denuncia de situación excepcional se deberá informar al Congreso por conducto de la Comisión.
 
 ### Capítulo IV. Participación Ciudadana
 
@@ -550,6 +802,30 @@ Opiniones, solicitudes y quejas
 ###### Artículo 44.
 
 Cualquier ciudadano podrá presentar opiniones, solicitudes y quejas ante la Auditoría Superior, por hechos probablemente irregulares y que tengan relación inmediata y directa con recursos públicos que administran y ejercen los sujetos de fiscalización.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Mecanismos de participación
+
+###### Artículo 44 Bis.
+
+La Auditoría Superior adoptará mecanismos a través de los cuales la ciudadanía participará en el ejercicio de la función de fiscalización. Asimismo, para informar sobre el seguimiento de su participación.
+
+Son mecanismos de participación ciudadana los siguientes:
+
+I. La información y retroalimentación derivados de la función de fiscalización; y
+
+II. La denuncia que reciba la Auditoría Superior.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Análisis ciudadano de los informes
+
+###### Artículo 44 Ter.
+
+La Auditoría Superior pondrá a disposición de la ciudadanía los resultados derivados de los informes declarados por el Congreso, a fin de obtener comentarios o recomendaciones que permitan mejorar el ejercicio de la función de fiscalización.
+
+Asimismo, la Auditoría Superior dará seguimiento a la atención que otorgue a los comentarios y propuestas recibidas.
 
 Formalidades de presentación
 
@@ -751,21 +1027,39 @@ El análisis de la información financiera trimestral no computará para el plaz
 
 ### Capítulo VIII. Seguimiento
 
-Seguimiento al acuerdo del Congreso
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+Seguimiento
 
 ###### Artículo 65.
 
-Una vez que el Congreso emita el acuerdo respecto al informe de resultados, la Auditoría Superior iniciará las acciones de responsabilidad conducentes en los términos de las leyes aplicables, así como el seguimiento a las recomendaciones no atendidas u observaciones no solventadas en el informe de resultados, en los términos establecidos en esta ley.
+Presentados los informes de resultados al Congreso, y una vez aprobados, la Auditoría Superior los notificará a los sujetos de fiscalización respectivos, e iniciará el seguimiento de las acciones derivadas de la función de fiscalización.
 
-Plazo de atención
+El seguimiento de la función de fiscalización comprenderá las siguientes acciones a realizar por la Auditoría Superior y los sujetos de fiscalización:
+
+I. Por lo que se refiere a las observaciones:
+
+a) La promoción para el inicio de las acciones de responsabilidad administrativa o penal, conducentes en los términos de las leyes aplicables por parte de la Auditoría Superior o de los Órganos Internos de Control de los entes públicos, o sujetos fiscalizados según corresponda;
+
+b) Los planes de acción y mejora continua para inhibir la reincidencia en observaciones, que deriven de los resultados de los actos de fiscalización que realiza la Auditoría Superior;
+
+c) En su caso, la promoción del ejercicio de facultades de comprobación fiscal a las autoridades correspondientes, así como a aquellas que administran padrones de proveedores y contratistas; y
+
+II. La atención de las recomendaciones.
+
+> <small>(REFORMADA SU EPÍGRAFE, P.O. 8 DE ENERO DE 2024)</small>
+
+Atención de recomendaciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2024)</small>
 
 ###### Artículo 66.
 
-Las recomendaciones deberán ser atendidas en el término de diez días hábiles contados a partir del día hábil siguiente al de su notificación. Sólo por causa justificada a juicio del Auditor Superior, podrá prorrogarse por una sola vez el plazo antes referido.
+Tratándose de recomendaciones, el sujeto de fiscalización presentará un plan de acción para su atención dentro del plazo de cuarenta y cinco días hábiles siguientes al de la notificación del informe de resultados respectivo, a través del mecanismo o herramienta electrónica o digital desarrollada para el efecto por la Auditoría Superior, en la que le dará seguimiento hasta la total atención de las mismas.
 
-Dicha prórroga no podrá exceder de cinco días hábiles. La solicitud de prórroga deberá presentarse dentro del plazo señalado para la atención de las recomendaciones.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
+El mecanismo o herramienta que desarrolle la Auditoría Superior deberá permitir al sujeto de fiscalización facilitar información sobre las medidas adoptadas para la atención a las recomendaciones; así como proporcionar acceso público para consulta, a través del portal institucional.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2020)</small>
 
@@ -799,15 +1093,31 @@ La expedición de la constancia aludida en el presente artículo no exime a la A
 
 ### Capítulo X. Denuncias Administrativas
 
-Presentación
+> <small>(REFORMADA SU EPÍGRAFE, P.O. 8 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+Acciones de responsabilidad administrativa
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2024)</small>
 
 ###### Artículo 71.
 
-Ante la existencia de probables faltas administrativas, la Auditoría Superior iniciará las acciones de responsabilidad conducentes en los términos de las leyes aplicables.
+Ante la existencia de probables faltas administrativas graves, la Auditoría Superior, a través de su autoridad investigadora, iniciará las acciones de responsabilidad conducentes en los términos de las leyes aplicables.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 Para tal efecto, promoverá las acciones o denuncias correspondientes para la imposición de las sanciones por las faltas graves que se adviertan derivado de sus investigaciones, así como dar vista a las autoridades competentes cuando detecte la comisión de faltas no graves para que continúen la investigación respectiva y promuevan la imposición de las sanciones que procedan.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Los Órganos Internos de Control deberán informar a la autoridad investigadora de la Auditoría Superior, a más tardar, dentro de los treinta días hábiles siguientes de recibido el oficio correspondiente, el número de expediente con el que se inició la investigación o procedimiento respectivo.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Asimismo, los Órganos Internos de Control deberán informar a la autoridad investigadora de la Auditoría Superior de la resolución definitiva que se determine o recaiga a sus investigaciones, una vez que se encuentre firme, dentro de los diez días hábiles posteriores a que se emita dicha resolución; independientemente de la demás información que deban proporcionar en términos de esta Ley.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+El incumplimiento a lo previsto en este artículo será objeto de la imposición de una medida de apremio.
 
 Solicitud de información a los órganos de control
 
@@ -819,13 +1129,15 @@ La Auditoría Superior solicitará a los órganos de control información relati
 
 ### Capítulo XI. Denuncias Penales
 
-Ejercicio de la acción
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+Presentación de denuncias penales por parte de la Auditoría Superior
 
 ###### Artículo 73.
 
-En los casos en que, derivado de las investigaciones que realice la Auditoría Superior en términos de las leyes de responsabilidades administrativas, se desprendan hechos que hagan presumir le (sic) existencia de un delito y la probable responsabilidad de alguna o algunas personas en su comisión, procederá a presentar las denuncias o querellas ante el Ministerio Público, coadyuvando con dicha autoridad en la investigación.
+En los casos en que, derivado de las investigaciones que realice la Auditoría Superior a través de su autoridad investigadora, se desprendan hechos que hagan presumir la existencia de un delito, procederá a presentar las denuncias o querellas ante la Fiscalía Especializada en Combate a la Corrupción, coadyuvando con dicha autoridad en la investigación.
+
+La Auditoría Superior, coadyuvará con la Fiscalía Especializada en Combate a la Corrupción, en los procesos penales correspondientes, tanto en la etapa de investigación, como en la judicial.
 
 Presentación de denuncias
 
@@ -837,41 +1149,79 @@ Cuando durante el proceso de la auditoría se detecten elementos que acrediten a
 
 ### Capítulo XII. Informes al Congreso
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2024)</small>
 
-Informes de gestión y labores
+Contenido del informe general de resultados de la función de fiscalización
 
 ###### Artículo 74 Bis.
 
-Los informes semestrales de gestión que rinda el Auditor Superior, previstos en la fracción XXVII del artículo 87 de la presente Ley, deberán considerar como mínimo:
+El informe general de resultados de la función de fiscalización deberá contener como mínimo:
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2020)</small>
 
 I. Los avances y el estatus de los actos de fiscalización, especificando, además, el estado de las observaciones y acciones promovidas;
 
-II. Las acciones de seguimiento y atención a recomendaciones, especificando aquellas que se atendieron y las que prevalecen;
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2024)</small>
 
-III. Las estadísticas y avances respecto de la siguiente información:
+II. Las áreas claves con riesgo identificadas en la fiscalización;
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2024)</small>
+
+III. Un resumen de los resultados de la fiscalización;
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2024)</small>
+
+IV. La descripción de la muestra del gasto público auditado, señalando la proporción respecto del ejercicio de los entes públicos;
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2024)</small>
+
+V. Las observaciones, dependiendo de la relevancia, un apartado donde se incluyan sugerencias al Congreso para modificar disposiciones legales a fin de mejorar la gestión financiera y el desempeño de los entes públicos;
+
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
+
+VI. Las acciones de seguimiento y atención a recomendaciones, especificando aquellas que se atendieron y las que prevalecen;
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE OCTUBRE DE 2020)</small>
+
+VII. Las estadísticas y avances respecto de la siguiente información:
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2020)</small>
 
 a) El estado de los procedimientos de responsabilidad administrativa instaurados, las resoluciones firmes y el sentido de estas, así como el señalamiento de aquellas observaciones en las que no se encontraron elementos suficientes para demostrar la existencia de infracción, en términos de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato;
 
-b) El estado de los créditos fiscales derivados de sanciones administrativas;
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
+b) El estado de los créditos fiscales derivados de las multas impuestas;
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2020)</small>
 
 c) El estado de los procedimientos de responsabilidad civil, las resoluciones firmes y el sentido de estas, indicando en su caso, la cuantía recuperada y gastos y costas; y
 
-d) La situación que guardan las denuncias o querellas penales presentadas, las causas que las motivaron, las razones sobre su procedencia o improcedencia, así como en su caso, la sanción impuesta derivada de sentencia ejecutoria;
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
 
-IV. El número y los avances respecto a las denuncias de investigación de situación excepcional presentadas y su estatus;
+d) La situación que guardan las denuncias o querellas penales presentadas, las razones sobre su procedencia o improcedencia, así como en su caso, la sanción impuesta derivada de sentencia ejecutoria;
 
-V. Las multas impuestas, los montos y los cobros efectuados;
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2020)</small>
 
-VI. Las asesorías técnicas proporcionadas, los análisis y las propuestas de reformas o adiciones al marco normativo estatal en materia de transparencia, fiscalización y gestión financiera presentados, así como las capacitaciones impartidas; y
+VIII. El número y los avances respecto a las denuncias de investigación de situación excepcional presentadas y su estatus;
 
-VII. Las demás actividades institucionales llevadas a cabo en el periodo correspondiente.
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE ENERO DE 2024)</small>
 
-El informe del primer semestre se presentará dentro de los treinta días posteriores a su conclusión; y el correspondiente al segundo semestre se integrará al informe anual de labores a que alude el artículo 86 de la presente Ley.
+IX. Las multas impuestas, los montos y los cobros efectuados;
 
-El informe anual de labores deberá especificar un apartado por cada semestre, presentando las conclusiones de manera integrada.
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
 
-Los informes a que se refiere este artículo deberán difundirse en la página de internet de la Auditoría Superior.
+X. Las acciones de acompañamiento, asesorías técnicas proporcionadas, los análisis y las propuestas de reformas o adiciones al marco normativo estatal en materia de transparencia, fiscalización y gestión financiera presentados, así como las capacitaciones impartidas; y
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2020)</small>
+
+XI. Las demás actividades institucionales llevadas a cabo en el periodo correspondiente.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 8 DE ENERO DE 2024)</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 8 DE ENERO DE 2024)</small>
+
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 8 DE ENERO DE 2024)</small>
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2020)</small>
 
@@ -896,6 +1246,38 @@ a) Multa;
 b) Uso de la fuerza pública; y
 
 c) Promoción de las responsabilidades a que haya lugar.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Imposición de multas
+
+###### Artículo 75 Bis.
+
+La Auditoría Superior, podrá imponer multas a los servidores públicos, así como a las personas físicas y morales, conforme a lo siguiente:
+
+I. Cuando los servidores públicos y las personas físicas no atiendan los requerimientos, salvo que exista disposición legal o mandato judicial que se los impida, o por causas ajenas a su responsabilidad;
+
+II. En el caso de personas morales, públicas o privadas, que no atiendan los requerimientos, salvo que exista disposición legal o mandato judicial que se los impida, o por causas ajenas a su responsabilidad;
+
+III. La reincidencia se sancionará en los términos de la Ley, sin perjuicio de que persista la obligación de atender el requerimiento respectivo;
+
+IV. Las multas establecidas en esta Ley tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida. La Secretaría de Finanzas, Inversión y Administración se encargará de hacer efectivo su cobro en términos del Código Fiscal para el Estado de Guanajuato y de las demás disposiciones aplicables;
+
+V. Para imponer la multa que corresponda, la Auditoría Superior tomará en cuenta las condiciones económicas del infractor, así como la gravedad de la infracción cometida y, en su caso, elementos atenuantes y su nivel jerárquico; y
+
+VI. Las multas que se impongan en términos de este artículo son independientes de las sanciones administrativas y penales que, en términos de las leyes en dichas materias, resulten aplicables, de conformidad con lo establecido en el artículo siguiente.
+
+No procederá la imposición de sanciones ante el surgimiento de un caso fortuito o de fuerza mayor debidamente acreditado.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Negativa a entregar información y actos de simulación
+
+###### Artículo 75 Ter.
+
+La negativa injustificada a entregar información a la Auditoría Superior, así como los actos de simulación que se presenten para entorpecer y obstaculizar la actividad fiscalizadora será sancionada conforme a la Ley de Responsabilidades Administrativas para el Estado de Guanajuato y las leyes penales aplicables.
+
+Cuando los servidores públicos y las personas físicas o morales, públicas o privadas aporten información falsa, serán sancionados penalmente conforme a lo previsto por el Código Penal del Estado de Guanajuato.
 
 Cuantía
 
@@ -1057,11 +1439,23 @@ Ejercicio y administración del presupuesto
 
 La Auditoría Superior ejercerá autónomamente su presupuesto aprobado, de conformidad con las disposiciones legales y administrará sus recursos de forma que se garantice que todas sus direcciones y áreas cuenten con los elementos necesarios para el adecuado cumplimiento de sus funciones.
 
-Informe anual de labores
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Presentación del informe general al Congreso
 
 ###### Artículo 86.
 
-La Auditoría Superior rendirá al Órgano de Gobierno en el primer bimestre del año, un informe anual sobre todas sus labores y actividades institucionales efectuadas durante el año inmediato anterior.
+La Auditoría Superior deberá presentar el informe general de resultados de la función de fiscalización al Congreso en el mes de febrero del año siguiente al de su ejecución, mismo que deberá difundirse en la página institucional de la Auditoría Superior.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Explicación y aclaración de los informes
+
+###### Artículo 86 Bis.
+
+Recibidos los informes de resultados y el informe general de resultados de la función de fiscalización por la Comisión de Hacienda y Fiscalización del Congreso, esta podrá solicitar la comparecencia del Auditor Superior, a efecto de que brinde las explicaciones y las aclaraciones respecto de los resultados contenidos en los mismos.
+
+El Auditor Superior podrá ser acompañado por los servidores públicos de la Auditoría Superior que tengan relación con los actos susceptibles de aclaración.
 
 ### Capítulo II. Auditor Superior
 
@@ -1235,6 +1629,14 @@ Estructura
 
 El Auditor Superior para el eficaz desempeño de sus funciones será auxiliado por dos auditores especiales: de Cumplimiento Financiero, y de Evaluación y Desempeño, respectivamente; una Dirección General de Asuntos Jurídicos y la Dirección General de Administración, así como las demás unidades administrativas que establezca el reglamento interior.
 
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Unidad de Laboratorio de Obra Pública
+
+###### Artículo 96 Bis.
+
+La Auditoría Superior promoverá la calidad en la ejecución de las obras de infraestructura pública que realicen los sujetos de fiscalización con recursos locales, o, en su caso, federales a través de la Unidad de Laboratorio de Obra Pública. Para ello adoptará las metodologías, procesos, mecanismos y herramientas tecnológicas que permitan la verificación de las especificaciones constructivas, estándares normativos y de calidad empleados en la obra pública.
+
 Requisitos para ser Auditor Especial o Director General
 
 ###### Artículo 97.
@@ -1268,6 +1670,114 @@ Relaciones laborales
 Los servidores públicos de la Auditoría Superior son trabajadores del Poder Legislativo del Estado y su relación laboral se regirá por el estatuto correspondiente.
 
 El Auditor Superior, los auditores especiales y los directores generales, gozarán de las mismas prestaciones a las que tienen derecho los servidores públicos descritos en los artículos 59, fracción VI y 233, fracción VI de la Ley Orgánica del Poder Legislativo del Estado de Guanajuato.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE ENERO DE 2024)</small>
+
+## TÍTULO CUARTO. COLABORACIÓN, PREVENCIÓN Y TRANSPARENCIA PARA LA FISCALIZACIÓN
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE ENERO DE 2024)</small>
+
+### Capítulo I. Colaboración
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Coordinación con los Órganos Internos de Control
+
+###### Artículo 100.
+
+La Auditoría Superior podrá establecer mecanismos de colaboración para llevar a cabo auditorías coordinadas con los Órganos Internos de Control concernientes al fortalecimiento de las acciones de control interno, prevención y corrección, así como en la revisión de la cuenta pública, debiendo establecer una coordinación entre ambos a fin de garantizar el debido intercambio de información que al efecto se requiera, y otorgar las facilidades que permitan a los auditores llevar a cabo el ejercicio de sus funciones, estando obligados a mantener la reserva o confidencialidad, en términos de las disposiciones aplicables.
+
+Para tal efecto, el ente auditante colaborador deberá proporcionar la documentación que le solicite el ente solicitante de la colaboración sobre los resultados de la fiscalización que realicen o cualquier otra que se les requiera para el desarrollo de sus funciones, conforme a las directrices que acuerden.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Acceso a los servicios de laboratorio de obra
+
+###### Artículo 101.
+
+Los Órganos Internos de Control de los sujetos de fiscalización podrán acceder a los servicios de Laboratorio de Obra Pública, previo cumplimiento de los requisitos que determine la Auditoría Superior o en los términos del convenio de colaboración.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Evaluación entre pares
+
+###### Artículo 102.
+
+Para promover la mejora continua, optimizar herramientas y mejorar su función de fiscalización, la Auditoría Superior procurará la celebración de convenios de colaboración con las Entidades de Fiscalización Superior cuyo objeto sea la evaluación entre pares.
+
+Los resultados de la evaluación practicada a la Auditoría Superior serán referidos en el informe general de resultados de la función de fiscalización.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE ENERO DE 2024)</small>
+
+### Capítulo II. Mecanismos de Prevención
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Plan de Fortalecimiento a la Gestión Pública
+
+###### Artículo 103.
+
+La Auditoría Superior, durante el mes de febrero, emitirá un Plan Anual de Fortalecimiento a la Gestión Pública para el ejercicio fiscal en curso, el cual estará integrado con las acciones de acompañamiento que registren los entes públicos, previa convocatoria por parte de la Auditoría Superior.
+
+La convocatoria dispondrá los plazos, condiciones y requisitos para la inscripción y acompañamiento de las acciones correspondientes, misma que se emitirá y publicará en diciembre del ejercicio inmediato anterior.
+
+El registro de acciones por parte de los sujetos de fiscalización comprenderá del 1 de enero al 15 de febrero del ejercicio fiscal en curso.
+
+La Auditoría Superior proporcionará acompañamiento durante la ejecución de los planes, programas, obras, acciones, procesos o procedimientos sustantivos de los sujetos de fiscalización.
+
+Las opiniones emitidas por la Auditoría Superior no serán vinculantes para los sujetos de fiscalización.
+
+El ejercicio de esta función no impedirá la realización de futuras revisiones por parte de la Auditoría Superior.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Plan anual de capacitación
+
+###### Artículo 104.
+
+La Auditoría Superior, en el ejercicio de sus funciones, establecerá el plan anual de capacitación para el fortalecimiento de la acción preventiva de la fiscalización, orientada a mitigar factores o causales que impidan el adecuado funcionamiento de la actividad pública.
+
+El plan anual de capacitación deberá emitirse dentro del primer trimestre del ejercicio fiscal en curso.
+
+La Auditoría Superior contribuirá por sí o con el auxilio de instancias académicas, al desarrollo de capacidades y habilidades para el mejoramiento técnico de los servidores públicos de los Entes públicos en el ejercicio de sus funciones.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Asesoría
+
+###### Artículo 105.
+
+La Auditoría Superior pondrá a disposición de los sujetos de fiscalización las herramientas necesarias para dar respuesta a las consultas que estos realicen.
+
+Las opiniones vertidas no se considerarán vinculatorias, ni generarán derechos u obligaciones para la Auditoría Superior, los sujetos de fiscalización o terceros.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE ENERO DE 2024)</small>
+
+### Capítulo III. Mecanismos de Transparencia
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Transparencia proactiva
+
+###### Artículo 106.
+
+La Auditoría Superior publicará y difundirá información estadística, analítica, concreta, actualizada, en formatos abiertos y accesibles sobre la función de fiscalización, considerando los principios establecidos en las leyes de transparencia y protección de datos.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Presupuesto abierto
+
+###### Artículo 107.
+
+La Auditoría Superior divulgará de manera permanente mediante el presupuesto abierto, los datos estadísticos y analíticos relativos al ejercicio de los recursos de que dispone, para el desarrollo de sus actividades, así como los resultados obtenidos.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Versiones ciudadanas de los informes
+
+###### Artículo 108.
+
+La Auditoría Superior elaborará y difundirá en su portal institucional, versiones ejecutivas de los informes de resultados aprobados, dirigidas a la ciudadanía y que expliquen de manera clara, sencilla y en formatos accesibles, sus resultados.
 
 T R A N S I T O R I O S
 
@@ -1374,3 +1884,19 @@ Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al
 Artículo Segundo. La Auditoría Superior del estado de Guanajuato deberá adecuar su Reglamento Interior, así como sus manuales, lineamientos, guías y demás disposiciones administrativas al contenido del presente Decreto en un término de 90 días naturales, contado a partir de su entrada en vigor.
 
 Artículo Tercero. Las disposiciones previstas en el artículo 74 Bis de la Ley de Fiscalización Superior del Estado de Guanajuato que refieren a las responsabilidades civiles estarán vigentes hasta en tanto concluyan los procesos correspondientes.
+
+P.O. 8 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 299, EXPEDIDO POR LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Auditorías vigentes
+
+Artículo Segundo. Las auditorías que se encuentren en trámite ante la Auditoría Superior del Estado a la entrada en vigor del presente Decreto seguirán su trámite hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
+
+Actualización del Reglamento de la Ley
+
+Artículo Tercero. Se deberá armonizar el Reglamento de la Ley de Fiscalización Superior del Estado de Guanajuato en un plazo de noventa días hábiles contados a partir del inicio de vigencia del presente Decreto.
