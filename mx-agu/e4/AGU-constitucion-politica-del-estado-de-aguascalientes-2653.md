@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2023-12-18"
+last_updated: "2024-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -75,9 +75,9 @@ Toda persona tiene derecho al reconocimiento de su personalidad jurídica. Ningu
 
 Toda persona tiene los deberes y las obligaciones correlativas a los derechos que esta Constitución y demás leyes les reconocen. Por ende, toda persona está llamada a contribuir al cumplimiento de las tareas comunitarias y de labor social, en la medida de sus capacidades y posibilidades, como el medio para el pleno desarrollo de su personalidad.
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
 
-Queda prohibida toda discriminación motivada por el origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+Queda prohibida toda discriminación motivada por el origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil, la condición o situación migratoria, los antecedentes penales o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 > <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2021)</small>
 
@@ -219,6 +219,10 @@ Toda educación que realicen los particulares en el territorio del Estado será 
 
 El Estado y los Municipios garantizarán el derecho de acceso libre a internet, para tal efecto, establecerán los mecanismos y políticas públicas necesarias para asegurar progresiva y de manera gradual la efectividad de este derecho
 
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+El Estado y los Municipios impulsarán la sociedad del conocimiento mediante la investigación científica y la innovación tecnológica, a través de los programas y políticas que desarrollen y ejecuten las autoridades en la materia, de acuerdo a las facultades y atribuciones que las leyes les otorguen.
+
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 7o.
@@ -232,6 +236,10 @@ El Estado promoverá las condiciones para el desarrollo rural integral sostenibl
 > <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2018)</small>
 
 El Estado debe proveer los elementos necesarios para el desarrollo rural integral y sostenible mediante el mejoramiento de las condiciones de vida de la población rural y urbana, garantizando el abasto suficiente y oportuno de los alimentos básicos que la ley establezca.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado y los Municipios garantizarán este derecho para el uso justo, equitativo y sustentable de los recursos hídricos, estableciendo la participación de la ciudadanía en el fomento de la cultura del ahorro del agua y su uso responsable.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE JUNIO DE 2018)</small>
 
@@ -4110,3 +4118,27 @@ Una vez cubiertos los extremos legales que establece el artículo 94 de la Const
 ###### ARTÍCULO SEGUNDO.
 
 El Fiscal General del Estado de Aguascalientes que hubiese sido nombrado por un término menor y se encuentre en funciones, durará en su encargo el tiempo que señala el artículo 59 de la Constitución Política del Estado de Aguascalientes.
+
+P.O. 8 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 457.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto iniciara su vigencia al día siguiente de la publicación de su Declaratoria respectiva en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 458.- SE ADICIONA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 470.- SE ADICIONA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de la publicación de su Declaratoria respectiva en el Periódico Oficial del Estado de Aguascalientes.
