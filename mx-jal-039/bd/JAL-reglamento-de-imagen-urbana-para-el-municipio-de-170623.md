@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-imagen-urbana-para-el-municipio-de-170623"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-31"
-last_updated: "2022-11-03"
+last_updated: "2024-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 REGLAMENTO DE IMAGEN URBANA PARA EL MUNICIPIO DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 3 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 8 DE ENERO DE 2024.
 
 Reglamento publicado en el Suplemento del Ejemplar 15 de la Gaceta Municipal del Ayuntamiento de Guadalajara, el jueves 31 de diciembre de 2009.
 
@@ -171,7 +171,9 @@ A efecto de conservar la imagen de la Zona Centro Metropolitano, de la Zona de I
 
 I. Se prohibirá el comercio ambulante, tal y como se establece en el Reglamento para el Funcionamiento de Giros Comerciales, Industriales y de Prestación de Servicios en el Municipio de Guadalajara.
 
-II. Todas las nuevas instalaciones para los servicios de teléfonos, energía eléctrica, alumbrado y cualquier otra, deberán ser sujetas a las normas técnicas específicas y localizarse de manera subterránea;
+> <small>(REFORMADA, G.M. 8 DE ENERO DE 2024)</small>
+
+II. Todas las nuevas instalaciones para los servicios de infraestructura para telecomunicaciones y radiodifusión, teléfonos, energía eléctrica, alumbrado y cualquier otra, deberán ser sujetas a las normas técnicas específicas y localizarse de manera subterránea;
 
 III. Se prohíbe la colocación de aparatos acondicionadores de aire que sobresalgan de las fachadas a la vía pública;
 
@@ -245,9 +247,9 @@ I. No se permitirá la instalación de nuevas estructuras tales como tanques ele
 
 II. Cuando se excave en la vía pública para la realización de obras de drenaje, agua, alcantarillado, electrificación, teléfonos, u otros, los elementos patrimoniales eventualmente afectados, deberán sustituirse con otros de características iguales a los originales; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 3 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, G.M. 8 DE ENERO DE 2024)</small>
 
-III. Estará restringida la instalación de infraestructura básica para uso en servicios de telecomunicaciones en zonas donde la infraestructura existente se encuentre de manera subterránea, por lo que su instalación deberá adecuarse al tipo de infraestructura de la zona.
+III. Estará restringida la instalación de infraestructura básica para uso en servicios de telecomunicaciones en zonas donde la infraestructura existente se encuentre de manera subterránea, por lo que su instalación deberá adecuarse al tipo de infraestructura de la zona. Queda prohibida la instalación de postes y cableado aéreo.
 
 ## TÍTULO TERCERO. De la Vialidad Peatonal y Vehicular
 
@@ -279,9 +281,11 @@ Para realizar lo anterior, se deberá contar con el permiso o licencia que para 
 
 ## TÍTULO CUARTO. Del Mobiliario Urbano
 
+> <small>(REFORMADA, G.M. 8 DE ENERO DE 2024)</small>
+
 ###### Artículo 17.
 
-En las calles de la zona centro metropolitano que se pretendan peatonizar, previa consulta ciudadana, las instalaciones eléctricas, alumbrado público y teléfonos deberán ser subterráneas.
+En las calles de la zona centro metropolitano que se pretendan peatonizar, previa consulta ciudadana, las instalaciones eléctricas, alumbrado público y de servicios de telecomunicaciones deberán ser subterráneas.
 
 ###### Artículo 18.
 
@@ -642,3 +646,13 @@ Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalaja
 Segundo. Este ordenamiento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
 
 Tercero. Una vez publicadas las presentes reformas remítanse un tanto de las mismas al Congreso del Estado de Jalisco, para los efectos contemplados en el artículo 42, fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 8 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA Y AL REGLAMENTO DE IMAGEN URBANA PARA EL MUNICIPIO DE GUADALAJARA".]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Estas reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicadas las presentes disposiciones, remítanse mediante oficio un tanto de ellas al Congreso del Estado de Jalisco en los términos que establece el artículo 42, fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
