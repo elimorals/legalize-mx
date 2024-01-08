@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2023-12-18"
+last_updated: "2024-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -1389,6 +1389,8 @@ El Gobierno del Estado coadyuvará con la Secretaría de Salud, en las acciones 
 
 ### CAPITULO VII. Salud Mental
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2024)</small>
+
 ### CAPITULO VIII. Enfermedad Renal
 
 > <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2023)</small>
@@ -1411,61 +1413,169 @@ ARTICULO 83 UNDECIES.- (DEROGADO, P.O. 27 DE OCTUBRE DE 2023)
 
 ###### ARTICULO 79.
 
-La prevención de las enfermedades mentales tiene carácter prioritario. Se basará en el conocimiento de los factores de riesgo que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
+La salud mental y prevención de las adicciones tendrán carácter prioritario dentro de las políticas de salud y deberán brindarse conforme a lo establecido en la Constitución y en los tratados internacionales en materia de derechos humanos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2023)</small>
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Toda persona tiene derecho a gozar del más alto nivel posible de salud mental, sin discriminación por motivos de origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad, la expresión de género, la filiación política, el estado civil, el idioma, los antecedentes penales o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Para los efectos de esta Ley, se entiende por salud mental un estado de bienestar físico, mental, emocional y social determinado por la interacción del individuo con la sociedad y vinculado al ejercicio pleno de los derechos humanos; y por adicción a la enfermedad física y psico-emocional que crea una dependencia o necesidad hacia una sustancia, actividad o relación.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+ARTICULO 79 BIS.- El propósito último de los servicios de salud mental es la recuperación y el bienestar, el despliegue óptimo de sus potencialidades individuales para la convivencia, el trabajo y la recreación.
+
+La recuperación varía de persona a persona, de acuerdo con las preferencias individuales, significa el empoderamiento de la persona para poder tener una vida autónoma, superando o manejando el trauma.
+
+La atención a la salud mental deberá brindarse con un enfoque comunitario, de recuperación y con estricto respeto a los derechos humanos de los usuarios de estos servicios, en apego a los principios de interculturalidad, interdisciplinariedad, integralidad, intersectorialidad, perspectiva de género y participación social.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+ARTICULO 79 TER.- La atención de la salud mental y las adicciones del comportamiento comprende todas las acciones a las que se refiere el artículo 44 de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 8 DE ENERO DE 2024)</small>
 
 ###### ARTICULO 80.
 
-Para la promoción de la salud mental, el Organismo, el Instituto y las Instituciones de Salud en coordinación con las autoridades federales, estatales y municipales competentes en cada materia, fomentarán y apoyarán:
+Los servicios y programas en materia de salud mental y adicciones deberán privilegiar la atención comunitaria, integral, interdisciplinaria, intercultural, intersectorial, con perspectiva de género y participativa de las personas desde el primer nivel de atención y los hospitales generales.
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 8 DE ENERO DE 2024)</small>
 
-I.- El desarrollo de actividades educativas, socioculturales, recreativas, deportivas y cívicas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
+Para la promoción de la salud mental, el Organismo y las instituciones de salud, en coordinación con las autoridades competentes del Estado y sus municipios fomentarán y apoyarán:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
 
-II.- La difusión de las orientaciones para la promoción de la salud mental;
+I.- El desarrollo de actividades educativas, socioculturales y recreativas con carácter permanente que contribuyan a la salud mental y a la prevención de adicciones, preferentemente a grupos en situación de vulnerabilidad;
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
 
-III.- La realización de programas para prevención del abuso del alcohol y del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o adicciones;
+II.- La difusión de las orientaciones para la promoción de la salud mental, así como el conocimiento y prevención de los trastornos mentales y por consumo prejudicial de sustancias psicoactivas, y de adicciones;
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
 
-IV.- La realización de programas para el diagnóstico oportuno, atención y tratamiento de los trastornos mentales, además de aquellos cuyo origen emocional derive en afecciones alimentarias;
+III.- La realización de programas para la prevención y control del uso prejudicial de sustancias psicoactivas y de adicciones;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
 
-V.- La realización de programas de bienestar psicosocial, comprendiendo el crecimiento personal, el desarrollo profesional y la resolución de conflictos emocionales;
+IV.- Las acciones y campañas de promoción de los derechos de la población, sobre salud mental y adicciones, así como de sensibilización para reducir el estigma y la discriminación, a fin de favorecer el acceso oportuno a la atención;
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
 
-VI.- La realización de programas para la detección y tratamiento de posibles trastornos mentales que presenten niñas, niños y adolescentes de conformidad (sic) la Ley de Educación vigente en el Estado;
+V.- La implementación estratégica de servicios de atención de salud mental y adicciones en establecimientos de la red integral de servicios de salud del Sistema Estatal de Salud, que permita abatir la brecha de atención;
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
 
-VII.- La sensibilización a la sociedad sobre los trastornos mentales y las alternativas para la solución de sus problemas; y
+VI.- La investigación multidisciplinaria en materia de salud mental;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
 
-VIII.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+VII.- La participación de observadores externos en derechos humanos y la implementación de un mecanismo de supervisión y el desarrollo de programas que promuevan, protejan y garanticen los derechos humanos en cualquier establecimiento de salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ENERO DE 2024)</small>
+
+VIII.- La detección de los grupos poblacionales en riesgo de presentar trastornos mentales y por consumo perjudicial de sustancias psicoactivas, y de adicciones, preferentemente (sic) niñas, niños y adolescentes y miembros de grupos en situación de vulnerabilidad;
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2024)</small>
+
+IX.- El desarrollo de equipos de respuesta inmediata para situaciones de crisis, capacitados en técnicas para atenuar el escalamiento de crisis;
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2024)</small>
+
+X.- La capacitación y educación en salud mental al personal de salud del Sistema Estatal de Salud;
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2024)</small>
+
+XI.- El desarrollo de acciones y programas para detectar, atender y prevenir el suicidio; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE ENERO DE 2024)</small>
+
+XII.- Las demás acciones que directa o indirectamente contribuyan a la prevención, atención, recuperación y fomento de la salud mental de la población.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+ARTICULO 80 BIS.- Las instituciones públicas del Sistema Estatal de Salud deberán brindar acceso a los servicios de atención de salud mental, por consumo perjudicial de sustancias psicoactivas y adicciones en cumplimiento con los principios siguientes:
+
+I.- Cercanía al lugar de residencia de la población usuaria de los servicios de salud mental y las personas con consumo perjudicial de sustancias psicoactivas, y de adicciones;
+
+II.- Respeto a la dignidad y a los derechos humanos de las personas, con un enfoque de género, equidad, interseccionalidad e interculturalidad, poniendo énfasis en la prevención, detección temprana y promoción de la salud mental, incluyendo acciones enfocadas a la prevención de trastornos por el consumo perjudicial de sustancias psicoactivas y de adicciones;
+
+III.- Promover y desarrollar medidas para la toma de conciencia sobre la salud mental, la erradicación de estigmas y estereotipos, para la concientización de la sociedad y el personal de salud, a fin de disminuir todo tipo de discriminación hacia la población usuaria de los servicios de salud mental y las personas con consumo perjudicial de sustancias psicoactivas, y de adicciones;
+
+IV.- Reducción del daño de los diversos factores de riesgo que vive la población usuaria de los servicios de salud mental y las personas con consumo perjudicial de sustancias psicoactivas, y de adicciones;
+
+V.- Atención prioritaria a la población en situación de vulnerabilidad conforme a la legislación aplicable;
+
+VI.- Atención primaria a la salud como el eje principal sobre el que se estructure la atención comunitaria de la salud mental y de adicciones, en el marco del modelo de atención de la salud correspondiente;
+
+VII.- Acceso y atención integral continua e interdisciplinaria que requiera la población usuaria de los servicios de salud mental y las personas con consumo perjudicial de sustancias psicoactivas, y de adicciones; y
+
+VIII.- Participación de los familiares y de las organizaciones de usuarios de ayuda mutua para la atención.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+ARTICULO 80 TER.- Para combatir los estereotipos sobre la población que requiere de los servicios de salud mental y adicciones, las autoridades de salud mental y proveedores de servicios llevarán a cabo:
+
+I.- Programas de capacitación para profesionales de la salud mental, profesorado y autoridades educativas;
+
+II.- Difusión de campañas de comunicación social en lenguaje claro, formatos accesibles y con pertinencia lingüística en los diferentes medios de comunicación, tanto convencionales, como otras tecnologías de la información, dirigidas hacia la población en general para enfatizar una imagen respetuosa de la dignidad y los derechos humanos de la población que requiere de los servicios de salud mental y adicciones, con protección a la confidencialidad y el derecho a no identificarse como persona con discapacidad psicosocial;
+
+III.- Programas educativos en salud mental con enfoque de derechos humanos y perspectiva de género para familias, escuelas y centros de trabajo, y
+
+IV.- Programas en los medios de comunicación masiva en lenguaje claro, formatos accesibles y con pertinencia lingüística.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
 
 ###### ARTICULO 81.
 
-La atención de las enfermedades mentales comprende:
+La población usuaria de los servicios de salud mental tendrán los derechos siguientes:
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+I.- A la mejor atención disponible en materia de salud mental con perspectiva intercultural, pertinencia lingüística y perspectiva de género, lo que incluye el trato sin discriminación y con respeto a la dignidad de la persona, en establecimientos del Sistema Estatal de Salud;
 
-I.- La atención de personas con padecimientos mentales, incluidos los trastornos de la conducta alimentaria, trastornos de ansiedad, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas;
+II.- A contar con mecanismos de apoyo en la toma de decisiones y a directrices de voluntad anticipada sobre el consentimiento informado;
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+III.- Al consentimiento informado de la persona con relación al tratamiento a recibir;
 
-II.- La organización, operación y supervisión de instituciones dedicadas al estudio tratamiento y rehabilitación de enfermos mentales; y
+IV.- A no ser sometido a medidas de aislamiento, contención coercitiva o cualquier práctica que constituya tratos crueles, inhumanos o degradantes y, en su caso, ser sujeto a medios para atenuar el escalamiento de crisis;
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+V.- A un diagnóstico integral e interdisciplinario y a un tratamiento basado en un plan prescrito individualmente con historial clínico, revisado periódicamente y modificado de acuerdo con la evolución del paciente, que garantice el respeto a su dignidad de persona humana y sus derechos humanos;
 
-III.- El apoyo a las instituciones educativas del Estado para la detección y tratamiento de trastornos mentales en niñas, niños y adolescentes.
+VI.- A no ser sometido a tratamientos irreversibles o que modifiquen la integridad de la persona;
+
+VII.- A ser tratada y atendida en su comunidad o lo más cerca posible al lugar en donde habiten sus familiares o amigos;
+
+VIII.- A la confidencialidad de la información sobre su salud;
+
+IX.- A tener acceso y disponibilidad a servicios de salud mental y adicciones; y
+
+X.- A los derechos establecidos en la legislación nacional y los tratados y convenciones internacionales, vinculantes, de los que México forma parte.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+ARTICULO 81 BIS.- El internamiento de la población usuaria de los servicios de salud mental y de las personas por consumo perjudicial de sustancias psicoactivas y de adicciones, como último recurso terapéutico, se ajustará a principios éticos, sociales, de respeto a los derechos humanos, la dignidad de la persona, así como los requisitos que determine la Secretaría de Salud y demás disposiciones jurídicas aplicables.
+
+El internamiento sólo podrá llevarse a cabo de manera voluntaria y cuando aporte mayor beneficio terapéuticos para la persona que el resto de las intervenciones posibles; se realizará por el tiempo estrictamente necesario y en el Hospital más cercano al domicilio del usuario.
+
+Por ningún motivo el internamiento puede ser indicado o prolongado, si tiene el fin de resolver problemas familiares, sociales, laborales o de vivienda y de cuidado del paciente.
+
+En el caso de niñas, niños o adolescentes se privilegiarán alternativas comunitarias; en caso de que exista la justificación clínica para el internamiento, este se llevará a cabo en hospitales generales, asimismo se recabará la opinión de niñas, niños o adolescentes y se dejará registro en la historia clínica. En caso de no estar de acuerdo con el internamiento la institución, junto con la madre, el padre o tutor, deberán valorar otras alternativas de atención.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+ARTICULO 81 TER.- Todo tratamiento e internamiento de la población usuaria de los servicios de salud mental y las personas con consumo perjudicial de sustancias psicoactivas, y de adicciones, deberá prescribirse previo consentimiento informado.
+
+Los prestadores de servicios de salud mental, públicos o privados, están obligados a comunicar a la persona, de manera accesible, oportuna y en lenguaje comprensible, la información veraz y completa, incluyendo los objetivos, los beneficios, los posibles riesgos, y las alternativas de un determinado tratamiento, para asegurar que los servicios se proporcionen sobre la base del consentimiento libre e informado. Una vez garantizada la comprensión de la información a través de los medios y apoyos necesarios, la población usuaria de los servicios de salud mental tiene el derecho de aceptarlos o rechazarlos.
+
+La persona con trastornos mentales y por consumo perjudicial de sustancias psicoactivas, y de adicciones, es quien ostenta el derecho a consentir o denegar el permiso para cualquier tratamiento o internamiento, por lo que deberá presumirse que todos los pacientes tienen capacidad de discernir y deberán agotarse los esfuerzos para permitir que una persona acepte voluntariamente el tratamiento o el internamiento.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+ARTICULO 81 QUATER.- En previsión de requerir en el futuro servicios de atención médica, las personas tienen derecho a elaborar su voluntad anticipada en la que podrán determinar el tipo de acciones que desean sean tomadas para su tratamiento, o su negativa a recibir un tratamiento. En dicha manifestación de voluntad anticipada se establecerá, en su caso, la forma, alcance, duración y directrices de dicho apoyo, así como el momento o circunstancias en que su designación de apoyos a futuro surtirá eficacia. La persona podrá revocar en cualquier tiempo el contenido de la voluntad anticipada previamente adoptada.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+ARTICULO 81 QINQUIES (SIC).- Los establecimientos del Sistema Estatal de Salud elaborarán programas para la atención de los familiares y el círculo social cercano de las personas que experimentan dificultades psicoemocionales o condiciones de salud mental, sin que puedan traducirse en la afectación de la voluntad y preferencias de estas últimas. Los programas podrán versar sobre canalizaciones a servicios, psicoterapias breves, promoción de apoyos grupales, entre otros.
 
 ###### ARTICULO 82.
 
@@ -4618,3 +4728,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Con la entrada en vigor del presente Decreto quedan sin efectos las disposiciones legales y reglamentarias que se opongan al mismo.
+
+P.O. 8 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 534.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
