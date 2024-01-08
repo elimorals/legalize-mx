@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2023-11-27"
+last_updated: "2024-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -53,9 +53,11 @@ DISPOSICIONES GENERALES
 
 La presente ley es de interés público y tiene por objeto establecer las bases generales de integración y organización del territorio, población, gobierno y administración municipal.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
 ###### Artículo 2o.
 
-El Municipio libre es la base de la división territorial y de la organización política y administrativa del Estado, con personalidad jurídica, patrimonio propio y libre administración de su hacienda pública, sujeto a las bases establecidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, los ordenamientos que de ambas emanen y la presente Ley.
+El Municipio libre es la base de la división territorial y de la organización política y administrativa del Estado, cuenta con personalidad jurídica, patrimonio propio, libre administración de su hacienda pública, y está sujeto a las bases establecidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, los ordenamientos que de ambas emanen y la presente Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2019)</small>
 
@@ -77,11 +79,13 @@ Los municipios del Estado de Aguascalientes, son autónomos para organizar la Ad
 
 Los municipios administrarán libremente su hacienda, aprobando y ejerciendo su presupuesto de manera directa a través de los ayuntamientos o bien auxiliados por quienes ellos autoricen conforme a esta ley y los reglamentos que al efecto el propio Ayuntamiento expida, de acuerdo a los planes y programas municipales debidamente aprobados.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
 ###### Artículo 6o.
 
-La Hacienda Municipal se conforma de los derechos, bienes y los rendimientos que le pertenezcan, ingresos, activos y pasivos de los municipios y las contribuciones que señala la Constitución Política de los Estados Unidos Mexicanos y las demás disposiciones legales aplicables.
+La Hacienda Municipal se integra por el conjunto de bienes y derechos, activos y pasivos, que le pertenezcan, así como por los rendimientos de los mismos y los ingresos y contribuciones que señala la Constitución Política de los Estados Unidos Mexicanos y las demás disposiciones legales aplicables.
 
-Las cuentas públicas municipales se revisarán mensualmente y se fiscalizarán por el Congreso del Estado, a través del órgano competente a su cargo, de conformidad con la ley de la materia.
+Las cuentas públicas municipales se revisarán mensualmente por el ayuntamiento y se fiscalizarán por el Congreso del Estado, a través del órgano competente a su cargo, de conformidad con la ley de la materia.
 
 ### CAPITULO SEGUNDO. Organización Territorial
 
@@ -203,11 +207,13 @@ Cada Municipio será gobernado por un Ayuntamiento. La competencia que las const
 
 El Ayuntamiento funcionará y residirá en la cabecera municipal, podrá ubicar su residencia en forma temporal en otro lugar comprendido dentro de los límites territoriales del municipio, previo acuerdo emitido por el voto de las dos terceras partes de sus miembros.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
 ###### Artículo 16.
 
-Los municipios, tienen la potestad de normar libre y directamente las materias de su competencia, teniendo facultades para aprobar y expedir los Bandos de Policía y Gobierno, Reglamentos, circulares y disposiciones administrativas de observancia general dentro de su jurisdicción.
+Los municipios, tienen la facultad de reglamentar libre y directamente las materias de su competencia, mediante la aprobación y expedición de los Códigos, Bandos de Policía y Gobierno, Reglamentos, circulares y disposiciones administrativas de observancia general dentro de su jurisdicción.
 
-Al efecto, los ayuntamientos determinarán en reglamento, los casos y la forma de aplicación de los instrumentos de participación de los ciudadanos y vecinos en los asuntos del gobierno municipal que se estimen necesarios.
+Al efecto, los ayuntamientos determinarán en su reglamentación, los casos y la forma de aplicación de los instrumentos de participación de los ciudadanos y vecinos en los asuntos del gobierno municipal que se estimen necesarios.
 
 ###### Artículo 17.
 
@@ -221,21 +227,27 @@ Los ayuntamientos se renovarán en su totalidad cada tres años, salvo el caso d
 
 Dentro de las setenta y dos horas anteriores al inicio del periodo constitucional correspondiente, deberán comparecer las personas que en los términos de la legislación aplicable resultaron electos para ocupar los cargos de Presidente Municipal, Síndicos y Regidores, con el fin de rendir la protesta de ley para el ejercicio de las funciones inherentes a sus cargos. Esta protesta surtirá sus efectos de manera inmediata al momento en que inicie el ejercicio del período constitucional del Ayuntamiento entrante.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
 ###### Artículo 19.
 
-Para los efectos de la renovación de cada Ayuntamiento, los integrantes salientes, informarán sobre el estado que guarda la administración pública municipal a las personas electas para los mismos cargos, conforme lo acuerden los presidentes municipales entrante y saliente, observando el reglamento correspondiente. En caso de incumplimiento del Ayuntamiento saliente, se notificará al Congreso del Estado a efecto de que se determine la existencia de responsabilidades y proceder en consecuencia legal.
+Para los efectos de la renovación de cada Ayuntamiento, los integrantes salientes informarán sobre el estado que guarda la administración pública municipal a las personas electas para los mismos cargos, conforme lo acuerden los presidentes municipales entrante y saliente, observando el reglamento correspondiente. En caso de incumplimiento del Ayuntamiento saliente, se notificará al Congreso del Estado a efecto de que se determine la existencia de responsabilidades y proceda en consecuencia conforme a la Ley.
 
 ###### Artículo 20.
 
 Si al comenzar un período constitucional, la elección del Ayuntamiento no se ha verificado o se ha declarado nula, cesará en sus funciones el Ayuntamiento cuyo ejercicio constitucional concluyó.
 
-El Congreso del Estado convocará a sesión del Pleno dentro de los cinco días siguientes al que sea notificado de la declaración de nulidad de la elección de algún Ayuntamiento, para que a propuesta de los miembros de la Legislatura, de entre los vecinos del municipio correspondiente, y por el voto de más de la mitad de sus miembros, nombre un Concejo Municipal, integrado por el número de miembros que para el caso correspondieran al Ayuntamiento, quienes deberán cumplir los requisitos de elegibilidad establecidos para ser miembro del Ayuntamiento.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
+El Congreso del Estado convocará a sesión del Pleno dentro de los cinco días siguientes al que sea notificado de la declaración de nulidad de la elección de algún Ayuntamiento para que, a propuesta de los miembros de la Legislatura, por votación mayoritaria, nombre un Concejo Municipal integrado por el número de miembros que para el caso corresponda al Ayuntamiento, de entre los vecinos del municipio correspondiente, quienes deberán cumplir los requisitos de elegibilidad establecidos para ser miembro del Ayuntamiento.
 
 El Concejo Municipal será provisional, sus miembros rendirán la protesta de ley en la misma sesión en que fueron nombrados y tendrá la competencia que le corresponde al Ayuntamiento Constitucional.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
 ###### Artículo 21.
 
-En la sesión en que se nombre el Concejo Municipal el Congreso del Estado deberá expedir la convocatoria para la elección del Ayuntamiento que debe concluir el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones, un plazo no menor de cuatro meses, ni mayor de seis.
+En la sesión en que se nombre al Concejo Municipal el Congreso del Estado deberá expedir la convocatoria para la elección del Ayuntamiento que debe concluir el período respectivo, debiendo mediar, entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones, un plazo no menor de cuatro meses, ni mayor de seis.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2016)</small>
 
@@ -341,9 +353,11 @@ VIII. Ordenar la privación de la libertad de las personas fuera de los casos pr
 
 IX. Por inasistencia a cinco sesiones de Cabildo, aun cuando no sean consecutivas, sin causa justificada.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
 ###### Artículo 35.
 
-El procedimiento que seguirá el Congreso del Estado, se estará a lo dispuesto en el Artículo 31 de esta Ley.
+El procedimiento que seguirá el Congreso del Estado se apegará a lo dispuesto en el Artículo 31 de esta Ley.
 
 ### CAPITULO TERCERO. Facultades y Obligaciones de los Ayuntamientos
 
@@ -681,17 +695,21 @@ XXVI. Proponer al Ayuntamiento una terna para ocupar el cargo de titular del ór
 
 XXVII. Las demás que le confieran las leyes, reglamentos o demás disposiciones en la materia.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
 ###### Artículo 39.
 
-El Presidente Municipal vigilará que las labores de los secretarios y personal a su cargo se realicen en apego a los principios de generalidad, eficiencia, continuidad, imparcialidad, honradez y certeza.
+El Presidente Municipal vigilará que las labores de las personas titulares de las diversas dependencias y entidades de la administración pública municipal y del personal a su cargo se realicen con apego a los principios de generalidad, eficiencia, continuidad, imparcialidad, honradez y certeza.
 
 ###### Artículo 40.
 
 Para el cumplimiento de sus funciones, el Presidente Municipal puede auxiliarse de los integrantes del Ayuntamiento, siempre de acuerdo con la comisión que se les haya designado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2024)</small>
+
 ###### Artículo 41.
 
-El Presidente Municipal no podrá asumir carácter de representante jurídico del Municipio, salvo en los siguientes casos:
+El Presidente Municipal no podrá asumir el carácter de representante jurídico del Municipio en los litigios en que éste sea parte, salvo en los siguientes casos:
 
 I. Cuando el Síndico se encuentre legalmente impedido para el caso; y
 
@@ -709,7 +727,9 @@ II. Deliberar y votar sobre los asuntos que se traten en las sesiones;
 
 III. La procuración, defensa, promoción y la representación jurídica de los intereses municipales;
 
-IV. La representación jurídica de los ayuntamientos en los litigios en que éstos fuere parte y en la gestión de los negocios de la Hacienda Municipal;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
+
+IV. La representación jurídica de los ayuntamientos en los litigios en que éstos fueren parte;
 
 V. Asistir a los remates públicos en los que tenga interés el Municipio;
 
@@ -789,31 +809,41 @@ Los ayuntamientos podrán contar con un fondo de gestión social, para que los r
 
 ### CAPITULO SEPTIMO. De las Licencias y Suplencia de los Miembros del Ayuntamiento
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
 ###### Artículo 44.
 
-Los miembros del Ayuntamiento para separarse temporal o definitivamente del ejercicio de sus funciones, requieren licencia aprobada por el Cabildo.
+El ayuntamiento, a solicitud de alguno de sus miembros, podrá otorgarle licencia para separarse temporal o definitivamente del ejercicio de su cargo.
 
-Las licencias que autorice el Ayuntamiento, serán definitivas, indefinidas o por tiempo determinado, tomando en cuenta la solicitud del miembro del Ayuntamiento y la justificación respectiva.
+En caso de licencia definitiva, se citará al suplente para que tome posesión definitiva del cargo.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
 
 ###### Artículo 45.
 
-Las faltas de los integrantes del Ayuntamiento podrán ser temporales o definitivas, siendo las primeras aquéllas que no exceden de quince días, o que excediendo este plazo, sean debido a causa justificada.
+Las licencias para separarse temporalmente del cargo podrán ser por tiempo indefinido debido a causa justificada o por tiempo determinado hasta por treinta días.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
 
 ###### Artículo 46.
 
-Las faltas temporales del Presidente Municipal, las cubrirá el primer regidor, y en ausencia de éste, el que le siga en número.
+Las faltas temporales de los integrantes del Ayuntamiento que no impliquen la separación del cargo se sujetarán a lo siguiente:
 
-Las faltas temporales de los síndicos serán suplidas por el miembro del Ayuntamiento que éste designe, cuando sólo haya un síndico; y cuando haya más de uno, la ausencia será cubierta por el otro.
+I. En caso del Presidente Municipal, las cubrirá el primer regidor y en ausencia de éste, el que le siga en número;
 
-Las faltas de los regidores no se cubrirán, cuando no excedan de treinta días y exista el número suficiente de miembros que marca la Ley para que los actos del Ayuntamiento tengan validez; cuando no haya ese número, o las faltas excedieran el plazo indicado, se llamará al suplente respectivo.
+II. En caso de los síndicos, serán cubiertas por el miembro del Ayuntamiento que éste designe, cuando sólo haya un síndico; y cuando haya más de uno, la ausencia será cubierta por el otro; y
+
+III. Las faltas de los regidores no se cubrirán, cuando sean temporales y exista el número suficiente de miembros que marca la Ley para que los actos del Ayuntamiento tengan validez; cuando no haya ese número, o las faltas excedieran el plazo indicado, se llamará al suplente respectivo.
 
 ## TITULO TERCERO. REGIMEN ADMINISTRATIVO
 
 ### CAPITULO PRIMERO. De las Dependencias Administrativas
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
 ###### Artículo 47.
 
-Para el ejercicio de sus atribuciones y responsabilidades ejecutivas, el Ayuntamiento se auxiliará con las dependencias y entidades de la administración pública municipal, que en cada caso acuerde el Cabildo a propuesta del Presidente Municipal, las que estarán subordinadas a este servidor público.
+Para el ejercicio de sus atribuciones el Ayuntamiento se auxiliará con las dependencias y entidades de la administración pública municipal que estarán subordinadas al Presidente Municipal, mismas que serán establecidas mediante los correspondientes Códigos, Bandos de Buen Gobierno, Reglamentos y demás disposiciones de carácter general que expida el Ayuntamiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2022)</small>
 
@@ -843,9 +873,9 @@ Para ser Secretario del Ayuntamiento se requiere:
 
 I. Ser ciudadano en pleno uso de sus derechos políticos y civiles y ser vecino del municipio del Ayuntamiento que lo nombre;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
 
-II. Contar con título de licenciatura debidamente registrado.
+II. Contar con título de licenciatura;
 
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
@@ -937,9 +967,11 @@ VI.- Ser electo por los votos en el mismo sentido de cuando menos la mitad más 
 
 Salvo en los casos en que deba recabarse autorización del Congreso del Estado de acuerdo a la Constitución General y la Local, así como de esta Ley, la validez de los actos jurídicos realizados por las autoridades municipales, se sujetará lo dispuesto por la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
 ###### Artículo 53.
 
-La venta de bienes muebles e inmuebles propiedad de los municipios, se efectuará en subasta pública, con las excepciones que marca la legislación aplicable, siguiendo el procedimiento establecido para los remates judiciales en el Código de Procedimientos Civiles vigente para el Estado. En el caso de los primeros, cuando rebasen el equivalente a mil quinientos días de salario mínimo general vigente en el Estado.
+La venta de bienes muebles e inmuebles propiedad de los municipios, se efectuará en subasta pública, con las excepciones que marca la legislación aplicable. En el caso de los primeros, cuando rebasen el equivalente a mil quinientas Unidades de Medida y Actualización.
 
 ###### Artículo 54.
 
@@ -1029,11 +1061,7 @@ VI. El destino que se dará a los fondos que se obtengan de la enajenación.
 
 Los ayuntamientos necesitan autorización del Pleno del Poder Legislativo para:
 
-I. Enajenar, donar o realizar cualquier acto, contrato o convenio que transmita la propiedad o posesión de los bienes inmuebles del municipio, cuando:
-
-a. El acto sea a favor de personas físicas o morales del derecho privado; y
-
-b. El acto sea a favor de personas morales del derecho público y cuyo fin no sea de utilidad pública.
+I. (DEROGADA, P.O. 8 DE ENERO DE 2024)
 
 II. Coordinarse o asociarse con municipios de otras Entidades Federativas, para la prestación de servicios públicos o el mejor ejercicio de las funciones que les correspondan;
 
@@ -1319,9 +1347,11 @@ La Policía Preventiva Municipal acatará las órdenes que el Gobernador del Est
 
 La Policía Preventiva Municipal estará bajo el mando del Presidente de los Estados Unidos Mexicanos, cuando éste se encuentre dentro de la jurisdicción de aquella.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
 ###### Artículo 87.
 
-Las corporaciones de Tránsito Municipal en el uso de sus facultades estarán a lo dispuesto por la Ley de Vialidad del Estado.
+Las corporaciones de Tránsito Municipal en el uso de sus facultades estarán a lo dispuesto por la Ley de Movilidad del Estado.
 
 ### CAPITULO CUARTO. De la Impugnación de los Actos Municipales
 
@@ -1721,9 +1751,15 @@ II. Visitar los poblados del Municipio, en compañía de las personas que presid
 
 Las dependencias y entidades de la administración pública municipal conducirán sus acciones con base en los programas anuales que establezca el Ayuntamiento para el logro de los objetivos del Plan de Desarrollo Municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2024)</small>
+
 ###### Artículo 118.
 
-Las dependencias y entidades de la administración pública municipal tales como organismos públicos descentralizados, empresas de participación mayoritaria y fideicomisos, ejercerán las funciones propias de su competencia previstas en esta Ley o en los reglamentos o acuerdos expedidos por los ayuntamientos. En los reglamentos o acuerdos se establecerán las estructuras de organización de las unidades administrativas de los ayuntamientos, en función de las características socio-económicas de los respectivos municipios y de los requerimientos de la comunidad.
+Las dependencias y entidades de la administración pública municipal ejercerán las funciones propias de su competencia previstas en esta Ley, en los reglamentos o acuerdos expedidos por los ayuntamientos y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+En los reglamentos o acuerdos se establecerán las estructuras de organización de las unidades administrativas de los ayuntamientos, en función de las características socio-económicas de los respectivos municipios y de los requerimientos de la comunidad.
 
 ###### Artículo 119.
 
@@ -1773,9 +1809,9 @@ IV. Llevar los registros contables, financieros y administrativos de los ingreso
 
 V. Proporcionar oportunamente al Ayuntamiento todos los datos o informes que sean necesarios para la formulación del Presupuesto de Egresos Municipal, vigilando que se ajuste a las disposiciones de esta Ley y otros ordenamientos aplicables;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
 
-VI. Presentar anualmente al Ayuntamiento la cuenta pública en términos de la Ley General de Contabilidad Gubernamental y Ley de Presupuesto, Gasto Publico y Responsabilidad Hacendaria;
+VI. Presentar mensualmente al Ayuntamiento la información relativa a la cuenta pública;
 
 VII. Diseñar y aprobar las formas oficiales de manifestaciones, avisos, declaraciones y demás documentos requeridos;
 
@@ -1811,23 +1847,47 @@ XVIII. Contestar oportunamente los pliegos de observaciones y demás requerimien
 
 XIX. Expedir copias certificadas de los documentos que tenga a su cuidado sólo por acuerdo expreso del ayuntamiento;
 
-XX. Expedir las credenciales o constancias de identificación del personal autorizado para la práctica de visitas domiciliarias, inspecciones, verificaciones fiscales y notificaciones; y
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
 
-XXI. Las que le señalen las disposiciones legales y el propio Ayuntamiento.
+XX. Expedir las credenciales o constancias de identificación del personal autorizado para la práctica de visitas domiciliarias, inspecciones, verificaciones fiscales y notificaciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ENERO DE 2024)</small>
+
+XXI. Supervisar que se envíe al Congreso del Estado, a más tardar el 28 de febrero de cada año, la cuenta pública correspondiente al ejercicio anterior;
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2024)</small>
+
+XXII. Difundir trimestralmente en la página web oficial del municipio, la información generada sobre la situación financiera, a más tardar dentro de los 30 días posteriores al cierre del periodo, misma que deberá permanecer disponible en Internet correspondiente a los últimos seis ejercicios fiscales;
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2024)</small>
+
+XXIII. Difundir en la página web oficial del municipio, la información relativa al Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales de la Ciudad de México, especificando cada uno de los destinos señalados para dicho Fondo según lo dispuesto por la Ley de Coordinación Fiscal;
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2024)</small>
+
+XXIV. Rendir junto con el Presidente Municipal, al Congreso del Estado, a más tardar el día 20 de los meses de abril, julio y octubre del año en que se ejerza el presupuesto respectivo, el Informe de Avance de Gestión Financiera sobre los resultados físicos y financieros de los programas a cargo del municipio y publicar dicha información en la página web oficial del municipio, a más tardar a los 45 días posteriores a dicha entrega; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE ENERO DE 2024)</small>
+
+XXV. Las demás que le señalen las disposiciones legales y el propio Ayuntamiento.
 
 ## TITULO NOVENO. AUTORIDADES, ORGANISMOS AUXILIARES Y COMITES MUNICIPALES
 
 ### CAPITULO PRIMERO. Autoridades Auxiliares
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
 ###### Artículo 122.
 
-Son autoridades auxiliares municipales, los delegados y subdelegados, los jefes de sector, de sección y de manzana que designe el Ayuntamiento conforme a los procedimientos establecidos por éste, en los reglamentos respectivos.
+Son autoridades auxiliares municipales, los delegados, subdelegados, comisarios, jefes de sector, de sección y de manzana que designe el Ayuntamiento conforme a los procedimientos establecidos por éste, en los reglamentos respectivos.
 
 ### CAPITULO SEGUNDO. De los Consejos de Participación Ciudadana y Colaboración Municipal
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
 ###### Artículo 123.
 
-Para la gestión, promoción y ejecución de los planes, y programas municipales en las diversas materias, los ayuntamientos podrán auxiliarse de consejos de participación ciudadana municipal.
+Para la gestión, promoción y ejecución de los planes y programas municipales en las diversas materias, los ayuntamientos podrán auxiliarse de consejos de participación ciudadana municipal.
 
 ###### Artículo 124.
 
@@ -2033,11 +2093,11 @@ El cargo de Presidente del Comité Municipal para el Desarrollo Integral de la F
 
 La concesión es el acto administrativo del Ayuntamiento o del Estado o sus entidades paraestatales, en los términos del segundo párrafo del Artículo 77 de esta Ley, por el cual se faculta a una persona física o moral para realizar la prestación de un servicio público o el uso, aprovechamiento o explotación de bienes propiedad del municipio.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
 
 ###### Artículo 148.
 
-Cuando los servicios públicos municipales sean concesionados a particulares, se sujetarán a lo establecido por la ley especial que en su caso regule el servicio público de que se trate, las bases y obligaciones que se fijen al concesionario en el propio título de la concesión, las normas municipales aplicables, esta Ley y de manera supletoria, al Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes, la Ley del Procedimiento Administrativo para el Estado de Aguascalientes y demás normas aplicables.
+Cuando los servicios públicos municipales sean concesionados a particulares, se sujetarán a lo establecido por la ley especial que en su caso regule el servicio público de que se trate, las bases y obligaciones que se fijen al concesionario en el propio título de la concesión, las normas municipales aplicables, esta Ley y de manera supletoria al Código Urbano para el Estado de Aguascalientes, la Ley del Procedimiento Administrativo para el Estado de Aguascalientes y demás normas aplicables.
 
 ###### Artículo 149.
 
@@ -2752,3 +2812,11 @@ P.O. 27 DE NOVIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 532.- SE REFORMA LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
