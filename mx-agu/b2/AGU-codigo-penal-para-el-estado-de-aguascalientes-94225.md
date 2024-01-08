@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2023-12-27"
+last_updated: "2024-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -2371,25 +2371,39 @@ ARTÍCULO 163 A.- Para los efectos de este Código, es servidor público toda pe
 
 Se impondrán las mismas sanciones previstas para el delito de que se trate a cualquier persona que participe en la perpetración de alguno de los delitos previstos en este Capítulo
 
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ENERO DE 2024)</small>
 
-De manera adicional a dichas sanciones, se impondrá a los responsables de su comisión, la pena de destitución y la inhabilitación para desempeñar empleo, cargo o comisión públicos, así como para participar en adquisiciones, arrendamientos, servicios u obras públicas, concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio del Estado por un plazo de uno a veinte años, atendiendo a los siguientes criterios:
+De manera adicional a dichas sanciones, se impondrá a los responsables de su comisión, la pena de destitución y la inhabilitación para desempeñar empleo, cargo o comisión públicos, así como para participar en adquisiciones, arrendamientos, servicios u obras públicas, concesiones de prestación de servicios públicos o de explotación, aprovechamiento y uso de bienes de dominio del Estado y los Municipios por un plazo de uno a veinte años, atendiendo a los siguientes criterios:
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
 
 I. Será por un plazo de uno hasta diez años cuando no exista daño o perjuicio o cuando el monto de la afectación o beneficio obtenido por la comisión del delito no exceda de doscientas veces el valor diario de la Unidad de Medida y Actualización; y
 
-II. Será por un plazo de diez a veinte años si dicho monto excede el límite señalado en la fracción anterior.
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
 
-Para efectos de lo anterior, el juez deberá considerar, en caso de que el responsable tenga el carácter de servidor público, además de lo previsto en el artículo 163 Ter de este Código, los elementos del empleo, cargo o comisión que desempeñaba cuando incurrió en el delito.
+II. Será por un plazo de diez a veinte años si dicho monto excede el límite señalado en la fracción anterior.
 
 > <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
 
-Cuando el responsable tenga el carácter de particular, el juez deberá imponer la sanción de inhabilitación para desempeñar un cargo público, así como para participar en adquisiciones, arrendamientos, concesiones, servicios u obras públicas, considerando, en su caso, lo siguiente:
+Para efectos de lo anterior, el juez deberá considerar, en caso de que el responsable tenga el carácter de servidor público, además de lo previsto en el artículo 163 Ter de este Código, los elementos del empleo, cargo o comisión que desempeñaba cuando incurrió en el delito.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ENERO DE 2024)</small>
+
+Cuando el responsable tenga el carácter de particular, el juez deberá imponer la sanción de inhabilitación para desempeñar un empleo, cargo o comisión públicos, así como para participar en adquisiciones, arrendamientos, servicios u obras públicas, concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio del Estado y los Municipios, aplicando los criterios establecidos en las fracciones del párrafo tercero de este artículo, considerando, en su caso, lo siguiente:
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
 
 I. Los daños y perjuicios patrimoniales causados por los actos u omisiones;
 
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
+
 II. Las circunstancias socioeconómicas del responsable;
 
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
+
 III. Las condiciones exteriores y los medios de ejecución; y
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
 
 IV. El monto del beneficio que haya obtenido el responsable.
 
@@ -2401,9 +2415,13 @@ Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confian
 
 Cuando los delitos a que se refieren los artículos 169, 173, 174, 175 y 176 Bis del presente Código sean cometidos por servidores públicos electos popularmente o cuyo nombramiento este sujeto a ratificación del Congreso del Estado, las penas previstas serán aumentadas hasta en un tercio.
 
-> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
 
-En el caso de los tipos penales establecidos en los Artículos 169, 171, 172, 173, 174, 175, 176 y 176 Bis, cuando se compruebe que los mismos se configuraron dentro de un procedimiento de adquisición gubernamental, licitación pública o cualquier procedimiento de contratación dentro de la Administración Pública, se podrá determinar la imposición de la inhabilitación definitiva para participar en adquisiciones, arrendamientos, servicios u obras públicas ya sea a los servidores públicos o a los particulares que sean responsables en la comisión de los mismos. En este supuesto, se deberá dar aviso de dicha sanción al Sistema de Información Estatal de Servidores Públicos y particulares sancionados, en los términos de la Ley del Sistema Estatal Anticorrupción de Aguascalientes y, asimismo, se procederá a la cancelación del registro del Padrón Único de Proveedores de la Administración Pública Estatal como Municipal, según sea el caso.
+En el caso de los tipos penales establecidos en los Artículos 169, 171, 172, 173, 174, 175, 176 y 176 Bis, cuando se compruebe que los mismos se configuraron dentro de un procedimiento de adquisición gubernamental, licitación pública o cualquier procedimiento de contratación dentro de la Administración Pública, se aumentará hasta en un tercio en sus mínimos y máximos la pena de inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas ya sea a los servidores públicos o a los particulares que sean responsables en la comisión de los mismos. En este supuesto se ordenará la cancelación de los registros del inhabilitado, que en su caso obren en los padrones de proveedores de la Administración Pública Estatal como Municipal, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Las sanciones impuestas a servidores públicos y particulares por las figuras típicas previstas en este capítulo como tipos penales protectores de la administración pública, se inscribirán en el Sistema de Información Estatal de Servidores Públicos y Particulares Sancionados de la Plataforma Digital Estatal, de conformidad con lo establecido en la Ley del Sistema Estatal Anticorrupción de Aguascalientes y las disposiciones que emita la Secretaría Ejecutiva del Sistema Estatal Anticorrupción del Estado de Aguascalientes.
 
 > <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
 
@@ -2555,9 +2573,9 @@ XVII. Ordenar la aprehensión de un individuo cuando no se comprueben plenamente
 
 XVIII. No otorgar, cuando se solicite, la libertad caucional, si procede legalmente, sin fundar y motivar adecuadamente su negativa;
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
 
-XIX. Obligar a un inculpado a declarar, usando la incomunicación, la intimidación, la tortura o tratos crueles, inhumanos o degradantes; así como utilizar violencia física o moral que inhiba o intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por este Código o por la Ley General de Responsabilidades Administrativas;
+XIX. Utilizar violencia física o moral que inhiba o intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por este Código o por la Ley General de Responsabilidades Administrativas;
 
 XX. Prolongar la prisión preventiva por más tiempo del que como máximo fije la ley al delito que motive el procedimiento;
 
@@ -4146,3 +4164,15 @@ P.O. 27 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 573.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
 
 Artículo Primero.- El presente Decreto iniciará su vigencia al siguiente día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE ENERO DE 2024.
+
+[N. DE. TRANSITORIOS DEL “DECRETO NÚMERO 533.- SE REFORMA Y ADICIONA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del Artículo 9° del Código Penal para el Estado de Aguascalientes.
