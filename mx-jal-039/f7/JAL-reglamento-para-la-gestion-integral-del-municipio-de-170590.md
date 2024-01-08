@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-la-gestion-integral-del-municipio-de-170590"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-07-15"
-last_updated: "2023-12-28"
+last_updated: "2024-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 28 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 8 DE ENERO DE 2024.
 
 Reglamento publicado en el Suplemento de la Gaceta Municipal del Estado de Guadalajara, el viernes 15 de julio de 2016.
 
@@ -1837,9 +1837,11 @@ Las áreas de protección de recursos hídricos, serán determinadas por la Comi
 
 Las áreas de cesión para infraestructuras y sus instalaciones, están controladas por la instancia y organismo correspondiente, para con ello garantizar que permanezcan libres de cualquier tipo de construcción, a excepción de las propias para su seguridad, operación y mantenimiento; sin embargo las áreas de restricción que se originen por las infraestructuras y sus instalaciones, una vez concluido el tendido o construcción de éstas, se deben otorgar bajo la modalidad de comodato a favor del Municipio de Guadalajara, que durará el tiempo en que la infraestructura o sus instalaciones permanezcan en el lugar.
 
+> <small>(REFORMADO, G.M. 8 DE ENERO DE 2024)</small>
+
 ###### Artículo 92.
 
-Las áreas de cesión deberán contar con las obras de urbanización que les permitan su inmediata operación y funcionamiento, sin lo cual el Predio en cuestión no podrá obtener la recepción por parte del Municipio.
+Las áreas de cesión deberán contar con las obras de urbanización que les permitan su inmediata operación y funcionamiento: redes de agua potable, agua residual y sistema de manejo de agua pluvial. Red de electrificación, telecomunicaciones y alumbrado público; así como también, los elementos de vialidad como calles, banquetas, andadores, estacionamientos e instrumentos de control vial, tales como balizamiento, señalética, semaforización, jardinería y mobiliario urbano necesario; sin lo cual el predio en cuestión no podrá obtener la recepción por parte del Municipio.
 
 > <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
@@ -2681,9 +2683,9 @@ h) En el caso de urbanizaciones para la renovación urbana, el plano indicando e
 
 II. Los planos de servicios en original que incluyen:
 
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, G.M. 8 DE ENERO DE 2024)</small>
 
-a) Planos del proyecto de obras e instalaciones técnicas, propias de la urbanización con descripciones correspondientes, que comprenden el plano de niveles de rasantes y plataformas indicando las zonas de cortes y rellenos; el proyecto de la red de agua potable con la autorización del Sistema Intermunicipal de los Servicios de Agua Potable y Alcantarillado de la Zona Metropolitana de Guadalajara, o el organismo operador; el Proyecto de la Red o del Sistema de Desalojo de las Aguas Residuales y Pluviales con la Autorización del Sistema Intermunicipal de los Servicios de Agua Potable y Alcantarillado de la Zona Metropolitana de Guadalajara, o el organismo operador; el proyecto de la red de electrificación y del alumbrado público con autorización de (sic) Comisión Federal de Electricidad, CFE, y planos del proyecto de pavimentos, mecánica de suelos y características del tipo de pavimentos conforme a las normas de construcción; y
+a) Planos del proyecto de obras e instalaciones técnicas, propias de la urbanización con descripciones correspondientes, que comprenden el plano de niveles de rasantes y plataformas indicando las zonas de cortes y rellenos; el proyecto de la red de agua potable con la autorización del Sistema Intermunicipal de los Servicios de Agua Potable y Alcantarillado de la Zona Metropolitana de Guadalajara, o el organismo operador; el Proyecto de la Red o del Sistema de Desalojo de las Aguas Residuales y Pluviales con la autorización del Sistema Intermunicipal de los Servicios de Agua Potable y Alcantarillado de la Zona Metropolitana de Guadalajara, o el organismo operador; el proyecto de la red de electrificación y del alumbrado público con autorización de (sic) Comisión Federal de Electricidad, CFE; red de telecomunicaciones subterráneas y planos del proyecto de pavimentos, mecánica de suelos y características del tipo de pavimentos conforme a las normas de construcción;
 
 b) El plano que indique fuentes de aprovisionamiento de agua potable, sitios de descarga de los drenajes, alimentaciones eléctricas, telefónicas e instalaciones especiales y su conexión con el Predio a urbanizar.
 
@@ -2709,9 +2711,9 @@ b) La autorización de las dependencias y organismos federales, o sus concesiona
 
 V. Las demás que por la naturaleza de la Acción Urbanística dispongan los ordenamientos aplicables o lo que requiera la Dirección de Licencias de Construcción. Habiendo sido aprobado el Proyecto Definitivo de Urbanización por parte de la Dirección de Obras Públicas, esta emite la Licencia de Urbanización una vez que se haya enterado el pago de los derechos respectivos, de acuerdo a la Ley de Ingresos del Municipio vigente, en el tiempo máximo de respuesta establecido de 5 días hábiles.
 
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, G.M. 8 DE ENERO DE 2024)</small>
 
-Habiendo sido aprobado el Proyecto Definitivo de Urbanización por parte de la Dirección de Obras Públicas, esta emite la Licencia de Urbanización una vez que se haya enterado el pago de los derechos respectivos, de acuerdo a la Ley de Ingresos del Municipio vigente, en el tiempo máximo de respuesta establecido de 5 días hábiles.
+Habiendo sido aprobado el Proyecto Definitivo de Urbanización por parte de la Dirección de Licencias de Construcción, esta emite la Licencia de Urbanización una vez que se haya enterado el pago de los derechos respectivos, de acuerdo a la Ley de Ingresos del Municipio vigente, en el tiempo máximo de respuesta establecido de 5 días hábiles.
 
 > <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
@@ -3459,11 +3461,11 @@ Para las instalaciones subterráneas, uso de la infraestructura de penetración,
 
 Para llevar a cabo cualquier instalación aérea, tales como elementos de telecomunicación, postes, contra postes, puntales, postes de refuerzo, sostenes para apoyo, antenas, cables, tensores, cámaras de video, o cualquier otro elemento similar, deberán observarse las normas técnicas en materia de diseño de cada especialidad de ingeniería e imagen urbana.
 
-> <small>(ADICIONADO, G.M. 3 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, G.M. 8 DE ENERO DE 2024)</small>
 
 ###### Artículo 218 Bis.
 
-Estará restringida la instalación de infraestructura básica para uso en servicios de telecomunicaciones en zonas donde la infraestructura existente se encuentre de manera subterránea, por lo que su instalación deberá adecuarse al tipo de infraestructura de la zona.
+Estará restringida la instalación de infraestructura básica para uso en servicios de telecomunicaciones en zonas donde la infraestructura existente se encuentre de manera subterránea, por lo que su instalación deberá adecuarse al tipo de infraestructura de la zona. Quedando prohibida la instalación de postes y cableado aéreo.
 
 > <small>(ADICIONADO, G.M. 3 DE NOVIEMBRE DE 2022)</small>
 
@@ -3509,11 +3511,11 @@ IX. Acreditar el pago de derechos conforme a la Ley de Ingresos municipal vigent
 
 Una vez que se tenga la totalidad de requisitos, la Dirección de Obras Públicas, elaborará el dictamen técnico y, con base en el referido dictamen, emitirá la autorización correspondiente, pudiendo señalar en la misma, la realización de actos de adecuación. Concluidas las obras autorizadas, el responsable de las mismas deberá realizar la reparación a las afectaciones a la vía pública a entera satisfacción del Municipio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 8 DE ENERO DE 2024)</small>
 
 ###### Artículo 222.
 
-Para las instalaciones subterráneas en la vía pública de redes de telecomunicaciones como fibra óptica, telefonía, televisión por cable, vigilancia, de electrificación, instalaciones o redes similares, el promovente deberá tramitar la Licencia de Canalización, presentando ante la Dirección de Licencias de Construcción el expediente con la documentación que a continuación se detalla, a efecto de que la dependencia valore su procedencia:
+Para las instalaciones subterráneas en la vía pública de redes de telecomunicaciones como fibra óptica, telefonía, televisión por cable, vigilancia, de electrificación, instalaciones o redes similares, el promovente deberá tramitar la Licencia de Canalización, presentando ante la Dirección de Licencias de Construcción el expediente con la documentación que a continuación se detalla, a efecto de que la dependencia valore su procedencia.
 
 I. Visto Bueno, o en caso de así requerirlo, una resolución favorable en materia de impacto urbano ambiental, por parte de la Dirección de Medio Ambiente;
 
@@ -3523,13 +3525,13 @@ III. Memoria técnico-descriptiva de la instalación de las redes;
 
 IV. En el caso de redes de electrificaciones además de lo anterior comprobante de pago ante la Comisión Federal de Electricidad o dependencia responsable de proporcionar el servicio; y
 
-> <small>(REFORMADA [N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES SIMILAR AL DEL SEGUNDO PÁRRAFO], G.M. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, G.M. 8 DE ENERO DE 2024)</small>
 
-V. Dictamen técnico emitido por la Dirección de Obras Públicas, a través del Área de Gestión de Recursos. Una vez cubiertos los requisitos descritos anteriormente, la Dirección de Obras Públicas emitirá el dictamen técnico correspondiente. La Dirección de Licencias de Construcción con base en el referido dictamen, emitirá la autorización correspondiente, previo pago de los derechos municipales, pudiendo señalar en la misma la realización de actos de adecuación.
+V. Dictamen técnico emitido por la Dirección de Licencias de Construcción.
 
-(REFORMADO, G.M. 24 DE ABRIL DE 2017) [N. DE E. EL CONTENIDO DE ESTE PÁRRAFO ES SIMILAR AL DE LA FRACCIÓN V]
+> <small>(REFORMADO, G.M. 8 DE ENERO DE 2024)</small>
 
-Una vez cubiertos los requisitos descritos anteriormente, la Dirección de Obras Públicas emitirá el dictamen técnico correspondiente. La Dirección de Obras Públicas con base en el referido dictamen, emitirá la autorización correspondiente, previo pago de los derechos municipales, pudiendo señalar en la misma la realización de actos de adecuación.
+Una vez cubiertos los requisitos descritos anteriormente, la Dirección de Licencias de Construcción emitirá el dictamen técnico correspondiente. La Dirección de Licencias de Construcción con base en el referido dictamen, emitirá la autorización correspondiente, previo pago de los derechos municipales, pudiendo señalar en la misma la realización de actos de adecuación.
 
 Concluidas las obras autorizadas, el responsable de las mismas deberá realizar la reparación a las afectaciones a la vía pública a entera satisfacción del Municipio.
 
@@ -5664,3 +5666,13 @@ Tercero. Se derogan todas las disposiciones legales y administrativas que contra
 Cuarto. Se instruye a la Secretaría General para que notifique y solicite a la Dirección de Integración y Dictaminación, para que de conformidad con sus atribuciones pueda llevar a cabo en coordinación con las dependencias municipales competentes, el análisis de aquellas normas reglamentarias que requieran de su adecuación debido a la presente reforma.
 
 Quinto. Una vez publicadas las presentes reformas, remítase una copia al Congreso del Estado de Jalisco, para efectos de lo ordenado en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 8 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA Y AL REGLAMENTO DE IMAGEN URBANA PARA EL MUNICIPIO DE GUADALAJARA".]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Estas reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicadas las presentes disposiciones, remítanse mediante oficio un tanto de ellas al Congreso del Estado de Jalisco en los términos que establece el artículo 42, fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
