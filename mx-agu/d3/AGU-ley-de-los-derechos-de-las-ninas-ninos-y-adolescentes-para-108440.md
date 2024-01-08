@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2023-12-11"
+last_updated: "2024-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 11 DE DICIEMBRE DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2024.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -981,9 +979,9 @@ VII. El trabajo antes de la edad mínima de quince años, prevista en el artícu
 
 VIII. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso y la esclavitud de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en las demás disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
 
-IX. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral; y
+IX. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral;
 
 > <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 17 DE ENERO DE 2023)</small>
 
@@ -1003,9 +1001,17 @@ f) Difundir información a través de publicaciones o mensajes privados con la f
 
 g) Enviar constantemente mensajes o intentos de comunicación a la víctima;
 
-h) Difundir o promover la difusión de agresiones físicas grabadas en las que participe la víctima, por redes sociales, mensajes de texto o teléfono móvil con el fin de seguirle causando daño; y
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
 
-i) Utilizar la dirección de correo electrónico o datos personales de la víctima para suscribirla a diferentes servicios y plataformas.
+h) Difundir o promover la difusión de agresiones físicas grabadas en las que participe la víctima, por redes sociales, mensajes de texto o teléfono móvil con el fin de seguirle causando daño;
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
+i) Utilizar la dirección de correo electrónico o datos personales de la víctima para suscribirla a diferentes servicios y plataformas; y
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2024)</small>
+
+XI. La difusión de contenidos audiovisuales en medios de comunicación tradicionales y redes sociales que puedan perjudicar su desarrollo físico, mental o moral, en particular aquellos que incluyan escenas de pornografía, maltrato o violencia.
 
 Las autoridades competentes deberán considerar la perspectiva de género en las situaciones de violencia.
 
@@ -2994,3 +3000,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentos que se opongan al mismo.
+
+P.O. 8 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 535.- SE REFORMA Y ADICIONA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, quedando sin efecto todas aquellas disposiciones que se opongan al mismo.
