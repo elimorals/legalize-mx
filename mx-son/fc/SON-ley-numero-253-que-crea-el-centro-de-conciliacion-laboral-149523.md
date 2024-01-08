@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-253-que-crea-el-centro-de-conciliacion-laboral-14952
 country: "mx"
 rank: "ley"
 publication_date: "2021-05-04"
-last_updated: "2021-05-04"
+last_updated: "2024-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE CREA EL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE ENERO DE 2024.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el martes 4 de mayo de 2021.
 
@@ -133,9 +133,13 @@ II.- La Dirección General.
 
 La Junta de Gobierno será la máxima autoridad del Centro, y se integrará por:
 
-I.- Un Presidente, que será el Titular de la Secretaria del Trabajo;
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2024)</small>
 
-II.- Seis vocales, que serán: El Secretario de Gobierno, el Secretario de Hacienda, el Secretario de Economía, el Comisionado Presidente del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales en el Estado de Sonora, el Presidente del Tribunal de Justicia Administrativa del Estado de Sonora y el Presidente de la Comisión Estatal de Derechos Humanos.
+I.- Un Presidente, que será el Titular del Poder Ejecutivo del Estado de Sonora;
+
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2024)</small>
+
+II.- Seis vocales, que serán: El Secretario de Gobierno, el Secretario del Trabajo, el Secretario de Hacienda, el Secretario de Economía, el Comisionado Presidente del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales en el Estado de Sonora y el Presidente de la Comisión de Asuntos del Trabajo del Poder Legislativo del Estado de Sonora.
 
 Los integrantes de la Junta de Gobierno tendrán sus respectivos suplentes que serán designados por los propietarios y deberán tener una jerarquía inmediata inferior a los propietarios en la Dependencia u Organismo de que se trate.
 
@@ -433,15 +437,19 @@ En los documentos que, en su caso, se suscriban se observará el pleno respeto a
 
 El Director General del Centro será nombrado y removido libremente por el Gobernador del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 49.
 
-Para ser Director General del centro, deberá cumplir con lo siguiente:
+Para ser Director General del Centro, deberá cumplir con lo siguiente:
 
 I.- Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 II.- Tener por lo menos 30 años de edad cumplidos al día de la designación;
 
-III.- Tener Titulo y Cedula Profesional de Licenciado en Derecho o Abogado registrado ante la Dirección General de Profesiones de la Secretaria de Educación Pública o ante la Secretaria de Educación y Cultura, con una antigüedad de por lo menos 5 años al día de su designación;
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2024)</small>
+
+III.- Tener Titulo y Cedula Profesional de Licenciado en Derecho o Abogado registrado ante la Dirección General de Profesiones de la Secretaria de Educación Pública o ante la Secretaría de Educación y Cultura, con una antigüedad de por lo menos tres años al día de su designación;
 
 IV.- Tener capacidad y experiencia comprobable en actividades profesionales, de servicio público, o administrativo que estén sustancialmente relacionadas en materia laboral, no menor a tres años al día de su designación;
 
@@ -457,15 +465,15 @@ IX.- No haber sido representante popular, por lo menos tres años anteriores a l
 
 X.- No encontrarse en alguno de los impedimentos para ser integrante de la Junta de Gobierno que señale la Ley Orgánica del Poder Ejecutivo del Estado de Sonora; ni en los supuestos a que se refieren las fracciones IV y VIII del artículo 6° Transitorio del Decreto mediante el cual se reformaron y adicionaron diversas disposiciones de la Constitución Política del Estado de Sonora, publicado en el Boletín Oficial el 27 de Diciembre de 2019;
 
-(NOTA: EL 13 DE SEPTIEMBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 92/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2024)</small>
 
-XI.- No haber sido condenado mediante sentencia firme por DELITO DOLOSO QUE LE IMPONGA PENA DE PRISIÓN. TRATÁNDOSE DE delitos patrimoniales doloso (sic), cualquiera que haya sido la pena;
+XI.- No haber sido condenado mediante sentencia firme, por delitos patrimoniales dolosos o por hechos de corrupción, diez años anteriores a la designación;
 
 XII.- No encontrarse al momento de la designación, inhabilitado o suspendido administrativamente, o en su caso penalmente, para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público; y
 
-(NOTA: EL 13 DE SEPTIEMBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 92/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2024)</small>
 
-XIII.- NO HABER SIDO SANCIONADO CON MOTIVO DE UNA INVESTIGACIÓN DE CARÁCTER ADMINISTRATIVO, POR INFRACCIONES GRAVES, O PENAL, POR VIOLACIONES A LAS LEYES NACIONALES O EXTRANJERAS, QUE HAYAN TENIDO COMO CONCLUSIÓN CUALQUIER TIPO DE RESOLUCIÓN O ACUERDO QUE IMPLIQUE EXPRESAMENTE LA ACEPTACIÓN DE LA CULPA O RESPONSABILIDAD, O BIEN SENTENCIA CONDENATORIA FIRME.
+XIII.- No haber sido sancionado mediante sentencia firme por alguna de las infracciones previstas en el Capítulo II, del Título Tercero, de la Ley de Responsabilidades y Sanciones para el Estado de Sonora o por violaciones a las leyes nacionales o extranjeras, que hayan tenido como conclusión cualquier tipo de resolución o acuerdo que implique expresamente la aceptación de la culpa o responsabilidad, o bien sentencia condenatoria firme, diez años anteriores a la designación.
 
 ###### ARTÍCULO 50.
 
@@ -535,9 +543,17 @@ III.- Las aportaciones y subsidios que le otorguen el gobierno federal y los mun
 
 IV.- Las aportaciones, legados, donaciones y demás liberalidades que reciba de los sectores privado y social;
 
-V.- Los ingresos que se deriven de la administración de los bienes a su cargo; y
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2024)</small>
 
-VI.- Los bienes, derechos o recursos que perciba en el ejercicio de sus atribuciones o por cualquier otro título legal.
+V.- Los ingresos que se deriven de la administración de los bienes a su cargo;
+
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2024)</small>
+
+VI.- Los bienes, derechos o recursos que perciba en el ejercicio de sus atribuciones o por cualquier otro título legal; y
+
+> <small>(ADICIONADA, B.O. 8 DE ENERO DE 2024)</small>
+
+VII.- Los ingresos derivados del cobro que realice el Estado de las multas impuestas a que se refieren los artículos 684-E, fracción IV, 729, 994 y la demás de su competencia de la Ley Federal del Trabajo.
 
 Dichos bienes, derechos, aportaciones y productos serán inembargables y estarán exentos de toda clase de contribuciones, impuestos o derechos.
 
@@ -598,3 +614,17 @@ Comuníquese a la Titular del Poder Ejecutivo para su publicación en el Boletí
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los cuatro días de mayo del año dos mil veintiuno.- GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- JUAN ÁNGEL CASTILLO TARAZÓN.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 8 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 151, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY QUE CREA EL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos obtenidos que se estipulan en la fracción VII del artículo 53, deberán destinarse para el cumplimiento de los objetivos del centro, así como para estímulos y bonos para los funcionarios del mismo, debiendo distribuirse en un 90% de los recursos recaudados para el Centro y el 10% restante, será utilizado por el Estado en áreas de administración, cumplimiento de obligaciones y fiscalización.
