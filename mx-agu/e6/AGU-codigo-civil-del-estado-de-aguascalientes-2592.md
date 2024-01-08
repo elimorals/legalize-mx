@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2023-12-18"
+last_updated: "2024-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2024.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -2567,9 +2567,11 @@ El cónyuge que, sin culpa suya, se vea obligado a vivir separado del otro, podr
 
 (DEROGADO, P.O. 11 DE JUNIO DE 2018)
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
 ###### Artículo 347.
 
-Cuando alguna persona muera por motivo del desempeño de funciones o empleos públicos, sin dejar bienes propios que basten al sostenimiento de sus hijos menores de edad o inválidos, el Estado y los Municipios tendrán obligación de proporcionar alimentos a dichos hijos en los mismos términos que si se tratare de hermanos.
+Cuando alguna persona muera por motivo del desempeño de funciones o empleos públicos, sin dejar bienes propios que basten al sostenimiento de sus hijos menores de edad o con alguna discapacidad, el Estado y los Municipios, según sea el caso, tendrán obligación de proporcionar alimentos a dichos hijos en los mismos términos que si se tratare de hermanos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE NOVIEMBRE DE 2001)</small>
 
@@ -17682,3 +17684,11 @@ P.O. 18 DE DICIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 530.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
