@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2023-12-06"
+last_updated: "2024-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2024.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -258,6 +258,14 @@ ARTICULO 13 TER.- (DEROGADO, P.O. 6 DE DICIEMBRE DE 2023)
 ###### ARTICULO 14.
 
 Corresponde originalmente a las personas titulares de las dependencias el trámite y resolución de los asuntos de su competencia, pero para la mejor organización del trabajo, podrán delegar en las personas servidoras públicas que desempeñen los puestos o cargos señalados en los artículos 12 y 13, cualquiera de sus facultades, excepto aquellas que, por disposición legal o reglamentaria, deban ser ejercidas precisamente por dichas personas titulares. Los acuerdos por los cuales se deleguen facultades se publicarán en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2024)</small>
+
+ARTICULO 14 BIS.- Para ser titular de las dependencias centralizadas y coordinaciones adscritas directamente al Poder Ejecutivo del Estado, a que hacen referencia los artículos 2 y 24 de la presente Ley, además de los requisitos establecidos en la Constitución Política del Estado de Chihuahua u otras Leyes, deberán cumplir con los requisitos siguientes:
+
+I. No tener antecedentes penales por violencia familiar, delitos contra la intimidad sexual, hostigamiento sexual, acoso sexual, abuso sexual, estupro, violación o feminicidio; y
+
+II. No ser persona deudora alimentaria morosa, conforme a lo establecido en la Ley del Registro Estatal de Personas Deudoras Alimentarias Morosas de Chihuahua.
 
 ###### ARTICULO 15.
 
@@ -3732,3 +3740,19 @@ SÉPTIMO.- Las menciones que en otras leyes, reglamentos, decretos, acuerdos y d
 Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Secretaría de Coordinación de Gabinete en cualesquiera contratos, convenios, acuerdos o instrumentos jurídicos similares, serán asumidos por la Secretaría que corresponda, la Oficina de la Gubernatura del Estado, la Consejería Jurídica del Ejecutivo del Estado o la Coordinación de Política Digital, en los términos del párrafo anterior.
 
 OCTAVO.- Los nombramientos expedidos con anterioridad a la entrada en vigor del presente Decreto, subsistirán y seguirán surtiendo sus efectos conforme a la normatividad vigente al momento de su expedición, hasta en tanto sean emitidos o reformados los reglamentos interiores de las dependencias a que se refiere este Decreto, en cuyo caso deberán emitirse los nuevos nombramientos.
+
+P.O. 10 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVII/RFLYC/0650/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LAS LEYES DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA ESTATAL; DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; ELECTORAL DE ENTIDADES PARAESTATALES DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA; ORGÁNICAS DE LA FISCALÍA GENERAL, DEL PODER EJECUTIVO, DEL PODER LEGISLATIVO Y DEL PODER JUDICIAL; REGLAMENTARIA Y ORGÁNICA DE LA FISCALÍA ANTICORRUPCIÓN; ASÍ COMO DE LOS CÓDIGOS MUNICIPAL CIVIL Y PENAL, TODOS ORDENAMIENTOS JURÍDICOS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de acuerdo con las modalidades establecidas en los siguientes artículos.
+
+###### ARTÍCULO SEGUNDO.
+
+El Artículo Octavo del presente Decreto, entrará en vigor al año de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Los artículos Undécimo y Decimocuarto del presente Decreto, entrarán en vigor a los 180 días posteriores a su publicación en el Periódico Oficial del Estado.
