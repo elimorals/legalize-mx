@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2023-08-19"
+last_updated: "2024-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2024.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -1604,6 +1604,10 @@ IV.- No haber sido condenado (a) por delitos dolosos que ameriten pena privativa
 V.- (DEROGADA, P.O. 29 DE SEPTIEMBRE DE 2018)
 
 VI.- No ser ministro de culto religioso.
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2024)</small>
+
+VII. No ser persona deudora alimentaria morosa, conforme a lo establecido en la Ley del Registro Estatal de Personas Deudoras Alimentarias Morosas de Chihuahua.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2018)</small>
 
@@ -3530,3 +3534,19 @@ P.O. 19 DE AGOSTO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVII/RFLYC/0650/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LAS LEYES DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA ESTATAL; DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; ELECTORAL DE ENTIDADES PARAESTATALES DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA; ORGÁNICAS DE LA FISCALÍA GENERAL, DEL PODER EJECUTIVO, DEL PODER LEGISLATIVO Y DEL PODER JUDICIAL; REGLAMENTARIA Y ORGÁNICA DE LA FISCALÍA ANTICORRUPCIÓN; ASÍ COMO DE LOS CÓDIGOS MUNICIPAL CIVIL Y PENAL, TODOS ORDENAMIENTOS JURÍDICOS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de acuerdo con las modalidades establecidas en los siguientes artículos.
+
+###### ARTÍCULO SEGUNDO.
+
+El Artículo Octavo del presente Decreto, entrará en vigor al año de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Los artículos Undécimo y Decimocuarto del presente Decreto, entrarán en vigor a los 180 días posteriores a su publicación en el Periódico Oficial del Estado.
