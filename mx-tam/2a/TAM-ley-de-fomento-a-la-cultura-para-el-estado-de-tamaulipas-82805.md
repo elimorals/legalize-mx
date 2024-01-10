@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fomento-a-la-cultura-para-el-estado-de-tamaulipas-82805"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-01"
-last_updated: "2020-06-24"
+last_updated: "2024-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2024.
 
 Ley publicada el Periódico Oficial, el jueves 1 de septiembre de 2011.
 
@@ -145,13 +145,17 @@ VII. Fomentar, conforme a las disposiciones legales aplicables, las relaciones d
 
 VIII. Organizar el Sistema, así como todo tipo de actividades culturales y artísticas del sector público, cuando no corresponda hacerlo expresamente a otra dependencia del Gobierno del Estado;
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2024)</small>
 
-IX. Otorgar el Premio Estatal de Cultura, conforme lo dispuesto en la Ley de Premios, Estímulos y Recompensas del Estado; y
+IX. Otorgar el Premio Estatal de Cultura, conforme lo dispuesto en la Ley de Premios, Estímulos y Recompensas del Estado;
 
-> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2024)</small>
 
-X. Diseñar, desarrollar y mantener actualizado el Padrón Estatal de Artistas.
+X. Diseñar, desarrollar y mantener actualizado el Padrón Estatal de Artistas; y
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2024)</small>
+
+XI. Promover las artesanías, artes, obras o cualquier otra expresión cultural de autores nacidos o radicados en Tamaulipas, por medio de la realización de campañas permanentes de difusión a través de los medios digitales oficiales a los que tenga acceso.
 
 ###### ARTÍCULO 8.
 
@@ -612,3 +616,11 @@ P.O. 24 DE JUNIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-780 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IX Y X, Y SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 7 DE LA LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
