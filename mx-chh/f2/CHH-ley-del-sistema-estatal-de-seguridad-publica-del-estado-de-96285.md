@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-9628
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2023-04-29"
+last_updated: "2024-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2024.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 12 de octubre de 2013.
 
@@ -3259,6 +3259,12 @@ El Estado y los municipios realizarán los trabajos necesarios para lograr la co
 
 La información que se obtenga a través de la instalación y operación de videocámaras y equipos para grabar o captar imágenes con o sin sonido por las Instituciones de Seguridad Pública, prestadores de servicios de seguridad privada y particulares, en los términos de la ley de la materia, deberá integrarse al Sistema de Información Estatal de Seguridad Pública.
 
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2024)</small>
+
+###### Artículo 227 Bis.
+
+El Reglamento respectivo, determinará las bases para suministrar, intercambiar, sistematizar, consultar, analizar y actualizar entre las personas integrantes, los datos contenidos en el Sistema de Información Estatal de Seguridad Pública.
+
 #### SECCIÓN PRIMERA. DEL REGISTRO ESTATAL DE DETENIDOS
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
@@ -4618,3 +4624,19 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 En términos del Artículo Primero del presente Decreto, la Secretaría de Seguridad Pública del Estado deberá, en un término no mayor a 180 días a partir de la entrada en vigor del presente Decreto, adecuar el marco normativo interno, así como el relativo al Servicio Profesional de Carrera.
+
+P.O. 10 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVII/RFLYC/0650/2023 I P.O.".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de acuerdo con las modalidades establecidas en los siguientes artículos.
+
+###### ARTÍCULO SEGUNDO.
+
+El Artículo Octavo del presente Decreto, entrará en vigor al año de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Los artículos Undécimo y Decimocuarto del presente Decreto, entrarán en vigor a los 180 días posteriores a su publicación en el Periódico Oficial del Estado.
