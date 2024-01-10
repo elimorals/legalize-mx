@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2023-12-09"
+last_updated: "2024-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2024.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -1457,9 +1457,9 @@ q) Administración fraudulenta;
 
 r) Robo, Robo de Ganado y Encubrimiento por Receptación, cuando los mismos sean cometidos por el ascendiente, descendiente, cónyuge, parientes por consanguinidad y afinidad hasta el segundo grado, concubina o concubinario, adoptante o adoptado.
 
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2024)</small>
 
-s) Los que atentan contra la Libertad y la Seguridad Sexuales y el Normal Desarrollo Psicosexual previstos en el artículo 180 Bis del Código Penal, salvo cuando se trate de personas menores de catorce años, que no tengan la capacidad de comprender el significado del hecho o que por cualquier causa no puedan resistirlo.
+s) Los que atentan contra la Libertad y la Seguridad Sexuales y el Normal Desarrollo Psicosexual previstos en los artículos 180 Bis y 180 Ter del Código Penal, salvo cuando se trate de personas menores de catorce años, que no tengan la capacidad de comprender el significado del hecho o que por cualquier causa no puedan resistirlo.
 
 > <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -1796,6 +1796,10 @@ IX. El cuerpo de la víctima sea expuesto, depositado, arrojado o exhibido en ci
 X. El cuerpo de la víctima sea enterrado u ocultado.
 
 XI. Cuando la víctima se encuentre en estado de indefensión.
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2024)</small>
+
+XII. Exista en favor de la víctima, una orden o medida de protección impuesta al activo.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2020)</small>
 
@@ -2353,6 +2357,10 @@ Cuando la víctima estuviese bajo su guarda y custodia, además de las penas se�
 
 Se le impondrá de seis meses a dos años de prisión y de treinta a sesenta días multa, a quien sin llegar a la violación o al abuso sexual, realice a otra persona, sin su consentimiento, algún acto lascivo o de connotación sexual.
 
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2024)</small>
+
+La pena de prisión establecida en el párrafo que antecede, se incrementará en una mitad, cuando el acto lascivo o de connotación sexual, se lleve a cabo dentro de un vehículo de transporte público o de una empresa de red de transporte. Si quien comete la conducta mencionada es la persona conductora del vehículo referido, además, se le suspenderá su derecho para conducir este tipo de vehículos por el mismo plazo de la pena privativa de la libertad impuesta.
+
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 176 Ter.
@@ -2405,13 +2413,21 @@ Lo anterior se podrá imponer en el resto de los delitos previstos en el present
 
 ###### Artículo 180 Bis.
 
-A quien reciba u obtenga de una persona, imágenes, textos o grabaciones de voz o audiovisuales de contenido erótico o sexual y las revele o difunda sin su consentimiento y en perjuicio de su intimidad, se le impondrá de seis meses a cuatro años de prisión y de cien a doscientos días de multa.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2024)</small>
+
+A quien reciba u obtenga de una persona, imágenes, textos o grabaciones de voz o audiovisuales de contenido erótico o sexual y las revele o difunda sin su consentimiento y en perjuicio de su intimidad, se le impondrá de uno a cinco años de prisión y de cien a doscientos días de multa.
 
 Las penas a que se refiere el presente artículo, se aumentarán en una mitad cuando el delito se cometa en contra de una persona menor de catorce años o que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirlo, aun y cuando mediare su consentimiento.
 
 > <small>(ADICIONADO, P.O. 27 DE ENERO DE 2021)</small>
 
 A quien sin haber recibido u obtenido de la víctima imágenes, textos o grabaciones de voz o audiovisuales de contenido erótico o sexual, y a sabiendas de que la información fue revelada y difundida sin el consentimiento de la víctima y aun así la difunde, se le impondrá de noventa a ciento ochenta días de trabajo a favor de la comunidad. Si la víctima es de las contempladas en el párrafo anterior, además de trabajo a favor de la comunidad, se le impondrá de seis meses a dos años de prisión.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2024)</small>
+
+###### Artículo 180 Ter.
+
+A quien mediante el uso de las tecnologías de la información y la comunicación o cualquier otro medio, simule la apariencia de una persona, en imágenes o grabaciones de voz o audiovisuales de contenido erótico o sexual, que haga presumir la aparición de la víctima en dicho contenido y lo revele o difunda sin el consentimiento de la víctima, se le impondrá de uno a tres años de prisión y de cien a doscientos días de multa.
 
 ## TÍTULO SEXTO. DELITOS CONTRA LA EVOLUCIÓN O DESARROLLO DE LA PERSONALIDAD
 
@@ -5832,3 +5848,19 @@ P.O. 9 DE DICIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVII/RFLYC/0650/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LAS LEYES DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA ESTATAL; DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; ELECTORAL DE ENTIDADES PARAESTATALES DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA; ORGÁNICAS DE LA FISCALÍA GENERAL, DEL PODER EJECUTIVO, DEL PODER LEGISLATIVO Y DEL PODER JUDICIAL; REGLAMENTARIA Y ORGÁNICA DE LA FISCALÍA ANTICORRUPCIÓN; ASÍ COMO DE LOS CÓDIGOS MUNICIPAL CIVIL Y PENAL, TODOS ORDENAMIENTOS JURÍDICOS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de acuerdo con las modalidades establecidas en los siguientes artículos.
+
+###### ARTÍCULO SEGUNDO.
+
+El Artículo Octavo del presente Decreto, entrará en vigor al año de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Los artículos Undécimo y Decimocuarto del presente Decreto, entrarán en vigor a los 180 días posteriores a su publicación en el Periódico Oficial del Estado.
