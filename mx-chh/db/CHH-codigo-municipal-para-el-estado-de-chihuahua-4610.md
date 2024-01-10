@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2023-10-18"
+last_updated: "2024-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2024.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -975,9 +975,13 @@ LIII.- Generar personal capacitado en materia de mecanismos alternativos para la
 
 LIV.- Impulsar la creación de las instancias municipales en materia de protección civil establecidas en la Ley Estatal en la materia, a fin de dar cumplimiento a los preceptos que la misma establece, asumiendo la responsabilidad de elaborar, instrumentar y dar seguimiento a las políticas, acciones, planes y programas en materia de protección civil municipal.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE JULIO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ENERO DE 2024)</small>
 
-LV.- Las demás que les confieren las leyes y sus reglamentos.
+LV.- Establecer mecanismos, en el ámbito de su competencia, que favorezcan a la prevención, atención, sanción y erradicación del acoso y hostigamiento sexual en contra de mujeres, niñas, niños y adolescentes. Para lo cual podrán celebrar acuerdos y convenios con instituciones públicas o privadas.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE ENERO DE 2024)</small>
+
+LVI.- Las demás que les confieren las leyes y sus reglamentos.
 
 ### CAPITULO IV. ATRIBUCIONES DE LOS PRESIDENTES MUNICIPALES
 
@@ -1129,9 +1133,13 @@ XLIV.- Proponer al Ejecutivo Estatal sus necesidades presupuestarias para la eje
 
 XLV.- Proponer al Ayuntamiento, la celebración de instrumentos jurídicos para la coordinación y asociación dentro de los ramos de competencia municipal, en los términos previstos en los artículos 138 de la Constitución Política del Estado de Chihuahua y 180 del presente Código.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ENERO DE 2024)</small>
 
-XLVI.- Las demás que le confieren las leyes y reglamentos.
+XLVI.- Ejercer, en el ámbito de su competencia, las acciones que favorezcan a la prevención, atención, sanción y erradicación del acoso y hostigamiento sexual en contra de mujeres, niñas, niños y adolescentes.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE ENERO DE 2024)</small>
+
+XLVII.- Las demás que le confieren las leyes y reglamentos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 1987)</small>
 
@@ -1904,6 +1912,14 @@ Las personas titulares de la Secretaría, Tesorería, Oficialía Mayor y Direcci
 (ADICIONADO, P.O. 10 DE DICIEMBRE DE 2008) (F. DE E., P.O. 24 DE DICIEMBRE DE 2008)
 
 ARTICULO 60 BIS.- Los titulares de cada dependencia a que refiere el artículo anterior, tendrán fe pública respecto a la certificación o constancia que expidan de los documentos y archivos que obren en su poder, con motivo de sus atribuciones. Las certificaciones que expidan en ejercicio de esta facultad, serán bajo su más estricta responsabilidad, por lo que cualquier uso indebido de ésta, será motivo de sanción penal, civil o administrativa, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2024)</small>
+
+ARTICULO 60 TER.- Para ocupar la titularidad de alguna de las dependencias referidas en el artículo 60, así como de los organismos descentralizados municipales establecidos en el artículo 79, ambos del presente Código, además de los requisitos establecidos en la Constitución Política del Estado de Chihuahua u otras Leyes, deberán cumplir con los requisitos siguientes:
+
+I. No tener antecedentes penales por violencia familiar, delitos contra la intimidad sexual, hostigamiento sexual, acoso sexual, abuso sexual, estupro, violación o feminicidio; y
+
+II. No ser persona deudora alimentaria morosa, conforme a lo establecido en la Ley del Registro Estatal de Personas Deudoras Alimentarias Morosas de Chihuahua.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
@@ -5828,3 +5844,19 @@ P.O. 18 DE OCTUBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVII/RFLYC/0650/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LAS LEYES DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA ESTATAL; DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; ELECTORAL DE ENTIDADES PARAESTATALES DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA; ORGÁNICAS DE LA FISCALÍA GENERAL, DEL PODER EJECUTIVO, DEL PODER LEGISLATIVO Y DEL PODER JUDICIAL; REGLAMENTARIA Y ORGÁNICA DE LA FISCALÍA ANTICORRUPCIÓN; ASÍ COMO DE LOS CÓDIGOS MUNICIPAL CIVIL Y PENAL, TODOS ORDENAMIENTOS JURÍDICOS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de acuerdo con las modalidades establecidas en los siguientes artículos.
+
+###### ARTÍCULO SEGUNDO.
+
+El Artículo Octavo del presente Decreto, entrará en vigor al año de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Los artículos Undécimo y Decimocuarto del presente Decreto, entrarán en vigor a los 180 días posteriores a su publicación en el Periódico Oficial del Estado.
