@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-del-derecho-de-las-mujeres-a-una-vida-libre-de-5427
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-24"
-last_updated: "2023-12-20"
+last_updated: "2024-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2024.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
 
@@ -157,11 +157,15 @@ Los tipos de violencia contra las mujeres son:
 
 I. Violencia física: Es cualquier acto que inflige daño a la mujer a través del uso de la fuerza física, o cualquier tipo de armas u objetos, ácido o sustancia corrosiva, cáustica, irritante, tóxica, inflamable o cualquier otra sustancia que, en determinadas condiciones pueda provocar o no lesiones, ya sea internas, externas, o ambas.
 
-II. Violencia sexual: Es cualquier acto u omisión que atenta o limita el derecho a la libertad y seguridad sexuales de las mujeres en el ámbito público o privado, independientemente de quien la perpetre.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2024)</small>
+
+II. Violencia sexual: Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que, por tanto, atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto.
 
 III. Violencia sicológica: Es cualquier acto u omisión que daña la estabilidad emocional, menoscaba la autoestima o altera la salud mental de la mujer que recibe el maltrato consistente, entre otros, en descuido reiterado, insultos, humillaciones, devaluación de su autoestima, marginación, rechazo, restricción a la autodeterminación y celotipia.
 
-IV. Violencia patrimonial: Es cualquier acto u omisión del agresor que afecta la supervivencia de la víctima. Se manifiesta en la transformación, sustracción, destrucción, limitación, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2024)</small>
+
+IV. Violencia patrimonial: Es cualquier acto u omisión del agresor que afecta la supervivencia de la víctima. Se manifiesta en la transformación, sustracción, destrucción, limitación, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades, incluyendo aquellos que atentan en contra del cumplimiento de la obligación alimentaria, conforme a lo establecido en la Ley del Registro Estatal de Personas Deudoras Alimentarias Morosas de Chihuahua y puede abarcar los daños a los bienes comunes o propios de la víctima.
 
 > <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2020)</small>
 
@@ -181,7 +185,9 @@ Las modalidades de violencia son:
 
 I. Violencia familiar: Es el acto abusivo de poder u omisión intencional dirigido a dominar, controlar o agredir de manera física, sicológica, patrimonial, económica y sexual, dentro o fuera del domicilio familiar, realizadas por el agresor que tiene o ha tenido algún vínculo de índole familiar con la víctima, parentesco por consanguinidad, afinidad o civil; tutela o curatela; concubinato; o bien, que haya tenido o tenga alguna relación afectiva o sentimental de hecho.
 
-II. Violencia institucional: Son los actos u omisiones de las y los servidores públicos que discriminen o tengan como fin o resultado dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2024)</small>
+
+II. Violencia institucional: Son los actos u omisiones de las y los servidores públicos que discriminen, utilicen estereotipos o tengan como fin o resultado dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
 
 III. Violencia laboral y docente: Es todo acto u omisión ejercido en abuso de poder por personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, que daña su autoestima, salud, integridad, libertad y seguridad, impide su desarrollo y atenta contra la igualdad.
 
@@ -407,9 +413,17 @@ IV. Asistencia médica y sicológica gratuita para la atención de las consecuen
 
 V. Acciones de asistencia social que contribuyan a su pleno desarrollo;
 
-VI. Atención en un refugio temporal; y
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2024)</small>
 
-VII. Las demás que establezca esta Ley, su reglamento y demás disposiciones legales aplicables.
+VI. Atención en un refugio temporal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ENERO DE 2024)</small>
+
+VII. La víctima no será obligada a tomar mecanismos de conciliación con su agresor; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE ENERO DE 2024)</small>
+
+VIII. Las demás que establezca (sic) esta Ley, su reglamento y demás disposiciones legales aplicables.
 
 ###### Artículo 10.
 
@@ -575,9 +589,9 @@ El Consejo es el órgano del Sistema, con funciones de coordinación de acciones
 
 El Consejo estará integrado por las personas titulares o representantes legales de:
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2024)</small>
 
-I. La Secretaría de Desarrollo Social, a cargo de la presidencia;
+I. La Secretaría de Desarrollo Humano y Bien Común, a cargo de la presidencia;
 
 > <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2017)</small>
 
@@ -597,9 +611,9 @@ V. Las dependencias y entidades encargadas de aplicar programas en favor de las 
 
 VI. Cuatro representantes de las organizaciones de la sociedad civil en el Estado que trabajen con y para las mujeres.
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 15 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2024)</small>
 
-VII. Quien presida la Comisión de Igualdad del Poder Legislativo del Estado.
+VII. Quienes presidan las comisiones de Igualdad, de Justicia y de Feminicidios del Poder Legislativo del Estado.
 
 > <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2019)</small>
 
@@ -761,11 +775,11 @@ XI. Garantizar que las pláticas prematrimoniales que se imparten a través del 
 
 XII. Las demás que esta Ley y otros ordenamientos aplicables le confieran.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2024)</small>
 
 ###### Artículo 28.
 
-Corresponde a la Secretaría de Desarrollo Social:
+Corresponde a la Secretaría de Desarrollo Humano y Bien Común:
 
 I. Presidir las sesiones del Consejo;
 
@@ -1021,9 +1035,9 @@ XIII. Las demás previstas para el cumplimiento de esta Ley.
 
 Corresponde a los Municipios de la Entidad:
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2024)</small>
 
-I. Diseñar, formular y aplicar, en concordancia con el Consejo, la política municipal orientada a erradicar la violencia contra las mujeres, así como elaborar un plan de prevención, atención, canalización y denuncia para los casos de violencia contra niñas y adolescentes.
+I. Diseñar, formular y aplicar, en concordancia con el Consejo, la política municipal orientada a erradicar la violencia contra las mujeres, así como elaborar un plan de prevención, protección, atención, canalización y denuncia para los casos de violencia contra niñas y adolescentes.
 
 II. Participar con las autoridades estatales en la conformación y consolidación del Sistema;
 
@@ -1634,3 +1648,19 @@ P.O. 20 DE DICIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVII/RFLYC/0650/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LAS LEYES DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA ESTATAL; DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; ELECTORAL DE ENTIDADES PARAESTATALES DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA; ORGÁNICAS DE LA FISCALÍA GENERAL, DEL PODER EJECUTIVO, DEL PODER LEGISLATIVO Y DEL PODER JUDICIAL; REGLAMENTARIA Y ORGÁNICA DE LA FISCALÍA ANTICORRUPCIÓN; ASÍ COMO DE LOS CÓDIGOS MUNICIPAL CIVIL Y PENAL, TODOS ORDENAMIENTOS JURÍDICOS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de acuerdo con las modalidades establecidas en los siguientes artículos.
+
+###### ARTÍCULO SEGUNDO.
+
+El Artículo Octavo del presente Decreto, entrará en vigor al año de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Los artículos Undécimo y Decimocuarto del presente Decreto, entrarán en vigor a los 180 días posteriores a su publicación en el Periódico Oficial del Estado.
