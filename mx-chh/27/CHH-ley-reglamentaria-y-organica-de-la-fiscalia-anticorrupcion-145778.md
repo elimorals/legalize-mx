@@ -4,7 +4,7 @@ identifier: "CHH-ley-reglamentaria-y-organica-de-la-fiscalia-anticorrupcion-1457
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-26"
-last_updated: "2020-12-26"
+last_updated: "2024-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,6 +22,8 @@ state: "CHH"
 # LEY REGLAMENTARIA Y ORGANICA DE LA FISCALIA ANTICORRUPCION DEL ESTADO DE CHIHUAHUA
 
 LEY REGLAMENTARIA Y ORGÁNICA DE LA FISCALÍA ANTICORRUPCIÓN DEL ESTADO DE CHIHUAHUA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2024.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 26 de diciembre de 2020.
 
@@ -1297,6 +1299,10 @@ IV. PRESENTAR CONSTANCIA DE NO ANTECEDENTES PENALES.
 
 V. Presentar constancia de no inhabilitación para el ejercicio de un empleo, cargo o comisión en el servicio público.
 
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2024)</small>
+
+VI. No ser persona deudora alimentaria morosa, conforme a lo establecido en la Ley del Registro Estatal de Personas Deudoras Alimentarias Morosas de Chihuahua.
+
 Adicionalmente deberá cumplir los requisitos que la Constitución Federal, la Constitución Estatal, esta Ley, el Reglamento Interno y demás disposiciones legales establezcan para cada caso.
 
 ###### ARTÍCULO 74.
@@ -1656,3 +1662,21 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veinticuatro días del mes de diciembre del año dos mil veinte.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. LUIS FERNANDO MESTA SOULÉ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVII/RFLYC/0650/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LAS LEYES DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA ESTATAL; DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; ELECTORAL DE ENTIDADES PARAESTATALES DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA; ORGÁNICAS DE LA FISCALÍA GENERAL, DEL PODER EJECUTIVO, DEL PODER LEGISLATIVO Y DEL PODER JUDICIAL; REGLAMENTARIA Y ORGÁNICA DE LA FISCALÍA ANTICORRUPCIÓN; ASÍ COMO DE LOS CÓDIGOS MUNICIPAL CIVIL Y PENAL, TODOS ORDENAMIENTOS JURÍDICOS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de acuerdo con las modalidades establecidas en los siguientes artículos.
+
+###### ARTÍCULO SEGUNDO.
+
+El Artículo Octavo del presente Decreto, entrará en vigor al año de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Los artículos Undécimo y Decimocuarto del presente Decreto, entrarán en vigor a los 180 días posteriores a su publicación en el Periódico Oficial del Estado.
