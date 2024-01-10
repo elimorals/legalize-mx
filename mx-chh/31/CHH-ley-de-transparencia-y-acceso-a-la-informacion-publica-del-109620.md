@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1096
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-29"
-last_updated: "2021-08-14"
+last_updated: "2024-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109620&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2024.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 29 de agosto de 2015.
 
@@ -524,6 +526,10 @@ Dicha experiencia deberá ser comprobable mediante documentos expedidos por auto
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 2020)</small>
 
 e) No haber ocupado algún puesto de elección popular, la dirigencia de un partido o agrupación política, ministro de culto religioso, o la titularidad de la Fiscalía General del Estado, de alguna Secretaría de Estado, de organismos descentralizados y autónomos, o sus equivalentes en el orden federal, estatal o municipal, durante los dos años anteriores a su designación.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2024)</small>
+
+f) No ser persona deudora alimentaria morosa, conforme a lo establecido en la Ley del Registro Estatal de Personas Deudoras Alimentarias Morosas de Chihuahua.
 
 Durante el tiempo que los (las) Comisionados (as) duren en su encargo no podrán tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes o de beneficencia.
 
@@ -2690,3 +2696,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 El Poder Judicial del Estado y el Tribunal Estatal de Justicia Administrativa contarán con un plazo de 120 días naturales para realizar las acciones y adecuaciones necesarias que permitan la correcta aplicación del presente Decreto. Las plataformas y demás herramientas en donde se publiquen y difundan las sentencias en sus versiones públicas, deberán optimizarse para garantizar su manejo y consulta.
 
 Lo anterior, sin perjuicio de lo dispuesto por el Artículo Segundo Transitorio de la reforma al artículo 73, fracción II de la Ley General de Transparencia y Acceso a la Información Pública, publicada en el Diario Oficial de la Federación el 13 de agosto de 2020, el cual establece un plazo perentorio para iniciar la publicación de las versiones públicas de todas las sentencias emitidas.
+
+P.O. 10 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVII/RFLYC/0650/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LAS LEYES DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA ESTATAL; DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; ELECTORAL DE ENTIDADES PARAESTATALES DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA; ORGÁNICAS DE LA FISCALÍA GENERAL, DEL PODER EJECUTIVO, DEL PODER LEGISLATIVO Y DEL PODER JUDICIAL; REGLAMENTARIA Y ORGÁNICA DE LA FISCALÍA ANTICORRUPCIÓN; ASÍ COMO DE LOS CÓDIGOS MUNICIPAL CIVIL Y PENAL, TODOS ORDENAMIENTOS JURÍDICOS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de acuerdo con las modalidades establecidas en los siguientes artículos.
+
+###### ARTÍCULO SEGUNDO.
+
+El Artículo Octavo del presente Decreto, entrará en vigor al año de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Los artículos Undécimo y Decimocuarto del presente Decreto, entrarán en vigor a los 180 días posteriores a su publicación en el Periódico Oficial del Estado.
