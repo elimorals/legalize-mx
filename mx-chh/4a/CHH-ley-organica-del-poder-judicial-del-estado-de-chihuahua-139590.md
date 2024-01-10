@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-139590"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-12-28"
-last_updated: "2023-04-26"
+last_updated: "2024-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2024.
 
 Ley publicada en Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 28 de diciembre de 2019.
 
@@ -428,6 +428,10 @@ I. Tener la ciudadanía mexicana en pleno ejercicio de sus derechos.
 II. Ser de reconocida honorabilidad y buena conducta.
 
 III. Tener la capacidad necesaria para desempeñar el puesto al que se asigne.
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2024)</small>
+
+IV. No ser persona deudora alimentaria morosa, conforme a lo establecido en la Ley del Registro Estatal de Personas Deudoras Alimentarias Morosas de Chihuahua.
 
 Adicionalmente deberá cumplir los requisitos que la Constitución Federal, la Constitución, esta Ley o las disposiciones reglamentarias establezcan para cada caso.
 
@@ -3556,3 +3560,19 @@ En cumplimiento del Principio de Progresividad que impera en materia de Derechos
 ###### ARTÍCULO CUARTO.
 
 En relación con el artículo 177 Ter, el establecimiento de los Centros Regionales de Personas Traductoras e Intérpretes atenderá a la suficiencia y justificación presupuestal que el Poder Judicial del Estado de Chihuahua establezca.
+
+P.O. 10 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVII/RFLYC/0650/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LAS LEYES DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA ESTATAL; DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; ELECTORAL DE ENTIDADES PARAESTATALES DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA; ORGÁNICAS DE LA FISCALÍA GENERAL, DEL PODER EJECUTIVO, DEL PODER LEGISLATIVO Y DEL PODER JUDICIAL; REGLAMENTARIA Y ORGÁNICA DE LA FISCALÍA ANTICORRUPCIÓN; ASÍ COMO DE LOS CÓDIGOS MUNICIPAL CIVIL Y PENAL, TODOS ORDENAMIENTOS JURÍDICOS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de acuerdo con las modalidades establecidas en los siguientes artículos.
+
+###### ARTÍCULO SEGUNDO.
+
+El Artículo Octavo del presente Decreto, entrará en vigor al año de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Los artículos Undécimo y Decimocuarto del presente Decreto, entrarán en vigor a los 180 días posteriores a su publicación en el Periódico Oficial del Estado.
