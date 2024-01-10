@@ -4,7 +4,7 @@ identifier: "CHH-ley-electoral-del-estado-de-chihuahua-109547"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-22"
-last_updated: "2023-07-01"
+last_updated: "2024-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ELECTORAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2024.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 22 de agosto de 2015.
 
@@ -398,6 +398,10 @@ d) Presentar ante el Instituto Estatal Electoral, la declaración patrimonial, f
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
 
 e) No estar condenada o condenado por el delito de violencia política contra las mujeres en razón de género; incumplido con la obligación alimentaria o con acuerdo o convenio derivado de un mecanismo alternativo para la solución de controversias.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2024)</small>
+
+f) No tener antecedentes penales por violencia familiar, delitos contra la intimidad sexual, hostigamiento sexual, acoso sexual, abuso sexual, estupro, violación o feminicidio.
 
 2) En relación con la exigencia de separación del cargo público, prevista en las normas constitucionales o legales correspondientes, se entenderá que es efectiva a partir de la formal presentación de la solicitud de licencia ante el órgano competente.
 
@@ -9236,3 +9240,19 @@ Lo previsto en los artículos 272 i, numeral 4); 301 BIS y 301 TER, en relación
 ###### ARTÍCULO CUARTO.
 
 Para la aplicación de las disposiciones previstas en el artículo 104 del presente Decreto, el factor de competitividad se deberá calcular con la votación recibida en la conformación de distritos vigentes del proceso electoral o elección por el que opten los partidos políticos, coaliciones o candidaturas comunes.
+
+P.O. 10 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO LXVII/RFLYC/0650/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LAS LEYES DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA ESTATAL; DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; ELECTORAL DE ENTIDADES PARAESTATALES DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA; ORGÁNICAS DE LA FISCALÍA GENERAL, DEL PODER EJECUTIVO, DEL PODER LEGISLATIVO Y DEL PODER JUDICIAL; REGLAMENTARIA Y ORGÁNICA DE LA FISCALÍA ANTICORRUPCIÓN; ASÍ COMO DE LOS CÓDIGOS MUNICIPAL CIVIL Y PENAL, TODOS ORDENAMIENTOS JURÍDICOS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de acuerdo con las modalidades establecidas en los siguientes artículos.
+
+###### ARTÍCULO SEGUNDO.
+
+El Artículo Octavo del presente Decreto, entrará en vigor al año de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Los artículos Undécimo y Decimocuarto del presente Decreto, entrarán en vigor a los 180 días posteriores a su publicación en el Periódico Oficial del Estado.
