@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2023-12-11"
+last_updated: "2024-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -4727,21 +4727,33 @@ d) Adoptantes o adoptados; y
 
 e) El incapaz sobre el que se es tutor o curador.
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2024)</small>
 
-A quien cometa el delito de violencia familiar se le impondrá de seis meses a cuatro años de prisión y perderá el derecho de pensión alimenticia. Asimismo, se le sujetará a tratamiento psicológico especializado y estará obligado al pago de la reparación del daño de las víctimas.
+Para los efectos de este artículo, se entenderán por tipos de maltrato los previstos por el artículo 3, de la Ley de Prevención de la Violencia Familiar del Estado de Tamaulipas.
 
-> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2024)</small>
 
-Cuando se cometa en perjuicio de un menor de doce años, se impondrá al responsable la pena de uno a cinco años de prisión.
+A quien cometa el delito de violencia familiar se le impondrá de dos a siete años de prisión y perderá el derecho de pensión alimenticia. Asimismo, se le sujetará a tratamiento psicológico especializado y estará obligado al pago de la reparación del daño de las víctimas
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2024)</small>
+
+Si además del delito de violencia familiar resultase cometido otro, se aplicarán las reglas del concurso.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2024)</small>
+
+Cuando la violencia se cometa en presencia de niñas, niños y adolescentes o familiares, la pena se aumentará en una mitad.
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2024)</small>
+
+Cuando se cometa en perjuicio de un menor de doce años, se impondrá al responsable la pena de tres a nueve años de prisión.
 
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
 
 Si el responsable fuere ascendiente o tutor del ofendido, será condenado a la pérdida, limitación o suspensión de la patria potestad, según las circunstancias del caso, a juicio del juez.
 
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2024)</small>
 
-Si la víctima se encuentra en estado de embarazo, la pena se incrementará hasta en una mitad.
+Si la víctima se encuentra en estado de embarazo, o fuera persona adulta mayor o persona que no pueda entender el significado del hecho o de resistirlo, la pena se incrementará hasta en una mitad.
 
 > <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
@@ -7458,6 +7470,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 11 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-743 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 274, PÁRRAFOS PRIMERO Y SEGUNDO; Y 275, PÁRRAFO ÚNICO, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-781 MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS TERCERO, CUARTO Y SÉPTIMO, Y SE ADICIONAN LOS PÁRRAFOS TERCERO, QUINTO Y SEXTO, RECORRIENDO EN SU ORDEN NATURAL LOS SUBSECUENTES, AL ARTÍCULO 368 BIS, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
