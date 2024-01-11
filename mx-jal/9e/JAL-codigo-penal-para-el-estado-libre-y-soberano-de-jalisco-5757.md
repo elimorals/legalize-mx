@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2023-07-29"
+last_updated: "2024-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE JULIO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -4537,6 +4535,26 @@ Para efectos de las fracciones III, IV, V, VI y VII a que se refiere el presente
 
 Si en los actos que se describen en las fracciones III, IV, V, VI, VII y VIII, participa algún servidor público, que tenga o haya tenido a su cargo en los tres últimos años, funciones de prevención, persecución o sanción del delito o de ejecución de penas, la sanción que le corresponde se le aumentará en una mitad más y se inhabilitará para desempeñar cualquier empleo, cargo o comisión público por un periodo de cinco años.
 
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2024)</small>
+
+###### Art. 234 Bis.
+
+Se equipara al delito de robo y se impondrán de cuatro a ocho años de prisión a quien tras arrendar un vehículo automotor desvíe el uso para el que le fue entregado por el arrendador para ejecutar alguna de las acciones siguientes:
+
+I. Lo desmantele o comercialice conjunta o separadamente sus partes;
+
+II. Lo enajene, trafique, permute o realice cualquier transacción de traslado de dominio;
+
+III. Altere, modifique, elabore o reproduzca, de cualquier manera, la documentación que acredite la propiedad o datos de identificación o la documentación que acredite el pago de derechos hacendarios, sin la autorización de su propietario y/o de la autoridad competente para hacerlo;
+
+IV. Traslade el vehículo automotor fuera de la región del occidente del país, sin la autorización del arrendador;
+
+V. Utilice el vehículo en la comisión de uno o varios delitos dolosos;
+
+VI. Utilice documentación y/o identidad falsa para llevar a cabo la renta del vehículo automotor; o
+
+Se sancionará por ese delito en los términos de este artículo al empleado de la empresa arrendadora que a sabiendas participe o facilite cualquiera de las conductas anteriores.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 1989)</small>
 
 ###### Art. 235.
@@ -7326,3 +7344,9 @@ P.O. 29 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29227/LXIII/23 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+P.O. 11 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29509/LXIII/23 DEL CONGRESO DEL ESTADO QUE ADICIONA EL ARTÍCULO 234 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
