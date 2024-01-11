@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2023-11-03"
+last_updated: "2024-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE ENERO DE 2024.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -986,9 +986,9 @@ ARTÍCULO 76 (Punibilidad del delito culposo). En los casos de delitos culposos,
 
 Siempre que al delito doloso corresponda sanción alternativa que incluya una pena no privativa de libertad, aprovechará esta situación al responsable del delito culposo.
 
-> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2024)</small>
 
-Sólo se sancionarán como delitos culposos los siguientes: Homicidio, a que se refiere el artículo 123; Lesiones, a que se refiere el artículo 130 fracciones II a VII; Aborto, a que se refiere la primera parte del párrafo segundo del artículo 145; Lesiones por Contagio, a que se refiere el artículo 159; Daños, a que se refiere el artículo 239; Ejercicio Ilegal del Servicio Público, a que se refieren las fracciones III y IV del artículo 259, en las hipótesis siguientes: destruir, alterar o inutilizar información o documentación bajo su custodia o a la cual tenga acceso; propicie daños, pérdida o sustracción en los supuestos de la fracción IV del artículo 259; Evasión de Presos, a que se refieren los artículos 304, 305, 306 fracción II y 309 segundo párrafo; Suministro de Medicinas Nocivas o Inapropiadas a que se refieren los artículos 328 y 329; Ataques a las Vías y a los Medios de Comunicación a que se refieren los artículos 330, 331 y 332; Delitos contra el Ambiente a que se refieren los artículos 343, 343 bis, 344, 345, 345 bis y 346; Delitos cometidos por actos de maltrato o crueldad en contra de animales no humanos a que se refieren los artículos 350 Bis y 350 Ter, y los demás casos contemplados específicamente en el presente Código y otras disposiciones legales.
+Sólo se sancionarán como delitos culposos los siguientes: Homicidio, a que se refiere el artículo 123; Lesiones, a que se refiere el artículo 130 fracciones II a VII; Aborto, a que se refiere la primera parte del párrafo segundo del artículo 145; Daños, a que se refiere el artículo 239; Ejercicio Ilegal del Servicio Público, a que se refieren las fracciones III y IV del artículo 259, en las hipótesis siguientes: destruir, alterar o inutilizar información o documentación bajo su custodia o a la cual tenga acceso; propicie daños, pérdida o sustracción en los supuestos de la fracción IV del artículo 259; Evasión de Presos, a que se refieren los artículos 304, 305, 306 fracción II y 309 segundo párrafo; Suministro de Medicinas Nocivas o Inapropiadas a que se refieren los artículos 328 y 329; Ataques a las Vías y a los Medios de Comunicación a que se refieren los artículos 330, 331 y 332; Delitos contra el Ambiente a que se refieren los artículos 343, 343 bis, 344, 345, 345 bis y 346; Delitos cometidos por actos de maltrato o crueldad en contra de animales no humanos a que se refieren los artículos 350 Bis y 350 Ter, y los demás casos contemplados específicamente en el presente Código y otras disposiciones legales.
 
 ARTÍCULO 77 (Clasificación de la gravedad de la culpa e individualización de la sanción para el delito culposo). La calificación de la gravedad de la culpa queda al prudente arbitrio del Juez, quien deberá considerar las circunstancias generales señaladas en el artículo 72 de este Código y las especiales siguientes:
 
@@ -1374,6 +1374,10 @@ A quien cause a otra persona un daño o alteración en su salud, se le impondrá
 
 I. (DEROGADA, G.O. 16 DE FEBRERO DE 2011)
 
+> <small>(ADICIONADA, G.O. 11 DE ENERO DE 2024)</small>
+
+I Bis. De tres meses a tres años de prisión si se causa o se transmite de manera intencional una enfermedad incurable;
+
 II. De seis meses a dos años de prisión, cuando tarden en sanar más de quince días y menos de sesenta;
 
 III. De dos a tres años seis meses de prisión, si tardan en sanar más de sesenta días;
@@ -1382,9 +1386,9 @@ IV. De dos a cinco años de prisión, cuando dejen cicatriz permanentemente nota
 
 V. De tres a cinco años de prisión, cuando disminuyan alguna facultad o el normal funcionamiento de un órgano o de un miembro;
 
-> <small>(REFORMADA, G.O. 8 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2024)</small>
 
-VI. De seis a ocho años de prisión, si producen la pérdida de cualquier función orgánica, de un miembro, de un órgano o de una facultad, o causen una enfermedad incurable o una deformidad;
+VI. De seis a ocho años de prisión, si producen la pérdida de cualquier función orgánica, de un miembro, de un órgano o de una facultad o causen una deformidad;
 
 > <small>(REFORMADA, G.O. 8 DE ENERO DE 2020)</small>
 
@@ -1820,13 +1824,13 @@ ARTÍCULO 158 BIS. En los supuestos previstos en el artículo 156 y primer párr
 
 Tampoco integran los elementos del cuerpo del delito previstos en el párrafo anterior, las conductas realizadas conforme a las disposiciones establecidas en la Ley de Voluntad Anticipada para el Distrito Federal suscritas y realizadas por el solicitante o representante, en el Documento de Voluntad Anticipada o el Formato expedido por la Secretaría de Salud para los efectos legales a que haya lugar.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 11 DE ENERO DE 2024)</small>
+
 ### CAPÍTULO V. TRÁFICO DE MENORES
 
 ###### ARTÍCULO 159.
 
-Al que sabiendo que padece una enfermedad grave en período infectante, ponga en peligro de contagio la salud de otro, por relaciones sexuales u otro medio transmisible, siempre y cuando la víctima no tenga conocimiento de esa circunstancia, se le impondrán prisión de tres meses a tres años y de cincuenta a trescientos días multa.
-
-Si la enfermedad padecida fuera incurable, se impondrán prisión de tres meses a diez años y de quinientos a dos mil días multa. Este delito se perseguirá por querella de la víctima u ofendido.
+(DEROGADO, G.O. 11 DE ENERO DE 2024)
 
 ## TÍTULO CUARTO. DELITOS CONTRA LA LIBERTAD PERSONAL
 
@@ -6669,3 +6673,11 @@ G.O. 3 DE NOVIEMBRE DE 2023.
 Primero.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 11 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO 76, LA FRACCIÓN VI DEL ARTÍCULO 130, SE ADICIONA UNA FRACCIÓN I BIS AL ARTÍCULO 130 Y, DEL LIBRO SEGUNDO, PARTE ESPECIAL, TÍTULO TERCERO, DELITOS DE PELIGRO PARA LA VIDA O LA SALUD DE LAS PERSONAS, SE DEROGAN EL CAPÍTULO II, PELIGRO DE CONTAGIO, Y EL ARTÍCULO 159, TODOS DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
