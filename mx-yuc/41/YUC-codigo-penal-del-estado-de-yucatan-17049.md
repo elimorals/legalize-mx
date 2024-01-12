@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2023-09-08"
+last_updated: "2024-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE ENERO DE 2024.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -2365,9 +2365,9 @@ Este delito se perseguirá por querella de la parte ofendida.
 
 Cometen el delito de incesto el ascendiente que tenga cópula con su descendiente y éste con aquél y los hermanos entre sí, con conocimiento de este parentesco.
 
-> <small>(REFORMADO, D.O. 3 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, D.O. 12 DE ENERO DE 2024)</small>
 
-La sanción aplicable al ascendiente por la comisión del delito de incesto será de uno a seis años de prisión y de doce a ciento ochenta días-multa, siempre y cuando el descendiente sea mayor de edad.
+La sanción aplicable al ascendiente por la comisión del delito de incesto será de veinte a treinta años de prisión y de trescientos a quinientos días-multa, siempre y cuando el descendiente sea mayor de edad.
 
 En el caso de incesto cometido por el descendiente o por los hermanos la sanción será de seis meses a tres años de prisión y de doce a ciento ochenta días-multa.
 
@@ -2387,17 +2387,17 @@ En ambos casos se privará al infractor de sus derechos de familia.
 
 Comete el delito de violencia familiar, el cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o por afinidad hasta el cuarto grado, adoptante, adoptado o persona que mantenga o haya mantenido una relación de hecho o de pareja con la víctima, que ejerza cualquier acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, denostar, denigrar o agredir de manera económica, física, patrimonial, psicológica, psicoemocional o sexual, en contra de un miembro de la familia, dentro o fuera del domicilio familiar, independientes de que se produzca o no lesiones o se configure cualquier otro delito.
 
-> <small>(REFORMADO, D.O. 13 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, D.O. 12 DE ENERO DE 2024)</small>
 
-A quien cometa el delito de violencia familiar se le impondrá de tres a ocho años de prisión.
+A quien cometa el delito de violencia familiar se le impondrá de diez a veinte años de prisión.
 
 > <small>(ADICIONADO, D.O. 13 DE MAYO DE 2022)</small>
 
 Cuando la víctima se encuentre embarazada o hasta los 6 meses posteriores al parto; se aumentará la pena hasta en dos terceras partes de la pena máxima.
 
-> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, D.O. 12 DE ENERO DE 2024)</small>
 
-Este delito aumentará la pena hasta en una mitad de la pena máxima, cuando la víctima sea menor de edad; de sesenta años o más; o presente alguna discapacidad física o mental, total o parcial, temporal o permanente que le impida comprender el significado del hecho; o se cometa con el uso de armas de fuego o punzocortantes; se cometa con la participación de dos o más personas; o se deje cicatriz permanente en alguna parte del cuerpo.
+Este delito aumentará la pena hasta en una mitad de la pena máxima, cuando la víctima sea menor de edad; de sesenta años o más; o presente alguna discapacidad física o mental, total o parcial, temporal o permanente que le impida comprender el significado del hecho; o se cometa con el uso de armas de fuego o punzocortantes; se cometa con la participación de dos o más personas; o se deje cicatriz, lesión permanente en alguna parte del cuerpo o daño psicológico a la víctima.
 
 > <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -3759,6 +3759,10 @@ A quien con fines lascivos o sexuales asedie reiteradamente a persona de cualqui
 
 Si el hostigador fuese servidor público y utilizare los medios o circunstancias que el encargo le proporcione, además de la sanción correspondiente por el delito de hostigamiento sexual, será destituido de su cargo e inhabilitado para ocupar cualquier otro cargo público por un período de uno hasta por cinco años.
 
+> <small>(ADICIONADO, D.O. 12 DE ENERO DE 2024)</small>
+
+Si el hostigador fuese una persona operadora de transporte público de personas pasajeras y utilizare los medios o circunstancias que el empleo le proporcione durante la prestación del servicio, además de la sanción correspondiente por el delito de hostigamiento sexual, le será revocado el reconocimiento para prestar el servicio de transporte de personas pasajeras, por un periodo de hasta cinco años.
+
 Este delito se perseguirá por querella de la parte ofendida, salvo que se trate de una persona menor de dieciocho años de edad, o aquella que no tiene la capacidad de comprender el hecho o no tenga la capacidad para resistirlo, en cuyo caso, se perseguirá de oficio.
 
 En caso de reincidencia las sanciones previstas en el primer párrafo de éste artículo se incrementarán en una mitad.
@@ -3781,6 +3785,10 @@ A quien ejecute en una persona, sin su consentimiento, un acto lascivo o la obli
 
 Se entenderá por actos lascivos los tocamientos, manoseos corporales obscenos, o los que representen actos explícitamente sexuales u obliguen a la víctima a observar un acto sexual, o a exhibir su cuerpo sin su consentimiento.
 
+> <small>(ADICIONADO, D.O. 12 DE ENERO DE 2024)</small>
+
+La pena prevista en el párrafo inmediato anterior, se aumentará al doble; si la acción fuera realizada en lugares y espacios públicos, instituciones gubernamentales, establecimientos comerciales, transporte público de personas pasajeras, transporte privado de personas pasajeras y/o en vehículos que brinden servicio contratado a través de plataformas tecnológicas.
+
 > <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
 ###### ARTÍCULO 310.
@@ -3801,7 +3809,7 @@ Al que tenga cópula con persona mayor de quince y menor de dieciocho años de e
 
 ### CAPÍTULO V. DISPOSICIONES COMUNES
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 313.
 
@@ -3839,13 +3847,13 @@ Si además se ejerciere violencia física o moral, y en su caso, resultare en em
 
 ###### ARTÍCULO 316.
 
-Las sanciones previstas para los delitos de abuso sexual, acoso sexual, violación, violación equiparada y estupro, establecidas en este Título, se aumentarán hasta en una mitad en su mínimo y máximo, cuando el delito fuere cometido:
+Las sanciones previstas para los delitos de abuso sexual, acoso sexual, violación, violación equiparada y estupro, establecidas en este Título, se aumentarán hasta en dos terceras partes en su mínimo y máximo, cuando el delito fuere cometido:
 
 I. Con intervención directa o inmediata de dos o más personas;
 
-II. Por un ascendiente contra su descendiente, éste contra aquél, hermano contra su colateral, el tutor contra su pupilo o por el padrastro o amasio de la madre del ofendido en contra del hijastro.
+> <small>(REFORMADA, D.O. 12 DE ENERO DE 2024)</small>
 
-Además de la sanción de prisión, al culpable se le privará de los derechos de familia que tuviere con relación a la víctima;
+II. Por la persona cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o por afinidad hasta el cuarto grado, adoptante o persona que mantenga o haya mantenido una relación de hecho o de pareja con la madre, padre o tutor de la víctima.
 
 > <small>(REFORMADA, D.O. 8 DE ABRIL DE 2011)</small>
 
@@ -5952,3 +5960,23 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Artículo segundo. Clausula derogatoria
 
 Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se oponga (sic) a este decreto.
+
+D.O. 12 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 724/2024 POR EL QUE SE REFORMA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE ABUSO SEXUAL EN ESPACIOS Y TRANSPORTE PÚBLICO".]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo segundo.- Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 12 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 725/2024 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE INCESTO, VIOLENCIA FAMILIAR Y DELITOS SEXUALES”.]
+
+Entrada en vigor
+
+Artículo único. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
