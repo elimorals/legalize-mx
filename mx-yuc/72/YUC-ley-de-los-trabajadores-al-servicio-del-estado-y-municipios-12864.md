@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-los-trabajadores-al-servicio-del-estado-y-municipios-128
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-03"
-last_updated: "2023-06-28"
+last_updated: "2024-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE ENERO DE 2024.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 3 de diciembre de 1987.
 
@@ -247,13 +247,13 @@ Las mujeres disfrutarán de un descanso de un mes antes de la fecha que aproxima
 
 En el período de lactancia, y hasta por un plazo de seis meses, las mujeres tendrán dos descansos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos.
 
-> <small>(ADICIONADO, D.O. 20 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 12 DE ENERO DE 2024)</small>
 
-Los hombres gozarán de un permiso de paternidad de ocho días hábiles con goce íntegro de sueldo, contados a partir del nacimiento de su hijo, el cual deberá ser acreditado con documento idóneo.
+Los hombres gozarán de un permiso de paternidad de diez días hábiles con goce íntegro de sueldo, contados a partir del nacimiento de su hijo, el cual deberá ser acreditado con documento idóneo.
 
-> <small>(ADICIONADO, D.O. 20 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 12 DE ENERO DE 2024)</small>
 
-Los trabajadores al servicio del estado disfrutarán de un permiso de ocho días hábiles cuando se trate de la adopción de un infante, contados a partir de la entrega física del menor por parte de la institución oficialmente responsable, que deberá acreditarlo con documento idóneo.
+Las y los trabajadores al servicio del estado disfrutarán de un permiso de diez días hábiles cuando se trate de la adopción de un infante, contados a partir de la entrega física de la niña, niño o adolescente por parte de la institución oficialmente responsable, que deberá acreditarlo con documento idóneo.
 
 > <small>(ADICIONADO, D.O. 20 DE OCTUBRE DE 2017)</small>
 
@@ -1878,3 +1878,11 @@ D.O. 28 DE JUNIO DE 2023.
 Artículo único. Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 12 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 726/2024 POR EL QUE SE MODIFICA LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN, EN MATERIA DE PERMISO POR PATERNIDAD”.]
+
+Artículo único. Entrada en vigor.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
