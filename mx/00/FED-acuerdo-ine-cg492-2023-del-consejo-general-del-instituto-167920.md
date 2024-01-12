@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg492-2023-del-consejo-general-del-instituto-167920
 country: "mx"
 rank: "acuerdo"
 publication_date: "2023-09-22"
-last_updated: "2023-09-22"
+last_updated: "2024-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167920&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2023-08-25"
 
 EXTRACTO DEL ACUERDO INE/CG492/2023 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA ESTRATEGIA DE CAPACITACIÓN Y ASISTENCIA ELECTORAL 2023-2024 Y SUS RESPECTIVOS ANEXOS
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 12 DE ENERO DE 2024, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ENERO DE 2024.
 
 Extracto publicado en el Diario Oficial de la Federación, el viernes 22 de septiembre de 2023.
 
@@ -108,3 +110,35 @@ Página INE: https://www.ine.mx/sesion-ordinaria-del-consejo-general-25-de-agost
 Página DOF: www.dof.gob.mx/2023/INE/CGord202308_25_ap_2.pdf
 
 Ciudad de México, 25 de agosto de 2023.- Encargada de Despacho de la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica, Mtra. Nancy Natividad Rendón Fonseca.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 12 DE ENERO DE 2024.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "EXTRACTO DEL ACUERDO INE/CG615/2023 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA ADENDA PARA INCORPORAR CRITERIO QUE ATIENDE EL PRINCIPIO DE IMPARCIALIDAD EN EL PROCEDIMIENTO DE RECLUTAMIENTO, SELECCIÓN Y CONTRATACIÓN DE LAS Y LOS SUPERVISORES ELECTORALES Y CAPACITADORES-ASISTENTES ELECTORALES QUE FORMA PARTE DE LA ESTRATEGIA DE CAPACITACIÓN Y ASISTENCIA ELECTORAL 2023-2024 Y SUS RESPECTIVOS ANEXOS, QUE SERÁ APLICABLE AL PROCESO ELECTORAL 2023-2024 Y, EN SU CASO, A LOS EXTRAORDINARIOS QUE DERIVEN DE ÉSTE", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+PRIMERO. Se aprueba la Adenda para Incorporar Criterio que atiende el Principio de Imparcialidad en el Procedimiento de Reclutamiento, Selección y Contratación de las y los Supervisores Electorales y Capacitadores-Asistentes Electorales que forma parte de la Estrategia de Capacitación y Asistencia Electoral 2023-2024 y sus respectivos anexos, que será aplicable al Proceso Electoral 2023-2024 y, en su caso, a los Extraordinarios que deriven de éste. La Adenda aprobada, se adjunta como anexo y forma parte integrante del presente Acuerdo.
+
+SEGUNDO. La ECAE 2023-2024 y sus anexos, aprobada mediante Acuerdo INE/CG492/2023, será aplicable en todos sus términos, considerando los ajustes contenidos en la Adenda que se aprueba para la realización de las actividades en materia de Reclutamiento, Selección y Contratación de las y los SE y CAE para el PE 2023-2024.
+
+TERCERO. Se instruye a la CCOE para que dé seguimiento a las acciones instrumentadas por la DECEyEC para garantizar el cumplimiento de las precisiones establecidas en la Adenda para las actividades en materia de Reclutamiento, Selección y Contratación de las y los SE y CAE, y SEL y CAEL para el PE 2023- 2024.
+
+CUARTO. Se instruye a la DECEyEC para que informe a la CCOE y al CG, sobre lo reportado por las JLE, con los insumos proporcionados por las JDE respecto al porcentaje de aspirantes que aparecieron en la base de militantes o afiliados/as a partidos políticos para acreditar el cumplimiento del requisito legal.
+
+Dicho informe deberá contener los casos en que se identifique un comportamiento atípico respecto de las personas aspirantes a SE y CAE, para lo cual se tomará como línea base, los registros del Proceso Electoral Federal inmediato anterior.
+
+QUINTO. Se instruye a la CCOE para que informe al Consejo General sobre la supervisión del cumplimiento del presente Acuerdo dando cuenta de los porcentajes de personas que se encuentran en la base de datos de militantes y afiliados a los partidos políticos en los informes correspondientes a la Primera y Segunda Etapa de Capacitación Electoral del PE 2023-2024
+
+SEXTO. Notifíquese el presente Acuerdo a las y los Vocales Ejecutivos de las JLE y JDE del INE de las treinta y dos entidades federativas del país, para su conocimiento y debido cumplimiento.
+
+SÉPTIMO. Se instruye a las y los Vocales Ejecutivos de las JLE y JDE del INE de las treinta y dos entidades federativas, para que instrumenten lo conducente, y hagan del conocimiento de las personas integrantes de sus respectivos Consejos Locales y Distritales, así como a las y los integrantes de las JLE y JDE el contenido del presente Acuerdo y su respectivo anexo.
+
+OCTAVO. Se instruye a la UTVOPL para que instrumente lo conducente a fin de hacer del conocimiento de los Órganos Superiores de Dirección de los OPL de las treinta y dos entidades federativas con PE 2023-2024, el contenido del presente Acuerdo para su implementación en el reclutamiento y selección de SE y CAE Locales.
+
+NOVENO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación por el Consejo General.
+
+DÉCIMO. En su caso, tratándose de procedimientos de reclutamiento, selección y contratación de SE y CAE iniciados antes de la aprobación del presente Acuerdo, las JDE y sus análogos en los OPL contarán con un plazo de cuatro días hábiles contados a partir de la aprobación del presente, para realizar las notificaciones, vistas y envíos de documentación que se prevén en las fracciones I y II del apartado denominado INICIO DE PROCEDIMIENTO SANCIONADOR ORDINARIO OFICIOSO EN CASO DE DESCONOCIMIENTO DE AFILIACIÓN, de la "Adenda para Incorporar Criterio que atiende el Principio de Imparcialidad en el Procedimiento de Reclutamiento, Selección y Contratación de las y los Supervisores Electorales y Capacitadores-Asistentes Electorales que forma parte de la Estrategia de Capacitación y Asistencia Electoral 2023-2024 y sus respectivos anexos, que será aplicable al Proceso Electoral 2023-2024 y, en su caso, a los Extraordinarios que deriven de éste" aprobada como anexo de este Acuerdo.
+
+DÉCIMO PRIMERO. Publíquese el presente Acuerdo y sus anexos en la Gaceta Electoral y en el portal de internet del Instituto www.ine.mx, en NormaINE y un extracto de éste en el Diario Oficial de la Federación, con la liga electrónica en la que se ubique su anexo.
