@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-etica-para-las-personas-servidoras-publicas-de-la-169
 country: "mx"
 rank: "codigo"
 publication_date: "2023-12-29"
-last_updated: "2023-12-29"
+last_updated: "2024-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=169949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "PUE"
 ---
 # CODIGO DE ETICA PARA LAS PERSONAS SERVIDORAS PUBLICAS DE LA ADMINISTRACION PUBLICA ESTATAL, PUEBLA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ENERO DE 2024 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE ÉTICA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
 
 TEXTO ORIGINAL.
 
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE ENERO DE 2024.]</small>
+
 Código publicado en la Décima Quinta Sección al Número 20 del Periódico Oficial del Estado de Puebla, el viernes 29 de diciembre de 2023.
 
-ACUERDO de la Secretaria de la Función Pública del Gobierno del Estado, por el que expide el CÓDIGO DE ÉTICA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL.
+> <small>(F. DE E., P.O. 12 DE ENERO DE 2024)</small>
+
+ACUERDO del Secretario de la Función Pública del Gobierno del Estado, por el que expide el CÓDIGO DE ÉTICA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL.
 
 Al margen el logotipo oficial de la Secretaría, y una leyenda que dice: Secretaria de la Función Pública. Gobierno de Puebla.
 
