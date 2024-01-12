@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-la-comision-de-derechos-humanos-del-estado-de-yucatan-99
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-28"
-last_updated: "2022-06-07"
+last_updated: "2024-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99274&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE ENERO DE 2024.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 28 de febrero de 2014.
 
@@ -95,11 +95,17 @@ XIV. Queja: la reclamación formulada ante la comisión, por actos u omisiones d
 
 XV. Recomendación: la resolución pública emitida por la comisión, cuando de la investigación del expediente de queja se evidencie la existencia de actos u omisiones de las autoridades o servidores públicos, que violenten los derechos humanos.
 
-XVI. Servidor público: los representantes de elección popular; todo funcionario, empleado o persona que desempeñe un empleo, cargo o comisión en el Poder Judicial del Estado; en el Congreso del Estado; en la Administración Pública estatal o municipal, en cualquiera de sus modalidades, o en las entidades u organismos autónomos; quienes serán responsables por los actos u omisiones en el desempeño de sus funciones.
+> <small>(ADICIONADA, D.O. 12 DE ENERO DE 2024)</small>
 
-XVII. Tratados internacionales: aquellos en materia de derechos humanos celebrados por el Ejecutivo federal y aprobados por el Senado de la república.
+XVI. Representante: persona nombrada y/o autorizada por el quejoso, peticionario o agraviado, abogado o licenciado en derecho, la cual podrá oír y recibir en su nombre las notificaciones, vistas y requerimientos que se realicen en la integración del expediente que se forme con motivo de la queja instaurada, así como consultar el contenido de este a efecto de dar impulso al trámite correspondiente independientemente del acompañamiento y asesoría que brinde la comisión.
 
-XVIII. Violaciones graves a los derechos humanos: los actos u omisiones que impliquen ataques al derecho a la vida o a la integridad física o psíquica de las personas, a la libertad, así como las conductas que se consideren especialmente graves por el número de afectados o sus posibles consecuencias.
+XVII. Servidor público: los representantes de elección popular; todo funcionario, empleado o persona que desempeñe un empleo, cargo o comisión en el Poder Judicial del Estado; en el Congreso del Estado; en la Administración Pública estatal o municipal, en cualquiera de sus modalidades, o en las entidades u organismos autónomos; quienes serán responsables por los actos u omisiones en el desempeño de sus funciones.
+
+> <small>(REFORMADA, D.O. 12 DE ENERO DE 2024)</small>
+
+XVIII. Tratados internacionales: aquellos en materia de derechos humanos celebrados por el Ejecutivo Federal y aprobados por el Senado de la República.
+
+XIX. Violaciones graves a los derechos humanos: los actos u omisiones que impliquen ataques al derecho a la vida o a la integridad física o psíquica de las personas, a la libertad, así como las conductas que se consideren especialmente graves por el número de afectados o sus posibles consecuencias.
 
 ## Título segundo. Comisión de Derechos Humanos del Estado de Yucatán
 
@@ -675,7 +681,9 @@ X. Registrar los informes respecto de la aceptación, en su caso, de las recomen
 
 XI. Coordinar, analizar y resolver las dificultades que se presenten con motivo del cumplimiento de las recomendaciones, acuerdos o peticiones y dar cuenta al presidente de la comisión de los casos que hagan necesaria su intervención directa con los titulares de las dependencias y entidades, a las que se les hayan formulado recomendaciones.
 
-XII. Informar al presidente de la comisión, así como al quejoso o agraviado sobre el avance en el cumplimiento de cada una de las recomendaciones, hasta que se consideren totalmente cumplidas o se haya agotado el trámite.
+> <small>(REFORMADA, D.O. 12 DE ENERO DE 2024)</small>
+
+XII. Informar al presidente de la comisión, así como al quejoso o agraviado, o a quien autoricen como su Representante sobre el avance en el cumplimiento de cada una de las recomendaciones, hasta que se consideren totalmente cumplidas o se haya agotado el trámite.
 
 XIII. Solicitar informes adicionales a las autoridades a quienes se dirigió una recomendación, a fin de que precisen datos o aporten otros elementos para poder evaluar el grado de cumplimiento.
 
@@ -713,7 +721,9 @@ III. Practicar las investigaciones y estudios necesarios para formular los proye
 
 IV. Realizar acciones de investigación, cuando se requiera, para estar en aptitud de emitir resoluciones, conforme al procedimiento establecido en el reglamento interno.
 
-V. Informar a los quejosos los datos sobre los avances de los expedientes de quejas o cumplimiento de recomendaciones.
+> <small>(REFORMADA, D.O. 12 DE ENERO DE 2024)</small>
+
+V. Informar a los quejosos o a quien autoricen como su Representante los datos sobre los avances de los expedientes de quejas o cumplimiento de recomendaciones.
 
 VI. Presentar denuncias, por acuerdo del presidente de la comisión, con motivo de los hechos que conozca en ejercicio de sus funciones.
 
@@ -759,7 +769,9 @@ VII. Analizar los expedientes de gestión y canalización, para la elaboración 
 
 VIII. Coordinar, analizar y resolver las dificultades que se presenten con motivo del cumplimiento de acuerdos o peticiones dentro de los expedientes de gestión o canalización y dar cuenta al presidente de la comisión de los casos que hagan necesaria su intervención directa con los titulares de las dependencias y entidades.
 
-IX. Informar a los quejosos, peticionarios o agraviados, los avances de los expedientes de gestión o canalización.
+> <small>(REFORMADA, D.O. 12 DE ENERO DE 2024)</small>
+
+IX. Informar a los quejosos, peticionarios, agraviados o a quien autoricen como su Representante los avances de los expedientes de gestión o canalización.
 
 X. Turnar las quejas o asuntos en los que se señale como probables responsables a las autoridades federales o de otras entidades federativas, a los organismos de derechos humanos competentes.
 
@@ -1007,7 +1019,9 @@ Los procedimientos que se sigan ante la comisión deberán ser breves, sencillos
 
 Principios rectores de los procedimientos ante la comisión
 
-Los procedimientos que se sigan ante la comisión se tramitarán bajo los principios de inmediatez, concentración y rapidez. De igual forma, se procurará, en la medida de lo posible, el contacto directo con agraviados, quejosos, autoridades y servidores públicos, para evitar la dilación de las comunicaciones escritas.
+> <small>(REFORMADO, D.O. 12 DE ENERO DE 2024)</small>
+
+Los procedimientos que se sigan ante la Comisión se tramitarán bajo los principios de inmediatez, concentración y rapidez. De igual forma, se procurará, en la medida de lo posible, el contacto directo con agraviados, quejosos, representantes, autoridades y servidores públicos, para evitar la dilación de las comunicaciones escritas.
 
 ### Capítulo II. Queja
 
@@ -1061,6 +1075,10 @@ La queja podrá presentarse ante la comisión de manera oral, escrita o por el l
 
 No se admitirán comunicaciones anónimas, por lo que las quejas deberán ratificarse dentro de los cinco días naturales siguientes a su presentación, si el quejoso no se identifica y la suscribe en un primer momento. Sin embargo, la comisión, a solicitud del quejoso, tendrá la obligación de mantener la confidencialidad de su identidad en los términos de la ley de la materia.
 
+> <small>(ADICIONADO, D.O. 12 DE ENERO DE 2024)</small>
+
+Al momento de presentar la queja y durante todo el procedimiento de ésta, el quejoso o agraviado, si así lo desea, podrá nombrar a un Representante quien podrá oír y recibir a su nombre las notificaciones, vistas y requerimientos que se realicen en la integración del expediente que se forme con motivo de la queja instaurada, así como consultar el contenido del mismo.
+
 ###### Artículo 62.
 
 Días y horas hábiles
@@ -1071,7 +1089,9 @@ Para los efectos de esta ley, todos los días y horas serán considerados hábil
 
 Suplencia en la deficiencia de la queja
 
-La comisión deberá poner a disposición de los quejosos formularios que les faciliten el trámite y en todos los casos operará, invariablemente, la suplencia en la deficiencia de la queja, para lo cual, orientará y apoyará a los quejosos sobre el contenido de su queja.
+> <small>(REFORMADO, D.O. 12 DE ENERO DE 2024)</small>
+
+La Comisión deberá poner a disposición de los quejosos y sus representantes formularios que les faciliten el trámite y en todos los casos operará, invariablemente, la suplencia en la deficiencia de la queja, para lo cual, orientará y apoyará a los quejosos y sus representantes sobre el contenido de su queja.
 
 Las quejas también podrán presentarse oralmente cuando los comparecientes no puedan escribir o sean menores de edad. Tratándose de personas que no hablen o entiendan correctamente el idioma español, o de aquellas pertenecientes a los pueblos o comunidades indígenas que así lo requieran o personas con discapacidad auditiva, la comisión les pondrá a su disposición un traductor o intérprete que tenga conocimiento de su lengua y cultura o, en su caso, intérprete de señas mexicanas.
 
@@ -1089,7 +1109,9 @@ Datos de integración de la queja
 
 El quejoso o, en su caso, la comisión, integrará la queja con los datos siguientes:
 
-I. El nombre, edad, sexo, nacionalidad, ocupación o profesión, domicilio, número telefónico, en su caso, y firma de la persona que la promueva. Cuando el quejoso no sepa firmar estampará su huella digital y otra persona firmará a su ruego. Cuando se presente por una persona distinta al presuntamente agraviado, se deberá indicar, cuando menos, el nombre y demás datos que se tengan, de este último, los que se complementarán una vez que se ratifique la queja.
+> <small>(REFORMADA, D.O. 12 DE ENERO DE 2024)</small>
+
+I. El nombre, edad, sexo, nacionalidad, ocupación o profesión, domicilio, número telefónico, en su caso, nombre de quien autoriza como su Representante si así lo desea y firma de la persona que la promueva. Cuando el quejoso no sepa firmar estampará su huella digital y otra persona firmará a su ruego. Cuando se presente por una persona distinta al presuntamente agraviado, se deberá indicar, cuando menos, el nombre y demás datos que se tengan, de este último, los que se complementarán una vez que se ratifique la queja.
 
 II. Una breve relación de los hechos motivo de la queja, especificando circunstancias de tiempo, modo y lugar.
 
@@ -1187,7 +1209,9 @@ I. Pedir a las autoridades o servidores públicos a los que se imputen violacion
 
 II. Solicitar de otras autoridades, servidores públicos o particulares todo tipo de documentos e informes.
 
-III. Practicar visitas e inspecciones, ya sea personalmente o por medio del personal técnico o profesional bajo su cargo en términos de ley.
+> <small>(REFORMADA, D.O. 12 DE ENERO DE 2024)</small>
+
+III. Practicar visitas e inspecciones, ya sea personalmente o por medio del personal técnico o profesional bajo su cargo en términos de ley, en caso de ser necesario podrá estar presente en la práctica de la diligencia el quejoso, agraviado o su Representante para mayor aportación de datos.
 
 IV. Citar a las personas que deban comparecer como peritos o testigos.
 
@@ -1222,6 +1246,10 @@ La comisión para resolver el expediente de queja deberá recabar los elementos 
 Valoración de pruebas
 
 Las pruebas que se presenten, tanto por los quejosos como por las autoridades o servidores públicos a los que se imputen las violaciones, o bien que la comisión requiera, serán valoradas en su conjunto por el Visitador General y los visitadores de acuerdo con los principios de la lógica, de la experiencia, de la sana crítica y de la legalidad, a fin de que puedan producir convicción sobre los hechos materia de la queja.
+
+> <small>(ADICIONADO, D.O. 12 DE ENERO DE 2024)</small>
+
+Antes de la valoración que se menciona en el párrafo anterior se dará vista a las partes de las pruebas que ofrecieran las partes para su conocimiento y en su caso manifestar lo que considere en cuanto a estas, otorgando el término que la visitaduría considere para tal efecto.
 
 ###### Artículo 82.
 
@@ -1289,7 +1317,9 @@ Los acuerdos de no responsabilidad y las recomendaciones se referirán exclusiva
 
 Notificación del acuerdo o recomendación
 
-La comisión notificará dentro de los tres días naturales siguientes a su conclusión, los resultados de la investigación, la recomendación dirigida a las autoridades o servidores públicos responsables de las violaciones respectivas, la aceptación y la ejecución que se haya dado a esta, así como, en su caso, el acuerdo de no responsabilidad.
+> <small>(REFORMADO, D.O. 12 DE ENERO DE 2024)</small>
+
+La Comisión notificará a las partes en la queja dentro de los tres días naturales siguientes a su conclusión, los resultados de la investigación, la recomendación dirigida a las autoridades o servidores públicos responsables de las violaciones respectivas, la aceptación y la ejecución que se haya dado a esta, así como, en su caso, el acuerdo de no responsabilidad.
 
 ###### Artículo 90.
 
@@ -1355,7 +1385,9 @@ Asimismo, la comisión mantendrá informadas a las partes del avance de las acci
 
 Audiencia de conciliación
 
-La comisión citará a una audiencia en la que deberán estar presentes todas las partes, en la que podrán proponer acciones de solución. En esta audiencia la comisión garantizará que las propuestas no representen violaciones a los derechos humanos.
+> <small>(REFORMADO, D.O. 12 DE ENERO DE 2024)</small>
+
+La Comisión citará a una audiencia en la que deberán estar presentes todas las partes, incluyendo a quienes estuvieran nombrados como Representantes siempre y cuando así lo requiera el quejoso, misma audiencia en la que los que asistan podrán proponer acciones de solución. En esta audiencia la comisión garantizará que las propuestas no representen violaciones a los derechos humanos.
 
 De lograrse una solución satisfactoria o el allanamiento de la autoridad o servidor público presunto responsable, se hará constar así y se cerrará el expediente siempre que la autoridad o servidor público acrediten, dentro del término de diez días hábiles contados a partir de aquel en que se llevó a cabo la audiencia, haber dado cumplimiento a sus términos. Dicho plazo podrá ser ampliado cuando así lo requiera la naturaleza del asunto.
 
@@ -1720,3 +1752,21 @@ Artículo primero. Este decreto entrará en vigor al día siguiente al de su pub
 Cláusula Derogatoria
 
 Artículo segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a este decreto.
+
+D.O. 12 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 728/2024 POR EL QUE SE MODIFICA LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN, EN MATERIA DE REPRESENTACIÓN”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán
+
+Artículo segundo. Actualización de normatividad
+
+La Comisión de Derechos Humanos del Estado de Yucatán, en el ámbito de sus competencias, realizará las actualizaciones conducentes a los reglamentos y normativas internas a efecto de dar cumplimiento a lo establecido en el presente decreto.
+
+Artículo tercero. Nombramiento de representante
+
+Los quejosos o agraviados que interpusieron sus quejas con anterioridad a la entrada en vigor de este decreto, podrán apegarse a los beneficios que le otorgue éste, por lo que podrán nombrar a algún representante en el procedimiento siempre y cuando así lo requieran.
+
+El nombramiento mencionado en el párrafo anterior no afectará el desarrollo del procedimiento ni dejará sin efecto las diligencias ya practicadas por la Comisión de Derechos Humanos del Estado de Yucatán.
