@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2021-03-31"
+last_updated: "2024-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "VER"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2024 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE ENERO DE 2024.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -189,13 +191,17 @@ IX. Secretaría de Desarrollo Agropecuario, Rural y Pesca;
 
 X. Secretaría de Salud
 
-> <small>(REFORMADA, G.O. 31 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2024)</small>
 
-XI. Secretaría de Turismo y Cultura
+XI. Secretaría de Turismo.
 
 > <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2008)</small>
 
 XI Bis. Secretaría de Protección Civil;
+
+> <small>(ADICIONADA, G.O. 12 DE ENERO DE 2024)</small>
+
+XI Ter. Secretaría de Cultura.
 
 > <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
@@ -833,9 +839,9 @@ XII. Coordinar con las universidades e instituciones de educación superior, el 
 
 XIII. Coordinar, organizar, dirigir y fomentar con los ayuntamientos e instituciones públicas o particulares el establecimiento de bibliotecas y hemerotecas, así como promover la creación de instituciones de divulgación científica y educativa;
 
-> <small>(REFORMADA, G.O. 31 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2024)</small>
 
-XIV. Promover en coordinación con la Secretaría de Turismo y Cultura, la edición y distribución de obras científicas, pedagógicas, históricas y literarias, para la difusión del conocimiento y el desarrollo cultural; asimismo, elevar el nivel educativo de la población del Estado;
+XIV. Promover en coordinación con la Secretaría de Cultura, la edición y distribución de obras científicas, pedagógicas, históricas y literarias para la difusión del conocimiento y el desarrollo cultural; asimismo, elevar el nivel educativo de la población del Estado;
 
 > <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
@@ -847,7 +853,9 @@ XVII. Promover, en coordinación con la Secretaría de Salud y Asistencia y la d
 
 XVIII. Coordinar con las autoridades competentes, la realización de campañas para prevenir, combatir y erradicar la drogadicción, el alcoholismo, y el tabaquismo;
 
-XIX. Promover y organizar actividades de recreación y aprovechamiento del tiempo libre, tendientes a estimular la formación integral de la niñez y la juventud veracruzanas;
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2024)</small>
+
+XIX. Promover y organizar, en coordinación con la Secretaría de Cultura, actividades de recreación y aprovechamiento del tiempo libre, tendientes a estimular la formación integral de la niñez y la juventud veracruzanas;
 
 > <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
@@ -859,9 +867,9 @@ XXII. Fomentar en los educandos el amor y el respeto a los símbolos patrios, y 
 
 XXIII. Promover, en coordinación con las autoridades competentes, los valores familiares y sociales que tiendan a la solidaridad humana, la preservación de la naturaleza y los centros urbanos y el respeto a la ley;
 
-> <small>(REFORMADA, G.O. 31 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2024)</small>
 
-XXIV. Patrocinar, en coordinación con la Secretaría de Turismo y Cultura, la realización de congresos, asambleas, reuniones, eventos, competencias y concursos de carácter científico, técnico, cultural, artístico y educativo;
+XXIV. Patrocinar la realización de congresos, asambleas, reuniones, eventos, competencias y concursos de carácter científico, técnico, cultural, artístico y educativo;
 
 XXV. Planear, organizar y supervisar el desarrollo de programas de educación tecnológica, con el fin de crear, conservar y transmitir la cultura y la ciencia, con respeto a la libertad de cátedra y de investigación, de libre examen y de discusión de las ideas, y procurar su vinculación con el sector productivo;
 
@@ -1715,21 +1723,21 @@ XVI. Instrumentar, coordinar y operar el Registro Estatal de Personas Morales Pr
 
 XVII. Proveer lo conducente en la vigilancia, acreditación y certificación de todas aquellas instituciones públicas o laboratorios clínicos privados, que realicen pruebas en genética molecular del ácido desoxirribonucleico o ADN, en relación con lo señalado en el artículo 289 Bis del Código Civil para el Estado; y los artículos 157 Bis y 157 Sexies del Código de Procedimientos Civiles para el Estado, en términos del artículo 356 Bis de la Ley de Salud del Estado de Veracruz de Ignacio de la Llave y de conformidad con la NOM-007-SSA3-2011.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 31 DE JULIO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 12 DE ENERO DE 2024)</small>
 
-De la Secretaría de Turismo y Cultura
+De la Secretaría de Turismo
 
-> <small>(REFORMADO, G.O. 31 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, G.O. 12 DE ENERO DE 2024)</small>
 
 ###### Artículo 32 Bis.
 
-La Secretaría de Turismo y Cultura es la dependencia responsable de coordinar y ejecutar las políticas públicas y los programas de desarrollo y promoción del sector turístico de la Entidad; promover e impulsar la difusión de la cultura y de las manifestaciones artísticas; la conservación y el incremento del patrimonio cultural, histórico y artístico de Veracruz; así como normar y conducir las políticas y programas en los procesos de sistematización, seguimiento y compilación de la información pública gubernamental.
+La Secretaría de Turismo es la dependencia responsable de coordinar y ejecutar las políticas públicas y los programas de desarrollo y promoción del sector turístico en la Entidad; así como normar y conducir las políticas y programas en los procesos de sistematización, seguimiento y compilación de la información pública gubernamental.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE JULIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE ENERO DE 2024)</small>
 
 ###### Artículo 32 Ter.
 
-Son atribuciones del Secretario de Turismo y Cultura, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
+Son atribuciones de la persona que funja como titular de la Secretaría de Turismo conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
 
 > <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
 
@@ -1763,9 +1771,9 @@ VII. Servir de órgano de consulta y asesoría en materia de servicios turístic
 
 VIII. Asesorar técnicamente a las (sic) Ayuntamientos y a los sectores social y privado que lo soliciten, en la prestación de los servicios turísticos o en la ejecución de proyectos relacionados con la materia;
 
-> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2024)</small>
 
-IX. Procurar la conservación y protección del entorno natural y cultural de las zonas de desarrollo turístico en el Estado, actuando en coordinación con las autoridades competentes de otros órdenes de Gobierno en estas materias, particularmente la Secretaría de Medio Ambiente, así como promover la cultura turística y el turismo cultural;
+IX. Procurar la conservación y protección del entorno natural y cultural de las zonas de desarrollo turístico en el Estado, actuando en coordinación con las autoridades competentes de otros órdenes de Gobierno en estas materias, particularmente la Secretaría de Medio Ambiente y la Secretaría de Cultura, así como promover la cultura turística y el turismo cultural;
 
 > <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
 
@@ -1787,21 +1795,21 @@ XIII. Codyuvar (sic) con las dependencias y entidades del sector público, así 
 
 XIV. Promover los atractivos culturales y naturales de la Entidad, instrumentando acciones con los sectores público y privado y a través de los medios de comunicación, a efecto de incrementar el flujo de turistas, ampliar su estadía e incrementar la derrama económica consecuente;
 
-> <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2024)</small>
 
-XV. Proyectar y difundir la publicidad turística y cultural del Estado en coordinación con la Coordinación General de Comunicación Social; así como coadyuvar a la divulgación de la que efectúen los sectores social y privado;
+XV. Proyectar y difundir la publicidad turística del Estado de manera conjunta con la Coordinación General de Comunicación Social; así como coadyuvar a la divulgación de la que efectúen los sectores social y privado;
 
-> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2024)</small>
 
-XVI. Promover en coordinación con las autoridades federales competentes, la formulación de las declaratorias nacionales e internacionales relativas a zonas de desarrollo turístico de la Entidad, así como las declaratorias de patrimonio artístico, histórico o cultural;
+XVI. Promover, en coordinación con las autoridades federales competentes, la formulación de las declaratorias nacionales e internacionales relativas a zonas de desarrollo turístico de la Entidad;
 
-> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2024)</small>
 
-XVII. Atender los asuntos internacionales de la competencia de la Secretaría, así como la celebración y cumplimiento de convenios bilaterales y multilaterales de cooperación turística y cultural; de igual forma, concertar acciones en la materia con otras dependencias y entidades de la Administración Pública Federal y Estatal y celebrar acuerdos en lo relativo con los Gobiernos Municipales;
+XVII. Atender los asuntos internacionales de la competencia de la Secretaría, así como la celebración y cumplimiento de convenios bilaterales y multilaterales de cooperación turística; de igual forma, concertar acciones en la materia con otras dependencias y entidades de la Administración Pública Federal y Estatal y celebrar acuerdos en lo relativo con los Gobiernos Municipales;
 
-> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2024)</small>
 
-XVIII. Promover, organizar y participar en misiones, conferencias, ferias, exposiciones, encuentros, congresos, eventos tradicionales y folklóricos y en general, actividades culturales que contribuyan a una mayor afluencia de visitantes hacia el Estado;
+XVIII. Promover, organizar y participar en misiones, conferencias, ferias, exposiciones, encuentros, congresos, eventos tradicionales y folklóricos y en general, actividades turísticas que contribuyan a una mayor afluencia de visitantes hacia el Estado;
 
 > <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
 
@@ -1823,33 +1831,33 @@ XXII. Vigilar el estricto cumplimiento de las leyes, reglamentos y demás ordena
 
 XXIII. Implementar los programas de calidad, capacitación y competitividad en la prestación de servicios turísticos;
 
-> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2024)</small>
 
-XXIV. Promover, ejecutar, coordinar y supervisar los planes y programas culturales y recreativos en la Entidad;
+XXIV. Promover, ejecutar, coordinar y supervisar los planes y programas recreativos con fines turísticos en la Entidad;
 
-> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2024)</small>
 
-XXV. Formular las políticas y programas y ejecutar las acciones relativas a la difusión de la cultura y el arte y la conservación e incremento del patrimonio artístico, histórico y cultural, así como la promoción de las actividades conexas;
+XXV. Formular las políticas, programas y ejecutar las acciones relativas a la difusión del turismo cultural;
 
-> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2024)</small>
 
-XXVI. Dirigir, coordinar, organizar y fomentar con los Ayuntamientos e instituciones públicas o particulares el establecimiento de casas de cultura y museos, así como promover la creación y mantenimiento de otras instituciones culturales;
+XXVI. Dirigir, coordinar, organizar y fomentar con los Ayuntamientos e instituciones públicas o particulares que incentiven los diferentes tipos de turismo en la entidad, promoviendo la creación y mantenimiento de instituciones que lo fomenten;
 
-> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2024)</small>
 
-XXVII. Promover la edición y distribución de obras literarias, estudios y documentos históricos que apoyen al conocimiento y desarrollo cultural y artístico de Veracruz;
+XXVII. Promover la edición y distribución de publicaciones, estudios y documentos históricos que apoyen al conocimiento y desarrollo turístico del Estado;
 
-> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2024)</small>
 
-XXVIII. Promover, coordinar y realizar eventos que difundan las diversas manifestaciones de la Cultura y las Artes en la Entidad;
+XXVIII. Promover y gestionar eventos turísticos que difundan las diversas manifestaciones de la cultura y las artes en la Entidad;
 
-> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2024)</small>
 
-XXIX. Incentivar, apoyar y coadyuvar con las autoridades federales de la materia, el desarrollo de la industria cinematográfica y promover a Veracruz como zona geográfica idónea para locaciones y filmaciones;
+XXIX. Incentivar, apoyar y coadyuvar con el sector público, privado, social y educativo, el desarrollo de la industria cinematográfica y con ello promover a Veracruz como zona geográfica idónea para locaciones y filmaciones;
 
-> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2024)</small>
 
-XXX. Promover y difundir los recursos naturales, el patrimonio histórico y las manifestaciones culturales y artísticas en los medios masivos de comunicación y propiciar su uso como escenarios de eventos nacionales e internacionales, particularmente en relación con la industria fílmica, la Radio y la Televisión;
+XXX. Promover y difundir los recursos naturales, el patrimonio histórico, infraestructura, las manifestaciones culturales y artísticas como atractivos turísticos del Estado, en los medios masivos de comunicación, propiciando su uso como escenarios de eventos nacionales e internacionales, particularmente en relación con la industria fílmica, la Radio y la Televisión;
 
 XXXI. (DEROGADA, G.O. 24 DE FEBRERO DE 2006)
 
@@ -1926,6 +1934,82 @@ XXI. Participar en la elaboración de programas y desarrollo de acciones tendien
 XXII. Participar en coordinación con el Sistema Estatal para el Desarrollo Integral de la Familia, en la elaboración de los programas, establecimiento de las medidas y aplicación de las acciones, que permitan mejorar la calidad de vida de las personas con capacidades diferentes; y
 
 XXIII. Las demás que la ley le señale o le asignen el Gobernador del Estado y el Consejo Estatal de Protección Civil.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 12 DE ENERO DE 2024)</small>
+
+De la Secretaría de Cultura
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2024)</small>
+
+###### Artículo 32 Sexies.
+
+La Secretaría de Cultura es la dependencia responsable de promover, impulsar y difundir la diversidad cultural de las regiones de la entidad; así como de la conservación, salvaguarda y el incremento del patrimonio cultural, histórico y artístico del Estado; y de la formación, el desarrollo artístico y cultural del Estado; e impulsar a las industrias culturales y creativas locales; de conformidad con lo dispuesto por esta Ley y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2024)</small>
+
+###### Artículo 32 Septies.
+
+Son atribuciones de la persona titular de la Secretaría de Cultura, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
+
+I. Formular, promover, ejecutar, coordinar y supervisar las políticas y programas culturales del Gobierno del Estado;
+
+II. Ejecutar las acciones relativas a la promoción y difusión de las manifestaciones culturales y artísticas;
+
+III. Realizar acciones para incrementar, salvaguardar y conservar del (sic) patrimonio artístico, histórico y cultural;
+
+IV. Promover, en coordinación con los Ayuntamientos, las instituciones públicas y sociedad civil organizada, el establecimiento de museos, centros culturales y casas de cultura;
+
+V. Realizar la edición y distribución de obras literarias, pedagógicas e históricas que contribuyan al conocimiento y al desarrollo cultural y artístico del Estado;
+
+VI. Promover, coordinar y realizar eventos que difundan las diversas manifestaciones de la cultura y las artes en el Estado, en el país y en el extranjero;
+
+VII. Incentivar, apoyar y coadyuvar con instancias de los tres órdenes de gobierno, colectivos ciudadanos e iniciativa privada, la distribución, programación y promoción de la cinematografía local, nacional e internacional;
+
+VIII. Impulsar programas, proyectos y acciones orientadas a promover, proteger y garantizar los derechos culturales de la sociedad, especialmente los de las personas en condiciones de vulnerabilidad;
+
+IX. Procurar que los servicios culturales que brinda el Estado lleguen a todas las regiones de la entidad;
+
+X. Realizar acciones de conservación, mantenimiento y restauración a los monumentos artísticos e históricos, en coadyuvancia con instancias de los tres órdenes de gobierno, en apego a las reglas, políticas y procedimientos que regulan el manejo, custodia, resguardo, aseguramiento y valuación del patrimonio cultural material del Gobierno del Estado y los municipios;
+
+XI. Mejorar la infraestructura cultural con acciones de mantenimiento, conservación, restauración, ampliación y equipamiento a inmuebles destinados a usos culturales propiedad del Gobierno del Estado, observando la normatividad aplicable;
+
+XII. Administrar, organizar, programar, promover y difundir las actividades, exposiciones y eventos artísticos que se realicen en los museos, galerías, centros culturales y teatros adscritos a la Secretaría de Cultura;
+
+XIII. Promover la formación artística mediante una oferta de enseñanza formal y no formal, diseñando y desarrollando programas de formación y desarrollo artístico y cultural, capacitación y actualización de personas creadoras artísticas, gestoras, promotoras culturales, docentes y público en general;
+
+XIV. Impulsar la sensibilización y la iniciación artística de la sociedad veracruzana, como una estrategia para garantizar el acceso de las personas al goce y la recreación de los lenguajes artísticos;
+
+XV. Impulsar la creación de nuevos públicos para el arte y fomentar la comprensión y disfrute de las manifestaciones artísticas por parte de la población de la entidad veracruzana y sus visitantes;
+
+XVI. Promover, fomentar y realizar actividades de investigación, documentación e información de las manifestaciones artísticas y culturales que inciden en el desarrollo de la sociedad veracruzana;
+
+XVII. Coordinar y realizar acciones de formación de personas instructoras y promotoras culturales en el ámbito del desarrollo cultural de las infancias y juventudes;
+
+XVIII. Desarrollar programas, proyectos y acciones orientados a la formación de las infancias y las juventudes como público de las artes garantizando su acceso al goce de los bienes que integran el patrimonio cultural de la humanidad;
+
+XIX. Fortalecer el perfil profesional de las y los creadores artísticos de la entidad mediante plataformas de formación orientados a la profesionalización, impulsando su inclusión en esquemas de distribución, promoción y difusión de las artes;
+
+XX. Estimular la creación y el desarrollo artístico de la comunidad creadora del Estado a través de programas de estímulos orientados al desarrollo y profesionalización de las y los creadores, intérpretes, investigadores y promotores culturales, a través de estímulos económicos a proyectos culturales, que se otorguen mediante su participación en convocatorias públicas a nivel estatal;
+
+XXI. Proponer acciones de colaboración con instancias y Dependencias de los tres órdenes de gobierno, así como entidades educativas y culturales de carácter público y privado para el cumplimiento de los fines de la Secretaría de Cultura;
+
+XXII. Promover la formación de intérpretes y docentes de educación artística de nivel técnico, así como la enseñanza, creación y difusión de la música a través de la Escuela Libre de Música;
+
+XXIII. Fomentar el hábito de la lectura mediante un programa que contemple la capacitación de mediadores de lectura, la realización de circules de lectura, salas de lectura y ferias del libro, y la publicación de obras literarias, pedagógicas e históricas, en coordinación con las instancias federales, estatales y municipales, así como con entidades educativas y culturales de carácter público y privado;
+
+XXIV. Planificar programas, proyectos y acciones orientadas a conocer, preservar, salvaguardar y difundir el conjunto de manifestaciones que constituyen el patrimonio cultural inmaterial y biocultural del Estado, procurando en todo momento que la definición de dichas prácticas y la importancia de su preservación sea decidida libremente por quienes las realizan;
+
+XXV. Promover la profesionalización de las y los emprendedores culturales y creativos de la entidad, brindando capacitación, asesoría y estímulos para la creación y consolidación de micro y pequeñas empresas de base creativa y cultural;
+
+XXVI. Fortalecer, en el ámbito de su competencia, los procesos de valoración, creación, distribución, comercialización, promoción y difusión de productos artesanales elaborados con materiales y técnicas tradicionales;
+
+XXVII. Acordar con las Dependencias y entidades educativas, culturales y de desarrollo social, de carácter público y privado, programas, proyectos y acciones destinadas a contribuir al desarrollo de la diversidad cultural mediante el financiamiento a proyectos culturales comunitarios que estimulen la creatividad, la autogestión y los procesos de investigación;
+
+XXVIII. Impulsar la formación y actualización de personas gestoras culturales, mediante diplomados, cursos y talleres donde adquieran los recursos, estrategias y conceptos para generar proyectos que respondan a las necesidades e intereses de la comunidad a la que pertenecen;
+
+XXIX. Reconocer y apoyar aquellos proyectos que contribuyan al desarrollo cultural, en un marco de respeto a la libertad de expresión; y
+
+XXX. Establecer líneas y acciones de coadyuvancia con otras Dependencias y organismos autónomos a fin de promover el arte y la cultura en el Estado.
 
 De la Contraloría General
 
@@ -2894,3 +2978,33 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Ejecutivo del Estado contará con un plazo de 120 días naturales, contado a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones reglamentarias correspondientes.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 12 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 721 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se abroga la Ley número 61 que crea el Instituto Veracruzano de la Cultura, publicada en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz-Llave, el 10 de febrero de 1987.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+CUARTO. El Reglamento Interior de la Secretaría de Cultura deberá emitirse dentro de los noventa días hábiles siguientes a la fecha de entrada en vigor del presente Decreto.
+
+QUINTO. El Reglamento Interior de la Secretaría de Turismo y Cultura deberá actualizarse conforme a este Decreto, dentro de los noventa días hábiles siguientes a la fecha de entrada en vigor del presente instrumento.
+
+SEXTO. El Reglamento Interior del Instituto Veracruzano de la Cultura regirá a la Secretaría de Cultura, en tanto no se publique su respectivo reglamento.
+
+SÉPTIMO. La Secretaría de Finanzas y Planeación realizará las adecuaciones procedentes a fin de que el presupuesto Subsidio Estatal y Recurso Federal asignado al Instituto Veracruzano de la Cultura, pasen a la Secretaría de Cultura.
+
+OCTAVO. A partir de la entrada en vigor del presente Decreto, los recursos humanos, financieros y materiales del Instituto Veracruzano de la Cultura se transferirán a la Secretaría de Cultura, con pleno respeto a los derechos laborales de sus trabajadores.
+
+NOVENO. La Secretaría de Finanzas y Planeación y la Contraloría General, a la brevedad posible, proveerán lo necesario para la autorización de la estructura orgánica que integrará la Secretaría de Cultura.
+
+DÉCIMO. Los actos y procedimientos administrativos iniciados por el Instituto Veracruzano de la Cultura continuarán su trámite hasta su conclusión por los órganos, unidades y áreas de funciones equivalentes de la Secretaría de Cultura.
+
+DÉCIMO PRIMERO. Las referencias hechas a la Secretaría de Turismo y Cultura que haga la legislación y disposiciones normativas vigentes, se entenderán realizadas a la Secretaría de Turismo o Secretaría de Cultura, según corresponda en el ámbito de su competencia.
+
+DÉCIMO SEGUNDO. Para la atención y seguimiento de los asuntos jurídicos o administrativos en trámite o pendientes de la resolución definitiva, así como para el cumplimiento de las obligaciones y ejercicio de los derechos derivados de los convenios, contratos y demás actos jurídicos celebrados con anterioridad a la vigencia de este Decreto con el Instituto Veracruzano de la Cultura, la representación de éste, será sustituida por la Secretaría de Cultura.
+
+DÉCIMO TERCERO. Para la atención y seguimiento de los asuntos jurídicos o administrativos en trámite o pendientes de resolución definitiva, así como para el cumplimiento de las obligaciones y ejercicio de los derechos derivados de los convenios, contratos y demás actos jurídicos celebrados con anterioridad a la vigencia de este Decreto con la Secretaría de Turismo y Cultura, la representación de ésta, será sustituida por la Secretaría de Turismo.
