@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-seguridad-vial-del-estado-de-puebla-168725"
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-05"
-last_updated: "2023-12-05"
+last_updated: "2024-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE PUEBLA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ENERO DE 2024 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE PUEBLA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE ENERO DE 2024.]</small>
 
 Ley publicada en la Segunda Edición Vespertina del Número 3 del Periódico Oficial del Estado de Puebla.
 
@@ -2191,6 +2191,10 @@ DÉCIMO SEGUNDO. La Secretaría de Movilidad y Transporte, en cumplimiento a las
 
 DÉCIMO TERCERO. El Gobierno del Estado y los Ayuntamientos, deberán considerar de manera paulatina y progresiva en sus programas presupuestarios a partir del Ejercicio Fiscal 2025 y subsecuentes, las acciones y actividades que en el ámbito de sus respectivas competencias resulten necesarias para dar cumplimiento a lo dispuesto en la presente Ley.
 
-EL GOBERNADOR SUBSTITUTO hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiún días del mes de noviembre de dos mil veintitrés. Diputado Presidente. JUAN ENRIQUE RIVERA REYES. Rúbrica. Diputada Vicepresidenta. MARÍA GUADALUPE LEAL RODRÍGUEZ. Rúbrica. Diputado Vicepresidente. EDGAR VALENTÍN GARMENDIA DE LOS SANTOS. Rúbrica. Diputado Secretario. GERARDO HERNÁNDEZ ROJAS. Rúbrica. Diputada Secretaria. MARÍA RUTH ZÁRATE DOMÍNGUEZ. Rúbrica.
+> <small>(F. DE E., P.O. 12 DE ENERO DE 2024)</small>
 
-Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de noviembre de dos mil veintitrés. El Gobernador Substituto del Estado Libre y Soberano de Puebla. LICENCIADO SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. El Secretario de Gobernación. CIUDADANO JAVIER AQUINO LIMÓN. Rúbrica. El Secretario de Movilidad y Transporte. CIUDADANO OMAR ÁLVAREZ ARRONTE. Rúbrica. El Secretario de Seguridad Pública. CIUDADANO DANIEL IVÁN CRUZ LUNA. Rúbrica. El Secretario de Cultura. CIUDADANO NGUYEN ENRIQUE GLOCKNER CORTE. Rúbrica. Rúbrica. La Secretaria de Igualdad Sustantiva. CIUDADANA MELVA GUADALUPE NAVARRO SEQUEIRA. Rúbrica. La Secretaria de Salud. CIUDADANA ARACELI SORCIA CÓRDOBA. Rúbrica. La Secretaria de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial. CIUDADANA BEATRIZ MANRIQUE GUEVARA. Rúbrica. La Secretaria de Salud. CIUDADANA ARACELI SORIA CÓRDOBA. Rúbrica. La Secretaria de Planeación y Finanzas. CIUDADANA JOSEFINA MORALES GUERRERO. Rúbrica. El Secretario de Infraestructura. CIUDADANO LUIS ROBERTO TENORIO GARCÍA. Rúbrica.
+EL GOBERNADOR SUBSTITUTO hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de noviembre de dos mil veintitrés. Diputado Presidente. JUAN ENRIQUE RIVERA REYES. Rúbrica. Diputada Vicepresidenta. MARÍA GUADALUPE LEAL RODRÍGUEZ. Rúbrica. Diputado Vicepresidente. EDGAR VALENTÍN GARMENDIA DE LOS SANTOS. Rúbrica. Diputado Secretario. GERARDO HERNÁNDEZ ROJAS. Rúbrica. Diputada Secretaria. MARÍA RUTH ZÁRATE DOMÍNGUEZ. Rúbrica.
+
+> <small>(F. DE E., P.O. 12 DE ENERO DE 2024)</small>
+
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiún días del mes de noviembre de dos mil veintitrés. El Gobernador Substituto del Estado Libre y Soberano de Puebla. LICENCIADO SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. El Secretario de Gobernación. CIUDADANO JAVIER AQUINO LIMÓN. Rúbrica. El Secretario de Movilidad y Transporte. CIUDADANO OMAR ÁLVAREZ ARRONTE. Rúbrica. El Secretario de Seguridad Pública. CIUDADANO DANIEL IVÁN CRUZ LUNA. Rúbrica. El Secretario de Cultura. CIUDADANO NGUYEN ENRIQUE GLOCKNER CORTE. Rúbrica. Rúbrica. La Secretaria de Igualdad Sustantiva. CIUDADANA MELVA GUADALUPE NAVARRO SEQUEIRA. Rúbrica. La Secretaria de Salud. CIUDADANA ARACELI SORCIA CÓRDOBA. Rúbrica. La Secretaria de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial. CIUDADANA BEATRIZ MANRIQUE GUEVARA. Rúbrica. La Secretaria de Salud. CIUDADANA ARACELI SORIA CÓRDOBA. Rúbrica. La Secretaria de Planeación y Finanzas. CIUDADANA JOSEFINA MORALES GUERRERO. Rúbrica. El Secretario de Infraestructura. CIUDADANO LUIS ROBERTO TENORIO GARCÍA. Rúbrica.
