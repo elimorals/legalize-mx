@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-colegio-de-bachilleres-del-estado-de-1702
 country: "mx"
 rank: "estatuto"
 publication_date: "2022-07-22"
-last_updated: "2022-07-22"
+last_updated: "2024-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL COLEGIO DE BACHILLERES DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE ENERO DE 2024.
 
 Estatuto publicado en el Número 34,831 del Diario Oficial del Estado de Yucatán, el viernes 22 de julio de 2022.
 
@@ -145,7 +145,7 @@ e) Unidad de Vinculación:
 
 2. Departamento de Relaciones Públicas.
 
-f) Órgano de Control Interno.
+f) (DEROGADO, D.O. 12 DE ENERO DE 2024)
 
 g) Direcciones de Planteles.
 
@@ -489,7 +489,9 @@ XXII. Elaborar reportes e informar periódicamente a la persona titular de la di
 
 XXIII. Las demás que le confiera la persona titular de la dirección general o que establezcan este estatuto orgánico u otras disposiciones jurídicas aplicables.
 
-Artículo 28 (sic). Facultades y obligaciones de la persona titular de la Subdirección Académica
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 12 DE ENERO DE 2024)</small>
+
+Artículo 28 bis. Facultades y obligaciones de la persona titular de la Subdirección Académica.
 
 La persona titular de la Subdirección Académica tendrá las siguientes facultades y obligaciones:
 
@@ -1247,7 +1249,7 @@ IX. Las demás que le confiere la persona titular de la dirección general o que
 
 Facultades y obligaciones de la persona titular del Órgano de Control Interno
 
-La persona titular del Órgano de Control Interno del colegio tendrá las facultades y obligaciones otorgadas en el artículo 546 del Reglamento del Código de la Administración Pública de Yucatán, así (sic) las demás disposiciones legales y normativas aplicables.
+> <small>(DEROGADO, D.O. 12 DE ENERO DE 2024)</small>
 
 ###### Artículo 55.
 
@@ -1484,3 +1486,25 @@ Aprobado por la Junta de Gobierno del Colegio de Bachilleres del Estado de Yucat
 Licenciado Marco Antonio Pasos Tec
 
 Director General del Colegio de Bachilleres del Estado de Yucatán.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 12 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO COBAY 04/2024 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL COLEGIO DE BACHILLERES DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor.
+
+Este Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial del Estado de Yucatán, previa aprobación de la Junta de Gobierno del Colegio de Bachilleres del Estado de Yucatán.
+
+Segundo. Transferencia a la Secretaría de Contraloría General del Estado de Yucatán.
+
+La Dirección General del Colegio de Bachilleres del Estado de Yucatán deberá transferir los recursos humanos, presupuestales y materiales correspondientes al Órgano de Control Interno a la Secretaria de la Contraloría General, a más tardar, en un plazo de noventa días naturales contados a partir de la entrada en vigor del presente Acuerdo.
+
+Tercero. Asuntos en Trámite.
+
+Los asuntos en trámite ante el Órgano de Control Interno del Colegio de Bachilleres del Estado de Yucatán, se substanciarán hasta su conclusión de conformidad con la normativa aplicable, sin perjuicio de su continuación una vez incorporada en la estructura de la Secretaria de la Contraloría General.
+
+Cuarto. Inscripción en el Registro de Entidades Paraestatales
+
+La persona titular de la Dirección General del Colegio de Bachilleres del Estado de Yucatán, deberá realizar la inscripción de las modificaciones de este Estatuto Orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, dentro de los treinta días naturales siguientes, contados a partir de la entrada en vigor de este Acuerdo.
