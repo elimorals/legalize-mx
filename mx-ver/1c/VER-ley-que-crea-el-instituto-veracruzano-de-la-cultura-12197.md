@@ -4,7 +4,7 @@ identifier: "VER-ley-que-crea-el-instituto-veracruzano-de-la-cultura-12197"
 country: "mx"
 rank: "ley"
 publication_date: "1987-02-10"
-last_updated: "2010-02-22"
+last_updated: "2024-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12197&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "VER"
 ---
 # LEY QUE CREA EL INSTITUTO VERACRUZANO DE LA CULTURA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO NÚMERO 721, PUBLICADO EN LA G.O. 12 DE ENERO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2024 EN LA G.O. DEL ESTADO DE VERACRUZ IGNACIO DE LA LLAVE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY NUMERO 61 QUE CREA EL INSTITUTO VERACRUZANO DE LA CULTURA
 
-ULTIMA REFORMA PUBLICA EN LA GACETA OFICIAL: 22 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICA EN LA GACETA OFICIAL: 12 DE ENERO DE 2024 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el martes 10 de febrero de 1987.
 
@@ -267,10 +271,40 @@ En cumplimiento de lo dispuesto por la fracción I del artículo 87 y primer pá
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-P.O. 22 DE FEBRERO DE 2010.
+G.O. 22 DE FEBRERO DE 2010.
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del estado.
 
 Segundo. El Instituto deberá realizar las adecuaciones correspondientes a su normatividad interior.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 12 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 721 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se abroga la Ley número 61 que crea el Instituto Veracruzano de la Cultura, publicada en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz-Llave, el 10 de febrero de 1987.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+CUARTO. El Reglamento Interior de la Secretaría de Cultura deberá emitirse dentro de los noventa días hábiles siguientes a la fecha de entrada en vigor del presente Decreto.
+
+QUINTO. El Reglamento Interior de la Secretaría de Turismo y Cultura deberá actualizarse conforme a este Decreto, dentro de los noventa días hábiles siguientes a la fecha de entrada en vigor del presente instrumento.
+
+SEXTO. El Reglamento Interior del Instituto Veracruzano de la Cultura regirá a la Secretaría de Cultura, en tanto no se publique su respectivo reglamento.
+
+SÉPTIMO. La Secretaría de Finanzas y Planeación realizará las adecuaciones procedentes a fin de que el presupuesto Subsidio Estatal y Recurso Federal asignado al Instituto Veracruzano de la Cultura, pasen a la Secretaría de Cultura.
+
+OCTAVO. A partir de la entrada en vigor del presente Decreto, los recursos humanos, financieros y materiales del Instituto Veracruzano de la Cultura se transferirán a la Secretaría de Cultura, con pleno respeto a los derechos laborales de sus trabajadores.
+
+NOVENO. La Secretaría de Finanzas y Planeación y la Contraloría General, a la brevedad posible, proveerán lo necesario para la autorización de la estructura orgánica que integrará la Secretaría de Cultura.
+
+DÉCIMO. Los actos y procedimientos administrativos iniciados por el Instituto Veracruzano de la Cultura continuarán su trámite hasta su conclusión por los órganos, unidades y áreas de funciones equivalentes de la Secretaría de Cultura.
+
+DÉCIMO PRIMERO. Las referencias hechas a la Secretaría de Turismo y Cultura que haga la legislación y disposiciones normativas vigentes, se entenderán realizadas a la Secretaría de Turismo o Secretaría de Cultura, según corresponda en el ámbito de su competencia.
+
+DÉCIMO SEGUNDO. Para la atención y seguimiento de los asuntos jurídicos o administrativos en trámite o pendientes de la resolución definitiva, así como para el cumplimiento de las obligaciones y ejercicio de los derechos derivados de los convenios, contratos y demás actos jurídicos celebrados con anterioridad a la vigencia de este Decreto con el Instituto Veracruzano de la Cultura, la representación de éste, será sustituida por la Secretaría de Cultura.
+
+DÉCIMO TERCERO. Para la atención y seguimiento de los asuntos jurídicos o administrativos en trámite o pendientes de resolución definitiva, así como para el cumplimiento de las obligaciones y ejercicio de los derechos derivados de los convenios, contratos y demás actos jurídicos celebrados con anterioridad a la vigencia de este Decreto con la Secretaría de Turismo y Cultura, la representación de ésta, será sustituida por la Secretaría de Turismo.
