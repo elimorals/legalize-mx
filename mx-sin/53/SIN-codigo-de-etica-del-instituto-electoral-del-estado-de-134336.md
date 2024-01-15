@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-etica-del-instituto-electoral-del-estado-de-134336"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-02-18"
-last_updated: "2019-02-18"
+last_updated: "2024-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "SIN"
 ---
 # CODIGO DE ETICA DEL INSTITUTO ELECTORAL DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO CUARTO DEL ACUERDO ADMINISTRATIVO IEES/OIC/AA-001/2024 DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO ELECTORAL DEL ESTADO DE SINALOA, POR EL QUE SE EMITE EL NUEVO CÓDIGO DE ÉTICA DEL INSTITUTO ELECTORAL DEL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 15 DE ENERO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL INSTITUTO ELECTORAL DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:15 DE ENERO DE 2024 (ABROGADO).
 
 Código publicado en el No. 21 del Periódico Oficial del Estado de Sinaloa, el lunes 18 de febrero de 2019.
 
@@ -293,3 +295,21 @@ Las y los servidores públicos que conozcan de algún hecho contrario a las disp
 Primero. El presente Código entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 Segundo. Las y los servidores públicos que a la entrada en vigor de este Código se encuentren desempeñado (sic) un empleo, cargo o comisión en el Instituto, suscribirán su compromiso a continuar desempeñándolo a partir de ese momento conforme a los principios, valores, directrices y reglas de integridad establecidos en el mismo, y recibirán un ejemplar de este a más tardar en treinta días hábiles posteriores a su publicación.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE ENERO DE 2024.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL "EXTRACTO DEL ACUERDO ADMINISTRATIVO IEES/OIC/AA-001/2024 DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO ELECTORAL DEL ESTADO DE SINALOA, POR EL QUE SE EMITEN (SIC) EL NUEVO CÓDIGO DE ÉTICA DEL INSTITUTO ELECTORAL DEL ESTADO DE SINALOA", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se emite el Código de Ética del Instituto Electoral del Estado de Sinaloa, a que se refieren los artículos 16 de la Ley General de Responsabilidades Administrativas y 16 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa.
+
+SEGUNDO. Publíquese el presente acuerdo en el Periódico Oficial “El Estado de Sinaloa”, así como el Código de Ética del Instituto Electoral del Estado de Sinaloa en los estrados y en el sitio web del Instituto Electoral del Estado de Sinaloa.
+
+TERCERO. Infórmese a la Presidencia y a la Secretaría Ejecutiva del Instituto Electoral del Estado de Sinaloa, la emisión del presente Acuerdo, para los fines y efectos legales y administrativos a los que haya lugar.
+
+CUARTO. La publicación del presente Código de Ética, abroga el Código de Ética del Instituto Electoral del Estado de Sinaloa, aprobado mediante acuerdo administrativo IEES/OIC/AA-001/2019 por el órgano interno de control y publicado en el Periódico Oficial “El Estado de Sinaloa”, de fecha 18 de febrero del 2019.
+
+## TRANSITORIO
+
+ÚNICO. El presente acuerdo entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa”.
