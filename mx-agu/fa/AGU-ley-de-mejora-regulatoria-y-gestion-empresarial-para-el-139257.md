@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-mejora-regulatoria-y-gestion-empresarial-para-el-139257"
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-28"
-last_updated: "2023-05-24"
+last_updated: "2024-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139257&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE MEJORA REGULATORIA Y GESTIÓN EMPRESARIAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el jueves 28 de noviembre de 2019.
 
@@ -309,7 +309,9 @@ IX. Armonizar el marco normativo de la mejora regulatoria en el Estado atendiend
 
 X. Facilitar y mejorar el ambiente para hacer negocios;
 
-XI. Facilitar a la sociedad, el conocimiento y entendimiento de la regulación, trámites y servicios, mediante la accesibilidad y el uso de lenguaje sencillo y claro;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+XI. Facilitar a la sociedad, el conocimiento y entendimiento de la regulación, trámites y servicios, mediante la accesibilidad y adaptabilidad en el uso de lenguaje, lo que implica que éste sea sencillo, claro y no técnico, salvo que sea necesario para la certidumbre del acto jurídico, regulación, trámite o servicio;
 
 > <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
 
@@ -469,9 +471,17 @@ Serán invitados permanentes del Consejo Estatal y podrán participar con voz, p
 
 I. Un representante del Poder Judicial del Estado;
 
-II. Un representante del Poder Legislativo; y
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-III. Un representante de cada uno de los Órganos Constitucionales Autónomos en el Estado.
+II. Una persona del Poder Legislativo;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+III. Una persona de cada uno de los Órganos Constitucionales Autónomos en el Estado; y
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2024)</small>
+
+IV. El o la persona titular de cada Presidencia Municipal o alcaldía de aquellos Municipios que no se encuentren previstos en la fracción IX del artículo 15.
 
 ###### Artículo 17.
 
@@ -1566,3 +1576,15 @@ P.O. 24 DE MAYO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes
+
+P.O. 15 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 544.- SE REFORMA LA LEY DE MEJORA REGULATORIA Y GESTIÓN EMPRESARIAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente decreto.
