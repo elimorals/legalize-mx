@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2024-01-08"
+last_updated: "2024-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2024.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -2515,9 +2515,11 @@ VI.- El Sistema para el Desarrollo Integral de la Familia, cuando sean menores d
 
 Si las personas a que se refieren las fracciones II, III y IV del artículo anterior no pueden representar al acreedor alimentario en el juicio en que se pida el aseguramiento de alimentos, se nombrará por el juez un tutor interino.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2024)</small>
+
 ###### Artículo 339.
 
-El aseguramiento podrá consistir en hipoteca, prenda, fianza, o depósito de cantidad bastante a cubrir los alimentos.
+El aseguramiento podrá consistir en hipoteca, prenda, fianza, fideicomiso o depósito de cantidad suficiente para cubrir los alimentos, o cualquier otra forma de garantía que resulte suficiente a juicio del Juez.
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -2551,27 +2553,27 @@ V.- Si el alimentario, sin consentimiento del que debe dar los alimentos, abando
 
 El derecho de recibir alimentos no puede ser objeto de transacción y es irrenunciable e intransmisible; pero sí pueden ser objeto de las operaciones indicadas, las pensiones caídas.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2024)</small>
 
 ###### Artículo 344.
 
-Cuando uno de los cónyuges no estuviere presente, o estándolo rehusare entregar al otro cónyuge lo necesario para los alimentos de éste y/o de los hijos, será responsable de las deudas que el otro cónyuge contraiga para cubrir esa necesidad; pero sólo en la cuantía estrictamente necesaria para ese objeto, y siempre que no se trate de gastos de lujo.
+Cuando la persona obligada a proporcionar alimentos no estuviere presente, o estándolo rehusare entregar lo necesario para los alimentos de sus acreedores, será responsable de los gastos que éstos hubieren efectuado o las deudas que hubieren contraído para cubrir esa exigencia, con sus intereses y demás gastos accesorios que se haya incurrido a la deuda principal; pero sólo en la cuantía estrictamente necesaria para ese objeto, conforme a las circunstancias del caso y siempre que no se trate de gastos de lujo.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2024)</small>
 
 ###### Artículo 345.
 
-El cónyuge que, sin culpa suya, se vea obligado a vivir separado del otro, podrá pedir al juez de Primera Instancia del lugar de su residencia, que obligue al otro cónyuge a darle alimentos durante la separación, y a que le ministre todos los que haya dejado de darle desde que lo abandonó. El juez, según las circunstancias del caso, fijará la suma que el cónyuge debe ministrar mensualmente, dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y que pague los gastos que aquel haya tenido que erogar con tal motivo.
+El cónyuge que, sin culpa suya, se vea obligado a vivir separado del otro, podrá pedir al juez de Primera Instancia del lugar de su residencia que obligue a éste a darle alimentos durante la separación y a que le ministre todos los que haya dejado de darle desde que lo abandonó. El Juez, según las circunstancias del caso, fijará la suma que se deba pagar y la que deba ministrarse mensualmente, dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y para que el cónyuge deudor pague los gastos que el acreedor haya tenido que erogar con tal motivo, con sus intereses y demás gastos accesorios, cuando sea procedente.
 
 ###### Artículo 346.
 
 (DEROGADO, P.O. 11 DE JUNIO DE 2018)
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2024)</small>
 
 ###### Artículo 347.
 
-Cuando alguna persona muera por motivo del desempeño de funciones o empleos públicos, sin dejar bienes propios que basten al sostenimiento de sus hijos menores de edad o con alguna discapacidad, el Estado y los Municipios, según sea el caso, tendrán obligación de proporcionar alimentos a dichos hijos en los mismos términos que si se tratare de hermanos.
+Cuando alguna persona muera por motivo del desempeño de funciones o empleos públicos, sin dejar bienes propios que basten al sostenimiento de sus hijos menores de edad o con discapacidad, el Estado y los Municipios tendrán obligación de proporcionar alimentos a dichos hijos en los mismos términos que si se tratare de hermanos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE NOVIEMBRE DE 2001)</small>
 
@@ -17692,3 +17694,11 @@ P.O. 8 DE ENERO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 538.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciara su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
