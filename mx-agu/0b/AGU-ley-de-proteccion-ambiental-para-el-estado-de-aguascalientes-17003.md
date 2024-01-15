@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2023-12-18"
+last_updated: "2024-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -109,9 +109,9 @@ V. AGUAS RESIDUALES: Aquellas no aptas para el consumo humano, que por el uso re
 
 VI. AMBIENTE: Conjunto de elementos naturales y artificiales o inducidos por el hombre que hacen posible le existencia y desarrollo de los seres humanos y demás organismos vivos y demás organismos vivos que interactúan en un espacio y tiempos determinados;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-VII. ARBORIZAR: Plantar árboles, preferentemente de especies frutales, en las áreas urbanas existentes en una población, Municipio y el Estado; con independencia de que dichos árboles sean nativos o bien exóticos que hayan sido adaptados a las condiciones climáticas del Estado, pero con el fin de lograr un equilibrio ecológico propicio para el desarrollo de los habitantes;
+VII. ARBORIZAR: Plantar árboles de especies frutales, nativas, o endémicas aptas para el clima; siendo obligatorio priorizar las especies resistentes a las sequías y/o que requieran poco recurso hídrico para su mantenimiento y crecimiento, con el fin de lograr un equilibrio ecológico propicio para un ambiente sano y desarrollo sustentable;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
 
@@ -2515,11 +2515,11 @@ VI. El establecimiento de unidades intensivas y extensivas, conforme a la normat
 
 No se permitirá emitir o descargar contaminantes a la atmósfera, el agua y los suelos, cuando rebasen los límites máximos permitidos que se encuentran señalados en las Normas Oficiales Mexicanas y los demás ordenamientos de la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 130.
 
-Se considera como de cuidado especial a las bolsas de plástico y polietileno y envases de poliestireno expandido de un solo uso, por lo que se prohíbe en el Estado su uso y distribución por supermercados, tiendas de conveniencia, autoservicios, almacenes, negocios, comercios, y cualquier establecimiento que los proporcione a las personas para llevar, transportar o trasladar los productos adquiridos. Por lo anterior las bolsas de plástico o de polietileno o envases de poliestireno expandido de un solo uso, deberán ser remplazados biodegradables (sic) o tela; según las directrices y lineamientos que establezca esta ley y el Programa establecido al efecto
+Se considera como de cuidado especial a las bolsas de plástico, de polietileno y envases de poliestireno expandido de un solo uso, por lo que se prohíbe en el Estado su uso y distribución por supermercados, tiendas de conveniencia, autoservicios, almacenes, negocios, comercios, y cualquier establecimiento que los proporcione a las personas para llevar, transportar o trasladar los productos adquiridos. Por lo anterior las bolsas de plástico o de polietileno o envases de poliestireno expandido de un solo uso, deberán ser remplazados por bolsas de materiales biodegradables o tela; según las directrices y lineamientos que establezca esta ley y el Programa establecido al efecto.
 
 > <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
@@ -2539,11 +2539,11 @@ Se exceptúan de lo anterior la utilización de bolsas de polietileno y envases 
 
 El incumplimiento a lo previsto en el presente Artículo se sancionará de conformidad con lo establecido por el Artículo 212 Fracciones I, II, III, V y VI de la presente Ley.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 131.
 
-Se elaborará y difundirá un "Programa de Sustitución de Plástico No Biodegradable Biodegradables (sic)", con el fin de eliminar el consumo de bolsas, envases, embalajes o empaques de plástico o poliestireno expandido de un solo uso no biodegradables, que se utilizan en comercios en general y que se entregan al público para contención, transporte y envase de mercancías.
+Se elaborará y difundirá un "Programa de Sustitución de Plástico No Biodegradable por Materiales Biodegradables", con el fin de eliminar el consumo de bolsas, envases, embalajes o empaques de plástico o poliestireno expandido de un solo uso no biodegradables, que se utilizan en comercios en general y que se entregan al público para contención, transporte y envase de mercancías.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
@@ -3819,6 +3819,10 @@ La Secretaría, la Procuraduría o la autoridad municipal correspondiente podrá
 
 Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta Ley, sus reglamentos y demás disposiciones que de ella se deriven, se destinarán a la integración de fondos para desarrollar programas vinculados con la inspección y la vigilancia en las materias a que se refiere esta Ley. El Reglamento respectivo establecerá las reglas sobre la integración, administración y gastos de los recursos constitutivos de dicho fondo ambiental.
 
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2024)</small>
+
+Asimismo, los ingresos que se obtengan de las multas por infracciones a lo dispuesto en el Artículo 130 de esta Ley, además de destinarse a la integración de fondos a que hace referencia al párrafo anterior, se destinarán para promover y desarrollar campañas de difusión, actividades de educación ambiental, capacitación y otras similares para fomentar una cultura responsable del reúso, reciclaje, beneficios de la utilización de material biodegradable o tela y la correcta separación de los residuos sólidos urbanos, así como para formar conciencia en la población de los efectos e impactos perjudiciales que genera la contaminación al medio ambiente.
+
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 219.
@@ -4171,115 +4175,19 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Las Autoridades a que hace referencia esta reforma, deberán de adecuar su normatividad dentro de los ciento veinte días posteriores a la publicación de la presente reforma en el Periódico Oficial del Estado, a efecto de dar cumplimiento a la misma.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 45/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE RESIDENCIA Y DOMICILIO, DE LOS JUZGADOS DE DISTRITO PRIMERO, SEGUNDO, TERCERO, CUARTO, QUINTO Y OCTAVO; DE LOS TRIBUNALES COLEGIADOS EN MATERIAS CIVIL Y ADMINISTRATIVA, EN MATERIAS PENAL Y ADMINISTRATIVA, Y EN MATERIAS DE TRABAJO Y ADMINISTRATIVA; Y DE LOS TRIBUNALES UNITARIOS PRIMERO Y SEGUNDO, TODOS EN EL ESTADO DE OAXACA, ASÍ COMO DE LAS OFICINAS DE CORRESPONDENCIA COMÚN QUE LES PRESTAN SERVICIO”.]
+P.O. 15 DE ENERO DE 2024.
 
-PRIMERO. El presente Acuerdo entrará en vigor para los órganos jurisdiccionales y oficinas de correspondencia común en él referidos, conforme a las fechas de inicio de funciones en su nuevo domicilio, señaladas en el calendario previsto en el Artículo 2 de este instrumento normativo.
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 547.- SE REFORMA LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES".]
 
-Para la Secretaría Ejecutiva de Administración y para el Instituto Federal de Defensoría Pública iniciará su vigencia al día siguiente de su aprobación, a fin de dar cumplimiento a los transitorios CUARTO y QUINTO siguientes.
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Con excepción de lo dispuesto en el párrafo anterior el Acuerdo entrará en vigor para el Consejo de la Judicatura Federal el 10 de octubre de 2016.
+P.O. 15 DE ENERO DE 2024.
 
-Para efectos del cómputo del número de juzgados de Distrito en el Estado de Oaxaca, la reforma al numeral SEGUNDO, fracción XIII, número 3 del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito, prevista en el transitorio SEXTO de este Acuerdo estará vigente en su totalidad el 16 de octubre de 2016, fecha de inicio de funciones de los Juzgados Décimo y Decimoprimero de Distrito en el Estado de Oaxaca.
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 548.- SE REFORMA LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES".]
 
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+###### ARTÍCULO ÚNICO.
 
-TERCERO. Los órganos jurisdiccionales a que se refiere el presente Acuerdo y las oficinas de correspondencia común que les prestan servicio, deberán colocar avisos en lugares visibles en relación a su cambio de residencia y domicilio.
-
-CUARTO. El Instituto Federal de Defensoría Pública, en su ámbito de competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
-
-QUINTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, adoptará las medidas necesarias para que los órganos jurisdiccionales y oficinas de correspondencia común a que se refiere este Acuerdo, inicien funciones en su nuevo domicilio conforme al calendario previsto en el Artículo 2 del citado instrumento normativo.
-
-SEXTO. Se reforman los numerales SEGUNDO, fracción XIII, números 1, 2 y 3, así como el CUARTO, fracción XIII, segundo párrafo, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito, para quedar como sigue:
-
-“SEGUNDO. ...
-
-I. a XII. ...
-
-XIII. ...
-
-1. Tres tribunales colegiados especializados: uno en materias penal y administrativa, uno en materias civil y administrativa, y uno en materias de trabajo y administrativa, todos con residencia en San Bartolo Coyotepec, Oaxaca.
-
-2. Dos tribunales unitarios con sede en San Bartolo Coyotepec, Oaxaca.
-
-3. Nueve Juzgados de Distrito en el Estado de Oaxaca: siete con residencia en San Bartolo Coyotepec, y dos con sede en Salina Cruz.
-
-XIV. a XXXII. ...
-
-CUARTO. ...
-
-I. a XII. ...
-
-XIII. ...
-
-Los juzgados de Distrito en el Estado de Oaxaca, con residencia en San Bartolo Coyotepec, Oaxaca, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa, excepto en el distrito judicial en el que ejercen jurisdicción territorial los juzgados de Distrito con residencia en Salina Cruz.
-
-...
-
-XIV. a XXXIII. ...”.
-
-D.O.F. 14 DE OCTUBRE DE 2016.
-
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 46/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DE LOS JUZGADOS DÉCIMO Y DECIMOPRIMERO DE DISTRITO EN EL ESTADO DE OAXACA, CON RESIDENCIA EN SAN BARTOLO COYOTEPEC, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS REFERIDOS ÓRGANOS JURISDICCIONALES Y LOS JUZGADOS DE DISTRITO, EN LA MISMA SEDE”.]
-
-PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de octubre de dos mil dieciséis, con excepción de lo previsto en el CUARTO transitorio, el cual iniciará su vigencia a partir de la aprobación del mismo.
-
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
-
-TERCERO. El turno de guardia para la recepción de asuntos en días y horas inhábiles, establecido a la entrada en vigor de este Acuerdo para los Juzgados de Distrito en el Estado de Oaxaca, con sede en San Bartolo Coyotepec, continuará aplicándose hasta el 7 de noviembre de 2016, en específico:
-
-SEMANA DE GUARDIA ÓRGANO JURISDICCIONAL AL QUE
-
-CORRESPONDE LA GUARDIA
-
-Del 10 al 17 de octubre de 2016 Juzgado Cuarto
-
-Del 17 al 24 de octubre de 2016 Juzgado Quinto
-
-Del 24 al 31 de octubre de 2016 Juzgado Octavo
-
-Del 31 de octubre al
-
-7 de noviembre de 2016 Juzgado Noveno
-
-A partir del propio 7 de noviembre de 2016 y posteriormente, las guardias de turno conforme al sistema del artículo 5 de este Acuerdo quedarán como sigue:
-
-SEMANA DE GUARDIA ÓRGANO JURISDICCIONAL AL QUE
-
-CORRESPONDE LA GUARDIA
-
-Del 7 al 14 de noviembre de 2016 Juzgado Décimo
-
-Del 14 al 21 de noviembre de 2016 Juzgado Decimoprimero
-
-Del 21 al 28 de noviembre de 2016 Juzgado Primero
-
-Del 28 de noviembre al
-
-5 de diciembre de 2016 Juzgado Segundo
-
-Del 5 al 12 de diciembre de 2016 Juzgado Tercero
-
-Y así sucesivamente, de forma semanal.
-
-CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotarán a los nuevos órganos jurisdiccionales de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
-
-QUINTO. Se reforma el numeral SEGUNDO, fracción XIII, número 3, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito, para quedar como sigue:
-
-“SEGUNDO. ...
-
-I. a XII. ...
-
-XIII. ...
-
-1. ...
-
-2. ...
-
-3. Once Juzgados de Distrito en el Estado de Oaxaca: nueve con residencia en San Bartolo Coyotepec, y dos con sede en Salina Cruz.
-
-XIV. a XXXII. ...”.
-
-D.O.F. 28 DE OCTUBRE DE 2016.
+– El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 43/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL OCTAVO TRIBUNAL COLEGIADO DE CIRCUITO DEL CENTRO AUXILIAR DE LA TERCERA REGIÓN, CON RESIDENCIA EN GUADALAJARA, JALISCO Y SU TRANSFORMACIÓN EN EL QUINTO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO, CON SEDE EN ZAPOPAN, JALISCO, ASÍ COMO A SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, RESIDENCIA Y FECHA DE INICIO DE FUNCIONES; REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DEL CIRCUITO, RESIDENCIA Y ESPECIALIDAD INDICADOS”.]
 
