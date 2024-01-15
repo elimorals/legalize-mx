@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2024-01-08"
+last_updated: "2024-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -971,9 +971,9 @@ IX Bis. Violencia Vicaria, prevista en el Artículo 132 Bis;
 
 X. Allanamiento de Morada, prevista en el Artículo 137;
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-X.A. Amenazas, prevista en el artículo 139;
+X.A. Amenazas, prevista en el artículo 139, con excepción de lo dispuesto en el párrafo tercero.
 
 XI. Abuso de Confianza, prevista en el Artículo 146;
 
@@ -1765,13 +1765,11 @@ II. El cónyuge, la concubina, el concubinario, pareja permanente, parientes col
 
 III. Los que estén ligados con las personas por amor, respeto, gratitud o estrecha amistad.
 
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2024)</small>
 
-Si la amenaza fuera dirigida a una persona ofendida, víctima o testigo en un procedimiento penal, se impondrán de tres años seis meses a siete años de prisión, de 200 a 400 días multa y a la reparación total de los daños y perjuicios ocasionados.
+Si la amenaza fuera dirigida a una persona integrante de un Órgano jurisdiccional, asesor jurídico, defensor, Ministerio Público, ofendido, víctima o testigo, intervinientes en un procedimiento penal, con el propósito de que no concurran a las audiencias o de incidir en ellos evitando que se conduzcan con verdad, u oculten hechos, circunstancias o cualquier otra información que sea relevante para la solución de la controversia motivo del procedimiento en el que intervienen, se impondrán de tres a siete años de prisión, de 200 a 400 días multa y a la reparación total de los daños y perjuicios ocasionados.
 
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2023)</small>
-
-El tipo penal señalado en este artículo se perseguirá por querella, con excepción de lo establecido en el párrafo anterior que se perseguirá de oficio.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 15 DE ENERO DE 2024)</small>
 
 > <small>(ADICIONADO, P.O. 3 DE JULIO DE 2023)</small>
 
@@ -4164,6 +4162,14 @@ P.O. 27 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 573.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
 
 Artículo Primero.- El presente Decreto iniciará su vigencia al siguiente día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE ENERO DE 2024.
+
+[N. DE. TRANSITORIOS DEL “DECRETO NÚMERO 543.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 P.O. 8 DE ENERO DE 2024.
 
