@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-especial-de-las-personas-adultas-69278"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-13"
-last_updated: "2023-12-25"
+last_updated: "2024-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES
+LEY PARA LA PROTECCIÓN ESPECIAL DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -37,7 +37,9 @@ La LX Legislatura del Poder Legislativo del Estado Libre y Soberano de Aguascali
 
 Decreto Número 240
 
-LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2024)</small>
+
+LEY PARA LA PROTECCIÓN ESPECIAL DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE AGUASCALIENTES
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -59,7 +61,9 @@ II. Asistencia Social: conjunto de acciones tendientes a modificar y mejorar las
 
 III. Atención Integral: satisfacción de las necesidades físicas, materiales, biológicas, emocionales, sociales, laborales, culturales, recreativas, productivas y espirituales de las personas adultas mayores para facilitarles una vejez plena y sana se considerarán sus hábitos, capacidades funcionales, usos y costumbres y preferencias;
 
-IV. Consejo: El Consejo Estatal de la Salud, para la Atención del Adulto Mayor;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+IV. Consejo: El Consejo Estatal de la Salud, para la Atención de la Persona Adulta Mayor;
 
 V. Deficiencia: Es una pérdida o anormalidad permanente o transitoria, de carácter psicológico, fisiológico o anatómico, de alguna estructura o función;
 
@@ -91,17 +95,25 @@ XVI. Limitación: La reducción de las funciones orgánicas del cuerpo humano;
 
 XVII. Persona adulta mayor: Es toda persona física cuya edad comprenda los sesenta años en adelante. De acuerdo a su grado de vulnerabilidad, las personas adultas mayores se clasifican de la siguiente manera:
 
-a) Adulto mayor independiente: Aquella persona apta para desarrollar actividades básicas e instrumentadas de la vida diaria sin ayuda permanente o parcial;
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2024)</small>
 
-b) Adulto mayor temporalmente dependiente: Aquel que de manera temporal se encuentra limitado en sus actividades física y/o mentales;
+a) Persona adulta mayor independiente: Aquella persona adulta mayor apta para desarrollar actividades básicas e instrumentadas de la vida diaria sin ayuda permanente o parcial;
 
-c) Adulto mayor parcialmente dependiente: Adulto con dependencia leve que requiere asistencia de manera permanente en sus actividades;
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2024)</small>
 
-d) Adulto mayor totalmente dependiente: Adulto mayor que requiere asistencia para realizar todas sus actividades básicas o instrumentadas de la vida diaria; y
+b) Persona adulta mayor temporalmente dependiente: Aquel que de manera temporal se encuentra limitado en sus actividades física y/o mentales;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2024)</small>
 
-e) Adulto mayor en situación de riesgo o desamparo: Adulto con problemas de salud, abandono, carencia de apoyos económicos, carencia de apoyo familiar, víctima de contingencias ambientales o víctima de desastres naturales, que requiere la asistencia y protección del Ejecutivo del Estado, de los Municipios y de las Organizaciones de la Sociedad Civil;
+c) Persona adulta mayor parcialmente dependiente: Persona adulta mayor con dependencia leve que requiere asistencia de manera permanente en sus actividades;
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2024)</small>
+
+d) Persona adulta mayor totalmente dependiente: Persona adulta mayor que requiere asistencia para realizar todas sus actividades básicas o instrumentadas de la vida diaria; y
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE ENERO DE 2024)</small>
+
+e) Persona adulta mayor en situación de riesgo o desamparo: Persona adulta mayor con problemas de salud, abandono, carencia de apoyos económicos, carencia de apoyo familiar, víctima de contingencias ambientales o víctima de desastres naturales, que requiere la asistencia y protección del Ejecutivo del Estado, de los Municipios y de las Organizaciones de la Sociedad Civil;
 
 Las autoridades correspondientes deberán elaborar programas que atiendan en la generalidad a las personas adultas mayores, sin descuidar a ningún grado de vulnerabilidad de los descritos en los incisos anteriores.
 
@@ -159,21 +171,21 @@ VI. Atención preferente: Es aquella que obliga a las instituciones estatales y 
 
 VII. Participación: En todos los casos de la vida pública, en especial a lo relativo a los aspectos que les atañen, deberán ser consultados y tomados en cuenta;
 
-> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-VIII. Previsión: Acción a realizar cuando la persona aún no llega a la etapa de adulto mayor, para prever y contar con lo necesario para resolver sus necesidades futuras;
+VIII. Previsión: Acción a realizar cuando la persona aún no llega a la etapa de persona adulta mayor, para prever y contar con lo necesario para resolver sus necesidades futuras;
 
 > <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2018)</small>
 
 IX.- Prevención: Es la adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, mentales o sensoriales;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-X. Protección al patrimonio del adulto mayor: Conjunto de medidas legales para proteger el patrimonio de los adultos mayores que por razones de edad y enfermedades degenerativas son vulnerables y se sitúan en una posición de riesgo de abuso de sus derechos patrimoniales;
+X. Protección al patrimonio de la persona adulta mayor: Conjunto de medidas legales para proteger el patrimonio de las personas adultas mayores que por razones de edad y enfermedades degenerativas son vulnerables y se sitúan en una posición de riesgo de abuso de sus derechos patrimoniales; y
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-XI. Asistencia legal prioritaria: Aquella que se proporciona de forma gratuita especializada por parte del Estado para los adultos mayores que estén catalogados como vulnerables; e
+XI. Asistencia legal prioritaria: Aquella que se proporciona de forma gratuita especializada por parte del Estado para las personas adultas mayores que estén catalogados como vulnerables.
 
 > <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
@@ -213,21 +225,21 @@ A) A recibir un trato digno y apropiado en cualquier procedimiento judicial que 
 
 B) A recibir el apoyo de las instituciones estatales y municipales en el ejercicio y respeto de sus derechos;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2024)</small>
 
-C) A recibir asesoría jurídica por parte de personal capacitado en atención a adultos mayores de forma gratuita en los procedimientos administrativos o judiciales en que sea parte, y contar con un representante legal cuando lo considere necesario;
+C) A recibir asesoría jurídica por parte de personal capacitado en atención a personas adultas mayores de forma gratuita en los procedimientos administrativos o Judiciales en que sea parte, y contar con un representante legal cuando lo considere necesario;
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2024)</small>
 
-D) En los procedimientos que señala el párrafo anterior, se deberá tener atención preferente en la protección de su integridad física, psicológica, de su patrimonio personal, familiar y, cuando sea el caso, testar sin presiones ni violencia. A su vez, cuando el Juez, advierta alguna limitante de movilidad, comunicación, psicológica, o de cualquier otra naturaleza, que pueda constituir la vulnerabilidad del derecho al acceso a la justicia del adulto mayor, solicitará de manera oficiosa, a las dependencias y entidades competentes, que le brinde la atención necesaria;
+D) En los procedimientos que señala el párrafo anterior, se deberá tener atención preferente en la protección de su integridad física, psicológica, de su patrimonio personal, familiar y, cuando sea el caso, testar sin presiones ni violencia. A su vez, cuando el Juez, advierta alguna limitante de movilidad, comunicación, psicológica, de cualquier otra naturaleza, que pueda constituir la vulnerabilidad del derecho al acceso a la justicia de la persona adulta mayor, solicitara de manera oficiosa, a las dependencias y entidades competentes, que le brinde la atención necesaria;
 
 > <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
 
 E) A recibir un trato digno y apropiado cuando sean víctimas o ellos mismos cometan cualquier tipo de ilícito o infracción. En todo caso, recibirá apoyo y asesoría de las Instancias especializadas en la atención integral a las personas adultas mayores, según el ámbito de su competencia, de las Procuradurías competentes y de la Comisión Estatal de los Derechos Humanos.
 
-> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2024)</small>
 
-F) En los procedimientos Judiciales, cuando el Juez advierta alguna limitante de movilidad, comunicación, psicológica o de cualquier otra naturaleza, que pueda dificultar el acceso a la justicia del adulto mayor, de manera oficiosa solicitará al Consejo de Tutelas y de aquellas dependencias especializadas en la atención al adulto mayor, se le brinde la atención necesaria, e incluso el acompañamiento profesional en el procedimiento cuando así se requiera.
+F) En los procedimientos Judiciales, cuando el Juez advierta alguna limitante de movilidad, comunicación, psicológica o de cualquier otra naturaleza, que pueda dificultar el acceso a la justicia de la persona adulta mayor, de manera oficiosa solicitará al Consejo de Tutelas y de aquellas dependencias especializadas en la atención a la persona adulta mayor, se le brinde la atención necesaria, e incluso el acompañamiento profesional en el procedimiento cuando así se requiera.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 2020)</small>
 
@@ -245,9 +257,9 @@ C) A recibir orientación y capacitación en materia de salud, nutrición e higi
 
 D) Tener acceso a toda la información gerontológica disponible, para incrementar su cultura, para analizar y llevar a cabo acciones de preparación para la edad adulta;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2024)</small>
 
-E) Recibir una atención médica integral con calidad, especializada en atención al adulto mayor, desde el primero y hasta el tercer nivel de atención a través de acciones y programas de prevención, diagnóstico, tratamiento y rehabilitación;
+E) Recibir una atención médica integral con calidad, especializada en atención a la persona adulta mayor, desde el primero y hasta el tercer nivel de atención a través de acciones y programas de prevención, diagnóstico, tratamiento y rehabilitación;
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2019)</small>
 
@@ -267,7 +279,9 @@ IV. De la educación:
 
 A) A recibir de manera preferente del (sic) derecho a la educación que señala el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, el artículo 6° de la Constitución Política del Estado de Aguascalientes, de conformidad con el artículo 21 de esta Ley; y
 
-B) Las instituciones educativas, públicas y privadas deberán incluir en sus planes y programas los conocimientos relacionados con las personas adultas mayores; asimismo, todo material educativo autorizado y supervisado por el Instituto de Educación de Aguascalientes, incorporará información actualizada sobre el tema del envejecimiento y los adultos mayores.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2024)</small>
+
+B) Las instituciones educativas, públicas y privadas deberán incluir en sus planes y programas los conocimientos relacionados con las personas adultas mayores; asimismo, todo material educativo autorizado y supervisado por el Instituto de Educación de Aguascalientes, incorporará información actualizada sobre el tema del envejecimiento y de las personas adultas mayores.
 
 V. Del trabajo:
 
@@ -343,19 +357,19 @@ II. Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor pa
 
 III. Conocer los derechos de las personas adultas mayores previstos en la presente Ley, así como los que se encuentran contemplados en la Constitución Política del Estado y demás ordenamientos para su debida observancia;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-IV. Adoptar medidas para prevenir y erradicar aquellas prácticas que provoquen aislamiento, abandono, sujeciones físicas prolongadas, hacinamiento, expulsiones de su comunidad, la negación de nutrición, infantilización, tratamientos médicos inadecuados o desproporcionados, entre otras, y todas aquellas que constituyan malos tratos que atenten contra la seguridad e integridad de la persona mayor, así como también, de sus bienes y derechos;
+IV. Adoptar medidas para prevenir y erradicar aquellas prácticas que provoquen aislamiento, abandono, sujeciones físicas prolongadas, hacinamiento, expulsiones de su comunidad, la negación de nutrición, infantilización, tratamientos médicos inadecuados o desproporcionados, en otras, y todas aquellas que constituyan malos tratos que atenten contra la seguridad e integridad de la persona adulta mayor, así como también, de sus bienes y derechos;
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-V. Otorgar una estancia digna, adecuada a sus necesidades y requerimientos, de preferencia en el propio domicilio, a menos de que obre decisión contraria del adulto mayor o exista prescripción del personal de la salud, en cuyo caso los familiares dentro del Cuarto grado deberán proporcionar los recursos económicos necesarios para garantizarles la estancia digna;
+V. Otorgar una estancia digna, adecuada a sus necesidades y requerimientos, de preferencia en el propio domicilio, a menos de que obre decisión contraria de la persona adulta mayor o exista prescripción del personal de la salud, en cuyo caso los familiares dentro del Cuarto grado deberán proporcionar los recursos económicos necesarios para garantizarles la estancia digna;
 
 VI. Fomentar su independencia, respetar sus decisiones y mantener su privacidad;
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-VII. Gestionar ante las instancias públicas y privadas el reconocimiento y respeto a los derechos de los adultos mayores;
+VII. Gestionar ante las instancias públicas y privadas el reconocimiento y respeto a los derechos de las personas adultas mayores;
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
 
@@ -375,9 +389,9 @@ b) El derecho a ser sujetos de confidencialidad y participar en las decisiones q
 
 c) El derecho a tener una nutrición adecuada y apropiada;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-XI. Asistir, ayudar y amparar a la personas adultas mayores en la carencia o enfermedad; y
+XI. Asistir, ayudar y amparar a las personas adultas mayores en la carencia o enfermedad; y
 
 > <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2022)</small>
 
@@ -401,9 +415,11 @@ Las personas adultas mayores no podrán ser socialmente discriminadas o marginad
 
 Cualquier miembro de la sociedad tiene el deber de auxiliar y apoyar a las personas adultas mayores en casos de necesidad o emergencia, tenga o no parentesco con ellas.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 10.
 
-Corresponde a la sociedad formar grupos de apoyo y asistencia social que, en coordinación con las autoridades federales, estatales y municipales o de manera independiente, colaboren en el mejoramiento de las condiciones de vida de los adultos mayores y particularmente promuevan la igualdad en el acceso al empleo, eliminando cualquier forma de discriminación.
+Corresponde a la sociedad formar grupos de apoyo y asistencia social que, en coordinación con las autoridades federales, estatales y municipales o de manera independiente, colaboren en el mejoramiento de las condiciones de vida de las personas adultas mayores y particularmente promuevan la igualdad en el acceso al empleo, eliminando cualquier forma de discriminación.
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 2022)</small>
 
@@ -447,13 +463,19 @@ III. Concertar, con la federación y los municipios, los convenios que se requie
 
 IV. Concertar la participación de los sectores social y privado en la planeación y ejecución de acciones y programas en beneficio de las personas adultas mayores;
 
-V. Coordinar acciones y promover medidas de financiamiento para la creación y funcionamiento de instituciones y servicios para garantizar los derechos de los adultos mayores;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-VI. Promover acuerdos con la federación y los municipios, para que se otorguen descuentos a las instituciones que ofrecen servicios de asistencia social a adultos mayores, siempre y cuando se verifique su buen funcionamiento, en los servicios que estos otorgan;
+V. Coordinar acciones y promover medidas de financiamiento para la creación y funcionamiento de instituciones y servicios para garantizar los derechos de las personas adultas mayores;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+VI. Promover acuerdos con la federación y los municipios, para que se otorguen descuentos a las instituciones que ofrecen servicios de asistencia social a personas adultas mayores, siempre y cuando se verifique su buen funcionamiento; en los servicios que estos otorgan;
 
 VII. Promover, difundir y defender el ejercicio de sus derechos, así como las obligaciones de los responsables de éstos;
 
-VIII. Privilegiar la estabilidad y el bienestar familiar del adulto mayor;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+VIII. Privilegiar la estabilidad y el bienestar familiar de la persona adulta mayor;
 
 IX. Procurar que en las Dependencias y Entidades de la Administración Pública Estatal, se contraten en su plantilla laboral, cuando menos un 10% a personas adultas mayores;
 
@@ -473,9 +495,9 @@ C) Sector Comercial y de Servicios: Programas que consideren descuentos del 50% 
 
 D) Sector Comercial, Servicios e Industrial: Programas de contratación de personas adultas mayores en sus plantillas laborales, cuando menos el 10% del total de plazas a contratar, a cambio de estímulos fiscales Estatales.
 
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-XI. Asegurar que en las Dependencias y Entidades Estatales, encargadas de desarrollar, coordinar y supervisar acciones y programas de atención preferente e integral de los adultos mayores, cuenten con la estructura orgánica, presupuestal y normativa correspondiente;
+XI. Asegurar que, en las Dependencias y Entidades Estatales, encargadas de desarrollar, coordinar y supervisar acciones y programas de atención preferente e integral de las personas adultas mayores, cuenten con la estructura orgánica, presupuestal y normativa correspondiente;
 
 XII. Establecer programas de estímulos fiscales para las empresas que contraten en sus plazas laborales cuando menos el 5% de personas adultas mayores;
 
@@ -571,7 +593,9 @@ I. Coordinar y ejecutar las políticas de asistencia social y atención integral
 
 II. Instituir, promocionar y dar seguimiento a las acciones y programas de atención a las personas adultas mayores, fomentando la participación de Organismos Públicos Federales, Municipios y privados;
 
-III. Promover entre la sociedad la cultura del envejecimiento, de respeto, aprecio y reconocimiento a la capacidad de aportación de las personas adultos mayores;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+III. Promover entre la sociedad la cultura del envejecimiento, de respeto, aprecio y reconocimiento a la capacidad de aportación de las personas adultas mayores;
 
 IV. Impulsar el empleo para las personas adultas mayores, conforme a su oficio, habilidad o profesión, sin más restricción que su limitación física o mental declarada por la autoridad médica o legal competente;
 
@@ -583,7 +607,9 @@ VII. Realizar estudios e investigaciones en materia de atención integral de las
 
 VIII. Evaluar las acciones y programas de atención a las personas adultas mayores, implementadas o desarrolladas por las distintas Dependencias, Entidades y de la Administración Pública Estatal, a efecto de proponer mejoras a los lineamientos y mecanismos para su efectiva ejecución;
 
-IX. Difundir las convocatorias y programas de apoyo Federales, Estatales y Municipales para personas Adultas Mayores y orientarles para que reciban estos apoyos,
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+IX. Difundir las convocatorias y programas de apoyo Federales, Estatales y Municipales para personas adultas mayores y orientarles para que reciban estos apoyos;
 
 X. Llevar a cabo un padrón de personas adultas mayores;
 
@@ -611,9 +637,13 @@ XVII. Las demás que le confiera las Leyes y Reglamentos de la materia.
 
 Corresponde a los Ayuntamientos:
 
-I. Otorgar a los adultos mayores condonaciones, descuentos o exenciones en los impuestos municipales, mediante el establecimiento de disposiciones de carácter general, las cuales deberán de ser aprobadas por los ayuntamientos ya sea en su ley de ingresos o en reglamentos, bases o lineamientos, mismos que serán y publicadas en el Periódico Oficial del Estado;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-II. Promover acuerdos con la Federación y el Estado, para que se otorguen descuentos a las instituciones que ofrecen servicios de asistencia social a adultos mayores, siempre y cuando se verifique su buen funcionamiento, en los servicios que estos otorgan;
+I. Otorgar a las personas adultas mayores condonaciones, descuentos o exenciones en los impuestos municipales, mediante el establecimiento de disposiciones de carácter general, las cuales deberán de ser aprobadas por los ayuntamientos ya sea en su ley de ingresos o en reglamentos, bases o lineamientos, mismos que serán y (sic) publicadas en el Periódico Oficial del Estado;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+II. Promover acuerdos con la Federación y el Estado, para que se otorguen descuentos a las instituciones que ofrecen servicios de asistencia social a personas adultas mayores, siempre y cuando se verifique su buen funcionamiento, en los servicios que estos otorgan;
 
 III. Procurar que en las Dependencias y Entidades de la Administración Pública Municipal, se contraten en su plantilla laboral, cuando menos un 10% a personas adultas mayores;
 
@@ -629,7 +659,9 @@ c) Sector Comercial y de Servicios: Programas que consideren descuentos del 50% 
 
 d) Sector Comercial, Servicios e Industrial: Programas de contratación de personas adultas mayores en sus plantillas laborales, cuando menos el 10% del total de plazas a contratar, a cambio de estímulos fiscales Municipales.
 
-V. Asegurar que en las Dependencias y Entidades Municipales, encargadas de desarrollar, coordinar y supervisar acciones y programas de atención preferente e integral de los adultos mayores, cuenten con la estructura orgánica, presupuestal y normativa correspondiente;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+V. Asegurar que, en las Dependencias y Entidades Municipales, encargadas de desarrollar, coordinar y supervisar acciones y programas de atención preferente e integral de las personas adultas mayores, cuenten con la estructura orgánica, presupuestal y normativa correspondiente;
 
 VI. Crear los mecanismos o instancias correspondientes para el cumplimiento de esta Ley
 
@@ -641,7 +673,9 @@ a) Colaborar con el Instituto, en la atención a las personas adultas mayores;
 
 b) Velar en la comunidad por los derechos y garantías de este sector poblacional;
 
-c) Funcionar como centro de atención inmediata y de canalización pertinente de apoyos federales o estatales, en materia de adultos mayores;
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2024)</small>
+
+c) Funcionar como centro de atención inmediata y de canalización pertinente de apoyos federales o estatales, en materia de personas adultas mayores;
 
 d) Aplicar los recursos para las personas adultas mayores que se les asignen en los presupuestos de egresos respectivos; y
 
@@ -655,11 +689,13 @@ Los Comités Municipales estarán integrados de tres a cinco miembros, designado
 
 Corresponde al Instituto de Salud del Estado de Aguascalientes, en materia de personas adultas mayores:
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-I. Coordinar y proporcionar la atención médica. en los centros, unidades de salud y hospitales con una orientación gerontológica y geriátrica para los adultos mayores, conforme al Programa Estatal de Salud;
+I. Coordinar y proporcionar la atención médica en los centros, unidades de salud y hospitales con una orientación gerontológica y geriátrica para las personas adultas mayores, conforme el Programa Estatal de Salud;
 
-II. Proporcionar, a los adultos mayores, una cartilla médica de auto cuidado, que será utilizada indistintamente en las instituciones públicas y privadas de salud;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+II. Proporcionar, a las personas adultas mayores, una cartilla médica de auto cuidado, que será utilizada indistintamente en las instituciones públicas y privadas de salud;
 
 III. Instituir acciones y programas, en coordinación con las instituciones que conforman el Sistema Estatal de Salud, con el objeto de proporcionar atención integral e impulsar los modelos de atención necesarios;
 
@@ -669,7 +705,9 @@ V. Establecer modelos de investigación en la materia, así como proponer polít
 
 VI. Fomentar la formación y capacitación de auxiliares de personas adultas mayores;
 
-VII. Organizar campañas de orientación e información nutricional de acuerdo a las condiciones, necesidades y requerimientos físicos de los adultos mayores;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+VII. Organizar campañas de orientación e información nutricional de acuerdo a las condiciones, necesidades y requerimientos físicos de las personas adultas mayores;
 
 VIII. Asegurar en su cuadro básico de medicamentos, los medicamentos para los tratamientos de las personas adultas mayores;
 
@@ -703,25 +741,39 @@ XIV. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos
 
 Corresponde a la Secretaría de Turismo del, Estado, en materia de personas adultas mayores:
 
-I. Impulsar la participación de los adultos mayores en actividades de turismo, particularmente las que se refieren al rescate y transmisión de la cultura e historia;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-II. Promover actividades de recreación turística con tarifas preferentes, diseñadas para adultos mayores;
+I. Impulsar la participación de las personas adultas mayores en actividades de turismo, particularmente las que se refieren al rescate y transmisión de la cultura e historia;
 
-III. Contratar personas adultas mayores, con forme a su oficio, habilidad o profesión, sin más restricción que su limitación física o mental declarada por la autoridad médica o legal competente; y
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+II. Promover actividades de recreación turística con tarifas preferentes, diseñadas para personas adultas mayores;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+III. Contratar personas adultas mayores, conforme a su oficio, habilidad o profesión, sin más restricción que su limitación física o mental declarada por la autoridad médica o legal competente; y
 
 IV. Las demás que le confiera el Ejecutivo del Estado y las Leyes y Reglamentos de la materia.
 
 ### CAPÍTULO VI. Del Instituto de Educación de Aguascalientes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 21.
 
-Corresponde al Instituto de Educación de Aguascalientes, en materia de adultos mayores:
+Corresponde al Instituto de Educación de Aguascalientes, en materia de personas adultas mayores:
 
-I. Promover y elaborar por sí o en coordinación con los gobiernos federal y municipal, la creación de acciones y programas de educación continúa de los adultos mayores;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-II. La elaboración de programas especiales de capacitación y educación para los adultos mayores, en coordinación con la Secretaria del Trabajo y Previsión Social, con la finalidad de que puedan incorporarse a la actividad económica;
+I. Promover y elaborar por sí o en coordinación con los gobiernos federal y municipal, la creación de acciones y programas de educación continua de las personas adultas mayores;
 
-III. Impulsar las actividades de difusión y fomento educativo para los adultos mayores;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+II. La elaboración de programas especiales de capacitación y educación para las personas adultas mayores, en coordinación con la Secretaría del Trabajo y Previsión Social, con la finalidad de que puedan incorporarse a la actividad económica;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+III. Impulsar las actividades de difusión y fomento educativo para las personas adultas mayores;
 
 IV. Impulsar la formación académica en gerontología y geriatría, para que en escuelas de nivel superior se impartan esas materias;
 
@@ -735,45 +787,63 @@ VI. Instituir programas de becas para las personas adultas mayores, en materia d
 
 VII. Contratar personas adultas mayores, conforme a su oficio, habilidad o profesión, sin más, restricción que su limitación física o mental declarada por la autoridad médica o legal competente;
 
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-VII (SIC). Instituir acciones y programas para que de manera voluntaria, permitan al adulto mayor, conforme a su oficio, habilidad o profesión, la enseñanza de estos a jóvenes, niños y adultos, respetando en todo momento sus derechos y la integridad del adulto mayor, sin más, restricción que su limitación física o mental declarada por la autoridad médica o legal competente; y
+VIII. Instituir acciones y programas para que, de manera voluntaria, permitan a la persona adulta mayor, conforme a su oficio, habilidad o profesión, la enseñanza de estos a jóvenes, niños y adultos, respetando en todo momento sus derechos y la integridad de la persona adulta mayor, sin más, restricción que su limitación física o mental declarada por la autoridad médica o legal competente; y
 
-VIII (SIC). Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+IX. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
 ### CAPÍTULO VII. Del Instituto Cultural de Aguascalientes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 22.
 
-Corresponde al Instituto Cultural de Aguascalientes, en materia de los adultos mayores:
+Corresponde al Instituto Cultural de Aguascalientes, en materia de las personas adultas mayores:
 
 I. Facilitar el acceso a la cultura promoviendo su expresión a través de talleres, exposiciones, concursos y eventos comunitarios, estatales e interestatales;
 
-II. Establecer convenios ante las instancias correspondientes para que en los eventos culturales y artísticos organizados tanto por el gobierno del Estado, municipios o iniciativa privada, los adultos mayores puedan obtener descuentos o gratuidad;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-III. Implementar programas culturales y concursos dirigidos a los adultos mayores, otorgando a los ganadores los reconocimientos y premios correspondientes;
+II. Establecer convenios ante las instancias correspondientes para que, en los eventos culturales y artísticos organizados tanto por el gobierno del Estado, municipios o iniciativa privada, las personas adultas mayores puedan obtener descuentos o gratuidad;
 
-IV. Fomentar entre la población una cultura de la vejez, de respeto, aprecio y reconocimiento a la capacidad de aportación de los adultos mayores; y
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+III. Implementar programas culturales y concursos dirigidos a las personas adultas mayores, otorgando a los ganadores los reconocimientos y premios correspondientes;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+IV. Fomentar entre la población una cultura de la vejez, de respeto, aprecio y reconocimiento a la capacidad de aportación de las personas adultas mayores; y
 
 V. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
 ### CAPÍTULO VIII. De la Dirección General del Trabajo del Estado
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 23.
 
-Corresponde a la Dirección General del Trabajo del Estado, en materia de los adultos mayores:
+Corresponde a la Dirección General del Trabajo del Estado, en materia de las personas adultas mayores:
 
 I. Promover su contratación, conforme a su oficio, habilidad o profesión, sin más restricción que su limitación física o mental declarada por la autoridad médica o legal competente;
 
-II. Fomentar la creación de organizaciones productivas de adultos mayores;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2018)</small>
+II. Fomentar la creación de organizaciones productivas de las personas adultas mayores;
 
-III. Capacitar a los adultos mayores, para que adquieran conocimientos y destrezas en actividades productivas en coordinación con el Instituto de Capacitación para el Trabajo del Estado de Aguascalientes y las demás instancias federales, estatales y municipales;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-IV. Organizar una bolsa de trabajo mediante la cual se identifiquen actividades laborales que puedan ser desempeñadas por los adultos mayores y orientarles para que presenten ofertas de trabajo;
+III. Capacitar a las personas adultas mayores, para que adquieran conocimientos y destrezas en actividades productivas en coordinación con el Instituto de Capacitación para el Trabajo del Estado de Aguascalientes y las demás instancias federales, estatales y municipales;
 
-V. Otorgar asesoría y representación jurídica gratuita a los adultos mayores;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+IV. Organizar una bolsa de trabajo mediante la cual se identifiquen actividades laborales que puedan ser desempeñadas por las personas adultas mayores y orientarles para que presenten ofertas de trabajo;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+V. Otorgar asesoría y representación jurídica gratuita a las personas adultas mayores;
 
 VI. Vigilar que en todo momento, se hagan valer y respetar los derechos de las personas adultas mayores, consignados en las Leyes de la materia; y
 
@@ -783,13 +853,15 @@ VII. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos
 
 ### CAPÍTULO IX. De la Secretaría de Desarrollo Económico, Ciencia y Tecnología
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 24.
 
-Corresponde a la Secretaría de Desarrollo Económico, Ciencia y Tecnología, en materia de adultos mayores:
+Corresponde a la Secretaría de Desarrollo Económico, Ciencia y Tecnología, en materia de personas adultas mayores:
 
-I. Promover la participación de los sectores social y privado del Estado, en la formulación de planes y programas de desarrollo socioeconómico a favor de los adultos mayores;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+I. Promover la participación de los sectores social y privado del Estado, en la formulación de planes y programas de desarrollo socioeconómico a favor de las personas adultas mayores;
 
 II. Realizar convenios con la iniciativa privada, a fin de que se dé atención preferencial a las personas adultas mayores;
 
@@ -797,7 +869,9 @@ III. Establecer acciones y programas de estímulos fiscales para las empresas qu
 
 IV. Promover entre la iniciativa privada la constitución de una bolsa de trabajo para las personas adultas mayores;
 
-V. Implementar programas ocupacionales y de promoción al autoempleo que les permitan a los adultos mayores, emplearse en actividades conforme a su oficio, habilidad o profesión, sin más restricción que su limitación física o mental declarada por la autoridad médica o legal competente; y
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+V. Implementar programas ocupacionales y de promoción al autoempleo que les permitan a las personas adultas mayores, emplearse en actividades conforme a su oficio, habilidad o profesión, sin más restricción que su limitación física o mental declarada por la autoridad médica o legal competente; y
 
 VI. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
@@ -805,61 +879,85 @@ VI. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos 
 
 ### CAPÍTULO IX BIS. De la Secretaría de la Familia
 
-> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2024)</small>
 
-ARTÍCULO 24 A.- Corresponde a la Secretaría de la Familia, en materia de adultos mayores:
+ARTÍCULO 24 A.- Corresponde a la Secretaría de la Familia, en materia de personas adultas mayores:
 
-I. Coadyuvar con el Sistema para el Desarrollo Integral de la Familia del Estado en la realización de programas de prevención y protección para los adultos mayores en situación de riesgo o desamparo;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+I. Coadyuvar con el Sistema para el Desarrollo Integral de la Familia del Estado en la realización de programas de prevención y protección para las personas adultas mayores en situación de riesgo o desamparo;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2021)</small>
 
 II. Colaborar con las dependencias y entidades de la Administración Pública Estatal competentes, para la protección y defensa de personas adultas mayores dentro del núcleo familiar;
 
-III. Promover la protección y el respeto del ejercicio de los derechos humanos de los adultos mayores;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-IV. Fomentar la inclusión, aceptación y participación de los adultos mayores en la sociedad; y
+III. Promover la protección y el respeto del ejercicio de los derechos humanos de las personas adultas mayores;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+IV. Fomentar la inclusión, aceptación y participación de las personas adultas mayores en la sociedad; y
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2021)</small>
 
 V. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
 ### CAPÍTULO X. Del Instituto de Vivienda del Estado de Aguascalientes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 25.
 
-Corresponde al Instituto de Vivienda del Estado de Aguascalientes en materia de adultos mayores;
+Corresponde al Instituto de Vivienda del Estado de Aguascalientes en materia de personas adultas mayores;
 
-I. Instituir acciones y programas de vivienda que permitan a los adultos mayores la obtención de créditos accesibles, para adquirir una vivienda propia o remodelarla, en caso de ya contar con ella, de acuerdo con sus necesidades y requerimientos;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-II. Garantizar el acceso a proyectos de vivienda de interés público que ofrezcan igual oportunidad a los adultos mayores; y
+I. Instituir acciones y programas de vivienda que permitan a las personas adultas mayores la obtención de créditos accesibles, para adquirir una vivienda propia o remodelarla, en caso de ya contar con ella, de acuerdo con sus necesidades y requerimientos;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+II. Garantizar el acceso a proyectos de vivienda de interés público que ofrezcan igual oportunidad a las personas adultas mayores; y
 
 III. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
 ### CAPÍTULO XI. Del Sistema para el Desarrollo Integral de la Familia del Estado
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 26.
 
-Corresponde al Sistema para el Desarrollo Integral de la Familia del Estado en materia de adultos mayores:
+Corresponde al Sistema para el Desarrollo Integral de la Familia del Estado en materia de personas adultas mayores:
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2018)</small>
 
 I. Proporcionar sin costo servicios de atención asesoría y representación jurídica, a las personas adultas mayores, a efecto de salvaguardar sus derechos, bienes y posesiones y así evitar cualquier acto de maltrato físico o psicológico que ponga en riesgo su integridad personal y la de sus familias;
 
-II. Realizar programas de prevención y protección para los adultos mayores en situación de riesgo o desamparo, para incorporarlos al núcleo familiar, casas de día o albergarlos temporal o definitivamente en instituciones que garanticen su atención integral;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+II. Realizar programas de prevención y protección para las personas adultas mayores en situación de riesgo o desamparo, para incorporarlos al núcleo familiar, casas de día o albergarlos temporal o definitivamente en instituciones que garanticen su atención integral;
 
-III. Coadyuvar con la Fiscalía General del Estado, en la atención y tratamiento de los adultos mayores víctimas de cualquier delito;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-IV. Impulsar y promover el reconocimiento y ejercicio de los derechos de los adultos mayores;
+III. Coadyuvar con la Fiscalía General del Estado, en la atención y tratamiento de las personas adultas mayores víctimas de cualquier delito;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+IV. Impulsar y promover el reconocimiento y ejercicio de los derechos de las personas adultas mayores;
 
 V. Promover, mediante la vía conciliatoria, la solución a la problemática familiar;
 
-VI. Denunciar ante las autoridades competentes, cuando sea procedente, cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación, discriminación y, en general, cualquier acto que perjudique a los adultos mayores;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2018)</small>
+VI. Denunciar ante las autoridades competentes, cuando sea procedente, cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación, discriminación y, en general, cualquier acto que perjudique a las personas adultas mayores;
 
-VII. Implementar acciones para garantizar la cobertura en materia alimentaria para los adultos mayores, impulsando la participación comunitaria para la dotación de alimentos nutricionalmente balanceados;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2018)</small>
+VII. Implementar acciones para garantizar la cobertura en materia alimentaria para las personas adultas mayores, impulsando la participación comunitaria para la dotación de alimentos nutricionalmente balanceados;
 
-VIII. Proporcionar orientación psicológica para los adultos mayores que sean víctimas de abuso o maltrato; y
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+VIII. Proporcionar orientación psicológica para las personas adultas mayores que sean víctimas de abuso o maltrato; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE ABRIL DE 2018)</small>
 
@@ -867,41 +965,61 @@ IX. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos 
 
 ### CAPÍTULO XII. Del Instituto del Deporte del Estado de Aguascalientes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 27.
 
-Corresponde al Instituto del Deporte del Estado de Aguascalientes, en materia de adultos mayores:
+Corresponde al Instituto del Deporte del Estado de Aguascalientes, en materia de personas adultas mayores:
 
-I. Permitir a los adultos mayores que tengan una trayectoria, que participen de manera gratuita en eventos deportivos que realice o impulse, con la finalidad de que aumente la participación de éstos en la vida deportiva del Estado;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-II. Otorgar descuentos a los adultos mayores que tengan una trayectoria deportiva; en los centros donde se proporcionen servicios deportivos; y
+I. Permitir a las personas adultas mayores que tengan una trayectoria, que participen de manera gratuita en eventos deportivos que realice o impulse, con la finalidad de que aumente la participación de éstos en la vida deportiva del Estado;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+II. Otorgar descuentos a las personas adultas mayores que tengan una trayectoria deportiva; en los centros donde se proporcionen servicios deportivos; y
 
 III. Instituir programas deportivos para las personas adultas mayores, a efecto de constituir y fomentar en ellos, el hábito del ejercicio o cultura deportiva en beneficio de su salud física, psicológica y mejore su calidad de vida personal y familiar;
 
-IV. Instituir acciones y programas que le permitan al adulto mayor el mantenimiento físico natural, progresivo y sistemático;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-V. Instituir acciones y programas de entrenamiento para adultos mayores y promover competencias en las diferentes modalidades o disciplinas deportivas a nivel regional, estatal e interestatal;
+IV. Instituir acciones y programas que le permitan a la persona adulta mayor el mantenimiento físico natural, progresivo y sistemático;
 
-VI. Acondicionar las instalaciones e infraestructura deportiva, de acuerdo a las necesidades y requerimientos de los adultos mayores; y
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+V. Instituir acciones y programas de entrenamiento para personas adultas mayores y promover competencias en las diferentes modalidades o disciplinas deportivas a nivel regional, estatal e interestatal;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+VI. Acondicionar las instalaciones e infraestructura deportiva, de acuerdo a las necesidades y requerimientos de las personas adultas mayores; y
 
 VII. Las demás qué le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
 ### CAPÍTULO XIII. De la Comisión para el Desarrollo Agropecuario del Estado de Aguascalientes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 28.
 
-Corresponde a la Comisión para el Desarrollo Agropecuario del Estado de Aguascalientes en materia de adultos mayores:
+Corresponde a la Comisión para el Desarrollo Agropecuario del Estado de Aguascalientes en materia de personas adultas mayores:
 
-I. Formular y aplicar programas específicos para la inclusión de los adultos mayores en actividades productivas del sector;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-II. Promover la participación de los adultos mayores en la formulación y revisión del Programa Estatal de Desarrollo Agropecuario; y
+I. Formular y aplicar programas específicos para la inclusión de las personas adultas mayores en actividades productivas del sector;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+II. Promover la participación de las personas adultas mayores en la formulación y revisión del Programa Estatal de Desarrollo Agropecuario; y
 
 III. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
 ### CAPÍTULO XIV. De la Secretaría de Finanzas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 29.
 
-Corresponde a la Secretaría de Finanzas del Estado en materia de adultos mayores:
+Corresponde a la Secretaría de Finanzas del Estado en materia de personas adultas mayores:
 
 I. Instituir acciones y programas de estímulos fiscales entre los Sectores productivos: Comerciales, de Servicios e Industriales, a efecto de que contraten en sus plazas laborales cuando menos el 10% a personas adultas mayores; y
 
@@ -925,27 +1043,31 @@ IV. Proponer la realización de estudios en el área de su competencia que contr
 
 V. Establecer ventanillas de atención preferente para las personas adultas mayores, en las gestiones que éstas realicen;
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-VI. Participar en la atención, información, investigación y mejoramiento de los programas enfocados al bienestar de los adultos mayores;
+VI. Participar en la atención, información, investigación y mejoramiento de los programas enfocados al bienestar de las personas adultas mayores;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-VII. Coadyuvar con la Secretaría de la Familia en el fomento, promoción e impulso de las políticas públicas en materia de familia destinadas a generar el bienestar de los adultos mayores; y
+VII. Coadyuvar con la Secretaría de la Familia en el fomento, promoción e impulso de las políticas públicas en materia de familia destinadas a generar el bienestar de las personas adultas mayores; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE MARZO DE 2021)</small>
 
 VIII. Las demás que le confiera el Ejecutivo del Estado, las leyes y reglamentos de la materia.
 
-## TÍTULO QUINTO. DEL CONSEJO ESTATAL DE SALUD PARA LA ATENCIÓN DEL ADULTO MAYOR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2024)</small>
 
-### CAPÍTULO ÚNICO. Del Consejo Estatal de Salud para la Atención del Adulto Mayor
+## TÍTULO QUINTO. DEL CONSEJO ESTATAL DE SALUD PARA LA ATENCIÓN DE LA PERSONA ADULTA MAYOR
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2024)</small>
+
+### CAPÍTULO ÚNICO. Del Consejo Estatal de Salud para la Atención de la Persona Adulta Mayor
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 30.
 
-El Consejo Estatal de Salud para la Atención del Adulto Mayor es un cuerpo colegiado de consulta, asesoría y evaluación de acciones y programas de concertación, coordinación, planeación y promoción necesarias para favorecer su plena integración y desarrollo de las personas adultas mayores.
-
-Los cargos dentro del Consejo serán honoríficos.
+El Consejo Estatal de Salud para la Atención de la Persona Adulta Mayor es un cuerpo colegiado de consulta, asesoría y evaluación de acciones y programas de concertación, coordinación, planeación y promoción necesarias para favorecer su plena integración y desarrollo de las personas adultas mayores.
 
 ###### ARTÍCULO 31.
 
@@ -1001,23 +1123,35 @@ C) Tres representantes de los organismos sociales que se hayan destacado por su 
 
 El Presidente del Consejo podrá invitar a los servidores públicos que por sus funciones sea conveniente que asistan a las sesiones del Consejo en calidad de invitados especiales, así como cualquier otra persona que por su conocimiento, prestigio, experiencia o cualquier otra cualidad, se considere que pueda ser convocado a las sesiones del Consejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 33.
 
-El Consejo tendrá las funciones siguientes en materia de adultos mayores:
+El Consejo tendrá las funciones siguientes en materia de personas adultas mayores:
 
-I. Propiciar la colaboración y participación de instituciones públicas y privadas en acciones y programas que la Administración Pública Estatal y Municipal emprenda para la atención en materia de salud de los adultos mayores;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+I. Propiciar la colaboración y participación de instituciones públicas y privadas en acciones y programas que la Administración Pública Estatal y Municipal emprenda para la atención en materia de salud de las personas adultas mayores;
 
 II. Proponer a las instituciones públicas y privadas del Sector Salud, asignen cuando menos 10 consultorios de medicina geriátrica, para la atención de personas adultas mayores y se generen las plazas de especialistas en diagnóstico y tratamiento de este sector de la población;
 
-III. Proponer la realización de estudios en el área de salud que contribuyan a mejorar la planeación y programación de las medidas y acciones para elevar la calidad de vida de los adultos mayores;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-IV. Participar en la evaluación de acciones y programas de salud para la población de adultos mayores, así como proponer a las instituciones encargadas de dichos programas, los lineamientos y mecanismos para su ejecución;
+III. Proponer la realización de estudios en el área de salud que contribuyan a mejorar la planeación y programación de las medidas y acciones para elevar la calidad de vida de las personas adultas mayores;
 
-V. Fomentar, la elaboración, publicación y distribución de material informativo para dar a conocer la situación de la población de adultos mayores en el Estado, alternativas de participación, solución de problemas y mejora de servicios y programas en materia de salud;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+IV. Participar en la evaluación de acciones y programas de salud para la población de personas adultas mayores, así como proponer a las instituciones encargadas de dichos programas, los lineamientos y mecanismos para su ejecución;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+V. Fomentar, la elaboración, publicación y distribución de material informativo para dar a conocer la situación de la población de personas adultas mayores en el Estado, alternativas de participación, solución de problemas y mejora de servicios y programas en materia de salud;
 
 VI. Proponer mecanismos de concertación y de coordinación en materia de salud;
 
-VII. Recibir quejas, denuncias e informes, sobre la violación de los derechos de los adultos mayores en materia de salud, haciéndolo del conocimiento de las autoridades competentes y de ser procedente ejercitar las acciones legales correspondientes;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+VII. Recibir quejas, denuncias e informes, sobre la violación de los derechos de las personas adultas mayores en materia de salud, haciéndolo del conocimiento de las autoridades competentes y de ser procedente ejercitar las acciones legales correspondientes;
 
 VIII. Organizar grupos de trabajo multidisciplinarios en atención a personas adultas mayores; y
 
@@ -1077,9 +1211,9 @@ V. Asesorar al Consejo en los temas de su competencia; y
 
 VI. Cumplir las encomiendas resultado de los acuerdos del Consejo.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2024)</small>
 
-## TÍTULO SEXTO. DELA (SIC) ASISTENCIA SOCIAL
+## TÍTULO SEXTO. DE LA ASISTENCIA SOCIAL
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
@@ -1095,7 +1229,9 @@ II. Otorgar cuidado para su salud física y mental;
 
 III. Fomentar actividades para su desarrollo;
 
-IV. Llevar un registro de ingresos y egresos de los adultos mayores;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+IV. Llevar un registro de ingresos y egresos de las personas adultas mayores;
 
 V. Llevar el seguimiento, evolución y evaluación de los casos atendidos;
 
@@ -1103,11 +1239,15 @@ VI. Llevar un expediente personal e integral;
 
 VII. Expedir resumen del expediente en caso de que sea solicitado por sus familiares o institución que por cualquier causa continúe su atención, con objeto de darle seguimiento a su cuidado; y
 
-VIII. Rendir un informe mensual al Consejo Estatal de Salud para la atención del adulto mayor.
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+VIII. Rendir un informe mensual al Consejo Estatal de Salud para la atención de la persona adulta mayor.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 38.
 
-Todas las instituciones públicas, privadas y sociales que presten asistencia a los adultos mayores, deberán contar con personal que posea, aptitud y conocimientos orientados a las necesidades y requerimientos de atención de éstos.
+Todas las instituciones públicas, privadas y sociales que presten asistencia a las personas adultas mayores, deberán contar con personal que posea, aptitud y conocimientos orientados a las necesidades y requerimientos de atención de éstos.
 
 > <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
 
@@ -1153,15 +1293,25 @@ ARTÍCULO 38 F.- El Estado deberá establecer programas de apoyo económico de m
 
 Son infracciones a esta Ley:
 
-I. Realizar cualquier acto que implique abandono, desamparo, discriminación, humillación, burla o mofa hacia los adultos mayores;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-II. Realizar cualquier actividad que implique abuso, explotación o maltrato hacia los adultos mayores;
+I. Realizar cualquier acto que implique abandono, desamparo, discriminación, humillación, burla o mofa hacia las personas adultas mayores;
 
-III. Impedir injustificadamente que los adultos mayores permanezcan en su núcleo familiar;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-IV. No proporcionar a los adultos mayores los alimentos y cuidados necesarios cuando se tenga el deber de hacerlo;
+II. Realizar cualquier actividad que implique abuso, explotación o maltrato hacia las personas adultas mayores;
 
-V. Negar o impedir injustificadamente a los adultos mayores el acceso a los diferentes servicios a que tienen derecho en virtud de lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las Leyes de la materia; y
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+III. Impedir injustificadamente que las personas adultas mayores permanezcan en su núcleo familiar;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+IV. No proporcionar a las personas adultas mayores los alimentos y cuidados necesarios cuando se tenga el deber de hacerlo;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+V. Negar o impedir injustificadamente a las personas adultas mayores el acceso a los diferentes servicios a que tienen derecho en virtud de lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las Leyes de la materia; y
 
 VI. En general, cualquier violación o infracción a las disposiciones constitucionales y Leyes reglamentarias.
 
@@ -1185,7 +1335,9 @@ Para la aplicación de una sanción se tendrá en consideración las siguientes 
 
 I. La gravedad de la infracción;
 
-II. Los daños que la misma haya producido o pueda producir al adulto mayor o a su familia;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+II. Los daños que la misma haya producido o pueda producir a la persona adulta mayor o a su familia;
 
 III. Las condiciones socioeconómicas del infractor; y
 
@@ -1201,11 +1353,11 @@ El incumplimiento a las funciones y atribuciones que establece la presente Ley, 
 
 ### CAPÍTULO III. Del Procedimiento
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 44.
 
-Corresponderá al Instituto, realizar las investigaciones que estén dirigidas a conocer de los casos, de abandono, desamparo, marginación, abuso, explotación, violencia y discriminación, que afecten a los adultos mayores, ejecutando las medidas necesarias para su adecuada protección.
+Corresponderá al Instituto, realizar las investigaciones que estén dirigidas a conocer de los casos, de abandono, desamparo, marginación, abuso, explotación, violencia y discriminación, que afecten a las personas adultas mayores, ejecutando las medidas necesarias para su adecuada protección.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1259,11 +1411,11 @@ Concluido el período de recepción de pruebas, en el supuesto de que el presunt
 
 Como medida de protección, se podre separar preventivamente a la persona adulta mayor de su hogar cuando, a criterio del Instituto, existan motivos fundados que hagan presumir un peligro inmediato e inminente a su salud o seguridad.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 54.
 
-Para los efectos del Artículo anterior, el Instituto podrá canalizar a los adultos mayores a los establecimientos de asistencia social a que se hace referencia en esta Ley, hasta en tanto se resuelva la situación que originó la ejecución de esta medida. Si el caso lo amerita, dará inmediata vista al Ministerio Público para su intervención legal.
+Para los efectos del Artículo anterior, el Instituto podrá canalizar a las personas adultas mayores a los establecimientos de asistencia social a que se hace referencia en esta Ley, hasta en tanto se resuelva la situación que origino la ejecución de esta medida. Si el caso lo amerita, dará inmediata vista al Ministerio Público para su intervención legal.
 
 ###### ARTÍCULO 55.
 
@@ -1534,3 +1686,11 @@ P.O. 25 DE DICIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 ·El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes
+
+P.O. 15 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 549.- SE REFORMA LA LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
