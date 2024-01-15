@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-estatal-de-160426"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-09-30"
-last_updated: "2023-12-27"
+last_updated: "2024-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2024.
 
 Ley publicada en el Número 56 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de septiembre de 2022.
 
@@ -725,7 +725,9 @@ IX. Coordinar sus acciones, en los términos del artículo 21 de la Constitució
 
 X. Proveer lo necesario, cuando por disposición legal o por convenio, se deba asumir el mando y conducción de las policías municipales en el Estado;
 
-XI. Implementar, en coordinación con el Instituto Estatal de Seguridad Pública, los Programas Rectores de Profesionalización que inculquen los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, corresponsabilidad, subsidiariedad y respeto a los derechos humanos;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+XI. Implementar, en coordinación con la Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes, los Programas Rectores de Profesionalización que inculquen los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, corresponsabilidad, subsidiariedad y respeto a los derechos humanos;
 
 XII. Autorizar, controlar, supervisar y sancionar los servicios de seguridad privada en el Estado;
 
@@ -2036,3 +2038,11 @@ Los asuntos administrativos, legales, judiciales; archivos, expediente, document
 ###### ARTÍCULO NOVENO.
 
 Los derechos y obligaciones sobre los títulos de propiedad en materia de bienes muebles e inmuebles pertenecientes y/o asignados a la Contraloría del Estado, pasarán a formar parte de la Secretaría de Administración, misma que ejercerá pleno derecho sobre los mismos.
+
+P.O. 15 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 539.- SE REFORMA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
