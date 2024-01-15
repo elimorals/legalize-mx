@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2023-12-25"
+last_updated: "2024-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -147,7 +147,9 @@ XIII. El enfoque diferencial.
 
 La violencia contra las mujeres, de manera enunciativa, no limitativa, comprende las siguientes formas:
 
-I. La violencia doméstica;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+I. La violencia familiar;
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2015)</small>
 
@@ -177,7 +179,9 @@ XIII. La esterilización provocada;
 
 XIV. La insensibilidad al dolor o a las enfermedades femeninas por parte de los sistemas médicos;
 
-XV. La negligencia en la procuración e impartición de la justicia en delitos contra la libertad y el normal desarrollo psicosexual, violencia doméstica y delitos violentos o de odio contra las mujeres, entre otros;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+XV. La negligencia en la procuración e impartición de la justicia en delitos contra la libertad y el normal desarrollo psicosexual, violencia familiar y delitos violentos o de odio contra las mujeres, entre otros;
 
 XVI. La inclusión de las mujeres en programas dirigidos a sectores vulnerables;
 
@@ -369,7 +373,9 @@ XIII. Cualesquiera otras formas análogas que, por acción u omisión, lesionen 
 
 La violencia de género contra las mujeres se presenta en los siguientes ámbitos:
 
-I. En el doméstico;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+I. En el familiar;
 
 II. En el laboral y docente;
 
@@ -389,9 +395,15 @@ V. En el de las instituciones y servicio público; y
 
 VI. En espacios públicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2024)</small>
+
 ###### Artículo 10.
 
-La violencia de género contra las mujeres en el ámbito doméstico, es el acto abusivo de poder u omisión intencional dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar o unidad doméstica, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho con la víctima.
+La violencia familiar contra las mujeres es el acto abusivo de poder u omisión intencional dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar o unidad doméstica, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho con la víctima.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2024)</small>
+
+Se equiparará a violencia familiar, la que se ejerce en el noviazgo, con las ex parejas de noviazgo, en las relaciones de padrinazgo y las relaciones que existen entre la mujer y los hijos e hijas de la pareja, aun y cuando no tengan algún parentesco, pero cohabite en el mismo domicilio de esta o se incorpore al núcleo familiar.
 
 > <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
 
@@ -548,6 +560,10 @@ Artículo 25 quinquies.- Ante la Violencia Feminicida, el Estado de Aguascalient
 ###### Artículo 26.
 
 Las órdenes de protección son actos de urgente aplicación en función del interés superior de la víctima, son fundamentalmente precautorias y cautelares, y deberán otorgarse de oficio o a petición de parte, por el Ministerio Público, los jueces mixtos, jueces cívicos, jueces de lo penal, civil y familiar, según corresponda, en el momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres o niñas, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2024)</small>
+
+En materia de violencia política contra las mujeres en razón de género, el Tribunal Electoral del Estado y el Instituto Estatal Electoral podrán solicitar la colaboración de las autoridades para el otorgamiento de las órdenes de protección a que se refiere el presente Capítulo.
 
 ###### Artículo 27.
 
@@ -1998,3 +2014,19 @@ P.O. 25 DE DICIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 540.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 546.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
