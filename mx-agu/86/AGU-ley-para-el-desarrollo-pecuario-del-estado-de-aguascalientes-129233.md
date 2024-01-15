@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-desarrollo-pecuario-del-estado-de-aguascalientes-12
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-20"
-last_updated: "2023-08-07"
+last_updated: "2024-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL DESARROLLO PECUARIO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2024.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 20 de junio de 2018.
 
@@ -1837,11 +1837,47 @@ Para la introducción o salida del Estado de apiarios y colmenas, sus productos 
 
 Las movilizaciones en tránsito por el Estado no requerirán de la autorización de la Secretaría, siendo únicamente necesario comprobar el cumplimiento de los requisitos sanitarios en las estaciones cuarentenarias o casetas de inspección ubicadas en los principales accesos del Estado, mediante la presentación de la documentación correspondiente.
 
-### CAPÍTULO I. De las Responsabilidades
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE ENERO DE 2024)</small>
+
+### CAPÍTULO V. De la Industria de la Leche
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2024)</small>
+
+###### Artículo 193 Bis.
+
+La industria lechera en el Estado estará conformada por las personas productoras, sean personas físicas o morales legalmente constituidas, que en determinadas superficies de terreno edificadas y equipadas, sean propias, poseídas o arrendadas, denominadas ranchos, establos lecheros o granjas lecheras, se dediquen a la explotación de razas de ganado lechero y produzcan o industrialicen la leche y sus derivados.
+
+La Secretaría fomentará el establecimiento de establos productores de leche, granjas agropecuarias, plantas pasteurizadoras y la realización de cuencas lecheras; asimismo, organizará e integrará a los productores de leche a las necesidades de la planificación agropecuaria.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2024)</small>
+
+###### Artículo 193 Ter.
+
+La Secretaría, en materia de desarrollo de la industria lechera en el Estado, tendrá a su cargo:
+
+I. Planear, fomentar y apoyar el desarrollo de la industria lechera en el Estado;
+
+II. Fomentar la industrialización y comercialización de los productos lácteos;
+
+III. Difundir los adelantos científicos y tecnológicos que contribuyan al desarrollo de la industria de la leche; y
+
+IV. Promover la participación de las personas productoras en los programas y acciones que se impulsen para el desarrollo de la industria de la leche en el Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2024)</small>
+
+###### Artículo 193. Quater.
+
+Los establecimientos o empresas destinados a la producción de leche deberán registrarse en la Secretaría. El registro será gratuito y los requisitos a que se sujeten los fijará la misma Secretaría.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2024)</small>
+
+###### Artículo 193. Quinquies.
+
+Las industrias lecheras y las plantas pasteurizadoras deberán contar con instalaciones y equipos higiénicos, de acuerdo con las Leyes, Normas Oficiales Mexicanas y a las normas técnicas aplicables.
 
 ## TÍTULO QUINTO. RESPONSABILIDADES, SANCIONES Y MEDIOS DE DEFENSA
 
-### CAPÍTULO II. De las Sanciones
+### CAPÍTULO I. De las Responsabilidades
 
 ###### Artículo 194.
 
@@ -1849,7 +1885,7 @@ Las autoridades encargadas de aplicar esta Ley, están sujetas a las disposicion
 
 Las denuncias serán presentadas ante la Secretaría o, en su caso, ante la Contraloría del Estado.
 
-### CAPÍTULO III. De la Impugnación de las Resoluciones de las Autoridades en la Materia
+### CAPÍTULO II. De las Sanciones
 
 ###### Artículo 195.
 
@@ -1914,6 +1950,8 @@ IV. Las demás que se prevean en la presente Ley y las demás normas aplicables.
 Las sanciones pecuniarias a que se refiere este capítulo se considerarán créditos fiscales y serán hechos efectivos por la Secretaría de Finanzas a través de sus oficinas de recaudación.
 
 El procedimiento de notificación, ejecución y extinción de las sanciones pecuniarias, así como los recursos administrativos para oponerse al procedimiento económico coactivo, se sujetará a las disposiciones del Código Fiscal del Estado de Aguascalientes, a la Ley de Hacienda del Estado de Aguascalientes, la Ley del Procedimiento Administrativo del Estado de Aguascalientes y la Ley del Procedimiento Contencioso Administrativo del Estado de Aguascalientes.
+
+### CAPÍTULO III. De la Impugnación de las Resoluciones de las Autoridades en la Materia
 
 ###### Artículo 199.
 
@@ -2022,6 +2060,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 7 DE AGOSTO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 400.- SE REFORMA LA LEY PARA EL DESARROLLO PECUARIO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 541.- SE REFORMA LA LEY PARA EL DESARROLLO PECUARIO DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
