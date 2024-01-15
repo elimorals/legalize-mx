@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2023-12-18"
+last_updated: "2024-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -109,9 +109,9 @@ V. AGUAS RESIDUALES: Aquellas no aptas para el consumo humano, que por el uso re
 
 VI. AMBIENTE: Conjunto de elementos naturales y artificiales o inducidos por el hombre que hacen posible le existencia y desarrollo de los seres humanos y demás organismos vivos y demás organismos vivos que interactúan en un espacio y tiempos determinados;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
-VII. ARBORIZAR: Plantar árboles, preferentemente de especies frutales, en las áreas urbanas existentes en una población, Municipio y el Estado; con independencia de que dichos árboles sean nativos o bien exóticos que hayan sido adaptados a las condiciones climáticas del Estado, pero con el fin de lograr un equilibrio ecológico propicio para el desarrollo de los habitantes;
+VII. ARBORIZAR: Plantar árboles de especies frutales, nativas, o endémicas aptas para el clima; siendo obligatorio priorizar las especies resistentes a las sequías y/o que requieran poco recurso hídrico para su mantenimiento y crecimiento, con el fin de lograr un equilibrio ecológico propicio para un ambiente sano y desarrollo sustentable;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
 
@@ -2515,11 +2515,11 @@ VI. El establecimiento de unidades intensivas y extensivas, conforme a la normat
 
 No se permitirá emitir o descargar contaminantes a la atmósfera, el agua y los suelos, cuando rebasen los límites máximos permitidos que se encuentran señalados en las Normas Oficiales Mexicanas y los demás ordenamientos de la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 130.
 
-Se considera como de cuidado especial a las bolsas de plástico y polietileno y envases de poliestireno expandido de un solo uso, por lo que se prohíbe en el Estado su uso y distribución por supermercados, tiendas de conveniencia, autoservicios, almacenes, negocios, comercios, y cualquier establecimiento que los proporcione a las personas para llevar, transportar o trasladar los productos adquiridos. Por lo anterior las bolsas de plástico o de polietileno o envases de poliestireno expandido de un solo uso, deberán ser remplazados biodegradables (sic) o tela; según las directrices y lineamientos que establezca esta ley y el Programa establecido al efecto
+Se considera como de cuidado especial a las bolsas de plástico, de polietileno y envases de poliestireno expandido de un solo uso, por lo que se prohíbe en el Estado su uso y distribución por supermercados, tiendas de conveniencia, autoservicios, almacenes, negocios, comercios, y cualquier establecimiento que los proporcione a las personas para llevar, transportar o trasladar los productos adquiridos. Por lo anterior las bolsas de plástico o de polietileno o envases de poliestireno expandido de un solo uso, deberán ser remplazados por bolsas de materiales biodegradables o tela; según las directrices y lineamientos que establezca esta ley y el Programa establecido al efecto.
 
 > <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
@@ -2539,11 +2539,11 @@ Se exceptúan de lo anterior la utilización de bolsas de polietileno y envases 
 
 El incumplimiento a lo previsto en el presente Artículo se sancionará de conformidad con lo establecido por el Artículo 212 Fracciones I, II, III, V y VI de la presente Ley.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 131.
 
-Se elaborará y difundirá un "Programa de Sustitución de Plástico No Biodegradable Biodegradables (sic)", con el fin de eliminar el consumo de bolsas, envases, embalajes o empaques de plástico o poliestireno expandido de un solo uso no biodegradables, que se utilizan en comercios en general y que se entregan al público para contención, transporte y envase de mercancías.
+Se elaborará y difundirá un "Programa de Sustitución de Plástico No Biodegradable por Materiales Biodegradables", con el fin de eliminar el consumo de bolsas, envases, embalajes o empaques de plástico o poliestireno expandido de un solo uso no biodegradables, que se utilizan en comercios en general y que se entregan al público para contención, transporte y envase de mercancías.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
@@ -3819,6 +3819,10 @@ La Secretaría, la Procuraduría o la autoridad municipal correspondiente podrá
 
 Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta Ley, sus reglamentos y demás disposiciones que de ella se deriven, se destinarán a la integración de fondos para desarrollar programas vinculados con la inspección y la vigilancia en las materias a que se refiere esta Ley. El Reglamento respectivo establecerá las reglas sobre la integración, administración y gastos de los recursos constitutivos de dicho fondo ambiental.
 
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2024)</small>
+
+Asimismo, los ingresos que se obtengan de las multas por infracciones a lo dispuesto en el Artículo 130 de esta Ley, además de destinarse a la integración de fondos a que hace referencia al párrafo anterior, se destinarán para promover y desarrollar campañas de difusión, actividades de educación ambiental, capacitación y otras similares para fomentar una cultura responsable del reúso, reciclaje, beneficios de la utilización de material biodegradable o tela y la correcta separación de los residuos sólidos urbanos, así como para formar conciencia en la población de los efectos e impactos perjudiciales que genera la contaminación al medio ambiente.
+
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 219.
@@ -4170,3 +4174,17 @@ P.O. 18 DE DICIEMBRE DE 2023.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- Las Autoridades a que hace referencia esta reforma, deberán de adecuar su normatividad dentro de los ciento veinte días posteriores a la publicación de la presente reforma en el Periódico Oficial del Estado, a efecto de dar cumplimiento a la misma.
+
+P.O. 15 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 547.- SE REFORMA LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 548.- SE REFORMA LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+– El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
