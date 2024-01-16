@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-419-de-hacienda-del-estado-de-guerrero-117817"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2023-12-29"
+last_updated: "2024-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "GRO"
 
 > <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO PRIMERO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2021, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2021.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2024 EN EL P.O. DEL ESTADO GUERRERO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE ENERO DE 2024.]</small>
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Guerrero, el martes 27 de diciembre de 2016.
 
@@ -931,6 +931,8 @@ En el valor total del vehículo a que hace referencia el párrafo anterior, no s
 
 III.- Año modelo, la clasificación que asigne e informe a la Secretaría de Economía del Gobierno Federal el fabricante o ensamblador. Para el caso de vehículos importados el señalado por el fabricante o ensamblador.
 
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 75.
 
 No se pagará el impuesto de tenencia y uso de los siguientes vehículos:
@@ -950,10 +952,6 @@ V.- No se pagará el impuesto que establece este Capítulo, en los casos que se 
 Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
 
 Para tal efecto se aplicará la tabla prevista en el artículo 70 de este mismo Capítulo.
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
-
-VI.- Los propietarios de vehículos usados de fabricación nacional o de procedencia extranjera importados definitivamente al País, con diez años o más de antigüedad y sean exclusivamente de uso particular, estarán exentos del pago del impuesto sobre tenencia o uso de vehículos, únicamente serán sujetos de pagar los derechos por servicios vehiculares que comprenden el pago anual de refrendo de matrícula, tarjeta de circulación, engomados y en su caso, por el canje de placas de circulación.
 
 ###### ARTÍCULO 76.
 
