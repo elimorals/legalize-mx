@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asistencia-social-para-el-estado-de-hidalgo-88792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-30"
-last_updated: "2023-06-15"
+last_updated: "2024-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2012.
 
@@ -165,7 +165,9 @@ XXVI. Niña o Niño: Son niñas y niños los menores de 12 años.
 
 XXVII. Organismo.- El Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo;
 
-XXVIII. Organismo Municipal.- Unidad Administrativa u Órgano desconcentrado u Organismo Público Descentralizado de la Administración Pública Municipal, denominado Sistema para el Desarrollo Integral de la Familia Municipal o Junta Municipal para el Desarrollo Integral de la Familia;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2024)</small>
+
+XXVIII. Organismo Municipal.- Organismo Público Descentralizado de la Administración Pública Municipal, denominado Sistema para el Desarrollo Integral de la Familia Municipal o Junta Municipal para el Desarrollo Integral de la Familia;
 
 XXIX. Padrón.- Relación oficial de las personas beneficiarias atendidas por los programas asistenciales que opera o coordina el Organismo, ya sea de manera directa o a través de los Organismos Municipales;
 
@@ -1289,9 +1291,11 @@ El titular de la Junta General de Asistencia será nombrado y removido librement
 
 ### CAPÍTULO VII. De los Organismos Municipales
 
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2024)</small>
+
 ###### Artículo 49.
 
-Para la prestación de los servicios de asistencia social en el ámbito municipal del Estado de Hidalgo, se crearán los Organismos Municipales de acuerdo con la capacidad técnica y financiera de cada municipio, adoptando para su régimen una figura jurídica similar o equivalente a las que operan a nivel federal y estatal.
+Para la prestación de los servicios de asistencia social en el ámbito municipal del Estado de Hidalgo, se crearán los Organismos Municipales, como organismos descentralizados de la Administración Pública Municipal, con personalidad jurídica y patrimonio propios, de acuerdo con la capacidad técnica y financiera de cada municipio.
 
 ###### Artículo 50.
 
@@ -1612,3 +1616,15 @@ P.O. 15 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 525 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO Y DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO":]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 16 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 612 POR EL QUE SE REFORMAN LA FRACCIÓN XVIII DEL ARTÍCULO 2 Y EL ARTÍCULO 49 DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Las autoridades estatales competentes contarán con un plazo de ciento veinte días a partir de la entrada en vigor del presente, para realizar la armonización normativa correspondiente, conforme a lo aprobado en este Decreto.
+
+TERCERO. Las autoridades municipales contarán con un plazo de ciento veinte días a partir de la entrada en vigor del presente, para efecto de elaborar, armonizar o actualizar la normativa correspondiente, conforme a lo aprobado en este Decreto.
+
+CUARTO. Los Ayuntamientos del Estado de Hidalgo que con motivo de la entrada en vigor del presente Decreto lleven a cabo la descentralización de sus Organismos Municipales, contarán con un plazo de ciento veinte días naturales a partir de la entrada en vigor del presente, para realizar las adecuaciones y previsiones administrativas, financieras y presupuestales, a efecto de dar cumplimiento a lo aprobado.
