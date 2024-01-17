@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-53416"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-02-01"
-last_updated: "2023-12-29"
+last_updated: "2024-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53416&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-01-31"
 
 LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de febrero de 2007.
 
@@ -189,7 +189,29 @@ IV. Violencia económica.- Es toda acción u omisión del Agresor que afecta la 
 
 V. La violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la Víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto, y
 
-VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+> <small>(ADICIONADA, D.O.F. 17 DE ENERO DE 2024)</small>
+
+VI. Violencia a través de interpósita persona.- Es cualquier acto u omisión que, con el objetivo de causar perjuicio o daño a las mujeres, se dirige contra las hijas y/o hijos, familiares o personas allegadas, ya sea que se tenga o se haya tenido relación de matrimonio o concubinato; o mantenga o se haya mantenido una relación de hecho con la persona agresora; lo anterior aplica incluso cuando no se cohabite en el mismo domicilio.
+
+Se manifiesta a través de diversas conductas, entre otras:
+
+a) Amenazar con causar daño a las hijas e hijos;
+
+b) Amenazar con ocultar, retener, o sustraer a hijas e hijos fuera de su domicilio o de su lugar habitual de residencia;
+
+c) Utilizar a hijas y/o hijos para obtener información respecto de la madre;
+
+d) Promover, incitar o fomentar actos de violencia física de hijas y/o hijos en contra de la madre;
+
+e) Promover, incitar o fomentar actos de violencia psicológica que descalifiquen la figura materna afectando el vínculo materno filial;
+
+f) Ocultar, retener o sustraer a hijas y/o hijos así como a familiares o personas allegadas;
+
+g) Interponer acciones legales con base en hechos falsos o inexistentes, en contra de las mujeres para obtener la guarda y custodia, cuidados y atenciones o pérdida de la patria potestad de las hijas y/o hijos en común, y
+
+h) Condicionar el cumplimiento de las obligaciones alimentarias a las mujeres y a sus hijas e hijos;
+
+VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ## TITULO II. MODALIDADES DE LA VIOLENCIA
 
@@ -203,19 +225,25 @@ Violencia familiar: Es el acto abusivo de poder u omisión intencional, dirigido
 
 También se considera violencia familiar cuando la persona agresora tenga responsabilidades de cuidado o de apoyo, aunque no tenga una relación de parentesco.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE MAYO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 8.
 
-Los modelos de atención, prevención y sanción que establezcan la Federación, las entidades federativas, las demarcaciones territoriales de la Ciudad de México y los municipios son el conjunto de medidas y acciones para proteger a las víctimas de violencia familiar, como parte de la obligación del Estado, de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos considerando la interseccionalidad, la interculturalidad y el enfoque diferenciado. Para ello, deberán tomar en consideración:
+Los modelos de atención, prevención y sanción que establezcan la Federación, las entidades federativas, las demarcaciones territoriales de la Ciudad de México y los municipios son el conjunto de medidas y acciones para proteger a las víctimas de violencia familiar y violencia a través de interpósita persona como parte de la obligación del Estado, de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos considerando la interseccionalidad, la interculturalidad y el enfoque diferenciado. Para ello, deberán tomar en consideración:
 
-I. Proporcionar atención, asesoría jurídica y tratamiento psicológico especializados y gratuitos a las víctimas, que favorezcan su empoderamiento y reparen el daño causado por dicha violencia;
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2024)</small>
+
+I. Proporcionar atención, asesoría jurídica y tratamiento psicológico especializados y gratuitos a las víctimas, que favorezcan su empoderamiento y reparen el daño causado por dichas violencias;
 
 II. Brindar servicios reeducativos integrales, especializados y gratuitos al Agresor para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía masculina, y los patrones machistas que generaron su violencia;
 
-III. Evitar que la atención que reciban la Víctima y el Agresor sea proporcionada por la misma persona y en el mismo lugar. En ningún caso podrán brindar atención, aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2024)</small>
 
-IV. Evitar procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre el Agresor y la Víctima;
+III. Evitar que la atención que reciban las víctimas y la persona agresora sea proporcionada por la misma persona y en el mismo lugar. En ningún caso podrán brindar atención, aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
+
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2024)</small>
+
+IV. Evitar procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre la persona agresora y las víctimas;
 
 V. Favorecer la separación y alejamiento del Agresor con respecto a la Víctima, y
 
@@ -225,17 +253,33 @@ VI. Favorecer la instalación y el mantenimiento de refugios para las víctimas 
 
 Los modelos de atención, prevención y sanción a los que se refiere el primer párrafo de este artículo deberán tener un enfoque diferenciado con el objeto de ajustarse a las condiciones específicas de las mujeres víctimas de violencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 9.
 
-Con el objeto de contribuir a la erradicación de la violencia contra las mujeres dentro de la familia, los Poderes Legislativos, Federal y Locales, en el respectivo ámbito de sus competencias, considerarán:
+Con el objeto de contribuir a la erradicación de las violencias contra las mujeres dentro de la familia, los Poderes Legislativos, Federal y Locales, en el respectivo ámbito de sus competencias, considerarán:
 
 I. Tipificar el delito de violencia familiar, que incluya como elementos del tipo los contenidos en la definición prevista en el artículo 7 de esta ley;
 
-II. Establecer la violencia familiar como causal de divorcio, de pérdida de la patria potestad y de restricción para el régimen de visitas, así como impedimento para la guarda y custodia de niñas y niños;
+> <small>(ADICIONADA, D.O.F. 17 DE ENERO DE 2024)</small>
 
-III. Disponer que cuando la pérdida de la patria potestad sea por causa de violencia familiar y/o incumplimiento de obligaciones alimentarias o de crianza, no podrá recuperarse la misma, y
+II. Tipificar el delito de violencia a través de interpósita persona conforme a lo que establece la fracción VI del artículo 6 de esta ley;
 
-IV. Incluir como parte de la sentencia, la condena al Agresor a participar en servicios reeducativos integrales, especializados y gratuitos.
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2024)</small>
+
+III. Establecer la violencia familiar y la violencia a través de interpósita persona como causales de divorcio, de pérdida de la patria potestad y de restricción para el régimen de visitas, así como impedimento para la guarda y custodia de niñas, niños y adolescentes;
+
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2024)</small>
+
+IV. Disponer que cuando la pérdida de la patria potestad sea por causa de violencia familiar, violencia a través de interpósita persona y/o incumplimiento de obligaciones alimentarias o de crianza, no podrá recuperarse la misma;
+
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2024)</small>
+
+V. Incluir como parte de la sentencia, la condena a la persona agresora a participar en servicios reeducativos integrales, especializados, con perspectiva de género y gratuitos, y
+
+> <small>(ADICIONADA, D.O.F. 17 DE ENERO DE 2024)</small>
+
+VI. La violencia a través de interpósita persona se sancionará con independencia de los delitos en los que haya incurrido la persona agresora.
 
 ### CAPÍTULO II. DE LA VIOLENCIA LABORAL Y DOCENTE
 
@@ -316,6 +360,12 @@ III. El establecimiento de un banco de datos sobre las órdenes de protección y
 ###### ARTÍCULO 18.
 
 Violencia Institucional: Son los actos u omisiones de las y los servidores públicos de cualquier orden de gobierno que discriminen, utilicen estereotipos de género o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+ARTÍCULO 18 BIS.- El Estado mexicano tendrá la misma responsabilidad de promover, respetar, proteger y garantizar, desde una perspectiva de género, los derechos humanos de las mujeres, sus hijas e hijos, que se encuentren o residan fuera del país, con base en los mecanismos legales del Servicio Exterior Mexicano.
+
+Toda acción u omisión que conlleve a la violación de los derechos humanos de las mujeres víctimas deberá ser investigada, sancionada y reparada con perspectiva de género conforme a la normatividad aplicable.
 
 ###### ARTÍCULO 19.
 
@@ -827,9 +877,13 @@ XIX. Solicitar a la autoridad jurisdiccional competente, para garantizar las obl
 
 XX. Solicitar a la autoridad jurisdiccional competente la suspensión del régimen de tutela o curatela que ejerza la persona agresora, y
 
+> <small>(ADICIONADA, D.O.F. 17 DE ENERO DE 2024)</small>
+
+XXI. Solicitar a la autoridad judicial competente la recuperación y entrega inmediata a las mujeres víctimas de sus hijas e/o hijos menores de 18 años y/o personas incapaces que requieran cuidados especiales, que hayan sido sustraídos, retenidos u ocultados de la madre, en términos de lo establecido en el artículo 6, fracción VI de la presente ley, y
+
 > <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
 
-XXI. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de las mujeres, adolescentes o niñas víctimas de violencia.
+XXII. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de las mujeres, adolescentes o niñas víctimas de violencia.
 
 Las órdenes de protección señaladas en este artículo podrán ser ampliadas o modificadas por la autoridad administrativa, el Ministerio Público o el órgano jurisdiccional competente, siempre procurando la mayor protección de la víctima.
 
@@ -871,7 +925,17 @@ XII. La prohibición a la persona agresora de salir sin autorización judicial d
 
 XIII. La suspensión del régimen de tutela o curatela que ejerza la persona agresora sobre la víctima, y
 
-XIV. Las demás que se requieran para brindar una protección a la víctima.
+> <small>(ADICIONADA, D.O.F. 17 DE ENERO DE 2024)</small>
+
+XIV. Ordenar la restitución, recuperación o entrega inmediata a la mujer víctima, de sus hijas y/o hijos menores de 18 años y/o personas incapaces que requieran cuidados especiales, que hayan sido sustraídos, retenidos u ocultados de forma ilícita;
+
+> <small>(ADICIONADA, D.O.F. 17 DE ENERO DE 2024)</small>
+
+XV. Ordenar la suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes, y
+
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2024)</small>
+
+XVI. Las demás que se requieran para brindar una protección integral a la víctima.
 
 > <small>(ADICIONADO, D.O.F. 18 DE MARZO DE 2021)</small>
 
@@ -2326,3 +2390,11 @@ D.O.F. 29 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 38 DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DEL CÓDIGO CIVIL FEDERAL Y DEL CÓDIGO PENAL FEDERAL, EN MATERIA DE VIOLENCIA A TRAVÉS DE INTERPÓSITA PERSONA".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán de conformidad con el presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
