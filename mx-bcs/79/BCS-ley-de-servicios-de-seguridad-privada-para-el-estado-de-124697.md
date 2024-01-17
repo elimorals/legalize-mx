@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-servicios-de-seguridad-privada-para-el-estado-de-124697"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-30"
-last_updated: "2017-11-30"
+last_updated: "2024-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2024.
 
 Ley publicada en el Número 45 del Boletín Oficial del Estado de Baja California Sur, el jueves 30 de noviembre de 2017.
 
@@ -51,65 +51,141 @@ Se crea la Ley de Servicios de Seguridad Privada para el Estado de Baja Californ
 
 Esta Ley es de orden público y de interés social; sus disposiciones son de aplicación en todo el territorio del Estado de Baja California Sur, en los términos establecidos en la misma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 2.
 
-La presente ley tiene por objeto regular las actividades relacionadas con la prestación de los servicios de seguridad privada proporcionados por particulares que operen en todo el territorio del Estado, así como la infraestructura, equipo e instalaciones inherentes a las mismas.
+La presente ley tiene por objeto regular las actividades relacionadas con la prestación de los servicios de seguridad privada proporcionados por particulares o personas jurídicas que operen en todo el territorio del Estado, así como la infraestructura, equipo e instalaciones inherentes a las mismas.
 
 Los servicios de seguridad privada son auxiliares a la función de seguridad pública. Sus integrantes coadyuvarán con las autoridades y las instituciones de seguridad pública en situaciones de urgencia, desastres o cuando así lo solicite la autoridad competente a la Federación, los Estados o Municipios, de conformidad con lo establecido en el artículo 151 de la Ley General del Sistema Nacional de Seguridad Pública y del artículo 37 fracción III de la Ley del Sistema Estatal de Seguridad Pública.
 
 Dichos servicios se ejercerán con absoluto respeto a la Constitución Política de los Estados Unidos Mexicanos, a la Constitución Política del Estado de Baja California Sur, así como a esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 3.
 
-La Secretaría General de Gobierno a través de la Subsecretaría de Seguridad Pública y su dependencia la Dirección de Seguridad Privada son la autoridad competente para autorizar, regular, controlar, supervisar y sancionar los servicios de seguridad privada en cualquiera de las modalidades normadas en esta ley.
+La Secretaría de Seguridad Pública y su dependencia la Dirección de Seguridad Privada son la autoridad competente para autorizar, regular, controlar, supervisar y sancionar los servicios de seguridad privada en cualquiera de las modalidades normadas en esta ley.
 
 ###### Artículo 4.
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I.- Secretaría: Secretaría General de Gobierno del Estado de Baja California Sur.
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
 
-II.- Subsecretaría: Subsecretaría de Seguridad Pública.
+I.- Academia: Academia Estatal de Seguridad Pública de Baja California Sur;
 
-III.- Dirección: La Dirección de Seguridad Privada de la Subsecretaría de Seguridad Publica, dependiente de la Secretaría General de Gobierno, de acuerdo a la estructura orgánica que señala el Reglamento de la Secretaría General de Gobierno;
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
 
-IV.- Ley: La Ley de Servicios de Seguridad Privada para el Estado de Baja California Sur;
+II.- Autorización: El acto administrativo por el que la Secretaría permite a una persona, física o jurídica, prestar Servicios de Seguridad Privada, previo cumplimiento de los requisitos establecidos en la presente Ley;
 
-V.- Reglamento: El Reglamento de los Servicios de Seguridad Privada para el Estado de Baja California Sur.
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
 
-VI.- Municipios: Los Municipios del Estado de Baja California Sur.
+III.- Autorización federal: El acto administrativo por el que la autoridad federal competente permite a una persona física o jurídica prestar servicios de seguridad privada en dos o más entidades federativas del país;
 
-VII.- Consejo: El Consejo Estatal de Seguridad Pública;
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
 
-VIII.- Prestador de Servicios: Persona física o moral con autorización para prestar servicios de seguridad privada en cualquiera de sus modalidades;
+IV.- Capacitador externo: Persona física o jurídica que se dedica a impartir cursos de capacitación acorde a las modalidades a empresas de seguridad privada y trabajadores, de acuerdo con la normativa de la STPS;
 
-IX.- Personal Operativo: Los individuos destinados a la prestación de servicios de seguridad privada en cualquiera de sus modalidades, contratados por el Prestador de Servicios;
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
 
-X.- Prestatario: La persona física o moral, de derecho privado o público, que contrata o recibe los servicios de seguridad privada;
+V.- Capacitador interno: La persona que, teniendo el carácter de trabajador en los términos de la Ley Federal del Trabajo, tiene como función exclusiva impartir cursos de capacitación y adiestramientos a los demás trabajadores de la empresa en que preste sus servicios;
 
-XI.- Inspectores: Personal autorizado adscrito a la Dirección para realizar visitas y diligencias de inspección;
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
 
-XII.- Registro: El Registro Estatal de Empresas, Personal, Armamento y Equipo de Seguridad Privada, incluida la información de las personas físicas o morales que hayan obtenido autorización por autoridad federal competente para prestar servicios de seguridad privada;
+VI.- Central de monitoreo: Es el lugar donde se reciben las señales emitidas por los sistemas de alarma, que cuenta con la infraestructura y el personal necesario para realizar las funciones de los servicios de monitoreo;
 
-XIII.- Servicios de Seguridad Privada: Actividad a cargo de los particulares autorizada y regulada por la Subsecretaría a través de la Dirección, con el objeto de desempeñar acciones relacionadas con la prestación de servicios de seguridad y protección personal; de bienes; traslado de bienes o valores; de la información; sistemas de prevención y responsabilidades; fabricación, comercialización, almacenamiento, transportación o distribución de vestimenta e instrumentos de seguridad pública o privada; servicios de blindaje; instalación, fabricación y operación de sistemas electrónicos de seguridad, sistemas o unidades de posicionamiento global, incluidos los sistemas de video vigilancia de cualquier tipo, fijos, móviles y aéreos; capacitación y adiestramiento en materia de seguridad privada; así como aportar datos para la investigación de delitos y apoyar en caso de siniestros o desastres, en su carácter de auxiliares a la función de Seguridad Pública; y por tanto solo las personas físicas o morales que se encuentren bajo este supuesto podrán ejercerlas, con las únicas limitantes que esta misma ley impone, quedando prohibido estrictamente que corporaciones de seguridad publica suministren estos servicios a prestatarios de los mismos.
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
 
-Se equipara a los Servicios de Seguridad Privada toda persona física o moral que cuente con elementos o personas que cuenten o proporcionen servicios internos de seguridad, supervisión, protección interna, anti-pérdidas, seguridad patrimonial o cualquier otra denominación bajo la cual tengan grupos o personas desempeñando estas actividades iguales o similares a las de Seguridad Privada, por lo que deberán informar, solicitar y registrar ante la Dirección, a todo el personal administrativo, operativo, equipo, vehículos, uniformes y todo aquel instrumento o accesorio que utilicen para desempeñar estas actividades, debiendo cumplir con todas las obligaciones que La Ley señala para las corporaciones de Seguridad Privada, incluyendo su solicitud de autorización, número de registro y pago de derechos correspondientes ante las autoridades de la materia, para ejercer la actividad aun dentro de sus instalaciones.
+VII.- Comité vecinal de vigilancia: los grupos organizados de vigilancia vecinal, conformado por vecinos de una colonia o fraccionamiento.
 
-XIV.- CUIP: Clave Única de Identificación Personal o Clave Única de Identificación Permanente;
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
 
-XV.- Autorización: El acto administrativo por el que la Subsecretaría permite a una persona, física o moral, prestar Servicios de Seguridad Privada, previo cumplimiento de los requisitos establecidos en la presente Ley;
+VIII.- CUIP: Clave Única de Identificación Personal o Clave Única de Identificación Permanente;
 
-XVI.- Revalidación: El acto administrativo por el que se refrenda la Autorización;
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
 
-XVII.- Modificación: El acto administrativo por el que se amplía o restringe el ámbito territorial o modalidades otorgadas en la Autorización.
+IX.- Dirección: La Dirección de Seguridad Privada dependiente de la Secretaría de Seguridad Publica, de acuerdo con la estructura orgánica que señala el Reglamento de la Secretaría;
 
-XVIII.- Sistemas de alarmas: Son sistemas que constan de diversos dispositivos electrónicos instalados en muebles e inmuebles cuya función es disuadir y detectar incidencias. Para el caso de que se haya contratado el servicio de monitoreo electrónico, el sistema las reportará automáticamente a una central de monitoreo.
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
 
-XIX.- Monitoreo electrónico: Consiste en la instalación, recepción, clasificación seguimiento y administración de señales emitidas por sistemas de alarma y video vigilancia, así como dar aviso de las mismas, tanto a las autoridades correspondientes como a los usuarios de los sistemas, sujetándose a la Ley de Video Vigilancia Del Estado de Baja California Sur y a su Reglamento.
+X.- Inspectores: Personal autorizado adscrito a la Dirección para realizar visitas y diligencias de inspección;
 
-XX.- Central de monitoreo: Es el lugar donde se reciben las señales emitidas por los sistemas de alarma, que cuenta con la infraestructura y el personal necesario para realizar las funciones de los servicios de monitoreo.
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
 
-XXI.- Sistema de redundancia: Es la acción a través de respaldos físicos y tecnológicos para casos de contingencia, fallas de equipos o sistemas, fallas en las comunicaciones o en él suministro eléctrico que asegure la continuidad de la prestación del servicio de monitoreo.
+XI.- Ley: La Ley de Servicios de Seguridad Privada para el Estado de Baja California Sur;
+
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
+
+XII.- Modificación: El acto administrativo por el que se amplía o restringe el ámbito territorial o modalidades otorgadas en la Autorización
+
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
+
+XIII.- Monitoreo Electrónico: Consiste en la instalación, recepción, clasificación seguimiento y administración de señales emitidas por sistemas de alarma y video vigilancia, así como dar aviso de las mismas, tanto a las autoridades correspondientes como a los usuarios de los sistemas, sujetándose a la Ley de Video Vigilancia Del Estado de Baja California Sur y a su Reglamento.
+
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
+
+XIV.- Municipios: Los del Estado de Baja California Sur.
+
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
+
+XV.- Personal Operativo: Los individuos destinados a la prestación de servicios de seguridad privada en cualquiera de sus modalidades, contratados por el Prestador de Servicios;
+
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
+
+XVI.- Prestador de Servicios: Persona física o jurídica con autorización para prestar servicios de seguridad privada en cualquiera de sus modalidades;
+
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
+
+XVII.- Prestatario: La persona física o jurídica, de derecho privado o público, que contrata o recibe los servicios de seguridad privada;
+
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
+
+XVIII.- Registro: El Registro Estatal de Empresas, Personal, Armamento y Equipo de Seguridad Privada, incluida la información de las personas físicas o jurídicas que hayan obtenido autorización por autoridad federal competente para prestar servicios de seguridad privada;
+
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
+
+XIX.- Reglamento: El Reglamento de los Servicios de Seguridad Privada para el Estado de Baja California Sur.
+
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
+
+XX.- Reincidencia: La comisión de dos o más infracciones a las normas jurídicas y administrativas relacionadas con la seguridad en un periodo de seis meses;
+
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
+
+XXI.- Revalidación: El acto administrativo por el que se refrenda la Autorización;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 17 DE ENERO DE 2024)</small>
+
+XXII.- Revocación: El acto administrativo por el que se cancela la autorización emitida por la Secretaria;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 17 DE ENERO DE 2024)</small>
+
+XXIII.- Secretaría: Secretaría de Seguridad Pública del Estado (sic) Baja California Sur;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 17 DE ENERO DE 2024)</small>
+
+XXIV.- Servicios De Seguridad Privada: Actividad a cargo de los particulares autorizada y regulada por la Secretaría a través de la Dirección, con el objeto de desempeñar acciones relacionadas con la prestación de servicios de seguridad y protección personal; de bienes; traslado de bienes o valores; de la información; sistemas de prevención y responsabilidades; fabricación, comercialización, almacenamiento, transportación o distribución de vestimenta e instrumentos de seguridad pública o privada; servicios de blindaje; instalación, fabricación y operación de sistemas electrónicos de seguridad, sistemas o unidades de posicionamiento global, incluidos los sistemas de video vigilancia de cualquier tipo, fijos, móviles y aéreos; capacitación y adiestramiento en materia de seguridad privada; así como aportar datos para la investigación de delitos y apoyar en caso de siniestros o desastres, en su carácter de auxiliares a la función de Seguridad Pública; y por tanto solo las personas físicas o jurídicas que se encuentren bajo este supuesto podrán ejercerlas, con las únicas limitantes que esta misma ley impone, quedando prohibido estrictamente que corporaciones de seguridad publica suministren estos servicios a prestatarios de los mismos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 17 DE ENERO DE 2024)</small>
+
+XXV.- Sistema de Alarmas: Son sistemas que constan de diversos dispositivos electrónicos instalados en muebles e inmuebles cuya función es disuadir y detectar incidencias. Para el caso de que se haya contratado el servicio de monitoreo electrónico, el sistema las reportará automáticamente a una central de monitoreo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 17 DE ENERO DE 2024)</small>
+
+XXVI.- Sistema de Redundancia: Es la acción a través de respaldos físicos y tecnológicos para casos de contingencia, fallas de equipos o sistemas, fallas en las comunicaciones o en él suministro eléctrico que asegure la continuidad de la prestación del servicio de monitoreo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 17 DE ENERO DE 2024)</small>
+
+XXVII.- Suspensión: El acto administrativo por el que se suspenden los efectos de la autorización emitida por la Secretaria;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 17 DE ENERO DE 2024)</small>
+
+XXVIII.- Vehículo escolta: Se refiere al vehículo o vehículos designados para la prestación de los servicios o actividad de seguridad personal, distintos al vehículo en el que viaja la persona a la que se brinda el servicio, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 17 DE ENERO DE 2024)</small>
+
+XXIX.- Las demás que se establezcan en el Reglamento.
 
 ###### Artículo 5.
 
@@ -131,9 +207,11 @@ VI.- Diseñar, promover e implementar políticas, lineamientos y acciones median
 
 La prestación de los Servicios de Seguridad Privada se realizará con estricto apego a los derechos humanos y a los principios de legalidad, eficiencia, profesionalismo, honradez, integridad, dignidad, congruencia y proporcionalidad en el ejercicio de sus actividades y la utilización de medios disponibles.
 
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 7.
 
-Para prestar Servicios de Seguridad Privada deberá contarse con la Autorización y Registro correspondientes. Las personas físicas o morales que, sin haber observado estos requisitos, proporcionen servicios de esta naturaleza en cualquiera de sus modalidades, serán sancionadas en los términos previstos en esta Ley, sin perjuicio de la responsabilidad civil y penal que les pudiere resultar.
+Para prestar Servicios de Seguridad Privada deberá contarse con la Autorización y Registro correspondientes. Las personas físicas o jurídicas que, sin haber observado estos requisitos, proporcionen servicios de esta naturaleza en cualquiera de sus modalidades, serán sancionadas en los términos previstos en esta Ley, sin perjuicio de la responsabilidad civil y penal que les pudiere resultar.
 
 ###### Artículo 8.
 
@@ -161,7 +239,9 @@ La Dirección tendrá las siguientes facultades:
 
 I.- Regular, controlar y supervisar la prestación de los Servicios de Seguridad Privada en el Estado;
 
-II.- Bajo su más estricta responsabilidad, recabará y valorará los requisitos previstos en la Ley para la emisión de la Autorización con motivo de la prestación de los Servicios de Seguridad Privada en el Estado y en su caso, la Revalidación, Modificación, Suspensión o Revocación de dicha Autorización en los términos previstos en el presente ordenamiento; mismas resoluciones que serán signadas por el titular de la Subsecretaría;
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
+
+II.- Bajo su más estricta responsabilidad, recabará y valorará los requisitos previstos en la Ley para la emisión de la Autorización con motivo de la prestación de los Servicios de Seguridad Privada en el Estado y en su caso, la Revalidación, Modificación, Suspensión o Revocación de dicha Autorización en los términos previstos en el presente ordenamiento; mismas resoluciones que serán signadas por el Titular de la Secretaría;
 
 III.- Dar aviso a los Municipios, de las Autorizaciones, Revalidaciones, Modificaciones, Suspensiones o Revocaciones de Autorizaciones que se expida al Prestador de Servicios que opere dentro de su territorio;
 
@@ -169,11 +249,15 @@ IV.- Realizar las acciones necesarias para que los Servicios de Seguridad Privad
 
 V.- Establecer, operar y mantener actualizado el Registro Estatal de Empresas, Personal, Armamento y Equipo de Seguridad Privada;
 
-VI.- Realizar visitas de inspección y verificación a fin de comprobar el cumplimiento de esta Ley y demás disposiciones jurídicas que resulten aplicables; previa autorización del titular de la Subsecretaría.
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
+
+VI.- Realizar visitas de inspección y verificación a fin de comprobar el cumplimiento de esta Ley y demás disposiciones jurídicas que resulten aplicables; previa autorización del Titular de la Secretaría;
 
 VII.- Verificar que el Personal Operativo se encuentre debidamente capacitado para brindar servicios de seguridad privada, así como concertar con el Prestador de Servicios la instrumentación, implementación y modificación de sus planes y programas de capacitación y adiestramiento, de conformidad con la legislación aplicable;
 
-VIII.- Presentar proyectos de resolución para la imposición y ejecución de sanciones que procedan por el incumplimiento de las disposiciones previstas en esta Ley al titular de la Subsecretaría;
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
+
+VIII.- Presentar proyectos de resolución para la imposición y ejecución de sanciones que procedan por el incumplimiento de las disposiciones previstas en esta Ley al Titular de la Secretaría;
 
 IX.- Expedir constancia de la CUIP;
 
@@ -191,7 +275,9 @@ Las notificaciones al Prestador de Servicios se harán:
 
 I.- Personalmente;
 
-II.- En los estrados públicos de la Subsecretaría, y;
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
+
+II.- En los estrados públicos de la Secretaría, y
 
 III.- Edictos.
 
@@ -205,17 +291,21 @@ II.- La resoluciones que impongan sanciones, y;
 
 III.- Las demás que establezca la presente Ley o determine la Dirección.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 15.
 
-Las notificaciones personales al Prestador de Servicios se practicarán en el domicilio de su oficina matriz o en la sucursal. Tratándose de personas morales, las notificaciones se harán por conducto de persona con facultades para representar al Prestador de Servicios.
+Las notificaciones personales al Prestador de Servicios se practicarán en el domicilio de su oficina matriz o en la sucursal. Tratándose de personas jurídicas, las notificaciones se harán por conducto de persona con facultades para representar al Prestador de Servicios.
 
 La notificación se realizará mediante cédula, la cual se entregará a cualquier persona mayor de edad en el domicilio en que deba llevarse a cabo la notificación de que se trate.
 
 La persona que reciba la notificación deberá firmar la cédula, asentando su nombre, fecha y hora en que se realizó la notificación; en caso de negarse, se hará constar dicha circunstancia en el acta que se realice, así como cualquier hecho que permita obtener la certeza de que se realizó la notificación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 16.
 
-Cuando no fuere posible realizar la notificación en los casos a que se refieren los artículos 14 y 15 de esta Ley, el acuerdo o resolución de que se trate se fijará en los estrados públicos de la Subsecretaría surtiendo sus efectos a partir del día hábil siguiente al en que se haya fijado.
+Cuando no fuere posible realizar la notificación en los casos a que se refieren los artículos 14 y 15 de esta Ley, el acuerdo o resolución de que se trate se fijará en los estrados públicos de la Secretaría surtiendo sus efectos a partir del día hábil siguiente al en que se haya fijado.
 
 Los términos a que se refiere esta Ley, empezarán a contar a partir del día hábil siguiente al en que haya surtido efectos la notificación respectiva.
 
@@ -223,9 +313,11 @@ Cuando el Prestador de Servicios tenga su domicilio fuera del Estado y no cuente
 
 ### CAPÍTULO III. DE LA COORDINACIÓN Y COLABORACIÓN INTERINSTITUCIONAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 17.
 
-La Dirección propondrá al titular de la Subsecretaría convenios o acuerdos con autoridades federales, estatales y municipales con la finalidad de establecer lineamientos, acuerdos, mecanismos e intercambio de información relacionados con los Servicios de Seguridad Privada, que posibiliten:
+La Dirección propondrá al Titular de la Secretaría convenios o acuerdos con autoridades federales, estatales y municipales con la finalidad de establecer lineamientos, acuerdos, mecanismos e intercambio de información relacionados con los Servicios de Seguridad Privada, que posibiliten:
 
 I.- Ejercer las facultades previstas en esta Ley;
 
@@ -281,7 +373,9 @@ IV.- Ubicación de su oficina matriz y sucursales, tanto en el Estado como en la
 
 V.- Las modalidades del servicio y ámbito territorial;
 
-VI.- Escritura Pública que contenga el Acta Constitutiva y modificaciones, si las tuviere, para el caso de personas morales;
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
+
+VI.- Escritura Pública que contenga el Acta Constitutiva y modificaciones, si las tuviere, para el caso de personas jurídicas;
 
 VII.- Representantes legales, en su caso;
 
@@ -417,7 +511,9 @@ El Prestador de Servicios que cuente con licencia para el uso de armas de fuego,
 
 El Prestador de Servicios que haya obtenido autorización de la autoridad federal competente para prestar Servicios de Seguridad Privada, deberá presentarla ante la Dirección, así como la CUIP otorgada a su Personal Operativo, para la revisión de su vigencia y cumplimiento de los requisitos establecidos, tanto en las leyes federales de la materia como en esta Ley, para su inscripción en el Registro. La Dirección por lo menos una vez al año, revisará que la documentación a que se refiere este artículo cumpla con las disposiciones establecidas en la presente Ley. En ambos casos, previo pago de los derechos correspondientes.
 
-La presente Ley es aplicable, en lo conducente, al Prestador de Servicios a que se refiere este artículo, por lo que, conforme a lo dispuesto en el artículo 47 de la misma deberán otorgar una póliza de fianza para garantizar la adecuada prestación de los servicios, así como para responder por los daños y perjuicios que con motivo del desempeño de sus actividades ocasionen y en su caso, para el pago de sanciones económicas impuestas por (sic) Subsecretaría y autoridades competentes.
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 2024)</small>
+
+La presente Ley es aplicable, en lo conducente, al Prestador de Servicios a que se refiere este artículo, por lo que, conforme a lo dispuesto en el artículo 47 de la misma deberán otorgar una póliza de fianza para garantizar la adecuada prestación de los servicios, así como para responder por los daños y perjuicios que con motivo del desempeño de sus actividades ocasionen y en su caso, para el pago de sanciones económicas impuestas por la Secretaría y autoridades competentes.
 
 ###### Artículo 25.
 
@@ -431,9 +527,11 @@ La Secretaría de Finanzas y Administración del Gobierno del Estado de Baja Cal
 
 ### CAPÍTULO I. DE LAS MODALIDADES EN LOS SERVICIOS DE SEGURIDAD PRIVADA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 27.
 
-Es competencia de la Subsecretaría autorizar los Servicios de Seguridad Privada, de acuerdo a las modalidades siguientes:
+Es competencia de la Secretaría autorizar los Servicios de Seguridad Privada, de acuerdo a las modalidades siguientes:
 
 I.- Seguridad, Escolta y Protección Personal: Consiste en la protección, custodia, salvaguarda, defensa de la vida y de la integridad corporal del Prestatario o de quien este designe;
 
@@ -449,9 +547,21 @@ VI.- Servicio de Alarma, video vigilancia y Monitoreo Electrónico: La instalaci
 
 VII.- Actividad vinculada con servicios de seguridad privada: Se refiere a la actividad relacionada directa o indirectamente con la instalación o comercialización de sistemas de blindaje en todo tipo de vehículos automotores, y de los equipos, dispositivos, aparatos, sistemas o procedimientos técnicos especializados;
 
-VIII.- Fabricación, diseño, comercialización, almacenamiento, transportación o distribución de vestimenta, instrumentos, artículos o accesorios de seguridad pública o privada, y;
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
 
-IX.- Capacitación y adiestramiento en materia de seguridad privada.
+VIII.- Fabricación, diseño, comercialización, almacenamiento, transportación o distribución de vestimenta, instrumentos, artículos o accesorios de seguridad pública o privada;
+
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
+
+IX.- Capacitación y adiestramiento en materia de seguridad privada;
+
+> <small>(ADICIONADA, B.O. 17 DE ENERO DE 2024)</small>
+
+X.- Actividades de vigilancia interna realizadas por comités vecinales, en una colonia o fraccionamiento y cuya (sic) funciones y regulación se establece en el Reglamento de la presente ley, y
+
+> <small>(ADICIONADA, B.O. 17 DE ENERO DE 2024)</small>
+
+XI.- Las demás que se establezcan en el Reglamento.
 
 Los Prestadores de Servicios que hayan obtenido Autorización en las modalidades descritas en las fracciones I, II o III y cuenten con licencia particular, individual o colectiva, para la portación de armas de fuego otorgada por la Secretaría de la Defensa Nacional, deberán cumplir además con los requisitos establecidos en la Ley Federal de Armas de Fuego y Explosivos y su Reglamento.
 
@@ -509,19 +619,25 @@ c).- La atención de llamadas de los prestatarios y público en general.
 
 El Prestador de Servicios a que se refiere el presente capitulo exhibirá ante la Dirección copia certificada del modelo de contrato de servicios presentado ante la Procuraduría Federal de Protección al Consumidor, de igual forma, dará aviso cada vez que sea necesaria su renovación, y exhibir (sic) el nuevo contrato autorizado.
 
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 32.
 
-En caso de que el Prestador de Servicios subcontrate el servicio de monitoreo, la subcontratación deberá ser aprobada por la Dirección, pero la responsabilidad de la prestación del servicio recae sobre el Prestador de Servicios que contrato el prestatario. En el entendido que la persona física o moral que (sic) subcontratada deberá contar con autorización por parte de la Subsecretaría para prestar el servicio de monitoreo.
+En caso de que el Prestador de Servicios subcontrate el servicio de monitoreo, la subcontratación deberá ser aprobada por la Dirección, pero la responsabilidad de la prestación del servicio recae sobre el Prestador de Servicios que contrato el prestatario. En el entendido que la persona física o jurídica que (sic) subcontratada deberá contar con autorización por parte de la Secretaría para prestar el servicio de monitoreo.
 
 ###### Artículo 33.
 
 El Prestador de Servicios deberá informar por escrito en un plazo no mayor a cinco días hábiles, a la Dirección, sobre cualquier suspensión temporal o definitiva de labores, así como, de la disolución o liquidación del Prestador de Servicios y de cualquier procedimiento jurisdiccional que pueda tener como consecuencia la interrupción de sus actividades, en perjuicio del prestatario he (sic) dicho servicio.
 
-### CAPÍTULO III. DE LA AUTORIZACIÓN, MODIFICACIÓN Y REVALIDACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 17 DE ENERO DE 2024)</small>
+
+### CAPÍTULO III. DE LA AUTORIZACIÓN, MODIFICACIÓN, REVALIDACIÓN, SUSPENSIÓN Y REVOCACIÓN
+
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 2024)</small>
 
 ###### Artículo 34.
 
-La Autorización, Modificación o Revalidación que la Subsecretaría otorgue al peticionario para ser Prestador de Servicios, queda sujeta al estricto cumplimiento de las obligaciones establecidas en la presente Ley y demás disposiciones legales y administrativas aplicables. En el entendido que la Dirección, bajo su más estricta responsabilidad será la encargada de cuidar el cumplimiento de dichos requisitos.
+La Autorización, Modificación, Revalidación, Suspensión y Revocación que la Secretaría otorgue al peticionario para ser Prestador de Servicios, queda sujeta al estricto cumplimiento de las obligaciones establecidas en la presente Ley y demás disposiciones legales y administrativas aplicables. En el entendido que la Dirección, bajo su más estricta responsabilidad será la encargada de cuidar el cumplimiento de dichos requisitos.
 
 ###### Artículo 35.
 
@@ -537,17 +653,21 @@ Lo anterior sin perjuicio de la facultad que tiene la Dirección de negar autori
 
 La Autorización deberá revalidarse cada año, debiendo el Prestador de Servicios actualizar la póliza de fianza conforme a la unidad de medida y actualización vigente en el Estado, así como aquellas documentales que lo ameriten, tales como inventarios de bienes muebles e inmuebles, movimientos de personal, certificados de antecedentes penales, pago de derechos, modificaciones al acta constitutiva de la persona moral y representación de la misma, planes y programas de capacitación y adiestramiento y demás requisitos que por su naturaleza lo requieran.
 
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 38.
 
-En caso de que la documentación o información no cumpla con las condiciones a que se refiere el artículo anterior, o se presente incompleta, la Subsecretaría prevendrá al interesado para que en un plazo improrrogable de diez días hábiles contados a partir del día siguiente al en que se le haga saber tal situación, corrija las omisiones; transcurrido dicho plazo sin que el interesado las haya subsanado, la Revalidación será denegada.
+En caso de que la documentación o información no cumpla con las condiciones a que se refiere el artículo anterior, o se presente incompleta, la Secretaría prevendrá al interesado para que en un plazo improrrogable de diez días hábiles contados a partir del día siguiente al en que se le haga saber tal situación, corrija las omisiones; transcurrido dicho plazo sin que el interesado las haya subsanado, la Revalidación será denegada.
 
 ###### Artículo 39.
 
 Cada año, se publicará en el Boletín Oficial del Gobierno del Estado, así como en los medios electrónicos oficiales, los nombres de los Prestadores de Servicios que se encuentren autorizados y registrados, para conocimiento de la ciudadanía, misma información que deberá actualizarse durante los primeros cinco días de cada mes del año que transcurra.
 
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 40.
 
-El peticionario que haya obtenido la Autorización o Revalidación, podrá solicitar por escrito la modificación de las modalidades o el ámbito territorial en que preste el servicio, anexando a su petición, organigrama de cada nueva modalidad, manuales de procedimientos para cada nueva modalidad que solicite, así como equipo y programa de capacitación para sus nuevas modalidades, En este caso, la Subsecretaría resolverá lo procedente dentro de los diez días hábiles siguientes a la presentación de la solicitud, siempre que cumpla con los requisitos que resulten aplicables de acuerdo a la petición planteada.
+El peticionario que haya obtenido la Autorización o Revalidación, podrá solicitar por escrito la modificación de las modalidades o el ámbito territorial en que preste el servicio, anexando a su petición, organigrama de cada nueva modalidad, manuales de procedimientos para cada nueva modalidad que solicite, así como equipo y programa de capacitación para sus nuevas modalidades, En este caso, la Secretaría resolverá lo procedente dentro de los diez días hábiles siguientes a la presentación de la solicitud, siempre que cumpla con los requisitos que resulten aplicables de acuerdo a la petición planteada.
 
 ###### Artículo 41.
 
@@ -563,15 +683,19 @@ En caso de que el Prestador de Servicios no presente la solicitud de Revalidaci�
 
 La Autorización o Revalidación será otorgada cuando no se ponga en riesgo el interés público y se cumplan los requisitos establecidos en la presente Ley y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 44.
 
-Podrán prestar los Servicios de Seguridad Privada a que se refiere esta Ley, las personas físicas de nacionalidad mexicana y las personas morales constituidas conforme a las leyes mexicanas.
+Podrán prestar los Servicios de Seguridad Privada a que se refiere esta Ley, las personas físicas de nacionalidad mexicana y las personas jurídicas constituidas conforme a las leyes mexicanas.
 
 ###### Artículo 45.
 
 Para obtener la Autorización, el peticionario deberá presentar su solicitud ante la Dirección señalando el municipio o municipios y modalidad en que pretenda prestar sus servicios, así como cumplir con los siguientes requisitos:
 
-I.- Ser persona física o moral de nacionalidad mexicana, cuyo objeto social sea la prestación de Servicios de Seguridad Privada conforme a las modalidades establecidas en el artículo 30 de la presente Ley;
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
+
+I.- Ser persona física o jurídica de nacionalidad mexicana, cuyo objeto social sea la prestación de Servicios de Seguridad Privada conforme a las modalidades establecidas en el artículo 27 de la presente Ley;
 
 II.- Exhibir original del comprobante de pago de derechos por el estudio y trámite de la solicitud de Autorización;
 
@@ -621,13 +745,19 @@ XVIII.- Cuando se trate de bienes muebles e inmuebles blindados, exhibir la cons
 
 XIX.- Presentar copia del acuse de la solicitud correspondiente ante la Unidad Estatal de Protección Civil y la Unidad Municipal de Protección Civil, para formar parte del Sistema Estatal de Protección Civil;
 
-XX.- Exhibir los documentos correspondientes con los que acredite su Registro de Marca ante el Instituto Mexicano de la Propiedad Industrial, y;
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
 
-XXI.- Los demás que determine la Subsecretaría.
+XX.- Exhibir los documentos correspondientes con los que acredite su Registro de Marca ante el Instituto Mexicano de la Propiedad Industrial, y
+
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
+
+XXI.- Los demás que determine la Secretaría, y las que se establezcan en el Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE ENERO DE 2024)</small>
 
 ###### Artículo 46.
 
-El Prestador de Servicios que para el desempeño de sus actividades requiera la utilización de apoyo canino, equino o cualquier otro tipo de animal que cumpla con tales objetivos, deberá acreditar, en los términos que establezca la Subsecretaría el cumplimiento de la Norma Oficial y sujetarse a los siguientes lineamientos:
+El Prestador de Servicios que para el desempeño de sus actividades requiera la utilización de apoyo canino, equino o cualquier otro tipo de animal que cumpla con tales objetivos, deberá acreditar, en los términos que establezca la Secretaría el cumplimiento de la Norma Oficial y sujetarse a los siguientes lineamientos:
 
 I.- Incluir como parte del inventario a los animales para apoyo del servicio, informando al Registro, dentro de los primeros cinco días hábiles de cada mes, las modificaciones que se generen, indicando nombre, raza, sexo, edad, color, cartilla de vacunación, tipo de adiestramiento y características distintivas específicas de dichos animales;
 
@@ -646,6 +776,10 @@ La Dirección se apoyará en un médico veterinario zootecnista, así como del p
 De ser procedente la Autorización, el solicitante deberá presentar dentro de los diez días hábiles siguientes a la notificación de procedencia, póliza de fianza expedida por institución legalmente autorizada a favor de la Secretaría de Finanzas y Administración del Gobierno del Estado de Baja California Sur, por un monto equivalente a cinco mil veces la unidad de medida y actualización vigente en el Estado, para garantizar la adecuada prestación de servicios, así como responder por los daños y perjuicios que con motivo del desempeño de sus actividades ocasionen y en su caso, para el pago de sanciones económicas por incumplimiento a las disposiciones contenidas en esta Ley y otros ordenamientos legales aplicables.
 
 En caso de que la autoridad llegare a hacer efectiva la póliza de fianza, ya sea total o parcialmente, la persona física o moral correspondiente deberá actualizar el importe de la misma para mantener el monto de la garantía de cinco mil unidades de medida y actualización a que se refiere este artículo, debiendo presentarla a la Dirección en un plazo no mayor a treinta días hábiles contados a partir de la fecha en que se haga efectiva la misma. De no efectuarse la actualización de la garantía, se revocará la Autorización respectiva.
+
+> <small>(ADICIONADO, B.O. 17 DE ENERO DE 2024)</small>
+
+Se exceptúan del presente requisito a los comités o grupos organizados de vigilancia vecinal, conformados por vecinos de una colonia o fraccionamiento y cuya función se delimita a dicha zona y su regulación se contempla en el Reglamento de esta Ley.
 
 ### CAPÍTULO V. CLAVE ÚNICA DE IDENTIFICACIÓN DEL PERSONAL OPERATIVO
 
@@ -677,7 +811,9 @@ El Prestador de Servicios no podrá asignar Personal Operativo al desempeño de 
 
 Para obtener la CUIP ante la Dirección además de cumplir, con los requisitos establecidos en el artículo 53 de la presente Ley, deberá observar lo siguiente:
 
-I.- Presentar documentación que compruebe que el Personal Operativo está debidamente capacitado para desempeñarse en la modalidad en que prestará el servicio y haber aprobado los cursos de capacitación impartidos por las instituciones o personas físicas o morales autorizadas por la Dirección;
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
+
+I.- Presentar documentación que compruebe que el Personal Operativo está debidamente capacitado para desempeñarse en la modalidad en que prestará el servicio y haber aprobado los cursos de capacitación impartidos por las instituciones o personas físicas o jurídicas autorizadas por la Dirección;
 
 II.- Llenar los formatos que la Dirección le requiera, y;
 
@@ -689,9 +825,13 @@ b).- Original y copia de cartilla del servicio militar nacional liberada o carta
 
 c).- Original y copia del certificado que acredite haber concluido la enseñanza media básica para el Personal Operativo.
 
-d).- Original y copia del (sic) constancia de no antecedentes penales, y;
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 2024)</small>
 
-e).- Examen médico y toxicológico con antigüedad no mayor a seis meses.
+d).- Original y copia de la constancia de no antecedentes penales, y
+
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 2024)</small>
+
+e).- Examen médico y toxicológico con antigüedad no mayor a tres meses.
 
 ###### Artículo 50.
 
@@ -745,7 +885,9 @@ VII.- No haber sido revocada la CUIP al Personal Operativo o documento equivalen
 
 VIII.- No ser adicto a sustancias psicotrópicas o estupefacientes u otros productos que causen efectos similares, ni padecer alcoholismo.
 
-En caso de omisión o irregularidades en la información y documentación a que se refiere este artículo, la Subsecretaría le notificará al interesado que deberá subsanarlas dentro de los diez días hábiles siguientes al en que se le haga saber tal situación, apercibiéndolo de que, en caso de no hacerlo dentro de dicho plazo, se tendrá por no presentada la solicitud.
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 2024)</small>
+
+En caso de omisión o irregularidades en la información y documentación a que se refiere este artículo, la Secretaría le notificará al interesado que deberá subsanarlas dentro de los diez días hábiles siguientes al en que se le haga saber tal situación, apercibiéndolo de que, en caso de no hacerlo dentro de dicho plazo, se tendrá por no presentada la solicitud.
 
 ###### Artículo 54.
 
@@ -757,9 +899,11 @@ Los Prestadores de Servicios de Seguridad Privada, son auxiliares a la función 
 
 La Autorización obtenida para desempeñarse como Prestador de Servicios, no lo faculta para realizar investigaciones, intervenir o interferir en asuntos que sean competencia del Ministerio Público e instituciones de seguridad pública; en caso de que sucedan hechos que ameriten la intervención de la autoridad, la función del Personal Operativo a cargo del Prestador de Servicios, cesará en cuanto haga acto de presencia el Ministerio Público o personal de las instituciones policiales.
 
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 56.
 
-La Subsecretaría se abstendrá de otorgar la Autorización a quien pertenezca a las instituciones de seguridad pública federal, estatal o municipal, o bien, a las Fuerzas Armadas.
+La Secretaría se abstendrá de otorgar la Autorización a quien pertenezca a las instituciones de seguridad pública federal, estatal o municipal, o bien, a las Fuerzas Armadas.
 
 ## TÍTULO CUARTO. DE LAS OBLIGACIONES DEL PRESTADOR DE SERVICIOS Y PERSONAL OPERATIVO
 
@@ -839,7 +983,9 @@ XXXIII.- Mantener en estricta confidencialidad la información relacionada con e
 
 XXXIV.- Comunicar por escrito a la Dirección dentro de los tres días hábiles siguientes a que ocurra, cualquier situación que provoque la suspensión de la prestación del servicio para el cual le fue otorgada la Autorización correspondiente;
 
-XXXV.- Tratándose de Prestadores de Servicios que operen en la modalidad traslado de valores prevista en la fracción III del artículo 30 de la presente Ley, deberán utilizar vehículos blindados en óptimas condiciones de servicio.
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
+
+XXXV.- Tratándose de Prestadores de Servicios que operen en la modalidad (sic) traslado de valores prevista en la fracción III del artículo 27 de la presente Ley, deberán utilizar vehículos blindados en óptimas condiciones de servicio;
 
 XXXVI.- Registrar ante la Dirección los elementos caninos, equinos y cualquier otro animal con que operen y sujetar su utilización a las normas aplicables;
 
@@ -859,7 +1005,17 @@ XLIII.- Permitir el acceso, dar las facilidades necesarias, así como proporcion
 
 XLIV.- Informar a la Dirección las resoluciones emitidas en relación con las actividades de Servicios de Seguridad Privada autorizados por la autoridad federal al Prestador de Servicios, que tengan efectos en el Estado, y;
 
-XLV.- Las demás que establezca la presente Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 17 DE ENERO DE 2024)</small>
+
+XLV.- Tratándose de personal operativo que operen en la modalidad de la fracción I del artículo 27 de la presente ley, deberán abstenerse de utilizar o trasladar personal distinto al registrado ante la Secretaría, debiendo portar en todo momento, identificación de la empresa de seguridad privada, licencias particulares colectivas de armas y Cuip;
+
+> <small>(ADICIONADA, B.O. 17 DE ENERO DE 2024)</small>
+
+XLVI.- Tratándose de vehículos escolta designados para la prestación de los servicios o actividad de seguridad personal, el mismo deberá rotularse en lugares visibles de su carrocería la siguiente información: denominación, logotipo, número de autorización y las palabras vehículo escolta, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 17 DE ENERO DE 2024)</small>
+
+XLVII.- Las demás que establezca la presente Ley, y su Reglamento.
 
 ### CAPÍTULO II. DEL PERSONAL OPERATIVO
 
@@ -903,9 +1059,21 @@ XVII.- Cuando sea necesario hacer uso de la fuerza, deberá hacerlo de manera ra
 
 XVIII.- Someterse a los procesos de evaluación que determine la Dirección;
 
-XIX.- Conducirse en todo momento con profesionalismo, honestidad y respeto a los derechos humanos, evitando abusos, arbitrariedades y violencia; además de regirse por los principios de actuación y desempeño, y;
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
 
-XX.- Realizar sus funciones sin solicitar ni aceptar compensaciones, pagos o gratificaciones, a menos que sea con conocimiento y autorización previa del Prestador de Servicios; así como, denunciar cualquier acto de corrupción de que tengan conocimiento.
+XIX.- Conducirse en todo momento con profesionalismo, honestidad y respeto a los derechos humanos, evitando abusos, arbitrariedades y violencia; además de regirse por los principios de actuación y desempeño;
+
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
+
+XX.- Realizar sus funciones sin solicitar ni aceptar compensaciones, pagos o gratificaciones, a menos que sea con conocimiento y autorización previa del Prestador de Servicios; así como, denunciar cualquier acto de corrupción de que tengan conocimiento;
+
+> <small>(ADICIONADA, B.O. 17 DE ENERO DE 2024)</small>
+
+XXI.- El personal operativo con portación de armas de fuego deberá utilizar obligatoriamente la cedula de identificación que emite la empresa de seguridad privada, así como brindar las facilidades a las autoridades estatales y municipales en la materia al momento de realizar las revisiones o supervisiones correspondientes, y
+
+> <small>(ADICIONADA, B.O. 17 DE ENERO DE 2024)</small>
+
+XXII.- Las demás que se establezcan del Reglamento.
 
 ### CAPÍTULO III. DEL PERSONAL OPERATIVO CON PORTACIÓN DE ARMAS DE FUEGO
 
@@ -917,9 +1085,17 @@ I.- Acreditar que al menos ha concluido estudios de educación media básica;
 
 II.- Dar aviso de inmediato al Prestador de Servicios sobre el robo, pérdida o extravío del armamento que le haya sido asignado:
 
-III.- Cumplir con los requisitos y obligaciones establecidos en la Ley Federal de Armas de Fuego y Explosivos, y su Reglamento, y;
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
 
-IV.- Los demás que establezcan otras disposiciones legales aplicables.
+III.- Cumplir con los requisitos y obligaciones establecidos en la Ley Federal de Armas de Fuego y Explosivos, y su Reglamento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 17 DE ENERO DE 2024)</small>
+
+IV.- El personal operativo de las empresas de seguridad, únicamente utilizarán el uniforme, armamento, vehículos y equipo en los lugares y horarios establecidos para la prestación de los servicios acorde a la modalidad autorizada, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 17 DE ENERO DE 2024)</small>
+
+V.- Los demás que establezcan otras disposiciones legales aplicables.
 
 La póliza de fianza que establece el artículo 47 de esta Ley, podrá hacerse efectiva en caso de que se determine el pago de la responsabilidad pecuniaria derivada de la comisión de delitos por el Personal Operativo en agravio de los Prestatarios, de sus bienes, o de terceros, o para el pago de multas impuestas por incumplimiento a las disposiciones de esta Ley, independientemente de cualquier otra responsabilidad en que se incurra.
 
@@ -947,23 +1123,31 @@ La Dirección podrá acordar con el Prestador de Servicios, la instrumentación 
 
 La Dirección tendrá en todo momento la facultad de corroborar con los medios idóneos, que el Personal Operativo reciba la capacitación y adiestramiento en los términos de esta Ley.
 
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 64.
 
-La Dirección en coordinación con la Academia de Seguridad Pública generará un padrón de capacitadores especializados y acreditados con conocimientos teóricos y prácticos en materia de Seguridad Privada, los cuales serán certificados y evaluados por esta. El padrón será actualizado de manera constante y publicado en el portal electrónico de la Subsecretaría de Seguridad Pública del Estado, los primeros cinco días de cada mes, para tal efecto cada uno de los instructores o bien la Institución Privada acreditados contarán con un número de registro que le permitirá impartir capacitación en instalaciones propias, del prestador de servicios o de La Academia de Seguridad Pública del Estado, previo pago de derechos correspondiente a la Secretaría de Finanzas y Administración del Gobierno del Estado.
+La Dirección en coordinación con la Academia de Seguridad Pública generará un padrón de capacitadores especializados y acreditados con conocimientos teóricos y prácticos en materia de Seguridad Privada, los cuales serán certificados y evaluados por esta. El padrón será actualizado de manera constante y publicado en el portal electrónico de la Secretaría de Seguridad Pública del Estado, los primeros cinco días de cada mes, para tal efecto cada uno de los instructores o bien la Institución Privada acreditados contarán con un número de registro que le permitirá impartir capacitación en instalaciones propias, del prestador de servicios o de La Academia de Seguridad Pública del Estado, previo pago de derechos correspondiente a la Secretaría de Finanzas y Administración del Gobierno del Estado.
 
 ## TÍTULO QUINTO. DE LAS VISITAS DE INSPECCIÓNY (SIC) VERIFICACIÓN AL PRESTADOR DE SERVICIOS ASÍ COMO DEL PERSONAL OPERATIVO
 
 ### CAPÍTULO I. DE LAS INSPECCIONES AL PRESTADOR DE SERVICIOS
 
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 65.
 
-El titular de la Dirección y el personal adscrito a ésta, con el objeto de comprobar que las actividades de los Servicios de Seguridad Privada se realicen de conformidad con las disposiciones de la presente Ley y demás ordenamientos jurídicos aplicables, llevará a cabo visitas de inspección y verificación, las cuales podrán ser ordinarias o extraordinarias; las primeras se efectuarán en días y horas hábiles y las segundas en cualquier tiempo, pudiendo ser por determinación de la Subsecretaría o en atención a denuncia o queja que se reciba en contra del Prestador de Servicios o del Personal Operativo.
+El Titular de la Dirección y el personal adscrito a ésta, con el objeto de comprobar que las actividades de los Servicios de Seguridad Privada se realicen de conformidad con las disposiciones de la presente Ley y demás ordenamientos jurídicos aplicables, llevará a cabo visitas de inspección y verificación, las cuales podrán ser ordinarias o extraordinarias; las primeras se efectuarán en días y horas hábiles y las segundas en cualquier tiempo, pudiendo ser por determinación de la Secretaría o en atención a denuncia o queja que se reciba en contra del Prestador de Servicios o del Personal Operativo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE ENERO DE 2024)</small>
 
 ###### Artículo 66.
 
-Para practicar una visita de inspección y verificación, deberá estar precedida ineludiblemente de orden de inspección escrita, expedida por la Subsecretaría en la que se precisará lo siguiente:
+Para practicar una visita de inspección y verificación, deberá estar precedida ineludiblemente de orden de inspección escrita, expedida por la Secretaría en la que se precisará lo siguiente:
 
-I.- Nombre y firma del titular de la Subsecretaría que la expide;
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
+
+I.- Nombre y firma del Titular de la Secretaría que la expide;
 
 II.- Fecha y hora en que tendrá verificativo la visita de inspección;
 
@@ -989,9 +1173,11 @@ Si de la visita de inspección y verificación se detecta la probable comisión 
 
 La inspección tendrá lugar en las oficinas, instalaciones o lugares donde el Prestador de Servicios realice actividades y servicios, de igual manera podrá solicitarse el consentimiento de sus Prestatarios para verificar que el Servicio de Seguridad Privada se realice de conformidad con la modalidad autorizada y los lineamientos que señala la presente Ley y demás legislación aplicable.
 
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 70.
 
-Al constituirse en las oficinas o establecimientos del Prestador de Servicios, el personal actuante procederá a identificarse exhibiendo credencial vigente con fotografía expedida por la Subsecretaría que lo acredite para desempeñar dicha actividad. La diligencia deberá entenderse con el Prestador de Servicios o con quien tenga facultades para representarlo, haciéndole entrega de la orden de inspección y verificación.
+Al constituirse en las oficinas o establecimientos del Prestador de Servicios, el personal actuante procederá a identificarse exhibiendo credencial vigente con fotografía expedida por la Secretaría que lo acredite para desempeñar dicha actividad. La diligencia deberá entenderse con el Prestador de Servicios o con quien tenga facultades para representarlo, haciéndole entrega de la orden de inspección y verificación.
 
 ###### Artículo 71.
 
@@ -1021,9 +1207,11 @@ El Prestador de Servicios deberá señalar dos testigos de asistencia para la fi
 
 En caso de que el Prestador de Servicios, su representante, o con quien se entienda la diligencia, se negaren a firmar el acta o a señalar testigos en los términos del artículo anterior, quien realice la inspección, asentará dicha circunstancia, sin que ello afecte la validez de la misma.
 
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 78.
 
-La Dirección dentro de los quince días hábiles siguientes a la fecha de la conclusión de la inspección y verificación o, en su caso, al concluir el término a que se refiere el artículo 74 de esta Ley, dictará acuerdo en el cual determinará si ha lugar a establecer observaciones o recomendaciones y en su caso, si resulta procedente iniciar el procedimiento para la aplicación de sanciones, considerando en dicho acuerdo el resultado de la inspección, así como las manifestaciones y pruebas ofrecidas por el Prestador de Servicios. Dicho acuerdo será firmado por titular de la Subsecretaría bajo la más estricta responsabilidad del Director, quien firmará el mismo con la leyenda: estudió y acordó con el Subsecretario.
+La Dirección dentro de los quince días hábiles siguientes a la fecha de la conclusión de la inspección y verificación o, en su caso, al concluir el término a que se refiere el artículo 74 de esta Ley, dictará acuerdo en el cual determinará si ha lugar a establecer observaciones o recomendaciones y en su caso, si resulta procedente iniciar el procedimiento para la aplicación de sanciones, considerando en dicho acuerdo el resultado de la inspección, así como las manifestaciones y pruebas ofrecidas por el Prestador de Servicios. Dicho acuerdo será firmado por el Titular de la Secretaría bajo la más estricta responsabilidad del Director, quien firmará el mismo con la leyenda: estudió y acordó con el Secretario.
 
 ###### Artículo 79.
 
@@ -1047,15 +1235,19 @@ VIII.- Declaración del visitado, en su caso, y;
 
 IX.- Nombre y firma de quienes intervinieron en la diligencia.
 
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 80.
 
-La Dirección podrá en cualquier momento solicitar por conducto del titular de la Subsecretaría, el apoyo de las autoridades de seguridad pública estatal o municipal, para la realización de las visitas de inspección y verificación.
+La Dirección podrá en cualquier momento solicitar por conducto del Titular de la Secretaría, el apoyo de las autoridades de seguridad pública estatal o municipal, para la realización de las visitas de inspección y verificación.
 
 ### CAPÍTULO II. DE LA INSPECCIÓN Y VERIFICACIÓN AL PERSONAL OPERATIVO
 
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 81.
 
-El titular de la Dirección o el personal adscrito a ésta, cuentan con facultades para realizar visitas de inspección y verificación al Personal Operativo en los establecimientos en donde presten sus servicios; dichas visitas serán de carácter aleatorio y se realizarán con el objeto de verificar que los elementos cumplan con las obligaciones establecidas en este ordenamiento, previa autorización escrita del titular de la Subsecretaría.
+El Titular de la Dirección o el personal adscrito a ésta, cuentan con facultades para realizar visitas de inspección y verificación al Personal Operativo en los establecimientos en donde presten sus servicios; dichas visitas serán de carácter aleatorio y se realizarán con el objeto de verificar que los elementos cumplan con las obligaciones establecidas en este ordenamiento, previa autorización escrita del Titular de la Secretaría.
 
 ###### Artículo 82.
 
@@ -1073,33 +1265,43 @@ Procede la queja en contra de conductas realizadas por el Prestador de Servicios
 
 La queja deberá presentarse por escrito, en original y copia, ante la Dirección dentro de los quince días hábiles siguientes a la fecha en que haya sucedido el evento que motive su presentación, señalando los hechos y circunstancias relacionados con el mismo, así como los elementos que permitan identificar al Prestador de Servicios o Personal Operativo que haya incurrido en la conducta atribuida, ofreciendo los medios de prueba de que disponga.
 
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 85.
 
-Recibida la queja, la Subsecretaría dictará acuerdo en el que se resolverá si ha lugar a iniciar el procedimiento contra el presunto infractor. Dicho acuerdo será elaborado por el Director bajo su más estricta responsabilidad y firmado por el Subsecretario.
+Recibida la queja, el Secretario dictará acuerdo en el que se resolverá si ha lugar a iniciar el procedimiento contra el presunto infractor. Dicho acuerdo será elaborado por el Director bajo su más estricta responsabilidad y firmado por el Secretario.
 
 ###### Artículo 86.
 
 Cuando la queja sea anónima, sólo se le dará trámite cuando se proporcionen datos o elementos que permitan verificar la existencia de los hechos.
 
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 87.
 
-Cuando la denuncia o queja no proporcione elementos que permitan la identificación del Prestador de Servicios o del Personal Operativo involucrado, la Dirección, podrá realizar las diligencias que estime conducentes a fin de obtener datos que hagan posible la identificación. En caso de no obtenerse los elementos necesarios, se ordenará el archivo del expediente como asunto concluido, previo acuerdo con el titular de la Subsecretaría.
+Cuando la denuncia o queja no proporcione elementos que permitan la identificación del Prestador de Servicios o del Personal Operativo involucrado, la Dirección, podrá realizar las diligencias que estime conducentes a fin de obtener datos que hagan posible la identificación. En caso de no obtenerse los elementos necesarios, se ordenará el archivo del expediente como asunto concluido, previo acuerdo con el Titular de la Secretaría.
 
 ## TÍTULO SEXTO. DE LAS MEDIDAS DE SEGURIDAD Y DE LAS SANCIONES
 
 ### CAPÍTULO I. DE LAS MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 88.
 
-La Subsecretaría a través de la Dirección, de conformidad con esta Ley, con el fin de salvaguardar a las personas, sus bienes y entorno, así como la salud y seguridad pública, podrá adoptar como medida de seguridad la suspensión temporal, parcial o total de las actividades en la prestación de Servicios de Seguridad Privada.
+El Secretario a través de la Dirección, de conformidad con esta Ley, con el fin de salvaguardar a las personas, sus bienes y entorno, así como la salud y seguridad pública, podrá adoptar como medida de seguridad la suspensión temporal, parcial o total de las actividades en la prestación de Servicios de Seguridad Privada.
 
-En cualquiera de los supuestos mencionados que pongan en peligro la salud o la seguridad de las personas o sus bienes, la Subsecretaría a través de la Dirección podrá ordenar la medida de seguridad y su ejecución de inmediato:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 17 DE ENERO DE 2024)</small>
+
+En cualquiera de los supuestos mencionados que pongan en peligro la salud o la seguridad de las personas o sus bienes, la Secretaría a través de la Dirección podrá ordenar la medida de seguridad y su ejecución de inmediato:
 
 I.- A través del auxilio de la fuerza pública, o;
 
 II.- El señalamiento de un plazo razonable para subsanar la irregularidad, sin perjuicio de informar a las autoridades o instancias competentes para que procedan conforme a derecho.
 
-Asimismo, la Subsecretaría a través de la Dirección podrá acordar de manera inmediata la inmovilización y aseguramiento precautorio de los bienes y objetos utilizados para la prestación de Servicios de Seguridad Privada, cuando éstos sean utilizados en sitios públicos sin acreditar su legal posesión o inscripción, autorización y registro ante la Dirección.
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 2024)</small>
+
+Asimismo, la Secretaría a través de la Dirección podrá acordar de manera inmediata la inmovilización y aseguramiento precautorio de los bienes y objetos utilizados para la prestación de Servicios de Seguridad Privada, cuando éstos sean utilizados en sitios públicos sin acreditar su legal posesión o inscripción, autorización y registro ante la Dirección.
 
 Lo anterior, independientemente de las sanciones que correspondan conforme a las disposiciones de esta Ley.
 
@@ -1107,9 +1309,11 @@ Lo anterior, independientemente de las sanciones que correspondan conforme a las
 
 #### SECCIÓN PRIMERA. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 89.
 
-Las resoluciones de la Subsecretaría que impongan sanciones, deberán estar debidamente fundadas y motivadas, tomando en consideración:
+Las resoluciones de la Secretaría que impongan sanciones, deberán estar debidamente fundadas y motivadas, tomando en consideración:
 
 I.- La gravedad de la infracción;
 
@@ -1143,13 +1347,19 @@ Las sanciones impuestas al Prestador de Servicios, por conductas realizadas por 
 
 Las sanciones a que se refieren los (sic) artículo 98 del presente ordenamiento podrán aplicarse, según corresponda, de manera parcial o total, considerando que el Prestador de Servicios cuente con Autorización en una o más de las modalidades contempladas en esta Ley.
 
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 95.
 
-Las sanciones impuestas a los Prestadores de Servicios, serán difundidas a costa de éste en el Boletín Oficial de Gobierno del Estado y en la página electrónica de la Subsecretaría.
+Las sanciones impuestas a los Prestadores de Servicios, serán difundidas a costa de éste en el Boletín Oficial de Gobierno del Estado y en la página electrónica de la Secretaría.
+
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 2024)</small>
 
 ###### Artículo 96.
 
-La Subsecretaría podrá imponer simultáneamente una o más de las sanciones señaladas en este Capítulo. Asimismo, de conformidad con las leyes federales de la materia, hará del conocimiento de la Secretaría de la Defensa Nacional la sanción impuesta.
+La Secretaría podrá imponer simultáneamente una o más de las sanciones señaladas en este Capítulo. Asimismo, de conformidad con las leyes federales de la materia, hará del conocimiento de la Secretaría de la Defensa Nacional la sanción impuesta.
+
+El Secretario podrá imponer simultáneamente una o más de las sanciones señaladas en este Capítulo. Asimismo, de conformidad con las leyes federales de la materia, hará del conocimiento de la Secretaría de la Defensa Nacional la sanción impuesta.
 
 ###### Artículo 97.
 
@@ -1167,7 +1377,9 @@ II.- Multa de un mil hasta cinco mil veces la unidad de medida y actualización 
 
 III.- Suspensión de los efectos de la Autorización de uno a seis meses, en este caso la suspensión abarcará el ámbito territorial que tenga autorizado, incluida su oficina matriz en los siguientes casos:
 
-a).- Omitir el cumplimiento de las obligaciones previstas en las fracciones IV, IX, X, XIII, XIV, XVI, XIX, XXIV, XXIX, XXXII, XXXV, XXXVII, XLII, XLIV, XLV Y XLVI del artículo 57 de esta Ley;
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 2024)</small>
+
+a).- Omitir el cumplimiento de las obligaciones previstas en las fracciones IV, IX, X, XIII, XIV, XVI, XIX, XXIV, XXIX, XXXII, XXXV, XXXVII, XLII, XLIV, XLV, XLVI, XLVII y XLVIII del artículo 57 de esta Ley;
 
 b).- Abstenerse de cumplir la sanción pecuniaria impuesta;
 
@@ -1189,7 +1401,9 @@ e).- Transferir, gravar o enajenar en cualquier forma el permiso, autorización 
 
 f).- No subsanar las irregularidades que hubiera ameritado la aplicación de una sanción;
 
-g).- Transgredir lo previsto en las fracciones VII, XII, XXV, XXX, XXXIV, XXXVI del artículo 57 de esta Ley;
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 2024)</small>
+
+g).- Transgredir lo previsto en las fracciones VII, XII, XXV, XXX, XXXIV, XXXVI, XLVI y XLVII del artículo 57, XXI y XXII del artículo 58 y IV del artículo 59 de la presente Ley;
 
 h).- Haberse resuelto por autoridad judicial la comisión de ilícitos en contra de la persona o bienes del prestatario o de terceros, por parte del Prestador de Servicios;
 
@@ -1211,9 +1425,11 @@ l).- Haber obtenido la autorización mediante documentos, declaraciones, datos f
 
 El procedimiento para la aplicación de sanciones iniciará con el acuerdo que contenga el resultado de la visita de inspección y verificación, del que se advierta que el Prestador de Servicios o el Personal Operativo incumplieron con las obligaciones que establece la presente Ley, o bien, con el acuerdo que resuelva la procedencia de la queja interpuesta por afectados.
 
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 100.
 
-Iniciado el procedimiento, la Subsecretaría dictará acuerdo ordenando citar a una audiencia al quejoso, así como al Prestador de Servicios, señalando día y hora para su celebración, con la finalidad de que hagan las manifestaciones que consideren convenientes, ofrezca pruebas y alegatos, apercibiéndolos que de no acudir a dicha audiencia se tendrán por ciertos los hechos atribuidos.
+Iniciado el procedimiento, el Titular de la Secretaría dictará (sic) acuerdo ordenando citar a una audiencia al quejoso, así como al Prestador de Servicios, señalando día y hora para su celebración, con la finalidad de que hagan las manifestaciones que consideren convenientes, ofrezca pruebas y alegatos, apercibiéndolos que de no acudir a dicha audiencia se tendrán por ciertos los hechos atribuidos.
 
 ###### Artículo 101.
 
@@ -1245,9 +1461,11 @@ Para todo lo no previsto en este Capítulo respecto a las notificaciones, admisi
 
 ### CAPÍTULO II. DE LAS RESOLUCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 108.
 
-Las resoluciones que emita la Subsecretaría contendrán:
+Las resoluciones que emita la Secretaría contendrán:
 
 I.- Lugar y fecha de emisión;
 
@@ -1259,17 +1477,23 @@ IV.- Análisis de las pruebas y el valor que les corresponda;
 
 V.- Las consideraciones de hecho y de derecho que sustentan la resolución;
 
-VI.- Los puntos resolutivos, y;
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
 
-VII.- Nombre y firma del titular de la Subsecretaría.
+VI.- Los puntos resolutivos y,
+
+> <small>(REFORMADA, B.O. 17 DE ENERO DE 2024)</small>
+
+VII.- Nombre y firma del titular de la Secretaría.
 
 ### CAPÍTULO III
 
 DEL RECURSO DE RECONSIDERACIÓN.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 109.
 
-Los Prestadores de Servicios podrán interponer en contra de los acuerdos o resoluciones emitidas, por la Subsecretaría, inclusive las que pongan fin al procedimiento, el recurso de reconsideración por medio de escrito libre que deberá presentar dentro de los quince días siguientes a la notificación, ante la misma Subsecretaria, acompañado de la copia de la resolución que se impugna y la notificación respectiva, así como las pruebas en que lo sustente.
+Los Prestadores de Servicios podrán interponer en contra de los acuerdos o resoluciones emitidas, por la Secretaría, inclusive las que pongan fin al procedimiento, el recurso de reconsideración por medio de escrito libre que deberá presentar dentro de los quince días siguientes a la notificación, ante la misma Secretaría, acompañado de la copia de la resolución que se impugna y la notificación respectiva, así como las pruebas en que lo sustente.
 
 El recurso de reconsideración tendrá por objeto que la autoridad emisora, confirme, modifique, revoque o anule el acto administrativo recurrido.
 
@@ -1411,9 +1635,11 @@ No se podrán anular, revocar o modificar los actos o resoluciones administrativ
 
 ### CAPÍTULO IV. DE LA EJECUCIÓN DE SANCIONES
 
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 128.
 
-La Subsecretaría a través de la Dirección será la encargada de verificar el cumplimiento de las sanciones impuestas por contravenir las obligaciones que establece la presente Ley.
+La Secretaría a través de la Dirección será la encargada de verificar el cumplimiento de las sanciones impuestas por contravenir las obligaciones que establece la presente Ley.
 
 ###### Artículo 129.
 
@@ -1460,3 +1686,13 @@ CARLOS MENDOZA DAVIS
 SECRETARIO GENERAL DE GOBIERNO
 
 ALVARO DE LA PEÑA ANGULO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 17 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3018 SE MODIFICAN DIVERSAS DISPOSICIONES A LA LEY DE SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
