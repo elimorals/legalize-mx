@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-trabajadores-al-servicio-de-los-poderes-del-38547"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-23"
-last_updated: "2023-12-20"
+last_updated: "2024-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE ENERO DE 2024.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 23 de febrero de 2004.
 
@@ -454,6 +454,10 @@ b).- Acoso sexual, una forma de violencia en la que, si bien no existe la subord
 > <small>(ADICIONADA, B.O. 2 DE AGOSTO DE 2022)</small>
 
 XIII.- Implementar, en acuerdo con los trabajadores, un protocolo para prevenir la discriminación por razones de género y atención de casos de violencia y acoso u hostigamiento sexual.
+
+> <small>(ADICIONADA, B.O. 17 DE ENERO DE 2024)</small>
+
+XIV.- Promover e implementar acciones y programas internos que fomenten la salud mental y un entorno organizacional favorable, y que prevengan y mitiguen los factores de riesgo psicosocial que puedan provocar padecimientos de estrés, ansiedad, depresión y demás patologías dentro del entorno laboral. Las dependencias podrán realizar convenios con las Instituciones de Salud Pública para alcanzar estos objetivos.
 
 ###### ARTICULO 45.
 
@@ -1718,3 +1722,15 @@ SEGUNDO.- En un plazo de treinta días naturales, contados a partir de la entrad
 La falta de armonización de los Estatutos de los Sindicatos dentro del plazo establecido en el presente Decreto, no menoscabara el derecho de sus miembros a ejercer su voto personal, libre, directo y secreto en la elección de sus dirigencias. En este supuesto, en los procesos de renovación de los Comités Ejecutivo Estatal y Seccionales, próximas e inmediatas a celebrarse, las convocatorias que al efecto se emitan, deberán garantizar la observancia de lo previsto en el presente Decreto.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 17 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3017 SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 44 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- Publíquese el presente Decreto en Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El presente decreto entrará en vigor el 01 de enero del año 2024.
+
+TERCERO.- A partir de su entrada en vigor, los Titulares de los Poderes del Estado y Municipios contaran con 180 días para el debido cumplimiento de lo establecido en el presente Decreto.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
