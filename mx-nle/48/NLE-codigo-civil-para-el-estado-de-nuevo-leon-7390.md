@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2023-06-23"
+last_updated: "2024-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -2725,7 +2725,9 @@ Por violencia familiar se considera la conducta o el acto abusivo de poder u omi
 
 Para los efectos del Artículo anterior, los tipos de violencia familiar son:
 
-I. Psicológica: el trastorno mental que provoque modificaciones a la personalidad, o a la conducta, o ambas, resultante de la agresión;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
+
+I. Psicoemocional: Toda acción u omisión que puede consistir en prohibiciones, coacciones, condicionamientos, intimidaciones, insultos, amenazas, celotipia, desdén, indiferencia, descuido reiterado, chantaje, humillaciones, comparaciones destructivas, abandono o actitudes devaluatorias, entre otras; que provoquen en quien las recibe alteración autocognitiva y autovalorativa o alteraciones en alguna esfera o área de su estructura psíquica;
 
 II. Física: El acto que causa daño corporal no accidental a la víctima, usando la fuerza física o algún otro medio que pueda provocar o no lesiones, ya sean internas, externas o ambas, en base al dictamen emitido por los especialistas en la materia;
 
@@ -17882,3 +17884,9 @@ P.O. 23 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 409. SE REFORMAN LOS ARTÍCULOS 140, 147, 148, 291 BIS, Y DEL CÓDIGO CIVIL DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 17 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 478. SE REFORMA LA FRACCIÓN I, DEL ARTÍCULO 323 BIS 1 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
