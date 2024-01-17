@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2023-07-21"
+last_updated: "2024-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE ENERO DE 2024.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -2908,6 +2908,18 @@ Las personas adoptantes o adoptante y el adoptado tienen el deber de darse alime
 ###### Artículo 459.
 
 El obligado a dar alimentos cumple esta obligación asignando una pensión suficiente al acreedor alimentario, o incorporándolo a su familia. Si el acreedor se opone a ser incorporado, compete al Juez, según las circunstancias, fijar la manera de ministrar los alimentos.
+
+> <small>(ADICIONADO, B.O. 17 DE ENERO DE 2024)</small>
+
+Para los efectos previstos en el numeral 31 fracción V de la Constitución Política del Estado Libre y Soberano de Baja California Sur, será considerada como persona deudora alimentaria morosa, la persona que teniendo la obligación de proporcionar pensión alimenticia ordenada por un mandato judicial o establecida mediante convenio judicial, dejare de suministrarlos por más de treinta días continuos.
+
+> <small>(ADICIONADO, B.O. 17 DE ENERO DE 2024)</small>
+
+La declaratoria de morosidad a que se refiere el párrafo anterior, se tramitará a instancia de parte interesada y se emitirá previa vista a la contraparte por la autoridad jurisdiccional o por la instancia administrativa del Poder Judicial ante la cual se haya celebrado el convenio del que derive la obligación; informando a la Presidencia del Consejo de la Judicatura las declaraciones que con arreglo (sic) lo anterior se emitan, para efectos de registro y expedición de constancias.
+
+> <small>(ADICIONADO, B.O. 17 DE ENERO DE 2024)</small>
+
+La persona declarada como deudora alimentaria morosa, dejará de serlo, solo si acredita ante la autoridad judicial, o administrativa del Poder Judicial ante la cual se haya celebrado el convenio del que derive la obligación, que han sido cubiertos en su totalidad los adeudos que motivaron dicha declaratoria; lo que, de acontecer, será informado a la brevedad a la Presidencia del Poder Judicial.
 
 ###### Artículo 460.
 
@@ -16260,3 +16272,17 @@ B.O. 21 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 2929.-SE REFORMAN LOS ARTÍCULOS 330 Y 1540 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 17 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3020 SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 459 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+ARTÍULO PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo de la Judicatura del Poder Judicial del Estado de Baja California Sur, deberá expedir mediante Acuerdo General, los lineamientos para la tramitación de la constancia de no ser persona deudora alimentaria declarada judicialmente morosa, dentro de los diez días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente decreto.
