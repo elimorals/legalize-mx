@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2023-06-15"
+last_updated: "2024-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -1657,11 +1657,11 @@ En concordancia con el Derecho a la Educación, las autoridades competentes debe
 
 ### Capítulo Vigésimo Primero. Del Derecho a una Crianza Positiva
 
-> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2024)</small>
 
 ###### Artículo 100 Bis 4.
 
-Toda niña, niño y adolescente tiene derecho al buen trato y a la crianza positiva, entendiéndose esta, como las acciones que tienen por objeto brindar una educación con amor, sin violencia, basada en el respeto recíproco, la comunicación y la confianza mutua.
+Toda niña, niño y adolescente tiene derecho al buen trato y a la crianza positiva, entendiéndose esta, al conjunto de prácticas de cuidado, protección, formación y guía que permiten brindar una educación con amor, sin violencia, basada en el respeto recíproco, la comunicación y la confianza mutua, y que ayudan al desarrollo, bienestar y crecimiento saludable y armonioso de niñas, niños y adolescentes, tomando en cuenta su edad, facultades, características, cualidades, intereses, motivaciones, límites y aspiraciones; todo dentro de un marco de respeto a sus derechos.
 
 > <small>(REFORMADO, P.O. 26 DE ABRIL DE 2021)</small>
 
@@ -1675,11 +1675,11 @@ Castigo corporal o físico es todo aquel acto cometido en contra de niñas, niñ
 
 Castigo humillante es cualquier trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio y cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación, cometido en contra de niñas, niños y adolescentes.
 
-> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2024)</small>
 
 ###### Artículo 100 Bis 6.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligados a implementar mecanismos que garanticen la difusión, concientización y colaboración con quienes ejerzan tutela, guarda, custodia o relación con niñas, niños y adolescentes en materia de buen trato y crianza positiva.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligados a implementar mecanismos que garanticen la difusión, capacitación y concientización en materia de buen trato y crianza positiva, dirigida a madres, padres, así como a quienes ejerzan tutela, guarda, custodia o relación con niñas, niños y adolescentes.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ABRIL DE 2021)</small>
 
@@ -2682,3 +2682,9 @@ P.O. 15 DE JUNIO DE 2023.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- El Poder Ejecutivo del Estado contará con el plazo de un año, contado a partir de la entrada en vigor del presente Decreto, para adecuar las disposiciones reglamentarias necesarias para su cumplimiento.
+
+P.O. 17 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 597 POR EL QUE SE REFORMAN LOS ARTÍCULOS 100 BIS 4 Y 100 BIS 6 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación.
