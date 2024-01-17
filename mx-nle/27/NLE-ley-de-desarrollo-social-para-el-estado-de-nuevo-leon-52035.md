@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-social-para-el-estado-de-nuevo-leon-52035"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-16"
-last_updated: "2023-12-20"
+last_updated: "2024-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2006.
 
@@ -169,6 +169,10 @@ V. Ejercer fondos y recursos estatales y federales, descentralizados o convenido
 
 VI. Convenir acciones y programas sociales con el Gobierno Federal, los Municipios y la Sociedad Civil;
 
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
+
+VI Bis. Convenir con la Secretaría del Trabajo y en coordinación con los Municipios, la realización de campañas permanentes de capacitación para el trabajo y de asesoramiento para la búsqueda de empleo en zonas con situación de vulnerabilidad;
+
 VII. Vigilar que los recursos públicos que se destinan al desarrollo social se ejerzan con honradez, transparencia y equidad;
 
 VIII. Fomentar la participación de instituciones y asociaciones civiles, académicas y de investigación en la planeación, ejecución y evaluación de la Política Estatal de Desarrollo Social;
@@ -181,13 +185,17 @@ IX. Determinar las zonas de atención prioritaria en el Estado;
 
 X. Implementar programas sociales permanentes para el establecimiento de guarderías o estancias infantiles para apoyar a las madres y padres trabajadores;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
 
-XI. Implementar programas sociales para promover la inclusión tecnológica a las personas que se encuentren en situación de vulnerabilidad; y
+XI. Implementar programas sociales para promover la inclusión tecnológica a las personas que se encuentren en situación de vulnerabilidad;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE ENERO DE 2024)</small>
 
-XII. Las demás que señalen las disposiciones legales aplicables.
+XII. Implementar programas sociales para garantizar la atención y tratamiento en problemas de salud mental entre las personas en situación de vulnerabilidad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE ENERO DE 2024)</small>
+
+XIII. Las demás que señalen las disposiciones legales aplicables.
 
 ### CAPÍTULO II. ATRIBUCIONES DE LOS MUNICIPIOS
 
@@ -716,3 +724,15 @@ P.O. 20 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 465. SE REFORMA EL ARTÍCULO 9 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 17 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 473. SE REFORMA LA FRACCIÓN XI Y XII DEL ARTÍCULO 7; SE ADICIONA UNA FRACCIÓN XIII AL ARTÍCULO 7 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+P.O. 17 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 475. SE ADICIONA UNA FRACCIÓN VI BIS, AL ARTÍCULO 7 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación.
