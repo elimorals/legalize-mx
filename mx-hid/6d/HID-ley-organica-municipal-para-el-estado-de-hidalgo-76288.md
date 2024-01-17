@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2023-08-22"
+last_updated: "2024-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "HID"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 4 DE JUNIO DE 2024 Y EL 15 DE JULIO DE 2024 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -849,9 +851,9 @@ k).- Auxiliar a las autoridades sanitarias en la ejecución de sus disposiciones
 
 l).- Cuidar del mantenimiento y aseo de las calles, calzadas, avenidas, lugares públicos y de su relleno sanitario y promover la cultura de la limpieza y separación de residuos sólidos urbanos, de acuerdo al reglamento correspondiente; estableciendo la recolección selectiva en el municipio, incluyendo a los concesionarios que presten este servicio, diferenciando por días en orgánico e inorgánico la prestación del servicio de limpieza y recolección, conforme a los términos establecidos en la Ley de Prevención y Gestión Integral de Residuos del Estado de Hidalgo;
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2024)</small>
 
-l BIS).- Llevar a cabo la operación y mantenimiento del sitio de disposición final hasta la clausura y saneamiento final del mismo, de conformidad con la legislación ambiental aplicable y promover la cultura de la separación de residuos desde la fuente, implementando mecanismos que permitan su adecuado traslado y disposición final, mediante Programas de Prevención y Minimización de la generación de residuos;
+I BIS).- Llevar a cabo la operación y mantenimiento del sitio de disposición final hasta la clausura y saneamiento final del mismo, de conformidad con la legislación ambiental aplicable y promover la cultura de la separación de residuos desde la fuente, implementando mecanismos que permitan su adecuado traslado y disposición final, mediante Programas de Prevención y Minimización de la generación de residuos; para lo cual el Ayuntamiento deberá incluir la participación de la sociedad civil organizada desde las etapas iniciales del proceso de toma de decisiones, de manera que se garantice contar con la aprobación e inclusión de las localidades aledañas que, con motivo de la puesta en marcha de proyectos y actividades, tengan o puedan tener un impacto significativo sobre el medio ambiente;
 
 m).- Cuidar que las vías públicas se mantengan expeditas para el tránsito de peatones y vehículos;
 
@@ -883,9 +885,13 @@ t).- Autorizar al Presidente Municipal, la celebración de contratos con particu
 
 Los municipios, sólo podrán contraer deuda pública cuando esta se destine a inversión pública productiva en términos de la legislación aplicable. No constituirán deuda pública, las obligaciones directas a corto plazo que contraigan los municipios y que reunan los requisitos exigidos por la legislación vigente.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2024)</small>
 
-u).- Autorizar la nomenclatura de las calles, jardines, plazas y paseos públicos, así como instrumentar las medidas necesarias para que estás y sus topónimos, sean inscritos en español y en las lenguas indígenas de uso en el territorio, de acuerdo a su disponibilidad presupuestaria;
+u).- Autorizar la nomenclatura de las calles, jardines, plazas y paseos públicos, así como instrumentar las medidas necesarias para que éstas y sus topónimos sean inscritos en español y en las lenguas indígenas de uso en el territorio, de acuerdo a su disponibilidad presupuestaria. Además, se deberá verificar que la nomenclatura de las calles sea asignada atendiendo al principio de equidad entre nombres de hombres y mujeres;
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2024)</small>
+
+u Bis).- Autorizar, cada 8 de marzo, la nomenclatura de una calle asignándole preferentemente el nombre de una niña, adolescente o mujer destacada, merecedora del reconocimiento público, coincidiendo con el contexto histórico, social, cultural, político o geográfico del lugar;
 
 v).- Prevenir y sancionar, con el auxilio de las autoridades competentes, el alcoholismo, la prostitución, la adicción a las drogas y toda actividad que signifique perjuicio a la sociedad o sean considerados delitos federales o comunes;
 
@@ -908,6 +914,10 @@ aa) Implementar y promover políticas públicas, planes y programas municipales 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
 aa BIS).- Impulsar y fomentar la creación, operación o fortalecimiento de refugios para mujeres víctimas de violencia, así como de sus hijas e hijos;
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2024)</small>
+
+aa TER).- Impulsar e implementar, de acuerdo a la suficiencia presupuestal y en coordinación con las autoridades estatales competentes y la sociedad civil, la implementación de albergues destinados a personas en situación de calle, con el fin de preservar su dignidad, derechos y brindarles apoyo humanitario.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -941,9 +951,13 @@ ff BIS).- Garantizar el derecho de todos los habitantes del municipio a vivir en
 
 gg).- Aprobar el Atlas Municipal de Riesgos dentro de los ciento ochenta días naturales posteriores al inicio de la administración municipal, así como la actualización de este cada dos años, para lo cual deberán contemplar en su presupuesto de egresos el monto correspondiente para su elaboración o actualización;
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2024)</small>
 
-hh).- Promover condiciones para la participación de los municipios con el Estado en la preservación, conservación y restauración del equilibrio ecológico y protección al ambiente.
+hh).- Promover condiciones para la participación de los municipios con el Estado en la preservación, conservación y restauración del equilibrio ecológico y protección al ambiente, y
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2024)</small>
+
+ii).- Evaluar la terna propuesta por la Contraloría en términos de la fracción XII Bis del artículo 106, y designar a los auditores externos mejor calificados para los efectos correspondientes.
 
 II.- Asimismo, podrán:
 
@@ -1050,6 +1064,16 @@ En ninguna circunstancia, las y los ediles podrán renunciar a las facultades y 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
 Las y los ediles no podrán aprobar ningún acuerdo en el que le otorguen, concedan, confieran o cedan a la o el presidente municipal sus facultades y obligaciones o en el que renuncien a ellas. De igual forma por acuerdo la o el presidente municipal no podrá otorgar, conceder, conferir o ceder a ningún edil sus facultades y obligaciones o renunciar a ellas.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2024)</small>
+
+ARTÍCULO 56 BIS.- Las y los integrantes del Ayuntamiento observarán el cumplimiento y salvaguarda de las personas servidoras públicas de la administración pública municipal, siendo responsables de atender los procesos laborales que deriven en pago, generados durante su periodo de gestión.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2024)</small>
+
+ARTÍCULO 56 TER.- Los Ayuntamientos procurarán liquidar al término de su administración, los laudos que dicte el Tribunal Laboral competente en su contra, para lo cual deberá tomar las previsiones y acciones presupuestarias necesarias.
+
+Recibidos los laudos ejecutoriados por parte del Tribunal, los Ayuntamientos realizarán su despacho inmediato, con la finalidad de evitar su extensión en periodos administrativos posteriores a aquel en que se hayan recibido.
 
 ###### ARTÍCULO 57.
 
@@ -1331,6 +1355,18 @@ t).- Promover las acciones y ejecutar los programas sociales necesarios para la 
 
 u).- Las demás que le señalen el ordenamiento jurídico aplicable.
 
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2024)</small>
+
+ARTÍCULO 60 BIS.- Para los efectos correspondientes al pago de pasivos laborales por concepto de laudos ejecutoriados, el presidente o presidenta municipal deberá:
+
+I. Vigilar, por conducto de la autoridad correspondiente, el cumplimiento de los artículos 56 Bis y 56 Ter de la presente Ley;
+
+II. Informar al Ayuntamiento, de manera mensual, sobre la correspondencia recibida concerniente a litigios laborales que involucren a la administración municipal; y en su caso, someter a aprobación el pago de responsabilidades económicas derivadas de dichos conflictos laborales;
+
+III. Proponer los programas y acciones para la previsión y atención de las responsabilidades económicas derivadas de los conflictos laborales entre el Ayuntamiento y las personas servidoras públicas; y
+
+IV. Elaborar, en conjunto con las personas titulares de la Sindicatura y la Tesorería Municipal, el presupuesto correspondiente al pago de pasivos provenientes de conflictos laborales.
+
 ###### ARTÍCULO 61.
 
 Para los efectos de la fracción I inciso a) del artículo anterior, cuando el Ayuntamiento apruebe un reglamento o decreto será enviado al Presidente para su promulgación, sin más trámite y proveer en la esfera administrativa su debido cumplimiento.
@@ -1389,11 +1425,19 @@ I.- Vigilar, procurar y defender los intereses Municipales;
 
 II.- Representar jurídicamente al Ayuntamiento y en su caso nombrar apoderados;
 
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
+
+II Bis.- Supervisar a los apoderados en la correcta atención, seguimiento y defensa de los conflictos laborales que involucren a la administración municipal;
+
 III.- Cuidar que se observen escrupulosamente las disposiciones de esta Ley, para el efecto de sancionar cualquier infracción que se cometa;
 
 IV.- Revisar y firmar la cuenta pública, que deberá remitirse al Congreso del Estado conforme a la Legislación vigente e informar al Ayuntamiento, vigilando y preservando el acceso a la información que sea requerida por los miembros del Ayuntamiento;
 
 V.- Revisar y firmar los cortes de caja de la tesorería Municipal y cuidar que la aplicación de los gastos se haga con todos los requisitos legales y conforme al presupuesto respectivo;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
+
+V Bis.- Participar en la elaboración del presupuesto en lo relativo al pago de pasivos provenientes de conflictos laborales;
 
 VI.- Participar en la formación del inventario general de los bienes que integran el patrimonio Municipal, a que se refiere el Artículo 93 de esta Ley;
 
@@ -1419,6 +1463,10 @@ XIV.- Dar cuenta al Presidente y al Ayuntamiento del arreglo definitivo que se h
 
 XIV Bis. Presentar por escrito un informe anual de actividades y de gestión durante el mes de agosto, al Ayuntamiento;
 
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
+
+XIV Ter.- Informar al presidente o presidenta sobre cualquier irregularidad en la atención o defensa de los litigios laborales seguidos ante los tribunales competentes;
+
 > <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
 
 XV.- Presentar ante la Contraloría Municipal, su declaración patrimonial inicial, dentro de los sesenta días naturales siguientes a la toma de posesión; de modificación patrimonial, durante el mes de mayo de cada año; y de conclusión de encargo, dentro de los sesenta días naturales siguientes a ésta;
@@ -1433,9 +1481,9 @@ XVII.- Las demás que le concedan o le impongan la Ley, los reglamentos y acuerd
 
 Los Síndicos concurrirán a las sesiones del Ayuntamiento, con voz y voto; percibirán su dieta de asistencia que señale el presupuesto de egresos del Municipio y no podrán, en ningún caso, desempeñar cargos, empleos o comisiones remuneradas en la Administración Pública Municipal.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2024)</small>
 
-Cuando en el municipio de que se trate existan dos Síndicos, uno jurídico y el otro hacendario, al primero le corresponderán las facultades signadas en las fracciones I, II, III, VII, VIII, IX, XII, XIII, XIV y XVI; al segundo, las contenidas en las fracciones IV, V, VI, X y XI.
+Cuando en el municipio de que se trate existan dos Síndicos, uno jurídico y el otro hacendario, al primero le corresponderán las facultades signadas en las fracciones I, II, II Bis, III, V Bis, VII, VIII, IX, XII, XIII, XIV, XIV Bis, XIV Ter y XVI; al segundo, las contenidas en las fracciones IV, V, VI, X y XI.
 
 ###### ARTÍCULO 68.
 
@@ -1899,13 +1947,17 @@ II. Presupuestos de Egresos:
 
 a) Las prioridades de gasto, los programas y proyectos, así como la distribución del presupuesto, detallando el gasto en servicios personales, incluyendo el analítico de plazas y desglosando todas las remuneraciones;
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2024)</small>
 
-b) Las contrataciones de servicios por honorarios y, en su caso, previsiones para personal eventual; pensiones; gastos de operación, incluyendo gasto en comunicación social; gasto de inversión; así como gasto correspondiente a compromisos plurianuales, proyectos de asociaciones público privadas y proyectos de prestación de servicios, entre otros; y
+b) Las contrataciones de servicios por honorarios y, en su caso, previsiones para personal eventual; pensiones; gastos de operación, incluyendo gasto en comunicación social; gasto de inversión; así como gasto correspondiente a compromisos plurianuales, proyectos de asociaciones público privadas y proyectos de prestación de servicios, entre otros;
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2024)</small>
 
-c) Las previsiones para sufragar las erogaciones correspondientes al presupuesto participativo, el cual deberá ser ejercido conforme a lo establecido en la Ley de Participación Ciudadana para el Estado de Hidalgo, la normativa reglamentaria que emita el Ayuntamiento y demás disposiciones aplicables.
+c) Las previsiones para sufragar las erogaciones correspondientes al presupuesto participativo, el cual deberá ser ejercido conforme a lo establecido en la Ley de Participación Ciudadana para el Estado de Hidalgo, la normativa reglamentaria que emita el Ayuntamiento y demás disposiciones aplicables, y
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2024)</small>
+
+d) Las previsiones destinadas para el pago de pasivos laborales por concepto de laudos ejecutoriados.
 
 Los funcionarios de la administración pública municipal deberán comparecer ante el Ayuntamiento cuando se les requiera para aportar la información necesaria que contribuya a un mejor análisis de las Iniciativas.
 
@@ -2043,6 +2095,10 @@ f).- Si los pagos se hicieron con puntualidad o hay algún adelanto o atraso en 
 
 g).- Si los asientos se llevan al corriente.
 
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
+
+IX Bis.- Revisar el cumplimiento de las obligaciones financieras por concepto de laudos ejecutoriados, y
+
 X.- Las demás facultades que, en relación con la Hacienda Pública Municipal, sean conferidas a la Auditoría Superior del Estado en la Ley Orgánica respectiva.
 
 ###### ARTÍCULO 95.
@@ -2145,11 +2201,9 @@ Para ser Tesorero Municipal se requiere:
 
 I.- Ser ciudadano en pleno goce de sus derechos políticos y civiles;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2016)</small>
-
-II.- Contar con título profesional con experiencia mínima de un año;
+II.- Contar con título profesional preferentemente en contabilidad, finanzas públicas, administración o afines a las áreas económicas o contables administrativas, con experiencia mínima comprobable de un año en estas materias;
 
 III.- Ser de reconocida honorabilidad y honradez;
 
@@ -2221,6 +2275,10 @@ XXI.- Conformar y mantener actualizado el padrón de contribuyentes Municipales;
 
 XXII.- Proporcionar al Ayuntamiento y al Presidente Municipal los datos que éstos le soliciten respecto de las contribuciones que tienen;
 
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
+
+XXII Bis.- Proporcionar, para la formulación del proyecto de Presupuesto de Egresos Municipales, la información relativa a la solución, o en su caso, al pago derivado de conflictos laborales;
+
 XXIII.- Comparecer ante el Ayuntamiento, cuando sea requerido;
 
 XXIV.- Practicar diariamente, corte de caja de primera operación en el libro respectivo e informar al Presidente Municipal;
@@ -2281,7 +2339,13 @@ X.- Recepcionar, registrar y resguardar las declaraciones de situación patrimon
 
 XI.- Substanciar los procedimientos administrativos que resulten con motivo de la falta de presentación de las declaraciones de situación patrimonial y de intereses que se encuentran obligados los servidores públicos;
 
-XII.- Designar a los auditores externos y comisarios de los Organismos que integran la Administración Pública Municipal Descentralizada;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
+
+XII.- Designar a los comisarios de los organismos que integran la administración pública municipal descentralizada;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
+
+XII Bis.- Proponer al Ayuntamiento, dentro de los primeros quince días del mes de agosto de cada año, una terna de auditores externos inscritos y vigentes en el Padrón de Proveedores del Gobierno del Estado de Hidalgo, para efecto de su designación conforme a las necesidades correspondientes;
 
 XIII.- Informar al Presidente Municipal el resultado de las evaluaciones realizadas y proponer las medidas correctivas que procedan;
 
@@ -2312,6 +2376,10 @@ XVII.- Verificar que se cumplan las disposiciones legales, normas, políticas y 
 XVIII.- Vigilar que los recursos y aportaciones, Federales y Estatales asignados al Municipio, se apliquen en los términos estipulados en las Leyes, Reglamentos y Convenios respectivos;
 
 XIX.- Colaborar con la Secretaría de Contraloría del Gobierno del Estado y con la Auditoría Superior del Estado para el cumplimiento de las atribuciones que les competan;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
+
+XIX Bis.- Solicitar, en caso de considerarlo necesario, asesoría y apoyo en materia de investigación, sustanciación y resolución, al Instituto Hidalguense para el Desarrollo Municipal y/o a la Secretaría de Contraloría del Estado de Hidalgo;
 
 XX.- Participar en la entrega-recepción de las unidades administrativas de las dependencias y entidades del Municipio, conjuntamente con el Síndico;
 
@@ -2407,9 +2475,11 @@ XXI. Los demás que los Reglamentos Municipales determinen, según sus condicion
 
 Estos servicios podrán prestarse con el concurso del Gobierno del Estado, mediante convenio cuando, previa autorización del Ayuntamiento, lo soliciten las autoridades Municipales en términos de Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 109.
 
-La prestación de los servicios públicos a cargo de los Ayuntamientos, podrá concesionarse en términos de lo que dispongan sus reglamentos respectivos; particularmente, aquéllos que no afecten la estructura y organización Municipal, ni a las personas físicas o morales. En igualdad de circunstancias, se preferirá a los vecinos del municipio para otorgar la concesión.
+La prestación de los servicios públicos a cargo de los Ayuntamientos, podrá concesionarse en términos de lo que disponga esta Ley y los reglamentos municipales respectivos. En igualdad de circunstancias, se preferirá a los vecinos del municipio para otorgar la concesión.
 
 No serán objeto de concesión los servicios de Seguridad Pública, Tránsito, Protección Civil, Registro del Estado Familiar y Sanidad.
 
@@ -2417,9 +2487,11 @@ No serán objeto de concesión los servicios de Seguridad Pública, Tránsito, P
 
 Cuando los servicios públicos sean prestados directamente por el Ayuntamiento, serán administrados con la vigilancia del Presidente o por la de los órganos Municipales respectivos, en la forma que determinen sus reglamentos.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 111.
 
-Cuando los servicios públicos Municipales sean concesionados a particulares, se sujetarán a las disposiciones de esta Ley, así como a los decretos y reglamentos del Municipio de que se trate.
+Cuando los servicios públicos municipales sean concesionados a particulares, la prestación de estos deberá sujetarse a las disposiciones de esta Ley, los reglamentos en la materia, las cláusulas de la concesión y las demás disposiciones aplicables.
 
 ### CAPÍTULO SEXTO. DE LA ASISTENCIA SOCIAL
 
@@ -2796,6 +2868,16 @@ Artículo 129 OCTIES.- El aprovechamiento de los residuos sólidos y de manejo e
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
 Artículo 129 NONIES.- La disposición de residuos sólidos urbanos o de manejo especial en rellenos sanitarios, será considerada como la última opción, una vez que se hayan agotado las posibilidades de aprovechar o tratar los residuos por otros medios, con la finalidad de alinear el manejo de residuos con el enfoque de los principios de economía circular.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2024)</small>
+
+Artículo 129 DECIES.- Los Ayuntamientos tendrán la obligación de realizar un registro de personas recicladoras en su municipio; el cual será abierto, público, voluntario y gratuito.
+
+La inscripción en el registro bajo ninguna circunstancia condicionará la realización de las actividades propias de las personas recicladoras.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2024)</small>
+
+Artículo 129 UNDECIES.- Las personas recicladoras deberán participar en la elaboración del Programa Municipal de Prevención y Gestión Integral de Residuos Sólidos, en los términos que determine la normativa del propio Ayuntamiento.
 
 ###### ARTÍCULO 127.
 
@@ -3267,6 +3349,8 @@ VI. Proponer la creación, promoción, mantenimiento y mejora de los recursos tu
 
 ### CAPÍTULO SEGUNDO. DE LAS CONCESIONES DE LOS SERVICIOS PÚBLICOS MUNICIPALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2024)</small>
+
 ## TÍTULO SÉPTIMO. DE LA MUNICIPALIZACIÓN Y CONCESIÓN DE LOS SERVICIOS PÚBLICOS
 
 ### CAPÍTULO PRIMERO. DE LA CONCILIACIÓN MUNICIPAL
@@ -3285,9 +3369,11 @@ I.- Resulten deficientes o irregulares; o
 
 II.- Causen perjuicios graves a la colectividad.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 148.
 
-El procedimiento de municipalización, se llevará a cabo a iniciativa del propio Ayuntamiento o a solicitud de la mayoría de los usuarios.
+El procedimiento de municipalización, se llevará a cabo a iniciativa del propio Ayuntamiento o a solicitud de los usuarios.
 
 ###### ARTÍCULO 149.
 
@@ -3305,105 +3391,247 @@ En caso de que se apruebe la municipalización del servicio y el Municipio carez
 
 ###### ARTÍCULO 152.
 
-La concesión de servicios públicos Municipales a particulares es un acto jurídico administrativo por medio del cual el Municipio faculta a una persona física o moral la explotación de bienes y servicios que le pertenecen, delega su ejercicio o aprovechamiento a favor de un tercero y se sujetarán a las disposiciones de esta Ley, a los Reglamentos Municipales en la materia y a las que determine el Ayuntamiento.
+La concesión de servicios públicos municipales a particulares es un acto jurídico administrativo por medio del cual el Municipio faculta a una persona física o moral la explotación de bienes y servicios que le pertenecen, delega su ejercicio o aprovechamiento a favor de un tercero, satisfaciendo necesidades de interés general.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2024)</small>
+
+Las concesiones no podrán transmitirse bajo ningún título, salvo en los casos en que el Ayuntamiento así lo autorice.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 153.
 
-Toda concesión de servicios públicos Municipales a particulares, debe satisfacer lo siguiente:
+El otorgamiento de concesiones de servicios públicos municipales se sujetará al reglamento respectivo, conforme a las siguientes bases:
 
-I.- Se otorgará por tiempo determinado. Cuando exceda de la vigencia de la administración Municipal que la conceda, deberá autorizarse por las dos terceras partes del Ayuntamiento;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
 
-II.- El costo de la prestación del servicio será por cuenta del concesionario;
+I.- El Ayuntamiento deberá aprobar y publicar la determinación relativa a la necesidad de otorgar en concesión el servicio público del que se trate, motivando la imposibilidad de prestarlo directamente o la conveniencia de otorgarlo en concesión;
 
-III.- Se determinará el equipo y maquinaria que debe adquirir y las obras e instalaciones que deba realizar el concesionario, para destinarlos a la prestación del servicio, así como el plazo en que deben llevarse a efecto las adquisiciones y construcciones respectivas y la afectación correspondiente;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
 
-IV.- El concesionario, está obligado a conservar en buenas condiciones los bienes afectos al servicio; a adquirir, renovar y modernizar la maquinaria y el equipo y adecuar las instalaciones destinadas a su debida prestación, conforme a las instrucciones que para el efecto gire el Ayuntamiento;
+II.- El Ayuntamiento emitirá convocatoria pública en la cual se estipularán las bases, condiciones, criterios de elegibilidad y plazos para el otorgamiento de la concesión;
 
-V.- El concesionario, está obligado a otorgar garantía a favor del Municipio para asegurar el cumplimiento de las obligaciones que adquiera conforme a lo previsto en esta Ley y sus reglamentos. La clase y monto de la garantía serán fijados por el Ayuntamiento, quien podrá ampliar su importe durante la vigencia de la concesión cuando a su juicio sea insuficiente;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
+
+III.- Los interesados deberán formular la solicitud respectiva cubriendo los gastos que demanden los estudios correspondientes;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
+
+IV.- Se fijarán condiciones que garanticen la generalidad, suficiencia, permanencia, regularidad, continuidad y uniformidad en el servicio público o la actividad por realizar;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
+
+V.- El concesionario estará obligado a conservar en buenas condiciones los bienes destinados al servicio; a adquirir, renovar y modernizar la maquinaria y el equipo, así como a adecuar las instalaciones destinadas a su debida prestación;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE ENERO DE 2024)</small>
 
 VI.- El Ayuntamiento determinará las tarifas que debe cobrar el concesionario a los usuarios por la prestación del servicio;
 
-VII.- El concesionario estará obligado a prestar el servicio de manera uniforme, regular y continua a toda persona que lo solicite;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
 
-VIII.- El concesionario estará obligado a cumplir las disposiciones del Ayuntamiento para adecuar la prestación del servicio a las necesidades colectivas que debe satisfacer y para solucionar las deficiencias en la actividad de áquel;
+VII.- El costo de la prestación del servicio será por cuenta del concesionario;
 
-IX.- El Ayuntamiento podrá autorizar al Presidente Municipal para ocupar temporalmente el servicio público e intervenir en su administración, cuando el concesionario no lo preste eficazmente, se niegue a seguir prestándolo o no mantenga los bienes afectos al servicio en buen estado;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
 
-X.- Se señalarán las causas de cancelación y caducidad de la concesión y las condiciones para su prórroga; y
+VIII.- Se determinará el régimen a que se sujetarán las concesiones o actividad de que se trate, su vigencia, mecanismos de vigilancia, causas de caducidad, prescripción, renuncia y revocación; así como las demás formas y condiciones necesarias para garantizar la adecuada prestación del servicio o actividad respectiva;
 
-XI.- El Ayuntamiento tendrá la facultad irrenunciable para que, administrativamente, cancele, declare la caducidad, concluya el plazo o dé por terminada anticipadamente la concesión.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
+
+IX.- Se establecerán los procedimientos para dirimir las controversias entre el Ayuntamiento y el concesionario;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
+
+X.- Se fijarán condiciones en las que se otorgarán fianzas y garantías a cargo del concesionario o peticionario y a favor del municipio para asegurar la prestación del servicio o actividad de que se trate, y
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
+
+XI.- Se fijarán las demás condiciones que fueren necesarias para la prestación eficaz del servicio o actividad de que se trate.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 154.
 
-El concesionario de un servicio público Municipal deberá satisfacer los siguientes requisitos:
+Para ser concesionario de un servicio público municipal se deberán satisfacer los siguientes requisitos:
 
 I.- Ser persona física o moral de nacionalidad mexicana;
 
-II.- Gozar de reconocida solvencia moral y no haber sido condenado por delito doloso; y
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
 
-III.- No ser titular de otra concesión otorgada por el mismo Municipio.
+II.- No estar condenado por delito doloso;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
+
+III.- No ser titular de otra concesión otorgada por el mismo Municipio;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
+
+IV.- No estar inhabilitado para participar en adquisiciones, arrendamientos, servicios u obras del sector público, y
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
+
+V.- Contar con la capacidad técnica y financiera para prestar el servicio público.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2024)</small>
+
+###### ARTÍCULO 154 Bis.
+
+Las concesiones no podrán en ningún caso otorgarse a:
+
+I.- Integrantes del Ayuntamiento;
+
+II.- Personas titulares de alguna dependencia, organismo, unidad, delegación o representación de la administración pública federal, estatal o municipal;
+
+III.- Cónyuges, concubinas, concubinarios, parientes consanguíneos o por afinidad hasta el segundo grado, de alguna persona que se encuentre en los supuestos de las fracciones I y II de este artículo, y
+
+IV.- Personas morales en las que figuren como socios, accionistas, asociados, administradores, representantes o alguna de las personas a las que se refieren las fracciones I, II y III de este artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 155.
 
-Son causas de terminación administrativa de las concesiones:
+Son causas de terminación de las concesiones:
 
-I.- La conclusión del plazo;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
 
-II.- La terminación anticipada;
+I.- La conclusión del plazo o del objeto para el que fueron otorgadas;
 
-III.- La caducidad; y
+II.- (DEROGADA, P.O. 17 DE ENERO DE 2024)
 
-IV.- La cancelación.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
+
+III.- La caducidad;
+
+IV.- (DEROGADA, P.O. 17 DE ENERO DE 2024)
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
+
+V.- El acuerdo entre las partes involucradas;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
+
+VI.- La revocación por parte del Ayuntamiento;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
+
+VII.- La renuncia, en caso de que se haya establecido que sea procedente;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
+
+VIII.- La destrucción, agotamiento o desaparición de los elementos necesarios para el ejercicio de la concesión;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
+
+IX.- La declaración de ausencia, presunción de muerte o muerte de la persona física concesionaria; o la liquidación, fusión o escisión de la personal moral concesionaria;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
+
+X.- La expropiación, y
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
+
+XI.- La municipalización.
 
 ###### ARTÍCULO 156.
 
-Cuando el interés público así lo requiera, el Ayuntamiento podrá, unilateralmente, terminar anticipadamente la concesión sin que exista motivo de cancelación, caducidad, rescisión, nulidad o incumplimiento de las obligaciones del concesionario, para lo cual dará aviso por escrito al concesionario, con noventa días de anticipación de su voluntad.
+(DEROGADO, P.O. 17 DE ENERO DE 2024)
 
-Terminada anticipadamente la concesión, el Municipio, asumirá en forma directa la prestación del servicio y a su vez el concesionario deberá entregar al Ayuntamiento todos y cada uno de los bienes propiedad del mismo que se encuentren en su poder con motivo del servicio.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 157.
 
-Las concesiones caducan cuando por causas imputables al concesionario:
+Las concesiones caducan en cualquiera de los siguientes casos:
 
-I.- No se inicie la prestación del servicio, dentro del plazo señalado en la concesión; o
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
 
-II.- El concesionario no haya realizado las obras e instalaciones o no haya adquirido la maquinaria y equipo en el plazo y conforme a las especificaciones acordadas por el Ayuntamiento para la prestación del servicio.
+I.- Cuando no se inicie la prestación del servicio o la actividad de que se trate, dentro del plazo señalado en la concesión;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
+
+II.- Cuando el concesionario no haya realizado lo convenido con el Ayuntamiento, conforme a las especificaciones para la prestación del servicio o la actividad de que se trate; o
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
+
+III.- Cuando el concesionario no otorgue en tiempo y forma las garantías que se le fijen para que tenga vigencia la concesión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 158.
 
-Las concesiones se cancelarán cuando el concesionario:
+Los Ayuntamientos podrán revocar las concesiones cuando el concesionario:
 
-I.- Preste el servicio de manera distinta a la establecida por la concesión, no lo realice de manera regular, continua, uniforme o adecuada a la necesidad colectiva que debe satisfacer;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
 
-II.- No otorgue o amplíe las garantías en los términos que le fueron fijadas;
+I.- Preste el servicio o la actividad de que se trate de manera distinta a la establecida en la concesión; o no realice de manera regular, suficiente y eficiente el servicio o la actividad en los términos acordados;
+
+II.- (DEROGADA, P.O. 17 DE ENERO DE 2024)
 
 III.- Enajene o de alguna manera, constituya un gravamen de cualquier especie sobre la concesión o algunos de los derechos en ella establecidos o los bienes destinados al servicio público propiedad del Municipio;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
 
-IV.- A juicio del Ayuntamiento deje de prestar el servicio en todo o en parte, temporal o permanentemente sin causa justificada o sin previa autorización por escrito;
+IV.- Haya dejado de prestar el servicio o la actividad en todo o en parte, temporal o permanentemente, a excepción de que exista previa autorización por escrito del Ayuntamiento, caso fortuito o fuerza mayor;
 
 V.- Modifique las tarifas sin autorización del Ayuntamiento;
 
 VI.- Modifique o altere substancialmente la naturaleza o condiciones en que deba operar el servicio, las instalaciones, equipo y maquinaria, sin la previa autorización por escrito del Ayuntamiento;
 
-VII.- Omita conservar los bienes destinados al servicio en buen estado o cuando estos sufran deterioro por su negligencia, con perjuicio para la prestación normal del servicio y para los intereses del Municipio;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
 
-VIII.- Pierda capacidad económica o carezca de los elementos materiales o técnicos para la prestación del servicio; y
+VII.- Omita conservar los bienes o instalaciones destinados al servicio o actividad de que se trate en buen estado, o cuando estos sufran deterioro por su negligencia, con perjuicio para la prestación normal del servicio o para los fines acordados;
 
-IX.- Deje de cumplir con las demás obligaciones que en su caso contemplen las leyes y reglamentos en la materia aplicable al objeto de la concesión.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
+
+VIII.- No esté capacitado o carezca de los elementos materiales, técnicos y financieros para la prestación del servicio; y
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
+
+IX.- Deje de cumplir con las obligaciones derivadas de la concesión fijadas por el Ayuntamiento, los reglamentos y las leyes respectivas, o
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
+
+X.- Incurra en cualquier otra causa análoga e igualmente grave, que haga imposible la prestación del servicio o la actividad de que se trate o contravenga las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2024)</small>
+
+###### ARTÍCULO 158 Bis.
+
+El procedimiento para la revocación de las concesiones se substanciará y resolverá en los términos que establezca el reglamento respectivo, con sujeción a las siguientes bases:
+
+I.- Se iniciará de oficio o a petición de parte;
+
+II.- Se notificará la iniciación del procedimiento al concesionario, a efecto de que manifieste lo que a su interés convenga y ofrezca las pruebas que estime pertinentes;
+
+III.- Se practicarán los estudios respectivos y se formulará el dictamen que verse sobre la procedencia o improcedencia de la revocación, y
+
+IV.- Concluido lo anterior, el Ayuntamiento dictará la declaratoria correspondiente, debidamente fundada y motivada.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2024)</small>
+
+###### ARTÍCULO 158 Ter.
+
+En los casos en que se determine la revocación de las concesiones, los bienes con los que se presta el servicio o la actividad de que se trate serán entregados inmediatamente al municipio, con excepción de aquella que sean propiedad del concesionario y que por su naturaleza no estén incorporados de manera directa al propio servicio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 159.
 
-Las concesiones podrán prorrogarse si el Ayuntamiento lo considera conveniente, por un plazo igual para el que fue otorgada, siempre y cuando:
+Las concesiones podrán prorrogarse si el Ayuntamiento lo considera conveniente, siempre y cuando se cumplan los siguientes requisitos:
 
-I.- La petición haya sido formulada por escrito, dentro del mes anterior a la fecha de su vencimiento;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
 
-II.- Subsista la necesidad del servicio;
+I.- El concesionario formule petición por escrito, con al menos treinta días de anticipación a la fecha del vencimiento de la concesión;
 
-III.- Se haya prestado ésta en forma eficiente; y
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
 
-IV.- Que las instalaciones y equipo se encuentren en condiciones para la prestación del servicio, por el tiempo que se haya concedido la prórroga.
+II.- Subsista la imposibilidad del Ayuntamiento de prestar directamente el servicio o la conveniencia de otorgarlo en concesión;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
+
+III.- El interesado acredite la prestación eficiente del servicio concesionado, y
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
+
+IV.- Las instalaciones y/o equipo se encuentren en condiciones para la adecuada prestación del servicio, por el tiempo que se pretenda conceder la prórroga.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -3443,17 +3671,21 @@ Los requisitos para ser conciliador Municipal serán:
 
 I.- Contar con título y cédula profesional de licenciatura en derecho; con experiencia mínima de un año en el ejercicio de su profesión; salvo que en el municipio de que se trate no exista profesionista en ese ramo;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
 
-II.- No estar condenado por delito doloso; y
+II.- No estar condenado por delito doloso;
 
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
 
-III.- No estar condenado por delito doloso; y
+III.- No estar inhabilitado para desempeñarse en un cargo, empleo o comisión en el servicio público;
 
-> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
 
-IV. Contar preferentemente con la certificación o certificaciones que las autoridades estatales emitan en la materia.
+IV.- Contar preferentemente con la certificación o certificaciones que las autoridades estatales emitan en la materia; y
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
+
+V.- Contar con experiencia acreditable en materia de derechos humanos.
 
 La integración, organización y funcionamiento de la instancia administrativa conciliadora será la que se establezca en el reglamento que al efecto expida el Ayuntamiento, de acuerdo al presupuesto asignado.
 
@@ -4236,3 +4468,19 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su public
 SEGUNDO. A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
 
 TERCERO. Las personas candidatas electas en el proceso electoral 2023-2024, en el que se celebre la elección de Ayuntamientos, podrán ejercer el derecho a participar en la elección consecutiva al mismo cargo, en el proceso electoral 2026-2027, cuya elección se celebre el primer domingo de junio del año 2027.
+
+P.O. 17 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 589 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO Y DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 591 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los Ayuntamientos de los municipios del Estado contarán con un plazo de ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto para adecuar su normativa reglamentaria aplicable.
