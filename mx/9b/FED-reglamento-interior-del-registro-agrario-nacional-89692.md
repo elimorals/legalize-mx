@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-registro-agrario-nacional-89692"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-11"
-last_updated: "2012-10-11"
+last_updated: "2024-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2012-10-09"
 ---
 # REGLAMENTO INTERIOR DEL REGISTRO AGRARIO NACIONAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL REGISTRO AGRARIO NACIONAL, PUBLICADO EN EL D.O.F. DE 17 DE ENERO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL REGISTRO AGRARIO NACIONAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2024 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 11 de octubre de 2012.
 
@@ -1258,3 +1260,31 @@ III. La Dirección General de Delegaciones, se entenderán hechas a la Coordinac
 IV. La Unidad de Contraloría Interna, se entenderán hechas al Órgano Interno de Control adscrito al Registro Agrario Nacional.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de octubre de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de la Reforma Agraria, Abelardo Escobar Prieto.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 17 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DEL REGISTRO AGRARIO NACIONAL".]
+
+Primero. El presente reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo la fracción III del artículo 63 que entrará en vigor al día siguiente de que el Registro Agrario Nacional publique en el Diario Oficial de la Federación un aviso del inicio de operación del sistema informático que el Registro utilizará para practicar notificaciones por correo electrónico.
+
+Segundo. Se abroga el Reglamento Interior del Registro Agrario Nacional, publicado en el Diario Oficial de la Federación el día once de octubre de dos mil doce.
+
+Las disposiciones administrativas que se expidieron con fundamento en el Reglamento que se abroga, continuarán vigentes en lo que no se opongan al presente reglamento que se expide.
+
+Tercero. Las referencias que otros ordenamientos hacen a:
+
+I. La Dirección General de Finanzas y Administración, se entenderán hechas a la Dirección General de Administración y Finanzas;
+
+II. La Dirección General de Operación y Sistemas, se entenderán hechas a la Coordinación de Operación y Sistemas, y
+
+III. Las Delegaciones, se entenderán hechas a las oficinas de representación en las Entidades Federativas.
+
+Cuarto. Los formatos preimpresos que fueron elaborados con los diseños acordes al Reglamento Interior del Registro Agrario Nacional que se abroga, seguirán utilizándose hasta que se agote su existencia.
+
+Quinto. Las erogaciones que se efectúen con motivo de la entrada en vigor del presente reglamento, se realizarán con cargo al presupuesto que respectivamente le haya sido asignado al Registro Agrario Nacional como Órgano Administrativo Desconcentrado de la Secretaría de Desarrollo Agrario, Territorial y Urbano, en el Presupuesto de Egresos de la Federación, por lo que no se incrementará su presupuesto regularizable durante el presente ejercicio fiscal y subsecuentes, y cualquier modificación al mismo deberá realizarse mediante movimientos compensados conforme a las disposiciones aplicables.
+
+Las transferencias de funciones, recursos humanos, materiales y financieros, serán coordinadas y vigiladas por la Dirección General de Administración y Finanzas.
+
+Estas transferencias incluirán las adecuaciones presupuestarias derivadas de las modificaciones a la estructura programática y financiera, a los calendarios financieros y de metas, así como a las de recursos humanos y de activos patrimoniales, según corresponda, mismas que, en su caso, deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables.
