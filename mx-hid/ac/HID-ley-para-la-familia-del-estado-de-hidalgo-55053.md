@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2023-06-15"
+last_updated: "2024-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -95,11 +95,11 @@ Corresponde a las autoridades judiciales en el ámbito de su competencia, asegur
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2024)</small>
 
 ###### Artículo 8.
 
-El matrimonio es una institución social y permanente, por la cual se establece la unión jurídica entre dos personas, que, con igualdad de derechos y obligaciones, procuran respeto, igualdad y ayuda mutua, originan el nacimiento y estabilidad de una familia, así como la realización de una comunidad de vida plena y responsable.
+El matrimonio es una institución social y permanente, por la cual se establece la unión jurídica entre dos personas, que, con igualdad de derechos y obligaciones, se procuran respeto, igualdad y ayuda mutua, sin estigmas, roles o estereotipos de género, originando el nacimiento y la estabilidad de una familia, así como la realización de una comunidad de vida plena y responsable.
 
 ###### Artículo 9.
 
@@ -3554,5 +3554,11 @@ P.O. 15 DE JUNIO DE 2023.
 P.O. 15 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 525 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO Y DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 594 POR EL QUE SE REFORMA EL ARTÍCULO 8 DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
