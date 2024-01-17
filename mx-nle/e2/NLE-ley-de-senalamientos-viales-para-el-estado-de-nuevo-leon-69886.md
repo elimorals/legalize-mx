@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-senalamientos-viales-para-el-estado-de-nuevo-leon-69886"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-21"
-last_updated: "2016-12-06"
+last_updated: "2024-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEÑALAMIENTOS VIALES PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de agosto de 2009.
 
@@ -103,9 +103,17 @@ IX. La colocación de anuncios en puentes peatonales, salvo cuando los Ayuntamie
 
 a) Justificar y fundamentar la necesidad y beneficio de que dichas estructuras sean construidas con la participación del sector privado a cambio de su explotación o aprovechamiento comercial con fines publicitarios;
 
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2024)</small>
+
+Se considerará justificado, cuando exista una solicitud realizada por vecinos o por alguna organización de la sociedad civil que se vean beneficiados con la construcción del puente peatonal;
+
 b) Verificar que el sitio donde se pretendan ubicar sea el adecuado para ello y no representen un riesgo para la población, sus bienes y entorno.
 
 Para ello se deberán realizar previamente estudios viales y de flujo peatonal además de recabar la factibilidad de la autoridad municipal competente en materia de protección civil;
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2024)</small>
+
+La autoridad municipal en la medida de sus posibilidades brindará las facilidades necesarias para que se obtengan las autorizaciones y estudios necesarios en el menor tiempo posible;
 
 c) Establecer las obligaciones a cargo de la empresa concesionaria, como mínimo las siguientes:
 
@@ -358,3 +366,9 @@ Segundo.- Se derogan todas aquellas disposiciones que contravengan el presente D
 Tercero.- En un término que no exceda los 120 días naturales a partir de la entrada en vigor del presente Decreto, los Ayuntamientos, en el ámbito de sus respectivas competencias realizarán las adecuaciones a las disposiciones reglamentarias vinculadas con el presente Decreto.
 
 Cuarto.- La Dirección de Protección Civil Estatal deberá elaborar y presentar en un plazo no mayor de 120 días naturales para su aprobación el Programa Escolar de Protección Civil a que se refiere el Artículo Primero del presente Decreto.
+
+P.O. 17 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 464. SE ADICIONA UN SEGUNDO PÁRRAFO AL INCISO A) Y UN TERCER PÁRRAFO AL INCISO B), AMBOS DE LA FRACCIÓN IX, DEL ARTÍCULO 3 DE LEY DE SEÑALAMIENTOS VIALES PARA EL ESTADO DE NUEVO LEÓN.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
