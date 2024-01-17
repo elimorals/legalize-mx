@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2023-10-18"
+last_updated: "2024-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -27,7 +27,7 @@ issue_date: "1931-08-13"
 
 CÓDIGO PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2024.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -5371,21 +5371,7 @@ Al servidor público que retarde o entorpezca maliciosamente o por negligencia l
 
 ### CAPITULO VIII. Violencia familiar
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2012)</small>
-
-ARTICULO 343 bis.- Comete el delito de violencia familiar quien lleve a cabo actos o conductas de dominio, control o agresión física, psicológica, patrimonial o económica, a alguna persona con la que se encuentre o haya estado unida por vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, concubinato, o una relación de pareja dentro o fuera del domicilio familiar.
-
-A quien cometa el delito de violencia familiar se le impondrá de seis meses a cuatro años de prisión y perderá el derecho de pensión alimenticia. Asimismo, se le sujetará a tratamiento psicológico especializado.
-
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2012)</small>
-
-ARTICULO 343 ter.- Se equipara a la violencia familiar y se sancionará con seis meses a cuatro años de prisión al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
-
-ARTICULO 343 quater.- En todos los casos previstos en los dos artículos precedentes, el Ministerio Público exhortará al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma. La autoridad administrativa vigilará el cumplimiento de estas medidas. En todos los casos el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
-
-(REUBICADO [N. DE E. ANTES TÍTULO VIGÉSIMO PRIMERO], D.O.F. 29 DE JULIO DE 1970)
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE ENERO DE 2024)</small>
 
 ###### ARTICULO 329.
 
@@ -5480,6 +5466,30 @@ Los ascendientes o tutores que entreguen en una casa de expósitos un niño que 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
 ### CAPITULO II. Injurias y difamación
+
+###### ARTICULO 343 Bis.
+
+Comete el delito de violencia familiar quien lleve a cabo actos o conductas de dominio, control o agresión física, psicológica, patrimonial o económica, o sexual a alguna persona con la que se encuentre o haya estado unida por vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, concubinato, cohabitación o una relación de pareja dentro o fuera del domicilio familiar.
+
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2012)</small>
+
+A quien cometa el delito de violencia familiar se le impondrá de seis meses a cuatro años de prisión y perderá el derecho de pensión alimenticia. Asimismo, se le sujetará a tratamiento psicológico especializado.
+
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2012)</small>
+
+ARTICULO 343 ter.- Se equipara a la violencia familiar y se sancionará con seis meses a cuatro años de prisión al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+ARTICULO 343 ter 2.- Las penas previstas en el artículo 343 Bis aumentarán hasta en una tercera parte a quien lo cometa a través de interpósita persona.
+
+> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+ARTICULO 343 quater.- En los casos de violencia familiar, violencia familiar equiparada y violencia a través de interpósita persona, el Ministerio Público exhortará a la persona imputada para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima, acordará las medidas preventivas y solicitará las medidas precautorias que considere pertinentes para salvaguardar la integridad física o psíquica de la misma y, solicitará las órdenes de protección que establece la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+
+La autoridad administrativa vigilará el cumplimiento de estas medidas en términos de lo dispuesto por la legislación aplicable.
+
+(REUBICADO [N. DE E. ANTES TÍTULO VIGÉSIMO PRIMERO], D.O.F. 29 DE JULIO DE 1970)
 
 ## TITULO VIGESIMO. Delitos contra el honor
 
@@ -8534,3 +8544,11 @@ D.O.F. 18 DE OCTUBRE DE 2023.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+D.O.F. 17 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DEL CÓDIGO CIVIL FEDERAL Y DEL CÓDIGO PENAL FEDERAL, EN MATERIA DE VIOLENCIA A TRAVÉS DE INTERPÓSITA PERSONA”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán de conformidad con el presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
