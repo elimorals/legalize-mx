@@ -4,7 +4,7 @@ identifier: "HID-ley-integral-para-las-personas-con-discapacidad-del-estado-7830
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2023-05-29"
+last_updated: "2024-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2024.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2010.
 
@@ -517,9 +517,11 @@ La educación especial se caracteriza por constituir un sistema flexible y diná
 
 El Estado, a través de las instancias correspondientes, regulará las características, condiciones y modalidades de la educación especial, atendiendo a las cualidades y necesidades individuales de quienes la cursen, a fin de proporcionarle una adecuada formación y capacitación.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 43.
 
-El Sistema educativo estatal privilegiará la participación de las personas con discapacidad en los programas educativos.
+El Sistema Educativo Estatal privilegiará la participación e inclusión de las personas con discapacidad en todos los niveles educativos, así como en la plantilla laboral docente, administrativa y personal de apoyo.
 
 ###### Artículo 44.
 
@@ -1212,5 +1214,11 @@ P.O. 29 DE MAYO DE 2023.
 P.O. 29 DE MAYO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 255 SE REFORMA EL ARTÍCULO 27 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 593 POR EL QUE SE REFORMA EL ARTÍCULO 43 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO."]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
