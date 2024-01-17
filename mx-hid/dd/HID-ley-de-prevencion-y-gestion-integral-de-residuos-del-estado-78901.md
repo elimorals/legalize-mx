@@ -4,7 +4,7 @@ identifier: "HID-ley-de-prevencion-y-gestion-integral-de-residuos-del-estado-789
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-24"
-last_updated: "2021-09-13"
+last_updated: "2024-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2024.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 24 de enero de 2011.
 
@@ -71,13 +71,17 @@ La presente Ley es de observancia general en el Estado de Hidalgo, sus disposici
 
 En la formulación y conducción de las políticas en las materias a que se refiere esta Ley, así como, para la expedición de las disposiciones jurídicas y la emisión de actos que de ella deriven, los Gobiernos Estatal y de los Municipios, según corresponda, observarán los principios de la economía circular, así como, los principios que establece la Ley General para la Prevención y Gestión Integral de los Residuos.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 3.
 
-En todo lo no previsto en la presente Ley, se aplicarán las disposiciones contenidas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente de Hidalgo, la Ley General para la Prevención y Gestión Integral de los Residuos, así como en otros ordenamientos jurídicos relacionados.
+En todo lo no previsto en la presente Ley, se aplicarán las disposiciones contenidas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley para la Protección al Ambiente del Estado de Hidalgo, la Ley General para la Prevención y Gestión Integral de los Residuos, así como en otros ordenamientos jurídicos relacionados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2024)</small>
 
 ###### Artículo 4.
 
-Para los efectos de la presente Ley, son aplicables las definiciones contenidas en la Ley General para la Prevención y Gestión Integral de los Residuos, Ley General del Equilibrio Ecológico y Protección al Ambiente, la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente de Hidalgo y las normas oficiales mexicanas, así como las siguientes:
+Para los efectos de la presente Ley, son aplicables las definiciones contenidas en la Ley General para la Prevención y Gestión Integral de los Residuos, Ley General del Equilibrio Ecológico y Protección al Ambiente, la Ley para la Protección al Ambiente del Estado de Hidalgo y las normas oficiales mexicanas, así como las siguientes:
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ENERO DE 2021)</small>
 
@@ -116,6 +120,10 @@ VI.- Minimización: Conjunto de políticas, programas y medidas adoptadas por la
 > <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2019)</small>
 
 VI Bis.- Plásticos de un solo uso descartables: aquellos elaborados con materiales plásticos derivados de combustibles fósiles, tales como: bolsas, popotes, vasos, charolas, cubiertos, platos, agitadores y tapas, incluyendo sus similares de poliestireno expandido;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
+
+VI Ter. Personas recicladoras: Personas independientes u organizadas, o instituciones públicas o privadas, que recuperan, separan, acopian, gestionan y/o comercializan residuos sólidos urbanos o materiales susceptibles de ser reciclables y reutilizables;
 
 VII.- Recolección: Toda operación consistente en recoger, clasificar, agrupar o preparar residuos para su transporte;
 
@@ -221,6 +229,14 @@ I Ter.- Establecer, implementar y fomentar, programas de minimización y gestió
 
 I Quater.- Llevar a cabo las acciones de saneamiento y cierre de los sitios de disposición final al término de su vida útil, conforme a la legislación ambiental aplicable y conforme al plan de clausura y saneamiento que haya sido aprobado por la Secretaría.
 
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
+
+I Quinquies.- Llevar a cabo un registro de personas recicladoras; el cual será abierto, público, voluntario y gratuito. La inscripción en el registro bajo ninguna circunstancia condicionará la realización de las actividades propias de las personas recicladoras;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
+
+I Sexies.- Implementar, en colaboración con la Secretaría, programas de capacitación para las personas recicladoras, en materia de educación ambiental, gestión de residuos sólidos urbanos y de manejo especial.
+
 II.- Fomentar el desarrollo de mercados para el reciclaje de residuos sólidos urbanos y de manejo especial que no estén expresamente atribuidos a la Federación o al Estado;
 
 III.- Concertar con los sectores corresponsables, el establecimiento de planes de manejo para tipos de residuos sólidos urbanos y de manejo especial de su competencia, susceptibles de aprovechamiento, de conformidad con las disposiciones de esta Ley y en coordinación con la Secretaría;
@@ -255,7 +271,9 @@ XV.- Atender los demás asuntos que, en materia de residuos sólidos urbanos y d
 
 Los Municipios de la Entidad se coordinarán por regiones que para el efecto se establezcan con asistencia técnica, bajo criterios de ubicación geográfica, movilidad vial y composición de residuos, con el propósito de contar con nuevos mecanismos de intervención en la prestación de los servicios de limpia, recolección selectiva, traslado, tratamiento y disposición final de residuos sólidos urbanos en centros integrales que cuenten con la infraestructura adecuada para su aprovechamiento y valorización con un enfoque de economía circular, mejorando la prestación de los servicios a través de organismos operadores que para el efecto se creen.
 
-Para todo ello deberán contar la asistencia técnica, validación y autorización de la Secretaría de Medio Ambiente y Recursos Naturales del Estado de Hidalgo.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2024)</small>
+
+Para todo ello deberán contar (sic) la asistencia técnica, validación y autorización de la Secretaría de Medio Ambiente y Recursos Naturales del Estado de Hidalgo. Además, en los procesos de prestación de dichos servicios, deberán considerar la participación de la sociedad civil organizada desde las etapas iniciales del proceso de toma de decisiones, de manera que se garantice contar con la aprobación e inclusión de las localidades aledañas que, con motivo de la puesta en marcha de proyectos y actividades, tengan o puedan tener un impacto significativo sobre el medio ambiente
 
 ###### Artículo 7.
 
@@ -1490,3 +1508,9 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. La Secretaría y los Municipios, en un plazo no mayor a noventa días contados a partir de la entrada en vigor de este Decreto, deberán instalar los contenedores diferenciados, conforme a lo dispuesto en la presente Ley.
+
+P.O. 17 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 589 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO Y DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
