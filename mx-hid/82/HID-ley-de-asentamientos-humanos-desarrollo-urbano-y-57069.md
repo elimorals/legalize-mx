@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asentamientos-humanos-desarrollo-urbano-y-57069"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-17"
-last_updated: "2023-04-11"
+last_updated: "2024-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 17 de septiembre de 2007.
 
@@ -196,6 +196,18 @@ XXIV.- Programa Estatal de Desarrollo Urbano; El conjunto de Reglamentos, planos
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
 XXV.- Provisiones: Las áreas que serán utilizadas para la fundación de un asentamiento humano;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
+
+XXV BIS.- Proyecto ejecutivo: el conjunto de planos y documentos que conforman los proyectos arquitectónicos y de ingeniería de una obra, el catálogo de conceptos, así como las descripciones e información suficientes para que ésta se pueda llevar a cabo;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
+
+XXV TER.- Proyecto arquitectónico: el que define la forma, estilo, distribución y el diseño funcional de una obra. Se expresará por medio de planos, maquetas, perspectivas, dibujos artísticos, entre otros;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
+
+XXV QUATER.- Proyecto de ingeniería: el que comprende los planos constructivos, memorias de cálculo y descriptivas, especificaciones generales y particulares aplicables, así como plantas, alzados, secciones y detalle, que permitan llevar a cabo una obra civil, eléctrica, mecánica o de cualquier otra especialidad;
 
 XXVI.- Reagrupamiento inmobiliario: La asociación de los propietarios de los predios necesarios para la ejecución de un proyecto de interés público o privado;
 
@@ -2171,11 +2183,11 @@ Las disposiciones reglamentarias de construcción, operación y mantenimiento de
 
 Toda obra, construcción o edificación que se realice en el Territorio del Estado requerirá de un proyecto ejecutivo y de la licencia de construcción, de acuerdo con la zonificación establecida en los programas que integran el Sistema y conforme a las disposiciones reglamentarias de esta Ley y las expedidas por el Municipio.
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2024)</small>
 
 ###### ARTICULO 169.
 
-Las disposiciones reglamentarias de este ordenamiento establecerán las normas técnicas para lograr la satisfacción de los requerimientos de funcionamiento, higiene, seguridad, estabilidad, emergencias, áreas verdes, espacios libres, acceso en los inmuebles y edificaciones, siendo su objetivo principal el bienestar y seguridad de sus ocupantes.
+Las disposiciones reglamentarias de este ordenamiento establecerán las normas técnicas para lograr la satisfacción de los requerimientos de funcionamiento, higiene, seguridad, sustentabilidad, estabilidad, sostenibilidad, emergencias, acceso en los inmuebles y edificaciones, siendo su objetivo principal el bienestar y seguridad de sus ocupantes. Además, dichas normas deberán promover la utilización de sistemas, mecanismos o dispositivos de captación o infiltración de agua pluvial.
 
 ###### ARTICULO 170.
 
@@ -2752,5 +2764,11 @@ P.O. 21 DE OCTUBRE DE 2022.
 P.O. 11 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 490 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 592 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
