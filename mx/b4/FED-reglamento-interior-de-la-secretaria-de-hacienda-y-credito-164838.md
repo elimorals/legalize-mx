@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-hacienda-y-credito-1648
 country: "mx"
 rank: "reglamento"
 publication_date: "2023-03-06"
-last_updated: "2023-03-06"
+last_updated: "2024-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164838&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-03-02"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2024.
 
 Reglamento publicado en el Número 5 del Diario Oficial de la Federación, el lunes 6 de marzo de 2023.
 
@@ -53,7 +53,9 @@ La Secretaría planeará y conducirá sus actividades con sujeción a los objeti
 
 La representación, trámite y resolución de los asuntos competencia de la Secretaría corresponde originalmente a la persona titular de la Secretaría.
 
-Para el despacho de los asuntos de su competencia, se auxiliará por las personas titulares de las Subsecretarías, de la Procuraduría Fiscal de la Federación, de la Tesorería de la Federación, de la Oficialía Mayor, de las unidades, de las direcciones generales, de las coordinaciones, de las direcciones, de las subdirecciones, y por las demás personas servidoras públicas que establezca este Reglamento y otras disposiciones jurídicas.
+> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+La Secretaría, para el despacho de los asuntos de su competencia, se auxilia de las personas titulares de las subsecretarías, de la Procuraduría Fiscal de la Federación, de la Tesorería de la Federación, de la Unidad de Administración y Finanzas, de las unidades, de las direcciones generales, de las coordinaciones, de las direcciones, de las subdirecciones, y demás personas servidoras públicas que establezca este reglamento y otras disposiciones jurídicas.
 
 ### CAPÍTULO II. DE LA ORGANIZACIÓN
 
@@ -102,6 +104,70 @@ b) Coordinación Jurídica de Coordinación Fiscal;
 c) Coordinación de Análisis de la Hacienda Pública Local, y
 
 d) Coordinación de Deuda Pública de Entidades Federativas y Municipios;
+
+> <small>(ADICIONADA [N. DE E. SUS INCISOS], D.O.F. 17 DE ENERO DE 2024)</small>
+
+IV. Unidad de Administración y Finanzas:
+
+> <small>(ADICIONADO [N. DE E. SUS NUMERALES], D.O.F. 17 DE ENERO DE 2024)</small>
+
+a) Dirección General de Recursos Financieros:
+
+1. Coordinación de Finanzas y Tesorería;
+
+2. Coordinación de Información y Seguimiento, y
+
+3. Coordinación de Programación y Presupuesto del Sector Central;
+
+> <small>(ADICIONADO [N. DE E. SUS NUMERALES], D.O.F. 17 DE ENERO DE 2024)</small>
+
+b) Dirección General de Recursos Humanos:
+
+1. Coordinación de Administración de Personal;
+
+2. Coordinación de Planeación y de Estudios Organizacionales, y
+
+3. Coordinación de Desarrollo Profesional;
+
+> <small>(ADICIONADO [N. DE E. SUS NUMERALES], D.O.F. 17 DE ENERO DE 2024)</small>
+
+c) Dirección General de Recursos Materiales, Obra Pública y Servicios Generales:
+
+1. Coordinación de Adquisiciones y Contratación de Servicios;
+
+2. Coordinación de Planeación, Operación y Servicios, y
+
+3. Coordinación de Obras y Control Inmobiliario;
+
+> <small>(ADICIONADO [N. DE E. SUS NUMERALES], D.O.F. 17 DE ENERO DE 2024)</small>
+
+d) Dirección General de Talleres de Impresión de Estampillas y Valores:
+
+1. Coordinación de Producción y Mantenimiento, y
+
+2. Coordinación de Apoyo Técnico y Operativo;
+
+> <small>(ADICIONADO [N. DE E. SUS NUMERALES], D.O.F. 17 DE ENERO DE 2024)</small>
+
+e) Dirección General de Tecnologías y Seguridad de la Información:
+
+1. Coordinación de Desarrollo y Mantenimiento de Sistemas, y
+
+2. Coordinación de Seguridad de la Información;
+
+> <small>(ADICIONADO [N. DE E. SUS NUMERALES], D.O.F. 17 DE ENERO DE 2024)</small>
+
+f) Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural:
+
+1. Coordinación de Patrimonio Cultural;
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+g) Unidad de Igualdad de Género, y
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+h) Unidad del Gobernador de Palacio Nacional;
 
 B. Subsecretaría de Hacienda y Crédito Público:
 
@@ -445,99 +511,7 @@ d) Dirección de Vigilancia de las Funciones de Tesorería IV, y
 
 V. Coordinación de Planeación y Vinculación;
 
-F. Oficialía Mayor:
-
-I. Unidad de Compras y Contrataciones Públicas Consolidadas:
-
-a) Dirección General Requirente;
-
-b) Dirección General Contratante:
-
-1. Coordinación Contratante de Bienes, Arrendamientos y Servicios, y
-
-2. Coordinación de Control y Seguimiento de Contrataciones Consolidadas;
-
-II. Unidad de Planeación e Investigaciones de Mercado:
-
-a) Dirección General de Planeación:
-
-1. Coordinación de Análisis y Estrategia de Planeación, y
-
-2. Coordinación de Estrategia de Proveeduría Nacional;
-
-b) Dirección General de Investigaciones de Mercado:
-
-1. Coordinación de Investigaciones de Mercado;
-
-III. Unidad de Política de Contrataciones Públicas:
-
-a) Dirección General de Política de Contrataciones Públicas, y
-
-b) Dirección General de la Plataforma Digital de Contrataciones Públicas:
-
-1. Coordinación de Diseño y Gestión de la Calidad;
-
-IV. Unidad de Coordinación de Unidades de Administración y Finanzas:
-
-a) Dirección General de Operación y Seguimiento de las Unidades de Administración y Finanzas;
-
-b) Dirección General de Organización y Estrategia de Gobierno de las Unidades de Administración y Finanzas:
-
-1. Coordinación de Integración y Análisis de Datos de las Unidades de Administración y Finanzas;
-
-V. Unidad de Administración y Finanzas:
-
-a) Dirección General de Recursos Financieros:
-
-1. Coordinación de Finanzas y Tesorería;
-
-2. Coordinación de Información y Seguimiento, y
-
-3. Coordinación de Programación y Presupuesto del Sector Central;
-
-b) Dirección General de Recursos Humanos:
-
-1. Coordinación de Administración de Personal;
-
-2. Coordinación de Planeación y de Estudios Organizacionales, y
-
-3. Coordinación de Desarrollo Profesional;
-
-c) Dirección General de Recursos Materiales, Obra Pública y Servicios Generales:
-
-1. Coordinación de Adquisiciones y Contratación de Servicios;
-
-2. Coordinación de Planeación, Operación y Servicios, y
-
-3. Coordinación de Obras y Control Inmobiliario;
-
-d) Dirección General de Talleres de Impresión de Estampillas y Valores:
-
-1. Coordinación de Producción y Mantenimiento, y
-
-2. Coordinación de Apoyo Técnico y Operativo, y
-
-e) Dirección General de Tecnologías y Seguridad de la Información:
-
-1. Coordinación de Desarrollo y Mantenimiento de Sistemas, y
-
-2. Coordinación de Seguridad de la Información;
-
-VI. Unidad de Igualdad de Género;
-
-VII. Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural:
-
-a) Coordinación de Patrimonio Cultural;
-
-VIII. Unidad del Gobernador de Palacio Nacional, y
-
-IX. Unidad de Normatividad:
-
-a) Dirección General Consultiva de Contrataciones Públicas, y
-
-b) Dirección General de Normatividad y Apoyo Consultivo:
-
-1. Coordinación de Normatividad y Análisis Jurídicos, y
+F. (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
 G. Órganos administrativos desconcentrados:
 
@@ -573,7 +547,9 @@ III. Proponer, para aprobación de la persona titular del Ejecutivo Federal, el 
 
 IV. Coordinar, conjuntamente con la Secretaría de Bienestar en el ámbito de su competencia, el otorgamiento de las autorizaciones de acciones e inversiones convenidas para la planeación nacional y regional con los gobiernos de las entidades federativas y municipios;
 
-V. Representar a la persona titular del Ejecutivo Federal en las controversias constitucionales y acciones de inconstitucionalidad a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, en los casos en que lo determine la persona titular del Ejecutivo Federal, por conducto de la Consejería del Ejecutivo Federal;
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2024)</small>
+
+V. Representar a la persona titular del Ejecutivo Federal en las controversias constitucionales y acciones de inconstitucionalidad a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, en los casos en que lo determine la persona titular del Ejecutivo Federal, por conducto de la Consejería Jurídica del Ejecutivo Federal;
 
 VI. Acordar con la persona titular del Ejecutivo Federal los asuntos encomendados a la Secretaría y las entidades paraestatales sectorizadas a esta, de conformidad con las disposiciones jurídicas aplicables;
 
@@ -619,9 +595,13 @@ XXVI. Intervenir en los convenios que celebre el Ejecutivo Federal cuando incluy
 
 XXVII. Designar a las personas titulares de las presidencias del Instituto de Administración y Avalúos de Bienes Nacionales, de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional de Seguros y Fianzas, de la Comisión Nacional del Sistema de Ahorro para el Retiro y de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, así como conocer las resoluciones y recomendaciones que emitan las juntas de gobierno únicamente de las comisiones referidas, en los términos de las disposiciones jurídicas aplicables;
 
-XXVIII. Recibir en acuerdo a las personas titulares de las Subsecretarías, de la Procuraduría Fiscal de la Federación, de la Tesorería de la Federación y de la Oficialía Mayor, para el trámite y resolución de los asuntos de su respectiva competencia;
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2024)</small>
 
-XXIX. Adscribir orgánicamente las unidades administrativas a que se refiere este Reglamento a sí misma, a las Subsecretarías, a la Oficialía Mayor, a la Procuraduría Fiscal de la Federación y a la Tesorería de la Federación, así como delegar sus facultades a las personas servidoras públicas de la Secretaría, mediante acuerdos que deberán ser publicados en el Diario Oficial de la Federación;
+XXVIII. Recibir en acuerdo a las personas titulares de las subsecretarías, de la Procuraduría Fiscal de la Federación, de la Tesorería de la Federación y de las demás unidades administrativas que tenga adscritas directamente, para el trámite y resolución de los asuntos de su respectiva competencia;
+
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2024)</small>
+
+XXIX. Adscribir orgánicamente las unidades administrativas a que se refiere este reglamento, a las subsecretarías, a la Procuraduría Fiscal de la Federación y a la Tesorería de la Federación, así como delegar sus facultades a las personas servidoras públicas de la Secretaría, mediante acuerdos que deben ser publicados en el Diario Oficial de la Federación;
 
 XXX. Autorizar por escrito a personas servidoras públicas subalternas para que realicen actos y suscriban documentos específicos que formen parte del ejercicio de sus facultades delegables, siempre y cuando la facultad no esté conferida expresamente a otra persona servidora pública en este Reglamento. Dichas autorizaciones deberán ser registradas ante la Procuraduría Fiscal de la Federación;
 
@@ -653,7 +633,9 @@ III. Suscribir, en representación de la Secretaría, los instrumentos jurídico
 
 IV. Someter a la persona titular de la Secretaría los proyectos de iniciativas de leyes o decretos, así como los proyectos de reglamentos, decretos, acuerdos y demás disposiciones jurídicas en los asuntos de la competencia de las unidades administrativas que tengan adscritas;
 
-V. Establecer coordinación con la persona titular de la Oficialía Mayor, para el mejor desempeño de sus facultades;
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2024)</small>
+
+V. Establecer coordinación con la persona titular de la Unidad de Administración y Finanzas, para el mejor desempeño de sus facultades;
 
 VI. Coordinar la elaboración del anteproyecto de presupuesto de las unidades administrativas que tengan adscritas;
 
@@ -683,7 +665,9 @@ XVIII. Solicitar a la Unidad de Administración y Finanzas las obras que requier
 
 XIX. Supervisar y evaluar las actividades de las instancias de seguridad nacional que, en su caso, les estén adscritas, así como procurar la coordinación necesaria entre las mismas, e instruir el cumplimiento de las disposiciones en materia de seguridad nacional, y
 
-XX. Las demás que les confieran otras disposiciones jurídicas y aquellas funciones que les encomiende directamente la persona titular de la Secretaría.
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2024)</small>
+
+XX. Las demás que les confieran otras disposiciones jurídicas y aquellas funciones que les encomiende directamente la persona titular de la Secretaría, así como las que sean necesarias para el ejercicio de sus facultades.
 
 ### CAPÍTULO V
 
@@ -703,7 +687,9 @@ IV. Expedir copias certificadas de los documentos que obren en sus archivos.
 
 Esta facultad podrá ser ejercida por las personas titulares de las direcciones de área que tengan adscritas;
 
-V. Designar y remover al personal de su gabinete de apoyo o de libre designación, así como proponer, cuando así proceda en términos de las disposiciones jurídicas aplicables, el nombramiento y remoción de las personas servidoras públicas de confianza adscritas a sus unidades administrativas; separar al personal de confianza y sindicalizado a su cargo, de conformidad con las disposiciones jurídicas aplicables, y autorizar, ejecutar y controlar los demás asuntos relativos a su personal de confianza, con el apoyo de la Oficialía Mayor;
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2024)</small>
+
+V. Designar y remover, en términos de las disposiciones jurídicas aplicables, a las personas servidoras públicas de base y de confianza adscritas a sus unidades administrativas, así como autorizar, ejecutar y controlar los demás asuntos relativos a su personal de confianza, con el apoyo de la Unidad de Administración y Finanzas;
 
 VI. Ejercer las facultades señaladas en las fracciones XV a XVIII del artículo 7 de este Reglamento;
 
@@ -723,7 +709,9 @@ XIII. Participar en reuniones o grupos de trabajo, eventos y foros, nacionales o
 
 XIV. Acordar con su superior jerárquico los asuntos de su competencia, y
 
-XV. Las demás que, en el ámbito de sus respectivas competencias, le atribuyan a la Secretaría las disposiciones jurídicas aplicables o aquellas funciones que les encomiende la persona titular de la Secretaría o su superior jerárquico.
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2024)</small>
+
+XV. Las demás que, en el ámbito de sus respectivas competencias, le atribuyan a la Secretaría las disposiciones jurídicas aplicables o aquellas funciones que les encomiende la persona titular de la Secretaría o su superior jerárquico, así como las que sean necesarias para el ejercicio de sus facultades.
 
 Las facultades establecidas en este artículo no serán aplicables para la Unidad de Igualdad de Género ni para la Unidad del Gobernador de Palacio Nacional, con excepción de la fracción IV.
 
@@ -1374,6 +1362,812 @@ IX. Asesorar en coordinación con las demás unidades administrativas de la Secr
 X. Formular con las unidades administrativas competentes de la Secretaría, la política de coordinación fiscal de la Federación con las entidades federativas y municipios, en materia de financiamientos y obligaciones, y
 
 XI. Coordinar estudios en materia del impacto en el nivel de endeudamiento local con base en la planeación de las finanzas públicas, en colaboración con instituciones de desarrollo técnico vinculadas con las materias de esta Coordinación.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+###### Artículo 11 Bis.
+
+La Unidad de Administración y Finanzas tiene las atribuciones siguientes:
+
+I. Emitir y coordinar el proceso de actualización, conforme a las disposiciones jurídicas aplicables, de los instrumentos normativos y técnicos para la planeación, organización y administración de los recursos humanos, materiales, financieros, de tecnologías de la información, comunicaciones y de patrimonio cultural, así como dirigir la implementación de los programas y acciones que en materia de igualdad de género deba llevar a cabo la Secretaría;
+
+II. Instruir la implementación de las normas, procedimientos y sistemas de administración interna en materia de recursos humanos, materiales, financieros, así como de servicios generales y tecnologías de la información y comunicaciones que establezca, a fin de dar cumplimiento a las disposiciones jurídicas aplicables;
+
+III. Promover la incorporación de la perspectiva de género en las actividades que realicen las unidades administrativas de la Secretaría;
+
+IV. Coordinar los servicios de apoyo administrativo en materia de planeación, programación, presupuesto, tecnologías de la información, recursos humanos, recursos materiales, contabilidad, archivos, y los demás que sean necesarios en la Secretaría;
+
+V. Llevar a cabo el establecimiento de mecanismos para simplificar, desregular y mejorar las disposiciones administrativas internas en materia de planeación, presupuestación y administración de recursos humanos, materiales y financieros de la Secretaría;
+
+VI. Someter a la consideración de la persona titular de la Secretaría el proyecto de presupuesto anual y el calendario de gasto de las unidades administrativas de la Secretaría;
+
+VII. Dirigir la integración, registro y actualización de las cuentas bancarias autorizadas por la Tesorería de la Federación, para la operación de las unidades administrativas de la Secretaría;
+
+VIII. Instruir, conforme a la normativa aplicable, que se realicen las erogaciones de la Secretaría y se lleve a cabo su contabilidad, así como coordinar el trámite para el registro en la cartera de inversión y el seguimiento de los programas y proyectos de inversión autorizados a las unidades administrativas de la Secretaría, y auxiliarlas en los trámites para la autorización y modificación de oficios de liberación de inversión, conforme a las disposiciones jurídicas aplicables;
+
+IX. Instruir la prestación de los servicios de apoyo administrativo para el ejercicio, reembolso, pago y registro presupuestario y contable del gasto de las unidades administrativas de la Secretaría, así como para solicitar a la Tesorería de la Federación la ministración de recursos que les correspondan, de conformidad con las disposiciones jurídicas aplicables;
+
+X. Coordinar, con las unidades administrativas competentes de la Secretaría, las acciones para la atención de los requerimientos de información formulados por la Auditoría Superior de la Federación y para el seguimiento estadístico de las auditorías y observaciones determinadas por el Órgano Interno de Control en la Secretaría y, en su caso, la unidad administrativa competente de la Secretaría de la Función Pública;
+
+XI. Coordinar la administración de los recursos presupuestales y financieros, con la finalidad de dar cumplimiento a los programas a cargo de la Secretaría;
+
+XII. Instruir la elaboración de informes financieros y de rendición de cuentas con la información programática, presupuestal y financiera de la Secretaría para cumplir con las disposiciones jurídicas aplicables;
+
+XIII. Someter a la consideración de la persona titular de la Secretaría los programas en materia de gasto público a cargo de la Secretaría que deriven del Presupuesto de Egresos de la Federación y de otras disposiciones jurídicas aplicables, así como supervisar su ejecución y evaluar su cumplimiento;
+
+XIV. Coordinar el desarrollo del proceso contable de las operaciones financieras y presupuestarias de la Secretaría, a fin de dar cumplimiento con las disposiciones fiscales y la rendición de cuentas establecida en la normativa de la materia;
+
+XV. Dirigir la gestión de la autorización de las adecuaciones presupuestarias de la Secretaría;
+
+XVI. Emitir, conforme a las disposiciones jurídicas aplicables, los instrumentos normativos y técnicos para la elaboración de los manuales de organización general de la Secretaría y de organización específicos de las unidades administrativas de esta, así como sus manuales de procedimientos y, en su caso, de servicios al público;
+
+XVII. Dirigir las relaciones con el sindicato de la Secretaría y participar en el establecimiento de las condiciones generales de trabajo;
+
+XVIII. Proponer a la persona titular de la Secretaría la designación del personal de esta Unidad que deba participar como representante de la dependencia ante las comisiones y órganos colegiados que se refieran a asuntos de su competencia, en términos de las disposiciones jurídicas aplicables;
+
+XIX. Promover la aplicación del sistema de evaluación del desempeño al personal de la Secretaría y el otorgamiento de estímulos y recompensas que establezcan las leyes, las condiciones generales de trabajo y demás disposiciones jurídicas aplicables, y resolver los asuntos relacionados sobre el otorgamiento de estímulos y recompensas, antigüedad y demás prestaciones laborales del personal de la Secretaría;
+
+XX. Dirigir la elaboración de los programas de reclutamiento, selección, capacitación, desarrollo, evaluación del desempeño, separación, remuneraciones, beneficios, estímulos y recompensas del personal conforme a las políticas, normas y lineamientos emitidos en la materia por las autoridades competentes;
+
+XXI. Participar en el Consejo Consultivo del Sistema del Servicio Profesional de Carrera de la Administración Pública Federal Centralizada y presidir el Comité Técnico de Profesionalización de la Secretaría, conforme a lo previsto en la Ley del Servicio Profesional de Carrera en la Administración Pública Federal y su Reglamento, y demás disposiciones jurídicas aplicables;
+
+XXII. Establecer y coordinar la implementación de estrategias internas de planeación y administración de los recursos humanos, para asegurar la operación de los procesos de conformidad con las disposiciones jurídicas aplicables;
+
+XXIII. Instruir a las unidades administrativas competentes que tenga adscritas, el desarrollo de las acciones para la elaboración y trámite en la Secretaría y la Secretaría de la Función Pública, de los movimientos de estructuras orgánicas y ocupacionales aprobados, y de las plantillas de personal de la Secretaría, así como la contratación de servicios profesionales bajo el régimen de honorarios o de personal eventual, con la finalidad de obtener las debidas autorizaciones;
+
+XXIV. Coordinar la expedición de los nombramientos, cambios de adscripción y separaciones de las personas servidoras públicas de base y de confianza de la Secretaría, en los términos de las disposiciones legales aplicables;
+
+XXV. Autorizar las licencias con o sin goce de sueldo al personal de la Secretaría, de conformidad con las disposiciones jurídicas aplicables;
+
+XXVI. Representar a la persona titular de la Secretaría ante el Tribunal Federal de Conciliación y Arbitraje y demás autoridades competentes del trabajo, en las controversias laborales que se susciten con las personas servidoras públicas adscritas a las unidades administrativas de la Secretaría, para lo cual debe ejercer las acciones, excepciones y defensas, así como conciliar, allanarse y transigir en los juicios en que intervenga en representación de la Secretaría, interponer los recursos que procedan, ante dichas autoridades, y absolver posiciones a nombre de la persona titular de la Secretaría, como parte de la representación que tiene a su cargo;
+
+XXVII. Coordinar la administración de los recursos materiales, la prestación de los servicios generales, la obra pública y servicios relacionados con la misma, el mantenimiento de los bienes responsabilidad de la Secretaría, así como promover la regularización jurídica y administrativa de los bienes inmuebles de la propia dependencia, de conformidad con las disposiciones jurídicas aplicables;
+
+XXVIII. Presidir los comités de Adquisiciones, Arrendamientos y Servicios, de Bienes Muebles, de Obras Públicas, así como, en su caso, las comisiones mixtas de abastecimiento de la Administración Pública Federal, de conformidad con las disposiciones jurídicas aplicables;
+
+XXIX. Suscribir en las materias a que se refiere este artículo los convenios, contratos, acuerdos, bases de colaboración y demás instrumentos jurídicos, así como los demás documentos que impliquen actos de administración y, en su caso, darlos por terminados anticipadamente y rescindirlos;
+
+XXX. Coordinar la producción y suministro de impresos con o sin características de seguridad, y de publicaciones y materiales impresos para las unidades administrativas de la Secretaría, así como para las dependencias y entidades de la Administración Pública Federal que lo soliciten y, en su caso, brindarles asesoría en esta materia;
+
+XXXI. Coordinar la programación y presupuestación de los programas de mantenimiento preventivo y correctivo para los bienes muebles e inmuebles de la Secretaría, a fin de garantizar su vida útil;
+
+XXXII. Establecer los lineamientos, acciones, estrategias y criterios orientados a proporcionar a la Secretaría el apoyo administrativo en materia de archivo, para vigilar el cumplimiento de las disposiciones en esta materia, así como coordinar las acciones que permitan el control y organización de los archivos de trámite, concentración e histórico de las unidades administrativas de la Secretaría, en términos de la Ley General de Archivos y demás disposiciones jurídicas aplicables;
+
+XXXIII. Dirigir la coordinación de la administración de los vehículos de la Secretaría, de conformidad con las políticas y demás disposiciones jurídicas aplicables;
+
+XXXIV. Coordinar la resolución de los asuntos que los ordenamientos que rigen las materias de administración de recursos materiales y servicios, así como de obras públicas y servicios relacionados con las mismas le atribuyan a la Secretaría;
+
+XXXV. Coordinar la planeación, organización y otorgamiento de los servicios de tecnologías de la información, los sistemas integrales de información, las comunicaciones institucionales, así como la seguridad y calidad de la información de la Secretaría;
+
+XXXVI. Dirigir e instruir que se proporcionen los servicios de apoyo administrativo en materia de diseño de sistemas y equipamiento informático, comunicaciones y archivo;
+
+XXXVII. Dirigir la administración de las bibliotecas, hemerotecas, recintos y fondos históricos, museos, áreas de exposición, así como las áreas patrimoniales de Palacio Nacional responsabilidad de la Secretaría, de conformidad con las disposiciones jurídicas aplicables;
+
+XXXVIII. Coordinar la implementación de los programas de inspección, seguridad, cuidado, protección, conservación, restauración, uso y vigilancia de las áreas patrimoniales, objetos y colecciones que se encuentren en Palacio Nacional;
+
+XXXIX. Dirigir la administración de las colecciones pago en especie, acervo patrimonial y acervo bibliohemerográfico de la Secretaría, así como aprobar la programación cultural de esta dependencia;
+
+XL. Coordinar la formulación, contratación y ejecución, cuando así corresponda, de los programas anuales de obra pública, adquisiciones de bienes y servicios, administración, conservación y mantenimiento de bienes muebles e inmuebles de la Secretaría, así como la regularización jurídica de los últimos, salvo de los bienes que se encuentren en Palacio Nacional;
+
+XLI. Proponer a la persona titular de la Secretaría los proyectos de programas que establece el Sistema Nacional de Protección Civil en lo que corresponda a la Secretaría, y llevar a cabo la comunicación y coordinación permanentes con dicho Sistema;
+
+XLII. Dirigir las acciones necesarias para preservar la integridad física del personal que labora en la Secretaría y de las personas que la visitan, así como la de sus bienes muebles e inmuebles y la información documental y electrónica propiedad de la Secretaría;
+
+XLIII. Supervisar y coordinar la implementación de los programas y acciones que en materia de igualdad deba llevar a cabo la Secretaría de conformidad con la Ley General para la Igualdad entre Mujeres y Hombres y demás disposiciones jurídicas aplicables;
+
+XLIV. Promover la incorporación de la perspectiva de género y el enfoque de igualdad en la cultura organizacional de la Secretaría;
+
+XLV. Instruir a las unidades administrativas que tenga adscritas la realización de los trámites ante la Oficina de la Presidencia de la República, la Secretaría de la Función Pública y demás instancias competentes respecto de los procesos bajo su cargo, a fin de dar cumplimiento con las disposiciones jurídicas aplicables;
+
+XLVI. Informar a la persona titular de la Secretaría, los asuntos relevantes de las unidades administrativas que tenga adscritas;
+
+XLVII. Coordinar el apoyo a las entidades paraestatales sectorizadas a la Secretaría, en sus procesos de ejecución de los servicios de apoyo administrativo en materia de planeación, programación, presupuesto, tecnologías de la información, recursos humanos, recursos materiales, contabilidad y archivos, que deban realizar ante las instancias competentes;
+
+XLVIII. Fungir como ventanilla única para la atención de trámites y solicitudes relacionadas con la prestación de los servicios de apoyo administrativo a su cargo que formulen las unidades administrativas de la Secretaría, sin perjuicio de las atribuciones que en la materia tienen conferidas las direcciones generales que le están adscritas, así como las coordinaciones administrativas de la Secretaría;
+
+XLIX. Dirigir las acciones de la Secretaría en materia de mejora regulatoria interna, y
+
+L. Coordinar la integración de la información relativa al desarrollo de los programas de las unidades administrativas de la Secretaría y de los informes que, en su caso, la Secretaría deba remitir a las instancias correspondientes acerca de su cumplimiento.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+Artículo 11 Bis A.- La Dirección General de Recursos Financieros tiene las atribuciones siguientes:
+
+I. Coordinar las actividades para programar, presupuestar, ejercer y controlar el gasto público correspondiente a las unidades administrativas de la Secretaría, de conformidad con las disposiciones jurídicas aplicables;
+
+II. Realizar el trámite para el registro en la cartera de inversión y el seguimiento de los programas y proyectos de inversión autorizados a las unidades administrativas de la Secretaría, así como auxiliarlas en los trámites para la autorización y modificación de oficios de liberación de inversión, conforme a las disposiciones jurídicas aplicables;
+
+III. Aplicar los instrumentos normativos y técnicos para la programación, formulación, adecuación, ejercicio y control del presupuesto autorizado a las unidades administrativas de la Secretaría y, en general, para la administración de los recursos financieros, de acuerdo con las políticas generales fijadas por la persona titular de la Secretaría y demás disposiciones jurídicas aplicables;
+
+IV. Coordinar la integración del anteproyecto de presupuesto, así como del calendario de gasto de las unidades administrativas de la Secretaría, así como el de sus órganos administrativos desconcentrados y el de las entidades paraestatales sectorizadas a la Secretaría que le remita la unidad administrativa competente de la Secretaría, de conformidad con las disposiciones jurídicas aplicables;
+
+V. Difundir entre las unidades administrativas de la Secretaría las políticas, normas, lineamientos y demás disposiciones que, en materia programática, presupuestaria, financiera y de organización, emitan las instancias competentes;
+
+VI. Coordinar las actividades relacionadas con la consolidación de la información del ejercicio del presupuesto de la Secretaría, incluidos el de sus órganos administrativos desconcentrados y el de las entidades paraestatales sectorizadas a la Secretaría, así como el de las entidades no sectorizadas, para la integración de la Cuenta de la Hacienda Pública Federal y, en su caso, de los demás informes relativos a dichos presupuestos;
+
+VII. Tramitar las solicitudes que, para el ejercicio, reembolso y pago del presupuesto, realicen las unidades administrativas de la Secretaría, así como efectuar el registro presupuestario y contable del gasto correspondiente;
+
+VIII. Coordinar las actividades inherentes para la integración, registro y actualización de las cuentas bancarias autorizadas por la Tesorería de la Federación, para la operación de las unidades administrativas de la Secretaría;
+
+IX. Requerir la información relativa al desarrollo de los programas de las unidades administrativas de la Secretaría e informar, en su caso, a las instancias correspondientes acerca de su cumplimiento;
+
+X. Coordinar a las unidades administrativas de la Secretaría para la atención de los requerimientos de información formulados y el seguimiento de las acciones determinadas por la Auditoría Superior de la Federación y fungir como enlace para el seguimiento estadístico de las auditorías y observaciones emitidas por el Órgano Interno de Control en la Secretaría y, en su caso, la unidad administrativa competente de la Secretaría de la Función Pública;
+
+XI. Solicitar a la Tesorería de la Federación la ministración de los recursos que correspondan a la Secretaría, de conformidad con las disposiciones jurídicas aplicables;
+
+XII. Coordinar la revisión del avance de los indicadores del sistema de evaluación del desempeño que reportan las unidades administrativas de la Secretaría;
+
+XIII. Proponer, para autorización de la persona titular de la Unidad de Administración y Finanzas, la distribución de gasto del proyecto de presupuesto de las unidades administrativas de la Secretaría;
+
+XIV. Realizar el proceso contable de las operaciones financieras y presupuestarias de la Secretaría, a fin de dar cumplimiento con las disposiciones fiscales y la rendición de cuentas establecidas en la normativa de la materia, y
+
+XV. Coordinar la operación con la mejora regulatoria interna de la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+Artículo 11 Bis B.- La Coordinación de Finanzas y Tesorería tiene las atribuciones siguientes:
+
+I. Determinar las actividades relacionadas con la recepción, revisión y trámite de las solicitudes de liquidación y comprobación del gasto descentralizado y centralizado de las unidades administrativas competentes de la Secretaría;
+
+II. Dirigir las actividades para el establecimiento del instrumento presupuestario denominado comisionado habilitado en las unidades administrativas de la Secretaría;
+
+III. Dirigir la operación del fondo rotatorio asignado a la Secretaría, así como enterar mensualmente a la Tesorería de la Federación los rendimientos generados por el manejo de dichos recursos, y supervisar la elaboración de la conciliación mensual;
+
+IV. Establecer las actividades necesarias para el registro, integración y actualización del Catálogo de Beneficiarios y Cuentas Bancarias de las coordinaciones administrativas de la Secretaría en el Sistema de Contabilidad y Presupuesto y en el Sistema Integral de Administración Financiera Federal;
+
+V. Autorizar en el Sistema Integral de Administración Financiera Federal, mediante firma electrónica, las cuentas por liquidar certificadas y, en su caso, los oficios de rectificación y avisos de reintegro, que generen la liquidación a personas proveedoras y contratistas; el manejo del comisionado habilitado; el fondo rotatorio, y el de nóminas del personal de la Secretaría;
+
+VI. Dirigir las actividades para la dotación, reposición y cancelación, en su caso, de las tarjetas de servicios no bancarios destinadas al pago de viáticos del personal comisionado y de gastos menores y urgentes requeridos por las unidades administrativas de la Secretaría;
+
+VII. Disponer que el registro de todas las cuentas por pagar en el Programa de Cadenas Productivas de Nacional Financiera, S.N.C., se realice en los términos y plazos establecidos en sus lineamientos específicos;
+
+VIII. Dirigir las actividades para la administración de las cuentas bancarias requeridas para el manejo de los recursos asignados al comisionado habilitado y al fondo rotatorio, para lo cual debe evaluar los productos financieros que ofrecen las instituciones financieras, así como los requisitos establecidos por estas, con el propósito de que se contraten aquellos productos que se apeguen más a las necesidades de la Secretaría;
+
+IX. Dirigir las actividades relativas a la integración de información referente a los ingresos por concepto de productos, derechos y aprovechamientos de las unidades administrativas de la Secretaría, para informar en tiempo y forma a través del Módulo de Estimaciones de Ingresos, así como las actividades relativas a la incorporación al esquema de pago electrónico de derechos, productos y aprovechamientos;
+
+X. Atender, en el ámbito de sus atribuciones, los requerimientos que realicen los órganos fiscalizadores durante el desarrollo de sus auditorías, así como facilitarles la generación y entrega de documentación solicitada, a fin de solventar las observaciones realizadas por dichos órganos, y
+
+XI. Realizar el entero de las retenciones efectuadas a las personas proveedoras de bienes y servicios, por concepto de Impuesto Sobre la Renta, Impuesto al Valor Agregado y 5 al millar, así como las retenciones por concepto de servicios personales.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+Artículo 11 Bis C.- La Coordinación de Información y Seguimiento tiene las atribuciones siguientes:
+
+I. Participar en las reuniones que se efectúen entre la Auditoría Superior de la Federación y las unidades administrativas de la Secretaría, con la finalidad de cumplir con la formalización del proceso de fiscalización de la Cuenta de la Hacienda Pública Federal;
+
+II. Coordinar a las unidades administrativas de la Secretaría en las actividades necesarias para atender los requerimientos de información y el seguimiento de las acciones determinadas por la Auditoría Superior de la Federación, de conformidad con las atribuciones conferidas en este reglamento y demás disposiciones jurídicas aplicables;
+
+III. Realizar las acciones para dar seguimiento estadístico a las auditorías y observaciones que determine el Órgano Interno de Control en la Secretaría y, en su caso, la unidad administrativa competente de la Secretaría de la Función Pública;
+
+IV. Coordinar la elaboración e integración de los programas e informes de la Secretaría a cargo de la Dirección General de Recursos Financieros de conformidad con las disposiciones jurídicas aplicables;
+
+V. Dirigir las acciones necesarias al interior de la Secretaría, y con apoyo de las unidades administrativas competentes de la Secretaría, para cumplir con las disposiciones en materia de control interno y cuyo seguimiento sea asignado a la Dirección General de Recursos Financieros;
+
+VI. Fungir como enlace de la Secretaría a través de las plataformas electrónicas para la implementación de los programas que deriven de los programas sectoriales, institucionales y especiales en que participe la Secretaría y cuyo seguimiento sea asignado a la Dirección General de Recursos Financieros, con el apoyo de las unidades administrativas que correspondan para su atención;
+
+VII. Realizar las acciones de la Secretaría relacionadas con la mejora regulatoria interna, y
+
+VIII. Coordinar las acciones para la integración de la documentación e información que corresponda presentar en el Comité de Control y Desempeño Institucional de la Secretaría, de conformidad con las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+Artículo 11 Bis D.- La Coordinación de Programación y Presupuesto del Sector Central tiene las atribuciones siguientes:
+
+I. Difundir el marco normativo y metodológico del proceso de programación y presupuestación en las unidades administrativas competentes de la Secretaría;
+
+II. Llevar a cabo la integración y consolidación de la información del proceso de programación y presupuesto de la Secretaría, de conformidad con las disposiciones jurídicas aplicables;
+
+III. Integrar el anteproyecto, proyecto y calendario del presupuesto de la Secretaría, así como realizar la consolidación de los programas y proyectos de inversión a cargo de las unidades administrativas de la Secretaría e integrar el estado del ejercicio y las modificaciones del presupuesto para conformar la Cuenta de la Hacienda Pública Federal;
+
+IV. Llevar a cabo el proceso de revisión, mejora y actualización de las matrices de indicadores de programas presupuestarios, así como el avance de los indicadores del Sistema de Evaluación del Desempeño que reportan las unidades administrativas competentes de la Secretaría;
+
+V. Autorizar las adecuaciones presupuestarias internas y gestionar la autorización de las externas ante las autoridades correspondientes, así como autorizar suficiencias presupuestarias solicitadas por las unidades administrativas de la Secretaría, previa revisión, registro y control de dichas suficiencias;
+
+VI. Realizar el registro en el módulo de ingresos excedentes de los dictámenes y notificaciones de ingresos excedentes que soliciten las unidades administrativas competentes de la Secretaría, para su posterior requerimiento de ampliación líquida;
+
+VII. Acreditar que los trabajos del proceso de integración de la información presupuestaria, programática y contable de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría y de las entidades paraestatales sectorizadas a esta sean conciliados con las diferentes plataformas para la integración de cifras para la Cuenta de la Hacienda Pública Federal;
+
+VIII. Establecer el proceso de análisis de la información de la apertura y el cierre contable del presupuesto de la Secretaría, conforme a la normativa aplicable, para que dicho presupuesto refleje la totalidad de los eventos seleccionados y contenidos en el Sistema de Contabilidad y Presupuesto, así como verificar que se cumpla con los requerimientos necesarios para ser registrados correctamente en el Sistema de Contabilidad Gubernamental;
+
+IX. Determinar las acciones para la integración del documento anual del mecanismo de planeación de los programas y proyectos de inversión con cargo al presupuesto de la Secretaría, así como realizar el trámite de registro de los programas y proyectos de inversión y del trámite de autorización de los oficios de liberación de inversión de las unidades administrativas competentes de la Secretaría, de acuerdo con las disposiciones jurídicas aplicables;
+
+X. Coordinar el proceso de revisión y envío de la información que las unidades administrativas competentes de la Secretaría registran en el Sistema de Control y Transparencia de Fideicomisos sobre los fideicomisos, mandatos y análogos que coordinan o de aquellos cuyo presupuesto es con cargo a recursos presupuestarios;
+
+XI. Dirigir la participación de las unidades administrativas competentes de la Secretaría respecto de los programas presupuestarios a su cargo en las evaluaciones externas establecidas por la Unidad de Evaluación del Desempeño;
+
+XII. Elaborar los proyectos de las evaluaciones del impacto presupuestario de los proyectos de iniciativas de leyes o decretos, así como de los proyectos de reglamentos y de las demás disposiciones administrativas de carácter general que se pretendan someter a consideración de la persona titular del Ejecutivo Federal a cargo de las unidades administrativas de la Secretaría;
+
+XIII. Autorizar las modificaciones de las solicitudes plurianuales, especiales y de trámite interno, así como gestionar las autorizaciones externas requeridas por las unidades administrativas de la Secretaría;
+
+XIV. Determinar los trámites a realizar, respecto de las solicitudes, consultas y evaluaciones, tanto internas como externas, en materia presupuestaria, programación, contabilidad e inversiones, requeridas por las unidades administrativas competentes de la Secretaría;
+
+XV. Dirigir la elaboración e integración de los diferentes informes ya sean trimestrales, anuales o que sean solicitados por diferentes entes públicos, en materia de presupuesto, programación, inversiones, contabilidad, indicadores de resultados, deuda pública y finanzas respecto del presupuesto de la Secretaría cuando así proceda conforme a las disposiciones jurídicas aplicables;
+
+XVI. Informar de la gestión, dentro del ámbito de su competencia, de las solicitudes que realicen las unidades administrativas competentes de la Secretaría a la Dirección General de Recursos Financieros, para ejercer recursos de las partidas presupuestarias que requieran la autorización de la persona titular de la Secretaría o de la persona servidora pública en que se delegue dicha facultad, conforme a las disposiciones jurídicas aplicables, y
+
+XVII. Dirigir la integración de los avances correspondientes en el cumplimiento de los compromisos asumidos por la Secretaría, plasmados en las Bases de Colaboración suscritas en el marco del Programa de Gobierno vigente.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+Artículo 11 Bis E.- La Dirección General de Recursos Humanos tiene las atribuciones siguientes:
+
+I. Dirigir la coordinación de la implementación de los procesos y programas en materia de administración de personal; profesionalización; educación y cultura organizacional; desarrollo humano y social; derechos humanos; reconocimiento laboral; motivación; reclutamiento, selección, nombramientos, contratación y movimientos del personal; innovación; remuneraciones; relaciones laborales; formación, capacitación y certificación por competencias laborales; evaluación del desempeño; servicio social; becas; prestaciones; salud, deporte, cultura y recreación del personal y, en su caso, para las personas pensionadas y jubiladas; servicios educacionales y asistenciales para dicho personal y sus familiares y de los sistemas de educación abierta, y de seguridad, higiene, riesgos profesionales y medio ambiente en el trabajo, así como coordinar la difusión de dichos procesos y programas de conformidad con las disposiciones jurídicas aplicables;
+
+II. Someter a consideración de la persona titular de la Unidad de Administración y Finanzas las directrices y criterios en materia de recursos humanos;
+
+III. Instrumentar con instituciones públicas o privadas, convenios, bases de colaboración, acuerdos y demás actos relacionados con las atribuciones previstas en la fracción I de este artículo, que no generen obligaciones de pago;
+
+IV. Aplicar los criterios técnicos e implementar la metodología para el análisis y dictamen administrativo de las estructuras orgánica y ocupacional, así como de las plantillas de personal de la Secretaría;
+
+V. Evaluar y presentar para aprobación superior, las propuestas de modificación a las estructuras orgánica y ocupacional, así como actualizar estas y las plantillas de personal de las unidades administrativas de la Secretaría;
+
+VI. Dirigir la coordinación para la integración del Manual de Organización General de la Secretaría, de los manuales de organización específicos, de procedimientos y, en su caso, de servicios al público de las unidades administrativas de la Secretaría, así como realizar las acciones pertinentes para su validación, registro y actualización;
+
+VII. Coordinar la formulación del anteproyecto de presupuesto del Capítulo 1000 “Servicios Personales” de la Secretaría y supervisar su ejercicio, así como distribuir, solicitar, integrar y custodiar la documentación comprobatoria del citado capítulo, de conformidad con las disposiciones jurídicas aplicables;
+
+VIII. Expedir los nombramientos de las personas servidoras públicas de base y de confianza de las unidades administrativas de la Secretaría, así como coordinar la emisión de las bajas de dicho personal, de conformidad con las disposiciones jurídicas aplicables;
+
+IX. Validar la contratación de servicios profesionales por honorarios y suscribir los contratos respectivos, de conformidad con las disposiciones jurídicas aplicables;
+
+X. Coordinar las acciones necesarias para la operación, evaluación y control del proceso de elaboración de nómina y del pago de remuneraciones al personal, así como realizar la liquidación y pago a terceros, de conformidad con las disposiciones jurídicas aplicables;
+
+XI. Instrumentar el otorgamiento de las prestaciones y servicios que correspondan al personal sindicalizado conforme a las condiciones generales de trabajo y al demás personal de la Secretaría, en términos de las disposiciones jurídicas aplicables, así como expedir credenciales y medios de identificación al personal de la Secretaría;
+
+XII. Normar la integración, resguardo, custodia y certificación de los expedientes laborales y administrativos del personal de la Secretaría, e integrar, llevar el control, la guarda y custodia y certificación de los expedientes a su cargo y, en su caso, de aquellos documentos que obren en sus archivos;
+
+XIII. Coordinar la integración, actualización, registro y difusión del catálogo institucional de puestos y su incorporación al sistema electrónico de información que determine la Secretaría de la Función Pública;
+
+XIV. Dirigir la coordinación de la operación de los programas informáticos que coadyuven a la administración de funciones relativas al Capítulo 1000 “Servicios Personales”, con la intervención que, en su caso, corresponda a la Dirección General de Tecnologías y Seguridad de la Información;
+
+XV. Representar a la persona titular de la Secretaría ante el Tribunal Federal de Conciliación y Arbitraje, Juzgados de Distrito y Tribunales Colegiados en Materia de Trabajo, y demás autoridades locales y federales en materia del trabajo, en las controversias laborales que se susciten entre la Secretaría y el personal que le preste servicios en las unidades administrativas de la dependencia, así como formular demandas y contestaciones relacionadas con el personal, que no sean competencia de otra unidad administrativa, conciliar, absolver posiciones, celebrar convenios, allanarse, transigir, ejercitar acciones, desistirse de estas, interponer recursos y ejecutar laudos o resoluciones en los juicios laborales, ante las autoridades señaladas en representación de la persona titular de la Secretaría; formular demandas y desistirse en los juicios de amparo contra las resoluciones y laudos que se dicten e interponer los medios de defensa que en derecho procedan;
+
+XVI. Orientar y, en su caso, intervenir en el levantamiento de toda clase de actas administrativas donde se hagan constar hechos o actos de las personas servidoras públicas de la Secretaría para los efectos legales que correspondan; imponer las sanciones y medidas disciplinarias que procedan conforme a las condiciones generales de trabajo y demás disposiciones jurídicas aplicables, así como revocarlas, previo acuerdo superior; gestionar ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado los dictámenes respectivos sobre el estado de salud de los trabajadores; emitir acuerdos para formalizar la terminación de la relación laboral en los casos de invalidez o incapacidad total y permanente; ejecutar las resoluciones que notifique el Órgano Interno de Control en la Secretaría o la Secretaría de la Función Pública, en términos de las disposiciones jurídicas aplicables, y emitir el cese de los efectos del nombramiento o, en su caso, revocar el mismo cuando proceda, conforme a las disposiciones jurídicas aplicables;
+
+XVII. Fijar criterios o directrices, de conformidad con las disposiciones jurídicas aplicables, para determinar:
+
+a) La emisión o suspensión de pagos, la aplicación de descuentos y retenciones legales, así como realizar lo anterior en cumplimiento a lo autorizado u ordenado por mandamiento judicial o por autoridad administrativa competente, y
+
+b) La recuperación de las cantidades correspondientes a salarios no devengados, pagos en exceso, y las recuperaciones originadas por la aplicación de las medidas disciplinarias y sanciones administrativas contempladas en las condiciones generales de trabajo y demás ordenamientos aplicables;
+
+XVIII. Coadyuvar en la conducción de las relaciones con el Sindicato de la Secretaría, participar en el establecimiento, revisión y modificación de las condiciones generales de trabajo, difundirlas entre el personal y vigilar su aplicación y cumplimiento;
+
+XIX. Analizar y comunicar materiales informativos en apoyo al personal de la Secretaría, en términos de las disposiciones jurídicas aplicables;
+
+XX. Generar la información estadística y los indicadores necesarios para la conducción de los procesos y programas de innovación, formación, desarrollo de personal, servicios educacionales, comunicación y difusión interna;
+
+XXI. Coordinar a las diversas instancias de la Secretaría que participen en las comisiones mixtas en materia laboral, de conformidad con las disposiciones jurídicas aplicables y, en su caso, desempeñar las funciones de secretariado técnico;
+
+XXII. Coordinar el registro de las licencias con o sin goce de sueldo del personal de la Secretaría autorizadas por la persona titular de la Unidad de Administración y Finanzas o las unidades administrativas de la Secretaría, de conformidad con las disposiciones jurídicas aplicables;
+
+XXIII. Planear y conducir la operación de los subsistemas del Servicio Profesional de Carrera, para la Secretaría;
+
+XXIV. Instrumentar, aplicar, administrar y difundir las disposiciones en materia del Servicio Profesional de Carrera;
+
+XXV. Planear e instruir la integración del programa operativo anual del Servicio Profesional de Carrera en la Secretaría y proponer su aprobación al Comité Técnico de Profesionalización, así como dirigir la coordinación, la operación y actualización del Registro Único de Servidores Públicos de la Secretaría;
+
+XXVI. Coordinar la implementación de los programas para la formación, capacitación y certificación del personal en materia de igualdad de género, y
+
+XXVII. Asesorar a las unidades administrativas de la Secretaría en materia laboral y de recursos humanos, así como en la aplicación de las disposiciones en estas materias.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+Artículo 11 Bis F.- La Coordinación de Administración de Personal tiene las atribuciones siguientes:
+
+I. Implementar los procesos y programas en materia de administración de personal; nombramientos, contratación y movimientos del personal; remuneraciones; prestaciones; salud, deporte, cultura y recreación del personal y, en su caso, para las personas pensionadas y jubiladas, así como coordinar su difusión de conformidad con las disposiciones jurídicas aplicables;
+
+II. Someter a consideración de la persona titular de la Dirección General de Recursos Humanos las directrices y criterios en materia de administración de personal;
+
+III. Formular y proponer para aprobación superior el anteproyecto del presupuesto del Capítulo 1000 de “Servicios Personales” de la Secretaría, así como vigilar y asegurar el pago oportuno de las remuneraciones, del otorgamiento de prestaciones y de servicios conforme a la normativa y lineamientos vigentes;
+
+IV. Supervisar la elaboración, trámite y control de las afectaciones presupuestarias por ampliaciones líquidas, reducciones líquidas y transferencia de recursos y por creación, conversión, cancelación y transferencia de plazas-puesto, que requieran las unidades administrativas de la Secretaría;
+
+V. Validar la designación de las personas servidoras públicas de base y de confianza de las unidades administrativas de la Secretaría, así como para la emisión de las bajas del personal, de conformidad con las disposiciones jurídicas aplicables;
+
+VI. Dirigir el previo análisis necesario para validar la contratación de servicios profesionales por honorarios y para suscribir los contratos respectivos, de conformidad con las disposiciones jurídicas aplicables;
+
+VII. Coordinar que el pago de las remuneraciones a las personas servidoras públicas de la Secretaría se efectúe conforme a las disposiciones y tiempos establecidos y que las aportaciones de la Secretaría y retenciones del personal en materia de terceros institucionales se apeguen a los calendarios establecidos;
+
+VIII. Vigilar el control del procesamiento de nóminas y la emisión de productos de pago para corroborar que estos se efectúen conforme a los calendarios establecidos y se apliquen los descuentos enviados por terceros;
+
+IX. Coordinar las acciones para la integración de la documentación comprobatoria para justificar la erogación que durante el ejercicio del gasto de los recursos asignados a la Secretaría por concepto de Capítulo 1000 “Servicios Personales”;
+
+X. Supervisar la gestión de prestaciones y servicios de seguros diversos, sistema de ahorro para el retiro, créditos del Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, expedición de credenciales, pensión alimenticia, entre otros;
+
+XI. Proponer los criterios y lineamientos para la integración, resguardo, custodia y certificación de los expedientes laborales y administrativos del personal de la Secretaría, e integrar, llevar el control, la guarda y custodia y certificación de los expedientes a su cargo y, en su caso, de aquellos documentos que obren en sus archivos;
+
+XII. Coordinar la operación de los programas informáticos que constituyen el sistema informático integral de presupuesto, nómina y servicios al personal y control de asistencia;
+
+XIII. Aplicar los criterios o directrices que fije la Dirección General de Recursos Humanos para:
+
+a) Emitir o suspender los pagos, descuentos y retenciones legales al personal, así como realizar lo anterior en cumplimiento de lo autorizado u ordenado por mandamiento judicial o por una autoridad administrativa competente, y
+
+b) Realizar la recuperación de las cantidades correspondientes a salarios no devengados, pagos en exceso, y las recuperaciones originadas por la aplicación de las medidas disciplinarias y sanciones administrativas contempladas en las condiciones generales de trabajo y en las demás disposiciones jurídicas aplicables, y
+
+XIV. Incorporar en el sistema de recursos humanos las licencias con o sin goce de sueldo del personal de la Secretaría, de conformidad con las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+Artículo 11 Bis G.- La Coordinación de Planeación y de Estudios Organizacionales tiene las atribuciones siguientes:
+
+I. Implementar los procesos y programas en materia de educación y cultura organizacional; en reconocimiento laboral, y en actividades que contribuyan al desarrollo humano de las personas servidoras públicas y sus familias, así como coordinar su difusión de conformidad con las disposiciones jurídicas aplicables;
+
+II. Coordinar la implementación del programa de evaluación del desempeño para personal operativo, así como los procesos para la entrega de los reconocimientos por perseverancia y lealtad, los premios de antigüedad en el sector público, los estímulos y recompensas y el Premio Nacional de Administración Pública, así como organizar y dirigir la ceremonia de entrega de reconocimientos;
+
+III. Coordinar la operación del Comité de Ética de la Secretaría, de conformidad con las funciones y responsabilidades que corresponden a la persona titular de la Secretaría Técnica del Comité y que se precisan en sus Bases de Organización y Funcionamiento;
+
+IV. Poner a consideración de la persona titular de la Dirección General de Recursos Humanos las directrices y criterios en materia de organización, cultura organizacional y ética;
+
+V. Dirigir la realización de diagnósticos organizacionales, estudios y proyectos de mejora continua que sean necesarios para optimizar las estructuras orgánicas y ocupacionales de la Secretaría, y asesorar a las unidades administrativas competentes de la Secretaría en la elaboración de sus propuestas de organización;
+
+VI. Dirigir el análisis de las propuestas de modificación de las estructuras orgánicas y ocupacionales de la Secretaría, para el caso de puestos de mando y enlaces, a fin de presentarlas por medio de escenarios ante la Secretaría de la Función Pública, para su aprobación y registro;
+
+VII. Coordinar los trabajos para la integración del Manual de Organización General de la Secretaría, en apego a los cambios o modificaciones que se deriven de reformas a este reglamento y que modifiquen la estructura orgánica básica;
+
+VIII. Coordinar la integración y actualización de los manuales específicos de organización y de procedimientos de las unidades administrativas de la Secretaría, validar su contenido y presentarlos a consideración de la Dirección General de Recursos Humanos para proceder a su registro;
+
+IX. Dirigir y evaluar el proceso de elaboración y actualización de las descripciones, perfiles y valuaciones de puestos de los niveles de enlace a Secretario de Estado y su incorporación al sistema electrónico de información establecido por la Secretaría de la Función Pública;
+
+X. Dirigir la actualización del maestro de puestos de la Secretaría, e informar lo conducente a las unidades administrativas subordinadas por la Dirección General de Recursos Humanos para su incorporación en los sistemas institucionales pertinentes;
+
+XI. Coordinar las campañas de difusión sobre los programas que instrumente la Secretaría, a través de la Dirección General de Recursos Humanos, a fin de garantizar el máximo nivel de conocimiento de la población objetivo a través de cartas electrónicas, banners en la intranet, oficios, comunicados y papel tapiz de los equipos de cómputo, dirigidos al personal de la Secretaría, a fin de brindar la información correspondiente en tiempo y forma, y
+
+XII. Colaborar en la planeación y programación de las actividades sustantivas, así como al seguimiento de las metas y compromisos que deban reportarse a las diferentes instancias internas y externas.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+Artículo 11 Bis H.- La Coordinación de Desarrollo Profesional tiene las atribuciones siguientes:
+
+I. Coordinar la implementación de los procesos y programas en materia de profesionalización, desarrollo humano y social, reclutamiento, selección, formación, capacitación y certificación por capacidades y competencias laborales, evaluación del desempeño, servicio social, becas, así como coordinar su difusión de conformidad con las disposiciones jurídicas aplicables;
+
+II. Someter a consideración de la persona titular de la Dirección General de Recursos Humanos las directrices y criterios en materia de desarrollo del Servicio Profesional de Carrera en la Secretaría;
+
+III. Establecer convenios de cooperación técnica, referente a prácticas profesionales, servicio social, intercambio académico, investigación u otro que fortalezca la profesionalización de los recursos humanos con instituciones educativas, públicas y privadas en materia de gestión de recursos humanos y del Servicio Profesional de Carrera en la Secretaría, así como los convenios de colaboración de recursos humanos con dependencias del Gobierno federal con fines de desarrollo profesional;
+
+IV. Dirigir la integración y presentación del Programa Operativo Anual del Servicio Profesional de Carrera, así como vigilar la consecución de las metas programadas, con la finalidad de cumplir con los indicadores dispuestos en el subsistema de control y evaluación;
+
+V. Coordinar y evaluar mediante las directrices establecidas por el Comité Técnico de Profesionalización de la Secretaría la operación de los subsistemas del Servicio Profesional de Carrera relativos a la planeación de recursos humanos, ingreso, desarrollo profesional, capacitación, certificación de capacidades y competencias; evaluación del desempeño, separación y de control y evaluación;
+
+VI. Coordinar las sesiones del Comité Técnico de Profesionalización de la Secretaría y la integración de la información y antecedentes que deben someterse a la autorización del Comité en sus sesiones ordinarias y extraordinarias, así como la elaboración de las actas y seguimiento de acuerdos, con el fin de atender los requerimientos de la institución;
+
+VII. Aprobar, a través del Comité Técnico de Profesionalización y en coordinación con la Secretaría de la Función Pública, los cargos que, por excepción, sean de libre designación, el inicio de los procedimientos de reclutamiento y selección, modificación de perfil de puestos, movimientos laterales y reorganizaciones de puestos sujetos al Servicio Profesional de Carrera;
+
+VIII. Dirigir la operación de los procesos de reclutamiento y selección de los puestos sujetos al Servicio Profesional de Carrera, de los puestos de nivel operativo, y del servicio social o prácticas profesionales; supervisar la aplicación de los criterios establecidos en los lineamientos, políticas y demás disposiciones normativas en las materias de recursos humanos, así como garantizar la transparencia en estos procesos;
+
+IX. Dirigir la aplicación de la metodología del diagnóstico de necesidades de capacitación y proponer e instrumentar los programas de capacitación, desarrollo profesional y certificación de capacidades o de capacidades y competencias, que requieran las personas servidoras públicas de la Secretaría;
+
+X. Dirigir la aplicación de la metodología para la operación de los procesos de evaluación del desempeño, establecimiento de metas y el desarrollo profesional del personal sujeto al Servicio Profesional de Carrera;
+
+XI. Dirigir y administrar el Servicio Profesional de Carrera, a través del establecimiento de programas institucionales en la Secretaría, conforme a la Ley del Servicio Profesional de Carrera en la Administración Pública Federal, su Reglamento y la normativa y procedimientos específicos que al efecto establezca la Secretaría de la Función Pública, y
+
+XII. Integrar el Programa Operativo Anual del Servicio Profesional de Carrera en la Secretaría y gestionar su aprobación ante el Comité Técnico de Profesionalización, y vigilar la consecución de las metas programadas, así como coordinar la operación y actualización del Registro Único de Servidores Públicos de la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+Artículo 11 Bis I.- La Dirección General de Recursos Materiales, Obra Pública y Servicios Generales tiene las atribuciones siguientes:
+
+I. Someter a consideración superior las directrices y criterios en materia de administración de recursos materiales, servicios generales, obras públicas y servicios relacionados con las mismas, de conformidad con las disposiciones jurídicas aplicables;
+
+II. Integrar los programas anuales de la Secretaría en materia de recursos materiales y servicios generales; de uso, conservación, mantenimiento y aprovechamiento de inmuebles; de administración y operación de los deportivos a cargo de la dependencia; de mantenimiento preventivo y correctivo de mobiliario y equipo; de adquisiciones, arrendamientos y servicios; de obras públicas y de servicios relacionados con las mismas; de disposición final y baja de bienes muebles; de aseguramiento integral; de asignación, servicio y mantenimiento de parque vehicular; de servicios generales y el de protección civil, así como coordinar y supervisar su ejecución, evaluación, seguimiento y actualización periódica, de conformidad con las disposiciones jurídicas aplicables;
+
+III. Supervisar las investigaciones de mercado y los procedimientos de contratación para la adquisición de bienes muebles e inmuebles; el arrendamiento de bienes muebles e inmuebles; la prestación de servicios; la realización de obras públicas y servicios relacionados con las mismas, así como los relacionados con los servicios de impresión y adquisición de bienes para los procesos productivos de los impresos señalados en la fracción I del artículo 11 Bis N de este reglamento, y suscribir los convenios, contratos y demás instrumentos jurídicos que se deriven de dichos procedimientos, salvo los señalados en la fracción III del artículo 11 Bis S del presente ordenamiento y, en su caso, modificar, suspender, rescindir y hacer efectiva la terminación anticipada con proveedores de bienes, contratistas y prestadores de servicios, en los términos de las disposiciones jurídicas aplicables.
+
+Para realizar las acciones señaladas en el párrafo anterior de esta fracción, respecto de la adquisición de bienes y servicios en materia de tecnologías de información y comunicaciones, se debe contar con un previo dictamen de la Dirección General de Tecnologías y Seguridad de la Información;
+
+IV. Conducir la administración de los bienes, arrendamientos y servicios; la programación del suministro de bienes que requieran las unidades administrativas de la Secretaría, así como de la prestación de los servicios generales contratados por esta, con excepción de los equipos e insumos definidos en materia de tecnologías de información y comunicaciones;
+
+V. Realizar los trámites para la regularización jurídica y administrativa de los bienes inmuebles y concesiones de espacios federales que tenga asignados la Secretaría, así como para el registro, control y actualización del padrón inmobiliario, de conformidad con las disposiciones jurídicas aplicables;
+
+VI. Realizar, en materia de bienes muebles a cargo de la Secretaría y de conformidad con las disposiciones jurídicas aplicables, las siguientes actividades:
+
+a) Coordinar la administración del Almacén Central;
+
+b) Coordinar el registro y control de los inventarios;
+
+c) Proponer para aprobación superior la desincorporación del régimen del dominio público, y
+
+d) Ejercer los actos de administración, transferencia y enajenación procedentes;
+
+VII. Coordinar la administración de los vehículos de la Secretaría, de conformidad con las disposiciones, políticas aplicables y reglas de operación;
+
+VIII. Contratar los seguros de los bienes patrimoniales de la Secretaría, para lo cual puede solicitar la opinión de la Unidad de Seguros, Pensiones y Seguridad Social;
+
+IX. Participar en los comités de Adquisiciones, Arrendamientos y Servicios, de Bienes Muebles, y de Obras Públicas y Servicios Relacionados con las Mismas, de Transparencia, así como, en su caso, en las comisiones mixtas de abastecimiento de la Administración Pública Federal y grupo interdisciplinario de la Secretaría, de conformidad con las disposiciones jurídicas aplicables;
+
+X. Planear y supervisar la ejecución de obras y servicios relacionados con las mismas de los inmuebles, y conservación de los bienes muebles, así como adecuar, reasignar, optimizar, definir, determinar los espacios, autorizar el uso de los inmuebles, así como accesos y mobiliario que soliciten las unidades administrativas de la Secretaría, y fungir como responsable inmobiliario en caso de ser nombrado por la persona titular de la Secretaría, de conformidad con las disposiciones jurídicas aplicables;
+
+XI. Coordinar la formulación del anteproyecto de presupuesto anual de los bienes, servicios, mantenimiento y obra pública de las unidades administrativas de la Secretaría que le corresponda, conforme a las disposiciones jurídicas aplicables;
+
+XII. Conducir los servicios de seguridad y vigilancia de los inmuebles que tenga asignados la Secretaría, y controlar el acceso de personas y bienes a estos, así como coordinar al personal de seguridad que preste los servicios de protección a las personas servidoras públicas de la Secretaría, de conformidad con las disposiciones jurídicas aplicables;
+
+XIII. Establecer criterios, estrategias, lineamientos y acciones que correspondan para garantizar el apoyo administrativo en materia de archivos, así como la organización de los archivos de trámite, concentración e histórico de las unidades administrativas de la Secretaría, en términos de la Ley General de Archivos y las disposiciones jurídicas aplicables;
+
+XIV. Resolver los asuntos que los ordenamientos que rigen las materias de administración de recursos materiales y servicios, así como de obras públicas y servicios relacionados con las mismas, le atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables de la persona titular de la Secretaría, y
+
+XV. Supervisar, de su presupuesto autorizado, la integración de la estructura programática-presupuestal, así como de la Cuenta de la Hacienda Pública Federal y de los informes de resultados autorizados.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+Artículo 11 Bis J.- La Coordinación de Adquisiciones y Contratación de Servicios tiene las atribuciones siguientes:
+
+I. Someter a consideración superior las políticas, bases y lineamientos, así como aquellas directrices en materia de adquisición de bienes, contratación de servicios y arrendamiento de bienes muebles, de conformidad con las disposiciones jurídicas aplicables;
+
+II. Conducir los procedimientos de:
+
+a) Contratación para la adquisición de bienes muebles, de arrendamiento de bienes muebles e inmuebles y de prestación de servicios de cualquier naturaleza, y
+
+b) Los relacionados con los servicios de impresión y adquisición de bienes para los procesos productivos de los impresos señalados en la fracción I del artículo 11 Bis N de este reglamento, salvo los señalados en la fracción III del artículo 11 Bis S de este.
+
+Asimismo, suscribir los convenios, contratos y demás instrumentos jurídicos que se deriven de los procedimientos señalados en el párrafo primero de esta fracción, y, en su caso, modificar, suspender, rescindir y hacer efectiva la terminación anticipada de dichos instrumentos jurídicos, en los términos de las disposiciones jurídicas aplicables.
+
+Para realizar lo previsto en esta fracción, respecto de la adquisición de bienes y servicios en materia de tecnologías de información y comunicaciones, se debe contar previamente con un dictamen de la Dirección General de Tecnologías y Seguridad de la Información;
+
+III. Participar en los comités de Adquisiciones, Arrendamientos y Servicios y de Bienes Muebles, de la Secretaría, así como, en su caso, en las comisiones mixtas de abastecimiento de la Administración Pública Federal, de conformidad con las disposiciones jurídicas aplicables, y
+
+IV. Resolver los asuntos que los ordenamientos aplicables que rigen las actividades de contratación de bienes muebles e inmuebles, arrendamientos y servicios le atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables de la persona titular de la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+Artículo 11 Bis K.- La Coordinación de Planeación, Operación y Servicios tiene las atribuciones siguientes:
+
+I. Participar en la elaboración de los proyectos de las políticas, lineamientos y procedimientos en materia de adquisiciones y arrendamientos, así como los correspondientes al control de almacenes, inventarios, y enajenación de bienes y archivo;
+
+II. Participar, en el ámbito de su competencia, en los procedimientos de adquisición de bienes inmuebles, arrendamiento de bienes muebles y la prestación de servicios;
+
+III. Implementar las políticas, lineamientos y acciones de coordinación en materia de archivos con las unidades administrativas de la Secretaría;
+
+IV. Conducir el registro y actualización de inventarios, aseguramientos, baja y destino final de los bienes, conforme a la normativa aplicable;
+
+V. Coordinar la ejecución de los procedimientos para el control de almacenes y suministros de los bienes muebles y materiales de consumo generalizado que adquiere la Secretaría;
+
+VI. Establecer especificaciones técnicas de los servicios para mantener la operación de la Secretaría, así como conducir la implementación de mecanismos, soluciones y tecnología que permita monitorear la prestación de los mismos;
+
+VII. Administrar la gestión del parque vehicular arrendado y de la Secretaría, así como los demás servicios que se deriven, de conformidad con las disposiciones, políticas aplicables y reglas de operación;
+
+VIII. Coordinar los servicios de seguridad y vigilancia que se proporcionan en los diversos inmuebles para salvaguardar los bienes, así como la implementación del programa del sistema de protección civil en la Secretaría, y
+
+IX. Coordinar y ejecutar la administración de los bienes y servicios generales contratados que requieran las unidades administrativas de la Secretaría, con excepción de los equipos e insumos definidos en materia de tecnologías de información y comunicaciones.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+Artículo 11 Bis L.- La Coordinación de Obras y Control Inmobiliario tiene las atribuciones siguientes:
+
+I. Someter a consideración superior los procedimientos en materia de obra pública, mantenimiento de inmuebles y servicios relacionados con las mismas, así como el control inmobiliario, de conformidad con las disposiciones jurídicas aplicables;
+
+II. Conducir los procedimientos de adjudicación, contratación, ejecución y supervisión en materia de obra pública, servicios relacionados con las mismas y mantenimiento de inmuebles, así como el control inmobiliario;
+
+III. Implementar las acciones relativas al registro, control y regulación jurídico-administrativa de los inmuebles a cargo de la Secretaría;
+
+IV. Conducir, de su presupuesto autorizado, la integración de la conformación de la estructura programática-presupuestal, así como de la Cuenta de la Hacienda Pública Federal y de los informes de los resultados autorizados a la Dirección General de Recursos Materiales, Obra Pública y Servicios Generales;
+
+V. Conducir ante las instancias federales y locales la regularización de los inmuebles para uso y aprovechamiento de la Secretaría, y
+
+VI. Apoyar la administración del presupuesto coordinado y descentralizado, autorizado para la Dirección General, así como supervisar la exención de pago de impuesto predial y de valores catastrales de los inmuebles federales ocupados por la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+Artículo 11 Bis M.- La Dirección General de Talleres de Impresión de Estampillas y Valores tiene las atribuciones siguientes:
+
+I. Producir y suministrar formas numeradas o valoradas, marbetes, precintos, signos distintivos de control fiscal, estampillas postales y otros impresos con características de seguridad, así como publicaciones y materiales impresos que requieran las dependencias y entidades de la Administración Pública Federal, las unidades administrativas y órganos administrativos desconcentrados de la Secretaría;
+
+II. Emitir la documentación comprobatoria por la prestación de servicios de impresión y demás relacionados, así como gestionar cuando corresponda la facturación y cobranza de los mismos;
+
+III. Brindar asesoría a las dependencias y entidades de la Administración Pública Federal, a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría que así lo requieran, en relación con materiales impresos a que se refiere la fracción I de este artículo;
+
+IV. Suscribir convenios, contratos, acuerdos, bases de colaboración y demás instrumentos jurídicos que tengan por objeto los términos y condiciones para prestar los servicios de impresión y demás relacionados, que no estén encomendados expresamente a otras unidades administrativas de la Secretaría;
+
+V. Designar persona perita para que emita dictamen sobre la autenticidad de cualquiera de los materiales impresos a que se refiere la fracción I de este artículo, cuando su producción se atribuya a esta dirección general;
+
+VI. Administrar la recepción, guarda, custodia y suministro de insumos e impresos que deriven de los procesos productivos;
+
+VII. Coordinar la formulación del anteproyecto de presupuesto requerido para el desarrollo de las actividades previstas en este artículo, y
+
+VIII. Instrumentar procesos, programas y directrices para la administración y control de la producción de los impresos especificados en la fracción I de este artículo, así como para las medidas de seguridad en el uso de la maquinaria en los procesos productivos.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+Artículo 11 Bis N.- La Coordinación de Producción y Mantenimiento tiene las atribuciones siguientes:
+
+I. Asesorar en materia de seguridad en impresos valorados y numerados a las dependencias y entidades de la Administración Pública Federal que lo requieran, en cuanto a los aspectos técnicos, de seguridad o diseño de los productos solicitados, a fin de evitar posibles falsificaciones, conforme a la normativa establecida;
+
+II. Emitir dictámenes sobre la autenticidad de los productos impresos en el taller de impresión de estampillas y valores que, ante la probable duda de su identificación, le presenten las dependencias y entidades de la Administración Pública Federal;
+
+III. Planear programas de producción de impresos con características de seguridad, tanto valorados y numerados, no valorados, así como de todos aquellos impresos solicitados por las dependencias y entidades de la Administración Pública Federal, evaluando los resultados obtenidos;
+
+IV. Vigilar que el proceso de producción de impresos, cumpla con las normas y políticas establecidas en la materia;
+
+V. Proponer la implementación de estrategias y mecanismos técnicos para la planeación, programación y control de los recursos e insumos utilizados en la producción solicitada por las dependencias y entidades de la Administración Pública Federal que lo requieran;
+
+VI. Establecer estrategias para el mantenimiento preventivo y correctivo de las instalaciones, maquinaria y equipo industrial;
+
+VII. Implementar mecanismos sobre el desarrollo de los programas, elaboración de reportes e informes de gestión, en materia de producción y mantenimiento;
+
+VIII. Dirigir los procesos de producción, mediante los controles de trabajo establecidos;
+
+IX. Vigilar la calidad de los insumos utilizados en los productos solicitados por las instancias gubernamentales o privadas, y
+
+X. Coordinar la destrucción de los excedentes y mermas de producción.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+Artículo 11 Bis O.- La Coordinación de Apoyo Técnico y Operativo tiene las atribuciones siguientes:
+
+I. Dirigir y promover los programas de comercialización y adquisición de insumos, con elementos y sistemas de seguridad de vanguardia, garantizando el cumplimiento y requerimientos de las dependencias y entidades de la Administración Pública Federal;
+
+II. Planear el desarrollo de los programas de aseguramiento de la calidad de los servicios que proporciona la Dirección General;
+
+III. Promover el desarrollo de estudios y procesos de mejora continua, orientados a la optimización de procesos técnicos y administrativos;
+
+IV. Planear y dirigir el desarrollo de los programas de promoción y comercialización en apoyo a las funciones sustantivas de la Dirección General;
+
+V. Coordinar la atención y servicio al cliente conforme a los programas establecidos;
+
+VI. Elaborar el programa anual de adquisiciones de maquinaria y equipo, así como gestionar la contratación de servicios;
+
+VII. Establecer políticas y lineamientos para racionalizar la administración de los recursos, conforme a la normativa aplicable;
+
+VIII. Coordinar la elaboración de la documentación comprobatoria por la prestación de servicios de impresión y demás relacionados, así como gestionar cuando corresponda la facturación y cobranza de los mismos, y
+
+IX. Formular para consideración de la persona titular de la Dirección General de Talleres de Impresión de Estampillas y Valores el anteproyecto de presupuesto requerido para el desarrollo de las actividades previstas en este artículo.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+Artículo 11 Bis P.- La Dirección General de Tecnologías y Seguridad de la Información tiene las atribuciones siguientes:
+
+I. Implementar la planeación, estrategias y soluciones institucionales en materia de tecnologías de información y comunicaciones y seguridad de la información, para sistematizar y optimizar las funciones y procesos de las unidades administrativas de la Secretaría;
+
+II. Definir y administrar la arquitectura, plataforma y herramientas en materia de tecnologías de información y comunicaciones y de seguridad de la información de las unidades administrativas de la Secretaría, así como encomendar dichos servicios a terceros;
+
+III. Coordinar la elaboración y ejecución anual del Plan Estratégico de Tecnologías de Información y Comunicaciones, y de Seguridad de la Información, de conformidad con los objetivos institucionales y operativos de la Secretaría;
+
+IV. Coordinar las acciones para la aplicación de los instrumentos normativos y técnicos que contengan las reglas, lineamientos, acciones, políticas, procesos y procedimientos en materia de tecnologías de información y comunicaciones, y de seguridad de la información en la Secretaría;
+
+V. Proveer y, en su caso, autorizar la incorporación de soluciones en materia de tecnologías de información y comunicaciones, y de seguridad de la información que requieran las unidades administrativas de la Secretaría;
+
+VI. Formular el anteproyecto de presupuesto coordinado en materia de tecnologías de información y comunicaciones, y de seguridad de la información y supervisar su ejercicio, conforme a las disposiciones aplicables;
+
+VII. Dictaminar la procedencia técnica y administrativa de los requerimientos de bienes y servicios en materia de tecnologías de información y comunicaciones, de seguridad de la información y de sistematización de procesos e información por parte de las unidades administrativas de la Secretaría, previo a que la Dirección General de Recursos Materiales, Obra Pública y Servicios Generales suscriba los convenios, contratos, bases de colaboración, acuerdos y demás instrumentos jurídicos;
+
+VIII. Definir con las unidades administrativas de la Secretaría, las facultades y el perfil funcional de los usuarios de los bienes y servicios tecnológicos, así como el acceso y uso de la información;
+
+IX. Coordinar la automatización y optimización de funciones y procesos que aplique la Secretaría;
+
+X. Dirigir la automatización, integración y actualización de los almacenes de procesos y de información de las unidades administrativas de la Secretaría;
+
+XI. Diseñar, implementar y mantener los servicios y herramientas de acceso para el uso de la información de la Secretaría;
+
+XII. Establecer, promover y vigilar los estándares, mecanismos, y controles que permitan la administración de la calidad y seguridad de la información en la Secretaría;
+
+XIII. Promover en las unidades administrativas de la Secretaría una cultura de calidad, seguridad y protección de la información;
+
+XIV. Suscribir, en el ámbito de su competencia, los convenios, contratos, bases de colaboración, acuerdos y demás instrumentos jurídicos en materia de tecnologías de información y comunicaciones, y de seguridad de la información, que no tengan por objeto generar obligaciones de pago;
+
+XV. Promover la mejora continua e innovación de la infraestructura y los servicios en materia de tecnologías de información y comunicaciones, y de seguridad de la información;
+
+XVI. Evaluar y, en su caso, proponer adecuaciones a los planes y procedimientos de continuidad de la operación e integridad de la información de los procesos críticos de las unidades administrativas de la Secretaría para casos de contingencia o desastre, en el ámbito de sus atribuciones;
+
+XVII. Instrumentar planes y procedimientos que permitan la continuidad de los servicios críticos en materia de tecnologías de información y comunicaciones a su cargo, y de seguridad de la información para casos de contingencia o desastre;
+
+XVIII. Coordinar, con las unidades administrativas competentes de la Secretaría, los planes de capacitación del personal de dicha dependencia en materia de tecnologías de información y comunicaciones, y de seguridad de la información;
+
+XIX. Brindar capacitación, asesoría y soporte técnico en materia de tecnologías de información y comunicaciones, y de seguridad de la información a las unidades administrativas de la Secretaría y, en su caso, a usuarios externos de los bienes y servicios tecnológicos de la Secretaría, de conformidad con las disposiciones aplicables;
+
+XX. Coordinar la implementación de la política digital nacional, y del desarrollo de sistemas y seguridad de la información en las unidades administrativas de la Secretaría;
+
+XXI. Establecer un modelo de gobierno de tecnologías de la información y comunicaciones, redes y seguridad de la información acorde con las políticas digitales establecidas por la Coordinación de Estrategia Digital Nacional, de conformidad con las disposiciones aplicables;
+
+XXII. Armonizar las políticas nacionales con las mejores prácticas internacionales en materia de regulación de redes, nombres de dominio, telecomunicaciones, privacidad y protección de datos;
+
+XXIII. Definir la arquitectura, metodologías, plataformas y herramientas de los sistemas de la Secretaría;
+
+XXIV. Coordinar la incorporación de soluciones relacionadas con los sistemas de la Secretaría, que realicen las dependencias y entidades ejecutoras de gasto de la Administración Pública Federal, para garantizar su interoperabilidad;
+
+XXV. Coordinar la automatización y optimización de las funciones y procesos relativos a la operación de los sistemas informáticos de la Secretaría, así como aquellos de las dependencias y entidades de la Administración Pública Federal relativos al gasto público;
+
+XXVI. Gestionar los procesos de transferencia del conocimiento y propiedad intelectual de las aplicaciones desarrolladas, y
+
+XXVII. Coordinar, con la Coordinación de Infraestructura Tecnológica de la Unidad de Inteligencia Financiera, las acciones relativas a la política digital de la Secretaría, la plataforma de servicios tecnológicos y de redes de comunicaciones, administración de los bienes y servicios tecnológicos, seguridad de la información, cumplimiento de indicadores, operaciones y continuidad.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+Artículo 11 Bis Q.- La Coordinación de Desarrollo y Mantenimiento de Sistemas tiene las atribuciones siguientes:
+
+I. Atender los requerimientos tecnológicos de las áreas sustantivas de la Secretaría y desarrollar los sistemas necesarios para satisfacerlos;
+
+II. Vigilar el cumplimiento de indicadores de calidad para el desarrollo de los sistemas de la Secretaría;
+
+III. Desarrollar la documentación de análisis, diseño y codificación de los sistemas, alineados a las políticas en materia tecnológica de la Administración Pública Federal;
+
+IV. Garantizar los niveles de servicio en las aplicaciones de la Secretaría que se encuentran en ambientes de producción;
+
+V. Capacitar periódicamente a las áreas usuarias en la funcionalidad de los sistemas desarrollados y liberados;
+
+VI. Someter los sistemas desarrollados a las pruebas de calidad necesarias a fin de garantizar tiempos de respuesta, bloqueo de intrusiones y facilidad de uso, y
+
+VII. Controlar el universo de versiones en los ambientes de desarrollo, pruebas y producción.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+Artículo 11 Bis R.- La Coordinación de Seguridad de la Información tiene las atribuciones siguientes:
+
+I. Identificar el riesgo y vulnerabilidades de los sistemas, activos, datos y capacidades de la Secretaría;
+
+II. Coordinar el monitoreo permanente de los bienes y servicios digitales, así como emitir reportes que permitan analizar los niveles de seguridad y vulnerabilidades;
+
+III. Diseñar salvaguardas para limitar el impacto de los eventos potenciales en servicios críticos e infraestructura;
+
+IV. Diseñar planes de respuesta a eventuales incidentes de ciberseguridad;
+
+V. Planificar los procesos de recuperación de los servicios y capacidades comprometidos ante un eventual incidente de seguridad, y
+
+VI. Acompañar a las áreas de desarrollo durante la codificación, con las mejores prácticas en ciberseguridad.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+Artículo 11 Bis S.- La Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural tiene las atribuciones siguientes:
+
+I. Aprobar los programas anuales de trabajo en materia de planeación museológica, museográfica y bibliohemerográfica, gestión de acervo documental, promoción y difusión cultural, educación, conservación y verificación de las colecciones pago en especie y acervo patrimonial, así como lo concerniente a intervenciones menores en los inmuebles bajo su responsabilidad, con excepción de las áreas competencia de la Unidad del Gobernador de Palacio Nacional;
+
+II. Formular y ejercer el presupuesto requerido para el desarrollo de las actividades que derivan de las facultades previstas en el presente reglamento, así como en el Reglamento para el Uso y Conservación de las Áreas, Objetos y Colecciones de Palacio Nacional;
+
+III. Suscribir convenios, contratos, acuerdos, bases de colaboración, resguardos y demás instrumentos jurídicos necesarios para el cumplimiento de sus atribuciones, en términos de las disposiciones jurídicas aplicables;
+
+IV. Administrar, verificar, custodiar, controlar, conservar y difundir las colecciones pago en especie y acervo patrimonial, el acervo bibliohemerográfico y los bienes muebles artísticos o culturales, que tenga bajo su responsabilidad;
+
+V. Establecer los mecanismos para el acceso, registro y control de las visitas guiadas, actividades artísticas y culturales que se realicen en los inmuebles y áreas de Palacio Nacional a su cargo;
+
+VI. Coordinar, consolidar e integrar las estadísticas institucionales con los datos que las áreas competentes generen, respecto de la afluencia de visitas a los inmuebles y asistencia a las actividades culturales realizadas en los inmuebles y áreas de Palacio Nacional a su cargo;
+
+VII. Proteger, conservar y difundir los inmuebles y las áreas de Palacio Nacional a su cargo, así como los bienes inmuebles por destino contenidos en ellos;
+
+VIII. Ejercer las atribuciones que le confiera el Reglamento para el Uso y Conservación de las Áreas, Objetos y Colecciones de Palacio Nacional, sin perjuicio de las que correspondan a la Unidad del Gobernador de Palacio Nacional;
+
+IX. Presidir la Comisión Interinstitucional para el uso y conservación de las áreas, objetos y colecciones de Palacio Nacional;
+
+X. Acordar con la persona titular de la Unidad de Administración y Finanzas, el plan de trabajo que se presentará ante la Comisión Interinstitucional, en coordinación con la Unidad del Gobernador de Palacio Nacional, en sus respectivos ámbitos de competencia;
+
+XI. Coordinar con la Dirección General de Recursos Materiales, Obra Pública y Servicios Generales de la Secretaría los trabajos en materia de obra pública, mantenimiento, protección, conservación, seguridad y restauración que se requieran en los inmuebles a su cargo, así como en Palacio Nacional, con excepción de las áreas competencia de la Unidad del Gobernador de Palacio Nacional, así como elaborar los proyectos de conservación y, de ser procedente, tramitar la validación de estos ante el Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, según corresponda;
+
+XII. Autorizar y coordinar el traslado de los bienes culturales de Palacio Nacional que están bajo su cargo, a lugares distintos de su ubicación.
+
+Los bienes que tengan carácter de monumentos arqueológicos, históricos o artísticos, previo a su traslado, se debe notificar y coordinar oportunamente con el Instituto Nacional de Antropología e Historia o el Instituto Nacional de Bellas Artes y Literatura, según corresponda;
+
+XIII. Promover la investigación de las áreas y bienes que conforman el Palacio Nacional e inmuebles a su cargo, de las colecciones pago en especie y acervo patrimonial, así como del acervo bibliohemerográfico bajo custodia de esta dirección general;
+
+XIV. Autorizar la publicación y difusión del producto de las investigaciones y estudios arqueológicos, históricos, arquitectónicos, artísticos, de conservación, de restauración y educativos, realizados en torno a Palacio Nacional e inmuebles a su cargo;
+
+XV. Autorizar los guiones museológicos y museográficos de exposiciones temporales y permanentes para los recintos históricos, museos y áreas de exhibición de la Secretaría;
+
+XVI. Autorizar las actividades de planeación, diseño, ejecución y promoción de los proyectos museográficos y museológicos en los recintos históricos, museos y áreas de exhibición a su cargo, así como la implementación y desarrollo de aplicaciones de identidad visual cultural en materiales institucionales de difusión;
+
+XVII. Coordinar con las instancias competentes, las acciones necesarias para la conservación preventiva, mantenimiento, restauración y seguridad general de los espacios, acervos, materiales y mobiliarios que se encuentren al interior de bibliotecas, hemerotecas, fondos y recintos históricos, museos y demás áreas a su cargo;
+
+XVIII. Coordinar las actividades relativas a la conservación, resguardo, control, registro, digitalización y difusión de los acervos bibliohemerográficos que se resguarden en las bibliotecas y fondos a su cargo;
+
+XIX. Coordinar el registro de consulta pública de las colecciones pago en especie y acervo patrimonial, así como la edición y publicación de su respectivo catálogo;
+
+XX. Acordar con la persona titular de la Unidad de Administración y Finanzas la programación cultural bajo su responsabilidad;
+
+XXI. Coordinar la planeación, ejecución y desarrollo de los proyectos que deriven de la programación cultural aprobada;
+
+XXII. Coordinar la promoción y difusión de las actividades artísticas y culturales, visitas guiadas, cursos y talleres para fomentar la cultura y apreciación del patrimonio cultural, bajo resguardo de la Secretaría;
+
+XXIII. Administrar las bibliotecas, hemerotecas, fondos, recintos históricos, museos y áreas protocolarias a su cargo;
+
+XXIV. Promover con dependencias, organismos culturales, educativos y científicos, entidades, gobiernos de las entidades federativas y de los municipios, así como a instituciones de educación superior y asociaciones que no persigan fines de lucro, los programas de colaboración, enlace cultural y académico, así como actividades de investigación, intercambio, promoción y difusión cultural;
+
+XXV. Analizar, evaluar y dar seguimiento a los estándares de satisfacción del público en torno a las visitas realizadas en los inmuebles bajo su responsabilidad, así como a las actividades culturales realizadas por las áreas a su cargo;
+
+XXVI. Establecer y promover estrategias para el fomento de las colecciones pago en especie y acervo patrimonial, el acervo bibliohemerográfico y los bienes inmuebles por destino a su cargo, entre el público en general, así como con artistas e instituciones culturales;
+
+XXVII. Supervisar el resguardo de los inmuebles y áreas de Palacio Nacional a su cargo, en coordinación con las instancias competentes en materia de seguridad pública y la Dirección General de Recursos Materiales, Obra Pública y Servicios Generales de la Secretaría y gestionar la atención de los requerimientos emergentes que resulten indispensables para salvaguardar las instalaciones y los bienes contenidos en ellas, y
+
+XXVIII. Representar a la Secretaría, en materia de promoción cultural y acervo patrimonial, ante dependencias, organismos culturales, educativos y científicos, entidades federativas, municipios, instituciones de educación superior y asociaciones que no persigan fines de lucro.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+Artículo 11 Bis T.- La Coordinación de Patrimonio Cultural tiene las atribuciones siguientes:
+
+I. Coordinar las estrategias de promoción y difusión de las actividades artísticas y culturales, visitas guiadas, cursos, talleres, servicios bibliotecarios, así como de las colecciones de pago en especie y acervo patrimonial, del acervo bibliohemerográfico, bienes inmuebles por destino e inmuebles a cargo de la Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural;
+
+II. Suscribir los convenios, contratos, acuerdos, bases de colaboración, resguardos y demás instrumentos jurídicos o documentos para el cumplimiento de sus funciones;
+
+III. Conducir la elaboración, promoción, análisis, investigación y difusión de las actividades educativas, de vinculación cultural y académica, así como de comunicación e investigación, a fin de generar una sensibilización en torno al patrimonio cultural en resguardo de la Secretaría;
+
+IV. Coordinar a las áreas competentes en la planeación y desarrollo de los proyectos que conforman la programación cultural;
+
+V. Supervisar la implementación de acciones para la inclusión, seguridad y accesibilidad en los inmuebles y áreas a cargo de la Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural, de manera conjunta con las unidades o autoridades competentes;
+
+VI. Supervisar la implementación de acciones de inclusión para la atención integral del público en general, tanto en las actividades que se programen en Palacio Nacional, como en los demás inmuebles a cargo de la Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural;
+
+VII. Proponer estrategias y contenidos para la apreciación social de las colecciones pago en especie y acervo patrimonial, del acervo bibliohemerográfico, bienes inmuebles por destino e inmuebles a cargo de la Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural;
+
+VIII. Formular estrategias y directrices para la generación de contenidos de difusión cultural;
+
+IX. Coordinar y dirigir la generación de canales de comunicación que permitan la difusión de la programación cultural entre la población;
+
+X. Validar y coordinar productos editoriales electrónicos e impresos en coparticipación con las áreas competentes;
+
+XI. Fomentar la participación de las organizaciones y asociaciones en la programación de actividades culturales, artísticas y educativas;
+
+XII. Dirigir la planeación, diseño, desarrollo, ejecución y seguimiento integral de los proyectos, estrategias y actividades en las bibliotecas, hemerotecas, fondos, museos, áreas de exhibición y recintos a cargo de la Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural;
+
+XIII. Implementar y ejecutar las políticas de administración, mantenimiento y conservación de los inmuebles destinados a bibliotecas, hemerotecas, museos, áreas de exhibición y fondos a cargo de la Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural;
+
+XIV. Validar y verificar el cumplimiento de los procedimientos o normativas, que resulten aplicables, para el funcionamiento, uso y custodia, de bibliotecas, hemerotecas, fondos históricos, museos y áreas de exhibición de la Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural;
+
+XV. Coordinar los procedimientos que deban implementarse para la investigación, integración y fortalecimiento de los archivos bibliohemerográficos y de las colecciones pago en especie y acervo patrimonial;
+
+XVI. Coordinar y promover la formulación y ejecución de estrategias y programas para administrar, catalogar, conservar, digitalizar, custodiar, manipular, controlar, preservar y difundir las colecciones pago en especie y acervo patrimonial, así como el acervo bibliohemerográfico a cargo de la Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural;
+
+XVII. Coordinar la planeación, desarrollo, ejecución y seguimiento integral de los proyectos, estrategias y actividades de diseño sobre la museografía y museología en los recintos históricos, museos y áreas de exhibición a cargo de la Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural;
+
+XVIII. Coordinar la implementación de la conceptualización y la ejecución de los guiones museológicos y museográficos, así como supervisar la planeación y ejecución integral del diseño y montaje de exposiciones temporales y permanentes en recintos históricos, museos y áreas de exhibición de la Secretaría;
+
+XIX. Supervisar las actividades de montaje, exhibición y desmontaje de exposiciones temporales y permanentes en los inmuebles a cargo de la Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural;
+
+XX. Dirigir el desarrollo de proyectos de exhibición, adaptación y ambientación de áreas que por sus características, necesidades, importancia y potencialidad puedan ser acondicionadas como áreas expositivas;
+
+XXI. Elaborar e implementar acciones de conservación, restauración y verificación sobre las colecciones pago en especie y acervo patrimonial, del acervo bibliohemerográfico, bienes inmuebles por destino e inmuebles a cargo de la Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural, y
+
+XXII. Coordinar y desarrollar los mecanismos de difusión y promoción de los proyectos, programas y actividades de naturaleza artística-cultural a cargo de la Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural, a través de los medios, plataformas o tecnologías que resulten indispensables para dichos fines.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+Artículo 11 Bis U.- La Unidad de Igualdad de Género tiene las atribuciones siguientes:
+
+I. Promover la institucionalización de la perspectiva y transversalidad de género en la cultura organizacional y quehacer institucional de la Secretaría;
+
+II. Planear, programar y difundir acciones que incorporen la perspectiva y transversalidad de género de conformidad con el presupuesto anual asignado a la Secretaría para tal efecto;
+
+III. Impulsar y difundir el conocimiento de las obligaciones y derechos contraídos por los Estados Unidos Mexicanos, en tratados y convenciones internacionales de derechos humanos e igualdad de género, en el ámbito de su competencia;
+
+IV. Proponer acuerdos a las unidades administrativas de la Secretaría para ejecutar las políticas, acciones y programas de su competencia establecidos en el Programa Nacional para la Igualdad entre Mujeres y Hombres;
+
+V. Asesorar, en materia de igualdad de género, a las unidades administrativas de la Secretaría, incluyendo a sus órganos administrativos desconcentrados, así como a las entidades del sector coordinado, y coadyuvar con estas, en la formulación de sus planes de acción para la igualdad de género;
+
+VI. Implementar, en coordinación con la Dirección General de Recursos Humanos y, en su caso, con las unidades homólogas de los órganos administrativos desconcentrados y entidades coordinadas del sector, programas para la formación, capacitación y certificación del personal en materia de igualdad de género;
+
+VII. Fungir como enlace de la Secretaría ante el Instituto Nacional de las Mujeres y otras dependencias y entidades de la Administración Pública Federal para coordinar acciones en materia de igualdad de género;
+
+VIII. Participar como representante de la Secretaría en los órganos colegiados en los que deba intervenir, en materia de igualdad de género;
+
+IX. Elaborar, con la participación de las unidades administrativas de la Secretaría y proponer, para aprobación superior, el Programa de Acción para la Igualdad de Género de la Secretaría;
+
+X. Coordinar con el Instituto Nacional de las Mujeres las acciones que deba realizar la Secretaría en materia de política pública con perspectiva de género, de conformidad con lo establecido en las disposiciones jurídicas aplicables y en cumplimiento al Programa Nacional para la Igualdad entre Mujeres y Hombres;
+
+XI. Elaborar estudios e investigaciones para implementar en la Secretaría, sus órganos administrativos desconcentrados y las entidades coordinadas del sector, un sistema de información, registro, seguimiento y evaluación de la situación de mujeres y hombres en materia de igualdad de género;
+
+XII. Elaborar y difundir los informes de evaluación periódica sobre los resultados alcanzados en el cumplimiento de los objetivos, estrategias y políticas ejecutadas por la Secretaría en cumplimiento del Programa Nacional para la Igualdad entre Mujeres y Hombres;
+
+XIII. Acordar con la persona titular de la Unidad de Administración y Finanzas los asuntos de su competencia, y
+
+XIV. Las demás facultades que en el ámbito de sus respectivas competencias le atribuyan las disposiciones jurídicas aplicables o le confieran las personas titulares de la Secretaría y de la Unidad de Administración y Finanzas.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+Artículo 11 Bis V.- La Unidad del Gobernador de Palacio Nacional tiene las atribuciones siguientes:
+
+I. Supervisar las condiciones físicas de las instalaciones en las que la persona titular del Ejecutivo Federal resida y realice sus actividades dentro de Palacio Nacional;
+
+II. Emitir los criterios técnicos necesarios para ejecutar las acciones de mejora que requieran las instalaciones de Palacio Nacional en el ámbito de competencia;
+
+III. Establecer los criterios para dar el seguimiento y, en su caso, ejecutar las instrucciones de la persona titular del Ejecutivo Federal relacionadas con la protección, conservación, restauración y mantenimiento a las instalaciones a que hace referencia la fracción I del presente artículo, en su caso, en coordinación con la Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural;
+
+IV. Proponer a la Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural la elaboración de estudios y propuestas para la asignación de áreas y optimización de espacios en Palacio Nacional, en particular de aquellos espacios en que la persona titular del Ejecutivo Federal resida y lleve a cabo sus actividades dentro de Palacio Nacional;
+
+V. Integrar un plan de trabajo para la supervisión del mantenimiento y conservación de las instalaciones en las que la persona titular del Ejecutivo Federal resida y lleve a cabo sus actividades dentro de Palacio Nacional, en coordinación y auxilio de las instancias competentes;
+
+VI. Dar seguimiento a los proyectos y trabajos autorizados, para la protección, conservación, restauración y mantenimiento a las instalaciones en las que la persona titular del Ejecutivo Federal resida y lleve a cabo sus actividades dentro de Palacio Nacional, en coordinación de las instancias competentes;
+
+VII. Gestionar ante las instancias competentes los insumos necesarios para el cumplimiento de sus atribuciones;
+
+VIII. Suscribir los contratos, convenios, acuerdos, bases de colaboración y demás documentos relativos al ejercicio de sus funciones, en su caso, en colaboración con la Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural;
+
+IX. Establecer coordinación con las instancias competentes para recibir el apoyo técnico y logístico necesario para el desarrollo de los eventos públicos en los que participe la persona titular del Ejecutivo Federal en las instalaciones de Palacio Nacional;
+
+X. Establecer coordinación con las instancias competentes, a fin de contar con el apoyo y facilidades de carácter administrativo y material requeridas para el desempeño de sus funciones, y
+
+XI. Las demás que le encomiende la persona titular del Ejecutivo Federal y su superior jerárquico, así como las que le confieran otras disposiciones jurídicas.
 
 #### SECCIÓN II. SUBSECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO
 
@@ -4499,6 +5293,10 @@ III. Coadyuvar en la revisión y emitir la opinión de los anteproyectos de inst
 
 IV. Supervisar los estudios, propuestas y análisis, así como opinar jurídicamente, sobre el diseño institucional de los entes que conforman la Administración Pública Federal para fines de congruencia global, en los proyectos de iniciativas de leyes, reglamentos, decretos y acuerdos presidenciales en cuya formulación o emisión deba participar la Secretaría;
 
+> <small>(ADICIONADA, D.O.F. 17 DE ENERO DE 2024)</small>
+
+IV Bis. Emitir las opiniones jurídicas, los criterios, interpretaciones administrativas y medidas para la correcta aplicación de las leyes y demás disposiciones de carácter general en las materias competencia de la Secretaría, de la Subprocuraduría Fiscal Federal de Legislación y Consulta, y de la Dirección General de Legislación y Consulta, que no correspondan a otra unidad administrativa de la Secretaría;
+
 V. Opinar y asesorar jurídicamente a las unidades administrativas de la Secretaría en materia del régimen jurídico de las empresas productivas del Estado;
 
 VI. Supervisar la integración de la relación de las entidades paraestatales de la Administración Pública Federal, en coordinación con las unidades administrativas competentes que están adscritas a la Secretaría y de otras dependencias;
@@ -4547,7 +5345,9 @@ V. Opinar y asesorar jurídicamente a las unidades administrativas de la Secreta
 
 VI. Supervisar la emisión de la opinión sobre los aspectos jurídicos de los convenios, contratos, acuerdos y, en general, sobre cualquier instrumento jurídico que deban suscribir las personas titulares de la Secretaría o de la Procuraduría Fiscal de la Federación, en el ámbito de competencia de la Dirección General de Legislación y Consulta;
 
-VII. Coordinar la elaboración de las propuestas de criterios, interpretaciones administrativas y medidas para la correcta aplicación de las leyes y demás disposiciones de carácter general en el ámbito de competencia de la Dirección General de Legislación y Consulta;
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2024)</small>
+
+VII. Coordinar la elaboración de las propuestas de opiniones jurídicas, criterios, interpretaciones administrativas y medidas para la correcta aplicación de las leyes y demás disposiciones de carácter general en el ámbito de competencia de la Dirección General de Legislación y Consulta;
 
 VIII. Dirigir la integración de la relación de las entidades paraestatales de la Administración Pública Federal, en coordinación con las unidades administrativas competentes que están adscritas a la Secretaría y de otras dependencias;
 
@@ -4601,7 +5401,9 @@ III. Analizar y, en su caso, opinar respecto de los asuntos relacionados con la 
 
 IV. Administrar el Registro Público de Organismos Descentralizados, calificar la procedencia de la inscripción de los documentos que los organismos descentralizados presenten y coordinar la expedición de las constancias y certificaciones relativas.
 
-B. A la Dirección de Legislación y Consulta y de Servicios Legales corresponde:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+B. A la Dirección de Legislación y Consulta corresponde:
 
 I. Apoyar, en colaboración con la Subprocuraduría Fiscal Federal de Amparos, a las unidades administrativas de la Secretaría, a sus órganos administrativos desconcentrados y, en su caso, a las entidades paraestatales sectorizadas a esta, en la atención y elaboración de los escritos de demanda o contestación, según corresponda, de las controversias constitucionales o acciones de inconstitucionalidad, y de los recursos que procedan, y
 
@@ -4839,7 +5641,9 @@ XVI. Opinar y, en su caso, formular y proponer los proyectos de iniciativas de l
 
 XVII. Elaborar el proyecto de informe que la persona titular de la Procuraduría Fiscal de la Federación debe enviar al Congreso de la Unión, sobre la operación de cada Zona Económica Especial y los resultados obtenidos en el desarrollo económico y social del área de influencia, conforme a la Ley Federal de Zonas Económicas Especiales, con la participación que corresponda a otras unidades administrativas y órganos administrativos desconcentrados de la Secretaría, así como los informes que se deban rendir respecto de las acciones que se realicen en relación con las Zonas Económicas Especiales;
 
-XVIII. Opinar sobre los aspectos jurídicos relativos a los procedimientos de contrataciones públicas consolidadas de los bienes, arrendamientos, y servicios en los que participa la Secretaría como área consolidadora, en colaboración con las demás unidades administrativas competentes de esta Secretaría;
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2024)</small>
+
+XVIII. Opinar sobre los aspectos jurídicos relativos a los procedimientos de contrataciones públicas de los bienes, arrendamientos, y servicios en los que participa la Secretaría, en colaboración con las demás unidades administrativas competentes de esta dependencia;
 
 XIX. Opinar sobre los aspectos jurídicos relativos a los procedimientos de contratación en materia de adquisiciones, arrendamientos, obras públicas y prestación de servicios, enajenación y donación, en aquellos casos en los que se requiera la autorización de la persona titular de la Secretaría o, en su caso, se trate de procesos relativos a la adquisición de bienes o prestación de servicios que deba administrar la unidad administrativa competente de la Procuraduría Fiscal de la Federación;
 
@@ -6419,9 +7223,13 @@ VIII. Emitir las solicitudes de información a los auxiliares en materia de func
 
 IX. Evaluar los datos, reportes y estadísticas en general derivados de las funciones de tesorería, con el fin de presentar información oportuna para la toma de decisiones de la persona titular de la Tesorería de la Federación;
 
-X. Supervisar los trámites que se realicen por parte de la Tesorería de la Federación en materia de Recursos Humanos y Administración de personal, ante la Oficialía Mayor de la Secretaría;
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2024)</small>
 
-XI. Supervisar los trámites que se realicen por parte de la Tesorería de la Federación en materia de Recursos Financieros, Materiales y Servicios Generales, ante la Oficialía Mayor de la Secretaría;
+X. Supervisar los trámites que se realicen por parte de la Tesorería de la Federación en materia de Recursos Humanos y Administración de personal, ante la Unidad de Administración y Finanzas de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2024)</small>
+
+XI. Supervisar los trámites que se realicen por parte de la Tesorería de la Federación en materia de Recursos Financieros, Materiales y Servicios Generales, ante la Unidad de Administración y Finanzas de la Secretaría;
 
 XII. Conducir los trabajos de planeación estratégica en coordinación con las unidades administrativas de la Tesorería de la Federación, con la finalidad de mejorar los procesos en materia de funciones de tesorería;
 
@@ -6431,1671 +7239,129 @@ XIV. Proponer a las unidades administrativas de la Tesorería de la Federación,
 
 XV. Atender los asuntos que le encomiende la persona titular de la Tesorería de la Federación.
 
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 17 DE ENERO DE 2024)</small>
+
 #### SECCIÓN VII. DE LAS COORDINACIONES ADMINISTRATIVAS
+
+> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2024)</small>
 
 ###### Artículo 37.
 
-A la persona titular de la Oficialía Mayor le corresponde originalmente la competencia de los asuntos de las unidades administrativas que le sean adscritas y tiene las facultades siguientes:
-
-I. Emitir, conforme a las disposiciones jurídicas aplicables:
-
-a) Los instrumentos normativos y técnicos para la planeación, organización y administración de los recursos humanos, materiales, financieros, de tecnologías de la información, comunicaciones y de patrimonio cultural del que disponga la Secretaría;
-
-b) Las disposiciones de carácter general que establezcan el modelo organizacional y de operación de las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados, así como los lineamientos y directrices aplicables a las unidades administrativas equivalentes en las entidades de la Administración Pública Federal, así como las herramientas y procesos para el seguimiento de dichos instrumentos, y
-
-c) Las disposiciones en los rubros que expresamente le sean atribuidos en la normativa aplicable en materia de austeridad;
-
-II. Conducir las actividades de las unidades administrativas de su adscripción, y recibir en acuerdo a las personas titulares;
-
-III. Conducir los servicios de apoyo administrativo en materia de planeación, programación, presupuesto, tecnologías de la información, recursos humanos, recursos materiales, contabilidad, archivos, y los demás que sean necesarios de la Secretaría;
-
-IV. Someter a la consideración de la persona titular de la Secretaría el proyecto de presupuesto anual y el calendario de gasto de las unidades administrativas de la Secretaría, incorporando el correspondiente a los órganos administrativos desconcentrados y a las entidades del sector coordinado por la misma, de conformidad con las disposiciones aplicables;
-
-V. Emitir los oficios de liberación de inversión de las unidades administrativas de la Secretaría, de conformidad con las disposiciones aplicables, así como, en su caso, los oficios para su modificación;
-
-VI. Instruir, conforme a las disposiciones aplicables, la emisión de los instrumentos normativos y técnicos para la elaboración de los manuales de organización general de la Secretaría y específicos de las unidades administrativas, así como el de procedimientos y, en su caso, de servicios al público;
-
-VII. Instruir la prestación de los servicios de apoyo administrativo para el ejercicio, reembolso, pago y registro presupuestario y contable del gasto de las unidades administrativas de la Secretaría, así como para solicitar a la Tesorería de la Federación la ministración de recursos que les correspondan, de conformidad con las disposiciones aplicables;
-
-VIII. Dirigir las relaciones con el sindicato de la Secretaría y participar en el establecimiento de las condiciones generales de trabajo;
-
-IX. Proponer a la persona titular de la Secretaría la designación de representantes de la Secretaría ante las comisiones y comités en que, términos de las disposiciones aplicables, el personal de la Oficialía Mayor deba de participar;
-
-X. Promover la aplicación del sistema de evaluación del desempeño al personal de la Secretaría y el otorgamiento de estímulos y recompensas que establezcan la ley, las condiciones generales de trabajo y demás disposiciones aplicables, y resolver los asuntos relacionados sobre el otorgamiento de estímulos y recompensas, antigüedad y demás prestaciones laborales del personal de la Secretaría;
-
-XI. Conducir la administración de los recursos materiales, la prestación de los servicios generales, la obra pública y servicios relacionados con la misma, el mantenimiento de los bienes responsabilidad de la Secretaría, así como promover la regularización jurídica y administrativa de los bienes inmuebles de la propia dependencia, de conformidad con las disposiciones aplicables;
-
-XII. Suscribir convenios, contratos, acuerdos, bases de colaboración y demás instrumentos jurídicos, así como los demás documentos, siempre que no impliquen actos de administración de los recursos de la Secretaría;
-
-XIII. Dirigir la administración de las bibliotecas, hemerotecas, recintos y fondos históricos, museos, áreas de exposición; así como las áreas patrimoniales de Palacio Nacional, responsabilidad de la Secretaría, de conformidad con las disposiciones aplicables;
-
-XIV. Coordinar la implementación de los programas de inspección, seguridad, cuidado, protección, conservación, restauración, uso y vigilancia de las áreas patrimoniales, objetos y colecciones que se encuentren en Palacio Nacional;
-
-XV. Proponer a la persona titular de la Secretaría los proyectos de programas que establece el Sistema Nacional de Protección Civil en lo que corresponda a la Secretaría, y llevar a cabo la comunicación y coordinación permanentes con el citado sistema;
-
-XVI. Supervisar y coordinar los programas y acciones que en materia de igualdad deba llevar a cabo la Secretaría de conformidad con la Ley General para la Igualdad entre Mujeres y Hombres y demás disposiciones aplicables;
-
-XVII. Conducir las acciones para la atención de los requerimientos formulados por la Auditoría Superior de la Federación y para el control estadístico de las auditorías y observaciones determinadas por el Órgano Interno de Control en la Secretaría, ante las unidades administrativas de la Secretaría;
-
-XVIII. Representar a la persona titular de la Secretaría ante el Tribunal Federal de Conciliación y Arbitraje y Juntas Locales y Federales de Conciliación y Arbitraje y demás autoridades del trabajo en las controversias que no estén encomendadas expresamente a otra unidad administrativa de la propia Secretaría, ejercitando las acciones, excepciones y defensas, conciliar, allanarse y transigir en los juicios en que intervenga en representación de la Secretaría, interponiendo los recursos que procedan, ante el citado Tribunal y Juntas mencionadas, absolver posiciones a nombre de la persona titular de la Secretaría, ejerciendo la representación en el curso del proceso respectivo;
-
-XIX. Conducir la administración de las colecciones de arte, así como aprobar la programación cultural de la Secretaría;
-
-XX. Conducir la producción y suministro de impresos con o sin características de seguridad, y de publicaciones y materiales impresos para las unidades administrativas de la Secretaría, así como para las dependencias y entidades de la Administración Pública Federal que lo soliciten y asesorarlas en esta materia;
-
-XXI. Expedir certificaciones de constancias de los expedientes relativos a los asuntos de su competencia y, en su caso, de aquellos que obren en sus archivos;
-
-XXII. Conducir la planeación, organización y otorgamiento de los servicios de tecnologías de la información, los sistemas integrales de información, las comunicaciones institucionales, así como la seguridad y calidad de la información de la Secretaría;
-
-XXIII. Participar o, en su caso, designar a la persona servidora pública que corresponda de acuerdo a su competencia, de conformidad con las disposiciones aplicables, en comités, comisiones y cualquier otro órgano colegiado, así como, en aquellos que, por designación de la persona titular de la Secretaría, deba acudir en representación de la Secretaría;
-
-XXIV. Participar en el Consejo Consultivo del Sistema de Servicio Profesional de Carrera y presidir el Comité Técnico de Profesionalización de la Secretaría, conforme a lo previsto en la Ley del Servicio Profesional de Carrera en la Administración Pública Federal y su Reglamento, y demás disposiciones jurídicas aplicables;
-
-XXV. Planear, establecer y conducir la política general en materia de contrataciones públicas reguladas por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas, emitir e interpretar las normas, lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en dichas materias; así como promover la homologación de políticas, normas y criterios en materia de contrataciones públicas; incluyendo el diseño y operación del sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, denominado CompraNet, y demás sistemas informáticos que se requieran para tal efecto;
-
-XXVI. Proponer a la persona titular de la Secretaría los proyectos de iniciativas de modificaciones a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, a la Ley de Obras Públicas y Servicios Relacionados con las Mismas, sus reglamentos y, en general, a las disposiciones en dichas materias que se requieran derivado de las mejores prácticas e innovación en materia de contrataciones públicas;
-
-XXVII. Ejercer las atribuciones de la Secretaría como área consolidadora de los procedimientos de adquisición de bienes y contratación de servicios que autorice, conforme a los criterios que emita en materia de contrataciones consolidadas y las relativas a los contratos marco para bienes, arrendamientos y servicios;
-
-XXVIII. Ejercer el control presupuestario de las contrataciones públicas consolidadas, en los términos que se disponga en los lineamientos relativos a este tipo de contrataciones;
-
-XXIX. Suscribir los contratos marco y, en su caso, los instrumentos jurídicos derivados de los mismos, que celebre la Secretaría en términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; así como instruir la terminación anticipada de los mismos;
-
-XXX. Conducir la participación de la Oficialía Mayor en las negociaciones de los tratados o convenios internacionales que incluyan disposiciones en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas y coordinar compras estratégicas del mismo que generen beneficios al país;
-
-XXXI. Someter a la consideración de la persona titular de la Secretaría la normatividad y estrategias para promover la participación de la proveeduría nacional en las compras de gobierno, así como asesorar a las dependencias y entidades de la Administración Pública Federal sobre el cumplimiento de la normativa en esa materia;
-
-XXXII. Designar y remover a los titulares de las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados de la Administración Pública Federal, así como dar seguimiento al desempeño de sus funciones en términos de las disposiciones jurídicas aplicables;
-
-XXXIII. Proponer a los candidatos para ocupar los puestos de titulares de las Unidades de Administración y Finanzas o equivalentes en las entidades paraestatales, en términos de las disposiciones jurídicas aplicables, así como dar seguimiento al desempeño de sus funciones en términos de la normativa aplicable;
-
-XXXIV. Emitir y dirigir las estrategias, criterios generales, metodológicos y normativos, así como las disposiciones administrativas relacionadas con la integración, operación y seguimiento de las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados, así como las aplicables a las unidades equivalentes en las entidades de la Administración Pública Federal;
-
-XXXV. Conducir la coordinación de las Unidades de Administración y Finanzas de las dependencias, sus órganos administrativos desconcentrados y de sus equivalentes en las entidades paraestatales de la Administración Pública Federal, en términos de las disposiciones que emita para tal efecto;
-
-XXXVI. Participar y proponer proyectos de iniciativas de leyes, reglamentos, decretos, acuerdos presidenciales y demás normativa en cuya formulación o emisión deba participar la Secretaría, con el propósito de ejercer una debida coordinación de las Unidades de Administración y Finanzas o sus equivalentes en las entidades paraestatales de la Administración Pública Federal, así como la instrumentación del modelo organizacional y de operación de las Unidades de Administración y Finanzas, y de los lineamientos y directrices aplicables a las unidades equivalentes en las entidades paraestatales de la Administración Pública Federal;
-
-XXXVII. Requerir información, documentación, archivos o el acceso a sistemas informáticos en ejercicio de sus atribuciones en materia de coordinación de las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados, y
-
-XXXVIII. Las demás que le señalan otras disposiciones y las que le confiera directamente la persona titular de la Secretaría.
+(DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
 ###### Artículo 38.
 
-La Unidad de Compras y Contrataciones Públicas Consolidadas tiene las atribuciones siguientes:
+(DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-I. Supervisar la elaboración de los contratos marco, sus modificaciones y, en su caso, los instrumentos de adhesión a los mismos, en el ámbito de competencia de la Oficialía Mayor de la Secretaría, y proponer a la persona titular, en su caso, la rescisión, suspensión o terminación anticipada de los mismos;
+Artículo 38 A.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-II. Coordinar los procedimientos de contratación consolidada que se lleven a cabo para la adquisición de bienes, arrendamientos y servicios, así como el procedimiento para la celebración de contratos marco;
+Artículo 38 B.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-III. Emitir las directrices y proponer a la persona titular de la Oficialía Mayor los criterios generales o lineamientos para llevar a cabo las contrataciones consolidadas de los bienes, arrendamientos y servicios que se determinen;
+Artículo 38 C.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-IV. Establecer la estrategia de contratación con base en las investigaciones de mercado en materia de procedimientos de contratación consolidados y contratos marco, emitidos por la Unidad de Planeación e Investigaciones de Mercado, para los procesos de compra;
-
-V. Organizar y coordinar a los grupos de trabajo que se conformen con las áreas especializadas de las dependencias y entidades de la Administración Pública Federal, a efecto de elaborar los anexos técnicos o, en su caso, los términos de referencia correspondientes, en los procedimientos de contratación consolidados y contratos marco;
-
-VI. Participar con la Unidad de Normatividad en la elaboración de los instrumentos administrativos que regulen las contrataciones consolidadas;
-
-VII. Participar con la Unidad de Normatividad en la elaboración de las modificaciones a la regulación en materia de adquisiciones, arrendamientos y servicios del sector público;
-
-VIII. Participar en las reuniones con representantes de las cámaras de comercio o de la industria, que tengan por objeto solicitar información técnica necesaria para llevar a cabo los procedimientos de contratación consolidados de adquisición o arrendamiento de bienes o la prestación de los servicios y contratos marco;
-
-IX. Orientar a las dependencias o entidades de la Administración Pública Federal para la debida integración de la información en materia de procedimientos de contratación consolidada de adquisiciones o arrendamiento de bienes o servicios;
-
-X. Supervisar la elaboración de los instrumentos administrativos que regulen las contrataciones consolidadas y contratos marco que se realicen a través de la Secretaría;
-
-XI. Participar, en coordinación con las unidades competentes, en la elaboración de las políticas de innovación y mejores prácticas que deberán ser adoptadas en materia de adquisiciones, arrendamientos y servicios;
-
-XII. Participar, en coordinación con las unidades administrativas competentes de la Oficialía Mayor, en la identificación de los bienes, arrendamientos o servicios susceptibles de consolidación, o de contratarse a través de un contrato marco que garantice las mejores condiciones de contratación;
-
-XIII. Coordinar el diseño de los mecanismos y supervisar el seguimiento de las contrataciones consolidadas que los entes o dependencias lleven a cabo previa determinación de la Oficialía Mayor, y
-
-XIV. Atender los asuntos que le encomiende la persona titular de la Oficialía Mayor.
-
-Artículo 38 A.- La Dirección General Requirente tiene las atribuciones siguientes:
-
-I. Solicitar a la Dirección General Contratante, la adquisición o arrendamiento de bienes o servicios requeridos para atender las necesidades de las dependencias y entidades participantes en los procedimientos de contratación consolidada;
-
-II. Participar con la Unidad de Planeación e Investigaciones de Mercado y los representantes de las dependencias y entidades consolidadas de la Administración Pública Federal participantes, para determinar las especificaciones técnicas necesarias para la adquisición o arrendamiento de bienes que consolidará la Oficialía Mayor;
-
-III. Evaluar y analizar el resultado de la investigación de mercado respecto de procedimientos de contratación consolidados que envíe la Unidad de Planeación e Investigaciones de Mercado, para determinar la estrategia de contratación;
-
-IV. Dirigir los grupos de trabajo que se conformen con las áreas especializadas de las dependencias y entidades para la elaboración de los anexos técnicos en los procedimientos de contratación consolidados;
-
-V. Determinar los criterios de cada etapa de la integración de la información de los procedimientos de contratación consolidada en materia de adquisición o arrendamiento de bienes o la prestación de los servicios;
-
-VI. Vigilar durante el procedimiento de contratación consolidado la atención oportuna de solicitudes de apoyo para la integración y entrega de documentos que realicen las dependencias o entidades de la Administración Pública Federal para la adquisición o arrendamiento de bienes;
-
-VII. Supervisar la participación del personal a su cargo, en la elaboración de los criterios generales en materia de adquisición o arrendamiento de bienes o la prestación de los servicios;
-
-VIII. Participar con los equipos de trabajo, que lleven a cabo reuniones con representantes de las cámaras de comercio o de la industria, que tengan por objeto solicitar información técnica necesaria para llevar a cabo los procedimientos de contratación consolidados de adquisición o arrendamiento de bienes o de servicios;
-
-IX. Asesorar a las dependencias o entidades de la Administración Pública Federal para la debida integración de la información para el inicio de los procedimientos de contratación consolidada de adquisiciones o arrendamientos de bienes;
-
-X. Elaborar con la participación de las dependencias y entidades consolidadas las justificaciones que se requieran para someter a consideración del órgano colegiado correspondiente, la excepción a la licitación pública para la contratación de adquisiciones o arrendamiento de bienes o la prestación de los servicios consolidados;
-
-XI. Dirigir la participación del personal a su cargo en los actos de los procedimientos de contratación de su competencia;
-
-XII. Verificar que los procesos de contratación consolidada de adquisición o arrendamiento de bienes o servicios cuentan con la documentación necesaria para llevarlos a cabo, y
-
-XIII. Atender los asuntos que le encomiende la persona titular de la Unidad de Compras y Contrataciones Públicas Consolidadas.
-
-Artículo 38 B.- La Dirección General Contratante tiene las atribuciones siguientes:
-
-I. Proponer a la persona titular de la Unidad de Compras y Contrataciones Públicas Consolidadas los criterios generales en materia de adquisición consolidada de bienes, arrendamientos y servicios;
-
-II. Dirigir el procedimiento para la elaboración, suscripción y, en su caso, rescisión, suspensión o terminación anticipada de los contratos marco, así como de sus convenios modificatorios y de adhesión;
-
-III. Dirigir los procedimientos de contratación consolidada de adquisición de bienes, arrendamientos, y servicios;
-
-IV. Participar con la Dirección General Requirente y con las dependencias y entidades de la Administración Pública Federal en la elaboración de los anexos técnicos para la contratación consolidada de bienes, arrendamientos y servicios;
-
-V. Dirigir a los grupos de trabajo que se conformen con las dependencias y entidades de la Administración Pública Federal en los procedimientos de contratación en materia de adquisición consolidada de bienes, arrendamientos y servicios y contratos marco;
-
-VI. Dirigir los grupos de trabajo que se integren con las dependencias y entidades de la Administración Pública Federal para la adquisición de bienes, así como con los que se conformen con las cámaras de comercio o de la industria;
-
-VII. Requerir información a las dependencias y entidades de la Administración Pública Federal, necesaria para llevar a cabo los procedimientos de contratación consolidados para la adquisición de bienes, arrendamientos y servicios;
-
-VIII. Verificar que se elabore y actualice la base de datos de la información que remitan las dependencias y entidades consolidadas de la Administración Pública Federal, para la adquisición de bienes, arrendamientos y servicios;
-
-IX. Diseñar los mecanismos y llevar a cabo el seguimiento de las contrataciones consolidadas que las dependencias y entidades de la Administración Pública Federal lleven a cabo previa determinación de la Oficialía Mayor;
-
-X. Verificar que se atiendan con oportunidad los requerimientos de las autoridades judiciales y administrativas en los asuntos de su competencia, en materia de adquisición consolidada de bienes, arrendamientos y servicios;
-
-XI. Coordinar la elaboración de los informes que deban entregarse a las instancias internas y externas, derivados de la adquisición consolidada de bienes, arrendamientos y servicios, y contratos marco de la Administración Pública Federal;
-
-XII. Supervisar la integración de los expedientes de contratación durante las diferentes etapas de los procedimientos consolidados y contratos marco, y
-
-XIII. Atender los asuntos que le encomiende la persona titular de la Unidad de Compras y Contrataciones Públicas Consolidadas.
-
-Artículo 38 C.- La Coordinación Contratante de Bienes, Arrendamientos y Servicios tiene las atribuciones siguientes:
-
-I. Participar con la Unidad de Planeación e Investigaciones de Mercado y las dependencias y entidades consolidadas de la Administración Pública Federal, en la elaboración de las especificaciones técnicas necesarias para la contratación consolidada de bienes, arrendamientos y servicios que realice la Oficialía Mayor;
-
-II. Participar con la Dirección General Requirente y con las dependencias y entidades de la Administración Pública Federal en la elaboración de los anexos técnicos para la adquisición consolidada de bienes, arrendamientos y servicios;
-
-III. Coordinar a los grupos de trabajo que conformen las dependencias y entidades de la Administración Pública Federal en los procedimientos de contratación consolidada y contratos marco de adquisición de bienes, arrendamientos y servicios;
-
-IV. Coordinar los procedimientos de contratación consolidada y de contratos marco en materia de adquisición de bienes, arrendamientos y servicios, en todas sus etapas, así como firmar las actas correspondientes;
-
-V. Coordinar la difusión y actualización de información derivada de los procedimientos de contratación consolidada y contratos marco en el sistema denominado CompraNet y en los medios de difusión que las disposiciones normativas aplicables establezcan;
-
-VI. Coordinar la integración de la documentación de los casos de excepción a la licitación pública que se someten a dictamen del órgano colegiado correspondiente;
-
-VII. Notificar a los proveedores el resultado de los procedimientos de contratación consolidados adjudicados sin sujetarse al procedimiento de licitación pública, y
-
-VIII. Atender los asuntos que le encomiende la persona titular de la Dirección General Contratante.
-
-Artículo 38 D.- La Coordinación de Control y Seguimiento de Contrataciones Consolidadas tiene las atribuciones siguientes:
-
-I. Coordinar la elaboración y actualización de la base de datos de la información que remitan las dependencias y entidades consolidadas para la adquisición de bienes, arrendamientos y servicios de la Administración Pública Federal;
-
-II. Supervisar que los procedimientos de contratación consolidada de adquisición de bienes, arrendamientos, servicios y contratos marco se realicen en apego a la normativa aplicable;
-
-III. Verificar que las dependencias y entidades de la Administración Pública Federal formalicen los contratos que se deriven de las contrataciones consolidadas y que haya realizado la Oficialía Mayor;
-
-IV. Emitir los informes que deban entregarse a las instancias internas y externas derivados de los procedimientos de contratación consolidada de bienes, arrendamientos y servicios, y contratos marco de la Administración Pública Federal;
-
-V. Recopilar, revisar e integrar durante las diferentes etapas de los procedimientos consolidados y contratos marco, la documentación generada, con la finalidad de integrar el expediente de contratación;
-
-VI. Coadyuvar en la substanciación del procedimiento de rescisión, suspensión o terminación anticipada de los contratos marco, así como de sus convenios modificatorios o de adhesión;
-
-VII. Diseñar mecanismos para el seguimiento a las dependencias o entidades respecto de las contrataciones consolidadas que lleven a cabo previa determinación de la Oficialía Mayor;
-
-VIII. Notificar a las dependencias o entidades el resultado de los procedimientos de contratación consolidados, y
-
-IX. Atender los asuntos que le encomiende la persona titular de la Dirección General Contratante.
+Artículo 38 D.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
 ###### Artículo 39.
 
-La Unidad de Planeación e Investigaciones de Mercado tiene las atribuciones siguientes:
+(DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-I. Dirigir los estudios y procesos de planeación necesarios para identificar los bienes y servicios de uso generalizado en las dependencias y entidades de la Administración Pública Federal, que son susceptibles de un proceso de consolidación;
+Artículo 39 A.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-II. Proponer a la persona titular de la Oficialía Mayor los bienes, arrendamientos o servicios susceptibles de contratar de forma consolidada;
+Artículo 39 B.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-III. Dirigir las estrategias, en materia de planeación, que permitan llevar a cabo la estandarización de los bienes, arrendamientos o servicios susceptibles de consolidación, o cualquier otra estrategia que garantice las mejores condiciones de contratación;
+Artículo 39 C.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-IV. Solicitar a las dependencias y entidades de la Administración Pública Federal, la información y documentación necesaria para el cumplimiento de las atribuciones en materia de planeación;
+Artículo 39 D.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-V. Coordinar a las dependencias y entidades de la Administración Pública Federal involucradas en procesos de contrataciones consolidadas, para llevar a cabo las contrataciones consolidadas;
-
-VI. Coordinar la elaboración de la investigación de mercado, respecto de los procedimientos de contratación consolidados y contratos marco;
-
-VII. Autorizar el diseño de la solicitud de información y documentación necesaria para la realización de las investigaciones de mercado que, en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, deba requerirse a los sectores económicos involucrados;
-
-VIII. Emitir criterios generales y específicos para la elaboración de la metodología y la implementación de las investigaciones de mercado para las adquisiciones, arrendamientos, servicios y obras públicas y servicios relacionados con las mismas;
-
-IX. Asesorar a las dependencias y entidades de la Administración Pública Federal en la elaboración de las investigaciones de mercado que le instruya la persona titular de la Oficialía Mayor;
-
-X. Analizar el comportamiento y evolución del mercado de bienes y servicios objeto de las Contrataciones Públicas, sin perjuicio de las atribuciones que correspondan a la Secretaría de Economía;
-
-XI. Proponer, en coordinación con la Unidad de Normatividad, la expedición de normas y lineamientos, respecto de la planeación de las adquisiciones, arrendamientos, servicios y obras públicas y servicios relacionados con las mismas de la Administración Pública Federal;
-
-XII. Registrar el ejercicio de las reservas de compras del sector público, a través del registro de los procedimientos que lleven a cabo las dependencias y entidades de la Administración Pública Federal, conforme a lo establecido en los capítulos de compras de los Tratados de Libre Comercio suscritos por México;
-
-XIII. Coordinar la elaboración, en conjunto con las unidades administrativas competentes, de las reglas de carácter general en materia de contenido nacional y casos de excepción, margen de preferencia en precio, reservas y de compras y licitaciones internacionales bajo la cobertura de los tratados de libre comercio, respecto a procedimientos de contratación del sector público en materia de adquisiciones, arrendamientos y servicios del sector público, así como dar seguimiento a su aplicación;
-
-XIV. Coordinar la atención a las consultas que formulen las dependencias, entidades y particulares sobre el cumplimiento de la normativa en materia de contrataciones públicas respecto de las reglas de carácter general en materia de contenido nacional y casos de excepción, margen de preferencia en precios, reservas de compras y licitaciones internacionales bajo la cobertura de los tratados de libre comercio;
-
-XV. Coordinar la atención a las solicitudes de verificación que realice la Secretaría de la Función Pública, respecto del cumplimiento de los requisitos de contenido nacional en los procedimientos de contratación del sector público e informar el resultado correspondiente;
-
-XVI. Participar en comisiones, comités, grupos de trabajo y órganos o consejos directivos de las instituciones y organismos que atiendan asuntos en materia de contenido nacional y casos de excepción, margen de preferencia en precio, reservas y de compras y licitaciones internacionales bajo la cobertura de los tratados de libre comercio, respecto a procedimientos de contratación del sector público en materia de adquisiciones, arrendamientos y servicios del sector público;
-
-XVII. Sugerir criterios para la elaboración de los catálogos de codificación de bienes, servicios y, en su caso, obras públicas y servicios relacionados con las mismas para las contrataciones de las dependencias y entidades de la Administración Pública Federal;
-
-XVIII. Implementar estrategias para impulsar una mayor participación de la proveeduría nacional con énfasis en las micro, pequeñas y medianas empresas en las contrataciones pública (sic);
-
-XIX. Proponer, en coordinación con la Unidad de Normatividad, la celebración de convenios de colaboración o coordinación con instituciones públicas y privadas, a fin de propiciar el intercambio de información para las investigaciones de mercado de las adquisiciones, arrendamientos, servicios y obras públicas y servicios relacionados con las mismas, de las dependencias y entidades de la Administración Pública Federal;
-
-XX. Proponer acciones de mejora en los sistemas electrónicos en materia de contrataciones públicas, a la Unidad de Política de Contrataciones Públicas;
-
-XXI. Participar, en el ámbito de su competencia, en las negociaciones comerciales internacionales relacionadas con los capítulos de compras del sector público, y
-
-XXII. Atender los asuntos que le encomiende la persona titular de la Oficialía Mayor.
-
-Artículo 39 A.- La Dirección General de Planeación tiene las atribuciones siguientes:
-
-I. Elaborar los estudios y procesos de planeación necesarios para identificar los bienes y servicios de uso generalizado en las dependencias y entidades de la Administración Pública Federal, que son susceptibles de un proceso de consolidación;
-
-II. Proponer a la persona titular de la Unidad de Planeación e Investigación de Mercado los bienes, arrendamientos o servicios susceptibles de ser contratados de forma consolidada;
-
-III. Implementar las estrategias de planeación que permitan llevar a cabo la estandarización de los bienes y servicios susceptibles de ser contratados de manera consolidada para garantizar las mejores condiciones de contratación para las dependencias y entidades de la Administración Pública Federal;
-
-IV. Integrar y analizar la información que proporcionen las dependencias y entidades de la Administración Pública Federal, para la planeación de las contrataciones y ponerla a consideración de la persona titular de la Unidad de Planeación e Investigación de Mercado;
-
-V. Coordinar a las dependencias y entidades en el proceso de planeación de las contrataciones consolidadas a cargo de la Oficialía Mayor;
-
-VI. Proponer adecuaciones a los catálogos de codificación de bienes, servicios y, en su caso, obras públicas y servicios relacionados con las mismas, a fin de homologar la información que se capture en los sistemas electrónicos destinados para tal fin;
-
-VII. Proponer a la persona titular de la Unidad de Planeación e Investigación de Mercado las acciones de mejora en los sistemas electrónicos en materia de contrataciones públicas, a partir del análisis de los programas anuales de adquisiciones, arrendamientos, servicios y, en su caso, obras públicas y servicios relacionados con las mismas, así como del análisis de la información de los contratos registrados en el sistema de compras públicas denominado CompraNet y del Presupuesto de Egresos de la Federación;
-
-VIII. Realizar el seguimiento del ejercicio de reservas de compras del sector público, a través del registro de los procedimientos de compras públicas que lleven a cabo las dependencias y entidades de la Administración Pública Federal, por las disposiciones establecidas en los tratados de libre comercio suscritos por el Gobierno de México;
-
-IX. Participar en la elaboración de las reglas de carácter general en materia de contenido nacional y casos de excepción, margen de preferencia en precio, reservas de compras y licitaciones bajo la cobertura de los tratados de libre comercio, respecto a procedimientos de contratación del sector público en materia de adquisiciones, arrendamientos y servicios del sector público, así como dar seguimiento a su aplicación;
-
-X. Elaborar la respuesta a las consultas que formulen las dependencias y entidades de la Administración Pública Federal y particulares sobre el cumplimiento de la normativa en materia de contrataciones públicas respecto de las reglas de carácter general en materia de contenido nacional y casos de excepción, margen de preferencia en precio, reservas de compras y licitaciones bajo la cobertura de los tratados de libre comercio;
-
-XI. Atender las solicitudes de verificación que realice la Secretaría de la Función Pública, respecto del cumplimiento de los requisitos de contenido nacional en los procedimientos de contratación del sector público e informar el resultado correspondiente;
-
-XII. Coadyuvar con la Unidad de Planeación e Investigaciones de Mercado en su participación en comisiones, comités, grupos de trabajo y órganos o consejos directivos de las instituciones y organismos que atiendan asuntos en materia de contenido nacional y casos de excepción, margen de preferencia en precio, reservas de compras, licitaciones bajo la cobertura de los tratados de libre comercio, respecto a procedimientos de contratación del sector público en materia de adquisiciones, arrendamientos y servicios del sector público;
-
-XIII. Ejecutar estrategias para impulsar una mayor participación de la proveeduría nacional, con énfasis en las micro, pequeñas y medianas empresas en las compras públicas;
-
-XIV. Proponer modificaciones a las disposiciones legales y reglamentarias que promuevan la participación de la proveeduría nacional en las compras del sector público, así como las demás que incidan en el ámbito de su competencia;
-
-XV. Participar, en el ámbito de su competencia, en las negociaciones comerciales internacionales relacionadas con los capítulos de compras del sector público, y
-
-XVI. Atender los asuntos que le encomiende la persona titular de la Unidad de Planeación e Investigaciones de Mercado.
-
-Artículo 39 B.- La Coordinación de Análisis y Estrategia de Planeación tiene las atribuciones siguientes:
-
-I. Realizar las acciones para ejecutar los estudios y procesos de planeación que permitan identificar los bienes y servicios de uso generalizado en las dependencias y entidades de la Administración Pública Federal, que son susceptibles de un proceso de consolidación;
-
-II. Analizar la información de los bienes, arrendamientos o servicios susceptibles de ser contratados de forma consolidada y proponerlos a la persona titular de la Dirección General de Planeación;
-
-III. Proponer las estrategias que permitan llevar a cabo la estandarización de los bienes y servicios susceptibles de ser contratados de manera consolidada;
-
-IV. Poner a consideración de la persona titular de la Dirección General de Planeación la propuesta de mecanismos que permitan recopilar información y dar seguimiento a las acciones que en materia de planeación se deban ejecutar para llevar a cabo las contrataciones consolidadas de las dependencias y entidades de la Administración Pública Federal;
-
-V. Requerir información a las dependencias y entidades de la Administración Pública Federal, para llevar a cabo el proceso de planeación;
-
-VI. Ejecutar las acciones de coordinación de las dependencias y entidades de la Administración Pública Federal involucradas en procesos de contrataciones consolidadas en materia de planeación;
-
-VII. Proponer normas y lineamientos, respecto de la planeación de adquisiciones, arrendamientos, servicios y obras públicas y servicios relacionados con las mismas;
-
-VIII. Elaborar la propuesta de adecuación a los catálogos de codificación de bienes, servicios y, en su caso, obras públicas y servicios relacionados con las mismas;
-
-IX. Proponer a la Dirección General de Planeación las acciones de mejora en los sistemas electrónicos en materia de contrataciones públicas, a partir del análisis de los programas anuales de adquisiciones, arrendamientos, servicios y, en su caso, obras públicas y servicios relacionados con las mismas, así como del análisis de la información de los contratos registrados en el sistema de contrataciones públicas denominado CompraNet y del Presupuesto de Egresos de la Federación, y
-
-X. Atender los asuntos que le encomiende la persona titular de la Dirección General de Planeación.
-
-Artículo 39 C.- La Coordinación de Estrategia de Proveeduría Nacional tiene las atribuciones siguientes:
-
-I. Supervisar el ejercicio de las reservas de compras del sector público, a través de la gestión del registro de los procedimientos de compra que lleven a cabo las dependencias y entidades de la Administración Pública Federal, conforme a lo establecido en los capítulos de compras de los Tratados de Libre Comercio suscritos por México;
-
-II. Elaborar las respuestas a las consultas que formulen las dependencias y entidades de la Administración Pública Federal, así como los particulares, sobre el cumplimiento de la normativa en materia de contrataciones públicas respecto de las reglas de carácter general en materia de contenido nacional y casos de excepción, margen de preferencia en precio, reservas de compras y licitaciones bajo cobertura de los tratados de libre comercio;
-
-III. Elaborar, en conjunto con las unidades administrativas competentes, las reglas de carácter general en materia de contenido nacional y casos de excepción, margen de preferencia en precios, reservas de compras y licitaciones bajo cobertura de los tratados de libre comercio, respecto a procedimientos de contratación del sector público en materia de adquisiciones, arrendamientos y servicios del sector público, así como dar seguimiento a su aplicación;
-
-IV. Realizar las verificaciones que solicite la Secretaría de la Función Pública, respecto del cumplimiento de los requisitos de contenido nacional en los procedimientos de contratación del sector público e informar el resultado correspondiente;
-
-V. Integrar la información necesaria para la participación en comisiones, comités, grupos de trabajo y órganos o consejos directivos de las instituciones y organismos que traten asuntos en materia de contenido nacional y casos de excepción, margen de preferencia en precio, reservas de compras y licitaciones bajo cobertura de los tratados de libre comercio, respecto a procedimientos de contratación del sector público en materia de adquisiciones, arrendamientos y servicios del sector público;
-
-VI. Ejecutar estrategias para impulsar una mayor participación de la proveeduría nacional, con énfasis en las micro, pequeñas y medianas empresas, en las compras de gobierno;
-
-VII. Realizar el análisis para identificar oportunidades que fomenten la participación de las empresas nacionales, especialmente micro, pequeñas y medianas en las contrataciones públicas y, en su caso, opinar respecto de los proyectos de programas y sus reglas de operación que tengan por objeto promover la participación de las micro, pequeñas y medianas empresas en las contrataciones públicas;
-
-VIII. Analizar y elaborar propuestas de modificaciones a las disposiciones legales y reglamentarias que promuevan la participación de la proveeduría nacional en las compras del sector público, así como las demás que incidan en el ámbito de su competencia;
-
-IX. Integrar y analizar la información relacionada con la reserva en los capítulos de compras del sector público de los tratados de libre comercio suscritos por México, para apoyar la participación en las negociaciones de dichos acuerdos comerciales, y
-
-X. Atender los asuntos que le encomiende la persona titular de la Dirección General de Planeación.
-
-Artículo 39 D.- La Dirección General de Investigaciones de Mercado tiene las atribuciones siguientes:
-
-I. Coordinar la elaboración de propuestas de criterios generales y específicos para la elaboración de la metodología de investigación de mercado, en materia de adquisiciones, arrendamientos, servicios y, en su caso, obras públicas y servicios relacionados con las mismas para las dependencias y entidades de la Administración Pública Federal;
-
-II. Proponer a la persona titular de la Unidad de Planeación e investigaciones de Mercado los criterios generales para la elaboración del documento y el resultado de las investigaciones de mercado en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, que las dependencias y entidades de la Administración Pública Federal deban llevar a cabo;
-
-III. Participar en la elaboración de los criterios generales y específicos de análisis de los procesos de investigación de mercado para las adquisiciones, arrendamientos, servicios y, en su caso, obras públicas y servicios relacionados con las mismas;
-
-IV. Supervisar las acciones necesarias para la detección de posibles barreras que limiten la participación de proveedores, mediante el análisis de las disposiciones aplicables en materia de adquisiciones, arrendamientos, servicios y, en su caso, obras públicas y servicios relacionados con las mismas;
-
-V. Elaborar las investigaciones de mercado respecto de los procedimientos de contratación consolidados y contratos marco, para remitir dicha información a la Unidad de Compras y Contrataciones Públicas Consolidadas;
-
-VI. Coadyuvar con las dependencias y entidades en la elaboración de las investigaciones de mercado que le solicite la persona titular de la Oficialía Mayor;
-
-VII. Elaborar el análisis del comportamiento y evolución del mercado de bienes y servicios objeto de las contrataciones públicas, sin perjuicio de las atribuciones que correspondan a la Secretaría de Economía;
-
-VIII. Supervisar las acciones necesarias para llevar a cabo los análisis de precios que permitan contar con parámetros de decisión en las investigaciones de mercado para los procesos de consolidación de las adquisiciones, arrendamientos, servicios y, en su caso, obras públicas y servicios relacionados con las mismas;
-
-IX. Participar en las mesas de trabajo con los sectores involucrados, a fin de proponer estrategias para la implementación de mejoras en los procesos de consolidación de adquisiciones, arrendamientos, servicios y, en su caso, obras públicas y servicios relacionados con las mismas de las dependencias y entidades de la Administración Pública Federal;
-
-X. Participar en la revisión de los proyectos de programas y, en su caso, sus reglas de operación, que tengan por objeto promover la participación de micro, pequeñas y medianas empresas en contrataciones públicas, cuya opinión haya sido solicitada por la autoridad competente;
-
-XI. Coadyuvar en el análisis de la información obtenida por los mercados, referente a innovación, tendencias tecnológicas o soluciones alternas, con la finalidad de que estas sean referencia o antecedente en procedimientos subsecuentes;
-
-XII. Asesorar, en materia de diseño y ejecución de investigaciones de mercado a las dependencias y entidades de la Administración Pública Federal que así lo requieran;
-
-XIII. Proponer proyectos de convenios de colaboración y de coordinación con instituciones públicas y privadas, a fin de propiciar el intercambio de información, así como la colaboración con instituciones privadas que realicen estudios para el desarrollo de las investigaciones de mercado de las adquisiciones, arrendamientos, servicios y, en su caso, obras públicas y servicios relacionados con las mismas;
-
-XIV. Incentivar las estrategias que promuevan la participación y desarrollo de agentes económicos en los procesos de adquisiciones, arrendamientos, y servicios relacionados con las mismas para las dependencias y entidades de la Administración Pública Federal, y
-
-XV. Atender los asuntos que le encomiende la persona titular de la Unidad de Planeación e Investigaciones de Mercado.
-
-Artículo 39 E.- La Coordinación de Investigaciones de Mercado tiene las atribuciones siguientes:
-
-I. Elaborar y someter a consideración de la Dirección General de Investigaciones de Mercado la propuesta de criterios generales y específicos respecto a la definición de la metodología de las investigaciones de mercado para las adquisiciones, arrendamientos, servicios y, en su caso, obras públicas y servicios relacionados con las mismas de las dependencias y entidades de la Administración Pública Federal;
-
-II. Analizar y proponer los requerimientos de información y documentación necesaria para la realización de investigaciones de mercado, que, en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, deba requerirse a los sectores económicos involucrados;
-
-III. Elaborar y someter a consideración de la persona titular de la Dirección General de Investigaciones de Mercado, las investigaciones de mercado que se realicen para las contrataciones públicas consolidadas y contratos marco;
-
-IV. Someter a consideración de la persona titular de la Dirección General de Investigaciones de Mercado, los criterios generales para la elaboración del documento y el resultado de las investigaciones de mercado, en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, que las dependencias y entidades de la Administración Pública Federal, deban llevar a cabo;
-
-V. Diseñar la metodología de análisis y criterios de aplicación para llevar a cabo el cálculo de precios que permitan contar con parámetros de decisión en las investigaciones de mercado para los procesos de consolidación de las adquisiciones, arrendamientos, servicios y, en su caso, obras públicas y servicios relacionados con las mismas;
-
-VI. Realizar y someter a consideración de la persona titular de la Dirección General de Investigaciones de Mercado, la metodología y criterios generales para el análisis técnico que permitan la toma de decisiones en los procesos de consolidación de las adquisiciones, arrendamientos, servicios y, en su caso, obras públicas y servicios relacionados con las mismas;
-
-VII. Establecer las herramientas para coadyuvar y asesorar, en materia de diseño, ejecución y elaboración de investigaciones de mercado, a las dependencias y entidades de la Administración Pública Federal que así lo requieran, así como las que solicite la persona titular de la Oficialía Mayor;
-
-VIII. Elaborar los proyectos de convenios de colaboración y de coordinación con instituciones públicas y privadas, a fin de propiciar el intercambio de información, así como la colaboración con instituciones privadas que realicen estudios para el desarrollo de las investigaciones de mercado de las adquisiciones, arrendamientos, servicios y, en su caso, obras públicas y servicios relacionados con las mismas, y
-
-IX. Atender los asuntos que le encomiende la persona titular de la Dirección General de Investigaciones de Mercado.
+Artículo 39 E.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
 ###### Artículo 40.
 
-La Unidad de Política de Contrataciones Públicas tiene las atribuciones siguientes:
+(DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-I. Proponer a la persona titular de la Oficialía Mayor, con la participación que corresponda a las unidades administrativas competentes de la Secretaría, la política general de contrataciones públicas;
+Artículo 40 A.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-II. Fungir como enlace de la Oficialía Mayor, con la participación que corresponda a las unidades administrativas de la Secretaría, para promover las acciones de coordinación y cooperación con los demás Poderes de la Unión, los órganos constitucionales, autónomos, las entidades federativas, las empresas productivas del Estado y demás entes públicos encargados de regímenes de contratación pública;
+Artículo 40 B.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-III. Definir las estrategias y líneas de acción de la política general de contrataciones públicas y elaborar, en conjunto con las unidades administrativas de la Secretaría los contenidos, criterios y procedimientos técnicos, metodologías, manuales y herramientas para su implementación;
-
-IV. Coordinar las acciones de asesoría y apoyo técnico de la política general de contrataciones públicas;
-
-V. Capacitar a personas licitantes, contratistas y proveedoras, así como a personas servidoras públicas de la Administración Pública Federal, usuarios del sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, denominado CompraNet, así como emitir los documentos probatorios que acrediten los conocimientos adquiridos;
-
-VI. Difundir y promover, con el apoyo de las unidades competentes, la aplicación de las normas, lineamientos, políticas, criterios, metodologías y herramientas tecnológicas que se relacionen con la política general de contrataciones públicas;
-
-VII. Administrar el sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, denominado CompraNet, y los sistemas legados a fin de asegurar y resguardar la información generada en estos, así como autorizar los catálogos utilizados y la certificación de la información que se genera en dichos sistemas, en el ámbito de su competencia;
-
-VIII. Emitir, previa opinión de la Unidad de Normatividad, las disposiciones que se deberán observar para el uso, recepción, emisión, manejo y tratamiento de la información a través del sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, denominado CompraNet y los sistemas legados, previstos en las leyes que regulan las Contrataciones Públicas, así como emitir los criterios y procedimientos de carácter técnico que se requieran para el uso de dichas herramientas;
-
-IX. Analizar las transacciones sistemáticas que se generen en el sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, denominado CompraNet, para definir y mejorar las estrategias, políticas y líneas de acción de la política general de contrataciones públicas;
-
-X. Realizar la evaluación anual a las dependencias y entidades de la Administración Pública Federal, respecto del uso del sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, denominado CompraNet, y elaborar los informes correspondientes;
-
-XI. Autorizar y aprobar los sistemas de información y herramientas electrónicas, con opinión de la Coordinación de Estrategia Digital Nacional, para la sistematización de los procesos de contrataciones públicas;
-
-XII. Celebrar convenios de colaboración, previa opinión de la Unidad de Normatividad, con instituciones públicas o privadas, nacionales e internacionales, así como con organismos internacionales o intergubernamentales en materia de contrataciones públicas;
-
-XIII. Promover mecanismos, con apoyo de la Unidad de Normatividad, para la transparencia asociada a las contrataciones públicas, apoyándose en el sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, denominado CompraNet;
-
-XIV. Establecer estrategias que permitan disminuir los costos asociados a las contrataciones públicas promoviendo la eficiencia del gasto público;
-
-XV. Dirigir la coordinación de la administración a través de medios electrónicos de los contratos marco, con la participación que corresponda a las unidades administrativas de la Oficialía Mayor;
-
-XVI. Proponer a la persona titular de la Oficialía Mayor, con la participación de la Unidad de Normatividad, las adecuaciones al marco normativo en materia de contrataciones públicas, que permitan el funcionamiento de la política de contrataciones públicas y la implementación del sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, denominado CompraNet;
-
-XVII. Definir y diseñar las estrategias y nuevos procedimientos de contratación pública, así como proponer a la Unidad de Normatividad, las adecuaciones al marco jurídico en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, de la Administración Pública Federal;
-
-XVIII. Requerir información en materia de contrataciones públicas a las dependencias y entidades de la Administración Pública Federal;
-
-XIX. Establecer políticas y lineamientos en materia de seguridad de la información de las contrataciones públicas contenida en el sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, denominado CompraNet, para su resguardo;
-
-XX. Autorizar, en su caso, a las dependencias y entidades de la Administración Pública Federal, a los proveedores y contratistas, así como a cualquier ente público, para utilizar el sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, denominado CompraNet, así como los casos de excepción para utilizar dicho sistema cuando ya cuenten con la autorización respectiva;
-
-XXI. Establecer, previa opinión de la Coordinación de Estrategia Digital de la Presidencia de la República y, en su caso, de las unidades administrativas competentes de la Oficialía Mayor, los mecanismos necesarios para que las contrataciones públicas se realicen mediante la utilización de Tecnologías de Información y Comunicación;
-
-XXII. Promover, en coordinación con la Unidad de Normatividad, ante las instancias competentes los proyectos de modificación a las disposiciones jurídicas que resulten necesarias para la implantación de la política de contrataciones públicas, así como para las estrategias que deriven del mismo;
-
-XXIII. Integrar, en su caso, una base de datos de los precios a los que el Estado adquiere bienes o servicios y ponerla a disposición para su consulta pública;
-
-XXIV. Emitir criterios generales y específicos para la elaboración e integración de los programas anuales de adquisiciones, arrendamientos, servicios y, en su caso, obras públicas y servicios relacionados con las mismas de las dependencias y entidades, conforme a la normatividad aplicable, y
-
-XXV. Atender los asuntos que le encomiende la persona titular de la Oficialía Mayor.
-
-Artículo 40 A.- La Dirección General de Política de Contrataciones Públicas tiene las atribuciones siguientes:
-
-I. Establecer la estrategia y el proyecto de operación de la política general de contrataciones públicas que asegure el cumplimiento de los objetivos definidos por la Oficialía Mayor;
-
-II. Implementar mejores prácticas en materia de contrataciones públicas que aseguren el funcionamiento de la política general de contrataciones públicas;
-
-III. Colaborar en los proyectos de innovación e investigación requeridos en el sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, denominado CompraNet;
-
-IV. Elaborar y proponer, con opinión de la Unidad de Normatividad, el Manual Administrativo de Aplicación General en Materia de Adquisiciones, Arrendamientos y Servicios del Sector Público;
-
-V. Elaborar y proponer, con opinión de la Unidad de Normatividad el Manual Administrativo de Aplicación General en Materia de Contratación de Obras Públicas y Servicios Relacionados con las Mismas;
-
-VI. Proveer a la Dirección General de la Plataforma Digital de Contrataciones Públicas, de la información que sea requerida para el análisis y diseño de los procesos operativos del sistema de información pública gubernamental sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, denominado CompraNet, a fin de optimizarlos e identificar las actividades susceptibles de estandarizar y sistematizar;
-
-VII. Dirigir la investigación de nuevos métodos de contratación y evaluación de factibilidad con el objetivo de integrar la estrategia de contratación, así como coordinar la reingeniería y estandarización de procesos y procedimientos de contratación;
-
-VIII. Definir la estrategia en materia de innovación de los procedimientos de contrataciones públicas, en coordinación con la Dirección General de la Plataforma Digital de Contrataciones Públicas;
-
-IX. Participar en la definición, diseño, evaluación y administración del sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, denominado CompraNet, conforme a la política general de contrataciones públicas;
-
-X. Proponer las actualizaciones y adecuaciones al marco normativo en materia de contrataciones, para garantizar el funcionamiento de la política general de contrataciones públicas;
-
-XI. Desarrollar e implementar de manera conjunta con la Unidad de Planeación e Investigaciones de Mercado, las estrategias de contratación que impulsen el desarrollo de la micro, pequeña y mediana empresa y cooperativas, en el marco de la normatividad aplicable, así como el desarrollo de compras con responsabilidad social;
-
-XII. Coadyuvar en las acciones de coordinación y cooperación con los demás Poderes de la Unión, los órganos constitucionales, autónomos, las entidades federativas, las empresas productivas del Estado y demás entes públicos encargados de regímenes de Contratación Pública, a efecto de propiciar en lo procedente, la homologación, estandarización y sistematización de políticas, normas y criterios en materia de Contrataciones Públicas, que permitan contar con una política general de contrataciones públicas articulada a nivel nacional;
-
-XIII. Elaborar, proponer e implementar acciones para la estandarización de los procesos y estrategias de contratación de la Administración Pública Federal;
-
-XIV. Elaborar y proponer a la persona titular de la Oficialía Mayor, con opinión de la Unidad de Normatividad, la estandarización y homologación de las políticas, bases y lineamientos en materia de adquisiciones, arrendamientos, servicios y obra pública de la Administración Pública Federal;
-
-XV. Elaborar y proponer directivas y lineamientos para promover la estandarización, homologación y sistematización en materia de contrataciones públicas, con opinión de la Unidad de Normatividad;
-
-XVI. Asesorar a las dependencias y entidades de la Administración Pública Federal para facilitar la implementación de la política general de contrataciones públicas;
-
-XVII. Promover la política general de contrataciones públicas en la Administración Pública Federal y fomentar la profesionalización del personal de las áreas contratantes de las dependencias y entidades;
-
-XVIII. Implementar las estrategias y acciones de capacitación de las personas servidoras públicas, proveedoras y contratistas en materia de uso y carga de la información de las contrataciones públicas en el sistema CompraNet;
-
-XIX. Verificar que las dependencias y entidades incorporen y actualicen la información y documentación prevista en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, la Ley de Obras Públicas y Servicios Relacionados con las Mismas, sus respectivos Reglamentos y demás normatividad aplicable y, en su caso, requerir su cumplimiento;
-
-XX. Dirigir y administrar las cooperaciones técnicas nacionales e internacionales, en materia de contrataciones públicas;
-
-XXI. Administrar los contratos marco, sus convenios modificatorios y, en su caso, los instrumentos de adhesión, utilizando para ello, cuando resulte conveniente el sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, denominado CompraNet;
-
-XXII. Proponer, planificar y revisar los niveles de servicios y estándares de atención de los proveedores de convenios marco, asegurando la satisfacción de los usuarios;
-
-XXIII. Elaborar, proponer e implementar estudios de logística y distribución para las contrataciones consolidadas que realice la Oficialía Mayor;
-
-XXIV. Requerir información en materia de contrataciones públicas a las dependencias y entidades de la Administración Pública Federal;
-
-XXV. Proveer a las áreas que lo requieran, la información estadística de las contrataciones públicas o reportes específicos de la política general de contrataciones públicas, y
-
-XXVI. Atender los asuntos que le encomiende la persona titular de la Unidad de Política de Contrataciones Públicas.
-
-Artículo 40 B.- La Dirección General de la Plataforma Digital de Contrataciones Públicas tiene las atribuciones siguientes:
-
-I. Establecer los planes para la dirección de proyecto que aseguren coadyuvar con los objetivos definidos por la persona titular de la Oficialía Mayor, respecto al diseño y mejora continua del sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, denominado CompraNet;
-
-II. Seleccionar y proponer las soluciones tecnológicas que aseguren el funcionamiento del sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, denominado CompraNet;
-
-III. Supervisar la implementación de las directrices aplicables en la Secretaría para el desarrollo de tecnologías de la información en materia de contrataciones públicas;
-
-IV. Dirigir el análisis y diseño de los procesos operativos del sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, denominado CompraNet, para proponer su optimización y las actividades susceptibles de sistematizar;
-
-V. Informar a las áreas correspondientes de la Oficialía Mayor acerca del rendimiento de las soluciones tecnológicas generadas, así como los beneficios de su implementación;
-
-VI. Dirigir la investigación de mejores prácticas tecnológicas a nivel internacional en materia de contrataciones públicas;
-
-VII. Apoyar técnicamente la operación del sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, denominado CompraNet;
-
-VIII. Definir la estrategia en materia de innovación dentro de los procedimientos de contrataciones públicas, de manera conjunta con la Dirección General de Política de Contrataciones Públicas;
-
-IX. Consolidar y evaluar los indicadores y tendencias en la operación de la política general de contrataciones públicas a fin de proponer mejoras al proceso, con base en la información emitida por las Unidades de Planeación e Investigaciones de Mercado, de Compras y Contrataciones Públicas y de Coordinación de Unidades de Administración y Finanzas;
-
-X. Establecer, definir y operar los servicios electrónicos comunes en materia de contrataciones públicas, en coordinación con las unidades administrativas competentes;
-
-XI. Administrar y operar el sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, denominado CompraNet;
-
-XII. Dirigir la operación, mantenimiento y desarrollo de manera conjunta con la Dirección General de Tecnologías y Seguridad de la Información, del sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, denominado CompraNet y todos sus sistemas;
-
-XIII. Participar en la definición, desarrollo e implementación de la política de seguridad, procedimientos, líneas, bases, estándares y directrices del Sistema de la Seguridad de la Información de manera conjunta con la Dirección General de Tecnologías y Seguridad de la Información, en materia de contrataciones públicas;
-
-XIV. Dirigir el desarrollo del módulo de monitoreo y seguimiento estadístico de las contrataciones públicas;
-
-XV. Administrar y conservar los sistemas electrónicos relacionados con contrataciones públicas legadas;
-
-XVI. Diseñar, desarrollar, implementar y administrar el catálogo de proveedores y contratistas de la Administración Pública Federal;
-
-XVII. Administrar el registro único de proveedores de la Administración Pública Federal;
-
-XVIII. Elaborar, en su caso, una base de datos de los precios a los que el Estado adquiere bienes o servicios y ponerla a disposición para su consulta pública, y
-
-XIX. Atender los asuntos que le encomiende la persona titular de la Unidad de Política de Contrataciones Públicas.
-
-Artículo 40 C.- La Coordinación de Diseño y Gestión de la Calidad tiene las atribuciones siguientes:
-
-I. Administrar los proyectos que aseguren el cumplimiento de los objetivos operativos definidos por la Oficialía Mayor respecto al diseño y mejora continua del sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, denominado CompraNet;
-
-II. Investigar y evaluar las soluciones tecnológicas que aseguren la viabilidad y funcionamiento del sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, denominado CompraNet;
-
-III. Dirigir los proyectos de innovación e investigación, mapeo de procesos, desarrollo de software, aseguramiento de la calidad e inteligencia de negocios, con el objetivo de cumplir con las especificaciones requeridas del sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, denominado CompraNet;
-
-IV. Participar en la implementación de las directrices aplicables en la Secretaría para el desarrollo de tecnologías de la información, en materia de contrataciones públicas;
-
-V. Dirigir el análisis y diseño de los procesos operativos del sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, denominado CompraNet, para proponer su optimización y las actividades susceptibles de sistematizar;
-
-VI. Proponer los proyectos de informes a las áreas correspondientes de la Oficialía Mayor acerca del rendimiento de las soluciones tecnológicas generadas, así como los beneficios de su implementación;
-
-VII. Coordinarse con las demás unidades administrativas de la Oficialía Mayor, para generar procesos operativos y mejoras al sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, denominado CompraNet;
-
-VIII. Dirigir la investigación de las mejores prácticas tecnológicas a nivel internacional en relación con las contrataciones públicas;
-
-IX. Proponer la estrategia en materia de innovación de los procedimientos de contrataciones públicas, de manera conjunta con la Dirección General de Política de Contrataciones Públicas;
-
-X. Auxiliar en la consolidación y evaluación de los indicadores y tendencias en la operación de la política general de contrataciones públicas, a fin de proponer mejoras al proceso, con base en la información proporcionada por las unidades competentes de la Secretaría;
-
-XI. Integrar la información generada en el sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, denominado CompraNet;
-
-XII. Coadyuvar en la operación, mantenimiento y desarrollo del sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, denominado CompraNet y todos sus sistemas derivados en coordinación con la Dirección General de Tecnologías y Seguridad de la Información;
-
-XIII. Asegurar que la información estadística y reportes específicos de las contrataciones públicas, estén disponibles para las áreas que lo requieran;
-
-XIV. Participar en la definición, desarrollo e implementación de la política de seguridad, procedimientos, líneas, bases, estándares y directrices del Sistema de Seguridad de la Información en coordinación con la Dirección General de Tecnologías de la Información, en materia de contrataciones públicas;
-
-XV. Definir e implementar los estándares para el control y estandarización de la información, de manera conjunta con las áreas competentes de la Secretaría, y
-
-XVI. Atender los asuntos que le encomiende la persona titular de la Dirección General de la Plataforma Digital de Contrataciones Públicas.
+Artículo 40 C.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
 ###### Artículo 41.
 
-La Unidad de Coordinación de Unidades de Administración y Finanzas tiene las atribuciones siguientes:
+(DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-I. Proponer a la persona titular de la Oficialía Mayor, en coordinación con la Unidad de Normatividad, las disposiciones de carácter general para establecer el modelo organizacional y de operación de las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados, así como los lineamientos y directrices aplicables a las unidades administrativas equivalentes en las entidades de la Administración Pública Federal, y dirigir su implementación;
+Artículo 41 A.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-II. Proponer a la persona titular de la Oficialía Mayor los criterios técnicos y herramientas para dar seguimiento a la implementación y cumplimiento de los lineamientos y directrices aplicables a las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados, así como de las unidades administrativas equivalentes en las entidades de la Administración Pública Federal, y dirigir su implementación;
+Artículo 41 B.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-III. Conducir el apoyo técnico y resolver las consultas planteadas por las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados, así como de las equivalentes en las entidades, referentes al modelo organizacional y de operación, así como los lineamientos y directrices aplicables en las entidades, respectivamente;
-
-IV. Atender todas aquellas consultas técnicas y operativas relacionadas con la aplicación de las disposiciones de su competencia;
-
-V. Coordinar estrategias y acciones para la implementación de las disposiciones en los rubros que expresamente le sean atribuidas a la Oficialía Mayor en la normativa aplicable en materia de austeridad;
-
-VI. Proponer el mecanismo para el seguimiento del ejercicio del gasto destinado a las contrataciones públicas consolidadas, para su emisión por parte de la persona titular de la Oficialía Mayor;
-
-VII. Requerir la información sobre los servicios de apoyo administrativo que presten las Unidades de Administración y Finanzas de las Dependencias, sus órganos administrativos desconcentrados y equivalentes en las Entidades de la Administración Pública Federal;
-
-VIII. Colaborar con la persona titular de la Oficialía Mayor en la emisión del nombramiento o remoción de las personas titulares de las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados; así como las propuestas de nombramiento de las personas titulares de las unidades de administración y finanzas o equivalentes en las entidades paraestatales; y dar seguimiento al desempeño de sus funciones;
-
-IX. Conducir la implementación de lineamientos, directrices y disposiciones relacionadas con la integración, operación y seguimiento del modelo organizacional y de operación de las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados, así como las aplicables a las unidades equivalentes en las entidades de la Administración Pública Federal;
-
-X. Dirigir las actividades relacionadas con la consolidación y análisis de la información de las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados, así como de sus equivalentes en las entidades de la Administración Pública Federal;
-
-XI. Formular los requerimientos de información, acceso o puesta a disposición de documentación, así como el acceso a sistemas informáticos, de conformidad con sus atribuciones en materia de coordinación de las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados;
-
-XII. Establecer y conducir las estrategias para el desarrollo de competencias y capacidades profesionales de las personas servidoras públicas de las Unidades de Administración y Finanzas en las dependencias y sus equivalentes en las entidades de la Administración Pública Federal;
-
-XIII. Dirigir la estrategia de sistematización de la información de los servicios de apoyo administrativo que se realizan en las Unidades de Administración y Finanzas de las dependencias, sus órganos administrativos desconcentrados, así como sus equivalentes en las entidades de la Administración Pública Federal;
-
-XIV. Realizar el análisis de procesos de los servicios de apoyo administrativo que presten las Unidades de Administración y Finanzas de las dependencias, sus órganos administrativos desconcentrados, y equivalentes en las entidades de la Administración Pública Federal;
-
-XV. Llevar a cabo la coordinación de las Unidades de Administración y Finanzas de las dependencias, sus órganos administrativos desconcentrados y de sus equivalentes en las entidades paraestatales de la Administración Pública Federal;
-
-XVI. Coordinarse con las áreas competentes de la Secretaría, en la implementación del modelo organizacional y de operación, así como las disposiciones y estrategias que emita la persona titular de la Oficialía Mayor, aplicables tanto a la Secretaría, como a sus órganos administrativos desconcentrados, entidades coordinadas por la misma, así como a aquellas no sectorizadas;
-
-XVII. Fungir como la ventanilla única de la Oficialía Mayor con las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados, así como de las equivalentes en las entidades paraestatales de la Administración Pública Federal, en materia de consultas sobre los aspectos técnicos y operativos relacionados con los servicios de apoyo administrativo y con las disposiciones que la persona titular de la Oficialía Mayor emita, siempre que no sean competencia de otra unidad administrativa de la Secretaría;
-
-XVIII. Proponer a la persona titular de la Oficialía Mayor las disposiciones para la coordinación de las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados, así como las equivalentes en las entidades de la Administración Pública Federal, en colaboración con las demás áreas competentes de la Oficialía Mayor;
-
-XIX. Solicitar y concentrar la información relativa a los programas y políticas públicas prioritarias del Gobierno federal, en el ámbito de su competencia;
-
-XX. Establecer criterios para la elaboración de los programas de trabajo de las Unidades de Administración y Finanzas y equivalentes de las dependencias, sus órganos administrativos desconcentrados, así como de las entidades de la Administración Pública Federal;
-
-XXI. Establecer lineamientos para la operación de un modelo de evaluación de los servicios de apoyo administrativo y de las personas servidoras públicas que los ejecutan en las Unidades de Administración y Finanzas y equivalentes de las dependencias, sus órganos administrativos desconcentrados, así como de las entidades de la Administración Pública Federal, y
-
-XXII. Las demás que en términos de las disposiciones legales le confieran, y las que le encomiende la persona titular de la Oficialía Mayor.
-
-Artículo 41 A.- La Dirección General de Operación y Seguimiento de las Unidades de Administración y Finanzas tiene las atribuciones siguientes:
-
-I. Conducir el proceso de implementación del modelo organizacional y de operación en las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados, así como de los lineamientos y directrices para las unidades administrativas equivalentes en las entidades paraestatales, respectivamente;
-
-II. Conducir el proceso de recopilación y consolidación de información del personal adscrito a los tres primeros niveles jerárquicos de las Unidades de Administración y Finanzas de las dependencias, sus órganos administrativos desconcentrados, y equivalentes en las entidades de la Administración Pública Federal y dar seguimiento a la evaluación al desempeño de sus funciones a partir del modelo organizacional y de operación y de los lineamientos que esta emita;
-
-III. Planificar la implementación de los criterios técnicos y herramientas que permitan dar seguimiento al cumplimiento de las disposiciones previstas en la fracción I del presente artículo; así como elaborar y presentar los informes, reportes o análisis que este requiera;
-
-IV. Participar en el desarrollo de estrategias y acciones para la implementación de las disposiciones en los rubros que expresamente le sean atribuidas a la Oficialía Mayor en la normativa aplicable en materia de austeridad;
-
-V. Dirigir el apoyo técnico y resolver las consultas planteadas por las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados, así como las equivalentes en las entidades, referentes al modelo organizacional y de operación, así como los lineamientos y directrices aplicables en las entidades, respectivamente;
-
-VI. Conducir el proceso para recabar y consolidar la información relacionada al ejercicio de las funciones de las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados, así como de sus equivalentes en las entidades de la Administración Pública Federal;
-
-VII. Elaborar y conducir, en el ámbito de las atribuciones que le confiere el presente artículo, la aplicación de las estrategias, criterios generales, metodológicos, normativos y demás disposiciones administrativas vinculadas con la integración, seguimiento y correcta operación de las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados conforme al modelo organizacional y de operación establecido por la Secretaría, así como en relación con las directrices y lineamientos aplicables a sus equivalentes en las entidades de la Administración Pública Federal;
-
-VIII. Proporcionar, en el ámbito de las atribuciones que le confiere el presente artículo, apoyo técnico y consultivo a las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados en lo relativo a la aplicación del modelo organizacional y de operación; así como a las unidades equivalentes en las entidades de la Administración Pública Federal respecto de la aplicación de los lineamientos y directrices aplicables en las entidades y, en general, aquellas relacionadas con las disposiciones emitidas por la persona titular de la Oficialía Mayor en la materia, siempre que el apoyo técnico o las consultas no incidan en materias que sean competencia de otra unidad administrativa de la Secretaría;
-
-IX. Coadyuvar en la implementación de procesos de las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados, así como de sus equivalentes en las entidades de la Administración Pública Federal, en términos del Modelo Organizacional y de Operación y las demás disposiciones jurídicas aplicables;
-
-X. Conducir la consolidación y análisis de la información de las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados y, en su caso, de sus equivalentes en las entidades de la Administración Pública Federal derivado del ejercicio de sus atribuciones;
-
-XI. Diseñar y coordinar la implementación de las estrategias para el desarrollo de competencias de las personas servidoras públicas de las Unidades de Administración y Finanzas en las dependencias y sus equivalentes en las entidades de la Administración Pública Federal, que permitan mejora de la gestión administrativa;
-
-XII. Coadyuvar en la coordinación de las Unidades de Administración y Finanzas de las dependencias, sus órganos administrativos desconcentrados y de sus equivalentes en las entidades paraestatales de la Administración Pública Federal y mantener un vínculo de comunicación permanente con sus titulares;
-
-XIII. Conducir, en su carácter de ventanilla única, la atención a las consultas formuladas por las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados, así como de sus equivalentes en las entidades paraestatales de la Administración Pública Federal relacionadas con los servicios de apoyo administrativo y con las disposiciones que la persona titular de la Oficialía Mayor emita, siempre que no sean competencia de otra unidad administrativa de la Secretaría;
-
-XIV. Elaborar y conducir la aplicación de criterios o estrategias para la mejora de la operación de las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados;
-
-XV. Conducir e instrumentar el seguimiento administrativo a los programas prioritarios y políticas administrativas, así como otras disposiciones y acciones del Gobierno federal;
-
-XVI. Requerir información relativa a los programas de trabajo de las Unidades de Administración y Finanzas de las dependencias, sus órganos administrativos desconcentrados, así como sus equivalentes en las entidades de la Administración Pública Federal;
-
-XVII. Supervisar la operación de los servicios de apoyo administrativo que prestan las Unidades de Administración y Finanzas de las dependencias, sus órganos administrativos desconcentrados, así como sus equivalentes en las entidades de la Administración Pública Federal;
-
-XVIII. Ejecutar las acciones que se deriven de la evaluación de los servicios de apoyo administrativo y de las personas servidoras públicas que los ejecutan en las Unidades de Administración y Finanzas y equivalentes de las dependencias, sus órganos administrativos desconcentrados, así como de las entidades de la Administración Pública Federal, y
-
-XIX. Las demás que en términos de las disposiciones legales le confieran, y las que le encomiende la persona titular de la Oficialía Mayor o la persona titular de la Unidad de Coordinación de Unidades de Administración y Finanzas.
-
-Artículo 41 B.- La Dirección General de Organización y Estrategia de Gobierno de las Unidades de Administración y Finanzas tiene las atribuciones siguientes:
-
-I. Formular, en coordinación con la Unidad de Normatividad, las disposiciones de carácter general para establecer el modelo organizacional y de operación de las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados, así como los lineamientos y directrices aplicables a las unidades administrativas equivalentes en las entidades de la Administración Pública Federal;
-
-II. Diseñar, para aprobación superior, los criterios técnicos que permitan dar seguimiento a la implementación y cumplimiento de las disposiciones previstas en la fracción I del presente artículo; elaborar y presentar los informes, reportes o análisis que este requiera, así como requerir a las Unidades de Administración y Finanzas de las dependencias, sus órganos administrativos desconcentrados, y sus equivalentes en las entidades, la información sobre la ejecución de los servicios de apoyo administrativo que realicen;
-
-III. Coordinar las acciones de otorgamiento de apoyo técnico y resolver las consultas planteadas por las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados, así como de las equivalentes en las entidades, referentes al modelo organizacional y de operación, así como de los lineamientos y directrices aplicables en las entidades y, en general, aquellas relacionadas con las disposiciones de su competencia emitidas por la persona titular de la Oficialía Mayor en la materia;
-
-IV. Elaborar, en el ámbito de las atribuciones que le confiere el presente artículo, los criterios técnicos, metodologías, manuales y herramientas para el cumplimiento de la normatividad y disposiciones aplicables a las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados, así como de sus equivalentes en las entidades paraestatales de la Administración Pública Federal, referentes al modelo organizacional y de operación y a los lineamientos y directrices, respectivamente;
-
-V. Elaborar los criterios de seguimiento para el funcionamiento de las unidades de administración y finanzas, derivado de la implementación del modelo organizacional y de operación en las dependencias y de los lineamientos y directrices para las unidades de servicios de apoyo administrativo en las entidades;
-
-VI. Integrar, en coordinación con las áreas competentes de la Oficialía Mayor, los proyectos de respuestas a las consultas de carácter técnico y operativo referentes a las disposiciones emitidas para la operación de las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados, así como las directrices y lineamientos aplicables a sus equivalentes en las entidades de la Administración Pública Federal;
-
-VII. Coadyuvar en la generación y sistematización de procesos de las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados, así como de sus equivalentes en las entidades paraestatales de la Administración Pública Federal;
-
-VIII. Elaborar, para aprobación superior, los lineamientos, criterios técnicos, metodologías y herramientas para la elaboración de los informes que las dependencias deban rendir a la Oficialía Mayor respecto a la implementación del modelo organizacional y de operación de las Unidades de Administración y Finanzas y sus equivalentes en las entidades;
-
-IX. Participar junto con las áreas de la Unidad de Coordinación de las Unidades de Administración y Finanzas, en la construcción de indicadores para la operación del modelo de evaluación de las Unidades de Administración y Finanzas de las dependencias, sus órganos administrativos desconcentrados, así como sus equivalentes en las entidades de la Administración Pública Federal;
-
-X. Establecer los mecanismos e instrumentos de atención y asesoría en materia técnica y operativa requerida por las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados, así como de sus equivalentes en las entidades paraestatales de la Administración Pública Federal, respecto a la aplicación del modelo organizacional y de operación y lineamientos en la materia;
-
-XI. Formular a su superior jerárquico la estructura y los elementos técnicos que deben contener los programas de trabajo de las Unidades de Administración y Finanzas de las dependencias, sus órganos administrativos desconcentrados, así como sus equivalentes en las entidades de la Administración Pública Federal;
-
-XII. Coordinar y, en su caso, proponer la emisión de lineamientos, estrategias y acciones para la ejecución de las políticas de austeridad en el ejercicio del gasto público, que al efecto emita la Secretaría, y
-
-XIII. Las demás que en términos de las disposiciones legales le confieran, y las que le encomiende la persona titular de la Oficialía Mayor y la persona titular de la Unidad de Coordinación de Unidades de Administración y Finanzas.
-
-Artículo 41 C.- La Coordinación de Integración y Análisis de Datos de las Unidades de Administración y Finanzas tiene las atribuciones siguientes:
-
-I. Coordinar la elaboración de documentos técnicos y administrativos necesarios para sistematizar la información de la implementación del modelo organizacional y de operación;
-
-II. Generar bases de datos y contribuir al desarrollo de sistemas orientados a la consulta y análisis de la información proporcionada por las Unidades de Administración y Finanzas y sus equivalentes en las entidades paraestatales de la Administración Pública Federal, a la Unidad de Coordinación de las Unidades de Administración y Finanzas;
-
-III. Colaborar con las áreas competentes de la Oficialía Mayor, en la integración de los proyectos de respuestas a las consultas referentes a las disposiciones para la operación de las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados, así como las directrices y lineamientos aplicables a sus equivalentes en las entidades paraestatales de la Administración Pública Federal;
-
-IV. Coordinar el proceso para recabar y consolidar la información relativa a la implementación de políticas administrativas, estrategias de eficiencia del ejercicio del gasto público y directrices que emita la Oficialía Mayor;
-
-V. Diseñar los procedimientos para consolidar la información proporcionada por las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados, así como de las equivalentes en las entidades paraestatales de la Administración Pública Federal, acorde a los términos y plazos que se establezcan en las disposiciones que emita la Oficialía Mayor;
-
-VI. Organizar, consolidar, sistematizar y analizar la información que proporcionen las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados, así como de las equivalentes en las entidades de la Administración Pública Federal, en apoyo a la toma de decisiones;
-
-VII. Desarrollar e implementar los procesos de sistematización de la información para el seguimiento de la operación del modelo organizacional y de operación de las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados, así como los lineamientos y directrices para unidades equivalentes en las entidades paraestatales en la Administración Pública Federal;
-
-VIII. Proponer mecanismos que faciliten el procesamiento de información a las bases de datos de operación de las Unidades de Administración y Finanzas;
-
-IX. Proponer las herramientas que faciliten la sistematización de los procesos de registro de la información de las Unidades de Administración y Finanzas;
-
-X. Consolidar las necesidades de información, a fin de establecer un tablero de control a partir de los indicadores del modelo de evaluación de las Unidades de Administración y Finanzas de las dependencias, sus órganos administrativos desconcentrados, así como sus equivalentes en las entidades de la Administración Pública Federal;
-
-XI. Integrar la información para la evaluación de los servicios de apoyo administrativo y de las personas servidoras públicas que los ejecutan en las Unidades de Administración y Finanzas y equivalentes de las dependencias, sus órganos administrativos desconcentrados, así como de las entidades de la Administración Pública Federal, y
-
-XII. Las demás que en términos de las disposiciones legales le confieran, y las que le encomiende la persona titular de la Oficialía Mayor, la persona titular de la Unidad de Coordinación de Unidades de Administración y Finanzas o su superior jerárquico.
+Artículo 41 C.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
 ###### Artículo 42.
 
-La Unidad de Administración y Finanzas tiene las atribuciones siguientes:
+(DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-I. Dirigir y coordinar el proceso de ejecución de los servicios de apoyo administrativo en materia de planeación, programación, presupuesto, tecnologías de la información, recursos humanos, recursos materiales, contabilidad, archivos, y los demás que sean necesarios de la Secretaría;
+Artículo 42 A.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-II. Establecer y coordinar la implementación de estrategias internas de planeación y administración de los recursos humanos, para asegurar la operación de los procesos de conformidad con la normatividad en la materia;
+Artículo 42 B.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-III. Conducir el proceso de actualización de los instrumentos normativos y técnicos para la planeación, organización y administración de los recursos humanos, materiales, financieros, de tecnologías de la información, comunicaciones y de patrimonio cultural del que disponga la Secretaría, para proponer su emisión a la persona titular de la Oficialía Mayor;
+Artículo 42 C.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-IV. Dirigir la elaboración de los programas de reclutamiento, selección, capacitación, desarrollo, evaluación del desempeño, separación, remuneraciones, beneficios, estímulos y recompensas del personal observando las políticas, normas y lineamientos emitidos en la materia;
+Artículo 42 D.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-V. Instruir a las unidades administrativas a su cargo, el desarrollo de las acciones para la elaboración y trámite en la Secretaría y la Secretaría de la Función Pública, de los movimientos de estructuras orgánicas, ocupacionales y plantillas de personal de la Secretaría, así como la contratación de servicios profesionales bajo el régimen de honorarios o de personal eventual; con la finalidad de obtener las debidas autorizaciones;
+Artículo 42 E.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-VI. Expedir los nombramientos, cambios de adscripción y separaciones del personal, en los términos de las leyes aplicables;
+Artículo 42 F.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-VII. Autorizar las licencias con o sin goce de sueldo al personal de la Secretaría, de conformidad con las disposiciones aplicables;
+Artículo 42 G.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-VIII. Promover la incorporación de la perspectiva de género y el enfoque de igualdad en la cultura organizacional de la Secretaría, así como dirigir la implementación de los programas y acciones que en materia de igualdad deba llevar a cabo la Secretaría de conformidad con la Ley General para la Igualdad entre Mujeres y Hombres y demás disposiciones aplicables;
+Artículo 42 H.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-IX. Coordinar la programación y presupuestación de los programas de mantenimiento preventivo y correctivo para los bienes muebles e inmuebles de la Secretaría, con la finalidad de garantizar la vida útil de los mismos;
+Artículo 42 I.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-X. Dirigir la administración de los recursos materiales, la prestación de los servicios generales, la obra pública y servicios relacionados con la misma, el mantenimiento de los bienes responsabilidad de la Secretaría, así como promover la regularización jurídica y administrativa de los bienes inmuebles de la propia dependencia, de conformidad con las disposiciones aplicables;
+Artículo 42 J.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-XI. Dirigir las acciones necesarias para preservar la integridad física del personal que labora en la Secretaría y de las personas que la visitan, así como la de sus bienes muebles e inmuebles y la información documental y electrónica de su propiedad;
+Artículo 42 K.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-XII. Dirigir la elaboración, establecimiento, control y evaluación de los proyectos de programas que establece el Sistema Nacional de Protección Civil en lo que corresponda a la Secretaría, así como de los instrumentos internos en materia de Protección Civil;
+Artículo 42 L.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-XIII. Conducir la formulación, contratación y ejecución cuando así corresponda, de los programas anuales de obra pública, adquisiciones de bienes y servicios, administración, conservación y mantenimiento de bienes muebles e inmuebles de la Secretaría, así como la regularización jurídica de los últimos, salvo los señalados en las fracciones III, VI y VII del artículo 44 de este Reglamento;
+Artículo 42 M.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-XIV. Establecer las estrategias orientadas a proporcionar a la Secretaría el apoyo administrativo en materia de archivo, para vigilar el cumplimiento de los lineamientos normativos establecidos, así como dirigir y coordinar las acciones que permitan el control y organización de los archivos de trámite, concentración e histórico de las unidades administrativas de la Secretaría, en términos de la Ley General de Archivos y demás disposiciones aplicables;
+Artículo 42 N.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-XV. Dirigir y coordinar las acciones que permitan el control y organización de los archivos de trámite, concentración e histórico de las unidades administrativas de la Secretaría;
+Artículo 42 O.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-XVI. Coordinar la administración de los vehículos, de la Secretaría, de conformidad con las disposiciones y políticas aplicables;
+Artículo 42 P.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-XVII. Coordinar la resolución de los asuntos que los ordenamientos aplicables que rigen las actividades de administración de recursos materiales y servicios, así como de obras públicas y servicios relacionadas (sic) con las mismas, que se le atribuyan a la Secretaría;
+Artículo 42 Q.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-XVIII. Coordinar la planeación, organización y otorgamiento de los servicios de tecnologías de la información, los sistemas integrales de información, las comunicaciones institucionales, así como la seguridad y calidad de la información de la Secretaría;
-
-XIX. Dirigir los servicios de apoyo administrativo en materia de diseño de sistemas y equipamiento informático, comunicaciones y archivo y demás que sean necesarios para el mejor despacho de los asuntos de la Secretaría;
-
-XX. Instruir que se proporcionen los servicios de apoyo administrativo en materia de diseño de sistemas y equipamiento informático, comunicaciones y archivo y demás que sean necesarios para el mejor despacho de los asuntos de la Secretaría;
-
-XXI. Conducir la administración de los recursos presupuestales y financieros, con la finalidad de dar cumplimiento a los programas institucionales;
-
-XXII. Instruir la elaboración de informes financieros y de rendición de cuentas con la información programática, presupuestal y financiera de la Secretaría para cumplir con la normatividad establecida;
-
-XXIII. Instruir la integración de los anteproyectos de presupuesto y el calendario de gasto de las unidades administrativas de la Secretaría, incorporando el correspondiente a los órganos administrativos desconcentrados y a las entidades del sector coordinado por la misma, de conformidad con las disposiciones aplicables;
-
-XXIV. Autorizar las erogaciones de la Secretaría, a fin de vigilar el ejercicio del presupuesto e instruir se lleve a cabo su contabilidad, así como coordinar el trámite para el registro en la cartera de inversión y el seguimiento de los programas y proyectos de inversión autorizados a las unidades administrativas del sector central de la Secretaría, así como auxiliarlas en los trámites para la autorización y modificación de oficios de liberación de inversión, conforme a las disposiciones aplicables;
-
-XXV. Someter a la consideración de la persona titular de la Oficialía Mayor, los programas en materia de gasto público a cargo de la Secretaría que deriven del Presupuesto de Egresos de la Federación y de las disposiciones jurídicas aplicables, así como supervisar su ejecución y evaluar su cumplimiento;
-
-XXVI. Dirigir la prestación de los servicios de apoyo administrativo para el ejercicio, reembolso, pago y registro presupuestario y contable del gasto de las unidades administrativas de la Secretaría, así como para solicitar a la Tesorería de la Federación la ministración de recursos que les correspondan, de conformidad con las disposiciones aplicables;
-
-XXVII. Dirigir y coordinar el desarrollo del proceso contable de las operaciones financieras y presupuestarias de la Secretaría, a fin de dar cumplimiento a las disposiciones fiscales y con la rendición de cuentas establecidas en la normatividad de la materia;
-
-XXVIII. Instruir los trámites ante la Oficina de la Presidencia, la Secretaría de Hacienda y Crédito Público, de la Secretaría de la Función Pública y demás instancias competentes de los procesos bajo su cargo, a fin de dar cumplimiento a la normatividad aplicable;
-
-XXIX. Atender las directrices generales que emita la Oficialía Mayor de la Secretaría;
-
-XXX. Informar a las personas titulares de la Secretaría y de la Oficialía Mayor de la misma, de los asuntos relevantes de las unidades administrativas que le sean adscritas;
-
-XXXI. Coordinar la elaboración de bases y la celebración de convenios y demás instrumentos jurídicos que resulten necesarios para la adecuada administración de los recursos en la Secretaría;
-
-XXXII. Suscribir los convenios y contratos que afecten el presupuesto de la Secretaría y los demás actos de administración que requieran ser documentados, conforme a la normatividad aplicable;
-
-XXXIII. Instruir la implementación de las normas, procedimientos y sistemas de administración interna en materia de recursos humanos, materiales y financieros, así como de servicios generales y Tecnologías de Información y Comunicaciones que establezca, a fin de dar cumplimiento a las disposiciones jurídicas aplicables;
-
-XXXIV. Llevar a cabo el establecimiento de mecanismos para simplificar, desregular y mejorar las disposiciones administrativas internas en materia de planeación, presupuestación y administración de recursos humanos, materiales y financieros de la Secretaría;
-
-XXXV. Dirigir los trabajos para la integración del Manual de Organización General de la Secretaría, de los manuales de organización específicos y de procedimientos de las unidades administrativas de la Secretaría, así como realizar las acciones pertinentes para su validación, registro y actualización;
-
-XXXVI. Representar a la persona titular de la Secretaría ante el Tribunal Federal de Conciliación y Arbitraje y Juntas Locales y Federales de Conciliación y Arbitraje y demás autoridades del trabajo en las controversias que no estén encomendadas expresamente a otra unidad administrativa de la propia Secretaría, ejercitando las acciones, excepciones y defensas, conciliar, allanarse y transigir en los juicios en que intervenga en representación de la Secretaría, interponiendo los recursos que procedan ante el citado Tribunal y Juntas mencionadas, así como absolver posiciones a nombre de la persona titular de la Secretaría, ejerciendo la representación en el curso del proceso respectivo;
-
-XXXVII. Conducir las relaciones con el Sindicato de la Secretaría, así como participar en el establecimiento, revisión y modificación de las condiciones generales de trabajo;
-
-XXXVIII. Coordinar la producción y suministro de impresos y de publicaciones y materiales de impresos para las unidades administrativas de la Secretaría, así como para las dependencias y entidades de la Administración Pública Federal;
-
-XXXIX. Coordinar los trámites correspondientes de las instituciones de su sector, en procesos de ejecución de los servicios de apoyo administrativo en materia de planeación, programación, presupuesto, tecnologías de la información, recursos humanos, recursos materiales, contabilidad y archivos, ante las instancias normativas;
-
-XL. Proponer, en su caso, a la persona titular de la Oficialía Mayor, la designación de representantes ante las comisiones y comités que, en términos de las disposiciones aplicables, el personal de la Oficialía Mayor deba de participar, para tratar asuntos competencia de la Unidad de Administración y Finanzas;
-
-XLI. Dirigir las acciones de coordinación para la atención por parte de las unidades administrativas de la Secretaría para la atención de los requerimientos formulados por la Auditoría Superior de la Federación y coordinar el enlace ante el Órgano Interno de Control en la Secretaría para el seguimiento estadístico de las auditorías y observaciones que este determine;
-
-XLII. Dirigir la gestión de la autorización de las adecuaciones presupuestarias de la Secretaría;
-
-XLIII. Fungir como ventanilla única de la Oficialía Mayor para la atención de trámites y solicitudes relacionadas con la prestación de los servicios de apoyo administrativo a su cargo, formuladas por las unidades administrativas de la Secretaría; sin perjuicio de las atribuciones que en la materia se encuentran conferidas a las Direcciones Generales que le están adscritas, así como a las Coordinaciones Administrativas de la Secretaría, y
-
-XLIV. Atender los asuntos que le encomiende la persona titular de la Oficialía Mayor.
-
-Artículo 42 A.- La Dirección General de Recursos Financieros tiene las atribuciones siguientes:
-
-I. Conducir las actividades para programar, presupuestar, ejercer y controlar el gasto público correspondiente a las unidades administrativas del sector central de la Secretaría, de conformidad con las disposiciones aplicables;
-
-II. Coordinar el trámite para el registro en la cartera de inversión y el seguimiento de los programas y proyectos de inversión autorizados a las unidades administrativas del sector central de la Secretaría, así como auxiliarlas en los trámites para la autorización y modificación de oficios de liberación de inversión, conforme a las disposiciones aplicables;
-
-III. Aplicar los instrumentos normativos y técnicos para la programación, formulación, adecuación, ejercicio y control del presupuesto autorizado a las unidades administrativas del sector central de la Secretaría y, en general, para la administración de los recursos financieros, de acuerdo a las políticas generales fijadas por la persona titular de la Secretaría y las disposiciones aplicables;
-
-IV. Integrar el anteproyecto de presupuesto, así como el calendario de gasto del Ramo 06 Hacienda y Crédito Público, incluyendo los correspondientes a los órganos administrativos desconcentrados y entidades del sector coordinado que se le remitan por la unidad administrativa competente de la Secretaría, de conformidad con las disposiciones aplicables;
-
-V. Difundir entre las unidades administrativas de la Secretaría las normas, lineamientos, políticas y demás disposiciones que en materia programática, presupuestaria, financiera, y de organización, emitan las instancias competentes;
-
-VI. Coordinar las actividades relacionadas con la consolidación de la información del Ramo 06 “Hacienda y Crédito Público”, incluyendo la correspondiente a los órganos administrativos desconcentrados y entidades paraestatales, y de las entidades correspondientes al Ramo 47 “Entidades No Sectorizadas”, para la integración de la Cuenta de la Hacienda Pública Federal, y, en su caso, de los demás informes relativos a dichos ramos;
-
-VII. Tramitar las solicitudes que, para el ejercicio, reembolso y pago del presupuesto, realicen las unidades administrativas del sector central de la Secretaría, así como efectuar el registro presupuestario y contable del gasto correspondiente;
-
-VIII. Requerir la información relativa al desarrollo de los programas de las unidades administrativas de la Secretaría e informar, en su caso, a las instancias correspondientes acerca de su cumplimiento;
-
-IX. Coordinar las acciones de las unidades administrativas de la Secretaría para la atención de los requerimientos formulados por la Auditoría Superior de la Federación y fungir como enlace ante el Órgano Interno de Control en la Secretaría para el seguimiento estadístico de las auditorías y observaciones que este determine;
-
-X. Solicitar a la Tesorería de la Federación la ministración de los recursos que correspondan a la Secretaría, de conformidad con las disposiciones aplicables;
-
-XI. Revisar el avance de los indicadores del sistema de evaluación del desempeño que reportan las unidades administrativas del sector central de la Secretaría;
-
-XII. Proponer, para autorización de la persona titular de la Unidad de Administración y Finanzas, la distribución de gasto del proyecto de presupuesto del Ramo 06 “Hacienda y Crédito Público”, incluyendo la correspondiente a los órganos administrativos desconcentrados y entidades paraestatales, que se le remitan por la unidad administrativa competente de la Secretaría;
-
-XIII. Realizar el proceso contable de las operaciones financieras y presupuestarias de la Secretaría, a fin de dar cumplimiento a las disposiciones fiscales y con la rendición de cuentas establecidas en la normatividad de la materia;
-
-XIV. Gestionar los procesos de autorización, asignación y modificación de las partidas del ramo administrativo del Presupuesto de Egresos de la Federación, ante la Secretaría;
-
-XV. Conducir las acciones relacionadas con la Mejora Regulatoria Interna de la Secretaría, y
-
-XVI. Atender los asuntos que le encomiende la persona titular de la Unidad de Administración y Finanzas.
-
-Artículo 42 B.- La Coordinación de Finanzas y Tesorería tiene las atribuciones siguientes:
-
-I. Determinar las actividades relacionadas con la recepción, revisión y trámite de las solicitudes de liquidación y comprobación del gasto descentralizado y centralizado de las unidades responsables del Sector Central de la Secretaría;
-
-II. Autorizar el registro ante la Tesorería de la Federación de los nombramientos de los funcionarios que utilizarán la figura de comisionado habilitado de las Coordinaciones Administrativas de la Secretaría, de conformidad con la designación otorgada por la persona titular de la Oficialía Mayor;
-
-III. Conducir la operación del Fondo Rotatorio asignado a la Secretaría, así como enterar mensualmente a la Tesorería de la Federación los rendimientos generados por el manejo de dichos recursos, y supervisar la elaboración de la conciliación mensual;
-
-IV. Establecer las actividades necesarias para el registro, integración y actualización del Catálogo de Beneficiarios y Cuentas Bancarias en el Sistema de Contabilidad y Presupuesto y en el Sistema Integral de Administración Financiera Federal, de las Coordinaciones Administrativas de la Secretaría;
-
-V. Autorizar, en el Sistema Integral de Administración Financiera Federal mediante firma electrónica, las cuentas por liquidar certificadas y, en su caso, los oficios de rectificación y avisos de reintegro, que generen la liquidación a proveedores, contratistas o manejo del comisionado habilitado y de nóminas del personal de la Secretaría;
-
-VI. Conducir las actividades para la dotación, reposición y cancelación, en su caso, de las tarjetas de servicios bancarios destinadas al pago de viáticos del personal comisionado y de gastos menores y urgentes requeridos por las unidades administrativas;
-
-VII. Disponer que el registro de todas las cuentas por pagar en el Programa de Cadenas Productivas de Nacional Financiera, S.N.C., se realice en los términos y plazos establecidos en sus lineamientos específicos;
-
-VIII. Conducir las actividades para la administración de las cuentas bancarias requeridas para el manejo de los recursos asignados a los comisionados habilitados y al fondo rotatorio, evaluando los productos financieros que ofrecen las instituciones, así como los requisitos establecidos por las mismas, con el propósito de que se contraten aquellos productos que se apeguen más a las necesidades de la dependencia;
-
-IX. Conducir las actividades relativas a la integración de información referente a los ingresos por concepto de productos, derechos y aprovechamientos, para informar en tiempo y forma a través del Módulo de Estimaciones de Ingresos; así como las relativas a la incorporación al esquema de pago electrónico de derechos productos y aprovechamientos;
-
-X. Conducir la atención de los requerimientos de los órganos fiscalizadores en el ámbito de sus atribuciones, durante el desarrollo de las auditorías, facilitando la generación y entrega de documentación solicitada, así como su seguimiento y devolución, a fin de solventar las observaciones realizadas;
-
-XI. Realizar el entero de las retenciones realizadas a los proveedores de bienes y servicios, por concepto de Impuesto Sobre la Renta, Impuesto al Valor Agregado y 5 al millar; así como las retenciones por concepto de servicios personales, y
-
-XII. Atender los asuntos que le encomiende la persona titular de la Dirección General de Recursos Financieros.
-
-Artículo 42 C.- La Coordinación de Información y Seguimiento tiene las atribuciones siguientes:
-
-I. Participar en las reuniones que se efectúen entre la Auditoría Superior de la Federación y las unidades administrativas de la Secretaría, con la finalidad de cumplir con la formalización del proceso de fiscalización de la Cuenta de la Hacienda Pública Federal;
-
-II. Coordinar las actividades necesarias para atender los diversos requerimientos de información y el seguimiento de las acciones determinadas por la Auditoría Superior de la Federación, con las unidades administrativas de la Secretaría, de conformidad con las atribuciones conferidas en este Reglamento;
-
-III. Coordinar las acciones con el Órgano Interno de Control en la Secretaría, para dar seguimiento estadístico de las auditorías y observaciones que este determine; asimismo, otorgar, con las unidades de la dependencia, el seguimiento estadístico de las auditorías y observaciones, efectuadas por la Unidad de Auditoría Gubernamental de la Secretaría de la Función Pública;
-
-IV. Coordinar la elaboración e integración de los programas e informes institucionales a cargo de la Dirección General de Recursos Financieros en el marco de las disposiciones aplicables;
-
-V. Conducir las acciones necesarias al interior de la Secretaría, y con apoyo de las unidades responsables, para cumplir con las disposiciones en materia de control interno vigentes y, cuyo seguimiento sea asignado a la Dirección General de Recursos Financieros;
-
-VI. Fungir como enlace ante la dependencia del Gobierno federal, a través de las plataformas electrónicas para la implementación de los programas que deriven de los sectoriales, institucionales y especiales en que participe la Secretaría y cuyo seguimiento sea asignado a la Dirección General de Recursos Financieros;
-
-VII. Coordinar la operación relacionada con la mejora regulatoria Interna de la Secretaría;
-
-VIII. Coordinar las acciones para la integración de la carpeta electrónica que corresponda presentar en el Comité de Control y Desempeño Institucional de la Secretaría, de conformidad con las disposiciones aplicables, y
-
-IX. Atender los asuntos que le encomiende la persona titular de la Dirección General de Recursos Financieros.
-
-Artículo 42 D.- La Coordinación de Programación y Presupuesto del Sector Central tiene las atribuciones siguientes:
-
-I. Establecer el proceso de difusión del marco normativo y metodológico, aplicable al proceso de programación y presupuestación, a las unidades responsables del Sector Central de la Secretaría, en su ámbito de competencia;
-
-II. Conducir la integración y consolidación de la información del proceso de programación y presupuesto del Ramo 06 Hacienda y Crédito Público, de conformidad con las disposiciones vigentes y los lineamientos que sobre la materia emitan las autoridades competentes;
-
-III. Establecer el proceso de elaboración de la integración del anteproyecto, proyecto y calendario del presupuesto; la consolidación del Sector Central de los programas y proyectos de inversión; así como integrar el estado del ejercicio y las modificaciones del presupuesto para conformar la Cuenta de la Hacienda Pública Federal;
-
-IV. Conducir el proceso de revisión, mejora y actualización de las Matrices de Indicadores de Programas Presupuestarios, así como el avance de los Indicadores del Sistema de Evaluación del Desempeño que reportan las unidades responsables del Sector Central de la Secretaría;
-
-V. Autorizar las adecuaciones presupuestarias internas y gestionar la autorización de las externas ante las autoridades correspondientes, así como autorizar suficiencias presupuestarias solicitadas por las unidades responsables del Sector Central de la Secretaría, previa revisión, registro y control de las mismas;
-
-VI. Realizar el registro en el Módulo de Ingresos Excedentes de los dictámenes y notificaciones de Ingresos Excedentes que soliciten las áreas del Sector Central de la Secretaría, para su posterior requerimiento de ampliación líquida;
-
-VII. Acreditar que los trabajos del proceso de integración de la información financiera, presupuestaria, programática y contable del Sector Central y Coordinado de la Secretaría sean conciliados con las diferentes plataformas para la integración de cifras para la Cuenta de la Hacienda Pública Federal;
-
-VIII. Establecer el proceso de análisis de la información de la apertura y el cierre contable del Ramo 06 Hacienda y Crédito Público, conforme a las bases normativas vigentes para que este refleje la totalidad de los eventos seleccionados y contenidos en el Sistema de Contabilidad y Presupuesto, verificando que se cumpla con los requerimientos necesarios, para ser registrados correctamente en el Sistema de Contabilidad Gubernamental;
-
-IX. Determinar las acciones para la integración del documento anual del mecanismo de planeación de los programas y proyectos de inversión del Ramo 06 Hacienda y Crédito Público; así como el trámite de registro de los programas y proyectos de inversión y el trámite de autorización de los Oficios de Liberación de Inversión de las unidades responsables del Sector Central de la Secretaría, de acuerdo con la normatividad en la materia;
-
-X. Conducir el proceso de revisión y envío de la información que las unidades responsables del Sector Central de la Secretaría, registran en el Sistema de Control y Transparencia de Fideicomisos, sobre los fideicomisos, mandatos y análogos, que coordinan o con cargo a cuyo presupuesto se hayan otorgado recursos presupuestarios;
-
-XI. Conducir la participación de las unidades responsables del Sector Central de la Secretaría, a cargo de los programas presupuestarios en las evaluaciones externas establecidas en los Programas Anuales de Evaluación, que emite la Unidad de Evaluación del Desempeño;
-
-XII. Elaborar los proyectos de las evaluaciones del impacto presupuestario de las iniciativas de ley o decreto aplicables al Sector Central de la Secretaría, en el ámbito de competencia;
-
-XIII. Autorizar las modificaciones de las solicitudes Plurianuales y Especiales; de trámite interno, así como gestionar las autorizaciones externas requeridas por las unidades responsables del Sector Central de la Secretaría;
-
-XIV. Determinar los trámites a realizar, respecto a las solicitudes, consultas y evaluaciones tanto internas como externas, solicitados por diferentes instancias y dependencias, tanto internas como externas de la Secretaría, en materia presupuestaria, programación, contabilidad e inversiones, requeridas por las unidades responsables del Sector Central de la Secretaría;
-
-XV. Conducir la elaboración e integración de los diferentes Informes ya sean trimestrales, anuales o que sean solicitados por diferentes instancias y dependencias, tanto internas como externas de la Secretaría, en materia de presupuesto, programación, inversiones, contabilidad, Indicadores de Resultados, Deuda pública y finanzas del Ramo 06 Hacienda y Crédito Público cuando así proceda conforme a la normatividad aplicable;
-
-XVI. Informar de la gestión, dentro del ámbito de su competencia, de las solicitudes para ejercer recursos de las partidas presupuestarias que requieran la autorización de la persona titular de la dependencia, o servidora pública en que se delegue dicha facultad; realizadas por las unidades responsables del Sector Central de la Secretaría a la Dirección General de Recursos Financieros, conforme a la normatividad aplicable;
-
-XVII. Conducir la integración de los avances correspondientes en el cumplimiento de los compromisos asumidos por la Secretaría, plasmados en las Bases de Colaboración suscritas en el marco del Programa de Gobierno vigente, y
-
-XVIII. Atender los asuntos que le encomiende la persona titular de la Dirección General de Recursos Financieros.
-
-Artículo 42 E.- La Dirección General de Recursos Humanos tiene las atribuciones siguientes:
-
-I. Instrumentar los procesos y programas en materia de administración de personal; profesionalización; educación y cultura organizacional; desarrollo humano y social; derechos humanos; reconocimiento laboral; motivación; reclutamiento, selección, nombramientos, contratación y movimientos del personal; innovación; remuneraciones; relaciones laborales; formación, capacitación y certificación por competencias laborales; evaluación del desempeño; servicio social; becas; prestaciones; salud, deporte, cultura y recreación del personal y, en su caso, para los pensionados y jubilados; servicios educacionales y asistenciales para los trabajadores y sus familiares y de los sistemas de educación abierta; y de seguridad, higiene, riesgos profesionales y medio ambiente en el trabajo, así como coordinar su difusión de conformidad con las disposiciones aplicables;
-
-II. Someter a consideración de la persona titular de la Unidad de Administración y Finanzas las directrices y criterios en materia de recursos humanos;
-
-III. Instrumentar con instituciones públicas o privadas, convenios, bases de colaboración, acuerdos y demás actos relacionados con las atribuciones previstas en la fracción I de este artículo, que no generen obligaciones de pago;
-
-IV. Aplicar los criterios técnicos e implementar la metodología para el análisis y dictamen administrativo de las estructuras orgánica y ocupacional, así como de las plantillas de personal de la Secretaría;
-
-V. Evaluar y presentar para aprobación superior, las propuestas de modificación a las estructuras orgánica y ocupacional, así como actualizar las mismas y las plantillas de personal de las unidades administrativas de la Secretaría;
-
-VI. Coordinar la integración del Manual de Organización General de la Secretaría, de los manuales de organización específicos, de procedimientos y, en su caso, de servicios al público de las unidades administrativas de la Secretaría, así como realizar las acciones pertinentes para su validación, registro y actualización;
-
-VII. Coordinar la formulación del anteproyecto de presupuesto del Capítulo 1000 “Servicios Personales” de la Secretaría y supervisar su ejercicio, así como distribuir, solicitar, integrar y custodiar la documentación comprobatoria del citado capítulo, de conformidad con las disposiciones aplicables;
-
-VIII. Validar la autorización del nombramiento del personal de base y de confianza de las unidades administrativas de la Secretaría, así como emitir los acuerdos de baja del personal, de conformidad con las disposiciones aplicables;
-
-IX. Validar la contratación de servicios profesionales por honorarios y suscribir los contratos respectivos, de conformidad con las disposiciones aplicables;
-
-X. Coordinar las acciones necesarias para la operación, evaluación y control del proceso de elaboración de nómina y del pago de remuneraciones al personal, así como realizar la liquidación y pago a terceros, de conformidad con las disposiciones aplicables;
-
-XI. Instrumentar el otorgamiento de las prestaciones y servicios que correspondan al personal sindicalizado conforme a las condiciones generales de trabajo y al demás personal de la Secretaría en términos de las disposiciones aplicables, así como expedir credenciales y medios de identificación al personal de la Secretaría;
-
-XII. Normar la integración, resguardo, custodia y certificación de los expedientes laborales y administrativos del personal de la Secretaría, e integrar, llevar el control, la guarda y custodia y certificación de los expedientes a su cargo y, en su caso, de aquellos documentos que obren en sus archivos;
-
-XIII. Coordinar la integración, actualización, registro y difusión del catálogo institucional de puestos y su incorporación al sistema electrónico de información que determine la Secretaría de la Función Pública;
-
-XIV. Conducir la operación de los programas informáticos que coadyuven a la administración de funciones relativas al Capítulo 1000 “Servicios Personales”, con la intervención que, en su caso, corresponda a la Dirección General de Tecnologías y Seguridad de la Información;
-
-XV. Representar a la persona titular de la Secretaría ante el Tribunal Federal de Conciliación y Arbitraje, Juntas Locales y Federales de Conciliación y Arbitraje, Juzgados de Distrito y Tribunales Colegiados en Materia de Trabajo, y demás autoridades laborales en las controversias que se susciten entre la Secretaría y el personal que le preste servicios, que no estén encomendadas expresamente a otra unidad administrativa de la propia Secretaría; formular demandas y contestaciones relacionadas con el personal, que no sean competencia de otra unidad administrativa, conciliar, absolver posiciones, celebrar convenios, allanarse, transigir, ejercitar acciones, desistirse de estas, interponer recursos y ejecutar laudos o resoluciones en los juicios laborales, ante las autoridades señaladas en representación de la persona titular de la Secretaría, de la persona titular de la Oficialía Mayor y de la persona titular de la Unidad de Administración y Finanzas; formular demandas y desistirse en los juicios de amparo contra las resoluciones y laudos que se dicten e interponer los medios de defensa que en derecho procedan;
-
-XVI. Intervenir en el levantamiento de toda clase de actas administrativas donde se hagan constar hechos o actos de las personas servidoras públicas de la Secretaría para los efectos legales que correspondan; imponer las sanciones y medidas disciplinarias que procedan conforme a las condiciones generales de trabajo y demás disposiciones jurídicas aplicables, así como revocarlas, previo acuerdo superior; gestionar ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado los dictámenes respectivos sobre el estado de salud de los trabajadores; emitir acuerdos para formalizar la terminación de la relación laboral en los casos de invalidez o incapacidad total y permanente; ejecutar las resoluciones que notifique el Órgano Interno de Control en la Secretaría o la Secretaría de la Función Pública en términos de las disposiciones jurídicas aplicables; y emitir el cese de los efectos del nombramiento o, en su caso, revocar el mismo cuando proceda, conforme a las disposiciones jurídicas aplicables;
-
-XVII. Determinar, de conformidad con las disposiciones aplicables, la emisión o suspensión de pagos, la aplicación de descuentos y retenciones legales, así como los autorizados u ordenados por mandamiento judicial o de autoridad administrativa competente, así como la recuperación de las cantidades correspondientes a salarios no devengados, pagos en exceso, y las originadas por la aplicación de las medidas disciplinarias y sanciones administrativas contempladas en las condiciones generales de trabajo y en las demás disposiciones aplicables;
-
-XVIII. Coadyuvar en la conducción de las relaciones con el Sindicato de la Secretaría, participar en el establecimiento, revisión y modificación de las condiciones generales de trabajo, difundirlas entre el personal y vigilar su aplicación y cumplimiento;
-
-XIX. Analizar y comunicar materiales informativos en apoyo al personal de la Secretaría, en términos de las disposiciones aplicables;
-
-XX. Generar la información estadística y los indicadores necesarios para la conducción de los procesos y programas de innovación, formación, desarrollo de personal, servicios educacionales, comunicación y difusión interna;
-
-XXI. Coordinar a las diversas instancias de la Secretaría que participen en las comisiones mixtas en materia laboral, de conformidad con las disposiciones aplicables y, en su caso, desempeñar las funciones de secretariado técnico;
-
-XXII. Registrar las licencias con o sin goce de sueldo del personal de la Secretaría autorizadas por la persona titular de la Unidad de Administración y Finanzas o las unidades administrativas de la Secretaría, de conformidad con las disposiciones aplicables;
-
-XXIII. Dirigir la operación de los subsistemas del Servicio Profesional de Carrera, para la Secretaría;
-
-XXIV. Instrumentar, aplicar, administrar y difundir las disposiciones en materia del Servicio Profesional de Carrera;
-
-XXV. Coordinar la integración del programa operativo anual del Servicio Profesional de Carrera en la Secretaría y proponer su aprobación al Comité Técnico de Profesionalización, así como coordinar la operación y actualización del Registro Único de Servidores Públicos de la Secretaría;
-
-XXVI. Coordinar la instrumentación de los programas para la formación, capacitación y certificación del personal en materia de igualdad de género;
-
-XXVII. Asesorar a las unidades administrativas de la Secretaría en materia laboral y de recursos humanos, así como en la aplicación de las disposiciones en estas materias, y
-
-XXVIII. Atender los asuntos que le encomiende la persona titular de la Unidad de Administración y Finanzas.
-
-Artículo 42 F.- La Coordinación de Administración de Personal tiene las atribuciones siguientes:
-
-I. Implementar los procesos y programas en materia de administración de personal; nombramientos, contratación y movimientos del personal; remuneraciones; prestaciones; salud, deporte, cultura y recreación del personal y, en su caso, para los pensionados y jubilados; así como coordinar su difusión de conformidad con las disposiciones aplicables;
-
-II. Someter a consideración de la persona titular de la Dirección General de Recursos Humanos las directrices y criterios en materia de administración de personal;
-
-III. Formular y proponer para aprobación superior el anteproyecto del presupuesto del Capítulo 1000 de “Servicios Personales” de la Secretaría, vigilando y asegurando el pago oportuno de las remuneraciones, así como del otorgamiento de prestaciones y servicios conforme a la normatividad y lineamientos vigentes;
-
-IV. Supervisar la elaboración, trámite y control de las afectaciones presupuestarias por ampliaciones liquidas, reducciones liquidas y transferencia de recursos y por creación, conversión, cancelación y transferencia de plazas-puesto, que requieran las unidades administrativas de la Secretaría;
-
-V. Dirigir el análisis previo a la autorización del nombramiento del personal de base y de confianza de las unidades administrativas de la Secretaría, así como para la emisión de los acuerdos de baja del personal, de conformidad con las disposiciones aplicables;
-
-VI. Dirigir el análisis previo para validar la contratación de servicios profesionales por honorarios y para suscribir los contratos respectivos, de conformidad con las disposiciones aplicables;
-
-VII. Coordinar que el pago de las remuneraciones a las personas servidoras públicas de la Secretaría se efectúe conforme a las disposiciones y tiempos establecidos y que las aportaciones de la Secretaría y retenciones del personal en materia de terceros institucionales se apeguen a los calendarios establecidos;
-
-VIII. Vigilar el control del procesamiento de nóminas y la emisión de productos de pago para corroborar que estos se efectúen conforme a los calendarios establecidos y se apliquen los descuentos enviados por terceros;
-
-IX. Coordinar las acciones para la integración de la documentación comprobatoria para justificar la erogación que durante el ejercicio del gasto de los recursos asignados a la Secretaría por concepto de Capítulo 1000 "Servicios Personales";
-
-X. Supervisar la gestión de prestaciones y servicios como: seguros diversos, sistema de ahorro para el retiro, créditos del FOVISSSTE, expedición de credenciales, pensión alimenticia, entre otros;
-
-XI. Proponer los criterios y lineamientos para la integración, resguardo, custodia y certificación de los expedientes laborales y administrativos del personal de la Secretaría, e integrar, llevar el control, la guarda y custodia y certificación de los expedientes a su cargo y, en su caso, de aquellos documentos que obren en sus archivos;
-
-XII. Coordinar la operación de los programas informáticos que constituyen el sistema informático integral de presupuesto, nómina y servicios al personal y control de asistencia;
-
-XIII. Aplicar, de conformidad con las disposiciones aplicables, la emisión o suspensión de pagos, descuentos y retenciones legales, así como los autorizados u ordenados por mandamiento judicial o de autoridad administrativa competente, así como la recuperación de las cantidades correspondientes a salarios no devengados, pagos en exceso, y las originadas por la aplicación de las medidas disciplinarias y sanciones administrativas contempladas en las condiciones generales de trabajo y en las demás disposiciones aplicables;
-
-XIV. Incorporar en el sistema de recursos humanos las licencias con o sin goce de sueldo del personal de la Secretaría, de conformidad con las disposiciones aplicables, y
-
-XV. Atender los asuntos que le encomiende la persona titular de la Dirección General de Recursos Humanos.
-
-Artículo 42 G.- La Coordinación de Planeación y de Estudios Organizacionales tiene las atribuciones siguientes:
-
-I. Implementar los procesos y programas en materia de educación y cultura organizacional, reconocimiento laboral, servicios educacionales y asistenciales para los trabajadores y sus familiares, así como coordinar su difusión de conformidad con las disposiciones aplicables;
-
-II. Dirigir y coordinar el programa de evaluación del desempeño para personal operativo, así como los procesos para la entrega de los reconocimientos por perseverancia y lealtad, los premios de antigüedad en el sector público, los estímulos y recompensas y el Premio Nacional de Administración Pública, así como organizar y dirigir la ceremonia de entrega de reconocimientos;
-
-III. Coordinar la operación del Comité de Ética de la Secretaría, de conformidad con las funciones y responsabilidades que corresponden a la persona titular de la Secretaría Técnica del Comité y que se precisan en sus Bases de Organización y Funcionamiento;
-
-IV. Poner a consideración de la persona titular de la Dirección General de Recursos Humanos las directrices y criterios en materia de Organización, Cultura Organizacional y ética;
-
-V. Dirigir la realización de diagnósticos organizacionales, estudios y proyectos de mejora continua que sean necesarios para optimizar las estructuras orgánicas y ocupacionales de la Secretaría, y asesorar a las unidades responsables de la Secretaría en la elaboración de sus propuestas de organización;
-
-VI. Dirigir el análisis de las propuestas de modificación de las estructuras orgánicas y ocupacionales de la Secretaría, a fin de presentarlas por medio de escenarios ante la Secretaría de la Función Pública, para su aprobación y registro;
-
-VII. Dirigir los trabajos para la integración del Manual de Organización General de la Secretaría, en apego a los cambios o modificaciones que se deriven de reformas a su Reglamento Interior y que modifiquen su estructura orgánica básica;
-
-VIII. Dirigir y coordinar la integración y actualización de los manuales específicos de organización y de procedimientos de las unidades administrativas de la Secretaría, validar su contenido y presentarlos a consideración de la Dirección General de Recursos Humanos para proceder a su registro;
-
-IX. Dirigir y evaluar el proceso de elaboración y actualización de las descripciones, perfiles y valuaciones de puestos de los niveles de enlace a Secretario de Estado y su incorporación al sistema electrónico de información establecido por la Secretaría de la Función Pública;
-
-X. Dirigir la actualización del maestro de puestos de la Secretaría y verificar su incorporación en el sistema electrónico establecido por la Secretaría de la Función Pública, informando lo conducente a las áreas de la Dirección General;
-
-XI. Coordinar las campañas de difusión sobre los programas que instrumente la Secretaría, a través de la Dirección General de Recursos Humanos, a fin de garantizar el máximo nivel de conocimiento de la población objetivo a través de cartas electrónicas, banners en la intranet, oficios, comunicados y papel tapiz de los equipos de cómputo, dirigidos al personal de la Secretaría, a fin de brindar la Información correspondiente en tiempo y forma;
-
-XII. Colaborar en la planeación y programación de las actividades sustantivas, así como al seguimiento de las metas y compromisos que deban reportarse a las diferentes instancias internas y externas, y
-
-XIII. Atender los asuntos que le encomiende la persona titular de la Dirección General de Recursos Humanos.
-
-Artículo 42 H.- La Coordinación de Desarrollo Profesional tiene las atribuciones siguientes:
-
-I. Dirigir y coordinar la implementación de los procesos y programas en materia de profesionalización, desarrollo humano y social, reclutamiento, selección, formación, capacitación y certificación por capacidades y competencias laborales, evaluación del desempeño, servicio social, becas, así como coordinar su difusión de conformidad con las disposiciones aplicables;
-
-II. Someter a consideración de la persona titular de la Dirección General de Recursos Humanos las directrices y criterios en materia de Desarrollo del Servicio Profesional de Carrera en la Secretaría;
-
-III. Establecer convenios de cooperación técnica, referente a prácticas profesionales, servicio social, intercambio académico, investigación u otro que fortalezca la profesionalización de los recursos humanos con instituciones educativas, públicas y privadas en materia de gestión de recursos humanos y Servicio Profesional de Carrera, así como los convenios de colaboración de Recursos Humanos con Dependencias del Gobierno federal con fines de Desarrollo Profesional;
-
-IV. Dirigir la integración y presentación del Programa Operativo Anual del Servicio Profesional de Carrera, vigilando la consecución de las metas programadas, con la finalidad de cumplir con los indicadores dispuestos en el subsistema de control y evaluación;
-
-V. Coordinar y evaluar la operación de los Subsistemas del Servicio Profesional de Carrera, relativos a la planeación de recursos humanos, ingreso, desarrollo profesional, capacitación y certificación de capacidades y competencias, evaluación del desempeño, separación y de control y evaluación, mediante las directrices establecidas por el Comité Técnico de Profesionalización de la Secretaría;
-
-VI. Coordinar las sesiones del Comité Técnico de Profesionalización de la Secretaría y la integración de la información y antecedentes que deben someterse a la autorización del Comité en sus sesiones ordinarias y extraordinarias, así como la elaboración de las actas y seguimiento de acuerdos, con el fin de atender los requerimientos de la institución;
-
-VII. Aprobar, a través del Comité Técnico de Profesionalización y en coordinación con la Secretaría de la Función Pública, los cargos que, por excepción, sean de libre designación, el inicio de los procedimientos de reclutamiento y selección, modificación de perfil de puestos, movimientos laterales y reorganizaciones de puestos sujetos al Servicio Profesional de Carrera;
-
-VIII. Dirigir la operación de los procesos de reclutamiento y selección de los puestos sujetos al Servicio Profesional de Carrera, de los puestos de nivel operativo, y del servicio social o prácticas profesionales, supervisando la aplicación de los criterios establecidos en los lineamientos, políticas y demás disposiciones normativas en las materias de recursos humanos, garantizando la transparencia en los procesos;
-
-IX. Dirigir la aplicación de la metodología del Diagnóstico de Necesidades de Capacitación y proponer e instrumentar los programas de capacitación, desarrollo profesional y certificación de capacidades o capacidades y competencias, que requieran las personas servidoras públicas de la Secretaría;
-
-X. Dirigir la aplicación de la Metodología para la operación de los procesos de Evaluación del Desempeño, establecimiento de metas y el desarrollo profesional del personal sujeto al Servicio Profesional de Carrera;
-
-XI. Dirigir y administrar el Servicio Profesional de Carrera, a través del establecimiento de programas institucionales en la Secretaría, conforme a la Ley del Servicio Profesional de Carrera en la Administración Pública Federal, su Reglamento y la normatividad y procedimientos específicos que al efecto establezca la Secretaría de la Función Pública;
-
-XII. Integrar el Programa Operativo Anual del Servicio Profesional de Carrera en la Secretaría y gestionar su aprobación ante el Comité Técnico de Profesionalización, y vigilar la consecución de las metas programadas, así como coordinar la operación y actualización del Registro Único de Servidores Públicos de la Secretaría, y
-
-XIII. Atender los asuntos que le encomiende la persona titular de la Dirección General de Recursos Humanos.
-
-Artículo 42 I.- La Dirección General de Recursos Materiales, Obra Pública y Servicios Generales tiene las atribuciones siguientes:
-
-I. Someter a consideración superior las directrices y criterios en materia de administración de recursos materiales, servicios generales, obras públicas y servicios relacionados con las mismas, de conformidad con las disposiciones aplicables;
-
-II. Integrar los programas anuales de la Secretaría en materia de recursos materiales y servicios generales; de uso, conservación, mantenimiento y aprovechamiento de inmuebles; de administración y operación del Deportivo; de mantenimiento preventivo y correctivo de mobiliario y equipo; de adquisiciones, arrendamientos y servicios; de obras públicas y de servicios relacionados con las mismas; de disposición final y baja de bienes muebles; de aseguramiento integral; de asignación, servicio y mantenimiento de parque vehicular; de servicios generales y el de protección civil, así como coordinar y supervisar su ejecución, evaluación, seguimiento y actualización periódica, de conformidad con las disposiciones aplicables;
-
-III. Supervisar los procedimientos de contratación para la adquisición de bienes muebles, el arrendamiento de bienes muebles e inmuebles, la prestación de servicios de cualquier naturaleza y la realización de obras públicas y servicios relacionados con las mismas, así como los relacionados con los servicios de impresión y adquisición de bienes para los procesos productivos de los impresos señalados en la fracción I del artículo 42 N de este Reglamento y suscribir los convenios, contratos y demás instrumentos jurídicos que se deriven de dichos procedimientos, salvo los señalados en las (sic) fracción III del artículo 44 del presente ordenamiento y, en su caso, modificar, suspender, rescindir y hacer efectiva la terminación anticipada con proveedores de bienes, contratistas y prestadores de servicios, en los términos de las disposiciones aplicables.
-
-Para realizar las acciones señaladas en el párrafo anterior, respecto de la adquisición de bienes y servicios en materia de tecnologías de información y comunicaciones, se efectuarán previo dictamen de la Dirección General de Tecnologías y Seguridad de la Información;
-
-IV. Conducir la administración de los bienes, arrendamientos y servicios y programar el suministro de bienes que requieran las unidades administrativas de la Secretaría, así como la prestación de los servicios generales contratados por esta, con excepción de los equipos e insumos definidos en materia de tecnologías de información y comunicaciones;
-
-V. Realizar los trámites para la regularización jurídica y administrativa de los bienes inmuebles que tenga asignados la Secretaría, así como para el registro, control y actualización del padrón inmobiliario, de conformidad con las disposiciones aplicables;
-
-VI. Realizar, en materia de bienes muebles a cargo de la Secretaría, de conformidad con las disposiciones aplicables, las siguientes actividades:
-
-a) Coordinar la administración del Almacén Central;
-
-b) Coordinar el registro y control de los inventarios;
-
-c) Proponer para aprobación superior la desincorporación del régimen del dominio público, y
-
-d) Ejercer los actos de administración, transferencia y enajenación procedentes;
-
-VII. Conducir la administración del parque vehicular terrestre, aéreo y marítimo, en su caso, de la Secretaría, de conformidad con las disposiciones y políticas aplicables;
-
-VIII. Contratar los seguros de los bienes patrimoniales de la Secretaría, para lo cual podrá solicitar la opinión de la Unidad de Seguros, Pensiones y Seguridad Social;
-
-IX. Participar en los comités de Adquisiciones, Arrendamientos y Servicios, de Bienes Muebles, y de Obras Públicas y Servicios Relacionados con las Mismas de la Secretaría, así como, en su caso, en las comisiones mixtas de abastecimiento de la Administración Pública Federal, de conformidad con las disposiciones aplicables;
-
-X. Planear y supervisar la ejecución de obras y servicios relacionados con las mismas de los inmuebles, y conservación de los bienes muebles, así como adecuar, reasignar, optimizar, definir y determinar los espacios, accesos y mobiliario que soliciten las unidades administrativas de la Secretaría, de conformidad con las disposiciones aplicables;
-
-XI. Coordinar la formulación del anteproyecto de presupuesto de obra pública anual coordinado que le corresponda conforme a las disposiciones aplicables;
-
-XII. Conducir los servicios de seguridad y vigilancia de los inmuebles que tenga asignados la Secretaría, y controlar el acceso de personas y bienes a estos, así como coordinar al personal de seguridad que preste los servicios de protección a las personas servidoras públicas de la Secretaría, de conformidad con las disposiciones aplicables;
-
-XIII. Conducir las acciones que correspondan para garantizar el apoyo administrativo en materia de archivos, así como la organización de los archivos de trámite, concentración e histórico de las unidades administrativas de la Secretaría, en términos de la Ley General de Archivos y las disposiciones aplicables;
-
-XIV. Resolver los asuntos que los ordenamientos aplicables que rigen las actividades de administración de recursos materiales y servicios, así como de obras públicas y servicios relacionadas con las mismas, le atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables de la persona titular de la Secretaría, y
-
-XV. Atender los asuntos que le encomiende la persona titular de la Unidad de Administración y Finanzas.
-
-Artículo 42 J.- La Coordinación de Adquisiciones y Contratación de Servicios tiene las atribuciones siguientes:
-
-I. Someter a consideración superior las políticas, bases y lineamientos, así como aquellas directrices en materia de adquisición de bienes, contratación de servicios y arrendamiento de bienes muebles, de conformidad con las disposiciones aplicables;
-
-II. Conducir los procedimientos de contratación para la adquisición de bienes muebles, el arrendamiento de bienes muebles e inmuebles, la prestación de servicios de cualquier naturaleza y suscribir los convenios, contratos y demás instrumentos jurídicos que se deriven de dichos procedimientos, así como los relacionados con los servicios de impresión y adquisición de bienes para los procesos productivos de los impresos señalados en la fracción I del artículo 42 N de este Reglamento, salvo los señalados en la fracción III del artículo 44 de este Reglamento y, en su caso, modificar, suspender, rescindir y hacer efectiva la terminación anticipada con proveedores de bienes, y prestadores de servicios, en los términos de las disposiciones aplicables.
-
-Para realizar las acciones señaladas en el párrafo anterior, respecto de la adquisición de bienes y servicios en materia de tecnologías de información y comunicaciones, se efectuarán previo dictamen de la Dirección General de Tecnologías y Seguridad de la Información;
-
-III. Participar en los comités de Adquisiciones, Arrendamientos y Servicios y de Bienes Muebles, de la Secretaría, así como, en su caso, en las comisiones mixtas de abastecimiento de la Administración Pública Federal, de conformidad con las disposiciones aplicables;
-
-IV. Resolver los asuntos que los ordenamientos aplicables que rigen las actividades de contratación de bienes muebles e inmuebles, arrendamientos y servicios le atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables de la persona titular de la Secretaría, y
-
-V. Atender los asuntos que le encomiende la persona titular de la Dirección General de Recursos Materiales, Obra Pública y Servicios Generales.
-
-Artículo 42 K.- La Coordinación de Planeación, Operación y Servicios tiene las atribuciones siguientes:
-
-I. Participar en la elaboración de las políticas, lineamientos y procedimientos en materia de adquisiciones, arrendamientos y regularización inmobiliaria, así como lo correspondiente al control de almacenes, inventarios, y enajenación de bienes;
-
-II. Participar y supervisar la adquisición de bienes inmuebles y la contratación de arrendamientos de los mismos, de conformidad con la normatividad aplicable;
-
-III. Implementar las acciones de coordinación en materia de archivos con las unidades administrativas de la Secretaría;
-
-IV. Conducir el registro y actualización de inventarios, aseguramientos, baja y destino final de los bienes, conforme a la normatividad aplicable;
-
-V. Coordinar la ejecución de los procedimientos para el control de almacenes y suministros de los bienes muebles y materiales de consumo generalizado que adquiere la Secretaría;
-
-VI. Conducir la implementación de mecanismos, soluciones y tecnología que permita monitorear la prestación de servicios;
-
-VII. Coordinar los servicios de seguridad y vigilancia que se proporcionan en los diversos inmuebles para salvaguardar los bienes, así como la implementación del programa del sistema de protección civil en la Secretaría, y
-
-VIII. Atender los asuntos que le encomiende la persona titular de la Dirección General de Recursos Materiales, Obra Pública y Servicios Generales.
-
-Artículo 42 L.- La Coordinación de Obras y Control Inmobiliario tiene las atribuciones siguientes:
-
-I. Someter a consideración superior los procedimientos en materia de obra pública, mantenimiento de inmuebles y servicios relacionados con las mismas, así como la administración del presupuesto y control inmobiliario, de conformidad con las disposiciones aplicables;
-
-II. Conducir los procedimientos de adjudicación, contratación, ejecución y supervisión del presupuesto y control inmobiliario, así como de los procedimientos en materia de obra pública y servicios relacionados con las mismas;
-
-III. Implementar las acciones relativas al registro, control y regulación jurídico-administrativa de los inmuebles a cargo de la Secretaría;
-
-IV. Conducir la conformación de la estructura programática-presupuestal, así como la integración de la cuenta de la hacienda pública y de los informes de los resultados autorizados a la Dirección General de Recursos Materiales, Obra Pública y Servicios Generales;
-
-V. Conducir ante las instancias federales y locales la regularización de los inmuebles para uso y aprovechamiento de la Secretaría;
-
-VI. Apoyar la administración del presupuesto coordinado y descentralizado, autorizado para la Dirección General, así como supervisar la exención de pago de impuesto predial y de valores catastrales de los inmuebles federales ocupados por la Secretaría, y
-
-VII. Atender los asuntos que le encomiende la persona titular de la Dirección General de Recursos Materiales, Obra Pública y Servicios Generales.
-
-Artículo 42 M.- La Dirección General de Talleres de Impresión de Estampillas y Valores tiene las atribuciones siguientes:
-
-I. Producir y suministrar formas numeradas o valoradas, marbetes, precintos, signos distintivos de control fiscal, estampillas postales y otros impresos con características de seguridad, así como publicaciones y materiales impresos que requieran las dependencias y entidades de la Administración Pública Federal, las unidades administrativas y órganos administrativos desconcentrados de la Secretaría;
-
-II. Emitir la documentación comprobatoria por la prestación de servicios de impresión y demás relacionados, así como gestionar cuando corresponda la facturación y cobranza de los mismos;
-
-III. Brindar asesoría a las dependencias y entidades de la Administración Pública Federal, a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría que así lo requieran, en relación con materiales impresos a que se refiere la fracción I de este artículo;
-
-IV. Suscribir convenios, contratos, acuerdos, bases de colaboración y demás instrumentos jurídicos que tengan por objeto los términos y condiciones para prestar los servicios de impresión y demás relacionados, que no estén encomendados expresamente a otras unidades administrativas de la Secretaría;
-
-V. Designar perito para que emita dictamen sobre la autenticidad de cualquiera de los materiales impresos a que se refiere la fracción I de este artículo, cuando su producción se atribuya a la Dirección General de Talleres de Impresión de Estampillas y Valores;
-
-VI. Administrar la recepción, guarda, custodia y suministro de insumos e impresos que deriven de los procesos productivos;
-
-VII. Coordinar la formulación del anteproyecto de presupuesto requerido para el desarrollo de las actividades previstas en este artículo;
-
-VIII. Instrumentar procesos, programas y directrices para la administración y control de la producción de los impresos especificados en la fracción I de este artículo, así como para las medidas de seguridad en el uso de la maquinaria en los procesos productivos, y
-
-IX. Atender los asuntos que le encomiende la persona titular de la Unidad de Administración y Finanzas.
-
-Artículo 42 N.- La Coordinación de Producción y Mantenimiento tiene las atribuciones siguientes:
-
-I. Asesorar en materia de seguridad en impresos valorados y/o numerados a las dependencias y entidades de la Administración Pública Federal que lo requieran, en cuanto a los aspectos técnicos, de seguridad o diseño de los productos solicitados, a fin de evitar posibles falsificaciones, apegándose a la normatividad establecida;
-
-II. Emitir dictámenes sobre la autenticidad de los productos impresos en el taller de impresión de estampillas y valores que, ante la probable duda de su identificación, le presenten las dependencias y entidades de la Administración Pública Federal;
-
-III. Planear programas de producción de impresos con características de seguridad, tanto valorados y/o numerados, no valorados, así como de todos aquellos impresos solicitados por las dependencias y entidades de la Administración Pública Federal, evaluando los resultados obtenidos;
-
-IV. Vigilar que el proceso de producción de impresos, cumpla con las normas y políticas establecidas en la materia;
-
-V. Proponer la implementación de estrategias y mecanismos técnicos para la planeación, programación y control de los recursos e insumos utilizados en la producción solicitada por las dependencias y entidades de la Administración Pública Federal que lo requieran;
-
-VI. Establecer estrategias para el mantenimiento preventivo y correctivo de las instalaciones, maquinaria y equipo industrial;
-
-VII. Implementar mecanismos sobre el desarrollo de los programas, elaboración de reportes e informes de gestión, en materia de producción y mantenimiento;
-
-VIII. Dirigir los procesos de producción, mediante los controles de trabajo establecidos;
-
-IX. Vigilar la calidad de los insumos utilizados en los productos solicitados por las instancias gubernamentales o privadas;
-
-X. Coordinar la destrucción de los excedentes y mermas de producción, y
-
-XI. Atender los asuntos que le encomiende la persona titular de la Dirección General de Talleres de Impresión de Estampillas y Valores.
-
-Artículo 42 O.- La Coordinación de Apoyo Técnico y Operativo tiene las atribuciones siguientes:
-
-I. Dirigir y promover los programas de comercialización y adquisición de insumos, con elementos y sistemas de seguridad de vanguardia, garantizando el cumplimiento y requerimientos de las dependencias y entidades de la Administración Pública Federal;
-
-II. Planear el desarrollo de los programas de aseguramiento de la calidad de los servicios que proporciona la Dirección General;
-
-III. Promover el desarrollo de estudios y procesos de mejora continua, orientados a la optimización de procesos técnicos y administrativos;
-
-IV. Planear y dirigir el desarrollo de los programas de promoción y comercialización en apoyo a las funciones sustantivas de la Dirección General;
-
-V. Coordinar la atención y servicio al cliente conforme a los programas establecidos;
-
-VI. Dirigir y coordinar la elaboración del programa anual de adquisiciones de maquinaria y equipo, así como gestionar la contratación de servicios;
-
-VII. Establecer políticas y lineamientos para racionalizar la administración de los recursos, conforme a la normatividad aplicable;
-
-VIII. Coordinar la elaboración de la documentación comprobatoria por la prestación de servicios de impresión y demás relacionados, así como gestionar cuando corresponda la facturación y cobranza de los mismos;
-
-IX. Formular para consideración de la persona titular de la Dirección General de Talleres de Impresión de Estampillas y Valores el anteproyecto de presupuesto requerido para el desarrollo de las actividades previstas en este artículo, y
-
-X. Atender los asuntos que le encomiende la persona titular de la Dirección General de Talleres de Impresión de Estampillas y Valores.
-
-Artículo 42 P.- La Dirección General de Tecnologías y Seguridad de la Información tiene las atribuciones siguientes:
-
-I. Someter a consideración superior y, en su caso, instrumentar la planeación, estrategias y soluciones institucionales en materia de tecnologías de información y comunicaciones y seguridad de la información, para sistematizar y optimizar las funciones y procesos de las unidades administrativas de la Secretaría;
-
-II. Definir y administrar la arquitectura, plataforma y herramientas en materia de tecnologías de información y comunicaciones y de seguridad de la información de las unidades administrativas de la Secretaría, así como encomendar dichos servicios a terceros;
-
-III. Coordinar la elaboración y ejecución anual del Plan Estratégico de Tecnologías de Información y Comunicaciones, y de Seguridad de la Información, de conformidad con los objetivos institucionales y operativos de la Secretaría;
-
-IV. Coordinar las acciones para la aplicación de los instrumentos normativos y técnicos que contengan las reglas, lineamientos, acciones, políticas, procesos y procedimientos en materia de tecnologías de información y comunicaciones, y de seguridad de la información en la Secretaría;
-
-V. Proveer y, en su caso, autorizar la incorporación de soluciones en materia de tecnologías de información y comunicaciones, y de seguridad de la información que requieran las unidades administrativas de la Secretaría;
-
-VI. Formular el anteproyecto de presupuesto coordinado en materia de tecnologías de información y comunicaciones, y de seguridad de la información y supervisar su ejercicio, conforme a las disposiciones aplicables;
-
-VII. Dictaminar la procedencia técnica y administrativa de los requerimientos de bienes y servicios en materia de tecnologías de información y comunicaciones, de seguridad de la información y de sistematización de procesos e información por parte de las unidades administrativas de la Secretaría, previo a que la Dirección General de Recursos Materiales, Obra Pública y Servicios Generales suscriba los convenios, contratos, bases de colaboración, acuerdos y demás instrumentos jurídicos;
-
-VIII. Definir con las unidades administrativas de la Secretaría, las facultades y el perfil funcional de los usuarios de los bienes y servicios tecnológicos, así como el acceso y uso de la información;
-
-IX. Coordinar la automatización y optimización de funciones y procesos que aplique la Secretaría;
-
-X. Dirigir la automatización, integración y actualización de los almacenes de procesos y de información de las unidades administrativas de la Secretaría;
-
-XI. Diseñar, implementar y mantener los servicios y herramientas de acceso para el uso de la información de la Secretaría;
-
-XII. Establecer, promover y vigilar los estándares, mecanismos, y controles que permitan la administración de la calidad y seguridad de la información en la Secretaría;
-
-XIII. Promover en las unidades administrativas de la Secretaría una cultura de calidad, seguridad y protección de la información;
-
-XIV. Suscribir, en el ámbito de su competencia, los convenios, contratos, bases de colaboración, acuerdos y demás instrumentos jurídicos en materia de tecnologías de información y comunicaciones, y de seguridad de la información, que no tengan por objeto generar obligaciones de pago;
-
-XV. Promover la mejora continua e innovación de la infraestructura y los servicios en materia de tecnologías de información y comunicaciones, y de seguridad de la información;
-
-XVI. Evaluar y, en su caso, proponer adecuaciones a los planes y procedimientos de continuidad de la operación e integridad de la información de los procesos críticos de las unidades administrativas de la Secretaría para casos de contingencia o desastre, en el ámbito de sus atribuciones;
-
-XVII. Instrumentar planes y procedimientos que permitan la continuidad de los servicios críticos en materia de tecnologías de información y comunicaciones a su cargo, y de seguridad de la información para casos de contingencia o desastre;
-
-XVIII. Coordinar, con las unidades administrativas competentes de la Secretaría, los planes de capacitación del personal de dicha dependencia en materia de tecnologías de información y comunicaciones, y de seguridad de la información;
-
-XIX. Brindar capacitación, asesoría y soporte técnico en materia de tecnologías de información y comunicaciones, y de seguridad de la información a las unidades administrativas de la Secretaría y, en su caso, a usuarios externos de los bienes y servicios tecnológicos de la Secretaría, de conformidad con las disposiciones aplicables;
-
-XX. Coordinar la implementación de la política digital nacional, y del desarrollo de sistemas y seguridad de la información en las unidades administrativas de la Secretaría;
-
-XXI. Establecer un modelo de gobierno de tecnologías de la información y comunicaciones, redes y seguridad de la información acorde con las políticas digitales establecidas por la Coordinación de Estrategia Digital Nacional, de conformidad con las disposiciones aplicables;
-
-XXII. Armonizar las políticas nacionales con las mejores prácticas internacionales en materia de regulación de redes, nombres de dominio, telecomunicaciones, privacidad y protección de datos;
-
-XXIII. Definir la arquitectura, metodologías, plataformas y herramientas de los sistemas de la Secretaría;
-
-XXIV. Coordinar la incorporación de soluciones relacionadas con los sistemas de la Secretaría, que realicen las dependencias y entidades ejecutoras de gasto de la Administración Pública Federal, para garantizar su interoperabilidad;
-
-XXV. Coordinar la automatización y optimización de las funciones y procesos relativos a la operación de los sistemas informáticos de la Secretaría, así como aquellos de las dependencias y entidades de la Administración Pública Federal relativos al gasto público;
-
-XXVI. Gestionar los procesos de transferencia del conocimiento y propiedad intelectual de las aplicaciones desarrolladas;
-
-XXVII. Coordinar, con la Coordinación de la Infraestructura Tecnológica de la Unidad de Inteligencia Financiera, las acciones relativas a la política digital de la Secretaría, la plataforma de servicios tecnológicos y de redes de comunicaciones, administración de los bienes y servicios tecnológicos, seguridad de la información, cumplimiento de indicadores, operaciones y continuidad, y
-
-XXVIII. Atender los asuntos que le encomiende la persona titular de la Unidad de Administración y Finanzas.
-
-Artículo 42 Q.- La Coordinación de Desarrollo y Mantenimiento de Sistemas tiene las atribuciones siguientes:
-
-I. Atender los requerimientos tecnológicos de las áreas sustantivas de la Secretaría y desarrollar los sistemas necesarios para satisfacerlos;
-
-II. Vigilar el cumplimiento de indicadores de calidad para el desarrollo de los sistemas de la Secretaría;
-
-III. Desarrollar la documentación de análisis, diseño y codificación de los sistemas, alineados a las políticas en materia tecnológica de la Administración Pública Federal;
-
-IV. Garantizar los niveles de servicio en las aplicaciones de la Secretaría que se encuentran en ambientes de producción;
-
-V. Capacitar periódicamente a las áreas usuarias en la funcionalidad de los sistemas desarrollados y liberados;
-
-VI. Someter los sistemas desarrollados a las pruebas de calidad necesarias a fin de garantizar tiempos de respuesta, bloqueo de intrusiones y facilidad de uso;
-
-VII. Controlar el universo de versiones en los ambientes de desarrollo, pruebas y producción, y
-
-VIII. Atender los asuntos que le encomiende la persona titular de la Dirección General de Tecnologías y Seguridad de la Información.
-
-Artículo 42 R.- La Coordinación de Seguridad de la Información tiene las atribuciones siguientes:
-
-I. Identificar el riesgo y vulnerabilidades de los sistemas, activos, datos y capacidades de la Secretaría;
-
-II. Coordinar el monitoreo permanente de los bienes y servicios digitales, así como emitir reportes que permitan analizar los niveles de seguridad y vulnerabilidades;
-
-III. Diseñar salvaguardas para limitar el impacto de los eventos potenciales en servicios críticos e infraestructura;
-
-IV. Diseñar planes de respuesta a eventuales incidentes de ciberseguridad;
-
-V. Planificar los procesos de recuperación de los servicios y capacidades comprometidos ante un eventual incidente de seguridad;
-
-VI. Acompañar a las áreas de desarrollo durante la codificación, con las mejores prácticas en ciberseguridad, y
-
-VII. Atender los asuntos que le encomiende la persona titular de la Dirección General de Tecnologías y Seguridad de la Información.
+Artículo 42 R.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
 ###### Artículo 43.
 
-La Unidad de Igualdad de Género tiene las atribuciones siguientes:
-
-I. Promover la institucionalización de la perspectiva y transversalidad de género en la cultura organizacional y quehacer institucional de la Secretaría;
-
-II. Planear, programar y difundir acciones que incorporen la perspectiva y transversalidad de género de conformidad con el presupuesto anual asignado a la Secretaría para tal efecto;
-
-III. Impulsar y difundir el conocimiento de las obligaciones y derechos contraídos por los Estados Unidos Mexicanos, en tratados y convenciones internacionales de derechos humanos e igualdad de género, en el ámbito de su competencia;
-
-IV. Proponer acuerdos a las unidades administrativas de la Secretaría para ejecutar las políticas, acciones y programas de su competencia establecidos en el Programa Nacional para la Igualdad entre Mujeres y Hombres;
-
-V. Asesorar, en materia de igualdad de género, a las unidades administrativas de la Secretaría, incluyendo a sus órganos administrativos desconcentrados, así como a las entidades del sector coordinado, y coadyuvar con estas, en la formulación de sus planes de acción para la igualdad de género;
-
-VI. Instrumentar, en coordinación con la Dirección General de Recursos Humanos y, en su caso, con las unidades homólogas de los órganos administrativos desconcentrados y entidades coordinadas del sector, programas para la formación, capacitación y certificación del personal en materia de igualdad de género;
-
-VII. Fungir como enlace de la Secretaría ante el Instituto Nacional de las Mujeres y otras dependencias y entidades de la Administración Pública Federal para coordinar acciones en materia de igualdad de género;
-
-VIII. Participar como representante de la Secretaría en los órganos colegiados en los que deba intervenir, en materia de igualdad de género;
-
-IX. Elaborar, con la participación de las unidades administrativas de la Secretaría y proponer, para aprobación superior, el Programa de Acción para la Igualdad de Género de la Secretaría;
-
-X. Coordinar con el Instituto Nacional de las Mujeres las acciones que deba realizar la Secretaría en materia de política pública con perspectiva de género, de conformidad con lo establecido en las disposiciones jurídicas aplicables y en cumplimiento al Programa Nacional para la Igualdad entre Mujeres y Hombres;
-
-XI. Elaborar estudios e investigaciones para instrumentar en la Secretaría, sus órganos administrativos desconcentrados y las entidades coordinadas del sector, un sistema de información, registro, seguimiento y evaluación de la situación de mujeres y hombres en materia de igualdad de género;
-
-XII. Elaborar y difundir los informes de evaluación periódica sobre los resultados alcanzados en el cumplimiento de los objetivos, estrategias y políticas ejecutadas por la Secretaría en cumplimiento del Programa Nacional para la Igualdad entre Mujeres y Hombres;
-
-XIII. Acordar con la persona titular de la Oficialía Mayor los asuntos de su competencia, y
-
-XIV. Las demás facultades que en el ámbito de sus respectivas competencias le atribuyan las disposiciones jurídicas aplicables o le confieran las personas titulares de la Secretaría y de la Oficialía Mayor.
+(DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
 ###### Artículo 44.
 
-La Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural tiene las atribuciones siguientes:
+(DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-I. Someter a aprobación el protocolo de intervención en materia de conservación, seguridad, coordinación y planeación museológica, museográfica y bibliohemerográfica, así como las estrategias e iniciativas de gestión de acervo patrimonial, de seguridad, promoción, difusión cultural, vinculación interinstitucional, educación, comunicación e investigación de los bienes patrimoniales muebles, inmuebles e inmuebles por destino y colecciones bajo la responsabilidad de la Secretaría, con excepción de aquellos espacios de Palacio Nacional competencia de la Unidad del Gobernador de Palacio Nacional;
-
-II. Formular y ejercer el presupuesto requerido para el desarrollo de las actividades previstas en este artículo, en términos de las disposiciones aplicables;
-
-III. Suscribir los convenios, contratos, acuerdos, bases de colaboración y demás instrumentos jurídicos necesarios para el cumplimiento de sus atribuciones, en términos de las disposiciones jurídicas aplicables;
-
-IV. Administrar, catalogar, manipular, preservar, custodiar, controlar, conservar y difundir las colecciones y los bienes muebles patrimonio cultural de la nación, que tenga bajo su responsabilidad la Secretaría, así como implementar los protocolos para la investigación, integración y fortalecimiento de las colecciones;
-
-V. Someter a la consideración de la persona titular de la Oficialía Mayor, los mecanismos para el acceso, registro y control de los visitantes a Palacio Nacional y a los inmuebles a su cargo, en lo relativo a las visitas a los inmuebles y a las actividades culturales que se realicen en los mismos;
-
-VI. Coordinar, consolidar, integrar y elaborar las estadísticas institucionales con los datos que las áreas competentes generen, respecto de la afluencia de visitas a los inmuebles y a las actividades culturales realizadas al interior de Palacio Nacional y demás inmuebles a su cargo;
-
-VII. Proteger, conservar y difundir las áreas que se encuentren en Palacio Nacional y en los inmuebles a cargo de la Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural, así como los objetos y bienes inmuebles por destino contenidos en ellos, y dirigir el desarrollo del proyecto de la señalética y señalización externa e interna de los espacios bajo su resguardo;
-
-VIII. Ejercer las atribuciones que le confiera el Decreto por el que se expide el Reglamento para el Uso y Conservación de las Áreas, Objetos y Colecciones de Palacio Nacional, sin perjuicio de las que correspondan a la Unidad del Gobernador de Palacio Nacional;
-
-IX. Presidir la Comisión Interinstitucional para el uso y conservación de las áreas, objetos y colecciones de Palacio Nacional;
-
-X. Someter a consideración de la persona titular de la Oficialía Mayor y las unidades competentes, el plan de trabajo que se presentará ante la Comisión Interinstitucional para el Uso y Conservación de las Áreas y Objetos de Palacio Nacional, en coordinación con la Unidad del Gobernador de Palacio Nacional, en sus respectivos ámbitos de competencia;
-
-XI. Coordinarse con las dependencias e instituciones alojadas en Palacio Nacional, con el personal de los inmuebles bajo resguardo de la Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural y con las áreas encargadas de las labores de construcción, remodelación y acondicionamiento de los inmuebles mencionados para orientar los proyectos inherentes a la operatividad de los usuarios y tramitar la validación de estos ante el Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura; así como registrar los trabajos de protección, conservación, seguridad, restauración y mantenimiento de los inmuebles y espacios referidos, con excepción de aquellos competencia de la Unidad del Gobernador de Palacio Nacional;
-
-XII. Autorizar y coordinar el traslado de los bienes y colecciones de Palacio Nacional e inmuebles a su cargo, a lugares distintos de los de su ubicación, en coordinación con la Unidad del Gobernador de Palacio Nacional, cuando así proceda.
-
-Tratándose de bienes que tengan carácter de monumentos arqueológicos, históricos o artísticos, se requerirá también la autorización del Instituto Nacional de Antropología e Historia o del Instituto Nacional de Bellas Artes y Literatura, según corresponda;
-
-XIII. Promover la investigación arqueológica, histórica y artística de las áreas que conforman el Palacio Nacional e inmuebles a cargo, así como de los bienes patrimoniales muebles, inmuebles por destino y colecciones que dependen de la Secretaría;
-
-XIV. Autorizar la publicación y difusión del producto de las investigaciones y estudios arqueológicos, históricos, arquitectónicos, artísticos, de conservación, de restauración, y educativos, realizados en torno a Palacio Nacional e inmuebles a cargo de la Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural;
-
-XV. Validar los guiones museológicos y museográficos, así como planear, ejecutar y darle seguimiento de manera integral al diseño y montaje de exposiciones en bibliotecas, hemerotecas, fondos y recintos históricos, museos y áreas de exhibición;
-
-XVI. Planear, diseñar, coordinar, dirigir, promover, ejecutar y dar seguimiento a los proyectos, estrategias y actividades de diseño, museografía y museología en los recintos históricos, museos y áreas de exhibición de la Secretaría, así como implementar y desarrollar aplicaciones de identidad visual cultural en materiales institucionales de difusión;
-
-XVII. Coordinar, con las instancias competentes, las acciones necesarias para la conservación preventiva, mantenimiento, restauración y seguridad general de los espacios acervos, materiales y mobiliarios que se encuentren al interior de bibliotecas, hemerotecas, fondos y recintos históricos, museos, áreas de exhibición y áreas a cargo de la Secretaría;
-
-XVIII. Coordinar las actividades relativas a la conservación, resguardo, control, registro, digitalización y difusión de los fondos patrimoniales bibliohemerográficos de la Secretaría, de conformidad con las disposiciones aplicables;
-
-XIX. Dirigir y coordinar el registro de consulta pública de las obras de arte que tenga bajo su responsabilidad la Secretaría, así como la edición y publicación del catálogo de las colecciones a su resguardo;
-
-XX. Someter a consideración de la persona titular de la Oficialía Mayor y de las unidades competentes, la programación cultural bajo su responsabilidad;
-
-XXI. Coordinar la planeación, ejecución y desarrollo de los proyectos que deriven de la programación cultural aprobada;
-
-XXII. Coordinar, promover, difundir y supervisar las actividades académicas y de investigación para fomentar la cultura y apreciación del patrimonio cultural, responsabilidad de la Secretaría;
-
-XXIII. Dirigir la planeación e implementación de los protocolos de mantenimiento y organización de los talleres de trabajo internos, bibliotecas, hemerotecas y fondos;
-
-XXIV. Promover en conjunto con las instituciones y organismos culturales, educativos y científicos del país y del extranjero programas de colaboración, enlace cultural y académico e intercambio profesional para la investigación y promoción cultural;
-
-XXV. Analizar, evaluar y dar seguimiento a los estándares de satisfacción del público en torno a las visitas a los inmuebles y a las actividades culturales, coordinadas por la Dirección General;
-
-XXVI. Establecer y promover estrategias para el fomento de las colecciones de arte que dependen de la Secretaría, tanto por parte del público en general, como de artistas e instituciones culturales;
-
-XXVII. Resguardar, en coordinación con las instancias competentes en materia de seguridad pública, las instalaciones del Palacio Nacional e inmuebles a su cargo, así como los bienes muebles e inmuebles por destino y colecciones, de la Secretaría que albergan; todo ello, conforme los protocolos establecidos;
-
-XXVIII. Participar, cuando así corresponda, en los procesos de reivindicación que instruyan las autoridades competentes, y
-
-XXIX. Las demás que le encomiende la persona titular de la Unidad de Administración y Finanzas, así como las que le confieran otras disposiciones jurídicas.
-
-Artículo 44 A.- La Coordinación de Patrimonio Cultural tiene las atribuciones siguientes:
-
-I. Establecer, integrar y coordinar las estrategias de promoción, difusión cultural, educación patrimonial, comunicación e investigación de los bienes muebles e inmuebles bajo la responsabilidad de la Secretaría;
-
-II. Suscribir los contratos, convenios y demás documentos relativos al ejercicio de sus funciones;
-
-III. Elaborar, promover, analizar, investigar y difundir actividades educativas, de vinculación cultural y académica, comunicación e investigación, a fin de generar una sensibilización en torno al patrimonio cultural de la Secretaría;
-
-IV. Coadyuvar con las áreas competentes en la planeación y desarrollo de los proyectos que conforman la programación cultural;
-
-V. Integrar, dirigir, implementar y supervisar los protocolos integrales para la inclusión, seguridad y accesibilidad en los espacios resguardados por la Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural, en coordinación con las autoridades competentes;
-
-VI. Implementar condiciones de inclusión necesarias para la atención al público en general en las actividades que se programen en los espacios patrimoniales;
-
-VII. Proponer estrategias y contenidos para la apreciación social de los bienes muebles e inmuebles culturales patrimoniales a cargo de la Secretaría;
-
-VIII. Formular estrategias y directrices para la generación de contenidos de difusión cultural;
-
-IX. Crear, coordinar y dirigir los canales de comunicación que permitan hacer llegar a la población la programación cultural;
-
-X. Validar y coordinar productos editoriales electrónicos e impresos en coparticipación con las áreas competentes;
-
-XI. Fomentar la participación de las organizaciones y asociaciones en la programación de actividades culturales, artísticas y educativas;
-
-XII. Dirigir la planeación, diseño, desarrollo, ejecución y seguimiento integral de los proyectos, estrategias y actividades de diseño y conservación en las bibliotecas, hemerotecas, fondos, museos, áreas de exhibición y recintos de la Secretaría;
-
-XIII. Implementar y ejecutar las políticas de administración, mantenimiento y conservación de los inmuebles destinados a bibliotecas, hemerotecas, museos, áreas de exhibición y fondos bajo el resguardo y operación de la Secretaría;
-
-XIV. Validar y verificar el cumplimiento de los protocolos, nacionales e internacionales, para el funcionamiento, uso y custodia, de bibliotecas, hemerotecas, fondos históricos, museos y áreas de exhibición de la Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural;
-
-XV. Coordinar la ejecución de los protocolos para la investigación, integración y fortalecimiento de los archivos bibliohemerográficos y de las colecciones de la Secretaría;
-
-XVI. Coordinar y promover la formulación y ejecución de estrategias y programas para administrar, catalogar, conservar, digitalizar, custodiar, manipular, controlar, preservar y difundir las colecciones de arte y los fondos patrimoniales bibliohemerográficos;
-
-XVII. Coordinar la planeación, diseño, desarrollo, ejecución y seguimiento integral de los proyectos, estrategias y actividades de diseño, museografía y museología en los recintos históricos, museos y áreas de exhibición de la Secretaría;
-
-XVIII. Coordinar la ejecución de los guiones museológicos y museográficos, así como planear, ejecutar y darle seguimiento de manera integral al diseño y montaje de exposiciones temporales y permanentes en recintos históricos, museos y áreas de exhibición;
-
-XIX. Coordinar la implementación de los protocolos integrales de conceptualización, diseño, montaje, instalación y desmontaje de las exposiciones permanentes y temporales en colaboración con las instancias involucradas;
-
-XX. Supervisar, monitorear, registrar y coordinar el seguimiento de obras, documentos, objetos y materiales durante su montaje, su exhibición y el desmontaje correspondiente;
-
-XXI. Dirigir el desarrollo de proyectos de exhibición, adaptación y ambientación de áreas que por sus características, necesidades, importancia y potencialidad puedan ser acondicionadas como áreas expositivas;
-
-XXII. Elaborar e implementar acciones de conservación, así como de restauración de las colecciones y de los bienes muebles patrimonio cultural de la nación competencia de la Secretaría;
-
-XXIII. Coordinar la implementación y desarrollo de las aplicaciones de la identidad visual cultural en materiales institucionales, de difusión y de apoyo a las áreas y proyectos de la unidad administrativa, y
-
-XXIV. Las demás que le encomiende la persona titular de la Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural, así como las que le confieran otras disposiciones jurídicas.
+Artículo 44 A.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
 ###### Artículo 45.
 
-La Unidad del Gobernador de Palacio Nacional tiene las atribuciones siguientes:
-
-I. Supervisar las condiciones físicas de las instalaciones en las que la persona titular del Ejecutivo Federal resida y realice sus actividades dentro de Palacio Nacional;
-
-II. Emitir los criterios técnicos necesarios para ejecutar las acciones de mejora que requieran las instalaciones de Palacio Nacional en el ámbito de competencia;
-
-III. Establecer los criterios para dar el seguimiento y, en su caso, ejecutar las instrucciones de la persona titular del Ejecutivo Federal relacionadas con la protección, conservación, restauración y mantenimiento a las instalaciones a que hace referencia la fracción I del presente artículo, en su caso, en coordinación con la Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural;
-
-IV. Proponer a la Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural la elaboración de estudios y propuestas para la asignación de áreas y optimización de espacios en Palacio Nacional, en particular de aquellos espacios en que la persona titular del Ejecutivo Federal resida y lleve a cabo sus actividades dentro de Palacio Nacional;
-
-V. Integrar un plan de trabajo para la supervisión del mantenimiento y conservación de las instalaciones en las que la persona titular del Ejecutivo Federal resida y lleve a cabo sus actividades dentro de Palacio Nacional, en coordinación y auxilio de las instancias competentes;
-
-VI. Dar seguimiento a los proyectos y trabajos autorizados, para la protección, conservación, restauración y mantenimiento a las instalaciones en las que la persona titular del Ejecutivo Federal resida y lleve a cabo sus actividades dentro de Palacio Nacional, en coordinación de las instancias competentes;
-
-VII. Gestionar ante las instancias competentes los insumos necesarios para el cumplimiento de sus atribuciones;
-
-VIII. Suscribir los contratos, convenios, acuerdos, bases de colaboración y demás documentos relativos al ejercicio de sus funciones, en su caso, en colaboración con la Dirección General de la Conservaduría de Palacio Nacional y Patrimonio Cultural;
-
-IX. Coordinarse con las instancias competentes para recibir el apoyo técnico y logístico necesario para el desarrollo de los eventos públicos en los que participe la persona titular del Ejecutivo Federal en las instalaciones de Palacio Nacional;
-
-X. Coordinarse con las instancias competentes, a fin de contar con el apoyo y facilidades de carácter administrativo y material requeridas para el desempeño de sus funciones, y
-
-XI. Las demás que le encomiende la persona titular del Ejecutivo Federal y su superior jerárquico, así como las que le confieran otras disposiciones jurídicas.
+(DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
 ###### Artículo 46.
 
-La Unidad de Normatividad tiene las atribuciones siguientes:
+(DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-I. Proponer iniciativas y normas de carácter general en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, que contraten las dependencias y las entidades de la Administración Pública Federal, así como de aquellas que permitan establecer modelos de innovación o estrategias de contrataciones públicas;
+Artículo 46 A.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-II. Ejercer las atribuciones que confieren a la Secretaría la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, la Ley de Obras Públicas y Servicios Relacionados con las Mismas, así como las demás disposiciones jurídicas aplicables en materia de contrataciones públicas, siempre que no sean competencia de otra unidad administrativa de la Secretaría o de otra dependencia de la Administración Pública Federal;
+Artículo 46 B.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
-III. Interpretar, para efectos administrativos, la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, la Ley de Obras Públicas y Servicios Relacionados con las Mismas, así como las demás disposiciones jurídicas aplicables en materia de contrataciones públicas y que sean competencia de la Secretaría;
-
-IV. Emitir, en el ámbito de sus atribuciones, criterios técnicos, metodologías, guías, instructivos o demás instrumentos análogos que se requieran en materia de Contrataciones Públicas;
-
-V. Asesorar a las unidades administrativas de la Oficialía Mayor, a las dependencias y entidades de la Administración Pública Federal, así como a las entidades federativas y municipios, en lo que respecta a la aplicación de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
-
-VI. Asesorar y asistir jurídicamente a las unidades administrativas competentes de la Secretaría en los procedimientos de contratación consolidados, contratos marco, así como de los instrumentos jurídicos que deriven de los mismos, en materia de contrataciones públicas;
-
-VII. Realizar la interpretación de los contratos marco celebrados por la Oficialía Mayor, para lo cual podrá solicitar la opinión previa de otras unidades administrativas competentes de la Secretaría;
-
-VIII. Coordinar y promover, por sí o en conjunto con la Unidad de Política de Contrataciones Públicas, las acciones de capacitación normativa en materia de contrataciones públicas a las personas servidoras públicas;
-
-IX. Autorizar y conducir la coordinación de las mesas de acompañamiento normativo en los procedimientos de contratación en materia de adquisiciones, arrendamientos y servicios, seguidos ante las dependencias y entidades de la Administración Pública Federal, así como implementar y coordinar las acciones necesarias para proporcionarlas;
-
-X. Asesorar jurídicamente a las unidades administrativas competentes de la Oficialía Mayor en la elaboración, propuesta o emisión de criterios técnicos, metodologías, guías, instructivos o demás instrumentos análogos que se requieran en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas;
-
-XI. Dirigir y coordinar la formulación de los estudios jurídicos necesarios en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas;
-
-XII. Emitir opinión en el ámbito de su competencia, previo a su emisión, a los criterios y procedimientos de carácter técnico que emita la Unidad de Política de Contrataciones Públicas para el uso de los sistemas de comunicación electrónica en las contrataciones públicas;
-
-XIII. Definir y establecer los procedimientos y requisitos para la contratación de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, financiados con fondos provenientes de créditos externos otorgados al Gobierno federal o con su garantía por organismos financieros regionales o multilaterales, así como difundirlos;
-
-XIV. Emitir opinión a la Unidad de Planeación e Investigaciones de Mercado, sobre los criterios que proponga para la aplicación de las reservas, mecanismos de transición u otros supuestos establecidos en los títulos o capítulos de compras de los tratados comerciales suscritos por el Gobierno de los Estados Unidos Mexicanos con otros países;
-
-XV. Representar, en su caso, a la persona titular de la Oficialía Mayor, en las negociaciones de los tratados o convenios internacionales en los que esta participe y que incluyan disposiciones en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas;
-
-XVI. Comunicar a las dependencias y entidades de la Administración Pública Federal, conforme a la información proporcionada por la Secretaría de Economía, la actualización de los umbrales a que se refieren los tratados comerciales con capítulos de compras suscritos por el Gobierno de los Estados Unidos Mexicanos con otros países;
-
-XVII. Coordinar la atención a las solicitudes de autorización para revisar los costos indirectos y el financiamiento originalmente pactado en los contratos de obra pública que realicen las dependencias y entidades de la Administración Pública Federal, derivados de sus modificaciones en monto y plazo, en los casos que prevé la Ley de Obras Públicas y Servicios Relacionados con las Mismas, así como determinar la procedencia de ajustarlos;
-
-XVIII. Coordinar la participación o participar directamente en las acciones que se realicen para la homologación del marco jurídico y de los criterios normativos en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, que permita contar con una política general de contrataciones públicas articulada a nivel nacional;
-
-XIX. Comunicar a la Secretaría de la Función Pública, las conductas posiblemente constitutivas de infracción a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, la Ley de Obras Públicas y Servicios Relacionados con las Mismas y demás disposiciones jurídicas aplicables, de licitantes, proveedores y contratistas, para lo cual deberá anexar la documentación que corresponda;
-
-XX. Proponer proyectos, así como emitir opinión jurídica de iniciativas de leyes, anteproyectos de reglamentos, decretos, acuerdos, circulares, órdenes del Ejecutivo Federal, disposiciones de carácter general, demás normativa y acciones de mejora regulatoria en materia de:
-
-a) Regulación de las unidades de administración y finanzas de las dependencias y sus órganos administrativos desconcentrados y, en su caso, de sus equivalentes en las entidades de la Administración Pública Federal;
-
-b) Custodia, administración, preservación y, en su caso, difusión de las colecciones Acervo Patrimonial y Pago en Especie, así como los bienes muebles de carácter histórico-artístico patrimonio cultural de la Nación, bibliotecas, hemerotecas, recintos históricos, museos y áreas protocolarias que tenga bajo su responsabilidad la Secretaría, y
-
-c) Las demás materias competencia de la Oficialía Mayor que no estén encomendadas a otras instancias o a otras unidades administrativas de la Secretaría;
-
-XXI. Coordinar las labores de asesoría jurídica a las unidades administrativas de la Oficialía Mayor en el ejercicio de sus atribuciones, en las materias de su competencia, conforme a lo señalado en la fracción XX de este artículo, para lo cual podrá establecer criterios o emitir las opiniones jurídicas que correspondan;
-
-XXII. Emitir opinión jurídica de los convenios, contratos, acuerdos y, en general, sobre cualquier instrumento o acto jurídico que deba suscribir o emitir la persona titular de la Oficialía Mayor, en las materias de su competencia, conforme a lo señalado en la fracción XX de este artículo;
-
-XXIII. Realizar estudios, análisis e investigaciones, incluso de derecho comparado, en las materias a que se refiere la fracción XX del presente artículo;
-
-XXIV. Proponer para aprobación superior las disposiciones en los rubros que expresamente le sean atribuidas a la Oficialía Mayor en la normativa aplicable en materia de austeridad;
-
-XXV. Colaborar y auxiliar en la revisión de los términos jurídicos de los documentos que deba suscribir la persona titular de la Oficialía Mayor para la designación y remoción de los titulares de las Unidades de Administración y Finanzas de las dependencias y órganos administrativos desconcentrados de la Administración Pública Federal, así como para la propuesta de designación de los titulares de las unidades equivalentes en las entidades paraestatales;
-
-XXVI. Conducir la realización de estudios, propuestas y análisis, así como opinar jurídicamente, los proyectos normativos en cuya formulación o emisión deba participar la Secretaría, para la instrumentación del modelo organizacional y de operación de las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados y, en su caso, de sus equivalentes en las entidades de la Administración Pública Federal;
-
-XXVII. Auxiliar y asesorar a las Unidades Administrativas de la Oficialía Mayor, en el análisis y, en su caso, opinión respecto de los asuntos que se sometan ante los órganos colegiados en que participen, sin perjuicio de las atribuciones que corresponden a la Procuraduría Fiscal de la Federación y demás unidades administrativas de la Secretaría;
-
-XXVIII. Participar en los procesos de modernización y adecuación del orden normativo que rige el funcionamiento de la Oficialía Mayor;
-
-XXIX. Compilar y sistematizar la normativa emitida por la Oficialía Mayor;
-
-XXX. Emitir opinión respecto de la procedencia de las propuestas para designar a las personas servidoras públicas representantes de la Oficialía Mayor o suplentes de la persona titular de la misma ante los órganos colegiados en los que participe la Oficialía Mayor, en los casos en los que le corresponda a esta realizar la designación;
-
-XXXI. Fungir como ventanilla de la Oficialía Mayor en los asuntos que se relacionen con la Procuraduría Fiscal de la Federación y otras unidades o áreas de asesoría jurídica de la Secretaría, y
-
-XXXII. Las demás que le encomiende la persona titular de la Oficialía Mayor, así como las que le confieran otras disposiciones jurídicas.
-
-Artículo 46 A.- La Dirección General Consultiva de Contrataciones Públicas tiene las atribuciones siguientes:
-
-I. Dirigir la elaboración de los proyectos de iniciativas de modificaciones y de normas de carácter general en materia de adquisiciones, arrendamientos y servicios, y de obras públicas y servicios relacionados con las mismas y ponerlas a consideración de la persona titular de (sic) Unidad de Normatividad;
-
-II. Proponer al titular de la Unidad de Normatividad de la Oficialía Mayor, los criterios e interpretaciones administrativas de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y de las demás disposiciones jurídicas que regulan esas materias y que sean competencia de la Secretaría;
-
-III. Atender las consultas que, respecto a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y a la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y de las demás disposiciones jurídicas que regulan esas materias, formulen las dependencias y entidades de la Administración Pública Federal, así como las entidades federativas y municipios, cuando realicen contrataciones con sujeción a dichas leyes;
-
-IV. Brindar asesoría y acompañamiento jurídico a las unidades administrativas competentes de la Oficialía Mayor, en la determinación de los aspectos jurídicos de los contratos marco, así como de los instrumentos jurídicos que deriven de los mismos, en materia de contrataciones públicas, así como, proponer al titular de la Unidad de Normatividad la interpretación de los mismos, para lo cual podrá solicitar la opinión de otras unidades administrativas de la Secretaría;
-
-V. Coordinar, por sí o de manera conjunta con la Unidad de Política de Contrataciones Públicas, las acciones orientadas a la capacitación normativa en materia de adquisiciones, arrendamientos y servicios, y de obras públicas y servicios relacionados con las mismas;
-
-VI. Dirigir las mesas de acompañamiento normativo en las dependencias y entidades, en los procedimientos de contratación en materia de adquisiciones, arrendamientos y servicios, así como requerir a las dependencias y entidades de la Administración Pública Federal la información necesaria para ello;
-
-VII. Colaborar con las unidades administrativas competentes de la Secretaría en la elaboración, propuesta o emisión de metodologías, guías, instructivos o demás instrumentos análogos en materia de adquisiciones, arrendamientos y servicios, y de obras públicas y servicios relacionados con las mismas, así como dirigir la formulación de los estudios jurídicos necesarios en la materia señalada;
-
-VIII. Elaborar el proyecto de opinión que deba emitir la Unidad de Normatividad, respecto de las propuestas de criterios y procedimientos de carácter técnico que emita la Unidad de Política de Contrataciones Públicas para el uso de los sistemas de comunicación electrónica en las contrataciones públicas;
-
-IX. Someter a la consideración de la persona titular de la Unidad de Normatividad de la Oficialía Mayor, los procedimientos y requisitos para las contrataciones públicas financiadas con fondos provenientes de créditos externos otorgados al Gobierno federal o con su garantía por organismos financieros regionales o multilaterales, así como la opinión sobre los criterios para la aplicación de las reservas, mecanismos de transición u otros supuestos establecidos en los tratados comerciales suscritos por el gobierno de los Estados Unidos Mexicanos con otros países;
-
-X. Representar a la persona titular de la Oficialía Mayor, en las negociaciones de los tratados o convenios internacionales en los que esta participe, y en donde se incluyan disposiciones en materia de adquisiciones, arrendamientos y servicios y obras públicas y servicios relacionados con las mismas, competencia de la Oficialía Mayor;
-
-XI. Realizar las acciones, que permitan dar a conocer a las dependencias y entidades de la Administración Pública Federal, la actualización de los umbrales a que se refieren los tratados comerciales con capítulos de compras suscritos por el gobierno de los Estados Unidos Mexicanos con otros países;
-
-XII. Someter al titular de la Unidad de Normatividad, la procedencia de autorizar a las dependencias y entidades de la Administración Pública Federal, para que estas puedan revisar los costos indirectos y el financiamiento originalmente pactado en los contratos de obra pública que realicen, derivados de sus modificaciones en monto y plazo, en los casos que prevé la Ley de Obras Públicas y Servicios Relacionados con las Mismas, así como la procedencia de ajustarlos;
-
-XIII. Proponer a la persona titular de la Unidad de Normatividad, la participación de dicha Unidad en proyectos para la homologación del marco jurídico y de los criterios normativos en materia de adquisiciones, arrendamientos y servicios, y de obras públicas y servicios relacionados con las mismas, que permitan contar con un sistema de contrataciones públicas articulado a nivel nacional, o bien participar directamente en ellos por instrucciones superiores, y
-
-XIV. Las demás que le encomiende la persona titular de la Unidad de Normatividad, así como las que le confieran otras disposiciones jurídicas.
-
-Artículo 46 B.- La Dirección General de Normatividad y Apoyo Consultivo tiene las atribuciones siguientes:
-
-I. Proponer a la persona titular de la Unidad de Normatividad proyectos, así como la propuesta de opinión jurídica, de iniciativas de leyes, anteproyectos de reglamentos, decretos, acuerdos, circulares, órdenes del Ejecutivo Federal, disposiciones de carácter general, demás normativa y acciones de mejora regulatoria en las siguientes materias, en cuya formulación o emisión deba participar la Secretaría para:
-
-a) Emitir la regulación de las Unidades de Administración y Finanzas de las dependencias, sus órganos administrativos desconcentrados y unidades administrativas equivalentes en las entidades de la Administración Pública Federal, las disposiciones de carácter general que establezcan su modelo organizacional y de operación;
-
-b) Llevar a cabo la custodia, administración, preservación y, en su caso, difusión de las colecciones Acervo Patrimonial y Pago en Especie, así como los bienes muebles de carácter histórico-artístico patrimonio cultural de la Nación, bibliotecas, hemerotecas, recintos históricos, museos y áreas protocolarias que tenga bajo su responsabilidad la Secretaría, y
-
-c) Las demás materias competencia de la Oficialía Mayor que no estén encomendadas a la Procuraduría Fiscal de la Federación o a otras unidades administrativas de la Secretaría y que requieran opinión jurídica de la Unidad de Normatividad;
-
-II. Conducir las labores de asesoría jurídica a las unidades administrativas de la Oficialía Mayor en el ejercicio de sus atribuciones, en las materias de su competencia, conforme a lo señalado en la fracción I de este artículo, para lo cual podrá establecer criterios o emitir las opiniones jurídicas que correspondan;
-
-III. Proponer los términos de la opinión jurídica de los convenios, contratos, acuerdos y, en general, sobre cualquier instrumento o acto jurídico que deba suscribir o emitir la persona titular de la Oficialía Mayor, en las materias de su competencia;
-
-IV. Dirigir la realización de estudios, análisis e investigaciones, incluso de derecho comparado, en las materias de su competencia;
-
-V. Diseñar y proponer para aprobación superior las disposiciones en los rubros que expresamente le sean atribuidas a la Oficialía Mayor en la normativa aplicable en materia de austeridad;
-
-VI. Dirigir la revisión de los términos jurídicos de los documentos que deba suscribir la persona titular de la Oficialía Mayor para la designación y remoción de los titulares de las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados de la Administración Pública Federal, así como para la propuesta de designación de los titulares de las unidades equivalentes en las entidades paraestatales;
-
-VII. Proponer los estudios, proyectos, criterios y análisis jurídicos, así como proponer la opinión jurídica de los proyectos normativos en cuya formulación o emisión deba participar la Secretaría, para establecer e instrumentar el modelo organizacional y de operación de las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados y, en su caso, de sus equivalentes en las entidades de la Administración Pública Federal;
-
-VIII. Auxiliar y asesorar a las unidades administrativas de la Oficialía Mayor, en el análisis y, en su caso, opinión respecto de los asuntos que se sometan ante los órganos colegiados en que participen, sin perjuicio de las atribuciones que correspondan a la Procuraduría Fiscal de la Federación y demás unidades administrativas competentes de la Secretaría;
-
-IX. Coadyuvar en los procesos de modernización y adecuación del orden normativo que rige el funcionamiento de la Oficialía Mayor, en las materias de su competencia;
-
-X. Coordinar la realización de las acciones necesarias para llevar a cabo la compilación y sistematización de la normativa emitida por la Oficialía Mayor, en las materias de su competencia;
-
-XI. Analizar, cuando así se le solicite, la procedencia de las propuestas para designar a las personas servidoras públicas representantes de la Oficialía Mayor o suplentes de la persona titular de la misma ante los órganos colegiados en los que participe la Oficialía Mayor, en los casos en los que a esta le corresponda realizar la designación, y
-
-XII. Las demás que le encomiende la persona titular de la Unidad de Normatividad, así como las que le confieran otras disposiciones jurídicas.
-
-Artículo 46 C.- La Coordinación de Normatividad y Análisis Jurídicos tiene las atribuciones siguientes:
-
-I. Elaborar, proponer y opinar propuestas de iniciativas de leyes, reglamentos, decretos, acuerdos, circulares, órdenes del poder ejecutivo federal, disposiciones de carácter general y demás normativa y acciones de mejora regulatoria tendientes a:
-
-a) Regular las Unidades de Administración y Finanzas de las dependencias, sus órganos administrativos desconcentrados y sus equivalentes en las entidades de la Administración Pública Federal, así como emitir disposiciones de carácter general que establezcan su modelo organizacional y de operación;
-
-b) Custodia, administración, preservación y, en su caso, difusión de las colecciones Acervo Patrimonial y Pago en Especie, así como los bienes muebles de carácter histórico-artístico patrimonio cultural de la Nación, bibliotecas, hemerotecas, recintos históricos, museos y áreas protocolarias que tenga bajo su responsabilidad la Secretaría, y
-
-c) Las demás que les confieran otras disposiciones jurídicas y aquellas funciones que le sean encomendadas;
-
-II. Otorgar, en el ámbito de su competencia, asesoría jurídica a las unidades administrativas de la Oficialía Mayor en el ejercicio de sus atribuciones;
-
-III. Elaborar, proponer, asesorar y emitir opinión jurídica de los convenios, contratos, acuerdos y, en general, sobre cualquier instrumento o acto jurídico que deba suscribir o emitir la persona titular de la Oficialía Mayor, en las materias de su competencia;
-
-IV. Realizar estudios jurídicos y análisis e investigaciones sobre disposiciones jurídicas que sean necesarias conforme a su competencia;
-
-V. Proponer disposiciones en los rubros que expresamente le sean atribuidas a la Oficialía Mayor en la normativa aplicable en materia de austeridad;
-
-VI. Revisar los términos jurídicos de los documentos que deba suscribir la persona titular de la Oficialía Mayor para la designación y remoción de los titulares de las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados de la Administración Pública Federal, así como para la propuesta de designación de los titulares de las unidades equivalentes en las entidades paraestatales;
-
-VII. Proponer los términos, opinar y asesorar jurídicamente a las Unidades Administrativas de la Oficialía Mayor, respecto de los asuntos que se agenden en las sesiones de los órganos colegiados en que participen en el marco de su competencia;
-
-VIII. Llevar a cabo estudios, propuestas y análisis jurídicos sobre los proyectos normativos en cuya formulación o emisión deba participar la Secretaría, para establecer e instrumentar el modelo organizacional y de operación de las Unidades de Administración y Finanzas de las dependencias y sus órganos administrativos desconcentrados y, en su caso, de sus equivalentes en las entidades de la Administración Pública Federal;
-
-IX. Identificar, dentro de los instrumentos normativos que rigen el funcionamiento de la Oficialía Mayor o que inciden en el ámbito de su competencia, aquellos susceptibles de modernización y adecuación;
-
-X. Colaborar en la realización de las acciones necesarias para llevar a cabo la compilación y sistematización de la normativa emitida por la Oficialía Mayor;
-
-XI. Verificar, en el ámbito de su competencia, la aplicación de los mecanismos de integración de la información que se establezca con el propósito de contar con los documentos soporte de las actividades realizadas, de conformidad con las disposiciones jurídicas aplicables;
-
-XII. Coadyuvar en el análisis de la procedencia de las propuestas para designar a las personas servidoras públicas representantes de la Oficialía Mayor o suplentes de la persona titular de la misma ante los órganos colegiados en los que participe la Oficialía Mayor, y
-
-XIII. Las demás que le encomiende la persona titular de la Dirección General de Normatividad y Apoyo Consultivo, así como las que le confieran otras disposiciones jurídicas.
+Artículo 46 C.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
 ###### Artículo 47.
 
-Las personas titulares de las Coordinaciones Administrativas u homólogos tienen las facultades a que se refieren las fracciones XV a la XVIII del artículo 7 de este Reglamento y fungen como enlace entre las unidades administrativas que coordinan y la Oficialía Mayor para efecto de planear, presupuestar, organizar y administrar los recursos humanos, financieros, materiales y de tecnologías de información y comunicaciones, así como llevar el control, la guarda, custodia y certificación de los expedientes laborales conforme a las disposiciones aplicables.
+Las personas titulares de las coordinaciones administrativas u homólogos tienen las facultades a que se refieren las fracciones XV a XVIII del artículo 7 de este reglamento y fungen como enlace entre las unidades administrativas que coordinan y la Unidad de Administración y Finanzas para efecto de planear, presupuestar, organizar y administrar los recursos humanos, financieros, materiales y de tecnologías de información y comunicaciones, así como llevar el control, la guarda, custodia y certificación de los expedientes laborales conforme a las disposiciones aplicables.
 
 ### CAPÍTULO VI. DE LOS ÓRGANOS ADMINISTRATIVOS DESCONCENTRADOS
 
@@ -8109,15 +7375,17 @@ El Servicio de Administración Tributaria, la Comisión Nacional Bancaria y de V
 
 ### CAPÍTULO VII. DE LAS SUPLENCIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE ENERO DE 2024)</small>
+
 ###### Artículo 50.
 
-La persona titular de la Secretaría de Hacienda y Crédito Público será suplida en sus ausencias por las personas titulares de la Subsecretaría de Hacienda y Crédito Público, de Egresos; por las personas titulares de la Oficialía Mayor; la Procuraduría Fiscal de la Federación; la Subprocuraduría Fiscal Federal de Amparos; la Subprocuraduría Fiscal Federal de Legislación y Consulta; la Subprocuraduría Fiscal Federal de Asuntos Financieros; la Subprocuraduría Fiscal Federal de Investigaciones, o por la persona titular de la Unidad de Coordinación con Entidades Federativas, en el orden indicado.
+La persona titular de la Secretaría de Hacienda y Crédito Público será suplida en sus ausencias por las personas titulares de la Subsecretaría de Hacienda y Crédito Público, de Egresos; por las personas titulares de la Procuraduría Fiscal de la Federación; de la Subprocuraduría Fiscal Federal de Amparos; de la Subprocuraduría Fiscal Federal de Legislación y Consulta; de la Subprocuraduría Fiscal Federal de Asuntos Financieros; de la Subprocuraduría Fiscal Federal de Investigaciones; de la Unidad de Coordinación con Entidades Federativas o de la Unidad de Administración y Finanzas, en el orden indicado.
 
 La persona titular de la Subsecretaría de Hacienda y Crédito Público será suplida en sus ausencias por las personas titulares de las unidades de Crédito Público y Asuntos Internacionales de Hacienda, de Planeación Económica de la Hacienda Pública, y de Legislación Tributaria, en el orden indicado.
 
 La persona titular de la Subsecretaría de Egresos será suplida en sus ausencias por las personas titulares de las unidades Jurídica de Egresos, de Política y Control Presupuestario, de Contabilidad Gubernamental, de Inversiones, de Evaluación del Desempeño, y de las direcciones generales de Programación y Presupuesto “A”, de Programación y Presupuesto “B”, y de Programación y Presupuesto “C”, en el orden indicado.
 
-La persona titular de la Oficialía Mayor será suplida en sus ausencias por las personas titulares de las unidades de Administración y Finanzas, de Coordinación de Unidades de Administración y Finanzas, de Compras y Contrataciones Públicas Consolidadas, de Planeación e Investigaciones de Mercado, de Política y Contrataciones Públicas y de Normatividad, en el orden indicado.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 17 DE ENERO DE 2024)</small>
 
 La persona titular de la Procuraduría Fiscal de la Federación será suplida en sus ausencias por las personas titulares de la Subprocuraduría Fiscal Federal de Amparos, de la Subprocuraduría Fiscal Federal de Legislación y Consulta, de la Subprocuraduría Fiscal Federal de Asuntos Financieros o de la Subprocuraduría Fiscal Federal de Investigaciones, en el orden indicado.
 
@@ -8128,6 +7396,10 @@ Las personas titulares de las Subprocuradurías Fiscal Federal de Amparos y Fisc
 La persona titular de la Tesorería de la Federación será suplida en sus ausencias por las personas titulares de la Subtesorería de Operación, de la Subtesorería de Planeación Financiera y Administración de la Liquidez, de la Dirección General de Asuntos Jurídicos, de la Coordinación de Vigilancia de las Funciones de Tesorería, de la Coordinación de Planeación y Vinculación, de la Procuraduría Fiscal de la Federación, de la Subprocuraduría Fiscal Federal de Amparos, de la Subprocuraduría Fiscal Federal de Legislación y Consulta, de la Subprocuraduría Fiscal Federal de Asuntos Financieros, o de la Subprocuraduría Fiscal Federal de Investigaciones, en el orden indicado.
 
 La persona titular de la Unidad de Inteligencia Financiera será suplida en sus ausencias, por las personas titulares de la Dirección General de Asuntos Normativos e Internacionales, de la Dirección General de Procesos Legales, de la Dirección General de lo Contencioso, de la Dirección General de Integración de la Lista de Personas Bloqueadas y Procedimientos de Garantías de Audiencia, de la Dirección General de Análisis, y de la Dirección General de Información Estratégica, en ese orden.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+La persona titular de la Unidad de Administración y Finanzas será suplida en sus ausencias por las personas titulares de las direcciones generales de Recursos Financieros, de Recursos Humanos, de Recursos Materiales, Obra Pública y Servicios Generales, de Talleres de Impresión de Estampillas y Valores, de Tecnologías y Seguridad de la Información, y de la Conservaduría de Palacio Nacional y Patrimonio Cultural, en el orden indicado.
 
 La persona titular de la Unidad de Coordinación con Entidades Federativas, será suplida en sus ausencias, por la persona titular de la Dirección General de Transferencias Federales.
 
@@ -8190,3 +7462,17 @@ NOVENO. Los juicios en los cuales sea parte la Unidad de Inteligencia Financiera
 DÉCIMO. Cuando en términos del penúltimo párrafo del artículo 51 de este Reglamento, el auxilio que proporcione la Secretaría de Hacienda y Crédito Público al Órgano Interno de Control, involucre recursos presupuestarios, dicho apoyo se efectuará conforme a los criterios que determine dicha Secretaría y la Secretaría de la Función Pública, para lo cual deben observar lo previsto en el artículo Transitorio Quinto del Decreto por el que se reforma, adiciona y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado el 30 de noviembre de 2018 en el Diario Oficial de la Federación.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México a 2 de marzo de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Rogelio Eduardo Ramírez de la O.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 17 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones administrativas que se opongan al presente decreto.
+
+TERCERO. Las referencias que se hagan y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, reglas, manuales y demás disposiciones administrativas a las unidades administrativas de la Secretaría de Hacienda y Crédito Público que cambian de denominación, se modifican, desaparecen o se crean por virtud del presente ordenamiento, se entenderán hechas u otorgadas a las unidades administrativas que resulten competentes conforme al presente ordenamiento.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, así como las modificaciones a las atribuciones conferidas a la estructura orgánica de la Secretaría de Hacienda y Crédito Público, debe cubrirse con cargo a su presupuesto aprobado para el presente ejercicio fiscal y subsecuentes, debiendo realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de dicha dependencia.
