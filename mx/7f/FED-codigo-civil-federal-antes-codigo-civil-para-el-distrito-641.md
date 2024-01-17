@@ -4,7 +4,7 @@ identifier: "FED-codigo-civil-federal-antes-codigo-civil-para-el-distrito-641"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2021-01-11"
+last_updated: "2024-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=641&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2025-11-14"
 
 CÓDIGO CIVIL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2024.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -2150,9 +2150,17 @@ ARTICULO 323 ter.- Los integrantes de la familia están obligados a evitar condu
 
 Queda prohibido que la madre, padre o cualquier persona en la familia, utilice el castigo corporal o cualquier tipo de trato y castigo humillante como forma de corrección o disciplina de niñas, niños o adolescentes. Se define el castigo corporal y humillante según lo dispuesto por la fracción VIII del artículo 47 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 
-> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2024)</small>
 
-Por violencia familiar se considera el uso intencional de la fuerza física, moral o de cualquier acto que tenga como objetivo provocar dolor, molestia o humillación, incluyendo el castigo corporal y humillante contra niñas, niños y adolescentes, así como las omisiones graves que ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, psíquica y emocional independientemente de que pueda producir o no lesiones; siempre y cuando el agresor y el agredido habiten en el mismo domicilio y exista una relación de parentesco, matrimonio o concubinato.
+La violencia familiar es el acto abusivo de poder u omisión intencional dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, patrimonial, económica o sexual a cualquier integrante de la familia dentro o fuera del domicilio familiar, independientemente de que pueda producir o no lesiones; así como, el incumplimiento de las obligaciones alimentarias por parte de la persona que de conformidad con lo dispuesto en este Código tiene obligación de cubrirlas.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+Para efectos de este artículo, se entiende por integrante de la familia a la persona que se encuentre unida a otra por una relación de matrimonio, concubinato, cohabitación o por un lazo de parentesco consanguíneo, en línea recta ascendente o descendente sin limitación de grado, colateral o afín hasta el cuarto grado.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
+
+ARTICULO 323 quáter.- Queda prohibido el ejercicio de la violencia a través de interpósita persona en términos de lo establecido en la fracción VI del artículo 6 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
 ## TITULO SEPTIMO. De la paternidad y filiación
 
@@ -2936,9 +2944,9 @@ V.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso e
 
 VI.- Cuando el que la ejerza sea condenado dos o más veces por delito grave.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2024)</small>
 
-ARTICULO 444 bis.- La patria potestad podrá ser limitada cuando el que la ejerce incurra en conductas de violencia familiar previstas en el artículo 323 ter de este Código, en contra de las personas sobre las cuales la ejerza.
+ARTICULO 444 bis.- La patria potestad podrá ser limitada cuando la persona que la ejerce incurra en conductas de violencia familiar y de violencia a través de interpósita persona previstas en los artículos 323 ter y 323 quáter de este Código, en contra de las personas sobre las cuales la ejerza.
 
 ###### ARTICULO 445.
 
@@ -3212,11 +3220,11 @@ Se considera expósito al menor que es colocado en una situación de desamparo p
 
 Los responsables de las casas de asistencia, ya sean públicas o privadas, donde se reciban expósitos o abandonados, desempeñarán la tutela de éstos con arreglo a las leyes y a lo que prevengan los estatutos de la institución. En este caso no es necesario el discernimiento del cargo.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2024)</small>
 
 ###### ARTICULO 494.
 
-Los responsables de las casas de asistencia, ya sean públicas o privadas, donde se reciban menores que hayan sido objeto de la violencia familiar a que se refiere el artículo 323 ter de este ordenamiento, tendrán la custodia de éstos en los términos que prevengan las leyes y los estatutos de la institución. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia familiar.
+Las personas responsables de las casas de asistencia, ya sean públicas o privadas, donde se reciban personas menores de edad que hayan sido objeto de la violencia familiar y/o utilizados para ejercer violencia a través de interpósita persona a que se refieren los artículos 323 ter y 323 quáter de este ordenamiento, tendrán la custodia de éstas en los términos que prevengan las leyes y los estatutos de la institución. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia familiar y/o de violencia a través de interpósita persona.
 
 ### CAPITULO VI. De la tutela dativa
 
@@ -13019,3 +13027,11 @@ D.O.F. 11 DE ENERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, Y DEL CÓDIGO CIVIL FEDERAL”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DEL CÓDIGO CIVIL FEDERAL Y DEL CÓDIGO PENAL FEDERAL, EN MATERIA DE VIOLENCIA A TRAVÉS DE INTERPÓSITA PERSONA".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán de conformidad con el presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
