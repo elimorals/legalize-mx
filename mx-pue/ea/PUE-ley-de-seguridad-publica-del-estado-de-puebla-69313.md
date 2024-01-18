@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-publica-del-estado-de-puebla-69313"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-15"
-last_updated: "2023-08-25"
+last_updated: "2024-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de julio de 2009.
 
@@ -535,7 +535,9 @@ XVI.- Las demás que le reserven la Ley General, los acuerdos y resoluciones que
 
 Son atribuciones de los Ayuntamientos:
 
-I.- Garantizar, en el Municipio respectivo, el acceso de las personas a la función de seguridad pública, expidiendo para el efecto los bandos de policía y gobierno, así como los reglamentos correspondientes;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2024)</small>
+
+I.- Garantizar, en el Municipio respectivo, el acceso de las personas a la seguridad pública, cuyos fines son salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas, así como contribuir a la generación y preservación del orden público y la paz social, expidiendo para el efecto los bandos de policía y gobierno, así como los reglamentos correspondientes;
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2020)</small>
 
@@ -545,9 +547,13 @@ II.- Acordar la celebración de convenios o acuerdos de coordinación o en su ca
 
 III.- Difundir e implementar en el ámbito de sus respectivas competencias los protocolos de actuación y respuesta necesarios; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE MARZO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ENERO DE 2024)</small>
 
-IV.- Las demás que le asignen los ordenamientos legales.
+IV.- Impulsar la profesionalización de las y los integrantes de las instituciones policiales municipales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE ENERO DE 2024)</small>
+
+V.- Las demás que le asignen los ordenamientos legales.
 
 ###### Artículo 23.
 
@@ -2442,3 +2448,11 @@ PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Est
 SEGUNDO. El Ejecutivo del Estado realizará las adecuaciones a la normatividad aplicable, en los términos previstos en el presente Decreto.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 18 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO POR EL QUE REFORMA LAS FRACCIONES I Y IV DEL ARTÍCULO 22, Y ADICIONA LA FRACCIÓN V AL ARTÍCULO 22 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
