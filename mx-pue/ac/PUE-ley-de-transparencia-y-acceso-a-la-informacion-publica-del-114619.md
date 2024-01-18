@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2023-12-06"
+last_updated: "2024-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, miércoles 4 de mayo de 2016.
 
@@ -640,6 +640,20 @@ El Instituto contará con un Órgano Interno de Control para prevenir, corregir 
 El personal que preste sus servicios al Instituto de Transparencia estará sujeto a un servicio profesional de carrera, en los términos del reglamento respectivo.
 
 El Congreso del Estado, deberá otorgar un presupuesto adecuado y suficiente al Instituto de Transparencia, para el funcionamiento efectivo y cumplimiento de la presente Ley, y demás disposiciones en la materia, según corresponda, conforme a las leyes en materia de presupuesto y responsabilidad hacendaria.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2024)</small>
+
+ARTÍCULO 26 BIS. Para ser Titular del Órgano Interno de Control del Instituto de Transparencia se requiere:
+
+I. Ser ciudadana o ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+II. Contar al momento de su designación con experiencia profesional en administración pública, control interno, fiscalización de recursos públicos, contabilidad, auditoría gubernamental, responsabilidades administrativas y transparencia;
+
+III. Contar al día de su designación con título y cédula profesional en alguna de las áreas económicas, contables, jurídicas o administrativas, expedido por autoridad o institución legalmente facultado (sic) para ello;
+
+IV. No pertenecer o haber pertenecido, en los tres años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios o haber fungido como consultora, consultor, auditora o auditor externo del propio órgano, durante ese periodo, y
+
+V. No haber sido dirigente de algún partido o agrupación política ni ministro de culto religioso, cuando menos cinco años antes al momento de su designación.
 
 ###### ARTÍCULO 27.
 
@@ -2918,3 +2932,13 @@ P.O. 6 DE DICIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA EL ARTÍCULO 26 BIS A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Congreso del Estado nombrará a la persona titular del Órgano Interno de Control, en un plazo no mayor a tres meses a partir de la entrada en vigor del presente Decreto, observando el procedimiento que para tal efecto se establezca.
