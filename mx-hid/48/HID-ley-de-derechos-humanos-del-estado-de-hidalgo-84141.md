@@ -4,7 +4,7 @@ identifier: "HID-ley-de-derechos-humanos-del-estado-de-hidalgo-84141"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2023-06-15"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -1149,9 +1149,11 @@ Cuando persistan actitudes u omisiones que impliquen conductas evasivas o de ent
 
 La Comisión denunciará ante los órganos competentes los presuntos delitos o faltas que hubiesen cometido las autoridades o servidores públicos de que se trate. Lo anterior también se aplicará en el caso de los particulares.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
+
 ###### Artículo 99.
 
-La Comisión podrá dar seguimiento a las actuaciones y diligencias que se practiquen en las averiguaciones previas, procedimientos penales o administrativos que se instruyan con motivo de su intervención.
+La Comisión podrá dar seguimiento a las actuaciones y diligencias que se practiquen en las carpetas de investigación, procedimientos penales o administrativos que se instruyan con motivo de su intervención.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -1269,13 +1271,15 @@ V.- Personas con discapacidad;
 
 VI.- Protección a la familia;
 
-VII.- Miembros de pueblos y comunidades indígenas;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+VII.- Miembros de pueblos y comunidades indígenas y afromexicanas;
 
 VIII.- Portadores de VIH;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-IX.- Personas discriminadas por su preferencia sexual;
+IX.- Personas discriminadas por su identidad o expresión de género, orientación sexual o características sexuales;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
 
@@ -1640,3 +1644,9 @@ P.O. 15 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 534 POR EL QUE SE ADICIONA UN ARTÍCULO 7 BIS A LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 11 DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 622 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
