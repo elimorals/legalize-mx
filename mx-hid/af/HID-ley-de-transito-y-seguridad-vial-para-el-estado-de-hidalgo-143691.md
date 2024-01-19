@@ -4,7 +4,7 @@ identifier: "HID-ley-de-transito-y-seguridad-vial-para-el-estado-de-hidalgo-1436
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-20"
-last_updated: "2023-07-10"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de julio de 2020.
 
@@ -117,7 +117,9 @@ V Bis.- Cultura Vial: Los hábitos, conductas y conocimientos que adquieren de m
 
 V Ter.- Depósito de Vehículos: Al lugar destinado para resguardo y custodia de los vehículos que están a disposición de la autoridad que corresponda;
 
-VI.- Dispositivos para el control del tránsito y de la seguridad vial: Los medios físicos empleados para regular y guiar el tránsito de vehículos, peatones y semovientes, tales como semáforos, señalamientos, marcas, reductores de velocidad, inmovilizadores de vehículos, medios electrónicos, instrumentos tecnológicos, programas y otros similares;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+VI.- Dispositivos para el control del tránsito y de la seguridad vial: Los medios físicos empleados para regular y guiar el tránsito de vehículos, peatones y semovientes, tales como semáforos, semáforos sonoros, señalamientos, marcas, reductores de velocidad, inmovilizadores de vehículos, medios electrónicos, instrumentos tecnológicos, programas y otros similares;
 
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2021)</small>
 
@@ -486,6 +488,10 @@ La Secretaría y las Autoridades Municipales aplicarán y vigilarán el cumplimi
 Las autoridades de la administración pública Estatal y Municipal en el ámbito de su competencia deben garantizar mediante la infraestructura vial e instalación de los señalamientos viales necesarios, el tránsito seguro de los usuarios en las vialidades, la posibilidad de conectarse entre medios de transporte y vialidades, ya sea a través de corredores, andenes, ciclovías, semáforos, dispositivos tecnológicos, puentes, pasos a nivel o a desnivel y otros dispositivos y protecciones necesarias. Asimismo, evitará que las vialidades, su infraestructura, servicios y demás elementos inherentes o incorporados a éstas sean obstaculizados o invadidos.
 
 Las autoridades estatales y municipales se responsabilizarán del mantenimiento de la señalización y las vialidades, las cuales deberán permanecer siempre funcionales y en buen estado.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+De manera progresiva y conforme a la suficiencia presupuestal, se deberá garantizar que las intersecciones y cruces peatonales cercanos a los centros educativos, de salud, culturales, comerciales y de recreación, cuenten con semáforos sonoros, con el propósito de facilitar la movilidad de las personas con discapacidad visual.
 
 ###### Artículo 27.
 
@@ -1768,3 +1774,9 @@ P.O. 10 DE JULIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. El Poder Ejecutivo del Estado, dentro ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, deberá prever de (sic) la esfera administrativa necesaria para el cumplimiento de este Decreto.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 623 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO Y DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
