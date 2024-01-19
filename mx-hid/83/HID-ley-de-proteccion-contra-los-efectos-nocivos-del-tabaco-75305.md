@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-contra-los-efectos-nocivos-del-tabaco-75305"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-07"
-last_updated: "2022-10-21"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN CONTRA LOS EFECTOS NOCIVOS DEL TABACO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de junio de 2010.
 
@@ -109,7 +109,9 @@ VIII.- Fumar: La inhalación y exhalación de humo, derivado de la combustión d
 
 IX.- Humo del tabaco: Se refiere a las emisiones de los productos de tabaco originadas por encender o consumir cualquier producto del tabaco;
 
-X.- Ley: Ley Estatal Contra los Efectos del Tabaco en el Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+X.- Ley: Ley de Protección Contra los Efectos Nocivos del Tabaco para el Estado de Hidalgo;
 
 XI.- Productos del tabaco: Considera los bienes preparados totalmente o en parte utilizando como materia prima hojas del tabaco;
 
@@ -150,6 +152,10 @@ IX.- Establecer políticas para prevenir, reducir y eliminar el consumo del taba
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
 X.- Promover espacios 100% libres de humo del tabaco y emisiones, así como acciones en favor de un medio ambiente libre de humo de tabaco, y
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+X Bis. Elaborar el Proyecto de Reglamento de la presente Ley, para ponerlo a consideración y, en su caso, modificación o aprobación por parte de la persona titular del Poder Ejecutivo Estatal.
 
 XI.- Las demás que le otorguen esta Ley y las disposiciones jurídicas aplicables.
 
@@ -501,6 +507,22 @@ Las notificaciones de las resoluciones administrativas, emitidas por la autorida
 
 En contra de las resoluciones dictadas por la Autoridad competente en la aplicación de esta Ley, procederán los recursos previstos en la Ley Estatal del Procedimiento Administrativo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE ENERO DE 2024)</small>
+
+### CAPÍTULO VI. DEL REGLAMENTO DE LA LEY
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+Artículo 42 (SIC). El Reglamento de esta Ley será decretado y publicado por la persona titular del Poder Ejecutivo (sic) Estado, pudiendo ser a propuesta de la persona titular de la Secretaría de Salud, en términos de la fracción X Bis del artículo 5 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+###### Artículo 43.
+
+En el ámbito de las atribuciones señaladas en el artículo anterior, se procurará que la actualización y armonización del Reglamento con la presente Ley, así como con la Ley General para el Control del Tabaco y las disposiciones federales en la materia, se realicen con la debida diligencia para su inmediata o pronta aplicación.
+
+El Poder Ejecutivo deberá emitir las disposiciones y aplicar las medidas necesarias para asegurar la constante actualización y armonización del Reglamento de esta Ley.
+
 T R A N S I T O R I O S
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
@@ -562,3 +584,9 @@ P.O. 21 DE OCTUBRE DE 2022.
 PRIMERO. - El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. - Se concede un término no mayor a 60 días naturales posteriores a la publicación del presente decreto para que las personas propietarias, administradores o responsables de los establecimientos o lugares con acceso al público, áreas de trabajo, públicas y privadas lleven a cabo las adecuaciones necesarias en sus establecimientos a fin de dar cumplimiento a las normas correspondientes del presente decreto.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 608 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CONTRA LOS EFECTOS NOCIVOS DEL TABACO PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
