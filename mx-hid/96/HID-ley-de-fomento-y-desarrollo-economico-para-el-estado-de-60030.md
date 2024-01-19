@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-y-desarrollo-economico-para-el-estado-de-60030"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2022-06-09"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE FOMENTO Y DESARROLLO ECONOMICO PARA EL ESTADO DE HIDALGO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JUNIO DE 2024 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE FOMENTO Y DESARROLLO ECONÓMICO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -91,9 +93,9 @@ XIV.- Fomentar la modernización y competitividad del comercio y el abasto en la
 
 XV.- Integrar un sistema de información económica y de registro estadístico empresarial, que soporte y favorezca la formulación de políticas encaminadas a procurar un bienestar integral y sostenible en el Estado, la toma de decisiones, la promoción de inversiones, la apertura de nuevas Unidades Económicas, y la eficiencia para el otorgamiento de apoyos y estímulos, entre otros propósitos;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-XVI.- Impulsar las industrias creativas, a efecto de propiciar la inserción de las y los jóvenes al mercado laboral, lo que les permitirá obtener un ingreso económico para satisfacer sus necesidades, mediante el comercio y los derechos de propiedad intelectual;
+XVI.- Impulsar las industrias creativas y culturales, a efecto de propiciar la inserción de las y los jóvenes al mercado laboral, lo que les permitirá obtener un ingreso económico para satisfacer sus necesidades, mediante el comercio y los derechos de propiedad intelectual;
 
 > <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
@@ -121,7 +123,9 @@ IV.- CADENAS PRODUCTIVAS: Los sistemas productivos que integran conjuntos de org
 
 V.- INSTITUTO HIDALGUENSE DE SERVICIOS EMPRESARIALES: Espacio físico para la orientación, información, asesoría, vinculación y prestación de servicios a las MIPYMES;
 
-VI.- CONSEJO CONSULTIVO: Grupo de trabajo auxiliar de la Comisión Rectora, integrado por servidores públicos, encargado por la presente disposición, o por una autoridad competente, del análisis, seguimiento, evaluación y resolución de asuntos vinculados con inversiones productivas y otorgamiento de apoyos y estímulos a la inversión;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+VI.- CONSEJO CONSULTIVO: Grupo de trabajo auxiliar de la Comisión Rectora, integrado por personas representantes del sector público y privado, encargado por la presente disposición, o por una autoridad competente, del análisis, seguimiento, evaluación y resolución de asuntos vinculados con inversiones productivas y otorgamiento de apoyos y estímulos a la inversión.
 
 VII.- COMISIÓN RECTORA: Grupo interdisciplinario para el análisis, opinión, asesoría y recomendación de políticas públicas, lineamientos y programas, para el impulso del fomento, la competitividad y el desarrollo económico de la Entidad;
 
@@ -139,9 +143,9 @@ XI BIS.- FORMALIZACIÓN. Proceso por el que las unidades económicas dan cumplim
 
 XII.- INCENTIVOS: Acto relativo a la exención de impuestos y derechos, estímulos fiscales, subsidios o servicios de apoyo y gestoría, emitidos por la autoridad competente de los Gobiernos Estatal y Municipales destinados a fomentar las actividades económicas;
 
-> <small>(ADICIONADA, P. O. 22 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-XII Bis.- INDUSTRIAS CREATIVAS.- Son aquellas que usan el capital intelectual como su insumo principal, además de englobar actividades de artesanía tradicional, festividades culturales, libros, pintura, música y artes escénicas, uso intensivo en tecnología, como el cine, televisión, radio, animación digital y videojuegos, así como otras actividades orientadas a los servicios, como es el caso de la arquitectura y la publicidad.
+XII Bis.- INDUSTRIAS CREATIVAS Y CULTURALES.- Son aquellas que usan el capital intelectual como su insumo principal, y que se realizan con la finalidad de producir, reproducir, proporcionar, difundir y comercializar bienes, servicios y actividades de contenido cultural, artístico o patrimonial; dentro de las cuales se engloban actividades de artesanía tradicional, festividades culturales, libros, pintura, música y artes escénicas, uso intensivo en tecnología, como el cine, televisión, radio, animación digital y videojuegos, así como otras actividades orientadas a los servicios, como es el caso de la arquitectura y la publicidad.
 
 XIII.- INVERSIONISTA: Persona física o moral que realiza una inversión directa;
 
@@ -183,9 +187,11 @@ II.- Las Dependencias y Entidades Estatales, en el ámbito de sus respectivas co
 
 III.- Los Ayuntamientos, así como las Dependencias y Entidades que integran la Administración Pública Municipal, en el ámbito de sus respectivas competencias.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
+
 ###### Artículo 4.
 
-La Secretaría, en coordinación con la Secretaría de Finanzas, la Secretaría de Obras Públicas, Comunicaciones, Transportes y Asentamientos, la Secretaría de Planeación y Desarrollo Regional, junto con los Ayuntamientos, determinarán, en el ámbito de su competencia, las zonas de fomento económico, con el propósito de impulsar programas de fomento económico, proyectos de inversión y, en general, actividades económicas, en el marco del Sistema Estatal de Planeación Democrática.
+La Secretaría, en coordinación con la Secretaría de Hacienda, la Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible, la Unidad de Planeación y Prospectiva, junto con los Ayuntamientos, determinarán, en el ámbito de su competencia, las zonas de fomento económico, con el propósito de impulsar programas de fomento económico, proyectos de inversión y, en general, actividades económicas, en el marco del Sistema Estatal de Planeación Democrática.
 
 ###### Artículo 5.
 
@@ -219,21 +225,35 @@ II.- Un Vicepresidente Ejecutivo, quien suplirá al Presidente en su ausencia, q
 
 III.- Un Secretario Técnico, que será designado por el Titular de la Secretaría;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE ENERO DE 2024)</small>
 
-IV.- Cinco Vocales del Gobierno del Estado, que serán los Titulares de:
+IV.- Siete Vocales del Gobierno del Estado, que serán los Titulares de:
 
-a) Secretaría de las Finanzas Públicas;
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
+
+a) Secretaría de Hacienda;
 
 b) Unidad de Planeación y Prospectiva;
 
-c) Secretaría de Obras Públicas y Ordenamiento Territorial;
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
 
-d) Secretaría de Desarrollo Agropecuario;
+c) Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible;
 
-e) Turismo; y
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
 
-f) Secretaría del Trabajo y Previsión Social.
+d) Secretaría de Agricultura y Desarrollo Rural;
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
+
+e) Secretaría de Turismo;
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
+
+f) Secretaría de Trabajo y Previsión Social, y
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+g) Secretaría de Cultura.
 
 ###### Artículo 10.
 
@@ -305,13 +325,15 @@ Para el cumplimiento de su objeto, la Comisión Rectora se apegará a los térmi
 
 Se crea un Consejo Consultivo de Análisis e Incentivos a la Inversión para la Competitividad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
 
 ###### Artículo 17.
 
-El Consejo Consultivo estará integrado por los Titulares de la Secretaría de Desarrollo Económico, la Secretaría de Finanzas Públicas, Secretaría de Obras Públicas y Ordenamiento Territorial y de la Unidad de Planeación y Prospectiva, quienes designarán a sus respectivos suplentes.
+El Consejo Consultivo estará integrado por los Titulares de la Secretaría de Desarrollo Económico, la Secretaría de Hacienda, Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible y de la Unidad de Planeación y Prospectiva, quienes designarán a sus respectivos suplentes.
 
-En función de las características y necesidades de los proyectos, el Presidente del Consejo Consultivo podrá invitar a otras Dependencias y Entidades de la Administración Pública Estatal y de las Administraciones Públicas Municipales.
+Además, dicho órgano contara´ con un representante del Consejo Coordinador Empresarial de Hidalgo (CCE Hidalgo), y de la Confederación Patronal de la República Mexicana en Hidalgo (COPARMEX Hidalgo).
+
+En función de las características y necesidades de los proyectos, el Presidente del Consejo Consultivo podrá invitar a la diputada o diputado que presida la Primera Comisión Permanente de Desarrollo Económico del Congreso del Estado Libre y Soberano de Hidalgo, así como otras Dependencias y Entidades de la Administración Pública Estatal y de las Administraciones Públicas Municipales.
 
 ###### Artículo 18.
 
@@ -447,9 +469,9 @@ Con el objeto de fortalecer el mercado interno, en igualdad de condiciones y par
 
 La Secretaría, en el ámbito de su competencia y en coordinación con los Gobiernos Federal y Municipales, los sectores social, privado y la comunidad académica, fomentará el empleo impulsando de manera permanente la capacitación y los programas de incremento a la productividad, orientándose preferentemente hacía el desarrollo de las actividades económicas definidas en los Programas Sectoriales, Estatales y Nacionales.
 
-> <small>(ADICIONADO, P. O. 22 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
 
-De igual forma, impulsará la creación de centros de capacitación y orientación especializados en las industrias creativas que propicien la inserción de los jóvenes al mercado laboral en colaboración con el sector académico y privado.
+De igual forma, impulsará la creación de centros de capacitación y orientación especializados en las industrias creativas y culturales que propicien la inserción de los jóvenes al mercado laboral en colaboración con el sector académico y privado.
 
 ###### Artículo 32.
 
@@ -577,9 +599,9 @@ VII.- La articulación de las actividades económicas con el sector turismo para
 
 VIII.- La organización de centros de acopio para mejorar el abasto y distribución de productos alimenticios, que ordene y propicie la creación de espacios destinados a estas actividades; y
 
-> <small>(ADICIONADA, P. O. 22 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-IX.- Las industrias creativas para insertar a los jóvenes al mercado laboral.
+IX.- Las industrias creativas y culturales para insertar a los jóvenes al mercado laboral.
 
 ## TÍTULO QUINTO. DE LOS APOYOS Y ESTÍMULOS
 
@@ -617,11 +639,11 @@ Lo anterior conforme a la Legislación aplicable y se expresará en los Acuerdos
 
 Los apoyos financieros tienen por objeto respaldar e impulsar las actividades productivas y de servicios, así como los proyectos que se determinen como prioritarios, con los esquemas que la Comisión Rectora y el Consejo Consultivo determinen. La Secretaría podrá promover además, otros apoyos mediante la coordinación y concertación con Instituciones Financieras Nacionales y Extranjeras.
 
-> <small>(REFORMADO, P. O. 22 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
 
 ###### Artículo 47.
 
-Los apoyos de promoción económica tienen por objeto orientar y asesorar a las Unidades Económicas en materia de programas de apoyo para el desarrollo empresarial y laboral, financiamiento, proyectos productivos, incentivos y estímulos a la inversión y a la actividad empresarial de oferta y demanda de bienes y servicios, en mercados Nacionales e Internacionales; así como fomentar la cultura exportadora; promover misiones y ferias comerciales; empresas integradoras, industrias creativas y en general apoyar las acciones necesarias para la solución de los problemas que enfrenten los exportadores.
+Los apoyos de promoción económica tienen por objeto orientar y asesorar a las Unidades Económicas en materia de programas de apoyo para el desarrollo empresarial y laboral, financiamiento, proyectos productivos, incentivos y estímulos a la inversión y a la actividad empresarial de oferta y demanda de bienes y servicios, en mercados Nacionales e Internacionales; así como fomentar la cultura exportadora; promover misiones y ferias comerciales; empresas integradoras, industrias creativas y culturales y en general apoyar las acciones necesarias para la solución de los problemas que enfrenten los exportadores.
 
 ###### Artículo 48.
 
@@ -631,11 +653,11 @@ Los apoyos para la infraestructura productiva, tienen por objeto promover el cre
 
 Los apoyos de consultoría y capacitación tienen por objeto mejorar los conocimientos y habilidades de los recursos humanos, en congruencia con los requerimientos de la Economía Estatal, a través de instituciones públicas y privadas aptas para tal fin.
 
-> <small>(REFORMADO, P. O. 22 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
 
 ###### Artículo 50.
 
-La Secretaría podrá instituir premios y reconocimientos, como de innovación tecnológica, exportación, de mérito laboral, de calidad, de industrias creativas, a emprendedores y otros que se estimen convenientes, de conformidad con las bases y lineamientos que se expidan, con base en la determinación que para tal efecto haya hecho la Comisión Rectora.
+La Secretaría podrá instituir premios y reconocimientos, como de innovación tecnológica, exportación, de mérito laboral, de calidad, de industrias creativas y culturales, a emprendedores y otros que se estimen convenientes, de conformidad con las bases y lineamientos que se expidan, con base en la determinación que para tal efecto haya hecho la Comisión Rectora.
 
 ###### Artículo 51.
 
@@ -894,3 +916,11 @@ P.O. 9 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 206 QUE REFORMA Y ADICIONA EL ARTÍCULO 57 LA LEY DE FOMENTO Y DESARROLLO ECONÓMICO PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 628 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO Y DESARROLLO ECONÓMICO PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. La comisión Rectora para la Competitividad, el Empleo y el Desarrollo Económico, deberá realizar las adecuaciones pertinentes a su Reglamento en un plazo no mayor a 90 días naturales, contados a partir de la entrada en vigor del presente decreto.
