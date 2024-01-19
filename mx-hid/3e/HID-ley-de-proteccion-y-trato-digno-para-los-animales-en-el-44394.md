@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-y-trato-digno-para-los-animales-en-el-44394"
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-28"
-last_updated: "2022-06-27"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 28 de febrero de 2005.
 
@@ -41,11 +41,11 @@ QUE CONTIENE LA LEY DE PROTECCION Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO D
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2024)</small>
 
-###### Artículo 1º.
+###### Artículo 1°.
 
-La presente ley es de observancia general en el Estado de Hidalgo; sus disposiciones son de orden público e interés social, teniendo por objeto proteger a los animales, garantizar su bienestar, brindarles atención, buen trato, manutención, alojamiento, desarrollo natural, salud y evitarles el maltrato, la crueldad, el sufrimiento, actos de zoofilia y la deformación de sus características físicas, así como, asegurar la sanidad del animal, la salud pública y las cinco libertades del animal, siendo estas: libre de hambre, sed y desnutrición, miedos y angustias, de incomodidades físicas o térmicas, de dolor, lesiones o enfermedades, y para expresar las pautas propias de comportamiento y sus objetivos son:
+La presente ley es de observancia general en el Estado de Hidalgo; sus disposiciones son de orden público e interés social, teniendo por objeto proteger a los animales como seres sintientes, garantizar su bienestar, brindarles atención, buen trato, manutención, alojamiento, desarrollo natural, salud y evitarles el maltrato, la crueldad, el sufrimiento, actos de zoofilia y la deformación de sus características físicas, así como, asegurar la sanidad del animal, la salud pública y las cinco libertades del animal, siendo estas: libre de hambre, sed y desnutrición, miedos y angustias, de incomodidades físicas o térmicas, de dolor, lesiones o enfermedades, y para expresar las pautas propias de comportamiento y sus objetivos son:
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
 
@@ -107,6 +107,10 @@ III.- Animal para monta, carga y tiro: Los animales que son utilizados por el se
 
 IV.- Animal para abasto: Todos aquellos animales que sirven para consumo humano;
 
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+IV Bis.- Animal de compañía: Aquel que convive con los seres humanos y vive bajo sus cuidados, preferentemente establece una relación afectiva y, debido a la naturaleza de su especie, no representa un riesgo o peligro para los seres humanos u otros animales;
+
 V.- Animales de guardia y protección: Los animales que son entrenados por personas debidamente autorizadas para realizar funciones de vigilancia, protección o guardia en establecimientos comerciales, casas-habitación o instituciones públicas y privadas, así como para ayudar a la detección de estupefacientes, armas, explosivos y demás acciones análogas;
 
 VI.- Animal para espectáculos: Los animales mantenidos en cautiverio que son utilizados en espectáculos públicos o privados, bajo el adiestramiento del ser humano;
@@ -153,6 +157,10 @@ XXI Bis.- (DEROGADA, P.O. 30 DE JULIO DE 2018)
 
 XXII.- Epizootia: La enfermedad que se presenta en una población animal durante un intervalo dado, con una frecuencia mayor a la esperada;
 
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XXII Bis.- Escuela de adiestramiento y/o entrenamiento: Institución destinada a entrenar y/o educar animales de compañía;
+
 XXIII.- Esterilización: Proceso quirúrgico o químico, que se practica en los animales, para evitar su reproducción;
 
 XXIV.- Fauna: Conjunto de animales de una región que viven en un mismo hábitat;
@@ -175,6 +183,14 @@ XXX.- Maltrato: Todo hecho, acto u omisión del ser humano, que puede ocasionar 
 
 XXX Bis.- Crueldad: Acto de brutalidad, sádico o zoofóbico contra cualquier animal, ya sea por acción directa, omisión o negligencia;
 
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XXX Ter.- Pensión de animales de compañía: Establecimiento que proporciona servicios de guarda y custodia temporal a un animal de compañía, atendiendo a su seguridad, alimentación y salud;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XXX Quater.- Persona prestadora de servicios: Persona física o moral que, con o sin fines de lucro, otorga alguno o algunos de los siguientes servicios: pensión, guardería, adiestramiento, entrenamiento en general o para terapia asistida, estética, spa, actividad física, recreación, gimnasio, tratamiento etológico, servicios funerarios o de incineración y demás relacionados con los animales.
+
 XXXI.- Prevención: Conjunto de acciones y medidas para evitar el deterioro de la salud humana o animal, conservado (sic) el equilibrio ecológico;
 
 > <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
@@ -186,6 +202,10 @@ XXXII.- Rabia: Enfermedad viral infectocontagiosa aguda y mortal, transmitida po
 XXXIII.- Rastro: Establecimiento de servicio público, donde se realiza la matanza de animales de abasto;
 
 XXXIV.- Razzia: La captura de animales en la vía pública de manera humanitaria;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XXXIV Bis.- Refugio: Establecimiento sin fines de lucro, administrado por una persona física o moral, cuya función principal es el cuidado de los animales abandonados o retirados de alguna situación de maltrato y que cuenta con las instalaciones que cumplen las normas de salud y los principios de protección y bienestar animal, evitando en todo el hacinamiento;
 
 XXXV.- Reglamento: El Reglamento de Protección y trato digno para los animales en el Estado de Hidalgo.
 
@@ -297,6 +317,12 @@ Adicionalmente deberá mantener actualizado el Registro Estatal de Fauna e integ
 
 Corresponde a la Secretaría, la publicación de las normas técnicas a las que hace mención el Artículo 7 Ter del presente ordenamiento.
 
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+###### Artículo 7 Quinquies.
+
+Es facultad de la Secretaría coordinarse con los municipios para la implementación del padrón de personas prestadoras de servicios, guarderías, hoteles para animales de compañía, pensiones, refugios y escuelas de adiestramiento y entrenamiento.
+
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 8°.
@@ -311,7 +337,17 @@ I.- Aplicar la presente Ley;
 
 II.- Establecer y regular los Centros de Control Animal y Zoonosis, además de proveerlos de lo indispensable para realizar las razzias y los sacrificios humanitarios;
 
-III.- Apoyar a la Autoridad en materia de salud en el Estado, en campañas de esterilización y vacunación a precios módicos de recuperación, o en casos determinados, de manera gratuita, conjuntamente con los Centros de Control Animal y Zoonosis y Asociaciones Protectoras de Animales;
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+II Bis.– Regular y autorizar el funcionamiento de personas prestadoras de servicios, guarderías, hoteles para animales de compañía, pensiones, refugios y escuelas de adiestramiento y entrenamiento, previo cumplimiento con lo establecido en la presente Ley, su Reglamento y la normatividad municipal;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+II Ter.- Implementar el Padrón Municipal de Animales en los términos del artículo 11 de esta Ley;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+III.- Apoyar a la Autoridad en materia de salud en el Estado y destinar un porcentaje de su presupuesto anual para la realización de campañas permanentes de esterilización y vacunación a precios módicos de recuperación, o en casos determinados, de manera gratuita, conjuntamente con los Centros de Control Animal y Zoonosis y Asociaciones Protectoras de Animales;
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -361,6 +397,10 @@ V.- Los establecimientos para la venta de animales;
 
 VI.- Sitios para cría, cuidado y resguardo de animales como son: Ranchos, haciendas, ganaderías, establos, clubes hípicos, granjas, albergues y similares;
 
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+VI Bis.- Personas prestadoras de servicio, guarderías, hoteles para animales de compañía, pensiones, refugios y escuelas de adiestramiento o entrenamiento;
+
 VII.- Los criaderos de animales domésticos y de fauna silvestre; y
 
 VIII.- A los animales que coadyuven a suplir alguna capacidad diferente para el ser humano, perros guías, zooterapia, de protección y rescate.
@@ -378,6 +418,36 @@ III.- La vacunación y esterilización que realicen los establecimientos autoriz
 IV.- Muerte de los animales que establezca el Reglamento; y
 
 V.- Las demás que establezca el Reglamento.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+###### Artículo 12 Bis.
+
+Para el funcionamiento de guarderías, hoteles para animales de compañía, pensiones, refugios y escuelas de adiestramiento y entrenamiento, las personas prestadoras de servicios deberán:
+
+I.- Cumplir con las disposiciones de la presente Ley y demás ordenamientos aplicables para garantizar la protección, el bienestar y el trato digno y respetuoso de los animales que sean motivo del servicio o que por cualquier causa se encuentren en el establecimiento;
+
+II.- Cumplir con los requisitos de control y operación sanitarios que establezcan las autoridades en materia de salud;
+
+III.- Tener un registro interno con los datos de cada uno de los animales que ingresan y de la persona tutora responsable, en caso de haber, el cual contará con los siguientes datos mínimos:
+
+a) Nombre, raza, edad y mecanismo de identificación de cada animal;
+
+b) Nombre, domicilio y datos de contacto de la persona tutora responsable;
+
+c) El estado de salud del animal en el momento de su llegada o ingreso al establecimiento, y
+
+d) En su momento, el estado de salud del animal a la culminación del servicio.
+
+IV.- Contar con una persona titulada como médico veterinario zootecnista, quien deberá encontrarse en el lugar donde se aloje a los animales en el caso de guarderías, hoteles para animales de compañía y pensiones. En el caso de los demás establecimientos y servicios, no será necesaria la presencia física del profesionista en el lugar, pero se deberá contar con sus servicios para los casos necesarios o de emergencia;
+
+V.- El personal contará con las certificaciones de capacitación en adiestramiento de animales para el caso de escuelas de adiestramiento o la acreditación de los conocimientos que se requiera en los demás casos, dependiendo la materia de cada establecimiento o servicio;
+
+VI.- Comunicar inmediatamente a la persona tutora responsable, en caso de que el animal bajo su cuidado enferme, se lesione o muera durante la prestación del servicio o su permanencia en el establecimiento; con el propósito de que la persona tutora conceda la autorización para el tratamiento veterinario o pueda pasar a recogerlo para que se le brinde la atención necesaria en otro lugar;
+
+VII.- Tomar las medidas necesarias para evitar contagios entre los animales residentes y del entorno, y
+
+VIII.- Los demás requisitos que establezca la legislación y la normatividad municipal.
 
 ### CAPITULO CUARTO. DE LA POSESION DE ANIMALES
 
@@ -456,6 +526,10 @@ Toda persona, tiene la obligación de brindar un trato digno y respetuoso a cual
 Se consideran actos de crueldad y maltrato contra cualquier animal:
 
 I.- Causarle la muerte innecesaria, utilizando cualquier medio que prolongue la agonía o provoque cualquier sufrimiento;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+I Bis.- Dar muerte a animales sanos en establecimientos públicos o privados, ya sean guarderías, hoteles para animales de compañía, pensión, refugios, escuelas de adiestramiento, clínicas veterinarias, centros de control animal y zoonosis, sin causa o motivo justificado. Se excluyen de esta prohibición los animales para consumo humano o aquellos para alimento vivo de alguna especie silvestre;
 
 II.- Cualquier mutilación, alteración a la integridad física o modificación negativa de sus instintos naturales, que no se efectúen bajo causa justificada y cuidado de un especialista o persona debidamente autorizada y que cuente con conocimientos en la materia;
 
@@ -549,9 +623,9 @@ XIII.- Mantener a los animales en azoteas, terrenos baldíos o propiedades aband
 
 XIV.- Someter a los animales a la exposición de ruidos, temperaturas, electricidad, aromas, vibraciones, luces o cualquier otro tipo de fenómenos físicos que les resulte perjudicial;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-XV.- La comercialización de animales enfermos, con lesiones, traumatismos, fracturas o heridas;
+XV.- La comercialización de animales enfermos, con lesiones, traumatismos, fracturas, heridas, mutilados con fines estéticos o con cualquier otra alteración en su integridad física;
 
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1452,3 +1526,11 @@ P.O. 27 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 215 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES Y DEL CÓDIGO PENAL, AMBOS DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 611 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Para la actualización de los datos de registro de personas prestadoras de servicio, guarderías, hoteles para animales de compañía, pensiones, refugios y escuelas de adiestramiento o entrenamiento en el Padrón Municipal de Animales, los municipios contarán con un término de sesenta días naturales contados a partir de la entrada en vigor de este Decreto.
