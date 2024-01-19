@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2023-08-04"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -1483,13 +1483,17 @@ XI.- Organizar servicios permanentes de promoción y asesoría de educación par
 
 XII.- Brindar cursos a los docentes y al personal que labora en los planteles de educación, sobre los derechos de los educandos y la obligación que tienen al estar encargados de su custodia, de protegerlos contra toda forma de maltrato, perjuicio, daño, agresión, abuso, trata o explotación;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-XIII.- Incluir en la educación especial la orientación a las madres y padres o tutores, así como también a las maestras o los maestros y personal de las escuelas de educación básica y media superior regulares que integren a los alumnos con necesidades especiales de educación, y
+XIII.- Incluir en la educación especial la orientación a las madres y padres o tutores, así como también a las maestras o los maestros y personal de las escuelas de educación básica y media superior regulares que integren a los alumnos con necesidades especiales de educación;
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-XIV.- Promover acciones para recuperar o dar continuidad a los planes y programas educativos, en caso de desastres naturales o contingencia sanitaria.
+XIV.- Promover acciones para recuperar o dar continuidad a los planes y programas educativos, en caso de desastres naturales o contingencia sanitaria, y
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XV.- Promover campañas para la concientización del correcto manejo de las redes sociales, mediante la participación de madres y padres de familia, así como de las y los trabajadores de la educación.
 
 > <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
 
@@ -1966,3 +1970,9 @@ P.O. 4 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE IMPLEMENTACIÓN DE ACCIONES EN DESASTRES NATURALES O CONTINGENCIAS SANITARIAS, PARA BRINDAR DE FORMA HABITUAL Y ORDINARIA, EL SERVICIO PÚBLICO EDUCATIVO",]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 67 BIS DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE MANEJO RESPONSABLE DE LAS REDES SOCIALES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
