@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-micro-pequena-y-mediana-empresa-para-el-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2023-12-20"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
@@ -155,13 +155,17 @@ XI. Promover esquemas para la modernización, transferencia de tecnología (sic)
 
 XII. Fortalecer la articulación del ecosistema de innovación y emprendedor a nivel estatal;
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-XIII. Crear un esquema integral y de fácil acceso a las MIPYMES, donde se presente el conjunto de apoyos, actividades de fomento y estímulo dedicados a este segmento; y
+XIII. Crear un esquema integral y de fácil acceso a las MIPYMES, donde se presente el conjunto de apoyos, actividades de fomento y estímulo dedicados a este segmento;
 
-> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-XIV. Promover en las MIPYMES la creación de nuevos servicios, productos o tecnologías; fomentar el acceso a la regulación y otorgamiento de patentes de invención, registros de modelos de utilidad, diseños industriales, esquemas de trazados de circuitos integrados, marcas y avisos comerciales, publicación de nombres comerciales, declaración de protección de denominaciones de origen e indicaciones geográficas.
+XIV. Promover en las MIPYMES la creación de nuevos servicios, productos o tecnologías; fomentar el acceso a la regulación y otorgamiento de patentes de invención, registros de modelos de utilidad, diseños industriales, esquemas de trazados de circuitos integrados, marcas y avisos comerciales, publicación de nombre (sic) comerciales, declaración de protección de denominaciones de origen e indicaciones geográficas; y
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XV. Fomentar la inclusión social y promover la equidad de género en el ámbito empresarial, contribuyendo a la construcción de un entorno más diverso, igualitario y representativo.
 
 ### CAPÍTULO SEGUNDO. DEL DESARROLLO DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
 
@@ -203,9 +207,9 @@ VIII. Orientar las acciones de acuerdo con el potencial, las necesidades y las v
 
 Para la ejecución de las políticas y acciones contenidas en el artículo anterior, deberán considerarse los siguientes rubros:
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-I. Capacitación y formación empresarial, así como de asesoría y consultoría para las MIPYMES, principalmente en temas fiscales y de seguridad social;
+I. Fomentar la capacitación y formación empresarial, así como la asesoría y consultoría a las MIPYMES, con un enfoque dual en áreas tanto urbanas como rurales, principalmente en asuntos fiscales y de seguridad social;
 
 II. Fortalecer y fomentar la formación de emprendedores, así como la constitución de incubadoras de empresas;
 
@@ -760,3 +764,11 @@ P.O. 20 DE DICIEMBRE DE 2023.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- La persona Titular del Poder Ejecutivo y del Consejo Estatal de Fomento a la Micro, Pequeña y Mediana Empresa contará con un plazo de 90 días hábiles, a partir de la entrada en vigor del presente Decreto, para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se otorgan por medio del mismo.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 491. SE REFORMAN LAS FRACCIONES XIII Y XIV DEL ARTÍCULO 4, LA FRACCIÓN I DEL ARTÍCULO 7; Y SE ADICIONAN LA FRACCIÓN XV AL ARTÍCULO 4, TODOS DE LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- La persona Titular del Poder Ejecutivo y el Consejo Estatal de Fomento a la Micro, Pequeña y Mediana Empresa contarán con un plazo de 90 días hábiles, a partir de la entrada en vigor del presente Decreto, para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se le otorgan por medio del mismo.
