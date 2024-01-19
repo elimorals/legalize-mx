@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-51381"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2023-03-31"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -223,6 +223,10 @@ XXIII.- Materias primas forestales: Los productos del aprovechamiento de los rec
 
 XXIV.- Ordenación forestal: La organización económica de un área forestal tomando en cuenta sus características silvícolas, que implica la división espacial y temporal de las actividades del manejo forestal;
 
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XXIV Bis.- Plaga forestal: La forma de vida vegetal o animal o agente patogénico, dañino o potencialmente dañino para los recursos forestales;
+
 XXV.- Plantación forestal comercial: El establecimiento, cultivo y manejo de la vegetación forestal, en terrenos temporalmente forestales o preferentemente forestales, cuyo objetivo principal es la producción de materias primas forestales destinadas a su industrialización y comercialización;
 
 > <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
@@ -415,9 +419,17 @@ XIX.- Denunciar ante las Autoridades competentes las infracciones o delitos que 
 
 XX.- Participar y coadyuvar en los programas integrales de prevención y combate a la extracción ilegal de recursos forestales y tala clandestina;
 
-XXI.- Regular y vigilar la disposición final de residuos provenientes de la extracción de materias primas forestales, en los términos establecidos en esta Ley; y
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-XXII.- La atención de los demás asuntos que en materia de desarrollo forestal sustentable, les conceda esta Ley y otros ordenamientos.
+XXI.- Regular y vigilar la disposición final de residuos provenientes de la extracción de materias primas forestales, en los términos establecidos en esta Ley;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XXII.- Prevenir, controlar y combatir las plagas y enfermedades forestales, y
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XXIII.- La atención de los demás asuntos que, en materia de desarrollo forestal sustentable, les conceda esta Ley y otros ordenamientos.
 
 ### CAPITULO II. DEL SECTOR PUBLICO ESTATAL FORESTAL
 
@@ -1983,7 +1995,9 @@ XI.- Carecer de la documentación o los sistemas de control establecidos para ac
 
 XII.- Incumplir con la obligación de dar los avisos o presentar los informes a que se refiere esta Ley;
 
-XIII.- Transportar, almacenar, transformar o poseer materias primas forestales, sin contar con la documentación o los sistemas de control establecidos para acreditar su legal procedencia;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XIII.- Transportar, comercializar, enajenar, distribuir, suministrar, acopiar, comprar, recibir, adquirir, resguardar, almacenar, transformar o poseer materias primas forestales, sin contar con la documentación o los sistemas de control establecidos para acreditar su legal procedencia;
 
 XIV.- Amparar materias primas forestales que no hubieran sido obtenidas de conformidad con las disposiciones de esta Ley, su Reglamento, Normas Técnicas Estatales o Normas Oficiales Mexicanas aplicables, a fin de simular su legal procedencia;
 
@@ -2011,11 +2025,33 @@ XXIII.- Utilizar más de una vez, alterar o requisitar inadecuadamente, la docum
 
 XXIII BIS.- La extracción, sin autorización, de recursos forestales maderables en áreas de protección forestal.
 
-XXIV.- Depositar residuos sólidos, que representen peligro de desequilibrio ecológico al ambiente; y
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XXIV.- Depositar residuos sólidos, que representen peligro de desequilibrio ecológico al ambiente;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XXV.- Incumplir con el manejo de combustibles en los terrenos forestales de acuerdo con lo previsto en la normatividad vigente;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XXVI.- Causar daño o deterioro grave a los ecosistemas forestales;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XXVII.- Introducir en terrenos forestales o preferentemente forestales, algún o algunos recursos forestales, o sus productos o derivados, que porten, padezcan o hayan padecido alguna enfermedad contagiosa; y que ocasionen o pueda ocasionar su diseminación o propagación;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XXVIII.- No llevar a cabo los trabajos previstos de restauración forestal o la aplicación de las medidas de mitigación, derivados de algún mandato legítimo de autoridad competente;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XXIX.- Depositar residuos peligrosos de manejo especial o residuos sólidos urbanos en terrenos forestales o preferentemente forestales, sin contar con la autorización debidamente expedida para ello, y
 
 > <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-XXV.- Cualquier otra contravención a lo dispuesto en la presente Ley o la Ley para la Protección al Ambiente del Estado de Hidalgo y demás ordenamientos aplicables.
+XXX.- Cualquier otra contravención a lo dispuesto en la presente Ley o la Ley para la Protección al Ambiente del Estado de Hidalgo y demás ordenamientos aplicables.
 
 ### CAPITULO VI. DE LAS SANCIONES
 
@@ -2214,3 +2250,15 @@ P.O. 31 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 493 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 602 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 152 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 606 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO Y DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
