@@ -4,7 +4,7 @@ identifier: "HID-ley-salvaguardia-y-fomento-artesanal-para-el-estado-de-143826"
 country: "mx"
 rank: "ley"
 publication_date: "2020-08-17"
-last_updated: "2020-08-17"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY SALVAGUARDIA Y FOMENTO ARTESANAL PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en el Alcance Uno al Número 33 del Periódico Oficial del Estado de Hidalgo, el lunes 17 de agosto de 2020.
 
@@ -399,6 +399,26 @@ El Fondo para la Salvaguardia y el Fomento Artesanal tendrá por objeto financia
 
 El Consejo brindará la asesoría necesaria para la obtención de financiamientos adecuados, cuando para ello fuere requerido.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE ENERO DE 2024)</small>
+
+### CAPÍTULO SEXTO. DE LOS MUNICIPIOS
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+###### Artículo 32.
+
+Para el cumplimiento de los objetivos de esta Ley, corresponde a los Municipios:
+
+I. Dar a conocer las artesanías y la producción artesanal como atractivo de identidad cultural comunitaria;
+
+II. Promover en ferias, fiestas y festivales municipales, la venta y exposiciones de artesanías;
+
+III. Celebrar convenios con otros municipios para la promoción de espacios regionales y pabellones para la comercialización de artesanías;
+
+IV. Vincular a artesanas y artesanos con el sector turístico nacional e internacional;
+
+V. Investigar, promover, gestionar y facilitar a artesanas y artesanos, la información relacionada con programas y apoyos para la producción artesanal.
+
 T R A N S I T O R I O S
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
@@ -440,3 +460,11 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 LIC. OMAR FAYAD MENESES
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 613 POR EL QUE SE ADICIONA UN CAPÍTULO SEXTO A LA LEY SALVAGUARDIA Y FOMENTO ARTESANAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
