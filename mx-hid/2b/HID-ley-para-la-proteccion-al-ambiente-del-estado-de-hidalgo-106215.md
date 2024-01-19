@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-106215
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-16"
-last_updated: "2023-06-30"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 16 de febrero de 2015.
 
@@ -189,6 +189,18 @@ XXXVII. FUENTE MÓVIL: Todo vehículo, ya sean tractocamiones, autobuses integra
 
 XXXVIII. GACETA ECOLÓGICA: La publicación gráfica de las disposiciones jurídicas, decretos, reglamentos, acuerdos y demás actos administrativos y la información de interés general de materia ambiental que emite la Secretaría;
 
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XXXVIII Bis. GEODIVERSIDAD: Elementos geológicos presentes en un lugar, como lo son los minerales, fósiles, suelos, rocas y sedimentos;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XXXVIII Ter. GEOPARQUES: Áreas singulares, geográficamente unificadas con lugares y paisajes geológicos de relevancia internacional que son gestionados desde una perspectiva holística de protección, educación y desarrollo sostenible;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XXXVIII Quater. GEOSITIO: Área delimitada en donde existen elementos de interés geológico, así como su relación con el territorio, pudiendo vincularse con otros patrimonios naturales y culturales.
+
 XXXIX. INCINERACIÓN: Tratamiento térmico, con o sin la recuperación de calor, producido por la combustión, incluyendo pirólisis, gasificación, plasma y cualquier otro proceso que genere dioxinas y furanos como subproductos;
 
 XL. INFORME PREVENTIVO: Documento mediante el cual se dan a conocer los datos generales de una obra o actividad para efectos de determinar si requiere ser evaluada a través de una manifestación de impacto ambiental;
@@ -247,7 +259,9 @@ LVIII. PATRIMONIO NATURAL: La biodiversidad, los ecosistemas o los monumentos na
 
 LVIII Bis. PERSONA CONCESIONARIA: A la persona física o moral del sector privado, a quien previo cumplimiento de los requisitos y del procedimiento que para tal efecto establezca la Secretaría, se le otorga una Concesión Administrativa para la Operación de Centros de Verificación Vehicular;
 
-LIX. PRESERVACIÓN ECOLÓGICA: El conjunto de políticas y medidas para mantener las condiciones que propician la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de su hábitat natural;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+LIX. PRESERVACIÓN ECOLÓGICA: El conjunto de políticas y medidas para mantener las condiciones que propician la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de su hábitat natural y la geodiversidad;
 
 LX. PRESTADOR DE SERVICIOS AMBIENTALES: Persona que elabora informes preventivos, manifestaciones o estudios de impacto ambiental o de riesgo, resultando responsable del contenido de los mismos;
 
@@ -305,7 +319,9 @@ LXXXV. ZONA DE RESTAURACIÓN: Aquella área que presente procesos de degradació
 
 LXXXVI. ZONA NÚCLEO: Son aquellas áreas mejor conservadas, o no alteradas, que alojen ecosistemas o recursos naturales de especial importancia y especies de flora y fauna;
 
-LXXXVII. ZONAS ECOLÓGICAS Y CULTURALES: Son aquéllas cuyo objetivo es proteger los entornos naturales de zonas, monumentos y vestigios arqueológicos, históricos y artísticos, así como zonas turísticas, y otras áreas para la recreación, la cultura e identidad de los pueblos indígenas que se desarrollan en el Estado; y
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+LXXXVII. ZONAS ECOLÓGICAS Y CULTURALES: Son aquéllas cuyo objetivo es proteger los entornos naturales de zonas, monumentos y vestigios arqueológicos, geológicos, históricos y artísticos, así como zonas turísticas, y otras áreas para la recreación, la cultura e identidad de los pueblos indígenas que se desarrollan en el Estado; y
 
 LXXXVIII. ZONAS DE PRESERVACIÓN ECOLÓGICA: Áreas constituidas por los municipios en zonas circunvecinas a los centros de población, en las que exista uno o más ecosistemas en buen estado de conservación, destinado a preservar los elementos naturales, necesarios para el funcionamiento de los ecosistemas y el bienestar general.
 
@@ -435,6 +451,12 @@ XLI. La administración del Fondo Ambiental del Estado de Hidalgo; y
 
 XLII. Las demás atribuciones que le confieran esta Ley, así como otras disposiciones legales y reglamentarias aplicables.
 
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+###### Artículo 6 Bis.
+
+Las autoridades estatales competentes, en términos de la normatividad en la materia, deberán emitir las disposiciones y restricciones que en materia de tránsito sean necesarias para la preservación del medio ambiente; y se obligan a cumplir y hacer cumplir, en el marco de sus atribuciones, los ordenamientos federales y estatales en materia de protección al ambiente, equilibrio ecológico y prevención y control de la contaminación generada por vehículos motorizados.
+
 ###### Artículo 7.
 
 Corresponde a la Procuraduría el ejercicio de las atribuciones que a continuación se establecen:
@@ -491,7 +513,9 @@ III. La aplicación de los principios e instrumentos de política ambiental prev
 
 IV. El establecimiento de un órgano administrativo ambiental, dentro de la estructura orgánica municipal;
 
-V. La expedición de permisos para la poda de árboles y limpieza de terrenos, en zonas urbanas y centros de población;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+V. La expedición de permisos para la poda, derribo o trasplante de árboles y limpieza de terrenos, en zonas urbanas y centros de población;
 
 VI. La participación en la formulación, aprobación y expedición de los planes de ordenamiento ecológico local del territorio, así como el control y la vigilancia del uso y cambio de uso del suelo, establecidos en dichos planes;
 
@@ -593,7 +617,9 @@ g) Obras y actividades en humedales, manglares, lagunas, ríos y lagos, así com
 
 h) Obras en áreas naturales protegidas de competencia de la Federación y actividades que por su naturaleza puedan causar desequilibrios ecológicos graves; así como actividades que pongan en riesgo el ecosistema.
 
-III. Proteger y preservar el suelo, la flora, la fauna silvestre y los recursos forestales;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+III. Proteger y preservar el suelo, la flora, la fauna silvestre, los recursos forestales y los geoparques;
 
 IV. Realizar las acciones para la protección, preservación y restauración del equilibrio ecológico y la protección al ambiente en la zona Federal de los cuerpos de agua considerados como nacionales;
 
@@ -1713,11 +1739,11 @@ Las superficies mejor conservadas de las áreas naturales protegidas, donde exis
 
 En las áreas naturales protegidas deberán determinarse la superficie o superficies que protejan la zona núcleo del impacto exterior, que serán señaladas como zonas de amortiguamiento, en donde sólo podrán realizarse las actividades establecidas en el Reglamento de la presente Ley en la materia, que sean estrictamente compatibles con los objetivos, criterios y programas de aprovechamiento sustentable, en los términos del decreto respectivo y del programa de manejo que se formule y expida, considerando las previsiones de los programas de ordenamiento ecológico que resulten aplicables.
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
 
 ###### Artículo 91 Bis.
 
-Es obligación de los municipios del Estado de Hidalgo asegurar la plantación, incremento, ampliación, desarrollo, conservación, mantenimiento, manejo, preservación, protección y restitución de los árboles en las áreas naturales protegidas que se encuentren dentro de su territorio; así como llevar a cabo un inventario de los árboles existentes en el Municipio e implementar campañas de concientización permanente sobre el valor de los árboles, para promover y garantizar el equilibrio ecológico, el desarrollo sostenible y el bienestar humano.
+Es obligación de los municipios del Estado de Hidalgo asegurar la plantación, incremento, ampliación, desarrollo, conservación, mantenimiento, manejo, preservación, protección y restitución de los árboles en las áreas naturales protegidas y en zonas urbanas que se encuentren dentro de su territorio; así como llevar a cabo un inventario de los árboles existentes en el Municipio e implementar campañas de concientización permanente sobre el valor de las especies arbóreas de la región, para promover y garantizar el equilibrio ecológico, el desarrollo sostenible y el bienestar humano.
 
 #### SECCIÓN SEGUNDA. ÁREAS NATURALES PROTEGIDAS
 
@@ -1943,9 +1969,11 @@ Corresponde al Estado a través de la Secretaría y a los Municipios, en el ámb
 
 La Secretaría, la Procuraduría y los Municipios, coadyuvarán con las autoridades competentes para la prevención y erradicación del tráfico de vida silvestre, de conformidad con la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
+
 ###### Artículo 123.
 
-Los Ayuntamientos, en el ámbito de su competencia y de conformidad con lo establecido en sus Reglamentos Municipales, podrán autorizar el derribo, poda o trasplante de árboles ubicados en bienes de dominio público o propiedad de particulares, para la salvaguarda de la integridad de las personas o sus bienes.
+Los Ayuntamientos, en el ámbito de su competencia y de conformidad con lo establecido en sus Reglamentos Municipales, podrán autorizar el derribo, poda o trasplante de árboles ubicados en bienes de dominio público o propiedad de particulares, para la salvaguarda de la integridad de las personas o sus bienes. En todos los casos, se deberá realizar la sustitución por otros que cumplan con las características necesarias para su adaptación a las condiciones ambientales urbanas y climáticas del sitio de plantación, a efecto de no generar daños a la infraestructura adyacente.
 
 ###### Artículo 124.
 
@@ -3702,3 +3730,15 @@ TERCERO. En relación al pago de derechos respecto de la Concesión Administrati
 CUARTO. La Secretaría de Medio Ambiente y Recursos Naturales de Hidalgo a fin de garantizar la continuidad de la prestación del servicio en los Centros de Verificación Vehicular en la Entidad, deberá emitir la convocatoria correspondiente conforme a las disposiciones establecidas en la Ley para Protección al Ambiente del Estado de Hidalgo, a fin de otorgar las Concesiones Administrativas suficientes para la Operación de un Centro de Verificación Vehicular que en derecho proceda al día siguiente de la publicación del presente Decreto.
 
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 614 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO Y DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 625 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación.
