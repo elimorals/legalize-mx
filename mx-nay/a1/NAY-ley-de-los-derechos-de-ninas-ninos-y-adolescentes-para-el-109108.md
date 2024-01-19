@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10910
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-08"
-last_updated: "2023-05-17"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el miércoles 8 de julio de 2015.
 
@@ -168,6 +168,10 @@ XXI. Programa Estatal: El Programa de Protección de Niñas, Niños y Adolescent
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
 
 XXII. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno, con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado mexicano forma parte y la Constitución Política del Estado Libre y Soberano de Nayarit;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XXII Bis. Redes sociales: Plataforma digital de comunicación a través de internet, por medio de la cual se genera un perfil personal para compartir información, imágenes, videos y publicaciones en general, para que sean accesibles a los usuarios de la plataforma;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
 
@@ -1073,9 +1077,9 @@ XVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que 
 
 XIX. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente; inculcando en ellos la adopción de estilos de vida sustentables, así como concientizarlos sobre las causas-efectos del cambio climático;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
+XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación, procurando generar campañas que incentiven el correcto manejo de las redes sociales;
 
 > <small>(REFORMADA, P.O. 17 DE MAYO DE 2023)</small>
 
@@ -1414,6 +1418,12 @@ El Estado garantizará a niñas, niños y adolescentes su integración a la soci
 ###### Artículo 92 Ter.
 
 Las niñas, niños y adolescentes tienen derecho al acceso y uso seguro del Internet como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+###### Artículo 92 Quater.
+
+Las autoridades estatales y municipales, en el ámbito de sus competencias, procurarán promover el manejo y uso responsable de las redes sociales de las niñas, niños y adolescentes, mediante el diseño y ejecución de políticas públicas en la materia.
 
 ## TÍTULO TERCERO. DE LAS OBLIGACIONES
 
@@ -2330,3 +2340,9 @@ SEGUNDO. En un plazo no mayor a 90 días hábiles posteriores a la entrada en vi
 TERCERO. Quedan derogadas todas las normas y disposiciones que se opongan al presente Decreto.
 
 CUARTO. Los procesos administrativos y judiciales de adopción y pérdida de patria potestad que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, se seguirán conforme a la normatividad aplicable al momento de su inicio, pero se podrá aplicar lo dispuesto en este Decreto en todo aquello que beneficie el interés superior de la niñez.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NAYARIT, EN MATERIA DE MANEJO RESPONSABLE DE LAS REDES SOCIALES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
