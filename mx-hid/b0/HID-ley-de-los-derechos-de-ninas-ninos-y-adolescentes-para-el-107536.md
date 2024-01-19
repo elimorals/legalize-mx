@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2024-01-17"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -87,7 +87,9 @@ El interés superior de la niñez deberá ser considerado de manera primordial e
 
 Cuando se tome una decisión que afecte a niñas, niños o adolescentes, en lo individual o colectivo, se deberán evaluar y ponderar las posibles repercusiones a fin de salvaguardar su interés superior y sus garantías procesales.
 
-Las autoridades estatales y municipales, en el ámbito de sus competencias, deberán incorporar, preferentemente en sus proyectos de presupuesto la asignación de recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
+
+Las autoridades estatales y municipales, en el ámbito de sus competencias, deberán incorporar, preferentemente en sus proyectos de presupuesto la asignación de recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley, atendiendo al principio constitucional del interés superior de la niñez.
 
 El Congreso del Estado Libre y Soberano de Hidalgo y las Asambleas Municipales, establecerán en sus respectivos presupuestos, los recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley.
 
@@ -2325,6 +2327,10 @@ X. Difundir entre las autoridades correspondientes y la población en general lo
 
 XI. Asesorar y apoyar a los gobiernos de los municipios, así como a las autoridades estatales que lo requieran para el ejercicio de sus atribuciones;
 
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XI BIS. Promover, en coordinación con los gobiernos locales y federal, programas y proyectos de capacitación dirigidos a servidores públicos en materia de respeto a los derechos humanos de niñas, niños y adolescentes.
+
 XII. Informar permanentemente cada cuatro meses al Sistema Estatal de Protección Integral y a su Titular, sobre sus actividades;
 
 XIII. Proporcionar la información necesaria al Consejo Nacional de Evaluación de la Política de Desarrollo Social [CONEVAL] y a la Unidad Técnica de Evaluación del Desempeño del Estado [UTED], para la evaluación de las políticas de desarrollo social vinculadas con la protección de niñas, niños y adolescentes;
@@ -2361,7 +2367,9 @@ La evaluación consistirá en revisar periódicamente el cumplimiento de metas y
 
 Los Sistemas Municipales serán presididos por las o los Presidentes Municipales y estarán integrados por las instancias y organismos municipales vinculados con la protección de los derechos de niñas, niños y adolescentes, contarán con una Secretaría Ejecutiva y garantizarán la participación de los sectores social y privado, así como de niñas, niños y adolescentes.
 
-La persona Titular de la Secretaría Ejecutiva será nombrada por la o el Presidente Municipal, quien deberá cumplir con los requisitos establecidos para la Secretaría Ejecutiva Estatal en el artículo 132 de esta Ley.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
+
+La persona Titular de la Secretaría Ejecutiva será nombrada por la presidenta o el presidente municipal, quien deberá cumplir con los requisitos establecidos para la Secretaría Ejecutiva Estatal en el artículo 132 de esta Ley, y deberá dedicarse exclusivamente al cumplimiento de las atribuciones y actividades propias de su encargo, conforme a lo dispuesto en el artículo 134 Bis de la presente Ley.
 
 La Secretaría Ejecutiva Municipal dependerá orgánicamente de la o el Presidente Municipal, como órgano desconcentrado.
 
@@ -2404,6 +2412,10 @@ XV. Vigilar la aplicación de los recursos asignados en el Presupuesto de Egreso
 XVI. Las demás que le encomiende la o el Presidente Municipal en su calidad de Presidente del Sistema Municipal de Protección, siempre y cuando se encuentren estrictamente vinculadas con su encargo.
 
 Para el debido cumplimiento de las atribuciones de la Secretaría Ejecutiva de los Sistemas de Protección Integral de Niñas, Niños y Adolescentes en los municipios, el Ayuntamiento deberá asegurar el presupuesto necesario.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+Cada municipio procurará destinar un área específica para la Secretaría Ejecutiva, la cual, en cumplimiento a lo dispuesto en el artículo 82, fracción XI de esta Ley, deberá contar con espacios lúdicos de descanso y aseo para niñas, niños y adolescentes; pudiendo coordinarse con el Sistema Municipal para el Desarrollo Integral de la Familia o cualquier otra autoridad municipal para tal efecto.
 
 ###### Artículo 135.
 
@@ -2688,3 +2700,9 @@ P.O. 17 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 597 POR EL QUE SE REFORMAN LOS ARTÍCULOS 100 BIS 4 Y 100 BIS 6 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 621 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO Y DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
