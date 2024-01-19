@@ -4,7 +4,7 @@ identifier: "HID-ley-de-coordinacion-para-el-desarrollo-metropolitano-del-69609"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-10"
-last_updated: "2023-05-29"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69609&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE COORDINACIÓN PARA EL DESARROLLO METROPOLITANO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de agosto de 2009.
 
@@ -135,45 +135,89 @@ El Consejo es el órgano jerárquico de consulta, opinión y decisión del plan,
 
 El Consejo se integrará de la siguiente manera:
 
-I.- El Gobernador del Estado, quien lo presidirá;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-II.- El Coordinador de Desarrollo Metropolitano del Estado de Hidalgo, quien fungirá como Secretario Técnico;
+I. La Persona Titular del Poder Ejecutivo del Estado, quien lo presidirá;
 
-III.- El Secretario de Gobierno;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-IV.- El Secretario de Finanzas;
+II. La o el Coordinador de Desarrollo Metropolitano del Estado de Hidalgo, quien fungirá como titular de la Secretaría Técnica;
 
-V.- El Secretario de Obras Públicas, Comunicaciones, Transportes y Asentamientos;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-VI.- El Secretario de Desarrollo Económico;
+III. La Persona Titular de la Secretaría de Gobierno;
 
-VII.- El Secretario de Planeación y Desarrollo Regional;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-VIII.- El Secretario de Educación Pública;
+IV. La Persona Titular de la Secretaría de Hacienda;
 
-IX.- El Secretario de Contraloría;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-X.- El Secretario de Salud;
+V. La Persona Titular de la Secretaría de Infraestructura y Desarrollo Urbano Sustentable;
 
-XI.- El Secretario de Seguridad Pública;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-XII.- El Procurador General de Justicia del Estado de Hidalgo;
+VI. La Persona Titular de la Secretaría de Desarrollo Económico;
 
-XIII.- Un representante del Congreso del Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-XIV.- Un representante de la SEDESOL del Gobierno Federal;
+VII. La Persona Titular de la Unidad de Planeación y Prospectiva;
 
-XV.- Un representante de la Universidad Autónoma del Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-XVI.- El Presidente de la Asociación de Municipios del Estado de Hidalgo;
+VIII. La Persona Titular de la Secretaría de Educación Pública;
 
-XVII.- Los Presidentes Municipales que integren las zonas metropolitanas; y
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-XVIII.- Los Organismos Públicos Descentralizados correspondientes a la materia.
+IX. La Persona Titular de la Secretaría de Contraloría;
 
-Por cada consejero propietario se podrá nombrar un suplente quien deberá estar debidamente acreditado, con los mismos derechos de los titulares.
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-A propuesta del Consejo podrán ser invitados a las sesiones, con derecho a voz pero sin voto, dos representantes del sector empresarial, dos representantes de Colegios de Profesionistas, dos ciudadanos especialistas en la materia, dos representantes de Organizaciones Civiles y dos representantes de Instituciones de Educación Superior.
+X. La Persona Titular de la Secretaría de Salud;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XI. La Persona Titular de la Secretaría de Seguridad Pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2024)</small>
+
+XII. La Persona Titular de la Secretaría de Medio Ambiente y Recursos Naturales;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XIII. La Persona Titular de la Procuraduría General de Justicia del Estado de Hidalgo;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XIV. La o el presidente de la Primera Comisión Permanente de Asuntos Metropolitanos del Congreso del Estado de Hidalgo;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XV. Una persona representante de la Secretaría de Bienestar del Gobierno Federal;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XVI. Una persona representante de la Universidad Autónoma del Estado de Hidalgo;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XVII. La o el presidente de la Asociación de Municipios del Estado de Hidalgo;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XVIII. Las y los presidentes municipales que integren las zonas metropolitanas; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE ENERO DE 2024)</small>
+
+XIX. Los Organismos Públicos Descentralizados correspondientes a la materia.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
+
+Por cada consejera o consejero propietario se podrá nombrar una persona suplente, quien deberá contar con la debida acreditación correspondiente, con los mismos derechos de las personas titulares.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
+
+A propuesta del Consejo podrán ser invitadas o invitados a las sesiones, con derecho a voz, pero sin voto, dos representantes del sector empresarial, dos representantes de Colegios de Profesionistas, dos personas especialistas en la materia, dos representantes de Organizaciones Civiles y dos representantes de Instituciones de Educación Superior.
 
 ###### Artículo 6.
 
@@ -198,6 +242,10 @@ VI.- Colaborar en la definición de los programas y acciones de construcción y 
 VII.- Fomentar la participación social en las acciones de desarrollo, prestación y mejoramiento de los servicios públicos metropolitanos;
 
 VIII.- Coadyuvar en la planeación y mejora de los servicios urbanos de agua potable, drenaje, alcantarillado, tratamiento de aguas residuales, medio ambiente y residuos sólidos del área metropolitana;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+VIII Bis.- Participar y colaborar en la planeación y ejecución de programas y acciones en materia de protección al ambiente, de preservación y restauración de equilibrio ecológico de las conurbaciones y zonas metropolitanas;
 
 IX.- Opinar y formular propuestas para el establecimiento y la concertación de programas de urbanización, infraestructura, vivienda, áreas industriales, comerciales y de servicios a nivel metropolitano;
 
@@ -606,5 +654,11 @@ P.O. 2 DE ABRIL DE 2018.
 P.O. 29 DE MAYO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 305 QUE REFORMA EL ARTÍCULO 26 DE LA LEY DE COORDINACIÓN PARA EL DESARROLLO METROPOLITANO DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 618 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN PARA EL DESARROLLO METROPOLITANO DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
