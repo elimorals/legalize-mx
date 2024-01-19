@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-agricola-sustentable-para-el-estado-de-51379"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2023-09-22"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 22 DE SEPTIEMBRE DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -167,13 +165,21 @@ VI.- Imponer las sanciones, infracciones y medidas de seguridad que correspondan
 
 VII.- Desarrollar programas de rescate genético de los productos agrícolas, así como su supervisión y control de calidad, de especies naturales y agrícolas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-VIII.- Priorizar dentro de sus acciones y programas, el aprovechamiento sustentable de las tierras de temporal, considerando las características del cambio climático, la regularidad de los ciclos pluviales y demás condiciones naturales favorables a la producción agrícola, con el objeto de un adecuado y oportuno aprovechamiento de los recursos de que se dispongan para la agricultura de temporal; y
+VIII.- Priorizar dentro de sus acciones y programas, el aprovechamiento sustentable de las tierras de temporal, considerando las características del cambio climático, la regularidad de los ciclos pluviales y demás condiciones naturales favorables a la producción agrícola, con el objeto de un adecuado y oportuno aprovechamiento de los recursos de que se dispongan para la agricultura de temporal;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+IX.- Impulsar acciones encaminadas a la prevención, manejo, control y erradicación de plagas;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+X.- Fomentar las Buenas Prácticas Agrícolas en el uso de plaguicidas, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE MAYO DE 2018)</small>
 
-IX.- Las demás que señale la presente Ley, su Reglamento y demás disposiciones legales aplicables.
+XI.- Las demás que señale la presente Ley, su Reglamento y demás disposiciones legales aplicables.
 
 ###### ARTICULO 7.
 
@@ -229,6 +235,10 @@ I.- Agricultura Familiar: Forma de organizar la agricultura, ganadería, silvicu
 
 II.- Análisis de suelos: Es una técnica de análisis desde el punto de vista agronómico y medio ambiental que permite conocer el estado de fertilidad del suelo y su condición fisicoquímica, para hacer recomendaciones de abonado y fertilizantes orientados a obtener cosechas de calidad y altos rendimientos, con bajos niveles de afectación al medio ambiente.
 
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+II Bis.- Buenas Prácticas Agrícolas: Aquellos usos recomendados oficialmente o autorizados a nivel nacional en las condiciones existentes, para combatir las plagas de manera eficaz y fiable. Abarca una variedad de niveles de aplicaciones de plaguicida hasta la concentración más elevada de uso autorizado.
+
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
 III.- Cultura tradicional: El conjunto de rasgos étnicos, espirituales, materiales, intelectuales y afectivos, que caracterizan a una sociedad o a un grupo social, que incluye en particular, los modos de vida y la producción de bienes económicos y simbólicos, los sistemas de valores, las creencias, las opiniones, usos y costumbres
@@ -268,6 +278,14 @@ XI.- Ley: La Ley de Desarrollo Agrícola Sustentable para el Estado de Hidalgo.
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
 XII.- Organización Social Productiva: Todos los organismos económicos que agrupan a varios productores rurales o a más de un grupo operante y que realizan actividades productivas de tipo agrícola.
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XII Bis.- Plaga: Forma de vida vegetal o animal o agente patógeno, dañino o potencialmente dañino para los recursos forestales;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XII Ter.- Plaguicida: Cualquier sustancia o mezcla de sustancias con ingredientes químicos o biológicos destinados a repeler, matar o controlar cualquier plaga o regular el crecimiento de las plantas.
 
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
@@ -1420,3 +1438,9 @@ P.O. 18 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 552 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 606 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO Y DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
