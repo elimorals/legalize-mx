@@ -4,7 +4,7 @@ identifier: "HID-ley-de-vivienda-del-estado-de-hidalgo-82368"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-18"
-last_updated: "2023-06-15"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82368&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE VIVIENDA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del estado de Hidalgo, el lunes 18 de julio de 2011.
 
@@ -119,9 +119,13 @@ VI Ter. Espacios Habitables: el lugar de la vivienda donde se desarrollan activi
 
 VII. Estímulos: Las medidas de carácter jurídico, administrativo, fiscal o financiero que establezcan los diferentes órdenes de gobierno para promover y facilitar la participación de los sectores social y privado, en la ejecución de acciones, procesos o programas de suelo habitacional y de vivienda popular, económica y de interés social;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE ENERO DE 2024)</small>
 
-VIII. Grupos Sociales en Situación de Vulnerabilidad: Aquellos núcleos de población y personas que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impide alcanzar mejores niveles de vida y por lo tanto, requieren de la atención e inversión prioritarias del Gobierno para lograr su bienestar;
+VIII. Grupos Sociales en Situación de Vulnerabilidad: Aquellos núcleos de población y personas que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impide alcanzar mejores niveles de vida y por lo tanto, requieren de la atención e inversión prioritarias del Gobierno para lograr su bienestar.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+Para todos los efectos que correspondan a la aplicación de esta Ley, dentro de este rubro deberán considerarse a las mujeres jefas de familia, entendidas como tal a las mujeres que enfrentan de manera directa y preponderante la responsabilidad sobre los hijos, independientemente de su condición civil y del tipo de hogar en el que viven.
 
 IX. Mejoramiento de la Vivienda: Acción tendiente a consolidar o renovar las viviendas deterioradas, física o funcionalmente, mediante actividades de ampliación, reparación, reforzamiento estructural o rehabilitación que propicien una vivienda digna y decorosa;
 
@@ -1203,7 +1207,9 @@ III. Ofrecer apoyos y asistencia técnica, social, jurídica y financiera que co
 
 IV. Atender preferentemente a la población de bajos recursos económicos; y
 
-V. Considerar preferentemente a la mujer como base de la familia, en las acciones de fomento y apoyo, otorgándoles el poder de decisión con relación al ahorro, el crédito y el subsidio para la adquisición de vivienda.
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+V. Considerar preferentemente a la mujer como jefa de familia, en las acciones de fomento y apoyo, otorgándoles el poder de decisión con relación al ahorro, el crédito y el subsidio para la adquisición de vivienda.
 
 ###### Artículo 70.
 
@@ -1428,3 +1434,9 @@ El Ejecutivo del Estado deberá expedir su correspondiente Reglamento en un tér
 ###### ARTÍCULO CUARTO.
 
 En tanto se expidan las disposiciones administrativas que se deriven de la presente Ley, seguirán en vigor las que han regido hasta ahora en lo que no la contravengan.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 601 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
