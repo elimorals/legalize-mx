@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2023-08-18"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -165,7 +165,9 @@ En la observación y aplicación de esta Ley, son principios rectores los siguie
 
 I.- Autonomía y Autorrealización.- Todas las acciones que se realicen en beneficio de las personas adultas mayores tendientes a fortalecer su independencia personal, su capacidad de decisión, su desarrollo personal y comunitario;
 
-II.- Participación.- En todos los casos de la vida pública y en especial en lo relativo a los aspectos que les atañen directamente, las personas adultas mayores deberán ser consultados (sic) y tomados (sic) en cuenta y se promoverá su presencia e intervención;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+II.- Participación.- Implica la inserción de las personas adultas mayores en todos los órdenes de la vida pública. En los ámbitos de su interés serán consultados y tomados en cuenta; asimismo se promoverá su presencia e intervención;
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
@@ -235,7 +237,19 @@ VII.- Derecho a la asistencia social.- Por tanto, se reconoce que tienen derecho
 
 VIII.- Derecho a constituir organizaciones.- Conformar organizaciones con la finalidad de promover su desarrollo e inducir a las acciones dirigidas a este sector;
 
-IX.- Derecho a la Participación.- A participar en la planeación integral del desarrollo social, tanto en los programas como en las acciones relativas a los adultos mayores;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 19 DE ENERO DE 2024)</small>
+
+IX.- Derecho a la participación.- Por tanto, se considera que las personas adultas mayores tienen derecho a:
+
+a) Participar en la planeación integral del desarrollo social, a través de la formulación y aplicación de las decisiones que afecten directamente a su persona o al entorno en el que vive;
+
+b) Asociarse y conformar organizaciones de personas adultas mayores para promover su desarrollo e incidir en las acciones dirigidas a este sector;
+
+c) Participar en los procesos productivos, de educación, de capacitación y compartir sus conocimientos y habilidades con las generaciones más jóvenes y con su comunidad;
+
+d) Participar en la vida cultural, deportiva y recreativa de su comunidad, y
+
+e) Formar parte de los diversos órganos de representación y consulta ciudadana, en los términos de la normativa correspondiente.
 
 X.- Derecho al Esparcimiento y Diversión.- Gozar de los espacios de esparcimiento, entretenimiento y diversión, que promuevan los Gobiernos Estatal y Municipal y la Sociedad Civil, en materia turística de cultura y recreación;
 
@@ -1066,3 +1080,9 @@ P.O. 18 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 557 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 7 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 599 POR EL QUE SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 6 Y LA FRACCIÓN IX DEL ARTÍCULO 7 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación.
