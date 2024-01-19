@@ -4,7 +4,7 @@ identifier: "HID-ley-de-la-juventud-del-estado-de-hidalgo-60046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2023-08-18"
+last_updated: "2024-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -51,17 +51,39 @@ QUE CONTIENE LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO
 
 ### CAPÍTULO ÚNICO. DEL OBJETO Y ÁMBITO DE APLICACIÓN DE LA LEY
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2024)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto normar las medidas y acciones que contribuyan al desarrollo integral de la juventud del Estado de Hidalgo.
+La presente Ley es de orden público, interés social y de observancia general en el Estado de Hidalgo; y tiene por objeto:
 
-La presente Ley va dirigida a jóvenes menores y mayores de edad, lo cual debe ser considerado en la aplicación de la misma.
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+I. Garantizar los derechos de las personas jóvenes que habitan en el Estado;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+II. Desarrollar las políticas, medidas y acciones que contribuyan al desarrollo integral de las personas jóvenes en el Estado;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+III. Desarrollar en la población una cultura de conocimiento y participación en temas relacionados con la juventud; y
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+IV. Establecer mecanismos de participación activa de las personas jóvenes en cualquier ámbito en el que se desarrollen, les afecte o sea de su interés.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
+
+La presente Ley va dirigida a personas jóvenes menores y mayores de edad, lo cual debe ser considerado en la aplicación de la misma.
 
 ###### Artículo 2.
 
 Para efectos de esta Ley se entiende por:
 
-I.- Joven.- Hombres o mujeres con edad comprendida entre los doce y veintinueve años;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+I.- Jóvenes. Personas comprendidas entre los doce y veintinueve años de edad;
 
 II.- Estado.- Estado Libre y Soberano de Hidalgo;
 
@@ -73,7 +95,9 @@ V.- Instituto.- Instituto Hidalguense de la Juventud;
 
 VI.- Junta de Gobierno.- Junta de Gobierno del Instituto Hidalguense de la Juventud;
 
-VII.- Director.- Director del Instituto Hidalguense de la Juventud;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+VII.- Director. Persona titular del Instituto Hidalguense de la Juventud;
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2019)</small>
 
@@ -197,11 +221,11 @@ Las Dependencias y Entidades de los Gobiernos Estatal, Municipal y Organismos P�
 
 #### SECCIÓN SEGUNDA. DEL DERECHO A LA NO DISCRIMINACIÓN
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
 
 ###### Artículo 11.
 
-Los jóvenes tienen reconocidos sus derechos y no deberá hacerse ningún tipo de discriminación en razón de género, la edad, la religión, las opiniones, la lengua, el estado civil, la preferencia sexual, la afiliación política, el origen étnico o nacional, el color de piel, la cultura, las discapacidades, la condición social, económica, de salud, jurídica o cualquiera otra condición o motivo que atente contra la dignidad humana y tenga por objeto anular o menoscabar sus derechos y libertades.
+Las personas jóvenes tienen reconocidos sus derechos y no deberá hacerse ningún tipo de discriminación en razón de su sexo, identidad o expresión de género, edad, religión, opiniones, lengua, estado civil o familiar, orientación sexual, características sexuales, afiliación política, origen étnico o nacional, color de piel, cultura, discapacidades, condición social, económica, de salud, jurídica o cualquier otra condición o motivo que atente contra la dignidad humana o impida el goce de sus derechos y libertades.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE OCTUBRE DE 2022)</small>
 
@@ -415,7 +439,9 @@ I.- Lograr que los jóvenes puedan adquirir conocimientos prácticos sin suspend
 
 II.- Consolidar su incorporación a la actividad económica mediante una ocupación específica y formal, promoviendo su contratación en el sector público o privado; y
 
-III.- Establecer mecanismos para garantizar los derechos de los jóvenes en el área laboral, sin menospreciar su condición social, económica su religión, opinión, raza, color, sexo, edad, orientación sexual y lengua.
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+III.- Establecer mecanismos para garantizar los derechos de las personas jóvenes en el área laboral, sin menospreciar su condición física, social, económica, su religión, opinión, raza, color, sexo, edad, estado civil o familiar, origen étnico o nacional, identidad o expresión de género, orientación sexual, características sexuales y lengua.
 
 La primera experiencia laboral se entenderá como el proceso de integración de los jóvenes de catorce a veintinueve años de edad al mercado laboral, el cual permitirá a la persona joven participar en procesos de capacitación y formación laboral.
 
@@ -1318,3 +1344,9 @@ P.O. 18 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 566 POR EL CUAL SE REFORMA EL ARTÍCULO 17 DE LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 605 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
