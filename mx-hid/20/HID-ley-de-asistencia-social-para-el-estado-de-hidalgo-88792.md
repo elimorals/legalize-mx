@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asistencia-social-para-el-estado-de-hidalgo-88792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-30"
-last_updated: "2024-01-16"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2012.
 
@@ -774,6 +774,10 @@ XXI.- Establecer prioridades en materia de asistencia social;
 XXII.- Promover y prestar servicios de asistencia social a los sujetos señalados en el artículo 7 de la presente Ley, con excepción de aquellos que padezcan enfermedad mental y los indigentes, los cuales deberán ser atendidos por la Secretaría de Salud en el Estado de Hidalgo;
 
 XXIII.- Proporcionar asistencia social de carácter integral, impulsando el desarrollo y bienestar de la familia y comunidad mediante su participación corresponsable en acciones que se lleven a cabo en su propio beneficio;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XXIII Bis.- El Organismo podrá otorgar una Canasta de Maternidad para madres embarazadas, con insumos para el cuidado del bebé. Para el acceso y entrega de esta prestación, deberá diseñar reglas de operación que procuren otorgarla preferentemente a mujeres que no cuenten con seguridad social o provengan de regiones o contextos con mayor vulnerabilidad, y que hayan iniciado su control prenatal ante las instancias competentes;
 
 XXIV.- Prevenir y atender la problemática social que presenta la población en situación de riesgo o de vulnerabilidad;
 
@@ -1628,3 +1632,11 @@ SEGUNDO. Las autoridades estatales competentes contarán con un plazo de ciento 
 TERCERO. Las autoridades municipales contarán con un plazo de ciento veinte días a partir de la entrada en vigor del presente, para efecto de elaborar, armonizar o actualizar la normativa correspondiente, conforme a lo aprobado en este Decreto.
 
 CUARTO. Los Ayuntamientos del Estado de Hidalgo que con motivo de la entrada en vigor del presente Decreto lleven a cabo la descentralización de sus Organismos Municipales, contarán con un plazo de ciento veinte días naturales a partir de la entrada en vigor del presente, para realizar las adecuaciones y previsiones administrativas, financieras y presupuestales, a efecto de dar cumplimiento a lo aprobado.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 596 POR EL QUE SE ADICIONA LA FRACCIÓN XXIII BIS AL ARTÍCULO 26 DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. La implementación de la fracción XXIII Bis del artículo 26 que se aprueba en este Decreto estará sujeta a la disponibilidad presupuestal del Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo.
