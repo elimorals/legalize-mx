@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-entrega-recepcion-para-el-estado-de-nuevo-leon-140766"
 country: "mx"
 rank: "ley"
 publication_date: "2020-02-05"
-last_updated: "2020-02-05"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ENTREGA RECEPCIÓN PARA EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en el Número 15 del Periódico Oficial del Estado de Nuevo León, el miércoles 5 de febrero de 2020.
 
@@ -199,7 +199,9 @@ IX. Informe de los recursos materiales, que estará conformado por la relación 
 
 X. Informe de los asuntos jurídicos en los que intervenga el ente público, tales como amparos, juicios fiscales y contencioso-administrativos, asuntos penales, civiles, laborales, acuerdos, contratos y convenios administrativos vigentes, concejos, comités, fideicomisos, patronatos, asociaciones, relación de beneficiarios de los programas federales y estatales, relación de bienes embargados y decomisados por el ente público, relación de inmuebles desafectados;
 
-XI. Sistemas electrónicos y otros activos intangibles, incluyendo las claves institucionales para su acceso que contengan información del ente público; y
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XI. Sistemas electrónicos y otros activos intangibles, incluyendo las claves institucionales para su acceso que contengan información del ente público y las credenciales de acceso a las cuentas institucionales de redes sociales con las que cuente el ente público; y
 
 XII. La demás información que se estime conveniente.
 
@@ -318,3 +320,11 @@ EL C. CONTRALOR GENERAL DE LA CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL
 GERARDO GUAJARDO CANTÚ
 
 LA PRESENTE HOJA DE FIRMAS CORRESPONDE A LA PROMULGACIÓN DEL DECRETO NÚM. 212 EXPEDIDO POR EL H. CONGRESO DEL ESTADO, LXXV LEGISLATURA, EN FECHA 09 DE DICIEMBRE DE 2019, REMITIDO AL PODER EJECUTIVO EL DIA 18 DE DICIEMBRE DE 2019.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 474. SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 17 DE LA LEY DE ENTREGA RECEPCIÓN PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
