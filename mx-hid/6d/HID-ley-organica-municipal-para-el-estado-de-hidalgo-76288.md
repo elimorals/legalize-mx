@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2024-01-17"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "HID"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 4 DE JUNIO DE 2024 Y EL 15 DE JULIO DE 2024 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -111,6 +109,10 @@ I BIS.- Casas de cultura: Los espacios físicos donde se ejercen derechos artís
 
 I TER.- Audiencia Pública: instrumento de participación por medio del cual los ciudadanos y ciudadanas, habitantes de un municipio, dialogan con los y las integrantes del Ayuntamiento respecto de cualquiera de los asuntos concernientes al gobierno municipal.
 
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+I QUATER.- Cabildo Infantil y Juvenil: instrumento de participación ciudadana mediante el cual las niñas, niños, o en su caso, las y los jóvenes desarrollarán su interés por la cultura cívica, política y democrática, a través de un espacio interactivo diseñado para la libre manifestación de ideas, opiniones, debate, diálogo y análisis de problemáticas, necesidades o proyectos de solución para el desarrollo y bienestar del municipio.
+
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
 II.- Comisiones del Ayuntamiento: Grupos de personas que ocupan las regidurías las cuales estarán integradas por el área de competencia o de servicios designados por mayoría;
@@ -157,13 +159,17 @@ VIII TER.– Presupuesto participativo: Instrumento de participación ciudadana 
 
 IX.- Servidora o Servidor Público: Personas representantes de elección popular y en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública municipal; y todas aquéllas que manejen o apliquen recursos económicos municipales, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones;
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-X.- Concejal: La persona integrante del Concejo Municipal; y
+X.- Concejal: La persona integrante del Concejo Municipal;
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-XI.- Vecino o vecina: Persona que tuviere, por lo menos, un año de residencia en el Estado.
+XI.- Vecino o vecina: Persona que tuviere, por lo menos, un año de residencia en el Estado, y
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XII.- Gaceta Municipal: Medio informativo del Ayuntamiento por el cual se dará a conocer todo lo relativo a las sesiones llevadas por el mismo y contemplará también lo relativo al trabajo realizado en comisiones.
 
 ###### ARTÍCULO 7.
 
@@ -653,6 +659,10 @@ Todos los funcionarios del Municipio al tomar posesión de sus cargos, rendirán
 
 Los miembros integrantes del Ayuntamiento y demás servidores públicos Municipales, estarán obligados a comparecer ante el Congreso del Estado, cuando la Legislatura estime necesario recabar alguna información relativa a los Ayuntamientos. Asimismo, el Congreso proporcionará información, asistencia técnica y asesoría a los integrantes del Ayuntamiento, cuando tengan necesidad de ella y con la finalidad de atender asuntos específicos.
 
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+ARTÍCULO 44 BIS. Previo acuerdo de sus integrantes, a las sesiones del Ayuntamiento deberán comparecer las personas servidoras públicas municipales cuando se trate de asuntos de su competencia. Tal comparecencia será convocada por la presidenta o presidente municipal, a propuesta de cualquier integrante del Ayuntamiento.
+
 ### CAPÍTULO TERCERO. DEL FUNCIONAMIENTO DE LOS AYUNTAMIENTOS
 
 ###### ARTÍCULO 45.
@@ -775,9 +785,35 @@ El Ayuntamiento deberá normar su actuar con base en su Reglamento Interior y a 
 
 La falta de los regidores propietarios por defunción, inhabilitación, renuncia o licencia, será cubierta por los suplentes respectivos, quienes serán convocados para que se presenten a ejercer sus funciones, a más tardar en un término de cinco días, a partir de la fecha del acuerdo.
 
-### CAPÍTULO CUARTO. DE LA ACCIÓN CÍVICA Y CULTURAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE ENERO DE 2024)</small>
 
-### CAPÍTULO QUINTO. FACULTADES Y OBLIGACIONES DE LOS AYUNTAMIENTOS
+### CAPÍTULO TERCERO BIS. DE LA GACETA MUNICIPAL Y LA DIFUSIÓN DE LOS ACTOS DEL AYUNTAMIENTO
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+ARTÍCULO 54 BIS.- La Gaceta Municipal será publicada en la página de internet oficial del Ayuntamiento y promovida por todos los medios digitales y convencionales disponibles y pertenecientes a la administración pública, con la periodicidad que determine el reglamento que la regule.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+ARTÍCULO 54 TER.- La Gaceta Municipal deberá contener:
+
+I. Todas las convocatorias a sesiones ordinarias, extraordinarias, especiales y solemnes;
+
+II. El proyecto del orden del día de la sesión correspondiente;
+
+III. Los documentos que den sustento a los asuntos a tratar en las sesiones, salvo aquellos que por su naturaleza tengan carácter de privado;
+
+IV. Todos los resolutivos de los asuntos tratados en las sesiones correspondientes;
+
+VI (SIC). La agenda de los trabajos de las comisiones, y
+
+VII. Las circulares de carácter general.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+ARTÍCULO 54 QUATER.- La publicación de la Gaceta Municipal no exime al Ayuntamiento de las publicaciones que, conforme a la Ley en la materia, debe realizar en el Periódico Oficial del Estado, conforme a los procedimientos correspondientes.
+
+### CAPÍTULO CUARTO. DE LA ACCIÓN CÍVICA Y CULTURAL
 
 ###### ARTÍCULO 55.
 
@@ -799,7 +835,7 @@ ARTÍCULO 55 BIS.- En función del presupuesto destinado al rubro, en las biblio
 
 Asimismo, se establecerá en las bibliotecas municipales un lugar reservado para la información y documentación representativa sobre las lenguas y literatura indígena, así como las actividades que garanticen el desarrollo, preservación, conservación de la cultura de los pueblos y comunidades indígenas.
 
-### CAPÍTULO SEXTO. FACULTADES Y OBLIGACIONES DE LOS PRESIDENTES MUNICIPALES
+### CAPÍTULO QUINTO. FACULTADES Y OBLIGACIONES DE LOS AYUNTAMIENTOS
 
 ###### ARTÍCULO 56.
 
@@ -881,6 +917,10 @@ s BIS) De acuerdo con su capacidad presupuestal, instrumentar la figura de presu
 
 s TER).- Conforme a la suficiencia presupuestal, participar y coadyuvar con el mantenimiento de los planteles educativos y las provisiones de los servicios de seguridad, agua, energía eléctrica y equipo básico para el funcionamiento de los mismos.
 
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+s QUATER) Organizar el Cabildo Infantil y Juvenil, para lo cual el Ayuntamiento deberá emitir el reglamento y la convocatoria correspondiente.
+
 t).- Autorizar al Presidente Municipal, la celebración de contratos con particulares e instituciones oficiales, sobre asuntos de interés público, en los términos de Ley. Al efecto, los Ayuntamientos están facultados para obligarse crediticiamente a través del Presidente Municipal; en este caso, se deberán observar los criterios de aprobación establecidos en esta Ley, así como en las disposiciones de la materia.
 
 Los municipios, sólo podrán contraer deuda pública cuando esta se destine a inversión pública productiva en términos de la legislación aplicable. No constituirán deuda pública, las obligaciones directas a corto plazo que contraigan los municipios y que reunan los requisitos exigidos por la legislación vigente.
@@ -897,9 +937,9 @@ v).- Prevenir y sancionar, con el auxilio de las autoridades competentes, el alc
 
 w).- Autorizar al Presidente Municipal para solicitar al Gobernador, la expropiación de bienes por causa de utilidad pública que previene la Constitución Política del Estado;
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
 
-x).- Prevenir, combatir, controlar y remediar en proporción, a la posibilidad de sus recursos, la contaminación ambiental, garantizando la remediación de los pasivos ambientales que se generen durante su administración que garantice la protección de la salud pública;
+x) Desempeñar sus facultades con un enfoque de sustentabilidad en la prestación de los servicios públicos y otras materias que les corresponden y aprobar su Agenda Verde Municipal, dentro de los ciento ochenta días naturales posteriores al inicio de la administración municipal, debiendo considerar las acciones necesarias para prevenir, combatir, controlar y remediar en proporción, a la posibilidad de sus recursos, la contaminación ambiental, garantizando la remediación de los pasivos ambientales que se generen durante su administración que garantice la protección de la salud pública;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -958,6 +998,10 @@ hh).- Promover condiciones para la participación de los municipios con el Estad
 > <small>(ADICIONADO, P.O. 17 DE ENERO DE 2024)</small>
 
 ii).- Evaluar la terna propuesta por la Contraloría en términos de la fracción XII Bis del artículo 106, y designar a los auditores externos mejor calificados para los efectos correspondientes.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+ii (sic)).- Previa aprobación de sus miembros, llamar a comparecer a cualquier persona servidora pública de su municipio.
 
 II.- Asimismo, podrán:
 
@@ -1165,7 +1209,7 @@ La concurrencia comprende la elaboración, ejecución y operación de programas,
 
 En estricto apego a la Ley de Catastro y su Reglamento, los Municipios, en coordinación con el Congreso del Estado, adoptarán las medidas conducentes, a fin de que los valores unitarios del suelo que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria sean equiparables a los valores de mercado de dicha propiedad y procederán, en su caso, a realizar las adecuaciones correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
 
-### CAPÍTULO SÉPTIMO. DE LOS SÍNDICOS
+### CAPÍTULO SEXTO. FACULTADES Y OBLIGACIONES DE LOS PRESIDENTES MUNICIPALES
 
 ###### ARTÍCULO 59.
 
@@ -1195,13 +1239,9 @@ f).- Autorizar a la Tesorería Municipal, las órdenes de pago, conforme al Pres
 
 g).- Constituir el Comité de Planeación del Desarrollo Municipal, con la participación de representantes de los sectores público, social y privado, y de profesionistas y técnicos que residan dentro de su territorio; así como el Comité de Desarrollo Urbano Municipal, en los términos del Reglamento respectivo;
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
 
-h) Cumplir con el Plan Estatal de Desarrollo, el del Municipio y los programas sectoriales, regionales y especiales aprobados, respecto a lo que se refiere a su Municipio. A más tardar, noventa días después de tomar posesión de su cargo, el Presidente Municipal deberá presentar un Plan Municipal de Desarrollo Urbano que contenga los Planes de Desarrollo Rural para los Pueblos y Comunidades Indígenas en caso de contar con población indígena reconocida así como, el que corresponda al desarrollo agropecuario municipal;
-
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2023)</small>
-
-Asimismo, contará hasta con ciento ochenta días naturales para presupuestar, gestionar lo conducente, ordenar la elaboración y aprobar en sesión de cabildo, el Atlas Municipal de Riesgos correspondiente o en su caso, actualizarlo durante su gestión.
+h) Asimismo, contará hasta con ciento ochenta días naturales para presentar su Agenda Verde Municipal en términos del Reglamento respectivo; así como para presupuestar, gestionar lo conducente, ordenar la elaboración y aprobar en sesión de cabildo, el Atlas Municipal de Riesgos correspondiente o en su caso, actualizarlo durante su gestión.
 
 i).- Coadyuvar con las Autoridades Federales en la aplicación y cumplimiento de las disposiciones previstas en los Artículos 27 y 30 de la Constitución Política de los Estados Unidos Mexicanos, de acuerdo a su normatividad interna;
 
@@ -1277,13 +1317,17 @@ hh).- Tratándose de municipios pertenecientes a Zonas Metropolitanas, elaborar 
 
 ii) Promover la armonización normativa en materia de derechos humanos;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
 
-jj) Establecer programas de sensibilización y capacitación dirigido a las y los servidores públicos municipales y a la población en general dirigidos a modificar los roles y estereotipos sociales que reproduzcan la violencia de género, difundir los derechos humanos de mujeres y hombres y la resolución pacífica de conflictos; y
+jj) Establecer programas de sensibilización y capacitación dirigido a las y los servidores públicos municipales y a la población en general dirigidos a modificar los roles y estereotipos sociales que reproduzcan la violencia de género, difundir los derechos humanos de mujeres y hombres y la resolución pacífica de conflictos;
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
 
-kk) Elaborar, en concordancia con la legislación y programas nacionales y estatales, el Programa Municipal para la Igualdad y No Discriminación, considerando las disposiciones específicas en materia de prevenir, atender y eliminar la discriminación, así como en materia de igualdad entre mujeres y hombres, dentro de los tres primeros meses del inicio de la Administración Municipal, en concordancia con la respectiva presentación del Plan de Desarrollo.
+kk) Elaborar, en concordancia con la legislación y programas nacionales y estatales, el Programa Municipal para la Igualdad y No Discriminación, considerando las disposiciones específicas en materia de prevenir, atender y eliminar la discriminación, así como en materia de igualdad entre mujeres y hombres, dentro de los tres primeros meses del inicio de la Administración Municipal, en concordancia con la respectiva presentación del Plan de Desarrollo, y
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+ll) Convocar a sesión del ayuntamiento, para llevar a cabo la comparecencia de las personas servidoras públicas que hayan sido citados por el ayuntamiento de conformidad con el artículo 44 BIS de la presente Ley.
 
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1415,7 +1459,7 @@ II.- El Presidente sustituido se reincorpore a ejercer el cargo.
 
 Cuando el Presidente sustituto se niegue a entregar el cargo incurrirá en responsabilidad, en este caso el titular dará aviso a los integrantes del Ayuntamiento, para que se le restituya en el cargo, con la intervención del Congreso del Estado.
 
-### CAPÍTULO OCTAVO. DE LOS REGIDORES
+### CAPÍTULO SÉPTIMO. DE LOS SÍNDICOS
 
 ###### ARTÍCULO 67.
 
@@ -1489,7 +1533,7 @@ Cuando en el municipio de que se trate existan dos Síndicos, uno jurídico y el
 
 Los Síndicos están impedidos para desistirse, transigir, comprometer en arbitrajes, hacer cesión de bienes o arbitrios, salvo autorización expresa que, en cada caso, le otorguen las dos terceras partes de los integrantes del Ayuntamiento.
 
-### CAPÍTULO NOVENO. DE LAS COMISIONES
+### CAPÍTULO OCTAVO. DE LOS REGIDORES
 
 ###### ARTÍCULO 69.
 
@@ -1567,7 +1611,7 @@ XVI.- Las demás que les otorguen las leyes y reglamentos.
 
 Los Regidores, concurrirán a las sesiones del Ayuntamiento, con voz y voto; percibirán su dieta de asistencia que señale el presupuesto de egresos del Municipio y no podrán, en ningún caso, desempeñar cargos, empleos o comisiones remuneradas en la Administración Pública Municipal.
 
-### CAPÍTULO DÉCIMO. SUPLENCIA DE LOS INTEGRANTES DEL AYUNTAMIENTO
+### CAPÍTULO NOVENO. DE LAS COMISIONES
 
 ###### ARTÍCULO 70.
 
@@ -1657,7 +1701,7 @@ II.- Serán especiales, las que designe el Ayuntamiento, de acuerdo con las nece
 
 Las Comisiones contarán con las facultades que los reglamentos Municipales respectivos les confieran, con el propósito de atender los ramos del gobierno y de la administración pública Municipal.
 
-### CAPÍTULO DÉCIMO PRIMERO. LICENCIAS DE LOS SERVIDORES DE LA ADMINISTRACIÓN MUNICIPAL
+### CAPÍTULO DÉCIMO. SUPLENCIA DE LOS INTEGRANTES DEL AYUNTAMIENTO
 
 ###### ARTÍCULO 73.
 
@@ -1677,7 +1721,7 @@ Las licencias de síndicos y regidores las concederá el Ayuntamiento, atendiend
 
 Para la designación de quien deba sustituir al Presidente Municipal, en caso de falta absoluta de éste y de su Suplente, se estará en lo dispuesto en el Artículo 64 de esta Ley.
 
-### CAPÍTULO DÉCIMO SEGUNDO. DE LA SUSPENSIÓN Y DESAPARICIÓN DE LOS AYUNTAMIENTOS Y SUS INTEGRANTES
+### CAPÍTULO DÉCIMO PRIMERO. LICENCIAS DE LOS SERVIDORES DE LA ADMINISTRACIÓN MUNICIPAL
 
 ###### ARTÍCULO 76.
 
@@ -1685,9 +1729,7 @@ El Presidente Municipal podrá conceder licencia por tiempo determinado de hasta
 
 Toda licencia por tiempo indeterminado o que exceda de quince días será sin goce de sueldo.
 
-### CAPÍTULO PRIMERO. DE LOS ÓRGANOS AUXILIARES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+### CAPÍTULO DÉCIMO SEGUNDO. DE LA SUSPENSIÓN Y DESAPARICIÓN DE LOS AYUNTAMIENTOS Y SUS INTEGRANTES
 
 ###### ARTÍCULO 77.
 
@@ -1737,7 +1779,9 @@ Cuando el Congreso del Estado, tenga conocimiento de la existencia de la situaci
 
 ## TÍTULO TERCERO. DE LOS ÓRGANOS AUXILIARES Y DE COLABORACIÓN MUNICIPALES
 
-### CAPÍTULO SEGUNDO. DE LOS CONSEJOS DE COLABORACIÓN MUNICIPAL
+### CAPÍTULO PRIMERO. DE LOS ÓRGANOS AUXILIARES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 80.
 
@@ -1801,7 +1845,7 @@ VIII.- Las demás que le otorguen los reglamentos respectivos.
 
 Los delegados y subdelegados serán electos por los vecinos de los pueblos, comunidades, colonias, fraccionamientos y barrios, de conformidad a lo previsto por las disposiciones del Reglamento expedido por el Ayuntamiento. En este ordenamiento se señalará quien extenderá los nombramientos y la toma de protesta.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO SEGUNDO. DE LOS CONSEJOS DE COLABORACIÓN MUNICIPAL
 
 ###### ARTÍCULO 83.
 
@@ -1821,7 +1865,7 @@ Tendrán como objetivo auxiliar al Ayuntamiento para el cumplimiento eficaz de l
 
 ## TÍTULO CUARTO. DE LOS ORGANISMOS DESCENTRALIZADOS Y EMPRESAS DE PARTICIPACIÓN MUNICIPAL
 
-### CAPÍTULO PRIMERO. EL PATRIMONIO MUNICIPAL
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 85.
 
@@ -1851,7 +1895,7 @@ Quedan sujetos al control y vigilancia del Ayuntamiento, en los términos de las
 
 ## TÍTULO QUINTO. DEL PATRIMONIO Y LA HACIENDA PÚBLICA MUNICIPAL
 
-### CAPÍTULO SEGUNDO. DE LA INSPECCIÓN DE LA HACIENDA MUNICIPAL
+### CAPÍTULO PRIMERO. EL PATRIMONIO MUNICIPAL
 
 ###### ARTÍCULO 89.
 
@@ -1896,6 +1940,70 @@ III.- Los ingresos derivados de la prestación de servicios públicos a su cargo
 IV.- La deuda que contraten.
 
 Los Municipios podrán celebrar convenios con el Estado, para que éste se haga cargo de algunas de las funciones relacionadas con la administración de estas contribuciones.
+
+### CAPÍTULO SEGUNDO. DE LA INSPECCIÓN DE LA HACIENDA MUNICIPAL
+
+###### ARTÍCULO 93.
+
+La Inspección de la Hacienda Pública Municipal compete:
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+I.- Al Ayuntamiento por conducto del Síndico y al titular del Órgano Interno de Control en los términos de esta Ley y demás disposiciones legales y normativas aplicables; y
+
+II.- A la Auditoría Superior del Congreso del Estado, en términos de su Ley y cuando el Instituto para el Financiamiento del Estado sea aval de empréstitos o créditos concedidos a los Ayuntamientos o sea acreedor de estos últimos, en términos de los Artículos 2° de la Ley de Deuda Pública del Estado y 3° fracción III de la Ley que crea el Instituto para el Financiamiento del Estado.
+
+El Congreso del Estado o la Diputación Permanente, por conducto de la Comisión Inspectora, podrán en cualquier tiempo, solicitar a la Auditoría Superior del Estado la práctica de visitas de inspección, supervisión o auditoría.
+
+###### ARTÍCULO 94.
+
+La inspección de la Hacienda Pública Municipal, se sujetará a lo siguiente:
+
+I.- Examinar si la contabilidad se lleva en forma adecuada, legal y técnica, y si se encuentra al corriente;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+II.- Averiguar si se defraudan los intereses del erario municipal y las causas por las que no se recaude lo que corresponde, confrontar en la Tesorería las partidas de entrada con los recibos que se hayan expedido a los contribuyentes y cotejarlos con los comprobantes formulados al efecto por la Presidencia Municipal, así como los emitidos en términos de las disposiciones en materia fiscal;
+
+III.- Conocer el monto de los rezagos y los motivos por los cuales no se hicieron oportunamente los cobros y exigir que se hagan desde luego con las medidas de apremio que marca la Ley;
+
+IV.- Investigar si, tanto el Tesorero como sus empleados, cumplen con sus obligaciones y atienden al público con la debida diligencia;
+
+V.- Examinar si se han cometido irregularidades en perjuicio del fisco Municipal o de los contribuyentes y en su caso, señalar a los responsables;
+
+VI.- Revisar el archivo de la Tesorería, cerciorándose de que los expedientes se encuentren en orden y la correspondencia al corriente;
+
+VII.- Observar el estado que guardan los muebles, útiles y enseres de la oficina;
+
+VIII.- Tomar las medidas necesarias, para el aseguramiento de bienes en los casos de fraude al erario Municipal, en tanto se hace la consignación correspondiente;
+
+IX.- Examinar y hacer constar:
+
+a).- Si hay raspaduras, enmendaduras o notas entre renglones en los asientos;
+
+b).- Si los libros están autorizados y rubricados por quien corresponda;
+
+c).- Si en las operaciones aritméticas y contables hay errores;
+
+d).- Si los asientos de los diversos libros de la Tesorería concuerdan entre sí;
+
+e).- Si los comprobantes del débito justifican las respectivas partidas; si se cobraron impuestos que las Leyes no autorizan y si se hicieron gastos que no están debidamente comprobados;
+
+f).- Si los pagos se hicieron con puntualidad o hay algún adelanto o atraso en ellos y si las adquisiciones se hicieron de conformidad con la Ley de la materia; y
+
+g).- Si los asientos se llevan al corriente.
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
+
+IX Bis.- Revisar el cumplimiento de las obligaciones financieras por concepto de laudos ejecutoriados, y
+
+X.- Las demás facultades que, en relación con la Hacienda Pública Municipal, sean conferidas a la Auditoría Superior del Estado en la Ley Orgánica respectiva.
+
+###### ARTÍCULO 95.
+
+La malversación de fondos Municipales y cualquier otro hecho que se estime en contra de la Hacienda Pública Municipal podrá ser denunciada por cualquier persona, ante el Ayuntamiento, Presidente Municipal u otra autoridad que resulte competente.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 ### CAPÍTULO TERCERO. DE LAS INICIATIVAS DE LEY DE INGRESOS Y PRESUPUESTO DE EGRESOS
 
@@ -2045,73 +2153,9 @@ VIII. Una vez aprobado el Presupuesto de Egresos, el Ayuntamiento, a más tardar
 
 IX. Las modificaciones al Presupuesto de Egresos se podrán realizar solamente durante el mismo Ejercicio Fiscal de su vigencia y por causa justificada, éstas deberán ser aprobadas en los términos señalados dentro del ejercicio fiscal al que correspondan y antes del gasto. Para lo cual se deberá seguir el mismo procedimiento que para su aprobación y ser sancionadas por las dos terceras partes del Ayuntamiento.
 
-###### ARTÍCULO 93.
-
-La Inspección de la Hacienda Pública Municipal compete:
-
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
-
-I.- Al Ayuntamiento por conducto del Síndico y al titular del Órgano Interno de Control en los términos de esta Ley y demás disposiciones legales y normativas aplicables; y
-
-II.- A la Auditoría Superior del Congreso del Estado, en términos de su Ley y cuando el Instituto para el Financiamiento del Estado sea aval de empréstitos o créditos concedidos a los Ayuntamientos o sea acreedor de estos últimos, en términos de los Artículos 2° de la Ley de Deuda Pública del Estado y 3° fracción III de la Ley que crea el Instituto para el Financiamiento del Estado.
-
-El Congreso del Estado o la Diputación Permanente, por conducto de la Comisión Inspectora, podrán en cualquier tiempo, solicitar a la Auditoría Superior del Estado la práctica de visitas de inspección, supervisión o auditoría.
-
-###### ARTÍCULO 94.
-
-La inspección de la Hacienda Pública Municipal, se sujetará a lo siguiente:
-
-I.- Examinar si la contabilidad se lleva en forma adecuada, legal y técnica, y si se encuentra al corriente;
-
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
-
-II.- Averiguar si se defraudan los intereses del erario municipal y las causas por las que no se recaude lo que corresponde, confrontar en la Tesorería las partidas de entrada con los recibos que se hayan expedido a los contribuyentes y cotejarlos con los comprobantes formulados al efecto por la Presidencia Municipal, así como los emitidos en términos de las disposiciones en materia fiscal;
-
-III.- Conocer el monto de los rezagos y los motivos por los cuales no se hicieron oportunamente los cobros y exigir que se hagan desde luego con las medidas de apremio que marca la Ley;
-
-IV.- Investigar si, tanto el Tesorero como sus empleados, cumplen con sus obligaciones y atienden al público con la debida diligencia;
-
-V.- Examinar si se han cometido irregularidades en perjuicio del fisco Municipal o de los contribuyentes y en su caso, señalar a los responsables;
-
-VI.- Revisar el archivo de la Tesorería, cerciorándose de que los expedientes se encuentren en orden y la correspondencia al corriente;
-
-VII.- Observar el estado que guardan los muebles, útiles y enseres de la oficina;
-
-VIII.- Tomar las medidas necesarias, para el aseguramiento de bienes en los casos de fraude al erario Municipal, en tanto se hace la consignación correspondiente;
-
-IX.- Examinar y hacer constar:
-
-a).- Si hay raspaduras, enmendaduras o notas entre renglones en los asientos;
-
-b).- Si los libros están autorizados y rubricados por quien corresponda;
-
-c).- Si en las operaciones aritméticas y contables hay errores;
-
-d).- Si los asientos de los diversos libros de la Tesorería concuerdan entre sí;
-
-e).- Si los comprobantes del débito justifican las respectivas partidas; si se cobraron impuestos que las Leyes no autorizan y si se hicieron gastos que no están debidamente comprobados;
-
-f).- Si los pagos se hicieron con puntualidad o hay algún adelanto o atraso en ellos y si las adquisiciones se hicieron de conformidad con la Ley de la materia; y
-
-g).- Si los asientos se llevan al corriente.
-
-> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
-
-IX Bis.- Revisar el cumplimiento de las obligaciones financieras por concepto de laudos ejecutoriados, y
-
-X.- Las demás facultades que, en relación con la Hacienda Pública Municipal, sean conferidas a la Auditoría Superior del Estado en la Ley Orgánica respectiva.
-
-###### ARTÍCULO 95.
-
-La malversación de fondos Municipales y cualquier otro hecho que se estime en contra de la Hacienda Pública Municipal podrá ser denunciada por cualquier persona, ante el Ayuntamiento, Presidente Municipal u otra autoridad que resulte competente.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
-
-### CAPÍTULO PRIMERO. DE LA SECRETARÍA GENERAL MUNICIPAL
-
 ## TÍTULO SEXTO. RÉGIMEN ADMINISTRATIVO
 
-### CAPÍTULO SEGUNDO. DE LA TESORERÍA MUNICIPAL
+### CAPÍTULO PRIMERO. DE LA SECRETARÍA GENERAL MUNICIPAL
 
 ###### ARTÍCULO 96.
 
@@ -2185,7 +2229,7 @@ Para el desempeño de sus funciones y el desahogo de los asuntos legales, el Sec
 
 Las ausencias del Secretario General Municipal serán cubiertas por el funcionario que designe el Presidente.
 
-### CAPÍTULO TERCERO. DE LA CONTRALORÍA
+### CAPÍTULO SEGUNDO. DE LA TESORERÍA MUNICIPAL
 
 ###### ARTÍCULO 100.
 
@@ -2289,7 +2333,7 @@ XXVI.-Vigilar que las acciones relativas a la planeación, programación, presup
 
 XXVII.- Las demás que le asignen las Leyes y Reglamentos.
 
-### CAPÍTULO CUARTO. DE LOS SERVICIOS PÚBLICOS
+### CAPÍTULO TERCERO. DE LA CONTRALORÍA
 
 ###### ARTÍCULO 105.
 
@@ -2407,7 +2451,7 @@ IV.- No haber sido condenado mediante sentencia ejecutoriada, por delito doloso;
 
 V.- No contar con inhabilitación vigente para desempeñar un cargo, empleo o comisión en el servicio público.
 
-### CAPÍTULO QUINTO. DE LAS DEPENDENCIAS ENCARGADAS DE LA PRESTACIÓN DE LOS SERVICIOS PÚBLICOS
+### CAPÍTULO CUARTO. DE LOS SERVICIOS PÚBLICOS
 
 ###### ARTÍCULO 108.
 
@@ -2493,7 +2537,7 @@ Cuando los servicios públicos sean prestados directamente por el Ayuntamiento, 
 
 Cuando los servicios públicos municipales sean concesionados a particulares, la prestación de estos deberá sujetarse a las disposiciones de esta Ley, los reglamentos en la materia, las cláusulas de la concesión y las demás disposiciones aplicables.
 
-### CAPÍTULO SEXTO. DE LA ASISTENCIA SOCIAL
+### CAPÍTULO QUINTO. DE LAS DEPENDENCIAS ENCARGADAS DE LA PRESTACIÓN DE LOS SERVICIOS PÚBLICOS
 
 ###### ARTÍCULO 112.
 
@@ -2719,7 +2763,7 @@ II. No estar condenada o condenado por delitos de acoso sexual o abuso sexual y/
 
 III. No estar condenada o condenado por el delito de violencia familiar.
 
-### CAPÍTULO SÉPTIMO. DE LA POLICÍA PREVENTIVA MUNICIPAL
+### CAPÍTULO SEXTO. DE LA ASISTENCIA SOCIAL
 
 ###### ARTÍCULO 122.
 
@@ -2729,9 +2773,7 @@ La Junta Municipal para el Desarrollo Integral de la Familia, estará regida por
 
 El Titular del Desarrollo Integral de la Familia Municipal, deberá contar con el apoyo de su Unidad Técnica, cuyo responsable deberá ser un profesionista o técnico con conocimientos en las materias de derecho, administración o ramas afines a éstas. El responsable de la Unidad referida, refrendará con su firma los documentos oficiales suscritos por el titular del Desarrollo Integral de la Familia Municipal.
 
-### CAPÍTULO OCTAVO. DE LA UNIDAD MUNICIPAL DE PROTECCIÓN CIVIL Y EL H. CUERPO DE BOMBEROS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2014)</small>
+### CAPÍTULO SÉPTIMO. DE LA POLICÍA PREVENTIVA MUNICIPAL
 
 ###### ARTÍCULO 123.
 
@@ -2815,6 +2857,70 @@ IX.- Promover de acuerdo a la disponibilidad financiera, en coordinación con la
 
 X.- Las demás que le asignen las Leyes y Reglamentos, el Ayuntamiento y el Presidente Municipal.
 
+### CAPÍTULO OCTAVO. DE LA UNIDAD MUNICIPAL DE PROTECCIÓN CIVIL Y EL H. CUERPO DE BOMBEROS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2014)</small>
+
+###### ARTÍCULO 127.
+
+En cada Municipio, se deberá contar con una Dirección de Protección Civil y podrá crear un Cuerpo de Bomberos, como órgano operativo de dicha dependencia de Protección Civil, que estarán bajo el mando del Presidente Municipal, el que acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos de contingencia o emergencia, que se presenten en el Municipio, por fenómenos hidro-meteorológicos, geológicos, químico-tecnológicos, sanitario-ecológicos, socio-organizativos y/o cualquier otro fenómeno perturbador.
+
+El Sistema Municipal de Protección Civil debe ser el primer nivel de respuesta ante cualquier agente perturbador que afecte a la población; para su adecuado funcionamiento contará con: el Programa Municipal de Protección Civil; Atlas Nacional, Estatal y Municipal de Riesgos; inventarios; así como directorios de Recursos Materiales y Humanos del Municipio correspondiente.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+###### ARTÍCULO 128.
+
+El Área de Protección Civil, tendrán (sic) bajo su responsabilidad la coordinación y operación del sistema municipal de protección civil y cuerpo de bomberos, cuyos titulares serán designados y removidos por el Presidente Municipal y deberán cubrir los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos;
+
+II. No haber sido condenado por delito doloso;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+III. Contar con título profesional, con formación técnica en materia de prevención de riesgos, protección civil o disciplinas afines, con experiencia mínima de un año y preferentemente estar afiliado a algún Colegio de Profesionistas de la entidad, o algún otro Colegio que tenga presencia a nivel nacional.
+
+IV. En caso de no contar con licenciatura, contar con experiencia mínima comprobable de tres años en el área de Protección Civil, con cursos sobre protección civil, gestión integral de riesgos, prevención y atención de desastres o cualquier otro relacionado a protección civil.
+
+###### ARTÍCULO 129.
+
+El titular de Protección Civil, tendrá las siguientes facultades y obligaciones:
+
+I.- Elaborar, implementar y ejecutar el Programa Municipal de Protección Civil, así como subprogramas, planes y programas especiales;
+
+II.- Conocer el inventario de recursos humanos y materiales del Municipio, para hacer frente a las consecuencias de un riesgo, emergencias o desastres y contingencias;
+
+III.- Proponer, coordinar y ejecutar las acciones; antes, durante y después de una contingencia, apoyando el restablecimiento de los servicios públicos prioritarios en los lugares afectados;
+
+IV.- Apoyar en los centros de acopio, en los refugios temporales y en los albergues, destinados para recibir y brindar ayuda a la población afectada en el desastre;
+
+V.- Organizar y llevar a cabo acciones de capacitación para la sociedad en materia de protección civil, coadyuvando en la promoción de la cultura de autoprotección y promover lo conducente ante las autoridades del sector educativo;
+
+VI.- Ejercer inspección, control y vigilancia en materia de protección civil en los establecimientos del sector público, privado y social para prevenir alguna contingencia;
+
+VII.- Promover la integración de las unidades internas de protección civil de las dependencias públicas, privadas y sociales, cuando éstas estén establecidas dentro del territorio Municipal; y
+
+VIII.- Formular la evaluación inicial de la magnitud, en caso de contingencia, emergencia o desastre e informar de inmediato al Presidente Municipal;
+
+IX.- Establecer una adecuada coordinación con los Municipios colindantes así como con el Sistema Estatal de Protección Civil;
+
+X.- Gestionar los recursos necesarios que permitan la capacitación y adquisición del equipo idóneo para ofrecer un servicio que garantice la protección a la ciudadanía;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XI. Rendir informe al Presidente Municipal, respecto de los acontecimientos registrados en su jurisdicción;
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
+
+XII. Coordinar la elaboración del Atlas Municipal de Riesgos, a más tardar en un término de 150 días naturales siguientes al inicio de la administración municipal, el cual deberá ser presentado por el Presidente Municipal para la aprobación del Ayuntamiento en el término de 30 días naturales siguientes para su respectiva publicación. Su actualización será cada dos años bajo el mismo procedimiento. Ante la omisión de lo previsto en esta fracción, se estará a lo dispuesto por la legislación en materia de responsabilidades administrativas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA Y REFORMADA], P.O. 17 DE AGOSTO DE 2020)</small>
+
+XIII. Las demás que les asignen las leyes y reglamentos, el Ayuntamiento y el Presidente Municipal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
 ### CAPÍTULO OCTAVO BIS. DEL PROGRAMA MUNICIPAL DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS SÓLIDOS URBANOS
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
@@ -2879,69 +2985,7 @@ La inscripción en el registro bajo ninguna circunstancia condicionará la reali
 
 Artículo 129 UNDECIES.- Las personas recicladoras deberán participar en la elaboración del Programa Municipal de Prevención y Gestión Integral de Residuos Sólidos, en los términos que determine la normativa del propio Ayuntamiento.
 
-###### ARTÍCULO 127.
-
-En cada Municipio, se deberá contar con una Dirección de Protección Civil y podrá crear un Cuerpo de Bomberos, como órgano operativo de dicha dependencia de Protección Civil, que estarán bajo el mando del Presidente Municipal, el que acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos de contingencia o emergencia, que se presenten en el Municipio, por fenómenos hidro-meteorológicos, geológicos, químico-tecnológicos, sanitario-ecológicos, socio-organizativos y/o cualquier otro fenómeno perturbador.
-
-El Sistema Municipal de Protección Civil debe ser el primer nivel de respuesta ante cualquier agente perturbador que afecte a la población; para su adecuado funcionamiento contará con: el Programa Municipal de Protección Civil; Atlas Nacional, Estatal y Municipal de Riesgos; inventarios; así como directorios de Recursos Materiales y Humanos del Municipio correspondiente.
-
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
-
-###### ARTÍCULO 128.
-
-El Área de Protección Civil, tendrán (sic) bajo su responsabilidad la coordinación y operación del sistema municipal de protección civil y cuerpo de bomberos, cuyos titulares serán designados y removidos por el Presidente Municipal y deberán cubrir los siguientes requisitos:
-
-I. Ser ciudadano mexicano en pleno goce de sus derechos;
-
-II. No haber sido condenado por delito doloso;
-
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
-
-III. Contar con título profesional, con formación técnica en materia de prevención de riesgos, protección civil o disciplinas afines, con experiencia mínima de un año y preferentemente estar afiliado a algún Colegio de Profesionistas de la entidad, o algún otro Colegio que tenga presencia a nivel nacional.
-
-IV. En caso de no contar con licenciatura, contar con experiencia mínima comprobable de tres años en el área de Protección Civil, con cursos sobre protección civil, gestión integral de riesgos, prevención y atención de desastres o cualquier otro relacionado a protección civil.
-
-###### ARTÍCULO 129.
-
-El titular de Protección Civil, tendrá las siguientes facultades y obligaciones:
-
-I.- Elaborar, implementar y ejecutar el Programa Municipal de Protección Civil, así como subprogramas, planes y programas especiales;
-
-II.- Conocer el inventario de recursos humanos y materiales del Municipio, para hacer frente a las consecuencias de un riesgo, emergencias o desastres y contingencias;
-
-III.- Proponer, coordinar y ejecutar las acciones; antes, durante y después de una contingencia, apoyando el restablecimiento de los servicios públicos prioritarios en los lugares afectados;
-
-IV.- Apoyar en los centros de acopio, en los refugios temporales y en los albergues, destinados para recibir y brindar ayuda a la población afectada en el desastre;
-
-V.- Organizar y llevar a cabo acciones de capacitación para la sociedad en materia de protección civil, coadyuvando en la promoción de la cultura de autoprotección y promover lo conducente ante las autoridades del sector educativo;
-
-VI.- Ejercer inspección, control y vigilancia en materia de protección civil en los establecimientos del sector público, privado y social para prevenir alguna contingencia;
-
-VII.- Promover la integración de las unidades internas de protección civil de las dependencias públicas, privadas y sociales, cuando éstas estén establecidas dentro del territorio Municipal; y
-
-VIII.- Formular la evaluación inicial de la magnitud, en caso de contingencia, emergencia o desastre e informar de inmediato al Presidente Municipal;
-
-IX.- Establecer una adecuada coordinación con los Municipios colindantes así como con el Sistema Estatal de Protección Civil;
-
-X.- Gestionar los recursos necesarios que permitan la capacitación y adquisición del equipo idóneo para ofrecer un servicio que garantice la protección a la ciudadanía;
-
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
-
-XI. Rendir informe al Presidente Municipal, respecto de los acontecimientos registrados en su jurisdicción;
-
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
-
-XII. Coordinar la elaboración del Atlas Municipal de Riesgos, a más tardar en un término de 150 días naturales siguientes al inicio de la administración municipal, el cual deberá ser presentado por el Presidente Municipal para la aprobación del Ayuntamiento en el término de 30 días naturales siguientes para su respectiva publicación. Su actualización será cada dos años bajo el mismo procedimiento. Ante la omisión de lo previsto en esta fracción, se estará a lo dispuesto por la legislación en materia de responsabilidades administrativas; y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA Y REFORMADA], P.O. 17 DE AGOSTO DE 2020)</small>
-
-XIII. Las demás que les asignen las leyes y reglamentos, el Ayuntamiento y el Presidente Municipal.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2020)</small>
-
 ### CAPÍTULO NOVENO. DE LOS ACTOS ADMINISTRATIVOS MUNICIPALES
-
-### CAPÍTULO DÉCIMO. DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO MUNICIPAL
 
 ###### ARTÍCULO 130.
 
@@ -3009,69 +3053,7 @@ Los Ayuntamientos, con apego a la legislación vigente sobre asentamientos human
 
 Los acuerdos, concesiones, licencias, permisos y autorizaciones otorgados por autoridades, funcionarios o empleados Municipales, que carezcan de la competencia necesaria para ello, o los que se dicten por error, dolo o violencia, que perjudiquen o restrinjan los derechos del Municipio sobre sus bienes de dominio público o sobre cualquier materia administrativa, serán anulados administrativamente por los Ayuntamientos, previa audiencia de los interesados.
 
-### CAPÍTULO DÉCIMO BIS. DE LA SECRETARÍA DE DESARROLLO PARA PUEBLOS Y COMUNIDADES INDÍGENAS
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
-
-ARTÍCULO 145 BIS.- En los municipios que cuenten con población indígena, los ayuntamientos podrán contar con una Secretaría de Desarrollo para Pueblos y Comunidades Indígenas, para atender o canalizar, con respeto a su cultura, usos, costumbres, tradiciones y formas de organización comunitaria, las demandas y propuestas de las personas y comunidades indígenas de su circunscripción y que correspondan a su competencia.
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
-
-ARTÍCULO 145 TER.- La Secretaría de Desarrollo para Pueblos y Comunidades Indígenas estará a cargo de una persona que hable y escriba suficientemente la lengua o lenguas indígenas de la región de que se trate, aprobado por el Cabildo a propuesta del Presidente Municipal, quien preferentemente consultará a las autoridades tradicionales de las principales comunidades para presentar la misma.
-
-El titular de la Secretaría realizará las funciones y ejercerá las atribuciones que señale el Reglamento Interior del Municipio correspondiente. Se procurará que el personal de esta Secretaría sea preferentemente indígena.
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
-
-ARTÍCULO 145 QUATER.- La Secretaría de Desarrollo para Pueblos y Comunidades Indígenas, tendrá las siguientes facultades y obligaciones:
-
-I.- Vigilar que los procesos de planeación municipal, consideren el mejoramiento de las condiciones de vida, de trabajo, de salud y educación de los pueblos indígenas, con su participación y cooperación;
-
-II.- Asegurar que los Pueblos y Comunidades Indígenas avecindados en su territorio, gocen de los programas de desarrollo e infraestructura comunitaria y de asistencia social, estableciendo presupuestos específicos destinados a ellos, cumpliendo con la normatividad aplicable;
-
-III.- Promover con la participación de las comunidades indígenas programas de rescate, desarrollo y conservación de sus lenguas, tradiciones, costumbres, artesanías y todo aspecto relacionado con su vida cultural;
-
-IV.- Proponer al Ayuntamiento conforme a la Ley de la materia y en el ámbito de sus competencias, los planes y programas de desarrollo rural sustentable;
-
-V.- Reconocer y promover la participación de las autoridades y representantes comunitarios indígenas que hayan sido designadas por sus usos y costumbres, así como de los diferentes sistemas normativos en la toma de decisiones municipales;
-
-VI.- Realizar campañas informativas y de difusión de identidad indígena, para valorar la importancia de los Pueblos y Comunidades Indígenas asentados en el municipio, de su grandeza y riqueza cultural, y de la trascendencia en nuestro pasado y presente indígena, a efecto de evitar la discriminación y de fomentar el respeto hacia las personas, Pueblos y Comunidades Indígenas.
-
-VII.- Coadyuvar con los servicios de salud del Estado para lograr el acceso de los indígenas a los servicios de salud municipal, tal acción deberá entenderse como prioritaria;
-
-VIII.- Coadyuvar con el Ayuntamiento en la elaboración del Plan de Desarrollo Municipal;
-
-IX.- Comparecer ante el Ayuntamiento, cuando sea requerido;
-
-X.- Asistir al Presidente Municipal, en las funciones técnicas del Comité de Planeación para el Desarrollo Municipal;
-
-XI.- Participar en el registro de la nomenclatura de las calles, jardines, plazas y paseos públicos, así como actualizar las toponimias de las comunidades y ejidos del municipio y señalizar las áreas públicas, de acuerdo a las normas ortográficas de la lengua indígena de los habitantes de dicho espacio territorial;
-
-XII.- Elaborar el diagnóstico y el Programa Municipal de cultura, el catálogo de su patrimonio y el de sus principales manifestaciones culturales, basándose en la información contenida en el Catálogo de Comunidades Indígenas;
-
-XIII.- En coordinación con las autoridades y departamento municipales competentes elaborarán programas con el objeto de revitalizar, preservar, desarrollar y difundir las manifestaciones culturales, etnicas, artes y expresiones musicales, fiestas tradicionales y la literatura oral y escrita propias del municipio;
-
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2019)</small>
-
-XIV.- En coordinación con el Presidente Municipal elaborar planes y programas de desarrollo en el combate a la pobreza extrema de los Pueblos y Comunidades Indígenas, proyectando estrategias de 20 a 30 años a futuro;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE JUNIO DE 2019)</small>
-
-XV.- Diseñar y registrar, en conjunto con las comunidades y pueblos indígenas, los planes y/o programas de servicio social profesional que puedan realizarse en sus Delegaciones o en sus centros comunitarios de desarrollo; y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE JUNIO DE 2019)</small>
-
-XVI.- Las demás que señale esta ley y las disposiciones legales aplicables en el Estado.
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
-
-ARTÍCULO 146 (SIC) QUINQUIES.- Los Pueblos y las comunidades indígenas tienen el derecho a decidir las prioridades, en lo que atañe al proceso de desarrollo, en la medida en que éste afecte a sus vidas, creencias, instituciones y bienestar espiritual y a las tierras que ocupan o utilizan, así como a decidir su desarrollo económico, social y cultural en el contexto del Plan Municipal de Desarrollo.
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
-
-ARTÍCULO 146 (SIC) SEXTUS.- El Municipio a través de La Secretaría de Desarrollo para Pueblos y Comunidades Indígenas deberá realizar estudios, en coordinación con las comunidades indígenas, a fin de evaluar la incidencia económica, social, cultural y sobre el ambiente, que las actividades de desarrollo previstas, puedan tener sobre esos pueblos. Los resultados de estos estudios se considerarán como criterios fundamentales para la ejecución de las actividades del desarrollo.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2015)</small>
+### CAPÍTULO DÉCIMO. DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO MUNICIPAL
 
 ###### ARTÍCULO 139.
 
@@ -3167,6 +3149,70 @@ El Comité de Planeación, contará con el apoyo técnico que en cada caso se co
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
+### CAPÍTULO DÉCIMO BIS. DE LA SECRETARÍA DE DESARROLLO PARA PUEBLOS Y COMUNIDADES INDÍGENAS
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 145 BIS.- En los municipios que cuenten con población indígena, los ayuntamientos podrán contar con una Secretaría de Desarrollo para Pueblos y Comunidades Indígenas, para atender o canalizar, con respeto a su cultura, usos, costumbres, tradiciones y formas de organización comunitaria, las demandas y propuestas de las personas y comunidades indígenas de su circunscripción y que correspondan a su competencia.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 145 TER.- La Secretaría de Desarrollo para Pueblos y Comunidades Indígenas estará a cargo de una persona que hable y escriba suficientemente la lengua o lenguas indígenas de la región de que se trate, aprobado por el Cabildo a propuesta del Presidente Municipal, quien preferentemente consultará a las autoridades tradicionales de las principales comunidades para presentar la misma.
+
+El titular de la Secretaría realizará las funciones y ejercerá las atribuciones que señale el Reglamento Interior del Municipio correspondiente. Se procurará que el personal de esta Secretaría sea preferentemente indígena.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 145 QUATER.- La Secretaría de Desarrollo para Pueblos y Comunidades Indígenas, tendrá las siguientes facultades y obligaciones:
+
+I.- Vigilar que los procesos de planeación municipal, consideren el mejoramiento de las condiciones de vida, de trabajo, de salud y educación de los pueblos indígenas, con su participación y cooperación;
+
+II.- Asegurar que los Pueblos y Comunidades Indígenas avecindados en su territorio, gocen de los programas de desarrollo e infraestructura comunitaria y de asistencia social, estableciendo presupuestos específicos destinados a ellos, cumpliendo con la normatividad aplicable;
+
+III.- Promover con la participación de las comunidades indígenas programas de rescate, desarrollo y conservación de sus lenguas, tradiciones, costumbres, artesanías y todo aspecto relacionado con su vida cultural;
+
+IV.- Proponer al Ayuntamiento conforme a la Ley de la materia y en el ámbito de sus competencias, los planes y programas de desarrollo rural sustentable;
+
+V.- Reconocer y promover la participación de las autoridades y representantes comunitarios indígenas que hayan sido designadas por sus usos y costumbres, así como de los diferentes sistemas normativos en la toma de decisiones municipales;
+
+VI.- Realizar campañas informativas y de difusión de identidad indígena, para valorar la importancia de los Pueblos y Comunidades Indígenas asentados en el municipio, de su grandeza y riqueza cultural, y de la trascendencia en nuestro pasado y presente indígena, a efecto de evitar la discriminación y de fomentar el respeto hacia las personas, Pueblos y Comunidades Indígenas.
+
+VII.- Coadyuvar con los servicios de salud del Estado para lograr el acceso de los indígenas a los servicios de salud municipal, tal acción deberá entenderse como prioritaria;
+
+VIII.- Coadyuvar con el Ayuntamiento en la elaboración del Plan de Desarrollo Municipal;
+
+IX.- Comparecer ante el Ayuntamiento, cuando sea requerido;
+
+X.- Asistir al Presidente Municipal, en las funciones técnicas del Comité de Planeación para el Desarrollo Municipal;
+
+XI.- Participar en el registro de la nomenclatura de las calles, jardines, plazas y paseos públicos, así como actualizar las toponimias de las comunidades y ejidos del municipio y señalizar las áreas públicas, de acuerdo a las normas ortográficas de la lengua indígena de los habitantes de dicho espacio territorial;
+
+XII.- Elaborar el diagnóstico y el Programa Municipal de cultura, el catálogo de su patrimonio y el de sus principales manifestaciones culturales, basándose en la información contenida en el Catálogo de Comunidades Indígenas;
+
+XIII.- En coordinación con las autoridades y departamento municipales competentes elaborarán programas con el objeto de revitalizar, preservar, desarrollar y difundir las manifestaciones culturales, etnicas, artes y expresiones musicales, fiestas tradicionales y la literatura oral y escrita propias del municipio;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2019)</small>
+
+XIV.- En coordinación con el Presidente Municipal elaborar planes y programas de desarrollo en el combate a la pobreza extrema de los Pueblos y Comunidades Indígenas, proyectando estrategias de 20 a 30 años a futuro;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE JUNIO DE 2019)</small>
+
+XV.- Diseñar y registrar, en conjunto con las comunidades y pueblos indígenas, los planes y/o programas de servicio social profesional que puedan realizarse en sus Delegaciones o en sus centros comunitarios de desarrollo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE JUNIO DE 2019)</small>
+
+XVI.- Las demás que señale esta ley y las disposiciones legales aplicables en el Estado.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 146 (SIC) QUINQUIES.- Los Pueblos y las comunidades indígenas tienen el derecho a decidir las prioridades, en lo que atañe al proceso de desarrollo, en la medida en que éste afecte a sus vidas, creencias, instituciones y bienestar espiritual y a las tierras que ocupan o utilizan, así como a decidir su desarrollo económico, social y cultural en el contexto del Plan Municipal de Desarrollo.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 146 (SIC) SEXTUS.- El Municipio a través de La Secretaría de Desarrollo para Pueblos y Comunidades Indígenas deberá realizar estudios, en coordinación con las comunidades indígenas, a fin de evaluar la incidencia económica, social, cultural y sobre el ambiente, que las actividades de desarrollo previstas, puedan tener sobre esos pueblos. Los resultados de estos estudios se considerarán como criterios fundamentales para la ejecución de las actividades del desarrollo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ### CAPÍTULO DÉCIMO TER. DE LA INSTANCIA MUNICIPAL PARA EL DESARROLLO DE LAS MUJERES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2023)</small>
@@ -3229,9 +3275,25 @@ ARTÍCULO 145 NOVENUS.- Las dependencias y organismos de la administración púb
 
 ARTÍCULO 145 DÉCIMUS.- En cada municipio, deberá existir un Sistema Municipal de Protección Integral de los Derechos de Niñas, Niños y Adolescentes, presidido por la o el Presidente Municipal y estará integrado por las instancias y organismos municipales vinculados con la protección de los derechos de niñas, niños y adolescentes, contará con una Secretaría Ejecutiva y garantizará la participación de los sectores social y privado, así como de niñas, niños y adolescentes y tendrá por objeto:
 
-I.- La Protección Integral de los Derechos de las Niñas, Niños y Adolescentes; y
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-II.- Contar con un programa de atención y con servidores públicos que fungirán como autoridad de primer contacto con niñas, niños o adolescentes y que serán el enlace con las instancias estatales y federales competentes, a quienes corresponderá coordinar a los servidores públicos municipales, cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos, a efecto de que se dé vista a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Hidalgo, de forma inmediata y contará con las atribuciones previstas en la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo.
+I. La Protección Integral de los Derechos de las Niñas, Niños y Adolescentes;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+II. Contar con un programa de atención y con servidores públicos que fungirán como autoridad de primer contacto con niñas, niños o adolescentes y que serán el enlace con las instancias estatales y federales competentes, a quienes corresponderá coordinar a los servidores públicos municipales, cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos, a efecto de que se dé vista a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Hidalgo, de forma inmediata y contará con las atribuciones previstas en la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo, y
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+III. Promover programas de capacitación y certificación dirigidos a personas servidoras públicas municipales en materia de violación de derechos humanos de Niñas, Niños y Adolescentes.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+La presidenta o presidente municipal deberá instalar el Sistema Municipal a más tardar sesenta días naturales posteriores al inicio de la administración municipal, procurando que en la primera sesión que realice el Ayuntamiento, se someta a consideración y aprobación del mismo, la designación de la persona titular de la Secretaría Ejecutiva del Sistema.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+Los Sistemas Municipales de Protección Integral se reunirán cuando menos dos veces al año. Para sesionar válidamente se requerirá un quorum de la mayoría de sus miembros y la asistencia de la presidenta o presidente; sus decisiones se tomarán por mayoría simple de votos y, en caso de empate, la presidenta o presidente tendrá voto de calidad.
 
 La persona titular de la Secretaría Ejecutiva del Sistema Municipal de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes, deberá contar con experiencia profesional probada en la defensa o promoción de los derechos de las niñas, niños y adolescentes, con diversos grupos de población, conocimientos en materia de Derechos Humanos y en particular de la infancia en áreas correspondientes a su función.
 
@@ -3262,6 +3324,18 @@ X.- Coadyuvar en la integración del sistema de información a nivel estatal de 
 XI.- Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales; y
 
 XII.- Las demás que establezca el ordenamiento jurídico estatal y aquellas que deriven de los acuerdos que, de conformidad con la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo, se asuman en el Sistema Nacional DIF y los Sistemas DIF de Hidalgo.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+El Programa Municipal al que se refiere la fracción I del presente artículo, deberá presentarse a los integrantes del Sistema, a más tardar a los noventa días naturales siguientes a su instalación. Para la elaboración de dicho programa podrán auxiliarse y coordinarse con la Secretaría Ejecutiva del Sistema Estatal para la Protección Integral de Niñas, Niños y Adolescentes.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+Para el debido cumplimiento de las atribuciones de la Secretaría Ejecutiva de los Sistemas de Protección Integral de Niñas, Niños y Adolescentes en los municipios, el Ayuntamiento deberá asegurar el presupuesto suficiente.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+Cada municipio procurará destinar un área específica para la Secretaría Ejecutiva, la cual, en cumplimiento a lo dispuesto en el artículo 82, fracción XI de esta Ley, deberá contar con espacios lúdicos de descanso y aseo para niñas, niños y adolescentes; pudiendo coordinarse con el Sistema Municipal para el Desarrollo Integral de la Familia o cualquier otra autoridad municipal para tal efecto.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -3347,15 +3421,11 @@ VI. Proponer la creación, promoción, mantenimiento y mejora de los recursos tu
 
 ### CAPÍTULO PRIMERO. DE LA MUNICIPALIZACIÓN
 
+## TÍTULO SÉPTIMO. DE LA MUNICIPALIZACIÓN Y CONCESIÓN DE LOS SERVICIOS PÚBLICOS
+
 ### CAPÍTULO SEGUNDO. DE LAS CONCESIONES DE LOS SERVICIOS PÚBLICOS MUNICIPALES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2024)</small>
-
-## TÍTULO SÉPTIMO. DE LA MUNICIPALIZACIÓN Y CONCESIÓN DE LOS SERVICIOS PÚBLICOS
-
-### CAPÍTULO PRIMERO. DE LA CONCILIACIÓN MUNICIPAL
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 146.
 
@@ -3387,7 +3457,9 @@ Seguido el trámite que señala el artículo precedente, el Ayuntamiento, con la
 
 En caso de que se apruebe la municipalización del servicio y el Municipio carezca de recursos para prestarlo, podrá nuevamente otorgarlo en concesión en términos de esta Ley.
 
-### CAPÍTULO SEGUNDO. DE LAS SANCIONES Y MEDIDAS DE SEGURIDAD
+### CAPÍTULO PRIMERO. DE LA CONCILIACIÓN MUNICIPAL
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 152.
 
@@ -3637,7 +3709,7 @@ IV.- Las instalaciones y/o equipo se encuentren en condiciones para la adecuada 
 
 ## TÍTULO OCTAVO. DE LA JUSTICIA COTIDIANA
 
-### CAPÍTULO TERCERO. DE LOS RECURSOS ADMINISTRATIVOS
+### CAPÍTULO SEGUNDO. DE LAS SANCIONES Y MEDIDAS DE SEGURIDAD
 
 ###### ARTÍCULO 160.
 
@@ -3737,7 +3809,7 @@ IV.- Ordenar la detención que sea competencia de otras autoridades; y
 
 V.- No podrán aplicar procedimientos de conciliación en casos de violencia familiar o sexual, en estos casos tienen la obligación de canalizar a las victimas ante las instancias o dependencias correspondientes.
 
-### CAPÍTULO CUARTO. DE LAS RESPONSABILIDADES DE LAS AUTORIDADES MUNICIPALES
+### CAPÍTULO TERCERO. DE LOS RECURSOS ADMINISTRATIVOS
 
 ###### ARTÍCULO 164.
 
@@ -3777,7 +3849,7 @@ III.- Otras que tiendan a proteger los bienes y la seguridad pública en los cas
 
 Si las circunstancias así lo ameritan, podrán imponerse al infractor simultáneamente las sanciones y medidas de seguridad que establezcan las Leyes, sin perjuicio de la responsabilidad civil o penal en que incurriere.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO CUARTO. DE LAS RESPONSABILIDADES DE LAS AUTORIDADES MUNICIPALES
 
 ###### ARTÍCULO 168.
 
@@ -3913,7 +3985,7 @@ La autoridad recurrida o el Ayuntamiento, deberán tomar en cuenta para su resol
 
 Con relación a los recursos administrativos, tanto la autoridad Municipal como el Ayuntamiento comunicarán en tiempo y forma su resolución al promovente.
 
-### CAPÍTULO PRIMERO. ASESORÍA MUNICIPAL
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 184.
 
@@ -3939,7 +4011,7 @@ Tratándose de delitos o faltas oficiales en que hayan incurrido los miembros y 
 
 ## TÍTULO NOVENO. LEGISLACIÓN MUNICIPAL
 
-### CAPÍTULO SEGUNDO. DE LOS DERECHOS HUMANOS
+### CAPÍTULO PRIMERO. ASESORÍA MUNICIPAL
 
 ###### ARTÍCULO 189.
 
@@ -3958,6 +4030,8 @@ Los Bandos de Policía y Gobierno, los Reglamentos, circulares y demás disposic
 Los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas se darán a conocer en el Periódico Oficial del Estado, en los cuales se establecerán la fecha en que se inicie su obligatoriedad, además de cumplir con el principio de máxima publicidad.
 
 ## TÍTULO DÉCIMO. DE LA COLABORACIÓN ENTRE EL MUNICIPIO Y EL ESTADO
+
+### CAPÍTULO SEGUNDO. DE LOS DERECHOS HUMANOS
 
 ###### ARTÍCULO 192.
 
@@ -4484,3 +4558,19 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Los Ayuntamientos de los municipios del Estado contarán con un plazo de ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto para adecuar su normativa reglamentaria aplicable.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 607 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los Ayuntamientos de los municipios del Estado contarán con un plazo de ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto para adecuar su normativa reglamentaria aplicable.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 621 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO Y DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
