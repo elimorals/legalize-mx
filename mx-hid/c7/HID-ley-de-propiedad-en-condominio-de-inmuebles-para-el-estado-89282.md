@@ -4,7 +4,7 @@ identifier: "HID-ley-de-propiedad-en-condominio-de-inmuebles-para-el-estado-8928
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-27"
-last_updated: "2021-09-13"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de agosto de 2012.
 
@@ -378,6 +378,10 @@ En caso de condóminos concesionados no hay propiedad común, únicamente los de
 ###### Artículo 28.
 
 En los conjuntos urbanos condominales, el mantenimiento de los bienes, áreas y vías generales de uso común y de la infraestructura hidráulica, sanitaria, eléctrica y de cualquier otra naturaleza, estará a cargo de todos los condóminos de los condominios que lo integren, de manera proporcional.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+Cuando se trate de un condominio nuevo, la persona o personas propietarias que hayan otorgado las escrituras constitutivas del condominio deberán pagar el mantenimiento del mismo hasta en tanto se formalice totalmente la entrega recepción del inmueble.
 
 ###### Artículo 29.
 
@@ -799,9 +803,11 @@ VIII.- Las causas y condiciones bajo las cuales procederá la remoción del admi
 
 ### CAPÍTULO II. De las Cuotas Previstas para Gastos y Obligaciones Comunes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2024)</small>
+
 ###### Artículo 57.
 
-Cada condómino o en general los habitantes del condominio en su caso, están obligados a cubrir puntualmente las cuotas que se señalan en éste capítulo, y se establecerán para:
+Cada condómino, incluyendo a las personas propietarias que hayan otorgado las escrituras constitutivas del condominio en términos del segundo párrafo del artículo 28 de la presente ley, o en general los habitantes del condominio en su caso, están obligados a cubrir puntualmente las cuotas que se señalan en este capítulo, y se establecerán para:
 
 I.- Constituir el fondo de administración y mantenimiento destinado a cubrir el gasto corriente que se genere en la administración, operación y servicios no individualizados de las áreas comunes del condominio. El importe de las cuotas a cargo de cada condómino, se establecerá distribuyendo los gastos en proporción al porcentaje de indiviso que represente cada unidad de propiedad exclusiva;
 
@@ -845,9 +851,11 @@ Tratándose de los condominios a que se refiere el Artículo 69 de esta Ley, el 
 
 El adquirente de cualquier unidad de propiedad exclusiva se constituye en obligado solidario del pago de los adeudos existentes en relación con la misma, excepto en el caso de que el administrador del condominio hubiere expedido y entregado la constancia de no adeudos señalada en el Artículo anterior.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
+
 ###### Artículo 66.
 
-Los condóminos pagarán las contribuciones locales y federales que les corresponda, tanto por lo que hace a su propiedad exclusiva, como a la parte proporcional que le corresponda sobre los bienes y áreas comunes.
+Los condóminos y/o las personas propietarias que hayan otorgado las escrituras constitutivas del condominio en términos del segundo párrafo del artículo 28 de la presente ley, deberán pagar las contribuciones locales y federales que les corresponda, tanto por lo que hace a su propiedad exclusiva, como a la parte proporcional que le corresponda sobre los bienes y áreas comunes.
 
 ### CAPÍTULO III. De los Gravámenes al Condominio
 
@@ -914,6 +922,12 @@ La Secretaría y los municipios promoverán una cultura condominal, con base en 
 ###### Artículo 77.
 
 La Secretaria y los municipios coadyuvarán y asesorarán en la creación y funcionamiento de asociaciones civiles orientadas a la difusión y desarrollo de la cultura condominal, así como a iniciativas ciudadanas relacionadas con ésta.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+###### Artículo 77 Bis.
+
+La Secretaría y las autoridades municipales fomentarán la solución pacífica de los conflictos que se susciten entre los habitantes y los administradores de inmuebles bajo el régimen de propiedad en condominio, por conducto de las instancias competentes, y a través de cualquiera de los mecanismos de solución alternativa de controversias que sean permitidos en la materia.
 
 ## TÍTULO SÉPTIMO. DE LA DESTRUCCIÓN, RUINA Y RECONSTRUCCIÓN DEL CONDOMINIO
 
@@ -1050,3 +1064,9 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 753 QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 35 Y LA FRACCIÓN I DEL ARTÍCULO 84; DE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 620 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
