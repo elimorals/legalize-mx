@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-trabajadores-al-servicio-de-los-gobiernos-12047"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2023-06-15"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "HID"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS ERRATAS PUBLICADAS EL 4 DE JUNIO DE 2024 Y 15 DE JULIO DE 2024, EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS.]</small>
+
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1987.
 
@@ -97,9 +99,13 @@ En el caso del Tribunal Fiscal Administrativo el desempeño de los cargos de Sec
 
 III. En el Poder Legislativo:
 
-a) En el Congreso, el desempeño de cargos de Oficial Mayor y de los demás que como de confianza incluya éste en el catálogo de puestos de la Administración del Congreso;
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
 
-b) En la Contaduría Mayor de Hacienda de la Entidad; el desempeño de los cargos de Contador Mayor y de los demás que como de confianza incluya éste en el catálogo de puestos respectivo.
+a) En el Congreso, el desempeño del cargo de titular de la Dirección General de Servicios Administrativos y de los demás que como de confianza incluya éste en el catálogo de puestos de la Administración del Congreso;
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
+
+b) En la Auditoría Superior del Estado; el desempeño de los cargos de Auditor Superior y de los demás que como de confianza incluya éste en el catálogo de puestos respectivo.
 
 IV. En el Poder Judicial, el desempeño de los cargos de Secretarios del Pleno y de las Salas de Tribunal Superior de Justicia y de los demás que como de confianza incluya el propio Pleno en el catálogo de puestos del Poder Judicial del Estado.
 
@@ -113,11 +119,17 @@ Los trabajadores no incluídos en la relación que antecede serán considerados 
 
 Las y los trabajadores de base serán inamovibles después de seis meses de servicio ininterrumpido sin nota desfavorable en su expediente.
 
-El proceso de contratación que lleven a cabo los sujetos reglamentados por la presente Ley, será tal que se asegure la igualdad y equidad de oportunidades entre los aspirantes a un mismo puesto, quedando terminantemente prohibido la discriminación motivada por el origen étnico, nacional o regional, el género, la edad, las discapacidades, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil, el trabajo desempeñado, las costumbres, la raza, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y las libertades de las personas, así como tratándose de aspirantes del sexo femenino, a su posible estado de embarazo al momento de llevar a cabo la selección del personal a contratar. El resultado del proceso de contratación únicamente obedecerá a la capacidad técnica, cultural e idoneidad que él o la aspirante demuestre para ocupar el puesto ofertado.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+El proceso de contratación que lleven a cabo los sujetos reglamentados por la presente Ley, será tal que se asegure la igualdad y equidad de oportunidades entre los aspirantes a un mismo puesto, quedando terminantemente prohibido la discriminación motivada por el origen étnico, nacional o regional, la identidad o expresión de género, las características sexuales, la edad, las discapacidades, la condición social o económica, las condiciones de salud, el estado de embarazo, la religión, las opiniones, la orientación sexual, el estado civil o familiar, el trabajo desempeñado, las costumbres, la raza, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y las libertades de las personas. El resultado del proceso de contratación únicamente obedecerá a la capacidad técnica, cultural e idoneidad que la persona aspirante demuestre para ocupar el puesto ofertado.
 
-ARTICULO 4o BIS. Es de interés social garantizar un ambiente laboral libre de discriminación y de violencia, promover y vigilar la capacitación, el adiestramiento, la formación para y en el trabajo, la certificación de competencias laborales, la productividad y la calidad en el trabajo, la sustentabilidad ambiental, así como los beneficios que éstas deban generar tanto a los titulares y los trabajadores de los Poderes Ejecutivo, Legislativo y Judicial y de los organismos descentralizados de la Administración Pública, así como para los titulares y los trabajadores de los Ayuntamientos en el Estado de Hidalgo.
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+Las personas adultas mayores serán consideradas en igualdad de condiciones dentro de los procesos de contratación que lleven a cabo los sujetos reglamentados por la presente Ley.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
+
+ARTICULO 4 BIS. Es de interés social garantizar un ambiente laboral libre de discriminación, violencia, acoso y hostigamiento sexual y laboral; promover y vigilar la capacitación, el adiestramiento, la formación para y en el trabajo, la certificación de competencias laborales, la productividad y la calidad en el trabajo, la sustentabilidad ambiental, así como los beneficios que éstas deban generar tanto a los titulares y los trabajadores de los Poderes Ejecutivo, Legislativo y Judicial y de los organismos descentralizados de la Administración Pública, así como para los titulares y los trabajadores de los Ayuntamientos en el Estado de Hidalgo.
 
 ###### ARTICULO 5o.
 
@@ -271,9 +283,13 @@ ARTICULO 17 SEPTIES.- Las licencias por matrimonio, se otorgarán hasta por cinc
 
 La servidora o el servidor público, deberán entregar a la Dirección de Administración, la copia certificada del acta de matrimonio, al día siguiente del término de la licencia.
 
-> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2024)</small>
 
-ARTICULO 17 OCTIES.- Por el fallecimiento de la cónyuge, el cónyuge, concubina o concubino, de los ascendientes o descendientes en primer grado, la licencia se otorgará por diez días laborables.
+###### ARTICULO 17 Octies.
+
+Por el fallecimiento de la cónyuge, el cónyuge, concubina o concubino, de los ascendientes o descendientes hasta el segundo grado, del adoptado o adoptante, del tutor o del pupilo, la licencia se otorgará por diez días laborables.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
 En este caso, la servidora o servidor público, deberán informar del deceso, al titular del órgano de su adscripción y éste, a la Dirección de Administración, para la validación correspondiente, una vez presentada la copia certificada del acta de defunción.
 
@@ -495,6 +511,14 @@ X. Dar a conocer previamente al trabajador que sea trasladado de una población 
 
 Si el traslado es por período mayor de seis meses, el trabajador tendrá derecho a que se le cubran previamente los gastos que origine el transporte de menaje de casa indispensable para la instalación de su cónyuge y de sus familiares en línea recta ascendente o descendente, o colaterales en segundo grado, siempre que estén bajo su dependencia económica. Asimismo tendrá derecho a que se le cubran los gastos de traslado de su cónyuge y parientes mencionados en este párrafo, salvo que el traslado se deba a solicitud del propio trabajador.
 
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XI. Impulsar la elaboración y/o actualización de programas, estrategias y protocolos de prevención, atención y sanción del acoso y hostigamiento sexual y laboral en la administración pública.
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XII. Implementar programas de capacitación, formación y certificación en la prevención, atención y sanción del acoso y hostigamiento sexual y laboral.
+
 ###### ARTICULO 33.
 
 Solamente se podrá ordenar el traslado de un trabajador por las siguientes causas:
@@ -561,6 +585,10 @@ I. Desempeñar sus labores con la intensidad, cuidado y esmero apropiados, sujet
 
 II. Observar buenas costumbres y brindar un trato no discriminatorio dentro del servicio;
 
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+II BIS. Evitar realizar cualquier acto de acoso y hostigamiento sexual y laboral;
+
 III. Cumplir con las obligaciones que les impongan las condiciones generales de trabajo;
 
 IV. Guardar reserva de los asuntos que lleguen a su conocimiento con motivo de su trabajo;
@@ -571,9 +599,9 @@ VI. Asistir puntualmente a sus labores;
 
 VII. No hacer propaganda de ninguna clase dentro de los edificios o lugares de trabajo; y
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-VIII. Asistir a los institutos de capacitación para mejorar su preparación y eficiencia y recibir capacitación permanente entre otros temas, y de manera esencial, sobre primeros auxilios y protección civil, derechos humanos, combate a la corrupción, igualdad y equidad de género, prevención y eliminación de la discriminación, derechos culturales y lingüísticos de la población indígena, lo que les permitirá obtener mayores habilidades y aptitudes para proporcionar a las personas una atención más eficiente, respetuosa y un buen trato.
+VIII. Asistir a los institutos de capacitación para mejorar su preparación y eficiencia y recibir capacitación permanente entre otros temas, y de manera esencial, sobre primeros auxilios y protección civil, derechos humanos, combate a la corrupción, igualdad y equidad de género, acoso y hostigamiento sexual y laboral, prevención y eliminación de la discriminación, lo que les permitirá obtener mayores habilidades y aptitudes para proporcionar a las personas una atención más eficiente, respetuosa y un buen trato.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2022)</small>
 
@@ -1542,3 +1570,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. A partir de la entrada en vigor del presente Decreto, la Secretaría de Salud del Estado, en coordinación con el organismo descentralizado Servicios de Salud de la entidad, difundirá la aprobación de la presente adición a la Ley, así como las características para la expedición de las correspondientes licencias médicas en el segundo nivel de atención en salud.
 
 TERCERO. Dentro del término de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, las autoridades de los tres Poderes del Estado, así como los organismos descentralizados de la Administración Pública Estatal y los Ayuntamientos de la entidad, deberán armonizar su reglamentación interna con arreglo al contenido de la presente reforma.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 626 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación.
