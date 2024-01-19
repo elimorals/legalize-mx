@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2023-06-15"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -59,9 +59,11 @@ El Estado tiene la obligación de prevenir, atender y sancionar cualquier acció
 
 Las disposiciones de esta Ley son de orden público, interés social y de observancia general en el Estado Libre y Soberano de Hidalgo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 2.
 
-Todas las medidas que se deriven de la presente Ley, garantizarán la prevención, la atención, la sanción y la erradicación de las modalidades y tipos de violencia contra las mujeres en el ámbito público y privado, para promover su desarrollo integral, en concordancia con la Legislación Nacional de la materia y con los instrumentos internacionales suscritos y ratificados por los Estados Unidos Mexicanos.
+Todas las medidas que se deriven de la presente Ley garantizarán la prevención, la atención, la sanción y la erradicación de todas las modalidades y tipos de violencia contra las mujeres en el ámbito público y privado, para promover e impulsar su desarrollo integral, en concordancia con la Legislación Nacional de la materia y con los instrumentos internacionales suscritos y ratificados por los Estados Unidos Mexicanos.
 
 > <small>(ADICIONADO, P.O. 2 DE MAYO DE 2023)</small>
 
@@ -217,9 +219,9 @@ IV. Violencia económica: Es toda acción u omisión del agresor que afecta la s
 
 V. Violencia sexual: Es cualquier acción mediante la violencia física o moral que atenta contra la libertad, dignidad sexual e integridad psicofísica, que genera daño o limita el ejercicio de la sexualidad, independientemente de que constituya un ilícito previsto y sancionado por las leyes penales; violando sus derechos humanos a la libertad y el normal desarrollo sexual;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 19 DE ENERO DE 2024)</small>
 
-VI. Violencia obstétrica: Es toda acción u omisión ejercida por el sistema de salud público o privado o cualquier agente ajeno que asista a la mujer, o incida directamente en ella en el proceso de embarazo, parto o puerperio, que viole sus derechos humanos y que puede ser expresada de cualquiera de las siguientes formas:
+VI. Violencia obstétrica: Es toda acción u omisión ejercida por el personal perteneciente al Sistema Estatal de Salud en términos del artículo 11 Bis de la Ley de Salud para el Estado de Hidalgo, o por cualquier agente ajeno que asista a la mujer, o incida directamente en ella en el proceso de embarazo, parto o puerperio, que viole sus derechos humanos y que puede ser expresada de cualquiera de las siguientes formas:
 
 a) Atención inoportuna e ineficaz de las urgencias obstétricas;
 
@@ -769,7 +771,9 @@ V. Prohibir el acceso a la persona agresora al domicilio, permanente o temporal 
 
 VI. Embargo preventivo de bienes de la persona agresora, a efecto de garantizar las obligaciones alimentarias;
 
-VII. La desocupación por la persona agresora, del domicilio conyugal o de pareja, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo, y en su caso el reingreso de la mujer en situación de violencia una vez que se resguarde su seguridad;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+VII. La desocupación inmediata por la persona agresora, del domicilio de la víctima o del domicilio conyugal o de pareja, independientemente del régimen patrimonial del matrimonio que en su caso exista o de la acreditación de propiedad o posesión del inmueble, siendo procedente aún en los casos de arrendamiento del mismo; y en su caso, el reingreso de la mujer en situación de violencia una vez que se resguarde su seguridad. En este supuesto, la autoridad podrá valorar la necesidad de garantizar las obligaciones contractuales de la persona agresora con respecto al inmueble conyugal o de pareja, pudiendo dictar para tal efecto cualquiera de las medidas previstas en esta Ley;
 
 VIII. Obligación alimentaria provisional e inmediata;
 
@@ -1531,6 +1535,10 @@ I.- Contar con el personal sensibilizado y capacitado para la prevención, atenc
 
 II.- Impulsar la creación de programas de servicios especializados integral para los presuntos o presuntas generadores de violencia;
 
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+II Bis.- Impulsar acciones y medidas para promover la reeducación y reinserción social de las presuntas personas generadoras de violencia;
+
 III.- Apoyar la creación de instituciones públicas o privadas encargadas de la atención de mujeres ofendidas;
 
 IV.- Implementar programas de asistencia social para mujeres ofendidas por violencia de género;
@@ -1962,3 +1970,15 @@ P.O. 15 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 525 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO Y DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 609 POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 5 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 617 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo
