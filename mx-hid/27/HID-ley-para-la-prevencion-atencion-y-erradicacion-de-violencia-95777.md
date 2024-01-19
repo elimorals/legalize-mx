@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-prevencion-atencion-y-erradicacion-de-violencia-957
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-02"
-last_updated: "2023-08-18"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE VIOLENCIA ESCOLAR EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 2 de septiembre de 2013.
 
@@ -133,9 +133,9 @@ VII. Ley: Ley para la Prevención, Atención y Erradicación de Violencia Escola
 
 VIII. PEPAEVE: Programa Estatal de Prevención, Atención y Erradicación de Violencia Escolar;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-IX. Protocolo: Conjunto de reglas expedidas por la autoridad competente para prevenir, atender y erradicar la violencia originada en el entorno escolar;
+IX. Protocolo. Conjunto de reglas expedidas por la autoridad competente para prevenir, atender, erradicar y/o dar respuesta inmediata a los casos de violencia escolar que se registren, con la participación de las partes involucradas y las autoridades en la materia.
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -427,6 +427,14 @@ XIV.- Promover y capacitar con las autoridades necesarias y previstas en esta Le
 
 XV.- Emitir el Protocolo de detección, atención y prevención de la violencia escolar, como instrumento rector en materia de violencia escolar;
 
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XV Bis.- Vigilar que las autoridades escolares en las diversas instituciones públicas y privadas promuevan y apliquen los protocolos de actuación, para lo cual podrá solicitar las constancias correspondientes;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XV Ter.- Impulsar, en coordinación con las instancias competentes, la creación de redes de apoyo para víctimas de violencia escolar;
+
 > <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2017)</small>
 
 XVI.- Fomentar la Cultura de Paz entre la comunidad educativa, que implica inculcar los principios de respeto y tolerancia como componentes básicos de las relaciones entre todos los miembros de la comunidad escolar; y
@@ -496,6 +504,20 @@ VI. Desarrollar Brigadas Escolares para su detección y atención inmediata.
 ###### Artículo 12 Bis.
 
 En las escuelas y planteles educativos públicos y privados se promoverá la implementación de las acciones necesarias para realizar la capacitación del personal directivo, docente y administrativo para la prevención y atención de la violencia escolar de conformidad por lo establecido en la Ley de Educación para el Estado de Hidalgo.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+###### Artículo 12 Ter.
+
+El personal directivo, docente y administrativo de las instituciones educativas tendrá las siguientes obligaciones:
+
+I. Conocer y aplicar los protocolos de actuación ante hechos de violencia escolar;
+
+II. Tomar las medidas inmediatas necesarias para prevenir, atender y erradicar la violencia escolar, pudiendo solicitar la asesoría de las autoridades en la materia para tal efecto;
+
+III. Denunciar ante las autoridades competentes cualquier hecho relacionado con violencia escolar, y
+
+IV. Proporcionar la información que las autoridades competentes les soliciten, sobre hechos relacionados con violencia escolar.
 
 ### CAPÍTULO I. DE LOS TIPOS DE VIOLENCIA ESCOLAR
 
@@ -568,6 +590,14 @@ Cuando lo solicite el padre o tutor de la víctima de violencia escolar y el per
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 Las Brigadas Escolares podrán acordar la inscripción del generador a otra institución educativa como medida precautoria, si bien este hecho no reemplaza el proceso de restauración del daño a realizar hacia quien fue objeto de violencia.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+En casos de violencia escolar, el personal directivo de las instituciones públicas o privadas en el Estado o las Brigadas Escolares podrán acordar las medidas necesarias para procurar la separación temporal de la alumna o alumno probablemente generador de violencia con la persona que se presume como víctima; en tanto reciben atención, información y tratamiento psicológico según sean las circunstancias y las necesidades de cada caso para mejorar sus formas de convivencia, con el fin de proteger a ambos y para lograr que, de manera preventiva, cesen las agresiones, observando el principio de interés superior del menor.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+Las Brigadas Escolares, el personal directivo y docente de la escuela, los padres, madres o personas tutoras de las y los alumnos, con apoyo de la Secretaría y las autoridades que señala la presente ley, establecerán una ruta de atención y seguimiento inmediato del caso de violencia, procurando brindar la atención requerida a las probables víctimas, generadores y víctimas indirectas, por conducto de las instancias competentes. Cuando se trate de menores de edad se actuará observando el principio de interés superior de la niñez.
 
 ### CAPÍTULO III
 
@@ -1004,3 +1034,9 @@ P.O. 18 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 551 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE VIOLENCIA ESCOLAR EN EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 616 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA ESCOLAR EN EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
