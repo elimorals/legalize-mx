@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asentamientos-humanos-desarrollo-urbano-y-57069"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-17"
-last_updated: "2024-01-17"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 17 de septiembre de 2007.
 
@@ -1181,13 +1181,25 @@ V.- La dotación de servicios, equipamiento o infraestructura urbana, conforme a
 
 VI.- La prevención, control y atención de riesgos y contingencias ambientales y urbanos, así como, las asociadas con la vulnerabilidad al cambio climático en los asentamientos humanos;
 
-VII.- La acción integrada del sector público que articule la regularización de la tenencia de tierra urbana con la dotación de servicios y satisfactores básicos; y
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-VIII.- Las demás que se consideren necesarias para el mejor efecto de las acciones de conservación y mejoramiento.
+VII.- La acción integrada del sector público que articule la regularización de la tenencia de tierra urbana con la dotación de servicios y satisfactores básicos;
 
-> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-IX.- La construcción y adecuación de la infraestructura, el equipamiento y los servicios urbanos para garantizar la seguridad, libre tránsito y accesibilidad requeridas por las personas con capacidades diferentes.
+VIII.- Las demás que se consideren necesarias para el mejor efecto de las acciones de conservación y mejoramiento;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+IX.- La construcción y adecuación de la infraestructura, el equipamiento y los servicios urbanos para garantizar la seguridad, libre tránsito y accesibilidad requeridas por las personas con capacidades diferentes;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+X.- La conservación y preservación del arbolado urbano, y
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+XI.- La forestación y arborización, conservación, trabajos de poda y plan de manejo ante el trasplante y derribo de árboles o arbustos de las zonas urbanas.
 
 ###### ARTICULO 76.
 
@@ -2025,9 +2037,11 @@ IV.- Las demás que establezca la reglamentación respectiva.
 
 #### SECCION CUARTA. DEL FRACCIONAMIENTO DE TERRENOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2024)</small>
+
 ###### ARTICULO 154.
 
-Las disposiciones reglamentarias de esta Ley determinarán los tipos de fraccionamiento, los mínimos y máximos de superficies, frentes, alineamientos, restricciones de ubicación y construcción, infraestructura, equipamiento, servicios, donaciones, garantías, mecanismos de supervisión y demás elementos de la urbanización, así como los procedimientos de autorización, con arreglo a las disposiciones de este capítulo.
+Las disposiciones reglamentarias de esta Ley determinarán los tipos de fraccionamiento, los mínimos y máximos de superficies, frentes, alineamientos, restricciones de ubicación y construcción, infraestructura, arbolado, áreas verdes, equipamiento, servicios, donaciones, garantías, mecanismos de supervisión y demás elementos de la urbanización, así como los procedimientos de autorización, con arreglo a las disposiciones de este capítulo.
 
 Todos los proyectos, memorias de cálculo, construcciones y obras de urbanización correspondientes, deberán estar validados por un Director Responsable de Obra, conforme lo establecido en las Leyes que regulan el ejercicio profesional.
 
@@ -2037,9 +2051,17 @@ La infraestructura que se requiera para la urbanización, fraccionamiento, subdi
 
 I.- Los requerimientos de vialidad de la zona, en el caso de vías públicas y la necesidad de conformar una estructura vial jerarquizada, conforme a la categoría de vialidades, regional, primaria, secundaria y local. Para tales fines deberán sujetarse a las especificaciones que consignen los programas establecidos en esta Ley y la reglamentación correspondiente en la materia y en ningún caso podrán tener un ancho menor que las vías públicas adyacentes de las cuales constituyan prolongación;
 
-II.- La previsión de la planta o sistema de tratamiento de aguas residuales o la aportación económica correspondiente cuando esté prevista la construcción de sistemas de tratamiento, los cuales deberán sujetarse a las disposiciones vigentes en materia ambiental; y
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-III.- Las garantías para asegurar el adecuado funcionamiento, operación o mantenimiento de las redes de infraestructura, hasta en tanto se de la municipalización de las obras.
+II.- La previsión de la planta o sistema de tratamiento de aguas residuales o la aportación económica correspondiente cuando esté prevista la construcción de sistemas de tratamiento, los cuales deberán sujetarse a las disposiciones vigentes en materia ambiental;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+III.- Las garantías para asegurar el adecuado funcionamiento, operación o mantenimiento de las redes de infraestructura, hasta en tanto se dé la municipalización de las obras, y
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+IV.- La planeación de áreas verdes y espacios libres donde exista arbolado urbano que deberá priorizar la forestación o trasplante con especies de la región y con capacidad de adaptación a las condiciones ambientales urbanas y climáticas del sitio de plantación, a efecto de minimizar los daños a la infraestructura adyacente.
 
 ###### ARTICULO 156.
 
@@ -2069,9 +2091,9 @@ IX.- Construir las redes de infraestructura necesarias para el acercamiento de l
 
 X.- Las demás que establezca la reglamentación respectiva.
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
 
-ARTICULO 156 BIS. En camellones y guarniciones de los diferentes tipos de fraccionamientos, se deberán colocar zonas arboladas, preferentemente con flora nativa de la zona en cuestión.
+ARTICULO 156 BIS.- En camellones y guarniciones de los diferentes tipos de fraccionamientos, se deberán colocar zonas arboladas, preferentemente con flora nativa de la zona en cuestión. En caso de derribo de árboles se deberá realizar la sustitución por otro que cumpla con las características necesarias para su adaptación a las condiciones ambientales urbanas y climáticas del sitio de plantación, a efecto de no generar daños a la infraestructura adyacente.
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
@@ -2770,5 +2792,11 @@ P.O. 11 DE ABRIL DE 2023.
 P.O. 17 DE ENERO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 592 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 614 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO Y DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
