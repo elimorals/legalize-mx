@@ -4,7 +4,7 @@ identifier: "HID-ley-integral-para-las-personas-con-discapacidad-del-estado-7830
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2024-01-17"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2010.
 
@@ -611,6 +611,10 @@ I.- Adecuar los espacios públicos y edificios abiertos al público en lo relaci
 
 II.- Las vías de circulación peatonal deberán ser continuas y a nivel, o bien, contar con los elementos necesarios que superen los cambios de nivel en los cruces de calles, etcétera;
 
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+II Bis.- Promover la instalación y operación de semáforos sonoros en los cruces peatonales e intersecciones con mayor afluencia en la entidad, de acuerdo a su suficiencia presupuestal;
+
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
 
 III.- Permitir el acceso de perros guías, sillas de ruedas, bastones o demás ayudas necesarias, por parte de las personas que presenten alguna limitación para su movilidad o desplazamiento;
@@ -671,9 +675,17 @@ IV.- Los vehículos utilizados por las personas con discapacidad porten una plac
 
 V.- Las instalaciones de trasporte público deberán contar con accesibilidad, orientación e información necesaria para el uso de personas con discapacidad y;
 
-VI.- La creación de mecanismos de fiscalización y sanción que procedan por el incumplimiento de las medidas descritas con anterioridad; y
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-VII.- Se promoverá el otorgamiento de estímulos fiscales a concesionarios y, permisionarios del servicio público del transporte que de cumplimiento a las fracciones anteriores.
+VI.- La creación de mecanismos de fiscalización y sanción que procedan por el incumplimiento de las medidas descritas con anterioridad;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+VII.- Se promueva el otorgamiento de estímulos fiscales a concesionarios y permisionarios del servicio público del transporte que den cumplimiento a las fracciones anteriores; y
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+VIII.- De manera progresiva, se elaboren y ejecuten programas y acciones de instalación o actualización de semáforos peatonales sonoros, a efecto de garantizar el derecho a la movilidad de las personas con discapacidad.
 
 ###### Artículo 65.
 
@@ -755,39 +767,45 @@ El pago de impuesto y permisos necesarios para el establecimiento de microempres
 
 El Estado y los Municipios se coordinarán para establecer y operar el Sistema Estatal para la Integración Social de las Personas con Discapacidad.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
+
 ###### Artículo 82.
 
-El Sistema Estatal para la Integración Social de las Personas con Discapacidad, tiene como objetivo coordinar, asesorar, planear, implementar y evaluar las políticas públicas, programas, acciones, modelos, servicios y campañas de difusión, dirigidos a erradicar la exclusión social de las personas con discapacidad, estará integrado por los representantes del Poder Ejecutivo, Legislativo y Judicial.
+El Sistema Estatal para la Integración Social de las Personas con Discapacidad, tiene como objetivo coordinar, asesorar, planear, implementar y evaluar las políticas públicas, programas, acciones, modelos, servicios y campañas de difusión, dirigidos a erradicar la exclusión social de las personas con discapacidad, y estará integrado por:
 
-En el caso del Poder Ejecutivo El Sistema Estatal estará representado por los titulares o los representantes que éstos designen de las siguientes dependencias.
+I. El Poder Ejecutivo, representado por las personas titulares o los representantes que éstas designen, de las siguientes autoridades:
 
-I.- Secretario de Gobierno, quién lo presidirá;
+a) Secretaría de Gobierno, quién lo presidirá;
 
-II.- Consejo Estatal para Prevenir la Discriminación, quien fungirá como Secretaría Técnica;
+b) Consejo Estatal para Prevenir la Discriminación, quien fungirá como Secretaría Técnica;
 
-III.- Secretaría de Desarrollo Social;
+c) Secretaría de Bienestar e Inclusión Social;
 
-IV.- Secretaría de Educación Pública;
+d) Secretaría de Educación Pública;
 
-V.- Secretaría de Salud;
+e) Secretaría de Salud;
 
-VI.- Secretaría de Seguridad Pública;
+f) Secretaría de Seguridad Pública;
 
-VII.- Procuraduría General de Justicia;
+g) Procuraduría General de Justicia;
 
-VIII.- Sistema Estatal para el Desarrollo Integral de la Familia;
+h) Sistema Estatal para el Desarrollo Integral de la Familia;
 
-IX.- Secretaría del Trabajo;
+i) Secretaría del Trabajo y Previsión Social;
 
-X.- Secretaría de Finanzas;
+j) Secretaría de Hacienda;
 
-XI.- Secretaría de Obras Públicas, Comunicaciones, Transportes y Asentamientos;
+k) Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible;
 
-XII.- Secretaría de Turismo;
+l) Secretaría de Turismo, y
 
-XIII.- Tres personas con discapacidad de diferentes organizaciones reconocidas en el Estado; y
+m) Los Municipios, a través de las instancias especializadas en la atención integral de las personas con discapacidad, y en caso de no existir éstas, por medio de las instancias competentes en materia de Desarrollo Social.
 
-XIV.- Los Municipios, a través de las instancias especializadas en la atención integral de las personas con discapacidad, y en caso de no existir éstas, por medio de las instancias competentes en materia de Desarrollo Social.
+II. El Poder Legislativo, representado por la diputada o el diputado que presida la Comisión de Derechos Humanos y Atención de las Personas con Discapacidad.
+
+III. El Poder Judicial, representado por el integrante del Consejo de la Judicatura que designe el propio Consejo.
+
+IV. Tres personas con discapacidad pertenecientes o propuestas por las organizaciones reconocidas en dicha materia en el Estado.
 
 ###### Artículo 83.
 
@@ -1220,5 +1238,17 @@ P.O. 29 DE MAYO DE 2023.
 P.O. 17 DE ENERO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 593 POR EL QUE SE REFORMA EL ARTÍCULO 43 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO."]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 619 POR EL QUE SE REFORMA EL ARTÍCULO 82 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 623 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO Y DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
