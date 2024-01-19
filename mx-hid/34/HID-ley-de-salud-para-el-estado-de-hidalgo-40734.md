@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2023-08-18"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -911,6 +911,12 @@ El Centro de Control Animal y Zoonosis es una unidad de servicio a la comunidad,
 
 Los Municipios deberán atender las demandas de su población en esta materia.
 
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+###### Artículo 50 Bis.
+
+Los municipios apoyarán a la autoridad estatal en materia de salud, a efecto de proporcionar la atención médica veterinaria para prevenir y atender los problemas de salud de los animales de compañía; la cual comprenderá acciones de esterilización y vacunación a precios módicos de recuperación o, en casos determinados, de manera gratuita, conjuntamente con los Centros de Control Animal y Zoonosis y Asociaciones protectoras de Animales.
+
 ###### Artículo 51.
 
 La construcción, equipamiento, aseo, conservación y operación de los centros de control animal y zoonosis, estará a cargo del Municipio y deberán cumplir con los requisitos que establezca la Autoridad Sanitaria competente.
@@ -1208,6 +1214,16 @@ Para efectos de esta Ley, se entiende por centros de reunión y espectáculos to
 ###### Artículo 109.
 
 Además de los requisitos reglamentarios respectivos, las instalaciones y edificaciones que se destinen a centros de reunión y espectáculos públicos deberán tener acceso directo a la vía pública, espacios abiertos, escaleras de emergencia en su caso, accesos para personas con discapacidad, y todas aquellas disposiciones necesarias para la evacuación y seguridad del público en casos de emergencia.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+###### Artículo 109 Bis.
+
+En el caso de las instalaciones con un aforo de más de 100 personas, se procurará contar con baños familiares. Para el caso de instalaciones con aforo de más de 500 personas, la implementación de baños familiares será obligatoria.
+
+Los baños familiares tendrán por objeto la atención de niñas y niños menores de diez años, así como de personas con discapacidad o personas adultas mayores que, por sus condiciones particulares, deban ser acompañados de una persona que los ayude y cuide.
+
+Este tipo de baños deberán reunir los requisitos que establezcan los reglamentos y las normas jurídicas correspondientes.
 
 ###### Artículo 110.
 
@@ -2628,3 +2644,17 @@ P.O. 18 DE AGOSTO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Con relación al sistema y a los órganos que se reconocen al tenor del Título Segundo Bis y el Título Segundo Ter que se adicionan conforme a este Decreto, se concede un término de ciento ochenta días naturales para llevar a cabo la reglamentación de las atribuciones y estructuras de los mismos.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 598 POR EL QUE SE ADICIONA EL ARTÍCULO 50 BIS A LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 603 POR EL QUE SE ADICIONA EL ARTÍCULO 109 BIS A LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Las autoridades competentes deberán expedir la reglamentación sobre baños familiares en un plazo no mayor de ciento ochenta días, contados a partir de la entrada de vigor de este Decreto.
