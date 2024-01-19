@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-para-la-lectura-y-el-libro-del-estado-de-89283"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-27"
-last_updated: "2023-03-29"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de agosto de 2012.
 
@@ -288,6 +288,20 @@ VI.- Promocionar en los niveles de enseñanza básica, métodos que faciliten la
 > <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
 
 VII.- Crear, fomentar, promover y distribuir textos en las lenguas indígenas de la Entidad.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+###### Artículo 9 Bis.
+
+En el ámbito de su competencia, corresponde a los ayuntamientos de la entidad:
+
+I. Fomentar, promover e incentivar el hábito de lectura con especial atención a zonas rurales y de alta marginación, mediante la difusión y distribución de material de lectura, mismo que deberá ofrecerse de forma gratuita y sin condicionamiento alguno;
+
+II. Promover la realización de talleres literarios, cursos, clubes y cualesquiera otras medidas conducentes al fomento de la lectura;
+
+III. Impulsar la creación y mantenimiento de las bibliotecas públicas y escolares, y
+
+IV. Gestionar la donación de ejemplares de lectura en sus diversos géneros literarios a las bibliotecas públicas comunitarias y escolares municipales.
 
 > <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
@@ -666,5 +680,11 @@ SEGUNDO. El Ejecutivo y el Congreso del Estado deberán disponer recursos necesa
 P.O. 29 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 326 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 615 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
