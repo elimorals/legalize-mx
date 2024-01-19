@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2023-10-28"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "OAX"
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE ENERO DE 2024.]</small>
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3745,17 +3747,17 @@ III. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 1998)
 
 I.- Al que altere, modifique o cambie de cualquier forma los datos o partes de identificación de un vehículo, o de la documentación que lo identifique o acredite su propiedad;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2023)</small>
+(REFORMADA, P.O. 28 DE OCTUBRE DE 2023) (F. DE E., P.O. 19 DE ENERO DE 2024)
 
-II.- Al que enajene o trafique decualquier (sic) forma un vehículo robado que se encuentre alterado en sus numerales de identificación;
+II.- Al que enajene o trafique de cualquier forma un vehículo robado o que se encuentre alterado en sus numerales de identificación;
 
 (REFORMADA, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
 
 III.- Al que desmantele algún vehículo robado o comercialice conjunta o separadamente sus partes, y
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2023)</small>
+(REFORMADA, P.O. 28 DE OCTUBRE DE 2023) (F. DE E., P.O. 19 DE ENERO DE 2024)
 
-IV.- Al que con intención adquiera, posea, comercialice, pignore, reciba, traslade, use u oculte un vehículo de motor que este alterado en sus numerales de identificación; y
+IV.- Al que con intención adquiera, posea, comercialice, pignore, reciba, traslade, use u oculte un vehículo de motor robado o que este alterado en sus numerales de identificación; y
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2023)</small>
 
@@ -6013,7 +6015,7 @@ P.O.22 DE MAYO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2457.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 122 BIS, ADICIONA LA DENOMINACIÓN DELITO DEL CAPÍTULO IV "PEDERASTIA”, AL TÍTULO SEXTO DEL LIBRO SEGUNDO; REFORMA DEL ARTÍCULO 202; SE ADICIONAN LAS FRACCIONES IV Y V, Y SE DEROGAN LOS PÁRRAFOS TERCERO Y QUINTO DEL ARTÍCULO 241, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
-ÚNICO (SIC).- El presente Decreto entrará en vigor al día siguiente de su publicación Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2023)</small>
 
@@ -6225,7 +6227,7 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 P.O. 28 DE OCTUBRE DE 2023.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1564.- MEDIANTE EL CUAL ADICIONAN LOS ARTÍCULOS TRANSITORIOS SEGUNDO Y TERCERO AL DECRETO 2457 APROBADO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1564.- MEDIANTE EL CUAL ADICIONAN LOS ARTÍCULOS TRANSITORIOS SEGUNDO Y TERCERO AL DECRETO 2457 APROBADO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
@@ -6235,7 +6237,7 @@ TERCERO. Se derogan todas las disposiciones jurídicas de igual o menor rango qu
 
 P.O. 28 DE OCTUBRE DE 2023.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1565.- MEDIANTE EL CUAL REFORMAN EL ARTÍCULO 404 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1565.- MEDIANTE EL CUAL REFORMAN EL ARTÍCULO 404 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
 
 PRIMERO. Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
