@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-10"
-last_updated: "2023-03-29"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
 
@@ -203,7 +203,17 @@ b).- Turismo Rural y Comunitario: Implica la participación en actividades propi
 
 3. Turismo Artesanal: Actividad realizada manualmente con herramientas o procedimientos transmitidos generacionalmente, en forma individual, familiar o comunitaria, que tenga por objeto la transformación de la materia en productos, en donde la creatividad personal constituye un factor predominante en las características culturales, folklóricas y tradicionales de una región en específico, y que representen un atractivo adicional del sector turístico.
 
-c).- Turismo de Aventura: Aquel que incluye el desarrollo de diferentes actividades deportivo-recreativas integrando el cuidado del medio ambiente y respeto de los atractivos turísticos;
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+4. Agroturismo: Se basa en ofrecer a las personas una participación en las actividades productivas, agropecuarias y agroindustriales, como atractivo turístico, teniendo por objeto generar ingresos económicos adicionales a la comercialización de productos.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
+
+c. Turismo de aventura: Aquel que incluye el desarrollo de diferentes actividades recreativas integrando el cuidado del medio ambiente y respeto de los atractivos turísticos;
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+d. Turismo deportivo: Actividad turística que realizan los visitantes para participar en la práctica de algún deporte, presenciar algún evento deportivo o visitar alguna instalación deportiva.
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
 
@@ -631,9 +641,19 @@ La Secretaría, en el marco del Sistema Estatal de Turismo Sustentable, promover
 
 La Secretaría en el ejercicio de sus atribuciones, fomentará los programas y acciones de inversión en oferta de atractivos turísticos sustentables, entre el sector privado y social, en el marco de las disposiciones legales en materia ambiental.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2024)</small>
+
 ###### Artículo 28.
 
-La Secretaría promoverá el desarrollo del turismo alternativo en sus modalidades de turismo rural, de aventura y ecoturismo dentro de la Entidad.
+La Secretaría promoverá el desarrollo del turismo alternativo en sus modalidades de turismo rural, de aventura, deportivo, natural y ecoturismo dentro de la Entidad.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+Quien preste algún servicio turístico que esté relacionado con alguna de las modalidades señaladas anteriormente, está obligado a preservar los recursos naturales, a no alterar los procesos biológicos y ecológicos, así como a respetar las diversas expresiones históricas, artísticas y culturales del Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+En el desarrollo del ecoturismo, la Secretaría deberá realizar acciones para minimizar el impacto negativo en el medio ambiente, así como para la comunidad que genera la actividad turística.
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
 
@@ -645,7 +665,13 @@ I. Realizar las acciones necesarias, para vincular en forma directa y eficiente 
 
 II. En coordinación con las Dependencias involucradas en atender la actividad artesanal y en absoluto respeto a las atribuciones de estas, realizar las acciones directas y transversales a las que haya lugar, con el objeto de fortalecer de manera sustantiva en todos sus aspectos a las artesanías;
 
-III. Con la participación de los Municipios en el ámbito geográfico que corresponda y en atención a sus facultades, promover acciones que faciliten la producción, promoción, difusión y el comercio de los productos artesanales; y
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+III. Con la participación de los Municipios en el ámbito geográfico que corresponda y en atención a sus facultades, promover acciones que faciliten la producción, promoción, difusión y el comercio de los productos artesanales;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+
+III Bis. Con la participación de los municipios, podrá impulsar la implementación de pabellones turísticos que faciliten el comercio de los productos artesanales propias de cada región; y
 
 IV. Promover en las ferias turísticas y en las actividades de difusión de los atractivos turísticos, la actividad artesanal.
 
@@ -713,7 +739,19 @@ La Secretaría procurará que los programas de señalización del sector conside
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2015)</small>
 
-### CAPÍTULO XIII. DE LA INCORPORACIÓN DE LA ACTIVIDAD TURÍSTICA A LAS CADENAS PRODUCTIVAS
+### CAPÍTULO XII TER. DEL TURISMO DEPORTIVO
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+Artículo 36 SEXIES. La Secretaría, conjuntamente con el Instituto Hidalguense del Deporte, los municipios, el sector privado y social, impulsará el desarrollo de productos turísticos y eventos para el sector deportivo, respectivamente.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+Artículo 36 SEPTIES. La Secretaría, en coordinación con las dependencias y entidades competentes de la Administración Pública Estatal, Municipal, y las organizaciones del sector social, llevará a cabo programas de promoción al turismo deportivo, procurando incluir actividades con perspectiva de género y en beneficio de los distintos sectores poblacionales.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+Artículo 36 OCTIES. Las y los organizadores de eventos deportivos y prestadores de servicios turísticos, deberán tramitar los permisos, licencias y autorizaciones respectivas; mismos que deberán gestionarse ante las instancias competentes.
 
 ###### Artículo 36 Bis.
 
@@ -739,11 +777,13 @@ La Secretaría de manera conjunta con los Ayuntamientos y los sectores social, p
 
 La Secretaría promoverá los recorridos turísticos por las rutas gastronómicas aprovechando los atractivos culturales, históricos y naturales con que cuenta el Estado de Hidalgo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE ENERO DE 2024)</small>
+
+### CAPÍTULO XIII. DE LA INCORPORACIÓN DE LA ACTIVIDAD TURÍSTICA A LAS CADENAS PRODUCTIVAS
+
 ### CAPÍTULO XIV. DE LA CULTURA TURÍSTICA
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2016)</small>
-
-### CAPÍTULO XV. DE LA PROMOCIÓN DE LA ACTIVIDAD TURÍSTICA
 
 ###### Artículo 37.
 
@@ -761,7 +801,7 @@ Será de especial atención la incorporación de micro, pequeñas y medianas emp
 
 Le corresponde a la Secretaría, en coordinación con la Secretaría de Desarrollo Social de Hidalgo, organizar, fomentar y estimular el sector artesanal, como complemento del desarrollo turístico.
 
-### CAPÍTULO XVI. DEL FOMENTO DE INVERSIONES TURÍSTICAS
+### CAPÍTULO XV. DE LA PROMOCIÓN DE LA ACTIVIDAD TURÍSTICA
 
 ###### Artículo 41.
 
@@ -775,7 +815,7 @@ La Secretaría dotará de herramientas y conocimientos a la población local, pa
 
 La Secretaría impulsará la firma de acuerdos y fomentará esfuerzos con las Secretarías Estatales de Educación Pública y del Trabajo y Previsión Social, así como con el Consejo Estatal para la Cultura y las Artes de Hidalgo, para desarrollar acciones encaminadas a la capacitación, profesionalización y certificación laboral de los trabajadores del sector, al igual que participará en la elaboración y actualización de los planes de estudio en materia turística.
 
-### CAPITULO XVII. COMPETITIVIDAD Y PROFESIONALIZACIÓN
+### CAPÍTULO XVI. DEL FOMENTO DE INVERSIONES TURÍSTICAS
 
 ###### Artículo 44.
 
@@ -795,7 +835,9 @@ Corresponde a la Secretaría desarrollar las acciones de promoción del Estado, 
 
 I.- Promover, en coordinación con las Dependencias y entidades competentes, así como con los sectores involucrados, las tradiciones, costumbres, identidad y la riqueza artesanal, así como el patrimonio natural y cultural de los pueblos y comunidades indígenas que constituyan un atractivo turístico, apoyando las iniciativas tendientes a su conservación y promoción.
 
-II.- Desarrollar e implementar la marca Hidalgo, para reforzar su imagen como una entidad atractiva, segura y con una oferta turística diversa;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+
+II. Desarrollar e implementar la marca turística estatal Hidalgo, para reforzar su imagen como una entidad atractiva, segura y con una oferta turística diversa, siendo el signo perceptible por los sentidos y susceptible de representarse, que permita distinguir a la entidad como destino turístico en el ámbito local, nacional e internacional;
 
 III.- Impulsar el aprovechamiento sustentable y la difusión del patrimonio histórico, artístico, cultural y natural del Estado;
 
@@ -819,6 +861,20 @@ IX.- Promover y coordinar con los diversos participantes de la actividad turíst
 
 X.- Elaborar y difundir material especializado de información turística, así como artículos promocionales con recursos propios o a través de convenios con los sectores privado o social.
 
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+Artículo 46 BIS. La Secretaría establecerá una marca turística que genere al Estado una identidad. El Ejecutivo Estatal, las dependencias y entidades de la Administración Pública Estatal y Municipales, así como los prestadores de servicios turísticos, deberán utilizar la marca turística estatal Hidalgo.
+
+Conforme a lo establecido en el Reglamento de esta Ley, se determinarán los requisitos que deberán cumplir los prestadores de servicios turísticos para ostentar la marca turística estatal Hidalgo, así como el procedimiento y las sanciones que establezca la Secretaría derivado de uso indebido.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+Artículo 46 TER. Una vez aprobada la marca, la Secretaría realizará los trámites correspondientes ante el Instituto Mexicano de Propiedad Industrial, para su registro.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+Artículo 46 QUATER. La Secretaría, en coordinación con la Secretaría de Desarrollo Económico del Estado, promoverá la existencia de instrumentos financieros que respalden el desarrollo y la comercialización de la marca turística estatal Hidalgo.
+
 ###### Artículo 47.
 
 La Secretaría deberá mantener una estrecha comunicación y coordinación con la Federación, los Municipios, los sectores privado y social, y otros participantes en el sector turístico, que permita asegurar el establecimiento de una agenda común y facilite el diseño e instrumentación de las campañas promocionales.
@@ -827,7 +883,7 @@ La Secretaría deberá mantener una estrecha comunicación y coordinación con l
 
 La Secretaría impulsará el desarrollo turístico sustentable de las comunidades mediante la creación y difusión de regiones, rutas y circuitos turísticos con la visión de preservar las raíces históricas y culturales del Estado.
 
-### CAPÍTULO XVIII. DEL ORDENAMIENTO TURÍSTICO DEL ESTADO
+### CAPITULO XVII. COMPETITIVIDAD Y PROFESIONALIZACIÓN
 
 ###### Artículo 49.
 
@@ -849,7 +905,7 @@ La Promotora integrará el portafolio de proyectos turísticos, el cual será ac
 
 Cuando se trate de inversiones en el sector turístico, se podrá considerar el posible otorgamiento de los estímulos y apoyos que consigna la Ley de Fomento y Desarrollo Económico del Estado de Hidalgo. La Secretaría podrá, en apego a las disposiciones legales vigentes, proponer ante las autoridades competentes, se otorguen incentivos fiscales en apoyo a las inversiones turísticas en la Entidad.
 
-### CAPÍTULO XIX. DEL SISTEMA ESTADÍSTICO DE INFORMACIÓN TURÍSTICA DEL ESTADO DE HIDALGO
+### CAPÍTULO XVIII. DEL ORDENAMIENTO TURÍSTICO DEL ESTADO
 
 ###### Artículo 54.
 
@@ -915,7 +971,7 @@ La Secretaría en el ejercicio de sus atribuciones, promoverá con la Secretarí
 
 La Secretaría realizará estudios e investigaciones en materia turística que conduzcan a elevar la competitividad del sector y facilitar las acciones de planeación de los sectores privado y social.
 
-### CAPÍTULO XX. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+### CAPÍTULO XIX. DEL SISTEMA ESTADÍSTICO DE INFORMACIÓN TURÍSTICA DEL ESTADO DE HIDALGO
 
 ###### Artículo 59.
 
@@ -935,7 +991,7 @@ III.- Definir los lineamientos para su ejecución, seguimiento, evaluación y mo
 
 Los procedimientos para la formulación, aprobación, expedición, evaluación y posibles modificaciones de los Ordenamientos Turísticos del Territorio Estatal, se apegarán a la legislación local aplicable en la materia y deberán ser congruentes y corresponder a los programas de ordenamiento turístico general y regional que hayan sido expedidos por la Federación.
 
-### CAPÍTULO XXI. DE LOS DERECHOS Y OBLIGACIONES DE LOS TURISTAS DENTRO DEL ESTADO
+### CAPÍTULO XX. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### Artículo 62.
 
@@ -981,9 +1037,7 @@ La Secretaría fomentará acuerdos con los Municipios para mantener actualizada 
 
 La Secretaría expedirá de manera anual comprobante de inscripción al Registro, el cual deberá colocarse en lugar visible en los establecimientos del Sector para los turistas.
 
-### CAPÍTULO XXII. DE LA VERIFICACIÓN DE LOS SERVICIOS Y SANCIONES
-
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+### CAPÍTULO XXI. DE LOS DERECHOS Y OBLIGACIONES DE LOS TURISTAS DENTRO DEL ESTADO
 
 ###### Artículo 70.
 
@@ -1102,6 +1156,10 @@ Los Prestadores de Servicios Turísticos, están obligados a preservar y conserv
 ###### Artículo 77.
 
 En caso de incumplimiento en la prestación de servicios pactados por parte del prestador de servicios, tendrá la obligación de compensar, reembolsar o bonificar por el servicio incumplido a elección del turista.
+
+### CAPÍTULO XXII. DE LA VERIFICACIÓN DE LOS SERVICIOS Y SANCIONES
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Artículo 78.
 
@@ -1318,3 +1376,11 @@ P.O. 29 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 312, QUE ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 624 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Para dar cumplimiento a los artículos 46 Bis, 46 Ter y 46 Quater, el Poder Ejecutivo del Estado deberá realizar las adecuaciones al Reglamento de la presente Ley, dentro de los ciento ochenta días siguientes a la entrada en vigor de este Decreto.
