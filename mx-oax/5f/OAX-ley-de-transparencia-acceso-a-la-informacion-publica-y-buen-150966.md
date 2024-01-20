@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-acceso-a-la-informacion-publica-y-buen-150
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-04"
-last_updated: "2023-12-30"
+last_updated: "2024-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2024.
 
 Ley publicada en el No. 36 del Periódico Oficial del Estado de Oaxaca, el sábado 4 de septiembre de 2021.
 
@@ -289,9 +289,17 @@ XV. Generar la información que se pondrá a disposición de la población como 
 
 XVI. Constituir el Comité de Transparencia y las Unidades de Transparencia, dando vista al Órgano Garante de su integración y los cambios de sus integrantes, de conformidad con las disposiciones normativas aplicables;
 
-XVII. Designar a los titulares de las Unidades de Transparencia, quienes dependerán directamente del titular del sujeto obligado; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2024)</small>
 
-XVIII. Las demás que le señalen las disposiciones normativas aplicables.
+XVII. Designar a los titulares de las Unidades de Transparencia, quienes dependerán directamente del titular del sujeto obligado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ENERO DE 2024)</small>
+
+XVIII. Publicar los resultados de las verificaciones a que son sujetos por parte del órgano Garante, respecto al cumplimiento de las obligaciones previstas en la Ley General y la presente ley;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE ENERO DE 2024)</small>
+
+XIX. Las demás que le señalen las disposiciones normativas aplicables.
 
 ###### Artículo 11.
 
@@ -2550,3 +2558,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 20 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM 1648.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES XVII Y XVIII Y SE ADICIONA LA FRACCIÓN XIX AL ARTÍCULO 10 DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
