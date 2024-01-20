@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-conducta-de-las-personas-servidoras-publicas-del-1513
 country: "mx"
 rank: "codigo"
 publication_date: "2021-09-18"
-last_updated: "2021-09-18"
+last_updated: "2024-01-20"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # CODIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PUBLICAS DEL INSTITUTO COLIMENSE DE LAS MUJERES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO POR EL QUE SE EXPIDE EL CÓDIGO DE CONDUCTA DEL INSTITUTO COLIMENSE DE LAS MUJERES, PUBLICADO EN EL P.O. DE 20 DE ENERO DE 2024, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.]</small>
+
 CÓDIGO DE CONDUCTA DEL INSTITUTO COLIMENSE DE LAS MUJERES DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2024 (SIN EFECTOS).
 
 Código publicado en el Suplemento 8 del Número 73 del Periódico Oficial del Estado de Colima, el sábado 18 de septiembre de 2021.
 
@@ -730,3 +732,15 @@ XVI. SECCIÓN DE CAMBIOS
 No. De Versión Fecha de actualización Descripción del cambio
 
 1 08/06/2021 Inicia uso.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE EXPIDE EL CÓDIGO DE CONDUCTA DEL INSTITUTO COLIMENSE DE LAS MUJERES".]
+
+PRIMERO. El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Este Código de Conducta deja sin efectos el “Código de Conducta de las Personas Servidoras Públicas del Instituto Colimense de las Mujeres” de fecha 18 de septiembre de 2021.
+
+TERCERO. El Instituto Colimense de las Mujeres llevará a cabo las acciones que permitan la implementación del presente Acuerdo.
