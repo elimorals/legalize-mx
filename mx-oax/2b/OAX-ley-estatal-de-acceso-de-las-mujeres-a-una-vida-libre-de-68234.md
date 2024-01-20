@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2023-12-30"
+last_updated: "2024-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -1613,9 +1613,13 @@ XIX. Mantener información actualizada en su página de internet con los datos g
 
 XX. Promover y proteger a través de la Fiscalía Especializada en Materia de Delitos Electorales, el ejercicio de los derechos humanos, políticos y electorales de las mujeres. Crear, actualizar y administrar el Registro de Casos de Violencia Política contra las Mujeres para alimentar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres, a través de la Fiscalía Especializada en Materia de Delitos Electorales; y
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ENERO DE 2024)</small>
 
-XXI. Las demás que esta Ley y otras disposiciones aplicables le señalen.
+XXI. Implementar los mecanismos necesarios que permitan, en los casos de violencia contra las mujeres, recepcionar con prontitud y eficacia las denuncias realizadas por la propia víctima o cualquier otra persona, que se encuentren en aquellos Municipios donde no se cuente con Ministerio Público, y dar inicio a la investigación respectiva; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE ENERO DE 2024)</small>
+
+XXII. Las demás que esta Ley y otras disposiciones aplicables le señalen.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -2181,9 +2185,13 @@ X. Coadyuvar y participar en la operación y ejecución del "Protocolo Alba" en 
 
 XI. Prohibir en su demarcación territorial la colocación de publicidad que genere y/o difunda violencia de género; y
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ENERO DE 2024)</small>
 
-XII. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
+XII. Establecer de manera coordinada con la Fiscalía General del Estado, un mecanismo de vinculación interinstitucional, para atender de manera pronta y eficaz las denuncias de violencia contra las mujeres, que sean presentadas por la propia víctima o por cualquier otra persona;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE ENERO DE 2024)</small>
+
+XIII. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
 
 ## TÍTULO IV. DE LA PREVENCIÓN DE LA VIOLENCIA, ATENCIÓN INTEGRAL A SUS VÍCTIMAS Y REEDUCACIÓN A LOS AGRESORES
 
@@ -2852,6 +2860,16 @@ TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco j
 P.O. 30 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1630.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN II DEL ARTÍCULO 7 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 20 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM 1662.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES XXI DEL ARTÍCULO 57 Y XII DEL ARTÍCULO 70, Y SE ADICIONAN LAS FRACCIONES XXII AL ARTÍCULO 57 Y XIII AL ARTÍCULO 70 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
