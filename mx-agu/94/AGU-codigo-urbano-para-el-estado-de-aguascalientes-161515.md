@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-161515"
 country: "mx"
 rank: "codigo"
 publication_date: "2022-12-20"
-last_updated: "2023-11-27"
+last_updated: "2024-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
 
 Código publicado en el Número 70 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 20 de diciembre de 2020.
 
@@ -349,9 +349,11 @@ X.- Las responsabilidades, medidas de seguridad, verificación, infracciones, im
 
 Las personas sin distinción de sexo, raza, etnia, edad, limitación física, orientación sexual, tienen derecho a vivir y disfrutar ciudades y asentamientos humanos en condiciones sustentables, resilientes, saludables, productivos, equitativos, justos, incluyentes, democráticos y seguros, por tal motivo, se deberá garantizar en el Estado su cumplimiento, promoviendo una cultura de corresponsabilidad cívica y social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 4°.
 
-Para los efectos de este Código, además de lo previsto en el ARTÍCULO 3° de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, se entenderá por:
+Para los efectos de este Código, además de lo previsto en el artículo 3º de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, se entenderá por:
 
 I.- ACCIÓN URBANÍSTICA: la urbanización del suelo y la edificación en el mismo; comprendiendo también, la transformación de suelo rural a urbano; las fusiones, subdivisiones, fraccionamientos y relotificaciones de áreas, lotes y predios; la densificación urbana y la determinación de reservas territoriales; los cambios en la utilización y en el régimen de propiedad de terrenos; la promoción y realización de condominios y desarrollos inmobiliarios especiales; la rehabilitación de fincas y zonas urbanas; así como la introducción, conservación o mejoramiento de las redes de infraestructura, equipamiento y servicios urbanos.
 
@@ -439,6 +441,10 @@ XLII.- FRACCIONADOR: persona a la que se le otorga la autorización de un fracci
 
 XLIII.- FRACCIONAMIENTO: la división de un predio en manzanas y lotes, que requieran del trazo de una o más vías públicas, así como de la ejecución de obras de urbanización que le permitan la dotación adecuada de infraestructura, equipamiento y servicios urbanos, conforme a su clasificación y el tipo previsto en este Código;
 
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XLIII BIS.- FRACCIONAMIENTO DE LA RESERVA DE CRECIMIENTO EJIDAL: acción de dividir la reserva de crecimiento ejidal en partes o fracciones para su ocupación.
+
 XLIV.- FUNDACIÓN: la acción de establecer un asentamiento humano;
 
 XLV.- FUSIÓN: la autorización administrativa para posteriormente formalizar jurídicamente la unión de dos o más terrenos, lotes, áreas o predios colindantes para formar uno solo;
@@ -455,7 +461,9 @@ L.- INFRAESTRUCTURA URBANA: Los sistemas y redes de organización, distribución
 
 LI.- INSTITUTO MUNICIPAL DE PLANEACIÓN: Organismo público descentralizado de la administración pública municipal con personalidad jurídica y patrimonio propio, creado y operado en los municipios con un rango de población igual o mayor a cien mil habitantes, cuyo objetivo es contribuir a la planeación, ordenamiento territorial y desarrollo urbano del municipio;
 
-LII.- INSTITUTO CATASTRAL: el organismo desconcentrado de la Secretaria General de Gobierno, denominado Instituto Catastral del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+LII.- INSTITUTO REGISTRAL Y CATASTRAL: el Organismo Desconcentrado de la Secretaría General de Gobierno, denominado Instituto Registral y Catastral del Estado de Aguascalientes;
 
 LIII.- IVSOP: el Instituto de Vivienda Social y Ordenamiento de la Propiedad del Estado;
 
@@ -507,17 +515,25 @@ LXXVI.- PROVISIONES: las áreas que serán utilizadas para la fundación de un c
 
 LXXVII.- RÉGIMEN DE PROPIEDAD EN CONDOMINIO: aquel en que los departamentos, viviendas, casas, locales, bodegas, naves industriales, mercados, centrales de abasto, parques agroalimentarios, predios o áreas, que se construyan o constituyan en un inmueble en forma horizontal, vertical o mixta, sean susceptibles de aprovechamiento independiente, por pertenecer a distintos propietarios y que, además tengan salida propia a un elemento común o la vía pública. En este régimen coexisten dos tipos de tenencia del inmueble o inmuebles, en el que los propietarios tendrán derecho exclusivo de propiedad sobre su departamento, vivienda, casa, local, bodega, nave industrial, predio o área y derecho de copropiedad, sobre los elementos y partes comunes del inmueble o inmuebles, necesarios para su adecuado aprovechamiento y disfrute;
 
-LXXVIII.- REGISTRO PÚBLICO: la Dirección General del Registro Público de la Propiedad y del Comercio del Estado de la Secretaria General de Gobierno;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-LXXIX.- RELOTIFICACIÓN: la modificación total o parcial de la lotificación originalmente autorizada para un fraccionamiento;
+LXXVIII.- RELOTIFICACIÓN: la modificación total o parcial de la lotificación originalmente autorizada para un fraccionamiento;
 
-LXXX.- RESERVA: el área o predio de un centro de población que será utilizada para crecimiento, lotificación o zonificación, posteriormente a la autorización de un fraccionamiento, condominio o desarrollo inmobiliario especial;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+LXXIX.- RESERVA: el área o predio de un centro de población que será utilizada para crecimiento, lotificación o zonificación, posteriormente a la autorización de un fraccionamiento, condominio o desarrollo inmobiliario especial.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ENERO DE 2024)</small>
+
+LXXX.- RESERVA DE CRECIMIENTO EJIDAL: área ubicada dentro del asentamiento humano del núcleo ejidal para el desarrollo de la zona urbana;
 
 LXXXI.- RESTRICCIÓN DE USO O DESTINO DEL SUELO: determinación oficial de la autoridad competente que impone límites previstos en las normas y programas de desarrollo urbano y ordenamiento territorial, tales como: derechos de vía de carreteras, ferrocarriles, línea de alta tensión y combustible; apertura y ampliación de vialidades; red troncal de agua potable y alcantarillado; zona federal de escurrimiento; niveles de aguas máximas; las que protejan el patrimonio arqueológico, histórico, artístico y cultural; las que preserven, protejan y restauren el equilibrio ecológico, el ambiente, la traza y la imagen urbana;
 
 LXXXII.- SECRETARÍA MUNICIPAL.- la Dependencia Municipal que, conforme a la reglamentación respectiva, ejerza las atribuciones asignadas al Municipio por el Código;
 
-LXXXIII.- SEPLAPDE: la Secretaría de Planeación, Participación y Desarrollo del Estado;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+LXXXIII.- SEPLADE: la Secretaría de Planeación, Participación y Desarrollo del Estado;
 
 LXXXIV.- SISTEMA ESTATAL DE PLANEACIÓN TERRITORIAL: el integrado por políticas de carácter global, sectorial y regional que contiene la planeación, regulación y evaluación del ordenamiento territorial de los asentamientos humanos y del desarrollo de los centros de población, que coadyuva al logro de los objetivos de los planes estatales y municipales;
 
@@ -741,7 +757,9 @@ VI.- Celebrar convenios con la federación, otras entidades federativas, los Mun
 
 VII.- Presidir el Consejo Estatal, las Comisiones de Conurbación Intraestatales y el Comité Interinstitucional de Fallas y Grietas Geológicas en el Estado;
 
-VIII.- Promover la fundación de nuevos centros de población, a partir de las propuestas que hagan la SEPLAPDE o los Municipios;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+VIII.- Promover la fundación de nuevos centros de población, a partir de las propuestas que hagan la SEPLADE o los Municipios;
 
 IX.- Acordar con los Municipios la transferencia de facultades estatales en materia urbana;
 
@@ -755,9 +773,11 @@ XIII.- Otorgar, suspender, rescatar y revocar las concesiones y permisos que le 
 
 XIV.- Ejercer las demás atribuciones que se le otorguen en este Código y otros ordenamientos en materia de asentamientos humanos, ordenamiento territorial y desarrollo urbano.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 20.
 
-La SEPLAPDE tendrá las atribuciones siguientes:
+La SEPLADE tendrá las atribuciones siguientes:
 
 I.- Vigilar el cumplimiento de las disposiciones de este Código y la efectiva protección de los derechos humanos en materia de asentamientos humanos, desarrollo urbano, ordenamiento del territorio, y vivienda;
 
@@ -811,9 +831,13 @@ XXV.- Autorizar, en coordinación con el Municipio, a los fraccionadores o promo
 
 XXVI.- Emitir opinión a los Municipios, para que en su caso autoricen la subdivisión, relotificación y la edificación de inmuebles, conforme a lo previsto en este Código;
 
-XXVII.- Tramitar en el Registro Público, a petición de parte la inscripción de los planes y programas municipales en materia de desarrollo urbano, cuando estos tengan congruencia y estén ajustados con la planeación federal y estatal;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-XXVIII.- Realizar la inscripción de los programas estatales, de conurbación y metropolitanos en el Registro Estatal de Planeación, así como gestionar lo conducente en el Registro Público de la Propiedad;
+XXVII.- Tramitar en el Instituto Registral y Catastral, a petición de parte la inscripción de los planes y programas municipales en materia de desarrollo urbano, cuando estos tengan congruencia y estén ajustados con la planeación federal y estatal;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XXVIII.- Realizar la inscripción de los programas estatales, de conurbación y metropolitanos en el Registro Estatal de Planeación, así como gestionar lo conducente en el Instituto Registral y Catastral;
 
 XXIX.- Cuando el Municipio respectivo, hubiera celebrado convenio con el Titular del Ejecutivo del Estado, para que el Estado asuma la función de supervisar la ejecución de las obras de urbanización de los fraccionamientos, condominios y desarrollos inmobiliarios especiales, efectuar esos trabajos por conducto de las unidades externas de supervisión;
 
@@ -869,9 +893,13 @@ III.- Dar cumplimiento y seguimiento, a directrices o acuerdos tomados por el Co
 
 IV.- Crear los mecanismos de consulta ciudadana para la formulación, modificación y evaluación de los programas de desarrollo urbano de su competencia, propiciando en lo particular la participación de las mujeres, jóvenes y personas en situación de vulnerabilidad, así como llevar el registro de los programas e informar anualmente sobre la aplicación y ejecución de los mismos;
 
-V.- Validar ante la SEPLAPDE, sobre la apropiada congruencia, coordinación y ajuste de sus programas de desarrollo urbano, y en el supuesto de existir diferencia de criterios al respecto, solicitar se presente a la determinación del Consejo Estatal;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-VI.- Obtenido el dictamen sobre la congruencia de sus programas de desarrollo urbano, gestionar su publicación en el Periódico Oficial del Estado y su inscripción en el Registro Público;
+V.- Validar ante la SEPLADE, sobre la apropiada congruencia, coordinación y ajuste de sus programas de desarrollo urbano, y en el supuesto de existir diferencia de criterios al respecto, solicitar se presente a la determinación del Consejo Estatal;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+VI.- Obtenido el dictamen sobre la congruencia de sus programas de desarrollo urbano, gestionar su publicación en el Periódico Oficial del Estado y su inscripción en el Instituto Registral y Catastral;
 
 VII.- Solicitar, a la autoridad federal, la incorporación de los programas de desarrollo urbano y sus modificaciones en el sistema de información territorial y urbano;
 
@@ -879,7 +907,9 @@ VIII.- Participar en la planeación y regulación de las zonas metropolitanas y 
 
 IX.- Formular, aprobar y administrar la zonificación de los centros de población;
 
-X.- Proponer al Congreso del Estado y previo dictamen de la SEPLAPDE, la fundación y, en su caso, desaparición de centros de población;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+X.- Proponer al Congreso del Estado y previo dictamen de la SEPLADE, la fundación y, en su caso, desaparición de centros de población;
 
 XI.- Regular, controlar y vigilar las reservas, usos del suelo y destinos de áreas y predios, así como las zonas de alto riesgo en los centros de población;
 
@@ -913,9 +943,13 @@ XXV.- Expedir las constancias municipales e informes de compatibilidad urbaníst
 
 XXVI.- Otorgar autorizaciones, licencias y permisos para la construcción, reconstrucción, remodelación, ampliación, demolición de inmuebles y obras de urbanización o para realizar obras o utilizar la vía pública;
 
-XXVII.- Autorizar la constitución, modificación y extinción del régimen de propiedad en condominio, cuando el predio objeto de la solicitud tenga una superficie de hasta 20,000 metros cuadrados o menos de 100 predios, viviendas, departamentos, unidades o áreas, previa opinión de la SEPLAPDE;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-XXVIII.- Autorizar los desarrollos inmobiliarios especiales, cuando el predio objeto de la solicitud tenga una superficie de hasta 20,000 metros cuadrados, previa opinión de la SEPLAPDE;
+XXVII.- Autorizar la constitución, modificación y extinción del régimen de propiedad en condominio, cuando el predio objeto de la solicitud tenga una superficie de hasta 20,000 metros cuadrados o menos de 100 predios, viviendas, departamentos, unidades o áreas, previa opinión de la SEPLADE;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XXVIII.- Autorizar los desarrollos inmobiliarios especiales, cuando el predio objeto de la solicitud tenga una superficie de hasta 20,000 metros cuadrados, previa opinión de la SEPLADE;
 
 XXIX.- Autorizar el calendario o programa de obras de urbanización y en su caso de la infraestructura y equipamiento sustituido por áreas de donación municipal, respecto de los proyectos autorizados de su parte, determinando la temporalidad para su ejecución, de acuerdo a la superficie y las implicaciones del proyecto correspondiente;
 
@@ -931,7 +965,9 @@ XXXIV.- Autorizar las solicitudes de relotificación, fusión y subdivisión de 
 
 XXXV.- Normar y autorizar la nomenclatura o toponimia para la denominación de las vías públicas, parques, jardines, plazas, fraccionamientos y todo lugar público susceptible de asignarle una designación o nombre, así como los números oficiales que le correspondan a los inmuebles;
 
-XXXVI.- Emitir opinión sobre la autorización, modificación, extinción y revocación de los fraccionamientos, condominios y desarrollos inmobiliarios especiales, que le correspondan al Consejo Estatal o la SEPLAPDE;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XXXVI.- Emitir opinión sobre la autorización, modificación, extinción y revocación de los fraccionamientos, condominios y desarrollos inmobiliarios especiales, que le correspondan al Consejo Estatal o la SEPLADE;
 
 XXXVII.- Determinar y recibir en escritura pública las áreas, lotes o predios que conforme a este Código deberán donar al Municipio los fraccionadores y promotores o en su caso, la dotación de equipamiento urbano e infraestructura en las áreas de donación municipales, así como las vialidades públicas;
 
@@ -953,11 +989,17 @@ XLV.- Elaborar y aplicar los atlas de riesgos;
 
 XLVI.- Conocer y dar trámite a las denuncias populares que se le presenten;
 
-XLVII.- Mediar y conciliar cuando se les solicite, en coordinación en su caso con la SEPLAPDE, en asuntos, conflictos y controversias entre la población o de esta con los fraccionadores o promotores;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-XLVIII.- Coordinarse con la SEPLAPDE, para implementar, integrar y operar en el ámbito de su competencia el expediente digital único, para la tramitación, autorización, ejecución y control de las obras de urbanización, así como la municipalización de un fraccionamiento o subdivisión y la entrega de las obras de urbanización de los condominios;
+XLVII.- Mediar y conciliar cuando se les solicite, en coordinación en su caso con la SEPLADE, en asuntos, conflictos y controversias entre la población o de esta con los fraccionadores o promotores;
 
-XLIX.- En coordinación con la SEPLAPDE, implementar y actualizar una certificación para los asesores inmobiliarios, a fin de propiciar y facilitar que los fraccionadores y promotores, efectúen la debida, correcta y expedita integración de los expedientes para la autorización y ejecución de las obras de urbanización, en los fraccionamientos, condominios y desarrollos inmobiliarios especiales;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XLVIII.- Coordinarse con la SEPLADE, para implementar, integrar y operar en el ámbito de su competencia el expediente digital único, para la tramitación, autorización, ejecución y control de las obras de urbanización, así como la municipalización de un fraccionamiento o subdivisión y la entrega de las obras de urbanización de los condominios;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XLIX.- En coordinación con la SEPLADE, implementar y actualizar una certificación para los asesores inmobiliarios, a fin de propiciar y facilitar que los fraccionadores y promotores, efectúen la debida, correcta y expedita integración de los expedientes para la autorización y ejecución de las obras de urbanización, en los fraccionamientos, condominios y desarrollos inmobiliarios especiales;
 
 L.- Celebrar convenios de asociación con otros Municipios para fortalecer sus procesos de planeación urbana, así como para la programación, financiamiento y ejecución de acciones, obras y prestación de servicios comunes;
 
@@ -979,7 +1021,9 @@ El Consejo Estatal se integra por los miembros permanentes con voz y voto, que s
 
 I.- Un Presidente, quien será el Titular del Poder Ejecutivo del Estado;
 
-II.- Un Secretario Técnico, quien será la persona titular de la SEPLAPDE;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+II.- Un Secretario Técnico, quien será la persona titular de la SEPLADE;
 
 III.- Las personas titulares de las presidencias municipales en el Estado, o en su ausencia, la persona titular de la Secretaría Municipal, cuando se analicen asuntos de su competencia.
 
@@ -995,7 +1039,9 @@ d).- La Coordinación General de Movilidad;
 
 e).- INAGUA;
 
-f).- El Instituto Catastral; y
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+f).- El Instituto Registral y Catastral; y
 
 g).- El Registro Público;
 
@@ -1087,17 +1133,23 @@ XXV.- Coordinar y concertar acciones, obras y servicios entre los sectores públ
 
 XXVI.- Proponer lineamientos generales para la regularización de la tenencia de la tierra en el Estado;
 
-XXVII.- Llevar a cabo convocatorias o programas, así como celebrar los contratos o convenios que sean necesarios para lograr los fines de regularización de la tenencia de la tierra;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XXVII.- Llevar a cabo convocatorias o programas, así como celebrar los contratos o convenios que sean necesarios para lograr los fines de Desarrollo Urbano, Ordenamiento Territorial y Planeación Urbana;
 
 XXVIII.- Proponer normas y criterios generales para homologar y simplificar los procedimientos y criterios de regularización de la tenencia de la tierra; y
 
 XXIX.- Las demás que le señalen este Código y que sean necesarias para el cumplimiento de su objeto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 25.
 
-Cada integrante del Consejo Estatal designará un suplente por escrito, que lo suplirá en su inasistencia, mismo suplente deberá de tener un cargo similar a aquel que sustituirá, con la misma capacidad de decisión y de análisis sobre los asuntos que se presentan en el Consejo Estatal. El desempeño de los cargos es honorífico.
+Cada integrante del Consejo Estatal designará un suplente por escrito, que lo suplirá en sus inasistencias, deberá de ser del nivel jerárquico inmediato inferior con la capacidad de decisión y de análisis sobre los asuntos que se presentan en el Consejo Estatal. ... (sic)
 
-En los casos en que el titular de la SEPLAPDE, supla al Gobernador del Estado como presidente del Consejo Estatal, fungirá como Secretario Técnico la persona titular de la Dirección General de la SEPLAPDE, que establezca el Reglamento del Consejo Estatal o quien designe el Titular de esa dependencia estatal.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+En los casos en que el titular de la SEPLADE, supla al Gobernador del Estado como presidente del Consejo Estatal, fungirá como Secretario Técnico la persona titular de la Dirección General de la SEPLADE, que establezca el Reglamento del Consejo Estatal o quien designe el Titular de esa dependencia estatal.
 
 ###### ARTÍCULO 26.
 
@@ -1133,7 +1185,9 @@ I.- Un Presidente, quien será el Presidente Municipal;
 
 II.- Un Secretario Técnico, quien será el titular de la Secretaría Municipal;
 
-III.- Un representante de la SEPLAPDE;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+III.- Un representante de la SEPLADE;
 
 IV.- Un representante del Instituto Municipal de Planeación o del área encargada de la planeación municipal en caso de no contar con el primero;
 
@@ -1207,7 +1261,9 @@ VI.- Los representantes de las dependencias y entidades de las administraciones 
 
 Por cada representante propietario se designará por escrito un suplente que los sustituirá en sus inasistencias. El desempeño de los cargos es honorífico.
 
-En los casos en que el titular de la SEPLAPDE supla al Gobernador del Estado como Presidente de la Comisión Metropolitana y de Conurbación, fungirá como Secretario Técnico la persona titular de la Dirección General de la SEPLAPDE que establezca el Reglamento de esa Comisión o quien designe el Titular de esa dependencia estatal.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+En los casos en que el titular de la SEPLADE supla al Gobernador del Estado como Presidente de la Comisión Metropolitana y de Conurbación, fungirá como Secretario Técnico la persona titular de la Dirección General de la SEPLADE que establezca el Reglamento de esa Comisión o quien designe el Titular de esa dependencia estatal.
 
 ###### ARTÍCULO 39.
 
@@ -1231,7 +1287,9 @@ I.- Elaborar, aprobar, modificar, actualizar, implementar, evaluar y en su caso 
 
 II.- Vigilar el cumplimiento de los Programas de Ordenamiento Territorial y Desarrollo Urbano de la Zona Metropolitana;
 
-III.- Instruir al Secretario Técnico de las Comisiones Metropolitanas y de Conurbación, para que gestione la publicación en el Periódico Oficial del Estado y la inscripción de los Programas de Ordenamiento Territorial y Desarrollo Urbano de la Zona Metropolitana en el Registro Público y en el Registro Estatal de Ordenamiento Territorial y municipales respectivos;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+III.- Instruir al Secretario Técnico de las Comisiones Metropolitanas y de Conurbación, para que gestione la publicación en el Periódico Oficial del Estado y la inscripción de los Programas de Ordenamiento Territorial y Desarrollo Urbano de la Zona Metropolitana en el Instituto Registral y Catastral y en el Registro Estatal de Ordenamiento Territorial y municipales respectivos;
 
 IV.- Participar en la elaboración de los programas subregionales de las zonas conurbadas, parciales o sectoriales, cuyo espacio de aplicación esté comprendido dentro del territorio de la zona conurbada, así como sus proyectos de modificación;
 
@@ -1271,7 +1329,9 @@ I.- Participarán de manera conjunta y coordinada el Estado y los Municipios inv
 
 II.- Las acciones, inversiones, obras y servicios que se convengan serán obligatorias para el Estado y los Municipios y dado a su carácter intermunicipal, las mismas deberán ser consideradas en la elaboración y actualización de sus respectivos programas de desarrollo urbano y ordenamiento del territorio; y
 
-III.- Para la coordinación y ejecución de los distintos proyectos, obras, acciones, servicios e inversiones convenidas, se deberán constituir grupos interdisciplinarios integrados por el Estado y los Municipios involucrados, mismos que serán coordinados por la SEPLAPDE. Dichos grupos deberán informar periódicamente respecto de sus actividades a la Comisión Metropolitana y de Conurbación respectiva por conducto de su Secretario Técnico.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+III.- Para la coordinación y ejecución de los distintos proyectos, obras, acciones, servicios e inversiones convenidas, se deberán constituir grupos interdisciplinarios integrados por el Estado y los Municipios involucrados, mismos que serán coordinados por la SEPLADE. Dichos grupos deberán informar periódicamente respecto de sus actividades a la Comisión Metropolitana y de Conurbación respectiva por conducto de su Secretario Técnico.
 
 ###### ARTÍCULO 46.
 
@@ -1349,9 +1409,11 @@ Los programas que prevé este Código conforman el Sistema Estatal de Planeació
 
 En caso de contradicción, las disposiciones de este Código prevalecerán sobre las disposiciones de los programas y reglamentos estatales y municipales.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 54.
 
-Para cumplir con los objetivos del Sistema Estatal de Planeación Democrática, debe existir congruencia entre los diversos programas estatales y municipales de ordenamiento territorial y desarrollo urbano, correspondiendo al Consejo Estatal y la SEPLAPDE, constatar que, al formularse los diversos instrumentos de planeación señalados, se observen las disposiciones y objetivos del referido Sistema, así como el que no se modifiquen las tendencias naturales de crecimiento de los centros de población.
+Para cumplir con los objetivos del Sistema Estatal de Planeación Democrática, debe existir congruencia entre los diversos programas estatales y municipales de ordenamiento territorial y desarrollo urbano, correspondiendo al Consejo Estatal y la SEPLADE, constatar que, al formularse los diversos instrumentos de planeación señalados, se observen las disposiciones y objetivos del referido Sistema, así como el que no se modifiquen las tendencias naturales de crecimiento de los centros de población.
 
 ###### ARTÍCULO 55.
 
@@ -1361,9 +1423,11 @@ I.- Los lineamientos generales de articulación y congruencia con la estrategia 
 
 II.- El análisis y congruencia territorial con el Programa Nacional de Ordenamiento Territorial y Desarrollo Urbano, los programas de ordenamiento ecológico, de prevención de riesgos y de otros programas sectoriales que incidan en el territorio estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 56.
 
-Los programas de desarrollo urbano que prevé este Código, pueden ser consultados por los particulares, ya sea de forma física en las oficinas de la SEPLAPDE y de los Municipios o a través de sitios electrónicos o página web que para el efecto se habiliten, cumpliéndose la legislación en materia de información y transparencia.
+Los programas de desarrollo urbano que prevé este Código, pueden ser consultados por los particulares, ya sea de forma física en las oficinas de la SEPLADE y de los Municipios o a través de sitios electrónicos o página web que para el efecto se habiliten, cumpliéndose la legislación en materia de información y transparencia.
 
 En caso de que se soliciten impresiones de los programas o de planos que conforman los mismos, se otorgarán previo pago de derechos que determine la ley de ingresos correspondiente.
 
@@ -1531,23 +1595,33 @@ i).- Los requerimientos globales de reservas territoriales para el desarrollo ur
 
 j).- Los mecanismos e instrumentos financieros para el desarrollo urbano y el ordenamiento del territorio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 65.
 
-Corresponde a la SEPLAPDE, la coordinación para la elaboración, modificación o actualización del Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano, bajo el siguiente procedimiento:
+Corresponde a la SEPLADE, la coordinación para la elaboración, modificación o actualización del Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano, bajo el siguiente procedimiento:
 
 I.- El Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano contendrá los elementos específicos y el contenido que establece este Código, en su caso la Ley de Planeación, así como su Reglamento.
 
-II.- La SEPLAPDE elaborará el proyecto, modificación o actualización del Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano con base en el análisis, caracterización y aptitud del suelo y del territorio, bajo criterios de sustentabilidad y tomando en consideración los aspectos económicos, ambientales, sociales y urbanos como líneas generales de estrategia; utilizando para ello, una metodología de planeación prospectiva, en la que se garantice la participación social. El programa tendrá una visión que deberá coincidir en temporalidad con la planteada en el Plan de Largo Plazo.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+II.- La SEPLADE elaborará el proyecto, modificación o actualización del Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano con base en el análisis, caracterización y aptitud del suelo y del territorio, bajo criterios de sustentabilidad y tomando en consideración los aspectos económicos, ambientales, sociales y urbanos como líneas generales de estrategia; utilizando para ello, una metodología de planeación prospectiva, en la que se garantice la participación social. El programa tendrá una visión que deberá coincidir en temporalidad con la planteada en el Plan de Largo Plazo.
 
 III.- En su elaboración, los Municipios del Estado tendrán la intervención que les competa de conformidad a sus atribuciones en materia de planeación, especialmente del suelo y la autorización de los usos y destinos del mismo, conforme a sus atribuciones constitucionales y a los instrumentos de planeación del ordenamiento territorial y desarrollo urbano aplicables.
 
-IV.- La SEPLAPDE se coordinará con las dependencias del orden federal, estatal y municipal necesarias, a efecto de contar con la participación que corresponda a esas dependencias de conformidad con lo dispuesto en la Ley General y la Ley de Planeación y su Reglamento.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-V.- Para la elaboración, actualización o modificación del Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano, la SEPLAPDE se apegará a lo dispuesto en este Código;
+IV.- La SEPLADE se coordinará con las dependencias del orden federal, estatal y municipal necesarias, a efecto de contar con la participación que corresponda a esas dependencias de conformidad con lo dispuesto en la Ley General y la Ley de Planeación y su Reglamento; y
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+V.- Para la elaboración, actualización o modificación del Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano, la SEPLADE se apegará a lo dispuesto en este Código.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 66.
 
-La actualización del Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano se realizará dentro de un plazo no mayor a cuatro años, contados a partir de su última fecha de inscripción en el Registro Público de la Propiedad con la misma metodología y procedimiento que se utilizó para su elaboración.
+La actualización del Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano se realizará dentro de un plazo no mayor a cuatro años, contados a partir de su última fecha de inscripción en el Instituto Registral y Catastral con la misma metodología y procedimiento que se utilizó para su elaboración.
 
 ###### ARTÍCULO 67.
 
@@ -1557,7 +1631,9 @@ De ser necesario hacer modificaciones al Programa Estatal de Ordenamiento Territ
 
 Los instrumentos de planeación y programación estatal y municipal a que se refiere la Ley de Planeación, en la parte que, impliquen la utilización del espacio físico del territorio del Estado, deberán ser congruentes con las líneas generales de estrategia que se establezcan en el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano y en el Programa Nacional de Ordenamiento Territorial y Desarrollo Urbano.
 
-La zonificación secundaria de los usos y destinos del suelo en los centros de población y la delimitación de las áreas que integran los mismos, de acuerdo con el ARTÍCULO 115 de la Constitución Política de los Estados Unidos Mexicanos, el ARTÍCULO 71 de la Constitución Política del Estado de Aguascalientes, la Ley General y este Código, será determinada por los Municipios en los programas de ordenamiento territorial y desarrollo urbano de carácter municipal respectivos y que por su nivel de actuación espacial sea necesario especificar, tomando en cuenta los lineamientos generales de estrategia previstos en el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+La zonificación secundaria de los usos y destinos del suelo en los centros de población y la delimitación de las áreas que integran los mismos, de acuerdo con el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, el artículo71 de la Constitución Política del Estado de Aguascalientes, la Ley General y este Código, será determinada por los Municipios en los programas de ordenamiento territorial y desarrollo urbano de carácter municipal respectivos y que por su nivel de actuación espacial sea necesario especificar, tomando en cuenta los lineamientos generales de estrategia previstos en el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano.
 
 ###### ARTÍCULO 69.
 
@@ -1787,7 +1863,9 @@ Los Municipios podrán elaborar Esquemas de Desarrollo Urbano de aquellos centro
 
 Para aquellas localidades rurales que cuenten con esquema de desarrollo urbano y posteriormente sobrepasen el rango de 2,500 habitantes, deberán las autoridades municipales elaborar su programa de desarrollo urbano de centro de población que sustituya al esquema vigente.
 
-La SEPLAPDE, el Consejo Estatal y en su caso, la Procuraduría, controlarán que ningún Municipio elabore o apruebe esquemas de desarrollo urbano o programas parciales que vayan en contra de este ARTÍCULO y que modifiquen las tendencias naturales de crecimiento de los centros de población para fomentar la especulación inmobiliaria y alterar las características del medio rural.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+La SEPLADE, el Consejo Estatal y en su caso, la Procuraduría, controlarán que ningún Municipio elabore o apruebe esquemas de desarrollo urbano o programas parciales que vayan en contra de este artículo y que modifiquen las tendencias naturales de crecimiento de los centros de población para fomentar la especulación inmobiliaria y alterar las características del medio rural.
 
 ###### ARTÍCULO 84.
 
@@ -1875,7 +1953,9 @@ V.- EVALUACIÓN: esta fase cierra el proceso de administración y retroalimenta 
 
 En la elaboración, aprobación, modificación o cancelación de los programas que establece este Código, se deberá cumplir con el siguiente procedimiento de formulación, consulta, opinión, aprobación, publicación y registro:
 
-I.- Conforme a lo dispuesto en la Ley General y en el Código, el Titular del Ejecutivo Estatal, a través de la SEPLAPDE y, en su caso, el Municipio correspondiente por conducto de la Secretaría Municipal y/o del Instituto Municipal de Planeación, dará aviso público del inicio del proceso de planeación y formulará el proyecto de Programa de Desarrollo Urbano respectivo, o el proyecto de modificaciones o cancelaciones de algún programa, difundiéndolo ampliamente;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+I.- Conforme a lo dispuesto en la Ley General y en el Código, el Titular del Ejecutivo Estatal, a través de la SEPLADE y, en su caso, el Municipio correspondiente por conducto de la Secretaría Municipal y/o del Instituto Municipal de Planeación, dará aviso público del inicio del proceso de planeación y formulará el proyecto de Programa de Desarrollo Urbano respectivo, o el proyecto de modificaciones o cancelaciones de algún programa, difundiéndolo ampliamente;
 
 II.- Se establecerá un plazo mínimo de 30 días naturales y un calendario de audiencias públicas y talleres de trabajo, para que los interesados presenten por escrito a las autoridades competentes, los planteamientos que consideren respecto del proyecto de aprobación, actualización, modificación o cancelación al Programa de Desarrollo Urbano y/o algún programa, y se publicarán por medio de un diario de circulación estatal, medios digitales y Periódico Oficial del Estado.
 
@@ -1887,9 +1967,13 @@ IV.- Posteriormente a la terminación de la consulta pública, el proyecto de Pr
 
 V.- Cumplidas las formalidades a las que se refieren las fracciones I a IV de este artículo, el Programa respectivo o las modificaciones o cancelaciones de algún programa, serán aprobados por el Titular del Ejecutivo Estatal o el Municipio o por la Comisión de Conurbación según corresponda, dentro de los 30 días naturales posteriores a las opiniones del mismo y se publicarán en forma completa en el Periódico Oficial del Estado, como en el portal digital del Gobierno del Estado o Municipal respectivo; así como de forma abreviada en un diario de circulación en el Estado, y en su caso, en las gacetas o bandos municipales dentro de los 45 días naturales siguientes a la emisión sobre la apropiada congruencia emitida en términos del artículo 44 de la Ley General;
 
-VI.- Los diversos programas una vez aprobados y publicados, así como sus modificaciones o cancelaciones, y determinada su congruencia con el Sistema Estatal de Planeación del Desarrollo Urbano, por parte de la SEPLAPDE se inscribirán en la oficina registral de la misma o en la Secretaría Municipal respectiva y/o en el Instituto Municipal de Planeación, en su caso, en la sección correspondiente del Registro Público. Así mismo se deberá de solicitar su registro en el Sistema Estatal para lo cual se entregará el documento en formato word y el sistema de información geográfico en archivos formato shape.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-No tendrá validez jurídica el Programa que no cumpla con el procedimiento de formalización y los plazos que establece este ARTÍCULO. La autoridad respectiva tendrá que iniciar de nuevo el procedimiento de formalización en la etapa anterior en la que se quedó.
+VI.- Los diversos programas una vez aprobados y publicados, así como sus modificaciones o cancelaciones, y determinada su congruencia con el Sistema Estatal de Planeación del Desarrollo Urbano, por parte de la SEPLADE se inscribirán en la oficina registral de la misma o en la Secretaría Municipal respectiva y/o en el Instituto Municipal de Planeación, en su caso, en la sección correspondiente del Instituto Registral y Catastral. Así mismo se deberá de solicitar su registro en el Sistema Estatal para lo cual se entregará el documento en formato Word y el sistema de información geográfico en archivos formato Shape.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+No tendrá validez jurídica el Programa que no cumpla con el procedimiento de formalización y los plazos que establece este artículo. La autoridad respectiva tendrá que iniciar de nuevo el procedimiento de formalización en la etapa anterior en la que se quedó.
 
 ###### ARTÍCULO 90.
 
@@ -1905,53 +1989,71 @@ El Consejo Estatal y/o el Consejo Municipal respectivo, habiendo recibido para o
 
 En el caso de que la opinión del Consejo Estatal o del Consejo Municipal respectivo, sea contraria o contenga observaciones de fondo a lo consignado en el proyecto de Programa de Desarrollo Urbano o de modificaciones o cancelaciones de algún Programa, este deberá regresar a la autoridad que lo elaboró, para efecto de que lo revise y analice de acuerdo a lo señalado en la opinión correspondiente.
 
-En el Programa Estatal de Desarrollo Urbano o de aquellos programas derivados de este, será el Titular del Ejecutivo Estatal quien resuelva, en definitiva, previo dictamen de la SEPLAPDE.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+En el Programa Estatal de Desarrollo Urbano o de aquellos programas derivados de este, será el Titular del Ejecutivo Estatal quien resuelva, en definitiva, previo dictamen de la SEPLADE.
 
 Tratándose de un Programa Municipal de Desarrollo Urbano o derivados, será el Ayuntamiento quien resuelva, en definitiva, previo dictamen de la Secretaría Municipal respectiva o del Instituto Municipal de Planeación en su caso.
 
-Las resoluciones previstas en este ARTÍCULO, serán definitivas y con carácter de irrevocables.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+Las resoluciones previstas en este artículo, serán definitivas y con carácter de irrevocables.
 
 Serán nulas de pleno derecho las aprobaciones, modificaciones o cancelaciones de Programas de Desarrollo Urbano que no cuenten previamente con la opinión del Consejo Estatal o del Consejo Municipal respectivo, según corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 93.
 
-El Programa Estatal de Desarrollo Urbano y Ordenamiento del Territorio y los que de este deriven, serán elaborados, aprobados, ejecutados, controlados y evaluados por el Titular del Ejecutivo Estatal, a través de la coordinación que para el efecto establezca la SEPLAPDE, con otras dependencias y entidades de la Administración Pública del Estado y, en su caso federales, así como con los Municipios de la Entidad y el Consejo Estatal.
+El Programa Estatal de Desarrollo Urbano y Ordenamiento del Territorio y los que de este deriven, serán elaborados, aprobados, ejecutados, controlados y evaluados por el Titular del Ejecutivo Estatal, a través de la coordinación que para el efecto establezca la SEPLADE, con otras dependencias y entidades de la Administración Pública del Estado y, en su caso federales, así como con los Municipios de la Entidad y el Consejo Estatal.
 
 Para los fines indicados en el párrafo anterior, se aplicará supletoriamente la Ley de Planeación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 94.
 
-Los Programas Municipales de Desarrollo Urbano y los que de estos deriven, serán elaborados, aprobados, ejecutados, controlados y evaluados por los Municipios correspondientes, con el apoyo de la Secretaría Municipal respectiva o del Instituto Municipal de Planeación si los hubiere y con la asesoría que decidan las personas titulares de las presidencias municipales en el Estado, en su caso, de la SEPLAPDE y de la Federación, contando a su vez, con el apoyo del Consejo Estatal y del Consejo Municipal respectivo.
+Los Programas Municipales de Desarrollo Urbano y los que de estos deriven, serán elaborados, aprobados, ejecutados, controlados y evaluados por los Municipios correspondientes, con el apoyo de la Secretaría Municipal respectiva o del Instituto Municipal de Planeación si los hubiere y con la asesoría que decidan las personas titulares de las presidencias municipales en el Estado, en su caso, de la SEPLADE y de la Federación, contando a su vez, con el apoyo del Consejo Estatal y del Consejo Municipal respectivo.
 
 La coordinación entre los Municipios y el Gobierno del Estado debe propiciarse y convenirse para establecer la congruencia entre los programas municipales y el Programa Estatal de Ordenamiento del Territorial y Desarrollo Urbano, para definir el financiamiento por parte del Estado y los Municipios, en relación con las acciones, obras e inversiones conjuntas previstas en dichos programas.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 95.
 
-El Programa de Ordenamiento Territorial y Desarrollo Urbano de la Zona Metropolitana correspondiente, será elaborado y aprobado mediante convenio por la Comisión de Zona Conurbada y Metropolitana, y ejecutados, controlados y evaluados por el Titular del Ejecutivo Estatal, a través de la coordinación que para el efecto establezca la SEPLAPDE, con el Consejo Estatal, la Comisión Metropolitana y de Conurbación correspondiente, y los Municipios.
+El Programa de Ordenamiento Territorial y Desarrollo Urbano de la Zona Metropolitana correspondiente, será elaborado y aprobado mediante convenio por la Comisión de Zona Conurbada y Metropolitana, y ejecutados, controlados y evaluados por el Titular del Ejecutivo Estatal, a través de la coordinación que para el efecto establezca la SEPLADE, con el Consejo Estatal, la Comisión Metropolitana y de Conurbación correspondiente, y los Municipios.
 
 ###### ARTÍCULO 96.
 
 Los Programas Regionales y Subregionales de Desarrollo Urbano, serán elaborados, aprobados, ejecutados, controlados y evaluados por las autoridades que se señalen en los convenios que para tal efecto se suscriban.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 97.
 
-A partir de la fecha en que se publique en el Periódico Oficial del Estado y se inscriba un programa en el Registro Público y en el Registro Estatal del Desarrollo Urbano, las autoridades correspondientes podrán expedir constancias, licencias, permisos, autorizaciones o convenios de su competencia, relativas a la utilización de áreas y predios que resulten comprendidos, sí las solicitudes están de acuerdo con el Programa respectivo; las que se expidan en contravención de lo anterior, serán nulas de pleno derecho.
+A partir de la fecha en que se publique en el Periódico Oficial del Estado y se inscriba un programa en el Instituto Registral y Catastral y en el Registro Estatal del Desarrollo Urbano, las autoridades correspondientes podrán expedir constancias, licencias, permisos, autorizaciones o convenios de su competencia, relativas a la utilización de áreas y predios que resulten comprendidos, sí las solicitudes están de acuerdo con el Programa respectivo; las que se expidan en contravención de lo anterior, serán nulas de pleno derecho.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 98.
 
-Los Programas de Desarrollo Urbano, una vez que sean publicados en el Periódico Oficial del Estado e inscritos en el Registro Público y en el Registro Estatal de Ordenamiento Territorial, serán obligatorios para los particulares y las autoridades correspondientes, conforme a lo previsto en este Código.
+Los Programas de Desarrollo Urbano, una vez que sean publicados en el Periódico Oficial del Estado e inscritos en el Instituto Registral y Catastral y en el Registro Estatal de Ordenamiento Territorial, serán obligatorios para los particulares y las autoridades correspondientes, conforme a lo previsto en este Código.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 99.
 
-El Registro Público contará con una sección en la que habrán de inscribirse los Programas de Desarrollo urbano que establece este Código y todas aquellas resoluciones administrativas que se dicten con apoyo en los propios Programas o que se relacionen con el desarrollo urbano, los asentamientos humanos y el ordenamiento del territorio, que deban surtir efectos ante terceros y propietarios o poseedores de bienes inmuebles en el Estado.
+El Instituto Registral y Catastral contará con una sección en la que habrán de inscribirse los Programas de Desarrollo urbano que establece este Código y todas aquellas resoluciones administrativas que se dicten con apoyo en los propios Programas o que se relacionen con el desarrollo urbano, los asentamientos humanos y el ordenamiento del territorio, que deban surtir efectos ante terceros y propietarios o poseedores de bienes inmuebles en el Estado.
 
 ###### ARTÍCULO 100.
 
 Se establece el Registro Estatal de Ordenamiento Territorial, en los que se inscribirán los programas y resoluciones de la materia para su difusión, consulta pública, control y evaluación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 101.
 
-El Registro Estatal de Ordenamiento Territorial dependerá de la SEPLAPDE y para su debida inscripción se deberá de integrar la siguiente documentación:
+El Registro Estatal de Ordenamiento Territorial dependerá de la SEPLADE y para su debida inscripción se deberá de integrar la siguiente documentación:
 
 I.- El programa completo y su cartografía en forma impresa y digital (PDF y Word);
 
@@ -1961,7 +2063,9 @@ III.- La copia del acta del Consejo Estatal y del Consejo Municipal respectivo, 
 
 IV.- La copia de la publicación del decreto de aprobación por parte del Titular del Ejecutivo Estatal, del acta de aprobación del Cabildo del Municipio correspondiente o el convenio de la Comisión Metropolitana y de Conurbación respectiva;
 
-V.- La publicación del Periódico Oficial del Estado debidamente inscrita en el Registro Público y en el Registro Estatal de Ordenamiento Territorial; y
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+V.- La publicación del Periódico Oficial del Estado debidamente inscrita en el Instituto Registral y Catastral y en el Registro Estatal de Ordenamiento Territorial; y
 
 VI.- El Sistema de Información Geográfica del Programa en formato shape.
 
@@ -1987,7 +2091,9 @@ I.- El Titular del Ejecutivo Estatal;
 
 II.- Los Municipios, previa resolución de su Cabildo;
 
-III.- La SEPLAPDE;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+III.- La SEPLADE;
 
 IV.- La Procuraduría;
 
@@ -2005,9 +2111,11 @@ VIII.- Los Institutos Municipales de Planeación.
 
 #### Sección Primera. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 104.
 
-Para cumplir con los fines señalados en el párrafo tercero del ARTÍCULO 27 de la Constitución Política de los Estados Unidos Mexicanos en materia de fundación, conservación, mejoramiento y crecimiento de los centros de población, el derecho de propiedad o de posesión sobre bienes inmuebles ubicados en dichos centros se sujetará a las provisiones, reservas, usos y destinos que determinen las autoridades competentes, en los programas de desarrollo urbano y ordenamiento territorial.
+Para cumplir con los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos en materia de fundación, conservación, mejoramiento y crecimiento de los centros de población, el derecho de propiedad o de posesión sobre bienes inmuebles ubicados en dichos centros se sujetará a las provisiones, reservas, usos y destinos que determinen las autoridades competentes, en los programas de desarrollo urbano y ordenamiento territorial.
 
 ###### ARTÍCULO 105.
 
@@ -2091,11 +2199,15 @@ Cuando se pretenda llevar a cabo cualquier acción o aprovechamiento urbano fuer
 
 En todo caso, las obras de cabecera o redes de infraestructura del proyecto correrán a cargo del propietario o promotor. En el caso de fraccionamientos, condominios o desarrollos inmobiliarios especiales, además, asumirán el costo de las obras viales y sistemas de movilidad necesaria para garantizar la conectividad entre la acción urbanística de que se trate y el centro de población más cercano, en dimensión y calidad tales, que permita el tránsito de transporte público que se genere.
 
-Los programas a que se refiere el párrafo primero de este ARTÍCULO, deberán contar con un dictamen emitido por la SEPLAPDE, en el que se establecerá que las obras de infraestructura serán a cuenta del interesado. Dicho Dictamen deberá expedirse en un plazo máximo de 90 días hábiles, pasando dicho plazo sin respuesta opera la afirmativa ficta.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+Los programas a que se refiere el párrafo primero de este artículo, deberán contar con un dictamen emitido por la SEPLADE, en el que se establecerá que las obras de infraestructura serán a cuenta del interesado. Dicho Dictamen deberá expedirse en un plazo máximo de 90 días hábiles, pasando dicho plazo sin respuesta opera la afirmativa ficta.
 
 Los nuevos fraccionamientos, condominios o desarrollos inmobiliarios especiales deberán respetar y conectarse a la estructura vial existente.
 
-Cuando se inicien obras que no cumplan con lo dispuesto en este ARTÍCULO, podrán ser denunciadas por cualquier persona y serán sancionadas con la clausura, sin perjuicio de otras responsabilidades aplicables.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+Cuando se inicien obras que no cumplan con lo dispuesto en este artículo, podrán ser denunciadas por cualquier persona y serán sancionadas con la clausura, sin perjuicio de otras responsabilidades aplicables.
 
 #### Sección Segunda. Fundación
 
@@ -2119,17 +2231,21 @@ I.- El Titular del Ejecutivo Estatal; y
 
 II.- Los Municipios.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 117.
 
-Para la fundación de centros de población, el Congreso del Estado solicitará en todos los casos, la opinión del Gobierno del Estado, por conducto de la SEPLAPDE y del Consejo Estatal, así como del Municipio y del Consejo Municipal correspondiente.
+Para la fundación de centros de población, el Congreso del Estado solicitará en todos los casos, la opinión del Gobierno del Estado, por conducto de la SEPLADE y del Consejo Estatal, así como del Municipio y del Consejo Municipal correspondiente.
 
 ###### ARTÍCULO 118.
 
 El Congreso del Estado a través de un decreto, otorgará la categoría político administrativa y la denominación que le corresponda a los nuevos centros de población cuya fundación autorice, de conformidad con lo dispuesto en este Código, la Ley Municipal para el Estado de Aguascalientes y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 119.
 
-El decreto a que se refiere el artículo anterior, deberá publicarse en el Periódico Oficial del Estado e inscribirse en el Registro Público, en el Registro Estatal de Ordenamiento Territorial, en el municipal que corresponda y ante el Instituto Catastral.
+El decreto a que se refiere el artículo anterior, deberá publicarse en el Periódico Oficial del Estado e inscribirse en el Registro Estatal de Ordenamiento Territorial, en el municipal que corresponda y ante el Instituto Registral y Catastral.
 
 ###### ARTÍCULO 120.
 
@@ -2361,7 +2477,9 @@ d).- Por considerarse sitios prioritarios para la conservación o el mejoramient
 
 e).- Por mantenimiento de actividades productivas dentro de los límites de los centros de población; y
 
-f).- Por tener pendientes mayores al 30%, salvo que se justifique por la ubicación y características de centros de población existentes, previa autorización de la SEPLAPDE.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+f).- Por tener pendientes mayores al 30%, salvo que se justifique por la ubicación y características de centros de población existentes, previa autorización de la SEPLADE.
 
 ###### ARTÍCULO 138.
 
@@ -2377,9 +2495,11 @@ Los programas de ordenación de zonas metropolitanas o conurbadas, de desarrollo
 
 La zonificación deberá ser congruente con los programas que regula este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 139.
 
-La zonificación primaria, con visión de mediano y largo plazo, deberá establecerse en los programas de desarrollo urbano, conforme a lo señalado en el ARTÍCULO anterior, en los que se determinagrán:
+La zonificación primaria, con visión de mediano y largo plazo, deberá establecerse en los programas de desarrollo urbano, conforme a lo señalado en el artículo anterior, en los que se determinarán:
 
 I.- Las áreas que integran y delimitan los centros de población;
 
@@ -2501,7 +2621,9 @@ I.- Será de interés público y deberá fundamentarse exclusivamente en conside
 
 II.- Se precisarán las zonas, áreas, lotes o predios restringidos por destinos del suelo, así como la descripción del fin o aprovechamiento público a que estos prevean dedicarse;
 
-III.- Cuando haya restricción por un destino, incluyendo los derechos de vías correspondientes, se tomará como fecha de notificación aquella en la cual el Programa Estatal de Desarrollo Urbano y Ordenamiento del Territorio que lo contemple se inscriba en el Registro Público y en el Registro Estatal de Ordenamiento Territorial. Lo anterior para todos los efectos legales correspondientes;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+III.- Cuando haya restricción por un destino, incluyendo los derechos de vías correspondientes, se tomará como fecha de notificación aquella en la cual el Programa Estatal de Desarrollo Urbano y Ordenamiento del Territorio que lo contemple se inscriba en el Instituto Registral y Catastral y en el Registro Estatal de Ordenamiento Territorial. Lo anterior para todos los efectos legales correspondientes;
 
 IV.- Los propietarios o poseedores de inmuebles públicos o privados, que queden restringidos por destinos, sólo utilizarán los predios en forma que no presenten obstáculos al futuro aprovechamiento previsto, por lo que no podrán cambiar el uso o destino de suelo, ni aumentar el volumen de las construcciones existentes;
 
@@ -2751,29 +2873,13 @@ VI. Vialidad y obras complementarias: las carreteras y caminos, autopistas, call
 
 ###### ARTÍCULO 156.
 
-La determinación de destinos del suelo en los programas, se sujetará a las siguientes reglas:
+(DEROGADO, P.O. 22 DE ENERO DE 2024)
 
-I. Será de interés público y deberá fundamentarse exclusivamente en consideraciones técnicas y sociales que los justifiquen;
-
-II. Se precisarán las zonas, áreas, lotes o predios restringidos por destinos del suelo, así como la descripción del fin o aprovechamiento público a que estos prevean dedicarse;
-
-III. Cuando haya restricción por un destino, incluyendo los derechos de vías correspondientes, se tomará como fecha de notificación aquella en la cual el Programa Estatal de Desarrollo Urbano y Ordenamiento del Territorio que lo contemple se inscriba en el Registro Público y en el Registro Estatal de Ordenamiento Territorial. Lo anterior para todos los efectos legales correspondientes;
-
-IV. Los propietarios o poseedores de inmuebles públicos o privados, que queden restringidos por destinos, sólo utilizarán los predios en forma que no presenten obstáculos al futuro aprovechamiento previsto, por lo que no podrán cambiar el uso o destino de suelo, ni aumentar el volumen de las construcciones existentes;
-
-V. Las autoridades estatales o municipales gestionarán la disposición de los derechos de vía correspondientes a la infraestructura vial, hidráulica, sanitaria, pluvial, eléctrica y energética contemplada en el programa respectivo, debiendo los propietarios o poseedores de los predios restringidos respetar y participar en la constitución de esos derechos;
-
-VI. Tratándose de destinos relativos a la infraestructura vial hidráulica, sanitaria, pluvial, eléctrica y energética, los propietarios o poseedores de inmuebles, deberán además respetar los derechos de vía correspondientes y asegurar las zonas o áreas requeridas para su servicio; así como en su caso, para participar en la ejecución de las obras necesarias para su funcionamiento;
-
-VII. Las cargas y beneficios para los propietarios o poseedores de inmuebles restringidos con la realización de las obras a que se refiere la fracción anterior, se determinarán conforme a las disposiciones jurídicas aplicables y en los convenios que al efecto se celebren;
-
-VIII. Los predios que se vean afectados por un cambio de uso o destino de suelo de acuerdo al programa, se considerará como predio suburbano o en transición, mismos que a petición del propietario podrán conservar su uso o destino anterior hasta por 5 años o cuando la etapa de crecimiento determinada surta efecto, salvo en los casos de uso agropecuario, cuyo uso podrá permanecer hasta que se deje de ser aprovechado para ese fin o cuando su entorno este consolidado; y
-
-IX. Las demás disposiciones que resulten aplicables de acuerdo con lo dispuesto en este Código y demás ordenamientos jurídicos aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 157.
 
-Los municipios podrán dictaminar la homologación de cualquier uso o destino del suelo no especificado en los Artículos 138, 140 y 141 de este Código, a los usos y destinos señalados por esos mismos Artículos, sujetándose al procedimiento siguiente:
+Los municipios podrán dictaminar la homologación de cualquier uso o destino del suelo no especificado en los artículos 138, 140 y 141 de este Código, a los usos y destinos señalados por esos mismos artículos, sujetándose al procedimiento siguiente:
 
 I. El interesado presentará la solicitud del uso a homologar ante el Municipio respectivo, acompañada de la Constancia Municipal de Compatibilidad Urbanística que contenga el uso o destino del suelo del área, lote o predio de que se trate, así como de la documentación que acredite su propiedad o posesión legal y la personalidad que ostente y el correspondiente pago de derechos;
 
@@ -2801,7 +2907,9 @@ Los usos y destinos del suelo prohibidos en los programas aplicables, solamente 
 
 Los Municipios no podrán cambiar los usos o destinos del suelo si modifican las estrategias básicas previstas en los programas aplicables o transforman los límites de crecimiento de los centros de población o perímetro urbano de los mismos, incorporando áreas no urbanizables de conservación o mejoramiento a predios urbanizables. Para esos efectos, deberán cumplir el procedimiento que menciona el Código.
 
-Serán nulos de pleno derecho todos los actos, constancias municipales de compatibilidad urbanística, licencias, permisos o autorizaciones que expidan los Municipios en contravención de este ARTÍCULO, incurriendo las autoridades en las responsabilidades y sanciones que establece este Código y demás disposiciones jurídicas aplicables.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+Serán nulos de pleno derecho todos los actos, constancias municipales de compatibilidad urbanística, licencias, permisos o autorizaciones que expidan los Municipios en contravención de este artículo, incurriendo las autoridades en las responsabilidades y sanciones que establece este Código y demás disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 161.
 
@@ -2811,15 +2919,19 @@ Los usos del suelo o edificaciones para almacenamiento, tratamiento, comercio de
 
 En el caso de que las zonas, áreas, lotes o predios no sean utilizados conforme al destino previsto en un plazo de 5 años a partir de la entrada en vigor del programa respectivo, quedará sin efectos ese uso o destino y el inmueble podrá ser utilizado en usos compatibles con los asignados para la zona de que se trate, de acuerdo a la modificación que, en su caso, se haga al programa de desarrollo urbano y ordenamiento del territorio correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 163.
 
-El aprovechamiento permanente del suelo para construir y operar casinos, centros de apuestas, salas de sorteos, casas de juego y similares, será condicionado, restringido o no permitido por razones de seguridad, orden, tranquilidad y de salud pública en cuanto a su ubicación, tamaño y tipo, conforme a lo previsto en los programas aplicables y en la zonificación secundaria que de ellos derive, la cual deberá cumplir con lo dispuesto en este ARTÍCULO.
+El aprovechamiento permanente del suelo para construir y operar casinos, centros de apuestas, salas de sorteos, casas de juego y similares, será condicionado, restringido o no permitido por razones de seguridad, orden, tranquilidad y de salud pública en cuanto a su ubicación, tamaño y tipo, conforme a lo previsto en los programas aplicables y en la zonificación secundaria que de ellos derive, la cual deberá cumplir con lo dispuesto en este artículo.
 
 Las constancias municipales de compatibilidad urbanística únicamente permitirán este tipo de usos del suelo en operación permanente en inmuebles aledaños a vialidades primarias o regionales conforme a la clasificación prevista en este Código, de preferencia en las ubicadas en los accesos de los centros de población.
 
 Queda prohibida la ubicación y operación permanente de este tipo de establecimientos de servicios en zonas habitacionales de cualquier tipo, y en áreas aledañas a escuelas y hospitales, los Municipios propiciarán que los que se encuentren actualmente autorizados y en operación se reubiquen fuera de esas zonas.
 
-Los Municipios previamente al otorgamiento de licencias de construcción y de funcionamiento de casinos, centros de apuestas, salas de sorteos, casas de juego y similares deberán exigir a los solicitantes la autorización o permiso de la autoridad federal para operar este tipo de establecimientos y la opinión favorable de la SEPLAPDE.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+Los Municipios previamente al otorgamiento de licencias de construcción y de funcionamiento de casinos, centros de apuestas, salas de sorteos, casas de juego y similares deberán exigir a los solicitantes la autorización o permiso de la autoridad federal para operar este tipo de establecimientos y la opinión favorable de la SEPLADE.
 
 Dicha licencia de funcionamiento tendrá vigencia de un año y su renovación estará sujeta a un dictamen expedido por las dependencias estatales y municipales de protección civil y de seguridad pública, así como por la autorización que corresponda a la autoridad federal.
 
@@ -2935,7 +3047,9 @@ La Constancia Municipal de Compatibilidad Urbanística no constituye apeo y desl
 
 Serán nulas de pleno derecho las constancias o informes municipales de compatibilidad urbanística, que se expidan en contravención a lo establecido en este Código y en los programas aplicables.
 
-No se podrá inscribir ningún acto, contrato, convenio o afectación en el Registro Público, ni en el Catastro, sin la Constancia Municipal de Compatibilidad Urbanística o en contravención a ésta.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+No se podrá inscribir ningún acto, contrato, convenio o afectación en el Instituto Registral y Catastral, sin la Constancia Municipal de Compatibilidad Urbanística o en contravención a ésta.
 
 ###### ARTÍCULO 179.
 
@@ -2953,11 +3067,15 @@ I.- Cuando se haya modificado el uso o destino, las intensidades máximas de pob
 
 II.- Cuando el titular de la Constancia no hubiese dado aviso al Municipio de la modificación del proyecto inicialmente presentado, así como del cambio de uso o destino del suelo;
 
-III.- En los casos en que el Municipio o la SEPLAPDE detecten mediante los procedimientos previstos en este Código o en el ordenamiento aplicable, que no se dio cumplimiento a cualesquiera de las condicionantes establecidas en la Constancia o dentro de los plazos previstos en la misma; o
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+III.- En los casos en que el Municipio o la SEPLADE detecten mediante los procedimientos previstos en este Código o en el ordenamiento aplicable, que no se dio cumplimiento a cualesquiera de las condicionantes establecidas en la Constancia o dentro de los plazos previstos en la misma; o
 
 IV.- Cuando se advierta falsedad de datos en la información presentada ante la autoridad.
 
-En el caso de la fracción IV, la revocación se llevará a cabo sin perjuicio del ejercicio de la acción penal que pudiera derivarse de la actividad emprendida. Para los efectos de este ARTÍCULO, se requerirá la denuncia de la SEPLAPDE, del Municipio o la Procuraduría.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+En el caso de la fracción IV, la revocación se llevará a cabo sin perjuicio del ejercicio de la acción penal que pudiera derivarse de la actividad emprendida. Para los efectos de este artículo, se requerirá la denuncia de la SEPLADE, del Municipio o la Procuraduría.
 
 ###### ARTÍCULO 182.
 
@@ -2979,7 +3097,9 @@ I.- Toda edificación requerirá de la licencia o permiso municipal de construcc
 
 II.- Se sujetarán a las superficies edificables, áreas libres y número de pisos, altura y asoleamiento permitidos en la zona, de conformidad con las densidades de población, ocupación y construcción previstas en los programas de desarrollo urbano y en las demás disposiciones jurídicas aplicables;
 
-III.- Se ajustarán a las restricciones correspondientes, debiendo su propietario o poseedor legal, el constructor y el perito responsable y los especializados en su caso, respetar el alineamiento, la traza urbana y demás características o limitaciones previstas en la Constancia Municipal de Compatibilidad Urbanística, la cual deberá acompañarse a toda solicitud de licencia de construcción y en su caso de la opinión favorable de la SEPLAPDE, conforme a lo previsto en este Código;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+III.- Se ajustarán a las restricciones correspondientes, debiendo su propietario o poseedor legal, el constructor y el perito responsable y los especializados en su caso, respetar el alineamiento, la traza urbana y demás características o limitaciones previstas en la Constancia Municipal de Compatibilidad Urbanística, la cual deberá acompañarse a toda solicitud de licencia de construcción y en su caso de la opinión favorable de la SEPLADE, conforme a lo previsto en este Código;
 
 IV.- Dispondrán de lugares de estacionamiento de vehículos en la cantidad que señale el Código Municipal, Reglamento de Construcciones o disposición municipal correspondiente;
 
@@ -3017,9 +3137,11 @@ Las autoridades municipales no serán responsables del diseño, cálculo y proye
 
 Las autoridades al otorgar las licencias o permisos de construcción únicamente revisarán que dichos proyectos se ajusten a lo que establecen las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 187.
 
-La persona física o moral, pública y privada, que pretenda realizar obras de edificación, reconstrucción, demolición y adaptación de inmuebles, qué por sus dimensiones, características y superficie, antes de que el Municipio expida la licencia de construcción correspondiente, que requieren de la opinión favorable de la SEPLAPDE, son las que a continuación se indican:
+La persona física o moral, pública y privada, que pretenda realizar obras de edificación, reconstrucción, demolición y adaptación de inmuebles, qué por sus dimensiones, características y superficie, antes de que el Municipio expida la licencia de construcción correspondiente, que requieren de la opinión favorable de la SEPLADE, son las que a continuación se indican:
 
 I.- Construcciones a realizar en predios mayores a 5,000 metros cuadrados de superficie;
 
@@ -3031,9 +3153,13 @@ IV.- Las estaciones de servicio de hidrocarburos o gasolineras, estaciones de ca
 
 V.- Instalación de paneles solares en predios mayores a 10,000 metros cuadrados.
 
-Para los efectos del presente artículo, la Secretaría Municipal turnará la solicitud a la SEPLAPDE, con el expediente debidamente integrado, quien contará con un plazo de 10 días hábiles, a partir de su recepción, para emitir su correspondiente opinión. Si dentro de ese plazo la SEPLAPDE no solicitó una prórroga o no emitió opinión, la Secretaría Municipal entenderá que no existe impedimento para que resuelva la solicitud correspondiente, según resulte procedente.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
-El Catastro no procederá a dar trámite a la manifestación de esa edificación, sino se cuenta con la correspondiente opinión de la SEPLAPDE.
+Para los efectos del presente artículo, la Secretaría Municipal turnará la solicitud a la SEPLADE, con el expediente debidamente integrado, quien contará con un plazo de 10 días hábiles, a partir de su recepción, para emitir su correspondiente opinión. Si dentro de ese plazo la SEPLADE no solicitó una prórroga o no emitió opinión, la Secretaría Municipal entenderá que no existe impedimento para que resuelva la solicitud correspondiente, según resulte procedente.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+El Instituto Registral y Catastral no procederá a dar trámite a la manifestación de esa edificación, sino se cuenta con la correspondiente opinión de la SEPLADE.
 
 ###### ARTÍCULO 188.
 
@@ -3077,9 +3203,11 @@ Para las construcciones y obras localizadas en zonas y monumentos del patrimonio
 
 El Municipio en su reglamentación de construcciones, establecerá los supuestos en los que la expedición de licencia o permiso de construcción no requerirá la responsiva del perito, así como las obras o acciones que no requieran de licencia o permiso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 192.
 
-En los fraccionamientos, condominios o desarrollos inmobiliarios especiales, el Municipio no expedirá licencias o permisos de construcción, sin antes comprobar que estos fueron autorizados por el Consejo Estatal, la SEPLAPDE o el mismo y cuenten con la autorización del inicio de obras de urbanización.
+En los fraccionamientos, condominios o desarrollos inmobiliarios especiales, el Municipio no expedirá licencias o permisos de construcción, sin antes comprobar que estos fueron autorizados por el Consejo Estatal, la SEPLADE o el mismo y cuenten con la autorización del inicio de obras de urbanización.
 
 El Municipio no expedirá la autorización de habitabilidad y ocupación de las viviendas, locales; departamentos o de cualquier edificación, hasta que en el fraccionamiento, condominio o desarrollo inmobiliario especial los lotes o predios donde se desplanten, cuenten con el 100% de los servicios y la urbanización.
 
@@ -3337,7 +3465,9 @@ V.- Comprobante del pago correspondiente.
 
 El personal de esa Secretaría Municipal visitará aleatoriamente la obra en conjunto con el propietario o poseedor y los peritos, para verificar que la construcción corresponda al proyecto y plano autorizado y revisar que la bitácora de obra se encuentre actualizada por los peritos.
 
-Este requisito será indispensable para obras mayores de 60 metros cuadrados construidos, en obras cuya licencia haya requerido la responsiva de un perito y en desarrollos habitacionales con prototipos de vivienda. La constancia de terminación que, de este artículo se deriva, será requisito indispensable para la ocupación o habitabilidad del inmueble, así como para los trámites correspondientes en el Registro Público de la Propiedad.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+Este requisito será indispensable para obras mayores de 60 metros cuadrados construidos, en obras cuya licencia haya requerido la responsiva de un perito y en desarrollos habitacionales con prototipos de vivienda. La constancia de terminación que, de este artículo se deriva, será requisito indispensable para la ocupación o habitabilidad del inmueble, así como para los trámites correspondientes en el Instituto Registral y Catastral.
 
 ###### ARTÍCULO 223.
 
@@ -3445,9 +3575,11 @@ Los anuncios de carácter político se sujetarán a los periodos y condiciones q
 
 ### CAPÍTULO IV. De las Vías Públicas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 237.
 
-Los inmuebles que en el plano oficial de una fusión, subdivisión o fraccionamiento aprobados, aparezcan destinados a vías públicas, al uso común o a algún servicio público se considerarán, por ese solo hecho, como bienes del dominio público del Municipio, para cuyo efecto, la unidad administrativa correspondiente, remitirá copias del plano aprobado al Registro Público de la Propiedad, al Instituto Catastral del Estado y la oficina municipal para que hagan los registros y las cancelaciones respectivas.
+Los inmuebles que en el plano oficial de una fusión, subdivisión o fraccionamiento aprobados, aparezcan destinados a vías públicas, al uso común o a algún servicio público se considerarán, por ese solo hecho, como bienes del dominio público del Municipio, para cuyo efecto, la unidad administrativa correspondiente, remitirá copias del plano aprobado al Instituto Registral y Catastral y la oficina municipal para que hagan los registros y las cancelaciones respectivas.
 
 Las vías públicas son de libre tránsito, tienen como fin dar acceso a los lotes y predios colindantes, alojar las instalaciones de obras y servicios públicos y proporcionar aireación, iluminación y asoleamiento a los inmuebles respectivos.
 
@@ -3457,9 +3589,11 @@ El fraccionador o promotor de un fraccionamiento, subdivisión o fusión se enco
 
 La donación se deberá perfeccionar en escritura pública y cuyo costo cubrirá en su totalidad el fraccionador o promotor. La escrituración de las vialidades a favor del Municipio, no implican la municipalización de las mismas, ya que esta se podrá dar hasta que se hubieran urbanizado esas calles.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 239.
 
-El Instituto Catastral del Estado, el Registro Público de la Propiedad y la Secretaría de Finanzas Municipal correspondiente, al momento en que el Municipio expida la autorización de una subdivisión que contemple vías públicas y restricciones, deberán realizar las anotaciones correspondientes en sus registros, a efecto de que esos espacios no se enajenen a terceras personas, sino que se consideren como bienes propiedad del Municipio. A partir de ese momento esos espacios considerados y determinados como vías públicas municipales, no causarán el impuesto a la propiedad raíz. Ese mismo tratamiento se dará a las calles de los fraccionamientos autorizados por el Consejo Estatal.
+El Instituto Registral y Catastral y la Secretaría de Finanzas Municipal correspondiente, al momento en que el Municipio expida la autorización de una subdivisión que contemple vías públicas y restricciones, deberán realizar las anotaciones correspondientes en sus registros, a efecto de que esos espacios no se enajenen a terceras personas, sino que se consideren como bienes propiedad del Municipio. A partir de ese momento esos espacios considerados y determinados como vías públicas municipales, no causarán el impuesto a la propiedad raíz. Ese mismo tratamiento se dará a las calles de los fraccionamientos autorizados por el Consejo Estatal.
 
 ###### ARTÍCULO 240.
 
@@ -3527,7 +3661,9 @@ Igualmente queda prohibido obstruir el libre tránsito por la vía pública, col
 
 Los escombros, excavaciones o cualquier obstáculo en la vía pública originados por obras públicas o privadas, deberán ser señalados con banderas o letreros en el día y además con señales luminosas durante la noche. Las dimensiones y características de los señalamientos serán fijados por el Municipio. Los daños causados por la falta de señales apropiadas serán reparados por el propietario y/o poseedor de las obras.
 
-Será motivo de sanción a los propietarios, los contratistas y peritos, la violación de este ARTÍCULO.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+Será motivo de sanción a los propietarios, los contratistas y peritos, la violación de este artículo.
 
 ###### ARTÍCULO 246.
 
@@ -3551,9 +3687,11 @@ Previa solicitud, señalará para cada predio que tenga frente a la vía públic
 
 Los Municipios podrán expedir permisos para urbanizaciones cerradas que impliquen el control de acceso y salida de vías públicas en fraccionamientos, barrios o colonias a favor de organizaciones vecinales, conforme a lo dispuesto en este Código y el reglamento respectivo, previa opinión del Consejo Municipal correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 250.
 
-Será requisito entre otros para que en su caso se otorgue permiso para urbanización cerrada, que la organización vecinal solicitante se encuentre formal y jurídicamente constituida e inscrita en el Registro Público como asociación civil.
+Será requisito entre otros para que en su caso se otorgue permiso para urbanización cerrada, que la organización vecinal solicitante se encuentre formal y jurídicamente constituida e inscrita en el Instituto Registral y Catastral como asociación civil.
 
 También se requerirá la aprobación de la mayoría de los colonos, la cual se obtendrá mediante un proceso de consulta, realizado con las formalidades jurídicas apropiadas, bajo la supervisión del Municipio.
 
@@ -3635,15 +3773,19 @@ Con el objeto de racionalizar las obras e inversiones destinadas a la dotación 
 
 Corresponde al Gobierno del Estado y a los Municipios, en coordinación con la Federación y con los sectores social y privado, realizar las acciones que otorguen certeza jurídica, agilicen la adquisición o manejo de reservas territoriales para la construcción de vivienda digna y para la ejecución de obras públicas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 263.
 
-La SEPLAPDE, en coordinación con los Municipios y el IVSOP efectuará los estudios necesarios, a fin de determinar las necesidades que existen en el Estado de suelo urbano y reservas territoriales para ser canalizadas dentro de los programas de desarrollo urbano y de la vivienda, tomando en cuenta los requerimientos presentes y del futuro inmediato, que servirán de base para su adquisición y urbanización.
+La SEPLADE, en coordinación con los Municipios y el IVSOP efectuará los estudios necesarios, a fin de determinar las necesidades que existen en el Estado de suelo urbano y reservas territoriales para ser canalizadas dentro de los programas de desarrollo urbano y de la vivienda, tomando en cuenta los requerimientos presentes y del futuro inmediato, que servirán de base para su adquisición y urbanización.
 
 Asimismo, formulará un inventario de predios que pueden aprovecharse en programas de desarrollo urbano y de la vivienda, con base en las condiciones básicas de infraestructura y equipamiento urbano y la posibilidad de introducción de servicios públicos, con el menor costo y tiempo posible.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 264.
 
-Las dependencias y entidades paraestatales de la Administración Pública Estatal podrán adquirir y enajenar predios destinados a la ejecución de programas de desarrollo urbano, industria y vivienda, mediante la autorización de la SEPLAPDE, cumpliendo con los requisitos siguientes:
+Las dependencias y entidades paraestatales de la Administración Pública Estatal podrán adquirir y enajenar predios destinados a la ejecución de programas de desarrollo urbano, industria y vivienda, mediante la autorización de la SEPLADE, cumpliendo con los requisitos siguientes:
 
 I.- Que en el programa operativo anual autorizado se prevea la enajenación, aportación o adquisición del suelo y las reservas territoriales;
 
@@ -3735,11 +3877,15 @@ El Estado y los Municipios tendrán derecho de preferencia para adquirir áreas,
 
 Dichos inmuebles serán destinados, preferentemente, a la constitución de espacios públicos. En caso de darle un destino diferente, la autoridad deberá fundar y motivar su decisión justificando la necesidad apremiante de darle un uso diferente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 275.
 
-Los propietarios, ejidatarios o comuneros, los notarios públicos, los jueces o las autoridades administrativas deberán notificar al Estado por conducto de la SEPLAPDE y al Municipio correspondiente, dando a conocer el monto y características de la operación y oferta inmobiliaria, a efecto de que aquellos, en un plazo no mayor de 30 días naturales, ejerzan o no el derecho de preferencia, garantizando el pago respectivo. El Estado tendrá prioridad con relación a los Municipios.
+Los propietarios, ejidatarios o comuneros, los notarios públicos, los jueces o las autoridades administrativas deberán notificar al Estado por conducto de la SEPLADE y al Municipio correspondiente, dando a conocer el monto y características de la operación y oferta inmobiliaria, a efecto de que aquellos, en un plazo no mayor de 30 días naturales, ejerzan o no el derecho de preferencia, garantizando el pago respectivo. El Estado tendrá prioridad con relación a los Municipios.
 
-De ejercerse el derecho de preferencia, la SEPLAPDE o el Municipio respectivo, solicitará al Instituto Catastral y al Registro Público, realicen las anotaciones correspondientes para que se impida cualquier acto traslativo de dominio a favor de terceras personas.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+De ejercerse el derecho de preferencia, la SEPLADE o el Municipio respectivo, solicitará al Instituto Registral y Catastral realice las anotaciones correspondientes para que se impida cualquier acto traslativo de dominio a favor de terceras personas.
 
 De rechazarse o no ejercerse el derecho de preferencia dentro del plazo señalado, los propietarios procederán a perfeccionar el acto traslativo de dominio, y el notario público autorizará las escrituras correspondientes, en las condiciones notificadas a la autoridad, en un plazo máximo de seis meses.
 
@@ -3755,9 +3901,11 @@ El pago fijado para el ejercicio del derecho de preferencia, se realizará al fi
 
 En aquellos casos que por la naturaleza del acto traslativo de dominio no se haya determinado el precio del inmueble, este se fijará por avalúo comercial practicado conforme las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 278.
 
-Una vez que el notario público autorice la escritura donde conste el acto traslativo de dominio de inmuebles comprendidos en la determinación de la reserva, en un plazo de 30 días naturales, deberá informar a la SEPLAPDE o al Municipio, sobre las condiciones definitivas de la operación, adjuntando:
+Una vez que el notario público autorice la escritura donde conste el acto traslativo de dominio de inmuebles comprendidos en la determinación de la reserva, en un plazo de 30 días naturales, deberá informar a la SEPLADE o al Municipio, sobre las condiciones definitivas de la operación, adjuntando:
 
 I.- Copia de la escritura pública autorizada; y
 
@@ -3769,29 +3917,43 @@ II.- Copia de las notificaciones del derecho de preferencia.
 
 Se considera de interés público y prioritario el establecimiento de mecanismos de coordinación entre el gobierno federal, estatal y municipal tendiente a la regularización de la tenencia de la tierra.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 280.
 
-Son competentes para resolver los procedimientos de la regularización de la tenencia de la tierra, los Municipios, la SEPLAPDE, el IVSOP y las instancias federales en la materia.
+Son competentes para resolver los procedimientos de la regularización de la tenencia de la tierra, los Municipios, la SEPLADE, el IVSOP y las instancias federales en la materia.
 
 Derivado de esta facultad, los mismos podrán lanzar convocatorias o programas, así como celebrar los contratos o convenios que sean necesarios para lograr los fines de regularización y cumplimiento de los requisitos que establece el presente Código.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2024)</small>
+
+Las autoridades estatales y municipales realizarán acciones coordinadas para solicitar la información, dictámenes y documentación necesaria para llevar a cabo el proceso de regularización, además de promover y facilitar la obtención de escrituras públicas o títulos de propiedad en favor de posesionarios legítimos.
 
 ###### ARTÍCULO 281.
 
 La regularización de la tenencia de la tierra, para su incorporación al desarrollo urbano, se sujetará a lo siguiente:
 
-I.- Se deberá proceder conforme al programa de desarrollo urbano aplicable, en la ejecución de acciones de mejoramiento;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-II.- Sólo podrán ser beneficiarios de la regularización, quienes ocupen o detenten la propiedad de un lote del predio. Tendrán preferencia los poseedores de buena fe, de acuerdo a la antigüedad de la posesión; y
+I.- Se deberá proceder conforme al programa de desarrollo urbano aplicable, en la ejecución de acciones de mejoramiento; y
 
-III.- Ninguna persona podrá resultar beneficiada por la regularización con más de un lote, cuya superficie no podrá exceder de la extensión determinada por los programas de desarrollo urbano.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+II.- Sólo podrán ser beneficiarios de la regularización, quienes ostenten la posesión o la propiedad de lote alguno.
+
+III.- (DEROGADA, P.O. 22 DE ENERO DE 2024)
 
 #### Sección Primera. Asentamientos Humanos Irregulares
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 282.
 
-Cada uno de los Municipios deberá entregar a la SEPLAPDE el inventario de los asentamientos humanos irregulares en su territorio con la siguiente información:
+Cada uno de los Municipios deberá entregar a la SEPLADE el inventario de los asentamientos humanos irregulares en su territorio con la siguiente información:
 
-I.- Ubicación en formato KML o el que indique la SEPLAPDE;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+I.- Ubicación en formato KML o el que indique la SEPLADE;
 
 II.- Polígono o predio en el que se encuentra;
 
@@ -3799,7 +3961,9 @@ III.- Nombre del propietario y/o promotor;
 
 IV.- Porcentaje y condiciones de ocupación del predio o predios;
 
-V.- Tipo de urbanización existente y su descripción;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+V.- Tipo de urbanización y servicios existentes y su descripción;
 
 VI.- Número de lotes;
 
@@ -3815,9 +3979,11 @@ Esta información deberá de entregarse a finales del mes de marzo de cada año 
 
 En caso de que exista un asentamiento humano irregular en un bien inmueble de propiedad Estatal, será el IVSOP quien promoverá el proceso de regularización. Así mismo, si se dan en una propiedad municipal, éste determinará a la dependencia con la facultad para llevar a cabo la regularización.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 284.
 
-El Municipio respectivo, en coordinación con la SEPLAPDE y el IVSOP, al tener conocimiento de un asentamiento humano irregular o la formación de este, procederán a la suspensión de cualquier obra y, en su caso, ventas de predios que se transmitan ilícitamente, fijando en lugares públicos y visibles, copias del ordenamiento que disponga tal situación, el cual deberá estar fundamentado en las disposiciones de este Código, así como publicado como advertencia pública en un diario de mayor circulación de la localidad y notificarse al Colegio de Notarios, al Instituto Catastral y al Registro Público que no inscriban ningún acto, contrato o convenio derivado de la propiedad o posesión de inmuebles ubicados en ese asentamiento humano.
+El Municipio respectivo, en coordinación con la SEPLADE y el IVSOP, al tener conocimiento de un asentamiento humano irregular o la formación de este, deberá dar aviso a la Procuraduría, además de proceder a la suspensión de cualquier obra y, en su caso, ventas de predios que se transmitan ilícitamente, fijando en lugares públicos y visibles, copias del ordenamiento que disponga tal situación, el cual deberá estar fundamentado en las disposiciones de este Código, así como publicado como advertencia pública en un diario de mayor circulación de la localidad y notificarse al Colegio de Notarios y al Instituto Registral y Catastral que no inscriban ningún acto, contrato o convenio derivado de la propiedad o posesión de inmuebles ubicados en ese asentamiento humano.
 
 ###### ARTÍCULO 285.
 
@@ -3829,21 +3995,59 @@ II.- Que no se encuentre ubicado en zonas no urbanizables, de riesgo o de preser
 
 III.- Que el predio origen se encuentre libre de procesos judiciales, procedimientos administrativos o gravámenes que afecten o puedan afectar el derecho de posesión o de propiedad del mismo; y
 
-IV.- Que el Municipio al que pertenece lo tenga registrado dentro del inventario de los asentamientos humanos irregulares que proporciona anualmente a la SEPLAPDE o en su caso que proceda a su registro.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+IV.- Que el Municipio al que pertenece lo tenga registrado dentro del inventario de los asentamientos humanos irregulares que proporciona anualmente a la SEPLADE o en su caso que proceda a su registro.
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2024)</small>
+
+V.- Que el origen de su conformación no sea el de un fraccionamiento, de conformidad con este Código;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2024)</small>
+
+VI.- Tener una ocupación real mayor al cuarenta por ciento de los lotes que lo conforman o que, a consideración del Municipio, pueda diferirse el cumplimiento de este requisito hasta antes de finalizar el procedimiento de regularización;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2024)</small>
+
+VII.- Que la ocupación real del asentamiento humano irregular tenga una antigüedad mínima de cinco años anteriores;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2024)</small>
+
+VIII.- Contar con al menos dos servicios públicos de agua potable, drenaje sanitario y energía eléctrica, con cobertura para todo el asentamiento humano irregular. En caso de no ser así, la SEPLADE podrá diferir el cumplimiento de este requisito, si considera viable la dotación de servicios.
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2024)</small>
+
+IX.- Tratándose de asociaciones o grupos sociales, estos deberán estar integrados por los habitantes o posesionarios de lotes del asentamiento humano y contar con un padrón de miembros actualizado, indicando su ubicación en los lotes.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2024)</small>
+
+No obstante, lo anterior, aquellos habitantes que no formen parte de la asociación, podrán beneficiarse del procedimiento de regularización cuando cumplan con los requisitos establecidos en sus estatutos o análogos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 286.
 
-El procedimiento de regularización de un asentamiento humano irregular deberá de ser integrado en la SEPLAPDE en coordinación con el Municipio correspondiente, y comprenderá de las siguientes etapas:
+El procedimiento de regularización de un asentamiento humano irregular deberá de ser integrado en la SEPLADE, y comprenderá de las siguientes etapas:
 
 I.- Solicitud de inicio de procedimiento e integración del expediente técnico jurídico;
 
-II.- Opinión favorable por parte del Municipio, en donde determine los acuerdos particulares para las áreas de donación, la factibilidad de introducción de infraestructura, equipamiento y servicios; y
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-III.- Dictamen del Sub-consejo correspondiente del Consejo Estatal.
+II.- Opinión favorable por parte del área encargada del desarrollo y/o control urbano municipal;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+III.- Opinión favorable del Sub-Consejo correspondiente del Consejo Estatal.
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2024)</small>
+
+IV.- Autorización del Consejo Estatal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 287.
 
-La solicitud para la regularización y la integración del expediente técnico jurídico del asentamiento humano irregular, deberá contener de manera enunciativa más no limitativa lo siguiente:
+La solicitud para la regularización y la integración del expediente técnico jurídico del asentamiento humano irregular que cumpla con lo establecido por el artículo 285, deberá contener de manera enunciativa más no limitativa lo siguiente:
 
 I.- Solicitud de inicio de procedimiento de regularización:
 
@@ -3865,11 +4069,17 @@ h).- Justificación en donde se acredite el beneficio social y público;
 
 II.- Integración del expediente técnico jurídico:
 
-a).- Copia certificada de escrituras o título de propiedad inscritos en el Registro Público;
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
-b).- Copia certificada del Poder Notariado en caso de representante legal;
+a) Copia certificada de escrituras o título de propiedad inscritos en el Instituto Registral y Catastral;
 
-c).- Constancia de no adeudo del impuesto a la propiedad raíz del año en curso;
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+b).- Tratándose de asociaciones civiles, presentar copia certificada del Acta Constitutiva y padrón de beneficiarios actualizado, indicando la ubicación del lote que le corresponde a cada uno;
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+c).- Estudio Geofísico avalado por un perito especializado en la materia;
 
 d).- Certificado de libertad de gravamen no mayor a un mes anterior a la solicitud;
 
@@ -3879,45 +4089,75 @@ e).- Constancia Municipal de Compatibilidad Urbanística;
 
 f).- Levantamiento topográfico Catastral expedido por el Instituto Registral y Catastral con fecha de expedición no mayor a dos años que no presente traslapes y/o invasiones;
 
-g).- Plano de curvas de nivel;
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
-h).- Plano de ligas y vialidades;
+g).- Opinión favorable de Protección Civil Municipal respecto de la regularización del asentamiento humano irregular;
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+h).- Dictamen del área encarga del desarrollo y/o control urbano municipal, donde se indique la cobertura y características de los servicios de agua potable, drenaje sanitario y energía eléctrica;
 
 i).- Plano de lotificación;
 
 j).- Plano de usos de suelo;
 
-k).- Plano de escurrimientos de aguas pluviales;
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
-l).- Dictamen de la Comisión Nacional del Agua;
+k).- Estudio Geológico avalado por un perito especializado en la materia; y
 
-m).- Dictamen de Protección Civil Municipal o en su caso de Protección Civil Estatal;
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
-n).- Estudio de Mecánica de Suelos avalado por un Perito especializado en la materia;
+l) Dictamen de la Comisión Nacional del Agua.
 
-ñ).- Estudio Geológico y Geofísico avalado por un Perito especializado en la materia;
+m).- (DEROGADO, P.O. 22 DE ENERO DE 2024)
 
-o).- Dictamen de Impacto Ambiental emitido por la SSMAA;
+n).- (DEROGADO, P.O. 22 DE ENERO DE 2024)
 
-p).- Memoria técnica descriptiva de las obras de urbanización existentes; y
+ñ).- (DEROGADO, P.O. 22 DE ENERO DE 2024)
 
-q).- Memoria técnica descriptiva de los servicios de agua potable, alcantarillado, saneamiento y eléctricos existentes.
+o).- (DEROGADO, P.O. 22 DE ENERO DE 2024)
 
-Cuando a juicio de la SEPLAPDE o a petición del promotor, tomando en cuenta las condiciones del asentamiento humano irregular, se considere que no procede la presentación o acreditación de alguno de los requisitos o documentos que establece este artículo, esta lo indicará al solicitante por no ser necesario al caso concreto o determinando; circunstancia por lo que la autorización de regularización se emitirá de manera condicionada para cumplir posteriormente con algún requisito o no requerirlo en su caso. La SEPLAPDE podrá solicitar la opinión al Municipio para resolver sobre estos asuntos.
+p).- (DEROGADO, P.O. 22 DE ENERO DE 2024)
+
+q).- (DEROGADO, P.O. 22 DE ENERO DE 2024)
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+Cuando a juicio de la SEPLADE o a petición del promotor, tomando en cuenta las condiciones del asentamiento humano irregular, se considere que no sea procedente o posible la presentación o acreditación de alguno o varios de los requisitos con documentos públicos en términos de este artículo. La SEPLADE dará respuesta por escrito al solicitante, previo estudio del caso concreto, debiendo emitir una determinación, fundada y motivada, para resolver sobre la regularización y en los casos que sea necesario la autoridad correspondiente deberá subsanar las deficiencias en la integración del expediente.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2024)</small>
+
+ARTÍCULO 287 BIS.- Cuando el asentamiento humano irregular no cumpla con lo establecido en el artículo 285, el promovente deberá integrar como parte del expediente además de lo señalado por el artículo 287, la siguiente documentación:
+
+I.- Factibilidad de los servicios de agua potable, alcantarillado sanitario y energía eléctrica;
+
+II.- Estudio Geofísico avalado por un perito especializado en la materia;
+
+III.- Estudio Geológico avalado por un perito especializado en la materia;
+
+IV.- Estudio de Mecánica de Suelos avalado por un perito especializado en la materia; y
+
+V.- Dictamen de Impacto Ambiental o el que determine la SSMAA.
 
 ###### ARTÍCULO 288.
 
 Recibida la solicitud será revisada para verificar que esté correctamente integrada conforme a lo dispuesto en este Código.
 
-En caso de que los datos o documentos estén incompletos o no exista congruencia entre estos, la SEPLAPDE notificará al promotor y determinará un plazo razonable para que subsane las observaciones; en caso de no ser subsanadas se devolverá el expediente.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
-Una vez avalado el expediente por la SEPLAPDE, se enviará el mismo al Municipio correspondiente con objeto de que emita su opinión.
+En caso de que los datos o documentos estén incompletos o no exista congruencia entre estos, la SEPLADE notificará al promotor y determinará un plazo razonable para que subsane las observaciones; en caso de no ser subsanadas se devolverá el expediente.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+Una vez avalado el expediente por la SEPLADE, se enviará el mismo al Municipio correspondiente con objeto de que emita su opinión en un plazo máximo de 15 días hábiles, contados a partir de la fecha de recepción del expediente completo respectivo o a la debida integración del expediente digital único, de no obtenerse la opinión en el plazo señalado, se entenderá que no se tiene objeción y podrá continuarse con el trámite.
 
 Si la opinión del Municipio no es procedente, deberá justificar los motivos de acuerdo a las disposiciones legales vigentes en la materia, aspectos técnico normativos y el presente Código.
 
 Si la opinión del Municipio es procedente, deberá contener como mínimo los siguientes elementos:
 
-I.- Acuerdos o convenios aprobados referente a las áreas de donación; definición sobre la ubicación y superficie de las mismas, o en su caso la justificación y descripción de eximir ese requisito o hacerlo con una permuta;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+I.- En caso de polígonos que se hayan destinado para servicios públicos o equipamientos, los acuerdos o convenios aprobados respecto de las áreas de donación, la ubicación y superficie de las mismas, o en su caso, la justificación de eximir este requisito o hacerlo mediante permuta;
 
 II.- Acuerdos o convenios aprobados para la introducción de infraestructura, equipamiento y servicios públicos;
 
@@ -3927,35 +4167,59 @@ IV.- Aprobación de la propuesta de denominación del asentamiento.
 
 A fin de contar con los suficientes elementos que le permitan emitir la opinión referida el Municipio, en caso de ser necesario solicitará la opinión técnica de las dependencias o entidades federales, estatales o municipales, respecto de cada uno de los aspectos técnico que se requieran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 289.
 
-Contando con todos los requisitos establecidos en el presente Código y la opinión procedente del Municipio, la SEPLAPDE integrará el proyecto de dictamen de regularización del asentamiento humano correspondiente.
+Contando con todos los requisitos establecidos en el presente Código y la opinión procedente del Municipio, la SEPLADE integrará el proyecto de dictamen de regularización del asentamiento humano correspondiente.
 
 El proyecto de dictamen deberá plasmar toda la documentación presentada, incluyendo la opinión del Municipio.
 
 El proyecto de dictamen se remitirá al promotor o propietario para firma, en caso de que se requiera realizar correcciones o modificaciones, dispondrá de un plazo no mayor de 15 días hábiles para contestar, contados a partir del día siguiente de la fecha en que se le notifique el requerimiento respectivo; si el solicitante no realiza las correcciones o modificaciones requeridas, la solicitud quedará como no presentada.
 
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2024)</small>
+
+ARTÍCULO 289 BIS.- Cuando el asentamiento humano irregular cumpla con lo establecido en el artículo 285 de este Código, el IVSOP deberá de validar y remitir el padrón de beneficiarios al IRC, el cual deberá realizar los traslados de dominio exclusivamente en atención a éste.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2024)</small>
+
+ARTÍCULO 289 TER.- El IVSOP o el Municipio, en el ámbito de sus competencias deberá:
+
+I. Establecer con los habitantes las bases para la dotación de servicios, equipamientos e infraestructura urbana, a través de la participación económica de éstos, por lo que se podrá contar para tales efectos con la cooperación de las autoridades correspondientes;
+
+II. Gestionar recursos federales, estatales y municipales, a fin de regularizar asentamientos humanos irregulares; y
+
+III. Dar aviso a la Procuraduría para atender, asesorar, mediar y conciliar en asuntos, conflictos y controversias entre colonos, adquirientes de lotes, predios o viviendas o promotores.
+
 ###### ARTÍCULO 290.
 
 Una vez aceptado y firmado por el propietario o promotor el proyecto de dictamen de regularización del asentamiento humano, será sometido como parte del orden del día a la próxima sesión del Consejo Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 291.
 
-El Consejo Estatal, tomando en cuenta lo dictaminado, la opinión en su caso del Sub-consejo correspondiente y del Municipio, en sesión plenaria aprobará o rechazará el proyecto de dictamen que sea sometido a su consideración por la SEPLAPDE, una vez que se hubiera analizado, de acuerdo a las disposiciones legales vigentes en la materia, aspectos técnicos y normas de planeación urbana.
+El Consejo Estatal, tomando en cuenta lo dictaminado, la opinión en su caso del Sub-consejo correspondiente y del Municipio, en sesión plenaria aprobará o rechazará el proyecto de dictamen que sea sometido a su consideración por la SEPLADE, una vez que se hubiera analizado, de acuerdo a las disposiciones legales vigentes en la materia, aspectos técnicos y normas de planeación urbana.
 
-La SEPLAPDE notificará al propietario o promotor la resolución del Consejo Estatal; en caso de ser aprobado el dictamen de manera condicionada, el interesado contará con un plazo de 30 días hábiles o el tiempo que indique dicho Consejo para dar cumplimiento o garantizar lo conducente. Una vez subsanadas las condicionantes, la SEPLAPDE emitirá una resolución determinando lo correspondiente.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+La SEPLADE notificará al propietario o promotor la resolución del Consejo Estatal; en caso de ser aprobado el dictamen de manera condicionada, el interesado contará con un plazo de 30 días hábiles o el tiempo que indique dicho Consejo para dar cumplimiento o garantizar lo conducente. Una vez subsanadas las condicionantes, la SEPLADE emitirá una resolución determinando lo correspondiente.
 
 El acta de la sesión del Consejo Estatal, será publicada por una sola vez en el Periódico Oficial del Estado.
 
 #### Sección Segunda. Reservas de Crecimiento Ejidal
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 292.
 
-La ocupación de la reserva de crecimiento ejidal, se realizará conforme a lo previsto en la Ley General, la Ley Agraria, su Reglamento, el Código y el Programa de Desarrollo Urbano aplicable, a través de los organismos competentes para ello.
+El fraccionamiento de la reserva de crecimiento ejidal, se realizará conforme a lo previsto en la Ley General, la Ley Agraria, su Reglamento, el Código y el Programa de Desarrollo Urbano aplicable, a través de los organismos competentes para ello.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 293.
 
-Serán susceptibles de ocupación las reservas de crecimiento ejidal que cumplan los siguientes requisitos:
+Serán susceptibles de fraccionar las reservas de crecimiento ejidal que cumplan los siguientes requisitos:
 
 I.- Con fundamento en el artículo 66 de la Ley Agraria, se requerirá la intervención de las autoridades municipales correspondientes y se observarán las normas técnicas que emita la Secretaría de Medio Ambiente y Recursos Naturales;
 
@@ -3965,19 +4229,27 @@ III.- Que no se encuentre ubicado en zonas no urbanizables, de riesgo o de prese
 
 IV.- Que el predio origen se encuentre libre de procesos judiciales, procedimientos administrativos o gravámenes que afecten o puedan afectar el derecho de posesión o de propiedad del mismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 294.
 
-El procedimiento de ocupación o regularización de las reservas ejidales, deberá de ser integrado en la SEPLAPDE en coordinación con el Municipio correspondiente, y comprenderá las siguientes etapas:
+El procedimiento de fraccionamiento o regularización de las reservas ejidales, deberá de ser integrado en el Municipio correspondiente, y comprenderá las siguientes etapas:
 
 I.- Solicitud de inicio de procedimiento e integración del expediente técnico jurídico;
 
-II.- Opinión favorable por parte del Municipio, en donde determine los acuerdos particulares para las áreas de donación, la factibilidad de introducción de infraestructura, equipamiento y servicios; y
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-III.- Dictamen aprobado por parte del Consejo Estatal.
+II.- Opinión favorable por parte de la SEPLADE; y
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+III.- Dictamen aprobado por el Municipio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 295.
 
-La solicitud para la ocupación o regularización y la integración del expediente técnico jurídico de la reserva de crecimiento ejidal, deberá contener de manera enunciativa más no limitativa lo siguiente:
+La solicitud para el fraccionamiento o regularización y la integración del expediente técnico jurídico de la reserva de crecimiento ejidal, deberá contener de manera enunciativa más no limitativa lo siguiente:
 
 I.- Solicitud de inicio de procedimiento de ocupación o regularización que contenga:
 
@@ -3999,13 +4271,13 @@ a).- Copia simple del nombramiento del Comisariado Ejidal y del Consejo de Vigil
 
 b).- Copia del acta de delimitación destino, que expidió el Programa de Certificación de Derechos Ejidales y Titulación de Solares Urbanos;
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
-c).- Plano de curvas de nivel;
+c).- Levantamiento cartográfico;
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
-d).- Plano de ligas y vialidades;
+d).- Estudio Geofísico avalado por un perito especializado en la materia;
 
 > <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
 
@@ -4015,55 +4287,61 @@ e).- Plano de lotificación;
 
 f).- Plano de usos de suelo;
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
-g).- Plano de escurrimientos de aguas pluviales;
+g).- Estudio Geológico avalado por un perito especializado en la materia; y
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
-h).- Dictamen de la Comisión Nacional del Agua;
+h).- Dictamen de la Comisión Nacional del Agua.
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
+i).- (DEROGADO, P.O. 22 DE ENERO DE 2024)
 
-i).- Dictamen de Protección Civil Municipal. En caso de que el Municipio no cuente con los medios necesarios para emitir el dictamen, deberá ser emitido por Protección Civil Estatal;
+j).- (DEROGADO, P.O. 22 DE ENERO DE 2024)
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
+k).- (DEROGADO, P.O. 22 DE ENERO DE 2024)
 
-j).- Estudio de Mecánica de Suelos avalado por un Perito especializado en la materia;
+l).- (DEROGADO, P.O. 22 DE ENERO DE 2024)
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
-
-k).- Estudio geológico y, geofísico avalado por un Perito especializado en la materia;
-
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
-
-l).- Dictamen de Impacto Ambiental emitido por la autoridad municipal correspondiente y opinión de la SSMAA; y
-
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
-
-m).- Factibilidad de servicios de agua potable, drenaje, saneamiento y electricidad, emitidos por la autoridad correspondiente.
+m).- (DEROGADO, P.O. 22 DE ENERO DE 2024)
 
 n).- (DEROGADO, P.O. 3 DE ABRIL DE 2023)
 
-Cuando a juicio de la SEPLAPDE o a petición del interesado, tomando en cuenta las condiciones del proyecto respectivo, se considere que no procede la presentación o acreditación de alguno de los requisitos o documentos que establece este ARTÍCULO, esta lo indicará al solicitante por no ser necesario al caso concreto o determinando; circunstancia por lo que la autorización correspondiente se emitirá de manera condicionada para cumplir posteriormente con algún requisito o no requerirlo en su caso. La SEPLAPDE podrá solicitar la opinión al Municipio para resolver sobre estos asuntos.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+Cuando a juicio del Municipio o a petición del promotor, tomando en cuenta las condiciones de la reserva de crecimiento ejidal, se considere que no sea procedente o posible la presentación o acreditación de alguno o varios de los requisitos con documentos públicos en términos de este artículo. El Municipio, previa opinión de la SEPLADE, dará respuesta por escrito al solicitante, previo estudio del caso concreto, debiendo emitir una determinación, fundada y motivada, para resolver sobre el fraccionamiento de la reserva de crecimiento ejidal supliendo las deficiencias de oficio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 296.
 
-Recibida la solicitud será revisada por parte de la SEPLAPDE para verificar que esté correctamente integrada conforme a lo dispuesto en este Código, en caso de que falte algún documento será devuelto al interesado.
+Recibida la solicitud será revisada por parte del Municipio para verificar que esté correctamente integrada conforme a lo dispuesto en este Código, en caso de que falte algún documento será devuelto al interesado.
 
-En caso de que los datos o documentos estén incompletos o no exista congruencia entre estos, la SEPLAPDE notificará al promotor y determinará un plazo razonable para que subsane las observaciones; en caso de no ser subsanadas se devolverá el expediente.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+En caso de que los datos o documentos estén incompletos o no exista congruencia entre estos, el Municipio notificará al promotor y determinará un plazo razonable para que subsane las observaciones; en caso de no ser subsanadas se devolverá el expediente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 297.
 
-Una vez avalado el expediente por la SEPLAPDE, se enviará el mismo al Municipio correspondiente con objeto de que emita su opinión.
+Una vez avalado el expediente por el Municipio, se enviará el mismo a la SEPLADE con objeto de que emita su opinión.
 
-Si la opinión del Municipio no es procedente, deberá justificar los motivos de acuerdo a las disposiciones legales vigentes en la materia, aspectos técnico normativos y del presente Código.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
-Si la opinión del Municipio es procedente, deberá contener como mínimo los siguientes elementos:
+Si la opinión de la SEPLADE no es procedente, deberá justificar los motivos de acuerdo a las disposiciones legales vigentes en la materia, aspectos técnico normativos y del presente Código.
 
-I.- Determinación en cuanto a su competencia de que la reserva de crecimiento ejidal puede ser ocupada o regularizada;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE ENERO DE 2024)</small>
 
-II.- Definición sobre la ubicación y superficies de los predios o lotes que deberán ser donados al Municipio respectivo, la cual no podrá ser menor al 12%;
+Si la opinión de la SEPLADE es procedente, deberá contener como mínimo los siguientes elementos:
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+I.- Determinación en cuanto a su competencia de que la reserva de crecimiento ejidal puede ser fraccionada o regularizada;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+II.- Definición sobre la ubicación y superficies de los predios o lotes que deberán ser donados al Municipio respectivo, la cual no podrá ser menor al 10%; y
 
 III.- En su caso, la determinación del equipamiento urbano e infraestructura que se realizará en las áreas de donación o en otro predio municipal, en sustitución de una parte de la superficie de donación o de los derechos fiscales municipales derivados licencias de urbanización; anexando el dictamen que lo justifique y los valores determinados para esos fines, tanto del predio de donación como el equipamiento de infraestructura o del monto de las obligaciones fiscales;
 
@@ -4073,13 +4351,19 @@ V.- Aprobación de la propuesta de denominación de la reserva; y
 
 VI.- En su caso, establecimiento de las especificaciones o características que deberán cumplirse como condicionantes para su autorización.
 
-A fin de contar con los suficientes elementos que le permitan emitir la opinión referida el Municipio, podrá si lo considera necesario solicitar la opinión técnica de las dependencias o entidades federales, estatales o municipales respecto de cada uno de los aspectos técnico que se requieran.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+A fin de contar con los suficientes elementos que le permitan emitir la autorización referida la SEPLADE, podrá si lo considera necesario solicitar la opinión técnica de las dependencias o entidades federales, estatales o municipales respecto de cada uno de los aspectos técnico que se requieran.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 298.
 
-Contando con todos los requisitos establecidos en el presente Código y la opinión procedente del Municipio, la SEPLAPDE integrará el proyecto de dictamen de ocupación o regularización de reserva de crecimiento ejidal.
+Contando con todos los requisitos establecidos en el presente Código y la opinión procedente de la SEPLADE, el Municipio integrará el proyecto de dictamen de fraccionamiento o regularización de reserva de crecimiento ejidal.
 
-El proyecto de dictamen deberá plasmar toda la documentación presentada, incluyendo la opinión del Municipio.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+El proyecto de dictamen deberá plasmar toda la documentación presentada, incluyendo la opinión de la SEPLADE.
 
 El proyecto de dictamen se remitirá al Comisariado Ejidal para que sea sometido a votación de la asamblea y se proceda aprobación del mismo, en caso de que se requiera realizar correcciones o modificaciones, dispondrá de un plazo no mayor de 30 días hábiles para contestar, contados a partir del día siguiente de la fecha en que se le notifique el requerimiento respectivo; si el solicitante no realiza las correcciones o modificaciones requeridas, la solicitud quedará como no presentada.
 
@@ -4087,13 +4371,13 @@ El proyecto de dictamen se remitirá al Comisariado Ejidal para que sea sometido
 
 Una vez aprobado por la asamblea y firmado por el Comisariado Ejidal el proyecto de dictamen de ocupación o regularización de Reserva de Crecimiento Ejidal, será sometido como parte del orden del día a la próxima sesión del Consejo Estatal.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 300.
 
-El Consejo Estatal en sesión aprobará o rechazará el proyecto de dictamen sometido a su consideración por parte de la SEPLAPDE.
+El Municipio notificará al Comisariado Ejidal y a la SEPLADE la resolución.
 
-La SEPLAPDE notificará al Comisariado Ejidal la resolución del Consejo Estatal.
-
-El Proyecto en caso de ser aprobado de manera condicionada, el interesado o interesados contarán con un término de 30 días hábiles para llevar a cabo las condicionantes; una vez subsanadas, la SEPLAPDE, previa opinión favorable del Municipio emitirá resolución teniendo por cumplidas las citadas condicionantes.
+El Proyecto en caso de ser aprobado de manera condicionada, el interesado o interesados contarán con un término de 30 días hábiles para llevar a cabo las condicionantes; una vez subsanadas, el Municipio, previa opinión favorable del Municipio emitirá resolución teniendo por cumplidas las citadas condicionantes.
 
 El acta de la sesión del Consejo Estatal será publicada por una sola vez en el Periódico Oficial del Estado.
 
@@ -4189,9 +4473,11 @@ XI.- Equipamiento de limpia que cuente con contenedores de basura, los cuales de
 
 XII.- En su caso, equipamiento para la seguridad pública, con las especificaciones que determine el Municipio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 305.
 
-El IVSOP en coordinación con la SEPLAPDE, los Municipios o los organismos públicos de vivienda de la Federación, podrán promover la realización de fraccionamientos habitacionales urbanos de interés social.
+El IVSOP en coordinación con la SEPLADE, los Municipios o los organismos públicos de vivienda de la Federación, podrán promover la realización de fraccionamientos habitacionales urbanos de interés social.
 
 Estos fraccionamientos deberán tener las mismas características y especificaciones técnicas que se establecen en este Código para los fraccionamientos de densidad alta, con excepción de que las obras de urbanización e introducción de servicios, mismas que se podrán ejecutar de manera progresiva y por cooperación.
 
@@ -4205,9 +4491,11 @@ Los fraccionamientos habitacionales de interés social desarrollados por las ins
 
 Únicamente se podrá autorizar la urbanización progresiva en los fraccionamientos habitacionales urbanos de interés social.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 308.
 
-En los centros de población rural se podrán autorizar fraccionamientos habitacionales con las características de urbanización, requisitos y lineamientos que establezca la SEPLAPDE.
+En los centros de población rural se podrán autorizar fraccionamientos habitacionales con las características de urbanización, requisitos y lineamientos que establezca la SEPLADE.
 
 ###### ARTÍCULO 309.
 
@@ -4259,7 +4547,9 @@ Las calles locales deberán tener una anchura de 12 metros, medida de paramento 
 
 Cuando necesariamente una calle local tenga que ser cerrada, se hará un retorno con las dimensiones que dictamine el Consejo Estatal; y
 
-III.- Los fraccionamientos objeto de este ARTÍCULO deberán tener como mínimo la siguiente infraestructura y equipamiento urbano:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE ENERO DE 2024)</small>
+
+III.- Los fraccionamientos objeto de este artículo deberán tener como mínimo la siguiente infraestructura y equipamiento urbano:
 
 a).- Fuente de abastecimiento de agua potable, red de distribución y tomas domiciliarias; Para el servicio de agua potable, podrá el fraccionador, contemplar únicamente la instalación de una cisterna por lote;
 
@@ -4313,7 +4603,9 @@ Tratándose de fraccionamientos realizados por dependencias o entidades federale
 
 d).- VIALIDAD: en este tipo de fraccionamientos deberá realizarse un estudio especial de vialidad, el cual deberá ser autorizado por el Consejo Estatal. Dicho estudio deberá contemplar áreas jardinadas en camellones, y las calles locales deberán tener una anchura mínima de 15 metros;
 
-III.- Los fraccionamientos objeto de este ARTÍCULO, deberán tener como mínimo la siguiente infraestructura y equipamiento urbano:
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 22 DE ENERO DE 2024)</small>
+
+III.- Los fraccionamientos objeto de este artículo, deberán tener como mínimo la siguiente infraestructura y equipamiento urbano:
 
 a).- Fuente de abastecimiento de agua potable, red de distribución y tomas domiciliarias;
 
@@ -4421,11 +4713,13 @@ III.- Habitacionales; y
 
 IV.- Mixtos.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 318.
 
-La autorización de los desarrollos inmobiliarios especiales de una superficie total del terreno de 20,000 metros cuadrados compete a los Municipios, previa opinión favorable de la SEPLAPDE, quien para efecto de expedirla tomará en cuenta los lineamientos, requisitos, zonificación y procedimientos que establece este Código, los códigos municipales, los programas de desarrollo urbano aplicables y demás disposiciones jurídicas aplicables.
+La autorización de los desarrollos inmobiliarios especiales de una superficie total del terreno de 20,000 metros cuadrados compete a los Municipios, previa opinión favorable de la SEPLADE, quien para efecto de expedirla tomará en cuenta los lineamientos, requisitos, zonificación y procedimientos que establece este Código, los códigos municipales, los programas de desarrollo urbano aplicables y demás disposiciones jurídicas aplicables.
 
-Los desarrollos inmobiliarios especiales, de una superficie total del terreno mayor a los 20,000 metros cuadrados, será competencia de la SEPLAPDE, quien a su vez deberá contar previamente con la opinión favorable del Municipio, tomando en cuenta lo referido en el párrafo anterior.
+Los desarrollos inmobiliarios especiales, de una superficie total del terreno mayor a los 20,000 metros cuadrados, será competencia de la SEPLADE, quien a su vez deberá contar previamente con la opinión favorable del Municipio, tomando en cuenta lo referido en el párrafo anterior.
 
 ###### ARTÍCULO 319.
 
@@ -4443,9 +4737,11 @@ III.- Aplicar las disposiciones del Reglamento de funcionamiento del Desarrollo 
 
 IV.- Mantener en buen estado de funcionamiento las instalaciones y servicios generales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 321.
 
-El promotor deberá presentar al Municipio o a la SEPLAPDE, según corresponda, junto con la solicitud para que se autorice un desarrollo inmobiliario especial, la propuesta de un Reglamento de funcionamiento del mismo, el cual deberá contemplar como mínimo, lo siguiente:
+El promotor deberá presentar al Municipio o a la SEPLADE, según corresponda, junto con la solicitud para que se autorice un desarrollo inmobiliario especial, la propuesta de un Reglamento de funcionamiento del mismo, el cual deberá contemplar como mínimo, lo siguiente:
 
 I.- Los derechos y obligaciones del promotor y de los ocupantes de las áreas, edificaciones e instalaciones que integran el mismo;
 
@@ -4539,7 +4835,9 @@ Dicho valor será actualizado por un avalúo comercial expedido por perito valua
 
 El propietario quedará exento de dicha obligación si el predio es propiedad del Gobierno del Estado, de los Municipios o de las instituciones gubernamentales, o si al momento de generarse la infraestructura a que se refiere este artículo cubrió los gastos correspondientes al Municipio respectivo o al Gobierno del Estado; en los términos de la legislación aplicable.
 
-La construcción de vivienda multifamiliar, edificios o conjuntos habitacionales dentro de algún fraccionamiento o condominio sólo podrá ejecutarse en las zonas y porcentajes que para tal efecto hayan sido autorizados por el Consejo Estatal o, en su caso, por el Municipio en coordinación con la SEPLAPDE, tomando en cuenta los coeficientes de construcción. de ocupación del suelo y de densidad de población.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+La construcción de vivienda multifamiliar, edificios o conjuntos habitacionales dentro de algún fraccionamiento o condominio sólo podrá ejecutarse en las zonas y porcentajes que para tal efecto hayan sido autorizados por el Consejo Estatal o, en su caso, por el Municipio en coordinación con la SEPLADE, tomando en cuenta los coeficientes de construcción. de ocupación del suelo y de densidad de población.
 
 ###### ARTÍCULO 330.
 
@@ -4579,7 +4877,9 @@ VI.- El proyecto y las especificaciones de edificación del equipamiento urbano 
 
 VII.- El equipamiento urbano e infraestructura complementarios conforme a su naturaleza, deberá ubicarse en lugares que permitan su libre y óptimo uso por parte de la población en general; y
 
-La dotación de equipamiento urbano e infraestructura complementarios en los fraccionamientos, condominios o desarrollos inmobiliarios especiales por parte de los fraccionadores o promotores, también podrá realizarse a cuenta de las obligaciones fiscales municipales derivadas de la autorización y de las licencias de urbanización de los terrenos, conforme a las reglas referidas en este ARTÍCULO.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+La dotación de equipamiento urbano e infraestructura complementarios en los fraccionamientos, condominios o desarrollos inmobiliarios especiales por parte de los fraccionadores o promotores, también podrá realizarse a cuenta de las obligaciones fiscales municipales derivadas de la autorización y de las licencias de urbanización de los terrenos, conforme a las reglas referidas en este artículo.
 
 ###### ARTÍCULO 335.
 
@@ -4621,9 +4921,11 @@ Tratándose de superficies afectadas por fallas o grietas geológicas, líneas d
 
 La superficie referida en el párrafo anterior se deberá entregar en las condiciones que señale el Municipio respectivo, a efecto de poderse utilizar como áreas verdes.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 339.
 
-En los fraccionamientos, condominios o desarrollos inmobiliarios especiales, ubicados en una zona en que exista la cobertura suficiente de infraestructura, equipamiento y servicios, previo dictamen del Municipio conjuntamente con la SEPLAPDE, se podrán modificar los porcentajes de destino de la donación establecida conforme a lo determinado en este Código.
+En los fraccionamientos, condominios o desarrollos inmobiliarios especiales, ubicados en una zona en que exista la cobertura suficiente de infraestructura, equipamiento y servicios, previo dictamen del Municipio conjuntamente con la SEPLADE, se podrán modificar los porcentajes de destino de la donación establecida conforme a lo determinado en este Código.
 
 ###### ARTÍCULO 340.
 
@@ -4685,7 +4987,9 @@ El Municipio, o en su caso, el fraccionador o promotor podrá solicitar un cambi
 
 Las vialidades interiores, espacios para circulación vehicular y peatonal y estacionamientos, en los condominios autorizados por el Municipio, se podrán permitir otro tipo de materiales, siempre y cuando su diseño y especificaciones técnicas las apruebe la Secretaría o Dependencia de Obras Públicas del Municipio respectivo.
 
-La jerarquía, características y elementos de las vialidades estarán determinados por la función principal de cada una de ellas, conforme a lo previsto en este Código y las resoluciones que emita la SEPLAPDE o el Municipio, considerando dentro de su diseño y construcción vías de acceso que faciliten la movilidad y la accesibilidad universal y al mismo tiempo su eficaz mantenimiento.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+La jerarquía, características y elementos de las vialidades estarán determinados por la función principal de cada una de ellas, conforme a lo previsto en este Código y las resoluciones que emita la SEPLADE o el Municipio, considerando dentro de su diseño y construcción vías de acceso que faciliten la movilidad y la accesibilidad universal y al mismo tiempo su eficaz mantenimiento.
 
 ###### ARTÍCULO 351.
 
@@ -4711,9 +5015,11 @@ Cuando cualquiera de los tipos de calles a que se refiere este Código tengan cr
 
 El fraccionador o promotor que hubiera realizado la obra, podrá repercutir proporcionalmente el costo de la misma a los demás desarrolladores de la zona, para que también reciban un beneficio a sus proyectos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 353.
 
-Para conectar un fraccionamiento, condominio o desarrollo inmobiliario especial a una arteria de alta velocidad en proyecto o ya exista, se tendrá que proyectar un carril lateral de baja velocidad y de estacionamiento, conforme a las dimensiones que determine El Consejo Estatal, la SEPLAPDE o el Municipio. Podrán existir lotes o predios con acceso directo a dicho carril de baja velocidad, pero se destinarán exclusivamente para uso comercial o de servicios.
+Para conectar un fraccionamiento, condominio o desarrollo inmobiliario especial a una arteria de alta velocidad en proyecto o ya exista, se tendrá que proyectar un carril lateral de baja velocidad y de estacionamiento, conforme a las dimensiones que determine El Consejo Estatal, la SEPLADE o el Municipio. Podrán existir lotes o predios con acceso directo a dicho carril de baja velocidad, pero se destinarán exclusivamente para uso comercial o de servicios.
 
 En las banquetas de las calles colectoras y de mayor jerarquía deberán contemplarse cajetes o arriates para la plantación de árboles, conforme a las especificaciones del Municipio respectivo.
 
@@ -4741,53 +5047,71 @@ Asimismo, se deberá asignar por el Municipio, previa solicitud, el número ofic
 
 ### CAPÍTULO III. De los Requisitos y Procedimientos para la Autorización
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 357.
 
-La tramitación, autorización y modificación de un fraccionamiento, condominio y desarrollo inmobiliario especial; la ejecución y control de las obras de urbanización; la municipalización de un fraccionamiento o subdivisión; y la entrega de las obras de urbanización de los condominios, se hará en un expediente digital único, en el que participarán la SEPLAPDE, las dependencias y entidades estatales y los Municipios.
+La tramitación, autorización y modificación de un fraccionamiento, condominio y desarrollo inmobiliario especial; la ejecución y control de las obras de urbanización; la municipalización de un fraccionamiento o subdivisión; y la entrega de las obras de urbanización de los condominios, se hará en un expediente digital único, en el que participarán la SEPLADE, las dependencias y entidades estatales y los Municipios.
 
-Para una adecuada integración y funcionamiento del expediente digital único, la SEPLAPDE y el Municipio respectivo, a través de su Secretaría Municipal, serán los responsables de su implementación y operación en el ámbito de su competencia, facilitando la consulta de la ciudadanía en general.
+Para una adecuada integración y funcionamiento del expediente digital único, la SEPLADE y el Municipio respectivo, a través de su Secretaría Municipal, serán los responsables de su implementación y operación en el ámbito de su competencia, facilitando la consulta de la ciudadanía en general.
 
 ###### ARTÍCULO 358.
 
 La autorización de las solicitudes de fraccionamientos en todos los supuestos, así como para la constitución del régimen de propiedad en condominio cuando éste cuente con 100 o más predios, viviendas, departamentos, unidades o áreas o tenga una superficie mayor a 20,000 metros cuadrados será facultad exclusiva del Consejo Estatal, previa opinión del Municipio.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 359.
 
-La autorización para constituir el régimen de propiedad en condominio en terrenos de hasta de 20,000 metros cuadrados o con menos 100 predios, viviendas, departamentos, unidades o áreas, compete al Municipio previa opinión de la SEPLAPDE.
+La autorización para constituir el régimen de propiedad en condominio en terrenos de hasta de 20,000 metros cuadrados o con menos 100 predios, viviendas, departamentos, unidades o áreas, compete al Municipio previa opinión de la SEPLADE.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 360.
 
-La autorización de desarrollos inmobiliarios especiales, en predios mayores a 20,000 metros cuadrados, será facultad de la SEPLAPDE, previa opinión del Municipio. Si el terreno es de 20,000 metros cuadrados o menor, le corresponderá al Municipio, con la previa opinión de la SEPLAPDE.
+La autorización de desarrollos inmobiliarios especiales, en predios mayores a 20,000 metros cuadrados, será facultad de la SEPLADE, previa opinión del Municipio. Si el terreno es de 20,000 metros cuadrados o menor, le corresponderá al Municipio, con la previa opinión de la SEPLADE.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 361.
 
-El régimen de propiedad en condómino, autorizado por el Consejo Estatal, que se pretenda modificar o extinguir total o parcialmente, compete en todos los casos a la SEPLAPDE, previa opinión del Municipio.
+El régimen de propiedad en condómino, autorizado por el Consejo Estatal, que se pretenda modificar o extinguir total o parcialmente, compete en todos los casos a la SEPLADE, previa opinión del Municipio.
 
-Respecto del régimen de propiedad autorizado por el Municipio, a éste le corresponderá autorizar su modificación o extinción total o parcial, previa opinión de la SEPLAPDE.
+Respecto del régimen de propiedad autorizado por el Municipio, a éste le corresponderá autorizar su modificación o extinción total o parcial, previa opinión de la SEPLADE.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 362.
 
-El Consejo Estatal, la SEPLAPDE o el Municipio autorizarán un fraccionamiento, condominio o desarrollo inmobiliario especial según corresponda, siguiendo las formalidades establecidas en este Código, una vez satisfechos todos los requisitos legales por parte del fraccionador o promotor y cubiertas las obligaciones fiscales que correspondan.
+El Consejo Estatal, la SEPLADE o el Municipio autorizarán un fraccionamiento, condominio o desarrollo inmobiliario especial según corresponda, siguiendo las formalidades establecidas en este Código, una vez satisfechos todos los requisitos legales por parte del fraccionador o promotor y cubiertas las obligaciones fiscales que correspondan.
 
 ###### ARTÍCULO 363.
 
 Será requisito para la autorización de un fraccionamiento, desarrollo inmobiliario especial o condominio, que el fraccionador o promotor haya cumplido con todas las obligaciones, condiciones y especificaciones técnicas, jurídicas y fiscales en los fraccionamientos, condominios o desarrollos inmobiliarios especiales que se le hubieren autorizado con anterioridad en el Estado. Sin este requisito no podrá autorizarse un trámite nuevo, hasta que en los anteriores cumpla con todas las obligaciones que el fraccionador o promotor tenga pendientes.
 
-La SEPLAPDE previa opinión del Municipio o viceversa, según corresponda, deberá expedir la constancia de cumplimiento de obligaciones anteriores por parte de los fraccionadores o promotores.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+La SEPLADE previa opinión del Municipio o viceversa, según corresponda, deberá expedir la constancia de cumplimiento de obligaciones anteriores por parte de los fraccionadores o promotores.
 
 ###### ARTÍCULO 364.
 
 La solicitud para la autorización de un fraccionamiento, así como para la constitución, extinción o modificación del régimen de propiedad en condominio y de ejecución de un desarrollo inmobiliario especial, se deberá presentar e integrar por el interesado en el expediente digital único, precisando su tipo conforme a la clasificación prevista en este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 365.
 
-La solicitud a que se refiere el ARTÍCULO anterior, deberá constar de la siguiente documentación y requisitos:
+La solicitud a que se refiere el artículo anterior, deberá constar de la siguiente documentación y requisitos:
 
-I.- Copia certificada de la escritura pública o título de propiedad del predio objeto de la solicitud, inscrita en el Registro Público;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+I.- Copia certificada de la escritura pública o título de propiedad del predio objeto de la solicitud, inscrita en el Instituto Registral y Catastral;
 
 II.- La autorización municipal de fusión y subdivisión de los predios cuando sea necesaria, con su correspondiente protocolización en escritura pública;
 
-III.- Copia certificada del acta constitutiva de la empresa fraccionadora o promotora o del contrato de fideicomiso, inscritos en el Registro Público, cuando se trate de persona morales, y/o del contrato de asociación y/o aportación en el caso de colaboración entre propietario y desarrollador;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+III.- Copia certificada del acta constitutiva de la empresa fraccionadora o promotora o del contrato de fideicomiso, inscritos en el Instituto Registral y Catastral, cuando se trate de persona morales, y/o del contrato de asociación y/o aportación en el caso de colaboración entre propietario y desarrollador;
 
 IV.- Constancia Municipal de Compatibilidad Urbanística;
 
@@ -4877,23 +5201,51 @@ XVI.- En caso de que sea sustituida una parte del área de donación, se deberá
 
 XVII.- Proyecto de video vigilancia que cumpla con los lineamientos establecidos por la Secretaría de Seguridad Pública en términos de la Ley de Video Vigilancia del Estado de Aguascalientes, con excepción de los condominios y fraccionamientos habitacionales urbanos de interés social.
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
-Cuando a juicio de la SEPLADE o el Municipio o por solicitud del fraccionador o promotor, tomando en cuenta el tipo, características y tamaño del fraccionamiento, condominio o desarrollo inmobiliario especial, dichas instancias consideren que no procede la presentación o acreditación de alguno de los requisitos o documentos que establece este artículo, éstas lo indicaran al solicitante por no ser necesarias en el caso específico. La SEPLADE podrá solicitar la opinión del Municipio y viceversa para resolver sobre ese asunto.
+Cuando a juicio de la SEPLADE o el Municipio o por solicitud del fraccionador o promotor, tomando en cuenta el tipo, características y tamaño del fraccionamiento, condominio o desarrollo inmobiliario especial, dichas instancias consideren que no procede la presentación o acreditación de alguno de los requisitos o documentos que establece este artículo, estas lo indicarán al solicitante por no ser necesarios en el caso específico. La SEPLADE podrá solicitar la opinión del Municipio y viceversa para resolver sobre ese asunto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 366.
 
-Con la finalidad de realizar el estudio y análisis de los respectivos proyectos, así como para resolverlos en tiempo y forma, la documentación señalada en el artículo que antecede, podrá ser presentada en partes por el interesado, conforme a los lineamientos generales que establezca la SEPLAPDE o el Municipio en los asuntos de su competencia.
+Con la finalidad de realizar el estudio y análisis de los respectivos proyectos, así como para resolverlos en tiempo y forma, la documentación señalada en el artículo que antecede, podrá ser presentada en partes por el interesado, conforme a los lineamientos generales que establezca la SEPLADE o el Municipio.
 
 Si la documentación entregada no reúne los requisitos establecidos en este Código, será devuelta al interesado para que subsane la omisión dentro del plazo de 10 días hábiles, con la posibilidad de que, por única ocasión, solicite una prórroga por un plazo proporcional, atendiendo a la naturaleza de dicha documentación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 367.
 
-Una vez que la SEPLAPDE determine la viabilidad de la solicitud, le informará al fraccionador o promotor que el proyecto será sometido a los sub-consejos que correspondan según lo establezca el Reglamento Interior del Consejo Estatal.
+Una vez que la SEPLADE determine la viabilidad de la solicitud, le informará al fraccionador o promotor que el proyecto será sometido a los sub-consejos que correspondan según lo establezca el Reglamento Interior del Consejo Estatal.
 
 Si el proyecto es competencia del Municipio, procederá en términos de lo indicado en el párrafo anterior y conforme lo indique el Código Municipal o la reglamentación correspondiente.
 
-Al final de cada sesión, el Secretario Técnico deberá asentar en un acta suscrita por los asistentes, el resultado de la votación de cada uno de los puntos del orden del día y en caso de negativa a la propuesta, describir el motivo de la misma, para que el interesado pueda subsanar dicha situación. Dicha acta será de acceso a los involucrados al término de cada sesión de los sub-consejos correspondientes.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+Los sub-consejos del Consejo Estatal o del Consejo Municipal en el ámbito de su competencia, emitirán dentro del acta correspondiente, la resolución de traza urbana aprobada o, en su caso, modificada, para efectos de autorización de secciones y/o relotificación en los casos que proceda, dicha resolución no constituye constancia de apeo y deslinde respecto de los inmuebles a que se refiere, no podrá considerarse como autorización de fraccionamientos, condominios, desarrollos inmobiliarios especiales, obras de urbanización, promoción y publicidad, ni de venta.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2024)</small>
+
+ARTÍCULO 367 BIS.- El fraccionador y/o promotor para someter a aprobación la traza urbana a los sub-consejos del Consejo Estatal o del Consejo Municipal, además de cumplir con los requisitos establecidos en el artículo 365 de este Código, deberá cumplir con lo siguiente:
+
+I. Respetar las restricciones y condicionantes señaladas en la constancia municipal de compatibilidad urbanística;
+
+II. Indicar en las áreas necesarias el equipamiento urbano y las áreas verdes, en función de las características urbanas del propio desarrollo y de la zona en donde se ubique;
+
+III. Proponer la distribución de lotes, viviendas, departamentos, áreas de donación y su agrupamiento en manzanas o edificios; así como señalización y mobiliario urbano;
+
+IV. El trazo de calles, avenidas, andadores, cruceros y entronques, el cual deberá atender a la funcionalidad y al servicio que las mismas brindarán, con base en lo señalado por los sub-consejos del Consejo Estatal o del Consejo Municipal;
+
+V. Tratándose de desarrollos en condominio, adjuntar el proyecto arquitectónico de las viviendas o locales tipo, en el que deberán señalarse las áreas verdes, las de uso común, las privativas y, en su caso, las de donación;
+
+VI. Propuesta para la nomenclatura de las calles y andadores;
+
+VII. Indicar en un cuadro de áreas los datos generales del proyecto; e
+
+VIII. Indicar las secciones de las vialidades interiores y colindantes del proyecto, como la simbología utilizada.
+
+Cuando a juicio de los sub-consejos del Consejo Estatal o del Consejo Municipal o a petición del fraccionador y/o promotor, tomando en cuenta las condiciones del desarrollo inmobiliario, se considere que no sea procedente o posible la presentación o acreditación de alguno o varios de los requisitos con documentos públicos en términos de este artículo, los sub-consejos del Consejo Estatal o del Consejo Municipal darán respuesta por escrito al solicitante, previo estudio del caso concreto, debiendo emitir una determinación, fundada y motivada, con base en el perímetro y la zona que corresponda a cada tipo de desarrollo, cuyo diseño deberá ser acorde a su compatibilidad urbanística.
 
 ###### ARTÍCULO 368.
 
@@ -4907,13 +5259,21 @@ a).- Factibilidad de la red de electrificación y alumbrado público otorgada po
 
 b).- Factibilidad de agua potable, alcantarillado y saneamiento emitida por dependencia o entidad de carácter municipal respectiva;
 
-c).- Actualización del estudio de impacto urbano, solo en caso de que derivado del sub-consejo respectivo se haya solicitado y así lo consideró la SEPLAPDE o el Municipio;
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
-d).- Actualización del estudio de impacto vial, únicamente en el supuesto de que en el sub-consejo correspondiente se haya solicitado la actualización o complementación del mismo y así lo determinó la SEPLAPDE o el Municipio;
+c).- Actualización del estudio de impacto urbano, solo en caso de que derivado del sub-consejo respectivo se haya solicitado y así lo consideró la SEPLADE o el Municipio;
 
-e).- Actualización del estudio geológico y geofísico, exclusivamente en caso de que derivado del sub-consejo respectivo se haya solicitado la actualización o complementación del mismo y así lo resolvió la SEPLAPDE o el Municipio; y
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
-f).- Actualización del estudio de mecánica de suelos, solo en el escenario de que derivado del sub-consejo de la materia se haya solicitado la actualización o complementación del mismo y así lo determinó la SEPLAPDE o el Municipio;
+d).- Actualización del estudio de impacto vial, únicamente en el supuesto de que en el sub-consejo correspondiente se haya solicitado la actualización o complementación del mismo y así lo determinó la SEPLADE o el Municipio;
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+e).- Actualización del estudio geológico y geofísico, exclusivamente en caso de que derivado del sub-consejo respectivo se haya solicitado la actualización o complementación del mismo y así lo resolvió la SEPLADE o el Municipio; y
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+f).- Actualización del estudio de mecánica de suelos, solo en el escenario de que derivado del sub-consejo de la materia se haya solicitado la actualización o complementación del mismo y así lo determinó la SEPLADE o el Municipio;
 
 III.- Dictamen en materia de impacto ambiental;
 
@@ -4923,33 +5283,49 @@ V.- Memoria descriptiva, que indique las medidas y colindancias de todos los lot
 
 VI.- Constancia por escrito de que se ha gestionado o autorizado por la autoridad competente en materia de transporte público, la introducción del servicio de transporte urbano y, en su caso, suburbano, así como la cobertura de las rutas respectivas;
 
-VII.- Carta de liberación de cumplimiento de obligaciones anteriores y adecuada ejecución de las obras concluidas o en proceso, autorizadas al fraccionador o promotor solicitante, expedida por la SEPLAPDE, previa opinión del Municipio respectivo o viceversa, según corresponda. En caso de ser persona moral la solicitante deberá exhibirse la carta de liberación de cada uno de los socios, cuya expedición no deberá exceder de una antigüedad de 6 meses; y
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-VIII.- Opinión del Municipio o la SEPLAPDE, según corresponda.
+VII.- Carta de liberación de cumplimiento de obligaciones anteriores y adecuada ejecución de las obras concluidas o en proceso, autorizadas al fraccionador o promotor solicitante, expedida por la SEPLADE, previa opinión del Municipio respectivo o viceversa, según corresponda. En caso de ser persona moral la solicitante deberá exhibirse la carta de liberación de cada uno de los socios, cuya expedición no deberá exceder de una antigüedad de 6 meses; y
 
-Cuando a juicio de la SEPLAPDE o el Municipio o por solicitud del fraccionador o promotor, tomando en cuenta el tipo, características y tamaño del fraccionamiento, condominio o desarrollo inmobiliario especial, dichas instancias consideren que no procede la presentación o acreditación de alguno de los requisitos o documentos que establece este ARTÍCULO, estos lo indicarán al solicitante por no ser necesarios en el caso específico. La SEPLAPDE podrá solicitar la opinión del Municipio y viceversa para resolver sobre ese asunto.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+VIII.- Opinión del Municipio o la SEPLADE, según corresponda.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+Cuando a juicio de la SEPLADE o el Municipio o por solicitud del fraccionador o promotor, tomando en cuenta el tipo, características y tamaño del fraccionamiento, condominio o desarrollo inmobiliario especial, dichas instancias consideren que no procede la presentación o acreditación de alguno de los requisitos o documentos que establece este artículo, estos lo indicarán al solicitante por no ser necesarios en el caso específico. La SEPLADE podrá solicitar la opinión del Municipio y viceversa para resolver sobre ese asunto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 369.
 
-Contando con todos los requisitos y documentos que establece el artículo anterior, la SEPLAPDE integrará el proyecto de dictamen de procedencia o improcedencia de la solicitud de fraccionamiento, condominio o desarrollo inmobiliario especial, mismo que se remitirá al interesado en caso de que se requiera realizar correcciones o modificaciones, con el objeto de que éste se ajuste a los requisitos, especificaciones y obligaciones que se le establezcan en el proyecto de dictamen de referencia, disponiendo de un plazo no mayor de 30 días hábiles para contestar, contados a partir del día siguiente de la fecha en que se le notifique el requerimiento respectivo; sí el solicitante no realiza las correcciones o modificaciones requeridas, la solicitud quedará como no presentada.
+Contando con todos los requisitos y documentos que establece el artículo anterior, la SEPLADE integrará el proyecto de dictamen de procedencia o improcedencia de la solicitud de fraccionamiento, condominio o desarrollo inmobiliario especial, mismo que se remitirá al interesado en caso de que se requiera realizar correcciones o modificaciones, con el objeto de que éste se ajuste a los requisitos, especificaciones y obligaciones que se le establezcan en el proyecto de dictamen de referencia, disponiendo de un plazo no mayor de 30 días hábiles para contestar, contados a partir del día siguiente de la fecha en que se le notifique el requerimiento respectivo; sí el solicitante no realiza las correcciones o modificaciones requeridas, la solicitud quedará como no presentada.
 
 Si el proyecto del condominio o desarrollo inmobiliario especial, es competencia del Municipio, le corresponderá a esté efectuar el procedimiento indicado en el párrafo anterior.
 
 ### CAPÍTULO IV. Procedimientos para la Autorización de los Proyectos de Urbanización y Construcción
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 370.
 
-Cuando el predio, objeto de la solicitud para autorizar un fraccionamiento, condominio o desarrollo inmobiliario especial, se encuentre gravado o con reserva de dominio a favor de una tercera persona, a efecto de que se pueda integrar el expediente y, en su caso, autorizar el trámite, el solicitante deberá presentar la conformidad del acreedor respectivo y el Consejo Estatal, la SEPLAPDE o el Municipio tomarán en cuenta los antecedentes del fraccionador o promotor, las etapas para su ejecución y las garantías para su urbanización y edificación.
+Cuando el predio, objeto de la solicitud para autorizar un fraccionamiento, condominio o desarrollo inmobiliario especial, se encuentre gravado o con reserva de dominio a favor de una tercera persona, a efecto de que se pueda integrar el expediente y, en su caso, autorizar el trámite, el solicitante deberá presentar la conformidad del acreedor respectivo y el Consejo Estatal, la SEPLADE o el Municipio tomarán en cuenta los antecedentes del fraccionador o promotor, las etapas para su ejecución y las garantías para su urbanización y edificación.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 371.
 
-Una vez que se hayan cubierto los requisitos para la solicitud de autorización, la SEPLAPDE o el Municipio según corresponda, procederá a analizar la solicitud y a integrar el expediente, de acuerdo a las disposiciones legales vigentes en la materia, aspectos técnicos, lineamientos y normas de planeación urbana, contando con el previo apoyo de las sub-consejos del Consejo Estatal o los de índole municipal que correspondan.
+Una vez que se hayan cubierto los requisitos para la solicitud de autorización, la SEPLADE o el Municipio según corresponda, procederá a analizar la solicitud y a integrar el expediente, de acuerdo a las disposiciones legales vigentes en la materia, aspectos técnicos, lineamientos y normas de planeación urbana, contando con el previo apoyo de las sub-consejos del Consejo Estatal o los de índole municipal que correspondan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 372.
 
-El expediente del fraccionamiento, condominio o desarrollo inmobiliario especial, por parte de la instancia integradora se enviará al Municipio o a la SEPLAPDE según corresponda, con objeto de que emita su opinión. Dicha opinión deberá contener los siguientes elementos:
+El expediente del fraccionamiento, condominio o desarrollo inmobiliario especial, por parte de la instancia integradora se enviará al Municipio o a la SEPLADE según corresponda, con objeto de que emita su opinión. Dicha opinión deberá contener los siguientes elementos:
 
-I.- Determinación en cuanto a su competencia, de que el fraccionamiento, condominio o desarrollo inmobiliario especial es procedente o improcedente y, por ende, pueda continuarse con el trámite ante el Consejo Estatal, el Municipio o en su caso, en la SEPLAPDE si se trata de un desarrollo inmobiliario especial;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+I.- Determinación en cuanto a su competencia, de que el fraccionamiento, condominio o desarrollo inmobiliario especial es procedente o improcedente y, por ende, pueda continuarse con el trámite ante el Consejo Estatal, el Municipio o en su caso, en la SEPLADE si se trata de un desarrollo inmobiliario especial;
 
 II.- Establecimiento de las obligaciones fiscales por la emisión del dictamen, control de obligaciones e integración del expediente;
 
@@ -4965,41 +5341,55 @@ VII.- Requerimientos mínimos de equipamiento e infraestructura primaria, obras 
 
 VIII.- Establecimiento de especificaciones o características que a su juicio deban cumplirse como condicionantes para su autorización.
 
-Respecto de la opinión a que se refiere este ARTÍCULO, la SEPLAPDE la emitirá considerando únicamente lo dispuesto en sus fracciones I, II y VIII.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+Respecto de la opinión a que se refiere este artículo, la SEPLADE la emitirá considerando únicamente lo dispuesto en sus fracciones I, II y VIII.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 373.
 
-A fin de contar con los suficientes elementos que le permitan emitir la opinión referida en el ARTÍCULO anterior, respecto de la dotación de equipamiento urbano e infraestructura urbana en el área de donación, el Municipio respectivo si lo aprecia necesario solicitará la opinión técnica de las dependencias o entidades federales, estatales o municipales, respecto de cada uno de los aspectos técnicos que se requieran, incluyendo la viabilidad para que opere y funcione dicho equipamiento urbano e infraestructura.
+A fin de contar con los suficientes elementos que le permitan emitir la opinión referida en el artículo anterior, respecto de la dotación de equipamiento urbano e infraestructura urbana en el área de donación, el Municipio respectivo si lo aprecia necesario solicitará la opinión técnica de las dependencias o entidades federales, estatales o municipales, respecto de cada uno de los aspectos técnicos que se requieran, incluyendo la viabilidad para que opere y funcione dicho equipamiento urbano e infraestructura.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 374.
 
-La opinión de la SEPLAPDE o el Municipio deberá ser emitida en un plazo máximo de 15 días hábiles, contados a partir de la fecha de recepción del expediente completo respectivo o a la debida integración del expediente digital único, de no obtenerse la opinión en el plazo señalado, se entenderá que no se tiene objeción y no podrá continuarse con el trámite.
+La opinión de la SEPLADE o el Municipio deberá ser emitida en un plazo máximo de 15 días hábiles, contados a partir de la fecha de recepción del expediente completo respectivo o a la debida integración del expediente digital único, de no obtenerse la opinión en el plazo señalado se entenderá que no se tiene objeción y podrá continuarse con el trámite.
 
-En caso de que se considere improcedente el proyecto, la SEPLAPDE o el Municipio, deberá justificar las razones de su negativa, en este caso, además notificará a la SEPLAPDE o el Municipio, según corresponda y al fraccionador o promotor su opinión, señalándole a éste que cuenta con 15 días hábiles para subsanar las observaciones, de no hacerlo se le informará a la SEPLAPDE o el Municipio que se considera improcedente la solicitud y que deberá incluirse esa opinión en el proyecto de dictamen que se presente ante el Consejo Estatal, el Municipio o la SEPLAPDE, para que resuelvan en definitiva, según corresponda.
+En caso de que se considere improcedente el proyecto, la SEPLADE o el Municipio, deberá justificar las razones de su negativa, en este caso, además notificará a la SEPLADE o el Municipio, según corresponda y al fraccionador o promotor su opinión, señalándole a éste que cuenta con 15 días hábiles para subsanar las observaciones, de no hacerlo se le informará a la SEPLADE o el Municipio que se considera improcedente la solicitud y que deberá incluirse esa opinión en el proyecto de dictamen que se presente ante el Consejo Estatal, el Municipio o la SEPLADE, para que resuelvan en definitiva, según corresponda.
 
-Una vez solventadas las observaciones, la SEPLAPDE o el Municipio respectivo informará a la otra instancia la opinión definitiva.
+Una vez solventadas las observaciones, la SEPLADE o el Municipio respectivo informará a la otra instancia la opinión definitiva.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 375.
 
-En el supuesto de que la opinión del Municipio, en relación con la solicitud de un fraccionamiento, condominio o desarrollo inmobiliario especial difiera de la que adopte la SEPLAPDE, resolverá en definitiva el Consejo Estatal, en cuyo proyecto se incluirá esa situación.
+En el supuesto de que la opinión del Municipio, en relación con la solicitud de un fraccionamiento, condominio o desarrollo inmobiliario especial difiera de la que adopte la SEPLADE, resolverá en definitiva el Consejo Estatal, en cuyo proyecto se incluirá esa situación
 
 Para el supuesto del párrafo anterior, sí el proyecto es competencia del Municipio, quien resolverá en definitiva será el Cabildo.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 376.
 
-A fin de contar con los suficientes elementos que le permitan integrar el proyecto de dictamen sobre la solicitud de fraccionamiento, condominio o desarrollo inmobiliario especial, la SEPLAPDE o el Municipio podrán solicitar, en su caso, la opinión técnica de las autoridades u organismos competentes, en cada uno de los aspectos técnicos o legales que se requieran incluir en el proyecto de dictamen mencionado.
+A fin de contar con los suficientes elementos que le permitan integrar el proyecto de dictamen sobre la solicitud de fraccionamiento, condominio o desarrollo inmobiliario especial, la SEPLADE o el Municipio podrán solicitar, en su caso, la opinión técnica de las autoridades u organismos competentes, en cada uno de los aspectos técnicos o legales que se requieran incluir en el proyecto de dictamen mencionado.
 
-En caso de que en los documentos recibidos se señale que existen discontinuidades geológicas, la SEPLAPDE o el Municipio, tendrá la obligación de enviar una copia del estudio a la autoridad competente, para que sea integrado al sistema de información de las discontinuidades geológicas detectadas, para que emita su opinión al respecto.
+En caso de que en los documentos recibidos se señale que existen discontinuidades geológicas, la SEPLADE o el Municipio, tendrá la obligación de enviar una copia del estudio a la autoridad competente, para que sea integrado al sistema de información de las discontinuidades geológicas detectadas, para que emita su opinión al respecto.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 377.
 
-Las opiniones técnicas a que se refiere el ARTÍCULO anterior, deberán de ser proporcionadas en un plazo máximo de 10 días hábiles contados a partir de la fecha de recepción del requerimiento respectivo.
+Las opiniones técnicas a que se refiere el artículo anterior, deberán de ser proporcionadas en un plazo máximo de 10 días hábiles contados a partir de la fecha de recepción del requerimiento respectivo.
 
-Transcurrido el plazo antes señalado, sin que se hayan obtenido las opiniones mencionadas, se entenderá que dichas autoridades u organismos no tienen objeción respecto a la solicitud. En caso de que la hubiera, la SEPLAPDE o el Municipio, valorarán en su caso, si se suspende el trámite hasta en tanto el solicitante las subsane o se incluyan como observación dentro del proyecto de dictamen.
+Transcurrido el plazo antes señalado, sin que se hayan obtenido las opiniones mencionadas, se entenderá que dichas autoridades u organismos no tienen objeción respecto a la solicitud. En caso de que la hubiera, la SEPLADE o el Municipio, valorarán en su caso, si se suspende el trámite hasta en tanto el solicitante las subsane o se incluyan como observación dentro del proyecto de dictamen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 378.
 
-El proyecto de dictamen que elabore la SEPLAPDE o el Municipio para someter a la consideración del Consejo Estatal o la instancia municipal correspondiente, la autorización o rechazo, en su caso, de un fraccionamiento, condominio o desarrollo inmobiliario especial, deberá contener como mínimo la siguiente información, la cual será proporcionada por el propietario, desarrollador o promotor:
+El proyecto de dictamen que elabore la SEPLADE o el Municipio para someter a la consideración del Consejo Estatal o la instancia municipal correspondiente, la autorización o rechazo, en su caso, de un fraccionamiento, condominio o desarrollo inmobiliario especial, deberá contener como mínimo la siguiente información, la cual será proporcionada por el propietario, desarrollador o promotor:
 
 I.- La propuesta de la nomenclatura del fraccionamiento, condominio o desarrollo inmobiliario especial y su clasificación conforme a lo dispuesto en este Código;
 
@@ -5041,23 +5431,31 @@ XIII.- Proyecto de resolución; y
 
 XIV.- Medio de defensa que podrá hacer valer el fraccionador o promotor, en caso de que no esté de acuerdo con el contenido de la resolución del Consejo Estatal o Municipio, según corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 379.
 
-Una vez elaborado el proyecto de dictamen que se someterá a la decisión del Consejo Estatal, la SEPLAPDE deberá presentarlo previamente a la consideración del fraccionador o promotor y del perito responsable de las obras, para que conozcan sus características, condiciones y obligaciones, suscribiéndolo para acreditar su aceptación y efectos legales.
+Una vez elaborado el proyecto de dictamen que se someterá a la decisión del Consejo Estatal, la SEPLADE deberá presentarlo previamente a la consideración del fraccionador o promotor y del perito responsable de las obras, para que conozcan sus características, condiciones y obligaciones, suscribiéndolo para acreditar su aceptación y efectos legales.
 
 Si el proyecto es de competencia del Municipio, este procederá a lo referido en el párrafo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 380.
 
-Contando en su caso, con los estudios y planos conforme al proyecto de dictamen, previamente aceptado por el fraccionador o promotor de acuerdo a lo dispuesto en el ARTÍCULO anterior, la SEPLAPDE gestionará que la solicitud de referencia sea incluida en el orden del día de la siguiente sesión del Consejo Estatal, debiendo enviar el proyecto de dictamen a los integrantes del mismo, cuando menos 3 días hábiles previos a la sesión, para su conocimiento y análisis.
+Contando en su caso, con los estudios y planos conforme al proyecto de dictamen, previamente aceptado por el fraccionador o promotor de acuerdo a lo dispuesto en el artículo anterior, la SEPLADE gestionará que la solicitud de referencia sea incluida en el orden del día de la siguiente sesión del Consejo Estatal, debiendo enviar el proyecto de dictamen a los integrantes del mismo, cuando menos 3 días hábiles previos a la sesión, para su conocimiento y análisis.
 
 Si el proyecto lo resolverá el Municipio, se deberá observar y cumplir lo referido en la reglamentación municipal aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 381.
 
-El Consejo Estatal en sesión plenaria aprobará o rechazará el proyecto de dictamen que sea sometido a su consideración por la SEPLAPDE, una vez que hubiera sido analizado, de acuerdo a las disposiciones legales vigentes en la materia, aspectos técnicos y normas de planeación urbana.
+El Consejo Estatal en sesión plenaria aprobará o rechazará el proyecto de dictamen que sea sometido a su consideración por la SEPLADE, una vez que hubiera sido analizado, de acuerdo a las disposiciones legales vigentes en la materia, aspectos técnicos y normas de planeación urbana.
 
-En caso de ser rechazado y de proceder las correcciones se le informará al fraccionador o promotor que cuenta con un término de 30 días hábiles para llevarlas a cabo; una vez subsanadas, la SEPLAPDE realizará un nuevo proyecto de dictamen para que sea sometido a la consideración del Consejo Estatal en la subsiguiente sesión.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+En caso de ser rechazado y de proceder las correcciones se le informará al fraccionador o promotor que cuenta con un término de 30 días hábiles para llevarlas a cabo; una vez subsanadas, la SEPLADE realizará un nuevo proyecto de dictamen para que sea sometido a la consideración del Consejo Estatal en la subsiguiente sesión
 
 En el caso de los proyectos de condominios competencia para el Municipio, se procederá según lo determine su reglamentación correspondiente.
 
@@ -5079,27 +5477,35 @@ El acta de la sesión del Consejo Estatal en la cual se autoricen, modifiquen o 
 
 En la sesión posterior del Consejo Estatal se validará el contenido del acta de la sesión anterior publicada en el Periódico Oficial del Estado y en su caso, se ordenará la inmediata publicación de las modificaciones. Igual tratamiento se dará en la acta (sic) o el dictamen del Municipio.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 385.
 
-La SEPLAPDE notificará al interesado la resolución del Consejo Estatal, al igual el Municipio cuando le corresponda, indicándole al promovente cuando haya sido autorizado, las obligaciones que deberá cumplir, relativas al pago de los derechos o cargas fiscales estatales y municipales, al otorgamiento de donaciones, a las características y especificaciones de las obras de urbanización, a la constitución de las garantías para caucionar el cumplimiento de las disposiciones contenidas en la autorización, así como a la entrega del proyecto definitivo y del plano de la lotificación o zonificación con las medidas físicamente reales y georreferenciadas.
+La SEPLADE notificará al interesado la resolución del Consejo Estatal, al igual el Municipio cuando le corresponda, indicándole al promovente cuando haya sido autorizado, las obligaciones que deberá cumplir, relativas al pago de los derechos o cargas fiscales estatales y municipales, al otorgamiento de donaciones, a las características y especificaciones de las obras de urbanización, a la constitución de las garantías para caucionar el cumplimiento de las disposiciones contenidas en la autorización, así como a la entrega del proyecto definitivo y del plano de la lotificación o zonificación con las medidas físicamente reales y georreferenciadas.
 
 ###### ARTÍCULO 386.
 
 En el supuesto de que al fraccionador o, al promotor, le corresponda dotar de equipamiento urbano e infraestructura en las áreas de donación, también se le notificará las condiciones bajo las cuales se deberán realizar estas obras.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 387.
 
-El fraccionador o promotor del condominio entregarán firmados a la SEPLAPDE o el Municipio, según proceda, por el propietario o representante legal, como por el perito responsable de obra, en un plazo máximo de 10 días hábiles, computados a partir del día que se les notificó la resolución favorable, el original y tres tantos de los planos del fraccionamiento, condominio o desarrollo inmobiliario especial autorizado por el Consejo Estatal o el Municipio, lo que corresponde al conjunto, a la lotificación o zonificación, las vialidades y usos de suelo, mismos que deberán estar georreferenciados en coordenadas U.T.M. y en formato dwg conforme a los lineamientos, características y especificaciones que se deriven de este Código y de la autorización respectiva o, en su caso, de la reglamentación municipal, a efecto de que sean debidamente firmados y sellados por las autoridades correspondientes municipales y/o estatales, según sea procedente.
+El fraccionador o promotor del condominio entregarán firmados a la SEPLADE o el Municipio, según proceda, por el propietario o representante legal, como por el perito responsable de obra, en un plazo máximo de 10 días hábiles, computados a partir del día que se les notificó la resolución favorable, el original y tres tantos de los planos del fraccionamiento, condominio o desarrollo inmobiliario especial autorizado por el Consejo Estatal o el Municipio, lo que corresponde al conjunto, a la lotificación o zonificación, las vialidades y usos de suelo, mismos que deberán estar georreferenciados en coordenadas U.T.M. y en formato DWG conforme a los lineamientos, características y especificaciones que se deriven de este Código y de la autorización respectiva o, en su caso, de la reglamentación municipal, a efecto de que sean debidamente firmados y sellados por las autoridades correspondientes municipales y/o estatales, según sea procedente.
 
 Tratándose de condominios, también se deberán de anexar el reglamento de administración del condominio y la tabla de indivisos.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 388.
 
-En caso de existir alguna diferencia por error u omisión en el cuadro de superficies de lo autorizado por el Consejo Estatal o el Municipio al presentado por el promotor o desarrollador para su firma; la SEPLAPDE o el Municipio aprobará dicho cambio, siempre y cuando no se modifiquen las áreas de donación, la sección de vialidades, cambios de usos de suelo y/o números de predios; ni tampoco los metros cuadrados totales del predio. Dicha aprobación deberá de ser notificada de manera formal a todos los integrantes del Consejo Estatal o a la instancia municipal respectiva, mismos que tendrán 10 días hábiles para emitir, sí la tuvieren, opinión negativa, de lo contrario se dará por aprobada la modificación y deberá publicarse en el Periódico Oficial del Estado el nuevo dictamen modificado.
+En caso de existir alguna diferencia por error u omisión en el cuadro de superficies de lo autorizado por el Consejo Estatal o el Municipio al presentado por el promotor o desarrollador para su firma; la SEPLADE o el Municipio aprobará dicho cambio, siempre y cuando no se modifiquen las áreas de donación, la sección de vialidades, cambios de usos de suelo y/o números de predios; ni tampoco los metros cuadrados totales del predio. Dicha aprobación deberá de ser notificada de manera formal a todos los integrantes del Consejo Estatal o a la instancia municipal respectiva, mismos que tendrán 10 días hábiles para emitir, sí la tuvieren, opinión negativa, de lo contrario se dará por aprobada la modificación y deberá publicarse en el Periódico Oficial del Estado el nuevo dictamen modificado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 389.
 
-Una vez firmados y sellados por las autoridades competentes los planos de lotificación o zonificación autorizados del fraccionamiento, condominio o desarrollo inmobiliario especial, la SEPLAPDE o el Municipio, remitirá copia simple y digitalizada de los planos y de las memorias descriptivas de lotes o predios al Instituto Catastral del Estado y al Registro Público. Si son condominios, también se deberá remitir el reglamento de administración del condominio y la tabla de indivisos.
+Una vez firmados y sellados por las autoridades competentes los planos de lotificación o zonificación autorizados del fraccionamiento, condominio o desarrollo inmobiliario especial, la SEPLADE o el Municipio, remitirá copia simple y digitalizada de los planos y de las memorias descriptivas de lotes o predios al Instituto Registral y Catastral. Si son condominios, también se deberá remitir el reglamento de administración del condominio y la tabla de indivisos.
 
 Los planos que se envíen a la autoridad competente en materia catastral, deberán especificar la ubicación oficial y denominación del fraccionamiento, condominio o desarrollo inmobiliario especial, así como de todas las calles o vialidades interiores.
 
@@ -5107,35 +5513,47 @@ Los planos que se envíen a la autoridad competente en materia catastral, deber�
 
 Cuando la solicitud para la autorización de un fraccionamiento, condominio o desarrollo inmobiliario especial sea rechazada, se notificará al interesado con los fundamentos y motivos del rechazo, señalándole los medios de defensa y plazos legales correspondientes para que en su caso impugne esa resolución.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 391.
 
-Tratándose de solicitudes para constituir desarrollos inmobiliarios especiales de predios con una superficie menor a los 20,000 metros cuadrados o el régimen de propiedad en condominio en predios de hasta de 20,000 metros cuadrados o con menos de 100 predios, viviendas, departamentos, o áreas, compete al Municipio su autorización, previa opinión de la SEPLAPDE.
+Tratándose de solicitudes para constituir desarrollos inmobiliarios especiales de predios con una superficie menor a los 20,000 metros cuadrados o el régimen de propiedad en condominio en predios de hasta de 20,000 metros cuadrados o con menos de 100 predios, viviendas, departamentos, o áreas, compete al Municipio su autorización, previa opinión de la SEPLADE.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 392.
 
-La modificación o extinción de todo tipo de condominios autorizados por el Municipio, compete exclusivamente al mismo, previa opinión de la SEPLAPDE; respecto de los autorizados por el Consejo Estatal, le corresponderá a la SEPLAPDE, con previa opinión del Municipio.
+La modificación o extinción de todo tipo de condominios autorizados por el Municipio, compete exclusivamente al mismo, previa opinión de la SEPLADE; respecto de los autorizados por el Consejo Estatal, le corresponderá a la SEPLADE, con previa opinión del Municipio.
 
-La SEPLAPDE y el Municipio establecerán los criterios, requisitos, documentos y procedimientos para la tramitación de esas solicitudes, tomando en cuenta en lo conducente, lo que establece este Código para las solicitudes que se sometan a resolución del Consejo Estatal y el Municipio, respectivamente.
+La SEPLADE y el Municipio establecerán los criterios, requisitos, documentos y procedimientos para la tramitación de esas solicitudes, tomando en cuenta en lo conducente, lo que establece este Código para las solicitudes que se sometan a resolución del Consejo Estatal y el Municipio, respectivamente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 393.
 
-Los fraccionadores o promotores podrán ceder los derechos y obligaciones respecto de la autorización de un fraccionamiento, condominio o desarrollo inmobiliario especial, bajo los lineamientos que expida la SEPLAPDE o el Municipio, según corresponda.
+Los fraccionadores o promotores podrán ceder los derechos y obligaciones respecto de la autorización de un fraccionamiento, condominio o desarrollo inmobiliario especial, bajo los lineamientos que expida la SEPLADE o el Municipio, según corresponda.
 
 La cesión de derechos a favor de una tercera persona, podrá hacerse de las etapas de urbanización que no se hubieran municipalizado o entregado a la Asamblea de Condóminos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 394.
 
-La SEPLAPDE o el Municipio, no otorgará dicha autorización sí el cesionario cuenta con antecedentes de incumplimiento, imputables a él, respecto a otros fraccionamientos, condominios o desarrollos inmobiliarios especiales realizados en el Estado.
+La SEPLADE o el Municipio, no otorgará dicha autorización sí el cesionario cuenta con antecedentes de incumplimiento, imputables a él, respecto a otros fraccionamientos, condominios o desarrollos inmobiliarios especiales realizados en el Estado.
 
 La persona física o moral cesionaria, se subrogará en todos los derechos y obligaciones que le establecen este Código y la autorización respectiva al fraccionador o promotor original.
 
-Para efecto de expedir la autorización, la SEPLAPDE deberá contar con la opinión favorable del Municipio correspondiente, en los asuntos de su competencia. Si la cesión la va otorgar el Municipio, este requerirá la opinión de la SEPLAPDE.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+Para efecto de expedir la autorización, la SEPLADE deberá contar con la opinión favorable del Municipio correspondiente, en los asuntos de su competencia. Si la cesión la va otorgar el Municipio, este requerirá la opinión de la SEPLADE.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 395.
 
-El Consejo Estatal, la SEPLAPDE o el Municipio, podrán autorizar la ampliación de la superficie de un fraccionamiento, condominio o desarrollo inmobiliario especial, respecto de los proyectos autorizados de su parte, previo el cumplimiento de los requisitos legales y contando con la opinión del Municipio o la SEPLAPDE, según corresponda, ajustándose la solicitud en lo conducente, a los requisitos y procedimientos que establece este Código.
+El Consejo Estatal, la SEPLADE o el Municipio, podrán autorizar la ampliación de la superficie de un fraccionamiento, condominio o desarrollo inmobiliario especial, respecto de los proyectos autorizados de su parte, previo el cumplimiento de los requisitos legales y contando con la opinión del Municipio o la SEPLADE, según corresponda, ajustándose la solicitud en lo conducente, a los requisitos y procedimientos que establece este Código.
 
-El Consejo Estatal, la SEPLAPDE o el Municipio, podrá resolver por el tipo, ubicación y extensión de la ampliación que solicite el fraccionador o promotor, el trámite de un nuevo fraccionamiento, condominio o desarrollo inmobiliario especial, cumpliendo con lo dispuesto en este Código.
+El Consejo Estatal, la SEPLADE o el Municipio, podrá resolver por el tipo, ubicación y extensión de la ampliación que solicite el fraccionador o promotor, el trámite de un nuevo fraccionamiento, condominio o desarrollo inmobiliario especial, cumpliendo con lo dispuesto en este Código.
 
 ###### ARTÍCULO 396.
 
@@ -5147,9 +5565,11 @@ La regularización de un fraccionamiento, condominio o desarrollo inmobiliario e
 
 ### CAPÍTULO V. Inicio de Ejecución de las Obras de Urbanización
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 398.
 
-Para que la SEPLAPDE o el Municipio, le expida al fraccionador o promotor la autorización de inicio de obras de urbanización, esté debe cumplir previamente con las obligaciones que le señala este Código y la autorización respectiva, y además en el expediente correspondiente se deberá acreditar la siguiente documentación:
+Para que la SEPLADE o el Municipio, le expida al fraccionador o promotor la autorización de inicio de obras de urbanización, esté debe cumplir previamente con las obligaciones que le señala este Código y la autorización respectiva, y además en el expediente correspondiente se deberá acreditar la siguiente documentación:
 
 I.- Proyecto o testimonio notarial de escrituración de las áreas de donación destinadas para equipamiento urbano, áreas verdes y vías públicas, o en su caso, copia certificada del dictamen por el que la autoridad municipal competente autorice la sustitución por infraestructura y equipamiento urbano a que se refiere este Código, o bien copia certificada del acta de Cabildo en la que se haya aprobado la sustitución del pago en numerario previstas en el mismo Código;
 
@@ -5159,7 +5579,9 @@ III.- Garantía vigente de las obras de urbanización y en su caso de equipamien
 
 IV.- Designación del residente de las obras de urbanización;
 
-V.- Proyecto ejecutivo de la urbanización autorizado por la SEPLAPDE o el Municipio, según corresponda, conteniendo lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE ENERO DE 2024)</small>
+
+V.- Proyecto ejecutivo de la urbanización autorizado por la SEPLADE o el Municipio, según corresponda, conteniendo lo siguiente:
 
 a).- Plano georreferenciado de lotificación o zonificación a escala máxima de 1:1,000 que marque lo siguiente:
 
@@ -5247,17 +5669,25 @@ i).- Plano de forestación y áreas verdes;
 
 j).- Memoria técnica descriptiva para las diversas obras de urbanización conforme a las normas correspondientes, incluyendo el diseño de pavimentos conforme al estudio de mecánica de suelos;
 
-k).- Calendario de las obras de urbanización aprobado por la SEPLAPDE o el Municipio, según corresponda, firmado por el fraccionador o su representante legal, así como el perito responsable de las obras;
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
-VII.- Que no existan condicionantes u obligaciones pendientes por cumplir o documentos por entregar, cuando en su caso se hubieran señalado en la autorización del Consejo Estatal, del Municipio o de la SEPLAPDE, según sea el caso.
+k).- Calendario de las obras de urbanización aprobado por la SEPLADE o el Municipio, según corresponda, firmado por el fraccionador o su representante legal, así como el perito responsable de las obras;
 
-VIII.- Opinión favorable del Municipio respectivo, respecto de los proyectos aprobados por el Consejo Estatal o la SEPLAPDE; y
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+VII.- Que no existan condicionantes u obligaciones pendientes por cumplir o documentos por entregar, cuando en su caso se hubieran señalado en la autorización del Consejo Estatal, del Municipio o de la SEPLADE, según sea el caso;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+VIII.- Opinión favorable del Municipio respectivo, respecto de los proyectos aprobados por el Consejo Estatal o la SEPLADE; y
 
 IX.- En el caso de que se hubieran autorizado las obras de urbanización por etapas, dictamen emitido por el Municipio, que acredite que la etapa inmediata anterior de las obras de urbanización tiene un avance mínimo del 70%, acompañado del informe de la unidad externa de supervisión correspondiente y del perito responsable de obra.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 399.
 
-La SEPLAPDE podrá en coordinación con el Municipio o viceversa, según corresponda, requerir por etapas el cumplimiento de las obligaciones y documentación que se requiere conforme a lo dispuesto en el ARTÍCULO anterior, con excepción del pago de los derechos derivados de la autorización del fraccionamiento, condominio desarrollo inmobiliario especial que deberá estar cubierta en su totalidad.
+La SEPLADE podrá en coordinación con el Municipio o viceversa, según corresponda, requerir por etapas el cumplimiento de las obligaciones y documentación que se requiere conforme a lo dispuesto en el artículo anterior, con excepción del pago de los derechos derivados de la autorización del fraccionamiento, condominio desarrollo inmobiliario especial que deberá estar cubierta en su totalidad.
 
 ### CAPÍTULO VI. Supervisión de las Obras de Urbanización
 
@@ -5265,7 +5695,9 @@ La SEPLAPDE podrá en coordinación con el Municipio o viceversa, según corresp
 
 Las unidades externas de supervisión, tendrán las siguientes obligaciones:
 
-I.- Realizar con una responsabilidad directa, la supervisión de las obras de urbanización y edificación, conforme a los lineamientos establecidos por el dictamen de autorización de fraccionamientos, condominios, desarrollos inmobiliarios especiales o subdivisiones, por el Consejo Estatal, de la SEPLAPDE o del Municipio, los códigos y reglamentos municipales, reglamentos de construcción y la normatividad y manuales expedidos para ese fin;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+I.- Realizar con una responsabilidad directa, la supervisión de las obras de urbanización y edificación, conforme a los lineamientos establecidos por el dictamen de autorización de fraccionamientos, condominios, desarrollos inmobiliarios especiales o subdivisiones, por el Consejo Estatal, de la SEPLADE o del Municipio, los códigos y reglamentos municipales, reglamentos de construcción y la normatividad y manuales expedidos para ese fin;
 
 II.- Encontrarse certificada por un organismo de normalización y certificación de carácter nacional en los términos de lo dispuesto por la Ley Federal sobre Metrología y Normalización;
 
@@ -5295,13 +5727,17 @@ XII.- Verificar el cumplimiento del calendario de obras de urbanización y, en s
 
 XIII.- Verificar la presencia de los residentes de obras y las visitas de los peritos, que deberán hacerse constar en el libro de bitácora correspondiente;
 
-XIV.- Emitir el reporte conforme a los lineamientos establecidos por la SEPLAPDE o el Municipio, según corresponda, en el que avale la expedición de la autorización de venta o renta de lotes, predios, locales o áreas;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XIV.- Emitir el reporte conforme a los lineamientos establecidos por la SEPLADE o el Municipio, según corresponda, en el que avale la expedición de la autorización de venta o renta de lotes, predios, locales o áreas;
 
 XV.- Expedir dictamen conforme a los lineamientos indicados por el Municipio que justifique la municipalización de un fraccionamiento o subdivisión o la entrega de las obras de urbanización a la Asamblea de Condóminos;
 
 XVI.- Suscribir las actas de municipalización de los fraccionamientos y de subdivisiones; y
 
-XVII.- Las demás determinadas por este Código, los códigos y reglamentos municipales, lineamientos expedidos por la SEPLAPDE y los Municipios y demás disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XVII.- Las demás determinadas por este Código, los códigos y reglamentos municipales, lineamientos expedidos por la SEPLADE y los Municipios y demás disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 401.
 
@@ -5315,7 +5751,9 @@ Adicionalmente a las obligaciones que les imponen a los peritos responsables de 
 
 I.- Coordinar la supervisión de las obras de urbanización, con las unidades externas de supervisión, debiendo reportar de inmediato cualquier anomalía de la misma al Municipio;
 
-II.- Emitir dictamen conforme a los lineamientos establecidos por la SEPLAPDE, en el que se avale la expedición de la autorización de venta o renta de lotes, predios, locales o áreas;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+II.- Emitir dictamen conforme a los lineamientos establecidos por la SEPLADE, en el que se avale la expedición de la autorización de venta o renta de lotes, predios, locales o áreas;
 
 III.- Expedir dictamen conforme a los lineamientos indicados por el Municipio respectivo que justifique la municipalización de un fraccionamiento o subdivisión o la entrega de las obras de urbanización a la asamblea de condóminos;
 
@@ -5341,7 +5779,9 @@ Incluso la supervisión única podrá comprender el proceso de edificación de v
 
 El fraccionador o promotor atenderá las indicaciones que se deriven de la supervisión que realice la unidad externa de supervisión o, en su caso, de la supervisión municipal; pero tendrá derecho a pedir por escrito al Municipio que se reconsideren las determinaciones tomadas por los supervisores, cuando pudieran implicar cambios en el proyecto, haciendo las observaciones que considere necesarias.
 
-Cuando existan razones técnicas fundadas y se requiera la modificación del proyecto en sus especificaciones, el fraccionador o promotor deberán proponerlas por escrito ante la instancia que las hubiera autorizado, quien deberá solicitar la opinión correspondiente, ya sea a la SEPLAPDE o el Municipio, según resulte procedente.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+Cuando existan razones técnicas fundadas y se requiera la modificación del proyecto en sus especificaciones, el fraccionador o promotor deberán proponerlas por escrito ante la instancia que las hubiera autorizado, quien deberá solicitar la opinión correspondiente, ya sea a la SEPLADE o el Municipio, según resulte procedente.
 
 ###### ARTÍCULO 405.
 
@@ -5371,9 +5811,11 @@ Previo a que en su caso se hagan efectivas las garantías de las obras de urbani
 
 Para tales efectos, deberá conceder audiencia al fraccionador o promotor, para que alegue lo que a su derecho convenga y en su caso aporte pruebas.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 409.
 
-Cuando el fraccionador, promotor del condominio, en un predio subdividido o de un desarrollo inmobiliario especial, haya ejecutado obras, equipamiento urbano, infraestructura, construcciones, instalaciones o servicios en contravención a lo dispuesto en este Código, la autorización respectiva o en las demás disposiciones jurídicas aplicables, la SEPLAPDE y, en su caso, el Municipio podrán ordenar la corrección de dichas obras, o bien, demolerlas total o parcialmente, sin ninguna obligación de pagar indemnización al fraccionador o promotor, quien deberá cubrir el costo de los trabajos efectuados, cuando éste no cumpla con el requerimiento de la autoridad competente, generándose a su cargo un crédito fiscal.
+Cuando el fraccionador, promotor del condominio, en un predio subdividido o de un desarrollo inmobiliario especial, haya ejecutado obras, equipamiento urbano, infraestructura, construcciones, instalaciones o servicios en contravención a lo dispuesto en este Código, la autorización respectiva o en las demás disposiciones jurídicas aplicables, la SEPLADE y, en su caso, el Municipio podrán ordenar la corrección de dichas obras, o bien, demolerlas total o parcialmente, sin ninguna obligación de pagar indemnización al fraccionador o promotor, quien deberá cubrir el costo de los trabajos efectuados, cuando éste no cumpla con el requerimiento de la autoridad competente, generándose a su cargo un crédito fiscal.
 
 ### CAPÍTULO VII. Urbanización, Equipamiento y Prestación de Servicios
 
@@ -5391,29 +5833,39 @@ III.- Urbanización progresiva.
 
 En la urbanización por etapas, las últimas pueden estar ligadas a la realización diferida de ciertas infraestructuras urbanas que permitan su conexión a las iniciales, sin que dichas obras rebasen el plazo máximo de ejecución, el cual será de 5 años y comprenderá todas las etapas.
 
-Si el promotor o desarrollador no concluye en 5 años la ejecución de las obras del fraccionamiento, condominio o desarrollo inmobiliario especial, deberá solicitar previo al término del plazo determinado a la SEPLAPDE o en su caso al Municipio, la renovación del mismo y deberá cumplir con los requisitos de los lineamientos que dicha Dependencia Estatal expida o en su caso el Municipio; de lo contrario la SEPLAPDE o el Municipio, deberá iniciar un procedimiento de revocación.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+Si el promotor o desarrollador no concluye en 5 años la ejecución de las obras del fraccionamiento, condominio o desarrollo inmobiliario especial, deberá solicitar previo al término del plazo determinado a la SEPLADE o en su caso al Municipio, la renovación del mismo y deberá cumplir con los requisitos de los lineamientos que dicha Dependencia Estatal expida o en su caso el Municipio; de lo contrario la SEPLADE o el Municipio, deberá iniciar un procedimiento de revocación.
 
 ###### ARTÍCULO 412.
 
 La urbanización progresiva sólo se autorizará a instituciones gubernamentales, organismos públicos de vivienda o a asociaciones civiles sin fines de lucro coordinados con una institución gubernamental. En este caso, la supervisión de las obras de urbanización y del proyecto la realizará directamente el Municipio.
 
-La infraestructura faltante que haya determinado el Consejo Estatal, la SEPLAPDE o el Municipio, deberá ser ejecutada por el fraccionador o promotor con la cooperación de los adquirentes de los lotes o predios, de conformidad con lo estipulado en los contratos de compra venta individuales y de acuerdo con el programa de urbanización autorizado.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+La infraestructura faltante que haya determinado el Consejo Estatal, la SEPLADE o el Municipio, deberá ser ejecutada por el fraccionador o promotor con la cooperación de los adquirentes de los lotes o predios, de conformidad con lo estipulado en los contratos de compra venta individuales y de acuerdo con el programa de urbanización autorizado.
 
 ###### ARTÍCULO 413.
 
 El fraccionador o promotor ejecutará las obras de urbanización del fraccionamiento, condominio o desarrollo inmobiliario especial y en su caso, del equipamiento urbano e infraestructura complementarios, conforme a las características, especificaciones, temporalidad y calidad que le establecen este Código, el proyecto definitivo aprobado y las que se establezcan en otras disposiciones jurídicas aplicables.
 
-Es facultad de la SEPLAPDE y el Municipio, autorizar el calendario o programa de obras de urbanización, determinando la temporalidad para la ejecución de las mismas, de acuerdo a la superficie y las implicaciones del proyecto del fraccionamiento, condominio o desarrollo inmobiliario especial; así como a solicitud justificada del promotor o desarrollador otorgar las suspensiones de obra que se requieran.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+Es facultad de la SEPLADE y el Municipio, autorizar el calendario o programa de obras de urbanización, determinando la temporalidad para la ejecución de las mismas, de acuerdo a la superficie y las implicaciones del proyecto del fraccionamiento, condominio o desarrollo inmobiliario especial; así como a solicitud justificada del promotor o desarrollador otorgar las suspensiones de obra que se requieran.
 
 ###### ARTÍCULO 414.
 
 Obtenida la autorización del fraccionamiento, condominio o desarrollo inmobiliario especial, el fraccionador o promotor contará con un plazo de dieciocho meses para iniciar las obras de urbanización, contados a partir del día siguiente de la notificado de la autorización; sí vencido el plazo no se han iniciado las obras; se podrá conceder una prórroga por una única vez de un plazo máximo de 1 año.
 
-En el supuesto de que el fraccionador o promotor no inicie las obras de urbanización en el plazo referido o no concluya las obras de las etapas de urbanización, conforme a lo autorizado y dispuesto en este Código, la autorización concedida se revocará total o parcialmente por el Consejo Estatal, la SEPLAPDE o el Municipio según corresponda, a partir de la fecha de vencimiento del plazo definitivo.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+En el supuesto de que el fraccionador o promotor no inicie las obras de urbanización en el plazo referido o no concluya las obras de las etapas de urbanización, conforme a lo autorizado y dispuesto en este Código, la autorización concedida se revocará total o parcialmente por el Consejo Estatal, la SEPLADE o el Municipio según corresponda, a partir de la fecha de vencimiento del plazo definitivo.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 415.
 
-El Consejo Estatal, la SEPLAPDE o el Municipio al realizar el procedimiento de revocación de la autorización de un fraccionamiento, condominio o desarrollo inmobiliario especial, deberá considerar que no se afecten derechos de adquirentes o usuarios de lotes, predios, locales o áreas, así como el que queden inconclusas obras de urbanización y edificación necesarias para dar soporte y funcionalidad a otras etapas ya concluidas.
+El Consejo Estatal, la SEPLADE o el Municipio al realizar el procedimiento de revocación de la autorización de un fraccionamiento, condominio o desarrollo inmobiliario especial, deberá considerar que no se afecten derechos de adquirentes o usuarios de lotes, predios, locales o áreas, así como el que queden inconclusas obras de urbanización y edificación necesarias para dar soporte y funcionalidad a otras etapas ya concluidas.
 
 ###### ARTÍCULO 416.
 
@@ -5433,9 +5885,11 @@ La autorización de fraccionamientos, condominios o desarrollos inmobiliarios es
 
 Las edificaciones habitacionales, de equipamiento o de otro tipo, requerirán de los permisos o licencias de construcción expedidas por los Municipios conforme a sus códigos o reglamentos municipales y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 420.
 
-El fraccionador o promotor deberá de solicitar por escrito a la SEPLAPDE o al Municipio, según corresponda la autorización para iniciar las obras de urbanización, conforme al proyecto autorizado del fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión y cumpliendo con los requisitos señalados en este Código.
+El fraccionador o promotor deberá de solicitar por escrito a la SEPLADE o al Municipio, según corresponda la autorización para iniciar las obras de urbanización, conforme al proyecto autorizado del fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión y cumpliendo con los requisitos señalados en este Código.
 
 ###### ARTÍCULO 421.
 
@@ -5443,23 +5897,27 @@ El fraccionador o promotor contará con el plazo indicado en la Ley de Ingresos 
 
 En el caso de haberse autorizado la urbanización por etapas, las obligaciones fiscales correspondientes a la supervisión se fijarán y cubrirán por cada etapa, tomando como base el presupuesto actualizado de dichas obras de urbanización o la tarifa correspondiente determinados por el Municipio.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 422.
 
-Una vez que la SEPLAPDE o el Municipio según corresponda, compruebe que en el expediente del fraccionamiento, condominio o desarrollo inmobiliario especial se encuentra la documentación necesaria y, en su caso, cuente con la opinión favorable, ya sea del Municipio o la SEPLAPDE, tendrá un plazo de 10 días hábiles contado a partir de que recibió la mencionada opinión para expedir la resolución a la autorización para el inicio de las obras de urbanización.
+Una vez que la SEPLADE o el Municipio según corresponda, compruebe que en el expediente del fraccionamiento, condominio o desarrollo inmobiliario especial se encuentra la documentación necesaria y, en su caso, cuente con la opinión favorable, ya sea del Municipio o la SEPLADE, tendrá un plazo de 10 días hábiles contado a partir de que recibió la mencionada opinión para expedir la resolución a la autorización para el inicio de las obras de urbanización.
 
-Para efecto de que la SEPLAPDE o el Municipio solicite la citada opinión para resolver sobre el inicio de las obras de urbanización peticionada, previamente deberá encontrarse integrado el expediente del fraccionamiento, condominio o desarrollo inmobiliario especial.
+Para efecto de que la SEPLADE o el Municipio solicite la citada opinión para resolver sobre el inicio de las obras de urbanización peticionada, previamente deberá encontrarse integrado el expediente del fraccionamiento, condominio o desarrollo inmobiliario especial.
 
-Dicha opinión deberá ser emitida en un plazo máximo de 10 días hábiles, a partir de la fecha de recepción de la solicitud respectiva. Una vez transcurrido el plazo señalado y sin que se haya obtenido la opinión técnica o se hubiese solicitado prórroga, se entenderá que la SEPLAPDE o el Municipio según corresponda, no tiene objeción alguna para que se resuelva la solicitud de autorización para iniciar la ejecución de obras de urbanización.
+Dicha opinión deberá ser emitida en un plazo máximo de 10 días hábiles, a partir de la fecha de recepción de la solicitud respectiva. Una vez transcurrido el plazo señalado y sin que se haya obtenido la opinión técnica o se hubiese solicitado prórroga, se entenderá que la SEPLADE o el Municipio según corresponda, no tiene objeción alguna para que se resuelva la solicitud de autorización para iniciar la ejecución de obras de urbanización.
 
-En el supuesto que no se emita esa autorización o no se justifique la negativa dentro del plazo indicado en el párrafo primero de este artículo por parte de la SEPLAPDE o el Municipio, el fraccionador o promotor entenderá que la misma fue autorizada y por ende procederá a iniciar con las correspondientes obras de urbanización, debiendo cubrir los derechos fiscales municipales para la supervisión; encontrándose el Municipio obligado a asignar a la brevedad la correspondiente Unidad Externa de Supervisión.
+En el supuesto que no se emita esa autorización o no se justifique la negativa dentro del plazo indicado en el párrafo primero de este artículo por parte de la SEPLADE o el Municipio, el fraccionador o promotor entenderá que la misma fue autorizada y por ende procederá a iniciar con las correspondientes obras de urbanización, debiendo cubrir los derechos fiscales municipales para la supervisión; encontrándose el Municipio obligado a asignar a la brevedad la correspondiente Unidad Externa de Supervisión.
 
 ###### ARTÍCULO 423.
 
 Una vez que se le hubiera autorizado el inicio de las obras de urbanización, el fraccionador o promotor podrá solicitar la licencia de construcción al Municipio, que le autorice la edificación de prototipos muestra de viviendas, departamentos o locales, la construcción de sus oficinas de comercialización y de accesos principales y monumentales, sin que esto represente la posibilidad de realizar actos de venta de esos inmuebles.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 424.
 
-Como parte de los requisitos que deben cumplir para que la SEPLAPDE o el Municipio otorgue la autorización de inicio de obras de urbanización, el fraccionador o promotor, deberá constituir garantía ante la Secretaría de Finanzas o Tesorería Municipal, a efecto de asegurar que ejecutará adecuadamente las obras de urbanización y del equipamiento urbano e infraestructura complementarios, así como cumplir con todas y cada una de las obligaciones que asumió conforme a este Código y la resolución correspondiente del Consejo Estatal, de la SEPLAPDE o el Municipio según corresponda. Dicha garantía podrá consistir a juicio del Municipio respectivo, en:
+Como parte de los requisitos que deben cumplir para que la SEPLADE o el Municipio otorgue la autorización de inicio de obras de urbanización, el fraccionador o promotor, deberá constituir garantía ante la Secretaría de Finanzas o Tesorería Municipal, a efecto de asegurar que ejecutará adecuadamente las obras de urbanización y del equipamiento urbano e infraestructura complementarios, así como cumplir con todas y cada una de las obligaciones que asumió conforme a este Código y la resolución correspondiente del Consejo Estatal, de la SEPLADE o el Municipio según corresponda. Dicha garantía podrá consistir a juicio del Municipio respectivo, en:
 
 I.- Fianza expedida por compañía autorizada, con valor del 40% del presupuesto total o por etapas de las obras de urbanización y del equipamiento urbano y la infraestructura complementaria;
 
@@ -5467,9 +5925,11 @@ II.- Hipoteca de inmuebles que cubran el valor amparado por la fianza señalada 
 
 III.- Depósito en efectivo por el 20% del presupuesto total de las obras de urbanización y adicionalmente del equipamiento urbano y la infraestructura complementaria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 425.
 
-Cuando el Consejo Estatal, la SEPLAPDE o el Municipio, resuelva que un fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión, se urbanice por etapas, la garantía se constituirá antes de iniciar cada etapa, tomando como base para fijar su monto, el presupuesto de las obras de urbanización de la etapa por ejecutar; actualizando los precios al momento en que esta se inicie.
+Cuando el Consejo Estatal, la SEPLADE o el Municipio, resuelva que un fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión, se urbanice por etapas, la garantía se constituirá antes de iniciar cada etapa, tomando como base para fijar su monto, el presupuesto de las obras de urbanización de la etapa por ejecutar; actualizando los precios al momento en que esta se inicie.
 
 En lo que corresponde a la garantía del equipamiento urbano e infraestructura complementarios, esta se constituirá en la etapa del fraccionamiento, condominio o desarrollo inmobiliario especial que se vaya a construir, conforme a lo determinado por el Municipio o si se trata de un predio municipal diverso, antes de iniciar las obras.
 
@@ -5485,9 +5945,11 @@ La garantía constituida para asegurar la correcta ejecución de las obras de ur
 
 Una vez expedido el dictamen mencionado en el párrafo anterior, la garantía que deberá otorgar el fraccionador o promotor por el año posterior, será por un valor equivalente al 50% de la otorgada inicialmente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 428.
 
-Transcurrido el plazo a que se refiere el ARTÍCULO anterior, el fraccionador o promotor solicitará al Municipio, la cancelación de la garantía que al efecto se haya constituido.
+Transcurrido el plazo a que se refiere el artículo anterior, el fraccionador o promotor solicitará al Municipio, la cancelación de la garantía que al efecto se haya constituido.
 
 Tratándose de condominios en los que se haya cancelado dicha garantía, la administración del mismo será responsable, ante los condóminos, de que las obras de urbanización se encuentren en buen estado y los servicios urbanos se presten suficientes y adecuadamente.
 
@@ -5513,9 +5975,11 @@ En el caso de que dichos recursos sean insuficientes para ejecutar las obras de 
 
 Si el Municipio es quien ejecuta las obras de urbanización y de equipamiento urbano o infraestructura con recursos propios por ser insuficientes las garantías; los gastos que se deriven se harán efectivos como si se trataran de créditos fiscales, en términos de la legislación aplicable. Lo anterior, independientemente de la de las responsabilidades, e imposición de sanciones administrativas, civiles o penales correspondientes, a cargo del fraccionador o promotor.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 431.
 
-En caso de que el fraccionador o promotor no realice las obras de urbanización en el plazo autorizado y conforme al calendario de obras, podrá solicitar a la SEPLAPDE o al Municipio, según corresponda, con un mes de anticipación y por escrito, la prórroga que considere necesaria, exponiendo los motivos que ocasionaron el retraso; quienes dictaminarán sobre la procedencia de dicha petición, podrán otorgar esta, cuando la prorroga no exceda del 50% del plazo originalmente autorizado y además, el fraccionador o promotor deberá actualizar los documentos que la SEPLAPDE o el Municipio consideren convenientes.
+En caso de que el fraccionador o promotor no realice las obras de urbanización en el plazo autorizado y conforme al calendario de obras, podrá solicitar a la SEPLADE o al Municipio, según corresponda, con un mes de anticipación y por escrito, la prórroga que considere necesaria, exponiendo los motivos que ocasionaron el retraso; quienes dictaminarán sobre la procedencia de dicha petición, podrán otorgar esta, cuando la prórroga no exceda del 50% del plazo originalmente autorizado y además, el fraccionador o promotor deberá actualizar los documentos que la SEPLADE o el Municipio consideren convenientes.
 
 En cuanto a la solicitud de prórroga para la ejecución del equipamiento urbano e infraestructura complementaria, el fraccionador o promotor, dentro del plazo indicado en el párrafo anterior, deberá solicitarla al Municipio por escrito.
 
@@ -5523,7 +5987,9 @@ En cuanto a la solicitud de prórroga para la ejecución del equipamiento urbano
 
 Cuando las obras de urbanización hayan de ejecutarse por etapas, los trabajos se iniciarán por la primera, la cual deberá estar previamente aprobada, y se deberá concluir íntegramente, de tal manera que ésta sea autosuficiente en todos sus servicios, prosiguiendo las subsecuentes etapas, y cumpliendo con la misma condición.
 
-En el caso de fraccionadores o promotores que hubieren cumplido con todas sus obligaciones derivadas de la autorización expedida a su favor, se podrá autorizar por la SEPLAPDE o el Municipio, según corresponda y cumpliendo con los requisitos señalados en este Código, el inicio de la etapa de obra de urbanización siguiente, siempre y cuando la etapa que se esté desarrollando presente un avance en la ejecución de las obras de cuando menos el 70%.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+En el caso de fraccionadores o promotores que hubieren cumplido con todas sus obligaciones derivadas de la autorización expedida a su favor, se podrá autorizar por la SEPLADE o el Municipio, según corresponda y cumpliendo con los requisitos señalados en este Código, el inicio de la etapa de obra de urbanización siguiente, siempre y cuando la etapa que se esté desarrollando presente un avance en la ejecución de las obras de cuando menos el 70%.
 
 Cuando en el fraccionamiento, condominio o desarrollo inmobiliario especial, la primera etapa por urbanizar no colinde con zona urbanizada, los trabajos se iniciarán por la construcción de la calle de liga y por la conexión de los servicios públicos necesarios.
 
@@ -5535,9 +6001,11 @@ Una vez concluida la totalidad, una etapa o parcialmente las obras de urbanizaci
 
 En el supuesto de que el fraccionador o promotor hubiera realizado obras e instalaciones de equipamiento urbano e infraestructura complementaria en sustitución de una parte de las áreas de donación o por obligaciones fiscales municipales, el dictamen de conclusión también lo expedirá el Municipio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 434.
 
-Los dictámenes técnicos a que se refiere el ARTÍCULO anterior, tendrán por objeto verificar que el fraccionador o promotor, haya cumplido con todas las obligaciones que le señala este Código, ejecutadas las obras de urbanización y el equipamiento urbano e infraestructura complementaria, conforme a las especificaciones y calidad previstas en el proyecto definitivo del fraccionamiento, desarrollo inmobiliario especial, condominio o subdivisión autorizada.
+Los dictámenes técnicos a que se refiere el artículo anterior, tendrán por objeto verificar que el fraccionador o promotor, haya cumplido con todas las obligaciones que le señala este Código, ejecutadas las obras de urbanización y el equipamiento urbano e infraestructura complementaria, conforme a las especificaciones y calidad previstas en el proyecto definitivo del fraccionamiento, desarrollo inmobiliario especial, condominio o subdivisión autorizada.
 
 Esos documentos técnicos y jurídicos serán expedidos tomando en cuenta lo dictaminado por las unidades externas de supervisión, los peritos y la documentación del expediente correspondiente y solo excepcionalmente, se pedirá justificadamente la opinión de las dependencias o entidades municipales correspondientes a un servicio u obra. Instancias que tendrán un plazo máximo de
 
@@ -5587,9 +6055,11 @@ VI.- Equipo de limpia, aseo y mantenimiento de áreas comunes.
 
 Lo anterior, salvo lo dispuesto para los condominios de tipo especial.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 441.
 
-Para los efectos del ARTÍCULO anterior, también se consideran servicios urbanos indispensables, las áreas destinadas al estacionamiento vehicular, incluyendo para visitantes, de bici estacionamientos o de actividades comerciales, educativas, de recreo y de vigilancia, en la extensión necesaria, cuando una o varias de dichas áreas deban existir a consideración del Consejo Estatal o del Municipio en su caso, previa opinión de la SEPLAPDE.
+Para los efectos del artículo anterior, también se consideran servicios urbanos indispensables, las áreas destinadas al estacionamiento vehicular, incluyendo para visitantes, de bici estacionamientos o de actividades comerciales, educativas, de recreo y de vigilancia, en la extensión necesaria, cuando una o varias de dichas áreas deban existir a consideración del Consejo Estatal o del Municipio en su caso, previa opinión de la SEPLADE.
 
 ###### ARTÍCULO 442.
 
@@ -5597,9 +6067,11 @@ Los servicios urbanos indispensables serán prestados permanentemente por la adm
 
 El reglamento de administración del condominio, deberá contemplar las medidas que se adoptarán para que los condóminos cumplan con la obligación de cubrir las cuotas para la prestación de los servicios comunes y, en su caso la suspensión de su prestación por falta de pago de dichas cuotas.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 443.
 
-La SEPLAPDE y el Municipio respectivo exigirán que la prestación de los servicios en los condominios se haga de manera adecuada, oportuna y suficiente por parte de los promotores o la administración de los mismos. El dictamen de la autorización correspondiente, determinará las especificaciones y características de construcción de la infraestructura y equipamiento que se requiera en el condominio.
+La SEPLADE y el Municipio respectivo exigirán que la prestación de los servicios en los condominios se haga de manera adecuada, oportuna y suficiente por parte de los promotores o la administración de los mismos. El dictamen de la autorización correspondiente, determinará las especificaciones y características de construcción de la infraestructura y equipamiento que se requiera en el condominio.
 
 ###### ARTÍCULO 444.
 
@@ -5611,9 +6083,11 @@ La sección de las calles interiores de los condominios podrá ser de diez metro
 
 Los fraccionadores o promotores deberán garantizar en los términos de este Código, la existencia de una fuente suficiente de abastecimiento de agua potable para dotar al fraccionamiento, condominio o desarrollo inmobiliario especial, a criterio del Municipio respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 446.
 
-Una vez autorizado el fraccionamiento, condominio o desarrollo inmobiliario especial por el Consejo Estatal, la SEPLAPDE o el Municipio según sea el caso, las modificaciones posteriores a las factibilidades presentadas en el proyecto inicial que correspondan al abastecimiento de agua por el organismo operador, deberán someterse nuevamente a su autorización ante la autoridad correspondiente.
+Una vez autorizado el fraccionamiento, condominio o desarrollo inmobiliario especial por el Consejo Estatal, la SEPLADE o el Municipio según sea el caso, las modificaciones posteriores a las factibilidades presentadas en el proyecto inicial que correspondan al abastecimiento de agua por el organismo operador, deberán someterse nuevamente a su autorización ante la autoridad correspondiente.
 
 Asimismo, garantizarán la existencia o construcción para su buen funcionamiento, de una red de distribución de agua potable para el fraccionamiento, condominio o desarrollo inmobiliario especial, y la instalación de toma domiciliaria, así como la existencia o construcción para su buen funcionamiento de una red de alcantarillado con salida de albañal.
 
@@ -5621,23 +6095,35 @@ En todo caso, el Municipio autorizará la conexión de las redes de agua potable
 
 ### CAPÍTULO VIII. De la Promoción y Venta de Lotes, Predios o Áreas
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 447.
 
-Una vez autorizado el fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión y cubiertas las obligaciones fiscales estatales y/o municipales correspondientes, los interesados podrán realizar su promoción de manera general, por lo que deberán presentar a la SEPLAPDE o al Municipio, según proceda, la propuesta de su publicidad, la cual proporcionará información de carácter general respecto del proyecto autorizado, evitando que sea confusa y engañosa para la población. La autorización de promoción y publicidad, no incluye derecho a ejercer actos traslativos de dominio de los lotes, predios o áreas, sino hasta que cuente con la autorización para venta correspondiente.
+Una vez autorizado el fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión y cubiertas las obligaciones fiscales estatales y/o municipales correspondientes, los interesados podrán realizar su promoción de manera general, por lo que deberán presentar a la SEPLADE o al Municipio, según proceda, la propuesta de su publicidad, la cual proporcionará información de carácter general respecto del proyecto autorizado, evitando que sea confusa y engañosa para la población. La autorización de promoción y publicidad, no incluye derecho a ejercer actos traslativos de dominio de los lotes, predios o áreas, sino hasta que cuente con la autorización para venta correspondiente.
 
-En caso de no cumplir con lo señalado en el párrafo anterior, el fraccionador o promotor se hará acreedor a las sanciones que establece este Código. Una vez autorizada la publicidad por la SEPLAPDE o el Municipio, la misma no podrá ser modificada durante su difusión, a no ser que se autorice lo conducente.
+En caso de no cumplir con lo señalado en el párrafo anterior, el fraccionador o promotor se hará acreedor a las sanciones que establece este Código. Una vez autorizada la publicidad por la SEPLADE o el Municipio, la misma no podrá ser modificada durante su difusión, a no ser que se autorice lo conducente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 448.
 
-Los fraccionadores y promotores previamente deberán solicitar a la SEPLAPDE o al Municipio, según proceda, que les autorice la venta de lotes, predios, viviendas, departamentos o áreas.
+Los fraccionadores y promotores previamente deberán solicitar a la SEPLADE o al Municipio, según proceda, que les autorice la venta de lotes, predios, viviendas, departamentos o áreas.
 
-La SEPLAPDE o el Municipio para efecto de expedir la autorización de venta de los bienes indicados o cualquier acto traslativo de dominio, deberá contar con la opinión favorable del Municipio o la SEPLAPDE, según corresponda, de la unidad externa de supervisión y del perito responsable de la obra, del que se desprenda que existe un avance de cuando menos del 30% en la ejecución de esas obras de urbanización del desarrollo correspondiente y que las mismas son compatibles con el proyecto autorizado. Esta autorización podrá otorgarse por etapas.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
-Además de los requisitos señalados anteriormente, para efecto de que la SEPLAPDE o el Municipio, expida la autorización de venta de los bienes de un fraccionamiento, condominio o subdivisión, en el expediente respectivo debe existir la siguiente documentación:
+La SEPLADE o el Municipio para efecto de expedir la autorización de venta de los bienes indicados o cualquier acto traslativo de dominio, deberá contar con la opinión favorable del Municipio o la SEPLADE, según corresponda, de la unidad externa de supervisión y del perito responsable de la obra, del que se desprenda que existe un avance de cuando menos del 30% en la ejecución de esas obras de urbanización del desarrollo correspondiente y que las mismas son compatibles con el proyecto autorizado. Esta autorización podrá otorgarse por etapas.
 
-I.- Si se trata de un condominio, la escritura pública constitutiva inscrita en el Registro Público, previa apertura de las claves catastrales que realice la autoridad competente en materia de catastro;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE ENERO DE 2024)</small>
 
-II.- Si es fraccionamiento o subdivisión, la escritura pública de lotificación inscrita en el Registro Público, previa apertura de las claves catastrales que realice la autoridad competente en materia catastral;
+Además de los requisitos señalados anteriormente, para efecto de que la SEPLADE o el Municipio, expida la autorización de venta de los bienes de un fraccionamiento, condominio o subdivisión, en el expediente respectivo debe existir la siguiente documentación:
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+I.- Si se trata de un condominio, la escritura pública constitutiva inscrita en el Instituto Registral y Catastral, previa apertura de las claves catastrales que realice la autoridad competente en materia de catastro;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+II.- Si es fraccionamiento o subdivisión, la escritura pública de lotificación inscrita en el Instituto Registral y Catastral, previa apertura de las claves catastrales que realice la autoridad competente en materia catastral;
 
 III.- Que no existan condicionantes pendientes de cumplir, cuando se hubieran señalado en la autorización del Consejo Estatal o el Municipio;
 
@@ -5645,7 +6131,9 @@ IV.- Si se realizó equipamiento e infraestructura complementarios en sustituci�
 
 V.- Que la garantía de las obras de urbanización se encuentre vigente; y
 
-VI.- Escritura de las áreas de donación destinadas para equipamiento urbano, áreas verdes y vías públicas inscritas ante la autoridad competente en materia catastral y en el Registro Público, del fraccionamiento o condominio o, en su caso, de la etapa de urbanización correspondiente.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+VI.- Escritura de las áreas de donación destinadas para equipamiento urbano, áreas verdes y vías públicas inscritas ante la autoridad competente en materia catastral y en el Instituto Registral y Catastral, del fraccionamiento o condominio o, en su caso, de la etapa de urbanización correspondiente.
 
 En el caso de los condominios verticales en proceso de construcción, con una altura superior a los 21 metros o más de 14 departamentos o unidades, deberán contar con reporte de perito avalando un porcentaje mínimo de avance del 50%., así como otorgar al Municipio una garantía en términos del artículo 411 de este Código.
 
@@ -5653,13 +6141,17 @@ Esa garantía se cancelará al momento en que el Municipio emita la constancia d
 
 Cuando alguna persona física o moral pretenda obtener la cesión de derechos y obligaciones de un fraccionamiento o condominio, podrá autorizarse el traslado de dominio del predio o predios respectivos, sin cumplirse los requisitos anteriores, con la condicionante de que el adquirente no realice la promoción y venta de los lotes o predios resultantes, hasta que obtenga la citada cesión de derechos y obligaciones y cumpla con lo dispuesto en párrafos anteriores.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 449.
 
-Una vez que la SEPLAPDE o el Municipio, compruebe que el expediente está completo y se cuente con la correspondiente opinión favorable, tendrá un plazo de 10 días hábiles contados a partir de que recibió dicha opinión para expedir en su caso la correspondiente autorización de venta. En caso de no hacerlo dentro de ese plazo o resolver por escrito una negativa, el interesado entenderá que la autorización fue expedida favorablemente y por ende podrá realizar actos traslativos de dominio.
+Una vez que la SEPLADE o el Municipio, compruebe que el expediente está completo y se cuente con la correspondiente opinión favorable, tendrá un plazo de 10 días hábiles contados a partir de que recibió dicha opinión para expedir en su caso la correspondiente autorización de venta. En caso de no hacerlo dentro de ese plazo o resolver por escrito una negativa, el interesado entenderá que la autorización fue expedida favorablemente y por ende podrá realizar actos traslativos de dominio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 450.
 
-El Instituto Catastral, las oficinas municipales y el Registro Público de la Propiedad, no realizaran ningún movimiento traslativo de dominio, hasta en tanto no se hubiera expedido la autorización de venta y se les haya notificado por la SEPLAPDE o el Municipio, según proceda. Lo anterior con excepción de las relativas a las áreas de donación para los Municipios y vías públicas, que no requieren de una autorización de venta.
+El Instituto Registral y Catastral y las oficinas municipales no realizaran ningún movimiento traslativo de dominio, hasta en tanto no se hubiera expedido la autorización de venta y se les haya notificado por la SEPLADE o el Municipio, según proceda. Lo anterior con excepción de las relativas a las áreas de donación para los Municipios y vías públicas, que no requieren de una autorización de venta.
 
 Cuando se trate de fraccionamientos o condominios promovidos por el IVSOP, se podrá autorizar la venta de lotes siempre y cuando exista la infraestructura mínima de energía eléctrica, agua potable, alcantarillado, guarniciones y banquetas para delimitar los niveles de las viviendas y futuros pavimentos.
 
@@ -5667,9 +6159,11 @@ En este caso, deberá existir convenio con el Municipio, en el que se especifica
 
 Para efectos del presente artículo y tratándose de fraccionamientos, el Municipio podrá prestar los servicios, quedando reservada dicha facultad para emprender las acciones legales que procedan en caso de incumplimiento por parte del fraccionador.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 451.
 
-La SEPLAPDE o el Municipio podrá revocar previo al procedimiento administrativo, la autorización de venta en los siguientes casos:
+La SEPLADE o el Municipio podrá revocar previo al procedimiento administrativo, la autorización de venta en los siguientes casos:
 
 I.- Cuando sin causa justificada se suspenda la construcción de las obras de urbanización o edificación;
 
@@ -5703,9 +6197,11 @@ El Municipio podrá recibir previamente a la municipalización de un fraccionami
 
 En lo que se refiere a los sistemas de agua potable, cuando así le sea exigido, el fraccionador está obligado a entregar éstos al Municipio, con el objeto de interconectarlos a la red municipal y optimizar el aprovechamiento de su fuente de abastecimiento, independientemente de que el fraccionamiento esté o no municipalizado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 455.
 
-El Municipio recibirá la totalidad de un fraccionamiento o subdivisión o de alguna etapa de urbanización, servicio o equipamiento mediante el levantamiento de un acta administrativa total o parcial, en la que intervendrán la persona titular de la Presidencia Municipal, el titular de la Secretaría Municipal, el fraccionador, el perito responsable de las obras de urbanización, un representante de la SEPLAPDE, un representante de la unidad externa de supervisión y un representante de la asociación de colonos si la hubiere, a fin de que previo dictamen técnico-jurídico por el que se certifique que el fraccionador cumplió con todas las obligaciones, así como que se encuentran en buen funcionamiento y calidad las obras y servicios que se entreguen.
+El Municipio recibirá la totalidad de un fraccionamiento o subdivisión o de alguna etapa de urbanización, servicio o equipamiento mediante el levantamiento de un acta administrativa total o parcial, en la que intervendrán la persona titular de la Presidencia Municipal, el titular de la Secretaría Municipal, el fraccionador, el perito responsable de las obras de urbanización, un representante de la SEPLADE, un representante de la unidad externa de supervisión y un representante de la asociación de colonos si la hubiere, a fin de que previo dictamen técnico-jurídico por el que se certifique que el fraccionador cumplió con todas las obligaciones, así como que se encuentran en buen funcionamiento y calidad las obras y servicios que se entreguen.
 
 Con base en lo dictaminado por la unidad externa de supervisión y el perito responsable de las obras, así como en la documentación del expediente respectivo, el dictamen técnico-jurídico lo elaborará el Municipio, conforme a sus facultades y responsabilidades respectivas; mismo que se insertará en la respectiva acta administrativa, que deberá anexarse al expediente del fraccionamiento o subdivisión y en el expediente digital único.
 
@@ -5797,7 +6293,9 @@ X.- Los casos y condiciones en que pueda ser modificado el régimen de propiedad
 
 XI.- Tratándose de condominios verticales y comerciales o de servicios, la existencia en su momento de un contrato de seguro contra incendios del inmueble para proteger las construcciones; en el caso de los condominios destinados para interés social y que son financiados por los organismos estatales y municipales, éstos quedarán relevados de la obligación de presentar un contrato de seguro, sin embargo una vez entregada la administración del Condominio a los condóminos, deberá sugerirles la contratación de dicho seguro.
 
-Al apéndice de la escritura, se agregarán foliados y autorizados, el plano general y parciales de zonificación, con especificación precisa de su separación del resto de áreas, si está ubicado dentro de un conjunto condominal, los planos tipo correspondientes a cada uno de los predios, departamentos, viviendas o áreas y a los elementos comunes; el reglamento de administración del condominio y cualquier otro de los documentos, constancias o descripciones a que se refiere este ARTÍCULO, a fin de simplificar la escritura pública correspondiente. De la documentación anterior, se entregará a la administración del condominio copias certificadas por el notario público, para el debido desempeño de sus atribuciones.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+Al apéndice de la escritura, se agregarán foliados y autorizados, el plano general y parciales de zonificación, con especificación precisa de su separación del resto de áreas, si está ubicado dentro de un conjunto condominal, los planos tipo correspondientes a cada uno de los predios, departamentos, viviendas o áreas y a los elementos comunes; el reglamento de administración del condominio y cualquier otro de los documentos, constancias o descripciones a que se refiere este artículo, a fin de simplificar la escritura pública correspondiente. De la documentación anterior, se entregará a la administración del condominio copias certificadas por el notario público, para el debido desempeño de sus atribuciones.
 
 ###### ARTÍCULO 465.
 
@@ -5817,17 +6315,21 @@ Los conjuntos condominales no cuentan con bienes de propiedad exclusiva, toda ve
 
 En dichos conjuntos se constituirán bienes de propiedad común que pertenezcan proindiviso a todos los condóminos del condominio maestro o exclusivamente a los condóminos de uno o más subregímenes de propiedad en condominio, de conformidad con lo que se establezca en las escrituras constitutivas y en los reglamentos de administración respectivos.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 469.
 
-Las escrituras constitutivas del régimen de propiedad en condominio o de conjuntos condominales y los reglamentos de administración, deberán inscribirse en el Registro Público.
+Las escrituras constitutivas del régimen de propiedad en condominio o de conjuntos condominales y los reglamentos de administración, deberán inscribirse en el Instituto Registral y Catastral.
 
-Las modificaciones que se autoricen a los reglamentos de administración o en su caso un nuevo reglamento, deberán presentarse a la SEPLAPDE o el Municipio, según procesa para su revisión y en su caso visto bueno, así como su posterior inscripción en el Registro Público. Dicho Registro Público deberá expedir a la SEPLAPDE o el Municipio constancia de la inscripción de los reglamentos de administración y de sus modificaciones.
+Las modificaciones que se autoricen a los reglamentos de administración o en su caso un nuevo reglamento, deberán presentarse a la SEPLADE o el Municipio, según procesa para su revisión y en su caso visto bueno, así como su posterior inscripción en el Instituto Registral y Catastral. Dicho Instituto deberá expedir a la SEPLADE o el Municipio constancia de la inscripción de los reglamentos de administración y de sus modificaciones.
 
-Previa a la inscripción de las escrituras constitutivas del régimen de propiedad en condominio en el Registro Público, y la autoridad competente en materia catastral en el Estado realizarán la apertura de las claves catastrales del condominio de que se trate y emitirá la constancia correspondiente a fin de que se proceda a su registro.
+Previa a la inscripción de las escrituras constitutivas del régimen de propiedad en condominio en el Instituto Registral y Catastral, y la autoridad competente en materia catastral en el Estado realizarán la apertura de las claves catastrales del condominio de que se trate y emitirá la constancia correspondiente a fin de que se proceda a su registro.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 470.
 
-En los contratos para adquisición de los derechos de propiedad sobre un predio, departamento, vivienda, o área, sujeto al régimen de propiedad en condominio, tiene la obligación el promotor de informar al propietario de los derechos y obligaciones de haber adquirido bajo ese régimen de propiedad; además se insertarán las declaraciones y cláusulas conducentes de la escritura constitutiva y se hará constar que el notario público entrega al condómino una copia del reglamento de administración del condominio, avalado por la SEPLAPDE o el Municipio según corresponda e inscrito en el Registro Público.
+En los contratos para adquisición de los derechos de propiedad sobre un predio, departamento, vivienda, o área, sujeto al régimen de propiedad en condominio, tiene la obligación el promotor de informar al propietario de los derechos y obligaciones de haber adquirido bajo ese régimen de propiedad; además se insertarán las declaraciones y cláusulas conducentes de la escritura constitutiva y se hará constar que el notario público entrega al condómino una copia del reglamento de administración del condominio, avalado por la SEPLADE o el Municipio según corresponda e inscrito en el Instituto Registral y Catastral.
 
 ###### ARTÍCULO 471.
 
@@ -5837,9 +6339,11 @@ Los condominios habitacionales desarrollados por las instituciones de vivienda d
 
 #### Sección Tercera. Modificación y Extinción
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 472.
 
-Podrán solicitar la autorización de la SEPLAPDE o el Municipio, según corresponda, respecto de la modificación del régimen de propiedad en condominio:
+Podrán solicitar la autorización de la SEPLADE o el Municipio, según corresponda, respecto de la modificación del régimen de propiedad en condominio:
 
 I.- El promotor en los casos en que tenga la propiedad de todos los bienes de propiedad exclusiva del condominio;
 
@@ -5853,19 +6357,23 @@ IV.- La asamblea de condóminos en los demás casos, requiriéndose la aprobaci�
 
 La fusión de predios condominales no requiere la modificación del régimen de propiedad en condominio, sino únicamente la autorización del Municipio. El predio fusionante acumulará el indiviso de los predios fusionados y tendrá su propietario los derechos y obligaciones que se deriven de los mismos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 474.
 
-La extinción voluntaria parcial o total del régimen de propiedad en condominio, en caso de ser procedente, requiere del acuerdo por unanimidad en asamblea de condóminos del indiviso que representen los bienes de propiedad exclusiva del mismo, previo a la solicitud de autorización ante la SEPLAPDE o el Municipio.
+La extinción voluntaria parcial o total del régimen de propiedad en condominio, en caso de ser procedente, requiere del acuerdo por unanimidad en asamblea de condóminos del indiviso que representen los bienes de propiedad exclusiva del mismo, previo a la solicitud de autorización ante la SEPLADE o el Municipio.
 
 Si la extinción es parcial y se refiere a predios que no han sido urbanizados y/o edificados, se requerirá la aprobación del 51% del indiviso que se encuentre representado y presente en la sesión legalmente instalada.
 
 El acuerdo que emitan los condóminos deberá contemplar la forma en que se liquidará en su caso la administración del condominio, el cumplimiento de las obligaciones ante terceros y demás derivadas de la extinción del régimen.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 475.
 
-La modificación o extinción parcial o total del régimen de propiedad en condominio contando con las formalidades de la constitución del régimen, y previa autorización de la SEPLAPDE o el Municipio, según proceda, se protocolizará en escritura pública mediante la declaración unilateral del promotor o de quien represente legalmente al condominio y que haya sido designado por la Asamblea de Condóminos.
+La modificación o extinción parcial o total del régimen de propiedad en condominio contando con las formalidades de la constitución del régimen, y previa autorización de la SEPLADE o el Municipio, según proceda, se protocolizará en escritura pública mediante la declaración unilateral del promotor o de quien represente legalmente al condominio y que haya sido designado por la Asamblea de Condóminos.
 
-La modificación o extinción del régimen de propiedad en condominio deberá inscribirse en el Instituto Catastral y en el Registro Público para que haga las anotaciones, cancelaciones o inscripciones que procedan.
+La modificación o extinción del régimen de propiedad en condominio deberá inscribirse en el Instituto Registral y Catastral para que haga las anotaciones, cancelaciones o inscripciones que procedan.
 
 #### Sección Cuarta. Bienes de Propiedad Exclusiva y de Propiedad Común
 
@@ -6095,7 +6603,9 @@ II.- Prestar los servicios a que se refiere este Código con las aportaciones y 
 
 III.- Mantener en buen estado de funcionamiento las instalaciones, infraestructura, equipamiento urbano y servicios generales;
 
-IV.- Previamente al inicio de sus funciones de administrador o de miembros del comité de administración, asistir al curso de capacitación que imparta la SEPLAPDE, el Municipio o la Procuraduría y obtener la certificación correspondiente;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+IV.- Previamente al inicio de sus funciones de administrador o de miembros del comité de administración, asistir al curso de capacitación que imparta la SEPLADE, el Municipio o la Procuraduría y obtener la certificación correspondiente;
 
 V.- Representar y ejecutar los acuerdos de la asamblea general de condóminos y del comité de propietarios y de vigilancia del condominio;
 
@@ -6147,7 +6657,9 @@ Las resoluciones que dicten el administrador o el comité de administración, y 
 
 El administrador o el presidente del comité de administración, será el representante legal de los condóminos en todos los asuntos comunes relacionados con el condominio, tendrá las facultades de un apoderado para administrar los bienes y para pleitos y cobranzas, pero no aquellas facultades que requieran cláusulas especiales o para actos de dominio, salvo que se le confieran en el reglamento de administración del condominio o por la asamblea general de condóminos.
 
-El acta de asamblea en que se designe a la administración del condominio, así como en la que conste la entrega recepción de la administración de los bienes comunes, deberán ser protocolizadas ante notario público e inscrito en el Registro Público. El administrador designado por el promotor del condominio, no requiere de esa formalidad.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+El acta de asamblea en que se designe a la administración del condominio, así como en la que conste la entrega recepción de la administración de los bienes comunes, deberán ser protocolizadas ante notario público e inscrito en el Instituto Registral y Catastral. El administrador designado por el promotor del condominio, no requiere de esa formalidad.
 
 ###### ARTÍCULO 504.
 
@@ -6251,13 +6763,17 @@ En aquellos condominios que cuenten con menos de 13 unidades de propiedad exclus
 
 Los Municipios y, en su caso, la Procuraduría, proporcionarán a los condóminos y administradores de inmuebles sujetos al régimen de propiedad en condominio, orientación y capacitación a través de diversos cursos y talleres en materia de cultura condominal, en coordinación con los organismos de vivienda y otras dependencias e instituciones públicas y privadas.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 514.
 
-Toda persona que sea administrador, miembro del comité de administración o del comité de propietarios y de vigilancia de un condominio, deberá acreditar su asistencia a los cursos de capacitación y actualización impartidos por el Municipio, la SEPLAPDE y, en su caso, por la Procuraduría una vez al año.
+Toda persona que sea administrador, miembro del comité de administración o del comité de propietarios y de vigilancia de un condominio, deberá acreditar su asistencia a los cursos de capacitación y actualización impartidos por el Municipio, la SEPLADE y, en su caso, por la Procuraduría una vez al año.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 515.
 
-Los Municipios, la SEPLAPDE y en su caso, la Procuraduría, promoverán una cultura condominal, con base en el espíritu y principios de este Código; coadyuvando y asesorando en la creación y funcionamiento de asociaciones civiles orientadas a la difusión y desarrollo de la cultura condominal, así como a iniciativas ciudadanas relacionadas con esta.
+Los Municipios, la SEPLADE y en su caso, la Procuraduría, promoverán una cultura condominal, con base en el espíritu y principios de este Código; coadyuvando y asesorando en la creación y funcionamiento de asociaciones civiles orientadas a la difusión y desarrollo de la cultura condominal, así como a iniciativas ciudadanas relacionadas con ésta.
 
 #### Sección Sexta. Destrucción, Ruina y Reconstrucción de los Bienes en Condominio
 
@@ -6271,7 +6787,11 @@ Si el acuerdo de que se trate es por la reconstrucción del inmueble o inmuebles
 
 Si al término de tres meses contados a partir de la fecha del acuerdo respectivo, los minoritarios no hubieren optado por alguna de las opciones anteriores, la enajenación será forzosa, al precio del avalúo practicado por un perito valuador colegiado o por institución de crédito.
 
-ATÍCULO (SIC) 517.- En caso de ruina del bien de que se trate, una mayoría de los condóminos que representen el 51% de los derechos de propiedad podrá resolver, previo dictamen del Municipio respectivo, la reconstrucción o la demolición de los bienes comunes, o en su caso, la venta, según las prevenciones del ARTÍCULO anterior.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+###### ARTÍCULO 517.
+
+En caso de ruina del bien de que se trate, una mayoría de los condóminos que representen el 51% de los derechos de propiedad podrá resolver, previo dictamen del Municipio respectivo, la reconstrucción o la demolición de los bienes comunes, o en su caso, la venta, según las prevenciones del artículo anterior.
 
 #### Sección Séptima. Entrega del Equipamiento, Infraestructura, Bienes y Servicios a la Administración del Condominio
 
@@ -6287,15 +6807,19 @@ Tratándose de la entrega de obras de edificación, el promotor deberá contar p
 
 La administración del condominio que reciba la administración, operación y mantenimiento de la infraestructura y equipamiento urbano y prestación de los servicios básicos, debe ser designada por la asamblea general de condóminos.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 520.
 
-Las obras de edificación, equipamiento, instalaciones y otras diversas que no formen parte de las obras de urbanización autorizadas por el Consejo Estatal o el Municipio, en el caso de que no estén concluidas, no será impedimento para la entrega de las obras de urbanización determinadas en el ARTÍCULO anterior. Debiéndose apegar el promotor a lo establecido en las licencias de construcción otorgadas.
+Las obras de edificación, equipamiento, instalaciones y otras diversas que no formen parte de las obras de urbanización autorizadas por el Consejo Estatal o el Municipio, en el caso de que no estén concluidas, no será impedimento para la entrega de las obras de urbanización determinadas en el artículo anterior. Debiéndose apegar el promotor a lo establecido en las licencias de construcción otorgadas.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 521.
 
-Para la formalización de la entrega recepción que se realice por parte del promotor a la administración del condominio, se deberá convocar a una asamblea general extraordinaria de condóminos, la cual constatará esa situación y cuya acta deberá protocolizarse ante notario público e inscribirse en el Registro Público.
+Para la formalización de la entrega recepción que se realice por parte del promotor a la administración del condominio, se deberá convocar a una asamblea general extraordinaria de condóminos, la cual constatará esa situación y cuya acta deberá protocolizarse ante notario público e inscribirse en el Instituto Registral y Catastral.
 
-A la asamblea general extraordinaria referida en el párrafo anterior, se podrá invitar al Municipio, la SEPLAPDE y a la Procuraduría de Desarrollo Urbano, con el fin de que informen a los condóminos respecto de las condiciones generales de la autorización, especificaciones y características de la urbanización del condominio, derechos y obligaciones que tienen los administradores y los condóminos, así como las principales disposiciones de este Código en lo relativo al condominio.
+A la asamblea general extraordinaria referida en el párrafo anterior, se podrá invitar al Municipio, la SEPLADE y a la Procuraduría, con el fin de que informen a los condóminos respecto de las condiciones generales de la autorización, especificaciones y características de la urbanización del condominio, derechos y obligaciones que tienen los administradores y los condóminos, así como las principales disposiciones de este Código en lo relativo al condominio.
 
 ###### ARTÍCULO 522.
 
@@ -6427,15 +6951,19 @@ En los fraccionamientos o subdivisiones habitacionales promovidos por el IVSOP, 
 
 Los desarrolladores de vivienda podrán adquirir más de un lote en ese tipo de fraccionamientos o subdivisiones siempre y cuando la venta al usuario final sea realizada en forma directa por ellos, y no sea obras de urbanización progresiva, con el fin de construir casas económicas.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 539.
 
-Los adquirentes de lotes deberán cerciorarse de que la compra de lote o lotes que les transmitan los fraccionadores o promotores, cuenten con las condiciones de urbanización autorizadas al fraccionamiento o subdivisión, el uso del suelo compatible, así como que la compraventa en la que participan, sea con base en el plano de lotificación autorizado por la SEPLAPDE y/o el Municipio, el cual deberá ser mostrado por el fraccionador o promotor.
+Los adquirentes de lotes deberán cerciorarse de que la compra de lote o lotes que les transmitan los fraccionadores o promotores, cuenten con las condiciones de urbanización autorizadas al fraccionamiento o subdivisión, el uso del suelo compatible, así como que la compraventa en la que participan, sea con base en el plano de lotificación autorizado por la SEPLADE y/o el Municipio, el cual deberá ser mostrado por el fraccionador o promotor.
 
 ###### ARTÍCULO 540.
 
 Los adquirentes de lotes en un fraccionamiento o subdivisión, podrán constituirse legalmente en una asociación de colonos, para la gestión y defensa de sus derechos e intereses colectivos, la que deberá contar con sus propios estatutos sociales.
 
-El acta constitutiva y los estatutos una vez protocolizados ante Notario Público, deberán inscribirse en la SEPLAPDE, en el Municipio respectivo y en el Registro Público para efectos de ser integrados en el expediente del fraccionamiento o subdivisión respectiva y a fin de que se reconozca la personalidad y capacidad de gestión de la organización. También esa documentación se agregará al expediente digital único.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+El acta constitutiva y los estatutos una vez protocolizados ante Notario Público, deberán inscribirse en la SEPLADE, en el Municipio respectivo y en el Instituto Registral y Catastral para efectos de ser integrados en el expediente del fraccionamiento o subdivisión respectiva y a fin de que se reconozca la personalidad y capacidad de gestión de la organización. También esa documentación se agregará al expediente digital único.
 
 #### Sección Segunda. Fraccionadores y Promotores de Condominios y de Desarrollos Inmobiliarios Especiales
 
@@ -6457,9 +6985,13 @@ IV.- Donar al Municipio, cuando así proceda, las superficies que les señale es
 
 V.- Pagar en tiempo y forma, las cargas fiscales que les correspondan, de acuerdo con lo dispuesto en la legislación fiscal estatal y municipal;
 
-VI.- Iniciar y ejecutar en tiempo las obras de urbanización y, en su caso, de equipamiento urbano e infraestructura, previa autorización del SEPLAPDE y del Municipio, según corresponda;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-VII.- Solicitar a la SEPLAPDE o el Municipio según corresponda la autorización del programa o calendario de obras de urbanización, presentando para ese efecto su propuesta correspondiente;
+VI.- Iniciar y ejecutar en tiempo las obras de urbanización y, en su caso, de equipamiento urbano e infraestructura, previa autorización del SEPLADE y del Municipio, según corresponda;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+VII.- Solicitar a la SEPLADE o el Municipio según corresponda la autorización del programa o calendario de obras de urbanización, presentando para ese efecto su propuesta correspondiente;
 
 VIII.- Informar quincenalmente por escrito a los Municipios y a las unidades externas de supervisión del avance en la ejecución de las obras de urbanización;
 
@@ -6469,7 +7001,9 @@ X.- Informar por escrito a los Municipios y la unidad externa de supervisión, s
 
 XI.- Realizar la promoción de sus fraccionamientos, condominios, subdivisiones y desarrollos inmobiliarios especiales, conforme a lo establecido en este Código;
 
-XII.- Solicitar a la SEPLAPDE o el Municipio, según corresponda, la autorización para iniciar la venta de lotes, predios o áreas, haciéndolo una vez obtenida dicha autorización de acuerdo a las características que le establecen este Código y la autorización respectiva;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XII.- Solicitar a la SEPLADE o el Municipio, según corresponda, la autorización para iniciar la venta de lotes, predios o áreas, haciéndolo una vez obtenida dicha autorización de acuerdo a las características que le establecen este Código y la autorización respectiva;
 
 XIII.- Garantizar que todo adquirente de un inmueble tenga información suficiente con relación a las discontinuidades geológicas que hubiera en el lote o predio o cercanas a este, así como de las obligaciones y derechos que adquieran como colono, condómino o usuario;
 
@@ -6477,7 +7011,9 @@ XIV.- Informar al adquirente o usuario de un inmueble el total de las caracterí
 
 XV.- Realizar las anotaciones correspondientes en el libro de bitácora, así como integrar la información y documentación en el expediente digital único;
 
-XVI.- En condominios, inscribir el acta constitutiva, así como su reglamento de administración, en el Registro Público; y
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XVI.- En condominios, inscribir el acta constitutiva, así como su reglamento de administración, en el Instituto Registral y Catastral; y
 
 XVII.- Las demás que le señale este Código y otras disposiciones jurídicas aplicables.
 
@@ -6511,15 +7047,19 @@ Del total de la superficie que deba donar el promotor al Municipio, hasta un 30%
 
 Respecto del resto del área de donación, hasta un 70% de esa superficie se podrá sustituir por la dotación de equipamiento urbano e infraestructura, conforme a lo previsto en este Código.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 547.
 
-El Instituto Catastral del Estado, las oficinas municipales y el Registro Público de la Propiedad, no realizaran movimiento traslativo de dominio alguno, en tanto no exista la autorización de venta de predios, lotes o áreas. Lo anterior con excepción de las relativas a las áreas de donación para los Municipios y vías públicas, que no requerirán para su traslado de una autorización de venta.
+El Instituto Registral y Catastral y las oficinas municipales, no realizaran movimiento traslativo de dominio alguno, en tanto no exista la autorización de venta de predios, lotes o áreas. Lo anterior con excepción de las relativas a las áreas de donación para los Municipios y vías públicas, que no requerirán para su traslado de una autorización de venta.
 
-Una vez que exista la autorización de venta, se notificará a las autoridades ya señaladas por parte de la SEPLAPDE o el Municipio, según corresponda, a fin de que puedan realizarse las traslaciones de dominio conducentes.
+Una vez que exista la autorización de venta, se notificará a las autoridades ya señaladas por parte de la SEPLADE o el Municipio, según corresponda, a fin de que puedan realizarse las traslaciones de dominio conducentes.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 548.
 
-El notario público que vaya a realizar la escrituración respectiva de un traslado de dominio, deberá insertar en la escritura correspondiente los datos de la autorización de la SEPLAPDE o el Municipio para que se realice la enajenación correspondiente.
+El notario público que vaya a realizar la escrituración respectiva de un traslado de dominio, deberá insertar en la escritura correspondiente los datos de la autorización de la SEPLADE o el Municipio para que se realice la enajenación correspondiente.
 
 ###### ARTÍCULO 549.
 
@@ -6557,15 +7097,19 @@ El Municipio podrá convenir con el fraccionador o promotor, la prestación tota
 
 #### Sección Primera. Relotificaciones
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 554.
 
-Las relotificaciones serán autorizadas por el Municipio en coordinación con la SEPLAPDE, siempre y cuando se respete el lote tipo del fraccionamiento autorizado, así como los usos o destinos del suelo y el tipo de fraccionamiento que le sean aplicables.
+Las relotificaciones serán autorizadas por el Municipio en coordinación con la SEPLADE, siempre y cuando se respete el lote tipo del fraccionamiento autorizado, así como los usos o destinos del suelo y el tipo de fraccionamiento que le sean aplicables.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 555.
 
-Cualquier solicitud de relotificación parcial o total que implique la modificación, creación o cancelación de vías públicas clasificadas como colectoras o de mayor jerarquía, o no cumpla con lo señalado en el ARTÍCULO anterior, deberá considerarse como una modificación al fraccionamiento y por ende será competencia del Consejo Estatal, quien resolverá lo conducente.
+Cualquier solicitud de relotificación parcial o total que implique la modificación, creación o cancelación de vías públicas clasificadas como colectoras o de mayor jerarquía, o no cumpla con lo señalado en el artículo anterior, deberá considerarse como una modificación al fraccionamiento y por ende será competencia del Consejo Estatal, quien resolverá lo conducente.
 
-En caso de que el Municipio y la SEPLAPDE difieran sobre la procedencia de la relotificación, esta deberá someterse a la consideración y resolución del Consejo Estatal.
+En caso de que el Municipio y la SEPLADE difieran sobre la procedencia de la relotificación, esta deberá someterse a la consideración y resolución del Consejo Estatal.
 
 ###### ARTÍCULO 556.
 
@@ -6583,17 +7127,23 @@ En caso de que la relotificación incremente el número de lotes inicialmente au
 
 El solicitante de una relotificación efectuará a su costa las adecuaciones en la infraestructura, equipamiento y redes de servicios públicos necesarias para atender la demanda adicional que se genere, así como cubrir los derechos de conexión.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 559.
 
-Recibida la solicitud de relotificación e integrado el expediente, el Municipio solicitará opinión a la SEPLAPDE, que en el plazo de 10 días hábiles deberá emitirla. En caso de no responder se entenderá que está de acuerdo con la misma.
+Recibida la solicitud de relotificación e integrado el expediente, el Municipio solicitará opinión a la SEPLADE, que en el plazo de 10 días hábiles deberá emitirla. En caso de no responder se entenderá que está de acuerdo con la misma.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 560.
 
-Autorizada la relotificación, se procederá a firmar conjuntamente, por parte del Municipio y la SEPLAPDE un plano general actualizado de lotificación del fraccionamiento, que incluya la modificación parcial o total.
+Autorizada la relotificación, se procederá a firmar conjuntamente, por parte del Municipio y la SEPLADE un plano general actualizado de lotificación del fraccionamiento, que incluya la modificación parcial o total.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 561.
 
-El Municipio posterior a la autorización de la relotificación, deberá remitir al Registro Público y al Instituto Catastral del Estado, copia certificada o bien, se enviará vía electrónica el formato vectorial, el plano general de lotificación y memorias descriptivas de los lotes modificados. El Municipio y la SEPLAPDE deberán cancelar los planos que existieran autorizados con anterioridad y que se hayan modificado por la relotificación autorizada.
+El Municipio posterior a la autorización de la relotificación, deberá remitir al Instituto Registral y Catastral, copia certificada o bien, se enviará vía electrónica el formato vectorial, el plano general de lotificación y memorias descriptivas de los lotes modificados. El Municipio y la SEPLADE deberán cancelar los planos que existieran autorizados con anterioridad y que se hayan modificado por la relotificación autorizada.
 
 #### Sección Segunda. Fusiones y Subdivisiones
 
@@ -6609,9 +7159,11 @@ III.- Las que se ubiquen dentro de predios rurales o rústicos que no sean de or
 
 IV.- Las que estén relacionadas con un presente o futuro asentamiento humano.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 563.
 
-Las fusiones y subdivisiones que se autoricen o realicen en contravención de lo dispuesto en este Código no podrán surtir efectos ni inscribirse ante la autoridad competente en materia catastral y en el Registro Público.
+Las fusiones y subdivisiones que se autoricen o realicen en contravención de lo dispuesto en este Código no podrán surtir efectos ni inscribirse en el Instituto Registral y Catastral.
 
 ###### ARTÍCULO 564.
 
@@ -6621,7 +7173,9 @@ Las fusiones y subdivisiones de predios rústicos se regirán por este Código, 
 
 La autorización de las subdivisiones de predios urbanos, deberá apegarse a los siguientes criterios:
 
-I.- Las solicitudes que se refieran a predios urbanos de 10,000.00 metros cuadrados o más, serán autorizadas por el Municipio, siempre y cuando tenga por escrito la opinión favorable de la SEPLAPDE;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+I.- Las solicitudes que se refieran a predios urbanos de 10,000.00 metros cuadrados o más, serán autorizadas por el Municipio, siempre y cuando tenga por escrito la opinión favorable de la SEPLADE;
 
 II.- En aquellos casos que una subdivisión requiera la apertura de una o más vías públicas o introducción de servicios públicos básicos, se les dará el tratamiento correspondiente a los fraccionamientos y por ende serán autorizadas por el Consejo Estatal, salvo lo dispuesto en este Código;
 
@@ -6635,13 +7189,23 @@ VI.- Cuando alguno de los lotes no tenga acceso directo a una vía pública auto
 
 VII.- Se autorizarán las subdivisiones de lotes o predios, siempre y cuando no se sature o afecte la capacidad instalada del equipamiento e infraestructura existentes de las redes de agua potable, alcantarillado y electrificación, del fraccionamiento, colonia, barrio o sector correspondiente.
 
-La SEPLAPDE para emitir la opinión a que se refiere la fracción I de este ARTÍCULO, contará con un plazo de 10 días hábiles, a partir de que recibió el expediente debidamente integrado, si en ese plazo no dio respuesta al Municipio o no pidió una prórroga razonable, el Municipio procederá a resolver sobre esa solicitud conforme resulte procedente y bajo su responsabilidad correspondiente.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+La SEPLADE para emitir la opinión a que se refiere la fracción I de este artículo, contará con un plazo de 10 días hábiles, a partir de que recibió el expediente debidamente integrado, si en ese plazo no dio respuesta al Municipio o no pidió una prórroga razonable, el Municipio procederá a resolver sobre esa solicitud conforme resulte procedente y bajo su responsabilidad correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 566.
 
-La autorización de subdivisiones de predios urbanos o en zonas de crecimiento que tengan como finalidad generar macrolotes, contemplando vialidades públicas o de uso común, sin la ejecución de obras de urbanización en toda su superficie; sino en su caso y sin ser un requisito, únicamente obras de infraestructura primaria básica en alguna de sus vialidades, sin la dotación de equipamiento urbano y servicios públicos, serán autorizadas por los Municipios en coordinación con la SEPLAPDE, sin que los promotores tengan la obligación de otorgar áreas de donación al Municipio respectivo. Para ese fin el Municipio solicitará la opinión a la SEPLAPDE, quien la deberá emitir por escrito dentro del plazo de 10 días hábiles, una vez que estuviera integrado el expediente respectivo; y en caso de no emitirla dentro de ese plazo o no haber pedido una prórroga razonable, se entenderá que no existe inconveniente para que la solicitud la resuelva el Municipio, conforme resulte procedente.
+La autorización de subdivisiones de predios urbanos o en zonas de crecimiento que tengan como finalidad generar macrolotes, contemplando vialidades públicas o de uso común, sin la ejecución de obras de urbanización en toda su superficie; sino en su caso y sin ser un requisito, únicamente obras de infraestructura primaria básica en alguna de sus vialidades, sin la dotación de equipamiento urbano y servicios públicos, serán autorizadas por los Municipios en coordinación con la SEPLADE, sin que los promotores tengan la obligación de otorgar áreas de donación al Municipio respectivo. Para ese fin el Municipio solicitará la opinión a la SEPLADE, quien la deberá emitir por escrito dentro del plazo de 10 días hábiles, una vez que estuviera integrado el expediente respectivo; y en caso de no emitirla dentro de ese plazo o no haber pedido una prórroga razonable, se entenderá que no existe inconveniente para que la solicitud la resuelva el Municipio, conforme resulte procedente.
 
 Una vez, que respecto de esos macrolotes se obtenga la autorización de un fraccionamiento, condominio o desarrollo inmobiliario especial, el fraccionador o promotor correspondiente estará obligado a otorgar áreas de donación al Municipio, ejecutar a su cargo obras de urbanización y la dotación de equipamiento urbano, conforme se determine en la autorización respectiva. Estas obligaciones deberán establecerse en la escritura de protocolización de la subdivisión autorizada y en las escrituras traslativas de dominio correspondientes, así como realizarse las anotaciones en el Catastro, el Registro Público y en el Municipio respectivo, a fin de garantizar en su momento el cumplimiento de esas obligaciones.
+
+> <small>[N. DE E. ESTE PÁRRAFO ES SIMILAR A LA ÚLTIMA PARTE DEL SEGUNDO PÁRRAFO, VÉASE PÁGINAS DE LA 44 A LA 45 DEL DECRETO DE REFORMAS 564, DE 22 DE ENERO DE 2024.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ENERO DE 2024)</small>
+
+Estas obligaciones deberán establecerse en la escritura de protocolización de la subdivisión autorizada y en las escrituras traslativas de dominio correspondientes, así como realizarse las anotaciones en el Instituto Registral y Catastral y en el Municipio respectivo, a fin de garantizar en su momento el cumplimiento de esas obligaciones.
 
 Si el macrolote resultante se destina exclusivamente para construir equipamiento urbano público o privado y no a la venta de lotes o predios, tampoco se requerirá otorgar donación al Municipio de la ubicación del inmueble.
 
@@ -6657,7 +7221,9 @@ III.- No podrá autorizarse la subdivisión en caso que el predio que se pretend
 
 IV.- En caso que la subdivisión implique más de cinco porciones, el solicitante deberá presentar una justificación en la que manifieste los motivos de subdividir el predio; el Municipio verificará los antecedentes históricos de la subdivisión del predio, y en caso de que los predios a subdividir se pretendan comercializar se le dará el tratamiento de fraccionamiento.
 
-El Municipio deberá remitir una copia certificada o firma electrónica de la autorización de subdivisión o fusión a la SEPLAPDE y al Instituto Catastral.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+El Municipio deberá remitir una copia certificada o firma electrónica de la autorización de subdivisión o fusión a la SEPLADE y al Instituto Registral y Catastral.
 
 ###### ARTÍCULO 568.
 
@@ -6679,9 +7245,9 @@ En el caso de solicitudes de subdivisiones relativas a fracciones en que se haya
 
 La autorización de las subdivisiones de predios rústicos, deberá apegarse a los siguientes criterios:
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-I.- En predios rústicos las fracciones resultantes serán como mínimo de 10,000.00 metros cuadrados, siempre que exista servidumbre o camino parcelario registrado ante la autoridad debidamente señalado e identificado en el título de propiedad o escritura respectiva. Si el predio no cuenta con un acceso, vialidad o servidumbre legal de paso, deberá presentar la constitución de la misma ante notario público y debidamente inscrita en las Direcciones Generales del Registro Público y de Catastro del Instituto Registral y Catastral;
+I.- En predios rústicos las fracciones resultantes serán como mínimo de 10,000.00 metros cuadrados, siempre que exista servidumbre o camino parcelario registrado ante la autoridad debidamente señalado e identificado en el título de propiedad o escritura respectiva. Si el predio no cuenta con un acceso, vialidad o servidumbre legal de paso, deberá presentar la constitución de la misma ante notario público y debidamente inscrita en el Instituto Registral y Catastral;
 
 II.- Por cada 5 hectáreas del predio objeto de la solicitud, se podrán subdividir hasta en 4 fracciones, considerando frentes no mínimos de 30 metros y servidumbres de paso con una sección no mínima de 12 metros.
 
@@ -6693,13 +7259,13 @@ IV.- Sólo se permitirá la construcción relacionada con el uso o destino de su
 
 V.- El porcentaje de construcción máxima para fines habitacionales no deberá ser mayor del 5% de la superficie de cada fracción, con una densidad máxima de una vivienda y 5% de servicios inherentes al uso de suelo autorizado por hectárea. Los frentes mínimos o accesos tendrán una dimensión no menor de 30 metros hacia una vía pública, camino o servidumbre constituida que en ningún caso se aceptará en una sección o anchura menor a 12 metros; y
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-VI. Para efecto de que el Municipio autoricé la subdivisión, deberá solicitar a la SEPLADE la opinión correspondiente, quien dentro del plazo de 10 días hábiles deberá emitirla. En caso de no responder se entenderá que está de acuerdo con la misma.
+VI.- Para efecto de que el Municipio autoricé la subdivisión, deberá solicitar a la SEPLADE la opinión correspondiente, quien dentro del plazo de 10 días hábiles deberá emitirla. En caso de no responder se entenderá que está de acuerdo con la misma.
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
-En caso de que la opinión de la SEPLADE sea negativa, el Catastro y el Registro Público se abstendrán de autorizar el registro de las escrituras respectivas, así como la asignación de claves catastrales.
+En caso de que la opinión de la SEPLADE sea negativa, el Instituto Registral y Catastral se abstendrá de autorizar el registro de las escrituras respectivas, así como la asignación de cuentas catastrales.
 
 ###### ARTÍCULO 571.
 
@@ -6715,21 +7281,31 @@ En estos predios se permitirá la construcción habitacional, comercial o de ser
 
 I.- Las autoridades competentes en materia ambiental, determinen que es viable la construcción a través del procedimiento de evaluación de impacto ambiental emitido por la SSMAA, en el cual se deberá atender que no exista conflicto ambiental;
 
-II.- De acuerdo a la evaluación de impacto ambiental referida en la fracción anterior, la SSMAA en coordinación con la SEPLAPDE y el Municipio, establecerán la ubicación de construcción para fines habitacionales, comerciales o de servicios, mismo que no será mayor del 1% del COS y con un CUS del 0,01 de la superficie de cada fracción; y
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+II.- De acuerdo a la evaluación de impacto ambiental referida en la fracción anterior, la SSMAA en coordinación con la SEPLADE y el Municipio, establecerán la ubicación de construcción para fines habitacionales, comerciales o de servicios, mismo que no será mayor del 1% del COS y con un CUS del 0,01 de la superficie de cada fracción; y
 
 III.- La superficie de cada predio destinada a fines habitacionales, comerciales o de servicios, no podrá subdividirse ni constituirse en copropiedad dentro del polígono que ampare el correspondiente título de propiedad, salvo que se trate de herencias o legados en los términos de lo indicado en este Código.
 
-IV.- Para efecto de que el Municipio autorice la subdivisión, deberá solicitar a la SEPLAPDE la opinión correspondiente, la que dentro del plazo de 10 días hábiles deberá emitirla. En caso de no responder se entenderá que está de acuerdo con la misma.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-En caso de que la opinión de la SEPLAPDE sea negativa, el Catastro y el Registro Público se abstendrán de autorizar el registro de las escrituras respectivas, así como la asignación de cuentas catastrales.
+IV.- Para efecto de que el Municipio autorice la subdivisión, deberá solicitar a la SEPLADE la opinión correspondiente, la que dentro del plazo de 10 días hábiles deberá emitirla. En caso de no responder se entenderá que está de acuerdo con la misma.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+En caso de que la opinión de la SEPLADE sea negativa, el Instituto Registral y Catastral se abstendrá de autorizar el registro de las escrituras respectivas, así como la asignación de cuentas catastrales.
 
 ###### ARTÍCULO 573.
 
 En predios dentro de las áreas naturales protegidas la subdivisión y construcción en los mismos, estará regida por lo que determine este Código, la legislación ambiental y forestal, el decreto de creación y el programa de manejo integral correspondiente.
 
-Para que el Municipio autorice la subdivisión, deberá solicitar a la SEPLAPDE la opinión correspondiente, la que dentro del plazo de 10 días hábiles deberá emitirla. En caso de no responder se entenderá que está de acuerdo con la misma.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
-En caso de que la opinión de la SEPLAPDE sea negativa, el Catastro y el Registro Público se abstendrán de autorizar el registro de las escrituras respectivas, así como la asignación de cuentas catastrales.
+Para que el Municipio autorice la subdivisión, deberá solicitar a la SEPLADE la opinión correspondiente, la que dentro del plazo de 10 días hábiles deberá emitirla. En caso de no responder se entenderá que está de acuerdo con la misma.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+En caso de que la opinión de la SEPLADE sea negativa, el Instituto Registral y Catastral se abstendrá de autorizar el registro de las escrituras respectivas, así como la asignación de cuentas catastrales.
 
 ###### ARTÍCULO 574.
 
@@ -6747,11 +7323,15 @@ IV.- Obtener licencia de construcción para el fin de ejecutar las obras de urba
 
 V.- Para el efecto de que se municipalicen las subdivisiones, su promotor deberá cumplir con lo señalado en la autorización de la subdivisión.
 
-A toda situación no prevista en este ARTÍCULO, le será aplicable la normatividad señalada para los fraccionamientos.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+A toda situación no prevista en este artículo, le será aplicable la normatividad señalada para los fraccionamientos.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 575.
 
-Los Municipios, de conformidad con los lineamientos que emita la SEPLAPDE, podrán autorizar subdivisiones de predios urbanos y suburbanos mayores de 10,000.00 metros cuadrados, cuando éstas se deriven de afectaciones o restricciones para la ejecución de obras públicas, o debido a las características que requiera la urbanización del centro de población que corresponda y que estén apegados a lo establecido en los programas aplicables. En este caso el Municipio solicitará a la SEPLAPDE la apertura de cuentas catastrales y la inscripción de los actos jurídicos en el Registro Público.
+Los Municipios, de conformidad con los lineamientos que emita la SEPLADE, podrán autorizar subdivisiones de predios urbanos y suburbanos mayores de 10,000.00 metros cuadrados, cuando éstas se deriven de afectaciones o restricciones para la ejecución de obras públicas, o debido a las características que requiera la urbanización del centro de población que corresponda y que estén apegados a lo establecido en los programas aplicables. En este caso el Municipio solicitará a la SEPLADE la apertura de cuentas catastrales y la inscripción de los actos jurídicos en el Instituto Registral y Catastral.
 
 ###### ARTÍCULO 576.
 
@@ -6771,9 +7351,9 @@ IV.- Cédula única catastral electrónica;
 
 V.- Constancia de no adeudo del impuesto a la propiedad raíz;
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-VI.- Para predios urbanos o rústicos de hasta 10,000.00 metros cuadrados, la solicitud deberá ir acompañada de plano catastral certificado, expedido por el Instituto Registral y Catastral, georreferenciado con coordenadas UTM; para el caso de aquellos en los que la Dirección General de Catastro detecte que existen controversias y/o variaciones cartográficas que se contraponen con la documentación administrativa y las escrituras debidamente inscritas del o los predios objeto de la autorización, será necesario realizar levantamiento topográfico catastral con fecha de expedición no mayor a un año y que no presente traslapes y/o invasiones.
+VI.- Para predios urbanos o rústicos de hasta 10,000.00 metros cuadrados, la solicitud deberá ir acompañada de plano catastral certificado, expedido por el Instituto Registral y Catastral, georreferenciado con coordenadas UTM; para el caso de aquellos en los que el Instituto Registral y Catastral detecte que existen controversias y/o variaciones cartográficas que se contraponen con la documentación administrativa y las escrituras debidamente inscritas del o los predios objeto de la autorización, será necesario realizar levantamiento topográfico catastral con fecha de expedición no mayor a un año y que no presente traslapes y/o invasiones.
 
 VII.- Plano digital en formato vectorial de la fusión o subdivisión que se pretenda realizar georreferenciado con coordenadas UTM;
 
@@ -6815,35 +7395,49 @@ Será nulo de pleno derecho cualquier acto, contrato o convenio contrario a esta
 
 El Municipio o la autoridad competente, sólo autorizará la construcción en áreas, lotes y predios provenientes, cuando estos provengan de relotificaciones, fusiones o subdivisiones, una vez que estas hayan sido autorizadas.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 582.
 
-Los Municipios se coordinarán con la SEPLAPDE y la autoridad competente en materia catastral, a efecto de clasificar los fraccionamientos, condominios, áreas, barrios y colonias existentes en el territorio del Estado, para determinar el tipo y la procedencia de las subdivisiones y fusiones que se les soliciten, tomando en cuenta la zonificación prevista en los programas aplicables y lo dispuesto en este Código.
+Los Municipios se coordinarán con la SEPLADE y la autoridad competente en materia catastral, a efecto de clasificar los fraccionamientos, condominios, áreas, barrios y colonias existentes en el territorio del Estado, para determinar el tipo y la procedencia de las subdivisiones y fusiones que se les soliciten, tomando en cuenta la zonificación prevista en los programas aplicables y lo dispuesto en este Código.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 583.
 
-Toda fusión o subdivisión de predios deberá protocolizarse en la totalidad de sus fracciones mediante escritura pública, en un plazo no mayor a 1 año a partir de su autorización, debiéndose notificar dicha protocolización al Municipio respectivo y al Instituto Catastral mediante los formatos oficiales e inscribirse en el Registro Público; en caso contrario quedará sin efectos dicha autorización y serán nulas de pleno derecho toda operación inmobiliaria que se derive de la misma.
+Toda fusión o subdivisión de predios deberá protocolizarse en la totalidad de sus fracciones mediante escritura pública, en un plazo no mayor a 1 año a partir de su autorización, debiéndose notificar dicha protocolización al Municipio respectivo y al Instituto Registral y Catastral mediante los formatos oficiales e inscribirse en dicho Instituto; en caso contrario quedará sin efectos dicha autorización y serán nulas de pleno derecho toda operación inmobiliaria que se derive de la misma.
 
 Transcurrido el plazo señalado en el párrafo anterior, la autorización de fusión y subdivisión no tendrá validez alguna, sin que se requiera declaración administrativa o judicial, conforme a lo previsto en la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
 
-En caso de que el Municipio o la SEPLAPDE tengan conocimiento de que existe una discontinuidad o falla geológica en las áreas, lotes o predios que se pretendan fusionar o subdividir, deberá referirlo en la autorización respectiva.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+En caso de que el Municipio o la SEPLADE tengan conocimiento de que existe una discontinuidad o falla geológica en las áreas, lotes o predios que se pretendan fusionar o subdividir, deberá referirlo en la autorización respectiva.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 584.
 
-No se autorizará una nueva subdivisión o fusión de áreas, lotes o predios, sin que previamente se hubiere protocolizado en escritura pública la totalidad de las fracciones previamente autorizadas y que involucren el o los predios originales objeto de la nueva solicitud y se haya inscrito ante el Instituto Catastral y en el Registro Público.
+No se autorizará una nueva subdivisión o fusión de áreas, lotes o predios, sin que previamente se hubiere protocolizado en escritura pública la totalidad de las fracciones previamente autorizadas y que involucren el o los predios originales objeto de la nueva solicitud y se haya inscrito ante el Instituto Registral y Catastral.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 585.
 
-La SEPLAPDE podrá solicitar al Municipio la corrección de una autorización de fusión y subdivisión, cuando detecte que presenta errores en las medidas de las superficies y colindancias.
+La SEPLADE podrá solicitar al Municipio la corrección de una autorización de fusión y subdivisión, cuando detecte que presenta errores en las medidas de las superficies y colindancias.
 
-El Municipio se coordinará con el promotor de esa autorización para que se hagan las rectificaciones respectivas, se protocolicen en escritura pública y se inscriban ante el Instituto Catastral y ante el Registro Público.
+El Municipio se coordinará con el promotor de esa autorización para que se hagan las rectificaciones respectivas, se protocolicen en escritura pública y se inscriban ante el Instituto Registral y Catastral.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 586.
 
-Las resoluciones judiciales que determinen la subdivisión o fusión de áreas, lotes y predios para efecto de que procedan, deberán obtenerse las autorizaciones municipales correspondientes y formalizarse en escritura pública, tramitarse ante el Instituto Catastral e inscribirse en el Registro Público, cumpliendo con lo dispuesto en este Código.
+Las resoluciones judiciales que determinen la subdivisión o fusión de áreas, lotes y predios para efecto de que procedan, deberán obtenerse las autorizaciones municipales correspondientes y formalizarse en escritura pública, tramitarse ante el Instituto Registral y Catastral e inscribirse en dicho Instituto, cumpliendo con lo dispuesto en este Código.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 587.
 
-No se podrá inscribir ningún acto, contrato, convenio o afectación en el Registro Público, ni en el Catastro, cuando se contravenga lo dispuesto en este apartado o no se cuente con la opinión favorable de la SEPLAPDE, en los casos que se requiere de la misma, conforme a lo dispuesto en este Código.
+No se podrá inscribir ningún acto, contrato, convenio o afectación en él, cuando se contravenga lo dispuesto en este apartado o no se cuente con la (sic) Instituto Registral y Catastral opinión favorable de la SEPLADE, en los casos que se requiere de la misma, conforme a lo dispuesto en este Código.
 
 ## TÍTULO OCTAVO. LA VIVIENDA
 
@@ -6895,9 +7489,11 @@ Comprende la reparación y remodelación de pisos, muros y estructura en general
 
 La vivienda rural es aquella cuyas características deben ser congruentes con las condiciones económicas y sociales, de la región o comunidad rural a la que corresponda, deberán ser reconocidas y atendidas sus características culturales respetando sus formas de asentamiento territorial y favoreciendo los sistemas constructivos con el entorno bioclimático, tanto las que prevalecen globalmente como las que se presenten de manera específica en cada microrregión.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 594.
 
-El IVSOP en coordinación con la SEPLAPDE y los Municipios respectivos deberán apoyar la construcción de vivienda para la población rural en el Estado, mediante el desarrollo de lineamientos jurídicos, programáticos, financieros, administrativos y de fomento habitacional.
+El IVSOP en coordinación con la SEPLADE y los Municipios respectivos deberán apoyar la construcción de vivienda para la población rural en el Estado, mediante el desarrollo de lineamientos jurídicos, programáticos, financieros, administrativos y de fomento habitacional.
 
 ###### ARTÍCULO 595.
 
@@ -6977,17 +7573,21 @@ II. Los programas municipales de vivienda; y
 
 III. Los programas operativos anuales, que elaboren conjuntamente el IVSOP y las demás dependencias y entidades paraestatales de la Administración Pública Estatal relacionadas con la vivienda, a fin de regular la ejecución de las acciones habitacionales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 607.
 
-El Programa Estatal de Vivienda, como programa sectorial derivado del Plan de Desarrollo del Estado, será elaborado por la SEPLAPDE en coordinación con el IVSOP y el Consejo Estatal.
+El Programa Estatal de Vivienda, como programa sectorial derivado del Plan de Desarrollo del Estado, será elaborado por la SEPLADE en coordinación con el IVSOP y el Consejo Estatal.
 
 El Programa Estatal de Vivienda tendrá una visión de mediano y largo plazo, que permita la continuidad de las políticas y programas en la materia, más allá de los periodos de los gobiernos Estatal y Municipal. Se tomarán en consideración para la elaboración de la política y los programas de vivienda, las propuestas que formulen los sectores privado y social, a través de las comisiones.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 608.
 
-La SEPLAPDE y el IVSOP conjuntamente someterán a la consideración del Titular del Ejecutivo Estatal el Programa Estatal de Vivienda, y una vez que este lo apruebe, deberá publicarse en el Periódico Oficial del Estado y una versión abreviada en un diario de mayor circulación en el Estado.
+La SEPLADE y el IVSOP conjuntamente someterán a la consideración del Titular del Ejecutivo Estatal el Programa Estatal de Vivienda, y una vez que este lo apruebe, deberá publicarse en el Periódico Oficial del Estado y una versión abreviada en un diario de mayor circulación en el Estado.
 
-La versión completa de dicho programa deberá ponerse a disposición para la consulta del público, además de inscribirse en el Registro Público.
+La versión completa de dicho programa deberá ponerse a disposición para la consulta del público, además de inscribirse en el Instituto Registral y Catastral.
 
 ###### ARTÍCULO 609.
 
@@ -7067,9 +7667,11 @@ Los programas estatal y municipal de vivienda, una vez aprobados y publicados, s
 
 El Programa Estatal de Vivienda, estará sujeto a un proceso permanente de control, evaluación y seguimiento por parte del IVSOP.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 614.
 
-Los programas operativos anuales de vivienda, que elaboren conjuntamente el IVSOP en coordinación con la SEPLAPDE y las demás dependencias y entidades de la administración pública estatal y municipal relacionadas con la vivienda, a fin de regular la ejecución de las acciones habitacionales, deberán contener:
+Los programas operativos anuales de vivienda, que elaboren conjuntamente el IVSOP en coordinación con la SEPLADE y las demás dependencias y entidades de la administración pública estatal y municipal relacionadas con la vivienda, a fin de regular la ejecución de las acciones habitacionales, deberán contener:
 
 I. La vinculación de estos programas con los objetivos y metas previstos en el Plan Sexenal de Gobierno del Estado, en el Programa Estatal de Vivienda y los programas municipales de vivienda;
 
@@ -7361,17 +7963,21 @@ El IVSOP tendrá un padrón único de beneficiarios, que se conformará con base
 
 En los conjuntos habitacionales, ya sean fraccionamientos, condominios o desarrollos inmobiliarios especiales, construidos o financiados por dependencias y entidades federales, estatales o municipales, ninguna persona por sí o por interposición de terceros, podrá adquirir la propiedad o posesión de un lote, predio, departamento o vivienda, siendo propietario de algún inmueble ubicado en el centro de población donde se encuentre dicho conjunto habitacional, ni tampoco persona alguna, podrá adquirir más de un lote o vivienda en los mismos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 635.
 
-Tratándose de fraccionamientos y condominios señalados en el ARTÍCULO anterior, en los contratos que se celebren con motivo de la enajenación de sus lotes, predios, departamentos o viviendas, deberá estipularse que el beneficiario ocupará ininterrumpidamente por 5 años el lote, predio, departamento o vivienda asignada, contados a partir de la celebración del contrato respectivo, por lo que durante dicho plazo, no podrá enajenar, arrendar o transmitir sus derechos, salvo autorización expresa en contrario, otorgada por la autoridad competente, quien indicará a la persona que reúna los mismos requisitos y condiciones establecidas para la enajenación de lotes, predios, departamentos o viviendas de ese tipo.
+Tratándose de fraccionamientos y condominios señalados en el artículo anterior, en los contratos que se celebren con motivo de la enajenación de sus lotes, predios, departamentos o viviendas, deberá estipularse que el beneficiario ocupará ininterrumpidamente por 5 años el lote, predio, departamento o vivienda asignada, contados a partir de la celebración del contrato respectivo, por lo que durante dicho plazo, no podrá enajenar, arrendar o transmitir sus derechos, salvo autorización expresa en contrario, otorgada por la autoridad competente, quien indicará a la persona que reúna los mismos requisitos y condiciones establecidas para la enajenación de lotes, predios, departamentos o viviendas de ese tipo.
 
 En caso de enajenación o cesión de derechos de un lote o vivienda tratándose de aquellos financiados por organismos estatales o municipales o cualquier fraccionamiento o desarrollo en que se hubiere otorgado algún tipo de subsidio por parte de la autoridad federal estatal o municipal; el enajenante o cedente deberá notificar en primer término al organismo que financió o construyó el desarrollo respectivo, y en segundo lugar al IVSOP por medio de notario público o judicialmente, con expresión del precio ofrecido el cual no podrá ser mayor al precio del inmueble pactado en el contrato de compraventa inicial más la debida actualización acorde a los incrementos presentados en la UMA, en caso de que el precio se hubiere pactado en salarios mínimos o en su defecto acorde al índice inflacionario correspondiente y demás condiciones de la operación, a efecto de que, dentro de los 10 días naturales siguientes, manifieste si hace uso del derecho de preferencia al tanto.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 636.
 
-En los conjuntos habitacionales a que se refieren los Artículos anteriores, serán nulas y no producirán efecto jurídico alguno, las transmisiones de lotes, predios, departamentos o viviendas que se celebren contraviniendo las disposiciones de este Código.
+En los conjuntos habitacionales a que se refieren los artículos anteriores, serán nulas y no producirán efecto jurídico alguno, las transmisiones de lotes, predios, departamentos o viviendas que se celebren contraviniendo las disposiciones de este Código.
 
-En todo caso, los notarios públicos y demás fedatarios, así como el Registro Público y la autoridad competente en materia catastral, se abstendrán de dar trámite a documentos, contratos o convenios, que contravengan las citadas disposiciones.
+En todo caso, los notarios públicos y demás fedatarios, así como el Instituto Registral y Catastral y la autoridad competente en materia catastral, se abstendrán de dar trámite a documentos, contratos o convenios, que contravengan las citadas disposiciones.
 
 ###### ARTÍCULO 637.
 
@@ -7453,15 +8059,19 @@ IX. Impulsar y desarrollar modelos educativos para formar especialistas en vivie
 
 X. Las demás acciones que acuerden las partes para el cumplimiento de este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 647.
 
-Para el cumplimiento de los fines citados en el ARTÍCULO anterior, el Titular del Ejecutivo Estatal y los Municipios, aportarán en la medida de sus posibilidades, de acuerdo a sus atribuciones, los instrumentos jurídicos respectivos, reservas territoriales, recursos técnicos, financieros y humanos, para llevar a cabo acciones de vivienda.
+Para el cumplimiento de los fines citados en el artículo anterior, el Titular del Ejecutivo Estatal y los Municipios, aportarán en la medida de sus posibilidades de acuerdo a sus atribuciones, los instrumentos jurídicos respectivos, reservas territoriales, recursos técnicos, financieros y humanos, para llevar a cabo acciones de vivienda.
 
 El IVSOP promoverá las acciones para atraer la inversión de las dependencias y organismos nacionales de vivienda, así como de las instituciones de crédito, organismos que apoyen acciones de vivienda, de la iniciativa privada y del sector social para apoyar el proceso habitacional en el Estado.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 648.
 
-La participación de los promotores privados en los programas de vivienda que realice o promueva el Estado, estará sujeta a la coordinación, supervisión y certificación del IVSOP y en su caso la SEPLAPDE, la cual dictará las normas para la ejecución de obras e inversiones, incluyendo las de urbanización y contratación correspondientes, así como los requisitos y trámites, y el registro de los promotores, en observancia de las disposiciones vigentes.
+La participación de los promotores privados en los programas de vivienda que realice o promueva el Estado, estará sujeta a la coordinación, supervisión y certificación del IVSOP y en su caso la SEPLADE, la cual dictará las normas para la ejecución de obras e inversiones, incluyendo las de urbanización y contratación correspondientes, así como los requisitos y trámites, y el registro de los promotores, en observancia de las disposiciones vigentes.
 
 #### Sección Sexta. Suelo para la Vivienda
 
@@ -7487,9 +8097,11 @@ VII. Prioridad en la asignación de los recursos públicos disponibles.
 
 El Consejo Estatal promoverá programas, acciones y estímulos que induzcan la colaboración y coordinación con el gobierno federal y los Municipios, así como la participación de propietarios, promotores, desarrolladores y usuarios para generar o reutilizar suelo con oportunidad, calidad y servicios, preferentemente para beneficio de la población en situación de pobreza, riesgo o vulnerabilidad y de los productores sociales de vivienda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 651.
 
-La SEPLAPDE en coordinación con el IVSOP, de acuerdo con lo previsto en este Código, realizará estudios que determinen los requerimientos de tierra urbana para vivienda, a efecto de desarrollar y operar el Programa Estatal de Suelo y Reservas Territoriales.
+La SEPLADE en coordinación con el IVSOP, de acuerdo con lo previsto en este Código, realizará estudios que determinen los requerimientos de tierra urbana para vivienda, a efecto de desarrollar y operar el Programa Estatal de Suelo y Reservas Territoriales.
 
 Estos estudios tomarán en cuenta las necesidades presentes y futuras y conforme a estas previsiones, se harán los programas de adquisición o incorporación de tierra específicos sin contravenir lo establecido en los programas de desarrollo urbano y ordenamiento del territorio aplicables.
 
@@ -7501,7 +8113,9 @@ El Consejo Estatal promoverá ante los organismos financieros de vivienda que so
 
 El IVSOP podrá adquirir predios para destinarse a programas de vivienda social bajo las siguientes condiciones:
 
-I. Respetar los programas y disposiciones locales que regulan el uso del suelo, atendiendo las observaciones que le formule la SEPLAPDE, como dependencia normativa;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+I. Respetar los programas y disposiciones locales que regulan el uso del suelo, atendiendo las observaciones que le formule la SEPLADE, como dependencia normativa;
 
 II. Evaluar la disponibilidad de infraestructura, equipamiento y servicios públicos en los lotes o predios de que se trate; y
 
@@ -7559,7 +8173,9 @@ Para la investigación y desarrollo de la innovación tecnológica en materia de
 
 Se deberá crear el Sistema Estatal de Información e Indicadores de Vivienda, el cual tendrá por objeto integrar, generar y difundir oportunamente la información que se requiera para la adecuada planeación, instrumentación y seguimiento de las políticas estatales de vivienda.
 
-El IVSOP en coordinación con la SEPLAPDE, integrará y administrará el Sistema Estatal de Información e Indicadores de Vivienda, el cual se sujetará, en lo conducente, a las disposiciones previstas en este Código y se conformará con la información que proporcionen las dependencias y entidades de la administración pública federal, estatal y municipal, así como las organizaciones sociales y privadas, en aspectos vinculados con la vivienda y el suelo para vivienda, así como la que permita identificar la evolución y crecimiento del mercado. Lo anterior con el objeto de contar con información suficiente para evaluar los efectos de la política habitacional.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+El IVSOP en coordinación con la SEPLADE, integrará y administrará el Sistema Estatal de Información e Indicadores de Vivienda, el cual se sujetará, en lo conducente, a las disposiciones previstas en este Código y se conformará con la información que proporcionen las dependencias y entidades de la administración pública federal, estatal y municipal, así como las organizaciones sociales y privadas, en aspectos vinculados con la vivienda y el suelo para vivienda, así como la que permita identificar la evolución y crecimiento del mercado. Lo anterior con el objeto de contar con información suficiente para evaluar los efectos de la política habitacional.
 
 ###### ARTÍCULO 661.
 
@@ -7573,9 +8189,11 @@ III. Evaluación de los productos habitacionales en términos de su ubicación e
 
 IV. Evaluación de los precios de suelo como medida de control para evitar su especulación y sus efectos en los programas habitacionales.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 662.
 
-El IVSOP en coordinación con la SEPLAPDE diseñará y promoverá mecanismos e instrumentos de difusión de la información que generen las instituciones públicas y privadas en materia de programas de vivienda, acciones y financiamiento para la vivienda, con el fin de que la población conozca las opciones que existen en materia habitacional.
+El IVSOP en coordinación con la SEPLADE diseñará y promoverá mecanismos e instrumentos de difusión de la información que generen las instituciones públicas y privadas en materia de programas de vivienda, acciones y financiamiento para la vivienda, con el fin de que la población conozca las opciones que existen en materia habitacional.
 
 ## TÍTULO NOVENO. PREVENCIÓN Y REDUCCIÓN DE RIESGOS EN LOS ASENTAMIENTOS HUMANOS
 
@@ -7627,9 +8245,11 @@ Es obligación del Gobierno del Estado y los Municipios asegurarse, previamente 
 
 Todas las acciones que impliquen la expansión del área urbana, para el fraccionamiento de predios o conjuntos habitacionales, para la subdivisión o parcelación de la tierra, para el cambio de usos del suelo o en autorizaciones de impacto ambiental, el Gobierno del Estado y los Municipios deberán asegurarse que no se ocupen áreas de alto riesgo, sin que se tomen las medidas de prevención correspondientes.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 670.
 
-La SEPLAPDE promoverá la emisión de las normas, lineamientos y manuales para fortalecer los procesos de resiliencia urbana y para las zonas metropolitanas. Asimismo, promoverá en los Municipios, la elaboración de guías de resiliencia urbana y metropolitana que permitan la identificación de riesgos y recursos para la recuperación de contingencias catastróficas.
+La SEPLADE promoverá la emisión de las normas, lineamientos y manuales para fortalecer los procesos de resiliencia urbana y para las zonas metropolitanas. Asimismo, promoverá en los Municipios, la elaboración de guías de resiliencia urbana y metropolitana que permitan la identificación de riesgos y recursos para la recuperación de contingencias catastróficas.
 
 #### Sección Segunda. Atlas de Riesgo
 
@@ -7661,9 +8281,11 @@ IX. Anexos.
 
 El ámbito espacial de validez de los atlas de riesgo preferentemente será congruente con las regiones establecidas por el Programa Estatal de Ordenamiento Ecológico y Territorial, así como el Programa Estatal de Desarrollo Urbano y Ordenamiento del Territorial, de no ser así se deberán mencionar las causas que motivaron esta situación.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 673.
 
-Los atlas de riesgo se elaborarán y consultarán conforme al procedimiento seguido para los programas de desarrollo urbano, según corresponda al espacio territorial que correspondan y se aprobarán mediante acuerdo conjunto del Estado y los Municipios, se publicarán en el Periódico Oficial del Estado y en las Gacetas Municipales, y se inscribirán en el Registro Público, adicionalmente estarán a la disposición del público en las instalaciones de la dependencia estatal y de los Municipios y serán accesibles a través de medios electrónicos.
+Los atlas de riesgo se elaborarán y consultarán conforme al procedimiento seguido para los programas de desarrollo urbano, según corresponda al espacio territorial que correspondan y se aprobarán mediante acuerdo conjunto del Estado y los Municipios, se publicarán en el Periódico Oficial del Estado y en las Gacetas Municipales, y se inscribirán en el Instituto Registral y Catastral, adicionalmente estarán a la disposición del público en las instalaciones de la dependencia estatal y de los Municipios y serán accesibles a través de medios electrónicos.
 
 ## TÍTULO DÉCIMO. INSTRUMENTOS NORMATIVOS Y DE CONTROL
 
@@ -7771,9 +8393,11 @@ IV. Los Consejos Municipales; y
 
 V. Los demás organismos consultivos contemplados en la legislación aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 681.
 
-Para efecto de integrar los organismos referidos en el ARTÍCULO anterior, el Gobierno del Estado y los Municipios llevarán a cabo lo siguiente:
+Para efecto de integrar los organismos referidos en el artículo anterior, el Gobierno del Estado y los Municipios llevarán a cabo lo siguiente:
 
 I. Convocarán a representantes de los colegios de profesionistas, cámaras, organizaciones obreras y de campesinos y productores agropecuarios, de las comunidades, instituciones educativas y asociaciones civiles sin fines de lucro, para que manifiesten su opinión y propuestas;
 
@@ -7943,7 +8567,9 @@ I. La construcción de la infraestructura, equipamiento e instalaciones necesari
 
 II. La electrificación de las áreas urbanas, y rurales que carezcan del servicio tanto para usos domésticos como industriales;
 
-III. La urbanización y dotación de infraestructura, equipamiento y servicios urbanos en los centros de población del Estado, con los tipos apropiados según la zona de que se trate y de acuerdo con los estudios que al efecto haga el Municipio, escuchando la opinión del Consejo Municipal o su equivalente del Municipio respectivo, o el Gobierno del Estado por conducto de la SEPLAPDE, no pudiéndose pavimentar ninguna calle hasta que hayan quedado concluidas las obras de las redes de agua, drenaje y embanquetado correspondientes;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+III. La urbanización y dotación de infraestructura, equipamiento y servicios urbanos en los centros de población del Estado, con los tipos apropiados según la zona de que se trate y de acuerdo con los estudios que al efecto haga el Municipio, escuchando la opinión del Consejo Municipal o su equivalente del Municipio respectivo, o el Gobierno del Estado por conducto de la SEPLADE, no pudiéndose pavimentar ninguna calle hasta que hayan quedado concluidas las obras de las redes de agua, drenaje y embanquetado correspondientes;
 
 IV. La construcción e instalación de la infraestructura necesaria para dotar de alumbrado público a los centros de población del Estado, o en su caso para el mejoramiento del ya existente; y
 
@@ -8001,9 +8627,11 @@ El Consejo Estatal o los Consejos Municipales, según corresponda, coadyuvarán 
 
 #### Sección Tercera. Dictamen y el Procedimiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 706.
 
-Una vez realizados los estudios técnicos correspondientes sobre los diversos aspectos de la obra, servicio, costo y repercusión, precios unitarios, bases para calcular la cuota que a cada cooperador corresponde y, en general, todos los aspectos relacionados a la obra o servicio como proyectos de contrato de obras, financiamiento y sus bases, el Municipio correspondiente escuchando la opinión de los Consejos Municipales, emitirá su dictamen. En el caso de que sea Gobierno del Estado, el titular de la realización de la obra u obras deberá tomar en cuenta la opinión de los consejos municipales por conducto de la SEPLAPDE, para emitir su dictamen respectivo.
+Una vez realizados los estudios técnicos correspondientes sobre los diversos aspectos de la obra, servicio, costo y repercusión, precios unitarios, bases para calcular la cuota que a cada cooperador corresponde y, en general, todos los aspectos relacionados a la obra o servicio como proyectos de contrato de obras, financiamiento y sus bases, el Municipio correspondiente escuchando la opinión de los Consejos Municipales, emitirá su dictamen. En el caso de que sea Gobierno del Estado, el titular de la realización de la obra u obras deberá tomar en cuenta la opinión de los consejos municipales por conducto de la SEPLADE, para emitir su dictamen respectivo.
 
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
@@ -8151,9 +8779,11 @@ VI. El costo de obras o servicios de infraestructura y equipamiento urbano que s
 
 Cuando la ley de ingresos estatal o municipal, según corresponda, ya establezca tarifas para el pago de derechos por la obra o servicio público de que se trate, cada propietario o poseedor, según corresponda, deberá realizar el pago a razón de dichas tarifas.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 723.
 
-Las cuotas que corresponda cubrir a los particulares beneficiados con las obras por cooperación, tendrán el carácter de créditos fiscales objetivos como gravámenes reales sobre los inmuebles respectivos, inscribiéndose en el Registro Público, sin costo alguno y se harán efectivos al vencerse los términos fijados en cada caso.
+Las cuotas que corresponda cubrir a los particulares beneficiados con las obras por cooperación, tendrán el carácter de créditos fiscales objetivos como gravámenes reales sobre los inmuebles respectivos, inscribiéndose en el Instituto Registral y Catastral, sin costo alguno y se harán efectivos al vencerse los términos fijados en cada caso.
 
 ###### ARTÍCULO 724.
 
@@ -8319,9 +8949,11 @@ I. Las características, magnitud e importancia de la obra; y
 
 II. La estimación de los beneficios que se derivan de la obra, y de los que se traduzcan en forma de aumento de valor de los predios de la zona o zonas que abarque, considerando las condiciones previas y posteriores a la ejecución de la obra, así como el alcance o extensión de los beneficios o aumentos de valor para los predios colindantes o próximos a dicha obra.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 746.
 
-Las contribuciones de mejoras bajo el sistema de plusvalía, tendrán carácter objetivo y afectarán a todos los inmuebles comprendidos dentro de la zona general de beneficio por una obra, la cual será determinada por el Consejo Estatal, como resultado de los proyectos y estudios técnicos siguientes, los cuales serán elaborados por la SOP en coordinación con la SEPLAPDE, la IPLANEA y el Instituto Catastral, cuando se trate de obras con aportación estatal y municipal, y por el Municipio cuando el recurso sea únicamente municipal:
+Las contribuciones de mejoras bajo el sistema de plusvalía, tendrán carácter objetivo y afectarán a todos los inmuebles comprendidos dentro de la zona general de beneficio por una obra, la cual será determinada por el Consejo Estatal, como resultado de los proyectos y estudios técnicos siguientes, los cuales serán elaborados por la SOP en coordinación con la SEPLADE y el Instituto Registral y Catastral, cuando se trate de obras con aportación estatal y municipal, y por el Municipio cuando el recurso sea únicamente municipal:
 
 I. Proyecto ejecutivo de obra, el cual deberá contener los estudios arquitectónicos y de ingeniería definitivos que permitan garantizar que sea ejecutable las obras, mismos que tenderán al equilibrio sostenido del medio;
 
@@ -8485,9 +9117,11 @@ No se aplicarán los deméritos del presente artículo, cuando se trate de obras
 
 #### Sección Quinta. Bases para el Pago y Recaudación de la Contribución de Mejora bajo el Sistema de Plusvalía
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 756.
 
-La operación de cálculo para la individualización de la contribución, le corresponderá hacerla a la SOP en coordinación con la SEPLAPDE, la Coordinación General de Planeación y Proyectos y la autoridad competente en materia catastral junto con las autoridades fiscales estatales y municipales competentes.
+La operación de cálculo para la individualización de la contribución, le corresponderá hacerla a la SOP en coordinación con la SEPLADE y el Instituto Registral y Catastral junto con las autoridades fiscales estatales y municipales competentes.
 
 ###### ARTÍCULO 757.
 
@@ -8613,7 +9247,9 @@ V. Publicar el decreto legislativo;
 
 VI. Concluir la ejecución de la obra, realizar el o los finiquitos correspondientes y determinar los montos finales de la derrama; y
 
-VII. Notificar formalmente la contribución de mejora por el sistema de plusvalía a cada beneficiado o, en términos del procedimiento de participación ciudadana a que se refiere el ARTÍCULO siguiente, cuando se desconozca el domicilio del propietario.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+VII. Notificar formalmente la contribución de mejora por el sistema de plusvalía a cada beneficiado o, en términos del procedimiento de participación ciudadana a que se refiere el artículo siguiente, cuando se desconozca el domicilio del propietario.
 
 ###### ARTÍCULO 773.
 
@@ -9053,7 +9689,9 @@ VIII. La evacuación de zonas, áreas o instalaciones;
 
 IX. La advertencia pública, mediante la cual se empleen los medios publicitarios, para prevenir sobre cualquier irregularidad en las actividades realizadas o por realizar por una persona física o moral, pública o privada;
 
-X. La realización de anotaciones marginales o suspensión de movimientos en escrituras o títulos de propiedad de inmuebles ante el Instituto Catastral y el Registro Público, respecto de aquellos en donde existan o se promuevan asentamientos humanos irregulares;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+X. La realización de anotaciones marginales o suspensión de movimientos en escrituras o títulos de propiedad de inmuebles ante el Instituto Registral y Catastral respecto de aquellos en donde existan o se promuevan asentamientos humanos irregulares;
 
 XI. El aseguramiento de los materiales, herramientas y demás objetos con los que se ejecuten las construcciones u obras; y
 
@@ -9087,7 +9725,9 @@ X. Cualquier otra que contravenga lo dispuesto en este Código, programas aplica
 
 Serán nulos todos los actos que se celebren en contravención a lo dispuesto en este Código, así como los programas previstos en el mismo.
 
-La SEPLAPDE, los Municipios y demás autoridades a que se refiere este Código, en el ámbito de su competencia territorial, podrán impugnar dichos actos ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, a través del juicio previsto en la Ley del Procedimiento Contencioso Administrativo para el Estado de Aguascalientes.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+La SEPLADE, los Municipios y demás autoridades a que se refiere este Código, en el ámbito de su competencia territorial, podrán impugnar dichos actos ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, a través del juicio previsto en la Ley del Procedimiento Contencioso Administrativo para el Estado de Aguascalientes.
 
 ###### ARTÍCULO 817.
 
@@ -9159,23 +9799,37 @@ IV. El plazo de caducidad para la aplicación de las sanciones será de 5 años 
 
 ### CAPÍTULO II. SANCIONES EN MATERIA DE FRACCIONAMIENTOS, SUBDIVISIONES, CONDOMINIOS Y DESARROLLOS INMOBILIARIOS ESPECIALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 823.
 
-La imposición de multas por parte de la SEPLAPDE o el Municipio, según corresponda, por incumplimiento de las disposiciones de este Código, se ajustarán a lo siguiente:
+La imposición de multas por parte de la SEPLADE o el Municipio, según corresponda, por incumplimiento de las disposiciones de este Código, se ajustarán a lo siguiente:
 
-I.- Por iniciar obras de urbanización en los fraccionamientos, condominios, subdivisiones o desarrollos inmobiliarios especiales, sin contar con la autorización correspondiente expedida por la SEPLAPDE o el Municipio, multa equivalente de hasta 1,600 UMA, independientemente de la clausura a esas obras;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-II.- Por realizar obras de urbanización en los fraccionamientos, condominios, subdivisiones o desarrollos inmobiliarios especiales, en etapas diferentes a lo autorizado por la SEPLAPDE o el Municipio, multa equivalente de hasta 500 UMA, independientemente de la clausura a esas obras;
+I.- Por iniciar obras de urbanización en los fraccionamientos, condominios, subdivisiones o desarrollos inmobiliarios especiales, sin contar con la autorización correspondiente expedida por la SEPLADE o el Municipio, multa equivalente de hasta 1,600 UMA, independientemente de la clausura a esas obras;
 
-III.- Por realizar obras de urbanización en fraccionamientos, condominios, subdivisiones o desarrollo inmobiliarios especiales, en contravención al dictamen de autorización correspondiente, multa equivalente de hasta 2,100 UMA, independientemente de la obligación de realizar las demoliciones y correcciones ordenadas por la SEPLAPDE o el Municipio, a las respectivas obras, a efecto de que se ajusten a lo autorizado;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-IV.- Por realizar el fraccionador o promotor actos de publicidad, referente a lotes, predios, viviendas o áreas, incumpliendo las condiciones de la autorización de la promoción de la SEPLAPDE o el Municipio; multa equivalente de hasta 300 UMA, independientemente de la obligación de retirar toda la publicidad inherente a esa actividad;
+II.- Por realizar obras de urbanización en los fraccionamientos, condominios, subdivisiones o desarrollos inmobiliarios especiales, en etapas diferentes a lo autorizado por la SEPLADE o el Municipio, multa equivalente de hasta 500 UMA, independientemente de la clausura a esas obras;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+III.- Por realizar obras de urbanización en fraccionamientos, condominios, subdivisiones o desarrollo inmobiliarios especiales, en contravención al dictamen de autorización correspondiente, multa equivalente de hasta 2,100 UMA, independientemente de la obligación de realizar las demoliciones y correcciones ordenadas por la SEPLADE o el Municipio, a las respectivas obras, a efecto de que se ajusten a lo autorizado;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+IV.- Por realizar el fraccionador o promotor actos de publicidad, referente a lotes, predios, viviendas o áreas, incumpliendo las condiciones de la autorización de la promoción de la SEPLADE o el Municipio; multa equivalente de hasta 300 UMA, independientemente de la obligación de retirar toda la publicidad inherente a esa actividad;
 
 V.- Por realizar la venta, respecto de lotes, predios, viviendas o áreas, sin contar con la autorización de venta; multa equivalente de hasta 600 UMA, independientemente de la obligación de retirar toda la publicidad inherente a esa actividad de venta;
 
-VI.- Por realizar el fraccionador o promotor actos de venta de lotes, predios, viviendas o áreas, ubicados en etapas distintas a las amparadas por la autorización respectiva expedida por la SEPLAPDE o el Municipio, multa equivalente de hasta 600 UMA, independientemente de la obligación de retirar toda la publicidad inherente a esa actividad de venta;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-VII.- Por no cumplir el fraccionador o promotor con el calendario de obras de urbanización autorizado por la SEPLAPDE o el Municipio, multa equivalente de hasta 1,300 UMA, si en la parte correspondiente al fraccionamiento o condominio cuenta con autorización de venta;
+VI.- Por realizar el fraccionador o promotor actos de venta de lotes, predios, viviendas o áreas, ubicados en etapas distintas a las amparadas por la autorización respectiva expedida por la SEPLADE o el Municipio, multa equivalente de hasta 600 UMA, independientemente de la obligación de retirar toda la publicidad inherente a esa actividad de venta;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+VII.- Por no cumplir el fraccionador o promotor con el calendario de obras de urbanización autorizado por la SEPLADE o el Municipio, multa equivalente de hasta 1,300 UMA, si en la parte correspondiente al fraccionamiento o condominio cuenta con autorización de venta;
 
 VIII.- Por no informar el fraccionador o promotor por escrito en la periodicidad establecida por este Código al Municipio, o a la unidad externa de supervisión, respecto del avance en la ejecución de las obras de urbanización, multa equivalente de hasta 100 UMA;
 
@@ -9183,17 +9837,23 @@ IX.- Por no tener en las obras de urbanización del fraccionamiento, subdivisió
 
 X.- Por realizar el fraccionador o promotor actos de publicidad, promoción o venta de proyecto diferente al autorizado o publicidad engañosa en contravención al dictamen de autorización, multa equivalente de 820 a 1,065 UMA;
 
-XI.- Quien promueva la existencia, gestación o establecimiento de asentamientos humanos irregulares será sancionado con multa equivalente de hasta 4,500 UMA, independientemente de la clausura de las obras o la suspensión de actos de registro y/o anotaciones marginales en la escritura o título de propiedad, inscrito en el Registro Público de la Propiedad del Estado;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XI.- Quien promueva la existencia, gestación o establecimiento de asentamientos humanos irregulares será sancionado con multa equivalente de hasta 4,500 UMA, independientemente de la clausura de las obras o la suspensión de actos de registro y/o anotaciones marginales en la escritura o título de propiedad, inscrito en el Instituto Registral y Catastral;
 
 XII.- Por realizar obras de construcción, ampliación o modificación, urbanizaciones que se hagan sin autorización, permiso o licencia, o en contravención a lo dispuesto en la legislación y programas de desarrollo urbano y ordenamiento del territorio, así como en las constancias de compatibilidad urbanística y cualquier otra autorización, permiso o dictamen, el infractor deberá pagar adicionalmente a los derechos estatales o municipales por la regularización de su autorización, el importe que corresponda al 25% del monto de esos derechos;
 
 XIII.- Por no presentar en tiempo y forma ante el Municipio la garantía vigente, que asegure la ejecución adecuada de las obras de urbanización, equipamiento urbano e infraestructura, multa equivalente de hasta 480 UMA;
 
-XIV.- Por no presentar en tiempo y forma ante el Municipio a SEPLAPDE, la escritura de las áreas de donación y vialidades públicas, de las superficies que le señale el Código y la autorización respectiva, incluyendo en su caso equipamiento e infraestructura complementarios, multa equivalente de hasta 480 UMA;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XIV.- Por no presentar en tiempo y forma ante el Municipio a SEPLADE, la escritura de las áreas de donación y vialidades públicas, de las superficies que le señale el Código y la autorización respectiva, incluyendo en su caso equipamiento e infraestructura complementarios, multa equivalente de hasta 480 UMA;
 
 XV.- Por no atender las observaciones y correcciones que los supervisores autorizados por el Municipio y las unidades externas de supervisión, respecto de la ejecución de las obras de urbanización, equipamiento e infraestructura complementarios o de la prestación de los servicios que les correspondan, multa equivalente de hasta 480 UMA;
 
-XVI.- Por no informar al adquirente o usuario de un inmueble el total de las características que tendrá el fraccionamiento, subdivisión, condominio o desarrollo inmobiliario especial, aprobado por el Consejo Estatal, la SEPLAPDE o el Municipio, así como, los usos o destinos del suelo que se permitirán en los lotes, predios, viviendas, locales o áreas, multa equivalente de hasta 480 UMA;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XVI.- Por no informar al adquirente o usuario de un inmueble el total de las características que tendrá el fraccionamiento, subdivisión, condominio o desarrollo inmobiliario especial, aprobado por el Consejo Estatal, la SEPLADE o el Municipio, así como, los usos o destinos del suelo que se permitirán en los lotes, predios, viviendas, locales o áreas, multa equivalente de hasta 480 UMA;
 
 XVII.- A los Peritos Responsables o Especializados de Obra, por parte del Municipio se le impondrán las siguientes multas:
 
@@ -9211,7 +9871,9 @@ f).- Por no cumplir con cualquiera de las obligaciones que le corresponda, el pe
 
 g).- Por no dar aviso al Municipio de la modificación del proyecto inicialmente presentado y autorizado, así como del cambio de uso o destino del suelo en la respectiva área, lote o predio el titular de la evaluación de impacto urbano, será sancionado con multa equivalente de hasta 1,500 UMA, independientemente de la revocación del dictamen y la clausura de las obras y la suspensión de actos de inscripción; y
 
-Lo señalado en las fracciones anteriores se llevará a cabo sin perjuicio del ejercicio de las acciones administrativas, civiles o penales que pudiera derivarse de la actividad emprendida. Para los efectos de este supuesto se requerirá la denuncia de la SEPLAPDE, el Municipio o la Procuraduría.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+Lo señalado en las fracciones anteriores se llevará a cabo sin perjuicio del ejercicio de las acciones administrativas, civiles o penales que pudiera derivarse de la actividad emprendida. Para los efectos de este supuesto se requerirá la denuncia de la SEPLADE, el Municipio o la Procuraduría.
 
 ### CAPÍTULO III. Notificaciones, Procedimientos de Comprobación y de los Medios de Impugnación
 
@@ -9273,9 +9935,11 @@ Las resoluciones dictadas con motivo de la aplicación de este Código podrán s
 
 ### CAPÍTULO IV. Denuncia Pública
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 833.
 
-La persona física o moral que tenga conocimiento de que se hubieran autorizado, o se estén llevando a cabo o se pretendan realizar acciones, inversiones, proyectos, construcciones, cambios de usos y destinos del suelo, edificaciones, instalaciones o cualesquiera otros actos o acciones urbanas en contravención a las disposiciones de este Código, a las demás disposiciones jurídicas aplicables y a los programas aplicables, así como en contra de las determinaciones de las autoridades competentes, tendrá derecho a denunciarlo ante la SEPLAPDE o el Municipio correspondiente y, en su caso, ante la procuraduría si la hubiere, para exigir que se lleven a cabo las suspensiones, demoliciones, modificaciones o cancelaciones de obra o proyecto que sean necesarias para cumplir y ajustarse a los citados ordenamientos.
+La persona física o moral que tenga conocimiento de que se hubieran autorizado, o se estén llevando a cabo o se pretendan realizar acciones, inversiones, proyectos, construcciones, cambios de usos y destinos del suelo, edificaciones, instalaciones o cualesquiera otros actos o acciones urbanas en contravención a las disposiciones de este Código, a las demás disposiciones jurídicas aplicables y a los programas aplicables, así como en contra de las determinaciones de las autoridades competentes, tendrá derecho a denunciarlo ante la SEPLADE o el Municipio correspondiente y, en su caso, ante la procuraduría si la hubiere, para exigir que se lleven a cabo las suspensiones, demoliciones, modificaciones o cancelaciones de obra o proyecto que sean necesarias para cumplir y ajustarse a los citados ordenamientos.
 
 ###### ARTÍCULO 834.
 
@@ -9430,3 +10094,11 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 Las referencias al Instituto Registral y Catastral del Estado de Aguascalientes contenidas en el Código Urbano para el Estado de Aguascalientes, se entenderán hechas al Instituto Catastral del Estado de Aguascalientes, hasta en tanto aquél esté en funcionamiento.
+
+P.O. 22 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 564.- SE REFORMA EL CÓDIGO URBANO PARA EL ESTADO DE AGUSCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
