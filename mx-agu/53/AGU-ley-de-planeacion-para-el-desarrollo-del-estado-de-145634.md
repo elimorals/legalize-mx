@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-planeacion-para-el-desarrollo-del-estado-de-145634"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2022-09-30"
+last_updated: "2024-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 28 de diciembre de 2020.
 
@@ -141,7 +141,9 @@ II. El Congreso del Estado;
 
 III. Secretaría de Planeación, Participación y Desarrollo del Estado
 
-IV. El COPLADE y los órganos auxiliares que de él se deriven;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+IV. El Consejo Aguascalientes y los órganos auxiliares que de él se deriven;
 
 V. Los Municipios del Estado;
 
@@ -151,13 +153,17 @@ VI. Las COPLADEMUN;
 
 VII. Las instancias de Planeación Regional;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ENERO DE 2024)</small>
 
-VIII. Las dependencias y entidades de la Administración Pública Estatal, y
+VIII. La Secretaría de Planeación, Participación y Desarrollo.
 
-> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REFORMADA], P.O. 22 DE ENERO DE 2024)</small>
 
-IX. Los Consejos Sectoriales del Gobierno del Estado.
+IX. Las demás dependencias y entidades de la Administración Pública Estatal, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADO], P.O. 22 DE ENERO DE 2024)</small>
+
+X. Los Consejos Sectoriales del Gobierno del Estado.
 
 ###### Artículo 5°.
 
@@ -237,9 +243,9 @@ XX. Planeación Estratégica: A la planeación que se realiza a través de un pr
 
 XXI. Planeación Intrarregional: A la planeación que pueden hacer dos o más Municipios del Estado agrupados mediante el esquema de integración por regiones administrativas previo convenio de asociación y coordinación municipal;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-XXII. Planeación Participativa: A la planeación que involucra la participación activa y permanente de la ciudadanía, a través de los Consejos Sectoriales del Gobierno del Estado, en el desarrollo, planteamiento y seguimiento de la misma;
+XXII. Planeación Participativa: Al proceso de elaboración, seguimiento y evaluación de los instrumentos de planeación, que involucra la participación activa y permanente de la ciudadanía, a través del Consejo para la Planeación y Evaluación Estratégica de Largo Plazo Estado de Aguascalientes, los Consejos Sectoriales del Gobierno del Estado, así como de los distintos mecanismos de consulta y participación ciudadana.
 
 XXIII. Planeación Prospectiva: A la planeación que se realiza a través de una elección de un escenario futuro favorable, a partir de la visualización de varios escenarios proyectados que involucran la participación ciudadana, tomando como base un diagnóstico situacional;
 
@@ -295,13 +301,17 @@ XXXVIII. SEESI: Sistema Estatal de Evaluación y Seguimiento Institucional;
 
 XXXIX. Programa Institucional: Instrumento elaborado por cada ente de la administración pública, en el que se deberán especificar las acciones que contribuyan al cumplimiento de objetivos, estrategias y metas planteadas en los programas sectoriales de desarrollo;
 
-> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-XL. Región Intraestatal: Espacio comprendido entre dos o más municipios o al interior del territorio estatal que requiere la intervención gubernamental a través de políticas públicas, para poder ser planeado con base a las características de los fenómenos socioeconómicos, territoriales y/o urbanos que se toman en cuenta para una distribución geográfica armónica, a fin de ofrecer una mejor calidad de vida a la población; y
+XL. Región Intraestatal: Espacio comprendido entre dos o más municipios o al interior del territorio estatal que requiere la intervención gubernamental a través de políticas públicas, para poder ser planeado con base a las características de los fenómenos socioeconómicos, territoriales y/o urbanos que se toman en cuenta para una distribución geográfica armónica, a fin de ofrecer una mejor calidad de vida a la población;
 
-> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-XLI. Zona Metropolitana: Al conjunto de dos o más municipios donde se localiza una ciudad de cincuenta mil o más habitantes, cuya área urbana, funciones y actividades se comparten entre sí.
+XLI. Zona Metropolitana: Al conjunto de dos o más municipios donde se localiza una ciudad de cincuenta mil o más habitantes, cuya área urbana, funciones y actividades se comparten entre sí; y
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XLII. Consejo Aguascalientes: Al Consejo para la Planeación y Evaluación Estratégica de Largo Plazo del Estado de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -369,11 +379,35 @@ El SIPDE contará con una infraestructura de soporte, que estará conformada por
 
 En el Reglamento se precisarán las normas que regulen la organización y funcionamiento del SIPDE y de los Sistemas Estatales que lo integran, así como de los Consejos Sectoriales del Gobierno del Estado.
 
-### CAPÍTULO II. Comité de Planeación para el Desarrollo del Estado de Aguascalientes
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE ENERO DE 2024)</small>
+
+### CAPÍTULO II. Consejo para la Planeación y Evaluación Estratégica de Largo Plazo del Estado de Aguascalientes
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### Artículo 16.
 
-El COPLADE es un órgano de consulta social que tiene por objeto el promover y coadyuvar en la formulación, actualización y evaluación del Plan de Largo Plazo para el Desarrollo del Estado, de los Programas Sectoriales y del PDE, buscando hacer compatibles a nivel local, los esfuerzos que realicen los Gobiernos Federal, Estatal y Municipales, tanto en el proceso de planeación, programación, evaluación e información, como en la ejecución de obras y la prestación de servicios públicos; propiciando la colaboración de los diversos sectores de la sociedad.
+Consejo Aguascalientes, será un órgano consultivo y propositivo del Ejecutivo del Estado en materia de planeación estratégica y su evaluación; y estará integrado por:
+
+I. La persona Titular del Poder Ejecutivo del Estado;
+
+II. El Presidente Ciudadano, que será designado de entre y por los miembros ciudadanos del Consejo Aguascalientes;
+
+III. Un Secretario Técnico que será la persona titular de la Secretaría de Planeación, Participación y Desarrollo;
+
+IV. Cinco consejeros ciudadanos de amplio reconocimiento público y conocimiento integral de la realidad del Estado, quienes a su vez serán los presidentes de las Comisiones que se definan;
+
+V. Un representante del H. Congreso del Estado, quien será la persona titular de la presidencia de la Comisión de Planeación, Desarrollo Urbano y Obras Públicas;
+
+VI. El Magistrado Presidente del Supremo Tribunal de Justicia del Estado;
+
+VII. La persona titular de la Secretaría General de Gobierno;
+
+VIII. La persona titular de la Secretaría de Finanzas del Estado;
+
+IX. Tres consejeros, Rectores de Universidades de renombre establecidas en la entidad, a invitación del Presidente del Consejo Aguascalientes; y
+
+X. Un representante del Gobierno Federal, a invitación la persona Titular del Poder Ejecutivo del Estado.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -381,85 +415,103 @@ El COPLADE es un órgano de consulta social que tiene por objeto el promover y c
 
 Todos los ciudadanos podrán participar con sus opiniones y propuestas en las distintas etapas de la planeación estatal, intrarregional y municipal, a través de las herramientas digitales, mesas de trabajo y foros de consulta que sean convocados para tal efecto.
 
-Las organizaciones privadas y sociales legalmente constituidas podrán participar permanentemente en el proceso de la planeación, a través de su integración en el COPLADE o sus órganos auxiliares, los Consejos Sectoriales, así como en los COPLADEMUN.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
-El Titular del Poder Ejecutivo del Estado definirá en las disposiciones reglamentarias de esta Ley, los mecanismos para hacer efectiva la participación de la sociedad en el COPLADE y sus órganos auxiliares; dichas disposiciones garantizarán que las propuestas de la sociedad sean consideradas para la elaboración de los instrumentos que conforman el SIPDE.
+Las organizaciones privadas y sociales legalmente constituidas podrán participar permanentemente en el proceso de la planeación, a través de su integración en el Consejo Aguascalientes o sus órganos auxiliares, los Consejos Sectoriales, así como en los COPLADEMUN.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+El Titular del Poder Ejecutivo del Estado definirá en las disposiciones reglamentarías de esta Ley, los mecanismos para hacer efectiva la participación de la sociedad en el Consejo Aguascalientes, sus órganos auxiliares o en los Consejos Sectoriales; dichas disposiciones garantizarán que las propuestas de la sociedad sean consideradas para la elaboración de los instrumentos de planeación del Estado y los municipios.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### Artículo 18.
 
-El COPLADE se integrará de la siguiente manera:
+El Consejo Aguascalientes podrá convocar, con el carácter de invitados, a servidores públicos de dependencias y entidades del gobierno federal, estatal y municipal, personas físicas o morales, profesionistas, académicos, representantes de organizaciones e instituciones civiles, y expertos nacionales e internacionales, que puedan coadyuvar con su experiencia y opinión al análisis de temas específicos, los cuales no podrán contar con voto.
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+Todos los integrantes del Consejo Aguascalientes contarán con voz y voto, a excepción del Secretario Técnico, quien tendrá voz pero no voto.
 
-I. Presidente: el Titular de la SEPLAPDE;
-
-II. En calidad de Vocales:
-
-a) El Presidente de la Comisión de Fortalecimiento Municipal del Congreso del Estado;
-
-b) El Presidente de la Comisión de Planeación, Desarrollo Urbano y Obras Públicas del Congreso del Estado;
-
-c) Los Presidentes Municipales;
-
-d) Los titulares de las dependencias y entidades de la Administración Pública Estatal coordinadoras de sector, en los términos establecidos por el Decreto de Sectorización que se emita por parte del Titular del Poder Ejecutivo del Estado para tal efecto; y
-
-e) Cinco titulares de instituciones de educación superior públicas y privadas que designe el Titular del Poder Ejecutivo del Estado.
-
-III. Invitados permanentes:
-
-a) Los representantes de las dependencias y entidades de la Administración Pública Federal en el Estado;
-
-b) Los representantes de los sectores industrial, agroindustrial, empresarial, social, ambiental, educativo y de salud;
-
-c) Los Senadores y Diputados Federales por el Estado; y
-
-d) Los ciudadanos expertos que sean necesarios para el desahogo y análisis de cualquier asunto de interés para la COPLADE.
-
-Los vocales podrán designar a un suplente que deberá recaer en el servidor público o colaborador, según sea el caso, de nivel jerárquico inferior inmediato al de él y participarán con voz y voto en las sesiones del COPLADE, quienes, según sea el caso, durarán en su cargo durante el tiempo en que desempeñen las funciones del puesto, para el caso de los invitados especiales solo tendrán derecho a voz.
-
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
-
-El COPLADE contará con un Secretario Técnico, quien será designado por el Secretario de la SEPLAPDE.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### Artículo 19.
 
-El COPLADE funcionará en términos de la presente Ley y del Reglamento; sesionará con la asistencia del cincuenta por ciento más uno de los integrantes debiendo sesionar cuando menos tres veces al año, tomando sus decisiones por el voto de la mayoría simple de los vocales asistentes. En caso de empate, el Presidente tendrá voto de calidad.
+Los consejeros ciudadanos permanecerán en su cargo por un período de seis años, y serán designados mediante el método de selección establecido en su Reglamento, tomando en cuenta su reputación y amplio prestigio social; su participación será a título de colaboración ciudadana y su desempeño tendrá carácter honorífico, rigiéndose por los principios de buena fe y de interés general.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### Artículo 20.
 
-Serán funciones del COPLADE las siguientes:
+El Consejo Aguascalientes funcionará en términos de la presente Ley y de su Reglamento; sesionará cuando menos tres veces al año de manera ordinaria, y sus sesiones se podrán llevar a cabo con la asistencia del cincuenta por ciento más uno de los integrantes; sus decisiones se tomarán mediante acuerdo por el voto de la mayoría simple de los integrantes asistentes. En caso de empate, el Presidente del Consejo Aguascalientes tendrá voto de calidad.
 
-I. Promover y coadyuvar con la participación de los diversos sectores de la comunidad, en la elaboración y permanente actualización del Plan de Largo Plazo para el Desarrollo del Estado, los Programas Sectoriales y el PDE, buscando su congruencia con los que a nivel nacional, sectorial y mesoregional formule el Gobierno Federal;
+El Consejo Aguascalientes contará con una Oficina Ejecutiva.
 
-II. Fomentar la coordinación entre los Gobiernos Federal, Estatal y Municipales, y la cooperación de los sectores social y privado, para la instrumentación a nivel local de los Planes Nacional, Estatal y Municipal;
-
-III. Participar en el monitoreo, seguimiento y evaluación del Plan de Largo Plazo para el Desarrollo del Estado y del PDE, para adecuarlo a las previsiones de los planes que formule el sector público federal e incidan en el nivel estatal, así como coadyuvar al oportuno cumplimiento de sus objetivos y metas;
-
-IV. Formular y proponer a los Poderes Ejecutivos Federal y Estatal, programas de inversión, gasto y financiamiento para el Estado, a fin de enriquecer los criterios conforme a los cuales definen sus respectivos Presupuestos de Egresos;
-
-V. Sugerir a los Poderes Ejecutivos Federal y Estatal programas y acciones a concertar en el marco del Convenio de Coordinación para el Desarrollo Social y Humano, con el propósito de coadyuvar en alcanzar los objetivos del desarrollo del Estado;
-
-VI. Evaluar el desarrollo de los programas y acciones concertadas entre la Federación y el Estado en el marco del Convenio de Coordinación para el Desarrollo Social y Humano e informar periódicamente al respecto, al Titular del Poder Ejecutivo del Estado y al Poder Ejecutivo Federal;
-
-VII. Promover la celebración de acuerdos de cooperación entre el sector público y los sectores social y privado que actúen a nivel estatal, tendientes a orientar sus esfuerzos al logro de los objetivos del desarrollo del Estado;
-
-VIII. Promover la coordinación con otros comités para coadyuvar en la definición, instrumentación y evaluación de planes para el desarrollo de regiones interestatales, solicitando la intervención de la Federación para tales efectos;
-
-IX. Fungir como órgano de consulta sobre la situación socioeconómica del Estado;
-
-X. Proponer a los Gobiernos Federal, Estatal y Municipales, medidas de carácter jurídico, administrativo o financiero, necesarias para el cumplimiento de las funciones y la consecución de los objetivos del propio COPLADE;
-
-XI. Emitir acuerdos para el cumplimiento de su objeto;
-
-XII. Acordar el establecimiento de subcomités sectoriales, regionales y especiales, así como de grupos de trabajo, los cuales actuarán como órganos auxiliares del COPLADE; mismos que se organizarán y funcionarán conforme a lo que éste, los acuerdos de creación y el Reglamento del COPLADE determinen; y
-
-XIII. Las demás que establezcan otras disposiciones legales aplicables.
-
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### Artículo 21.
 
-El Reglamento Interior y los acuerdos de creación de los subcomités del COPLADE, contendrán las disposiciones que normarán la organización, funcionamiento, formalidades, periodicidad y términos de la consulta y participación social en el SIPDE.
+El Consejo Aguascalientes tendrá las siguientes responsabilidades y facultades:
+
+I. Elaborar y actualizar el Plan Estratégico de Largo Plazo para el Desarrollo del Estado de Aguascalientes;
+
+II. Promover la participación de los diversos sectores de la comunidad, en la elaboración y permanente actualización del Plan de Largo Plazo para el Desarrollo del Estado, garantizando la congruencia de los instrumentos de planeación de menor jerarquía;
+
+III. Fomentar la cultura de la honestidad en la planeación de mediano y largo plazo, así como en la medición del desempeño y la rendición de cuentas;
+
+IV. Trazar estrategias que permitan enfocar el esfuerzo de los diferentes sectores de la sociedad al logro de los objetivos y metas trazados;
+
+V. Conocer y emitir recomendaciones sobre el Proyecto de Plan de Desarrollo del Estado y de los programas sectoriales, así como de sus revisiones y actualizaciones, atendiendo a los lineamientos establecidos en el Plan de Largo Plazo para el Desarrollo del Estado;
+
+VI. Establecer criterios para la elaboración de indicadores cuantificables de los ámbitos económico, social, ambiental y otras áreas relevantes, con el propósito de medir y evaluar el progreso en el logro de los objetivos y metas, tanto del Plan de Largo Plazo para el Desarrollo del Estado como del Plan de Desarrollo del Estado;
+
+VII. Comunicar a la ciudadanía los objetivos del Plan de Largo Plazo para el Desarrollo del Estado, sus indicadores y los avances respecto de sus metas;
+
+VIII. Promover el diálogo y los acuerdos necesarios con los tres órdenes de gobierno, empresas, organizaciones sociales e instituciones educativas, a efecto de realizar conjuntamente las acciones tendientes a lograr los objetivos establecidos;
+
+IX. Conocer los avances en relación con los proyectos estratégicos y programas prioritarios, así como la evolución de los indicadores del desarrollo económico y social del Estado;
+
+X. Elaborar un pronóstico a largo plazo sobre la evolución de los ingresos, gastos corrientes, inversión y deuda del Gobierno del Estado, a fin de contar con un marco de referencia para los objetivos del Plan de Largo Plazo para el Desarrollo del Estado;
+
+XI. Emitir el manual de procedimientos para la elaboración del Plan de Largo Plazo para el Desarrollo del Estado;
+
+XII. Conocer de las asignaciones de recursos presupuestarios canalizados a la elaboración del Plan de Largo Plazo para el Desarrollo del Estado;
+
+XIII. Aprobar la creación de comisiones para la atención de temas específicos;
+
+XIV. Emitir acuerdos para el cumplimiento de su objeto;
+
+XV. Promover la coordinación con los Consejos Sectoriales del Gobierno del Estado para coadyuvar en la definición, instrumentación y evaluación de la planeación a corto y mediano plazo para el desarrollo; y
+
+XVI. Promover la celebración de acuerdos de cooperación entre el sector público y los sectores social y privado que actúen a nivel estatal, tendientes a orientar sus esfuerzos al logro de los objetivos del desarrollo del Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2024)</small>
+
+###### Artículo 21 Bis.
+
+El Consejo Aguascalientes creará las comisiones necesarias para la realización de estudios, formulación de propuestas y evaluación de Políticas Públicas conforme a los temas de interés que el mismo Consejo defina.
+
+En caso de ser necesario, el Consejo Aguascalientes podrá variar el número de comisiones o grupos de trabajo en función de la importancia de los temas a tratar. Cada comisión estará presidida por un consejero y contará con un secretario técnico designado de entre los titulares de la Administración Pública Estatal o entidad cuyo ámbito de competencia sea relevante para la comisión en cuestión. Las comisiones podrán invitar a expertos, representantes de dependencias estatales, entidades federales y a las autoridades municipales, que consideren pertinentes para colaborar en sus labores.
+
+Cualquier propuesta, estudio, evaluación o conclusión elaborada por las comisiones deberá ser publicadas en el portal de Internet del Gobierno del Estado dentro de los diez días hábiles posteriores a su emisión.
+
+La conformación y funcionamiento de las comisiones estarán reguladas en el Reglamento del Consejo Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2024)</small>
+
+###### Artículo 21 Ter.
+
+El Consejo Aguascalientes evaluará anualmente los resultados del Plan de Largo Plazo para el Desarrollo del Estado, con base en la evolución de los Proyectos Estratégicos y los Programas Prioritarios, y la medición de la actividad económica y social. Los indicadores deberán permitir evaluar el avance hacia el logro de los objetivos y metas planteados, así como las circunstancias que hayan influido positiva o negativamente en dicho avance. Estos indicadores deben ser precisos, oportunos, confiables y eficientes. Además, estarán disponibles en el portal de Internet que para tal efecto se designe.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2024)</small>
+
+###### Artículo 21 Quater.
+
+Los resultados de los análisis de estrategias y evaluaciones de desempeño realizados por el Consejo Aguascalientes serán presentados se presentarán al Titular del Ejecutivo, quien, tomando en cuenta las propuestas y opiniones de los consejeros y el marco jurídico aplicable, acordará la procedencia de su implementación.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2024)</small>
+
+(sic) 21 Quinquies. El Plan de Largo Plazo para el Desarrollo del Estado se revisará al final del tercer año de gobierno y se actualizará o adecuará en el último año de la Administración Pública Estatal, o cuando los integrantes del Consejo Aguascalientes lo consideren necesario en función de la situación prevaleciente en el Estado. Durante este proceso, se llevará a cabo una consulta ciudadana con el apoyo de las dependencias y entidades de la Administración Pública Estatal.
+
+El Plan de Largo Plazo para el Desarrollo del Estado revisado servirá como base para la elaboración del Plan de Desarrollo del Estado y los planes de desarrollo municipales.
 
 ### CAPÍTULO III. Planeación para el Desarrollo
 
@@ -479,9 +531,9 @@ II. Formulación: definir prioridades, objetivos, metas, estrategias y acciones 
 
 III. Coproducción: contemplar los procesos de consulta pública y la participación activa y permanente de las diversas instancias y poderes de gobierno, así como de la sociedad organizada en la formulación y seguimiento de los planes y programas a través de las instancias de participación social a que se refiere la Ley;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-IV. Aprobación y publicación: ejecutar el proceso de aprobación y publicación de los planes y programas por parte del Titular de (sic) Ejecutivo del Estado con la intervención de la SEPLAPDE, el COPLADE, el Congreso del Estado, así como a los Municipios les corresponda en términos de la Ley y el Reglamento;
+IV. Aprobación y publicación: ejecutar el proceso de aprobación y publicación de los planes y programas por parte del Titular de (sic) Ejecutivo del Estado con la intervención de la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes, el Consejo Aguascalientes, el Congreso del Estado, así como a los Municipios les corresponda en términos de la Ley y el Reglamento;
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -575,17 +627,21 @@ El Plan de Largo Plazo para el Desarrollo del Estado es el instrumento fundament
 
 Además de las precisiones y lineamientos señalados en el párrafo anterior, el Plan de Largo Plazo para el Desarrollo del Estado contendrá un análisis técnico, social, demográfico, económico y sostenible del Estado; así como el criterio para establecer a partir de una visión prospectiva, objetivos a mediano y largo plazo, un sistema de evaluación que contenga Indicadores Estratégicos que permitan dar seguimiento permanente al avance respecto de las prioridades y objetivos planteados.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
-El Plan de Largo Plazo para el Desarrollo del Estado, será elaborado por la SEPLAPDE en coordinación con el COPLADE y los Consejos Sectoriales del Gobierno del Estado, para someterlo a la aprobación del Titular del Poder Ejecutivo del Estado, y remitido al Congreso del Estado para su análisis y opinión, para su posterior publicación en el Periódico Oficial del Estado.
+El Plan de Largo Plazo para el Desarrollo del Estado, será elaborado por el Consejo Aguascalientes en coordinación con la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes y los Consejos Sectoriales del Gobierno del Estado, para someterlo a la aprobación del Titular del Poder Ejecutivo del Estado, y remitido al Congreso del Estado para su análisis y opinión, para su posterior publicación en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### Artículo 31.
 
-Los Programas Sectoriales de Desarrollo son los instrumentos de planeación estatal con una vigencia a mediano plazo, debiendo ser emitidos dentro de los sesenta días posteriores a la publicación del Decreto de Sectorización, orientados en forma específica al desarrollo de las diversas actividades de la sociedad del Estado; serán elaborados por los subcomités sectoriales del COPLADE, con la coordinación de la dependencia o entidad designada por el Titular del Poder Ejecutivo del Estado para coordinar las acciones de las demás dependencias y entidades integradas en un sector de desarrollo, con la intervención de la Secretaría de Planeación, Participación y Desarrollo del Estado y de los Municipios de conformidad a sus competencias y atribuciones en materia de planeación.
+Los Programas Sectoriales de Desarrollo son los instrumentos de planeación estatal con una vigencia a mediano plazo, debiendo ser emitidos dentro de los sesenta días posteriores a la publicación del Decreto de Sectorización, orientados en forma específica al desarrollo de las diversas actividades de la sociedad del Estado; serán elaborados por la coordinación de la dependencia o entidad designada por el Titular del Poder Ejecutivo del Estado para coordinar las acciones de las demás dependencias y entidades integradas en un sector de desarrollo, con la intervención de la Secretaría de Planeación, Participación y Desarrollo del Estado de conformidad a sus competencias y atribuciones en materia de planeación.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 Los Programas Sectoriales de Desarrollo podrán ser actualizados dentro de los treinta días siguientes a la publicación de la actualización del PDE; cuando así se requiera, para dar cumplimiento y resultados dentro del periodo constitucional del Poder Ejecutivo.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 Los Programas Sectoriales de Desarrollo se elaborarán con la misma metodología establecida para el PDE y se sujetarán a los objetivos, directrices, políticas y prioridades contenidas en éste.
 
@@ -711,13 +767,23 @@ Los titulares de las dependencias y entidades de la Administración Pública Est
 
 Dentro del SIPDE tendrá lugar la participación y consulta de la sociedad, con el propósito de que intervenga directamente en la elaboración, instrumentación, monitoreo, seguimiento y evaluación de los planes, programas y sus actualizaciones a que se refiere esta Ley.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ENERO DE 2024)</small>
+
+La participación y consulta ciudadanas se llevarán a cabo a través del Consejo para la Planeación y Evaluación Estratégica de Largo Plazo del Estado de Aguascalientes; los Consejos Sectoriales del Gobierno del Estado; los ciudadanos; y los diversos grupos sociales y privados, mediante los distintos mecanismos que involucren a la sociedad en general en los procesos de planeación.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### Artículo 52.
 
-La ejecución de los planes y programas podrá concertarse conforme a esta Ley, con las representaciones de los grupos sociales organizados o particulares interesados, a través de acuerdos y/o convenios de cumplimiento obligatorio para las partes que lo suscriban, los cuales se considerarán de derecho público.
+La ejecución de los planes y programas podrá concertarse conforme a esta Ley, con las representaciones de los grupos sociales organizados o particulares interesados, a través de acuerdos y/o convenios de cumplimiento obligatorio para las partes que lo suscriban, los cuales se considerarán de derecho público. Igualmente serán de cumplimiento obligatorio y se considerarán de derecho público los acuerdos tomados por el Consejo Aguascalientes.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### Artículo 53.
 
-Mediante el ejercicio de las atribuciones que le confieran las leyes de la materia, la autoridad correspondiente, propondrá acciones a los particulares y, en general, al conjunto de la población, a fin de propiciar la consecución de los objetivos establecidos en el Plan de Largo Plazo para el Desarrollo del Estado y el PDE, así como en los programas de gobierno que de ellos se deriven.
+Mediante el ejercicio de las atribuciones que le confieran las leyes de la materia, la autoridad correspondiente, propondrá acciones a los particulares y, en general, al conjunto de la población, a fin de propiciar la consecución de los objetivos establecidos en el PDE, así como en los programas de gobierno que de él se deriven.
+
+Los municipios y las autoridades de los tres poderes del Estado deberán de garantizar la consecución y observancia del Plan de Largo Plazo para el Desarrollo del Estado, por lo que los Planes de Desarrollo Municipal y los Planes de Desarrollo de Estado deberán de guardar congruencia con éste.
 
 ###### Artículo 54.
 
@@ -753,11 +819,11 @@ IV. Impulsar el Desarrollo Intrarregional; y
 
 V. Proporcionar a los Municipios, en el marco de la planeación democrática, la asesoría y el apoyo técnico en materia de programación y presupuestación, hacendaria, jurídica, administrativa y financiera.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### Artículo 59.
 
-Los convenios de coordinación y participación que se firmen entre las diferentes instancias de gobierno y con la sociedad organizada serán congruentes con el Sistema Nacional de Planeación Democrática, el Plan de Largo Plazo para el Desarrollo del Estado, el PDE y el Plan Estatal de Ordenamiento Territorial y Desarrollo Urbano podrán trascender los períodos de gobierno previa aprobación del Congreso del Estado y del cumplimiento de los requisitos legales, ajustándose a los siguientes lineamientos generales:
+Los convenios de coordinación y participación que se firmen entre las diferentes instancias de gobierno y con la sociedad organizada serán congruentes con el Sistema Nacional de Planeación Democrática, el Plan de Largo Plazo para el Desarrollo del Estado, el PDE y el Plan Estatal de Ordenamiento Territorial y Desarrollo Urbano, y podrán trascender los períodos de gobierno previa aprobación del Congreso del Estado y del cumplimiento de los requisitos legales, ajustándose a los siguientes lineamientos generales:
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -767,7 +833,9 @@ II. Las bases de coordinación de los convenios con la Federación, se apoyarán
 
 III. Las bases de coordinación de los convenios con los Municipios atenderán además de la planeación estatal, a la programación sectorial e intrarregional;
 
-IV. Las acciones objeto de coordinación tomarán en cuenta la participación social del COPLADE; y
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+IV. Las acciones objeto de coordinación tomarán en cuenta la opinión del Consejo Aguascalientes; y
 
 V. En materia de programación, los convenios establecerán las relaciones presupuestales con los objetivos y prioridades de los planes, programas y los límites de competencia de las instancias signatarias.
 
@@ -801,11 +869,11 @@ V. Las demás que establezca esta Ley y otras disposiciones aplicables.
 
 Los convenios sobre planeación y desarrollo que firme el Poder Ejecutivo del Estado asistido por la SEPLAPDE con los Municipios, ayudarán a fortalecer la capacidad económica, administrativa y financiera de éstos y a impulsar la capacidad productiva y cultural de sus habitantes, de acuerdo con el equilibrio regional del desarrollo del Estado. Pudiéndose contemplar incentivos especiales para aquellos Municipios que firmen los convenios y participen en la estrategia de desarrollo intrarregional.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### Artículo 63.
 
-El COPLADE propondrá a la SEPLAPDE los procedimientos conforme a los cuales se sujetarán las acciones de coordinación, escuchando la opinión de los Municipios con base en las facultades y obligaciones que a cada uno corresponda.
+El Consejo Aguascalientes propondrá a la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes los procedimientos conforme a los cuales se sujetarán las acciones de coordinación, escuchando la opinión de los Municipios con base en las facultades y obligaciones que a cada uno corresponda.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -869,7 +937,7 @@ IX. Fomentar y eficientar las acciones derivadas de los programas directo estata
 
 X. Evaluar los resultados de los programas de desarrollo intrarregional autorizados; y
 
-XI. Elaborar el reporte de trabajos y rendirlo a la Asamblea Plenaria del COPLADE.
+XI. (DEROGADA, P.O. 22 DE ENERO DE 2024)
 
 ###### Artículo 73.
 
@@ -971,15 +1039,19 @@ b) Informes de los Presidentes Municipales;
 
 c) Informes Sectoriales e Institucionales;
 
-d) Informes del COPLADE y sus órganos auxiliares; y
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+d) Informes del Consejo Aguascalientes y sus órganos auxiliares; y
 
 e) Informes, relatorías o registros resultantes de los foros de consulta y participación social.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### Artículo 80.
 
-Las metodologías y procedimientos para el monitoreo, seguimiento y evaluación de los resultados del Plan de Largo Plazo para el Desarrollo del Estado y del PDE, así como de los programas derivados de ambos, serán establecidas por la SEPLAPDE con la participación del COPLADE y los Consejos Sectoriales del Gobierno del Estado y habrán de especificarse en las disposiciones reglamentarias del SEESI; en dichas disposiciones, se garantizará la participación de la sociedad organizada en los procesos de monitoreo, seguimiento y evaluación.
+Las metodologías y procedimientos para el monitoreo, seguimiento y evaluación de los resultados del Plan de Largo Plazo para el Desarrollo del Estado serán establecidas por el Consejo Aguascalientes con la participación de la SEPLADE.
+
+Las metodologías y procedimientos para el monitoreo, seguimiento y evaluación de los resultados del PDE, así como de los programas derivados de éste y del Plan de Largo Plazo, serán establecidas por la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes con la participación del Consejo Aguascalientes y los Consejos Sectoriales del Gobierno del Estado, y habrán de especificarse en las disposiciones reglamentarias del SEESI; en dichas disposiciones, se garantizará la participación de la sociedad organizada en los procesos de monitoreo, seguimiento y evaluación.
 
 ## TÍTULO TERCERO. INSTITUTO DE PLANEACIÓN DEL ESTADO DE AGUASCALIENTES
 
@@ -1264,3 +1336,15 @@ Los integrantes del sector privado de la Junta de Gobierno del Instituto de Plan
 ###### ARTÍCULO OCTAVO.
 
 Se designa al Director de Planeación Estratégica y Proyectos Sustentables a efecto de que lleve a cabo, en nombre del Instituto de Planeación del Estado de Aguascalientes, todos los trámites relativos a su administración y extinción.
+
+P.O. 22 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 565.- SE REFORMA LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los 90 días hábiles siguientes a la entrada en vigor del presente decreto, el Ejecutivo Estatal emitirá el Reglamento Interior del Consejo para la Planeación y Evaluación Estratégica de Largo Plazo del Estado de Aguascalientes, donde se detallarán aspectos operativos, criterios y proceso de selección de los consejeros ciudadanos de éste y de sus comisiones, así como los medios de financiamiento para su operación y la de la Oficina Ejecutiva.
