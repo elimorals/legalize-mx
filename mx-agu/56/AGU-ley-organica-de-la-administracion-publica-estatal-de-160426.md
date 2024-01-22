@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-estatal-de-160426"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-09-30"
-last_updated: "2024-01-15"
+last_updated: "2024-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
 
 Ley publicada en el Número 56 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de septiembre de 2022.
 
@@ -365,9 +365,17 @@ XXIV. Generar información actualizada, oportuna y confiable sobre las distintas
 
 XXV. Desarrollar programas y acciones tendientes a fortalecer el desarrollo armónico de la familia como base fundamental de la sociedad, en coordinación con la Secretaría de la Familia;
 
-XXVI. Implementar programas y acciones de innovación, modernización, desarrollo de las tecnologías de la información, conforme a las disposiciones que para el efecto emita la Secretaría de Innovación y Gobierno Digital; y
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-XXVII. Las demás que expresamente se señalen en esta Ley, en las leyes del Estado y en los ordenamientos reglamentarios respectivos.
+XXVI. Implementar programas y acciones de innovación, modernización, desarrollo de las tecnologías de la información, conforme a las disposiciones que para el efecto emita la Secretaría de Innovación y Gobierno Digital;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ENERO DE 2024)</small>
+
+XXVII. Supervisar, coordinar y realizar las acciones necesarias para el cumplimiento del objeto de los fideicomisos públicos constituidos para el despacho de los asuntos inherentes al ramo de la Dependencia a su cargo. Así como solicitar la intervención de la Secretaría de Finanzas, en su carácter de fideicomitente único de la administración pública centralizada, cuando corresponda; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE ENERO DE 2024)</small>
+
+XXVIII. Las demás que expresamente se señalen en esta Ley, en las leyes del Estado y en los ordenamientos reglamentarios respectivos.
 
 ###### Artículo 23.
 
@@ -689,7 +697,9 @@ XXXV. Representar al Poder Ejecutivo en materia fiscal e intervenir cuando se af
 
 XXXVI. Recabar los conceptos del Fondo que establece la Ley de Atención y Protección a la Víctima y al Ofendido para el Estado de Aguascalientes;
 
-XXXVII. Fungir como fideicomitente único de la Administración Pública Centralizada en los fideicomisos constituidos por el Gobierno del Estado, así como autorizar aquellos que se constituyan, se modifiquen o se extingan por las entidades de la Administración Pública Paraestatal; así como recibir de las entidades paraestatales fideicomitentes, la información sobre el manejo del patrimonio fiduciario;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XXXVII. Fungir como fideicomitente único de la Administración Pública Centralizada en los fideicomisos constituidos por el Gobierno del Estado; llevar el registro de aquellos fideicomisos que se constituyan, se modifiquen o se extingan por las Entidades de la Administración Pública Paraestatal; así como recibir de las entidades paraestatales fideicomitentes, la información sobre el manejo del patrimonio fiduciario;
 
 XXXVIII. Expedir las disposiciones administrativas o reglas de carácter general, en el ámbito de su competencia, necesarias para aplicar eficientemente la legislación fiscal del Estado;
 
@@ -2046,3 +2056,15 @@ P.O. 15 DE ENERO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 22 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 574.- SE REFORMA LA LEY ORGÁNICA DE LA ADMINSTRACIÓN PÚBLICA ESTATAL".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veinticuatro.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efectos de la fracción XXXVII del artículo 28, que se reforma, a más tardar el 31 de marzo de 2024, las Entidades Paraestatales deberán presentar ante la Secretaría de Finanzas la información relativa a los fideicomisos que se encuentren vigentes y que dichas Entidades Paraestatales hubieran constituido con anterioridad a la entrada en vigor de este Decreto.
