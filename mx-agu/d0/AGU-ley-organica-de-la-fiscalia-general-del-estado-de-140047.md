@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-fiscalia-general-del-estado-de-140047"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-01-20"
-last_updated: "2023-11-13"
+last_updated: "2024-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de enero del 2020.
 
@@ -415,7 +415,9 @@ a) Apoyo en Litigio Estratégico; y
 
 VI. Unidades Auxiliares Adjetivas:
 
-a) (DEROGADO, P.O. 13 DE NOVIEMBRE DE 2023);
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ENERO DE 2024)</small>
+
+a) Coordinación del Centro de Justicia para Niñas, Niños y Adolescentes;
 
 b) Coordinación del Centro de Justicia para Mujeres;
 
@@ -1607,9 +1609,53 @@ El ejercicio y cumplimiento de las atribuciones, facultades, deberes y obligacio
 
 El personal que preste atención directa a las personas que acudan como usuarias del Centro de Justicia para Mujeres deberá ser del sexo femenino, salvo aquellas excepciones que estén debidamente justificadas por la naturaleza de su función. El resto del personal que labore y opere en las áreas, oficinas, unidades organizativas, jefaturas o direcciones del Centro de Justicia para Mujeres podrá ser tanto del sexo masculino como del sexo femenino, indistintamente, siempre que acrediten tener el perfil y los conocimientos necesarios para desempeñar las funciones que se le encomienden, salvo en el caso particular expresamente prescrito por el artículo 66 de la presente Ley.
 
-#### SECCIÓN CUARTA. Oficialía Mayor
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE ENERO DE 2024)</small>
 
-#### SECCIÓN QUINTA. Archivo
+#### SECCIÓN TERCERA A. Coordinación del Centro de Justicia para Niñas, Niños y Adolescentes
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2024)</small>
+
+ARTÍCULO 69 A. La Fiscalía General contará con un Centro de Justicia para Niñas, Niños y Adolescentes. La persona designada como titular de esta Unidad Auxiliar Adjetiva será la encargada de coordinarlo y de impulsar políticas públicas, estrategias y acciones en materia de prevención, atención y erradicación de la violencia contra las niñas, niños y adolescentes, así como de facilitarles el acceso a la justicia, favoreciendo el inicio de un proceso de autovaloración tendente a erradicar la violencia de que son o pudieran ser objeto, a través de servicios integrales, con la finalidad de contar con un mejor proyecto de vida y contribuir al mejoramiento de su entorno personal, familiar y social.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2024)</small>
+
+ARTÍCULO 69 B. Además de los requisitos establecidos en el artículo 59 de la presente Ley, la persona titular de la Coordinación del Centro de Justicia para Niñas, Niños y Adolescentes deberá cubrir los siguientes:
+
+I. Ser licenciado en derecho;
+
+II. Con experiencia en la materia familiar o de asistencia social; y
+
+III. Tener buenas costumbres, honorabilidad y de probada integridad familiar.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2024)</small>
+
+ARTÍCULO 69 C. Corresponde a la persona titular de la Coordinación del Centro de Justicia de Niñas, Niños y Adolescentes, además de las señaladas en el artículo 60 de la presente Ley, el ejercicio y cumplimiento de las siguientes atribuciones, facultades, deberes y obligaciones específicas:
+
+I. Observar y promover los principios establecidos en el artículo 6 de la Ley General de los derechos de Niñas, Niños Y Adolescentes, y el diverso 6 de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes;
+
+II. Auxiliará a las autoridades competentes en los asuntos que afecten a las niñas, niños y adolescentes de conformidad con la legislación aplicable;
+
+III. Promover y proteger los derechos de las niñas, niños y adolescentes y aplicar las medidas necesarias para propiciar seguridad jurídica y equidad en las situaciones y relaciones en que se estimen necesarias;
+
+IV. Solicitar al Ministerio Público que promueva ante el órgano judicial competente se dicten las medidas provisionales para que se proteja a las niñas, niños y adolescentes receptores de cualquier tiempo de violencia;
+
+V. Formular y realizar programas que permitan la difusión y comprensión social sobre derechos de las Niñas, Niños y Adolescentes, así como de la persona con discapacidad;
+
+VI. Denunciar ante el Ministerio Público aquellos hechos que se presuman son constitutivos de delitos en donde las niñas, niños y adolescentes (sic) involucrados;
+
+VII. Celebrar convenios con las autoridades competentes de las Entidades Federativas sobre la materia de su competencia; y
+
+VIII. Las demás que esta ley le confiera y otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2024)</small>
+
+ARTÍCULO 69 D. El reglamento interior del Centro de Justicia para Niñas, Niños y Adolescentes establecerá las disposiciones generales, los mecanismos, instancias y procedimientos administrativos que procuren el cumplimiento de las atribuciones que le señala esta sección y las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2024)</small>
+
+ARTÍCULO 69 E. El ejercicio y cumplimiento de las atribuciones, facultades, deberes y obligaciones que corresponden a la Coordinación del Centro de Justicia para Niñas, Niños y Adolescentes deberá sujetarse a lo dispuesto en su propio reglamento y en los manuales de operación, manuales de integración, lineamientos y protocolos de atención que emita la persona titular de la Fiscalía General del Estado para tales efectos y que tendrán efectos vinculantes para todos aquellos órganos, dependencias o instituciones del Poder Ejecutivo, del Poder Judicial o de cualquier otra instancia, que presten servicios en las instalaciones del Centro de Justicia para Niñas Niños y Adolescentes.
+
+#### SECCIÓN CUARTA. Oficialía Mayor
 
 ###### ARTÍCULO 70.
 
@@ -1653,7 +1699,7 @@ XIV. Promover y fortalecer la rendición de cuentas, la transparencia, la vigila
 
 XV. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
 
-#### SECCIÓN SEXTA. Innovación, Planeación y Desarrollo Tecnológico
+#### SECCIÓN QUINTA. Archivo
 
 ###### ARTÍCULO 73.
 
@@ -1687,7 +1733,7 @@ IX. Elaboración de un informe anual de las actividades realizadas por la Unidad
 
 X. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
 
-#### SECCIÓN SÉPTIMA. Instituto de Formación Profesional
+#### SECCIÓN SEXTA. Innovación, Planeación y Desarrollo Tecnológico
 
 ###### ARTÍCULO 76.
 
@@ -1721,7 +1767,7 @@ VIII. Aplicar técnicas científicas y analíticas especializadas a la infraestr
 
 IX. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
 
-#### SECCIÓN OCTAVA. Unidad de Transparencia
+#### SECCIÓN SÉPTIMA. Instituto de Formación Profesional
 
 ###### ARTÍCULO 79.
 
@@ -1754,6 +1800,50 @@ VIII. Proponer los programas y las actividades necesarias para el intercambio de
 IX. Proponer la celebración de convenios con instituciones académicas, públicas o privadas, nacionales o extranjeras, que sirvan para que la capacitación y la formación profesional de los servidores públicos de la Fiscalía General sea de la mejor calidad y responda a los estándares internacionales; y
 
 X. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
+
+#### SECCIÓN OCTAVA. Unidad de Transparencia
+
+###### ARTÍCULO 82.
+
+La Unidad de Transparencia tendrá a su cargo la difusión, divulgación, solicitud, integración, concentración, actualización, conservación, protección y sistematización de la información relativa a la Fiscalía General, con el objeto de dar cumplimiento a las obligaciones que le corresponden en materia de transparencia y de ponerla a disposición de los particulares, en los términos prescritos por la Ley General de Transparencia y la Ley Estatal de Transparencia.
+
+###### ARTÍCULO 83.
+
+Además de los requisitos establecidos en el artículo 59 de la presente Ley, la persona titular de la Unidad de Transparencia deberá acreditar que cuenta con preparación y conocimiento académicos en materia de Transparencia y Acceso a la Información Pública, Derechos Humanos o cualquier otra afín, así como también deberá cubrir cualquier otro requisito que se establezca en el reglamento de la presente Ley.
+
+###### ARTÍCULO 84.
+
+Corresponde a la persona titular de la Unidad de Transparencia, además de las señaladas en el artículo 60 de la presente Ley, en la Ley General de Transparencia y en la Ley Estatal de Transparencia, el ejercicio y cumplimiento de las siguientes atribuciones, facultades, deberes y obligaciones específicas:
+
+I. Proteger y fomentar el ejercicio del Derecho Humano de Acceso a la Información, en todas las formas en las que éste se manifiesta;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+II. Coordinarse con la Unidad Auxiliar Sustantiva denominada Centro Estatal de Inteligencia y Política Criminal; con las Unidades Auxiliares Adjetivas de Archivo, Innovación, Planeación y Desarrollo Tecnológico, la Oficialía Mayor y la Coordinación del Centro de Justicia para Mujeres; y el Centro de Justicia para Niñas, Niños y Adolescentes y, en general, con cualquiera de los elementos y factores que integran la estructura orgánica de la Fiscalía General, con el propósito de dar cumplimiento con las obligaciones que le son propias en materia de transparencia;
+
+III. Divulgar, a través de los medios de difusión de la Fiscalía General y en términos de lo dispuesto tanto por la Ley General de Transparencia como por la Ley Estatal de Transparencia, la siguiente información:
+
+a) Las estadísticas y los indicadores relativos al ejercicio de las facultades que corresponden a la Fiscalía General en materia de procuración de justicia;
+
+b) Las estadísticas y los indicadores relativos al ejercicio de la pretensión punitiva del Estado;
+
+c) Las estadísticas y los indicadores relativos a las actividades de cada una de las áreas de la Fiscalía General;
+
+d) Los resultados de los programas de contratación y certificación de los servidores públicos de la Fiscalía General;
+
+e) Las estadísticas y los indicadores de desempeño de cada una de las áreas de la Fiscalía General y de los servidores públicos que las integran; y
+
+f) En general, cualquier información de interés público, en términos de lo dispuesto por la Ley General de Transparencia y la Ley Estatal de Transparencia;
+
+IV. Recibir, tramitar y responder, con la oportunidad debida, a las solicitudes de información que realicen las personas, en términos de lo dispuesto por la Ley Estatal de Transparencia;
+
+V. Salvaguardar y proteger, con la debida diligencia, la información confidencial y la información reservada, en términos de lo dispuesto por la Ley General de Transparencia, la Ley Estatal de Transparencia, la Ley General de Protección de Datos y la Ley Estatal de Protección de Datos;
+
+VI. Garantizar el acceso y el funcionamiento de los medios de difusión de la Fiscalía General, estableciendo medidas que faciliten la búsqueda de información para todas las personas, en especial para aquellas que pertenecen a algún grupo vulnerable; y
+
+VII. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE FEBRERO DE 2021)</small>
 
 #### SECCIÓN NOVENA. Centro de Evaluación y Control de Confianza
 
@@ -1798,50 +1888,6 @@ VI.- Los demás que establezcan las normas aplicables.
 > <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2021)</small>
 
 ARTÍCULO 84 D. Las cuestiones relativas al Centro de Evaluación y Control de Confianza así como a las evaluaciones que realice, serán determinadas en el reglamento correspondiente.
-
-###### ARTÍCULO 82.
-
-La Unidad de Transparencia tendrá a su cargo la difusión, divulgación, solicitud, integración, concentración, actualización, conservación, protección y sistematización de la información relativa a la Fiscalía General, con el objeto de dar cumplimiento a las obligaciones que le corresponden en materia de transparencia y de ponerla a disposición de los particulares, en los términos prescritos por la Ley General de Transparencia y la Ley Estatal de Transparencia.
-
-###### ARTÍCULO 83.
-
-Además de los requisitos establecidos en el artículo 59 de la presente Ley, la persona titular de la Unidad de Transparencia deberá acreditar que cuenta con preparación y conocimiento académicos en materia de Transparencia y Acceso a la Información Pública, Derechos Humanos o cualquier otra afín, así como también deberá cubrir cualquier otro requisito que se establezca en el reglamento de la presente Ley.
-
-###### ARTÍCULO 84.
-
-Corresponde a la persona titular de la Unidad de Transparencia, además de las señaladas en el artículo 60 de la presente Ley, en la Ley General de Transparencia y en la Ley Estatal de Transparencia, el ejercicio y cumplimiento de las siguientes atribuciones, facultades, deberes y obligaciones específicas:
-
-I. Proteger y fomentar el ejercicio del Derecho Humano de Acceso a la Información, en todas las formas en las que éste se manifiesta;
-
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2023)</small>
-
-II. Coordinarse con la Unidad Auxiliar Sustantiva denominada Centro Estatal de Inteligencia y Política Criminal; con las Unidades Auxiliares Adjetivas de Archivo, Innovación, Planeación y Desarrollo Tecnológico, la Oficialía Mayor y la Coordinación del Centro de Justicia para Mujeres; y, en general, con cualquiera de los elementos y factores que integran la estructura orgánica de la Fiscalía General, con el propósito de dar cumplimiento con las obligaciones que le son propias en materia de transparencia;
-
-III. Divulgar, a través de los medios de difusión de la Fiscalía General y en términos de lo dispuesto tanto por la Ley General de Transparencia como por la Ley Estatal de Transparencia, la siguiente información:
-
-a) Las estadísticas y los indicadores relativos al ejercicio de las facultades que corresponden a la Fiscalía General en materia de procuración de justicia;
-
-b) Las estadísticas y los indicadores relativos al ejercicio de la pretensión punitiva del Estado;
-
-c) Las estadísticas y los indicadores relativos a las actividades de cada una de las áreas de la Fiscalía General;
-
-d) Los resultados de los programas de contratación y certificación de los servidores públicos de la Fiscalía General;
-
-e) Las estadísticas y los indicadores de desempeño de cada una de las áreas de la Fiscalía General y de los servidores públicos que las integran; y
-
-f) En general, cualquier información de interés público, en términos de lo dispuesto por la Ley General de Transparencia y la Ley Estatal de Transparencia;
-
-IV. Recibir, tramitar y responder, con la oportunidad debida, a las solicitudes de información que realicen las personas, en términos de lo dispuesto por la Ley Estatal de Transparencia;
-
-V. Salvaguardar y proteger, con la debida diligencia, la información confidencial y la información reservada, en términos de lo dispuesto por la Ley General de Transparencia, la Ley Estatal de Transparencia, la Ley General de Protección de Datos y la Ley Estatal de Protección de Datos;
-
-VI. Garantizar el acceso y el funcionamiento de los medios de difusión de la Fiscalía General, estableciendo medidas que faciliten la búsqueda de información para todas las personas, en especial para aquellas que pertenecen a algún grupo vulnerable; y
-
-VII. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE FEBRERO DE 2021)</small>
-
-#### SECCIÓN PRIMERA. Disposiciones Generales
 
 ## TÍTULO CUARTO. ÓRGANO INTERNO DE CONTROL Y VIGILANCIA
 
@@ -1977,7 +2023,7 @@ En el caso de la comisión de hechos presuntamente constitutivos de faltas admin
 
 ### CAPÍTULO I. Agentes del Ministerio Público
 
-#### SECCIÓN SEGUNDA. Agentes del Ministerio Público Especializados en el Sistema Integral de Justicia Penal para Adolescentes
+#### SECCIÓN PRIMERA. Disposiciones Generales
 
 ###### ARTÍCULO 97.
 
@@ -2073,7 +2119,7 @@ Los Agentes del Ministerio Público serán adscritos a las diversas áreas que i
 
 En casos excepcionales y tomando en consideración las necesidades del servicio y la disponibilidad presupuestal de la Fiscalía General, el Fiscal General podrá nombrar Agentes del Ministerio Público de designación especial, quienes deberán satisfacer los requisitos de ingreso establecidos en la Ley General de Seguridad Pública, con excepción de los que correspondan al procedimiento de formación inicial, serán ajenos al Servicio Profesional de Carrera y no podrán durar más de cinco años en su encargo.
 
-#### SECCIÓN TERCERA. Agentes del Ministerio Público Especializados en Materia de Acceso de las Mujeres a una Vida Libre de Violencia
+#### SECCIÓN SEGUNDA. Agentes del Ministerio Público Especializados en el Sistema Integral de Justicia Penal para Adolescentes
 
 ###### ARTÍCULO 102.
 
@@ -2091,7 +2137,7 @@ Asimismo, el Fiscal General podrá nombrar Agentes del Ministerio Público Espec
 
 Las atribuciones, facultades, deberes y obligaciones que corresponden a los Agentes del Ministerio Público, en términos de la presente Ley y de las demás disposiciones relativas, se entenderán igualmente aplicables a los Agentes del Ministerio Público Especializados en el Sistema Integral de Justicia Penal para Adolescentes, sin perjuicio de las previsiones específicas establecidas por las disposiciones especiales de la materia y siempre que no se opongan a ellas.
 
-#### SECCIÓN CUARTA. Auxiliares del Ministerio Público
+#### SECCIÓN TERCERA. Agentes del Ministerio Público Especializados en Materia de Acceso de las Mujeres a una Vida Libre de Violencia
 
 ###### ARTÍCULO 105.
 
@@ -2109,7 +2155,7 @@ Asimismo, el Fiscal General podrá nombrar Agentes del Ministerio Público Espec
 
 Las atribuciones, facultades, deberes y obligaciones que corresponden a los Agentes del Ministerio Público, en términos de la presente Ley y de las demás disposiciones relativas, se entenderán igualmente aplicables a los Agentes del Ministerio Público Especializados en Acceso de las Mujeres a una Vida Libre de Violencia, sin perjuicio de las previsiones específicas establecidas por las disposiciones especiales de la materia y siempre que no se opongan a ellas.
 
-#### SECCIÓN PRIMERA. Disposiciones Generales
+#### SECCIÓN CUARTA. Auxiliares del Ministerio Público
 
 ###### ARTÍCULO 108.
 
@@ -2151,7 +2197,7 @@ En la investigación de hechos presuntamente constitutivos de delito, la Unidad 
 
 ### CAPÍTULO II. Agentes de la Policía de Investigación
 
-#### SECCIÓN SEGUNDA. Agentes de la Policía de Investigación Especializados en el Sistema Integral de Justicia Penal para Adolescentes
+#### SECCIÓN PRIMERA. Disposiciones Generales
 
 ###### ARTÍCULO 110.
 
@@ -2237,7 +2283,7 @@ Los Agentes de la Policía de Investigación serán adscritos a los diversos ele
 
 En casos excepcionales y tomando en consideración las necesidades del servicio y la disponibilidad presupuestal de la Fiscalía General, el Fiscal General podrá nombrar Agentes de la Policía de Investigación de designación especial, quienes deberán satisfacer los requisitos de ingreso establecidos en la Ley General de Seguridad Pública, con excepción de los que correspondan al procedimiento de formación inicial, serán ajenos al Servicio Profesional de Carrera y no podrán durar más de cinco años en su encargo.
 
-#### SECCIÓN TERCERA. Agentes de la Policía de Investigación Especializados en Materia de Acceso de las Mujeres a una Vida Libre de Violencia
+#### SECCIÓN SEGUNDA. Agentes de la Policía de Investigación Especializados en el Sistema Integral de Justicia Penal para Adolescentes
 
 ###### ARTÍCULO 116.
 
@@ -2255,7 +2301,7 @@ Asimismo, el Fiscal General podrá nombrar Agentes de la Policía de Investigaci
 
 Las atribuciones, facultades, deberes y obligaciones que corresponden a los Agentes de la Policía de Investigación, en términos de la presente Ley y de las demás disposiciones relativas, se entenderán igualmente aplicables a los Agentes de la Policía de Investigación Especializados en el Sistema Integral de Justicia Penal para Adolescentes, sin perjuicio de las previsiones específicas establecidas por las disposiciones especiales de la materia y siempre que no se opongan a ellas.
 
-#### SECCIÓN PRIMERA. Obligaciones e Incompatibilidades
+#### SECCIÓN TERCERA. Agentes de la Policía de Investigación Especializados en Materia de Acceso de las Mujeres a una Vida Libre de Violencia
 
 ###### ARTÍCULO 119.
 
@@ -2399,7 +2445,7 @@ En el caso de que las licencias sin goce de sueldo estén motivadas por razones 
 
 ### CAPÍTULO II. Obligaciones, Impedimentos y Responsabilidades
 
-#### SECCIÓN SEGUNDA. Impedimentos, Excusas y Recusaciones
+#### SECCIÓN PRIMERA. Obligaciones e Incompatibilidades
 
 ###### ARTÍCULO 135.
 
@@ -2467,9 +2513,7 @@ VII. Ejercer ni desempeñar las funciones de apoderado judicial, síndico, admin
 
 VIII. Ejercer ni desempeñar las funciones de depositario judicial, salvo en causa propia, de su cónyuge, concubina o concubinario, de sus ascendientes o descendientes, de sus hermanos o de su adoptante o adoptado.
 
-#### SECCIÓN TERCERA. Responsabilidades
-
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+#### SECCIÓN SEGUNDA. Impedimentos, Excusas y Recusaciones
 
 ###### ARTÍCULO 137.
 
@@ -2507,7 +2551,9 @@ VII. Si el Fiscal General encuentra infundada e improcedente la recusación, el 
 
 Desde el momento en que se interponga la recusación, el Agente del Ministerio Público o el Perito de que se trate suspenderá el asunto y se abstendrá de actuar en él, salvo en el caso de que sea necesario llevar a cabo diligencias urgentes que no admitan dilación y las de mero trámite.
 
-#### SECCIÓN PRIMERA. Disposiciones Generales
+#### SECCIÓN TERCERA. Responsabilidades
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 140.
 
@@ -2583,7 +2629,7 @@ El régimen de suplencias de los servidores públicos de la Fiscalía General, d
 
 ### CAPÍTULO IV. Servicio Profesional de Carrera
 
-#### SECCIÓN SEGUNDA. Disposiciones Básicas
+#### SECCIÓN PRIMERA. Disposiciones Generales
 
 ###### ARTÍCULO 152.
 
@@ -2605,7 +2651,7 @@ V. Garantizar la autonomía y la imparcialidad en el ejercicio y el cumplimiento
 
 VI. Dar continuidad a las políticas, los planes, los programas y a las acciones, generales y específicas, formuladas e implementadas en materia de las atribuciones inmanentes a la Institución del Ministerio Público, con el propósito de alcanzar las metas planteadas en ellos, y proseguir con aquellas que colaboren con la función de la seguridad pública.
 
-#### SECCIÓN TERCERA. Ingreso, Desarrollo y Permanencia
+#### SECCIÓN SEGUNDA. Disposiciones Básicas
 
 ###### ARTÍCULO 154.
 
@@ -2671,7 +2717,7 @@ La Fiscalía General contará con un programa de profesionalización, cuyas cara
 
 Se encuentren sujetos o no al régimen del Servicio Profesional de Carrera, todos los servidores públicos de la Fiscalía General estarán obligados a aprobar las evaluaciones de control y confianza, del desempeño y de competencias profesionales prescritas en la presente Ley, así como también deberán ajustarse al sistema de profesionalización establecido en la misma y en las demás disposiciones aplicables.
 
-#### SECCIÓN CUARTA. Estímulos y Reconocimientos
+#### SECCIÓN TERCERA. Ingreso, Desarrollo y Permanencia
 
 ###### ARTÍCULO 159.
 
@@ -2723,7 +2769,7 @@ V. Acceder a los programas de capacitación, actualización, especialización, c
 
 VI. Los demás que señalen otras disposiciones legales aplicables, así como todos aquellos que sean inherentes al ejercicio del empleo, cargo o comisión que se ejerce.
 
-#### SECCIÓN QUINTA. Terminación del Servicio
+#### SECCIÓN CUARTA. Estímulos y Reconocimientos
 
 ###### ARTÍCULO 164.
 
@@ -2733,7 +2779,7 @@ Los servidores públicos de la Fiscalía General que destaquen por su asistencia
 
 Los servidores públicos de la Fiscalía General que contribuyan a mejorar los servicios prestados y las funciones que corresponden a la Fiscalía General; que aporten a esta o a la sociedad innovaciones relevantes, o que hayan realizado acciones que den testimonio de su valor, de su eficacia o de su eficiencia en el ejercicio de las funciones propia (sic) de su empleo, cargo o comisión; o que demuestren un notorio interés por el servicio a favor de la comunidad, podrán ser galardonados con el otorgamiento del reconocimiento al que hubiera lugar, en términos del reglamento del Servicio Profesional de Carrera o en las demás disposiciones aplicables.
 
-#### SECCIÓN SEXTA. Comisión del Servicio Profesional de Carrera
+#### SECCIÓN QUINTA. Terminación del Servicio
 
 ###### ARTÍCULO 166.
 
@@ -2777,7 +2823,7 @@ Para efectos del presente artículo, se entenderá que la causa de terminación 
 
 Las solicitudes de reincorporación al Servicio Profesional de Carrera se analizarán y, en su caso, concederán con arreglo a lo que establezca esta Ley, su reglamento y las demás disposiciones aplicables, siempre que el motivo de terminación del servicio haya sido por causas distintas a la rescisión, separación o remoción.
 
-#### SECCIÓN SÉPTIMA. Comisión de Honor y Justicia
+#### SECCIÓN SEXTA. Comisión del Servicio Profesional de Carrera
 
 ###### ARTÍCULO 172.
 
@@ -2812,6 +2858,8 @@ VI. Las demás que se prescriban en el reglamento del Servicio Profesional de Ca
 ###### ARTÍCULO 174.
 
 El funcionamiento de la Comisión del Servicio Profesional de Carrera se sujetará a las disposiciones que se establezcan en el reglamento del Servicio Profesional de Carrera.
+
+#### SECCIÓN SÉPTIMA. Comisión de Honor y Justicia
 
 ###### ARTÍCULO 175.
 
@@ -3038,3 +3086,21 @@ P.O. 13 DE NOVIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 22 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 591.- SE REFORMA LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+– El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+– Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto se deberán expedir todas aquellas disposiciones normativas y reglamentarias necesarias para su cumplimiento.
+
+###### ARTICULO TERCERO.
+
+Conforme al principio del interés superior de la niñez, el Congreso del Estado de Aguascalientes, en el Presupuesto de Egresos inmediato posterior a la entrada en vigor del presente Decreto, al menos deberá destinar los recursos necesarios para la operación y funcionamiento del Centro de Atención y Justicia para Niñas, Niños y Adolescentes en cada distrito judicial en el Estado. Los organismos autónomos y las autoridades vinculadas por el presente Decreto, también incluirán en su proyecto de Presupuesto los recursos necesarios.
+
+Lo anterior, no será impedimento para que dichos Centros comiencen a operar conforme al artículo segundo transitorio del presente Decreto, con los recursos con que cuenten los poderes Ejecutivo, Judicial y los organismos autónomos a la fecha.
