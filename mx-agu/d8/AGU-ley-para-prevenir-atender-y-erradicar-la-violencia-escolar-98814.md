@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-prevenir-atender-y-erradicar-la-violencia-escolar-9881
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-17"
-last_updated: "2022-05-02"
+last_updated: "2024-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA ESCOLAR EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de febrero de 2014.
 
@@ -73,71 +73,109 @@ Para los efectos de la presente Ley, se entiende por:
 
 I. Autoridad Educativa Responsable: Es la autoridad o trabajador de la educación, que respecto de un hecho de violencia escolar debe ejecutar lo ordenado por la presente Ley;
 
-II. Comisiones Legislativas: Son las comisiones del Congreso del Estado encargadas del proceso legislativo;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-III. Comisiones: Son las determinadas por el Consejo para realizar el seguimiento de los asuntos turnados por éste;
+II. Acoso Escolar: Forma de violencia en la que la víctima es objeto de comportamientos agresivos intencionales que le causan menoscabo, heridas o malestar, por medio del contacto físico o a través de medios electrónicos de comunicación, agresiones verbales, burlas, uso de apodos hirientes, provocaciones, peleas, la exclusión social o manipulación psicológica en entornos educativos públicos o privados, y que atenta contra su dignidad o salud;
 
-IV. Consejo: Es el Consejo Preventivo de la Violencia Escolar en el Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-V. Convivencia Escolar: Son las condiciones educativas libres de violencia que facilitan el entorno para el desarrollo personal integral y armónico;
+III. Bullying Escolar: Es todo acto u omisión que de manera reiterada agreda física, psicoemocional, patrimonial o sexualmente a una niña, niño, o adolescente; realizado bajo el cuidado de las instituciones escolares, sean públicas o privadas;
 
-VI. Datos Personales: Son los atributos jurídicos de la persona, características asignadas por el derecho que lo identifican como centro de derechos y obligaciones;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-VII. Datos Sensibles: Son los datos recopilados en información corporal de la persona, provenientes de los registros médicos y genéticos;
+IV. Comisiones Legislativas: Son las comisiones del Congreso del Estado encargadas del proceso legislativo;
 
-VIII. Denuncia: Es el acto mediante el cual, una persona da a conocer hechos probablemente constitutivos de violencia escolar;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2019)</small>
+V. Comisiones: Son las determinadas por el Consejo para realizar el seguimiento de los asuntos turnados por éste;
 
-IX. Detonante de violencia: Son los factores o motivos psicoemocionales o sociales que hacen al generador reaccionar de manera violenta;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2019)</small>
+VI. Consejo: Es el Consejo Preventivo de la Violencia Escolar en el Estado de Aguascalientes;
 
-X. Estudiante: Es la persona inscrita en el sistema escolar, susceptible de ser objeto de violencia;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2019)</small>
+VII. Convivencia Escolar: Son las condiciones educativas libres de violencia que facilitan el entorno para el desarrollo personal integral y armónico;
 
-XI. Generador: Es la persona que provoca o realiza la violencia escolar;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2019)</small>
+VIII. Ciberbullying Escolar: Forma de Violencia por medio de las tecnologías digitales que puede ocurrir en las redes sociales, plataformas de mensajería, plataformas de juegos y teléfonos móviles;
 
-XII. Gobiernos Municipales: Son las autoridades formalmente constituidas, mediante procesos validos de elección de los municipios del Estado;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2019)</small>
+IX. Datos Personales: Cualquier información concerniente a una persona física identificada o identificable. Se considera que una persona es identificable cuando su identidad pueda determinarse directa o indirectamente a través de cualquier información;
 
-XIII. Instituciones Educativas en el Estado: Son las instituciones de carácter público o privado, que imparten educación de cualquier nivel en el Estado;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2019)</small>
+X. Datos Personales Sensibles: Aquellos que se refieran a la esfera más íntima de su titular, o cuya utilización indebida pueda dar origen a discriminación o conlleve un riesgo grave para éste. De manera enunciativa más no limitativa, se consideran sensibles los datos personales que puedan revelar aspectos como origen racial étnico, estado de salud presente o futuro, información genética, creencias religiosas, filosóficas y morales, opiniones políticas y preferencia sexual;
 
-XIV. Instituto: El Instituto de Educación del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2019)</small>
+XI. Denuncia: Es el acto mediante el cual, una persona da a conocer hechos probablemente constitutivos de violencia escolar;
 
-XV. ISSEA: Instituto de Servicios de Salud del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2019)</small>
+XII. Detonante de Violencia: Son los factores o motivos psicoemocionales o sociales que hacen al generador reaccionar de manera violenta;
 
-XVI. Ley: La presente Ley Para Prevenir, Atender y Erradicar La Violencia Escolar en el Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2019)</small>
+XIII. Estudiante: Es la persona inscrita en el sistema escolar, susceptible de ser objeto de violencia;
 
-XVII. Protocolo: Es el instrumento elaborado por el Consejo que contiene las estrategias, procedimientos y acciones encaminadas a atender los casos de violencia escolar;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2019)</small>
+XIV. Generador: Es la persona que provoca o realiza la violencia escolar;
 
-XVIII. Receptor: Es la persona que recibe la violencia escolar;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2019)</small>
+XV. Generador Indirecto: Es la persona que apoya al generador de violencia escolar, alentando o fomentando tales acciones, ya sea estudiante, personal docente, directivo escolar, personal administrativo, padre o madre de familia, tutor, o quien ejerza la patria potestad;
 
-XIX. Relación de hechos: Es el documento que contiene la concatenación sucinta de hechos posiblemente ocurridos de violencia escolar;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2019)</small>
+XVI. Gobiernos Municipales: Son las autoridades formalmente constituidas, mediante procesos validos de elección de los Municipios del Estado;
 
-XX. Víctima: Es la persona o la institución que resulta afectada por la violencia escolar; y
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE JUNIO DE 2019)</small>
+XVII. Hostigamiento Sexual en el Ámbito Escolar: Es el ejercicio del poder en una relación de subordinación real de la víctima frente al agresor en las instituciones educativas. Se expresa en conductas verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva;
 
-XXI. Violencia Escolar: Son los actos producidos entre los estudiantes o hacia los docentes o demás personal administrativo de forma intencional, sea metódica, sistemática o reiterada, produciendo un daño físico o psicológico.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XVIII. Instituciones Educativas en el Estado: Son las instituciones de carácter público o privado, que imparten educación de cualquier nivel en el Estado;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XIX. Instituto: El Instituto de Educación del Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XX. ISSEA: Instituto de Servicios de Salud del Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XXI. Ley: La presente Ley Para Prevenir, Atender y Erradicar La Violencia Escolar en el Estado de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XXII. Protocolo: Es el instrumento elaborado por el Consejo que contiene las estrategias, procedimientos y acciones encaminadas a atender los casos de violencia escolar;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XXIII. Receptor: Es la persona que recibe la violencia escolar;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XXIV. Receptor Indirecto: cualquier persona vinculada con el receptor de la violencia escolar, que de manera indirecta sufra algún riesgo o afectación por motivo de la misma;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XXV. Relación de Hechos: Es el documento que contiene la concatenación sucinta de hechos posiblemente ocurridos de violencia escolar;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XXVI. Víctima: Es la persona física que haya sufrido algún daño o menoscabo físico, mental, emocional o en general cualquier puesta en peligro o lesión a sus bienes jurídicos o derechos como consecuencia de la violencia generada en el entorno escolar; y
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XXVII. Violencia Escolar: Forma de violencia por acción u omisión con la intención de dañar física, psicoemocional, patrimonial o sexualmente a una o varias personas pertenecientes a la comunidad educativa, ya sean estudiantes, profesores, madres, padres, o tutores, personal directivo, subalterno o demás personal administrativo, y que se produce dentro de las instalaciones educativas, o bien en otros espacios directamente relacionados con el ámbito educativo, alrededores de la institución educativa o lugares donde se desarrollan actividades extraescolares. A la violencia escolar se suman las formas de violencia de acoso escolar, bullying escolar, ciberbullying escolar, y hostigamiento sexual en el ámbito escolar.
 
 ### CAPÍTULO II. Violencia Escolar
 
@@ -185,25 +223,27 @@ Con la finalidad de realizar acciones que permitan dar cumplimiento al objeto de
 
 I. La Secretaría de Seguridad Pública del Estado;
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-II. El Instituto de Servicios de Salud del Estado;
+II. La Secretaría de Salud del Estado;
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-III. La Secretaría de la Juventud;
+III. El Instituto Aguascalentense de la Juventud;
 
 IV. El Instituto Aguascalentense de las Mujeres;
 
-V. Los Gobiernos municipales;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+V. Los Gobiernos Municipales;
 
 > <small>(REFORMADA, P.O. 25 DE MAYO DE 2015)</small>
 
 VI. La Comisión de Derechos Humanos del Estado de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-VII. Los Consejos de Participación Social; y
+VII. El Consejo Escolar de Participación Social en la Educación; y
 
 > <small>(ADICIONADA, P.O. 25 DE MAYO DE 2015)</small>
 
@@ -228,6 +268,18 @@ VI. Coordinará a las autoridades mencionadas en esta Ley;
 VII. Supervisará que las autoridades integren políticas públicas y acciones que fomenten la cultura de la no violencia escolar; y
 
 VIII. Informará en el mes de agosto por escrito a las Comisiones Legislativas de Derechos Humanos y de Educación y Cultura sobre el estado que guardan las acciones ordenadas por esta Ley.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 22 DE ENERO DE 2024)</small>
+
+Además, el Instituto deberá contemplar como mínimo las siguientes estrategias:
+
+A. Prevenir, construyendo un medio social de respeto y seguridad en las escuelas;
+
+B. Identificar la existencia de problemas de violencia escolar latentes;
+
+C. Impedir eficazmente que persista la conducta violenta; y
+
+D. Apoyar y orientar a las personas menores de edad a su madre, padre o tutores, para garantizar la rehabilitación de la persona afectada. En cada una de esas etapas deben diseñarse estrategias de acción accesibles para docentes, directivos y padres de familia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2015)</small>
 
@@ -461,7 +513,9 @@ V. Señalar las posibles consecuencias y acciones por parte de los directivos y 
 
 VI. Mencionar las acciones específicas para proteger al estudiante de cualquier represalia que pueda sufrir a consecuencia de denunciar actos de violencia escolar;
 
-VII. Precisar la (sic) líneas de apoyo y asesoría psicológica para los generadores y receptores;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+VII. Precisar las líneas de apoyo y asesoría psicológica para las personas generadoras y receptoras, tanto directas como indirectas de la violencia escolar;
 
 VIII. Establecer los procedimientos para la denuncia de un acto de violencia escolar;
 
@@ -627,9 +681,11 @@ Las autoridades educativas podrán implementar medidas que involucren la interve
 
 Cuando se presenten casos de reincidencia, o bien, que las condiciones que generaron las circunstancias de violencia escolar no sean modificadas, las autoridades escolares podrán pedir la intervención del Consejo a fin de que éste determine medidas adecuadas, tomando en cuenta la participación de quienes ejerzan la patria potestad sobre los generadores.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 41.
 
-Cuando se trate de trabajadores de educación al servicio del Estado que realicen conductas irregulares; podrá integrarse expediente particular y darse vista a la Secretaría de Fiscalización y Rendición de Cuentas del Estado.
+Cuando se trate de trabajadores de la educación al servicio del Estado que contravengan las disposiciones de la presente Ley, se aplicará lo dispuesto en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 ###### ARTÍCULO 42.
 
@@ -720,3 +776,15 @@ P.O. 2 DE MAYO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 22 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 555.- SE REFORMA LA LEY PARA PREVENIR, ATENDER Y ERRADICARLA VIOLENCIA ESCOLAR EN EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Decreto, el Consejo Preventivo de la Violencia Escolar en el Estado de Aguascalientes, deberá adecuar el Reglamento Interior del Consejo Preventivo de la Violencia Escolar en el Estado de Aguascalientes y el Protocolo para Prevenir, Atender, Sancionar y Erradicar el Acoso y el Hostigamiento Sexual en las Instituciones Formadoras y Actualizadoras de Docentes del Instituto de Educación de Aguascalientes, a efecto de dar cumplimiento a lo establecido en el presente Decreto.
