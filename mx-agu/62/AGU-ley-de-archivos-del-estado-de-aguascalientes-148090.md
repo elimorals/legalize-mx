@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-archivos-del-estado-de-aguascalientes-148090"
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-01"
-last_updated: "2021-03-01"
+last_updated: "2024-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ARCHIVOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección al Núm. 9 del Periódico Oficial de Estado de Aguascalientes, el lunes 1 de marzo de 2021.
 
@@ -1221,9 +1221,9 @@ II.- Poseer, al día de la designación, título profesional en materia relativa
 
 III.- Contar con experiencia mínima de cinco años en materia de archivística; y
 
-(NOTA: EL 11 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 53/2021 Y SU ACUMULADA 58/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-IV.- NO HABER SIDO CONDENADO POR LA COMISIÓN DE ALGÚN DELITO DOLOSO.
+IV.- No haber sido condenado por algún delito previsto como tipo penal protector de la administración pública, o hechos de corrupción, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia.
 
 Durante su gestión, el Director General no podrá desempeñar ningún otro empleo, cargo o comisión, con excepción de aquellos que puede desempeñar en las instituciones docentes, científicas o de beneficencia, siempre que sean compatibles con sus horarios, responsabilidades y actividades dentro de la Dirección General.
 
@@ -1316,3 +1316,13 @@ MARGARITA GALLEGOS SOTO,
 DIPUTADA SEGUNDA SECRETARIA.
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 26 de febrero de 2021.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Lic. Juan Manuel Flores Femat.- Rúbrica.
+
+P.O. 22 DE ENERO DE 2024.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 558.- SE REFORMA LA LEY DE ARCHIVOS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
