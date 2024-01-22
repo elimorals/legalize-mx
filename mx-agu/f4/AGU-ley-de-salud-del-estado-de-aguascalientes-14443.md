@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2024-01-08"
+last_updated: "2024-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -3161,9 +3161,21 @@ V.- Practicar la necropsia de animales sospechosos de padecer rabia;
 
 VI.- Obtener los diagnósticos de rabia por medio de análisis de laboratorio.
 
-VII.- Canalizar a las personas agredidas para su tratamiento oportuno; y
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-VIII.- El sacrificio humanitario de los animales que habiendo cumplido el lapso de observación, no hayan sido reclamados por sus propietarios o cuando éstos así lo soliciten.
+VII.- Canalizar a las personas agredidas para su tratamiento oportuno;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+VIII.- El sacrificio humanitario de los animales que habiendo cumplido el lapso de observación, no hayan sido reclamados por sus propietarios o cuando éstos así lo soliciten;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2024)</small>
+
+IX.- Elaborar y diseñar programas de sociabilización a las razas de perros de manejo especial y rehabilitación canina en coordinación con las escuelas de adiestramiento canino establecidas en el Estado; y
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2024)</small>
+
+X. Expedir certificados de perros de manejo especial a través del documento informativo otorgado por las escuelas de adiestramiento canino, que acredite los programas de sociabilización o en su caso rehabilitación canina.
 
 ###### ARTICULO 224.
 
@@ -4736,3 +4748,11 @@ P.O. 8 DE ENERO DE 2024.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 22 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 566.- SE REFORMA LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.– Las autoridades competentes, dentro de los 180 días siguientes a la entrada en vigor de este Decreto, deberán emitir los reglamentos necesarios a efecto de aplicar correctamente las reformas contenidas en este Decreto.
