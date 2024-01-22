@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-asociaciones-publico-privadas-y-proyectos-de-96610"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-11"
-last_updated: "2023-12-25"
+last_updated: "2024-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,13 @@ state: "AGU"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2024 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE ASOCIACIONES PÚBLICO-PRIVADAS Y PROYECTOS DE PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE AGUASCALIENTES
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2023.
+
+(REPUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.)
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 11 de noviembre de 2013.
 
@@ -133,23 +137,23 @@ q) Proyecto: Los servicios y actividades a que se refiere el Artículo 5° de es
 
 r) Reglamento: El Reglamento de la Presente Ley;
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+(REFORMADO, P.O. 25 DE DICIEMBRE DE 2023) (REPUBLICADO, P.O. 22 DE ENERO DE 2024)
 
 s) Secretaría: La Secretaría de Finanzas del Estado de Aguascalientes;
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+(REFORMADO, P.O. 25 DE DICIEMBRE DE 2023) (REPUBLICADO, P.O. 22 DE ENERO DE 2024)
 
 t) Secretaría de Finanzas Municipal y/o Tesorería: La Secretaría de Finanzas Municipal o la Tesorería Municipal;
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023) (REPUBLICADO, P.O. 22 DE ENERO DE 2024)
 
 u) Concursante: La persona que participa en algún concurso que tenga por objeto la adjudicación de un proyecto de asociación público-privada;
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023) (REPUBLICADO, P.O. 22 DE ENERO DE 2024)
 
 v) Convocante: La autoridad estatal o municipal que convoque a un concurso para adjudicar un proyecto de asociación público-privada; y
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023) (REPUBLICADO, P.O. 22 DE ENERO DE 2024)
 
 w) Promotor: La persona que promueve, ante una autoridad estatal o municipal, un proyecto de asociación público-privada.
 
@@ -197,7 +201,7 @@ d) Suministro y reposición de bienes muebles.
 
 Adicionalmente, en su caso, los proyectos podrán incluir el suministro, abastecimiento, proveeduría o consumo de cualquiera de los servicios básicos incluidos dentro de la clasificación del gasto corriente, siempre que se deriven, se vinculen, se integren o, en cualquier forma, se relacionen con cualquiera de las actividades que se señalan en este Artículo de manera tal de lograr su integralidad para que ningún proceso que pudiera quedar fuera detenga la realización del proyecto.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023) (REPUBLICADO, P.O. 22 DE ENERO DE 2024)
 
 Cualquier interesado en realizar un proyecto de asociación público-privada podrá presentar su propuesta a la dependencia o entidad estatal y/o municipal competente.
 
@@ -769,15 +773,15 @@ IV. A las demás disposiciones de la Ley que resulten aplicables a la licitació
 
 En el supuesto de que un procedimiento de invitación a cuando menos tres personas haya sido declarado desierto, el titular de la convocante podrá adjudicar directamente el contrato siempre que no se modifiquen los requisitos establecidos en dichas invitaciones.
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2023)</small>
+(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2023) (REPUBLICADO, P.O. 22 DE ENERO DE 2024)
 
 ## TÍTULO SEXTO BIS. PROPUESTAS NO SOLICITADAS
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2023)</small>
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2023) (REPUBLICADO, P.O. 22 DE ENERO DE 2024)
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023) (REPUBLICADO, P.O. 22 DE ENERO DE 2024)
 
 ARTÍCULO 45 A.- Cualquier persona interesada en realizar un proyecto de Asociación Público Privada podrá presentar su propuesta no solicitada a las Autoridades Estatales o Municipales Contratantes competentes.
 
@@ -803,11 +807,11 @@ El Reglamento señalará los alcances de los requisitos mencionados en las fracc
 
 Si la propuesta no solicitada incumple alguno de los requisitos a que se refiere este artículo, o los estudios se encuentran incompletos, no será analizada.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023) (REPUBLICADO, P.O. 22 DE ENERO DE 2024)
 
 ARTÍCULO 45 B.- Para efectos del artículo anterior, las Autoridades Estatales o Municipales Contratantes podrán publicar en su página oficial de internet, el acuerdo mediante el cual determinen las propuestas no solicitadas de proyectos de Asociación Público Privada que estarán dispuestos a recibir, señalando los sectores, subsectores, ámbitos geográficos, tipo de proyectos y demás elementos que correspondan, así como su vinculación con los objetivos estatales y municipales, estrategias y prioridades contenidas en el Plan Estatal de Desarrollo y los Planes Municipales de Desarrollo. En estos casos, solo se analizarán las propuestas que atiendan los elementos citados.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023) (REPUBLICADO, P.O. 22 DE ENERO DE 2024)
 
 ARTÍCULO 45 C.- Las propuestas no solicitadas que cumplan con los requisitos señalados en el presente Capítulo, serán analizadas y evaluadas por las Autoridades Estatales o Municipales Contratantes conforme a lo siguiente:
 
@@ -827,7 +831,7 @@ VII. Transcurrido el plazo para el análisis y evaluación de la propuesta no so
 
 La presentación de propuestas no solicitadas no será vinculante para el Ente Público competente y solo da derecho al Promotor a que el aludido Ente las analice y evalúe.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023) (REPUBLICADO, P.O. 22 DE ENERO DE 2024)
 
 ARTÍCULO 45 D.- Según el sentido de la opinión emitida, se estará a lo siguiente:
 
@@ -841,7 +845,7 @@ IV. En caso de que el Promotor no resulte ser el Desarrollador del proyecto, la 
 
 La opinión por la cual un proyecto de la propuesta no solicitada se considere o no procedente y, en su caso, se decida o no impulsar su desarrollo, no representa un acto de autoridad y contra ella no procederá instancia ni medio de defensa alguno.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023) (REPUBLICADO, P.O. 22 DE ENERO DE 2024)
 
 ARTÍCULO 45 E.- Cuando un proyecto de una propuesta no solicitada propuesto por un Promotor, sea considerado procedente por la Autoridad Estatal o Municipal Contratante y este decida impulsar su desarrollo, la preparación del mismo se realizará conforme a lo previsto en el Título Cuarto de la presente Ley y las disposiciones siguientes:
 
@@ -1267,6 +1271,8 @@ A la fecha de entrada en vigor del presente Decreto, todas la (sic) menciones a 
 
 P.O. 25 DE DICIEMBRE DE 2023.
 
+REPUBLICADO P.O. 22 DE ENERO DE 2024.
+
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 563.- SE REFORMA LA LEY DE ASOCIACIONES PÚBLICO-PRIVADAS Y PROYECTOS DE PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE AGUASCALIENTES".]
 
 ###### ARTÍCULO PRIMERO.
@@ -1275,7 +1281,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 ###### ARTÍCULO SEGUNDO.
 
-Queda (sic) sin efectos todas aquellas disposiciones que se opongan al presenten Decreto.
+Queda (sic) sin efectos todas aquellas disposiciones que se opongan al presenten (sic) Decreto.
 
 ###### ARTÍCULO TERCERO.
 
