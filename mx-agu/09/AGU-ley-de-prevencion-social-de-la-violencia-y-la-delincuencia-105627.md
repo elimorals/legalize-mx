@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-prevencion-social-de-la-violencia-y-la-delincuencia-1056
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-30"
-last_updated: "2023-08-07"
+last_updated: "2024-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de enero de 2015.
 
@@ -156,6 +156,46 @@ VI.- Programas de protección a las familias para evitar su desintegración y cu
 > <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2023)</small>
 
 VII.- La implementación de acciones para la detección y atención del acoso y violencia contra niñas, niños, adolescentes y mujeres, en las escuelas y comunidades.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2024)</small>
+
+Artículo 7 B.- La prevención en el ámbito comunitario pretende atender los factores que generan violencia y delincuencia mediante la participación ciudadana y comunitaria y comprende:
+
+I. La participación ciudadana y comunitaria en acciones que establezcan las prioridades de la prevención, mediante diagnósticos participativos, el mejoramiento de las condiciones de seguridad en su entorno y el desarrollo de prácticas que fomenten una cultura de prevención, autoprotección, denuncia ciudadana y de utilización de los métodos alternos para la solución de conflictos;
+
+II. El mejoramiento del acceso de la comunidad a los servicios básicos;
+
+III. El Fomento del desarrollo comunitario; la convivencia y la cohesión social entre las comunidades frente a problemas locales;
+
+IV. La participación ciudadana y comunitaria, a través de mecanismos que garanticen su efectiva intervención ciudadana en el diseño e implementación de planes y programas, a través de los Comités de Participación Ciudadana:
+
+V. El fomento de las actividades de las organizaciones de la sociedad civil; y
+
+VI. El diseño de mecanismos ciudadanos de control social para el monitoreo de programas.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2024)</small>
+
+Artículo 7 C.- La prevención en el ámbito situacional consiste en modificar el entorno para propiciar la convivencia y la cohesión social, así como disminuir los factores de riesgo que facilitan fenómenos de violencia y de incidencia delictiva, mediante:
+
+I. El mejoramiento y regulación del desarrollo urbano, rural, ambiental y el diseño industrial, incluidos los sistemas de transporte público y de vigilancia;
+
+II. La implementación de nuevas tecnologías de la Información y las Comunicaciones, así como el uso adecuado;
+
+III. La vigilancia respetando los derechos a la intimidad y a la privacidad;
+
+IV. La implementación de medidas administrativas encaminadas a disminuir la disponibilidad de medios comisivos o facilitadores de violencia; y
+
+V. La aplicación de estrategias para garantizar la no repetición de casos de victimización.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2024)</small>
+
+Artículo 7 D.- La prevención en el ámbito psicosocial tiene como objetivo incidir en las motivaciones individuales hacia la violencia o las condiciones criminógenas con referencia a las personas, la familia, la escuela y la comunidad, que incluye como mínimo lo siguiente:
+
+I. El diseño y aplicación de programas formativos en habilidades para la vida, dirigidos principalmente a la población en situación de riesgo y vulnerabilidad, especialmente a niñas, niños y adolescentes;
+
+II. La inclusión de la prevención de la violencia, la delincuencia y de las adicciones, en las políticas públicas en materia de educación; y
+
+III. El fortalecimiento de las capacidades institucionales y ciudadanas que aseguren la sostenibilidad de los programas preventivos.
 
 ###### Artículo 8º.
 
@@ -604,3 +644,11 @@ P.O. 7 DE AGOSTO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, quedando sin efecto todas aquellas disposiciones que se opongan al mismo.
+
+P.O. 22 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 560.- SE REFORMA LA LEY DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO
+
+El presente Decreto iniciara su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
