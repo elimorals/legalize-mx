@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1422
 country: "mx"
 rank: "ley"
 publication_date: "2020-03-16"
-last_updated: "2023-05-08"
+last_updated: "2024-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de marzo de 2020.
 
@@ -331,6 +331,10 @@ El Estado, conforme a la Ley de Educación para el Estado de Aguascalientes, gar
 
 El Estado de acuerdo con la Ley de Ciencia, Tecnológica, Innovación y Sociedad del Conocimiento para el Estado de Aguascalientes, garantizará el diseño e instrumentación de acciones y estrategias para eliminar las brechas de desigualdad en el acceso, el uso y las habilidades en materia de ciencia, tecnología e innovación entre mujeres y hombres.
 
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2024)</small>
+
+Las acciones afirmativas creadas para que las mujeres accedan a todas las áreas del conocimiento no constituyen una violación al principio de igualdad.
+
 ###### Artículo 15.
 
 En el Ámbito Educativo, el Programa para la Igualdad deberá contemplar enunciativamente lo siguiente:
@@ -341,7 +345,9 @@ II.- El garantizar el acceso igualitario de niñas y niños a la educación;
 
 III.- El ofertar las mismas condiciones de orientación en materia de carreras y capacitación profesional, asegurándose esta igualdad en la enseñanza en todos los tipos y niveles de educación;
 
-IV.- El otorgar las mismas oportunidades para la obtención de becas y otros beneficios para cursar estudios;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+IV.- El otorgar las mismas oportunidades para la obtención de becas y otros beneficios para cursar estudios, aplicando acciones afirmativas en favor de las niñas, adolescentes y mujeres para su integración preferente en las áreas de ciencias, tecnologías, ingenierías y matemáticas;
 
 V.- La integración del estudio y aplicación del principio de Igualdad Sustantiva en los cursos y programas para la formación inicial y permanente del personal docente;
 
@@ -984,3 +990,11 @@ El Presente Decreto entrara en vigor el día siguiente al de su publicación en 
 ###### ARTÍCULO SEGUNDO.
 
 Los entes públicos a que se refiere la fracción IV del artículo 6° de la Ley para la Igualdad entre Mujeres y Hombres del Estado de Aguascalientes, en un plazo improrrogable de 90 días a partir de la entrada en vigor de la presente publicación deberán realizar las adecuaciones normativas correspondientes a efecto de observar el contenido de los artículos 31 A y 31 B a que se refiere el presente Decreto.
+
+P.O. 22 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 567.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
