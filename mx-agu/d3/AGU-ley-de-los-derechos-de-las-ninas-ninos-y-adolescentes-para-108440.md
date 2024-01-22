@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2024-01-08"
+last_updated: "2024-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -381,13 +381,17 @@ XIX. Derechos de niñas, niños y adolescentes migrantes;
 
 XX. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radio- difusión;
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-XXI. Derecho a mantener vínculos con sus progenitores sin que alguno de éstos pueda impedirlo u obstaculizarlo mediante la manipulación de la conciencia del menor; y
+XXI. Derecho a mantener vínculos con sus progenitores sin que alguno de estos pueda impedirlo u obstaculizarlo mediante la manipulación de la conciencia del menor;
 
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-XXII. Derecho a una alimentación suficiente, nutritiva y de calidad que asegure su pleno desarrollo físico y mental; incluyendo el derecho a la lactancia materna, se procurará sea exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, siempre que las condiciones de salud del bebé, la salud y la voluntad de la madre lo permitan.
+XXII. Derecho a una alimentación suficiente, nutritiva y de calidad que asegure su pleno desarrollo físico y mental; incluyendo el derecho a la lactancia materna, se procurará sea exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, siempre que las condiciones de salud del bebé, la salud y la voluntad de la madre lo permitan; y
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XXIII. Derecho a la salud mental, entendido como la atención psicológica que garantice el bienestar emocional, psicológico y social de niñas niños y adolescentes.
 
 Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
@@ -1075,9 +1079,9 @@ XIV. Establecer las medidas para que en los servicios de salud se detecten y ati
 
 XV. Establecer medidas tendientes a la prevención, atención, combate y rehabilitación de los problemas de salud pública causados por las adicciones;
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-XVI. Establecer medidas tendentes a que en los servicios de salud se detecten y atiendan de manera especial los casos de niñas, niños y adolescentes con problemas de salud mental; en el caso de que se identifiquen alteraciones de conducta o indicios de la existencia de trastornos mentales y del comportamiento se prestará atención inmediata de conformidad con lo establecido en la legislación aplicable;
+XVI. Establecer medidas tendentes a que en los servicios de salud se brinde atención psicológica que garantice el bienestar emocional, psicológico y social, para la niñez y a (sic) adolescencia, así como se detecten y atiendan de manera especial los casos de niñas, niños y adolescentes con problemas de salud mental; en el caso de que se identifiquen alteraciones de conducta o indicios de la existencia de trastornos mentales y del comportamiento se prestará atención inmediata de conformidad con lo establecido en la legislación aplicable;
 
 > <small>(REFORMADA, P.O. 25 DE MAYO DE 2020)</small>
 
@@ -3008,3 +3012,9 @@ P.O. 8 DE ENERO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, quedando sin efecto todas aquellas disposiciones que se opongan al mismo.
+
+P.O. 22 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 568 SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
+
+ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
