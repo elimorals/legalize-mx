@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-a-los-animales-para-el-estado-de-22781"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2023-12-25"
+last_updated: "2024-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de noviembre de 2001.
 
@@ -199,9 +199,13 @@ XXXII. Normas zoológicas para el Estado: Los criterios técnicos de carácter o
 
 XXXIII. Otectomía: Escisión de las orejas de los animales;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-XXXIV. Personal capacitado: Las personas que prestan sus servicios, sean estos públicos o privados, o que colaboran con las asociaciones protectoras de animales cuyas actividades estén respaldadas con autorización legal expedida por la autoridad correspondiente que defina la especialización de la acción a realizar;
+XXXIV. Perro de Manejo Especial: Cualquier canino que presenta una o más de las siguientes características:
+
+a) Que, por diversos factores genéticos, de desarrollo, de sociabilización o entrenamiento puedan llegar a presentar un problema de agresividad hacia sus congéneres o hacia el humano;
+
+b) Que haya sido asegurado por el centro antirrábico y/o centro de control y bienestar animal como perro agresor.
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -287,9 +291,9 @@ IV. La celebración de convenios de concertación con los sectores social y priv
 
 V. La expedición de certificados de venta de animales, a los establecimientos comerciales, ferias y exposiciones que se dediquen a la venta de mascotas;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-VI. En coordinación con las instituciones competentes, públicas y privadas, elaborar los correspondientes reglamentos, las normas zoológicas y las guías informativas a los que se refiere la presente Ley, así como la elaboración de manuales y planes de manejo de acuerdo a la especie de animal en cuestión que coadyuven al cumplimiento de esta Ley;
+VI. En coordinación con las instituciones competentes públicas y privadas, elaborar los correspondientes reglamentos, las normas zoológicas y las guías informativas a los que se refiere la presente Ley, así como la elaboración de manuales y planes de manejo de Las distintas especies animales, incluyendo a los perros de manejo especial, para dar cumplimiento de esta Ley;
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
@@ -807,13 +811,19 @@ IX. Separar y atender a los animales que recojan y estén lastimados, heridos o 
 
 X. Permitir a las asociaciones protectoras de animales debidamente constituidas, visitar las instalaciones para verificar el trato digno y el sacrificio humanitario a los animales que se encuentren en el centro, guardando las medidas sanitarias procedentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
+
 ###### ARTICULO 30.
 
-Cuando un animal sea asegurado por agresión, éste deberá permanecer resguardado para su observación por un período de diez días, al término del cual podrá ser reclamado por su propietario en un período máximo de setenta y dos horas posteriores al periodo de observación, en caso de no ser reclamado dentro de este tiempo, la autoridad municipal podrá destinar dicho animal a adopción o al sacrificio humanitario.
+Cuando un animal sea asegurado por agresión, éste deberá ser sometido a prueba de sociabilización realizada por las escuelas de adiestramiento canino y en caso de mostrar problemas de agresividad, los propietarios tienen la obligación de ingresarlos en un programa de rehabilitación canina.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
-En los casos en que un animal sea asegurado por segunda ocasión por agresión y después del periodo de observación se demuestre que el mismo no ha disminuido su agresividad, será sacrificado de acuerdo a los métodos establecidos en el Capítulo V de esta Ley, por la autoridad municipal.
+Para ambos casos, las escuelas de adiestramiento canino dirigirán un documento informativo a los centros antirrábicos y/o centro de control, atención y bienestar animal para que expidan la certificación de perro de manejo especial.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2024)</small>
+
+En caso de que el centro antirrábico y/o centro de control, atención y bienestar animal tenga en resguardo al perro, el canino deberá permanecer resguardado para su observación por un periodo de diez días, al término del cual podrá ser reclamado por su propietario en un periodo máximo de setenta y dos horas posteriores al periodo de observación, en caso de no ser reclamado dentro de este tiempo, la autoridad municipal podrá destinar dicho animal a adopción o sacrificio humanitario.
 
 ###### ARTICULO 31.
 
@@ -963,7 +973,9 @@ IV.- No inducirlos a causar daños a terceros o a otros animales;
 
 V.- Cuando saque a la vía pública al animal, se deberán tomar las medidas de seguridad necesarias para no causar daños a terceros;
 
-VI.- Los perros y gatos deberán portar la placa de identificación que contenga: nombre del animal, nombre del propietario y domicilio; identificación oficial vigente de vacunación antirrábica, el cual deberá ser un collar oficial emitido por la autoridad competente; así como en los casos en los que se saquen a la vía pública, estos animales deberán llevar collar y cadena;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+VI.- Los gatos, perros domésticos y los perros de manejo especial deberán portar la placa de identificación que contenga: nombre del animal, nombre del propietario y domicilio, identificación oficial vigente de vacunación antirrábica, el cual deberá ser un collar oficial emitido por la autoridad competente; así como en los casos en los que se saquen a la vía pública, estos animales deberán llevar collar y cadena;
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
@@ -1714,3 +1726,11 @@ P.O. 25 DE DICIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 22 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 566.- SE REFORMA LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO. - Las autoridades competentes, dentro de los 180 días siguientes a la entrada en vigor de este Decreto, deberán emitir los reglamentos necesarios a efecto de aplicar correctamente las reformas contenidas en este Decreto.
