@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2023-07-17"
+last_updated: "2024-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -1377,9 +1377,9 @@ Departamento de fraccionamientos, condominios, desarrollos inmobiliarios especia
 
 Departamento de Supervisión e imagen urbana.
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-XIII.- DIRECCIÓN DE SERVICIOS PÚBLICOS Y ECOLOGÍA.
+XIII.- DIRECCIÓN DE SERVICIOS PÚBLICOS Y ECOLOGÍA
 
 Director de Servicios Públicos y Ecología;
 
@@ -1394,6 +1394,8 @@ Departamento de Alumbrado Público;
 Departamento de Parques y Jardines;
 
 Departamento de Ecología;
+
+Departamento de Control y Bienestar Animal;
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
@@ -23590,3 +23592,11 @@ CUARTO.- Conforme a lo previsto en el segundo párrafo del artículo 5 de la Ley
 P.O. 17 DE JULIO DE 2023.
 
 > <small>[N. DE E. LA "REFORMA AL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE AGUASCALIENTES.]</small>
+
+P.O. 22 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DE LA "REFORMA, ADICIÓN Y/O MODIFICACIÓN AL ARTÍCULO 99 FRACCIÓN XIII, CORRESPONDIENTE A LA DIRECCIÓN DE SERVICIOS PÚBLICOS Y ECOLOGÍA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
