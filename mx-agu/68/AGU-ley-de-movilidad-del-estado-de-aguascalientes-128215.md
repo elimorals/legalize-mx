@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2024-01-08"
+last_updated: "2024-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -3743,7 +3743,9 @@ XII. Presentarse a la hora establecida para iniciar el servicio y en óptimas co
 
 XIII. Observar las disposiciones relativas a la carga autorizada de acuerdo a las especificaciones del vehículo. Asimismo, traerla cubierta con una lona cuando se puedan ocasionar desprendimientos de la misma, que causen molestias o lesiones a peatones y automovilistas;
 
-XIV. No utilizar durante el servicio audífonos, radio, discos compactos o cualquier otro dispositivo, estos últimos a un volumen que cause molestias a los usuarios;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XIV. No podrán utilizar audífonos durante el servicio. En cuanto al aparato de sonido, su volumen no podrá superar los 60 decibeles, de tal forma que el operador pueda escuchar el timbre, indicaciones diversas de los pasajeros y sonidos propios de la circulación del tránsito. De igual modo, queda prohibido transmitir o reproducir material audiovisual que promueva la cultura de la violencia, haga apología del delito o cosifique a la mujer;
 
 XV. Prohibir la ocupación de los asientos destinados para personas con movilidad limitada, por otras que no lo sean; y
 
@@ -4051,45 +4053,99 @@ V. Caja Ciclista: A la zona marcada en el pavimento que permite a los ciclistas 
 
 #### SECCIÓN PRIMERA. Disposiciones Generales
 
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
 
-ARTÍCULO 228 TER.- El Estado y los municipios deberán incluir en sus disposiciones de carácter reglamentario en materia de movilidad, vialidad, transporte público o tránsito, disposiciones respecto a las medidas mínimas para garantizar la seguridad vial, la protección de la vida y la integridad física de las personas en sus desplazamientos bajo el principio de que toda muerte o lesión por siniestros de tránsito es prevenible.
+ARTÍCULO 228 TER.- El Estado y los municipios deberán incluir en sus ordenamientos de carácter reglamentario en materia de movilidad, vialidad, transporte público o tránsito, disposiciones respecto a las medidas mínimas que se deberán observar, así como la aplicación y supervisión de éstas, atendiendo y salvaguardando la seguridad, protegiendo la vida y la integridad física de las personas en sus desplazamientos bajo el principio de que toda muerte o lesión por siniestros de tránsito es prevenible.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
 
 Las medidas mínimas son las siguientes:
 
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2023)</small>
+
 I. Que las personas conductoras cuenten con licencia o permiso de conducir vigente, la cual deberá ser la adecuada para el tipo de vehículo que se pretenda operar;
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2023)</small>
 
 II. La preferencia del paso de personas peatonas en el cruce de vías públicas de acuerdo con el diseño y funcionalidad de éstas, de conformidad con la jerarquía de la movilidad;
 
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE ENERO DE 2023)</small>
+
 III. El establecimiento de límites de velocidad con base en evidencia científica de carácter nacional o internacional, a fin de mantenerlas por debajo de un umbral de seguridad indispensable para salvaguardar la vida y la integridad de las personas usuarias; por lo que las velocidades máximas no deberán rebasar las siguientes:
 
-a) 30 km/h en vialidades secundarias y calles terciarias.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ENERO DE 2024)</small>
 
-b) 50 km/h en vialidades primarias sin acceso controlado.
+a) 20 km/h en zonas de hospitales, asilos, albergues y casas hogar;
 
-c) 80 km/h en carriles centrales de vialidades primarias de acceso controlado.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ENERO DE 2024)</small>
 
-d) 80 km/h en carreteras estatales fuera de zonas urbanas y 50 km/h dentro de zonas urbanas.
+b) 20 km/h en zonas y entornos escolares en vías secundarias y calles terciarias; y hasta 30 km/h en zonas y entornos escolares en vías primarias y carreteras;
 
-e) 110 km/h para automóviles, 95 km/h para autobuses y 80 km/h para transporte de bienes y mercancías en carreteras y autopistas de jurisdicción federal.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
-f) Ninguna intersección, independientemente de la naturaleza de la vía, podrá tener velocidad de operación mayor a 50 km/h en cualquiera de sus accesos.
+c) 30 km/h en vialidades secundarias y calles terciarias;
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+d) 50 km/h en vialidades primarias sin acceso controlado;
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+e) 80 km/h en carriles centrales de vialidades primarias de acceso controlado;
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+
+f) 80 km/h en carreteras estatales fuera de zonas urbanas y 50 km/h dentro de zonas urbanas;
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 22 DE ENERO DE 2024)</small>
+
+g) 110 km/h para automóviles, 95 km/h para autobuses y 80 km/h para transporte de bienes y mercancías en carreteras y autopistas de jurisdicción estatal;
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 22 DE ENERO DE 2024)</small>
+
+h) Ninguna intersección, independientemente de la naturaleza de la vía, podrá tener velocidad de operación mayor a 50 km/h en cualquiera de sus accesos;
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2023)</small>
 
 IV. La utilización del cinturón de seguridad de forma obligatoria para todos los pasajeros de vehículos motorizados, de acuerdo con los requisitos establecidos en la Norma Oficial Mexicana aplicable;
 
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2023)</small>
+
 V. El uso de tecnologías como medio auxiliar para la prevención y captación de infracciones a fin de prevenir y mitigar factores de riesgo que atenten contra la integridad, dignidad o libertad de las personas;
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2023)</small>
 
 VI. Que cualquier persona menor de doce años o que por su constitución física lo requiera, viaje en los asientos traseros con un sistema de retención infantil o en un asiento de seguridad que cumpla con los requisitos establecidos en la Norma Oficial Mexicana aplicable;
 
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2023)</small>
+
 VII. El uso de sistemas de sujeción para sillas de ruedas en el transporte público;
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2023)</small>
 
 VIII. Que todos los vehículos motorizados cuenten con los estándares establecidos en la Norma Oficial Mexicana aplicable;
 
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2023)</small>
+
 IX. El uso obligatorio de casco para personas conductoras y pasajeros de motocicletas que cumpla con la Norma Oficial Mexicana aplicable en la materia;
 
-X. La prohibición de hablar por teléfono celular o cualquier otro dispositivo electrónico o de comunicación, así como leer y/o enviar mensajes de texto por medio de cualquier tipo de dispositivo electrónico, salvo que se realice mediante tecnología de manos libres; y
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+X. La prohibición de hablar por teléfono celular o cualquier otro dispositivo electrónico o de comunicación, así como leer y/o enviar mensajes de texto por medio de cualquier tipo de dispositivo electrónico, salvo que se realice mediante tecnología de manos libres;
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2023)</small>
 
 XI. En el caso de que sea necesaria la utilización de dispositivos electrónicos o de comunicación para la prestación del servicio de transporte, el teléfono celular o cualquier otro tipo de dispositivo electrónico deberá estar debidamente colocado en un sujetador que facilite su manipulación y que no obstaculice la visibilidad al conducir;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XII. La supervisión de pesos y dimensiones de todos los vehículos motorizados en todas sus modalidades deberán cumplir con las Normas Oficiales Mexicanas y demás leyes aplicables; y
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XIII. Implementación de medidas para la prevención y mitigación de factores de riesgo.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
 
 Las autoridades evaluarán la medida y proporcionalidad de las sanciones de tránsito que se establezcan.
 
@@ -4295,25 +4351,15 @@ XIII. Utilizar el teléfono celular o cualquier otro medio de comunicación móv
 
 XIV. Ingerir bebidas alcohólicas dentro del vehículo cuando se encuentre en circulación o estacionado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 236.
 
-La velocidad máxima en la ciudad es de 30 km/h, excepto en zonas escolares, donde será de 10 kilómetros por hora 30 minutos antes y después de los horarios de la entrada y salida de los planteles escolares y en donde el señalamiento indique otro límite.
+Las velocidades máximas son las previstas en la fracción III del artículo 228 TER de la presente Ley.
 
-También deberán observar el límite antes mencionado ante la presencia de escolares, fuera de los horarios señalados cuando exista señalética de cruce para escolares.
+La autoridad competente colocará los señalamientos necesarios indicando los límites de velocidad referidos, procurando que se ubiquen a una distancia apropiada en cada caso, a fin de que se permita el frenado de los vehículos de ser necesario. En todo caso, también se tomarán las previsiones necesarias en el Manual de Diseño de la Vía Pública para asegurar estos propósitos.
 
-La autoridad competente colocará los señalamientos indicados en el párrafo anterior, procurando que se ubiquen a una distancia apropiada en cada caso, a fin de que se permita el frenado de los vehículos de ser necesario. En todo caso, también se tomarán las previsiones necesarias en el Manual de Diseño de la Vía Pública para asegurar estos propósitos.
-
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
-
-En vías primarias y caminos vecinales y rurales se permitirán velocidades de hasta 50 km/h, en carreteras de jurisdicción estatal hasta de 80 km/h.
-
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
-
-En los carriles centrales o interiores de las vías de acceso controlado, la velocidad máxima se indicará mediante los señalamientos respectivos, pero en ningún caso será superior a 80 km/h.
-
-Los conductores de vehículos, no deberán de exceder los límites de velocidad mencionada, la reincidencia de la infracción de esta disposición, dará causa de suspensión de la licencia.
+Las personas conductoras de vehículos, no deberán de exceder los límites de velocidad mencionada, la reincidencia de la infracción de esta disposición, dará causa de suspensión de la licencia.
 
 Asimismo, queda prohibido transitar a velocidad tan baja que entorpezca el tránsito, excepto en aquellos casos en que lo exijan las condiciones de las vías, del tránsito o de la visibilidad.
 
@@ -6060,3 +6106,21 @@ P.O. 8 DE ENERO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 22 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 559.- SE REFORMA LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+Artículo Único.- El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 562.- SE REFORMA LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los 90 días siguientes a la publicación del presente Decreto, los Municipios del Estado de Aguascalientes deberán realizar las modificaciones correspondientes en su marco normativo aplicable en la materia.
