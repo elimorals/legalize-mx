@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-etica-de-los-servidores-publicos-de-la-fiscalia-14011
 country: "mx"
 rank: "codigo"
 publication_date: "2020-01-15"
-last_updated: "2022-04-06"
+last_updated: "2024-01-22"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140114&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "NLE"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DE LA FISCALIA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEON
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 6 DE ABRIL DE 2022, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 6 DE ABRIL DE 2022, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]
+
+[NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA Y CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 22 DE ENERO DE 2024, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]
 
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2022 (SIN EFECTOS).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024 (SIN EFECTOS).
 
 Código publicado en el número 6 del Periódico Oficial del Estado de Nuevo León, el miércoles 15 de enero de 2020.
 
@@ -438,3 +440,21 @@ P.O. 6 DE ABRIL DE 2022.
 PRIMERO: El presente acuerdo entrará en vigor desde la fecha de su firma, sin demérito de su publicación en el Periódico Oficial del Estado y en el portal de internet de esta Fiscalía.
 
 SEGUNDO: Una vez que entre en vigor el presente acuerdo, se deja sin efectos el Código de Ética de la Fiscalía General de Justicia del Estado de Nuevo León emitido (sic) 19 de noviembre de 2019.
+
+P.O. 22 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE ÉTICA Y CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO. El presente Acuerdo entrará en vigor a partir de su publicación en el Portal Institucional de la Fiscalía General de Justicia del Estado de Nuevo León, lo anterior sin perjuicio de su respectiva publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO. Una vez que entre en vigor el presente acuerdo, se deja sin efectos el Código de Ética de la Fiscalía General de Justicia del Estado de Nuevo León emitido el 19 de noviembre de 2019.
+
+No obstante lo anterior, permanecen vigentes los Lineamientos para la Atención y Trámite de Consultas y Denuncias presentadas ante el Comité de Ética de la Fiscalía General de Justicia del Estado de Nuevo León, emitidos por el Comité de Ética de la Fiscalía General de Justicia del Estado de Nuevo León en Sesión Extraordinaria del Comité de Ética de fecha 06 de julio de 2023.
+
+En aquellas disposiciones o lineamientos donde se haga referencia a "Comité de Ética" se entenderá por el Comité de Ética, Conducta, Integridad Pública y Prevención de Conflictos de Interés. Aplicando lo mismo para aquellas referencias la "Código de Ética", entendiéndose como referencia al presente Código de Ética y Conducta.
+
+TERCERO. El Órgano Interno de Control emitirá el Instrumento al que hace referencia el artículo 15, a través de los cuales se regulará la integración, organización, atribuciones y funcionamiento del Comité de Ética, Conducta Integridad Pública y Prevención de Conflictos de Interés, en un periodo no mayor a 15-quince días hábiles, contados a partir de la publicación en el Portal Institucional del presente Acuerdo.
+
+Debiendo el Órgano Interno de Control, dentro de los 10-diez días hábiles siguientes a la expedición del citado Instrumento, a lanzar la convocatoria para la integración del Comité de Ética, Conducta, Integridad Pública y Prevención de Conflictos de Interés.
+
+El Comité de Ética conformado con motivo del Código de Ética emitido el 19 de noviembre de 2019 y los Lineamientos para la integración y funcionamiento del Comité de Ética de la FGJNL publicado el 06 de abril de 2022, así como los nombramientos de miembros del mismo, seguirán vigentes, hasta en tanto no se tenga conformado el Comité de Ética, Conducta, Integridad Pública y Prevención de Conflictos de Interés. Dichos integrantes están habilitados para volver a formar participar (sic) en la convocatoria y, en su caso integrar el Comité de Ética, Conducta Integridad Pública y Prevención de Conflictos de Interés.
