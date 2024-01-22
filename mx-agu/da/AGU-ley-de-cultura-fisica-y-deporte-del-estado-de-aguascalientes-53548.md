@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-fisica-y-deporte-del-estado-de-aguascalientes-53
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2023-12-25"
+last_updated: "2024-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2007.
 
@@ -925,13 +925,21 @@ IV. Promover la construcción, adecuación, conservación y aprovechamiento ópt
 
 V. Dar seguimiento y ejecutar las políticas y planes aprobados por el SIEDE;
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-VI. Establecer procedimientos de promoción en materia de cultura física y deporte; y
+VI. Establecer procedimientos de promoción en materia de cultura física y deporte;
 
-> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-VII. Formular y ejecutar políticas públicas, que fomenten actividades físicas y deportivas destinadas a las personas con discapacidad.
+VII. Formular y ejecutar políticas públicas, que fomenten actividades físicas y deportivas destinadas a las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2024)</small>
+
+VIII. Promover los mecanismos y acciones encaminados a prevenir la violencia en eventos deportivos y garantizar el desarrollo pacífico en los recintos donde se celebren eventos deportivos masivos y con fines de espectáculo y en sus inmediaciones, así como la seguridad y patrimonio de las personas, en coordinación con las autoridades de Seguridad Pública, Privada y de Protección Civil correspondientes; y
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2024)</small>
+
+IX. Promover, formular y ejecutar políticas para garantizar la participación en igualdad de condiciones entre mujeres y hombres que fomenten actividades físicas y deportivas.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
@@ -2258,3 +2266,11 @@ P.O. 25 DE DICIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciara su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 556.- SE REFORMA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
