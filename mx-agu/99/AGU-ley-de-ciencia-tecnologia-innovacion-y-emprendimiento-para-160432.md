@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ciencia-tecnologia-innovacion-y-emprendimiento-para-1604
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-30"
-last_updated: "2023-05-30"
+last_updated: "2024-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y EMPRENDIMIENTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
 
 Ley publicada en el Extraordinario del Número 56 del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de septiembre de 2022.
 
@@ -141,9 +141,17 @@ XXII. RENIECYT: Al Registro Nacional de Instituciones y Empresas Científicas y 
 
 XXIII. Sujetos: A las instituciones, centros, organismos, empresas o personas físicas de los sectores social y privado dedicados a la investigación científica y tecnológica preferentemente en el Estado;
 
-XXIV. Usuarios: A los entes susceptibles a ser beneficiados por la adquisición de innovación y/o investigaciones científicas y tecnológicas, ya sean personas físicas o morales; y
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-XXV. Vinculación: A la relación formal y estructurada de intercambio científico, innovación, tecnología y emprendimiento en todas las áreas del conocimiento con el objeto de avanzar en el desarrollo de la ciencia, innovación y tecnología, así como el coadyuvar a la generación de nuevos emprendimientos, levantamiento de capital, fortalecimiento de capacidades técnicas, así como la solución de problemas concretos que permitan tener información suficiente y oportuna para la toma de decisiones de todos los sectores económicos y áreas estratégicas, y la atención de las necesidades tecnológicas para el pleno desarrollo del conocimiento en el Estado.
+XXIV. Usuarios: A los entes susceptibles a ser beneficiados por la adquisición de innovación y/o investigaciones científicas y tecnológicas, ya sean personas físicas o morales;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XXV. Vinculación: A la relación formal y estructurada de intercambio científico, innovación, tecnología y emprendimiento en todas las áreas del conocimiento con el objeto de avanzar en el desarrollo de la ciencia, innovación y tecnología, así como el coadyuvar a la generación de nuevos emprendimientos, levantamiento de capital, fortalecimiento de capacidades técnicas, así como la solución de problemas concretos que permitan tener información suficiente y oportuna para la toma de decisiones de todos los sectores económicos y áreas estratégicas, y la atención de las necesidades tecnológicas para el pleno desarrollo del conocimiento en el Estado; y
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XXVI. Repositorio Estatal: Repositorio Estatal en Materia de Humanidades, Ciencias, Tecnologías, Innovación y Emprendimiento.
 
 ###### Artículo 6°.
 
@@ -237,9 +245,17 @@ b) Realizar estudios prospectivos para identificar las necesidades regionales en
 
 c) Promover la operación de servicios de información y documentación científica, en el marco del Sistema Estatal de Investigación;
 
-XXI. Coordinarse con los Gobiernos Municipales y el Federal para el establecimiento, operación, integración, desarrollo y evaluación tanto de los órganos locales de ciencia y tecnología como de los programas en la materia; y
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-XXII. Realizar las demás actividades inherentes al cumplimiento de su objeto en los términos de esta Ley.
+XXI. Coordinarse con los Gobiernos Municipales y el Federal para el establecimiento, operación, integración, desarrollo y evaluación tanto de los órganos locales de ciencia y tecnología como de los programas en la materia;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XXII. Realizar las demás actividades inherentes al cumplimiento de su objeto en los términos de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2024)</small>
+
+XXIII. Constituir, integrar y operar un Repositorio Estatal ajustado a estándares internacionales con el propósito de articular y dar certeza a los contenidos, así como seguridad a los procedimientos de acceso, recuperación, autentificación y evaluación de la información alojada en el repositorio.
 
 ### CAPÍTULO IV. Junta de Gobierno
 
@@ -253,7 +269,9 @@ II. Los bienes muebles e inmuebles, derechos y demás, que le asigne o transmita
 
 III. Los subsidios y aportaciones federales, estatales y municipales;
 
-IV. Las donaciones o aportaciones que en su caso reciba;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+
+IV. Las donaciones, aportaciones o apoyos que en su caso reciba, del sector público, social o privado;
 
 V. Los recursos que obtenga, a través de créditos para la realización de sus fines, y las deudas a su favor;
 
@@ -369,9 +387,17 @@ XII. Conocer, analizar, realizar observaciones y emitir recomendaciones del info
 
 XIII. Fomentar la comunicación, relación e intercambio con entidades y órganos de otras administraciones que tengan objetivos similares;
 
-XIV. Atender y responder a las recomendaciones emitidas por el Consejo; y
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
-XV. Las demás que establezca la presente Ley, el Reglamento y demás disposiciones aplicables.
+XIV. Atender y responder a las recomendaciones emitidas por el Consejo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ENERO DE 2024)</small>
+
+XV. Emitir los lineamientos específicos a los que se sujetara la integración y operación del Repositorio Estatal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE ENERO DE 2024)</small>
+
+XVI. Las demás que establezca la presente Ley, el Reglamento y demás disposiciones aplicables.
 
 Las atribuciones establecidas en el artículo 41 de la Ley de Entidades Paraestatales, serán facultades indelegables de la Junta de Gobierno.
 
@@ -1232,3 +1258,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Ejecutivo del Estado ejercerá las medidas presupuestarias y administrativas correspondientes para dar cumplimiento al programa “Acceso a Internet Gratuito para el Estado de Aguascalientes”, de manera gradual, incrementando su capacidad de cobertura territorial durante el periodo de la Administración Pública Estatal 2022-2027, a partir de la fecha de publicación del presente Decreto.
+
+P.O. 22 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 557.- SE REFORMA LA LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y EMPRENDIMIENTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 570.- SE REFORMA LA LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y EMPRENDIMIENTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO UNICO.
+
+El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
