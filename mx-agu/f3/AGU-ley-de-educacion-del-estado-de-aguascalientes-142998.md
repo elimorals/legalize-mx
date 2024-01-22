@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-142998"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-25"
-last_updated: "2023-12-25"
+last_updated: "2024-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
 
 Ley publicada en la Sección Primera al Número 21 del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de mayo de 2020.
 
@@ -941,9 +941,19 @@ La autoridad educativa, en el ámbito de su competencia, establecerá, de manera
 
 De igual forma, implementarán un programa de capacitación y evaluación para la certificación que otorga la instancia competente, para egresados de bachillerato, profesional técnico bachiller o sus equivalentes, que no hayan ingresado a educación superior, con la finalidad de proporcionar herramientas que les permitan integrarse al ámbito laboral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O.22 DE ENERO DE 2024)</small>
+
 ###### Artículo 36.
 
-La Autoridad Educativa Estatal, velará porque exista (sic) mecanismos adecuados de orientación vocacional, cuyo propósito será el de establecer los lineamientos para que los estudiantes de tipo medio superior obtengan la información pertinente de las opciones profesionales y campos laborales.
+La Autoridad Educativa Estatal, velará porque existan mecanismos adecuados de orientación vocacional sin estereotipos de género, cuyo propósito será el de establecer los lineamientos para que los estudiantes de tipo medio superior obtengan la información pertinente de las opciones profesionales y campos laborales.
+
+> <small>(ADICIONADO, P.O.22 DE ENERO DE 2024)</small>
+
+La orientación vocacional que se otorgue deberá contribuir a que las y los educando defina (sic) satisfactoriamente su proyecto de vida y desarrollen sus potencialidades, así como incluir información actualizada y verificable sobre las áreas de conocimiento más demandadas y sus potencialidades laborales y remuneraciones.
+
+> <small>(ADICIONADO, P.O.22 DE ENERO DE 2024)</small>
+
+La Autoridad Educativa Estatal podrá coordinarse con asociaciones de profesionistas u otros organismos para otorgar la orientación vocacional con enfoque de género, despojada de estereotipos y con especial énfasis en que las niñas, adolescentes y mujeres puedan acceder a las áreas de ciencias, tecnologías, ingenierías y matemáticas.
 
 ###### Artículo 37.
 
@@ -1321,7 +1331,9 @@ III. Recibir una orientación integral como elemento para el pleno desarrollo de
 
 IV. Ser respetados por su libertad de convicciones éticas, de conciencia y de religión;
 
-V. Recibir una orientación educativa y vocacional;
+> <small>(REFORMADA, P.O.22 DE ENERO DE 2024)</small>
+
+V. Recibir una orientación educativa y vocacional, con enfoque de género y sin estereotipos;
 
 VI. Tener un docente frente a grupo que contribuya al logro de su aprendizaje y desarrollo integral;
 
@@ -1823,7 +1835,9 @@ Los acuerdos secretariales señalarán los requisitos específicos que deban cum
 
 Las madres y padres de familia, tutores o quienes ejerza la patria potestad, serán corresponsables en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años para lo cual, además de cumplir con su obligación de hacerlos asistir a los servicios educativos, apoyarán su aprendizaje, y revisarán su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo.
 
-En el ámbito de sus respectivas competencias, las autoridades educativas desarrollarán actividades de información y orientación para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de los niños, niñas y adolescentes, buenos hábitos de salud, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital, la educación en inteligencia emocional, la resolución de conflictos de manera pacífica mediante la mediación u otro medio de carácter análogo, la educación científica sexual y reproductiva, la fertilidad, la prevención del consumo de sustancias psicoactivas y otros temas que permitan a madres y padres de familia, tutores o a quien ejerza la patria potestad, proporcionar una mejor atención a sus hijas, hijos o pupilos.
+> <small>(REFORMADO, P.O.22 DE ENERO DE 2024)</small>
+
+En el ámbito de sus respectivas competencias, las autoridades educativas desarrollarán actividades de información y orientación para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, buenos hábitos de salud, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital, la orientación vocacional con enfoque de género y sin estereotipos, la educación en inteligencia emocional, la resolución de conflictos de manera pacífica mediante la mediación u otro medio de carácter análogo, la educación científica, sexual y reproductiva, la fertilidad, la prevención del consumo de sustancias psicoactivas y otros temas que permitan a madres y padres de familia o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
@@ -2494,3 +2508,11 @@ P.O. 25 DE DICIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 22 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 567.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
