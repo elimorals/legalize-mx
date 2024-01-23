@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2022-06-24"
+last_updated: "2024-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -95,13 +95,13 @@ El Gobernador informará al Congreso del Estado sobre los acuerdos o decisiones 
 
 ### CAPITULO II. DE LA ORGANIZACION TERRITORIAL
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2024)</small>
+
 ###### ARTICULO 9.
 
-Los municipios del Estado de Guerrero conservarán la extensión territorial que señale la Ley de División Territorial en vigor, y son los siguientes:
+Los Municipios del Estado de Guerrero conservarán la extensión territorial que señale la Ley de División Territorial en vigor, y son los siguientes:
 
 1. Acapulco de Juárez;
-
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 1995)</small>
 
 2. Acatepec;
 
@@ -113,7 +113,7 @@ Los municipios del Estado de Guerrero conservarán la extensión territorial que
 
 6. Alpoyeca;
 
-7. Apaxtla;
+7. Apaxtla de Castrejón;
 
 8. Arcelia;
 
@@ -123,7 +123,7 @@ Los municipios del Estado de Guerrero conservarán la extensión territorial que
 
 11. Atlixtac;
 
-12. Atoyac de Alvarez;
+12. Atoyac de Álvarez;
 
 13. Ayutla de los Libres;
 
@@ -134,8 +134,6 @@ Los municipios del Estado de Guerrero conservarán la extensión territorial que
 16. Buenavista de Cuéllar;
 
 17. Coahuayutla de José María Izazaga;
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE OCTUBRE DE 2009)</small>
 
 18. Cochoapa el Grande;
 
@@ -153,7 +151,7 @@ Los municipios del Estado de Guerrero conservarán la extensión territorial que
 
 25. Cuajinicuilapa;
 
-26. Cualác;
+26. Cualac;
 
 27. Cuautepec;
 
@@ -161,7 +159,7 @@ Los municipios del Estado de Guerrero conservarán la extensión territorial que
 
 29. Cutzamala de Pinzón;
 
-30. Chilapa de Alvarez;
+30. Chilapa de Álvarez;
 
 31. Chilpancingo de los Bravo;
 
@@ -181,169 +179,97 @@ Los municipios del Estado de Guerrero conservarán la extensión territorial que
 
 39. Igualapa;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE OCTUBRE DE 2009)</small>
-
 40. Iliatenco;
 
 41. Ixcateopan de Cuauhtémoc;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
-
 42. José Joaquín de Herrera;
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
 43. Juan R. Escudero;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
-
 44. Juchitán;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+45. La Unión de Isidoro Montes de Oca;
 
-45. Leonardo Bravo;
+46. Las Vigas;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+47. Leonardo Bravo;
 
-46. Malinaltepec
+48. Malinaltepec;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+49. Marquelia;
 
-47. Mártir de Cuilapan;
+50. Mártir de Cuilapan;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+51. Metlatónoc;
 
-48. Marquelia;
+52. Mochitlán;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+53. Ñuu Savi;
 
-49. Metlatónoc;
+54. Olinalá;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+55. Ometepec;
 
-50. Mochitlán;
+56. Pedro Ascencio Alquisiras;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+57. Petatlán;
 
-51. Olinalá;
+58. Pilcaya;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+59. Pungarabato;
 
-52. Ometepec;
+60. Quechultenango;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+61. San Luis Acatlán;
 
-53. Pedro Ascencio de Alquisiras;
+62. San Marcos;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+63. San Miguel Totolapan;
 
-54. Petatlán;
+64. San Nicolás;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+65. Santa Cruz del Rincón;
 
-55. Pilcaya;
+66. Taxco de Alarcón;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+67. Tecoanapa;
 
-56. Pungarabato;
+68. Tecpan de Galeana;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+69. Teloloapan;
 
-57. Quechultenango;
+70. Tepecoacuilco de Trujano;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+71. Tetipac;
 
-58. San Luis Acatlán;
+72. Tixtla de Guerrero;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+73. Tlacoachistlahuaca;
 
-59. San Marcos;
+74. Tlacoapa;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+75. Tlalchapa;
 
-60. San Miguel Totolapan;
+76. Tlalixtaquilla de Maldonado;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+77. Tlapa de Comonfort;
 
-61. Taxco de Alarcón;
+78. Tlapehuala;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+79. Xalpatláhuac;
 
-62. Tecoanapa;
+80. Xochihuehuetlán;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+81. Xochistlahuaca;
 
-63. Tecpan de Galeana;
+82. Zapotitlán Tablas;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+83. Zihuatanejo de Azueta;
 
-64. Teloloapan;
+84. Zirándaro;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
-
-65. Tepecoacuilco de Trujano;
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
-
-66. Tetipac;
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
-
-67. Tixtla de Guerrero;
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
-
-68. Tlacoapa;
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
-
-69. Tlacoachistlahuaca;
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
-
-70. Tlalchapa;
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
-
-71. Tlalixtaquilla de Maldonado;
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
-
-72. Tlapa de Comonfort;
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
-
-73. Tlapehuala;
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
-
-74. La Unión de Isidoro Montes de Oca;
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
-
-75. Xalpatláhuac;
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
-
-76. Xochistlahuaca;
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
-
-77. Xochihuehuetlán;
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
-
-78. Zapotitlán Tablas;
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
-
-79. Zihuatanejo de Azueta;
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
-
-80. Zirándaro, y
-
-81. Zitlala.
+85. Zitlala.
 
 ###### ARTICULO 10.
 
@@ -4376,3 +4302,13 @@ P.O. 24 DE JUNIO DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado para el conocimiento general y efectos legales procedentes.
+
+P.O. 23 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 674 POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 9 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado para los efectos constitucionales y legales procedentes.
+
+TERCERO.- Publíquese el presente Decreto para su conocimiento general y difusión, en el Portal Web del Congreso del Estado y en sus redes sociales de internet.
