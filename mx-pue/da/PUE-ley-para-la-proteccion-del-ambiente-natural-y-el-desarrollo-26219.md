@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-proteccion-del-ambiente-natural-y-el-desarrollo-262
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-18"
-last_updated: "2023-12-28"
+last_updated: "2024-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # LEY PARA LA PROTECCION DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2024 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE ENERO DE 2024.]</small>
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de septiembre de 2002.
 
@@ -1905,7 +1905,9 @@ Los propietarios o poseedores de vehículos que se corrobore que contaminan oste
 
 De igual forma, tendrán la obligación de realizar las medidas correctivas necesarias y aprobar el programa de verificación en un máximo de 30 días.
 
-En caso de que la acción subsista, además de la sanción que refiere el artículo 179 fracción I, la Secretaría podrá retirar de circulación las fuentes móviles directas en función de la fracción V del artículo citado. Artículo 166. Las disposiciones expresadas en este Título regulan la actuación de las autoridades competentes durante el ejercicio de las funciones de inspección y vigilancia, monitoreo remoto, ejecución de medidas de seguridad, determinación de sanciones y recursos administrativos, así como la presentación de denuncias en materia penal, incluyendo la denuncia popular.
+> <small>(F. DE E., P.O. 23 DE ENERO DE 2024)</small>
+
+En caso de que la acción subsista, además de la sanción que refiere el artículo 179 fracción I, la Secretaría podrá retirar de circulación las fuentes móviles directas en función de la fracción V del artículo citado.
 
 ### CAPÍTULO III. DE LA PROTECCIÓN DEL AGUA
 
