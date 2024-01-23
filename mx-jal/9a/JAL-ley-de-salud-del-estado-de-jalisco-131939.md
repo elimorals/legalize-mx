@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-131939"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-05"
-last_updated: "2023-12-12"
+last_updated: "2024-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2024.
 
 Ley publicada en el Número 24 Bis Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -1215,9 +1215,11 @@ Directrices Anticipadas. Confidencialidad.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2024)</small>
+
 ###### Artículo 86.
 
-Atención Médica. Concepto y Obligaciones.
+Atención Médica. Concepto y Obligaciones
 
 1. Se entiende por atención médica el conjunto de servicios que se proporcionan al individuo con el fin de promover la protección o restauración de su salud.
 
@@ -1227,11 +1229,17 @@ En los términos que determina la legislación aplicable, es obligatoria la pres
 
 I. En el caso de urgencias: entendiéndose por tal, todo problema médico-quirúrgico agudo, que ponga en peligro la vida, un órgano o una función y que requiera atención inmediata.
 
-Las instituciones públicas, privadas y el sector social están obligadas a otorgar la atención médica de urgencia que requiera un usuario sin importar su situación económica y sin detrimento de la calidad del servicio que se preste. Así mismo quien ostente el título de médico estará obligado en los mismos términos.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2024)</small>
+
+Las instituciones públicas, privadas y el sector social están obligadas a otorgar la atención médica de urgencia que requiera un usuario sin importar su situación económica y sin detrimento de la calidad del servicio que se preste. Asimismo quien ostente el título de médico estará obligado en los mismos términos; y
 
 3. La atención médica prehospitalaria otorgada por el personal de urgencias procurará el control del daño ocasionado al lesionado por accidente o enfermedad de urgencia en el lugar del evento, con el fin de estabilizar el estado general del paciente, vinculando su acción con los servicios de urgencia de las instituciones públicas o privadas de salud al que se remita al paciente; y
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 23 DE ENERO DE 2024)</small>
+
 II. Cuando se trate del ejercicio de la acción extraordinaria de salubridad general, en los términos que determina la Ley General de Salud.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 23 DE ENERO DE 2024)</small>
 
 ###### Artículo 87.
 
@@ -1241,15 +1249,55 @@ Atención Médica. Acciones.
 
 I. Preventivas, que incluyen las de promoción general y las de protección específica;
 
-II. Curativas, que tiene como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno y adecuado; y
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2024)</small>
 
-III. De habilitación y rehabilitación, que incluyen acciones tendientes a corregir las discapacidades físicas y mentales; y
+II. Curativas, que tiene como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno y adecuado;
 
-IV. Paliativas, que incluyen el cuidado integral para preservar la calidad de vida del paciente, a través de la prevención, tratamiento y control del dolor, y otros síntomas físicos, psicológicos, sociales y espirituales por parte de un equipo profesional multidisciplinario.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2024)</small>
+
+III. De habilitación y rehabilitación, que incluyen acciones tendientes a corregir las discapacidades físicas y mentales;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2024)</small>
+
+IV. Paliativas, que incluyen el cuidado integral para preservar la calidad de vida del paciente, a través de la prevención, tratamiento y control del dolor, y otros síntomas físicos, psicológicos, sociales y espirituales por parte de un equipo profesional multidisciplinario; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE ENERO DE 2024)</small>
+
+V. Atención médica de urgencias prehospitalarias, que tiene como fin otorgar la atención primaria en el sitio de ocurrencia a la persona cuya condición clínica pone en peligro la vida, un órgano o su función y tiene como finalidad la limitación del daño y la estabilización orgánico funcional desde el primer contacto hasta la llegada y entrega a un establecimiento para la atención médica de urgencias de las instituciones públicas o privadas de salud al que se remita al paciente.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE ENERO DE 2024)</small>
+
+### CAPÍTULO I BIS. DE LA ATENCIÓN DE URGENCIAS MÉDICAS PREHOSPITALARIAS
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2024)</small>
+
+###### Artículo 87 Bis.
+
+Atención Médica de Urgencias Prehospitalarias.
+
+1. Las acciones en materia de atención médica de urgencias prehospitalarias se encaminará a:
+
+I. La atención por parte de las entidades públicas, privadas y sociales correspondientes, de las demandas de atención medica de urgencias prehospitalarias
+
+II. El desarrollo de protocolos de regulación de urgencias médicas y de la atención prehospitalaria;
+
+III. La coordinación en la atención de las urgencias médicas y la atención prehospitalaria en la entidad;
+
+IV. El registro de la información estadística y epidemiológica;
+
+V. La capacitación en materia de atención básica de urgencias médicas y atención prehospitalaria; y
+
+VI. La supervisión del funcionamiento de los prestadores de servicios de urgencias médicas y atención prehospitalaria.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2024)</small>
+
+###### Artículo 87 Ter.
+
+Atención Médica. Sistema de Atención Médica de Urgencias.
+
+Para la mayor eficacia de las acciones en materia de atención médica de urgencias prehospitalarias, se integra el Sistema de Atención Médica de Urgencias, como órgano desconcentrado de la Secretaría de Salud.
 
 ### CAPÍTULO II. DE LA ATENCIÓN INTEGRAL A LA SALUD DE LA MUJER
-
-### CAPÍTULO III. DE LA ATENCIÓN MATERNO-INFANTIL
 
 ###### Artículo 88.
 
@@ -1363,7 +1411,7 @@ Atención Integral de la Salud de la Mujer. Cartilla Nacional de Salud.
 
 1. Los prestadores de los servicios de salud del sector público y privado, entregarán la cartilla Nacional de Salud de las Mujeres, la cual solicitarán cuando acuda a un servicio; en caso de extravío, pérdida o robo, deberán proporcionarle el servicio, otorgándoles una nueva cartilla, exhortándoles al buen uso y cuidado de la misma, presentándola en cada consulta.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO III. DE LA ATENCIÓN MATERNO-INFANTIL
 
 ###### Artículo 100.
 
@@ -1475,7 +1523,7 @@ IV. Propondrá a las autoridades sanitarias las acciones de promoción de la sal
 
 ## TÍTULO CUARTO. DE LA SALUD PÚBLICA
 
-### CAPÍTULO II. DE LA PROMOCIÓN DE LA SALUD
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 107.
 
@@ -1545,7 +1593,7 @@ Salud Pública. Costos de la Atención Médica de Urgencia.
 
 2. Los convenios que se suscriban en los términos del párrafo anterior podrán estipular el pago en efectivo, en especie o en servicios.
 
-### CAPÍTULO III. DE LOS EFECTOS DEL MEDIO AMBIENTE EN LA SALUD
+### CAPÍTULO II. DE LA PROMOCIÓN DE LA SALUD
 
 #### SECCIÓN PRIMERA. CLASIFICACIÓN
 
@@ -1863,7 +1911,7 @@ De la salud Ocupacional. Prevención.
 
 1. El Gobierno del Estado, por conducto de la Secretaría de Trabajo y Previsión Social, en coordinación con las autoridades federales e instituciones competentes, promoverá y desarrollará investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales; así como estudios para adecuar los instrumentos y equipos de trabajo a las características de la persona que los utiliza.
 
-### CAPÍTULO IV. DE LA PARTICIPACIÓN DE LA COMUNIDAD Y LOS CONSEJOS MUNICIPALES
+### CAPÍTULO III. DE LOS EFECTOS DEL MEDIO AMBIENTE EN LA SALUD
 
 ###### Artículo 131.
 
@@ -1897,7 +1945,7 @@ De los Efectos del Ambiente en la Salud. Convenios.
 
 1. Los municipios en el ámbito de su competencia, y conforme a los convenios celebrados, vigilarán las condiciones ambientales de su jurisdicción.
 
-### CAPÍTULO I. DE LAS ENFERMEDADES TRANSMISIBLES
+### CAPÍTULO IV. DE LA PARTICIPACIÓN DE LA COMUNIDAD Y LOS CONSEJOS MUNICIPALES
 
 #### SECCIÓN PRIMERA. DE LA PARTICIPACIÓN DE LA COMUNIDAD
 
@@ -1971,7 +2019,7 @@ IV. Apoyar la integración y vigilar el funcionamiento de los consejos de salud 
 
 ## TÍTULO QUINTO. DE LA PREVENCIÓN Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-### CAPÍTULO II. DE LAS ENFERMEDADES NO TRANSMISIBLES
+### CAPÍTULO I. DE LAS ENFERMEDADES TRANSMISIBLES
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -2143,7 +2191,7 @@ Enfermedades Transmisibles. De los Comités Municipales.
 
 1. Para el apoyo directo a los municipios por parte del Estado, a través del Consejo Estatal para la Prevención del Síndrome de Inmunodeficiencia Adquirida, se constituirán los Comités Municipales para la Prevención del Síndrome de Inmunodeficiencia Adquirida, a quienes el propio Consejo Estatal para la Prevención del Síndrome de Inmunodeficiencia Adquirida podrá, cuando así lo disponga su presupuesto anual, otorgar mediante los documentos jurídicos aplicables, bienes muebles para la realización de las tareas propias del programa en los municipios.
 
-### CAPÍTULO III. DE LOS ACCIDENTES
+### CAPÍTULO II. DE LAS ENFERMEDADES NO TRANSMISIBLES
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -2263,7 +2311,7 @@ Consejo Estatal Contra las Adicciones.
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2022)
 
-### CAPÍTULO ÚNICO. DE LA DISPOSICIÓN Y GARANTÍA DEL USO RACIONAL DE MEDICAMENTOS Y OTROS INSUMOS
+### CAPÍTULO III. DE LOS ACCIDENTES
 
 ###### Artículo 172.
 
@@ -2311,7 +2359,7 @@ III. De tránsito.
 
 ## TÍTULO SEXTO. DE LOS MEDICAMENTOS Y OTROS INSUMOS MÉDICOS
 
-### CAPÍTULO I. DEL SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
+### CAPÍTULO ÚNICO. DE LA DISPOSICIÓN Y GARANTÍA DEL USO RACIONAL DE MEDICAMENTOS Y OTROS INSUMOS
 
 ###### Artículo 175.
 
@@ -2355,7 +2403,7 @@ II. En el caso de los que no estén incluidos en el catálogo referido en la fra
 
 ## TÍTULO SÉPTIMO. DE LOS RECURSOS HUMANOS PARA LA SALUD
 
-### CAPÍTULO II. PROFESIONALES, TÉCNICOS Y AUXILIARES
+### CAPÍTULO I. DEL SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
 #### SECCIÓN PRIMERA. SERVICIO SOCIAL DE LOS PASANTES
 
@@ -2399,7 +2447,7 @@ Servicio Social Profesional.
 
 1. Las autoridades sanitarias estatales, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad del Estado, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-### CAPÍTULO III. DE LA FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL
+### CAPÍTULO II. PROFESIONALES, TÉCNICOS Y AUXILIARES
 
 ###### Artículo 185.
 
@@ -2525,7 +2573,7 @@ VII. Premio al mérito del auxiliar en las ciencias de la salud.
 
 4. La asignación de los premios será determinada por la votación de jurados que examinarán las propuestas presentadas. La integración del jurado y el procedimiento para la convocatoria, recepción de propuestas y calificación de las mismas serán determinados en el Reglamento que al efecto se expida.
 
-### CAPITULO IV. DE LA COMISIÓN ESTATAL DE BIOÉTICA E INVESTIGACIÓN DE JALISCO
+### CAPÍTULO III. DE LA FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL
 
 ###### Artículo 194.
 
@@ -2577,7 +2625,7 @@ Formación, Capacitación y Actualización del Personal. Regulación.
 
 2. La operación de los programas correspondientes en los establecimientos de salud, se llevará a cabo de acuerdo a los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen las autoridades sanitarias competentes.
 
-### CAPITULO V. DE LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO DE JALISCO
+### CAPITULO IV. DE LA COMISIÓN ESTATAL DE BIOÉTICA E INVESTIGACIÓN DE JALISCO
 
 ###### Artículo 199.
 
@@ -2741,7 +2789,7 @@ Comisión Estatal de Bioética. Comités Hospitalarios.
 
 4. Los integrantes del Comité Hospitalario correspondiente elaborarán los lineamientos para su funcionamiento y deberán dar aviso, semestralmente, a la Secretaría de Salud a través de la Comisión Estatal de Bioética e Investigación de Jalisco, de las opiniones que emitan, a fin de que ésta elabore criterios y guías éticas para la atención médica.
 
-### CAPÍTULO I. DISPOSICIÓN DE ÓRGANOS Y TEJIDOS DE SERES HUMANOS
+### CAPITULO V. DE LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO DE JALISCO
 
 ###### Artículo 207.
 
@@ -3025,7 +3073,7 @@ Comisión de Arbitraje Médico. Estructura Orgánica.
 
 ## TÍTULO OCTAVO. DE LA DISPOSICIÓN DE ÓRGANOS, TEJIDOS, SANGRE, CÉLULAS TRONCALES Y HEMODERIVADOS
 
-### CAPÍTULO II. DISPOSICIÓN DE SANGRE, COMPONENTES SANGUÍNEOS, CÉLULAS PROGENITORAS HEMATOPOYÉTICAS Y HEMODERIVADOS
+### CAPÍTULO I. DISPOSICIÓN DE ÓRGANOS Y TEJIDOS DE SERES HUMANOS
 
 ###### Artículo 219.
 
@@ -3515,7 +3563,7 @@ Participación Social en la Realización de Trasplantes.
 
 (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO II. DISPOSICIÓN DE SANGRE, COMPONENTES SANGUÍNEOS, CÉLULAS PROGENITORAS HEMATOPOYÉTICAS Y HEMODERIVADOS
 
 ###### Artículo 241.
 
@@ -3553,19 +3601,11 @@ XI. Promover la certificación de los bancos de sangre en la Entidad y del perso
 
 XII. Capacitar al personal médico, paramédico, técnico y auxiliar en materia de medicina transfusional, extracción y fraccionamiento de sangre, bioseguridad en su manejo y, en general, en todos los aspectos relacionados con la sangre y los productos sanguíneos.
 
-### CAPÍTULO ÚNICO. DE LAS ACCIONES Y BASES PARA LA INVESTIGACIÓN
+### CAPÍTULO ÚNICO
 
 ## TÍTULO NOVENO. DE LA INFRAESTRUCTURA EN SALUD
 
-### CAPÍTULO ÚNICO
-
-Artículo. 252. Expendios de Alimentos Bebidas no Alcohólicas y Alcohólicas. Autorización.
-
-1. De conformidad con los criterios y lineamientos técnicos que expida la Secretaría de Salud, se autorizará el funcionamiento de los establecimientos que expendan o suministren al público alimentos, bebidas no alcohólicas, y alcohólicas en estado natural, mezcladas, preparadas, adicionadas o acondicionadas para su consumo dentro o fuera de los mismos.
-
-2. En el caso de los establecimientos que expendan o suministren al público bebidas alcohólicas en estado natural, mezcladas, preparadas o adicionadas, deberán cumplir con todas las medidas específicas impuestas por la Secretaría de Salud en el acuerdo que emita, cuya observación será motivo de verificación constante por parte de las autoridades sanitarias competentes.
-
-3. La Secretaría de Salud podrá efectuar visitas de verificación a establecimientos de conformidad a lo dispuesto por la Ley General de Salud, efectuando revisión de los envases o empaques que contenían las bebidas a fin de corroborar si los sellos de seguridad con que cuentan presentan o no huellas de haber sido quebrantados y su contenido alterado substituido o mezclado, así como pruebas químicas a fin de comprobar la calidad y contenido de las mismas con muestreos para pruebas de laboratorio en cantidades estrictamente necesarias y que puedan ocasionar un daño a la salud.
+### CAPÍTULO ÚNICO. DE LAS ACCIONES Y BASES PARA LA INVESTIGACIÓN
 
 ###### Artículo 243.
 
@@ -3599,7 +3639,15 @@ Infraestructura en Salud. Centros de Recreo.
 
 ## TÍTULO DÉCIMO. INVESTIGACIÓN EN SALUD
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO
+
+Artículo. 252. Expendios de Alimentos Bebidas no Alcohólicas y Alcohólicas. Autorización.
+
+1. De conformidad con los criterios y lineamientos técnicos que expida la Secretaría de Salud, se autorizará el funcionamiento de los establecimientos que expendan o suministren al público alimentos, bebidas no alcohólicas, y alcohólicas en estado natural, mezcladas, preparadas, adicionadas o acondicionadas para su consumo dentro o fuera de los mismos.
+
+2. En el caso de los establecimientos que expendan o suministren al público bebidas alcohólicas en estado natural, mezcladas, preparadas o adicionadas, deberán cumplir con todas las medidas específicas impuestas por la Secretaría de Salud en el acuerdo que emita, cuya observación será motivo de verificación constante por parte de las autoridades sanitarias competentes.
+
+3. La Secretaría de Salud podrá efectuar visitas de verificación a establecimientos de conformidad a lo dispuesto por la Ley General de Salud, efectuando revisión de los envases o empaques que contenían las bebidas a fin de corroborar si los sellos de seguridad con que cuentan presentan o no huellas de haber sido quebrantados y su contenido alterado substituido o mezclado, así como pruebas químicas a fin de comprobar la calidad y contenido de las mismas con muestreos para pruebas de laboratorio en cantidades estrictamente necesarias y que puedan ocasionar un daño a la salud.
 
 ###### Artículo 246.
 
@@ -3667,7 +3715,7 @@ Investigación de la Salud. Sanciones.
 
 ## TÍTULO DÉCIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
 
-### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 253.
 
@@ -3683,7 +3731,7 @@ Expendios de Alimentos Bebidas no Alcohólicas y Alcohólicas. Distancias.
 
 ## TÍTULO DÉCIMO SEGUNDO. SALUBRIDAD LOCAL
 
-### CAPÍTULO III. DE LA INGENIERÍA SANITARIA
+### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
 
 ###### Artículo 255.
 
@@ -3787,7 +3835,7 @@ Salubridad Local. Supletoriedad.
 
 1. En todo lo no previsto por este Capítulo se estará a lo que dispongan esta Ley y sus reglamentos respectivos, disposiciones legales aplicables y las normas oficiales mexicanas correspondientes, así como los criterios y lineamientos de carácter técnico que se llegaran a expedir.
 
-### CAPÍTULO IV. DE LOS CEMENTERIOS, CREMATORIOS, FUNERARIAS Y CRIPTAS
+### CAPÍTULO III. DE LA INGENIERÍA SANITARIA
 
 ###### Artículo 264.
 
@@ -3807,7 +3855,7 @@ Mercados y Centros de Abasto. Condiciones Higiénicas.
 
 1. Los vendedores, locatarios y personal cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar en esos lugares las condiciones higiénicas indispensables para el debido mantenimiento de sus locales.
 
-### CAPÍTULO V. DE LOS RECLUSORIOS
+### CAPÍTULO IV. DE LOS CEMENTERIOS, CREMATORIOS, FUNERARIAS Y CRIPTAS
 
 ###### Artículo 267.
 
@@ -3879,7 +3927,7 @@ Edificaciones. Suspensión y Demolición.
 
 1. Cuando se contravengan algunas de las disposiciones anteriores o las del Reglamento respectivo, la autoridad sanitaria competente podrá, previo el cumplimiento de los requisitos legales respectivos, ordenar la suspensión de las obras o su demolición apoyándose en las demás autoridades competentes.
 
-### CAPÍTULO VI. DE LAS ALBERCAS, BAÑOS Y SANITARIOS PÚBLICOS
+### CAPÍTULO V. DE LOS RECLUSORIOS
 
 ###### Artículo 278.
 
@@ -3917,7 +3965,7 @@ I. Cuando se trate de cadáveres de personas que hubieren padecido enfermedades 
 
 II. Cuando el traslado se pretenda realizar después de las cuarenta y ocho horas posteriores a la muerte de que se trata.
 
-### CAPÍTULO VII. DE LOS CENTROS DE REUNIÓN Y ESPECTÁCULOS
+### CAPÍTULO VI. DE LAS ALBERCAS, BAÑOS Y SANITARIOS PÚBLICOS
 
 ###### Artículo 282.
 
@@ -3937,7 +3985,7 @@ Reclusorios. Baños y Área de Enfermería.
 
 1. Los reclusorios deberán contar, además de lo previsto por las disposiciones legales aplicables y las normas oficiales mexicanas correspondientes, con un departamento de baños y otro de enfermería, este último para la atención de aquellos casos de enfermedad de los internos, en que no sea necesario el traslado de éstos a un hospital.
 
-### CAPÍTULO VIII. DE LOS CENTROS DE HOSPEDAJE
+### CAPÍTULO VII. DE LOS CENTROS DE REUNIÓN Y ESPECTÁCULOS
 
 ###### Artículo 285.
 
@@ -3957,7 +4005,7 @@ Baños Públicos. Apertura.
 
 1. Para abrir al servicio público estos establecimientos deberá notificarse sin excepción a la autoridad sanitaria competente.
 
-### CAPÍTULO I. DE LAS AUTORIZACIONES
+### CAPÍTULO VIII. DE LOS CENTROS DE HOSPEDAJE
 
 ###### Artículo 287.
 
@@ -3977,7 +4025,7 @@ Centros de Reunión y Espectáculos. Normativa.
 
 1. El funcionamiento de los establecimientos a que se refiere el artículo 287 deberá ajustarse a lo dispuesto por las disposiciones legales aplicables, y contará con los servicios de seguridad e higiene que establezcan las normas correspondientes.
 
-### CAPÍTULO II. DE LA REVOCACIÓN DE AUTORIZACIONES SANITARIAS
+### CAPÍTULO I. DE LAS AUTORIZACIONES
 
 ###### Artículo 290.
 
@@ -4001,7 +4049,7 @@ Hoteles, Moteles, Pensiones y Casas de Huéspedes. Normatividad.
 
 ## TÍTULO DÉCIMO TERCERO. AUTORIZACIONES Y CERTIFICACIONES
 
-### CAPÍTULO III. DE LOS CERTIFICADOS
+### CAPÍTULO II. DE LA REVOCACIÓN DE AUTORIZACIONES SANITARIAS
 
 ###### Artículo 292.
 
@@ -4089,7 +4137,7 @@ Autorizaciones Sanitarias. Revocación.
 
 1. Las autorizaciones a que se refiere esta Ley podrán ser revocadas por la autoridad sanitaria competente en los términos de las disposiciones legales aplicables.
 
-### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPÍTULO III. DE LOS CERTIFICADOS
 
 #### SECCIÓN PRIMERA. CAUSAS DE REVOCACIÓN
 
@@ -4163,7 +4211,7 @@ Revocación. Efectos.
 
 1. La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, de prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPÍTULO II. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### Artículo 308.
 
@@ -4209,7 +4257,7 @@ Certificados. Expedición en Formatos Aprobados.
 
 ## TÍTULO DÉCIMO CUARTO. DE LAS MEDIDAS DE SEGURIDAD SANITARIA
 
-### CAPÍTULO I. DE LA VIGILANCIA SANITARIA
+### CAPÍTULO II. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### Artículo 313.
 
@@ -4319,7 +4367,7 @@ Medidas de Seguridad. Desocupación de Inmuebles.
 
 1. La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y del dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
 
-### CAPÍTULO II. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPÍTULO I. DE LA VIGILANCIA SANITARIA
 
 ###### Artículo 325.
 
@@ -4415,7 +4463,7 @@ Procedimientos Administrativos. Posible Comisión del Delito.
 
 ## TÍTULO DÉCIMO QUINTO. VIGILANCIA SANITARIA, SANCIONES Y RECURSO DE REVISIÓN
 
-### CAPÍTULO III. DEL RECURSO DE REVISIÓN
+### CAPÍTULO II. DE LAS SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 335.
 
@@ -4491,7 +4539,7 @@ IV. Al concluir la verificación, se dará oportunidad al propietario, responsab
 
 La negativa a firmar el acta o recibir copia de la misma o de la orden de visita, se deberá hacer constar en el referido documento y no afectará su validez ni la de la diligencia practicada.
 
-### CAPÍTULO IV. DE LA PRESCRIPCIÓN
+### CAPÍTULO III. DEL RECURSO DE REVISIÓN
 
 ###### Artículo 344.
 
@@ -4606,6 +4654,8 @@ I. A la persona que interfiera o se oponga al ejercicio de las funciones de la a
 II. A la persona que, en rebeldía, se niegue a cumplir los requerimientos o disposiciones de la autoridad sanitaria, provocando con ello un peligro a la salud de las personas.
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
+
+### CAPÍTULO IV. DE LA PRESCRIPCIÓN
 
 ###### Artículo 357.
 
@@ -5028,3 +5078,25 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Será obligación de la Secretaría de Salud en coordinación con la Secretaría del Sistema de Asistencia Social, de conformidad con la suficiencia presupuestal con la que cuenten y su respectivo ámbito de competencia, fomentar y promover el diagnóstico oportuno de la insuficiencia o falla renal con el objetivo de intervenir de manera temprana los casos de ésta enfermedad que son los que más demandan el trasplante de un órgano, además de la obligación del sistema de salud estatal para crear un sistema de control de la enfermedad, que retrase la progresión de éste padecimiento para reducir el riesgo de complicaciones.
 
 TERCERO. El Ejecutivo del Estado llevará a cabo la adecuación o creación del reglamento que corresponda.
+
+P.O. 23 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29512/LXIII/24 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 86 Y 87; Y ADICIONA EL CAPÍTULO I BIS "DE LA ATENCIÓN A URGENCIAS MÉDICAS PREHOSPITALARIAS" AL TÍTULO TERCERO Y LOS ARTÍCULOS 87 BIS Y 87 TER, A LA LEY DE SALUD DEL ESTADO DE JALISCO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+###### ARTÍCULO SEGUNDO.
+
+Se autoriza a la Secretaría de la Hacienda Pública y a la Secretaría de Administración para realizar las adecuaciones presupuestales y administrativas necesarias para dar cumplimiento al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Transfiéranse al Sistema de Atención Médica de Urgencias, los recursos humanos, financieros, materiales y tecnológicos adscritos al Consejo Estatal para la Prevención de Accidentes, ambos órganos desconcentrados de la Secretaría de Salud del Gobierno del Estado, que se consideren necesarios para la prestación de los servicios de atención médica de urgencias y que en su oportunidad sean acordados por los Titulares de las entidades citadas.
+
+Con motivo de la transferencia de personal, se respetarán todos los derechos laborales o aquellos relativos a la relación jurídico administrativa que tienen a la fecha con el Gobierno del Estado de Jalisco.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Salud deberá presentar al Ejecutivo del Estado, la propuesta de modificaciones o expedición de la normatividad reglamentaria necesaria para la implementación de este decreto dentro de los 90 días siguientes a su entrada en vigor.
