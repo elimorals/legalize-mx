@@ -4,7 +4,7 @@ identifier: "LTOSF"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-15"
-last_updated: "2018-03-09"
+last_updated: "2024-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55887&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LTOSF"
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 15 de junio de 2007.
 
@@ -786,9 +786,11 @@ Las Entidades Financieras y las Cámaras de Compensación, estarán obligadas a 
 
 Las Entidades Comerciales estarán obligadas a suministrar a la Procuraduría Federal del Consumidor, en la forma y términos que ésta les requiera, la información sobre los Medios de Disposición, créditos, préstamos o financiamientos respectivos, así como, en general aquélla que le sea útil para proveer el adecuado cumplimiento de sus funciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2024)</small>
+
 ###### Artículo 22.
 
-Las disposiciones de carácter general, tales como circulares y reglas, así como actos administrativos y notificaciones que emita el Banco de México en ejercicio de las facultades que le otorgan la Constitución Política de los Estados Unidos Mexicanos, y las leyes, podrán darse a conocer:
+Las disposiciones de carácter general, tales como circulares y reglas, así como demás actos y notificaciones que emita el Banco de México en ejercicio de las facultades que le otorgan la Constitución Política de los Estados Unidos Mexicanos, y las leyes, podrán darse a conocer:
 
 I. Mediante publicación en el Diario Oficial de la Federación, o
 
@@ -798,9 +800,17 @@ Las publicaciones que realice el Banco de México en el Diario Oficial de la Fed
 
 Para los efectos de la fracción II del presente artículo:
 
-a) Las instituciones de crédito, entidades e intermediarios financieros de que se trate, deberán proporcionar al Banco de México la información que requiera para dar a conocer las disposiciones, actos administrativos y notificaciones mencionadas. Las disposiciones, actos administrativos y notificaciones que el Banco de México envíe o comunique con base en la información que le proporcionen las instituciones de crédito, entidades e intermediarios financieros, obligan y surten sus efectos en los términos que éstas señalen.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
 
-b) Cuando las disposiciones, actos administrativos y notificaciones del Banco de México se envíen a las instituciones de crédito, entidades o intermediarios financieros, a través de medios electrónicos distintos del fax, que permitan adjuntar el mensaje de datos y firmarlo electrónicamente, las firmas respectivas deberán corresponder a los funcionarios competentes para emitirlas en términos del Reglamento Interior del Banco de México, y haber sido generadas con base en los datos de creación de firma electrónica conforme a los procedimientos y sistemas de la Infraestructura Extendida de Seguridad que administra el propio Banco de México.
+a) Las instituciones de crédito, entidades e intermediarios financieros de que se trate, deberán proporcionar al Banco de México la información que requiera para dar a conocer las disposiciones, actos y notificaciones mencionadas. Las disposiciones, actos y notificaciones que el Banco de México envíe o comunique con base en la información que le proporcionen las instituciones de crédito, entidades e intermediarios financieros, obligan y surten sus efectos en los términos que éstas señalen.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+b) Cuando las disposiciones, actos y notificaciones del Banco de México se envíen a las instituciones de crédito, entidades o intermediarios financieros, a través de medios electrónicos distintos del fax, que permitan adjuntar el mensaje de datos y firmarlo electrónicamente, las firmas respectivas deberán corresponder a los funcionarios competentes para emitirlas en términos del Reglamento Interior del Banco de México, y haber sido generadas con base en los datos de creación de firma electrónica conforme a los procedimientos y sistemas de la Infraestructura Extendida de Seguridad que administra el propio Banco de México.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+El Banco de México estará facultado para supervisar y vigilar el cumplimiento, por parte de los sujetos correspondientes, de las disposiciones de las leyes que le confieran atribuciones para regular los actos y operaciones específicos indicados en dichas disposiciones, sin perjuicio de las facultades de supervisión y vigilancia que dichas leyes confieran a alguna otra autoridad respecto de las demás disposiciones ahí contenidas. En el ejercicio de dichas facultades de supervisión y vigilancia, el Banco observará lo dispuesto a ese respecto en la Ley del Banco de México, así como en las reglas de carácter general emitidas por este, para proveer a la observancia de su propia regulación.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE JUNIO DE 2009)</small>
 
@@ -868,19 +878,49 @@ La provisión de servicios adicionales por parte de las Entidades Financieras de
 
 La facultad de las autoridades para imponer sanciones de carácter administrativo establecidas en esta Ley, caducará en un plazo de cinco años, contado a partir del día hábil siguiente al en que se realizó la conducta o se actualizó el supuesto de infracción.
 
-El plazo señalado se interrumpirá cuando las autoridades otorguen el derecho de audiencia al probable infractor, en términos de lo previsto en los artículos 28 y 29 de la presente Ley.
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Para el caso de conductas continuas, el plazo referido en el párrafo anterior se computará a partir del momento en que cese la misma y tratándose de las continuadas, dicho plazo contará a partir de la consumación de la última conducta.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+El plazo de cinco años previsto en el primer párrafo del presente artículo se interrumpirá, para efectos del inicio del procedimiento administrativo sancionador, a partir del momento de la notificación al presunto infractor del oficio mediante el cual se le concede el derecho de audiencia, en términos de lo previsto en los artículos 28 y 29 de la presente Ley.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O.F. 24 DE ENERO DE 2024)</small>
+
+Asimismo, el plazo de cinco años previsto por este artículo se suspenderá:
+
+I. Hasta por dos años, cuando la Entidad Financiera: no se ubique en el domicilio registrado ante la Autoridad respectiva sin que haya presentado el aviso de cambio correspondiente, o hubiere señalado un domicilio incorrecto.
+
+El citado plazo se reanudará a partir de la fecha en que la Autoridad tenga conocimiento del domicilio actual.
+
+II. Cuando la Entidad Financiera haya controvertido cualquiera de los actos relacionados con el proceso de imposición de la sanción. Dicha suspensión se computará desde la fecha de interposición del medio de defensa y hasta aquella en que se dicte la resolución definitiva correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+###### Artículo 24 Bis.
+
+Tratándose de la facultad del Banco de México para imponer sanciones de carácter administrativo, por infracciones a preceptos de otras leyes, así como a las disposiciones que este emita con fundamento en dichas leyes, cuando estas no prevean expresamente un plazo para la caducidad de sus atribuciones se estará a los términos y condiciones del artículo 24 anterior.
 
 ###### Artículo 25.
 
 El procedimiento administrativo será autónomo de la reparación de los daños y perjuicios que, en su caso, demanden las personas afectadas por los actos de que se trate.
 
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
 ###### Artículo 26.
 
-Todas las actuaciones deberán practicarse en días y horas hábiles. Serán días hábiles todos los días del año, salvo los sábados y domingos y los que determine la Comisión Nacional Bancaria y de Valores mediante las disposiciones de carácter general que señalan los días del año en que las entidades financieras sujetas a la supervisión de la Comisión deberán suspender operaciones, publicadas en el Diario Oficial de la Federación para cada ejercicio social. Serán horas hábiles las comprendidas entre las nueve y las dieciocho horas.
+Todas las actuaciones deberán practicarse en días y horas hábiles. Serán días hábiles, respecto de las Entidades Financieras, todos los días del año, salvo los sábados y domingos y los que determine la Autoridad competente para resolver el procedimiento administrativo sancionador respectivo, mediante disposiciones de carácter general, acuerdos o publicaciones, realizadas en el Diario Oficial de la Federación con la periodicidad que determine cada Autoridad. Serán horas hábiles, respecto de las entidades financieras las comprendidas entre las nueve y las dieciocho horas. Asimismo, serán días hábiles respecto de las entidades comerciales, aquellos señalados con tal carácter en la Ley Federal de Procedimiento Administrativo.
+
+Sin perjuicio de lo dispuesto en este artículo, las Autoridades podrán llevar a cabo notificaciones por medios electrónicos fuera de las horas hábiles previstas en el párrafo anterior, en cuyo caso se entenderán realizadas en la hora hábil inmediata siguiente al momento en que se hubiere realizado.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
 
 ###### Artículo 27.
 
-Las notificaciones se regirán por los artículos 134, 135, 136, 137, 139 y 140 del Código Fiscal de la Federación.
+Las notificaciones que realicen las Autoridades podrán efectuarse electrónicamente mediante los sistemas que las mismas señalen en las disposiciones de carácter general que al efecto emitan. En lo no previsto en las disposiciones señaladas en el presente párrafo respecto de las notificaciones electrónicas, así como en el caso en que no sea posible la notificación a través de dicha vía, será aplicable el Código Fiscal de la Federación en su parte relativa a las notificaciones.
+
+Tratándose de las notificaciones que corresponda realizar al Banco de México, estas quedarán sujetas además del ordenamiento a que se refiere el párrafo anterior, a las reglas de carácter general emitidas al efecto.
 
 #### Sección II. Del inicio del procedimiento
 
@@ -888,9 +928,11 @@ Las notificaciones se regirán por los artículos 134, 135, 136, 137, 139 y 140 
 
 Las Autoridades previo a la imposición de las sanciones que les corresponda aplicar conforme a esta Ley, notificarán por escrito al presunto infractor los hechos que se le imputan y las disposiciones que se consideren probablemente infringidas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2024)</small>
+
 ###### Artículo 29.
 
-En la notificación a que se refiere el artículo inmediato anterior, las Autoridades deberán otorgar el derecho de audiencia al presunto infractor, a fin de que en un plazo de diez días hábiles bancarios, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, manifieste lo que a su interés convenga y ofrezca pruebas por escrito.
+En la notificación a que se refiere el artículo inmediato anterior, las Autoridades deberán otorgar el derecho de audiencia al presunto infractor, a fin de que en un plazo de diez días hábiles, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, manifieste lo que a su interés convenga y ofrezca pruebas por escrito.
 
 Las Autoridades, a petición de parte, podrán ampliar por una sola ocasión el plazo mencionado, hasta por el mismo lapso, atendiendo a las circunstancias particulares del caso.
 
@@ -902,11 +944,23 @@ En el procedimiento administrativo sancionador se admitirán toda clase de prueb
 
 Las pruebas supervenientes podrán presentarse, siempre que no se haya cerrado la instrucción.
 
-El ofrecimiento, admisión, preparación, desahogo y valoración de las pruebas se hará conforme a lo establecido en el Código Federal de Procedimientos Civiles.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+El ofrecimiento, admisión, preparación, desahogo y valoración de las pruebas se hará en los términos y condiciones establecidos en el Código Federal de Procedimientos Civiles.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
 
 ###### Artículo 31.
 
-Concluido el desahogo de pruebas, se otorgará al presunto infractor un plazo de cinco días hábiles bancarios, contado a partir del día hábil bancario siguiente al de la notificación correspondiente, para que formule alegatos por escrito. Al vencer el citado plazo se tendrá por cerrada la instrucción.
+Concluido el plazo a que se refiere el artículo 29 de la presente Ley y, en su caso, el de su ampliación, las Autoridades contarán con hasta sesenta días hábiles para el desahogo de las pruebas. Una vez desahogadas las pruebas admitidas al presunto infractor, la Autoridad que corresponda le notificará la apertura del periodo de cinco días hábiles para formular alegatos. La Autoridad respectiva podrá realizar dicha notificación por estrados o por cualquier otro medio, en los casos en que así lo determine.
+
+Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Autoridad respectiva contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento sancionador e imponer, en su caso, las sanciones que conforme a derecho procedan.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+###### Artículo 31 Bis.
+
+Tratándose de la facultad del Banco de México para imponer sanciones de carácter administrativo por infracciones a preceptos de otras leyes, así como a las disposiciones que de ellas emita, cuando dichas leyes no prevean expresamente las etapas y los plazos para el ejercicio de esa facultad, el Banco observará lo dispuesto en el artículo 31 anterior.
 
 #### Sección IV. De la resolución del procedimiento
 
@@ -1381,3 +1435,15 @@ D.O.F. 9 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE EXPIDE LA LEY PARA REGULAR LAS INSTITUCIONES DE TECNOLOGÍA FINANCIERA Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE CRÉDITO, DE LA LEY DEL MERCADO DE VALORES, DE LA LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO, DE LA LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS SOCIEDADES DE INFORMACIÓN CREDITICIA, DE LA LEY DE PROTECCIÓN Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES Y, DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, salvo que en las Disposiciones Transitorias de este Decreto se disponga lo contrario.
+
+D.O.F. 24 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS LEYES FINANCIERAS EN MATERIA DE PROCEDIMIENTO ADMINISTRATIVO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los procedimientos administrativos sancionadores que, a la fecha de entrada del presente Decreto, se hubieren iniciado deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación al presunto infractor.
+
+Tercero.- Las resoluciones que pongan fin a los procedimientos administrativos de revocación que se hubieren iniciado mediante la notificación del acto a través del cual se concede el derecho de audiencia, antes de la entrada en vigor del presente Decreto, deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación a la institución o entidad correspondiente.
+
+Cuarto.- La sustanciación y resolución de los procedimientos sancionadores que, a la fecha de entrada del presente Decreto, hubiere iniciado el Banco de México se regirán por lo dispuesto en las Reglas de Supervisión, Programas de Autocorrección y del Procedimiento Sancionador, vigentes en la misma fecha de entrada en vigor del presente Decreto.
