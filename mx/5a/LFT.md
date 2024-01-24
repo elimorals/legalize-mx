@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "2023-12-04"
+last_updated: "2024-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2024.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el miércoles 1 de abril de 1970.
 
@@ -3288,57 +3288,79 @@ En los contratos colectivos podrá estipularse la constitución de un fondo afec
 
 Alcanzado el monto del fondo, no se harán nuevas aportaciones, salvo para reponer las cantidades que se paguen.
 
-### CAPITULO VIII. Trabajadores del Campo
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 24 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+### CAPITULO VIII. Personas Trabajadoras del Campo
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
 
 ###### Artículo 279.
 
-Trabajadores del campo son los que ejecutan las labores propias de las explotaciones agrícolas, ganaderas, acuícolas, forestales o mixtas, al servicio de un patrón.
+Personas trabajadoras del campo son las personas físicas que realizan labores dirigidas a la obtención de alimentos o productos primarios a través de la realización de diversas tareas agrícolas, hortícolas, ganaderas, forestales, acuícolas, avícolas, apícolas u otras semejantes, siempre que éstas no sean sometidas a algún tipo de proceso industrial y en tanto se desarrollen en ámbitos rurales.
 
-Los trabajadores en las explotaciones industriales forestales se regirán por las disposiciones generales de esta ley.
+No se considerarán personas trabajadoras del campo quienes laboren en empresas agrícolas, hortícolas, ganaderas, forestales, acuícolas, avícolas, apícolas u otras semejantes que adquieran productos de medio rural, para realizar actividades de empaque, reempaque, exposición, venta o para su transformación a través de algún proceso que modifique su estado natural.
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+Las personas trabajadoras del campo podrán ser permanentes o temporales.
 
-Los trabajadores del campo pueden ser permanentes, eventuales o estacionales.
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+Todas las personas trabajadoras del campo, cualquiera que sea la modalidad de contratación, tienen derecho a acceder a la seguridad social.
 
-Artículo 279 bis. Trabajador eventual del campo es aquél que, sin ser permanente ni estacional, desempeña actividades ocasionales en el medio rural, que pueden ser por obra y tiempo determinado, de acuerdo a lo establecido en la presente Ley.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+###### Artículo 279 Bis.
 
-Artículo 279 ter. Los trabajadores estacionales del campo o jornaleros son aquellas personas físicas que son contratadas para laborar en explotaciones agrícolas, ganaderas, forestales, acuícolas o mixtas, únicamente en determinadas épocas del año, para realizar actividades relacionadas o que van desde la preparación de la tierra, hasta la preparación de los productos para su primera enajenación, ya sea que sean producidos a cielo abierto, en invernadero o de alguna otra manera protegidos, sin que se afecte su estado natural; así como otras de análoga naturaleza agrícola, ganadera, forestal, acuícola o mixta. Puede ser contratada por uno o más patrones durante un año, por periodos que en ningún caso podrán ser superiores a veintisiete semanas por cada patrón.
+Persona trabajadora del campo es aquella contratada por tiempo indeterminado, o la prestación de sus servicios es de forma continua.
 
-No se considerarán trabajadores estacionales del campo, los que laboren en empresas agrícolas, ganaderas, forestales, acuícolas o mixtas que adquieran productos del campo, para realizar actividades de empaque, re empaque, exposición, venta o para su transformación a través de algún proceso que modifique su estado natural.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
 
-> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+###### Artículo 279 Ter.
+
+La persona trabajadora del campo temporal es aquella persona que es contratada por obra, tiempo determinado o por temporada, conforme a la naturaleza o necesidades propias de las actividades comprendidas dentro de este Capítulo.
+
+Este esquema de trabajo comprende las personas trabajadoras del campo denominados (sic) estacionales, eventuales, jornaleras y jornaleras migrantes.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
 
 ###### Artículo 279 Quáter.
 
-El patrón llevará un padrón especial de los trabajadores contratados por estacionalidades, para registrar la acumulación de éstas a fin de establecer la antigüedad en el trabajo y, con base en la suma de éstas, calcular las prestaciones y derechos derivados del tiempo sumado de trabajo.
+La persona empleadora deberá llevar un padrón especial de las personas trabajadoras del campo temporales para registrar la acumulación del tiempo contratado, a fin de establecer la antigüedad en el trabajo y, con base en la suma de éste, calcular las prestaciones y derechos derivados del tiempo sumado de trabajo.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
 
 ###### Artículo 280.
 
-El trabajador estacional o eventual del campo que labore en forma continua por un periodo mayor a veintisiete semanas para un patrón, tiene a su favor la presunción de ser trabajador permanente.
+La persona trabajadora temporal del campo que labore en forma continua por un periodo mayor a veintisiete semanas para una o varias personas empleadoras, tiene a su favor la presunción de ser persona trabajadora del campo permanente.
 
-El patrón llevará un registro especial de los trabajadores eventuales y estacionales que contrate cada año y exhibirlo ante las autoridades del trabajo cuando sea requerido para ello.
+La persona empleadora deberá llevar un registro especial de las personas trabajadoras del campo temporales que contrate cada año y exhibirlo ante las autoridades del trabajo cuando sea requerido para ello.
 
-Al final de la estación o del ciclo agrícola, el patrón deberá pagar al trabajador las partes proporcionales que correspondan por concepto de vacaciones, prima vacacional, aguinaldo y cualquier otra prestación a la que tenga derecho, y deberá entregar una constancia a cada trabajador en la que se señalen los días laborados y los salarios totales devengados.
+Al final de la obra, el tiempo determinado o la temporada, la persona empleadora deberá pagar a la persona trabajadora del campo las partes proporcionales que correspondan por concepto de vacaciones, prima vacacional, aguinaldo y cualquier otra prestación a la que tenga derecho, y deberá entregar una constancia a cada persona trabajadora del campo en la que se señalen los días laborados y los salarios totales devengados, la antigüedad acumulada hasta esa fecha, así como las retenciones y aportaciones por concepto de seguridad social.
 
-> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2024)</small>
 
 ###### Artículo 280 Bis.
 
-La Comisión Nacional de los Salarios Mínimos fijará los salarios mínimos profesionales de las y los trabajadores del campo debiendo tomar en consideración, entre otras las circunstancias siguientes:
+La Comisión Nacional de los Salarios Mínimos fijará los salarios mínimos profesionales de las personas trabajadoras del campo, debiendo tomar en consideración, entre otras, las circunstancias siguientes:
 
-I. La naturaleza, cantidad y calidad de los trabajos;
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
+
+I. La naturaleza esencial de los trabajos para la seguridad y soberanía alimentaria del país, así como la cantidad y calidad de éstos;
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
 II. El desgate (sic) físico ocasionado por las condiciones del trabajo, y
 
-III. Los salarios y prestaciones percibidas por los trabajadores de establecimientos y empresas dedicadas a la producción de productos agrícolas.
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
+
+III. Los salarios y prestaciones percibidas por las personas trabajadoras del campo de establecimientos y empresas dedicadas a la producción de productos en las actividades a que se refiere este Capítulo, donde las personas trabajadoras del campo estén suficientemente organizadas.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+La persona empleadora podrá convenir con la persona trabajadora del campo una retribución superior al salario mínimo profesional siempre que no se exceda la jornada máxima legal.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Cuando el salario se determine por unidad de obra, la persona empleadora estará obligada a garantizar la dación de trabajo en cantidad adecuada y a responder por la supresión o reducción del trabajo, en estos casos la persona empleadora garantizará el pago de por lo menos el salario mínimo profesional.
 
 ###### Artículo 281.
 
@@ -3346,93 +3368,245 @@ Cuando existan contratos de arrendamiento, el propietario del predio es solidari
 
 Si existieren contratos de aparcería, el propietario del predio y el aparcero serán solidariamente responsables.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
 
 ###### Artículo 282.
 
-Las condiciones de trabajo se redactarán por escrito, observándose lo dispuesto en el artículo 25 y demás relativos de esta Ley.
+El trabajo del campo deberá fijarse mediante contrato por escrito, siempre que una persona se obligue frente a otra a realizar actos, ejecutar obras o prestar servicios en las actividades a que se refiere este Capítulo, de manera subordinada y mediante el pago de un salario.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Las condiciones de trabajo deberán constar en dicho contrato, observándose lo dispuesto en el artículo 25 y lo señalado en este Capítulo. Además, dichas condiciones de trabajo establecerán los mecanismos acordados para informar a las personas trabajadoras del campo acerca de las autoridades del trabajo y servicios sociales a las que se podrán acudir cuando la persona trabajadora del campo considere que sus derechos han sido menoscabados, a fin de ejercer la acción legal conducente.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Todas las personas trabajadoras del campo deberán contar con un ejemplar del contrato de trabajo. La falta del escrito del contrato de trabajo no priva a las personas trabajadoras del campo de los derechos que deriven por los servicios prestados, y será imputable a la persona empleadora la falta de esa formalidad.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Las personas empleadoras de servicios especializados que intervienen en el proceso de contratación de personal a través del reclutamiento y selección no se considerarán personas empleadoras, este carácter lo tiene quien se beneficia de los servicios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2024)</small>
 
 ###### Artículo 283.
 
-Los patrones tienen las obligaciones especiales siguientes:
+En materia de seguridad y salud, las personas empleadoras tienen las obligaciones especiales siguientes:
 
 I. Pagar los salarios precisamente en el lugar donde preste el trabajador sus servicios y en períodos de tiempo que no excedan de una semana;
 
-> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
 
-II. Suministrar gratuitamente a los trabajadores habitaciones adecuadas e higiénicas, con agua potable, dotadas de piso firme y proporcionales al número de familiares o dependientes económicos que los acompañen y, en su caso, un predio individual o colectivo, para la cría de animales de corral;
+II. Proveer gratuitamente habitaciones a las personas trabajadoras del campo y, en su caso, a su familia o dependientes económicos que lo acompañen. Dichas habitaciones deberán cumplir con los requerimientos mínimos de construcción, seguridad e higiene que garanticen un adecuado estándar de habitabilidad en condiciones dignas. En todos los casos las habitaciones deberán contar con piso firme, agua potable, baños, regaderas, lavaderos y comedores. En su caso, proveer de un predio individual o colectivo para la cría de animales de corral;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
 
-III. Mantener las habitaciones en buen estado, haciendo en su caso las reparaciones necesarias y convenientes;
+III. Mantener las habitaciones en condiciones dignas y de habitabilidad, haciendo, en su caso, las reparaciones necesarias y convenientes;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
 
-IV. Proporcionar a los trabajadores agua potable y servicios sanitarios durante la jornada de trabajo;
+IV. Proporcionar a las personas trabajadoras del campo, durante la jornada de trabajo, alimentación sana, suficiente y variada; agua apta para consumo y uso humano, en cantidad suficiente y servicios sanitarios adecuados e independientes a cada sexo, en cantidad suficiente y proporcional al número de personas;
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 V. Mantener en el lugar de trabajo los medicamentos y material de curación, así como los antídotos necesarios, a fin de proporcionar primeros auxilios a los trabajadores, a sus familiares o dependientes económicos que los acompañen, así como adiestrar personal que los preste;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
 
-VI. Proporcionar a los trabajadores y a sus familiares que los acompañen asistencia médica o trasladarlos al lugar más próximo en el que existan servicios médicos. También tendrán las obligaciones a que se refiere el artículo 504, fracción II;
+VI. Trasladar a las personas trabajadoras del campo y a sus familiares que los acompañen a los servicios médicos del Instituto Mexicano del Seguro Social. En aquellos lugares donde el Instituto no cuente con instalaciones, la persona empleadora deberá proporcionar gratuitamente asistencia médica. También tendrán las obligaciones a que se refiere el artículo 504, fracción II;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
 
-VII. Proporcionar gratuitamente al trabajador, a sus familiares o dependientes económicos que los acompañen medicamentos y material de curación en los casos de enfermedades tropicales, endémicas y propias de la región y pagar a los trabajadores que resulten incapacitados, el setenta y cinco por ciento de los salarios hasta por noventa días. Los trabajadores estacionales disfrutarán de esta prestación por el tiempo que dure la relación laboral.
+VII. Proporcionar gratuitamente a la persona trabajadora del campo, a sus familiares o dependientes económicos que los acompañen medicamentos y material de curación en los casos de enfermedades tropicales, endémicas y propias de la región y pagar a las personas trabajadoras del campo que resulten incapacitados, el setenta y cinco por ciento de los salarios hasta por noventa días. Las personas trabajadoras del campo temporales disfrutarán de esta prestación por el tiempo que dure la relación laboral.
 
-Los trabajadores estacionales también deberán contar con un seguro de vida para sus traslados desde sus lugares de origen a los centros de trabajo y posteriormente a su retorno;
+Las personas trabajadoras del campo que sean jornaleros migrantes también deberán contar con un seguro de vida para sus traslados desde sus hogares de origen a los centros de trabajo y posteriormente a su retorno;
 
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-VIII. Permitir a los trabajadores dentro del predio:
-
-a) Tomar en los depósitos acuíferos, el agua que necesiten para sus usos domésticos y sus animales de corral.
-
-b) La caza y la pesca, para usos propios, de conformidad con las disposiciones que determinan las Leyes.
-
-c) El libre tránsito por los caminos y veredas establecidos, siempre que no sea en perjuicio de los sembrados y cultivos.
-
-d) Celebrar en los lugares acostumbrados sus fiestas regionales.
+VIII. (DEROGADA, D.O.F. 24 DE ENERO DE 2024)
 
 > <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 IX. Fomentar la creación de cooperativas de consumo entre los trabajadores;
 
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
 
-X. Fomentar la alfabetización entre los trabajadores y sus familiares.
+X. Fomentar la educación entre las personas trabajadoras del campo y sus familiares. En el caso de las personas trabajadoras del campo se deberá fomentar la educación con pertinencia cultural y lingüística para personas adultas a través de los diversos tipos y modalidades de estudio para erradicar el rezago educativo y el analfabetismo. En el caso de los hijos de las personas trabajadoras del campo se deberá fomentar la educación obligatoria.
 
-El Estado garantizará en todo momento, el acceso a la educación básica de los hijos de los trabajadores estacionales del campo o jornaleros. La Secretaría de Educación Pública, reconocerá los estudios que en un mismo ciclo escolar, realicen los hijos de los trabajadores estacionales del campo o jornaleros tanto en sus lugares de origen como en sus centros de trabajo;
+Cuando las actividades a que se refiere este Capítulo se sitúen fuera de las poblaciones, la persona empleadora deberá establecer y sostener escuelas de conformidad con lo previsto en el artículo 82 de la Ley General de Educación.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Las autoridades educativas de las entidades federativas podrán celebrar con las personas empleadoras, convenios para el cumplimiento de dicha obligación.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Cuando las actividades a que se refiere este Capítulo se sitúen cerca o en las poblaciones, el Estado garantizará en todo momento, el acceso a la educación obligatoria de los hijos e hijas de las personas trabajadoras del campo migrantes en escuelas con condiciones físicas y de equipamiento, así como con personal docente con el perfil profesional adecuado que permita proporcionar educación con equidad, inclusión, pertinencia cultural y lingüística.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Las autoridades educativas reconocerán los estudios que, en un mismo ciclo escolar, realicen los hijos e hijas de las personas trabajadoras del campo tanto en sus lugares de origen como en sus centros de trabajo. Asimismo, las autoridades educativas definirán mecanismos de seguimiento que aseguren la continuidad de los estudios en sus comunidades de origen y en los centros de trabajo.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+En todo caso, la educación que se brinde responderá a la diversidad lingüística, regional y sociocultural del país, además de las características y necesidades de este sector de la población por lo que deberá ser de carácter intercultural y plurilingüe;
 
 > <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 XI. Proporcionar a los trabajadores en forma gratuita, transporte cómodo y seguro de las zonas habitacionales a los lugares de trabajo y viceversa. El patrón podrá emplear sus propios medios o pagar el servicio para que el trabajador haga uso de un trasporte público adecuado;
 
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Si la persona trabajadora del campo fuere contratada para residir temporalmente en el centro de trabajo, en un lugar distinto donde tiene su residencia habitual, la persona empleadora tendrá a su cargo el traslado seguro y cómodo de aquélla, el de su grupo familiar y las pertenencias de todos ellos, desde el lugar de contratación al de ejecución del contrato cuando se iniciare la relación y de regreso al terminarse el vínculo;
+
 > <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 XII. Utilizar los servicios de un intérprete cuando los trabajadores no hablen español; y
 
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
 
-XIII. Brindar servicios de guardería a los hijos de los trabajadores.
+XIII. Brindar servicios de guardería a los hijos e hijas de las personas trabajadoras del campo, durante todo el tiempo que dure la jornada laboral, independientemente del esquema de contratación.
 
-> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
 
-XIV. Impartirles capacitación en el trabajo para el uso de los medios y equipos de seguridad y protección para el trabajo.
+En aquellos lugares donde el Instituto Mexicano del Seguro Social no cuente con instalaciones, la persona empleadora deberá habilitar espacios con instalaciones y mobiliario seguros e higiénicos, así como contar con personal capacitado y autorizado por las autoridades competentes.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Este servicio deberá atender a los niños y niñas que aún no han cumplido la edad escolar y también, en contra turno, a los que asisten a la escuela hasta cubrir la jornada laboral de las personas trabajadoras del campo a cuyo cargo se encuentren;
+
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
+
+XIV. Capacitar y adiestrar sobre el uso correcto del equipo de protección personal cuando la persona trabajadora del campo debiere realizar tareas peligrosas para su salud. Dicha capacitación deberá realizarse en la lengua indígena o en el idioma de la persona trabajadora.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Lo anterior también será aplicable cuando el trabajo implique la realización de procesos o manipulación de agroquímicos, sustancias tóxicas, irritantes o agresivas en cualquiera de sus formas;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2024)</small>
+
+XV. Proveer el equipo de seguridad y de protección personal cuando por la operación propia del trabajo, fuere necesario su uso y cuando la persona trabajadora del campo realizare tareas a la intemperie, en caso de lluvia, terrenos anegados u otras situaciones similares.
+
+En el caso de actividades que impliquen el manejo de agroquímicos o cualquier otra sustancia química peligrosa, incluyendo el lavado de los equipos, envases y de la ropa de trabajo, deberá proporcionarse el equipo de protección personal indicado en la etiqueta u hoja de seguridad, además de supervisar su uso correcto, y mantener el equipo en condiciones de funcionamiento seguro;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2024)</small>
+
+XVI. Hacer observar el descanso, pausas y limitaciones a la duración de la jornada y adoptar las medidas que, según el tipo de trabajo, la experiencia y la técnica sean necesarias para tutelar la integridad física y la dignidad de las personas trabajadoras del campo, debiendo evitar los efectos perniciosos de las tareas riesgosas o determinantes de vejez o agotamiento prematuro;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 24 DE ENERO DE 2024)</small>
+
+XVII. En el manejo de sustancias peligrosas químicas o biológicas, sus residuos o envases que los contengan:
+
+a) Aplicar únicamente agroquímicos con Registro Sanitario de Plaguicidas y Nutrientes Vegetales vigente, no caducos, en las dosis recomendadas y sin mezclar productos incompatibles, según lo establecido en las etiquetas;
+
+b) Verificar que todos los envases que contienen agroquímicos cuenten con la etiqueta original, y contar con las hojas de datos de seguridad impresas de cada uno de los agroquímicos y sustancias químicas que se utilicen;
+
+c) Señalizar las áreas de almacenamiento, manejo, de mezclado o llenado de sustancias químicas o biológicas, así como de los envases que hubieran contenido dichas sustancias, y
+
+d) Observar las demás disposiciones de conformidad con las disposiciones legales aplicables;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 24 DE ENERO DE 2024)</small>
+
+XVIII. Identificar plenamente por escrito los posibles peligros derivados de las actividades y de lugares en que se llevan a cabo éstas, para ello, se deberá considerar, al menos, los aspectos siguientes:
+
+a) La exposición a agroquímicos o cualquier otra sustancia química peligrosa;
+
+b) La operación, manejo, revisión, transporte o mantenimiento de tractores, maquinaria agrícola, equipos, vehículos y herramientas;
+
+c) Los trabajos en alturas y espacios confinados, incluyendo silos y tanques de almacenamiento de productos agrícolas;
+
+d) El manejo manual de cargas y otros factores de riesgo ergonómico;
+
+e) La exposición a ruido, vibraciones y radiación solar;
+
+f) La exposición a polvos generados en actividades como el arado de la tierra, la producción de diversos granos, legumbres y otros productos agrícolas; el envasado y traslado de los cultivos;
+
+g) Los peligros biológicos, tales como flora y fauna nociva, así como riesgo de contraer enfermedades por picadura o mordedura de insectos o animales transmisores de éstas;
+
+h) Las condiciones ambientales extremas, así como exposición a descargas eléctricas atmosféricas;
+
+i) La generación de electricidad estática y el riesgo de incendio y/o explosión en silos y tanques de almacenamiento de productos agrícolas, y
+
+j) Los factores de riesgo psicosocial que pudieran afectar a las personas trabajadoras del campo;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2024)</small>
+
+XIX. Observar las disposiciones aplicables de las normas oficiales mexicanas en materia de seguridad y salud en el trabajo, especialmente, en el caso de las mujeres, mujeres embarazadas o en lactancia y la prohibición de exponer a las personas menores de edad a riesgos para la salud.
+
+La persona trabajadora podrá rehusarse a la prestación del trabajo, sin que ello le ocasione pérdida o disminución del salario, cuando exista peligro inminente de daño para su seguridad y su salud.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XIX, D.O.F. 24 DE ENERO DE 2024.]</small>
+
+El Instituto Mexicano del Seguro Social podrá celebrar convenio con las personas empleadoras para el cumplimiento de las obligaciones señaladas en las fracciones VI, VII, primer párrafo, y XIII del presente artículo, conforme a las disposiciones aplicables de la Ley del Seguro Social.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+###### Artículo 283 Bis.
+
+Las personas trabajadoras del campo tienen derecho a capacitarse en los programas que se implementen para el desarrollo de sus aptitudes y conocimientos y que tengan como propósito una progresiva mejora de las condiciones de trabajo en la actividad productiva en la que laboran.
+
+La persona empleadora deberá garantizar a las personas trabajadoras del campo el acceso equitativo a los esquemas de formación o certificación de competencias laborales que implemente, con independencia de su género, lengua indígena, categoría o cualquier otro parámetro. Las acciones derivadas de estos esquemas se llevarán a cabo dentro o fuera del horario de trabajo, según las características e implementación de aquéllos. En el caso de serlo dentro del horario de trabajo, el tiempo durante el cual las personas trabajadoras del campo asistan a actividades, será considerado como tiempo de trabajo para todos los efectos.
+
+La persona empleadora reconocerá la especialidad de las personas trabajadoras del campo.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+###### Artículo 283 Ter.
+
+La persona empleadora deberá promover un ambiente laboral libre de discriminación y de violencia, favoreciendo la igualdad sustantiva a través de la promoción y fortalecimiento del reconocimiento de la diversidad cultural indígena y afromexicana, goce o ejercicio de los derechos humanos y las libertades fundamentales en el ámbito laboral de las personas trabajadoras del campo.
+
+La persona empleadora deberá respetar los descansos pre y postnatales de las trabajadoras embarazadas. Se deberán establecer las garantías y condiciones adecuadas dentro del espacio de trabajo para el ejercicio de la lactancia infantil mediante la instalación de salas de lactancia en términos de la presente Ley.
+
+La trabajadora del campo temporal tendrá estabilidad en su empleo durante la gestación y hasta el término del puerperio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2024)</small>
 
 ###### Artículo 284.
 
-Queda prohibido a los patrones:
+Queda prohibido a las personas empleadoras:
 
-I. Permitir la entrada a vendedores de bebidas embriagantes;
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
 
-II. Impedir la entrada a los vendedores de mercancías o cobrarles alguna cuota; y
+I. Establecer o permitir expendios de bebidas embriagantes y de casas de juego de azar en el centro de trabajo o en la zona de habitaciones de las personas trabajadoras del campo;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
 
-III. Impedir a los trabajadores la crianza de animales de corral en el predio individual o colectivo destinado a tal fin, a menos que ésta perjudique los cultivos o cualquier otra actividad que se realice en las propias instalaciones del centro de trabajo.
+II. Impedir la entrada a los vendedores de mercancías o cobrarles alguna cuota;
+
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
+
+III. Impedir a las personas trabajadoras la crianza de animales de corral en el predio individual o colectivo destinado a tal fin, a menos que ésta perjudique los cultivos o cualquier otra actividad que se realice en las propias instalaciones del centro de trabajo;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2024)</small>
+
+IV. Utilizar los servicios de las personas menores de dieciocho años de edad en los términos previstos en esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2024)</small>
+
+V. Pagar salarios inferiores a las mujeres, con excepción de las reducciones que correspondan debido a la duración de la jornada;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2024)</small>
+
+VI. Obligar o permitir que las personas trabajadoras del campo lleven a sus hijos e hijas, menores de edad a trabajar con ellos y ellas, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2024)</small>
+
+VII. Pagar el salario con mercancías, vales, fichas, cualquier otro signo representativo distinto a la moneda de curso legal en el país o con bebidas embriagantes.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+###### Artículo 284 Bis.
+
+Las y los Inspectores del Trabajo tienen la atribución y deber de realizar visitas de inspección por lo menos una vez al año y en temporada o estación de producción para constatar el debido cumplimiento de las obligaciones establecidas en el presente Capítulo, y de manera especial, el cumplimiento de las siguientes:
+
+I. Verificar que el trabajo del campo se realice en adecuadas condiciones en materia de capacitación y adiestramiento y de seguridad y salud;
+
+II. Vigilar que los salarios no sean inferiores a los determinados conforme a esta Ley;
+
+III. Verificar que no se utilicen los servicios de niñas y niños menores de edad;
+
+IV. Verificar que se proporcione a las personas trabajadoras del campo habitaciones, transporte y educación para sus hijos e hijas;
+
+V. Verificar que los contratos de trabajo se hagan constar por escrito y que se establezcan los mecanismos para informar a las personas trabajadoras del campo acerca de las autoridades del trabajo y servicios sociales a las que se podrán acudir cuando la persona trabajadora del campo considere que sus derechos han sido menoscabados, a fin de ejercer la acción legal conducente, y
+
+VI. Verificar el cumplimiento de cualquier otra disposición protectora del trabajo del campo.
 
 ### CAPITULO IX. Agentes de Comercio y otros Semejantes
 
@@ -9188,9 +9362,11 @@ VIII. Los demás que les confieran las leyes.
 
 Los Inspectores del Trabajo deberán cumplir puntualmente las instrucciones que reciban de sus superiores jerárquicos en relación con el ejercicio de sus funciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2024)</small>
+
 ###### Artículo 542.
 
-Los Inspectores del Trabajo tienen las obligaciones siguientes:
+Las y los Inspectores del Trabajo tienen las obligaciones siguientes:
 
 I. Identificarse con credencial debidamente autorizada, ante los trabajadores y los patrones;
 
@@ -9204,9 +9380,9 @@ IV. Levantar acta de cada inspección que practiquen, con intervención de los t
 
 V. Las demás que les impongan las leyes.
 
-> <small>(ADICIONADO, D.O.F. 2 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
 
-La inspección se realizará con especial atención tratándose de personas trabajadoras del hogar migrantes, personas que pertenezcan a un grupo vulnerable, así como personas trabajadoras del hogar menores de dieciocho años.
+La inspección se realizará con especial atención tratándose de personas trabajadoras del hogar, del campo, migrantes, indígenas y afromexicanas, personas que pertenezcan a un grupo vulnerable, así como personas trabajadoras del hogar menores de dieciocho años.
 
 ###### Artículo 543.
 
@@ -9246,9 +9422,11 @@ V. No ser ministro de culto; y
 
 VI. No haber sido condenado por delito intencional sancionado con pena corporal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2024)</small>
+
 ###### Artículo 547.
 
-Son causas especiales de responsabilidad de los Inspectores del trabajo:
+Son causas especiales de responsabilidad de las y los Inspectores del Trabajo:
 
 I. No practicar las inspecciones a que se refiere el artículo 542, fracciones II y III;
 
@@ -9260,9 +9438,9 @@ IV. Recibir directa o indirectamente cualquier dádiva de los trabajadores o de 
 
 V. No cumplir las órdenes recibidas de su superior jerárquico.
 
-> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
 
-VI. No denunciar al Ministerio Público, al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que omita el pago o haya dejado de pagar el salario mínimo general a un trabajador a su servicio.
+VI. No denunciar ante el Ministerio Público, a la persona empleadora de una negociación industrial, de trabajo del campo, minera, comercial o de servicios que omita el pago o haya dejado de pagar el salario mínimo general a una persona trabajadora del campo a su servicio.
 
 ###### Artículo 548.
 
@@ -15404,11 +15582,21 @@ I. De 50 a 500 veces la Unidad de Medida y Actualización, si no cumple las disp
 
 II. De 50 a 2500 veces la Unidad de Medida y Actualización, al que no cumpla la obligación señalada en el artículo 204, fracción IX.
 
-> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
 
 ###### Artículo 997.
 
-Al patrón que viole las normas protectoras del trabajo del campo y del trabajo a domicilio, se le impondrá multa por el equivalente de 250 a 2500 veces la Unidad de Medida y Actualización.
+A la persona empleadora que viole las normas protectoras del trabajo a domicilio, se le impondrá multa por el equivalente de 250 a 2500 veces la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+###### Artículo 997-A.
+
+A la persona empleadora que viole las normas protectoras del trabajo del campo, se le impondrá multa por el equivalente a:
+
+I. De 250 a 2500 veces la Unidad de Medida y Actualización, cuando no conste por escrito el contrato de trabajo y/o no establezca los mecanismos a que se refiere el artículo 282; y no lleve o sea deficiente el registro especial de las personas trabajadoras temporales a que se refiere el artículo 280, y
+
+II. De 250 a 5000 veces la Unidad de Medida y Actualización, cuando no proporcione habitaciones o estas no cuenten con las condiciones mínimas requeridas; no proporcione alimentación, agua y sanitarios; no proporcione educación; no proporcione el traslado seguro y cómodo; no proporcione servicios de guardería a que se refieren las fracciones II, IV, X, XI y XIII del artículo 283; y no observe las disposiciones protectoras de las trabajadoras a que se refiere el artículo 283 Ter.
 
 > <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
@@ -15446,17 +15634,25 @@ Por violaciones a las normas de trabajo no sancionadas en este Título o en algu
 
 Los trabajadores, los patrones y los sindicatos, federaciones y confederaciones de unos y otros, podrán denunciar ante las autoridades del trabajo las violaciones a las normas del trabajo.
 
-El Tribunal y los Inspectores del Trabajo, tienen la obligación de denunciar al Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que haya dejado de pagar o pague a sus trabajadores cantidades inferiores a las señaladas como salario mínimo general.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+El Tribunal, las y los Inspectores del Trabajo, tienen la obligación de denunciar ante el Ministerio Público a la persona empleadora de una negociación industrial, de trabajo del campo, minera, comercial o de servicios que haya dejado de pagar o pague a sus personas trabajadoras del campo cantidades inferiores a las señaladas como salario mínimo general.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2024)</small>
 
 ###### Artículo 1004.
 
-Al patrón de cualquier negociación industrial, agrícola, minera, comercial o de servicios que haga entrega a uno o varios de sus trabajadores de cantidades inferiores al salario fijado como mínimo general o haya entregado comprobantes de pago que amparen sumas de dinero superiores de las que efectivamente hizo entrega, se le castigará con las penas siguientes:
+A la persona empleadora en cualquier negociación industrial, trabajo del campo, agrícola, minera, comercial o de servicios que haga entrega a una o varias de sus personas trabajadoras del campo de cantidades inferiores al salario fijado como mínimo general o haya entregado comprobantes de pago que amparen sumas de dinero superiores de las que efectivamente hizo entrega, se le castigará con las penas siguientes:
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
 I. Con prisión de seis meses a tres años y multa que equivalga hasta 800 veces la Unidad de Medida y Actualización, conforme a lo establecido por el artículo 992, cuando el monto de la omisión no exceda del importe de un mes de salario mínimo general del área geográfica de aplicación correspondiente;
 
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+
 II. Con prisión de seis meses a tres años y multa que equivalga hasta 1600 veces la Unidad de Medida y Actualización, conforme a lo establecido por el artículo 992, cuando el monto de la omisión sea mayor al importe de treinta veces la Unidad de Medida y Actualización, pero no exceda de tres meses de salario mínimo general del área geográfica de aplicación correspondiente, y
+
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
 III. Con prisión de seis meses a cuatro años y multa que equivalga hasta 3200 veces la Unidad de Medida y Actualización, conforme a lo establecido por el artículo 992, si la omisión excede a los tres meses de salario mínimo general del área geográfica de aplicación correspondiente.
 
@@ -16163,3 +16359,9 @@ Segundo. La Secretaría del Trabajo y Previsión Social, en un plazo de cuarenta
 Tercero. Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado para los ejecutores de gasto correspondientes, para el presente ejercicio fiscal y los subsecuentes.
 
 Cuarto. Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
+
+D.O.F. 24 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO Y DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE DERECHOS LABORALES DE LAS PERSONAS TRABAJADORAS DEL CAMPO".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
