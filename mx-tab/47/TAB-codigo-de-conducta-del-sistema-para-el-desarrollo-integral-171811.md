@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-conducta-del-sistema-para-el-desarrollo-integral-1718
 country: "mx"
 rank: "codigo"
 publication_date: "2020-08-08"
-last_updated: "2020-08-08"
+last_updated: "2024-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=171811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "TAB"
 ---
 # CODIGO DE CONDUCTA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TABASCO (DIF TABASCO)
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 24 DE ENERO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TABASCO (DIF TABASCO)
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2024 (ABROGADO).
 
 Código publicado en el Suplemento del Número 8131 del Periódico Oficial del Estado de Tabasco, el sábado 8 de agosto de 2020.
 
@@ -425,3 +427,13 @@ Categoría: _______________________________________________________
 Área de Adscripción: _____________________________________________
 
 Firma: ___________________________________________________________
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se abroga el Código de Conducta publicado en el Suplemento al Periódico Oficial del Estado, Edición 8131 de fecha 08 de agosto de 2020.
