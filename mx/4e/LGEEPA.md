@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2023-05-08"
+last_updated: "2024-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2024.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -2116,9 +2116,9 @@ Corresponde al Gobierno Federal expedir las normas oficiales mexicanas que deter
 
 Corresponde a las entidades federativas fomentar la cultura del trato digno y respetuoso, mediante el establecimiento de campañas de esterilización y de difusión de información respecto a la importancia de la adopción, vacunación, desparasitación y las consecuencias ambientales, sociales y de salud pública del abandono de animales de compañía.
 
-> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
 
-Las entidades federativas en coordinación con los Municipios o, en su caso, las Alcaldías de la Ciudad de México, garantizarán en la medida de lo posible la esterilización gratuita de animales, y su trato digno y respetuoso en los centros de control animal, estableciendo las sanciones correspondientes para todo aquel que maltrate a los animales.
+Las entidades federativas en coordinación con los Municipios o, en su caso, las Alcaldías de la Ciudad de México, garantizarán en la medida de lo posible la esterilización gratuita de animales, y su trato digno y respetuoso en los centros de control animal, estableciendo las sanciones correspondientes para todo aquel que maltrate a los animales. De igual forma, promoverán el establecimiento de Clínicas Veterinarias Públicas con el objeto de suministrar a los animales atención médica preventiva y, en caso de enfermedad, brindar tratamiento médico expedito avalado por un médico veterinario.
 
 > <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 2021)</small>
 
@@ -4213,3 +4213,13 @@ Cuando las autoridades competentes determinen que los depósitos o sitios de dis
 Décimo Segundo. En los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, el Servicio Geológico Mexicano deberá retirar su participación de fondos de inversión de riesgo compartido en los que tenga activos, en tanto no le genere pérdidas. Para tales efectos, podrá mantener su posición hasta que éstos se encuentren en los valores en los que se adquirieron.
 
 Décimo Tercero. Las personas titulares de concesiones de aguas nacionales que realicen actividades de exploración, explotación, beneficio y aprovechamiento minero, dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto, deberán solicitar a “la Autoridad del Agua” el cambio de uso industrial al uso industrial en la minería, a efecto de regularizar su situación jurídica, de conformidad con las disposiciones normativas aplicables.
+
+D.O.F. 24 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL PÁRRAFO SEXTO DEL ARTÍCULO 87 BIS 2 DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE".]
+
+Primero.- El presente Decreto entrará en vigor el día natural siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- En un plazo máximo de 180 días naturales posteriores a la entrada en vigor del presente Decreto, y para su cabal cumplimiento, los Congresos de las entidades federativas deberán hacer los ajustes que estimen necesarios en su legislación local.
+
+Tercero.- El establecimiento de Clínicas Veterinarias Públicas estará sujeto a la disponibilidad presupuestaria de las entidades federativas y los municipios en cada ejercicio fiscal.
