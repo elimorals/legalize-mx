@@ -4,7 +4,7 @@ identifier: "FED-ley-de-fondos-de-inversion-antes-ley-de-sociedades-de-21343"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-04"
-last_updated: "2023-12-28"
+last_updated: "2024-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21343&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-05-31"
 
 LEY DE FONDOS DE INVERSIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de junio de 2001.
 
@@ -2191,11 +2191,13 @@ IV. Reconocer normas y procedimientos de auditoría que deberán observar las pe
 
 El ejercicio de las facultades a que se refiere este artículo estará circunscrito a los dictámenes, opiniones y prácticas de auditoría que en términos de esta Ley practiquen las personas morales que presten servicios de auditoría externa.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2024)</small>
 
 ###### ARTICULO 81.
 
-La Comisión estará facultada para investigar, en la esfera administrativa, actos o hechos que presuntamente constituyan o puedan llegar a constituir una infracción a lo previsto en esta Ley o a las disposiciones de carácter general que de ella deriven.
+La Comisión y el Banco de México, en el ámbito de sus respectivas competencias, contarán con facultades para investigar, en la esfera administrativa, actos o hechos que presuntamente constituyan o puedan llegar a constituir una infracción a lo previsto en esta Ley o a las disposiciones de carácter general que de ella deriven.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 Para tal efecto, así como para verificar el cumplimiento de lo previsto en esta Ley y demás disposiciones de carácter general que emanen de ella, la citada Comisión estará facultada para:
 
@@ -2207,7 +2209,13 @@ III. Requerir la comparecencia de personas que puedan contribuir o aportar eleme
 
 IV. Contratar los servicios de auditores y de otros profesionistas que le auxilien en dicha función.
 
+> <small>(REFORMADO Y REUBICADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 En el desahogo de las comparecencias a que se refiere la fracción III de este artículo, la Comisión formulará los cuestionamientos que estime pertinentes, en cuyo caso los comparecientes deberán responder, bajo protesta de decir verdad los cuestionamientos que se les formulen.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Adicionalmente, la supervisión que lleve a cabo el Banco de México atenderá a lo establecido en la Ley del Banco de México, así como a las reglas de carácter general emitidas al efecto por el propio Banco.
 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -2365,9 +2373,17 @@ VIII. Si entra en proceso de disolución y liquidación, y
 
 IX. Si es declarado en quiebra por la autoridad judicial.
 
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
 
-ARTICULO 82 BIS. La Comisión publicará en el Diario Oficial de la Federación y en dos periódicos de amplia circulación en el país, la declaración de revocación y se inscribirá en el Registro Público de Comercio que corresponda al domicilio social de la sociedad. La revocación pondrá en estado de disolución y liquidación a la sociedad operadora de fondos de inversión, sociedad distribuidora de acciones de fondos de inversión o valuadora, de que se trate, sin necesidad del acuerdo de la asamblea de accionistas o, en el caso de fondos de inversión sin necesidad del acuerdo del consejo de administración de la sociedad operadora de fondos de inversión que les preste sus servicios, en este último caso, con relación a los supuestos a que se refiere el artículo 82 de esta Ley. La publicación a que alude este artículo respecto de fondos de inversión únicamente deberá efectuarse por la Comisión en el Registro Nacional.
+ARTICULO 82 BIS. La Comisión otorgará a las sociedades interesadas el derecho de audiencia a que se refieren los artículos 82 y 83 a fin de que, dentro del plazo de diez días hábiles, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, manifiesten por escrito lo que a su interés convenga y ofrezcan pruebas. La Comisión, a petición de parte, podrá ampliar por una sola ocasión este plazo, hasta por el mismo lapso, atendiendo a las circunstancias particulares del caso. Las notificaciones surtirán efectos al día hábil siguiente a aquél en que se practiquen.
+
+Concluido el plazo a que se refiere el párrafo anterior, y en su caso el de su ampliación, la Comisión contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Transcurrido el plazo para el desahogo de las pruebas, la Comisión notificará la apertura del periodo de cinco días hábiles para formular alegatos la Comisión podrá realizar dicha notificación por estrados o por cualquier otro medio, en los casos en que así lo determine. Al día hábil siguiente al vencimiento de dicho plazo se tendrá por cerrada la instrucción y la Comisión contará con un plazo que no excederá de ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento sancionador, a que se refiere el presente artículo. La Comisión respectiva podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
+
+La Comisión publicará en el Diario Oficial de la Federación y en dos periódicos de amplia circulación en el país, las declaraciones de revocación a que refiere el artículo 83 de esta Ley, mismas que se deberán inscribir en el Registro Público de Comercio que corresponda al domicilio social de la sociedad de que se trate. La declaración de revocación a que se refiere el artículo 82, únicamente deberá efectuarse en el Registro Nacional por la Comisión.
+
+Las declaraciones de revocación indicadas en el párrafo anterior, deberán inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la Sociedad de que se trate, para lo cual el Registro únicamente requerirá previa notificación de la Comisión Nacional Bancaria y de Valores.
+
+La revocación incapacitará al fondo de inversión, a la sociedad operadora de fondos de inversión, a la sociedad distribuidora de acciones de fondos de inversión o a la sociedad valuadora de acciones de fondos de inversión de que se trate, para realizar sus actividades y operaciones a partir de la fecha en que se notifique la misma y les pondrá en estado de disolución y liquidación sin necesidad del acuerdo de la asamblea de accionistas o, en el caso de fondos de inversión sin necesidad del acuerdo del consejo de administración de la sociedad operadora de fondos de inversión que les preste sus servicios, en este último caso, con relación a los supuestos a que se refiere el artículo 82 de esta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO Y REUBICADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -2537,7 +2553,9 @@ En el caso de personas morales, estas multas podrán ser impuestas tanto a dicha
 
 La Comisión, en la imposición de sanciones de carácter administrativo a que se refiere esta Ley, se sujetará a lo siguiente:
 
-I. Se otorgará audiencia al presunto infractor, quien, en un plazo de diez días hábiles contado a partir del día hábil siguiente a aquel en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga, ofrecer pruebas y formular alegatos. La Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. La notificación surtirá efectos al día hábil siguiente a aquel en que se practique.
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
+
+I. Se otorgará audiencia al presunto infractor, quien, en un plazo de diez días hábiles contados a partir del día hábil siguiente a aquel en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga y ofrecer pruebas. La Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. Las notificaciones surtirán efectos al día hábil siguiente a aquel en que se practiquen.
 
 II. En caso de que el presunto infractor no hiciere uso del derecho de audiencia dentro del plazo concedido o bien, habiéndolo ejercido no lograre desvanecer las imputaciones vertidas en su contra, se tendrán por acreditadas las infracciones imputadas y se procederá a la imposición de la sanción administrativa correspondiente.
 
@@ -2575,6 +2593,10 @@ Las multas que la citada Comisión imponga deberán ser pagadas dentro de los qu
 
 En caso de que el infractor pague las multas impuestas por la mencionada Comisión dentro de los quince días referidos en el párrafo anterior, se aplicará una reducción en un veinte por ciento de su monto, siempre y cuando no se hubiere interpuesto medio de defensa alguno en contra de dicha multa.
 
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Los incumplimientos a las normas de la presente Ley y a las disposiciones que emanen de ella, cuya observancia le corresponda supervisar al Banco de México, serán sancionados por este, de conformidad con lo establecido en el artículo 36 Bis de la Ley del Banco de México, para lo cual se deberá observar lo dispuesto en el artículo 27 de ese mismo ordenamiento.
+
 > <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DEL OCTAVO PÁRRAFO DE FECHA 10 DE ENERO DE 2014 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.</small>
 
 Las sanciones administrativas a que se refiere esta Ley, no afectarán el procedimiento penal que, en su caso, corresponda.
@@ -2585,11 +2607,29 @@ ARTICULO 84 BIS. En los procedimientos administrativos de imposición de sancion
 
 Una vez desahogado el derecho de audiencia a que hace referencia el artículo 84, fracción I de esta Ley, o bien, presentado el escrito mediante el cual se interponga recurso de revisión previsto en el artículo 87 de este ordenamiento legal, únicamente se admitirán pruebas supervenientes, siempre y cuando no se haya emitido la resolución correspondiente.
 
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Concluido el plazo a que se refiere la fracción I del artículo 84, y en su caso el de su ampliación, la Comisión contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Transcurrido el plazo para el desahogo de las pruebas, la presunta infractora contará con cinco días hábiles para formular alegatos; al día hábil siguiente al vencimiento de dicho plazo se tendrá por cerrada la instrucción y la Comisión contará con un plazo que no excederá de ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento sancionador, a que se refiere el presente artículo.
+
 La Comisión podrá allegarse de los medios de prueba que considere necesarios, así como acordar sobre la admisibilidad de las pruebas ofrecidas. Solo podrán rechazarse las pruebas aportadas por los interesados cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el fondo del asunto, sean improcedentes, innecesarias o contrarias a la moral o al derecho. La valoración de las pruebas se hará conforme a lo establecido en el Código Federal de Procedimientos Civiles.
 
 La facultad de la Comisión para imponer sanciones de carácter administrativo previstas en esta Ley, así como de las disposiciones que emanen de ella, caducará en un plazo de cinco años, contado a partir del día hábil siguiente a aquel en que se realizó la conducta o se actualizó el supuesto de infracción.
 
 El plazo de caducidad antes señalado se interrumpirá al iniciarse los procedimientos relativos. Se entenderá que el procedimiento de que se trata ha iniciado, a partir de la notificación al presunto infractor del oficio mediante el cual se le concede el derecho de audiencia al probable infractor a que hace referencia la fracción I del artículo 84 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+El plazo de cinco años previsto por este artículo se suspenderá:
+
+I. Hasta por dos años, cuando la Entidad Financiera: no se ubique en el domicilio registrado ante la Autoridad respectiva sin que haya presentado el aviso de cambio correspondiente, o hubiere señalado un domicilio incorrecto.
+
+El citado plazo se reanudará a partir de la fecha en que la Autoridad tenga conocimiento del domicilio actual.
+
+II. Cuando la Entidad Financiera haya controvertido cualquiera de los actos relacionados con el proceso de imposición de la sanción. Dicha suspensión se computará desde la fecha de interposición del medio de defensa y hasta aquella en que se dicte la resolución definitiva correspondiente.
 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -2796,6 +2836,10 @@ VI. Las pruebas que se ofrezcan, las cuales deberán tener relación inmediata y
 Cuando el recurrente no cumpla con alguno de los requisitos a que se refieren las fracciones I a VI de este artículo, la Comisión lo prevendrá, por escrito y por única ocasión, para que subsane la omisión prevenida dentro de los tres días hábiles siguientes al en que surta efectos la notificación de dicha prevención y, en caso que la omisión no sea subsanada en el plazo indicado en este párrafo, dicha Comisión lo tendrá por no interpuesto. Si se omitieran las pruebas se tendrán por no ofrecidas.
 
 La interposición del recurso de revisión suspenderá los efectos del acto impugnado cuando se trate de multas.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Adicionalmente, contra las sanciones impuestas por el Banco de México por infracciones a las disposiciones incluidas en la presente Ley procederá el recurso de reconsideración, en los mismos términos y condiciones previstos en los artículos 64, 65 y 66 de la Ley del Banco de México.
 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -3310,3 +3354,15 @@ Segundo.- El Banco de México deberá emitir las Disposiciones de carácter gene
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL MERCADO DE VALORES Y DE LA LEY DE FONDOS DE INVERSIÓN”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS LEYES FINANCIERAS EN MATERIA DE PROCEDIMIENTO ADMINISTRATIVO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los procedimientos administrativos sancionadores que, a la fecha de entrada del presente Decreto, se hubieren iniciado deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación al presunto infractor.
+
+Tercero.- Las resoluciones que pongan fin a los procedimientos administrativos de revocación que se hubieren iniciado mediante la notificación del acto a través del cual se concede el derecho de audiencia, antes de la entrada en vigor del presente Decreto, deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación a la institución o entidad correspondiente.
+
+Cuarto.- La sustanciación y resolución de los procedimientos sancionadores que, a la fecha de entrada del presente Decreto, hubiere iniciado el Banco de México se regirán por lo dispuesto en las Reglas de Supervisión, Programas de Autocorrección y del Procedimiento Sancionador, vigentes en la misma fecha de entrada en vigor del presente Decreto.
