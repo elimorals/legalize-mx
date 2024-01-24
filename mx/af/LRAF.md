@@ -4,7 +4,7 @@ identifier: "LRAF"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-10"
-last_updated: "2018-03-09"
+last_updated: "2024-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97120&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,473 +20,559 @@ abbreviation: "LRAF"
 ---
 # LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS
 
-LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS
+LEY DEL SISTEMA ESTATAL DE PROTECCION CIVIL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2018.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA ESTATAL DE PROTECCION CIVIL, PUBLICADA EN EL PERIODICO OFICIAL EL 29 DE SEPTIEMBRE DE 2003.</small>
 
-Ley publicada en la Quinta Sección del Diario Oficial de la Federación, el viernes 10 de enero de 2014.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 18 de diciembre de 1992.
 
-ENRIQUE PEÑA NIETO, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
+Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- H. Congreso del Estado.- Puebla.
 
-Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
+MARIANO PIÑA OLAYA, Gobernador Constitucional del Estado Libre y Soberano de Puebla, a sus habitantes sabed:
 
-DECRETO
+Que por la Secretaría del H. Congreso, se me ha dirigido el siguiente:
 
-"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
+EL HONORABLE QUINCUAGESIMO PRIMER CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA,
 
-SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA FINANCIERA Y SE EXPIDE LA LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS.
+CONSIDERANDO:
 
-…
+Que en la Sesión Pública Ordinaria de esta fecha, este Cuerpo Colegiado aprobó el Dictamen emitido por la Comisión de Gobernación, Legislación, Puntos Constitucionales, Justicia y Elecciones, en relación con la LEY DEL SISTEMA ESTATAL DE PROTECCION CIVIL, enviada por el Ejecutivo del Estado.
 
-ARTÍCULO QUINCUAGÉSIMO PRIMERO. Se expide la “Ley para Regular las Agrupaciones Financieras”.
+Que por decreto presidencial de fecha 29 de abril de 1986, publicado en el Diario Oficial de la Federación el 6 de mayo del mismo año, se expidieron las bases para el establecimiento del Sistema Nacional de Protección Civil, el que tiene como objetivos primordiales, diagnosticar los riesgos previsibles; diseñar planes y programas específicos de seguridad civil; recomendar los instrumentos de coordinación y concertación, coordinarse con las acciones de estados y municipios, así como organizar y establecer un Sistema Nacional de Protección Civil que garantice la mejor planeación, seguridad, auxilio y rehabilitación de la población y de su entorno ante situaciones de desastre, incorporando la participación de la sociedad en su conjunto.
+
+QUE TOMANDO EN CUENTA LA IMPORTANCIA DE LOS OBJETIVOS QUE SE PERSIGUEN CON EL ORGANISMO QUE SE MENCIONA EN EL CONSIDERANDO ANTERIOR, ESTE HONORABLE CONGRESO DEL ESTADO, CON FECHA 30 DE OCTUBRE DE 1986, TUVO A BIEN APROBAR EL DECRETO POR EL CUAL SE ESTABLECE EL SISTEMA ESTATAL DE PROTECCIÓN CIVIL, DEL ESTADO DE PUEBLA, MISMO QUE FUE PUBLICADO EN EL PERIÓDICO OFICIAL EL 21 DE NOVIEMBRE DEL MISMO AÑO.
+
+QUE EN EL MOMENTO PRESENTE, RESULTA PRIORITARIO ACTUALIZAR LAS NORMAS QUE REGULEN LAS ACCIONES TENDIENTES A ESTABLECER LOS DISTINTOS PROGRAMAS DE PROTECCIÓN CIVIL, DONDE SE DETERMINE LA PARTICIPACIÓN COORDINADA ENTRE AUTORIDADES Y LA SOCIEDAD CIVIL, A FIN DE PREVENIR DESASTRES Y AUXILIAR A LA POBLACIÓN EN CASO NECESARIO.
+
+EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 57 FRACCIÓN I Y SATISFECHOS LOS REQUISITOS DE LOS DIVERSOS 64 Y 67 DE LA CONSTITUCIÓN POLÍTICA LOCAL; 184 Y 185 DE LA LEY ORGÁNICA Y REGLAMENTARIA DEL PODER LEGISLATIVO, SE EXPIDE LA SIGUIENTE:
+
+LEY DEL SISTEMA ESTATAL DE PROTECCION CIVIL.
 
 ## TÍTULO PRIMERO. De las disposiciones preliminares
 
-###### Artículo 1o.
+###### ARTICULO 1o.
 
-La presente Ley es de orden público y de observancia general en los Estados Unidos Mexicanos y tiene por objeto regular las bases de organización de las Sociedades Controladoras y el funcionamiento de los Grupos Financieros, así como establecer los términos bajo los cuales habrán de operar, buscando la protección de los intereses de quienes celebren operaciones con las entidades financieras integrantes de dichos Grupos Financieros.
+Las disposiciones de esta Ley son de orden público y establecen la competencia de las Autoridades Estatales y Municipales, conforme al Sistema Nacional de Protección Civil.
 
-###### Artículo 2o.
+###### ARTICULO 2o.
 
-Las autoridades financieras, cada una en la esfera de su respectiva competencia, ejercerán sus atribuciones procurando: el desarrollo equilibrado del sistema financiero del país, con una apropiada cobertura regional; una adecuada competencia entre los participantes en dicho sistema; la prestación de los servicios integrados conforme a sanas prácticas y usos financieros; el fomento del ahorro interno y su adecuada canalización hacia actividades productivas; así como, en general, que el sistema citado contribuya al sano crecimiento de la economía nacional.
+El Sistema Estatal de Protección Civil se constituye por un conjunto orgánico y articulado de estructuras, métodos y procedimientos que establece la Administración Pública Estatal entre sí, con el Gobierno Federal, las Entidades Federativas, los Ayuntamientos y los Sectores Social y Privado, a fin de efectuar acciones coordinadas destinadas a la protección de la población contra riesgos colectivos, catástrofes y calamidades.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE MARZO DE 2018)</small>
+Cuando en la presente Ley se mencione al Sistema Estatal y al Consejo, se entenderá que se refiere al Sistema Estatal de Protección Civil y al Consejo Estatal.
 
-###### Artículo 3o.
+###### ARTICULO 3o.
 
-Las entidades financieras no deberán utilizar denominaciones iguales o semejantes a las de otras entidades financieras, actuar de manera conjunta, ofrecer servicios complementarios ni, en general, ostentarse en forma alguna como integrantes de Grupos Financieros, salvo cuando se trate de integrantes de Grupos Financieros que se encuentren organizados y funcionen conforme a las disposiciones de la presente Ley. Las instituciones reguladas en la Ley para Regular las Instituciones de Tecnología Financiera no podrán utilizar denominaciones iguales o semejantes a las de otras entidades financieras, aún y cuando sean integrantes de Grupos Financieros.
+El Sistema Estatal se integra por:
 
-Sin perjuicio de lo dispuesto en el primer párrafo, las entidades financieras y sus subsidiarias podrán utilizar denominaciones iguales o semejantes, actuar de manera conjunta y ofrecer servicios complementarios, sólo cuando así lo prevean las leyes especiales que las rijan y con sujeción a las disposiciones contenidas en dichos ordenamientos.
+I.- El Consejo Estatal, como órgano de consulta, que coordina la planeación, organización y control del Programa Estatal de Protección Civil;
 
-###### Artículo 4o.
+II.- La Unidad Operativa que integra y ejecuta las tareas del Sistema Estatal;
 
-En lo no previsto por la presente Ley, se aplicarán supletoriamente, en el orden siguiente:
+III.- Los Sistemas Municipales, cuya estructura será determinada por cada ayuntamiento; y
 
-I. La legislación mercantil;
+IV.- Los Grupos Voluntarios, con funciones participativas integrados por las organizaciones del Sector Social y Privado debidamente acreditados en el Sistema Estatal.
 
-II. Los usos y prácticas mercantiles;
+###### ARTICULO 4o.
 
-III. La legislación civil federal;
+Para el cumplimiento de sus fines en materia de protección civil, el Consejo tendrá los siguientes objetivos y atribuciones:
 
-IV. La Ley Federal de Procedimiento Administrativo respecto de la tramitación de los recursos a que se refiere esta Ley, y
+I.- Aprobar y evaluar el Programa Estatal de Protección Civil y coadyuvar en su aplicación procurando su más amplia difusión en la Entidad;
 
-V. El Código Fiscal de la Federación respecto de la actualización de multas.
+II.- Fomentar la participación de los sectores de la sociedad en la elaboración y ejecución de los planes y programas destinados a satisfacer las necesidades presentes y futuras de Protección Civil de la población del Estado;
 
-Las entidades financieras integrantes de los Grupos Financieros, se regirán por lo dispuesto en las leyes financieras que les resulten aplicables.
+III.- Fungir como instancia de coordinación y concertación entre los Sectores Público, Social y Privado en materia de Protección Civil;
 
-###### Artículo 5o.
+IV.- Organizar y apoyar a los participantes e interesados en la materia, para que colaboren de manera activa y responsable en la realización de sus objetivos, a través de grupos voluntarios;
 
-Para efectos de esta Ley se entenderá por:
+V.- Fomentar la participación ciudadana en los Municipios y en los diversos grupos organizados de las localidades, en la definición y ejecución de las acciones que se convenga realizar en la materia;
 
-I. Comisión Supervisora, a la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas o la Comisión Nacional del Sistema de Ahorro para el Retiro que sea la responsable de supervisar el funcionamiento general del Grupo Financiero de que se trate, en términos del artículo 102 de esta Ley.
+VI.- Identificar y analizar los problemas reales y potenciales de la protección civil, elaborando los estudios correspondientes para proponer estrategias y procedimientos que propicien su solución;
 
-II. Consorcio, al conjunto de personas morales vinculadas entre sí por una o más personas físicas que integrando un Grupo de Personas, tengan el Control de las primeras.
+VII.- Promover investigaciones que permitan conocer con mayor profundidad los agentes perturbadores causantes de los desastres;
 
-III. Control, la capacidad de una persona o Grupo de Personas, de llevar a cabo cualquiera de los actos siguientes:
+VIII.- Coordinar acciones entre el Sistema Estatal con los Sistemas Estatales de las Entidades vecinas y con el Sistema Nacional para lograr un eficaz funcionamiento;
 
-a) Imponer, directa o indirectamente, decisiones en las asambleas generales de accionistas, de socios u órganos equivalentes;
+IX.- Concertar criterios y acciones entre las Dependencias y Entidades de la Administración Pública Estatal y Municipales en materia de Protección Civil;
 
-b) Nombrar o destituir a la mayoría de los consejeros, administradores o sus equivalentes, de una persona moral;
+X.- Vigilar la estricta aplicación de los recursos que se asignen al Sistema Estatal;
 
-c) Mantener la titularidad de derechos que permitan, directa o indirectamente, ejercer el voto respecto de más del cincuenta por ciento de las acciones representativas del capital social de una persona moral;
+XI.- Organizar eventos relativos a la problemática de su competencia y participar en los que promuevan Instituciones afines al Consejo;
 
-d) Dirigir, directa o indirectamente, la administración, la estrategia o las principales políticas de una persona moral, ya sea a través de la propiedad de valores, por contrato o de cualquier otra forma, o
+XII.- Coadyuvar en la integración de los Sistemas Municipales de Protección Civil, otorgándoles toda la asesoría necesaria; y
 
-e) Controlar por cualquier otro medio a la persona moral de que se trate.
+XIII.- Las demás que le atribuyan las leyes, Decretos, Reglamentos y Acuerdos en la materia.
 
-IV. Directivos Relevantes, al director general de una Sociedad Controladora, de cada una de las entidades financieras que integren un Grupo Financiero, o de las Subcontroladoras así como personas físicas que ocupando un empleo, cargo o comisión en la Sociedad Controladora, en las entidades financieras o personas morales en las que ejerza el Control dicha Sociedad Controladora, adopten decisiones que trasciendan de forma significativa en la situación administrativa, financiera, operacional o jurídica de la propia Sociedad Controladora o del Grupo Financiero al que esta pertenezca, sin que queden comprendidos dentro de esta definición los consejeros de la Sociedad Controladora.
+###### ARTICULO 5o.
 
-V. Grupo de Personas, a las personas que tengan acuerdos, de cualquier naturaleza, para tomar decisiones en un mismo sentido. Se presume, salvo prueba en contrario, que constituyen un Grupo de Personas:
+El Consejo Estatal estará integrado por:
 
-a) Las personas que tengan parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, los cónyuges, la concubina y el concubinario.
+I.- Un Presidente, que será el Gobernador del Estado;
 
-b) Las sociedades que formen parte de un mismo Consorcio o Grupo Empresarial y la persona o conjunto de personas que tengan el Control de dichas sociedades.
+II.- Un Coordinador General que será el Secretario de Gobernación;
 
-VI. Grupo Empresarial, al conjunto de personas morales organizadas bajo esquemas de participación directa o indirecta del capital social, en las que una misma sociedad mantiene el Control de dichas personas morales. Asimismo, se considerarán como Grupo Empresarial a los Grupos Financieros constituidos conforme a esta Ley.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2000)</small>
 
-VII. Grupo Financiero, aquella agrupación integrada por la Sociedad Controladora y por entidades financieras, autorizada por la Secretaría para funcionar como tal, en términos del artículo 11 de esta Ley.
+III.- Un Secretario Técnico y Director de la Unidad Operativa del Sistema Estatal, que será el Subsecretario de Seguridad Pública y Protección Civil; y
 
-VIII. Inmobiliarias, a las personas morales propietarias de bienes destinados a oficinas de la Sociedad Controladora o de los demás integrantes del Grupo Financiero.
+IV.- Por los Vocales siguientes:
 
-IX. Inversionistas Institucionales, a las instituciones de seguros y de fianzas, únicamente cuando inviertan sus reservas técnicas; a los fondos de inversión; a las sociedades de inversión especializadas de fondos para el retiro; a los fondos de pensiones o jubilaciones de personal, complementarios a los que establece la Ley del Seguro Social y de primas de antigüedad, que cumplan con los requisitos señalados en la Ley de Impuesto sobre la Renta, así como a los demás que la Secretaría autorice como tales expresamente, oyendo la opinión de la Comisión Nacional Bancaria y de Valores.
+POR EL GOBIERNO DEL ESTADO.
 
-X. Personas Relacionadas, a las que respecto de una Sociedad Controladora se ubiquen en alguno de los supuestos siguientes:
+Un representante del la Secretaría de Finanzas.
 
-a) Las personas que ejerzan el Control en una entidad financiera o persona moral que forme parte del Grupo Empresarial o Consorcio al que la Sociedad Controladora pertenezca, así como los consejeros o administradores de las integrantes del Grupo Financiero y los Directivos Relevantes.
+Un representante de la Secretaría de la Contraloría General del Estado.
 
-b) Las personas que tengan Poder de Mando en una entidad financiera o persona moral que forme parte del Grupo Empresarial o Consorcio al que pertenezca la Sociedad Controladora.
+Un representante de la Secretaría de Economía.
 
-c) El cónyuge, la concubina o el concubinario y las personas que tengan parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, con personas físicas que se ubiquen en alguno de los supuestos señalados en los incisos a) y b) anteriores, así como los socios y copropietarios de las personas físicas mencionadas en dichos incisos con los que mantengan relaciones de negocios.
+Un representante de la Secretaría de Fomento Agropecuario.
 
-d) Las entidades financieras y personas morales que sean parte del Grupo Empresarial o Consorcio al que pertenezca la Sociedad Controladora.
+Un representante de la Secretaría de Desarrollo Urbano y Ecología.
 
-e) Las personas morales sobre las cuales alguna de las personas a que se refieren los incisos a) a c) anteriores, ejerzan el Control.
+Un representante de Salud Pública.
 
-XI. Poder de Mando, a la capacidad de hecho de influir de manera decisiva en los acuerdos adoptados en las asambleas de accionistas o sesiones del consejo de administración o en la gestión, conducción y ejecución de los negocios de una Sociedad Controladora, de las entidades financieras o personas morales en las que ejerza el Control. Se presume que tienen Poder de Mando en una persona moral, salvo prueba en contrario, las personas que se ubiquen en cualquiera de los supuestos siguientes:
+Un representante de la Secretaría de Educación.
 
-a) Los accionistas que tengan el Control.
+Un representante de la Procuraduría General de Justicia.
 
-b) Los individuos que tengan vínculos con una Sociedad Controladora o con las entidades financieras o personas morales que formen parte del Grupo Empresarial o Consorcio al que aquélla pertenezca, a través de cargos vitalicios, honoríficos o con cualquier otro título análogo o semejante a los anteriores.
+Un representante de la Dirección General de Gobierno.
 
-c) Las personas que hayan transmitido el Control de la persona moral bajo cualquier título y de manera gratuita o a un valor inferior al de mercado o contable, en favor de individuos con los que tengan parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, el cónyuge, la concubina o el concubinario.
+Un representante de la Dirección General de Seguridad Pública.
 
-d) Quienes instruyan a consejeros de la persona moral o Directivos Relevantes, la toma de decisiones o la ejecución de operaciones en una sociedad o en las personas morales en las que ejerza el Control.
+Un representante del Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio de los Poderes del Estado de Puebla.
 
-XII. Prestadoras de Servicio, a las empresas que presten servicios complementarios o auxiliares a la propia Sociedad Controladora o a los demás integrantes del Grupo Financiero.
+POR LOS AYUNTAMIENTOS.
 
-XIII. Secretaría, a la Secretaría de Hacienda y Crédito Público.
+Un representante del Municipio de Puebla.
 
-XIV. Sociedad Controladora, a la sociedad anónima autorizada por la Secretaría para organizarse como tal, en términos de la presente Ley.
+El Consejo podrá invitar a los demás Ayuntamientos de la Entidad, para que participen en el logro de los objetivos de esta Ley.
 
-XV. Subcontroladora, a la sociedad anónima que tenga por objeto exclusivo adquirir y administrar acciones de entidades financieras y Prestadoras de Servicio e Inmobiliarias, en términos de lo dispuesto en esta Ley y en la cual la Sociedad Controladora tenga una participación accionaria de por lo menos el cincuenta y uno por ciento siempre y cuando tenga el Control de la misma.
+POR EL GOBIERNO FEDERAL.
 
-Los términos antes señalados podrán utilizarse en singular o en plural, sin que por ello deba entenderse que cambia su significado.
+Un representante de la XXV Zona Militar.
 
-###### Artículo 6o.
+Un representante de la Secretaría de Hacienda y Crédito Público.
 
-El Ejecutivo Federal, a través de la Secretaría, podrá interpretar para efectos administrativos los preceptos de esta Ley, así como las disposiciones de carácter general que emita la propia Secretaría en el ejercicio de las atribuciones que le confiere la presente Ley.
+Un representante de la Secretaría de Agricultura y Recursos Hidráulicos.
 
-###### Artículo 7o.
+Un representante de la Secretaría de Comunicaciones y Transporte.
 
-Salvo que en las disposiciones específicas se establezca otro plazo, este no podrá exceder de noventa días para que las autoridades administrativas resuelvan lo que corresponda. Transcurrido el plazo aplicable se entenderán las resoluciones en sentido negativo al promovente, a menos que en las disposiciones aplicables se prevea lo contrario. A petición del interesado, se deberá expedir constancia de tal circunstancia, dentro de los dos días hábiles siguientes a la presentación de la solicitud respectiva ante la autoridad competente que deba resolver, conforme al Reglamento Interior respectivo. De no expedirse la constancia mencionada dentro del plazo citado, se fincará en su caso, la responsabilidad que resulte aplicable.
+Un representante de la Secretaría de Desarrollo Social.
 
-Los requisitos de presentación y plazos, así como otra información relevante aplicable a las promociones que realicen las Sociedades Controladoras deberán precisarse en disposiciones de carácter general que expida la Secretaría.
+Un representante de la Secretaría de Trabajo y Previsión Social.
 
-Cuando el escrito inicial no contenga los datos o no cumpla con los requisitos previstos en las disposiciones aplicables, la autoridad deberá prevenir al interesado, por escrito y por una sola vez, para que dentro de un término que no podrá ser menor de diez días hábiles subsane la omisión. Salvo que en las disposiciones específicas se establezca otro plazo, dicha prevención deberá hacerse a más tardar dentro de la mitad del plazo de respuesta de la autoridad y, cuando éste no sea expreso, dentro de los veinte días hábiles siguientes a la presentación del escrito inicial.
+Un representante de la Procuraduría General de la República.
 
-Notificada la prevención, se suspenderá el plazo para que las autoridades administrativas resuelvan y se reanudará a partir del día hábil inmediato siguiente a aquel en que el interesado conteste. En el supuesto de que no se desahogue la prevención en el término señalado las autoridades desecharán el escrito inicial.
+Un representante de Petróleos Mexicanos.
 
-Si las autoridades no hacen el requerimiento de información dentro del plazo correspondiente, no podrán rechazar el escrito inicial por incompleto.
+Un representante de la Comisión Federal de Electricidad.
 
-Salvo disposición expresa en contrario, los plazos para que las autoridades contesten empezarán a correr el día hábil inmediato siguiente a la presentación del escrito correspondiente.
+Un representante del Instituto Mexicano del Seguro Social.
 
-Para efectos de la presente Ley, los plazos fijados en días se entenderán en días naturales, salvo que expresamente se señale que se trata de días hábiles.
+Un representante del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
-###### Artículo 8o.
+POR EL SECTOR PRIVADO.
 
-El plazo a que se refiere el artículo anterior no será aplicable a las promociones donde por disposición expresa de esta Ley las autoridades administrativas deban oír la opinión de otras autoridades, además de aquellas relacionadas con las autorizaciones relativas a la organización, fusión, escisión y liquidación de Sociedades Controladoras. En estos casos no podrá exceder de ciento ochenta días el plazo para que las autoridades administrativas resuelvan lo que corresponda, siendo aplicables las demás reglas que señala el artículo 7o. de esta Ley.
+Un representante del Consejo Coordinador Empresarial de Puebla.
 
-###### Artículo 9o.
+Un representante de la Cámara Nacional de la Industria de la Transformación (CANACINTRA).
 
-Las autoridades administrativas competentes, a solicitud de la parte interesada, podrán ampliar los plazos establecidos en la presente Ley, sin que dicha ampliación exceda, en ningún caso, de la mitad del plazo previsto originalmente en las disposiciones aplicables, cuando así lo exija el asunto y no tengan conocimiento de que se perjudica a terceros en sus derechos.
+Un representante de la Confederación de Cámaras Nacionales de Comercio (CONCANACO).
 
-###### Artículo 10.
+Un representante del Centro Bancario.
 
-Los plazos a que se refieren los artículos anteriores no les serán aplicables a las autoridades en el ejercicio de sus atribuciones de supervisión, inspección y vigilancia.
+POR EL SECTOR SOCIAL.
+
+Un representante de la Federación de Trabajadores de Puebla (CTM).
+
+Un representante de la Federación Revolucionaria de Obreros y Campesinos (FROC).
+
+Un representante de la Confederación de Sindicatos de Obreros y Campesinos del Estado de Puebla (CROM).
+
+Un representante de la Federación de Sindicatos de Trabajadores al Servicio del Estado (FSTSE).
+
+Un representante del Sector Campesino.
+
+POR LAS INSTITUCIONES DE EDUCACION SUPERIOR.
+
+Un representante de la Benemérita Universidad Autónoma de Puebla.
+
+El Consejo Estatal podrá invitar a representantes de otras Instituciones de Educación Superior que considere necesarios para el logro de sus fines.
+
+V.- Además podrán invitar a que participen en las Sesiones del Consejo, a personas especialistas en materia de Protección Civil o que estén en condiciones de coadyuvar con los objetivos del Sistema Estatal.
+
+###### ARTICULO 6o.
+
+El Consejo se reunirá en sesiones ordinarias o extraordinarias; en comisiones o en pleno, cuando el caso así lo requiera, a convocatoria de su Presidente, en los plazos y formas que se señalan en el Reglamento Interior.
+
+###### ARTICULO 7o.
+
+Las Sesiones del Consejo serán presididas por el Presidente o, en ausencia, por el Coordinador General, siendo válidas si además asisten la mitad más uno de sus miembros.
+
+###### ARTICULO 8o.
+
+Corresponde al Presidente del Consejo:
+
+I.- Convocar y presidir las sesiones, orientando los debates que surjan en las mismas, contando con voto de calidad;
+
+II.- Autorizar el orden del día a que se sujetarán las sesiones;
+
+III.- Vigilar el cumplimiento de los acuerdos del Consejo;
+
+IV.- Proponer se celebren Convenios de Coordinación con los Gobiernos Federal, de las Entidades Federativas y los Ayuntamientos para instrumentar los Programas de Protección Civil;
+
+V.- Designar las Comisiones de Trabajo que estime necesarias;
+
+VI.- Declarar el estado de desastre de conformidad con los siguientes lineamientos:
+
+A).- Dicha declaratoria se publicará en el Periódico Oficial del Estado y se le dará difusión a través de los medios de comunicación social.
+
+B).- Deberá hacer mención expresa de los siguientes aspectos:
+
+1.- Identificación geográfica del desastre.
+
+2.- Zona o zonas afectadas.
+
+3.- Determinación de las acciones que deberán ejecutar las diferentes áreas y unidades administrativas del Gobierno del Estado y Sociales, que coadyuven en el cumplimiento de los programas de Protección Civil, y
+
+4.- Instrucciones dirigidas a la población de acuerdo al Programa Estatal.
+
+C).- Solicitar, cuando la gravedad del desastre lo requiera, el auxilio y apoyo del Gobierno Federal.
+
+###### ARTICULO 9o.
+
+Corresponde al Coordinador General:
+
+I.- Presidir las sesiones del Consejo en ausencia del Titular del Poder Ejecutivo;
+
+II.- Coordinar las acciones relativas que se desarrollen en el seno del Consejo y las del Sistema Estatal en General;
+
+III.- Cumplir y hacer cumplir las disposiciones y acuerdos del Consejo;
+
+IV.- Elaborar los trabajos que le encomienden el Presidente y el Consejo así como resolver las consultas que se sometan a su consideración;
+
+V.- Orientar, por conducto de la Unidad Operativa de Protección Civil, las acciones Federales, Estatales y Municipales que sean del Consejo;
+
+VI.- Rendir un informe actual sobre los trabajos del Consejo;
+
+VII.- Someter a la consideración del Consejo el Reglamento Interior y las adecuaciones necesarias;
+
+VIII.- Publicar la declaratoria de estado de desastre formulada por el Ejecutivo Estatal y convocar de inmediato al Consejo, iniciando los trabajos de emergencia sin demora en el Centro de Operaciones para Emergencias y Desastres (COPED), vigilando el desarrollo de los mismos;
+
+IX.- Informar al Presidente del Consejo sobre el cumplimiento de sus funciones y actividades;
+
+X.- Presentar al Consejo el Programa y Subprogramas de trabajo;
+
+XI.- Las demás que le confieren el Consejo y el Presidente.
+
+###### ARTICULO 10.
+
+Corresponde al Secretario Técnico:
+
+I.- Formular el orden del día para cada sesión y someterla a la consideración del Presidente.
+
+II.- Asistir con voz pero sin voto a las sesiones del Consejo y redactar las actas respectivas;
+
+III.- Elaborar y someter a la consideración del Coordinador General, el proyecto de calendario de sesiones del Consejo;
+
+IV.- Cuidar que se entreguen a los integrantes, las convocatorias a las sesiones del Consejo, con anticipación no menor de tres días hábiles;
+
+V.- Verificar que el quórum legal para cada sesión se encuentre integrado y comunicarlo al Presidente del Consejo;
+
+VI.- Registrar los acuerdos del Consejo y sistematizarlos para su seguimiento;
+
+VII.- Llevar el seguimiento de los acuerdos tomados por el Consejo;
+
+VIII.- Proponer elaboración de estudios, investigaciones y proyectos de protección civil a ser realizados por los miembros que integran el Consejo;
+
+IX.- Llevar el archivo y control de los diversos programas de Protección Civil;
+
+X.- Proponer al Consejo las medidas y acciones de Protección Civil que estime pertinentes;
+
+XI.- Informar periódicamente al Coordinador General del Consejo, el cumplimiento de sus actividades; y
+
+XII.- Las demás funciones que le confieran el Consejo, el Presidente o el Coordinador General.
 
 ## TÍTULO SEGUNDO. De la organización de las Sociedades Controladoras y la constitución y funcionamiento de Grupos Financieros
 
-### CAPÍTULO I. De la organización
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-###### Artículo 11.
+###### ARTICULO 11.
 
-Se requerirá autorización de la Secretaría para la organización de las Sociedades Controladoras y la constitución y funcionamiento de Grupos Financieros. Estas autorizaciones serán otorgadas o denegadas discrecionalmente por dicha Secretaría, oyendo la opinión del Banco de México y, según corresponda, en virtud de los integrantes del Grupo Financiero que pretenda organizarse, de las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas o del Sistema de Ahorro para el Retiro.
+La unidad Operativa se integrará por:
 
-Por su naturaleza, dichas autorizaciones serán intransmisibles.
+I.- Un Director;
 
-La Secretaría, una vez que, en su caso, otorgue la autorización a que se refiere este artículo, notificará la resolución respectiva y expedirá opinión favorable respecto de los proyectos de estatutos sociales y de convenio de responsabilidades de la sociedad de que se trate, a fin de que se realicen los actos tendientes a la organización de la Sociedad Controladora, para lo cual, el promovente contará con un plazo de noventa días contado a partir de dicha notificación, para presentar los instrumentos públicos en que consten los estatutos sociales y el convenio de responsabilidades de la sociedad en términos de esta Ley, para su aprobación.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2000)</small>
 
-Estas autorizaciones así como sus modificaciones, se publicarán, a costa del interesado, en el Diario Oficial de la Federación.
+II.- Los Directores Adjuntos que sean necesarios, entre los que deberán estar por lo menos, el Director Operativo de Protección Civil, el Director del Plan Popocatépetl y el Director del H. Cuerpo de Bomberos;
 
-La autorización a que se refiere el presente artículo se otorgará sin perjuicio de los procedimientos que, en su caso, deban efectuarse ante la Comisión Federal de Competencia Económica o cualquier otra autoridad.
+III.- El Consejo Operativo.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE MARZO DE 2018)</small>
+###### ARTICULO 12.
 
-###### Artículo 12.
+Son atribuciones de la Unidad Operativa las siguientes:
 
-Los Grupos Financieros a que se refiere la presente Ley estarán compuestos por una Sociedad Controladora y por algunas de las entidades financieras siguientes que sean consideradas integrantes del Grupo Financiero: almacenes generales de depósito, casas de cambio, instituciones de fianzas, instituciones de seguros, casas de bolsa, instituciones de banca múltiple, sociedades operadoras de fondos de inversión, distribuidoras de acciones de fondos de inversión, administradoras de fondos para el retiro, sociedades financieras de objeto múltiple, sociedades financieras populares, instituciones de tecnología financiera y las demás entidades financieras susceptibles de ser integrantes de Grupos Financieros en términos de las reglas que emita la Secretaría.
+I.- Elaborar y presentar al Consejo, el Programa Estatal de Protección Civil;
 
-El Grupo Financiero deberá formarse con cuando menos dos de las entidades financieras señaladas en el párrafo anterior, que podrán ser del mismo tipo. Como excepción a lo anterior, un Grupo Financiero no podrá formarse solamente con dos sociedades financieras de objeto múltiple.
+II.- Establecer los planes y programas básicos de prevención, auxilio y apoyo frente a la eventualidad de desastre provocados por los diversos tipos de agentes;
 
-Sólo podrán ser integrantes del Grupo Financiero aquellas entidades financieras en que la Sociedad Controladora mantenga directa o indirectamente más del cincuenta por ciento de las acciones representativas de su capital social.
+III.- Elaborar el catálogo de recursos movilizables en base a la información que proporcionen los miembros integrantes del Consejo Estatal, verificar su existencia y coordinar su agilización en casos de emergencia;
 
-Asimismo, la Sociedad Controladora, a través de Subcontroladoras o de otras entidades financieras, podrá mantener indirectamente la tenencia accionaria de las entidades financieras integrantes del Grupo Financiero, así como de aquellas entidades financieras que no sean integrantes del Grupo Financiero y de Prestadoras de Servicio e Inmobiliarias, sin perjuicio de las prohibiciones previstas por las respectivas leyes especiales.
+IV.- Realizar las acciones necesarias para garantizar la protección de personas, instalaciones y bienes de interés común en casos de riesgo colectivo, catástrofe o calamidad pública;
 
-Las entidades financieras en cuyo capital social participe, con más del cincuenta por ciento, una institución de banca múltiple, casa de bolsa o institución de seguros integrante de un Grupo Financiero, también serán integrantes del Grupo Financiero.
+V.- Ejecutar acciones de auxilio y rehabilitación inicial para atender las consecuencias de los efectos destructivos de un desastre, con el propósito fundamental de garantizar el normal funcionamiento de los servicios elementales para la comunidad;
 
-###### Artículo 13.
+VI.- Proponer medidas que garanticen el mantenimiento o pronto restablecimiento de los servicios públicos fundamentales en los lugares por desastre;
 
-Las entidades financieras integrantes de un Grupo Financiero podrán:
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2000)</small>
 
-I. Actuar de manera conjunta frente al público, ofrecer servicios complementarios y ostentarse como integrantes del Grupo Financiero de que se trate.
+VII.- Servir de enlace entre el Ejecutivo Estatal y el Sistema;
 
-II. Usar denominaciones iguales o semejantes que los identifiquen frente al público como integrantes de un mismo Grupo Financiero, o bien, conservar la denominación que tenían antes de formar parte de dicho Grupo Financiero. En todo caso deberán añadirle las palabras Grupo Financiero y la denominación del mismo.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2000)</small>
 
-III. Llevar a cabo operaciones que le son propias a través de oficinas y sucursales de atención al público de otras entidades financieras integrantes del Grupo Financiero, de conformidad con lo establecido en el Capítulo Único del Título Cuarto de la presente Ley.
+VIII.- Proponer al Ejecutivo del Estado, las estrategias y mecanismos necesarios, tendientes a propiciar en la sociedad una cultura de prevención y atención, a las situaciones derivadas de un desastre o siniestro;
 
-En ningún caso podrán realizarse operaciones propias de las entidades financieras integrantes del Grupo Financiero a través de las oficinas de la Sociedad Controladora.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2000)</small>
 
-###### Artículo 14.
+IX.- Planificar la protección civil en sus aspectos normativos, operativos, de coordinación y participación, con el objeto de consolidar un nuevo orden estatal de protección civil;
 
-La solicitud de autorización para organizarse como Sociedad Controladora y constituirse y funcionar como Grupo Financiero deberá presentarse ante la Secretaría, acompañada de la documentación siguiente:
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2000)</small>
 
-I. Proyecto de estatutos de la sociedad que deberá considerar el objeto social, así como los requisitos que en términos de la presente Ley y de las demás disposiciones aplicables deban contenerse. El proyecto de estatutos de la Sociedad Controladora deberá contener los criterios generales a seguir para evitar conflictos de interés entre los integrantes del Grupo Financiero;
+X.- Organizar y desarrollar acciones de educación y capacitación a la sociedad en materia de simulacros y señalizaciones para la protección civil, impulsando la formación del personal que pueda ejercer dichas funciones;
 
-II. Relación de las personas que pretendan mantener una participación directa en el capital social de la Sociedad Controladora y de las personas que pretendan mantener una participación indirecta por más del 5% de dicha Sociedad, que deberá contener, de conformidad con las disposiciones de carácter general que al efecto expida la Secretaría, lo siguiente:
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2000)</small>
 
-a) El monto del capital social que suscribirá cada una de ellas o el porcentaje de participación indirecta y el origen de los recursos que utilicen para tal efecto;
+XI.- Promover la cultura de protección civil;
 
-b) La situación patrimonial en caso de personas físicas o estados financieros auditados en caso de personas morales, en ambos casos de los últimos tres años, y
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2000)</small>
 
-c) Aquella que permita verificar que cuentan con solvencia económica, honorabilidad e historial crediticio y de negocios satisfactorio.
+XII.- Coordinar a los grupos voluntarios;
 
-III. Relación de las personas propuestas como consejeros, director general y principales directivos de la Sociedad Controladora, acompañada de la información que acredite que dichas personas cumplen con los requisitos que esta Ley establece para dichos cargos;
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2000)</small>
 
-IV. La estructura general del Grupo Financiero que se pretenda constituir, que incluya la relación de accionistas de cada una de las entidades financieras que integrarán dicho grupo y el porcentaje de tenencia accionaria de cada uno de ellos;
+XIII.- Proponer las medidas y los instrumentos que permitan el establecimiento de los más eficientes y oportunos canales de colaboración en el Estado y los Municipios en materia de protección civil, avocándose además a estudiar los desastres en los Municipios y sus efectos; y
 
-V. El proyecto de estatutos de las entidades financieras que integrarán el Grupo Financiero, y, en su caso, de las entidades financieras en las que pretenda adquirir la tenencia accionaria del cincuenta por ciento o menos del capital social respectivo, así como de Prestadoras de Servicio e Inmobiliarias. Tratándose de entidades financieras o Prestadoras de Servicio o Inmobiliarias constituidas, deberá presentarse el instrumento público otorgado ante fedatario público que contenga los estatutos vigentes, así como los proyectos de modificaciones que se efectuarían con motivo de la creación del Grupo Financiero;
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2000)</small>
 
-VI. El proyecto de convenio de responsabilidades a que se refiere el artículo 119 de esta Ley;
+XIV.- Las demás que le confieran otras Leyes, Decretos, Reglamentos y Acuerdos o que le asignen el Presidente o el Coordinador General del Consejo.
 
-VII. Los estados financieros auditados que presenten la situación de las entidades financieras constituidas o, en su caso, los proyectados, de las entidades que no se hubieran constituido y que formarán parte del Grupo Financiero, así como las proyecciones financieras de la integración del Grupo Financiero;
+###### ARTICULO 13.
 
-VIII. Los convenios conforme a los cuales la Sociedad Controladora, en su caso, adquirirá las acciones representativas del capital social de las entidades financieras de que se trate;
+Corresponde al Director de la Unidad Operativa:
 
-IX. El programa financiero estratégico para su organización, administración y control interno, y
+I.- Asistir con voz y voto a las reuniones del Consejo Estatal e informar de las acciones ejecutadas por la Unidad a su cargo;
 
-X. La demás documentación que, en su caso, solicite la Secretaría a efecto de evaluar la solicitud correspondiente.
+II.- Coordinar la Unidad Operativa con las autoridades Federales, Estatales y Municipales, así como con los Sectores Social y Privado, para organizar la prevención y control de situaciones de emergencia;
 
-Para los efectos de la fracción I anterior, la Secretaría estará facultada para establecer mediante disposiciones de carácter general, las medidas tendientes a evitar los conflictos de interés entre los participantes del Grupo Financiero, teniendo en todo momento como objeto primordial, la protección de los intereses del público.
+III.- Supervisar y evaluar todas las acciones que se realicen en el ámbito de su competencia e informar de ello al Presidente y al Coordinador General del Consejo; y
 
-La Secretaría tendrá la facultad de verificar que la solicitud a que se refiere el presente artículo cumple con lo previsto en esta Ley, así como de corroborar la veracidad de la información proporcionada y, en tal virtud, las dependencias y entidades de la Administración Pública Federal, así como las demás instancias federales entregarán la información solicitada, sin que, para este caso, les resulten aplicables las obligaciones de guardar la información respectiva en confidencialidad, reserva o secreto de cualquier tipo. Asimismo, la Secretaría a través de las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas o del Sistema de Ahorro para el Retiro, según corresponda, podrá solicitar a organismos extranjeros con funciones de supervisión o regulación similares, corroborar la información que al efecto se proporcione.
+IV.- Todas las demás que le deleguen el Presidente y el Coordinador General del Consejo.
 
-###### Artículo 15.
+###### ARTICULO 14.
 
-La incorporación directa o indirecta de entidades financieras como integrantes de un Grupo Financiero ya constituido requerirá autorización de la Secretaría. Dicha autorización será otorgada o denegada discrecionalmente por dicha Secretaría, oyendo la opinión del Banco de México y, según corresponda, de las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas o del Sistema de Ahorro para el Retiro.
+Los Subdirectores de la Unidad Operativa, serán responsables de la actualización sistemática, operatividad y coordinación de los programas de protección civil.
 
-A la solicitud respectiva deberán adjuntarse:
+Se consideran programas permanentes los siguientes:
 
-I. Los proyectos de acta de las asambleas de accionistas tanto de la Sociedad Controladora, así como de las entidades financieras que se pretendan integrar al Grupo Financiero, que contengan los acuerdos relativos a la incorporación;
+I.- Programa de seguridad contra agentes destructivos de carácter geológico;
 
-II. La estructura general del Grupo Financiero posterior a la incorporación;
+II.- Programa de seguridad contra agentes destructivos de carácter hidrometeorológico;
 
-III. El proyecto de estatutos de la o las entidades financieras que se incorporarán. Tratándose de entidades o sociedades ya constituidas, instrumento público otorgado ante fedatario público que contenga los estatutos vigentes, así como los proyectos de modificaciones que se efectuarían con motivo de su integración;
+III.- Programa de seguridad contra agentes destructivos de carácter químico;
 
-IV. El proyecto de modificación al convenio de responsabilidades correspondiente;
+IV.- Programa de seguridad contra agentes destructivos de carácter sanitario;
 
-V. Los estados financieros auditados que presenten la situación de la o las entidades a ser incorporadas, así como una proyección de los estados financieros consolidados del Grupo Financiero posterior a la incorporación;
+V.- Programa de seguridad contra agentes destructivos de carácter socio-organizativo; y
 
-VI. Los programas y convenios conforme a los que se llevaría a cabo la incorporación;
+VI.- Programa de comunicación.
 
-VII. La relación de accionistas de la o las entidades financieras y el porcentaje de tenencia accionaria de cada uno de ellos, y
+###### ARTICULO 15.
 
-VIII. La demás documentación que, en su caso, solicite la Secretaría a efecto de evaluar la solicitud correspondiente.
+Los Subdirectores tendrán las siguientes atribuciones:
 
-###### Artículo 16.
+I.- Elaborar los programas del área de su responsabilidad;
 
-La separación de alguno o algunos de los integrantes de un Grupo Financiero deberá ser autorizada por la Secretaría, oyendo la opinión del Banco de México y, según corresponda, de las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas o del Sistema de Ahorro para el Retiro.
+II.- Acordar con el Director de la Unidad Operativa, las funciones de su competencia;
 
-A la solicitud respectiva deberán adjuntarse:
+III.- Atender las consultas que se le formulen; y
 
-I. Los proyectos de acta de las asambleas de accionistas tanto de la Sociedad Controladora, así como de las entidades financieras que se pretendan separar del Grupo Financiero, que contengan los acuerdos relativos a la separación;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2000)</small>
 
-II. La estructura general del Grupo Financiero posterior a la separación;
+IV.- Servir de instrumento de coordinación de las actividades que desarrollan las áreas bajo su respectiva responsabilidad y el Sistema Estatal de Protección Civil; y
 
-III. Instrumento público otorgado ante fedatario público que contenga los estatutos vigentes, así como los proyectos de modificaciones que se efectuarían con motivo de su separación del Grupo Financiero;
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2000)</small>
 
-IV. El proyecto de modificación al convenio de responsabilidades correspondiente;
+V.- Las demás que les confieran el Reglamento Interior, el Consejo y el Director de la Unidad Operativa.
 
-V. Los estados financieros auditados que presenten la situación de la o las entidades que se separan, así como una proyección de los estados financieros consolidados del Grupo Financiero posterior a la separación, y
+###### ARTICULO 16.
 
-VI. La demás documentación que, en su caso, solicite la Secretaría a efecto de evaluar la solicitud correspondiente.
+La Unidad Operativa, sesionará en pleno, ordinariamente una vez al mes y extraordinariamente, cada vez que se requiera; ambas a convocatoria del Director.
 
-Al surtir efectos la autorización para la separación a que se refiere este artículo, la o las entidades financieras que se hubieran separado deberán dejar de ostentarse como integrantes del Grupo Financiero respectivo.
+###### ARTICULO 17.
 
-Cuando el Instituto para la Protección al Ahorro Bancario suscriba o adquiera el cincuenta por ciento o más del capital social de una institución de banca múltiple integrante de un Grupo Financiero, no se observará lo dispuesto en el primer párrafo del presente artículo. La separación de la institución de banca múltiple respecto del Grupo Financiero tendrá efectos a partir de dicha suscripción o adquisición, por lo que se tendrá por modificado el convenio único de responsabilidades en este sentido.
+La Unidad Operativa, contará con instalaciones, equipo y materiales necesarios para su eficaz funcionamiento, que le serán proporcionados por el Consejo Estatal.
 
-La separación de las entidades financieras se llevará a cabo sin perjuicio de que las responsabilidades de la Sociedad Controladora a que se refiere esta Ley, subsistan en tanto no queden cubiertas las pérdidas que, en su caso, registren las entidades financieras.
+###### ARTICULO 18.
 
-###### Artículo 17.
+El Consejo Operativo, es el organismo de apoyo permanente al Director y Sub-directores de la Unidad Operativa y se integra por:
 
-Para la fusión de dos o más Sociedades Controladoras o Subcontroladoras, o de cualquier sociedad o entidad financiera con una Sociedad Controladora o con una Subcontroladora, así como para la fusión de dos o más entidades financieras integrantes del mismo Grupo Financiero, o de una entidad financiera integrante de un Grupo Financiero con otra entidad financiera o con cualquier sociedad, se requerirá autorización previa de la Secretaría, oyendo la opinión del Banco de México y, según corresponda, de las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas o del Sistema de Ahorro para el Retiro.
+I.- Un consejero de radio y comunicación, nombrado por la Secretaría de Comunicaciones y Transportes;
 
-Para solicitar la autorización a que se refiere el presente artículo, se deberá presentar a la Secretaría, lo siguiente:
+II.- Ocho consejeros de salud, nombrados por:
 
-I. Proyecto de acta de asamblea general extraordinaria de accionistas de las sociedades respectivas que contenga los acuerdos relativos a la fusión;
+SECRETARIA DE SALUD.
 
-II. Proyecto de convenio de fusión;
+INSTITUTO MEXICANO DEL SEGURO SOCIAL.
 
-III. Proyecto de modificaciones que, en su caso, correspondería realizar a los estatutos de las propias sociedades que se fusionan y al convenio de responsabilidades correspondiente;
+INSTITUTO DE SEGURIDAD SOCIAL DE LOS TRABAJADORES DEL ESTADO.
 
-IV. Programa de fusión de dichas sociedades, con indicación de las etapas en que deberá llevarse a cabo;
+INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO DE PUEBLA.
 
-V. Los estados financieros auditados que presenten la situación de las sociedades y que servirán de base para la asamblea que autorice la fusión;
+HOSPITAL UNIVERSITARIO DE LA BENEMERITA UNIVERSIDAD AUTONOMA DE PUEBLA.
 
-VI. Los estados financieros proyectados de la sociedad resultante de la fusión;
+DELEGACION CRUZ ROJA MEXICANA.
 
-VII. Relación e información de las personas que directa o indirectamente pretendan mantener una participación en el capital social de la sociedad fusionante, que deberá contener, de conformidad con las disposiciones de carácter general que al efecto expida la Secretaría, lo siguiente:
+RESCATE Y PRIMEROS AUXILIOS DE PUEBLA, A.C.
 
-a) El monto del capital social que suscribirá cada una de ellas y el origen de los recursos que utilicen para tal efecto.
+INSTITUCIONES HOSPITALARIAS PRIVADAS.
 
-b) La situación patrimonial en caso de personas físicas o estados financieros auditados en caso de personas morales, en ambos casos de los últimos tres años, y
+III.- Un consejero de abasto, nombrado por la Compañía Nacional de Subsistencias Populares; y
 
-c) Aquella que permita verificar que cuentan con honorabilidad e historial crediticio y de negocios satisfactorio.
+IV.- Un consejero de albergues, nombrado por el Sistema Estatal para el Desarrollo Integral de la Familia.
 
-VIII. Relación de los probables consejeros, director general y principales directivos de la Sociedad Controladora o de la entidad financiera que resulte de la fusión, acompañando la información que acredite que dichas personas cumplen con los requisitos que esta ley establece para dichos cargos;
+###### ARTICULO 19.
 
-IX. Programa financiero estratégico para la organización, administración y control interno de la sociedad que resulte de la fusión, y
+Ante la eventualidad de un desastre el Consejo Operativo, se constituirá en el organismo receptor de ayuda y donativos de la cooperación local, nacional o internacional, para lo cual observará las siguientes acciones:
 
-X. La demás documentación e información relacionada, que la Secretaría requiera para el efecto.
+A).- Elaborar un inventario de los bienes y recursos de requerimiento inmediato;
 
-La sociedad fusionante quedará obligada a continuar con los trámites de la fusión y asumirá las obligaciones de la fusionada desde el momento en que la fusión haya sido acordada, siempre y cuando dicho acto haya sido autorizado en los términos del presente artículo.
+B).- Establecer centros de acopio y distribución con un riguroso inventario, y
 
-La autorización que otorgue la Secretaría para la fusión de una Sociedad Controladora o de una entidad financiera, como fusionada, dejará sin efectos la autorización otorgada a estas para organizarse, constituirse, operar o funcionar como tales sin que, para ello, resulte necesaria la emisión de una declaratoria expresa por parte de la citada Secretaría o de la instancia que haya otorgado la referida autorización que queda sin efectos. En su caso, a partir del momento en que surta efectos la fusión de una Sociedad Controladora como fusionada, las entidades financieras que formaban parte del Grupo Financiero deberán dejar de ostentarse como integrantes del mismo, para lo cual deberán modificar previamente sus denominaciones sociales.
+C).- Vigilar la correcta distribución de los bienes entre los damnificados.
 
-###### Artículo 18.
+###### ARTICULO 20.
 
-Para la escisión de una Sociedad Controladora o de una Subcontroladora, se requerirá autorización previa de la Secretaría, quien oirá la opinión del Banco de México y, según corresponda, de las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas o del Sistema de Ahorro para el Retiro.
+En cada uno de los Municipios del Estado, se establecerán Sistemas de Protección Civil, con el objeto de organizar el primer nivel de respuesta ante situaciones de emergencia.
 
-Para solicitar la autorización a que se refiere el presente artículo, la sociedad escindente presentará a la Secretaría lo siguiente:
+###### ARTICULO 21.
 
-I. Proyecto de acta de asamblea general extraordinaria de accionistas que contenga los acuerdos relativos a su escisión;
+Las estructuras y operaciones de los Sistemas Municipales, serán determinados por cada Ayuntamiento, de acuerdo a la disponibilidad de recursos humanos, materiales y financieros, así como de la probabilidad de riesgos y desastres.
 
-II. Proyecto de reformas estatutarias de la sociedad escindente;
+### CAPITULO SEGUNDO. DEL CONSEJO ESTATAL DE PROTECCION CIVIL
 
-III. Proyecto de estatutos sociales de la sociedad escindida;
+###### ARTICULO 22.
 
-IV. Estados financieros auditados que presenten la situación de la sociedad escindente, así como los estados financieros proyectados de las sociedades que resulten de la escisión, y
+Los Sistemas Municipales, estudiarán las formas para prevenir los desastres y aminorar sus efectos en cada una de sus localidades y establecerán modelos alternativos de protección civil.
 
-V. La demás documentación que, en su caso, solicite la Secretaría a efecto de evaluar la solicitud correspondiente.
+###### ARTICULO 23.
 
-La sociedad escindida de una Sociedad Controladora no se entenderá autorizada para organizarse y operar como Sociedad Controladora de un Grupo Financiero.
+Los Sistemas Municipales, tendrán la obligación de aplicar las disposiciones de esta Ley e instrumentar sus programas en coordinación con el Sistema Estatal.
 
-Con motivo de la escisión, a la sociedad escindida no se le podrán transmitir operaciones activas ni pasivas de las entidades financieras, salvo en los casos en que lo autorice la autoridad competente en términos de las disposiciones jurídicas aplicables o, en su defecto, por la Secretaría.
+###### ARTICULO 24.
 
-En el evento de que la escisión produzca la extinción de la Sociedad Controladora, quedará sin efectos la autorización otorgada a esta para organizarse como tal y funcionar como Grupo Financiero sin que, para ello, resulte necesaria la emisión de una declaratoria expresa por parte de la citada Secretaría. A partir del momento en que surta efectos la escisión, las entidades financieras que formaban parte del Grupo Financiero deberán dejar de ostentarse como integrantes del mismo.
+Los Grupos Voluntarios de Protección Civil, se forman por personas que, debidamente organizadas y preparadas, pueden participar con eficiencia en la prevención y auxilio de los riesgos y siniestros en coordinación con la Unidad mencionada.
 
-###### Artículo 19.
+###### ARTICULO 25.
 
-Los actos corporativos autorizados en términos de los artículos 15, 16, 17 y 18 de la presente Ley surtirán efectos a partir de la fecha en que se inscriban en el Registro Público de Comercio los instrumentos públicos en los que consten los acuerdos de asamblea en que se hayan resuelto tales actos, así como las autorizaciones respectivas.
+La organización de los Grupos Voluntarios, puede integrarse de la siguiente manera:
 
-Las autorizaciones de la Secretaría y los acuerdos adoptados por la asamblea de accionistas a que se refiere el párrafo anterior se publicarán en el Diario Oficial de la Federación.
+I.- Territorial, formada por agrupaciones de voluntarios en cada Municipio o Región en que se estime necesario; y
 
-Durante los noventa días siguientes a partir de la fecha de publicación a que se refiere el párrafo anterior, los acreedores de la Sociedad Controladora, incluso de las demás entidades financieras del o de los Grupos Financieros a los que, en su caso, pertenezcan las sociedades objeto de incorporación, separación, fusión o escisión, podrán oponerse judicialmente a la misma, con el único objeto de obtener el pago de sus créditos, sin que esta oposición suspenda el acto respectivo.
+II.- Profesional, integrada por voluntarios de acuerdo con la especialidad de cada Organismo de auxilio.
 
-Las autorizaciones a que se refiere el primer párrafo del presente artículo se sujetarán a lo dispuesto por esta Ley, y no será aplicable lo previsto en las respectivas leyes especiales.
+###### ARTICULO 26.
 
-###### Artículo 20.
+Los grupos voluntarios, deberán registrarse en la Unidad Operativa, mediante un certificado que otorgará dicho organismo, en el que se inscribirá el número de registro, nombre del grupo voluntario, actividades a las que se dedican y adscripción. El registro deberá revalidarse anualmente.
 
-Los estatutos de la Sociedad Controladora, de las Subcontroladoras y de las Prestadoras de Servicio e Inmobiliarias, así como el convenio único de responsabilidades a que se refiere el artículo 119 de esta Ley, y cualquier modificación a dichos documentos, se someterán a la aprobación de la Secretaría, quien la otorgará o negará oyendo la opinión del Banco de México y, según corresponda, de las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas o del Sistema de Ahorro para el Retiro.
+###### ARTICULO 27.
 
-Una vez aprobados los estatutos sociales, el convenio único de responsabilidades o sus modificaciones, el instrumento público en el que consten deberá inscribirse en el Registro Público de Comercio.
+Corresponde a los grupos voluntarios:
 
-###### Artículo 21.
+I.- Coordinarse con la Unidad Operativa para las tareas de prevención y auxilio en casos de desastre;
 
-La Secretaría, previa opinión del Banco de México y de las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas y del Sistema de Ahorro para el Retiro, expedirá las reglas generales que regulen los demás términos y condiciones para la organización de Sociedades Controladoras y el funcionamiento de Grupos Financieros, de conformidad con lo dispuesto en la presente Ley.
+II.- Cooperar en la difusión de programas y planes de protección civil;
 
-Asimismo, la Secretaría emitirá disposiciones de carácter general con el fin de prevenir los conflictos de interés que se presenten en la ejecución de las facultades de administración o bien, de gestión, conducción y ejecución de los negocios sociales del Grupo Financiero con respecto a la administración y gestión, conducción o ejecución de los negocios sociales de una o más de las entidades que lo integran, para lo cual, dicha Secretaría estará facultada para eximir a una o más entidades la aplicación de algunos preceptos de la presente Ley.
+III.- Comunicar al Consejo Estatal o a los Consejos Municipales o a la Unidad Operativa la presencia de una situación de probable o inminente riesgo colectivo, catástrofe o calamidad pública con el objeto de que aquellas verifiquen la información y tomen las medidas que correspondan;
 
-### CAPÍTULO II. Del funcionamiento
+IV.- Participar en los programas de capacitación a la población para que pueda autoprotegerse en caso de desastre;
 
-###### Artículo 22.
+V.- Participar en los trabajos para evacuar, rescatar y trasladar a quienes resulten afectados por desastres;
 
-El Control de las asambleas generales de accionistas y de la administración de todas las entidades financieras integrantes de cada Grupo Financiero deberá tenerlo una misma Sociedad Controladora.
+VI.- Colaborar en la organización de albergues y el registro de los damnificados alojados en éstos; y
 
-Asimismo, la Sociedad Controladora estará en posibilidad de nombrar o destituir a la mayoría de los miembros del consejo de administración de cada una de las entidades financieras integrantes del Grupo Financiero.
+VII.- Participar en otras actividades que les sean requerida y que estén en capacidad de desarrollar.
 
-###### Artículo 23.
+###### ARTICULO 28.
 
-Las Sociedades Controladoras tendrán por objeto participar, directa o indirectamente, en el capital social de las entidades financieras integrantes del Grupo Financiero y establecer, a través de sus órganos sociales, las estrategias generales para la conducción del Grupo Financiero, así como realizar los actos previstos en la presente Ley. En ningún caso, las Sociedades Controladoras podrán celebrar operaciones que sean propias de las entidades financieras integrantes del Grupo Financiero.
+Con el propósito de lograr una adecuada coordinación entre los Sistemas Nacional, Estatales y Municipales de Protección Civil, el Coordinador del Consejo informará periódicamente a la Secretaría de Gobernación Federal y a los Ayuntamientos, por conducto de la Dirección General de Protección Civil y los Presidentes Municipales, respectivamente, sobre el estado que guarda la Entidad en su conjunto en lo relativo a situaciones que puedan originarse por catástrofes, calamidades públicas o eventos similares que pongan en riesgo a la población.
 
-La duración de las Sociedades Controladoras será indefinida y su domicilio social se encontrará en territorio nacional.
+###### ARTICULO 29.
 
-###### Artículo 24.
+Los administradores, gerentes, poseedores, arrendatarios o propietarios de inmuebles que por su propia naturaleza o por el uso a que sean destinados, reciban una afluencia masiva y permanente de personas, están obligados a preparar un programa específico de protección civil, conforme a las disposiciones del programa general, contando para ello con la asesoría técnica de la Unidad Operativa del Sistema Estatal.
 
-El capital social de las Sociedades Controladoras estará formado por una parte ordinaria y, en su caso, por una parte adicional.
+###### ARTICULO 30.
 
-El capital social ordinario de las Sociedades Controladoras se integrará por acciones de la serie "O". En su caso, el capital social adicional estará representado por acciones serie "L", que podrán emitirse hasta por un monto equivalente al cuarenta por ciento del capital social ordinario, previa autorización de la Secretaría.
+Las escuelas, fábricas, industrias, comercios, oficinas, unidades habitacionales y otros establecimientos en los que haya afluencia de público, en coordinación con las autoridades competentes, deberán practicar simulacros de protección civil cuando menos tres veces al año.
 
-Las acciones representativas de las series "O" y "L" serán de libre suscripción.
+###### ARTICULO 31.
 
-Los gobiernos extranjeros no podrán participar, directa o indirectamente, en el capital social de la Sociedad Controladora, salvo en los casos siguientes:
+En todas las edificaciones, excepto casas habitación uni-familiares, se deberán colocar en lugares visibles equipos de seguridad, señalización adecuada e instructivos para casos de emergencia, en los que se consignarán las reglas que deberán observarse antes, durante y después del siniestro o desastre, así mismo, deberán señalarse las zonas de seguridad.
 
-I. Cuando lo hagan, con motivo de medidas prudenciales de carácter temporal tales como apoyos o rescates financieros.
+###### ARTICULO 32.
 
-Las Sociedades Controladoras que se ubiquen en lo dispuesto en esta fracción deberán entregar a la Secretaría la información y documentación que acredite satisfacer lo antes señalado, dentro de los quince días hábiles siguientes a que se encuentren en dicho supuesto. La Secretaría tendrá un plazo de noventa días hábiles, contado a partir de que reciba la información y documentación correspondiente, para resolver si la participación de que se trata, se ubica en el supuesto de excepción previsto en esta fracción.
+En las acciones de protección civil, los medios de comunicación social deberán colaborar con las autoridades competentes y con los habitantes respecto a la divulgación de información veraz dirigida a la población.
 
-II. Cuando la participación correspondiente implique que se tenga el Control de la Sociedad Controladora, y se realice por conducto de personas morales oficiales, tales como fondos, entidades gubernamentales de fomento, entre otros, previa autorización discrecional de la Secretaría, siempre que a su juicio dichas personas acrediten que:
+TRANSITORIOS:
 
-a) No ejercen funciones de autoridad, y
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la (sic) Periódico Oficial del Estado.
 
-b) Sus órganos de decisión operan de manera independiente al gobierno extranjero de que se trate.
+SEGUNDO.- Se abroga el Decreto por el que se establece el Sistema Estatal de Protección Civil de Puebla, publicado en el Periódico Oficial del Estado el 21 de noviembre de 1986, y todas las demás disposiciones que se opongan a la presente Ley.
 
-III. Cuando la participación correspondiente sea indirecta y no implique que se tenga el Control de la Sociedad Controladora. Lo anterior, sin perjuicio de los avisos o solicitudes de autorización que se deban realizar conforme a lo establecido en esta Ley.
+TERCERO.- El Consejo Estatal, la Unidad Operativa y los Sistemas Municipales de Protección Civil, deberán quedar integrados dentro de los 30 días siguientes a la entrada en vigor de la presente Ley.
 
-###### Artículo 25.
+CUARTO.- Los programas específicos de protección civil que establecen los artículos 29 y 31 de esta Ley, como una obligación para los responsables de los edificios o instituciones existentes, donde haya afluencia masiva de personas, deberán elaborarse en un plazo no mayor de 6 meses.
 
-Las acciones serán de igual valor; dentro de cada serie, conferirán a sus tenedores los mismos derechos y deberán pagarse íntegramente en el acto de ser suscritas. Las mencionadas acciones se mantendrán en depósito en alguna de las instituciones para el depósito de valores reguladas en la Ley del Mercado de Valores, quienes en ningún caso se encontrarán obligadas a entregarlas a los titulares.
+EL GOBERNADOR hará publicar y cumplir la presente Ley, Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza a los diez días del mes de diciembre de mil novecientos noventa y dos. Diputado Presidente.- Lic. Rodolfo Budib Lichtle.- Rúbrica.- Diputado Secretario.- Héctor González Reyes.- Rúbrica.- Diputado Secretario.- Lic. Juan Miguel Madera López.- Rúbrica.
 
-Las acciones serie "L" serán de voto limitado y otorgarán derecho de voto únicamente en los asuntos relativos a cambio de objeto, fusión, escisión, transformación, disolución y liquidación, así como cancelación de su inscripción en cualesquiera bolsas de valores.
+Por tanto mando se imprima, publique y circule para sus efectos, dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza a los diez días del mes de diciembre.- El C. Gobernador del Estado.- Lic. Mariano Piña Olaya.- Rúbrica.- El Secretario de Gobernación.- Lic. Héctor Jiménez y Meneses.- Rúbrica.
 
-Además, las acciones serie "L" podrán conferir derecho a recibir un dividendo preferente y acumulativo, así como a un dividendo superior al de las acciones representativas del capital social ordinario, siempre y cuando así se establezca en los estatutos sociales de la sociedad emisora. En ningún caso los dividendos de esta serie podrán ser inferiores a los de las otras series.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-Las sociedades podrán emitir acciones no suscritas, que conservarán en tesorería, las cuales no computarán para efectos de determinar los límites de tenencia accionaria a que se refiere esta Ley. Los suscriptores recibirán las constancias respectivas contra el pago total de su valor nominal y de las primas que, en su caso, fije la sociedad.
+P.O. 21 DE JUNIO DE 2000.
 
-###### Artículo 26.
+###### ARTÍCULO PRIMERO.
 
-Las personas que adquieran o transmitan acciones de la serie “O” por más del dos por ciento del capital social de una Sociedad Controladora o que con dichos actos rebasen el citado porcentaje, deberán dar aviso a la Secretaría dentro de los tres días hábiles siguientes a la adquisición o transmisión.
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-###### Artículo 27.
+###### ARTÍCULO SEGUNDO.
 
-No podrán participar en el capital social de la Sociedad Controladora, directa o indirectamente, entidades financieras del país, incluso las que formen parte del respectivo Grupo Financiero, salvo cuando actúen como Inversionistas Institucionales, en los términos de este artículo.
+Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-Salvo lo previsto en el párrafo siguiente, las instituciones de seguros y de fianzas, actuando como Inversionistas Institucionales y, en su caso, cualesquiera otros Inversionistas Institucionales integrantes o controlados directa o indirectamente por integrantes de un Grupo Financiero, no podrán adquirir acciones representativas del capital social de la Sociedad Controladora o de los demás integrantes del Grupo Financiero.
+P.O. 29 DE SEPTIEMBRE DE 2003.
 
-Las inversiones que realicen, individual o conjuntamente, fondos de inversión controlados directa o indirectamente por entidades financieras integrantes de un Grupo Financiero, en acciones y obligaciones subordinadas emitidas por la Sociedad Controladora y demás integrantes del Grupo Financiero, en ningún caso podrán ser superiores al diez por ciento del total de tales acciones y obligaciones.
+LEY DEL SISTEMA ESTATAL DE PROTECCION CIVIL.
 
-###### Artículo 28.
+###### ARTÍCULO PRIMERO.
 
-Cualquier persona física o moral podrá, mediante una o varias operaciones simultáneas o sucesivas, adquirir acciones de la serie "O" del capital social de una Sociedad Controladora, siempre y cuando se sujete a lo dispuesto por este artículo.
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Cuando se pretenda adquirir directa o indirectamente más del cinco por ciento del capital social pagado, se deberá obtener previamente la autorización de la Secretaría, quien podrá otorgarla discrecionalmente, después de oír la opinión del Banco de México y, según corresponda, de las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas o del Sistema de Ahorro para el Retiro. En estos casos, las personas que pretendan realizar la adquisición mencionada deberán acreditar que cumplen con los requisitos establecidos en la fracción II del artículo 14 de esta Ley, así como proporcionar a la propia Secretaría la información que para tal efecto se establezca mediante reglas de carácter general.
+###### ARTÍCULO SEGUNDO.
 
-En el supuesto de que una persona o Grupo de Personas, accionistas o no, pretenda adquirir directa o indirectamente el veinte por ciento o más de las acciones representativas de la serie “O” del capital social de la Sociedad Controladora, o bien, el Control, estas deberán solicitar previamente autorización de la Secretaría, quien podrá otorgarla discrecionalmente, para lo cual deberá oír la opinión del Banco de México y, según corresponda, de las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas o del Sistema de Ahorro para el Retiro. Dicha solicitud deberá contener lo siguiente:
+Se abroga la Ley del Sistema Estatal de Protección Civil, aprobada el diez de diciembre de mil novecientos noventa y dos, y publicada en el Periódico Oficial del Estado el día dieciocho de diciembre de mil novecientos noventa y dos.
 
-I. Relación o información de la persona o personas que, en su caso, pretendan adquirir las acciones, a la que se deberá acompañar la información que acredite cumplir con lo señalado en el segundo párrafo del presente artículo;
+###### ARTÍCULO TERCERO.
 
-II. Relación de los consejeros y directivos que nombrarían en la Sociedad Controladora de la que pretenden adquirir el Control, adjuntando la información que acredite que dichas personas cumplen con los requisitos que esta Ley establece para dichos cargos;
+El Titular del Poder Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley dentro de los noventa días naturales siguientes a su entrada en vigor.
 
-III. En su caso, las modificaciones al programa estratégico para su organización, administración y control interno, y
+En tanto se expide el Reglamento a que se refiere el párrafo anterior, continuará aplicándose, en lo conducente, el Reglamento de la Ley del Sistema de Protección Civil para el Estado de Puebla, publicado en el Periódico Oficial del Estado el día primero de julio de mil novecientos noventa y ocho.
 
-IV. La demás documentación conexa que requiera la Secretaría a efecto de evaluar la solicitud correspondiente.
+###### ARTÍCULO CUARTO.
 
-Se requerirá autorización de la Secretaría, quien podrá otorgarla discrecionalmente, después de oír la opinión del Banco de México y, según corresponda, de las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas o del Sistema de Ahorro para el Retiro, para que cualquier persona física o moral adquiera, directa o indirectamente, más del cinco por ciento del capital social pagado de una Subcontroladora. Las personas que pretendan realizar la adquisición mencionada deberán acreditar que cumplen con los requisitos establecidos en la fracción II del artículo 14 de esta Ley.
+Los asuntos que se encuentren en trámite o en proceso ante las instancias competentes en materia de protección civil al entrar en vigor esta Ley, continuarán tramitándose hasta su terminación en los términos de las disposiciones legales vigentes al momento de inicio de los mismos.
 
-La adquisición directa o indirecta del veinte por ciento o más de las acciones representativas del capital social pagado de una Subcontroladora, se sujetará a lo dispuesto en este artículo para Sociedades Controladoras.
-
-###### Artículo 29.
-
-La Sociedad Controladora se abstendrá, en su caso, de efectuar la inscripción en el registro a que se refieren los artículos 128 y 129 de la Ley General de Sociedades Mercantiles de las transmisiones de acciones que se efectúen en contravención de lo dispuesto por los artículos 24, 26, 27, 28, 74 y 75 de la presente Ley, y deberán informar tal circunstancia a la Secretaría y a la Comisión Supervisora, dentro de los cinco días hábiles siguientes a la fecha en que tenga conocimiento de ello.
-
-Cuando las adquisiciones y demás actos jurídicos a través de los cuales se obtenga directa o indirectamente la titularidad de acciones representativas del capital social de una Sociedad Controladora se realicen en contravención a lo dispuesto por los artículos señalados en el párrafo anterior, los derechos patrimoniales y corporativos inherentes a las acciones correspondientes de la Sociedad Controladora quedarán en suspenso y, por lo tanto, no podrán ser ejercidos, hasta que se acredite que se ha obtenido la autorización o resolución que corresponda o que se han satisfecho los requisitos que esta Ley contempla.
-
-###### Artículo 30.
-
-Las Sociedades Controladoras podrán emitir obligaciones subordinadas sujetándose a lo dispuesto en esta Ley y en el artículo 64 de la Ley de Instituciones de Crédito.
-
-###### Artículo 31.
-
-Las personas que acudan en representación de los accionistas a las asambleas de la Sociedad Controladora acreditarán su personalidad mediante poder otorgado en formularios elaborados por la propia Sociedad Controladora, que reúnan los requisitos siguientes:
-
-I. Señalar de manera notoria la denominación de la Sociedad Controladora, así como la respectiva orden del día;
-
-II. Contener espacio para las instrucciones que señale el otorgante para el ejercicio del poder, y
-
-III. Estar foliados y firmados por el secretario o prosecretario del consejo de administración de la Sociedad Controladora, con anterioridad a su entrega a los accionistas.
-
-La Controladora deberá mantener a disposición de los representantes de los accionistas, durante el plazo a que se refiere el artículo 173 de la Ley General de Sociedades Mercantiles, los formularios de los poderes, a fin de que aquellos puedan hacerlos llegar con oportunidad a sus representados.
-
-Los escrutadores estarán obligados a cerciorarse de la observancia de lo dispuesto en este artículo e informar sobre ello a la asamblea, lo que se hará constar en el acta respectiva.
-
-###### Artículo 32.
-
-En el orden del día se deberán listar todos los asuntos a tratar en la asamblea de accionistas, incluso los comprendidos en el rubro de asuntos generales.
-
-La documentación e información relacionada con los temas a tratar en la correspondiente asamblea de accionistas, deberán ponerse a disposición de los accionistas por lo menos con quince días de anticipación a su celebración.
-
-### CAPÍTULO III. De la administración
+### CAPITULO TERCERO. DE LA UNIDAD OPERATIVA
 
 ###### Artículo 33.
 
@@ -848,7 +934,7 @@ III. Hayan seleccionado la alternativa más adecuada, a su leal saber y entender
 
 IV. Cumplan los acuerdos de la asamblea de accionistas, siempre y cuando éstos no sean violatorios de la ley.
 
-### CAPÍTULO IV. De la vigilancia
+### CAPITULO CUARTO. DE LOS SISTEMAS MUNICIPALES DE PROTECCION CIVIL
 
 ###### Artículo 56.
 
@@ -950,7 +1036,7 @@ h) El seguimiento de los acuerdos de las asambleas de accionistas y del consejo 
 
 Para la elaboración de los informes a que se refiere este precepto legal, así como de las opiniones señaladas en el artículo 57 de esta Ley, los comités de prácticas societarias y de auditoría deberán oír a los Directivos Relevantes; en caso de existir diferencia de opinión con estos últimos, incorporarán tales diferencias en los citados informes y opiniones.
 
-### CAPÍTULO V. De la gestión, conducción y ejecución de los negocios sociales
+### CAPITULO QUINTO. DE LOS GRUPOS VOLUNTARIOS
 
 ###### Artículo 59.
 
@@ -1024,7 +1110,7 @@ II. La presentación o revelación, a sabiendas, de información falsa o que ind
 
 III. La actualización de cualquiera de las conductas desleales previstas en los artículos 51, fracciones III a VII y 52 de esta Ley, siendo aplicables las responsabilidades previstas en los artículos 53 y 54 del presente ordenamiento legal.
 
-### CAPÍTULO VI. De las asambleas de accionistas y derechos de los socios
+### CAPITULO SEXTO. DE LA COORDINACION CON LOS SISTEMAS NACIONAL ESTATALES Y MUNICIPALES
 
 ###### Artículo 63.
 
@@ -1116,7 +1202,7 @@ Las acciones de responsabilidad en contra de los accionistas que infrinjan lo pr
 
 ## TÍTULO TERCERO
 
-### CAPÍTULO ÚNICO. De las filiales de instituciones financieras del exterior
+### CAPITULO SEPTIMO. DISPOSICIONES COMPLEMENTARIAS
 
 ###### Artículo 67.
 
