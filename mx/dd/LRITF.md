@@ -4,7 +4,7 @@ identifier: "LRITF"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-09"
-last_updated: "2021-05-20"
+last_updated: "2024-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127026&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRITF"
 
 LEY PARA REGULAR LAS INSTITUCIONES DE TECNOLOGÍA FINANCIERA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 9 de marzo de 2018.
 
@@ -934,9 +934,11 @@ c) Poner en peligro el funcionamiento del sistema financiero.
 
 La orden de suspensión o limitación de manera parcial de sus actividades u Operaciones a que se refiere este artículo se impondrán sin perjuicio de las sanciones que puedan resultar aplicables en términos de lo previsto en esta Ley y demás disposiciones que resulten aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2024)</small>
+
 ###### Artículo 69.
 
-La CNBV con aprobación del Comité Interinstitucional, y después de escuchar a la ITF afectada, podrá declarar la revocación de la autorización que le haya otorgado a dicha ITF, en los casos siguientes:
+La CNBV después de escuchar a la ITF afectada, y con aprobación del Comité Interinstitucional, podrá declarar la revocación de la autorización que le haya otorgado a dicha ITF, en los casos siguientes:
 
 I. Si no mantiene el capital mínimo o neto necesario para llevar a cabo sus actividades de acuerdo con lo previsto en esta Ley y las disposiciones de carácter general que para tal efecto se emitan;
 
@@ -958,7 +960,25 @@ VIII. Cometer alguna de las conductas calificadas como graves en esta Ley, y
 
 IX. Si la ITF de que se trate, por conducto de su representante legal, así lo solicita, siempre que no existan Operaciones pendientes de liquidar entre sus Clientes o, en caso de Operaciones pendientes, que haya cedido su administración, cumpliendo con las disposiciones legales y contractuales aplicables. En este caso, la sociedad deberá modificar sus estatutos para no contemplar su operación como ITF.
 
-La revocación impedirá que la ITF pueda realizar nuevas Operaciones a partir de la fecha en que se notifique la resolución correspondiente y obligará a la ITF a efectuar los actos necesarios para que se concluyan todas las Operaciones que se realizaron previamente o, a su cesión conforme a la fracción IX de este artículo. Una vez realizado lo anterior, la ITF deberá iniciar su proceso de liquidación, salvo por el caso establecido en dicha fracción IX.
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+La Comisión otorgará el derecho de audiencia a la ITF interesada a fin de que, dentro del plazo de diez días hábiles, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, manifieste por escrito lo que a su interés convenga y ofrezca pruebas. La Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere este párrafo, hasta por el mismo lapso, atendiendo a las circunstancias particulares del caso. Las notificaciones surtirán efectos al día hábil siguiente a aquél en que se practiquen.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Concluido el plazo a que se refiere el párrafo anterior y, en su caso el de su ampliación, la Comisión contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Una vez desahogadas las pruebas, la Comisión notificará a la ITF la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión respectiva contará con un plazo no mayor a ciento ochenta días hábiles para obtener la aprobación del Comité Interinstitucional y emitir y notificar la resolución que ponga fin a los procedimientos administrativos de revocación a que se refiere el presente artículo.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+La declaración de revocación se publicará en el Diario Oficial de la Federación y deberá inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la ITF de que se trate, para lo cual el Registro únicamente requerirá previa notificación de la CNBV.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+La revocación incapacitará a la ITF para realizar nuevas Operaciones a partir de la fecha en que se notifique la resolución correspondiente y salvo por el caso establecido en la fracción IX de este artículo, pondrá en estado de disolución y liquidación a la sociedad, sin necesidad del acuerdo de la asamblea de accionistas.
 
 ### CAPÍTULO IV. De la Inspección, Vigilancia e Intercambio de Información
 
@@ -1320,6 +1340,22 @@ IV. Si realiza operaciones, actividades o servicios distintos de los contemplado
 
 V. Si así lo solicita, siempre que no existan operaciones pendientes de liquidar entre sus Clientes.
 
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Las Comisiones Supervisoras, otorgarán el derecho de audiencia previsto en este artículo a la sociedad interesada, a fin de que dentro del plazo de diez días hábiles, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, manifieste por escrito lo que a su interés convenga y ofrezca pruebas. A petición de parte, dichas Autoridades podrán ampliar por una sola ocasión el plazo a que se refiere este párrafo, hasta por el mismo lapso, atendiendo a las circunstancias particulares del caso. Las notificaciones surtirán efectos al día hábil siguiente a aquél en que se practiquen.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Concluido el plazo a que se refiere el párrafo anterior, y en su caso el de su ampliación, las Comisiones Supervisoras, contarán con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Transcurrido el plazo para el desahogo de las pruebas, la Comisión Supervisora notificará a la ITF de que se trate la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión respectiva podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión Supervisora contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin a los procedimientos administrativos de revocación a que se refiere el presente artículo.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+La revocación de las autorizaciones temporales otorgadas conforme al artículo 80 de esta Ley, deberán anotarse en el Registro previsto por el artículo 83, e incapacitará a la sociedad cuya autorización le fue revocada para continuar realizando las actividades u operaciones cuya realización requiere de una autorización, registro o concesión de conformidad con esta Ley o por otra ley financiera, a partir de la fecha en que se notifique la resolución correspondiente.
+
 ## TÍTULO V. Grupo de Innovación Financiera
 
 ###### Artículo 93.
@@ -1358,7 +1394,9 @@ Las sanciones que en términos de esta Ley corresponda imponer a la CONDUSEF, se
 
 Las Comisiones Supervisoras o el Banco de México, en la imposición de sanciones de carácter administrativo a que se refiere esta Ley, se sujetarán a lo siguiente:
 
-I. Se otorgará audiencia al presunto infractor, quien en un plazo de diez días hábiles contado a partir del día hábil siguiente a aquel en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga, ofrecer pruebas y formular alegatos. Las Comisiones Supervisoras o el Banco de México, a petición de parte, podrán ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. La notificación surtirá efectos al día hábil siguiente a aquel en que se practique;
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
+
+I. Se otorgará audiencia al presunto infractor, quien en un plazo de diez días hábiles contado a partir del día hábil siguiente a aquel en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga y ofrecer pruebas. Las Comisiones Supervisoras o el Banco de México, a petición de parte, podrán ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. Las notificaciones surtirán efectos al día hábil siguiente a aquel en que se practiquen;
 
 II. En caso de que el presunto infractor no hiciere uso del derecho de audiencia a que se refiere la fracción anterior dentro del plazo concedido o bien, habiéndolo ejercido no logre desvirtuar las imputaciones que se señalan en su contra, se tendrán por acreditadas las infracciones imputadas y se procederá a la imposición de la sanción administrativa correspondiente;
 
@@ -1394,7 +1432,15 @@ g) Los riesgos por la celebración de las Operaciones que hayan dado lugar a la 
 
 h) Las demás circunstancias que las Comisiones Supervisoras o el Banco de México estime aplicables para tales efectos.
 
-La resolución del procedimiento de imposición de sanciones deberá ser emitida en un plazo que no exceda los noventa días hábiles posteriores a la fecha en que se emplazó al infractor, cuando lo inicie el respectivo presidente de las Comisiones Supervisoras o los servidores públicos en quienes se delegue esta facultad o el servidor público del Banco de México.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Concluido el plazo a que se refiere la fracción I de este artículo y en su caso el de su ampliación, las Comisiones Supervisoras o el Banco de México, según corresponda, contarán con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Una vez desahogadas las pruebas admitidas al presunto infractor, la autoridad que corresponda de las señaladas en el párrafo anterior notificará al mismo la apertura del periodo de cinco días hábiles para formular alegatos. La Autoridad respectiva podrá realizar dicha notificación por estrados o por cualquier otro medio, en los casos que así lo determine. Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y las Comisiones Supervisoras o el Banco de México, según corresponda, contarán con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento sancionador, imponiendo, en su caso, las sanciones que conforme a derecho procedan.
 
 ###### Artículo 99.
 
@@ -1520,9 +1566,23 @@ VIII. Exceder los límites de operación a que están sujetas las ITF conforme a
 
 IX. Incumplir con lo señalado en el artículo 55 de esta Ley cuando se incumplan los requerimientos de capital.
 
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
 ###### Artículo 106.
 
-Las facultades de las Comisiones Supervisoras y el Banco de México para imponer las sanciones de carácter administrativo previstas en esta Ley, así como en las disposiciones que de ella emanen, caducarán en un plazo de cinco años, contado a partir del día hábil siguiente a aquel en que se realizó la conducta o se actualizó el supuesto de infracción.
+Las facultades de las Comisiones Supervisoras y el Banco de México para imponer las sanciones de carácter administrativo previstas en esta Ley, así como en las disposiciones que de ella emanen, caducarán en un plazo de cinco años, contado a partir del día hábil siguiente a aquél en que se realizó la conducta o se actualizó el supuesto de infracción. En el caso de una conducta continua, el plazo referido deberá computarse a partir de que cesó la conducta infractora. Tratándose de conductas continuadas, el plazo referido correrá a partir de que se consumó la última conducta.
+
+La caducidad referida en el párrafo anterior, se interrumpirá a partir de la notificación al presunto infractor del oficio mediante el cual se le concede el derecho de audiencia.
+
+El plazo de caducidad señalado en el párrafo inmediato anterior se interrumpirá al iniciarse los procedimientos relativos. Se entenderá que el procedimiento de que se trata ha iniciado a partir de la notificación al presunto infractor del oficio mediante el cual se le concede el derecho de audiencia.
+
+Asimismo, el plazo de cinco años previsto por este artículo se suspenderá:
+
+I. Hasta por dos años, cuando la Entidad Financiera: no se ubique en el domicilio registrado ante la Autoridad respectiva sin que haya presentado el aviso de cambio correspondiente, o hubiere señalado un domicilio incorrecto.
+
+El citado plazo se reanudará a partir de la fecha en que la Autoridad tenga conocimiento del domicilio actual.
+
+II. Cuando la Entidad Financiera haya controvertido cualquiera de los actos relacionados con el proceso de imposición de la sanción. Dicha suspensión se computará desde la fecha de interposición del medio de defensa y hasta aquella en que se dicte la resolución definitiva correspondiente.
 
 ###### Artículo 107.
 
@@ -1979,3 +2039,15 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 24 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS LEYES FINANCIERAS EN MATERIA DE PROCEDIMIENTO ADMINISTRATIVO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los procedimientos administrativos sancionadores que, a la fecha de entrada del presente Decreto, se hubieren iniciado deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación al presunto infractor.
+
+Tercero.- Las resoluciones que pongan fin a los procedimientos administrativos de revocación que se hubieren iniciado mediante la notificación del acto a través del cual se concede el derecho de audiencia, antes de la entrada en vigor del presente Decreto, deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación a la institución o entidad correspondiente.
+
+Cuarto.- La sustanciación y resolución de los procedimientos sancionadores que, a la fecha de entrada del presente Decreto, hubiere iniciado el Banco de México se regirán por lo dispuesto en las Reglas de Supervisión, Programas de Autocorrección y del Procedimiento Sancionador, vigentes en la misma fecha de entrada en vigor del presente Decreto.
