@@ -4,7 +4,7 @@ identifier: "LNUF"
 country: "mx"
 rank: "ley"
 publication_date: "2019-05-27"
-last_updated: "2019-05-27"
+last_updated: "2024-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136398&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LNUF"
 
 LEY NACIONAL SOBRE EL USO DE LA FUERZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2024.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el lunes 27 de mayo de 2019.
 
@@ -98,7 +98,9 @@ XII. Ley: la Ley Nacional sobre el Uso de la Fuerza;
 
 XIII. Sujetos Obligados: las instituciones de seguridad pública, las auxiliares, y los agentes de ambas, y
 
-XIV. Uso de la Fuerza: la inhibición por medios mecánicos o biomecánicos, de forma momentánea o permanente, de una o más funciones corporales que lleva a cabo una persona autorizada por el Estado sobre otra, siguiendo los procedimientos y protocolos que establecen las normas jurídicas aplicables.
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
+
+XIV. Uso de la Fuerza: la inhibición por medios mecánicos o biomecánicos, de forma momentánea o permanente, de una o más funciones corporales que lleva a cabo una persona autorizada por el Estado sobre otra, siguiendo los procedimientos y protocolos que establecen las normas jurídicas aplicables; su finalidad es salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas, así como contribuir a la generación, preservación o restablecimiento del orden público, seguridad y la paz social.
 
 ### Capítulo II. Principios del Uso de la Fuerza
 
@@ -112,9 +114,21 @@ II. Legalidad: para que la acción de las instituciones de seguridad se realice 
 
 III. Prevención: para que los operativos para el cumplimiento de la ley sean planificados y se lleven a cabo, en la medida de lo posible, minimizando el uso de la fuerza y, cuando esto sea inevitable, reduciendo al mínimo los daños que de ello puedan resultar;
 
-IV. Proporcionalidad: para que el nivel de fuerza utilizado sea acorde con el nivel de resistencia ofrecido por el agresor y el nivel de riesgo exhibido, de tal forma que los agentes apliquen medios y métodos bajo un criterio de uso diferenciado y progresivo de la fuerza, y
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
 
-V. Rendición de cuentas y vigilancia: para que existan controles que permitan la evaluación de las acciones de uso de la fuerza y sea valorada su eficacia en términos del desempeño de las responsabilidades y funciones previstas por esta Ley.
+IV. Proporcionalidad: para que el nivel de fuerza utilizado sea acorde con el nivel de resistencia ofrecido por el agresor y el nivel de riesgo exhibido, de tal forma que los agentes apliquen medios y métodos bajo un criterio de uso diferenciado y progresivo de la fuerza;
+
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
+
+V. Rendición de cuentas y vigilancia: para que existan controles que permitan la evaluación de las acciones de uso de la fuerza y sea valorada su eficacia en términos del desempeño de las responsabilidades y funciones previstas por esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2024)</small>
+
+VI. Racionalidad: decisión en la que se valora el objetivo que se persigue, las circunstancias de la agresión, las características personales y las capacidades tanto del sujeto a controlar como del integrante de las fuerzas de seguridad; lo que implica que, dada la existencia del acto o intención hostil, es necesario la aplicación del uso de la fuerza, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2024)</small>
+
+VII. Oportunidad: cuando se requiera hacer uso de la fuerza, se debe evitar todo tipo de actuación innecesaria cuando exista evidente peligro o riesgo de la vida de las personas ajenas a los hechos. Esto significa que debe procurarse en el momento y en el lugar en que se reduzcan al máximo los daños y afectaciones tanto a la vida como a la integridad de las personas involucradas y sus bienes y en general, la afectación de los derechos de las personas.
 
 ###### Artículo 5.
 
@@ -134,9 +148,9 @@ IV. Inmovilización: utilizar la fuerza física con intensidad, pudiendo emplear
 
 V. Incapacitación: utilizar la fuerza física con máxima intensidad, permitiendo el empleo de armas menos letales, así como sustancias químicas irritantes que perturben las funciones sensoriales, con la finalidad de neutralizar la resistencia y la violencia, teniendo alta probabilidad de causar lesiones que no pongan en riesgo la vida del agresor;
 
-(NOTA: EL 26 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS III, TEMA 2.1 Y IV, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE NOVIEMBRE DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
 
-VI. Lesión grave: utilizar la fuerza EPILETAL, permitiendo el uso de armas menos letales o de fuego con la finalidad de neutralizar a los agresores y proteger la integridad de la autoridad o de personas ajenas, con alta probabilidad de dañar gravemente al agresor, y
+VI. Lesión grave: utilizar la fuerza, permitiendo el uso de armas menos letales o de fuego con la finalidad de neutralizar a los agresores y proteger la integridad de la autoridad o de personas ajenas, con alta probabilidad de dañar gravemente al agresor, y
 
 VII. Muerte: utilizar la fuerza letal como una acción excepcional, permitiendo el uso de armas menos letales o de fuego con la finalidad de repeler y neutralizar la agresión, no teniendo otra opción para proteger la vida de las personas ajenas o la propia, a sabiendas que existe un alto riesgo de causar la muerte del agresor.
 
@@ -511,3 +525,13 @@ Tercero. Para cumplir con la obligación contenida en el artículo 38, las insti
 Ciudad de México, a 23 de mayo de 2019.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Nancy de la Sierra Arámburo, Secretaria.- Dip. Julieta Macías Rábago, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de mayo de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 24 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 3, 4 Y 6 DE LA LEY NACIONAL SOBRE EL USO DE LA FUERZA”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las instituciones de seguridad revisarán y, en su caso, actualizarán los protocolos de actuación, los manuales de técnicas para el uso de la fuerza, la descripción de las conductas a realizar por parte de los agentes y los cursos de capacitación para el efecto de incorporar la finalidad del uso de la fuerza y los principios de oportunidad y racionalidad, en sus contenidos, para lo que tendrán un plazo de 60 días hábiles contados a partir del día siguiente a la entrada en vigor del presente Decreto.
