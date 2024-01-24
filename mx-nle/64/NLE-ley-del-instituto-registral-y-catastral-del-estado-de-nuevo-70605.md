@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-registral-y-catastral-del-estado-de-nuevo-706
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-11"
-last_updated: "2015-11-09"
+last_updated: "2024-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70605&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 2009.
 
@@ -88,6 +88,10 @@ VI. Normatividad: Disposiciones materialmente legislativas.
 ###### Artículo 7.
 
 El Instituto tendrá por objeto integrar, electrónicamente, la información de las bases de datos y archivos públicos del Registro Público de la Propiedad y del Comercio, en su caso, y el Catastro del Estado, con el objeto de brindar seguridad y certidumbre a los actos jurídicos celebrados o con efectos en el Estado, promover y procurar la eficiencia y eficacia de las funciones administrativas del Gobierno de Nuevo León y fortalecer el funcionamiento racional de la sociedad, procurando que en el Estado se cuente con información veraz y confiable; así como realizar las funciones y prestar los servicios relativos al registro público de la propiedad y del comercio y el catastro en el Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
+
+Para efectos de lo anterior, entre otros instrumentos, empleará la Alerta Registral y Catastral en términos de lo que se disponga en el reglamento correspondiente.
 
 ###### Artículo 8.
 
@@ -524,3 +528,19 @@ Tercero.- Los procedimientos judiciales iniciados con anterioridad a la entrada 
 P.O. 9 DE NOVIEMBRE DE 2015.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 501. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE NOTARIADO DEL ESTADO DE NUEVO LEÓN; DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN; DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN; Y LA LEY DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE NUEVO LEÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo de 180 días naturales contados a partir de la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado deberá realizar las adecuaciones a los reglamentos correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos judiciales iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
