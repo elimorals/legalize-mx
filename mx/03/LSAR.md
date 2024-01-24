@@ -4,7 +4,7 @@ identifier: "LSAR"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-23"
-last_updated: "2020-12-16"
+last_updated: "2024-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2613&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSAR"
 
 LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 23 de mayo de 1996.
 
@@ -1184,9 +1184,21 @@ Previo a la revocación de la autorización, la Comisión deberá proceder confo
 
 I. Notificar personalmente al interesado la determinación de revocar la autorización de que se trate;
 
-II. Conceder al interesado un plazo de 15 días hábiles siguientes a la fecha en que surta efectos la notificación, a fin de que manifieste lo que a su derecho convenga, ofreciendo o acompañando, en su caso, las pruebas que considere convenientes; y
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
 
-III. Una vez analizados los argumentos hechos valer y desahogadas y valoradas las pruebas ofrecidas, la Comisión dictará y notificará la resolución correspondiente, la cual no admitirá recurso administrativo alguno.
+II. Conceder al interesado un plazo de diez días hábiles contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, que a petición de parte se podrá ampliar por el mismo lapso por una sola vez para lo cual se considerarán las circunstancias particulares del caso; a fin de que manifieste lo que a su derecho convenga, ofreciendo o acompañando, en su caso, las pruebas que considere convenientes;
+
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
+
+III. Concluido el plazo a que se refiere la fracción anterior y, en su caso, el de su ampliación, la Comisión contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2024)</small>
+
+IV. Al día hábil siguiente de concluido el plazo para el desahogo de las pruebas la Comisión notificará a la interesada de que se trate la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2024)</small>
+
+V. Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento administrativo a que se refiere el presente artículo. La resolución correspondiente, no admitirá recurso administrativo alguno.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -1306,9 +1318,25 @@ XV. Ejecutar u omitir actos que impidan la prestación continua de los servicios
 
 XVI. Por incurrir en cualquier otra causal de revocación prevista en esta ley, sus reglamentos o en el título de concesión.
 
-La Secretaría de Hacienda y Crédito Público podrá revocar las concesiones de manera inmediata únicamente en los supuestos de las fracciones II, VIII, XI, XII, XIII y XV anteriores.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
 
-En los demás supuestos se requerirá que la sanción se haya impuesto por lo menos en cinco ocasiones.
+La Secretaría de Hacienda y Crédito Público podrá revocar las concesiones en caso de que se actualice cualquiera de los supuestos señalados en las fracciones II, VIII, XI, XII, XIII y XV anteriores.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+En los demás supuestos previstos en este artículo, para la procedencia de la revocación, se requerirá que la concesionaria los haya actualizado por lo menos en cinco ocasiones.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Para otorgar el derecho de audiencia que refiere el presente artículo, la Secretaría de Hacienda y Crédito Público deberá conceder un plazo de diez días hábiles, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, para que la concesionaria manifieste lo que a su derecho convenga y ofrezca las pruebas que considere convenientes. Dicho plazo podrá ampliarse por una sola ocasión, hasta por el mismo lapso, para lo cual se considerará las circunstancias particulares del caso y notificará a la Institución la resolución correspondiente. Las notificaciones surtirán efectos al día hábil siguiente a aquél en que se practiquen.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Concluido el plazo señalado en el párrafo anterior y, en su caso, el de su ampliación, la Secretaría contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Transcurrido el plazo para el desahogo de las pruebas la Secretaría de Hacienda y Crédito Público notificará a la interesada de que se trate la apertura del periodo de cinco días hábiles para formular alegatos. La Secretaría podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Secretaría de Hacienda y Crédito Público contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento administrativo de revocación a que se refiere el presente artículo.
 
 ###### ARTICULO 62.
 
@@ -1696,9 +1724,11 @@ La información que cumpliendo con los procedimientos establecidos se integre a 
 
 #### Sección II. De la Supervisión
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2024)</small>
+
 ###### ARTICULO 89.
 
-La supervisión que realice la Comisión se sujetará al Reglamento de esta Ley, y comprenderá el ejercicio de las facultades de inspección, vigilancia, prevención y corrección que se confieren a la Comisión en esta ley, así como en otras leyes y disposiciones aplicables. Tratándose de las instituciones de crédito la supervisión se realizará exclusivamente por lo que respecta a las operaciones que realicen en relación con los referidos sistemas.
+La supervisión que realice la Comisión se sujetará al Reglamento de esta Ley, y comprenderá los procedimientos correspondientes al ejercicio de las facultades de inspección, vigilancia, prevención y corrección que se confieren a la Comisión en esta Ley, así como en otras leyes y disposiciones aplicables. Tratándose de las instituciones de crédito la supervisión se realizará exclusivamente por lo que respecta a las operaciones que realicen en relación con los referidos sistemas.
 
 La supervisión de los participantes en los sistemas de ahorro para el retiro tendrá por objeto evaluar los riesgos a que están sujetos, sus sistemas de control y la calidad de su administración, a fin de procurar que los mismos mantengan una adecuada liquidez, sean solventes y estables y, en general se ajusten a las disposiciones que los rigen y a los usos y sanas prácticas de los mercados financieros. Asimismo, por medio de la supervisión se evaluarán de manera consolidada los riesgos de los participantes en los sistemas de ahorro para el retiro agrupados o que tengan nexos patrimoniales, así como en general el adecuado funcionamiento de dichos sistemas.
 
@@ -1752,6 +1782,10 @@ La información y documentos que obtenga la Comisión en el ejercicio de sus fac
 
 La inspección que practique la Comisión se efectuará a través de visitas, verificación de operaciones y auditorías de registros y sistemas, en las instalaciones o equipos automatizados de los participantes en los sistemas de ahorro para el retiro.
 
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Los procedimientos de inspección que la Comisión lleve a cabo, deberán concluirse dentro de un plazo de doce meses contado a partir de que se notifique al Participante en los Sistemas de Ahorro para el Retiro la orden de visita.
+
 > <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 Cuando en virtud de la inspección se presuma falta de cumplimiento por parte de los obligados a cubrir las cuotas y aportaciones a los sistemas de ahorro para el retiro, la Comisión comunicará tal situación, según corresponda, a la Secretaría de Hacienda y Crédito Público, al Instituto Mexicano del Seguro Social, al Instituto del Fondo Nacional de la Vivienda para los Trabajadores y a la Secretaría de la Función Pública.
@@ -1761,6 +1795,10 @@ Cuando en virtud de la inspección se presuma falta de cumplimiento por parte de
 La vigilancia se efectuará por medio del análisis de la información económica y financiera, a fin de medir posibles efectos en los participantes y en los sistemas de ahorro para el retiro en su conjunto. Asimismo, consistirá en cuidar que los participantes en los sistemas de ahorro para el retiro, cumplan con ésta y las demás leyes relativas, así como con las disposiciones que emanen de ellas, y atiendan las observaciones e indicaciones de la Comisión, resultado de las visitas de inspección o de otras medidas de control practicadas.
 
 Las medidas adoptadas en ejercicio de esta facultad serán preventivas para preservar la estabilidad y buen funcionamiento de los sistemas de ahorro para el retiro, y normativas para definir criterios y establecer reglas y procedimientos a los que deban ajustarse los participantes en los sistemas de ahorro para el retiro conforme a lo previsto en esta ley.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Los procedimientos de vigilancia que la Comisión lleve a cabo, deberán concluirse dentro de un plazo de doce meses contado a partir de que se notifique al Participante en los Sistemas de Ahorro para el Retiro el inicio de dichos actos.
 
 ###### ARTICULO 94.
 
@@ -1824,9 +1862,13 @@ El incumplimiento o la contravención a las normas previstas en la presente ley,
 
 Si después de haber sido sancionada una conducta hubiera reincidencia o el mismo incumplimiento en forma reiterada, ésta se sancionará con multa cuyo importe será equivalente de hasta el doble de la sanción impuesta originalmente. Igualmente, cuando la Comisión además de imponer la sanción que corresponda otorgue al infractor un plazo para que cumpla con la obligación omitida o para que normalice la operación irregular motivo de la sanción o realice el resarcimiento de daños a los Trabajadores y el infractor no dé cumplimiento a ello, este nuevo incumplimiento será sancionado como reincidencia.
 
-> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
 
-Para imponer la multa que corresponda, la Comisión deberá oír previamente al interesado. Para tal efecto, la Comisión deberá otorgar un plazo de diez días hábiles, que podrá prorrogar por una sola vez, para que el interesado manifieste lo que a su derecho convenga ofreciendo o acompañando, en su caso, las pruebas que considere convenientes. Agotado el plazo o la prórroga señalados anteriormente, si el interesado no ejerció su derecho de audiencia se tendrá por precluido el derecho y con los elementos existentes en el expediente administrativo correspondiente, se procederá a emitir la resolución que corresponda, ajustándose a lo dispuesto en el presente artículo.
+Para imponer la multa que corresponda, la Comisión deberá oír previamente al interesado. Para tal efecto, la Comisión iniciará el procedimiento sancionador, dándole a conocer al interesado las causas por la cual se considera que existen irregularidades, otorgando un plazo de diez días hábiles, contado a partir del día hábil siguiente a aquel en que surta efectos la notificación correspondiente, mismo que, a petición de parte podrá ampliarse por una sola vez por el mismo lapso considerando las condiciones particulares del caso; para que el interesado manifieste lo que a su derecho convenga ofreciendo o acompañando, en su caso, las pruebas que considere convenientes.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Concluido el plazo señalado en el párrafo anterior y, en su caso, el de su ampliación, la Comisión notificará al interesado la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine. Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento sancionador a que se refiere el presente artículo.
 
 > <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -1847,6 +1889,24 @@ Las multas que se impongan en términos de la presente ley no excederán en ning
 > <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
 Lo dispuesto en el presente artículo no excluye la imposición de las sanciones que conforme a ésta u otras leyes fueren aplicables por la comisión de otras infracciones o delitos, ni la revocación de las autorizaciones o concesiones otorgadas a los participantes en los sistemas de ahorro para el retiro a que alude la presente ley.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+La facultad de la Comisión y de la Secretaría de Hacienda y Crédito Público para imponer sanciones de carácter administrativo señaladas en esta Ley, caducará en un plazo de cinco años, contado a partir del día hábil siguiente a aquel en que se realizó la conducta o se actualizó el supuesto de infracción. Para el caso de conductas continuas, el plazo referido se computará a partir del momento en que cese la misma y tratándose de continuadas, se contará a partir de la consumación de la última conducta.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+La caducidad referida en el párrafo anterior, se interrumpirá a partir de la notificación al presunto infractor del oficio mediante el cual se inician las facultades de supervisión.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Asimismo, el plazo de cinco años previsto por este artículo se suspenderá:
+
+I. Hasta por dos años, cuando el Participante en los Sistemas de Ahorro para el Retiro: no se ubique en el domicilio registrado ante la Autoridad respectiva sin que haya presentado el aviso de cambio correspondiente, o hubiere señalado un domicilio incorrecto.
+
+El citado plazo se reanudará a partir de la fecha en que la Autoridad tenga conocimiento del domicilio actual.
+
+II. Cuando el Participante en los Sistemas de Ahorro para el Retiro haya controvertido cualquiera de los actos relacionados con el proceso de imposición de la sanción. Dicha suspensión se computará desde la fecha de interposición del medio de defensa y hasta aquella en que se dicte la resolución definitiva correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -2232,7 +2292,9 @@ V. Por instructivo, solamente en los casos y con las formalidades a que se refie
 
 En el caso de notificaciones por correo electrónico al buzón designado al efecto, el acuse de recibo consistirá en el documento que transmita automáticamente dicho buzón al recibir el documento digital.
 
-Para efectos de las notificaciones que se realicen por medios diferentes al correo electrónico, el recurso de revocación, las sanciones pecuniarias, el procedimiento de ejecución de las multas impuestas, la disminución en el pago y la garantía que deban otorgar las personas y sociedades que impugnen dichas multas, se estará a lo dispuesto por esta Ley y supletoriamente a lo previsto en el Código Fiscal de la Federación y en lo no previsto por éste, se estará a lo previsto en el Código Federal de Procedimientos Civiles.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Para efectos de los procedimientos de supervisión, las notificaciones que se realicen por medios diferentes al correo electrónico, el recurso de revocación, las sanciones, el procedimiento de ejecución de las multas impuestas, la disminución en el pago y la garantía que deban otorgar las personas y sociedades que impugnen dichas multas, se estará a lo dispuesto por esta Ley, su Reglamento y supletoriamente a lo previsto en el Código Fiscal de la Federación y en lo no previsto por éste, se estará a lo previsto en el Código Federal de Procedimientos Civiles.
 
 ###### ARTICULO 112.
 
@@ -2743,3 +2805,15 @@ Los procedimientos de designación de beneficiarios que, a la fecha de entrada e
 Décimo. Para efectos de lo dispuesto en el artículo 37, párrafo octavo, de la Ley de los Sistemas de Ahorro para el Retiro, la Junta de Gobierno de la Comisión Nacional del Sistema de Ahorro para el Retiro contará con un plazo de 30 días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones necesarias a las disposiciones de carácter general correspondientes a efecto de dar cumplimiento a lo dispuesto en el mismo.
 
 Décimo Primero. Se derogan todas aquellas disposiciones que se opongan a lo previsto el presente Decreto.
+
+D.O.F. 24 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS LEYES FINANCIERAS EN MATERIA DE PROCEDIMIENTO ADMINISTRATIVO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los procedimientos administrativos sancionadores que, a la fecha de entrada del presente Decreto, se hubieren iniciado deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación al presunto infractor.
+
+Tercero.- Las resoluciones que pongan fin a los procedimientos administrativos de revocación que se hubieren iniciado mediante la notificación del acto a través del cual se concede el derecho de audiencia, antes de la entrada en vigor del presente Decreto, deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación a la institución o entidad correspondiente.
+
+Cuarto.- La sustanciación y resolución de los procedimientos sancionadores que, a la fecha de entrada del presente Decreto, hubiere iniciado el Banco de México se regirán por lo dispuesto en las Reglas de Supervisión, Programas de Autocorrección y del Procedimiento Sancionador, vigentes en la misma fecha de entrada en vigor del presente Decreto.
