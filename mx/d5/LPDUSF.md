@@ -4,7 +4,7 @@ identifier: "LPDUSF"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-18"
-last_updated: "2018-03-09"
+last_updated: "2024-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12994&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPDUSF"
 
 LEY DE PROTECCIÓN Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 18 de enero de 1999.
 
@@ -106,11 +106,15 @@ Las Instituciones Financieras por conducto de sus organismos de representación 
 
 El Ejecutivo Federal, a través de la Secretaría, podrá interpretar para efectos administrativos los preceptos de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 7o.
 
-Para efecto de las notificaciones de los actos administrativos que emita la Comisión Nacional, a falta de norma que provea un procedimiento específico, se aplicará lo dispuesto en la Ley Federal de Procedimiento Administrativo.
+Las notificaciones que realice la Comisión Nacional podrán efectuarse electrónicamente mediante los sistemas que la misma señale en las disposiciones de carácter general que al efecto emita. En lo no previsto en las disposiciones señaladas en el presente párrafo respecto de las notificaciones electrónicas, así como en el caso en que no sea posible la notificación a través de dicha vía, será aplicable el Código Fiscal de la Federación en la parte relativa a las notificaciones.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Todas las actuaciones deberán practicarse en días y horas hábiles. Serán días hábiles, todos los días del año, salvo sábados y domingos, así como los que determine la Comisión Nacional, mediante publicación que realice en el Diario Oficial de la Federación. Serán horas hábiles las comprendidas entre las nueve y las dieciocho horas.
 
 Esta disposición no será aplicable a las notificaciones y resoluciones dictadas dentro del procedimiento de arbitraje seguido conforme a lo previsto en esta Ley.
 
@@ -1618,15 +1622,39 @@ En caso de reincidencia, de conformidad con lo señalado por el artículo siguie
 
 Cuando la Comisión Nacional, además de imponer la sanción respectiva, requiera al infractor para que en un plazo determinado cumpla con la obligación omitida o para que normalice la operación irregular motivo de la sanción y éste incumpla, sancionará este hecho como reincidencia.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 96.
 
-Para poder imponer la multa que corresponda, la Comisión Nacional deberá oír previamente a la Institución Financiera presuntamente infractora, dentro del plazo que fije la propia Comisión Nacional y que no podrá ser inferior a cinco días hábiles y tener en cuenta las condiciones económicas de la misma, la gravedad de la falta cometida, así como la necesidad de evitar reincidencias y prácticas tendientes a contravenir las disposiciones contenidas en esta Ley.
+Para poder imponer la multa que corresponda, la Comisión Nacional deberá oír previamente a la Institución Financiera presuntamente infractora y tener en cuenta las condiciones económicas de la misma, la gravedad de la falta cometida, así como la necesidad de evitar reincidencias y prácticas tendientes a contravenir las disposiciones contenidas en esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+La facultad de la Comisión Nacional para imponer las sanciones de carácter administrativo señaladas en esta Ley, caducará en un plazo de cinco años, contados a partir del día siguiente a aquel en que se realizó la conducta o se actualizó el supuesto de la infracción.
 
-La facultad de la Comisión Nacional para imponer sanciones caducará en un plazo de cinco años, contado a partir del día siguiente a aquel en que se realizó la conducta o se actualizó el supuesto de la infracción.
+El plazo de cinco años previsto en el párrafo anterior se interrumpirá, para efectos del inicio del procedimiento administrativo sancionador, a partir del momento de la notificación al presunto infractor del oficio mediante el cual se le concede el derecho de audiencia, en términos de lo previsto en el primer párrafo del presente artículo, sin que ello implique exceder el plazo señalado en el párrafo anterior.
+
+Asimismo, el plazo de cinco años previsto por este artículo se suspenderá:
+
+I. Hasta por dos años, cuando la Institución Financiera: no se ubique en el domicilio registrado ante la Comisión Nacional sin que haya presentado el aviso de cambio correspondiente, o hubiere señalado un domicilio incorrecto.
+
+El citado plazo se reanudará a partir de la fecha en que la Comisión Nacional tenga conocimiento del domicilio actual.
+
+II. Cuando la Institución Financiera haya controvertido cualquiera de los actos relacionados con el proceso de imposición de la sanción. Dicha suspensión se computará desde la fecha de interposición del medio de defensa y hasta aquella en que se dicte la resolución definitiva correspondiente.
+
+Previo a la imposición de las sanciones, se notificarán por escrito al presunto infractor los hechos que se le imputan y las disposiciones que se consideren probablemente infringidas.
+
+En la notificación a que se refiere el párrafo inmediato anterior, se deberá otorgar el derecho de audiencia al presunto infractor, a fin de que, dentro de un plazo que no podrá ser inferior a diez días hábiles, contados a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, manifieste lo que a su interés convenga y ofrezca pruebas por escrito. La Comisión Nacional, a petición de parte, podrá ampliar por una sola ocasión el plazo mencionado, hasta por el mismo lapso, atendiendo a las circunstancias particulares del caso.
+
+Concluido el plazo a que se refiere el párrafo anterior y, en su caso, el de su ampliación, la Comisión Nacional contará con hasta sesenta días hábiles para el desahogo de las pruebas.
+
+En el procedimiento administrativo sancionador se admitirán toda clase de pruebas, excepto la testimonial y la confesión de las Comisiones Nacionales o de sus servidores públicos, mediante absolución de posiciones.
+
+El ofrecimiento, admisión, preparación, desahogo y valoración de las pruebas se hará en los términos y condiciones establecidos en el Código Federal de Procedimientos Civiles.
+
+Una vez desahogadas las pruebas admitidas al presunto infractor, la Comisión Nacional le notificará la apertura del periodo de cinco días hábiles para formular alegatos.
+
+Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión Nacional contará con un plazo que no excederá de ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento sancionador a que se refiere el presente Capítulo, imponiendo, en su caso, las sanciones que conforme a derecho procedan.
+
+Para la imposición de sanciones se considerarán graves los incumplimientos sancionados en términos de las fracciones I, de la III a la V y de la XI a la XVI del artículo 94 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2000)</small>
 
@@ -1955,3 +1983,15 @@ D.O.F. 9 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE EXPIDE LA LEY PARA REGULAR LAS INSTITUCIONES DE TECNOLOGÍA FINANCIERA Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE CRÉDITO, DE LA LEY DEL MERCADO DE VALORES, DE LA LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO, DE LA LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS SOCIEDADES DE INFORMACIÓN CREDITICIA, DE LA LEY DE PROTECCIÓN Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES Y, DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, salvo que en las Disposiciones Transitorias de este Decreto se disponga lo contrario.
+
+D.O.F. 24 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS LEYES FINANCIERAS EN MATERIA DE PROCEDIMIENTO ADMINISTRATIVO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los procedimientos administrativos sancionadores que, a la fecha de entrada del presente Decreto, se hubieren iniciado deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación al presunto infractor.
+
+Tercero.- Las resoluciones que pongan fin a los procedimientos administrativos de revocación que se hubieren iniciado mediante la notificación del acto a través del cual se concede el derecho de audiencia, antes de la entrada en vigor del presente Decreto, deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación a la institución o entidad correspondiente.
+
+Cuarto.- La sustanciación y resolución de los procedimientos sancionadores que, a la fecha de entrada del presente Decreto, hubiere iniciado el Banco de México se regirán por lo dispuesto en las Reglas de Supervisión, Programas de Autocorrección y del Procedimiento Sancionador, vigentes en la misma fecha de entrada en vigor del presente Decreto.
