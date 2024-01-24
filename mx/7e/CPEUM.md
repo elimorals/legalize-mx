@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2023-06-06"
+last_updated: "2024-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2024.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -2256,13 +2256,11 @@ Incurrirán en responsabilidad, y se harán acreedores a las sanciones que la le
 
 Los diputados y senadores que no concurran a una sesión, sin causa justificada o sin permiso de la Cámara respectiva, no tendrán derecho a la dieta correspondiente al día en que falten.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DÉCIMO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2024)</small>
 
 ###### Art. 65.
 
-El Congreso se reunirá a partir del 1o. de septiembre de cada año para celebrar un primer periodo de sesiones ordinarias, excepto cuando el Presidente de la República inicie su encargo en la fecha prevista en el artículo 83 de esta Constitución, en cuyo caso se reunirá a partir del 1o. de agosto; y a partir del 1o. de febrero para celebrar un segundo periodo de sesiones ordinarias.
+El Congreso se reunirá a partir del 1o. de septiembre de cada año para celebrar un primer periodo de sesiones ordinarias, y a partir del 1o. de febrero para celebrar un segundo periodo de sesiones ordinarias.
 
 > <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 1986)</small>
 
@@ -8895,3 +8893,17 @@ D.O.F. 6 DE JUNIO DE 2023.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Dentro de los 180 días naturales siguientes a su entrada en vigor, el Congreso de la Unión y las Legislaturas de las Entidades Federativas, deberán ajustar sus Constituciones y demás legislación que sea necesaria, a fin de dar cumplimiento al presente Decreto.
+
+D.O.F. 24 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DECLARA REFORMADO EL PRIMER PÁRRAFO DEL ARTÍCULO 65 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE PERIODOS DE SESIONES ORDINARIAS DEL CONGRESO DE LA UNIÓN”.]
+
+Primero. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La duración en el cargo de las y los diputados federales electos para la LXV Legislatura del Congreso de la Unión se computará a partir del 1o. de septiembre de 2021 y hasta el 31 de agosto de 2024.
+
+Tercero. La duración en el cargo de las y los senadores electos para las LXIV y LXV Legislaturas del Congreso de la Unión se computará a partir del 1o. de septiembre de 2018 y hasta el 31 de agosto de 2024.
+
+Cuarto. Las y los diputados federales electos para la LXVI Legislatura, durarán en el ejercicio de su cargo 36 meses, computados a partir del 1o. de septiembre de 2024 y hasta el 31 de agosto de 2027.
+
+Quinto. Las y los senadores electos para las LXVI y LXVII Legislaturas, durarán en el ejercicio de su cargo 72 meses, computados a partir del 1o. de septiembre de 2024 y hasta el 31 de agosto de 2030.
