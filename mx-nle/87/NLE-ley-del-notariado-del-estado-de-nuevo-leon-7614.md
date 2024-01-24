@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-notariado-del-estado-de-nuevo-leon-7614"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-26"
-last_updated: "2020-12-30"
+last_updated: "2024-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL NOTARIADO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de diciembre de 1983.
 
@@ -625,6 +625,14 @@ Cuando se tramite una sucesión ante notario público se deberá recabar el info
 
 Los Notarios, en el ejercicio de su profesión, deben guardar reserva sobre lo pasado ante ellos y están sujetos a las disposiciones del Código Penal sobre violación al secreto profesional, salvo los informes que obligatoriamente establezcan las Leyes respectivas.
 
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
+
+Los notarios están obligados a manifestar y asentar el antecedente y el tracto sucesivo registral del acto u hecho correspondiente. Además, el Notario Público deberá validar el antecedente de la escritura pública por medio del testimonio original o copia certificada del predial pagado, verificando si el bien de que se trate forma parte de un patrimonio familiar.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
+
+Asimismo, deberán utilizar la Alerta Registral y Catastral del Instituto Registral y Catastral del Estado de Nuevo León cuando den fe de cualquier acto u hecho jurídico que deba ser inscrito o del cual se le deba notificar a dicha institución.
+
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ### CAPITULO SEGUNDO. DEL PROTOCOLO ABIERTO, SU APENDICE E INDICE
@@ -650,6 +658,10 @@ Los folios son las hojas numeradas, selladas y autorizadas que serán cronológi
 Los folios son propiedad del Estado pero su manejo queda bajo la estricta responsabilidad del Notario, durante el tiempo que deba conservarlos en términos de esta Ley.
 
 Los folios serán adquiridos previo pago de los derechos correspondientes en la Secretaría de Finanzas y Tesorería General del Estado, serán autorizados por la Dirección del Archivo General de Notarías mediante perforaciones, código de barras o cualquier otro medio indubitable que impida su falsificación, serán numerados progresivamente respecto de cada Notaría, anteponiendo el número de la Notaría en la cual serán utilizados, la demarcación asignada y tendrán impreso o grabado el sello. La entrega de folios no podrá exceder de tres mil.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
+
+El notario deberá suspender cualquier proceso cuando la información no coincida con el folio real correspondiente.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -763,6 +775,50 @@ Asimismo, junto con la documentación a que hace referencia el párrafo anterior
 
 Escritura Pública es el Instrumento que el Notario asienta en su protocolo y autoriza con su firma y sello para hacer constar el o los actos jurídicos que en el mismo se contienen.
 
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
+
+Cuando se otorgue, revoque, termine o renuncie un poder o mandato, otorgado por personas físicas o personas morales con fines no mercantiles ante Notario, éste deberá notificar a la Dirección del Archivo General de Notarías y a la Dirección del Registro Público del Instituto Registral y Catastral de Nuevo León dentro de los cinco días hábiles siguientes a su otorgamiento.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 24 DE ENERO DE 2024)</small>
+
+El aviso de otorgamiento o modificación de un mandato o poder dirigido a la Dirección del Archivo General de Notarías y la Dirección del Registro Público del Instituto Registral y Catastral de Nuevo León deberá contener los siguientes datos:
+
+I. Nombre completo del Notario Público ante el cual se levantó el instrumento público;
+
+II. Carácter con que actúa la persona titular de la Notaría;
+
+III. Número de Notaría Pública;
+
+IV. Distrito a la que pertenece la Notaría;
+
+V. Fecha de elaboración del tipo de instrumento;
+
+VI. Número de instrumento;
+
+VII. Libro;
+
+VIII. Lugar de otorgamiento;
+
+IX. Nombre completo del o los contratantes;
+
+X. Registro Federal de Contribuyentes del o los contratantes;
+
+XI. Tratándose de personas jurídicas, su denominación o razón social;
+
+XII. Clave Única del Registro de Población de los contratantes;
+
+XIII. Nacionalidad de los contratantes;
+
+XIV. Tipo de mandato; y
+
+XV. Facultades conferidas al mandatario.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
+
+###### Artículo 104 Bis.
+
+La Dirección del Archivo General de Notarías será la responsable de inscribir el aviso de otorgamiento o modificación de un mandato o poder en la Plataforma del Registro Nacional de Avisos de Poderes Notariales, perteneciente a la Secretaría de Gobernación, dentro de los cinco días hábiles contados a partir de su recepción.
+
 ###### Artículo 105.
 
 Las escrituras se asentarán con letra clara, sin abreviaturas, salvo el caso de inserción de documentos y sin guarismos, a no ser que la misma cantidad aparezca asentada con Letras. Los blancos o huecos, si los hubiere, se cubrirán con líneas de tinta, precisamente antes de que se firme la escritura.
@@ -770,6 +826,14 @@ Las escrituras se asentarán con letra clara, sin abreviaturas, salvo el caso de
 Las palabras, letras o signos que se hayan de testar, se tacharán con una línea que las deje legibles. Puede entrerrenglonarse lo que se deba agregar. Al final de la escritura se salvará lo testado o entrerrenglonado, haciéndose constar que lo testado no vale y que lo entrerrenglonado si vale y se especificará el número de palabras, letras y signos testados y el de los entrerrenglonados.
 
 Si quedare algún espacio en blanco antes de las firmas, será llenado con líneas de tinta. Se prohiben las enmendaduras y raspaduras.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
+
+Asimismo, las escrituras públicas deberán tener sello digital avalado por la institución competente. Este sello digital avalado referirá el acto jurídico, número de escritura y número de operación.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
+
+Se entiende por sello digital a aquel que acredita que un documento digital fue recibido por la autoridad correspondiente. En este caso, el sello digital identificará al menos a la dependencia que recibió el documento y se presumirá, salvo prueba en contrario, que el documento digital fue recibido en la hora y fecha que se consignen en el acuse de recibo mencionado.
 
 ###### Artículo 106.
 
@@ -801,11 +865,25 @@ VIII.- Dejará acreditada la personalidad y en su caso la existencia y subsisten
 
 IX.- Insertará íntegramente o en lo conducente según el caso, cualesquiera otros documentos que se le presenten, o agregará el original o la copia certificada o copia simple con sello notarial que de él se tome al legajo respectivo del Apéndice. Esto último hará con los planos y documentos relacionados en idioma extranjero que se le exhiban;
 
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
+
+En el caso de actos jurídicos traslativos de dominio, el Notario deberá validar los antecedentes de la escritura con quien se haya realizado la operación previa, ya sea mediante testimonio original o copia certificada del predial pagado.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
+
+Tratándose de bienes inmuebles propiedad del organismo promotor de la vivienda y la regularización en el estado, se deberá dar vista a dicho organismo previo a cualquier procedimiento o protocolización del acto jurídico del que se trate.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
+
+Los testimonios que provengan de Notarios Públicos de otras Entidades Federativas deberán ser avalados por la Dirección de Archivo General de Notarias vigente de la Entidad Federativa a la que pertenezca el Notario.
+
 X.- Al agregar al Apéndice cualquier documento, expresará el número del legajo y la letra bajo la cual se coloca en el legajo;
 
 XI.- Hará constar bajo su fe:
 
-a) Que conoce a los comparecientes y que a su juicio tienen capacidad legal;
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2024)</small>
+
+a) Que conoce a los comparecientes conforme a lo dispuesto por el artículo 107 de la presente Ley y que a su juicio tienen capacidad legal;
 
 b) Que el o los comparecientes declararon sobre la capacidad legal de sus representados;
 
@@ -817,11 +895,15 @@ e) Que ante él manifestaron su conformidad con la escritura y firmaron éste o 
 
 f) La fecha o fechas en que firmaron la escritura los comparecientes o la persona o personas elegidas para ello y los testigos o intérpretes si los hubiere.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2024)</small>
+
 ###### Artículo 107.
 
-Para que el Notario de fe de conocer a los comparecientes y de que tienen capacidad legal, bastará que sepa su nombre y apellidos, que no observe en ellos manifestaciones patentes de incapacidad natural y que no tenga noticias de que estén sujetos a incapacidad civil.
+Para que el Notario dé fe de conocer a los comparecientes y de que tienen capacidad legal, deberá constatar su identidad y capacidad en términos del siguiente párrafo; además deberá observar en ellos que no existan manifestaciones patentes de incapacidad natural y que no tenga noticias de que estén sujetos a incapacidad civil.
 
-En caso de no serle conocidos, hará constar su identidad y capacidad, si le presentan documentos oficiales que las acrediten o por la declaración de dos testigos a quienes conozca el Notario o en su defecto se identifique de la manera antes referida, quien así lo expresará en la escritura. Los testigos deberán ser mayores de edad; para que los testigos aseguren la identidad y capacidad legal de los otorgantes, bastará que sepan su nombre y apellidos, que no observen en ellos manifestaciones patentes de incapacidad natural y que no tengan conocimiento de que estén sujetos a incapacidad civil, para lo cual el Notario les explicará cuáles son las incapacidades naturales y civiles, exceptuando de esta explicación al testigo que sea perito en derecho. En sustitución del testigo que no supiere o no pudiere firmar, lo hará otra persona que al efecto elija y aquél imprimirá sus huellas digitales, en los términos del inciso e) de la fracción XI del artículo 106 de esta ley.
+Para efectos de lo dispuesto en el párrafo anterior, el notario hará constar su identidad y capacidad, con documentos oficiales que las acrediten , que tengan fotografía, nombre y apellidos de la persona de quien se trate o el documento de identidad que llegaren a autorizar las Autoridades Competentes, los cuales examinará y agregará en copia al apéndice, mismos que deberán ser validados a través de biométricos y verificación de las instituciones que emiten dichos documentos oficiales, debiendo dejar constancia de ello.
+
+En aquellos casos que se requiera la presencia de testigos, estos deberán tener la capacidad jurídica en los términos de la legislación aplicable y su identidad se hará constar de la manera descrita en el párrafo anterior. En sustitución del testigo que no supiere o no pudiere firmar, lo hará otra persona que al efecto elija y aquél imprimirá sus huellas digitales, en los términos del inciso e) de la fracción XI del Artículo 106 de esta Ley.
 
 ###### Artículo 108.
 
@@ -969,6 +1051,10 @@ El Notario utilizará el sistema que estime más conveniente, a fin de obtener q
 
 Las hojas del testimonio tendrán las dimensiones que esta Ley fija para las del Protocolo y contendrán el número de renglones que fije el Director del Archivo General de Notarías. Cada hoja del testimonio llevará el sello y rúbrica del Notario al margen.
 
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
+
+Las hojas tendrán características de papel de seguridad con sello digital notarial homologado, autorizado por el Ejecutivo del Estado, por conducto de quien tenga delegada esta facultad en los términos de la Ley Orgánica de la Administración Pública del Estado de Nuevo León.
+
 ###### Artículo 134.
 
 Al expedirse un testimonio deberá ponerse razón en que se exprese:
@@ -1001,13 +1087,33 @@ Los preceptos del capítulo anterior relativos a las escrituras, serán aplicabl
 
 Cuando se solicite al Notario que dé fe de varios hechos relacionados entre sí, que tengan lugar en diversos sitios o momentos, el Notario podrá asentarlos en una sola acta, una vez que todos se hayan realizado.
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 2024)</small>
 
 ###### Artículo 138.
 
-Los Notarios llevarán un libro abierto con 300 páginas autorizado por el Ejecutivo del Estado o por el Funcionario que tenga delegada dicha facultad en el que se registrarán con numeración progresiva y por orden cronológico todas las actas que autoricen fuera de Protocolo mediante un asiento debidamente explicativo que contenga el acto o hecho jurídico y las partes intervinientes de cada una de ellas, el cual por ningún concepto deberá borrarse o alterarse. Este libro se cerrará cada año con la anotación correspondiente, autorizada por el Notario y formará parte del Archivo de la Notaría. Una vez que se agote la capacidad del libro de que se trate, quien tenga delegada dicha facultad de acuerdo a la Ley Orgánica de la Administración Pública, asentará la anotación de cierre correspondiente, y el Notario se proveerá de nuevo libro para seguir actuando, el cual se autorizará conforme a los términos antes indicados.
+Los Notarios llevarán un libro abierto con 300 páginas autorizado por el Ejecutivo del Estado o por el funcionario que tenga delegada dicha facultad en el que se registrarán con numeración progresiva y por orden cronológico todas las actas que autoricen fuera de Protocolo mediante un asiento debidamente explicativo que contenga el hecho jurídico y las partes intervinientes de cada una de ellas, el cual por ningún concepto deberá borrarse o alterarse. Este libro se cerrará cada año con la anotación correspondiente, autorizada por el Notario y formará parte del Archivo de la Notaría. Una vez que se agote la capacidad del libro de que se trate, se remitirá a la Dirección del Archivo General de Notarías para su revisión y en su caso, se asentará la anotación de cierre correspondiente, procediendo a su resguardo definitivo en dicha Dirección.
 
-Los Notarios remitirán al Archivo General de Notarias durante el mes de agosto un respaldo electrónico de las actas del libro abierto realizadas durante el primer semestre del año y otro respaldo electrónico durante el mes de febrero de las actas generadas durante el segundo semestre del año previo.
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
+
+Cuando el Notario advierta que ha utilizado 290 páginas del Libro de Actas, dará aviso a la Dirección del Archivo General de Notarías, a fin de gestionar un nuevo libro para seguir actuando, el cual se le entregará una vez entregado a la Dirección el libro agotado.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2024)</small>
+
+Los Notarios remitirán al Archivo General de Notarias durante el mes de agosto un respaldo electrónico de los asientos, actas y apéndices del libro abierto realizadas durante el primer semestre del año y otro respaldo electrónico durante el mes de febrero de las actas generadas durante el segundo semestre del año previo.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
+
+###### Artículo 138 Bis.
+
+El titular de la Notaría llevará una carpeta en donde quedarán depositados copia de la totalidad de los documentos certificados en Actas Fuera de Protocolo y los relacionados con este, ordenada con numeración progresiva y por orden cronológico en relación con estos. El contenido de estas carpetas se denominará "Apéndice de Libro de Actas Fuera de Protocolo", el cual se considerará como parte integrante de dicho.
+
+Los documentos del Apéndice se arreglarán por legajos, poniéndose en cada uno de éstos el número que corresponda al del hecho a que se refiere y en cada uno de los documentos se pondrá una letra que los señale y distinga de los otros que forman el legajo.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
+
+###### Artículo 138 Bis 1.
+
+A más tardar tres meses después de la fecha del cierre del Libro de Actas Fuera de Protocolo al que pertenezcan, las carpetas o Apéndices se encuadernarán ordenadamente y serán entregados de forma inmediata a la Dirección del Archivo General de Notarías.
 
 ###### Artículo 139.
 
@@ -1498,3 +1604,19 @@ P.O. 30 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 501. SE REFORMAN DIVERSOS ARTÍCULOS DE LALEY DE NOTARIADO DEL ESTADO DE NUEVO LEÓN; DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEON; DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN; Y LA LEY DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE NUEVO LEON".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo de 180 días naturales contados a partir de la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado deberá realizar las adecuaciones a los reglamentos correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos judiciales iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
