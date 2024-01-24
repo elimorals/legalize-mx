@@ -4,7 +4,7 @@ identifier: "LISF"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-04"
-last_updated: "2022-05-11"
+last_updated: "2024-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93451&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISF"
 
 LEY DE INSTITUCIONES DE SEGUROS Y DE FIANZAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2024.
 
 Ley publicada en la Segunda y Tercera Sección del Diario Oficial de la Federación, el jueves 4 de abril de 2013.
 
@@ -4770,11 +4770,23 @@ IX. Si la asamblea general de accionistas de la Institución de Fianzas, mediant
 
 #### SECCIÓN III. DE LAS DISPOSICIONES COMUNES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 334.
 
-Cuando la Comisión tenga conocimiento de que una Institución ha incurrido en alguno de los supuestos previstos en los artículos 332 o 333 de la presente Ley, con excepción de las fracciones XI del artículo 332 y IX del artículo 333, según corresponda, le notificará dicha situación a la Institución de que se trate para que, en un plazo de quince días hábiles contados a partir de la fecha en que surta efectos la notificación respectiva, la propia Institución manifieste por escrito lo que a su derecho convenga y presente los elementos que, a su juicio, acrediten que se han subsanado los hechos u omisiones señalados en la notificación, debiendo la Comisión resolver lo conducente.
+Cuando la Comisión tenga conocimiento de que una Institución ha incurrido en alguno de los supuestos previstos en los artículos 332 o 333 de la presente Ley, con excepción de las fracciones XI del artículo 332 y IX del artículo 333, según corresponda, le notificará dicha situación a la Institución de que se trate para que, en un plazo de diez días hábiles contados a partir del día hábil siguiente a aquél en que surta efectos la notificación respectiva, la propia Institución manifieste por escrito lo que a su derecho convenga, ofrezca pruebas que, a su juicio, acrediten que se han subsanado los hechos u omisiones señalados en la notificación. A petición de parte, la Comisión podrá ampliar por una sola ocasión el plazo a que se refiere este párrafo, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso y notificará a la Institución la resolución correspondiente. Las notificaciones surtirán efectos al día hábil siguiente a aquel en que se practiquen.
 
-La declaración de revocación se publicará en el Diario Oficial de la Federación y en dos periódicos de amplia circulación en el país, se inscribirá en el Registro Público de Comercio; incapacitará a la Institución para otorgar cualquier seguro o fianza, a partir de la fecha en que se notifique la revocación; y pondrá en estado de disolución y liquidación a la sociedad, sin necesidad del acuerdo de la asamblea de accionistas, conforme a lo previsto en el Título Décimo Segundo de este ordenamiento.
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Concluido el plazo señalado en el párrafo anterior y, en su caso, el de su ampliación, la Comisión contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Transcurrido el plazo para el desahogo de las pruebas la Comisión notificará a la Institución de que se trate la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine. Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento administrativo de revocación a que se refiere el presente artículo.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+La declaración de revocación se publicará en el Diario Oficial de la Federación y en dos periódicos de amplia circulación en el país, deberá inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la Institución de que se trate, para lo cual el registro únicamente requerirá previa notificación de la Comisión; incapacitará a la Institución para otorgar cualquier seguro o fianza, a partir de la fecha en que le sea notificada; y la pondrá en estado de disolución y liquidación, sin necesidad del acuerdo de la asamblea de accionistas, conforme a lo previsto en el Título Décimo Segundo de este ordenamiento.
 
 La liquidación será administrativa y se practicará de conformidad con lo dispuesto por el Capítulo Primero del Título Décimo Segundo de esta Ley, salvo cuando la causa de la revocación sea precisamente que la Institución entre en estado de liquidación convencional o en concurso mercantil, conforme a lo previsto en los Capítulos Segundo y Tercero de dicho Título Décimo Segundo.
 
@@ -4790,7 +4802,17 @@ III. Si reiteradamente, a pesar de las observaciones de la Comisión, la Institu
 
 IV. Si a juicio de la Comisión queda comprobado que la Institución no cumple adecuadamente con las funciones de las operaciones o ramos, o bien de los ramos o subramos, correspondientes, por mantener una escasa emisión de primas.
 
-En los supuestos previstos en las fracciones II a IV de este artículo, la Comisión notificará a la Institución de que se trate dicha situación para que, en un plazo de quince días hábiles contados a partir de la fecha en que surta efectos la notificación respectiva, la propia Institución manifieste por escrito lo que a su derecho convenga y presente los elementos que, a su juicio, acrediten que se han subsanado los hechos u omisiones señalados en la notificación.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+En los supuestos previstos en las fracciones II a IV de este artículo, la Comisión notificará a la Institución de que se trate dicha situación para que, en un plazo de diez días hábiles contados a partir del día siguiente a aquél en que surta efectos la notificación respectiva, la Institución manifieste por escrito lo que a su derecho convenga y ofrezca pruebas que, a su juicio, acrediten que se han subsanado los hechos u omisiones señalados en la notificación. A petición de parte, la Comisión podrá ampliar por una sola ocasión el plazo a que se refiere este párrafo, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso y notificará a la Institución la resolución correspondiente. Las notificaciones surtirán efectos al día hábil siguiente a aquel en que se practiquen.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Concluido el plazo señalado en el párrafo anterior y, en su caso, el de su ampliación, la Comisión contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Transcurrido el plazo para el desahogo de las pruebas la Comisión notificará a la Institución de que se trate la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento administrativo a que se refiere el presente artículo.
 
 En cualquiera de los supuestos establecidos en este artículo, deberán adoptarse las medidas necesarias para proteger los intereses de los contratantes, asegurados, fiados y beneficiarios.
 
@@ -5128,11 +5150,19 @@ VII. Si se disuelve, quiebra o entra en estado de liquidación, y
 
 VIII. Si la asamblea general de mutualizados de la Sociedad Mutualista, mediante decisión adoptada en sesión extraordinaria, resuelve solicitarla.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 364.
 
-Cuando la Comisión tenga conocimiento de que una Sociedad Mutualista ha incurrido en alguno de los supuestos previstos en el artículo 363 de la presente Ley, con excepción de la fracción VIII del artículo citado, le notificará dicha situación a la sociedad para que, en un plazo de quince días hábiles contados a partir de la fecha en que surta efectos la notificación respectiva, la propia sociedad manifieste por escrito lo que a su derecho convenga y presente los elementos que, a su juicio, acrediten que se han subsanado los hechos u omisiones señalados en la notificación, debiendo la Comisión resolver lo conducente.
+Cuando la Comisión tenga conocimiento de que una Sociedad Mutualista ha incurrido en alguno de los supuestos previstos en el artículo 363 de la presente Ley, con excepción de la fracción VIII del artículo citado, le notificará dicha situación a la sociedad para que, en un plazo de diez días hábiles contados a partir del día siguiente a aquél en que surta efectos la notificación respectiva, la propia sociedad manifieste por escrito lo que a su derecho convenga, ofrezca pruebas y presente los elementos que, a su juicio, acrediten que se han subsanado los hechos u omisiones señalados en la notificación, debiendo la Comisión resolver lo conducente. A petición de parte, la Comisión podrá ampliar por una sola ocasión el plazo a que se refiere este párrafo, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso y notificará a la Institución la resolución correspondiente. Las notificaciones surtirán efectos al día hábil siguiente a aquel en que se practiquen.
 
-La declaración de revocación se publicará en el Diario Oficial de la Federación y en dos periódicos de amplia circulación en el país, se inscribirá en el Registro Público de Comercio; incapacitará a la sociedad para otorgar cualquier seguro a partir de la fecha en que se notifique la revocación; y pondrá en estado de disolución y liquidación a la sociedad, sin necesidad del acuerdo de la asamblea de mutualizados, conforme a lo previsto en el Título Décimo Segundo de esta Ley.
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Concluido el plazo señalado en el párrafo anterior y, en su caso, el de su ampliación, la Comisión contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas y elementos aportados. Transcurrido el plazo para el desahogo de las pruebas la Comisión notificará a la Sociedad Mutualista de que se trate la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine. Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento administrativo a que se refiere el presente artículo.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+La declaración de revocación se publicará en el Diario Oficial de la Federación y en dos periódicos de amplia circulación en el país, deberá inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la Institución de que se trate, para lo cual el Registro únicamente requerirá previa notificación de la Comisión; incapacitará a la Sociedad para otorgar cualquier seguro, a partir de la fecha en que le sea notificada; y la pondrá en estado de disolución y liquidación, sin necesidad del acuerdo de la asamblea de mutualizados, conforme a lo previsto en el Título Décimo Segundo de esta Ley.
 
 La liquidación será administrativa y se practicará de conformidad con lo dispuesto por el Capítulo Primero del Título Décimo Segundo de este ordenamiento, salvo cuando la causa de la revocación sea precisamente que la sociedad entre en estado de liquidación convencional o en concurso mercantil conforme a lo previsto en los Capítulos Segundo y Tercero de dicho Título Décimo Segundo.
 
@@ -5619,6 +5649,10 @@ Cuando en el ejercicio de la función de inspección prevista en los artículos 
 ###### ARTÍCULO 388.
 
 La vigilancia que efectúe la Comisión se llevará a cabo a través del análisis de la información contable, legal, económica, financiera, técnica, de reaseguro, de reafianzamiento, administrativa, de procesos y de procedimientos que obtenga la Comisión con base en las disposiciones que resulten aplicables, con la finalidad de evaluar el apego a la normativa que rige a las Instituciones y Sociedades Mutualistas, así como la estabilidad, solvencia, liquidez y correcto funcionamiento de éstas.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Los actos de vigilancia que la Comisión lleve a cabo, deberán concluirse dentro de un plazo de doce meses contado a partir de que se notifique a las Instituciones y Sociedades Mutualistas, así como a las demás personas y entidades reguladas por la presente Ley y los reglamentos respectivos, el inicio de dichos actos.
 
 ###### ARTÍCULO 389.
 
@@ -6516,7 +6550,13 @@ Al imponer la sanción que corresponda, la Comisión siempre deberá oír previa
 
 En el caso de las Instituciones la condición económica se medirá en función de su capital contable, entendido como la diferencia entre sus activos y pasivos, y en el caso de las Sociedades Mutualistas en función de la diferencia entre sus activos y pasivos, en ambos casos cuantificados al término del ejercicio anterior a la comisión de la infracción. En el caso de Instituciones y Sociedades Mutualistas que hayan iniciado operaciones y que, por ese hecho, no cuenten con registros de capital contable, o de activos y pasivos, según corresponda, al cierre del ejercicio anterior a aquél en que se haya cometido la infracción, se empleará el capital contable, o los activos y pasivos, de inicio de sus operaciones.
 
-Para oír previamente al presunto infractor, la Comisión deberá otorgarle un plazo de diez días hábiles, que podrá prorrogar por una sola vez, para que el interesado manifieste lo que a su derecho convenga, ofreciendo o acompañando, en su caso, las pruebas que considere convenientes. Agotado el plazo o la prórroga señalados, si el interesado no ejerció su derecho de audiencia se tendrá por precluído el derecho y con los elementos existentes en el expediente administrativo correspondiente, se procederá a emitir la resolución que corresponda, ajustándose a lo dispuesto en el presente artículo.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Para oír previamente al presunto infractor, la Comisión deberá otorgarle un plazo de diez días hábiles, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, para que el interesado manifieste lo que a su derecho convenga, ofreciendo o acompañando, en su caso, las pruebas que considere convenientes. A petición de parte, la Comisión podrá ampliar por una sola ocasión el plazo a que se refiere este párrafo, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso y notificará a la Institución la resolución correspondiente. Las notificaciones surtirán efectos al día hábil siguiente a aquel en que se practiquen.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Concluido el plazo señalado en el párrafo anterior y, en su caso, el de su ampliación, la Comisión notificará al presunto infractor la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine. Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento administrativo a que se refiere el presente artículo.
 
 Una vez evaluados los argumentos hechos valer por el interesado y valoradas las pruebas aportadas por éste, y en su caso una vez valoradas las constancias que integran el expediente administrativo correspondiente, la Comisión para imponer la multa que corresponda, en la resolución que al efecto se dicte, deberá:
 
@@ -7185,3 +7225,15 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
 
 Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+
+D.O.F. 24 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS LEYES FINANCIERAS EN MATERIA DE PROCEDIMIENTO ADMINISTRATIVO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los procedimientos administrativos sancionadores que, a la fecha de entrada del presente Decreto, se hubieren iniciado deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación al presunto infractor.
+
+Tercero.- Las resoluciones que pongan fin a los procedimientos administrativos de revocación que se hubieren iniciado mediante la notificación del acto a través del cual se concede el derecho de audiencia, antes de la entrada en vigor del presente Decreto, deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación a la institución o entidad correspondiente.
+
+Cuarto.- La sustanciación y resolución de los procedimientos sancionadores que, a la fecha de entrada del presente Decreto, hubiere iniciado el Banco de México se regirán por lo dispuesto en las Reglas de Supervisión, Programas de Autocorrección y del Procedimiento Sancionador, vigentes en la misma fecha de entrada en vigor del presente Decreto.
