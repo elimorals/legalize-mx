@@ -4,7 +4,7 @@ identifier: "LGOAAC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1985-01-14"
-last_updated: "2018-03-09"
+last_updated: "2024-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGOAAC"
 
 LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de enero de 1985.
 
@@ -1824,7 +1824,25 @@ XI. En el caso previsto por el artículo 63 de esta Ley, y
 
 XII. Si no exhibe a la Comisión Nacional Bancaria y de Valores la constancia de las visitas realizadas a las bodegas habilitadas en términos de lo dispuesto por el artículo 17 de esta Ley.
 
-La declaración de revocación se inscribirá en el Registro Público de Comercio, previa orden de la Secretaría de Hacienda y Crédito Público y se publicará en el Diario Oficial de la Federación. La revocación incapacitará a la sociedad para realizar sus operaciones a partir de la fecha en que se notifique la misma y se pondrá en estado de disolución y liquidación.
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+La Secretaría otorgará el derecho de audiencia a la sociedad interesada, a fin de que dentro del plazo de diez días hábiles, contados a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, manifieste por escrito lo que a su interés convenga y ofrezca pruebas. La Secretaría, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, atendiendo a las circunstancias particulares del caso. Las notificaciones surtirán efectos al día hábil siguiente a aquél en que se practiquen.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Concluido el plazo a que se refiere la fracción I de este artículo, y en su caso el de su ampliación, la Secretaría contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Transcurrido el plazo para el desahogo de las pruebas, la Secretaría notificará al presunto infractor la apertura del periodo de cinco días hábiles para formular alegatos. La Secretaría podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine. Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Secretaría contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento de revocación a que se refiere el presente artículo.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+La Comisión Nacional Bancaria y de Valores y el Banco de México, deberán emitir la opinión requerida en términos del primer párrafo de este artículo, con al menos treinta días hábiles de anticipación a que fenezca el plazo previsto para dictar la resolución que ponga fin al procedimiento de revocación. En caso de que cualquiera de las opiniones sea emitida con posterioridad al plazo señalado, la Secretaría podrá resolver lo que corresponda con las constancias que obren en el expediente, sin necesidad de considerar las opiniones.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+La declaración de revocación se publicará en el Diario Oficial de la Federación y deberá inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la Sociedad de que se trate, para lo cual el Registro únicamente requerirá previa notificación de la Secretaría de Hacienda y Crédito Público. La revocación incapacitará a la sociedad para realizar sus operaciones a partir de la fecha en que se notifique la misma y la pondrá en estado de disolución y liquidación sin necesidad del acuerdo de la asamblea de accionistas.
 
 La Comisión Nacional Bancaria y de Valores promoverá ante la autoridad judicial para que designe al liquidador, si en el plazo de sesenta días hábiles de publicada en el Diario Oficial de la Federación la revocación no hubiere sido designado. Cuando la Comisión o el liquidador encuentre que existe imposibilidad de llevar a cabo la liquidación de la sociedad, lo hará del conocimiento del juez competente para que ordene la cancelación de su inscripción en el Registro Público de Comercio, la que surtirá sus efectos transcurridos ciento ochenta días naturales a partir del mandamiento judicial.
 
@@ -2144,7 +2162,25 @@ VI. Si sus administradores han intervenido en operaciones que infrinjan las disp
 
 VII. En cualquier otro establecido por la Ley.
 
-La declaración de revocación se inscribirá en el Registro Público de Comercio, previa orden de la Secretaría de Hacienda y Crédito Público y se publicará en el Diario Oficial de la Federación. La revocación incapacitará a la sociedad para realizar sus operaciones a partir de la fecha en que se notifique la misma y se pondrá en estado de disolución y liquidación.
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+La Secretaría otorgará el derecho de audiencia a la sociedad interesada, a fin de que, dentro del plazo de diez días hábiles, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, manifieste por escrito lo que a su interés convenga y ofrezca pruebas. La Secretaría, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, atendiendo a las circunstancias particulares del caso. Las notificaciones surtirán efectos al día hábil siguiente a aquél en que se practiquen.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Concluido el plazo a que se refiere la fracción I de este artículo, y en su caso el de su ampliación, la Secretaría contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Transcurrido el plazo para el desahogo de las pruebas, la Secretaría notificará la apertura del periodo de cinco días hábiles para formular alegatos. La Secretaría podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine. Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Secretaría contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento de revocación.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+La Comisión Nacional Bancaria y de Valores y el Banco de México, deberán emitir la opinión requerida en términos del primer párrafo de este artículo, con al menos treinta días hábiles de anticipación a que fenezca el plazo previsto para dictar la resolución que ponga fin al procedimiento de revocación. En caso de que cualquiera de las opiniones sea emitida con posterioridad al plazo señalado, la Secretaría podrá resolver lo que corresponda con las constancias que obren en el expediente, sin necesidad de considerar las opiniones.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+La declaración de revocación se publicará en el Diario Oficial de la Federación y deberá inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la Sociedad de que se trate, para lo cual el Registro únicamente requerirá previa notificación de la Secretaría de Hacienda y Crédito Público. La revocación incapacitará a la sociedad para realizar sus operaciones a partir de la fecha en que se notifique la misma y la pondrá en estado de disolución y liquidación sin necesidad del acuerdo de la asamblea de accionistas.
 
 La Comisión Nacional Bancaria y de Valores promoverá ante la autoridad judicial para que designe al liquidador si en el plazo de sesenta días hábiles de publicada en el Diario Oficial de la Federación la revocación no hubiere sido designado. Cuando la Secretaría o el liquidador encuentre que existe imposibilidad de llevar a cabo la liquidación de la sociedad, lo hará del conocimiento del juez competente para que ordene la cancelación de su inscripción en el Registro Público de Comercio, la que surtirá sus efectos transcurridos ciento ochenta días naturales a partir del mandamiento judicial.
 
@@ -2478,6 +2514,10 @@ La supervisión del Banco de México respecto de las operaciones que las socieda
 
 Contra las resoluciones por las que el Banco de México imponga alguna multa, procederá el recurso de reconsideración previsto en los artículos 64 y 65 de la Ley del Banco de México, el cual será de agotamiento obligatorio y deberá interponerse dentro de los quince días hábiles bancarios siguientes a la fecha de notificación de tales resoluciones. Respecto de lo que se resuelva en ese medio de defensa, se estará a lo previsto en el último párrafo del artículo 65 de la Ley del Banco de México. La ejecución de las resoluciones de multas se hará conforme a los artículos 66 y 67 de la Ley del Banco de México.
 
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Las notificaciones, trámite y resolución del recurso de reconsideración se regirán por la Ley del Banco de México, su Reglamento Interior y las reglas de carácter general emitidas por el propio Banco.
+
 Las disposiciones previstas en las fracciones I a IV anteriores, serán aplicables sin perjuicio que se trate de sociedades de objeto múltiple reguladas que emitan deuda en el mercado de valores.
 
 > <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
@@ -2735,6 +2775,14 @@ d) La negligencia inexcusable o dolo con que se hubiere actuado;
 e) Que la conducta infractora a que se refiere el proceso administrativo pueda ser constitutiva de un delito, o
 
 f) Las demás circunstancias que la Comisión Nacional Bancaria y de Valores estime aplicables para tales efectos.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Concluido el plazo a que se refiere la fracción I de este artículo, y en su caso el de su ampliación, la Comisión Nacional Bancaria y de Valores contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Transcurrido el plazo para el desahogo de las pruebas, la Comisión notificará la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento sancionador e imponer, en su caso, las sanciones que conforme a derecho procedan.
 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -3919,3 +3967,15 @@ D.O.F. 9 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE EXPIDE LA LEY PARA REGULAR LAS INSTITUCIONES DE TECNOLOGÍA FINANCIERA Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE CRÉDITO, DE LA LEY DEL MERCADO DE VALORES, DE LA LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO, DE LA LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS SOCIEDADES DE INFORMACIÓN CREDITICIA, DE LA LEY DE PROTECCIÓN Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES Y, DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, salvo que en las Disposiciones Transitorias de este Decreto se disponga lo contrario.
+
+D.O.F. 24 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS LEYES FINANCIERAS EN MATERIA DE PROCEDIMIENTO ADMINISTRATIVO".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los procedimientos administrativos sancionadores que, a la fecha de entrada del presente Decreto, se hubieren iniciado deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación al presunto infractor.
+
+Tercero.- Las resoluciones que pongan fin a los procedimientos administrativos de revocación que se hubieren iniciado mediante la notificación del acto a través del cual se concede el derecho de audiencia, antes de la entrada en vigor del presente Decreto, deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación a la institución o entidad correspondiente.
+
+Cuarto.- La sustanciación y resolución de los procedimientos sancionadores que, a la fecha de entrada del presente Decreto, hubiere iniciado el Banco de México se regirán por lo dispuesto en las Reglas de Supervisión, Programas de Autocorrección y del Procedimiento Sancionador, vigentes en la misma fecha de entrada en vigor del presente Decreto.
