@@ -4,7 +4,7 @@ identifier: "LMV"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-30"
-last_updated: "2023-12-28"
+last_updated: "2024-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47153&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMV"
 
 LEY DEL MERCADO DE VALORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2024.
 
 Ley publicada en la Cuarta Sección del Diario Oficial de la Federación, el viernes 30 de diciembre de 2005.
 
@@ -6052,11 +6052,25 @@ En lo no contemplado en esta Ley en materia de delitos, se estará a lo dispuest
 
 En los procedimientos administrativos previstos en esta Ley se admitirán las pruebas conducentes con los actos sujetos al procedimiento siempre y cuando las mismas sean ofrecidas en el plazo del desahogo de la garantía de audiencia. En el caso de la confesional a cargo de autoridades, la misma deberá ser desahogada por escrito.
 
-Una vez desahogado el derecho de audiencia a que hace referencia el artículo 391 de esta Ley, o bien, presentado el escrito mediante el cual se interponga recurso de revocación, únicamente se admitirán pruebas supervenientes, siempre y cuando no se haya emitido la resolución correspondiente.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Una vez desahogado el derecho de audiencia a que hacen referencia los artículos 153, 268, 269, 298, 299, 319, 320, 332, 340 y 391 de esta Ley, o bien, presentado el escrito mediante el cual se interponga recurso de revisión, únicamente se admitirán pruebas supervenientes, siempre y cuando no se haya emitido la resolución correspondiente.
 
 La Comisión podrá allegarse de los medios de prueba que considere necesarios, pudiendo al efecto acordar sobre la admisibilidad de las pruebas ofrecidas. Sólo podrán rechazarse las pruebas propuestas por los interesados cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el fondo del asunto, sean improcedentes, innecesarias o contrarias a la moral y al derecho. La valoración de las pruebas se hará conforme a lo establecido en el Código Federal de Procedimientos Civiles.
 
-Concluido el desahogo de pruebas se emitirá la resolución correspondiente, sin que para emitir dicha resolución sea necesaria la notificación previa al interesado.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+###### Artículo 389 Bis.
+
+Los procedimientos administrativos de revocación de concesiones o autorizaciones referidos por los artículos 153, 268, 269, 298, 299, 319, 320, 332 y 340 de esta Ley, se sujetarán a lo dispuesto por los artículos 389 y 391 de esta Ley en lo que resulte aplicable.
+
+Para efectos de los procedimientos señalados en el párrafo anterior, una vez concluido el plazo establecido por la fracción I del referido artículo 391 y, en su caso el de su ampliación, la Comisión o la Secretaría, según corresponda, contarán con un plazo que no excederá de ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento administrativo de revocación.
+
+En los supuestos previstos por los artículos 268, 298 y 319, la Comisión Nacional Bancaria y de Valores y el Banco de México, según corresponda, deberán emitir la opinión requerida, con al menos treinta días hábiles de anticipación a que fenezca el plazo previsto para dictar la resolución que ponga fin al procedimiento de revocación. En caso de que cualquiera de las opiniones referidas sea emitida con posterioridad al plazo señalado, la Secretaría podrá resolver lo que corresponda con las constancias que obren en el expediente, sin necesidad de considerar la opinión presentada extemporáneamente.
+
+La declaración de revocación de las concesiones y autorizaciones a que se refiere el primer párrafo de este artículo se publicarán en el Diario Oficial de la Federación y deberán inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la sociedad de que se trate, para lo cual el Registro únicamente requerirá previa notificación. La revocación de las autorizaciones a que se refieren los artículos 153, 268, 269, 332 y 340 pondrá en estado de disolución y liquidación a la sociedad correspondiente a partir de la fecha en que se le notifique sin necesidad del acuerdo de la asamblea de accionistas.
 
 ###### Artículo 390.
 
@@ -6082,7 +6096,9 @@ Las multas impuestas por la Comisión se harán efectivas por la Secretaría, un
 
 La Comisión, en la imposición de sanciones de carácter administrativo, a que se refiere esta Ley, se sujetará a lo siguiente:
 
-I. Se otorgará audiencia al presunto infractor, quien en un plazo de diez días hábiles, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga, ofrecer pruebas y formular alegatos. La Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, atendiendo a las circunstancias particulares del caso. La notificación surtirá efectos al día hábil siguiente a aquél en que se practique.
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
+
+I. Se otorgará audiencia al presunto infractor quien, en un plazo de diez días hábiles, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga y ofrecer pruebas. La Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, atendiendo a las circunstancias particulares del caso. La notificación surtirá efectos al día hábil siguiente a aquél en que se practique.
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -6119,6 +6135,14 @@ d) La negligencia inexcusable o dolo con que se hubiere actuado;
 e) Que la conducta infractora a que se refiere el proceso administrativo pueda ser constitutiva de un delito, o
 
 f) Las demás circunstancias que la Comisión estime aplicables para tales efectos.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Concluido el plazo a que se refiere la fracción I del presente artículo, y en su caso el de su ampliación, la Comisión contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Una vez desahogadas las pruebas admitidas al presunto infractor, la Comisión le notificará la apertura del periodo de cinco días hábiles para formular alegatos. La notificación se podrá realizar por estrados o por cualquier otro medio que determine la Comisión.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Autoridad respectiva contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento sancionador e imponer, en su caso, las sanciones que conforme a derecho procedan.
 
 Las sanciones serán impuestas por la Junta de Gobierno de la Comisión, la que podrá delegar esa facultad en razón de la naturaleza de la infracción o del monto de la multa, al presidente o a los demás servidores públicos de la propia Comisión.
 
@@ -7069,3 +7093,15 @@ D.O.F. 28 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL MERCADO DE VALORES Y DE LA LEY DE FONDOS DE INVERSIÓN".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS LEYES FINANCIERAS EN MATERIA DE PROCEDIMIENTO ADMINISTRATIVO".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los procedimientos administrativos sancionadores que, a la fecha de entrada del presente Decreto, se hubieren iniciado deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación al presunto infractor.
+
+Tercero.- Las resoluciones que pongan fin a los procedimientos administrativos de revocación que se hubieren iniciado mediante la notificación del acto a través del cual se concede el derecho de audiencia, antes de la entrada en vigor del presente Decreto, deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación a la institución o entidad correspondiente.
+
+Cuarto.- La sustanciación y resolución de los procedimientos sancionadores que, a la fecha de entrada del presente Decreto, hubiere iniciado el Banco de México se regirán por lo dispuesto en las Reglas de Supervisión, Programas de Autocorrección y del Procedimiento Sancionador, vigentes en la misma fecha de entrada en vigor del presente Decreto.
