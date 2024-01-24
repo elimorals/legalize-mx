@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2023-12-01"
+last_updated: "2024-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -116,9 +116,9 @@ XVII. Cédulas o cédula de liquidación: el medio magnético, digital, electró
 
 XVIII. Salarios o salario: la retribución que la Ley Federal del Trabajo define como tal;
 
-> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
 
-XIX. Trabajador eventual del campo: persona física que es contratada para labores de siembra, deshije, cosecha, recolección, preparación de productos para su primera enajenación y otras de análoga naturaleza agrícola, ganadera, forestal o mixta, a cielo abierto o en invernadero. Puede ser contratada por uno o más patrones durante un año, por períodos que en ningún caso podrán ser superiores a veintisiete semanas por cada patrón. En caso de rebasar dicho período por patrón será considerado trabajador permanente. Para calcular las semanas laboradas y determinar la forma de cotización se estará a lo previsto en la ley y en el reglamento respectivo;
+XIX. Persona trabajadora del campo temporal: es aquella persona física que realiza labores dirigidas a la obtención de alimentos o productos primarios a través de la realización de diversas tareas agrícolas, hortícolas, ganaderas, forestales, acuícolas, avícolas, apícolas u otras semejantes, siempre que éstos no sean sometidos a algún tipo de proceso industrial y en tanto se desarrollen en ámbitos rurales. Su contratación es por obra, tiempo determinado o por temporada conforme a la naturaleza o necesidades propias de las actividades mencionadas. En caso de laborar de forma continua por un periodo mayor a veintisiete semanas para una o varias personas empleadoras será considerado trabajador permanente. Para calcular las semanas laboradas y determinar la forma de cotización se estará a lo previsto en la ley y en el reglamento respectivo;
 
 > <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2023)</small>
 
@@ -244,9 +244,11 @@ VI. Los procedimientos de inscripción y los de cobro de las cuotas, y
 
 VII. Las demás modalidades que se requieran conforme a esta Ley y sus reglamentos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2024)</small>
+
 ###### Artículo 15.
 
-Los patrones están obligados a:
+Las personas empleadoras están obligadas a:
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -274,9 +276,9 @@ VII. Cumplir con las obligaciones que les impone el capítulo sexto del Título 
 
 VIII. Cumplir con las demás disposiciones de esta Ley y sus reglamentos, y
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
 
-IX. Expedir y entregar, tratándose de trabajadores eventuales de la ciudad o del campo, constancia de los días laborados de acuerdo a lo que establezcan los reglamentos respectivos.
+IX. Expedir y entregar, tratándose de personas trabajadoras temporales o eventuales de la ciudad o del campo, constancia de los días laborados de acuerdo con lo que establezcan los reglamentos respectivos.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -2664,17 +2666,23 @@ Las mujeres y los hombres del campo que tengan el carácter de trabajadores inde
 
 Aquellos productores del campo que estuvieran incorporados por la vía de Decreto Presidencial a la seguridad social, podrán afiliarse al Régimen de seguridad social de los previstos en la presente Ley, que resulte más conveniente a sus condiciones productivas y de ingreso. En el caso de los cañeros, tabacaleros y otras ramas de producción especializadas se incorporarán con las modalidades que correspondan, de acuerdo a lo establecido en la fracción III del artículo 12 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
 
 ###### Artículo 237.
 
-Los trabajadores asalariados, eventuales y permanentes en actividades del campo, se comprenden en el artículo 12, fracción I, de esta Ley y accederán a la seguridad social en los términos y formas que establezca la misma, conforme a las modalidades que para el efecto establezcan los reglamentos que correspondan.
+Las personas trabajadoras asalariadas, permanentes y temporales en actividades del campo, se comprenden en el artículo 12, fracción I, de esta Ley y accederán a la seguridad social en los términos y formas que establezca la misma, conforme a las modalidades que para el efecto establezcan los reglamentos que correspondan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+###### Artículo 237-A.
+
+En aquellos lugares donde el Instituto no cuente con instalaciones, a juicio del propio Instituto, para prestar los servicios de salud que tiene encomendados, éste podrá celebrar convenios con las personas empleadoras del campo, para que éstos otorguen a las personas trabajadoras del campo las prestaciones en especie correspondientes al Seguro de Enfermedades y Maternidad a que se refiere la Sección Segunda, Capítulo IV, del Título Segundo de esta Ley, relativas a servicios médicos y hospitalarios, pudiendo convenirse en la reversión de una parte de la cuota obrero patronal en proporción a la naturaleza y cuantía de los servicios otorgados, a través de un esquema programado de reembolsos, en los términos que establezcan las reglas de carácter general que para tal efecto expida el Consejo Técnico.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Asimismo, en aquellos lugares donde el Instituto no cuente con instalaciones, a juicio del propio Instituto, para prestar los servicios de guardería que tiene encomendados, éste podrá celebrar convenios con las personas empleadoras del campo y organizaciones de personas trabajadoras temporales del campo para la subrogación de los servicios que contempla el Ramo de Guarderías a que se refiere la Sección Primera, Capítulo VII, del Título Segundo, de esta Ley, en los términos que establezcan las reglas de carácter general que para tal efecto expida el Consejo Técnico.
 
 > <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2005)</small>
-
-Artículo 237 A. En aquellos lugares donde el Instituto no cuente con instalaciones, a juicio del propio Instituto, para prestar los servicios de salud que tiene encomendados, éste podrá celebrar convenios con los patrones del campo, para que éstos otorguen a sus trabajadores las prestaciones en especie correspondientes al Seguro de Enfermedades y Maternidad a que se refiere la Sección Segunda, Capítulo IV, del Título Segundo de esta Ley, relativas a servicios médicos y hospitalarios, pudiendo convenirse en la reversión de una parte de la cuota obrero patronal en proporción a la naturaleza y cuantía de los servicios otorgados, a través de un esquema programado de reembolsos, en los términos que establezcan las reglas de carácter general que para tal efecto expida el Consejo Técnico.
-
-Asimismo, en aquellos lugares donde el Instituto no cuente con instalaciones, a juicio del propio Instituto, para prestar los servicios de guardería que tiene encomendados, éste podrá celebrar convenios con los patrones del campo y organizaciones de trabajadores eventuales del campo para la subrogación de los servicios que contempla el Ramo de Guarderías a que se refiere la Sección Primera, Capítulo VII, del Título Segundo, de esta Ley, en los términos que establezcan las reglas de carácter general que para tal efecto expida el Consejo Técnico.
 
 En todo caso, los patrones del campo y las organizaciones a que se refiere este artículo estarán obligados a proporcionar al Instituto los informes y estadísticas que éste les exigiere y a sujetarse a las instrucciones, normas técnicas, inspecciones y vigilancia prescritas por el propio Instituto, en los términos de las reglas de carácter general que con respecto a los servicios médicos y de guarderías expida el Consejo Técnico.
 
@@ -2698,9 +2706,19 @@ En su caso, cubrirán la parte de la cuota obrero patronal que les corresponde c
 
 Artículo 237 D. El Instituto podrá verificar que los patrones del campo se encuentran al corriente en cuanto al cumplimiento de las obligaciones a su cargo derivadas de esta Ley, previamente al otorgamiento de los subsidios, apoyos o beneficios, derivados del Presupuesto de Egresos de la Federación, que dichos patrones del campo soliciten al Gobierno Federal, a través de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 
-Para tales efectos, sin perjuicio del ejercicio de las facultades de comprobación que le corresponden al Instituto en su carácter de organismo fiscal autónomo, la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, deberá proporcionar semestralmente al Instituto el padrón de patrones del campo que sean sujetos de las disposiciones contenidas en este Capítulo, correspondientes a los sectores agrícola, ganadero, forestal y mixto, identificando a aquellos sujetos a recibir subsidios, apoyos o beneficios derivados del Presupuesto de Egresos de la Federación.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
 
-A solicitud del Instituto, y de acuerdo al convenio que éste firme con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación para este fin, esta última suspenderá la entrega de subsidios, apoyos, o beneficios que, con cargo a su presupuesto provengan del Presupuesto de Egresos de la Federación, a patrones del campo que no cumplan las disposiciones en materia de seguridad social establecidas en esta Ley.
+Para tales efectos, sin perjuicio del ejercicio de las facultades de comprobación que le corresponden al Instituto en su carácter de organismo fiscal autónomo, la Secretaría de Agricultura y Desarrollo Rural, deberá proporcionar semestralmente al Instituto el padrón de personas empleadoras del campo que sean sujetas de las disposiciones contenidas en este Capítulo, correspondientes a los sectores agrícola, hortícola, ganadero, forestal, acuícola, apícolas u otras semejantes, identificando a aquellas sujetas a recibir subsidios, apoyos o beneficios derivados del Presupuesto de Egresos de la Federación.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+A solicitud del Instituto, y de acuerdo con el convenio que éste firme con la Secretaría de Agricultura y Desarrollo Rural para este fin, esta última suspenderá la entrega de subsidios, apoyos, o beneficios que, con cargo a su presupuesto provengan del Presupuesto de Egresos de la Federación, a personas empleadoras del campo que no cumplan las disposiciones en materia de seguridad social establecidas en esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+###### Artículo 237-E.
+
+Las trabajadoras del campo temporales embarazadas durante el tiempo de efectiva prestación de servicios tienen derecho a las prestaciones correspondientes al Seguro de Enfermedades y Maternidad a que se refieren las Secciones Segunda y Tercera del Capítulo IV, del Título Segundo de esta Ley, relativas a servicios médicos y hospitalarios.
 
 ###### Artículo 238.
 
@@ -4851,3 +4869,9 @@ Segundo.- Las personas que a la entrada en vigor del presente Decreto se encuent
 Tercero.- El Instituto Mexicano del Seguro Social contará con un plazo no mayor de 180 días contados a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones necesarias a su normatividad administrativa.
 
 Cuarto.- Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
+
+D.O.F. 24 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO Y DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE DERECHOS LABORALES DE LAS PERSONAS TRABAJADORAS DEL CAMPO”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
