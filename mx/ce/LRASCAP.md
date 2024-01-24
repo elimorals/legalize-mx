@@ -4,7 +4,7 @@ identifier: "LRASCAP"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-13"
-last_updated: "2021-05-20"
+last_updated: "2024-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69506&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRASCAP"
 
 LEY PARA REGULAR LAS ACTIVIDADES DE LAS SOCIEDADES COOPERATIVAS DE AHORRO Y PRÉSTAMO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2024.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el jueves 13 de agosto de 2009.
 
@@ -1650,9 +1650,21 @@ III. Cuando el número de Socios llegare a ser inferior al fijado como mínimo e
 
 IV. Si la Comisión confirma los supuestos para ser clasificada en la categoría D de conformidad con el artículo 15 Bis.
 
-La Comisión deberá hacer del conocimiento de la Sociedad de que se trate y de manera previa a que ordene su disolución y liquidación, la actualización de cualquiera de los supuestos señalados en las fracciones anteriores, a fin de que dicha Sociedad en un plazo de 90 días siguientes a la notificación del escrito correspondiente, manifieste lo que a su derecho convenga. Una vez escuchada la Sociedad Cooperativa de Ahorro y Préstamo de que se trate, y siempre que subsistan los incumplimientos detectados, la Comisión deberá emitir la orden de disolución y liquidación debidamente fundada y motivada, derivada de resolución administrativa, previamente agotado el procedimiento administrativo, y verificando las formalidades esenciales.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
 
-La orden que emita la Comisión incapacitará a la Sociedad Cooperativa de Ahorro y Préstamo de que se trate para realizar sus operaciones a partir de la fecha en que se notifique la misma y se pondrá en estado de disolución y liquidación, sin necesidad del acuerdo de la asamblea de Socios. Dicha orden de disolución y liquidación se inscribirá en el Registro Público de Comercio que corresponda al domicilio social de la Sociedad Cooperativa de Ahorro y Préstamo de que se trate. En todo caso, el cargo de liquidador deberá recaer en algunas de las personas a que se refiere la fracción IV del Artículo 91 de la presente Ley.
+La Comisión deberá notificar a la Sociedad de que se trate y de manera previa a que ordene su disolución y liquidación, la actualización de cualquiera de los supuestos señalados en las fracciones anteriores, a fin de que dicha Sociedad dentro del plazo de diez días hábiles, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, manifieste por escrito lo que a su interés convenga y ofrezca pruebas. La Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, atendiendo a las circunstancias particulares del caso. Las notificaciones surtirán efectos al día hábil siguiente a aquél en que se practiquen.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Concluido el plazo a que se refiere el párrafo anterior, y en su caso el de su ampliación, la Comisión contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Una vez desahogadas las pruebas admitidas, la Comisión notificará a la Sociedad la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que corresponda, y siempre que subsistan los incumplimientos detectados, la Comisión deberá emitir la orden de disolución y liquidación debidamente fundada y motivada, y verificando las formalidades esenciales.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+La orden que emita la Comisión incapacitará a la Sociedad Cooperativa de Ahorro y Préstamo de que se trate para realizar sus operaciones a partir de la fecha en que se notifique la misma y la pondrá en estado de disolución y liquidación, sin necesidad del acuerdo de la asamblea de Socios. Dicha orden de disolución y liquidación deberá inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la Sociedad Cooperativa de Ahorro y Préstamo de que se trate, para lo cual el Registro únicamente requerirá previa notificación de la Comisión. En todo caso, el cargo de liquidador deberá recaer en algunas de las personas a que se refiere la fracción IV del Artículo 91 de la presente Ley.
 
 La Comisión podrá promover ante la autoridad judicial para que designe al liquidador, si en el plazo de 60 días hábiles siguientes a la inscripción de la orden a que se refiere el primer párrafo del presente Artículo, no hubiere sido designado. Cuando la propia Comisión encuentre que existe imposibilidad de llevar a cabo la liquidación de la Sociedad Cooperativa de Ahorro y Préstamo, podrá hacerlo del conocimiento del juez competente para que ordene la cancelación de su inscripción en el Registro Público de Comercio, la que surtirá sus efectos transcurridos 180 días hábiles a partir del mandamiento judicial. Los interesados podrán oponerse a esta cancelación dentro del citado plazo de 60 días hábiles, ante la propia autoridad judicial.
 
@@ -1692,7 +1704,25 @@ XIV. A solicitud de la propia Sociedad Cooperativa de Ahorro y Préstamo, cuando
 
 XV. En cualquier otro establecido por esta Ley.
 
-La declaración de revocación se inscribirá en el Registro Público de Comercio que corresponda al domicilio social de la Sociedad Cooperativa de Ahorro y Préstamo de que se trate y se publicará en el Diario Oficial de la Federación y en 2 periódicos de amplia circulación del ámbito geográfico en que operaba.
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+La Comisión otorgará el derecho de audiencia a la sociedad interesada, a fin de que dentro del plazo de diez días hábiles, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, manifieste por escrito lo que a su interés convenga y ofrezca pruebas. La Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, atendiendo a las circunstancias particulares del caso. Las notificaciones surtirán efectos al día hábil siguiente a aquél en que se practiquen.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Concluido el plazo a que se refiere el párrafo anterior, y en su caso el de su ampliación, la Comisión contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Transcurrido el plazo para el desahogo de las pruebas, la Comisión notificará a la Sociedad Cooperativa la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión respectiva podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento a que se refiere el presente artículo.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+La declaración de revocación se publicará en el Diario Oficial de la Federación y en 2 periódicos de amplia circulación del ámbito geográfico en que operaba, y deberá inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la Sociedad Cooperativa de Ahorro y Préstamo de que se trate, para lo cual el Registro únicamente requerirá previa notificación de la Comisión.
 
 La revocación, salvo que se trate del supuesto previsto por la fracción XIII anterior, incapacitará a la Sociedad Cooperativa de Ahorro y Préstamo de que se trate para realizar sus operaciones a partir de la fecha en que se notifique la misma y la pondrá en estado de disolución y liquidación, sin necesidad del acuerdo de la asamblea de Socios. En todo caso, el cargo de liquidador deberá recaer en algunas de las personas a que se refiere la fracción IV del Artículo 91 de la presente Ley.
 
@@ -1884,6 +1914,18 @@ En los procedimientos administrativos previstos en esta Ley se admitirán las pr
 
 Una vez desahogado el derecho de audiencia a que se refiere el artículo 99 de esta Ley o bien, presentado el escrito mediante el cual se interponga recurso de revisión, previsto en el artículo 106, únicamente se admitirán pruebas supervenientes, siempre y cuando no se haya emitido la resolución correspondiente.
 
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Concluido el plazo a que se refiere la fracción I del artículo 99, y en su caso el de su ampliación, la Comisión contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Transcurrido el plazo para el desahogo de las pruebas, la Comisión notificará la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión respectiva podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento a que se refiere el presente artículo.
+
 La Comisión podrá allegarse de los medios de prueba que considere necesarios, así como acordar sobre la admisibilidad de las pruebas ofrecidas. Solo podrán rechazarse las pruebas aportadas por los interesados cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el fondo del asunto, sean improcedentes, innecesarias o contrarias a la moral o al derecho. La valoración de las pruebas se hará conforme a lo establecido por el Código Federal de Procedimientos Civiles.
 
 ###### Artículo 98.
@@ -1902,9 +1944,9 @@ En caso de que el infractor pague las multas impuestas por la mencionada Comisi�
 
 La Comisión, en la imposición de sanciones de carácter administrativo a que se refiere esta Ley, se sujetará a lo siguiente:
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
 
-I. Otorgará audiencia al presunto infractor, quien, en un plazo de diez días hábiles contado a partir del día hábil siguiente a aquel en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga, ofrecer pruebas y formular alegatos. La Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. La notificación surtirá efectos al día hábil siguiente a aquel en que se practique;
+I. Otorgará audiencia al presunto infractor, quien, en un plazo de diez días hábiles contado a partir del día hábil siguiente a aquel en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga y ofrecer pruebas. La Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. La notificación surtirá efectos al día hábil siguiente a aquel en que se practique;
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -2679,3 +2721,15 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 24 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS LEYES FINANCIERAS EN MATERIA DE PROCEDIMIENTO ADMINISTRATIVO".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los procedimientos administrativos sancionadores que, a la fecha de entrada del presente Decreto, se hubieren iniciado deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación al presunto infractor.
+
+Tercero.- Las resoluciones que pongan fin a los procedimientos administrativos de revocación que se hubieren iniciado mediante la notificación del acto a través del cual se concede el derecho de audiencia, antes de la entrada en vigor del presente Decreto, deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación a la institución o entidad correspondiente.
+
+Cuarto.- La sustanciación y resolución de los procedimientos sancionadores que, a la fecha de entrada del presente Decreto, hubiere iniciado el Banco de México se regirán por lo dispuesto en las Reglas de Supervisión, Programas de Autocorrección y del Procedimiento Sancionador, vigentes en la misma fecha de entrada en vigor del presente Decreto.
