@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2024-01-17"
+last_updated: "2024-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -14463,6 +14463,10 @@ II.- Cuando el interés del negocio para el que se confiere llegue a dos veces e
 
 III.- Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley debe constar en instrumento público.
 
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
+
+El mandato de actos de dominio y de administración deberá otorgarse sin excepción en escritura pública.
+
 ###### Art. 2450.
 
 El mandato podrá otorgarse en escrito privado firmado ante dos testigos, sin que sea necesaria la previa ratificación de las firmas, cuando el interés del negocio para que se confiere exceda de doscientos pesos y no llegue a cinco mil.
@@ -17891,13 +17895,21 @@ P.O. 17 DE ENERO DE 2024.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
 
-###### ARTICULO TERCERO.
+P.O. 24 DE ENERO DE 2024.
 
-Las disposiciones realizadas con anterioridad a la entrada en vigor del presente Decreto podrán convertirse a plena, de acuerdo con los requisitos y procedimientos establecidos por este Decreto.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 501. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE (SIC) NOTARIADO DEL ESTADO DE NUEVO LEÓN; DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN; DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN; Y LA LEY DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE NUEVO LEÓN".]
 
-P.O. 5 DE JUNIO DE 1999.
+###### ARTÍCULO PRIMERO.
 
-DECRETO No. 31
+El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo de 180 días naturales contados a partir de la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado deberá realizar las adecuaciones a los reglamentos correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos judiciales iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
 
 ###### ARTICULO TERCERO.
 
