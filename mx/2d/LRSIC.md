@@ -4,7 +4,7 @@ identifier: "LRSIC"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-15"
-last_updated: "2018-03-09"
+last_updated: "2024-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22829&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LRSIC"
 
 LEY PARA REGULAR LAS SOCIEDADES DE INFORMACIÓN CREDITICIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 15 de enero de 2002.
 
@@ -346,11 +346,11 @@ Las Sociedades podrán invertir en títulos representativos del capital social d
 
 Las Sociedades requerirán autorización de la Secretaría para fusionarse o escindirse, previa opinión del Banco de México y de la Comisión. Cuando se acuerde la disolución y liquidación de la Sociedad, deberán notificarlo a la Secretaría y al Banco de México, a fin de que esa Sociedad se ajuste a lo que éste les señale en relación con el manejo y control de su base de datos.
 
-> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2024)</small>
 
 ###### Artículo 17.
 
-Las Sociedades estarán sujetas a la inspección y vigilancia de la Comisión, a la que deberán cubrir las cuotas en los términos que establezca la Secretaría.
+Las Sociedades estarán sujetas a la inspección y vigilancia de la Comisión, a la que deberán cubrir las cuotas en los términos que establezca la Secretaría, así como a la del Banco de México, en el ámbito de sus respectivas competencias.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -404,9 +404,11 @@ II. Explotar por su cuenta o de terceros, establecimientos mercantiles o industr
 
 III. Realizar actividades no contempladas en esta ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2024)</small>
+
 ###### Artículo 19.
 
-La Secretaría, escuchando a la Sociedad afectada y oyendo la opinión del Banco de México y de la Comisión, podrá revocar la autorización otorgada en los casos en que la Sociedad:
+La Secretaría, con la opinión de la Comisión y del Banco de México y previa audiencia de la sociedad interesada, podrá revocar la autorización otorgada en los casos en que la Sociedad:
 
 I. Se niegue reiteradamente a proporcionar información y documentos al Banco de México o a cualquiera de las comisiones encargadas de la inspección y vigilancia de las Entidades que solicite dicha información en los términos dispuestos por esta ley;
 
@@ -429,6 +431,26 @@ VI. Omitan de manera reiterada aplicar las tarifas que determine la Comisión en
 VII. Omitan de manera reiterada transmitir o actualizar a otras Sociedades la información prevista en esta ley, y
 
 VIII. Infrinja de manera grave o reiterada esta ley o cualquier otra disposición aplicable.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+La Secretaría otorgará el derecho de audiencia a la sociedad interesada, a fin de que, dentro del plazo de diez días hábiles, contado a partir del día hábil en que surta efectos la notificación correspondiente, manifieste por escrito lo que a su interés convenga y ofrezca pruebas. La Secretaría, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, atendiendo a las circunstancias particulares del caso. Las notificaciones surtirán efectos al día hábil siguiente a aquél en que se practiquen.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Concluido el plazo a que se refiere el párrafo anterior, y en su caso, el de su ampliación, la Secretaría contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Transcurrido el plazo para el desahogo de las pruebas, la Secretaría notificará la apertura del periodo de cinco días hábiles para formular alegatos. La Secretaría podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine. Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Secretaría contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento de revocación.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+La Comisión y el Banco de México, deberán emitir la opinión a que se refiere el primer párrafo de este artículo, con al menos treinta días hábiles de anticipación a que fenezca el plazo previsto para dictar la resolución que ponga fin al procedimiento de revocación. En caso de que cualquiera de las opiniones referidas sea emitida con posterioridad al plazo señalado, la Secretaría podrá resolver lo que corresponda con las constancias que obren en el expediente, sin necesidad de considerar la opinión presentada extemporáneamente.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+La declaración de revocación se publicará en el Diario Oficial de la Federación y deberá inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la Sociedad de que se trate, para lo cual el Registro únicamente requerirá previa notificación de la Secretaría. La revocación incapacitará a la sociedad para realizar sus actividades a partir de la fecha en que se notifique la misma y la pondrá en estado de disolución y liquidación sin necesidad del acuerdo de la asamblea de accionistas.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Una vez inscrita la revocación en el Registro Público de Comercio, la Comisión Nacional Bancaria y de Valores promoverá ante la autoridad judicial para que designe al liquidador si en el plazo de sesenta días hábiles de publicada la revocación en el Diario Oficial de la Federación no hubiere sido designado.
 
 > <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2010)</small>
 
@@ -910,9 +932,9 @@ Respecto de las Empresas Comerciales y Sofomes E.N.R., que no obtengan la autori
 
 Para la imposición de las sanciones, la Comisión, el Banco de México, la Profeco y la Condusef, estarán a lo siguiente:
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
 
-I. Se otorgará derecho de audiencia al presunto infractor, quien en un plazo de cinco días hábiles, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga y aportar las pruebas que juzgue convenientes. La notificación surtirá efectos al día hábil siguiente a aquél en que se practique.
+I. Se otorgará derecho de audiencia al presunto infractor quien, dentro del plazo de diez días hábiles, contado a partir del día hábil siguiente a aquel en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga y aportar las pruebas que juzgue convenientes. La Comisión, el Banco de México, la Profeco y la Condusef, según corresponda, a petición de parte, podrán ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, atendiendo a las circunstancias particulares del caso. Las notificaciones surtirán sus efectos al día hábil siguiente a aquel en que se practiquen.
 
 > <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2004)</small>
 
@@ -921,6 +943,14 @@ II. En el supuesto de que el presunto infractor no haga uso del derecho de audie
 > <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2004)</small>
 
 III. En la imposición de las sanciones se tomará en cuenta la gravedad de la infracción, los antecedentes personales y la condición económica del infractor.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Concluido el plazo a que se refiere la fracción I del presente artículo y, en su caso el de su ampliación, la Comisión, el Banco de México, la Profeco y la Condusef, según corresponda, contarán con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Transcurrido el plazo para el desahogo de las pruebas, la autoridad correspondiente de las señaladas en el párrafo anterior, notificará la apertura del periodo de cinco días hábiles para formular alegatos. La autoridad correspondiente podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine. Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la autoridad contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento sancionador.
 
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2004)</small>
 
@@ -950,11 +980,23 @@ Para efecto de lo previsto en los incisos a) y b) anteriores, las Sociedades o l
 
 Para calcular el importe de las multas a que se refiere la presente ley, se tendrá como base el salario mínimo general correspondiente al Distrito Federal, vigente en el día en que se haya cometido la infracción o, en su caso, cuando cese la misma.
 
-> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2024)</small>
 
 ###### Artículo 54.
 
-La facultad del Banco de México, de la Profeco, de la Condusef y de la Comisión para imponer las sanciones de carácter administrativo previstas en esta Ley, caducará en un plazo de cinco años, contado a partir de la realización de la infracción. El plazo de referencia se interrumpirá al iniciarse el procedimiento administrativo relativo.
+La facultad del Banco de México, de la Profeco, de la Condusef y de la Comisión para imponer las sanciones de carácter administrativo previstas en esta Ley, caducará en un plazo de cinco años, contado a partir de la realización de la infracción. El plazo de referencia se interrumpirá al iniciarse el procedimiento administrativo relativo. En el caso de una conducta continua, el plazo referido deberá computarse a partir de que cesó la conducta infractora. Tratándose de conductas continuadas, el plazo referido correrá a partir de que se consumó la última conducta.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O.F. 24 DE ENERO DE 2024)</small>
+
+Asimismo, el plazo de cinco años previsto por este artículo se suspenderá:
+
+I. Hasta por dos años, cuando la Entidad Financiera: no se ubique en el domicilio registrado ante la Autoridad respectiva sin que haya presentado el aviso de cambio correspondiente, o hubiere señalado un domicilio incorrecto.
+
+El citado plazo se reanudará a partir de la fecha en que la Autoridad tenga conocimiento del domicilio actual.
+
+II. Cuando la Entidad Financiera haya controvertido cualquiera de los actos relacionados con el proceso de imposición de la sanción. Dicha suspensión se computará desde la fecha de interposición del medio de defensa y hasta aquella en que se dicte la resolución definitiva correspondiente.
+
+> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 Se entenderá que el procedimiento administrativo de que se trata ha iniciado, cuando el Banco de México, la Comisión, la Profeco o la Condusef, según corresponda, notifiquen al presunto infractor las irregularidades vertidas en su contra.
 
@@ -1633,3 +1675,15 @@ D.O.F. 9 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE EXPIDE LA LEY PARA REGULAR LAS INSTITUCIONES DE TECNOLOGÍA FINANCIERA Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE CRÉDITO, DE LA LEY DEL MERCADO DE VALORES, DE LA LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO, DE LA LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS SOCIEDADES DE INFORMACIÓN CREDITICIA, DE LA LEY DE PROTECCIÓN Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES Y, DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, salvo que en las Disposiciones Transitorias de este Decreto se disponga lo contrario.
+
+D.O.F. 24 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS LEYES FINANCIERAS EN MATERIA DE PROCEDIMIENTO ADMINISTRATIVO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los procedimientos administrativos sancionadores que, a la fecha de entrada del presente Decreto, se hubieren iniciado deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación al presunto infractor.
+
+Tercero.- Las resoluciones que pongan fin a los procedimientos administrativos de revocación que se hubieren iniciado mediante la notificación del acto a través del cual se concede el derecho de audiencia, antes de la entrada en vigor del presente Decreto, deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación a la institución o entidad correspondiente.
+
+Cuarto.- La sustanciación y resolución de los procedimientos sancionadores que, a la fecha de entrada del presente Decreto, hubiere iniciado el Banco de México se regirán por lo dispuesto en las Reglas de Supervisión, Programas de Autocorrección y del Procedimiento Sancionador, vigentes en la misma fecha de entrada en vigor del presente Decreto.
