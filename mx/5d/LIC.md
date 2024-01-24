@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2022-03-11"
+last_updated: "2024-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CRÉDITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2024.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -2116,6 +2116,10 @@ El Banco de México, de oficio o a petición de cualquier interesado, podrá ver
 
 Contra las resoluciones por las que el Banco de México imponga alguna multa, procederá el recurso de reconsideración previsto en los artículos 64 y 65 de la Ley del Banco de México, el cual será de agotamiento obligatorio y deberá interponerse dentro de los 15 días hábiles bancarios siguientes a la fecha de notificación de tales resoluciones. Respecto de lo que se resuelva en ese medio de defensa, se estará a lo previsto en el último párrafo del artículo 65 de la Ley del Banco de México. La ejecución de las resoluciones de multas se hará conforme a los artículos 66 y 67 de la Ley del Banco de México.
 
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Las notificaciones, trámite y resolución del recurso de reconsideración se regirán por la Ley del Banco de México, su Reglamento Interior y las reglas de carácter general emitidas al efecto por el propio Banco.
+
 > <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2010)</small>
 
 ARTICULO 48 BIS 2. Las instituciones de crédito que reciban depósitos bancarios de dinero a la vista de personas físicas, estarán obligadas a ofrecer un producto básico bancario de nómina de depósito o ahorro, en los términos y condiciones que determine el Banco de México mediante disposiciones de carácter general, considerando que aquellas cuentas cuyo abono mensual no exceda el importe equivalente a ciento sesenta y cinco salarios mínimos diarios vigente en el Distrito Federal, estén exentas de cualquier comisión por apertura, retiros y consultas o por cualquier otro concepto en la institución que otorgue la cuenta. Además, estarán obligadas a ofrecer un producto con las mismas características para el público en general.
@@ -3550,41 +3554,85 @@ ARTICULO 106 BIS.- Los actos jurídicos que se celebren en contravención a lo e
 
 El uso de las palabras a que se refiere el artículo 105 de esta Ley, en el nombre de personas morales y establecimientos distintos a los autorizados para ello conforme al mismo precepto, se castigará por la Comisión Nacional Bancaria y de Valores con multa de 2,000 a 20,000 días de salario mínimo general diario vigente en el Distrito Federal, y la negociación respectiva podrá ser clausurada administrativamente por dicha Comisión hasta que su nombre sea cambiado.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2024)</small>
 
-ARTICULO 107 BIS.- Las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, así como el Instituto para la Protección al Ahorro Bancario, en el ámbito de sus respectivas competencias, en la imposición de sanciones de carácter administrativo a que se refiere esta Ley, se sujetarán a lo siguiente:
+ARTICULO 107 BIS.- Las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, así como el Instituto para la Protección al Ahorro Bancario y el Banco de México, en el ámbito de sus respectivas competencias, en la imposición de sanciones de carácter administrativo a que se refiere esta Ley, se sujetarán a lo siguiente:
 
-I. Se otorgará audiencia al presunto infractor, quien, en un plazo de diez días hábiles contado a partir del día hábil siguiente a aquel en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga, ofrecer pruebas y formular alegatos. Las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, así como el Instituto para la Protección al Ahorro Bancario, a petición de parte, podrán ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. La notificación surtirá efectos al día hábil siguiente a aquel en que se practique.
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
+
+I. Se otorgará audiencia al presunto infractor, quien, en un plazo de diez días hábiles contado a partir del día hábil siguiente a aquel en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga y ofrecer pruebas. Las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, así como el Instituto para la Protección al Ahorro Bancario y el Banco de México, a petición de parte, podrán ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. La notificación surtirá efectos al día hábil siguiente a aquel en que se practique.
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
 II En caso de que el presunto infractor no hiciere uso del derecho de audiencia a que se refiere la fracción anterior dentro del plazo concedido o bien, habiéndolo ejercido no lograre desvanecer las imputaciones vertidas en su contra, se tendrán por acreditadas las infracciones imputadas y se procederá a la imposición de la sanción administrativa correspondiente.
 
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
 III Para la imposición de sanciones se tomará en cuenta, en su caso, lo siguiente:
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 a) El impacto a terceros o al sistema financiero mexicano que haya producido o pueda producir la infracción;
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 b) La reincidencia, las causas que la originaron y, en su caso, las acciones correctivas aplicadas por el presunto infractor. Se considerará reincidente al que haya incurrido en una infracción que haya sido sancionada y, en adición a aquella, cometa la misma infracción, dentro de los dos años inmediatos siguientes a la fecha en que haya quedado firme la resolución correspondiente.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 La reincidencia se podrá sancionar con multa cuyo importe sea equivalente hasta el doble de la prevista originalmente;
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 c) La cuantía de la operación;
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 d) La condición económica del infractor a efecto de que la sanción no sea excesiva, y
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 e) La naturaleza de la infracción cometida.
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
 IV. Tratándose de conductas calificadas por esta Ley como graves, en adición a lo establecido en la fracción III de este artículo, podrán tomar en cuenta cualquiera de los aspectos siguientes:
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 a) El monto del quebranto o perjuicio patrimonial causado;
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 b) El lucro obtenido;
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 c) La falta de honorabilidad, por parte del infractor, de conformidad con esta Ley y las disposiciones de carácter general que de ella emanen;
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 d) La negligencia inexcusable o dolo con que se hubiere actuado;
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 e) Que la conducta infractora a que se refiere el proceso administrativo pueda ser constitutiva de un delito, o
 
-f) Las demás circunstancias que las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, así como el Instituto para la Protección al Ahorro Bancario estimen aplicables para tales efectos.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+f) Las demás circunstancias que las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, así como el Instituto para la Protección al Ahorro Bancario y el Banco de México, según corresponda, estimen aplicables para tales efectos.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Concluido el plazo a que se refiere la fracción I del presente artículo, y en su caso el de su ampliación, las Comisiones Nacionales Bancaria y de Valores, para la Protección y Defensa de los Usuarios de Servicios Financieros, así como el Instituto para la Protección al Ahorro Bancario y el Banco de México, según corresponda, contarán con hasta sesenta días hábiles para el desahogo de las pruebas.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Una vez desahogadas las pruebas admitidas al presunto infractor, la autoridad que corresponda, de las señaladas en el párrafo anterior, le notificará la apertura del periodo de cinco días hábiles para formular alegatos. La autoridad respectiva podrá realizar dicha notificación por estrados o por cualquier otro medio, en los casos en que así lo determine.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la autoridad respectiva contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento sancionador, así como para imponer, en su caso, las sanciones que conforme a derecho procedan.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -3768,15 +3816,35 @@ Una vez desahogado el derecho de audiencia a que se refiere el artículo 107 Bis
 
 Las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, así como el Instituto para la Protección al Ahorro Bancario podrán allegarse de los medios de prueba que consideren necesarios, así como acordar sobre la admisibilidad de las pruebas ofrecidas. Sólo podrán rechazarse las pruebas aportadas por los interesados cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el fondo del asunto, sean improcedentes, innecesarias o contrarias a la moral o al derecho. La valoración de las pruebas se hará conforme a lo establecido por el Código Federal de Procedimientos Civiles.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+ARTICULO 109 BIS 1.- Las facultades de las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, así como del Instituto para la Protección al Ahorro Bancario y del Banco de México para imponer las sanciones de carácter administrativo previstas en esta Ley, así como en las disposiciones que de ella emanen, caducará en un plazo de cinco años, contado a partir del día hábil siguiente al que se realizó la conducta o se actualizó el supuesto de infracción. Para el caso de conductas continuas, el plazo referido se computará a partir del momento en que cese la misma y tratándose de continuadas, se contará a partir de la consumación de la última conducta.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+La caducidad referida en el párrafo anterior se interrumpirá a partir de la notificación al presunto infractor del oficio mediante el cual se le concede el derecho de audiencia.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O.F. 24 DE ENERO DE 2024)</small>
+
+Asimismo, el plazo de cinco años previsto por este artículo se suspenderá:
+
+I. Hasta por dos años, cuando el presunto infractor: no se ubique en el domicilio registrado ante la autoridad respectiva sin que haya presentado el aviso de cambio correspondiente, o hubiere señalado un domicilio incorrecto.
+
+El citado plazo se reanudará a partir de la fecha en que la Autoridad tenga conocimiento del domicilio actual.
+
+II. Cuando el presunto infractor haya controvertido cualquiera de los actos relacionados con el proceso de imposición de la sanción. Dicha suspensión se computará desde la fecha de interposición del medio de defensa y hasta aquella en que se dicte la resolución definitiva correspondiente.
+
+En adición a lo previsto en los dos párrafos anteriores, se observará respecto del Banco de México, además, lo dispuesto en las reglas de carácter general emitidas por el propio Banco.
+
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
-
-ARTICULO 109 BIS 1.- Las facultades de las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, así como del Instituto para la Protección al Ahorro Bancario para imponer las sanciones de carácter administrativo previstas en esta Ley, así como en las disposiciones que de ella emanen, caducará en un plazo de cinco años, contado a partir del día hábil siguiente al que se realizó la conducta o se actualizó el supuesto de infracción.
-
-El plazo de caducidad señalado en el párrafo inmediato anterior se interrumpirá al iniciarse los procedimientos relativos. Se entenderá que el procedimiento de que se trata ha iniciado a partir de la notificación al presunto infractor del oficio mediante el cual se le concede el derecho de audiencia a que hace referencia la fracción I del artículo 107 Bis de esta ley.
 
 Para calcular el importe de las multas en aquellos supuestos contemplados por esta Ley a razón de días de salario, se tendrá como base el salario mínimo general diario vigente en el Distrito Federal el día en que se realice la conducta sancionada o se actualice el supuesto que dé motivo a la sanción correspondiente.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 Las multas que las citadas Comisiones, así como el Instituto para la Protección al Ahorro Bancario impongan deberán ser pagadas dentro de los quince días hábiles siguientes al de su notificación. Cuando las multas no se paguen dentro del plazo señalado en este párrafo, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, en los mismos términos que establece el Código Fiscal de la Federación.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 En caso de que el infractor pague las multas impuestas por las autoridades antes mencionadas dentro de los quince días referidos en el párrafo anterior, se aplicará una reducción en un veinte por ciento de su monto, siempre y cuando no se hubiere interpuesto medio de defensa alguno en contra de dicha multa.
 
@@ -8039,3 +8107,15 @@ Segundo. Los procedimientos de garantía de audiencia que esté conociendo la Un
 Tercero. La Secretaría de Hacienda y Crédito Público, en el ámbito de su competencia, deberá derogar lo previsto en la 73ª de las disposiciones de carácter general a que se refiere el artículo 115 de esta Ley e incorporar a dichas disposiciones el correspondiente desarrollo del procedimiento previsto en el artículo 116 Bis 2 de la Ley.
 
 Cuarto. Serán de aplicación supletoria del Capítulo V, las disposiciones contenidas en la Ley Federal de Procedimiento Administrativo, en tanto no sean previstas en el mismo.
+
+D.O.F. 24 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS LEYES FINANCIERAS EN MATERIA DE PROCEDIMIENTO ADMINISTRATIVO".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los procedimientos administrativos sancionadores que, a la fecha de entrada del presente Decreto, se hubieren iniciado deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación al presunto infractor.
+
+Tercero.- Las resoluciones que pongan fin a los procedimientos administrativos de revocación que se hubieren iniciado mediante la notificación del acto a través del cual se concede el derecho de audiencia, antes de la entrada en vigor del presente Decreto, deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación a la institución o entidad correspondiente.
+
+Cuarto.- La sustanciación y resolución de los procedimientos sancionadores que, a la fecha de entrada del presente Decreto, hubiere iniciado el Banco de México se regirán por lo dispuesto en las Reglas de Supervisión, Programas de Autocorrección y del Procedimiento Sancionador, vigentes en la misma fecha de entrada en vigor del presente Decreto.
