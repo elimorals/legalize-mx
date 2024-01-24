@@ -4,7 +4,7 @@ identifier: "LRAF"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-10"
-last_updated: "2018-03-09"
+last_updated: "2024-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97120&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRAF"
 
 LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2024.
 
 Ley publicada en la Quinta Sección del Diario Oficial de la Federación, el viernes 10 de enero de 2014.
 
@@ -1720,9 +1720,19 @@ IV. Las entidades financieras integrantes del Grupo Financiero cumplan con los r
 
 Lo anterior, sin perjuicio de los procedimientos que, en su caso, deban efectuarse ante la Comisión Federal de Competencia Económica o cualquier otra autoridad.
 
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+La declaración de revocación se publicará en el Diario Oficial de la Federación y deberá inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la Sociedad Controladora de que se trate, para lo cual el Registro únicamente requerirá previa notificación. Una vez inscrita la revocación en el Registro Público de Comercio, la sociedad deberá dar aviso a la Secretaría de dicha inscripción.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Al revocarse la autorización de la Sociedad Controladora las entidades financieras integrantes del Grupo Financiero deberán dejar de ostentarse como integrantes del mismo. Dichas entidades financieras contarán con un plazo máximo de sesenta días hábiles contado a partir de la publicación de la revocación en el citado Diario Oficial, para suspender la oferta de los productos y prestación de los servicios financieros en las sucursales de las demás entidades financieras que integraban el Grupo Financiero.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2024)</small>
+
 ###### Artículo 123.
 
-La Secretaría, oyendo la opinión del Banco de México y, según corresponda, de las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas o del Sistema de Ahorro para el Retiro, así como de la Sociedad Controladora del Grupo Financiero afectado, podrá declarar la revocación de la autorización otorgada para la organización de la Sociedad Controladora y la constitución y funcionamiento del Grupo Financiero prevista en el presente ordenamiento legal, en los siguientes casos:
+La Secretaría, oyendo la opinión del Banco de México y, según corresponda, de las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas o del Sistema de Ahorro para el Retiro, y previa audiencia de la Sociedad Controladora del Grupo Financiero afectado, podrá declarar la revocación de la autorización otorgada para la organización de la Sociedad Controladora y la constitución y funcionamiento del Grupo Financiero prevista en el presente ordenamiento legal, en los siguientes casos:
 
 I. Si la Sociedad Controladora de que se trate no presenta el instrumento público en el que conste la escritura constitutiva para su aprobación dentro de los noventa días siguientes posteriores a la fecha en que se haya notificado la autorización de que se trate;
 
@@ -1738,9 +1748,23 @@ VI. Si transcurrido el plazo de nueve meses, contado a partir de la declaración
 
 Lo anterior, sin perjuicio de los procedimientos que, en su caso, deban efectuarse ante la Comisión Federal de Competencia Económica o cualquier otra autoridad.
 
-La declaración de revocación se publicará en el Diario Oficial de la Federación, se inscribirá en la oficina del Registro Público de Comercio que corresponda al domicilio social de la Sociedad Controladora de que se trate, y pondrá en estado de disolución y liquidación a dicha sociedad sin necesidad del acuerdo de la asamblea de accionistas.
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
 
-Una vez inscrita la revocación en el Registro Público de Comercio, la sociedad deberá dar aviso a la Secretaría de dicha inscripción.
+Para efectos de lo previsto por el primer párrafo de este artículo, se otorgará audiencia a la Sociedad Controladora de que se trate, a efecto que, dentro del plazo de diez días hábiles contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, manifieste por escrito lo que a su interés convenga y ofrezca pruebas.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+La Secretaría, a petición de parte, podrá ampliar por una sola ocasión el plazo previsto por el párrafo anterior, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. Las notificaciones surtirán efectos al día hábil siguiente a aquél en que se practiquen. Concluido el plazo a que se refiere el párrafo anterior, y en su caso el de su ampliación, la Secretaría contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Transcurrido el plazo para el desahogo de las pruebas, la Sociedad Controladora contará con cinco días hábiles para formular alegatos. Al día hábil siguiente al vencimiento de dicho plazo se tendrá por cerrada la instrucción y la Secretaría contará con un plazo que no excederá de ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento de revocación a que se refiere el presente artículo.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+El Banco de México y, según corresponda, las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas o del Sistema de Ahorro para el Retiro, deberán emitir la opinión a que se refiere el primer párrafo de este artículo, con al menos treinta días hábiles de anticipación a que fenezca el plazo previsto para dictar la resolución que ponga fin al procedimiento de revocación. En caso de que cualquiera de las opiniones referidas sea emitida con posterioridad al plazo señalado, la Secretaría podrá resolver lo que corresponda con las constancias que obren en el expediente, sin necesidad de considerar la opinión presentada extemporáneamente.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+La declaración de revocación se publicará en el Diario Oficial de la Federación y deberá inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la Sociedad Controladora de que se trate, para lo cual el Registro únicamente requerirá previa notificación. La revocación pondrá en estado de disolución y liquidación a la Sociedad Controladora a partir de la fecha en que se le notifique sin necesidad del acuerdo de la asamblea de accionistas.
+
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 24 DE ENERO DE 2024)</small>
 
 Al revocarse la autorización de la Sociedad Controladora las entidades financieras integrantes del Grupo Financiero deberán dejar de ostentarse como integrantes del mismo. Dichas entidades financieras contarán con un plazo máximo de sesenta días hábiles contado a partir de la publicación de la revocación en el citado Diario Oficial, para suspender la oferta de los productos y prestación de los servicios financieros en las sucursales de las demás entidades financieras que integraban el Grupo Financiero.
 
@@ -1972,7 +1996,9 @@ En caso de que el infractor pague las multas impuestas por la Comisión Supervis
 
 La Comisión Supervisora, en la imposición de sanciones de carácter administrativo a que se refiere esta Ley, se sujetará a lo siguiente:
 
-I. Se otorgará audiencia al presunto infractor, quien, en un plazo de diez días hábiles contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga, ofrecer pruebas y formular alegatos. La referida Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. La notificación surtirá efectos al día hábil siguiente a aquél en que se practique, y
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2024)</small>
+
+I. Se otorgará audiencia al presunto infractor, quien, en un plazo de diez días hábiles contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga y ofrecer pruebas. La referida Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. La notificación surtirá efectos al día hábil siguiente a aquél en que se practique, y
 
 II. En caso de que el presunto infractor no hiciere uso del derecho de audiencia dentro del plazo concedido o bien, habiéndolo ejercido no lograre desvanecer las imputaciones vertidas en su contra, se tendrán por acreditadas las infracciones imputadas y se procederá a la imposición de la sanción administrativa correspondiente.
 
@@ -1985,6 +2011,18 @@ b) La reincidencia, las causas que la originaron y, en su caso, las acciones cor
 c) La cuantía de la operación, y
 
 d) La intención de realizar la conducta.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Concluido el plazo a que se refiere la fracción I del presente artículo, y en su caso el de su ampliación, la Comisión Supervisora contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Una vez desahogadas las pruebas admitidas al presunto infractor, la Comisión Supervisora notificará la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión respectiva podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2024)</small>
+
+Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión respectiva contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento sancionador e imponer, en su caso, las sanciones que conforme a derecho procedan.
 
 ###### Artículo 144.
 
@@ -2589,3 +2627,15 @@ D.O.F. 9 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE EXPIDE LA LEY PARA REGULAR LAS INSTITUCIONES DE TECNOLOGÍA FINANCIERA Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE CRÉDITO, DE LA LEY DEL MERCADO DE VALORES, DE LA LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO, DE LA LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS SOCIEDADES DE INFORMACIÓN CREDITICIA, DE LA LEY DE PROTECCIÓN Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES Y, DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, salvo que en las Disposiciones Transitorias de este Decreto se disponga lo contrario.
+
+D.O.F. 24 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS LEYES FINANCIERAS EN MATERIA DE PROCEDIMIENTO ADMINISTRATIVO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los procedimientos administrativos sancionadores que, a la fecha de entrada del presente Decreto, se hubieren iniciado deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación al presunto infractor.
+
+Tercero.- Las resoluciones que pongan fin a los procedimientos administrativos de revocación que se hubieren iniciado mediante la notificación del acto a través del cual se concede el derecho de audiencia, antes de la entrada en vigor del presente Decreto, deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación a la institución o entidad correspondiente.
+
+Cuarto.- La sustanciación y resolución de los procedimientos sancionadores que, a la fecha de entrada del presente Decreto, hubiere iniciado el Banco de México se regirán por lo dispuesto en las Reglas de Supervisión, Programas de Autocorrección y del Procedimiento Sancionador, vigentes en la misma fecha de entrada en vigor del presente Decreto.
