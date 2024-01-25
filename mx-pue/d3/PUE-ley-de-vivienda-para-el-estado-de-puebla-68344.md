@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-vivienda-para-el-estado-de-puebla-68344"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-17"
-last_updated: "2023-07-03"
+last_updated: "2024-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE VIVIENDA PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2024.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 17 de abril de 2009.
 
@@ -41,19 +41,23 @@ LEY DE VIVIENDA PARA EL ESTADO DE PUEBLA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2024)</small>
 
 ###### Artículo 1.
 
-La presente Ley es reglamentaria del artículo 123 de la Constitución Política del Estado Libre y Soberano de Puebla, en materia de vivienda, sus disposiciones son de orden público e interés social y tienen por objeto establecer y regular la Política del Estado y de los Municipios en materia de vivienda, los programas, los instrumentos, los planes, apoyos para financiamiento, comercialización y titulación para la vivienda social y demás disposiciones legales para que toda familia o persona que habite en el Estado pueda disfrutar de una vivienda digna y decorosa, preferentemente aquellas que se encuentren en una situación de marginación, pobreza y vulnerabilidad social. Para cumplir con su objeto, tanto el Estado, como los Municipios, podrán coordinarse con la Federación en el establecimiento de sus políticas públicas en materia de vivienda.
+La presente Ley es reglamentaria del artículo 123 de la Constitución Política del Estado Libre y Soberano de Puebla, en materia de vivienda, sus disposiciones son de orden público e interés social y tienen por objeto establecer y regular la Política del Estado y de los Municipios en materia de vivienda, los programas, los instrumentos, los planes, apoyos para financiamiento, comercialización y titulación para la vivienda social y demás disposiciones legales para que toda familia o persona que habite en el Estado pueda disfrutar de una vivienda adecuada, digna y decorosa, preferentemente aquellas que se encuentren en una situación de marginación, pobreza y vulnerabilidad social. Para cumplir con su objeto, tanto el Estado, como los Municipios, podrán coordinarse con la Federación en el establecimiento de sus políticas públicas en materia de vivienda.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
 
 El Estado establecerá los lineamientos y mecanismos para coordinar las acciones de los sectores público, social y privado encaminados a garantizar este derecho.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2024)</small>
 
 ###### Artículo 2.
 
-Se considerará vivienda digna y decorosa la que cumpla con las disposiciones jurídicas aplicables en materia de asentamientos humanos, construcción, salubridad, cuente con espacios habitables y auxiliares, así como con los servicios básicos y brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión y contemple criterios de calidad en sus materiales y en su construcción para la prevención de desastres, así como, protección física y seguridad de sus ocupantes ante los elementos naturales potencialmente agresivos.
+Se considerará vivienda adecuada, digna y decorosa la que cumpla con las disposiciones jurídicas aplicables en materia de asentamientos humanos, construcción, salubridad, cuente con espacios habitables y auxiliares, así como con los servicios básicos y brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión y contemple criterios de calidad en sus materiales y en su construcción para la prevención de desastres, así como protección física y seguridad de sus ocupantes ante los elementos naturales potencialmente agresivos.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2016)</small>
 
 La vivienda no podrá establecerse en zonas de alto riesgo.
 
@@ -85,21 +89,15 @@ IV. Espacios Auxiliares.- El lugar de la vivienda donde se desarrollan actividad
 
 V. Espacios Habitables.- El lugar de la vivienda donde se desarrollan actividades de reunión o descanso, que cuenten con las dimensiones mínimas de superficie, altura, ventilación e iluminación natural, además de contar como mínimo con un baño, cocina, estancia-comedor y dos recámaras, de conformidad con las características y condiciones mínimas necesarias que establezcan las leyes y las normas oficiales mexicanas;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+VI. (DEROGADA, P.O. 25 DE ENERO DE 2024)
 
-VI. Habitabilidad.- Se refiere a las condiciones de las características físicas de la vivienda en cuanto a su tamaño, calidad y durabilidad de sus materiales así como los servicios básicos y las características psicosociales de la familia como hábitos, conductas o maneras de ser adquiridas en el transcurso del tiempo;
+VII. (DEROGADA, P.O. 25 DE ENERO DE 2024)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JULIO DE 2022)</small>
+VIII. (DEROGADA, P.O. 25 DE ENERO DE 2024)
 
-VII. Asequibilidad.- La disponibilidad de una vivienda de acuerdo a los ingresos de los adquirientes o usuarios, permitiendo el disfrute de otros derechos;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JULIO DE 2022)</small>
-
-VIII. Accesibilidad.- El diseño y materialidad de la vivienda considerando las necesidades de los grupos desfavorecidos, marginados y de las personas con discapacidad;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JULIO DE 2022)</small>
-
-IX. Mejoramiento de la vivienda.- La acción tendiente a consolidar o renovar las viviendas deterioradas física o funcionalmente, mediante actividades de ampliación, reparación, reforzamiento estructural o rehabilitación que propicien una vivienda digna y decorosa;
+IX. Mejoramiento de la vivienda.- La acción tendiente a consolidar o renovar las viviendas deterioradas física o funcionalmente, mediante actividades de ampliación, reparación, reforzamiento estructural o rehabilitación, que propicien una vivienda adecuada, digna y decorosa;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE JULIO DE 2022)</small>
 
@@ -132,6 +130,24 @@ XVI. Sistema.- Sistema Estatal de Vivienda;
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE JULIO DE 2022)</small>
 
 XVII. Vivienda.- Área construida que cuenta con el conjunto de satisfactores y servicios propios de la habitación;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2024)</small>
+
+XVII Bis. Vivienda Adecuada. Aquella que se integra y garantiza para sus ocupantes los siguientes elementos:
+
+a) Seguridad de la tenencia: Condiciones que garanticen seguridad jurídica en cuanto a su propiedad o legítima posesión, contra el desalojo forzoso, el hostigamiento u otras amenazas.
+
+b) Disponibilidad de servicios, materiales, instalaciones e infraestructura: Acceso permanente a agua potable, energía para la cocción de alimentos, calefacción y alumbrado; adecuadas instalaciones sanitarias, de almacenamiento de alimentos, eliminación de desechos, drenaje y a servicios de emergencia.
+
+c) Asequibilidad: El gasto asociado a la vivienda no debe exceder el ingreso del hogar ni poner en peligro el disfrute de otros satisfactores básicos o el ejercicio de sus derechos humanos.
+
+d) Habitabilidad: El espacio debe ser suficiente y garantizar la seguridad física de sus ocupantes, además de proporcionar protección contra condiciones climatológicas, riesgos para la salud y peligros estructurales.
+
+e) Accesibilidad: El diseño y materialidad de la vivienda debe considerar las necesidades específicas de los grupos desfavorecidos y marginados.
+
+f) Ubicación: La vivienda debe ubicarse en un lugar que permita el acceso a opciones de empleo, servicios de salud, escuelas, guarderías y otros servicios e instalaciones sociales, y ubicarse fuera de zonas de riesgo o contaminadas.
+
+g) Adecuación cultural: La manera en que se construye la vivienda, los materiales de construcción utilizados y las políticas en que se apoyan deben permitir adecuadamente la expresión de la identidad cultural y la diversidad de vivienda.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2022)</small>
 
@@ -171,9 +187,11 @@ A falta de norma expresa en materia de vivienda en la presente Ley, se observar�
 
 ### CAPÍTULO II. DE LA PLANEACIÓN Y PROGRAMACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2024)</small>
+
 ###### Artículo 7.
 
-El Estado y los Municipios orientarán su política de vivienda al cumplimiento del mandato constitucional del derecho a la vivienda digna y decorosa.
+El Estado y los Municipios orientarán su política de vivienda al cumplimiento del mandato constitucional del derecho a la vivienda digna y decorosa, tomando como base los elementos de la vivienda adecuada.
 
 En la formulación, ejecución y control de la política de vivienda, deberán respetarse los Planes de Desarrollo Urbano, tanto Estatal como Municipal, el Plan Estatal de Ordenamiento Territorial y Ecológico, y demás reglamentación aplicable en la materia, además de los contenidos en los siguientes lineamientos generales:
 
@@ -1106,6 +1124,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 3 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XXI DEL ARTÍCULO 7, LAS FRACCIONES III, IV Y V DEL ARTÍCULO 9 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 48, Y ADICIONA LA FRACCIÓN VI AL ARTÍCULO 9, TODOS DE LA LEY DE VIVIENDA PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 1, EL PRIMER PÁRRAFO DEL ARTÍCULO 2, LA FRACCIÓN IX DEL ARTÍCULO 4, EL PRIMER PÁRRAFO DEL ARTÍCULO 7; ADICIONA LA FRACCIÓN XVII BIS AL ARTÍCULO 4, Y DEROGA LAS FRACCIONES VI, VII Y VIII DEL ARTÍCULO 4, TODOS DE LA LEY DE VIVIENDA PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
