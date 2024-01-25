@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-fiscalia-general-del-estado-de-morelos-12959
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-11"
-last_updated: "2019-11-27"
+last_updated: "2024-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129591&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 27 DE NOVIEMBRE DE 2019 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO DOSCIENTOS CUARENTA Y DOS PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Morelos, el miércoles 11 de julio de 2018.
 
@@ -567,6 +565,8 @@ II. Las señaladas en las fracciones III, IV, VII y VIII, del artículo 22 y los
 
 El Fiscal General emitirá los acuerdos, circulares, instructivos, protocolos, programas, manuales administrativos y demás disposiciones que rijan la actuación de las Unidades Administrativas a su cargo.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2024)</small>
+
 ###### Artículo 26.
 
 Para el despacho de los asuntos de su competencia, la Fiscalía General contará con las siguientes Unidades Administrativas:
@@ -579,25 +579,27 @@ III. Fiscalía de Desaparición Forzada de Personas;
 
 IV. Fiscalía Antisecuestro;
 
-V. Fiscalías Regionales;
+V. Fiscalía Especializada en la Investigación y Persecución de Delitos de Tortura;
 
-VI. Coordinación General de Órganos Auxiliares;
+VI. Fiscalías Regionales;
 
-VII. Coordinación General de la Policía de Investigación Criminal;
+VII. Coordinación General de Órganos Auxiliares;
 
-VIII. Direcciones Generales;
+VIII. Coordinación General de la Policía de Investigación Criminal;
 
-IX. (DEROGADA, P.O. 22 DE MAYO DE 2019)
+IX. Direcciones Generales;
 
-X. Unidad de Representación Social;
+XI. Derogada
 
-XI. Direcciones de Área;
+XII. Unidad de Representación Social;
 
-XII. Unidades de Investigación;
+XIII. Direcciones de Área;
 
-XIII. Unidades Especializadas de Investigación, y
+XIV. Unidades de Investigación;
 
-XIV. Las demás que resulten necesarias para su funcionamiento y las que disponga la normativa aplicable y reglamentaria, de conformidad con el presupuesto autorizado para ello.
+XV. Unidades Especializadas de Investigación, y
+
+XVI. Las demás que resulten necesarias para su funcionamiento y las que disponga la normativa aplicable y reglamentaria, de conformidad con el presupuesto autorizado para ello.
 
 ###### Artículo 27.
 
@@ -905,13 +907,45 @@ XVI. Las demás previstas en la Ley y otros ordenamientos.
 
 La Fiscalía Antisecuestro contará con sus propios Manuales de organización y demás que al efecto se requieran para su eficaz funcionamiento.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 25 DE ENERO DE 2024)</small>
+
+#### SECCIÓN QUINTA BIS. DE LA FISCALÍA ESPECIALIZADA EN LA INVESTIGACIÓN Y PERSECUCIÓN DE DELITOS DE TORTURA
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2024)</small>
+
+Artículo 53 bis. La Fiscalía Especializada en la Investigación y Persecución de Delitos de Tortura tiene competencia en todo el territorio del Estado, y cuenta con plena autonomía técnica y operativa para el conocimiento, investigación y persecución de los delitos previstos en Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, competencia de la Fiscalía General.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2024)</small>
+
+Artículo 53 ter. La persona titular de la Fiscalía Especializada en la Investigación y Persecución de Delitos de Tortura será nombrada y removida libremente por el Fiscal General, previo cumplimiento de los requisitos previstos en el artículo 78 de la presente Ley y demás normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2024)</small>
+
+Artículo 53 quáter. La Fiscalía Especializada en la Investigación y Persecución de Delitos de Tortura tendrá, conforme el ámbito de su competencia, las obligaciones y facultades que prevé el artículo 59 de la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2024)</small>
+
+Artículo 53 quinquies. La Fiscalía Especializada en la Investigación y Persecución de Delitos de Tortura contará, conforme la suficiencia presupuestal, con los recursos humanos, presupuestales y materiales necesarios para su correcta operación. Los Agentes del Ministerio Público, Agentes de la Policía de Investigación Criminal o Peritos que se le adscriban deberán ser especializados.
+
+Las atribuciones y funciones de la persona titular, así como del personal y estructura que la integren se establecerán en el Reglamento y los Manuales Administrativos correspondientes.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2024)</small>
+
+Artículo 53 sexies. La persona titular de la Fiscalía Especializada en la Investigación y Persecución de Delitos de Tortura podrá emitir las disposiciones jurídicas y administrativas que considere necesarias para el cumplimiento de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2024)</small>
+
+Artículo 53 septies. La Fiscalía Especializada en la Investigación y Persecución de Delitos de Tortura, podrá celebrar convenios con la Comisión Ejecutiva de Atención a Víctimas del Estado, para dar cumplimiento a lo previsto en los artículos 40 y 41 de la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2024)</small>
+
+Artículo 53 octies. El personal que integre a la Fiscalía Especializada en la Investigación y Persecución de Delitos de Tortura deberá estar en constante profesionalización, conforme los planes y programas de capacitación y demás eventos académicos que determine el Instituto de Procuración de Justicia, con el fin de lograr la mejora continua en la investigación de los delitos a su cargo; en especial en materia de planeación, desarrollo y técnicas de investigación criminal, uso adecuado, legal, proporcional, razonable y gradual de la fuerza, así como en derechos humanos.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2024)</small>
+
+Artículo 53 nonies. Para ser integrante y permanecer en la Fiscalía Especializada en la Investigación y Persecución de Delitos de Tortura será necesario cumplir con los requisitos previstos por el artículo 58 de la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
 #### SECCIÓN SEXTA. DE LAS FISCALÍAS REGIONALES
-
-#### SECCIÓN SÉPTIMA. DE LAS UNIDADES DE APOYO
-
-APARTADO I
-
-DEL CENTRO DE JUSTICIA PARA LAS MUJERES
 
 ###### Artículo 54.
 
@@ -985,7 +1019,11 @@ Las Fiscalías Regionales, en el ejercicio de sus funciones y actividades, organ
 
 Las disposiciones a que se refiere la presente sección resultan aplicables en lo conducente a las Fiscalías Especializadas a que se refieren los artículos 26, fracciones II, III, IV, V y 28 de la presente Ley.
 
-#### SECCIÓN ÚNICA. DEL CONCEPTO GENERAL DEL SERVICIO DE CARRERA
+#### SECCIÓN SÉPTIMA. DE LAS UNIDADES DE APOYO
+
+APARTADO I
+
+DEL CENTRO DE JUSTICIA PARA LAS MUJERES
 
 ###### Artículo 59.
 
@@ -1057,7 +1095,7 @@ DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES Y LA FAMILIA
 
 ### CAPÍTULO I. DEL SERVICIO DE CARRERA
 
-#### SECCIÓN PRIMERA. DE LOS NOMBRAMIENTOS, LAS AUSENCIAS Y LA SEPARACIÓN
+#### SECCIÓN ÚNICA. DEL CONCEPTO GENERAL DEL SERVICIO DE CARRERA
 
 ###### Artículo 71.
 
@@ -1097,9 +1135,7 @@ Las demás atribuciones y disposiciones necesarias de este sistema se desarrolla
 
 ### CAPÍTULO II. DISPOSICIONES COMPLEMENTARIAS
 
-#### SECCIÓN SEGUNDA. DEL RÉGIMEN LABORAL O ADMINISTRATIVO DEL PERSONAL
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
+#### SECCIÓN PRIMERA. DE LOS NOMBRAMIENTOS, LAS AUSENCIAS Y LA SEPARACIÓN
 
 ###### Artículo 74.
 
@@ -1171,7 +1207,9 @@ El Fiscal General, el Fiscal Anticorrupción y el Fiscal Especializado en Delito
 
 Lo anterior sin perjuicio de la garantía de audiencia previa que deberá concederles el Congreso del Estado.
 
-#### SECCIÓN TERCERA. DE LOS DERECHOS, RESPONSABILIDADES Y SANCIONES DEL PERSONAL DE LA FISCALÍA GENERAL
+#### SECCIÓN SEGUNDA. DEL RÉGIMEN LABORAL O ADMINISTRATIVO DEL PERSONAL
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 82.
 
@@ -1235,7 +1273,7 @@ Previo al ingreso como Agentes del Ministerio Público, Peritos y Agentes de la 
 
 El personal de la Fiscalía General será suplido en sus ausencias en los términos que establezca el Reglamento.
 
-#### SECCIÓN CUARTA. DE LAS EXCUSAS Y RECUSACIONES
+#### SECCIÓN TERCERA. DE LOS DERECHOS, RESPONSABILIDADES Y SANCIONES DEL PERSONAL DE LA FISCALÍA GENERAL
 
 ###### Artículo 91.
 
@@ -1353,13 +1391,15 @@ La aplicación de las sanciones a que se refiere el presente Capítulo, de acuer
 
 Cuando la autoridad jurisdiccional resolviere que la separación del cargo o remoción del personal que integra la Fiscalía fue de manera injustificada, se estará a lo dispuesto por el artículo 123, Apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos.
 
-#### SECCIÓN QUINTA. DE LAS PRERROGATIVAS POR SERVICIOS PRESTADOS
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2019)</small>
+#### SECCIÓN CUARTA. DE LAS EXCUSAS Y RECUSACIONES
 
 ###### Artículo 99.
 
 Los servidores públicos de la Fiscalía General y de la Fiscalía Anticorrupción, podrán excusarse y ser recusados en los asuntos que intervengan, cuando ocurra una o más de las causas que motivan las excusas en los términos del Código Nacional de Procedimientos Penales. La excusa y la recusación deberán ser calificadas en definitiva por el Fiscal General y su trámite se definirá en el Reglamento respectivo.
+
+#### SECCIÓN QUINTA. DE LAS PRERROGATIVAS POR SERVICIOS PRESTADOS
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2019)</small>
 
 ###### Artículo 100.
 
@@ -1970,3 +2010,27 @@ DÉCIMA. En un plazo no mayor de 90 días hábiles, contados a partir de la vige
 DÉCIMA PRIMERA. En un plazo no mayor de 90 días hábiles, la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos deberá realizar las adecuaciones normativas al Estatuto Orgánico, mismas que deberán inscribirse en el Registro Público de Organismos Descentralizados.
 
 DÉCIMA SEGUNDA. El Sistema para el Desarrollo Integral de la Familia del estado de Morelos, la Fiscalía General del Estado de Morelos y demás Secretarías, Dependencias y Entidades, procederán a realizar los actos administrativos idóneos y necesarios, así como la entrega recepción correspondiente, a partir del siguiente día al que entre en vigor el presente Decreto, en caso de que se hubiere realizado la entrega – recepción que se establece en las disposiciones transitorias DÉCIMA PRIMERA, DÉCIMA SEGUNDA, DÉCIMA TERCERA, DÉCIMA CUARTA y DÉCIMA QUINTA del Decreto número Tres Mil Doscientos Cuarenta y Ocho, publicado en el Periódico Oficial “Tierra y Libertad” 5611.
+
+P.O. 25 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL SEISCIENTOS DIECINUEVE POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS, POR LA QUE SE CREA LA "FISCALÍA ESPECIALIZADA EN LA INVESTIGACIÓN DE DELITOS DE TORTURA".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Los instrumentos reglamentarios emitidos con antelación de la creación de la Fiscalía General como organismo constitucional autónomo, resultarán aplicables y vigentes, siempre que su contenido no se oponga a lo previsto por la Ley Orgánica de la Fiscalía General del Estado de Morelos y demás disposiciones legales.
+
+Con independencia de lo anterior, la Fiscalía General del Estado de Morelos dentro de un plazo no mayor a 90 días hábiles contados a partir del inicio de vigencia del presente Decreto, deberá efectuar las modificaciones o emisiones reglamentarias que estime necesarias para lograr la exacta observancia de sus disposiciones, para lograr su armonización con el presente Decreto.
+
+CUARTA. La Fiscalía Especializada en la Investigación y Persecución de Delitos de Tortura conocerá de aquellas denuncias en trámite relativas a delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes, iniciadas con posterioridad al 25 de diciembre de 2017, fecha en que feneció el plazo con que debía crearse la Fiscalía Especializada, conforme lo señalado por la Disposición Sexta Transitoria del "Decreto por el que se expide la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes; y se reforman, adicionan y derogan diversas disposiciones del Código Penal Federal, de la Ley de la Comisión Nacional de los Derechos Humanos, de la Ley del Sistema Nacional de Seguridad Pública y de la Ley de Extradición Internacional", publicado en el Diario Oficial de la Federación el 26 de junio de 2017.
+
+Para tal efecto, en las adecuaciones reglamentarias que al efecto se emitan, se deberá establecer la trasferencia de las carpetas de investigación correspondientes, para que sean conocidas por la Fiscalía Especializada en la Investigación y Persecución de Delitos de Tortura, hasta su conclusión.
+
+QUINTA. El Congreso del Estado deberá destinar recursos presupuestales para la creación y operación de la Fiscalía Especializada en la Investigación y Persecución de Delitos de Tortura; por lo que tomará las acciones conducentes para que en el Presupuesto de Egresos del Ejercicio Fiscal de 2024, sean considerados los recursos presupuestales necesarios para ello, pudiendo considerar los aspectos técnicos que, en su caso, la Fiscalía General del Estado de Morelos le comparta para su integración en el citado Presupuesto.
+
+Por lo que una vez que se destinen los recursos públicos para la operación de la Fiscalía Especializada en la Investigación y Persecución de Delitos de Tortura, la Fiscalía General del Estado de Morelos contará con un plazo de 90 días hábiles para que aquella inicie operaciones, considerando que el personal que la integre deberá estar totalmente capacitado y evaluado conforme los exámenes de control de confianza.
+
+El inicio de operación de la Fiscalía Especializada en la Investigación y Persecución de Delitos de Tortura se dará a conocer mediante aviso que al efecto se publique en la página oficial de internet de la Fiscalía General del Estado de Morelos.
+
+SEXTA. Se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente Decreto.
