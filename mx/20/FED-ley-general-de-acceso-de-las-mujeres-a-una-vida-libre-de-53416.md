@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-53416"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-02-01"
-last_updated: "2024-01-17"
+last_updated: "2024-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53416&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-01-31"
 
 LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de febrero de 2007.
 
@@ -171,6 +171,10 @@ XVI. Debida diligencia: La obligación de las personas servidoras públicas de p
 
 XVII. Centros de Justicia para las Mujeres: Son espacios multidisciplinarios e interinstitucionales que brindan, de manera gratuita, atención integral a mujeres víctimas de violencia de género, así como a sus hijas e hijos menores de edad, desde las perspectivas de género, derechos humanos, intercultural, diferencial e interseccional, mediante la prestación de servicios en un mismo lugar, con la finalidad de promover y garantizar su acceso a la justicia, el ejercicio pleno de sus derechos humanos y su empoderamiento.
 
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2024)</small>
+
+XVIII. Espacio Público: Áreas, espacios abiertos o predios de los asentamientos humanos destinados al uso, disfrute o aprovechamiento colectivo, de acceso generalizado y libre tránsito.
+
 ###### ARTÍCULO 6.
 
 Los tipos de Violencia contra las Mujeres son:
@@ -187,7 +191,9 @@ III. La violencia patrimonial.- Es cualquier acto u omisión que afecta la super
 
 IV. Violencia económica.- Es toda acción u omisión del Agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
 
-V. La violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la Víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto, y
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2024)</small>
+
+V. La violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder, que se puede dar en el espacio público o privado, que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto, y
 
 > <small>(ADICIONADA, D.O.F. 17 DE ENERO DE 2024)</small>
 
@@ -343,15 +349,29 @@ VII. Implementar sanciones administrativas para los superiores jerárquicos del 
 
 Violencia en la Comunidad: Son los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres y propician su denigración, discriminación, marginación o exclusión en el ámbito público.
 
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2024)</small>
+
+###### ARTÍCULO 16 Bis.
+
+Acoso sexual en espacios públicos: Es una forma de violencia que conlleva un abuso de poder respecto de la víctima, sin que medie relación alguna con la persona agresora. Se manifiesta a través de una conducta física o verbal de connotación sexual no consentida ejercida sobre una o varias personas, en espacios y medios de transporte públicos, cuya acción representa una vulneración a los derechos humanos.
+
 ###### ARTÍCULO 17.
 
 El Estado mexicano debe garantizar a las mujeres la erradicación de la violencia en la comunidad, a través de:
 
 I. La reeducación libre de estereotipos y la información de alerta sobre el estado de riesgo que enfrentan las mujeres en una sociedad desigual y discriminatoria;
 
-II. El diseño de un sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres, y
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2024)</small>
 
-III. El establecimiento de un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones de política criminal que correspondan y faciliten el intercambio de información entre las instancias.
+II. El diseño de un sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres;
+
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2024)</small>
+
+III. El establecimiento de un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones de política criminal que correspondan y faciliten el intercambio de información entre las instancias, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2024)</small>
+
+IV. El diseño de políticas públicas dirigidas al desarrollo de espacios y transportes públicos libres de todo tipo de violencia contra las mujeres, las adolescentes y las niñas.
 
 ### CAPÍTULO IV. DE LA VIOLENCIA INSTITUCIONAL
 
@@ -1663,6 +1683,10 @@ Corresponde a las entidades federativas, de conformidad con lo dispuesto por est
 
 I. Instrumentar y articular sus políticas públicas y acciones en concordancia con la política nacional integral desde la perspectiva de género para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
 
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2024)</small>
+
+I Bis. Promover y garantizar espacios y transportes públicos seguros, libres de todo tipo de violencia contra las mujeres, las adolescentes y las niñas;
+
 II. Ejercer sus facultades reglamentarias para la aplicación de la presente ley;
 
 III. Coadyuvar en la adopción y consolidación del Sistema;
@@ -1750,6 +1774,10 @@ Las autoridades federales, harán las gestiones necesarias para propiciar que la
 Corresponde a los municipios y a las demarcaciones territoriales de la Ciudad de México, de conformidad con esta ley y las leyes locales en la materia y acorde con la perspectiva de género, las siguientes atribuciones:
 
 I. Instrumentar y articular, en concordancia con la política nacional y estatal, la política municipal orientada a erradicar la violencia contra las mujeres;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2024)</small>
+
+I Bis. Promover espacios y transportes públicos, libres de todo tipo de violencia contra las mujeres, las adolescentes y las niñas;
 
 II. Coadyuvar con la Federación y las entidades federativas, en la adopción y consolidación del Sistema;
 
@@ -2394,6 +2422,14 @@ D.O.F. 29 DE DICIEMBRE DE 2023.
 D.O.F. 17 DE ENERO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DEL CÓDIGO CIVIL FEDERAL Y DEL CÓDIGO PENAL FEDERAL, EN MATERIA DE VIOLENCIA A TRAVÉS DE INTERPÓSITA PERSONA".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán de conformidad con el presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+D.O.F. 26 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
