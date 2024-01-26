@@ -4,7 +4,7 @@ identifier: "LOTFJA"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-07-18"
-last_updated: "2016-07-18"
+last_updated: "2024-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115701&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOTFJA"
 
 LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ENERO DE 2024.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el lunes 18 de julio de 2016.
 
@@ -133,6 +133,10 @@ XVII. Las resoluciones de la Contraloría General del Instituto Nacional Elector
 XVIII. Las sanciones y demás resoluciones emitidas por la Auditoría Superior de la Federación, en términos de la Ley de Fiscalización y Rendición de Cuentas de la Federación, y
 
 XIX. Las señaladas en esta y otras leyes como competencia del Tribunal.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2024)</small>
+
+El Tribunal podrá llevar a cabo mecanismos alternativos de solución de controversias a través del Centro Público, de conformidad con lo dispuesto en la Ley General de Mecanismos Alternativos de Solución de Controversias, el Reglamento que expida el Pleno General y demás disposiciones aplicables.
 
 Para los efectos del primer párrafo de este artículo, las resoluciones se considerarán definitivas cuando no admitan recurso administrativo o cuando la interposición de éste sea optativa.
 
@@ -1231,3 +1235,15 @@ Todas las referencias que en las leyes se haga al Tribunal Federal de Justicia F
 Ciudad de México, a 6 de julio de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Dip. Juan Manuel Celis Aguirre, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciocho de julio de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 26 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS Y SE REFORMA Y ADICIONA LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Congreso General de los Estados Unidos Mexicanos, contará con un plazo máximo de 180 días naturales para la expedición de las adecuaciones normativas correspondientes al cumplimiento del presente Decreto.
+
+Tercero.- El Tribunal Federal de Justicia Administrativa, contará con un plazo máximo de 180 días naturales, para la expedición de las disposiciones aplicables para el cumplimiento del presente Decreto.
