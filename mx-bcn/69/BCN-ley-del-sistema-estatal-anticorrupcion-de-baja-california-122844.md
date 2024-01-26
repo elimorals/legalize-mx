@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-sistema-estatal-anticorrupcion-de-baja-california-12284
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-07"
-last_updated: "2022-10-17"
+last_updated: "2024-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2024.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el lunes 7 de agosto 2017.
 
@@ -107,9 +107,11 @@ Son sujetos de la presente Ley, los Entes públicos que integran el Sistema Esta
 
 ### CAPÍTULO II. Principios que rigen el servicio público
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2024)</small>
+
 ###### Artículo 5.
 
-Son principios rectores que rigen el servicio público los siguientes: legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, eficiencia, eficacia, equidad, transparencia, economía, integridad y competencia por mérito.
+Son principios rectores que rigen el servicio público los siguientes: legalidad, objetividad, profesionalismo, honradez, lealtad, disciplina, imparcialidad, eficiencia, eficacia, equidad, transparencia, rendición de cuentas, economía, integridad y competencia por mérito.
 
 Los Entes públicos están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada servidor público.
 
@@ -822,3 +824,9 @@ PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Por única ocasión y tratándose de la reforma al artículo 19, la Presidencia del Comité de Participación Ciudadana se ocupará y rotará atendiendo al orden de menor a mayor plazo de duración en el encargo por el que fueron designados sus cinco integrantes, en términos del artículo transitorio quinto de la reforma constitucional por el que se aprobó la conformación del Comité. En el supuesto de los integrantes que cuenten con un periodo igual de duración en el cargo, esta se determinará por insaculación.
 
 En ningún caso la Presidencia del Comité de Participación Ciudadana recaerá en quien ya la hubiere ostentado.
+
+P.O. 26 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 367 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A AL (SIC) ARTÍCULO 5 DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La reforma contenida en el presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
