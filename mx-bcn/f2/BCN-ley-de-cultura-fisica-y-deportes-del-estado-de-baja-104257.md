@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-cultura-fisica-y-deportes-del-estado-de-baja-104257"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2023-12-01"
+last_updated: "2024-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104257&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2024.
 
 Ley publicada en la Sección VIII del Periódico Oficial del Estado de Baja California, el miércoles 31 de diciembre de 2014.
 
@@ -155,9 +155,25 @@ XX.- Reglamento: El Reglamento de la Ley de Cultura Física y Deporte del Estado
 
 XXI.- SINADE: El Sistema Nacional de Cultura Física y Deporte;
 
-XXII.- SECUDE: Sistema Estatal de Cultura Física y Deporte; y
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2024)</small>
 
-XXIII.- SEP: La Secretaría de Educación Pública del Gobierno Federal.
+XXII.- SECUDE: Sistema Estatal de Cultura Física y Deporte;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2024)</small>
+
+XXIII.- SEP: La Secretaría de Educación Pública del Gobierno Federal;
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2024)</small>
+
+XXIV.- Deporte Social: El deporte que promueve, fomenta y estimula el que todas las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, tengan igualdad de participación en actividades deportivas con finalidades recreativas, educativas y de salud o rehabilitación;
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2024)</small>
+
+XXV.- Deporte Adaptado: Al que realizan las personas con discapacidad en condiciones de equidad, que es reglamentado e institucionalizado; y,
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2024)</small>
+
+XXVI.- Deporte de Alto Rendimiento: El deporte que se practica con altas exigencias técnicas y científicas de preparación y entrenamiento, que permite a la persona deportista la participación en preselecciones y selecciones nacionales que representan al país en competiciones y pruebas oficiales de carácter internacional.
 
 ###### ARTÍCULO 8.
 
@@ -2176,3 +2192,9 @@ P.O. 1 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 316 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA FRACCIÓN XIV AL ARTÍCULO 96 DE LA LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 368 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LAS FRACCIONES XXII Y XXIII Y LA ADICIÓN DE LAS FRACCIONES XXIV, XXV Y XXVI DEL ARTÍCULO 7 DE LA LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- Las reformas contenidas en el presente decreto entrará (sic) en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
