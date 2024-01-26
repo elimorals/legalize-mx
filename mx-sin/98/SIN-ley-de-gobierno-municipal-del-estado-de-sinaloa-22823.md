@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2023-10-25"
+last_updated: "2024-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial de Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
@@ -501,9 +501,25 @@ XV. Celebrar convenios con el Ejecutivo del Estado y con los organismos público
 
 Tratándose de obras públicas municipales dichos convenios podrán celebrarlos con el Ejecutivo, con los organismos paraestatales, con los demás ayuntamientos y con los organismos paramunicipales;
 
-XVI. Proyectar y ejecutar las obras necesarias para la prestación de servicios públicos, y supervisar las construidas para cubrir los servicios públicos concesionados; y
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2024)</small>
 
-XVII. Prevenir y combatir la contaminación ambiental, dando participación a la sociedad mediante la creación de consejos ciudadanos especializados en la materia.
+XVI. Proyectar y ejecutar las obras necesarias para la prestación de servicios públicos, y supervisar las construidas para cubrir los servicios públicos concesionados;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2024)</small>
+
+XVII. Prevenir y combatir la contaminación ambiental, dando participación a la sociedad mediante la creación de consejos ciudadanos especializados en la materia; y
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2024)</small>
+
+XVIII. Autorizar, conforme a dictamen emitido por la Comisión correspondiente, la asignación, modificación o sustitución de la nomenclatura de los espacios públicos y vías públicas previa solicitud.
+
+La denominación podrá corresponder a nombres de personas, fechas o eventos, basándose siempre en razones de índole histórica, social y cultural.
+
+En el caso de denominaciones con nombres de personas, deberán asignarse los de quienes hayan destacado por sus actos en la historia, ciencia, arte, tecnología, política, deporte o cualquier otra actividad de relevancia cultural.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XVIII, P.O. 26 DE ENERO DE 2024.]</small>
+
+No podrá establecerse una denominación en honor a personas que desempeñen un empleo, cargo o comisión ya sea de la Federación, del Estado o de los Municipios, ni de sus cónyuges o parientes hasta el cuarto grado durante el periodo de su gestión.
 
 > <small>(ADICIONADO, P.O. 8 DE MAYO DE 2015)</small>
 
@@ -1247,7 +1263,9 @@ III. Elaborar el calendario cívico municipal;
 
 IV. Elaborar el inventario de monumentos arqueológicos, históricos y artísticos que se encuentren en el territorio del municipio;
 
-V. Proponer al Ayuntamiento la regulación, así como la modificación a la nomenclatura en las calles, avenidas y colonias dentro de la zona urbana y rural del municipio, basándose siempre en razones de índole histórica y social;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2024)</small>
+
+V. Proponer al Ayuntamiento la regulación, así como la modificación a la nomenclatura en las calles, avenidas y colonias dentro de la zona urbana y rural del municipio, atendiendo a lo dispuesto en el artículo 29 de la presente Ley.
 
 VI. Ser órgano de consulta del Ayuntamiento para todo lo relacionado con la cultura, el turismo y el patrimonio cultural del Municipio;
 
@@ -2122,3 +2140,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. En un plazo de sesena (sic) días naturales los Ayuntamientos con población reconocida y declarada como pueblos y comunidades indígenas en la Ley que Establece el Catálogo de Pueblos y Comunidades Indígenas del Estado de Sinaloa, deberán emitir las modificaciones a las disposiciones reglamentarias que deriven del presente Decreto.
 
 TERCERO. Los Ayuntamientos con representación indígena deberán facilitar los elementos y recursos materiales que se requieran para el desempeño de las actividades esenciales e indispensables del representante indígena.
+
+P.O. 26 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 695 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD SUSTENTABLE, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO Y DE LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Los Ayuntamientos deberán adecuar su reglamentación interna necesaria a efecto de establecer los criterios y el procedimientos (sic) para la asignación, modificación o sustitución de la nomenclatura de vías públicas y espacios públicos de los municipios dentro de un plazo de 90 días hábiles a partir de la fecha de la publicación del presente Decreto.
+
+TERCERO. Se derogan todas aquellas disposiciones secundarias que se opongan a lo dispuesto en el presente Decreto.
