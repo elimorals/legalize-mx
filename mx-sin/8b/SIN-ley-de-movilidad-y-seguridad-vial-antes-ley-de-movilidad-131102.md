@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-movilidad-y-seguridad-vial-antes-ley-de-movilidad-131102
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-10"
-last_updated: "2023-01-20"
+last_updated: "2024-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE MOVILIDAD SUSTENTABLE DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2024.
 
 Ley publicada en la Segunda Sección del No. 125 del Periódico Oficial del Estado de Sinaloa, el miércoles 10 de octubre de 2018.
 
@@ -3381,11 +3381,33 @@ Igualmente deberán contar con bases de encierro para los vehículos afectos al 
 
 La nomenclatura y la señalización vial en todas las áreas de circulación peatonal y vehicular del Estado se ajustarán a lo establecido en el Manual de Señalización Vial y Dispositivos de Seguridad de la Secretaría de Comunicaciones y Transportes.
 
-### CAPÍTULO I. DISPOSICIONES PRELIMINARES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 2024)</small>
+
+### CAPÍTULO VI. DE LA NOMENCLATURA
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2024)</small>
+
+###### Artículo 331 Bis.
+
+La nomenclatura tiene por objeto identificar y facilitar la localización de los bienes de uso común destinados a la vialidad, propiciando de este modo su ordenamiento.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2024)</small>
+
+###### Artículo 331 Bis 1.
+
+La designación de nomenclatura deberá ser coherente, respetando la historia, cultura y tradiciones del Estado y sus Municipios, con la finalidad de distinguir con facilidad su estructura urbana.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2024)</small>
+
+###### Artículo 331 Bis 2.
+
+La nomenclatura de las vialidades podrá hacer referencia a personas, fechas o eventos que hayan destacado en la historia, ciencia, arte, tecnología, política, deporte o cualquier otra actividad de relevancia cultural.
+
+No podrá establecerse una denominación en honor a personas que desempeñen un empleo, cargo o comisión ya sea de la Federación, del Estado o de los Municipios, ni de sus cónyuges o parientes hasta el cuarto grado durante el periodo de su gestión.
 
 ## TÍTULO DÉCIMO SÉPTIMO. DEL REGISTRO DE MOVILIDAD
 
-### CAPÍTULO II. DEL REGISTRO DE VEHÍCULOS
+### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 332.
 
@@ -3457,7 +3479,7 @@ Los ciudadanos tendrán acceso a la información contenida en el Registro, en lo
 
 Los tramites de Registro de vehículos y conductores, en los servicios público y privado, se llevaran a cabo en una ventanilla única, a cargo de personal de la SGG y la SAF.
 
-### CAPÍTULO III. DEL REGISTRO DE VEHÍCULOS DEL TRANSPORTE PÚBLICO
+### CAPÍTULO II. DEL REGISTRO DE VEHÍCULOS
 
 ###### Artículo 339.
 
@@ -3495,7 +3517,7 @@ Las características de esta clase de vehículos se definirán en el Reglamento 
 
 El registro al que se refiere el inciso “a”, de la fracción I del presente artículo, será gratuito y no será obligatorio, el procedimiento para este registro estará establecido en el reglamento de esta Ley.
 
-### CAPÍTULO IV. DEL REGISTRO DE CONDUCTORES
+### CAPÍTULO III. DEL REGISTRO DE VEHÍCULOS DEL TRANSPORTE PÚBLICO
 
 ###### Artículo 341.
 
@@ -3609,7 +3631,7 @@ II. Equipo móvil que transite ocasionalmente en vías públicas.
 
 Los vehículos a que se hace referencia en este artículo, deberán en todo caso satisfacer los requisitos de circulación relacionados a la seguridad de peatones, pasajeros y otros vehículos, así como lo relativo a la preparación y capacidad del conductor de los mismos.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO IV. DEL REGISTRO DE CONDUCTORES
 
 #### Sección I. De las Licencias
 
@@ -3761,7 +3783,7 @@ Cuando por alguna causa justificada no se pudiere obtener la licencia de manejar
 
 ## TÍTULO DÉCIMO OCTAVO. DE LOS VEHÍCULOS
 
-### CAPÍTULO II. DE LA CIRCULACIÓN DE LOS VEHÍCULOS
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 381.
 
@@ -3809,7 +3831,7 @@ Son vehículos de servicio particular los que son utilizados por su propietario 
 
 Son vehículos de servicio de seguridad pública, los que siendo propiedad del Gobierno del Estado y de los Municipios, estén dedicados a los servicios de vigilancia, seguridad pública y protección ciudadana, en los términos establecidos en el Reglamento de esta Ley.
 
-### CAPÍTULO III. DEL EQUIPAMIENTO DE LOS VEHÍCULOS
+### CAPÍTULO II. DE LA CIRCULACIÓN DE LOS VEHÍCULOS
 
 ###### Artículo 387.
 
@@ -3849,7 +3871,7 @@ Los vehículos de emergencia y oficiales, aun cuando ostenten los signos que los
 
 Tratándose de vehículos de barrido mecanizado de limpieza, de recolección, así como los de mantenimiento y servicios públicos, deberán efectuar su actividad preferentemente en horarios que no entorpezcan la circulación o pongan en riesgo la seguridad de la misma.
 
-### CAPÍTULO IV. DE LAS MEDIDAS AMBIENTALES Y ECOLÓGICAS PARA EL TRÁNSITO DE VEHÍCULOS
+### CAPÍTULO III. DEL EQUIPAMIENTO DE LOS VEHÍCULOS
 
 ###### Artículo 392.
 
@@ -3867,7 +3889,7 @@ Todo vehículo que circule sobre calles y caminos en el Estado, debe estar provi
 
 Sin perjuicio de lo dispuesto en las demás disposiciones contenidas en esta Ley, los vehículos que transiten por las vías públicas, deberán poseer en correcto funcionamiento los sistemas, dispositivos, equipo y accesorios de seguridad que se especifican en el Reglamento de ésta Ley, para garantizar un tránsito seguro y adecuado uso de la vialidad; así también, establecerá los lineamientos y reglas técnicas relativas al equipamiento y adecuado uso de equipamientos mínimos y especiales.
 
-### CAPÍTULO V. DE LA CIRCULACIÓN EN LAS VÍAS PÚBLICAS
+### CAPÍTULO IV. DE LAS MEDIDAS AMBIENTALES Y ECOLÓGICAS PARA EL TRÁNSITO DE VEHÍCULOS
 
 ###### Artículo 396.
 
@@ -3889,7 +3911,7 @@ Es obligación de los conductores evitar producir ruidos excesivos y molestos co
 
 La autoridad competente retirará de la circulación a todo vehículo que emita contaminantes, ruidos, humos o gases tóxicos en cantidades excesivas atendiendo a las normas aplicables en la materia.
 
-### CAPÍTULO VI. DE LOS ESTACIONAMIENTOS
+### CAPÍTULO V. DE LA CIRCULACIÓN EN LAS VÍAS PÚBLICAS
 
 ###### Artículo 400.
 
@@ -4067,7 +4089,7 @@ El transporte nocturno de carga sobresaliente requiere permiso específico de la
 
 El Reglamento de la presente Ley establecerá los lineamientos y reglas técnicas relativas a la conducción y circulación de vehículos motorizados y no motorizados, que se indican en este título.
 
-### CAPÍTULO I. DE LAS REGLAS GENERALES PARA LA IMPOSICIÓN DE SANCIONES
+### CAPÍTULO VI. DE LOS ESTACIONAMIENTOS
 
 ###### Artículo 436.
 
@@ -4107,7 +4129,7 @@ Los Ayuntamientos, de conformidad con lo establecido por la presente Ley y su Re
 
 ## TÍTULO DÉCIMO NOVENO. DE LAS SANCIONES Y RECURSOS
 
-### CAPÍTULO II. DE LAS INFRACCIONES EN MATERIA DE TRANSPORTE
+### CAPÍTULO I. DE LAS REGLAS GENERALES PARA LA IMPOSICIÓN DE SANCIONES
 
 ###### Artículo 442.
 
@@ -4219,7 +4241,7 @@ En los casos de infracciones cometidas con bicicletas, la autoridad que imponga 
 
 Los Municipios, en el ámbito de su competencia, fijarán los procedimientos y medios probatorios necesarios para la imposición de las sanciones que correspondan ante una infracción vial, respetando siempre las bases generales previstas por la presente Ley y la garantía de audiencia consagrada por la Constitución Política Federal y local.
 
-### CAPÍTULO III. DE LAS INFRACCIONES EN MATERIA DE VIALIDAD Y TRÁNSITO
+### CAPÍTULO II. DE LAS INFRACCIONES EN MATERIA DE TRANSPORTE
 
 ###### Artículo 454.
 
@@ -4245,7 +4267,7 @@ A los propietarios y conductores de vehículos particulares, que en ellos preste
 
 La autoridad competente podrá iniciar de oficio el procedimiento de aplicación de sanciones, cuando en caso de flagrancia tenga conocimiento en forma directa de los hechos que impliquen una posible contravención a las disposiciones de esta Ley o sus normas reglamentarias; o bien, cuando medie queja debidamente ratificada en los términos de la presente Ley.
 
-### CAPÍTULO IV. DE LOS RECURSOS
+### CAPÍTULO III. DE LAS INFRACCIONES EN MATERIA DE VIALIDAD Y TRÁNSITO
 
 ###### Artículo 459.
 
@@ -4298,6 +4320,8 @@ El pago de las sanciones económicas deberá hacerse en las instancias recaudado
 ###### Artículo 468.
 
 El procedimiento para la aplicación de sanciones en materia de tránsito, así como para la tramitación en su caso, de los medios de impugnación, a que se refiere este ordenamiento, se regirán por las disposiciones que establezca el Reglamento de la presente Ley.
+
+### CAPÍTULO IV. DE LOS RECURSOS
 
 #### Sección I. De los Recursos en Materia de Transporte
 
@@ -4416,3 +4440,13 @@ P.O. 20 DE ENERO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente Decreto.
+
+P.O. 26 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 695 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD SUSTENTABLE, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO Y DE LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Los Ayuntamientos deberán adecuar su reglamentación interna necesaria a efecto de establecer los criterios y el procedimientos para la asignación, modificación o sustitución de la nomenclatura de vías públicas y espacios públicos de los municipios dentro de un plazo de 90 días hábiles a partir de la fecha de la publicación del presente Decreto.
+
+TERCERO. Se derogan todas aquellas disposiciones secundarias que se opongan a lo dispuesto en el presente Decreto.
