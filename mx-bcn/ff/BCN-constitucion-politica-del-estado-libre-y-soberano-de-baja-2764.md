@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2023-11-06"
+last_updated: "2024-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -551,11 +551,11 @@ En los casos, donde la integración sea impar, en las nuevas designaciones se de
 
 ### CAPITULO V.. DE LOS HABITANTES DEL ESTADO Y DE SUS DERECHOS Y OBLIGACIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2024)</small>
 
 ###### ARTICULO 8.
 
-Son derechos de los habitantes del Estado:
+·Son derechos de las y los habitantes del Estado:
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
 
@@ -585,9 +585,9 @@ b) Participar en los términos de esta Constitución y de la Ley, en los proceso
 
 c) Ser votados siempre que reúnan los requisitos que determina esta Constitución y las leyes. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la ley;
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
 
-d).- Desempeñar cualquier empleo, cargo o función del Estado o de los ayuntamientos, cuando la persona reúna las condiciones que exija la Ley para cada caso; y
+d) Desempeñar cualquier empleo, cargo o función del Estado o de los ayuntamientos, cuando la persona reúna las condiciones que exija la Ley para cada caso; no podrá ser nombrada para empleo, cargo o comisión en el servicio público, si tiene sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexual, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; ni si son declaradas como persona deudora alimentaria morosa.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
@@ -719,9 +719,13 @@ IV.- Sin (sic) son padres de familia, tienen la obligación de educar, proteger 
 
 V.- Cuidar y conservar el medio ambiente para mejorar las condiciones de vida de la población.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+
 ###### ARTICULO 10.
 
-Los derechos de ciudadanos se pierden y suspenden, respectivamente, en los casos previstos en los artículos 37 y 38 de la Constitución Política de los Estados Unidos Mexicanos.
+Los derechos de las y los ciudadanos se pierden y suspenden, respectivamente, en los casos previstos en los artículos 37 y 38 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Ninguna persona podrá ser nombrada para empleo, cargo o comisión en el servicio público, si tienen sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexual, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; ni si son declaradas como persona deudora alimentaria morosa.
 
 ## TITULO SEGUNDO
 
@@ -1651,7 +1655,7 @@ VI.- No tener empleo, cargo o comisión en el Gobierno Federal, Estatal o Munici
 
 No podrán ser electos Gobernadora o Gobernador del Estado:
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA ELPÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
 
@@ -5748,3 +5752,15 @@ PRIMERO.- Aprobada que sea la presente reforma, túrnese a los Ayuntamientos del
 SEGUNDO.- Agotado el proceso legislativo correspondiente y de obtenerse la aprobación de la mayoría de los Ayuntamientos del Estado, procédase a realizar la declaratoria de incorporación constitucional correspondiente.
 
 TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 365 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 8 Y 10 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Aprobada la presente reforma por el Pleno del Congreso del Estado, remítase a los Ayuntamientos del Estado de Baja California para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Cumplido el trámite previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, procédase a realizar la declaración de incorporación constitucional correspondiente, y remítase el presente Decreto para su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+CUARTO.- Armonizados los ordenamientos secundarios respecto de la reforma en materia de obligaciones alimentarias, será obligatorio para las autoridades del orden municipal y estatal, solicitar como requisito para ingreso y permanencia en el servicio público la presentación del certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias.
