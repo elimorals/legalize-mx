@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-obras-publicas-equipamientos-suministros-y-servicios-132
 country: "mx"
 rank: "ley"
 publication_date: "1998-07-03"
-last_updated: "2018-11-30"
+last_updated: "2024-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE OBRAS PÚBLICAS, EQUIPAMIENTOS, SUMINISTROS Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 3 de julio de 1998.
 
@@ -41,23 +41,27 @@ LEY DE OBRAS PUBLICAS, EQUIPAMIENTOS, SUMINISTROS Y SERVICIOS RELACIONADOS CON L
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+
 ###### ARTICULO 1.
 
 La presente ley es de orden público e interés social y tiene por objeto regular las acciones relativas a la planeación, programación, presupuestación, gasto, ejecución, conservación, mantenimiento, demolición y control de las obras públicas, así como los servicios relacionados con las mismas, que realicen con fondos estatales o municipales:
 
-I.- Las Dependencias de la Administración Pública Centralizada del Estado señaladas en el Artículo 17 de su Ley Orgánica.
+I.- Las Dependencias de la Administración Pública Centralizada del Estado señaladas en el artículo 30 de su Ley Orgánica.
 
-II.- Las Entidades Paraestatales a que hace referencia el artículo 4 de la Ley Orgánica de la Administración Pública del Estado.
+II.- Las Entidades Paraestatales a que hace referencia el artículo 52 de la Ley Orgánica del Poder Ejecutivo del Estado de Baja California.
 
 III.- Las Dependencias de la Administración Pública Municipal Centralizada.
 
-IV.- Las Entidades Paramunicipales a que hace referencia la Ley Orgánica de la Administración Pública Municipal del Estado de Baja California.
+IV. Las Entidades Paramunicipales a que hace referencia la Ley de Régimen Municipal para el Estado de Baja California.
 
-V.- Los Contratistas y Proveedores.
+V. Las personas Contratistas y Proveedores.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
 
 ###### ARTICULO 2.
 
-Los Poderes Legislativo y Judicial, en su caso se sujetarán a las disposiciones de esta ley.
+El Poder Legislativo, el Poder Judicial, y los órganos constitucionales autónomos, en su caso se sujetarán a las disposiciones de esta ley.
 
 ###### ARTICULO 3.
 
@@ -79,27 +83,37 @@ VI.- La instalación, montaje, colocación o aplicación de bienes muebles que d
 
 VII.- Los demás de naturaleza análoga.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2024)</small>
+
 ###### ARTICULO 4.
 
-Para los efectos de la presente Ley, se entenderá por:
+Para los efectos de esta Ley, se entenderá por:
 
-I.- Dirección: Dirección de Control y Evaluación Gubernamental en el ámbito estatal y el Sindico Procurador dentro del ámbito municipal.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2024)</small>
 
-II.- Ejecutivo: Gobernador del Estado y Presidente Municipal.
+I.- Órgano de control: a Secretaría de la Honestidad y la Función Pública en el ámbito estatal, al Síndico Procurador dentro del ámbito municipal, y al Órgano de Control Interno en los órganos constitucionales autónomos.
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2024)</small>
 
-III.- Secretaría: La Secretaría de Infraestructura y Desarrollo Urbano del Estado dentro del ámbito estatal y el órgano administrativo correspondiente en el ámbito municipal.
+II.- Ejecutivo: Persona Titular del Poder Ejecutivo y Persona Titular de la Presidencia Municipal.
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2024)</small>
 
-IV.- Planeación y Finanzas: La Secretaría de Planeación y Finanzas en el ámbito estatal y, el órgano administrativo correspondiente al ámbito municipal.
+III.- Secretaría: la Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial dentro del ámbito estatal y el órgano administrativo correspondiente en el ámbito municipal.
 
-V.- Desarrollo Económico: La Secretaría de Desarrollo Económico en el ámbito estatal y el órgano administrativo correspondiente en el ámbito municipal.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2024)</small>
+
+IV.- Hacienda: La Secretaría de Hacienda en el ámbito estatal y, el órgano administrativo correspondiente al ámbito municipal.
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2024)</small>
+
+V.- Desarrollo Económico: La Secretaría de Economía e Innovación en el ámbito estatal y el órgano administrativo correspondiente en el ámbito municipal.
 
 VI.- (DEROGADA, P.O. 17 DE AGOSTO DE 2001)
 
-VII.- Dirección de Medio Ambiente: La Dirección General de Ecología del Estado y el órgano administrativo correspondiente en el ámbito municipal.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2024)</small>
+
+VII.- Secretaría de Medio Ambiente: La Secretaría de Medio Ambiente y Desarrollo Sustentable del Estado y el órgano administrativo correspondiente en el ámbito municipal.
 
 VIII.- Dependencias: Las señaladas en las fracciones I y III del Artículo 1o de esta Ley.
 
@@ -159,25 +173,31 @@ X.- Los demás que tengan naturaleza análoga.
 
 El gasto para las obras públicas, equipamiento, suministro y servicios relacionados con las mismas, se sujetara en su caso, a las disposiciones específicas de los presupuestos anuales de Egresos del Estado o Municipios, así como lo previsto en la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+
 ###### ARTICULO 7.
 
-Las obras públicas que conforme a los convenios celebrados entre los Ejecutivos Federal y Estatal se ejecuten con cargo parcial o total a fondos federales, estará sujeta a las disposiciones de la Ley de Adquisiciones y Obras Públicas.
+Las obras públicas que conforme a los convenios celebrados entre los Ejecutivos Federal y Estatal se ejecuten con cargo parcial o total a fondos federales, estará sujeta a las disposiciones de la Ley de Obras Públicas y Servicios Relacionadas con las Mismas.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
 
 ###### ARTICULO 8.
 
-La Dirección y la Secretaría dentro de su ámbito de competencia aplicarán esta ley, correspondiendo a la primera la interpretación de la misma para efectos administrativos.
+El Órgano de control y la Secretaría dentro de su ámbito de competencia aplicarán esta ley, correspondiendo a la primera la interpretación de la misma para efectos administrativos.
 
-La Dirección expedirá las disposiciones administrativas que sean necesarias para el adecuado cumplimiento de la Ley, tomando en cuenta la opinión de la Secretaría y de la Cámara que corresponda. Tales disposiciones se publicarán en el Periódico Oficial del Estado. La Secretaría deberá observar las disposiciones relativas a Obra Pública que expida la Dirección.
+El Órgano de control expedirá las disposiciones administrativas que sean necesarias para el adecuado cumplimiento de la Ley, tomando en cuenta la opinión de la Secretaría y de la Cámara que corresponda. Tales disposiciones se publicarán en el Periódico Oficial del Estado. La Secretaría deberá observar las disposiciones relativas a Obra Pública que expida el Órgano de control.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
 
 ###### ARTICULO 9.
 
-Atendiendo a las disposiciones de esta Ley y a las demás que de ella emanen, Desarrollo Económico expedirá las reglas que tengan por objeto promover la participación de las empresas micro, pequeñas y medianas; las dependencias y entidades deberán observarlas.
+Atendiendo a las disposiciones de esta Ley y a las demás que de ella emanen, Desarrollo Económico expedirá las reglas que tengan por objeto promover la participación de las empresas micro, pequeñas y medianas de la región, las que deberán observarse por las dependencias y entidades a fin de incentivar la derrama económica dentro del Estado.
 
-> <small>(F. DE E., P.O. 18 DE FEBRERO DEL 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2024)</small>
 
 ###### ARTICULO 10.
 
-Los titulares y órganos de gobierno y directores de las dependencias o entidades, serán responsables de que en las acciones que realicen en cumplimiento de esta Ley se adopten e instrumente criterios que promuevan la modernización y desarrollo administrativo, la descentralización de funciones y la efectiva delegación de facultades, basándose esencialmente en los siguientes criterios:
+Las personas titulares y órganos de gobierno y directores de las dependencias o entidades, serán responsables de que en las acciones que realicen en cumplimiento de esta Ley se adopten e instrumente criterios que promuevan la modernización y desarrollo administrativo, la descentralización de funciones y la efectiva delegación de facultades, basándose esencialmente en los siguientes criterios:
 
 I.- Aplicando mecanismos que promuevan la simplificación administrativa, reduciendo, agilizando y haciendo transparentes los procedimientos y trámites.
 
@@ -187,7 +207,9 @@ III.- Promoviendo la efectiva delegación de facultades en servidores públicos 
 
 IV.- Racionalizando y simplificando las estructuras con que cuenten a efecto de utilizar los recursos estrictamente indispensables para llevar a cabo sus operaciones.
 
-La Dirección tendrá a su cargo la vigilancia y comprobación de la aplicación de los criterios a que se refiere este Artículo.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+
+El Órgano de control tendrá a su cargo la vigilancia y comprobación de la aplicación de los criterios a que se refiere este Artículo.
 
 ###### ARTICULO 11.
 
@@ -203,11 +225,13 @@ En la ejecución de las obras a que se refiere el párrafo anterior, se deberán
 
 Los actos, acuerdos, contratos y convenios que las dependencias o entidades realicen en contravención a lo dispuesto por esta Ley, serán nulos de pleno derecho.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+
 ###### ARTICULO 14.
 
-Para coordinar las acciones que en materia de obra pública realicen las dependencias o entidades, se constituyen los Comités Intersectoriales Consultivos de la Obra Pública Estatal y Municipales, presididos y coordinados por los Titulares de la Secretaría, como órgano de regulación, asesoría y consulta para el establecimiento de objetivos, políticas, prioridades y metas en la materia.
+Para coordinar las acciones que en materia de obra pública realicen las dependencias o entidades, se constituyen los Comités Intersectoriales Consultivos de la Obra Pública Estatal y Municipales, presididos y coordinados por las personas Titulares de la Secretaría, como órgano de regulación, asesoría y consulta para el establecimiento de objetivos, políticas, prioridades y metas en la materia.
 
-Los Comités Intersectoriales tendrán como miembros a los titulares de la Dirección y de las demás dependencias que determinen los reglamentos expedidos por el Ejecutivo Estatal y los Cabildos Municipales dentro del ámbito de sus respectivas competencias y en los cuales podrán participar por invitación los representantes de las Cámaras que correspondan.
+Los Comités Intersectoriales tendrán como miembros a las personas titulares del Órgano de control y de las demás dependencias que determinen los reglamentos expedidos por el Ejecutivo Estatal y los Cabildos Municipales dentro del ámbito de sus respectivas competencias y en los cuales podrán participar por invitación los representantes de las Cámaras que correspondan.
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
 
@@ -249,11 +273,11 @@ Para tal efecto, las dependencias o entidades ejecutarán o contratarán los ser
 
 VII.- Los resultados previsibles.
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2024)</small>
 
-VIII.- La calendarización física y financiera de los recursos necesarios para su ejecución, así como gastos de equipamiento y operación. En los casos de obra pública que rebase un ejercicio presupuestal, las dependencias o entidades, deberán contar con presupuestos multianuales aprobados por Planeación y Finanzas, con la finalidad de que esta los incluya en el anteproyecto de egresos de los posteriores ejercicios fiscales.
+VIII.- La calendarización física y financiera de los recursos necesarios para su ejecución, así como gastos de equipamiento y operación. En los casos de obra pública que rebase un ejercicio presupuestal, las dependencias o entidades, deberán contar con presupuestos multianuales aprobados por Hacienda, con la finalidad de que esta los incluya en el anteproyecto de egresos de los posteriores ejercicios fiscales.
 
-Para tal efecto, Planeación y Finanzas deberá tomar en cuenta el factor inflacionario, a fin de considerar los recursos adicionales que se requieran para cubrir los ajustes de costos de las obras públicas y de los servicios relacionados con las mismas.
+Para tal efecto, Hacienda deberá tomar en cuenta el factor inflacionario, a fin de considerar los recursos adicionales que se requieran para cubrir los ajustes de costos de las obras públicas y de los servicios relacionados con las mismas.
 
 IX.- Las unidades responsables de su ejecución, así como las fechas previstas de iniciación y terminación de los trabajos.
 
@@ -307,15 +331,15 @@ El documento que contenga los programas será de carácter informativo, no impli
 
 En las obras públicas y los servicios relacionados con las mismas, cuya ejecución rebase un ejercicio presupuestal, deberá determinarse tanto el presupuesto total como lo relativo a los ejercicios de que se trate, en la formulación de los presupuestos de los ejercicios subsecuentes se considerarán los costos que, en su momento se encuentren vigentes y se deberá dar prioridad a las previsiones para la continuidad de las obras públicas ya iniciadas o de los servicios relacionados con las mismas en proceso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2024)</small>
 
 ###### ARTICULO 23.
 
-Las dependencias y entidades podrán convocar, adjudicar o llevar a cabo obras públicas y servicios relacionados con las mismas, una vez que cuenten con la calendarización global o específica aprobada por parte de Planeación y Finanzas, de su presupuesto de inversión y gasto corriente, conforme a los cuales deben elaborarse los programas de ejecución y pago correspondiente.
+Las dependencias y entidades podrán convocar, adjudicar o llevar a cabo obras públicas y servicios relacionados con las mismas, una vez que cuenten con la calendarización global o específica aprobada por parte de Hacienda, de su presupuesto de inversión y gasto corriente, conforme a los cuales deben elaborarse los programas de ejecución y pago correspondiente.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
 
-En casos excepcionales y previa autorización de Planeación y Finanzas, las dependencias y entidades podrán convocar sin contar con la calendarización de su presupuesto aprobado.
+En casos excepcionales y previa autorización de Hacienda, las dependencias y entidades podrán convocar sin contar con la calendarización de su presupuesto aprobado.
 
 Tratándose de obras públicas, además; se requiere contar con los estudios y proyectos, las normas y especificaciones de construcción, el programa de ejecución, y en su caso, el programa de suministros, salvo proyectos integrales, para los cuales se deberá contar con los requisitos de arquitectura e ingeniería básicos y en su caso, resultados esperados que establezca la dependencia o entidad, en todos los casos deberá contar con la autorización en materia de Impacto Ambiental que emita la autoridad correspondiente.
 
@@ -333,7 +357,9 @@ II.- Por administración directa.
 
 Las dependencias o entidades que requieran estudios o proyectos sobre alguna materia relacionada con la obra pública, primero verificarán si en sus archivos o en los de otras dependencias o entidades afines existe alguno. De resultar positiva la verificación y de comprobarse que el estudio o proyecto localizado satisface sus requerimientos, no se deberán contratar servicios de consultoría.
 
-Los contratos de servicios relacionados con la obra pública que se mencionan en el Artículo 5 de esta Ley, sólo podrán celebrarse cuando en las unidades responsables no se disponga cuantitativa o cualitativamente de los elementos, instalaciones y personal para llevarlos a cabo, circunstancia que, en su caso, serán hechas constar en acta circunstanciada firmada por los titulares o directores de las áreas responsables y aprobada por la Dirección.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+
+Los contratos de servicios relacionados con la obra pública que se mencionan en el Artículo 5 de esta Ley, sólo podrán celebrarse cuando en las unidades responsables no se disponga cuantitativa o cualitativamente de los elementos, instalaciones y personal para llevarlos a cabo, circunstancia que, en su caso, serán hechas constar en acta circunstanciada firmada por las personas titulares o directores de las áreas responsables y aprobada por el Órgano de control.
 
 ###### ARTICULO 26.
 
@@ -377,7 +403,9 @@ II.- Incurra en actos u omisiones que le sean imputables, perjudiquen los intere
 
 III.- Sea declarada judicialmente su incapacidad para contratar.
 
-IV.- Se niegue a dar las facilidades necesarias para que la Dirección ejerza sus funciones de comprobación, inspección y vigilancia.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2024)</small>
+
+IV.- Se niegue a dar las facilidades necesarias para que el Órgano de control ejerza sus funciones de comprobación, inspección y vigilancia.
 
 Cuando cesen las causas que hubiesen motivado la suspensión del registro, el contratista lo acreditará ante la Secretaría, la que dispondrá lo conducente, a fin de que el registro del interesado vuelva a surtir todos sus efectos legales, previo pago de daños y perjuicios por los actos u omisiones imputables al contratista si estos se hubiesen originado.
 
@@ -465,7 +493,9 @@ IX.- La información sobre los porcentajes a otorgar por concepto de anticipos, 
 
 X.- Los criterios generales conforme a los cuales se adjudicará el contrato.
 
-En el ejercicio de sus respectivas atribuciones la Dirección y la Secretaría, podrán intervenir en todo el proceso de adjudicación del contrato.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+
+En el ejercicio de sus respectivas atribuciones el Órgano de control y la Secretaría, podrán intervenir en todo el proceso de adjudicación del contrato.
 
 ###### ARTICULO 38.
 
@@ -715,7 +745,9 @@ Las dependencias y entidades no adjudicarán el contrato cuando a su juicio las 
 
 Las dependencias y entidades podrán cancelar una licitación por casos fortuitos o de fuerza mayor.
 
-Si la Dirección, Dependencias o Entidades determinan la cancelación del proceso de adjudicación sin causa justificada, la Dependencia o Entidad convocante reembolsarán a los participantes los gastos en los que hayan incurrido, siempre que estos estén debidamente comprobados y relacionados con el pago de inscripción o compra de las bases de licitación, la preparación de la oferta y los viáticos generados en el proceso de la elaboración de la propuesta.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+
+Si el Órgano de control, Dependencias o Entidades determinan la cancelación del proceso de adjudicación sin causa justificada, la Dependencia o Entidad convocante reembolsaran a los participantes los gastos en los que hayan incurrido, siempre que estos estén debidamente comprobados y relacionados con el pago de inscripción o compra de las bases de licitación, la preparación de la oferta y los viáticos generados en el proceso de la elaboración de la propuesta.
 
 ###### ARTICULO 47.
 
@@ -811,7 +843,9 @@ Las dependencias y entidades podrán incorporar las modalidades de contratación
 
 Las dependencias y entidades por ningún motivo, podrán modificar las condiciones pactadas originalmente, ni desvirtuar el tipo de contratación con que se haya licitado.
 
-Los contratos a precio alzado, no podrán ser modificados en su monto o en plazo, ni estarán sujetos a ajustes de costos, sin embargo, cuando con posterioridad a la adjudicación de un contrato se presenten circunstancias económicas de tipo general, como resultado de situaciones supervinientes ajenas a la responsabilidad de las partes, que provoquen directamente un aumento o reducción de los costos de los trabajos no ejecutados conforme al programa originalmente pactado, y que por tal razón no pudieron haber sido objeto de consideración en la propuesta que sirvió de base para la adjudicación del contrato correspondiente, las dependencias y entidades podrán reconocer incrementos o deberán requerir reducciones, conforme a lo estipulado en la (sic) Bases de la Licitación y por los lineamientos particulares que expida la Dirección, oyendo la opinión de la Secretaría.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+
+Los contratos a precio alzado, no podrán ser modificados en su monto o en plazo, ni estarán sujetos a ajustes de costos, sin embargo, cuando con posterioridad a la adjudicación de un contrato se presenten circunstancias económicas de tipo general, como resultado de situaciones supervinientes ajenas a la responsabilidad de las partes, que provoquen directamente un aumento o reducción de los costos de los trabajos no ejecutados conforme al programa originalmente pactado, y que por tal razón no pudieron haber sido objeto de consideración en la propuesta que sirvió de base para la adjudicación del contrato correspondiente, las dependencias y entidades podrán reconocer incrementos o deberán requerir reducciones, conforme a lo estipulado en la (sic) Bases de la Licitación y por los lineamientos particulares que expida el Órgano de control, oyendo la opinión de la Secretaría.
 
 En ambas formas de contratación previo estudio, valuación y cumplimiento de las disposiciones establecidas en las leyes especiales de la materia, las dependencias o entidades podrán contratar obras públicas cuyo pago parcial o total se efectúe con bienes propiedad del Estado o Municipios.
 
@@ -839,7 +873,9 @@ IX.- El procedimiento y la metodología de ajuste de costos determinado en las b
 
 X.- La descripción pormenorizada de los trabajos que se obligue el contratista a ejecutar, acompañando como parte integrante del contrato, lo establecido en la etapa de la licitación, los proyectos, planos, especificaciones, programas y presupuestos correspondientes. Las modificaciones, planos, correcciones y revisiones, órdenes, bitácora y especificaciones que surjan durante la ejecución de la obra o servicio, serán incorporadas conforme aparezcan.
 
-XI.- Los procedimientos mediante los cuales las partes, entre si, resolverán las discrepancias futuras y previsibles en que pudieran versar sobre problemas específicos de carácter técnico y administrativo, previa aprobación de la Dirección.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2024)</small>
+
+XI.- Los procedimientos mediante los cuales las partes, entre sí, resolverán las discrepancias futuras y previsibles en que pudieran versar sobre problemas específicos de carácter técnico y administrativo, previa aprobación del Órgano de control;
 
 XII.- La disponibilidad del inmueble y demás autorizaciones que se requieran para llevar a cabo los trabajos, tales como permisos, licencias, impacto ambiental, entre otras.
 
@@ -891,13 +927,17 @@ I.- Aquellas con las que el servidor público que intervenga directamente en la 
 
 II.- Aquellos contratistas o proveedores, a los que la dependencia o entidad les haya rescindido dos o más contratos de los establecidos en esta Ley por causas imputables a ellos, en un lapso de dos años naturales contados a partir de la primera rescisión. Dicho impedimento prevalecerá ante la propia dependencia o entidad convocante durante dos años naturales a partir de la fecha de rescisión del segundo contrato.
 
-III.- Aquellos contratistas y proveedores que se encuentren en el supuesto de la fracción anterior respecto de dos o más dependencias o entidades, durante un año natural contado a partir de la fecha en que la Dirección lo haga del conocimiento de las demás dependencias o entidades para los efectos conducentes.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2024)</small>
+
+III.- Aquellas personas contratistas y proveedores que se encuentren en el supuesto de la fracción anterior respecto de dos o más dependencias o entidades, durante un año natural contado a partir de la fecha en que el Órgano de control lo haga del conocimiento de las demás dependencias o entidades para los efectos conducentes.
 
 IV.- Aquellas que no hubieren cumplido con sus obligaciones contractuales respecto de las materias señaladas en esta Ley, por causas imputables a ellas, y que, como consecuencia haya sido perjudicada gravemente la dependencia o entidad respectiva.
 
 V.- Aquellas que hubieren proporcionado información falsa, o que hayan actuado con dolo o mala fe en algún procedimiento de licitación para la adjudicación de contratos establecidos en la presente Ley, o bien en su celebración y vigencia, así como en la presentación o desahogo de una inconformidad.
 
-VI.- Aquellas que en virtud de la información con que cuente la Dirección, hayan celebrado contratos en contravención a lo dispuesto por esta Ley.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2024)</small>
+
+VI.- Aquellas que en virtud de la información con que cuente el Órgano de control, hayan celebrado contratos en contravención a lo dispuesto por esta Ley.
 
 VII.- Aquellas declaradas por autoridad judicial competente en estado de quiebra, suspensión de pagos, o en su caso, sujetas a concurso de acreedores.
 
@@ -977,13 +1017,17 @@ Las modificaciones contenidas en el convenio, no deberán, afectar las condicion
 
 La realización de los convenios será responsabilidad de la dependencia o entidad, y a falta de ellos no se invalidará el derecho del contratista a recibir el pago correspondiente por los trabajos ejecutados en exceso, de lo previsto en el contrato, siempre y cuando estos hayan sido autorizados en la bitácora. Si las modificaciones a que se refiere este artículo originan variaciones en los cálculos que sirvieron de base para fijar los precios unitarios, ambas partes de común acuerdo, determinarán los ajustes que deberán hacerse a dichos precios. Igual procedimiento se seguirá en caso fortuito o de fuerza mayor.
 
-De las autorizaciones a que se refieren los párrafos anteriores, el titular de la dependencia o entidad de que se trate, de manera indelegable, informará a la Dirección y en su caso, al órgano de control respectivo a mas tardar el último día hábil de cada mes, presentando un informe referente a las autorizaciones otorgadas en el mes natural inmediato anterior.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+
+De las autorizaciones a que se refieren los párrafos anteriores, la persona titular de la dependencia o entidad de que se trate, de manera indelegable, informará al Órgano de control y en su caso, al órgano de control respectivo a más tardar el último día hábil de cada mes, presentando un informe referente a las autorizaciones otorgadas en el mes natural inmediato anterior.
 
 > <small>(F. DE E., P.O. 18 DE FEBRERO DEL 2000)</small>
 
 Si como consecuencia de la forma en que se autorice las inversiones o proceda una suspensión, resulte necesario ampliar el plazo total señalado para la ejecución de la obra, sin exceder de un diez por ciento del plazo original, el contratista no podrá solicitar bonificación alguna. En caso de que el porcentaje sea mayor, las dependencias o entidades en base al estudio presentado por el contratista, determinarán la procedencia de la bonificación, tomando en cuenta la magnitud de la prórroga del plazo y las variantes que hayan ocurrido durante el lapso.
 
-No serán aplicables los límites que se establecen en este artículo cuando se trate de contratos cuyos trabajos se refieran a la conservación, mantenimientos o restauración de los inmuebles a que se hace mención en el Artículo 5 de la Ley Federal Sobre Monumentos y Zonas Arqueológicas e Históricas, en los que no sea posible determinar el catálogo de conceptos o las cantidades de trabajo, las especificaciones correspondientes o el programa de ejecución.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+
+No serán aplicables los límites que se establecen en este artículo cuando se trate de contratos cuyos trabajos se refieran a la conservación, mantenimientos o restauración de los inmuebles a que se hace mención en la Ley Federal Sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, en los que no sea posible determinar el catálogo de conceptos o las cantidades de trabajo, las especificaciones correspondientes o el programa de ejecución.
 
 Siendo responsabilidad de las dependencias o entidades la formalización de los convenios adicionales, la contratista podrá no ejecutar los trabajos adicionales y/o extraordinarios, si no se han sido formalizados mediante convenio respectivo.
 
@@ -1003,9 +1047,11 @@ III.- Cuando concurran razones de interés general que den origen a la terminaci
 
 IV.- Cuando por caso fortuito o de fuerza mayor se imposibilite la continuación de los trabajos, las dependencias y entidades o el contratista podrán suspender la obra. Si en este supuesto el contratista opta por la terminación anticipada del contrato, deberá presentar a su solicitud a la dependencia o entidad de que se trate, quien resolverá dentro de los diez días naturales siguientes a la recepción de la misma; en caso de negativa será necesario que el contratista obtenga de la autoridad administrativa competente la declaratoria correspondiente.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+
 ###### ARTICULO 68.
 
-De ocurrir los supuestos contemplados en el artículo anterior, las dependencias o entidades en un plazo no mayor de diez días naturales, notificarán al contratista la suspensión, rescisión o terminación anticipada del contrato para que éste en un plazo similar, manifieste lo que a su derecho convenga, procediendo posteriormente a comunicarlo a la Dirección y a su órgano de control a más tardar el último día hábil del mes, mediante un informe referente a los actos realizados en el mes inmediato anterior.
+De ocurrir los supuestos contemplados en el artículo anterior, las dependencias o entidades en un plazo no mayor de diez días naturales, notificarán a la persona contratista la suspensión, rescisión o terminación anticipada del contrato para que éste en un plazo similar, manifieste lo que a su derecho convenga, procediendo posteriormente a comunicarlo al Órgano de control y a su órgano de control a más tardar el último día hábil del mes, mediante un informe referente a los actos realizados en el mes inmediato anterior.
 
 ###### ARTICULO 69.
 
@@ -1013,9 +1059,13 @@ El contratista comunicará por escrito a la dependencia o entidad la terminació
 
 Una vez que se haya constatado la terminación de los trabajos en los términos del párrafo anterior, la dependencia o entidad procederá a su recepción dentro del plazo establecido en el contrato, el cual no excederá de treinta días naturales, contados a partir de la comunicación de terminación de los trabajos. Al concluir dicho plazo, sin que la dependencia o entidad haya recibido los trabajos, estos se tendrán por recibidos.
 
-La dependencia o entidad contratante informarán a la Dirección la terminación de los trabajos y la fecha señalada para su recepción a fin de que esta, si lo estima conveniente, nombre un representante para que asista al acto de recepción.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
 
-En la fecha señalada, la dependencia o entidad, bajo su responsabilidad, recibirá los trabajos ejecutados levantando el acta correspondiente. Si al concluir el plazo, la dependencia o entidad se negare a recibir dichos trabajos, el contratista deberá entregarlos directamente a la Dirección.
+La dependencia o entidad contratante informaran al Órgano de control la terminación de los trabajos y la fecha señalada para su recepción a fin de que esta, si lo estima conveniente, nombre a una persona representante para que asista al acto de recepción.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+
+En la fecha señalada, la dependencia o entidad, bajo su responsabilidad, recibirá los trabajos ejecutados levantando el acta correspondiente. Si al concluir el plazo, la dependencia o entidad se negare a recibir dichos trabajos, la persona contratista deberá entregarlos directamente al Órgano de control.
 
 ###### ARTICULO 70.
 
@@ -1137,21 +1187,27 @@ Contra la resolución que contenga el fallo los licitantes podrán inconformarse
 
 ### CAPITULO UNICO. DE LA INFORMACION Y VERIFICACION
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+
 ###### ARTICULO 80.
 
-La forma y términos en que las dependencias o entidades deberán remitir a la Dirección y a la Secretaría, la información relativa a los actos y contratos materia de esta Ley, serán establecidos de manera sistemática y coordinada por estas últimas, en el ámbito de su respectiva competencia.
+La forma y términos en que las dependencias o entidades deberán remitir al Órgano de control y a la Secretaría, la información relativa a los actos y contratos materia de esta Ley, serán establecidos de manera sistemática y coordinada por estas últimas, en el ámbito de su respectiva competencia.
 
 Para tal efecto, las dependencias o entidades conservarán en forma ordenada y sistemática toda la documentación comprobatoria de dichos actos y contratos cuando menos por un lapso de tres años, contados a partir de la fecha de su recepción.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+
 ###### ARTICULO 81.
 
-La Dirección en el ámbito de sus competencia, podrá verificar en cualquier tiempo, que las obras públicas y sus servicios se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables, así como a los programas y presupuestos autorizados, asimismo, en ejercicio de sus atribuciones podrá realizar las visitas e inspecciones que estime pertinentes a la dependencia o entidad que realicen obra pública y servicios relacionados con las mismas e igualmente podrá solicitar de los servidores públicos y de los contratistas que participen en ellas, todos los datos e informes relacionados con los actos de que se trate.
+El Órgano de control en el ámbito de sus (sic) competencia, podrá verificar en cualquier tiempo, que las obras públicas y sus servicios se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables, así como a los programas y presupuestos autorizados, asimismo, en ejercicio de sus atribuciones podrá realizar las visitas e inspecciones que estime pertinentes a la dependencia o entidad que realicen obra pública y servicios relacionados con las mismas e igualmente podrá solicitar de los servidores públicos y de las personas contratistas que participen en ellas, todos los datos e informes relacionados con los actos de que se trate.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
 
 ###### ARTICULO 82.
 
-La comprobación de la calidad de los trabajos, por parte de la Dirección, se hará en los laboratorios aprobados por la dependencia o entidad de que se trate y que cuente con la capacidad necesaria para practicarla.
+La comprobación de la calidad de los trabajos, por parte del Órgano de control, se hará en los laboratorios aprobados por la dependencia o entidad de que se trate y que cuente con la capacidad necesaria para practicarla.
 
-El resultado de las comprobaciones se hará constar por escrito el cual será firmado por quien haya hecho la comprobación, así como por el contratista y el representante de la dependencia o entidad contratante si hubieran intervenido.
+El resultado de las comprobaciones se hará constar por escrito el cual será firmado por quien haya hecho la comprobación, así como por la persona contratista y la persona representante de la dependencia o entidad contratante si hubieran intervenido.
 
 ## TITULO QUINTO. DE LAS INFRACCIONES Y SANCIONES
 
@@ -1169,11 +1225,13 @@ Los contratistas, que se encuentren en el supuesto de las fracciones III, IV, V,
 
 Las dependencias o entidades informarán a la Secretaría y; en su caso, remitirán la documentación comprobatoria, sobre el nombre del contratista que se encuentre en el supuesto previsto en la fracción II del Artículo 58, a más tardar dentro de los quince días naturales siguientes a la fecha en que le notifique la segunda rescisión al propio contratista.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+
 ###### ARTICULO 85.
 
-La Dirección podrá proponer a la Secretaría la imposición de las sanciones a que se refiere este capítulo y, a la dependencia o entidad contratante la suspensión de la ejecución de la obra en que incida en la infracción.
+El Órgano de Control podrá proponer a la Secretaría la imposición de las sanciones a que se refiere este capítulo y, a la dependencia o entidad contratante la suspensión de la ejecución de la obra en que incida en la infracción.
 
-Sin perjuicio de lo anterior, a los servidores públicos que infrinjan las disposiciones de esta Ley, se les aplicará las sanciones que procedan de conformidad a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+Sin perjuicio de lo anterior, a los servidores públicos que infrinjan las disposiciones de esta Ley, se les aplicará las sanciones que procedan de conformidad a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Baja California.
 
 ###### ARTICULO 86.
 
@@ -1215,31 +1273,47 @@ Las responsabilidades a que se refiere la presente Ley son independientes de las
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2024)</small>
+
 ###### ARTICULO 91.
 
-Contra los actos que contravengan las disposiciones que rigen las materias objeto de esta ley, los interesados podrán inconformarse por escrito ante la Dirección dentro de un plazo no mayor a diez días hábiles siguientes a aquel en que este ocurra o el inconforme tenga conocimiento del acto impugnado.
+Contra los actos que contravengan las disposiciones que rigen las materias objeto de esta ley, las personas interesadas podrán inconformarse por escrito ante el Órgano de Control dentro de un plazo no mayor a diez días hábiles siguientes a aquel en que este ocurra o el inconforme tenga conocimiento del acto impugnado.
 
 En el escrito se deberá expresar el nombre del inconforme y su domicilio manifestando bajo protesta de decir verdad el acto o actos impugnados y acompañando los documentos en que sustente su inconformidad. La falta de acreditamiento fehaciente y suficiente será causa para tenerla por no interpuesta. La manifestación de hechos falsos será también motivo de desecho y se sancionará conforme a las disposiciones aplicables.
 
-Transcurridos los plazos establecidos en este artículo, precluye para los interesados el derecho a incorformarse (sic), sin perjuicio de que la Dirección pueda actuar en cualquier tiempo en términos de Ley.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+
+Transcurridos los plazos establecidos en este artículo, precluye para las personas interesadas el derecho a inconformarse, sin perjuicio de que el Órgano de Control pueda actuar en cualquier tiempo en términos de Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2024)</small>
 
 ###### ARTICULO 92.
 
-La Dirección, de oficio o en atención a las inconformidades a que se refiere el Artículo 91, realizará las investigaciones correspondientes dentro de un plazo que no excederá de 30 días naturales para la realización de las investigaciones que correspondan, contados a partir de la fecha en que se inicie, y resolverá lo conducente.
+El Órgano de Control, de oficio o en atención a las inconformidades a que se refiere el Artículo 91, realizará las investigaciones correspondientes dentro de un plazo que no excederá de 30 días naturales para la realización de las investigaciones que correspondan, contados a partir de la fecha en que se inicie, y resolverá lo conducente.
 
-Las dependencias y entidades proporcionarán a la Dirección, la información requerida para su investigación, dentro de los ocho días naturales siguientes contados a partir de la recepción de la respectiva solicitud. Si en el plazo señalado la dependencia y entidad requerida no proporciona la información solicitada por la Dirección, se tendrá por ciertos los hechos manifestados por el inconforme.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
 
-Durante la investigación de los hechos a que se refiere el párrafo anterior, la Dirección, podrá suspender el proceso de adjudicación cuando:
+Las dependencias y entidades proporcionarán al Órgano de Control, la información requerida para su investigación, dentro de los ocho días naturales siguientes contados a partir de la recepción de la respectiva solicitud. Si en el plazo señalado la dependencia y entidad requerida no proporciona la información solicitada por el Órgano de Control, se tendrá por ciertos los hechos manifestados por el inconforme.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+
+Durante la investigación de los hechos a que se refiere el párrafo anterior, el Órgano de Control, podrá suspender el proceso de adjudicación cuando:
 
 I.- Se advierta que existan o pueden existir actos contrarios a las disposiciones de esta Ley y de las que de ella deriven.
 
-II.- Con la suspensión no se cause perjuicio al interés público y no se contravengan disposiciones de orden público. La dependencia y entidad tendrá la obligación de informar dentro de los cinco días hábiles siguientes a la notificación de la suspensión, si con la misma no se cause perjuicio al interés público o bien, se contravengan disposiciones de orden público, para que la Dirección resuelva lo que proceda.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2024)</small>
 
-Cuando sea el licitante o el contratista quien solicite la suspensión, este deberá garantizar los daños y perjuicios que le pudiera ocasionar al Estado o a tercero, mediante fianza cuyo monto será fijado por la Dirección, el cual nunca será inferior al equivalente del diez por ciento ni superior al cincuenta por ciento del valor de la obra a ejecutar. Fianza que se hará efectiva en favor de la dependencia o entidad en el caso de que la inconformidad resulte improcedente.
+II.- Con la suspensión no se cause perjuicio al interés público y no se contravengan disposiciones de orden público. La dependencia y entidad tendrá la obligación de informar dentro de los cinco días hábiles siguientes a la notificación de la suspensión, si con la misma no se cause perjuicio al interés público o bien, se contravengan disposiciones de orden público, para que el Órgano de Control resuelva lo que proceda.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+
+Cuando sea la persona licitante o contratista quien solicite la suspensión, este deberá garantizar los daños y perjuicios que le pudiera ocasionar al Estado o a tercero, mediante fianza cuyo monto será fijado por el Órgano de Control, el cual nunca será inferior al equivalente del diez por ciento ni superior al cincuenta por ciento del valor de la obra a ejecutar. Fianza que se hará efectiva en favor de la dependencia o entidad en el caso de que la inconformidad resulte improcedente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2024)</small>
 
 ###### ARTICULO 93.
 
-La resolución que emita la Dirección, sin perjuicio de la responsabilidad, que proceda respecto de los servidores públicos que hayan intervenido, tendrá por consecuencia:
+La resolución que emita el Órgano de Control, sin perjuicio de la responsabilidad, que proceda respecto de los servidores públicos que hayan intervenido, tendrá por consecuencia:
 
 I.- La nulidad del procedimiento a partir del acto o actos irregulares, estableciendo las directrices necesarias para que el mismo se realice conforme a esta Ley.
 
@@ -1247,9 +1321,11 @@ II.- La nulidad total del procedimiento.
 
 III.- La declaración de improcedencia de la inconformidad.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+
 ###### ARTICULO 94.
 
-En contra de los actos que contravengan las disposiciones de esta Ley, se podrá interponer la inconformidad prevista en el artículo 91; o en su caso; acudir ante el Tribunal de lo Contencioso Administrativo del Estado en los términos de su ley reglamentaria.
+En contra de los actos que contravengan las disposiciones de esta Ley, se podrá interponer la inconformidad prevista en el artículo 91; o en su caso; acudir ante el Tribunal de Justicia Administrativa del Estado en los términos de su ley reglamentaria.
 
 T R A N S I T O R I O S
 
@@ -1338,3 +1414,9 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 26 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 371 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE MODIFICA LOS ARTÍCULOS 1, 2, 4, 7, 8, 9, 10, 14, 17, 23, 25, 30, 37, 46, 54, 55, 58, 65, 68, 69, 80, 81, 82, 85, 91, 92, 93 Y 94 DE LA LEY DE OBRAS PÚBLICAS, EQUIPAMIENTOS, SUMINISTROS Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
