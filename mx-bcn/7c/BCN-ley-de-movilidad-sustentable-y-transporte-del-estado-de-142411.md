@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-movilidad-sustentable-y-transporte-del-estado-de-142411"
 country: "mx"
 rank: "ley"
 publication_date: "2020-03-27"
-last_updated: "2023-05-26"
+last_updated: "2024-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2024.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 27 de marzo de 2020.
 
@@ -559,9 +559,21 @@ XIV. Determinar y solicitar, en su jurisdicción territorial, la instalación de
 
 XV. Solicitar al Instituto asesoría y apoyo para realizar los estudios técnicos y acciones en materia de movilidad urbana, vialidad y tránsito;
 
-XVI. En el ámbito de su respectiva competencia, determinar, aplicar y ejecutar las sanciones correspondientes a quienes incurran en infracciones a esta Ley y a su Reglamento; y,
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2024)</small>
 
-XVII. Promover en el ámbito de su respectiva competencia las acciones para el uso racional del espacio vial, teniendo como prioridad a los peatones, y medios de transporte masivo de pasajeros; así como garantizar espacios delimitados para la guarda de bicicletas y similares.
+XVI. En el ámbito de su respectiva competencia, determinar, aplicar y ejecutar las sanciones correspondientes a quienes incurran en infracciones a esta Ley y a su Reglamento;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2024)</small>
+
+XVII. Promover en el ámbito de su respectiva competencia las acciones para el uso racional del espacio vial, de conformidad con la jerarquía de movilidad, establecida en la Ley General de Movilidad y Seguridad Vial; y,
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2024)</small>
+
+XVIII. Fomentar el uso de la bicicleta y garantizar la seguridad vial de las personas que utilizan medios no motorizados; así como garantizar espacios delimitados para la guarda de bicicletas y similares.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN XVIII, P.O. 26 DE ENERO DE 2024.]</small>
+
+Los Municipios en el ámbito de su competencia podrán restringir la circulación de vehículos automotores, para garantizar la seguridad vial de las personas.
 
 ###### ARTÍCULO 33.
 
@@ -1413,6 +1425,10 @@ IV. Efectuar el servicio con los vehículos autorizadas (sic), no debiendo desti
 
 V. Presentar al Instituto el padrón de operadores con sus actualizaciones correspondientes cada que lo requiera el mismo, o por lo menos cada 6 meses de manera obligatoria;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE ENERO DE 2024)</small>
+
+Además tendrán que acreditar que las personas conductoras y choferes cuenten con los cursos de capacitación que imparta el Instituto, así como los que al efecto establezca la presente ley en materia de perspectiva de género y derechos humanos.
+
 VI. Someter a los vehículos a que se refiera la concesión a una revisión física mecánica semestral de conformidad a los programas que el Instituto establezca al efecto, con objeto de garantizar la seguridad de los usuarios y evitar la contaminación ambiental;
 
 VII. Llevar control en una bitácora de toda revisión que realice para verificar el estado físico, mecánico y eléctrico que guardan los vehículos conforme al Reglamento de la presente Ley;
@@ -1445,7 +1461,9 @@ XX. Responder ante el Instituto, por los actos u omisiones del personal de su em
 
 XXI. Proporcionar al Instituto toda la información que se requiera sobre la explotación de la concesión, debiendo brindar las facilidades necesarias para el desempeño de sus funciones;
 
-XXII. Contratar y mantener siempre vigente para cada vehículo la póliza de seguro para proteger a los pasajeros en su integridad física y contra daños a terceros, cuyo monto sea suficiente para cubrir cualquier siniestro que afecte a los usuarios, que garantice la atención médica y hospitalaria de todos los pasajeros, dicho seguro (sic) expedido por una empresa aseguradora o de una Sociedad Mutualista debidamente acreditadas y certificadas por la Comisión Nacional de Seguros y Fianzas, en los términos de la normatividad aplicable vigente;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2024)</small>
+
+XXII. Contratar y mantener siempre vigente para cada vehículo la póliza de seguro, misma que deberá contener por lo menos de Responsabilidad civil del pasajero y Responsabilidad civil de daños a tercero, para proteger a las y los pasajeros en su integridad física y contra daños a terceros, cuyo monto sea suficiente para cubrir cualquier siniestro que afecte a las personas usuarias, que garantice la atención médica y hospitalaria de todas las y los pasajeros, dicho seguro expedido por una empresa aseguradora o de una Sociedad Mutualista debidamente acreditadas y certificadas (sic) por la Comisión Nacional de Seguros y Fianzas, en los términos de la normatividad aplicable vigente;
 
 XXIII. Tener instalado un sistema de monitoreo y seguimiento de posición global, también conocido como GPS por sus siglas en inglés. El sistema de monitoreo deberá estar enlazado en todo momento con el sistema del Instituto y por los mecanismos idóneos contemplados en la normatividad aplicable;
 
@@ -1455,9 +1473,17 @@ XXV. Transferir al Instituto los datos provenientes de sus sistemas de control d
 
 XXVI. Transferir al Instituto la información generada en el GPS instalado en cada vehículo y en cada una de las rutas concesionadas por lo menos respecto a número de vehículos y rutas en operación, velocidad, horarios, paradas, frecuencias de paso entre los vehículos, puntos específicos de ascensos y descensos, además de lo que le sea solicitado específicamente, conforme a la normatividad aplicable;
 
-XXVII. Pagar las contribuciones que correspondan por los derechos derivados de su concesión; y,
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2024)</small>
 
-XXVIII. Las demás que establezca la presente Ley y su Reglamento.
+XXVII. Pagar las contribuciones que correspondan por los derechos derivados de su concesión;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2024)</small>
+
+XXVIII. A contar con asientos y espacios exclusivos para mujeres por unidad de transporte de pasajeros, señalados de color rosa con la finalidad de prevenir y combatir el acoso sexual; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2024)</small>
+
+XXIX. Las demás que establezca la presente Ley y su Reglamento.
 
 Al servicio público de transporte de personal no le aplicarán las fracciones IX, XVI, XXII, XXIV y XXV.
 
@@ -1669,39 +1695,81 @@ Los derechos inherentes y derivados de los permisos solo podrán ser transferido
 
 Son obligaciones de los permisionarios del servicio público de transporte:
 
-I. Prestar el servicio exclusivamente en los vehículos autorizados por el Instituto de Movilidad Sustentable;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2024)</small>
 
-II. Inscribirse en el padrón vehicular del Instituto de Movilidad Sustentable, conforme a lo dispuesto en este ordenamiento;
+I. Prestar el servicio exclusivamente en los vehículos autorizados por el Instituto de Movilidad Sustentable y presentar al Instituto el padrón de operadores;
 
-III. Prestar el servicio a cualquier persona que lo requiera, con excepción de los supuestos señalados en la presente ley y su reglamento;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2024)</small>
 
-IV. Tener siempre vigente la póliza de responsabilidad civil o constancia expedida por una o de una Sociedad Mutualista debidamente acreditada y certificada por la Comisión Nacional de Seguros y Fianzas, que garantice daños materiales que se causen a terceros, la indemnización por muerte o lesiones; así como la reparación de daños a usuarios en su persona y patrimonio, conforme lo establece la ley y su reglamento;
+II. Acreditar que las personas conductoras y choferes cuenten con los cursos de capacitación que imparta el Instituto, así como los que al efecto establezca la presente ley en materia de perspectiva de género y derechos humanos;
 
-V. Conservar los vehículos, equipos e instalaciones en óptimas condiciones para dar un servicio eficiente y apropiado, evitar adornos y aditamentos que distraigan, dificulten o impidan la visibilidad del conductor y los usuarios; así como leyendas o calcomanías, salvo las autorizadas por el Instituto de Movilidad Sustentable y en su caso, incorporar las modificaciones que sobre aspectos técnicos y de seguridad se establezcan en los manuales autorizados;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2024)</small>
 
-VI. Tratar con amabilidad y respeto a los usuarios, dando un trato preferencial en el servicio, a las personas con capacidad (sic) diferentes, de la tercera edad y mujeres en estado de embarazo o con menores en brazos;
+III. Contar con asientos y espacios exclusivos para mujeres por unidad de transporte de pasajeros, señalados de color rosa, con la finalidad de prevenir y combatir el acoso sexual;
 
-VII. Presentar los vehículos a la revisión mecánica, dentro del periodo establecido en la presente ley y su reglamento;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2024)</small>
 
-VIII. No destinar los vehículos a otros fines de lucro, distintos a la modalidad autorizada en el permiso;
+IV. Inscribirse en el padrón vehicular del Instituto de Movilidad Sustentable, conforme a lo dispuesto en este ordenamiento;
 
-IX. Contar con el equipamiento auxiliar de transporte que garantice la adecuada prestación del servicio;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2024)</small>
 
-X. Observar las disposiciones contenidas en los demás ordenamientos jurídicos y administrativos aplicables que tengan injerencia en el servicio público de transporte;
+V. Prestar el servicio a cualquier persona que lo requiera, con excepción de los supuestos señalados en la presente ley y su reglamento;
 
-XI. Portar el uniforme obligatorio, durante la prestación del servicio;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2024)</small>
 
-XII. Mostrar en lugar visible del interior de los vehículos en los que se preste el servicio, el tarjetón vigente, el número económico, teléfonos de quejas, las tarifas autorizadas; y en los casos de radio taxis y taxis de sitio que se encuentren prestando el servicio, deberá de encontrarse en todo momento activo el taxímetro;
+VI. Tener siempre vigente la póliza de seguro misma que deberá contener por lo menos de Responsabilidad civil del pasajero y Responsabilidad civil de daños a tercero o constancia expedida por una o de una Sociedad Mutualista debidamente acreditada y certificada por la Comisión Nacional de Seguros y Fianzas, que garanticen daños materiales que se causen a terceros, la indemnización por muerte o lesiones, así como la reparación de daños a personas usuarias en su persona y patrimonio, conforme lo establece la ley y su reglamento;
 
-XIII. Recibir la capacitación por la institución educativa que el Instituto valide, para la prestación del servicio de transporte público;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2024)</small>
 
-XIV. Aceptar la intervención del Instituto en la administración del servicio en todos aquellos casos que existan amenazas de suspensión del propio servicio;
+VII. Conservar los vehículos, equipos e instalaciones en óptimas condiciones para dar un servicio eficiente y apropiado, evitar adornos y aditamentos que distraigan, dificulten o impidan la visibilidad del conductor y los usuarios; así como leyendas o calcomanías, salvo las autorizadas por el Instituto de Movilidad Sustentable y en su caso, incorporar las modificaciones que sobre aspectos técnicos y de seguridad se establezcan en los manuales autorizados;
 
-XV. No permitir la conducción de vehículos del servicio público de transporte a los operadores que no cuenten o no porten la licencia de la clasificación correspondiente, así como con el tarjetón, ambos vigentes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2024)</small>
 
-XVI. El vehículo autorizado deberá contar con GPS registrado en el padrón del Instituto, funcionando en todo momento y transmitiendo los datos requeridos por el reglamento de esta Ley; y,
+VIII. Tratar con amabilidad y respeto a los usuarios, dando un trato preferencial en el servicio, a las personas con capacidad (sic) diferentes, de la tercera edad y mujeres en estado de embarazo o con menores en brazos;
 
-XVII. Las demás que establezca la presente ley y su reglamento.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2024)</small>
+
+IX. Presentar los vehículos a la revisión mecánica, dentro del periodo establecido en la presente ley y su reglamento;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2024)</small>
+
+X. No destinar los vehículos a otros fines de lucro, distintos a la modalidad autorizada en el permiso;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2024)</small>
+
+XI. Contar con el equipamiento auxiliar de transporte que garantice la adecuada prestación del servicio;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2024)</small>
+
+XII. Observar las disposiciones contenidas en los demás ordenamientos jurídicos y administrativos aplicables que tengan injerencia en el servicio público de transporte;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2024)</small>
+
+XIII. Portar el uniforme obligatorio, durante la prestación del servicio;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2024)</small>
+
+XIV. Mostrar en lugar visible del interior de los vehículos en los que se preste el servicio, el tarjetón vigente, el número económico, teléfonos de quejas, las tarifas autorizadas; y en los casos de radio taxis y taxis de sitio que se encuentren prestando el servicio, deberá de encontrarse en todo momento activo el taxímetro;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2024)</small>
+
+XV. Recibir la capacitación por la institución educativa que el Instituto valide, para la prestación del servicio de transporte público;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2024)</small>
+
+XVI. Aceptar la intervención del Instituto en la administración del servicio en todos aquellos casos que existan amenazas de suspensión del propio servicio;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2024)</small>
+
+XVII. No permitir la conducción de vehículos del servicio público de transporte a los operadores que no cuenten o no porten la licencia de la clasificación correspondiente, así como con el tarjetón, ambos vigentes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2024)</small>
+
+XVIII. El vehículo autorizado deberá contar con GPS registrado en el padrón del Instituto, funcionando en todo momento y transmitiendo los datos requeridos por el reglamento de esta Ley; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2024)</small>
+
+XIX. Las demás que establezca la presente ley y su reglamento.
 
 #### SECCIÓN III. DE LOS TAXIS
 
@@ -1977,7 +2045,9 @@ Son aquellas personas físicas o morales cuyo servicio se limita exclusivamente 
 
 También podrán ser consideradas como Empresas de Redes de Transporte aquellas sociedades mercantiles nacionales o extranjeras que, por virtud de acuerdos comerciales vigentes, promuevan el uso de tecnologías o aplicaciones tecnológicas, propias o de terceros que permitan a usuarios en el Estado acceder al servicio de transporte bajo demanda mediante aplicaciones móviles.
 
-Las Empresas de Redes de Transporte tendrán prohibido ofrecer o contratar sus servicios a través de medios diversos a los previstos por esta Ley y su Reglamento. En cualquier caso, los conductores y/o las Empresas de Redes de Transporte deberán contar con una póliza de seguros de responsabilidad civil de automóviles que cubra la responsabilidad civil de un conductor frente a terceros, incluyendo pasajeros, con una compañía de seguros autorizada para operar en México, respecto de todos los viajes que se realizan a través de la plataforma que promuevan o administren.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+
+Las Empresas de Redes de Transporte tendrán prohibido ofrecer o contratar sus servicios a través de medios diversos a los previstos por esta Ley y su Reglamento. En cualquier caso, las y los conductores y/o las Empresas de Redes de Transporte deberán contar con una póliza de seguro vigente, misma que deberá contener por lo menos Responsabilidad civil del pasajero y Responsabilidad civil de daños a tercero, con una compañía de seguros autorizada para operar en México, respecto de todos los viajes que se realizan a través de la plataforma que promuevan o administren.
 
 En caso de que dicha póliza no se encuentre vigente o no otorgue cobertura, las Empresas de Redes de Transporte serán consideradas obligados subsidiarios de los propietarios y conductores de los vehículos afectos al servicio de transporte, hasta por el monto de la póliza de seguro que debieron haber contratado según lo establecido por esta ley y reglamento.
 
@@ -2418,3 +2488,15 @@ P.O. 26 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 232 MEDIANTE EL CUAL, SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 5, 8 Y 80 DE LA LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 370 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 153, 178 Y 214 DE LA LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA”.]
+
+UNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 373 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 32 FRACCIONES XVII Y ADICIÓN DE LA FRACCIÓN XVIII DE LA LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
