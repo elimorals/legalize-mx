@@ -4,7 +4,7 @@ identifier: "CNPP"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-03-05"
-last_updated: "2024-01-03"
+last_updated: "2024-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99314&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CNPP"
 
 CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ENERO DE 2024.
 
 Código publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 5 de marzo de 2014.
 
@@ -3340,7 +3340,9 @@ Notificaciones y control judicial
 
 Las determinaciones del Ministerio Público sobre la abstención de investigar, el archivo temporal, la aplicación de un criterio de oportunidad y el no ejercicio de la acción penal deberán ser notificadas a la víctima u ofendido quienes las podrán impugnar ante el Juez de control dentro de los diez días posteriores a que sean notificadas de dicha resolución. En estos casos, el Juez de control convocará a una audiencia para decidir en definitiva, citando al efecto a la víctima u ofendido, al Ministerio Público y, en su caso, al imputado y a su Defensor. En caso de que la víctima, el ofendido o sus representantes legales no comparezcan a la audiencia a pesar de haber sido debidamente citados, el Juez de control declarará sin materia la impugnación.
 
-La resolución que el Juez de control dicte en estos casos no admitirá recurso alguno.
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2024)</small>
+
+La resolución que el Juez de control dicte en estos casos no admitirá recurso alguno, con excepción de aquella en que el órgano jurisdiccional se pronuncie sobre el no ejercicio de la acción penal, en cuyo caso, se suspenderán los efectos de la determinación ministerial hasta en tanto cause ejecutoria la decisión definitiva emitida.
 
 ## TÍTULO IV. DE LOS DATOS DE PRUEBA, MEDIOS DE PRUEBA Y PRUEBAS
 
@@ -5638,21 +5640,57 @@ II. Las que nieguen la posibilidad de celebrar acuerdos reparatorios o no los ra
 
 III. La negativa o cancelación de orden de aprehensión;
 
-IV. La negativa de orden de cateo;
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2024)</small>
+
+IV. La negativa a autorizar actos y técnicas de investigación que requieran control judicial previo;
 
 V. Las que se pronuncien sobre las providencias precautorias o medidas cautelares;
 
 VI. Las que pongan término al procedimiento o lo suspendan;
 
-VII. El auto que resuelve la vinculación del imputado a proceso;
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2024)</small>
+
+VII. El auto que resuelve la vinculación y la no vinculación del imputado a proceso;
 
 VIII. Las que concedan, nieguen o revoquen la suspensión condicional del proceso;
 
 IX. La negativa de abrir el procedimiento abreviado;
 
-X. La sentencia definitiva dictada en el procedimiento abreviado, o
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2024)</small>
 
-XI. Las que excluyan algún medio de prueba.
+X. La sentencia definitiva dictada en el procedimiento abreviado;
+
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2024)</small>
+
+XI. Las que excluyan algún medio de prueba o lo admitan cuando no cumpla con los requisitos legales, o sean ofrecidas fuera del término procesal correspondiente y no tengan el carácter de supervenientes y estén debidamente justificadas;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2024)</small>
+
+XII. Las que determinen la ilicitud o ilegalidad de algún dato o medio de prueba, o la prueba, cuando ésta sea anticipada;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2024)</small>
+
+XIII. La que determine la legalidad o ilegalidad de la detención;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2024)</small>
+
+XIV. Las que determinen la incompetencia del órgano jurisdiccional;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2024)</small>
+
+XV. La negativa a autorizar la prórroga del plazo en la investigación complementaria;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2024)</small>
+
+XVI. La que resuelva la solicitud de la orden de comparecencia;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2024)</small>
+
+XVII. Las que se pronuncien sobre la restitución de bienes, objetos, instrumentos o productos del delito, o
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2024)</small>
+
+XVIII. La que se pronuncie sobre el no ejercicio de la acción penal.
 
 ###### Artículo 468.
 
@@ -6125,3 +6163,9 @@ D.O.F. 3 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 109 Y 113 DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 258 Y 467 DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EN MATERIA DEL RECURSO DE APELACIÓN”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
