@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-53416"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-02-01"
-last_updated: "2024-01-17"
+last_updated: "2024-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53416&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,367 +19,327 @@ issue_date: "2007-01-31"
 ---
 # LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIAS -- ANTES LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA --
 
-LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
+REGLAMENTO DEL PROCESO ADMINISTRATIVO DE ADOPCIONES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2017.
 
-Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de febrero de 2007.
+Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 27 de septiembre de 2013.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+RUBÉN IGNACIO MOREIRA VALDEZ, Gobernador Constitucional del Estado de Coahuila de Zaragoza, en ejercicio de las facultades que me confieren los artículos 82, fracción XVIII y 85, tercer párrafo, de la Constitución Política del Estado de Coahuila de Zaragoza; y artículo 9, apartado A fracción XIV de la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza; y
 
-FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
+CONSIDERANDO...
 
-Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
+En virtud de lo anterior, he tenido a bien expedir el siguiente:
 
-DECRETO
+REGLAMENTO DEL PROCESO ADMINISTRATIVO DE ADOPCIONES DEL ESTADO DE COAHUILA DE ZARAGOZA.
 
-"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
+## TÍTULO I. DISPOSICIONES PRELIMINARES
 
-SE EXPIDE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA.
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-Artículo Único.- Se expide la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+###### Artículo 1.
 
-LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA.
+Las disposiciones del presente reglamento son de orden público e interés social, y tienen por objeto regular el proceso administrativo de Adopciones, previsto en la Ley de Asistencia Social y Protección de Derechos del Estado de Coahuila de Zaragoza.
 
-## TITULO PRIMERO
+Corresponde la aplicación del presente ordenamiento al Consejo Técnico de Adopciones.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+###### Artículo 2.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ABRIL DE 2022)</small>
+Debe considerarse en el procedimiento de adopción a las niñas, niños y adolescentes como sujetos de derechos.
 
-###### ARTÍCULO 1.
+###### Artículo 3.
 
-La presente ley tiene por objeto establecer la coordinación entre la Federación, las entidades federativas, las demarcaciones territoriales de la Ciudad de México y los municipios para prevenir, sancionar y erradicar las violencias contra las mujeres, adolescentes y niñas, así como los principios y mecanismos para el pleno acceso a una vida libre de violencias, así como para garantizar el goce y ejercicio de sus derechos humanos y fortalecer el régimen democrático establecido en la Constitución Política de los Estados Unidos Mexicanos.
+Las disposiciones y decisiones en torno a la adopción deberán circunscribirse a los siguientes principios:
 
-Las disposiciones de esta ley son de orden público, interés social y de observancia general en la República Mexicana.
+a) Principio de universalidad.- Todos los niños, las niñas, las y los adolescentes son sujetos de derechos, sin distinción alguna, y todos los derechos humanos son aplicables a todas las personas menores de edad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ABRIL DE 2022)</small>
+b) Principio del interés superior de la niñez.- Este principio orienta a que las autoridades realicen las acciones que representen mayor beneficio para las niñas, niños y adolescentes atendiendo a su condición de titular de derechos.
 
-###### ARTÍCULO 2.
+c) Principio de participación.- Este principio supone el derecho fundamental de toda persona menor de edad de expresar por sí misma su opinión de acuerdo a su edad o etapa de desarrollo y el correlativo deber de tenerla en cuenta en la toma de decisiones, derecho a ser escuchado por las autoridades administrativas y judiciales.
 
-La Federación, las entidades federativas, las demarcaciones territoriales de la Ciudad de México y los municipios, en el ámbito de sus respectivas competencias expedirán las normas legales y tomarán las medidas presupuestales y administrativas correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con los Tratados Internacionales en Materia de Derechos Humanos de las Mujeres, ratificados por el Estado mexicano.
+d) Principio de igualdad.- El concepto comprende que el trato hacia las niña (sic), niños y adolescentes debe ser sin discriminación alguna, en razón de raza, color, sexo, edad, idioma, religión, creencias origen étnico, cultura, opinión, posición económica, discapacidad física intelectual o sensorial o cualquier otra condición de sus padres, tutores o representantes. Es deber de las autoridades, ascendientes, tutores y de los miembros de la sociedad promover e impulsar un desarrollo igualitario y equitativo entre niñas, niños y adolescentes.
 
-> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+e) Principio de subsidiariedad de la adopción internacional.- La autoridad debe resolver los asuntos en las instancias más cercanas a los interesados. Por tanto, la autoridad central asume su función subsidiaria cuando participa en aquellas cuestiones que, por diferentes razones, no puedan resolverse eficientemente en el ámbito local o más inmediato.
 
-La Federación, las entidades federativas, las demarcaciones territoriales de la Ciudad de México y los municipios deberán instrumentar las medidas presupuestales y administrativas necesarias y suficientes de carácter extraordinario para hacer frente a la Alerta de Violencia de Género contra las mujeres.
+La adopción internacional será una medida subsidiaria de la adopción interna. Se considerará prioridad colocar a un niño en su propio país, o en el entorno cultural y lingüístico próximo a su entorno de procedencia. Una adopción internacional no deberá producirse hasta concretarse la imposibilidad de encontrar una solución para el niño o niña en su país de origen.
 
-> <small>(ADICIONADO, D.O.F. 25 DE ABRIL DE 2023)</small>
+###### Artículo 4.
 
-La Federación y las entidades federativas deberán contar con fiscalías especializadas para atender los delitos contra las mujeres y Centros de Justicia para las Mujeres.
+El Consejo Técnico de Adopciones es un órgano colegiado, técnico, de asesoría y opinión, dependiente del organismo público descentralizado de la administración publica estatal denominado Sistema para el Desarrollo Integral de la Familia y Protección de Derechos, que tendrá como objeto conocer de las solicitudes de adopción que se le presenten, con relación a las niñas, niños o las y los adolescentes que se encuentren institucionalizados y en aptitud legal de ser adoptados, así como de emitir opinión respecto de éstas y de las adopciones promovidas ante el Poder Judicial del Estado sobre las niñas, niños y adolescentes no institucionalizados.
 
-###### ARTÍCULO 3.
+###### Artículo 5.
 
-Todas las medidas que se deriven de la presente ley, garantizarán la prevención, la atención, la sanción y la erradicación de todos los tipos de violencia contra las mujeres durante su ciclo de vida y para promover su desarrollo integral y su plena participación en todas las esferas de la vida.
+Para los efectos del presente ordenamiento, se entenderá por:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ABRIL DE 2022)</small>
+I. Adopción: Procedimiento por el cual se confiere al adoptado la posesión de estado de hijo del o de los adoptantes y a éstos, los deberes inherentes a la relación paterno filial.
 
-###### ARTÍCULO 4.
+II. Adopción internacional: Procedimiento de adopción en el cual los solicitantes residen fuera de México.
 
-Los principios rectores para el acceso de todas las mujeres, adolescentes y niñas a una vida libre de violencias que deberán ser observados en la elaboración y ejecución de las políticas públicas federales y locales son:
+III. Autoridades centrales: Las autoridades designadas por los países ratificantes de la Convención sobre la Protección de Menores y la Cooperación en Materia de Adopción Internacional, para intervenir con dicho carácter en los procedimientos de adopción internacional, según lo dispuesto por el artículo 6 de la citada Convención.
 
-> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+IV. Certificado de idoneidad: Documento expedido por la autoridad central a través del cual se hace constar que un solicitante cuenta con las condiciones psicológicas, sociales, médicas y jurídicas adecuadas para la integración de una niña, niño o adolescente en su núcleo familiar.
 
-I. La igualdad jurídica, sustantiva, de resultados y estructural;
+V. Consejo: El Consejo Técnico de Adopciones.
 
-> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-II. La dignidad de las mujeres;
+VI. Coordinación: La Coordinación de Adopciones, el área de la Procuraduría para Niños, Niñas y la Familia que, de acuerdo al presente reglamento, se encarga de recibir y revisar los expedientes de los solicitantes de adopción canalizados por las distintas delegaciones de la Procuraduría.
 
-III. La no discriminación, y
+VII. Estado de recepción: Es el país donde habrá de radicar la niña, niño o adolescente dado en adopción internacional.
 
-> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+VIII. Niña, niño o adolescente: Son las personas menores de 18 años de edad.
 
-IV. La libertad de las mujeres;
+IX. Niña, niño o adolescente adoptable: Aquéllos que jurídica y psicológicamente son susceptibles de integrarse a una familia, y del cual se puede constatar mediante evaluación, que tiene aptitud para insertarse con beneficio propio en un entorno familiar de substitución y que ha roto definitivamente con los lazos de filiación respecto a sus padres de origen, conforme a la legislación vigente.
 
-> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+X. Niña, niño o adolescente institucionalizado: Menor albergado en una institución pública o privada no sujeto a patria potestad.
 
-V. La universalidad, la interdependencia, la indivisibilidad y la progresividad de los derechos humanos;
+XI. Opinión: Documento suscrito por los titulares de la Presidencia y Secretaría Técnica del Consejo Técnico de Adopciones mediante el cual se hace del conocimiento de la autoridad judicial, el resultado del análisis de las solicitudes de adopción por los integrantes del propio Consejo.
 
-> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+XII. Organismo acreditado: El que colabora en la tramitación de la adopción internacional y que se encuentra acreditado conforme a lo dispuesto en el artículo 12 de la Convención sobre los Derechos del Niño y la Cooperación en Materia de Adopción Internacional.
 
-VI. La perspectiva de género;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+XIII. Procuraduría: La Procuraduría para Niños, Niñas y la Familia.
 
-VII. La debida diligencia;
+XIV. Titular de la Presidencia del Consejo: El o la titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza.
 
-> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+XV. Solicitantes: La persona soltera o la pareja, que pretendan adoptar a un menor.
 
-VIII. La interseccionalidad;
+XVI. Sistema: El Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza.
 
-> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+###### Artículo 6.
 
-IX. La interculturalidad, y
+El Consejo se integrará por:
 
-> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+I. Una presidencia, a cargo del o la titular de la Dirección del Sistema.
 
-X. El enfoque diferencial.
+II. Una secretaría técnica, a cargo del o la titular de la Procuraduría.
 
-###### ARTÍCULO 5.
+III. Una secretaría auxiliar, a cargo del o la titular de la Coordinación de Adopciones.
 
-Para los efectos de la presente ley se entenderá por:
+IV. Una persona representante del Tribunal Superior de Justicia del Estado.
 
-I. Ley: La Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+V. Cinco consejeros que serán aquellos funcionarios públicos adscritos al Organismo, que por las funciones que desarrollen así como por sus conocimientos especializados en psicología, trabajo social y medicina, sean designados por el propio titular de la Dirección del Organismo.
 
-II. Programa: El Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+VI. Una persona que represente al Sistema para el Desarrollo Integral de la Familia del Municipio de donde sean originarios o atendidos las niñas, niños o adolescentes institucionalizados susceptibles de ser adoptados.
 
-III. Sistema: El Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
+VII. El director, encargado o representante de la institución pública o privada que alberga a las niñas, niños o adolescentes liberados para adopción.
 
-IV. Violencia contra las Mujeres: Cualquier acción u omisión, basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público;
+VIII. Una persona representante de las asociaciones civiles constituidas por adoptantes o adoptados, o ambos, cuyo objeto social sea promover y proteger la institución de adopción, así como asesorar, orientar y brindar apoyo a sus integrantes, a quienes se encuentren en proceso de adopción, que podrán asistir a invitación del titular de la presidencia.
 
-V. Modalidades de Violencia: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres;
+Los cargos del Consejo serán honorarios, por lo que sus miembros no percibirán remuneración alguna.
 
-VI. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
+Cada integrante designará un suplente, realizando su acreditación a través de escrito dirigido al titular de la presidencia.
 
-VII. Agresor: La persona que inflige cualquier tipo de violencia contra las mujeres;
+El Consejo podrá convocar con voz pero sin voto a las y los expertos en materia de adopción, académicos o integrantes de sociedad civil que se consideren necesarios, para que expresen criterios que orienten en la toma decisiones del Consejo.
 
-> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+## TÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO DE ADOPCIÓN
 
-VIII. Derechos Humanos de las Mujeres: Refiere a los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos de la Niñez, la Convención sobre los Derechos de las Personas con Discapacidad, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem do Pará) y demás instrumentos internacionales en la materia;
+### CAPÍTULO SEGUNDO. DE LA INTEGRACIÓN DEL CONSEJO
 
-IX. Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+###### Artículo 7.
 
-> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+Para el cumplimiento de su objeto el Consejo tendrá las atribuciones siguientes:
 
-X. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio (sic) de conciencia, inclusión, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
+I. Analizar cuidadosamente los expedientes de solicitud de adopción propuestos por la secretaria técnica del Consejo, atendiendo en todo momento el interés superior de la niña, niño o adolescente que se pretenda adoptar;
 
-> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+II. Analizar los casos de las niñas, niños o adolescentes cuya situación jurídica esté resuelta y permita ser integrados en una familia adoptiva;
 
-XI. Misoginia: Son conductas de odio hacia las mujeres, las adolescentes y las niñas y se manifiestan en actos violentos y crueles contra ellas por el hecho de serlo;
+III. Dictaminar la procedencia de la solicitud de adopción o adopción internacional presentada ante el Sistema;
 
-> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+IV. Verificar que se satisfagan los requisitos legales para recomendar a la Procuraduría el inicio del procedimiento de adopción correspondiente;
 
-XII. Muertes evitables: Conjunto de muertes que no deberían haber ocurrido en presencia de servicios de salud eficaces, con exámenes rutinarios para la detección temprana y tratamientos adecuados;
+V. Adoptar las medidas pertinentes en cada caso en lo referente a las convivencias temporales de la niña, niño o adolescente con los solicitantes;
 
-> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+VI. Intervenir a través de las áreas respectivas en el seguimiento de los casos de solicitud de adopción procedentes y en el trámite judicial correspondiente;
 
-XIII. Interseccionalidad: Herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras identidades creando múltiples ejes de diferencias que se intersectan en contextos históricos específicos, mismos que contribuyen a experiencias específicas de opresión y privilegio e influyen sobre el acceso de las mujeres y las niñas a derechos y oportunidades;
+VII. Asignar al niño, niña o adolescente a la familia con quien se integrará, atendiendo a las características y necesidades del menor;
 
-> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+VIII. Emitir opinión sobre la situación jurídica de las niñas, niños o adolescentes o candidatos a adoptantes cuando así lo soliciten las autoridades competentes;
 
-XIV. Interculturalidad: El enfoque intercultural parte del reconocimiento y respeto de las diferencias culturales existentes, bajo la concepción de que las culturas pueden ser diferentes entre sí pero igualmente válidas, no existiendo culturas superiores ni inferiores. Está orientado a abordar las particularidades de las mujeres de los pueblos indígenas, afrodescendientes y otros grupos étnicos diferenciados y su relación con la sociedad dominante, más allá de la coexistencia de culturas;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+IX. Emitir su opinión respecto a la viabilidad o no de la adopción solicitada, así como la que corresponda para que la Procuraduría para Niños, Niñas y la Familia inicie el procedimiento de adopción correspondiente;
 
-XV. Enfoque diferencial: Tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las mujeres, las adolescentes y las niñas, ya sea por género, edad, etnia o discapacidad; así como las vulneraciones específicas a sus derechos humanos en tanto pertenecientes a grupos sociales o culturales específicos. Lo anterior con el objetivo de diseñar y ejecutar medidas afirmativas para la garantía del goce efectivo de los derechos de las mujeres, las adolescentes y las niñas, y
+X. Estudiar la procedencia o improcedencia de las solicitudes de adopción y emitir las opiniones correspondientes, los cuales serán suscritos por el titular de la presidencia y el de la secretaría técnica del Consejo;
 
-> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+XI. Analizar la revaloración o baja de las solicitudes de adopción;
 
-XVI. Debida diligencia: La obligación de las personas servidoras públicas de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y garantizando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora.
+XII. Conocer y analizar los resultados de las convivencias autorizadas;
 
-> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+XIII. Fomentar la adopción de las niñas, niños y adolescentes;
 
-XVII. Centros de Justicia para las Mujeres: Son espacios multidisciplinarios e interinstitucionales que brindan, de manera gratuita, atención integral a mujeres víctimas de violencia de género, así como a sus hijas e hijos menores de edad, desde las perspectivas de género, derechos humanos, intercultural, diferencial e interseccional, mediante la prestación de servicios en un mismo lugar, con la finalidad de promover y garantizar su acceso a la justicia, el ejercicio pleno de sus derechos humanos y su empoderamiento.
+XIV. Generar políticas y criterios en materia de adopción;
 
-###### ARTÍCULO 6.
+XV. Las demás que le correspondan, de conformidad con el presente ordenamiento y disposiciones jurídicas y administrativas aplicables.
 
-Los tipos de Violencia contra las Mujeres son:
+###### Artículo 8.
 
-> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2009)</small>
+Las sesiones del Consejo serán convocadas bimestralmente por el titular de la secretaría técnica, con al menos tres días hábiles de anticipación a la fecha de celebración de la misma; acto para el que éste deberá proporcionar a los integrantes del Consejo, o en su caso, a los especialistas o representantes de instituciones públicas o privadas que sean invitados, un informe detallado de los expedientes de adopción,
 
-I. La violencia psicológica.- Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+En la convocatoria para las sesiones se indicará la fecha, hora, lugar y orden del día para la celebración de la sesión.
 
-> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2022)</small>
+###### Artículo 9.
 
-II. La violencia física.- Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma, objeto, ácido o sustancia corrosiva, cáustica, irritante, tóxica o inflamable o cualquier otra sustancia que, en determinadas condiciones, pueda provocar o no lesiones ya sean internas, externas, o ambas;
+El Consejo sesionará bimestralmente y de manera extraordinaria cuando sea necesario, en atención a la importancia y urgencia de los asuntos que deban tratar, a convocatoria del titular de su presidencia o, en su caso del de la secretaría técnica.
 
-III. La violencia patrimonial.- Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima;
+### CAPÍTULO TERCERO. DE LAS ATRIBUCIONES Y FUNCIONAMIENTO DEL CONSEJO
 
-IV. Violencia económica.- Es toda acción u omisión del Agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+###### Artículo 10.
 
-V. La violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la Víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto, y
+Las sesiones del Consejo se celebrarán cuando el quórum se integre con la asistencia de las tres cuartas partes de sus miembros y siempre que se encuentre presente el o la titular de la presidencia y el o la titular de la secretaría técnica, o sus suplentes, debiendo ajustarse al orden del día previamente formulado.
 
-> <small>(ADICIONADA, D.O.F. 17 DE ENERO DE 2024)</small>
+Si el quórum no se reuniera, se convocará a sesión dentro de los tres días siguientes, la que se celebrará con los miembros del Consejo que asistieren.
 
-VI. Violencia a través de interpósita persona.- Es cualquier acto u omisión que, con el objetivo de causar perjuicio o daño a las mujeres, se dirige contra las hijas y/o hijos, familiares o personas allegadas, ya sea que se tenga o se haya tenido relación de matrimonio o concubinato; o mantenga o se haya mantenido una relación de hecho con la persona agresora; lo anterior aplica incluso cuando no se cohabite en el mismo domicilio.
+###### Artículo 11.
 
-Se manifiesta a través de diversas conductas, entre otras:
+Las resoluciones del Consejo se tomarán por mayoría de votos de quienes concurran a la sesión. En caso de empate el o la titular de la presidencia tendrá voto de calidad.
 
-a) Amenazar con causar daño a las hijas e hijos;
+###### Artículo 12.
 
-b) Amenazar con ocultar, retener, o sustraer a hijas e hijos fuera de su domicilio o de su lugar habitual de residencia;
+El Consejo, siempre que así lo acuerde la mayoría de sus integrantes presentes, podrá proponer al o la titular de la Procuraduría que invite a las sesiones a especialistas o representantes de instituciones públicas o privadas que considere necesario, o citar para que comparezca a la sesión respectiva a cualquier servidor público de la administración del Sistema, cuando se discuta algún asunto relacionado con sus funciones.
 
-c) Utilizar a hijas y/o hijos para obtener información respecto de la madre;
+###### Artículo 13.
 
-d) Promover, incitar o fomentar actos de violencia física de hijas y/o hijos en contra de la madre;
+Las actas de las sesiones del Consejo constarán por escrito y deberán ser firmadas por sus asistentes. En caso de negativa a firmar, el secretario auxiliar asentará esta circunstancia en el acta.
 
-e) Promover, incitar o fomentar actos de violencia psicológica que descalifiquen la figura materna afectando el vínculo materno filial;
+###### Artículo 14.
 
-f) Ocultar, retener o sustraer a hijas y/o hijos así como a familiares o personas allegadas;
+Los servidores públicos que integran la administración del Sistema tendrán la obligación de atender las instrucciones y requerimientos que emita el Consejo en el ámbito de su competencia.
 
-g) Interponer acciones legales con base en hechos falsos o inexistentes, en contra de las mujeres para obtener la guarda y custodia, cuidados y atenciones o pérdida de la patria potestad de las hijas y/o hijos en común, y
+###### Artículo 15.
 
-h) Condicionar el cumplimiento de las obligaciones alimentarias a las mujeres y a sus hijas e hijos;
+El o la titular de la presidencia del Consejo tendrá las siguientes facultades y obligaciones:
 
-VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+I. Presidir y dirigir las sesiones del Consejo así como declarar resueltos los asuntos en el sentido de las votaciones:
 
-## TITULO II. MODALIDADES DE LA VIOLENCIA
+II. Convocar a los miembros del Consejo, a través de la persona designada en la secretaría técnica a las sesiones que celebre el mismo;
 
-### CAPÍTULO I. DE LA VIOLENCIA EN EL ÁMBITO FAMILIAR
+III. Suscribir, conjuntamente con los titulares de la secretaría técnica y la secretaría auxiliar, así como los demás miembros que asistan a las sesiones, las actas en que se hagan constar los acuerdos del Consejo:
 
-> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2023)</small>
+IV. Suscribir junto con quien ocupe la secretaría técnica las opiniones respecto a las adopciones que conozca el Consejo;
 
-###### ARTÍCULO 7.
+V. Las demás que le atribuya el presente reglamento y otras disposiciones aplicables.
 
-Violencia familiar: Es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, cuya persona agresora tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
+### CAPÍTULO PRIMERO. REQUISITOS DE LOS SOLICITANTES PARA ADOPCIÓN
 
-También se considera violencia familiar cuando la persona agresora tenga responsabilidades de cuidado o de apoyo, aunque no tenga una relación de parentesco.
+###### Artículo 16.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE ENERO DE 2024)</small>
+La persona que ostente la secretaría técnica del Consejo tendrá las facultades y obligaciones siguientes:
 
-###### ARTÍCULO 8.
+I. Coordinar el funcionamiento del Consejo, procurando la participación activa y respetuosa de sus miembros;
 
-Los modelos de atención, prevención y sanción que establezcan la Federación, las entidades federativas, las demarcaciones territoriales de la Ciudad de México y los municipios son el conjunto de medidas y acciones para proteger a las víctimas de violencia familiar y violencia a través de interpósita persona como parte de la obligación del Estado, de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos considerando la interseccionalidad, la interculturalidad y el enfoque diferenciado. Para ello, deberán tomar en consideración:
+II. Asistir a las sesiones que celebre el Consejo:
 
-> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2024)</small>
+III. Ejecutar las políticas y criterios que en materia de adopción haya emitido el Consejo;
 
-I. Proporcionar atención, asesoría jurídica y tratamiento psicológico especializados y gratuitos a las víctimas, que favorezcan su empoderamiento y reparen el daño causado por dichas violencias;
+IV. Formular de acuerdo con el o la titular de la presidencia, las convocatorias en las que se deberá incluir el orden del día y remitirlas con la anticipación que corresponda a los miembros del Consejo;
 
-II. Brindar servicios reeducativos integrales, especializados y gratuitos al Agresor para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía masculina, y los patrones machistas que generaron su violencia;
+V. Emitir las opiniones técnicas que le sean solicitadas por el Consejo:
 
-> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2024)</small>
+VI. Suscribir las actas en que se hagan constar los acuerdos del Consejo;
 
-III. Evitar que la atención que reciban las víctimas y la persona agresora sea proporcionada por la misma persona y en el mismo lugar. En ningún caso podrán brindar atención, aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
+VII. Suscribir junto con el titular de la presidencia las opiniones respecto a las adopciones que conozca el Consejo;
 
-> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2024)</small>
+VIII. Clasificar los expedientes y solicitudes correspondientes y proporcionar a los miembros del Consejo la información y materiales que le requieran:
 
-IV. Evitar procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre la persona agresora y las víctimas;
+IX. Dar seguimiento a las solicitudes de estudios, dictámenes, valoraciones, convivencias y demás actos que haya propuesto el Consejo a las áreas de la administración del Sistema;
 
-V. Favorecer la separación y alejamiento del Agresor con respecto a la Víctima, y
+X. Emitir la resolución de asignación de menores y en su caso ordenar al titular de la secretaría auxiliar que inicie el procedimiento judicial de adopción, conforme a los lineamientos establecidos en el presente reglamento;
 
-VI. Favorecer la instalación y el mantenimiento de refugios para las víctimas y sus hijas e hijos; la información sobre su ubicación será secreta y proporcionarán apoyo psicológico y legal especializados y gratuitos. Las personas que laboren en los refugios deberán contar con la cédula profesional correspondiente a la especialidad en que desarrollen su trabajo. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo violencia.
+XI. Formular la orden del día de cada sesión del Consejo:
 
-> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+XII. Ejecutar los acuerdos tomados en el Consejo;
 
-Los modelos de atención, prevención y sanción a los que se refiere el primer párrafo de este artículo deberán tener un enfoque diferenciado con el objeto de ajustarse a las condiciones específicas de las mujeres víctimas de violencia.
+XIII. Notificar a los solicitantes, sus determinaciones sobre la procedencia, improcedencia, revaloración o baja de las solicitudes de adopción.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE ENERO DE 2024)</small>
+Para llevar a cabo las notificaciones, podrá facultar expresamente al personal adscrito a la Procuraduría.
 
-###### ARTÍCULO 9.
+XIV. Proponer al Consejo, que solicite al director o directora general del Sistema la celebración de convenios y acuerdos con la federación, el estado y los municipios relacionados con su objeto, en el ámbito de su competencia; y
 
-Con el objeto de contribuir a la erradicación de las violencias contra las mujeres dentro de la familia, los Poderes Legislativos, Federal y Locales, en el respectivo ámbito de sus competencias, considerarán:
+XV. Las demás facultades que correspondan, de conformidad con el presente ordenamiento y disposiciones jurídicas y administrativas aplicables.
 
-I. Tipificar el delito de violencia familiar, que incluya como elementos del tipo los contenidos en la definición prevista en el artículo 7 de esta ley;
+###### Artículo 17.
 
-> <small>(ADICIONADA, D.O.F. 17 DE ENERO DE 2024)</small>
+El titular de la secretaría auxiliar del Consejo tendrá las facultades y obligaciones siguientes:
 
-II. Tipificar el delito de violencia a través de interpósita persona conforme a lo que establece la fracción VI del artículo 6 de esta ley;
+I. Asistir a las reuniones del Consejo;
 
-> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2024)</small>
+II. Ejecutar los acuerdos del Consejo,
 
-III. Establecer la violencia familiar y la violencia a través de interpósita persona como causales de divorcio, de pérdida de la patria potestad y de restricción para el régimen de visitas, así como impedimento para la guarda y custodia de niñas, niños y adolescentes;
+III. Elaborar los programas de trabajo a desarrollar por el Consejo y someterlos a la consideración del o la titular de la presidencia y de la secretaría técnica.
 
-> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2024)</small>
+IV. Someter el calendario de sesiones a la consideración de los miembros del Consejo;
 
-IV. Disponer que cuando la pérdida de la patria potestad sea por causa de violencia familiar, violencia a través de interpósita persona y/o incumplimiento de obligaciones alimentarias o de crianza, no podrá recuperarse la misma;
+V. Levantar, previa verificación de la asistencia del quórum legal, las actas de las sesiones del Consejo y suscribirlas conjuntamente con el o la titular de la presidencia, el de la secretaría técnica y los miembros que en ella intervinieron, así como asentarlas en el libro respectivo;
 
-> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2024)</small>
+VI. Desahogar las comisiones que, en su caso le asigne el titular de la presidencia y
 
-V. Incluir como parte de la sentencia, la condena a la persona agresora a participar en servicios reeducativos integrales, especializados, con perspectiva de género y gratuitos, y
+VII. Las demás que le atribuyan el presente reglamento y otras disposiciones aplicables.
 
-> <small>(ADICIONADA, D.O.F. 17 DE ENERO DE 2024)</small>
+VIII. Recibir las solicitudes de adopción que presenten los interesados ante las distintas delegaciones, conforme al presente reglamento:
 
-VI. La violencia a través de interpósita persona se sancionará con independencia de los delitos en los que haya incurrido la persona agresora.
+IX. Dictar las medidas administrativas que correspondan para la organización y correcto funcionamiento de la Coordinación;
 
-### CAPÍTULO II. DE LA VIOLENCIA LABORAL Y DOCENTE
+X. Dirigir y coordinar al personal adscrito a la Coordinación, de conformidad con lo dispuesto en el presente ordenamiento;
 
-###### ARTÍCULO 10.
+XI. Instruir al personal adscrito a la Coordinación para el auxilio y suplencia en funciones relacionadas con el objeto de la misma;
 
-Violencia Laboral y Docente: Se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, consistente en un acto o una omisión en abuso de poder que daña la autoestima, salud, integridad, libertad y seguridad de la víctima, e impide su desarrollo y atenta contra la igualdad.
+XII. Cumplir y hacer cumplir las disposiciones, programas y acuerdos relacionadas con el objeto del Consejo que correspondan;
 
-Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño. También incluye el acoso o el hostigamiento sexual.
+XIII. Representar a la Coordinación en los casos que corresponda y en el ámbito de su competencia:
 
-> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2018)</small>
+XIV. Supervisar la gestión oportuna de los asuntos jurídicos relacionados con el Consejo;
 
-###### ARTÍCULO 11.
+XV. Cumplir las determinaciones del Consejo y aquéllas que dicte el o la titular de la Procuraduría en el ejercicio de sus funciones;
 
-Constituye violencia laboral: la negativa ilegal a contratar a la Víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, las conductas referidas en la Ley Federal del Trabajo, la explotación, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en la ley y todo tipo de discriminación por condición de género.
+XVI. Brindar información y asesoría jurídica a los progenitores o a quien ejerza la patria potestad, que pretenden consentir en la adopción del menor sobre las consecuencias de su consentimiento.
 
-###### ARTÍCULO 12.
+XVII. Registrar en la lista de espera a los solicitantes que cumplan con los requisitos establecidos en el presente reglamento y disposiciones jurídicas aplicables.
 
-Constituyen violencia docente: aquellas conductas que dañen la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones y/o características físicas, que les infligen maestras o maestros.
+XVIII. Verificar que se realicen las valoraciones psicológicas, sociales, médicas, jurídicas u otras a los solicitantes de adopción.
 
-###### ARTÍCULO 13.
+XIX. Formar expedientes a las solicitudes de adopción, y realizar todos los trámites administrativos que sean necesarios para turnar dicho expediente al análisis del Consejo, por conducto del o la titular de la Procuraduría
 
-El hostigamiento sexual es el ejercicio del poder, en una relación de subordinación real de la víctima frente al agresor en los ámbitos laboral y/o escolar. Se expresa en conductas verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva.
+XX. Verificar que se programen las convivencias de los solicitantes con los menores candidatos de adopción, a efecto de generar el vínculo afectivo.
 
-El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
+XXI. Promover todo proceso administrativo y judicial tendiente a lograr la adopción de niñas, niños o adolescentes puestos a disposición de la Procuraduría; siempre y cuando la situación jurídica y psicológica de éstos ya se encuentre resuelta;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ENERO DE 2021)</small>
+XXII. Coordinar la realización del curso de capacitación para padres adoptivos.
 
-###### ARTÍCULO 14.
+XXIII. Supervisar que se realicen los seguimientos postadoptivos por medio de las delegaciones de la Procuraduría.
 
-Las entidades federativas y la Ciudad de México, en función de sus atribuciones, tomarán en consideración:
+XXIV. Las demás que señale el presente reglamento, y las disposiciones legales y administrativas aplicables.
 
-I. Establecer las políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales y/o de docencia;
+### CAPÍTULO SEGUNDO. REQUISITOS DE LOS SOLICITANTES PARA ADOPCIÓN INTERNACIONAL
 
-II. Fortalecer el marco penal y civil para asegurar la sanción a quienes hostigan y acosan;
+###### Artículo 18.
 
-III. Promover y difundir en la sociedad que el hostigamiento sexual y el acoso sexual son delitos, y
+Son atribuciones de los consejeros:
 
-IV. Diseñar programas que brinden servicios reeducativos integrales para víctimas y agresores.
+I. Asistir a las reuniones del Consejo;
 
-###### ARTÍCULO 15.
+II. Desempeñar las comisiones que les sean asignadas por el propio Consejo;
 
-Para efectos del hostigamiento o el acoso sexual, los tres órdenes de gobierno deberán:
+III. Participar en las investigaciones que sean necesarias para el cumplimiento del objeto del Consejo;
 
-I. Reivindicar la dignidad de las mujeres en todos los ámbitos de la vida;
+IV. Suscribir las actas de las sesiones.
 
-II. Establecer mecanismos que favorezcan su erradicación en escuelas y centros laborales privados o públicos, mediante acuerdos y convenios con instituciones escolares, empresas y sindicatos;
+V. Emitir en su caso opiniones especializadas respecto a las adopciones que se presenten en el Consejo y,
 
-III. Crear procedimientos administrativos claros y precisos en las escuelas y los centros laborales, para sancionar estos ilícitos e inhibir su comisión.
+VI. Las demás que determine las disposiciones aplicables.
 
-IV. En ningún caso se hará público el nombre de la víctima para evitar algún tipo de sobrevictimización o que sea boletinada o presionada para abandonar la escuela o trabajo;
+###### Artículo 19.
 
-V. Para los efectos de la fracción anterior, deberán sumarse las quejas anteriores que sean sobre el mismo hostigador o acosador, guardando públicamente el anonimato de la o las quejosas;
+Los interesados en adoptar niñas, niños o adolescentes institucionalizados, deberán presentar solicitud de adopción acompañada de las constancias de cumplimiento de los requisitos legales y administrativos requeridos por la Procuraduría, ante las oficinas de las delegaciones de la misma.
 
-VI. Proporcionar atención psicológica y legal, especializada y gratuita a quien sea víctima de hostigamiento o acoso sexual, y
+###### Artículo 20.
 
-VII. Implementar sanciones administrativas para los superiores jerárquicos del hostigador o acosador cuando sean omisos en recibir y/o dar curso a una queja.
+Las solicitudes de adopción y lista de requisitos podrán obtenerse en las oficinas de las delegaciones de la Procuraduría, en donde recibirán orientación y asesoría jurídica referente al proceso de adopción.
 
-### CAPÍTULO III. DE LA VIOLENCIA EN LA COMUNIDAD
+### CAPÍTULO TERCERO. DE LOS ESTUDIOS QUE DEBEN REALIZARSE LOS SOLICITANTES DE ADOPCIÓN
 
-###### ARTÍCULO 16.
-
-Violencia en la Comunidad: Son los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres y propician su denigración, discriminación, marginación o exclusión en el ámbito público.
-
-###### ARTÍCULO 17.
-
-El Estado mexicano debe garantizar a las mujeres la erradicación de la violencia en la comunidad, a través de:
-
-I. La reeducación libre de estereotipos y la información de alerta sobre el estado de riesgo que enfrentan las mujeres en una sociedad desigual y discriminatoria;
-
-II. El diseño de un sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres, y
-
-III. El establecimiento de un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones de política criminal que correspondan y faciliten el intercambio de información entre las instancias.
-
-### CAPÍTULO IV. DE LA VIOLENCIA INSTITUCIONAL
-
-> <small>(REFORMADO, D.O.F. 25 DE ABRIL DE 2023)</small>
-
-###### ARTÍCULO 18.
-
-Violencia Institucional: Son los actos u omisiones de las y los servidores públicos de cualquier orden de gobierno que discriminen, utilicen estereotipos de género o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
-
-> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
-
-ARTÍCULO 18 BIS.- El Estado mexicano tendrá la misma responsabilidad de promover, respetar, proteger y garantizar, desde una perspectiva de género, los derechos humanos de las mujeres, sus hijas e hijos, que se encuentren o residan fuera del país, con base en los mecanismos legales del Servicio Exterior Mexicano.
-
-Toda acción u omisión que conlleve a la violación de los derechos humanos de las mujeres víctimas deberá ser investigada, sancionada y reparada con perspectiva de género conforme a la normatividad aplicable.
-
-###### ARTÍCULO 19.
-
-Los tres órdenes de gobierno, a través de los cuales se manifiesta el ejercicio del poder público, tienen la obligación de organizar el aparato gubernamental de manera tal que sean capaces de asegurar, en el ejercicio de sus funciones, el derecho de las mujeres a una vida libre de violencia.
-
-###### ARTÍCULO 20.
-
-Para cumplir con su obligación de garantizar el derecho de las mujeres a una vida libre de violencia, los tres órdenes de gobierno deben prevenir, atender, investigar, sancionar y reparar el daño que les inflige.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 13 DE ABRIL DE 2020)</small>
-
-### CAPÍTULO IV BIS. DE LA VIOLENCIA POLÍTICA
-
-> <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 20 Bis.
 
@@ -443,9 +403,7 @@ La violencia política contra las mujeres en razón de género se sancionará en
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE JUNIO DE 2021)</small>
 
-### CAPÍTULO IV TER. DE LA VIOLENCIA DIGITAL Y MEDIÁTICA
-
-> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2021)</small>
+### CAPÍTULO CUARTO. DE LAS NIÑAS, NIÑOS Y ADOLESCENTES ADOPTABLES
 
 ###### ARTÍCULO 20 Quáter.
 
@@ -479,73 +437,77 @@ Las plataformas digitales, medios de comunicación, redes sociales o páginas el
 
 Dentro de los cinco días siguientes a la imposición de las medidas de protección previstas en este artículo deberá celebrarse la audiencia en la que la o el juez de control podrá cancelarlas, ratificarlas o modificarlas considerando la información disponible, así como la irreparabilidad del daño.
 
-### CAPÍTULO V. DE LA VIOLENCIA FEMINICIDA Y DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
+### CAPÍTULO QUINTO. DE LA ASIGNACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ABRIL DE 2022)</small>
+###### Artículo 21.
 
-###### ARTÍCULO 21.
+Una vez presentada la solicitud, acompañada de los documentos requeridos, los solicitantes serán canalizados a las áreas de trabajo social y psicología, para que se realicen los estudios correspondientes con la finalidad de completar su expediente y estar en posibilidad de pasar al padrón de solicitantes de adopción.
 
-Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, las adolescentes y las niñas, producto de la violación de sus derechos humanos y del ejercicio abusivo del poder, tanto en los ámbitos público y privado, que puede conllevar impunidad social y del Estado. Se manifiesta a través de conductas de odio y discriminación que ponen en riesgo sus vidas o culminan en muertes violentas como el feminicidio, el suicidio y el homicidio, u otras formas de muertes evitables y en conductas que afectan gravemente la integridad, la seguridad, la libertad personal y el libre desarrollo de las mujeres, las adolescentes y las niñas.
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+La presentación de la solicitud y apertura de expediente no constituye un derecho a favor de los solicitantes para la adopción de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos.
 
-En los casos de feminicidio se aplicarán las sanciones previstas en la legislación penal sustantiva.
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ABRIL DE 2022)</small>
+El ocultar intencionalmente datos o hechos relevantes, la declaración con falsedad o la exhibición de documentos apócrifos ante la Procuraduría, será suficiente para que esta última cancele en definitiva el expediente de los solicitantes de adopción, sin perjuicio de darle vista al Ministerio Público competente, para que realice la carpeta de investigación correspondiente.
 
-###### ARTÍCULO 22.
+###### Artículo 22.
 
-Alerta de Violencia de Género contra las mujeres: Es el conjunto de acciones gubernamentales coordinadas, integrales, de emergencia y temporales realizadas entre las autoridades de los tres órdenes y niveles de gobierno, para enfrentar y erradicar la violencia feminicida en un territorio determinado; así como para eliminar el agravio comparado, resultado de las desigualdades producidas por ordenamientos jurídicos o políticas públicas que impiden el reconocimiento o ejercicio de los derechos humanos de las mujeres, las adolescentes y las niñas, a fin de garantizar su pleno acceso al derecho a una vida libre de violencias.
+La Procuraduría recibirá las solicitudes de adopción de todas aquellas personas que se encuentren interesadas en iniciar un procedimiento en el estado.
 
-> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+###### Artículo 23.
 
-El procedimiento para la emisión de la Alerta de Violencia de Género contra las mujeres deberá ser pronto y expedito, atendiendo a la situación de urgencia de los hechos documentados que motiva su solicitud y al territorio especificado en la misma, así como al principio de debida diligencia.
+Los solicitantes de adopción de niñas, niños o adolescentes institucionalizados deberán cumplir, los siguientes requisitos:
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+I. Exhibir en original o copia certificada, así como en copia simple los siguientes documentos:
 
-###### ARTÍCULO 23.
+a) Solicitud de adopción del Sistema debidamente llenada;
 
-La Alerta de Violencia de Género contra las mujeres tendrá como objetivos:
+b) Acta de nacimiento del o los solicitantes;
 
-I. Garantizar la vida, la integridad, la libertad y la seguridad, así como el acceso a la justicia de las mujeres, adolescentes y niñas;
+c) Acta de matrimonio, en su caso;
 
-II. Generar las condiciones y políticas públicas que contribuyan a la disminución y cese de la violencia feminicida en su contra, y
+d) En el caso de que los solicitantes tengan hijos, deberán presentar también actas de nacimiento de los mismos:
 
-III. Eliminar la desigualdad y discriminación producidas por ordenamientos jurídicos o políticas públicas que agravian los derechos humanos de las mujeres, adolescentes y niñas.
+e) Copia de la CURP e identificación oficial con fotografía;
 
-Para cumplir con estos objetivos, las autoridades correspondientes, en el ámbito de sus competencias deberán:
+f) Dos fotografías tamaño credencial de los solicitantes;
 
-A. Hacer del conocimiento público el motivo de la Alerta de Violencia de Género contra las mujeres, y la zona territorial que abarquen las acciones que deberán realizarse;
+g) Fotografías del domicilio a color y tamaño postal en donde se deberá apreciar la fachada del inmueble, así como el espacio en que se ubique la sala, la cocina, el comedor y las recámaras;
 
-B. Implementar las acciones y medidas preventivas, correctivas, de atención, de seguridad, de procuración e impartición de justicia, de reparación del daño y legislativas que correspondan;
+h) Fotografías a color y tamaño postal del solicitante o de la pareja en reuniones familiares;
 
-C. Elaborar un Programa de Acciones Estratégicas de cumplimiento, que deberá hacerse del conocimiento público y que contendrá:
+i) Comprobantes de ingresos para proveer la subsistencia y educación del adoptado;
 
-a) El motivo de la Alerta de Violencia de Género contra las mujeres;
+j) Constancia de trabajo, misma que deberá hacer referencia al puesto que ocupa el solicitante, las actividades que desarrolla en dicho puesto, su antigüedad y su sueldo.
 
-b) Las acciones que deberán desempeñar para hacer frente a la violencia feminicida o al agravio comparado, la ruta de acción, los plazos para su ejecución y la asignación de responsabilidades definidas para cada uno de los poderes y órdenes de gobierno, según corresponda;
+En caso de que los solicitantes estén imposibilitados a exhibir constancia de trabajo, deberán presentar una constancia contable, o bien, un documento privado u oficial del que se desprenda su actividad laboral, y el ingreso que perciben, así como el tiempo que se lleva realizando dicha actividad
 
-c) Los indicadores de seguimiento y cumplimiento de las acciones que deben realizar las autoridades federales, de las entidades federativas, municipios o demarcaciones territoriales de la Ciudad de México;
+k) Currículum vitae del o los solicitantes;
 
-D. Elaborar informes por lo menos cada seis meses para dar cuenta de los avances en el cumplimiento de las medidas establecidas en la Declaratoria, y
+1) Comprobante de domicilio del o los solicitantes;
 
-E. Asignar los recursos presupuestales necesarios y suficientes para hacer frente a la Declaratoria de Alerta de Violencia de Género contra las mujeres; para tal efecto la Cámara de Diputados y los Congresos Estatales deberán aprobar una partida presupuestal para este fin y darán seguimiento a su ejercicio efectivo.
+m) Certificado médico expedido por institución oficial respecto de la pareja o solicitante conforme a lo establecido en el artículo 28 de este ordenamiento;
 
-El procedimiento de la Alerta de Violencia de Género contra las mujeres deberá observar en todo momento los principios de transparencia, máxima publicidad y acceso a la información, así como la protección de datos personales, durante la totalidad de las etapas del procedimiento.
+n) En su caso, certificado médico de imposibilidad para procrear;
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+o) Dos cartas de recomendación del o los solicitantes, expedidas por personas que los conozcan y que no sean familiares, mismas que a su vez deberán de contener el domicilio y teléfono de las personas que los recomienda y copia de su identificación oficial vigente;
 
-###### ARTÍCULO 24.
+p) Carta de no antecedentes penales del o los solicitantes;
 
-La Alerta de Violencia de Género contra las mujeres, se emitirá cuando:
+q) Constancia de participación en el curso de "Capacitación para padres adoptivos";
 
-I. Exista un contexto de violencia feminicida caracterizado por el incremento persistente de hechos o delitos que involucren violaciones a los derechos a la vida, la libertad, la integridad y la seguridad de las mujeres, adolescentes y niñas en un territorio determinado;
+r) Estudios socioeconómico y psicosocial; conforme a los artículos 27 y 30 del presente reglamento;
 
-II. Existan omisiones documentadas y reiteradas por parte de las autoridades gubernamentales del cumplimiento de sus obligaciones en materia de prevención, atención, sanción, y acceso a la justicia para las mujeres, adolescentes y niñas, de conformidad con lo establecido en esta ley, y
+s) Aceptar expresamente que el Sistema realice el seguimiento de la niña, niño o adolescente entregado en adopción.
 
-III. Exista un agravio comparado que impida el ejercicio pleno de los derechos humanos de las mujeres, adolescentes y niñas.
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+La Procuraduría tomando en consideración las observaciones y recomendaciones de las Áreas de Psicología y de Trabajo Social, podrá pedir a los solicitantes que aporten los datos o documentos adicionales que considere necesarios para garantizar el sano desarrollo, crianza, educación y socialización de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos, susceptible de adopción.
+
+###### Artículo 24.
+
+Los solicitantes extranjeros deberán acreditar su legal estancia en el país, así como su calidad migratoria y permiso para tramitar el procedimiento de adopción emitido por las autoridades migratorias correspondientes.
 
 ###### ARTÍCULO 24 Bis.
 
@@ -633,31 +595,9 @@ V. El territorio que abarcan las medidas a implementar y, en su caso, las autori
 
 > <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2022)</small>
 
-###### ARTÍCULO 25.
+###### Artículo 25.
 
-Corresponderá al gobierno federal, a través de la Secretaría de Gobernación, declarar la Alerta de Violencia de Género contra las mujeres.
-
-La persona titular de la Secretaría de Gobernación notificará a las personas titulares de los poderes Ejecutivo, Legislativo y Judicial, así como a la instancia de procuración de justicia de las demarcaciones territoriales de la Ciudad de México, o de los municipios de la entidad federativa en que se emita la Alerta de Violencia de Género contra las mujeres.
-
-Una vez notificada la Alerta, las autoridades federales, de las entidades federativas, municipios o demarcaciones territoriales de la Ciudad de México, deberán, de manera inmediata y coordinada con el Grupo Interinstitucional y Multidisciplinario, implementar el Programa de Acciones Estratégicas de cumplimiento.
-
-El Programa de Acciones Estratégicas deberá contener, al menos las siguientes características:
-
-I. Estar alineado a la política integral y programas locales para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
-
-II. Las acciones para hacer frente a la violencia feminicida o al agravio comparado;
-
-III. Los plazos para su ejecución;
-
-IV. La asignación de responsabilidades a las autoridades competentes;
-
-V. Los recursos presupuestales destinados para dichas actividades;
-
-VI. Los indicadores de evaluación, seguimiento y cumplimiento de las acciones, o
-
-VII. La estrategia de difusión en la entidad federativa de los resultados alcanzados.
-
-> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+Los solicitantes extranjeros deberán cumplir con los requisitos establecidos en el artículo 26 de este reglamento, debiendo presentar sus actas debidamente apostilladas.
 
 ###### ARTÍCULO 25 Bis.
 
@@ -667,145 +607,271 @@ Para el levantamiento de medidas, atendiendo a la naturaleza de las mismas, se t
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ABRIL DE 2022)</small>
 
-###### ARTÍCULO 26.
+###### Artículo 26.
 
-Ante la violencia feminicida, el Estado mexicano deberá resarcir el daño conforme a los parámetros establecidos en los Tratados Internacionales en materia de derechos humanos en los que el Estado mexicano sea parte, y en la Ley General de Víctimas y considerar como reparación:
+Los solicitantes que residan en otro país y que deseen adoptar a una niña, niño o adolescente mexicano, residentes en un país en donde sea aplicable la Convención Sobre la Protección de Menores y la Cooperación en Materia de Adopción Internacional deben reunir los requisitos siguientes:
 
-> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+I. Proporcionar los datos y documentos necesarios para el llenado de la ficha de investigación internacional de los adoptantes, misma que realizará la Procuraduría General de la República a través de su departamento de Interpol-México;
 
-I. El derecho a la justicia pronta, expedita e imparcial: Se deben investigar todas las violaciones a derechos humanos vinculadas a la violencia feminicida, sancionar a las personas responsables y reparar el daño;
+II. Enviar por conducto de su autoridad central o entidad colaboradora:
 
-II. La rehabilitación: Se debe garantizar la prestación de servicios jurídicos, médicos y psicológicos especializados y gratuitos para la recuperación de las víctimas directas o indirectas;
+a) Certificado de idoneidad, en el que se especifique la expectativa de edad y sexo del menor que pretendan adoptar;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 29 DE ABRIL DE 2022)</small>
+b) Constancia de residencia;
 
-III. La satisfacción y no repetición: Son las medidas que buscan una reparación orientada a la prevención de violaciones y erradicación de la impunidad ante la violencia contra las mujeres. Entre las medidas a adoptar se encuentran:
+c) Estudio psicológico;
 
-a) La aceptación del Estado de su responsabilidad ante el daño causado y su compromiso de repararlo;
+d) Estudio socioeconómico;
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+e) Certificado de no antecedentes penales;
 
-b) La investigación de las personas servidoras públicas cuyas acciones u omisiones conllevaron a la violación de los derechos humanos de las víctimas y la impunidad, para sancionarlos conforme a la normatividad correspondiente;
+f) Certificado médico;
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+g) Constancia de ingresos, puesto y antigüedad.
 
-c) El diseño e instrumentación de políticas públicas enfocadas a la prevención, persecución, y seguimiento de la comisión de delitos cometidos contra las mujeres. Asimismo, las relativas a garantizar los derechos de los familiares a ser informados de manera oportuna de las acciones que las autoridades realicen tendientes a sancionar a los presuntos responsables, y
+Para el caso de que los solicitantes estén en la imposibilidad de exhibir constancia de trabajo, deberán presentar documento suficiente o constancia contable, que acredite su actividad laboral, sus ingresos y el tiempo que lleva realizando dicha actividad;
 
-d) La verificación de los hechos y la publicidad de la verdad.
+h) Copia certificada de acta de nacimiento de los solicitantes;
 
-> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+i) En su caso, copia certificada del acta de matrimonio;
 
-Toda medida reparatoria deberá tener un enfoque transformador del contexto y cultura discriminatoria, siempre con el objetivo de erradicarla.
+j) Fotografías tamaño postal a color de la pareja o solicitante en reuniones familiares y de amigos;
 
-### CAPÍTULO VI. DE LAS ÓRDENES DE PROTECCIÓN
+k) Fotografías tamaño postal a color de todas y cada uno de las habitaciones que conforman su residencia así como la fachada y patios, además fotografías de una reunión familiar donde intervengan los solicitantes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE MARZO DE 2021)</small>
+III. Una vez que el Sistema, por conducto de la Procuraduría, haya remitido a la autoridad central del país de recepción el informe sobre la adoptabilidad y características de la niña, niño o adolescente propuesto en adopción, los solicitantes a través de su autoridad central u organismo acreditado deberán hacer llegar la autorización para que la niña, niño o adolescente adoptado ingrese y resida permanentemente en el país;
 
-###### ARTÍCULO 27.
+IV. Aceptar expresamente tener una convivencia mínima de una semana con la niña, niño o adolescente en la ciudad donde se ubique el centro asistencial, siendo que ésta habrá de llevarse previamente al procedimiento judicial de adopción;
 
-Las órdenes de protección: Son actos de urgente aplicación en función del interés superior de la víctima, son fundamentalmente precautorias y cautelares, deberán otorgarse de oficio o a petición de parte, por las autoridades administrativas, el Ministerio Público o por los órganos jurisdiccionales competentes, en el momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres o niñas, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
+V. Consentir expresamente que el Sistema realice el seguimiento de la niña, niño o adolescente dado en adopción a través de las autoridades en su país y conforme a lo establecido en el presente reglamento;
 
-> <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+VI. Presentar carta compromiso de los solicitantes, en la que éstos se obliguen a permanecer en el país el tiempo necesario para la tramitación del procedimiento judicial de adopción;
 
-En materia de violencia política contra las mujeres en razón de género, el Tribunal Electoral del Poder Judicial de la Federación, el Instituto Nacional Electoral, los Organismos Públicos Locales Electorales y los órganos jurisdiccionales electorales locales podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere el presente Capítulo.
+Los documentos exhibidos, deberán estar vigentes, de acuerdo con lo establecido para tal efecto en las leyes aplicables, y sin excepción, deberán presentarse con la debida traducción al idioma español por perito autorizado y deberán estar debidamente legalizados o apostillados.
 
-> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2021)</small>
+### CAPÍTULO PRIMERO. DE LAS NIÑAS, NIÑOS O ADOLESCENTES PROMOVIDOS EN ADOPCIÓN
 
-###### ARTÍCULO 28.
+###### Artículo 27.
 
-Las órdenes de protección que consagra la presente ley son personalísimas e intransferibles y podrán ser:
+El personal especializado del Área de Trabajo Social de la Procuraduría integrará la información aportada por los interesados, realizará al menos una visita al domicilio en que tengan su residencia habitual los solicitantes y se coordinará con el Área de Psicología para que pueda practicar las evaluaciones correspondientes.
 
-I. Administrativas: que son emitidas por el Ministerio Público y las autoridades administrativas, y
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-II. De naturaleza jurisdiccional: que son las emitidas por los órganos encargados de la administración de justicia.
+###### Artículo 27 Bis.
 
-Las órdenes de protección tendrán una duración de hasta 60 días, prorrogables por 30 días más o por el tiempo que dure la investigación o prolongarse hasta que cese la situación de riesgo para la víctima.
+El Área de Trabajo Social de la Procuraduría será la facultada para emitir el dictamen socio-económico que resulte de la evaluación del medio familiar de los solicitantes, para garantizar, en la medida de lo posible, que es adecuado para el sano desarrollo, crianza, educación y socialización de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos, susceptible de adopción.
 
-Deberán expedirse de manera inmediata o a más tardar dentro de las 4 horas siguientes al conocimiento de los hechos que las generan.
+###### Artículo 28.
 
-> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2021)</small>
+Los estudios médicos que deberá practicar la institución pública al o a los solicitantes de adopción son los que se señalan a continuación:
 
-###### ARTÍCULO 29.
+I. Grupo sanguíneo y Rh;
 
-Quien en ejercicio de funciones públicas tenga conocimiento de la probable existencia de un hecho que la ley señale como delito en contra de una mujer o una niña, está obligado a denunciarlo inmediatamente al Ministerio Público, proporcionándole todos los datos que tuviere, poniendo a su disposición a la persona imputada, si hubieren sido detenida en flagrancia.
+II. Biometría hemática;
 
-Quien tenga el deber jurídico de denunciar y no lo haga, será acreedor a las sanciones correspondientes.
+III. Química sanguínea de veintisiete elementos;
 
-> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2021)</small>
+IV. VDRL (por su (sic) siglas en inglés, enfermedades venéreas);
 
-###### ARTÍCULO 30.
+V. VIH (Virus de la Inmunodeficiencia Humana);
 
-Las órdenes de protección se deberán dictar e implementar con base en los siguientes principios:
+VI. Examen general de orina; y
 
-I. Principio de protección: Considera primordial la vida, la integridad física, la libertad y la seguridad de las personas;
+VII. Examen toxicológico de las siguientes sustancias: anfetaminas, cocaína, canabinoides, opiáceos y benzodiacepinas.
 
-II. Principio de necesidad y proporcionalidad: Las órdenes de protección deben responder a la situación de violencia en que se encuentre la persona destinataria, y deben garantizar su seguridad o reducir los riesgos existentes;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-III. Principio de confidencialidad: Toda la información y actividad administrativa o jurisdiccional relacionada con el ámbito de protección de las personas, debe ser reservada para los fines de la investigación o del proceso respectivo;
+###### Artículo 29.
 
-IV. Principio de oportunidad y eficacia: Las órdenes deben ser oportunas, específicas, adecuadas y eficientes para la protección de la víctima, y deben ser otorgadas e implementadas de manera inmediata y durante el tiempo que garanticen su objetivo;
+Se consideran factores de riesgo en la salud del o los solicitantes, que pueden afectar el sano desarrollo de niñas, niños o adolescentes o personas que requieran asistencia o representación para el ejercicio de sus derechos, los que se indican a continuación.
 
-V. Principio de accesibilidad: Se deberá articular un procedimiento sencillo para que facilite a las víctimas obtener la protección inmediata que requiere su situación;
+I. Cualquier incapacidad, accidente o enfermedad, ya sea temporal o definitiva, que pueda acortar significativamente la expectativa de vida del o los solicitantes o les impida prestar la atención y cuidados debidos a la persona que pretenden adoptar;
 
-VI. Principio de integralidad: El otorgamiento de la medida a favor de la víctima deberá generarse en un solo acto y de forma automática, y
+II. Padecer cualquier enfermedad que puedan contagiar a la persona que pretenden adoptar;
 
-VII. Principio pro persona: Para interpretar lo referente al otorgamiento de las órdenes de protección, en caso de duda, con relación a la situación de violencia, se estará a lo más favorable para la víctima, tratándose de niñas siempre se garantizará que se cumpla en todas las decisiones que se tomen respecto de las órdenes de protección. De igual forma, cuando las determinaciones que se tomen respecto de una mujer víctima de violencia pudieran impactar en los derechos de las hijas o hijos menores de 18 años de edad.
+III. La adicción a las bebidas embriagantes o sustancias psicotrópicas.
 
-> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2021)</small>
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-###### ARTÍCULO 31.
+IV. Enfermedades crónicas que requieran especiales condiciones de vida.
 
-Cuando una mujer o una niña víctima de violencia soliciten una orden de protección a la autoridad administrativa, ministerial y/o judicial, se le deberá brindar toda la información disponible sobre el procedimiento relacionado con la propia orden.
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-La autoridad deberá informar con un lenguaje claro, sencillo y empático a la mujer víctima de violencia sobre su derecho a solicitar las órdenes de protección, y evitará cualquier información tendiente a inhibir o desincentivar la solicitud.
+###### Artículo 29 Bis.
 
-La autoridad deberá de realizar la medición y valoración del riesgo, la valoración médica en caso de requerirse, así como la valoración psicológica.
+La Procuraduría será la facultada para revisar que los certificados médicos exhibidos por los solicitantes cumplan con los requisitos previstos en el presente Reglamento y que su estado de salud física sea compatible con las necesidades específicas de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción.
 
-Las autoridades competentes de los tres órdenes de gobierno, que reciban denuncias anónimas de mujeres y niñas víctimas de violencia, decretarán las órdenes de protección correspondientes.
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2021)</small>
+###### Artículo 29 Ter.
 
-###### ARTÍCULO 32.
+La Procuraduría, tomando en consideración las observaciones y recomendaciones que hayan elaborado las Áreas de Psicología y de Trabajo Social, podrá pedir que se realicen pruebas médicas adicionales a los solicitantes y a las personas que vivan en el mismo hogar, para garantizar el sano desarrollo de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción.
 
-Para la emisión de las órdenes de protección las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional competente tomará en consideración:
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-I. Los hechos relatados por la mujer o la niña, en situación de violencia, considerando su desarrollo evolutivo y cognoscitivo o por quien lo haga del conocimiento a la autoridad;
+###### Artículo 30.
 
-II. Las peticiones explícitas de la mujer o la niña, en situación de violencia, considerando su desarrollo evolutivo y cognoscitivo o de quien informe sobre el hecho;
+El Área de Psicología de la Procuraduría será la facultada para emitir el dictamen psicológico que resulte de la evaluación de los solicitantes, y en su caso, de los familiares o personas que vivan en el mismo hogar, así como de niñas, niños o adolescentes o personas que requieran asistencia o representación para el ejercicio de sus derechos, que sean susceptibles de adopción, cuando sean mayores de tres años de edad.
 
-III. Las medidas que ella considere oportunas, una vez informada de cuáles pueden ser esas medidas. Tratándose de niñas, las medidas siempre serán determinadas conforme al principio del interés superior de la niñez;
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Las necesidades que se deriven de su situación particular analizando su identidad de género, orientación sexual, raza, origen étnico, edad, nacionalidad, discapacidad, religión, así como cualquier otra condición relevante;
+###### Artículo 30 Bis.
 
-V. La persistencia del riesgo aún después de su salida de un refugio temporal, y
+Las evaluaciones psicológicas que los profesionales autorizados por la Procuraduría deberán aplicar a los solicitantes de adopción, son las siguientes:
 
-VI. La manifestación de actos o hechos previos de cualquier tipo de violencia que hubiese sufrido la víctima.
+I. La entrevista personal.
 
-> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2021)</small>
+II. CUIDA, Cuestionario para la evaluación de adoptantes, cuidadores, tutores y mediadores.
 
-###### ARTÍCULO 33.
+III. Para la evaluación de la personalidad normal, se deberán emplear el Inventario de Personalidad Neo Revisado (NEO PI-R), o el Cuestionario de Personalidad de 16 Factores, Forma 5 (16 PF-5) o el Cuestionario Big Five (BFQ), según sea el caso a tratar.
 
-Las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional competente, deberá ordenar la protección necesaria, considerando:
+IV. Cuando no sea necesario explorar de forma exhaustiva las características de personalidad de los solicitantes, o su perfil sociocultural sea una condicionante, se deberá emplear el Cuestionario de Personalidad de Eysenck-Revisado (EPQ-R).
 
-I. Los principios establecidos en esta ley;
+V. Para explorar posibles psicopatologías se debe emplear el inventario Multifásico de Personalidad de Minnesota-2 (MMPI), utilizando la escala para medir el Narcisismo y en caso necesario el Inventario Multiaxial Clínico (MCMI).
 
-II. Que sea adecuada, oportuna y proporcional;
+VI. Como medida de comprobación que sortea los problemas de auto informe y medio de contraste, se debe aplicar una medida de habilidad: MSCEIT, test de inteligencia emocional MayerSalovey-Caruso de D.R. Caruso, J.D. Mayer y P. Salovey.
 
-III. Que los sistemas normativos propios basados en usos y costumbres no impidan la garantía de los derechos de las mujeres reconocidos en la Constitución Política de los Estados Unidos Mexicanos, así como en los tratados internacionales ratificados por el Estado Mexicano;
+Se deben utilizar las versiones más actualizadas de las pruebas que se encuentren estandarizadas para el país.
 
-IV. La discriminación y vulnerabilidad que viven las mujeres y las niñas por razón de identidad de género, orientación sexual, raza, origen étnico, edad, nacionalidad, discapacidad, religión o cualquiera otra, que las coloque en una situación de mayor riesgo, y
+En caso de existir alteraciones, anormalidades, invalidez, imposibilidad para aplicar la prueba o cualquier criterio que altere el resultado de las pruebas, el profesional en psicología deberá reportarlo en su informe final. Si los resultados de las pruebas indican la posibilidad de alteraciones psicopatológicas en la persona evaluada, se podrán aplicar las pruebas, que al criterio del experto corroboren dicha alteración.
 
-V. Las necesidades expresadas por la mujer o niña solicitante.
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-Las autoridades administrativas, el Ministerio Público y los órganos jurisdiccionales determinarán las órdenes de protección para denunciantes anónimas de violencia, privilegiando la integridad y la seguridad de las víctimas.
+###### Artículo 30 Ter.
 
-> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2021)</small>
+Por regla general, la entrevista a cónyuges o concubinos será en pareja, salvo en los siguientes supuestos:
 
-###### ARTÍCULO 34.
+I. Cuando la información sea estrictamente personal.
 
-Las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional que emita las órdenes de protección, realizará las gestiones necesarias para garantizar su cumplimiento, monitoreo y ejecución. Para lo anterior se allegará de los recursos materiales y humanos necesarios, asimismo podrá solicitar la colaboración de las autoridades competentes.
+II. La presencia del cónyuge o concubino dificulte o impida expresarse libremente al otro integrante de la pareja.
 
-> <small>(ADICIONADO, D.O.F. 18 DE MARZO DE 2021)</small>
+III. La presencia del cónyuge o concubino obstaculice el profundizar en algún tema relevante, por temor a caer en un error o contradicción.
+
+El número de entrevistas se podrá ampliar para profundizar y obtener la información necesaria para emitir el dictamen psicológico, en función de las características y circunstancias de los solicitantes.
+
+En el supuesto de que uno o ambos solicitantes tengan hijos biológicos o adoptivos, éstos deberán ser entrevistados, dependiendo de su edad, para conocer cuál es su implicación en el proyecto y como recibirán a su nuevo hermano. Si conviven otros familiares o personas en el mismo hogar, también será importante recabar su opinión sobre el proyecto de adopción, como integrarán al nuevo miembro familiar, y si creen que pueden ofrecer algún tipo de apoyo.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 30 Quater.
+
+La Procuraduría, deberá aplicar a los hijos de los solicitantes, previo consentimiento por escrito de estos últimos, el Sistema de Evaluación de la Conducta de Niños y Adolescentes (BASC), para medir su conducta adaptativa e inadaptativa, cuando tengan entre tres y dieciocho años de edad o, en su caso, el sistema de evaluación de niños y adolescentes (SENA); (QPAD), cuestionario para la evaluación de problemas en adolescentes, en edad de doce a dieciocho años o, en su caso, se puede utilizar la escala de satisfacción familiar por adjetivos (ESFA).
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 30 Quinquies.
+
+La Procuraduría también deberá evaluar a niñas, niños o adolescentes o personas que requieran asistencia o representación para el ejercicio de sus derechos, susceptibles de adopción, a partir de los tres años de edad cumplidos, con la finalidad de revisar su salud mental y compatibilidad con los solicitantes, para lo cual se recomiendan las siguientes pruebas psicológicas, dependiendo de su edad, desarrollo evolutivo, cognoscitivo y grado de madurez:
+
+I. CMASR-2 - Escala de Ansiedad Manifiesta en Niños. Cuestionario para la Evaluación de Problemas en Adolescentes (Q-PAD).
+
+II. Cuestionario de Personalidad para Adultos (EPJ-A), para personas de dieciséis a dieciocho años de edad.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 30 Sexies.
+
+La Procuraduría tomando en consideración las observaciones y recomendaciones de las Áreas de Psicología y de Trabajo Social, podrá pedir que se practiquen pruebas adicionales a los solicitantes, las personas que vivan en el mismo hogar y a niñas, niños o adolescentes o personas que requieran asistencia o representación para el ejercicio de sus derechos, susceptibles de adopción, que considere necesarias para garantizar la compatibilidad, un buen pronóstico en el proceso de integración, así como el sano desarrollo, crianza, educación y socialización de estos últimos.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 31.
+
+Con base en la información obtenida y los resultados que arrojen las pruebas realizadas a los solicitantes y las personas que vivan en el mismo hogar, el personal especializado de las Áreas de Psicología y de Trabajo Social, deberá observar los siguientes criterios de evaluación al momento de emitir sus respectivos dictámenes:
+
+I. Motivación para la Adopción.- Que las razones o motivos por los cuales los solicitantes desean adoptar sean adecuados y garanticen el interés superior de la niñez, además de ser compartidos, tratándose de cónyuges o concubinos.
+
+II. Adecuación del ofrecimiento de los solicitantes.- Se refiere a las características de edad, sexo, número de hermanos, historia personal y posibles padecimientos o cualquier tipo de discapacidad de niñas, niños o adolescentes o personas que requieran asistencia o representación para el ejercicio de sus derechos, susceptibles de adopción, para los cuales resultan idóneos los solicitantes y que estos últimos estarían dispuestos a aceptar.
+
+III. Actitudes para la Adopción.- Es importante que los solicitantes tengan una actitud positiva con relación a la dificultad que la adopción supone para el menor, hacia la revelación de su condición de hijo adoptivo, hacia los orígenes del menor y apertura para recibir apoyo profesional para superar los problemas que puedan surgir en su proceso de integración, crianza, educación, socialización y construcción de la identidad del menor.
+
+IV. Expectativas respecto a la Adopción.- Las expectativas de los solicitantes sean acordes con la realidad de la adopción, al contexto, a las características específicas de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos,, (sic) susceptible de adopción y a los cambios en el funcionamiento personal, familiar y social que esto puede implicar en la vida de los solicitantes.
+
+V. Aptitudes para la Adopción.- Que los solicitantes tengan la capacidad para cubrir las necesidades de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos, susceptible de adopción, en cada etapa evolutiva en cuanto a su cuidado, sustento, crianza, salud, protección y educación; para que desarrolle una autoestima positiva y se facilite su tránsito hacia otros contextos educativos y de socialización, en un entorno familiar de calidez afectiva y de aceptación.
+
+VI. Características Psicológicas.- Es indispensable que el patrón de personalidad de los solicitantes sea funcional para la adopción al favorecer la protección, crianza y socialización de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción con niveles adecuados de altruismo y autoestima; niveles altos de apertura, asertividad, capacidad de resolver problemas, empatía, estabilidad emocional, flexibilidad, sociabilidad, responsabilidad y tolerancia a la frustración; niveles bajos de dependencia e impulsividad; capacidad de establecer vínculos afectivos de tipo seguro; y capacidad para elaborar los duelos. Cuidando que los solicitantes no presenten psicopatologías que puedan afectar o poner en riesgo el sano desarrollo de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción.
+
+VII. Historia Familiar.- Se debe valorar la historia de las familias de origen, las características de quienes las integran, los patrones de interacción entre sus miembros, la posible existencia de episodios familiares que pudieran suponer un riesgo para el desarrollo integral de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción, y la calidad de las relaciones familiares actuales. Además de tomar en cuenta la opinión que tengan las familias de origen y los amigos cercanos respecto del proyecto de adopción de los solicitantes.
+
+VIII. Historia Personal y Trayectoria Evolutiva.- Se trata de conocer a través del relato de los solicitantes, sus experiencias y vivencias durante la infancia, adolescencia y edad adulta, relacionadas con la calidad de las relaciones dentro de la familia, las organizaciones sociales y grupos informales en los que han participado, los estudios y actividades laborales que han realizado, la compatibilidad de su vida laboral con la familiar y los apoyos con los que han contado, para valorar su trayectoria y transiciones evolutivas en el ámbito personal, familiar, social, educativo y laboral, que dejan ver los momentos tanto positivos como negativos, las crisis personales, pérdidas afectivas, transiciones circunstanciales o experiencias potencialmente traumáticas, los antecedentes relacionados con las adicciones o violencia dentro del seno familiar y, por supuesto, la comisión de cualquier delito que pueda suponer un riesgo para la vida, integridad o sano desarrollo de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción.
+
+IX. Funcionamiento familiar de los solicitantes.- Cuando se trata de solicitantes unidos en matrimonio o concubinato, se requiere conocer la historia de su relación como pareja, el tipo de familia que conforman, el proceso de adaptación mutua, la satisfacción y ajuste de la relación de pareja, su nivel de comunicación y capacidad para resolver problemas, el estilo de interacción y patrón relacional, su independencia con relación a las familias de origen, la organización de la vida familiar, el estilo de vida familiar y si existen otros hijos o adultos que vivan en el mismo hogar.
+
+X. Estado de salud de los solicitantes.- Los solicitantes deben de gozar de un buen estado de salud físico y mental, con un estilo de vida saludable, libre de farmacodependencia o adicciones, con niveles de estrés que no ocasionen un deterioro importante en el funcionamiento personal, familiar o social, y una expectativa de vida que permita a una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción (sic) llegar a la edad adulta. De igual manera, se debe constatar en los solicitantes y las personas que vivan en el mismo hogar, la ausencia de enfermedades infecto-contagiosas, crónicas o degenerativas o deficiencias que supongan un riesgo para el sano desarrollo de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción, o que no le puedan prestar la atención y cuidados debidos, atendiendo a sus necesidades específicas.
+
+XI. Entorno relacional y apoyo social.- La existencia de un entorno social amplio donde se realice la vida cotidiana de forma saludable, se garantice el desarrollo personal y social de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos y brinde a los solicitantes una red de apoyo social.
+
+XII. Solvencia y estabilidad económicas.- Es necesario comprobar que los recursos económicos de los solicitantes garanticen la atención adecuada y la satisfacción de las necesidades de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción, si los ingresos son estables o variables, la situación patrimonial de los solicitantes y su nivel de endeudamiento.
+
+XIII. Características de la vivienda.- Tanto en su entorno, para conocer los servicios de que dispone, en materia de guarderías, escuelas, hospitales, transporte, lugares de esparcimiento y seguridad, entre otros; como a las características propias de la vivienda, en cuanto a su tipo, superficie, distribución, antigüedad, condiciones de habitabilidad y espacio vital suficiente para una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción.
+
+Lo anterior, sin detrimento de que el mencionado personal especializado de las Áreas de Psicología y de Trabajo Social, con fundamento en sus conocimientos y experiencia profesional pueda detectar en el caso concreto, cualquier otra característica o circunstancia que deba ser advertida para garantizar la compatibilidad, un buen pronóstico en el proceso de integración, así como el sano desarrollo, crianza, educación y socialización de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 31 Bis.
+
+La Procuraduría será la responsable de coordinar que se implemente de manera uniforme las pruebas necesarias y criterios de evaluación que señala el presente Reglamento, con el personal especializado que forme parte de las Áreas de Psicología y de Trabajo Social de dicha institución y cualquier otra clínica, laboratorio o profesionista independiente que autorice para tal fin.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 32.
+
+Después de haber realizado una valoración socioeconómica, psicológica y médica de los solicitantes de adopción, el Sistema Nacional para el Desarrollo Integral de la Familia, el Sistema Estatal para el Desarrollo Integral de la Familia o la autoridad central del país de origen de los solicitantes en los casos de adopciones internacionales, emitirá, en caso de ser procedente, el certificado de idoneidad.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 32 Bis.
+
+Los certificados de idoneidad tendrán una vigencia de tres años, contados a partir de la fecha de su respectiva emisión, siempre que en dicho plazo no haya sucedido alguna variación sustancial en la situación personal, familiar o laboral de los solicitantes.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 32 Ter.
+
+Los solicitantes que deseen prorrogar la vigencia de su certificado de idoneidad, deberán manifestarlo por escrito a la Procuraduría, para que ordene la actualización de las evaluaciones socioeconómica, psicológica y el certificado médico. En caso de ser procedente, el Sistema Estatal para el Desarrollo Integral de la Familia emitirá un nuevo certificado, debiendo recabar y cancelar el anterior para integrarlo en el expediente respectivo.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 32 Quater.
+
+La Procuraduría tendrá a su cargo la creación y actualización constante del Registro Estatal de Familias de Acogimiento provisional, en el cual inscribirá de oficio a los solicitantes de adopción que obtengan o renueven un certificado de idoneidad.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 32 Quinquies.
+
+Los solicitantes de adopción que se encuentren inscritos en el Registro Estatal de Familias de Acogimiento provisional, deberán notificar por escrito a la Procuraduría cualquier cambio relevante que sufran en su persona, familia o trabajo, para que se integre al expediente respectivo.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 32 Sexies.
+
+Las Áreas de Psicología y de Trabajo Social, serán las encargadas de verificar si el cambio o actualización que notifiquen los solicitantes representa un impedimento temporal o definitivo, en términos del presente Reglamento.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 33.
+
+En el momento en que la Procuraduría detecte en los datos o pruebas de los solicitantes, que se actualiza un factor de riesgo para el sano desarrollo, crianza, educación o socialización de una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción, deberá determinar si se trata de un impedimento temporal o uno definitivo.
+
+Se considera un impedimento temporal, cualquier situación socioeconómica, psicológica o de salud que los solicitantes puedan subsanar para continuar con el proceso de adopción.
+
+Se considera un impedimento definitivo, cualquier situación socioeconómica, psicológica o de salud que los solicitantes no puedan subsanar y sea incompatible con el interés superior de la niñez, susceptible de adopción.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 34.
+
+En el supuesto de que los solicitantes presenten algún impedimento temporal, la Procuraduría deberá notificarlo por escrito a los solicitantes, expresando las recomendaciones que estime pertinentes para que lo puedan subsanar y un plazo razonable para hacerlo.
+
+Antes de que concluya el plazo razonable que fije la Procuraduría, los solicitantes deberán comparecer para requerir una prórroga o, en su caso, acreditar que subsanaron satisfactoriamente el impedimento temporal, para que el Área de Psicología o de Trabajo Social pueda verificarlo y se reactive su expediente.
+
+Los solicitantes tendrán derecho de solicitar hasta un máximo de dos prórrogas consecutivas, para subsanar el impedimento temporal que les haya notificado la Procuraduría.
+
+Si los solicitantes no cumplen en tiempo y forma con las recomendaciones de las Áreas de Psicología o de Trabajo Social para subsanar el impedimento temporal, la Procuraduría decretará de oficio que se remita su expediente al archivo por falta de interés de los solicitantes.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 34 Bis.
 
@@ -999,295 +1065,87 @@ ARTÍCULO 34 Quaterdecies.- En caso de que la persona agresora incumpla la orden
 
 Asimismo, se reforzarán las acciones que se contemplaron en un primer momento con la finalidad de salvaguardar la vida y seguridad de las mujeres y niñas.
 
-### CAPÍTULO I. DEL SISTEMA NACIONAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ABRIL DE 2022)</small>
+### CAPÍTULO SEGUNDO. DE LOS SEGUIMIENTOS DE ADOPCIONES
 
 ###### Artículo 61.
 
-Las organizaciones civiles y empresas capacitadoras e instructores independientes, así como las empresas de consultoría y estudio de riesgo-vulnerabilidad, que por sus características se vinculen en materia de protección civil, deberán obtener su registro ante la Dirección, mediante la presentación de una solicitud en la que se declare la capacidad que poseen en materia de Protección Civil y en su caso, los medios técnicos mediante los cuales llevaron a cabo los cursos de capacitación y los estudios de riesgo-vulnerabilidad, acompañándose de los documentos que acrediten tales supuestos, así como los que acrediten su personalidad jurídica.
-
-Para el efecto la Dirección Estatal establecerá en el reglamento respectivo, los criterios y requisitos que deberán cumplir los interesados.
+Los seguimientos a la familia deberán continuarse por tres años más contados a partir de la fecha de la sentencia ejecutoriada del procedimiento de adopción, las cuales serán remitidas a la autoridad judicial y a la Coordinación.
 
 ###### Artículo 62.
 
-Toda persona tiene la obligación de denunciar ente las autoridades de protección civil, todo hecho, acto u omisión que cause o pueda causar situaciones de riesgo, emergencia o desastre. Para dar trámite, bastará el nombre y domicilio del denunciante, así como la relación de hechos.
+Los seguimientos serán realizados por el departamento de trabajo social y en su caso por el personal de psicología de las distintas delegaciones de la Procuraduría.
 
 ###### Artículo 63.
 
-Una vez recibida la denuncia, la instancia que la recibió, dará parte de inmediato a las autoridades federales, estatales o municipales bajo cuya responsabilidad se encuentre la obligación de actuar para hacer frente al riesgo, emergencia o desastre.
+Las visitas se realizarán por tres años. Durante el primer año se realizarán tres visitas de seguimiento y una visita de seguimientos en cada año restante, sin perjuicio de que por circunstancia especial y previo aviso a la familia, se realice alguna de carácter extraordinaria.
 
-## TITULO III
+## TÍTULO III. DE LAS CONVIVENCIAS Y SEGUIMIENTOS DE ADOPCIÓN
 
-### CAPÍTULO II. DEL PROGRAMA INTEGRAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+### CAPÍTULO TERCERO. DE LAS CONVIVENCIAS Y SEGUIMIENTOS DE ADOPCIONES INTERNACIONALES
 
 ###### Artículo 64.
 
-Las dependencias respectivas, efectuarán las diligencias necesarias para la comprobación de los hechos denunciados y tomarán las medidas que el caso amerite.
+El seguimiento será coordinado entre el personal adscrito a la Procuraduría y las áreas competentes de la Secretaría de Relaciones Exteriores; acto para el cual se deberá procurar el apoyo de las autoridades del país receptor, ya sea que se trate de autoridades centrales o de otras autoridades encargadas de la protección de niños, niñas o adolescentes y la familia, para dar seguimiento a dicha adopción.
+
+En el caso de que no se proporcionen los apoyos ya mencionados, la Procuraduría solicitará ayuda al organismo colaborador correspondiente por conducto del Sistema.
 
 ###### Artículo 65.
 
-Cuando por incumplimiento a las disposiciones de esta ley, se hubieren ocasionado daños o perjuicios, el o los interesados podrán solicitar a la autoridad de protección civil que corresponda, la formulación de un dictamen técnico al respecto, el cual tendrá valor de prueba, en caso de juicio.
+Ante la imposibilidad de tener los seguimientos a que se hace referencia en el artículo anterior, el Sistema deberá realizarlos por conducto de la Secretaría de Relaciones Exteriores y del personal que para tal efecto designen los Consulados Mexicanos más cercanos al lugar de residencia de la familia adoptiva.
 
 ###### Artículo 66.
 
-Las autoridades de protección civil competentes en los términos de esta ley, atenderán de manera permanente al público, en el ejercicio de la denuncia popular. Para ello, difundirán ampliamente el domicilio y número telefónico destinados a recibir las denuncias.
+Cuando del seguimiento se desprenda que las condiciones del niño, niña o adolescente no son adecuadas, se informará a la autoridad correspondiente para que tome las medidas de protección necesarias.
 
-###### ARTÍCULO 35.
+###### Artículo 35.
 
-La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, se coordinarán para la integración y funcionamiento del Sistema, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+En el evento de que los solicitantes presenten un impedimento definitivo o les sobrevenga uno durante la tramitación de su expediente, la Procuraduría, deberá notificarlo por escrito a los solicitantes con expresión de causa.
 
-> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+###### Artículo 36.
 
-El Sistema Nacional, ante la situación de emergencia identificada a partir de las declaratorias de Alerta de Violencia de Género contra las mujeres, constituirá una Comisión Especial con el objetivo de verificar y promover que existan en las entidades federativas los elementos institucionales, normativos y estructurales de prevención, atención, sanción y erradicación con el fin de prever la posible contingencia generada por la violencia feminicida o el agravio comparado.
+Cuando la familia biológica no reúne las condiciones para garantizar el desarrollo psicosocial y la integridad física y afectiva de la niña, niño o adolescente, la Procuraduría, para protegerlos buscará alternativas, entre las que se encuentra la adopción. La pobreza, por sí misma, no podrá ser el criterio para decidir un rompimiento de los vínculos con la familia de origen.
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+###### Artículo 37.
 
-Todas las medidas que lleve a cabo el Estado deberán ser realizadas sin discriminación alguna. Por ello, considerará la etnia, el idioma, edad, condición social, de salud, de discapacidad, preferencia sexual, o cualquier otra condición, para que puedan acceder a las políticas públicas en la materia.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE ABRIL DE 2020)</small>
-
-###### ARTÍCULO 36.
-
-El Sistema se conformará por las personas titulares o representantes legales de:
-
-I. La Secretaría de Gobernación, quien lo presidirá;
-
-II. La Secretaría de Desarrollo Social;
-
-III. La Secretaría de Seguridad Pública;
-
-> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
-
-IV. La Fiscalía General de la República, quien participará dentro del sistema con pleno respeto a la autonomía constitucional que le confiere el artículo 102, Apartado A, de la Constitución Política de los Estados Unidos Mexicanos;
-
-V. La Secretaría de Educación Pública;
-
-> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
-
-V Bis. La Secretaría de Cultura;
-
-VI. La Secretaría de Salud;
-
-> <small>(ADICIONADA, D.O.F. 18 DE MAYO DE 2012)</small>
-
-VII. La Secretaría del Trabajo y Previsión Social;
-
-> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2015)</small>
-
-VIII. Secretaría de Desarrollo Agrario, Territorial y Urbano;
-
-IX. El Instituto Nacional de las Mujeres, quien ocupará la Secretaría Ejecutiva del Sistema;
-
-X. El Consejo Nacional para Prevenir la Discriminación;
-
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2017)</small>
-
-XI. El Sistema Nacional para el Desarrollo Integral de la Familia;
-
-> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2020)</small>
-
-XII. La Comisión Nacional para el Desarrollo de los Pueblos Indígenas;
-
-> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2020)</small>
-
-XIII. Los mecanismos para el adelanto de las mujeres en las entidades federativas, y
-
-> <small>(ADICIONADA, D.O.F. 13 DE ABRIL DE 2020)</small>
-
-XIV. El Instituto Nacional Electoral.
-
-###### ARTÍCULO 37.
-
-La Secretaría Ejecutiva del Sistema elaborará el proyecto de reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación en su caso.
+El niño, niña o adolescente en función de su edad y grado de madurez, deberá ser informado y consultado sobre cualquier proyecto de vida que le afecte personalmente.
 
 ### CAPÍTULO III. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
 > <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2021)</small>
 
-###### ARTÍCULO 38.
+###### Artículo 38.
 
-El Programa contendrá las acciones con perspectiva de género para:
+Se dará prioridad a colocar a un niño, niña o adolescente en el propio país o en un entorno cultural, lingüístico y religioso próximo a su entorno de procedencia.
 
-I. Impulsar y fomentar el conocimiento y el respeto a los derechos humanos de las mujeres;
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-II. Transformar los modelos socioculturales de conducta de mujeres y hombres, incluyendo la formulación de programas y acciones de educación formales y no formales, en todos los niveles educativos y de instrucción, con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten, fomentan y toleran la violencia contra las mujeres;
+Asimismo, de entre todos los solicitantes, las parejas que tengan al menos tres años de matrimonio y que además acrediten una relación estable y positiva, tendrán prioridad para la adopción de menores de tres años de edad.
 
-> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+###### Artículo 39.
 
-III. La coordinación con las instituciones responsables de la procuración de justicia, para que éstas brinden educación y capacitación a su personal, al personal encargado de la procuración de justicia, policías y demás funcionarios encargados de las políticas de prevención, atención, sanción y eliminación de la violencia contra las mujeres;
-
-IV. Educar y capacitar en materia de derechos humanos de las mujeres al personal encargado de la impartición de justicia, a fin de dotarles de instrumentos que les permita juzgar con perspectiva de género;
-
-V. Brindar los servicios especializados y gratuitos para la atención y protección a las víctimas, por medio de las autoridades y las instituciones públicas o privadas;
-
-VI. Fomentar y apoyar programas de educación pública y privada, destinados a concientizar a la sociedad sobre las causas y las consecuencias de la violencia contra las mujeres;
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2023)</small>
-
-VII. Diseñar programas de atención y capacitación a víctimas que les permita participar plenamente en todos los ámbitos de la vida; incluyendo aquellas que permitan su inserción laboral y empoderamiento económico;
-
-VIII. Vigilar que los medios de comunicación no fomenten la violencia contra las mujeres y que favorezcan la erradicación de todos los tipos de violencia, para fortalecer el respeto a los derechos humanos y la dignidad de las mujeres;
-
-> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
-
-IX. Garantizar la investigación y la elaboración de diagnósticos estadísticos, con enfoque diferenciado, sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
-
-> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
-
-X. Publicar semestralmente la información general y estadística desagregada y con enfoque diferenciado, sobre los casos de violencia contra las mujeres para integrar el Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres;
-
-XI. Promover la inclusión prioritaria en el Plan Nacional de Desarrollo de las medidas y las políticas de gobierno para erradicar la violencia contra las mujeres;
-
-> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
-
-XII. Promover la cultura de denuncia de la violencia contra las mujeres en formatos accesibles en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad;
-
-> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
-
-XIII. Diseñar un modelo integral, diferencial y especializado de atención a las mujeres víctimas de violencia, que deberán instrumentar las instituciones, los Centros de Justicia para las Mujeres y los refugios que atiendan a víctimas;
-
-> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
-
-XIV. Realizar estudios sobre los efectos de la violencia y la discriminación interseccional en las mujeres y proponer políticas públicas dirigidas a eliminarlos;
-
-> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
-
-XV. Promover el desarrollo, implementación y evaluación de los proyectos de las entidades federativas para la creación, fortalecimiento y operación de los Centros de Justicia para las Mujeres, y
-
-> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
-
-XVI. Difundir la oferta institucional de servicios especializados que brinden los Centros de Justicia para las Mujeres en las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México.
-
-###### ARTÍCULO 39.
-
-El Ejecutivo Federal propondrá en el Proyecto de Presupuesto de Egresos de la Federación asignar una partida presupuestaria para garantizar el cumplimiento de los objetivos del Sistema y del Programa previstos en la presente ley.
+La Procuraduría debe considerar el no separar hermanos y hermanas de sangre, particularmente cuando se conocen, si excepcionalmente se hiciere, deberá prever el mantenimiento del contacto en el futuro.
 
 ### CAPÍTULO IV. DE LA ATENCIÓN A LAS VÍCTIMAS
 
-###### ARTÍCULO 40.
+###### Artículo 40.
 
-La Federación, las entidades federativas, la Ciudad de México y los municipios, coadyuvarán para el cumplimiento de los objetivos de esta ley de conformidad con las competencias previstas en el presente ordenamiento y demás instrumentos legales aplicables.
+Para que la Procuraduría pueda proponer al Consejo la adopción de una niña, niño o adolescente institucionalizado, deberá contar con sentencia ejecutoriada de pérdida de patria potestad o consentimiento expreso de los padres del menor para que éste sea adoptado, conforme a lo dispuesto en la legislación de la materia o declaración de expósito por la autoridad competente.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 #### Sección Primera.. De la Federación
 
-###### ARTÍCULO 41.
+###### Artículo 41.
 
-Son facultades y obligaciones de la Federación:
+En el caso del consentimiento expreso de los padres, la Coordinación debe verificar que dieron su consentimiento libremente, sin presión y sin existir remuneración alguna. Debe asesorar a través de personal de la Procuraduría, sobre las consecuencias y alcances de una adopción, así como el planteamiento previo de otras alternativas para el menor, antes de la adopción.
 
-I. Garantizar el ejercicio pleno del derecho de las mujeres a una vida libre de violencia;
-
-II. Formular y conducir la política nacional integral desde la perspectiva de género para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
-
-III. Vigilar el cabal cumplimiento de la presente ley y de los instrumentos internacionales aplicables;
-
-IV. Elaborar, coordinar y aplicar el Programa a que se refiere la ley, auxiliándose de las demás autoridades encargadas de implementar el presente ordenamiento legal;
-
-> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
-
-V. Educar en derechos humanos a las mujeres en su lengua materna y, en su caso, en lengua de señas mexicana, así como en otros formatos accesibles, de lectura fácil, entre otros;
-
-VI. Asegurar la difusión y promoción de los derechos de las mujeres indígenas con base en el reconocimiento de la composición pluricultural de la nación;
-
-VII. Vigilar que los usos y costumbres de toda la sociedad no atenten contra los derechos humanos de las mujeres;
-
-VIII. Coordinar la creación de Programas de reeducación y reinserción social con perspectiva de género para agresores de mujeres;
-
-> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2021)</small>
-
-IX. Garantizar una adecuada coordinación entre la Federación, las entidades federativas, la Ciudad de México y los municipios, con la finalidad de erradicar la violencia contra las mujeres;
-
-X. Realizar a través del Instituto Nacional de las Mujeres y con el apoyo de las instancias locales, campañas de información, con énfasis en la doctrina de la protección integral de los derechos humanos de las mujeres, en el conocimiento de las leyes y las medidas y los programas que las protegen, así como de los recursos jurídicos que las asisten;
-
-XI. Impulsar la formación y actualización de acuerdos interinstitucionales de coordinación entre las diferentes instancias de gobierno, de manera que sirvan de cauce para lograr la atención integral de las víctimas;
-
-XII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
-
-XIII. Coadyuvar con las instituciones públicas o privadas dedicadas a la atención de víctimas;
-
-XIV. Ejecutar medidas específicas, que sirvan de herramientas de acción para la prevención, atención y erradicación de la violencia contra las mujeres en todos los ámbitos, en un marco de integralidad y promoción de los derechos humanos;
-
-XV. Promover y realizar investigaciones con perspectiva de género sobre las causas y las consecuencias de la violencia contra las mujeres;
-
-XVI. Evaluar y considerar la eficacia de las acciones del Programa, con base en los resultados de las investigaciones previstas en la fracción anterior;
-
-XVII. Rendir un informe anual sobre los avances del Programa, ante el H. Congreso de la Unión;
-
-XVIII. Vigilar que los medios de comunicación no promuevan imágenes estereotipadas de mujeres y hombres, y eliminen patrones de conducta generadores de violencia;
-
-> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
-
-XIX. Desarrollar todos los mecanismos necesarios para el cumplimiento de la presente ley;
-
-> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
-
-XX. Promover y coordinar con las entidades federativas la creación y el fortalecimiento de los Centros de Justicia para las Mujeres, y
-
-XXI. Las demás que le confieran esta ley u otros ordenamientos aplicables.
+En todo caso, el Consejo deberá de valorar la oposición expresa por parte de los abuelos paternos o maternos para integrar a la familia a un menor por medio de la adopción.
 
 #### Sección Segunda.. De la Secretaría de Gobernación
 
-###### ARTÍCULO 42.
+###### Artículo 42.
 
-Corresponde a la Secretaría de Gobernación:
-
-I. Presidir el Sistema y declarar la alerta de violencia de género contra las mujeres;
-
-II. Diseñar la política integral con perspectiva de género para promover la cultura del respeto a los derechos humanos de las mujeres;
-
-III. Elaborar el Programa en coordinación con las demás autoridades integrantes del Sistema;
-
-> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
-
-IV. Formular las bases para la coordinación entre las autoridades federales, locales, municipales y de las demarcaciones territoriales de la Ciudad de México para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
-
-V. Coordinar y dar seguimiento a las acciones de los tres órdenes de gobierno en materia de protección, atención, sanción y erradicación de la violencia contra las mujeres;
-
-VI. Coordinar y dar seguimiento a los trabajos de promoción y defensa de los derechos humanos de las mujeres, que lleven a cabo las dependencias y entidades de la Administración Pública Federal;
-
-VII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
-
-VIII. Ejecutar y dar seguimiento a las acciones del Programa, con la finalidad de evaluar su eficacia y rediseñar las acciones y medidas para avanzar en la eliminación de la violencia contra las mujeres;
-
-IX. Diseñar, con una visión transversal, la política integral orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
-
-> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
-
-X. Vigilar y promover directrices para que los medios de comunicación favorezcan la erradicación de todos los tipos de violencia y se fortalezca la dignidad y el respeto hacia las mujeres;
-
-XI. Sancionar conforme a la ley a los medios de comunicación que no cumplan con lo estipulado en la fracción anterior;
-
-XII. Realizar un Diagnóstico Nacional y otros estudios complementarios de manera periódica con perspectiva de género sobre todas las formas de violencia contra las mujeres y las niñas, en todos los ámbitos, que proporcione información objetiva para la elaboración de políticas gubernamentales en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
-
-XIII. Difundir a través de diversos medios, los resultados del Sistema y del Programa a los que se refiere esta ley;
-
-> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
-
-XIV. Celebrar convenios de cooperación, coordinación y concertación en la materia;
-
-> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
-
-XV. Integrar, administrar y operar el Banco Nacional de Datos e Información de Casos de Violencia contra las Mujeres;
-
-> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
-
-XVI. Diseñar y actualizar el Modelo de Gestión Operativa de los Centros de Justicia para las Mujeres, así como los protocolos de atención especializados, desde las perspectivas de género, derechos humanos, interseccional, diferencial e intercultural;
-
-> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
-
-XVII. Promover y coordinar con las entidades federativas la creación y el fortalecimiento de los Centros de Justicia para las Mujeres, así como las acciones encaminadas al seguimiento y evaluación de los mismos;
-
-> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
-
-XVIII. Impulsar la creación y equipamiento de los Centros de Justicia para las Mujeres;
-
-> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
-
-XIX. Certificar a los Centros de Justicia para las Mujeres, y
-
-XX. Las demás previstas para el cumplimiento de la presente ley.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 29 DE ABRIL DE 2022)</small>
+Es necesario además que la Procuraduría cuente con evaluación suscrita por psicólogos del Sistema o adscritos a las distintas instituciones pública o privadas que albergan a niñas, niños o adolescentes, de donde se desprenda que el menor tiene aptitud para ser insertado en un entorno familiar a través de la adopción y obtener beneficio para su sano desarrollo psicosocial.
 
 #### Sección Segunda Bis.. De la Comisión Nacional Para Prevenir y Erradicar la Violencia Contra las Mujeres
 
@@ -1355,173 +1213,37 @@ XXVIII. Las demás que le confieran otras disposiciones aplicables.
 
 #### Sección Tercera.. De la Secretaría de Desarrollo Social
 
-###### ARTÍCULO 43.
+###### Artículo 43.
 
-Corresponde a la Secretaría de Desarrollo Social:
-
-I. Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
-
-II. Coadyuvar en la promoción de los Derechos Humanos de las Mujeres;
-
-III. Formular la política de desarrollo social del estado considerando el adelanto de las mujeres y su plena participación en todos los ámbitos de la vida;
-
-IV. Realizar acciones tendientes a mejorar las condiciones de las mujeres y sus familias que se encuentren en situación de exclusión y de pobreza;
-
-V. Promover políticas de igualdad de condiciones y oportunidades entre mujeres y hombres, para lograr el adelanto de las mujeres para su empoderamiento y la eliminación de las brechas y desventajas de género;
-
-VI. Promover políticas de prevención y atención de la violencia contra las mujeres;
-
-VII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
-
-VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
-
-IX. Las demás previstas para el cumplimiento de la presente ley.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 8 DE MAYO DE 2023)</small>
+Dentro de los primeros cinco días de cada mes, el coordinador de adopciones convocará al personal especializado del Sistema para analizar el expediente de la niña, niño o adolescente y de quienes conforman el padrón de solicitantes de adopción, con la finalidad de seleccionar candidatos idóneos, de acuerdo a las necesidades del menor.
 
 #### Sección Cuarta. De la Secretaría de Seguridad y Protección Ciudadana
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE MAYO DE 2023)</small>
 
-###### ARTÍCULO 44.
+###### Artículo 44.
 
-Corresponde a la Secretaría de Seguridad y Protección Ciudadana:
-
-> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
-
-I. Capacitar al personal de las diferentes instancias policiales para atender los casos de violencia contra las mujeres, desde las perspectivas de género, derechos humanos, diferencial, interseccionalidad e interculturalidad;
-
-II. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
-
-III. (DEROGADA, D.O.F. 8 DE MAYO DE 2023)
-
-> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
-
-IV. Diseñar la política integral para la prevención de delitos contra las mujeres, cometidos en los ámbitos público y privado, con perspectivas de género, derechos humanos, diferencial, interseccionalidad e interculturalidad;
-
-V. Establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social del agresor;
-
-VI. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
-
-VII. Formular acciones y programas orientados a fomentar la cultura del respeto a los derechos humanos de las mujeres;
-
-VIII. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
-
-IX. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
-
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
-
-X. Celebrar convenios de cooperación, coordinación y concertación en la materia;
-
-> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
-
-XI. Realizar una página de Internet específica en la cual se encuentren los datos generales de las mujeres, adolescentes y niñas que sean reportadas como desaparecidas. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres, adolescentes y niñas desaparecidas. Esta página deberá actualizarse de forma permanente;
-
-> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
-
-XII. Aplicar ajustes de procedimiento, en su caso, para recabar las denuncias y testimonios de las mujeres con discapacidad víctimas de violencia;
-
-> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
-
-XIII. Proponer al Consejo Nacional de Seguridad Pública que los Centros de Justicia para las Mujeres sean considerados como Ejes Estratégicos, Programas y Subprogramas con Prioridad Nacional, y
-
-XIV. Las demás previstas para el cumplimiento de la presente ley.
+El análisis se basará en el grado de compatibilidad existente entre las necesidades y características del niño, niña o adolescente con las de los solicitantes, para el cual se considerará la edad, el sexo, la personalidad, las expectativas de desarrollo social y económico, las capacidades especiales, el diagnóstico médico, así como cualquier otro factor que favorezca la compatibilidad entre los solicitantes y el menor institucionalizado.
 
 #### Sección Quinta.. De la Secretaría de Educación Pública
 
-###### ARTÍCULO 45.
+###### Artículo 45.
 
-Corresponde a la Secretaría de Educación Pública:
-
-I. Definir en las políticas educativas los principios de igualdad, equidad y no discriminación entre mujeres y hombres y el respeto pleno a los derechos humanos;
-
-> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
-
-II. Desarrollar programas educativos, en todos los niveles de escolaridad, que fomenten la cultura de una vida libre de violencia contra las mujeres y el respeto a su dignidad; así como la comprensión adecuada al ejercicio del derecho a una paternidad y maternidad libre, responsable e informada, como función social y el reconocimiento de la responsabilidad compartida de hombres y mujeres en cuanto a la educación y el desarrollo de sus hijos;
-
-III. Garantizar acciones y mecanismos que favorezcan el adelanto de las mujeres en todas las etapas del proceso educativo;
-
-IV. Garantizar el derecho de las niñas y mujeres a la educación: a la alfabetización y al acceso, permanencia y terminación de estudios en todos los niveles. A través de la obtención de becas y otras subvenciones;
-
-V. Desarrollar investigación multidisciplinaria encaminada a crear modelos de detección de la violencia contra las mujeres en los centros educativos;
-
-VI. Capacitar al personal docente en derechos humanos de las mujeres y las niñas;
-
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
-
-VII. Incorporar, con la opinión de la Secretaría de Cultura, en los programas educativos, en todos los niveles de la instrucción, el respeto a los derechos humanos de las mujeres, así como contenidos educativos tendientes a modificar los modelos de conducta sociales y culturales que impliquen prejuicios y que estén basados en la idea de la inferioridad o superioridad de uno de los sexos y en funciones estereotipadas asignadas a las mujeres y a los hombres;
-
-VIII. Formular y aplicar programas que permitan la detección temprana de los problemas de violencia contra las mujeres en los centros educativos, para que se dé una primera respuesta urgente a las alumnas que sufren algún tipo de violencia;
-
-IX. Establecer como un requisito de contratación a todo el personal de no contar con algún antecedente de violencia contra las mujeres;
-
-X. Diseñar y difundir materiales educativos que promuevan la prevención y atención de la violencia contra las mujeres;
-
-XI. Proporcionar acciones formativas a todo el personal de los centros educativos, en materia de derechos humanos de las niñas y las mujeres y políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE ABRIL DE 2023)</small>
-
-XII. Eliminar de los programas educativos los materiales que hagan apología de la violencia contra las mujeres o contribuyan a la promoción de estereotipos que discriminen y fomenten la desigualdad entre mujeres y hombres.
-
-> <small>(ADICIONADO, D.O.F. 18 DE ABRIL DE 2023)</small>
-
-La Secretaría tendrá que incluir en los Planes y Programas de Estudio, el derecho de las mujeres, adolescentes y niñas a una vida libre de violencias y la educación con perspectiva de género, los que serán ejes transversales, para la prevención, integración y desarrollo social; y para el logro de la igualdad entre mujeres y hombres;
-
-XIII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
-
-XIV. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
-
-XV. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
-
-XVI. Las demás previstas para el cumplimiento de la presente ley.
+La Coordinación presentará ante el Consejo, a través del o la titular de la Procuraduría, las razones que justifican las propuestas de asignación de las familias para un niño, niña o adolescente determinado.
 
 #### Sección Sexta.. De la Secretaría de Salud
 
-###### ARTÍCULO 46.
+###### Artículo 46.
 
-Corresponde a la Secretaría de Salud:
+El Consejo elegirá, entre las propuestas que le fueron presentadas, a la familia que considere que en base al interés superior de la niñez, es la más adecuada para la asignación provisional del niño, niña o adolescente y en su caso autorizará el inicio del período de convivencias.
 
-I. En el marco de la política de salud integral de las mujeres, diseñar con perspectiva de género, la política de prevención, atención y erradicación de la violencia en su contra;
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-II. Brindar por medio de las instituciones del sector salud de manera integral e interdisciplinaria atención médica y psicológica con perspectiva de género a las víctimas;
+Durante este periodo se evaluará la convivencia, compatibilidad y posible integración familiar del menor, de manera supervisada, que no constituye la transmisión de la tutela sobre una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción. En tal virtud, los solicitantes quedan impedidos para trasladar a una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos fuera del estado de Coahuila, para consentir intervenciones quirúrgicas o tomar cualquier otra decisión que implique una disposición sobre una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción, sin la previa autorización por escrito de la Procuraduría.
 
-> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-III. Crear programas de capacitación para el personal del sector salud, respecto de la violencia contra las mujeres y se garanticen la atención a las víctimas y la aplicación de las normas oficiales mexicanas vigentes en la materia;
-
-IV. Establecer programas y servicios profesionales y eficaces, con horario de veinticuatro horas en las dependencias públicas relacionadas con la atención de la violencia contra las mujeres;
-
-V. Brindar servicios reeducativos integrales a las víctimas y a los agresores, a fin de que logren estar en condiciones de participar plenamente en la vida pública, social y privada;
-
-VI. Difundir en las instituciones del sector salud, material referente a la prevención y atención de la violencia contra las mujeres;
-
-VII. Canalizar a las víctimas a las instituciones que prestan atención y protección a las mujeres;
-
-VIII. Mejorar la calidad de la atención, que se preste a las mujeres víctimas;
-
-IX. Participar activamente, en la ejecución del Programa, en el diseño de nuevos modelos de prevención, atención y erradicación de la violencia contra las mujeres, en colaboración con las demás autoridades encargadas de la aplicación de la presente ley;
-
-X. Asegurar que en la prestación de los servicios del sector salud sean respetados los derechos humanos de las mujeres;
-
-XI. Capacitar al personal del sector salud, con la finalidad de que detecten la violencia contra las mujeres;
-
-XII. Apoyar a las autoridades encargadas de efectuar investigaciones en materia de violencia contra las mujeres, proporcionando la siguiente información:
-
-a) La relativa al número de víctimas que se atiendan en los centros y servicios hospitalarios;
-
-b) La referente a las situaciones de violencia que sufren las mujeres;
-
-c) El tipo de violencia por la cual se atendió a la víctima;
-
-d) Los efectos causados por la violencia en las mujeres, y
-
-e) Los recursos erogados en la atención de las víctimas.
-
-XIII. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
-
-XIV. Las demás previstas para el cumplimiento de la presente ley.
-
-> <small>(ADICIONADA [N. DE E. COMPRENDE EL ARTÍCULO 46 BIS], D.O.F. 4 DE JUNIO DE 2015)</small>
+La Procuraduría se reserva el derecho de dar por terminado el mencionado plazo de acogimiento familiar provisional, en cualquier momento, bastando al efecto una simple notificación por escrito a los solicitantes, quienes quedan obligados a entregar a una niña, niño o adolescente o persona que requiera asistencia o representación para el ejercicio de sus derechos susceptible de adopción de inmediato al personal de la Procuraduría o de cualquier otra autoridad competente que se los requiera en el ejercicio de sus funciones.
 
 #### Sección Séptima.. De la Secretaría del Trabajo y Previsión Social
 
@@ -1577,89 +1299,15 @@ VIII. Las demás previstas para el cumplimiento de la presente ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
 
-###### ARTÍCULO 47.
+###### Artículo 47.
 
-Corresponde a la Fiscalía General de la República:
-
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
-
-I. Especializar a las y los agentes del Ministerio Público, peritos, personal que atiende a víctimas a través de programas y cursos permanentes en:
-
-a) Derechos humanos y género;
-
-b) Perspectiva de género para la debida diligencia en la conducción de averiguaciones previas y procesos judiciales relacionados con discriminación, violencia y feminicidio;
-
-c) Incorporación de la perspectiva de género en los servicios periciales;
-
-d) Eliminación de estereotipos sobre el rol social de las mujeres, entre otros.
-
-> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
-
-II. Proporcionar a las víctimas orientación y asesoría para su eficaz atención y protección, de conformidad con los ordenamientos jurídicos aplicables;
-
-III. Dictar las medidas necesarias para que la Víctima reciba atención médica de emergencia;
-
-IV. Proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el número de víctimas atendidas;
-
-V. Brindar a las víctimas la información integral sobre las instituciones públicas o privadas encargadas de su atención;
-
-VI. Proporcionar a las víctimas información objetiva que les permita reconocer su situación;
-
-VII. Promover la cultura de respeto a los derechos humanos de las mujeres y garantizar la seguridad de quienes denuncian;
-
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
-
-VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
-
-> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
-
-IX. Crear un registro público sistemático de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas, incluida en su caso su condición de discapacidad, así como las características sociodemográficas del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, judicialización, estado procesal, sentencias y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia. El registro deberá contener también los efectos que los hechos violentos produjeron en las víctimas, el fallecimiento o, en su caso, la discapacidad permanente;
-
-> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
-
-X. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual;
-
-> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
-
-XI. Crear una base nacional de información genética que contenga la información personal disponible de mujeres y niñas desaparecidas a nivel nacional; la información genética y muestras celulares de los familiares de las personas desaparecidas que lo consientan; la información genética y muestras celulares provenientes de los cuerpos de cualquier mujer o niña no identificada.
-
-La información integrada en esta base deberá ser resguardada y únicamente podrá ser utilizada para la confrontación de información genética entre cuerpos no identificados y personas desaparecidas, y
-
-> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
-
-XII. Las demás previstas para el cumplimiento de la presente ley.
-
-(REUBICADA [N. DE E. ANTES SECCIÓN OCTAVA], D.O.F. 4 DE JUNIO DE 2015)
+La Coordinación informará a los solicitantes que les ha sido asignado un niño, niña, o adolescente y los citará a una reunión a la que deberán acudir también, el o la titular de la Procuraduría, el coordinador, el delegado de la región, así como un representante de la institución pública o privada que los alberga.
 
 #### Sección Décima.. Del Instituto Nacional de las Mujeres
 
-###### ARTÍCULO 48.
+###### Artículo 48.
 
-Corresponde al Instituto Nacional de las Mujeres:
-
-I. Fungir como Secretaría Ejecutiva del Sistema, a través de su titular;
-
-> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2021)</small>
-
-II. Integrar las investigaciones promovidas por las dependencias de la Administración Pública Federal sobre las causas, características y consecuencias de la violencia en contra de las mujeres, así como la evaluación de las medidas de prevención, atención y erradicación, y la información derivada a cada una de las instituciones encargadas de promover los derechos humanos de las mujeres en las entidades federativas, y a la Ciudad de México o municipios. Los resultados de dichas investigaciones serán dados a conocer públicamente para tomar las medidas pertinentes hacia la erradicación de la violencia;
-
-III. Proponer a las autoridades encargadas de la aplicación de la presente ley, los programas, las medidas y las acciones que consideren pertinentes, con la finalidad de erradicar la violencia contra las mujeres;
-
-IV. Colaborar con las instituciones del Sistema en el diseño y evaluación del modelo de atención a víctimas en los refugios;
-
-V. Impulsar la creación de unidades de atención y protección a las víctimas de violencia prevista en la ley;
-
-VI. Canalizar a las víctimas a programas reeducativos integrales que les permitan participar activamente en la vida pública, privada y social;
-
-VII. Promover y vigilar que la atención ofrecida en las diversas instituciones públicas o privadas, sea proporcionada por especialistas en la materia, sin prejuicios ni discriminación alguna;
-
-VIII. Difundir la cultura de respeto a los derechos humanos de las mujeres y promover que las instancias de procuración de justicia garanticen la integridad física de quienes denuncian;
-
-IX. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
-
-X. Las demás previstas para el cumplimiento de la ley.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 13 DE ABRIL DE 2020)</small>
+La notificación de la anterior diligencia deberá hacerse por lo menos tres días hábiles anteriores a la fecha de la misma.
 
 #### Sección Décima Bis.. Del Instituto Nacional Electoral y los Organismos Públicos Locales Electorales
 
@@ -1681,265 +1329,87 @@ III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que cons
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE MAYO DE 2023)</small>
 
-###### ARTÍCULO 49.
+###### Artículo 49.
 
-Corresponde a las entidades federativas, de conformidad con lo dispuesto por esta ley y los ordenamientos aplicables en la materia:
+En la reunión, en base al expediente de la niña, niño o adolescente, el o los solicitantes recibirán información médica, psíquica y jurídica, así como del desenvolvimiento y comportamiento de la niña, niño o adolescente en la institución en que se encuentra habitando.
 
-> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+Una vez que conozcan las circunstancias generales y que hubieren expresado sus inquietudes y dudas, el o los solicitantes podrán aceptar o declinar la asignación del menor propuesto por el Consejo.
 
-I. Instrumentar y articular sus políticas públicas y acciones en concordancia con la política nacional integral desde la perspectiva de género para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
-
-II. Ejercer sus facultades reglamentarias para la aplicación de la presente ley;
-
-III. Coadyuvar en la adopción y consolidación del Sistema;
-
-IV. Participar en la elaboración del Programa;
-
-> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
-
-V. Fortalecer e impulsar la creación de las instituciones públicas y privadas que prestan atención a las víctimas;
-
-VI. Integrar el Sistema Estatal de Prevención, Erradicación y Sanción de la Violencia contra las Mujeres e incorporar su contenido al Sistema;
-
-VII. Promover, en coordinación con la Federación, programas y proyectos de atención, educación, capacitación, investigación y cultura de los derechos humanos de las mujeres y de la no violencia, de acuerdo con el Programa;
-
-VIII. Impulsar programas locales para el adelanto y desarrollo de las mujeres y mejorar su calidad de vida;
-
-IX. Proveer de los recursos presupuestarios, humanos y materiales, en coordinación con las autoridades que integran los sistemas locales, a los programas estatales y el Programa;
-
-> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2017)</small>
-
-X. Impulsar y apoyar la creación, operación o fortalecimiento de los refugios para las víctimas conforme al modelo de atención diseñado por el Sistema;
-
-XI. Promover programas de información a la población en la materia;
-
-XII. Impulsar programas reeducativos integrales de los agresores;
-
-XIII. Difundir por todos los medios de comunicación el contenido de esta ley;
-
-XIV. Rendir un informe anual sobre los avances de los programas locales;
-
-XV. Promover investigaciones sobre las causas y las consecuencias de la violencia contra las mujeres;
-
-XVI. Revisar y evaluar la eficacia de las acciones, las políticas públicas, los programas estatales, con base en los resultados de las investigaciones previstas en la fracción anterior;
-
-> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
-
-XVII. Impulsar la participación de las organizaciones sociales dedicadas a la promoción y defensa de los derechos humanos de las mujeres, en la ejecución de los programas estatales;
-
-> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
-
-XVIII. Recibir de las organizaciones sociales, las propuestas y recomendaciones sobre la prevención, atención y sanción de la violencia contra mujeres, a fin de mejorar los mecanismos para su erradicación;
-
-XIX. Proporcionar a las instancias encargadas de realizar estadísticas, la información necesaria para la elaboración de éstas;
-
-XX. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente ley, así como para establecer como agravantes los delitos contra la vida y la integridad cuando estos sean cometidos contra mujeres, por su condición de género;
-
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
-
-XXI. Celebrar convenios de cooperación, coordinación y concertación en la materia;
-
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
-
-XXII. Especializar a las y los agentes del Ministerio Público, peritos, personal que atiende a víctimas a través de programas y cursos permanentes en:
-
-a) Derechos humanos y género;
-
-b) Perspectiva de género para la debida diligencia en la conducción de averiguaciones previas y procesos judiciales relacionados con discriminación, violencia y feminicidio;
-
-c) Incorporación de la perspectiva de género en los servicios periciales; eliminación de estereotipos sobre el rol social de las mujeres, entre otros.
-
-> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
-
-XXIII. Integrar registros públicos sistemáticos de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características socio demográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, judicialización, etapa procesal, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
-
-> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
-
-XXIV. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres, adolescentes y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual;
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 8 DE MAYO DE 2023)</small>
-
-XXV. Crear, operar y fortalecer los Centros de Justicia para las Mujeres, conforme al Modelo de Gestión Operativa que para tal efecto emita la Secretaría de Gobernación, y
-
-XXVI. Las demás aplicables a la materia, que les conceda la ley u otros ordenamientos legales.
-
-Las autoridades federales, harán las gestiones necesarias para propiciar que las autoridades locales reformen su legislación, para considerar como agravantes los delitos contra la vida y la integridad corporal cometidos contra mujeres.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE ABRIL DE 2022)</small>
+La Coordinación levantará un acta en donde se asienten los argumentos que motiven la decisión del o los solicitantes.
 
 #### Sección Décima Segunda.. De los Municipios y Demarcaciones Territoriales de la Ciudad de México
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ABRIL DE 2022)</small>
 
-###### ARTÍCULO 50.
+###### Artículo 50.
 
-Corresponde a los municipios y a las demarcaciones territoriales de la Ciudad de México, de conformidad con esta ley y las leyes locales en la materia y acorde con la perspectiva de género, las siguientes atribuciones:
+Para el caso de que el o los solicitantes, una vez informados sobre el expediente del niño, niña o adolescente, deseen conocerlos físicamente, se observará lo siguiente:
 
-I. Instrumentar y articular, en concordancia con la política nacional y estatal, la política municipal orientada a erradicar la violencia contra las mujeres;
+I. Con la finalidad de que los posibles adoptados no sean afectados en el caso de que los solicitantes lo (sic) rechacen, es que éstos habrán de observarlo primeramente de ser posible a través de una Cámara de Gesell, o bien en una convivencia grupal.
 
-II. Coadyuvar con la Federación y las entidades federativas, en la adopción y consolidación del Sistema;
-
-III. Promover, en coordinación con las entidades federativas, cursos de capacitación a las personas que atienden a víctimas;
-
-IV. Ejecutar las acciones necesarias para el cumplimiento del Programa;
-
-V. Apoyar la creación de programas de reeducación integral para los agresores;
-
-VI. Promover programas educativos sobre la igualdad y la equidad entre los géneros para eliminar la violencia contra las mujeres;
-
-> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2017)</small>
-
-VII. Apoyar la creación, operación o el fortalecimiento de refugios para las víctimas, sus hijas e hijos de acuerdo con las condiciones establecidas en el Capítulo V de la presente Ley;
-
-VIII. Participar y coadyuvar en la prevención, atención y erradicación de la violencia contra las mujeres;
-
-IX. Llevar a cabo, de acuerdo con el Sistema, programas de información a la población respecto de la violencia contra las mujeres;
-
-> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
-
-X. Celebrar convenios de cooperación, coordinación y concertación en la materia;
-
-> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2022)</small>
-
-XI. Realizar las acciones necesarias para implementar las medidas establecidas en la Alerta de Violencia de Género contra las mujeres, y
-
-> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
-
-XII. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta ley u otros ordenamientos legales.
+II. Si después de la observación del niño, niña o adolescente a través de la Cámara de Gesell, o después de la convivencia grupal, los solicitantes manifiestan su deseo de continuar con el proceso, la Procuraduría y el representante de la institución en que se encuentre habitando el menor les proporcionará las facilidades necesarias para llevar a cabo las (sic) convivencia en los términos del presente reglamento y tutelando en todo momento el interés superior del menor.
 
 ### CAPÍTULO V. DE LOS REFUGIOS PARA LAS VICTIMAS DE VIOLENCIA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE MAYO DE 2023)</small>
 
-###### ARTÍCULO 51.
+###### Artículo 51.
 
-Las autoridades en el ámbito de sus respectivas competencias deberán prestar atención a las víctimas, consistente en:
+El o la titular de la Procuraduría, propondrá al Consejo la baja de las solicitudes de adopción de las personas que incurran en los siguientes actos:
 
-I. Fomentar la adopción y aplicación de acciones y programas, por medio de los cuales se les brinde protección;
+I. Rechacen a un niño, niña o adolescente sin justificación suficiente;
 
-II. Promover la atención a víctimas por parte de las diversas instituciones del sector salud, así como de atención y de servicio, tanto públicas como privadas;
+II. Hayan desistido de su voluntad en continuar el proceso de adopción:
 
-III. Proporcionar a las víctimas, la atención médica, psicológica y jurídica, de manera integral, gratuita y expedita;
+III. Exhiban documentación, o bien, proporcionen información alterada, modificada o no fidedigna; o
 
-IV. Proporcionar un refugio seguro a las víctimas, y
+IV. Se nieguen a someterse a las valoraciones que determine la Coordinación.
 
-V. Informar a la autoridad competente de los casos de violencia que ocurran en los centros educativos.
+###### Artículo 52.
 
-###### ARTÍCULO 52.
+La Coordinación programará convivencias de los niños, niñas o adolescentes con los solicitantes, previo acuerdo con la institución o casa hogar en que éste último se encuentre habitando.
 
-Las víctimas de cualquier tipo de violencia tendrán los derechos siguientes:
+Las convivencias, serán supervisadas por personal de psicología de las instituciones en las que se encuentren albergados, o por personal especializado del Sistema o de los DIF municipales, quienes deberán remitir reporte a la Coordinación, los cuales se integrarán al expediente de las personas susceptibles de ser adoptadas.
 
-I. Ser tratada con respeto a su integridad y al ejercicio pleno de sus derechos;
+###### Artículo 53.
 
-II. Contar con protección inmediata y efectiva por parte de las autoridades;
+Las primeras convivencias deberán ser llevadas a cabo en las instalaciones del albergue en donde se encuentren internados. El número y modalidad de las mismas dependerá de las condiciones específicas de cada niña, niño o adolescente, tomando en cuenta su condición y edad.
 
-> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
-
-III. Recibir información veraz y suficiente en formatos accesibles que les permita decidir sobre las opciones de atención;
-
-IV. Contar con asesoría jurídica gratuita y expedita;
-
-V. Recibir información médica y psicológica;
-
-VI. Contar con un refugio, mientras lo necesite;
-
-> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
-
-VII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación;
-
-> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
-
-VIII. En los casos de violencia familiar, las mujeres que tengan hijas y/o hijos podrán acudir a los refugios con éstos, y
-
-> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
-
-IX. La víctima no será obligada a participar en mecanismos de conciliación con su agresor.
-
-> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2023)</small>
-
-Las mujeres indígenas serán asistidas gratuitamente en todo tiempo por intérpretes y personas defensoras de oficio que tengan conocimiento de su lengua y cultura.
-
-> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
-
-Las mujeres con discapacidad tendrán derecho a que los procedimientos sean accesibles y a que se realicen los ajustes de procedimiento necesarios para ello. Las mujeres sordas tendrán derecho a contar con interpretación en lengua de señas mexicana, la cual será proporcionada gratuitamente.
-
-> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
-
-Los refugios y los Centros de Justicia para las Mujeres deberán contar con todas las condiciones necesarias para proporcionar atención, en igualdad de condiciones y sin discriminación, a las mujeres con discapacidad, incluyendo la posibilidad de contar con asistencia personal.
-
-###### ARTÍCULO 53.
-
-El Agresor deberá participar obligatoriamente en los programas de reeducación integral, cuando se le determine por mandato de autoridad competente.
+En todo caso el o la coordinadora, una vez analizado los reportes remitidos por los especialistas que supervisaron las convivencias, permitirá las convivencias externas.
 
 ### CAPÍTULO VI. DE LOS CENTROS DE JUSTICIA PARA LAS MUJERES
 
 > <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
 
-###### ARTÍCULO 54.
+###### Artículo 54.
 
-Corresponde a los refugios, desde la perspectiva de género, interseccionalidad y enfoque diferenciado:
+La duración de las convivencias externas será de entre dos y cuatro horas, de acuerdo a la sugerencia de los psicólogos, responsables del proceso de acoplamiento entre las partes.
 
-I. Aplicar el Programa;
+###### Artículo 55.
 
-II. Velar por la seguridad de las mujeres que se encuentren en ellos;
+Las convivencias podrán ser ampliadas, limitadas o suspendidas por el o la titular de la Procuraduría, cuando resultare necesario, tomando en consideración cualquiera de los siguientes aspectos:
 
-III. Proporcionar a las mujeres la atención necesaria para su recuperación física y psicológica, que les permita participar plenamente en la vida pública, social y privada;
+I. Los estudios emitidos por el personal jurídico, psicológico, médico o de trabajo social de la Procuraduría;
 
-> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
+II. Las manifestaciones rendidas por los representantes de las instituciones que albergan al menor; o
 
-IV. Dar información en formatos accesibles a las víctimas sobre las instituciones encargadas de prestar asesoría jurídica gratuita;
+III. Los resultados de las valoraciones de la integración familiar del niño, niña o adolescente y su dinámica.
 
-V. Brindar a las víctimas la información necesaria que les permita decidir sobre las opciones de atención;
+###### Artículo 56.
 
-> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
+Los psicólogos responsables, deberán remitir a la Coordinación reporte de los resultados de las convivencias externas. De ser favorables, la Coordinación autorizará, previo acuerdo con (sic) de el o la titular de la Procuraduría, la convivencia domiciliaria por un fin de semana.
 
-VI. Contar con el personal debidamente capacitado y especializado, en perspectiva de género, derechos humanos, con enfoque diferenciado, intercultural e interseccional, y
+###### Artículo 57.
 
-VII. Todas aquellas inherentes a la prevención, protección y atención de las personas que se encuentren en ellos.
+De ser favorables las convivencias de fin de semana y una vez que se haya generado un vínculo afectivo entre el niño, niña o adolescente institucionalizado y los solicitantes, y que de las valoraciones se desprenda que ya existe una integración familiar y una dinámica establecida, se presentará al Consejo para que apruebe el hogar provisional y el inicio del procedimiento judicial de adopción
 
-> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+###### Artículo 58.
 
-Los refugios y los Centros de Justicia para las Mujeres deberán contar con todas las condiciones de accesibilidad necesarias para proporcionar atención, en igualdad de condiciones y sin discriminación, a las mujeres con discapacidad, incluyendo la posibilidad de contar con asistencia de personal de apoyo.
+Al momento en que se egrese provisionalmente a un niño, niña o adolescente a efecto de que se desarrollen las convivencias domiciliarias con los solicitantes, la Coordinación levantará un acta en la que se asienten las condiciones y circunstancias en las que se encuentran las personas susceptibles de ser adoptadas a los solicitantes, misma que será firmada por las personas que intervengan en dicha entrega provisional.
 
-###### ARTÍCULO 55.
+###### Artículo 59.
 
-Los refugios deberán ser lugares seguros para las víctimas, por lo que no se podrá proporcionar su ubicación a personas no autorizadas para acudir a ellos.
-
-###### ARTÍCULO 56.
-
-Los refugios deberán prestar a las víctimas y, en su caso, a sus hijas e hijos los siguientes servicios especializados y gratuitos:
-
-I. Hospedaje;
-
-II. Alimentación;
-
-III. Vestido y calzado;
-
-IV. Servicio médico;
-
-V. Asesoría jurídica;
-
-VI. Apoyo psicológico;
-
-VII. Programas reeducativos integrales a fin de que logren estar en condiciones de participar plenamente en la vida pública, social y privada;
-
-VIII. Capacitación, para que puedan adquirir conocimientos para el desempeño de una actividad laboral, y
-
-IX. Bolsa de trabajo, con la finalidad de que puedan tener una actividad laboral remunerada en caso de que lo soliciten.
-
-###### ARTÍCULO 57.
-
-La permanencia de las víctimas en los refugios no podrá ser mayor a tres meses, a menos de que persista su inestabilidad física, psicológica o su situación de riesgo.
-
-###### ARTÍCULO 58.
-
-Para efectos del artículo anterior, el personal médico, psicológico y jurídico del refugio evaluará la condición de las víctimas.
-
-###### ARTÍCULO 59.
-
-En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 8 DE MAYO DE 2023)</small>
+El o la titular de la Procuraduría podrá dar de baja las solicitudes de adopción, cuando al llevarse al cabo las convivencias entre el niño, niña o adolescente y los solicitantes, o bien, durante el trámite del procedimiento administrativo o judicial, sobrevenga alguna circunstancia, causa o acción que afecte el interés superior de los mismos. El titular de la Procuraduría deberá dar aviso al Consejo para conocimiento y validación de su acción.
 
 ### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES Y SANCIONES
 
@@ -2123,47 +1593,91 @@ Para la creación de los Centros de Justicia para las Mujeres, se deberán prior
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, D.O.F. 28 DE ENERO DE 2011)</small>
 
-## TITULO IV. DE LAS RESPONSABILIDADES Y SANCIONES
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 28 DE ENERO DE 2011)</small>
+## TÍTULO IV. DE LOS IMPEDIMENTOS Y EXCUSAS
 
 ###### Artículo 67.
 
-De la denuncia y de todo el procedimiento referido en este capítulo, se levantará acta circunstanciada en tres tantos; el original se quedará en poder de la autoridad de protección civil; otro, en poder de la autoridad implicada, y el tercer documento, deberá ser entregado al denunciante.
+Los miembros del Consejo estarán impedidos para conocer en los siguientes casos:
+
+I. En aquellos asuntos en los que tengan un interés personal y directo en el asunto de que se trate;
+
+II. Cuando en el procedimiento administrativo de adopción tengan parentesco consanguíneo o por afinidad con alguno de los solicitantes, en línea recta sin limitación de grado y en línea transversal dentro del cuarto grado por consanguinidad y del segundo grado por afinidad;
+
+III. Tener amistad estrecha o animadversión con alguno de los solicitantes;
+
+IV. Haber sido representante legal apoderado o asesor de cualquiera de los solicitantes;
+
+V. Cuando en el procedimiento administrativo de adopción tengan interés su cónyuge, sus parientes consanguíneos en línea recta sin limitación de grados, colaterales dentro del cuarto grado o los afines dentro del segundo, o personas que integren una persona moral de la que el servidor público también forme parte; y
+
+VI. Cualquier situación análoga que pueda afectar su imparcialidad, a juicio del Consejo.
 
 ###### Artículo 68.
 
-Los funcionarios de protección civil que no cumplan con lo establecido en el artículo anterior, incurrirán en responsabilidad oficial, debiendo ser sancionados conforme a lo que establezcan los ordenamientos aplicables.
+Cuando alguno de los miembros del Consejo se encuentre en cualquiera de los supuestos que señala el artículo anterior, deberá excusarse por escrito dirigido al Consejo.
+
+## TÍTULO V. DE LAS SANCIONES
 
 ###### Artículo 69.
 
-En caso de riesgo, las dependencias de la Administración Pública Estatal y Municipal, ejecutarán las medidas de seguridad que les competan a fin de proteger la vida de la población y sus bienes, la planta productiva y el medio ambiente; garantizando el normal funcionamiento de los servicios esenciales de la comunidad.
+A los solicitantes que proporcionen información o documentación no fidedigna o intencionalmente oculten otra que debiesen presentar a la Procuraduría para la integración de su expediente de adopción, se les cancelará su solicitud y no se les admitirá ninguna otra.
+
+El Consejo, solicitará a la persona titular de la Procuraduría que denuncie los hechos ante la autoridad competente y lo notificará al Sistema para que a su vez éste lo haga del conocimiento de los Sistemas para el Desarrollo Integral de la Familia de otras entidades federativas.
 
 ###### Artículo 70.
 
-Entre las medidas de seguridad se cuentan:
+A los solicitantes que no cumplan con la obligación de reincorporar al niño, niña o adolescente que tengan en convivencia temporal, se les cancelará su solicitud y no se les admitirá de nueva cuenta.
 
-I. Identificación y delimitación de lugares o zonas de riesgo;
-
-II. Acciones preventivas a realizar según la naturaleza del riesgo;
-
-III. La suspensión de actividades, obras o servicios;
-
-IV. El resguardo o en su caso, destrucción de objetos, productos y sustancias que pueden ocasionar desastre; y
-
-V. Las demás que en materia de protección civil determinen las autoridades competentes, tendientes a evitar que se generen o sigan causando riesgos.
+Lo anterior sin perjuicio de la responsabilidad penal y civil en que incurran.
 
 ###### Artículo 71.
 
-En los casos en que se defina la clausura temporal o definitiva, total o parcial de una obra, instalación o establecimiento, se podrá solicitar a la autoridad competente la suspensión o cancelación de cualquier permiso o licencia que se hubiere otorgado.
+Cuando las autoridades encargadas de la aplicación del presente reglamento, consideren que el actuar de los servidores públicos que intervengan en el trámite administrativo de las adopciones no se ha ajustado al presente, procederán a denunciar tales hechos ante la autoridad administrativa competente, en los términos que establece la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila.
 
 ###### Artículo 72.
 
-Cuando se imponga como sanción la suspensión de una obra, instalación o servicio, se ordenará al infractor que realice los actos o subsane las omisiones que motivaron la misma, fijando un plazo prudente para ello a juicio de la Dirección Estatal de Protección Civil o Unidad Municipal en la inteligencia de que la suspensión continuará hasta en tanto se cumpla con lo ordenado.
+Las resoluciones dictadas respecto a las sanciones que se señalan en este título, deberán tramitarse con las formalidades previstas en la Ley de Procedimiento Administrativo del Estado de Coahuila de Zaragoza.
+
+T R A N S I T O R I O S
+
+PRIMERO.- Publíquese el presente reglamento en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Este reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- El Consejo Técnico de Adopciones deberá quedar instalado dentro de los noventa días posteriores a la entrada en vigor del presente reglamento.
+
+CUARTO.- Se abroga el decreto que establece el Consejo de Adopciones del Estado de Coahuila publicado en el Periódico Oficial del Gobierno del Estado el día martes 09 de mayo de 2000.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente.
+
+DADO en la residencia del Poder Ejecutivo en la ciudad de Saltillo, Coahuila de Zaragoza a los 16 días del mes de agosto de 2013.
+
+"SUFRAGIO EFECTIVO. NO REELECCIÓN"
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE COAHUILA DE ZARAGOZA
+
+RUBÉN IGNACIO MOREIRA VALDEZ
+
+(RÚBRICA)
+
+EL SECRETARIO DE GOBIERNO
+
+ARMANDO LUNA CANALES
+
+(RÚBRICA)
+
+EL DIRECTOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA
+
+JAIME BUENO ZERTUCHE
+
+(RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE SEPTIEMBRE DE 2017.
 
 ###### Artículo 60.
 
-Será causa de responsabilidad administrativa el incumplimiento de esta ley y se sancionará conforme a las leyes en la materia.
+Él, la o los solicitantes tendrán la obligación de presentar a los niños, niñas o adolescentes en las instalaciones de la Procuraduría cuando se les requiera.
 
 ## TRANSITORIOS
 
@@ -2269,11 +1783,13 @@ DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el 
 
 D.O.F. 19 DE JUNIO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL PROCESO ADMINISTRATIVO DE ADOPCIONES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado.
 
-D.O.F. 22 DE JUNIO DE 2017.
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones de la misma jerarquía o inferiores que se opongan al presente decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE ADICIONAN UNA FRACCIÓN XIX AL ARTÍCULO 2, UNA FRACCIÓN V AL ARTÍCULO 6, DE LA LEY DE LA COMISIÓN NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDÍGENAS; Y UNA FRACCIÓN XII AL ARTÍCULO 36 DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
 
