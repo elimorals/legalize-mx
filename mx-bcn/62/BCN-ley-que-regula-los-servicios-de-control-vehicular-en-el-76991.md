@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-regula-los-servicios-de-control-vehicular-en-el-76991"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2023-07-07"
+last_updated: "2024-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2024.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -43,9 +43,9 @@ LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR EN EL ESTADO DE BAJA CALIFORNI
 
 La presente Ley es de orden público e interés general, y tiene por objeto regular los servicios de control vehicular en el Estado de Baja California, que comprenden lo relativo a las placas y tarjetas de circulación, licencias de conducir en cualquiera de sus modalidades, así como todo lo referente al Registro Estatal Vehicular.
 
-###### ARTÍCULO 2.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2024)</small>
 
-Para los efectos de la presente Ley, se entiende por:
+ARTÍCULOS (SIC) 2.- Para los efectos de la presente Ley, se entiende por:
 
 Alta.- Trámite a través del cual se inscribe un vehículo en el Registro Estatal Vehicular, cumpliendo con los requisitos establecidos en la presente Ley.
 
@@ -65,7 +65,9 @@ Ciclista.- Conductor de un vehículo de tracción humana a pedales;
 
 Reposición de Placas de Circulación.- Trámite que debe realizarse para la obtención de nuevas placas de circulación únicamente por los supuestos previstos en esta ley.
 
-Canje de Tarjeta de Circulación.- Trámite que debe realizarse para la obtención de la tarjeta de circulación vigente como consecuencia de la terminación de la vigencia de la anterior.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+
+Canje de Tarjeta de Circulación.- Trámite que debe realizarse para la obtención de la tarjeta de circulación física y digital vigente como consecuencia de la terminación de la vigencia de la anterior.
 
 Domicilio.- Lugar de habitación y permanencia habitual de una persona, para el ejercicio de sus derechos y cumplimiento de sus obligaciones. En el caso de las personas morales es el local en que se encuentre el principal asiento de sus negocios.
 
@@ -121,7 +123,13 @@ Revalidación de Licencia de Conducir.- Trámite que debe realizarse como consec
 
 Secretaría.- Secretaría de Hacienda del Estado.
 
-Tarjeta de Circulación.- Documento expedido por la Secretaría a través de la Oficina Recaudadora y/o instituciones autorizadas para ello, indispensable para la circulación de vehículos, coincidente con las placas de circulación y calcomanías, que contiene los datos específicos del propietario, así como las características del vehículo respectivo.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+
+Tarjeta de Circulación.- Documento físico o digital expedido por la Secretaría a través de la Oficina Recaudadora y/o instituciones autorizadas para ello, indispensable para la circulación de vehículos, coincidente con las placas de circulación y calcomanías, que contiene los datos específicos del propietario, así como las características del vehículo respectivo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE ENERO DE 2024)</small>
+
+La tarjeta de circulación podrá ser digitalizada por la Secretaría de Hacienda del Estado para su ágil e inmediata portación, en los términos del reglamento de la presente ley. La digitalización de la tarjeta de circulación no sustituye el documento.
 
 Vehículo.- Todo bien mueble identificado en su individualidad, diseñado para el transporte terrestre de personas o cosas en la vía pública, que su movimiento sea generado por una fuerza motriz ya sea por combustión y/o electricidad, así como aquellos destinados para ser remolcados. No queda comprendido dentro de esta definición el tren para el transporte ferroviario de pasajeros y de carga así como el equipo ferroviario.
 
@@ -1120,3 +1128,13 @@ P.O. 7 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO No 247 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2 Y 4 DE LA LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR EN EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 372 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A (SIC) AL ARTÍCULO 2 DE LA LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Poder Ejecutivo del Estado deberá emitir y adecuar los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor.
+
+TERCERO. Para la implementación de la presente reforma, el Poder Ejecutivo del Estado, preverá de manera progresiva, en el ejercicio fiscal subsecuente a la entrada en vigor de la presente reforma los recursos pertinentes.
