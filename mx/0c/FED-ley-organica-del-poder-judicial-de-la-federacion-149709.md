@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-149709"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-06-07"
-last_updated: "2023-10-27"
+last_updated: "2024-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149709&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPJF"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ENERO DE 2024.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 7 de junio de 2021.
 
@@ -982,9 +982,29 @@ XL. Dictar las disposiciones necesarias para la recepción, control y destino de
 
 XLI. Designar de entre sus personas integrantes a las y los comisionados que integrarán la Comisión de Administración del Tribunal Electoral, en los términos señalados en el párrafo segundo del artículo 186 de esta Ley;
 
-XLII. Realizar las funciones que se le confieren en términos de lo dispuesto por el Libro Quinto del Código Federal de Procedimientos Civiles y expedir las disposiciones necesarias para el adecuado ejercicio de aquéllas, y
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2024)</small>
 
-XLIII. Desempeñar cualquier otra función que la ley encomiende al Consejo de la Judicatura Federal.
+XLII. Realizar las funciones que se le confieren en términos de lo dispuesto por el Libro Quinto del Código Federal de Procedimientos Civiles y expedir las disposiciones necesarias para el adecuado ejercicio de aquéllas;
+
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2024)</small>
+
+XLIII. Desempeñar cualquier otra función que la ley encomiende al Consejo de la Judicatura Federal;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2024)</small>
+
+XLIV. Designar a las personas responsables de la Plataforma Nacional de Personas Facilitadoras y del Sistema Nacional de Información de Convenios, de conformidad con lo dispuesto en la Ley General de Mecanismos Alternativos de Solución de Controversias;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2024)</small>
+
+XLV. Disponer la creación y actualización de la Plataforma Nacional de Personas Facilitadoras y del Sistema Nacional de Información de Convenios, de conformidad con lo dispuesto en la Ley General de Mecanismos Alternativos de Solución de Controversias;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2024)</small>
+
+XLVI. Impulsar, fomentar y difundir el uso de los mecanismos alternativos de solución de controversias como un derecho humano que garantiza el acceso efectivo a la justicia, la solución de conflictos y genera una cultura de paz, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2024)</small>
+
+XLVII. Crear el Centro Público, de conformidad con lo dispuesto en la Ley General de Mecanismos Alternativos de Solución de Controversias.
 
 El Consejo de la Judicatura Federal incorporará la perspectiva de género, de forma transversal, progresiva, y equitativa en el desempeño de sus atribuciones, programas y acciones, con el objeto de garantizar a las mujeres y hombres, el ejercicio y goce de sus derechos humanos, en igualdad de condiciones y velará por que los órganos a su cargo así lo hagan.
 
@@ -3031,3 +3051,13 @@ Quinto.- Los recursos a que se refiere el transitorio anterior deberán ser conc
 El Poder Judicial de la Federación, a través de sus órganos competentes, deberá publicar un informe individual, desagregado y pormenorizado por cada instrumento extinto a través del presente Decreto, en el cual se indiquen los montos enterados a la Tesorería de la Federación en términos del transitorio inmediato anterior, en observancia a los principios de transparencia, rendición de cuentas, acceso a la información pública, máxima publicidad y conexos previstos en la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal de Presupuesto y Responsabilidad Hacendaria y la Ley Federal de Transparencia y Acceso a la Información Pública.
 
 El Poder Judicial de la Federación, a través de sus órganos competentes contará con un plazo máximo de siete días hábiles para publicar el informe al que se refiere el párrafo inmediato anterior contados a partir del día siguiente al que se realice el entero correspondiente a la Tesorería de la Federación.
+
+D.O.F. 26 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS Y SE REFORMA Y ADICIONA LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Poder Judicial de la Federación, contará con un plazo máximo de 180 días naturales, para la expedición de las disposiciones aplicables para el cumplimiento del presente Decreto.
+
+Tercero. El Consejo de la Judicatura Federal, contará con un plazo máximo de 180 días naturales, para la creación de la Plataforma Nacional de Personas Facilitadoras y del Sistema Nacional de Información de Convenios.
