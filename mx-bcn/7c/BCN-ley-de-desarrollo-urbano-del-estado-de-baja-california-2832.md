@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-urbano-del-estado-de-baja-california-2832"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2023-06-23"
+last_updated: "2024-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
@@ -193,13 +193,17 @@ XIII. La prevención, control y atención de riesgos y contingencias ambientales
 
 XIV. La conservación y mejoramiento del ambiente en los asentamientos humanos;
 
-XV. El ordenado aprovechamiento de la propiedad inmobiliaria en los centros de población; y
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2024)</small>
 
-XVI. La coordinación y concertación de la inversión pública y privada con la planeación del desarrollo regional y urbano;
+XV. El ordenado aprovechamiento de la propiedad inmobiliaria en los centros de población;
 
-> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2024)</small>
 
-XVII. El desarrollo y adecuación en los centros de población de la infraestructura, el equipamiento y los servicios urbanos que garanticen la seguridad y accesibilidad que requieran las personas con discapacidad.
+XVI. La coordinación y concertación de la inversión pública y privada con la planeación del desarrollo regional y urbano; y,
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2024)</small>
+
+XVII. El desarrollo y adecuación en los centros de población de la infraestructura, el equipamiento y los servicios urbanos que garanticen la seguridad y accesibilidad que requieran las personas, en especial para mujeres, niños, niñas, personas adultas mayores y personas con discapacidad.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -2085,9 +2089,9 @@ V. Los componentes del paisaje urbano o en sus áreas de equipamiento urbano tal
 
 VI. La modificación de la naturaleza o topografía de un predio, para su utilización, para la intensificación o modificación de su uso.
 
-> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2024)</small>
 
-VII. La construcción y adecuación de la infraestructura, el equipamiento y los servicios urbanos para garantizar la seguridad y accesibilidad requeridas por las personas con discapacidad.
+VII. La construcción y adecuación de la infraestructura, el equipamiento y los servicios urbanos para garantizar la seguridad y accesibilidad requeridas por las personas, en especial para mujeres, niños, niñas, personas adultas mayores y personas con discapacidad.
 
 ###### ARTICULO 148.
 
@@ -3240,3 +3244,9 @@ P.O. 23 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 240 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN V DEL ARTÍCULO 147 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 26 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 369 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 3 Y 147 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
