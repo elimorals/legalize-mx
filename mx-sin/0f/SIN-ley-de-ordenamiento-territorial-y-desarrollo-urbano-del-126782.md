@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-126782"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-28"
-last_updated: "2020-08-17"
+last_updated: "2024-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2024.
 
 Ley publicada en la Segunda Sección Parte Uno al No. 27 del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de febrero de 2018.
 
@@ -2138,6 +2138,12 @@ Para la instrumentación de políticas de conservación del patrimonio cultural 
 Los programas de desarrollo urbano municipales, señalarán los inmuebles o zonas del patrimonio cultural edificado que deberán ser protegidos definiendo sus áreas de amortiguamiento o de protección. Dichos instrumentos de planeación deberán ser tomados en cuenta por el Gobierno del Estado y los municipios al realizar acciones, obras o inversiones públicas, así como para expedir autorizaciones y licencias de su competencia.
 
 Para el caso de inmuebles o zonas que se encuentren bajo el régimen que establece la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, las medidas de protección que desarrollen el Gobierno del Estado y los municipios se ajustarán a las prescripciones de dicho ordenamiento.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2024)</small>
+
+Artículo.154 Bis. Para preservar y acrecentar el patrimonio cultural urbano en la entidad, la nomenclatura de las vialidades y de los bienes inmuebles que formen parte integrante del patrimonio público deberá hacer referencia a personas, fechas o eventos que hayan destacado en la historia, ciencia, arte, tecnología, política, deporte o cualquier otra actividad de relevancia cultural.
+
+No podrá establecerse una denominación en honor a personas que desempeñen un empleo, cargo o comisión ya sea de la Federación, del Estado o de los Municipios, ni de sus cónyuges o parientes hasta el cuarto grado durante el periodo de su gestión.
 
 ###### Artículo 155.
 
@@ -4428,3 +4434,13 @@ P.O. 17 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 443 QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 221 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 26 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO: 695 "QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD SUSTENTABLE, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO Y DE LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Los Ayuntamientos deberán adecuar su reglamentación interna necesaria a efecto de establecer los criterios y el procedimientos (sic) para la asignación, modificación o sustitución de la nomenclatura de vías públicas y espacios públicos de los municipios dentro de un plazo de 90 días hábiles a partir de la fecha de la publicación del presente Decreto.
+
+TERCERO. Se derogan todas aquellas disposiciones secundarias que se opongan a lo dispuesto en el presente Decreto.
