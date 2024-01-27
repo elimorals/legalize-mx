@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-premios-y-estimulos-para-los-colimenses-4433"
 country: "mx"
 rank: "ley"
 publication_date: "1967-10-14"
-last_updated: "2023-10-28"
+last_updated: "2024-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de octubre de 1967.
 
@@ -51,19 +51,27 @@ Se crean en el Estado de Colima, de manera permanente, para entregar a hombres y
 
 I.- Premio Estatal "Profesor GREGORIO TORRES QUINTERO", en las siguientes modalidades:
 
-a) Condecoración "Profesor GREGORIO TORRES QUINTERO", que se otorgará a miembros distinguidos del magisterio y benefactores de la educación pública del Estado;
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2024)</small>
 
-b) Orden "Profesor GREGORIO TORRES QUINTERO", Diploma de Honor y Numerario, para los docentes en servicio que cumplan cuarenta años de labor profesional en escuelas dependientes de la Dirección de Educación Pública del Estado.
+a) Condecoración “Profesor GREGORIO TORRES QUINTERO”, que se otorgará a maestras y maestros distinguidos del magisterio del Sistema Educativo Colimense.
 
-La Presea llevará grabados el escudo de Colima, el nombre del docente que la reciba, los años de servicios prestados, la autoridad que la concede y la fecha; y
+b) (DEROGADO, P.O. 27 DE ENERO DE 2024)
 
-c) Galardón "Profesor GREGORIO TORRES QUINTERO" y Diploma de Honor a los docentes en servicio que cumplan cincuenta años de labor profesional en el Sistema Educativo Estatal.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2024)</small>
 
-El cómputo de los servicios señalados en los incisos b) y c), se hará tomando en cuenta los prestados en forma ininterrumpida o no; pero en este último caso, se observará que la interrupción o interrupciones realizadas no sumen en total más de cinco años.
+c) Galardón “Profesor GREGORIO TORRES QUINTERO y Diploma de Honor, a las y los docentes en servicio que cumplan cincuenta años o más, de labor profesional en el Sistema Educativo Colimense. Dicho galardón llevará grabado el Escudo de Colima, el nombre de la o el docente que la reciba, los años de servicios prestados y la Legislatura que la concede.
 
-La Condecoración, la Orden y el Diploma citados, pueden ser concedidos por el Ejecutivo del Estado o por el H. Congreso Local, a los docentes que reúnan los requisitos señalados, debiendo dejar constancia en las dependencias correspondientes.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2024)</small>
 
-La entrega de estos estímulos se hará en la ceremonia conmemorativa del "Día del Maestro".
+El cómputo de los servicios señalados en el anterior inciso, se hará tomando en cuenta los prestados en forma ininterrumpida o no; observando que la interrupción o interrupciones realizadas no sumen en total más de cinco años.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2024)</small>
+
+La condecoración y el diploma previstos en los incisos a) y c) anteriores, serán concedidos por el H. Congreso del Estado de Colima, a las y los docentes que reúnan los requisitos señalados, debiendo dejar constancia en la entrega correspondiente.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2024)</small>
+
+La entrega de estos estímulos se hará en la ceremonia conmemorativa del “Día del Maestro”, en el marco del quince de mayo de cada año, por lo que, la Comisión Legislativa de Educación, Cultura, Ciencia y Tecnología, elaborará y emitirá en el mes de marzo la convocatoria respectiva, en el que obren los requisitos, términos, procesos y deliberaciones, pudiéndose coordinar para tal efecto con la Secretaría de Educación y Cultura del Gobierno del Estado.
 
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
@@ -536,3 +544,9 @@ P.O. 28 DE OCTUBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Colima.
+
+P.O. 27 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 400.- POR EL QUE SE REFORMAN, LOS INCISOS A) Y C), ASÍ COMO, LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO DE LA FRACCIÓN I Y SE DEROGA EL INCISO B) DE LA FRACCIÓN I, TODOS DEL ARTÍCULO 1o. DE LA LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
