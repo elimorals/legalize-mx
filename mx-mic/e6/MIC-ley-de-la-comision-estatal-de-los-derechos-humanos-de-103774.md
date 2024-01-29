@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-la-comision-estatal-de-los-derechos-humanos-de-103774"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-21"
-last_updated: "2023-11-24"
+last_updated: "2024-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "MIC"
 ---
 # LEY DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACAN DE OCAMPO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ENERO DE 2024 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
-(REPUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023)
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE ENERO DE 2024.]</small>
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 21 de noviembre de 2014.
 
@@ -1611,13 +1609,17 @@ REPUBLICADO, P.O. 24 DE NOVIEMBRE DE 2023.
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-Segundo. La Secretaría de Gobierno coordinará los trabajos interinstitucionales a efecto de que el Centro de Atención y Justicia para Niñas, Niños y Adolescentes de la ciudad de Morelia comience a operar a más tardar dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto. El Gobernador del Estado deberá designar al Director General a la entrada en funciones de este Centro, que será el encargado de la administración general de todos aquellos Centros al interior del Estado conforme se disponga en los lineamientos de coordinación a que alude el siguiente transitorio.
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2024)</small>
+
+Segundo. La Secretaría de Gobierno coordinará los trabajos interinstitucionales a efecto de que el Centro de Atención y Justicia para Niñas, Niños y Adolescentes de la ciudad de Morelia comience a operar a más tardar dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto. El Gobernador del Estado deberá designar al Coordinador General a la entrada en funciones de este Centro, que será el encargado de la administración general de todos aquellos Centros al interior del Estado conforme se disponga en los lineamientos de coordinación a que alude el siguiente transitorio.
 
 Se deberán emitir lineamientos de coordinación que acuerden los titulares de los poderes, organismos autónomos, entidades y dependencias que forman parte del Centro, mismos que serán publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, sin menoscabo de la normatividad reglamentaria que se expida por cada autoridad para su personal y funciones.
 
 Para tal efecto y conforme al principio de prioridad de la niñez y adolescencia, se autoriza a los poderes Ejecutivo y Judicial de Michoacán, así como a las autoridades y organismos autónomos referidos en el presente Decreto, realizar las modificaciones conducentes en materia administrativa, reglamentaria y presupuestaria para dar cumplimiento al presente Decreto.
 
-El Consejo del Poder Judicial y el Titular del Poder Ejecutivo del Estado de Michoacán y su Secretaría de Gobierno, dispondrán realizar las adecuaciones reglamentarias, administrativas y presupuestales necesarias para la adscripción de los Centros de Atención y Justicia para Niñas, Niños y Adolescentes en dicha dependencia. Igualmente, la Fiscalía General de Justicia, la Comisión Estatal de los Derechos Humanos, la Comisión Estatal de Atención a Víctimas y Ayuntamientos, todos del Estado de Michoacán de Ocampo, así como las secretarías de Seguridad Pública y de Salud del Gobierno del Estado y el Sistema Estatal DIF realizarán las adecuaciones reglamentarias, administrativas y presupuestales necesarias para prestar sus servicios en los Centros de Atención y Justicia para Niñas, Niños y Adolescentes, conforme al presente Decreto.
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2024)</small>
+
+El Consejo del Poder Judicial y el Titular del Poder Ejecutivo del Estado de Michoacán y su Secretaría de Gobierno, dispondrán realizar las adecuaciones reglamentarias, administrativas y presupuestales necesarias para la adscripción de los Centros de Atención y Justicia para Niñas, Niños y Adolescentes en dicha dependencia. Igualmente, la Fiscalía General de Justicia, la Comisión Estatal de los Derechos Humanos, la Comisión Estatal de Atención a Víctimas y Ayuntamientos, todos del Estado de Michoacán de Ocampo, así como las secretarias de Seguridad Pública y de Salud del Gobierno del Estado y el Sistema Estatal DIF realizarán las adecuaciones reglamentarias, administrativas y presupuestales necesarias para prestar sus servicios en los Centros de Atención y Justicia para Niñas, Niños y Adolescentes, conforme al presente Decreto.
 
 Tercero. Conforme al principio de prioridad de la niñez y adolescencia, el Congreso del Estado de Michoacán, en el Presupuesto de Egresos inmediato posterior a la entrada en vigor del presente Decreto, al menos deberá destinar los recursos necesarios para la operación y funcionamiento de un Centro de Atención y Justicia para Niñas, Niños y Adolescentes en cada distrito judicial en el Estado. Los organismos autónomos y las autoridades vinculadas por el presente Decreto, también incluirán en su proyecto de Presupuesto los recursos necesarios.
 
