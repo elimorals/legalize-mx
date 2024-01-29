@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-para-el-h-ayuntamiento-de-asientos-139375"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-10-14"
-last_updated: "2023-06-05"
+last_updated: "2024-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL PARA ASIENTOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2024.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de octubre de 2019.
 
@@ -409,7 +409,9 @@ VII. Proporcionar al Congreso del Estado toda la información y documentación q
 
 VIII. Nombrar al Tesorero o al funcionario que deberá ejercer esa función, estableciendo la forma en que deberá caucionar su manejo, de conformidad con el reglamento correspondiente;
 
-IX. Nombrar al Secretario del H. Ayuntamiento, así como a los servidores públicos que, en auxilio del Síndico, habrán de ejercer la procuración, defensa, promoción y representación jurídica en los litigios en que el Municipio fuere parte, de conformidad con el presente Código;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2024)</small>
+
+IX. Nombrar al Secretario del H. Ayuntamiento, a los titulares de las autoridades investigadora, substanciadora y resolutora de la Contraloría y el Órgano Interno de Control, así como a los servidores públicos que, en auxilio del Síndico, habrán de ejercer la procuración, defensa, promoción y representación jurídica en los litigios en que el Municipio fuere parte, de conformidad con el presente Código;
 
 X. Coordinarse y asociarse con otros Ayuntamientos, para la eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que le corresponden;
 
@@ -641,7 +643,9 @@ X. Dentro de su esfera competencial cumplir y hacer cumplir las leyes, tanto fed
 
 XI. Tomar la protesta de Ley a los Regidores y Síndico, así como a los demás funcionarios y empleados del Municipio, en términos de ley;
 
-XII. Proponer al Ayuntamiento los nombramientos del Secretario del Ayuntamiento, Tesorero Municipal, Contralor Municipal y en el caso de la elección del Director de Seguridad Pública y Movilidad Municipal se propondrá una terna en coordinación con el ejecutivo estatal cuando sea aplicable el mando único;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2024)</small>
+
+XII. Proponer al Ayuntamiento los nombramientos del Secretario del Ayuntamiento, Tesorero Municipal, Contralor Municipal, así como los titulares de las autoridades investigadora, substanciadora y resolutora de la Contraloría y el Órgano interno de control y en el caso de la elección del Director de Seguridad Pública y Movilidad Municipal se propondrá una terna en coordinación con el ejecutivo estatal cuando sea aplicable el mando único;
 
 XIII. Otorgar los nombramientos a los Funcionarios Públicos Municipales;
 
@@ -14820,3 +14824,11 @@ EL PRESENTE DECRETO ENTRARA EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL 
 ###### ARTÍCULO SEGUNDO.
 
 SE TENDRÁ UN PLAZO DE 30 DÍAS PARA RECTIFICAR LOS NOMBRAMIENTOS A QUE DA ORIGEN EL PRESENTE DECRETO.
+
+P.O. 29 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE “REFORMA AL ARTÍCULO 39° FRACCIÓN IX Y AL ARTÍCULO 42° FRACCIÓN XII DEL CÓDIGO MUNICIPAL PARA ASIENTOS”.]
+
+Artículo Primero.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+Artículo Segundo.- Se tendrá un plazo de 30 días para rectificar los nombramientos a que da origen el presente decreto.
