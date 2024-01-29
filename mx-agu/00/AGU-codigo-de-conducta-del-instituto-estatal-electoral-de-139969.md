@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-conducta-del-instituto-estatal-electoral-de-139969"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-04"
-last_updated: "2019-11-04"
+last_updated: "2024-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "AGU"
 
 CÓDIGO DE CONDUCTA DEL INSTITUTO ESTATAL ELECTORAL DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2024 (ABROGADO).
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de noviembre de 2019.
 
@@ -777,3 +777,19 @@ Artículo Primero.- El presente Código iniciará su vigencia al momento de su a
 Artículo Segundo.- A la entrada en vigor del presente Código, se deberá crear el Comité de Ética en un plazo de 60 días naturales, esto con el fin de fomentar y vigilar el cumplimiento de este Código y el Código de Ética.
 
 Artículo Tercero.- Una vez conformado el Comité de Ética antes señalado, deberá de realizar como acción prioritaria la capacitación del presente Código a todo el personal del Instituto.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE ÉTICA Y CONDUCTA DEL INSTITUTO ESTATAL ELECTORAL DE AGUASCALIENTES".]
+
+PRIMERO. El Código de Ética y Conducta del Instituto Estatal Electoral de Aguascalientes entrará en vigor y surtirá efectos el mismo día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO. Con la entrada en vigor del presente Código de Ética y Conducta del Instituto Estatal Electoral de Aguascalientes, se abroga el Código de Ética del Instituto Estatal Electoral de Aguascalientes publicado en el Periódico Oficial del Estado de Aguascalientes en fecha diecisiete de junio de dos mil diecinueve, cuya última reforma data del nueve de diciembre de dos mil diecinueve, así como el Código de Conducta del Instituto Estatal Electoral de Aguascalientes publicado en el Periódico Oficial del Estado en fecha cuatro de noviembre de dos mil diecinueve.
+
+TERCERO. Queda sin efecto cualquier otra disposición administrativa de jerarquía similar o inferior que se oponga al presente.
+
+CUARTO. Las denuncias en proceso de atención por parte del Comité de Ética del Instituto Estatal de Aguascalientes, presentadas con anterioridad a la entrada en vigor del presente Código de Ética y Conducta del Instituto Estatal Electoral de Aguascalientes, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+QUINTO. Para su debido conocimiento, publíquese el presente Código en el Periódico Oficial del Estado, así como en la página oficial de internet del Instituto Estatal Electoral de Aguascalientes, Intranet y estrados del propio Instituto para conocimiento general y en atención al principio de máxima publicidad.
