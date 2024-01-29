@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-atencion-a-victimas-para-el-estado-de-michoacan-de-10394
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-10"
-last_updated: "2023-11-24"
+last_updated: "2024-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
-(REPUBLICADO EN EL P.O. 24 DE NOVIEMBRE DE 2023).
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE ENERO DE 2024.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 10 de diciembre de 2014.
 
@@ -1205,7 +1205,9 @@ P.O. 25 DE OCTUBRE DE 2023.
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-Segundo. La Secretaría de Gobierno coordinará los trabajos interinstitucionales a efecto de que el Centro de Atención y Justicia para Niñas, Niños y Adolescentes de la ciudad de Morelia comience a operar a más tardar dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto. El Gobernador del Estado deberá designar al Director General a la entrada en funciones de este Centro, que será el encargado de la administración general de todos aquellos Centros al interior del Estado conforme se disponga en los lineamientos de coordinación a que alude el siguiente transitorio.
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2024)</small>
+
+Segundo. La Secretaría de Gobierno coordinará los trabajos interinstitucionales a efecto de que el Centro de Atención y Justicia para Niñas, Niños y Adolescentes de la ciudad de Morelia comience a operar a más tardar dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto. El Gobernador del Estado deberá designar al Coordinador General a la entrada en funciones de este Centro, que será el encargado de la administración general de todos aquellos Centros al interior del Estado conforme se disponga en los lineamientos de coordinación a que alude el siguiente transitorio.
 
 Se deberán emitir lineamientos de coordinación que acuerden los titulares de los poderes, organismos autónomos, entidades y dependencias que forman parte del Centro, mismos que serán publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, sin menoscabo de la normatividad reglamentaria que se expida por cada autoridad para su personal y funciones.
 
