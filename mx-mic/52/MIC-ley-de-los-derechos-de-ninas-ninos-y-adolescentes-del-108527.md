@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2023-11-24"
+last_updated: "2024-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,11 @@ state: "MIC"
 
 > <small>[N. DE E. ESTE ORDENAMIENTO ES UNA REPUBLICACIÓN ACTUALIZADA DE LA PUBLICACIÓN DEL PERIÓDICO OFICIAL NÚMERO 10 DE FECHA 25 DE OCTUBRE DE 2023.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ENERO DE 2024 EN EL P.O. DEL ESTADO DE MICHOACÁN DE OCAMPO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
 
-(REPUBLICADA EN PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023)
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE ENERO DE 2024.]</small>
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -1487,7 +1485,9 @@ I. Las obligaciones de ascendientes o tutores o de cualquier persona que tenga a
 
 II. La implementación de cursos y programas educativos destinados a servidores públicos, padres de familia y estudiantes, con la finalidad de que comprendan las necesidades, conflictos e intereses de la adolescencia, las formas de violencia familiar, escolar y social;
 
-III. La obligación de familiares, vecinos, médicos, maestros, trabajadores sociales, servidores públicos o cualquier persona que tenga conocimiento de casos de niñas, niños y adolescentes que estén sufriendo la violación de los derechos consignados en esta Ley, en cualquiera de sus formas y de ponerlo en conocimiento inmediato de las autoridades competentes, de manera que pueda seguirse la investigación correspondiente; y,
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2024)</small>
+
+III. La obligación de familiares, vecinos, médicos, maestros, trabajadores sociales, servidores públicos o cualquier persona que tenga conocimiento de casos de niñas, niños y adolescentes que estén sufriendo la violación de los derechos consignados en esta Ley, en cualquiera de sus formas y de ponerlo en conocimiento inmediato de las autoridades competentes, de manera que pueda seguirse la investigación correspondiente;
 
 (REFORMADA, P.O. 25 DE OCTUBRE DE 2023) (REPUBLICADA, P.O. 24 DE NOVIEMBRE DE 2023)
 
@@ -1851,9 +1851,9 @@ XV. Realizar y promover estudios e investigaciones para fortalecer las acciones 
 
 XVI. Ser parte de la Comisión de Atención Inmediata y participar en las acciones coordinadas que establezca el Protocolo de Atención Inmediata para atender de manera oportuna los posibles casos de violencia sexual en contra de niñas, niños y adolescentes;
 
-(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE OCTUBRE DE 2023) (REPUBLICADA, P.O. 24 DE NOVIEMBRE DE 2023)
+(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE OCTUBRE DE 2023) (REPUBLICADA, P.O. 24 DE NOVIEMBRE DE 2023) (F. DE E., P.O. 29 DE ENERO DE 2024)
 
-XVII. Prestar sus servicios en los Centros de Atención y Justicia para Niñas, Niños y Adolescentes; y,
+XVII. Instruir o autorizar al personal a su cargo para colaborar en el funcionamiento en los Centros de Atención y Justicia para Niñas, Niños y Adolescentes, siempre y cuando sean compatibles con las que corresponda a esta Procuraduría de Protección; y,
 
 (REFORMADA [N. DE E. REUBICADA], P.O. 25 DE OCTUBRE DE 2023) (REPUBLICADA, P.O. 24 DE NOVIEMBRE DE 2023)
 
@@ -2127,17 +2127,23 @@ Los integrantes del Sistema Municipal de Protección Integral nombrarán un supl
 
 ### CAPÍTULO XXX BIS. CENTROS DE ATENCIÓN Y JUSTICIA PARA NIÑAS, NIÑOS Y ADOLESCENTES
 
-(ADICIONADO, P.O. 25 DE OCTUBRE DE 2023) (REPUBLICADO, P.O. 24 DE NOVIEMBRE DE 2023)
+(ADICIONADO, P.O. 25 DE OCTUBRE DE 2023) (REPUBLICADO, P.O. 24 DE NOVIEMBRE DE 2023) (F. DE E., P.O. 29 DE ENERO DE 2024)
 
-Artículo 89 bis. Los Centros de Atención y Justicia para Niñas, Niños y Adolescentes son espacios especialmente diseñados para que las autoridades estatales que los integran presten sus servicios de manera coordinada, conforme al interés superior y al derecho de prioridad de niñas, niños y adolescentes.
+Artículo 89 bis. Los Centros de Atención y Justicia para Niñas, Niños y Adolescentes son espacios especialmente diseñados para que las autoridades que los integran presten sus servicios de manera coordinada, conforme al interés superior y al derecho de prioridad de niñas, niños y adolescentes.
 
 De manera enunciativa y no limitativa, tienen como objetivo prestar auxilio inmediato, información, asesoría, ayuda, atención, protección y, en su caso, representación, así como seguimiento y desahogo de los procedimientos administrativos o judiciales en todos los casos en que niñas, niños o adolescentes sean posibles víctimas o testigos, o que sus derechos estén en riesgo de ser vulnerados, necesiten ser protegidos o deban ser restituidos.
 
-De acuerdo a sus respectivas atribuciones constitucionales, legales y reglamentarias, así como sus propios recursos humanos y materiales, los poderes Ejecutivo y Judicial, la Fiscalía General, la Comisión Estatal de los Derechos Humanos, todos del Estado de Michoacán de Ocampo, prestarán sus servicios de manera permanente en los Centros de Atención y Justicia para Niñas, Niños y Adolescentes. Por lo que ve al Poder Ejecutivo, prestarán sus servicios, al menos, la Secretaría de Seguridad Pública, la Secretaría de Salud, Registro Civil, el Sistema Estatal DIF y la Comisión Estatal de Atención a Víctimas. Los municipios colaborarán con las autoridades referidas en el marco de sus atribuciones.
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2024)</small>
 
-Los poderes y organismos autónomos referidos se ajustarán a los lineamientos de coordinación que sus respectivos titulares acuerden, a propuesta del Director General del Centro, quien será nombrado y removido libremente por el Gobernador del Estado.
+De acuerdo a sus respectivas atribuciones constitucionales, legales y reglamentarias, así como sus propios recursos humanos y materiales, los poderes Ejecutivo y Judicial, la Fiscalía General, la Comisión Estatal de los Derechos Humanos, todos del Estado de Michoacán de Ocampo, prestarán sus servicios de manera permanente en los Centros de Atención y Justicia para Niñas, Niños y Adolescentes. Por lo que ve al Poder Ejecutivo, prestará sus servicios, al menos, la Secretaría de Seguridad Pública, la Secretaría de Salud, Registro Civil, el Sistema Estatal DIF y la Comisión Estatal de Atención a Víctimas. Los municipios colaborarán con las autoridades referidas en el marco de sus atribuciones.
 
-Los Centros de Atención y Justicia para Niñas, Niños y Adolescentes estarán adscritos a la Secretaría de Gobierno, en ejercicio de sus atribuciones de conducción, convocatoria, organización y coordinación. Su Director General dispondrá lo necesario para el buen funcionamiento, sin atribuciones de mando, supervisión o representación legal, respecto a las funciones y personal del Poder Judicial, de los organismos autónomos o de las dependencias y entidades distintas a la Secretaría de Gobierno que presten sus servicios en dichos Centros.
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2024)</small>
+
+Los poderes y organismos autónomos referidos se ajustarán a los lineamientos de coordinación que sus respectivos titulares acuerden, a propuesta del Coordinador General del Centro, quien será nombrado y removido libremente por el Gobernador del Estado.
+
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2024)</small>
+
+Los Centros de Atención y Justicia para Niñas, Niños y Adolescentes estarán adscritos a la Secretaría de Gobierno, en ejercicio de sus atribuciones de conducción, convocatoria, organización y coordinación. Su Coordinador General dispondrá lo necesario para el buen funcionamiento, sin atribuciones de mando o supervisión respecto a las funciones y personal del Poder Judicial, de los organismos autónomos o de las dependencias y entidades distintas a la Secretaría de Gobierno que presten sus servicios en dichos Centros.
 
 Al menos existirá un Centro de Atención y Justicia para Niñas, Niños y Adolescentes, en cada distrito judicial que existen al interior del Estado.
 
@@ -2145,45 +2151,45 @@ Al menos existirá un Centro de Atención y Justicia para Niñas, Niños y Adole
 
 Artículo 89 ter. Para el buen funcionamiento de los Centros, se deberá observar al menos lo siguiente:
 
-I. A través de las autoridades que los integran, contar con personal y espacios idóneos para brindar el auxilio que requieran las niñas, niños y adolescentes que por las diversas omisiones o conductas de quienes ejercen su patria potestad, tutela o terceros, puedan o sean afectados en su integridad o formación. Todos los espacios destinados a la convivencia, recreación, salud, inspección, protección, cuidado o donde se lleven a cabo procedimientos judiciales o administrativos, deberán diseñarse atendiendo al bienestar, seguridad y comodidad de niñas, niños y adolescentes;
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2024)</small>
 
-II. A través de las autoridades que los integran, contar con médicos, psicólogos, trabajadores sociales, peritos, policías, así como con los demás profesionistas necesarios para estar en condiciones de brindar el apoyo que se requiera para cumplir con su objetivo. Dichos profesionales auxiliarán tanto a los juzgados como al ministerio público adscritos al Centro respectivo para que estén en condiciones de decretar las medidas de protección o restitución, su ejecución, supervisión y evolución;
+I. A través de las autoridades que los integran, contar con personal y espacios idóneos para prestar el auxilio inmediato, información, asesoría, ayuda, atención, protección y, en su caso, representación, así como seguimiento y desahogo de los procedimientos administrativos o judiciales que requieran las niñas, niños y adolescentes que por las diversas omisiones o conductas de quienes ejercen su patria potestad, tutela o terceros, puedan o sean afectados en su integridad o formación. Todos los espacios destinados a la convivencia, recreación, salud, inspección, protección, cuidado o donde se lleven a cabo procedimientos judiciales o administrativos, deberán diseñarse atendiendo al bienestar, seguridad y comodidad de niñas, niños y adolescentes;
+
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2024)</small>
+
+II. A través de las autoridades que los integran, contar con profesionales en el área médica, psicológica, de servicio social, periciales y de seguridad pública, así como con los demás profesionales necesarios para estar en condiciones de brindar el apoyo que se requiera para cumplir con sus atribuciones.
+
+Dichos profesionales auxiliarán tanto a los juzgados como al ministerio público adscritos al Centro respectivo para que estén en condiciones de decretar las medidas de protección o restitución, su ejecución, supervisión y evolución;
 
 III. En cada Centro existirá al menos un juzgado que tendrá el personal, competencia y funciones que apruebe el Consejo del Poder Judicial; y,
 
-IV. En cada Centro existirá al menos una Agencia del Ministerio Público que tendrá el personal, competencia y funciones que instruya el Fiscal General del Estado. Además, habrá policías ministeriales y peritos pertenecientes a la Fiscalía General del Estado, quienes auxiliarán tanto al juez como al ministerio público en la medida que se requiera para decretar y ejecutar medidas de protección, y en su caso restituciones.
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+IV. En cada Centro existirá al menos una agencia del ministerio público que tendrá el personal, competencia y funciones que instruya el Fiscal General del Estado. Además, habrá policías ministeriales y peritos pertenecientes a la Fiscalía General del Estado, quienes auxiliarán tanto al Juez como al Ministerio Público en la medida que se requiera para decretar y ejecutar medidas de protección, y en su caso restituciones.
 
-Artículo 89 quáter. Las atribuciones del Director General de los Centros, serán las siguientes:
+(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023) (F. DE E., P.O. 29 DE ENERO DE 2024)
 
-I. Coadyuvar en la promoción y garantía del pleno goce, respeto, protección y promoción de los derechos humanos de las niñas, niños y adolescentes;
+Artículo 89 quáter. El Coordinador General de los Centros, quien será el encargado de la administración interna de los mismos, y tendrá las atribuciones siguientes:
 
-II. Representar legalmente a los Centros, sin perjuicio de la representación legal que corresponde a las autoridades que conforman los Centros;
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2024)</small>
 
-III. Solicitar ante las autoridades correspondientes, los trámites y asesorías necesarias para el cumplimiento del objeto de los Centros;
+I. Representar legalmente a los Centros, sin perjuicio de la representación legal con la que cuenten las autoridades que integren los mismos;
 
-IV. Realizar esquemas de coordinación y las gestiones necesarias ante las instancias competentes, a efecto de que en los Centros se preste un servicio eficiente y de calidad a favor de las Niñas, Niños y Adolescentes;
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2024)</small>
 
-V. Promover la capacitación permanente de las y los servidores públicos de los Centros;
+II. Elaborar el proyecto de los lineamientos de coordinación para el buen funcionamiento de los Centros;
 
-VI. Priorizar el interés superior de la niñez en la toma de decisiones;
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2024)</small>
 
-VII. Promover la cultura de respeto y equidad de género hacia las niñas, niños y adolescentes;
+III. Realizar esquemas de coordinación y las gestiones necesarias ante las instancias competentes, a efecto de que en los Centros se preste un servicio eficiente y de calidad a favor de las Niñas, Niños y Adolescentes;
 
-VIII. Desarrollar campañas permanentes de difusión, promoción, conocimiento, sensibilización y goce de los derechos de las niñas, niños y adolescentes;
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2024)</small>
 
-IX. Brindar protección oportuna, a las niñas, niños y adolescentes para que se les atienda en igualdad de condiciones en todos los servicios prestados por los Centros;
+IV. Presentar un informe anual de actividades al Secretario de Gobierno y al Congreso del Estado de Michoacán de Ocampo; y,
 
-X. Coordinarse con las autoridades competentes que forman parte de los Centros para mejorar el acceso a la justicia de las Niñas, Niños y Adolescentes;
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2024)</small>
 
-XI. Supervisar que la atención brindada en los Centros, se otorgue bajo los principios establecidos en la presente Ley;
-
-XII. Realizar invitación a organizaciones de la sociedad civil especialistas en derechos humanos de las niñas, niños y adolescentes, a efecto de colaborar en las actividades que le correspondan como Director General;
-
-XIII. Presentar un informe anual de actividades al Congreso del Estado de Michoacán de Ocampo; y,
-
-XIV. Las demás que le señalen las normas aplicables.
+V. Las demás que le señalen las normas aplicables.
 
 ### CAPÍTULO XXXI. ORGANISMO DE PROTECCIÓN DE LOS DERECHOS HUMANOS
 
@@ -2519,7 +2525,9 @@ REPUBLICADO, P.O. 24 DE NOVIEMBRE DE 2023.
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-Segundo. La Secretaría de Gobierno coordinará los trabajos interinstitucionales a efecto de que el Centro de Atención y Justicia para Niñas, Niños y Adolescentes de la ciudad de Morelia comience a operar a más tardar dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto. El Gobernador del Estado deberá designar al Director General a la entrada en funciones de este Centro, que será el encargado de la administración general de todos aquellos Centros al interior del Estado conforme se disponga en los lineamientos de coordinación a que alude el siguiente transitorio.
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2024)</small>
+
+Segundo. La Secretaría de Gobierno coordinará los trabajos interinstitucionales a efecto de que el Centro de Atención y Justicia para Niñas, Niños y Adolescentes de la ciudad de Morelia comience a operar a más tardar dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto. El Gobernador del Estado deberá designar al Coordinador General a la entrada en funciones de este Centro, que será el encargado de la administración general de todos aquellos Centros al interior del Estado conforme se disponga en los lineamientos de coordinación a que alude el siguiente transitorio.
 
 Se deberán emitir lineamientos de coordinación que acuerden los titulares de los poderes, organismos autónomos, entidades y dependencias que forman parte del Centro, mismos que serán publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, sin menoscabo de la normatividad reglamentaria que se expida por cada autoridad para su personal y funciones.
 
