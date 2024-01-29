@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-comunicaciones-y-64854"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-08"
-last_updated: "2016-08-18"
+last_updated: "2024-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64854&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-12-31"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES Y TRANSPORTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES, PUBLICADO EN EL D.O.F. DE 29 DE ENERO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES Y TRANSPORTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE ENERO DE 2024 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 8 de enero de 2009.
 
@@ -1744,3 +1746,33 @@ SEGUNDO.- Los asuntos que se encuentren en trámite en la Dirección General de 
 TERCERO.- Las menciones que se hacen y las atribuciones que se otorgan a la Dirección General de Transporte Ferroviario y Multimodal en otras disposiciones administrativas se entenderán hechas a la Dirección General de Desarrollo Ferroviario y Multimodal o a la Agencia Reguladora del Transporte Ferroviario, según corresponda, conforme a lo previsto en el presente Decreto y demás ordenamientos jurídicos aplicables.
 
 CUARTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado para la Secretaría de Comunicaciones y Transportes en el Presupuesto de Egresos de la Federación para el ejercicio fiscal 2016, por lo que no se autorizarán recursos adicionales y no se incrementará su presupuesto regularizable durante el presente ejercicio fiscal.
+
+D.O.F. 29 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES".]
+
+PRIMERO. El presente reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abrogan los siguientes ordenamientos jurídicos:
+
+I. El Reglamento Interior de la Secretaría de Comunicaciones y Transportes, publicado en el Diario Oficial de la Federación el 8 de enero de 2009;
+
+II. Los acuerdos delegatorios de facultades de la Secretaría de Comunicaciones y Transportes publicados en el Diario Oficial de la Federación los días 27 de febrero de 2009, 4 de mayo de 2011, 5 de agosto de 2011, y 2 de noviembre de 2020;
+
+III. El Acuerdo por el que se adscriben orgánicamente unidades administrativas, órganos administrativos desconcentrados y Centros SCT publicado en el Diario Oficial de la Federación el 3 de marzo de 2009 y sus reformas;
+
+IV. El Acuerdo por el que los titulares de los centros SCT, en el ámbito de su jurisdicción, tendrán las facultades que se indican, publicado en el Diario Oficial de la Federación, el 13 de mayo de 1991, y
+
+V. El Acuerdo por el que se crea el Comité de Coordinación de los centros SCT, dependiente de la Secretaría de Comunicaciones y Transportes, publicado en el Diario Oficial de la Federación, el 13 de mayo de 1991.
+
+TERCERO. Las disposiciones administrativas que se emitieron derivadas o con base en la normativa que se abrogan (sic) con el transitorio segundo de estos transitorios, y que se encuentren vigentes hasta antes de la publicación del presente decreto, continuará su vigencia sólo en lo que no se opongan a las disposiciones contenidas en el Reglamento Interior de la Secretaría de Infraestructura, Comunicaciones y Transportes que se expide; dicha vigencia continuará hasta que sean abrogadas esas disposiciones administrativas por los ordenamientos normativos que las sustituyan.
+
+CUARTO. Las referencias que se realicen en otras disposiciones a la Secretaría de Comunicaciones y Transportes se entenderán que corresponden a la Secretaría de Infraestructura, Comunicaciones y Transportes.
+
+QUINTO. Los asuntos en trámite a la entrada en vigor de este ordenamiento, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia.
+
+SEXTO. Todas las referencias que hagan mención a la Subsecretaría de Comunicaciones, a la Dirección General de Protección y Medicina Preventiva en el Transporte, a la Dirección General de Política de Telecomunicaciones y Radiodifusión, a la Coordinación de la Sociedad de la Información y el Conocimiento, a la Dirección General de Programación, Organización y Presupuesto, a la Dirección General de Recursos Humanos, a la Dirección General de Recursos Materiales, a la Unidad de Tecnologías de Información y Comunicaciones, a la Coordinación General de Centros SCT y a los Centros SCT en la normativa vigente, se entenderán hechas a la Subsecretaría de Comunicaciones y Transportes, a la Dirección General de Protección y Medicina Preventiva en el Transporte Terrestre, a la Dirección General de Políticas de Telecomunicaciones y Radiodifusión, a la Dirección General de Inclusión Digital y Redes de Telecomunicaciones, a la Dirección General de Programación y Presupuesto, a la Dirección General de Recursos Humanos y Organización, a la Dirección General de Recursos Materiales y Servicios Generales, a la Dirección General de Tecnologías de Información y Comunicaciones, a la Coordinación de Centros SICT y a los Centros SICT, en el ámbito de sus respectivas competencias.
+
+SÉPTIMO. Las erogaciones que se generen con motivo de la entrada en vigor del presente reglamento, así como las modificaciones a las atribuciones conferidas a la estructura orgánica de la Secretaría, se cubrirán con cargo a su presupuesto aprobado para el presente ejercicio fiscal y subsecuentes, y se realizarán mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de dicha Dependencia.
+
+OCTAVO. En tanto se aprueban y registran los puestos de las unidades administrativas que con motivo del presente ordenamiento se modifican, continuarán las personas servidoras públicas que ocupan los puestos con las denominaciones previstas en el Reglamento Interior de la Secretaría de Comunicaciones y Transportes que se abroga, a fin de dar continuidad a las funciones institucionales de las unidades responsables involucradas.
