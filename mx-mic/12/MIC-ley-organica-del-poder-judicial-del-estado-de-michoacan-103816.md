@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-poder-judicial-del-estado-de-michoacan-103816"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-03"
-last_updated: "2023-11-24"
+last_updated: "2024-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACAN
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ENERO DE 2024 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE MICHOACÁN EL 29 DE ENERO DE 2024.]</small>
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 3 de diciembre de 2014.
 
@@ -1313,9 +1313,9 @@ XVII. Cumplir con sus atribuciones en materia de bienes asegurados, objetos del 
 
 XVIII. Solicitar al Congreso la destitución del Magistrado que se encuentre en los supuestos del artículo 77 de la Constitución. Para este efecto el Consejo allegará al Congreso los elementos que fundamenten y motiven su petición;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE NOVIEMBRE DE 2023) (F. DE E., P.O. 29 DE ENERO DE 2024)
 
-XIX. Determinar el número y, en su caso, especialización por materia de los juzgados de Primera Instancia en cada uno de los distritos y regiones judiciales, así como en los Centros de Atención y Justicia para Niñas, Niños y Adolescentes, de conformidad con sus posibilidades presupuestarias;
+XIX. Determinar el número y, en su caso, especialización por materia de los Juzgados de Primera Instancia en cada uno de los distritos y regiones judiciales, así como en los Centros de Atención y Justicia para Niñas, Niños y Adolescentes, de conformidad con sus posibilidades presupuestarias;
 
 XX. Nombrar, adscribir y readscribir a los jueces de primera instancia de conformidad con los requisitos, procedimientos y criterios establecidos en esta ley y en la Constitución, así como determinar el procedimiento para cubrir sus faltas temporales o absolutas;
 
@@ -2449,7 +2449,9 @@ P.O. 24 DE NOVIEMBRE DE 2023.
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-Segundo. La Secretaría de Gobierno coordinará los trabajos interinstitucionales a efecto de que el Centro de Atención y Justicia para Niñas, Niños y Adolescentes de la ciudad de Morelia comience a operar a más tardar dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto. El Gobernador del Estado deberá designar al Director General a la entrada en funciones de este Centro, que será el encargado de la administración general de todos aquellos Centros al interior del Estado conforme se disponga en los lineamientos de coordinación a que alude el siguiente transitorio.
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2024)</small>
+
+Segundo. La Secretaría de Gobierno coordinará los trabajos interinstitucionales a efecto de que el Centro de Atención y Justicia para Niñas, Niños y Adolescentes de la ciudad de Morelia comience a operar a más tardar dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto. El Gobernador del Estado deberá designar al Coordinador General a la entrada en funciones de este Centro, que será el encargado de la administración general de todos aquellos Centros al interior del Estado conforme se disponga en los lineamientos de coordinación a que alude el siguiente transitorio.
 
 Se deberán emitir lineamientos de coordinación que acuerden los titulares de los poderes, organismos autónomos, entidades y dependencias que forman parte del Centro, mismos que serán publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, sin menoscabo de la normatividad reglamentaria que se expida por cada autoridad para su personal y funciones.
 
