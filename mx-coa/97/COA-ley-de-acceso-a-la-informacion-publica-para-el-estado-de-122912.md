@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-a-la-informacion-publica-para-el-estado-de-122912
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-21"
-last_updated: "2023-08-01"
+last_updated: "2024-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 21 de julio de 2017.
 
@@ -403,7 +403,9 @@ III. El directorio de los servidores públicos, con nombre, cargo o nombramiento
 
 IV. Los nombramientos, comisiones y licencias de los servidores públicos;
 
-V. La remuneración mensual por puesto de todos los servidores públicos por sueldo o por honorarios, incluyendo todas las percepciones, así como el tipo de seguridad social con el que cuentan;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
+
+V. La remuneración mensual por puesto de todos los servidores públicos por sueldo o por honorarios y de los contratados bajo el régimen de asimilados a salarios, incluyendo todas las percepciones, así como el tipo de seguridad social con el que cuentan;
 
 VI. Versión pública de la declaración patrimonial de los servidores públicos, que contenga: nombre, cargo, tipo de declaración, sueldo y bienes inmuebles, ubicados en territorio nacional y extranjero; así como el listado de servidores públicos que no hayan rendido la declaración patrimonial;
 
@@ -823,9 +825,11 @@ XX. Un registro de los juicios políticos y de responsabilidad penal señalando:
 
 XXI. Los demás informes que deban presentarse conforme a su ley orgánica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2024)</small>
+
 ###### Artículo 27.
 
-Además de lo señalado en el artículo 73 de la Ley General y el artículo 21 del presente ordenamiento, el Poder Judicial del Estado, deberá publicar la siguiente información:
+Además de lo señalado en el artículo 73 de la Ley General y el Artículo 21 del presente ordenamiento, el Poder Judicial del estado, deberá publicar la siguiente información:
 
 I. Por conducto del Tribunal Superior de Justicia:
 
@@ -841,7 +845,9 @@ I. Por conducto del Tribunal Superior de Justicia:
 
 6. Los principales indicadores sobre la actividad jurisdiccional que deberán incluir, al menos, los asuntos iniciados, en trámite y resueltos;
 
-7. Las listas de acuerdos de todos los órganos jurisdiccionales, las sentencias relevantes con los respectivos votos particulares si los hubiere, en los casos de los Tribunales Colegiados y la jurisprudencia sentada por los órganos competentes para establecerla;
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
+
+7. Las listas de acuerdos de todos los órganos jurisdiccionales, las sentencias de todos los tribunales, las cuales deberán contar con una versión que permita que su lectura sea sencilla y comprensible para cualquier persona, en los casos de los Tribunales Colegiados y la jurisprudencia sentada por los órganos competentes para establecerla;
 
 8. Agenda de audiencias a realizarse, incluyendo número de expediente, nombre de las partes, fecha, hora, distrito y juzgado en que se desahogará. Debiendo publicarse con un plazo mínimo de 3 días antes a su realización;
 
@@ -2009,7 +2015,9 @@ Las resoluciones del instituto deberán contener como mínimo lo siguiente:
 
 I. Lugar, fecha en que se pronuncia, el nombre del recurrente, sujeto obligado y extracto breve de los hechos recurridos;
 
-II. Los preceptos que la fundamenten y las consideraciones que la sustenten;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
+
+II. Los preceptos que la fundamenten y las consideraciones que la sustenten; incluyendo el proceso llevado a cabo para verificar las excepciones y defensas del sujeto obligado cuando se refieran a los supuestos establecidos en las fracciones II, III, IV, V y XII del artículo 109 de este ordenamiento.
 
 III. Los alcances y efectos de la resolución, fijando los plazos y procedimientos necesarios para su cumplimiento;
 
@@ -2055,9 +2063,11 @@ El comisionado ponente podrá en cualquier momento del procedimiento buscar una 
 
 El comisionado ponente podrá tener acceso a la información confidencial o reservada, siempre que sea indispensable para resolver el asunto. El instituto y el comisionado ponente serán responsables de mantener con ese carácter dicha información en los términos de las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
+
 ###### Artículo 122.
 
-Asimismo, cuando se advierta del estudio del recurso de revisión, que el sujeto obligado no posee información, que de conformidad con sus atribuciones y obligaciones legales debía de haber generado, el instituto deberá instruir al sujeto obligado para que la genere y la entregue al recurrente e informe al instituto de su cumplimiento.
+Asimismo, cuando se advierta del estudio del recurso de revisión, que el sujeto obligado no posee información, que de conformidad con sus atribuciones y obligaciones legales debía de haber generado, el instituto deberá instruir al sujeto obligado para que la genere y la entregue al recurrente e informe al instituto de su cumplimiento; igualmente se procederá en los casos en que el sujeto obligado manifieste no poseer la información solicitada o niegue tener el deber de poseerla conforme a sus atribuciones, procediendo en este último caso el Instituto a realizar el análisis detallado de las facultades en controversia, ordenando que se genere la información solicitada.
 
 ###### Artículo 123.
 
@@ -3148,3 +3158,21 @@ El Instituto Coahuilense de Acceso a la Información Pública, en un plazo de cu
 ###### ARTÍCULO CUARTO.
 
 El Consejo General del Instituto, en un plazo de cuarenta y cinco días naturales contados a partir de la entrada en vigor de este Decreto, deberá llevar a cabo las acciones necesarias para adecuar las comisiones que establece la ley, de conformidad con la presente reforma.
+
+P.O. 30 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 677.- SE MODIFICA EL CONTENIDO DE LA FRACCIÓN II DEL ARTÍCULO 117, Y EL CONTENIDO DEL ARTÍCULO 122 DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 678.- SE MODIFICA EL CONTENIDO DE LA FRACCIÓN V DEL ARTÍCULO 21 DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 679.- SE MODIFICA EL ARTÍCULO 27 FRACCIÓN I NUMERAL 7 DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
