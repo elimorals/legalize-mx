@@ -4,7 +4,7 @@ identifier: "COA-ley-de-aguas-para-los-municipios-del-estado-de-coahuila-de-6739
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-24"
-last_updated: "2022-06-24"
+last_updated: "2024-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,9 @@ state: "COA"
 ---
 # LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-(NOTA 1: EL 30 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 124/2022, DECLARÓ LA INVALIDEZ DEL DECRETO 245, POR EL QUE SE REFORMAN LOS INCISOS A), B), C) Y D) DE LA FRACCIÓN II DEL ARTÍCULO 24 DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTICUATRO DE JUNIO DE DOS MIL VEINTIDÓS, LA CUAL SURTIÓ EFECTOS EL 20 DE FEBRERO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-(NOTA 2: EL 1 DE FEBRERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 152/2022, DECLARÓ LA INVALIDEZ DEL DECRETO 245, POR EL QUE SE REFORMAN LOS INCISOS A), B), C) Y D) DE LA FRACCIÓN II DEL ARTÍCULO 24 DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTICUATRO DE JUNIO DE DOS MIL VEINTIDÓS, LA CUAL SURTIÓ EFECTOS EL 5 DE MARZO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
 LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 24 de febrero de 2009.
 
@@ -150,6 +144,18 @@ Las obras destinadas al abastecimiento de agua a los centros de población, come
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2019)</small>
 
 En todo caso, la calidad del agua potable para consumo humano deberá ser de la más alta calidad, cumpliendo con la normatividad en la materia, para evitar sea fuente de problemas de salud pública. Los organismos operadores informarán a sus usuarios, mensualmente de los resultados que sobre calidad del agua realicen en su sistema, a través de su página de Internet y/o en el tablero de avisos de sus oficinas al público. El servicio doméstico de agua para consumo humano es prioritario, por lo que su contratación será expedita, tanto como el mantenimiento y las reparaciones al sistema de distribución, así mismo, los trabajos de conexión y reconexión domiciliaria se procurará realizarlos dentro de las 24 horas siguientes al momento de la contratación del servicio o de que el usuario con adeudos atrasados se regularice en el pago del suministro.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2024)</small>
+
+Las albercas, cualquiera sea su destino o finalidad, públicas o privadas, deberán contar con equipos de filtración, purificación y recirculación del agua.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2024)</small>
+
+De igual forma, los propietarios de albercas de tipo portátil cuya capacidad sea superior a cinco mil litros, deberán garantizar el reuso o aprovechamiento conforme a las normas oficiales y; a los reglamentos y lineamientos expedidos por los municipios y los organismos operadores.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2024)</small>
+
+Asimismo, las fuentes ornamentales deberán contar con equipos de recirculación del agua.
 
 ###### ARTÍCULO 4.
 
@@ -1276,3 +1282,9 @@ P.O. 24 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 245.- SE REFORMAN LOS INCISOS A), B), C), Y D) DE LA FRACCIÓN II DEL ARTÍCULO 24 DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 583.- SE ADICIONAN TRES PÁRRAFOS AL ARTÍCULO 3 DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
