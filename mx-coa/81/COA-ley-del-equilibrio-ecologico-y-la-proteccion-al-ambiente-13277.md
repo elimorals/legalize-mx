@@ -4,7 +4,7 @@ identifier: "COA-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-13277"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-08"
-last_updated: "2020-11-27"
+last_updated: "2024-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de diciembre de 1998.
 
@@ -167,101 +167,109 @@ XXXI.- Emergencia ecológica: Situación derivada de actividades humanas o fenó
 
 XXXII.- Emisión: Descarga directa e indirecta a la atmósfera de energía, o de sustancias o materiales en cualesquiera de sus estados físicos.
 
-XXXIII.- Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación.
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2024)</small>
 
-XXXIV.- Flora silvestre: Las especies vegetales así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especímenes de estas especies que se encuentran bajo control del hombre.
+XXXIII.- Electrolineras o estación de carga para autos eléctricos y de vehículos híbridos recargables: Es la infraestructura urbana de carácter pública o privada alimentada de la red eléctrica, mediante la cual se dispensa de energía, para la recarga de la batería de los vehículos eléctricos.
 
-XXXV.- Fuente fija: Toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera.
+XXXIV.- Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación.
 
-XXXVI.- Fuente móvil: Cualquier máquina, aparato o dispositivo emisor de contaminantes a la atmósfera, al agua y al suelo que no tienen un lugar fijo.
+XXXV.- Flora silvestre: Las especies vegetales así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especímenes de estas especies que se encuentran bajo control del hombre.
 
-XXXVII.- Impacto ambiental: La modificación del ambiente ocasionada por la acción del hombre o de la naturaleza.
+XXXVI.- Fuente fija: Toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera.
 
-XXXVIII.- Jales: Los residuos generados en las operaciones primarias de separación y concentración de minerales. Término mexicano que se aplica a los depósitos de materiales residuales que resultan del procedimiento de minerales útiles. Se trata de acumulación por la acción del hombre, que llegan a ocupar superficies de varios kilómetros cuadrados y alturas de diez o más metros.
+XXXVII.- Fuente móvil: Cualquier máquina, aparato o dispositivo emisor de contaminantes a la atmósfera, al agua y al suelo que no tienen un lugar fijo.
 
-XXXIX.- LGEEPA: Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+XXXVIII.- Impacto ambiental: La modificación del ambiente ocasionada por la acción del hombre o de la naturaleza.
 
-XL.- Manifestación de impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo.
+XXXIX.- Jales: Los residuos generados en las operaciones primarias de separación y concentración de minerales. Término mexicano que se aplica a los depósitos de materiales residuales que resultan del procedimiento de minerales útiles. Se trata de acumulación por la acción del hombre, que llegan a ocupar superficies de varios kilómetros cuadrados y alturas de diez o más metros.
 
-XLI.- Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia.
+XL.- LGEEPA: Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
-XLII.- Material peligroso: Los elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, representen un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas.
+XLI.- Manifestación de impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo.
 
-XLIII.- Ordenamiento Ecológico: El instrumento de política ambiental que tiene por objeto regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos.
+XLII.- Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia.
 
-XLIV.- Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de sus hábitat naturales.
+XLIII.- Material peligroso: Los elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, representen un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas.
 
-XLV.- Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente.
+XLIV.- Ordenamiento Ecológico: El instrumento de política ambiental que tiene por objeto regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos.
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+XLV.- Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de sus hábitat naturales.
 
-XLVI.- Procuraduría.- Procuraduría de Protección al Ambiente del Estado de Coahuila.
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
-
-XLVII.- Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro.
+XLVI.- Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-XLVIII.- Reciclaje: El proceso por el cual algunos materiales de desecho son transformados en productos nuevos, de tal manera que los desechos originales pierden su identidad y se convierten en materia prima para nuevos productos.
+XLVII.- Procuraduría.- Procuraduría de Protección al Ambiente del Estado de Coahuila.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-XLIX.- Recursos biológicos: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano y para el ambiente.
+XLVIII.- Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-L.- Recursos genéticos: El material genético de valor real o potencial.
+XLIX.- Reciclaje: El proceso por el cual algunos materiales de desecho son transformados en productos nuevos, de tal manera que los desechos originales pierden su identidad y se convierten en materia prima para nuevos productos.
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+L.- Recursos biológicos: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano y para el ambiente.
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+LI.- Recursos genéticos: El material genético de valor real o potencial.
 
 (REFORMADA, P.O. 19 DE DICIEMBRE DE 2014) (F. DE E., P.O. 24 DE MARZO DE 2015)
 
-LI.- Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre.
+LII.- Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LII.- Región Ecológica: La unidad del territorio estatal que comparte características ecológicas comunes.
+LIII.- Región Ecológica: La unidad del territorio estatal que comparte características ecológicas comunes.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LIII.- Registro: El registro que se integra con la información de los establecimientos sujetos a reporte sobre sus emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos, así como de aquellas sustancias determinadas por la Secretaría, información que posteriormente se integrará el (sic) Sistema administrativo por la Autoridad Federal.
+LIV.- Registro: El registro que se integra con la información de los establecimientos sujetos a reporte sobre sus emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos, así como de aquellas sustancias determinadas por la Secretaría, información que posteriormente se integrará el (sic) Sistema administrativo por la Autoridad Federal.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LIV.- Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó.
+LV.- Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LV.- Residuos sólidos: Sobrantes sólidos de procesos domésticos, industriales o agrícolas.
+LVI.- Residuos sólidos: Sobrantes sólidos de procesos domésticos, industriales o agrícolas.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LVI.- Residuos sólidos municipales: Residuos sólidos que resultan de las actividades domésticas, comerciales y de servicios en pequeña escala no considerados como peligrosos, conforme a la normatividad ambiental vigente.
+LVII.- Residuos sólidos municipales: Residuos sólidos que resultan de las actividades domésticas, comerciales y de servicios en pequeña escala no considerados como peligrosos, conforme a la normatividad ambiental vigente.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LVII.- Residuo sólido no peligroso: Todo aquel que no resulte peligroso de acuerdo con los listados que para tal efecto expida la Secretaría de Medio Ambiente y Recursos Naturales.
+LVIII.- Residuo sólido no peligroso: Todo aquel que no resulte peligroso de acuerdo con los listados que para tal efecto expida la Secretaría de Medio Ambiente y Recursos Naturales.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LVIII.- Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales.
+LIX.- Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LIX.- Reuso: La utilización de todos los residuos o desechos sólidos, líquidos o gaseosos que puedan ser utilizados nuevamente, ya sea en su estado actual o por medio de transformaciones físicas, químicas, mecánicas o biológicas.
+LX.- Reuso: La utilización de todos los residuos o desechos sólidos, líquidos o gaseosos que puedan ser utilizados nuevamente, ya sea en su estado actual o por medio de transformaciones físicas, químicas, mecánicas o biológicas.
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-LX.- Secretaría: La Secretaría de Medio Ambiente y Desarrollo Urbano; y
-
-LXI.- (DEROGADA, P.O. 24 DE JULIO DE 2020)
+LXI.- Secretaría: La Secretaría de Medio Ambiente y Desarrollo Urbano; y
 
 LXII.- (DEROGADA, P.O. 24 DE JULIO DE 2020)
 
 LXIII.- (DEROGADA, P.O. 24 DE JULIO DE 2020)
 
+LXIV.- (DEROGADA, P.O. 24 DE JULIO DE 2020)
+
 > <small>(ADICIONADA, P.O. 15 DE ENERO DE 2019)</small>
 
-LXIV.- Bolsa reutilizable: Tipo de empaque que por el material del que está fabricado, tiene como fin ser usado más de cinco veces, pude (sic) ser de fibra natural o sintética.
+LXV.- Bolsa reutilizable: Tipo de empaque que por el material del que está fabricado, tiene como fin ser usado más de cinco veces, pude (sic) ser de fibra natural o sintética.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2024)</small>
+
+LXV (SIC).- Contaminación por Ruido: Todo sonido generado por actividades humanas, que, por su intensidad, frecuencia o duración, implique riesgo, molestia, perjuicio o daño para las personas, para otros seres vivos o para el ambiente, o los que superen los niveles fijados por las normas oficiales mexicanas.
 
 ###### ARTICULO 4º.
 
@@ -2051,6 +2059,14 @@ ARTICULO 119 BIS.- Los propietarios y/o poseedores de vehículos automotores, cu
 
 La autoridad municipal solamente podrá ejercer las atribuciones en materia de verificación vehicular, previstas en este capítulo y otorgar las constancias de cumplimiento, respecto de las unidades automotrices con domicilio inscrito en su municipio, conforme el padrón vehicular respectivo.
 
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2024)</small>
+
+ARTICULO 119 TER.- La construcción de un nuevo espacio, plaza comercial, hotel y edificios públicos, sea de carácter público o privado, deberán contar en las inmediaciones de sus instalaciones con cajones de estacionamiento que cuenten con al menos una electrolinera o estación de red eléctrica, que permitan la carga de autos eléctricos y de vehículos híbridos recargables. Dichas electrolineras deberán cumplir con los requisitos y lineamientos que disponga esta ley y las normas oficiales mexicanas.
+
+La autoridad municipal a través de su área competente para conocer de la construcción de nuevos espacios y establecimientos, previamente a la aprobación de estos proyectos, deberá asegurarse que toda planificación contemple la instalación de al menos una electrolinera o estación de red eléctrica para la carga de autos eléctricos y de vehículos híbridos recargables, a no ser que se compruebe fehacientemente que resulta imposible cumplir con las normas oficiales mexicanas que garanticen las condiciones adecuadas de seguridad para las personas y sus propiedades en sus instalaciones.
+
+En caso de incumplimiento a lo señalado en el párrafo anterior, la autoridad municipal competente, demandará ante el Juzgado con Especialización Ambiental. El Juzgado llevará el juicio correspondiente para que resuelva lo que haya lugar.
+
 ### CAPITULO III. DEL RUIDO, DE LAS VIBRACIONES, DE LAS ENERGIAS TERMICA Y LUMINICA, DE LOS OLORES Y DE LA CONTAMINACION VISUAL
 
 ###### ARTICULO 120.
@@ -2465,6 +2481,8 @@ Cuando el Ejecutivo del Estado o los municipios deban resolver un asunto sobre e
 
 ### CAPITULO II. DEL DERECHO A LA INFORMACION AMBIENTAL
 
+[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 683 PUBLICADO EN EL P.O. DE 30 DE ENERO DE 2024, SE ADVIERTE QUE ESTE ARTÍCULO 160, SE MODIFICÓ EL TERCER PÁRRAFO CONFORME AL TEXTO QUE TENÍA ANTES DEL DECRETO DE REFORMA DEL 15 DE DICIEMBRE DE 2006, A SABER: “En dicho Sistema Estatal, deberá integrarse, entre otros aspectos, información relativa a los inventarios de recursos naturales existentes en el territorio estatal, a los mecanismos y resultados obtenidos del monitoreo de la calidad del aire, de la radiación solar, del agua y del suelo, al ordenamiento ecológico del estado, así como la información correspondiente a los registros, programas y acciones que se realicen para la preservación del equilibrio ecológico y la protección al ambiente”.] SE SUGIERE CONSULTAR EL TEXTO COMPLETO DE ESTE ARTÍCULO EN LA CRONOLOGÍA DE REFORMAS HASTA ANTES DEL DECRETO DE REFORMA DEL 15 DE DICIEMBRE DE 2006.
+
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 160.
@@ -2474,6 +2492,10 @@ La Secretaría, desarrollará un Sistema Estatal de Información Ambiental y de 
 La Secretaría reunirá informes y documentos relevantes que resulten de las actividades científicas, trabajos técnicos o de cualquier índole en materia ambiental y de preservación de recursos naturales, realizados en el estado por personas físicas o morales, nacionales o extranjeras, los que serán remitidos al Sistema Estatal de Información Ambiental y de Recursos Naturales.
 
 Las disposiciones previstas por este capítulo para la Secretaría, serán aplicables para los municipios en el ámbito de su respectiva competencia.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2024)</small>
+
+ARTICULO 160 BIS.- La Secretaría será la encargada de emitir alertas ambientales correspondientes a diversos asuntos como parte de los derechos ciudadanos a la información.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
 
@@ -3334,3 +3356,31 @@ P.O. 27 DE NOVIEMBRE DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 681.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los municipios contarán con un plazo de hasta sesenta días naturales, contados a partir del día siguiente de la entrada en vigor de este Decreto, para crear los consejos a que alude el artículo 15 de este ordenamiento.
+
+TERCERO.- En un plazo no mayor a tres meses, contados a partir de la entrada en vigor del presente Decreto, el Estado y los municipios, en sus respectivos ámbitos de competencia, deberán realizar las adecuaciones legales y reglamentarias para armonizar sus marcos legales con las disposiciones de este Decreto.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 683.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 160 Y SE ADICIONA EL ARTÍCULO 160 BIS, DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 684.- SE ADICIONA EL ARTÍCULO 119 TER DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+SEGUNDO.- En un plazo no mayor a tres meses, contados a partir de la entrada en vigor del presente decreto, los municipios, en sus respectivos ámbitos de competencia, deberán realizar las adecuaciones legales y reglamentarias para armonizar sus marcos legales con las disposiciones de este decreto.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
