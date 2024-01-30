@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-la-procuraduria-de-proteccion-al-ambiente-del-6613
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-17"
-last_updated: "2009-01-17"
+last_updated: "2024-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66136&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY QUE CREA LA PROCURADURIA DE PROTECCION AL AMBIENTE DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el sábado 17 de enero de 2009.
 
@@ -44,6 +44,10 @@ LEY QUE CREA LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA
 ###### Artículo 1.
 
 La presente Ley es de orden público e interés social y tiene por objeto la creación de la Procuraduría de Protección al Ambiente del Estado de Coahuila, como órgano desconcentrado de la Secretaría de Medio Ambiente de la Administración Pública del Estado de Coahuila, con autonomía técnica y operativa, para vigilar y evaluar el cumplimiento de las obligaciones y disposiciones previstas en esta ley, en la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Coahuila de Zaragoza, en su reglamento interno y demás disposiciones aplicables a fin de incrementar su observancia y contribuir al desarrollo sustentable del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2024)</small>
+
+La Procuraduría tiene por objeto la defensa de los derechos de los habitantes del Estado de Coahuila a disfrutar de un ambiente adecuado para su desarrollo, salud y bienestar, mediante la promoción y vigilancia del cumplimiento de las disposiciones jurídicas en materia ambiental, conforme a las atribuciones que se le otorgan en el presente ordenamiento.
 
 ###### Artículo 2.
 
@@ -109,6 +113,10 @@ Las atribuciones de la Procuraduría se establecerán en su Reglamento Interior,
 
 I. Vigilar y evaluar el cumplimiento de las obligaciones y disposiciones previstas que le correspondan en esta ley, en la LEEPAEC y demás ordenamientos en materia de protección al ambiente;
 
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2024)</small>
+
+I Bis. Ejercer ante el Tribunal de Justicia Fiscal y Administrativa y otros órganos jurisdiccionales, las acciones necesarias para representar los intereses de la Procuraduría, el interés legítimo de las personas que resulten o puedan resultar afectadas por actos, hechos u omisiones que impliquen o puedan implicar violaciones, incumplimientos o falta de aplicación de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial, de conformidad con las normas que en cada caso resulten aplicables;
+
 II. Recibir, investigar y atender las quejas y denuncias referentes a la violación o incumplimiento de las disposiciones jurídicas establecidas en esta ley, en la LEEPAEC y demás ordenamientos en la materia;
 
 III. Realizar visitas de inspección e instaurar los procedimientos jurídico (sic) administrativos por incumplimiento de las obligaciones previstas en esta ley, en la LEEPAEC, sus reglamentos y demás ordenamientos en la materia;
@@ -143,7 +151,35 @@ XVII. Proponer al titular de la Secretaría, la celebración de convenios o acue
 
 XVIII. Coadyuvar con la Secretaría y/ó Subsecretaría de Control Ambiental en los programas y acciones establecidos para incrementar la gestión ambiental en materia de prevención y control de la contaminación atmosférica, residuos de manejo especial y el registro de emisiones y transferencia de contaminantes, y
 
-XIX. Las demás que le confieran esta ley, la LEEPAEC, otras disposiciones aplicables y su superior jerárquico.
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2024)</small>
+
+XIX. Fomentar y promover el establecimiento de sistemas de certificación de procesos o productos para inducir patrones de consumo que sean compatibles o que preserven, mejoren, conserven o restauren el medio ambiente;
+
+XX. Las demás que le confieran esta ley, la LEEPAEC, otras disposiciones aplicables y su superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2024)</small>
+
+###### Artículo 7 Bis.
+
+La Procuraduría en cualquier momento de sus procedimientos, solicitará a las autoridades competentes la revocación y/o el inicio del juicio de lesividad, en los casos que sean procedentes.
+
+En caso de iniciarse el juicio de lesividad, la Procuraduría podrá intervenir como tercero interesado.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2024)</small>
+
+###### Artículo 7 Bis 1.
+
+Para la defensa de los derechos ambientales de los habitantes del Estado, la Procuraduría a través de la Subprocuraduría de Asuntos Jurídicos, representará el interés legítimo de las personas ante el Tribunal de Justicia Fiscal y Administrativa y otros órganos jurisdiccionales o administrativos federales o locales, en los términos previstos en las disposiciones legales aplicables, para lo cual, de manera enunciativa más no limitativa, podrá:
+
+I. Presentar las acciones correspondientes ante el Tribunal de Justicia Fiscal y Administrativa y otros órganos jurisdiccionales para demandar los actos dictados en contra del orden público y el interés social a consecuencia de violaciones a las disposiciones jurídicas en materia ambiental;
+
+II. Iniciar juicio de lesividad por construcciones, cambios de uso del suelo o cambios del destino del suelo u otros aprovechamientos de inmuebles, que contravengan lo establecido en las disposiciones jurídicas en materia ambiental;
+
+III. Demandar ante los tribunales competentes, la responsabilidad por el daño ambiental;
+
+IV. Ejercer acciones de orden civil, derivadas de actos, hechos u omisiones que afecten el interés legítimo de la población por violaciones a disposiciones jurídicas en materia ambiental, y
+
+V. Ejercer todas las acciones, denuncias o querellas ante la Fiscalía General del Estado de Coahuila, a fin de garantizar la protección del medio ambiente, evitar el maltrato a los animales y preservar los recursos naturales.
 
 ###### Artículo 8.
 
@@ -169,11 +205,17 @@ IX. Definir, establecer y mantener los sistemas de información, evaluación y c
 
 X. Expedir copias certificadas de los documentos que obran en sus archivos sobre asuntos que competan a la Procuraduría, de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-XI. Presentar al titular de la Secretaría un informe anual sobre las actividades y avancen (sic) en materia de protección y preservación del equilibrio ecológico, que la Procuraduría haya realizado en dicho periodo;
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2024)</small>
 
-XII. Someter a consideración del titular de la Secretaría su proyecto de reglamento interior y las demás disposiciones que sean necesarias para el ejercicio de las funciones, y
+XI. Fomentar el desarrollo con cámaras de industria, comercio y otras actividades productivas, organizaciones de productores y representativas de una zona o región, instituciones de investigación científica y tecnológica, el desarrollo de los procesos productivos adecuados y compatibles con el ambiente, así como sistemas de protección y restauración en beneficio al ambiente;
 
-XIII. Las demás que establezca esta ley, la LEEPAEC, las demás disposiciones aplicables y las que le encomiende directamente el titular de la Secretaría.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
+
+XII. Presentar al titular de la Secretaría un informe anual sobre las actividades y avances en materia de protección y preservación del equilibrio ecológico, que la Procuraduría haya realizado en dicho periodo;
+
+XIII. Someter a consideración del titular de la Secretaría su proyecto de reglamento interior y las demás disposiciones que sean necesarias para el ejercicio de las funciones, y
+
+XIV. Las demás que establezca esta ley, la LEEPAEC, las demás disposiciones aplicables y las que le encomiende directamente el titular de la Secretaría.
 
 ###### Artículo 9.
 
@@ -212,6 +254,10 @@ El titular de la Procuraduría se auxiliará de las unidades administrativas des
 La Coordinación Jurídica de la Procuraduría, tendrá bajo su responsabilidad el ejercicio de las siguientes atribuciones:
 
 I. Representar a la Procuraduría, previo acuerdo del titular de la Procuraduría y otorgamiento del poder correspondiente, en los asuntos judiciales, extrajudiciales y administrativos;
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2024)</small>
+
+I Bis. Ejercer ante el Tribunal de Justicia Fiscal y Administrativa y otros órganos jurisdiccionales o administrativos, por instrucción del titular de la Procuraduría, las acciones necesarias para representar el interés legítimo de las personas, que resulten o puedan resultar afectadas por actos, hechos u omisiones que implique o puedan implicar violaciones, incumplimiento o falta de aplicación de las disposiciones jurídicas en materia ambiental en el Estado de Coahuila;
 
 II. Elaborar y mantener actualizado un sistema de compilación de la legislación federal, estatal y municipal vigente en materia de equilibrio ecológico y protección al ambiente y ponerlo a disposición del personal de la Procuraduría;
 
@@ -394,3 +440,21 @@ EL SECRETARIO DE LA FUNCIÓN PÚBLICA
 ING. ISMAEL E. RAMOS FLORES
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 582.- SE ADICIONAN UN SEGUNDO PÁRRAFO AL ARTÍCULO 1, LA FRACCIÓN I BIS Y LA FRACCIÓN XIX RECORRIENDO LA SUBSECUENTE, DEL ARTÍCULO 7, LOS ARTÍCULOS 7 BIS Y 7 BIS I, LA FRACCIÓN XI RECORRIENDO LAS SUBSECUENTES DEL ARTÍCULO 8, ASÍ COMO LA FRACCIÓN I BIS AL ARTÍCULO 12, TODOS DE LA LEY QUE CREA LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Coahuila.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor de la presente Ley, se procederá en un plazo de 60 días hábiles a modificar las disposiciones reglamentarias necesarias para incorporar el contenido del presente decreto.
