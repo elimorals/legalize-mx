@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-familia-de-coahuila-de-zaragoza-110810"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2020-11-27"
+last_updated: "2024-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 15 de diciembre de 2015.
 
@@ -2897,9 +2897,11 @@ La niña o niño debe vivir con el ascendiente o ascendientes que desempeñen la
 
 La niña o niño no podrá dejar el domicilio familiar sin permiso de quien o quienes desempeñen la patria potestad mientras dure ésta.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
+
 ###### Artículo 413.
 
-Las personas que desempeñan la patria potestad de una niña o niño, deben educarlo convenientemente y tienen la facultad de corregirlo de una manera prudente y moderada; en ningún caso esta facultad implicará cualquier forma de maltrato. Las mismas personas tienen la obligación de observar una conducta que sirva a niñas y niños de buen ejemplo.
+Las personas que desempeñan la patria potestad de una niña o niño, deben educarlo convenientemente y tienen la facultad de corregirlo de una manera prudente y moderada; en ningún caso esta facultad implicará cualquier forma de maltrato, castigo corporal y/o humillante. Las mismas personas tienen la obligación de observar una conducta que sirva a niñas y niños de buen ejemplo.
 
 ###### Artículo 414.
 
@@ -4031,6 +4033,10 @@ IV. Desarrollar vínculos afectivos con la niña o niño.
 
 V. Establecer límites y normas de conducta atendiendo al interés superior de la niña o niño.
 
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2024)</small>
+
+Queda prohibido que la madre, padre o cualquier persona que ejerza la patria potestad, tutela o guarda, custodia y crianza de niñas, niños y adolescentes, utilice el castigo corporal o humillante como forma de corrección o disciplina de niñas, niños o adolescentes.
+
 Se considerará incumplimiento de las obligaciones de crianza, el que sin justificación y de manera permanente y sistemática, no realicen las actividades señaladas, lo que el juez valorará en los casos de suspensión de la patria potestad, de la determinación de la tutela, guarda y custodia provisional y definitiva, así como del régimen de convivencia.
 
 ## TÍTULO DÉCIMO. DEL PATRIMONIO DE LA FAMILIA
@@ -4395,9 +4401,9 @@ Se entiende por integrante de la familia a la persona que se encuentre unida a o
 
 No se justifica en ningún caso como forma de educación o formación el ejercicio de la violencia hacia las niñas y niños.
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
 
-Las personas que ejerzan la patria potestad, guarda y custodia, o tutela, de niñas, niños o adolescentes, no les podrán infligir castigo corporal alguno que atente contra la dignidad humana, como forma de corrección disciplinaria.
+Las personas que ejerzan la patria potestad, guarda y custodia, o tutela, de niñas, niños o adolescentes, no les podrán infligir castigo corporal y/o castigo humillante alguno que atente contra la dignidad humana, como forma de corrección disciplinaria, en los términos de lo dispuesto por la fracción XVIII del artículo 4 y demás relativos de la Ley del Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas del Estado de Coahuila de Zaragoza.
 
 > <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
 
@@ -4694,3 +4700,11 @@ P.O. 27 DE NOVIEMBRE DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 694.- SE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 4 Y LA FRACCIÓN II DEL ARTÍCULO 27 DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO, 413, ASÍ COMO EL CUARTO PÁRRAFO DEL ARTÍCULO 648 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 598 BIS, RECORRIENDO EL ULTERIOR, TODOS DE LA LEY PARA LA FAMILIA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
