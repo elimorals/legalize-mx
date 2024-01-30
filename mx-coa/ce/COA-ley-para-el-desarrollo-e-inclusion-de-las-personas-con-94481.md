@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-e-inclusion-de-las-personas-con-94481"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2023-12-08"
+last_updated: "2024-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -422,6 +422,10 @@ IX. Promover en las empresas del Estado el desarrollo personal y educativo de su
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2023)</small>
 
 X. Impulsar la difusión de oportunidades de empleo en el Estado, mediante el uso de fuentes de información accesibles en formato de lectura fácil y la tecnología adecuada a los diferentes tipos de discapacidad.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2024)</small>
+
+XI. Impulsar acciones entre los sectores público, social y privado para la creación y desarrollo de bolsas de trabajo, incluyendo los programas de capacitación para las vacantes vigentes.
 
 ###### Artículo 19°.
 
@@ -1446,3 +1450,9 @@ En un plazo de sesenta días naturales contados a partir de la publicación del 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 30 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 680.- SE ADICIONA LA FRACCIÓN XI, AL ARTÍCULO 18 DE LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
