@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2023-10-24"
+last_updated: "2024-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -41,13 +41,19 @@ LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZA
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2024)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, de interés social y de observancia general en el Estado de Coahuila de Zaragoza. Tiene por objeto reconocer, garantizar y proteger el ejercicio de los derechos de las personas adultas mayores, con perspectiva de género, a efecto de elevar su calidad de vida y promover su plena integración al desarrollo social, económico, político y cultural de la entidad, así como establecer las bases y disposiciones para su cumplimiento, a través de:
+La presente ley es de orden público, de interés social y de observancia general en el Estado de Coahuila de Zaragoza. Tiene por objeto reconocer, garantizar y proteger el pleno goce y ejercicio, en condiciones de igualdad, de todos los derechos humanos y libertades fundamentales de las personas adultas mayores, con perspectiva de género, establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Coahuila de Zaragoza, los tratados y convenciones Internacionales en materia de derechos humanos de los que el Estado Mexicano sea parte, a efecto de elevar su calidad de vida y contribuir a su plena inclusión, integración y participación en la sociedad y en el desarrollo social, económico, político y cultural de la entidad, así como establecer las bases y disposiciones para su cumplimiento, a través de:
 
-I. Políticas públicas estatales para la tutela de los derechos de las personas adultas mayores.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
 
-II. Los principios, objetivos, programas, responsabilidades e instrumentos que los órdenes de gobierno estatal y municipal deberán observar en la planeación y aplicación de las citadas políticas públicas.
+I. Políticas públicas estatales para la observancia y tutela de los derechos de las personas adultas mayores.
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
+
+II. Los derechos, principios, objetivos, programas, responsabilidades e instrumentos que los órdenes de gobierno estatal y municipal deberán observar en la planeación y aplicación de las citadas políticas públicas.
 
 III. Las acciones y programas que implemente el Instituto Coahuilense de las Personas Adultas Mayores.
 
@@ -83,7 +89,9 @@ Las dependencias y entidades encargadas de la aplicación, seguimiento y vigilan
 
 La Secretaría de Inclusión y Desarrollo Social coordinará el diseño, instrumentación y ejecución de las acciones que realice a favor de las personas adultas mayores con aquellas que lleven a cabo las dependencias y entidades del Estado y de los municipios, a efecto de que los programas que estos diseñen y ejecuten para las personas adultas mayores resulten congruentes con las políticas públicas estatales, los principios contenidos en esta ley y tiendan a los objetivos previstos en la misma. Para tal efecto, propiciará la intervención de los sectores social y privado en los servicios de asistencia a este sector de la población.
 
-Asimismo, la Secretaría de Inclusión y Desarrollo Social promoverá, ejecutará y coordinará con los distintos órdenes de gobierno la suscripción de convenios de colaboración, con el objeto de implementar programas preventivos hacia las personas adultas mayores, brindar información gerontológica en los ámbitos médico, jurídico, social, cultural y económico, entre otros, con el objeto de incrementar la cultura de las personas adultas mayores.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
+
+Asimismo, la Secretaría de Inclusión y Desarrollo Social promoverá, ejecutará y coordinará con los distintos órdenes de gobierno la suscripción de convenios de colaboración, con el objeto de implementar programas preventivos hacia las personas adultas mayores, brindar información gerontológica en los ámbitos médico, psicológico, jurídico, social, cultural y económico, entre otros, con el objeto de incrementar la cultura de las personas adultas mayores.
 
 ###### Artículo 5.
 
@@ -158,6 +166,42 @@ XXI. Violencia contra las Personas Adultas Mayores: Cualquier acción u omisión
 > <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2020)</small>
 
 XXII. Ciudades Amigables para adultos mayores: aquellas que alientan el envejecimiento activo mediante optimización de oportunidades de salud, participación y seguridad, a fin de mejorar la calidad de vida de las personas mientras envejecen, proporcionando la infraestructura y servicios necesarios para la población de 60 años o más.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2024)</small>
+
+XXIII. Cuidados paliativos: La atención y cuidado activo, integral e interdisciplinario de pacientes cuya enfermedad no responde a un tratamiento curativo o sufren dolores evitables, a fin de mejorar su calidad de vida hasta el fin de sus días. Implica una atención primordial al control del dolor, de otros síntomas y de los problemas sociales, psicológicos y espirituales de la persona adulta mayor. Abarcan al paciente, su entorno y su familia. Afirman la vida y consideran la muerte como un proceso normal; no la aceleran ni retrasan.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2024)</small>
+
+XXIV. Discriminación: Cualquier distinción, exclusión, restricción que tenga como objetivo o efecto anular o restringir el reconocimiento, goce o ejercicio en igualdad de condiciones de los derechos humanos y las libertades fundamentales en la esfera política, económica, social, cultural o en cualquier otra esfera de la vida pública y privada.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2024)</small>
+
+XXV. Discriminación múltiple: Cualquier distinción, exclusión o restricción hacia la persona adulta mayor fundada en dos o más factores de discriminación.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2024)</small>
+
+XXVI. Discriminación por edad en la vejez: Cualquier distinción, exclusión o restricción basada en la edad que tenga como objetivo o efecto anular o restringir el reconocimiento, goce o ejercicio en igualdad de condiciones de los derechos humanos y libertades fundamentales en la esfera política, económica, social, cultural o en cualquier otra esfera de la vida pública y privada.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2024)</small>
+
+XXVII. Envejecimiento: Proceso gradual que se desarrolla durante el curso de vida y que conlleva cambios biológicos, fisiológicos, psico-sociales y funcionales de variadas consecuencias, las cuales se asocian con interacciones dinámicas y permanentes entre el sujeto y su medio.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2024)</small>
+
+XXVIII. Envejecimiento activo y saludable: Proceso por el cual se optimizan las oportunidades de bienestar físico, mental y social, de participar en actividades sociales, económicas, culturales, espirituales y cívicas, y de contar con protección, seguridad y atención, con el objetivo de ampliar la esperanza de vida saludable y la calidad de vida de todos los individuos en la vejez, y permitirles así seguir contribuyendo activamente a sus familias, amigos, comunidades y naciones. El concepto de envejecimiento activo y saludable se aplica tanto a individuos como a grupos de población.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2024)</small>
+
+XXIX. Maltrato: Acción u omisión, única o repetida, contra una persona adulta mayor que produce daño a su integridad física, psíquica y moral y que vulnera el goce o ejercicio de sus derechos humanos y libertades fundamentales, independientemente de que ocurra en una relación de confianza.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2024)</small>
+
+XXX. Negligencia: Error involuntario o falta no deliberada, incluido entre otros, el descuido, omisión, desamparo e indefensión que le causa un daño o sufrimiento a una persona adulta mayor, tanto en el ámbito público como privado, cuando no se hayan tomado las precauciones normales necesarias de conformidad con las circunstancias.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2024)</small>
+
+XXXI. Vejez: Construcción social de la última etapa del curso de vida.
 
 > <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
 
@@ -291,15 +335,25 @@ XIV. Protagonismo: El proceso para la participación efectiva y el empoderamient
 
 De manera enunciativa y no limitativa, esta Ley reconoce y garantiza a las personas adultas mayores, los siguientes derechos:
 
-I. A la integridad, dignidad y preferencia, por tanto, se reconoce que tienen derecho a:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE ENERO DE 2024)</small>
 
-1. Una vida con calidad. Es obligación de las dependencias y entidades estatales y municipales, de la comunidad, de la familia y de la sociedad en general, garantizar a las personas adultas mayores el acceso a los programas que tengan por objeto posibilitar el ejercicio de este derecho y a los mecanismos necesarios para ello.
+I. A la integridad, dignidad, seguridad y preferencia, por tanto, se reconoce que tienen derecho a:
 
-2. El disfrute pleno de sus derechos, con perspectiva de género y sin discriminación ni distinción alguna, sea cual fuere su condición personal.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
 
-3. Una vida libre sin violencia.
+1. Una vida digna y con calidad. Es obligación de las dependencias y entidades estatales y municipales, de la comunidad, de la familia y de la sociedad en general, garantizar a las personas adultas mayores el acceso a los programas que tengan por objeto posibilitar el ejercicio de este derecho y a los mecanismos necesarios para ello.
 
-4. El respeto de su integridad física, sicoemocional (sic) y sexual.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
+
+2. A la libertad y seguridad personal, así como al disfrute pleno de sus derechos, con perspectiva de género y sin discriminación ni distinción alguna, sea cual fuere su condición personal.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
+
+3. A la seguridad y a una vida libre sin violencia.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
+
+4. El respeto de su integridad física, psicoemocional y sexual, así como a su independencia y autonomía en la toma de decisiones y la definición de su plan de vida.
 
 5. La protección contra toda forma de explotación.
 
@@ -313,7 +367,9 @@ Asimismo, a acceder a programas de viviendas y de transporte económicamente ase
 
 9. Obtener información gerontológica disponible en los ámbitos médico, jurídico, social, cultural y económico y demás relativos, con el objeto de incrementar su cultura, analizar y accionar programas para contribuir a la prevención y autocuidado hacia la vejez.
 
-10. Ser respetados y reconocidos en su calidad de seres humanos, hombres y mujeres, como dignas personas adultas mayores, cualesquiera que sea su origen étnico o racial, impedimentos o situaciones de cualquier tipo.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
+
+10. A la privacidad e intimidad, y a ser respetados y reconocidos en su calidad de seres humanos, hombres y mujeres, como dignas personas adultas mayores, cualesquiera que sea su origen étnico o racial, impedimentos o situaciones de cualquier tipo.
 
 11. Participar, y en reciprocidad con el Estado y la sociedad en general, coparticipar en el aprovechamiento de sus habilidades que sean acordes a su Estado físico y mental.
 
@@ -327,19 +383,27 @@ Asimismo, a acceder a programas de viviendas y de transporte económicamente ase
 
 15. A que se garantice su integridad y todos sus otros derechos en situaciones de riesgo, incluidas situaciones de conflicto armado, emergencias humanitarias y desastres de conformidad con las normas de derecho internacional.
 
-II. A la certeza jurídica, por tanto, se reconoce que tienen derecho a:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE ENERO DE 2024)</small>
 
-1. Recibir un trato digno y apropiado en cualquier procedimiento judicial en que intervengan, ya sea en calidad de partes, agraviados, indiciados o sentenciados o víctimas del delito.
+II. A la propiedad y certeza jurídica, por tanto, se reconoce que tienen derecho a:
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
+
+1. Recibir un trato digno y apropiado en cualquier procedimiento judicial en que intervengan, ya sea en calidad de partes, agraviados, indiciados, procesados o sentenciados o víctimas del delito.
 
 2. Recibir el apoyo jurídico de las Instituciones del Estado y de los Municipios en el ejercicio y respeto de sus derechos.
 
 3. Recibir asesoría jurídica en forma gratuita en cualquier clase de procedimiento judicial o extrajudicial en que sea parte y contar con un representante legal cuando lo considere necesario.
 
-En los procedimientos que señala el párrafo anterior, se deberá tener atención preferente en la protección del patrimonio personal y familiar de la persona adulta mayor y, cuando sea el caso, se le asesorará y orientará para que teste sin presiones ni violencia.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
+
+En los procedimientos que señala el párrafo anterior, se deberá tener atención preferente en la protección del patrimonio personal y familiar de la persona adulta mayor y, cuando sea el caso, se le asesorará y orientará para testar o ejercer cualquier acto de posesión o dominio sobre la propiedad de sus bienes sin presiones ni violencia.
 
 III. A la salud, alimentación y a la familia, por tanto, se reconoce que tienen derecho a:
 
-1. Acceder a servicios médicos y a recibir un paquete preventivo integral de salud y una atención médica integral a través de acciones de prevención, diagnóstico, tratamiento y rehabilitación y recibir, en los términos que corresponda, medicamentos, prótesis y demás dispositivos necesarios para mantener su salud.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
+
+1. Acceder a servicios médicos y a recibir un paquete preventivo integral de salud y una atención médica integral a través de acciones de prevención, diagnóstico, tratamiento y rehabilitación y recibir, en los términos que corresponda, medicamentos, prótesis y demás dispositivos necesarios para mantener su salud y, en su caso, el acceso a cuidados paliativos.
 
 2. Vivir en el seno de una familia o mantener relaciones personales solidarias y contacto directo con ella aún en caso de estar separados, salvo si es contrario a sus intereses. Por tanto, no deberán ser abandonados ni podrá ejercerse sobre ellos ninguna clase de discriminación, abuso o violencia.
 
@@ -347,7 +411,9 @@ III. A la salud, alimentación y a la familia, por tanto, se reconoce que tienen
 
 4. Acceder a alimentación adecuada a sus circunstancias y capacidades, así como a los satisfactores necesarios para ello, considerando una alimentación nutritiva, bienes, servicios y condiciones humanas o materiales para su atención integral en este rubro.
 
-5. Recibir apoyos institucionales en materia alimenticia, cuando carezca de medios propios para ello.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
+
+5. Recibir de manera preferente apoyos institucionales en materia alimenticia, cuando carezca de medios propios para ello.
 
 6. Gozar de calidad, calidez, paciencia y tolerancia en la atención especializada en gerontología y geriatría en los diversos niveles del sector salud.
 
@@ -369,7 +435,9 @@ Dichas autoridades promoverán y proporcionarán una atención pronta y de calid
 
 Las evaluaciones geriátricas deberán realizarse de manera periódica con el fin de conocer los cuidados que requieren las personas adultas mayores y así, detectar, prevenir y combatir los riesgos de cualquier enfermedad.
 
-10. Expresar su opinión libremente, conocer sus derechos y participar en el ámbito familiar y comunitario, así como en todo procedimiento administrativo o judicial, que afecte sus esferas personal, familiar y social.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
+
+10. Expresar su opinión libremente y tener acceso a la información, en igualdad de condiciones y por los medios de su elección; a conocer sus derechos y a participar en el ámbito familiar y comunitario, así como en todo procedimiento administrativo o judicial, que afecte sus esferas personal, familiar y social.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE DICIEMBRE DE 2017)</small>
 
@@ -381,23 +449,25 @@ IV. A la educación, por tanto, se reconoce que tienen derecho a:
 
 1. Recibir la educación que señala el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
 
-a) Recibir información sobre las instituciones públicas cuya función es la de implementar programas para su atención integral y para la proyección de un plan de vida a futuro con calidad y productividad;
+a) Recibir información en formatos accesibles y adecuados sobre las instituciones públicas cuya función es la de implementar programas para su atención integral y para la proyección de un plan de vida a futuro con calidad y productividad;
 
 > <small>(ADICIONADO, P.O. 23 DE ENERO DE 2018)</small>
 
 b) A que existan en (sic) instituciones educativas con certificaciones en oficios o áreas de su preferencia;
 
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
 
-c) A recibir de parte de las instituciones públicas correspondientes, la capacitación necesaria en el uso de las nuevas tecnologías de la información y comunicación.
+c) A recibir de parte de las instituciones públicas correspondientes, la capacitación necesaria y adecuada a sus condiciones, en el uso de las nuevas tecnologías de la información y comunicación.
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
 
 2. Que las instituciones educativas, públicas y privadas estatales propongan, por medio de la Secretaría de Educación y Cultura, que se incluyan en los planes y programas de estudios los conocimientos relacionados con las personas adultas mayores, así como que en los libros de texto gratuitos y en todo material educativo autorizado y supervisado por la Secretaría de Educación Pública del Gobierno federal, se incluya información actualizada sobre el tema del envejecimiento y las personas adultas mayores.
 
-V. Al trabajo, por tanto, se reconoce que tienen derecho a:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE ENERO DE 2024)</small>
+
+V.- Al trabajo y a la seguridad social, por tanto, se reconoce que tienen derecho a:
 
 1. Gozar de igualdad de oportunidades en el acceso al trabajo o de otras opciones que les permitan un ingreso propio en atención a sus circunstancias y desempeñarse en forma productiva tanto tiempo como lo deseen, así como a que se respeten en su favor las disposiciones de la Ley Federal del Trabajo y otros ordenamientos de carácter laboral con el propósito de recibir una capacitación adecuada;
 
@@ -435,7 +505,9 @@ VI. A la asistencia social, por tanto, se reconoce que tienen derecho a:
 
 9. Ser beneficiario de los porcentajes de descuentos concertados y difundidos por el Instituto, en determinados bienes y servicios públicos, establecimientos comerciales, centros hospitalarios y otros prestadores de servicios técnicos y profesionales, así como de los descuentos en transporte público para su cómodo traslado, tarifas en el suministro de agua potable y alcantarillado, así como su afiliación a programas de apoyo a las personas adultas mayores.
 
-VII. A la participación, por tanto, se reconoce que tienen derecho a:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE ENERO DE 2024)</small>
+
+VII. A la participación, integración e inclusión plena y efectiva en la sociedad, por tanto, se reconoce que tienen derecho a:
 
 1. Participar en la planeación integral del desarrollo social, a través de la formulación y aplicación de las decisiones que afecten directamente a su bienestar.
 
@@ -455,7 +527,9 @@ VII. A la participación, por tanto, se reconoce que tienen derecho a:
 
 9. Participar activamente en el diseño de políticas públicas que los afecten directamente.
 
-10. Recibir información sobre las instituciones que prestan servicios para su atención integral.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
+
+10. Recibir información sobre las instituciones que prestan servicios para su atención integral en formatos accesibles y adecuados.
 
 11. A contar con instalaciones e infraestructura inmobiliaria para su uso exclusivo; así como con establecimientos destinados al cuidado, atención, enseñanza y entretenimiento de las personas adultas mayores.
 
@@ -789,7 +863,9 @@ X. Mantener en buen Estado los señalamientos y el mobiliario urbano propios par
 
 XI. Promover la modificación, derogación o abrogación de los ordenamientos estatales vigentes para la supresión de barreras arquitectónicas en apoyo solidario a las personas adultas mayores.
 
-XII. Promover la observancia y el cumplimiento de las disposiciones contenidas en el presente ordenamiento legal en beneficio de las personas adultas mayores.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
+
+XII. Promover la observancia y el cumplimiento de las disposiciones contenidas en el presente ordenamiento legal en beneficio de las personas adultas mayores, así como adoptar medidas para promover una cultura del envejecimiento activo y saludable que erradique la representación negativa que genera prejuicios y estereotipos sobre la vejez.
 
 > <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2016)</small>
 
@@ -1085,11 +1161,11 @@ De igual forma, promoverá ante la Secretaría de Educación y Cultura la coordi
 
 El Instituto Coahuilense de Cultura en coordinación con el Instituto, diseñará programas para promover el esparcimiento y la participación de las personas adultas en las diversas manifestaciones de la cultura. Asimismo para efectuar concursos en los que participen exclusivamente personas adultas mayores, otorgando a los ganadores los reconocimientos y premios correspondientes.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2024)</small>
 
 ###### Artículo 60.
 
-La Secretaría de Desarrollo Económico, Competitividad y Turismo del Estado promoverá actividades de recreación y turísticas diseñadas para las personas adultas mayores y realizará acciones a fin de que en lugares públicos destinados a la recreación se cuente con los espacios y actividades que faciliten la integración de las personas adultas mayores, difundiendo permanentemente a través de los medios masivos de comunicación, las actividades, que se realicen a su favor para lo cual promoverá:
+La Secretaria de Turismo del Estado promoverá actividades de recreación y turísticas diseñadas para las personas adultas mayores y realizará acciones a fin de que en lugares públicos destinados a la recreación se cuente con los espacios y actividades que faciliten la integración de las personas adultas mayores, difundiendo permanentemente a través de los medios masivos de comunicación, las actividades, que se realicen a su favor para lo cual promoverá:
 
 I.- La recreación turística de las personas adultas mayores con tarifas preferentes.
 
@@ -1123,19 +1199,23 @@ En la formulación y ejecución de los programas que implementen las dependencia
 
 La Secretaría de Inclusión y Desarrollo Social del Estado fomentará la participación de los sectores social y privado en la creación, promoción, seguimiento y financiamiento de los programas de atención a las personas adultas mayores y suscribirá convenios de colaboración con instituciones y organismos sociales y privados para el establecimiento de acciones dirigidas a la atención de las personas adultas mayores.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2024)</small>
 
 ###### Artículo 66.
 
-La Secretaría de Educación y Cultura garantizará a las personas adultas mayores:
+La Secretaria de Educación garantizará a las personas adultas mayores:
 
-I. El acceso a la educación pública en todos sus niveles y modalidades y a cualquier otra actividad académica o cultural que contribuya a su desarrollo académico o intelectual y que le permita conservar una actitud de aprendizaje constante y aprovechar toda oportunidad de educación y capacitación que tienda a su realización personal, facilitando los trámites administrativos y difundiendo la oferta general educativa.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
+
+I. El acceso a la educación pública en todos sus niveles y modalidades, así como a programas de alfabetización y postalfabetización, de formación técnica y profesional, a la educación permanente continua y a cualquier otra actividad académica o cultural que contribuya a su desarrollo académico o intelectual y que le permita conservar una actitud de aprendizaje constante y aprovechar toda oportunidad de educación y capacitación que tienda a su realización personal, facilitando los trámites administrativos y difundiendo la oferta general educativa.
 
 II. Promover la formulación de programas educativos de licenciatura y postgrado en geriatría y gerontología, en todos los niveles de atención en salud, así como de atención integral a las personas adultas mayores dirigidos a personal técnico profesional y velará porque las instituciones de educación superior y de investigación científica incluyan la geriatría en sus currículas de medicina, y la gerontología en las demás carreras pertenecientes a las áreas de salud y ciencias sociales.
 
 III. Proponer ante las autoridades correspondientes, la incorporación de contenidos sobre procesos de envejecimiento en los planes y programas de estudio de todos los niveles educativos.
 
-IV. Facilitar el acceso a la cultura a las personas adultas mayores a través de talleres, exposiciones, concursos y eventos estatales, nacionales e internacionales, así como a eventos culturales, previa acreditación de su edad, de manea (sic) gratuita o con descuentos especiales y otorgando a los ganadores los reconocimientos y premios correspondientes.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
+
+IV. Promover la educación y formación de las personas adultas mayores en el uso de las nuevas tecnologías de la información y comunicación para minimizar la brecha digital, generacional y geográfica e incrementar la integración social y comunitaria.
 
 V. Fomentar entre toda la población una cultura de la vejez, de respeto, aprecio, reconocimiento a la capacidad de aportación de las personas adultas mayores.
 
@@ -1796,5 +1876,11 @@ SEGUNDO.- Se derogan, las disposiciones que se opongan al presente decreto.
 P.O. 24 DE OCTUBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 524.- SE REFORMA LA FRACCIÓN XIV, RECORRIÉNDOSE LA ACTUAL A UNA NUEVA FRACCIÓN XV DEL ARTÍCULO 40, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 692.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+P.O. 30 DE ENERO DE 2024.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
