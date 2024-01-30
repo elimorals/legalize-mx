@@ -4,7 +4,7 @@ identifier: "COA-ley-para-combatir-el-ruido-en-el-estado-de-coahuila-de-89853"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-16"
-last_updated: "2019-12-20"
+last_updated: "2024-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89853&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA COMBATIR EL RUIDO EN EL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el día martes 16 de octubre de 2012.
 
@@ -57,9 +57,9 @@ c) La implementación de medidas, programas y acciones tendientes a someter al c
 
 La aplicación de la presente Ley corresponde a:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
 
-A) El Ejecutivo del Estado por conducto de la Secretaría de Medio Ambiente y Desarrollo Urbano; la Secretaría de Salud; la Procuraduría de Protección al Ambiente del Estado de Coahuila y las autoridades que para tal efecto en su momento sean designadas por el Gobernador; y
+A) El Ejecutivo del Estado por conducto de la Secretaría de Medio Ambiente; la Secretaría de Salud; la Procuraduría de Protección al Ambiente del Estado de Coahuila y las autoridades que para tal efecto en su momento sean designadas por el Gobernador; y
 
 B) Los municipios del Estado de Coahuila, por conducto de sus departamentos o direcciones de ecología, salud, o las que para tal efecto designen los presidentes municipales y los ayuntamientos.
 
@@ -85,7 +85,9 @@ VIII.- Reducción acústica: es el decremento normalizado del nivel sonoro debid
 
 IX.-Responsable de Fuente Generadora del Ruido: Toda persona física o moral, pública o privada que sea responsable legal de la operación, funcionamiento o administración de cualquier fuente que emita ruido contaminante.
 
-X.- Ruido: Todo sonido indeseable que moleste o perjudique a las personas, y;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
+
+X.- Ruido: Todo sonido generado por actividades humanas que, por su intensidad, duración o frecuencia, implique riesgo, molestia, perjuicio o daño para las personas, para otros seres vivos o para el ambiente; o los que superen los niveles fijados por las normas oficiales mexicanas; y
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -97,7 +99,9 @@ Para las definiciones no previstas en la presente ley, se tomarán las estableci
 
 Se consideran como fuentes de contaminación ambiental generada por ruido, las siguientes:
 
-1.- Fijas: Todo tipo de industria, máquinas con motores de combustión, terminales y bases de autobuses y ferrocarriles, aeropuertos, clubes cinegéticos y polígonos de tiro, ferias, tianguis, circos, salones de baile, discotecas, bares, cantinas, espectáculos musicales al aire libre y bajo techo, casas-habitación que generen ruido constante de parte de sus moradores por medio de aparatos eléctricos, mecánicos, electrónicos o de cualquier naturaleza que produzcan sonidos molestos para los demás seres humanos que habitan en las cercanías.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
+
+1.- Fijas: Todo tipo de industria, máquinas con motores de combustión, terminales y bases de autobuses y ferrocarriles, aeropuertos, clubes cinegéticos y polígonos de tiro, ferias, tianguis, circos, salones de baile, discotecas, bares, cantinas, palapas, restaurantes bar, comercios de todo tipo de giro o actividad espectáculos musicales al aire libre y bajo techo, casas-habitación que generen ruido constante de parte de sus moradores por medio de aparatos eléctricos, mecánicos, electrónicos o de cualquier naturaleza que produzcan sonidos molestos para los demás seres humanos que habitan en las cercanías.
 
 2.- Móviles: Aviones, helicópteros, ferrocarriles, tranvías, tractocamiones, autobuses, camiones de carga y de pasajeros, automóviles, motocicletas, embarcaciones, equipo y maquinaria con motores de combustión que se desplacen de un lado a otro y similares.
 
@@ -173,15 +177,23 @@ Son atribuciones de los municipios:
 
 I.- Combatir la contaminación por ruido generada por fuentes fijas y móviles de su competencia.
 
-II.- Combatir de modo prioritario la contaminación por ruido generada por casas-habitación, talleres de todo tipo de giro, centros comerciales, salones de fiesta, salones de lotería u otros juegos similares, discotecas o centros similares, antros, clubes privados o públicos, ferias, encuentros deportivos, bailes populares; y en general la contaminación sonora producida por cualquier tipo de fuente similar a las ya señaladas.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
 
-III.- Crear el reglamento correspondiente para el combate al ruido, o bien, las disposiciones necesarias para cumplir con tal fin.
+II.- Combatir de modo prioritario la contaminación por ruido generada por casas-habitación, talleres de todo tipo de giro, centros comerciales, negocios de todo tipo de giro o actividad salones de fiesta, salones de lotería u otros juegos similares, discotecas o centros similares, antros, clubes privados o públicos, palapas, restaurantes bar, quintas y lugares autorizados para festejos al aire libre, ferias, encuentros deportivos, bailes populares; y en general la contaminación sonora producida por cualquier tipo de fuente similar a las ya señaladas.
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
+
+III.- Crear el reglamento correspondiente para el combate al ruido, o bien, las disposiciones necesarias para cumplir con tal fin; así como los mecanismos y bases de la justicia cívica municipal que resulten necesarios y los mecanismos alternos de solución de controversias y de conflictos entre particulares.
 
 IV.- Supervisar que las obras públicas y en especial los inmuebles que por su destino o giro van a generar ruido, se apeguen en todo a las normas técnicas estatales que se emitan.
 
-V.- Supervisar los negocios bajo competencia del municipio que por la naturaleza de su actividad generan ruido, realicen las modificaciones, construcciones, o la debida implementación de tecnología y medidas de contención necesarias para reducir el sonido o impedir el escape de este hacia el exterior de los locales.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
 
-VI.- Habilitar y capacitar el personal que estimen necesario para hacer frente a contingencias generadas por la contaminación sonora, así como para poder atender el volumen de quejas por ruido que presenten los ciudadanos o las personas morales.
+V.- Supervisar los negocios bajo competencia del municipio que por la naturaleza de su actividad generan ruido, realicen las modificaciones, construcciones, o la debida implementación de tecnología y medidas de contención necesarias para reducir el sonido o impedir el escape de este hacia el exterior de los locales; asegurando también que las vibraciones generadas por los equipos de sonido y, en su caso, por el tipo de música utilizada, no impacten a los vecinos que se ubican alrededor o en la parte inferior o superior del comercio en cuestión.
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
+
+VI.- Habilitar y capacitar el personal que estimen necesario para hacer frente a contingencias generadas por la contaminación sonora, incluyendo los cuerpos de policía preventiva y de otras áreas del municipio; así como para poder atender el volumen de quejas por ruido que presenten los ciudadanos o las personas morales.
 
 VII.- Publicar el catálogo de infracciones que se aplicarán en el ámbito de su jurisdicción en materia de ruido.
 
@@ -191,7 +203,13 @@ IX.- Conceder las licencias, permisos o certificaciones que conforme a derecho s
 
 X.- Aplicar las normas técnicas en materia de ruido generado por fuentes fijas y por fuentes móviles, y;
 
-XI.- Las demás que les confiera la legislación vigente o los convenios celebrados con otras autoridades.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ENERO DE 2024)</small>
+
+XI.- Crear y mantener actualizado el padrón de generadores de ruido, donde serán registrados todos los infractores, personas morales y físicas que, en un lapso no mayor a un año, hayan recibido dos o más sanciones impuestas por la autoridad correspondiente, o bien, que hayan incumplido el o los convenios suscritos bajo el mecanismo alterno de solución de conflictos.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE ENERO DE 2024)</small>
+
+XII.- Las demás que les confiera la legislación vigente o los convenios celebrados con otras autoridades.
 
 ### Capítulo Tercero. Criterios Generales para Medir la Contaminación por Ruido
 
@@ -215,7 +233,9 @@ III.- Tomar en cuenta las condiciones climatológicas y físicas que pueden inci
 
 IV.- Cuando se trate de quejas planteadas por los ciudadanos o las personas morales, deben recabar la opinión de los vecinos de los afectados, las cuales se harán asentar por escrito, independientemente de que los testigos pidan su anonimato o no.
 
-Para efectos de lo señalado, la opinión de los vecinos se tomará entrevistando a quienes habiten o tengan negocios en un área de hasta cien metros a la redonda de la fuente generadora de ruido; haciéndoles saber que pueden conservar el anonimato o suscribir el formato de opinión que a tal efecto les entregue la autoridad.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
+
+Para efectos de lo señalado, la opinión de los vecinos se tomará entrevistando a quienes habiten o tengan negocios en un área de hasta cien metros a la redonda de la fuente generadora de ruido, o bien, que habiten en la parte superior o inferior del inmueble que ocupa o habita el generador de ruido, con independencia de que se trate de un negocio o de un particular, haciéndoles saber que pueden conservar el anonimato o suscribir el formato de opinión que a tal efecto les entregue la autoridad.
 
 V.- Revisar todos los elementos de la fuente generadora de ruido, así como las probables soluciones.
 
@@ -239,6 +259,10 @@ IV.- Usar dispositivos silenciadores para toda clase de motores y maquinaria gen
 
 V.- También será obligatorio que toda industria, taller, comercio y en general cualquier fuente fija de emisión de ruido de competencia estatal o municipal, el uso de sistemas y tecnología tendiente a reducir y amortiguar sus emisiones de sonido.
 
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2024)</small>
+
+Asimismo, todos los negocios dedicados al entretenimiento, a la venta de bebidas embriagantes para consumo en el lugar y, a giros comerciales distintos a estos, pero que cuenten con el permiso de la autoridad para utilizar bocinas, alto parlantes o equipos de sonidos similares, deberán colocar un letrero visible en la entrada de sus inmuebles con la leyenda: "ESTE LUGAR CUMPLE CON LOS LÍMITES DE SONIDO ESTABLECIDOS EN LA NORMA OFICIAL MEXICANA NOM-081-ECOL-1994".
+
 VI.- Cumplir con los horarios y las condiciones para poder hacer funcionar fuentes generadoras de ruido, cuando la autoridad conceda el permiso de ley correspondiente.
 
 VII.- Utilizar los equipos de sonido o video de las unidades automotrices en un nivel de volumen que no sobrepase los niveles establecidos en las normas para la emisión de ruidos hacia el exterior de la unidad.
@@ -261,7 +285,9 @@ I.- Las personas físicas y morales que sean propietarias de la fuente.
 
 II.- Los directores, administradores, gerentes o encargados de la fuente.
 
-III.- Los propietarios, arrendatarios o poseedores bajo cualquier tipo de posesión de las casas-habitación.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
+
+III.- Los propietarios, arrendatarios poseedores bajo cualquier tipo de posesión de las casas-habitación, y quienes ocupen o residan de manera temporal en el inmueble bajo cualquier situación legal, si se encuentran ahí al momento de verificarse la infracción.
 
 IV.- Los propietarios o conductores de las unidades automotrices o de maquinas móviles, cuando el ruido generado por éstas, cause daños comprobables a una determinada persona o grupo de personas, o sus bienes.
 
@@ -269,9 +295,13 @@ Las personas físicas y morales señaladas en las fracciones anteriores, serán 
 
 Los empleados, trabajadores, o servidores que demuestren que solamente recibían órdenes, no serán responsables por los daños causados.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 12.
 
-Cuando a consecuencia de una prolongada exposición a una fuente generadora de ruido, se acredite que una persona o grupo de personas han sufrido daños en su salud, medibles y determinables por la autoridad sanitaria o por médicos privados; los responsables de la fuente generadora, deberán pagar todos los gastos médicos de los afectados, así como las indemnizaciones correspondientes en los términos de la ley.
+Cuando a consecuencia de una prolongada exposición a una fuente generadora de ruido, se acredite que una persona o grupo de personas han sufrido daños en su salud, medibles y determinables por la autoridad sanitaria o por médicos privados; los responsables de la fuente generadora, deberán pagar todos los gastos médicos de los afectados, así como las indemnizaciones correspondientes en los términos de la ley, con independencia de las responsabilidades que resulten de la aplicación y observancia de la Ley de Responsabilidad Ambiental del Estado de Coahuila de Zaragoza.
+
+Las autoridades que omitan el cumplimiento de la presente ley y de los reglamentos municipales de la materia, o bien, que por negligencia, omisión o dolo se nieguen a atender las quejas de las personas físicas o morales y/o a resolverlas conforme a derecho, serán responsables en los términos de la Ley General de Responsabilidades Administrativas y demás ordenamientos que resulten aplicables.
 
 Cuando los daños a la salud sean determinados por instituciones o médicos privados, tales dictámenes deberán ser convalidados por la autoridad sanitaria estatal o municipal.
 
@@ -285,7 +315,9 @@ Cuando los responsables de la fuente generadora sean el Estado o los municipios,
 
 Queda estrictamente prohibido en el Estado de Coahuila y sus municipios:
 
-I.- La instalación de fábricas, talleres y cualquier otra fuente industrial generadora de ruido en los centros de población, y en perímetros inferiores a los 500 metros de las escuelas de todos los niveles, así como de clínicas, hospitales, centros de readaptación social, orfanatorios, hoteles y posadas, clubes de recreo, asilos, centros deportivos, parques, jardines públicos, iglesias; y en sí de todo tipo de centro o inmueble destinado a actividades educativas, recreativas, sanitarias, de reposo o religiosas.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
+
+I.- La instalación de fábricas, talleres y cualquier otra fuente industrial generadora de ruido en los centros de población, y en perímetros inferiores a los 500 metros de las escuelas de todos los niveles, así como de clínicas, hospitales, centros de medicina alternativa legalmente constituidos, oficinas gubernamentales, bibliotecas, centros de readaptación social, orfanatorios, hoteles y posadas, clubes de recreo, asilos, centros deportivos, parques, jardines públicos, iglesias; y en sí de todo tipo de centro o inmueble destinado a actividades educativas, recreativas, sanitarias, de reposo o religiosas.
 
 II.- El funcionamiento de motores de vehículos con el escape abierto y sin el correspondiente silenciador.
 
@@ -301,13 +333,21 @@ VII.- Que los vehículos de cualquier tipo y tamaño circulen con sus equipos de
 
 VIII.- El ruido excesivo conforme a la ley, de todo tipo de aparatos generado por los inquilinos de las casas-habitación, y;
 
-IX.- Conceder licencias, permisos o autorizaciones similares a quienes vayan a construir o instalar negocios o empresas generadores de ruido de nivel contaminante, sin antes haber cumplido con los estudios de impacto ambiental, y con las normas de construcción y operación sobre el rubro del ruido.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
+
+IX.- Conceder licencias, permisos o autorizaciones similares a quienes vayan a construir o instalar negocios o empresas generadores de ruido de nivel contaminante, sin antes haber cumplido con los estudios de impacto ambiental y de impacto social, y con las normas de construcción y operación sobre el rubro del ruido.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2024)</small>
+
+En ningún caso se concederá permiso para utilizar bocinas, alto parlantes o equipos similares a negocios dedicados a giros diferentes al entretenimiento o la venta de bebidas embriagantes para consumo en el lugar cuando exista en un diámetro de treinta metros a la redonda, o bien; en la parte superior o inferior del inmueble una casa-habitación ocupada.
 
 ### Capítulo Quinto. Participación Ciudadana
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2024)</small>
+
 ###### ARTÍCULO 15.
 
-En cada municipio podrá conformarse un Consejo Ciudadano de Combate al Ruido; sus objetivos serán:
+En cada municipio se conformará un Consejo Ciudadano de Combate al Ruido; sus objetivos serán:
 
 I.- Hacer propuestas a la autoridad municipal sobre medidas o acciones para combatir la contaminación sonora.
 
@@ -351,6 +391,10 @@ b) El regidor de salud.
 
 c) El director de ecología o puesto similar.
 
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2024)</small>
+
+d) El o la titular de la Policía Ambiental.
+
 Asimismo; si en el municipio de que se trate existen organizaciones ambientales debidamente registradas y con sus permisos en regla conforme a derecho, cada una de ellas podrá designar a un representante para que forme parte del Consejo.
 
 Para determinar la cantidad de miembros de un consejo conforme a la fracción I de este artículo, no deberán contabilizarse los funcionarios señalados en la fracción X. De tal modo que la presencia ciudadana sea siempre y por lo menos el doble en cantidad con respecto a los servidores mencionados.
@@ -393,7 +437,9 @@ d) El resultado final de las acciones de la autoridad.
 
 No formular las listas señaladas con los datos especificados, importará sanciones para los responsables.
 
-### Capítulo Séptimo. Infracciones y Sanciones
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2024)</small>
+
+### Capítulo Séptimo. Infracciones, Sanciones y Mecanismos Alternos de Solución de Conflictos
 
 ###### ARTÍCULO 19.
 
@@ -403,9 +449,25 @@ A) Amonestación escrita
 
 B) Sanciones económicas
 
-C) Clausura temporal o definitiva de los locales y lugares donde se hallen las fuentes emisoras de ruido.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
 
-D) Arrestos hasta por 36 horas para los reincidentes o para quienes se opongan a las visitas de verificación de las autoridades competentes y para quienes se nieguen a cesar sus emisiones de ruido una vez que hayan sido advertidos por la autoridad.
+C) Clausura temporal o definitiva de los locales y lugares donde se hallen las fuentes emisoras de ruido, cuando se trate de negocios o industria.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE ENERO DE 2024)</small>
+
+D) Arrestos hasta por 36 horas para los reincidentes o para quienes se opongan a las visitas de verificación de las autoridades competentes y para quienes se nieguen a cesar sus emisiones de ruido una vez que se acredite la reincidencia del infractor en los términos de la presente ley; así como en los casos donde el ruido generado cause gran afectación a las personas y el responsable se niegue a atender dos apercibimientos de la autoridad dentro de un breve lapso de tiempo, entendido este como el transcurrido entre una y cinco horas.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2024)</small>
+
+Las autoridades estatales y municipales, aplicando los principios y las bases de la justicia cívica, podrán sustituir las sanciones económicas y el arresto por trabajos a favor de la comunidad.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2024)</small>
+
+Asimismo, podrán crear mecanismos alternos de solución de conflictos para resolver las controversias entre las partes involucradas en las infracciones establecidas en esta ley, pudiendo suscribir acuerdos y convenios con carácter vinculante y obligatorio.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2024)</small>
+
+En ningún caso, los convenios antes señalados podrán contener cláusulas que impliquen la posibilidad de que el infractor genere ruido por encima de los límites establecidos en las normas oficiales o donde se le permita hacerlo en horarios diferentes a los establecidos en las leyes y reglamentos de la materia.
 
 E) Suspensión temporal, parcial o total, de las autorizaciones, licencias o permisos que corresponda.
 
@@ -433,7 +495,13 @@ VII.- Violar los sellos u órdenes de clausura.
 
 VIII.- Violar los horarios o condiciones establecidos para eventos y actividades generadores de ruido.
 
-IX.- Tratar de engañar a la autoridad bajando los niveles de ruido durante las visitas de inspección, para subirlos posteriormente.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ENERO DE 2024)</small>
+
+IX.- En el caso de los negocios de todo tipo de giro, utilizar bocinas, alto parlantes o equipos similares, sin importar sus dimensiones, sin contar con el permiso correspondiente.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE ENERO DE 2024)</small>
+
+X.- Tratar de engañar a la autoridad bajando los niveles de ruido durante las visitas de inspección, para subirlos posteriormente.
 
 Lo anterior sin perjuicio de los ilícitos penales y civiles que puedan configurarse.
 
@@ -602,3 +670,15 @@ P.O. 20 DE DICIEMBRE DE 2019.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 30 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 681.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los municipios contarán con un plazo de hasta sesenta días naturales, contados a partir del día siguiente de la entrada en vigor de este Decreto, para crear los consejos a que alude el artículo 15 de este ordenamiento.
+
+TERCERO.- En un plazo no mayor a tres meses, contados a partir de la entrada en vigor del presente Decreto, el Estado y los municipios, en sus respectivos ámbitos de competencia, deberán realizar las adecuaciones legales y reglamentarias para armonizar sus marcos legales con las disposiciones de este Decreto.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
