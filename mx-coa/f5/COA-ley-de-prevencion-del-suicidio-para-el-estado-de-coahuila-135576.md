@@ -4,7 +4,7 @@ identifier: "COA-ley-de-prevencion-del-suicidio-para-el-estado-de-coahuila-13557
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-09"
-last_updated: "2023-12-08"
+last_updated: "2024-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PREVENCIÓN DEL SUICIDIO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección al Número 29 del Periódico Oficial del Estado de Coahuila, el martes 9 de abril de 2019.
 
@@ -49,9 +49,11 @@ LEY DE PREVENCIÓN DEL SUICIDIO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
 La presente Ley es de orden público e interés social y tiene como propósito fundamental la protección de la salud mental y la disminución de la incidencia y prevalencia del suicidio en el Estado de Coahuila, a través de la prevención, asistencia y posvención de las víctimas y sus familiares.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
+
 ###### Artículo 2°.
 
-Los objetivos específicos de la presente Ley consisten en disminuir la incidencia del suicidio y, por ende, proporcionar atención preventiva y tratamiento adecuado a las víctimas potenciales de esta práctica, a sus familias y a los deudos de quienes perecieron por suicidio.
+Los objetivos específicos de la presente Ley consisten en disminuir la incidencia del suicidio y, por ende, proporcionar atención preventiva, los primeros auxilios psicológicos y el tratamiento adecuado a las víctimas potenciales de esta práctica, a sus familias y a los deudos de quienes perecieron por suicidio.
 
 ###### Artículo 3°.
 
@@ -65,7 +67,9 @@ II. Promover la participación de la comunidad en el combate a este problema de 
 
 III. Capacitar al personal del sistema estatal de salud y de todos los sectores e instituciones involucrados en la atención a personas con ideación suicida y posvención suicida.
 
-IV. Realizar campañas de orientación a la sociedad civil.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
+
+IV. Realizar campañas de orientación a la sociedad civil en los temas de detección, prevención y prestación de los primeros auxilios psicológicos a las personas con ideación suicida o que intentaron quitarse la vida.
 
 ###### Artículo 4°.
 
@@ -84,6 +88,10 @@ III. Suicidio.- Acto voluntario de quitarse la vida; causarse la muerte a sí mi
 > <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
 IV. Posvención.- Las acciones e intervenciones posteriores a un evento autodestructivo, destinadas a trabajar con personas y familias vinculadas a la persona que se quitó la vida, a fin de apoyarlas a superar esta situación.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2024)</small>
+
+V. Primeros Auxilios Psicológicos.- Se refieren al apoyo psicológico prehospitalario proporcionado en momentos de crisis por una persona capacitada, entendido este como una ayuda inmediata y breve que tiene como objetivo reestablecer la estabilidad psicológica del individuo, justo antes de poder ser atendido por algún(a) profesional de la salud mental.
 
 ### CAPÍTULO II. APLICACIÓN
 
@@ -125,7 +133,9 @@ I. Poner en práctica programas periódicos de capacitación al personal médico
 
 II. Contar con equipos adecuados y suficientes, incluso vehículos automotores, es decir, “unidades itinerantes de salud mental”, para proporcionar un servicio integral de calidad, especialmente en la detección y atención eficaz de los casos de conducta suicida.
 
-III. A través de los medios de comunicación, lanzar campañas de orientación acerca de cómo anticiparse al suicidio.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
+
+III. A través de los medios de comunicación, lanzar campañas de orientación dirigidas a la sociedad civil acerca de cómo anticiparse al suicidio y cómo prestar de manera adecuada y eficaz los primeros auxilios psicológicos a personas en crisis, con motivo de una ideación o intento suicida.
 
 IV. Emitir recomendaciones y concretar acuerdos, mediante cartas-compromiso, con los medios de comunicación, promoviéndolos, en su caso, como empresas socialmente responsables que prescinden de la publicación de información que alienta la práctica del suicidio, tomando como base la guía emitida por la Organización Mundial de la Salud para la difusión de noticias sobre suicidio, misma que a continuación se compendia:
 
@@ -185,7 +195,9 @@ III. Elaborar un protocolo con la aprobación de la Secretaría de Salud, para l
 
 IV. Realizar campañas de orientación en el sector educativo, principalmente en zonas con alto índice de suicidios entre su población, que vayan dirigidos directamente a su comunidad educativa.
 
-V. Impulsar la participación de madres y padres de familia o tutores, en acciones para prevenir el suicidio.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
+
+V. Impulsar la participación de madres y padres de familia o tutores, en acciones para prevenir el suicidio y proporcionar, en situaciones de crisis emocional, los primeros auxilios psicológicos respectivos.
 
 VI. Las demás que se considere necesarias poner en marcha para el beneficio de toda la comunidad escolar.
 
@@ -324,3 +336,9 @@ P.O. 8 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 572.- SE REFORMA LA FRACCIÓN III, DEL ARTÍCULO 7 DE LA LEY DE PREVENCIÓN DEL SUICIDIO PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+P.O. 30 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 682.- SE REFORMA LA FRACCIÓN XX RECORRIÉNDOSE LA ULTERIOR DEL ARTÍCULO 7, EL ARTÍCULO 66, SE ADICIONA UN SEGUNDO PÁRRAFO DEL ARTÍCULO 66 DE LA LEY ESTATAL DE SALUD PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 2°, LA FRACCIÓN IV DEL ARTÍCULO 3°, LA FRACCIÓN III DEL ARTÍCULO 8° Y LA FRACCIÓN V DEL ARTÍCULO 8° BIS Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 5° DE LA LEY DE PREVENCIÓN DEL SUICIDIO PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
