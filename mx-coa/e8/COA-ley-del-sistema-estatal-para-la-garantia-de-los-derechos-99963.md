@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-estatal-para-la-garantia-de-los-derechos-99963"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-18"
-last_updated: "2023-12-26"
+last_updated: "2024-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 18 de marzo de 2014.
 
@@ -255,9 +255,19 @@ XVI. A la protección de sus datos personales;
 
 XVII. A la no utilización de trabajo de personas menores de quince años de edad;
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
 
-XVIII. A una vida libre de violencia, a la integridad, la libertad y la seguridad. Quienes tengan trato con niñas, niños y adolescentes deberán abstenerse de ejercer cualquier tipo de violencia en su contra, en particular el castigo corporal; observando especialmente su desarrollo emocional y psicológico, en todos los entornos incluyendo el seno familiar, las escuelas, los centros penitenciarios y otros centros alternativos.
+XVIII. A una vida libre de violencia, a la integridad, la libertad y la seguridad.
+
+Queda prohibido que quienes tengan trato con niñas, niños y adolescentes ejerzan cualquier tipo de violencia en su contra, en particular el castigo corporal y humillante; observando especialmente prácticas de crianza positiva que favorezcan su desarrollo emocional y psicológico, en todos los entornos incluyendo el seno familiar, las escuelas, los centros penitenciarios y otros centros alternativos.
+
+Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, de cuidado, penales o de cualquier otra índole.
+
+Para los efectos de esta ley, se entenderá por castigo corporal o físico, todo aquel acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, incluyendo golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a sostener posturas incómodas, quemaduras, ingesta de alimentos hirviendo u otros productos o cualquier otro acto que tenga como objeto causar dolor o malestar, aunque sea leve.
+
+Se entenderá por castigo humillante cualquier trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio, y cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación cometido en contra de niñas, niños y adolescentes.
+
+Se entenderá por crianza positiva al conjunto de prácticas de cuidado protección, formación y guía que ayudan al desarrollo, bienestar y crecimiento saludable y armonioso de las niñas, niños y adolescentes, tomando en cuenta su edad, facultades, características, cualidades, intereses, motivaciones, límites y aspiraciones, sin recurrir a castigos físicos ni a tratos crueles y humillantes, salvaguardando el interés superior de la niñez con un enfoque de derechos humanos.
 
 XIX. A la protección contra la prostitución, la pornografía infantil, el secuestro, la venta y la trata de personas;
 
@@ -865,9 +875,9 @@ La Procuraduría tendrá las facultades y obligaciones siguientes:
 
 I. La promoción y protección de los derechos de niños, niñas y adolescentes, en el ámbito de su competencia;
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
 
-II. Elaborar programas tendientes a prevenir, detectar, y atender la violencia familiar, escolar y comunitaria, en el ámbito de su competencia e instrumentar mecanismos, acciones legales y campañas de información necesarias para prevenir el castigo corporal con fines disciplinarios.
+II. Elaborar programas tendientes a prevenir, detectar, y atender la violencia familiar, escolar y comunitaria, en el ámbito de su competencia e instrumentar mecanismos, acciones legales y campañas de información necesarias para prevenir el castigo corporal y/o castigo humillante con fines disciplinarios.
 
 III. Proporcionar asesoría y orientación a las personas que lo soliciten, en todos los asuntos de controversias familiares;
 
@@ -2138,3 +2148,11 @@ P.O. 26 DE DICIEMBRE DE 2023.
 PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. El presente decreto entrará en vigor el primero de enero de dos mil veinticuatro.
+
+P.O. 30 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 694.- SE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 4 Y LA FRACCIÓN II DEL ARTÍCULO 27 DE LA LEY DEL SISTEMA ESTATAL 33 PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 413, ASÍ COMO EL CUARTO PÁRRAFO DEL ARTÍCULO 648 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 598 BIS, RECORRIENDO EL ULTERIOR, TODOS DE LA LEY PARA LA FAMILIA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
