@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2023-12-08"
+last_updated: "2024-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -111,6 +111,10 @@ III. La prestación de servicios de planificación familiar;
 
 IV. La salud mental;
 
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2024)</small>
+
+IV Bis. La prevención y control del suicidio, así como la posvención.
+
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 2019)</small>
 
 V. La organización, coordinación, verificación, vigilancia y posible sanción del ejercicio de las actividades profesionales, técnicas y auxiliares de la salud, bajo la premisa de una estricta observación y cumplimiento de los requisitos y condiciones para su ejercicio, previstos expresamente en la Ley General de Salud, esta Ley y demás disposiciones aplicables, para el correcto y profesional ejercicio de la práctica médica en el Estado;
@@ -137,7 +141,11 @@ XI (SIC). La prevención y el control de los efectos nocivos de los factores amb
 
 XIII. La salud ocupacional y el saneamiento básico;
 
-XIV. La prevención y el control de enfermedades transmisibles;
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 590 PUBLICADO EN EL P.O. DE 30 DE ENERO DE 2024, SE ADVIERTE QUE EL CONTENIDO DE ESTA REFORMA CORRESPONDE A LA ANTES FRACCIÓN XIV.]</small>
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
+
+XIII (SIC). La prevención, concientización y el control de enfermedades transmisibles, así como de los tipos de alto riesgo del Virus del Papiloma Humano que pueden causar diversos tipos de cáncer; y la protección a terceros por medio de la vacunación contra dicho virus;
 
 XV. La prevención y el control de las enfermedades no transmisibles y accidentes;
 
@@ -169,11 +177,15 @@ XXI. La salud visual;
 
 XXII. La salud auditiva;
 
-> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ENERO DE 2024)</small>
 
-XXIII. La asistencia social, conforme a lo establecido por la Ley de Asistencia Social para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables, y
+XXII (SIC). La salud bucodental;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
+
+XXIII. La asistencia social, conforme a lo establecido por la Ley de Asistencia Social para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 30 DE ENERO DE 2024)</small>
 
 XXIV. Las demás que establezca la Ley General de Salud y otras disposiciones aplicables.
 
@@ -335,9 +347,17 @@ XVIII. Establecer, promover y coordinar el Registro Estatal de Cáncer;
 
 XIX. Diseñar, implementar y evaluar programas permanentes para la prevención de embarazos en menores de edad; y
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ENERO DE 2024)</small>
+
+XX. En coordinación con las instituciones educativas se podrá proponer, desarrollar y aplicar programas de prevención del suicidio en niñas, niños y adolescentes; y
+
 > <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XVIII], P.O. 20 DE MARZO DE 2020)</small>
 
-XX. Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+XXI. Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2024)</small>
+
+XXII. Diseñar, implementar y promover campañas permanentes sobre la concientización y prevención de adicciones, uso de vapeadores y cigarros eléctricos, así como del consumo de sustancias tóxicas, drogas naturales, sintéticas, semisintéticas, estimulantes, depresores, psicodélicos, siempre apegadas a los derechos humanos y buscando eliminar los estigmas que rodean este tipo de actividades.
 
 ###### Artículo 8o.
 
@@ -529,7 +549,9 @@ I. La educación para la salud, la promoción del saneamiento básico y el mejor
 
 II. La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
 
-III. La atención médica, que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
+
+III. La atención médica, que comprende actividades preventivas, curativas, paliativas y de rehabilitación, incluyendo la atención de urgencias;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
@@ -577,11 +599,17 @@ Las actividades de atención médica son:
 
 I. Preventivas, que incluyen las de promoción general y las de protección específica;
 
-II. Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno, y
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+II. Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno;
 
-III. De rehabilitación, que incluyen acciones tendientes a optimizar las capacidades y funciones de las personas con discapacidad.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
+
+III. De rehabilitación, que incluyen acciones tendientes a optimizar las capacidades y funciones de las personas con discapacidad, y
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2024)</small>
+
+IV. Paliativas, que incluyen el cuidado integral para preservar la calidad de vida del paciente, a través de la prevención, tratamiento y control del dolor, y otros síntomas físicos y emocionales por parte de un equipo profesional multidisciplinario.
 
 ###### Artículo 34.
 
@@ -717,11 +745,11 @@ VII. Información a las autoridades competentes de las irregularidades o deficie
 
 VIII. Las demás que coadyuven a la protección de la salud.
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
 
 ###### Artículo 52.
 
-La Secretaría de Salud del Estado, y demás instituciones de salud estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades, accidentes, discapacidad y de rehabilitación de personas con discapacidad.
+La Secretaría de Salud del Estado, y demás instituciones de salud estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades y accidentes, y de prevención de la discapacidad y de rehabilitación de personas con discapacidad, así como en los cuidados paliativos.
 
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
@@ -909,9 +937,15 @@ III. Las instalaciones seguras, privadas y adecuadas que permitan a las mujeres 
 
 ### CAPITULO VII. SALUD MENTAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2024)</small>
+
 ###### Artículo 66.
 
-La prevención de las enfermedades mentales tiene carácter prioritario, se basará en el conocimiento de los factores que afectan la salud mental,las (sic) causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
+La prevención y atención de la salud mental, en función del interés superior de las niñas, niños y adolescentes, tiene (sic) carácter prioritario, así como para todas las personas que así lo necesiten. Las instituciones de salud públicas y privadas adoptarán todas las medidas necesarias para brindar la atención a la salud mental para quien lo requiera.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2024)</small>
+
+Dicha atención, se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
 
 ###### Artículo 67.
 
@@ -935,9 +969,9 @@ La atención de las enfermedades mentales comprende:
 
 I. La atención de personas con padecimientos mentales, la depresión y demencia de los adultos mayores, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas, y
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
 
-II. La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales, deberá contar con protocolos que garanticen los derechos humanos de sus pacientes.
+II. La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales, y personas consumidoras de sustancias psicoactivas con adicciones, deberá contar con protocolos que garanticen los derechos humanos de sus pacientes.
 
 > <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
@@ -1771,13 +1805,25 @@ VI. Dar su consentimiento informado por escrito para la aplicación o no de trat
 
 VII. Solicitar al médico que le administre medicamentos que mitiguen el dolor;
 
-VIII. Renunciar, abandonar o negarse en cualquier momento a recibir o continuar el tratamiento que considere extraordinario o, en su caso, sedación paliativa.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
+
+VIII. Renunciar, abandonar o negarse en cualquier momento a recibir o continuar el tratamiento que considere extraordinario;
 
 XI (SIC). Designar, a algún familiar, representante legal o a una persona de su confianza, para el caso de que, con el avance de la enfermedad, esté impedido a expresar su voluntad, lo haga en su representación;
 
-X (SIC). A recibir los servicios espirituales, así como los de expertos en tanatología, cuando lo solicite él, su familia, representante legal o persona de su confianza; y
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
 
-XI. Los demás que las leyes señalen.
+X (SIC). A recibir los servicios espirituales, así como los de expertos en tanatología, cuando lo solicite él, su familia, representante legal o persona de su confianza;
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2024)</small>
+
+XI. Toda persona mayor de edad, en pleno uso de sus facultades mentales, puede, en cualquier momento e independientemente de su estado de salud, expresar su voluntad por escrito ante dos testigos, de recibir o no cualquier tratamiento, en caso de que llegase a padecer una enfermedad y estar en situación terminal y no le sea posible manifestar dicha voluntad. Dicho documento podrá ser revocado en cualquier momento. Para que sea válida la disposición de voluntad referida en el párrafo anterior, deberá apegarse a lo dispuesto en la presente Ley y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2024)</small>
+
+XII. Optar por recibir los cuidados paliativos en un domicilio particular, y;
+
+XIII. Los demás que las leyes señalen.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
 
@@ -1785,17 +1831,21 @@ XI. Los demás que las leyes señalen.
 
 El paciente en situación terminal que esté recibiendo los cuidados paliativos, podrá solicitar recibir nuevamente el tratamiento curativo, ratificando su decisión por escrito ante el personal médico correspondiente.
 
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2024)</small>
+
+El paciente en situación terminal, mayor de edad y en pleno uso de sus facultades mentales, tiene derecho a la suspensión voluntaria del tratamiento curativo y como consecuencia al inicio de tratamiento estrictamente paliativo en la forma y términos previstos en la presente Ley.
+
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
 
 ###### Artículo 125 Bis 5.
 
 Si el enfermo en situación terminal es menor de edad, o se encuentra incapacitado para expresar su voluntad, las decisiones derivadas de los derechos señalados en este título, serán asumidos (sic) por los padres o el tutor y a falta de estos por su representante legal, persona de su confianza mayor de edad o juez de conformidad con las disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
 
 ###### Artículo 125 Bis 6.
 
-Los cuidados paliativos se proporcionarán desde el momento en que se diagnostica el estado terminal de la enfermedad, por el médico especialista con experiencia, y estar sujeta (sic) a revisión permanente.
+Los cuidados paliativos se proporcionarán desde el momento en que se diagnostica el estado terminal de la enfermedad por el médico especialista.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
 
@@ -1803,11 +1853,11 @@ Los cuidados paliativos se proporcionarán desde el momento en que se diagnostic
 
 Los familiares del enfermo en situación terminal tienen la obligación de respetar la decisión que de manera voluntaria tome el enfermo en los términos de este título.
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2024)</small>
 
 ###### Artículo 125 Bis 8.
 
-En casos de urgencia médica, y que exista incapacidad del enfermo en situación terminal para expresar su consentimiento, y en ausencia de familiares, representante legal, tutor o persona de confianza, la decisión de aplicar un procedimiento médico quirúrgico o tratamiento necesario, será tomada por el médico especialista o por el Comité de Bioética institucional.
+En casos de urgencia médica, y que exista incapacidad del enfermo en situación terminal para expresar su consentimiento, y en ausencia de familiares, representante legal, tutor o persona de confianza, la decisión de aplicar un procedimiento médico quirúrgico o tratamiento necesario, será tomada por el médico especialista.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
 
@@ -1825,7 +1875,9 @@ Todos los documentos a que se refiere este título se regirán de acuerdo a lo q
 
 Las Instituciones del Sistema Estatal de Salud:
 
-I. Ofrecerán el servicio para la atención debida a los enfermos en situación terminal; aliviarán el dolor y otros síntomas angustiantes; responder (sic) a las necesidades de los pacientes y sus familias, incluido el apoyo emocional en el duelo y ofrecer (sic) un sistema de apoyo para ayudar a la familia a adaptarse durante la enfermedad del paciente y en su propio duelo.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2024)</small>
+
+I. Ofrecerán el servicio para la atención debida a las personas con una enfermedad en situación terminal;
 
 II. Proporcionarán los servicios de orientación, asesoría y seguimiento al enfermo en situación terminal y o sus familiares o persona de confianza;
 
@@ -4302,3 +4354,39 @@ P.O. 8 DE DICIEMBRE DE 2023.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se deroga (sic) todas las disposiciones que se opongan al presente decreto.
+
+P.O. 30 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 584.- SE ADICIONA LA FRACCIÓN IV BIS AL INCISO A DEL ARTÍCULO 4 DE LA LEY ESTATAL DE SALUD”.]
+
+ÚNICO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+P.O. 30 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 588.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 29, LAS FRACCIONES II Y III DEL ARTÍCULO 33, EL ARTÍCULO 52, LAS FRACCIONES VIII Y X DEL ARTÍCULO 125 BIS 3, EL ARTÍCULO 125 BIS 6, EL ARTÍCULO 125 BIS 8 Y LA FRACCIÓN I DEL ARTÍCULO 125 BIS 10; SE ADICIONA LA FRACCIÓN IV DEL ARTÍCULO 33, LAS FRACCIONES XI Y XII RECORRIENDO LA SUBSECUENTE DEL ARTÍCULO 125 BIS 3, Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 125 BIS 4 DE LA LEY ESTATAL DE SALUD".]
+
+###### ARTÍCULO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 589.- SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 7 Y SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 68 DE LA LEY ESTATAL DE SALUD”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 590.- SE REFORMA LA FRACCIÓN XIII, XXII Y XXIII; Y SE ADICIONA LA FRACCIÓN XXIV TODOS AL APARTADO A DEL ARTÍCULO 4º DE LA LEY ESTATAL DE SALUD”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 682.- SE REFORMA LA FRACCIÓN XX RECORRIÉNDOSE LA ULTERIOR DEL ARTÍCULO 7, EL ARTÍCULO 66, SE ADICIONA UN SEGUNDO PÁRRAFO DEL ARTÍCULO 66 DE LA LEY ESTATAL DE SALUD PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 2°, LA FRACCIÓN IV DEL ARTÍCULO 3°, LA FRACCIÓN III DEL ARTÍCULO 8° Y LA FRACCIÓN V DEL ARTÍCULO 8º BIS Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 5° DE LA LEY DE PREVENCIÓN DEL SUICIDIO PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
