@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-coordinacion-fiscal-del-estado-y-municipios-de-san-16895
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-18"
-last_updated: "2023-12-18"
+last_updated: "2024-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 18 de diciembre de 2023.
 
@@ -307,6 +307,8 @@ La participación del 30% del excedente del Fondo de Fomento Municipal, a que se
 
 > <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 18 DE DICIEMBRE DE 2023, PÁGINA 14.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA EN EL P.O. DE 31 DE ENERO DE 2024, PÁGINA 4.]</small>
+
 ###### Artículo 24.
 
 De la participación en la recaudación federal que le corresponda al Estado del Impuesto Especial Sobre Producción y Servicios, señalada en las fracciones I y II del artículo 4-A de la Ley de Coordinación Fiscal, referente al Impuesto a la Venta Final de Gasolinas y Diésel, los Municipios participarán del 20%, conforme a la formula siguiente:
@@ -472,3 +474,17 @@ J. GUADALUPE TORRES SÁNCHEZ
 El Secretario General de Gobierno
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1001.- SE REFORMA DEL ARTÍCULO 23 EN SU PRIMER PÁRRAFO, LAS FÓRMULAS, ASÍ COMO LOS ELEMENTOS SEGUNDO, TERCERO, CUARTO Y SEXTO, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ. SE ESTABLECEN LOS COEFICIENTES APLICABLES PARA EL PAGO DE PARTICIPACIONES E INCENTIVOS A MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ PARA EL EJERCICIO FISCAL 2024".]
+
+PRIMERO. El artículo primero de este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. El artículo segundo de este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+TERCERO. La Secretaría de Finanzas, una vez enterada de las actualizaciones de los criterios para la aplicación del coeficiente del 30% del Excedente de (sic) Fondo de Fomento Municipal deberá efectuar las actualizaciones correspondientes de acuerdo con los montos autorizados por la Unidad de Coordinación con Entidades Federativas de la Secretaría de Hacienda y Crédito Público, debiendo divulgar la actualización en el Periódico Oficial del Estado “Plan de San Luis”.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
