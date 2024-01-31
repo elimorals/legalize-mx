@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-hidrocarburos-137
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-06-27"
-last_updated: "2023-12-08"
+last_updated: "2024-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137053&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-05-31"
 ---
 # REGLAMENTO INTERNO DE LA COMISION NACIONAL DE HIDROCARBUROS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ABRIL DE 2024 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE HIDROCARBUROS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE ENERO DE 2024.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de junio de 2019.
 
@@ -63,7 +65,9 @@ Objeto del reglamento. El presente Reglamento Interno tiene por objeto establece
 
 Definiciones. Para efectos de este Reglamento, además de las definiciones contenidas en los artículos 4 de la Ley de Hidrocarburos y 3 de su Reglamento, se entenderá, en singular o plural, por:
 
-I. Asunto: El tema o caso que deba ser sometido a consideración del Órgano de Gobierno de la Comisión y del que deba pronunciarse con base en sus atribuciones y facultades;
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+I. Asunto: El tema o caso que haya sido asignado por la Secretaría Ejecutiva a una ponencia para ser sometido al Órgano de Gobierno;
 
 II. Comisionado: El servidor público integrante del Órgano de Gobierno de la Comisión a que hace referencia el artículo 5 de la Ley;
 
@@ -117,21 +121,25 @@ Clasificación y resguardo de la información. Corresponde al Titular de la Secr
 
 Corresponderá a la Secretaría Ejecutiva la clasificación de los acuerdos y resoluciones aprobados por el Órgano de Gobierno, además de los votos particulares que, en su caso, emitan los Comisionados.
 
-El Titular de la Unidad Jurídica fungirá como responsable de la unidad de transparencia de la Comisión, el cual desempeñará las funciones previstas en la Normativa Aplicable.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
 
 ###### Artículo 8.
 
 Confidencialidad. Los servidores públicos adscritos a la Comisión estarán obligados a guardar confidencialidad respecto de la información y documentación que por virtud de sus actividades y funciones tengan acceso, observando estrictamente las disposiciones establecidas en la Ley General de Responsabilidades Administrativas, la Ley General de Transparencia y Acceso a la Información Pública, Ley Federal de Transparencia y Acceso a la Información Pública y demás disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 9.
 
-Turno de los Asuntos. Las ponencias de los Asuntos serán turnadas a los Comisionados por la Secretaría Ejecutiva, conforme a un orden secuencial que permita distribuir las cargas de trabajo de forma equilibrada.
+Turno de los Asuntos. Las ponencias de los Asuntos serán asignadas y turnadas a los Comisionados por la Secretaría Ejecutiva, conforme a un orden secuencial que permita distribuir las cargas de trabajo de forma equilibrada.
 
 ## TÍTULO II. De la organización de la Comisión
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 10.
 
-Integración de la Comisión. Para el ejercicio de sus atribuciones la Comisión contará con las Unidades Administrativas siguientes:
+Integración de la Comisión. Para el ejercicio de sus facultades, atribuciones y funciones la Comisión contará con las Unidades Administrativas siguientes:
 
 I. Órgano de Gobierno;
 
@@ -139,7 +147,9 @@ II. Presidencia;
 
 III. Secretaría Ejecutiva;
 
-a. Dirección General de Estrategia Institucional;
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+a. Dirección General de Gestión Institucional;
 
 i. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
@@ -261,7 +271,9 @@ i. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 ii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-c. Dirección General de Inspección y Verificación;
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+c. Dirección General de Supervisión de Campo y Contenido Nacional;
 
 i. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
@@ -331,13 +343,21 @@ Atribuciones y facultades. El Órgano de Gobierno y las Unidades Administrativas
 
 Servidores públicos. El Órgano de Gobierno y cada una de las Unidades Administrativas referidas en el artículo 10 del presente Reglamento Interno se auxiliarán de los directores generales, directores de área, subdirectores, jefes de departamento, enlaces y demás servidores públicos que se requieran y que se autoricen, de conformidad con el presupuesto de la Comisión y su organigrama, así como en términos de la Normativa Aplicable.
 
-## TÍTULO III. De las facultades
+> <small>(ADICIONADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+Todos los servidores públicos de la Comisión son responsables de apoyar a la implementación y mejora del control interno.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE ENERO DE 2024)</small>
+
+## TÍTULO III. De las facultades, atribuciones y funciones
 
 ### Capítulo I. Órgano de Gobierno
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 13.
 
-Facultades del Órgano de Gobierno. Considerando las atribuciones que se señalan en la Ley, la Ley de Hidrocarburos y demás Normativa Aplicable, el Órgano de Gobierno tendrá las siguientes facultades:
+Facultades del Órgano de Gobierno. Considerando las facultades que se señalan en la Ley, la Ley de Hidrocarburos y demás Normativa Aplicable, el Órgano de Gobierno tendrá las siguientes facultades:
 
 I. En materia de licitaciones:
 
@@ -395,7 +415,7 @@ V. En materia de regulación y normatividad:
 
 a) Emitir y modificar la regulación, lineamientos, disposiciones técnicas y administrativas, manuales, instructivos, políticas y demás normativa en materia de Exploración y Extracción de Hidrocarburos, así como aquélla que expresamente establece la Ley, la Ley de Hidrocarburos, su Reglamento y demás Normativa Aplicable;
 
-b) Participar, por conducto de los Comisionados que se designen para tal efecto, en los trabajos y reuniones de los comités de normalización de conformidad con la Ley Federal sobre Metrología y Normalización para la emisión de las normas oficiales mexicanas que resulten competencia de la Comisión y sus correspondientes procedimientos de evaluación de la conformidad;
+b) (DEROGADO, D.O.F. 31 DE ENERO DE 2024)
 
 c) En los casos en que así se requieran, expedir normas oficiales mexicanas y ordenamientos técnicos respecto de las materias competencia de la Comisión y sus correspondientes procedimientos de evaluación de la conformidad;
 
@@ -403,7 +423,9 @@ d) Emitir, en el ámbito de sus atribuciones, los criterios de interpretación a
 
 e) Aprobar las reglas generales para la organización y funcionamiento de los Consejos Consultivos, así como acordar la participación de instituciones y asociaciones de conformidad con las disposiciones jurídicas aplicables, así como sus modificaciones, y
 
-f) Proponer a la Consejería Jurídica del Ejecutivo Federal las actualizaciones al marco jurídico, en el ámbito de su competencia, así como designar a los servidores públicos de la Comisión, cuando sea el caso, para participar con las dependencias competentes en la formulación de los proyectos de iniciativas de leyes, decretos, disposiciones reglamentarias y normas oficiales mexicanas relativas o relacionadas con las actividades reguladas;
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+f) Proponer a la Consejería Jurídica del Ejecutivo Federal las actualizaciones al marco jurídico, en el ámbito de su competencia;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE DICIEMBRE DE 2023)</small>
 
@@ -457,6 +479,10 @@ i) Aprobar la creación de oficinas estatales y regionales de la Comisión, así
 
 j) Crear, suprimir o modificar delegaciones y subdelegaciones federales, oficinas de servicios o cualquier otra unidad de la Comisión con la circunscripción territorial que juzgue conveniente, mediante acuerdos que serán publicados en el Diario Oficial de la Federación;
 
+> <small>(ADICIONADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+k. Aprobar el Plan Estratégico Institucional de la Comisión, así como sus modificaciones.
+
 IX. En materia de autorizaciones:
 
 a) Emitir las autorizaciones para las actividades de Reconocimiento y Exploración Superficial, así como autorizar la perforación de pozos en términos de la Normativa Aplicable;
@@ -479,17 +505,23 @@ Asimismo, podrá conocer y resolver, en casos excepcionales, los asuntos que req
 
 La adopción de medidas de emergencia se regirá bajo las bases establecidas en el artículo 39 de la Ley.
 
-Para la mejor organización del trabajo, el Órgano de Gobierno podrá, sin perjuicio del ejercicio directo de sus atribuciones, instruir y delegar en servidores públicos de la Comisión, en términos del presente Reglamento Interno o mediante acuerdos que, en su caso, deberán ser publicados en el Diario Oficial de la Federación.
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+Para la mejor organización del trabajo, el Órgano de Gobierno podrá, sin perjuicio del ejercicio directo de sus facultades, instruir y delegar en servidores públicos de la Comisión, en términos del presente Reglamento Interno o mediante acuerdos que, en su caso, deberán ser publicados en el Diario Oficial de la Federación.
 
 ### Capítulo II. Comisionado Presidente
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 14.
 
-Facultades del Comisionado Presidente. Además de las atribuciones que señalen la Ley y demás ordenamientos aplicables, el Comisionado Presidente tendrá las siguientes facultades:
+Facultades del Comisionado Presidente. Además de las facultades que señalen la Ley y demás ordenamientos aplicables, el Comisionado Presidente tendrá las siguientes facultades:
 
 I. Presidir y conducir las sesiones del Órgano de Gobierno, así como decretar los recesos que estime pertinentes;
 
-II. Dirigir y coordinar las actividades de las diferentes Unidades Administrativas;
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+II. Como responsable de Control Interno de la Comisión, dirigir y coordinar las actividades de las diferentes Unidades Administrativas;
 
 III. Distribuir las cargas de trabajo de las Unidades Administrativas, así como constituir grupos de trabajo para la atención de asuntos específicos o proyectos especiales;
 
@@ -517,49 +549,79 @@ X. Suscribir los Contratos previstos en la Ley de Hidrocarburos;
 
 XI. Representar a la Comisión ante el Consejo de Coordinación del Sector Energético a que refiere la Ley;
 
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+XI Bis. Presidir el Comité Técnico del Fideicomiso de la Comisión conforme a sus facultades establecidas en el Contrato de Fideicomiso de la Comisión y las Reglas de Operación respectivas;
+
 XII. Coordinar las relaciones de la Comisión con dependencias y entidades de la Administración Pública Federal, estatal y municipal, u otros organismos públicos o privados, nacionales, internacionales o extranjeros y, en su caso, suscribir los convenios de colaboración y coordinación convenientes para el cumplimiento del objeto y las atribuciones de la Comisión e informar al Órgano de Gobierno de los mismos;
 
-XIII. Participar en consejos, comités, reuniones, eventos, foros o negociaciones relacionados con la competencia de la Comisión, así como comisionar a los servidores públicos de la Comisión para los efectos correspondientes;
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-XIV. Coordinar la emisión de los planes, programas e instrumentos de política pública en materia energética;
+XIII. Convocar y participar en consejos, comités, reuniones, eventos, foros o negociaciones relacionados con la competencia de la Comisión, así como comisionar a los servidores públicos de la Comisión para los efectos correspondientes, salvo que dicha facultad no esté expresamente prevista en algún otro servidor público de la Comisión, en términos del Reglamento Interno o la Normativa Aplicable;
+
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+XIV. Aportar al Ejecutivo Federal los elementos técnicos necesarios para la formulación y seguimiento del Plan Nacional de Desarrollo, el programa sectorial en materia de energía y demás instrumentos de política pública;
 
 XV. Proponer al Órgano de Gobierno las disposiciones y políticas a que hace referencia el artículo 36 de la Ley;
 
 XVI. Proponer al Órgano de Gobierno la designación de los coordinadores y secretarios de los Comités Licitatorios, así como designar al personal que deba formar parte de los mismos;
 
-XVII. Participar en la definición y supervisar la ejecución de la estrategia institucional, para el cumplimiento de los objetivos y metas de la Comisión, y
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-XVIII. Las demás que le confiera mediante acuerdo el Órgano de Gobierno y las que sean necesarias para el cumplimiento de sus funciones.
+XVII. Definir, programar y evaluar la estrategia institucional para el cumplimiento de los objetivos, metas y programas de trabajo de la Comisión;
+
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+XVII Bis. Definir la misión y visión que permita establecer los objetivos, metas y programas de trabajo de la Comisión, y
+
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+XVIII. Las demás que le confiera mediante acuerdo el Órgano de Gobierno y las que sean necesarias para el cumplimiento de sus facultades.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
 
 ###### Artículo 15.
 
-Delegación de funciones del Comisionado Presidente. Para la mejor organización del trabajo, el Comisionado Presidente podrá, sin perjuicio del ejercicio directo de sus atribuciones, delegar e instruir las funciones en servidores públicos subalternos, según corresponda, en términos del presente Reglamento Interno o mediante acuerdos que, en su caso, deberán ser publicados en el Diario Oficial de la Federación.
+Delegación de facultades del Comisionado Presidente. Para la mejor organización del trabajo, el Comisionado Presidente podrá, sin perjuicio del ejercicio directo de sus facultades, delegar e instruir las facultades en servidores públicos subalternos, según corresponda, en términos del presente Reglamento Interno o mediante acuerdos que, en su caso, deberán ser publicados en el Diario Oficial de la Federación.
 
 Asimismo, podrá autorizar por oficio a servidores públicos de la Comisión para que realicen actos o suscriban comunicaciones o documentos específicos, cuando para ello no se requiera acuerdo delegatorio.
 
-Son indelegables las atribuciones del Comisionado Presidente señaladas en el artículo 23 de la Ley, así como las fracciones I, IV, V, VIII, XI y XV del artículo anterior.
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+Son indelegables las facultades del Comisionado Presidente señaladas en el artículo 23 de la Ley, así como las fracciones I, IV, V, VIII, XI y XV del artículo anterior.
 
 ### Capítulo III. Comisionados
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 16.
 
-Facultades de los Comisionados. Además de las facultades que señalen la Ley y demás ordenamientos aplicables, los Comisionados tendrán las siguientes facultades:
+Atribuciones de los Comisionados. Además de las atribuciones que señalen la Ley y demás ordenamientos aplicables, los Comisionados tendrán las siguientes atribuciones:
 
 I. Participar como Comisionado Ponente en la coordinación de los Asuntos, así como en los grupos de trabajo que se integren en la Comisión;
 
-II. Convocar y participar en representación de la Comisión en foros, eventos o reuniones nacionales, internacionales o extranjeras;
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-III. Participar, previo acuerdo del Órgano de Gobierno, en los trabajos y reuniones de los consejos y comités de normalización de conformidad con la Ley Federal sobre Metrología y Normalización para la emisión de las normas oficiales mexicanas de su competencia y sus correspondientes procedimientos de evaluación de la conformidad y demás organismos establecidos en la Ley, la Ley de Hidrocarburos y demás Normativa Aplicable relacionada con su objeto;
+II. Participar en representación de la Comisión en foros, organismos y asociaciones internacionales respecto de las materias de su competencia;
+
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+III. Participar en los trabajos y reuniones del comité consultivo nacional de normalización de la Comisión, de conformidad con la Ley de Infraestructura de la Calidad, las reglas de operación en la materia y demás Normativa Aplicable, para la emisión de las normas oficiales mexicanas de su competencia y sus correspondientes procedimientos de evaluación de la conformidad;
 
 IV. Instruir el nombramiento o remoción de su personal de apoyo directo, de acuerdo con el presupuesto y estructura autorizada de la Comisión;
 
-V. Solicitar a cualquier servidor público de la Comisión informes respecto de la situación que guarden los asuntos a su cargo;
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+V. Solicitar a cualquier servidor público de la Comisión informes respecto de la situación de los asuntos necesarios para el ejercicio de sus atribuciones;
 
 VI. Proponer al Órgano de Gobierno criterios de interpretación administrativa de la Ley, la Ley de Hidrocarburos, del presente Reglamento Interno y demás regulación y disposiciones que emita la Comisión;
 
-VII. Participar en la definición de la estrategia institucional;
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-VIII. Presidir, de conformidad con la Normativa Aplicable, los comités de normalización que se creen para el ejercicio de las funciones de la Comisión, y
+VII. Apoyar al Comisionado Presidente en la definición de la estrategia institucional, y
+
+VIII. (DEROGADA, D.O.F. 31 DE ENERO DE 2024)
 
 IX. Las demás atribuciones que acuerde el Órgano de Gobierno y las que sean necesarias para el ejercicio de sus funciones.
 
@@ -567,27 +629,33 @@ IX. Las demás atribuciones que acuerde el Órgano de Gobierno y las que sean ne
 
 De los recursos de los Comisionados. Los Comisionados podrán contar con el personal auxiliar necesario para el desarrollo de sus funciones, así como con los recursos materiales y financieros correspondientes. Lo anterior, sujeto a la disponibilidad presupuestaria de la Comisión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
 
 ###### Artículo 18.
 
-De la coordinación de las oficinas de los Comisionados. Cada Comisionado contará en su estructura administrativa con al menos un Director de Coordinación, el cual tendrá las facultades siguientes:
+Del coordinador del Comisionado Presidente y la coordinación de los Comisionados. El Comisionado Presidente y cada Comisionado contarán en su estructura administrativa con al menos un Director de Coordinación, el cual tendrá las funciones siguientes:
 
 I. Coordinar y asegurar con los grupos de trabajo, la elaboración de los dictámenes, resoluciones, opiniones y demás documentos en las diferentes áreas y actividades de la Comisión, a fin de atender los temas asignados como ponencias y Asuntos turnados a los Comisionados;
 
 II. Dar seguimiento a las solicitudes formuladas por el Comisionado a los diferentes servidores públicos de la Comisión en el ámbito de sus atribuciones;
 
-III. Participar en la definición, elaboración, modificación y actualización de la Normatividad Aplicable en materia de Exploración y Extracción de Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-IV. Asegurar que las estrategias e iniciativas definidas por los Comisionados se lleven a cabo conforme a lo establecido en la estrategia institucional de la Comisión, y
+III. Participar en la definición, elaboración, modificación y actualización de la Normatividad Aplicable en materia de Exploración y Extracción de Hidrocarburos, y
 
-V. Las demás funciones que le encomiende el Comisionado, así como las que sean necesarias para el ejercicio de sus funciones.
+IV. (DEROGADA, D.O.F. 31 DE ENERO DE 2024)
+
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+V. Las demás funciones que le encomiende el Comisionado Presidente y el Comisionado al cual este adscrito, así como las que sean necesarias para el ejercicio de sus funciones.
 
 ### Capítulo IV. Secretaría Ejecutiva
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 19.
 
-Facultades de la Secretaría Ejecutiva. Además de las atribuciones establecidas en la Ley y demás disposiciones aplicables, tendrá las facultades siguientes:
+Facultades de la Secretaría Ejecutiva. Además de las facultades establecidas en la Ley y demás disposiciones aplicables, tendrá las atribuciones siguientes:
 
 I. En temas del Órgano de Gobierno:
 
@@ -603,7 +671,9 @@ e) Recabar y distribuir, en los tiempos previstos para ello, la documentación a
 
 f) Fungir como escrutador en las sesiones del Órgano de Gobierno y llevar el seguimiento de sus resoluciones y acuerdos;
 
-g) Turnar, de manera secuencial, los Asuntos a los Comisionados, así como informar al Órgano de Gobierno sobre la operación a que se refiere el artículo 9 del presente Reglamento Interno;
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+g) Asignar, de manera secuencial, los Asuntos a los Comisionados, así como informar al Órgano de Gobierno sobre la operación a que se refiere el artículo 9 del presente Reglamento Interno;
 
 h) Apoyar a los Comisionados en la conformación de grupos de trabajo y en la celebración de reuniones preparatorias, sin que necesariamente deba participar en éstas;
 
@@ -611,13 +681,15 @@ i) Fungir como secretario técnico de los Consejos Consultivos;
 
 II. Como asesor del Órgano de Gobierno:
 
-a) Revisar y opinar los proyectos de acuerdos y resoluciones que se pretendan presentar al Órgano de Gobierno, y
+a) (DEROGADO, D.O.F. 31 DE ENERO DE 2024)
 
 b) Intervenir con voz en las sesiones del Órgano de Gobierno.
 
 III. En materia de coordinación y administración:
 
-a) Coordinar a las Unidades Administrativas en la atención de los Asuntos, proyectos, requerimientos o informes que solicite el Órgano de Gobierno, el Comisionado Presidente o terceros, en los términos de sus respectivas atribuciones;
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+a) Coordinar a las Unidades Administrativas en la atención de los Asuntos, proyectos, requerimientos o informes que solicite el Órgano de Gobierno o el Comisionado Presidente, en los términos de sus respectivas atribuciones;
 
 b) Apoyar al Comisionado Presidente en la dirección y coordinación de las actividades de las diferentes Unidades Administrativas, y
 
@@ -639,11 +711,19 @@ b) Integrar el archivo de la Comisión, conforme las disposiciones aplicables, y
 
 c) Expedir certificaciones de los documentos que obren en los archivos de la Comisión, siempre que no corresponda en forma expresa a otro servidor público de la misma.
 
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+V Bis. Instrumentar el sistema de recepción de denuncias y quejas anónimas en el ámbito de las facultades de la Comisión, a que hace referencia la fracción III del artículo 37 de la Ley, así como llevar a cabo el procedimiento correspondiente que para tal efecto emita la Comisión.
+
 VI. Representar a la Comisión ante cualquier autoridad administrativa, así como autorizar a los servidores públicos de la propia Secretaría Ejecutiva para representar a la Comisión ante dichas autoridades, mediante oficio en el que se deberá indicar el asunto específico para el cual se otorga;
 
 VII. En materia de vinculación institucional:
 
 a) Coordinar las relaciones institucionales de la Comisión con dependencias y entidades de la Administración Pública Federal, estatal y municipal, organizaciones públicas o privadas, asociaciones del sector, instituciones de educación superior y medios de información, considerando la participación de los Comisionados y las demás Unidades Administrativas competentes;
+
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+a) Bis Designar a los servidores públicos de la Comisión, cuando sea el caso, para participar con las dependencias competentes en la formulación de los proyectos de iniciativas de leyes, decretos, disposiciones reglamentarias y normas oficiales mexicanas relativas o relacionadas con las actividades reguladas;
 
 b) Coordinar la agenda de vinculación con el Poder Legislativo, en los términos de las instrucciones que reciba del Comisionado Presidente o del Órgano de Gobierno;
 
@@ -653,19 +733,19 @@ d) Coordinar la estrategia de la Comisión en materia de vinculación internacio
 
 e) Coordinar la política y la estrategia de comunicación, así como la imagen institucional de la Comisión.
 
-VIII. En materia de Estrategia Institucional:
-
-a) Acordar con los Comisionados las estrategias a implementar para el cumplimiento de la misión, visión, objetivos, metas y planes de trabajo de la Comisión, y
-
-b) Coordinar con las demás Unidades Administrativas la implementación de las estrategias institucionales para el cumplimiento de la misión, visión, objetivos, metas y planes de trabajo de la Comisión.
+VIII. (DEROGADA, D.O.F. 31 DE ENERO DE 2024)
 
 IX. Las demás que le confieran otras disposiciones legales y demás funciones, encargos y asuntos que le encomienden, según sea el caso, el Órgano de Gobierno o el Comisionado Presidente, así como las que sean necesarias para el ejercicio de sus atribuciones.
 
-La Secretaría Ejecutiva, en el ejercicio de las facultades señaladas en el presente artículo, será asistida por:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 31 DE ENERO DE 2024)</small>
+
+La Secretaría Ejecutiva, en el ejercicio de las atribuciones señaladas en el presente artículo, será asistida por:
 
 a) La Dirección General de Vinculación Institucional;
 
-b) La Dirección General de Estrategia Institucional, y
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+b) La Dirección General de Gestión Institucional, y
 
 > <small>(REFORMADO, D.O.F. 6 DE ENERO DE 2021)</small>
 
@@ -673,17 +753,31 @@ c) La Dirección del Secretariado Técnico, a quien le corresponderá acordar co
 
 ### Capítulo V. Titulares de Unidad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 20.
 
-Facultades. Al frente de cada una de las Unidades Administrativas habrá un Titular de Unidad, quien tendrá a su cargo su dirección técnica y administrativa, y será el responsable de su funcionamiento.
+Atribuciones de los Titulares (sic) Unidad. Al frente de cada una de las Unidades Administrativas habrá un Titular de Unidad, quien tendrá a su cargo su dirección técnica y administrativa, y será el responsable de su funcionamiento.
 
-Los Titulares de Unidad tendrán las facultades siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 31 DE ENERO DE 2024)</small>
+
+Los Titulares de Unidad tendrán las atribuciones siguientes:
 
 I. Coordinar y dirigir las Direcciones Generales a su cargo;
 
 II. Emitir los lineamientos, manuales y procedimientos para el funcionamiento de las Unidades Administrativas a su cargo, así como evaluar su desempeño;
 
-III. Proponer los programas, la estructura orgánica, mecanismos de evaluación y control de las unidades a su cargo, así como participar en la formulación del anteproyecto de presupuesto conforme a la Normativa Aplicable;
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+III. Proponer la estructura orgánica, mecanismos de evaluación y control de las unidades a su cargo, así como participar en la formulación del anteproyecto de presupuesto conforme a la Normativa Aplicable;
+
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+III Bis. Participar, en el ámbito de sus competencias, en las iniciativas estratégicas, indicadores y metas para conformar el programa de trabajo institucional;
+
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+III Ter. Elaborar y presentar los objetivos, proyectos, procesos, indicadores y metas para conformar los programas de trabajo de las Direcciones Generales a su cargo;
 
 IV. Solicitar a los regulados, siempre con el visto bueno de la Unidad Jurídica, la información técnica que requiera para el desarrollo de sus funciones y, a solicitud de los Comisionados, informar sobre los resultados de dichas gestiones;
 
@@ -711,7 +805,9 @@ X. Ejercer el presupuesto asignado a su Unidad Administrativa conforme a lo apro
 
 XI. Proponer a la Unidad Administrativa competente, los elementos técnicos para la elaboración de la regulación y normas oficiales mexicanas que procedan en la materia de su competencia;
 
-XII. Presidir o, en su caso, participar en los consejos, comités, subcomités y grupos de trabajo en donde se analicen y elaboren las normas oficiales mexicanas, normas mexicanas y disposiciones de carácter general, así como aquéllos que conforme a la Normativa Aplicable deba participar la Comisión;
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+XII. Participar en los consejos, comités, subcomités y grupos de trabajo en donde se analicen y elaboren las normas oficiales mexicanas, normas mexicanas y disposiciones de carácter general, conforme a la Normativa Aplicable;
 
 XIII. Expedir certificaciones de documentos que obren en los archivos de la unidad a su cargo;
 
@@ -719,63 +815,207 @@ XIV. Admitir a trámite, prevenir, desechar o en su caso remitir a la autoridad 
 
 XV. Las que les confiera expresamente el Órgano de Gobierno o el Comisionado Presidente, y
 
-XVI. Las demás que correspondan a las Direcciones Generales que le sean adscritas.
+XVI. (DEROGADA, D.O.F. 31 DE ENERO DE 2024)
+
+> <small>(ADICIONADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+###### Artículo 20 Bis.
+
+Atribuciones del Titular de la Unidad Jurídica. Sin perjuicio de otras atribuciones establecidas en el Reglamento Interno y demás Normativa Aplicable, el Titular de la Unidad Jurídica tendrá las atribuciones siguientes:
+
+I. Asesorar al Órgano de Gobierno, al Comisionado Presidente, a los Comisionados, al Secretario Ejecutivo y las Unidades Administrativas en materia jurídica;
+
+II. Dirigir los actos relacionados con los procesos de contratación establecidos en la Ley de Hidrocarburos;
+
+III. Suscribir, en conjunto con el Titular de la Unidad de Administración Técnica de Asignaciones y Contratos y el Comisionado Presidente, los Contratos;
+
+IV. Coordinar y dirigir las actividades asociadas con la administración, o ejecución de las garantías presentadas en los procesos de contratación previstos en la Ley de Hidrocarburos;
+
+V. Coordinar y dirigir la evaluación jurídica respecto de las consultas y el seguimiento del cumplimiento relacionados con los términos y condiciones de las Asignaciones y las cláusulas de los Contratos, así como de la existencia de alguna de las causales de caso fortuito o fuerza mayor, de rescisión administrativa o contractual, de terminación anticipada e imposición de penas convencionales y penalizaciones;
+
+VI. Coordinar y dirigir los procesos para la elaboración y actualización de la regulación, lineamientos, instructivos, criterios, metodologías, parámetros, directivas, reglas, manuales, disposiciones técnicas y administrativas para regular la Exploración y Extracción de Hidrocarburos, y demás normativa que expresamente establezca la Ley, la Ley de Hidrocarburos, su Reglamento y demás Normativa Aplicable;
+
+VII. Coordinar el desahogo de los procedimientos jurídicos por los cuales se inician los procedimientos de sanción y se impongan sanciones en el ámbito de competencia de la Comisión;
+
+VIII. Definir los procedimientos jurídicos para la emisión de autorizaciones, aprobaciones, dictámenes, resoluciones, opiniones, análisis y demás actos administrativos que deba emitir el Órgano de Gobierno, así como aquellos que correspondan a las Unidades Administrativas, derivados de la Ley de Hidrocarburos;
+
+IX. Proponer al Órgano de Gobierno la interpretación para efectos administrativos, de la Ley, la Ley de Hidrocarburos, los reglamentos correspondientes, así como los acuerdos, resoluciones y los criterios generales para su aplicación;
+
+X. Presidir el Comité de Transparencia y dirigir la revisión jurídica de los proyectos de respuesta a solicitudes de información, en términos de la Normativa Aplicable, y
+
+XI. Planear, coordinar y supervisar las funciones de las Direcciones Generales que le sean adscritas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
 
 ###### Artículo 21.
 
-Facultades específicas de la Unidad de Administración Técnica de Asignaciones y Contratos. Sin perjuicio de otras facultades establecidas en el presente Reglamento Interno y demás Normativa Aplicable, el Titular de la Unidad de Administración Técnica de Asignaciones y Contratos tendrá las facultades siguientes:
+Atribuciones del Titular de la Unidad de Administración Técnica de Asignaciones y Contratos. Sin perjuicio de otras atribuciones establecidas en el Reglamento Interno y demás Normativa Aplicable, el Titular de la Unidad de Administración Técnica de Asignaciones:
 
-I. Habilitar a los Servidores Públicos de la Comisión y terceros que realizarán las visitas de verificación e inspección, así como las actividades de certificación y auditoría ordinarias y extraordinarias e informar al Órgano de Gobierno del personal habilitado;
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-II. Solicitar al Titular de la Unidad de Administración y Finanzas que se realicen las gestiones necesarias para la inscripción y actualización de la información de los servidores públicos autorizados para realizar inspecciones y verificaciones en el Padrón, de conformidad con la Ley General de Mejora Regulatoria;
+I. Habilitar y expedir las credenciales a los Servidores Públicos de la Comisión y terceros independientes que realizarán las visitas de verificación e inspección, así como las actividades de certificación y auditoría ordinarias y extraordinarias e informar al Órgano de Gobierno del personal habilitado;
+
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+II. Solicitar al Titular de la Unidad de Administración y Finanzas que se realicen las gestiones necesarias para la inscripción y actualización de la información de los servidores públicos autorizados para realizar inspecciones y verificaciones en el Padrón, así como de la información que integra el Registro Nacional de Visitas Domiciliarias, de conformidad con la Ley General de Mejora Regulatoria;
 
 III. Expedir y autorizar, de oficio o a petición de parte, las órdenes de verificación e inspección con base en la resolución del Órgano de Gobierno y de acuerdo a las disposiciones legales, reglamentarias y Normativas Aplicables;
 
-IV. Inscribir y actualizar, en coordinación con la Unidad de Administración y Finanzas, la información que integra el Registro Nacional de Visitas Domiciliarias de conformidad la Ley General de Mejora Regulatoria, y
+IV. (DEROGADA, D.O.F. 31 DE ENERO DE 2024)
 
-V. Expedir las credenciales a los Servidores Públicos y terceros habilitados para la práctica de visitas de verificación e inspección, así como las actividades de certificación y auditoría ordinarias y extraordinarias.
+V. (DEROGADA, D.O.F. 31 DE ENERO DE 2024)
+
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+VI. Suscribir, en conjunto con el Titular de la Unidad Jurídica y el Comisionado Presidente, los Contratos;
+
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+VII. Coordinar las acciones a ejercer por parte de las unidades administrativas a su cargo, asociadas al seguimiento y verificación del cumplimiento de las obligaciones de los operadores petroleros, derivadas de los Contratos, Asignaciones y Normativa Aplicable;
+
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+VIII. Coordinar las acciones a ejercer por parte de las unidades administrativas a su cargo, asociadas al seguimiento a la ejecución de las actividades consideradas en los planes de Exploración y planes de desarrollo para la Extracción de los operadores petroleros;
+
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+IX. Coordinar el seguimiento a la ejecución de las actividades consideradas en los programas de capacitación y transferencia de tecnología de los operadores petroleros;
+
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+X. Administrar la documentación en la que consten los acuerdos alcanzados mediante negociación o las medidas decretadas por el Ejecutivo Federal o los tribunales competentes en materia de uso y ocupación superficial en relación con los Contratos y Asignaciones;
+
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+XI. Administrar la documentación e información correspondiente para la sustanciación de procedimientos de penas convencionales, sanciones y demás derivados de los Contratos y las Asignaciones, y
+
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+XII. Planear, coordinar y supervisar las funciones de las Direcciones Generales que le sean adscritas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
 
 ###### Artículo 22.
 
-Facultades específicas de la Unidad de Administración y Finanzas. Sin perjuicio de otras facultades establecidas en el presente Reglamento Interno y demás Normativa Aplicable, el Titular de la Unidad de Administración y Finanzas tendrá las facultades siguientes:
+Atribuciones y facultades del Titular de la Unidad de Administración y Finanzas. Sin perjuicio de las facultades establecidas en la Ley Orgánica de la Administración Pública Federal y demás Normativa Aplicable, el Titular de la Unidad de Administración y Finanzas tendrá las atribuciones siguientes:
 
 I. Fungir como coordinador del control interno de la Comisión;
 
-II. Fungir como responsable oficial de mejora regulatoria de la Comisión en términos de la Normativa Aplicable, y
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-III. Gestionar la inscripción y actualización de los servidores públicos autorizados para realizar visitas de verificación e inspección y demás información que se deba inscribir en el Registro Nacional de Visitas Domiciliarias a que hace referencia la Ley General de Mejora Regulatoria.
+II. Fungir como responsable oficial de mejora regulatoria de la Comisión en términos de la Normativa Aplicable;
 
-> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O.F. 8 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+III. Gestionar la inscripción y actualización de los servidores públicos autorizados para realizar visitas de verificación e inspección y demás información que se deba inscribir en el Registro Nacional de Visitas Domiciliarias a que hace referencia la Ley General de Mejora Regulatoria;
+
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+IV. Dirigir y coordinar el proceso de actuación de los servicios de apoyo administrativo en materia de planeación, programación, presupuesto, tecnologías de la información, recursos humanos, recursos materiales, contabilidad, y los demás que sean necesarios en la Comisión;
+
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+V. Fungir como instancia administrativa para tramitar ante la Secretaría de Hacienda y Crédito Público aquellas consultas y solicitudes en materia presupuestaria y contable de la Comisión;
+
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+VI. Fungir como instancia administrativa para tramitar ante la Secretaría de la Función Pública aquellas consultas y solicitudes en materia organizacional y de administración del personal de la Comisión;
+
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+VII. Coordinar y participar en conjunto con el Órgano Interno de Control en la Comisión en la ejecución de las estrategias de blindaje electoral, y
+
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+VIII. Planear, coordinar y supervisar las funciones de las Direcciones Generales que le sean adscritas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
 
 ###### Artículo 22 Bis.
 
-Facultades específicas de la Unidad Técnica de Exploración y su Supervisión y la Unidad Técnica de Extracción y su Supervisión. Sin perjuicio de otras facultades establecidas en el presente Reglamento Interno y demás Normativa Aplicable, el Titular de la Unidad Técnica de Exploración y su Supervisión y el Titular de la Unidad Técnica de Extracción y su Supervisión tendrán las facultades siguientes:
+Atribuciones de los Titulares de la Unidad Técnica de Exploración y su Supervisión y la Unidad Técnica de Extracción y su Supervisión. Sin perjuicio de otras atribuciones establecidas en el Reglamento Interno y demás Normativa Aplicable, el Titular de la Unidad Técnica de Exploración y su Supervisión y el Titular de la Unidad Técnica de Extracción y su Supervisión tendrán las atribuciones siguientes:
+
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2023)</small>
 
 I. Resolver y en su caso emitir las autorizaciones de perforación de pozos exploratorios o de desarrollo, según corresponda, que hayan caducado;
 
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2023)</small>
+
 II. Pronunciarse respecto a las solicitudes de renovación de las autorizaciones de perforación de pozos exploratorios o desarrollo, según corresponda;
 
-III. Pronunciarse respecto a las solicitudes de prórroga de las autorizaciones de perforación de pozos exploratorios o desarrollo, según corresponda, y
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-IV. Dar seguimiento a los programas de capacitación y transferencia de tecnología, de conformidad con las facultades y atribuciones que le correspondan.
+III. Pronunciarse respecto a las solicitudes de prórroga de las autorizaciones de perforación de pozos exploratorios o desarrollo, según corresponda;
 
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+IV. Supervisar el cumplimiento de los programas de capacitación y transferencia de tecnología, de conformidad con las facultades y atribuciones que le correspondan;
+
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+V. En el ámbito de sus competencias, dirigir la emisión y revocación de autorizaciones de perforación de pozos;
+
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+VI. Supervisar la elaboración de los dictámenes técnicos de los planes y programas correspondientes, así como las opiniones técnicas que se propongan al Órgano de Gobierno, en el ámbito de sus competencias;
+
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+VII. Asegurar, en el ámbito de sus competencias, que se informe a la Dirección General de Seguimiento de Asignaciones sobre la probable existencia de alguna de las causales de revocación de Asignaciones y la recuperación del Área de Asignación;
+
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+VIII. Coordinar y supervisar la elaboración del dictamen técnico sobre la procedencia de la solicitud de migración de Asignaciones a Contratos, en el ámbito de sus competencias;
+
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+IX. En materia de exploración, resolver la inscripción y administrar el padrón relativo al Reconocimiento y Exploración Superficial, y
+
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+X. En el ámbito de sus competencias, planear, coordinar y supervisar las funciones de las Direcciones Generales que les sean adscritas.
 
 ###### Artículo 23.
 
-Suscripción de Contratos. Los Titulares de la Unidad Jurídica, y de la Unidad de Administración Técnica de Asignaciones y Contratos, previa validación de la Unidad Jurídica, suscribirán junto con el Comisionado Presidente, los Contratos previstos en la Ley de Hidrocarburos.
+(DEROGADO, D.O.F. 31 DE ENERO DE 2024)
+
+> <small>(ADICIONADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+###### Artículo 23 Bis.
+
+Atribuciones del Titular del Centro Nacional de Información de Hidrocarburos. Sin perjuicio de otras atribuciones establecidas en el Reglamento Interno y demás Normativa Aplicable, el Titular del Centro Nacional de Información de Hidrocarburos tendrá las atribuciones siguientes:
+
+I. Coordinar y supervisar la administración del Centro Nacional de Información de Hidrocarburos;
+
+II. Coordinar y supervisar el acopio, resguardo, administración, uso, actualización y publicación de la información referida en los artículos 32, 33, 35 y 89 de la Ley de Hidrocarburos;
+
+III. Coordinar la atención de las solicitudes de información contenida en el Centro Nacional de Información de Hidrocarburos;
+
+IV. Supervisar los estudios económicos y de análisis relacionados con el sector de Exploración y Extracción de Hidrocarburos;
+
+V. Coordinar lo relativo a la evaluación económica y los programas de inversiones que resulten competencia de la Comisión;
+
+VI. Coordinar el desarrollo de análisis estadísticos sobre las actividades competencia de la Comisión;
+
+VII. Planear, coordinar y supervisar las funciones de las Direcciones Generales que le sean adscritas.
 
 ### Capítulo VI. Direcciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 24.
 
-Facultades. Al frente de cada una de las Direcciones Generales habrá un Director General, quien tendrá a su cargo su dirección técnica y administrativa y será el responsable de su funcionamiento.
+Funciones de las Direcciones Generales. Al frente de cada una de las Direcciones Generales habrá un Director General, quien tendrá a su cargo su dirección técnica y administrativa y será el responsable de su funcionamiento.
 
-Los Directores Generales tendrán las facultades siguientes:
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+Los Directores Generales tendrán las funciones siguientes
 
 I. Proveer asesoría técnica a las dependencias y entidades en materia de su competencia;
 
-II. Formular los informes, proyectos, análisis, investigaciones, estudios, opiniones o documentos que conforme a su competencia les sean requeridos;
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+II. Formular los informes, proyectos, análisis, investigaciones, estudios, opiniones o documentos que conforme a su competencia les sean requeridos por el Comisionado Presidente, los Comisionados o el Titular de Unidad correspondiente;
 
 III. Tramitar y resolver los asuntos de su competencia;
 
@@ -787,15 +1027,19 @@ b) Participar en la elaboración del Programa Anual de Visitas de Verificación 
 
 c) (DEROGADO, D.O.F. 6 DE ABRIL DE 2022)
 
-d) Realizar, en coordinación con la Dirección General de Inspección y Verificación, las visitas de verificación e inspección ordinarias y extraordinarias;
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+d) Realizar, en coordinación con la Dirección General de Supervisión de Campo y Contenido Nacional, las visitas de verificación e inspección ordinarias y extraordinarias;
 
 e) Requerir la presentación de información, reportes y documentación y citar a comparecer a servidores públicos y representantes de empresas productivas del Estado, particulares que realicen actividades reguladas y terceros relacionados con los mismos;
 
-f) Analizar y determinar en coordinación con la Dirección General de Inspección y Verificación los hechos posiblemente constitutivos de sanción administrativa derivados de sus facultades de supervisión;
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 2022)</small>
+f) Analizar y determinar en coordinación con la Dirección General de Supervisión de Campo y Contenido Nacional los hechos posiblemente constitutivos de sanción administrativa derivados de sus facultades de supervisión;
 
-g) Si derivado de la supervisión de gabinete se detectaran posibles incumplimientos en el ámbito de sus atribuciones, solicitar a la Dirección General de Inspección y Verificación la realización de una supervisión de campo o bien, si derivado de la ejecución de las acciones de supervisión se cuenta con los elementos suficientes para acreditar un posible incumplimiento, comunicar a la Unidad Jurídica los hechos detectados y, de resultar procedente, ésta por conducto de la Dirección General de lo Contencioso, ponga a consideración del Órgano de Gobierno los elementos necesarios para que este determine el inicio de un procedimiento administrativo de sanción. Así como de ser el caso, participar en la sustanciación de los procedimientos administrativos de sanción en términos del presente Reglamento, proporcionando los insumos técnicos que les sean requeridos por la Dirección General de lo Contencioso, y
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+g) Si derivado de la supervisión de gabinete se detectaran posibles incumplimientos en el ámbito de sus atribuciones, solicitar a la Dirección General de Supervisión de Campo y Contenido Nacional la realización de una supervisión de campo o bien, si derivado de la ejecución de las acciones de supervisión se cuenta con los elementos suficientes para acreditar un posible incumplimiento, comunicar a la Unidad Jurídica los hechos detectados y, de resultar procedente, ésta por conducto de la Dirección General de lo Contencioso, ponga a consideración del Órgano de Gobierno los elementos necesarios para que este determine el inicio de un procedimiento administrativo de sanción. Así como de ser el caso, participar en la sustanciación de los procedimientos administrativos de sanción en términos del presente Reglamento, proporcionando los insumos técnicos que les sean requeridos por la Dirección General de lo Contencioso, y
 
 h) Requerir informes sobre cualquier siniestro, hecho o contingencia derivado de las operaciones del Contratista, Asignatario o Autorizado.
 
@@ -809,7 +1053,9 @@ c) Remitir a la Unidad de Administración y Finanzas los elementos necesarios pa
 
 d) Vigilar de manera continua, en coordinación con la Unidad de Administración y Finanzas, que los Asignatarios, Contratistas y Autorizados cumplan con las obligaciones en materia de pago de derechos y aprovechamientos que se determine en la Normativa Aplicable, y en su caso dar aviso a la Unidad Administrativa correspondiente sobre su incumplimiento.
 
-VI. Asesorar al Comisionado Presidente, los Comisionados, a la Secretaría Ejecutiva y a los Titulares de Unidad en la tramitación y desahogo de los asuntos que se presenten al Órgano de Gobierno;
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+VI. Asesorar al Comisionado Presidente, los Comisionados, a la Secretaría Ejecutiva y a los Titulares de Unidad en la tramitación y desahogo de los Asuntos que se presenten al Órgano de Gobierno;
 
 VII. Coordinar y dirigir al personal bajo su mando;
 
@@ -835,6 +1081,10 @@ XVII. Proporcionar a la Unidad Jurídica toda la información, documentación, a
 
 XVIII. Establecer mecanismos de programación, coordinación, control, evaluación y mejora de la gestión del área a su cargo;
 
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+XVIII Bis. Participar, en el ámbito de su competencia, en conjunto con los Titulares de Unidad, en los objetivos, proyectos, procesos, indicadores y metas, para conformar los programas de trabajo de las Direcciones Generales;
+
 XIX. Participar, en el ámbito de su competencia, en la identificación, información y monitoreo de los riesgos, para efectos de control, auditoría y estrategia institucional;
 
 XX. Realizar estudios en materia del uso de tecnologías más adecuada en los proyectos en el ámbito de su competencia;
@@ -855,33 +1105,41 @@ XXVII. Las demás que les confieran otras disposiciones y las que les instruyan 
 
 ###### Artículo 25.
 
-Facultades de la Dirección General de Estrategia Institucional. La Dirección General de Estrategia Institucional, adscrita a la Secretaría Ejecutiva, acordará con su titular el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+(DEROGADO, D.O.F. 31 DE ENERO DE 2024)
 
-I. Coordinar a las Unidades Administrativas para proponer las estrategias a implementar para dar cumplimiento a la misión, visión, objetivos, metas y planes de trabajo de la Comisión;
+> <small>(ADICIONADO, D.O.F. 31 DE ENERO DE 2024)</small>
 
-II. Dirigir la integración de los programas, planes y proyectos generales, especiales y estratégicos para el cumplimiento de la misión, visión, objetivos, metas y planes de trabajo de la Comisión, coordinando a las Unidades Administrativas;
+###### Artículo 25 Bis.
 
-III. Coordinar los procesos para la definición, implementación y seguimiento de la estrategia institucional de la Comisión;
+Funciones de la Dirección General de Gestión Institucional. La Dirección General de Gestión Institucional, adscrita a la Secretaría Ejecutiva, acordará con su titular el despacho de los asuntos de su competencia y tendrá las funciones siguientes:
 
-IV. Realizar los informes necesarios sobre la ejecución y avance de la estrategia institucional de la Comisión, solicitando a los Titulares de Unidad la información pertinente;
+I. Establecer y vigilar la aplicación de los criterios para el diseño y modelado de la arquitectura, la documentación y la mejora de procesos;
 
-V. Coordinar a las Unidades Administrativas para la elaboración de la arquitectura de procesos y flujogramas, los manuales de procedimientos y los mecanismos para actualización y difusión;
+II. Coordinar a las Unidades Administrativas para la elaboración de la arquitectura de procesos y flujogramas, los manuales de procedimientos y los mecanismos para su actualización y difusión;
 
-VI. Analizar el avance en la ejecución de la estrategia y en caso de desviaciones solicitar a Titulares de Unidad el establecimiento de medidas preventivas y/o correctivas;
+III. Establecer y aplicar los mecanismos para evaluar los subprocesos para la mejora continua;
 
-VII. Dirigir las actividades relacionadas con la Administración del Conocimiento y fungir como área coordinadora de archivos, previstas en la fracción V del artículo 19 del presente Reglamento Interno, y
+IV. Turnar los Asuntos que requieran Ponencia de los Comisionados;
 
-VIII. Las demás funciones, encargos y asuntos que le encomienden el Órgano de Gobierno, el Comisionado Presidente, así como las demás que sean necesarias para el ejercicio de su competencia.
+V. Establecer los mecanismos de operación, seguimiento y comunicación del control de gestión institucional;
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
+VI. Gestionar la entrega de las notificaciones que emitan las unidades administrativas;
 
-a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
+VII. Turnar los trámites ingresados a la Oficialía de Partes y la Oficialía de Partes Automatizada a las Unidades Administrativas correspondientes, así como llevar a cabo su registro;
 
-b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
+VIII. Fungir como área coordinadora de archivo con base a las atribuciones y facultades que establece la Normativa Aplicable;
+
+IX. Coordinar el sistema de recepción y atención de denuncias y quejas a que hace referencia la fracción III del artículo 37 de la Ley, con la participación que corresponda de las Unidades Administrativas;
+
+X. Realizar los informes necesarios sobre la gestión institucional respecto del control de gestión, la operación de procesos y administración de archivos de la Comisión, con el apoyo de los Titulares de Unidad, y
+
+XI. Las demás funciones, encargos y asuntos que le encomienden el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
 
 ###### Artículo 26.
 
-Facultades de la Dirección General de Vinculación Institucional. La Dirección General de Vinculación Institucional, adscrita a la Secretaría Ejecutiva, acordará con su titular el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Funciones de la Dirección General de Vinculación Institucional. La Dirección General de Vinculación Institucional, adscrita a la Secretaría Ejecutiva, acordará con su titular el despacho de los asuntos de su competencia y tendrá las funciones siguientes:
 
 I. Proponer la estrategia y la agenda de vinculación institucional, instrumentarla con la participación de los Comisionados y las Unidades Administrativas que correspondan, así como darle seguimiento;
 
@@ -913,11 +1171,11 @@ b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 c) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
 
 ###### Artículo 27.
 
-Facultades de la Dirección General de Contratación para la Exploración y Extracción. La Dirección General de Contratación para la Exploración y Extracción, adscrita a la Unidad Jurídica, acordará con el Titular de ésta el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Funciones de la Dirección General de Contratación para la Exploración y Extracción. La Dirección General de Contratación para la Exploración y Extracción, adscrita a la Unidad Jurídica, acordará con el Titular de ésta el despacho de los asuntos de su competencia y tendrá las funciones siguientes:
 
 I. (DEROGADA, D.O.F. 25 DE OCTUBRE DE 2019)
 
@@ -963,11 +1221,11 @@ a) (DEROGADO, D.O.F. 25 DE OCTUBRE DE 2019)
 
 b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
 
 ###### Artículo 28.
 
-Facultades de la Dirección General Jurídica de Asignaciones y Contratos. La Dirección General Jurídica de Asignaciones y Contratos, adscrita a la Unidad Jurídica, acordará con el Titular de ésta el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Funciones de la Dirección General Jurídica de Asignaciones y Contratos. La Dirección General Jurídica de Asignaciones y Contratos, adscrita a la Unidad Jurídica, acordará con el Titular de ésta el despacho de los asuntos de su competencia y tendrá las funciones siguientes:
 
 > <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
 
@@ -985,7 +1243,9 @@ VI. Analizar, en coordinación con la Unidad de Administración Técnica de Asig
 
 VII. Determinar en conjunto con la Unidad de Administración Técnica de Asignaciones y Contratos, la existencia de alguna de las causales de caso fortuito o fuerza mayor, de rescisión administrativa o contractual, de terminación anticipada e imposición de penas convencionales de los Contratos y de estimarlo procedente, ésta ponga a consideración del Órgano de Gobierno la resolución respectiva.
 
-Tratándose de penas convencionales relativas al pago de Contraprestaciones, éstas serán determinadas conjuntamente con la Unidad de Administración Técnica de Asignaciones y Contratos;
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+Tratándose de penalizaciones relativas al pago de Contraprestaciones, éstas serán determinadas conjuntamente con la Unidad de Administración Técnica de Asignaciones y Contratos;
 
 > <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
 
@@ -1015,11 +1275,11 @@ c) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 d) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
 
 ###### Artículo 29.
 
-Facultades de la Dirección General de Regulación. La Dirección General de Regulación, adscrita a la Unidad Jurídica, acordará con el Titular de ésta el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Funciones de la Dirección General de Regulación. La Dirección General de Regulación, adscrita a la Unidad Jurídica, acordará con el Titular de ésta el despacho de los asuntos de su competencia y tendrá las funciones siguientes:
 
 I. En materia de elaboración de proyectos de regulación y normalización:
 
@@ -1035,7 +1295,7 @@ e) Proponer la estrategia regulatoria y normativa de la Comisión con base en la
 
 f) Participar en los procesos de modernización y adecuación del marco normativo en el ámbito de competencia de la Comisión, y
 
-g) Coordinar el funcionamiento del Consejo Consultivo.
+g) (DEROGADO, D.O.F. 31 DE ENERO DE 2024)
 
 II. En materia de mejora regulatoria:
 
@@ -1059,9 +1319,11 @@ a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 30.
 
-Facultades de la Dirección General de lo Contencioso. La Dirección General de lo Contencioso, adscrita a la Unidad Jurídica, acordará con el Titular de ésta el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Funciones de la Dirección General de lo Contencioso. La Dirección General de lo Contencioso, adscrita a la Unidad Jurídica, acordará con el Titular de ésta el despacho de los asuntos de su competencia y tendrá las funciones siguientes:
 
 I. Asesorar jurídicamente sobre cuestiones contenciosas a las Unidades Administrativas en los asuntos que sean competencia de las mismas;
 
@@ -1097,7 +1359,9 @@ XIV. Sustanciar los procedimientos administrativos de sanción, imposición de s
 
 XV. Proponer al Órgano de Gobierno el inicio y resolución de procedimientos administrativos de sanción e imposición de sanciones conforme a la Normativa Aplicable;
 
-XVI. Coadyuvar con la Dirección General de Inspección y Verificación para el desarrollo de los procesos de visitas de verificación e inspección que se lleven a cabo, y
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+XVI. Coadyuvar con la Dirección General de Supervisión de Campo y Contenido Nacional para el desarrollo de los procesos de visitas de verificación e inspección que se lleven a cabo, y
 
 XVII. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de sus atribuciones.
 
@@ -1109,23 +1373,25 @@ b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 > <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
 
 ###### Artículo 31.
 
-Facultades de la Dirección General de Consulta. La Dirección General de Consulta, adscrita a la Unidad Jurídica, acordará con el Titular de ésta el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Funciones de la Dirección General de Consulta. La Dirección General de Consulta, adscrita a la Unidad Jurídica, acordará con el Titular de ésta el despacho de los asuntos de su competencia y tendrá las funciones siguientes:
 
 I. En materia de procedimientos administrativos:
 
 a) Coordinar los procedimientos administrativos para la emisión de autorizaciones, aprobaciones, dictámenes, resoluciones, opiniones análisis y demás actos administrativos que deba emitir el Órgano de Gobierno, así como aquellos que correspondan a las Unidades Administrativas, derivados de la Ley de Hidrocarburos;
 
-b) Elaborar los proyectos de resoluciones y acuerdos que emita el Órgano de Gobierno, así como validarlos previo a su firma, salvo aquellos que sean competencia de la Secretaría Ejecutiva en términos del presente Reglamento;
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+b) Elaborar los proyectos de resoluciones y acuerdos que emita el Órgano de Gobierno, así como validarlos previo a su firma; salvo aquellos que sean competencia de otra Unidad Administrativa en términos del Reglamento Interno;
 
 c) Validar jurídicamente los dictámenes y opiniones técnicas que se emitan en los procedimientos administrativos previstos en el inciso a) de la presente fracción;
 
 d) Proporcionar a las Unidades Administrativas que lo requieran los elementos jurídicos necesarios para el trámite de autorizaciones, aprobaciones, dictámenes, resoluciones, opiniones y análisis;
 
-e) Proponer al Órgano de Gobierno el inicio y resolución de los procedimientos de rescisión administrativa, rescisión contractual, terminación anticipada e imposición de penas convencionales de los Contratos, y
+e) (DEROGADO, D.O.F. 31 DE ENERO DE 2024)
 
 f) (DEROGADO, D.O.F. 25 DE OCTUBRE DE 2019)
 
@@ -1137,7 +1403,9 @@ a) Revisar, opinar y en su caso validar los proyectos de contratos, convenios e 
 
 b) Desahogar las consultas en materia jurídica que le sean formuladas, en coordinación con las Unidades Administrativas cuando así lo considere necesario, con excepción de aquellas previstas en los artículos 28, fracción IX y 29, fracción IV del presente Reglamento Interno;
 
-c) Proponer los criterios de interpretación para efectos administrativos, que emita la Comisión en la materia de su competencia, respecto a leyes, reglamentos y las disposiciones normativas o actos administrativos que emita;
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+c) Proponer, al Titular de Unidad, los criterios de interpretación para efectos administrativos, que emita la Comisión en la materia de su competencia, respecto a leyes, reglamentos y las disposiciones normativas o actos administrativos que emita;
 
 d) Coadyuvar con la Secretaría Ejecutiva en la publicación de los criterios de interpretación para efectos administrativos en que la Comisión base sus decisiones, a través del mecanismo que se establezca para sistematizar las mismas, y
 
@@ -1163,9 +1431,11 @@ a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 32.
 
-Facultades de la Dirección General de Autorizaciones de Exploración. La Dirección General de Autorizaciones de Exploración, adscrita a la Unidad Técnica de Exploración y su Supervisión, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Funciones de la Dirección General de Autorizaciones de Exploración. La Dirección General de Autorizaciones de Exploración, adscrita a la Unidad Técnica de Exploración y su Supervisión, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las funciones siguientes:
 
 I. Proporcionar los elementos técnicos y proponer el proyecto al Órgano de Gobierno para lo siguiente:
 
@@ -1186,6 +1456,10 @@ I Bis. Proporcionar a su Titular de Unidad los elementos técnicos y el proyecto
 > <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2023)</small>
 
 I Ter. Proporcionar a su Titular de Unidad los elementos técnicos para el pronunciamiento de las solicitudes de prórroga o renovación de las autorizaciones de perforación de pozos exploratorios;
+
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+I Quater. Proporcionar a su Titular de Unidad los elementos técnicos para el análisis de solicitudes de inscripción en el padrón en materia de Reconocimiento y Exploración Superficial;
 
 > <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2023)</small>
 
@@ -1209,9 +1483,11 @@ a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 33.
 
-Facultades de la Dirección General de Dictámenes de Exploración. La Dirección General de Dictámenes de Exploración, adscrita a la Unidad Técnica de Exploración y su Supervisión, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Funciones de la Dirección General de Dictámenes de Exploración. La Dirección General de Dictámenes de Exploración, adscrita a la Unidad Técnica de Exploración y su Supervisión, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las funciones siguientes:
 
 I. Proponer al Órgano de Gobierno el dictamen técnico respecto del otorgamiento de Asignaciones para la realización de actividades de Exploración;
 
@@ -1243,9 +1519,11 @@ a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 34.
 
-Facultades de la Dirección General de Evaluación del Potencial Petrolero. La Dirección General de Evaluación del Potencial Petrolero, adscrita a la Unidad Técnica de Exploración y su Supervisión, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Funciones de la Dirección General de Evaluación del Potencial Petrolero. La Dirección General de Evaluación del Potencial Petrolero, adscrita a la Unidad Técnica de Exploración y su Supervisión, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las funciones siguientes:
 
 I. Proponer al Órgano de Gobierno la opinión técnica respecto de la participación del Estado Mexicano en los Contratos, en coordinación con las Unidades Administrativas competentes;
 
@@ -1271,9 +1549,11 @@ a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 35.
 
-Facultades de la Dirección General de Dictámenes de Extracción. La Dirección General de Dictámenes de Extracción, adscrita a la Unidad Técnica de Extracción y su Supervisión, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Funciones de la Dirección General de Dictámenes de Extracción. La Dirección General de Dictámenes de Extracción, adscrita a la Unidad Técnica de Extracción y su Supervisión, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las funciones siguientes:
 
 I. Proponer al Órgano de Gobierno el dictamen técnico respecto del otorgamiento de Asignaciones para la realización de actividades de Extracción;
 
@@ -1325,9 +1605,11 @@ c) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 d) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 36.
 
-Facultades de la Dirección General de Reservas. La Dirección General de Reservas, adscrita a la Unidad Técnica de Extracción y su Supervisión, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Funciones de la Dirección General de Reservas. La Dirección General de Reservas, adscrita a la Unidad Técnica de Extracción y su Supervisión, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las funciones siguientes:
 
 I. Proponer al Órgano de Gobierno la opinión técnica para la selección de las Áreas de Asignación y Áreas Contractuales para desarrollar actividades de Extracción;
 
@@ -1371,9 +1653,11 @@ a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 37.
 
-Facultades de la Dirección General de Medición y Comercialización de la Producción. La Dirección General de Medición y Comercialización de la Producción, adscrita a la Unidad Técnica de Extracción y su Supervisión, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Funciones de la Dirección General de Medición y Comercialización de la Producción. La Dirección General de Medición y Comercialización de la Producción, adscrita a la Unidad Técnica de Extracción y su Supervisión, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las funciones siguientes:
 
 I. Dar seguimiento y verificar el cumplimiento de las obligaciones de los Asignatarios y Contratistas en materia de medición de Hidrocarburos;
 
@@ -1427,15 +1711,19 @@ c) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 d) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 38.
 
-Facultades de la Dirección General de Seguimiento de Contratos. La Dirección General de Seguimiento de Contratos, adscrita a la Unidad de Administración Técnica de Asignaciones y Contratos, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Funciones de la Dirección General de Seguimiento de Contratos. La Dirección General de Seguimiento de Contratos, adscrita a la Unidad de Administración Técnica de Asignaciones y Contratos, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las funciones siguientes:
 
 I. Dar seguimiento y verificar el cumplimiento de las obligaciones de los Contratistas, derivadas de los Contratos;
 
 II. Conocer de las notificaciones o avisos que deriven de los Contratos previstos en la fracción anterior;
 
-III. Resguardar la documentación en la que consten los acuerdos alcanzados mediante negociación o las medidas decretadas por el Ejecutivo Federal o los tribunales competentes en materia de uso y ocupación superficial en relación con los Contratos;
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+III. Resguardar la documentación en la que consten los acuerdos alcanzados mediante negociación o las medidas decretadas por el Ejecutivo Federal o los tribunales competentes en materia de uso y ocupación superficial en relación con las Asignaciones, así como las garantías originales de cumplimiento y aquellas garantías corporativas de los Contratos suscritos;
 
 IV. En caso de que del ejercicio de sus atribuciones detecte que un concesionario minero está llevando a cabo actividades de Exploración o Extracción de Hidrocarburos, dar aviso a la Secretaría y a la Secretaría de Economía;
 
@@ -1461,9 +1749,11 @@ a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 39.
 
-Facultades de la Dirección General de Seguimiento de Asignaciones. La Dirección General de Seguimiento de Asignaciones, adscrita a la Unidad de Administración Técnica de Asignaciones y Contratos, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Funciones de la Dirección General de Seguimiento de Asignaciones. La Dirección General de Seguimiento de Asignaciones, adscrita a la Unidad de Administración Técnica de Asignaciones y Contratos, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las funciones siguientes:
 
 I. Dar seguimiento y verificar el cumplimiento de las obligaciones de los Asignatarios, derivadas de las Asignaciones;
 
@@ -1493,31 +1783,101 @@ a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 40.
 
-Facultades de la Dirección General de Inspección y Verificación. La Dirección General de Inspección y Verificación, adscrita a la Unidad de Administración Técnica de Asignaciones y Contratos, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Funciones de la Dirección General de Supervisión de Campo y Contenido Nacional. La Dirección General de Supervisión de Campo y Contenido Nacional, adscrita a la Unidad de Administración Técnica de Asignaciones y Contratos, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las funciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 31 DE ENERO DE 2024)</small>
 
-I. Coordinar y proponer al Órgano de Gobierno el Programa Anual de Visitas de Verificación e Inspección, así como las visitas no programadas, en términos de la Normativa Aplicable;
+I. En materia de inspección y verificación:
 
-II. Mantener actualizada la lista de los servidores públicos y terceros independientes, autorizados para realizar certificaciones, auditorias y visitas de verificación e inspecciones;
+> <small>(ADICIONADO, D.O.F. 31 DE ENERO DE 2024)</small>
 
-III. Realizar las órdenes de verificación e inspección con base en la resolución del Órgano de Gobierno y de acuerdo a las disposiciones legales, reglamentarias y Normativas Aplicables;
+a) Coordinar y proponer al Órgano de Gobierno el Programa Anual de Visitas de Verificación e Inspección, así como las visitas no programadas, en términos de la Normativa Aplicable;
 
-IV. Dar inicio y conclusión a las visitas de verificación e inspección, tanto ordinarias como extraordinarias, que se deban llevar a cabo en términos de la Normativa Aplicable;
+> <small>(ADICIONADO, D.O.F. 31 DE ENERO DE 2024)</small>
 
-V. Coordinar y supervisar las funciones logísticas, administrativas y estadísticas en la práctica de las visitas de verificación e inspección ordinarias y extraordinarias;
+b) Mantener actualizada la lista de los servidores públicos y terceros independientes, autorizados para realizar certificaciones, auditorías y visitas de verificación e inspecciones;
 
-VI. Presentar al Órgano de Gobierno en coordinación con las Direcciones Generales competentes los resultados y, en su caso, los posibles incumplimientos detectados en las prácticas de vistas de verificación e inspección;
+> <small>(ADICIONADO, D.O.F. 31 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 2022)</small>
+c) Realizar las órdenes de verificación e inspección con base en la resolución del Órgano de Gobierno y de acuerdo a las disposiciones legales, reglamentarias y Normativas Aplicables;
 
-VII. Proponer al Órgano de Gobierno en coordinación con las Direcciones Generales competentes el inicio de un procedimiento administrativo de sanción, posterior al análisis jurídico de los resultados de las visitadas ejecutadas y la dictaminación de la procedencia por parte de la Unidad Jurídica;
+> <small>(ADICIONADO, D.O.F. 31 DE ENERO DE 2024)</small>
 
-VIII. Supervisar de manera continua las actividades que se llevan a cabo en las Áreas de Asignaciones o Contractuales pudiéndose apoyar de herramientas tecnológicas o de convenios con autoridades encargadas de actividades de verificación e inspección;
+d) Dar inicio y conclusión a las visitas de verificación e inspección, tanto ordinarias como extraordinarias, que se deban llevar a cabo en términos de la Normativa Aplicable;
 
-IX. Recomendar y realizar programas de capacitación y profesionalización del personal verificador, a efecto de fomentar su actualización y mejora continua, y
+> <small>(ADICIONADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+e) Coordinar y supervisar las funciones logísticas, administrativas y estadísticas en la práctica de las visitas de verificación e inspección ordinarias y extraordinarias;
+
+> <small>(ADICIONADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+f) Presentar al Órgano de Gobierno en coordinación con las Direcciones Generales competentes los resultados y, en su caso, los posibles incumplimientos detectados en las prácticas de vistas de verificación e inspección;
+
+> <small>(ADICIONADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+g) Proponer al Órgano de Gobierno en coordinación con las Direcciones Generales competentes el inicio de un procedimiento administrativo de sanción, posterior al análisis jurídico de los resultados de las visitadas ejecutadas y la dictaminación de la procedencia por parte de la Unidad Jurídica;
+
+> <small>(ADICIONADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+h) Supervisar de manera continua las actividades que se llevan a cabo en las Áreas de Asignaciones o Contractuales pudiéndose apoyar de herramientas tecnológicas o de convenios con autoridades encargadas de actividades de verificación e inspección, y
+
+> <small>(ADICIONADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+i) Recomendar y realizar programas de capacitación y profesionalización del personal verificador, a efecto de fomentar su actualización y mejora continua;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 31 DE ENERO DE 2024)</small>
+
+II. En materia de contenido nacional:
+
+> <small>(ADICIONADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+a) Dar seguimiento al avance en la ejecución de las actividades contenidas en los programas de cumplimiento del porcentaje de contenido nacional, capacitación y transferencia de tecnología en Asignaciones y Contratos, con el apoyo de las Unidades Administrativas correspondientes;
+
+> <small>(ADICIONADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+b) Coordinar con la Secretaría de Economía la emisión de la opinión respecto de las actividades contenidas en los programas de cumplimiento del porcentaje de contenido nacional, y en su caso, de los programas de capacitación y transferencia de tecnología, para la resolución respectiva;
+
+> <small>(ADICIONADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+c) Fungir como vínculo entre la Comisión y la Secretaría de Economía para llevar a cabo las gestiones respecto de la opinión y seguimiento de los programas de cumplimiento del porcentaje mínimo de contenido nacional, capacitación y transferencia de tecnología;
+
+> <small>(ADICIONADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+d) Identificar, definir y evaluar las necesidades de las instituciones educativas, centros de investigación, entidades de gobierno y Operadores Petroleros para conformar iniciativas que puedan ser integradas en los programas de capacitación y transferencia de tecnología;
+
+> <small>(ADICIONADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+e) Identificar, definir y evaluar las necesidades de proveeduría local e infraestructura social para conformar iniciativas que puedan ser integradas en el Programa de cumplimiento del porcentaje de contenido nacional;
+
+> <small>(ADICIONADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+f) Identificar las cadenas productivas locales, incluyendo la participación de las micro, pequeñas y medianas empresas para conformar iniciativas que puedan ser integradas en el programa de cumplimiento al porcentaje de contenido nacional;
+
+> <small>(ADICIONADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+g) Definir y proponer indicadores para evaluar el avance en la ejecución en las actividades de los Programas de Capacitación y Transferencia de Tecnología, y
+
+> <small>(ADICIONADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+h) Requerir información a los Operadores Petroleros, las dependencias y entidades de la Administración Pública Federal, a las áreas internas de la Comisión u otros organismos o instituciones, públicos o privados para dar seguimiento al avance en la ejecución de las actividades contenidas en los programas de capacitación, transferencia de tecnología y de cumplimiento al porcentaje de contenido nacional.
+
+III. (DEROGADA, D.O.F. 31 DE ENERO DE 2024)
+
+IV. (DEROGADA, D.O.F. 31 DE ENERO DE 2024)
+
+V. (DEROGADA, D.O.F. 31 DE ENERO DE 2024)
+
+VI. (DEROGADA, D.O.F. 31 DE ENERO DE 2024)
+
+VII. (DEROGADA, D.O.F. 31 DE ENERO DE 2024)
+
+VIII. (DEROGADA, D.O.F. 31 DE ENERO DE 2024)
+
+IX. (DEROGADA, D.O.F. 31 DE ENERO DE 2024)
 
 X. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
 
@@ -1527,9 +1887,11 @@ a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 41.
 
-Facultades de la Dirección General de Administración del Centro Nacional de Información de Hidrocarburos. La Dirección General de Administración del Centro Nacional de Información de Hidrocarburos, adscrita al Centro Nacional de Información de Hidrocarburos, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Funciones de la Dirección General de Administración del Centro Nacional de Información de Hidrocarburos. La Dirección General de Administración del Centro Nacional de Información de Hidrocarburos, adscrita al Centro Nacional de Información de Hidrocarburos, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las funciones siguientes:
 
 I. Administrar y mantener actualizado el Centro Nacional de Información de Hidrocarburos, el cual incluye la Litoteca Nacional de la Industria de Hidrocarburos;
 
@@ -1557,9 +1919,11 @@ d) (DEROGADO, D.O.F. 25 DE OCTUBRE DE 2019)
 
 e) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 42.
 
-Facultades de la Dirección General de Prospectiva y Evaluación Económica. La Dirección General de Prospectiva y Evaluación Económica, adscrita al Centro Nacional de Información de Hidrocarburos, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Funciones de la Dirección General de Prospectiva y Evaluación Económica. La Dirección General de Prospectiva y Evaluación Económica, adscrita al Centro Nacional de Información de Hidrocarburos, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las funciones siguientes:
 
 I. Proponer, desarrollar y coordinar la publicación de estudios económicos y de análisis relacionados con el sector de Exploración y Extracción de Hidrocarburos, en coordinación con las Unidades Administrativas competentes;
 
@@ -1591,9 +1955,11 @@ b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 c) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 43.
 
-Facultades de la Dirección General de Información, Metodologías y Estadística. La Dirección General de Información, Metodologías y Estadística, adscrita al Centro Nacional de Información de Hidrocarburos, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Funciones de la Dirección General de Información, Metodologías y Estadística. La Dirección General de Información, Metodologías y Estadística, adscrita al Centro Nacional de Información de Hidrocarburos, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las funciones siguientes:
 
 I. Realizar y publicar análisis estadísticos sobre la producción de Hidrocarburos y Reservas, incluyendo la información de reportes de estimación y estudios de evaluación o cuantificación y certificación, la relación entre producción y Reservas, los recursos Contingentes y Prospectivos, la información geológica, geofísica, petrofísica, petroquímica y demás que se obtenga de las actividades de Reconocimiento y Exploración Superficial, así como de la Exploración y Extracción de Hidrocarburos;
 
@@ -1613,9 +1979,11 @@ a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 44.
 
-Facultades de la Dirección General de Finanzas, Adquisiciones y Servicios. La Dirección General de Finanzas, Adquisiciones y Servicios, adscrita a la Unidad de Administración y Finanzas, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Funciones de la Dirección General de Finanzas, Adquisiciones y Servicios. La Dirección General de Finanzas, Adquisiciones y Servicios, adscrita a la Unidad de Administración y Finanzas, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las funciones siguientes:
 
 I. En materia de adquisiciones:
 
@@ -1685,6 +2053,14 @@ c) Establecer, controlar y evaluar los Programas Internos de Protección Civil p
 
 d) Levantar inventarios físicos de los bienes muebles con periodicidad semestral, elaborar y actualizar resguardos y conciliar sus resultados con los registros contables;
 
+> <small>(ADICIONADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+d) Bis. Administrar los almacenes e inventarios y distribuir los bienes e insumos entre las unidades administrativas de la Comisión.
+
+> <small>(ADICIONADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+d) Ter. Suscribir, dar por terminados y rescindir los convenios y contratos derivados de arrendamientos de inmuebles y aquellos que se deriven de la Ley General de Bienes Nacionales, así como de cualquier otro instrumento relacionado en la materia, que implique actos de administración, previo visto bueno de la Dirección General de Consulta.
+
 e) Solicitar el aseguramiento de los bienes muebles que integran el patrimonio de la Comisión, y
 
 f) Elaborar el programa anual de mantenimiento de bienes muebles e instalaciones de la Comisión.
@@ -1707,9 +2083,11 @@ c) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 d) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 45.
 
-Facultades de la Dirección General de Recursos Humanos. La Dirección General de Recursos Humanos, adscrita a la Unidad de Administración y Finanzas, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Funciones de la Dirección General de Recursos Humanos. La Dirección General de Recursos Humanos, adscrita a la Unidad de Administración y Finanzas, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las funciones siguientes:
 
 I. Establecer y aplicar las políticas, programas, normas, sistemas y procedimientos internos y externos que se requieran para la administración de los recursos humanos y organización en términos de la Normativa Aplicable, incluyendo el Sistema del Servicio Profesional de Carrera;
 
@@ -1717,13 +2095,23 @@ II. Administrar el Servicio Profesional de Carrera, así como los subsistemas qu
 
 III. Supervisar el cumplimiento de las obligaciones fiscales, de seguridad social, administrativas, de entero de retenciones de prestaciones, así como de entero de derechos y contribuciones, declaraciones y avisos en cumplimiento de la Normativa Aplicable, en relación con los pagos de servicios personales;
 
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+III Bis. Administrar el sistema para el control presupuestario de los servicios personales a que se refiere la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento;
+
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+III Ter. Autorizar y asegurar los pagos por concepto de servicios personales a los servidores públicos de la Comisión, de acuerdo con el tabulador de remuneraciones en los términos previstos en las disposiciones aplicables; así como coordinar el cumplimiento de las obligaciones fiscales, de seguridad social, administrativas, de entero de retenciones de prestaciones, y expedir las constancias de retenciones de impuestos conforme a la legislación fiscal aplicable por las remuneraciones que recibe el personal, así como realizar la liquidación y pago a terceros, de conformidad con las disposiciones normativas aplicables vigentes;
+
 IV. Atender, conforme a la Normativa Aplicable, los asuntos del personal de la Comisión, su capacitación y el mejoramiento de sus condiciones, sociales, culturales y de trabajo;
 
 V. Recabar de todas las Unidades Administrativas las necesidades de capacitación y presentar para autorización del Órgano de Gobierno el programa anual correspondiente, mismo que deberá contar con la suficiencia presupuestaria respectiva;
 
 VI. Elaborar los perfiles de puesto y la valuación de los mismos, en los términos que establezcan las instancias correspondientes, así como el registro de la estructura de personal conforme a lo establecido en la Normativa Aplicable;
 
-VII. Emitir y tramitar, previa instrucción, los nombramientos de los servidores públicos de la Comisión;
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+VII. Dar trámite a los nombramientos, cambios de adscripción y separaciones del personal de la Comisión, en los términos de las leyes aplicables; así como gestionar las designaciones o nombramientos que deban emitir otras autoridades;
 
 VIII. Expedir las credenciales, hojas de servicio, constancias y demás documentos respecto del personal de la Comisión;
 
@@ -1733,7 +2121,9 @@ X. Integrar y actualizar el registro y control de asistencia, vacaciones y prest
 
 XI. Coordinar las actividades relacionadas con el otorgamiento de estímulos, recompensas y prestaciones que establezca la ley de la materia, así como la imposición y revocación de las sanciones por incumplimiento de obligaciones del personal de la Comisión en materia laboral, en coordinación con la Dirección General de lo Contencioso;
 
-XII. Implementar los controles necesarios aplicables a la elaboración y autorización del pago de nóminas, en términos de las disposiciones correspondientes;
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+XII. Coordinar las acciones necesarias para la operación, evaluación y control del proceso de elaboración de nómina y del pago de remuneraciones al personal, así como realizar la liquidación y pago a terceros, de conformidad con las disposiciones aplicables;
 
 XIII. Integrar el tabulador de sueldos y el esquema de prestaciones aplicables al personal y en su caso, tramitar la autorización y registro ante las autoridades correspondientes;
 
@@ -1751,9 +2141,11 @@ a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 46.
 
-Facultades de la Dirección General de Tecnologías de la Información. La Dirección General de Tecnologías de la Información, adscrita a la Unidad de Administración y Finanzas, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Funciones de la Dirección General de Tecnologías de la Información. La Dirección General de Tecnologías de la Información, adscrita a la Unidad de Administración y Finanzas, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las funciones siguientes:
 
 I. Prestar el apoyo técnico para la actualización y operación de las páginas de Internet de la Comisión y del Centro Nacional de Información de Hidrocarburos;
 
@@ -1821,13 +2213,17 @@ Las ausencias de titular del Órgano Interno de Control, así como de titulares 
 
 Objeto. La Comisión instalará un Consejo Consultivo para contribuir al procedimiento de consulta pública para analizar los criterios de regulación contenidos en las disposiciones administrativas de carácter general que se expidan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 49.
 
-Integración y funcionamiento. El Consejo Consultivo estará integrado por el Comisionado Ponente, el secretario técnico, los Directores Generales de la Comisión invitados y demás establecidos en el artículo 28 de la Ley.
+Integración y funcionamiento. El Consejo Consultivo estará integrado y funcionará conforme a lo dispuesto en el artículo 28 de la Ley y las reglas de operación que para tal efecto emita el Órgano de Gobierno.
 
-Los Comisionados cuando lo estimen pertinente podrán asistir a las sesiones del Consejo Consultivo.
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2024)</small>
 
-El Consejo Consultivo será instalado por el Órgano de Gobierno cada vez que se emita alguna disposición administrativa que requiera de consulta pública.
+Los Comisionados participaran en las sesiones del Consejo Consultivo conforme a las reglas de operación previamente señaladas.
+
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
 
 ### Capítulo IX. Reporte de actividades y suplencias de los servidores públicos de la Comisión
 
@@ -1835,11 +2231,15 @@ El Consejo Consultivo será instalado por el Órgano de Gobierno cada vez que se
 
 Reporte de actividades del Titular de la Secretaría Ejecutiva y de los Titulares de Unidad. El Titular de la Secretaría Ejecutiva y los Titulares de Unidad responderán directamente ante el Órgano de Gobierno del ejercicio de sus atribuciones. A efecto de que el Órgano de Gobierno cuente con la información relativa a las actividades llevadas a cabo por dichas Unidades Administrativas, éstas rendirán informes que presentarán por conducto de la Secretaría Ejecutiva, cuando se les solicite.
 
-Los demás servidores públicos responderán ante su superior jerárquico. El personal de apoyo directo de los Comisionados responderá ante el Comisionado que corresponda. Lo anterior, sin perjuicio de lo dispuesto por la Ley General de Responsabilidades Administrativas y otros ordenamientos aplicables.
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+Los demás servidores públicos responderán ante su superior jerárquico. El personal de apoyo directo de los Comisionados responderá ante el Comisionado Presidente o Comisionado que corresponda. Lo anterior, sin perjuicio de lo dispuesto por la Ley General de Responsabilidades Administrativas y otros ordenamientos aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
 
 ###### Artículo 51.
 
-Suplencias del Comisionado Presidente. El Comisionado Presidente será suplido en sus ausencias por el Comisionado en quien delegue expresamente sus funciones.
+Suplencias del Comisionado Presidente. El Comisionado Presidente será suplido en sus ausencias por el Comisionado en quien delegue expresamente sus facultades.
 
 Las ausencias del Comisionado Presidente, hasta por cinco días, no requerirán suplencia. Cualquier ausencia por un plazo mayor a cinco días, requerirá de oficios delegatorios expresos en los que se determinen sus alcances y, en ausencia de éstos, se considerará como ausencia imprevista.
 
@@ -1902,3 +2302,11 @@ D.O.F. 8 DE DICIEMBRE DE 2023.
 PRIMERO. El presente ACUERDO entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Inscríbase el presente Acuerdo CNH.E.22.09/2023 en el Registro Público de la Comisión Nacional de Hidrocarburos.
+
+D.O.F. 31 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO CNH.E.29.02/2023 POR MEDIO DEL CUAL SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE HIDROCARBUROS”.]
+
+PRIMERO. El presente ACUERDO entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Inscríbase el presente Acuerdo CNH.E.29.02/2023 en el Registro Público de la Comisión Nacional de Hidrocarburos.
