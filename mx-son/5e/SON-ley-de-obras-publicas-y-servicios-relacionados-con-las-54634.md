@@ -4,7 +4,7 @@ identifier: "SON-ley-de-obras-publicas-y-servicios-relacionados-con-las-54634"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-01"
-last_updated: "2017-08-03"
+last_updated: "2024-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE ENERO DE 2024.
 
 Ley publicada en la Sección Uno del Boletín Oficial del Estado de Sonora, el jueves 1 de marzo de 2007.
 
@@ -937,7 +937,9 @@ Las estimaciones de los trabajos ejecutados se deberán formular con una periodi
 
 Las estimaciones por trabajos ejecutados deberá pagarse por parte de la Dependencia o Entidad, en un plazo no mayor a veinte días naturales, contados a partir de la fecha en que hayan sido autorizadas por la residencia de la obra de que se trate.
 
-En caso de incumplimiento en los pagos de estimaciones y de ajustes de costos, la dependencia, entidad o municipio, según corresponda, a solicitud del contratista, deberá pagar gastos financieros conforme a una tasa que será igual a la establecida por la Ley de Ingresos del Estado en los casos de prórroga para el pago de créditos fiscales. Dichos gastos empezarán a generarse cuando las partes tengan definido el importe a pagar y se calcularán sobre las cantidades no pagadas, debiéndose computar por días naturales desde que sean determinadas y hasta la fecha en que se ponga efectivamente las cantidades a disposición del contratista.
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2024)</small>
+
+En caso de incumplimiento en los pagos de estimaciones y de ajustes de costos, la dependencia, entidad o municipios, según corresponda, a solicitud del contratista, deberá pagar gastos financieros conforme a una tasa que será igual al seis por ciento anual. Dichos gastos empezarán a generarse cuando las partes tengan definido el importe a pagar y se calcularán sobre las cantidades no pagadas, debiéndose computar por días naturales desde que sean determinadas y hasta la fecha en que se pongan efectivamente las cantidades a disposición del contratista.
 
 ###### ARTÍCULO 88.
 
@@ -1332,3 +1334,15 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 162, QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE SONORA; Y DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Procedimientos iniciados por las autoridades con anterioridad a la entrada en vigor de este decreto, serán concluidos conforme a las disposiciones aplicables a su inicio.
