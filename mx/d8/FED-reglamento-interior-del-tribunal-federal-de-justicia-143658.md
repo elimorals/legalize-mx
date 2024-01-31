@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-143658"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-07-17"
-last_updated: "2022-07-14"
+last_updated: "2024-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143658&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2020-07-08"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE ENERO DE 2024.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 17 de julio de 2020.
 
@@ -909,7 +909,9 @@ IV. Región del Norte-Centro I: Una Sala que se denominará “Sala Regional del
 
 V. Región del Norte-Centro II: Dos Salas que se denominarán, “Primera Sala Regional del Norte- Centro II” y “Segunda Sala Regional del Norte-Centro II”, ambas con sede en la Ciudad de Torreón, Estado de Coahuila;
 
-VI. Región del Noreste: Tres Salas que se denominarán, “Primera Sala Regional del Noreste”, “Segunda Sala Regional del Noreste”, y “Tercera Sala Regional del Noreste”, todas con sede en San Pedro Garza García, Nuevo León;
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+VI. Región del Noreste: Cuatro Salas que se denominarán, “Primera Sala Regional del Noreste”, “Segunda Sala Regional del Noreste”, “Tercera Sala Regional del Noreste” y “Cuarta Sala Regional del Noreste”, todas con sede en San Pedro Garza García, Nuevo León;
 
 VII. Región de Occidente: Tres Salas que se denominarán, “Primera Sala Regional de Occidente”, “Segunda Sala Regional de Occidente” y “Tercera Sala Regional de Occidente”, todas con sede en la Ciudad de Guadalajara, Estado de Jalisco;
 
@@ -925,9 +927,9 @@ XI. Región Norte-Este del Estado de México: Dos Salas que se denominarán, “
 
 XII. Región de Oriente: Tres Salas que se denominarán, “Primera Sala Regional de Oriente”, “Segunda Sala Regional de Oriente” y “Tercera Sala Regional de Oriente”, con sede en el municipio de San Andrés Cholula, Estado de Puebla;
 
-> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-XIII. Región del Golfo: Dos Salas que se denominarán, “Primera Sala Regional del Golfo” y “Tercera Sala Especializada en Materia de Comercio Exterior y Segunda Sala Regional del Golfo”, con sede en la ciudad de Xalapa-Enríquez, Estado de Veracruz de Ignacio de la Llave.
+XIII. Región del Golfo: Dos Salas que se denominarán, “Primera Sala Regional del Golfo” y “Segunda Sala Regional del Golfo”, con sede en la ciudad de Xalapa-Enríquez, Estado de Veracruz de Ignacio de la Llave.
 
 XIV. Región del Pacífico: Una Sala que se denominará “Sala Regional del Pacífico”, con sede en la Ciudad de Acapulco, Estado de Guerrero;
 
@@ -935,9 +937,9 @@ XV. Región del Sureste: Una Sala que se denominará “Sala Regional del Surest
 
 XVI. Región Peninsular: Una Sala que se denominará “Sala Regional Peninsular”, con sede en la Ciudad de Mérida, Estado de Yucatán;
 
-> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-XVII. Región Metropolitana: Doce Salas que se denominarán, "Primera Sala Regional Metropolitana", "Segunda Sala Regional Metropolitana", "Tercera Sala Regional Metropolitana", "Quinta Sala Regional Metropolitana", "Sexta Sala Regional Metropolitana", "Séptima Sala Regional Metropolitana", "Octava Sala Regional Metropolitana", "Novena Sala Regional Metropolitana", "Décima Sala Regional Metropolitana", "Décimo Primera Sala Regional Metropolitana", "Décimo Segunda Sala Regional Metropolitana", y "Décimo Cuarta Sala Regional Metropolitana", todas con sede en la Ciudad de México;
+XVII. Región Metropolitana: Trece Salas que se denominarán, "Primera Sala Regional Metropolitana", "Segunda Sala Regional Metropolitana", "Tercera Sala Regional Metropolitana", “Cuarta Sala Regional Metropolitana”, "Quinta Sala Regional Metropolitana", "Sexta Sala Regional Metropolitana", "Séptima Sala Regional Metropolitana", "Octava Sala Regional Metropolitana", "Novena Sala Regional Metropolitana", "Décima Sala Regional Metropolitana", "Décimo Primera Sala Regional Metropolitana", "Décimo Segunda Sala Regional Metropolitana", y "Décimo Cuarta Sala Regional Metropolitana", todas con sede en la Ciudad de México;
 
 XVIII. Región del Golfo-Norte: Una Sala que se denominará “Sala Regional del Golfo-Norte”, con sede en Ciudad Victoria, Estado de Tamaulipas;
 
@@ -1007,19 +1009,7 @@ a. Tramitar y resolver los juicios que se promuevan contra resoluciones definiti
 
 b. Tramitar y resolver los juicios que se promuevan contra resoluciones definitivas, actos administrativos y procedimientos, que encuadren en los supuestos previstos por las fracciones I, IV, XII, XIII y XV y último párrafo, del artículo 3 de la Ley, dictadas con fundamento en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en la Ley General de Desarrollo Forestal Sustentable, Ley General de Vida Silvestre, Ley General para la Prevención y Gestión Integral de Residuos, Ley de Bioseguridad de Organismos Genéticamente Modificados, Ley General de Cambio Climático, así como en los demás ordenamientos que regulan la materia de Protección al Medio Ambiente, o que tengan alguna injerencia en la citada materia; con la excepción de resoluciones definitivas, actos administrativos y procedimientos, a que se refiere este inciso, emitidos por la Comisión Nacional del Agua o sus unidades administrativas, supuestos en los cuales será competente la Sala Regional del Tribunal que corresponda.
 
-IV. Salas Especializadas en Comercio Exterior, que tendrán competencia material para tramitar y resolver los juicios que se promuevan contra las resoluciones definitivas y actos a que se refiere el artículo 3, fracciones II, III, IV, V, XI, XII, XIII, XIV, exclusivamente cuando el acto impugnado se funde en un tratado o acuerdo internacional en materia comercial, suscrito por México, o cuando el demandante haga valer como concepto de impugnación que no se haya aplicado en su favor dicho tratado o acuerdo; I, XV, último párrafo de la Ley, dictados con fundamento en la Ley Aduanera, en la Ley de Comercio Exterior, así como en los demás ordenamientos que regulan la materia de comercio exterior.
-
-Respecto de los juicios que se promuevan contra las resoluciones definitivas y actos a que se refiere el artículo 3, fracción XI, de la Ley, las Salas Especializadas en Materia de Comercio Exterior conocerán de los mismos en términos del párrafo que antecede, cuando se controvierta exclusivamente la aplicación de cuotas compensatorias, quedando a salvo la competencia especial de las Secciones de la Sala Superior, en términos del artículo 18, fracción II, de la Ley.
-
-Dichas Salas Especializadas serán las siguientes:
-
-a) La Primera Sala Especializada en Comercio Exterior, con sede en la Ciudad de México, que tendrá competencia territorial limitada a las Entidades Federativas de Aguascalientes, Colima, Ciudad de México, Estado de México, Guanajuato, Guerrero, Hidalgo, Jalisco, Michoacán, Morelos, Nayarit, Puebla, Querétaro, San Luis Potosí y Tlaxcala;
-
-b) La Segunda Sala Especializada en Comercio Exterior, con sede en el Municipio de San Pedro Garza García, en el Estado de Nuevo León, que tendrá competencia territorial limitada a los Estados de Coahuila, Nuevo León, Tamaulipas y Zacatecas, y
-
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2022)</small>
-
-c) La Tercera Sala Especializada en Comercio Exterior, que será también la Segunda Sala Regional del Golfo, con sede en la ciudad de Xalapa-Enríquez, Estado de Veracruz de Ignacio de la Llave, que en su carácter de especializada tendrá competencia territorial limitada a los Estados de Campeche, Tabasco y Veracruz de Ignacio de la Llave; sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Ordinaria, conforme al artículo 49, fracción XIII, de este Reglamento.
+IV. (DEROGADA, D.O.F. 31 DE ENERO DE 2024)
 
 V. Salas Especializadas en materia de Responsabilidades Administrativas, que tendrán competencia material para imponer sanciones a los servidores públicos y particulares que intervengan en actos vinculados con faltas administrativas graves y tramitar y resolver los juicios que se promuevan contra las resoluciones definitivas y actos a que se refiere el artículo 38 de la Ley.
 
@@ -1037,79 +1027,35 @@ e) Quinta Sala Especializada en materia de Responsabilidades Administrativas, co
 
 VI. Una Sala Especializada en Materia del Juicio de Resolución Exclusiva de Fondo, con sede en la Ciudad de México, y competencia para tramitar y resolver, en todo el territorio nacional, los juicios que se promuevan en términos del capítulo XII de la Ley Federal de Procedimiento Contencioso Administrativo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 51.
 
-El Tribunal tendrá las Salas Auxiliares siguientes, cuya denominación y sede serán:
+El Tribunal tendrá las Salas Auxiliares siguientes:
 
-I. Salas Auxiliares con la circunscripción territorial y la competencia material que mediante Acuerdo determine el Pleno General a propuesta de la Junta, cuya denominación y sede será la siguiente:
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2021)</small>
+I. Salas Auxiliares con jurisdicción material mixta y territorial en toda la República, cuya denominación y sede será la siguiente:
 
-a) Sala Regional del Norte-Centro IV y Auxiliar, con sede en la Ciudad de Zacatecas, Estado de Zacatecas, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 48, fracción XXIII, y 49, fracción XXIII, de este Reglamento.
+a) Sala Regional del Norte-Centro III y Auxiliar, con sede en la Ciudad de Victoria de Durango, Estado de Durango, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional Ordinaria, conforme a los artículos 48, fracción XXII, y 49, fracción XXII, de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2021)</small>
+b) Sala Regional del Norte-Centro IV y Auxiliar, con sede en la Ciudad de Zacatecas, Estado de Zacatecas, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional Ordinaria, conforme a los artículos 48, fracción XXIII, y 49, fracción XXIII, de este Reglamento.
 
-b) Segunda Sala Especializada en Materia de Comercio Exterior y Auxiliar, con sede en el Municipio de San Pedro Garza García, en el Estado de Nuevo León, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Especializada, conforme al artículo 50, fracción IV, inciso b), de este Reglamento.
+c) Sala Regional del Sur del Estado de México y Auxiliar, con sede en la Ciudad de Toluca, Estado de México, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional Ordinaria, conforme a los artículos 48, fracción XXIX, y 49, fracción XXIX, de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2021)</small>
+d) Sala Regional de Morelos y Auxiliar, con sede en la Ciudad de Cuernavaca, Estado de Morelos, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional Ordinaria, conforme a los artículos 48, fracción XXIV, y 49, fracción XXIV, de este Reglamento.
 
-c) Sala Regional Sur del Estado de México y Auxiliar, con sede en la Ciudad de Toluca, Estado de México, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 48, fracción XXIX, y 49, fracción XXIX, de este Reglamento.
+e) Sala Regional de Tabasco y Auxiliar, con sede en la Ciudad de Villahermosa, Estado de Tabasco, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional Ordinaria, conforme a los artículos 48, fracción XXVI, y 49, fracción XXVI, de este Reglamento.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 4 DE MARZO DE 2021)</small>
+f) Sala Regional del Caribe y Auxiliar, con sede en la Ciudad de Cancún, Municipio de Benito Juárez, Estado de Quintana Roo, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional Ordinaria, conforme a los artículos 48, fracción XX, y 49, fracción XX, de este Reglamento.
 
-d) Sala Especializada en Materia del Juicio de Resolución Exclusiva de Fondo y Primera Sala Auxiliar, con sede en la Ciudad de México, sin perjuicio de la competencia que le corresponde como Sala Auxiliar Metropolitana en términos de la fracción II de este mismo artículo, así como de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Especializada, conforme al artículo 50, fracción VI, de este Reglamento.
+g) Tercera Sala Regional de Oriente y Auxiliar, con sede en la Ciudad de San Andrés Cholula, Estado de Puebla, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional Ordinaria, conforme a los artículos 48, fracción XII, y 49, fracción XII, de este Reglamento.
 
-e) (DEROGADO, D.O.F. 14 DE JULIO DE 2022)
+II. (DEROGADA, D.O.F. 31 DE ENERO DE 2024)
 
-> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-f) Sala Regional de Chiapas y Auxiliar, con sede en la Ciudad de Tuxtla Gutiérrez, Estado de Chiapas, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 48, fracción XIX, y 49, fracción XIX, de este Reglamento.
-
-> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2021)</small>
-
-g) Sala Regional del Caribe y Auxiliar, con sede en la ciudad de Cancún, Municipio de Benito Juárez, Estado de Quintana Roo, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 48, fracción XX, y 49, fracción XX, de este Reglamento.
-
-> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2021)</small>
-
-h) Sala Regional del Norte-Centro III y Auxiliar, con sede en la ciudad de Victoria de Durango, Estado de Durango, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 48, fracción XXII, y 49, fracción XXII, de este Reglamento.
-
-> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2021)</small>
-
-i) Sala Regional de Morelos y Auxiliar, con sede en la Ciudad de Cuernavaca, Estado de Morelos, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 48, fracción XXIV, y 49, fracción XXIV, de este Reglamento.
-
-> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2021)</small>
-
-j) Sala Regional de Tabasco y Auxiliar, con sede en la Ciudad de Villahermosa, Estado de Tabasco, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 48, fracción XXVI, y 49, fracción XXVI, de este Reglamento.
-
-> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2021)</small>
-
-k) Sala Regional de Hidalgo y Auxiliar, con sede en la Ciudad de Pachuca, Estado de Hidalgo, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 48, fracción XXVII, y 49, fracción XXVII, de este Reglamento.
-
-> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2021)</small>
-
-l) Sala Regional del Centro IV y Auxiliar, con sede en el municipio de Silao, Guanajuato, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 48, fracción XXX, y 49, fracción XXX, de este Reglamento.
-
-> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2021)</small>
-
-m) Sala Auxiliar en Materia de Responsabilidades Administrativas Graves y Segunda Sala Auxiliar, con sede en la Ciudad de México.
-
-> <small>(ADICIONADO, D.O.F. 14 DE ABRIL DE 2021)</small>
-
-n) Sala Regional del Pacífico y Auxiliar, con sede en la Ciudad de Acapulco, Estado de Guerrero, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 48, fracción XIV, y 49, fracción XIV, de este Reglamento.
-
-> <small>(ADICIONADO, D.O.F. 14 DE ABRIL DE 2021)</small>
-
-ñ) Sala Regional del Pacífico-Centro y Auxiliar, con sede en la Ciudad de Morelia, Estado de Michoacán, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 48, fracción XXI, y 49, fracción XXI, de este Reglamento.
-
-o) (DEROGADO, D.O.F. 14 DE JULIO DE 2022)
-
-> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2021)</small>
-
-II. Sala Regional Especializada en Materia del Juicio de Resolución Exclusiva de Fondo, conforme a lo establecido en el artículo 50, fracción VI de este Reglamento, que también será Sala Auxiliar Metropolitana, con sede en la Ciudad de México. El auxilio de esta Sala se circunscribe en la tramitación y resolución hasta su total conclusión, incluso en la instancia de aclaración de sentencia, queja y en el cumplimiento de ejecutorias del Poder Judicial de la Federación, de los asuntos radicados en la entonces Cuarta Sala Regional Metropolitana.
-
-> <small>(REFORMADA, D.O.F. 14 DE ABRIL DE 2021)</small>
-
-III. Sala Auxiliar en Materia de Responsabilidades Administrativas Graves con sede en la Ciudad de México y competencia en todo el territorio nacional para conocer y resolver los procedimientos previstos en la Ley General de Responsabilidades Administrativas, en su carácter de Sala Auxiliar en Materia de Responsabilidades Administrativas Graves; sin perjuicio de la competencia para instruir y resolver juicios contenciosos administrativos, que por turno le correspondan en la región metropolitana, en los que se controviertan resoluciones en: materia administrativa sobre interpretación y cumplimiento de contratos de obras públicas, adquisiciones, arrendamientos y servicios celebrados por las dependencias y entidades de la Administración Pública Federal; las que nieguen la indemnización o que por su monto, no satisfagan al reclamante y las que impongan la obligación de resarcir daños y perjuicios pagados con motivo de la reclamación, en los términos de la Ley Federal de Responsabilidad Patrimonial del Estado o de las leyes administrativas federales que contengan un régimen especial de responsabilidad patrimonial del Estado; de las resoluciones definitivas que impongan sanciones administrativas a los servidores públicos en términos de la Ley General de Responsabilidades, así como contra las que decidan los recursos administrativos previstos en dicho ordenamiento, y que se impongan sanciones administrativas a los servidores públicos en términos de la legislación aplicable, y las que decidan los recursos administrativos previstos en dichos ordenamientos. Asimismo respecto de aquellos que se determinen por la Junta de Gobierno y Administración en otras materias en su carácter de Sala Auxiliar.
+III. Sala Auxiliar en Materia de Responsabilidades Administrativas Graves con sede en la Ciudad de México y competencia en todo el territorio nacional para conocer y resolver los procedimientos previstos en la Ley General de Responsabilidades Administrativas, en su carácter de Sala Auxiliar en Materia de Responsabilidades Administrativas Graves; sin perjuicio de la competencia para instruir y resolver juicios contenciosos administrativos, que por turno le correspondan en la región metropolitana, en los que se controviertan resoluciones en: materia administrativa sobre interpretación y cumplimiento de contratos de obras públicas, adquisiciones, arrendamientos y servicios celebrados por las dependencias y entidades de la Administración Pública Federal; las que nieguen la indemnización o que por su monto, no satisfagan al reclamante y las que impongan la obligación de resarcir daños y perjuicios pagados con motivo de la reclamación, en los términos de la Ley Federal de Responsabilidad Patrimonial del Estado o de las leyes administrativas federales que contengan un régimen especial de responsabilidad patrimonial del Estado; de las resoluciones definitivas que impongan sanciones administrativas a los servidores públicos en términos de la Ley General de Responsabilidades, así como contra las que decidan los recursos administrativos previstos en dicho ordenamiento, y que se impongan sanciones administrativas a los servidores públicos en términos de la legislación aplicable, y las que decidan los recursos administrativos previstos en dichos ordenamientos.
 
 > <small>(REFORMADO, D.O.F. 14 DE ABRIL DE 2021)</small>
 
@@ -3317,7 +3263,13 @@ VII. En caso de faltas temporales del Presidente de la Sala Regional que tenga a
 
 VIII. En el caso de faltas temporales, los Presidentes de Sala Regional serán suplidos por los Magistrados de la Sala en orden alfabético de sus apellidos;
 
-IX. La falta temporal del Secretario General de Acuerdos, será suplida por los Secretarios Adjuntos de Acuerdos de la Primera y Segunda Sección, alternativamente, y la de éstos por aquél;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 31 DE ENERO DE 2024)</small>
+
+IX. La falta temporal del Secretario General de Acuerdos, será suplida por los Secretarios Adjuntos de Acuerdos de la Primera y Segunda Sección, alternadamente. En caso de imposibilidad o falta temporal de los Secretarios Adjuntos de Acuerdos de la Primera y Segunda Sección, el Secretario Adjunto de Acuerdos de la Tercera Sección suplirá la ausencia de la persona titular de la Secretaría General de Acuerdos.
+
+> <small>(ADICIONADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+La falta temporal de los Secretarios Adjuntos de Acuerdos de la Primera, Segunda y Tercera Sección será suplida por el Secretario Adjunto que esté presente, y en ausencia de éstos por la persona titular de la Secretaría General de Acuerdos.
 
 > <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
 
@@ -3460,3 +3412,25 @@ Octavo.- La reforma relativa a la Sala Especializada Mixta en Juicios en Línea 
 Noveno.- La Sala Especializada Mixta en Juicios en Línea y en Materia Ambiental y de Regulación, y la Tercera Sala Especializada en Materia de Comercio Exterior y Segunda Sala Regional del Golfo comenzarán a recibir asuntos respecto de su nueva competencia, una vez que entre en vigor la reforma respectiva, en términos de los presentes Transitorios.
 
 Décimo.- Se instruye a la Secretaría Operativa de Administración y a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, para que a partir de la aprobación del presente Acuerdo, realicen todas las gestiones, acciones, trámites administrativos y presupuestales, entre otros, para implementar lo dispuesto en el presente Acuerdo.
+
+D.O.F. 31 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO SS/4/2024 POR EL QUE SE REFORMA EL REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA”.]
+
+Primero. Publíquese el presente Acuerdo en la página oficial del Tribunal y en el Diario Oficial de la Federación.
+
+Segundo. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en los siguientes transitorios.
+
+Tercero. Las reformas a los artículos 49, 50 y 51, relativas a las Salas Auxiliares y a las Salas Especializadas en Materia de Comercio Exterior, entrarán en vigor a partir del 1° de abril de 2024.
+
+Cuarto. Los juicios que se hubieren enviado a las Salas Regionales que, con motivo de esta reforma, dejan de tener el carácter de Auxiliares, continuarán su substanciación y trámite, hasta su destino final, en la Sala en la que están radicados.
+
+Quinto. Los juicios que se encuentran radicados en la Sala Especializada en Materia del Juicio de Resolución Exclusiva de Fondo, que correspondieron al índice de la Cuarta Sala Regional Metropolitana antes de su transformación en aquélla, continuarán ahí radicados para su substanciación y trámite, hasta su destino final.
+
+Sexto. Para la distribución de juicios que ingresen, la Cuarta Sala Regional Metropolitana, la Cuarta Sala Regional del Noreste y la Segunda Sala Regional del Golfo que se crean con motivo de esta reforma, se integrarán al turno de las respectivas regiones a las que pertenecen de manera equitativa.
+
+Séptimo. Las Salas Regionales Ordinarias que se crean con motivo de esta reforma continuarán conociendo de los juicios que tienen radicados conforme a la competencia especializada en materia de comercio exterior que se extingue, para su substanciación y trámite, hasta su destino final.
+
+Octavo. Se deroga el Acuerdo SS/6/2021 por el que se determinan las Salas Regionales que serán apoyadas por las Salas Auxiliares de este Tribunal, en todo aquello que se oponga a la presente reforma.
+
+Noveno. Se instruye a la Secretaría Operativa de Administración y a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, para que a partir de la aprobación del presente Acuerdo, realicen todas las gestiones, acciones, trámites administrativos y presupuestales, entre otros, para implementar lo dispuesto en el presente Acuerdo.
