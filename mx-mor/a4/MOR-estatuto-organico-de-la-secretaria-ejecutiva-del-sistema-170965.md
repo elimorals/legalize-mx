@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-170965
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-10-07"
-last_updated: "2020-10-07"
+last_updated: "2024-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2024.
 
 Estatuto publicado en el Número 5867 del Periódico Oficial del Estado de Morelos, el miércoles 7 de octubre de 2020.
 
@@ -197,15 +197,25 @@ En caso de contingencia social, de salud, de seguridad o de cualquier otra que h
 
 De toda sesión se levantará y aprobará el acta respectiva.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 13.
 
-Las sesiones que celebre el Órgano de Gobierno, serán convocadas por su Presidente o a propuesta de cuatro integrantes de dicho órgano.
+Las sesiones que celebre el órgano de gobierno, serán convocadas por su Presidente, a propuesta de cuatro integrantes de dicho órgano o por el integrante del órgano de gobierno en funciones de presidente temporal, derivado de la falta de conformación del Comité de Participación Ciudadana.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2024)</small>
+
+El Órgano de Gobierno de la Secretaría Ejecutiva, celebrará sesiones ordinarias y extraordinarias, de manera conjunta o separada de las sesiones del comité coordinador, únicamente se distinguirá el punto de que se trate de acuerdo con la naturaleza de este.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
 Para la celebración de las sesiones, la convocatoria deberá ir acompañada del orden del día y de la documentación correspondiente, los cuales deberán ser enviados por el Secretario Técnico y recibidos por los miembros del Órgano de Gobierno, con una anticipación no menor de cinco días hábiles, en el caso de las sesiones ordinarias y con una anticipación no menor de cuarenta y ocho horas en el caso de las sesiones extraordinarias.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
 Sin perjuicio de lo anterior, se podrán realizar reuniones de trabajo previas para la preparación de los asuntos del orden del día.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
 En todo lo conducente a las sesiones se aplicará de manera supletoria lo que establezca el Acuerdo por el que se establecen el “Acuerdo que establece los Lineamientos para la Convocatoria y Desarrollo de las Sesiones Ordinarias o Extraordinarias de los Órganos Colegiados de la Administración Central y de los Organismos Auxiliares que integran el sector paraestatal del estado de Morelos”
 
@@ -216,6 +226,10 @@ En todo lo conducente a las sesiones se aplicará de manera supletoria lo que es
 Para poder sesionar válidamente, el Órgano de Gobierno requerirá la asistencia de la mayoría de sus miembros. En caso de ausencia del presidente en la sesión, los miembros presentes nombrarán, a quien deba conducir la misma.
 
 En los casos de ausencia temporal del Presidente el Comité de Participación Ciudadana nombrará de entre sus miembros a quien deba sustituirlo durante el tiempo de su ausencia. Esta suplencia no podrá ser mayor a dos meses. En caso de que la ausencia sea mayor, ocupará su lugar por un periodo máximo de dos meses el miembro al cual le correspondería el periodo anual siguiente y así sucesivamente
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2024)</small>
+
+En el caso de que no esté conformado el Comité de Participación Ciudadana, y no se cuente con presidente del órgano de gobierno, la presidencia del órgano de gobierno se ocupará de manera temporal por un plazo de 3 meses, conforme al orden consecutivo de los integrantes establecido en el artículo 10 del Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción y será rotativa, hasta en tanto se realicen las nuevas designaciones del Comité de Participación Ciudadana conforme a la normatividad aplicable.
 
 Todos los miembros del Órgano de Gobierno tendrán derecho a voz y voto en las sesiones de la misma.
 
@@ -712,3 +726,11 @@ P.O. 7 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO MODIFICATORIO AL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN”.]
 
 Único.- Las adecuaciones y modificaciones serán integradas al cuerpo del Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, publicándose en su conjunto en el Periódico Oficial “Tierra y Libertad”, Órgano informativo del Gobierno del Estado de Morelos.
+
+P.O. 31 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN Y ADICIÓN DE UN PÁRRAFO AL ARTÍCULO 13 Y LA ADICIÓN DE UN PÁRRAFO AL ARTÍCULO 14 DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN”.]
+
+PRIMERO. Publíquese la presente modificación y adición en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO. La presente modificación y adiciones entrarán en vigor a partir de su aprobación por parte del Órgano de Gobierno de la Secretaría Ejecutiva y Comité Coordinador del Sistema Anticorrupción del Estado de Morelos.
