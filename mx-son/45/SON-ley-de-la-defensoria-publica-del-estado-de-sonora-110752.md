@@ -4,7 +4,7 @@ identifier: "SON-ley-de-la-defensoria-publica-del-estado-de-sonora-110752"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-26"
-last_updated: "2021-03-01"
+last_updated: "2024-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE LA DEFENSORÍA PÚBLICA, DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE ENERO DE 2024.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el jueves 26 de noviembre de 2015.
 
@@ -45,7 +45,9 @@ LEY DE LA DEFENSORÍA PÚBLICA
 
 Objeto de la ley
 
-Las disposiciones de la presente Ley son de orden público y de interés social, y tienen por objeto regular la prestación del servicio de la defensoría pública a fin de garantizar el derecho al (sic) asesoría, patrocinio y defensa técnica; así como la estructura, funcionamiento y atribuciones del órgano especializado en materia penal, según sea lo dispuesto para el sistema de justicia penal mixto, así como para al acusatorio, establecido en la reforma en materia penal del dieciocho de junio del año dos mil ocho, justicia para adolescentes, civil, familiar y administrativa.
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2024)</small>
+
+Las disposiciones de la presente Ley son de orden público y de interés social, y tienen por objeto regular la prestación del servicio de la defensoría pública a fin de garantizar el derecho a la asesoría, patrocinio y defensa técnica; así como la estructura, funcionamiento y atribuciones del órgano especializado en materia penal, según sea lo dispuesto para el sistema de justicia penal mixto, así como para al acusatorio, justicia para adolescentes, civil, familiar, administrativa y el nuevo sistema de justicia laboral.
 
 ###### Artículo 2.
 
@@ -55,9 +57,13 @@ Para los efectos de esta Ley se entenderá por:
 
 I.- Defensor: El Defensor Público;
 
-II.- Defensoría: La Dirección General de la Defensoría Pública;
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
 
-III.- Director: El Director General de la Defensoría Pública;
+II.- Defensoría: La Defensoría Pública del Estado;
+
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
+
+III.- Titular: El Titular de la Defensoría Pública;
 
 IV.- Ley: La ley de la Defensoría Pública; y
 
@@ -85,15 +91,25 @@ VII.- Solución alternativa de controversias: Promover la asesoría e intervenci
 
 VIII.- Continuidad: Procurar la continuidad de la defensa evitando sustituciones innecesarias;
 
-IX.- Independencia Técnica: Garantizar que no existan intereses contrarios o ajenos a los fines de la defensa; y
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
 
-X.- Respeto a la diversidad cultural: Garantizar que los servicios se presten con respeto absoluto e inalienable a la pluralidad y diversidad social de los usuarios, así como a los usos y costumbres y demás expresiones de la sociedad.
+IX.- Independencia Técnica: Garantizar que no existan intereses contrarios o ajenos a los fines de la defensa;
+
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
+
+X.- Respeto a la diversidad cultural: Garantizar que los servicios se presten con respeto absoluto e inalienable a la pluralidad y diversidad social de los usuarios, así como a los usos y costumbres y demás expresiones de la sociedad; y
+
+> <small>(ADICIONADA, B.O. 31 DE ENERO DE 2024)</small>
+
+XI.- Innovación: diseñar, desarrollar e implementar estrategias y soluciones innovadoras.
 
 ###### Artículo 4.
 
 Defensoría
 
-La Defensoría es una Dirección General del Poder Ejecutivo del Estado, dependiente de la Consejería Jurídica del Gobierno del Estado.
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2024)</small>
+
+La Defensoría es una Unidad Administrativa del Poder Ejecutivo del Estado, dependiente de la Consejería Jurídica del Gobierno del Estado.
 
 ###### Artículo 5.
 
@@ -113,25 +129,35 @@ II.- Defender jurídicamente a los imputados, acusados y sentenciados, en materi
 
 III.- Defender y representar legalmente a los adolescentes en conflicto con la ley penal, de conformidad con lo señalado en la Ley que Establece el Sistema de Justicia para Adolescentes del Estado de Sonora o cualquier otra legislación, convenios o tratados internacionales, en ponderando el interés superior del menor;
 
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN V, B.O. 31 DE ENERO DE 2024.]</small>
+
 IV.- Establecer y coordinar las relaciones con entidades, dependencias y organismos públicos de los tres órdenes de gobierno para el cumplimiento de su objeto;
 
-V.- Fomentar, coordinar y concertar convenios de coordinación y colaboración, respectivamente, con instituciones públicas y privadas, ya sean locales, nacionales o internacionales, para el cumplimiento de su objeto, particularmente con las dedicadas a la protección de los derechos humanos;
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN IV, B.O. 31 DE ENERO DE 2024.]</small>
 
-> <small>(REFORMADA, B.O. 1 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
 
-VI.- Proponer, al titular del Poder Ejecutivo Estatal, proyectos de iniciativas de ley y decretos en materia de asesoría, patrocinio y defensa técnica;
+V.- Establecer y coordinar las relaciones con entidades, dependencias y organismos públicos de los tres órdenes de gobierno para el cumplimiento de su objeto;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 1 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
 
-VII.- Contar con el personal y material especializado y la asistencia de intérpretes de Lengua de Señas Mexicana y el sistema de Lectoescritura Braille, para la debida atención y defensa de los derechos y libertades de las personas con discapacidad o personas en situación de discapacidad cuando deban comparecer ante las autoridades judiciales o de procuración de justicia garantizando una defensa adecuada en igualdad de condiciones con las demás personas;
+VI.- Fomentar, coordinar y concertar convenios de coordinación y colaboración, respectivamente, con instituciones públicas y privadas, ya sean locales, nacionales o internacionales, para el cumplimiento de su objeto, particularmente con las dedicadas a la protección de los derechos humanos;
 
-> <small>(ADICIONADA, B.O. 1 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
 
-VIII.- Llevar a cabo programas de capacitación de manera permanente y gratuita en Lengua de Señas Mexicana y el sistema de Lectoescritura Braille dirigido a su personal; y
+VII.- Proponer, al titular del Poder Ejecutivo Estatal, proyectos de iniciativas de ley y decretos en materia de asesoría, patrocinio y defensa técnica;
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA, B.O. 1 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
 
-IX.- Las demás que establezcan la presente Ley y demás disposiciones legales aplicables.
+VIII.- Contar con el personal y material especializado y la asistencia de intérpretes de Lengua de Señas Mexicana y el sistema de Lectoescritura Braille, para la debida atención y defensa de los derechos y libertades de las personas con discapacidad o personas en situación de discapacidad cuando deban comparecer ante las autoridades judiciales o de procuración de justicia garantizando una defensa adecuada en igualdad de condiciones con las demás personas;
+
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
+
+IX.- Llevar a cabo programas de capacitación de manera permanente y gratuita en Lengua de Señas Mexicana y el sistema de Lectoescritura Braille, dirigido a su personal; y
+
+> <small>(ADICIONADA, B.O. 31 DE ENERO DE 2024)</small>
+
+X.- Las demás que establezcan la presente Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 7.
 
@@ -153,29 +179,47 @@ Estructura
 
 La Defensoría tendrá la estructura siguiente:
 
-I.- Dirección General;
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
 
-II.- Subdirección en materia Penal y Justicia para Adolescentes;
+I.- Despacho del Titular de la Defensoría Pública;
 
-III.- Subdirección en materia Civil, Familiar y Administrativa;
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
 
-IV.- Subdirección Administrativa y de Gestión;
+II.- Encargado del área Penal;
 
-V.- Unidad de Investigadores y Peritos;
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
 
-VI.- Unidad de Capacitación y Servicio Profesional de Carrera;
+III.- Encargado del área Civil, Familiar y Administrativa;
+
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
+
+IV.- Encargado del área Laboral;
+
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
+
+V.- Encargado del área Administrativa y de Gestión;
+
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
+
+VI.- Unidad de Capacitación;
 
 VII.- Coordinaciones Regionales;
 
-VIII.- Visitaduría; y
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
+
+VIII.- Unidad de Investigadores y Peritos; y
 
 IX.- Las demás unidades que se requieran para el ejercicio de sus funciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 10.
 
-Nombramiento y Requisitos para ser Director
+Nombramiento y Requisitos para ser Titular de la Defensoría:
 
-El Director será nombrado por el titular del Poder Ejecutivo Estatal, a propuesta del Consejero Jurídico del Gobierno del Estado y deberá reunir los requisitos siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE ENERO DE 2024)</small>
+
+El Titular de la Defensoría será nombrado por el titular del Poder Ejecutivo Estatal, a propuesta del Consejero Jurídico del Gobierno del Estado y deberá reunir los requisitos siguientes:
 
 I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos;
 
@@ -191,13 +235,17 @@ V.- Haber residido en el país durante los dos años anteriores al día de la de
 
 Duración
 
-El Director durará en su cargo seis años, pudiendo ser confirmado para otro período.
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2024)</small>
+
+El Titular de la Defensoría durará en su cargo seis años, pudiendo ser confirmado para otro período.
 
 ###### Artículo 12.
 
 Facultades y obligaciones
 
-El Director tendrá las facultades y obligaciones siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE ENERO DE 2024)</small>
+
+El Titular de la Defensoría tendrá las facultades y obligaciones siguientes:
 
 I.- Dictar las medidas administrativas necesarias para que la Defensoría cumpla eficientemente con sus atribuciones;
 
@@ -205,11 +253,15 @@ II.- Diseñar y realizar acciones y políticas necesarias e indispensables para 
 
 III.- Elaborar manuales de organización y procedimiento y cualquier otro instrumento que se requiera para el eficaz funcionamiento de la Defensoría;
 
-IV.- Proponer la celebración de convenios, acuerdos y demás instrumentos jurídicos necesarios para la consecución de los fines de la Defensoría;
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
+
+IV.- Elaborar y suscribir convenios, acuerdos, contratos y demás instrumentos jurídicos necesarios para la consecución de los fines de la Defensoría;
 
 V.- Elaborar el anteproyecto de presupuesto de la Defensoría;
 
-VI.- Planear, dirigir, coordinar, controlar, supervisar y vigilar las actividades que desempeñen los Subdirectores, Defensores y demás personal de la Defensoría;
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
+
+VI.- Planear, dirigir, coordinar, controlar, supervisar y vigilar las actividades que desempeñen el personal de la Defensoría Pública;
 
 VII.- Realizar periódicamente evaluaciones sobre el desempeño de las actividades de los servidores públicos de la Defensoría;
 
@@ -217,9 +269,13 @@ VIII.- Presentar al Poder Ejecutivo del Estado un informe anual de actividades;
 
 IX.- Asumir la función de Defensor, cuando las particularidades del caso lo ameriten;
 
-X.- Diseñar e implementar sistemas de formación, capacitación y actualización de la defensoría;
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
 
-XI.- Proponer ante el Poder Ejecutivo del Estado el nombramiento de los Subdirectores y Coordinadores Regionales;
+X.- Diseñar e implementar sistemas de formación, capacitación y actualización dirigido al personal de la Defensoría;
+
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
+
+XI.- Proponer ante el Poder Ejecutivo del Estado el nombramiento de los Titulares de las áreas a que se refieren las fracciones II, III, IV, V y VII del Artículo 9 de la presente Ley;
 
 XII.- Implementar sistemas de control y registro de los servicios brindados por la Defensoría;
 
@@ -229,53 +285,77 @@ XIII.- Elaborar programas y estrategias de difusión sobre los servicios que pre
 
 XIV.- Establecer las políticas y estrategias relacionadas con los temas de investigación criminal, criminalística y ciencias forenses para el apoyo de los defensores en materia penal y justicia para adolescentes;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 1 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
 
-XV.- Celebrar convenios con instituciones públicas o privadas, o con organizaciones civiles o sindicales para capacitar de manera permanente y gratuita en materia de Lengua de Señas Mexicana y el sistema de Lectoescritura Braille, al personal de la Defensoría que sea necesario para poder brindar la debida atención y defensa de los derechos y libertades de las personas con discapacidad o personas en situación de discapacidad que lo requieran; y
+XV.- Suscribir convenios con instituciones públicas o privadas, o con organizaciones civiles o sindicales para capacitar de manera permanente y gratuita en materia de Lengua de Señas Mexicana y el sistema de Lectoescritura Braille, al personal de la Defensoría que sea necesario para poder brindar la debida atención y defensa de los derechos y libertades de las personas con discapacidad o personas en situación de discapacidad, que lo requieran;
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA, B.O. 1 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 31 DE ENERO DE 2024)</small>
 
-XVI.- Las demás que le confiera la presente Ley, su Reglamento y demás ordenamientos aplicables.
+XVI.- Realizar los movimientos del personal según lo exija las necesidades del servicio y la suficiencia presupuestal se lo permita, esto para el cumplimiento de los fines de la defensoría; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 31 DE ENERO DE 2024)</small>
+
+XVII.- Las demás que le confiera la presente Ley, su Reglamento y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2024)</small>
 
 ###### Artículo 13.
 
-Suplencia del Director
+Suplencia del Titular de la Defensoría
 
-El Director será suplido en sus ausencias temporales por el Subdirector en materia Penal y Justicia para Adolescentes.
+El Titular de la Defensoría será suplido en sus ausencias temporales y definitivas por el encargado del área penal, y a falta de este por quien designe el Titular de la Secretaría de la Consejería Jurídica del Estado.
 
-Las ausencias temporales del Director no podrán exceder de veinte días hábiles.
+Las ausencias temporales del Titular de la Defensoría no podrán exceder de treinta días hábiles.
 
-### CAPÍTULO III. DE LAS SUBDIRECCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE ENERO DE 2024)</small>
+
+### CAPÍTULO III
+
+DE LOS ENCARGADOS DE ÁREA.
 
 ###### Artículo 14.
 
 Atribuciones
 
-Son atribuciones de los Subdirectores:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE ENERO DE 2024)</small>
+
+Son atribuciones de los encargados de área:
 
 I.- Coordinar las actividades del personal a su cargo;
 
 II.- Elaborar, proponer y dictar las medidas administrativas necesarias para hacer efectivo el cumplimiento de los fines de la Defensoría en el área en la cual se desempeña;
 
-III.- Supervisar periódicamente el desempeño de los servidores públicos adscritos a la Subdirección, e informar sobre el resultado de la evaluación al Director;
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
+
+III.- Supervisar periódicamente el desempeño de los servidores públicos adscritos al área, e informar sobre el resultado de la evaluación al Titular de la Defensoría;
 
 IV.- Desempeñar funciones de Defensor, cuando las condiciones así lo requieran;
 
-V.- Acordar con el Director los asuntos que requieran su intervención;
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
 
-VI.- Rendir mensualmente un informe de actividades al Director; y
+V.- Acordar con el Titular de la Defensoría los asuntos que requieran su intervención;
 
-VII.- Las demás que le encomiende la presente Ley, el Reglamento o el Director.
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
+
+VI.- Rendir mensualmente un informe de actividades al Titular de la Defensoría; y
+
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
+
+VII.- Las demás que le encomiende la presente Ley, el Reglamento o el Titular de la Defensoría.
+
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2024)</small>
 
 ###### Artículo 15.
 
-Subdirección en Materia Penal y Justicia para Adolescentes
+Encargado de área Penal.
 
-Para el desempeño de sus funciones, la Subdirección en Materia Penal y Justicia para Adolescentes, contará con un Departamento del Sistema penal, un Departamento del Sistema de justicia para Adolescentes y un Departamento en materia de Ejecución de Sanciones.
+Para el desempeño de sus funciones, el área en Materia Penal, contará al menos con un departamento del Sistema penal, un departamento del Sistema de justicia para Adolescentes y un departamento en materia de Ejecución de Sanciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE ENERO DE 2024)</small>
 
 ###### Artículo 16.
 
-Funciones de los Titulares de Departamento
+Funciones de los Titulares de Departamento del área en materia penal.
 
 Son funciones de los Titulares de Departamento:
 
@@ -283,95 +363,103 @@ I.- Coordinar las actividades del personal a su cargo;
 
 II.- Supervisar periódicamente el desempeño de los servidores públicos adscritos al Departamento;
 
-III.- Informar de manera mensual al Subdirector de las actividades del Departamento; y
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
 
-IV.- Las demás que le encomiende la Ley, el Reglamento, el Director y Subdirector respectivo.
+III.- Informar de manera mensual al encargado de área de las actividades del Departamento; y
+
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
+
+IV.- Las demás que le encomiende la Ley, el Reglamento, el Titular de la Defensoría y encargado de área respectivo.
+
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2024)</small>
 
 ###### Artículo 17.
 
-Subdirección en Materias Civil, Familiar y Administrativa
+El encargado del área en Materias Civil, Familiar y Administrativa.
 
-La Subdirección en materia Civil, Familiar y Administrativa contará con un departamento de Asesoría, un departamento en materia Familiar, un departamento en materia Civil, y Administrativa.
+El encargado del área en materia Civil, Familiar y Administrativa contará al menos con una Unidad de Asesoría y Trabajo Social, un departamento en materia Civil, un departamento en materia Familiar y un departamento en materia Administrativa.
+
+> <small>(ADICIONADO, B.O. 31 DE ENERO DE 2024)</small>
+
+###### Artículo 17 Bis.
+
+El encargado de área Laboral.
+
+El encargado de área Laboral contará al menos con tres coordinaciones regionales para su funcionamiento.
+
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2024)</small>
 
 ###### Artículo 18.
 
-Subdirección Administrativa
+El encargado de área Administrativa
 
-La Subdirección Administrativa contará con las áreas necesarias para la gestión administrativa de la Defensoría y tendrá las facultades siguientes:
+El encargado de área Administrativa contará con las áreas necesarias para la gestión administrativa de la Defensoría y tendrá las facultades siguientes:
 
-I.- Realizar el Programa Operativo Anual, así como auxiliar a la Dirección General para elaborar el anteproyecto de presupuesto para cada ejercicio;
+I.- Realizar el Programa Operativo Anual, así como auxiliar al Titular de la Defensoría Pública en la elaboración del anteproyecto de presupuesto para cada ejercicio;
 
-II.- Auxiliar al Director en la administración de los recursos humanos, financieros y materiales e informáticos de la Defensoría;
+II.- Auxiliar al Titular de la Defensoría Pública en la administración de los recursos humanos, financieros y materiales e informáticos de la Defensoría;
 
-III.- Integrar y mantener actualizado el inventario de bienes de la Defensoría; y
+III.- Integrar y mantener actualizado el inventario de bienes de la Defensoría;
 
-IV.- Las demás que le confieran otras disposiciones legales y el Director.
+IV.-Auxiliar al Titular de la Defensoría Pública en la elaboración de los manuales de organización y procedimiento y cualquier otro instrumento que se requiera para el eficaz funcionamiento de la Defensoría; y
+
+V.- Las demás que le confieran otras disposiciones legales y el Titular de la Defensoría Pública.
+
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2024)</small>
 
 ###### Artículo 19.
 
-Unidad de Apoyo Técnico y de Gestión
+Unidad de Apoyo y Gestión.
 
-I.- Al interior de la Subdirección Administrativa habrá una Unidad de Apoyo Técnico y de Gestión, que tendrá las funciones siguientes:
+Al interior del Despacho del Titular de la Defensoría Pública habrá una Unidad de Apoyo y de Gestión, que tendrá las funciones siguientes:
 
-II.- Dar seguimiento ante las autoridades competentes y a las personas físicas o morales, de las solicitudes de informes y documentos para fines de la defensa, asistencia o asesoría;
+I.- Dar seguimiento ante las autoridades competentes y a las personas físicas o morales, de las solicitudes de informes y documentos encomendados por el Titular de la Defensoría;
 
-III.- Gestionar y tramitar apoyos para cubrir la medida cautelar correspondiente o la garantía económica;
+II.- Ser responsable del seguimiento y evaluación de los acuerdos e instrucciones dictados por el Titular de la Defensoría;
 
-IV.- Coadyuvar con los defensores, para el traslado de personas relacionadas con el proceso; y
+III.- Establecer vínculos de coordinación y colaboración con las dependencias y entidades de las administraciones públicas estatal y federal;
 
-V.- Apoyar a los defensores, investigadores y peritos en la realización de trámites administrativos relacionados con asuntos que tengan asignados.
+IV.- Proveer al Titular de la Defensoría de la información y datos necesarios para sus actividades, toma de decisiones y formulación de mensajes; y
+
+V.- Las demás que le encomiende la Ley, el Reglamento, el Titular de la Defensoría y encargado de área respectivo.
+
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2024)</small>
 
 ###### Artículo 20.
 
-Unidad de Trabajo Social
+Unidad de Asesoría y Trabajo Social
 
-La Unidad de Trabajo Social dependiente de la Subdirección Administrativa, será la encargada de evaluar y autorizar la prestación del servicio de la Defensoría en materia civil, familiar y administrativa.
+La Unidad de Asesoría y Trabajo Social dependiente del área en materia Civil, Familiar y Administrativa, será la encargada de evaluar y autorizar la prestación del servicio de la Defensoría en materia civil, familiar y administrativa.
+
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2024)</small>
 
 ###### Artículo 21.
 
-Atribuciones de la Unidad de Trabajo Social
+Atribuciones de la Unidad de Asesoría y Trabajo Social.
 
-La Unidad de Trabajo Social tendrá las atribuciones siguientes:
+La Unidad de Asesoría y Trabajo Social tendrá las atribuciones siguientes:
 
 I.- Realizar estudios socioeconómicos a las personas que soliciten el servicio de la Defensoría;
 
 II.- Evaluar y autorizar la viabilidad de la representación jurídica en asuntos civiles, familiares o administrativos;
 
-III.- Verificar que durante la prestación del servicio, subsistan las condiciones socioeconómicas por las que se autorizó; y
+III.- Verificar que durante la prestación del servicio, subsistan las condiciones socioeconómicas por las que se autorizó;
 
-IV.- Las demás que señalen las leyes o reglamentos.
+IV.- Brindar asesoría jurídica en las materias civil, familiar y administrativa a las personas que lo soliciten; y
+
+V.- Las demás que señalen las leyes o reglamentos.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE ENERO DE 2024)</small>
 
 ### CAPÍTULO IV. DE LA VISITADURÍA DE LA DEFENSORÍA PÚBLICA
 
 ###### Artículo 22.
 
-De la Visitaduría
-
-La Visitaduría es el órgano de control interno, encargado de supervisar el desempeño profesional de los Defensores y demás servidores públicos de la Defensoría.
-
-Su titular deberá reunir los mismos requisitos que la Ley requiere para ser Subdirector.
+(DEROGADO, B.O. 31 DE ENERO DE 2024)
 
 ###### Artículo 23.
 
-Funciones
-
-El Visitador tendrá las funciones siguientes:
-
-I.- Supervisar mediante visitas de control así como de evaluación técnico-jurídica y de seguimiento, la labor de los defensores, comunicando de manera oportuna el resultado a la Subdirección y al Director;
-
-II.- Verificar en las distintas áreas de servicio el debido cumplimiento de las normas procedimentales relativas a la función desempeñada por el personal adscrito;
-
-III.- Practicar visitas de inspección y supervisión a las áreas adscritas a la Defensoría, con la finalidad de verificar el debido cumplimiento de la normatividad y de los principios rectores en el ejercicio de las funciones y acciones en materia de defensoría pública;
-
-IV.- Levantar acta circunstanciada de visita en la que se haga constar el lugar, la hora y la fecha de la revisión realizada, así como la firma de los que intervinieron en la visita;
-
-V.- Solicitar informes a las áreas de la Defensoría para el cumplimiento de sus fines;
-
-VI.- Formular las recomendaciones técnico-jurídicas que considere necesarias para el adecuado cumplimiento de los fines de la Defensoría;
-
-VII.- Informar a la autoridad con facultades sancionadoras de las irregularidades advertidas, a fin de que resuelva lo procedente; y
-
-VIII.- Las demás que le asigne esta Ley, su Reglamento o el Director.
+(DEROGADO, B.O. 31 DE ENERO DE 2024)
 
 ### CAPÍTULO V. DE LA UNIDAD DE INVESTIGADORES Y PERITOS
 
@@ -379,7 +467,9 @@ VIII.- Las demás que le asigne esta Ley, su Reglamento o el Director.
 
 De la Unidad de Investigadores y Peritos
 
-La Defensoría contará con una Unidad de Investigadores y Peritos para el apoyo de la defensa.
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2024)</small>
+
+El Despacho del Titular de la Defensoría, contará con una Unidad de Investigadores y Peritos para el apoyo de la defensa.
 
 ###### Artículo 25.
 
@@ -387,7 +477,9 @@ Atribuciones
 
 La Unidad de Investigadores y Peritos tendrá las atribuciones siguientes:
 
-I.- Asesorar al Subdirector del área penal en la definición de políticas y estrategias relacionadas con temas de investigación criminal, para el apoyo de sus defensores;
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
+
+I.- Asesorar al personal de la Defensoría en la definición de políticas y estrategias relacionadas con temas de investigación para el apoyo de sus defensores;
 
 II.- Planear, dirigir, ejecutar y controlar la prestación de los servicios de esta Unidad;
 
@@ -395,7 +487,9 @@ III.- Asesorar en la investigación criminal a los defensores;
 
 IV.- Realizar las labores de investigación que se requiera para la defensa;
 
-V.- Organizar y controlar el cumplimiento de las estrategias de investigación criminal para la defensa;
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
+
+V.- Organizar y controlar el cumplimiento de las estrategias de investigación;
 
 VI.- Garantizar la intervención de investigadores y peritos en los procesos; y
 
@@ -407,17 +501,25 @@ Funciones
 
 Los investigadores y peritos tendrán entre otras, las funciones siguientes:
 
-I.- Asesorar técnica y científicamente a los defensores, en la interpretación de los dictámenes periciales, en las investigaciones de campo, en el manejo del lugar de los hechos y de los indicios o evidencias;
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
+
+I.- Asesorar técnica y científicamente a los defensores, en la interpretación de los dictámenes periciales;
 
 II.- Reunirse con el defensor para ampliar y conocer las necesidades específicas de los casos a su cargo, sus requerimientos, asesorarlo y acordar un plan de acción que le permita sustentar su teoría del caso en los componentes fáctico y probatorio;
 
 III.- Desarrollar las actividades de conformidad con la metodología acordada;
 
-IV.- Comunicar por escrito el resultado de sus actividades al defensor;
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
 
-V.- Realizar actividades tendentes a la búsqueda de testigos, ubicación e identificación de personas;
+IV.- Comunicar el resultado de sus actividades al defensor;
 
-VI.- Asesorar a la defensa sobre la pertinencia, conducencia e idoneidad de la prueba técnica y el método de investigación utilizado por la Procuraduría, así como en la confección de contra interrogatorios y en materia de cadena de custodia; y
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
+
+V.- Realizar actividades tendentes a apoyar a los defensores en la adecuada defensa;
+
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
+
+VI.- Asesorar a la defensa sobre la pertinencia, conducencia e idoneidad de la prueba técnica; y
 
 VII.- Todas aquellas acciones tendientes a garantizar una defensa técnica adecuada.
 
@@ -425,7 +527,11 @@ VII.- Todas aquellas acciones tendientes a garantizar una defensa técnica adecu
 
 Especialistas Externos.
 
-En caso de que la Defensoría Pública carezca de peritos propios, solicitará los servicios de especialistas externos. Será obligatorio para las Dependencias o entidades de la Administración Pública del Estado colaborar cuando dispongan dentro de su personal de los especialistas que pudieran desempeñar cargos de perito según la materia de que se trate.
+> <small>[N. DE E. SE ADVIERTE QUE CON LA MODIFICACIÓN PUBLICADA EN EL B.O. DE 31 DE ENERO DE 2024, EL CONTENIDO DEL PRESENTE PÁRRAFO ES SIMILAR AL TERCERO Y CUARTO PÁRRAFOS.]</small>
+
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2024)</small>
+
+En caso de que la Defensoría Pública carezca de peritos propios, solicitará los servicios de especialistas externos. Será obligatorio para las Dependencias o entidades de la Administración Pública del Estado colaborar cuando dispongan dentro de su personal de los especialistas que pudieran desempeñar cargos de perito según la materia de que se trate. En los asuntos en los que no sea contraparte la Fiscalía General de Justicia del Estado podrá apoyar a la Defensoría Pública en materia de criminalística y servicios periciales. Adicionalmente en todos los asuntos la Defensoría Pública podrá concertar convenios de colaboración y apoyo pericial con Asociaciones, Colegios de Profesionistas, Universidades y Centros Hospitalarios del Estado y demás instituciones a fin de asistirse para el cumplimiento de los propósitos de la defensa pública.
 
 En los asuntos en los que no sea contraparte la Procuraduría General de Justicia del Estado podrá apoyar a la Defensoría Pública, por conducto de la Dirección de Criminalística y Servicios Periciales.
 
@@ -509,6 +615,22 @@ II.- Patrocinar ante los Juzgados competentes a las personas que soliciten el se
 
 III.- Las demás que señalen las leyes y el Reglamento.
 
+> <small>(ADICIONADO, B.O. 31 DE ENERO DE 2024)</small>
+
+###### Artículo 31 Bis.
+
+Obligaciones de los Defensores en Materia Laboral.
+
+Los Defensores en materia laboral tendrán las obligaciones siguientes:
+
+I.- Asumir la defensa y representación de los trabajadores o sus beneficiarios en los términos de la normatividad aplicable
+
+II.- Asumir la defensa y representación de los trabajadores o sus beneficiarios cuando así lo dispongan los Tribunales Laborales del Poder Judicial del Estado de Sonora;
+
+III.- Procurar la conciliación entre las partes; y
+
+IV.- Las demás que señalen las leyes y el Reglamento.
+
 ###### Artículo 32.
 
 Requisitos para ser Defensor
@@ -519,7 +641,9 @@ I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos, civiles y políti
 
 II.- Tener título de Licenciado en Derecho o su equivalente, expedido por institución legalmente facultada para ello, y contar con cédula profesional;
 
-III.- Contar con una antigüedad mínima de tres años en el ejercicio profesional a partir de la expedición de la cédula profesional;
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
+
+III.- Contar con una antigüedad mínima de un año en el ejercicio profesional a partir de la expedición de la cédula profesional;
 
 IV.- Haberse distinguido por su honorabilidad, competencia y antecedentes en el ejercicio de la profesión jurídica, gozar de buena reputación y no haber sido condenado en sentencia firme por delito doloso que haya ameritado pena privativa de libertad;
 
@@ -535,7 +659,9 @@ VII.- Los demás requisitos que establezcan las leyes respectivas.
 
 De las Prohibiciones
 
-El Director, los Subdirectores, Jefes de departamento, Defensores, Investigadores, Peritos, Traductores e intérpretes y demás personal adscrito a la Defensoría, durante el desempeño de sus funciones tienen prohibido:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE ENERO DE 2024)</small>
+
+El Titular de la Defensoría y demás personal adscrito a la Defensoría, durante el desempeño de sus funciones tienen prohibido:
 
 I.- Desempeñar otro empleo, cargo o comisión de la Federación, del Estado o de los municipios incluyendo el ministerio de algún culto religioso, salvo los cargos honoríficos en asociaciones científicas, literarias o de beneficencia, así como los cargos docentes, siempre que su desempeño no perjudique las funciones y labores propias de la Defensoría;
 
@@ -543,11 +669,15 @@ II.- Aceptar, recibir o solicitar dinero, dádivas, regalos o cualquier tipo de 
 
 III.- Ejercer la abogacía de forma particular, salvo en causa propia, de su cónyuge, concubina o de sus familiares hasta el cuarto grado por consanguinidad y hasta el segundo por afinidad;
 
-IV.- Desempeñar cargos de albacea, curador o tutor, ni endosatario en procuración, comisionista o árbitro en procesos administrativos o judiciales;
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
+
+IV.- Desempeñar cargos de albacea, curador o tutor, ni endosatario en procuración, comisionista o árbitro en procesos administrativos o judiciales, que se patrocinen en la Defensoría Pública;
 
 V.- Incurrir o sugerir a los patrocinados que realicen actos ilegales; y
 
-V (SIC).- Las demás que les señalen las leyes y el Reglamento.
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
+
+VI.- Las demás que les señalen las leyes y el Reglamento.
 
 ### CAPÍTULO VIII. DE LA PRESTACIÓN DEL SERVICIO DE LA DEFENSORÍA
 
@@ -617,7 +747,9 @@ V.- Supere la situación socioeconómica que dio origen a la prestación del ser
 
 VI.- Incumpla con alguna de las obligaciones previstas en la presente Ley o en su Reglamento.
 
-De actualizarse alguno de los supuestos anteriores, el Defensor lo informará al Director.
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2024)</small>
+
+De actualizarse alguno de los supuestos anteriores, el Defensor lo informará al Titular de la Defensoría. En este caso, se notificará al usuario el informe, concediéndole un plazo de cinco días hábiles para que manifieste a lo que su derecho convenga.
 
 En este caso, se notificará al usuario el informe, concediéndole un plazo de cinco días hábiles para que manifieste y aporte los elementos que estime pertinentes.
 
@@ -625,43 +757,53 @@ Una vez formulada la manifestación o transcurrido el plazo para hacerlo, el Dir
 
 En caso de ordenarse el retiro, se concederá al interesado un plazo de 15 días naturales para que sustituya al Defensor, con el apercibimiento que de no hacerlo, se deslindará a la Defensoría de responsabilidad en el patrocinio.
 
-### CAPÍTULO IX. SERVICIO PROFESIONAL DE CARRERA
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE ENERO DE 2024)</small>
+
+### CAPÍTULO IX. INGRESO, SELECCIÓN Y CONCLUSIÓN DEL CARGO
+
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2024)</small>
 
 ###### Artículo 38.
 
-Del Servicio Profesional de Carrera
+Del ingreso, selección y conclusión del cargo.
 
-El servicio profesional de carrera regula la selección, ingreso, adscripción, permanencia, promoción, capacitación, prestaciones, estímulos y sanciones de los Defensores.
+El ingreso, selección y conclusión del cargo del personal de la Defensoría Pública se regirá bajo la normatividad aplicable.
 
 ###### Artículo 39.
 
 Principios
 
-Los principios que rigen el servicio profesional de carrera son: excelencia, profesionalismo, objetividad, equidad, competencia por mérito, imparcialidad e independencia, en los términos que establezca el reglamento correspondiente.
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2024)</small>
+
+Los principios que rigen al personal de la Defensoría Pública son: excelencia, profesionalismo, objetividad, equidad, competencia por mérito, imparcialidad e independencia, en los términos que establezca el reglamento correspondiente
 
 ###### Artículo 40.
 
-Categorías
-
-El servicio profesional de carrera comprenderá las categorías que señale el Reglamento.
+(DEROGADO, B.O. 31 DE ENERO DE 2024)
 
 ###### Artículo 41.
 
 Ingreso
 
-La selección, el ingreso y promoción a la Defensoría, será mediante concurso de oposición.
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2024)</small>
+
+La selección, el ingreso y promoción del personal de la Defensoría, será mediante selección conforme a las aptitudes de las y los interesados.
 
 ###### Artículo 42.
 
 Selección
 
-Atendiendo al número de plazas disponibles, se seleccionará a quienes hayan obtenido el mejor puntaje, siempre que sea aprobatorio atendiendo a los parámetros de la convocatoria
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2024)</small>
+
+Atendiendo al número de plazas disponibles, se seleccionará a quienes cuenten con las capacidades técnicas jurídicas necesarias para atención del servicio que brinda la Defensoría Pública.
+
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2024)</small>
 
 ###### Artículo 43.
 
-Plan Anual de Capacitación, Promoción y Estímulos
+Plan Anual de Capacitación y Promoción
 
-En el sistema de servicio profesional de carrera, la capacitación, promoción y estímulos para los servidores públicos de la Defensoría, se sujetarán a lo dispuesto por el Plan Anual de Capacitación, Promoción y Estímulos, mismo que el Director le propondrá para su aprobación al titular del Poder Ejecutivo Estatal.
+En el sistema de capacitación y promoción para los servidores públicos de la Defensoría, se sujetarán a lo dispuesto por el Plan Anual de Capacitación y Promoción.
 
 ###### Artículo 44.
 
@@ -685,17 +827,7 @@ b) Destitución por incurrir en causas de responsabilidad con motivo de su encar
 
 ###### Artículo 45.
 
-Separación del Servicio Profesional de Carrera
-
-La separación del servicio profesional de carrera procederá por el incumplimiento de los requisitos de profesionalización contemplados dentro de la presente Ley y las demás que se establezcan en el Reglamento, para lo cual:
-
-I.- El superior jerárquico correspondiente o el visitador deberá presentar reporte fundado y motivado ante el Director, en el cual deberá señalarse la causa de separación que presuntamente se haya actualizado, adjuntando o señalando los documentos y demás pruebas que la justifique;
-
-II.- El Director notificará el reporte al servidor público respectivo y lo citará a una audiencia, dentro de los tres días hábiles siguientes, para que manifieste lo que a su derecho convenga y adjunte los documentos y demás elementos probatorios que estime procedentes; y
-
-III.- Una vez desahogada la audiencia y agotadas las diligencias correspondientes, el Director, en un término que no excederá de cinco días hábiles emitirá la resolución correspondiente.
-
-El Director podrá allegarse en todo momento de los elementos probatorios y realizar las diligencias que estime necesarios (sic) para emitir la determinación que corresponda.
+(DEROGADO, B.O. 31 DE ENERO DE 2024)
 
 ### CAPÍTULO X. IMPEDIMENTOS Y EXCUSAS DE LOS DEFENSORES PÚBLICOS
 
@@ -709,7 +841,11 @@ Los defensores son irrecusables, pero deberán excusarse de intervenir en asunto
 
 Trámite
 
-El Defensor que pretenda excusarse, expondrá la causa por escrito ante el Subdirector respectivo, quien sin demora, la calificará y en su caso, designará a otro defensor.
+> <small>[N. DE E. SE ADVIERTE QUE CON LA MODIFICACIÓN PUBLICADA EN EL B.O. DE 31 DE ENERO DE 2024, LA PARTE FINAL DEL PRESENTE PÁRRAFO ES IDÉNTICA AL TERCER PÁRRAFO.]</small>
+
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2024)</small>
+
+El Defensor que pretenda excusarse, expondrá la causa por escrito ante el encargado del área respectiva, quien, sin demora, la calificará y en su caso, designará a otro defensor. En tanto no se haga nueva asignación de defensor, éste deberá continuar con la función.
 
 En tanto no se haga nueva asignación de defensor, éste deberá continuar con la función.
 
@@ -733,7 +869,9 @@ V.- Incurran en negligencia en la preparación, ofrecimiento y desahogo de prueb
 
 VI.- Proporcionen información de los asuntos a su cargo a la contraparte o a personas que no tengan interés legítimo;
 
-VII.- No presentarse sin justificación a las audiencias y diligencias señaladas, así como a aquellas que con el carácter de urgente, determine el Director, lo solicite el Ministerio Público o la autoridad judicial; y
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2024)</small>
+
+VII.- No presentarse sin justificación a las audiencias y diligencias señaladas, así como a aquellas que con el carácter de urgente, determine el Titular de la Defensoría, lo solicite el Ministerio Público o la autoridad judicial; y
 
 VIII.- En los demás casos señalados en las leyes.
 
@@ -764,3 +902,19 @@ B.O. 1 DE MARZO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 31 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 153, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE LA DEFENSORÍA PÚBLICA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, la Defensoría Pública contará con 30 días hábiles para hacer las adecuaciones administrativas correspondientes al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las modificaciones a los manuales de Organización y de Procedimientos, con motivo del presente decreto deberán expedirse dentro de los 30 días posteriores a la publicación del mismo.
