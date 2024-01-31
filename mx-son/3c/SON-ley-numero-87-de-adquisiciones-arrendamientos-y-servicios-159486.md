@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-87-de-adquisiciones-arrendamientos-y-servicios-15948
 country: "mx"
 rank: "ley"
 publication_date: "2022-07-28"
-last_updated: "2022-07-28"
+last_updated: "2024-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY NÚMERO 87 DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE ENERO DE 2024.
 
 Ley publicada en la Sección II del Número 8 del Boletín Oficial, el jueves 28 de julio de 2022.
 
@@ -951,7 +951,9 @@ El titular del área de administración de la dependencia o entidad, deberá lle
 
 La fecha de pago al proveedor estipulada en los contratos quedará sujeta a las condiciones que establezcan las mismas; sin embargo, no podrá exceder de veinte días naturales contados a partir de la entrega de la factura respectiva, previa entrega de los bienes o prestación de los servicios en los términos del contrato.
 
-En caso de incumplimiento en los pagos a que se refiere el párrafo anterior, la dependencia o entidad, a solicitud del proveedor, deberá pagar gastos financieros conforme a la tasa que será igual a la establecida por la Ley de Ingresos para el Estado de Sonora en los casos de prórroga para el pago de créditos fiscales. Dichos gastos se calcularán sobre las cantidades no pagadas y se computarán por días naturales desde que se venció el plazo pactado, hasta la fecha en que se pongan efectivamente las cantidades a disposición del proveedor.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2024)</small>
+
+En caso de incumplimiento en los pagos a que se refiere el párrafo anterior, la dependencia o entidad, a solicitud del proveedor, deberá pagar gastos financieros conforme a una tasa que será igual al seis por ciento anual. Dichos gastos se calcularán sobre las cantidades no pagadas y se computarán por días naturales desde que se venció el plazo pactado, hasta la fecha en que se pongan efectivamente las cantidades a disposición del proveedor.
 
 Tratándose de pagos en exceso que haya recibido el proveedor, éste deberá reintegrar las cantidades pagadas en exceso, más los intereses correspondientes, conforme a lo señalado en el párrafo anterior. Los intereses se calcularán sobre las cantidades pagadas en exceso en cada caso y se computarán por días naturales desde la fecha del pago, hasta la fecha en que se pongan efectivamente las cantidades a disposición de la dependencia o entidad.
 
@@ -1456,3 +1458,15 @@ Comuníquese al Titular del Poder Ejecutivo para su sanción y publicación en e
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los quince días de julio del año dos mil veintidós.- GOBERNADOR DEL ESTADO.- FRANCISCO ALFONSO DURAZO MONTAÑO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- ALVARO BRACAMONTE SIERRA.- RÚBRICA.
+
+P.O. 31 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 162, QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE SONORA; Y DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Procedimientos iniciados por las autoridades con anterioridad a la entrada en vigor de este decreto, serán concluidos conforme a las disposiciones aplicables a su inicio.
