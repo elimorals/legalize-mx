@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2023-08-17"
+last_updated: "2024-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2024.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -59,9 +59,9 @@ El ejercicio del Poder Ejecutivo, se deposita en un solo individuo que se denomi
 
 En el ejercicio de sus atribuciones y para el despacho de los asuntos del orden administrativo, el Poder Ejecutivo del Estado, contará con la Administración Pública Estatal, que se regirá por la presente Ley y las demás disposiciones legales aplicables, y se organizará conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
 
-I. Administración Pública Centralizada: Integrada por la Jefatura de Gabinete, Gubernatura, Secretarías de Despacho, Consejería Jurídica y de Asistencia Legal del Estado y la Dirección General del Instituto de Planeación para el Bienestar, así como por los órganos auxiliares, las unidades administrativas que dependan directamente del Gobernador del Estado y los órganos desconcentrados, a todas estas áreas administrativas se les denominará genéricamente como Dependencias;
+I. Administración Pública Centralizada: Integrada por la Gubernatura, Secretarías de Despacho, Consejería Jurídica y Asistencia Legal del Estado y la Dirección General del Instituto de Planeación para el Bienestar, así como por los órganos auxiliares, las unidades administrativas que dependan directamente del Gobernador del Estado y los órganos desconcentrados, a todas estas áreas administrativas se les denominará genéricamente Dependencias;
 
 II. La Administración Pública Paraestatal: Integrada por Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos Públicos, así como, por las Entidades Auxiliares del Ejecutivo Estatal, integrándose éstas por los Consejos, Comisiones, Comités, Juntas, Patronatos y aquellas instituciones que por su naturaleza no estén comprendidas dentro de la Administración Pública Centralizada, a las que genéricamente se les denominará como Entidades, estarán reguladas por sus leyes, decretos de creación y reglamentos respectivos; y
 
@@ -291,19 +291,13 @@ Estas audiencias deberán desarrollarse por lo menos una vez al año en cada reg
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2023)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 26.
 
-La Jefatura de Gabinete tendrá bajo su competencia y atribuciones la supervisión, coordinación y evaluación de las políticas públicas, programas y acciones de las Secretarías de Despacho, de la Consejería Jurídica y Asistencia Legal del Estado, de la Dirección General del Instituto de Planeación para el Bienestar, Entidades y Órganos Auxiliares de la Administración Pública Estatal.
+Las Secretarías de Despacho, la Consejería Jurídica y Asistencia Legal del Gobierno del Estado y la Dirección General del Instituto de Planeación para el Bienestar, tendrán igual rango cada cual de acuerdo a su naturaleza y entre ellas no habrá preeminencia alguna, sus titulares ejercerán en su ámbito de competencia las funciones encomendadas por la Constitución Política del Estado Libre y Soberano de Oaxaca, la presente Ley y demás ordenamientos normativos.
 
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2023)</small>
-
-Las Secretarías de Despacho, la Consejería Jurídica y Asistencia Legal y la Dirección General del Instituto de Planeación para el Bienestar, tendrán igual rango cada cual de acuerdo a su naturaleza y entre ellas no habrá preeminencia alguna, sus titulares ejercerán en su ámbito de competencia las funciones encomendadas por la Constitución Política del Estado Libre y Soberano de Oaxaca, la presente ley y demás ordenamientos normativos.
-
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2023)</small>
-
-ARTÍCULO 26 BIS. Para el ejercicio de sus atribuciones, el Gobernador del Estado contará con la Jefatura de Gabinete, que por orden administrativo tendrá autoridad sobre las demás dependencias que integran la Administración Pública Estatal.
+ARTÍCULO 26 BIS. (DEROGADO, P.O. 31 DE ENERO DE 2024)
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -379,9 +373,7 @@ XVII. Secretaría de las Mujeres; y
 
 XVIII. Secretaría de Medio Ambiente, Biodiversidad, Energías y Sostenibilidad.
 
-> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
-
-XIX. Jefatura de Gabinete.
+XIX. (DEROGADA, P.O. 31 DE ENERO DE 2024)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -435,9 +427,7 @@ II. Coordinación de Comunicación Social;
 
 III. Coordinación para la Atención de los Derechos Humanos;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-IV. Coordinación General de Educación Media Superior y Superior; Ciencia y Tecnología, y
+IV. (DEROGADA, P.O. 31 DE ENERO DE 2024)
 
 > <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
 
@@ -453,39 +443,7 @@ Asimismo, podrán estar directamente sectorizadas a la Gubernatura del Estado, l
 
 ### CAPÍTULO II. DE LAS DEPENDENCIAS
 
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2023)</small>
-
-ARTÍCULO 33 BIS. A la Jefatura de Gabinete le corresponde el despacho de los siguientes asuntos:
-
-I. Cumplir y hacer cumplir los acuerdos, órdenes, circulares y demás disposiciones que emita la persona titular del poder ejecutivo para el adecuado funcionamiento de la administración pública estatal;
-
-II. Convocar y presidir los gabinetes sectoriales y especializados;
-
-III. Establecer en coordinación con la Secretaría de Finanzas y el Instituto de Planeación para el Bienestar, los indicadores que permitan mediar las variaciones del desarrollo en el Estado de Oaxaca;
-
-IV. Proponer, analizar y evaluar las políticas públicas para contribuir a la alineación de las acciones de la administración pública estatal, a las estrategias, acciones, proyectos estratégicos y metas contenidas en el Plan Estatal de Desarrollo y el Programa de Gobierno;
-
-V. Establecer los lineamientos generales para la integración del Informe Anual sobre la situación que guarda la Administración Pública Estatal, emitiendo los lineamientos que deberán seguir las Dependencias y Entidades para la integración de la Información;
-
-VI. Coordinar las acciones interinstitucionales necesarias para coadyuvar con el Ejecutivo del Estado para la presentación del informe sobre el estado que guarda la administración pública estatal ante el Congreso del Estado;
-
-VII. Fungir como Instancia Técnica de Evaluación, normando y estableciendo el sistema de evaluación del desempeño para el monitoreo y la evaluación del Plan Estatal de Desarrollo y demás programas institucionales, en coordinación con la Secretaría de Finanzas, el Instituto de Planeación para el Bienestar y las Dependencias y Entidades de la Administración Pública Estatal;
-
-VIII. Remitir los informes de resultados de las evaluaciones realizadas, al Titular del Poder Ejecutivo y proponer las medidas correctivas y de seguimiento que procedan; coordinándose para tal efecto, con las instancias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, debiendo emitir los lineamientos para la integración del mismo;
-
-IX. Realizar los análisis necesarios para identificar áreas de oportunidad para el desarrollo del Estado de Oaxaca y contribuir al fortalecimiento del proceso de toma de decisiones del Gobernador del Estado;
-
-X. Coordinar los estudios y proyectos especiales que le encomiende el Gobernador del Estado;
-
-XI. Administrar el sistema de atención ciudadana y turnar las solicitudes a las dependencias y entidades de la Administración Pública Estatal, procurando su expedita resolución, llevando a cabo el seguimiento de éstas;
-
-XII. Recibir, organizar, clasificar, registrar, tramitar y custodiar la información que el Gobernador del Estado reciba y emita;
-
-XIII. Fungir como instancia de vinculación política en los casos que así indique el Gobernador del Estado.
-
-XIV. Supervisar, coordinar y evaluar las políticas públicas, programas y acciones de la Consejería Jurídica y Asistencia Legal del Estado, las Secretarías de Despacho, el Instituto de Planeación para el Bienestar y las demás entidades y órganos auxiliares de la Administración Pública Estatal.
-
-XV. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás normatividad aplicable.
+ARTÍCULO 33 BIS. (DEROGADO, P.O. 31 DE ENERO DE 2024)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
@@ -645,9 +603,17 @@ XLIII. Fortalecer la vinculación institucional con sindicatos y organismos empr
 
 XLIV. A solicitud de las autoridades municipales auxiliar en los trámites y gestiones que deban realizar ante las oficinas de la administración pública federal y estatal; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE FEBRERO DE 2018)</small>
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
 
-XLV. las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicadas.
+XLV. Promover la aplicación de la política de población, tanto a nivel estatal como municipal, en congruencia con fas lineamientos nacionales y las necesidades particulares de cada región;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+
+XLVI. Procurar la atención de la población y las comunidades migrantes oaxaqueñas, apoyando todas aquellas acciones encaminadas a preservar la integridad física, protección jurídica, la dignidad y el patrimonio de los migrantes.
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
+
+XLVII. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicadas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
@@ -919,35 +885,101 @@ A la Secretaría de Educación Pública le corresponde el despacho de los siguie
 
 I. Proponer, planear y definir la política educativa estatal y emitir las directrices necesarias para su aplicación, en coordinación con las autoridades en materia educativa y con apego a lo dispuesto en la Constitución federal, las leyes federales, los tratados internacionales en materia de derechos humanos, la Constitución local, la legislación estatal, decretos, reglamentos y demás disposiciones aplicables en materia educativa;
 
-II. Promover acciones para que la política educativa estatal contribuya a garantizar el desarrollo armónico de todas las facultades del ser humano y fomentar en las personas el amor a la patria, la conciencia de la solidaridad internacional, la independencia, la libertad, la justicia, la interculturalidad, el respeto a los valores tradicionales de cada etnia, región y en general del Estado, así como el cumplimiento de los fines y objetivos de la educación en la entidad;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
 
-III. Vigilar y garantizar que la educación en el Estado sea universal e inclusiva, con la finalidad de evitar toda forma de discriminación, exclusión o condicionamiento estructural que se conviertan en barreras al aprendizaje y/o a la participación;
+II. Dar cumplimiento a los principios, criterios, acuerdos y normatividad, así como a los planes y programas de estudio aplicables al Sistema Educativo Estatal, en los tipos, niveles y modalidades que lo conforman, en coordinación con las Autoridades Educativas Federales, Estatales y Municipales;
 
-IV. Proponer y fomentar la impartición de conocimientos aplicables a la transformación política, social y económica para beneficio de la población oaxaqueña;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
 
-V. Promover políticas públicas para garantizar la gratuidad, laicidad y libertad de creencias, alentando el fortalecimiento y la difusión de la diversidad cultural;
+III. Promover la incorporación del principio de interculturalidad y perspectiva de género en los contenidos regionales que hayan de incluirse en los planes y programas de estudio, en coordinación con las instancias correspondientes y de conformidad con la legislación de la materia;
 
-VI. Contribuir al desarrollo de la ciencia, la tecnología y la innovación, en coordinación con las autoridades educativas de la materia y las demás que integren la Administración Pública del Estado;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE ENERO DE 2024)</small>
 
-VII. Coadyuvar con las autoridades en materia educativa, a garantizar que la educación que impartan los particulares, cumpla con los fines, criterios y registro de validez oficial, según corresponda;
+IV. Impulsar acciones y eventos que tiendan al fortalecimiento de la educación en el Estado y al respeto, preservación y desarrollo de las culturas de los pueblos y comunidades indígenas y afromexicanas;
 
-VIII. Dar seguimiento al cumplimiento de los principios, acuerdos y lineamientos, así como de los planes y programas de estudio aplicables al sistema educativo estatal, en los tipos y modalidades que lo conforman, en coordinación con la Federación y con las autoridades estatales en materia educativa, de conformidad con la legislación de la materia;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
 
-IX. Contribuir al desarrollo y fortalecimiento de los procesos que tengan por objeto recabar la opinión de los diversos sectores sociales involucrados en la educación, respecto a los planes y programas de estudio de los distintos tipos y modalidades, en coordinación con las autoridades educativas y en los términos de la legislación de la materia;
+V. Establecer las políticas para la ampliación de la oferta educativa e incremento de la matrícula en las Instituciones Educativas en el Estado, de acuerdo a las prioridades establecidas en el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo y en sus respectivos programas sectoriales;
 
-X. Establecer un marco de colaboración y acciones de vinculación efectivas para el cumplimiento y seguimiento de las atribuciones conferidas al Ejecutivo del Estado en la Constitución federal, la Constitución local y la legislación de la materia;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE ENERO DE 2024)</small>
 
-XI. Proponer y celebrar convenios y acuerdos con la Federación, las Entidades federativas y los Municipios, así como realizar gestiones ante las instancias competentes para contribuir a mejorar los servicios educativos en el Estado de Oaxaca y la operación del sistema educativo estatal, conforme a la legislación de la materia;
+VI. Vigilar y garantizar que la educación en el Estado sea universal e inclusiva, con la finalidad de evitar toda forma de discriminación, exclusión o condicionamiento estructural que se conviertan en barreras al aprendizaje y/o a la participación;
 
-XII. Promover la incorporación del principio de interculturalidad en los contenidos regionales que hayan de incluirse en los planes y programas de estudio, en coordinación con las instancias correspondientes y de conformidad con la legislación de la materia;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
 
-XIII. Impulsar acciones y eventos que tiendan al fortalecimiento de la educación en el Estado y al respeto, preservación y desarrollo de las culturas de los pueblos y comunidades indígenas y afromexicanas;
+VII. Ser el conducto oficial y autoridad educativa en el Estado para tratar los asuntos relacionados con la Educación en todos sus tipos, niveles y modalidades;
 
-XIV. Emitir recomendaciones para optimizar la vigencia de los principios de la educación que se imparta en el Estado;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE ENERO DE 2024)</small>
 
-XV. Impulsar las acciones necesarias para incrementar la eficacia y el fortalecimiento del sistema educativo estatal; y
+VIII. Promover, concertar y desarrollar proyectos y acciones que impulsen la consolidación de formación, capacitación y actualización continua en la Educación, Ciencia y Tecnología en el Estado;
 
-XVI. Las demás que prevea la Constitución federal, los tratados internaciones (sic) en materia de derechos humanos, las leyes federales, la Constitución local, la presente Ley y demás leyes locales, decretos y las disposiciones aplicables.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
+
+IX. Contribuir al desarrollo de la Ciencia, la Tecnología y la Innovación, en coordinación con las autoridades educativas de la materia y las demás que integren la Administración Pública del Estado;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
+
+X. Establecer los mecanismos de vinculación con el sector académico, instituciones de capacitación para el trabajo, educación media superior y superior, centros e institutos de investigación, así como con el sector productivo, público, privado y social, conforme a las perspectivas del desarrollo sostenible en el Estado de Oaxaca;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
+
+XI. Promover y suscribir convenios con la Federación, Estados, Municipios y Organismos nacionales e internacionales públicos o privados, para el fortalecimiento del sector educativo, conforme a la normatividad aplicable en la materia;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
+
+XII. Realizar estudios sobre la demanda, cobertura, factibilidad y pertinencia para buscar la excelencia y la mejora continua de la educación media superior, preparatoria abierta, educación superior, ciencia y tecnología, propiciando su consolidación y desarrollo;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
+
+XIII. Resolver sobre el otorgamiento y retiro del reconocimiento de validez oficial de estudios a los particulares, que pretendan ofertar servicios de educación media superior y superior en el Estado, así como, para impartir capacitación para el trabajo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE ENERO DE 2024)</small>
+
+XIV. Revalidar, convalidar u otorgar equivalencias de estudios para la educación media superior y superior de acuerdo a los lineamientos legales correspondientes;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
+
+XV. Establecer y verificar los sistemas de control escolar de las instituciones públicas y particulares en capacitación para el trabajo, educación media superior, preparatoria abierta y educación superior;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
+
+XVI. Suscribir títulos y grados académicos que expidan las instituciones de educación media superior y superior particulares en el Estado;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+
+XVII. Validar títulos y grados académicos de los servicios de educación normal y para la formación de docentes que expide el Instituto de Educación Pública de Oaxaca, que deban ser suscritos por el Titular del Poder Ejecutivo;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE ENERO DE 2024)</small>
+
+XVIII. Emitir recomendaciones a Instituciones Educativas para optimizar la vigencia de los principios de la educación que se imparta en el Estado;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+
+XIX. Gestionar y promover la obtención de recursos destinados al desarrollo y consolidación de la capacitación para la Educación Media Superior, Preparatoria Abierta, Educación Superior, Ciencia y Tecnología;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+
+XX. Coordinar a la Comisión Estatal para la Planeación y Programación de la Educación Media Superior del Estado de Oaxaca y la Comisión Estatal para la Planeación de la Educación Superior, de conformidad con la normatividad que las rige;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+
+XXI. Planear y supervisar la infraestructura educativa en el Estado;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+
+XXII. Establecer y coordinar los programas de apoyo económico a través de becas y créditos que promuevan el desempeño académico para el ingreso, permanencia y egreso de los estudiantes de educación media superior y superior;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+
+XXIII. Coordinar la planeación, programación, presupuestación y evaluación de los servicios que ofrezca el conjunto de instituciones, subsistemas de educación media superior, preparatoria abierta, superior, ciencia y tecnología que funcionen en el Estado, en congruencia con la legislación federal y estatal en la materia;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+
+XXIV. Conformar un sistema de información que permita generar la información estadística para la consolidación de toda (sic) de decisiones en el Sector Educativo Estatal; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE ENERO DE 2024)</small>
+
+XXV. Las demás que prevea la Constitución federal, los tratados internacionales en materia de derechos humanos, las leyes federales, la Constitución local, la presente Ley y demás leyes locales, decretos y las disposiciones aplicables.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
@@ -1783,7 +1815,9 @@ XXXI. Proporcionar asesoría a instituciones públicas y particulares en materia
 
 XXXII. Coordinar las condiciones que permitan la inversión privada en obras y/o acciones a través de las diversas modalidades de asociaciones público-privadas;
 
-XXXIII. Fijar los lineamientos que deba seguir la Administración Pública Estatal en la elaboración de la documentación necesaria para la formulación de informes de avances de gestión financiera e integrar dicha información, en coordinación con la Jefatura de la Gubernatura;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
+
+XXXIII. Fijar los lineamientos que deba seguir la Administración Pública Estatal en la elaboración de la documentación necesaria para la formulación de informes de avances de gestión financiera e integrar dicha información, en coordinación con las Instancias competentes;
 
 > <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
 
@@ -1853,9 +1887,13 @@ LVII. (DEROGADA, P.O. 29 DE ABRIL DE 2021)
 
 LVIII. (DEROGADA, P.O. 17 DE AGOSTO DE 2023)
 
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+
+LIX. Coordinar, supervisar y evaluar las actividades y resultados de la Instancia Técnica de Evaluación;
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-LIX. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás normatividad aplicable.
+LX. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás normatividad aplicable.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -2013,37 +2051,37 @@ A la Secretaría de Desarrollo Económico, corresponde el despacho de los siguie
 
 I. Planear, regular y fomentar el desarrollo económico del Estado, promoviendo las actividades productivas que propicien la generación de empleos;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
 
-II. Proponer al Gobernador las políticas y programas relativos al fomento de las actividades industriales, mineras y comerciales;
+II. Proponer al Gobernador las políticas, programas, proyectos y demás acciones que propicien el fomento de las actividades industriales y comerciales;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
 
-III. Generar información estadística en materia económica en el Estado y fungir como órgano de consulta y asesoría en materia de desarrollo económico tanto a los organismos públicos y privados como a las dependencias del Ejecutivo;
+III. Integrar la Información estadística del sector económico que coadyuve al desarrollo económico del Estado, y fungir como órgano de consulta y asesoría en materia de desarrollo económico tanto a los organismos públicos y privados como a las dependencias del Ejecutivo;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
 
-IV. Formular y promover el establecimiento de medidas para el fomento y protección de marcas registradas indicativas de origen del Estado de Oaxaca que fomenten el consumo local y el posicionamiento de los productos y servicios de origen oaxaqueño en los mercados nacionales e internacionales;
+IV. Formular y promover la propiedad industrial, protección de marcas registradas, denominaciones de origen e indicaciones geográficas en el Estado de Oaxaca que fomenten el consumo local y el posicionamiento de los productos y servicios de origen oaxaqueño en los mercados nacionales e internacionales;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
 
-V. Fortalecer la productividad y la posición competitiva de la micro, pequeña y mediana empresa privada y social;
+V. Fortalecer la productividad y competitividad de los emprendedores y de las unidades económicas en el estado, promoviendo la innovación empresarial a través del intercambio y desarrollo de competencias y nuevas tecnologías;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
 
-VI. Promover, orientar y estimular el establecimiento y desarrollo de Unidades económicas en el Estado en el ámbito de su competencia, fomentando la participación equitativa de las mujeres;
+VI. Fomentar la participación incluyente de las mujeres y población en situación de vulnerabilidad en el sector económico;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
 
-VII. Impulsar la relación comercial con actores estratégicos a nivel nacional e internacional, contribuyendo en el intercambio de experiencias exitosas, así como la inversión en la producción y exportación de productos oaxaqueños;
+VII. Impulsar la relación comercial con actores estratégicos a nivel estatal, nacional e internacional, contribuyendo en el intercambio de experiencias exitosas, así como la inversión en la producción y exportación de productos oaxaqueños;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
 
-VIII. Desarrollar y mantener actualizado un catálogo de oportunidades de inversión en el Estado de Oaxaca;
+VIII. Desarrollar, promover, y dar seguimiento al catálogo de oportunidades de inversión en el Estado de Oaxaca;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
 
-IX. Impulsar con diferentes actores relevantes del sector empresarial, foros y reuniones donde se propongan y analicen las mejores alternativas para el desarrollo económico del Estado;
+IX. Impulsar con diferentes actores relevantes del sector empresarial, foros, mesas de trabajo y reuniones donde se propongan y analicen las mejores alternativas para el desarrollo económico del Estado;
 
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
@@ -2065,17 +2103,17 @@ XIII. Ejecutar las políticas gubernamentales en materia de Mejora Regulatoria, 
 
 XIV. Promover el desarrollo de las industrias extractivas de acuerdo a las disposiciones legales aplicables y con pleno respeto a las formas de vida tradicionales y en concordancia con el desarrollo sustentable;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
 
-XV. Realizar programas de promoción y fomento que tengan como propósito incrementar la productividad y la competitividad de los productos oaxaqueños, así como el impulso de las exportaciones;
+XV. Realizar programas de promoción y fomento que tengan como propósito incrementar la productividad y la competitividad de los productos oaxaqueños, impulsando el comercio exterior;
 
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
 XVI. Estimular la formación y participación activa en consejos, comités, patronatos o asociaciones de carácter público, privado o mixto, cuyo propósito sea el desarrollo industrial y comercial;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
 
-XVII. Coordinar a las entidades de la Administración pública Paraestatal, que sean sectorizadas (sic) Secretaría por acuerdo del Gobernador;
+XVII. Coordinar a las entidades de la Administración Pública Paraestatal, que sean sectorizadas a la Secretaría por acuerdo del Gobernador;
 
 XVIII. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2021)
 
@@ -2083,7 +2121,9 @@ XVIII. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 XIX. Participar en coordinación con las Dependencias y Entidades de los tres ámbitos de gobierno, en el diseño e implementación de estrategias y programas de abasto de productos básicos;
 
-XX. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2022)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE ENERO DE 2024)</small>
+
+XX. Procurar la integración y equilibrio entre los factores y sectores productivos, proponiendo y/o ejecutando políticas, programas, proyectos y demás acciones;
 
 XXI. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2021)
 
@@ -2099,13 +2139,13 @@ XXIV. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 XXV. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2021)
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
 
-XXVI. Gestionar en los programas sociales en beneficio y apoyo a las necesidades de la mujer; vigilando el cumplimiento de sus objetivos de conformidad con las reglas de operación vigentes;
+XXVI. Gestionar los programas en beneficio y apoyo a las necesidades del desarrollo económico del Estado;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
 
-XXVII. Vigilar la organización y fomento de la producción artesanal, así como, las industrias populares, promoviendo los estímulos necesarios para su desarrollo y comercialización;
+XVII. Impulsar el desarrollo artesanal, por medio de programas de investigación, desarrollo, abasto de materias primas e insumos, capacitación, financiamiento, promoción, comercialización y difusión, que signifiquen un impulso al mejoramiento de las condiciones de vida de las familias de los artesanos;
 
 XXVIII. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2021)
 
@@ -2115,9 +2155,45 @@ XXIX. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 XXX. Otorgar la certificación de origen a los productos de origen oaxaqueño, que cumplan con los requisitos que para tal efecto se establezcan; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE ENERO DE 2024)</small>
 
-XXXI. Las demás que en el ámbito de su competencia le confiere directamente el Gobernador del Estado su reglamento interno y demás disposiciones normativas aplicables.
+XXXI. Integrar y promover el catálogo de la oferta de productos del Estado, que cuenten con las certificaciones necesarias y/o cumplan con la normatividad respectiva para su comercialización;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+
+XXXII. Promover e impulsar el desarrollo de la economía social en el Estado;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+
+XXXIII. Fomentar la cultura de responsabilidad social y la sustentabilidad en el sector económico del Estado;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+
+XXXIV. Instrumentar una red empresarial de apoyo que coadyuve al impulso y consolidación del desarrollo económico en el Estado;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+
+XXXV. Diseñar, formular, desarrollar y ejecutar políticas, estrategias, programas y acciones de fomento y apoyo a la cultura emprendedora;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+
+XXXVI. Fomentar la cultura emprendedora a través de la organización de cursos, conferencias, exposiciones, ferias, foros y en general eventos que impulsen la generación de nuevas iniciativas emprendedoras y la exposición de productos de origen oaxaqueño;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+
+XXXVII. Promover, estimular e impulsar el desarrollo del Corredor Interoceánico del Istmo de Tehuantepec, así como en los polos de desarrollo para el bienestar, corredores, puertos y zonas estratégicas dentro del Estado;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+
+XXXVIII. Promover, fomentar y, en su caso, participar en la creación de parques, corredores y ciudades industriales, puertos y polos de desarrollo, de competencia estatal;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+
+XXXIX. Otorgar o administrar becas, apoyos, subsidios e incentivos que contribuyan al desarrollo económico del Estado;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE ENERO DE 2024)</small>
+
+XL. Las demás que en el ámbito de su competencia le confiere directamente el Gobernador del Estado, su reglamento interno y demás disposiciones normativas aplicables.
 
 > <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2016)</small>
 
@@ -2879,9 +2955,13 @@ XXIII. Coordinar el sistema de información para la planeación del desarrollo;
 
 XXIV. Definir con la Secretaría de Finanzas los requerimientos que deberán producir los sistemas de información estadística y documental para la planeación y el financiamiento del desarrollo, así como, el análisis y difusión de estadísticas y estudios relativos a la demografía, economía y desarrollo social del Estado, y
 
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+
+XXV. Coordinar las acciones interinstitucionales necesarias para coadyuvar con el Ejecutivo del Estado para la presentación del informe sobre el estado que guarda la administración pública estatal ante el Congreso del Estado;
+
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
-XXV. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
+XXVI. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
 
 > <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -3031,77 +3111,9 @@ XIII. Promover mecanismos de diálogo y trabajo coordinado con la sociedad civil
 
 XIV. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
 ###### ARTÍCULO 53.
 
-A la Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología, le corresponde el despacho de los siguientes asuntos:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-I. Coordinar la planeación, programación, presupuestación y evaluación de los servicios que ofrezca el conjunto de instituciones, subsistemas y organismos de capacitación para el trabajo, educación media superior, preparatoria abierta, superior, ciencia y tecnología que funcionan en el Estado, en congruencia con la legislación federal y estatal en la materia;
-
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
-
-II. Establecer los adecuados canales de comunicación y coordinación con la Secretaría de Educación Pública del Gobierno del Estado y el Instituto Estatal de Educación Pública de Oaxaca para el desarrollo de la política educativa en el Estado;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-III. Ser el conducto oficial y autoridad educativa para tratar los asuntos relacionados con la capacitación para el trabajo, educación media superior, preparatoria abierta, educación superior, ciencia y tecnología de Oaxaca;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-IV. Promover, concertar y desarrollar proyectos y acciones que impulsen la consolidación de la capacitación para el trabajo, educación media superior, preparatoria abierta, educación superior, ciencia y tecnología de Oaxaca;
-
-V. Promover y suscribir convenios con la Federación, Estados, Municipios y Organismos nacionales e internacionales públicos o privados, para el fortalecimiento del sector que coordina, conforme a la normatividad aplicable a la materia;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-VI. Realizar estudios sobre la demanda, cobertura, pertinencia y calidad de la educación media superior, preparatoria abierta, educación superior, ciencia y tecnología, propiciando su consolidación y desarrollo;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-VII. Establecer las políticas para la ampliación de la oferta educativa e incremento de la materia en las instituciones de educación media superior, preparatoria abierta, educación superior, ciencia y tecnología o sedes de capacitación para el trabajo de acuerdo a las prioridades establecidas en el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo y en sus respectivos programas sectoriales,
-
-VIII. Elaborar y/o validar los estudios de factibilidad, previo aval de la Comisión Estatal para la Planeación y Programación de la Educación Media Superior y de la Comisión Estatal para la Planeación de la Educación Superior, en el ámbito de sus competencias;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-IX. Gestionar y promover la obtención de recursos destinados al desarrollo y consolidación de la capacitación para el trabajo, educación media superior, preparatoria abierta, educación superior, ciencia y tecnología;
-
-X. Coordinar la elaboración y supervisar la ejecución del Programa de Ciencia y Tecnología para el Estado de Oaxaca, conforme a lo señalado en la normatividad aplicable a la materia;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-XI. Establecer los mecanismos de vinculación con el sector académico, instituciones de capacitación para el trabajo, educación media superior y superior, centros e institutos de investigación, así como con el sector productivo, públicos (sic), privado y social, conforme a las perspectivas del desarrollo económico, social y cultural en el Estado de Oaxaca;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-XII. Establecer y coordinar los programas de apoyo económico a través de becas y créditos que promuevan el desempeño académico para el ingreso, permanencia y egreso de los estudiantes de educación media superior y superior;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-XIII. Resolver sobre el otorgamiento y retiro del reconocimiento de validez oficial de estudios a los particulares, que pretendan ofertar servicios de educación media superior y superior en el Estado, así como, para impartir capacitación para el trabajo,
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-XIV. Conformar las bases de datos que permitan generar la información estadística para la consolidación del funcionamiento de la capacitación para el trabajo, educación media superior, preparatoria abierta, educación superior, ciencia y tecnología;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-XV. Revalidar, convalidar u otorgar equivalencias de estudios para la educación media superior y superior de acuerdo a los lineamientos legales correspondientes;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-XVI. Establecer y realizar los sistemas de control escolar de las instituciones públicas y particulares en capacitación para el trabajo, educación media superior, preparatoria abierta y educación superior;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-XVII. Expedir constancias, certificados de estudios, diplomas, títulos y grados académicos en el ámbito de su competencia, así como, validar títulos y grados académicos de servicios de educación normal y para la formación de docentes, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-XVIII. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, la legislación federal y estatal, su Reglamento Interno y demás normatividad aplicable en la materia.
+(DEROGADO, P.O. 31 DE ENERO DE 2024)
 
 > <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
 
@@ -3141,9 +3153,9 @@ Las Entidades de la Administración Pública Estatal podrán integrarse a dichas
 
 El Gobernador del Estado podrá constituir mediante acuerdo o decreto los gabinetes sectoriales o especializados que considere necesarios para el despacho de los asuntos en que deban intervenir las Dependencias y Entidades.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2024)</small>
 
-Todos los gabinetes serán presididos por la persona titular de la Jefatura de Gabinete y, en su ausencia, por el titular de Dependencia u Órgano Auxiliar cabeza de Sector o en la persona titular de la Dependencia u Órgano Auxiliar cuya competencia se refiera a la especialidad del Gabinete.
+Todos los gabinetes serán presididos por el Gobernador del Estado y, en su ausencia, por el titular de la Dirección General del Instituto de Planeación para el Bienestar, o por el servidor público que el Gobernador del Estado designe.
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
@@ -3213,17 +3225,19 @@ Contarán con personalidad jurídica y autonomía de gestión; podrán ser cread
 
 ### CAPÍTULO VI. DEL DESARROLLO, CONTROL Y EVALUACIÓN
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 64.
 
-Las Entidades, para su desarrollo y operación, deberán sujetarse a la Ley de Entidades Paraestatales del Estado de Oaxaca, Ley de Planeación del Estado de Oaxaca, al Plan Estatal de Desarrollo, a los programas sectoriales y regionales que deriven del mismo, a las directrices y políticas que en materia de programación y evaluación fijen en el ámbito de su competencia las Secretarías de Finanzas, de la Contraloría y Transparencia Gubernamental, el Comité Estatal de Planeación para el Desarrollo de Oaxaca, la Jefatura de la Gubernatura y el coordinador de sector, en el ámbito de sus respectivas competencias y de las demás disposiciones aplicables.
+Las Entidades, para su desarrollo y operación, deberán sujetarse a la Ley de Entidades Paraestatales del Estado de Oaxaca, Ley Estatal de Planeación, al Plan Estatal de Desarrollo, a los programas sectoriales y regionales que deriven del mismo, a las directrices y políticas que en materia de programación y evaluación fijen en el ámbito de su competencia las Secretarías de Finanzas, de Honestidad, Transparencia y Función Pública, del Instituto de Planeación para el Bienestar y el coordinador de sector, en el ámbito de sus respectivas competencias y de las demás disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 65.
 
-La Secretaría de la Contraloría y Transparencia Gubernamental, a través de su titular deberá fungir como Comisario para la vigilancia y control de las Entidades, pudiendo nombrar un suplente una vez instalado el Órgano de Gobierno.
+La Secretaría de Honestidad, Transparencia y Función Pública, a través de su titular deberá fungir como Comisario para la vigilancia y control de las Entidades, pudiendo nombrar un suplente una vez instalado el Órgano de Gobierno.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
 
 La Coordinadora de Sector, a través de su titular o el suplente del mismo, mediante su participación en los órganos de gobierno de las Entidades, podrá recomendar las medidas adicionales que estime pertinentes, sobre las acciones tomadas en materia de control y evaluación internos.
 
@@ -4130,3 +4144,101 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 31 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1719.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES II, III, IV, V, VI, VII, VIII, IX, XV, XVII, XX, XXVI, XXVII Y XXXI; Y SE ADICIONAN LAS FRACCIONES XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX Y XL DEL ARTICULO 46-A DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se extingue el Instituto para el Fomento y la Protección de las Artesanías, como Organismo Público Descentralizado, con personalidad jurídica y patrimonio propio.
+
+CUARTO. Se abroga la Ley que crea el Instituto para el Fomento y la Protección de las Artesanías, publicada el 4 de diciembre de 2004, en el Periódico Oficial del Gobierno del Estado.
+
+QUINTO. Se extingue el Instituto Oaxaqueño del Emprendedor y de la Competitividad como Organismo Público Descentralizado, con personalidad jurídica y patrimonio propio.
+
+SEXTO. Se abroga la Ley que crea el Instituto Oaxaqueño del Emprendedor y de la Competitividad, publicada el 15 de octubre de 2016, en el Periódico Oficial del Gobierno del Estado.
+
+SÉPTIMO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las áreas administrativas del Instituto para el Fomento y la Protección de las Artesanías, o del Instituto Oaxaqueño del Emprendedor y de la Competitividad, que por este Decreto se extinguen, se entenderán contraídas por sus correlativas.
+
+OCTAVO. Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las áreas y entidades, cuyas funciones se reforman en virtud de esta Ley, se entenderán referidas a las áreas y entidades a quienes respectivamente, corresponden tales funciones.
+
+NOVENO. Los recursos humanos, financieros y materiales que venía utilizando el Instituto para el Fomento y la Protección de las Artesanías, y el Instituto Oaxaqueño del Emprendedor y de la Competitividad, se transferirán a la Secretaría de Desarrollo Económico, debiendo intervenir en el ámbito de sus competencias, la Secretaría de Finanzas, de Administración y de Honestidad, Transparencia y Función Pública.
+
+DÉCIMO. Las Secretarías de Finanzas, de Administración y de Honestidad, Transparencia y Función Pública, en uso de sus facultades legales, realizarán todos los actos concernientes para el debido cumplimiento del presente Decreto.
+
+DÉCIMO PRIMERO. Los asuntos que con motivo de estas reformas deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado, hasta que las áreas administrativas que se transfieren se incorporen a la Dependencia que señale este Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+DÉCIMO SEGUNDO. Se faculta a la Secretaría de Finanzas y a la Secretaría de Administración, en el ámbito de sus respectivas facultades, para realizar los cambios en las estructuras orgánicas que por esta Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca se derogan o transfieren, así como para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación del presente Decreto.
+
+DÉCIMO TERCERO. Los nombramientos por condición laboral de Mandos Medios y Superiores otorgados desde la creación de Instituto para el Fomento y la Protección de las Artesanías, y del Instituto Oaxaqueño del Emprendedor y de la Competitividad, quedan sin efecto, por lo que los servidores públicos salientes deberán realizar las transferencias y procesos de entrega-recepción a la Secretaría de Desarrollo Económico.
+
+Los derechos laborales de los empleados de base que en su caso estén adscritos al Instituto para el Fomento y la Protección de las Artesanías, o al Instituto Oaxaqueño del Emprendedor y de la Competitividad, se respetarán conforme a las disposiciones normativas aplicables.
+
+DÉCIMO CUARTO. Se faculta al Instituto para el Fomento y la Protección de las Artesanías, y al Instituto Oaxaqueño del Emprendedor y de la Competitividad, para que, dentro del plazo máximo de 90 días naturales contados a partir de la publicación del presente Decreto, concluya ante las instancias competentes los trámites administrativos de índole presupuestal, contable, fiscal y en materia de transparencia, para dar cumplimiento al presente Decreto.
+
+DÉCIMO QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+P.O. 31 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1720- MEDIANTE EL CUAL REFORMAN LA FRACCIÓN I DEL ARTÍCULO 3, EL ARTÍCULO 26, LA FRACCIÓN XXXIII DEL ARTÍCULO 45, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 58, EL ARTÍCULO 64, EL PRIMER PÁRRAFO DEL ARTÍCULO 65; SE ADICIONAN LAS FRACCIONES XLV Y XLVI Y SE RECORRE LA FRACCIÓN SUBSECUENTE DEL ARTÍCULO 34; LA FRACCIÓN LIX Y SE RECORRE LA FRACCIÓN SUBSECUENTE DEL ARTÍCULO 45, LA FRACCIÓN XXV Y SE RECORRE LA FRACCIÓN SUBSECUENTE DEL ARTÍCULO 49 BIS, Y; SE DEROGAN EL ARTÍCULO 26 BIS, LA FRACCIÓN XIX DEL ARTÍCULO 27, EL ARTÍCULO 33 BIS, TODOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se extingue la Jefatura de Gabinete; por lo que el Titular del Poder Ejecutivo Estatal en el ámbito de su competencia deberá dejar sin efectos las disposiciones normativas que se contravengan al objeto del presente Decreto.
+
+CUARTO. Las funciones, facultades y/o atribuciones que estaban encomendadas a la Jefatura de Gabinete como Instancia Técnica de Evaluación, específicamente en ese rubro, serán ejercidas por la Secretaría de Finanzas.
+
+El Titular del Poder Ejecutivo del Estado, en el plazo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto, deberá realizar y/o proponer las adecuaciones a la normatividad correspondiente.
+
+QUINTO. Los recursos humanos, financieros y materiales etiquetados para la Jefatura de Gabinete, pasarán a las Áreas Administrativas que sean creadas o transferidas por el Titular del Poder Ejecutivo, para atender las funciones y atribuciones que contengan.
+
+SEXTO. Se extingue el Organismo Público Descentralizado denominado "Dirección General de Población de Oaxaca".
+
+SÉPTIMO. Se abroga el Decreto de creación del Organismo Público Descentralizado denominado "Dirección General de Población de Oaxaca" y sus reformas, publicadas el 10 de enero de 1998 y 25 de marzo de 2022, respectivamente, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+OCTAVO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las áreas administrativas de la Dirección General de Población de Oaxaca y Jefatura de Gabinete que por este Decreto se extinguen, se entenderán contraídas por sus correlativas.
+
+NOVENO. Los recursos humanos, financieros y materiales que venía utilizando la Dirección General de Población de Oaxaca, se transferirán a la Secretaría de Gobierno, debiendo intervenir en el ámbito de sus competencias, la Secretaría de Finanzas, de Administración y de Honestidad, Transparencia y Función Pública.
+
+DÉCIMO. Las Secretarías de Finanzas, de Administración y de Honestidad, Transparencia y Función Pública, en uso de sus facultades legales, realizarán todos los actos concernientes para el debido cumplimiento del presente Decreto.
+
+DÉCIMO PRIMERO. Los asuntos que con motivo de estas reformas deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado, hasta que las áreas administrativas que se transfieren se incorporen a la Dependencia que señale este Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+DÉCIMO SEGUNDO. Los nombramientos por condición laboral de Mandos Medios y Superiores otorgados desde la creación de la "Dirección General de Población de Oaxaca" y de "Jefatura de Gabinete" quedan sin efecto, por lo que los servidores públicos salientes deberán realizar las transferencias y procesos de entrega-recepción correspondientes.
+
+Los derechos laborales de los empleados de base se respetarán conforme a las disposiciones normativas aplicables.
+
+DÉCIMO TERCERO. Se faculta a la Dirección General de Población de Oaxaca y a la Jefatura de Gabinete, para que, dentro del plazo máximo de 90 días naturales contados a partir de la publicación del presente Decreto, concluyan ante las instancias competentes los trámites administrativos de índole presupuestal, contable, fiscal y en materia de transparencia, para dar cumplimiento al presente Decreto.
+
+DÉCIMO CUARTO. Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición respecto de la Dirección General de Población de Oaxaca y la Jefatura de Gabinete por virtud del presente Decreto, se entenderán referidas a las Dependencias o Entidades a quienes, respectivamente, correspondan tales funciones.
+
+P.O. 31 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1721.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV y XVI, y SE ADICIONAN LAS FRACCIONES XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV y XXV AL ARTÍCULO 38; SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 33, Y EL ARTÍCULO 53 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se extingue la Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología; por lo que el Titular del Poder Ejecutivo Estatal en el ámbito de su competencia deberá dejar sin efectos las disposiciones normativas que se contravengan al objeto del presente decreto.
+
+CUARTO. Los actos jurídicos y administrativos suscritos en lo que corresponden a las atribuciones de la extinta Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología, se entenderán que se refieren en lo concerniente al contenido del presente Decreto, a la Secretaría de Educación Pública.
+
+QUINTO. Los recursos materiales y financieros que formen parte del patrimonio de la a (sic) Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología, pasarán a formar parte de los activos de la Secretaría de Educación Pública de Oaxaca; debiendo intervenir en el ámbito de sus competencias la Secretaría de Finanzas, Secretaría de Administración y Secretaría de Honestidad, Transparencia y Función Pública.
+
+SEXTO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal, suscrito por la Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología, se entenderán subrogadas y contraídas por la Secretaría de Educación Pública de Oaxaca.
+
+Los archivos generados por la Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología, deberán ser entregados para su resguardo a la Secretaría de Educación Pública de Oaxaca.
+
+Se faculta a la entonces persona titular de la Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología, para que, dentro del plazo máximo de 90 días naturales contados a partir de la publicación del presente Decreto, concluya antes (sic) las instancias competentes los trámites administrativos de índole presupuestal, contable, fiscal y en materia de transparencia, para dar cumplimiento al presente Decreto.
+
+SÉPTIMO. Los nombramientos por condición laboral de Mandos Medios y Superiores otorgados desde la creación de la Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología quedan sin efecto, por lo que los servidores públicos salientes deberán realizar las transferencias y procesos de entrega-recepción a la Secretaría de Educación Pública de Oaxaca.
+
+Los derechos laborales de los empleados de base que en su caso estén adscrito (sic) la Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología, se respetarán conforme a las disposiciones normativas aplicables.
+
+OCTAVO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
