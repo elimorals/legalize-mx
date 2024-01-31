@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-para-prevenir-la-109503"
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-08-21"
-last_updated: "2023-12-14"
+last_updated: "2024-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109503&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-08-13"
 
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE ENERO DE 2024.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 21 de agosto de 2015.
 
@@ -141,9 +141,9 @@ II. Unidades administrativas:
 
 a) Coordinación de Estudios, Legislación y Políticas Públicas;
 
-> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2024)</small>
 
-b) Coordinación de Vinculación, Cultura y Educación;
+b) Coordinación de Vinculación, Transversalidad y Educación;
 
 c) Dirección General Adjunta de Quejas;
 
@@ -151,7 +151,9 @@ d) Dirección de Asuntos Jurídicos;
 
 e) Dirección de Planeación, Administración y Finanzas;
 
-f) Dirección de Apoyo a Órganos Colegiados y Coordinación Interinstitucional;
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
+f) Dirección de Apoyo a Órganos Colegiados;
 
 > <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
 
@@ -207,9 +209,11 @@ Las sesiones de la Junta de Gobierno requerirán para su validez de la asistenci
 
 Si no se lograse el quórum requerido, la Presidencia de la Junta de Gobierno dará un plazo de espera de hasta veinte minutos, previo acuerdo con las personas integrantes que estuvieren presentes. Si aun así no se reuniera el quórum requerido, se procederá a diferir la sesión, circunstancia que se hará constar en el acta de la siguiente sesión, misma que deberá celebrarse entre los cinco y quince días hábiles siguientes.
 
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 17.
 
-De cada sesión de trabajo, la persona titular de la Dirección de Apoyo a Órganos Colegiados y Coordinación Interinstitucional, en su carácter de Secretaria Técnica de la Junta de Gobierno, elaborará el acta que contendrá los datos de la sesión, la lista de asistencia, los puntos del orden del día, el sentido de las intervenciones, los resultados de las votaciones y los acuerdos aprobados.
+De cada sesión de trabajo, la persona titular de la Dirección de Apoyo a Órganos Colegiados, en su carácter de Secretaria Técnica de la Junta de Gobierno, elaborará el acta que contendrá los datos de la sesión, la lista de asistencia, los puntos del orden del día, el sentido de las intervenciones, los resultados de las votaciones y los acuerdos aprobados.
 
 ### Capítulo II. De la Presidencia
 
@@ -249,9 +253,9 @@ XII. Cualquier otra prevista en la Ley, el presente Estatuto y en los ordenamien
 
 Las ausencias de carácter temporal de la persona titular de la Presidencia del Consejo serán suplidas de conformidad con la designación que realice mediante oficio, de entre las personas titulares de la Dirección General Adjunta, Coordinaciones y Direcciones del Consejo.
 
-> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2024)</small>
 
-En el supuesto en el que la persona titular de la Presidencia no pudiera nombrar a la persona servidora pública encargada del despacho del Consejo, la suplencia será atendida en primer lugar por la persona titular de la Coordinación de Vinculación, Cultura y Educación; en su ausencia, por la persona titular de la Dirección General Adjunta de Quejas, en ausencia de las dos anteriores, por la persona titular de la Coordinación de Estudios, Legislación y Políticas Públicas, en ausencia de las precedentes por la persona titular de la Dirección de Planeación, Administración y Finanzas, y ante la ausencia de todas las personas precedentes la persona titular de la Dirección de Asuntos Jurídicos.
+En el supuesto en el que la persona titular de la Presidencia no pudiera nombrar a la persona servidora pública encargada del despacho del Consejo, la suplencia será atendida en primer lugar por la persona titular de la Coordinación de Vinculación, Transversalidad y Educación; en su ausencia, por la persona titular de la Dirección General Adjunta de Quejas, en ausencia de las dos anteriores, por la persona titular de la Coordinación de Estudios, Legislación y Políticas Públicas, en ausencia de las precedentes por la persona titular de la Dirección de Planeación, Administración y Finanzas, y ante la ausencia de todas las personas precedentes la persona titular de la Dirección de Asuntos Jurídicos.
 
 ## TÍTULO CUARTO. DE LA ASAMBLEA CONSULTIVA
 
@@ -373,9 +377,11 @@ La Secretaria Técnica de la Asamblea será la encargada de la elaboración y en
 
 Las sesiones de la Asamblea podrán llevarse a cabo en el domicilio del Consejo, o en lugar distinto a éste, siempre que así lo proponga la Presidencia de la Asamblea a la Presidencia del Consejo. Lo anterior será comunicado a las y los integrantes, de manera electrónica o escrita.
 
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 35.
 
-La persona titular de la Dirección de Apoyo a Órganos Colegiados y Coordinación Interinstitucional, fungirá como Secretaria Técnica de la Asamblea, con la finalidad de brindar el apoyo técnico y logístico para el cumplimiento de sus atribuciones y para una mejor coordinación entre ese órgano colegiado y el Consejo, cuyas funciones están descritas en el artículo 57 del presente Estatuto.
+La persona titular de la Dirección de Apoyo a Órganos Colegiados, fungirá como Secretaria Técnica de la Asamblea, con la finalidad de brindar el apoyo técnico y logístico para el cumplimiento de sus atribuciones y para una mejor coordinación entre ese órgano colegiado y el Consejo, cuyas funciones están descritas en el artículo 57 del presente Estatuto.
 
 > <small>(REFORMADO, D.O.F 20 DE JUNIO DE 2017)</small>
 
@@ -561,9 +567,9 @@ X. Proponer, elaborar y/o coordinar proyectos y estudios que promuevan el desarr
 
 XI. Promover, elaborar y coordinar la generación y sistematización de información estadística desagregada por sexo, territorialmente y en función de los grupos de población discriminados;
 
-> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-XI BIS. Contribuir a que los procedimientos de captura y procesamiento de los registros administrativos sobre quejas del Consejo generen información estadística confiable y periódica.
+XI BIS. Contribuir a que los procedimientos de captura y procesamiento de los registros administrativos sobre quejas del Consejo generen información estadística confiable y periódica;
 
 > <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
@@ -581,7 +587,9 @@ XV. Proponer a la persona titular de la Presidencia del Consejo los anteproyecto
 
 XVI. Promover la armonización de la legislación vigente o de los proyectos de reforma de ley con relación a las obligaciones de igualdad y no discriminación;
 
-XVII. Monitorear los avances legislativos en materia de protección al derecho a la igualdad y no discriminación.
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+XVII. Monitorear los avances legislativos en materia de protección al derecho a la igualdad y no discriminación;
 
 XVIII. Emitir opinión y asesorías sobre instrumentos o procesos internacionales, que le sean formuladas o por considerarlo necesario;
 
@@ -589,17 +597,17 @@ XIX. Monitorear y analizar los instrumentos internacionales y las observaciones 
 
 XX. Proponer e impulsar, medidas tendientes a promover la igualdad y prevenir y eliminar prácticas discriminatorias en el territorio nacional, acordes con las obligaciones internacionales en la materia asumidas por el Estado mexicano;
 
-XXI Instrumentar procesos de articulación con organismos internacionales públicos o privados, orientados a la promoción y adopción de acciones y buenas prácticas para aportar en la prevención y eliminación de la discriminación, así como apoyar la presencia del Consejo en reuniones internacionales relacionadas con la igualdad y no discriminación;
+XXI. Instrumentar procesos de articulación con organismos internacionales públicos o privados, orientados a la promoción y adopción de acciones y buenas prácticas para aportar en la prevención y eliminación de la discriminación, así como apoyar la presencia del Consejo en reuniones internacionales relacionadas con la igualdad y no discriminación;
 
 XXII. Generar insumos para orientar la toma de decisiones de la Presidencia del Consejo acerca de la concertación de acuerdos o convenios de colaboración con organismos internacionales públicos o privados, así como coadyuvar en los procesos de celebración y seguimiento de los mismos, y
 
 XXIII. Las demás que le confiera la persona titular de la Presidencia del Consejo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
 
 ###### Artículo 53.
 
-La Coordinación de Vinculación, Cultura y Educación tendrá las siguientes atribuciones:
+La Coordinación de Vinculación, Transversalidad y Educación tendrá las siguientes atribuciones:
 
 I. Promover y difundir en los diversos ámbitos, instituciones y organismos públicos, privados y organizaciones de la sociedad civil, el conocimiento y aplicación del derecho a la no discriminación para contribuir al desarrollo cultural, social y democrático del país;
 
@@ -611,7 +619,9 @@ IV. Coordinar la estrategia territorial del Consejo para divulgar el Programa y 
 
 V. (DEROGADA, D.O.F. 24 DE JULIO DE 2018)
 
-VI. Impulsar las relaciones interinstitucionales del Consejo con los poderes públicos federales, los gobiernos estatales y municipales, así como con organizaciones de la sociedad civil, academia e iniciativa privada que incidan en los objetivos del Consejo;
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+VI. Promover y coordinar la comunicación y las relaciones interinstitucionales del Consejo con los poderes públicos federales, los gobiernos estatales y municipales, así como con organizaciones de la sociedad civil, academia e iniciativa privada para lograr una colaboración efectiva y transversal entre diversos actores que incidan en los objetivos del Consejo;
 
 VII. Establecer estrategias que permitan a las instituciones públicas, privadas y organizaciones sociales la implementación de programas y medidas para prevenir y eliminar la discriminación;
 
@@ -639,9 +649,9 @@ La Dirección General Adjunta de Quejas tendrá las siguientes atribuciones:
 
 I. Orientar a las personas peticionarias que refieran haber sufrido presuntos actos, omisiones o prácticas sociales discriminatorias;
 
-> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-II. Canalizar a las personas peticionarias, cuando proceda, a las instancias que correspondan.
+II. Canalizar a las personas peticionarias, cuando proceda, a las instancias que correspondan;
 
 III. (DEROGADA, D.O.F. 24 DE JULIO DE 2018)
 
@@ -649,17 +659,17 @@ III. (DEROGADA, D.O.F. 24 DE JULIO DE 2018)
 
 IV. Admitir la instancia cuando se considere que existe un presunto acto, omisión o práctica social discriminatoria;
 
-> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-V. Realizar las notificaciones correspondientes a través de cualquier medio que brinde certeza, privilegiando los medios electrónicos.
+V. Realizar las notificaciones correspondientes a través de cualquier medio que brinde certeza, privilegiando los medios electrónicos;
 
 > <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
 VI. Requerir a la parte a quien se le atribuyen los presuntos actos, omisiones o prácticas sociales discriminatorias;
 
-> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-VII. Privilegiar, cuando proceda, la conciliación y en caso avenimiento entre las partes, proponer a éstas la suscripción del convenio conciliatorio;
+VII. Privilegiar, cuando proceda, la conciliación y en caso avenimiento entre las partes, proponer a estas la suscripción del convenio conciliatorio;
 
 > <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
@@ -669,9 +679,9 @@ VIII. Solicitar informes, estudios o dictámenes y practicar las diligencias e i
 
 IX. Dictar, de manera fundada y motivada, las medidas cautelares que considere pertinentes para evitar la consumación de actos con consecuencias de imposible o difícil reparación o para restablecer las cosas al estado que guardaban antes de la alegada violación, así como supervisar dichas medidas y en caso de incumplimiento de las mismas dar vista a las autoridades correspondientes;
 
-> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-X. Proponer a la persona titular de la Presidencia del Consejo los proyectos de resolución por disposición e informes especiales para que, en su caso, sean aprobados y suscritos por ésta;
+X. Proponer a la persona titular de la Presidencia del Consejo los proyectos de resolución por disposición e informes especiales para que, en su caso, sean aprobados y suscritos por esta;
 
 > <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
@@ -693,17 +703,17 @@ XV. (DEROGADA, D.O.F. 14 DE DICIEMBRE DE 2023)
 
 XVI. Delegar las facultades correspondientes a las personas titulares de las direcciones y subdirecciones;
 
-> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-XVII. Resguardar y administrar el archivo de los expedientes en trámite y transferir la documentación bajo su resguardo a la Dirección de Planeación, Administración y Finanzas, al fenecer el periodo de conservación, y
+XVII. Resguardar y administrar el archivo de los expedientes en trámite y transferir la documentación bajo su resguardo a la Dirección de Planeación, Administración y Finanzas, al fenecer el periodo de conservación;
 
-> <small>(ADICIONADA, D.O.F. 14 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-XVIII. Tanto la Dirección General Adjunta de Quejas, como las Direcciones de Área que la conforman, podrán delegar a las Subdirecciones de Área las facultades que, a su consideración, resulten pertinentes para el buen funcionamiento de las misma (sic), lo cual se realizará mediante oficio delegatorio.
+XVIII. Tanto la Dirección General Adjunta de Quejas, como las Direcciones de Área que la conforman, podrán delegar a las Subdirecciones de Área las facultades que, a su consideración, resulten pertinentes para el buen funcionamiento de las misma (sic), lo cual se realizará mediante oficio delegatorio, y
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN XVIII], D.O.F. 14 DE DICIEMBRE DE 2023)
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-XIX. Las demás que le confiera la persona titular de la Presidencia del Consejo;
+XIX. Las demás que le confiera la persona titular de la Presidencia del Consejo.
 
 (REPUBLICADO PRIMER PÁRRAFO, D.O.F 20 DE JUNIO DE 2017)
 
@@ -729,7 +739,9 @@ c) De manera enunciativa y no limitativa se mencionan, entre otras facultades, l
 
 5. Acudir a la audiencia de pruebas en los términos de los artículos ochocientos ochenta, ochocientos ochenta y cuatro, ochocientos ochenta y cinco, y ochocientos noventa y dos de la Ley Federal del Trabajo, así mismo se le confieren todas las facultades para proponer arreglos conciliatorios, celebrar transacciones, tomar toda clase de decisiones, negociar y suscribir toda clase de convenios laborales, y
 
-6. Actuar como representante del poderdante en calidad de administrador de toda clase de juicios o procedimientos de trabajo que se tramiten ante toda clase de autoridades.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 31 DE ENERO DE 2024)</small>
+
+6. Actuar como representante del poderdante en calidad de administrador de toda clase de juicios o procedimientos de trabajo que se tramiten ante toda clase de autoridades;
 
 II. Intervenir en los asuntos de carácter legal en que tenga injerencia el Consejo ante toda clase de autoridades administrativas y judiciales, cuando se trate de asuntos relacionados con el ejercicio de las atribuciones del Consejo;
 
@@ -739,9 +751,9 @@ IV. Formular, presentar y, en su caso, ratificar denuncias y querellas por condu
 
 V. Representar a la persona titular de la Presidencia del Consejo cuando sea señalado como autoridad responsable dentro de los juicios de amparo, sin perjuicio del ejercicio directo de las atribuciones que correspondan;
 
-> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-VI. Apoyar a la persona Titular del Consejo en la instrumentación de sanciones administrativas o resoluciones, a través de las cuales determiné el Tribunal Federal de Justicia Administrativa y/ el Órgano Interno de Control del Consejo que deban imponerse o aplicarse a las personas servidoras públicas del CONAPRED;
+VI. Apoyar a la persona Titular del Consejo en la instrumentación de sanciones administrativas o resoluciones, a través de las cuales determine el Tribunal Federal de Justicia Administrativa y/ el Órgano Interno de Control del Consejo que deban imponerse o aplicarse a las personas servidoras públicas del CONAPRED;
 
 > <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
@@ -751,9 +763,9 @@ VII. Establecer, cuando así se requiera, los criterios de interpretación y de 
 
 VIII. Dirigir las acciones que en materia jurídica interna lleva a cabo el Consejo, a fin de prevenir y atender posibles conflictos normativos;
 
-> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-IX. Elaborar los manuales, lineamientos e instrumentos jurídicos de cualquier índole, que tengan por objeto establecer los criterios, parámetros y procedimientos para el mejor desempeño de las atribuciones de la Dirección de Asuntos Jurídicos.
+IX. Elaborar los manuales, lineamientos e instrumentos jurídicos de cualquier índole, que tengan por objeto establecer los criterios, parámetros y procedimientos para el mejor desempeño de las atribuciones de la Dirección de Asuntos Jurídicos;
 
 > <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
@@ -767,9 +779,9 @@ XI. Auxiliar a la persona Titular del Consejo, a la Persona Titular de la Direcc
 
 XII. Dictaminar la procedencia jurídica de convenios y contratos de arrendamiento, adquisiciones o servicios, o cualquier otro instrumento jurídico en esta materia que celebre el Consejo;
 
-> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-XIII. Coordinar y actuar como enlace con la Consejería Jurídica del Ejecutivo Federal y con otras áreas jurídicas de las dependencias y entidades de la Administración Pública Federal, en la elaboración de los instrumentos jurídicos, convencionales en el ámbito de competencia del Consejo. Asimismo, fungirá como enlace con las unidades jurídicas de instituciones privadas y sociales para los mismos fines.
+XIII. Coordinar y actuar como enlace con la Consejería Jurídica del Ejecutivo Federal y con otras áreas jurídicas de las dependencias y entidades de la Administración Pública Federal, en la elaboración de los instrumentos jurídicos, convencionales en el ámbito de competencia del Consejo. Asimismo, fungirá como enlace con las unidades jurídicas de instituciones privadas y sociales para los mismos fines;
 
 > <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
@@ -791,43 +803,41 @@ XVII. Revisar y emitir opinión sobre los anteproyectos de iniciativas de leyes,
 
 XVIII. Sistematizar y difundir la normativa y criterios de interpretación y aplicación de las disposiciones normativas que regulen la operación del Consejo;
 
-> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-XIX. Ser el enlace del Consejo ante la Comisión Nacional de los Derechos Humanos para atender las solicitudes de información que se desprendan de quejas presentadas en contra del Consejo por actos u omisiones que violen los derechos humanos, así como las recomendaciones realizadas por dicha Comisión.
-
-Para los efectos del párrafo anterior, la Dirección de Asuntos Jurídicos, estará facultada para solicitar a las áreas del Consejo, toda la información que resulte necesaria para atender dichos requerimientos.
+XIX. Ser el enlace del Consejo ante la Comisión Nacional de los Derechos Humanos para atender las solicitudes de información que se desprendan de quejas presentadas en contra del Consejo por actos u omisiones que violen los derechos humanos, así como las recomendaciones realizadas por dicha Comisión; Para los efectos del párrafo anterior, la Dirección de Asuntos Jurídicos, estará facultada para solicitar a las áreas del Consejo, toda la información que resulte necesaria para atender dichos requerimientos;
 
 > <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
 XX. Sustanciar, conforme a las disposiciones jurídicas aplicables, los recursos jurisdiccionales que interpongan las y los particulares contra actos y resoluciones del Consejo;
 
-> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-XXI. Coordinar las políticas, estrategias y acciones del Consejo en materia de transparencia.
+XXI. Coordinar las políticas, estrategias y acciones del Consejo en materia de transparencia;
 
-> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-XXII. Planear, fomentar, orientar, verificar y evaluar la instrumentación de las políticas, estrategias y acciones de carácter preventivo y correctivo, así como de las disposiciones jurídicas y administrativas aplicables en materia de transparencia, combate a la corrupción y acceso a la información pública gubernamental, por parte de las unidades administrativas.
+XXII. Planear, fomentar, orientar, verificar y evaluar la instrumentación de las políticas, estrategias y acciones de carácter preventivo y correctivo, así como de las disposiciones jurídicas y administrativas aplicables en materia de transparencia, combate a la corrupción y acceso a la información pública gubernamental, por parte de las unidades administrativas;
 
 > <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
 XXIII. Fungir como enlace institucional en materia de transparencia, vigilar y coordinar con las unidades administrativas que las disposiciones previstas por la legislación en materia de transparencia se atiendan en los términos y plazos establecidos, así como cualquier otro ordenamiento legal relacionado con la materia;
 
-> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-XXIV. Coordinar y asesorar a todas las Unidades Administrativas del Consejo en la carga de información pública a los sistemas informáticos de transparencia que instruya el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+XXIV. Coordinar y asesorar a todas las Unidades Administrativas del Consejo en la carga de información pública a los sistemas informáticos de transparencia que instruya el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
-> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-XXV. Asesorar el funcionamiento de los cuerpos colegiados que operen en el Consejo.
+XXV. Asesorar el funcionamiento de los cuerpos colegiados que operen en el Consejo;
 
-> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-XXVI. Llevar a cabo el registro interno de firmas y presentar a la Secretaría de Gobernación los registros correspondientes, para que ésta realice el trámite de legalización procedente de los documentos públicos del Consejo. Así como el registro de los poderes de los servidores públicos, que por sus funciones lo requieran, ante la Secretaría de Hacienda y Crédito Público.
+XXVI. Llevar a cabo el registro interno de firmas y presentar a la Secretaría de Gobernación los registros correspondientes, para que ésta realice el trámite de legalización procedente de los documentos públicos del Consejo. Así como el registro de los poderes de los servidores públicos, que por sus funciones lo requieran, ante la Secretaría de Hacienda y Crédito Público;
 
-> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-XXVII. Opinar a solicitud de las unidades administrativas sobre la procedencia de los instrumentos jurídicos que suscriba la persona titular de la Presidencia del Consejo en el ámbito de sus atribuciones en materia de cooperación interinstitucional, de conformidad con las disposiciones jurídicas aplicables, así como integrar los expedientes correspondientes.
+XXVII. Opinar a solicitud de las unidades administrativas sobre la procedencia de los instrumentos jurídicos que suscriba la persona titular de la Presidencia del Consejo en el ámbito de sus atribuciones en materia de cooperación interinstitucional, de conformidad con las disposiciones jurídicas aplicables, así como integrar los expedientes correspondientes;
 
 > <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
@@ -841,13 +851,13 @@ XXIX. Llevar a cabo las acciones necesarias para cumplir con los registros neces
 
 XXX. Fungir como enlace ante la Comisión Federal de Mejora Regulatoria a fin de que el Consejo cumpla con las obligaciones derivadas de los Programas de Mejora Regulatoria y la simplificación de trámites y servicios;
 
-> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-XXXI. Requerir a las personas servidoras públicas y unidades administrativas, la documentación e información que requiera para el cumplimiento de sus atribuciones;
+XXXI. Requerir a las personas servidoras públicas y unidades administrativas, la documentación e información que requiera para el cumplimiento de sus atribuciones, y
 
-> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-XXXII. Las demás que le confiera la persona titular de la Presidencia del Consejo;
+XXXII. Las demás que le confiera la persona titular de la Presidencia del Consejo.
 
 ###### Artículo 56.
 
@@ -915,11 +925,15 @@ XXIX. Coordinar los mecanismos necesarios para el funcionamiento de la infraestr
 
 XXX. Las demás que le confiera la persona titular de la Presidencia del Consejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 57.
 
-La Dirección de Apoyo a Órganos Colegiados y Coordinación Interinstitucional tendrá las siguientes atribuciones:
+La Dirección de Apoyo a Órganos Colegiados tendrá las siguientes atribuciones:
 
-I. Coordinar la comunicación con los representantes de las dependencias y entidades de la Administración Pública Federal, así como con organizaciones de la sociedad civil, academia e iniciativa privada que forman parte de la Junta de Gobierno y Asamblea Consultiva a fin de fortalecer la interrelación con el Consejo;
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+
+I. Coordinar la comunicación entre las personas que forman parte de la Junta de Gobierno y Asamblea Consultiva a fin de fortalecer la interrelación con el Consejo;
 
 II. Proporcionar a la Asamblea el apoyo logístico para que defina en su interior a las personas e instituciones que se hagan acreedoras a los Reconocimientos en sus diversas categorías;
 
@@ -971,9 +985,9 @@ XII. Las demás que le confiera la persona titular de la Presidencia del Consejo
 
 La Subdirección de Gestión tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
-I. Dar seguimiento a los acuerdos e instrucciones de la persona titular de la Presidencia del Consejo con las personas titulares de la Dirección General Adjunta, Coordinaciones y Direcciones de Área, y proporcionar el apoyo requerido para lograr su cumplimiento en calidad y oportunidad.
+I. Dar seguimiento a los acuerdos e instrucciones de la persona titular de la Presidencia del Consejo con las personas titulares de la Dirección General Adjunta, Coordinaciones y Direcciones de Área, y proporcionar el apoyo requerido para lograr su cumplimiento en calidad y oportunidad;
 
 II. Mantener informada a la persona titular de la Presidencia de los asuntos a su cargo o del despacho de las instrucciones que ésta gire a las diversas unidades administrativas del Consejo;
 
@@ -1314,3 +1328,15 @@ D.O.F 14 DE DICIEMBRE DE 2023.
 ###### ARTÍCULO SEGUNDO.
 
 El presente Acuerdo, entrará en vigor a partir del día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER LA REFORMA DEL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+Se comunica a las personas servidoras públicas y público en general, para todos los efectos legales y administrativos a que haya lugar la dirección electrónica institucional donde se encuentra disponible para su consulta la reforma del Estatuto Orgánico del Consejo Nacional para Prevenir la Discriminación, ordenándose su publicación en el Diario Oficial de la Federación, con fundamento en lo dispuesto en el artículo 4 de la Ley Federal de Procedimiento Administrativo.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Acuerdo, entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
