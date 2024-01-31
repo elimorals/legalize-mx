@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-archivos-para-el-estado-de-zacatecas-y-sus-municipios-15
 country: "mx"
 rank: "ley"
 publication_date: "2021-07-03"
-last_updated: "2021-07-03"
+last_updated: "2024-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE ARCHIVOS PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2024.
 
 Ley publicada en el Suplemento al Número 53 del Periódico Oficial del Estado de Zacatecas, el sábado 3 de julio de 2021.
 
@@ -33,11 +33,11 @@ LA HONORABLE SEXAGÉSIMA TERCERA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACA
 
 RESULTANDOS
 
-[…]
+[...]
 
 CONSIDERANDOS
 
-[…]
+[...]
 
 Por lo anteriormente expuesto y fundado y con apoyo además en lo dispuesto en los artículos 152 y 153 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de Decretarse y se
 
@@ -87,9 +87,9 @@ XII. Fomentar la cultura archivística y el acceso a los archivos.
 
 La aplicación e interpretación de esta Ley se hará acorde con lo previsto por la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que México sea parte, la Ley General de Archivos y la Constitución Política del Estado Libre y Soberano de Zacatecas, privilegiando en todo momento el respeto irrestricto a los derechos humanos y favoreciendo en todo tiempo la protección más amplia a las personas y el interés público.
 
-(NOTA: EL 11 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2021 Y SU ACUMULADA 115/2021, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE ABRIL DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2024)</small>
 
-A falta de disposición expresa en la presente Ley, se estará a lo previsto en la Ley General de Archivos y supletoriamente en LA LEY GENERAL DE BIENES NACIONALES; la Ley de Bienes del Estado de Zacatecas y sus Municipios; LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS; la Ley de Procedimiento Administrativo del Estado y Municipios de Zacatecas; el Código de Procedimientos Civiles para el Estado de Zacatecas y el Código Penal para el Estado de Zacatecas.
+A falta de disposición expresa en la presente Ley se aplicarán, de manera supletoria, las disposiciones administrativas correspondientes en la Ley General de Archivos, la Ley de Procedimiento Administrativo del Estado y Municipios de Zacatecas, el Código de Procedimientos Civiles para el Estado de Zacatecas y el Código Penal para el Estado de Zacatecas.
 
 ###### Artículo 4.
 
@@ -191,9 +191,7 @@ XLVII. Plazo de conservación: al periodo de guarda de la documentación en los 
 
 XLVIII. Programa anual: al programa anual de desarrollo archivístico;
 
-(NOTA: EL 11 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2021 Y SU ACUMULADA 115/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XLIX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE ABRIL DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-XLIX. REGISTRO ESTATAL: AL REGISTRO DE ARCHIVOS DEL ESTADO DE ZACATECAS;
+XLIX. (DEROGADA, P.O. 31 DE ENERO DE 2024)
 
 L. Registro Nacional: al Registro Nacional de Archivos;
 
@@ -275,9 +273,9 @@ II. Establecer un sistema institucional para la administración de sus archivos 
 
 III. Integrar los documentos en expedientes;
 
-(NOTA: EL 11 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2021 Y SU ACUMULADA 115/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE ABRIL DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
 
-IV. Inscribir en el Registro Nacional Y EN EL REGISTRO ESTATAL, de acuerdo con las disposiciones que se emitan en la materia, la existencia y ubicación de archivos bajo su resguardo;
+IV. Inscribir en el Registro Nacional, de acuerdo con las disposiciones que se emitan en la materia, la existencia y ubicación de archivos bajo su resguardo;
 
 V. Conformar un grupo interdisciplinario, que coadyuve en la valoración documental;
 
@@ -563,9 +561,11 @@ Los documentos que contengan datos personales sensibles, de acuerdo con la norma
 
 El sujeto obligado deberá asegurar que se cumplan los plazos de conservación establecidos en el catálogo de disposición documental y que los mismos no excedan el tiempo que la normatividad específica que rija las funciones y atribuciones del sujeto obligado disponga, o en su caso, del uso, consulta y utilidad que tenga su información. En ningún caso el plazo podrá exceder de 25 años.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 39.
 
-En concordancia con lo establecido en el artículo 38 de la Ley General, el Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, de acuerdo con la legislación en materia de transparencia y acceso a la información pública, determinará el procedimiento para permitir el acceso a la información de un documento con valores históricos, que no haya sido transferido a un archivo histórico y que contenga datos personales sensibles, de manera excepcional en los siguientes casos:
+El Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, de acuerdo con la legislación local y nacional en materia de transparencia y acceso a la información pública, determinará los mecanismos, instrumentos y herramientas para garantizar los derechos de acceso a la información pública y protección de datos personales, asimismo determinar el mecanismo de acceso a un documento con valores históricos, que no haya sido transferido a un archivo histórico y que contenga datos personales sensibles, de manera excepcional en los siguientes casos:
 
 I. Se solicite para una investigación o estudio que se considere relevante para el país o para el ámbito estatal o municipal, siempre que el mismo no se pueda realizar sin acceso a la información confidencial y la persona que realice el estudio quede obligado por escrito a no divulgar la información obtenida del archivo con datos personales sensibles;
 
@@ -575,9 +575,9 @@ III. El acceso a dicha información beneficie de manera contundente al titular d
 
 IV. Sea solicitada por un familiar directo del titular de la información o un biógrafo autorizado por él mismo.
 
-(NOTA: EL 11 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2021 Y SU ACUMULADA 115/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE ABRIL DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2024)</small>
 
-LOS PARTICULARES PODRÁN IMPUGNAR LA DETERMINACIÓN O RESOLUCIÓN DEL REFERIDO INSTITUTO ANTE LAS AUTORIDADES COMPETENTES DEL ESTADO DE ZACATECAS O ANTE EL PODER JUDICIAL DE LA FEDERACIÓN, SEGÚN CORRESPONDA.
+Los particulares podrán impugnar la determinación o resolución del referido Instituto ante el Poder Judicial de la Federación.
 
 ###### Artículo 40.
 
@@ -1055,31 +1055,21 @@ En caso de que el Archivo General del Estado tenga conocimiento de la enajenaci�
 
 ### CAPÍTULO VII. REGISTRO ESTATAL
 
-(NOTA: EL 11 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2021 Y SU ACUMULADA 115/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE ABRIL DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 ###### Artículo 92.
 
-El Sistema Estatal contará con un Registro Estatal cuyo objeto es obtener y concentrar información sobre los sistemas institucionales y de los archivos privados de interés público, así como difundir el patrimonio documental resguardado en dichos archivos.
-
-(NOTA: EL 11 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2021 Y SU ACUMULADA 115/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE ABRIL DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, P.O. 31 DE ENERO DE 2024)
 
 ###### Artículo 93.
 
-La inscripción al Registro Estatal es obligatoria para los sujetos obligados, quienes deberán actualizar anualmente la información requerida, de conformidad con las disposiciones que para tal efecto emita el Consejo Estatal.
-
-(NOTA: EL 11 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2021 Y SU ACUMULADA 115/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE ABRIL DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, P.O. 31 DE ENERO DE 2024)
 
 ###### Artículo 94.
 
-El Registro Estatal será administrado por el Archivo General del Estado; su organización y funcionamiento será de conformidad con las disposiciones que apruebe el propio Consejo Estatal.
-
-(NOTA: EL 11 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2021 Y SU ACUMULADA 115/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE ABRIL DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, P.O. 31 DE ENERO DE 2024)
 
 ###### Artículo 95.
 
-Para la operación del Registro Estatal, el Archivo General del Estado pondrá a disposición de los sujetos obligados, una aplicación informática que les permita registrar y mantener actualizada la información, la cual deberá prever la interoperabilidad con el Registro Nacional y considerar las disposiciones que para tal efecto emita el Consejo Nacional.
-
-La información del Registro Estatal será de acceso público y de consulta gratuita, disponible a través del portal electrónico del Archivo General del Estado.
+(DEROGADO, P.O. 31 DE ENERO DE 2024)
 
 ### CAPÍTULO VIII. FONDOS DE APOYO ECONÓMICO PARA LOS ARCHIVOS
 
@@ -1139,9 +1129,19 @@ El Archivo General del Estado podrá coordinarse con las autoridades federales, 
 
 Los particulares en posesión de documentos de archivo que constituyan patrimonio documental del estado, podrán custodiarlos, siempre y cuando apliquen las medidas técnicas, administrativas, ambientales o tecnológicas para la conservación y divulgación de los archivos, conforme a los criterios que emita el Consejo Estatal atendiendo a las directrices que para tal efecto emita el Consejo Nacional, en términos de la Ley General, esta Ley y las demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2024)</small>
+
+De la misma forma, los particulares podrán restaurar los documentos de archivo que constituyan patrimonio documental del estado, previa autorización y bajo la supervisión del Archivo General del Estado, el Consejo Nacional y, en su caso, el Consejo Estatal, en los términos de la normatividad aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2024)</small>
+
 ###### Artículo 105.
 
-En caso de que el Archivo General del Estado tenga conocimiento de que se ponga en riesgo la integridad del patrimonio documental en posesión de particulares, deberá presentar las denuncias correspondientes ante el Archivo General de la Nación y las autoridades competentes.
+En caso de que el Archivo General del Estado tenga conocimiento de que se ponga en riesgo la integridad del patrimonio documental en posesión de particulares, deberá establecer los mecanismos de coordinación con el Archivo General de la Nación, a fin de mantener comunicación y determinar las medidas y procedimientos que correspondan conforme a la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2024)</small>
+
+Asimismo, el Archivo General del Estado coadyuvará con el Archivo General de la Nación cuando se trate de recuperar la posesión de documentos de archivo que constituyan patrimonio documental del Estado que forme parte del patrimonio documental de la Nación, de conformidad con la Ley General.
 
 ###### Artículo 106.
 
@@ -1441,9 +1441,9 @@ IV. Implementar las medidas de índole técnica, administrativa, ambiental o tec
 
 V. Permitir el acceso y consulta de documentación institucional de acuerdo con las disposiciones normativas aplicables;
 
-(NOTA: EL 11 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2021 Y SU ACUMULADA 115/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE ABRIL DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
 
-VI. Inscribir el sistema institucional en el Registro Nacional Y EN EL REGISTRO ESTATAL;
+VI. Inscribir el sistema institucional en el Registro Nacional;
 
 VII. Contar con el grupo interdisciplinario para la valoración documental durante el proceso de elaboración o actualización de los instrumentos de control archivístico, así como omitir participar en las sesiones del grupo interdisciplinario durante la valoración documental, sin causa debidamente justificada;
 
@@ -1622,3 +1622,15 @@ DADO en la Sala de Sesiones de la Honorable Sexagésima Tercera Legislatura del 
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 DADO en el Despacho del Poder Ejecutivo del Estado, a los veintiocho días del mes de junio del año dos mil veintiuno. EL GOBERNADOR DEL ESTADO DE ZACATECAS.- ALEJANDRO TELLO CRISTERNA. EL SECRETARIO GENERAL DE GOBIERNO.- ERIK FABIÁN MUÑOZ ROMÁN.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 405.- REFORMAS Y ADICIONES A LA LEY DE ARCHIVOS PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial Órgano del Gobierno del Estado de Zacatecas.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Suplemento del Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+TERCERO. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
