@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-crea-el-instituto-para-el-fomento-y-la-proteccion-41961
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-04"
-last_updated: "2023-01-05"
+last_updated: "2024-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY QUE CREA EL INSTITUTO PARA EL FOMENTO Y LA PROTECCIÓN DE LAS ARTESANÍAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2024 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de diciembre de 2004.
 
@@ -548,3 +548,39 @@ OCTAVO. Cuando en diversas disposiciones legales se haga referencia al Servicio 
 NOVENO. Cuando en diversas disposiciones legales se haga referencia a Instituto Oaxaqueño de las Artesanías, se entenderá que se refiere a Instituto para el Fomento y la Protección de las Artesanías.
 
 DÉCIMO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+P.O. 31 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1719.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES II, III, IV, V, VI, VII, VIII, IX, XV, XVII, XX, XXVI, XXVII Y XXXI; Y SE ADICIONAN LAS FRACCIONES XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX Y XL DEL ARTÍCULO 46-A DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se extingue el Instituto para el Fomento y la Protección de las Artesanías, como Organismo Público Descentralizado, con personalidad jurídica y patrimonio propio.
+
+CUARTO. Se abroga la Ley que crea el Instituto para el Fomento y la Protección de las Artesanías, publicada el 4 de diciembre de 2004, en el Periódico Oficial del Gobierno del Estado.
+
+QUINTO. Se extingue el Instituto Oaxaqueño del Emprendedor y de la Competitividad como Organismo Público Descentralizado, con personalidad jurídica y patrimonio propio.
+
+SEXTO. Se abroga la Ley que crea el Instituto Oaxaqueño del Emprendedor y de la Competitividad, publicada el 15 de octubre de 2016, en el Periódico Oficial del Gobierno del Estado.
+
+SÉPTIMO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las áreas administrativas del Instituto para el Fomento y la Protección de las Artesanías, o del Instituto Oaxaqueño del Emprendedor y de la Competitividad, que por este Decreto se extinguen, se entenderán contraídas por sus correlativas.
+
+OCTAVO. Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las áreas y entidades, cuyas funciones se reforman en virtud de esta Ley, se entenderán referidas a las áreas y entidades a quienes respectivamente, corresponden tales funciones.
+
+NOVENO. Los recursos humanos, financieros y materiales que venía utilizando el Instituto para el Fomento y la Protección de las Artesanías, y el Instituto Oaxaqueño del Emprendedor y de la Competitividad, se transferirán a la Secretaría de Desarrollo Económico, debiendo intervenir en el ámbito de sus competencias, la Secretaría de Finanzas, de Administración y de Honestidad, Transparencia y Función Pública.
+
+DÉCIMO. Las Secretarías de Finanzas, de Administración y de Honestidad, Transparencia y Función Pública, en uso de sus facultades legales, realizarán todos los actos concernientes para el debido cumplimiento del presente Decreto.
+
+DÉCIMO PRIMERO. Los asuntos que con motivo de estas reformas deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado, hasta que las áreas administrativas que se transfieren se incorporen a la Dependencia que señale este Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+DÉCIMO SEGUNDO. Se faculta a la Secretaría de Finanzas y a la Secretaría de Administración, en el ámbito de sus respectivas facultades, para realizar los cambios en las estructuras orgánicas que por esta Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca se derogan o transfieren, así como para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación del presente Decreto.
+
+DÉCIMO TERCERO. Los nombramientos por condición laboral de Mandos Medios y Superiores otorgados desde la creación de (sic) Instituto para el Fomento y la Protección de las Artesanías, y del Instituto Oaxaqueño del Emprendedor y de la Competitividad, quedan sin efecto, por lo que los servidores públicos salientes deberán realizar las transferencias y procesos de entrega-recepción a la Secretaría de Desarrollo Económico.
+
+Los derechos laborales de los empleados de base que en su caso estén adscritos al Instituto para el Fomento y la Protección de las Artesanías, o al Instituto Oaxaqueño del Emprendedor y de la Competitividad, se respetarán conforme a las disposiciones normativas aplicables.
+
+DÉCIMO CUARTO. Se faculta al Instituto para el Fomento y la Protección de las Artesanías, y al Instituto Oaxaqueño del Emprendedor y de la Competitividad, para que, dentro del plazo máximo de 90 días naturales contados a partir de la publicación del presente Decreto, concluya ante las instancias competentes los trámites administrativos de índole presupuestal, contable, fiscal y en materia de transparencia, para dar cumplimiento al presente Decreto.
+
+DÉCIMO QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
