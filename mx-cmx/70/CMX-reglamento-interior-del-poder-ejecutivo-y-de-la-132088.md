@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2023-09-19"
+last_updated: "2024-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE ENERO DE 2024.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -13696,9 +13696,9 @@ Para el despacho de los asuntos que competan al Sistema de Aguas de la Ciudad de
 
 3. Dirección General de Agua Potable a la que queda adscrita:
 
-> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2024)</small>
 
-3.1. Dirección del Proyecto de Mejora de Eficiencia y del Servicio de Agua Potable.
+3.1. Dirección de Hidrometría y Gestión de la Operación.
 
 4. Dirección General de Drenaje;
 
@@ -13852,43 +13852,89 @@ XVI. Expedir y certificar copias de los documentos que obren en sus archivos; y
 
 XVII. Las demás que le confieran las disposiciones jurídicas y administrativas aplicables.
 
-> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE ENERO DE 2024)</small>
 
 ###### Artículo 307 Bis.
 
-La Dirección del Proyecto de Mejora de Eficiencia y del Servicio de Agua Potable, tiene las siguientes atribuciones:
+La Dirección de Hidrometría y Gestión de la Operación, tiene las siguientes atribuciones:
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
 I. Diseñar e instrumentar las acciones necesarias para que se cuente con el hardware y software para la implementación y mantenimiento de las estaciones de automatización y medición del sistema hidráulico de agua potable;
 
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
 II. Analizar los reportes estadísticos de la medición de variables hidráulicas en las diferentes estaciones hidrométricas de instalaciones de agua potable para desarrollar e implementar los sistemas de información necesarios para el apoyo de las funciones del Sistema de Aguas de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
 III. Integrar los recursos financieros requeridos para ejecutar las obras de sectorización y automatización;
 
-IV. Integrar la documentación necesaria para los procesos licitatorios de obra pública y de servicios relacionados con la misma, destinados a la construcción, implementación y mantenimiento de los sectores hidrométricos de la red de distribución de agua potable de la Ciudad de México;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2024)</small>
+
+IV. Realizar las acciones pertinentes para la integración y control de la documentación necesaria para los procesos licitatorios de obra pública y de servicios relacionados con la misma, destinados a la construcción, implementación y mantenimiento de los sectores hidrométricos, para la automatización de la red de distribución de agua potable en la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
 V. Coadyuvar con las Alcaldías y Direcciones Generales del Sistema de Aguas de la Ciudad de México que correspondan, a efecto de integrar los proyectos o trabajos de mantenimiento mayor al funcionamiento sectorizado de la red de agua potable;
 
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
 VI. Llevar a cabo la medición de parámetros hidráulicos del Sistema de Aguas de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
 VII. Dar seguimiento a los proyectos relacionados con la eficiencia de los sectores y mega sectores de la red hidráulica de la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
 VIII. Ejecutar las acciones necesarias para que los sistemas de agua potable cuenten con equipos de automatización, así como los sistemas de información para la transmisión y manejo de los datos generados;
 
-IX. Establecer las acciones para determinar los volúmenes de flujo de agua en los sistemas de captación en las redes de agua potable y conciliar los volúmenes de agua en bloque, que entrega la Comisión Nacional del Agua a la Ciudad de México;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2024)</small>
+
+IX. Establecer los mecanismos correspondientes para determinar los volúmenes de flujo de agua en los sistemas de captación en las redes hidráulicas, para la conciliación de volúmenes de agua en bloque, pago de derechos de agua potable, descargas de aguas residuales y todo lo relacionado con el uso y aprovechamiento de aguas nacionales, conforme a los permisos otorgados por la Comisión Nacional del Agua.
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2024)</small>
+
+IX Bis. Organizar, dirigir y coordinar la planeación de los programas de ejecución, implementación y modernización de los sistemas de telemetría, comunicación y control de las redes hidráulicas.
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2024)</small>
+
+IX Ter. Planear, dirigir y coordinar el diseño y la ejecución de los proyectos relativos a la recuperación de pérdidas físicas, mejora de la continuidad del servicio de agua potable, implementación de sistemas de monitoreo y control de variables hidráulicas de la infraestructura al interior de sectores.
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2024)</small>
+
+IX Quáter. Llevar a cabo la coordinación, control y actualización el (sic) catastro del sistema hidráulico de la Ciudad de México.
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
 X. Intervenir, por instrucción de su superior jerárquico y en el ámbito de su competencia, respecto a la contratación y ejecución de la obra pública y servicios relacionados con la misma a cargo del Sistema de Aguas de la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
 XI. Coadyuvar con la persona titular de su Unidad Administrativa en los procedimientos de revisión y autorización de ajuste de costos, precios unitarios, precios unitarios extraordinarios y volumetría adicional, en el ámbito de sus atribuciones y de conformidad con las disposiciones legales y términos contractuales;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
 XII. Instrumentar, por instrucción de su superior jerárquico y en el ámbito de sus atribuciones, la suspensión o terminación anticipada de los contratos de obra pública y servicios relacionados con la misma, así como determinar su temporalidad;
 
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
 XIII. Coadyuvar, por instrucción de su superior jerárquico y en el ámbito de sus atribuciones, en la substanciación y resolución de los procedimientos de rescisión administrativa de los contratos de su competencia;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
 XIV. Remitir a la Dirección Ejecutiva de Asuntos Jurídicos los documentos necesarios para que se lleven a cabo las acciones jurídicas que legalmente procedan para la defensa de los intereses del Sistema de Aguas de la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
 XV. Suscribir los contratos, convenios y demás actos jurídicos y administrativos dentro del ámbito de su competencia, así como los documentos necesarios para rescindirlos, suspenderlos y/o terminarlos con apego a la normativa aplicable;
 
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
+
 XVI. Expedir y certificar copias de los documentos que obren en sus archivos; y
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
 XVII. Las demás que le confieran otras disposiciones jurídicas y administrativas aplicables o le sean instruidas por sus superiores jerárquicos en el ámbito de sus atribuciones.
 
@@ -15077,3 +15123,15 @@ G.O. 19 DE SEPTIEMBRE DE 2023.
 PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor el día de su publicación.
+
+G.O. 31 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 304 Y 307 BIS DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO, RELACIONADAS CON EL SISTEMA DE AGUAS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el 01 de febrero de 2024.
+
+TERCERO. Los asuntos que con la entrada en vigor del presente Decreto se encuentren en trámite ante la Dirección del Proyecto de Mejora de Eficiencia y del Servicio de Agua Potable, serán atendidos y resueltos por la Dirección de Hidrometría y Gestión de la Operación.
+
+CUARTO. Las referencias hechas a la Dirección del Proyecto de Mejora de Eficiencia y del Servicio de Agua Potable en el presente Reglamento, en otros decretos, acuerdos, contratos, convenios, normativa y demás disposiciones e instrumentos jurídicos, se entenderán hechas a la Dirección de Hidrometría y Gestión de la Operación.
