@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-yucateco-de-emprendedores-10248
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-09-25"
-last_updated: "2022-06-30"
+last_updated: "2024-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO YUCATECO DE EMPRENDEDORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE FEBRERO DE 2024.
 
 Estatuto publicado en el Diario Oficial del estado de Yucatán, el jueves 25 de septiembre de 2014.
 
@@ -121,7 +121,13 @@ d) Dirección de Administración y Finanzas.
 
 2. Departamento de Finanzas.
 
-e) Departamento Jurídico.
+> <small>(REFORMADO, D.O. 2 DE FEBRERO DE 2024)</small>
+
+e) Dirección Jurídica.
+
+> <small>(ADICIONADO, D.O. 2 DE FEBRERO DE 2024)</small>
+
+f) Departamento de Promoción Comercial
 
 ### Capítulo III. Funcionamiento del instituto
 
@@ -341,9 +347,15 @@ Requisitos para ser director general
 
 Para ser director general del instituto, en los términos del Código de la Administración Pública de Yucatán, se debe cumplir con los siguientes requisitos:
 
-I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos.
+> <small>(REFORMADA, D.O. 2 DE FEBRERO DE 2024)</small>
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos.
 
 II. No encontrarse en alguno de los impedimentos señalados por el Código de la Administración Pública de Yucatán.
+
+> <small>(ADICIONADA, D.O. 2 DE FEBRERO DE 2024)</small>
+
+III. Contar con estudios técnicos o profesionales afines con el objeto del organismo público descentralizado.
 
 ###### Artículo 27.
 
@@ -597,7 +609,9 @@ Artículo 34 bis. Facultades y obligaciones del director de Desarrollo Artesanal
 
 El director de Desarrollo Artesanal tendrá las siguientes facultades y obligaciones:
 
-I. Proponer al director general estrategias y líneas de acción para el desarrollo del sector artesanal y la adquisición, consignación, comercialización y venta de los productos de las personas artesanas del estado.
+> <small>(REFORMADA, D.O. 2 DE FEBRERO DE 2024)</small>
+
+I. Proponer al director general estrategias y líneas de acción para el desarrollo del sector artesanal.
 
 II. Fomentar y desarrollar acciones de vinculación con personas artesanas, cooperativas, uniones de personas artesanas, empresas y entidades públicas o privadas, con el fin de diseñar conjuntamente estrategias para el mejoramiento de la calidad de sus productos e impulsar su comercialización.
 
@@ -605,17 +619,17 @@ III. Organizar y coordinar la participación de personas artesanas, cooperativas
 
 IV. Instrumentar las acciones de coordinación interinstitucional con las instancias que promuevan programas de fomento y desarrollo, y estímulos al sector artesanal.
 
-V. Generar y mantener actualizado el catálogo estatal de las artesanías y el directorio local de personas artesanas del estado, para el desarrollo de proyectos estratégicos.
+V. (DEROGADA, D.O. 2 DE FEBRERO DE 2024)
 
 VI. Gestionar financiamientos dirigidos a las personas artesanas, cooperativas y uniones de personas artesanas, para la adquisición de materias primas y equipos; así como para brindarles la asesoría técnica que les permita elevar la calidad y el volumen de sus productos.
 
-VII. Dirigir y coordinar las actividades de adquisición, consignación, comercialización y venta de productos artesanales, para su promoción y comercialización en los puntos de venta del instituto.
+VII. (DEROGADA, D.O. 2 DE FEBRERO DE 2024)
 
 VIII. Gestionar el abastecimiento y la distribución de materias primas e instrumentos de trabajo para personas artesanas, al más bajo precio posible y en sus lugares de origen.
 
 IX. Promover la creación de escuelas-talleres de artesanías en las que se aporte capacitación técnica para lograr mano de obra calificada.
 
-X. Dirigir, coordinar la elaboración y conservar un muestrario de las artesanías de alta calidad producidas en el estado, a efecto de mantener una exposición permanente de la óptima calidad de los productos del artesanado yucateco.
+X. (DEROGADA, D.O. 2 DE FEBRERO DE 2024)
 
 XI. Las demás que le asigne el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
@@ -729,21 +743,21 @@ XVI. Proporcionar, en tiempo y forma, la información del instituto que requiera
 
 XVII. Las demás que le asigne el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
-> <small>(REFORMADO SU EPÍGRAFE, D.O. 23 DE JULIO DE 2019)</small>
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 2 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 36.
 
-Facultades y obligaciones del jefe del Departamento Jurídico
+Facultades y obligaciones del director Jurídico
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 2 DE FEBRERO DE 2024)</small>
 
-El jefe del Departamento Jurídico tendrá las siguientes facultades y obligaciones:
+El director jurídico tendrá las siguientes facultades y obligaciones:
 
 I. Asesorar jurídicamente al director general y actuar como órgano de consulta y asesoría jurídica de las demás unidades administrativas del instituto.
 
-> <small>(REFORMADA, D.O. 23 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, D.O. 2 DE FEBRERO DE 2024)</small>
 
-II. Representar al director general, o a los directores, en los trámites dentro de los juicios de amparo, así como suscribir promociones, desahogar trámites y asistir a audiencias y diligencias, que exija el trámite procesal de cualquier otra instancia de carácter judicial o contencioso administrativo en la que sean parte dichos servidores públicos.
+II. Representar legalmente al instituto, al director general, o a las personas titulares de las unidades administrativas del instituto, en los trámites dentro de los juicios de amparo, suscripción de promociones, desahogo de trámites, asistir a audiencias y diligencias que exija el trámite procesal de cualquier otra instancia de carácter judicial, contencioso administrativo o extrajudicial en la que sean parte dichos servidores públicos, ya sea de naturaleza penal, civil, administrativa, así como realizar el pago de finiquitos y celebrar convenios conciliatorios, laborales y de terminación voluntaria de la relación de trabajo y de cualquier otra naturaleza jurídica relacionada con el instituto.
 
 III. Promover la celebración de convenios y acuerdos entre instituciones públicas o privadas para realizar acciones encaminadas al cumplimiento del objeto del instituto.
 
@@ -763,9 +777,27 @@ IX. Sustanciar los recursos administrativos interpuestos en contra de los actos 
 
 X. Coordinar y expedir copias certificadas de los documentos que obren en los archivos del instituto cuando deban ser exhibidas ante las autoridades judiciales, administrativas y del trabajo o cuando medie solicitud de parte que acredite su interés jurídico.
 
-XI. Las establecidas en el Reglamento del Código de la Administración Pública de Yucatán, para los titulares de las áreas jurídicas en lo que resulte aplicable para las entidades paraestatales.
+> <small>(ADICIONADA, D.O. 2 DE FEBRERO DE 2024)</small>
 
-XII. Las demás que le asigne el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+XI. Designar a servidores públicos con la finalidad de sustituirle en la representación legal del instituto, del director general o de las personas titulares de las unidades administrativas del instituto y otorgarles el poder correspondiente para que intervengan en los asuntos relacionados en la fracción II de este artículo; así como revocar dicha representación, de conformidad con las leyes en la materia.
+
+XII. Las establecidas en el Reglamento del Código de la Administración Pública de Yucatán, para los titulares de las áreas jurídicas en lo que resulte aplicable para las entidades paraestatales.
+
+XIII. Las demás que le asigne el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 2 DE FEBRERO DE 2024)</small>
+
+Artículo 36 bis. Facultades y obligaciones del jefe del Departamento de Promoción Comercial
+
+El jefe del Departamento de Promoción Comercial tendrá las siguientes facultades y obligaciones:
+
+I. Dirigir y coordinar las actividades de adquisición, consignación, comercialización y venta de productos artesanales, para su promoción y comercialización en los puntos de venta del instituto.
+
+II. Realizar el inventario de los productos destinados a comercialización.
+
+III. Mantener y conservar en óptimas condiciones de uso y funcionamiento las instalaciones, mobiliario, equipo y, en general, los bienes en los puntos de venta del instituto.
+
+IV. Las demás que le asigne el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
 ### Capítulo IV. Patrimonio
 
@@ -870,3 +902,19 @@ Este acuerdo entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Inscripción en el Registro de Entidades Paraestatales
 
 La persona titular de la Dirección General del Instituto Yucateco de Emprendedores, en un plazo máximo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo, deberá realizar la inscripción de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas.
+
+D.O. 2 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO IYEM 22/2023 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO YUCATECO DE EMPRENDEDORES".]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+La persona titular de la Dirección General del Instituto Yucateco de Emprendedores, en un plazo máximo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo, deberá realizar la inscripción de la modificación de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas.
+
+Tercero. Referencia
+
+En lo sucesivo, cuando en alguno de los instrumentos que regulan el funcionamiento del Instituto Yucateco de Emprendedores, se haga referencia al Departamento Jurídico, esta se entenderá realizada a la Dirección Jurídica.
