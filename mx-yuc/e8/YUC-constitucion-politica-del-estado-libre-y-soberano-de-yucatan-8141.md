@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2023-12-19"
+last_updated: "2024-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE FEBRERO DE 2024.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -817,13 +817,13 @@ VIII.- Establecer las bases conforme a las cuales el Poder Ejecutivo y los munic
 
 VIII Bis.- Autorizar por el voto de las dos terceras partes de sus miembros presentes, los montos máximos para que, en las mejores condiciones del mercado, el Poder Ejecutivo y los ayuntamientos contraten empréstitos y obligaciones, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago, con las excepciones previstas en la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(ADICIONADA, D.O. 6 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O. 2 DE FEBRERO DE 2024)</small>
 
-VIII Ter.- Aprobar los proyectos para la prestación de servicios conforme a la ley de la materia y las asignaciones presupuestarias correspondientes a los ejercicios fiscales que se requieran. Asimismo, aprobar las asignaciones directas a dichos proyectos, conforme a las excepciones previstas por la legislación aplicable;
+VIII Ter.- Aprobar los términos generales o límites y condiciones en que los entes públicos que señale la ley de la materia, celebren o garanticen proyectos integrales de inversión a largo plazo, las asignaciones presupuestarias plurianuales correspondientes, y en su caso, la aportación de bienes o derechos al proyecto, con sujeción a la legislación aplicable;
 
-> <small>(ADICIONADA, D.O. 6 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O. 2 DE FEBRERO DE 2024)</small>
 
-VIII Quáter.- Aprobar la afectación de ingresos del Estado y de los municipios, respecto al cumplimiento de todo tipo de obligaciones que deriven de la contratación de financiamiento o de proyectos para prestación de servicios. Igualmente, corresponderá al H. Congreso del Estado, a solicitud del Titular del Poder Ejecutivo, la aprobación de la desafectación de esos ingresos en términos de la legislación aplicable;
+VIII Quáter.- Autorizar la afectación de ingresos a los entes públicos previstos en la ley de la materia, respecto al cumplimiento de todo tipo de obligaciones que deriven de la contratación de financiamiento o de proyectos integrales de inversión a largo plazo y los términos y condiciones para su desafectación conforme a la legislación aplicable.
 
 > <small>(ADICIONADA, D.O. 28 DE FEBRERO DE 2018)</small>
 
@@ -1064,6 +1064,14 @@ L.- Designar por el voto de las dos terceras partes de sus miembros presentes en
 > <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
 
 LI.- Designar y, en su caso, remover al Fiscal General del Estado conforme al procedimiento dispuesto en esta Constitución;
+
+> <small>(ADICIONADA, D.O. 2 DE FEBRERO DE 2024)</small>
+
+LI Bis.- Ratificar, por el voto favorable de la mayoría de sus integrantes presentes, la designación del nombramiento por un plazo de diez años de la persona titular de la Dirección General de la empresa pública Operadora Energética y Marítima de Yucatán, Sociedad Anónima de Capital Variable de Participación Estatal Mayoritaria que realice la persona titular del Poder Ejecutivo Estatal, en términos de la legislación aplicable; así como la prórroga de dicho nombramiento por un único período de igual duración y, en su caso, la remoción de dicho nombramiento por la mayoría absoluta de sus integrantes.
+
+> <small>(ADICIONADA, D.O. 2 DE FEBRERO DE 2024)</small>
+
+LI Ter.- Ratificar, por el voto favorable de la mayoría de sus integrantes presentes, la designación del nombramiento por un plazo de seis a diez años de las personas consejeras independientes integrantes del Consejo de Administración de la empresa pública Operadora Energética y Marítima de Yucatán, Sociedad Anónima de Capital Variable de Participación Estatal Mayoritaria, que realice por la persona titular del Poder Ejecutivo del estado, conforme a lo que establezca la ley respectiva; así como la prórroga de dicho nombramiento por un único periodo igual y, en su caso, la remoción de dicho nombramiento por la mayoría absoluta de sus integrantes.
 
 > <small>(REFORMADA, D.O. 9 DE OCTUBRE DE 2023)</small>
 
@@ -5786,3 +5794,61 @@ D.O. 19 DE DICIEMBRE DE 2023.
 Artículo único. Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 2 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 733/2024 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN Y EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN Y PARA EXPEDIR LA LEY DE LA OPERADORA ENERGÉTICA Y MARÍTIMA DE YUCATÁN, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE DE PARTICIPACIÓN ESTATAL MAYORITARIA”.]
+
+Artículo Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. Nombramiento de la persona titular de la dirección general
+
+La persona titular del Poder Ejecutivo deberá designar a la persona titular de la Dirección General de la Operadora Energética y Marítima de Yucatán, Sociedad Anónima de Capital Variable de Participación Estatal Mayoritaria, dentro de un plazo de treinta días naturales contado a partir de la entrada en vigor de este decreto.
+
+Artículo Tercero. Designación de las personas consejeras independientes
+
+Por única ocasión, para garantizar el nombramiento escalonado, la persona titular del Poder Ejecutivo deberá designar a las personas consejeras independientes del Consejo de Administración de la Operadora Energética y Marítima de Yucatán, Sociedad Anónima de Capital Variable de Participación Estatal Mayoritaria y remitir los expedientes al Congreso del estado para su ratificación, dentro de un plazo de treinta días naturales, contado a partir de la entrada en vigor de este decreto, de conformidad con lo siguiente:
+
+I. Designará un consejero independiente que durará seis años en el cargo, con posibilidad de ratificación, hasta por otro periodo de diez años.
+
+II. Designará un consejero independiente que durará siete años en el cargo, con posibilidad de ratificación, hasta por otro periodo de diez años.
+
+III. Designará un consejero independiente que durará ocho años en el cargo, con posibilidad de ratificación, hasta por otro periodo de diez años.
+
+IV. Designará un consejero independiente que durará nueve años en el cargo, con posibilidad de ratificación, hasta por otro periodo de diez años.
+
+V. Designará un consejero independiente que durará diez años en el cargo, con posibilidad de ratificación, hasta por otro periodo de diez años.
+
+Artículo Cuarto. Escritura pública constitutiva
+
+La escritura constitutiva de la Operadora Energética y Marítima de Yucatán, Sociedad Anónima de Capital Variable de Participación Estatal Mayoritaria, que se regula en este decreto, deberá adecuarse conforme a lo previsto en este decreto y protocolizarse ante notario público, dentro de los treinta días siguientes a su entrada en vigor.
+
+Artículo Quinto. Registro de Entidades Paraestatales
+
+La persona titular de la Dirección General de la Operadora Energética y Marítima de Yucatán, Sociedad Anónima de Capital Variable de Participación Estatal Mayoritaria, deberá inscribir este decreto y la escritura constitutiva en el Registro de Entidades Paraestatales.
+
+D.O. 2 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 734/2024 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN Y SE EMITE LA LEY QUE REGULA LA CELEBRACIÓN DE PROYECTOS INTEGRALES DE INVERSIÓN A LARGO PLAZO PARA LOS ENTES PÚBLICOS DEL ESTADO DE YUCATÁN”.]
+
+Entrada en vigor
+
+Artículo primero Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Abrogación
+
+Artículo segundo. Se abroga la Ley de Proyectos para la Prestación de Servicios del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 24 de julio de 2009.
+
+Vigencia de contratos y convenios
+
+Artículo tercero. Los contratos, convenios o finiquitos celebrados durante la vigencia de la Ley de Proyectos para la Prestación de Servicios del Estado de Yucatán, continuarán vigentes y se les aplicará lo señalado en dicho ordenamiento hasta su terminación.
+
+Referencias en la normatividad
+
+Artículo cuarto. Cuando se refieran a los proyectos de prestación de servicios dentro de la normatividad estatal, se entenderán a los Proyectos Integrales de Inversión a Largo Plazo en lo que no contravengan el presente ordenamiento, así como las referencias a la Ley de Proyectos para la Prestación de Servicios del Estado de Yucatán, se entenderán a la Ley que Regula la Celebración de Proyectos Integrales de Inversión a Largo Plazo para los Entes Públicos del Estado de Yucatán.
+
+Obligación normativa
+
+Artículo quinto. En un plazo que no exceda de un año contado a partir de la entrada en vigor de este decreto, la persona titular del Poder Ejecutivo del estado deberá emitir el Reglamento de la Ley que Regula la Celebración de Proyectos Integrales de Inversión a Largo Plazo para los Entes Públicos del Estado de Yucatán, así como efectuar las reformas o adecuaciones al marco normativo de su competencia que fuesen necesarias ajustar, de conformidad con las disposiciones de la Ley que Regula la Celebración de Proyectos Integrales de Inversión a Largo Plazo para los Entes Públicos del Estado de Yucatán.
