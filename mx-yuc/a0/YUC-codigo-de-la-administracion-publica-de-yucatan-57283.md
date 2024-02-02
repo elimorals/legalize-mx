@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-la-administracion-publica-de-yucatan-57283"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-16"
-last_updated: "2023-10-09"
+last_updated: "2024-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE FEBRERO DE 2024.
 
 Código publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 16 de octubre de 2007.
 
@@ -1297,9 +1297,13 @@ XIX.- Realizar las detenciones en flagrancia así como las ordenadas por la Fisc
 
 XX.- Prestar el servicio de escolta pública en los términos del ordenamiento que regule el sistema de seguridad pública del estado; y
 
+> <small>(ADICIONADA, D.O. 2 DE FEBRERO DE 2024)</small>
+
+XXI.- Implementar políticas, acciones y medidas eficaces previo convenio y en coordinación con las corporaciones federales para la conservación del orden y la seguridad de los recintos portuarios del estado, y
+
 > <small>(ADICIONADA, D.O. 24 DE JULIO DE 2020)</small>
 
-XXI.- Crear y mantener actualizado el Registro Único de Prestadores de Servicios de Cerrajería, así como instrumentar un mecanismo de monitoreo a la actividad y prestación de dicho servicio en la entidad.
+XXII.- Crear y mantener actualizado el Registro Único de Prestadores de Servicios de Cerrajería, así como instrumentar un mecanismo de monitoreo a la actividad y prestación de dicho servicio en la entidad.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 21 DE ABRIL DE 2023)</small>
 
@@ -2055,6 +2059,10 @@ Se exceptúan del régimen de este Código, los organismos siguientes: la Univer
 
 La Secretaría Ejecutiva del Sistema Estatal Anticorrupción se regirá por lo dispuesto en este código en lo que no se contraponga a lo establecido en la Ley del Sistema Estatal Anticorrupción de Yucatán.
 
+> <small>(ADICIONADO, D.O. 2 DE FEBRERO DE 2024)</small>
+
+La Operadora Energética y Marítima de Yucatán, Sociedad Anónima de Capital Variable de Participación Estatal Mayoritaria, se regirá por lo dispuesto en este código en lo que no se contraponga a lo establecido en la Ley de la Operadora Energética y Marítima de Yucatán, Sociedad Anónima de Capital Variable de Participación Estatal Mayoritaria.
+
 ###### Artículo 52.
 
 Dentro de la Administración Pública Paraestatal serán consideradas empresas de participación estatal mayoritaria aquellas que adopten alguno de los siguientes requisitos:
@@ -2335,9 +2343,11 @@ II.- Ser persona de reconocida calidad moral o prestigio, y
 
 III.- Tener reconocida experiencia respecto a las actividades propias de la empresa de que se trate.
 
+> <small>(REFORMADO, D.O. 2 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 88.
 
-Los Directores Generales o sus equivalentes de las empresas de participación estatal mayoritaria sin perjuicio de las facultades y obligaciones que se les atribuyan en los Estatutos de la empresa y legislación aplicable, tendrán las que se mencionan en el artículo 76 y 116 de este ordenamiento.
+Las personas titulares de las Direcciones Generales de las empresas de participación estatal mayoritaria o sus equivalentes serán nombradas por la persona titular del Poder Ejecutivo o mediante el procedimiento especifico que establezcan la legislación y la normativa aplicables y tendrán las facultades y obligaciones que se les atribuyan en las leyes aplicables y los estatutos de la empresa, así como las que se mencionan en el artículo 76 y 116 de este código.
 
 ###### Artículo 89.
 
@@ -3752,3 +3762,37 @@ Artículo Segundo. Se derogan todas las disposiciones legales de igual o menor j
 Obligación Normativa
 
 Artículo Tercero. La persona Titular del Poder Ejecutivo del Estado deberá modificar el Reglamento del Código de la Administración Pública de Yucatán, en un plazo no mayor a ciento ochenta días, contado a partir de la entrada en vigor de este Decreto.
+
+D.O. 2 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 733/2024 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN Y EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN Y PARA EXPEDIR LA LEY DE LA OPERADORA ENERGÉTICA Y MARÍTIMA DE YUCATÁN, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE DE PARTICIPACIÓN ESTATAL MAYORITARIA".]
+
+Artículo Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. Nombramiento de la persona titular de la dirección general
+
+La persona titular del Poder Ejecutivo deberá designar a la persona titular de la Dirección General de la Operadora Energética y Marítima de Yucatán, Sociedad Anónima de Capital Variable de Participación Estatal Mayoritaria, dentro de un plazo de treinta días naturales contado a partir de la entrada en vigor de este decreto.
+
+Artículo Tercero. Designación de las personas consejeras independientes
+
+Por única ocasión, para garantizar el nombramiento escalonado, la persona titular del Poder Ejecutivo deberá designar a las personas consejeras independientes del Consejo de Administración de la Operadora Energética y Marítima de Yucatán, Sociedad Anónima de Capital Variable de Participación Estatal Mayoritaria y remitir los expedientes al Congreso del estado para su ratificación, dentro de un plazo de treinta días naturales, contado a partir de la entrada en vigor de este decreto, de conformidad con lo siguiente:
+
+I. Designará un consejero independiente que durará seis años en el cargo, con posibilidad de ratificación, hasta por otro periodo de diez años.
+
+II. Designará un consejero independiente que durará siete años en el cargo, con posibilidad de ratificación, hasta por otro periodo de diez años.
+
+III. Designará un consejero independiente que durará ocho años en el cargo, con posibilidad de ratificación, hasta por otro periodo de diez años.
+
+IV. Designará un consejero independiente que durará nueve años en el cargo, con posibilidad de ratificación, hasta por otro periodo de diez años.
+
+V. Designará un consejero independiente que durará diez años en el cargo, con posibilidad de ratificación, hasta por otro periodo de diez años.
+
+Artículo Cuarto. Escritura pública constitutiva
+
+La escritura constitutiva de la Operadora Energética y Marítima de Yucatán, Sociedad Anónima de Capital Variable de Participación Estatal Mayoritaria, que se regula en este decreto, deberá adecuarse conforme a lo previsto en este decreto y protocolizarse ante notario público, dentro de los treinta días siguientes a su entrada en vigor.
+
+Artículo Quinto. Registro de Entidades Paraestatales
+
+La persona titular de la Dirección General de la Operadora Energética y Marítima de Yucatán, Sociedad Anónima de Capital Variable de Participación Estatal Mayoritaria, deberá inscribir este decreto y la escritura constitutiva en el Registro de Entidades Paraestatales.
