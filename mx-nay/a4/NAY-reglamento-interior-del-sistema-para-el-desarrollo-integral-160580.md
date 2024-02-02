@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-del-sistema-para-el-desarrollo-integral-160
 country: "mx"
 rank: "reglamento"
 publication_date: "2022-09-30"
-last_updated: "2023-05-15"
+last_updated: "2024-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2024.
 
 Reglamento publicado en la Sección Décima Segunda del Número 63 en el Periódico Oficial del Estado de Nayarit, el viernes 30 de septiembre de 2022.
 
@@ -245,9 +245,11 @@ VI. Pasar lista de asistencia y verificar que exista el quórum legal requerido;
 
 ### CAPITULO III. COMPETENCIA Y ORGANIZACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 13.
 
-Estructura del SIDIFEN. Para el ejercicio de las atribuciones y despacho de los asuntos de su competencia, la persona titular de la Dirección General, se auxiliará de las unidades administrativas siguientes:
+Estructura del SIDIFEN. Para el ejercicio de las atribuciones y despacho de los asuntos de su competencia, la persona Titular de la Dirección General, se auxiliará de las unidades administrativas siguientes:
 
 A. Unidades Administrativas
 
@@ -263,7 +265,9 @@ A. Unidades Administrativas
 
 1.5. Unidad de Transparencia
 
-1.6. Unidad de Vinculación Gubernamental y Empresarial
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2024)</small>
+
+1.6. Unidad de Planeación, Estadística, Evaluación y Presupuestación.
 
 1.7. Secretaría Particular
 
@@ -277,11 +281,25 @@ A. Unidades Administrativas
 
 1.9.3. Autoridad Resolutora
 
-1.10. Coordinación de Archivo
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE FEBRERO DE 2024)</small>
 
-1.10.1. Archivo de Correspondencia
+1.10. Coordinación de Archivos.
 
-1.10.2. Archivo de Concentración
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2024)</small>
+
+1.10.1. Área de Correspondencia.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2024)</small>
+
+1.10.2. Archivo de Tramite.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2024)</small>
+
+1.10.3. Archivo de Concentración.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2024)</small>
+
+1.10.2. (SIC) Archivo de (sic) Histórico.
 
 1.11. Comisario
 
@@ -305,9 +323,11 @@ A. Unidades Administrativas
 
 3. Subdirección General Operativa
 
-3.1. Coordinación de Planeación Estadística y Evaluación
+3.1. (DEROGADO, P.O. 2 DE FEBRERO DE 2024)
 
-3.2. Coordinación Casa del Abuelo
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2024)</small>
+
+3.2. Coordinación de la Alameda de las Abuelas y los Abuelos.
 
 3.3. Coordinación del Centro de Desarrollo Infantil DIF (CENDI DIF)
 
@@ -325,11 +345,11 @@ A. Unidades Administrativas
 
 4.1. Coordinación Alimenta la Esperanza
 
-4.2. Coordinación Aquí Nos Vemos
+4.2. (DEROGADO, P.O. 2 DE FEBRERO DE 2024)
 
 4.3. Coordinación Casa de la Mujer
 
-4.4. Coordinación Guías Prematrimoniales
+4.4. (DEROGADO, P.O. 2 DE FEBRERO DE 2024)
 
 4.5. Coordinación del Programa de Alimentación Para el Bienestar (PAB)
 
@@ -367,9 +387,9 @@ IX. Celebrar los contratos que regulen las relaciones laborales colectivas e ind
 
 X. Otorgar y revocar poderes generales para pleitos y cobranzas, actos de administración, e inclusive aquellos que requieran cláusula especial conforme a las leyes aplicables;
 
-> <small>(F. DE E., P.O. 8 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2024)</small>
 
-XI. Difundir al interior de SIDIFEN a través de la Coordinación de Planeación, Estadística y Evaluación, la normativa administrativa y guías que en materia de planeación, programación y presupuestación deba ser del conocimiento de las unidades administrativas y servidores públicos subalternos para la realización de sus labores;
+XI. Difundir al interior de SIDIFEN a través de la Unidad de Planeación, Estadística, Evaluación y Presupuestación, la normativa administrativa y guías en materia de planeación, programación y presupuestación deba ser del conocimiento de las unidades admirativas (sic) y servidores públicos subalternos para la realización de sus labores;
 
 XII. Cumplir y hacer cumplir la normatividad jurídica y administrativa aplicable que le competa al SIDIFEN;
 
@@ -407,7 +427,9 @@ XXVIII. Turnar a la Procuraduría de Protección de Niñas, Niños y Adolescente
 
 XXIX. Dirigir, vigilar y controlar el buen funcionamiento de la “Casa Hogar” a través de la persona titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes;
 
-XXX. Designar y expedir el nombramiento de la persona titular de la Coordinación de la “Casa Hogar”, quien se regirá por las disposiciones de las Reglas de Operación “Casa DIF” del Sistema Para el desarrollo Integral de la Familia para el Estado de Nayarit;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2024)</small>
+
+XXX. Designar y expedir el nombramiento de la persona titular de la Coordinación de la “Casa Hogar”, quien se regirá por las disposiciones del manual de funcionamiento “Casa DIF” del Sistema Para el desarrollo Integral de la Familia para el Estado de Nayarit;
 
 XXXI. Vigilar que los procesos de Entrega-Recepción de las unidades administrativas y asuntos a cargo de las mismas o de servidores públicos subalternos, se realicen en la forma establecida en la normatividad aplicable;
 
@@ -487,9 +509,11 @@ VI. Rendir informes, dictámenes, reportes a la persona titular de la Dirección
 
 VII. Las demás que de manera expresa le confiera el superior jerárquico y las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 18.
 
-Atribuciones de la Unidad Jurídica. Al frente de la Unidad Jurídica habrá una persona Titular que tendrá las siguientes atribuciones:
+Atribuciones de la Unidad Jurídica. Al frente de la Unidad Jurídica, habrá una persona titular que tendrá las siguientes atribuciones:
 
 I. Actuar como Órgano de consulta y asesorar jurídicamente a las diversas unidades administrativas del SIDIFEN, así como previa solicitud, a los SMDIF, a grupos sociales dedicados a la asistencia social y a la atención de menores, mujeres, personas de la tercera edad, discapacitados o sujetos de violencia intrafamiliar, en estado de vulnerabilidad; así como los demás sujetos previstos en la ley sobre el sistema estatal de asistencia social;
 
@@ -523,7 +547,9 @@ XV. Emitir opinión respecto de los reglamentos, decretos, acuerdos, programas, 
 
 XVI. Coordinar la emisión de opiniones respecto de las iniciativas y proyectos formulados por el Poder Legislativo, así como la atención de las demás gestiones legislativas que sean requeridas al SIDIFEN;
 
-XVII. Coordinar sus actividades con el resto de las unidades administrativas cuando por la naturaleza de las mismas sea necesario y pertinente;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE FEBRERO DE 2024)</small>
+
+XVII. Coordinar sus actividades con el resto de las unidades administrativas cuando por la naturaleza de las mismas sea necesario y pertinente; así como llevar a cabo los actos que se requieran para solventar (o regularizar) los hechos o actos indebidos cometidos por sus servidores públicos y/o prestadores de servicio en contra del SIDIFEN;
 
 XVIII. Rendir informes, dictámenes, reportes y opiniones a la persona titular de la Dirección General con la periodicidad que le indique, y
 
@@ -583,25 +609,43 @@ VII. Las demás que establezcan las disposiciones jurídicas aplicables en mater
 
 Del Comité de Transparencia. El Comité de Transparencia es el órgano colegiado del sujeto obligado responsable de analizar, discutir y resolver sobre la organización y clasificación de la información pública conforme la Ley de la materia y su Reglamento, así como los acuerdos que se emitan al efecto. Su integración y funcionamiento lo determinarán las normas de la materia.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 21.
 
-Atribuciones de la Unidad de Vinculación Gubernamental y Empresarial. Al frente de la Unidad de Vinculación Gubernamental habrá una persona Titular que tendrá las siguientes atribuciones:
+Atribuciones de la Unidad de Planeación, Estadística, Evaluación y Presupuestación. Al frente de la Unidad de Planeación, Estadística, Evolución y Presupuestación habrá una persona Titular que tendrá las siguientes atribuciones:
 
-I. Recibir, y dar trámite a las peticiones canalizadas por el ejecutivo y dar seguimiento a las mismas;
+I. Establecer la estructura programática-presupuestal y administrar los sistemas y controles para su seguimiento, control y evaluación; así como elaborar y difundir las guías, manuales, lineamientos, procedimientos entre otros para la elaboración de programas y presupuestos;
 
-II. Coordinar sus actividades con aquellas dependencias y organismos públicos de los diferentes órdenes de gobierno que participen en la instrumentación y ejecución de programas sociales, para cumplir los objetivos que tenga encomendados;
+II. Elaborar e integrar los programas y proyectos de inversión Estatal del SIDIFEN, así como gestionar la autorización y ejecución ante las instancias correspondientes;
 
-III. Canalizar a las Dependencias y Entidades de la Administración Pública Estatal, Municipal, Organismos Autónomos, Instituciones del Sector Público y Privado dedicadas a la asistencia social, aquellos casos que formen parte de su población objetivo, en términos de la normatividad aplicable y/o convenios suscritos por la persona titular de la Dirección General o el Titular del Poder Ejecutivo;
+III. Participar con la Dependencia Coordinadora del Sector al que pertenece el SIDIFEN en la elaboración del programa sectorial y coordinar lo correspondiente al Sistema de Asistencia Social en la Entidad;
 
-IV. Proponer convenios de colaboración interinstitucionales para el otorgamiento de apoyos a la población vulnerable;
+IV. Compilar y elaborar el Proyecto del Programa Operativo Anual (POA) del SIDIFEN;
 
-V. Fortalecer la vinculación institucional con los SMDIF y el SNDIF para fomentar y fortalecer acciones de desarrollo y de asistencia social;
+V. Elaborar los avances del Programa Operativo Anual de actividades que realizan las Unidades Administrativas del SIDIFEN en forma trimestral y remitirlo a Dirección General para su validación;
 
-VI. Planear y coordinar las actividades recaudatorias de la procuración de donativos y/o recursos con aquellas dependencias y entidades de la administración Pública Estatal, Municipal y Organismos Autónomos, Instituciones del Sector Público y Privado dedicadas a la asistencia social;
+VI. Establecer los mecanismos e instrumentos estadísticos para procesar y evaluar la información institucional y resultados de las actividades del SIDIFEN;
 
-VII. Llevar un registro de las instituciones públicas y privadas que realicen acciones y esfuerzos que complementen y ayuden a la institución a cumplir con sus objetivos, y
+VII. Apoyar y coadyuvar con las Unidades Administrativas en la formulación de indicadores del tipo que sea pertinente para efectos de evaluar las actividades y resultados de los programas, proyectos y convenios del SIDIFEN.
 
-VIII. Las demás que de manera expresa le confiera el superior jerárquico y las disposiciones legales aplicables.
+VIII. Cotejar las metas propuestas con los resultados obtenidos al final del ejercicio fiscal que se trate;
+
+IX. Verificar el cumplimiento de los objetivos de los programas del SIDIFEN;
+
+X. Capacitar a las Coordinaciones en la integración de la información estadística, que deberán rendir obligatoriamente y de las acciones que en materia de asistencia social se realizan en el Estado y que corresponde al SIDIFEN, su rectoría y coordinación Institucional.
+
+XI. Participar en la elaboración de proyectos, programas y subprogramas, contenidos en los convenios de coordinación celebrados con el SNDIF, determinados y aceptados por el Titular del Poder Ejecutivo del Estado, para ejecutarse en el Estado;
+
+XII. Elaborar el Plan Anual de Adquisiciones del recurso Federal y Estatal y presentarlo a la Junta de Gobierno para su validación y entregarlo al Instituto de Adquisiciones, Arrendamientos y Prestación de Servicios;
+
+XIII. Formular las reglas de operación de los programas de apoyo y asistencia social que se establezcan en el Estado, y que por naturaleza requieran de este instrumento normativo, el cual deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit;
+
+XIV. Integrar y registrar en el Sistema de Información de la plataforma de la Secretaría de Desarrollo Sustentable, la información que deba ser incorporada al Informe Anual del Gobernador Constitucional del Estado;
+
+XV. Capacitar al personal, sobre las reglas de operación que estén apegadas sobre acciones que corresponde al SIDIFEN, y
+
+XVI. Las demás que de manera expresa les confiera el superior jerárquico.
 
 ###### Artículo 22.
 
@@ -653,13 +697,17 @@ D. La Autoridad Resolutora
 
 Para el despacho de los asuntos de su competencia, la persona titular y los Integrantes del Órgano Interno de Control del SIDIFEN ejercerán las atribuciones que el Reglamento Interior de la Secretaría para la Honestidad y Buena Gobernanza de (sic) Estado de Nayarit les otorga, y las demás que en el ámbito de su competencia les asigne la persona titular y su superior jerárquico, de la Secretaría para la Honestidad y Buena Gobernanza del Estado de Nayarit.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 25.
 
-Atribuciones de la Coordinación de Archivo. Al frente de la Coordinación de Archivo, habrá una persona titular que tendrá las atribuciones siguientes:
+Atribuciones de la Coordinación de Archivos. Al frente de la Coordinación de Archivos, habrá una persona titular que tendrá las atribuciones siguientes:
 
 I. Promover y vigilar el cumplimiento de las disposiciones en materia de gestión documental y administración de archivos al interior del SIDIFEN, de acuerdo con la Ley General de Archivos y la Ley de Archivos del Estado de Nayarit, así como de coordinar el funcionamiento de sus áreas operativas;
 
-II. Elaborar, con la colaboración de los responsables del archivo de trámite y de concentración, los instrumentos de control archivístico previstos en la Ley General de Archivos, la Ley de Archivos del Estado de Nayarit y sus disposiciones reglamentarias, así como la normativa que derive de ellos;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2024)</small>
+
+II. Propiciar la integración y formalización del grupo interdisciplinario de Archivos del SIDIFEN, convocar a las reuniones de trabajo, fungir como moderador de las mismas y llevar el registro y seguimiento de los acuerdos y compromisos establecidos, conservando las constancias respectivas;
 
 III. Elaborar criterios específicos y recomendaciones en materia de organización y conservación de archivos, de conformidad al tipo de documentos que se producen al interior del SIDIFEN;
 
@@ -681,15 +729,19 @@ XI. Autorizar la transferencia de los archivos cuando una Unidad Administrativa 
 
 XII. Las demás que le confieran las disposiciones legales aplicables y las que le encomiende de manera expresa su superior jerárquico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 26.
 
-Atribuciones de la Unidad de Correspondencia. Al frente de la Unidad de Correspondencia, habrá uno o más titulares, de conformidad con las necesidades operativas del SIDIFEN, quienes serán designados de entre el personal adscrito a la misma, que tendrán las atribuciones siguientes:
+Atribuciones del Área de Correspondencia. Al frente del Área de Correspondencia, habrá uno o más titulares, de conformidad con las necesidades operativas del SIDIFEN, quienes serán designados de entre el personal adscrito a la misma, que tendrán las atribuciones siguientes:
 
 I. Recepcionar, registrar, dar seguimiento y despachar la documentación recibida y generada ante y por el SIDIFEN para la integración de los expedientes de sus archivos de trámite;
 
 II. Establecer los canales de comunicación idóneos con las demás Unidades Administrativas del SIDIFEN, para que la recepción de los documentos de archivo se lleve a cabo bajo los principios de conservación, procedencia, integridad, disponibilidad y accesibilidad;
 
-III. Coadyuvar con los enlaces de Archivos de Trámite y de la Unidad de Concentración de Archivo, en la integración de la propuesta del Programa Anual de Archivos;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2024)</small>
+
+III. Coadyuvar con los responsables de Archivo de Trámite y Archivo de Concentración, en la integración de la propuesta del programa Anual de Archivos;
 
 IV. Diseñar elementos para la modernización y automatización en las actividades inherentes a la correspondencia de los documentos de archivos;
 
@@ -699,35 +751,11 @@ VI. Brindar asesoría a los titulares de las demás Unidades Administrativas del
 
 VII. Las demás que le confieran las disposiciones legales aplicables y las que le encomiende de manera expresa su superior jerárquico.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 27.
 
-Archivo de Concentración. Al frente del Archivo de Concentración habrá una persona titular quien será designado (sic) de entre el personal adscrito al SIDIFEN, que tendrá las atribuciones siguientes:
-
-I. Asegurar y describir los fondos bajo su resguardo, así como la consulta, en su caso, de los expedientes;
-
-II. Recibir las transferencias primarias y brindar servicios de préstamo y consulta a las unidades administrativas del SIDIFEN, productoras de la documentación que resguarda;
-
-III. Conservar los expedientes hasta cumplir su vigencia documental de acuerdo con lo establecido en el catálogo de disposición documental;
-
-IV. Colaborar con la Coordinación de Archivos del SIDIFEN en la elaboración de los instrumentos de control archivístico previstos en la normativa en materia de archivos;
-
-V. Participar con la Coordinación de Archivos del SIDIFEN en la elaboración de los criterios de valoración y disposición documental;
-
-VI. Promover la baja documental de los expedientes que integran las series documentales que hayan cumplido su vigencia documental y, en su caso, plazos de conservación y que no posean valores históricos, conforme a las disposiciones jurídicas aplicables;
-
-VII. Identificar los expedientes que integran las series documentales que hayan cumplido su vigencia documental y que cuenten con valores históricos, y que serán transferidos al Archivo General del Estado, conforme a las disposiciones jurídicas aplicables;
-
-VIII. Integrar a sus respectivos expedientes, el registro de los procesos de disposición documental, incluyendo dictámenes, actas e inventarios;
-
-IX. Publicar, al final de cada año, los dictámenes y actas de baja documental y transferencia secundaria, en los términos que establezcan las disposiciones en la materia y conservarlos en el archivo de concentración por un periodo mínimo de siete años a partir de la fecha de su elaboración;
-
-X. Realizar la transferencia secundaria de las series documentales que hayan cumplido su vigencia documental y posean valores evidénciales, testimoniales e informativos al Archivo General del Estado, y
-
-XI. Las demás que establezca la Ley General de Archivos, la Ley de Archivos del Estado de Nayarit, las disposiciones jurídicas aplicables y las que le encomiende de manera expresa su superior inmediato.
-
-###### Artículo 28.
-
-Atribuciones de los responsables de Archivo de Trámite. Cada Unidad Administrativa deberá designar de entre su personal, un responsable de Archivo de Trámite, con carácter honorífico, quienes tendrán las atribuciones siguientes:
+Atribuciones de los responsables de Archivo de Trámite. Cada Unidad Administrativa deberá designar un responsable de Archivo de Trámite, que ocupará personal de la propia del SIDIFEN con carácter honorífico quienes tendrán las atribuciones siguientes:
 
 I. Integrar y organizar los expedientes que cada Unidad Administrativa produzca, use y reciba, así como resguardarlos hasta su transferencia primaria o baja documental;
 
@@ -735,13 +763,59 @@ II. Asegurar la localización y consulta de los expedientes mediante la elaborac
 
 III. Resguardar los archivos y la información que haya sido clasificada de acuerdo con la normativa aplicable en materia de transparencia y acceso a la información pública, en tanto conserve tal carácter;
 
-IV. Colaborar con la Coordinación de Archivos en la elaboración de los instrumentos de control y consulta archivísticos previstos en la Ley General de Archivos, las (sic) Ley de Archivos del Estado de Nayarit y demás disposiciones aplicables;
+IV. Colaborar con la Coordinación de Archivos en la elaboración de los instrumentos de control archivístico previstos en la Ley General de Archivos, la Ley de Archivos del Estado de Nayarit y demás disposiciones aplicables;
 
 V. Trabajar con base en la normatividad, criterios específicos y recomendaciones dictados por la Coordinación de Archivos;
 
-VI. Realizar las transferencias primarias al Archivo de Concentración, y
+VI. Realizar las transferencias primarias al Archivo de concentración, y
 
-VII. Las demás que establezca la Ley General de Archivos, la Ley de Archivos del Estado de Nayarit, las disposiciones jurídicas aplicables y las que le encomiende de manera expresa su superior inmediato.
+VII. Las demás que establezca la Ley General de Archivos, la Ley de Archivos del Estado de Nayarit, el Reglamento de la Ley de Archivos, las disposiciones jurídicas aplicables y las que le encomiende de manera expresa su superior inmediato.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2024)</small>
+
+###### Artículo 28.
+
+Atribuciones del Archivo de Concentración. Al frente del Archivo de Concentración habrá una persona Titular, que tendrá las atribuciones siguientes:
+
+I. Asegurar y describir los documentos bajo su resguardo, así como la consulta, en su caso, de los minutarios y expedientes;
+
+II. Recibir las transferencias primarias y brindar servicios de préstamo y consulta a las demás Unidades Administrativas del SIDIFEN de la documentación que resguarda;
+
+III. Conservar los expedientes hasta cumplir su vigencia documental de acuerdo con lo establecido en el catálogo de disposición documental;
+
+IV. Colaborar con la Coordinación de Archivos en la elaboración de los instrumentos de control archivístico previstos en la Ley General de Archivos, la Ley de Archivos del Estado de Nayarit y en sus disposiciones reglamentarias;
+
+V. Participar con la Coordinación de Archivos en la elaboración de los criterios de valoración documental y disposición documental;
+
+VI. Promover la baja documental de los expedientes que integran las series documentales que hayan cumplido su vigencia documental y, en su caso, plazos de conservación y que no posean valores históricos, conforme a las disposiciones jurídicas aplicables;
+
+VII. Identificar los expedientes que integran las series documentales que hayan cumplido su vigencia documental y que cuenten con valores históricos;
+
+VIII. Integrar a sus respectivos expedientes, el registro de los procesos de disposición documental, incluyendo dictámenes, actas e inventarios;
+
+IX. Publicar, al final de cada año, los dictámenes y actas de baja documental y transferencia secundaria, en los términos que establezcan las disposiciones en la materia y conservarlos en el archivo de concentración por un periodo mínimo de siete años a partir de la fecha de su elaboración;
+
+X. Realizar la transferencia secundaria de las series documentales que hayan cumplido su vigencia documental y posean valores evidénciales, testimoniales e informativos al Archivo Histórico e informar al Archivo General del Estado de Nayarit.
+
+XI. Las demás que establezca la Ley General de Archivos, la Ley de Archivos del Estado de Nayarit, las disposiciones jurídicas aplicables y las que le encomiende de manera expresa su superior inmediato.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2024)</small>
+
+###### Artículo 28 Bis.
+
+Atribuciones del Archivo Histórico. Al frente del Archivo Histórico habrá una persona Titular, que tendrá las siguientes atribuciones:
+
+I. Recibir las transferencias secundarias y organizar y conservar los expedientes bajo su resguardo;
+
+II. Brindar servicios de préstamo y consulta al público, así como difundir el patrimonio documental;
+
+III. Establecer los procedimientos de consulta de los acervos que resguarda;
+
+IV. Colaborar con la Coordinación de Archivos en la elaboración de los instrumentos de control archivístico, así como en la demás normativa aplicable;
+
+V. Implementar políticas y estrategias de preservación que permitan conservar los documentos históricos y aplicar los mecanismos y las herramientas que proporcionan las tecnológicas de información para mantenerlos a disposición de los usuarios;
+
+VI. Las que establezcan en el respectivo ámbito de sus competencias el Consejo Local de Archivos y el Archivo General del Estado de Nayarit, y las demás que le confieran la Coordinación de Archivos, y las disposiciones legales aplicables.
 
 ###### Artículo 29.
 
@@ -943,7 +1017,7 @@ I. Registrar y controlar los ingresos económicos que generen, con apego a la no
 
 II. Presentar ante la Subdirección General Administrativa el avance de metas mensual;
 
-III. Mantener actualizado el padrón de proveedores;
+III. (DEROGADA, P.O. 2 DE FEBRERO DE 2024)
 
 IV. Registrar y controlar los recursos financieros, con apego a la normatividad vigente;
 
@@ -953,7 +1027,7 @@ VI. Mantener estrecha coordinación con los artesanos para el oportuno abastecim
 
 VII. Vigilar y controlar las entradas y salidas de la materia prima, para realizar las compras de acuerdo a la normatividad vigente;
 
-VIII. Vigilar periódicamente el taller de Artesanías, para el buen control y manejo;
+VIII. (DEROGADA, P.O. 2 DE FEBRERO DE 2024)
 
 IX. Supervisar periódicamente las tiendas de la coordinación de Fomento a las artesanías, para el buen control y manejo;
 
@@ -1019,7 +1093,7 @@ V. Mantener, verificar y actualizar el catálogo de proveedores, artículos y pr
 
 VI. Mantener, actualizado el inventario de bienes muebles e inmuebles;
 
-VII. Elaborar el Programa Anual de Adquisiciones del recurso Federal y Estatal y presentarlo a la Subdirección General Administrativa para su validación;
+VII. (DEROGADA, P.O. 2 DE FEBRERO DE 2024)
 
 VIII. Dar mantenimiento periódico a las unidades administrativas dotándolas, de equipos, insumos, mobiliario necesario para el buen desempeño de las funciones;
 
@@ -1151,47 +1225,15 @@ XV. Rendir los informes y reportes que la normativa y la superioridad le instruy
 
 XVI. Las demás que de manera expresa le confiera el superior jerárquico y las disposiciones legales aplicables.
 
-> <small>(F. DE E., P.O. 8 DE NOVIEMBRE DE 2022)</small>
-
 ###### Artículo 42.
 
-Atribuciones de la Coordinación de Planeación, Estadística y Evaluación. Al frente de la Coordinación de Planeación, Estadística y Evaluación habrá una persona Titular que tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 2 DE FEBRERO DE 2024)
 
-I. Establecer la estructura programática-presupuestal y administrar los sistemas y controles para su seguimiento, control y evaluación; así como elaborar y difundir las guías, manuales, lineamientos, procedimientos, entre otros para la elaboración de programas y presupuestos;
-
-II. Elaborar e integrar los programas y proyectos de inversión Estatal del SIDIFEN, así como gestionar la autorización y ejecución ante las instancias correspondientes;
-
-III. Participar con la Dependencia Coordinadora del Sector al que pertenece el SIDIFEN en la elaboración del programa sectorial y coordinar lo correspondiente al Sistema de Asistencia Social en la Entidad;
-
-IV. Compilar y Elaborar el Proyecto del Programa Operativo Anual del SIDIFEN;
-
-V. Elaborar los avances del Programa Operativo Anual de las actividades que realizan las unidades administrativas del SIDIFEN en forma trimestral y remitirlo a (sic) Dirección General para su revisión y validación;
-
-VI. Elaborar los Manuales: General de Organización, de Procedimientos y Tramites y Servicios, y mantenerlos actualizados;
-
-VII. Establecer los mecanismos e instrumentos estadísticos para procesar y evaluar la información institucional y resultados de las actividades del SIDIFEN;
-
-VIII. Apoyar y coadyuvar con las unidades administrativas en la formulación de indicadores del tipo que sea pertinente para efectos de evaluar las actividades y resultados de los programas, proyectos y convenios del SIDIFEN;
-
-IX. Cotejar las metas propuestas con los resultados obtenidos al final del ejercicio fiscal de que se trate;
-
-X. Verificar el cumplimiento de objetivos de los programas del SIDIFEN;
-
-XI. Capacitar a las Coordinaciones en la integración de la información estadística, que deberán rendir obligatoriamente y de las acciones que en materia de asistencia social se realizan en el Estado y que corresponde al SIDIFEN, su rectoría y coordinación Institucional;
-
-XII. Participar en la elaboración de proyectos, programas y subprogramas, contenidos en los convenios de coordinación celebrados con el SNDIF, determinados y aceptados por el Titular del Poder Ejecutivo del Estado, para ejecutarse en el Estado;
-
-XIII. Formular las reglas de operación de los programas de apoyo y asistencia social que se establezcan en el Estado, y que por su naturaleza requieren de este instrumento normativo, el cual deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit;
-
-XIV. Integrar y registrar en el Sistema de Información de la plataforma de la Secretaría de Desarrollo Sustentable, la información que deba ser incorporada al Informe anual del Gobernador Constitucional del Estado;
-
-XV. Capacitar al personal, sobre las reglas de operación que estén apegadas sobre acciones que corresponde al SIDIFEN.
-
-XVI. Las demás que de manera expresa le confiera el superior jerárquico.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 43.
 
-Atribuciones de la Coordinación Casa del Abuelo. Al frente de la Coordinación Casa del Abuelo habrá una persona Titular que tendrá las atribuciones siguientes:
+Atribuciones de la Coordinación de la Alameda de las Abuelas y los Abuelos. Al frente de la Coordinación de la Alameda de las Abuelas y los Abuelos habrá una persona Titular que tendrá las atribuciones siguientes:
 
 I. Promover actividades de entretenimiento, motivación e integración para los Adultos Mayores;
 
@@ -1201,7 +1243,9 @@ III. Cuidar la adecuada alimentación de los beneficiados;
 
 IV. Valorar las condiciones físicas del Adulto Mayor, para su ingreso; (ingreso diario y a la aceptación);
 
-V. Vigilar la correcta ingesta de medicamentos en el tiempo que se encuentren en las instalaciones de Casa del Abuelo;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2024)</small>
+
+V. Vigilar la correcta ingesta de medicamentos en el tiempo que se encuentren en las instalaciones de la Alameda de las Abuelas y los Abuelos.
 
 VI. Realizar actividades de terapia física;
 
@@ -1347,9 +1391,37 @@ VI. Canalización de personas de bajos ingresos, que requieran ayuda especializa
 
 VII. Coordinar con los Municipios del Estado, la organización, registro, control, captación, canalización, valoración y tratamiento de los pacientes a las autoridades médicas competentes;
 
-VIII. Rendir los informes y reportes que la normativa y la superioridad le instruya, en tiempo y forma, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2024)</small>
 
-IX. Las demás que de manera expresa le confiera el superior jerárquico y otras disposiciones legales aplicables.
+VIII. Recibir y atender las solicitudes de las personas que requieran el apoyo de lentes de lectura o en su caso lente de graduación especial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2024)</small>
+
+IX. Elaborar los formatos para acreditar la entrega del apoyo que se requieren;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2024)</small>
+
+X. Coordinar y supervisar la entrega de apoyos;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2024)</small>
+
+XI. Proponer el Programa Operativo Anual (POA) ante la Subdirección General de Programas Sociales, para su revisión;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2024)</small>
+
+XII. Programar y coordinar brigadas en lugares estratégicos, para que la población pueda acceder al programa;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2024)</small>
+
+XIII. Elaborar y mantener actualizado el Padrón de Beneficiarios de acuerdo a la normativa vigente;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE FEBRERO DE 2024)</small>
+
+XIV. Rendir los informes y reportes que la normativa y la superioridad le instruya, en tiempo y forma, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE FEBRERO DE 2024)</small>
+
+XV. Las demás que de manera expresa le confiera el superior jerárquico y otras disposiciones legales aplicables.
 
 ###### Artículo 50.
 
@@ -1375,9 +1447,37 @@ IX. Supervisar los Inventarios de los apoyos, a través de los encargados de los
 
 X. Supervisar las acciones de adquisición de los apoyos, material y equipo de trabajo necesarios para el funcionamiento operativo y administrativo de las coordinaciones;
 
-XI. Elaborar informes, dictámenes, reportes a la persona titular de la Dirección General con la periodicidad que le indique, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2024)</small>
 
-XII. Las demás que de manera expresa le confiera el superior jerárquico y otras disposiciones legales aplicables.
+XI. Generar el avance de metas trimestral;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2024)</small>
+
+XII. Programar y coordinar capacitaciones al personal asignados (sic) por los SMDIF, para que funjan como facilitadores del programa Guías Prematrimoniales;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2024)</small>
+
+XIII. Programar visitas de supervisión a los SMDIF para dar seguimiento al programa;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2024)</small>
+
+XIV. Proponer mecanismos con el apoyo de Profesionales de temas a desarrollo para multiplicar en los SMDIF;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2024)</small>
+
+XV. Elaborar y mantener actualizado el Padrón de Beneficiarios;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2024)</small>
+
+XVI. Solicitar al Registro Civil del Estado las estadísticas de matrimonios y divorcios celebrados;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE FEBRERO DE 2024)</small>
+
+XVII. Elaborar informes, dictámenes, reportes a la persona Titular de la Dirección General con la periodicidad que le indique, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE FEBRERO DE 2024)</small>
+
+XVIII. Las demás que de manera expresa le confiera el superior jerárquico y otras disposiciones legales aplicables.
 
 ###### Artículo 51.
 
@@ -1405,23 +1505,7 @@ X. Las demás que de manera expresa le confiera el superior jerárquico y otras 
 
 ###### Artículo 52.
 
-Atribuciones de la Coordinación Aquí Nos Vemos. Al frente de la Coordinación Aquí Nos Vemos habrá una persona Titular que tendrá las siguientes atribuciones:
-
-I. Recibir y atender las solicitudes de las personas que requieran el apoyo de lentes de lectura o en su caso lente de graduación especial;
-
-II. Elaborar los formatos para acreditar la entrega del apoyo que se requieren;
-
-III. Coordinar y supervisar la entrega de apoyos;
-
-IV. Proponer el Programa Operativo Anual (POA) ante la Subdirección General de Programas Sociales, para su revisión;
-
-V. Programar y coordinar brigadas en lugares estratégicos, para que la población pueda acceder al programa;
-
-VI. Elaborar y mantener actualizado el Padrón de Beneficiarios de acuerdo a la normativa vigente;
-
-VII. Elaborar y rendir informes, dictámenes, reportes a la persona titular de la Subdireccion General de Programas Sociales con la periodicidad que le indique, y
-
-VIII. Las demás que de manera expresa le confiera el superior jerárquico y otras disposiciones legales aplicables.
+(DEROGADO, P.O. 2 DE FEBRERO DE 2024)
 
 ###### Artículo 53.
 
@@ -1455,23 +1539,7 @@ XIII. Las demás que de manera expresa le confiera el superior jerárquico y otr
 
 ###### Artículo 54.
 
-Atribuciones de la Coordinación Guías Prematrimoniales. Al frente de la Coordinación Guías Prematrimoniales habrá una persona Titular que tendrá las atribuciones siguientes:
-
-I. Generar y presentar ante la Subdirección General de Programas Sociales el avance de metas trimestral;
-
-II. Programar y coordinar capacitaciones al personal asignados (sic) por los SMDIF, para que funjan como facilitadores del programa;
-
-III. Programar visitas de supervisión a los SMDIF para dar seguimiento al programa;
-
-IV. Proponer mecanismos con el apoyo de Profesionales de temas a desarrollo para multiplicar en los SMDIF;
-
-V. Elaborar y mantener actualizado el Padrón de Beneficiarios;
-
-VI. Solicitar al Registro Civil del Estado las estadísticas de matrimonios y divorcios celebrados;
-
-VII. Elaborar informes y/o reportes a la Subdirección General de Programas Sociales con la periodicidad que le indique, y;
-
-VIII. Las demás que de manera expresa le confiera el superior jerárquico y otras disposiciones legales aplicables.
+(DEROGADO, P.O. 2 DE FEBRERO DE 2024)
 
 ###### Artículo 55.
 
@@ -1495,7 +1563,9 @@ VII. Las demás que de manera expresa le confiera el superior jerárquico y otra
 
 Atribuciones de la Coordinación Velatorio DIF. Al frente de la Coordinación Velatorio DIF habrá una persona Titular que tendrá las siguientes atribuciones:
 
-I. Presentar ante la Subdirección General de Programas Sociales el avance de metas mensual;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2024)</small>
+
+I. Presentar ante la Subdirección General de Programas Sociales el Programa Operativo Anual (POA) y el avance de metas mensual para su revisión;
 
 II. Registrar y controlar los recursos financieros, con apego a la normatividad vigente;
 
@@ -1523,7 +1593,13 @@ XIII. Difundir y promover los servicios que brinda la funeraria, a través de la
 
 XIV. Elaborar informes, dictámenes, reportes a la Subdirección General de Programas Sociales con la periodicidad que le indique, y
 
-XV. Las demás que de manera expresa le confiera el superior jerárquico y otras disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2024)</small>
+
+XV. Elaborar y mantener actualizado el Padrón de Beneficiarios de acuerdo a la normativa vigente, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE FEBRERO DE 2024)</small>
+
+XVI. Las demás que de manera expresa confiere el Superior Jerárquico y otras disposiciones legales aplicables.
 
 ###### Artículo 57.
 
@@ -1634,3 +1710,13 @@ P.O. 15 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO ADMINISTRATIVO QUE DEROGA DIVERSAS FRACCIONES AL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE NAYARIT".]
 
 Único. El presente decreto administrativo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del estado de Nayarit.
+
+P.O. 2 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO ADMINISTRATIVO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS FRACCIONES Y ARTICULOS DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE NAYARIT".]
+
+PRIMERO. El presente Acuerdo Administrativo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se derogan todas las disposiciones legales, reglamentarias y administrativas de igual o menor jerarquía que se opongan al presente.
+
+TERCERO. En tanto se cuente con suficiencia presupuestal y se nombre a las personas, Archivo de Trámite y Archivo Histórico las atribuciones de estas, las realizarán de manera honorífica quienes designe la persona Titular del SIDIFEN.
