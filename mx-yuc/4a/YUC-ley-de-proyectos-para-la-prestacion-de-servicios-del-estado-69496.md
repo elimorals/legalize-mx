@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-proyectos-para-la-prestacion-de-servicios-del-estado-694
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-24"
-last_updated: "2018-03-28"
+last_updated: "2024-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY DE PROYECTOS PARA LA PRESTACION DE SERVICIOS DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE REGULA LA CELEBRACIÓN DE PROYECTOS INTEGRALES DE INVERSIÓN A LARGO PLAZO PARA LOS ENTES PÚBLICOS DEL ESTADO DE YUCATÁN, PUBLICADA EN EL D.O. DE 2 DE FEBRERO DE 2024, EL PRESENTE ORDENAMIENTO HA QUEDADO ABROGADO.]</small>
+
 LEY DE PROYECTOS PARA LA PRESTACION DE SERVICIOS DEL ESTADO DE YUCATAN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE FEBRERO DE 2024 (ABROGADA).
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 24 de julio de 2009.
 
@@ -640,3 +642,27 @@ El gobernador deberá adecuar el Reglamento de la Ley de Proyectos para la Prest
 Cuarto. Obligación normativa
 
 El gobernador deberá adecuar el Reglamento de la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 2 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REGULA LA CELEBRACIÓN DE PROYECTOS INTEGRALES DE INVERSIÓN A LARGO PLAZO PARA LOS ENTES PÚBLICOS DEL ESTADO DE YUCATÁN".]
+
+Entrada en vigor
+
+Artículo primero Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Abrogación
+
+Artículo segundo. Se abroga la Ley de Proyectos para la Prestación de Servicios del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 24 de julio de 2009.
+
+Vigencia de contratos y convenios
+
+Artículo tercero. Los contratos, convenios o finiquitos celebrados durante la vigencia de la Ley de Proyectos para la Prestación de Servicios del Estado de Yucatán, continuarán vigentes y se les aplicará lo señalado en dicho ordenamiento hasta su terminación.
+
+Referencias en la normatividad
+
+Artículo cuarto. Cuando se refieran a los proyectos de prestación de servicios dentro de la normatividad estatal, se entenderán a los Proyectos Integrales de Inversión a Largo Plazo en lo que no contravengan el presente ordenamiento, así como las referencias a la Ley de Proyectos para la Prestación de Servicios del Estado de Yucatán, se entenderán a la Ley que Regula la Celebración de Proyectos Integrales de Inversión a Largo Plazo para los Entes Públicos del Estado de Yucatán.
+
+Obligación normativa
+
+Artículo quinto. En un plazo que no exceda de un año contado a partir de la entrada en vigor de este decreto, la persona titular del Poder Ejecutivo del estado deberá emitir el Reglamento de la Ley que Regula la Celebración de Proyectos Integrales de Inversión a Largo Plazo para los Entes Públicos del Estado de Yucatán, así como efectuar las reformas o adecuaciones al marco normativo de su competencia que fuesen necesarias ajustar, de conformidad con las disposiciones de la Ley que Regula la Celebración de Proyectos Integrales de Inversión a Largo Plazo para los Entes Públicos del Estado de Yucatán.
