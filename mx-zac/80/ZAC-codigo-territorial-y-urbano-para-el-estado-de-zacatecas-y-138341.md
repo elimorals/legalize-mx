@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-territorial-y-urbano-para-el-estado-de-zacatecas-y-13834
 country: "mx"
 rank: "codigo"
 publication_date: "2019-08-31"
-last_updated: "2019-08-31"
+last_updated: "2024-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138341&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO TERRITORIAL Y URBANO PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2024.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de agosto de 2019.
 
@@ -1505,9 +1505,29 @@ XV. Las demás que se consideren necesarias para la eficacia de la acción de me
 
 Las zonas deterioradas física o funcionalmente en forma total o parcial, podrán ser declaradas por las autoridades estatales o municipales competentes, espacios dedicados al mejoramiento, con el fin de reordenarlos, renovarlos, regenerarlos, restaurarlos o protegerlos y lograr el mejor aprovechamiento de su ubicación, infraestructura, equipamiento, vivienda, suelo y elementos de acondicionamiento del espacio, integrándolas al desarrollo urbano, en beneficio de los habitantes de dichas zonas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 91.
 
-Los propietarios de lotes baldíos, construcciones inconclusas y casas abandonadas ubicados en centros de población del Estado, tienen la obligación de edificar o reconstruir el frente o el perímetro de sus lotes, por lo menos, cuando la Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, determinen que sus propiedades son causantes de problemas ambientales, de seguridad y salud pública, o representen deterioro en el contexto urbano.
+Los propietarios de lotes baldíos, construcciones inconclusas y casas abandonadas ubicados en centros de población del Estado, tienen la obligación de edificar, sanear o reconstruir el frente, área o perímetro de sus inmuebles, por lo menos, cuando la Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, determinen que sus propiedades son causantes de problemas ambientales, de seguridad y salud pública, o representen deterioro en el contexto urbano.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2024)</small>
+
+Los propietarios de los bienes inmuebles descritos en el párrafo anterior deberán mantenerlos en condiciones adecuadas, vigilando que no se encuentren dentro de ellos grandes cantidades de escombro, maleza, ramas, hierbas, arbustos, basura o animales en estado de descomposición o cualquier otro elemento de naturaleza similar.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2024)</small>
+
+Para efectos del presente artículo, cualquier persona podrá denunciar ante la autoridad municipal la presencia de elementos causantes de problemas ambientales, de seguridad y salud pública que se encuentren dentro de bienes inmuebles.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2024)</small>
+
+En caso de que la autoridad municipal encontrara elementos dañinos en el inmueble, exhortará al propietario, quien tendrá treinta días naturales para realizar el saneamiento, si el propietario no lo hace en el término respectivo, podrá solicitar una prórroga por un término no mayor a quince días naturales, justificando su solicitud.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2024)</small>
+
+###### Artículo 91 Bis.
+
+En el supuesto de que el propietario o poseedor del inmueble no lleve a cabo las acciones de saneamiento, a que se refiere el artículo anterior, la autoridad municipal le notificará para requerirle que lo haga, con el apercibimiento que, de no hacerlo, se hará cargo de ello personal autorizado del Ayuntamiento y, en consecuencia, el propietario o poseedor deberá cubrir los derechos por este servicio, de acuerdo con la Ley de Ingresos del Municipio de que se trate, sin perjuicio de la aplicación de las multas a que se haga acreedor, de conformidad con lo establecido por el presente Código y de manera proporcional a la afectación y a la superficie del inmueble.
 
 #### Sección Cuarta. Consolidación
 
@@ -4774,3 +4794,15 @@ Dado en la Sala de Sesiones de la Honorable Legislatura del Estado de Zacatecas,
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 Dado en el Despacho del Poder Ejecutivo del Estado, a los treinta días del mes de julio del año dos mil diecinueve. GOBERNADOR DEL ESTADO.- ALEJANDRO TELLO CRISTERNA. SECRETARIO GENERAL DE GOBIERNO.- JEHÚ EDUI SALAS DÁVILA. Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “DECRETO NO. 445.- SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL CÓDIGO TERRITORIAL Y URBANO PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se establece un plazo no mayor a noventa días para que se los Ayuntamientos modifiquen en lo conducente las disposiciones reglamentarias y establecer el procedimiento para el saneamiento y limpia de lotes baldíos, construcciones inconclusas y casas abandonadas, en los términos del presente Decreto.
+
+Artículo Tercero. Se derogan las disposiciones que contravengan el presente Decreto.
