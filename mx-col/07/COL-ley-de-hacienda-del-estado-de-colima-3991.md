@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2024-01-06"
+last_updated: "2024-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE ENERO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -3235,7 +3233,9 @@ VII.- Por exámenes profesionales
 
 a).- Licenciatura 24.240
 
-b).- Posgrado 50.500
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2024)</small>
+
+b).- Posgrado 100.000
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
 
@@ -3243,13 +3243,23 @@ VIII.- Por la inscripción semestral o ciclo equivalente a estudios de postgrado
 
 a).- Especialidad 160.000
 
-(ACTUALIZADO EN SU MONTO, P.O. 26 DE NOVIEMBRE DE 2011)
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2024)</small>
 
-b).- Maestría 189.000
+b).- Maestría 96.400
 
 (ACTUALIZADO EN SU MONTO, P.O. 26 DE NOVIEMBRE DE 2011)
 
 c).- Doctorado 198.000
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 3 DE FEBRERO DE 2024)</small>
+
+IX.- Por inscripción a congresos:
+
+a).- Estudiantes del ISENCO 5.000
+
+b).- Ponentes 10.000
+
+c).- Público en general 15.000
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
@@ -7340,3 +7350,11 @@ P.O. 16 DE DICIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día 1° de enero del año 2024, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 3 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 406.- POR EL QUE SE REFORMAN LA FRACCIÓN VII INCISO B), Y FRACCIÓN VIII INCISO B); Y SE ADICIONA LA FRACCIÓN IX, TODOS DEL ARTÍCULO 58 DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial “El Estado de Colima”.
