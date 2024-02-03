@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-derechos-de-chihuahua-155082"
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-29"
-last_updated: "2023-12-30"
+last_updated: "2024-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=155082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY ESTATAL DE DERECHOS DE CHIHUAHUA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE FEBRERO DE 2024 EN EL P.O. DEL ESTADO DE CHIHUHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ESTATAL DE DERECHOS DE CHIHUAHUA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE FEBRERO DE 2024.]</small>
 
 Ley publicada en Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 29 de diciembre de 2021.
 
@@ -5469,9 +5469,9 @@ XXVIII. Servicios educativos licenciatura cuatrimestre. 22.1708 UMAs
 
 XXIX. Inscripción especialidades. 28.9184 UMAs
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2024)</small>
 
-XXX. Servicios educativos doctorado en desarrollo. 867553 UMAs
+XXX. Servicios educativos doctorado en desarrollo 86.7553 UMAs
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
@@ -6679,7 +6679,9 @@ IV. Por la gestión de dictamen de uso de suelo. 28.6775 UMAs
 
 V. Por la gestión de dictamen de factibilidades de servicios, por factibilidad. 12.2903 UMAs
 
-VI. Por la gestión de dictamen de medidas y colindancias. 3.2581 UMAs
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2024)</small>
+
+VI. Por la gestión de dictamen de medidas y colindancias 53.2581 UMAs
 
 VII. Por la gestión de dictamen, fusiones y subdivisiones (hasta 5 planos catastrales). 122.9034 UMAs
 
