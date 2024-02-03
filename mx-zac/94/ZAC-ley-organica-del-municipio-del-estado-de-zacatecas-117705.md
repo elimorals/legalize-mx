@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-municipio-del-estado-de-zacatecas-117705"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-03"
-last_updated: "2023-09-30"
+last_updated: "2024-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2024.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 3 de diciembre de 2016.
 
@@ -1701,7 +1701,11 @@ XXIV. Incoar el procedimiento económico coactivo;
 
 XXV. Formular la Cuenta Pública correspondiente al ejercicio fiscal anterior, conjuntamente con el Síndico y la Comisión de Hacienda y Vigilancia y presentarla al Ayuntamiento, para su aprobación, en su caso; y
 
-XXVI. Las demás que le asigne el Ayuntamiento.
+> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2024)</small>
+
+XXVI. Requerir a los propietarios o poseedores de algún lote baldío, construcciones inconclusas y casas abandonadas ubicados en centros de población del Municipio, para que lleven a cabo la limpieza, desmonte o deshierbe de dichas propiedades e informarles en su caso de las sanciones a las que pueden ser acreedores, y
+
+XXVII. Las demás que le asigne el Ayuntamiento.
 
 (REFORMADA SU DENOMINACIÓN, P.O. 4 DE AGOSTO DE 2021) (F. DE E., P.O. 4 DE SEPTIEMBRE DE 2021)
 
@@ -1900,6 +1904,10 @@ VII. Cuidar y conservar el patrimonio histórico y zonas típicas del Municipio;
 VIII. Ordenar la suspensión de obras que se realicen en contravención a la ley, aplicando las sanciones que corresponda; y
 
 IX. Recabar planos y proyectos de obra pública o privada, y otorgar o negar su autorización.
+
+> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2024)</small>
+
+X. Elaborar un padrón de los lotes baldíos, construcciones inconclusas y casas abandonadas ubicados en centros de población que representen un riesgo latente ya sea de inseguridad o insalubridad para los habitantes del Municipio, mismo que tendrá en su resguardo.
 
 ### Capítulo VII. Dirección de Agua, Medio Ambiente y Sustentabilidad
 
@@ -4314,3 +4322,13 @@ Dentro de los cuatro meses siguientes a la publicación de este decreto, los ayu
 Cuarto. De conformidad con la Ley de Austeridad, Disciplina y Responsabilidad Financiera del Estado de Zacatecas y sus Municipios, los ayuntamientos destinarán las partidas presupuestales correspondientes, para cumplir con lo establecido en este decreto.
 
 Quinto. Para efectos del contenido de los artículos 6 fracción VIII, 15 fracción I, 16 fracción I, 23 al 27, 30 y 31 de la Ley para la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana para el Estado de Zacatecas, el Programa Estatal de Prevención Social de la Violencia y la Delincuencia de la actual administración gubernamental, deberá estar aprobado y publicado dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 3 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 445 POR EL QUE "SE ADICIONA LA FRACCIÓN XXVI AL ARTÍCULO 103 RECORRIÉNDOSE LA SIGUIENTE EN ORDEN SUBSECUENTE Y SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 109 DE LA LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se establece un plazo no mayor a noventa días para que se (sic) los Ayuntamientos modifiquen en lo conducente las disposiciones reglamentarias y establecer el procedimiento para el saneamiento y limpia de lotes baldíos, construcciones inconclusas y casas abandonadas, en los términos del presente Decreto.
+
+Artículo Tercero. Se derogan las disposiciones que contravengan el presente Decreto.
