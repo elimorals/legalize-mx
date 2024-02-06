@@ -4,7 +4,7 @@ identifier: "SON-ley-del-notariado-para-el-estado-de-sonora-8382"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-04"
-last_updated: "2020-11-30"
+last_updated: "2024-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DEL NOTARIADO PARA EL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE SONORA, PUBLICADA EN EL B.O. 6 DE FEBRERO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL NOTARIADO PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE FEBRERO DE 2024 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Boletín Oficial del Estado de Sonora, el jueves 4 de enero de 1996.
 
@@ -1584,3 +1586,37 @@ En el caso de la reelección prevista en el artículo 129 de la presente ley, so
 ###### ARTÍCULO QUINTO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+B.O. 6 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 175, DEL NOTARIADO PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a los 60 días naturales posteriores a su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigor de la presente Ley, se abroga la Ley número 163, publicada en el Boletín Oficial del Gobierno del Estado el día 4 de enero de 1996, así como las reformas y adiciones que se hayan publicado en el mismo Boletín Oficial.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos administrativos iniciados antes de la entrada en vigor de esta Ley, se tramitarán y resolverán de conformidad con la Ley que se abroga.
+
+###### ARTÍCULO CUARTO.
+
+Las Notarías Públicas existentes con anterioridad a la entrada en vigencia de la presente Ley subsistirán dentro de la demarcación notarial que le asignó el Ejecutivo.
+
+###### ARTÍCULO QUINTO.
+
+Los Notarios Públicos que actualmente se encuentren con licencia se incorporaran a su notaría dentro de las cuarenta y ocho horas posteriores a la conclusión de la misma.
+
+###### ARTÍCULO SEXTO.
+
+La Dirección General, de acuerdo a la disponibilidad presupuestaria, deberá realizar las acciones necesarias para cumplir lo establecido en las disposiciones previstas en esta Ley relativas al Protocolo, Folio y almacenamiento Electrónico.
+
+La Dirección General a través de su director general, tendrá un plazo de 180 días naturales para elaborar los lineamientos para la elaboración, entrega, uso y resguardo de lo establecido en el párrafo anterior.
+
+###### ARTÍCULO SÉPTIMO.
+
+El estatuto del Colegio de Notarios del Estado de Sonora, deberá adecuarse a lo dispuesta en esta Ley y publicarse en el Boletín Oficial en un término que no deberá exceder de 180 días hábiles, posteriores al inicio de la vigencia de la Ley.
