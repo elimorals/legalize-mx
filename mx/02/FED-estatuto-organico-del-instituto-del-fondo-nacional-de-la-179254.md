@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-de-la-179254
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-05-22"
-last_updated: "2023-02-13"
+last_updated: "2024-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=179254&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-05-05"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE FEBRERO DE 2024.
 
 Estatuto publicado en el Número 15 del Diario Oficial de la Federación, el viernes 22 de mayo de 2020.
 
@@ -35,9 +35,11 @@ Es el ordenamiento jurídico que establece, de manera general, las responsabilid
 
 ### Capítulo I. Disposiciones generales
 
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 1.
 
-El Estatuto Orgánico es el ordenamiento jurídico que establece, de manera general, las responsabilidades y funciones de la Dirección General, de las Direcciones Sectoriales y del personal directivo del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+El Estatuto Orgánico es el ordenamiento jurídico que establece, de manera general, las responsabilidades y funciones de la Dirección General, de las Direcciones Sectoriales, Secretaría General y Jurídica, Contraloría General, Subdirecciones y Coordinaciones Generales del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, por conducto del personal directivo y demás personal adscrito.
 
 ###### ARTÍCULO 2.
 
@@ -45,13 +47,13 @@ Para efectos de este Estatuto se entenderá por:
 
 I. Asamblea: la Asamblea General
 
-II. Auditoría: la Auditoría Interna
+II. (DEROGADA, D.O.F. 6 DE FEBRERO DE 2024)
 
 III. Cesi: Centros de Servicios Infonavit
 
-IV. Comisión: la Comisión de Vigilancia
+IV. (DEROGADA, D.O.F. 6 DE FEBRERO DE 2024)
 
-V. Comité: Comité de Auditoría
+V. (DEROGADA, D.O.F. 6 DE FEBRERO DE 2024)
 
 VI. Consejo: el Consejo de Administración
 
@@ -135,6 +137,10 @@ XX. Después de ser aprobado por la Asamblea, enviar al Congreso de la Unión, d
 
 XXI. Alinear los esfuerzos que, para conocer las necesidades de los usuarios, realicen todas las áreas;
 
+> <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+XXI Bis. Conducir las actividades de las Delegaciones y Cesi, con el apoyo de las áreas competentes;
+
 XXII. Realizar evaluaciones periódicas de la operación de las Delegaciones, en el cumplimiento de los objetivos y metas institucionales;
 
 XXIII. Constituir a través de la figura jurídica correspondiente, centros de investigación, análisis estadísticos, agencias, comisiones especiales o cualquier otra unidad que permita llevar a cabo estudios y publicaciones relacionados con el quehacer del Instituto, y
@@ -142,6 +148,10 @@ XXIII. Constituir a través de la figura jurídica correspondiente, centros de i
 > <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2022)</small>
 
 XXIV. Proponer al Comité de Auditoría el establecimiento, diseño y actualizaciones al Sistema de Control Interno Institucional. El Comité de Auditoría, a su vez lo someterá a aprobación del Consejo de Administración;
+
+> <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+XXIV Bis. Designar a la o el Oficial en Jefe de Seguridad de la Información quien deberá vigilar el cumplimiento de las políticas institucionales para la seguridad de la información;
 
 > <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2022)</small>
 
@@ -157,9 +167,11 @@ La Dirección General dispondrá de asesoría y del personal técnico y administ
 
 El Director o Directora General para el desarrollo de sus funciones, se auxiliará de una Jefatura de Oficina.
 
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 6.
 
-El personal directivo del Infonavit serán las y los titulares de la Secretaría General y Jurídica, de la Contraloría General, de las Subdirecciones Generales: de Planeación Financiera y Fiscalización, de Crédito, de Gestión de Cartera, de Operaciones, de Administración y Recursos Humanos, de Comunicación y de Tecnologías de Información, de las Coordinaciones Generales: Jurídica, de Recaudación Fiscal, de Inversiones y de Riesgos.
+El personal directivo del Infonavit estará conformado por las y los titulares de la Secretaría General y Jurídica, de la Contraloría General, de las Subdirecciones Generales: de Planeación Financiera y Fiscalización, de Crédito, de Gestión de Cartera, de Operaciones, de Administración y Recursos Humanos, de Comunicación, y de Tecnologías de Información; y de las Coordinaciones Generales: Jurídica, de Recaudación Fiscal, de Inversiones y de Riesgos.
 
 ###### ARTÍCULO 7.
 
@@ -221,6 +233,10 @@ a. Coordinación General Jurídica.
 
 b. Prosecretaria.
 
+> <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+c. Coordinación General de Cobranza Judicial.
+
 IV. A la Subdirección General de Planeación Financiera y Fiscalización estarán adscritas las siguientes áreas:
 
 a. Coordinación General de Recaudación Fiscal.
@@ -253,11 +269,17 @@ XI. Coordinación General de Riesgos.
 
 XII. Coordinación General de Inversiones.
 
+> <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+XIII. Delegaciones.
+
 ### Capítulo II. De las atribuciones generales de las Subdirecciones Generales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 12.
 
-La Dirección General conducirá las actividades de la Secretaría General y Jurídica, de la Contraloría General, de las Subdirecciones Generales y de las Coordinaciones Generales, de conformidad con este Estatuto.
+La Dirección General conducirá las actividades de la Secretaría General y Jurídica, de la Contraloría General, de las Subdirecciones Generales, de las Coordinaciones Generales y de las Delegaciones, de conformidad con este Estatuto y demás normativa que resulte aplicable.
 
 A cargo de la Secretaría General y Jurídica estará un Secretario o Secretaria, a cargo de cada Subdirección General un Subdirector o Subdirectora y de la Contraloría General un Contralor o Contralora.
 
@@ -303,7 +325,13 @@ XVII. Llevar a cabo sus actividades y desempeñar sus funciones conforme a las d
 
 XVIII. Gestionar ante la Subdirección General de Administración y Recursos Humanos, en el ámbito de su competencia, la contratación de asesores externos y proveedores de servicios para el mejor cumplimiento de sus funciones;
 
-XIX. Atender de manera ágil y oportuna los requerimientos que realice la Subdirección General de Operaciones, relacionados con los trámites y servicios, que en el ámbito de su competencia, se brindan en las Delegaciones y Cesi, y
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+XIX. Atender de manera ágil y oportuna los requerimientos que realice la Subdirección General de Operaciones, relacionados con los trámites y servicios que, en el ámbito de su competencia, se brindan en las Delegaciones y Cesi;
+
+> <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+XIX Bis. Atender de manera ágil y oportuna los requerimientos y solicitudes de información que formule la Secretaría General y Jurídica, en materia legislativa, de acceso a la información y protección de datos personales, en el ámbito de sus competencias y en apego a la normativa aplicable; y
 
 XX. Las demás que les confieran el Consejo, el Director o Directora General, el presente Estatuto, los manuales de organización y demás ordenamientos aplicables.
 
@@ -329,7 +357,9 @@ VI. Ejecutar y mantener el Sistema de Control Interno en la operación de los pr
 
 VII. Suscribir los documentos relativos al ejercicio de sus funciones y de las que le correspondan por suplencia;
 
-VIII. Proporcionar la información solicitada por autoridad competente o por otras áreas del Instituto y expedir constancias de los documentos originales que obren en sus archivos. Asimismo, expedir, a petición del interesado, copias certificadas de los documentos originales que obren en los archivos de las respectivas áreas del Instituto, en términos de lo dispuesto en las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+VIII. Proporcionar, por conducto del titular o a través de las gerencias a su cargo, la información solicitada por autoridad competente o por otras áreas del Instituto y expedir constancias de los documentos originales que obren en sus archivos. Asimismo, expedir, a petición del interesado o autoridad competente, por conducto del titular o a través de las gerencias a su cargo, copias certificadas de los documentos originales que obren en los archivos de las respectivas áreas del Instituto, en términos de lo dispuesto en las disposiciones jurídicas aplicables;
 
 IX. Atender las resoluciones y solicitudes de información que en la materia formule la Comisión de Inconformidades y cualquier otro órgano del Infonavit
 
@@ -341,7 +371,13 @@ XII. Llevar a cabo sus actividades y desempeñar sus funciones conforme a las di
 
 XIII. Gestionar ante la Subdirección General de Administración y Recursos Humanos, en el ámbito de su competencia, la contratación de asesores externos y proveedores de servicios para el mejor cumplimiento de sus funciones;
 
-XIV. Atender de manera ágil y oportuna los requerimientos que realice la Subdirección General de Operaciones, relacionados con los trámites y servicios, que en el ámbito de su competencia, se brindan en las Delegaciones y Cesi, y
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+XIV. Atender de manera ágil y oportuna los requerimientos que realice la Subdirección General de Operaciones, relacionados con los trámites y servicios, que, en el ámbito de su competencia, se brindan en las Delegaciones y Cesi;
+
+> <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+XIV Bis. Atender de manera ágil y oportuna los requerimientos y solicitudes de información que formule la Secretaría General y Jurídica, en materia legislativa, de acceso a la información y protección de datos personales, en el ámbito de sus competencias y en apego a la normativa aplicable; y
 
 XV. Las demás que les confieran el Consejo, el Director o Directora General, el Subdirector o Subdirectora General correspondiente, el presente Estatuto, los manuales de organización respectivos y los demás ordenamientos aplicables.
 
@@ -379,95 +415,145 @@ VIII. Dar seguimiento a las recomendaciones, resoluciones y acuerdos dictados en
 
 IX. Controlar y conservar en documento original y formato electrónico los libros de actas y acuerdos de los Órganos Colegiados;
 
+> <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+IX Bis. Tener a su cargo la Secretaría de Actas o equivalente de los Grupos de Trabajo que constituya el Director o Directora General, así como de los Comités Técnicos de los Fideicomisos en los que el Instituto sea parte;
+
 X. Realizar el envío, conforme a las Reglas de Operación de cada Órgano Colegiado, de la información de los asuntos que sean parte del orden del día de las sesiones de dichos Órganos, y
 
 XI. Para efectos de lo establecido en las fracciones V y VII, mantener una vinculación permanente con las delegaciones, en coordinación con la Subdirección General de Operaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 17.
 
-Respecto a la representación del Infonavit, tendrá las siguientes facultades y funciones:
+Respecto a la representación del Infonavit, la Secretaría General y Jurídica tendrá las siguientes facultades y funciones:
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
-I. Intervenir con la representación que le compete en los juicios y/o conflictos jurídicos, incluyendo lo correspondiente a la recuperación judicial de la cartera hipotecaria en los que el Infonavit sea parte, esta representación podrán ejercerla el Coordinador General Jurídico, el Gerente Senior Jurídico Consultivo, el Gerente Senior Jurídico Contencioso, el Gerente Senior de Recuperación Especializada, el Gerente de Servicios Legales, el Gerente Jurídico Contencioso, Civil y Mercantil, el Gerente de Denuncias, Investigaciones Especiales y Asuntos Penales;
+I. Intervenir con la representación que le compete en los juicios y/o conflictos jurídicos, incluyendo los juicios de amparo y lo correspondiente a la recuperación judicial de la cartera hipotecaria en los que el Infonavit sea parte, esta representación podrán ejercerla el Coordinador General Jurídico, el Coordinador General de Cobranza Judicial, el Gerente Senior Jurídico Consultivo, el Gerente Senior Jurídico Contencioso, el Gerente de Asuntos Laborales, el Gerente Jurídico Contencioso, Civil y Mercantil, el Gerente de Asuntos Penales, el Gerente de Investigaciones Especiales y el Gerente de Amparo;
 
 II. Interponer las acciones legales que correspondan y gestionar su solución, con el propósito de salvaguardar los intereses y el patrimonio del Instituto, así como, la administración, coordinación y control de todos los procedimientos de carácter judicial, a excepción de los establecidos en el artículo 41 de este Estatuto Orgánico;
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
-III. Coordinar y administrar los procedimientos legales o de carácter judicial en los que el Instituto sea parte, a excepción de los que corresponden a actos que realice en su carácter de organismo fiscal autónomo;
+III. Coordinar, administrar y sustanciar los procedimientos legales, administrativos y de carácter judicial que sean de la competencia del Instituto, a excepción de los que corresponden a actos que realice en su carácter de organismo fiscal autónomo o sean de la competencia expresa de algún órgano o área específica;
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+> <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
-IV. Establecer los mecanismos para la administración y control de los poderes que otorgue el Director o Directora General, así como las revocaciones de éstos;
+III Bis. Atender, dirigir, soportar, supervisar, monitorear y apoyar las actividades en materia de recuperación judicial de la cartera hipotecaria del Infonavit, que realizan las áreas competentes de las Delegaciones o los terceros designados para tales efectos;
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
-V. Coordinar las relaciones institucionales con la Comisión Nacional de los Derechos Humanos, así como con el Instituto Nacional de Transparencia, Acceso a la Información y de Protección de Datos Personales;
+IV. Establecer e implementar, por conducto de la Coordinación General Jurídica, los mecanismos para el otorgamiento, administración, control y revocación de los poderes que otorgue el Director o Directora General y demás personal autorizado para ello, así como conducir la administración de los servicios notariales que requiera el Instituto, en el ámbito de competencia de la propia Coordinación;
+
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+V. Coordinar las relaciones institucionales con la Comisión Nacional de los Derechos Humanos, así como con el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
 > <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
 
 VI. Tramitar y resolver las denuncias o querellas contra proveedores por posibles incumplimientos del Código de Ética que le sean turnados por la Contraloría General;
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
-VII. Llevar a cabo todas las acciones tendientes a la protección de la propiedad intelectual e industrial del Infonavit y su defensa legal, y
+VII. Llevar a cabo todas las acciones jurídicas ante las autoridades competentes tendientes a la protección de la propiedad intelectual e industrial del Infonavit y su defensa legal;
 
-> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
-VIII. Intervenir, representar, administrar, coordinar y/o supervisar los procedimientos legales o de carácter judicial para la defensa del patrimonio de los Fideicomisos en que el Instituto sea parte o tenga un interés jurídico.
+VIII. Intervenir, representar, administrar, coordinar y/o supervisar los procedimientos legales o de carácter judicial para la defensa del patrimonio de los Fideicomisos en que el Instituto sea parte o tenga un interés jurídico, y
+
+> <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+IX. Conocer, substanciar y resolver los recursos de mediación de controversias en materia de adquisiciones, arrendamientos y servicios, de acuerdo con la normativa aplicable.
 
 ###### ARTÍCULO 18.
 
 En cuanto al Código de Ética y sus actualizaciones, la Secretaría General y Jurídica deberá establecer los mecanismos para difundirlo a los integrantes de los Órganos Colegiados y trabajadores del Infonavit.
 
+> <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+###### ARTÍCULO 18 Bis.
+
+Por cuanto hace a la cobranza judicial del portafolio hipotecario del Instituto, la Secretaría General y Jurídica tendrá las siguientes facultades y funciones:
+
+I. Planear, diseñar e instrumentar la estrategia legal, operativa y financiera para la recuperación judicial de la cartera hipotecaria del Infonavit para contribuir en la preservación de la rentabilidad del Fondo Nacional de la Vivienda, considerando el esquema de cobranza social aprobado por el Consejo de Administración;
+
+II. Instrumentar la cobranza judicial, así como garantizar el diseño, implementación y ofrecimiento de productos y soluciones específicos acordes al estatus del crédito;
+
+III. Establecer mecanismos de control y supervisión de los procesos de cobranza judicial del portafolio hipotecario, así como de los proveedores de servicios externos de recuperación judicial, y
+
+IV. Establecer los mecanismos de integración, custodia y tenencia temporal de los expedientes de crédito durante la gestión de la cobranza judicial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 19.
 
-Respecto a la generación y aplicación del marco jurídico institucional, tendrá las siguientes facultades y funciones:
+Respecto a la generación y aplicación del marco jurídico institucional, la Secretaría General y Jurídica tendrá las siguientes facultades y funciones:
 
 I. Revisar y emitir opinión respecto de todas las disposiciones jurídicas o sus proyectos, relativos a las actividades del Infonavit, así como emitir opinión sobre las consultas legislativas;
 
 II. Revisar y emitir opinión sobre la normatividad interna del Infonavit;
 
-III. Revisar y autorizar los contratos de crédito y los procesos de titulación, supervisar la titulación de los créditos que llevan a cabo los notarios públicos, así como, su inscripción ante los registros públicos de la propiedad, y vigilar la integración de los expedientes de crédito con relación a aspectos jurídicos;
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+III. Revisar y autorizar los contratos de crédito y emitir opinión respecto a los aspectos jurídicos de la integración de los expedientes de crédito;
 
 IV. Generar, unificar y difundir criterios jurídicos para la aplicación de las normas que rigen al Infonavit;
 
-V. Autorizar la aceptación y liberación de fianzas que garanticen obligaciones ante el Infonavit, en los contratos y convenios que éste celebre;
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
-VI. Establecer medidas que conlleven a las Mejores Prácticas Institucionales en materia legal, y
+V. Validar, resguardar y autorizar la aceptación y liberación de garantías que deriven de las obligaciones pactadas en los contratos, convenios y pedidos que celebre el Instituto en materia de adquisiciones, arrendamientos de bienes, contratación de servicios y obras y servicios relacionadas con las mismas;
 
-VII. Emitir la normatividad para la liberación de los gravámenes constituidos por el otorgamiento de los créditos, así como, contribuir con los acreditados para la obtención de dichas liberaciones.
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+VI. Sustanciar, internamente o con apoyo de terceros especializados, los procesos de mediación con proveedores del Instituto que se establezcan en la normativa institucional de adquisiciones y, en su caso, conducir, resolver y ejecutar los procesos de rescisión contractual; y
+
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+VII. Previa denuncia de parte interesada, realizar las indagatorias que correspondan a efecto de dictaminar afectaciones a derechohabientes en casos de usurpación de identidad, ordenando a cualquier área del Instituto que realice las acciones pertinentes para la solución de la problemática.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 20.
 
-Respecto a la asesoría en materia jurídica, tendrá las siguientes facultades y funciones:
+Respecto a la asesoría en materia jurídica, la Secretaría General y Jurídica tendrá las siguientes facultades y funciones:
 
 I. Emitir opinión legal respecto de las consultas que en materia jurídica le sean planteadas;
 
 II. Dirigir y supervisar las actividades jurídicas de los abogados que atiendan los servicios jurídicos del Infonavit;
 
-III. Emitir opiniones, estrategias o criterios legales respecto de asuntos que le sean sometidos a su consideración, a fin de contribuir al cumplimiento de los fines institucionales, y
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+III. Emitir opiniones, estrategias o criterios legales respecto de asuntos que le sean sometidos a su consideración, a fin de contribuir al cumplimiento de los fines institucionales;
 
-IV. Elaborar los contratos y convenios que celebre el Instituto, emitiendo el dictamen que corresponda y opinando sobre la interpretación, rescisión, nulidad y demás aspectos legales relacionados con dichos documentos, y
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+IV. En materia de contratos aplicable a las adquisiciones y arrendamientos de bienes, así como la contratación de servicios, obras y servicios relacionados con las mismas, elaborar el modelo de contrato institucional y validar el contenido legal de los proyectos finales de contrato que elabore la Subdirección General de Administración y Recursos Humanos; en las demás materias, elaborar o, en su caso, revisar los contratos y convenios que celebre el Instituto y le sean requeridos; así como emitir opinión sobre la rescisión, nulidad y demás aspectos legales relacionados con dichos instrumentos;
 
 > <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2022)</small>
 
 V. Validar y aprobar los contratos de fideicomisos en que el Instituto sea parte o tenga un interés jurídico y los convenios modificatorios, con excepción de los fideicomisos de garantía cuyo fin sea garantizar las obligaciones de pago derivadas de los créditos otorgados por el Instituto a los derechohabientes; así como tener a su cargo el registro institucional de fideicomisos.
 
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 21.
 
-Respecto al marco jurídico aplicable al Infonavit, deberá implantar los mecanismos necesarios para asegurar su cumplimiento y tendrá las siguientes facultades y funciones:
+Respecto al marco jurídico aplicable al Infonavit, la Secretaría General y Jurídica, por conducto de la Coordinación General Jurídica, deberá implementar los mecanismos necesarios para detectar e identificar disposiciones jurídicas nuevas y sus modificaciones, alertar sobre los riesgos de que se incumpla con disposiciones legales y regulatorias, comunicar las medidas que propicien su cumplimiento, así como divulgar las mejores prácticas en materia jurídica y cumplimiento normativo.
 
-I. Tener a su cargo la Presidencia del Comité de Cumplimiento Legal y de Asuntos Jurídicos Relevantes, en el cual se expondrán y detectarán las actividades de carácter jurídico que impliquen posible riesgo legal para el Instituto y se determinen las acciones para su mitigación, y
+La Dirección General podrá solicitar a la Secretaría General y Jurídica que, por conducto de la Coordinación General Jurídica, conozca, emita opinión o resuelva cualquier asunto de naturaleza jurídica que se requiera, sin importar la materia de que se trate o que su atención esté conferida a cualquier otra área del Instituto.
 
-II. Detectar las disposiciones jurídicas aplicables al Infonavit, e identificar y alertar sobre los riesgos de que se incumpla con disposiciones legales y regulatorias, así como divulgar las mejores prácticas.
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 22.
 
-Para efectos de lo establecido en este capítulo, el Secretario o Secretaria General y Jurídico se auxiliará o será asistido para el trámite y resolución de los asuntos de su competencia por la Coordinadora o Coordinador General Jurídico, y él a su vez por los Gerentes Senior Jurídico Consultivo, Jurídico Contencioso y de Recuperación Especializada, quienes podrán ejercer indistintamente las facultades de manera individual a que se refieren los artículos 17 al 21 de este Estatuto.
+Para efectos de lo establecido en este capítulo, el Secretario o Secretaria General y Jurídico se auxiliará o será asistido para el trámite y resolución de los asuntos de su competencia en los términos siguientes:
+
+I. En el ejercicio de funciones y facultades a que se refieren los artículos 16, fracción III, 17, 18, 19, 20 y 21 anteriores, el Secretario o Secretaria General y Jurídico se auxiliará o será asistido por la Coordinadora o Coordinador General Jurídico y él a su vez por los Gerentes Senior Jurídico Consultivo y Jurídico Contencioso, quienes podrán ejercer indistintamente las facultades de manera individual;
+
+II. En el ejercicio de las facultades contenidas en el artículo 18 Bis de este Estatuto, el Secretario o Secretaria General y Jurídico se auxiliará o será asistido por la Coordinadora o Coordinador General de Cobranza Judicial; y
+
+III. En el ejercicio de las facultades contenidas en el artículo 19, fracción VIII, anterior, el Secretario o Secretaria General y Jurídico se auxiliará o será asistido por el Gerente de Investigaciones Especiales, además del personal señalado en la fracción I del presente artículo.
 
 ###### ARTÍCULO 23.
 
@@ -475,17 +561,21 @@ Para efectos de lo establecido en el artículo 16, el Secretario o Secretaria Ge
 
 ### Capítulo V. De la Contraloría General
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 24.
 
-Respecto al diseño, establecimiento, supervisión y cumplimiento de la ejecución y mantenimiento del Sistema de Control Interno, tendrá las siguientes facultades y funciones:
+Respecto al diseño, establecimiento, supervisión y cumplimiento de la ejecución y mantenimiento del Sistema de Control Interno, la Contraloría General tendrá las siguientes facultades y funciones:
 
 I. Difundir los objetivos y lineamientos del Sistema de Control Interno al personal del Infonavit;
 
-II. Previa autorización de la Dirección General, proponer a la consideración del Comité de Auditoría para aprobación del Consejo de Administración, las actualizaciones a los Lineamientos Generales en materia de Control Interno que el Infonavit requiera para su adecuado funcionamiento, por lo menos una vez al año;
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
-III. Verificar que los modelos, políticas y procedimientos de operación elaborados por las áreas responsables, cumplan con los aspectos y lineamientos de control interno aprobados por el Consejo de Administración y gestionar la aprobación del Comité de Auditoría en la parte relativa a políticas y procedimientos en materia de control interno, previa autorización de la Dirección General;
+II. Previa autorización de la Dirección General, proponer a la consideración del Comité de Auditoría para aprobación del Consejo de Administración, las actualizaciones o ratificaciones a los Lineamientos Generales en materia de Control Interno que el Infonavit requiera para su adecuado funcionamiento, por lo menos una vez al año;
+
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+III. Verificar que los modelos, políticas, procesos y procedimientos de operación elaborados por las áreas responsables, cumplan con los aspectos y lineamientos de control interno aprobados por el Consejo de Administración y gestionar la aprobación del Comité de Auditoría en la parte relativa a políticas, procesos y procedimientos en materia de control interno, previa autorización de la Dirección General;
 
 IV. Diseñar y establecer programas de verificación y autocontrol sobre el cumplimiento del Sistema de Control Interno, para su aplicación en los niveles estratégico, directivo y operativo, sobre todo en los procesos con mayor exposición al riesgo y mayor impacto financiero asociado a su operación;
 
@@ -497,21 +587,31 @@ VI. Contar con un registro permanentemente actualizado de los objetivos del Sist
 
 VII. Proveer al menos dos veces al año un reporte de su gestión, a la Dirección General y al Comité de Auditoría, y
 
-VIII. Participar en calidad de testigo en los eventos de entrega-recepción de oficinas y transmisión del conocimiento.
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+VIII. Participar en calidad de testigo en los eventos de entrega-recepción de oficinas, Delegaciones y transmisión del conocimiento; y
+
+> <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+IX. Realizar un diagnóstico del diseño, implementación y operación de los Objetivos y Lineamientos Generales de Control Interno, a través de los elementos de control para identificar las debilidades significativas de control y las desviaciones que pueden afectar el cumplimiento de los objetivos institucionales, a efecto de promover el establecimiento de medidas correctivas y preventivas, y consolidar el Sistema de Control Interno institucional.
+
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 25.
 
-Respecto al diseño, establecimiento y actualización de medidas y controles, tendrá las facultades y funciones siguientes:
+Respecto al diseño, establecimiento y actualización de medidas y controles, la Contraloría General tendrá las facultades y funciones siguientes:
 
-I. Evaluar, definir, proponer y verificar los controles e indicadores relacionados a los riesgos a los que se encuentra expuesto el Infonavit, principalmente aquellos inherentes a la información financiera, para que ésta sea útil, íntegra, confiable y oportuna para la toma de decisiones, así como aquéllos operacionales y tecnológicos, detectados por las áreas responsables o que resulten de algún hallazgo derivado de verificaciones o denuncias;
+I. Evaluar, definir, proponer y verificar los controles e indicadores relacionados a los riesgos a los que se encuentra expuesto el Infonavit, principalmente aquellos inherentes a la información financiera, para que ésta sea útil, íntegra, confiable y oportuna para la toma de decisiones, así como aquellos riesgos no discrecionales detectados por las áreas responsables o que resulten de algún hallazgo derivado de verificaciones, revisiones, denuncias, ejercicios de autocontrol o diagnóstico;
 
-II. Dar seguimiento a la atención de hallazgos, planes de mitigación e implantación de controles relacionados a los riesgos a los que se encuentra expuesto el Infonavit, principalmente aquéllos relativos a la información financiera, riesgos operacionales y tecnológicos, y
+II. Dar seguimiento a la atención de hallazgos, planes de mitigación e implantación de controles relacionados a los riesgos a los que se encuentra expuesto el Infonavit, principalmente aquéllos relativos a la información financiera y riesgos no discrecionales, y
 
-III. Evaluar y verificar que los procesos de conciliación entre los sistemas de operación y contables sean adecuados.
+III. Evaluar y verificar que los procesos de conciliación entre los sistemas de operación y contables sean adecuados y se lleven a cabo acorde a la normativa interna y externa, con la finalidad de vigilar que la información ahí plasmada sea completa, correcta, precisa, íntegra, confiable y oportuna.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 26.
 
-Respecto a las declaraciones patrimoniales y de posible conflicto de interés de los trabajadores del Infonavit, tendrá las siguientes facultades y funciones:
+Respecto a las declaraciones patrimoniales y de posible conflicto de interés de los trabajadores del Infonavit, la Contraloría General tendrá las siguientes facultades y funciones:
 
 I. Establecer y administrar un sistema integral de información, asegurando el resguardo de las declaraciones patrimoniales y de posible conflicto de interés;
 
@@ -521,11 +621,15 @@ III. Dirigir el proceso para la presentación de las declaraciones patrimoniales
 
 IV. Analizar las inconsistencias y diferencias detectadas en el Sistema Infonavit de Declaración Patrimonial y rendir un informe anual al Comité de Auditoría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 27.
 
-Respecto a la atención de denuncias e infracciones, tendrá las siguientes facultades y funciones:
+Respecto a la atención de denuncias e infracciones, la Contraloría General tendrá las siguientes facultades y funciones:
 
-I. Coordinar la atención de las denuncias ingresadas y los procedimientos de investigación de responsabilidades administrativas que de ellas deriven, con la finalidad de vigilar el cumplimiento de la normativa interna y externa que rige al Instituto por parte de los trabajadores y, en caso de infracciones, determinar las sanciones correspondientes;
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+I. Coordinar denuncias ingresadas y los procedimientos de investigación de responsabilidades administrativas que de ellas deriven, con la finalidad de vigilar el cumplimiento de la normativa interna y externa que rige al Instituto por parte de los trabajadores y, en caso de infracciones, determinar las sanciones correspondientes o, en su defecto, emitir los acuerdos que pongan fin al procedimiento;
 
 II. Proponer las medidas necesarias para evitar la comisión de infracciones;
 
@@ -543,25 +647,37 @@ VIII. Diseñar y administrar el sistema de recepción de denuncias a nivel nacio
 
 IX. Hacer del conocimiento de las áreas competentes dentro del Instituto, cuando resultado de las denuncias e infracciones deban ejercitarse acciones legales en representación del Instituto, incluyendo las acciones en materia penal.
 
-X. Las demás que sean necesarias para el ejercicio de las atribuciones anteriores, así como las que mediante acuerdo le instruya el Director o Directora General.
+> <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+X. Emitir medidas preventivas de protección a quienes tienen el carácter de denunciantes en un procedimiento de investigación de responsabilidades administrativas, así como a quienes tienen el carácter de víctimas dentro del procedimiento de investigación de responsabilidades administrativas por hostigamiento y acoso sexual, conforme a la normativa aplicable; y
+
+(REUBICADA, D.O.F. 6 DE FEBRERO DE 2024)
+
+XI. Las demás que sean necesarias para el ejercicio de las atribuciones anteriores, así como las que mediante acuerdo le instruya el Director o Directora General.
 
 Se entenderá por denuncia a la manifestación de hechos en los que se presume la existencia de irregularidades que infrinjan las disposiciones del Código de Ética y/o a la normativa que aplica al Instituto, cuando sean atribuidos a proveedores, prestadores de servicios o cualquier persona que tenga vinculación con el Instituto, que trasgredan lo establecido en la normatividad aplicable.
 
 Se entenderá como infracción a la conducta atribuible a personal del Instituto que incumpla con lo previsto en el Código de Ética y/o normatividad institucional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 28.
 
-Respecto a la atención de quejas y reclamaciones, tendrá las siguientes facultades y funciones:
+Respecto a la atención de quejas y reclamaciones, la Contraloría General tendrá las siguientes facultades y funciones:
 
 I. Recibir, analizar e investigar las quejas relacionadas con incumplimiento del Código de Ética y cualquier otra normativa institucional;
 
-II. Conocer y resolver los recursos en materia de adquisiciones, arrendamientos y servicios, de acuerdo con la normatividad aplicable;
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+II. Conocer y resolver los recursos de reconsideración en materia de adquisiciones, arrendamientos y servicios, de acuerdo con la normativa aplicable;
 
 III. Proponer y dar seguimiento a la implementación de acciones oportunas para erradicar los motivos que generan las situaciones irregulares detectadas;
 
 IV. Vigilar la atención oportuna de las quejas por parte de las áreas, así como emitir recomendaciones y proponer acciones de mejora. Para tal efecto, las áreas que conforman el Instituto deberán presentar un informe periódico a la Contraloría General sobre la atención de las quejas, y
 
-V. Diseñar y administrar el sistema de recepción de quejas a nivel nacional.
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+V. Vigilar el debido funcionamiento del sistema de recepción de quejas a nivel nacional;
 
 VI. Turnar para su trámite y atención a la Secretaría General y Jurídica, las denuncias contra proveedores por posibles incumplimientos del Código de Ética.
 
@@ -569,31 +685,45 @@ VII. Hacer del conocimiento de las áreas competentes del Instituto, cuando resu
 
 Se entenderá por queja o reclamación a la manifestación de descontento o insatisfacción que se tiene en relación con un servicio o atención ofrecido por el Instituto a un derechohabiente o acreditado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 29.
 
-Respecto al análisis de operaciones, tendrá las siguientes facultades y funciones:
+Respecto al análisis de operaciones, la Contraloría General tendrá las siguientes facultades y funciones:
 
 I. Investigar desviaciones o incumplimientos a la normativa institucional, así como los indicios de conductas indeseables o malas prácticas en las operaciones institucionales en las que interviene personal del Infonavit o externos, y
 
-II. Promover mejoras en procesos, sistemas y normas con el fin de evitar la recurrencia de operaciones irregulares, conductas indeseables o malas prácticas.
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+II. Impulsar la integridad operativa y de la información, mediante la promoción de mejoras en procesos, sistemas, bases de datos, interfases y normas con el fin de asegurar la generación de datos de manera completa, correcta, precisa, íntegra y confiable, así como mitigar la recurrencia de operaciones irregulares, conductas indeseables o malas prácticas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 30.
 
-Respecto al Código de Ética tendrá las siguientes facultades y funciones:
+Respecto al Código de Ética, la Contraloría General tendrá las siguientes facultades y funciones:
 
 I. Atender consultas respecto de la aplicación del Código de Ética, y
 
 II. En coordinación con la Secretaría General y Jurídica, previa autorización de la Dirección General, someter a consideración de la Comisión de Vigilancia para posterior aprobación de la Asamblea General, las propuestas de actualización del Código de Ética que el Infonavit requiera para su adecuado funcionamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 31.
 
-Con relación al Sistema Integral de Calidad, sus facultades y funciones son:
+Con relación al Sistema de Calidad, la Contraloría General tendrá las siguientes facultades y funciones:
 
-I. Implantar y administrar el Sistema Integral de Gestión de Calidad;
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+I. Implantar y administrar el Sistema de Gestión de Calidad;
 
 II. Establecer y administrar los métodos para asegurar la consistencia operativa, la medición del desempeño y la calidad en el servicio;
 
 III. Establecer y administrar métodos para asegurar la consistencia de los elementos operativos al implantar nuevos productos y servicios;
+
+> <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+IV. Supervisar la participación de las áreas sustantivas, de apoyo y Delegaciones en la implantación y administración del Sistema de Gestión de Calidad.
 
 > <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2022)</small>
 
@@ -603,9 +733,11 @@ Para efectos de lo establecido en los artículos 24, fracción V, 26, 27 y 29, l
 
 ### Capítulo VI. De la Subdirección General de Planeación Financiera y Fiscalización
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 33.
 
-Respecto a la administración de recursos financieros, sus facultades y funciones son:
+Respecto a la administración de recursos financieros, la Subdirección General de Planeación Financiera y Fiscalización tendrá las siguientes facultades y funciones:
 
 I. Normar la operación financiera y contable, y elaborar los estados financieros;
 
@@ -613,17 +745,29 @@ II. Establecer, de manera conjunta con la Subdirección General de Administraci�
 
 III. Formular y administrar los presupuestos globales anuales de ingresos y egresos;
 
-IV. Administrar los recursos financieros con que cuenta el Infonavit y los depósitos puestos a su cuidado o disposición que no sean los recursos excedentes previstos en el párrafo tercero del artículo 43 de la Ley;
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+IV. Administrar los recursos financieros con que cuenta el Infonavit y los depósitos puestos a su cuidado o disposición que no sean los recursos previstos en el párrafo tercero del artículo 43 de la Ley ni aquellos transferidos a los fideicomisos o fondos del Instituto;
 
 V. Realizar los cálculos de los remanentes de operación de cada ejercicio para aplicar al pago de intereses de las Subcuentas de Vivienda de los derechohabientes y asegurar el rendimiento de los fondos, procurando incrementar el valor patrimonial de los mismos conforme a lo estipulado en la Ley del Infonavit;
 
-VI. Normar, formular, dar seguimiento y evaluar los criterios financieros para la regeneración de la vivienda recuperada, y
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
-VII. Normar, formular, dar seguimiento y evaluar los criterios financieros para los Recursos del Fondo revolvente de Recaudación Fiscal.
+VI. Normar, formular, dar seguimiento y evaluar los criterios financieros para la regeneración de la vivienda recuperada;
+
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+VII. Normar, formular, dar seguimiento y evaluar los criterios financieros para los Recursos del Fondo revolvente de Recaudación Fiscal, y
+
+> <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+VIII. Normar la operación financiera asociada a la captación y dispersión de los recursos financieros con que cuenta el Infonavit.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 34.
 
-Respecto a la planeación y seguimiento a programas, sus facultades y funciones son:
+Respecto a la planeación y seguimiento a programas, la Subdirección General de Planeación Financiera y Fiscalización tendrá las siguientes facultades y funciones:
 
 I. Diseñar y coordinar la planeación estratégica del Infonavit para formular e integrar el Plan Financiero y los programas de labores y de financiamientos;
 
@@ -649,17 +793,21 @@ VIII. Coordinar las acciones operativas de la Administración para la atención 
 
 IX. (DEROGADA, D.O.F. 25 DE MAYO DE 2022)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 35.
 
-Respecto al control financiero, sus facultades y funciones son:
+Respecto al control financiero, la Subdirección General de Planeación Financiera y Fiscalización tendrá las siguientes facultades y funciones:
 
 I. Vigilar la conciliación y el reflejo adecuado de las cifras e informes contables y financieros, y
 
 II. Dar seguimiento al cumplimiento de las disposiciones establecidas por la Comisión Nacional Bancaria y de Valores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 36.
 
-Respecto a la gestión y evaluación estratégica, sus facultades y funciones son:
+Respecto a la gestión y evaluación estratégica, la Subdirección General de Planeación Financiera y Fiscalización tendrá las siguientes facultades y funciones:
 
 I. Establecer y administrar los procesos, métodos y herramientas para identificar, definir, evaluar, priorizar, monitorear y gestionar integralmente las iniciativas y proyectos estratégicos institucionales;
 
@@ -675,9 +823,11 @@ IV. Establecer y operar los mecanismos y herramientas para la administración y 
 
 V. Llevar a cabo el seguimiento de la alineación de las Delegaciones a los objetivos institucionales que les corresponden.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 37.
 
-Respecto a la captación de recursos a través de fuentes alternas sus facultades y funciones son:
+Respecto a la captación de recursos a través de fuentes alternas la Subdirección General de Planeación Financiera y Fiscalización tendrá las siguientes facultades y funciones:
 
 I. Realizar estudios y análisis de los mercados financieros;
 
@@ -687,9 +837,11 @@ III. Asegurar la obtención de los recursos financieros provenientes de fuentes 
 
 IV. Administrar las relaciones del Infonavit con inversionistas, agencias calificadoras y participantes en el sistema financiero.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 38.
 
-Con relación a la identificación de necesidades de los usuarios, sus facultades y funciones son:
+Con relación a la identificación de necesidades de los usuarios, la Subdirección General de Planeación Financiera y Fiscalización tendrá las siguientes facultades y funciones:
 
 > <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
 
@@ -705,9 +857,11 @@ V. (DEROGADA, D.O.F. 25 DE MAYO DE 2022)
 
 VI. (DEROGADA, D.O.F. 25 DE MAYO DE 2022)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 39.
 
-Una vez identificadas las necesidades de los usuarios y diseñados los productos y programas, deberá:
+Una vez identificadas las necesidades de los usuarios y diseñados los productos y programas, la Subdirección General de Planeación Financiera y Fiscalización deberá:
 
 I. Especificar los servicios que cada uno de dichos productos genere, en cada uno de los canales propios y externos del Infonavit;
 
@@ -721,15 +875,21 @@ V. Normar todo lo anterior en los canales externos de su responsabilidad;
 
 VI. Asegurar la implantación correcta de todos los procesos de atención en todos los canales de su responsabilidad, y
 
-VII. Recibir, procesar y analizar los resultados de encuestas, quejas de usuarios, reportes internos, niveles de servicio e indicadores para implantar correcciones inmediatas y soluciones permanentes.
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+VII. Recibir, procesar y analizar los resultados de encuestas, quejas y denuncias de usuarios, reportes internos, niveles de servicio e indicadores para implantar correcciones inmediatas y soluciones permanentes.
+
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 40.
 
-Respecto a la recaudación de los recursos, deberá administrar la base de datos de patrones y trabajadores sobre el pago de aportaciones y entero de descuentos.
+Respecto a la recaudación de los recursos, la Subdirección General de Planeación Financiera y Fiscalización deberá administrar la base de datos de patrones y trabajadores sobre el pago de aportaciones y entero de descuentos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 41.
 
-Respecto a la fiscalización, sus facultades y funciones son:
+Respecto a la fiscalización, la Subdirección General de Planeación Financiera y Fiscalización tendrá las siguientes facultades y funciones:
 
 I. Ejercer las atribuciones que corresponden al Infonavit en su carácter de organismo fiscal autónomo;
 
@@ -751,9 +911,11 @@ IX. Supervisar, monitorear y apoyar las actividades que realizan las gerencias d
 
 X. Coordinar acciones en materia fiscal con otros organismos fiscales, incluidas las encaminadas a detectar, combatir y prevenir actos ilegales de evasión fiscal y de seguridad social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 42.
 
-Respecto a la administración de las aportaciones patronales al Fondo Nacional de la Vivienda, sus facultades y funciones son:
+Respecto a la administración de las aportaciones patronales al Fondo Nacional de la Vivienda, la Subdirección General de Planeación Financiera y Fiscalización tendrá las siguientes facultades y funciones:
 
 I. Administrar el Fondo de Ahorro y la Subcuenta de Vivienda de cada trabajador, salvo los recursos excedentes en términos del artículo 43 tercer párrafo de la Ley, y
 
@@ -765,9 +927,11 @@ Para efectos de lo establecido en este capítulo, el Subdirector o Subdirectora 
 
 ### Capítulo VII. De la Subdirección General de Crédito
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 44.
 
-Respecto a la originación crediticia, sus facultades y funciones son:
+Respecto a la originación crediticia, la Subdirección General de Crédito tendrá las siguientes facultades y funciones:
 
 I. Diseñar, desarrollar e implantar alternativas de financiamiento a soluciones de vivienda para atender las necesidades de los derechohabientes del Infonavit, bajo la observancia del marco jurídico aplicable y asegurando su viabilidad financiera;
 
@@ -785,9 +949,11 @@ VII. Normar y ejecutar el proceso de originación hasta la titulación del créd
 
 VIII. Supervisar, monitorear y apoyar las actividades que realizan las gerencias de las Delegaciones que competen a su área, a fin de dar seguimiento a la ejecución y desarrollo de los programas y proyectos de la Institución en beneficio de los usuarios del Infonavit.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 45.
 
-Respecto a la preservación de la calidad de la originación crediticia, sus facultades y funciones son:
+Respecto a la preservación de la calidad de la originación crediticia, la Subdirección General de Crédito tendrá las siguientes facultades y funciones:
 
 I. Controlar, verificar y monitorear las operaciones crediticias;
 
@@ -805,21 +971,29 @@ VI. Normar, ejecutar y administrar el proceso de avalúos.
 
 La Subdirección General de Crédito realizará las funciones de análisis, evaluación e interpretación de información, para la toma de decisiones estratégicas en el diseño de productos de financiamiento y canales de difusión, con base en las plataformas institucionales que permitan el fortalecimiento de la originación.
 
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 47.
 
-Respecto a la administración del proceso de originación de crédito, deberá dirigir, coordinar y controlar los procedimientos y actividades inherentes al mismo, incluyendo el registro de oferta, recepción y registro de solicitudes de crédito, proceso operativo del seguro de calidad, verificación de Línea IV, titulación, inscripción ante los registros públicos de propiedad e incorporación al Archivo Nacional de Expedientes de Crédito, así como todos aquellos relacionados con esta función.
+Respecto a la administración del proceso de originación de crédito, la Subdirección General de Crédito deberá dirigir, coordinar y controlar los procedimientos y actividades inherentes al mismo, incluyendo el registro de oferta, recepción y registro de solicitudes de crédito, proceso operativo del seguro de calidad, verificación de Línea IV, titulación, inscripción ante los registros públicos de propiedad e incorporación al Archivo Nacional de Expedientes de Crédito, así como todos aquellos relacionados con esta función.
+
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 48.
 
-Respecto a la operación hipotecaria, conducir los procesos y sistemas de registro, y originación de créditos conforme a lo establecido en la normatividad correspondiente.
+Respecto a la operación hipotecaria, la Subdirección General de Crédito deberá conducir los procesos y sistemas de registro, y originación de créditos conforme a lo establecido en la normativa correspondiente.
+
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 49.
 
-Con respecto a la calidad y el valor patrimonial de las viviendas y a la mejora del nivel de vida de los acreditados, deberá promover que las viviendas adquiridas por derechohabientes reúnan las mejores condiciones de calidad, ubicación y precio acorde a las necesidades de pago.
+Con respecto a la calidad y el valor patrimonial de las viviendas y a la mejora del nivel de vida de los acreditados, la Subdirección General de Crédito deberá promover que las viviendas adquiridas por derechohabientes reúnan las mejores condiciones de calidad, ubicación y precio acorde a las necesidades de pago.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 50.
 
-Una vez identificadas las necesidades de los usuarios y diseñados los productos y programas, deberá:
+Una vez identificadas las necesidades de los usuarios y diseñados los productos y programas, la Subdirección General de Crédito deberá:
 
 I. Proveer a las áreas del Instituto la información referente a las alternativas de financiamiento y al proceso de originación de crédito, para su comunicación a la derechohabiencia;
 
@@ -835,11 +1009,15 @@ VI. Normar todo lo anterior en los canales externos de su responsabilidad;
 
 VII. Asegurar la implantación correcta de todos los procesos de atención en todos los canales de su responsabilidad, y
 
-VIII. Recibir, procesar y analizar los resultados de encuestas, quejas de usuarios, reportes internos, niveles de servicio e indicadores para implantar correcciones inmediatas y soluciones permanentes.
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+VIII. Recibir, procesar y analizar los resultados de encuestas, quejas y denuncias de usuarios, reportes internos, niveles de servicio e indicadores para implantar correcciones inmediatas y soluciones permanentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 51.
 
-Con respecto a la estrategia, análisis y evaluación de crédito:
+Con respecto a la estrategia, análisis y evaluación de crédito, la Subdirección General de Crédito tendrá las siguientes facultades y funciones:
 
 I. Coordinar la estrategia para promover el diseño e implementación de soluciones de crédito flexibles e innovadoras, enfocadas en facilitar el acceso de los derechohabientes a opciones de financiamiento acordes con sus necesidades de ubicación y espacio, incluyendo el diseño e implementación de acciones afirmativas en beneficio de trabajadores derechohabientes no atendidos;
 
@@ -853,17 +1031,27 @@ IV. Las demás que le señalen las disposiciones normativas institucionales y, e
 
 ### Capítulo VIII. De la Subdirección General de Gestión de Cartera
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 52.
 
-Respecto a la administración y recuperación del crédito, sus facultades y funciones son:
+Respecto a la administración y recuperación del crédito dentro del segmento de cobranza social, la Subdirección General de Gestión de Cartera tendrá las siguientes facultades y funciones:
 
 I. Planear, diseñar e instrumentar estrategias para la adecuada administración del portafolio hipotecario y del cobro de éste;
 
-II. Diseñar, ofrecer, instrumentar y monitorear soluciones de cobranza individuales o a la medida de las posibilidades y situación particular de cada acreditado, siempre y cuando éstas impliquen una recuperación que considere la situación real de la cartera;
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+II. Diseñar, ofrecer, instrumentar y monitorear soluciones de cobranza social individuales o a la medida de las posibilidades y situación particular de cada acreditado, siempre y cuando éstas impliquen una recuperación que considere la situación real de la cartera;
 
 III. Diseñar e instrumentar la cobranza social, a través de programas de facilidades de pago a los acreditados;
 
-IV. Establecer e instrumentar programas de abatimiento de cartera vencida y de recuperación para acreditados;
+> <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+III Bis. Presentar ante los órganos colegiados competentes, en coordinación con aquellas áreas que por sus facultades y funciones corresponda la intervención, los mecanismos que permitan atender y operar los casos no previstos en los procedimientos vigentes que se originen por diversas causas y que sean instruidos a través de resoluciones, dictámenes o recomendaciones;
+
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+IV. Establecer e instrumentar programas y soluciones de cobranza que permitan regularizar los créditos y promover la cultura de pago oportuno;
 
 V. Establecer mecanismos para la recuperación extrajudicial, vía mediación o justicia alternativa;
 
@@ -871,43 +1059,63 @@ VI. Analizar y determinar el nivel de riesgo y no pago por tipo de cartera, esta
 
 VII. Instrumentar mecanismos de control por los diferentes esquemas de recuperación de cartera;
 
-VIII. Emitir periódicamente estados de cuenta, impresos o de forma electrónica para el cobro de los créditos, así como información a los acreditados sobre la situación de su crédito;
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
-IX. Establecer los mecanismos de custodia y tenencia temporal de los expedientes de crédito requeridos en físico y en original al custodio;
+VIII. Emitir periódicamente estados de cuenta para el cobro de los créditos, así como información a los acreditados sobre la situación de su crédito;
+
+IX. (DEROGADA, D.O.F. 6 DE FEBRERO DE 2024)
 
 X. Normar la liberación de los gravámenes constituidos por el otorgamiento de los créditos;
 
-XI. Ejecutar las acciones pertinentes o gestionar las autorizaciones requeridas para la segregación y castigo de los créditos, que por sus características, no cuenten con los elementos suficientes para gestionar un juicio hipotecario ordinario, o bien, que por su alta precariedad social resultaría inequitativa la ejecución de las garantías hipotecarias, y
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+XI. Ejecutar las acciones pertinentes o gestionar las autorizaciones requeridas para la segregación en función de las estrategias que se implementen para tales efectos y castigo de los créditos que, por sus características, no cuenten con los elementos suficientes para gestionar un juicio hipotecario ordinario, o bien, que por su alta precariedad social resultaría inequitativa la ejecución de las garantías hipotecarias, y
 
 XII. En coordinación con la Subdirección General de Operaciones, supervisar, monitorear y apoyar las actividades que en materia de recuperación del crédito que realizan las áreas competentes de las Delegaciones y de los Cesi, a fin de dar atención, soporte y seguimiento a la ejecución y desarrollo de los programas sustantivos de la Institución en beneficio de los usuarios del Infonavit.
 
-> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 53.
 
-Respecto a la administración de activos recuperados de créditos otorgados en términos del artículo 42, fracción II de la Ley, sus facultades y funciones son:
+Respecto a la administración de activos recuperados que garantizaron créditos otorgados en términos del artículo 42, fracción II de la Ley, siempre y cuando se haya constituido garantía hipotecaria, la Subdirección General de Gestión de Cartera tendrá las siguientes facultades y funciones:
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
 
 I. Ofrecer, instrumentar y monitorear soluciones inmobiliarias individuales o en paquete, y, de manera conjunta con la Subdirección General de Crédito, establecer los mecanismos para promover la venta de activos recuperados, siempre y cuando éstas impliquen una recuperación que considere la situación real de los inmuebles;
 
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
 II. Incorporar a las soluciones inmobiliarias aquellas estrategias de rehabilitación orientadas a preservar o mejorar el entorno urbano, con base en las políticas establecidas por la Dirección General o el Consejo de Administración;
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
 
 III. Someter a la autorización del Consejo de Administración, a través del Comité de Riesgos, las propuestas de soluciones de cobranza e inmobiliarias que impliquen una recuperación inferior al valor de avalúo;
 
-IV. Someter, en coordinación con la Secretaría General y Jurídica, a la autorización del Consejo de Administración, a través del Comité de Riesgos, las propuestas de comodato o donaciones a favor de entidades gubernamentales, instituciones de asistencia pública o asociaciones civiles, siempre y cuando se sujeten a la condición de que dichos inmuebles serán utilizados, exclusivamente, para fines sociales que favorezcan a la comunidad en la que se ubican o sirvan para brindar seguridad, rehabilitar o mejorar el entorno socioespacial;
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+IV. Someter, en coordinación con la Secretaría General y Jurídica, a la autorización del Consejo de Administración, a través del Comité de Riesgos, las propuestas de comodato o donaciones a favor de entidades gubernamentales, instituciones públicas o de asistencia privada, así como asociaciones civiles, siempre y cuando se sujeten a la condición de que dichos inmuebles serán utilizados, exclusivamente, para fines sociales que favorezcan a la comunidad en la que se ubican o sirvan para brindar seguridad, rehabilitar o mejorar el entorno socioespacial;
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
 
 V. Elaborar estudios, estrategias y/o instrumentos de planeación urbana relacionados con temas de rehabilitación de vivienda y regeneración socioespacial, desarrollo urbano, movilidad, transporte y gestión del suelo;
 
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
 VI. Proponer y ejecutar iniciativas que incidan en la mejora de las condiciones y calidad de la vivienda y su entorno urbano;
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
 
 VII. Diseñar, ejecutar y supervisar proyectos de mejora y aprovechamiento de espacios públicos, unidades habitacionales y desarrollo urbano, y
 
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
 VIII. Establecer y a través de terceros, ejecutar las acciones de rehabilitación y reconstrucción de la vivienda recuperada para que se cumpla con los criterios nacionales de vivienda adecuada, de conformidad con lo aprobado por el Consejo de Administración.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 54.
 
-Respecto de las acciones de rehabilitación de vivienda, regeneración urbana y atención de desastres naturales:
+Respecto de las acciones de rehabilitación de vivienda, regeneración urbana y atención de desastres naturales, la Subdirección General de Gestión de Cartera tendrá las siguientes facultades y funciones:
 
 > <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
 
@@ -917,13 +1125,19 @@ I. Ejecutar, administrar y evaluar, de acuerdo con los procedimientos que se est
 
 II. Fomentar, de acuerdo con los procedimientos que se establezcan, el mantenimiento de las viviendas y de la imagen urbana de unidades habitacionales;
 
-III. Instrumentar, de acuerdo con los procedimientos que se establezcan, las acciones de rehabilitación de las viviendas con crédito vigente que sean afectadas por desastres naturales, en coordinación con la Subdirección General de Planeación Financiera y Fiscalización, y
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
-IV. Establecer, respecto a las acciones referidas en las fracciones anteriores, la coordinación necesaria y procedente con los tres órdenes de gobierno, el sector privado, el sector social y las instituciones de asistencia privada.
+III. Instrumentar, de acuerdo con los procedimientos que se establezcan, las acciones de rehabilitación de las viviendas con crédito vigente que sean afectadas por desastres naturales, y
+
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+IV. Establecer, respecto a las acciones referidas en las fracciones anteriores, la coordinación necesaria y procedente con los tres órdenes de gobierno, el sector privado, el sector social y las instituciones de asistencia pública y privada.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 55.
 
-Una vez identificadas las necesidades de los usuarios y diseñado los productos y programas, deberá:
+Una vez identificadas las necesidades de los usuarios y diseñados los productos y programas, la Subdirección General de Gestión de Cartera deberá:
 
 I. Especificar los servicios que cada uno de dichos productos genere en cada uno de los canales propios y externos del Infonavit;
 
@@ -941,39 +1155,63 @@ VII. Recibir, procesar y analizar los resultados de encuestas, quejas de usuario
 
 ### Capítulo IX. De la Subdirección General de Operaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 56.
 
-Respecto al servicio que el Infonavit presta a derechohabientes, acreditados, patrones y público usuario en general, mediante los diversos canales de atención de que dispone, sus facultades y funciones son:
+Respecto al servicio que el Infonavit presta a derechohabientes, acreditados, patrones y público usuario en general, mediante los diversos canales de atención de que dispone, la Subdirección General de Operaciones tendrá las siguientes facultades y funciones:
 
 I. Asegurar la entrega de productos y servicios con oportunidad y calidad, buscando superar las expectativas de los usuarios;
 
 II. Recibir por los canales institucionales establecidos todas las quejas, denuncias, infracciones, solicitudes y manifestaciones relacionadas con el Instituto; para posteriormente remitirlas al área competente;
 
-III. Diseñar, normar y operar los canales de atención en las vías tradicionales y digitales;
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
-IV. Fomentar y facilitar el uso de los canales digitales;
+III. Diseñar, normar, administrar y operar los canales de atención dirigidos a las y los derechohabientes y acreditados en las vías tradicionales y digitales;
 
-V. Establecer mecanismos para asegurar la homogeneidad y consistencia de la información en los diversos canales, así como la calidad y disponibilidad de los servicios;
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
-VI. Recibir de las distintas áreas del Infonavit, especificaciones de productos y servicios a implantar en los canales internos; desarrollar los procesos de atención requeridos y definir conjuntamente los niveles de servicio y los mecanismos de enlace entre los procesos de atención y los de operación;
+IV. Fomentar y facilitar el uso de los canales digitales de atención dirigidos a las y los derechohabientes y acreditados;
+
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+V. Establecer mecanismos para asegurar la homogeneidad y consistencia de la información en los diversos canales de atención dirigidos a las y los derechohabientes y acreditados, así como la calidad y disponibilidad de los servicios;
+
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+VI. Recibir de las distintas áreas del Infonavit, especificaciones de productos y servicios a implantar en los canales de atención dirigidos a las y los derechohabientes y acreditados; desarrollar los procesos de atención requeridos y definir conjuntamente los mecanismos de enlace entre los procesos de atención y los de operación;
 
 VII. Solicitar a las distintas áreas del Infonavit la atención ágil y oportuna de los requerimientos relacionados con los trámites y servicios que se brindan en las Delegaciones y Cesi;
 
 VIII. Mantener permanentemente actualizado el catálogo institucional de servicios;
 
-IX. Desarrollar y mantener actualizado el modelo de atención en los canales;
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+IX. Desarrollar y mantener actualizado el modelo de atención en los canales de atención dirigidos a las y los derechohabientes y acreditados;
 
 X. Administrar la Base Única de Contactos de conformidad con la normatividad aplicable;
 
-XI. Asegurar la correcta implementación de las iniciativas de orientación que se operen en los canales internos, y
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
-XII. Garantizar la emisión oportuna de informes y estadísticas que permitan medir la eficiencia de la operación de los canales.
+XI. Asegurar la correcta implementación de las iniciativas de orientación que se operen en los canales internos;
+
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+XII. Garantizar la emisión oportuna de informes y estadísticas que permitan medir la eficiencia de la operación de los canales de atención dirigidos a las y los derechohabientes y acreditados; y
+
+> <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+XIII. Recibir, procesar y analizar los resultados de encuestas, quejas de usuarios, reportes internos, niveles de servicio e indicadores de los canales de atención dirigidos a las y los derechohabientes y acreditados, para proponer correcciones inmediatas y soluciones permanentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 57.
 
-Respecto a la excelencia en los servicios entregados por el Infonavit, a través de canales propios, tendrá las siguientes facultades y funciones:
+Respecto a la excelencia en los servicios entregados por el Infonavit, a través de canales de atención, la Subdirección General de Operaciones tendrá las siguientes facultades y funciones:
 
-I. Normar los criterios de calidad para entrega de servicios e implantar los mecanismos para asegurar que los derechohabientes, acreditados, patrones y público en general, reciban servicios de excelencia;
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+I. Implementar los criterios de calidad para entrega de servicios e implantar los mecanismos para asegurar que los derechohabientes, acreditados, patrones y público en general, reciban servicios de excelencia;
 
 II. Gestionar el desarrollo de una Cultura de Excelencia en el Servicio;
 
@@ -983,9 +1221,13 @@ IV. Gestionar la adecuación de los modelos de operación y procesos para mejora
 
 V. Informar periódicamente a los Órganos Colegiados sobre la calidad de los servicios entregados.
 
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 58.
 
-La Subdirección General de Operaciones, fungirá como enlace entre las Delegaciones y el Director o Directora General y será responsable de supervisar e integrar las actividades de las Delegaciones y Cesi, así como impulsar las acciones a nivel regional, para que las Delegaciones contribuyan al logro de los objetivos institucionales.
+La Subdirección General de Operaciones, fungirá como enlace entre las Delegaciones y el Director o Directora General y será responsable de coordinar, supervisar e integrar las actividades de las Delegaciones y Cesi, así como impulsar las acciones a nivel regional, para que las Delegaciones contribuyan al logro de los objetivos institucionales.
+
+La Subdirección General de Operaciones deberá coadyuvar con el Director o Directora General y demás áreas competentes de la Administración en la atención de los requerimientos administrativos y operativos que les sean dirigidos a las Delegaciones y Cesi.
 
 ###### ARTÍCULO 59.
 
@@ -999,21 +1241,37 @@ Para el mejor cumplimiento de los objetivos del Infonavit, las funciones operati
 
 Con el objetivo de impulsar acciones a nivel regional que contribuyan al mejoramiento del servicio y la atención a los usuarios, las Delegaciones se organizarán en ocho Regiones:
 
-a. Noroeste (Baja California Norte, Baja California Sur, Chihuahua, Durango, Sinaloa y Sonora);
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
-b. Noreste (Coahuila, Nuevo León y Tamaulipas);
+I. Noroeste (Baja California, Baja California Sur, Chihuahua, Durango, Sinaloa y Sonora);
 
-c. Occidente (Colima, Jalisco, Michoacán y Nayarit);
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
-d. Este (Hidalgo, Puebla, Tlaxcala y Veracruz)
+II. Noreste (Coahuila, Nuevo León y Tamaulipas);
 
-e. Centro norte (Aguascalientes, Guanajuato, Querétaro, San Luis Potosí y Zacatecas);
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
-f. Centro Sur (Ciudad de México, Estado de México y Morelos)
+III. Oeste (Colima, Jalisco, Michoacán y Nayarit);
 
-g. Suroeste (Chiapas, Guerrero y Oaxaca)
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
-h. Sureste (Campeche, Quintana Roo, Tabasco y Yucatán).
+IV. Este (Hidalgo, Puebla, Tlaxcala y Veracruz);
+
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+V. Centro norte (Aguascalientes, Guanajuato, Querétaro, San Luis Potosí y Zacatecas);
+
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+VI. Centro Sur (Ciudad de México, Estado de México y Morelos);
+
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+VII. Suroeste (Chiapas, Guerrero y Oaxaca), y
+
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+VIII. Sureste (Campeche, Quintana Roo, Tabasco y Yucatán).
 
 La Coordinación de cada región, recaerá en la Subdirección General de Operaciones, conforme a lo establecido en los Lineamientos de Operación de las Delegaciones Regionales.
 
@@ -1029,9 +1287,11 @@ III. Determinar las medidas preventivas y correctivas que se aplicarán en los C
 
 Para efectos de lo establecido en este artículo, el Subdirector o Subdirectora General de Operaciones se auxiliará o será asistido para el trámite y resolución de los asuntos de su competencia por el personal a su cargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 63.
 
-Respecto a la supervisión de los Cesi, las Delegaciones, tendrán las siguientes facultades y funciones:
+Respecto a la supervisión de los Cesi, las Delegaciones tendrán las siguientes facultades y funciones:
 
 I. Analizar el funcionamiento de los Cesi y proponer a la Subdirección General de Operaciones, las medidas preventivas y correctivas que se aplicaran, a fin de resolver los problemas identificados.
 
@@ -1039,15 +1299,21 @@ II. Administrar en apego a los lineamientos y directrices que establezca la Subd
 
 III. Ejercer las facultades que correspondan al Instituto en su carácter de organismo fiscal autónomo.
 
+> <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+IV. Supervisar que los Cesi, en apego a la normativa interna y leyes en materia de protección de datos personales, operen los sistemas institucionales para el tratamiento de datos biométricos a efecto de identificar a las personas derechohabientes en la atención de sus trámites.
+
 ###### ARTÍCULO 64.
 
 Las Delegaciones y los Cesi se apoyarán en las Comisiones Consultivas Regionales, para impulsar acciones locales que contribuyan al logro de los objetivos institucionales
 
 ### Capítulo X. De la Subdirección General de Administración y Recursos Humanos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 65.
 
-En cuanto a la administración de recursos humanos, sus facultades y funciones son:
+En cuanto a la administración de recursos humanos, la Subdirección General de Administración y Recursos Humanos tendrá las siguientes facultades y funciones:
 
 I. Negociar y dar cumplimiento al contrato colectivo de trabajo, así como atender los conflictos laborales que surjan entre el Infonavit y sus trabajadores;
 
@@ -1065,25 +1331,35 @@ VII. Establecer lineamientos en materia de gastos de operación del capital huma
 
 VIII. Administrar los pasivos laborales, con criterios que aseguren su viabilidad en el mediano y largo plazo;
 
-IX. Medir el clima laboral y establecer planes de acción para mantener un buen ambiente de trabajo;
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+IX. Medir el clima laboral, y establecer los planes de acción para promover un entorno organizacional favorable;
 
 X. Participar en calidad de testigo en los eventos de entrega-recepción de oficinas y transmisión del conocimiento, y
 
-XI. Fomentar la aplicación de prácticas que garanticen la equidad de género, prevengan el hostigamiento y acoso sexual y laboral, y promuevan la no discriminación en el acceso al empleo, el desarrollo profesional, las oportunidades de capacitación y promoción.
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+XI. Fomentar la aplicación de prácticas en materia de igualdad, inclusión, no discriminación y respeto a los derechos humanos, para prevenir el hostigamiento y acoso sexual y laboral; promover la igualdad laboral en el acceso al empleo, el desarrollo profesional, la capacitación y la promoción.
+
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 66.
 
-Respecto a la situación patrimonial de los trabajadores del Infonavit, deberá asegurar que éstos cumplan adecuadamente con su presentación y actualización, de manera coordinada con la Contraloría General.
+Respecto a la situación patrimonial de los trabajadores del Infonavit, la Subdirección General de Administración y Recursos Humanos deberá asegurar que éstos cumplan adecuadamente con su presentación y actualización, de manera coordinada con la Contraloría General.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 67.
 
-Respecto a la administración de los recursos materiales y servicios, sus facultades y funciones son:
+Respecto a la administración de los recursos materiales y servicios, la Subdirección General de Administración y Recursos Humanos tendrá las siguientes facultades y funciones:
 
 > <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
 
 I. Administrar los bienes muebles e inmuebles patrimoniales del Infonavit;
 
-II. Establecer los mecanismos de custodia de los expedientes de crédito y su administración, así como la forma para ser consultados y/o su entrega temporal ante requerimientos de originales por área o entidad facultada para ello, asimismo, administrar con el apoyo de la Subdirección General de Tecnologías de Información, los archivos de concentración e históricos de documentos del Infonavit, exceptuando los expedientes de Crédito y de Recaudación Fiscal;
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+II. Establecer los mecanismos de guarda y custodia de los expedientes de crédito y su administración, así como la forma para ser consultados y/o su entrega temporal ante requerimientos de originales por área o entidad facultada para ello, asimismo, administrar con el apoyo de la Subdirección General de Tecnologías de Información, los archivos de concentración e históricos de documentos del Infonavit, exceptuando los expedientes de Crédito y de Recaudación Fiscal;
 
 III. Normar y controlar los procesos de adquisiciones y arrendamientos de bienes y servicios;
 
@@ -1101,23 +1377,35 @@ VII. Fungir como área coordinadora de archivos en términos de la Ley General d
 
 VIII. Normar, supervisar y controlar los procesos de constitución, operación y extinción de fideicomisos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 68.
 
-Respecto a la administración del presupuesto de operación, sus facultades y funciones son:
+Respecto a la administración del presupuesto de operación, la Subdirección General de Administración y Recursos Humanos tendrá las siguientes facultades y funciones:
 
-I. Formular y administrar los presupuestos anuales referentes al Gasto de Administración, Operación y Vigilancia y a inversiones propias;
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
-II. Administrar el sistema propio de control para el presupuesto del gasto de administración, operación y vigilancia y de inversiones propias;
+I. Formular y administrar los presupuestos anuales referentes al Gasto de Administración, Operación y Vigilancia, Otros Gastos e Inversiones Propias;
 
-III. Administrar y controlar los recursos destinados para gastos judiciales o extrajudiciales en la recuperación de cartera y a las acciones de fiscalización y profesionalización del personal de recaudación fiscal, y
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
-IV. Dar el adecuado seguimiento del desempeño presupuestario del Gasto de Administración, Operación y Vigilancia y de las inversiones propias en las Delegaciones.
+II. Administrar el sistema propio de control para el presupuesto del Gasto de Administración, Operación y Vigilancia, Otros Gastos e Inversiones Propias, y
+
+III. (DEROGADA, D.O.F. 6 DE FEBRERO DE 2024)
+
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+IV. Dar el adecuado seguimiento del desempeño presupuestario del Gasto de Administración, Operación y Vigilancia, Otros Gastos e Inversiones propias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 69.
 
-Respecto a la administración de seguros institucionales, sus facultades y funciones son:
+Respecto a la administración de seguros institucionales, la Subdirección General de Administración y Recursos Humanos tendrá las siguientes facultades y funciones:
 
-I. Formalizar el proceso de adquisición para que las Subdirecciones Generales y Coordinaciones Generales contraten los seguros, coberturas y servicios financieros en el ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+I. Formalizar el proceso de adquisición de los seguros institucionales y coberturas en el ámbito de su competencia en coordinación con las áreas usuarias que así lo requieran;
 
 II. Apoyar y proporcionar asesoría a las distintas áreas que operan los contratos de servicios financieros que contrata el Instituto;
 
@@ -1125,9 +1413,11 @@ III. Resguardar las pólizas de seguros, y
 
 IV. Administrar la cobertura de calidad de la vivienda y propiciar la instrumentación del seguro de calidad de la vivienda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 70.
 
-Respecto al diseño, administración y mejora de procesos, sus facultades y funciones son:
+Respecto al diseño, administración y mejora de procesos, la Subdirección General de Administración y Recursos Humanos tendrá las siguientes facultades y funciones:
 
 I. Coordinar el desarrollo y formalización de modelos de operación, políticas y procedimientos requeridos para la operación de las áreas del Infonavit;
 
@@ -1140,6 +1430,30 @@ IV. Definir la arquitectura de procesos y asegurar su alineación con la estrate
 V. Administrar el portafolio de procesos, y
 
 VI. Impulsar la adopción de roles y responsabilidades que permitan evolucionar constantemente en materia de administración de procesos.
+
+> <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+###### ARTÍCULO 70 Bis.
+
+Respecto del Control de Pagos, la Subdirección General de Administración y Recursos Humanos tendrá las siguientes facultades y funciones:
+
+I. Coordinar el proceso de liberación de cuentas por pagar a acreedores de bienes y servicios;
+
+II. Coordinar la contabilización y procesamiento de pagos asociados a la nómina de las y los trabajadores en activo y jubilados;
+
+III. Administrar el proceso de contabilización de depreciación y amortización de los activos del Instituto; y
+
+IV. Gestionar el proceso de viáticos institucionales y fondos fijos de caja.
+
+> <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+###### ARTÍCULO 70 Ter.
+
+Respecto de los procesos administrativos y contables, así como los sistemas relacionados, la Subdirección General de Administración y Recursos Humanos tendrá las siguientes facultades y funciones:
+
+I. Supervisar la funcionalidad operativa de los sistemas vinculados a los procesos administrativos y contables, así como la gestión de sus accesos y datos maestros; y
+
+II. Brindar soporte, capacitación y orientación respecto del funcionamiento operativo de los sistemas relacionados con los procesos administrativos y contables.
 
 ### Capítulo XI. De la Subdirección General de Comunicación
 
@@ -1193,19 +1507,23 @@ XI. Gestionar y coordinar a nivel institucional las investigaciones cualitativas
 
 ### Capítulo XII. De la Subdirección General de Tecnologías de Información
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 72.
 
-Respecto al desarrollo y uso de tecnologías de información, sus facultades y funciones son:
+Respecto al desarrollo y uso de tecnologías de información, la Subdirección General de Tecnologías de Información tendrá las siguientes facultades y funciones:
 
 I. Definir e implementar la estrategia tecnológica del Infonavit;
 
-II. Desarrollar e implantar los sistemas de informática que requiere el Infonavit;
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+II. Desarrollar y actualizar los sistemas de informática que requiere el Infonavit;
 
 III. Administrar los activos informáticos;
 
 IV. Implementar, monitorear y dar soporte a la infraestructura tecnológica y sistemas informáticos;
 
-V. Monitorear y dar soporte a los procesos operativos;
+V. (DEROGADA, D.O.F. 6 DE FEBRERO DE 2024)
 
 VI. Definir, diseñar, administrar e implementar la arquitectura tecnológica y la plataforma e infraestructura de comunicaciones y tecnologías de la información del Infonavit, así como dirigir su rediseño técnico y evolución, y
 
@@ -1213,7 +1531,7 @@ VII. Establecer la arquitectura de seguridad de la información, así como proce
 
 ###### ARTÍCULO 73.
 
-En cuanto a la gestión de la seguridad de la información, deberá definir, establecer, mantener y monitorear una estrategia de seguridad de la información alineada a los objetivos del Infonavit.
+(DEROGADO, D.O.F. 6 DE FEBRERO DE 2024)
 
 ### Capítulo XIII. De la Coordinación General de Riesgos
 
@@ -1223,33 +1541,55 @@ La Coordinación General de Riesgos tendrá las siguientes facultades y funcione
 
 I. Establecer y difundir la normatividad operativa de administración de riesgos al personal del Infonavit;
 
-II. Proponer para aprobación del Consejo de Administración, a través del Comité de Riesgos, la normatividad, metodologías, modelos, límites y parámetros para la administración de riesgos que el Infonavit requiera para su adecuado funcionamiento, así como sus actualizaciones anuales;
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
-III. Definir la estrategia y coordinar las actividades de la Institución en términos de la identificación, medición y administración del Riesgo Operativo, Legal, Tecnológico, de Mercado, de Crédito, de Contraparte y de Liquidez, en apego a la normatividad aplicable;
+II. Proponer para aprobación del Consejo de Administración, a través del Comité de Riesgos, la normativa, metodologías, modelos, límites, niveles de tolerancia y parámetros para la administración de riesgos del Infonavit para identificar, medir, vigilar, limitar, informar y revelar los distintos tipos de riesgo a que se encuentra expuesto y que requiera para su adecuado funcionamiento, estimar los impactos cuantitativos y cualitativos de las contingencias operativas, así como sus actualizaciones anuales;
 
-IV. Asegurar que en las áreas del Infonavit se implementen los indicadores estratégicos de riesgos, que fueron identificados y aprobados por la Subdirección General responsable;
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
-V. Informar periódicamente al Consejo de Administración, a través del Comité de Riesgos, la situación de las exposiciones de riesgo del Infonavit, y
+III. Definir la estrategia y coordinar las actividades de la Institución en términos de la identificación, medición y administración del riesgo operativo, legal, tecnológico, de mercado, de crédito, de extensión, de contraparte, de liquidez y no cuantificables, en apego a la normativa aplicable;
 
-VI. Evaluar los riesgos y emitir opinión sobre los nuevos productos que son propuestos por las áreas del Infonavit.
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+IV. Asegurar que en las áreas del Infonavit se implementen los indicadores de riesgos que fueron identificados y aprobados por la Subdirección General, Coordinación General, Contraloría o Secretaría responsable;
+
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+V. Informar periódicamente al Consejo de Administración, a través del Comité de Riesgos, la información mandatada en las disposiciones establecidas por la Comisión Nacional Bancaria y de Valores, y
+
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+VI. Evaluar los riesgos y emitir opinión sobre los nuevos productos y servicios que son propuestos por las áreas del Infonavit.
+
+> <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+La Coordinación General de Riesgos podrá tomar en cuenta las mejores prácticas nacionales e internacionales que hayan sido adoptadas con relación al ejercicio de sus facultades y funciones.
+
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 75.
 
-Con relación al cálculo de reservas y al cómputo del Índice de Capitalización deberá realizar dichos cálculos en apego a la normativa aplicable y reportar los resultados de manera periódica.
+Con relación al cálculo de reservas y al cómputo del Índice de Capitalización, la Coordinación General de Riesgos deberá realizar dichos cálculos en apego a la normativa aplicable y reportar los resultados de manera periódica.
+
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 76.
 
-Respecto al riesgo operativo y tecnológico deberá identificar y documentar los riesgos implícitos a los procesos de la Institución, así como establecer los Niveles de Tolerancia al Riesgo para cada tipo de riesgo identificado.
+Respecto al riesgo operativo y tecnológico, la Coordinación General de Riesgos deberá identificar y documentar los riesgos implícitos a los procesos de la Institución, así como establecer los Niveles de Tolerancia al Riesgo para cada tipo de riesgo identificado.
+
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 77.
 
-Utilizar las plataformas institucionales para calibrar los parámetros de los modelos de cálculo de los riesgos del Instituto.
+La Coordinación General de Riesgos deberá utilizar las plataformas institucionales para calibrar los parámetros de los modelos de cálculo de los riesgos del Instituto.
 
 ### Capítulo XIV. Coordinación General de Inversiones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 78.
 
-Respecto a la administración de recursos financieros excedentes a que se refiere el artículo 43, tercer párrafo, de la Ley del Infonavit, sus facultades y funciones son:
+Respecto a la administración de recursos financieros a que se refiere el artículo 43, tercer párrafo, de la Ley del Infonavit, la Coordinación General de Inversiones contará con las siguientes facultades y funciones:
 
 I. Administrar el fondo al que se traspasen los recursos que le sean encomendados;
 
@@ -1271,9 +1611,11 @@ VIII. Las demás que se establezcan en otros instrumentos normativos.
 
 La Coordinación General de Inversiones podrá fungir como instancia de consulta y asesoría del Instituto en materia de inversiones.
 
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 80.
 
-Por determinación del Consejo de Administración, podrá mandatarse a la Coordinación General de Inversiones la ejecución de las estrategias de inversión en valores de otros vehículos constituidos por el Instituto, previo análisis de la capacidad y disponibilidad de recursos con que cuente.
+Por determinación del Consejo de Administración, en apego a las normas de operaciones de inversión, podrá mandatarse a la Coordinación General de Inversiones la ejecución de las estrategias de inversión en valores de otros vehículos constituidos por el Instituto, previo análisis de la capacidad y disponibilidad de recursos con que cuente.
 
 ## TRANSITORIOS
 
@@ -1308,3 +1650,17 @@ D.O.F. 13 DE FEBRERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE APRUEBAN LAS MODIFICACIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES".]
 
 Único. Las presentes modificaciones al Estatuto Orgánico del Instituto del Fondo Nacional de la Vivienda para los Trabajadores entrarán en vigor a partir de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “RESOLUCIÓN POR LA QUE SE REFORMA EL ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES”.]
+
+Primero. Las presentes modificaciones al Estatuto Orgánico del Instituto del Fondo Nacional de la Vivienda para los Trabajadores entrarán en vigor a partir de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las referencias que se hagan y las atribuciones que se otorgan en otras normas, procesos, procedimientos, manuales y demás disposiciones, así como en contratos y convenios a las áreas del Infonavit, se entenderán hechas o conferidas a las áreas cuya competencia corresponda en términos de lo dispuesto por la presente Resolución.
+
+Las demás disposiciones del Estatuto Orgánico del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, publicadas en el Diario Oficial de la Federación el 25 de mayo de 2022 y el 13 de febrero de 2023 que no hubiesen sido objeto de cambios en términos de la presente Resolución permanecerán vigentes.
+
+Tercero. Dentro de los 180 días naturales posteriores a la publicación de la presente Resolución en el Diario Oficial de la Federación, la Subdirección General de Administración y Recursos Humanos, emitirá el Manual General de Organización, derivado de los cambios de atribuciones y funciones.
+
+Cuarto. Se ordena su publicación en el Diario Oficial de la Federación.
