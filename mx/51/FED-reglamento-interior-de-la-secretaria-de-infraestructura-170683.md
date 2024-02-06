@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-infraestructura-170683"
 country: "mx"
 rank: "reglamento"
 publication_date: "2024-01-29"
-last_updated: "2024-01-29"
+last_updated: "2024-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170683&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2024-01-24"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE FEBRERO DE 2024 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION DEL 6 DE FEBRERO DE 2024.]</small>
 
 Reglamento publicado en el Número 27 del Diario Oficial de la Federación, el lunes 29 de enero de 2024.
 
@@ -1561,7 +1561,9 @@ CUARTO. Las referencias que se realicen en otras disposiciones a la Secretaría 
 
 QUINTO. Los asuntos en trámite a la entrada en vigor de este ordenamiento, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia.
 
-SEXTO. Todas las referencias que hagan mención a la Subsecretaría de Comunicaciones, a la Dirección General de Protección y Medicina Preventiva en el Transporte, a la Dirección General de Política de Telecomunicaciones y Radiodifusión, a la Coordinación de la Sociedad de la Información y el Conocimiento, a la Dirección General de Programación, Organización y Presupuesto, a la Dirección General de Recursos Humanos, a la Dirección General de Recursos Materiales, a la Unidad de Tecnologías de Información y Comunicaciones, a la Coordinación General de Centros SCT y a los Centros SCT en la normativa vigente, se entenderán hechas a la Subsecretaría de Comunicaciones y Transportes, a la Dirección General de Protección y Medicina Preventiva en el Transporte Terrestre, a la Dirección General de Políticas de Telecomunicaciones y Radiodifusión, a la Dirección General de Inclusión Digital y Redes de Telecomunicaciones, a la Dirección General de Programación y Presupuesto, a la Dirección General de Recursos Humanos y Organización, a la Dirección General de Recursos Materiales y Servicios Generales, a la Dirección General de Tecnologías de Información y Comunicaciones, a la Coordinación de Centros SICT y a los Centros SICT, en el ámbito de sus respectivas competencias.
+> <small>(F. DE E., D.O.F. 6 DE FEBRERO DE 2024)</small>
+
+SEXTO. Todas las referencias que hagan mención a la Subsecretaría de Comunicaciones, a la Dirección General de Política de Telecomunicaciones y de Radiodifusión, a la Coordinación de la Sociedad de la Información y el Conocimiento, a la Dirección General de Programación, Organización y Presupuesto, a la Dirección General de Recursos Humanos, a la Dirección General de Recursos Materiales, a la Unidad de Tecnologías de Información y Comunicaciones, a la Coordinación General de Centros SCT y a los Centros SCT en la normativa vigente, se entenderán hechas a la Subsecretaría de Comunicaciones y Transportes, a la Dirección General de Políticas de Telecomunicaciones y Radiodifusión, a la Dirección General de Inclusión Digital y Redes de Telecomunicaciones, a la Dirección General de Programación y Presupuesto, a la Dirección General de Recursos Humanos y Organización, a la Dirección General de Recursos Materiales y Servicios Generales, a la Dirección General de Tecnologías de Información y Comunicaciones, a la Coordinación de Centros SICT y a los Centros SICT, en el ámbito de sus respectivas competencias.
 
 SÉPTIMO. Las erogaciones que se generen con motivo de la entrada en vigor del presente reglamento, así como las modificaciones a las atribuciones conferidas a la estructura orgánica de la Secretaría, se cubrirán con cargo a su presupuesto aprobado para el presente ejercicio fiscal y subsecuentes, y se realizarán mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de dicha Dependencia.
 
