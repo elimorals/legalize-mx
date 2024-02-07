@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-mental-del-estado-y-municipios-de-san-luis-130400"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-30"
-last_updated: "2023-11-23"
+last_updated: "2024-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD MENTAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 30 de agosto de 2018.
 
@@ -96,6 +96,10 @@ VII. Monitoreo de neurotóxicos: Situación que se despliega con la misión de c
 VIII. Neurotóxicos: Aquellas sustancias o agentes químicos en el medio ambiente que son producto de un proceso humano, o que se encuentren en forma endémica, y que son causantes de daños permanentes que afectan la salud mental de las personas;
 
 IX. Promoción de la salud mental: Es una estrategia concreta, concebida como la suma de las acciones de los distintos sectores de la población, las autoridades sanitarias y los prestadores de servicios de salud encaminadas al desarrollo de mejores condiciones de salud mental individual y colectiva;
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2024)</small>
+
+IX Bis. Redes de Apoyo Social: Es el conjunto de relaciones que integran a una persona con su entorno social, o con personas con las que establecen vínculos solidarios y de comunicación para resolver necesidades específicas. Las redes pueden reducirse o extenderse proporcionalmente al bienestar material, físico o emocional de sus integrantes, al involucramiento, y la participación activa en el fortalecimiento de las sociedades. Están en constante movimiento y las integran personas (cualquier número a partir de dos) que comparten intereses, principios ciudadanos y que asumen principios de reciprocidad, no violencia y acción voluntaria.
 
 X. Rehabilitación integral: Es el conjunto de acciones y programas dirigidos a la utilización del potencial máximo de crecimiento personal de un individuo, que le permita superar o disminuir desventajas adquiridas a causa de su enfermedad en los principales aspectos de su vida diaria; tiene el objetivo de promover en el paciente, el reaprendizaje de sus habilidades para la vida cotidiana cuando las ha perdido, y la obtención y conservación de un ambiente de vida satisfactorio, así como la participación en actividades productivas y en la vida socio-cultural;
 
@@ -335,6 +339,18 @@ VI. El protocolo que deberán seguir en caso de que cualquier usuario deba ser r
 
 Una vez que se cumpla con todos los requisitos señalados, se encontrarán en condiciones de acceder al reconocimiento ante la Comisión Nacional contra las Adicciones, siguiendo un tratamiento de calidad.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE FEBRERO DE 2024)</small>
+
+### Capítulo V Bis. Del suicidio
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 23 BIS. Toda persona que haya realizado intento de suicidio, así como su red de apoyo, tiene derecho a acceder a servicios de salud especializados. En todas las etapas del proceso de atención deberá garantizarse la confidencialidad de su información.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 23 TER. La Secretaría de Salud fomentará el diseño y la implementación de los modelos de atención en la etapa de posvención, a fin de brindar asistencia y acompañamiento a la red de apoyo de la persona que se suicidó.
+
 ### Capítulo VI. Del Consejo Estatal de Salud Mental
 
 ###### ARTÍCULO 24.
@@ -458,3 +474,11 @@ P.O. 23 DE NOVIEMBRE DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 7 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1003.- SE ADICIONA AL ARTÍCULO 3º LA FRACCIÓN IX BIS, Y EN EL TÍTULO SEGUNDO EL CAPÍTULO V BIS CON LOS ARTÍCULOS 23 BIS, Y 23 TER, DE LA LEY DE SALUD MENTAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
