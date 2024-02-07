@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-trabajadores-al-servicio-del-estado-de-puebla-7738"
 country: "mx"
 rank: "ley"
 publication_date: "1966-11-18"
-last_updated: "2023-04-11"
+last_updated: "2024-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2024.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Puebla, el viernes 18 de noviembre de 1966.
 
@@ -333,7 +333,9 @@ De los sueldos, compensaciones y descuentos.
 
 Se denomina sueldo, a la retribución determinada en el Presupuesto de Egresos, que debe pagarse a los trabajadores de base al servicio del Estado, a cambio de sus servicios.
 
-La cuantía del sueldo no podrá ser disminuida durante la vigencia del Presupuesto de Egresos que la establezca.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2024)</small>
+
+La cuantía del sueldo no será disminuida durante la vigencia del Presupuesto de Egresos que la establezca y se podrá revisar anualmente en términos de la legislación aplicable.
 
 ###### ARTICULO 31.
 
@@ -431,7 +433,7 @@ II.- Observar buena conducta durante el desempeño de sus labores.
 
 III.- Cumplir con las obligaciones que les impongan las leyes, los reglamentos y condiciones generales de trabajo.
 
-En cada departamento se fijarán por los titulares, previo conocimiento del Sindicato, las condiciones generales de trabajo. Si esas condiciones fueren substancialmente objetadas por el Sindicato, decidirá en definitiva el Tribunal de Arbitraje.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 7 DE FEBRERO DE 2024)</small>
 
 IV.- Guardar reserva en los asuntos que lleguen a su conocimiento con motivo de sus servicios.
 
@@ -475,7 +477,9 @@ IV.- Los trabajadores que tengan encomendado manejo de fondos, valores o bienes,
 
 V.- Cuando por resolución formal de autoridad competente se declare que el trabajador cometió actos de hostigamiento o acoso sexual contra cualquier persona en el establecimiento o lugar de trabajo.
 
-En los casos antes señalados, el trabajador afectado podrá reclamar la medida ante el Tribunal de Arbitraje, el que de no encontrar comprobado el hecho que motiva la suspensión ordenará la reposición del suspendido y el pago de salarios caídos.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2024)</small>
+
+En los casos antes señalados, el trabajador afectado podrá reclamar la medida ante el Tribunal de Arbitraje, el que de no encontrar comprobado el hecho que motiva la suspensión ordenará la reposición del suspendido y el pago de salarios caídos, en términos de los párrafos segundo y tercero del artículo 43 de la presente Ley.
 
 ### CAPITULO II.
 
@@ -517,7 +521,21 @@ No tendrá el trabajador derecho al sueldo correspondiente a los días en que fa
 
 j).- Por prisión o inhabilitación para desempeñar cargos o empleos públicos impuesta por sentencia ejecutoria.
 
-Si en el juicio correspondiente ante el Tribunal de Arbitraje no se comprobase la existencia del hecho que hubiere motivado el cese, el trabajador tendrá derecho, a su elección, a que se le reinstale en el trabajo que desempeñaba o a que se le indemnice con el importe de tres meses de sueldo y el de dos días más por cada año de servicio prestados y a que se le paguen en el caso de reinstalación, los sueldos caídos hasta la fecha en que ésta se realice.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2024)</small>
+
+Si en el juicio correspondiente ante el Tribunal de Arbitraje no se comprobase la existencia del hecho que hubiere motivado el cese, el trabajador tendrá derecho a su elección, a que se le reinstale en el trabajo que desempeñaba o a que se le indemnice con el importe de tres meses de sueldo y el de dos días más por cada año de servicio prestados y a que se le paguen en el caso de reinstalación, los sueldos caídos hasta por un período máximo de doce meses.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2024)</small>
+
+Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha dado cumplimiento al laudo, se pagarán también al trabajador los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2024)</small>
+
+En caso de fallecimiento o muerte del trabajador, dejarán de generarse los salarios caídos corno parte del conflicto a partir de la fecha del fallecimiento.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2024)</small>
+
+Si el Tribunal resuelve que fue justificado el cese, el trabajador no tendrá derecho al pago de salarios caídos.
 
 T I T U L O Q U I N T O
 
@@ -811,9 +829,11 @@ V.- La indicación del lugar en que puedan obtenerse las pruebas que el reclaman
 
 A la demanda acompañará las pruebas de que disponga y los documentos que acrediten la personalidad del representante, en su caso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 2024)</small>
+
 ###### ARTICULO 86.
 
-La contestación de la demanda se presentará en un término que no exceda de cinco días, contados a partir del siguiente a la fecha de su notificación; deberá referirse a todos y cada uno de los hechos que comprenda la demanda, y ofrecer pruebas en los términos de la fracción V del artículo anterior.
+La contestación de la demanda se presentará en un término que no exceda de diez días hábiles, contados a partir del siguiente a la fecha de su notificación; deberá referirse a todos y cada uno de los hechos que comprenda la demanda, y ofrecer pruebas en los términos de la fracción V del artículo anterior.
 
 Cuando el domicilio del demandado se encuentre fuera del lugar en que radica el Tribunal, se ampliará el término en un día más por cada 40 kilómetros de distancia o fracción que exceda de la mitad.
 
@@ -1146,3 +1166,13 @@ P.O. 11 DE ABRIL DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 30, EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 42, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 43 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 86; ADICIONA LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO AL ARTÍCULO 43, Y DEROGA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 40, TODOS DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO".]
+
+PRIMERO. El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO. Los juicios iniciados antes de la entrada en vigor del presente Decreto continuarán tramitándose hasta su total conclusión, conforme a las disposiciones aplicables a su inicio.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
