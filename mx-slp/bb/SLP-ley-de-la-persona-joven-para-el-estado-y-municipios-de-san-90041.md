@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-persona-joven-para-el-estado-y-municipios-de-san-9004
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-20"
-last_updated: "2023-10-25"
+last_updated: "2024-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE LA PERSONA JOVEN PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 20 de octubre de 2012.
 
@@ -1029,13 +1029,41 @@ Estas áreas tendrán las obligaciones y funciones que establezca el Reglamento 
 
 La Junta Directiva es el órgano de gobierno del Instituto y estará integrada por:
 
-I. Un Presidente, que será el Secretario de Educación del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2024)</small>
 
-II. Diez vocales, que serán los titulares de las Secretarías General de Gobierno, de Desarrollo Social y Regional, y de Planeación del Desarrollo; Servicios Coordinados de Salud; Instituto de Cultura; la Procuraduría General de Justicia; la Dirección General del Sistema para el Desarrollo Integral de la Familia en el Estado; el Instituto Potosino del Deporte; el organismo público encargado de atender las políticas del Ejecutivo dirigidas a la mujer en la Entidad, y del Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas;
+I. Una presidencia, que será la persona titular de la Secretaría de Educación del Gobierno del Estado;
 
-III. Por cada miembro propietario se designará un suplente, en caso de ausencia del titular, el suplente contará con las mismas facultades de éste, y
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 7 DE FEBRERO DE 2024)</small>
 
-IV. El Director General del Instituto, quien tendrá las funciones de Secretario Técnico, y participará con voz, pero sin voto, en las sesiones de la Junta Directiva.
+II. Diez vocales, que serán las personas titulares de las Secretarías, Fiscalía, Institutos y Direcciones:
+
+a) Secretaría General de Gobierno.
+
+b) Secretaría de Desarrollo Social y Regional del Estado.
+
+c) Secretaría de Desarrollo Económico.
+
+d) Secretaría de Salud.
+
+e) Secretaría de Cultura.
+
+f) Fiscalía General del Estado.
+
+g) Sistema para el Desarrollo Integral de la Familia.
+
+h) Instituto Potosino de Cultura Física y Deporte.
+
+i) Instituto de las Mujeres del Estado.
+
+j) Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas;
+
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2024)</small>
+
+III. Por cada miembro propietario se designará un suplente, en caso de ausencia de la persona titular, la persona suplente contará con las mismas facultades de éste, y
+
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2024)</small>
+
+IV. La persona titular de la Dirección General del Instituto, quien tendrá las funciones de la Secretaría Técnica, y participará con voz, pero sin voto, en las sesiones de la Junta Directiva.
 
 ###### ARTICULO 71.
 
@@ -1434,5 +1462,13 @@ P.O. 25 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0857.- SE REFORMAN LOS ARTÍCULOS 68 SUS FRACCIONES XVI Y XVII, 79 SU PÁRRAFO PRIMERO Y EN SUS FRACCIONES V Y VI, 8o EN SU PÁRRAFO PRIMERO Y EN SU FRACCIÓN I; ADICIONA A Y LOS ARTÍCULOS 5 UNA FRACCIÓN, ÉSTA COMO III, 49 UNA FRACCIÓN, ÉSTA COMO IX, 49 BIS, 68 UNA FRACCIÓN, ÉSTA COMO XVIII Y 79 EL PÁRRAFO SEGUNDO Y LA FRACCIÓN VII; Y DEROGA DEL ARTÍCULO 8o EL PÁRRAFO SEGUNDO, DE LA LEY DE LA PERSONA JOVEN PARA EL ESTADO Y MUNICIPIO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1002.- SE REFORMA EL ARTÍCULO 70 EN SUS FRACCIONES I, II, III Y IV, DE LA LEY DE LA PERSONA JOVEN PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
