@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2023-07-20"
+last_updated: "2024-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE FEBRERO DE 2024.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -102,6 +102,10 @@ El derecho a la ciudad se garantizará a través de instrumentos que observen la
 > <small>(ADICIONADO, G.G. 28 DE ABRIL DE 2023)</small>
 
 Toda persona tiene derecho a un buen gobierno, abierto, honesto, transparente, profesional, eficaz, eficiente, incluyente y racional. El Estado promoverá y vigilará este derecho y la ley definirá las bases y mecanismos para su cumplimiento.
+
+> <small>(ADICIONADO, G.G. 9 DE FEBRERO DE 2024)</small>
+
+Los entes públicos del Estado garantizarán el derecho humano a una vida libre de violencia a las infancias, adolescencias y mujeres, tanto en el ámbito público como en el privado; debiendo observar en la elaboración y ejecución de políticas públicas, los principios de igualdad jurídica, respeto a la dignidad humana de las mujeres, la no discriminación, la libertad y el desarrollo integral, a través de los principios ya reconocidos en la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(ADICIONADO, G.G. 20 DE JULIO DE 2023)</small>
 
@@ -301,9 +305,9 @@ Toda persona tiene derecho a una alimentación adecuada.
 
 En el Estado de México se fomentará a sus habitantes el cuidado de su salud, procurando que las autoridades atiendan la nutrición adecuada, la promoción de la activación física y deportiva de las familias, la alimentación segura, así como los medios para obtenerla, con primordial atención en la calidad de la alimentación que consumen los niños y jóvenes, en esta tarea participarán las dependencias y organismos competentes de la administración pública del Gobierno del Estado de México, así como los correspondientes de los Municipios de la Entidad.
 
-> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, G.G. 9 DE FEBRERO DE 2024)</small>
 
-En todas las decisiones y actuaciones del Estado se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios.
+En todas las decisiones y actuaciones del Estado se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. La lactancia materna forma parte del derecho a la alimentación y la nutrición desde la primera infancia. Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios.
 
 > <small>(ADICIONADO, G.G. 19 DE ENERO DE 2015)</small>
 
@@ -5212,3 +5216,19 @@ G.G. 20 DE JULIO DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 9 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 235.- POR EL QUE SE REFORMA EL PÁRRAFO TRIGÉSIMO SÉPTIMO DEL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 9 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 236.- POR EL QUE SE ADICIONA UN PÁRRAFO OCTAVO AL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
