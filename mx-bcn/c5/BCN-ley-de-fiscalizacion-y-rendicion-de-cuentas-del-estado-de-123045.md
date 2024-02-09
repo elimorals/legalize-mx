@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12304
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-11"
-last_updated: "2023-11-06"
+last_updated: "2024-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123045&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2024.
 
 Ley publicada en la Sección I al Número 37 del Periódico Oficial del Estado de Baja California, el viernes 11 de agosto de 2017.
 
@@ -1597,6 +1597,14 @@ SEGUNDO.- Las presentes reformas aplicarán para el proceso de fiscalización de
 
 TERCERO.- El proceso de fiscalización de la cuenta pública correspondiente al ejercicio fiscal dos mil veintidós y los demás asuntos que se encuentren en trámite o en proceso de ejercicios fiscales anteriores, continuarán tramitándose hasta su conclusión en los términos de la normatividad vigente hasta antes de la entrada en vigor de las presentes reformas.
 
-CUARTO.- La Auditoría Superior del Estado contará con 180 días para emitir el reglamento para normar el procedimiento relativo a la imposición de las multas descritas en el artículo 11 de la presente Ley.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
+
+CUARTO.- La Auditoría Superior del Estado contará con 180 días para emitir el reglamento para normar el procedimiento relativo a la imposición de las multas descritas en el artículo 11 de la presente Ley, previa validación del proyecto, por parte de la Comisión de Fiscalización del Gasto Público.
 
 QUINTO.- La reforma al artículo 17 será aplicable para la entrega del Informe de Avance de Gestión Financiera relativa al Cuarto Trimestre del ejercicio fiscal dos mil veintitrés y subsecuentes.
+
+P.O. 9 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 387 MEDIANTE EL CUAL, SE APRUEBA LA REFORMA QUE MODIFICA EL ARTÍCULO CUARTO TRANSITORIO DEL RESOLUTIVO SEGUNDO DEL DECRETO NO. 310, PUBLICADO EN FECHA 06 DE NOVIEMBRE DE 2023, EN EL TOMO CXXX, ÍNDICE, SECCIÓN I, NO. 62, DEL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
