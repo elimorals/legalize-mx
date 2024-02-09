@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-victimas-para-el-estado-de-baja-california-131938"
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-29"
-last_updated: "2022-12-02"
+last_updated: "2024-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 LEY DE VÍCTIMAS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE DICIEMBRE DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2024.
 
 Ley publicada en la Sección III al Número 49 del Periódico Oficial del Estado de Baja California, el lunes 29 de octubre de 2018.
 
@@ -283,9 +281,17 @@ Las víctimas de delitos o de violaciones de derechos contra la libertad y la in
 
 Los servidores públicos deberán brindar información clara, precisa y accesible a las víctimas y sus familiares, sobre cada una de las garantías, mecanismos y procedimientos que permiten el acceso oportuno, rápido y efectivo a las medidas de ayuda contempladas en la presente Ley.
 
-Las medidas de ayuda, asistencia, atención y demás establecidas en la Ley General, se brindarán exclusivamente por las instituciones públicas de los gobiernos Federal, de las entidades federativas, del Distrito Federal y municipios, a través de los programas, mecanismos y servicios con que cuenten, salvo en los casos urgentes o de extrema necesidad en los que se podrá recurrir a instituciones privadas.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
+
+Las medidas de ayuda, asistencia, atención y demás establecidas en la Ley General, se brindarán exclusivamente por las instituciones públicas el gobierno Federal, de las entidades federativas, de la Ciudad de México y municipios, a través de los programas, mecanismos y servicios con que cuenten, salvo en los casos urgentes o de extrema necesidad en los que se podrá recurrir a instituciones privadas.
 
 La Comisión Ejecutiva Estatal, en el ámbito de su competencia, deberá otorgar, con cargo al Fondo Estatal, los Recursos de Ayuda que requiera la víctima para garantizar que supere las condiciones de necesidad que tengan relación con el hecho victimizante. La Comisión Ejecutiva Estatal requerirá a la víctima en un plazo de treinta días, los comprobantes del gasto que se hayan generado con motivo del otorgamiento de dichas medidas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE FEBRERO DE 2024)</small>
+
+Las y los menores, personas con discapacidad, y mayores de edad quienes dependían de la mujer víctima de feminicidio u homicidio y lesiones agravadas en razón de género, recibirá ayuda psicológica especializada de emergencia en los términos de la presente Ley.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE FEBRERO DE 2024)</small>
 
 En caso de no contar con disponibilidad de recursos para cubrir las medidas de ayuda inmediata, la Comisión Ejecutiva Estatal deberá solicitarlos a la Comisión Ejecutiva, conforme a lo previsto en el artículo 8 de la Ley General.
 
@@ -2544,5 +2550,11 @@ P.O. 12 DE NOVIEMBRE DE 2021.
 P.O. 17 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 145 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 66, 80, 112, 118, 138 Y 177 DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 377 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 43, 114, 119, 129, 142 BIS, 293 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LA ADICIÓN DE LOS NUMERALES 129 BIS, 129 TER Y 143 TER AL MISMO ORDENAMIENTO; SE APRUEBA LA REFORMA AL ARTÍCULO 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA; SE APRUEBA LA REFORMA AL ARTÍCULO 72 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA; SE APRUEBA LA REFORMA AL ARTÍCULO 9 DE LA LEY DE VICTIMAS PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
