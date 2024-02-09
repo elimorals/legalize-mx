@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-instituciones-de-asistencia-social-privada-para-107428"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-17"
-last_updated: "2023-09-08"
+last_updated: "2024-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PRIVADA PARA NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2024.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 2015.
 
@@ -221,6 +221,8 @@ V. Los derechos, obligaciones y medidas de disciplina para las niñas, niños y 
 
 VI. Las medidas de disciplina para el personal administrativo y voluntario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 12.
 
 Las Instituciones de Asistencia Social Privada llevarán un expediente individualizado de cada una de las niñas, niños y adolescentes que tengan bajo su cuidado, el cual contendrá como mínimo:
@@ -229,19 +231,37 @@ I. Nombre, datos de identificación, acta de nacimiento, Cédula Única de Regis
 
 II. Motivo y fecha de ingreso, y en su caso, de egreso;
 
-III. Nombre, domicilio, copia de una identificación oficial con fotografía de la persona física o de la autoridad que materialmente hace entrega de la niña, niño o adolescente;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2024)</small>
 
-Las personas que carezcan de identificación oficial con fotografía al momento de la entrega del menor, deberán ser fotografiados por el personal de la Instituciones de Asistencia Social Privada;
+III. Tipo y modalidad de la violencia y su seguimiento;
 
-IV. Nombre, domicilio y copia de una identificación oficial con fotografía de la o las personas que ejerzan la custodia, tutela o patria potestad sobre las niñas, niños y adolescentes
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
 
-V. Nombre, domicilio y copia de una identificación oficial con fotografía de la o las personas que visiten y hubieren estado en convivencia por cualquier circunstancia con el menor;
+IV. Nombre, domicilio, copia de una identificación oficial con fotografía de la persona física o de la autoridad que materialmente hace entrega de la niña, niño o adolescente;
 
-VI. Datos escolares y boleta de calificaciones de las niñas, niños y adolescentes;
+Las personas que carezcan de identificación oficial con fotografía al momento de la entrega de la niña, niño o adolescente, deberán ser fotografiados por el personal de la (sic) Instituciones de Asistencia Social Privada;
 
-VII. Situación legal del menor ingresado y documentos de lo anterior; y
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
 
-VIII. Las demás que la Procuraduría de Protección, y las Instituciones de Asistencia Social Privada consideren necesarias.
+V. Nombre, domicilio y copia de una identificación oficial con fotografía de la o las personas que ejerzan la custodia, tutela o patria potestad sobre las niñas, niños y adolescentes;
+
+Las personas que carezcan de identificación oficial con fotografía al momento de la entrega de la niña, niño o adolescente, deberán ser fotografiados por el personal de la (sic) Instituciones de Asistencia Social Privada;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+
+VI. Nombre, domicilio y copia de una identificación oficial con fotografía de la o las personas que visiten y hubieren estado en convivencia por cualquier circunstancia con la niña, niño o adolescente;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE FEBRERO DE 2024)</small>
+
+VII. Datos escolares y boleta de calificaciones de las niñas, niños y adolescentes;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+
+VIII. Situación legal de la niña, niño o adolescente ingresado y documentos de lo anterior; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE FEBRERO DE 2024)</small>
+
+IX. Las demás que la Procuraduría de Protección, y las Instituciones de Asistencia Social Privada consideren necesarias.
 
 ## TÍTULO CUARTO. DE LA LICENCIA Y REGISTRO DE LAS INSTITUCIONES DE ASISTENCIA SOCIAL PRIVADA
 
@@ -325,11 +345,11 @@ Las Instituciones de Asistencia Social Privada deberán de realizar simulacros p
 
 El personal administrativo o voluntario de las Instituciones de Asistencia Social Privada, independientemente de su categoría y con el objeto del mejoramiento constante de sus funciones, deberá asistir a cursos, capacitaciones, exhibiciones, seminarios, conferencias, mesas de diálogo o diplomados, que en relación con cada una de sus áreas de trabajo organicen las Instituciones de Asistencia Social Privada y la Procuraduría de Protección.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 24.
 
-Para pertenecer al personal administrativo o voluntario de las Instituciones de Asistencia Social Privada será obligatorio cubrir los siguientes requisitos:
+Para pertenecer al personal directivo, administrativo o voluntario de las Instituciones de Asistencia Social Privada será obligatorio cubrir los siguientes requisitos:
 
 I. Contar con una edad mínima de 18 años cumplidos y un modo honesto de vivir;
 
@@ -586,3 +606,9 @@ P.O. 8 DE SEPTIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 277 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4, 5, 7, 9, 15, 18, 24 Y 29, DE LA LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PRIVADA PARA NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 9 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 374 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 12 Y 24 DE LA LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PRIVADA PARA NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
