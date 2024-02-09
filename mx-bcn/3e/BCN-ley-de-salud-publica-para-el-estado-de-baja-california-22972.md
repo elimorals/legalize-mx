@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2023-11-06"
+last_updated: "2024-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2024.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -511,6 +511,10 @@ I.- La atención médica integral que comprende la atención médica integrada d
 
 Para efectos de esta fracción la atención médica de carácter preventivo consiste en realizar todas las acciones de prevención y promoción para la protección de la salud, de acuerdo a la edad, sexo y determinantes físicos y psíquicos de las personas, realizadas preferentemente en una sola consulta, así mismo comprenderá la atención pre hospitalaria, la cual, se entenderá como la otorgada al paciente cuya condición clínica se considera que pone en peligro la vida, un órgano o su función, con el fin de lograr la limitación del daño y su estabilización orgánico-funcional, desde los primeros auxilios hasta la llegada y entrega a un establecimiento para la atención médica con servicio de urgencias, así como durante el traslado entre diferentes establecimientos a bordo de una ambulancia.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE FEBRERO DE 2024)</small>
+
+La atención médica preventiva, con carácter prioritaria, deberá incluir análisis básicos de laboratorio anual de manera gratuita, así como la consulta médica respectiva.
+
 II.- La atención materno infantil;
 
 III.- La planificación familiar;
@@ -631,9 +635,11 @@ c) Vigilar y hacer cumplir las disposiciones contenidas en la presente Ley.
 
 #### SECCION II. DE LA ATENCION MEDICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 20.
 
-Para los efectos de esta Ley la atención médica es el conjunto de servicios que se proporcionan al individuo, con el fin de proteger, promover y restaurar su salud.
+Para los efectos de esta Ley la atención médica es el conjunto de servicios que se proporcionan al individuo, con el fin de proteger, promover y restaurar su salud. En la atención médica preventiva, se deberá incluir de manera prioritaria análisis básicos de laboratorio anual, a fin de conocer a grandes rasgos el estado de tu (sic) salud de la persona.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -643,7 +649,9 @@ Para efectos del párrafo anterior los prestadores de servicios de salud podrán
 
 Las actividades de atención médica se clasifican en:
 
-I.- Preventivas, que incluyen las de promoción general y las de protección específica;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+
+I.- Preventivas, que incluyen las de promoción general y las de protección específica; así como análisis básicos de laboratorio anual de manera gratuita;
 
 II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno; y
 
@@ -851,87 +859,149 @@ La Secretaría de Salud del Estado coadyuvará con la federación para instrumen
 
 #### SECCION V. DE LA SALUD MENTAL
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 29.
 
-La prevención de las enfermedades mentales tiene carácter prioritario; se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales y de las discapacidades que estas generan, así como otros aspectos relacionados con la salud mental.
+La salud mental y la prevención de las adicciones tendrán carácter prioritario dentro de las políticas de salud y deberán brindarse conforme a lo establecido en la Constitución federal, en los tratados internacionales en materia de derechos humanos, en Ley General de Salud y en este ordenamiento. El Estado garantizará el acceso universal, igualitario y equitativo a la atención de la salud mental y de las adicciones a las personas que lo requieran.
+
+Toda persona tiene derecho a gozar del más alto nivel posible de salud mental, sin discriminación por motivos de origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad, la expresión de género, la filiación política, el estado civil, el idioma, los antecedentes penales o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 9 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 30.
 
-Para la promoción de la salud mental, la Secretaría de Salud del Estado y las instituciones de salud públicas y privadas en coordinación con las Autoridades competentes, fomentarán y apoyarán:
+Los servicios y programas en materia de salud mental y adicciones deberán privilegiar la atención comunitaria, integral, interdisciplinaria, intercultural, intersectorial, con perspectiva de género y participativa de las personas desde el primer nivel de atención y los hospitales generales.
 
-I.- El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES PRIMER PÁRRAFO], P.O. 9 DE FEBRERO DE 2024)</small>
 
-II.- La difusión de las orientaciones para la promoción de la salud mental preferentemente al núcleo familiar;
+Para la promoción de la salud mental, la Secretaría de Salud del Estado y las instituciones de salud públicas y privadas en coordinación con las autoridades competentes, fomentarán y apoyarán:
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+
+I.- El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental y a la prevención de las adicciones, preferentemente de la infancia, de la juventud y a grupos en situación de vulnerabilidad;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+
+II.- La difusión de las orientaciones para la promoción de la salud mental, así como el conocimiento y prevención de los trastornos mentales y por consumo de sustancias psicoactivas, y de adicciones;
 
 > <small>(REFORMADA, P.O. 11 DE ENERO DE 2013)</small>
 
 III.- La realización de programas para la prevención del uso inadecuado de estupefacientes, psicotrópicos, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencia;
 
-> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
 
-IV.- El que por medio del Instituto de Psiquiatría del Estado de Baja California, se brinde el tratamiento psicológico necesario a los internos dentro de los centros de rehabilitación que se encuentren dentro del padrón a cargo de la Secretaría de Salud del Estado, a efecto de alejarlos del alcoholismo y la drogadicción; y
+IV.- El que por medio del Instituto de Psiquiatría del Estado de Baja California, se brinde el tratamiento psicológico necesario a los internos dentro de los centros de rehabilitación que se encuentren dentro del padrón a cargo de la Secretaría de Salud del Estado, a efecto de alejarlos del alcoholismo y la drogadicción;
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 V.- La realización de programas para la prevención del suicidio a causa de trastornos mentales y del comportamiento, preferentemente en niñas, niños y adolescentes;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
 
-VI.- La realización de campañas permanentes de información y difusión de la Línea Telefónica de ayuda psicológica y de intervención en crisis, a fin de que la población reciba, en el menor tiempo posible, la atención que requiera, en tanto es posible canalizar a las personas a un servicio de atención permanente; y
+VI.- La realización de campañas permanentes de información y difusión de la Línea Telefónica de ayuda psicológica y de intervención en crisis, a fin de que la población reciba, en el menor tiempo posible, la atención que requiera, en tanto es posible canalizar a las personas a un servicio de atención permanente;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2024)</small>
 
-VII.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+VII.- La detección de los grupos poblacionales en riesgo de presentar trastornos mentales y por consumo de sustancias psicoactivas, y de adicciones, preferentemente niñas, niños y adolescentes y miembros de grupos vulnerables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2024)</small>
+
+VIII.- El desarrollo de equipos de respuesta inmediata para situaciones de crisis, capacitados en técnicas para atenuar el escalamiento de crisis;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2024)</small>
+
+IX.- La capacitación y educación en salud mental al personal de salud en el Sistema Estatal de Salud; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE FEBRERO DE 2024)</small>
+
+X.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 31.
 
-La atención de las enfermedades mentales comprende:
+La atención de la salud mental y las adicciones del comportamiento comprende todas las acciones a las que se refiere el artículo 21 de esta Ley; y además:
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
 
-I.- La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos crónicos, deficientes mentales, alcohólicos y personas enfermas que usen habitualmente estupefacientes o substancias psicotrópicas, o alguna droga; y
+I.- La atención de personas usuarias, la rehabilitación psiquiátrica de enfermos crónicos, deficientes mentales, alcohólicos y personas enfermas que usen habitualmente estupefacientes o substancias psicotrópicas, o alguna droga.
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
 
 II.- La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento hospitalario o ambulatorio y rehabilitación de enfermos mentales, donde se incluirán los programas de talleres protegidos.
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
 
-III.- Los talleres protegidos de rehabilitación psiquiátrica, tienen como objetivo fomentar la integración psicológica, social y laboral del paciente psiquiátrico promoviendo el desarrollo de capacidades remanentes.
+III.- Los talleres protegidos de rehabilitación psiquiátrica, tienen como objetivo fomentar la integración psicológica, social y laboral del paciente de salud mental promoviendo el desarrollo de capacidades remanentes.
 
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2024)</small>
 
-ARTÍCULO 31 BIS.- La persona con trastornos mentales y del comportamiento tendrá los siguientes derechos:
+ARTÍCULO 31 BIS.- La población usuaria de los servicios de salud mental tendrán los derechos siguientes:
 
-I.- Derecho a la mejor atención disponible en materia de salud mental y acorde con sus antecedentes culturales, lo que incluye el trato sin discriminación y con respeto a la dignidad de la persona, en establecimiento de la red del Sistema Nacional de Salud;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
 
-II.- Derecho a contar con un representante que cuide en todo momento sus intereses. Para esto, la autoridad judicial deberá de cuidar que no exista conflicto de intereses por parte del representante;
+I.- Derecho a la mejor atención disponible en materia de salud mental con perspectiva intercultural, pertinencia lingüística y perspectiva de género, lo que incluye el trato sin discriminación y con respeto a la dignidad de la persona, en establecimiento de la red del Sistema Nacional de Salud;
 
-III.- Derecho al consentimiento informado de la persona o su representante, en relación al tratamiento a recibir. Esto solo se exceptuará en el caso de internamiento involuntario, cuando se trate de un caso urgente o cuando se compruebe que el tratamiento es el más indicado para atender las necesidades del paciente;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
 
-IV.- Derecho a que les sean impuestas únicamente las restricciones necesarias para garantizar su protección y la de terceros. En todo caso, se deberá procurar que el internamiento sea lo menos restrictivo posible y a que el tratamiento a recibir sea lo menos alterador posible;
+II.- Derecho a contar con mecanismos de apoyo en la toma de decisiones y a directrices de voluntad anticipada sobre el consentimiento informado;
 
-V.- Derecho a que el tratamiento que reciba este basado en un plan prescrito individualmente con el historial clínico, revisando periódicamente y modificando llegado el caso;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+
+III.- Derecho al consentimiento informado de la persona con relación al tratamiento a seguir;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+
+IV.- Derecho a no ser sometido a medidas de aislamiento, contención coercitiva o cualquier práctica que constituya tratos crueles, inhumanos o degradantes y, en su caso, ser sujeto a medios para atenuar el escalamiento de crisis;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+
+V.- Derecho a un diagnóstico integral e interdisciplinario y a un tratamiento basado en un plan prescrito individualmente con historial clínico, revisando periódicamente y modificando de acuerdo con la evolución del paciente, que garantice el respeto a su dignidad de persona humana y sus derechos humanos;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 VI.- Derecho a no ser sometido a tratamientos irreversibles o que modifiquen la integridad de la persona;
 
-VII.- Derecho a ser tratado y atendido en su comunidad o lo más cerca posible al lugar en donde habiten sus familiares o amigos, y
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
 
-VIII.- Derecho a la confidencialidad de la información psiquiátrica sobre su persona.
+VII.- Derecho a ser tratado y atendido en su comunidad o lo más cerca posible al lugar en donde habiten sus familiares o amigos;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+
+VIII.- Derecho a la confidencialidad de la información sobre su salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2024)</small>
+
+IX.- Derecho a tener acceso y disponibilidad a servicios de salud mental y adicciones; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2024)</small>
+
+X.- Los derechos establecidos en la legislación nacional, los tratados y convenciones internacionales, vinculantes, de los que México forma parte.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 31 TER.- Las instituciones públicas del Sistema Estatal de Salud deberán brindar acceso a los servicios de atención de salud mental y por consumo de sustancias psicoactivas, y de adicciones, conforme a los principios contemplados en el artículo 73 Bis de la Ley General de Salud.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 32.
 
-El internamiento de personas con padecimientos mentales en establecimientos destinados a tal efecto, se ajustará a principios éticos y sociales, además de los requisitos científicos y legales que determinen las normas oficiales mexicanas en la materia y otras disposiciones aplicables.
+El internamiento de la población usuaria de los servicios de salud mental y las personas con consumo de sustancias psicoactivas, y de adicciones, como último recurso terapéutico, se ajustará a principios éticos, sociales, de respeto a los derechos humanos, la dignidad de la persona, así como los requisitos que determine la Secretaría de Salud Federal y demás disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2012)</small>
+El internamiento sólo podrá llevarse a cabo de manera voluntaria y cuando aporte mayores beneficios terapéuticos para la persona que el resto de las intervenciones posibles; se realizará por el tiempo estrictamente necesario y en el Hospital General o de pediatría más cercano al domicilio del usuario.
 
-Tratándose de internamiento voluntario, la persona con trastornos mentales tendrá derecho al consentimiento informado, otorgado por escrito por el mismo paciente, su representante o tutor, en relación al tratamiento a recibir, sólo se exceptuará en el caso de internamiento involuntario.
+Por ningún motivo el internamiento puede ser indicado o prolongado, si tiene el fin de resolver problemas familiares, sociales, laborales o de vivienda y de cuidado del paciente.
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2012)</small>
+En el caso de niñas, niños o adolescentes se privilegiarán alternativas comunitarias; en caso de que exista la justificación clínica para el internamiento, este se llevará a cabo en hospitales generales o en hospitales de pediatría, asimismo se recabará la opinión de niñas, niños o adolescentes y se dejará registro en la historia clínica. En caso de no estar de acuerdo con el internamiento la institución, junto con la madre, el padre o tutor, deberán valorar otras alternativas de atención.
 
-El internamiento involuntario, se presenta en el caso de usuarios con trastornos mentales severos, que demandan atención urgente o representen un peligro grave o inmediato para sí mismos o para los demás. Requiere la indicación de un médico psiquiatra y la solicitud de un familiar responsable, tutor o representante legal, ambas por escrito. En caso de extrema necesidad, los enfermos mentales en situación de calle o abandono, pueden ingresar asistidos por personal de la secretaría de salud por indicación escrita del médico psiquiatra a cargo del servicio de admisión de la unidad hospitalaria. En cuanto las condiciones del usuario lo permitan, deberá ser informado de su situación de internamiento involuntario, para que en su caso, su condición cambie a la de internamiento voluntario.
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 32 BIS.- Todo tratamiento e internamiento de la población usuaria de los servicios de salud mental y las personas con consumo de sustancias psicoactivas, y de adicciones, deberá prescribirse previo consentimiento informado.
+
+Las personas prestadoras de servicios de salud mental, públicos o privados, están obligadas a comunicar a la persona, de manera accesible, oportuna y en lenguaje comprensible, la información veraz y completa, incluyendo los objetivos, los beneficios, los posibles riesgos, y las alternativas de un determinado tratamiento, para asegurar que los servicios se proporcionen sobre la base del consentimiento libre e informado. Una vez garantizada la comprensión de la información a través de los medios y apoyos necesarios, la población usuaria de los servicios de salud mental tiene el derecho de aceptarlos o rechazarlos.
+
+La persona con trastornos mentales y por consumo de sustancias psicoactivas, y de adicciones, es quien ostenta el derecho a consentir o denegar el permiso para cualquier tratamiento o internamiento, por lo que deberá presumirse que todos los pacientes tienen capacidad de discernir y deberán agotarse los esfuerzos para permitir que una persona acepte voluntariamente el tratamiento o el internamiento.
 
 ###### ARTÍCULO 33.
 
@@ -953,19 +1023,21 @@ b).- Capacitar al personal especializado en psicología para la rápida y oportu
 
 c).- Divulgar material informativo básico en materia de salud a los padres de familia o tutores con la finalidad de identificar algún tipo de trastorno en los alumnos y aplicar las medidas preventivas al respecto.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 34.
 
-El Ejecutivo del Estado y los Municipios promoverán la creación y operarán en su caso, centros de estancia prolongada en los que se pueda ingresar para su protección y rehabilitación a pacientes con enfermedad mental por tiempo definido o indefinido, atendiendo enunciativamente a las circunstancias siguientes:
+Para garantizar el acceso y continuidad de la atención de la salud mental y adicciones, se deberá de disponer de establecimientos o centros ambulatorios de atención primaria y servicios de psiquiatría en hospitales generales.
 
-I.- Personas con enfermedad mental que se encuentran en situación de calle por abandono social;
+El Ejecutivo del Estado y los Municipios promoverán la creación y operarán en su caso, centros ambulatorios de atención primaria a fin de atender la salud mental y adicciones.
 
-II.- Personas con enfermedad mental que sean internados a petición de la autoridad o sus familiares, para participar en un programa específico de rehabilitación y habiéndose justificado la necesidad del mismo en ambos casos; y
+El Ejecutivo del Estado, de manera progresiva deberá prever que en los hospitales generales de sus distintas dependencias se brinde servicios de psiquiatría.
 
-III.- Personas con enfermedad mental que requieran de custodia para protección de ellos mismos y de terceros.
+Los establecimientos de salud pública y privada, que presten atención a la población usuaria de los servicios de salud mental y con consumo de sustancias psicoactivas, y de adicciones, deberá observar las Normas Oficiales Mexicanas, que en la materia emita la Secretaría de Salud del Gobierno Federal.
 
-Para cumplir lo anterior se seguirá el procedimiento establecido por el artículo 32 de esta Ley.
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 34 BIS.- En previsión de requerir en el futuro servicios de atención médica, las personas tienen derecho a elaborar su voluntad anticipada en la que podrán determinar el tipo de acciones que desean sean tomadas para su tratamiento, o su negativa a recibir un tratamiento. En dicha manifestación de voluntad anticipada se establecerá, en su caso, la forma, alcance, duración y directrices de dicho apoyo, así como el momento o circunstancias en que su designación de apoyos a futuro surtirá eficacia. La persona podrá revocar en cualquier tiempo el contenido de la voluntad anticipada previamente adoptada.
 
 #### SECCION VI. DE LA ASISTENCIA SOCIAL
 
@@ -1059,17 +1131,27 @@ La Secretaría de Salud del Estado en el ámbito de su competencia, establecerá
 
 Las Autoridades Sanitarias del Estado y las propias instituciones públicas de salud, establecerán procedimientos de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran y los perfiles profesionales del campo de la salud que soliciten, así como mecanismos para que presenten sus denuncias, quejas, reclamaciones y sugerencias respecto de la prestación de los servicios de salud y a la falta de probidad, en su caso, de los servidores públicos.
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
 
-ARTÍCULO 45 BIS.- Es una obligación de los prestadores de servicios de salud el informar de forma suficiente, oportuna y veraz a los usuarios con respecto a su salud, sobre los riesgos y alternativas de los procedimientos, diagnósticos terapéuticos y quirúrgicos que se considere oportuno indicar o aplicar, para que los usuarios puedan decidir de manera libre sobre la aplicación de los mismos.
+ARTÍCULO 45 BIS.- Las personas usuarias tienen derecho a decidir libremente sobre la aplicación de los procedimientos diagnósticos y terapéuticos ofrecidos. En caso de urgencia o que la persona usuaria se encuentre en estado de incapacidad transitoria o permanente, la autorización para proceder será otorgada por el familiar que lo acompañe o su representante legal; en caso de no ser posible lo anterior, la persona prestadora de servicios de salud procederá de inmediato para preservar la vida y salud del usuario, dejando constancia en el expediente clínico.
 
-En el caso de urgencia o que el usuario se encuentre en estado de incapacidad transitoria o permanente, la autorización para proceder será otorgada por el familiar que lo acompañe o su representante legal; en caso de no ser posible lo anterior, el prestador de servicios de salud procederá de inmediato para preservar la vida y la salud del usuario, dejando constancia en el expediente clínico.
+Las personas usuarias de los servicios de salud en general, contarán con facilidades para acceder a una segunda opinión.
 
-Los usuarios de los servicios de salud en general, contarán con facilidades para acceder a una segunda opinión.
+El consentimiento informado, que constituye el núcleo del derecho a la salud, tanto desde la perspectiva de la libertad individual como de las salvaguardas para el disfrute del mayor estándar de salud.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE OCTUBRE DE 2022)</small>
+El consentimiento informado es la conformidad expresa de una persona, manifestada por escrito, para la realización de un diagnóstico o tratamiento de salud.
 
-Todo usuario de servicio de salud tiene derecho a conocer de la experiencia del prestador del servicio de salud; de su reputación y tiempo en el ejercicio profesional.
+Todas las personas prestadoras de servicios de salud, públicos o privados, están obligadas a comunicar a la persona, de manera accesible, oportuna y en lenguaje comprensible, la información veraz y completa, incluyendo los objetivos, los posibles beneficios y riesgos esperados, y las alternativas de tratamiento, para asegurar que los servicios se proporcionen sobre la base del consentimiento libre e informado.
+
+Una vez garantizada la comprensión de la información a través de los medios y apoyos necesarios, la población usuaria de los servicios de salud tiene el derecho de aceptarlos o rechazarlos.
+
+Una vez garantizada la comprensión de la información a través de los medios y apoyos necesarios, la población usuaria de los servicios de salud tiene el derecho de aceptarlos o rechazarlos.
+
+En el caso de las niñas, niños y adolescentes constituye una obligación por parte de las personas prestadoras de servicios de atención a la salud implementar los apoyos y ajustes razonables, adecuados a su edad para que su voluntad y preferencias sean tomadas en cuenta en la determinación del tipo de intervenciones encaminadas a garantizar su recuperación y bienestar.
+
+Se entenderá como ajustes razonables a las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales.
+
+No se entenderá que la persona no puede dar su consentimiento cuando se estime que está en un error o que no tiene conciencia de lo que hace.
 
 > <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2023)</small>
 
@@ -4138,3 +4220,19 @@ P.O. 6 DE NOVIEMBRE DE 2023.
 PRIMERO.- La presente reforma de Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El poder Ejecutivo por conducto de la Secretaría de Salud, realizará las previsiones presupuestales necesarias para el ejercicio fiscal posterior inmediato a la entrada en vigor de la presente reforma.
+
+P.O. 9 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 380 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 29, 30, 31, 31 BIS, 32, 34, 45 BIS Y SE ADICIONAN LOS ARTÍCULOS 31 TER, 32 BIS Y 34 BIS A LA SECCIÓN V DEL CAPÍTULO CUARTO DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA; SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 1, 3, 5, 7, 10, 12, 17, 23, 25, 26 Y 27 DE LA LEY DE SALUD MENTAL DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 9 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 381 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 19, 20 Y 21 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La aplicación del presente Decreto, estará sujeta a la disponibilidad presupuestaria.
+
+TERCERO.- El alcance del presente Decreto se encuentra sujeto a las disposiciones normativas y reglamentarias del Sistema de Salud para el Bienestar.
