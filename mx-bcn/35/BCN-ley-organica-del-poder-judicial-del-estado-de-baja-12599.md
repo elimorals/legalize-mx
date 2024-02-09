@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2023-12-04"
+last_updated: "2024-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2024.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -869,7 +869,9 @@ I.- Dar cuenta mensual al Tribunal Superior tanto de las diligencias que se le h
 
 II.- Practicar las diligencias que el Pleno del Tribunal o las Salas del mismo, les soliciten; así como las que le soliciten los jueces del Estado, los Tribunales de la Federación, los Jueces de otras entidades Federativas, a títulos a auxilio judicial.
 
-III.- Acordar y sentenciar oportuna, fundada y motivadamente los negocios sometidos a su conocimiento, con sujeción a las normas aplicables a cada caso.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+
+III.- Acordar y sentenciar oportuna, fundada, motivadamente y con perspectiva de género los negocios sometidos a su conocimiento, con sujeción a las normas aplicables a cada caso.
 
 IV.- Excusarse en los casos previstos por la ley.
 
@@ -4026,3 +4028,9 @@ III. Concretar las modificaciones reglamentarias, acciones administrativas y dem
 Quinto.- Las presentes reformas no afectarán las relaciones laborales, burocráticas o de servicios personales; ni los derechos adquiridos o demás prestaciones, que con anterioridad a su entrada en vigor, gozaban los servidores públicos o prestadores de servicios del Poder Judicial del Estado.
 
 Sexto.- El ejercicio de las atribuciones que con la vigencia de las presentes reformas competerán a las personas Jueces de Primera Instancia Civil o Familiar, en relación con la aplicación del Código Nacional de Procedimientos Civiles y Familiares en el Estado, no afectará sus nombramientos, la duración o periodo de ejercicio de su encargo, ni los derechos adquiridos o demás prestaciones que gozaban a la entrada en vigor de este decreto.
+
+P.O. 9 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 377 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULO 43, 114, 119, 129, 142 BIS, 293 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LA ADICIÓN DE LOS NÚMERALES 129 BIS, 129 TER Y 143 TER AL MISMO ORDENAMIENTO; SE APRUEBA LA REFORMA AL ARTÍCULO 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA; SE APRUEBA LA REFORMA AL ARTÍCULO 72 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA; SE APRUEBA LA REFORMA AL ARTÍCULO 9 DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
