@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-146020"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2023-09-25"
+last_updated: "2024-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2024.
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -393,7 +393,7 @@ I.- Proponer el contenido del Programa; los objetivos y las metas estatales en m
 
 II.- Dar seguimiento y evaluar el cumplimiento de los objetivos y las metas estatales en materia de seguridad, así como de los acuerdos y las disposiciones emitidas por el Consejo Nacional;
 
-III. - Proponer al Consejo Nacional y a las Conferencias que integran el Sistema Nacional acuerdos, programas específicos y convenios sobre las materias de coordinación que establece la Ley General y esta ley;
+III. - Proponer al Consejo Nacional y a las Conferencias que integran el Sistema Nacional acuerdos, programas específicos y convenios sobre las materias de coordinación que establece la Ley General y esta Ley;
 
 IV.- Sugerir la elaboración de instrumentos de planeación en materia de seguridad y la definición de sus objetivos, indicadores, metas, estrategias, líneas de acción y de cualquier otra información que deban contener;
 
@@ -523,7 +523,7 @@ XX.- Las demás que para el cumplimiento de los fines de la seguridad dispongan 
 
 ###### ARTÍCULO 20.
 
-El Secretariado Ejecutivo es un órgano desconcentrado dependiente de la Secretaria con autonomía técnica y de gestión, cuya función es el análisis de los fenómenos generadores de violencia, su comportamiento e incidencia, así como la proposición, seguimiento y evaluación de las estrategias a cargo de las Instituciones de Seguridad y sus resultados.
+El Secretariado Ejecutivo es un órgano desconcentrado dependiente de la Secretaría con autonomía técnica y de gestión, cuya función es el análisis de los fenómenos generadores de violencia, su comportamiento e incidencia, así como la proposición, seguimiento y evaluación de las estrategias a cargo de las Instituciones de Seguridad y sus resultados.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -1467,7 +1467,7 @@ III.- Inscriba o registre, como Miembro, o Agente Estatal de Investigación, Per
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-IV.- AI que ingrese a las Instituciones Policiales o a la Agencia Estatal de Investigación, a aquellos aspirantes y miembros que no hayan cursado ni aprobado los programas de formación, capacitación y profesionalización; y
+IV.- Al que ingrese a las Instituciones Policiales o a la Agencia Estatal de Investigación, a aquellos aspirantes y miembros que no hayan cursado ni aprobado los programas de formación, capacitación y profesionalización; y
 
 V. Asigne nombramiento de Policía, Agente del Ministerio Público, Perito, Elemento de Apoyo o personal operativo de los Prestadores de Servicios de Seguridad Privada a persona que no haya sido certificada y registrada en los términos de esta Ley.
 
@@ -3275,7 +3275,7 @@ III. Por Invalidez: al Miembro que se inhabilite física o mentalmente, de maner
 
 IV. Por fallecimiento: Cuando un Miembro fallezca a consecuencia del servicio, sus beneficiarios gozarán de los beneficios que comprende el seguro de vida.
 
-Los beneficiarios del Miembro que falleciere tendrán derecho a la pensión que le hubiere correspondido a éste por jubilación o edad y tiempo de servicio a la fecha de su fallecimiento, en el orden señalado en esta Ley, siempre que el Miembro haya cubierto los requisitos a que se refiere este artículo.
+Los beneficiarios del Miembro que falleciere tendrán derecho a la pensión que le hubiere correspondido a éste por jubilación o edad y tiempo de servicio, a la fecha de su fallecimiento, en el orden señalado en esta Ley, siempre que el Miembro haya cubierto los requisitos a que se refiere este artículo.
 
 Cuando fallezca un jubilado o pensionado, se entregará a sus deudos o a la persona que se encargue de los gastos funerarios, la cantidad equivalente a tres meses de su pensión para gastos de funeral, o en su caso lo que se haya establecido en el seguro de vida.
 
@@ -3367,9 +3367,13 @@ En caso de adopción, con fines de adaptación con su menor hijo, la mujer Miemb
 
 En ambos supuestos conservarán el pago íntegro de su remuneración, su cargo o comisión, y en general, no les podrán ser suspendidos o disminuidos sus derechos de seguridad social previstos en la presente Ley.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 221.
 
-Las madres policías durante los seis meses siguientes al vencimiento de la incapacidad por maternidad, disfrutarán de un periodo de lactancia de tres horas distribuidas a lo largo de su rol de servicio o jornada para alimentar a sus hijos.
+Las madres policías durante los seis meses siguientes al vencimiento de la incapacidad por maternidad, disfrutarán de un periodo de lactancia de tres horas distribuidas a lo largo de su rol de servicio o jornada para alimentar a sus hijos; las instituciones de seguridad deben designar sala de lactancia.
+
+Corresponde al Comité de Género, vigilar que se cumpla en todos sus términos lo dispuesto por el presente artículo.
 
 ### CAPÍTULO VI. CONTROVERSIAS EN LA APLICACIÓN DE LA LEY
 
@@ -3496,3 +3500,13 @@ P.O. 25 DE SEPTIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 292 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 19 Y 46 A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 379 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 221 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se contará para la instalación de las salas de lactancia, con un plazo de 90 días naturales, siguientes a la publicación de la presente reforma.
+
+TERCERO. La aplicación del presente Decreto estará sujeta a la disponibilidad presupuestal.
