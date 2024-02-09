@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-mental-del-estado-de-baja-california-127161"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-23"
-last_updated: "2023-11-06"
+last_updated: "2024-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD MENTAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2024.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Baja California, el viernes 23 de febrero de 2018.
 
@@ -39,9 +39,13 @@ LEY DE SALUD MENTAL DEL ESTADO DE BAJA CALIFORNIA
 
 ### Capítulo Primero. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, de interés social y de aplicación general en el Estado de Baja California y tiene por objeto asegurar el derecho a la protección de la salud mental de la población y garantizar el pleno goce de los derechos humanos de las personas con trastornos mentales y adicciones, así como regular el acceso y prestación de servicios de salud mental dentro del ambiente comunitario, y su vinculación con los servicios de protección y apoyo social complementarios.
+La presente Ley es de orden público, de interés social y de aplicación general en el Estado de Baja California y tiene por objeto asegurar el derecho a la protección de la salud mental de las personas y población usuaria, y garantizar el pleno goce de los derechos humanos de las personas con trastornos mentales y adicciones, así como regular el acceso y prestación de servicios de salud mental dentro del ambiente comunitario, y su vinculación con los servicios de protección y apoyo social complementarios.
+
+La salud mental y la prevención de las adicciones tendrán carácter prioritario dentro de las políticas de salud.
 
 ###### Artículo 2.
 
@@ -55,9 +59,11 @@ III. Definir los mecanismos y lineamientos para promover la participación de la
 
 IV. Las demás que le señalen otras leyes y disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 3.
 
-La salud mental, se define no solo como la ausencia de enfermedad mental, sino como el bienestar psíquico que experimenta de manera consciente una persona como resultado de su buen funcionamiento en los aspectos cognoscitivos, afectivos y conductuales, que le permiten el despliegue óptimo de sus potencialidades individuales para la convivencia, el trabajo y la recreación, de manera que pueda contribuir a su comunidad.
+Para los efectos de esta Ley, se entiende por salud mental un estado de bienestar físico, mental, emocional y social determinado por la interacción del individuo con la sociedad y vinculado al ejercicio pleno de los derechos humanos; y por adicción a la enfermedad física y psico-emocional que crea una dependencia o necesidad hacia una sustancia, actividad o relación.
 
 ###### Artículo 4.
 
@@ -66,6 +72,18 @@ El Gobierno del Estado, las Secretarías e instituciones públicas y sociales en
 ###### Artículo 5.
 
 El núcleo familiar desempeña una función esencial en el desarrollo de las potencialidades de las personas con trastornos mentales y adicciones, corresponde a la Secretaría de Salud, al Consejo Estatal de Salud Mental del Estado de Baja California y al Instituto de Psiquiatría del Estado de Baja California, proporcionar a las personas que integren el núcleo familiar, debida asistencia, asesoría, orientación, capacitación y adiestramiento necesario para tal fin.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE FEBRERO DE 2024)</small>
+
+El propósito último de los servicios de salud mental es la recuperación y el bienestar, el despliegue óptimo de sus potencialidades individuales para la convivencia, el trabajo y la recreación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE FEBRERO DE 2024)</small>
+
+La recuperación varía de persona a persona, de acuerdo con las preferencias individuales, significa el empoderamiento de la persona para poder tener una vida autónoma, superando o manejando el trauma.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE FEBRERO DE 2024)</small>
+
+La atención a la salud mental deberá brindarse con un enfoque comunitario, de recuperación y con estricto respeto a los derechos humanos de los usuarios de estos servicios, en apego a los principios de interculturalidad, interdisciplinariedad, integralidad, intersectorialidad, perspectiva de género y participación social.
 
 ###### Artículo 6.
 
@@ -137,9 +155,11 @@ XXXII. Tratamiento: diseño, planeación, instrumentación y conducción de estr
 
 XXXIII. Tratamiento mixto: sistema terapéutico que integran los aspectos farmacológico y de reintegración psicosocial sobre el funcionamiento cognitivo, la psicopatología y la calidad de vida de pacientes con diagnóstico de trastorno mental.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 7.
 
-Además de los derechos a que se refiere el artículo 10 de la Ley de Salud, las personas usuarias de los servicios de salud mental, tendrán derecho:
+Además de los derechos a que se refiere el artículo 31 Bis de la Ley de Salud, las personas usuarias de los servicios de salud mental, tendrán derecho:
 
 I. Al acceso oportuno y adecuado a los servicios de salud mental;
 
@@ -151,7 +171,7 @@ IV. A ser informado sobre las campañas, planes, programas y servicios que propo
 
 V. A conservar la confidencialidad de información personal, a una historia clínica de conformidad con lo establecido en las normas oficiales y al anonimato de los participantes en estudios;
 
-VI. A que se informe al padre, madre, tutor o representante legal con veracidad de la condición y el posible efecto del programa, campaña o tratamiento que reciba la persona usuaria, en caso de que sea menor de edad o incapaz. Lo anterior es aplicable a toda la población, incluida aquella que se encuentra en unidades médicas de reclusorios y comunidades para adolescentes, así como a grupos vulnerables;
+VI. (DEROGADA, P.O. 9 DE FEBRERO DE 2024)
 
 VII. A que se le apliquen exámenes de valoración, confiables y actualizados que consideren su entorno social o característica a estudiar y a conocer los alcances y las limitaciones de las evaluaciones realizadas
 
@@ -193,21 +213,23 @@ III. Fijar los lineamientos de coordinación para que los municipios, en el ámb
 
 IV. Suscribir convenios, acuerdos o cualquier instrumento jurídico de coordinación con los Municipios del Estado a efecto de mejorar la atención en materia de salud mental;
 
-V. Llevar a cabo los convenios de coordinación necesarios con los Municipios del Estado y el Instituto, para que en cada uno de los municipios del Estado, se cuente, mínimamente con un Módulo Comunitario de Atención en Salud Mental;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+
+V. Llevar a cabo los convenios de coordinación necesarios con los Municipios del Estado y el Instituto, para que, en cada uno de los municipios del Estado, se cuente, mínimamente con un centro ambulatorio de atención primaria que preste atención a la población usuaria de los servicios de salud mental y con consumo de sustancias psicoactivas, y de adicciones;
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 VI. Implementar estrategias de coordinación y supervisión de índole institucional con los prestadores de servicios de salud mental del sector público, social y privado, con la finalidad de generar convenios y acciones de coordinación para la prevención, diagnóstico oportuno, tratamiento y rehabilitación, además, de garantizar la calidad en la prestación de los servicios de salud mental y adicciones;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE FEBRERO DE 2024)</small>
 
 VII. Brindar, a través de una línea telefónica de ayuda psicológica y de intervención en crisis, atención en tiempo real y contribuir a estabilizar a los pacientes, mientras se canaliza a una terapia psicológica presencial;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE FEBRERO DE 2024)</small>
 
 VIII. La realización de programas para la prevención del suicidio a causa de trastornos mentales y del comportamiento, preferentemente en niñas, niños y adolescentes; y,
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE FEBRERO DE 2024)</small>
 
 IX. Las demás acciones que contribuyan a la promoción y fomento de la salud mental de la población.
 
@@ -215,13 +237,15 @@ IX. Las demás acciones que contribuyan a la promoción y fomento de la salud me
 
 La Secretaría y el Instituto buscará dar prioridad a la niñez, adolescencia, juventud, mujeres en condiciones de embarazo y puerperio, menopausia, adultos mayores, hombres con afecciones mentales y personas que se encuentran en situación de calle, de emergencia o desastre.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 12.
 
-La Secretaría de Educación, fomentará y llevará a cabo acciones de coordinación con la Secretaría de Educación Pública Federal, para que, en los centros escolares de educación inicial y básica en el sector público, se contemple lo siguiente:
+La Secretaría de Educación fomentará y llevará a cabo acciones de coordinación con la Secretaría de Educación Pública Federal, para que en los centros escolares de educación inicial y básica en el sector público, se contemple lo siguiente:
 
-I. Contar con personal capacitado y actualizado en la materia de psicología, pedagogía infantil y educación escolar con el objetivo de identificar un posible trastorno mental que presenten niñas o niños, debiéndolos canalizar a algún Módulo de Atención Mental o Centro Hospitalario, así como informar a sus padres o tutor y dar la orientación correspondiente;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+
+I. Contar con personal capacitado y actualizado en la materia de psicología, pedagogía infantil y educación escolar con el objetivo de identificar un posible trastorno mental que presenten niñas o niños, debiéndolos canalizar a algún centro ambulatorio de atención primaria con servicios de salud mental o centro hospitalario, así como informar a sus padres o tutor y dar la orientación correspondiente;
 
 II. Aplicar programas relacionados con salud mental infantil para que sean incorporados en el plan de estudios correspondiente; y
 
@@ -263,7 +287,9 @@ II. Diseñar y evaluar políticas de prevención y atención integral en materia
 
 III. La asignación de personal especializado en atención integral para cada uno de los trastornos que requieran atención prioritaria en base al presupuesto asignado;
 
-IV. Sensibilizar a la sociedad sobre los trastornos mentales y las alternativas para la solución de sus problemas como son terapias, pláticas y orientación en los Módulos de Atención en Salud Mental, Centros Hospitalarios, Centros de Salud y demás espacios para la atención de su problema.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+
+IV. Sensibilizar a la sociedad sobre los trastornos mentales y las alternativas para la solución de sus problemas como son terapias, pláticas y orientación en los Módulos de Atención en Salud Mental; centros ambulatorios de atención primaria con servicios de atención de salud mental y adicciones; centros hospitalarios; centros de salud y demás espacios para la atención de su problema;
 
 V. Instalar, administrar y operar la línea telefónica de ayuda psicológica y de intervención en crisis y la página electrónica de Salud Mental, para brindar orientación y canalización, en su caso, las cuales deberán estar disponibles las 24 horas, los 365 días del año;
 
@@ -289,9 +315,17 @@ XV. Informar acerca de las consecuencias del abandono, el maltrato y explotació
 
 XVI. Participar en la elaboración de planes en los que se informe a la comunidad sobre el desarrollo evolutivo y las posibles alteraciones en cada una de las etapas de desarrollo de las personas;
 
-XVII. Asesorar en la instalación, administración y operación de los Módulos Comunitarios de Atención en Salud Mental; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2024)</small>
 
-XVIII. Las demás que le otorgue la presente Ley y otras disposiciones legales aplicables.
+XVII. Asesorar a los prestadores de servicios de salud mental privados, en la instalación, administración y operación de Módulos Comunitarios de Atención en Salud Mental;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+
+XVIII. Asesorar en la instalación, administración y operación de las unidades de atención a la salud mental y de las adicciones o unidades de psiquiatría, en los centros ambulatorios de atención primaria y hospitales generales que cuente (sic) con este servicio; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE FEBRERO DE 2024)</small>
+
+XIX. Las demás que le otorgue la presente Ley y otras disposiciones legales aplicables.
 
 (sic) Cuarto
 
@@ -375,9 +409,11 @@ La inversión en materia de salud mental constituye una acción de interés soci
 
 Son obligaciones del Gobierno del Estado incluir una partida no menor al 5% del presupuesto total destinado a la salud, que garantice a la Secretaría y al Instituto cumplir con los objetivos señalados en la presente ley, para ser invertido en la planeación, organización, operación, supervisión y evaluación de la prestación de los servicios en materia de salud mental.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 23.
 
-La Secretaría deberá considerar en la erogación del recurso asignado, medidas a mediano y largo plazo para la creación de Módulos de Atención en Salud Mental a efecto de incrementar la cobertura de los servicios de salud mental en el Estado de Baja California.
+La Secretaría deberá considerar en la erogación del recurso asignado, medidas a mediano y largo plazo para la creación de centros ambulatorios de atención primaria con servicios de salud mental y de adicciones, a efecto de incrementar la cobertura de los servicios de salud mental en el Estado de Baja California.
 
 ###### Artículo 24.
 
@@ -385,23 +421,33 @@ La Secretaría fomentará la aportación de recursos económicos y en especie pa
 
 ### Capítulo Sexto. De Las Sanciones Y Recurso De Inconformidad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 25.
 
-Las violaciones a los preceptos de esta ley, su reglamento y demás disposiciones legales que de ella emanen, serán sancionadas administrativamente por:
+Las violaciones a los preceptos de esta ley, su reglamento y demás disposiciones legales que de ella emanen, serán sancionadas administrativamente, en el ámbito de su competencia, por:
 
-I. La Secretaria de la Contraloría y Transparencia Gubernamental; y,
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
 
-II. La COFEPRIS en el ámbito de su competencia.
+I. La Secretaría de la Honestidad y Función Pública, órganos de control interno, y por la Sala Especializada en materia de Responsabilidades Administrativas y Combate a la Corrupción del Tribunal Estatal de Justicia Administrativa, según corresponda; y,
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+
+II. La Comisión Estatal para la Protección Contra Riesgos Sanitarios (COEPRIS).
 
 Lo anterior, sin menoscabo de las sanciones que establezcan otros ordenamientos jurídicos.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 26.
 
-La Contraloría es competente para vigilar y sancionar las acciones u omisiones que cometan los servidores públicos que deriven en incumplimiento del presente ordenamiento, de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+Las autoridades a que se refiere la fracción I del artículo anterior, son competente (sic), según corresponda, para vigilar y sancionar las acciones u omisiones que cometan los servidores públicos que deriven en incumplimiento del presente ordenamiento, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Baja California.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 27.
 
-La COFEPRIS, vigilará, regulará y sancionará las contravenciones a las disposiciones señaladas en la presente ley, sólo para el caso de los establecimientos que brindan servicios de salud mental.
+La COEPRIS vigilará, regulará y sancionará las contravenciones a las disposiciones señaladas en la presente ley, sólo para el caso de los establecimientos que brindan servicios de salud mental.
 
 ###### Artículo 28.
 
@@ -460,3 +506,13 @@ P.O. 6 DE NOVIEMBRE DE 2023.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las autoridades educativas del Estado en un plazo de seis meses contados a partir de la vigencia del presente Decreto, actualizarán y/o emitirán los programas o protocolos de promoción, prevención y abordaje de la salud mental de los estudiantes.
+
+P.O. 9 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 380 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 29, 30, 31, 31 BIS, 32, 34, 45 BIS Y SE ADICIONAN LOS ARTÍCULOS 31 TER, 32 BIS Y 34 BIS A LA SECCIÓN V DEL CAPÍTULO CUARTO DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA; SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 1, 3, 5, 7, 10, 12, 17, 23, 25, 26 Y 27 DE LA LEY DE SALUD MENTAL DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para la ejecución y cumplimiento de las disposiciones contenidas en el presente Decreto, se realizarán de forma gradual y progresiva, considerando los recursos disponibles. Para su cabal cumplimiento, se estará a la actualización de normas y disposiciones reglamentarias a que se refiere el artículo transitorio tercero del DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, en materia de Salud Mental y Adicciones, publicado el 16 de mayo de 2022 en el Diario Oficial de la Federación.
+
+TERCERO.- Para garantizar el acceso y continuidad de la atención de la salud mental y adicciones, el Poder Ejecutivo del Estado deberá implementar un programa para disponer de establecimientos o centros ambulatorios de atención primaria y servicios de psiquiatría en hospitales generales del sector público, en la totalidad de los municipios de la entidad, iniciando preferentemente en el municipio en donde la población requiera mayor servicio en la atención de la salud mental, mediante la creación de un centro ambulatorio o la habilitación de una unidad de psiquiatría en el Hospital General respectivo.
