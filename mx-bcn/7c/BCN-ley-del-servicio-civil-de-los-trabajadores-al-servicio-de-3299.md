@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-3299"
 country: "mx"
 rank: "ley"
 publication_date: "1989-10-20"
-last_updated: "2018-11-30"
+last_updated: "2024-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SERVICIO CIVIL DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 20 de octubre de 1989.
 
@@ -351,9 +351,11 @@ En los reglamentos de esta Ley y en la práctica se procurará que los días de 
 
 Los trabajadores que presten sus servicios en sábado o domingo o en ambos días, tendrán derecho al pago de una prima adicional de un 35% por lo menos en base al salario normal de los demás días de trabajo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2024)</small>
+
 ###### ARTICULO 29.
 
-Las mujeres disfrutarán de 30 días de descanso antes de la fecha que aproximadamente se fije del parto y de 60 días después del mismo; pudiendo ampliarse la periodicidad en casos especiales mediante dictámenes médicos, además durante la lactancia tendrán un descanso extraordinario por día de cuando menos una hora para amamantar a sus hijos, estas prerrogativas se conceden independientemente de las vacaciones o demás descansos que se estipulen en la presente Ley.
+Las mujeres disfrutarán de 30 días de descanso antes de la fecha que aproximadamente se fije del parto y de 60 días después del mismo; pudiendo ampliarse la periodicidad en casos especiales mediante dictámenes médicos, además durante la lactancia tendrán un descanso extraordinario por día de cuando menos una hora para amamantar a sus hijos, estas prerrogativas se conceden independientemente de las vacaciones o demás descansos que se estipulen en la presente Ley; la institución o dependencia debe contar con sala de lactancia.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
@@ -2476,3 +2478,13 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 9 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 378 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 29 DE LA LEY DEL SERVICIO CIVIL DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se contará para la instalación de las salas de lactancia, con un plazo de 90 días naturales, siguientes a la publicación de la presente reforma.
+
+TERCERO. La aplicación del presente Decreto estará sujeta a la disponibilidad presupuestal.
