@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-crea-la-comision-estatal-del-sistema-penitenciario-1427
 country: "mx"
 rank: "ley"
 publication_date: "2020-04-30"
-last_updated: "2023-01-27"
+last_updated: "2024-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE CREA LA COMISIÓN ESTATAL DEL SISTEMA PENITENCIARIO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2024.
 
 Ley publicada en el Número 58 del Periódico Oficial del Estado de Baja California, el jueves 30 de abril de 2020.
 
@@ -59,7 +59,9 @@ Para los efectos de esta ley, se entenderá por:
 
 I. El Consejo: Consejo de Desarrollo Policial.
 
-II. El Comisionado: el Titular de la Comisión Estatal del Sistema Penitenciario del Estado.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+
+II. La Comisionada o Comisionado: la persona Titular de la Comisión Estatal del Sistema Penitenciario del Estado.
 
 III. La Comisión: La Comisión Estatal del Sistema Penitenciario de Baja California.
 
@@ -67,9 +69,9 @@ IV. Ley de Ley de (sic) Ejecución: Ley Nacional de Ejecución Penal.
 
 V. Ley de Justicia para Adolescentes: Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
 
-VI. Miembro: Elemento de la Fuerza Estatal de Seguridad y Custodia Penitenciaria.
+VI. Miembro: las y los servidores públicos integrantes de la Fuerza Estatal de Seguridad y Custodia Penitenciaria.
 
 VII. Unidades de Abastecimiento: Las Unidades de Abastecimiento de productos, servicios alimentarios y de higiene que se establezcan en los Centros de Reinserción Social.
 
@@ -99,9 +101,9 @@ VI. Organizar las instalaciones de los Centros de Reinserción Social y de los C
 
 VII. Procurar la reinserción social efectiva mediante los distintos programas institucionales;
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
 
-VIII. Garantizar condiciones de internamiento dignas y seguras acordes al género de las personas privadas de su libertad, asegurando en todo momento a las mujeres y personas menstruantes el acceso a los productos de gestión menstrual, conforme a la legislación aplicable;
+VIII. Garantizar condiciones de internamiento dignas y seguras acordes al género de las personas privadas de su libertad, asegurando en todo momento a las mujeres y personas menstruantes el acceso a los productos de gestión menstrual en los Centros de Reinserción Social y Centros de Internamiento para Adolescentes, conforme a la legislación aplicable;
 
 IX. Gestionar la custodia penitenciaria;
 
@@ -187,23 +189,39 @@ IV. Las demás unidades administrativas que establezca su reglamento interior.
 
 La Junta de Gobierno es el órgano máximo de gobierno al interior de la Comisión, el cual estará integrado por los titulares de las siguientes dependencias:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
 
-I. El Secretario de Seguridad Ciudadana, quien la presidirá;
+I. La persona Titular de la Secretaría de Seguridad Ciudadana, quien la presidirá;
 
-II. El Secretario de Educación;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
 
-III. El Secretario de Salud;
+II. La persona Titular de la Secretaría de Educación;
 
-IV. El Secretario del Trabajo y Previsión Social, y
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
 
-V. Un Secretario Técnico, que será el Comisionado, quien participará sólo con voz en las sesiones de la Junta de Gobierno.
+III. La persona titular de la Secretaría de Salud;
 
-El presidente de la Junta (sic) Gobierno y sus miembros serán suplidos en sus ausencias temporales por quien éstos designen, con las mismas facultades.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+
+IV. La persona Titular de la Secretaría del Trabajo y Previsión Social;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2024)</small>
+
+V. La persona titular de la Secretaría de Inclusión Social e Igualdad de Género; y,
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+
+VI. Una Secretaría Técnica, a cargo de la persona Titular de la Comisión Estatal, quien participará sólo con voz en las sesiones de la Junta de Gobierno.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
+
+La presidencia de la Junta Gobierno y las demás personas que la integren, serán suplidas en sus ausencias temporales por quien éstos designen, con las mismas facultades.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 10.
 
-Los miembros de la Junta de Gobierno previstos en el artículo anterior, durarán en su cargo en tanto sean titulares de las Dependencias en cuestión. Los cargos serán honoríficos.
+Las y los servidores públicos que integran la Junta de Gobierno previstos en el artículo anterior, durarán en su cargo en tanto sean titulares de las Dependencias en cuestión. Los cargos serán honoríficos.
 
 ###### Artículo 11.
 
@@ -231,9 +249,13 @@ V. Aprobar los Estados Financieros de la Comisión;
 
 VI. Aprobar el calendario de sesiones ordinarias de la Junta de Gobierno;
 
-VII. Nombrar y remover a los servidores públicos de la Comisión, en los supuestos que establezcan las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
 
-VIII. Otorgar en favor del Comisionado Poder General para pleitos y cobranzas, actos de administración y dominio, con todas las facultades generales y las especiales que requieran clausula especial conforme a la Ley;
+VII. Nombrar y remover a las y los servidores públicos de la Comisión, en los supuestos que establezcan las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+
+VIII. Otorgar en favor de la persona que ocupa el cargo de Comisionada o Comisionado, Poder General para pleitos y cobranzas, actos de administración y dominio, con todas las facultades generales y las especiales que requieran clausula especial conforme a la Ley;
 
 IX. Aprobar la estructura orgánica, salarial y ocupacional conforme a las disposiciones aplicables;
 
@@ -245,13 +267,17 @@ XII. Analizar y aprobar, en su caso, los informes periódicos que rinda el Comis
 
 XIII. Los demás que se requieren y sean propios para el cumplimiento de sus funciones y fines de la Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 14.
 
-El Presidente de la Junta de Gobierno tiene las atribuciones siguientes:
+La persona que preside la Junta de Gobierno tiene las atribuciones siguientes:
 
 I. Presidir las sesiones de la Junta de Gobierno, teniendo voto de calidad;
 
-II. Convocar, por conducto del Secretario Técnico a las sesiones ordinarias y extraordinarias;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+
+II. Convocar, por conducto de la Secretaría o Secretario Técnico, a las sesiones ordinarias y extraordinarias;
 
 III. Proponer el calendario de sesiones de la Junta de Gobierno;
 
@@ -261,17 +287,23 @@ V. Firmar las actas de las sesiones, y
 
 VI. Las demás que establezcan otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 15.
 
-El Secretario Técnico tendrá las atribuciones siguientes:
+La persona a cargo de la Secretaría Técnica tendrá las atribuciones siguientes:
 
-I. Notificar y entregar la convocatoria de las sesiones a los integrantes de la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+
+I. Notificar y entregar la convocatoria de las sesiones a las personas integrantes de la Junta de Gobierno;
 
 II. Pasar lista de asistencia y verificar la existencia de quórum legal para sesionar;
 
 III. Levantar, certificar y archivar las actas de las sesiones de la Junta de Gobierno;
 
-IV. Firmar las actas de las sesiones y recabar la de los integrantes de la Junta de Gobierno que asistan a las sesiones;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+
+IV. Firmar las actas de las sesiones y recabar la de las y los integrantes de la Junta de Gobierno que asistan a las sesiones;
 
 V. Dar seguimiento a los acuerdos de la Junta de Gobierno, y
 
@@ -279,31 +311,39 @@ VI. Las demás que establezcan otras disposiciones aplicables.
 
 ### CAPÍTULO V. DEL COMISIONADO
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 16.
 
-Al frente de la Comisión estará el Comisionado, quien será designado y removido por el Gobernador del Estado.
+Al frente de la Comisión estará la persona Comisionada o Comisionado, quien será designada y removida por la persona titular del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 17.
 
-Para acceder al cargo de Comisionado se requiere:
+Para acceder al cargo de Comisionada o Comisionado, se requiere:
 
-(NOTA: EL 17 DE AGOSTO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 182/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE AGOSTO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
 
-I. Ser mexicano POR NACIMIENTO;
+I. Ser mexicana o mexicano;
 
 II. Ser mayor de treinta años;
 
 III. Contar con título profesional a nivel licenciatura o grado superior y cédula profesional con antigüedad de por lo menos con cinco años de ejercicio profesional;
 
-IV. No haber sido condenado por delito doloso;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+
+IV. No haber sido condenada o condenado por delito doloso;
 
 V. No desempeñar ningún otro empleo, cargo, puesto o comisión, a excepción de los relacionados con la docencia, y
 
 VI. Ser de notoria buena conducta, honradez y probidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 18.
 
-El Comisionado tendrá las siguientes facultades y obligaciones:
+La persona que se desempeñe como Comisionada o Comisionado tendrá las siguientes facultades y obligaciones:
 
 I. Administrar el sistema penitenciario;
 
@@ -315,7 +355,9 @@ IV. Supervisar las instalaciones de los de Reinserción Social, los Centros de I
 
 V. Celebrar y otorgar toda clase de actos y documentos inherentes al objeto y funciones de la Comisión;
 
-VI. Proponer a la Junta de Gobierno el nombramiento y la remoción de los servidores públicos, en los términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+
+VI. Proponer a la Junta de Gobierno el nombramiento y la remoción de las personas servidoras públicas, en los términos de las disposiciones aplicables;
 
 VII. Presentar periódicamente, a la Junta de Gobierno, el informe del desempeño de las actividades de la Comisión, en los términos de las disposiciones aplicables;
 
@@ -371,11 +413,17 @@ XXXII. Expedir órdenes, circulares y demás documentos en el ámbito administra
 
 XXXIII. Ejecutar las órdenes de traslado de las autoridades jurisdiccionales de las mujeres y los hombres privados de la libertad o solicitar las mismas, en los términos de las disposiciones aplicables, y
 
-XXXIII (SIC). Las demás que establezcan otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
 
-Para el despacho de los asuntos que competen al Comisionado, dispondrá de personal de seguridad y custodia, técnico, jurídico, administrativo, y de policía procesal necesario para garantizar el debido cumplimiento de sus funciones.
+XXXIV. Las demás que establezcan otras disposiciones aplicables.
 
-Las ausencias temporales del Comisionado hasta por quince días naturales serán suplidas por el funcionario que el designe; en las mayores de este periodo, serán por quién designe el Gobernador del Estado.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
+
+Para el despacho de los asuntos que competen a la persona Comisionada o Comisionado, dispondrá de personal de seguridad y custodia, técnico, jurídico, administrativo, y de policía procesal necesario para garantizar el debido cumplimiento de sus funciones.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
+
+Las ausencias temporales de la persona Comisionada o Comisionado hasta por quince días naturales serán suplidas por el funcionario que el designe; en las mayores de este periodo, serán por quién designe la persona titular del Poder Ejecutivo del Estado.
 
 ### CAPÍTULO VI. DEL CONSEJO DE DESARROLLO POLICIAL
 
@@ -383,21 +431,27 @@ Las ausencias temporales del Comisionado hasta por quince días naturales serán
 
 Si la naturaleza del asunto a tratar corresponde a una controversia que se suscite con relación al Régimen Disciplinario (sic) procedimientos del Servicio Profesional de Carrera, el Consejo se integrará de la forma siguiente:
 
-I.- Un presidente.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
 
-II.- Un Secretario Técnico.
+I.- La persona que ocupa el cargo de presidente.
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+
+II.- La persona que ocupa la Secretaría Técnica.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 9 DE FEBRERO DE 2024)</small>
 
 III.- Tres Vocales, que serán:
 
-A) El titular de la Unidad de Asuntos Internos.
+A) La persona titular de la Unidad de Asuntos Internos.
 
-B) El Director del Centro de Reinserción Social o del Centro de Internamiento para Adolescentes en el Estado, al que pertenezca el Miembro sujeto al procedimiento.
+B) La persona titular de la Dirección del Centro de Reinserción Social o del Centro de Internamiento para Adolescentes en el Estado, al que pertenezca el Miembro sujeto al procedimiento.
 
-C) Un Representante, que será un Miembro de la unidad operativa, ya sea de investigación, prevención o de reacción del Centro al que pertenezca el Miembro sujeto al procedimiento.
+C) Una persona representante, que será una o un Miembro de la unidad operativa, ya sea de investigación, prevención o de reacción del Centro al que pertenezca el Miembro sujeto al procedimiento.
 
 Los procedimientos que se aplicarán se establecerán en el Reglamento de la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 20.
 
@@ -425,9 +479,13 @@ B) En materia del Servicio Profesional de Carrera:
 
 I. Recibir las quejas o denuncias presentadas con relación al Servicio Profesional de Carrera;
 
-II. Conocer y resolver toda controversia que se suscite con relación a los procedimientos del Servicio Profesional de Carrera de los Aspirantes, Cadetes o Miembros;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
 
-III. Validar y otorgar a los Miembros, condecoraciones, estímulos y promociones, instruyendo en éstas últimas, el otorgamiento de la constancia de grado policial correspondiente, y de conformidad a los procedimientos establecidos en esta Ley, su Reglamento y demás disposiciones aplicables, y
+II. Conocer y resolver toda controversia que se suscite con relación a los procedimientos del Servicio Profesional de Carrera de las personas Aspirantes, Cadetes o Miembros;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+
+III. Validar y otorgar a las personas Miembros, condecoraciones, estímulos y promociones, instruyendo en éstas últimas, el otorgamiento de la constancia de grado policial correspondiente, y de conformidad a los procedimientos establecidos en esta Ley, su Reglamento y demás disposiciones aplicables, y
 
 IV. Las demás que señalen en esta Ley, su Reglamento y demás disposiciones aplicables.
 
@@ -441,21 +499,21 @@ III. Proponer las reformas necesarias a los procedimientos jurídicos que regula
 
 IV. Dictar las medidas necesarias para el despacho pronto y expedito de los asuntos de su competencia;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
 
-V. Llevar y mantener actualizado el registro de datos de los Aspirantes, Cadetes y Miembros, así como supervisar su operatividad y confidencialidad, proporcionando la información al Registro Nacional de Personal de Seguridad Pública y al Sistema Estatal de Información sobre Seguridad Ciudadana, y
+V. Llevar y mantener actualizado el registro de datos de las personas Aspirantes, Cadetes y Miembros, así como supervisar su operatividad y confidencialidad, proporcionando la información a (sic) del Registro Nacional de Personal de Seguridad Pública y al Sistema Estatal de Información sobre Seguridad Ciudadana; y,
 
 VI. Las demás que señalen en la Ley, su Reglamento y demás disposiciones aplicables.
 
 ### CAPÍTULO VII. DEL ACCESO A SERVICIOS O PRODUCTOS BÁSICOS
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 21.
 
-La Comisión para lograr el acceso a servicios y acceso a productos básicos de las mujeres y los hombres privados de la libertad, contará con unidades de abastecimiento que en todo momento procurará cumplir con las necesidades acordes a cada género, mismas que para su debida administración, control y vigilancia, podrá operar mediante fideicomiso o el instrumento jurídico que determine la Junta de Gobierno.
+La Comisión para lograr el acceso a servicios y acceso a productos básicos de las mujeres y los hombres privados de la libertad, así como personas adolescentes en internamiento, contará con unidades de abastecimiento que en todo momento procurará cumplir con las necesidades acordes a cada género, mismas que para su debida administración, control y vigilancia, podrá operar mediante fideicomiso o el instrumento jurídico que determine la Junta de Gobierno.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE ENERO DE 2023)</small>
-
-Los Centros de Reinserción Social para mujeres deberán garantizar el acceso gratuito a productos de gestión menstrual para las mujeres y personas menstruantes privadas de la libertad.
+Los Centros de Reinserción Social para mujeres y los Centros de Internamiento para Adolescentes, deberán garantizar el acceso gratuito a productos de gestión menstrual para las mujeres, adolescentes y personas menstruantes privadas de la libertad.
 
 ###### Artículo 22.
 
@@ -514,3 +572,9 @@ P.O. 27 DE ENERO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. El suministro gratuito de productos de gestión menstrual se sujetará a la disponibilidad presupuestaria de la Comisión Estatal del Sistema Penitenciario de Baja California y con base a las disposiciones normativas aplicables en términos de la Ley General de Salud.
+
+P.O. 9 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 375 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3, 5, 9, 10, 13, 14, 15, 16, 18, 19, 20 Y 21 DE LA LEY QUE CREA LA COMISIÓN ESTATAL DEL SISTEMA PENITENCIARIO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
