@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2023-12-08"
+last_updated: "2024-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -327,9 +327,15 @@ f) Utilizar a otros familiares o personas allegadas de la mujer para cometer est
 
 g) Que las instituciones de procuración y administración de justicia no reconozcan la violencia vicaria y emitan resoluciones o sentencias en contra de los derechos de las mujeres y del interés superior de la niñez.
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2024)</small>
 
-X. Cualesquiera otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+X. Violencia Ácida: Es aquella que pretenda causar daño físico irreversible que lastime, altere y/o cause alguna discapacidad, mediante la acción de arrojar ácido, álcalis, sustancias químicas, corrosivas, cáusticas, irritantes, tóxicas, inflamables, líquidos a altas temperaturas o cualquier otra sustancia que pueda provocar o no lesiones en órganos internos, externos o ambos.
+
+Este tipo de violencia implica una alta carga simbólica toda vez que la finalidad es causar de forma deliberada y permanente dolor, sufrimiento y humillación a la mujer, además de causar daño físico, psicológico y emocional irreparable e irreversible, es decir, dejar una marca permanente en ella.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE FEBRERO DE 2024)</small>
+
+XI. Cualesquiera otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 > <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
 
@@ -1938,5 +1944,11 @@ P.O. 8 DE DICIEMBRE DE 2023.
 P.O. 8 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 336 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, COMO TAMBIÉN LA ADICIÓN DEL NUMERAL 11 QUÁTER, AL MISMO ORDENAMIENTO, ASÍ MISMO SE APRUEBA LA REFORMA A LOS ARTÍCULOS 131, 261 Y 261 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 377 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 43, 114, 119, 129, 142 BIS, 293 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LA ADICIÓN DE LOS NUMERALES 129 BIS, 129 TER Y 143 TER AL MISMO ORDENAMIENTO; SE APRUEBA LA REFORMA AL ARTÍCULO 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA; SE APRUEBA LA REFORMA AL ARTÍCULO 72 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA; SE APRUEBA LA REFORMA AL ARTÍCULO 9 DE LA LEY DE VICTIMAS PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
