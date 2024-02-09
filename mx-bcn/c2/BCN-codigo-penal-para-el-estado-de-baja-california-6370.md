@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2023-12-08"
+last_updated: "2024-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2024.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -585,7 +585,9 @@ II.- Violencia familiar;
 
 III.- Violación en cualquiera de sus formas de comisión;
 
-IV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2023)</small>
+
+IV.- Feminicidio;
 
 V.- Abuso sexual mediante violencia;
 
@@ -1357,6 +1359,10 @@ Si además de la pena de prisión el delito mereciere otra accesoria o una alter
 
 En los demás casos, la acción penal prescribirá en dos años.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE FEBRERO DE 2023)</small>
+
+El delito de feminicidio es imprescriptible.
+
 Artículo 114 BIS.- (DEROGADO, P.O. 9 DE JUNIO DE 2023)
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
@@ -1399,17 +1405,11 @@ Lo prevenido en los párrafos anteriores de este artículo no comprende el caso 
 
 ### CAPITULO XI. PRESCRIPCION DE LA POTESTAD DE EJECUTAR LAS PENAS Y MEDIDAS DE SEGURIDAD
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 119.
 
-Plazos para la prescripción.- Los plazos para la prescripción de la potestad para ejecutar las penas y medidas de seguridad, serán continuos y correrán desde el día siguiente a aquél en que el sentenciado se substraiga a la acción de la justicia, si las penas o medidas de seguridad fueren privativas o restrictivas de la libertad, y si no lo son desde la fecha de la sentencia ejecutoria o del momento en que expresamente lo disponga la Ley.
-
-(NOTA: EL 11 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 26/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS CONSISTENTES EN SU EXPULSIÓN DEL ORDEN JURÍDICO DESDE LA FECHA DE LA ENTRADA EN VIGOR DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO; ESTO ES, EL 28 DE FEBRERO DE 2011, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MARZO DE 2015)</small>
-
-LA EJECUCIÓN DE SANCIONES SERÁ IMPRESCRIPTIBLE EN LOS DELITOS PREVISTOS EN LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
+Plazos para la prescripción.- Los plazos para la prescripción de la potestad para ejecutar las penas y medidas de seguridad, serán continuos y correrán desde el día siguiente a aquél en que la persona sentenciada se substraiga a la acción de la justicia, si las penas o medidas de seguridad fueren privativas o restrictivas de la libertad, y si no lo son desde la fecha de la sentencia ejecutoria o del momento en que expresamente lo disponga la Ley.
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1489,35 +1489,81 @@ Parentesco no consanguíneo.- Al que dolosamente prive de la vida de su cónyuge
 
 ### CAPITULO III. FEMINICIDIO
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 129.
 
-FEMINICIDIO: Comete el delito de Feminicidio el que dolosamente prive de la vida a una o varias mujeres por razones de Género. Se considera que existen razones de género, cuando se dé una o más de las siguientes circunstancias:
+FEMINICIDIO: Comete el delito de feminicidio quien prive de la vida a una mujer por una razón de género. Para efectos de este artículo el término mujer incluye a todas las mujeres en su diversidad y etapas de vida.
 
-I.- Haya existido entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, noviazgo o amistad;
+Se considera que existe una razón de género, cuando ocurra cualquiera de las siguientes circunstancias:
 
-II.- Haya existido entre el activo y la víctima una relación laboral, docente, o cualquier otra que implique confianza, subordinación o superioridad;
+I. Haya existido, entre el activo y la víctima, una relación sentimental, afectiva o de confianza, de parentesco por consanguinidad, o afinidad, matrimonio, concubinato, sociedad de convivencia, cohabitación, noviazgo o cualquier otra relación de hecho o amistad.
 
-III. La víctima presente signos de violencia sexual de cualquier tipo;
+II. Haya existido, entre el activo y la víctima, una relación laboral, docente, religiosa, institucional o cualquier otra que implique, de manera formal o de hecho, una relación de subordinación o superioridad.
 
-IV. A la víctima se le hayan infringido lesiones infamantes, degradantes o mutilaciones previa o posterior a la privación de la vida;
+III. Existan antecedentes de violencia de género del sujeto activo en contra de la víctima en el ámbito familiar, laboral, docente, institucional, comunitario, político o escolar, digital, mediático, o de cualquier otro.
 
-V. Existan antecedentes de amenazas, acoso o lesiones del sujeto activo en contra de la víctima;
+IV. La víctima presente signos de violencia sexual de cualquier tipo.
 
-VI. El cuerpo de la víctima sea expuesto o arrojado en un lugar público;
+V. El cuerpo o los restos de la víctima presenten heridas, traumatismos, escoriaciones, contusiones, decapitamiento, desollamiento, fracturas, dislocaciones, cortes, quemaduras, signos de asfixia, estrangulamiento, ahorcamiento, tortura, desmembramiento de partes del cuerpo o cualquier tipo de lesiones o mutilaciones, internas o externas, infamantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia.
 
-VII. La víctima haya sido incomunicada.
+VI. Existan datos antecedentes o indicios, denunciados o no, que establezcan que hubo amenazas, agresiones de cualquier tipo, intimidación, hostigamiento, acoso o lesiones del sujeto activo en contra de la víctima, incluidas aquellas encaminadas a limitar, anular o menoscabar los derechos políticos y electorales de las víctimas o el ejercicio de un cargo político, público, de poder o de decisión.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2020)</small>
+VII. El cuerpo o restos de la víctima sean expuestos, o exhibidos, depositados, arrojados, enterrados u ocultados en un lugar público o de libre concurrencia.
 
-A quien cometa el delito de feminicidio se le impondrá una pena de prisión de treinta y cinco a sesenta años de prisión, y una multa de doscientos a dos mil veces el valor diario de la Unidad de Medida y Actualización Vigente.
+VIII. La víctima haya sido incomunicada o privada de la libertad cualquiera que sea el tiempo previo a la privación de la vida.
 
-Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+A quien cometa el delito de feminicidio se le impondrán de cuarenta a sesenta años de prisión y multa de quinientos a dos mil veces el valor de la Unidad de Medida de Actualización.
+
+Adicionalmente, el sujeto activo será condenado a la pérdida de la patria potestad, cuando tenga hijos o hijas con la víctima y se ordenará a las autoridades competentes la protección, prestación de servicios de ayuda inmediata, asistencia, atención y reparación integral del daño de las niñas, niños y adolescentes que hubiesen quedado en situación de orfandad por feminicidio. Además, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+
+Toda muerte violenta de mujeres será investigada como feminicidio, incluida aquella que en principio pareciera haber sido causada por motivos criminales, suicidio y accidentes, sin perjuicio de la reclasificación jurídica que posteriormente pueda darse con motivo de los hallazgos o resultados de la investigación, debiendo investigarse con perspectiva de género y tratándose de niñas o adolescentes con perspectiva de niñez.
+
+El delito de feminicidio es imprescriptible.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2023)</small>
+
+Artículo 129 BIS.- Agravantes de feminicidio. La pena prevista en el artículo anterior se aumentará hasta una tercera parte de su mínimo y máximo, en los siguientes casos:
+
+I) Cuando la víctima sea una niña o adolescente, indígena, mujer menor de edad, embarazada, adulta mayor o con discapacidad.
+
+II) Cuando el sujeto activo sea servidor público y haya cometido la conducta valiéndose de esta condición.
+
+III) Cuando la víctima se haya encontrado en un estado de indefensión o desprotección real frente al sujeto activo, causado por factores físicos, psicológicos o materiales que imposibiliten o inhiban su defensa, como la edad, el nivel de desarrollo cognitivo, las amenazas, la somnolencia o alteración de los sentidos causado por el consumo de alcohol, fármacos o drogas.
+
+IV) Cuando la víctima sea llevada a lugares despoblados u ocultos.
+
+V) Cuando el sujeto activo haya obligado a la víctima a ejercer la prostitución o haya ejercido actos de explotación o trata de personas en agravio de la víctima.
+
+VI) Cuando el delito sea cometido en presencia de una o más personas con quienes la víctima tuviere un vínculo de parentesco por consanguinidad, afinidad o civil, matrimonio, concubinato, sociedad de convivencia, cohabitación, noviazgo, o cualquier otra relación afectiva, sentimental o, de hecho.
+
+VII) Cuando el delito sea cometido por dos o más personas.
+
+VIII) Cuando el sujeto activo, con motivo de su cargo, encargo o situación personal, tenga la obligación o el deber de cuidado sobre la víctima.
+
+IX) Se cometa por la orientación sexual o de identidad de género de la víctima, independientemente de que haya o no realizado su reasignación sexo genérica conforme al Código Civil para el Estado de Baja California.
+
+X) El sujeto activo se haya valido de su oficio como conductor de un vehículo de transporte de pasajeros o de turismo, público o privado, para la comisión del delito.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2023)</small>
+
+Artículo 129 TER.- A la persona servidora pública que, tratándose de la muerte violenta de una mujer, omita iniciar la investigación como probable feminicidio, filtre información, fotos, videos y evidencia de la investigación, retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia se le impondrá pena de tres a ocho años prisión de y multa de quinientos a mil quinientos veces el valor de la Unidad de Medida de Actualización, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 130.
 
-(DEROGADO, P.O. 4 DICIEMBRE DE 2006)
+Tipo y punibilidad.- Comete el delito de suicidio feminicida, quien induzca, obligue o preste ayuda a una persona del género femenino para privarse la vida, valiéndose de cualquiera de las siguientes circunstancias:
+
+I. Que le preceda cualquiera de los tipos o modalidades de violencia contemplados en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Baja California.
+
+II. Que él o la responsable se haya aprovechado de cualquier situación de poder, de riesgo o condición física o psíquica en que se encontrare la víctima, por haberse ejercido contra ésta, cualquiera de los tipos o modalidades de violencia contemplados en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Baja California.
+
+III. Que, quien induzca, obligue o preste ayuda se haya aprovechado de la superioridad generada por las relaciones preexistentes o existentes con la víctima.
+
+La persona que cometa el delito de suicidio feminicida será sancionada con pena de prisión de cinco a diez años y multa de doscientos a mil veces el valor de la Unidad de Medida y Actualización.
+
+Si la ayuda se prestare hasta el punto de ejecutar la muerte en la víctima, la sanción será la que corresponda al delito de feminicidio, según las circunstancias y modos de ejecución.
 
 ### CAPITULO IV. INSTIGACION O AYUDA AL SUICIDIO
 
@@ -1625,11 +1671,9 @@ Lesiones agravadas por razón del parentesco.- Al que dolosamente lesione a su a
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE OCTUBRE DE 1999)</small>
 
-> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2023)</small>
 
-###### Artículo 142 Bis.
-
-Lesiones agravadas por razón de género.- Al que dolosamente lesione a una o varias mujeres por razones de género contempladas en las fracciones I a la VII del artículo 129 de este Código, se le impondrá hasta una mitad más de la pena que corresponda a la lesión inferida.
+Artículo 142 BIS.- Lesiones agravadas por razón de género.- Al que dolosamente lesione a una mujer por una o varias razones de género contempladas en las fracciones I a la VIII del artículo 129 de este Código, se le impondrá hasta una mitad más de la pena que corresponda a la lesión inferida.
 
 ###### Artículo 143.
 
@@ -1640,6 +1684,14 @@ Lesiones calificadas.- Cuando las lesiones sean calificadas, en términos del ar
 Artículo 143 BIS.- Lesiones contra menores o incapaces o adultos mayores.- Al que dolosamente lesione a una persona menor de edad, incapaz y/o inimputable sujeto a su tutela, custodia, guarda-protección, educación, cuidado o instrucción, se le impondrá una pena de seis meses a dos años de prisión, si las lesiones inferidas son de las que no ponen en peligro la vida, cualquiera que sea el tiempo de su curación.
 
 Si las lesiones a que se refiere el párrafo anterior son inferidas a una persona menor de doce años o de sesenta años o más edad, se impondrá una pena de dos a cinco años de prisión y hasta ciento cincuenta días multa. Si las lesiones inferidas son de las señaladas en el artículo 139, o de las que ponen en peligro la vida, la pena correspondiente a la lesión inferida aumentará en dos terceras partes, y se privará al agente del derecho de ejercer la patria potestad, la tutela, custodia, guarda-protección, educación, cuidado o instrucción de menores, adultos mayores e incapaces y/o inimputables.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2023)</small>
+
+Artículo 143 TER.- Al que produzca dolosamente daños o alteraciones en la salud, dejando huella material en el cuerpo de la mujer y haya utilizado cualquier tipo de agente químico, ácido, corrosivo o inflamable, se le impondrá de siete a trece años de prisión y multa de trescientas a setecientas veces el valor diario de la unidad de medida y actualización.
+
+La pena se aumentará hasta en una tercera parte, cuando haya existido entre el sujeto activo y la victima una relación, sentimental, afectiva, laboral o de confianza. El personal de salud deberá notificar al Ministerio Público de todos los casos de lesiones provocadas por agentes químicos que reciban para atención médica.
+
+Si la lesión o lesiones afectan la cara, el cuello, los brazos, manos u órganos sexuales de la víctima, la pena aumentara adicionalmente hasta por dos terceras partes de la máxima y mínima de la pena del párrafo primero.
 
 ###### Artículo 144.
 
@@ -2125,6 +2177,22 @@ Al que no otorgare la caución de no ofender, se le impondrá prisión de seis m
 
 Si el amenazador cumple su amenaza se acumulará la sanción de ésta y la del delito que resulte. Si el amenazador exigió que el amenazado cometiera un delito, a la sanción de la amenaza se acumulará la que le corresponda por su participación en el delito que resulte.
 
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2024)</small>
+
+###### Artículo 171
+
+1.- Cuando las amenazas se realicen públicamente, mediante la colocación de mantas, cartulinas, lonas, cartón o por cualquier medio físico o electrónico se le impondrán de uno a tres años de prisión y multa por un importe equivalente de cuarenta a ciento veinte unidades de medida y actualización.
+
+Igual sanción se impondrá a quien elabore, imprima, fabrique, proporcione, posea, desplace, traslade, aplique o coloque cualquier objeto de los mencionados en el párrafo anterior, que contenga expresiones o mensajes de amenazas en lugares públicos.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2024)</small>
+
+###### Artículo 171
+
+2.- La pena de prisión será de hasta una mitad más cuando las amenazas públicas a que se refiere el artículo anterior se profieran en contra de servidores públicos de los órganos del Estado y municipios que realicen funciones de seguridad pública, procuración de justicia e impartición de justicia.
+
+Esta conducta se perseguirá de oficio.
+
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE OCTUBRE DE 2016)</small>
 
 ### CAPÍTULO IV BIS. COBRANZA ILEGÍTIMA
@@ -2277,11 +2345,11 @@ Violación impropia.- Se equipara a la violación, al que sin consentimiento de 
 
 Artículo 178 BIS.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015) (REPUBLICADO [N. DE E. ESTE PÁRRAFO], 10 DE NOVIEMBRE DE 2017)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 179.
 
-Agravación de la pena.- Cuando la violación fuere cometida con intervención directa o inmediata de dos o más personas, o el delito haya sido cometido dentro (sic) las instalaciones de alguna asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico o físico a otras personas, o hubiese sido cometido por ministros de culto religioso, la prisión será de quince a veintisiete años y hasta quinientos días multa; si en la comisión de este delito intervinieren uno o más menores, esta circunstancia no relevará de responsabilidad a los mayores, que participen en su comisión; a los demás se les aplicará las reglas contenidas en el artículo 16 de este Código.
+Agravación de la pena.- Cuando la violación fuere cometida con intervención directa o inmediata de dos o más personas, o para su realización se le haya suministrado a la víctima drogas, estupefacientes, psicotrópicos o agentes químicos, o el delito haya sido cometido dentro (sic) las instalaciones de alguna asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico o físico a otras personas, o hubiese sido cometido por ministros de culto religioso, la prisión será de quince a veintisiete años y hasta quinientos días multa; si en la comisión de este delito intervinieren uno o más menores, esta circunstancia no relevará de responsabilidad a los mayores, que participen en su comisión; a los demás se les aplicará (sic) las reglas contenidas en el artículo 16 de este Código.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
@@ -2335,6 +2403,10 @@ III.- Cuando fuere cometido por quien desempeñe un cargo o empleo público o ej
 
 IV.- Cuando el delito fuere cometido dentro las instalaciones de alguna asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico o físico a otras personas, o hubiese sido cometido por ministros de culto religioso.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2024)</small>
+
+V.- Cuando para su realización se le haya suministrado a la víctima drogas, estupefacientes, psicotrópicos o agentes químicos.
+
 > <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 181.
@@ -2349,7 +2421,9 @@ Persecución oficiosa.- El delito de abuso sexual previsto en el artículo cient
 
 Tipo y punibilidad.- Al que realice cópula con persona mayor de catorce años de edad y menor de dieciocho, obteniendo su consentimiento por medio de la seducción o el engaño se le impondrá de dos a seis años de prisión y hasta cien días multa.
 
-Agravación de la punibilidad.- La pena se aumentará hasta una mitad más, cuando el delito haya sido cometido dentro las instalaciones de alguna institución educativa, asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico u (sic) físico a otras personas, o cuando el sujeto activo del delito se haya valido de una relación de parentesco o posición jerárquica derivada de su relación docente, laboral, religiosa o doméstica.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
+
+Agravación de la punibilidad.- La pena se aumentará hasta una mitad más, cuando para la realización del delito se le haya suministrado a la víctima drogas, estupefacientes, psicotrópicos o agentes químicos, o el delito haya sido cometido dentro las instalaciones de alguna institución educativa, asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico u (sic) físico a otras personas, o cuando el sujeto activo del delito se haya valido de una relación de parentesco o posición jerárquica derivada de su relación docente, laboral, religiosa o doméstica.
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
 
@@ -4221,9 +4295,7 @@ La pena prevista en la fracción anterior se aumentará hasta en una mitad más 
 
 XV.- El servidor público que omita presentar al Congreso del Estado la Cuenta Pública o el Informe de Avance de Gestión Financiera, a los que alude la Ley especial de la materia, una vez que haya sido requerido por dicha omisión y no la atendiera dentro del plazo que ésta señala.
 
-> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2015)</small>
-
-XVI. Cuando el servidor público retarde o entorpezca maliciosamente, la procuración o administración de justicia respecto del tipo penal previsto en el artículo 129 de este código.
+XVI. (DEROGADA, P.O. 9 DE FEBRERO DE 2023)
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
@@ -6509,17 +6581,17 @@ P.O. 8 DE DICIEMBRE DE 2023.
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1079 POR EL QUE SE REFORMA EL ARTÍCULO 27 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+P.O. 9 DE FEBRERO DE 2023.
 
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 377 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 43, 114, 119, 129, 142 BIS, 293 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LA ADICIÓN DE LOS NUMERALES 129 BIS, 129 TER Y 143 TER AL MISMO ORDENAMIENTO; SE APRUEBA LA REFORMA AL ARTÍCULO 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA; SE APRUEBA LA REFORMA AL ARTÍCULO 72 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA; SE APRUEBA LA REFORMA AL ARTÍCULO 9 DE LA LEY DE VICTIMAS PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
-P.O. 17 DE SEPTIEMBRE DE 2024.
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1083 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+P.O. 9 DE FEBRERO DE 2024.
 
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 384 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 130, 179, 180 TER Y 182 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA; COMO TAMBIÉN LA ADICIÓN DE LOS NUMERALES 171-1 Y 171-2, AL MISMO ORDENAMIENTO".]
 
-P.O. 17 DE SEPTIEMBRE DE 2024.
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1097 POR EL QUE SE REFORMA EL ARTÍCULO 121 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
