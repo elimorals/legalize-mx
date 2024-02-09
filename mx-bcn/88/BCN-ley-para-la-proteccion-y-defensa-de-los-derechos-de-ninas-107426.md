@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-10742
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-17"
-last_updated: "2023-12-08"
+last_updated: "2024-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2024.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 2015.
 
@@ -219,11 +219,13 @@ Las autoridades del Estado y sus Municipios, en el ámbito de sus respectivas co
 
 ### Capítulo Segundo. Derecho a la Vida, a la Paz, a la Supervivencia y al Desarrollo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 12.
 
-Niñas, niños y adolescentes tienen derecho a que se les preserve la vida, la paz, a la supervivencia y al desarrollo.
+Niñas, niños y adolescentes tienen derecho a que se les preserve la vida, la paz, a la supervivencia, al desarrollo y a no ser utilizados en conflictos armados o violentos.
+
+Estos deberán disfrutar de una vida plena en condiciones acordes a su dignidad y no ser expuestos a ninguna situación de riesgo, que ponga en peligro su integridad física o su vida, o en condiciones que no garanticen e impidan su desarrollo integral.
 
 Las autoridades del Estado y sus Municipios, en el ámbito de sus respectivas competencias, deberán llevar a cabo las acciones necesarias para garantizar el desarrollo y prevenir cualquier conducta que atente contra su supervivencia, así como para investigar y sancionar efectivamente los actos de privación de la vida.
 
@@ -305,11 +307,15 @@ Asimismo, niñas, niños y adolescentes tienen derecho a convivir con sus famili
 
 El Sistema Penitenciario permitirá la visita, previa verificación de que la niña, niño o adolescente no es la víctima del delito por el cual su familiar se encuentra privado de la libertad. En caso afirmativo deberá informarse al órgano jurisdiccional para la resolución correspondiente.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 22.
+
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, establecerán las normas y los mecanismos necesarios para facilitar la localización y reunificación de la familia de niñas, niños y adolescentes, cuando hayan sido privados de ella, siempre y cuando no sea contrario a su interés superior.
 
 Durante la localización de la familia, niñas, niños y adolescentes tienen derecho a acceder a las modalidades de cuidados alternativos de carácter temporal, en tanto se incorporan a su familia.
 
-Para efectos del párrafo anterior, el Sistema y los Sistemas Municipales deberán otorgar acogimiento correspondiente de conformidad con lo previsto en el Título Cuarto, Capítulo Primero de la Ley General, esta Ley y demás disposiciones aplicables.
+Para efectos del párrafo anterior, el Sistema y los Sistemas Municipales deberán otorgar acogimiento correspondiente de conformidad con lo previsto en el Título Cuarto, Capítulo Único de esta Ley y demás disposiciones aplicables.
 
 ###### Artículo 23.
 
@@ -554,6 +560,10 @@ Las autoridades competentes deberán considerar la perspectiva de género en las
 > <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
 Las autoridades competentes están obligadas a implementar medidas especiales para prevenir, atender, erradicar y sancionar las conductas previstas en este artículo para niñas, niños y adolescentes con discapacidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE FEBRERO DE 2024)</small>
+
+Asimismo, las autoridades en el ámbito de sus respectivas competencias, promoverán en todos los grupos de la sociedad y, en particular, en quienes ejerzan la patria potestad, tutela o guarda y custodia, la cultura de la prevención para la protección de los derechos de niñas, niños y adolescentes, respecto de los riesgos y problemas derivados del acceso a medios de comunicación y uso responsable de las tecnologías.
 
 ###### Artículo 46.
 
@@ -987,9 +997,17 @@ III. Garantizar el acompañamiento de quien ejerza sobre ellos la patria potesta
 
 IV. Que se preserve su derecho a la intimidad, que no se divulguen sus datos de identificación en los términos de la Ley General, esta Ley y las demás aplicables;
 
-V. Tener acceso gratuito a asistencia jurídica, psicológica y cualquier otra necesaria atendiendo a las características del caso, a fin de salvaguardar sus derechos, en términos de las disposiciones aplicables, y
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
 
-VI. Adoptar las medidas necesarias para evitar la re victimización de niñas, niños y adolescentes que presuntamente son víctimas de la comisión de un delito o violación a sus derechos humanos.
+V. Tener acceso gratuito a asistencia jurídica, psicológica y cualquier otra necesaria atendiendo a las características del caso, a fin de salvaguardar sus derechos, en términos de las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+
+VI. Adoptar las medidas necesarias para evitar la re victimización de niñas, niños y adolescentes que presuntamente son víctimas de la comisión de un delito o violación a sus derechos humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2024)</small>
+
+VII. Establecer mecanismos para que los procedimientos sean claros, sencillos y comprensibles, para niñas, niños y adolescentes dentro de cualquier procedimiento jurisdiccional y administrativo.
 
 ###### Artículo 82.
 
@@ -1051,7 +1069,15 @@ Son obligaciones de quienes ejercen la patria potestad, tutela o guarda y custod
 
 I. Garantizar sus derechos alimentarios, el libre desarrollo de su personalidad y el ejercicio de sus derechos, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables.
 
-Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación y nutrición, habitación, educación, vestido, atención médica y psicológica preventiva integrada a la salud, asistencia médica y recreación. La ley local deberá prever los procedimientos y la orientación jurídica necesaria así como las medidas de apoyo para asegurar el cumplimiento del deber de garantizar los derechos alimentarios;
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 9 DE FEBRERO DE 2024)</small>
+
+Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de sustento y supervivencia y, en la especie:
+
+a) La alimentación y nutrición, vestido, habitación, recreación, atención médica y psicológica preventiva integrada a la salud, asistencia médico-hospitalaria y, en su caso, los gastos de embarazo y parto;
+
+b) Los gastos derivados de la educación y la formación para proporcionar a los menores un oficio, arte o profesión, adecuados a sus circunstancias personales; y,
+
+c) Con relación a los menores con algún tipo de discapacidad o declarados en estado de interdicción, lo necesario para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo.
 
 II. Registrarlos dentro de los primeros sesenta días de vida;
 
@@ -1890,3 +1916,15 @@ P.O. 8 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 335 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 60 Y 61 DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja california.
+
+P.O. 9 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 382 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 12 Y 22 DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 383 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 45, 81 Y 92 DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
