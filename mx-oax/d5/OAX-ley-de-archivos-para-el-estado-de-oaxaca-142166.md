@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-archivos-para-el-estado-de-oaxaca-142166"
 country: "mx"
 rank: "ley"
 publication_date: "2020-02-15"
-last_updated: "2023-07-29"
+last_updated: "2024-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ARCHIVOS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 15 de febrero de 2020.
 
@@ -1127,6 +1127,10 @@ Los usuarios de los archivos deberán respetar las disposiciones aplicables para
 
 El Archivo General del Estado de Oaxaca es un organismo descentralizado no sectorizado, con personalidad jurídica y patrimonio propio con autonomía técnica, administrativa, operativa y de gestión para el debido cumplimiento de su objeto, atribuciones y ejes rectores conferidos en esta Ley y demás disposiciones normativas aplicables; su domicilio legal es el ubicado en el Municipio de Santa Lucia del Camino, sin perjuicio de establecer representaciones dentro del territorio estatal, conforme a su estructura y disponibilidad presupuestal.
 
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2024)</small>
+
+El régimen laboral a que se sujetarán los trabajadores del Archivo General del Estado de Oaxaca, se regirá por el apartado "A" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
 ###### Artículo 99.
 
 El Archivo General del Estado de Oaxaca tiene por objeto promover la organización de archivos, preservar, incrementar y difundir el patrimonio documental del Estado de Oaxaca, con el fin de salvaguardar la memoria estatal de corto, mediano y largo plazo, así como contribuir a la transparencia y rendición de cuentas conforme a las disposiciones previstas en la Constitución Federal, la Constitución Política del Estado, la legislación federal y estatal y demás disposiciones normativas aplicables en la materia.
@@ -1475,7 +1479,7 @@ OCTAVO. Los asuntos que al momento de la entrada en vigor del presente Decreto s
 
 NOVENO. Una vez en funciones, el Archivo General del Estado de Oaxaca, como organismo público descentralizado de la Administración Pública Estatal, la Secretaría de Administración le transferirá los recursos humanos, financieros y materiales asignados al Órgano Desconcentrado denominado Archivo General del Estado de Oaxaca, atendiendo las disposiciones de la Ley de Entrega-Recepción de los Recursos y Bienes del Estado de Oaxaca.
 
-DÉCIMO. Los derechos laborales de los servidores públicos adscritos al Órgano Desconcentrado que sean transferidos al Archivo General del Estado de Oaxaca, como organismo público descentralizado, no sectorizado, serán respetados y garantizados, en términos de las disposiciones aplicables.
+DÉCIMO. (DEROGADO, P.O. 10 DE FEBRERO DE 2024)
 
 DÉCIMO PRIMERO. Una vez instalado su Órgano de Gobierno, el Organismo Público Descentralizado Archivo General del Estado de Oaxaca, no sectorizado, contará con un plazo no mayor a noventa días para emitir su normatividad interna.
 
@@ -1494,3 +1498,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 10 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1718.- MEDIANTE EL CUAL SE ADICIONA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 98 DE LA LEY DE ARCHIVOS PARA EL ESTADO DE OAXACA Y SE DEROGA EL TRANSITORIO DÉCIMO DEL DECRETO NÚMERO 1075 APROBADO POR LA SEXAGÉSIMA QUINTA LEGISLATURA DEL ESTADO, EL 22 DE MARZO DE 2023, PUBLICADO EN EL PERIÓDICO OFICIAL EXTRA DE FECHA 22 DE MAYO DE 2023”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
