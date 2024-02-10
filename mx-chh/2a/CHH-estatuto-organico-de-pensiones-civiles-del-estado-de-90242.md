@@ -4,7 +4,7 @@ identifier: "CHH-estatuto-organico-de-pensiones-civiles-del-estado-de-90242"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-11-14"
-last_updated: "2018-12-29"
+last_updated: "2024-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90242&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # ESTATUTO ORGANICO DE PENSIONES CIVILES DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ESTATUTO ORGÁNICO DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO PENSIONES CIVILES DEL ESTADO DE CUIHUAHUA, PUBLICADO EN EL P.O. 10 DE FEBRERO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE PENSIONES CIVILES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2024 (ABROGADO).
 
 Estatuto publicado en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 14 de noviembre del 2012.
 
@@ -1282,3 +1284,21 @@ SEGUNDO.- Se revocan y se dejan sin efectos todos los acuerdos, lineamientos adm
 TERCERO.- De conformidad con los artículos 14 párrafo tercero y 24 fracción II de la Ley de Entidades Paraestatales del Estado de Chihuahua, inscríbase el presente Acuerdo en el Registro Público de Organismos Descentralizados de la Secretaría de Hacienda del Estado.
 
 CUARTO.- Para su mayor difusión, publíquese el presente Acuerdo en la página electrónica de internet de la Institución.
+
+P.O. 10 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO PENSIONES CIVILES DEL ESTADO DE CUIHUAHUA”.]
+
+PRIMERO. El presente Estatuto Orgánico entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+SEGUNDO. Inscríbase el presente Estatuto Orgánico en el Registro Público de Organismos Descentralizados.
+
+TERCERO. Se abroga el Estatuto Orgánico de Pensiones Civiles del Estado de Chihuahua publicado en el Periódico Oficial del Estado el día 14 de noviembre del año 2012.
+
+CUARTO. Quedan sin efectos todos los acuerdos y demás disposiciones administrativas que se opongan al presente Estatuto Orgánico.
+
+QUINTO. En todo lo no previsto por este ordenamiento, se aplicarán supletoriamente las disposiciones establecidas en la Ley de Pensiones Civiles del Estado de Chihuahua y la Ley de Entidades Paraestatales del Estado de Chihuahua.
+
+SEXTO. En tanto se elaboren y se expidan los manuales de organización y reglamentos derivados del presente Estatuto, la persona titular de la Dirección General quedará facultada para resolver las cuestiones que requieran su intervención, para lograr un mejor funcionamiento de la Institución.
+
+SEPTIMO. Remítase el presente documento a la persona Titular del Poder Ejecutivo para su aprobación y publicación en el Periódico Oficial del Estado.
