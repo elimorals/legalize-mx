@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2024-01-20"
+last_updated: "2024-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -993,7 +993,9 @@ XII. Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca
 
 XIII. Corporación Oaxaqueña de Radio y Televisión;
 
-XIV. Instituto Oaxaqueño de Atención al Migrante;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2024)</small>
+
+XIV. Instituto de Atención Integral al Migrante Oaxaqueño;
 
 XV. Coordinación Estatal de Protección Civil; y
 
@@ -2870,6 +2872,16 @@ TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco j
 P.O. 20 DE ENERO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM 1662.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES XXI DEL ARTÍCULO 57 Y XII DEL ARTÍCULO 70, Y SE ADICIONAN LAS FRACCIONES XXII AL ARTÍCULO 57 Y XIII AL ARTÍCULO 70 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 10 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1663.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 31 QUÁTER DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
