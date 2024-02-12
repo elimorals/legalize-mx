@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1247
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-12-06"
-last_updated: "2022-05-18"
+last_updated: "2024-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2024.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el miércoles 6 de diciembre de 2017.
 
@@ -61,9 +61,9 @@ V. Fiscalía Especializada en Delitos Electorales: La Fiscalía Especializada en
 
 VI. Fiscal Especializado en Delitos Electorales: La persona titular de la Fiscalía Especializada en Delitos Electorales;
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2024)</small>
 
-VII. Fiscalías Especializadas: La Fiscalía Especializada en Combate a la Corrupción del Estado de Nuevo León, la Fiscalía Especializada en Delitos Electorales del Estado de Nuevo León; la Fiscalía Especializada Antisecuestros, la Fiscalía Especializada en Feminicidios; la Fiscalía Especializada en Tortura y las demás Fiscalías Especializadas de la Fiscalía General de Justicia del Estado de Nuevo León;
+VII. Fiscalías Especializadas: La Fiscalía Especializada en Combate a la Corrupción del Estado de Nuevo León, la Fiscalía Especializada en Delitos Electorales del Estado de Nuevo León; la Fiscalía Especializada Antisecuestros, la Fiscalía Especializada en Feminicidios; la Fiscalía Especializada en Tortura, la Fiscalía Especializada en Inteligencia Financiera y las demás Fiscalías Especializadas de la Fiscalía General de Justicia del Estado de Nuevo León;
 
 VIII. Ley: La Ley Orgánica de la Fiscalía General de Justicia del Estado de Nuevo León;
 
@@ -214,6 +214,10 @@ VI. Fiscalía Especializada en Feminicidios;
 > <small>(ADICIONADA, P.O. 12 DE MAYO DE 2021)</small>
 
 VI BIS. Fiscalía Especializada en Tortura;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2024)</small>
+
+VI BIS 1. Fiscalía Especializada en Inteligencia Financiera;
 
 VII. Órgano Interno de Control;
 
@@ -671,9 +675,51 @@ I. Aquellas que por disposición legal deban ser ejercidas directamente por el F
 
 II. Las señaladas en el artículo 29 de esta Ley, así como en las fracciones IV, V, VIII, XII, XIII, XIV, XVI, XXVIII, XXIX, XXXI y XXXII del artículo 32 de esta Ley.
 
-### CAPÍTULO IX. DE LOS NOMBRAMIENTOS, REMOCIONES Y AUSENCIAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2024)</small>
 
-### CAPÍTULO X. DEL RÉGIMEN LABORAL O ADMINISTRATIVO DEL PERSONAL
+### CAPÍTULO VIII BIS. DE LA FISCALÍA ESPECIALIZADA EN INTELIGENCIA FINANCIERA
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 33 BIS. La Fiscalía Especializada en Inteligencia Financiera, es el órgano competente para investigar los hechos que presuman o presupongan en las personas un beneficio o incremento económico injustificable, que hayan participado en operaciones con recursos de procedencia ilícita o que incurran en alguno de los delitos comprendidos en el Código Fiscal del Estado.
+
+La Fiscalía Especializada en Inteligencia Financiera será la única autoridad competente del Estado para generar, obtener, analizar y consolidar información financiera, fiscal y patrimonial de las personas físicas y morales, que conlleve a la investigación de hechos presumiblemente ilícitos que produzcan los efectos señalados en el párrafo anterior.
+
+(NOTA: EL 9 DE FEBRERO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 58/2024 Y SU ACUMULADA 67/2024, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 13 DE FEBRERO DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 196, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+PARA LOS EFECTOS ANTERIORES, SERÁ LA ÚNICA AUTORIDAD ESTATAL FACULTADA PARA INMOVILIZAR CUENTAS O VALORES DEL SISTEMA FINANCIERO, BAJO LAS REGLAS PREVISTAS EN LA CONSTITUCIÓN FEDERAL Y EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 33 BIS I. La Fiscalía Especializada en Inteligencia Financiera tendrá las siguientes facultades:
+
+I. Generar, obtener, analizar y consolidar información financiera, fiscal y patrimonial de las personas físicas y morales, para la investigación de hechos presumiblemente ilícitos que produzcan en las personas un beneficio o incremento económico injustificable, que hayan participado en operaciones con recursos de procedencia ilícita o que incurran en alguno de los delitos comprendidos en el Código Fiscal del Estado, con la finalidad de aportar la información a las autoridades competentes, pudiendo iniciar la investigación de oficio o en razón de la información que le sea proporcionada por particulares, denuncias anónimas o de la información que le sea proporcionada por las autoridades de la Administración Pública del Estado cuando, con motivo del ejercicio de sus atribuciones, tengan conocimiento de hechos presumiblemente ilícitos;
+
+II. Coordinarse con las dependencias y entidades de la Administración Pública del Estado, en los asuntos de su competencia, así como celebrar e implementar acuerdos o convenios con aquellas, para el intercambio de información;
+
+III. Requerir a las dependencias, órganos político-administrativos, unidades administrativas, órganos desconcentrados, fideicomisos públicos, organismos públicos descentralizados, y demás entidades de la Administración Pública del Estado, de la Federación y de los Municipios, la información y documentación necesaria para el ejercicio de las atribuciones que se le confieren, los informes y datos que posean con motivo de sus atribuciones. En caso de que se nieguen a proporcionarla de manera oportuna les serán aplicables las medidas de apremio establecidas en el Código Fiscal del Estado de Nuevo León;
+
+IV. Promover y gestionar que las entidades que conforman la Administración Pública del Estado y de los Municipios, remitan las pruebas, constancias, reportes, avisos, documentación, datos, alertas, imágenes, e informes sobre las conductas que en el ejercicio de sus funciones tuvieran conocimiento pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie que pudieran constituir actividades sospechosas dentro del ámbito de su competencia;
+
+V. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como celebrar, otorgar y suscribir contratos, convenios, escrituras públicas y demás actos jurídicos de carácter administrativo o de cualquier otra índole dentro del ámbito de su competencia, de las unidades administrativas que le estén adscrita;
+
+VI. Coordinarse con las autoridades competentes para la práctica de los actos de fiscalización que resulten necesarios con motivo del ejercicio de sus facultades;
+
+VII. Participar, en el ámbito de su competencia, en la formulación, vigilancia y cumplimiento de los convenios o acuerdos de coordinación o colaboración suscritos, en los términos de las leyes, reglamentos o acuerdos aplicables;
+
+VIII. Acceder, compilar, explotar, analizar y consolidar la información contenida en las bases de datos con que cuentan los órganos centrales, descentralizados, desconcentrados y paraestatales que conforman la organización de la Administración Pública del Estado, con el fin de generar datos estadísticos, mapas patrimoniales que identifiquen factores de riesgo, así como patrones inusuales en materia financiera, fiscal y patrimonial para el cumplimento de sus atribuciones;
+
+IX. Recabar, recibir, recopilar e investigar reportes, documentos, informes y operaciones en el comercio electrónico para detectar conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de posibles delitos informáticos o relacionados con el acceso ilícito a sistemas y equipos de informática, con la finalidad de aportar la información a las autoridades competentes;
+
+X. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, y fedatarios públicos, para que proporción en su contabilidad y demás datos, documentos o informes, que sean necesarios para el cumplimento de las atribuciones;
+
+XI. Realizar las diligencias necesarias para allegarse de información financiera, fiscal y patrimonial, de personas físicas y morales; y
+
+XII. Las demás que sean necesarias para el ejercicio de sus funciones, las que le sean conferidas y las demás que le atribuyan expresamente esta ley, así como las disposiciones legales y administrativas correspondientes.
+
+Las facultades de la Fiscalía Especializada en Inteligencia Financiera, tales como la solicitud de medidas cautelares, providencias precautorias o la realización de actos de investigación que requieran previa autorización del Juez de Control, deberán realizarse en términos del Código Nacional de Procedimientos Penales.
+
+### CAPÍTULO IX. DE LOS NOMBRAMIENTOS, REMOCIONES Y AUSENCIAS
 
 ###### ARTÍCULO 34.
 
@@ -827,7 +873,7 @@ El proceso de remoción deberá respetar las garantías del debido proceso y el 
 
 Tratándose de los titulares de las unidades administrativas de la Fiscalía General, Fiscalía Especializada en Combate a la Corrupción y Fiscalía Especializada en Delitos Electorales, podrán ser removidos libremente por quien tenga atribución para nombrarlos, salvo que la Ley o Reglamento disponga de un procedimiento especial.
 
-### CAPÍTULO XI. DEL SERVICIO DE CARRERA DE PROCURACIÓN DE JUSTICIA
+### CAPÍTULO X. DEL RÉGIMEN LABORAL O ADMINISTRATIVO DEL PERSONAL
 
 ###### ARTÍCULO 51.
 
@@ -921,7 +967,7 @@ Previo al ingreso como servidor público de la Fiscalía General, de la Fiscalí
 
 Los servidores públicos de la Fiscalía General, de la Fiscalía Especializada en Combate a la Corrupción o de la Fiscalía Especializada en Delitos Electorales serán suplidos en sus ausencias en los términos que establezca el Reglamento Interno de la Fiscalía General.
 
-### CAPÍTULO XII. DE LOS DERECHOS Y OBLIGACIONES DEL PERSONAL
+### CAPÍTULO XI. DEL SERVICIO DE CARRERA DE PROCURACIÓN DE JUSTICIA
 
 ###### ARTÍCULO 61.
 
@@ -1015,7 +1061,7 @@ En la substanciación de estos procedimientos hasta dejarlos en estado de resolu
 
 Las solicitudes de reincorporación al servicio de carrera, se analizarán y en su caso se concederán por el Fiscal General con apego a las leyes aplicables; en los casos cuando el servidor público se haya separado voluntariamente de su cargo, evaluará si el servidor público debe acreditar nuevamente los cursos para ingresar al servicio de carrera.
 
-### CAPÍTULO XIII. DE LAS INCOMPATIBILIDADES, IMPEDIMENTOS Y EXCUSAS
+### CAPÍTULO XII. DE LOS DERECHOS Y OBLIGACIONES DEL PERSONAL
 
 ###### ARTÍCULO 69.
 
@@ -1097,7 +1143,7 @@ III. Participar en operativos y mecanismos de coordinación con otras autoridade
 
 IV. Impedir, por los medios que tuvieren a su alcance y en el ámbito de sus atribuciones, que se infrinjan, toleren o permitan actos de tortura física o psicológica u otros tratos o sanciones crueles, inhumanos o degradantes. Los servidores públicos que tengan conocimiento de la realización de este tipo de actos deberán denunciarlo inmediatamente ante la autoridad competente.
 
-### CAPÍTULO XIV. DE LAS SANCIONES
+### CAPÍTULO XIII. DE LAS INCOMPATIBILIDADES, IMPEDIMENTOS Y EXCUSAS
 
 ###### ARTÍCULO 73.
 
@@ -1123,7 +1169,7 @@ El Fiscal General, el Fiscal Especializado en Combate a la Corrupción, el Fisca
 
 Los titulares de las diversas unidades administrativas calificarán las excusas de su personal. El servidor público que califique la excusa, en caso de ser procedente, designará de inmediato al que deba sustituir al impedido.
 
-### CAPÍTULO XV. DE LA COMPETENCIA CONCURRENTE
+### CAPÍTULO XIV. DE LAS SANCIONES
 
 ###### ARTÍCULO 76.
 
@@ -1178,6 +1224,8 @@ Cuando se resuelva la remoción se procederá a la cancelación del certificado 
 ###### ARTÍCULO 81.
 
 Cuando la autoridad jurisdiccional competente resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio de los Agentes del Ministerio Público, Agentes de la Policía Ministerial o peritos fue injustificada, éstos tendrán derecho a recibir el pago de una indemnización, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido; que constará de un importe de tres meses de sueldo base y las partes proporcionales de las prestaciones que le correspondan, las cuales se computarán desde la fecha de separación, baja, cese o remoción, hasta un periodo máximo de doce meses. Tal circunstancia será inscrita en el Registro Nacional de Personal de las Instituciones de Seguridad Pública.
+
+### CAPÍTULO XV. DE LA COMPETENCIA CONCURRENTE
 
 ###### ARTÍCULO 82.
 
@@ -1324,3 +1372,23 @@ P.O. 18 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 126. SE REFORMAN LAS FRACCIONES LIV Y LV Y SE ADICIONA LA FRACCIÓN LVI AL ARTÍCULO 14 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 196. SE REFORMA EL ARTÍCULO 2, FRACCIÓN VII, Y SE ADICIONA UNA FRACCIÓN VI BIS 1 AL ARTÍCULO 10, ASÍ COMO UN CAPITULO VIII BIS DENOMINADO “DE LA FISCALÍA ESPECIALIZADA EN INTELIGENCIA FINANCIERA”, EL CUAL CONTIENE LOS ARTÍCULOS 33 BIS Y 33 BIS 1, TODOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se establece un plazo de hasta 60 días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto, para que el Fiscal General del Estado designe a la persona que ocupará la titularidad de la Fiscalía Especializada en Inteligencia Financiera.
+
+TERCERO.- Se establece un plazo de hasta 90 días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto, para que la Secretaría de Finanzas y Tesorería General del Estado y la Fiscalía General de Justicia del Estado realicen las reformas necesarias a su reglamentación interna.
+
+CUARTO.- Se derogan todas las disposiciones normativas, reglamentarias o cualquier otra, que se opongan o contravengan lo previsto en el presente Decreto, quedando sin efectos, de manera inmediata y sin mayor trámite, a partir de la entrada en vigor del mismo.
+
+QUINTO.- El Gobierno del Estado, a través de la Secretaría de Finanzas y Tesorería General del Estado, deberá dotar los recursos financieros, materiales y humanos para el debido funcionamiento de la Fiscalía Especializada en Inteligencia Financiera. Asimismo, deberán contemplar en el presupuesto de Egresos para el ejercicio fiscal correspondiente, la asignación y garantía de la suficiencia presupuestal, para la instalación y operación de esa fiscalía.
+
+SEXTO.- Todos los asuntos relacionados con el objeto de la Unidad de Inteligencia Financiera y Económica dependiente de la Secretaría de Finanzas y Tesorería General del Estado, así como de la Unidad Especializada en Inteligencia Patrimonial y Económica de la Fiscalía General de Justicia del Estado, que se encuentren en trámite, las controversias y juicios en las que las mismas sean partes, pasarán a la competencia de la Fiscalía Especializada en Inteligencia Financiera, quien deberá desahogarlos y concluirlos de acuerdo con las disposiciones legales aplicables.
+
+La remisión de dichos asuntos deberá efectuarse de inmediato a partir de la entrada en vigor del presente Decreto, bajo el apercibimiento de que, en caso de su incumplimiento, se aplicarán las sanciones que prevé la legislación penal y administrativa aplicable.
+
+SÉPTIMO.- La Fiscalía Especializada en Inteligencia Financiera deberá quedar instalada en un plazo no mayor a de hasta 90 días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto.
