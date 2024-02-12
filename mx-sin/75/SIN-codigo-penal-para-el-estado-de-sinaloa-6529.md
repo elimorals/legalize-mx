@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2023-10-04"
+last_updated: "2024-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2024.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -2248,6 +2248,14 @@ Esta conducta se sancionará con una pena de tres a seis años de prisión y de 
 Se presume que se publica, divulga, difunde, comparte o distribuye contenidos íntimos de naturaleza sexual cuando se trate de imágenes o videos que muestren al sujeto pasivo en situación de desnudez parcial o total, o con exposición de partes genitales.
 
 Se presume que se publica, divulga, difunda, comparte o distribuye audios o textos con contenido intimo sexual cuando en ellos se describa el cuerpo desnudo ya sea total o parcialmente del sujeto pasivo; o bien que revelen de manera no autorizada ni expesamente consentida la conducta o actos sexuales de la víctima.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2024)</small>
+
+Se impondrán las mismas penas previstas en el segundo párrafo del presente artículo, a quien haciendo uso de la Inteligencia Artificial, manipule imágenes, audios o videos, de contenido íntimo sexual de una persona, para crear hechos falsos con apariencia real, con el propósito de exponer, distribuir, difundir, exhibir, reproducir, transmitir, comercializar, ofertar, intercambiar y/o compartir a través de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales o cualquier otro medio tecnológico, sin su consentimiento expreso, voluntario, genuino y deseado.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2024)</small>
+
+Para efectos del párrafo anterior, se entenderá por Inteligencia Artificial las aplicaciones, programas o tecnología que analice fotografías, audios o videos y ofrece ajustes automáticos para hacerles alteraciones o modificaciones.
 
 También incurre en violación a la intimidad sexual quien para sí videograbe, audiograbe, fotografíe, imprima, elabore textos o almacene, duplique o multiplique imágenes, audios o videos de contenido íntimo sexual de una persona sin su consentimiento expreso, voluntario, genuino y deseado.
 
@@ -5442,3 +5450,11 @@ P.O. 4 DE OCTUBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE “DECRETO NÚMERO 699 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
