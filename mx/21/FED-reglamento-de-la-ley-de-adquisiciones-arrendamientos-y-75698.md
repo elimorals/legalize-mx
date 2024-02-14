@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-adquisiciones-arrendamientos-y-75698"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-28"
-last_updated: "2023-02-24"
+last_updated: "2024-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75698&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-07-13"
 
 REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE FEBRERO DE 2024.
 
 Reglamento publicado en la Octava Sección del Diario Oficial de la Federación, el miércoles 28 de julio de 2010.
 
@@ -113,7 +113,13 @@ Se consideran comprendidas en el sexto párrafo del artículo 1 de la Ley, las c
 
 Para efectos del sexto párrafo del artículo 1 de la Ley, se considerará que una dependencia, entidad o persona de derecho público que funja como proveedor, tiene capacidad para entregar un bien o prestar un servicio por sí misma, cuando para cumplir con el contrato no requiera celebrar otro contrato con terceros, o bien, de requerirlo, éste no exceda del cuarenta y nueve por ciento del importe total del contrato celebrado con el ente público. Si el contrato se integra por varias partidas, el porcentaje se aplicará para cada una de ellas.
 
-En el supuesto a que se refiere el párrafo anterior, los procedimientos de contratación con terceros y la ejecución de los contratos celebrados con éstos, se rigen por las disposiciones de la Ley y del presente Reglamento.
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+Los convenios de colaboración en materia de bienes o servicios de atención a la salud que celebren las dependencias con las entidades, o entre entidades, no estarán sujetas a la aplicación de la Ley.
+
+> <small>(REFORMADO, D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+En el supuesto a que se refiere el párrafo segundo de este artículo, los procedimientos de contratación con terceros y la ejecución de los contratos celebrados con estos, se rigen por las disposiciones de la Ley y el presente reglamento.
 
 > <small>(REFORMADA, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
@@ -2258,3 +2264,9 @@ PRIMERO. El presente decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. Se derogan aquellas disposiciones administrativas que se opongan al presente decreto.
 
 TERCERO. En los procedimientos de contratación iniciados con anterioridad a la entrada en vigor del presente decreto, las dependencias y entidades de la Administración Pública Federal deben modificar sus convocatorias, siempre que se encuentren dentro de los siete días naturales previos al acto de presentación y apertura de proposiciones, a efecto de establecer que las opiniones de cumplimiento de obligaciones fiscales sean un requisito obligatorio para la firma del contrato, y no para participar en el acto de presentación y apertura de proposiciones.
+
+D.O.F. 14 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 4 DEL REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
