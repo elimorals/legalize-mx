@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-deporte-y-cultura-fisica-del-estado-de-morelos-56159"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2022-08-24"
+last_updated: "2024-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de julio de 2007.
 
@@ -73,13 +73,11 @@ Corresponde al Ejecutivo Estatal, ser el órgano rector de la política deportiv
 
 El Gobierno Estatal y los Gobiernos Municipales, fomentarán y promoverán el adecuado ejercicio del derecho de todos los morelenses, a la práctica del deporte y la cultura física en el ámbito de sus respectivas competencias, de conformidad con las bases de coordinación previstas en esta Ley y demás ordenamientos normativos aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 6.
 
-Para efectos de la presente Ley y su Reglamento, se entiende por:
+Para efectos de la presente Ley y su reglamento, se entiende por:
 
 I. Sistema: Al Sistema del Deporte y Cultura Física del Estado de Morelos;
 
@@ -97,7 +95,9 @@ VII. Deportista: Persona física que realice actividades de orden de competencia
 
 VIII. Educación Física: La sistematización de conductas motrices para conseguir objetivos educativos, por medio del cual se adquiere, transmite y acrecienta la cultura física, la competencia motriz y las bases del deporte, mismas que se contemplan y se definen en los Programas de Educación del Estado y en el Programa Estatal del Deporte;
 
-IX. Cultura Física: Manifestación de valores sociales, conocimientos, investigaciones, habilidades y recursos orientados en beneficio de todos los sectores de la población;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2024)</small>
+
+IX. Cultura Física: Conjunto de bienes; conocimientos, ideas, valores y elementos materiales que la humanidad ha producido con relación al movimiento y uso de su cuerpo;
 
 X. Deporte Popular: El que tiene como objetivo contribuir al bienestar individual y social de la población, poniendo a su alcance, la práctica de actividades físicas y deportivas;
 
@@ -2062,3 +2062,19 @@ P.O. 24 DE AGOSTO DE 2022.
 PRIMERO.- Remítase el presente al titular del Poder Ejecutivo del Estado, para los efectos que indican los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 14 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL SEISCIENTOS DIECISEIS.- POR EL QUE SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 6 DE LA LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente decreto al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
