@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-fauna-del-estado-de-morelos-21505"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-30"
-last_updated: "2023-12-20"
+last_updated: "2024-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE FAUNA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el 30 de abril de 1997.
 
@@ -57,15 +57,15 @@ LEY ESTATAL DE FAUNA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO , P.O. 14 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 1.
 
-La presente Ley tiene como finalidad regular la protección de los animales domésticos, de servicio y a las especies silvestres que se encuentren dentro del Estado de Morelos. Las disposiciones de ésta son de interés público y tienen los siguientes objetivos:
+La presente Ley tiene como objeto regular la protección de los animales domésticos y a las especies silvestres que se encuentren dentro del Estado de Morelos. Las disposiciones de ésta, son de interés público y tienen los siguientes objetivos:
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2024)</small>
 
-I.- Fomentar el trato humanitario para los animales domésticos, de servicio y silvestres;
+I.- Fomentar y aplicar las medidas relativas al trato digno y respetuoso para los animales domésticos y silvestres;
 
 II.- Erradicar en todas sus formas y sancionar el maltrato y los actos de crueldad para con los animales;
 
@@ -75,13 +75,17 @@ IV.- Contribuir a la formación del individuo y a su superación personal, famil
 
 V.- Fomentar y apoyar la creación y funcionamiento de sociedades protectoras de animales.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 2.
 
-Para efectos de esta Ley la fauna silvestre es aquella que vive libremente en los ecosistemas de manera permanente, transitoria o migratoria.
+Para efectos de esta Ley la fauna silvestre es aquella que subsiste sujeta a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del hombre.
+
+REFORMADO, P.O. 14 DE FEBRERO DE 2024)
 
 ###### Artículo 3.
 
-La fauna doméstica está constituida por los animales que viven bajo el cuidado y control del hombre. Quedan encuadrados dentro de esta clasificación aquellos que por abandono sean susceptibles de captura y apropiación por los medios autorizados en este Ordenamiento y su Reglamento.
+La fauna doméstica está constituida por los animales que viven bajo el cuidado y control del hombre. Quedan encuadrados dentro de esta clasificación los de compañía y aquellos que por abandono sean susceptibles de captura y apropiación por los medios autorizados en este Ordenamiento y su Reglamento.
 
 > <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
@@ -185,15 +189,71 @@ e).- Al concluir la visita se levantará acta circunstanciada en presencia de do
 
 Se consideran como faltas y deberán ser sancionadas de acuerdo con esta Ley, todos aquellos actos u omisiones que provoquen dolor innecesario a un animal, que menoscaben temporal o definitivamente cualquiera de sus funciones naturales o que de cualquier forma le ocasionen sufrimiento alguno, ya sea que el infractor actúe dolosa o imprudencialmente, en forma directa o bien, permita o provoque que otro efectúe el acto de crueldad.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE FEBRERO DE 2024)</small>
 
-### CAPITULO III. DE LOS ANIMALES DOMÉSTICOS, DE SERVICIO Y SILVESTRES
+### CAPITULO III. DE LOS ANIMALES DOMÉSTICOS Y SILVESTRES
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 20.
 
-Toda persona física o moral, que se dedique a la cría o cuidado de animales silvestres, de servicio o domésticos, está obligada a valerse de los medios y procedimientos más adecuados, a fin de que los animales en su desarrollo reciban buen trato de acuerdo a los adelantos científicos en uso y puedan satisfacer el comportamiento natural de su especie.
+Toda persona física o moral, que se dedique a la cría o cuidado de animales silvestres o domésticos, está obligada a valerse de los medios y procedimientos más adecuados, a fin de que los animales en su desarrollo reciban buen trato de acuerdo a los adelantos científicos en uso y puedan satisfacer el comportamiento natural de su especie.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2024)</small>
+
+###### Artículo 20 Bis.
+
+Se considera tutor, al propietario o poseedor de un animal doméstico.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2024)</small>
+
+###### Artículo 20 Ter.
+
+Son obligaciones de los tutores:
+
+I. Esterilizar al animal doméstico a su cargo, con un médico veterinario con cédula profesional vigente;
+
+II. Integrar al animal doméstico a su cargo a un programa de medicina preventiva bajo la supervisión de un médico veterinario, quien deberá expedir la Cartilla de Control con su respectivo folio de identificación, y mencionarlo cada vez que asista con un profesionista distinto;
+
+III. Conservar la cartilla o los certificados de tratamiento y vacunación firmados por médico veterinario con cédula profesional vigente;
+
+IV. Dotar al animal doméstico de un espacio que le permita libertad de movimientos para expresar cómodamente sus comportamientos naturales de alimentación, descanso y cuidado corporal;
+
+V. Otorgar protección al animal doméstico contra condiciones climáticas, estableciendo una zona de sombra permanente y un sitio de resguardo;
+
+VI. Proporcionar al animal doméstico agua limpia y fresca en todo momento, servida en un recipiente limpio, adecuado a su tamaño, fisiología y edad;
+
+VII. Suministrar diariamente al animal doméstico la dotación correspondiente de alimento nutritivo y en cantidad suficiente, con base en su raza, talla, edad y estado fisiológico;
+
+VIII. Mantener al animal doméstico en adecuadas condiciones higiénicas y sanitarias;
+
+IX. Proporcionar al animal doméstico atención médico-veterinaria, tanto preventiva como de urgencia;
+
+X. Vacunarlos contra las enfermedades propias de su especie, con la debida periodicidad; y en los términos que la autoridad competente establezca cuando se trate de vacunación obligatoria como medida de seguridad sanitaria;
+
+XI. Garantizar que el animal doméstico tenga suficiente convivencia y segura sociabilización con seres humanos y otros animales;
+
+XII. Establecer las medidas necesarias para que el animal doméstico no escape o ponga en riesgo la seguridad y la integridad física del ser humano, de él mismo y de otros animales;
+
+XIII. Colocar al animal doméstico un método de sujeción que garantice su seguridad y evite daños físicos, y placa de identificación donde se establezca la dirección y la forma de contacto del tutor responsable, considerando la especie del animal doméstico;
+
+XIV. Dar paseos diarios al animal doméstico, atendiendo a su especie;
+
+XV. Trasladar al animal doméstico con correa cuando se encuentre en la vía o espacios públicos y comunitarios, la cual deberá garantizar que el tutor ejerce control sobre el mismo;
+
+XVI. Deberá siempre de llevar bozal cuando el ejemplar tenga antecedentes de agresión o sea poco sociable con el ser humano u otros animales, siempre y cuando éste haya sido indicado expresamente por un especialista y que no ponga en riesgo el bienestar del animal que lo porte;
+
+XVII. Levantar sus heces;
+
+XVIII. Notificar a cualquier médico veterinario cualquier cambio en la situación del animal doméstico, tales como extravío, robo, fallecimiento o transmisión de tutor, y
+
+XIX. Responder por los daños y perjuicios que el animal doméstico ocasione a terceros.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2024)</small>
+
+###### Artículo 20 Quater.
+
+Ante el incumplimiento del artículo anterior, el tutor o tercero encargado de un animal se hará acreedor a las sanciones previstas en la presente Ley, y los demás ordenamientos estatales y municipales, independientemente de la responsabilidad penal o civil en las que incurra.
 
 ###### Artículo 21.
 
@@ -387,19 +447,39 @@ Queda prohibido cometer actos susceptibles de ocasionar la muerte o mutilación 
 
 Queda prohibido el obsequio, la distribución o venta de animales vivos, para fines de propaganda o promoción comercial, premios de sorteos y loterías.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 37.
 
-Queda prohibida la venta de toda clase de animales vivos o muertos, sin permiso expreso de la autoridad Municipal o la oficina correspondiente del Estado.
+Queda prohibida la venta y distribución de toda clase de animales vivos o muertos, sin permiso expreso de la autoridad Municipal competente.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 38.
 
-Los expendios de animales vivos en zonas urbanas están sujetos a las disposiciones aplicables de esta Ley y éstos deberán estar a cargo de un responsable autorizado por la autoridad sanitaria.
+Los establecimientos interesados en criar, reproducir y realizar compra venta de animales domésticos, deberán registrarse e inscribirse ante la unidad administrativa competente del Municipio de que se trate.
 
-La exhibición y venta de animales será en locales con instalaciones adecuadas para su correcto cuidado, manutención y protección, apegadas a las normas de higiene y seguridad colectiva. Los promotores para realizar estas actividades deben obtener el permiso previo de la autoridad correspondiente.
+Dicha autoridad llevará un registro obligatorio de los criaderos, los cuales deberán cumplir al menos con los siguientes requisitos:
+
+I. Presentar solicitud correspondiente;
+
+II. Exhibir la licencia de funcionamiento vigente emitida por el municipio en donde operen;
+
+III. Contar con espacio suficiente para que los animales domésticos se críen o reproduzcan; dichos espacios deben permitir la movilidad según el tamaño, la cantidad de animales domésticos resguardados, su raza, especie, tamaño, etología y actividad;
+
+IV. Contar con instalaciones e infraestructura que garantice el bienestar de los animales;
+
+V. Acreditar que se cuenta con personal capacitado y suficiente para atender las necesidades diarias de los animales, los cuales velarán en todo momento por el bienestar animal, y
+
+VI. Presentar una carta responsiva del médico veterinario encargado del establecimiento, con conocimiento en pequeñas especies y bienestar animal;
+
+El registro deberá refrendarse anualmente, siempre y cuando se cumplan con todos los requisitos.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 39.
 
-Por ningún motivo podrán realizarse operaciones de exhibición y venta de animales en la vía pública sin permiso de la autoridad.
+Por ningún motivo podrán realizarse actos de exhibición y venta de animales en la vía pública, locales improvisados, mercados itinerantes, así como la venta dentro y fuera de vehículos en el territorio morelense sin autorización de la autoridad competente.
 
 ###### Artículo 40.
 
@@ -527,61 +607,127 @@ Los permisos de caza son personales e intransferibles y sus poseedores están ob
 
 Las curtidurías, tenerías y establecimientos de taxidermia que se dediquen a la preparación de pieles están obligados a requerir del interesado, el permiso correspondiente y a llevar un libro de control en la forma y términos que determine el Reglamento.
 
-### CAPITULO X. DE LA COMISION ESTATAL DE PROTECCION A LOS ANIMALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE FEBRERO DE 2024)</small>
+
+### CAPITULO X. DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 63.
 
-Se crea la Comisión Estatal de Protección a los Animales, como Institución del Gobierno del Estado, dedicada a la protección de los animales en todos sus órdenes.
+La Procuraduría de Protección al Ambiente del Estado de Morelos, será la autoridad encargada de la aplicación, inspección y vigilancia del cumplimiento de esta Ley.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 64.
 
-Son atribuciones de la Comisión Estatal de Protección a los Animales o de la que haga sus funciones:
+La Procuraduría de Protección al Ambiente del Estado de Morelos, independientemente de lo dispuesto en el Reglamento respectivo tendrá las siguientes facultades:
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+I. Informar, orientar y asesorar a la población, secretarías, dependencias, municipios, órganos desconcentrados de la administración pública, respecto de los derechos y obligaciones contenidos en la presente ley;
 
-I.- Procurar la protección de los animales en términos de la presente Ley.
+II. Recibir, atender, conocer, investigar y resolver las denuncias que se presenten sobre actos, hechos u omisiones que puedan ser constitutivos de incumplimiento de la presente Ley;
 
-II.- Fomentar la creación de Sociedades de Protección a los Animales.
+III. Tratándose de emergencias o flagrancia, actuar de oficio;
 
-III.- Asesorar a instituciones públicas y privadas sobre métodos y procedimientos adecuados de atención a los animales.
+IV. Realizar visitas de inspección en cualquier tiempo a los establecimientos de criaderos y albergues inscritos en los Municipios, con el objeto de verificar el cumplimiento de esta Ley y las que de ella se deriven;
 
-IV.- Inspeccionar los centros de cautiverio y matanza de animales en el Estado, así como la transportación y manejo de los mismos.
+V. Dar aviso y canalizar las denuncias presentadas en la Procuraduría de Protección al Ambiente del Estado de Morelos, a las autoridades federales competentes, cuando se incumpla la legislación correspondiente sobre animales silvestres y animales utilizados para el consumo, así como, el traslado de los mismos ya sea que infrinjan las leyes o lineamientos en materia de protección y bienestar animal, no cuenten con el registro y la autorización necesaria de acuerdo a la legislación aplicable en la materia;
+
+VI. Solicitar a las autoridades estatales y municipales en el ámbito de su competencia, información en materia de protección y bienestar animal;
+
+VII. Asegurar provisionalmente o decomisar animales que se encuentren en grave peligro, canalizarlos a los Centros de Control Animal, Antirrábicos o análogos del Municipio que se trate;
+
+VIII. Denunciar ante el Ministerio Público los actos y hechos que contravengan las disposiciones señaladas en la legislación Penal de nuestro Estado, con independencia de los procedimientos administrativos que en el ámbito de su competencia inicie;
+
+IX. Iniciar, integrar y resolver, los procedimientos administrativos derivados del incumplimiento de esta ley;
+
+X. Dictar las medidas precautorias que sean necesarias e imponer las sanciones procedentes por violaciones e infracciones en los términos de esta Ley y de las que de ella se deriven;
+
+XI. Organizar, desarrollar y promover actividades de investigación en materia de protección y bienestar animal;
+
+XII. Establecer mecanismos de difusión y comunicación con toda clase de instituciones públicas y privadas en materia de protección y bienestar animal;
+
+XIII. Promover la capacitación de servidores públicos, peritos y de la ciudadanía en general, interesados en participar en la vigilancia de la presente ley y en general en materia de protección y bienestar animal;
+
+XIV. Ordenar previo el desahogo del procedimiento administrativo correspondiente, previa resolución que así lo ordene, a la autoridad competente la revocación y cancelación de las licencias, autorizaciones o registros, cuando sean otorgadas en contra de lo prescrito por la Ley;
+
+XV. Emitir recomendaciones a las secretarías, dependencias; órganos desconcentrados y entidades de la administración pública estatal y municipal, con el propósito de promover la aplicación y el cumplimiento de la presente ley y sancionar cuando corresponda;
+
+XVI. Promover la participación ciudadana, a fin de difundir la cultura y la protección a los animales;
+
+XVII. Celebrar convenios de coordinación y demás actos jurídicos, con autoridades federales, Estatales o municipales, que sean necesarios para el ejercicio de sus atribuciones, y
+
+XVIII. Las demás que esta Ley, su reglamento y demás disposiciones jurídicas aplicables le confieran.
 
 ###### Artículo 65.
 
-La Comisión Estatal de Protección a los Animales se integrará por representantes propietario y suplente de las siguientes Entidades:
-
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
-
-I.- Un representante de la Secretaría.
-
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
-
-II.- Un representante del Instituto Estatal de Protección Civil.
-
-III.- Un representante del Colegio de Médicos Veterinarios.
-
-IV.- Hasta tres representantes de las asociaciones protectoras de animales legalmente constituidas en el Estado.
-
-Los nombramientos de los representantes serán expedidos por el C. Gobernador del Estado y éste designará además a las personas que ejerzan los cargos de Presidente y Secretario de la Comisión. La Comisión Estatal de Protección a los Animales, invitará a participar a los funcionarios federales y municipales que considere convenientes.
-
-Los cargos que se ocupen en la Comisión Estatal de Protección a los Animales serán honoríficos.
-
-La Comisión será un órgano de consulta y asesoría del Ejecutivo del Estado. El Reglamento Interior que expida la Comisión, especificará la organización y funcionamiento de ésta, así como la forma de realizar las sesiones.
+(DEROGADO, P.O. 14 DE FEBRERO DE 2024)
 
 ###### Artículo 66.
 
-La Comisión sesionará las veces que sean necesarias para el buen cumplimiento de su cometido. Las decisiones se tomarán por mayoría de votos y en caso de empate el Presidente tendrá voto de calidad. Para que la Comisión sesione válidamente será necesaria la existencia de la mayoría de sus miembros.
+(DEROGADO, P.O. 14 DE FEBRERO DE 2024)
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 67.
 
-En el Estado de Morelos se podrán crear comités, juntas, asociaciones, sociedades o cualquier otro instrumento análogo de carácter privado para proteger a los animales. Los comités que se creen, funcionarán como instituciones auxiliares del Gobierno del Estado o de los Municipios, y recibirán de éstos el reconocimiento y el apoyo necesario para cumplir con el objetivo de la presente Ley.
+Se crea el Consejo Ciudadano, como órgano de vinculación y enlace con la Procuraduría de Protección al Ambiente del Estado de Morelos, para coadyuvar en el diseño y evaluación de las políticas sobre bienestar y protección animal.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2024)</small>
+
+###### Artículo 67 Bis.
+
+El Consejo Ciudadano se integrará por ciudadanos u organizaciones civiles cuyo compromiso con la protección y bienestar animal sea comprobado y reconocido, así como expertos en temas animales.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2024)</small>
+
+###### Artículo 67 Bis 1.
+
+Toda persona, podrá denunciar ante la Procuraduría de Protección al Ambiente del Estado de Morelos, los hechos, actos u omisiones que atenten contra el bienestar animal.
+
+a) La denuncia se interpondrá ante la Procuraduría de Protección al Ambiente del estado de Morelos o ante la autoridad municipal competente, según sea el caso;
+
+b) Si los hechos denunciados son de competencia federal, la autoridad estatal o municipal recibirá la denuncia y deberá canalizarla ante las instancias federales correspondientes;
+
+c) La denuncia podrá interponerse vía telefónica, por escrito o a través de la plataforma digital de la Procuraduría de Protección al Ambiente del estado de Morelos o del Municipio, según sea el caso; y contendrá al menos los siguientes requisitos:
+
+I. Nombre o razón social, domicilio y teléfono del denunciante;
+
+II. Los actos, hechos u omisiones que se denuncian;
+
+III. Datos que permitan identificar al infractor, y
+
+IV. Las pruebas que tenga en su poder para acreditar lo denunciado
+
+d) Si la denuncia se realiza vía telefónica o a través de la plataforma digital de la Procuraduría o del Municipio, según sea el caso, la autoridad que la reciba deberá proporcionar al denunciante un número de reporte o expediente para que pueda dar seguimiento, y
+
+e) Si la denuncia se realiza por escrito, la autoridad que la reciba deberá acusar de recibido y le asignará en ese momento un número de reporte o expediente para que pueda dar seguimiento.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2024)</small>
+
+###### Artículo 67 Bis 2.
+
+De existir riesgo inminente para los animales debido a actos de crueldad o maltrato hacia ellos, o ante flagrancia o cuando éstos se ofrezcan para su enajenación en la vía pública, sean altamente peligrosos o feroces y su posesión no esté autorizada; representen un peligro para la salud pública por padecer enfermedades transmisibles; hayan sido objeto de crueldad o maltrato graves; se ofrezcan para fines de propaganda o premiación; se transporten o movilicen contraviniendo las disposiciones de esta Ley o sean empleados en peleas o como instrumentos delictivos, las autoridades competentes, en forma fundada y motivada, podrán ordenar inmediatamente alguna o algunas de la siguientes medidas de seguridad:
+
+a) Aseguramiento precautorio de los animales. El aseguramiento subsistirá por todo el tiempo que dure el procedimiento para la aplicación de las sanciones definitivas;
+
+b) Clausura temporal de los establecimientos, instalaciones, servicios o lugares donde se tengan, utilicen, exhiban, comercien o celebren espectáculos públicos con animales donde no se cumpla con las leyes, reglamentos, así como con los preceptos legales aplicables, y
+
+c) Clausura definitiva cuando exista reincidencia en los casos que haya motivado una clausura temporal o cuando se trate de hechos, actos u omisiones cuyo fin sea realizar actos prohibidos por la presente Ley.
+
+Las autoridades competentes podrán ordenar de manera fundada y motivada o proceder a la vacunación, atención médica o, en su caso, al sacrificio de animales de conformidad con las normas oficiales mexicanas.
 
 ### CAPITULO XI. DE LAS SANCIONES ADMINISTRATIVAS
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 68.
 
+Toda persona, física o moral, tiene la obligación de brindar un trato digno, respetuoso, de protección y respeto a cualquier animal.
+
 Es responsable de las faltas previstas en esta Ley cualquier persona que participe en la ejecución de las mismas o induzca a otro, directa o indirectamente a cometerlas. Los padres o encargados de menores serán responsables de las faltas que éstos cometan.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. 14 DE FEBRERO DE 2024, PÁGINA 43.]</small>
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
 
@@ -589,9 +735,21 @@ Es responsable de las faltas previstas en esta Ley cualquier persona que partici
 
 Son faltas y sanciones en materia de fauna, la captura de animales que formen parte de la lista de especies en estado de extinción y cualquier acto de crueldad intencional o imprudencial ejecutado en cualquier animal.
 
-Para efectos de aplicación de sanciones en los términos de la presente ley, se entenderá por actos de crueldad los siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE FEBRERO DE 2024)</small>
 
-I. Descuidar la morada y las condiciones de movilidad, higiene al albergue de un animal a punto tal que esto pueda causarle sed, insolación y dolores;
+Quedan exceptuados los casos en donde por no contar con los medios económicos para su atención, se dé aviso a las autoridades correspondientes o grupos protectores de animales legalmente constituidos a fin de obtener apoyo para la atención del animal de que se trate.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2024)</small>
+
+###### Artículo 69 Bis.
+
+Para los efectos de esta ley, se entenderá por maltrato y crueldad contra los animales, los siguientes:
+
+a). Maltrato contra los animales. Todo hecho, acto u omisión del ser humano, que puede ocasionar dolor, deterioro físico o sufrimiento, que afecte el bienestar, ponga en peligro la vida del animal, o afecte gravemente su salud o integridad física, así como la exposición a condiciones de sobreexplotación de su capacidad física con cualquier fin.
+
+Será considerado maltrato los siguientes:
+
+I. Descuidar la morada y las condiciones de movilidad, la higiene del albergue de un animal a punto tal que esto pueda causarle sed, insolación y dolores. Utilizar bozales sin rejillas que permitan al animal jadear o beber agua libremente;
 
 II. Toda privación de aire, luz, alimento, agua o espacio suficiente que cause o pueda causar daño a la vida normal de un animal;
 
@@ -601,15 +759,61 @@ IV. Hacer trabajar al animal en jornadas excesivas sin proporcionarles descanso 
 
 V. Emplearlos en el trabajo cuando no se encuentren en estado físico adecuado;
 
-VI. Emplear "animales de tiro" de vehículos que excedan notoriamente sus fuerzas;
+VI. Emplear "animales de tiro" en vehículos que excedan notoriamente sus fuerzas;
 
 VII. No proporcionar un espacio adecuado y limpio, a los animales que se encuentren en establecimientos o comercios dedicados a la venta de estos o en los lugares en donde se encuentren a resguardo por cualquier motivo;
 
-VIII. Mantenerlos enjaulados, salvo que tengan aptitud de volar, y
+VIII. Mantenerlos de manera permanente enjaulados, salvo que tengan aptitud de volar, o sean animales de corral, para lo cual la jaula deberá tener espacio suficiente para que el animal pueda ponerse de pie en piso liso y extender sus alas y aletear;
 
-IX. No trasladar a cualquier animal que lo requiera y que tengan por cualquier motivo bajo su cuidado o resguardo al médico veterinario para la atención medica requerida, cubriendo los respectivos honorarios del profesionista.
+IX. Mantenerlos permanentemente amarrados o encadenados, hacinado a un grupo de animales de la misma o de diversas especies, entendiéndose dicho hacinamiento como el hecho de tener más de dos animales que requieran espacio amplio de movilidad para sus actividades vitales en un área inferior a veinte metros cuadrados por animal y mantenerlos aislados permanentemente, o sin sociabilización con su misma especie, humanos y otras especies;
 
-Quedan exceptuados los casos en donde por no contar con los medios económicos para su atención, se dé aviso a las autoridades correspondientes o grupos protectores de animales legalmente constituidos a fin de obtener apoyo para la atención del animal de que se trate.
+X. No trasladar a cualquier animal que lo requiera y que tengan por cualquier motivo bajo su cuidado o resguardo al médico veterinario para la atención requerida, cubriendo los respectivos honorarios del profesionista;
+
+XI. El abandono de cualquier animal, así como, comprometer su bienestar al desatenderlo por períodos prolongados;
+
+XII. No proporcionar diariamente, agua limpia y comida suficiente según su tamaño y actividad o proporcionárselos en forma insuficiente o en mal estado;
+
+XIII. Someterlos de manera continua a la exposición de ruidos, temperaturas, electricidad, aromas, vibraciones, luces o cualquier otro tipo de fenómeno físico que les resulte perjudicial para su salud;
+
+XIV. Aplicarles cualquier estupefaciente, y
+
+XV. Transportar o movilizar a un animal sin protección y sin cumplir las leyes y normas oficiales mexicanas relacionadas.
+
+b).- Crueldad contra los animales. Cualquier acto de brutalidad, sádico o zoofílico contra cualquier animal, ya sea por acción directa, omisión o negligencia.
+
+Serán considerados como crueldad los siguientes:
+
+I.- Cualquier causal establecida en el artículo anterior que sea sistemática y repetitiva;
+
+II.- Practicar zoofilia o actos de contenido sexual;
+
+III.- Causar la muerte; se agravará la sanción a quien utilice cualquier medio que prolongue la agonía o provoque sufrimiento;
+
+IV.- El sacrificio de animales empleando métodos diversos a los establecidos en las normas oficiales mexicanas;
+
+V.- Cualquier alteración de la integridad física o modificación negativa de sus instintos naturales;
+
+VI.- Practicarles mutilaciones que no sean motivadas por exigencias funcionales o de salud;
+
+VII.- Todo hecho, acto u omisión dolosa que pueda ocasionar dolor, sufrimiento, tensión nerviosa que ponga en peligro la vida del animal o que afecten el bienestar animal;
+
+VIII.- Azuzar a los animales para que se ataquen entre ellos o a las personas;
+
+IX.- Toda privación de aire, luz, alimento, agua, espacio, abrigo contra la intemperie, cuidados médicos y alojamiento adecuado, acorde a su especie, que cause o pueda causar daño transitorio o permanente a un animal;
+
+X.- Mutilar, torturar, envenenar, quemar, golpear, estrangular, asfixiar y cualquier otro similar;
+
+XI.- Utilizarlos como blancos en actividades deportivas de tiro o caza, salvo cuando se cuente con la correspondiente licencia para efectuar actividades cinegéticas;
+
+XII.- Dejar por tiempo prolongado en el interior de vehículos a animales a temperaturas que afecte su bienestar o que ponga en riesgo su vida;
+
+XIII.- Utilizar animales vivos, como instrumento de entrenamiento en animales de guardia, de ataque o como medio para verificar su agresividad, salvo las especies de fauna silvestre manejadas con fines de rehabilitación y su preparación para su liberación en su hábitat, así como las aves de presa cuando se trate de su entrenamiento;
+
+XIV.- Utilizarlos en trabajos que no son propios de su especie o en actividades que impliquen un esfuerzo excesivo, repetición constante y reiterada de una misma actividad, falta de descanso y demás, que propicien su deterioro físico o instintivo;
+
+XV.- Atropellar animales intencionalmente, y
+
+XVI.- Cualquier acción u omisión que ponga en riesgo o menoscabe el bienestar integral de los animales.
 
 ###### Artículo 70.
 
@@ -627,11 +831,13 @@ Las infracciones a lo dispuesto en esta Ley, se sancionarán por la Procuradurí
 
 Se impondrá multa de mil quinientas a dos mil veces el valor diario de la Unidad de Medida y Actualización, y arresto hasta por treinta y seis horas a quien realice la infracción contenida en el segundo párrafo del artículo 12 de la presente Ley. Así mismo se procederá a la clausura del inmueble donde se desarrolle el evento o espectáculo.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 72.
 
-Los responsables de los rastros que no cumplan con las disposiciones señaladas en esta Ley, se harán acreedores a multas de 10 hasta 40 veces el valor diario de la Unidad de Medida y Actualización. En caso de reincidencia se duplicará la multa y en caso de reincidencia habitual o gravedad se cancelará el permiso para ejercer la actividad propia del mismo, en tratándose de particulares. De ser el establecimiento manejado por el Municipio, se procederá a la separación del cargo del administrador, sin menoscabo de la sanción que de acuerdo a esta Ley y cualquier otro ordenamiento proceda.
+Los responsables de los rastros que no cumplan con las disposiciones señaladas en esta Ley, se harán acreedores a multas de 10 hasta 40 veces el valor diario de la Unidad de Medida y Actualización. En caso de reincidencia se duplicará la multa y en caso de reincidencia habitual o gravedad se cancelará el permiso para ejercer la actividad propia del mismo, en tratándose de particulares.
+
+De ser el establecimiento manejado por el Municipio, se agravará la sanción para el servidor público encargado del área, de conformidad con lo establecido en la Ley de Responsabilidades Administrativas para el estado de Morelos y demás ordenamientos aplicables.
 
 ###### Artículo 73.
 
@@ -792,3 +998,15 @@ PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo Estatal, 
 SEGUNDA.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA.- Se concede un plazo de 60 días hábiles contados a partir de la publicación en el Periódico Oficial para que los Ayuntamientos del Estado emitan los lineamientos y criterios a que se refiere esta reforma.
+
+P.O. 14 DE FEBRERO DE 2024.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO MIL SEISCIENTOS NOVENTA Y SIETE POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ESTATAL DE FAUNA".]</small>
+
+PRIMERA: Remítase el presente decreto al titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70 fracción XVIII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO: El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA: Se concede un plazo de 90 días hábiles contados a partir de la publicación en el Periódico Oficial para realizar las reformas correspondientes al Reglamento de la materia; así como para que los Ayuntamientos del Estado emitan los lineamientos y criterios a que se refiere esta reforma.
+
+CUARTO: Se dejan sin efectos todas las disposiciones que se opongan al presente ordenamiento.
