@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2023-09-27"
+last_updated: "2024-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -463,13 +463,13 @@ Cuando un partido político, coalición o candidato independiente obtenga una cu
 
 Los diputados electos bajo las siglas de un mismo partido, en un número de dos o más, constituirán un grupo parlamentario.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2024)</small>
 
-Solo podrá existir un grupo parlamentario por cada partido político con representación en el Congreso del Estado. Cuando uno o más Diputados de un mismo partido dejen de pertenecer a un grupo parlamentario, podrán integrarse a otro de diferente partido; si no lo hacen, serán considerados como Diputados sin partido.
+Solo podrá existir un grupo parlamentario por cada partido político con representación en el Congreso del Estado. Cuando uno o más Diputados de un mismo partido dejen de pertenecer a un grupo parlamentario, podrán integrarse a otro de diferente partido en cualquier momento; si no lo hacen, serán considerados como Diputados sin partido.
 
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2023)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2024)</small>
 
-Las y los Legisladores que hayan sido declarados ante el Pleno como diputados sin partido al inicio del año legislativo, podrán adherirse en cualquier momento a un grupo parlamentario. Para tal efecto, deberán informarlo por escrito al presidente de la Mesa Directiva, surtiendo sus efectos a partir de ese momento. De igual forma lo comunicarán a las y los integrantes del Grupo Parlamentario al que se pretendan adherir.
+Para tal efecto, deberán informarlo por escrito al presidente de la Mesa Directiva, quien, de inmediato, hará la declaratoria de modificación correspondiente, surtiendo sus efectos a partir de ese momento. De igual forma lo comunicarán a las y los integrantes del Grupo Parlamentario al que se pretendan adherir.
 
 > <small>(ADICIONADO, P.O. 22 DE MARZO DE 2023)</small>
 
@@ -489,13 +489,13 @@ Previo a la Sesión de Instalación del primer periodo de cada año legislativo,
 
 En la Sesión de instalación del primer periodo de cada año legislativo, el Presidente de la Mesa Directiva hará la declaratoria de la integración de los grupos parlamentarios para los efectos legales correspondientes.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 30.
 
 Cualquier modificación a la estructura original de los grupos parlamentarios, deberá hacerse del conocimiento de la Junta Política y de Gobierno y del Presidente de la Mesa Directiva.
 
-En la Sesión de Instalación del primer periodo de cada año legislativo, el Presidente de la Mesa Directiva hará la declaratoria de la modificación en la integración de los grupos parlamentarios, surtiendo sus efectos a partir de ese momento.
+En la Sesión de Instalación del primer periodo de cada año legislativo, el Presidente de la Mesa Directiva hará la declaratoria de la modificación en la integración de los grupos parlamentarios, surtiendo sus efectos a partir de ese momento; sin perjuicio de lo dispuesto por el artículo 28 de esta Ley.
 
 ###### Artículo 31.
 
@@ -3504,3 +3504,13 @@ PRIMERA. El presente Decreto entrará en vigor al momento de su aprobación por 
 SEGUNDA. Remítase el presente Decreto al titular del Poder Ejecutivo, para su publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 TERCERA. Se derogan las disposiciones de igual o menor rango jerárquico normativo que se opongan a la presente reforma.
+
+P.O. 14 DE FEBRERO DE 2024.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO MIL SEISCIENTOS CUARENTA Y TRES POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS, EN MATERIA DE DERECHOS POLÍTICO-ELECTORALES".]</small>
+
+PRIMERA. El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado de Morelos, en términos de lo dispuesto por los artículos 38, segundo párrafo, de la Constitución Política del Estado Libre y Soberano de Morelos y 4 de la Ley Orgánica para el Congreso del Estado de Morelos.
+
+SEGUNDA. Remítase el presente decreto al titular del Poder Ejecutivo para su publicación respectiva en el órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
