@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-servicios-de-salud-del-instituto-167824"
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-09-13"
-last_updated: "2023-12-28"
+last_updated: "2024-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167824&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-07-31"
 
 ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE FEBRERO DE 2024.
 
 Estatuto publicado en el Diario Oficial de la Federación, el miércoles 13 de septiembre de 2023.
 
@@ -63,9 +63,13 @@ ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIA
 
 #### SECCION CUARTA. UNIDAD JURÍDICA
 
-#### SECCION QUINTA. COORDINACIÓN DE ACCIÓN COMUNITARIA
+> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 2024)</small>
 
-#### SECCION SEXTA. COORDINACIÓN DE PLANEACIÓN ESTRATÉGICA
+#### SECCION QUINTA. UNIDAD DE PLANEACIÓN ESTRATÉGICA Y COORDINACIONES ESTATALES
+
+> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+#### SECCION SEXTA. COORDINACIÓN DE ACCIÓN COMUNITARIA
 
 #### SECCION SÉPTIMA. COORDINACIÓN DE TRANSPARENCIA Y VINCULACIÓN
 
@@ -151,11 +155,21 @@ XIV. Población objetivo: Las personas sin afiliación a las instituciones de se
 
 XV. Programa IMSS-BIENESTAR: El Programa IMSS-BIENESTAR del Gobierno Federal administrado por el Instituto Mexicano del Seguro Social, en los términos de las reglas de operación publicadas anualmente en el Diario Oficial de la Federación.
 
-XVI. RISS: Redes Integradas de Servicios de Salud.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 14 DE FEBRERO DE 2024)</small>
 
-XVII. Unidades y coordinaciones: Las áreas que, de acuerdo con este Estatuto, forman parte de la estructura orgánica básica de IMSS-BIENESTAR.
+XVI. Regionalización operativa: Instrumento de planeación que integra información cartográfica, sociodemográfica, epidemiológica y de unidades médicas en una región determinada. Su uso permite definir las áreas de responsabilidad, identificar barreras en el acceso a los servicios (económicas, geográficas, estructurales, culturales, etc.), delimitación operativa de las unidades existentes, capacidad resolutiva, situación actual de la infraestructura existente, etcétera.
 
-XVIII. Unidades administrativas estatales: Son las Jefaturas de Servicios, Departamentos y Oficinas que forman parte de la estructura orgánica básica de las Coordinaciones Estatales.
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+XVII. RISS: Redes Integradas de Servicios de Salud.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+XVIII. Unidades y coordinaciones: Las áreas que, de acuerdo con este Estatuto, forman parte de la estructura orgánica básica de IMSS-BIENESTAR.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+XIX. Unidades administrativas estatales: Son las Jefaturas de Servicios, Departamentos y Oficinas que forman parte de la estructura orgánica básica de las Coordinaciones Estatales.
 
 ###### Artículo 3.
 
@@ -415,6 +429,8 @@ g) Coordinación de Administración de Nómina Federalizada e IMSS-BIENESTAR.
 
 h) Coordinación de Tecnologías de la Información.
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 14 DE FEBRERO DE 2024)</small>
+
 III. UNIDAD DE INFRAESTRUCTURA
 
 a) Coordinación de Proyectos y Construcción de Obras
@@ -422,6 +438,10 @@ a) Coordinación de Proyectos y Construcción de Obras
 b) Coordinación de Equipamiento para Establecimientos de Salud
 
 c) Coordinación de Conservación y Mantenimiento de Infraestructura
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+d) Coordinación de Evaluación y Seguimiento de Infraestructura Operativa
 
 IV. UNIDAD JURÍDICA
 
@@ -437,27 +457,37 @@ c) Coordinación de lo Contencioso.
 
 3. División de Procedimientos Jurídicos.
 
-V. COORDINACIÓN DE ACCIÓN COMUNITARIA
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], D.O.F. 14 DE FEBRERO DE 2024)</small>
 
-VI. COORDINACIÓN DE PLANEACIÓN ESTRATÉGICA
+V. UNIDAD DE PLANEACIÓN ESTRATÉGICA Y COORDINACIONES ESTATALES
+
+a) Coordinación de Planeación Estratégica
+
+b) Coordinación de Vinculación Estatal
+
+c) Coordinación de Padrón de Beneficiarios
+
+d) Coordinaciones Estatales
+
+1. Jefatura de Servicios de Atención a la Salud
+
+2. Jefatura de Servicios Administrativos y Finanzas
+
+3. Jefatura de Servicios Jurídicos
+
+4. Departamento de Acción Comunitaria
+
+5. Departamento de Planeación Estratégica
+
+> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+VI. COORDINACIÓN DE ACCIÓN COMUNITARIA
 
 VII. COORDINACIÓN DE TRANSPARENCIA Y VINCULACIÓN
 
 VIII. ÓRGANO INTERNO DE CONTROL
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
-
-IX. COORDINACIONES ESTATALES
-
-a) Jefatura de Servicios de Atención a la Salud
-
-b) Jefatura de Servicios Administrativos y Finanzas
-
-c) Jefatura de Servicios Jurídicos
-
-d) Departamento de Acción Comunitaria
-
-e) Departamento de Planeación Estratégica
+IX. (DEROGADA, D.O.F. 14 DE FEBRERO DE 2024)
 
 El IMSS-BIENESTAR contará con un Órgano Interno de Control, que se regirá conforme a los artículos 58 y 59 del presente Estatuto.
 
@@ -581,7 +611,9 @@ XXI. Dirigir las estrategias para la implementación y desarrollo del Modelo ún
 
 XXII. Determinar las necesidades de remodelación, ampliación o construcción de obras físicas para la prestación de servicios de salud, de acuerdo con el análisis técnico médico, así como gestionar su realización, con las diferentes unidades y coordinaciones de IMSS-BIENESTAR.
 
-XXIII. Coordinar y aprobar la determinación, gestión y seguimiento de las necesidades de recursos humanos, equipo médico y mobiliario de salud para cumplir los objetivos de los programas de promoción de la salud, prevención y control de enfermedades, vigilancia epidemiológica, atención médica, enfermedades de alto costo, rehabilitación y paliación, así como la calidad y seguridad de la atención que se otorga en las unidades de salud y hospitales de IMSS-BIENESTAR.
+> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+XXIII. Coordinar y aprobar la determinación de las necesidades de recursos humanos, equipo médico y mobiliario de salud, requeridas para que las unidades de atención médicas del IMSS-BIENESTAR cumplan los objetivos de los programas de promoción de la salud, prevención y control de enfermedades, vigilancia epidemiológica, atención médica, enfermedades de alto costo, rehabilitación y paliación, así como la calidad y seguridad de la atención que se otorga en las unidades de salud y hospitales de IMSS-BIENESTAR.
 
 XXIV. Dirigir la integración del catálogo de insumos y medicamentos con base al Compendio Nacional de Insumos para la Salud, que se aplicará en las unidades de salud y hospitales de IMSS-BIENESTAR por nivel de atención, para desarrollar los procesos de promoción de la salud, prevención y control de enfermedades, vigilancia epidemiológica, atención médica, enfermedades de alto costo, rehabilitación y paliación.
 
@@ -617,9 +649,15 @@ XII. Coordinar la elaboración del diagnóstico de salud y programa anual de tra
 
 XIII. Promover la capacitación continua del personal de salud, voluntarios y organización comunitaria correspondiente a las unidades de salud y sus localidades de responsabilidad, sobre los procesos y programas de atención médica del primer nivel, en vinculación con las Coordinaciones de Educación e Investigación y de Acción Comunitaria.
 
-XIV. Instrumentar la operación y seguimiento de los sistemas de información básica en materia de salud, padrón de beneficiarios, atención médica, prevención, sistemas de vigilancia epidemiológica y los aplicables que estén en uso en las unidades de primer nivel de IMSS-BIENESTAR, en vinculación con las Coordinaciones de Planeación Estratégica, de Normatividad y Planeación Médica y Epidemiología.
+> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+XIV. Instrumentar la operación y seguimiento de los sistemas de información de la atención médica, de las acciones de prevención, de los sistemas de vigilancia epidemiológica y los aplicables que estén en uso en las unidades de primer nivel de IMSS-BIENESTAR, en vinculación con las Coordinaciones de Planeación Estratégica, Normatividad y Planeación Médica y Epidemiología.
 
 XV. Promover la ejecución de proyectos de investigación en salud, relacionada con los procesos de atención médica del primer nivel, en vinculación con la Coordinación de Educación e Investigación.
+
+> <small>(ADICIONADA, D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+XVI. Validar la necesidad de los requerimientos de recursos humanos, infraestructura, equipamiento médico, insumos, medicamentos y material de curación, que solicitan las Coordinaciones Estatales para las unidades de primer nivel de atención, en conjunto con la Coordinación de Normatividad y Planeación Médica y Coordinaciones vinculadas.
 
 ###### Artículo 27.
 
@@ -647,7 +685,9 @@ X. Coordinar el seguimiento al cumplimiento de los acuerdos de los Comités Méd
 
 XI. Establecer la vinculación con los responsables de la Secretaría de Salud a nivel federal y estatal de la operación de las Redes Integradas de Servicios de Salud (RISS), para determinar los acuerdos o intercambios de servicios de atención médica de las unidades de segundo nivel de las entidades federativas donde el IMSS-BIENESTAR tenga presencia.
 
-XII. Coordinar la implementación y desarrollo de la atención médica, así como la prescripción y uso razonados de medicamentos y estudios de laboratorio y gabinete que se indiquen en los servicios médicos de las unidades de segundo nivel de IMSS-BIENESTAR, en vinculación con las Coordinaciones de Supervisión, Epidemiología, Programas Preventivos y Planeación Estratégica.
+> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+XII. Coordinar la implementación y desarrollo de la atención médica, así como la prescripción y uso razonados de medicamentos y estudios de laboratorio y gabinete que se indiquen en los servicios médicos de las unidades de segundo nivel de IMSS-BIENESTAR, en vinculación con las Coordinaciones de Supervisión, Epidemiología y Programas Preventivos.
 
 XIII. Coordinar la implementación y desarrollo de la atención en nutrición y dietética, así como de trabajo social que se otorgue en las Unidades de salud y hospitales del IMSS BIENESTAR.
 
@@ -659,11 +699,17 @@ XVI. Coordinar la elaboración del diagnóstico de salud y programa anual de tra
 
 XVII. Promover la capacitación continua del personal de salud médico, paramédico y administrativo, sobre los procesos y programas de atención médica y auxiliares de diagnóstico que se otorgan en las unidades de segundo nivel, en vinculación con la Coordinación de Educación e Investigación.
 
-XVIII. Instrumentar y desarrollar la operación y seguimiento de los sistemas de información básica en materia de salud, padrón de beneficiarios, atención médica, prevención, sistemas de vigilancia epidemiológica y los aplicables que estén en uso en las unidades de segundo nivel de IMSS-BIENESTAR, en vinculación con las Coordinaciones de Planeación Estratégica, de Normatividad y Planeación Médica y Epidemiología.
+> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+XVIII. Instrumentar la operación y seguimiento de los sistemas de información de la atención médica, de las acciones de prevención, de los sistemas de vigilancia epidemiológica y los aplicables que estén en uso en las unidades de segundo nivel de IMSS-BIENESTAR, en vinculación con las Coordinaciones de Planeación Estratégica, Normatividad y Planeación Médica y Epidemiología.
 
 XIX. Promover la ejecución de proyectos de investigación en salud, relacionada con los procesos de atención médica del segundo nivel y de auxiliares de diagnóstico y tratamiento, en vinculación con la Coordinación de Educación e Investigación.
 
 XX. Definir el proceso de intervención para soporte biomédico en las unidades de salud y hospitales del IMSS BIENESTAR.
+
+> <small>(ADICIONADA, D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+XXI. Validar la necesidad de los requerimientos de recursos humanos, infraestructura, equipamiento médico, insumos, medicamentos y material de curación, que solicitan las Coordinaciones Estatales para las unidades de segundo nivel de atención en conjunto con la Coordinación de Normatividad y Planeación Médica y Coordinaciones vinculadas.
 
 ###### Artículo 28.
 
@@ -673,7 +719,9 @@ I. Definir las normas y procedimientos, con base en las políticas institucional
 
 II. Diseñar los lineamientos técnicos operativos, formatos e instrumentos de los procesos de atención médica a los que se sujetarán las unidades de tercer nivel incluyendo la atención de las enfermedades de alto costo.
 
-III. Establecer la metodología de evaluación del desempeño y mejora continua de los procesos hospitalarios de atención médica incluyendo la atención de las enfermedades de alto costo, a los que responderán las unidades de tercer nivel de IMSS-BIENESTAR, así como la evaluación de tecnología sanitaria, en vinculación con las Coordinaciones de Normatividad y Planeación Médica, y de Planeación Estratégica.
+> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+III. Establecer la metodología de evaluación del desempeño y mejora continua de los procesos hospitalarios de atención médica incluyendo la atención de las enfermedades de alto costo, a los que responderán las unidades de tercer nivel de IMSS-BIENESTAR, así como la evaluación de tecnología sanitaria, en vinculación con la Coordinación de Normatividad y Planeación Médica.
 
 IV. Representar a la Unidad en los consejos, comités, grupos de trabajo o reuniones técnico- operativas del Sistema Nacional de Salud referente a la actualización, creación, seguimiento, evaluación, asesoría, entre otras acciones, de los procesos hospitalarios de atención médica del tercer nivel y enfermedades de alto costo.
 
@@ -687,7 +735,9 @@ VIII. Coordinar el proceso de evaluación de casos clínicos que requieren la pr
 
 IX. Difundir las recomendaciones para la prescripción de medicamentos para enfermedades de alto costo a los Jefes de Servicios de Atención a la Salud y Directores de Unidades de Segundo y Tercer Nivel de Atención.
 
-X. Acordar con las coordinaciones de Unidades de Primer Nivel, de Normatividad y Planeación Médica y de Planeación Estratégica el desarrollo y actualización de la regionalización operativa y el sistema de referencia y contrarreferencia en los que se integrarán las unidades de tercer nivel de IMSS-BIENESTAR.
+> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+X. Acordar con las coordinaciones de Unidades de Primer Nivel, de Unidades de Segundo Nivel, de Normatividad y Planeación Médica y de Planeación Estratégica el desarrollo y actualización de la regionalización operativa y el sistema de referencia y contrarreferencia en los que se integrarán las unidades de tercer nivel de IMSS-BIENESTAR.
 
 XI. Establecer los criterios de operación relacionados con la calidad y seguridad de la atención para estandarizar el servicio otorgado en unidades del tercer nivel de atención, en vinculación con la Coordinación de Educación e Investigación.
 
@@ -699,7 +749,9 @@ XIV. Coordinar la elaboración del diagnóstico de salud y programa anual de tra
 
 XV. Promover la capacitación continua del personal de salud médico, paramédico y administrativo, sobre los procesos y programas de atención médica que se otorgan en las unidades de tercer nivel, en vinculación con la Coordinación de Educación e Investigación.
 
-XVI. Instrumentar y desarrollar en vinculación con las Coordinaciones de Planeación Estratégica, de Normatividad y Planeación Médica y Epidemiología, la operación y seguimiento de los sistemas de información básica en materia de salud, padrón de beneficiarios, atención médica, prevención, sistemas de vigilancia epidemiológica, gestión de enfermedades de alto costo y los aplicables que estén en uso en las unidades de tercer nivel de IMSS-BIENESTAR.
+> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+XVI. Instrumentar la operación y seguimiento de los sistemas de información de la atención médica, de las acciones de prevención, de los sistemas de vigilancia epidemiológica y los aplicables que estén en uso en las unidades de tercer nivel de IMSS-BIENESTAR, en vinculación con las Coordinaciones de Planeación Estratégica, Normatividad y Planeación Médica y Epidemiología.
 
 XVII. Promover la ejecución de proyectos de investigación en salud, relacionada con los procesos de atención médica del tercer nivel, en vinculación con la Coordinación de Educación e Investigación.
 
@@ -712,6 +764,10 @@ XX. Acordar con las áreas normativas y operativas involucradas, el marco instit
 XXI. Consolidar en forma sistemática las mejores prácticas clínicas para incorporarlas en los procesos de la atención médica y propiciar la excelencia clínica, en particular recursos como los Instrumentos de Gestión que ayuden a maximizar el uso de la evidencia y la gobernanza en salud.
 
 XXII. Validar la evaluación sistemática y atención de las solicitudes de medicamentos y fármacos novedosos, sujetos a evaluación por grupos de expertos de programas especiales, formuladas por las unidades médicas de IMSS-BIENESTAR para pacientes específicos, para que, con base en los lineamientos del organismo en la materia, emitan las recomendaciones individualizadas para el tratamiento de las y los pacientes.
+
+> <small>(ADICIONADA, D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+XXIII. Validar la necesidad de los requerimientos de recursos humanos, infraestructura, equipamiento médico, insumos, medicamentos y material de curación, que solicitan las unidades de tercer nivel en conjunto con la Coordinación de Normatividad y Planeación Médica y Coordinaciones vinculadas.
 
 ###### Artículo 29.
 
@@ -1255,7 +1311,7 @@ XII. Autorizar situaciones especiales y casos de excepción en materia de relaci
 
 XIII. Establecer y validar las gestiones administrativas para la obtención de recursos para el pago de juicios contenciosos y laborales y, en su caso, elaborar acciones administrativas en aquellas controversias que obliguen al IMSS-BIENESTAR a cumplir con la resolución respectiva.
 
-XIV. Coordinar la elaboración y actualización de la estructura orgánica básica y no básica de las unidades y coordinaciones del IMSS-BIENESTAR con la finalidad de observar los criterios establecidos por la Secretaría de la Función Pública y la Secretaría de Hacienda y Crédito Público, así como, para su presentación a la Junta de Gobierno.
+XIV. (DEROGADA, D.O.F. 14 DE FEBRERO DE 2024)
 
 XV. Suscribir los contratos, convenios y acuerdos relativos al ejercicio de sus facultades, así como, los demás documentos que impliquen actos de administración, de acuerdo con las disposiciones jurídicas aplicables y previo validación de la Unidad Jurídica.
 
@@ -1295,7 +1351,9 @@ X. Administrar y operar, en términos de las disposiciones jurídicas aplicables
 
 XI. Proporcionar apoyo y asesoría a las unidades administrativas de IMSS BIENESTAR para la mejora de procesos, innovación y transparencia en materia de servicios personales relacionados con la Nómina Federalizada e IMSS-BIENESTAR.
 
-XII. Contribuir en la elaboración y actualización de la estructura orgánica básica y no básica de las unidades y coordinaciones del IMSS-BIENESTAR con la finalidad de observar los criterios establecidos por la Secretaría de la Función Pública y la Secretaría de Hacienda y Crédito Público, así como, para su presentación a la Junta de Gobierno.
+> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+XII. Dirigir la elaboración y actualización de la estructura orgánica básica y no básica, de las Unidades y Coordinaciones del IMSS-BIENESTAR con la finalidad de observar los criterios establecidos por la Secretaría de la Función Pública y la Secretaría de Hacienda y Crédito Público, así como, para su presentación a la Junta de Gobierno.
 
 XIII. Suscribir los contratos, convenios y acuerdos relativos al ejercicio de sus facultades, así como, los demás documentos que impliquen actos de administración, de acuerdo con las disposiciones jurídicas aplicables y previo validación de la Unidad Jurídica.
 
@@ -1311,7 +1369,9 @@ I. Definir, elaborar y establecer las políticas, normas, lineamientos, metodolo
 
 II. Establecer los criterios que las unidades y coordinaciones de IMSS-BIENESTAR, a nivel central y en las representaciones estatales, así como las unidades de salud y hospitales de IMSS-BIENESTAR deberán seguir para la observancia de las políticas, normas y procedimientos vigentes en materia de tecnologías de información, comunicaciones y seguridad informática.
 
-III. Participar en la elaboración del Plan Estratégico Institucional en materia de tecnologías de la información, comunicaciones, seguridad informática innovación y desarrollo tecnológico para instrumentar y operar en las diferentes unidades y coordinaciones del Instituto, en su respectivo ámbito de competencia, en vinculación con la Coordinación de Planeación Estratégica.
+> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+III. Coordinar la elaboración del Plan Estratégico Institucional en materia de tecnologías de la información, comunicaciones, seguridad informática, innovación y desarrollo tecnológico para instrumentar y operar en las diferentes unidades y coordinaciones de IMSS- BIENESTAR en su respectivo ámbito de competencia, con el apoyo de la Unidad de Planeación Estratégica y Coordinaciones Estatales.
 
 IV. Diseñar y desarrollar sistemas y servicios en materia de tecnologías de la información y comunicaciones que apoyen las funciones sustantivas, administrativas y de control que deberán operar las unidades y coordinaciones del IMSS-BIENSTAR (sic) y en las unidades de salud y hospitales de IMSS-BIENESTAR, a nivel central y en las representaciones estatales, conforme a su ámbito de competencia, acorde con los objetivos y al Plan Estratégico Institucional.
 
@@ -1384,6 +1444,10 @@ XI. Coordinar la formulación y ejecución del Programa Anual de Obras y Servici
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
 XII. Coordinar los procesos de contratación de obras públicas y servicios relacionados con las mismas, incluido el mantenimiento de bienes inmuebles cuando implique una modificación al propio inmueble con la finalidad de que se encuentren alineados a las prioridades establecidas por IMSS-BIENESTAR;
+
+> <small>(ADICIONADA, D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+XIII. Coordinar el presupuesto anual de operación y de inversión para la contratación de obra pública y servicios relacionados con la mismas, así como las de conservación y los demás servicios de carácter general y naturaleza administrativa que sean necesarios para el logro y alcance de las metas institucionales cuando implique modificación a los inmuebles como lo establece la Ley de Obras Públicas y Servicios Relacionados con las Mismas y la normatividad en la materia.
 
 ###### Artículo 45.
 
@@ -1496,6 +1560,30 @@ XI. Coordinar las medidas preventivas y correctivas observadas en los resultados
 XII. Emitir los informes de la Unidad de Infraestructura y Coordinaciones de IMSS-BIENESTAR.
 
 XIII. Implementar estrategias orientadas a lograr una mejora continua en los procesos, mediante la generación de propuestas, así como a través de la evaluación y retroalimentación de las condiciones de operación.
+
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+###### Artículo 47 Bis.
+
+Son facultades y atribuciones de la Coordinación de Evaluación y Seguimiento de Infraestructura Operativa:
+
+I. Proponer al Titular de la Unidad de Infraestructura los programas de mantenimiento, seguridad, conservación y supervisión de la infraestructura hospitalaria
+
+II. Establecer y administrar los mecanismos para optimizar la asignación de recursos que permitan dar cumplimiento a las metas y objetivos de los programas a su cargo, a fin de lograr una operación eficaz de los mismos y su consolidación.
+
+III. Dar seguimiento presupuestal en las cuentas que norman la Unidad de Infraestructura para eficiente (sic) los recursos.
+
+IV. Coordinar las actividades para la elaboración de los informes institucionales que permitan dar cuenta al titular de la Unidad de Infraestructura de los resultados alcanzados, constituyéndose como enlace con las dependencias concentradoras en la materia.
+
+V. Conducir la atención de los asuntos relacionados con los programas a su cargo, así como las auditorías, revisiones y requerimientos efectuados por los distintos órganos de fiscalización relacionados con las mismas de la Unidad de Infraestructura.
+
+VI. Formular propuestas respecto de los proyectos de convocatorias de licitación pública nacional o internacional, para la contratación de las obras públicas y servicios relacionadas con las mismas.
+
+VII. Determinar las acciones de evaluación y monitoreo, así como los tipos de evaluación que se aplicarán a los programas presupuestarios y a las políticas públicas de la Administración Pública Federal
+
+VIII. Promover la vinculación del cronograma de ejecución de las evaluaciones con el calendario de las actividades
+
+IX. Articular los resultados de las acciones de evaluación y monitoreo, como elemento relevante del Presupuesto.
 
 #### SECCIÓN CUARTA. UNIDAD JURÍDICA
 
@@ -1711,9 +1799,141 @@ X. Expedir copias certificadas de los documentos que obren en los archivos a su 
 
 XI. Las demás que le confieran la persona titular de la Unidad Jurídica o su superior jerárquico según corresponda, así como las establecidas por la normatividad aplicable.
 
-#### SECCIÓN QUINTA. COORDINACIÓN DE ACCIÓN COMUNITARIA
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 14 DE FEBRERO DE 2024)</small>
 
-#### SECCIÓN SEXTA. COORDINACIÓN DE PLANEACIÓN ESTRATÉGICA
+#### SECCIÓN QUINTA. UNIDAD DE PLANEACIÓN ESTRATÉGICA Y COORDINACIONES ESTATALES
+
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+###### Artículo 54 Bis.
+
+Son facultades y atribuciones de la Unidad de Planeación Estratégica y Coordinaciones Estatales:
+
+I. Establecer, organizar y determinar las acciones y procesos relacionados con la planeación estratégica, la administración del padrón de beneficiarios, y la vinculación con las Coordinaciones Estatales del IMSS-BIENESTAR.
+
+II. Establecer y vigilar la aplicación de las políticas, estrategias y criterios generados en el ámbito de su competencia.
+
+III. Determinar los criterios que deberán seguir las unidades y coordinaciones del IMSS-BIENESTAR para la elaboración de los informes, reportes y comunicados oficiales sobre los programas y resultados que emita el IMSS-BIENESTAR a diversas instancias del sector público, privado, legislativo, órganos colegiados, organismos internacionales o instituciones homólogas.
+
+IV. Presentar a la persona titular de la Dirección General del IMSS-BIENESTAR, los proyectos del Programa Institucional y del Programa Anual de Trabajo para su validación y posterior aprobación por la Junta de Gobierno.
+
+V. Representar a la persona titular de la Dirección General del IMSS-BIENESTAR ante las instancias y dependencias de la Administración Pública Federal relacionadas con la planeación y evaluación de los planes, programas y proyectos.
+
+VI. Representar a la persona titular de la Dirección General del IMSS-BIENESTAR ante las instancias y dependencias de la Administración Pública Federal con las que se celebren convenios para el desarrollo y gestión de los sistemas de información en salud, así como para el intercambio de información en el ámbito de su competencia.
+
+VII. Determinar los mecanismos para la integración de información para la generación de estadísticas del IMSS-BIENESTAR.
+
+VIII. Establecer los procesos para la implementación de los sistemas de información en salud en las unidades de salud del IMSS-BIENESTAR.
+
+IX. Establecer los procedimientos para el mantenimiento de inventarios de recursos y servicios de salud otorgados a la población atendida en el IMSS-BIENESTAR.
+
+X. Coordinar la operación del Sistema para la administración del padrón de beneficiarios en los módulos de afiliación y unidades de salud del IMSS-BIENESTAR, en apego y cumplimiento con la normatividad.
+
+XI. Autorizar las estrategias del proceso de credencialización para su implementación en las entidades federativas con apoyo de las coordinaciones estatales.
+
+XII. Proponer el proceso de capacitación para el personal en las unidades médicas, coordinaciones estatales y módulos de afiliación, para el registro oportuno en los sistemas de información.
+
+XIII. Colaborar en coordinación con la Unidad de Administración y Finanzas con la atención de requerimientos de los diferentes órganos fiscalizadores a través de las auditorias o revisiones realizadas al IMSS-BIENESTAR.
+
+XIV. Fungir como enlace para facilitar los procesos y gestiones entre las diversas instancias de la Administración Pública Federal y las Coordinaciones Estatales del IMSS-BIENESTAR.
+
+XV. Determinar los mecanismos para llevar a cabo la vinculación en los tres niveles de gobierno para fortalecer la operatividad del IMSS-BIENESTAR.
+
+XVI. Emitir los criterios para la difusión de objetivos, indicadores y metas institucionales que deberán aplicar las coordinaciones estatales.
+
+XVII. Determinar los criterios para la recopilación, integración y análisis de información para la identificación de necesidades en salud en las unidades médicas del IMSS-BIENESTAR, en coordinación con la Unidad de Atención a la Salud.
+
+XVIII. Acordar con la persona titular de la Dirección General el despacho de los asuntos a su cargo.
+
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+###### Artículo 54 Bis 1.
+
+Son facultades y atribuciones de la Coordinación de Planeación Estratégica:
+
+I. Coordinar la elaboración, integración, seguimiento, monitoreo y evaluación de los planes, programas e instrumentos de planeación estratégica del IMSS-BIENESTAR, con apego a la normatividad, políticas y lineamientos aplicables en la materia.
+
+II. Dirigir la asesoría y el apoyo técnico metodológico para la elaboración de planes y programas específicos; de metas e indicadores del desempeño institucional de las Unidades Administrativas del IMSS-BIENESTAR.
+
+III. Coordinar el diseño de los mecanismos para el seguimiento, monitoreo y evaluación del IMSS-BIENESTAR.
+
+IV. Coordinar las acciones para la realización de las evaluaciones externas del IMSS- BIENESTAR.
+
+V. Presentar a la persona titular de la Unidad de Planeación Estratégica y Coordinaciones Estatales, proyectos de mejora que se deriven de los informes, análisis y propuestas de las unidades y coordinaciones del IMSS-BIENESTAR.
+
+VI. Dirigir la integración de informes institucionales del IMSS-BIENESTAR.
+
+VII. Conducir la implementación y operación de los sistemas de información en salud en los establecimientos de IMSS-BIENESTAR, de acuerdo con la normativa en la materia.
+
+VIII. Dirigir la actualización de los catálogos de los establecimientos y servicios de salud para la generación de estadísticas en salud de la población atendida en el IMSS-BIENESTAR.
+
+IX. Acordar con la persona titular de la Unidad de Planeación Estratégica y Coordinaciones Estatales el despacho de los asuntos a su cargo.
+
+X. Dirigir la integración de los anuarios estadísticos institucionales del IMSS-BIENESTAR.
+
+XI. Conducir el diseño de metodologías procedimientos, criterios y lineamientos para generar y mantener actualizada la información sobre la demanda de los servicios de salud del IMSS-BIENESTAR.
+
+XII. Instruir la elaboración de estudios de las necesidades en salud de la población sin seguridad social para determinar la demanda de servicios en las diversas regiones del país.
+
+XIII. Conducir el monitoreo y la evaluación del sistema de indicadores del desempeño institucional, vinculados a los objetivos y metas del IMSS-BIENESTAR y a los derivados del sistema nacional de planeación.
+
+XIV. Coordinar el proceso de revisión y elaboración de las reglas de operación de los programas sociales a cargo del IMSS-BIENESTAR.
+
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+###### Artículo 54 Bis 2.
+
+Son facultades y atribuciones de la Coordinación de Padrón de Beneficiarios:
+
+I. Coordinar la instrumentación y operación del Sistema para la administración del padrón de beneficiarios en los módulos de afiliación y unidades de salud del IMSS-BIENESTAR, en apego y cumplimiento con la normatividad.
+
+II. Coordinar la integración, actualización y administración permanente del padrón de beneficiarios del IMSS-BIENESTAR y dar seguimiento al cumplimiento de las obligaciones legales en la materia.
+
+III. Conducir las acciones de promoción y afiliación en las entidades federativas para la incorporación de la población sin seguridad social del país al padrón de beneficiarios del IMSS-BIENESTAR, a través de los mecanismos y estrategias definidas por la Unidad de Planeación Estratégica y Coordinaciones Estatales.
+
+IV. Establecer las estrategias para el proceso de credencialización de los beneficiarios registrados en el padrón; basado en un análisis de las condiciones geográficas en las entidades federativas y recursos presupuestales disponibles.
+
+V. Coordinar con las entidades federativas los procesos y acciones para la credencialización de la población objetivo registrada en el padrón de beneficiarios del IMSS-BIENESTAR.
+
+VI. Autorizar un programa de capacitación del personal operativo de los módulos de afiliación y de las Coordinaciones estatales en el uso del sistema de información y su integración, que conlleve el registro correcto de la población objetivo al padrón de beneficiarios.
+
+VII. Determinar un programa de capacitación del personal responsable en las unidades médicas y Coordinaciones estatales en el uso de los sistemas de información y plataformas informáticas, que permita el registro oportuno y correcto de la información en salud conforme a la normatividad en la materia, así como el seguimiento correspondiente.
+
+VIII. Representar a la persona titular de la Unidad de Planeación Estratégica y Coordinaciones Estatales del IMSS-BIENESTAR ante las instancias y dependencias de la Administración Pública Federal, en el proceso de entrega de información de padrones de beneficiarios, para dar cumplimiento a las obligaciones legales establecidas en la materia.
+
+IX. Informar a la persona titular de la Unidad de Planeación Estratégica y Coordinaciones Estatales los avances en los procesos de incorporación al padrón de beneficiarios y credencialización en las entidades federativas, para su aprobación y posterior difusión en los medios oficiales del IMSS-BIENESTAR.
+
+X. Colaborar en la generación de la información necesaria para atender de manera oportuna los requerimientos a la Unidad de Planeación Estratégica y Coordinaciones Estatales presentados por los diferentes órganos fiscalizadores, a través de las auditorías o revisiones.
+
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+###### Artículo 54 Bis 3.
+
+Son facultades y atribuciones de la Coordinación de Vinculación Estatal:
+
+I. Conducir la aplicación de las políticas, criterios, normas, metodologías y programas, establecidos por las diversas Unidades y Coordinaciones, en los establecimientos de salud del IMSS-BIENESTAR, a través de sus Coordinaciones Estatales.
+
+II. Establecer los mecanismos de verificación del cumplimiento de acuerdos establecidos por el IMSS-BIENESTAR.
+
+III. Informar sobre el cumplimiento de los acuerdos emitidos por la Junta de Gobierno del IMSS-BIENESTAR y de las instrucciones giradas por la persona titular del mismo.
+
+IV. Planear y ordenar la elaboración de criterios para la recolección de evidencias, la sistematización y el reporte de información de las unidades médicas del IMSS-BIENESTAR, a través de las Coordinaciones Estatales.
+
+V. Coordinar la verificación del registro de información en sistemas institucionales conforme a los procedimientos, criterios de la normativa de información en salud aplicable.
+
+VI. Instruir a las personas titulares de las Coordinaciones Estatales, la recolección y reporte de información para determinar las necesidades de servicios de salud, conforme a los criterios y lineamientos establecidos por la Unidad de Atención a la Salud y la Coordinación de Planeación Estratégica.
+
+VII. Coordinar la difusión de objetivos, indicadores y metas institucionales e instruir a las coordinaciones estatales sobre los tiempos, mecanismos y formatos de reporte de la información en el ámbito de su competencia.
+
+VIII. Determinar canales de comunicación eficientes, oportunos y eficaces entre las unidades administrativas centrales y las coordinaciones estatales del IMSS-BIENESTAR.
+
+IX. Establecer el control de las acciones que realicen las Coordinaciones Estatales, a fin de monitorear el cumplimiento de los objetivos y metas conforme al ámbito de competencia.
+
+X. Conducir las acciones de la vinculación interinstitucional en los tres niveles de gobierno, a fin de fortalecer la operación de los servicios de salud del IMSS-BIENESTAR.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+#### SECCIÓN SEXTA. COORDINACIÓN DE ACCIÓN COMUNITARIA
 
 ###### Artículo 55.
 
@@ -1759,39 +1979,7 @@ XIX. Validar los indicadores de desempeño del componente comunitario.
 
 ###### Artículo 56.
 
-Son facultades y atribuciones de la Coordinación de Planeación Estratégica:
-
-I. Coordinar la elaboración e integración de los instrumentos de planeación estratégica, con el apoyo de las unidades y coordinaciones de IMSS-BIENESTAR en concordancia con los planes y programas nacionales y sectoriales, así como con la normativa aplicable en la materia.
-
-II. Integrar y presentar a la persona titular de la Dirección General de IMSS-BIENESTAR, la propuesta de Programa Institucional y de Programa Anual de Trabajo para su validación y posterior aprobación por la Junta de Gobierno.
-
-III. Dirigir la asesoría y apoyo técnico metodológico para la elaboración de planes, programas específicos, metas e indicadores del desempeño institucional de las Unidades Administrativas de IMSS-BIENESTAR.
-
-IV. Determinar, en coordinación con la Unidad de Atención a la Salud, la oferta y demanda de servicios de salud considerando los factores sociodemográficos, epidemiológicos y de disponibilidad de recursos sectoriales.
-
-V. Representar al IMSS-BIENESTAR ante las dependencias y entidades competentes de la Administración Pública Federal en materia de planeación y evaluación.
-
-VI. Coordinar el diseño de los mecanismos para el seguimiento, monitoreo y evaluación en salud de IMSS-BIENESTAR.
-
-VII. Coordinar las acciones para la realización de las evaluaciones externas de IMSS-BIENESTAR.
-
-VIII. Presentar a la persona titular de la Dirección General, proyectos de mejora que se deriven de los informes, análisis y propuestas de las unidades y coordinaciones de IMSS-BIENESTAR.
-
-IX. Dirigir la integración de informes institucionales y estadísticas institucionales de IMSS-BIENESTAR.
-
-X. Conducir la implementación y operación de los sistemas de información en salud en los establecimientos de IMSS-BIENESTAR, de acuerdo con la normativa en la materia.
-
-XI. Dirigir la actualización de catálogos de los establecimientos y servicios de salud para la generación de estadísticas en salud de la población atendida en el IMSS-BIENESTAR.
-
-XII. Coordinar la integración y actualización permanente del padrón de beneficiarios de IMSS-BIENESTAR y supervisar el cumplimiento de las obligaciones legales en la materia.
-
-XIII. Representar a la persona titular de la Dirección General de IMSS-BIENESTAR ante las instancias y dependencias de la Administración Pública Federal con las que se celebren convenios para el desarrollo y gestión de los sistemas de información en salud, así como para el intercambio de dicha información en el ámbito de su competencia.
-
-XIV. Establecer y vigilar la aplicación de las políticas, lineamientos y criterios generados en el ámbito de su competencia.
-
-XV. Acordar con la persona titular de la Dirección General el despacho de los asuntos a su cargo.
-
-XVI. Establecer los criterios y lineamientos que deberán seguir las unidades y coordinaciones de IMSS-BIENESTAR para la elaboración de los informes, reportes y comunicados oficiales sobre los programas y resultados que deba emitir la persona titular de IMSS-BIENESTAR a diversas instancias del sector público, privado, legislativo, órganos colegiados, organismos internacionales o instituciones homólogas.
+(DEROGADO, D.O.F. 14 DE FEBRERO DE 2024)
 
 #### SECCIÓN SÉPTIMA. COORDINACIÓN DE TRANSPARENCIA Y VINCULACIÓN
 
@@ -1879,11 +2067,11 @@ Las comisiones y los comités a que se refiere el presente Estatuto tendrán las
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 14 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 61.
 
-Las Coordinaciones Estatales son la representación de IMSS-BIENESTAR en las entidades federativas, prevista en el artículo 3 de este Estatuto, estarán jerárquicamente subordinadas a la Dirección General de IMSS-BIENESTAR y se coordinarán con las unidades y coordinaciones de conformidad con el ámbito de competencia y sus atribuciones.
+Las Coordinaciones Estatales son la representación de IMSS-BIENESTAR en las entidades federativas, prevista en el artículo 3 de este Estatuto, estarán jerárquicamente subordinadas a la Unidad de Planeación Estratégica y Coordinaciones Estatales y se vincularán en lo que corresponda con las unidades y coordinaciones.
 
 > <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
 
@@ -1891,7 +2079,9 @@ Las Coordinaciones Estatales son la representación de IMSS-BIENESTAR en las ent
 
 Las Coordinaciones Estatales serán las responsables de la operación de los servicios de IMSS-BIENESTAR en las entidades federativas que les correspondan en los aspectos técnicos, médicos y administrativos en los términos que establezcan las disposiciones normativas y administrativas que expidan las unidades y coordinaciones, así como a las disposiciones jurídicas aplicables de conformidad a sus atribuciones.
 
-Las unidades y coordinaciones tendrán en todo momento la facultad de supervisar el desempeño de las funciones del personal de las Coordinaciones Estatales y del cumplimiento de los planes y programas que tengan a su cargo.
+> <small>(REFORMADO, D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+Las unidades y coordinaciones, en el ámbito de su respectiva competencia, tendrán en todo momento la facultad de supervisar el desempeño de las funciones del personal de las Coordinaciones Estatales y del cumplimiento de los planes y programas que tengan a su cargo.
 
 > <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
 
@@ -1899,11 +2089,11 @@ Las unidades y coordinaciones tendrán en todo momento la facultad de supervisar
 
 La dirección y administración de la Coordinación Estatal, corresponde a su titular.
 
-> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 14 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 64.
 
-Las Coordinaciones Estatales deberán alinearse a las disposiciones de la Dirección General y de sus unidades y coordinaciones, así como con la Unidad de Administración y Finanzas quien le proporcionará el presupuesto y recursos necesarios para que éstas cumplan sus atribuciones conforme a lo establecido en la normativa aplicable.
+Las Coordinaciones Estatales deberán alinearse a las disposiciones de la Dirección General, la Unidad de Planeación Estratégica y Coordinaciones Estatales, al resto de las unidades y coordinaciones, así como con la Unidad de Administración y Finanzas quien les proporcionará el presupuesto y recursos necesarios para que éstas cumplan sus atribuciones conforme a lo establecido en la normativa aplicable.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
 
@@ -2289,7 +2479,9 @@ XII. Aplicar e informar los resultados de la metodología de supervisión-evalua
 
 Son facultades y atribuciones del Departamento de Planeación Estratégica:
 
-I. Coordinar la elaboración e integración del Programa Anual de Trabajo de la representación estatal, en conjunto con las unidades y coordinaciones y con base en los criterios establecidos por la Coordinación de Planeación Estratégica.
+> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 2024)</small>
+
+I. Coordinar la elaboración e integración del Programa Anual de Trabajo de la representación estatal, en conjunto con las unidades y coordinaciones y con base en los criterios establecidos por la Unidad de Planeación Estratégica y Coordinaciones Estatales.
 
 II. Proporcionar asistencia técnico metodológica para diseñar parámetros de medición del desempeño de la representación estatal, cuando así lo requieran las unidades y coordinaciones.
 
@@ -2376,3 +2568,11 @@ D.O.F. 28 DE DICIEMBRE DE 2023.
 PRIMERO. La presente modificación entrará en vigor al día siguiente de su aprobación por la Junta de Gobierno.
 
 SEGUNDO. La presente modificación deberá ser publicado (sic) en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR)”.]
+
+PRIMERO. La presente modificación entrará en vigor al día siguiente de su aprobación por la Junta de Gobierno.
+
+SEGUNDO. La presente modificación deberá ser publicada en el Diario Oficial de la Federación.
