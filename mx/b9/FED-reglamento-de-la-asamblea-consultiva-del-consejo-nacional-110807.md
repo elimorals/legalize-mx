@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-asamblea-consultiva-del-consejo-nacional-11080
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-12-22"
-last_updated: "2017-09-04"
+last_updated: "2024-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110807&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-12-21"
 
 ACUERDO POR EL QUE SE DIFUNDE EL REGLAMENTO DE LA JUNTA DE GOBIERNO, EL REGLAMENTO DE LA ASAMBLEA CONSULTIVA Y LA POLÍTICA DE INCLUSIÓN LABORAL DEL PERSONAL CON DISCAPACIDAD DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN, Y SU UBICACIÓN PARA CONSULTA.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE FEBRERO DE 2024.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 22 de diciembre de 2015.
 
@@ -60,3 +60,21 @@ México, D.F., a 21 de diciembre de 2015.- La Presidenta del Consejo Nacional pa
 D.O.F. 4 DE SEPTIEMBRE DE 2017.
 
 > <small>[N. DE E. PARA CONSULTAR EL TEXTO DEL “ACUERDO POR EL QUE SE DA A CONOCER LA MODIFICACIÓN DE LOS ARTÍCULOS 3, 7, 11, 12, 19 Y 24, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 11 BIS DEL REGLAMENTO DE LA ASAMBLEA CONSULTIVA DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN, PUBLICADO EL VEINTIDÓS DE DICIEMBRE DE DOS MIL QUINCE” Y SU REFORMA PUBLICADA EN EL D.O.F. DE 4 DE SEPTIEMBRE DE 2017, SE SUGIERE VISUALIZAR EL ARCHIVO PDF EN LA CRONOLOGIA DE ESTE ORDENAMIENTO.]</small>
+
+D.O.F. 15 DE FEBRERO DE 2024.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL "AVISO MEDIANTE EL CUAL SE INFORMA LA ACTUALIZACIÓN DE DIVERSA NORMATIVIDAD INTERNA DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN (CONAPRED)", QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+AVISO MEDIANTE EL CUAL SE INFORMA LA ACTUALIZACIÓN DE DIVERSA NORMATIVIDAD INTERNA DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN (CONAPRED)
+
+Se da a conocer la actualización de diversos lineamientos, criterios, reglamentos, disposiciones generales y manuales de esta Entidad, mismos que podrán ser consultados a través de las siguientes ligas electrónicas:
+
+https://www.conapred.org.mx/que-es-conapred/marco-normativo/
+
+www.dof.gob.mx/2024/CONAPRED/Normatividad_CONAPRED.pdf
+
+> <small>[N. DE E. LOS HIPERVÍNCULOS NO SE ENCUENTRAN DISPONIBLES PARA SU CONSULTA, D.O.F. 15 DE FEBRERO DE 2024.]</small>
+
+Para efectos de su difusión, se ordena su publicación en el Diario Oficial de la Federación, con fundamento en lo dispuesto en el artículo 4° de la Ley Federal del Procedimiento Administrativo y artículo 1° de la Ley General de Mejora Regulatoria.
+
+Se informa a las autoridades y sociedad en general que dicha normativa ha sido registrada ante el Sistema de Administración de Normas Internas de la Administración Pública Federal de la Secretaría de la Función Pública.
