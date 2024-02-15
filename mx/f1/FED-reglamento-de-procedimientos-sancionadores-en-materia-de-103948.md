@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-procedimientos-sancionadores-en-materia-de-103948
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-12-22"
-last_updated: "2023-11-28"
+last_updated: "2024-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103948&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2014-11-19"
 ---
 # REGLAMENTO DE PROCEDIMIENTOS SANCIONADORES EN MATERIA DE FISCALIZACION
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO INE/CG614/2017, PUBLICADO EN EL D.O.F. DE 7 DE FEBRERO DE 2018, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO; POR LO QUE ES DE IMPORTANCIA TOMAR EN CONSIDERACIÓN QUE: "CON LA FINALIDAD DE DAR CERTEZA A LOS SUJETOS OBLIGADOS, PUBLÍQUESE EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL REGLAMENTO DE PROCEDIMIENTOS SANCIONADORES EN MATERIA DE FISCALIZACIÓN APROBADO MEDIANTE ACUERDO INE/CG264/2014, CON LAS MODIFICACIONES APROBADAS A TRAVÉS DE LOS ACUERDOS INE/CG1048/2015 E INE/CG319/2016, ADICIONANDO LAS MODIFICACIONES APROBADAS EN EL PRESENTE ACUERDO, EL CUAL SE ANEXA AL PRESENTE Y FORMA PARTE INTEGRAL DEL MISMO". ]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO INE/CG597/2023 PUBLICADO EN EL D.O.F. DE 28 DE NOVIEMBRE DE 2023 SE ACTUALIZAN LAS MODIFICACIONES AL PRESENTE ORDENAMIENTO DE ACUERDO AL ANEXO PUBLICADO EN EL D.O.F. 15 DE FEBRERO DE 2024".]</small>
 
 REGLAMENTO DE PROCEDIMIENTOS SANCIONADORES EN MATERIA DE FISCALIZACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE FEBRERO DE 2024.
 
 Reglamento publicado en la Quinta Sección del Diario Oficial de la Federación, el lunes 22 de diciembre de 2014.
 
@@ -889,7 +889,9 @@ Presentación
 
 4. En caso de que se deleguen las facultades de fiscalización, las quejas relacionadas con financiamiento proveniente de las entidades federativas, deberán presentarse ante el Organismo Público Local correspondiente.
 
-6 (SIC). El incumplimiento a lo previsto en este artículo se hará del conocimiento de las autoridades competentes para que en su caso se inicien los procedimientos conducentes.
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 2024)</small>
+
+5. El incumplimiento a lo previsto en este artículo se hará del conocimiento de las autoridades competentes para que en su caso se inicien los procedimientos conducentes.
 
 > <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
@@ -959,9 +961,13 @@ IV. La queja sea presentada después de los tres años siguientes a la fecha en 
 
 V. La queja se refiera a hechos imputados a las personas obligadas que hayan sido materia de alguna Resolución aprobada en otro procedimiento en materia de fiscalización resuelto por el Consejo y que haya causado estado.
 
-VI. La UTF resulte incompetente para conocer los hechos denunciados. En estos casos, sin mayor trámite y a la brevedad se determinará de plano la incompetencia, y el expediente se remitirá a la autoridad u órgano que resulte competente para conocer del asunto.
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 2024)</small>
 
-VII. El denunciado sea un partido o agrupación política que haya perdido su registro en fecha anterior a la presentación de la queja.
+VI. La UTF resulté incompetente para conocer los hechos denunciados. En estos casos, sin mayor trámite y a la brevedad se determinará de plano la incompetencia, y el expediente se remitirá a la autoridad u órgano que resulte competente para conocer del asunto.
+
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 2024)</small>
+
+VII. El denunciado sea una persona aspirante, candidatura independiente, partido o agrupación política que haya perdido su registro en fecha anterior a la presentación de la queja.
 
 VIII. En las quejas relacionadas con un Proceso Electoral, el quejoso aporte como pruebas, únicamente los datos obtenidos por las autoridades electorales como parte del monitoreo de espectaculares y medios impresos, así como en el programa de pautas para medios de comunicación, será determinado, de forma expresa, en el Dictamen y Resolución que recaiga al procedimiento de revisión respectivo.
 
@@ -1283,7 +1289,9 @@ III. Que la Resolución mediante la cual se sancionó al infractor, con motivo d
 
 ###### Artículo 44.
 
-1. La Unidad Técnica, por conducto de la Comisión de Fiscalización, en cada sesión ordinaria, deberá informar al Consejo General del estado jurídico que guarden los procedimientos sancionadores que se encuentren en trámite, especificando cuando menos los datos consistentes en número de expediente, fecha de inicio del procedimiento, nombre del denunciante, nombre del denunciado, síntesis de los hechos denunciados y fecha de última actuación; así como lo relativo a los procedimientos resueltos a la fecha del informe y las determinaciones de los órganos jurisdiccionales que se encuentren pendientes de cumplimiento.
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 2024)</small>
+
+(SIC) La Unidad Técnica, por conducto de la Comisión de Fiscalización, en cada sesión ordinaria, deberá informar al Consejo General del estado jurídico que guarden los procedimientos sancionadores que se encuentren en trámite, especificando cuando menos los datos consistentes en número de expediente, fecha de inicio del procedimiento, nombre del denunciante, nombre del denunciado, síntesis de los hechos denunciados y fecha de última actuación; así como lo relativo a los procedimientos resueltos a la fecha del informe y las determinaciones de los órganos jurisdiccionales que se encuentren pendientes de cumplimiento.
 
 2. En el informe referido en el párrafo que antecede deberán detallarse los escritos de queja que hayan sido desechados.
 
@@ -1347,7 +1355,7 @@ QUINTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
 
 D.O.F. 10 DE NOVIEMBRE DE 2023.
 
-## [N. DE E. TRANSITORIO DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE MODIFICA EL REGLAMENTO DE PROCEDIMIENTOS SANCIONADORES EN MATERIA DE FISCALIZACIÓN, APROBADO EL DIECINUEVE DE NOVIEMBRE DE DOS MIL CATORCE, EN SESIÓN EXTRAORDINARIA DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL MEDIANTE EL ACUERDO INE/CG264/2014, MODIFICADO A SU VEZ A TRAVÉS DE LOS ACUERDOS INE/CG1048/2015, INE/CG319/2016 E INE/CG614/2017”.]
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE MODIFICA EL REGLAMENTO DE PROCEDIMIENTOS SANCIONADORES EN MATERIA DE FISCALIZACIÓN, APROBADO EL DIECINUEVE DE NOVIEMBRE DE DOS MIL CATORCE, EN SESIÓN EXTRAORDINARIA DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL MEDIANTE EL ACUERDO INE/CG264/2014, MODIFICADO A SU VEZ A TRAVÉS DE LOS ACUERDOS INE/CG1048/2015, INE/CG319/2016 E INE/CG614/2017”.]
 
 Primero. En tanto se incorporen las funcionalidades en los sistemas o aplicativos que proporciona el Instituto para el cumplimiento de las obligaciones en materia de fiscalización establecidas en el presente Reglamento, referentes al Sistema de Procedimientos Sancionadores en materia de Fiscalización, continuarán aplicándose los procedimientos y mecanismos establecidos en el Acuerdo que por esta vía se modifica.
 
@@ -2386,3 +2394,13 @@ TERCERO. Infórmese por conducto de la Secretaría Ejecutiva de este Instituto a
 CUARTO. Notifíquese electrónicamente a través del Sistema Integral de Fiscalización a los partidos políticos nacionales y locales.
 
 QUINTO. Se ordena a la Unidad Técnica de Vinculación, notifique el presente Acuerdo a los Organismos Públicos Locales.
+
+D.O.F. 15 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE PROCEDIMIENTOS SANCIONADORES EN MATERIA DE FISCALIZACIÓN".]
+
+Primero. En tanto se incorporen las funcionalidades en los sistemas o aplicativos que proporciona el Instituto para el cumplimiento de las obligaciones en materia de fiscalización establecidas en el presente Reglamento, referentes al Sistema de Procedimientos Sancionadores en materia de Fiscalización, continuarán aplicándose los procedimientos y mecanismos establecidos en el Acuerdo que por esta vía se modifica.
+
+Segundo. Durante el desarrollo del Sistema de Procedimientos Sancionadores en materia de Fiscalización, se organizarán mesas de trabajo con los usuarios de dicho sistema, así como con los integrantes del Consejo General del Instituto, con la finalidad de analizar los alcances de las funcionalidades del sistema en comento.
+
+Tercero. La fecha de liberación del Sistema de Procedimientos Sancionadores en materia de Fiscalización se dará a conocer a través de la página de internet del Instituto Nacional Electoral y se comunicará a los partidos políticos nacionales, con acreditación local y partidos políticos locales a través del módulo de notificaciones electrónicas del Sistema Integral de Fiscalización.
