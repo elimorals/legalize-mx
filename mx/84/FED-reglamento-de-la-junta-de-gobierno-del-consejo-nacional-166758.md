@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-junta-de-gobierno-del-consejo-nacional-166758"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-12-22"
-last_updated: "2023-06-22"
+last_updated: "2024-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166758&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2015-12-21"
 
 REGLAMENTO DE LA JUNTA DE GOBIERNO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE FEBRERO DE 2024.
 
 Reglamento publicado en la Primera sección del Número 18 del Diario Oficial de la Federación, el martes 22 de diciembre de 2015.
 
@@ -330,3 +330,21 @@ D.O.F. 22 DE JUNIO DE 2023.
 ###### ARTÍCULO PRIMERO.
 
 El presente Acuerdo, entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE FEBRERO DE 2024.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL AVISO MEDIANTE EL CUAL SE INFORMA LA ACTUALIZACIÓN DE DIVERSA NORMATIVIDAD INTERNA DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN (CONAPRED) QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Se da a conocer la actualización de diversos lineamientos, criterios, reglamentos, disposiciones generales y manuales de esta Entidad, mismos que podrán ser consultados a través de las siguientes ligas electrónicas:
+
+https://www.conapred.org.mx/que-es-conapred/marco-normativo/
+
+www.dof.gob.mx/2024/CONAPRED/Normatividad_CONAPRED.pdf
+
+> <small>[N. DE E. LOS HIPERVÍNCULOS NO SE ENCUENTRAN DISPONIBLES PARA SU CONSULTA, D.O.F. 15 DE FEBRERO DE 2024.]</small>
+
+Para efectos de su difusión, se ordena su publicación en el Diario Oficial de la Federación, con fundamento en lo dispuesto en el artículo 4° de la Ley Federal del Procedimiento Administrativo y artículo 1° de la Ley General de Mejora Regulatoria.
+
+Se informa a las autoridades y sociedad en general que dicha normativa ha sido registrada ante el Sistema de Administración de Normas Internas de la Administración Pública Federal de la Secretaría de la Función Pública.
+
+Ciudad de México a, 31 de enero de 2024.- Presidenta del Consejo Nacional para Prevenir la Discriminación, Claudia Olivia Morales Reza.- Rúbrica.
