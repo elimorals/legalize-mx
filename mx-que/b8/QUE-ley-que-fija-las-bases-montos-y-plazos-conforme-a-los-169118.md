@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-fija-las-bases-montos-y-plazos-conforme-a-los-169118"
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-27"
-last_updated: "2023-12-27"
+last_updated: "2024-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=169118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # LEY QUE FIJA LAS BASES, MONTOS Y PLAZOS CONFORME A LOS CUALES SE DISTRIBUIRAN LAS PARTICIPACIONES FEDERALES CORRESPONDIENTES A LOS MUNICIPIOS DEL ESTADO DE QUERETARO, PARA EL EJERCICIO FISCAL 2024
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE FEBRERO DE 2024 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY QUE FIJA LAS BASES, MONTOS Y PLAZOS CONFORME A LOS CUALES SE DISTRIBUIRÁN LAS PARTICIPACIONES FEDERALES CORRESPONDIENTES A LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, PARA EL EJERCICIO FISCAL 2024
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE FEBRERO DE 2024.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 27 de diciembre de 2023
 
@@ -173,7 +173,9 @@ Corregidora 2.1363
 
 El Marqués 1.3080
 
-Ezequiel Montes 8.5298
+> <small>(F. DE E., P.O. 16 DE FEBRERO DE 2024)</small>
+
+Ezequiel Montes 8.5297
 
 Huimilpan 8.1720
 
@@ -189,7 +191,9 @@ Pinal de Amoles 6.1329
 
 Querétaro 0.5145
 
-San Joaquín 10.85891
+> <small>(F. DE E., P.O. 16 DE FEBRERO DE 2024)</small>
+
+San Joaquín 10.8588
 
 San Juan del Río 1.9473
 
