@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-a-los-animales-domesticos-del-estado-de-21669
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-08"
-last_updated: "2023-09-08"
+last_updated: "2024-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 8 de diciembre de 1997.
 
@@ -287,61 +287,69 @@ La exhibición y venta de animales será realizada en locales e instalaciones ad
 
 Queda prohibida la venta de animales vivos a personas menores de edad, si no son acompañadas por quien ejerza la patria potestad, que se responsabilicen de la adecuada subsistencia y buen trato para el animal.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2024)</small>
+
 ###### ARTICULO 32.
 
-Los vehículos de cualquier clase que sean movidos por animales, no podrán ser cargados con un peso excesivo o desproporcionado; tampoco por períodos de tiempo que rebasen la resistencia del animal y le causen con ello sufrimiento, enfermedad o muerte.
+Los animales no podrán ser utilizados para la propulsión o arrastre de vehículos.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2024)</small>
 
 ###### ARTICULO 33.
 
-Los animales de carga no podrán ser cargados en ningún caso con un peso superior a la tercera parte del suyo, ni agregar a ese peso el de una persona.
+Los animales que sean utilizados para monta o labranza no podrán ser galopados, fustigados, o espoleados con exceso, y si caen deberán ser descargados y no golpeados para que se levanten, tampoco podrán ser cargados con un peso excesivo o desproporcionado; ni por períodos de tiempo que rebasen la resistencia del animal y le causen con ello sufrimiento, enfermedad o muerte.
+
+Las personas propietarias, poseedoras o encargadas de animales para la monta o labranza deberán además cumplir con las siguientes obligaciones:
+
+I. Vigilar que no se utilicen para tales actividades animales mayores a 15 años de edad, considerando en dicho cómputo su edad fisiológica, siempre y cuando gocen de salud para el desempeño de dichas actividades, empezando estas no antes de los 3 años;
+
+II. Proporcionar al animal los tratamientos veterinarios necesarios para que mantenga una condición saludable;
+
+III. Tratándose de animal es equinos, proporcionar atención y paseo necesario para ejercitarse según su función zootécnica;
+
+IV. Brindar alimentación y agua suficientes de acuerdo a sus necesidades, lo cual no podrá ser menor a tres veces al día; así como descanso después de cada jornada de los animales, la cual no se reiniciará antes de transcurridas por lo menos 14 horas de descanso;
+
+V. Evitar el empleo de animales en condiciones fisiológicas no aptas, como los desnutridos, enfermos, con lesiones en la columna vertebral o extremidades, contusiones, heridas o laceraciones;
+
+VI. Evitar el uso de crías de menores a tres años de edad o de hembras en el periodo próximo al parto, entendiendo por este el último tercio de la gestación;
+
+VII. Vigilar que los animales no transporten materiales que puedan causarle lesiones; y,
+
+VIII. En caso de animales que se utilicen en zonas conurbadas o recreativas con calles empedradas o asfaltadas, deberán herrar con el tipo de herraduras y accesorios adecuados, así como el mantenimiento de dicho herraje con la frecuencia que en cada caso sea requerida para garantizar su salud y bienestar.
 
 ###### ARTICULO 34.
 
 Si la carga consiste en hatos de madera o varillas de metal, cajas u otra clase de bultos de naturaleza análoga, esa carga se distribuirá proporcionalmente sobre el cuerpo del animal que le conduzca, y cuidando que no sobresalgan puntas de dichos materiales que pudieran lesionarlo.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2024)</small>
+
 ###### ARTICULO 35.
 
-Cualquier animal que sea usado para la carga o recreo, deberá contar con un certificado de salud emitido por la autoridad municipal correspondiente.
+Cualquier animal deberá contar con un certificado de salud emitido por la autoridad municipal correspondiente.
 
-Los animales desnutridos, enfermos, heridos o con lesiones de las llamadas mataduras, por ningún motivo serán utilizados para el tiro o la carga. Queda igualmente prohibido cabalgar sobre animales que se encuentren en esas condiciones.
+Los animales desnutridos, enfermos, heridos o con lesiones de las llamadas mataduras, por ningún motivo serán utilizados para monta o labranza. Queda igualmente prohibido cabalgar sobre animales que se encuentren en esas condiciones.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2024)</small>
 
 ###### ARTICULO 36.
 
-A los animales destinados al tiro o a la carga deberá proporcionárseles alimentación y agua, de acuerdo a las condiciones de trabajo a que sean sometidos.
-
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2018)</small>
+Los abrevaderos y lugares donde se alojen los animales, deberán estar a cubierto del sol y la lluvia, así como distribuidos en el campo en forma conveniente, observando las disposiciones de 1as autoridad es sanitarias.
 
 ###### ARTICULO 37.
 
-Los animales a que se refieren los artículos 32, 33, 34, 35 y 36, sólo podrán ser atados durante la prestación de su trabajo y puestos en descanso en lugares a cubierto del sol y la lluvia.
-
-El propietario, poseedor o encargado de animales para la monta, carga, tiro y labranza deberá además cumplir con las siguientes obligaciones:
-
-I. Los animales de carga, tiro y monta, no tendrán una vida laboral mayor a 15 años, considerando en dicho cómputo su edad fisiológica, siempre y cuando gocen de salud para el desempeño de dichas actividades, empezando estas no antes de los 3 años.
-
-II. Deberán proporcionar al animal los tratamientos veterinarios necesarios para que mantenga una condición saludable.
-
-III. Proporcionar al equino la atención y el paseo necesario para ejercitarse según su función zootécnica;
-
-IV. Los animales utilizados para vehículos de tracción animal, deberán recibir suficiente alimentos y agua por lo menos tres veces al día así mismo, deberán recibir descanso después de su jornada de trabajo, la cual no se reiniciara antes de transcurridas por lo menos 14 horas de descanso.
-
-V. Los animales en condiciones fisiológicas no aptas, como los desnutridos, enfermos, con lesiones en la columna vertebral o extremidades, contusiones, heridas o laceraciones, no podrán ser utilizados para carga, tiro o monta;
-
-VI. Queda prohibido para la carga, tiro o monta, el uso de crías de menores a tres años de edad o de hembras en el periodo próximo al parto, entendiendo por este el último tercio de la gestación.
-
-VII. Los animales utilizados para carga, tiro o monta que se utilicen en las zonas conurbadas o recreativas con calles empedradas o asfaltadas deberán ser necesariamente herrados con el tipo de herraduras y accesorios adecuados que no implique que el animal se resbale al trasladarse o se le dificulte el pose y movimiento de sus pezuñas para su traslado y tiro del carro, carretón o carreta. Será obligatorio también al mantenimiento de dicho herraje con la frecuencia que en cada caso sea requerida para garantizar su salud y bienestar, así como el uso de vendas para quinos de trabajo y de descanso.
+(DEROGADO, P.O. 16 DE FEBRERO DE 2024)
 
 ###### ARTICULO 38.
 
-Ningún animal destinado al tiro o carga podrá ser golpeado, fustigado o espoleado con exceso, y si cae deberá ser descargado y no golpeado para que se levante.
+(DEROGADO, P.O. 16 DE FEBRERO DE 2024)
 
 ###### ARTICULO 39.
 
-Las disposiciones relativas a los animales utilizados para tiro y carga se aplicarán en lo conducente a los animales destinados para cabalgar.
+(DEROGADO, P.O. 16 DE FEBRERO DE 2024)
 
 ###### ARTICULO 40.
 
-Los abrevaderos y lugares donde se alojen los animales, deberán estar a cubierto del sol y la lluvia, así como distribuidos en el campo en forma conveniente, observando las disposiciones de las autoridades sanitarias.
+(DEROGADO, P.O. 16 DE FEBRERO DE 2024)
 
 ### CAPITULO VIII. DEL SACRIFICIO DE ANIMALES
 
@@ -660,3 +668,9 @@ P.O. 8 DE SEPTIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 269 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 13 DE LA LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 16 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N.º 385 MEDIANTE EL CUAL, SE APRUEBA LAS (SIC) REFORMA A LOS ARTÍCULOS 2, 147, 250, 257 Y SE ADICIONA EL ARTÍCULO 84 BIS; TODOS DE LA LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA; ASÍ MISMO SE REFORMAN LOS ARTÍCULOS 32, 33, 35, 36 Y SE DEROGAN LOS ARTÍCULOS 37, 38, 39 Y 40; TODOS DE LA LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas entraran en vigor al día siguiente de su publicación (sic) Periódico Oficial del Estado de Baja California.
