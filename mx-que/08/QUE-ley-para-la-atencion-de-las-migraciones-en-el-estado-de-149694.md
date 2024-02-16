@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-la-atencion-de-las-migraciones-en-el-estado-de-149694"
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-02"
-last_updated: "2021-06-02"
+last_updated: "2024-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA LA ATENCIÓN DE LAS MIGRACIONES EN EL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2024.
 
 Ley publicada en el No. 45 del Periódico Oficial del Estado de Querétaro, el miércoles 2 de junio de 2021.
 
@@ -57,45 +57,61 @@ III. Establecer las bases para promover la organización y articulación de las 
 
 IV. Delinear estrategias y mecanismos para la integración de los queretanos migrantes que radican en otro país, con el fin de fortalecer sus lazos familiares y fraternales con los queretanos y los nacionales migrantes que radican en el Estado de Querétaro;
 
-V. Promover la organización y articulación de las comunidades de personas extranjeras radicadas en el Estado de Querétaro y facilitar su asimilación a la cultura local e impulsar la diversidad, integración y expresión de las distintas culturas;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2024)</small>
 
-VI. Delinear los mecanismos legales para prever, prevenir y atender la problemática asociada a las personas migrantes que transitan por el territorio del Estado de Querétaro, así como el impacto social, cultural, económico y político que éstas generan;
+V. Promover la integración y organización de las comunidades y personas migrantes extranjeras que residen en el Estado de Querétaro y facilitar su inclusión social, cultural y económica e impulsar el desarrollo de comunidades locales de acogida interculturales;
 
-VII. Coadyuvar con las autoridades migratorias y dependencias federales en la protección y promoción de los derechos humanos de las personas migrantes que se encuentren en el territorio del Estado de Querétaro, y la observancia de los ordenamientos aplicables en la materia; y
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2024)</small>
 
-VIII. Las demás que establezcan las disposiciones jurídicas aplicables.
+VI. Delinear los mecanismos legales y políticas públicas para garantizar el respeto, protección y garantía de los derechos humanos de las personas migrantes y sujetas de protección internacional que transitan y/o residen en el territorio del Estado de Querétaro;
+
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2024)</small>
+
+VII. Coordinar en el ámbito de su competencia, la atención interinstitucional a nivel federal, estatal y municipal entre los distintos órdenes de gobierno, autoridades y dependencias para garantizar los derechos humanos de todas las personas migrantes y sujetas de protección internacional, que se encuentren de forma temporal o permanente en el territorio del Estado de Querétaro, y la observancia de los ordenamientos aplicables en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE FEBRERO DE 2024)</small>
+
+VIII. Participar, en el ámbito de su competencia, en la promoción y sensibilización de la población local sobre la inclusión y el respeto de la dignidad de todas las personas migrantes y sujetas de protección internacional, valorando sus aportaciones sociales, culturales, políticas y económicas;
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2024)</small>
+
+IX. Promover, en el ámbito de su competencia, la atención prioritaria de grupos en condición de movilidad con mayores situaciones de vulnerabilidad, garantizando el ejercicio de todos sus derechos sin importar su origen o condición social; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE FEBRERO DE 2024)</small>
+
+X. Las demás que establezcan las disposiciones jurídicas aplicables.
 
 ###### Artículo 2.
 
 Para los efectos de la Ley se entenderá por:
 
-I. Atención de las migraciones: a la suma de esfuerzos, programas y acciones de los sectores público, social y privado tendentes a gestionar, de manera eficiente y con respeto a los derechos humanos, los efectos que la migración genera en el Estado, proveyendo lo conducente para que se reconozca a las diferentes dimensiones de la migración como agente de desarrollo y enriquecimiento social y cultural, lo cual incluye no únicamente la gestión de los flujos migratorios, ya sea con fines de residencia en el Estado de Querétaro y/o de mero tránsito, sino la atención de sus causas y efectos, y la promoción de la libre circulación, el trabajo decente, la Integración cultural y las opciones legales para la adopción de la ciudadanía plena;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2024)</small>
+
+I. Atención de las migraciones: a la suma coordinada de esfuerzos, programas y acciones de los sectores público, social y privado tendientes a brindar atención, de manera eficiente y con respeto a los derechos humanos de las personas migrantes y sujetas de protección internacional que se encuentren en el Estado, proveyendo lo conducente para que se reconozcan las diferentes dimensiones de la migración e integración de manera integral, así como la promoción de la libre circulación, el trabajo digno, la inclusión social, económica, cultural, política y las opciones legales para la adopción de la ciudadanía plena;
 
 II. Consejo Asesor: al Consejo Asesor para las Migraciones en el Estado de Querétaro;
 
 III. Estado: al Estado de Querétaro;
 
-IV. Registro: al Registro Estatal de las Migraciones; y
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2024)</small>
+
+IV. Registro: al Registro Estatal de personas migrantes que se encuentren de manera temporal y/o permanente en el Estado; y
 
 V. Secretaría: a la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 3.
 
-Las dependencias estatales y municipales definirán estrategias y acciones tendentes a la gestión de los efectos de las migraciones en el territorio estatal, mediante:
+Las dependencias estatales y municipales, en el ámbito de sus competencias y atribuciones, están obligadas a garantizar a todas las personas migrantes y sujetas a protección internacional los derechos y libertades otorgados por la Constitución Política de los Estados Unidos Mexicanos, los instrumentos internacionales de los que el Estado Mexicano sea parte.
 
-I. La vinculación con los queretanos migrantes y sus familiares en el Estado;
-
-II. El impulso de acciones para la integración social, económica y cultural de los nacionales migrantes y las personas extranjeras radicadas en el Estado;
-
-III. La gestión de apoyos que requieren las personas migrantes en su tránsito por el territorio estatal, con base en la normatividad aplicable;
-
-IV. La promoción del respeto a los derechos humanos de todas las personas involucradas en la Migración y los efectos que ésta produce; y
-
-V. Las demás que establezcan otras disposiciones jurídicas aplicables.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 4.
 
-Corresponde aplicar la presente Ley a la persona titular del Poder Ejecutivo del Estado de Querétaro, por conducto de la Secretaría de Gobierno y de las dependencias vinculadas con el objeto de la misma, así como al Consejo Asesor para las Migraciones en el Estado de Querétaro en el ámbito de las facultades que la propia Ley le otorga, y a los Municipios en el ámbito de su competencia.
+Corresponde aplicar la presente Ley a la Secretaría de Gobierno, así como al Consejo Asesor para las Migraciones en el Estado de Querétaro, en el ámbito de las facultades que la propia Ley le otorga, y a los Municipios en el ámbito de su competencia.
+
+Todas las dependencias estatales y municipales, así como los Organismos Constitucionales Autónomos coadyuvarán para alcanzar el objeto de la presente Ley.
 
 Las autoridades podrán celebrar convenios de colaboración con las autoridades migratorias y otras dependencias federales.
 
@@ -113,77 +129,125 @@ IV. Las personas migrantes; y
 
 V. Las demás personas físicas o jurídicas que se coloquen en alguno de los supuestos de la Ley.
 
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2024)</small>
+
+###### Artículo 5 Bis.
+
+Los sujetos de la presente Ley tienen el derecho a recibir un trato digno y sin discriminación en el acceso, goce y ejercicio de todos sus derechos, ya sea por su origen étnico, nacionalidad, condición migratoria o cualquier otra circunstancia ligada a su estatus migratorio o al de su familia.
+
+A fin de lograr lo anterior, las autoridades estatales y municipales deben generar acciones y políticas tendientes a prevenir y erradicar todos los actos discriminatorios en contra de todas las personas migrantes, ya sea su residencia temporal o definitiva, o que hayan retornado a sus comunidades de origen en el Estado.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 6.
 
 El Consejo Asesor es el órgano consultivo del Poder Ejecutivo del Estado de Querétaro en materia de migración y sus efectos en el territorio estatal, el cual tiene como objeto auxiliar y asesorar al referido Poder, a la Legislatura del Estado y a las administraciones municipales; y coadyuvar en lo conducente para el cumplimiento del objeto de la presente Ley.
 
+El Consejo Asesor cuenta con atribuciones para proponer políticas públicas, en el ámbito de las facultades que le otorga la presente Ley.
+
+Las actividades que desarrolle el Consejo Asesor deberán guiarse por las siguientes directrices:
+
+I. Reconocer la importancia de la diversidad cultural y el respeto a las diferencias:
+
+II. Privilegiar el diálogo, concertación, mediación y debate público;
+
+III. Transparentar y democratizar los procesos de toma de decisiones;
+
+IV. Promover la consulta pública y participación de las personas migrantes, en condiciones de equidad, inclusión e idoneidad;
+
+V. Reforzar el respeto a la pluralidad, la no discriminación y el combate frontal al racismo y xenofobia; y
+
+VI. Respetar los principios de progresividad, universalidad, interdependencia e indivisibilidad de los derechos humanos, pro-persona y de la transversalización del enfoque de género.
+
+El cargo de consejero será honorífico.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 7.
 
-El Consejo Asesor tendrá las atribuciones siguientes:
+El Consejo Asesor tendrá las facultades siguientes:
 
-I. Impulsar estrategias y mecanismos de articulación con los queretanos migrantes en los países donde radican;
+I. El diseño e impulso de estrategias y mecanismos de articulación y vinculación con las personas queretanas migrantes, independientemente del lugar donde residan;
 
-II. Promover y gestionar los apoyos institucionales para la atención de personas extranjeras y personas migrantes en tránsito que se encuentren en el territorio estatal, de conformidad con la suficiencia presupuestaria y las disposiciones jurídicas aplicables;
+II. Coadyuvar en el diseño y la implementación de políticas públicas dirigidas a la promoción, respeto, protección y garantía de los derechos de las personas migrantes y sujetas de protección internacional, sin discriminación, especialmente aquellas que enfrentan múltiples situaciones de vulnerabilidad;
 
-III. Promover acciones de apoyo a personas migrantes en tránsito, especialmente aquéllas que enfrentan situaciones de vulnerabilidad;
+III. El impulso de mecanismos homologados para la articulación interinstitucional de las dependencias estatales y municipales en la protección y defensa de los derechos de las personas migrantes y sujetas de protección internacional en corresponsabilidad con las dependencias federales;
 
-IV. Coadyuvar con las dependencias estatales y municipales en la protección y defensa de los derechos de los migrantes ante las Autoridades migratorias;
+IV. El diseño e implementación de programas y políticas para combatir la discriminación y xenofobia en contra de las personas migrantes, con enfoque en la inclusión e integración a la sociedad de acogida de todas las personas migrantes y sus diferentes perfiles;
 
-V. Promover acciones tendentes a la difusión de una cultura de respeto a los derechos humanos, con enfoque a los derechos de las personas migrantes en tránsito y de las personas extranjeras radicadas en el Estado;
+V. El diseño e implementación de campañas de concientización sobre los impactos positivos e influencia en la sociedad de acogida de todas las personas migrantes y sujetas de protección internacional;
 
-VI. Hacer difusión de la influencia de los queretanos migrantes y la importancia de las remesas que envían al Estado;
+VI. La integración del Registro Estatal de las Personas Migrantes, que se encuentren de manera temporal y/o permanente en el Estado de Querétaro;
 
-VII. Integrar y administrar el Registro Estatal de las Migraciones en Querétaro;
+VII. Impulsar el fortalecimiento de capacidades de dependencias gubernamentales a nivel estatal y municipal para la atención adecuada de las personas migrantes, solicitantes de la condición de refugiada o refugiado y refugiadas;
 
-VIII. Recibir y gestionar las solicitudes de información inscrita en el Registro, debiendo confirmar la personalidad jurídica de las organizaciones solicitantes, de acuerdo con lo previsto en el Reglamento de la Ley y demás disposiciones jurídicas aplicables; y
+VIII. Propuestas de Ley dirigidas a la inclusión integral en la sociedad de acogida de todas las personas migrantes y sujetas de protección internacional;
 
-IX. Las demás que establezcan las otras disposiciones jurídicas aplicables.
+IX. El diseño de mecanismos de seguimiento y evaluación de las políticas públicas estatales dirigidas a toda la población migrante;
+
+X. Aprobar su ordenamiento interior; y
+
+XI. Las demás que establezcan las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 8.
 
-El Consejo Asesor se integrará con:
+El Consejo Asesor se integrará por:
 
-A) Del Poder Ejecutivo del Estado:
+I. La persona titular de la Secretaría de Gobierno, quien lo presidirá;
 
-1. La persona titular del Poder Ejecutivo del Estado, quien lo presidirá;
+II. Las personas titulares de las dependencias siguientes:
 
-2. Las personas titulares de las dependencias siguientes:
+a) Secretaría de Salud.
 
-a) Secretaría de Gobierno;
+b) Secretaría de Seguridad Ciudadana.
 
-b) Secretaría de Salud;
+c) Secretaría de Desarrollo Social.
 
-c) Secretaría de Seguridad Ciudadana;
+d) Secretaría de Educación.
 
-d) Secretaría de Desarrollo Social;
+e) Secretaría de Trabajo.
 
-En ausencia de quien ejerza la presidencia del Consejo Asesor, la presidirá la Secretaría de Gobierno, quien además coordinará las actividades de las demás dependencias.
+f) Secretaría de Desarrollo Sustentable.
 
-B) Del Poder Legislativo del Estado:
+g) Secretaría de la Juventud.
 
-1. La persona que presida la Mesa Directiva de la Legislatura del Estado; y
+h) Secretaría de Turismo.
 
-2. La persona que presida la Comisión de Atención de las Migraciones, quien fungirá como Secretario Ejecutivo.
+i) Secretaría de Cultura;
 
-C) De los Ayuntamientos:
+III. La persona titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado Querétaro;
 
-1. La persona que presida la comisión edilicia de Atención de las Migraciones dentro de los Ayuntamientos de Estado;
+IV. La persona titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Querétaro, adscrito al Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro;
 
-2. Representantes del sector social, privado y académico:
+V. La persona titular de la Defensoría de los Derechos Humanos de Querétaro;
 
-a) Una persona representante de las organizaciones de la sociedad civil relacionadas con la migración en el Estado que tengan interés en formar parte del Consejo, y
+VI. La persona titular del Instituto Queretano de las Mujeres;
 
-b) Una persona representante de las universidades o instituciones de estudios superiores públicas o privadas establecidas en la entidad, así como de los académicos o investigadores interesados en el fenómeno migratorio, en cualquiera de sus dimensiones.
+VII. Del Poder Legislativo del Estado:
 
-Los miembros propietarios del Consejo Asesor a que se refiere el inciso A) numeral 2, designarán a una persona suplente de nivel jerárquico inmediatamente inferior al suyo.
+a) La Diputada o Diputado que Presida la Comisión de Atención de las Migraciones;
 
-Quienes integran el Consejo Asesor tendrán derecho a voz y voto, y quien lo preside podrá invitar a sus reuniones a las personas titulares de las dependencias, así como a las personas y organizaciones que estime conveniente, quienes podrán intervenir en los debates con voz, pero sin voto.
+b) La Diputada o Diputado que Presida la Comisión de Asuntos Indígenas;
+
+VIII. Los titulares de las Comisiones edilicias de Atención de las Migraciones de los Ayuntamientos del Estado;
+
+IX. Dos representantes de las organizaciones de la sociedad civil relacionadas con la migración en el Estado que tengan interés en formar parte del Consejo; y
+
+X. Dos personas representantes de las universidades o instituciones de estudios superiores públicas o privadas establecidas en la entidad, que tengan interés en formar parte del Consejo.
+
+Los miembros propietarios del Consejo Asesor podrán designar un suplente. Quienes integran el Consejo Asesor tendrán derecho a voz y voto.
+
+El Consejo Asesor, previo acuerdo, podrá invitar a sus reuniones a las personas titulares de dependencias o instancias ajenas al Consejo, así como a las personas y organizaciones sociales o privadas que estimen conveniente, quienes podrán intervenir solo con voz en los debates únicamente para informar o brindar una opinión fundada del tema a resolver en la sesión respectiva, sin voto.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 9.
 
-El Consejo Asesor realizará dos reuniones ordinarias cada año.
+El Consejo Asesor realizará dos reuniones ordinarias cada año, una durante el primer semestre del año y la segunda durante el segundo semestre, y podrá sesionar de manera extraordinaria las ocasiones que así lo amerite.
 
-Quien lo preside o el titular de la Secretaría, podrán convocar a sesiones extraordinarias previo cumplimiento de los requisitos y procedimiento previstos en el Reglamento de la Ley.
+El procedimiento sobre las sesiones, toma de decisiones, transparencia y rendición de cuentas serán las establecidas en el Reglamento de la presente Ley, así como en las reglas operativas derivadas del mencionado reglamento.
 
 ###### Artículo 10.
 
@@ -223,15 +287,33 @@ VIII. Las demás que establezcan las disposiciones jurídicas aplicables.
 
 EL Poder Ejecutivo del Estado de Querétaro, a través de sus dependencias y con la participación que corresponda al Consejo podrá:
 
-I. Proveer al diseño e implementación de mecanismos de vinculación con los queretanos migrantes que favorezcan el intercambio con sus familiares avecindados en el Estado;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2024)</small>
 
-II. Crear y mantener canales de comunicación y articulación con los queretanos migrantes que radican en otras entidades federativas o en otros países;
+I. Realizar programas institucionales para la atención integral de personas migrantes extranjeras y nacionales, sin discriminación, que residen en el territorio estatal;
 
-III. Impulsar una cultura de respeto a los derechos humanos de los migrantes;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2024)</small>
 
-IV. Coadyuvar con las autoridades migratorias en relación con las personas migrantes en tránsito, en términos de la legislación aplicable; y
+II. Elaborar políticas públicas dirigidas a la garantía de los derechos humanos de las personas migrantes, sin discriminación, especialmente a aquellas poblaciones migrantes que enfrentan situaciones de vulnerabilidad;
 
-V. Las demás que establezcan las disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2024)</small>
+
+III. Generar mecanismos para la articulación interinstitucional de las dependencias estatales y municipales en la protección y defensa de los derechos de las personas migrantes en corresponsabilidad con las dependencias federales;
+
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2024)</small>
+
+IV. Crear programas y políticas para combatir la discriminación y xenofobia en contra de las personas migrantes, con enfoque en la inclusión e integración a la sociedad de acogida;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE FEBRERO DE 2024)</small>
+
+V. Llevar a cabo campañas de concientización sobre los impactos e influencia de las personas migrantes en la sociedad de acogida;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE FEBRERO DE 2024)</small>
+
+VI. Establecer un mecanismo de seguimiento y evaluación de las políticas públicas estatales dirigidas a toda la población migrante, sin discriminación; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE FEBRERO DE 2024)</small>
+
+VII. Las demás que establezcan las disposiciones jurídicas aplicables.
 
 ###### Artículo 13.
 
@@ -276,3 +358,15 @@ DIP. RICARDO CABALLERO GONZÁLEZ
 PRIMER SECRETARIO
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA ATENCIÓN DE LAS MIGRACIONES EN EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga (sic) a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”
