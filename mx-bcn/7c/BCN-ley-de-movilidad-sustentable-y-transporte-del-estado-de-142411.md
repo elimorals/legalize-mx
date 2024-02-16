@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-movilidad-sustentable-y-transporte-del-estado-de-142411"
 country: "mx"
 rank: "ley"
 publication_date: "2020-03-27"
-last_updated: "2024-01-26"
+last_updated: "2024-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2024.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 27 de marzo de 2020.
 
@@ -219,7 +219,9 @@ LXXX. Transporte escolar: Servicio de transporte público o privado destinado al
 
 LXXXI. Transporte de personal: Servicio de transporte público o privado destinado principalmente al traslado de trabajadores, dependientes o personas vinculadas a las empresas, industrias o fuentes de trabajo en que laboran, prestan sus servicios o mantienen relación comercial o profesional; con horario, precio, recorrido, origen y destino variables y dinámicos de acuerdo con las necesidades del cliente o usuario, y que opera en los términos del título (sic) concesión otorgado;
 
-LXXXII. Transporte turístico: Servicio de transporte público destinado al transporte de personas a lugares de interés turístico o cultural en general; no está sujeto a horario y tarifa fija. Este servicio se presta en autobús y microbús de distinta capacidad o en su caso en vehículos automotor y de propulsión humana o animal acondicionados especialmente para tal fin;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2024)</small>
+
+LXXXII. Transporte turístico: Servicio de transporte público destinado al transporte de personas a lugares de interés turístico o cultural en general; no está sujeto a horario y tarifa fija. Este servicio se presta en autobús y microbús de distinta capacidad o en su caso en vehículos automotor y de propulsión humana acondicionados especialmente para tal fin;
 
 LXXXIII. Trasbordo: La transferencia de bienes o personas de un vehículo de transporte a otra (sic), dentro de un sistema integrado de transporte o de movilidad, los cuales deberán de compartir servicios conexos según lo disponga el Reglamento de esta Ley;
 
@@ -1003,6 +1005,10 @@ El Instituto y las autoridades competentes realizarán las acciones, medidas de 
 
 Queda prohibido llevar en un vehículo un número mayor de personas al que especifique la tarjeta de circulación respectiva, con excepción del servicio público masivo de acuerdo con sus dimensiones y capacidad del vehículo. En el caso de los vehículos de servicio público de transporte y el especializado serán las autoridades de transporte competentes, las que determinen el número máximo de personas que pueden ser transportadas según el tipo de vehículos y servicio de que se trate conforme lo dispuesto en la presente Ley y su Reglamento.
 
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 84 BIS.- Queda prohibido prestar el servicio de transporte en cualquiera de sus modalidades utilizando como medio de propulsión, tracción o arrastre a animales.
+
 ###### ARTÍCULO 85.
 
 Los motociclistas que circulen por las vías públicas de competencia Estatal o municipal deberán de utilizar en todo momento casco de protección que cumpla con las normas de seguridad vial.
@@ -1371,7 +1377,9 @@ IV. El pago de los daños y perjuicios que ocasionen a terceros, así como al er
 
 El Servicio de Transporte Turístico, es el destinado al traslado de personas a lugares de esparcimiento, excursión o de recreo con interés turístico y esparcimiento en general, mediante renta por tiempo, distancia o viaje. Se concederán (sic) concesión por un término de 6 años y los vehículos podrán tener una antigüedad máxima de 10 años y de 2 años para el alta.
 
-Se presta en vehículos microbús, minibús y autobús de distintas capacidades de pasajeros, también puede ser prestado en vehículos de tracción humana o animal acondicionados especialmente para brindar comodidad y seguridad a los usuarios de este servicio.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2024)</small>
+
+Se presta en vehículos microbús, minibús y autobús de distintas capacidades de pasajeros, también puede ser prestado en vehículos de tracción humana acondicionados especialmente para brindar comodidad y seguridad a los usuarios de este servicio.
 
 ###### ARTÍCULO 148.
 
@@ -2337,15 +2345,25 @@ Podrán imponerse, en materia de transporte y movilidad, y en los términos de e
 
 I. Apercibimiento;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 16 DE FEBRERO DE 2024)</small>
+
 II. Multa:
 
 a) Multa con el equivalente de 2 a 500 veces la Unidad de Medida y Actualización en el caso del servicio de taxi y a conductores de empresas de redes de transporte en los términos específicos que establezca el reglamento de esta ley;
 
 b) Multa con el equivalente de 2 a 6000 veces la Unidad de Medida y Actualización, para el transporte de pasajeros como el escolar, de personal, especializado y seguridad privada, así como el transporte público en su modalidad de transporte masivo, de personal, escolar, y servicios de turismo, así como empresas de redes de transporte, y servicios conexos del transporte a excepción del taxi;
 
-c) Multa con el equivalente de 2 a 6000 veces la Unidad de Medida y Actualización, para el transporte de carga en sus modalidades de carga en general, grúas de arrastre o salvamento, el transporte mercantil, específicamente en sus modalidades de transporte de valores, transporte de mensajería, carga de sustancias toxicas o peligrosas, grúas de arrastre o salvamento y carga especializada; y,
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2024)</small>
 
-d) Multa con el equivalente de 2 a 6000 veces la Unidad de Medida y Actualización, para el transporte de carga privada para el servicio de un negocio o empresa, de valores y mensajería, carga de sustancias toxicas o peligrosas, grúas de arrastre o salvamento y carga especializada, así como las empresas de redes de transporte de carga, paquetería o entrega al menudeo.
+c) Multa con el equivalente de 2 a 6000 veces la Unidad de Medida y Actualización, para el transporte de carga en sus modalidades de carga en general, grúas de arrastre o salvamento, el transporte mercantil, específicamente en sus modalidades de transporte de valores, transporte de mensajería, carga de sustancias toxicas o peligrosas, grúas de arrastre o salvamento y carga especializada;
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2024)</small>
+
+d) Multa con el equivalente de 2 a 6000 veces la Unidad de Medida y Actualización, para el transporte de carga privada para el servicio de un negocio o empresa, de valores y mensajería, carga de sustancias toxicas o peligrosas, grúas de arrastre o salvamento y carga especializada, así como las empresas de redes de transporte de carga, paquetería o entrega al menudeo; y,
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE FEBRERO DE 2024)</small>
+
+e) Multa con el equivalente de 2 a 6000 veces la Unidad de Medida y Actualización, por prestar el servicio de transporte en cualquiera de sus modalidades utilizando como medio de propulsión, tracción o arrastre a animales.
 
 III. Cancelación, suspensión o revocación de concesiones, permisos y autorizaciones; y,
 
@@ -2385,9 +2403,11 @@ Las notificaciones, citatorios, requerimientos, solicitudes de informes o docume
 
 ## TÍTULO VII. VEHICULOS NO MOTORIZADOS
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 257.
 
-Los vehículos no motorizados para la movilidad son las bicicletas, patinetas o “scooters” eléctricos, “segways”, otros dispositivos de tracción eléctrica análogos o de tracción humana o animal que se utilicen como medio para transportar a personas de un sitio determinado de origen a otro determinado o determinable por el usuario o el beneficiario del servicio de transporte.
+Los vehículos no motorizados para la movilidad son las bicicletas, patinetas o "scooters" eléctricos, "segways", otros dispositivos de tracción eléctrica análogos o de tracción humana que se utilicen como medio para transportar a personas de un sitio determinado de origen a otro determinado o determinable por el usuario o el beneficiario del servicio de transporte.
 
 ###### ARTÍCULO 258.
 
@@ -2500,3 +2520,15 @@ P.O. 26 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 373 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 32 FRACCIONES XVII Y ADICIÓN DE LA FRACCIÓN XVIII DE LA LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N.° 385 MEDIANTE EL CUAL, SE APRUEBA LAS REFORMA (SIC) A LOS ARTÍCULOS 2, 147, 250, 257 Y SE ADICIONA EL ARTÍCULO 84 BIS; TODOS DE LA LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA; ASÍ MISMO SE REFORMAN LOS ARTÍCULOS 32, 33, 35, 36 Y SE DEROGAN LOS ARTÍCULOS 37, 38, 39 Y 40; TODOS DE LA LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Instituto de Movilidad Sustentable en coordinación con las dependencias y entidades competentes, emitirá un programa de modernización al servicio de transporte turístico que instrumente la prestación de dicho servicio conforme a las presentes reformas en un plazo no mayor a treinta días siguientes a la entrada en vigor de las mismas.
+
+El programa a que se refiere este artículo establecerá entre otros aspectos, los términos para la incorporación y acompañamiento a concesionarios y permisionarios de transporte publico turístico en la modernización de sus vehículos, así como las condiciones para quienes se incorporen al programa.
+
+TERCERO.- Dentro del plazo de treinta días siguientes a la emisión del programa a que se refiere el Artículo Transitorio Segundo, los concesionarios y permisionarios del servicio de transporte en todas las modalidades que presten el servicio por vehículos de tracción o propulsión animal deberán gestionar la actualización de las concesiones y permisos, y en su caso, promover las acciones necesarias para el cumplimiento de las presentes reformas.
