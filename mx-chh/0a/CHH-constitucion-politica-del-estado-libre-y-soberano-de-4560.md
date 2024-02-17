@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2023-11-18"
+last_updated: "2024-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2024.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -2713,9 +2713,9 @@ DEL MUNICIPIO LIBRE.
 
 El territorio del Estado se divide en sesenta y siete municipios que son:
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2024)</small>
 
-1. Ahumada, 2. Aldama, 3. Allende, 4. Aquiles Serdán. 5. Ascensión, 6. Bachíniva, 7. Balleza, 8. Batopilas de Manuel Gómez Morín, 9. Bocoyna, 10. Buenaventura, 11. Camargo, 12. Carichí, 13. Casas Grandes, 14. Coronado, 15. Coyame del Sotol, 16. Cuauhtémoc, 17. Cusihuiriachi, 18. Chihuahua, 19. Chínipas, 20. Delicias, 21. Dr. Belisario Domínguez, 22. El Tule, 23. Galeana, 24. Gómez Farías, 25. Gran Morelos, 26. Guadalupe, 27. Guadalupe y Calvo, 28. Guachochi, 29. Guazapares, 30. Guerrero, 31. Hidalgo del Parral, 32. Huejotitán, 33. Ignacio Zaragoza, 34. Janos, 35. Jiménez, 36. Juárez, 37. Julimes, 38. La Cruz, 39. López, 40. Madera, 41. Maguarichi, 42. Manuel Benavides, 43. Matachí, 44. Matamoros, 45. Meoqui, 46. Morelos, 47. Moris, 48. Namiquipa, 49. Nonoava, 50. Nuevo Casas Grandes, 51. Ocampo, 52. Ojinaga, 53. Praxedis G. Guerrero, 54. Riva Palacio, 55. Rosales, 56. Rosario, 57. San Francisco de Borja, 58. San Francisco de Conchos, 59. San Francisco del Oro, 60. Santa Bárbara, 61. Santa Isabel, 62. Satevó, 63. Saucillo, 64. Temósachic, 65. Urique, 66. Uruachi, 67. Valle de Zaragoza.
+1. Ahumada, 2. Aldama, 3. Allende, 4. Aquiles Serdán. 5. Ascensión, 6. Bachíniva, 7. Balleza, 8. Batopilas de Manuel Gómez Morín, 9. Bocoyna, 10. Buenaventura, 11. Camargo, 12. Carichí, 13. Casas Grandes, 14. Coronado, 15. Coyame del Sotol, 16. Cuauhtémoc, 17. Cusihuiriachi, 18. Chihuahua, 19. Chínipas, 20. Delicias, 21. Dr. Belisario Domínguez, 22. El Tule, 23. Galeana, 24. Gómez Farías, 25. Gran Morelos, 26. Guadalupe, 27. Guadalupe y Calvo, 28. Guachochi, 29. Guazapares, 30. Guerrero, 31. Hidalgo del Parral, 32. Huejotitán, 33. Ignacio Zaragoza, 34. Janos, 35. Jiménez, 36. Juárez, 37. Julimes, 38. La Cruz, 39. López, 40. Madera, 41. Maguarichi, 42. Manuel Benavides, 43. Matachí, 44. Matamoros, 45. Meoqui, 46. Morelos, 47. Moris, 48. Namiquipa, 49. Nonoava, 50. Nuevo Casas Grandes, 51. Ocampo, 52. Ojinaga, 53. Praxedis G. Guerrero, 54. Riva Palacio, 55. Rosales, 56. San Francisco de Borja, 57. San Francisco de Conchos, 58. San Francisco del Oro, 59. Santa Bárbara, 60. Santa Isabel, 61. Satevó, 62. Saucillo, 63. Temósachic, 64. Urique, 65. Uruachi, 66. Valle de Zaragoza, 67. Valle del Rosario.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
@@ -5566,3 +5566,15 @@ El presente Decreto entrará en vigor el mismo día de su publicación en el Per
 ###### ARTÍCULO TERCERO.
 
 El Poder Ejecutivo del Estado, a más tardar el 31 de diciembre de 2023, deberá expedir las disposiciones reglamentarias o lineamientos que establezcan los procedimientos para la determinación, organización, desarrollo, ejercicio, seguimiento y control del presupuesto participativo del Estado, así como la regionalización correspondiente, conforme a lo previsto en el presente Decreto.
+
+P.O. 17 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVII/RFCYC/0657/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, todas las menciones administrativas, financieras, jurídicas y de cualquier índole que se hagan al Municipio de Rosario, se entenderán referidas al Municipio de Valle del Rosario.
