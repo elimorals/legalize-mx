@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-ixtlahuacan-colima-26793"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2023-07-15"
+last_updated: "2024-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,9 +27,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE IXTLAHUACÁN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE JULIO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2024.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1649,7 +1647,9 @@ Causarán los derechos establecidos en esta sección, las personas físicas o mo
 
 Es base para el pago de estos derechos el tipo de autorización, licencia o permiso que se otorgue, así como el período o número de horas cuando se trate de permisos eventuales o de funcionamiento en horario extraordinario.
 
-Para la apertura de nuevos establecimientos se requerirá tener previamente la licencia o autorización respectiva; tratándose de refrendo se pagarán los derechos correspondientes durante los meses de enero y febrero del ejercicio que se trate.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2024)</small>
+
+Para la apertura de nuevos establecimientos se requerirá tener previamente la licencia o autorización respectiva; tratándose de refrendo se pagarán los derechos correspondientes durante los meses de enero, febrero y marzo del ejercicio que se trate.
 
 ###### ARTICULO 81.
 
@@ -1987,7 +1987,9 @@ f) Por la expedición de permisos para la realización de eventos sociales, por 
 
 6.- Otros no especificados 1.00 a 7.00
 
-Las licencias de funcionamiento de giros distintos a los referidos en el artículo 79 de esta Ley, no causarán el pago de derechos pero deberán obtenerse por los interesados dentro de los treinta días siguientes a la fecha de inicio de operaciones y refrendarse durante los meses de enero y febrero de cada año.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2024)</small>
+
+Las licencias de funcionamiento de giros distintos a los referidos en el artículo 79 de esta Ley, no causarán el pago de derechos, pero deberán obtenerse por los interesados dentro de los treinta días siguientes a la fecha de inicio de operaciones y refrendarse durante los meses de enero, febrero y marzo de cada año.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3228,3 +3230,15 @@ P.O. 24 DE JUNIO DE 2023.
 > <small>(F. DE E., P.O. 15 DE JULIO DE 2023)</small>
 
 PRIMERO.- Se mande al H. Congreso del Estado como iniciativa de Decreto para su aprobación y publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 17 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 403.- POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 14, DE LA LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS; ASÍ COMO, DIVERSAS DISPOSICIONES DE LAS LEYES SIGUIENTES: LEY DE HACIENDA PARA EL MUNICIPIO DE ARMERÍA, LEY DE HACIENDA PARA EL MUNICIPIO DE COLIMA, LEY DE HACIENDA PARA EL MUNICIPIO DE COMALA, LEY DE HACIENDA PARA EL MUNICIPIO DE COQUIMATLÁN, LEY DE HACIENDA PARA EL MUNICIPIO DE CUAUHTÉMOC, LEY DE HACIENDA PARA EL MUNICIPIO DE IXTLAHUACÁN, LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO, LEY DE HACIENDA PARA EL MUNICIPIO DE MINATITLÁN, LEY DE HACIENDA PARA EL MUNICIPIO DE TECOMÁN Y LEY DE HACIENDA PARA EL MUNICIPIO DE VILLA DE ÁLVAREZ”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos procederán a revisar y realizar las adecuaciones normativas a la reglamentación municipal que se relacionen con los preceptos contenidos en este instrumento, lo que deberán hacer en un plazo que no excederá de 60 días naturales, contados a partir de la entrada en vigor del presente Decreto.
