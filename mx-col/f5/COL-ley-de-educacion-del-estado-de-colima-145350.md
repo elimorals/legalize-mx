@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-145350"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-25"
-last_updated: "2023-11-18"
+last_updated: "2024-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145350&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el miércoles 25 de noviembre de 2020.
 
@@ -43,11 +43,11 @@ EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN E
 
 ANTECEDENTES:
 
-[…]
+[...]
 
 CONSIDERANDOS
 
-[…]
+[...]
 
 Por lo antes expuesto, se expide el siguiente
 
@@ -491,6 +491,10 @@ Políticas para la inclusión, permanencia y continuidad en media superior
 
 2. De igual forma, implementarán un programa de capacitación y evaluación para la certificación que otorga la instancia competente, para egresados de bachillerato, profesional técnico bachiller o sus equivalentes, que no hayan ingresado a educación superior, con la finalidad de proporcionar herramientas que les permitan integrarse al ámbito laboral.
 
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2024)</small>
+
+3. La autoridad educativa estatal, otorgará facilidades pedagógicas de acceso, de reingreso y permanencia a madres y padres adolescentes así como a personas adolescentes y jóvenes embarazadas, con el objeto que concluyan la educación media superior.
+
 ###### Artículo 27.
 
 Sistema Estatal de Educación Media Superior
@@ -727,6 +731,16 @@ Características de la educación para personas adultas
 
 1. La educación para personas adultas será considerada una educación a lo largo de la vida, y está destinada a la población de quince años o más que no haya cursado o concluido la educación primaria y secundaria; además de fomentar su inclusión a la educación media superior y superior. Se presta a través de servicios de alfabetización, educación primaria y secundaria, así como de formación para el trabajo, con las particularidades adecuadas a dicha población. Esta educación se apoyará en la participación y la solidaridad social.
 
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2024)</small>
+
+2. Como un medio para su reinserción a la sociedad, las personas privadas de la libertad tendrán derecho a realizar estudios de enseñanza básica y media superior, procurando que esta sea técnica, ajustándola a las condiciones imperantes en el Centro Penitenciario. La educación que se imparta en los centros penitenciarios será laica, intercultural, gratuita, con perspectiva de género y tendrá contenidos de carácter académico, cívico, social, higiénico, artístico, físico y ético, orientados en el respeto a la ley, las instituciones y los derechos humanos. Será, en todo caso, orientada por las técnicas de la pedagogía y quedará a cargo de profesores o maestros especializados.
+
+Así mismo, la autoridad penitenciaria incentivará la enseñanza superior, debiendo celebrar convenios de colaboración con instituciones públicas y privadas de carácter nacional e internacional en materia educativa para ampliar la oferta educativa y su calidad.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2024)</small>
+
+3. Tratándose de personas indígenas, la educación que se imparta en los centros penitenciarios será bilingüe y acorde a su cultura, para conservar y enriquecer sus lenguas, y la instrucción deberá ser proporcionada por maestros o profesores que comprendan su lengua.
+
 ###### Artículo 50.
 
 Acreditación de los conocimientos adquiridos
@@ -736,6 +750,10 @@ Acreditación de los conocimientos adquiridos
 2. La autoridad educativa estatal organizará servicios permanentes de promoción y asesoría de educación para personas adultas. Promoverá ante las instancias competentes, se den facilidades necesarias a los trabajadores para estudiar y acreditar la educación primaria, secundaria y media superior.
 
 3. Quienes participen voluntariamente proporcionando asesoría en tareas relativas a esta educación tendrán derecho, en su caso, a que se les acredite como servicio social.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2024)</small>
+
+4. Las personas privadas de su libertad que obtengan una certificación por la autoridad educativa correspondiente podrán realizar las labores de docencia a que se refieren los puntos 2 y 3 del Artículo 49 de la presente Ley.
 
 ## Título Tercero. Del Proceso Educativo
 
@@ -1109,11 +1127,13 @@ Medidas para preservar la integridad física, psicológica y social del educando
 
 4. Cuando exista ausentismo del educando por cinco días consecutivos o siete acumulados en un mes, sin que exista justificación por escrito de madres y padres de familia o tutores, o quienes ejerzan la patria potestad, las autoridades educativas escolares de las escuelas públicas y privadas del tipo básico informarán a la autoridad educativa estatal, la cual emitirá una Alerta Temprana y será remitida a las Defensorías Municipales para la Protección de Niñas, Niños y Adolescentes para los efectos correspondientes.
 
-> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE FEBRERO DE 2024)</small>
 
-5. La autoridad educativa estatal adoptará e implementará las facilidades necesarias, a fin de que, las mujeres o personas menstruantes estudiantes que hayan sido diagnosticadas con dismenorrea, previa acreditación mediante comprobante médico emitido por Médico especialista en Ginecología adscrito a Institución Pública de Salud, puedan ausentarse del aula sin que ello represente alguna afectación posterior en su evaluación escolar.
+5. La autoridad educativa estatal adoptará e implementará las facilidades necesarias, a fin de que, las mujeres o personas menstruantes estudiantes que hayan sido diagnosticadas con dismenorrea, previa acreditación mediante comprobante médico emitido por Médico especialista en Ginecología adscrito a Institución Pública de Salud, puedan ausentarse del aula sin que ello represente alguna afectación posterior en su evaluación escolar; así mismo, la autoridad educativa, efectuará disposiciones pedagógicas de acceso, de reingreso y permanencia a madres y padres adolescentes, así como a personas adolescentes y jóvenes embarazadas, con el objeto que puedan concluir su educación media superior y superior.
 
 > <small>[N. DE E. PERTENECE AL PUNTO 5, P.O. 4 DE JUNIO DE 2022]</small>
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2022)</small>
 
 Debiendo el Centro Educativo al que asistan observar la viabilidad para recibir las clases de forma virtual y/o realizar la entrega de trabajos a través de plataformas digitales y/o aplicar exámenes en la misma modalidad, cuando éstas concurran en las fechas en que sea necesario el ausentarse.
 
@@ -1461,7 +1481,9 @@ VI. Revalidar y otorgar equivalencias de estudios de la educación preescolar, p
 
 VII. Otorgar, negar, modificar y revocar autorización a los particulares para impartir la educación inicial, la preescolar, la primaria, la secundaria, la normal y de más (sic) para la formación de docentes de educación básica;
 
-VIII. Participar en la integración y operación de un sistema de educación media superior y un sistema de educación superior, con respeto a la autonomía universitaria y la diversidad educativa;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2024)</small>
+
+VIII. Participar en la integración y operación de un sistema de educación media superior y un sistema de educación superior, con respeto a la autonomía universitaria y la diversidad educativa; así como, efectuar disposiciones pedagógicas de acceso, reingreso y permanencia a madres y padres adolescentes, así como a personas adolescentes y jóvenes embarazadas, con el fin de que concluyan su educación media superior y superior;
 
 IX. Coordinar y operar un padrón estatal de alumnos, docentes, instituciones y centros escolares; un registro estatal de emisión, validación e inscripción de documentos académicos y establecer un sistema estatal de información educativa. Para estos efectos la autoridad educativa estatal, deberá coordinarse en el marco del Sistema de Información y Gestión Educativa, de conformidad con los lineamientos que al efecto expida la autoridad educativa federal y demás disposiciones aplicables.
 
@@ -1569,7 +1591,9 @@ Atribuciones de los municipios en materia educativa
 
 Atribuciones para lograr la equidad en educación
 
-1. La autoridad educativa estatal y la autoridad educativa municipal prestarán servicios educativos con equidad y excelencia. Las medidas que adopte para tal efecto estarán dirigidas, de manera prioritaria, a quienes pertenezcan a grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual o prácticas culturales.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2024)</small>
+
+1. La autoridad educativa estatal y la autoridad educativa municipal prestarán servicios educativos con equidad y excelencia. Las medidas que adopte para tal efecto estarán dirigidas, de manera prioritaria, a quienes pertenezcan a grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria, personas privadas de la libertad o bien, relacionadas con aspectos de género, preferencia sexual o prácticas culturales.
 
 2. Para tal efecto realizarán, entre otras, las siguientes acciones:
 
@@ -1607,13 +1631,21 @@ XIV. Adoptar las medidas para que, con independencia de su nacionalidad o condic
 
 XV. Promover medidas para facilitar y garantizar la incorporación y permanencia a los servicios educativos públicos a las niñas, niños, adolescentes y jóvenes que hayan sido repatriados a nuestro país, regresen voluntariamente o enfrenten situaciones de desplazamiento o migración interna;
 
-XVI. Proporcionar a los educandos los libros de texto gratuitos y materiales educativos impresos o en formatos digitales para la educación básica, garantizando su distribución, y
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2024)</small>
 
-XVII. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia.
+XVI. Proporcionar a los educandos los libros de texto gratuitos y materiales educativos impresos o en formatos digitales para la educación básica, garantizando su distribución;
 
-> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2024)</small>
 
-XVIII. Desarrollará programas con perspectiva de género, para otorgar productos adecuados para la gestión menstrual, tales como, toallas sanitarias desechables y de tela, tampones, copas menstruales o cualquier otro bien destinado a la gestión menstrual, facilitando de forma gradual y progresiva de acuerdo con la suficiencia presupuestal, el acceso gratuito a los productos de gestión menstrual para niñas, mujeres y personas menstruantes.
+XVII. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2024)</small>
+
+XVIII. Desarrollará programas con perspectiva de género, para otorgar productos adecuados para la gestión menstrual, tales como, toallas sanitarias desechables y de tela, tampones, copas menstruales o cualquier otro bien destinado a la gestión menstrual, facilitando de forma gradual y progresiva de acuerdo con la suficiencia presupuestal, el acceso gratuito a los productos de gestión menstrual para niñas, mujeres y personas menstruantes, y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2024)</small>
+
+XIX. Brindar servicios de educación básica, media superior y de formación para el trabajo a las personas privadas de su libertad; para lo cual coordinarán sus acciones con las autoridades penitenciarias correspondientes.
 
 ###### Artículo 113.
 
@@ -2350,3 +2382,17 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicaci
 SEGUNDO.- La Titular del Ejecutivo del Estado, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente decreto, adecuará el reglamento interior de la Secretaría de Educación y Cultura, con respecto al contenido del presente decreto, con el objeto de que la Educación Dual para las Personas con Discapacidad, de acuerdo a sus capacidades, intereses y necesidades, alcancen el máximo desarrollo académico, productivo y social en un ambiente que les permita de manera efectiva y asertiva su inserción al mundo laboral, para lograr su autosuficiencia e integración activa en la sociedad.
 
 TERCERO.- Las disposiciones de esta Ley que requieran de presupuesto para su instrumentación y desarrollo se sujetarán a la disponibilidad presupuestaria del Gobierno del Estado.
+
+P.O. 17 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 401.- POR EL QUE SE ADICIONAN LOS NUMERALES 2 Y 3 AL ARTÍCULO 49, EL NUMERAL 4 AL ARTÍCULO 50, Y LA FRACCIÓN XIX AL NUMERAL 2 DEL ARTÍCULO 112, REFORMÁNDOSE EL NUMERAL 1, ASÍ COMO, LAS FRACCIONES XVI, XVII Y XVIII DEL MISMO ARTÍCULO 112, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Las disposiciones de esta Ley que requieran de presupuesto para su instrumentación y desarrollo se sujetarán a la disponibilidad presupuestaria del Gobierno del Estado.
+
+P.O. 17 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 402.- POR EL QUE SE ADICIONA UN NUMERAL 3 AL ARTÍCULO 26; SE REFORMA EL NUMERAL 5 DEL ARTÍCULO 79, ASÍ COMO, LA FRACCIÓN VIII DEL NUMERAL 1 DEL ARTÍCULO 109, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
