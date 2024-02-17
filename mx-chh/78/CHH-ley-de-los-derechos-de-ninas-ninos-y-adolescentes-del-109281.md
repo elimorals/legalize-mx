@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2023-12-16"
+last_updated: "2024-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2024.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -117,9 +117,21 @@ III. Adopción Internacional. Aquélla que se realice en términos de lo dispues
 
 IV. Ajustes Razonables. Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a niñas, niños y adolescentes con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales.
 
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2024)</small>
+
+IV Bis. Castigo Corporal. Todo acto en el que se utilice de manera severa o innecesaria la fuerza física y tenga por objeto causar dolor o malestar, aunque sea leve.
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2024)</small>
+
+IV Ter. Castigo Humillante. Cualquier trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio que vulnere la dignidad, la salud mental y psicológica de niñas, niños y adolescentes.
+
 V. Centro de Asistencia Social. El establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones.
 
 VI. Certificado de Idoneidad. El documento expedido por la Procuraduría de Protección, o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello.
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2024)</small>
+
+VI Bis. Crianza Respetuosa. Comportamiento de las madres, padres y tutores, donde se promueven prácticas de atención, cuidado, protección, formación y guía, sin dejar de contemplar el establecimiento de los límites relativos a la disciplina, que posibilitan el desarrollo, bienestar y crecimiento saludable y armonioso integral de la niñez y adolescencia, por realizarlo de acuerdo con la evolución de las facultades, la etapa del ciclo vital de desarrollo, las características y circunstancias de cada persona, sin recurrir a la violencia, sino bajo el respeto de sus derechos humanos.
 
 VII. DIF Estatal. El Organismo Público Descentralizado denominado Desarrollo Integral de la Familia del Estado de Chihuahua.
 
@@ -345,9 +357,11 @@ Las autoridades estatales y municipales, deberán llevar a cabo las acciones nec
 
 Niñas, niños y adolescentes deberán disfrutar de una vida plena en condiciones acordes a su dignidad y en condiciones que garanticen su desarrollo integral.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 22.
 
-Niñas, niños y adolescentes tienen derecho a no ser privados de la vida bajo ninguna circunstancia, ni ser utilizados en conflictos armados o violentos.
+Niñas, niños y adolescentes tienen derecho a no ser privados de la vida bajo ninguna circunstancia, ni ser utilizados en conflictos armados o violentos, ni a participar en asociaciones delictuosas, en los términos del Código Penal del Estado de Chihuahua, con el propósito de que cometan un delito o actividad que perturbe su desarrollo integral.
 
 ###### Artículo 23.
 
@@ -631,6 +645,10 @@ Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y
 
 Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo y garantizarles una vida libre de condiciones de mendicidad, entendiéndose por esto, toda situación que implique solicitar limosnas para sí o para terceras personas. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, coadyuvarán a la consecución de dicho fin mediante la adopción de las medidas necesarias.
 
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2024)</small>
+
+Asimismo, es responsabilidad de estos y de cualquier persona que tenga relación con niñas, niños y adolescentes, practicar la crianza respetuosa en beneficio del desarrollo integral de niñas, niños y adolescentes.
+
 ### CAPÍTULO OCTAVO. DERECHO A UNA VIDA LIBRE DE VIOLENCIA Y A LA INTEGRIDAD PERSONAL
 
 ###### Artículo 52.
@@ -641,9 +659,9 @@ Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda form
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a tomar las medidas necesarias para prevenir, atender y sancionar los casos en que niñas, niños o adolescentes se vean afectados por:
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2024)</small>
 
-I. El maltrato físico o psicológico, desatención, negligencia, abandono, abuso sexual, así como cualquier otro tipo de violencia generada que les cause o pueda causar un daño a su salud, desarrollo o dignidad, o poner en peligro su supervivencia.
+I. El maltrato físico o psicológico, desatención, negligencia, abandono, abuso sexual, castigo corporal y humillante, así como cualquier otro tipo de violencia generada que les cause o pueda causar un daño a su salud, desarrollo o dignidad, o poner en peligro su supervivencia.
 
 II. Conductas que atenten contra su correcta formación.
 
@@ -657,11 +675,19 @@ V. El trabajo en adolescentes mayores de quince años que sean peligrosas (sic) 
 
 VI. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral.
 
-Las autoridades competentes deberán considerar la perspectiva de género en las situaciones de violencia.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2024)</small>
+
+Las autoridades competentes deberán considerar la perspectiva de género en las situaciones de violencia. Asimismo, desarrollarán acciones concretas de naturaleza educativa, de concientización, sensibilización y participación a la población en general, en materia de defensa de los derechos humanos y los derechos de la niñez a una vida libre de violencia.
 
 Las leyes estatales y municipales deberán establecer las disposiciones que orientarán las políticas de prevención, protección, atención, sanción y erradicación de los supuestos a que se refieren las fracciones anteriores.
 
 Las autoridades competentes, están obligadas a implementar medidas especiales para prevenir, sancionar y reparar las conductas previstas en este Artículo para niñas, niños y adolescentes con discapacidad.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2024)</small>
+
+###### Artículo 53 Bis.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, realizarán campañas permanentes de difusión para dar a conocer e incentivar el proceso de denuncia respecto al abuso y maltrato infantil o cualquier conducta o hecho que vulnere el desarrollo integral de niñas, niños y adolescentes; con la finalidad de prevenir, atender y sancionar los casos en que se les genere cualquier tipo de violencia. Dichas campañas podrán realizarse a través de radiodifusoras, televisoras, portales electrónicos oficiales, redes sociales y demás medios de comunicación que se consideren necesarios.
 
 ###### Artículo 54.
 
@@ -1313,13 +1339,17 @@ III. Asegurar que cursen la educación obligatoria, participar en su proceso edu
 
 IV. Impartir en consonancia con la evolución de sus facultades, dirección y orientación apropiada, sin que ello pueda justificar limitación, vulneración o restricción alguna en el ejercicio de sus derechos.
 
-V. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2024)</small>
+
+V. Asegurar y ofrecer un entorno afectivo, comprensivo y sin violencia para el pleno y armonioso desarrollo integral; mediante el cuidado cariñoso, el vínculo filial sano, relaciones no violentas, respetuosas, positivas y participativas, conforme al grado de madurez y desarrollo de niñas, niños y adolescentes.
 
 VI. Fomentar el respeto hacia todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral.
 
 VII. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, venta, trata de personas y explotación.
 
-VIII. Abstenerse de cualquier atentado contra su integridad física, psicológica o actos que menoscaben su desarrollo integral. El ejercicio de la patria potestad, la tutela, guarda o custodia no podrá ser justificación para incumplir la obligación prevista en la presente fracción.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2024)</small>
+
+VIII. Observar la prohibición de aplicar castigos corporales y humillantes como formas de corrección disciplinaria, así como cualquier atentado contra la integridad física, psicológica o actos que menoscaben su desarrollo integral. El ejercicio de la patria potestad, la tutela, guarda o custodia no podrá ser justificación para incumplir la obligación prevista en la presente fracción.
 
 IX. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia o rechazo en las relaciones entre niñas, niños y adolescentes, y de éstos con quienes ejercen la patria potestad, tutela, guarda o custodia, así como con los demás miembros de su familia.
 
@@ -1349,9 +1379,17 @@ I. Que quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas,
 
 II. Que las autoridades migratorias verifiquen la existencia de la autorización de quienes ejerzan la patria potestad, tutela o, en su caso, del órgano jurisdiccional competente, que permita la entrada y salida de niñas, niños o adolescentes del territorio nacional, conforme a las disposiciones aplicables.
 
-III. Que la directiva y personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas o de cualquier otra índole, se abstengan de ejercer cualquier forma de violencia, maltrato, perjuicio, agresión, daño, abuso, acoso y explotación en contra de niñas, niños o adolescentes, y que formulen programas e impartan cursos de formación permanente para prevenirlas y erradicarlas.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2024)</small>
 
-IV. Que quienes tengan trato con niñas, niños y adolescentes se abstengan de ejercer cualquier tipo de violencia en su contra, en particular el castigo corporal.
+III. Que la directiva y personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas o de cualquier otra índole, tendrán la prohibición de ejercer cualquier forma de castigo corporal, humillante, violencia, maltrato, perjuicio, agresión, daño, abuso, acoso y explotación en contra de niñas, niños o adolescentes, y que formulen programas e impartan cursos de formación permanente para prevenirlas y erradicarlas.
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2024)</small>
+
+IV. Que quienes tengan trato con niñas, niños y adolescentes tengan prohibido ejercer cualquier tipo de violencia en su contra, incluyendo el castigo corporal y humillante.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2024)</small>
+
+Niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y disciplina de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda, custodia y crianza, así como de las personas encargadas y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, de cuidado, penales o de cualquier otra índole, sin que, en modo alguno, se autorice a estos el uso del castigo corporal y humillante.
 
 ###### Artículo 111.
 
@@ -1420,6 +1458,10 @@ IX. Espacios de participación para expresar libremente sus ideas y opiniones so
 X. Brindarles la posibilidad de realizar actividades externas que les permita tener contacto con su comunidad.
 
 XI. Fomentar la inclusión de niñas, niños y adolescentes con discapacidad, en términos de la legislación aplicable.
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2024)</small>
+
+XII. Cuidado, protección, formación y guía bajo las prácticas de la crianza respetuosa, libre de violencia y respeto a la dignidad de la persona.
 
 Asimismo y con la finalidad de brindarles mejores alternativas de protección para el cumplimiento de sus derechos, se deberá llevar a cabo la revisión periódica de su situación, de la de su familia y de la medida especial de protección por la cual ingresó al centro de asistencia social, garantizando el contacto con su familia y personas significativas siempre que esto sea posible, atendiendo a su interés superior.
 
@@ -1597,6 +1639,10 @@ XXVII. Promover la implementación de programas de prevención social de violenc
 
 XXVIII. Promover, en conjunto con organismos especializados, programas que contengan estrategias de intervención para atender educativamente a la población infanto-adolescente desescolarizada y de alta vulnerabilidad socioeducativa, así como poner en marcha procesos pedagógicos que permitan a esta población nivelar y certificar estudios.
 
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2024)</small>
+
+XXIX. Implementar medidas de capacitación que promuevan el desarrollo de habilidades y herramientas para la educación parental en el marco de una crianza respetuosa a quienes ejerzan la patria potestad, tutela, guarda, custodia o cualquier persona que tenga relación con niñas, niños y adolescentes.
+
 ###### Artículo 124.
 
 Las autoridades estatales y municipales celebrarán acuerdos de colaboración con las instancias del orden federal, que permitan garantizar que el ingreso, permanencia y salida de niñas, niños y adolescentes del territorio nacional, sea conforme a las disposiciones legales cuando tales situaciones tengan impacto en el territorio de la Entidad.
@@ -1631,7 +1677,13 @@ XII. Coordinar con las autoridades de los órdenes de gobierno la implementació
 
 XIII. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley.
 
-XIV. Cualquier otra prevista para el cumplimiento de esta Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE FEBRERO DE 2024)</small>
+
+XIV. La promoción de esquemas de crianza respetuosa y fortalecimiento familiar entre la población, así como el combate de cualquier tipo de castigo corporal y humillante a niñas, niños y adolescentes.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE FEBRERO DE 2024)</small>
+
+XV. Cualquier otra prevista para el cumplimiento de esta Ley.
 
 ###### Artículo 126.
 
@@ -1699,7 +1751,9 @@ La Procuraduría de Protección, para el cumplimiento de su objeto, contará con
 
 La Procuraduría de Protección tendrá las atribuciones siguientes:
 
-I. Procurar la protección integral de niñas, niños y adolescentes de acuerdo a lo previsto por la Constitución Federal y Estatal, los tratados internacionales, la Ley General, esta Ley y demás disposiciones jurídicas aplicables. Dicha protección integral deberá abarcar, por lo menos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE FEBRERO DE 2024)</small>
+
+I. Procurar la protección integral de niñas, niños y adolescentes, así como recibir, atender y dar seguimiento a casos de maltrato en su contra, bajo los principios y derechos previstos por la Constitución Federal y Estatal, los tratados internacionales, la Ley General, esta Ley y demás disposiciones jurídicas aplicables. Por lo que respecta a la protección integral deberá abarcar, por lo menos:
 
 a) Atención médica y psicológica, de manera preventiva y oportuna.
 
@@ -2746,5 +2800,29 @@ P.O. 16 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0639/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLYC/0627/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0655/2023 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 131, FRACCIÓN I, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0656/2023 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 22 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
