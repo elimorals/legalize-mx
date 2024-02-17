@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2024-01-10"
+last_updated: "2024-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2024.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -335,37 +335,53 @@ LIV.- RIVA PALACIO; con cabecera en el pueblo de San Andrés y la sección munic
 
 LV.- ROSALES, con cabecera en el pueblo de Santa Cruz de Rosales y las secciones municipales de San Pedro de Conchos y Barranco Blanco;
 
-LVI.- ROSARIO; con cabecera en el pueblo denominado Valle del Rosario y las secciones municipales de Juan Mendoza, San Javier, San Nicolás del Cañón y Valle de Olivos;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2024)</small>
 
-LVII.- SAN FRANCISCO DE BORJA; con cabecera en el pueblo del mismo nombre y la sección municipal de Santa Ana;
+LVI.- SAN FRANCISCO DE BORJA; con cabecera en el pueblo del mismo nombre y la Sección Municipal de Santa Ana.
 
-LVIII.- SAN FRANCISCO DE CONCHOS; con cabecera en el pueblo del mismo nombre y la sección municipal de Boquilla de Babisas;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2024)</small>
 
-LIX.- SAN FRANCISCO DEL ORO; con cabecera en el pueblo del mismo nombre;
+LVII.- SAN FRANCISCO DE CONCHOS; con cabecera en el pueblo del mismo nombre y la Sección Municipal de Boquilla de Babisas.
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2024)</small>
 
-LX.- Santa Bárbara; con cabecera del mismo nombre;
+LVIII.- SAN FRANCISCO DEL ORO; con cabecera en el pueblo del mismo nombre.
 
-LXI.- SANTA ISABEL; con cabecera en el pueblo del mismo nombre;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2024)</small>
 
-LXII.- SATEVO; con cabecera en el pueblo denominado San Francisco Javier de Satevó y las secciones municipales de Babonoyaba, La Joya, San Antonio de los Chacón y San José del Sitio;
+LIX.- SANTA BÁRBARA, con cabecera del mismo nombre.
 
-LXIII.- SAUCILLO; con cabecera en la ciudad del mismo nombre y las secciones municipales de Naica y las Varas;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2024)</small>
 
-(REFORMADA, P.O. 28 DE FEBRERO DE 2007) (F. DE E., P.O. 16 DE JUNIO DE 2007)
+LX.- SANTA ISABEL; con cabecera en el pueblo del mismo nombre.
 
-LXIV.- TEMÓSACHIC, con cabecera en el pueblo del mismo nombre y sus Secciones Municipales de Babícora de Conoachic, Cocomórachic, Tosanachic, Tutuaca, Yepachic y Yepómera;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2012)</small>
+LXI.- SATEVÓ; con cabecera en el pueblo denominado San Francisco Javier de Satevó y las Secciones Municipales de Babonoyaba, La Joya, San Antonio de los Chacón y San José del Sitio.
 
-LXV.- URIQUE, con cabecera en el pueblo del mismo nombre y las Secciones Municipales de Cerocahui, Cuiteco, Guagueyvo, Colonia Bahuérachi, San Rafael, Cieneguita Lluvia de Oro, Tubares, Bahuichivo, Corareachi y Guapalayna;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2013)</small>
+LXII.- SAUCILLO; con cabecera en la ciudad del mismo nombre y las Secciones Municipales de Naica y las Varas.
 
-LXVI.- URUACHI, con cabecera en el pueblo del mismo nombre y las Secciones Municipales de Batopilillas, El Rebaje y Rocoroyvo.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2024)</small>
 
-LXVII.- VALLE DE ZARAGOZA; con cabecera en el pueblo del mismo nombre y las secciones municipales de El Velduque y San Felipe;
+LXIII.- TEMÓSACHIC, con cabecera en el pueblo del mismo nombre y sus Secciones Municipales de Babícora de Conoachic, Cocomórachic, Tosanachic, Tutuaca, Yepachic y Yepómera.
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2024)</small>
+
+LXIV.- URIQUE, con cabecera en el pueblo del mismo nombre y las Secciones Municipales de Cerocahui, Cuiteco, Guagueyvo, Colonia Bahuérachi, San Rafael, Cieneguita Lluvia de Oro, Tubares, Bahuichivo, Corareachi y Guapalayna.
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2024)</small>
+
+LXV.- URUACHI, con cabecera en el pueblo del mismo nombre y las Secciones Municipales de Batopilillas, El Rebaje y Rocoroyvo.
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2024)</small>
+
+LXVI.- VALLE DE ZARAGOZA; con cabecera en el pueblo del mismo nombre y las Secciones Municipales de El Velduque y San Felipe.
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2024)</small>
+
+LXVII.- VALLE DEL ROSARIO; con cabecera en el pueblo del mismo nombre y las Secciones Municipales de Juan Mendoza, San Javier, San Nicolás del Cañón y Valle de Olivos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P. O. 6 DE JUNIO DE 2015)</small>
 
@@ -5860,3 +5876,15 @@ El Artículo Octavo del presente Decreto, entrará en vigor al año de su public
 ###### ARTÍCULO TERCERO.
 
 Los artículos Undécimo y Decimocuarto del presente Decreto, entrarán en vigor a los 180 días posteriores a su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVII/RFCYC/0657/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, todas las menciones administrativas, financieras, jurídicas y de cualquier índole que se hagan al Municipio de Rosario, se entenderán referidas al Municipio de Valle del Rosario.
