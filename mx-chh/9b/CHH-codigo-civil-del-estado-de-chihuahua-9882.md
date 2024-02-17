@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2024-01-10"
+last_updated: "2024-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2024.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1459,11 +1459,9 @@ IV.- Poner a los hijos e hijas al cuidado de la persona más apta e idónea que 
 
 Se debe entender por Régimen de Convivencia Progresiva, las circunstancias en que deberá llevarse a cabo la convivencia entre los menores hijos e hijas y el progenitor que no tenga la guarda y custodia de éstos, para lo cual deberá considerarse que las mismas no pongan en riesgo la estabilidad de los menores y procurando que ésta aumente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
-
-La protección para los hijos e hijas menores de edad implica las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales corresponderán a los organismos para la asistencia social pública estatal o municipal, a través de su correspondiente Procuraduría de Asistencia Jurídica y Social o dependencia equivalente, por lo que deberá darse vista a estas instancias cuando en la tramitación de un juicio se perciba que se pone en riesgo la seguridad de aquéllos.
+La protección para los hijos e hijas menores de edad implica las medidas de seguridad, seguimiento y terapias necesarias para evitar conductas que generen violencia familiar, las cuales corresponderán a los organismos para la asistencia social pública estatal o municipal, a través de su correspondiente Procuraduría de Asistencia Jurídica y Social o dependencia equivalente, por lo que deberá darse vista a estas instancias cuando en la tramitación de un juicio se perciba que se pone en riesgo la seguridad de aquellos.
 
 > <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1665,9 +1663,11 @@ V.- Si el alimentista, sin consentimiento del que debe dar los alimentos, abando
 
 300 BIS.- Toda persona integrante de la familia o unidad doméstica tiene derecho a que los demás miembros le respeten su integridad física, sexual, psicológica, patrimonial y económica, con el objeto de contribuir a su sano desarrollo. Al efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes, para prevenir y combatir conductas de violencia familiar.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2024)</small>
 
-300 TER.- Quienes integren una familia o unidad doméstica o que tengan cualquier otra relación interpersonal están obligados a evitar conductas que generen violencia familiar.
+300 TER.- Quienes integren una familia o unidad doméstica o que tengan cualquier otra relación interpersonal están obligados a evitar conductas que generen violencia familiar. Queda prohibido que la madre, padre o cualquier otra persona en la familia utilice el castigo corporal o cualquier otro tipo de trato y castigo humillante como forma de corrección o disciplina de niñas, niños y adolescentes. Se define el castigo corporal y humillante, según lo dispuesto por el artículo 7 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Chihuahua.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2010)</small>
 
 Por violencia familiar se entiende cualquier acción u omisión que pueda causar la muerte, daño o sufrimiento físico, sexual, psicológico, patrimonial o económico, que tenga lugar dentro de la familia o unidad doméstica o en cualquier otra relación interpersonal, ya sea que la o el agresor comparta o haya compartido el mismo domicilio que el o la agredida.
 
@@ -2173,11 +2173,17 @@ La conducta ilícita del sustractor o retenedor dará lugar a la pérdida de los
 
 Cuando llegue a conocimiento de los Consejos Locales de Tutela o de cualquier autoridad administrativa que dichas personas no cumplen con la obligación referida, lo avisarán al Ministerio Público y al organismo para la asistencia social pública estatal o municipal, según corresponda, a través de su respectiva Procuraduría de Asistencia Jurídica y Social o dependencia equivalente, para que promueva lo que corresponda.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2024)</small>
 
-400.- Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan menores bajo su custodia, tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
+400.- Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan niñas, niños y adolescentes bajo su custodia, tienen la facultad de corregirlos; la obligación de otorgarles orientación, cuidado y disciplina; y la obligación de observar una conducta que sirva a estos de buen ejemplo.
 
-La facultad de corregir no implica infligir al menor actos de fuerza que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el artículo 300 ter de este Código.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2024)</small>
+
+La facultad de corregir no implica infligir a niñas, niños y adolescentes actos de fuerza que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el artículo 300 ter de este Código, por lo que queda prohibido el castigo corporal y humillante o cualquier otro tipo de trato degradante como forma de corrección disciplinaria.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2024)</small>
+
+Las autoridades auxiliarán a quienes ejercen la patria potestad, tutela o guarda, custodia y crianza, siempre que sean requeridas para ello, en su formación sobre crianza respetuosa en favor de las niñas, niños y adolescentes.
 
 401.- El que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho. En caso de irracional disenso, resolverá el Juez.
 
@@ -2479,11 +2485,9 @@ En todos los casos se estará a lo dispuesto por el artículo 65 de este Código
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2024)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2009)</small>
-
-471.- Las personas menores de edad o incapacitadas que se encuentran bajo la patria potestad o la tutela en los términos de este Código y que hayan sido recogidas en albergues, casas hogar y demás establecimientos de asistencia social privada, quedarán bajo la custodia y guarda de los directores de éstos, teniendo el deber de asistirlos, educarlos y corregirlos convenientemente, de acuerdo a los lineamientos que al efecto dicte el organismo para la asistencia social pública estatal o municipal, según corresponda, a través de su respectiva Procuraduría de Asistencia Jurídica y Social o dependencia equivalente, quien tendrá la representación del menor para todos los efectos legales.
+471.- Las personas menores de edad o incapacitadas que se encuentran bajo la patria potestad o la tutela en los términos de este Código y que hayan sido recogidas en albergues, casas hogar y demás establecimientos de asistencia social privada, quedarán bajo la custodia y guarda de los directores de estos, teniendo la obligación de otorgarles asistencia, educación, orientación, cuidado y disciplina, de acuerdo con los lineamientos que al efecto dicte el organismo para la asistencia social pública estatal o municipal, según corresponda, a través de su respectiva Procuraduría de Asistencia Jurídica y Social o dependencia equivalente, quien tendrá la representación del menor para todos los efectos legales.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1994)</small>
 
@@ -13392,3 +13396,11 @@ El Artículo Octavo del presente Decreto, entrará en vigor al año de su public
 ###### ARTÍCULO TERCERO.
 
 Los artículos Undécimo y Decimocuarto del presente Decreto, entrarán en vigor a los 180 días posteriores a su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFLYC/0627/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
