@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-comala-colima-26790"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2023-04-08"
+last_updated: "2024-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,9 +27,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COMALA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE ABRIL DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2024.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1985,7 +1983,9 @@ Causarán los derechos establecidos en esta sección, las personas físicas o mo
 
 Es base para el pago de estos derechos el tipo de autorización, licencia o permiso que se otorgue, así como el período o número de horas cuando se trate de permisos eventuales o de funcionamiento en horario extraordinario.
 
-Para la apertura de nuevos establecimientos se requerirá tener previamente la licencia o autorización respectiva; tratándose de refrendo se pagarán los derechos correspondientes durante los meses de enero y febrero del ejercicio que se trate.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2024)</small>
+
+Para la apertura de nuevos establecimientos se requerirá tener previamente la licencia o autorización respectiva; tratándose de refrendo se pagarán los derechos correspondientes durante los meses de enero, febrero y marzo del ejercicio que se trate.
 
 ###### ARTICULO 81.
 
@@ -3976,3 +3976,15 @@ P.O. 25 DE MARZO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 17 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 403.- POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 14, DE LA LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS; ASÍ COMO, DIVERSAS DISPOSICIONES DE LAS LEYES SIGUIENTES: LEY DE HACIENDA PARA EL MUNICIPIO DE ARMERÍA, LEY DE HACIENDA PARA EL MUNICIPIO DE COLIMA, LEY DE HACIENDA PARA EL MUNICIPIO DE COMALA, LEY DE HACIENDA PARA EL MUNICIPIO DE COQUIMATLÁN, LEY DE HACIENDA PARA EL MUNICIPIO DE CUAUHTÉMOC, LEY DE HACIENDA PARA EL MUNICIPIO DE IXTLAHUACÁN, LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO, LEY DE HACIENDA PARA EL MUNICIPIO DE MINATITLÁN, LEY DE HACIENDA PARA EL MUNICIPIO DE TECOMÁN Y LEY DE HACIENDA PARA EL MUNICIPIO DE VILLA DE ÁLVAREZ”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos procederán a revisar y realizar las adecuaciones normativas a la reglamentación municipal que se relacionen con los preceptos contenidos en este instrumento, lo que deberán hacer en un plazo que no excederá de 60 días naturales, contados a partir de la entrada en vigor del presente Decreto.
