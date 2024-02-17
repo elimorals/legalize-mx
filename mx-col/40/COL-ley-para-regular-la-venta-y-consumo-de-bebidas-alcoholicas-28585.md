@@ -4,7 +4,7 @@ identifier: "COL-ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas-2858
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-11"
-last_updated: "2019-03-20"
+last_updated: "2024-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2024.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 11 de enero de 2003.
 
@@ -223,9 +223,11 @@ Las Autoridades Municipales harán saber por escrito a los solicitantes el resul
 
 Las licencias que autoricen la venta y el consumo de bebidas alcohólicas tendrán vigencia anual.
 
-###### ARTICULO 14.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2024)</small>
 
-Durante los meses de enero y febrero de cada año, los titulares de las licencias respectivas deberán solicitar por escrito el refrendo de las mismas.
+###### ARTÍCULO 14.
+
+Durante los meses de enero, febrero y marzo de cada año, los titulares de las licencias respectivas deberán solicitar por escrito el refrendo de las mismas.
 
 La extemporaneidad en la solicitud de los refrendos dará lugar a la caducidad de la licencia respectiva, previa declaración que al respecto emitan los Ayuntamientos en los términos de su reglamento respectivo y que deberán notificar al titular de la misma, en un término no mayor de 15 días hábiles, contados a partir de la fecha de la solicitud.
 
@@ -526,3 +528,15 @@ P.O. 20 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 56 POR EL QUE SE REFORMA EL ARTÍCULO OCTAVO TRANSITORIO DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DE ARMERÍA, COLIMA, COMALA, COQUIMATLÁN, CUAUHTÉMOC, IXTLAHUACÁN, MINATITLÁN, TECOMÁN Y VILLA DE ÁLVAREZ, ASÍ COMO EL ARTÍCULO NOVENO TRANSITORIO DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO Y EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima” y estará vigente hasta el 31 de marzo de 2019.
+
+P.O. 17 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 403.- POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 14, DE LA LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS; ASÍ COMO, DIVERSAS DISPOSICIONES DE LAS LEYES SIGUIENTES: LEY DE HACIENDA PARA EL MUNICIPIO DE ARMERÍA, LEY DE HACIENDA PARA EL MUNICIPIO DE COLIMA, LEY DE HACIENDA PARA EL MUNICIPIO DE COMALA, LEY DE HACIENDA PARA EL MUNICIPIO DE COQUIMATLÁN, LEY DE HACIENDA PARA EL MUNICIPIO DE CUAUHTÉMOC, LEY DE HACIENDA PARA EL MUNICIPIO DE IXTLAHUACÁN, LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO, LEY DE HACIENDA PARA EL MUNICIPIO DE MINATITLÁN, LEY DE HACIENDA PARA EL MUNICIPIO DE TECOMÁN Y LEY DE HACIENDA PARA EL MUNICIPIO DE VILLA DE ÁLVAREZ”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos procederán a revisar y realizar las adecuaciones normativas a la reglamentación municipal que se relacionen con los preceptos contenidos en este instrumento, lo que deberán hacer en un plazo que no excederá de 60 días naturales, contados a partir de la entrada en vigor del presente Decreto.
