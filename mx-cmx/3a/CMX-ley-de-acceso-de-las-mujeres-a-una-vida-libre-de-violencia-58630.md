@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5863
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-29"
-last_updated: "2023-10-10"
+last_updated: "2024-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58630&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2007-12-20"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE FEBRERO DE 2024.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
 
@@ -228,7 +228,9 @@ I. Violencia Psicoemocional: Toda acción u omisión dirigida a desvalorar, inti
 
 La violencia psicoemocional se sanciona de acuerdo con lo establecido en los artículos 138 y 200 del Código Penal para el Distrito Federal.
 
-II. Violencia Física: Toda acción u omisión intencional que causa un daño en su integridad física;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE FEBRERO DE 2024)</small>
+
+II. Violencia Física: Es cualquier acción u omisión que cause o busque causar daño en la integridad física de la mujer, provocando lesiones temporales o permanentes, internas, externas o ambas, algún tipo de discapacidad o pongan en peligro la vida.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
 
@@ -295,6 +297,10 @@ Este tipo de violencia puede cometerse también a través de familiares o person
 > <small>[N. DE E. PERTENECE A LA FRACCIÓN X, G.O. 12 DE DICIEMBRE DE 2022]</small>
 
 Es particularmente grave cuando las instituciones destinadas a la atención y acceso a la justicia, al no reconocerla, emiten determinaciones, resoluciones y sentencias sin perspectiva de género vulnerando derechos humanos de las mujeres y el interés superior de la niñez.
+
+> <small>(ADICIONADA, G.O. 19 DE FEBRERO DE 2024)</small>
+
+XI. Violencia por ataques con ácido, sustancias químicas o corrosivas: Es cualquier acción u omisión que cause o busque causar daño no accidental arrojando, derramando o poniendo en contacto con algún tipo de gas, compuesto químicos, ácido, álcalis, sustancias químicas, corrosivas, cáusticas, irritantes, tóxicas, inflamables, explosivas, reactivas, líquidos a altas temperaturas o cualquier otra sustancia que por sí misma o en determinadas condiciones pueda provocar lesiones temporales o permanentes, internas, externas o ambas, algún tipo de discapacidad o pongan en peligro la vida.
 
 ### CAPÍTULO II. DE LAS MODALIDADES DE LA VIOLENCIA
 
@@ -1108,11 +1114,19 @@ III. Llevar a cabo registros de información desagregada por sexo, considerando 
 
 IV. Proporcionar atención en salud reproductiva de las mujeres, en especial de aquellas que se encuentran en mayores condiciones de vulnerabilidad y/o privadas de su libertad;
 
-V. Diseñar y ejecutar programas especializados para atender a mujeres víctimas de violencia con necesidades de salud mental, en los (sic) Casas de Emergencia y Centros de Refugio; y
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2024)</small>
+
+V. Diseñar y ejecutar programas especializados para atender a mujeres víctimas de violencia con necesidades de salud mental, en las Casas de Emergencia y Centros de Refugio;
 
 > <small>(ADICIONADA, G.O. 10 DE OCTUBRE DE 2023)</small>
 
 V Bis. Capacitar al personal al interior de sus instancias de atención sobre las dinámicas de la violencia vicaria a efecto de concientizarles sobre la importancia de brindar a las madres la información sobre el estado de salud de sus hijas e hijos, así como personas con discapacidad o en situación de dependencia, sin necesidad de orden judicial, sujetándose a las disposiciones y la normatividad interna en materia de Salud, y
+
+> <small>(ADICIONADA, G.O. 19 DE FEBRERO DE 2024)</small>
+
+V Ter. Las autoridades y/o el personal de los servicios de salud correspondientes deberán llevar un registro y remitir la información y estadísticas sobre las personas atendidas en caso de violencia por ataques con ácido, sustancias químicas o corrosivas a las autoridades competentes. Lo anterior en términos de lo dispuesto por los artículos 15 fracción V, 32, de esta Ley, las Normas Oficiales Mexicanas y demás disposiciones aplicables de las leyes vigentes en la Ciudad de México.
+
+Las personas prestadoras de servicios de salud deberán implementar los criterios, protocolos y/o lineamientos con los que cuente la Secretaría de Salud, para coordinarse interinstitucionalmente con las autoridades correspondientes ante los casos de violencia contra las mujeres; y
 
 VI. Las demás que le atribuyan otras leyes y el Reglamento de la presente Ley.
 
@@ -2225,3 +2239,15 @@ G.O. 10 DE OCTUBRE DE 2023.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México, y
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 19 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 6 Y LA FRACCIÓN V DEL ARTÍCULO 36, Y SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 6 Y LA FRACCIÓN V TER AL ARTÍCULO 36, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO Y SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 131; SE REFORMA LA FRACCIÓN II DEL 148 BIS; SE ADICIONA UN CAPÍTULO II BIS, LESIONES POR ATAQUES CON ÁCIDO, SUSTANCIAS QUÍMICAS O CORROSIVAS, AL TÍTULO PRIMERO, DELITOS CONTRA LA VIDA, LA INTEGRIDAD CORPORAL, LA DIGNIDAD Y EL ACCESO A UNA VIDA LIBRE DE VIOLENCIA, DEL LIBRO SEGUNDO PARTE ESPECIAL, Y LOS ARTÍCULOS 135 BIS, 135 TER, 135 QUÁTER Y 135 QUINQUIES, DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Secretaría de Salud contará con un lapso no mayor a 90 días naturales a la entrada en vigor del presente Decreto para coordinarse con las autoridades correspondientes a efecto de llevar un registro y remitir información y estadísticas sobre las personas atendidas en caso de violencia por ataques con ácido, sustancias químicas o corrosivas.
+
+CUARTO. La Secretaría de las Mujeres en coordinación con la Secretaría de Seguridad Ciudadana, la Fiscalía General de Justicia de la Ciudad de México, la Secretaría de Inclusión y Bienestar Social de la Ciudad de México, la Comisión Ejecutiva de Atención a Víctimas de la Ciudad de México, la Comisión de Derechos Humanos de la Ciudad de México, el Consejo para Prevenir y Erradicar la Discriminación de la Ciudad de México, el Sistema Integral para el Desarrollo de la Familia de la Ciudad de México y la Secretaría de Salud de la Ciudad de México, formulará en un lapso de seis meses a la entrada en vigor del presente Decreto, una política pública de atención integral a las víctimas de violencia por ataques con ácido, sustancias químicas o corrosivas.
