@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2023-04-24"
+last_updated: "2024-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2024.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -2599,15 +2599,15 @@ Los Manuales de Organización y Procedimientos, una vez publicados, imponen carg
 
 Los Manuales de Organización y Procedimientos serán elaborados por cada dependencia o en su caso, elaborados por la Secretaría encargada del ámbito administrativo interno municipal, de conformidad a los lineamientos de la dependencia correspondiente y aprobados en todo caso por el titular de la Secretaría respectiva o del organismo descentralizado correspondiente.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 22 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 311.
 
 Las dependencias de la Administración Pública Municipal contarán con las siguientes Unidades Administrativas:
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2024)</small>
 
-I. Secretaría de Gobernación y del Ayuntamiento
+I. Secretaría de Gobernación y del Ayuntamiento:
 
 > <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
 
@@ -2636,6 +2636,10 @@ g). Coordinación de Archivo de trámite, concentración e histórico municipal;
 > <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
 
 h). Departamento de Jueces Calificadores.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE FEBRERO DE 2024)</small>
+
+i). Coordinación de vigilancia ciudadana
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
 
@@ -25082,3 +25086,11 @@ Artículo Segundo.- Publíquese el presente Decreto en el Periódico Oficial del
 Artículo Tercero.- El presente acuerdo surte sus efectos retroactivamente a partir del día 16 de abril del 2023 para efectos administrativos.
 
 Artículo Cuarto.- Cúmplase.
+
+P.O. 19 DE FEBRERO DE 2024.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL “DECRETO POR EL QUE SE REFORMA AL CÓDIGO MUNICIPAL DE CALVILLO, AGS”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Artículo Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
+
+Artículo Tercero.- Cúmplase.
