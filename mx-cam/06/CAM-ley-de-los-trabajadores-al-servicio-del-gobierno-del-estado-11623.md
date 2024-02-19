@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-trabajadores-al-servicio-del-gobierno-del-estado-116
 country: "mx"
 rank: "ley"
 publication_date: "1996-04-24"
-last_updated: "2022-11-09"
+last_updated: "2024-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 24 de abril de 1996.
 
@@ -302,6 +302,18 @@ TODOS LOS TRABAJADORES TENDRAN DERECHO DE UN PERMISO CON GOCE DE SUELDO PARA ACU
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
 
 LOS PERMISOS SEÑALADOS EN ESTE ARTICULO NO PODRAN SER SUJETOS DE COMPENSACION ECONOMICA EN CASO DE NO SER EJERCIDOS.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2024)</small>
+
+LAS MUJERES Y PERSONAS MENSTRUANTES TRABAJADORAS A QUIENES SE LES DIAGNOSTIQUE CON ENDOMETRIOSIS SEVERA, O DISMENORREA PRIMARIA O SECUNDARIA EN GRADO INCAPACITANTE TENDRAN DERECHO DE UN PERMISO DE HASTA DOS DIAS POR MES CON GOCE DE SUELDO.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2024)</small>
+
+PARA TAL EFECTO, DEBERAN PRESENTAR EN SU CENTRO DE TRABAJO EL CERTIFICADO MEDICO QUE LO ACREDITE, EXPEDIDO POR INSTITUCION DEL SISTEMA NACIONAL DE SALUD. DICHO CERTIFICADO PODRA MANTENER UNA VIGENCIA DE HASTA POR SEIS MESES A PARTIR DE SU EXPEDICION.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2024)</small>
+
+LOS DIAS UTILIZADOS EN ESTOS CASOS NO AFECTARAN LAS PRESTACIONES LABORALES ESTABLECIDAS EN LA PRESENTE LEY.
 
 ## TITULO IV. SUELDO
 
@@ -1122,3 +1134,11 @@ P.O. 9 DE NOVIEMBRE DE 2022.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 19 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 336 POR EL QUE “SE ADICIONAN LOS PÁRRAFOS CUARTO, QUINTO Y SEXTO PÁRRAFO (SIC) AL ARTÍCULO 31 TER DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
