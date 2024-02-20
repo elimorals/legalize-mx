@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-el-colegio-de-la-frontera-sur-158418"
 country: "mx"
 rank: "estatuto"
 publication_date: "2022-05-23"
-last_updated: "2022-05-23"
+last_updated: "2024-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158418&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,15 +19,15 @@ issue_date: "2022-05-10"
 ---
 # ESTATUTO ORGANICO DE EL COLEGIO DE LA FRONTERA SUR
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://sitios.ecosur.mx/normateca/archivo-name/estatuto-organico-2021-aprobado/]</small>
+[NOTA 1: INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2024/CONAHCYT/Estatuto-Organico.pdf]
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 ESTATUTO ORGÁNICO DE EL COLEGIO DE LA FRONTERA SUR
 
 TEXTO ORIGINAL.
 
-Estatuto publicado en el Diario Oficial de la Federación, el lunes 23 de mayo de 2022.
+Estatuto publicado en el Diario Oficial de la Federación, el lunes 23 de mayo de 2022. (REPUBLICADO EN EL D.O.F. 20 DE FEBRERO DE 2024)
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- GOBIERNO DE MÉXICO.- Consejo Nacional de Ciencia y Tecnología.- Dirección de Administración.
 
@@ -43,6 +43,8 @@ www.dof.gob.mx/2022/CONACYT/Estatuto-Organico.pdf
 
 San Cristóbal de Las Casas, Chiapas, a 10 de mayo de 2022.- Directora General, Dra. María del Carmen Pozo de la Tijera.- Rúbrica.
 
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
+
 ESTATUTO ORGÁNICO DE EL COLEGIO DE LA FRONTERA SUR
 
 ANTECEDENTES
@@ -53,7 +55,11 @@ De esta manera, según lo dispuesto en el Artículo 15 y 58 fracción VIII de la
 
 ESTATUTO ORGÁNICO DE EL COLEGIO DE LA FRONTERA SUR
 
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
+
 ## TÍTULO I. DISPOSICIONES GENERALES
+
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
 
 ###### Artículo 1.
 
@@ -89,17 +95,25 @@ XIV. Colaborar con las autoridades competentes en las actividades de promoción 
 
 XV. Prestar los demás servicios y realizar las funciones necesarias para el cumplimiento de su objeto conforme este decreto y otras disposiciones jurídicas aplicables.
 
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
+
 ###### Artículo 2.
 
 Para dar cumplimiento a su objeto, la organización y funcionamiento del Colegio se regirá por lo señalado en la Ley de Ciencia y Tecnología, su instrumento de creación y el presente documento. En lo no previsto se aplicará supletoriamente la Ley Federal de las Entidades Paraestatales, siempre y cuando sea para fortalecer su autonomía técnica, operativa y administrativa.
+
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
 
 ###### Artículo 3.
 
 El presente Estatuto regula la organización básica para el funcionamiento del Colegio y optimiza el uso de los recursos públicos en materia de servicios personales. La relación jurídica laboral del personal del Colegio y las reglas relativas al ingreso, promoción, evaluación y permanencia del personal científico y tecnológico se regirán por las disposiciones aplicables vigentes.
 
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
+
 ###### Artículo 4.
 
 Las personas servidoras públicas de El Colegio de la Frontera Sur, las personas integrantes de la Junta de Gobierno y todas aquellas personas que por el desarrollo de la función que les sea encomendada manejen información de carácter confidencial, estarán obligados a conservarla bajo su cuidado, impidiendo su uso, divulgación, sustracción, destrucción, ocultamiento o utilización indebida. El no acatamiento de lo dispuesto por el presente artículo dará lugar al proceso correspondiente, conforme a la Ley General de Responsabilidades Administrativas y Ley General de Archivos, sin menoscabo a las demás disposiciones vigentes y aplicables.
+
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
 
 ###### Artículo 5.
 
@@ -121,13 +135,19 @@ VII. El Órgano Interno de Control;
 
 VIII. Los demás que determine la Junta de Gobierno para el mejor cumplimiento de su objeto.
 
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
+
 ## TÍTULO II. DE LA ORGANIZACIÓN ADMINISTRATIVA
 
-### Capitulo I. Junta de Gobierno
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
+
+### Capitulo I. Junta de Gobierno. (REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
 
 ###### Artículo 6.
 
 El Órgano de Gobierno del Colegio recaerá en un ente colegiado denominado Junta de Gobierno y estará conformado conforme en lo dispuesto en el artículo 7 de su Instrumento de Creación.
+
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
 
 ###### Artículo 7.
 
@@ -137,9 +157,13 @@ La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos l
 
 Las resoluciones serán adoptadas por consenso o, en su defecto, por el voto de la mitad más uno de quienes estén presentes. En caso de empate, quien ocupe la Presidencia tendrá el voto de calidad.
 
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
+
 ###### Artículo 8.
 
 Las sesiones o y extraordinarias de la Junta de Gobierno, a solicitud de la Presidencia o de la persona que ésta designe, podrán llevarse a cabo de manera no presencial, a través de medios remotos de comunicación, los cuales pueden ser en forma enunciativa mas no limitativa, videoconferencia, audioconferencia o cualquier otro medio conocido o por conocerse que permita una presencia virtual, en la inteligencia de que el procedimiento de convocatoria, la lista de asistencia y el acta respectiva, deberán contener las firmas autógrafas, y en su caso electrónicas correspondientes.
+
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
 
 ###### Artículo 9.
 
@@ -197,6 +221,8 @@ XXV. Integrar los comités, comisiones y grupos de trabajo que considere pertine
 
 XXVI. Las demás que con el carácter de indelegables le confieran las disposiciones jurídicas y administrativas aplicables que sean necesarias para el cumplimiento de su objeto.
 
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
+
 ###### Artículo 10.
 
 La Junta de Gobierno contará con una Secretaría y una Prosecretaría, las cuales serán ocupadas por personas propuestas por su Presidencia y por la Dirección General del Colegio, respectivamente, asistirán a las sesiones de la misma con voz, pero sin voto y guardarán secrecía y reserva de los asuntos tratados; sus funciones serán las siguientes:
@@ -243,27 +269,37 @@ j) Las demás que le encomiende la Presidencia de la Junta de Gobierno, la Direc
 
 La Dirección General a través de la Secretaría de la Junta de Gobierno deberá proporcionar oportunamente a las comisarías públicas la información y documentación que requerirán y darles las facilidades necesarias para el debido cumplimiento de sus funciones.
 
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
+
 ###### Artículo 11.
 
 Los acuerdos tomados en las sesiones de la Junta de Gobierno serán asentados en las actas respectivas que firmarán quienes ocupen la Presidencia de la sesión y la Secretaría, pudiendo firmar en ausencia de la Presidencia su suplente debidamente acreditada y de la Secretaría la persona que ocupe la Prosecretaría.
 
-### Capítulo II. Estructura Básica
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
+
+### Capítulo II. Estructura Básica. (REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
 
 ###### Artículo 12.
 
 La aprobación y modificación de la Estructura Básica es atribución no delegable de la Junta de Gobierno en términos de lo dispuesto en el Artículo 56 fracción IX de la Ley de Ciencia y Tecnología.
 
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
+
 ###### Artículo 13.
 
 El registro de la Estructura Básica se realizará en términos de lo dispuesto en el numeral 11 del "Acuerdo por el que se emiten las Disposiciones en las Materias de Recursos Humanos y del Servicio Profesional de Carrera, así como en el Manual Administrativo de Aplicación General en Materia de Recursos Humanos y Organización y el Manual del Servicio Profesional de Carrera", publicados en el Diario Oficial de la Federación del 12 de julio de 2010 y sus reformas; así como las demás disposiciones que se establezcan en la materia por los organismos facultados en la materia.
+
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
 
 ###### Artículo 14.
 
 Para su operación, el Colegio cuenta con la siguiente Estructura Básica:
 
-> <small>[N. DE E. VÉASE ESTRUCTURA ORGÁNICA DE ECOSUR EN EL DOCUMENTO PUBLICADO EN https://sitios.ecosur.mx/normateca/archivo-name/estatuto-organico-2021-aprobado/, PÁGINA 8.]</small>
+> <small>[N. DE E. VÉASE ESTRUCTURA ORGÁNICA DE ECOSUR EN EL DOCUMENTO PUBLICADO EN www.dof.gob.mx/2024/CONAHCYT/Estatuto-Organico.pdf, PÁGINA 8.]</small>
 
-### Capítulo III. Unidades Administrativas
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
+
+### Capítulo III. Unidades Administrativas. (REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
 
 ###### Artículo 15.
 
@@ -292,6 +328,8 @@ X. Departamento de Adquisiciones y Obra Pública;
 XI. Departamento de Activo Fijo y Patrimonio;
 
 XII. Titular del Órgano Interno de Control.
+
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
 
 ###### Artículo 16.
 
@@ -375,6 +413,8 @@ XXXVIII. Las demás que le delegue la Junta de Gobierno, las que deriven del dec
 
 La Dirección General se auxiliará de la Dirección de Administración y de las áreas que considere pertinentes para el buen funcionamiento del Colegio contempladas en el manual de organización de ECOSUR.
 
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
+
 ###### Artículo 17.
 
 La Dirección de Administración tendrá las siguientes atribuciones:
@@ -431,6 +471,8 @@ XXV. Las demás que le atribuyan las disposiciones jurídicas y administrativas 
 
 La Dirección de Administración se auxiliará de las subdirecciones de Recursos Materiales y Servicios Generales, Recursos Humanos, las jefaturas de Departamento de Programación y Presupuesto, Contabilidad, Tesorería, y los Departamentos Administrativos de Unidad (San Cristóbal, Tapachula, Villahermosa, Chetumal y Campeche).
 
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
+
 ###### Artículo 18.
 
 La Subdirección de Recursos Materiales y Servicios Generales tendrá las siguientes atribuciones:
@@ -481,6 +523,8 @@ XXII. Realizar las demás actividades que le sean encomendadas por la Dirección
 
 La Subdirección de Recursos Materiales y Servicios Generales se auxiliará del Departamento de Adquisiciones y Obra Pública y del Departamento de Activo Fijo y Patrimonio y de la persona responsable de Archivos de Concentración.
 
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
+
 ###### Artículo 19.
 
 La Subdirección (sic) Recursos Humanos tendrá las siguientes atribuciones:
@@ -510,6 +554,8 @@ XI. Coordinar y supervisar la atención en tiempo y forma de los requerimientos 
 XII. Atender y dar seguimiento a las solicitudes de acceso a la información y de protección de datos personales, que en el ámbito de su competencia requiera la Unidad de Transparencia, así como participar en las sesiones del Comité de Transparencia cuando sea solicitado; asimismo, deberá dar cumplimiento a la normatividad establecida que (sic) en materia de Transparencia, Rendición de Cuentas, Acceso a la Información, Protección de Datos Personales y Archivo;
 
 XIII. Realizar las demás actividades que le sean encomendadas por la Dirección de Administración, las que le atribuyan las disposiciones jurídicas y administrativas aplicables, así como la normatividad interna del Colegio necesaria para el desarrollo de sus funciones.
+
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
 
 ###### Artículo 20.
 
@@ -552,6 +598,8 @@ XVII. Atender y dar seguimiento a las solicitudes de acceso a la información y 
 XVIII. Ejecutar y administrar el presupuesto asignado al SIBE en el ámbito del sistema de centros públicos de investigación del CONACYT;
 
 XIX. Realizar las demás actividades que le sean encomendadas por la Dirección General, a través de la Coordinación General Académica, las que le atribuyan las disposiciones jurídicas y administrativas aplicables, así como la normatividad interna del Colegio necesaria para el desarrollo de sus funciones.
+
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
 
 ###### Artículo 21.
 
@@ -601,6 +649,8 @@ XXI. Coordinar y supervisar las labores del personal de su área, evaluar su des
 
 XXII. Realizar las demás actividades que le sean encomendadas por la Dirección de Administración, y la Coordinación de Unidad, las que le atribuyan las disposiciones jurídicas y administrativas aplicables, así como la normatividad interna del Colegio necesaria para el desarrollo de sus funciones;
 
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
+
 ###### Artículo 22.
 
 El Departamento de Programación y Presupuesto tendrá las siguientes atribuciones:
@@ -643,6 +693,8 @@ XVIII. Atender y dar seguimiento a las solicitudes de acceso a la información y
 
 XIX. Realizar todas aquellas actividades encomendadas por la Dirección de Administración, las que le atribuyan las disposiciones jurídicas y administrativas aplicables, así como la normatividad interna del Colegio necesaria para el desarrollo de sus funciones.
 
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
+
 ###### Artículo 23.
 
 El Departamento de Contabilidad tendrá las siguientes atribuciones:
@@ -677,6 +729,8 @@ XIV. Coordinar y supervisar las labores del personal de su área, evaluar su des
 
 XV. Realizar las demás actividades que le sean encomendadas por la Dirección de Administración, las demás que le atribuyan las disposiciones jurídicas y administrativas aplicables, así como la normatividad interna del Colegio necesarias para el desarrollo de sus funciones.
 
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
+
 ###### Artículo 24.
 
 El Departamento de Tesorería tendrá las siguientes atribuciones:
@@ -710,6 +764,8 @@ XIII. Atender y dar seguimiento a las solicitudes de acceso a la información y 
 XIV. Coordinar y supervisar las labores del personal de su área, evaluar su desempeño e identificar sus necesidades de capacitación, así como guiar sus programas de trabajo hacia la consecución de metas y objetivos institucionales;
 
 XV. Realizar las demás actividades que le sean encomendadas por la Dirección de Administración, las demás que le atribuyan las disposiciones jurídicas y administrativas aplicables, así como la normatividad interna del Colegio necesarias para el desarrollo de sus funciones;
+
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
 
 ###### Artículo 25.
 
@@ -755,6 +811,8 @@ XIX. Atender al personal de auditoría y dar seguimiento, a las sugerencias y ob
 
 XX. Realizar las demás actividades que le sean encomendadas por la Subdirección de Recursos Materiales y Servicios Generales, las demás que le atribuyan las disposiciones jurídicas y administrativas aplicables, así como la normatividad interna del Colegio necesaria para el desarrollo de sus funciones.
 
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
+
 ###### Artículo 26.
 
 El Departamento de Activo Fijo y Patrimonio tendrá las siguientes atribuciones:
@@ -783,27 +841,41 @@ XI. Coordinar y supervisar las labores del personal de su área, evaluar su dese
 
 XII. Realizar las demás actividades que le sean encomendadas por la Subdirección de Recursos Materiales y Servicios Generales, las demás que le atribuyan las disposiciones jurídicas y administrativas aplicables, así como la normatividad interna del Colegio necesaria para el desarrollo de sus funciones;
 
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
+
 ###### Artículo 27.
 
 Las Unidades Administrativas se apoyarán del personal adscrito a cada una de estas para el desarrollo de sus actividades y sus funciones deberán ser establecidas en cada área.
+
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
 
 ###### Artículo 28.
 
 Los titulares de las unidades administrativas hasta el nivel de subdirección, en concordancia con la Ley Federal de Entidades Paraestatales, serán nombrados o removidos por el Órgano de Gobierno a propuesta de la Dirección General del Colegio. Los pagos retroactivos por ocupación de estas plazas, cuando procedan, solamente podrán comprender hasta 45 días naturales anteriores a la fecha en que el servidor público correspondiente reciba su nombramiento. Lo anterior, siempre y cuando se acredite fehacientemente la asistencia y desempeño del servicio durante dicho periodo en la plaza respectiva.
 
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
+
 ###### Artículo 29.
 
 La Dirección General acordará los nombramientos, contratos y remociones de los servidores públicos adscritos a las unidades administrativas para que el Colegio cumpla con su objeto, de acuerdo con lo establecido en la normatividad aplicable en materia de servicios personales.
+
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
 
 ###### Artículo 30.
 
 Durante las ausencias temporales de la persona que sea titular de la Dirección General del Colegio, el despacho y resolución de los asuntos, quedará a cargo de la Coordinación General Académica y en ausencia de ésta, de quien ocupe la titularidad de la Dirección de Administración.
 
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
+
 ###### Artículo 31.
 
 El Titular del Órgano Interno de Control será designado por la Secretaría de la Función Pública y tendrá las atribuciones que se señalan en el Reglamento Interior de la Secretaría de la Función Pública y en los demás ordenamientos legales y administrativos aplicables.
 
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
+
 ## TÍTULO III. DE LOS ÓRGANOS CONSULTIVOS
+
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
 
 ###### Artículo 32.
 
@@ -815,6 +887,8 @@ b. La Comisión Dictaminadora Externa;
 
 c. El Consejo Técnico Consultivo Interno.
 
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
+
 ###### Artículo 33.
 
 El Comité Externo de Evaluación (CEE) es un órgano de carácter consultivo y de apoyo a la Junta de Gobierno que tiene como función principal evaluar las actividades sustantivas del Colegio.
@@ -822,6 +896,8 @@ El Comité Externo de Evaluación (CEE) es un órgano de carácter consultivo y 
 Los integrantes del CEE deberán gozar de reconocido prestigio y tener amplia experiencia en el ámbito de las actividades del Colegio. Serán designados por la Junta de Gobierno a propuesta de la Dirección General del CONACYT y el desempeño de su cargo será honorifico.
 
 La Dirección General del Colegio someterá a aprobación de su Junta de Gobierno los lineamientos del CEE.
+
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
 
 ###### Artículo 34.
 
@@ -831,23 +907,33 @@ Los integrantes de la CDE deberán gozar de reconocido prestigio y tener amplia 
 
 La Dirección General del Colegio someterá a la aprobación de su Junta de Gobierno el Marco Operativo de esta comisión.
 
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
+
 ###### Artículo 35.
 
 El Consejo Técnico Consultivo Interno (CTCI) es un órgano colegiado interno de carácter académico, encargado de asesorar a la Dirección General del Colegio en lo relativo a las actividades de docencia, investigación, desarrollo tecnológico, vinculación y difusión de sus resultados en las materias que ésta le encomiende.
 
 La integración, funciones, operación y designación de los miembros de CTCI se establecerán en su Reglamento Interno; la Dirección General del Colegio someterá a aprobación de su Junta de Gobierno el Reglamento Interno de este Consejo.
 
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
+
 ## TÍTULO IV. DE LA ORGANIZACIÓN ACADÉMICA Y SUSTANTIVA
+
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
 
 ###### Artículo 36.
 
 La Dirección General se auxiliará de las áreas académicas y sustantivas con la finalidad de cumplir el objeto del Colegio. La organización académica y sus funciones, se establecerá en el Manual de Organización de El Colegio de la Frontera Sur, que para tal efecto emita la Dirección General en ejercicio de sus facultades.
+
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
 
 ###### Artículo 37.
 
 El personal científico y tecnológico, de todos los niveles tendrá las atribuciones y obligaciones establecidas en la Ley de Ciencia y Tecnología y tienen carácter de personas servidoras públicas, debiendo sujetarse al presente Estatuto y en lo general a todos los ordenamientos que resulten procedentes.
 
 ## TRANSITORIOS
+
+(REPUBLICADO, D.O.F. 20 DE FEBRERO DE 2024)
 
 PRIMERO. El presente Estatuto Orgánico entrará en vigor a partir de la autorización por parte de la Junta de Gobierno y su publicación en la página electrónica de ECOSUR.
 
