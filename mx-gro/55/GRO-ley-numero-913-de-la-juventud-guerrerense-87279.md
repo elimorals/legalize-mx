@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-913-de-la-juventud-guerrerense-87279"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-13"
-last_updated: "2012-03-13"
+last_updated: "2024-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 913 DE LA JUVENTUD GUERRERENSE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 688 DE PERSONAS JÓVENES DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 20 DE FEBRERO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY NÚMERO 913 DE LA JUVENTUD GUERRERENSE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2024 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 13 de marzo de 2012.
 
@@ -742,3 +744,19 @@ LA SECRETARIA DE LA JUVENTUD.
 LIC. GISELA ORTEGA MORENO.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 688 DE PERSONAS JÓVENES DEL ESTADO DE GUERRERO".]
+
+PRIMERO.- La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- A partir de la entrada en vigor de la presente ley, se abroga la Ley Número 913 de la Juventud Guerrerense.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan la presente Ley.
+
+CUARTO.- Remítase la Ley a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero para los efectos legales conducentes.
+
+QUINTO.- Publíquese la presente Ley para el reconocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
