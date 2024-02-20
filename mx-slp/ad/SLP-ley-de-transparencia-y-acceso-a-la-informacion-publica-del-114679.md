@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2023-09-29"
+last_updated: "2024-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -199,7 +199,7 @@ XXX. Resolución: la decisión fundada y motivada dictada por el Pleno, que deci
 
 XXXI. Servidores públicos: los mencionados en el artículo 124 de la Constitución Política del Estado de San Luis Potosí;
 
-XXXII. SEDA: el Sistema Estatal de Documentación y Archivos dependiente de la CEGAIP;
+XXXII. (DEROGADA, P.O. 20 DE FEBRERO DE 2024)
 
 XXXIII. Sistema Nacional: el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
@@ -523,9 +523,9 @@ III. Cumplir y difundir los lineamientos y criterios técnicos que emita el Sist
 
 IV. Conocer y resolver las denuncias que se interpongan en ejercicio de la acción de protección de datos personales;
 
-V. Nombrar a la persona Responsable del Sistema Estatal de Documentación y Archivos, en términos de la Ley en la materia;
+V. (DEROGADA, P.O. 20 DE FEBRERO DE 2024)
 
-VI. Recibir el Plan Anual de Trabajo del SEDA y su Programa Operativo Anual, para ser considerados en el proyecto del presupuesto de egresos de la CEGAIP; así como el Informe Anual de actividades del Sistema Estatal de Documentación y Archivos, en el mes de septiembre, para su integración al informe anual de actividades de la CEGAIP;
+VI. (DEROGADA, P.O. 20 DE FEBRERO DE 2024)
 
 VII. Establecer las normas y políticas para la administración, seguridad y resguardo de los datos personales, en protección de los sujetos obligados;
 
@@ -571,7 +571,9 @@ XXIV. Realizar reuniones o foros anuales, de carácter público, para discutir y
 
 XXV. Vigilar y requerir el cumplimiento de lo dispuesto en los artículos 84 a 96 de la presente Ley, en materia de información que deba difundirse de oficio;
 
-XXVI. Promover la capacitación, actualización y habilitación de los servidores públicos, responsables de atender las solicitudes de acceso a la información, de la acción de protección de datos personales, de archivo y sistematización; desarrollar programas de difusión y educación cívica; y establecer convenios de cooperación con el propósito de hacer más eficaz y eficiente el desempeño de las funciones asignadas por esta Ley;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2024)</small>
+
+XXVI. Promover la capacitación, actualización y habilitación de los servidores públicos, responsables de atender las solicitudes de acceso a la información, y de la acción de protección de datos personales; desarrollar programas de difusión y educación cívica; y establecer convenios de cooperación con el propósito de hacer más eficaz y eficiente el desempeño de las funciones asignadas por esta Ley;
 
 > <small>(ADICIONADA, P.O. 19 DE JULIO DE 2023)</small>
 
@@ -881,13 +883,13 @@ Las sesiones ordinarias se verificarán, cuando menos, una cada dos meses. Las s
 
 Para las sesiones extraordinarias bastará a que el Presidente del Consejo o por lo menos tres de los consejeros emitan convocatoria respectiva.
 
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 20 DE FEBRERO DE 2024)</small>
+
 #### Sección Quinta. Del Sistema Estatal de Documentación y Archivos
 
 ###### ARTÍCULO 50.
 
-El Sistema Estatal de Documentación y Archivos, llevará a cabo las acciones que determine el Pleno en la materia que le compete conforme a los objetivos y atribuciones previstas en esta Ley, así como en la Ley de Archivos del Estado de San Luis Potosí; y conforme al ordenamiento que refiere la fracción XXIX-T del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
-
-El tratamiento de los archivos se hará conforme a los ordenamientos que refiere el párrafo anterior.
+(DEROGADO, P.O. 20 DE FEBRERO DE 2024)
 
 ### Capítulo II. De los Responsables en Cada Sujeto Obligado
 
@@ -991,7 +993,7 @@ Las unidades de transparencia contarán con el presupuesto, personal, apoyo téc
 
 ###### ARTÍCULO 57.
 
-Las unidades de transparencia establecerán mecanismos de coordinación permanente entre sí, en el marco del Sistema Estatal de Documentación y Archivos y en los términos establecidos por la Ley General, por esta Ley, por la CEGAIP, y por las leyes orgánicas y acuerdos de creación de las entidades correspondientes.
+(DEROGADO, P.O. 20 DE FEBRERO DE 2024)
 
 ###### ARTÍCULO 58.
 
@@ -3378,3 +3380,15 @@ P.O. 29 DE SEPTIEMBRE DE 2023.
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1007.- SE REFORMA DEL ARTÍCULO 34 LA FRACCIÓN XXVI; Y DEROGA DE LOS ARTÍCULOS 3° LA FRACCIÓN XXXII, 34 LAS FRACCIONES V Y VI, DEL TÍTULO SEGUNDO, CAPÍTULO I, LA SECCIÓN QUINTA, LOS ARTÍCULOS 50 Y 57, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto será vigente el día primero de abril de 2024, previa publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. La Junta Gobierno del Archivo General del Estado deberá expedir su Reglamento Interior, para que inicie su vigencia el día primero de abril de 2024.
+
+TERCERO. La Comisión Estatal de Garantía de Acceso a la Información Pública del Estado de San Luis Potosí, deberá entregar al Archivo General del Estado y, al Archivo Histórico del Estado, en su caso, conforme a la competencia de cada uno de éstos, las copias de inventarios de expedientes, así como los documentos de archivo, y demás instrumentos que haya recibido, administrado o generado en ejercicio de su función como autoridad en materia de archivos.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
