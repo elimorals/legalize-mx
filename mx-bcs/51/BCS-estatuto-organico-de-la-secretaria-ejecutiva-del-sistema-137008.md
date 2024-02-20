@@ -4,7 +4,7 @@ identifier: "BCS-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-137008
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-06-20"
-last_updated: "2022-11-22"
+last_updated: "2024-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE FEBRERO DE 2024.
 
 Estatuto publicado en el Número 28 del Boletín Oficial del Estado de Baja California Sur, el jueves 20 de junio de 2019.
 
@@ -69,7 +69,7 @@ III. Comité de Participación Ciudadana: La instancia Local colegiada a que se 
 
 IV. Órgano de Gobierno: Órgano de Gobierno de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, integrado por los miembros del Comité Coordinador y presidido por el presidente del Comité de Participación Ciudadana;
 
-V. (DEROGADA, B.O. 22 NOVIEMBRE DE 2022)
+V. (DEROGADA, B.O. 22 DE NOVIEMBRE DE 2022)
 
 VI. Secretaría Ejecutiva: Secretaría Ejecutiva del Sistema Estatal Anticorrupción; órgano de apoyo técnico del Comité Coordinador del Sistema Estatal Anticorrupción, encargado de proveerle asistencia técnica, así como los insumos necesarios para el desempeño de sus atribuciones;
 
@@ -183,9 +183,9 @@ V. Autorizar al Secretario Técnico para que celebre y otorgue toda clase de act
 
 VI. Establecer las políticas generales y definir las prioridades a las que deberá sujetarse la Secretaría Ejecutiva, relativas a su desarrollo tecnológico y administración general;
 
-> <small>(REFORMADA, B.O. 22 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, B.O. 20 DE FEBRERO DE 2024)</small>
 
-VII. Aprobar la distribución del presupuesto anual y sus modificaciones; así como conocer y aprobar la presentación ante la Auditoria Superior del Estado; de la Cuenta Publica Mensual y Anual, según corresponda;
+VII. Aprobar la distribución del presupuesto anual y sus modificaciones; conocer el contenido de la información financiera mensual y la Cuenta Pública del ejercicio fiscal, presentada por medios electrónicos en los formatos autorizados para ello, conforme a la normatividad aplicable.
 
 VIII. Autorizar de acuerdo con las leyes aplicables, las políticas, bases y programas generales que regulen los convenios, contratos o acuerdos que deba celebrar la Secretaría Ejecutiva con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles.
 
@@ -201,17 +201,17 @@ XIII. Autorizar los perfiles profesionales que deberán cubrir los cargos de Tit
 
 XIV. Analizar y aprobar, en su caso, los informes periódicos que rinda el Secretario Técnico;
 
-> <small>(REFORMADA, B.O. 22 NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, B.O. 22 DE NOVIEMBRE DE 2022)</small>
 
 XV. Conocer anualmente el informe que la Contraloría General del Gobierno del Estado de Baja California Sur; o bien, de auditores externos, hagan respecto a los estados financieros de la Secretaria Ejecutiva; y
 
 Las demás que se le confiera en la Ley del Sistema Anticorrupción del Estado, en la Ley Orgánica de la Administración Pública del Estado, así como en las demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, B.O. 20 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 15.
 
-El Órgano de Gobierno, celebrará 12 sesiones ordinarias por año, además de las extraordinarias que se consideren convenientes para desahogar los asuntos de su competencia.
+El Órgano de Gobierno celebrará por lo menos cuatro sesiones ordinarias por año, además podrá sesionar de forma extraordinaria cuando así se considere conveniente para desahogar los asuntos de su competencia.
 
 ###### ARTÍCULO 16.
 
@@ -694,3 +694,9 @@ Se derogan las disposiciones que se opongan al presente Acuerdo.
 ###### ARTICULO TERCERO.
 
 Las referencias que se hagan en acuerdos, manuales y demás disposiciones administrativas, al Órgano Interno de Control de la Secretaria Ejecutiva del Sistema Estatal Anticorrupción, se entenderán hechas a la Contraloría General del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO NÚMERO ACT-EXT-CC/OG-SEA/08/02/2024.03 MODIFICACIÓN DE LA FRACCIÓN VII DEL ARTÍCULO 14 Y EL ARTÍCULO 15 DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE BAJA CALIFORNIA SUR".]
+
+ÚNICO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
