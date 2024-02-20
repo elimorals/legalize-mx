@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2023-09-08"
+last_updated: "2024-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -1193,7 +1193,7 @@ XX. Organizar, dirigir y controlar los servicios de vigilancia e intendencia de 
 
 XXI. Resolver los conflictos administrativos, cuyo conocimiento le corresponda según lo determinen las leyes;
 
-XXII. Administrar el Archivo General del Estado;
+XXII. (DEROGADA, P.O. 20 DE FEBRERO DE 2024)
 
 XXIII. Coordinar y supervisar, junto con las demás dependencias interesadas, la edición de publicaciones oficiales del Ejecutivo del Estado;
 
@@ -2130,3 +2130,15 @@ P.O. 8 DE SEPTIEMBRE DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1007.- SE REFORMA DEL ARTÍCULO 34 LA FRACCIÓN XXVI; Y DEROGA DE LOS ARTÍCULOS 3° LA FRACCIÓN XXXII, 34 LAS FRACCIONES V Y VI, DEL TÍTULO SEGUNDO, CAPÍTULO I, LA SECCIÓN QUINTA, LOS ARTÍCULOS 50 Y 57, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto será vigente el día primero de abril de 2024, previa publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. La Junta (sic) Gobierno del Archivo General del Estado deberá expedir su Reglamento Interior, para que inicie su vigencia el día primero de abril de 2024.
+
+TERCERO. La Comisión Estatal de Garantía de Acceso a la Información Pública del Estado de San Luis Potosí, deberá entregar al Archivo General del Estado y, al Archivo Histórico del Estado, en su caso, conforme a la competencia de cada uno de éstos, las copias de inventarios de expedientes, así como los documentos de archivo, y demás instrumentos que haya recibido, administrado o generado en ejercicio de su función como autoridad en materia de archivos.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
