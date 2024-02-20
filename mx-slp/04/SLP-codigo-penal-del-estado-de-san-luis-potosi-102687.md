@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2023-12-15"
+last_updated: "2024-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2024.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -297,11 +297,81 @@ Autoría indeterminada.
 
 Cuando varios sujetos, sin concierto alguno, intervengan en la comisión de un delito y no pueda precisarse el daño que cada quien produjo, se impondrá la punibilidad dispuesta en este Código para la autoría indeterminada.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 27.
 
-Responsabilidad de las personas morales.
+Quien actúe como administrador de hecho o de derecho de una persona jurídica, o en nombre o representación legal o voluntaria de otro, responderá personalmente, aunque no concurran en él las condiciones, cualidades o relaciones que el tipo penal requiera para poder ser sujeto activo del mismo, si tales circunstancias se dan en la entidad o persona en cuyo nombre o representación obre.
 
-Para los efectos de este Código, sólo pueden ser penalmente responsables las personas físicas; sin embargo, cuando un miembro o representante de una persona moral, con excepción de las entidades del Estado, cometa algún delito con los medios que para tal objeto la misma entidad le proporciona de modo que resulte cometido a nombre, bajo el amparo o en beneficio de ésta, el juzgador impondrá en la sentencia con audiencia e intervención de representante legal, las consecuencias previstas por este código para las personas morales, sin perjuicio de la responsabilidad en que hubieren incurrido las personas físicas.
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 27 BIS. En los supuestos previstos en este Código, las personas jurídicas serán penalmente responsables:
+
+I. De los delitos cometidos en nombre o por cuenta de las mismas, y en su beneficio directo o indirecto, por sus representantes legales o por quienes actuando individualmente o como integrantes de un órgano de la persona jurídica, están autorizados para tomar decisiones en nombre de la persona jurídica u ostentan facultades de organización y control dentro de la misma, y
+
+II. De los delitos cometidos, en el ejercicio de actividades referentes al objeto social de la persona jurídica y por cuenta y en beneficio directo o indirecto de las mismas, por quienes estando subordinados o sometidos a la autoridad de las personas físicas mencionadas en la fracción anterior, cometan el delito por falta de supervisión, vigilancia y control de la persona jurídica indebidamente organizada, atendidas las concretas circunstancias del caso.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 27 TER. Si el delito fuere cometido por las personas indicadas en la fracción I del artículo 27 Bis, la persona jurídica quedará excluida de responsabilidad si se cumplen las siguientes condiciones:
+
+I. El órgano de administración ha adoptado y ejecutado con eficacia, antes de la comisión del delito, modelos de organización, gestión y prevención que incluyen las medidas de vigilancia y control idóneas y adecuadas para prevenir delitos de la misma naturaleza o para reducir de forma significativa el riesgo de su comisión;
+
+II. La supervisión del funcionamiento y del cumplimiento del modelo de organización, gestión y prevención implantado ha sido confiada a un órgano de la persona jurídica con poderes autónomos de iniciativa y de control o que tenga encomendada legalmente la función de supervisar la eficacia de los controles internos de la persona jurídica;
+
+III. Las o los autores individuales han cometido el delito eludiendo fraudulentamente los modelos de organización y de prevención, y
+
+IV. No se ha producido una omisión o un ejercicio insuficiente de sus funciones de supervisión, vigilancia y control por parte del órgano al que se refiere la condición de la fracción II de este artículo.
+
+En los casos en los que las anteriores condiciones solamente puedan ser objeto de acreditación parcial, esta circunstancia será valorada para los efectos de atenuación de la pena.
+
+En las personas jurídicas que entren en la clasificación de micro y pequeñas empresas, las funciones de supervisión a que se refiere la condición marcada en la fracción II de este artículo, podrán ser asumidas directamente por el órgano de administración. A estos efectos, son personas jurídicas consideradas como micro y pequeñas empresas, aquéllas que estén consideradas así según con su tamaño, en la estratificación emitida por la legislación aplicable vigente.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 27 QUÁTER. Si el delito fuera cometido por las personas indicadas en la fracción II del artículo 27 BIS, la persona jurídica quedará excluida de responsabilidad si, antes de la comisión del delito, ha adoptado y ejecutado eficazmente un modelo de organización, gestión y prevención que resulte idóneo y adecuado para prevenir delitos de la naturaleza del que fue cometido o para reducir de forma significativa el riesgo de su comisión y, además, que los autores individuales han cometido el delito eludiendo fraudulentamente dicho modelo.
+
+En los casos en los que la anterior circunstancia solamente pueda ser objeto de acreditación parcial, será valorada para los efectos de atenuación de la pena.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 27 QUINQUIES. Los modelos de organización, gestión y prevención a que se refiere la fracción III del artículo 27 TER, y el artículo 27 QUÁTER, deberán cumplir los siguientes requisitos:
+
+I. Identificar las actividades en cuyo ámbito puedan ser cometidos los delitos que deben ser prevenidos;
+
+II. Adoptar protocolos o procedimientos que concreten el proceso de formación de la voluntad de la persona jurídica, de adopción de decisiones y de ejecución de las mismas con relación a aquéllos, todo esto para prevenir el delito;
+
+III. Disponer de modelos de gestión de los recursos financieros adecuados para impedir la comisión de los delitos que deben ser prevenidos, así como compromisos de los órganos directivos o de administración para destinar recursos a la prevención de delitos;
+
+IV. Imponer la obligación de informar de posibles riesgos e incumplimientos al organismo encargado de vigilar el funcionamiento y observancia del modelo de prevención;
+
+V. Establecer un sistema disciplinario que sancione adecuadamente el incumplimiento de las medidas de prevención que establezca el modelo, y
+
+VI. Realizar una verificación periódica del modelo y de su eventual modificación cuando se pongan de manifiesto infracciones relevantes de sus disposiciones, o cuando se produzcan cambios en la organización, en la estructura de control o en la actividad desarrollada que los hagan necesarios.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 27 SEXIES. La responsabilidad penal de las personas jurídicas será exigible siempre que se constate la comisión de un delito que haya tenido que cometerse por quien ostente los cargos o funciones aludidas en las fracciones I y II del artículo 27 BIS, aun cuando la concreta persona física responsable no haya sido individualizada o no haya sido posible dirigir el procedimiento contra ella. Cuando como consecuencia de los mismos hechos se impusiere a ambas la pena de multa, los jueces o tribunales modularán las respectivas cuantías, de modo que la suma resultante no sea desproporcionada en relación con la gravedad del delito que se trate.
+
+La concurrencia en las personas que materialmente hayan realizado los hechos o en las que los hubiesen hecho posibles por no haber ejercido el debido control, de circunstancias que afecten a la culpabilidad del acusado o agraven su responsabilidad, o el hecho de que dichas personas hayan fallecido o se hubieren sustraído a la acción de la justicia, no excluirá ni modificará la responsabilidad penal de las personas jurídicas, sin perjuicio de lo que se dispone en el artículo siguiente.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 27 SEPTIES. Sólo podrán considerarse circunstancias atenuantes de la responsabilidad penal de las personas jurídicas haber realizado, con posterioridad a la comisión del delito y a través de sus representantes legales, las siguientes acciones:
+
+I. Haber procedido, antes de conocer que el procedimiento judicial se dirige contra ella, a aceptar su responsabilidad ante las autoridades investigadoras;
+
+II. Haber colaborado en la investigación del hecho aportando pruebas, en cualquier momento del proceso, que fueran nuevas y decisivas para esclarecer las responsabilidades penales dimanantes de los hechos;
+
+III. Haber procedido en cualquier momento del procedimiento y con anterioridad al auto de apertura a juicio, a reparar o disminuir el daño causado por el delito, y
+
+IV. Haber establecido, antes del auto de apertura a juicio, medidas eficaces para prevenir y descubrir los delitos que en el futuro pudieran cometerse con los medios o bajo la cobertura de la persona jurídica.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 27 OCTIES. Las disposiciones relativas a la responsabilidad penal de las personas jurídicas no serán aplicables al Estado, los Municipios y sus instituciones públicas.
+
+Quedan exceptuados de la responsabilidad de la persona jurídica, las instituciones estatales o municipales, pero cuando aquélla utilice a éstas últimas para cometer un delito será sancionada por el delito o delitos cometidos. Lo anterior también será aplicable a los fundadores, administradores o representantes que se aprovechen de alguna institución estatal o municipal para eludir alguna responsabilidad penal.
 
 ### CAPÍTULO IV. Circunstancias Excluyentes de Responsabilidad Penal
 
@@ -855,23 +925,73 @@ Prohibir al sentenciado se comunique por cualquier medio, por si o por interpós
 
 ### CAPÍTULO III. Consecuencias Jurídicas para las Personas Morales
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 70.
 
-Catálogo de consecuencias jurídicas
+Catálogo de consecuencias jurídicas para las personas morales.
 
-Las consecuencias jurídicas accesorias aplicables a las personas morales que se encuentran en los supuestos previstos en el artículo 27 de este código son:
+A las personas morales que se encuentran en los supuestos previstos en el artículo 27 BIS de este Código, podrá imponérseles una o varias de las siguientes consecuencias jurídicas:
 
-I. Suspensión. Consiste en la cesación de la actividad de la persona moral durante el tiempo que determine la autoridad judicial, la cual no podrá exceder de dos años;
+I. Clausura de sus locales o establecimientos;
 
-II. Disolución y liquidación. Consiste en la conclusión y liquidación definitiva de toda actividad social de la persona moral; además de la imposibilidad de constituir una nueva sociedad con el mismo objeto social e integrantes; mediante los procedimientos que establece la Ley General de Sociedades Mercantiles;
+II. Suspensión. Consiste en la cesación de la actividad de la persona moral durante el tiempo que determine la autoridad judicial, la cual no podrá exceder de dos años;
 
-III. Prohibición de realizar determinados negocios u operaciones. Se refiere exclusivamente a los que determine la autoridad judicial, que deberán tener relación directa con el delito cometido, y podrá ser hasta por cinco años.;
+III. Disolución y liquidación. Consiste en la conclusión y liquidación definitiva de toda actividad social de la persona moral; además de la imposibilidad de constituir una nueva sociedad con el mismo objeto social e integrantes;
 
-IV. Remoción. Consiste en la sustitución de los administradores por uno designado por la autoridad judicial, durante un período máximo de tres años, y
+IV. Prohibición de realizar determinados negocios u operaciones. Se refiere exclusivamente a los que determine la autoridad judicial, que deberán tener relación directa con el delito cometido, y podrá ser hasta por cinco años;
 
-V. Intervención de administración, y caja. Consiste en la vigilancia de las funciones que realizan los órganos de representación de la persona moral, hasta por tres años.
+V. Inhabilitación temporal consistente en la suspensión de derechos para participar de manera directa o por interpósita persona en procedimientos de contratación del sector público, y podrá ser hasta por cinco años,
 
-En los casos señalados en las fracciones II y V, se observará el procedimiento establecido en las leyes de la materia.
+VI. Remoción. Consiste en la sustitución de los administradores por uno designado por la autoridad judicial, durante un período máximo de tres años, y
+
+VII. Intervención de administración, y caja. Consiste en la vigilancia de las funciones que realizan los órganos de representación de la persona moral, hasta por tres años.
+
+En los casos señalados en las fracciones III y VII, se observará el procedimiento establecido en las leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 70 BIS. Para los efectos de lo previsto en el artículo 422 del Código Nacional de Procedimientos Penales, a las personas jurídicas se les podrá imponer una o varias penas o medidas de seguridad, cuando hayan sido declaradas responsables penalmente respecto de alguno o algunos de los siguientes delitos previstos en los artículos correspondientes de este Código:
+
+I. Homicidio;
+
+II. Lesiones;
+
+III. Privación ilegal de la libertad;
+
+IV. Robo;
+
+V. Abuso de confianza;
+
+VI. Fraude;
+
+VII. Extorsión;
+
+VIII. Usura;
+
+IX. Despojo;
+
+X. Daño en las cosas;
+
+XI. Delitos contra el ambiente, gestión ambiental, desarrollo territorial sustentable, y maltrato a animales domésticos y silvestres;
+
+XII. Falsificación de documentos;
+
+XIII. Corrupción de Menores;
+
+XIV. Uso ilícito de atribuciones y facultades;
+
+XV. Cohecho;
+
+XVI. Peculado;
+
+XVII. Tráfico de influencias;
+
+XVIII. Desobediencia a un mandato legítimo de autoridad;
+
+XIX. Quebrantamiento de sellos, y
+
+XX. En los demás casos expresamente previstos en la legislación aplicable.
 
 ###### ARTÍCULO 71.
 
@@ -2729,7 +2849,13 @@ III. El hecho de encontrarse una cosa perdida y no entregarla a su dueño, sabie
 
 IV. El apoderamiento material de documentos, datos o información contenidos en computadoras, o el aprovechamiento o utilización de dichos datos, sin derecho y sin el consentimiento de la persona que legalmente pueda disponer de los mismos;
 
-V. La posesión, compra, adquisición o comercialización de cualquier forma, de objetos o productos robados, a sabiendas de esta circunstancia, y
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2024)</small>
+
+V. La posesión, desmantelamiento, traslado, uso, ocultamiento, compra, adquisición, comercialización de cualquier forma de equipamiento o mobiliario urbano, de objetos o productos robados, a sabiendas de esta circunstancia.
+
+Para los efectos de este Código, se entiende por equipamiento urbano: el conjunto de inmuebles, instalaciones, construcciones y mobiliario urbano, destinados a prestar a la población servicios públicos de: administración pública, cultura; comercio, salud y asistencia; deporte, recreación, traslado, transporte y otros, para satisfacer sus necesidades y su bienestar.
+
+Para los efectos de este Código, se entiende por mobiliario urbano: los objetos complementarios al equipamiento urbano, ya sean fijos, móviles, permanentes o temporales, ubicados en la vía pública o en espacios públicos, los que, según su función, se aplican para el descanso, comunicación, información, necesidades fisiológicas, comercio, seguridad, higiene, servicio, jardinería. Tales como basureros, semáforos, bancas, juegos infantiles, fuentes, luminarias rejillas, coladeras y cualquier derivado de aleación metálica, y otros similares, y
 
 VI. El apoderamiento o uso indebido de tarjetas de crédito o débito, expedidas por instituciones bancarias o de cualquier otra naturaleza, o de títulos de crédito o documentos auténticos que sirvan para el pago de bienes o servicios, o para obtener dinero en efectivo sin el consentimiento de quien tenga derecho a disponer de tal instrumento y con el que el sujeto activo pueda obtener un beneficio económico en detrimento de alguien.
 
@@ -2835,23 +2961,27 @@ XI. Se cometa empleando excavaciones, túneles, llaves falsas, ganzúas, alambre
 
 XII. El objeto del apoderamiento sea cable de cobre, aluminio, acero, níquel, o cualquier otro material que conduzca energía eléctrica, agua, o gas, y que estén destinados a la prestación de un servicio público o privado;
 
-XIII. Se cometa con el empleo de cualquier medio para abrir cajas fuertes;
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2024)</small>
 
-XIV. Se cometa aprovechando las condiciones de confusión respecto de los bienes de personas heridas;
+XIII. El objeto del apoderamiento sea equipamiento o mobiliario urbano;
 
-XV. Se cometa en el interior de una unidad del servicio público de transporte de pasajeros o de cualquiera que preste similar;
+XIV. Se cometa con el empleo de cualquier medio para abrir cajas fuertes;
+
+XV. Se cometa aprovechando las condiciones de confusión respecto de los bienes de personas heridas;
+
+XVI. Se cometa en el interior de una unidad del servicio público de transporte de pasajeros o de cualquiera que preste similar;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 15 DE JUNIO DE 2023)</small>
 
-XVI. Se cometa utilizando de cualquier forma una unidad del servicio público de transporte de pasajeros o de cualquiera que preste un servicio similar;
+XVII. Se cometa utilizando de cualquier forma una unidad del servicio público de transporte de pasajeros o de cualquiera que preste un servicio similar;
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2023)</small>
 
-XVII. El objeto robado sea un vehículo de motor;
+XVIII. El objeto robado sea un vehículo de motor;
 
 > <small>(ADICIONADO [N. DE E. REFORMADO ESTE PÁRRAFO], P.O. 15 DE JUNIO DE 2023)</small>
 
-XVIII. Se cometa en la vía pública, o espacios abiertos que permitan el acceso al público.
+XIX. Se cometa en la vía pública, o espacios abiertos que permitan el acceso al público.
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2023)</small>
 
@@ -2859,7 +2989,7 @@ Para los efectos de esta fracción se considera vía pública: calles, banquetas
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2023)</small>
 
-XIX. El objeto del apoderamiento sea maquinaria, insumos o equipos para la engorda de ganado o la producción de leche; alimento para ganado; insumos o equipo agrícola; forestal o frutícola, cometido en la huerta, parcela, heredad, sembradío, invernadero o en cualquier otro lugar, dentro del inmueble en que se realice la actividad agrícola, forestal o frutícola.
+XX. El objeto del apoderamiento sea maquinaria, insumos o equipos para la engorda de ganado o la producción de leche; alimento para ganado; insumos o equipo agrícola; forestal o frutícola, cometido en la huerta, parcela, heredad, sembradío, invernadero o en cualquier otro lugar, dentro del inmueble en que se realice la actividad agrícola, forestal o frutícola.
 
 > <small>(REFORMADO, P.O. 27 DE MARZO DE 2023)</small>
 
@@ -5768,5 +5898,21 @@ P.O. 15 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0894.- SE REFORMAN LOS ARTÍCULOS 205 EN SUS PÁRRAFOS: PRIMERO Y TERCERO Y 207; Y ADICIONA AL ARTÍCULO 205, EL PÁRRAFO CUARTO CON LOS INCISOS A) A F) Y EL PÁRRAFO SEXTO AL MISMO ARTÍCULO 205; Y EL ARTÍCULO 205 TER, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1008.- SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 212; Y ADICIONA AL ARTÍCULO 218 UNA FRACCIÓN, ÉSTA COMO XIII, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 4º SUS FRACCIONES XXXIX Y LVI Y 301, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1009.- SE REFORMAN LOS ARTÍCULOS 27 Y 70; Y ADICIONA LOS ARTÍCULOS 27 BIS, 27 TER, 27 QUÁTER, 27 QUINQUIES, 27 SEXIES, 27 SEPTIES, 27 OCTIES Y 70 BIS, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a los treinta días hábiles siguiente (sic) a su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
