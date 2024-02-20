@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-129830"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-17"
-last_updated: "2023-12-18"
+last_updated: "2024-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 17 de julio de 2018.
 
@@ -241,7 +241,9 @@ XXXVII. Dirección Municipal: la Dirección de Desarrollo Urbano o la que haga s
 
 XXXVIII. Director responsable de obra DRO: son los profesionales auxiliares de la administración municipal que facultados por la Ley, y avalados por la Comisión Estatal de Admisión, Evaluación y Certificación de Directores Responsables de Obra y Especialistas Corresponsables, tienen la capacidad para asumir la responsabilidad técnica para elaborar o revisar los proyectos, promover su autorización, supervisar las obras de edificación y urbanización, avalando que estas cumplan con lo establecido por esta Ley, los programas de ordenamiento territorial y desarrollo urbano y reglamentos de la materia;
 
-XXXIX. Equipamiento urbano: conjunto de inmuebles, instalaciones, construcciones y mobiliario utilizado para prestar a la población los servicios urbanos y desarrollar las actividades institucionales educativas, culturales, de salud, asistencia social, deportivas, recreativas, de comunicaciones, transporte, abasto y comercio;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2024)</small>
+
+XXXIX. Equipamiento urbano: el conjunto de inmuebles, instalaciones, construcciones, destinados a prestar a la población servicios públicos de: administración pública, educación, cultura; comercio, salud y asistencia; deporte, recreación, traslado, transporte, comunicación, y otros, para satisfacer sus necesidades y su bienestar;
 
 XL. Espacio público: áreas o predios destinados al uso, disfrute o aprovechamiento colectivo de acceso generalizado y libre tránsito; Son esenciales para el acceso a la cultura, la convivencia urbana, la cohesión social y para garantizar la movilidad, sustentabilidad, equidad y el sentido incluyente y democrático de las ciudades, que define el derecho a la ciudad;
 
@@ -275,7 +277,9 @@ LIV. Medidas de seguridad: adopción y ejecución de las acciones preventivas qu
 
 LV. Mejoramiento: acción dirigida a reordenar, regularizar, restaurar o renovar las zonas de un centro de población de incipiente desarrollo o deterioradas física o funcionalmente;
 
-LVI. Mobiliario Urbano: conjunto de instalaciones en la vía pública que complementan al equipamiento de las ciudades, tales como basureros, casetas telefónicas, semáforos, bancas, juegos infantiles, fuentes y otros;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2024)</small>
+
+LVI. Mobiliario urbano: los objetos complementarios al equipamiento urbano, ya sean fijos, móviles, permanentes o temporales, ubicados en la vía pública o en espacios públicos, los que, según su función, se aplican para el descanso, comunicación, información, necesidades fisiológicas, comercio, seguridad, higiene, servicio, jardinería. Tales como basureros, semáforos, bancas, juegos infantiles, fuentes, luminarias rejillas, cables, coladeras y cualquier derivado de aleación metálica, y otros similares, y
 
 LVII. Movilidad: capacidad, facilidad y eficiencia de tránsito o desplazamiento de las personas y bienes en el territorio, priorizando la accesibilidad universal, así como la sustentabilidad de la misma;
 
@@ -4651,19 +4655,29 @@ Una vez otorgada la licencia de uso de suelo, si se detectara a través del proc
 
 Los ayuntamientos supervisarán e inspeccionarán la ejecución de los proyectos y vigilarán en todo tiempo que las obras públicas, privadas y demás actividades estén de acuerdo con los respectivos lineamientos señalados en la legislación correspondiente, en los programas de desarrollo urbano y ordenamiento del territorio y en las licencias de uso de suelo.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 301.
 
-El Ayuntamiento respectivo, procederá a la revocación de la licencia de uso de suelo, en los siguientes casos:
+El Ayuntamiento respectivo, revocará la licencia de uso de suelo, en los siguientes casos:
 
-I. Cuando el titular de una licencia vigente no hubiese dado aviso al Ayuntamiento de un uso o destino del suelo diferente al autorizado para el respectivo predio;
+I. Cuando la persona titular de una licencia vigente no hubiese dado aviso al Ayuntamiento de un uso o destino del suelo diferente al autorizado para el respectivo predio;
 
-II. Cuando se hayan modificado las intensidades máximas de población, de ocupación y de utilización del predio o las restricciones o limitaciones que consten en la misma o no se hubieren observado éstas últimas por el titular de la constancia;
+II. Cuando se hayan modificado las intensidades máximas de población, de ocupación, y de utilización del predio¸ o las restricciones, o limitaciones que consten en la misma, o no se hubieren observado estas últimas por la persona titular de la constancia;
 
-III. En aquellos casos en que el Ayuntamiento o la Secretaría de Ecología y Gestión Ambiental, cuando así proceda, detecten mediante los procedimientos previstos en esta Ley o en el ordenamiento que resulte aplicable, que no se dio cumplimiento a cualesquiera de las condicionantes establecidas en la constancia original y dentro de los plazos previstos en la misma, y
+III. Cuando el Ayuntamiento o la Secretaría de Ecología y Gestión Ambiental, según sea el caso, detecten mediante los procedimientos previstos en esta Ley, o en el ordenamiento que resulte aplicable, que no se dio cumplimiento a cualesquiera de las condicionantes establecidas en la constancia original y dentro de los plazos previstos en la misma;
 
-IV. Cuando se advierta falsedad de datos en la información presentada ante la autoridad.
+IV. Cuando se advierta falsedad de datos en la información presentada ante la autoridad;
 
-En el caso de la fracción IV, la revocación se llevará a cabo sin perjuicio del ejercicio de la acción penal que pudiera derivarse de la actividad emprendida. Para los efectos de este artículo se requerirá la denuncia del Ayuntamiento respectivo.
+V. Cuando se contravengan los supuestos establecidos en el artículo 271 de esta Ley;
+
+VI. Cuando aquellos establecimientos o negocios que dentro de sus giros compren, vendan, trabajen y/o utilicen con conocimiento de causa, equipamiento o mobiliario urbano que provenga o haya sido adquirido derivado de un hecho ilícito, y
+
+VII. Las demás aplicables en las leyes y reglamentos vigentes.
+
+En el caso de la fracción IV, la revocación se llevará a cabo sin perjuicio del ejercicio de la acción penal que pudiera derivarse de la actividad emprendida. Para los efectos de la fracción IV se requerirá la denuncia del Ayuntamiento respectivo.
+
+En el supuesto de la fracción VI, y después de ser confirmado previo informe el resultado de las visitas e inspecciones por parte del Municipio, se dará cuenta a la autoridad competente para proceder conforme el Código Penal del Estado y demás ordenamientos en la materia.
 
 ###### ARTÍCULO 302.
 
@@ -7044,3 +7058,13 @@ P.O. 18 DE DICIEMBRE DE 2023.
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1008.- SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 212; Y ADICIONA AL ARTÍCULO 218 UNA FRACCIÓN, ÉSTA COMO XIII, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 4º SUS FRACCIONES XXXIX Y LVI Y 301, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Los municipios del Estado en el término de 45 días hábiles deberán modificar sus reglamentos internos en materia de visitas e inspecciones periódicas obligatorias a las instalaciones de los establecimientos que cuenten con el giro de reciclaje y recolección de chatarra, aplicando en su caso, las disposiciones que con este Decreto se expide.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
