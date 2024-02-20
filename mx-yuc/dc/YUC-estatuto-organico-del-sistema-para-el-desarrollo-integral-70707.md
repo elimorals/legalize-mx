@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-sistema-para-el-desarrollo-integral-70707
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-10-28"
-last_updated: "2009-10-28"
+last_updated: "2024-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # ESTATUTO ORGANICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA EN YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA EN YUCATÁN, PUBLICADO EN EL D.O. DE 20 DE FEBRERO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGANICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA EN YUCATAN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE FEBRERO DE 2024 (ABROGADO).
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el miércoles 28 de octubre de 2009.
 
@@ -734,3 +736,23 @@ En la ciudad de Mérida, capital del Estado de Yucatán, Estados Unidos Mexicano
 DR. TIRZO ROLANDO SUÁREZ SAHUÍ
 
 DIRECTOR GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA EN YUCATÁN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 20 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DIF 18/2024 POR EL QUE SE EXPIDE EL ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA EN YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Abrogación
+
+A partir de la entrada en vigor de este acuerdo, se abroga el Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia en Yucatán, publicado en el Diario
+
+Oficial del Gobierno del Estado de Yucatán el 28 de octubre de 2009.
+
+Tercero. Inscripción en el Registro de Entidades Paraestatales
+
+La persona titular del Sistema para el Desarrollo Integral de la Familia en Yucatán, en un plazo máximo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo, deberá realizar la inscripción de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas.
