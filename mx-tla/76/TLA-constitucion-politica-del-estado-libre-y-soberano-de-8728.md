@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2023-10-31"
+last_updated: "2024-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -600,6 +600,22 @@ II. Votar en las elecciones populares del Estado.
 ###### ARTICULO 24.
 
 Los derechos políticos de los ciudadanos se suspenden por sentencia condenatoria por delito intencional que merezca pena corporal, hasta la extinción de la pena.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2024)</small>
+
+###### ARTICULO 24 Bis.
+
+Sin perjuicio de los requisitos que en cada caso deban cumplirse, conforme a la normatividad que rija la materia, no podrá ser electa o designada, para ocupar algún cargo público, o para ejercer algún empleo o comisión en los poderes públicos del Estado, en los gobiernos municipales o en los órganos autónomos, la persona que:
+
+I. Mediante sentencia firme, sea declarada responsable de violencia familiar o doméstica, o de violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
+
+II. A través de sentencia firme, sea condenada por la comisión de algún delito contra la vida y la integridad corporal; contra la libertad y la seguridad sexual y el normal desarrollo psicosexual, o contra la intimidad sexual; y
+
+III. Por medio de resolución firme, haya sido declarada deudora alimentaria y se encuentre en mora en el cumplimiento de su obligación alimentaria o esté inscrita, con registro vigente, en algún padrón de personas deudoras alimentarias; salvo que acredite estar al corriente en el pago, pague en su totalidad la deuda o garantice su cumplimiento, por alguno de medios establecido en la ley.
+
+Los impedimentos establecidos en las fracciones I y II del párrafo anterior durarán el tiempo por el que se imponga la condena penal respectiva.
+
+Si la resolución a que se refiere la fracción I del párrafo primero de este artículo se dictara por una autoridad diversa a la jurisdiccional en materia penal, el impedimento se mantendrá por un lapso de tres años, contados a partir del día siguiente a que quede firme.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2015)</small>
 
@@ -4150,6 +4166,24 @@ En términos de lo previsto por el artículo 120 párrafo primero de la Constitu
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que contravengan el contenido de este Decreto.
+
+P.O. 20 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 278.- SE ADICIONA UN ARTÍCULO 24 BIS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+En términos de lo previsto por el artículo 120 párrafo primero de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos de los municipios del Estado de Tlaxcala, para los efectos conducentes.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Sin perjuicio de lo anterior, los impedimentos establecidos en este Decreto, con relación a la acreditación (sic) los requisitos de elegibilidad, para ser candidata o candidato a algún cargo de elección popular, deberán observarse a partir del día uno de septiembre del año dos mil veinticuatro.
 
 ###### ARTÍCULO TERCERO.
 
