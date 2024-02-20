@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-archivos-para-el-estado-de-san-luis-potosi-143929"
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-19"
-last_updated: "2023-01-06"
+last_updated: "2024-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE ARCHIVOS PARA EL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE ARCHIVOS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 19 de junio de 2020.
 
@@ -35,7 +37,7 @@ La Sexagésima Segunda Legislatura Constitucional del Estado Libre y Soberano de
 
 EXPOSICIÓN DE MOTIVOS
 
-[…]
+[...]
 
 ÚNICO. Se EXPIDE la Ley de Archivos para el Estado de San Luis Potosí, para quedar como sigue
 
@@ -45,9 +47,11 @@ LEY DE ARCHIVOS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 1°.
 
-La presente Ley es de orden público y de observancia general en todo el Estado de San Luis Potosí, y tiene por objeto establecer los principios y bases generales para la organización y conservación, administración y preservación homogénea de los archivos en posesión de cualquier autoridad, entidad, órgano y organismo del Estado, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad de la entidad federativa y los municipios, así como determinar las bases de organización y funcionamiento del Sistema Estatal de Documentación y Archivos.
+La presente Ley es de orden público y de observancia general en todo el Estado de San Luis Potosí, y tiene por objeto establecer los principios y bases generales para la organización y conservación, administración y preservación homogénea de los archivos en posesión de cualquier autoridad, entidad, órgano y organismo del Estado, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad de la entidad federativa y los municipios, así como determinar las bases de organización y funcionamiento del Sistema Estatal de Archivos.
 
 ###### ARTÍCULO 2°.
 
@@ -93,7 +97,15 @@ IV. Archivo de concentración: al integrado por documentos transferidos desde la
 
 V. Archivo de trámite: al integrado por documentos de archivo de uso cotidiano y necesario para el ejercicio de las atribuciones y funciones de los sujetos obligados;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2024)</small>
+
+V BIS. Archivo General del Estado: al Archivo General del Estado de San Luis Potosí a que se refiere el Título Sexto de esta Ley;
+
 VI. Archivo histórico: al integrado por documentos de conservación permanente y de relevancia para la memoria nacional, regional o local de carácter público;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2024)</small>
+
+VI BIS. Archivo Histórico del Estado: al Archivo Histórico del Estado “Lic. Antonio Rocha Cordero”, creado por Decreto Número 49, publicado en el Periódico Oficial del Estado el 8 de febrero de 1979;
 
 VII. Archivos privados de interés público: al conjunto de documentos de interés público, histórico o cultural, que se encuentran en propiedad de particulares, que no reciban o ejerzan recursos públicos ni realicen actos de autoridad en los diversos ámbitos de gobierno;
 
@@ -120,6 +132,10 @@ XVII. Conservación de archivos: al conjunto de procedimientos y medidas destina
 XVIII. Cuadro general de clasificación archivística: al instrumento técnico que refleja la estructura de un archivo con base en las atribuciones y funciones de cada sujeto obligado;
 
 XIX. Datos abiertos: a los datos digitales de carácter público que son accesibles en línea y pueden ser usados, reutilizados y redistribuidos, por cualquier interesado;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2024)</small>
+
+XIX BIS. Director General: al Director General del Archivo General del Estado;
 
 XX. Disposición documental: a la selección sistemática de los expedientes de los archivos de trámite o concentración cuya vigencia documental o uso ha prescrito, con el fin de realizar transferencias ordenadas o bajas documentales;
 
@@ -150,6 +166,10 @@ XXXII. Instrumentos de control archivístico: A los instrumentos técnicos que p
 XXXIII. Interoperabilidad: a la capacidad de los sistemas de información de compartir datos y posibilitar el intercambio entre ellos;
 
 XXXIV. Inventarios documentales: a los instrumentos de consulta que describen las series documentales y expedientes de un archivo y que permiten su localización (inventario general), para las transferencias (inventario de transferencia) o para la baja documental (inventario de baja documental);
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2024)</small>
+
+XXXIV BIS. Junta de Gobierno: al órgano de gobierno del Archivo General del Estado;
 
 XXXV. Ley: la Ley de Archivos del Estado de San Luis Potosí;
 
@@ -319,11 +339,11 @@ Los servidores públicos que deban elaborar un acta de entrega-recepción al sep
 
 El patrimonio documental en poder de los sujetos obligados, cuyas unidades administrativas hayan sido modificadas o extinguidas, deberá pasar a aquéllas que asuman sus atribuciones, para su administración y preservación.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 19.
 
-Tratándose de la liquidación o extinción de un sujeto obligado será obligación del liquidador remitir copia del inventario de los expedientes, del fondo que se resguardará a la CEGAIP.
+Tratándose de la liquidación o extinción de un sujeto obligado, será obligación del liquidador remitir copia del inventario de los expedientes del fondo que se resguardará, al Archivo General del Estado, así como al Archivo Histórico del Estado.
 
 ### CAPÍTULO IV. DEL SISTEMA INSTITUCIONAL DE ARCHIVOS
 
@@ -461,15 +481,17 @@ VII. Identificar los expedientes que integran las series documentales que hayan 
 
 VIII. Integrar a sus respectivos expedientes, el registro de los procesos de disposición documental, incluyendo dictámenes, actas e inventarios;
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2024)</small>
 
-IX. Publicar, al final de cada año, los dictámenes y actas de baja documental y transferencia secundaria, en los términos que establezcan las disposiciones en la materia y conservarlos en el archivo de concentración por un periodo mínimo de siete años a partir de la fecha de su elaboración, y
+IX. Publicar, al final de cada año, los dictámenes y actas de baja documental y transferencia secundaria, en los términos que establezcan las disposiciones en la materia y conservarlos en el archivo de concentración por un periodo mínimo de siete años a partir de la fecha de su elaboración;
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2024)</small>
 
-X. Realizar la transferencia secundaria de las series documentales que hayan cumplido su vigencia documental y posean valores evidenciales, testimoniales e informativos al archivo histórico del sujeto obligado, o a la CEGAIP, según corresponda.
+X. Realizar la transferencia secundaria de las series documentales que hayan cumplido su vigencia documental y posean valores evidenciales, testimoniales e informativos al archivo histórico del sujeto obligado, o al Archivo Histórico del Estado, según corresponda, y
 
-XI. Las que establezcan en el respectivo ámbito de sus competencias el Consejo Nacional, el Consejo Estatal de Archivos y las disposiciones aplicables en la materia.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE FEBRERO DE 2024)</small>
+
+XI. Las que establezca el Consejo Estatal de Archivos y las disposiciones jurídicas aplicables.
 
 Los responsables de los archivos de concentración deben contar con los conocimientos, habilidades, competencias y experiencia acordes a su responsabilidad; de no ser así, los titulares de los sujetos obligados tienen la obligación de establecer las condiciones que permitan la capacitación de los responsables para el buen funcionamiento de los archivos.
 
@@ -497,13 +519,15 @@ VI. Las demás que establezcan las disposiciones aplicables.
 
 Los responsables de los archivos históricos deben contar con los conocimientos, habilidades, competencias y experiencia acordes con su responsabilidad; de no ser así, los titulares del sujeto obligado tienen la obligación de establecer las condiciones que permitan la capacitación de los responsables para el buen funcionamiento de los archivos.
 
-El Archivo Histórico del Estado de San Luis Potosí “Lic. Antonio Rocha Cordero” en coordinación con el Consejo, será el encargado de guiar y brindar apoyo en los procesos archivísticos a los archivos históricos que existan o sean creados en el futuro al interior del Estado en observación de esta Ley.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
+El Archivo Histórico del Estado en coordinación con el Consejo, será el encargado de guiar y brindar apoyo en los procesos archivísticos, a los archivos históricos de los demás sujetos obligados.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 34.
 
-Los sujetos obligados que no cuenten con archivo histórico deberán promover su creación o establecimiento, mientras tanto, deberán transferir sus documentos con valor histórico a la CEGAIP previa valoración, o al organismo que se determine de acuerdo con las disposiciones aplicables o los convenios de colaboración que se suscriban para tal efecto.
+Los sujetos obligados que no cuenten con archivo histórico deberán promover su creación o establecimiento, mientras tanto, deberán transferir sus documentos con valor histórico al Archivo Histórico del Estado.
 
 ###### ARTÍCULO 35.
 
@@ -715,11 +739,11 @@ Los sujetos obligados deberán publicar en la Plataforma Nacional y Estatal, los
 
 Los sujetos obligados distintos al Poder Ejecutivo del Estado transferirán los dictámenes y actas que refiere el presente artículo a sus respectivos archivos históricos, para su conservación permanente.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 59.
 
-Los sujetos obligados que cuenten con un archivo histórico deberán transferir los documentos con valor histórico a dicho archivo, debiendo informar a la CEGAIP, en un plazo de cuarenta y cinco días naturales posteriores a la transferencia secundaria.
+Los sujetos obligados que cuenten con un archivo histórico deberán transferir los documentos con valor histórico a dicho archivo, debiéndolo informar al Archivo General del Estado, y al Archivo Histórico del Estado, en un plazo de cuarenta y cinco días naturales posteriores a la transferencia secundaria.
 
 ### CAPÍTULO II. DE LA CONSERVACIÓN
 
@@ -791,9 +815,9 @@ Las instancias del Sistema Estatal observarán lo dispuesto en las resoluciones 
 
 El Consejo Estatal de Archivos es el órgano de coordinación del Sistema Estatal, que estará integrado por:
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2024)</small>
 
-I. La Comisionada o el Comisionado que presida la CEGAIP, quien lo presidirá;
+I. La persona titular del Archivo General del Estado, quien lo presidirá;
 
 > <small>(REFORMADA, P.O. 6 DE ENERO DE 2023)</small>
 
@@ -815,15 +839,21 @@ VII. El Coordinador de Archivos de la Comisión Estatal de Derechos Humanos;
 
 VIII. La persona titular de la Auditoría Superior del Estado;
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2023)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE FEBRERO DE 2024)</small>
 
-IX. Un representante de los archivos privados, y
+IX. La persona titular del Archivo Histórico del Estado;
 
 > <small>(ADICIONADA, P.O. 6 DE ENERO DE 2023)</small>
 
 X. Un representante del Consejo Técnico y Científico Archivístico.
 
-La designación de la coordinación de los archivos privados referidos en la fracción IX de este artículo, será a través de convocatoria que emita el Consejo Estatal de Archivos en la que se establezcan las bases para seleccionar al coordinador de los mismos, estableciendo como mínimo los requisitos siguientes: que formen parte del Registro Nacional, una asociación civil legalmente constituida con al menos diez años previos a la convocatoria, cuyo objeto social sea relacionado con la conservación de archivos y que cuente con la representación de al menos cinco archivos privados.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2024)</small>
+
+XI. Un representante del Consejo Técnico.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2024)</small>
+
+La designación de la coordinación de los archivos privados referidos en la fracción X de este artículo, será a través de convocatoria que emita el Consejo Estatal de Archivos en la que se establezcan las bases para seleccionar al coordinador de los mismos, estableciendo como mínimo los requisitos siguientes: que formen parte del Registro Nacional, una asociación civil legalmente constituida con al menos diez años previos a la convocatoria, cuyo objeto social sea relacionado con la conservación de archivos y que cuente con la representación de al menos cinco archivos privados.
 
 El Presidente o a propuesta de alguno de los integrantes del Consejo Estatal de Archivos, podrá invitar a las sesiones de éste a las personas que considere pertinentes, según la naturaleza de los asuntos a tratar, quienes intervendrán con voz, pero sin voto.
 
@@ -897,21 +927,33 @@ XV. (DEROGADA, P.O. 6 DE ENERO DE 2023)
 
 XVI. Las demás establecidas en esta Ley.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 70.
 
-El Presidente o la Presidenta, tiene las atribuciones siguientes:
+La persona que presida el Consejo Estatal de Archivos, tiene las atribuciones siguientes:
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2023)</small>
 
 I. Participar en los sistemas de archivos, comisiones intersecretariales, secretarías técnicas, entre otros, que coadyuven al cumplimiento de los acuerdos, recomendaciones y determinaciones que emita el Consejo Nacional y el Consejo Estatal de Archivos;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2023)</small>
+
 II. Celebrar convenios de coordinación, colaboración y concertación para el cumplimiento de los fines del Sistema Estatal y demás instrumentos jurídicos que se deriven de los mismos;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2023)</small>
 
 III. Intercambiar con otras entidades, conocimientos, experiencias y cooperación técnica y científica para fortalecer a los archivos;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2023)</small>
+
 IV. Participar en foros, conferencias, paneles, eventos y demás reuniones de carácter nacional e internacional, que coadyuven al cumplimiento de la Ley General de Archivos, de esta Ley, así como de los acuerdos, recomendaciones y determinaciones emitidos por el Consejo Nacional, y por el Consejo Estatal de Archivos;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2023)</small>
+
 V. Publicar en su portal electrónico las determinaciones y resoluciones generales del Consejo Estatal de Archivos, y
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2023)</small>
 
 VI. Las demás que le otorga esta Ley y otras disposiciones aplicables.
 
@@ -931,27 +973,27 @@ Los miembros de las comisiones no recibirán emolumento, ni remuneración alguna
 
 ### CAPÍTULO III. DE LOS ARCHIVOS PRIVADOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ENERO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 73.
 
-Las personas físicas y morales, propietarios o poseedores de documentos o archivos considerados de interés público, deberán garantizar su conservación, preservación y acceso, en términos de la Ley General de Archivos, esta Ley y demás disposiciones aplicables. Asimismo, los particulares podrán solicitar a la CEGAIP asistencia técnica en materia de gestión documental y administración de archivos.
+Las personas físicas y morales, propietarios o poseedores de documentos o archivos considerados de interés público, deberán garantizar su conservación, preservación y acceso, en términos de la Ley General de Archivos, esta Ley y demás disposiciones aplicables. Asimismo, los particulares podrán solicitar al Archivo General del Estado, y al Archivo Histórico del Estado, asistencia técnica en materia de gestión documental y administración de archivos.
 
 Se consideran de interés público los documentos o archivos cuyo contenido resulte de importancia o de relevancia para el conocimiento de la historia estatal y nacional, considerando los elementos característicos del patrimonio documental de la Nación.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2024)</small>
 
-La CEGAIP convendrá con los particulares o con quien legalmente los represente, las bases, los procedimientos, condicionantes y garantías para realizar una versión facsimilar o digital de los documentos o archivos de interés público que se encuentren en posesión de particulares.
+El Archivo General del Estado o el Archivo Histórico del Estado, conforme a la materia de sus funciones, convendrán con los particulares o con quien legalmente los represente, las bases, los procedimientos, condicionantes y garantías para realizar una versión facsimilar o digital de los documentos o archivos de interés público que se encuentren en posesión de particulares.
 
 ###### ARTÍCULO 74.
 
 Los poseedores de documentos y archivos privados de interés público deberán ordenar sus acervos y restaurar los documentos que así lo ameriten, apegándose a la normatividad existente. Los archivos privados de interés público en posesión de particulares en el estado serán respetados en términos del artículo 76 de la Ley General de Archivos, para lo cual sus titulares deberán cumplir con los requisitos de conservación, preservación y acceso público.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 75.
 
-En los casos de enajenación por venta de un acervo o archivos privados de interés público, propiedad de un particular, el particular que pretenda trasladar el dominio deberá notificar por escrito a la CEGAIP, para que éste manifieste en un plazo de veinte días hábiles su interés de adquirirlo, en cuyo caso contará con un derecho preferente respecto de los demás compradores. La omisión en la notificación por parte del particular será causa de nulidad de la operación de traslado de dominio y podrá expropiarse el acervo o documento objeto de la misma en términos de la normatividad aplicable.
+En los casos de enajenación por venta de un acervo o archivos privados de interés público, propiedad de un particular, el particular que pretenda trasladar el dominio deberá notificar por escrito al Archivo General del Estado y al Archivo Histórico del Estado, para que éstos manifiesten en un plazo de veinte días hábiles su interés de adquirirlo, en cuyo caso contará con un derecho preferente respecto de los demás compradores. La omisión en la notificación por parte del particular será causa de nulidad de la operación de traslado de dominio y podrá expropiarse el acervo o documento objeto de la misma en términos de la normatividad aplicable.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE ENERO DE 2023)</small>
 
@@ -983,17 +1025,11 @@ El Gobierno del Estado deberá crear y administrar un Fondo de Apoyo Económico 
 
 El Gobierno del Estado podrá otorgar subsidios a los Fondos de Apoyo Económico para los archivos municipales en términos de las disposiciones aplicables y conforme a los recursos que, en su caso, sean previstos y aprobados en el Presupuesto de Egresos del Estado del Ejercicio Fiscal que corresponda.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE ENERO DE 2023)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE FEBRERO DE 2024)</small>
 
 ### CAPÍTULO VI. DEL CONSEJO TÉCNICO Y CIENTÍFICO ARCHIVÍSTICO
 
-> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2023)</small>
-
-ARTÍCULO 81 BIS. La CEGAIP contará con un Consejo Técnico que la asesorará en las materias históricas, jurídicas, de tecnologías de la información y las disciplinas afines al quehacer archivístico.
-
-El Consejo Técnico estará formado por trece integrantes designados por el Consejo Estatal a convocatoria pública de la CEGAIP, entre representantes de instituciones de docencia, investigación o preservación de archivos, académicos y expertos destacados. Operará conforme a los lineamientos aprobados por el Consejo Estatal.
-
-Los integrantes del Consejo Técnico no obtendrán remuneración, compensación o emolumento por su participación.
+ARTÍCULO 81 BIS. (DEROGADO, P.O. 20 DE FEBRERO DE 2024)
 
 ## TÍTULO QUINTO. DEL PATRIMONIO DOCUMENTAL DEL ESTADO Y LA CULTURA ARCHIVÍSTICA
 
@@ -1029,55 +1065,55 @@ IV. Dar seguimiento a las acciones que surjan como consecuencia del incumplimien
 
 Los sujetos obligados deberán coadyuvar con el Consejo Estatal de Archivos, en un marco de respeto de sus atribuciones, para promover acciones coordinadas que tengan como finalidad la protección del patrimonio documental de la Entidad.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 87.
 
-La CEGAIP podrá recibir documentos de archivo de los sujetos obligados en comodato para su estabilización.
+El Archivo General del Estado y el Archivo Histórico del Estado podrán recibir documentos de archivo de los sujetos obligados en comodato para su estabilización.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 88.
 
-En los casos en que la CEGAIP considere que los archivos privados de interés público se encuentren en peligro de destrucción, desaparición o pérdida, deberán establecer mecanismos de coordinación con las autoridades pertinentes, a fin de determinar las vías aplicables para su rescate.
+En los casos en que el Archivo General del Estado o el Archivo Histórico del Estado considere que los archivos privados de interés público se encuentren en peligro de destrucción, desaparición o pérdida, deberán establecer mecanismos de coordinación con las autoridades pertinentes, a fin de determinar las vías aplicables para su rescate.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 89.
 
-En términos del artículo 92 de la Ley General de Archivos, para el caso de que los archivos privados de interés público sean objeto de expropiación, la CEGAIP designará un representante para que forme parte del Consejo Nacional que deba emitir una opinión técnica sobre la procedencia de la expropiación.
+En términos del artículo 92 de la Ley General de Archivos, para el caso de que los archivos privados de interés público sean objeto de expropiación, el Archivo General del Estado y el Archivo Histórico del Estado designarán cada uno un representante para que formen parte del Consejo que deba emitir la opinión técnica sobre la procedencia de la expropiación.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 90.
 
-Las autoridades estatales y municipales, deberán coordinarse con la CEGAIP para la realización de las acciones conducentes a la conservación de los archivos, cuando la documentación o actividad archivística de alguna región esté en peligro o haya resultado afectada por fenómenos naturales o cualquiera de otra índole, que pudieran dañarlos o destruirlos.
+Las autoridades estatales y municipales, deberán coordinarse con el Archivo General del Estado y con el Archivo Histórico del Estado para la realización de las acciones conducentes a la conservación de los archivos, cuando la documentación o actividad archivística de alguna región esté en peligro o haya resultado afectada por fenómenos naturales o cualquiera de otra índole, que pudieran dañarlos o destruirlos.
 
 ### CAPÍTULO II. DEL PATRIMONIO DOCUMENTAL DEL ESTADO EN POSESIÓN DE PARTICULARES
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 91.
 
-Los particulares en posesión de documentos de archivo que constituyan patrimonio documental del Estado, podrán custodiarlos, siempre y cuando apliquen las medidas técnicas, administrativas, ambientales o tecnológicas para la conservación y divulgación de los archivos, conforme los criterios que emita la CEGAIP, el Consejo Estatal de Archivos, o que emanen de esta Ley y la demás normativa aplicable.
+Los particulares en posesión de documentos de archivo que constituyan patrimonio documental del Estado, podrán custodiarlos, siempre y cuando apliquen las medidas técnicas, administrativas, ambientales o tecnológicas para la conservación y divulgación de los archivos, conforme los criterios que emita de acuerdo con la materia de su competencia el Archivo General del Estado o el Archivo Histórico del Estado, y el Consejo Estatal de Archivos, o que emanen de esta Ley y la demás normativa aplicable.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 92.
 
-Los particulares en posesión de documentos de archivo que constituyan patrimonio documental del Estado al formar parte del patrimonio documental del Estado podrán restaurarlos, previa autorización y bajo la supervisión de la CEGAIP y, en su caso del Consejo Estatal de Archivos, en términos de la normativa aplicable.
+Los particulares en posesión de documentos de archivo que constituyan patrimonio documental del Estado al formar parte del patrimonio documental del Estado podrán restaurarlos, previa autorización y bajo la supervisión del Archivo General del Estado y del Archivo Histórico del Estado y, en su caso del Consejo Estatal de Archivos, en términos de la normativa aplicable.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 93.
 
-La CEGAIP deberá coadyuvar con el Archivo General de la Nación cuando se trate de recuperar la posesión del documento de archivo que constituya patrimonio documental del Estado y que así mismo forme parte del patrimonio documental de la Nación.
+El Archivo General del Estado y el Archivo Histórico del Estado deberán coadyuvar con el Archivo General de la Nación cuando se trate de recuperar la posesión del documento de archivo que constituya patrimonio documental del Estado y que así mismo forme parte del patrimonio documental de la Nación.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 94.
 
-Para vigilar el cumplimiento de lo establecido en el presente capítulo, la CEGAIP podrá efectuar visitas de verificación, en los términos establecidos en las disposiciones aplicables.
+Para vigilar el cumplimiento de lo establecido en el presente capítulo, el Archivo General del Estado y el Archivo Histórico del Estado de acuerdo con la materia de su competencia, podrán efectuar visitas de verificación, en los términos establecidos en las disposiciones aplicables.
 
 ### CAPÍTULO III. DE LA CAPACITACIÓN Y CULTURA ARCHIVÍSTICA
 
@@ -1105,9 +1141,251 @@ IV. Promover la celebración de convenios y acuerdos en materia archivística, c
 
 Los usuarios de los archivos deberán respetar las disposiciones aplicables para la consulta y conservación de los documentos.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2024)</small>
+
+## TÍTULO SEXTO. DEL ARCHIVO GENERAL DEL ESTADO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2024)</small>
+
+### CAPÍTULO I. DE SU NATURALEZA JURÍDICA, ATRIBUCIONES Y ORGANIZACIÓN
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 98 BIS. El Archivo General del Estado es un organismo descentralizado no sectorizado, con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión para el cumplimiento de sus atribuciones, objeto y fines.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 98 TER. El Archivo General del Estado es la entidad especializada en materia de archivos, que tiene por objeto promover la organización y administración homogénea de archivos, preservar, incrementar y difundir el patrimonio documental del Estado, con el fin de salvaguardar la memoria del Estado de corto, mediano y largo plazo; así como contribuir a la transparencia y rendición de cuentas.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 98 QUÁTER. Para el cumplimiento de su objeto, el Archivo General del Estado tiene las siguientes atribuciones:
+
+I. Fungir, mediante su titular, como presidente del Consejo Estatal de Archivos;
+
+II. Organizar, conservar y difundir el acervo documental, gráfico, bibliográfico y hemerográfico que resguarda, con base en las mejores prácticas y las disposiciones jurídicas aplicables;
+
+III. Difundir y proyectar el derecho a la memoria del Estado, en coordinación con las dependencias y entidades de la Administración Pública Estatal;
+
+IV. Elaborar, actualizar y publicar en formatos abiertos los inventarios documentales de cada fondo en su acervo;
+
+V. Fungir como órgano de consulta de los sujetos obligados del Poder Ejecutivo del Estado en materia archivística;
+
+VI. Llevar a cabo el registro y validación de los instrumentos de control archivístico de los sujetos obligados del Poder Ejecutivo del Estado;
+
+VII. Emitir el dictamen de baja documental o de transferencia secundaria para los sujetos obligados del Poder Ejecutivo del Estado, los cuales se considerarán de carácter histórico;
+
+VIII. Autorizar las transferencias secundarias de los documentos de archivo con valor histórico producidos por el Poder Ejecutivo del Estado;
+
+IX. Analizar y aprobar, en su caso, las peticiones de particulares que posean documentos y soliciten sean incorporados de manera voluntaria a acervos del Archivo General del Estado;
+
+X. Establecer técnicas de reproducción que no afecten la integridad física de los documentos;
+
+XI. Desarrollar investigaciones encaminadas a la organización, conservación y difusión del patrimonio documental que resguarda;
+
+XII. Emitir dictámenes técnicos sobre archivos en peligro de destrucción o pérdida, y las medidas necesarias para su rescate;
+
+XIII. Establecer mecanismos de cooperación y asesoría con otras instituciones gubernamentales y privadas;
+
+XIV. Publicar y distribuir obras y colecciones para apoyar el conocimiento de su acervo, así como para promover la cultura archivística, de consulta y aprovechamiento del patrimonio documental del Estado;
+
+XV. Diseñar e implementar programas de capacitación en materia de archivos;
+
+XVI. Promover la incorporación de la materia archivística en programas educativos de diversos niveles académicos;
+
+XVII. Custodiar el patrimonio documental del Estado de su acervo;
+
+XVIII. Realizar la declaratoria de patrimonio documental del Estado;
+
+XIX. Realizar la declaratoria de interés público respecto de documentos o archivos privados;
+
+XX. Otorgar conjuntamente con el Archivos Histórico del Estado y previo conocimiento del Consejo Estatal de Archivos, las autorizaciones para la salida del país de documentos considerados patrimonio documental del Estado;
+
+XXI. Expedir copias certificadas, transcripciones paleográficas y dictámenes de autenticidad de los documentos existentes en sus acervos;
+
+XXII. Determinar los procedimientos para proporcionar servicios archivísticos al público usuario;
+
+XXIII. Brindar asesoría técnica sobre gestión documental y administración de archivos;
+
+XXIV. Fomentar el desarrollo profesional de archivólogos, archivónomos y archivistas, a través de convenios de colaboración o concertación con autoridades e instituciones educativas públicas o privadas, nacionales o extranjeras;
+
+XXV. Proporcionar los servicios complementarios que determinen las disposiciones reglamentarias y demás disposiciones jurídicas aplicables;
+
+XXVI. Suscribir convenios en materia archivística en el ámbito nacional e internacional, en coordinación con las autoridades competentes en la materia;
+
+XXVII. Coordinar acciones con las instancias competentes a fin de prevenir y combatir el tráfico ilícito del patrimonio documental del Estado;
+
+XXVIII. Organizar y participar en eventos nacionales e internacionales en la materia, y
+
+XXIX. Las demás establecidas en esta Ley y en otras disposiciones jurídicas aplicables.
+
+ARTÍCULO 98 QUINQUIES. Las relaciones laborales entre el Archivo General del Estado y sus trabajadores deben sujetarse a lo dispuesto en el Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y las demás disposiciones jurídicas aplicables.
+
+ARTÍCULO 98 SEXIES. Para el cumplimiento de su objeto, el Archivo General del Estado contará con los siguientes órganos:
+
+I. Junta de Gobierno;
+
+II. Dirección General;
+
+III. Órgano Interno de Control;
+
+IV. Consejo Técnico, y
+
+IV (SIC). Las estructuras administrativas establecidas en su Estatuto Orgánico.
+
+El Consejo Técnico operará conforme a los lineamientos emitidos por el Órgano de Gobierno.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2024)</small>
+
+### CAPÍTULO II. DE LA JUNTA DE GOBIERNO
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 98 SEPTIES. La Junta de Gobierno es el órgano colegiado de administración del Archivo General del Estado, con atribuciones para:
+
+I. Evaluar la operación administrativa, así como el cumplimiento de los objetivos y metas del Archivo General del Estado;
+
+II. Emitir los lineamientos para el funcionamiento del Consejo Técnico, y
+
+III. Las demás previstas en otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 98 OCTIES. La Junta de Gobierno estará integrada por la persona titular de las instancias siguientes:
+
+I. Secretaría General de Gobierno, quien lo presidirá;
+
+II. Secretaría de Finanzas;
+
+III. Secretaría de Educación de Gobierno del Estado;
+
+IV. Secretaría de Cultura;
+
+V. Oficialía Mayor, y
+
+VI. Contraloría General del Estado.
+
+Los integrantes de la Junta de Gobierno podrán ser suplidos por las personas a su cargo que estos designen, quienes deberán tener nivel al menos, de director general o su equivalente.
+
+Por acuerdo de la Junta de Gobierno, podrá invitarse a sus sesiones, a representantes de todo tipo de instituciones públicas o privadas, quienes intervendrán con voz pero sin voto.
+
+Las personas integrantes de la Junta de Gobierno no percibirán remuneración, compensación o emolumento por su participación en dicho órgano.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2024)</small>
+
+### CAPÍTULO III. DE LA DIRECCIÓN GENERAL
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 98 NONIES. La persona titular de la Dirección General será nombrada por el Gobernador del Estado y deberá cubrir los siguientes requisitos:
+
+(NOTA: EL 22 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 70/2024, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE ABRIL DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+I. Ser ciudadano mexicano POR NACIMIENTO;
+
+II. Poseer, al día de la designación, con título y cédula profesional en disciplinas de las ciencias sociales o humanidades, expedido por autoridad o institución facultada para ello con una antigüedad de al menos cinco años al momento de su designación, y contar con experiencia mínima de cinco años en materia archivística;
+
+(NOTA: EL 22 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 70/2024, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE ABRIL DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+III. NO HABER SIDO CONDENADO POR LA COMISIÓN DE ALGÚN DELITO DOLOSO;
+
+IV. No ser cónyuge, ni tener relación de parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con cualquiera de las personas integrantes de la Junta de Gobierno, y
+
+V. No contar con sanción de inhabilitación para desempeñar empleo, cargo o comisión en el servicio público.
+
+Durante su gestión, el Director General no podrá desempeñar ningún otro empleo, cargo o comisión, con excepción de aquellos que puede desempeñar en las instituciones docentes, científicas o de beneficencia, siempre que sean compatibles con sus horarios, responsabilidades y actividades dentro del Archivo General del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 98 DECIES. La persona titular de la Dirección General, tendrá las siguientes facultades:
+
+I. Supervisar que la actividad del Archivo General del Estado cumpla con las disposiciones legales, administrativas y técnicas aplicables, así como con los programas y presupuestos aprobados;
+
+II. Proponer a la Junta de Gobierno las medidas necesarias para el funcionamiento del Archivo General del Estado;
+
+III. Proponer a la Junta de Gobierno el proyecto de Estatuto Orgánico;
+
+IV. Nombrar y remover a los servidores públicos del Archivo General del Estado, cuyo nombramiento no corresponda a la Junta de Gobierno, y
+
+V. Las demás previstas en esta Ley y en otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2024)</small>
+
+### CAPÍTULO IV. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 98 UNDECIES. El Archivo General del Estado contará con un órgano interno de control, que tendrá las atribuciones que establecen la Ley General de Responsabilidades Administrativas, y la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí, y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2024)</small>
+
+### CAPÍTULO V. DEL CONSEJO TÉCNICO Y CIENTÍFICO ARCHIVÍSTICO
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 98 DUODECIES. El Archivo General del Estado contará con un Consejo Técnico que la asesorará en las materias históricas, jurídicas, de tecnologías de la información y las disciplinas afines al quehacer archivístico.
+
+El Consejo Técnico estará formado por trece integrantes designados por el Consejo Estatal a convocatoria pública del Archivo General del Estado, entre representantes de instituciones de docencia, investigación o preservación de archivos, académicos y expertos destacados. Operará conforme a los lineamientos aprobados por el Consejo Estatal.
+
+Los integrantes del Consejo Técnico no obtendrán remuneración, compensación o emolumento por su participación.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2024)</small>
+
+## TÍTULO SÉPTIMO. DEL ARCHIVO HISTÓRICO DEL ESTADO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2024)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 98 TERDECIES. El Archivo Histórico del Estado se organizará y funcionará en los términos establecido (sic) en esta Ley, su Decreto de creación y Reglamento Interno.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 98 QUATERDECIES. Además de las atribuciones que establece su Decreto de creación, el Archivo Histórico del Estado tiene las siguientes atribuciones:
+
+I. Organizar, conservar y difundir el acervo documental, gráfico, bibliográfico y hemerográfico que resguarda, con base en las mejores prácticas y las disposiciones jurídicas aplicables;
+
+II. Elaborar, actualizar y publicar en formatos abiertos los inventarios documentales de cada fondo en su acervo;
+
+III. Fungir como órgano de consulta de los sujetos obligados del Poder Ejecutivo del Estado en materia de archivos históricos;
+
+IV. Analizar y aprobar, en su caso, las peticiones de particulares que posean documentos con valor histórico y soliciten sean incorporados de manera voluntaria a acervos del Archivo Histórico del Estado;
+
+V. Autorizar, recibir y resguardar las transferencias secundarias de los documentos de archivo con valor histórico producidos por el Poder Ejecutivo del Estado;
+
+VI. Analizar la pertinencia de recibir transferencias de documentos de archivo con valor histórico de sujetos obligados distintos al Poder Ejecutivo del Estado;
+
+VII. Recibir transferencias de documentos de archivo con valor histórico de sujetos obligados distintos al Poder Ejecutivo del Estado;
+
+VIII. Proveer, cuando los documentos históricos presenten un deterioro físico que impida acceder a ellos directamente, su conservación y restauración que permita su posterior reproducción que no afecte la integridad del documento;
+
+IX. Desarrollar investigaciones encaminadas a la organización, conservación y difusión del patrimonio documental que resguarda;
+
+X. Establecer mecanismos de cooperación y asesoría en materia de archivos históricos con otras instituciones gubernamentales y privadas;
+
+XI. Publicar y distribuir obras y colecciones para apoyar el conocimiento de su acervo, así como para promover la cultura archivística, de consulta y aprovechamiento del patrimonio documental del Estado;
+
+XII. Custodiar el patrimonio documental del Estado de su acervo;
+
+XIII. Definir el procedimiento para el acceso a los documentos contenidos en sus archivos históricos;
+
+XIV. Coadyuvar con las autoridades competentes, en la recuperación y, en su caso, incorporación a sus acervos de archivos que tengan valor histórico;
+
+XV. Otorgar conjuntamente con el Archivos (sic) General del Estado y previo conocimiento del Consejo Estatal de Archivos, las autorizaciones para la salida del país de documentos considerados patrimonio documental del Estado;
+
+XVI. Expedir copias certificadas, transcripciones paleográficas y dictámenes de autenticidad de los documentos existentes en sus acervos;
+
+XVII. Determinar los procedimientos para proporcionar servicios archivísticos al público usuario;
+
+XVIII. Proporcionar los servicios complementarios que determinen las disposiciones reglamentarias y demás disposiciones jurídicas aplicables, y
+
+XIX. Las demás establecidas en esta Ley y en otras disposiciones jurídicas aplicables.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ENERO DE 2023)</small>
 
-## TÍTULO SEXTO. DE LAS INFRACCIONES
+## TÍTULO OCTAVO. DE LAS INFRACCIONES
 
 ### CAPÍTULO ÚNICO
 
@@ -1127,7 +1405,9 @@ IV. Usar, sustraer, divulgar, ocultar, alterar, mutilar, destruir o inutilizar, 
 
 V. Omitir la entrega de algún documento de archivo bajo la custodia de una persona al separarse de un empleo, cargo o comisión;
 
-VI. No publicar el catálogo de disposición documental, el dictamen y el acta de baja documental, autorizados por el Archivo General de la Nación o por la CEGAIP, así como el acta que se levante en caso de documentación siniestrada en los portales electrónicos, y
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2024)</small>
+
+VI. No publicar el catálogo de disposición documental, el dictamen y el acta de baja documental, autorizados por el Archivo General de la Nación o por el Archivo General del Estado, así como el acta que se levante en caso de documentación siniestrada en los portales electrónicos, y
 
 VII. Cualquier otra acción u omisión que contravenga lo dispuesto en la Ley General, esta Ley y demás disposiciones aplicables que de ellos deriven.
 
@@ -1244,3 +1524,15 @@ P.O. 6 DE ENERO DE 2023.
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1007.- SE REFORMA DEL ARTÍCULO 34 LA FRACCIÓN XXVI; Y DEROGA DE LOS ARTÍCULOS 3° LA FRACCIÓN XXXII, 34 LAS FRACCIONES V Y VI, DEL TÍTULO SEGUNDO, CAPÍTULO I, LA SECCIÓN QUINTA, LOS ARTÍCULOS 50 Y 57, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 1°, 19, 31 EN SUS FRACCIONES IX Y X, 33 EN SU PÁRRAFO ÚLTIMO, 34, 59, 67 EN SUS FRACCIONES I Y X Y EN SU PÁRRAFO SEGUNDO, 70 EN SU PÁRRAFO PRIMERO, 73 EN SUS PÁRRAFOS PRIMERO Y TERCERO, 75, 87, 88, 89, 90, 91, 92, 93, 94, 99 EN SU FRACCIÓN VI; ADICIONA A LOS ARTÍCULOS 4° LAS FRACCIONES V BIS, VI BIS, XIX BIS Y XXXIV BIS, 31 LA FRACCIÓN XI, 67 LA FRACCIÓN IX, EL TÍTULO SEXTO “DEL ARCHIVO GENERAL DEL ESTADO” CON LOS CAPÍTULOS I A V Y LOS ARTÍCULOS 98 BIS A 98 DUODECIES, EL TÍTULO SÉPTIMO “DEL ARCHIVO HISTÓRICO DEL ESTADO” CON EL CAPÍTULO ÚNICO Y LOS ARTÍCULOS 98 TERDECIES Y 98 QUATERDECIES, Y DEROGA DEL TÍTULO CUARTO EL CAPÍTULO VI Y SU ARTÍCULO 81 BIS, DE LA LEY DE ARCHIVOS PARA EL ESTADO DE SAN LUIS POTOSÍ. SE DEROGA DEL ARTÍCULO 41 LA FRACCIÓN XXII, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto será vigente el día primero de abril de 2024, previa publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. La Junta Gobierno del Archivo General del Estado deberá expedir su Reglamento Interior, para que inicie su vigencia el día primero de abril de 2024.
+
+TERCERO. La Comisión Estatal de Garantía de Acceso a la Información Pública del Estado de San Luis Potosí, deberá entregar al Archivo General del Estado y, al Archivo Histórico del Estado, en su caso, conforme a la competencia de cada uno de éstos, las copias de inventarios de expedientes, así como los documentos de archivo, y demás instrumentos que haya recibido, administrado o generado en ejercicio de su función como autoridad en materia de archivos.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
