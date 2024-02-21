@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-junta-federal-de-conciliacion-y-95203
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-31"
-last_updated: "2020-12-21"
+last_updated: "2024-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95203&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,11 +21,11 @@ issue_date: "2013-05-23"
 
 [NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
-[NOTA 2. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]
+[NOTA 2. [N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/jfca/documentos/reglamento-interior-de-la-junta-federal-de-conciliacion-yarbitraje?idiom=es.]
 
 REGLAMENTO INTERIOR DE LA JUNTA FEDERAL DE CONCILIACIÓN Y ARBITRAJE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE FEBRERO DE 2024.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de julio de 2013.
 
@@ -67,9 +67,7 @@ VII. Presidentas o Presidentes de Junta Especial: Las Presidentas o los Presiden
 
 VIII. Secretaría: La Secretaría del Trabajo y Previsión Social.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
-
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 4.
 
@@ -91,9 +89,7 @@ Juntas Especiales
 
 Presidentas o Presidentes de Junta Especial
 
-Secretaría Auxiliar de Emplazamientos a Huelga
-
-Secretaría Auxiliar de Asuntos Colectivos
+Secretaría Auxiliar de Emplazamientos a Huelga y Asuntos Colectivos
 
 Secretaría Auxiliar de Peritajes y Diligencias
 
@@ -401,11 +397,9 @@ XII. Atender el registro y control de los contratos colectivos de trabajo, conve
 
 XIII. Analizar los contratos colectivos de trabajo, convenios de administración de contratos ley y reglamentos interiores de trabajo, vigilando que cumplan con los requisitos exigidos por la Ley y elaborar el proyecto de acuerdo de registro correspondiente;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
 
-> <small>(ADICIONADA, D.O.F. 21 DE DICIEMBRE DE 2020)</small>
-
-XIV. Expedir las certificaciones solicitadas por la Presidenta o Presidente de la Junta; las Juntas Especiales; las Secretarías Auxiliares de Emplazamientos a Huelga y de Asuntos Colectivos, respecto de la documentación e información sobre contratos colectivos, convenios y reglamentos interiores de trabajo, depositados y registrados en la Junta, así como de convenios de administración de contratos ley y cualquier otra información de utilidad que obre en sus archivos;
+XIV. Expedir las certificaciones solicitadas por la Presidenta o Presidente de la Junta; las Juntas Especiales; la Secretaría Auxiliar de Emplazamientos a Huelga y Asuntos Colectivos, respecto de la documentación e información sobre contratos colectivos, convenios y reglamentos interiores de trabajo, depositados y registrados en la Junta, así como de convenios de administración de contratos ley y cualquier otra información de utilidad que obre en sus archivos;
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
 
@@ -433,9 +427,11 @@ XVIII. Ordenar la publicación en medios impresos, informáticos o magnéticos, 
 
 De la Secretaría General de Conciliación y Asuntos Individuales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 19.
 
-Corresponde a la Secretaria General de Conciliación y Asuntos Individuales:
+Corresponde a la Secretaría General de Conciliación y Asuntos Individuales:
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
 
@@ -555,7 +551,9 @@ III. Representar legalmente a la Presidenta o Presidente de la Junta ante los ó
 
 IV. Elaborar y presentar a la consideración de la Presidenta o Presidente de la Junta los proyectos de reglamentos, instrumentos y lineamientos que solicite;
 
-V. Coordinar, a través de la Secretaría Auxiliar de Amparos, el apoyo oportuno de los trámites, informes, certificaciones, resoluciones y demás actos inherentes a los juicios de amparo de los asuntos colectivos;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
+
+V. Coordinar, a través de la Secretaría Auxiliar de Amparos, el apoyo oportuno de los trámites, informes, certificaciones, resoluciones y demás actos inherentes a los juicios de amparo de los asuntos colectivos e individuales;
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
 
@@ -587,15 +585,17 @@ XIV. Supervisar el funcionamiento de la Biblioteca de la Junta.
 
 Corresponde a la Coordinación General de Administración:
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
 
-> <small>(ADICIONADA, D.O.F. 21 DE DICIEMBRE DE 2020)</small>
+I. Autorizar las erogaciones por concepto de viáticos y pasajes, de las comisiones nacionales que se confieran a las personas servidoras públicas de la Junta, de conformidad con las disposiciones administrativas vigentes;
 
-I. Autorizar las erogaciones por concepto de viáticos y pasajes, de las comisiones nacionales que se confieran a los servidores públicos de la Junta Federal de Conciliación y Arbitraje, de conformidad con las disposiciones administrativas vigentes;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
 
-II. Coordinar, con la participación que corresponda de las autoridades de la Secretaría, la administración y evaluación de los recursos financieros, humanos, materiales y tecnológicos asignados a la Junta, así como vigilar la aplicación de las disposiciones normativas en la materia;
+II. Coordinar, con la participación de las autoridades correspondientes de la Secretaría, la administración y evaluación de los recursos financieros, humanos, materiales y tecnológicos asignados a la Junta, así como vigilar la aplicación de las disposiciones normativas en la materia;
 
-III. Vigilar la aplicación de las disposiciones normativas en materia de programación y presupuesto, servicio profesional de carrera, transparencia e información pública;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
+
+III. Vigilar la aplicación de las disposiciones normativas en materia de programación y presupuesto, servicio profesional de carrera, recursos humanos, transparencia e información pública;
 
 IV. Proponer a la Secretaría las modificaciones a la estructura orgánica de la Junta, de acuerdo con las disposiciones aplicables;
 
@@ -603,9 +603,13 @@ V. Desarrollar, en coordinación con las Secretarías Generales de la Junta, est
 
 VI. Atender, en coordinación con la Secretaría, las necesidades de recursos humanos de las áreas jurídicas y administrativas que integran la Junta, de acuerdo con la disponibilidad presupuestaria;
 
-VII. Coordinar las visitas de verificación a las áreas jurídicas y administrativas de la Junta, con el objeto de mantener actualizada la estructura ocupacional de las mismas, y proponer los mecanismos necesarios para equilibrar las cargas de trabajo y lograr el aprovechamiento del personal asignado a la Junta;
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 21 DE FEBRERO DE 2024)</small>
 
-VIII. Atender las necesidades en materia de bienes y servicios de las áreas jurídicas y administrativas que integran la Junta, así como autorizar el trámite para su adquisición y contratación ante las áreas competentes de la Secretaría, de acuerdo a la disponibilidad presupuestal;
+VII. Atender las necesidades en materia de bienes y servicios de las áreas jurídicas y administrativas que integran la Junta, así como autorizar el trámite para su adquisición y contratación ante las áreas competentes de la Secretaría, de acuerdo con la disponibilidad presupuestal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 21 DE FEBRERO DE 2024)</small>
+
+VIII. Coordinar las visitas de verificación a las áreas jurídicas y administrativas de la Junta, con el objeto de mantener actualizada la estructura ocupacional de las mismas, y proponer los mecanismos necesarios para equilibrar las cargas de trabajo y lograr el aprovechamiento del personal asignado a la Junta;
 
 IX. Autorizar el reembolso del fondo rotatorio asignado y supervisar su reintegro;
 
@@ -615,13 +619,19 @@ IX. Autorizar el reembolso del fondo rotatorio asignado y supervisar su reintegr
 
 X. Gestionar ante la Secretaría, el desarrollo de aplicaciones en materia de tecnologías de la información y comunicaciones para la Junta;
 
-XI. Conducir, en coordinación con la Secretaría, las relaciones laborales al interior de la Junta, y solicitar la autorización de altas, bajas, promociones, licencias y cambios de adscripción del personal de la Junta;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
+
+XI. Conducir, en coordinación con la Secretaría, las relaciones laborales al interior de la Junta, y solicitar la autorización de altas, bajas, promociones, licencias, cambios de adscripción y comisiones del personal de la Junta por necesidades del servicio;
 
 XII. Proponer a la Presidenta o Presidente de la Junta el programa anual de capacitación y remitirlo a la Secretaría;
 
-XIII. Coordinar los servicios que presten los archivos de la Junta;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
 
-XIV. Coordinar el proceso de integración de información estadística de la Junta, que permita conocer el resultado de los procedimientos jurisdiccionales por periodos determinados;
+XIII. Coordinar los servicios que presta el archivo de concentración de la Junta;
+
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
+
+XIV. Coordinar el proceso de integración de información estadística de la Junta, que permite conocer el resultado y productividad de las áreas sustantivas;
 
 XV. Colaborar en el establecimiento de los modelos de evaluación interna del desempeño de la Junta y del personal jurídico;
 
@@ -638,6 +648,12 @@ XIX. Desempeñar las comisiones que le encomiende la Presidenta o Presidente de 
 XX. Integrar el Comité Técnico del Fondo, como Secretaría Técnica, y
 
 XXI. Las demás que le asigne el Pleno y la Presidenta o Presidente de la Junta, en el ámbito de sus respectivas competencias.
+
+> <small>(ADICIONADO, D.O.F. 21 DE FEBRERO DE 2024)</small>
+
+###### Artículo 21 Bis.
+
+La o el Coordinador General de Administración podrá ser suplido por ausencia por la o el Director al que en términos del presente Reglamento corresponda el tema en cuestión.
 
 ### CAPÍTULO VII. De las Presidentas o Presidentes de Junta Especial
 
@@ -695,13 +711,13 @@ I. Levantar las actas inherentes a los convenios que ante las Juntas Especiales 
 
 II. Remitir de inmediato a la Presidenta o Presidente de la Junta, por conducto de la Secretaría Auxiliar de Amparos, los oficios, resoluciones y documentos diversos, que en su caso reciban de los órganos jurisdiccionales de amparo, en relación con procedimientos de naturaleza colectiva;
 
-III. Presentar a la Delegación Federal del Trabajo que corresponda, las solicitudes de abastecimiento, adquisición o contratación de bienes y servicios indispensables para la operación de la Junta Especial, de acuerdo al presupuesto de la misma y en coordinación con la Secretaría General de Conciliación y Asuntos Individuales, y
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
+III. Presentar ante la Coordinación General de Administración de la Junta y a la Oficina de Representación Federal del Trabajo que corresponda, las solicitudes de abastecimiento, adquisición o contratación de bienes y servicios indispensables para la operación de la Junta Especial, de acuerdo al presupuesto de la misma; y
 
-> <small>(REFORMADO [N. DE E. REUBICADO ANTES FRACCIÓN IV], D.O.F. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES ÚLTIMO PÁRRAFO], D.O.F. 21 DE FEBRERO DE 2024)</small>
 
-Mantener comunicación permanente con las áreas de la Coordinación General de Administración, para el planteamiento y atención de asuntos relacionados con presupuesto, recursos humanos, materiales, estadísticas y cumplimiento de metas.
+IV. Mantener comunicación permanente con la Coordinación General de Administración, para el planteamiento y atención de asuntos relacionados con presupuesto, recursos humanos, materiales, estadísticas y cumplimiento de metas.
 
 ### CAPÍTULO VIII. De las Secretarías Auxiliares
 
@@ -731,47 +747,47 @@ X. Desempeñar y atender las actividades y comisiones que en el ámbito de su co
 
 XI. Presentar a la Presidenta o Presidente de la Junta, por conducto de su superior inmediato, los informes de actividades, así como las notas informativas y los reportes que se le requieran, y
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2020)</small>
+XII. Las demás que les asigne el Pleno, la Presidenta o el Presidente de la Junta o su superior jerárquico, en el ámbito de sus respectivas competencias.
 
-XXI (SIC). Las demás que les asigne el Pleno, la Presidenta o el Presidente de la Junta o su superior jerárquico, en el ámbito de sus respectivas competencias.
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 21 DE FEBRERO DE 2024)</small>
 
-De la Secretaría Auxiliar de Emplazamientos a Huelga
+De la Secretaría Auxiliar de Emplazamientos a Huelga y Asuntos Colectivos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 25.
 
-Corresponde a la Secretaría Auxiliar de Emplazamientos a Huelga:
+Corresponde a la Secretaría Auxiliar de Emplazamientos a Huelga y Asuntos Colectivos:
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2020)</small>
+I. Atender y tramitar los procedimientos de huelga y asuntos relativos a los conflictos colectivos de naturaleza jurídica y económica presentados ante la Junta, de conformidad con lo establecido en la Ley;
 
-I. Atender y tramitar los procedimientos de huelga presentados ante la Junta, en todas sus etapas, de conformidad con lo establecido en la Ley;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
+II. Procurar arreglos conciliatorios entre las partes en los procedimientos de huelga y conflictos colectivos de trabajo presentados ante la Junta, con la intervención del personal asignado a la función conciliatoria en asuntos de su competencia;
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
 
-II. Procurar arreglos conciliatorios entre las partes en los procedimientos de huelga, con la intervención del personal asignado a la función conciliatoria en asuntos de su competencia;
+III. Elaborar y presentar a la aprobación y firma, en su caso, de la Presidenta o del Presidente de la Junta, y de las y los Representantes que intervengan, los proyectos de acuerdos y resoluciones que requieran los asuntos de su competencia en el trámite de los expedientes respectivos, y vigilar que aquellas sean debidamente firmadas y, en su caso, engrosadas;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2020)</small>
+IV. Rendir informes a la Presidenta o Presidente de la Junta, respecto de los procedimientos de huelga y conflictos colectivos de trabajo relevantes que se tramiten, y de las audiencias respectivas, señalando el estado que guarden y los resultados obtenidos,
 
-III. Presentar a la aprobación y firma, en su caso, de la Presidenta o del Presidente de la Junta y de las o los Representantes que intervengan en los procedimientos de huelga, los proyectos de acuerdos y resoluciones que se requieran para el trámite de los expedientes respectivos;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
+V. Supervisar e Instrumentar las medidas conducentes para que la prueba de recuento de las trabajadoras y los trabajadores se lleve a cabo conforme a lo dispuesto por la Ley y la jurisprudencia aplicable;
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(ADICIONADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
 
-IV. Rendir informes a la Presidenta o Presidente de la Junta, respecto de los emplazamientos a huelga relevantes que se presenten, y de las audiencias respectivas; así como las diligencias practicadas en cada uno de los expedientes de huelga que se tramiten, señalando el estado que guarden y los resultados obtenidos; y,
+VI. Recibir para su ratificación y aprobación, los convenios de carácter colectivo que se presenten para tal efecto ante la Junta; y
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
+> <small>(ADICIONADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
 
-> <small>(ADICIONADA, D.O.F. 21 DE DICIEMBRE DE 2020)</small>
-
-V. Supervisar que las diligencias de recuento de las trabajadoras o los trabajadores se lleven a cabo conforme a lo dispuesto por la Ley y la jurisprudencia aplicable.
+VII. Dar fe de la entrega de dinero o bienes que se haga a las trabajadoras y los trabajadores, con motivo del cumplimiento de los convenios que se sometan a su aprobación.
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
 
@@ -783,19 +799,7 @@ De la Secretaría Auxiliar de Asuntos Colectivos
 
 ###### Artículo 27.
 
-Corresponde a la Secretaría Auxiliar de Asuntos Colectivos:
-
-I. Atender y tramitar los asuntos relativos a los conflictos colectivos de naturaleza jurídica y económica, presentados ante la Junta;
-
-II. Procurar los arreglos conciliatorios que se requieran para resolver conflictos colectivos de trabajo;
-
-III. Elaborar los proyectos de acuerdos y resoluciones que requieran los asuntos de su competencia y vigilar que aquellas sean debidamente firmadas y, en su caso, engrosadas;
-
-IV. Instrumentar las medidas conducentes para que la prueba de recuento de las trabajadoras o los trabajadores en los casos de juicio de titularidad de contrato colectivo de trabajo y administración de contrato ley, se desahogue de acuerdo con lo establecido en la Ley y la jurisprudencia aplicable;
-
-V. Recibir para su ratificación y aprobación, los convenios de carácter colectivo que se presenten para tal efecto ante la Junta, y
-
-VI. Dar fe de la entrega de dinero o bienes que se haga a las trabajadoras o los trabajadores con motivo del cumplimiento de los convenios que se sometan a su aprobación.
+(DEROGADO, D.O.F. 21 DE FEBRERO DE 2024)
 
 De la Secretaría Auxiliar de Peritajes y Diligencias
 
@@ -859,7 +863,9 @@ Corresponde a la Secretaría Auxiliar de Asesoría Jurídica e Información Téc
 
 I. Brindar asesoría jurídica a las Juntas Especiales, para la tramitación de los asuntos a su cargo, con la participación que corresponda de las Secretarías Generales y Auxiliares;
 
-II. Comunicar a las áreas jurídicas de la Junta, los criterios aprobados por el Pleno;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
+
+II. Comunicar a las áreas jurídicas de la Junta, los criterios aprobados por el Pleno
 
 III. Operar la Biblioteca de la Junta;
 
@@ -897,21 +903,27 @@ De la Secretaría Auxiliar de Amparos
 
 Corresponde a la Secretaría Auxiliar de Amparos:
 
-I. Elaborar los proyectos de informes y de actuaciones relacionadas con los juicios de amparo que se promuevan en asuntos de carácter colectivo;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
 
-II. Supervisar que la tramitación de los amparos y recursos que se interpongan en asuntos colectivos, se sustancien conforme a las disposiciones aplicables;
+I. Elaborar los proyectos de informes y de actuaciones relacionadas con los juicios de amparo que se promuevan en asuntos de carácter colectivo e individual;
+
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
+
+II. Supervisar que la tramitación de los amparos y recursos que se interpongan en asuntos colectivos e individuales, se sustancien conforme a las disposiciones aplicables;
 
 III. Atender, con la participación de las áreas responsables, los requerimientos que las autoridades y los órganos jurisdiccionales formulen a la Presidenta o Presidente de la Junta;
 
-IV. Colaborar con las Juntas Especiales en la atención de los juicios de amparo que se interpongan en contra de sus resoluciones, conforme a los programas de apoyo que se autoricen;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
 
-V. Integrar los elementos necesarios para comprobar ante las autoridades respectivas la legalidad de los actos reclamados en los asuntos colectivos y en caso de remitir el expediente laboral, vigilar la correcta integración de la carpeta que contenga los testimonios de las constancias indispensables, en los términos de la Ley de Amparo;
+IV. Colaborar con las Juntas Especiales en la atención de los juicios de amparo y recursos que se interpongan en contra de sus resoluciones, conforme a los programas de apoyo que se autoricen;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2020)</small>
+V. Integrar los elementos necesarios para comprobar ante las autoridades respectivas la legalidad de los actos reclamados en los asuntos colectivos e individuales y en caso de remitir el expediente laboral, vigilar la correcta integración de la carpeta que contenga los testimonios de las constancias indispensables, en los términos de la Ley de Amparo;
 
-VI. Informar de inmediato a la Presidenta o Presidente de la Junta, por conducto de las áreas respectivas, sobre las resoluciones de suspensión, así como respecto al otorgamiento de garantías y contragarantías para su debida observancia, en los asuntos colectivos, y
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
+
+VI. Informar de inmediato a la Presidenta o Presidente de la Junta, por conducto de las áreas respectivas, sobre las resoluciones de suspensión, así como respecto del otorgamiento de garantías y contragarantías para su debida observancia, en los asuntos colectivos e individuales; y
 
 VII. Mantener actualizado el registro y control de las audiencias incidentales y constitucionales de los juicios de amparo, así como de los informes y las resoluciones correspondientes, en los asuntos colectivos.
 
@@ -925,15 +937,19 @@ VII. Mantener actualizado el registro y control de las audiencias incidentales y
 
 ### CAPÍTULO X. De las Direcciones de Área
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 33.
 
-Al frente de cada dirección de área habrá una Directora o Director, quien tendrá las atribuciones que competen a las unidades administrativas que se le adscriban, así como las siguientes:
+En cada dirección de área habrá una Directora o Director, quien tendrá las atribuciones que competan a las áreas que se le adscriban, así como las siguientes:
 
 I. Dirigir, controlar y evaluar el funcionamiento de las áreas que se le adscriban;
 
 II. Acordar con su superior jerárquico el desarrollo de las actividades propias del área y el despacho de los asuntos que estén bajo su responsabilidad;
 
-III. Diseñar y presentar para aprobación de las Secretarías Generales o la Coordinación General de Administración, según sea el caso, los estudios, proyectos, programas y disposiciones de carácter específicas a aplicarse en el área respectiva;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
+
+III. Diseñar y presentar para aprobación de la Coordinación General de Administración, los estudios, proyectos, programas y disposiciones de carácter específicas a aplicarse en el área respectiva;
 
 IV. Proporcionar información respecto de las obligaciones de transparencia, rendición de cuentas, y acceso a la información pública en los términos de la normatividad aplicable;
 
@@ -941,7 +957,9 @@ V. Cumplir con lo establecido en los manuales administrativos de organización y
 
 VI. Aplicar la plataforma informática instalada para ser más eficientes los procesos a cargo del área, y
 
-VII. Las demás que le asigne el Pleno, la Presidenta o el Presidente de la Junta o su superior jerárquico, en el ámbito de sus respectivas competencias.
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
+
+VII. Las demás que le asigne la Coordinación General de Administración en atención a los acuerdos del Pleno o las instrucciones de la Presidenta o el Presidente de la Junta, en el ámbito de sus respectivas competencias.
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
 
@@ -999,11 +1017,9 @@ V. Realizar las acciones de integración y verificación de los proyectos de man
 
 VI. Supervisar el proceso de reclutamiento y selección de personal operativo, y la gestión para su contratación y nombramiento por parte de la Secretaría, así como la evaluación de este personal con base en las disposiciones aplicables;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2020)</small>
-
-VII. Autorizar el pago de pasajes a las servidoras o servidores públicos de conformidad con las disposiciones administrativas emitidas por la Secretaría;
+VII. Autorizar el pago de pasajes a las personas servidoras públicas de conformidad con las disposiciones administrativas emitidas por la Secretaría;
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
 
@@ -1065,17 +1081,11 @@ XVI. Gestionar los asuntos relacionados con la adquisición de bienes y servicio
 
 XVII. Supervisar la integración y actualización del inventario de activo fijo, y proveer lo necesario para su conservación, mantenimiento y, en su caso, destino final;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
+XVIII. (DEROGADA, D.O.F. 21 DE FEBRERO DE 2024)
 
-> <small>(ADICIONADA, D.O.F. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
 
-XVIII. Diseñar y proponer a la Coordinación General de Administración sistemas integrales de seguridad, vigilancia y protección civil de la Junta;
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
-
-> <small>(ADICIONADA, D.O.F. 21 DE DICIEMBRE DE 2020)</small>
-
-XIX. Supervisar la integración del Boletín Laboral de la Junta en medios impresos, y difundirlo a través de las páginas electrónicas de la Secretaría y la Junta;
+XIX. Supervisar la integración del Boletín Laboral de la Junta y difundirlo a través de las páginas electrónicas de la Junta;
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
 
@@ -1119,27 +1129,25 @@ I. Integrar y evaluar la información de los resultados obtenidos por las áreas
 
 II. Elaborar la información institucional de la Junta, a fin de cumplir con las obligaciones en materia de rendición de cuentas;
 
-III. Apoyar en la definición y evaluación de los indicadores de gestión, en coordinación con las áreas jurídicas y administrativas de la Junta;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
+
+III. Apoyar en la definición y evaluación de los indicadores estadísticos, en coordinación con las áreas jurídicas y administrativas de la Junta;
 
 IV. Compilar y sistematizar la información estadística para medir los resultados de los indicadores de productividad de las áreas jurídicas y administrativas de la Junta y presentarla a la Coordinación General de Administración para proceder a su difusión;
 
-V. Vigilar la integración del archivo de la documentación programática y estadística de la Junta;
+V. (DEROGADA, D.O.F. 21 DE FEBRERO DE 2024)
 
-VI. Proponer estrategias de mejora para hacer más eficiente la aplicación de los recursos asignados a la Junta, y
+VI. (DEROGADA, D.O.F. 21 DE FEBRERO DE 2024)
 
 VII. Apoyar a las áreas de la Junta para la atención de las observaciones, recomendaciones y propuestas de mejora, derivadas de auditorías y revisiones realizadas por los órganos de control y fiscalización.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
 
-> <small>(ADICIONADA, D.O.F. 21 DE DICIEMBRE DE 2020)</small>
+VIII. Administrar el archivo de concentración de la Junta y adoptar las acciones necesarias para la conservación y custodia de los documentos;
 
-VIII. Administrar los archivos de la Junta y adoptar las acciones necesarias para la conservación y custodia de los documentos;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
-
-> <small>(ADICIONADA, D.O.F. 21 DE DICIEMBRE DE 2020)</small>
-
-IX. Realizar revisiones periódicas a los archivos de Juntas Especiales, para verificar los inventarios de expedientes físicos del Archivo Único de Trámite;
+IX. Realizar revisiones periódicas a los archivos de Juntas Especiales, para verificar que los inventarios de expedientes físicos concuerden con los controles estadísticos y los sistemas informáticos vigentes;
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
 
@@ -1147,17 +1155,17 @@ IX. Realizar revisiones periódicas a los archivos de Juntas Especiales, para ve
 
 X. Supervisar que el servicio de los archivos se otorgue en los términos de las disposiciones aplicables;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
 
-> <small>(ADICIONADA, D.O.F. 21 DE DICIEMBRE DE 2020)</small>
+XI. Diseñar y proponer a la Coordinación General de Administración sistemas integrales de seguridad, vigilancia y protección civil de la Junta.
 
-XI. Asesorar a las Juntas Especiales en las entidades federativas, para la organización y funcionamiento de sus archivos; y
+> <small>(ADICIONADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
+XII. Asesorar a las Juntas Especiales en las entidades federativas, para la organización y funcionamiento de sus archivos; y
 
-> <small>(ADICIONADA, D.O.F. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 21 DE FEBRERO DE 2024)</small>
 
-XII. Las demás que le asigne su superior jerárquico, en el ámbito de sus respectivas competencias.
+XIII. Las demás que le asigne su superior jerárquico, en el ámbito de sus respectivas competencias.
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
 
@@ -1191,7 +1199,9 @@ IV. Llevar un registro de las conciliaciones, de las minutas y de los convenios 
 
 V. Informar a su superior jerárquico los resultados de las conciliaciones que se le encomiende, así como de los convenios a que hubieren llegado las partes para efectos de su aprobación, cuando proceda;
 
-VI. Apoyar en la elaboración de proyectos de dictamen de los asuntos en los que no logre la conciliación, y
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
+
+VI. Apoyar en la elaboración de proyectos de dictamen de los asuntos en los que no logre la conciliación, así como cumplir con las metas establecidas en los acuerdos de productividad emitidos por el Pleno de la Junta; y
 
 VII. Las demás que les asigne la Presidenta o el Presidente de la Junta y la Secretaria o Secretario General de su adscripción.
 
@@ -1241,7 +1251,9 @@ VII. Asentar su nombre y firma, así como la fecha de los proyectos de resolucio
 
 VIII. Mantener reserva sobre el sentido de los proyectos de resoluciones que se formulen;
 
-IX. Cumplir con lo establecido en los manuales administrativos de organización y de procesos de la Junta, instructivos, lineamientos y cualquiera otra disposición que se expida para el mejor funcionamiento de la Junta Especial o Secretaría Auxiliar, y
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
+
+IX. Cumplir con lo establecido en los manuales administrativos de organización y de procesos de la Junta, instructivos, lineamientos, acuerdos de productividad y cualquiera otra disposición que se expida para el mejor funcionamiento de la Junta Especial o Secretaría Auxiliar; y
 
 X. Las demás que les asigne el Pleno, la Presidenta o Presidente de la Junta o sus superiores jerárquicos, en el ámbito de sus respectivas competencias.
 
@@ -1291,7 +1303,9 @@ VII. Mantener actualizado el control relativo al cumplimiento de las ejecutorias
 
 VIII. Comunicar los resultados de las actividades relacionadas con los amparos recibidos y tramitados, así como el cumplimiento de las ejecutorias de amparo, señalando el sentido de las mismas y hacerlos del conocimiento de la Presidenta o Presidente de la Junta Especial, y
 
-IX. Atender los lineamientos e instrucciones que en materia de amparo, emita la Presidenta o Presidente de la Junta Especial de su adscripción.
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
+
+IX. Atender los lineamientos e instrucciones que, en materia de amparo, emita la Presidenta o Presidente de la Junta Especial de su adscripción.
 
 ### CAPÍTULO XIV. De las Secretarias o Secretarios de Acuerdos
 
@@ -1333,7 +1347,9 @@ XIV. Atender las diligencias que por necesidad se tengan que desahogar en días 
 
 XV. Utilizar las aplicaciones informáticas instaladas en los equipos, para facilitar las labores de la Junta Especial o Secretaría Auxiliar y llevar un mejor seguimiento y control de las mismas;
 
-XVI. Cumplir con lo establecido en los manuales administrativos de organización y de procesos de la Junta, instructivos, lineamientos y cualquiera otra disposición que se expida para el funcionamiento de la Junta Especial o Secretaría Auxiliar, y
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
+
+XVI. Cumplir con lo establecido en los manuales administrativos de organización y de procesos de la Junta, instructivos, lineamientos, acuerdos de productividad y cualquiera otra disposición que se expida para el funcionamiento de la Junta Especial o Secretaría Auxiliar; y
 
 XVII. Presentar a la Presidenta o Presidente de la Junta Especial a la o al Titular de la Secretaría Auxiliar, por conducto de su superior inmediato, los informes de actividades, así como las notas informativas y los reportes que le requieran.
 
@@ -1355,11 +1371,17 @@ IV. Asentar en el acta que levante, por motivo o requerimiento de pago de ejecuc
 
 V. Atender las diligencias que por necesidad se tengan que desahogar en días y horas inhábiles;
 
-VI. Cumplir con lo establecido en los manuales administrativos de organización y de procesos de la Junta, instructivos, lineamientos y cualquiera otra disposición que se expida para el mejor funcionamiento de la Junta;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
 
-VII. Utilizar las aplicaciones informáticas instaladas en los equipos para facilitar las labores de la Junta Especial o Secretaría Auxiliar, llevar un seguimiento y control de las mismas, y
+VI. Cumplir con lo establecido en los manuales administrativos de organización y de procesos de la Junta, instructivos, lineamientos, acuerdos de productividad y cualquiera otra disposición que se expida para el mejor funcionamiento de la Junta;
 
-VIII. Rendirles informes de labores a la Presidenta o Presidente de la Junta Especial o Titular de la Secretaría Auxiliar.
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
+
+VII. Utilizar las aplicaciones informáticas instaladas en los equipos para facilitar las labores de la Junta Especial o Secretaría Auxiliar, llevar un seguimiento y control de las mismas, y;
+
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
+
+VIII. Rendirles informes de labores a la Presidenta o Presidente de la Junta Especial o Titular de la Secretaría Auxiliar, conforme a los formatos e instructivos emitidos por la Coordinación General de Administración.
 
 ### CAPÍTULO XVI. Boletín Laboral y Biblioteca Del Boletín Laboral
 
@@ -1425,7 +1447,9 @@ XVIII. Realizar ante las diversas instancias jurisdiccionales, la defensa juríd
 
 XIX. Presentar a la Presidenta o Presidente de la Junta, de manera mensual, un informe estadístico de los asuntos a su cargo;
 
-XIX (SIC). Integrar el Comité Técnico del Fondo;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
+
+XIX bis. Integrar el Comité Técnico del Fondo;
 
 XX. Instruir los recursos de inconformidad que interpongan los quejosos y/o denunciantes en contra de la calificación de los hechos como faltas administrativas no graves y las abstenciones emitidas por la autoridad investigadora y someterlos a la resolución de la sala especializada en materia de responsabilidades administrativas que corresponda, en los plazos previstos por la Ley de la materia;
 
@@ -1541,7 +1565,9 @@ Las Juntas Especiales, Secretarías Auxiliares y Oficinas Auxiliares de las Junt
 
 Los depósitos recibidos por el Fondo, únicamente serán devueltos a quien tenga derecho a ello, previa orden por escrito del Presidente o del Presidente de la Junta Especial, según proceda, sin contemplar los rendimientos generados.
 
-Lo anterior, en cumplimiento a los artículos 735 y 949 de la Ley Federal del Trabajo.
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2024)</small>
+
+Lo anterior, en cumplimiento a los artículos 735 y 949 de la Ley Federal del Trabajo
 
 ###### Artículo 57.
 
@@ -1575,7 +1601,9 @@ II. Deberá elaborar en diciembre de cada año, el presupuesto de ingresos y egr
 
 III. Podrá designar con cargo al patrimonio del Fondo, el personal que debe auxiliarlo en su administración y supervisión;
 
-IV. Informará anualmente al Pleno el estado de la administración del Fondo, e
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2024)</small>
+
+IV. Informará anualmente al Pleno el estado de la administración del Fondo, e;
 
 V. Informará al Pleno los prospectos de acciones de mejora, de conformidad con el presupuesto al que se refiere la fracción II de este artículo.
 
@@ -1605,7 +1633,9 @@ Para la administración del Fondo, el Comité Técnico expedirá los Lineamiento
 
 Cualquiera de los integrantes del Comité, por sí o a petición del Pleno, podrá solicitar auditorías, para revisar el manejo del dinero y valores depositados en el Fondo, con el objetivo de prevenir y detectar irregularidades que pudieran constituir responsabilidades administrativas o la comisión de delitos, con la finalidad de tomar las medidas necesarias para su sanción.
 
-Sin perjuicio de lo anterior, al final de cada ejercicio se practicará una auditoria externa, con cargo a los rendimientos del Fondo. El Pleno propondrá y autorizará al auditor que realice esta encomienda.
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2024)</small>
+
+Sin perjuicio de lo anterior, al final de cada ejercicio se practicará una auditoría externa, con cargo a los rendimientos del Fondo. El Pleno propondrá y autorizará al auditor que realice esta encomienda.
 
 ## TRANSITORIOS
 
@@ -1668,3 +1698,21 @@ PRIMERO. Se da a conocer a la población en general las direcciones electrónica
 SEGUNDO. Publíquese el presente Aviso en el Diario Oficial de la Federación.
 
 TERCERO. Se deja sin efectos el AVISO General mediante el cual se da a conocer la dirección electrónica en la cual podrá ser consultado el Reglamento Interior de la Junta Federal de Conciliación y Arbitraje de fecha 06 de junio de 2019.
+
+D.O.F. 21 DE FEBRERO DE 2024.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL AVISO GENERAL MEDIANTE EL CUAL SE DA A CONOCER LA DIRECCIÓN ELECTRÓNICA EN LA CUAL PODRÁ SER CONSULTADO EL REGLAMENTO INTERIOR DE LA JUNTA FEDERAL DE CONCILIACIÓN Y ARBITRAJE, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO]</small>
+
+PRIMERO. Se da a conocer a la población en general la dirección electrónica https://www.gob.mx/jfca/documentos/reglamento-interior-de-la-junta-federal-de-conciliacion-yarbitraje?idiom=es a la cual se podrá acceder para consultar el Reglamento Interior de la Junta Federal de Conciliación y Arbitraje vigente, el cual contiene las reformas y adiciones realizadas al mismo, que fueron aprobadas el 6 de julio de 2023, por el Pleno de la Junta Federal de Conciliación y Arbitraje.
+
+SEGUNDO. Publíquese el presente Aviso en el Diario Oficial de la Federación.
+
+TERCERO. Se deja sin efectos el AVISO General mediante el cual se da a conocer la dirección electrónica en la cual podrá ser consultado el Reglamento Interior de la Junta Federal de Conciliación y Arbitraje de fecha 21 de diciembre de 2020.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA JUNTA FEDERAL DE CONCILIACIÓN Y ARBITRAJE”.]
+
+Primero. - El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. - Se abroga el Reglamento Interior de la Junta Federal de Conciliación y Arbitraje publicado en el Diario Oficial de la Federación el día veintiuno de diciembre de dos mil veinte; y se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+Tercero. - Las áreas de la Junta con denominación nueva a la que aparece en el Reglamento que se abroga o con competencia en asuntos que correspondían a otras áreas o unidades, se harán cargo de los mismos a partir de la entrada en vigor del presente Reglamento y hasta su total resolución.
