@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-del-estado-de-puebla-142951"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-18"
-last_updated: "2023-12-05"
+last_updated: "2024-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2024.
 
 Ley publicada en la Segunda Sección del Estado de Puebla, el lunes 18 de mayo de 2020.
 
@@ -549,7 +549,9 @@ V. Favorecer el desarrollo de aptitudes corporales y estéticas a través de la 
 
 VI. Fomentar la iniciativa, la creatividad y la responsabilidad en un ambiente de libertad y respeto;
 
-VII. Propiciar el ejercicio crítico y reflexivo sobre los objetos de conocimientos mediante el trabajo intelectual, lógico y sistemático, de tal modo que el educando se haga agente activo de su proceso de aprendizaje;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+VII. Propiciar el ejercicio crítico y reflexivo sobre los objetos de conocimientos mediante el trabajo intelectual, lógico y sistemático, de tal modo que el educando se haga agente activo de su proceso de aprendizaje; así como la comprensión, aplicación y uso responsable de la tecnología.
 
 VIII. Orientar en el educando la adquisición de una conciencia de participación comprometida con el cuidado y conservación del entorno natural y social;
 
@@ -591,7 +593,9 @@ V. Promover el desarrollo de habilidades y destrezas mediante el trabajo en tall
 
 VI. Formar al educando para el análisis crítico, científico y objetivo de la realidad como base para la búsqueda de soluciones a los problemas de su comunidad, de su Municipio, del Estado y del País;
 
-VII. Encauzar el desarrollo y la aplicación de la ciencia y la tecnología para atender los requerimientos sociales;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+VII. Encauzar el desarrollo y la aplicación de la ciencia y la tecnología para atender los requerimientos sociales; así como su comprensión, aplicación y uso responsable.
 
 VIII. Fortalecer la conciencia histórica de identidad regional, estatal y nacional mediante el conocimiento y la práctica de la justicia, la democracia y la solidaridad, y
 
@@ -635,7 +639,9 @@ Estos servicios se podrán impartir en las modalidades y opciones educativas se�
 
 El bachillerato tendrá las siguientes características y finalidades:
 
-I. Desarrollar las habilidades necesarias para adquirir los conocimientos básicos de las ciencias, las humanidades, las tecnologías y para acceder a estudios de tipo superior;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+I. Desarrollar las habilidades necesarias para adquirir los conocimientos básicos de las ciencias, las humanidades, las tecnologías y para acceder a estudios de tipo superior; así como la comprensión, aplicación y uso responsable de la tecnología.
 
 II. Promover el uso de métodos adecuados como base para continuar la formación de las y los educandos, ya sea en la educación de tipo superior o en el desempeño laboral, así como para la interpretación de la cultura de su tiempo;
 
@@ -2312,3 +2318,11 @@ SEGUNDO. La Secretaría de Educación del Estado, en cumplimiento a las medidas 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 CUARTO. El Poder Ejecutivo y los Ayuntamientos del Estado, deberán considerar de manera paulatina y progresiva en sus programas presupuestarios a partir del ejercicio fiscal 2025 y subsecuentes, las acciones y actividades que en el ámbito de sus respectivas competencias resulten necesarias para dar cumplimiento a lo dispuesto en el presente Decreto.
+
+P.O. 21 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 28, LA FRACCIÓN VII DEL ARTÍCULO 30 Y LA FRACCIÓN I DEL ARTÍCULO 33, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
