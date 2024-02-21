@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-y-fomento-economico-para-el-estado-de-55151"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-14"
-last_updated: "2022-11-26"
+last_updated: "2024-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO Y FOMENTO ECONÓMICO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2007.
 
@@ -55,7 +55,9 @@ La presente Ley es de orden público, de interés social y de observancia genera
 
 I.- Fomentar el desarrollo económico de la Entidad impulsando su crecimiento equilibrado sobre las bases de un desarrollo sustentable;
 
-II.- Promover una cultura de aprovechamiento sustentable de los recursos naturales y de cuidado al medio ambiente;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+II.- Promover una cultura de uso y aprovechamiento sustentable de los recursos naturales y de cuidado al medio ambiente, mediante la implementación de políticas públicas y acciones que incorporen principios de Economía Circular, como un instrumento para propiciar el crecimiento económico, a través del desarrollo sostenible;
 
 III.- Propiciar la participación conjunta de los sectores público, privado, académico y social en el desarrollo económico;
 
@@ -89,7 +91,11 @@ XIII.- Impulsar la coordinación con autoridades federales y municipales para si
 
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2022)</small>
 
-XIV. Fomentar la participación de las mujeres en la vida económica del Estado, con la implementación de programas con perspectiva de género y mecanismos para la eliminación de barreras en el sistema empresarial.
+XIV.- Fomentar la participación de las mujeres en la vida económica del Estado, con la implementación de programas con perspectiva de género y mecanismos para la eliminación de barreras en el sistema empresarial.
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+XV.- La implementación de políticas públicas encaminadas al fortalecimiento del comercio local, mediante el uso de las Tecnologías de la Información y la Comunicación, con el objetivo de que se obtengan mejores condiciones de competitividad en el mercado e inclusión financiera.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2022)</small>
 
@@ -173,7 +179,13 @@ VII.- Fomentar la creación y desarrollo de sociedades cooperativas, ciudades, p
 
 VIII.- Impulsar la cultura de la mejora regulatoria.
 
-IX.- Las demás que le otorgue esta Ley y disposiciones aplicables en la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE FEBRERO DE 2024)</small>
+
+IX.- Establecer estrategias, en conjunto con los municipios, para impulsar y fortalecer el comercio local, a través del uso y la aplicación de herramientas tecnológicas, de gestión, capacitación y tecnología financiera.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE FEBRERO DE 2024)</small>
+
+X.- Las demás que le otorgue esta Ley y disposiciones aplicables en la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2022)</small>
 
@@ -190,6 +202,10 @@ III.- Promover la celebración de convenios entre los sectores público, privado
 > <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2022)</small>
 
 IV.- Impulsar los proyectos estratégicos que se desarrollen en los Consejos Regionales, que resulten viables, partiendo de la planeación estratégica, previo análisis del Comité de Validación.
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+V.- En coordinación con los municipios, impulsará la celebración de convenios entre estos sectores, con el objeto de buscar la conciliación laboral-familiar, con acciones encaminadas al fortalecimiento del desarrollo económico a la par del desarrollo social.
 
 ### CAPÍTULO III. CONSEJO PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE CHIHUAHUA
 
@@ -966,3 +982,27 @@ P.O. 26 DE NOVIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0316/2022 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO Y FOMENTO ECONÓMICO PARA EL ESTADO DE CHIHUAHUA, DE LA LEY DE FOMENTO A LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL ESTADO DE CHIHUAHUA Y DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE LAS MUJERES".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFLEY/0645/2023 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 1°, FRACCIÓN II, DE LA LEY DE DESARROLLO Y FOMENTO ECONÓMICO PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0646/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO Y FOMENTO ECONÓMICO PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0647/2023 I P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 5º, LA FRACCIÓN V, DE LA LEY DE DESARROLLO Y FOMENTO ECONÓMICO PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
