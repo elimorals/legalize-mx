@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2023-12-05"
+last_updated: "2024-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -165,27 +165,33 @@ Si el sujeto activo desiste espontáneamente de la ejecución o impide la consum
 
 ### CAPITULO CUARTO.- PERSONAS RESPONSABLES DE LOS DELITOS
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 21.
 
-Son responsables de la comisión de un delito:
+Las personas responsables de los delitos son Autores o Partícipes.
 
-I.- Los que toman parte en su concepción, preparación o ejecución;
+Se entiende por autor, quien tiene el dominio del hecho; en tanto que, por partícipe, quien, sin tener dominio del hecho, interviene en el mismo deliberadamente, instigando o auxiliando al autor.
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+Los autores o partícipes responderán cada uno en la medida de su propia culpabilidad, y son:
 
-II.- Los que inducen, compelen o instiguen a otro a cometerlo o se sirvan de otro como medio; y
+I. Autor Intelectual: La o las personas que acuerden o preparen su realización;
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+II. Autor Material: La o las personas que los realicen por sí;
 
-III.- Los que por acuerdo previo, presten auxilio o cooperación de cualquier especie con posterioridad a la ejecución del delito.
+III. Coautores Materiales: La o las personas que lo realicen conjuntamente;
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+IV. Autor Mediato: La o las personas que lo lleven a cabo sirviéndose de otro;
 
-Cuando varios sujetos intervengan en la comisión de un delito y no pueda precisarse su grado de participación, la penalidad que se aplicará a cada uno será entre las tres cuartas partes del mínimo y del máximo de las penas para el delito cometido, de acuerdo con la modalidad respectiva.
+V. Instigador: La o las personas que determinen dolosamente a otro a cometerlo;
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+VI. Cómplice Primario: La o las personas que dolosamente presten ayuda o auxilien a otro para su comisión;
 
-Para los casos a que se refiere la fracción III, la penalidad será de las tres cuartas partes del mínimo y del máximo de las penas previstas para el delito cometido, de acuerdo con la modalidad respectiva.
+VII. Cómplice Secundario: La o las personas que con posterioridad a su ejecución auxilien al autor, en cumplimiento de una promesa anterior al delito, y
+
+VIII. Cómplice Correspectivo: La o las personas que, sin acuerdo previo, intervengan con otros en su comisión, cuando no se pueda precisar el resultado que cada uno produjo.
+
+En el caso de los partícipes a que se refieren las fracciones VI, VII y VIII del presente artículo, la penalidad será de las tres cuartas partes del mínimo y del máximo de las penas previstas para el delito cometido, de acuerdo con la modalidad respectiva.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -7800,6 +7806,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 5 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 478 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 21 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
