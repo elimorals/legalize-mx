@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-bienes-del-estado-de-chihuahua-141181"
 country: "mx"
 rank: "ley"
 publication_date: "2020-02-12"
-last_updated: "2021-10-02"
+last_updated: "2024-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE BIENES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2024.
 
 Ley publicada en el Folleto Anexo al número 13 del Periódico Oficial del Estado de chihuahua, el miércoles 12 de febrero de 2020.
 
@@ -104,6 +104,14 @@ II. Bienes del dominio privado.
 ###### Artículo 5.
 
 La aplicación de esta Ley corresponde a los Poderes Ejecutivo, Legislativo y Judicial, a los municipios, a los organismos descentralizados estatales y municipales, así como a los Organismos Constitucionales Autónomos, respecto de los bienes propiedad del Estado y de los Municipios, en el ámbito de sus respectivas competencias, conforme a lo previsto en las disposiciones legales que los rigen, sin contravenir las disposiciones de esta Ley.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+En el caso de los bienes obtenidos de un crédito o financiamiento finiquitado con la adjudicación del bien dado en garantía otorgados por FIDEAPECH será este mismo el ente público encargado de su enajenación. Este proceso deberá llevarse conforme a las reglas establecidas para la licitación pública y se deberá notificar al Congreso del Estado de Chihuahua tanto el inicio de la licitación como el resultado de la enajenación.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+Los recursos obtenidos mediante la enajenación de los bienes señalados en el párrafo anterior serán administrados por FIDEAPECH y solo podrán utilizarse para el financiamiento de pequeñas y medianas empresas conforme lo establecido en su marco normativo.
 
 ###### Artículo 6.
 
@@ -1416,3 +1424,9 @@ El Estado y los municipios deberán realizar las acciones conducentes para que e
 Los planes y programas de desarrollo urbano y ordenamiento territorial que se encuentren vigentes a la fecha de entrada en vigor de esta Ley, continuarán en su vigencia y surtirán todos sus efectos legales hasta en tanto no se actualicen, según lo dispuesto por los artículos transitorios anteriores.
 
 ARTÍCULO DECIMOTERCERO.- El artículo 233 de la presente Ley entrará en vigor en un plazo de dos años contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 21 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVII/RFLEY/0727/2023 I P.O., MEDIANTE EL CUAL SE ADICIONAN AL ARTÍCULO 5, LOS PÁRRAFOS SEGUNDO Y TERCERO, DE LA LEY DE BIENES DEL ESTADO DE CHIHUAHUA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
