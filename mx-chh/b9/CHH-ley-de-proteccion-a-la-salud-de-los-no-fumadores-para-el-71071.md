@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-a-la-salud-de-los-no-fumadores-para-el-71071"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-07"
-last_updated: "2023-02-08"
+last_updated: "2024-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 7 de noviembre de 2009.
 
@@ -509,9 +509,17 @@ IV. Investigación para la salud y generación de la evidencia científica en ma
 
 V. Difusión de las disposiciones legales en materia del tabaquismo y sus efectos;
 
-VI. Coordinación con el Consejo Estatal contra las Adicciones, y
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
-VII. Promover la denuncia ciudadana.
+VI. Coordinación con el Consejo Estatal contra las Adicciones;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+VII. Promover la denuncia ciudadana; y
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+VIII. Concientización y erradicación de la contaminación provocada por los residuos de tabaco.
 
 ###### Artículo 33.
 
@@ -670,6 +678,14 @@ El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o 
 P.O. 8 DE FEBRERO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0332/2022 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0652/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
