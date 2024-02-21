@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2023-11-27"
+last_updated: "2024-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "TAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2024 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -67,7 +69,7 @@ I. Regular la programación, administración, conservación y preservación de l
 
 II. Establecer las bases de coordinación entre el Estado y los municipios, y el Estado y la Federación para la realización de las acciones relacionadas con la explotación, uso y aprovechamiento del agua, coadyuvando en el ámbito de su competencia al fortalecimiento del pacto federal y del municipio libre en los términos del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y del artículo 132 de la Constitución Política del Estado, con el propósito de lograr el desarrollo equilibrado y sustentable de la entidad federativa;
 
-III. Establecer la organización, atribuciones y funcionamiento de la Comisión Estatal del Agua de Tamaulipas;
+III. (DEROGADA, P.O. 21 DE FEBRERO DE 2024)
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
@@ -81,13 +83,13 @@ V. Establecer la organización, atribuciones y funcionamiento de los organismos 
 
 VI. Establecer e implementar un sistema de índices de gestión que permita monitorear y evaluar el desempeño de los prestadores de servicios públicos inherentes al agua, a fin de supervisar el incremento a su eficiencia física y comercial con el propósito de alcanzar y mantener su autosuficiencia en la operación, administración, conservación, mantenimiento y crecimiento de los sistemas relativos a los servicios mencionados.
 
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
-3. En el caso de la fracción VI del párrafo anterior, la evaluación y supervisión de los organismos operadores, corresponde a los municipios, salvo en los casos de los organismos operadores de naturaleza estatal, que en todo caso corresponderá a la Comisión Estatal del Agua.
+3. En el caso de la fracción VI del párrafo anterior, la evaluación y supervisión de los organismos operadores, corresponde a los municipios, salvo en los casos de los organismos operadores de naturaleza estatal, que en todo caso corresponderá a la Secretaría de Recursos Hidráulicos para el Desarrollo Social.
 
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
-4. Sin demerito de lo anterior, los municipios podrán suscribir convenios, para que la evaluación y supervisión de sus organismos operadores de agua, sea a cargo de la Comisión Estatal del Agua.
+4. Sin demerito de lo anterior, los municipios podrán suscribir convenios, para que la evaluación y supervisión de sus organismos operadores de agua, sea a cargo de la Secretaría de Recursos Hidráulicos para el Desarrollo Social.
 
 ###### Artículo 2.
 
@@ -129,7 +131,9 @@ XII. Catastro Técnico: Mapa digitalizado y base de datos del área de factibili
 
 XIII. Consejo de Administración: El órgano de gobierno de los organismos públicos descentralizados del Estado y los municipios, responsable de la toma de decisiones para orientar los recursos disponibles hacia el cumplimiento (sic) su objeto.
 
-XIV. Contratistas: Las personas físicas o morales que celebren contratos con la Comisión y organismos operadores.
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+XIV. Contratistas: Las personas físicas o morales que celebren contratos con la Secretaría y organismos operadores;
 
 > <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2022)</small>
 
@@ -175,17 +179,15 @@ XXV. Eficiencia Física: El indicador de gestión que resulta de dividir los met
 
 XXVI. Eficiencia Global: El indicador de gestión que resulta de multiplicar la eficiencia comercial por la eficiencia física;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
-XXVII. Gasto Corriente: Todos los gastos que ejerza el prestador de los servicios o la Comisión relacionados con la operación, conservación y mantenimiento de la línea de producción de los servicios, así como los relacionados con la comercialización de los mismos, la administración y suministro de insumos humanos, materiales y de servicios, y la supervisión y control de obras de infraestructura;
+XXVII. Gasto Corriente: Todos los gastos que ejerza el prestador de los servicios o la Secretaría relacionados con la operación, conservación y mantenimiento de la línea de producción de los servicios, así como los relacionados con la comercialización de los mismos, la administración y suministro de insumas (sic) humanos, materiales y de servicios, y la supervisión y control de obras de infraestructura;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
 XXVIII. Gestión Integral del Agua: El proceso sustentado en el conjunto de principios, políticas, actos, recursos, instrumentos, normas formales y no formales, bienes, recursos, derechos, atribuciones y responsabilidades, mediante el cual coordinadamente la Federación, el Estado, los Municipios, las organizaciones de la sociedad, y los usuarios del agua, promueven e instrumentan su aprovechamiento para lograr el desarrollo sustentable en beneficio de los seres humanos y su medio social, económico y ambiental;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
-
-XXIX. La Comisión: El organismo público descentralizado de la administración pública estatal denominado Comisión Estatal del Agua de Tamaulipas;
+XXIX. (DEROGADA, P.O. 21 DE FEBRERO DE 2024)
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
@@ -211,13 +213,13 @@ XXXIV. Llave Reguladora: La válvula que se instala al final de las tomas domici
 
 XXXV. Medidores de Volúmenes de Agua: El instrumento diseñado para medir el agua que fluye por una tubería, canal o cualquier tipo de infraestructura utilizada para transportar o distribuir agua;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
-XXXVI. Normatividad Operativa para el Sector Agua del Estado: La compilación de reglas operativas, técnicas, comerciales y administrativas de los prestadores de los servicios públicos inherentes al agua que conforme a los convenios que éstos tengan celebrados con la Comisión, se hayan obligado a aplicar para mejorar la eficiencia de sus operaciones;
+XXXVI. Normatividad Operativa para el Sector Agua del Estado: La compilación de reglas operativas, técnicas, comerciales y administrativas de los prestadores de los servicios públicos inherentes al agua que conforme a los convenios que éstos tengan celebrados con la Secretaría, se hayan obligado a aplicar para mejorar la eficiencia de sus operaciones;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
-XXXVII. Organismo Operador Estatal: La entidad descentralizada de la administración pública estatal, responsable de prestar los servicios públicos de agua, drenaje, alcantarillado, y tratamiento y disposición de aguas en el territorio de dos o más municipios, por medio de una sola línea de producción de los servicios;
+XXXVII. Organismo Operador Estatal: La entidad descentralizada de la administración pública estatal, responsable de prestar los servicios públicos de agua, drenaje, alcantarillado, y tratamiento y disposición de aguas en el territorio de un municipio, o en dos o más municipios, por medio de una sola línea de producción de los servicios;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
@@ -271,113 +273,117 @@ XLIX. Reúso de las aguas residuales tratadas: La utilización de las aguas sane
 
 L. Saneamiento: La acción de sanear las aguas residuales para que cumplan con ciertas características de calidad, con el fin de evitar la contaminación de los cuerpos receptores y coadyuvar en la preservación del medio ambiente. Para efectos de esta Ley, el proceso de saneamiento está conformado por las descargas sanitarias y los sistemas de desalojo, recolección y tratamiento de las aguas residuales;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
-LI. Servicios Públicos: Aquellos que se prestan a la población o asentamientos humanos relacionados con el suministro de agua potable, alcantarillado sanitario, drenaje pluvial, tratamiento y reúso de las aguas residuales, reúso de las aguas residuales tratadas y disposición de las aguas;
+LI. Secretaría: Secretaría de Recursos Hidráulicos para el Desarrollo Social del Gobierno del Estado de Tamaulipas;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
-LII. Sistema Estatal de información del Sector Agua para el Estado: El sistema tecnológico que contiene la visión del Sector en el largo plazo; los índices de eficacia, eficiencia y productividad resultantes del diagnóstico del Sector; los programas, estrategias y líneas de acción del Programa Estratégico de Desarrollo del Sector Agua del Estado; las metas para cada uno de los indicadores de gestión y su (sic) proyecciones; los avances físicos y económicos de cada uno de los proyectos en ejecución; las proyecciones financieras y demás documentos relevantes para el Sector;
+LII. Servicio (sic) Públicos: Aquellos que se prestan a la población o asentamientos humanos relacionados con el suministro de agua potable, alcantarillado sanitario, drenaje pluvial, tratamiento y reúso de las aguas residuales, reúso de las aguas residuales tratadas y disposición de las aguas;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
-LIII. Sistema de Almacenamiento: La infraestructura hidráulica utilizada para almacenar agua potable con objeto de entregarla al sistema de distribución. Puede ser utilizada también para regular presiones en el sistema de distribución que forma parte de la línea de producción de los servicios de agua potable;
-
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
-
-LIV. Sistema de Captación: La infraestructura hidráulica utilizada para extraer agua cruda de los cuerpos receptores, que forma parte de la línea de producción de los servicios de agua potable;
+LIII. Sistema Estatal de Información del Sector Agua para el Estado: El sistema tecnológico que contiene la visión del Sector en el largo plazo; los índices de eficacia, eficiencia y productividad resultantes del diagnóstico del Sector; los programas, estrategias y líneas de acción del Programa Estratégico de Desarrollo del Sector Agua del Estado; las metas para cada uno de los indicadores de gestión y su (sic) proyecciones; los avances físicos y económicos de cada uno de los proyectos en ejecución; las proyecciones financieras y demás documentos relevantes para el Sector;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LV. Sistema de Conducción: La infraestructura hidráulica utilizada para transportar el agua desde el sistema de captación hasta el sistema de potabilización; o del sistema de potabilización al sistema de almacenamiento; o del sistema de captación al sistema de almacenamiento, que forma parte de la línea de producción de los servicios de agua potable;
+LIV. Sistema de Almacenamiento: La infraestructura hidráulica utilizada para almacenar agua potable con objeto de entregarla al sistema de distribución. Puede ser utilizada también para regular presiones en el sistema de distribución que forma parte de la línea de producción de los servicios de agua potable;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LVI. Sistema de Desalojo: La infraestructura sanitaria utilizada para transportar el agua residual por las calles de los asentamientos humanos, a la cual se conectan las descargas sanitarias, y que entrega el agua residual a los cuerpos receptores o al sistema de recolección y que forma parte de la línea de producción de los servicios de alcantarillado sanitario;
+LV. Sistema de Captación: La infraestructura hidráulica utilizada para extraer agua cruda de los cuerpos receptores, que forma parte de la línea de producción de los servicios de agua potable;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LVII. Sistema de Drenaje Pluvial: La infraestructura hidráulica utilizada para trasportar el agua pluvial de los centros de población o asentamientos humanos hacia los cuerpos receptores;
+LVI. Sistema de Conducción: La infraestructura hidráulica utilizada para transportar el agua desde el sistema de captación hasta el sistema de potabilización; o del sistema de potabilización al sistema de almacenamiento; o del sistema de captación al sistema de almacenamiento, que forma parte de la línea de producción de los servicios de agua potable;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LVIII. Sistema de Distribución: La infraestructura hidráulica utilizada para transportar el agua por las calles de los asentamientos humanos hasta el frente de cada predio. Este sistema puede estar conectado al Sistema de Almacenamiento o directamente al sistema de captación, conducción o potabilización y entrega el agua a las tomas domiciliarias, que forma parte de la línea de producción de los servicios de agua potable;
+LVII. Sistema de Desalojo: La infraestructura sanitaria utilizada para transportar el agua residual por las calles de los asentamientos humanos, a la cual se conectan las descargas sanitarias, y que entrega el agua residual a los cuerpos receptores o al sistema de recolección y que forma parte de la línea de producción de los servicios de alcantarillado sanitario;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LIX. Sistema de Potabilización: La infraestructura hidráulica utilizada para dar tratamiento al agua cruda para que cumpla con las condiciones de calidad que establecen las Normas Oficiales Mexicanas relativas al uso público urbano, que forma parte de la línea de producción de los servicios de agua potable;
+LVIII. Sistema de Drenaje Pluvial: La infraestructura hidráulica utilizada para trasportar el agua pluvial de los centros de población o asentamientos humanos hacia los cuerpos receptores;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LX. Sistema de Recolección: La infraestructura sanitaria utilizada para transportar el agua residual a los cuerpos receptores alejados de los asentamientos humanos o al sistema de tratamiento, que forma parte de la línea de producción de los servicios de alcantarillado sanitario;
+LIX. Sistema de Distribución: La infraestructura hidráulica utilizada para transportar el agua por las calles de los asentamientos humanos hasta el frente de cada predio. Este sistema puede estar conectado al Sistema de Almacenamiento o directamente al sistema de captación, conducción o potabilización y entrega el agua a las tomas domiciliarias, que forma parte de la línea de producción de los servicios de agua potable;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXI. Sistema de Reúso de las Aguas Residuales: La infraestructura sanitaria utilizada para transportar las aguas residuales hasta los predios donde serán utilizadas;
+LX. Sistema de Potabilización: La infraestructura hidráulica utilizada para dar tratamiento al agua cruda para que cumpla con las condiciones de calidad que establecen las Normas Oficiales Mexicanas relativas al uso público urbano, que forma parte de la línea de producción de los servicios de agua potable;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXII. Sistema de Reúso de las Aguas Residuales Tratadas: La infraestructura hidráulica utilizada para transportar las aguas residuales tratadas hasta los predios donde serán utilizadas;
+LXI. Sistema de Recolección: La infraestructura sanitaria utilizada para transportar el agua residual a los cuerpos receptores alejados de los asentamientos humanos o al sistema de tratamiento, que forma parte de la línea de producción de los servicios de alcantarillado sanitario;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXIII. Sistema de Tratamiento: La infraestructura sanitaria utilizada para llevar a cabo las acciones de saneamiento de las aguas residuales;
+LXII. Sistema de Reúso de las Aguas Residuales: La infraestructura sanitaria utilizada para transportar las aguas residuales hasta los predios donde serán utilizadas;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXIV. Sistema Hidráulico del Estado: El conjunto de planos y diseños que en su conjunto integran la infraestructura hidráulica y sanitaria que conforma los sistemas que se utilizan y utilizarán en el uso y aprovechamiento del agua y en la prestación de los servicios públicos inherentes, con un horizonte prospectivo de 25 años;
+LXIII. Sistema de Reúso de las Aguas Residuales Tratadas: La infraestructura hidráulica utilizada para transportar las aguas residuales tratadas hasta los predios donde serán utilizadas;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXV. Suspensión: La acción y efecto de interrumpir temporalmente los servicios públicos por las causales previstas en esta Ley;
+LXIV. Sistema de Tratamiento: La infraestructura sanitaria utilizada para llevar a cabo las acciones de saneamiento de las aguas residuales;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXVI. Tarifa: El tabulador autorizado para la determinación del pago por los servicios públicos, considerando los niveles de consumo y el tipo de usuario;
+LXV. Sistema Hidráulico del Estado: El conjunto de planos y diseños que en su conjunto integran la infraestructura hidráulica y sanitaria que conforma los sistemas que se utilizan y utilizarán en el uso y aprovechamiento del agua y en la prestación de los servicios públicos inherentes, con un horizonte prospectivo de 25 años;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXVII. Toma Domiciliaria: La infraestructura conectada al sistema de distribución de agua potable utilizada para suministrarla a los predios. Esta infraestructura incluye el aparato medidor de volúmenes de agua, llaves y válvulas necesarias para que el prestador de los servicios públicos pueda realizar las funciones de toma de lectura, mantenimiento a los aparatos medidores de volúmenes de agua y de reducción o suspensión del servicio;
+LVI. Suspensión: La acción y efecto de interrumpir temporalmente los servicios públicos por las causales previstas en esta Ley;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+LXVII. Tarifa: El tabulador autorizado para la determinación del pago por los servicios públicos, considerando los niveles de consumo y el tipo de usuario;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+LXVIII. Toma Domiciliaria: La infraestructura conectada al sistema de distribución de agua potable utilizada para suministrarla a los predios. Esta infraestructura incluye el aparato medidor de volúmenes de agua, llaves y válvulas necesarias para que el prestador de los servicios públicos pueda realizar las funciones de toma de lectura, mantenimiento a los aparatos medidores de volúmenes de agua y de reducción o suspensión del servicio;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXVIII. Unidad de Riego: La aplicación de agua para el riego destinado a la producción agrícola y la preparación de ésta para la primera enajenación, siempre que los productores no hayan sido objeto de transformación;
+LXIX. Unidad de Riego: La aplicación de agua para el riego destinado a la producción agrícola y la preparación de ésta para la primera enajenación, siempre que los productores no hayan sido objeto de transformación;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXIX. Uso: Aplicación del agua a una actividad que implique el consumo, parcial o total de ese recurso;
+LXX. Uso: Aplicación del agua a una actividad que implique el consumo, parcial o total de ese recurso;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXX. Uso Agrícola: El área agrícola que cuenta con infraestructura y sistema de riego, distinta de un distrito de riego y comúnmente de menor superficie de aquél que puede integrarse por asociaciones de usuarios u otras figuras de productores organizados que se asocian entre sí libremente para prestar el servicio de riego con sistemas de gestión autónoma y operar las obras de infraestructura hidráulica para la captación, derivación, conducción, regulación, distribución y desalojo de las aguas nacionales destinadas al riego agrícola, y cuya administración compete a la Comisión Nacional del Agua;
+LXXI. Uso Agrícola: El área agrícola que cuenta con infraestructura y sistema de riego, distinta de un distrito de riego y comúnmente de menor superficie de aquél que puede integrarse por asociaciones de usuarios u otras figuras de productores organizados que se asocian entre sí libremente para prestar el servicio de riego con sistemas de gestión autónoma y operar las obras de infraestructura hidráulica para la captación, derivación, conducción, regulación, distribución y desalojo de las aguas nacionales destinadas al riego agrícola, y cuya administración compete a la Comisión Nacional del Agua;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXXI. Uso comercial y de servicios: La utilización del agua de uso público urbano en establecimientos y oficinas, dedicadas a la compra y venta de bienes y prestación de servicios;
+LXXII. Uso comercial y de servicios: La utilización del agua de uso público urbano en establecimientos y oficinas, dedicadas a la compra y venta de bienes y prestación de servicios;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXXII. Uso de Infraestructura: El precio que cobra el prestador de los servicios públicos por la incorporación de un nuevo asentamiento humano, comercial, de servicios o industrial a la línea de producción de los servicios;
+LXXIII. Uso de Infraestructura: El precio que cobra el prestador de los servicios públicos por la incorporación de un nuevo asentamiento humano, comercial, de servicios o industrial a la línea de producción de los servicios;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXXIII. Uso doméstico: La utilización de agua de uso público urbano para uso particular de las personas y el hogar;
+LXXIV. Uso doméstico: La utilización de agua de uso público urbano para uso particular de las personas y el hogar;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXXIV. Uso industrial: La utilización de agua en el proceso productivo de las empresas, industrias o parques industriales;
+LXXV. Uso industrial: La utilización de agua en el proceso productivo de las empresas, industrias o parques industriales;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXXV. Indicadores de Gestión: Cifras que permiten de manera objetiva medir y evaluar el desempeño de una organización;
+LXXVI. Indicadores de Gestión: Cifras que permiten de manera objetiva medir y evaluar el desempeño de una organización;
 
 > <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXXVI. Uso Público: La utilización de agua de uso público urbano para el uso de edificios públicos; y
+LXXVII. Uso Público: La utilización de agua de uso público urbano para el uso de edificios públicos; y
 
 > <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXXVII. Usuarios: Las personas físicas o morales que reciban los servicios públicos.
+LXXVIII. Usuarios: Las personas físicas o morales que reciban los servicios públicos.
 
 ## TITULO SEGUNDO. DE LAS AUTORIDADES
 
@@ -389,7 +395,9 @@ Son autoridades para la aplicación de esta ley, en el ámbito de sus respectiva
 
 I. El titular del Poder Ejecutivo del Estado;
 
-II. La Comisión;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+II. La Secretaría;
 
 III. Los Ayuntamientos, y
 
@@ -427,23 +435,33 @@ X. Establecer la coordinación con las dependencias y entidades de la administra
 
 XI. Otorgar y revocar concesiones y asignaciones para el uso, explotación y aprovechamiento de las aguas de jurisdicción estatal, así como sobre otros bienes del dominio público para la ejecución de obras de infraestructura hidráulica, en los términos de la Ley de Bienes del Estado y sus Municipios;
 
-XII. Prestar los servicios públicos en los municipios del Estado, en forma temporal y previo convenio que celebre con el Ayuntamiento respectivo, ya sea de manera directa o por medio de la Comisión o, en su caso, del organismo descentralizado creado para cumplir con ese fin; y
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+XII. Prestar los servicios públicos en los municipios del Estado, en forma temporal y previo convenio que celebre con el Ayuntamiento respectivo, ya sea de manera directa o por medio de la Secretaría o, en su caso, del organismo descentralizado creado para cumplir con ese fin; y
 
 XIII. Las demás que le otorgue esta ley u otros ordenamientos jurídicos.
 
-### CAPITULO III. DE LA COMISION ESTATAL DEL AGUA DE TAMAULIPAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE FEBRERO DE 2024)</small>
+
+### CAPITULO III. DE LA SECRETARÍA DE RECURSOS HIDRÁULICOS PARA EL DESARROLLO SOCIAL
 
 ###### Artículo 5.
 
-1. Se crea la Comisión Estatal del Agua de Tamaulipas como un organismo público descentralizado de la administración pública estatal, con personalidad jurídica y patrimonio propio, con funciones de autoridad administrativa en el ejercicio de las atribuciones que le confiere esta ley.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
-2. La Comisión tendrá su residencia en la capital del Estado, sin detrimento de constituir unidades administrativas dentro del territorio del Estado.
+1. La Secretaría de Recursos Hidráulicos para el Desarrollo Social, es el órgano rector estatal en materia de agua, con funciones de autoridad administrativa en el ejercicio de las atribuciones que le confiere la Ley Orgánica de la Administración Pública del Estado de Tamaulipas, esta ley y demás ordenamientos legales inherentes.
+
+2. (DEROGADO, P.O. 21 DE FEBRERO DE 2024)
 
 ###### Artículo 6.
 
-Son atribuciones de la Comisión:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE FEBRERO DE 2024)</small>
 
-I. Coordinar entre el Estado y la Federación, así como entre aquél y los municipios, las acciones relacionadas con la explotación, uso y aprovechamiento del agua y el tratamiento y reuso de las aguas residuales, coadyuvando en el ámbito de su competencia al fortalecimiento del pacto federal y del municipio libre en términos de lo dispuesto en los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos y 132 de la Constitución Política del Estado, para lograr el desarrollo equilibrado y la descentralización de los servicios del agua en la entidad;
+1. Son atribuciones de la Secretaría:
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+I. Coordinar entre el Estado y la Federación, así como entre aquél y los municipios, las acciones relacionadas con la explotación, uso y aprovechamiento del agua y el tratamiento y reúso de las aguas residuales, coadyuvando en el ámbito de su competencia al fortalecimiento del pacto federal y del municipio libre en términos de lo dispuesto en los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos y 132 de la Constitución Política del Estado, para lograr el desarrollo equilibrado y la descentralización de los servicios del agua en la entidad;
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2009)</small>
 
@@ -453,51 +471,73 @@ III. Coadyuvar con la Comisión Nacional del Agua en los programas, proyectos y 
 
 IV. Promover el pago oportuno de las contribuciones y derechos por el uso y aprovechamiento en materia de aguas y bienes nacionales inherentes que establezca la legislación fiscal aplicable;
 
-V. Establecer con sujeción en las disposiciones relativas, las normas y bases para la adquisición, arrendamiento y enajenación de los bienes inmuebles que el organismo requiera para la prestación de sus servicios, con excepción de aquellos inmuebles que la Ley de Bienes del Estado y sus Municipios consideren del dominio público;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
-VI. Representar al Estado en los Comités Hidráulicos de los Distritos de Riego, Unidades de Riego y Distritos de Temporal Tecnificado;
+V. Solicitar a la Secretaría de Administración del Gobierno de Tamaulipas, la adquisición, arrendamiento y enajenación de los bienes inmuebles que la Secretaría requiera para el cumplimiento de sus fines, con excepción de aquellos inmuebles que la Ley de Bienes del Estado y Municipios de Tamaulipas consideren del dominio público;
 
-VII. Celebrar convenios con instituciones de educación superior o con organizaciones de los sectores social o privado, tendientes a fomentar y promover actividades de investigación en materia hidroagrícola, de manejo racional del agua y en la prestación de los servicios públicos inherentes;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
-VIII. Celebrar convenios de coordinación con los municipios;
+VI. Representar al Gobierno del Estado de Tamaulipas en los Comités Hidráulicos de los Distritos de Riego y de Temporal Tecnificado;
 
-IX. Celebrar convenios de colaboración administrativa con los organismos operadores, previa solicitud de éstos, para que la Comisión asuma la notificación y el cobro, a través del procedimiento administrativo de ejecución, de los créditos fiscales que los organismos determinen a cargo de los usuarios, derivados de los precios o tarifas por la prestación de los servicios públicos y de la imposición de multas;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+VII. Celebrar convenios con instituciones de educación superior o con organizaciones de los sectores social o privado, tendientes a fomentar y promover actividades de investigación en temas inherentes al agua;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+VIII. Celebrar convenios en materia de su competencia con la Federación, gobiernos de otras entidades federativas, los municipios del Estado y sector privado;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+IX. Proponer la celebración de convenios de colaboración administrativa con los organismos operadores, previa solicitud de éstos, para que la Secretaría asuma la notificación, y la Secretaría de Finanzas el cobro cuando se cuente con resolución firme y exigible pago, a través del procedimiento administrativo de ejecución, de los créditos fiscales que los organismos determinen a cargo de los usuarios, derivados de los precios o tarifas por la prestación de los servicios públicos y de la imposición de multas;
 
 X. Administrar las aguas de jurisdicción estatal y determinar sus usos;
 
-XI. Emitir disposiciones sobre la expedición de títulos de concesión, asignación o permisos;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+XI. Emitir títulos de concesión, asignación o permisos para la explotación, uso o aprovechamiento de las aguas estatales y sus bienes públicos inherentes;
 
 XII. Recabar, operar y mantener actualizada la información en materia de aguas estatales relacionada con los diferentes usos, disponibilidad y calidad de las mismas;
 
 XIII. Verificar que se inscriban en el Registro Público Estatal de Derechos de Agua los títulos que amparen derechos de agua de jurisdicción estatal;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
-XIV. Ejercer en el ámbito de su competencia, las atribuciones fiscales para la determinación y cobro de los derechos o contribuciones en materia de aguas estatales, sus bienes inherentes y de los servicios que proporcione la Comisión, incluyendo sin limitación, los derechos por servicio de suministro de agua en bloque que proporcione la Comisión, directamente o a través de terceros, a los municipios y organismos operadores que lo requieran;
+XIV. Ejercer en el ámbito de su competencia, las atribuciones fiscales para la determinación y cobro de los derechos o contribuciones en materia de aguas estatales, sus bienes inherentes y de los servicios que proporcione la Secretaría, incluyendo sin limitación, los derechos por servicio de suministro de agua en bloque que proporcione la Secretaría, directamente o a través de terceros, a los municipios y organismos operadores que lo requieran;
 
 XV. Solicitar al Ejecutivo del Estado la declaratoria de expropiación, ocupación temporal de bienes o la limitación del dominio para el cumplimiento de sus objetivos, en los términos de la legislación local de la materia;
 
 XVI. Establecer las bases para la definición y actualización de precios y tarifas que rijan la prestación de los servicios públicos que quedarán establecidas en la normatividad operativa para el Sector Agua del Estado;
 
-XVII. Aprobar los precios y tarifas relativos a los servicios públicos que preste en términos de esta ley;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
-XVIII. Expedir su Estatuto Orgánico y los manuales de organización y de procedimientos que resulten necesarios para su adecuado funcionamiento;
+XVII. Proponer los precios y tarifas relativos a los servicios públicos que preste;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+XVIII. Proponer los proyectos de iniciativa de leyes, reglamentos, reformas, decretos, acuerdos y normatividad inherente sobre los asuntos de la competencia de la Secretaría y del sector hídrico estatal;
 
 XIX. Normar, controlar, coordinar, vigilar, supervisar, sancionar e impulsar el óptimo aprovechamiento del agua conforme a sus atribuciones directas, delegadas o convenidas en los ámbitos federal, estatal y municipal;
 
 XX. Dar seguimiento al Plan Estatal de Desarrollo en las cuestiones relacionadas con la materia del agua, procurando el equilibrio entre la oferta y la demanda y la preservación del medio ambiente;
 
-XXI. Hacer las propuestas en la materia de su competencia, a la dependencia estatal encargada de la elaboración del correspondiente Programa Sectorial;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+XXI. Elaborar los programas hidráulicos y estratégicos del sector agua para el estado de Tamaulipas en términos de la presente ley;
 
 XXII. Elaborar el Programa Hidráulico de la Administración y el Programa Operativo Hidráulico Anual conforme la materia que de acuerdo con esta ley le compete;
 
 XXIII. Asesorar y coordinarse con los municipios en las materias de su competencia, cuando éstos lo soliciten, para la elaboración y seguimiento del Plan Municipal de Desarrollo y los correspondientes programas sectoriales, así como para la elaboración y seguimiento de los programas establecidos por esta ley;
 
-XXIV. Elaborar y dar seguimiento a la normatividad operativa, técnica, comercial y administrativa de los prestadores de los servicios públicos que, conforme a los convenios que éstos tengan celebrados con la Comisión, se hayan obligado a aplicar para mejorar la eficiencia de sus operaciones;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+XXIV. Elaborar y dar seguimiento a la normatividad operativa, técnica, comercial y administrativa de los prestadores de los servicios públicos que, conforme a los convenios que éstos tengan celebrados con la Secretaría, se hayan obligado a aplicar para mejorar la eficiencia de sus operaciones;
 
 XXV. Dar soporte tecnológico, administrativo y operativo a las entidades y dependencias responsables de ejercer las funciones operativas en el Sector Agua de la entidad federativa;
 
-XXVI. Ser instancia de atención y trámite de requerimientos y asesoría a usuarios y prestadores de servicios en materia de agua;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+XXVI. Ser instancia de asesoría y capacitación a usuarios y prestadores de servicios en materia de agua;
 
 XXVII. Coordinarse con las instancias federales, estatales, municipales e internacionales para participar, en el ámbito de su competencia, en la evaluación y, en su caso, autorización de los programas, proyectos y ejecución de las obras que incidan en el uso, manejo, control, explotación, aprovechamiento del agua, tratamiento y reuso de las aguas residuales y residuales tratadas;
 
@@ -509,17 +549,23 @@ XXIX. Promover las relaciones de coordinación y la creación de fideicomisos co
 
 XXX. Autorizar, en el ámbito de su competencia, los estudios de impacto ambiental en materia de aguas estatales;
 
-XXXI. Realizar toda clase de actos jurídicos que sean necesarios para cumplir con sus atribuciones, así como aquellos que fueren necesarios para la administración de los recursos y bienes a su cargo;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+XXXI. Realizar toda clase de actos jurídicos que sean necesarios para cumplir con sus atribuciones, así como aquellos que fueren necesarios para la administración y salvaguarda de los recursos materiales y financieros a su cargo;
 
 XXXII. Vigilar que la cantidad y calidad de agua residual que se vierta a los cuerpos receptores nacionales o estatales cumplan con las normas establecidas;
 
-XXXIII. Vigilar el cumplimiento de la normatividad operativa para el Sector Agua del Estado;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+XXXIII. Vigilar y verificar el cumplimiento de la normatividad operativa para el Sector Agua del Estado;
 
 XXXIV. Promover la capacitación y adiestramiento del recurso humano de los organismos operadores del Estado, procurando la certificación de habilidades;
 
 XXXV. Promover la actualización de las leyes y reglamentos que rigen la administración integral del agua y la operación de los sistemas de agua y saneamiento para todos los usos del Estado;
 
-XXXVI. Participar en las reuniones de los Consejos de Cuenca de la Comisión Nacional del Agua;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+XXXVI. Participar como representante del Gobernador del Estado ante los Consejos de Cuenca constituidos conforme a la Ley de Aguas Nacionales en el territorio de Tamaulipas;
 
 XXXVII. Participar en el Sistema Estatal de Protección Civil para atender situaciones de emergencia causadas por fenómenos hidrometeorológicos extremos;
 
@@ -533,7 +579,9 @@ XL. Promover, apoyar, en su caso, o gestionar ante las dependencias y entidades 
 
 XLI. Promover la cultura del agua para fomentar un cambio de hábitos hacía su utilización racional entre los usuarios de los servicios públicos, así como elaborar el semáforo del cuidado del agua, en el que se establecerán recomendaciones para su consumo, de acuerdo con el color del semáforo, tomando en cuenta la disponibilidad del agua en cada municipio o región del Estado y será publicado en el Periódico Oficial del Estado y comunicado a la población durante todo el año;
 
-XLII. Impulsar la autosuficiencia técnica, administrativa y financiera de los organismos operadores en la prestación de los servicios públicos;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+XLII. Promover y verificar el cumplimiento de la autosuficiencia técnica, administrativa y financiera de los organismos operadores en la prestación de los servicios públicos y establecer las medidas preventivas y correctivas correspondientes;
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2009)</small>
 
@@ -559,289 +607,117 @@ XLVII. Apoyar con asesorías técnicas y legales la integración, organización 
 
 XLVIII. Dar aviso a la Comisión Nacional del Agua, por escrito en el término de quince días naturales contados a partir de que tenga conocimiento de los hechos, cuando detecte alguna necesidad o irregularidad de los usuarios y que a su consideración deba intervenir la Federación;
 
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 21 DE FEBRERO DE 2024)</small>
 
-XLIX. Promover programas de desarrollo social, el acceso al agua y saneamiento de las viviendas de zonas con mayor vulnerabilidad o marginación, mediante sistemas de captación y almacenamiento de agua de lluvia y tecnologías de tratamiento de aguas residuales;
+XLIX. Promover, respetar, proteger y garantizar en el ámbito de su competencia, el derecho humano al agua para consumo personal y doméstico y el saneamiento en beneficio del desarrollo social conforme al artículo 4o. párrafo sexto de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 21 DE FEBRERO DE 2024)</small>
 
-L. Vigilar que el funcionamiento y prestación de los servicios públicos de agua potable y saneamiento se realice conforme a las políticas, estrategias, objetivos, programas y normas administrativas establecidas al efecto; y
+L. Efectuar, en colaboración con la Comisión Nacional del Agua, acciones de rehabilitación, modernización y seguridad de presas y plantas de bombeo;
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
-LI. Las demás que le confiera esta ley, sus reglamentos y otras disposiciones aplicables.
+LI. Intervenir con carácter de vocal en las Asociaciones Civiles de Usuarios que integran los Distritos y Unidades de Riego;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+LII. Celebrar convenios de coordinación con la Federación, los municipios y sus respectivas administraciones públicas, así como de concertación con el sector social y privado, y favorecer, en el ámbito de su competencia, en forma sistemática y con medidas específicas, la descentralización de la gestión de los recursos hídricos en términos de la Ley de Aguas Nacionales;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+LIII. Representar al Gobierno del Estado de Tamaulipas en los Órganos auxiliares y funcionales de los Consejos de Cuenca;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+LIV. Llevar a cabo de forma directa o en coordinación con la Comisión Nacional del Agua, la elaboración de programas de medición de volúmenes de aguas nacionales extraídas por los distintos usuarios en el estado;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+LV. Coadyuvar con la Comisión Nacional del Agua en el seno de los Consejos de Cuenca, para realizar estudios de disponibilidad en cuencas y acuíferos del estado de Tamaulipas;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+LVI. Generar y mantener actualizada información hidrométrica, climatológica, piezométrica y de calidad del agua en el territorio del estado;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+LVII. Coadyuvar con las autoridades federales, estatales y municipales competentes, para generar y actualizar mapas de riesgos de inundación a centros de población y proponer acciones de protección mediante infraestructura hidráulica;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+LVIII. Fomentar en el ámbito de su competencia, el desarrollo industrial en áreas con disponibilidad hídrica o donde resulte factible el reúso y que genere bienestar social, desarrollo económico y empleo en las diversas regiones del Estado;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+LIX. Verificar en el ámbito de su competencia, que en la instalación de industrias en zonas con disponibilidad hídrica baja o en déficit se presenten compromisos y programas de tratamiento y reúso del agua;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+LX. Planear, asesorar, programar y en su caso, ejecutar acciones para la rehabilitación, conservación y tecnificación de la infraestructura de Distritos y Unidades de Riego y Distritos de Temporal Tecnificado en el Estado de Tamaulipas, directamente o a través de terceros;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+LXI. Promover, en coordinación con las autoridades federales, estatales y municipales y los usuarios de los Distritos y Unidades de Riego y Distritos de Temporal Tecnificado en el Estado de Tamaulipas, acciones para el mejoramiento y recuperación de suelos para uso agrícola;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+LXII. Otorgar capacitación y asistencia técnica a los usuarios de los Distritos y Unidades de Riego y Distritos de Temporal Tecnificado en la elaboración, seguimiento y ejecución de los planes de riego con objeto de propiciar un aprovechamiento racional del agua;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+LXIII. Crear, implementar, operar y actualizar Programas de apoyo en favor de los distintos usuarios del agua, implementando las reglas de operación, lineamientos y otras de naturaleza análoga; y
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN LI], P.O. 21 DE FEBRERO DE 2024)
+
+LXIV. Las demás que le confiera esta ley, sus reglamentos y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+2. Las atribuciones establecidas en el presente artículo, serán ejercidas por el Titular de la Secretaría y se auxiliará con los servidores públicos previstos en los reglamentos, decretos y acuerdos respectivos.
 
 ###### Artículo 7.
 
-El patrimonio de la Comisión estará integrado por:
+(DEROGADO, P.O. 21 DE FEBRERO DE 2024)
 
-I. Los activos o bienes que le sean transferidos por el Gobierno del Estado;
-
-II. Las aportaciones que, en su caso, realicen la Federación, el Estado, los municipios y los usuarios;
-
-III. Los ingresos que por la prestación de servicios públicos y los que en términos de la legislación aplicable se generen por la realización de sus atribuciones;
-
-IV. Las donaciones, herencias, legados, subsidios, adjudicaciones y demás aportaciones de los particulares;
-
-V. Los frutos, utilidades, productos, intereses, ventas y remanentes que obtenga de su propio patrimonio; y
-
-VI. Los demás bienes y derechos que adquiera por cualquier título legal.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 8.
 
-Para efectos de adquisiciones, de construcción de obras y contratación de servicios que ejecute por sí o por medio de terceros, así como los estudios y proyectos que realice la Comisión, se sujetarán a las normas y requisitos que establezcan las leyes y reglamentos de la materia.
+Para efectos de adquisiciones, de construcción de obras y contratación de servicios que ejecute por sí o por medio de terceros, así como los estudios y proyectos que realice la Secretaría, se sujetarán a las normas y requisitos que establezcan las leyes y reglamentos de la materia.
 
 ###### Artículo 9.
 
-1. Los órganos de la Comisión son:
-
-I. El Consejo de Administración;
-
-II. La Dirección General; y
-
-III. El órgano de control.
-
-2. La Comisión contará con el personal técnico y administrativo que requiera para su debido funcionamiento.
+(DEROGADO, P.O. 21 DE FEBRERO DE 2024)
 
 ###### Artículo 10.
 
-1. El Consejo de Administración es el órgano de gobierno de la Comisión.
-
-2. El Consejo de Administración estará integrado por:
-
-I. El titular del poder Ejecutivo del Estado, quien fungirá como Presidente del Consejo;
-
-II. El titular de la Secretaría de Finanzas;
-
-III. El titular de la Secretaría de Desarrollo Rural;
-
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
-
-IV. El titular de la Secretaría de Bienestar Social;
-
-V. El titular de la Secretaría de Salud;
-
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
-
-VI. El titular de la Secretaría de Obras Públicas; y
-
-VII. El titular de la Secretaría Técnica del Ejecutivo del Estado, quien fungirá como Secretario.
-
-3. Por cada integrante propietario se designará al respectivo suplente, quien encontrándose en funciones contará con todas las facultades que al propietario correspondan.
-
-4. Todos los integrantes del Consejo de Administración tendrán voz y voto y el Presidente tendrá voto de calidad.
-
-5. Los cargos de consejeros serán honoríficos.
+(DEROGADO, P.O. 21 DE FEBRERO DE 2024)
 
 ###### Artículo 11.
 
-1. El Consejo de Administración de la Comisión deberá sesionar en asambleas ordinarias, cuando menos, cada tres meses.
-
-2. El Consejo de Administración de la Comisión, cuando así lo considere conveniente, podrá invitar a sus asambleas a los titulares o representantes de las dependencias o entidades de la administración pública federal, estatal o municipal, quienes, en su caso, contarán con voz pero sin voto.
-
-3. Los acuerdos del Consejo de Administración se tomarán por mayoría de votos de los miembros presentes. En caso de empate el presidente tendrá voto de calidad, levantándose el acta correspondiente que será firmada por el Presidente y el Secretario.
-
-4. La organización y funcionamiento del Consejo de Administración se regirá por lo dispuesto en el Estatuto Orgánico de la Comisión.
+(DEROGADO, P.O. 21 DE FEBRERO DE 2024)
 
 ###### Artículo 12.
 
-1. El Director General de la Comisión participará en las reuniones del Consejo de Administración con derecho a voz pero sin derecho a voto.
-
-2. Son atribuciones del Director General en torno al funcionamiento del Consejo de Administración:
-
-I. Ejecutar y dar seguimiento a los acuerdos del Consejo de Administración;
-
-II. Rendir trimestralmente al Consejo de Administración, los informes de las actividades desarrolladas por la Comisión;
-
-III. Convocar a reuniones extraordinarias del Consejo de Administración a petición de dos o más miembros del mismo;
-
-IV. Las demás que le señale el Consejo de Administración, la presente Ley y sus reglamentos.
+(DEROGADO, P.O. 21 DE FEBRERO DE 2024)
 
 ###### Artículo 13.
 
-El Consejo de Administración de la Comisión tendrá las siguientes atribuciones:
-
-I. Otorgar poderes para actos de administración y de dominio, así como para pleitos y cobranzas con todas las facultades generales o especiales que requieran poder o cláusula especial conforme a la ley, así como revocarlos o sustituirlos;
-
-II. Autorizar la suscripción por parte del Director General y conforme a la legislación aplicable, de los créditos que sean necesarios para la prestación de los servicios públicos y realización de las obras;
-
-III. Nombrar y remover al Director General de la Comisión;
-
-IV Promover la actualización de las leyes y reglamentos que rigen la administración integral del agua y la operación de los sistemas de agua y saneamiento para todos los usos del Estado;
-
-V. Vigilar y evaluar el cumplimiento de los objetivos y metas de la Comisión;
-
-VI. Expedir lineamientos para la administración del patrimonio de la Comisión;
-
-VII. Aprobar el Estatuto Orgánico de la Comisión;
-
-VIII. Aprobar el manual de organización de la Comisión;
-
-IX. Aprobar las bases para la definición y actualización de cuotas y tarifas que rijan la prestación de los servicios públicos en el Estado y que forman parte de la normatividad operativa para el Sector Agua del Estado;
-
-X. Aprobar con sujeción en las disposiciones relativas a las normas y bases para la adquisición, arrendamiento y enajenación de los bienes inmuebles, dichos actos jurídicos con relación a los bienes que el organismo requiera para la prestación de sus servicios, con excepción de aquellos inmuebles que la Ley de Bienes del Estado y los Municipios de Tamaulipas considere del dominio público;
-
-XI. Aprobar la realización de gestiones para la contratación de crédito público para el financiamiento de la Comisión en términos de las disposiciones constitucionales y legales aplicables; así como observar los lineamientos que dicten las autoridades competentes en materia de manejo de disponibilidades financieras;
-
-XII. Aprobar los precios y tarifas relativos a los servicios públicos que preste en los términos de esta ley;
-
-XIII. Presentar a la dependencia que corresponda las propuestas para la elaboración del Programa Sectorial en materia de agua;
-
-XIV. Presentar al Ejecutivo del Estado el Plan Estratégico de Desarrollo del Sector Agua del Estado;
-
-XV. Presentar al Ejecutivo del Estado el Programa Hidráulico de la Administración;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
-
-XVI. Aprobar el Programa Operativo Hidráulico Anual que presente el Director General de la Comisión, durante el bimestre anterior a cada ejercicio fiscal; así como los lineamientos para la operación del semáforo del cuidado del agua;
-
-XVII. Aprobar la normatividad operativa para el Sector Agua del Estado que deban aplicar los prestadores de servicios públicos, conforme a los convenios que para mejorar la eficiencia de sus operaciones tengan celebrados con la Comisión;
-
-XVIII. Aprobar la celebración de los convenios de colaboración administrativa con los organismos operadores, para que la Comisión asuma la notificación y el cobro, a través del procedimiento administrativo de ejecución, de los créditos fiscales que los organismos determinen a cargo de los usuarios, derivados de los precios o tarifas por la prestación de los servicios públicos y de la imposición de multas;
-
-XIX. Autorizar el presupuesto de ingresos y egresos de la Comisión;
-
-XX. Autorizar el presupuesto de inversión de la Comisión;
-
-XXI. Examinar y aprobar los estados financieros de la Comisión;
-
-XXII. Aprobar los estudios de factibilidad operativa para la creación de organismos operadores de los servicios de agua potable, alcantarillado sanitario y tratamiento de las aguas residuales;
-
-XXIII. Autorizar el pago oportuno de las contribuciones y derechos por el uso y aprovechamiento en materia de agua y bienes nacionales inherentes que establezca la legislación fiscal aplicable;
-
-XXIV. Hacer cumplir, en el ámbito de su competencia, las leyes y reglamentos que regulan el uso y aprovechamiento del agua y la prestación de los servicios públicos en el Estado;
-
-XXV. Autorizar la constitución de los fideicomisos públicos necesarios para el cumplimiento de sus fines conforme la legislación aplicable, para cuyo efecto podrá coordinarse, inclusive, con la Federación, el Estado, los municipios y los prestadores de servicios públicos;
-
-XXVI. Resolver todos aquellos asuntos que el Director General considere necesario someter a su consideración;
-
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2009)</small>
-
-XXVII. Ordenar la práctica de auditorías administrativas, operativas y financieras a la Comisión;
-
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2009)</small>
-
-XXVIII. Autorizar la celebración de los convenios para proporcionar agua en bloque a los municipios, organismos operadores, comunidades, núcleos de población, organismos, fraccionamientos y particulares que la requieran;
-
-> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2009)</small>
-
-XXIX. Autorizar la celebración de los convenios que considere necesarios con la autoridad competente, para el cobro de los derechos por servicio de suministro de agua en bloque; y
-
-> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2009)</small>
-
-XXX. Las demás que le establezcan esta ley, otras disposiciones legales y sus reglamentos.
+(DEROGADO, P.O. 21 DE FEBRERO DE 2024)
 
 ###### Artículo 14.
 
-Para ser Director General de la Comisión se requiere:
-
-I. Contar con experiencia técnica y administrativa comprobadas de al menos cinco años en materia de agua;
-
-II. Haber residido en el Estado los tres años inmediatos anteriores a la fecha de su nombramiento;
-
-III. No haber sido condenado por delito intencional, y
-
-IV. Una vez nombrado, no deberá prestar sus servicios profesionales en la administración pública en cualquiera de los tres ámbitos de gobierno, a excepción de las actividades de carácter docente, ni desempeñar actividades privadas en donde exista conflicto de intereses.
+(DEROGADO, P.O. 21 DE FEBRERO DE 2024)
 
 ###### Artículo 15.
 
-El Director General de la Comisión tendrá las siguientes facultades y obligaciones:
+(DEROGADO, P.O. 21 DE FEBRERO DE 2024)
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
-I. Representar legalmente a la Comisión, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la ley; así como otorgar poderes, formular querellas y denuncias, certificar documentos, otorgar el perdón extintivo de la acción penal, elaborar y absolver posiciones, así como promover y desistirse de los juicios laborales y de amparo;
+###### Artículo 16.
 
-II. Celebrar convenios y contratos con la Federación, entidades federativas, municipios, organismos descentralizados y particulares que requiera para la consecución de sus fines;
-
-III. Celebrar convenios de colaboración administrativa con los organismos operadores para que la Comisión asuma la notificación y el cobro, a través del procedimiento administrativo de ejecución, de los créditos fiscales que los organismos determinen a cargo de los usuarios, derivados de los precios o tarifas por la prestación de los servicios públicos y de la imposición de multas;
-
-IV. Realizar los estudios de factibilidad operativa para la creación de organismos operadores responsables de prestar los servicios públicos de agua potable, alcantarillado sanitario, drenaje pluvial, tratamiento y reuso de las aguas residuales, reuso de las aguas residuales tratadas y disposición de las aguas, para dar cumplimiento a lo dispuesto en el párrafo segundo del artículo tercero transitorio del decreto por el que se declara reformado y adicionado el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 23 de diciembre de 1999;
-
-V. Coordinar las actividades técnicas, administrativas y financieras de la Comisión;
-
-VI. Gestionar y obtener, conforme a la legislación aplicable y previa autorización del Consejo de Administración, el financiamiento para obras, servicios y amortización de pasivos, así como suscribir créditos o títulos de crédito, contratos u obligaciones ante instituciones públicas y privadas, necesarios para el cumplimiento del objeto de la Comisión;
-
-VII. Adquirir bienes muebles e inmuebles y realizar todo tipo de contratos y operaciones necesarios para el buen funcionamiento de la Comisión, de acuerdo a lo que establecen las leyes y reglamentos en la materia;
-
-VIII. Resguardar los bienes de la Comisión y mantener actualizada la información relacionada con inventarios y padrón de usuarios;
-
-IX. Representar a la Comisión ante los Consejos de Cuenca, los usuarios, organismos operadores y las autoridades federales, estatales, municipales e internacionales, así como en la celebración de cualquier acto jurídico;
-
-X. Nombrar y remover al personal de la Comisión;
-
-XI. Elaborar y presentar ante el Consejo de Administración para su aprobación las propuestas de adecuación de las leyes y reglamentos que rigen la administración integral del agua y la operación de los sistemas para la prestación de los servicios públicos inherentes al agua para todos los usos en el Estado;
-
-XII. Cumplir con los objetivos y metas de la Comisión;
-
-XIII. Elaborar y presentar ante el Consejo de Administración para su aprobación el Estatuto Orgánico de la Comisión;
-
-XIV. Elaborar y presentar ante el Consejo de Administración para su aprobación los manuales de organización y de procedimientos de la Comisión;
-
-XV. Elaborar las propuestas de adecuación y actualización de precios y tarifas relativos a los servicios públicos que preste en los términos de esta ley;
-
-XVI. Elaborar, las propuestas para los programas sectoriales, el Programa Hidráulico de la Administración y los programas operativos hidráulicos anuales;
-
-XVII. Desarrollar y operar el Sistema Estatal de Información del Sector Agua para el Estado;
-
-XVIII. Presentar al Consejo de Administración, para su aprobación, las acciones de planeación, programación, control y evaluación hidráulica que habrán de tratarse en el Consejo de Cuenca correspondiente, así como aquellas necesarias para la ejecución de las atribuciones que la Federación transfiera a la Comisión;
-
-XIX. Elaborar la normatividad operativa técnica, comercial y administrativa que deban aplicar los prestadores de servicios, conforme a los convenios que para mejorar la eficiencia de sus operaciones tengan celebrados con la Comisión;
-
-XX. Presentar ante el Consejo de Administración, a más tardar en la primera quincena del mes de noviembre, los estados financieros y estudios económicos que se discutirán y aprobarán, en su caso, por el mismo. Asimismo, tendrá la obligación de acompañar a dichos estados el presupuesto de ingresos y egresos e inversión para el año siguiente para el mismo efecto;
-
-XXI. Rendir, el mes de enero de cada año, ante el Consejo de Administración, el informe anual de sus actividades donde deberá ser especifico respecto al cumplimiento de los acuerdos de éste; el resultado de los estados financieros; y el avance en las metas establecidas en el Programa Operativo Hidráulico Anual;
-
-XXII. Elaborar y presentar ante el Consejo de Administración, para su aprobación, los estudios de factibilidad operativa para la creación de organismos operadores de los servicios públicos;
-
-XXIII. Elaborar y presentar ante el Consejo de Administración para su aprobación o los estados financieros de la Comisión;
-
-XXIV. Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, instituciones sociales y privadas nacionales e internacionales, para el trámite, financiamiento de obras y atención de asuntos de interés común, así como por la creación de fideicomisos;
-
-XXV. Cobrar la contraprestación por los servicios públicos que preste, los accesorios que dichas contraprestaciones generen, las multas que imponga y, en general, todas aquellas cantidades que procedan por los conceptos establecidos en la presente ley, en el ámbito de su competencia;
-
-XXVI. Notificar y cobrar, a través del procedimiento administrativo de ejecución, conforme al Código Fiscal del Estado y en términos de los convenios celebrados para tal efecto, los créditos fiscales que los organismos operadores determinen a cargo de los usuarios, derivados de los precios o tarifas por la prestación de los servicios públicos y de la imposición de multas;
-
-XXVII. Ordenar la práctica en forma periódica, de visitas de inspección y verificación, así como muestras y análisis del agua; elaborar estadísticas de sus resultados y tomar en consecuencia las medidas adecuadas para optimizar la calidad del agua que se distribuye a la población;
-
-XXVIII. Vigilar el cumplimiento de la normatividad operativa en todo el estado en materia de agua;
-
-XXIX. Realizar las actividades que se requieran para lograr que los prestadores brinden a la comunidad servicios públicos adecuados y eficientes, en cumplimiento del objeto de la Comisión;
-
-XXX. Proporcionar asistencia técnica y capacitación a las unidades de riego, distritos de riego y distritos de temporal tecnificado, así como asesorar a los usuarios de riego agrícola con objeto de propiciar un aprovechamiento racional del agua;
-
-XXXI. Coordinar la operación, la conservación, la administración y el mantenimiento de las obras a cargo de los prestadores de servicios públicos;
-
-XXXII. Asesorar, auxiliar y prestar servicios de apoyo y asistencia técnica a los prestadores de los servicios de agua, y cuando éstos lo soliciten en la determinación de los estudios de factibilidades;
-
-XXXIII. Apoyar la consolidación y desarrollo técnico de las asociaciones de usuarios de distritos, unidades de riego y drenaje, otorgándoles las asignaciones, concesiones y permisos correspondientes cuando sean aguas de jurisdicción estatal;
-
-XXXIV. Pagar oportunamente las contribuciones y derechos por el uso y aprovechamiento en materia de agua y bienes nacionales inherentes que establezca la legislación fiscal aplicable;
-
-XXXV. Establecer programas de capacitación, en forma paralela a la construcción de obras hidráulicas, con el fin de lograr un mejor aprovechamiento de las mismas;
-
-XXXVI. Resolver los recursos administrativos que presenten los usuarios contra sus resoluciones y demás actos que resulten impugnables conforme la presente ley;
-
-XXXVII. Resolver los recursos administrativos que los usuarios presenten contra los actos que dicte dentro del procedimiento administrativo de ejecución, para hacer efectivos los créditos que determine a cargo de los mismos, en términos del Código Fiscal del Estado;
-
-XXXVIII. Resolver, de conformidad con el Código Fiscal del Estado y con los convenios que para tal efecto se celebren, los recursos administrativos que se presenten contra los actos que dicte dentro del procedimiento administrativo de ejecución, para hacer efectivos los créditos que determinen los organismos operadores a cargo de los usuarios;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
-
-XXXIX. Elaborar y ejecutar programas para promover la cultura del agua en toda la entidad federativa; así como elaborar periódicamente durante cada año, los lineamientos necesarios para el funcionamiento del semáforo del cuidado del agua, mismo que será publicado y comunicado a la población durante todo el año;
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
-
-XL. Representar al Ejecutivo del Estado en los Comités Hidráulicos de los Distritos de Riego, Unidades de Riego y Distritos de Temporal Tecnificado, debiendo designar para tal efecto al servidor público que asista en nombre del Gobierno del Estado, y ejercer las funciones que para tal fin se le confieren dentro de los citados Comités; y
-
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2011)</small>
-
-XLI. Las demás que se deriven de esta ley y sus reglamentos.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
-
-Artículo 16
-
-La vigilancia de la Comisión estará a cargo de un Comisario, designado por la Contraloría Gubernamental, con las funciones y atribuciones que le confieren las leyes y reglamentos de la materia.
+La Secretaría contará con un órgano interno de control que será designado por la Contraloría Gubernamental, con las funciones y atribuciones que le confieren las leyes y reglamentos de la materia.
 
 ### CAPITULO IV. DE LOS AYUNTAMIENTOS
 
@@ -849,13 +725,21 @@ La vigilancia de la Comisión estará a cargo de un Comisario, designado por la 
 
 1. Los municipios tendrán a su cargo los servicios públicos en todos los asentamientos humanos de su circunscripción territorial, los que podrán ser prestados directamente por la dependencia municipal que corresponda, o bien por los prestadores de los servicios en los términos de lo dispuesto en esta ley.
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
-2. Sin perjuicio de lo establecido en el párrafo anterior, en términos de lo dispuesto por el artículo 132 de la Constitución Política del Estado, los ayuntamientos, cuando sea necesario, podrán celebrar convenios con el Estado para que éste, a través de la Comisión, se haga cargo temporalmente, en forma parcial o total, de los servicios públicos de agua potable, alcantarillado sanitario, drenaje pluvial, tratamiento y reúso de aguas residuales y reúso de las aguas residuales tratadas, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio. En este caso, la Comisión podrá hacer recomendaciones a los Municipios, para el correcto funcionamiento del semáforo del cuidado del agua.
+2. Sin perjuicio de lo establecido en el párrafo anterior, en términos de lo dispuesto por el artículo 132 de la Constitución Política del Estado, los ayuntamientos, cuando sea necesario, podrán celebrar convenios con el Estado para que éste, a través de la Secretaría, se haga cargo temporalmente, en forma parcial o total, de los servicios públicos de agua potable, alcantarillado sanitario, drenaje pluvial, tratamiento y reúso de aguas residuales y reúso de las aguas residuales tratadas, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio. En este caso, la Secretaría podrá hacer recomendaciones a los Municipios, para el correcto funcionamiento del semáforo del cuidado del agua.
 
 3. Asimismo, en los términos del propio artículo 132 de la Constitución Particular del Estado, cuando la Legislatura del Estado, en los casos en que no exista el convenio correspondiente y previa solicitud que le sea presentada por el Ayuntamiento, considere que el Municipio de que se trate esté imposibilitado para ejercerlos o prestarlos, expedirá y remitirá al Ejecutivo del Estado el decreto correspondiente, indicando el tiempo, las condiciones y la circunscripción territorial en que deberá asumir la prestación de los servicios.
 
-4. No obstante lo dispuesto en los párrafos anteriores, el Ejecutivo del Estado podrá, en los casos de riesgo, siniestro o desastres graves que impidan la prestación de estos servicios, aplicar las medidas que fueren necesarias para preservar la continuidad y eficiencia de los mismos, o para hacer frente a estas contingencias por el tiempo necesario. Asimismo, podrá disponer de los recursos públicos que fueren necesarios para la solución de los problemas, dando cuenta posteriormente al Congreso del Estado, el cual ratificará o modificará las medidas tomadas por el Ejecutivo y expedirá las disposiciones correspondientes en el decreto respectivo.
+(NOTA: EL 6 DE ENERO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 73/2024, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DEL NUMERAL 4 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE ENERO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+4. No obstante lo dispuesto en los párrafos anteriores, el Ejecutivo del Estado podrá, en los casos de riesgo, siniestro, desastres graves O IMPOSIBILIDAD MANIFIESTA que impidan la prestación de estos servicios de manera eficiente, aplicar las medidas que fueren necesarias para preservar la continuidad y eficiencia de los mismos, o para hacer frente a estas contingencias por el tiempo necesario.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+Asimismo, podrá disponer de los recursos públicos que fueren necesarios para la solución de los problemas, dando cuenta posteriormente al Congreso del Estado, el cual ratificará o modificará las medidas tomadas por el Ejecutivo y expedirá las disposiciones correspondientes en el decreto respectivo.
 
 ###### Artículo 18.
 
@@ -871,9 +755,9 @@ III. Realizar una eficaz y adecuada prestación de los servicios públicos;
 
 IV. Programar la prestación de los servicios públicos a que se refiere la presente ley, mediante la elaboración y actualización periódica de los programas sectoriales, institucionales y operativos correspondientes;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
-V. Celebrar los contratos y convenios con la Comisión, para el cumplimiento de sus atribuciones, en los términos de la legislación aplicable;
+V. Celebrar los contratos y convenios con la Secretaría, para el cumplimiento de sus atribuciones, en los términos de la presente ley y demás normatividad aplicable;
 
 VI. Realizar las gestiones que sean necesarias a fin de obtener los financiamientos que se requieran para la más completa prestación de los servicios públicos, en los términos de la legislación aplicable;
 
@@ -937,11 +821,11 @@ Los municipios podrán celebrar contratos y convenios para la prestación de los
 
 ### CAPITULO V. DE LOS ORGANISMOS OPERADORES
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
-
 ###### Artículo 22.
 
-1. La Comisión, en coordinación con los ayuntamientos, promoverá la creación de organismos operadores descentralizados de la administración pública municipal para prestar los servicios públicos previstos en esta ley.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+1. La Secretaría, en coordinación con los ayuntamientos, promoverá la creación de organismos operadores descentralizados de la administración pública municipal para prestar los servicios públicos previstos en esta ley.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
@@ -973,7 +857,13 @@ III. Organismo (sic) operadores regionales: Cuando sean creados para prestar los
 
 IV. Organismos Operadores Estatales:
 
-Cuando por sus características y complejidad, no puedan ser operados por municipios, previo dictamen de la Comisión; así como aquellos que su infraestructura beneficie a dos o más municipios.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+Cuando por sus características y complejidad, no puedan ser operados por el municipio que corresponda, así como aquellos que la línea de producción de los servicios esté a cargo de la administración pública estatal y beneficie a dos o más municipios.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+Los Organismos Operadores Estatales están sectorizados a la Secretaría.
 
 ###### Artículo 25.
 
@@ -1001,11 +891,17 @@ X. Establecer las cuotas y tarifas en términos de esta ley;
 
 XI. Determinar y cobrar los adeudos que resulten de aplicar los precios y tarifas por los servicios que preste;
 
-XII. Celebrar convenios de colaboración administrativa con la Comisión para que ésta asuma la notificación y el cobro, a través del procedimiento administrativo de ejecución, de los créditos fiscales que determine a cargo de los usuarios, derivados de los precios o tarifas por la prestación de los servicios públicos y de la imposición de multas;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
-XIII. Remitir a la Comisión, para efectos de su notificación y cobranza, en los términos del convenio respectivo, los créditos fiscales determinados a cargo de los usuarios, derivados de los precios o tarifas por la prestación de los servicios públicos y de la imposición de multas;
+XII. Celebrar convenios de colaboración administrativa con la Secretaría para que esta asuma la notificación, y la Secretaría de Finanzas el cobro cuando se cuente con resolución firme y exigible pago, a través del procedimiento administrativo de ejecución, de los créditos fiscales que determine a cargo de los usuarios, derivados de los precios o tarifas por la prestación de los servicios públicos y de la imposición de multas;
 
-XIV. Coadyuvar con la Comisión, previo convenio, en el ejercicio de funciones operativas relacionadas con otros usos del agua;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+XIII. Remitir a la Secretaría, para efectos de su notificación y a la Secretaría de Finanzas para efectos de su cobranza cuando se cuente con resolución firme y exigible pago, en los términos del convenio respectivo, los créditos fiscales determinados a cargo de los usuarios, derivados de los precios o tarifas por la prestación de los servicios públicos y de la imposición de multas;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+XIV. Coadyuvar con la Secretaría, previo convenio, en el ejercicio de funciones operativas relacionadas con otros usos del agua;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1025,7 +921,9 @@ XVII. Las demás que le asigne la presente Ley, su decreto de creación, la legi
 
 1. El patrimonio de los organismos operadores estará constituido por:
 
-I. Los bienes y derechos que formen parte del sistema de agua potable, alcantarillado sanitario, drenaje pluvial, tratamiento y reuso de las aguas residuales, reuso de las aguas residuales tratadas y disposición de las aguas del municipio, mismos que autorizará el Ayuntamiento para aportarlos como patrimonio inicial del organismo, así como otros que le entreguen con tal objeto las demás autoridades e instituciones;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+I. Los bienes y derechos que formen parte del sistema de agua potable, alcantarillado sanitario, drenaje pluvial, tratamiento y reúso de las aguas residuales, reúso de las aguas residuales tratadas y disposición de las aguas del municipio, mismos que autorizará el Ayuntamiento para aportarlos como patrimonio inicial del organismo, así como otros que le entreguen con tal objeto las demás autoridades e instituciones;
 
 II. Las aportaciones federales, estatales y municipales que en su caso se reciban;
 
@@ -1041,9 +939,13 @@ VII. Los demás bienes y derechos que formen parte de su patrimonio por cualquie
 
 VIII. Los ingresos que por cualquier forma obtenga, independientemente de los señalados en la fracción III precedente.
 
-2. Los bienes de los organismos operadores directamente destinados a la prestación del servicio de agua potable, alcantarillado sanitario, drenaje pluvial, tratamiento y reuso de las aguas residuales, reuso de las aguas residuales tratadas y disposición de las aguas, serán inembargables e imprescriptibles.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
-3. Los bienes inmuebles de los organismos operadores destinados directamente a la prestación de los servicios de agua potable, alcantarillado sanitario, drenaje pluvial, tratamiento y reuso de las aguas residuales, reuso de las aguas residuales tratadas y disposición de las aguas, se considerarán bienes del dominio público municipal.
+2. Los bienes de los organismos operadores directamente destinados a la prestación del servicio de agua potable, alcantarillado sanitario, drenaje pluvial, tratamiento y reúso de las aguas residuales, reúso de las aguas residuales tratadas y disposición de las aguas, serán inembargables e imprescriptibles.
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+3. Los bienes inmuebles de los organismos operadores destinados directamente a la prestación de los servicios de agua potable, alcantarillado sanitario, drenaje pluvial, tratamiento y reúso de las aguas residuales, reúso de las aguas residuales tratadas y disposición de las aguas, se considerarán bienes del dominio público municipal.
 
 ###### Artículo 27.
 
@@ -1067,9 +969,9 @@ I. El Presidente Municipal, quien fungirá como Presidente;
 
 II. Los titulares de tres dependencias municipales, las que serán, preferentemente, las responsables del desarrollo social, desarrollo urbano, obras públicas, desarrollo económico o medio ambiente;
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
-III. Tres representantes del Ejecutivo del Estado, de entre los cuales uno será servidor público de la Comisión y otro de la Secretaría de Salud;
+III. Tres representantes del Ejecutivo del Estado, los cuales uno será servidor público de la Secretaría, otro de la Secretaría de Salud y otro de la Secretaría de Desarrollo Urbano y Medio Ambiente;
 
 > <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2023)</small>
 
@@ -1097,9 +999,9 @@ V. Tres representantes de los sectores social y privado que tengan representativ
 
 I. Los presidentes municipales de los municipios que hayan celebrado convenio;
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
-II. Tres representantes del Ejecutivo del Estado, de entre los cuales uno será servidor público de la Comisión y otro de la Secretaría de Salud;
+II. Tres representantes del Ejecutivo del Estado, los cuales uno será servidor público de la Secretaría, otro de la Secretaría de Salud y otro de la Secretaría de Desarrollo Urbano y Medio Ambiente;
 
 > <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2023)</small>
 
@@ -1159,7 +1061,9 @@ VI. Autoriza se efectúen los trámites para la desincorporación de los bienes 
 
 VII. Autorizar la celebración de los actos jurídicos tendientes a la constitución de fideicomisos para el cumplimiento de los fines del organismo;
 
-VIII. Autorizar la celebración de convenios de colaboración administrativa con la Comisión, a fin de que ésta asuma la notificación y el cobro, a través del procedimiento administrativo de ejecución, de los créditos fiscales que el organismo determine a cargo de los usuarios, derivados de los precios o tarifas por la prestación de los servicios públicos y de la imposición de multas;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+VIII. Autorizar la celebración de convenios de colaboración administrativa con la Secretaría, a fin de que esta asuma la notificación, y la Secretaría de Finanzas el cobro cuando se cuente con resolución firme y exigible pago, a través del procedimiento administrativo de ejecución, de los créditos fiscales que el organismo determine a cargo de los usuarios, derivados de los precios o tarifas por la prestación de los servicios públicos y de la imposición de multas;
 
 IX. Conocer el estado del patrimonio del organismo y cuidar su adecuado manejo y administración;
 
@@ -1221,9 +1125,13 @@ V. Celebrar, con la autorización del Consejo de Administración, los actos jur�
 
 VI. Determinar infracciones a esta ley e imponer las sanciones correspondientes, recaudando las pecuniarias a través del procedimiento administrativo de ejecución;
 
-VII. Celebrar convenios de colaboración administrativa con la Comisión, a efecto de que ésta asuma la notificación y el cobro, a través del procedimiento administrativo de ejecución, de los créditos fiscales que determine conforme a la fracción anterior, a cargo de los usuarios, derivados de las cuotas o tarifas por la prestación de los servicios públicos y de la imposición de multas;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
-VIII. Remitir a la Comisión, para efectos de su notificación y cobranza, en los términos del convenio respectivo, los créditos fiscales determinados a cargo de los usuarios, derivados de las cuotas o tarifas por la prestación de los servicios públicos y de la imposición de multas;
+VII. Suscribir los convenios de colaboración administrativa que el organismo operador celebre con la Secretaría, a fin de que esta asuma la notificación, y la Secretaría de Finanzas el cobro cuando se cuente con resolución firme y exigible pago, a través del procedimiento administrativo de ejecución, de los créditos fiscales que determine conforme a la fracción anterior, a cargo de los usuarios, derivados de las cuotas o tarifas por la prestación de los servicios públicos y de la imposición de multas;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+VIII. Remitir a la Secretaría, para efectos de su notificación y a la Secretaría de Finanzas para efectos de su cobranza cuando se cuente con resolución firme y exigible pago, en los términos del convenio respectivo, los créditos fiscales determinados a cargo de los usuarios, derivados de las cuotas o tarifas por la prestación de los servicios públicos y de la imposición de multas;
 
 IX. Coordinar las actividades técnicas, administrativas y financieras del organismo para lograr una mayor eficiencia, eficacia y economía del mismo;
 
@@ -1327,9 +1235,11 @@ VII. Asociaciones de usuarios.
 
 La participación en el Consejo Estatal del Agua será honorífica, pero podrán solicitarse a la Comisión los apoyos económicos necesarios para la celebración de sus sesiones de trabajo.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 43.
 
-La Comisión llevará un registro de las instituciones, organismos y asociaciones, tanto públicas como privadas, que deseen participar en las acciones para la planeación, gestión, conservación y preservación de las aguas de jurisdicción estatal. Las organizaciones interesadas en participar en el Consejo Estatal de Agua deberán solicitar a la Comisión el registro correspondiente.
+La Secretaría llevará un registro de las instituciones, organismos y asociaciones, tanto públicas como privadas, que deseen participar en las acciones para la planeación, gestión, conservación y preservación de las aguas de jurisdicción estatal. Las organizaciones interesadas en participar en el Consejo Estatal de Agua deberán solicitar a la Secretaría el registro correspondiente.
 
 ###### Artículo 44.
 
@@ -1349,7 +1259,9 @@ IV. Revisar y opinar sobre el reglamento de inspección, verificación y evaluac
 
 V. Revisar y evaluar los resultados del Sistema Estatal de Información del Sector Agua para el Estado;
 
-VI. Apoyar la gestión de la Comisión y de los organismos operadores;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+VI. Apoyar la gestión de la Secretaría y de los organismos operadores;
 
 VII. Participar en la elaboración de programas y proyectos institucionales, así como en su evaluación y seguimiento;
 
@@ -1369,7 +1281,9 @@ II. La administración, operación, construcción y mantenimiento total o parcia
 
 III. La construcción de obras de infraestructura hidráulica y proyectos relacionados con los servicios públicos, incluyendo el financiamiento en su caso; y
 
-IV. En las demás acciones que se convengan con los ayuntamientos, los organismos operadores y la Comisión.
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+IV. En las demás acciones que se convengan con los ayuntamientos, los organismos operadores y la Secretaría.
 
 ###### Artículo 47.
 
@@ -1381,7 +1295,9 @@ IV. En las demás acciones que se convengan con los ayuntamientos, los organismo
 
 1. Las concesiones se otorgarán por el Municipio, o por dos o más municipios en los términos del artículo 63 de esta ley, previa licitación pública.
 
-2. En todo caso, la licitación deberá ser acorde tanto con el contenido de los Planes de Desarrollo Estatal y de Desarrollo Municipal o Municipales, como con los programas sectoriales de ambos órdenes de gobierno. La Comisión estará facultada para resolver lo conducente en los casos no contemplados por dichos planes y programas, de conformidad con lo dispuesto por el Reglamento de esta ley.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+2. En todo caso, la licitación deberá ser acorde tanto con el contenido del Plan de Desarrollo Estatal y los Planes de Desarrollo Municipal o Municipales, como con los programas sectoriales de ambos órdenes de gobierno. La Secretaría estará facultada para resolver lo conducente en los casos no contemplados por dichos planes y programas, de conformidad con lo dispuesto por el Reglamento de esta ley.
 
 3. Las concesiones se otorgarán conforme a lo siguiente:
 
@@ -1413,7 +1329,9 @@ X. Una vez dictada la resolución, el Municipio, en su caso, adjudicará la conc
 
 ###### Artículo 49.
 
-El título de concesión será elaborado por el Ayuntamiento, tomándose en cuenta las recomendaciones que haya formulado la Comisión, y deberá contener, entre otros aspectos, lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+El título de concesión será elaborado por el Ayuntamiento, tomándose en cuenta las recomendaciones que haya formulado la Secretaría, y deberá contener, entre otros aspectos, lo siguiente:
 
 I. Los fundamentos jurídicos y el objeto;
 
@@ -1455,7 +1373,9 @@ XVIII. Las causas de revocación a que se refiere el artículo 58 de esta ley.
 
 1. Las concesiones se otorgarán con la aprobación del Congreso del Estado, por el tiempo necesario para recuperar las inversiones y obtener la utilidad razonable que debe percibir el concesionario.
 
-2. Las concesiones a que se refiere el párrafo anterior podrán prorrogarse en los términos establecidos por la ley, hasta por un periodo igual al establecido inicialmente, siempre y cuando el concesionario lo solicite dentro de un plazo anterior a los últimos cinco años de duración de la concesión. La decisión de otorgar esa prórroga corresponde al Municipio, previa aprobación del Congreso del Estado, y con la opinión de la Comisión.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+2. Las concesiones a que se refiere el párrafo anterior podrán prorrogarse en los términos establecidos por la ley, hasta por un periodo igual al establecido inicialmente, siempre y cuando el concesionario lo solicite dentro de un plazo anterior a los últimos cinco años de duración de la concesión. La decisión de otorgar esa prórroga corresponde al Municipio, previa aprobación del Congreso del Estado, y con la opinión de la Secretaría.
 
 ###### Artículo 51.
 
@@ -1493,7 +1413,9 @@ Los concesionarios otorgarán las autorizaciones de descargas de aguas residuale
 
 ###### Artículo 55.
 
-1. Al término de la concesión, las obras y demás bienes del concesionario destinados directa o indirectamente a la prestación de los servicios públicos se revertirán al organismo operador municipal, intermunicipal o regional que sustituya al concesionario o, en su caso, al Municipio o a la Comisión, sin costo alguno.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+1. Al término de la concesión, las obras y demás bienes del concesionario destinados directa o indirectamente a la prestación de los servicios públicos se revertirán al organismo operador municipal, intermunicipal o regional que sustituya al concesionario o, en su caso, al Municipio o a la Secretaría, sin costo alguno.
 
 2. Los concesionarios estarán obligados a capacitar al personal de los prestadores de los servicios que los sustituyan en la administración, operación, conservación y mantenimiento de los servicios públicos, las obras y bienes concesionados.
 
@@ -1549,7 +1471,9 @@ XII. Incumple, de manera reiterada, con cualquiera de las obligaciones o condici
 
 ###### Artículo 59.
 
-1. También podrán rescatarse las concesiones que se otorguen al amparo de esta ley, previa opinión de la Comisión, por causa de utilidad o interés público, mediante indemnización, cuyo monto será fijado de común acuerdo por dos peritos designados por el o los municipios concedentes y el concesionario, en la inteligencia de que si los peritos designados no llegan a un acuerdo respecto del monto de la indemnización, o alguna de las partes no nombra al perito que le corresponde, el monto de la indemnización será fijado por un tercer perito designado por la Comisión.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+1. También podrán rescatarse las concesiones que se otorguen al amparo de esta ley, previa opinión de la Secretaría, por causa de utilidad o interés público, mediante indemnización, cuyo monto será fijado de común acuerdo por dos peritos designados por el o los municipios concedentes y el concesionario, en la inteligencia de que si los peritos designados no llegan a un acuerdo respecto del monto de la indemnización, o alguna de las partes no nombra al perito que le corresponde, el monto de la indemnización será fijado por un tercer perito designado por la Secretaría.
 
 2. La declaratoria de rescate hará que los bienes equipo, instalación, vehículos y demás enseres, directa e indirectamente destinados al objeto de la concesión vuelvan de pleno derecho a la posesión, control y administración del gobierno municipal y que ingresen a su patrimonio o, en su caso, al patrimonio del organismo operador, desde la fecha de la declaratoria misma; los bienes, equipo, instalación, vehículos y demás enseres, directa o indirectamente destinados a los fines de la concesión.
 
@@ -1561,19 +1485,29 @@ XII. Incumple, de manera reiterada, con cualquiera de las obligaciones o condici
 
 ###### Artículo 60.
 
-La revocación de la concesión será declarada administrativamente por el Ayuntamiento, con la opinión de la Comisión, conforme al siguiente procedimiento:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+La revocación de la concesión será declarada administrativamente por el Ayuntamiento, con la opinión de la Secretaría, conforme al siguiente procedimiento:
 
 I. El Ayuntamiento notificará al titular del inicio del procedimiento y de las causas que lo motivan y le otorgará un plazo de quince días hábiles, contados a partir del día siguiente al cual se realice la notificación, para señalar lo que a su derecho convenga y presentar las pruebas que estime pertinentes;
 
-II. Aportados los elementos de defensa y las pruebas, en su caso, o transcurrido el plazo sin que se hubieren presentado, el Municipio formulará proyecto de dictamen en un plazo de quince días hábiles, mismo que remitirá a la Comisión para opinión;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
-III. La Comisión remitirá al Municipio la opinión correspondiente en un plazo que no excederá de quince días hábiles, contado a partir de la recepción del proyecto de dictamen a que se refiere la fracción anterior, y
+II. Aportados los elementos de defensa y las pruebas, en su caso, o transcurrido el plazo sin que se hubieren presentado, el Municipio formulará proyecto de dictamen en un plazo de quince días hábiles, mismo que remitirá a la Secretaría para opinión;
 
-IV. El Municipio dictará la resolución que corresponda en un plazo no mayor de quince días hábiles, contado a partir de la recepción de la opinión de la Comisión.
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+III. La Secretaría remitirá al Municipio la opinión correspondiente en un plazo que no excederá de quince días hábiles, contado a partir de la recepción del proyecto de dictamen a que se refiere la fracción anterior; y
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+IV. El Municipio dictará la resolución que corresponda en un plazo no mayor de quince días hábiles, contado a partir de la recepción de la opinión de la Secretaría.
 
 ###### Artículo 61.
 
-1. Las actividades a que se refieren las fracciones II, III y IV del artículo 46 de esta ley, se podrán realizar mediante los siguientes contratos celebrados con el Municipio, el organismo operador o la Comisión:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+1. Las actividades a que se refieren las fracciones II, III y IV del artículo 46 de esta ley, se podrán realizar mediante los siguientes contratos celebrados con el Municipio, el organismo operador o Ejecutivo del Estado, a través de la Secretaría:
 
 I. Contrato de prestación de servicios integrales sin riesgo comercial, que se celebrará para la realización de los estudios, proyectos, construcción, operación, mantenimiento y administración de los sistemas para la prestación de los servicios públicos, en que se establecerá un pago previamente definido al contratista por los servicios realizados;
 
@@ -1667,17 +1601,21 @@ Los propietarios ribereños del cauce abandonado podrán adquirir hasta la mitad
 
 3. Las obras de encauzamiento o limitación se considerarán como parte integrante de los cauces y los vasos correspondientes, y de la zona estatal y de la zona de protección respectiva, por lo que estarán sujetas al dominio público del Estado.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 73.
 
-1. El Ejecutivo del Estado, por sí o a través de la Comisión, podrá reducir o suprimir mediante declaratoria la zona estatal de corrientes, lagos y lagunas de propiedad estatal, en las porciones comprendidas dentro del perímetro de las poblaciones.
+1. El Ejecutivo del Estado, a solicitud de la Secretaría, podrá reducir o suprimir mediante declaratoria la zona estatal de corrientes, lagos y lagunas de propiedad estatal, en las porciones comprendidas dentro del perímetro de las poblaciones.
 
-2. El Estado, los municipios o, en su caso, los particulares interesados en los terrenos a que se refiere este artículo, deberán presentar a la aprobación de la Comisión el proyecto para realizar las obras de control y las que sean necesarias para reducir o suprimir la zona estatal.
+2. Los municipios o, en su caso, los particulares interesados en los terrenos a que se refiere este artículo, deberán presentar a la aprobación de la Secretaría el proyecto para realizar las obras de control y las que sean necesarias para reducir o suprimir la zona estatal.
 
-3. La Comisión podrá convenir con los ayuntamientos, la custodia, conservación y mantenimiento de las zonas estatales referidas en este artículo. En el caso de los particulares interesados, esto se realizará mediante licitación pública.
+3. La Secretaría, podrá convenir con los ayuntamientos, la custodia, conservación y mantenimiento de las zonas estatales referidas en este artículo. En el caso de los particulares interesados, esto se realizará mediante licitación pública.
 
 ###### Artículo 74.
 
-1. El Ejecutivo del Estado, a través de la Comisión, podrá proceder a emitir las declaratorias de aguas estatales que se consideren pertinentes; la falta de dicha declaratoria no afecta la naturaleza y carácter estatal que corresponde a dichas aguas con base a esta ley.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+1. El Ejecutivo del Estado, a solicitud de la Secretaría, podrá emitir las declaratorias de aguas estatales que se consideren pertinentes; la falta de dicha declaratoria no afecta la naturaleza y carácter estatal que corresponde a dichas aguas con base a esta ley.
 
 2. La declaratoria de aguas estatales que emita el Ejecutivo del Estado tendrá por objeto determinar la jurisdicción de las aguas y hacer del conocimiento público las corrientes o depósitos de aguas que tengan el carácter estatal.
 
@@ -1689,7 +1627,9 @@ Los propietarios ribereños del cauce abandonado podrán adquirir hasta la mitad
 
 ###### Artículo 75.
 
-1. Para la explotación, uso o aprovechamiento de las aguas estatales y sus bienes inherentes se requerirá el otorgamiento de concesión, de acuerdo a las reglas y condiciones que para su expedición, prórroga, suspensión, revocación, terminación y los actos y contratos relativos a la transmisión total o parcial de su titularidad, que se señalen en esta ley y sus reglamentos.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+1. Para la explotación, uso o aprovechamiento de las aguas estatales y sus bienes inherentes se requerirá el otorgamiento por la Secretaría de concesión, de acuerdo a las reglas y condiciones que para su expedición, prórroga, suspensión, revocación, terminación y los actos y contratos relativos a la transmisión total o parcial de su titularidad, que se señalen en esta ley y sus reglamentos.
 
 2. El otorgamiento de la concesión referida en el párrafo anterior se podrá conferir a entes públicos o a personas de los sectores social y privado. Sin la misma no podrán realizar la exploración, uso o aprovechamiento de las aguas estatales y sus bienes inherentes.
 
@@ -1697,21 +1637,33 @@ Los propietarios ribereños del cauce abandonado podrán adquirir hasta la mitad
 
 1. El uso, explotación y aprovechamiento de las aguas estatales y sus bienes inherentes se considerarán de utilidad pública.
 
-2. El Ejecutivo del Estado, a petición de la Comisión, podrá expropiarlas, utilizarlas temporalmente y establecer las servidumbres necesarias, en la forma y términos que señale la legislación aplicable.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+2. El Ejecutivo del Estado, a petición de la Secretaría, podrá rescatarlas, utilizarlas temporalmente y establecer las servidumbres necesarias, en la forma y términos que señale la legislación aplicable.
 
 3. Para el uso, exploración y aprovechamiento de las aguas estatales y sus bienes inherentes tendrán preferencia el uso doméstico y público urbano sobre los demás usos, respetando el agua en la cantidad y calidad necesarias para sustentar la flora y fauna silvestre y para el medio ambiente.
 
 ###### Artículo 77.
 
-El plazo correspondiente a las concesiones de bienes previstas en este Capítulo, será determinado en atención a la disponibilidad del recurso, y su uso y destino específicos. No podrá ser mayor de 15 años, pero podrá prorrogarse hasta por 15 años previa opinión de la Comisión y la verificación del cumplimiento de las obligaciones establecidas por esta ley, sus reglamentos, las normas oficiales mexicanas y la propia concesión.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+1. El plazo correspondiente a las concesiones de bienes previstas en este Capítulo, será determinado en atención a la disponibilidad del recurso, y su uso y destino específicos. No podrá ser mayor de 15 años, pero podrá prorrogarse hasta por 15 años previa opinión de la Secretaría y la verificación del cumplimiento de las obligaciones establecidas por esta ley, sus reglamentos, las normas oficiales mexicanas y la propia concesión.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+2. La solicitud de prórroga deberá presentarse ante la Secretaría cuando menos un día antes del vencimiento de la concesión.
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 78.
 
-La Comisión vigilará la explotación, uso o aprovechamiento de las aguas estatales y sus bienes inherentes, verificando el cumplimiento de las obligaciones establecidas en las concesiones o permisos con carácter provisional que se hubieran otorgado.
+La Secretaría vigilará la explotación, uso o aprovechamiento de las aguas estatales y sus bienes inherentes, verificando el cumplimiento de las obligaciones establecidas en las concesiones o permisos con carácter provisional que se hubieran otorgado.
 
 ###### Artículo 79.
 
-1. Son causas de revocación de las concesiones o de los permisos con carácter provisional, independientemente de la aplicación de las sanciones que procedan, cuando el usufructuario del título:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+1. Son causas de revocación de las concesiones o de los permisos con carácter provisional, independientemente de la aplicación de las sanciones que procedan, cuando el titular:
 
 I. No cubra los pagos que conforme a la ley debe efectuar por la explotación, uso o aprovechamiento de las aguas o por los servicios de suministro de las mismas, hasta que regularice tal situación;
 
@@ -1719,15 +1671,23 @@ II. No cubra los créditos fiscales que sean a su cargo durante un lapso mayor a
 
 III. Se oponga u obstaculice el ejercicio de las facultades de inspección, la medición o verificación sobre los recursos e infraestructura hidráulica concesionada, por parte del personal autorizado;
 
-IV. Descargue aguas residuales que afecten o puedan afectar fuentes de abastecimiento de agua potable o a la salud pública y así lo solicite la Comisión, y
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+IV. Descargue aguas residuales que afecten o puedan afectar fuentes de abastecimiento de agua potable o a la salud pública y así lo solicite la Secretaría; y
 
 V. No cumpla con las condiciones o especificaciones del título de concesión salvo que acredite que dicho incumplimiento no le es imputable.
 
-2. No se aplicará la suspensión si dentro de los diez días hábiles siguientes a aquél en que la autoridad en ejercicio de sus facultades haya notificado al concesionario y éste acredite haber cubierto los pagos o los créditos a que se refieren las fracciones I y II, respectivamente, o demuestra que el incumplimiento que prevén las fracciones IV y V no le son imputables, casos en los que la Comisión resolverá dentro de los cinco días hábiles siguientes a la presentación de pruebas por parte del concesionario, si debe o no aplicarse la suspensión, sin perjuicio de lo establecido en esta ley en lo relativo a prevención y control de la contaminación de las aguas y responsabilidad por el daño ambiental.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
-3. En el caso que prevé la fracción III, la suspensión durará hasta que el concesionario acredite que han cesado los actos que le dieron origen, caso en el que la Comisión reiniciará sus facultades de inspección, medición y verificación.
+2. No se aplicará la suspensión si dentro de los diez días hábiles siguientes a aquél en que la autoridad en ejercicio de sus facultades haya notificado al concesionario y éste acredite haber cubierto los pagos o los créditos a que se refieren las fracciones I y II, respectivamente, o demuestra que el incumplimiento que prevén las fracciones IV y V no le son imputables, casos en los que la Secretaría resolverá dentro de los cinco días hábiles siguientes a la presentación de pruebas por parte del concesionario, si debe o no aplicarse la suspensión, sin perjuicio de lo establecido en esta ley en lo relativo a prevención y control de la contaminación de las aguas y responsabilidad por el daño ambiental.
 
-4. La suspensión sólo subsistirá en tanto el infractor no regularice su situación administrativa o se dicte resolución por autoridad competente que decrete su levantamiento.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+3. En el caso que prevé la fracción III, la suspensión durará hasta que el concesionario acredite que han cesado los actos que le dieron origen, caso en el que la Secretaría reiniciará sus facultades de inspección, medición y verificación.
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+4. La suspensión sólo subsistirá en tanto el infractor no regularice su situación administrativa y se dicte resolución por la Secretaría que decrete su levantamiento.
 
 ###### Artículo 80.
 
@@ -1745,11 +1705,17 @@ V. No ejecute adecuadamente las obras y trabajos autorizados;
 
 VI. Dañe ecosistemas vitales al agua como consecuencia de la disposición de materiales pétreos;
 
-VII. Transmita los derechos del título sin permiso de la Comisión o en contravención a lo dispuesto en esta Ley;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
-VIII. Permita a terceros en forma provisional la explotación de los materiales pétreos amparados por la concesión respectiva, sin mediar la transmisión definitiva de derechos, la modificación de las condiciones del título respectivo, o la autorización previa de la Comisión;
+VII. Transmita los derechos del título sin permiso de la Secretaría o en contravención a lo dispuesto en esta Ley;
 
-IX. Incumpla las medidas preventivas y correctivas que ordene la Comisión; o
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+VIII. Permita a terceros en forma provisional la explotación de los materiales pétreos amparados por la concesión respectiva, sin mediar la transmisión definitiva de derechos, la modificación de las condiciones del título respectivo, o la autorización previa de la Secretaría;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+IX. Incumpla las medidas preventivas y correctivas que ordene la Secretaría; o
 
 X. Las demás previstas en esta ley, en sus reglamentos o en el titulado de concesión.
 
@@ -1759,17 +1725,25 @@ Los concesionarios a que se refiere el presente Capítulo estarán obligados a:
 
 I. Ejecutar la explotación, uso o aprovechamiento consignado con estricto apego a las especificaciones que se autorizaron, respetando el uso, zonas reglamentadas de vedas, reservas y los programas que se establecen en esta ley;
 
-II. Instalar medidores volumétricos en la fuente de aprovechamiento, mantenerlo funcionando correctamente y en caso de descompostura dar aviso inmediato por escrito a la Comisión, siendo obligación del concesionario reparar o, en su caso, reemplazar dichos dispositivos;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
-III. Permitir en cualquier tiempo las visitas de inspección por parte de la Comisión, e informar con veracidad y oportunidad a la autoridad de los volúmenes extraídos;
+II. Instalar medidores volumétricos en la fuente de aprovechamiento, mantenerlo funcionando correctamente y en caso de descompostura dar aviso inmediato por escrito a la Secretaría, siendo obligación del concesionario reparar o, en su caso, reemplazar dichos dispositivos;
 
-IV. Realizar las obras para la explotación, uso o aprovechamiento de las aguas, observando plenamente las disposiciones que le solicite la Comisión, y en particular las obras asentadas en la concesión respectiva;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+III. Permitir en cualquier tiempo las visitas de inspección por parte de la Secretaría, e informar con veracidad y oportunidad a la autoridad de los volúmenes extraídos;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+IV. Realizar las obras para la explotación, uso o aprovechamiento de las aguas, observando plenamente las disposiciones que le solicite la Secretaría, y en particular las obras asentadas en la concesión respectiva;
 
 V. Iniciar el ejercicio de los derechos consignados en la concesión a partir de la fecha aprobada conforme a las condiciones asentadas en el título respectivo y concluir las obras aprobadas dentro de los plazos previstos en la concesión;
 
 VI. Cubrir los gastos de deslinde y amojonamiento del área concesionada;
 
-VII. Desocupar y entregar dentro del plazo establecido por la Comisión, las áreas de que se trate en los casos de extinción o revocación de concesiones;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+VII. Desocupar y entregar dentro del plazo establecido por la Secretaría, las áreas de que se trate en los casos de extinción o revocación de concesiones;
 
 VIII. Cubrir oportunamente las contribuciones que se deriven por la explotación, uso o aprovechamiento de las aguas, por la descarga de aguas y alejamiento de aguas residuales y por aprovechar bienes inherentes; estos pagos se deberán efectuar conforme a la legislación fiscal aplicable y las demás obligaciones que las mismas señalan, y
 
@@ -1797,13 +1771,17 @@ VIII. Las demás que le otorguen esta ley, sus reglamentos y demás disposicione
 
 ###### Artículo 83.
 
-1. La Comisión instaurará y tendrá a su cargo el Registro Público Estatal de Derechos de Agua correspondientes a las aguas estatales y sus bienes inherentes, el cual deberá ser congruente con el Registro Público de Derechos de Aguas Nacionales.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+1. La Secretaría instaurará y tendrá a su cargo el Registro Público Estatal de Derechos de Agua correspondientes a las aguas estatales y sus bienes inherentes, el cual deberá ser congruente con el Registro Público de Derechos de Aguas Nacionales.
 
 2. En el Registro Público Estatal de Derechos de Agua se inscribirán los títulos de concesión al momento de su expedición, los cuales surtirán efectos frente a terceros a partir de su inscripción.
 
 3. Es responsabilidad del concesionario solicitar el registro de cualquier modificación al título de concesión, tales como prórroga, suspensión, terminación, revocación y actos y contratos relativos a la transmisión total o parcial de la titularidad.
 
-4. Las constancias de la inscripción de los títulos que expida el Registro Estatal de Derechos de Agua serán medios de prueba de su existencia, titularidad y estado que guardan. La inscripción será condición para que la transmisión de los títulos surta sus efectos legales ante terceros, la Comisión y cualquier otra autoridad.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+4. Las constancias de la inscripción de los títulos que expida el Registro Estatal de Derechos de Agua serán medios de prueba de su existencia, titularidad y estado que guardan. La inscripción será condición para que la transmisión de los títulos surta sus efectos legales ante terceros, la Secretaría y cualquier otra autoridad.
 
 ###### Artículo 84.
 
@@ -1821,7 +1799,9 @@ En ningún caso procederá el cambio del uso concesionado a los entes públicos 
 
 1. El Ejecutivo del Estado elaborará el Programa Estratégico de Desarrollo del Sector Agua del Estado. El programa considerará un horizonte de proyección mínima de veinticinco años y será el resultado de un proceso participativo, plural e interactivo en la formulación del diagnóstico, análisis prospectivo, estrategias de preservación del agua, normas, políticas, acciones, proyectos, estándares y metas, así como los esquemas de proyección, seguimiento, evaluación y actualización.
 
-2. Para el diseño y la realización del Programa Estratégico, el Ejecutivo del Estado invitará a participar a la Comisión Estatal del Agua y al Consejo Estatal del Agua, así como a las autoridades estatales y municipales que estime pertinentes. En este ejercicio, también se considerará la información y el punto de vista que pueda aportar la Comisión Nacional del Agua en el ámbito de sus atribuciones.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+2. Para el diseño y la realización del Programa Estratégico, el Ejecutivo del Estado invitará a participar a la Secretaría y al Consejo Estatal del Agua, así como a las autoridades estatales y municipales que estime pertinentes. En este ejercicio, también se considerará la información y el punto de vista que pueda aportar la Comisión Nacional del Agua en el ámbito de sus atribuciones.
 
 3. El Programa Estratégico deberá establecerse como la fuente oficial de información para la elaboración del Programa Hidráulico de la Administración, alentándose la continuidad, en el largo plazo, del desarrollo del Sector Agua en el Estado. También será documento de consulta para la elaboración del Plan Estatal de Desarrollo y, en las demarcaciones pertinentes, de los Planes Municipales de Desarrollo.
 
@@ -1885,7 +1865,9 @@ b. Conducción, almacenamiento y distribución de agua potable;
 
 c. Desalojo, recolección, tratamiento y reuso de las aguas residuales;
 
-d. Reuso de las aguas residuales tratadas;
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+d. Reúso de las aguas residuales tratadas;
 
 e. Manejo y control de ríos, corrientes, afluentes, arroyos, y demás cuerpos y corrientes de agua;
 
@@ -1917,15 +1899,19 @@ XV. El comportamiento de la calidad del agua cruda, potable, residual y tratada;
 
 XVI. Todas aquellas variables que permitan a la Comisión mejorar la toma de decisiones.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 90.
 
-La Comisión promoverá la realización de convenios de colaboración con los ayuntamientos, así como con los usuarios organizados, para establecer y mantener actualizado un proceso eficiente de recopilación de información y acceso a la misma.
+La Secretaría promoverá la realización de convenios de colaboración con los ayuntamientos, así como con los usuarios organizados, para establecer y mantener actualizado un proceso eficiente de recopilación de información y acceso a la misma.
 
 ### CAPITULO V. DE LA NORMATIVIDAD OPERATIVA PARA EL SECTOR AGUA DEL ESTADO
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 91.
 
-Con la finalidad de simplificar el proceso de evaluación que coadyuve en la promoción del uso eficiente del agua y el mejoramiento de los servicios públicos inherentes, la Comisión podrá suscribir convenios con los prestadores de servicios y los usuarios del agua en general con la finalidad de mejorar la eficiencia y la calidad de los servicios, a través de la aplicación de la normatividad operativa para el Sector Agua del Estado.
+Con la finalidad de simplificar el proceso de evaluación que coadyuve en la promoción del uso eficiente del agua y el mejoramiento de los servicios públicos inherentes, la Secretaría podrá suscribir convenios con los prestadores de servicios y los usuarios del agua en general con la finalidad de mejorar la eficiencia y la calidad de los servicios, a través de la aplicación de la normatividad operativa para el Sector Agua del Estado.
 
 ###### Artículo 92.
 
@@ -1937,13 +1923,19 @@ II. Los procedimientos de evaluación y medición de la eficacia, eficiencia y p
 
 III. Los procedimientos de evaluación para determinar la calidad de los servicios;
 
-IV. El tipo y cantidad de los apoyos económicos, tecnológicos y profesionales que ofrezca la Comisión;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
-V. Los montos de recursos financieros que ofrezca el Ejecutivo del Estado por medio de la Comisión a cada prestador de los servicios;
+IV. El tipo y cantidad de los apoyos económicos, tecnológicos y profesionales que ofrezca la Secretaría;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+V. Los montos de recursos financieros que ofrezca el Ejecutivo del Estado por medio de la Secretaría a cada prestador de los servicios;
 
 VI. Los créditos en los que se solicite funja como aval el Estado, en los términos de la Ley de Deuda Pública Estatal y Municipal;
 
-VII. Los compromisos de los ayuntamientos, organismos operadores o usuarios organizados para coadyuvar con la Comisión en la estandarización de los procesos y homologación de la información del Sector Agua en el Estado, y
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+VII. Los compromisos de los ayuntamientos, organismos operadores o usuarios organizados para coadyuvar con la Secretaría en la estandarización de los procesos y homologación de la información del Sector Agua en el Estado; y
 
 VIII. La aceptación por parte de los prestadores de servicios de dar cumplimiento a la normatividad operativa para el Sector Agua del Estado.
 
@@ -1951,41 +1943,47 @@ VIII. La aceptación por parte de los prestadores de servicios de dar cumplimien
 
 ###### Artículo 93.
 
-1. El Ejecutivo del Estado, por medio de la Comisión, elaborará y presentará el Programa Hidráulico de la Administración, dentro de los 120 días posteriores a la presentación del Plan Estatal de Desarrollo.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+1. El Ejecutivo del Estado, por medio de la Secretaría, elaborará y presentará el Programa Hidráulico de la Administración, dentro de los 120 días posteriores a la presentación del Plan Estatal de Desarrollo.
 
 2. El Programa Hidráulico de la Administración estará conformado por acciones y proyectos de carácter estatal y municipal que se pretendan realizar en el período correspondiente a la administración pública del Estado, en concordancia con el Plan Estatal de Desarrollo.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 94.
 
-1. La Comisión deberá presentar, a más tardar el 30 de octubre de cada ejercicio fiscal, el Programa Operativo Hidráulico Anual del Estado, con la finalidad de que se ejerza en el siguiente año.
+1. La Secretaría deberá presentar, a más tardar el 30 de octubre de cada ejercicio fiscal, el Programa Operativo Hidráulico Anual del Estado, con la finalidad de que se ejerza en el siguiente año.
 
-2. El Programa Operativo Hidráulico Anual estará conformado por proyectos de carácter estatal y municipal. Por lo tanto, los ayuntamientos y usuarios organizados que hayan realizado convenios con la Comisión deberán entregar sus propuestas a más tardar el 30 de septiembre de cada ejercicio fiscal, con objeto de que puedan incorporarse al Programa Operativo Hidráulico Anual del Estado.
+2. El Programa Operativo Hidráulico Anual estará conformado por proyectos de carácter estatal y municipal. Por lo tanto, los ayuntamientos y usuarios organizados que hayan realizado convenios con la Secretaría deberán entregar sus propuestas a más tardar el 30 de septiembre de cada ejercicio fiscal, con objeto de que puedan incorporarse al Programa Operativo Hidráulico Anual del Estado.
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 95.
 
-Se promoverá la realización de convenios entre la Comisión y los ayuntamientos, así como con los usuarios organizados para coordinarse en la elaboración del Programa Hidráulico de la Administración y los Programas Operativos Hidráulicos Anuales.
+Se promoverá la realización de convenios entre la Secretaría y los ayuntamientos, así como con los usuarios organizados para coordinarse en la elaboración del Programa Hidráulico de la Administración y los Programas Operativos Hidráulicos Anuales.
 
 ###### Artículo 96.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
-
-1. La falta de cumplimiento y seguimiento de los programas a que se refiere esta ley, será causa de responsabilidad administrativa de los servidores públicos estatales y municipales a quienes se les encomienden dichas labores. Esta falta será sancionada en los términos de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
-
-2. Sin perjuicio de lo establecido en el párrafo anterior, la falta de cumplimiento y seguimiento de los programas encomendados por la presente ley a la Comisión o a los organismos operadores, será directamente imputable al Director General o a los gerentes generales y, previa audiencia, será causa suficiente para su inmediata remoción.
+(DEROGADO, P.O. 21 DE FEBRERO DE 2024)
 
 ## TITULO QUINTO. DE LA EVALUACION Y EL CONTROL
 
 ### CAPITULO UNICO. DEL SISTEMA DE CONTROL DE LA PRODUCTIVIDAD Y CALIDAD DEL SECTOR AGUA DEL ESTADO
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 97.
 
-1. Con la finalidad de ejercer las funciones de evaluación y control relacionadas con el cumplimiento de las leyes, reglamentos, normas, políticas y estándares aplicables al uso y aprovechamiento del agua y a la prestación de los servicios públicos inherentes, se crea el Sistema de Control de la Productividad y Calidad del Sector Agua del Estado.
+1. Con la finalidad de ejercer las funciones de evaluación y control relacionadas con el cumplimiento de las leyes, reglamentos, normas, políticas y estándares aplicables al uso y aprovechamiento del agua y a la prestación de los servicios públicos inherentes, se integrará el Sistema de Control de la Productividad y Calidad del Sector Agua del Estado.
 
-2. El Sistema previsto en el párrafo anterior formará parte de la estructura de la Comisión, para que esta última obtenga la capacidad de ejercer las atribuciones que le confiere esta ley respecto a la evaluación y control de todos los procesos relacionados con la prestación de los servicios públicos y el uso, aprovechamiento, contaminación y preservación del agua.
+2. El Sistema será operado por la Secretaría para ejercer las atribuciones que le confiere esta ley respecto a la evaluación y control de todos los procesos relacionados con la prestación de los servicios públicos y el uso, aprovechamiento, contaminación y preservación del agua.
 
 ###### Artículo 98.
 
-La Comisión, a través del Sistema de Control de la Productividad y Calidad del Sector Agua del Estado, tendrá a su cargo las siguientes funciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+La Secretaría, a través del Sistema de Control de la Productividad y Calidad del Sector Agua del Estado, tendrá a su cargo las siguientes funciones:
 
 I. Vigilar, en coordinación con la Comisión Nacional del Agua, que el aprovechamiento del agua se ajuste a los volúmenes establecidos en los títulos de concesión o de asignación otorgados por la autoridad correspondiente;
 
@@ -2003,9 +2001,11 @@ VII. Vigilar que las descargas sanitarias cumplan con la normatividad establecid
 
 VIII. Todas aquellas que estén relacionadas con el cumplimiento del orden jurídico tendiente a asegurar la sustentabilidad del recurso agua y la calidad en la prestación de los servicios públicos inherentes en el Estado.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 99.
 
-Para que el Sistema de Control de la Productividad y Calidad del Sector Agua del Estado cumpla con sus atribuciones, el Ejecutivo del Estado, por medio de la Comisión, deberá suscribir convenios con la Comisión Nacional del Agua, los ayuntamientos y los usuarios organizados.
+Para que el Sistema de Control de la Productividad y Calidad del Sector Agua del Estado cumpla con sus atribuciones, el Ejecutivo del Estado, por conducto de la Secretaría, deberá suscribir convenios con la Comisión Nacional del Agua, los ayuntamientos y los usuarios organizados.
 
 ## TITULO SEXTO
 
@@ -2015,9 +2015,19 @@ DE LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO SANITARIO, DRENAJE PLU
 
 ###### Artículo 100.
 
-1. El Ejecutivo del Estado, por conducto de la Comisión, se coordinará con los ayuntamientos y promoverá la concertación de éstos entre sí para prestar los servicios públicos de la manera más eficiente en todos los asentamientos humanos del Estado.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+1. El Ejecutivo del Estado, por conducto de la Secretaría, se coordinará con los ayuntamientos y promoverá la concertación de éstos entre sí para prestar los servicios públicos en el estado de la manera más eficiente para todos los usos específicos que establece esta ley.
 
 2. Las autoridades estatales y municipales podrán realizar los trámites necesarios para acceder a los recursos económicos y financieros, así como a la asistencia técnica que ofrece el Gobierno Federal en materia de agua, a través de los programas respectivos. En tratándose de gestiones que requieran la suscripción de convenios entre el Ayuntamiento y el Gobierno Federal, se atenderán las disposiciones del Código Municipal para el Estado en materia de atribuciones del Poder Legislativo Estatal.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+3. La Secretaría, en coordinación con las autoridades competentes, fomentará el desarrollo industrial en áreas con disponibilidad hídrica o donde resulte factible el reúso, que genere bienestar social, desarrollo económico y empleo en las diversas regiones del Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+4. La Secretaría, verificará que en la instalación de industrias en zonas con disponibilidad hídrica baja o en déficit se presenten compromisos y programas de tratamiento y reúso del agua.
 
 ###### Artículo 101.
 
@@ -2091,7 +2101,9 @@ IX. Material de la banqueta.
 
 2. La normatividad operativa para el Sector Agua del Estado establecerá las normas y políticas relacionadas con la instalación de la toma domiciliaria y descargas sanitarias.
 
-### CAPITULO II. DE LA INCORPORACION DE NUEVOS ASENTAMIENTOS HUMANOS A LAS AREAS DE FACTIBILIDAD DE LOS SERVICIOS PUBLICOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE FEBRERO DE 2024)</small>
+
+### CAPITULO II. DE LA INCORPORACIÓN DE NUEVOS ASENTAMIENTOS HUMANOS E INDUSTRIALES A LAS ÁREAS DE FACTIBILIDAD DE LOS SERVICIOS PÚBLICOS
 
 ###### Artículo 111.
 
@@ -2103,15 +2115,21 @@ Los organismos operadores informarán a las dependencias y entidades federales, 
 
 ###### Artículo 113.
 
-1. Para autorizar la incorporación de nuevos asentamientos humanos a los servicios públicos, las personas físicas o morales interesadas deberán presentar al organismo operador correspondiente, una solicitud de factibilidad que será acompañada por un plano con la ubicación geográfica, número de lotes y vocación del suelo del predio que se pretende urbanizar.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+1. Para autorizar la incorporación de nuevos asentamientos humanos e industriales a los servicios públicos, las personas físicas o morales interesadas deberán presentar al organismo operador correspondiente, una solicitud de factibilidad que será acompañada por un plano con la ubicación geográfica, número de lotes o infraestructura industrial y vocación del suelo del predio que se pretende urbanizar o industrializar.
 
 2. Para que el organismo operador pueda autorizar la solicitud de factibilidad de los servicios públicos deberá:
 
-I. Determinar la demanda requerida y verificar que exista oferta de agua disponible;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+I. Determinar la demanda requerida y verificar que exista oferta de agua disponible en base al dictamen de disponibilidad para consumo humano que expida la Secretaría;
 
 II. Determinar el punto de conexión con la infraestructura existente de acuerdo a lo que establezca el Plan Estratégico de Desarrollo del Sector Agua del Municipio; y
 
-III. Aprobar los proyectos relativos a las instalaciones hidráulicas y sanitarias intradomiciliarias, verificándose que cumplan con las especificaciones técnicas requeridas y con las leyes y los reglamentos aplicables.
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+III. Aprobar los proyectos relativos a las instalaciones hidráulicas y sanitarias intradomiciliarias o industriales, verificándose que cumplan con las especificaciones técnicas requeridas y con las leyes y los reglamentos aplicables.
 
 3. El organismo operador está obligado a informar por escrito al solicitante la resolución correspondiente, en un plazo no mayor de treinta días hábiles a partir de la solicitud de factibilidad de servicios respectiva.
 
@@ -2363,9 +2381,11 @@ h. Por los servicios ambientales proporcionados por los elementos del ciclo hidr
 
 3. Se otorgarán bonificaciones del 50% en el pago de las contribuciones por esos servicios, a jubilados, pensionados, adultos mayores de 60 años y personas con discapacidad hasta un consumo máximo de 20 metros cúbicos, cuando se trate del domicilio donde vivan y el servicio esté registrado a su nombre, previa comprobación de dicha circunstancia. Cuando el consumo sea mayor a los 20 metros cúbicos, el usuario deberá pagar el excedente conforme al costo del rango de consumo que corresponde a cada caso específico, sin demérito de la bonificación previamente establecida.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2009)</small>
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
-4. La autoridad u organismo operador a cargo de la prestación y cobro del servicio del agua, actualizará anualmente las tarifas conforme a la variación del Índice Nacional de Precios al Consumidor emitido por el Banco de México al mes de diciembre del año anterior.
+4. Se podrán otorgar bonificaciones de hasta el 50% por los servicios que prestan los organismos operadores a los usuarios de instalaciones, campamentos o bases a cargo de instituciones de seguridad pública nacional.
+
+5. La autoridad u organismo operador a cargo de la prestación y cobro del servicio del agua, actualizará anualmente las tarifas conforme a la variación del Índice Nacional de Precios al Consumidor emitido por el Banco de México al mes de diciembre del año anterior.
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -2385,7 +2405,9 @@ h. Por los servicios ambientales proporcionados por los elementos del ciclo hidr
 
 1. Al precio que se establezca para cada metro cúbico de agua servida se le sumarán tres porcentajes: uno para el cobro del servicio de alcantarillado sanitario, otro para el cobro del servicio de tratamiento de las aguas residuales y otro para el cobro de servicios ambientales.
 
-2. Para llevar a cabo el incremento de tarifas, una vez aprobado el dictamen por el Consejo de Administración del Organismo Operador, deberá remitirlo para su validación, aprobación y publicación en el Periódico Oficial del Estado, a la Comisión Estatal del Agua de Tamaulipas.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+2. Para llevar a cabo el incremento de tarifas, una vez aprobado el dictamen por el Consejo de Administración del Organismo Operador, deberá remitirlo para su validación, aprobación y publicación en el Periódico Oficial del Estado, a la Secretaría.
 
 ###### Artículo 144.
 
@@ -2433,13 +2455,17 @@ III Uso doméstico.
 
 ###### Artículo 149.
 
-1. Los adeudos a cargo de los usuarios y en favor de los organismos operadores municipales, intermunicipales, regionales o, en su defecto, de la Comisión, derivados de los precios o tarifas por la prestación de los servicios públicos, tendrán el carácter de créditos fiscales para efectos de la aplicación del procedimiento administrativo de ejecución.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+1. Los adeudos a cargo de los usuarios y en favor de los organismos operadores municipales, intermunicipales, regionales o, en su defecto, de la Secretaría, derivados de los precios o tarifas por la prestación de los servicios públicos, tendrán el carácter de créditos fiscales para efectos de la aplicación del procedimiento administrativo de ejecución.
 
 2. A los adeudos que conforme a este artículo adquieran el carácter de créditos fiscales les serán aplicables las disposiciones del Código Fiscal del Estado relativas a la actualización y recargos.
 
 ###### Artículo 150.
 
-1. Los organismos operadores municipales, intermunicipales, regionales o, en su defecto, la Comisión, exigirán el pago de los créditos fiscales que determinen a cargo de los usuarios, que no hayan sido cubiertos o garantizados dentro de los quince días hábiles siguientes a su notificación, mediante el procedimiento administrativo de ejecución previsto en el Código Fiscal del Estado.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+1. Los organismos operadores municipales, intermunicipales, regionales o, en su defecto, la Secretaría, exigirán el pago de los créditos fiscales que determinen a cargo de los usuarios, que no hayan sido cubiertos o garantizados dentro de los quince días hábiles siguientes a su notificación, mediante el procedimiento administrativo de ejecución previsto en el Código Fiscal del Estado.
 
 2. Los prestadores de los servicios públicos a que se refiere el párrafo anterior, podrán autorizar el pago diferido o en parcialidades de los créditos fiscales a cargo de los usuarios en los términos que al efecto establece el propio Código Fiscal del Estado, siempre y cuando el plazo no exceda de doce meses.
 
@@ -2559,21 +2585,27 @@ Cuando un predio requiera, de manera simultánea, del servicio público de agua 
 
 ### CAPITULO III. DE LA PREVENCION Y CONTROL DE LA CONTAMINACION DE LAS AGUAS
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 164.
 
-1. La Comisión promoverá, ejecutará y evaluará las medidas y acciones necesarias para vigilar, prevenir y controlar la contaminación de las aguas de jurisdicción estatal.
+1. La Secretaría promoverá, ejecutará y evaluará las medidas y acciones necesarias para vigilar, prevenir y controlar la contaminación de las aguas de jurisdicción estatal.
 
-2. La Comisión vigilará que el agua utilizada para los diferentes usos a que se refiere esta ley, satisfaga plena e invariablemente las normas de calidad; asimismo, gestionará e instrumentará las medidas que se requieran para impedir que desechos, residuos, basura, materiales y sustancias tóxicas o peligrosas, lodos resultantes del tratamiento de efluentes, contaminen las aguas y bienes públicos de jurisdicción estatal.
+2. La Secretaría vigilará que el agua utilizada para los diferentes usos a que se refiere esta ley, satisfaga plena e invariablemente las normas de calidad; asimismo, gestionará e instrumentará las medidas que se requieran para impedir que desechos, residuos, basura, materiales y sustancias tóxicas o peligrosas, lodos resultantes del tratamiento de efluentes, contaminen las aguas y bienes públicos de jurisdicción estatal.
 
-3. La Comisión determinará la capacidad de asimilación y dilución de los cuerpos receptores estatales y las cargas de contaminantes que éstos pueden recibir.
+3. La Secretaría determinará la capacidad de asimilación y dilución de los cuerpos receptores estatales y las cargas de contaminantes que éstos pueden recibir.
 
-4. La Comisión, en coordinación con las autoridades en la materia, emitirá las metas de calidad del agua y los plazos para alcanzarlas, por tramos de corriente o subcuenca que contengan aguas de jurisdicción estatal. En tal virtud, el Ejecutivo del Estado expedirá las declaratorias de los cuerpos de agua de jurisdicción estatal.
+4. La Secretaría, en coordinación con las autoridades en la materia, emitirá las metas de calidad del agua y los plazos para alcanzarlas, por tramos de corriente o subcuenca que contengan aguas de jurisdicción estatal. En tal virtud, el Ejecutivo del Estado expedirá las declaratorias de los cuerpos de agua de jurisdicción estatal.
 
 ###### Artículo 165.
 
-1. Los usuarios deberán contar con permiso de la Comisión para descargar aguas residuales en forma permanente o intermitente en cuerpos receptores estatales, previo estudio de impacto ambiental.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
-2. La Comisión está facultada para clausurar las descargas de aguas residuales en los bienes de jurisdicción estatal y solicitar a la autoridad competente que ordene la suspensión de las actividades que den origen a las descargas de aguas residuales, cuando:
+1. Los usuarios deberán contar con permiso de la Secretaría para descargar aguas residuales en forma permanente o intermitente en cuerpos receptores estatales, previo estudio de impacto ambiental.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE FEBRERO DE 2024)</small>
+
+2. La Secretaría está facultada para clausurar las descargas de aguas residuales en los bienes de jurisdicción estatal y solicitar a la autoridad competente que ordene la suspensión de las actividades que den origen a las descargas de aguas residuales, cuando:
 
 I. El responsable de la descarga no posea el permiso correspondiente, conforme lo dispone esta ley y sus reglamentos;
 
@@ -2585,11 +2617,15 @@ IV. El responsable de la descarga las diluya en mayores volúmenes de agua de pr
 
 3. Cuando proceda la suspensión prevista en el párrafo anterior, será sin perjuicio de la responsabilidad civil, penal o administrativa en que se hubiera incurrido.
 
-4. De existir la posibilidad de daño o peligro para la población y el medio ambiente y previa solicitud, la Comisión podrá ordenar medidas para realizar las acciones necesarias para contrarrestarlo; los costos que se generen serán a cargo de los responsables.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+4. De existir la posibilidad de daño o peligro para la población y el medio ambiente y previa solicitud, la Secretaría podrá ordenar medidas para realizar las acciones necesarias para contrarrestarlo; los costos que se generen serán a cargo de los responsables.
 
 ###### Artículo 166.
 
-1. Los permisos que emita la Comisión para descargar aguas residuales a cuerpos receptores de jurisdicción estatal podrán revocarse por:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE FEBRERO DE 2024)</small>
+
+1. Los permisos que emita la Secretaría para descargar aguas residuales a cuerpos receptores de jurisdicción estatal podrán revocarse por:
 
 I. Realizar la descarga en un sitio diferente al consignado en el permiso respectivo;
 
@@ -2597,11 +2633,15 @@ II. Incurrir en los supuestos que prevé el párrafo 2 del artículo anterior;
 
 III. Darse por revocada o terminada la concesión de aguas de jurisdicción estatal, cuando éstas sean las únicas que originen la descarga;
 
-IV. Variar las condiciones del título de descarga, sin autorización previa de la Comisión; y
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+IV. Variar las condiciones del título de descarga, sin autorización previa de la Secretaría; y
 
 V. Las demás que prevean las disposiciones legales.
 
-2. La revocación del permiso compete a la Comisión, la cual dará audiencia al interesado, adoptará la resolución administrativa pertinente y se la notificará oportunamente.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+2. La revocación del permiso compete a la Secretaría, la cual dará audiencia al interesado, adoptará la resolución administrativa pertinente y se la notificará oportunamente.
 
 ## TITULO OCTAVO. DE LA CULTURA DEL AGUA
 
@@ -2641,17 +2681,19 @@ V. Procurar un entorno educativo que difunda los beneficios del uso eficiente y 
 
 ### CAPITULO II. DEL CONTROL DE AVENIDAS Y PROTECCION CONTRA INUNDACIONES, SEQUIAS Y OTROS FENOMENOS EXTREMOS
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 168.
 
-La Comisión, en coordinación con las autoridades federales, estatales y municipales; organizaciones internacionales, así como con la participación de la sociedad, intervendrá en las actividades de seguridad hidráulica en el ámbito estatal y establecerá programas de contingencia para prevenir los efectos de avenidas, inundaciones, sequías y otros fenómenos extremos. Dichos programas deberán estar integrados en el Plan Estratégico de Desarrollo del Sector Agua para el Estado.
+La Secretaría, en coordinación con las autoridades federales, estatales y municipales; organizaciones internacionales, así como con la participación de la sociedad, intervendrá en las actividades de seguridad hidráulica en el ámbito estatal y establecerá programas de contingencia para prevenir los efectos de avenidas, inundaciones, sequías y otros fenómenos extremos. Dichos programas deberán estar integrados en el Plan Estratégico de Desarrollo del Sector Agua para el Estado.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 169.
 
-1. La Comisión coadyuvará con la Federación, estados y municipios en las medidas necesarias para la construcción y operación de las obras de control de avenidas, zonas inundables y obras complementarias para la protección de las personas y de sus bienes, así como para adoptar las medidas de mitigación necesarias en casos de desastres ambientales originados o vinculados con el agua.
+1. La Secretaría coadyuvará con la Federación, estados y municipios en las medidas necesarias para la construcción y operación de las obras de control de avenidas, zonas inundables y obras complementarias para la protección de las personas y de sus bienes, así como para adoptar las medidas de mitigación necesarias en casos de desastres ambientales originados o vinculados con el agua.
 
-2. La Comisión también coadyuvará con la Federación, estados y municipios, en el ámbito de sus facultades, para hacer cumplir el respeto de la vocación de los suelos, las zonas federales y las áreas de conservación natural, por considerarse fundamentales para la prevención de desastres provocados por fenómenos naturales.
+2. La Secretaría también coadyuvará con la Federación, estados y municipios, en el ámbito de sus facultades, para hacer cumplir el respeto de la vocación de los suelos, las zonas federales y las áreas de conservación natural, por considerarse fundamentales para la prevención de desastres provocados por fenómenos naturales.
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 15 DE OCTUBRE DE 2009)</small>
 
@@ -2661,17 +2703,27 @@ La Comisión, en coordinación con las autoridades federales, estatales y munici
 
 ###### Artículo 170.
 
-1. La Comisión podrá prestar el servicio de suministro de agua en bloque a los municipios y organismos operadores, en los términos de este Título, directamente o a través de terceros.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+1. La Secretaría podrá prestar el servicio de suministro de agua en bloque a los municipios y organismos operadores, en los términos de este Título, directamente o a través de terceros.
 
 2. La prestación del servicio de suministro de agua en bloque se realizará previa celebración del convenio correspondiente con el municipio u organismo operador de que se trate, en el cual se determinarán, en su caso, las aportaciones que podrán realizar los municipios y los organismos operadores para la ejecución de las obras, el caudal a suministrar, la forma de garantizar el pago de las cantidades contempladas en el convenio y las demás disposiciones y condiciones especiales a considerar en la prestación del servicio, en los términos de la legislación aplicable.
 
-3. Los municipios y organismos operadores pagarán a la Comisión por el servicio de suministro de agua en bloque, los derechos que establezca la Ley de Hacienda para el Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
-4. Los convenios que celebre la Comisión con los municipios u organismos operadores a efecto de proporcionar el servicio de suministro de agua en bloque, serán considerados de orden público e interés social.
+3. Los municipios y organismos operadores pagarán a la Secretaría por el servicio de suministro de agua en bloque, los derechos que establezca la Ley de Hacienda para el Estado de Tamaulipas.
 
-5. Para el debido cumplimiento de los convenios que se celebren para proporcionar el servicio de suministro de agua en bloque y para asegurar su capacidad financiera, la Comisión podrá aceptar como fuente o garantía de pago, de los derechos por la prestación de sus servicios, o ambas, las participaciones del municipio correspondiente derivadas de la coordinación fiscal federal o estatal.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
-6. Para el cumplimiento de sus obligaciones, la Comisión podrá otorgar al Gobierno Federal o a terceros, total o parcialmente, las garantías de pago que otorguen a su favor los municipios con los que celebre los convenios a que hace referencia el presente artículo, para hacerse efectivas en caso de incumplimiento de las obligaciones asumidas por los municipios.
+4. Los convenios que celebre la Secretaría con los municipios u organismos operadores a efecto de proporcionar el servicio de suministro de agua en bloque, serán considerados de orden público e interés social.
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+5. Para el debido cumplimiento de los convenios que se celebren para proporcionar el servicio de suministro de agua en bloque y para asegurar su capacidad financiera, la Secretaría podrá aceptar como fuente o garantía de pago, de los derechos por la prestación de sus servicios, o ambas, las participaciones del municipio correspondiente derivadas de la coordinación fiscal federal o estatal.
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+6. Para el cumplimiento de sus obligaciones, la Secretaría podrá otorgar al Gobierno Federal o a terceros, total o parcialmente, las garantías de pago que otorguen a su favor los municipios con los que celebre los convenios a que hace referencia el presente artículo, para hacerse efectivas en caso de incumplimiento de las obligaciones asumidas por los municipios.
 
 7. A fin de implementar las afectaciones a que hace referencia este artículo, los municipios podrán constituir fideicomisos o utilizar cualquier otro instrumento legal de acuerdo con la legislación aplicable.
 
@@ -2681,13 +2733,17 @@ La Comisión, en coordinación con las autoridades federales, estatales y munici
 
 ### CAPITULO I. DE LA INSPECCION Y VERIFICACION DEL USO Y APROVECHAMIENTO DE LAS AGUAS DE JURISDICCION ESTATAL
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 171.
 
-La Comisión tendrá a su cargo la inspección y verificación del uso y aprovechamiento de las aguas de jurisdicción estatal por medio del Sistema de Control de la Productividad y Calidad del Sector Agua del Estado, como se establece en el Título Quinto de esta ley.
+La Secretaría tendrá a su cargo la inspección y verificación del uso y aprovechamiento de las aguas de jurisdicción estatal por medio del Sistema de Control de la Productividad y Calidad del Sector Agua del Estado, como se establece en el Título Quinto de esta Ley.
 
 ###### Artículo 172.
 
-1. Para dar cumplimiento a las disposiciones de esta ley y su Reglamento, la Comisión, por medio del Sistema de Control de la Productividad y Calidad del Sector Agua del Estado ordenará que se realicen visitas de inspección.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+1. Para dar cumplimiento a las disposiciones de esta ley y su Reglamento, la Secretaría ordenará que se realicen visitas de inspección.
 
 2. Las visitas se efectuarán por personal debidamente autorizado. Los inspectores deberán acreditar su personalidad y exhibir la orden escrita que funde y motive su actuación.
 
@@ -2697,7 +2753,9 @@ El proceso de inspección y verificación de aguas de jurisdicción estatal, se 
 
 ###### Artículo 174.
 
-1. Los resultados de la inspección y verificación de las descargas de aguas residuales, producirán todos los efectos legales y podrán servir de base para que la Comisión y las autoridades estatales competentes, apliquen las sanciones previstas en esta ley.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+1. Los resultados de la inspección y verificación de las descargas de aguas residuales, producirán todos los efectos legales y podrán servir de base para que la Secretaría y las autoridades estatales competentes, apliquen las sanciones previstas en esta ley.
 
 2. El proceso que se instaure para la supervisión, vigilancia y fiscalización de las disposiciones contenidas en este Capítulo, se realizará en los términos que prevea la normatividad operativa para el Sector Agua del Estado.
 
@@ -2815,9 +2873,11 @@ V. Los medios indirectos de la investigación económica o de cualquier otra cla
 
 Los prestadores de los servicios públicos están facultados para realizar las acciones tendientes a impedir, obstruir o cerrar la posibilidad de descargar aguas residuales a las redes de drenaje y alcantarillado, a aquellos usuarios que incumplan con el pago respectivo y con las normas aplicables conforme lo dispuesto en la presente ley y su Reglamento.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 190.
 
-Por medio del Sistema de Control de la Productividad y Calidad del Sector Agua del Estado, la Comisión solicitará la intervención coordinada a los prestadores de servicios públicos, cuando así lo requiera para realizar las verificaciones en los términos que se establecen en este Capítulo.
+Por medio del Sistema de Control de la Productividad y Calidad del Sector Agua del Estado, la Secretaría solicitará la intervención coordinada a los prestadores de servicios públicos, cuando así lo requiera para realizar las verificaciones en los términos que se establecen en este Capítulo.
 
 ### CAPITULO III. DE LAS INFRACCIONES Y SANCIONES
 
@@ -2885,9 +2945,13 @@ IV. Con multa por el equivalente de cien a quinientas veces el valor diario de l
 
 2. Para sancionar las faltas anteriores, se calificarán las infracciones tomando en consideración la gravedad de la falta, los daños causados, las condiciones económicas del infractor y la reincidencia.
 
-3. Los infractores señalados en la fracción XIX del artículo anterior, perderán en beneficio del Ayuntamiento, del organismo operador o, en su caso, de la Comisión, las obras ejecutadas, las instalaciones establecidas y todos los bienes muebles o inmuebles dedicados a la prestación de los servicios públicos, sin perjuicio de la aplicación de la multa señalada en la fracción IV del párrafo 1 de este artículo. El Ayuntamiento, el organismo operador o, en su caso, la Comisión podrá solicitar a la autoridad correspondiente el desalojo de los infractores y, en su caso, que se realice la demolición de las obras e instalaciones por cuenta del infractor.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
-4. Una vez que el Ayuntamiento, el organismo operador o, en su caso, la Comisión tenga conocimiento de lo anterior y en tanto se dicta la resolución definitiva, solicitará a la autoridad correspondiente el aseguramiento de las obras ejecutadas y las instalaciones establecidas.
+3. Los infractores señalados en la fracción XIX del artículo anterior, perderán en beneficio del Ayuntamiento, del organismo operador o, en su caso, de la Secretaría, las obras ejecutadas, las instalaciones establecidas y todos los bienes muebles o inmuebles dedicados a la prestación de los servicios públicos, sin perjuicio de la aplicación de la multa señalada en la fracción IV del párrafo 1 de este artículo. El Ayuntamiento, el organismo operador o, en su caso, la Comisión podrá solicitar a la autoridad correspondiente el desalojo de los infractores y, en su caso, que se realice la demolición de las obras e instalaciones por cuenta del infractor.
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+4. Una vez que el Ayuntamiento, el organismo operador o, en su caso, la Secretaría tenga conocimiento de lo anterior y en tanto se dicta la resolución definitiva, solicitará a la autoridad correspondiente el aseguramiento de las obras ejecutadas y las instalaciones establecidas.
 
 ###### Artículo 193.
 
@@ -2955,29 +3019,29 @@ La reincidencia del prestador de los servicios públicos en incumplir con lo dis
 
 ###### Artículo 199.
 
-1. Contra los actos y resoluciones definitivos de los Ayuntamientos, organismos operadores y la Comisión, el afectado podrá promover el recurso administrativo de revocación o acudir ante el Tribunal Fiscal del Estado.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
-2. El recurso se interpondrá por el afectado ante la propia autoridad, dentro de los cinco días hábiles siguientes al de su notificación.
+1. Contra los actos y resoluciones definitivos de los Ayuntamientos, organismos operadores y la Secretaría, el afectado podrá promover el recurso administrativo de revisión previsto en el Título Cuarto de la Ley de Procedimiento Administrativo para el Estado de Tamaulipas o, cuando proceda, la vía jurisdiccional que corresponda.
 
-3. Dentro del recurso se admitirá toda clase de pruebas, excepto la confesional, la testimonial y las que atenten contra la moral y las buenas costumbres.
+2. (DEROGADO, P.O. 21 DE FEBRERO DE 2024)
 
-4. La interposición del recurso de revocación suspenderá la ejecución de la resolución recurrida, cuando se otorgue garantía suficiente para proteger el interés público.
+3. (DEROGADO, P.O. 21 DE FEBRERO DE 2024)
+
+4. (DEROGADO, P.O. 21 DE FEBRERO DE 2024)
 
 ###### Artículo 200.
 
-1. Recibido el recurso, la autoridad receptora notificará personalmente al promovente la fecha de celebración de la audiencia para la substanciación del recurso, misma que deberá llevarse al cabo dentro de los diez días hábiles siguientes al de su interposición.
-
-2. Al verificarse la audiencia, si se promovieron pruebas se calificará su procedencia y, en su caso, se desahogarán. La audiencia concluirá con la expresión de agravios que formule el promovente del recurso.
-
-3. Celebrada la audiencia, la autoridad emitirá nueva resolución confirmando, modificando o revocando la anterior, dentro de los diez días hábiles siguientes al de la misma, la cual notificará personalmente de inmediato al recurrente.
+(DEROGADO, P.O. 21 DE FEBRERO DE 2024)
 
 ###### Artículo 201.
 
-Las resoluciones que resuelvan el recurso administrativo de revocación podrán impugnarse ante el Tribunal Fiscal del Estado.
+(DEROGADO, P.O. 21 DE FEBRERO DE 2024)
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 202.
 
-Contra los actos dictados dentro del procedimiento administrativo de ejecución que apliquen los organismos operadores o, en su defecto, la Comisión, procederán los medios de impugnación que establece el Código Fiscal del Estado.
+Contra los actos dictados dentro del procedimiento administrativo de ejecución que se apliquen de acuerdo a esta Ley, procederán los medios de impugnación que establece el Código Fiscal del Estado o cuando proceda la vía jurisdiccional que corresponda.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 14 DE JULIO DE 2016)</small>
 
@@ -2987,25 +3051,41 @@ Contra los actos dictados dentro del procedimiento administrativo de ejecución 
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
-
 ###### Artículo 203.
 
-La Comisión a fin de garantizar el suministro de agua en cantidad y calidad adecuadas a la población del Estado, realizará la investigación y desarrollo de nuevas tecnologías en el uso y aprovechamiento de este recurso para la prestación de servicios públicos así como, el registro de lo que realicen instituciones afines mediante las actividades siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+La Secretaría a fin de garantizar el suministro de agua en cantidad y calidad adecuada a la población del Estado, realizará la investigación y desarrollo de nuevas tecnologías en el uso y aprovechamiento de este recurso para la prestación de servicios públicos así como, el registro de lo que realicen instituciones afines mediante las actividades siguientes:
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
 
 I. La investigación y desarrollo de nuevas tecnologías en el uso y aprovechamiento del agua para la prestación de los servicios públicos en coordinación con instituciones de educación superior, así como el registro de los avances que sobre la materia logre el Instituto Mexicano de Tecnología del Agua y otras instituciones afines e impulsar su aplicación, difusión y transferencia;
 
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
+
 II. La orientación y coordinación con instituciones de educación superior en la ejecución de programas de investigación, desarrollo tecnológico, consultoría especializada, información técnica, formación y capacitación de alto nivel en materia de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, de geohidrología, hidrología e hidráulica de acuíferos y ríos del Estado para atender la demanda de los servicios públicos y asegurar el aprovechamiento y manejo sustentable e integral del agua para los mismos;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
 
 III. Fortalecer los centros e instituciones de investigación y docencia orientados a la investigación, desarrollo, adaptación, innovación y transferencia tecnológica en la materia;
 
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
+
 IV. Fomentar, a través de convenios que al efecto celebre con los centros e instituciones de investigación y docencia del Estado, acciones de investigación y desarrollo tecnológico en materia de agua, incluyendo su difusión, y la formación, actualización y capacitación de recursos humanos;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
 
 V. La exploración de fuentes no tradicionales y de innovación tecnológica de abastecimiento de agua;
 
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
+
 VI. El establecimiento en coordinación con las autoridades competentes de los mecanismos de regulación para el cumplimiento de normas y certificar la calidad del equipo y maquinaria asociados al uso y aprovechamiento del agua; la promoción de la cultura del agua, considerando este bien como un recurso vital, escaso y que requiere el cuidado de su calidad y desarrollo sustentable;
 
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
+
 VII. La participación con autoridades competentes en la elaboración de proyectos de normas sobre calidad del agua y en la acreditación de laboratorios; el establecimiento de indicadores de gestión en el ámbito de competencia estatal; y
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
 
 VIII. La elaboración y coordinación de los demás programas y proyectos análogos para la evaluación de los mismos.
 
@@ -3312,3 +3392,23 @@ P.O. 27 DE NOVIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE FEBRERO DE 2024.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Consejos de Administración de los organismos operadores estatales, municipales e intermunicipales deberán realizar las adecuaciones de integración a efecto de dar cumplimiento a lo establecido en los artículos 28, fracción III y 29, fracción II del presente Decreto, en un plazo que no exceda los treinta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Finanzas deberá realizar las adecuaciones administrativas necesarias para dar cumplimiento a lo establecido en los artículos 6, fracción IX; 25, fracciones XII y XIII; 32, fracción VIII; y 34, fracciones VII y VIII, en un plazo que no exceda los 30 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+## [N. DE E. TRANSITORIOS DEL ”DECRETO NO. 65-813 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS”.]
