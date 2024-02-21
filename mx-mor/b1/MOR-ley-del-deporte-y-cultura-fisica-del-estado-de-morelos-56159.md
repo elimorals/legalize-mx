@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-deporte-y-cultura-fisica-del-estado-de-morelos-56159"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2024-02-14"
+last_updated: "2024-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de julio de 2007.
 
@@ -49,13 +49,11 @@ LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
 Las disposiciones contenidas en la presente Ley son de orden público e interés social y tienen por objeto normar las actividades tendientes a fomentar y desarrollar el deporte y la cultura física en el Estado de Morelos; a establecer el Sistema Estatal del Deporte y Cultura Física, así como, a constituir las bases generales de coordinación y colaboración entre el Estado y los Municipios, la concertación para la participación de los sectores social y privado, en materia del deporte y la cultura física.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 2.
 
-La función social del deporte y de la Cultura Física es la de fortalecer y fomentar la interacción e integración del ser humano con la sociedad, para desarrollar de manera armónica las capacidades intelectuales, afectivas y motrices de las personas y contribuir a promover la solidaridad como valor social y elevar el nivel cultural, de competición y de competitividad deportiva de los morelenses en todas sus manifestaciones y expresiones, garantizando la igualdad de oportunidades dentro de los programas y acciones que en materia del deporte y la cultura física se implementen en el Estado, sin distinción de origen étnico, género, edad, discapacidad, condición social, económica y cultural, religión, opiniones, orientación sexual o estado civil.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
+La función social del deporte, la Cultura Física y la activación física es la de fortalecer y fomentar la interacción e integración del ser humano con la sociedad, para desarrollar de manera armónica las capacidades intelectuales, afectivas y motrices de las personas; así como para preservar la salud, prevenir enfermedades, adicciones y el consumo de sustancias psicoactivas, para contribuir a promover la solidaridad como valor social y elevar el nivel cultural, de competición y de competitividad deportiva de los morelenses en todas sus manifestaciones y expresiones, garantizando la igualdad de oportunidades dentro de los programas y acciones que en materia del deporte y la cultura física se implementen en el Estado, sin distinción de origen étnico, género, edad, discapacidad, condición social, económica y cultural, religión, opiniones, orientación sexual o estado civil.
 
 Así como promover las medidas preventivas necesarias para erradicar la violencia, así como la implementación de sanciones a quienes la ejerzan, lo anterior sin perjuicio de las responsabilidades penales y civiles a que haya lugar.
 
@@ -805,7 +803,9 @@ Los sistemas municipales coordinarán obligatoriamente sus actividades para apli
 
 Los Ayuntamientos tendrán las facultades y obligaciones siguientes:
 
-I. Promover y organizar en sus respectivas circunscripciones, actividades y prácticas físico-deportivas;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+I. Promover y organizar en sus respectivas circunscripciones, actividades y prácticas físico-deportivas para la población, con énfasis en los niños, niñas y adolescentes, con el objeto de contribuir a la prevención y control del sobrepeso y obesidad, así como al mejoramiento de su estado físico y psicológico, para el pleno desarrollo social y cultural
 
 II. Constituir un Comité Municipal del Deporte, presidido preferentemente por un Licenciado en cualquiera de las siguientes especialidades: Educación Física, Organización Deportiva, Entrenamiento Deportivo o Administración del Deporte, conformado por los integrantes del Sistema Municipal del Deporte;
 
@@ -2074,6 +2074,38 @@ Remítase el presente decreto al titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
+
+P.O. 21 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL SEISCIENTOS QUINCE POR EL QUE SE REFORMA EL ARTÍCULO SEGUNDO DE LA LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS, CON LA FINALIDAD DE PRESERVAR LA SALUD, PREVENIR ENFERMEDADES, ADICCIONES Y EL CONSUMO DE SUSTANCIAS PSICOACTIVAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
+
+P.O. 21 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL SEISCIENTOS DIECISIETE.- POR EL QUE SE REFORMA LA FRACCIÓN I, DEL ARTÍCULO 51 DE LA LEY DEL DEPORTE Y CULTURA FÍSICA PARA EL ESTADO DE MORELOS.]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad” órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad” órgano de difusión del Gobierno del Estado de Morelos.
 
 ###### ARTÍCULO TERCERO.
 
