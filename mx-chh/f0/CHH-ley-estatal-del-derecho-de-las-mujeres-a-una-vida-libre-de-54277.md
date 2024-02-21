@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-del-derecho-de-las-mujeres-a-una-vida-libre-de-5427
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-24"
-last_updated: "2024-01-10"
+last_updated: "2024-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2024.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
 
@@ -212,6 +212,18 @@ Se entenderá que las acciones u omisiones se basan en elementos de género, cua
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2020)</small>
 
 Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+VII. Violencia digital: Es toda acción dolosa realizada mediante el uso de tecnologías de la información y la comunicación, por la que se exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta imágenes, audios o videos reales o simulados de contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación o sin su autorización y que le cause daño moral, psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VII, P.O. 21 DE FEBRERO DE 2024]</small>
+
+Así como aquellos actos dolosos que causen daño a la intimidad, privacidad y/o dignidad de las mujeres, que se cometan por medio de las tecnologías de la información y la comunicación.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VII, P.O. 21 DE FEBRERO DE 2024]</small>
+
+Se entenderá por Tecnologías de la Información y la Comunicación, aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos.
 
 > <small>(ADICIONADO, P.O. 6 DE MARZO DE 2010)</small>
 
@@ -1664,3 +1676,11 @@ El Artículo Octavo del presente Decreto, entrará en vigor al año de su public
 ###### ARTÍCULO TERCERO.
 
 Los artículos Undécimo y Decimocuarto del presente Decreto, entrarán en vigor a los 180 días posteriores a su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0814/2023 I P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 6, LA FRACCIÓN VII, DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
