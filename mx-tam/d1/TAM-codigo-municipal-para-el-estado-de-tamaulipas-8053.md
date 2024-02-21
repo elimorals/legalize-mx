@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2023-12-11"
+last_updated: "2024-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -805,11 +805,15 @@ LXV.- Establecer mecanismos para coadyuvar con el Gobierno Estatal en la consoli
 
 LXVI.- Proponer al Ejecutivo Estatal sus necesidades presupuestarias para la ejecución de los programas de igualdad;
 
-> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
-LXVII.- Brindar y garantizar a las y los periodistas un trato digno, en condiciones de igualdad y no discriminación, a fin de que tengan acceso a la información derivada de la actividad municipal y estén en condiciones del pleno ejercicio de su labor informativa; y
+LXVII.- Brindar y garantizar a las y los periodistas un trato digno, en condiciones de igualdad y no discriminación, a fin de que tengan acceso a la información derivada de la actividad municipal y estén en condiciones del pleno ejercicio de su labor informativa;
 
-LXVIII.- Las demás que determina este Código o cualquier otra ley y sus reglamentos.
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+LXVIII.- Coordinar acciones con las autoridades competentes para la atención de animales abandonados en la vía pública, a efecto de canalizarlos a los centros de control animal, refugios o criaderos legalmente establecidos o a las instalaciones para el resguardo de animales de las asociaciones protectoras de animales legalmente constituidas y registradas. De igual forma, establecer en coordinación con la Secretaría de Salud del Estado, campañas de vacunación antirrábica, campañas sanitarias para el control y erradicación de enfermedades zoonóticas, de desparasitación y de esterilización; y
+
+LXIX.- Las demás que determina este Código o cualquier otra ley y sus reglamentos.
 
 ###### ARTICULO 50.
 
@@ -1489,7 +1493,11 @@ Las irregularidades derivadas de la elaboración del referido padrón se demostr
 
 X.- Contar con área directiva encargada de implementar el programa municipal obligatorio de reforestación urbana y con facultades de verificar la observancia normativa y reglamentaria sobre las obligaciones de los desarrolladores inmobiliarios de contar con áreas verdes y jardines suficientes en estos proyectos.
 
-XI.- Las demás previstas en las leyes y reglamentos.
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+XI.- Promover y facilitar la adopción de áreas verdes.
+
+XII.- Las demás previstas en las leyes y reglamentos.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2007)</small>
 
@@ -7088,6 +7096,22 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 11 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 65-742 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO ÚNICO Y SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN XX, DEL ARTÍCULO 49, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-815 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN XI, RECORRIÉNDOSE LA ACTUAL EN SU ORDEN NATURAL, AL ARTÍCULO 73 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-816 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN LXVII Y SE ADICIONA UNA FRACCIÓN LXVIII, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE PARA SER LXIX DEL ARTÍCULO 49, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
