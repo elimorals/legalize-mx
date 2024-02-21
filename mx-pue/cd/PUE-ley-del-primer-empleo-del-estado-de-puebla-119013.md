@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-primer-empleo-del-estado-de-puebla-119013"
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-13"
-last_updated: "2022-12-20"
+last_updated: "2024-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL PRIMER EMPLEO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de enero de 2017.
 
@@ -99,11 +99,11 @@ XVI. Trabajador de primer empleo.- Trabajador que no tenga registro previo de as
 
 ### CAPÍTULO II. DEL SERVICIO SOCIAL Y LAS PRÁCTICAS PROFESIONALES
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 5.
 
-La Secretaría expedirá los lineamientos generales para que los interesados que realicen su servicio social o prácticas profesionales puedan acceder a espacios laborales existentes y a programas de fomento al primer empleo.
+La Secretaría expedirá los lineamientos generales para que las y los interesados que realicen su servicio social o prácticas profesionales puedan acceder a espacios laborales existentes y a programas de fomento al primer empleo procurando sin distinción, la igualdad de género, y la inclusión en términos de lo que establece el artículo 1° de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
@@ -125,9 +125,11 @@ En la relación de trabajo con las personas que se incorporan a su primer empleo
 
 Los patrones que contraten a trabajadores de primer empleo para ocupar puestos de nueva creación, tendrán derecho a un estímulo relacionado con el Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal. La determinación del estímulo respecto de dicho impuesto se efectuará de manera individual por cada trabajador de primer empleo, y será aplicado por las Autoridades Fiscales que para tal efecto señale la legislación de la materia.
 
-> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
-ARTÍCULO 8 BIS.- Las contrataciones deberán tener relación, entre la profesión, carrera técnica u oficio, acreditado por las personas, el cual no podrán otorgar a éste un salario menor al que perciben los demás empleados que desempeñen las mismas funciones.
+ARTÍCULO 8 BIS.- Las contrataciones deberán tener relación, entre la profesión, carrera técnica u oficio, acreditado por las personas, el cual no podrán otorgar a éste un salario menor, al que perciben los demás empleados o empleadas que desempeñen las mismas funciones, ni exigir una jornada laboral de mayor duración bajo las mismas condiciones y funciones.
+
+La Secretaría debe garantizar que en las contrataciones fomenten y respeten el trabajo digno o decente, bajo los criterios establecidos en la Ley Federal del Trabajo y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 9.
 
@@ -278,5 +280,13 @@ P.O. 20 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA EL ARTÍCULO 12 BIS A LA LEY DEL PRIMER EMPLEO DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 5 Y 8 BIS DE LA LEY DEL PRIMER EMPLEO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
