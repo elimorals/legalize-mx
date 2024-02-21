@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2023-11-22"
+last_updated: "2024-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2024.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -1245,7 +1245,9 @@ La Secretaría, en coordinación con las autoridades federales competentes, impu
 
 Los aspectos docentes del internado de pregrado y de las residencias de especialización, se regirán por lo que establezcan las instituciones de educación superior, y deberán contribuir al logro de los objetivos de los Sistemas Nacional y Estatal de Salud, de conformidad con las atribuciones que les otorguen las disposiciones que rigen su organización y funcionamiento y lo que determinen las autoridades educativas competentes.
 
-La operación de los programas correspondientes en los establecimientos de salud, se llevará a cabo de acuerdo a los lineamentos establecidos por cada una de las instituciones de salud y lo que determinen las autoridades sanitarias competentes.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+La operación de los programas correspondientes en los establecimientos de salud, se llevará a cabo observando el respeto irrestricto a la dignidad y los derechos humanos de las personas que los cursan, de acuerdo con los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen las autoridades sanitarias competentes.
 
 ###### Artículo 107.
 
@@ -4114,6 +4116,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 22 DE NOVIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0625/2023 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 202 DE LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0651/2023 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 106, SEGUNDO PÁRRAFO, DE LA LEY ESTATAL DE SALUD".]
 
 ###### ARTÍCULO ÚNICO.
 
